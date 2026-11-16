@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
+  <title>Centapillion · the daily dig</title>
+  <meta name="description" content="Seven prompts a day. 45 seconds each. Name up to five answers. Rarer answers dig deeper.">
+  <meta name="theme-color" content="#1a0f0a">
+  <meta property="og:title" content="Centapillion · the daily dig">
+  <meta property="og:description" content="one in a centapillion. Rarer answers dig deeper.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%90%9B%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Silkscreen:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <canvas id="world" aria-hidden="true"></canvas>
+  <canvas id="hud" aria-hidden="true"></canvas>
+
+  <header class="topbar">
+    <a class="brand" href="#/" aria-label="Centapillion home">
+      <img class="px brand-icon" id="brandIcon" alt="" width="28" height="28">
+      <span>CENTAPILLION</span>
+    </a>
+    <nav class="topnav" aria-label="Game menu">
+      <button type="button" class="icon-btn" data-open="howto" title="How to play" aria-label="How to play">?</button>
+      <button type="button" class="icon-btn" data-open="archive" title="Archive" aria-label="Archive">⟲</button>
+      <button type="button" class="icon-btn" data-open="stats" title="Stats" aria-label="Stats">▥</button>
+      <button type="button" class="icon-btn" id="muteBtn" title="Sound" aria-label="Toggle sound">♪</button>
+      <button type="button" class="icon-btn" data-open="settings" title="Settings" aria-label="Settings">⚙</button>
+    </nav>
+  </header>
+
+  <!-- in-game HUD -->
+  <section id="play" class="play" hidden>
+    <div class="play-top">
+      <div class="round-label" id="roundLabel">ROUND 1 / 7</div>
+      <div class="scorebox"><b id="scoreNow">0</b><span> PTS</span><small id="depthNow">0 m</small></div>
+    </div>
+    <h1 class="prompt" id="promptText"></h1>
+    <div class="timer" id="timer" role="timer" aria-live="off">
+      <div class="timer-bar"><i id="timerFill"></i></div>
+      <span class="timer-num" id="timerNum">45</span>
+    </div>
+    <ol class="slots" id="slots" aria-label="Your answers this round"></ol>
+    <div class="countdown" id="countdown" aria-live="assertive"></div>
+    <div class="landed" id="landed" aria-live="polite"></div>
+  </section>
+
+  <form id="dock" class="dock" hidden autocomplete="off">
+    <div class="dock-msg" id="dockMsg" aria-live="polite"></div>
+    <div class="correction" id="correction" role="status" aria-live="polite"></div>
+    <div class="dock-row">
+      <input id="answer" type="text" maxlength="80" spellcheck="false" autocapitalize="off" autocorrect="off" enterkeyhint="send" placeholder="type an answer…" aria-label="Your answer">
+      <button type="submit" class="btn-dig" id="digBtn">DIG ▼</button>
+    </div>
+    <button type="button" class="btn-link" id="endRoundBtn">I'm out of answers · end round →</button>
+  </form>
+
+  <!-- intro, between-round and results panels -->
+  <main id="panel" class="panel-wrap"></main>
+
+  <dialog id="modal" class="modal">
+    <div class="modal-inner">
+      <button type="button" class="modal-close" id="modalClose" aria-label="Close">✕</button>
+      <div id="modalBody"></div>
+    </div>
+  </dialog>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script src="js/data.js"></script>
+  <script src="js/engine.js"></script>
+  <script src="js/sprites.js"></script>
+  <script src="js/scene.js"></script>
+  <script src="js/audio.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
