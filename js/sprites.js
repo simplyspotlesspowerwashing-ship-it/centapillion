@@ -48,9 +48,9 @@
   }
 
   var DRAW = {
-    // Earthworm: pink S-curve of discs.
-    p: function (ctx, gold) {
-      var body = gold ? "#ffd166" : "#ff8fa3", hi = gold ? "#fff1b8" : "#ffc2cf", band = gold ? "#c98f2a" : "#d45a77";
+    // Common: a pale earthworm, the first thing any shovel turns up.
+    p: function (ctx) {
+      var body = "#e8ecf4", hi = "#ffffff", band = "#9aa6b8";
       var pts = [];
       for (var i = 0; i < 9; i++) pts.push([5 + i * 1.9, 16 + Math.sin(i * 0.8) * 4]);
       pts.forEach(function (p) { disc(ctx, p[0], p[1], 3, OUT); });
@@ -58,9 +58,9 @@
       var h = pts[pts.length - 1];
       px(ctx, h[0] + 1, h[1] - 1, OUT);
     },
-    // Fool's Gold: pyrite nugget with a sly face.
-    c: function (ctx, gold) {
-      var f = gold ? "#ffe9a8" : "#e6c84a", d = gold ? "#ffd166" : "#a8892a", hi = "#fff7d0";
+    // Too Clever: a pyrite nugget with a smug face.
+    c: function (ctx) {
+      var f = "#ff9f43", d = "#c86a1a", hi = "#ffe0b8";
       var pts = [[8, 18], [12, 11], [18, 9], [23, 13], [24, 19], [19, 24], [12, 24]];
       ctx.fillStyle = OUT; ctx.beginPath(); ctx.moveTo(pts[0][0] - 1, pts[0][1]);
       pts.forEach(function (p) { ctx.lineTo(p[0], p[1]); }); ctx.closePath(); ctx.fill();
@@ -70,12 +70,12 @@
       px(ctx, 14, 16, OUT); px(ctx, 19, 16, OUT);
       line(ctx, 14, 20, 19, 19, OUT);
     },
-    // Beetle: oval shell, split wings, six legs.
-    s: function (ctx, gold) {
-      var shell = gold ? "#ffd166" : "#3fae4f", hi = gold ? "#fff1b8" : "#8ef59a", head = gold ? "#c98f2a" : "#1f5a2a";
-      [[-1, 0], [0, 0], [1, 0]].forEach(function (o, i) {
+    // Uncommon: a blue ground beetle.
+    s: function (ctx) {
+      var shell = "#4de3ff", hi = "#d8f6ff", head = "#1f6f8e";
+      [0, 1, 2].forEach(function (i) {
         var y = 14 + i * 4;
-        line(ctx, 9, y, 5, y + o[0] * 2 + 1, OUT); line(ctx, 23, y, 27, y + o[0] * 2 + 1, OUT);
+        line(ctx, 9, y, 5, y + i - 1, OUT); line(ctx, 23, y, 27, y + i - 1, OUT);
       });
       outlined(ellipse, ctx, [16, 18, 7, 8], shell);
       line(ctx, 16, 11, 16, 26, OUT);
@@ -83,21 +83,27 @@
       line(ctx, 14, 6, 12, 3, OUT); line(ctx, 18, 6, 20, 3, OUT);
       px(ctx, 12, 14, hi); px(ctx, 13, 13, hi); px(ctx, 19, 14, hi); px(ctx, 20, 13, hi);
     },
-    // Mole: round velvet body, pink snout, big digging claws.
-    r: function (ctx, gold) {
-      var fur = gold ? "#ffd166" : "#5a4a6a", hi = gold ? "#fff1b8" : "#8a7a9a", nose = "#ff8fa3", claw = gold ? "#c98f2a" : "#ffe9a8";
-      outlined(disc, ctx, [16, 18, 9], fur);
-      disc(ctx, 13, 14, 3, hi);
-      outlined(disc, ctx, [16, 25, 3], nose);
-      px(ctx, 12, 18, OUT); px(ctx, 20, 18, OUT);
-      outlined(ellipse, ctx, [6, 22, 3, 2], nose);
-      outlined(ellipse, ctx, [26, 22, 3, 2], nose);
-      [3, 5, 7].forEach(function (x) { px(ctx, x, 25, claw); px(ctx, x, 26, claw); });
-      [25, 27, 29].forEach(function (x) { px(ctx, x, 25, claw); px(ctx, x, 26, claw); });
+    // Rare: a ruby crystal cluster in a lump of rock.
+    r: function (ctx) {
+      var rock = "#5a4a3a", ruby = "#ff5252", dark = "#8c2431", hi = "#ffc2c2";
+      outlined(ellipse, ctx, [16, 24, 10, 4], rock);
+      function crystal(x, top, w, col) {
+        for (var y = top; y < 24; y++) {
+          var half = Math.min(w, Math.floor((y - top) * 0.8) + 1);
+          ctx.fillStyle = OUT; ctx.fillRect(x - half - 1, y, half * 2 + 3, 1);
+        }
+        for (var y2 = top + 1; y2 < 24; y2++) {
+          var h2 = Math.min(w, Math.floor((y2 - top) * 0.8));
+          ctx.fillStyle = col; ctx.fillRect(x - h2, y2, h2 * 2 + 1, 1);
+          ctx.fillStyle = dark; ctx.fillRect(x + 1, y2, Math.max(0, h2), 1);
+        }
+        px(ctx, x - 1, top + 3, hi); px(ctx, x - 1, top + 4, hi);
+      }
+      crystal(10, 13, 2, ruby); crystal(22, 12, 2, ruby); crystal(16, 5, 3, ruby);
     },
-    // Magma Wyrm: molten segmented serpent with horns.
-    d: function (ctx, gold) {
-      var a = gold ? "#ffd166" : "#ff6b3d", b = gold ? "#fff1b8" : "#ffb000", c2 = gold ? "#c98f2a" : "#8a1e0c";
+    // Deep Cut: an amethyst wyrm from the crystal caves.
+    d: function (ctx) {
+      var a = "#9d7bff", b = "#e2d8ff", c2 = "#463a68";
       var pts = [];
       for (var i = 0; i < 7; i++) pts.push([7 + i * 3, 21 - Math.sin(i * 0.9) * 5]);
       pts.forEach(function (p, i) { disc(ctx, p[0], p[1], 3 + (i > 4 ? 1 : 0), OUT); });
@@ -106,12 +112,9 @@
       line(ctx, h[0] - 1, h[1] - 4, h[0] - 3, h[1] - 8, OUT);
       line(ctx, h[0] + 2, h[1] - 4, h[0] + 3, h[1] - 8, OUT);
       px(ctx, h[0] + 1, h[1] - 1, "#ffffff");
-      px(ctx, h[0] + 4, h[1] + 1, b); px(ctx, h[0] + 5, h[1] + 1, a);
     },
-    // Centapillion: the mascot. Segmented centipede with legs and antennae.
-    k: function (ctx, gold) {
-      drawCentipede(ctx, gold);
-    }
+    // One in a Centapillion: the golden centipede.
+    k: function (ctx) { drawCentipede(ctx, true); }
   };
 
   function drawCentipede(ctx, gold) {
@@ -155,5 +158,11 @@
     return img;
   }
 
-  CP.sprites = { tierSprite: tierSprite, tierImg: tierImg, disc: disc, line: line, px: px };
+  var images = {};
+  function tierImage(tier) {
+    if (!images[tier] && typeof Image !== "undefined") { images[tier] = new Image(); images[tier].src = tierSprite(tier); }
+    return images[tier];
+  }
+
+  CP.sprites = { tierSprite: tierSprite, tierImg: tierImg, tierImage: tierImage, disc: disc, line: line, px: px };
 })(typeof window !== "undefined" ? window : globalThis);

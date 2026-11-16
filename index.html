@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
   <title>Centapillion · the daily dig</title>
-  <meta name="description" content="Seven prompts a day. 45 seconds each. Name up to five answers. Rarer answers dig deeper.">
+  <meta name="description" content="Seven prompts a day. 30 seconds each. Name as many answers as you can. Rarer answers dig deeper.">
   <meta name="theme-color" content="#1a0f0a">
   <meta property="og:title" content="Centapillion · the daily dig">
   <meta property="og:description" content="one in a centapillion. Rarer answers dig deeper.">
@@ -41,9 +41,9 @@
     <h1 class="prompt" id="promptText"></h1>
     <div class="timer" id="timer" role="timer" aria-live="off">
       <div class="timer-bar"><i id="timerFill"></i></div>
-      <span class="timer-num" id="timerNum">45</span>
+      <span class="timer-num" id="timerNum">30</span>
     </div>
-    <ol class="slots" id="slots" aria-label="Your answers this round"></ol>
+    <div class="haul" id="haul" aria-label="Your answers this round" aria-live="polite"></div>
     <div class="countdown" id="countdown" aria-live="assertive"></div>
     <div class="landed" id="landed" aria-live="polite"></div>
   </section>
@@ -55,11 +55,11 @@
       <input id="answer" type="text" maxlength="80" spellcheck="false" autocapitalize="off" autocorrect="off" enterkeyhint="send" placeholder="type an answer…" aria-label="Your answer">
       <button type="submit" class="btn-dig" id="digBtn">DIG ▼</button>
     </div>
-    <button type="button" class="btn-link" id="endRoundBtn">I'm out of answers · end round →</button>
+    <button type="button" class="btn-link" id="endRoundBtn">out of ideas · end round →</button>
   </form>
 
   <!-- intro, between-round and results panels -->
-  <main id="panel" class="panel-wrap"></main>
+  <main id="panel" class="panel-wrap"><p class="loading">digging…</p></main>
 
   <dialog id="modal" class="modal">
     <div class="modal-inner">
@@ -71,6 +71,11 @@
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
   <script src="js/data.js"></script>
+  <script src="js/data2.js"></script>
+  <script src="js/data3.js"></script>
+  <script src="js/data4.js"></script>
+  <script src="js/data5.js"></script>
+  <script src="js/data6.js"></script>
   <script src="js/engine.js"></script>
   <script src="js/sprites.js"></script>
   <script src="js/scene.js"></script>

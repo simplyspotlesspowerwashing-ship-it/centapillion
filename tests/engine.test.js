@@ -1,7 +1,10 @@
 // Run with: node tests/engine.test.js
 const assert = require("node:assert/strict");
 const path = require("node:path");
-require(path.join(__dirname, "../js/data.js"));
+for (const f of ["data.js", "data2.js", "data3.js", "data4.js", "data5.js", "data6.js"]) {
+  const fp = path.join(__dirname, "../js", f);
+  if (require("node:fs").existsSync(fp)) require(fp);
+}
 const CP = require(path.join(__dirname, "../js/engine.js"));
 const E = CP.engine;
 const BANK = CP.PROMPTS;
@@ -32,7 +35,7 @@ for (const p of BANK) {
     const clashes = [];
     for (const t of CP.TIER_IDS) {
       for (const entry of p.t[t].split("|")) {
-        const names = entry.split("=").map(s => s.trim()).filter(Boolean);
+        const names = entry.split("::")[0].split("=").map(s => s.trim()).filter(Boolean);
         assert.ok(names.length, "empty entry in tier " + t);
         const own = new Set();
         for (const n of names) {
@@ -47,11 +50,28 @@ for (const p of BANK) {
     }
     assert.deepEqual(clashes, []);
   });
+  test(`[${p.id}] the gem is not a longer spelling of another answer`, () => {
+    const idx = E.indexFor(p);
+    const gem = idx.answers.find(a => a.tier === "k");
+    assert.ok(gem.quip, "gem has no quip");
+    const bad = [];
+    for (const a of idx.answers) {
+      if (a === gem) continue;
+      for (const k of a.keys) for (const g of gem.keys) {
+        if (k.length >= 4 && g !== k && (g.startsWith(k) || k.startsWith(g))) bad.push(`${a.name} (${a.tier}) ~ ${gem.name}`);
+      }
+    }
+    assert.deepEqual([...new Set(bad)], []);
+  });
+  test(`[${p.id}] has a krillion-sized answer set`, () => {
+    const n = E.indexFor(p).answers.length;
+    assert.ok(n >= 30, n + " answers");
+  });
   test(`[${p.id}] every answer can be looked up by its own name`, () => {
     for (const a of E.indexFor(p).answers) {
       const hit = E.lookup(p, a.name);
       assert.ok(hit, a.name + " not found");
-      assert.equal(hit.id, a.id, a.name + " resolved to " + hit.name);
+      assert.ok(hit === a, a.name + " (" + a.tier + ") resolved to " + hit.name + " (" + hit.tier + ")");
     }
   });
 }
@@ -179,26 +199,61 @@ test("random prompts are 7 distinct", () => {
 });
 
 // ---------- scoring ----------
+test("tier points and colours follow the white, orange, blue, red, purple, gold ladder", () => {
+  assert.deepEqual(CP.TIER_IDS.map(t => CP.TIERS[t].score), [10, 15, 30, 60, 85, 100]);
+  assert.deepEqual(CP.TIER_IDS.map(t => CP.TIERS[t].color), ["#e8ecf4", "#ff9f43", "#4de3ff", "#ff5252", "#9d7bff", "#ffd166"]);
+  assert.deepEqual(CP.TIER_IDS.map(t => CP.TIERS[t].name), ["Common", "Too Clever", "Uncommon", "Rare", "Deep Cut", "One in a Centapillion"]);
+});
+
+test("accepted answers carry their tier's points", () => {
+  for (const p of BANK) for (const a of E.indexFor(p).answers) assert.equal(a.score, CP.TIERS[a.tier].score);
+  const dog = BANK.find(p => p.id === "dog");
+  assert.equal(E.judge(dog, "labrador", []).answer.score, 10);
+  assert.equal(E.judge(dog, "pug", []).answer.score, 30);
+  assert.equal(E.judge(dog, "akita", []).answer.score, 60);
+  assert.equal(E.judge(dog, "komondor", []).answer.score, 85);
+  assert.equal(E.judge(dog, "peruvian inca orchid", []).answer.score, 100);
+});
+
+test("30 second rounds with no answer cap", () => {
+  assert.equal(CP.CONFIG.ANSWER_MS, 30000);
+  assert.equal(CP.CONFIG.MAX_ANSWERS, Infinity);
+});
+
 test("scores, bands, share text", () => {
   const results = [
-    { promptId: "x", answers: [{ tier: "k", score: 100 }, { tier: "p", score: 10 }] },
+    { promptId: "x", answers: [{ tier: "p", score: 10 }, { tier: "k", score: 100 }] },
     { promptId: "y", answers: [] },
     { promptId: "z", answers: [{ tier: "d", score: 85 }] }
   ];
   assert.equal(E.totalScore(results), 195);
   assert.equal(E.bandFor(0).tier, "p");
-  assert.equal(E.bandFor(299).tier, "p");
-  assert.equal(E.bandFor(300).tier, "s");
-  assert.equal(E.bandFor(1500).tier, "k");
+  assert.equal(E.bandFor(399).tier, "p");
+  assert.equal(E.bandFor(400).tier, "s");
+  assert.equal(E.bandFor(800).tier, "r");
+  assert.equal(E.bandFor(1200).tier, "d");
+  assert.equal(E.bandFor(1800).tier, "k");
   const t = E.shareText({ mode: "daily", game: 3, results });
-  assert.equal(t, "Centapillion #3 🐛\n195 pts · -1,950 m\n🐛🪱\n⬛\n🌋");
+  assert.equal(t, "Centapillion #3 🐛\n195 pts · -1,950 m\n🟨⬜ 110\n⬛ 0\n🟪 85");
   assert.ok(E.shareText({ mode: "unlimited", game: 9, results }).startsWith("Centapillion ∞ #9"));
+  const many = { answers: Array.from({ length: 14 }, () => ({ tier: "s", score: 30 })) };
+  assert.equal(E.rowEmoji(many), "🟦".repeat(10) + " +4");
 });
 
-test("max score is bounded by 5 answers x 100 x 7", () => {
-  const ps = E.promptsForDay(1, BANK);
-  const m = E.maxScore(ps);
-  assert.ok(m > 0 && m <= 3500, String(m));
+test("a prompt never returns within 10 days", () => {
+  const last = {};
+  for (let d = 1; d <= 400; d++) {
+    for (const p of E.promptsForDay(d, BANK)) {
+      if (last[p.id]) assert.ok(d - last[p.id] >= 10, p.id + " back after " + (d - last[p.id]) + " days (day " + d + ")");
+      last[p.id] = d;
+    }
+  }
+});
+
+test("unlimited digs are deterministic and distinct from each other", () => {
+  const a = E.promptsForUnlimited(5, BANK).map(p => p.id), b = E.promptsForUnlimited(5, BANK).map(p => p.id);
+  assert.deepEqual(a, b);
+  assert.notDeepEqual(a, E.promptsForUnlimited(6, BANK).map(p => p.id));
 });
 
 console.log(`${passes} passed, ${failures} failed`);

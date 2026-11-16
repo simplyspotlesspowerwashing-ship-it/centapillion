@@ -5,31 +5,32 @@ A daily rarity-trivia game. It plays like krillion.io, but you tunnel down throu
 ## How it plays
 
 - 7 prompts a day, the same for everyone (for example, "Name a dog breed").
-- Each prompt shows for 3 seconds, then you get **45 seconds** to answer.
-- You can give **up to 5 answers per prompt**, and every accepted answer scores.
-- Rarer answers score more and dig deeper (10 metres per point):
+- Each prompt shows for 3 seconds, then you get **30 seconds**.
+- There is **no limit on answers**: every accepted answer scores.
+- Rarer answers score more and dig deeper (10 metres per point). When an answer lands, every level's line appears below the digger and it sinks to the one you reached, the way krillion.io shows it.
 
-| Tier | Points | Meaning |
-|---|---|---|
-| 🪱 Earthworm | 10 | The answer everyone digs up first |
-| 🪙 Fool's Gold | 15 | A famously "obscure" pick that everyone grabs |
-| 🪲 Beetle | 30 | Solid, tunnels with the crowd |
-| ⛏️ Mole | 60 | Genuinely uncommon |
-| 🌋 Magma Wyrm | 85 | True obscurity |
-| 🐛 One in a Centapillion | 100 | The designated gem (one per prompt) |
+| Level | Colour | Points | Meaning |
+|---|---|---|---|
+| Common | white | 10 | The answer everyone digs up first |
+| Too Clever | orange | 15 | The "obscure" pick everyone reaches for |
+| Uncommon | blue | 30 | Solid, tunnels with the crowd |
+| Rare | red | 60 | Genuinely uncommon |
+| Deep Cut | purple | 85 | True obscurity |
+| One in a Centapillion | gold | 100 | The designated gem, one per prompt, with a fun fact |
 
-- Wrong answers are rejected and you can keep trying until time runs out.
-- Repeating an answer you already gave this round doesn't score (aliases count as repeats).
-- For a near-miss typo, the game suggests the correct answer; submit again to confirm. If time runs out with a typo in the box, it is accepted.
-- Score bands: 0–299 Topsoil, 300–599 Beetle, 600–999 Mole, 1000–1499 Magma Wyrm, 1500+ Centapillion.
-- One daily dig per day. If you close the page, the round timer keeps running.
-- Other modes:
-  - **Archive:** replay any past day. Doesn't count toward your streak.
-  - **Unlimited:** endless random digs.
-- Features:
-  - Streaks and stats.
-  - An emoji share grid.
-  - A per-prompt answer sheet ("dig log") at the end.
+- Wrong answers are rejected and you can keep trying until time runs out. Repeats (including alternate spellings) don't score.
+- Near-miss typos get a "submit again to confirm" fix-up. If time runs out with a typo in the box, it is accepted.
+- Score bands: 0–399 Common, 400–799 Uncommon, 800–1,199 Rare, 1,200–1,799 Deep Cut, 1,800+ Centapillion.
+- One daily dig per day. Closing the page doesn't stop the round timer.
+- **Archive:** replay any past day. Doesn't count toward your streak; replays keep your best.
+- **Unlimited:** numbered digs (∞1, ∞2, …) you can replay; a dig log shows your best on each.
+- **Results** (modelled on krillion's): score and depth, a score gauge, "the bearing" (score bands with yours highlighted), copy/share, a per-round depth chart, "the haul" (every round's full answer sheet, your answers marked, sortable), and a logbook line.
+- **Diggers:** seven colour variants of the centipede, unlocked by your best daily streak (0, 5, 14, 30, 45, 60, 100 days). Tap the digger to poke it.
+- **Settings:** sound, typo checking, clearing the box after a wrong answer, reduced motion, low power mode, erase progress.
+
+## Questions
+
+154 prompts with 11,681 answers across six files (`js/data.js` to `js/data6.js`): animals, food, places, pop culture, science, everyday things and wordplay. With 7 a day, the daily sequence runs 22 days before any prompt comes back, and a prompt never returns within 10 days. Unlimited digs follow their own sequence.
 
 ## Run it
 
@@ -54,7 +55,7 @@ npm run test:e2e     # full browser playthrough (needs Playwright + a running se
 |---|---|
 | `index.html` | page shell |
 | `css/style.css` | all styling |
-| `js/data.js` | prompt bank: 44 prompts, ~3,500 tiered answers with aliases |
+| `js/data*.js` | prompt bank: 154 prompts, 11,681 tiered answers with aliases and gem facts |
 | `js/engine.js` | rules, answer matching, daily schedule, scoring, share text |
 | `js/sprites.js` | procedural pixel-art creatures |
 | `js/scene.js` | the underground cross-section and the digging centipede |
@@ -63,7 +64,7 @@ npm run test:e2e     # full browser playthrough (needs Playwright + a running se
 
 ## Editing prompts
 
-Each prompt in `js/data.js` lists answers by tier (`p c s r d k`), separated by `|`. Aliases follow the main name after `=`, for example `Eswatini=swaziland`. `npm test` fails if two answers in a prompt collide, or if a prompt is missing a tier or has more than one centapillion answer.
+Each prompt lists answers by tier (`p c s r d k` = Common, Too Clever, Uncommon, Rare, Deep Cut, Centapillion), separated by `|`. Aliases follow the main name after `=`, for example `Eswatini=swaziland`. The gem's fun fact follows `::`. `npm test` fails if two answers in a prompt collide, the gem duplicates a lower-tier answer, a tier is missing, the gem has no fact, or a prompt has fewer than 30 answers.
 
 ## Differences from krillion.io
 

@@ -8,8 +8,8 @@
   var CONFIG = {
     ROUNDS: 7,
     PREVIEW_MS: 3000,
-    ANSWER_MS: 45000,
-    MAX_ANSWERS: 5,
+    ANSWER_MS: 30000,
+    MAX_ANSWERS: Infinity, // no cap: every accepted answer scores
     METRES_PER_POINT: 10,
     // Day #1. Local midnight of this date.
     EPOCH: [2026, 10, 16],
@@ -17,31 +17,44 @@
     GRACE_MS: 4000
   };
 
-  // Rarity tiers, shallowest to deepest.
+  // Rarity tiers, most common to rarest. Colours follow the white, orange,
+  // blue, red, purple, gold ladder.
   var TIERS = {
-    p: { id: "p", key: "earthworm", name: "Earthworm", score: 10, emoji: "🪱", color: "#ff8fa3",
+    p: { id: "p", key: "common", name: "Common", score: 10, emoji: "⬜", color: "#e8ecf4",
          blurb: "The answer everyone digs up first.", depth: 0.08 },
-    c: { id: "c", key: "foolsgold", name: "Fool's Gold", score: 15, emoji: "🪙", color: "#e6c84a",
-         blurb: "A famously “obscure” pick. Everyone grabs it.", depth: 0.18 },
-    s: { id: "s", key: "beetle", name: "Beetle", score: 30, emoji: "🪲", color: "#5fd36b",
+    c: { id: "c", key: "tooclever", name: "Too Clever", score: 15, emoji: "🟧", color: "#ff9f43",
+         blurb: "The “obscure” pick everyone reaches for.", depth: 0.18 },
+    s: { id: "s", key: "uncommon", name: "Uncommon", score: 30, emoji: "🟦", color: "#4de3ff",
          blurb: "Solid. Tunnels with the crowd.", depth: 0.36 },
-    r: { id: "r", key: "mole", name: "Mole", score: 60, emoji: "⛏️", color: "#4de3ff",
+    r: { id: "r", key: "rare", name: "Rare", score: 60, emoji: "🟥", color: "#ff5252",
          blurb: "Genuinely uncommon. Nice dig.", depth: 0.6 },
-    d: { id: "d", key: "wyrm", name: "Magma Wyrm", score: 85, emoji: "🌋", color: "#ff6b3d",
+    d: { id: "d", key: "deepcut", name: "Deep Cut", score: 85, emoji: "🟪", color: "#9d7bff",
          blurb: "True obscurity. Few dig this deep.", depth: 0.82 },
-    k: { id: "k", key: "centapillion", name: "One in a Centapillion", score: 100, emoji: "🐛", color: "#ffd166",
+    k: { id: "k", key: "centapillion", name: "One in a Centapillion", score: 100, emoji: "🟨", color: "#ffd166",
          blurb: "The designated gem. Earth's core.", depth: 0.97 }
   };
   var TIER_IDS = ["p", "c", "s", "r", "d", "k"];
   var MISS_EMOJI = "⬛";
 
-  // Score bands for a whole dig (7 rounds, up to 5 answers each).
+  // Score bands for a whole dig (7 rounds, unlimited answers, 30 s each).
   var BANDS = [
-    { min: 0, tier: "p", range: "0–299", verdict: "Topsoil. Plenty of planet left down there." },
-    { min: 300, tier: "s", range: "300–599", verdict: "Beetle. Tunnelling with the crowd." },
-    { min: 600, tier: "r", range: "600–999", verdict: "Mole. Past the bedrock. Nice." },
-    { min: 1000, tier: "d", range: "1000–1499", verdict: "Magma Wyrm. Seriously deep dig." },
-    { min: 1500, tier: "k", range: "1500+", verdict: "One in a centapillion. Core dweller. Absurd." }
+    { min: 0, tier: "p", range: "0–399", verdict: "Common. Still in the topsoil." },
+    { min: 400, tier: "s", range: "400–799", verdict: "Uncommon. Tunnelling with the crowd." },
+    { min: 800, tier: "r", range: "800–1,199", verdict: "Rare. Past the bedrock. Nice." },
+    { min: 1200, tier: "d", range: "1,200–1,799", verdict: "Deep cut. Seriously deep dig." },
+    { min: 1800, tier: "k", range: "1,800+", verdict: "One in a centapillion. Core dweller. Absurd." }
+  ];
+  var GAUGE_MAX = 2500;
+
+  // Diggers unlocked by your best daily streak.
+  var DIGGERS = [
+    { id: "classic", name: "The Centipede", streak: 0, body: "#ff7a3d", dark: "#b33a22", hi: "#ffd0a8", says: "skrrt!" },
+    { id: "glow", name: "Glow Worm", streak: 5, body: "#4de3ff", dark: "#1f6f8e", hi: "#d8f6ff", says: "bzzt!" },
+    { id: "ember", name: "Ember Crawler", streak: 14, body: "#ff5252", dark: "#8c2431", hi: "#ffc2c2", says: "hsss!" },
+    { id: "amethyst", name: "Amethyst Crawler", streak: 30, body: "#9d7bff", dark: "#463a68", hi: "#e2d8ff", says: "shing!" },
+    { id: "fossil", name: "Fossil Crawler", streak: 45, body: "#e8d5b0", dark: "#8a733d", hi: "#ffffff", says: "rattle!" },
+    { id: "gold", name: "Golden Centapede", streak: 60, body: "#ffd166", dark: "#c98f2a", hi: "#fff7d0", says: "ka-ching!" },
+    { id: "obsidian", name: "Obsidian Wyrm", streak: 100, body: "#2b2f38", dark: "#05070c", hi: "#9d7bff", says: "…" }
   ];
 
   // Real-world landmarks drawn on the depth gauge.
@@ -102,9 +115,10 @@
       var list = prompt.t[tid];
       if (!list) return;
       list.split("|").forEach(function (entry) {
-        var names = entry.split("=").map(function (x) { return x.trim(); }).filter(Boolean);
+        var parts = entry.split("::");
+        var names = parts[0].split("=").map(function (x) { return x.trim(); }).filter(Boolean);
         if (!names.length) return;
-        var a = { id: compact(names[0]), name: names[0], tier: tid, score: TIERS[tid].score, keys: [] };
+        var a = { id: compact(names[0]), name: names[0], tier: tid, score: TIERS[tid].score, keys: [], quip: (parts[1] || "").trim() };
         names.forEach(function (n) {
           var k = compact(n);
           if (!k) return;
@@ -243,15 +257,38 @@
 
   // Seven distinct prompts for day n. Walks one long sequence made of
   // reshuffled passes over the bank, so every prompt appears once per pass.
-  function promptsForDay(n, bank) {
+  function promptsForDay(n, bank) { return sequenceSet(n, bank, 0x5eed); }
+  // Unlimited digs are numbered too, on their own sequence, so they can be replayed.
+  function promptsForUnlimited(n, bank) { return sequenceSet(n, bank, 0xd16); }
+
+  // Each pass is a reshuffle of the whole bank. Prompts from the second half
+  // of one pass are kept out of the first half of the next, so a prompt never
+  // comes back within about half a pass (~11 days with 154 prompts).
+  var passCache = {};
+  function passOrder(N, salt, pass) {
+    var key = N + ":" + salt + ":" + pass;
+    if (passCache[key]) return passCache[key];
+    var order = shuffled(N, salt + pass * 7919);
+    if (pass > 0) {
+      var prev = passOrder(N, salt, pass - 1);
+      var tail = {};
+      prev.slice(Math.floor(N / 2)).forEach(function (i) { tail[i] = true; });
+      var head = order.filter(function (i) { return !tail[i]; });
+      var rest = order.filter(function (i) { return tail[i]; });
+      order = head.concat(rest);
+    }
+    passCache[key] = order;
+    return order;
+  }
+
+  function sequenceSet(n, bank, salt) {
     var N = bank.length;
     var out = [];
     var pos = Math.max(0, n - 1) * CONFIG.ROUNDS;
     var guard = 0;
     while (out.length < CONFIG.ROUNDS && guard < N * 3) {
       var pass = Math.floor(pos / N);
-      var order = shuffled(N, 0x5eed + pass * 7919);
-      var p = bank[order[pos % N]];
+      var p = bank[passOrder(N, salt, pass)[pos % N]];
       if (out.indexOf(p) === -1) out.push(p);
       pos++; guard++;
     }
@@ -273,12 +310,11 @@
     return (results || []).reduce(function (s, r) { return s + roundScore(r); }, 0);
   }
 
-  // Best possible score for a set of prompts: the top MAX_ANSWERS answers of each.
-  function maxScore(prompts) {
-    return prompts.reduce(function (sum, p) {
-      var scores = indexFor(p).answers.map(function (a) { return a.score; }).sort(function (a, b) { return b - a; });
-      return sum + scores.slice(0, CONFIG.MAX_ANSWERS).reduce(function (s, x) { return s + x; }, 0);
-    }, 0);
+  // Answers sorted rarest first (ties keep the order they were given).
+  function byRarity(answers) {
+    return answers.map(function (a, i) { return [a, i]; })
+      .sort(function (x, y) { return (TIERS[y[0].tier].score - TIERS[x[0].tier].score) || (x[1] - y[1]); })
+      .map(function (x) { return x[0]; });
   }
 
   function bandFor(score) {
@@ -290,10 +326,13 @@
     return m.toLocaleString("en-US") + " m";
   }
 
-  function rowEmoji(round) {
-    var a = round.answers || [];
+  // One share row per round: rarest first, capped so long rounds stay readable.
+  function rowEmoji(round, cap) {
+    var a = byRarity(round.answers || []);
     if (!a.length) return MISS_EMOJI;
-    return a.map(function (x) { return TIERS[x.tier].emoji; }).join("");
+    cap = cap || 10;
+    var row = a.slice(0, cap).map(function (x) { return TIERS[x.tier].emoji; }).join("");
+    return a.length > cap ? row + " +" + (a.length - cap) : row;
   }
 
   function shareText(opts) {
@@ -302,7 +341,7 @@
       : "Centapillion #" + opts.game;
     var score = totalScore(opts.results);
     var lines = [label + " 🐛", score + " pts · -" + fmtMetres(score * CONFIG.METRES_PER_POINT)];
-    opts.results.forEach(function (r) { lines.push(rowEmoji(r)); });
+    opts.results.forEach(function (r) { lines.push(rowEmoji(r) + " " + roundScore(r)); });
     if (opts.url) lines.push(opts.url);
     return lines.join("\n");
   }
@@ -322,14 +361,16 @@
   CP.TIER_IDS = TIER_IDS;
   CP.MISS_EMOJI = MISS_EMOJI;
   CP.BANDS = BANDS;
+  CP.GAUGE_MAX = GAUGE_MAX;
+  CP.DIGGERS = DIGGERS;
   CP.STRATA = STRATA;
   CP.LANDMARKS = LANDMARKS;
   CP.engine = {
     normalize: normalize, compact: compact, indexFor: indexFor, lookup: lookup,
     editDistance: editDistance, nearest: nearest, judge: judge,
     mulberry32: mulberry32, dayNumber: dayNumber, dateForDay: dateForDay,
-    promptsForDay: promptsForDay, randomPrompts: randomPrompts,
-    roundScore: roundScore, totalScore: totalScore, maxScore: maxScore,
+    promptsForDay: promptsForDay, promptsForUnlimited: promptsForUnlimited, randomPrompts: randomPrompts,
+    roundScore: roundScore, totalScore: totalScore, byRarity: byRarity,
     bandFor: bandFor, fmtMetres: fmtMetres, shareText: shareText, rowEmoji: rowEmoji,
     answerSheet: answerSheet
   };

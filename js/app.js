@@ -6,77 +6,78 @@
   var BY_ID = {};
   BANK.forEach(function (p) { BY_ID[p.id] = p; });
 
-  var STORE_KEY = "centapillion:v1";
+  var STORE_KEY = "centapillion:v2";
   var $ = function (id) { return document.getElementById(id); };
 
   // ---------- persistence ----------
   function blankStore() {
-    return { settings: { muted: false, reduced: false }, daily: {}, archive: {}, unlimited: { count: 0, current: null, history: [] } };
+    return {
+      settings: { muted: false, reduced: false, lowPower: false, typoCheck: true, clearRejected: false, digger: "classic" },
+      daily: {}, archive: {}, archiveBest: {},
+      unlimited: { games: {}, best: {}, last: 0 }
+    };
   }
   function loadStore() {
+    var b = blankStore();
     try {
       var s = JSON.parse(localStorage.getItem(STORE_KEY));
-      if (!s || typeof s !== "object") return blankStore();
-      var b = blankStore();
+      if (!s || typeof s !== "object") return b;
       return {
         settings: Object.assign(b.settings, s.settings || {}),
-        daily: s.daily || {}, archive: s.archive || {},
+        daily: s.daily || {}, archive: s.archive || {}, archiveBest: s.archiveBest || {},
         unlimited: Object.assign(b.unlimited, s.unlimited || {})
       };
-    } catch (e) { return blankStore(); }
+    } catch (e) { return b; }
   }
   var store = loadStore();
   function save() {
-    try { localStorage.setItem(STORE_KEY, JSON.stringify(store)); } catch (e) { /* private mode: play on without saving */ }
+    try { localStorage.setItem(STORE_KEY, JSON.stringify(store)); } catch (e) { /* storage blocked: play on without saving */ }
   }
 
   // ---------- state ----------
-  var game = null;      // the active game record (lives inside store)
-  var prompts = [];     // prompt objects for the active game
-  var scene = null;
-  var tickTimer = null;
-  var lastSecond = null;
-  var pendingCorrection = null;
-  var landedTimer = null;
+  var game = null, prompts = [], scene = null, tickTimer = null, lastSecond = null;
+  var pendingCorrection = null, landedTimer = null, sheetSort = "tier";
 
   function now() { return Date.now(); }
   function today() { return E.dayNumber(new Date()); }
 
   function newGame(mode, number, ids) {
     return { mode: mode, game: number, promptIds: ids, roundIndex: 0, phase: "intro",
-             previewEndsAt: null, answerEndsAt: null, results: [], v: 1 };
+             previewEndsAt: null, answerEndsAt: null, results: [], v: 2 };
   }
-
   function validGame(g) {
     return g && Array.isArray(g.promptIds) && g.promptIds.length === C.ROUNDS &&
       g.promptIds.every(function (id) { return BY_ID[id]; }) && Array.isArray(g.results);
   }
+  function idsFor(list) { return list.map(function (p) { return p.id; }); }
 
   function gameFor(route) {
     var g;
     if (route.mode === "daily") {
       var n = today();
       g = store.daily[n];
-      if (!validGame(g)) { g = newGame("daily", n, E.promptsForDay(n, BANK).map(function (p) { return p.id; })); store.daily[n] = g; }
+      if (!validGame(g)) { g = newGame("daily", n, idsFor(E.promptsForDay(n, BANK))); store.daily[n] = g; }
     } else if (route.mode === "archive") {
-      var d = route.day;
-      if (store.daily[d] && store.daily[d].phase === "done") return store.daily[d];
+      var d = route.n;
+      if (store.daily[d] && store.daily[d].phase === "done" && !store.archive[d]) return store.daily[d];
       g = store.archive[d];
-      if (!validGame(g)) { g = newGame("archive", d, E.promptsForDay(d, BANK).map(function (p) { return p.id; })); store.archive[d] = g; }
+      if (!validGame(g)) { g = newGame("archive", d, idsFor(E.promptsForDay(d, BANK))); store.archive[d] = g; }
     } else {
-      g = store.unlimited.current;
-      if (!validGame(g)) g = newUnlimited();
+      var u = route.n || nextUnlimited();
+      g = store.unlimited.games[u];
+      if (!validGame(g)) { g = newGame("unlimited", u, idsFor(E.promptsForUnlimited(u, BANK))); store.unlimited.games[u] = g; }
+      store.unlimited.last = u;
     }
     return g;
   }
 
-  function newUnlimited() {
-    store.unlimited.count += 1;
-    var seed = (Math.random() * 0xffffffff) >>> 0;
-    var g = newGame("unlimited", store.unlimited.count, E.randomPrompts(BANK, seed).map(function (p) { return p.id; }));
-    store.unlimited.current = g;
-    save();
-    return g;
+  // The unlimited dig to offer next: the last one if unfinished, else the first unplayed.
+  function nextUnlimited() {
+    var last = store.unlimited.last;
+    if (last && store.unlimited.games[last] && store.unlimited.games[last].phase !== "done") return last;
+    var n = 1;
+    while (store.unlimited.best[n] != null) n++;
+    return n;
   }
 
   function total() { return E.totalScore(game.results); }
@@ -89,17 +90,22 @@
     var m = /^archive\/(\d+)$/.exec(h);
     if (m) {
       var d = parseInt(m[1], 10);
-      if (d >= 1 && d <= today()) return d === today() ? { mode: "daily" } : { mode: "archive", day: d };
+      if (d >= 1 && d < today()) return { mode: "archive", n: d };
+      return { mode: "daily" };
     }
-    if (h === "unlimited") return { mode: "unlimited" };
+    m = /^unlimited(?:\/(\d+))?$/.exec(h);
+    if (m) return { mode: "unlimited", n: m[1] ? Math.max(1, Math.min(99999, parseInt(m[1], 10))) : 0 };
     return { mode: "daily" };
+  }
+
+  function go(hash) {
+    if (location.hash === hash) boot(); else location.hash = hash;
   }
 
   function boot() {
     stopTick();
     closeModal();
-    var route = parseRoute();
-    game = gameFor(route);
+    game = gameFor(parseRoute());
     prompts = game.promptIds.map(function (id) { return BY_ID[id]; });
     save();
     scene.reset();
@@ -121,13 +127,10 @@
   }
 
   function bestTier(r) {
-    var best = null;
-    (r.answers || []).forEach(function (a) { if (!best || T[a.tier].score > T[best].score) best = a.tier; });
-    return best;
+    var a = E.byRarity(r.answers || []);
+    return a.length ? a[0].tier : null;
   }
 
-  // Bring the UI in line with the saved phase, catching up on any time
-  // that passed while the page was closed.
   function resume() {
     if (game.phase === "intro") return renderIntro();
     if (game.phase === "done") return renderDone();
@@ -151,8 +154,8 @@
     game.answerEndsAt = null;
     if (!game.results[i]) game.results[i] = { promptId: game.promptIds[i], answers: [] };
     pendingCorrection = null;
-    save();
     lastSecond = null;
+    save();
     renderPlay();
     startTick();
     tick();
@@ -166,10 +169,10 @@
     var t = now();
     if (game.phase === "preview") {
       var left = Math.max(0, game.previewEndsAt - t);
-      var n = Math.ceil(left / 1000);
       var cd = $("countdown");
       if (left > 0) {
-        if (cd.textContent !== String(n)) { cd.textContent = String(n); cd.classList.remove("pop"); void cd.offsetWidth; cd.classList.add("pop"); A.play("tick"); }
+        var n = String(Math.ceil(left / 1000));
+        if (cd.textContent !== n) { cd.textContent = n; cd.classList.remove("pop"); void cd.offsetWidth; cd.classList.add("pop"); A.play("tick"); }
         setTimer(C.ANSWER_MS);
         return;
       }
@@ -191,7 +194,7 @@
     var secs = Math.ceil(ms / 1000);
     $("timerNum").textContent = String(secs);
     $("timerFill").style.transform = "scaleX(" + Math.max(0, Math.min(1, ms / C.ANSWER_MS)).toFixed(4) + ")";
-    var urgent = game.phase === "answering" && ms <= 10000;
+    var urgent = game.phase === "answering" && ms <= 8000;
     $("timer").classList.toggle("urgent", urgent);
     document.body.classList.toggle("urgent", urgent);
     if (game.phase === "answering" && secs <= 5 && secs > 0 && secs !== lastSecond) A.play("tick");
@@ -200,7 +203,7 @@
 
   function timeUp() {
     var draft = $("answer").value;
-    if (draft.trim() && curRound().answers.length < C.MAX_ANSWERS) {
+    if (draft.trim()) {
       var r = E.judge(curPrompt(), draft, foundIds(), true);
       if (r.status === "accepted") addAnswer(r.answer, draft);
     }
@@ -214,9 +217,7 @@
     if (!game || game.phase !== "answering") return;
     var raw = String(text || "").trim();
     if (!raw) return;
-    if (curRound().answers.length >= C.MAX_ANSWERS) return;
-    var p = curPrompt();
-    var r = E.judge(p, raw, foundIds(), false);
+    var r = E.judge(curPrompt(), raw, foundIds(), !store.settings.typoCheck);
     hideCorrection();
     scene.submitFx();
     if (r.status === "accepted") {
@@ -224,9 +225,6 @@
       addAnswer(r.answer, raw);
       $("answer").value = "";
       flashMsg("", "");
-      if (curRound().answers.length >= C.MAX_ANSWERS) {
-        setTimeout(function () { if (game.phase === "answering") endRound(); }, 900);
-      }
     } else if (r.status === "correction") {
       pendingCorrection = { from: raw, to: r.to };
       $("answer").value = r.to;
@@ -234,26 +232,31 @@
     } else if (r.status === "duplicate") {
       A.play("duplicate");
       flashMsg("already dug up “" + r.answer.name + "”", "warn");
-      $("answer").select();
+      rejectEntry();
     } else {
       A.play("reject");
       scene.rejectFx();
       flashMsg("“" + raw + "” isn't in the dirt. try another", "bad");
       shakeDock();
-      $("answer").select();
+      rejectEntry();
     }
   }
 
+  function rejectEntry() {
+    if (store.settings.clearRejected) $("answer").value = "";
+    else $("answer").select();
+  }
+
   function addAnswer(ans, raw) {
-    var round = curRound();
-    round.answers.push({ id: ans.id, name: ans.name, tier: ans.tier, score: ans.score, raw: raw });
+    var fromM = total() * C.METRES_PER_POINT;
+    curRound().answers.push({ id: ans.id, name: ans.name, tier: ans.tier, score: ans.score, raw: raw });
     save();
-    var depth = total() * C.METRES_PER_POINT;
-    scene.setDepth(depth);
+    scene.plunge(fromM, ans.tier);
+    scene.setDepth(total() * C.METRES_PER_POINT);
     scene.acceptFx(ans.tier);
     A.play("accept", ans.tier);
     showLanded(ans);
-    renderSlots();
+    renderHaul();
     renderScore();
   }
 
@@ -279,87 +282,74 @@
   function finish() {
     game.phase = "done";
     game.finishedAt = now();
-    if (game.mode === "unlimited") {
-      store.unlimited.history.push({ game: game.game, score: total(), at: game.finishedAt });
-      if (store.unlimited.history.length > 200) store.unlimited.history.shift();
-    }
+    var s = total();
+    if (game.mode === "unlimited") store.unlimited.best[game.game] = Math.max(store.unlimited.best[game.game] || 0, s);
+    if (game.mode === "archive") store.archiveBest[game.game] = Math.max(store.archiveBest[game.game] || 0, s);
     save();
     A.play("done");
     renderDone();
   }
 
-  // ---------- rendering ----------
-  function setView(v) {
-    document.body.dataset.view = v;
-    $("play").hidden = v !== "play";
-    $("dock").hidden = v !== "play";
-    if (v !== "play") $("panel").hidden = false;
-    else $("panel").hidden = true;
+  // Start the same unlimited or archive dig again; the best score is kept.
+  function replay() {
+    var fresh = newGame(game.mode, game.game, game.promptIds.slice());
+    if (game.mode === "unlimited") store.unlimited.games[game.game] = fresh;
+    else if (game.mode === "archive") store.archive[game.game] = fresh;
+    else return;
+    save();
+    boot();
   }
 
-  function modeLabel() {
-    if (game.mode === "unlimited") return "UNLIMITED ∞ #" + game.game;
-    if (game.mode === "archive") return "ARCHIVE ⟲ DIG #" + game.game;
-    return "DIG #" + game.game;
-  }
-
+  // ---------- rendering helpers ----------
   function el(tag, cls, text) {
     var e = document.createElement(tag);
     if (cls) e.className = cls;
     if (text != null) e.textContent = text;
     return e;
   }
-
-  function renderIntro() {
-    setView("intro");
-    var P = $("panel");
-    P.innerHTML = "";
-    var card = el("section", "card intro");
-    var logo = el("div", "logo");
-    logo.appendChild(CP.sprites.tierImg("k", 72, "logo-sprite bob"));
-    logo.appendChild(el("h1", "logo-word", "CENTAPILLION"));
-    card.appendChild(logo);
-    card.appendChild(el("p", "tagline", "one in a centapillion."));
-    card.appendChild(el("p", "subline", game.mode === "unlimited" ? "THE ENDLESS DIG" : game.mode === "archive" ? "AN OLD TUNNEL" : "THE DAILY DIG"));
-    card.appendChild(el("p", "subline dim", "7 prompts · 45 seconds each · up to 5 answers · rarer answers dig deeper"));
-    card.appendChild(howToList(true));
-    var btn = el("button", "btn-begin", "▼ BEGIN DIG ▼");
-    btn.type = "button";
-    btn.id = "beginBtn";
-    btn.addEventListener("click", begin);
-    card.appendChild(btn);
-    var meta = el("div", "intro-meta");
-    var left = el("span", null, modeLabel().toLowerCase());
-    if (game.mode === "daily") {
-      var s = streaks();
-      if (s.current) left.textContent += " · streak " + s.current;
-    }
-    meta.appendChild(left);
-    var links = el("span", "links");
-    links.appendChild(link("#/archive/" + Math.max(1, today() - 1), "ARCHIVE ⟲", function (e) { e.preventDefault(); openModal("archive"); }));
-    links.appendChild(link("#/unlimited", "UNLIMITED ∞"));
-    if (game.mode !== "daily") links.appendChild(link("#/", "TODAY'S DIG"));
-    meta.appendChild(links);
-    card.appendChild(meta);
-    P.appendChild(card);
-    setTimeout(function () { var b = $("beginBtn"); if (b) b.focus(); }, 30);
+  function link(href, text, cls) {
+    var a = el("a", cls || null, text);
+    a.href = href;
+    return a;
+  }
+  function button(text, cls, onClick, id) {
+    var b = el("button", cls, text);
+    b.type = "button";
+    if (id) b.id = id;
+    b.addEventListener("click", onClick);
+    return b;
+  }
+  function section(label, hint) {
+    var sec = el("section", "sec");
+    var head = el("p", "sec-head");
+    head.appendChild(el("span", null, label));
+    if (hint) head.appendChild(el("span", "sec-hint", hint));
+    sec.appendChild(head);
+    return sec;
   }
 
-  function link(href, text, onClick) {
-    var a = el("a", null, text);
-    a.href = href;
-    if (onClick) a.addEventListener("click", onClick);
-    return a;
+  function setView(v) {
+    document.body.dataset.view = v;
+    if (scene) scene.quiet = v === "play";
+    $("play").hidden = v !== "play";
+    $("dock").hidden = v !== "play";
+    $("panel").hidden = v === "play";
+  }
+
+  function modeLabel() {
+    if (game.mode === "unlimited") return "UNLIMITED ∞ #" + game.game;
+    if (game.mode === "archive") return "ARCHIVE ⟲ #" + game.game;
+    return "DIG #" + game.game;
   }
 
   function howToList(collapsible) {
     var items = [
       "7 prompts a day. same for everyone.",
-      "45 seconds per prompt. name up to 5 answers.",
+      "30 seconds per prompt. name as many answers as you can.",
       "every answer scores. rare answers score big. obvious ones stay shallow.",
       "the pick that feels clever? the colony thought of it too.",
       "typos get one fix-up. submit again to confirm.",
-      "every point digs you 10 metres. 1,500 reaches the core crowd.",
+      "every point digs you 10 metres. 1,800 reaches the core.",
       "one dig per day. no second chances."
     ];
     var ul = el("ul", "howto-list");
@@ -369,6 +359,58 @@
     d.appendChild(el("summary", null, "how to play"));
     d.appendChild(ul);
     return d;
+  }
+
+  // ---------- screens ----------
+  function renderIntro() {
+    setView("intro");
+    var P = $("panel");
+    P.innerHTML = "";
+    var card = el("section", "card intro");
+    var logo = el("div", "logo");
+    var spr = CP.sprites.tierImg("k", 72, "logo-sprite bob");
+    spr.title = "poke";
+    spr.addEventListener("click", function () { scene.poke(); A.play("tick"); });
+    logo.appendChild(spr);
+    logo.appendChild(el("h1", "logo-word", "CENTAPILLION"));
+    card.appendChild(logo);
+    card.appendChild(el("p", "tagline", "one in a centapillion."));
+    card.appendChild(el("p", "subline", game.mode === "unlimited" ? "THE ENDLESS DIG" : game.mode === "archive" ? "AN OLD TUNNEL" : "THE DAILY DIG"));
+    card.appendChild(el("p", "subline dim", "7 prompts · 30 seconds each · unlimited answers · rarer answers dig deeper"));
+    card.appendChild(tierLadder());
+    card.appendChild(howToList(true));
+    card.appendChild(button("▼ BEGIN DIG ▼", "btn-begin", begin, "beginBtn"));
+    var meta = el("div", "intro-meta");
+    var left = el("span", null, modeLabel().toLowerCase());
+    if (game.mode === "daily") {
+      var s = streaks();
+      if (s.current) left.textContent += " · streak " + s.current;
+    }
+    if (game.mode === "unlimited" && store.unlimited.best[game.game] != null) left.textContent += " · best " + store.unlimited.best[game.game];
+    meta.appendChild(left);
+    var links = el("span", "links");
+    links.appendChild(button("ARCHIVE ⟲", "linkish", function () { openModal("archive"); }));
+    if (game.mode !== "unlimited") links.appendChild(link("#/unlimited", "UNLIMITED ∞"));
+    else links.appendChild(button("DIG LOG ∞", "linkish", function () { openModal("diglog"); }));
+    if (game.mode !== "daily") links.appendChild(link("#/", "TODAY'S DIG"));
+    meta.appendChild(links);
+    card.appendChild(meta);
+    P.appendChild(card);
+    setTimeout(function () { var b = $("beginBtn"); if (b) b.focus(); }, 30);
+  }
+
+  // The six levels, shallowest to deepest, the way they're shown everywhere.
+  function tierLadder() {
+    var ol = el("ol", "ladder");
+    CP.TIER_IDS.forEach(function (t) {
+      var li = el("li");
+      li.style.setProperty("--tc", T[t].color);
+      li.appendChild(CP.sprites.tierImg(t, 22));
+      li.appendChild(el("span", "ladder-name", T[t].name));
+      li.appendChild(el("b", null, String(T[t].score)));
+      ol.appendChild(li);
+    });
+    return ol;
   }
 
   function renderPlay() {
@@ -389,28 +431,30 @@
       hideCorrection();
       flashMsg("", "");
     }
-    renderSlots();
+    renderHaul();
     renderScore();
   }
 
-  function renderSlots() {
-    var ol = $("slots");
-    ol.innerHTML = "";
+  // Answers found this round, newest first.
+  function renderHaul() {
+    var box = $("haul");
+    box.innerHTML = "";
     var answers = curRound() ? curRound().answers : [];
-    for (var i = 0; i < C.MAX_ANSWERS; i++) {
-      var li = el("li", "slot");
-      var a = answers[i];
-      if (a) {
-        li.classList.add("filled");
-        li.style.setProperty("--tc", T[a.tier].color);
-        li.appendChild(CP.sprites.tierImg(a.tier, 22));
-        li.appendChild(el("span", "slot-name", a.name));
-        li.appendChild(el("b", "slot-pts", "+" + a.score));
-      } else {
-        li.appendChild(el("span", "slot-empty", String(i + 1)));
-      }
-      ol.appendChild(li);
-    }
+    var head = el("div", "haul-head");
+    head.appendChild(el("span", null, answers.length ? answers.length + (answers.length === 1 ? " answer" : " answers") : "no answers yet"));
+    head.appendChild(el("b", null, "+" + E.roundScore(curRound() || {})));
+    box.appendChild(head);
+    var list = el("ul", "haul-list");
+    answers.slice().reverse().forEach(function (a, i) {
+      var li = el("li", "chip" + (i === 0 ? " fresh" : ""));
+      li.style.setProperty("--tc", T[a.tier].color);
+      li.title = T[a.tier].name + " · " + a.score;
+      li.appendChild(CP.sprites.tierImg(a.tier, 18));
+      li.appendChild(el("span", "chip-name", a.name));
+      li.appendChild(el("b", "chip-pts", "+" + a.score));
+      list.appendChild(li);
+    });
+    box.appendChild(list);
   }
 
   function renderScore() {
@@ -419,20 +463,26 @@
     $("depthNow").textContent = "-" + E.fmtMetres(s * C.METRES_PER_POINT);
   }
 
+  function answerInfo(a) {
+    var full = E.indexFor(BY_ID[game.promptIds[game.roundIndex]] || curPrompt()).answers;
+    for (var i = 0; i < full.length; i++) if (full[i].id === a.id) return full[i];
+    return a;
+  }
+
   function showLanded(ans) {
     var box = $("landed");
     var t = T[ans.tier];
     box.innerHTML = "";
-    var card = el("div", "landed-card");
+    var card = el("div", "landed-card" + (ans.tier === "k" ? " gem" : ""));
     card.style.setProperty("--tc", t.color);
-    card.appendChild(CP.sprites.tierImg(ans.tier, 48));
+    card.appendChild(CP.sprites.tierImg(ans.tier, 44));
     card.appendChild(el("div", "tname", t.name.toUpperCase()));
     card.appendChild(el("div", "tans", "“" + ans.name + "”"));
     card.appendChild(el("div", "tpts", "+" + ans.score + " PTS · dig " + E.fmtMetres(ans.score * C.METRES_PER_POINT)));
-    card.appendChild(el("div", "tsub", t.blurb));
+    card.appendChild(el("div", "tsub", answerInfo(ans).quip || t.blurb));
     box.appendChild(card);
     clearTimeout(landedTimer);
-    landedTimer = setTimeout(function () { card.classList.add("gone"); }, 1700);
+    landedTimer = setTimeout(function () { card.classList.add("gone"); }, ans.tier === "k" ? 3200 : 1600);
   }
 
   function flashMsg(text, kind) {
@@ -461,6 +511,20 @@
     d.classList.remove("shake"); void d.offsetWidth; d.classList.add("shake");
   }
 
+  function answerRow(a, prompt) {
+    var info = E.indexFor(prompt).answers.filter(function (x) { return x.id === a.id; })[0] || a;
+    var li = el("li", "fb-item");
+    li.style.setProperty("--tc", T[a.tier].color);
+    li.appendChild(CP.sprites.tierImg(a.tier, 30));
+    var mid = el("div", "fb-mid");
+    mid.appendChild(el("div", "tname", T[a.tier].name.toUpperCase()));
+    mid.appendChild(el("div", "tans", a.name));
+    if (info.quip) mid.appendChild(el("div", "tsub", info.quip));
+    li.appendChild(mid);
+    li.appendChild(el("b", "tpts", "+" + a.score));
+    return li;
+  }
+
   function renderFeedback() {
     setView("feedback");
     var r = curRound(), p = curPrompt();
@@ -476,29 +540,17 @@
       miss.appendChild(el("span", "dim", "no answers this round · +0"));
       list.appendChild(miss);
     }
-    r.answers.forEach(function (a) {
-      var li = el("li", "fb-item");
-      li.style.setProperty("--tc", T[a.tier].color);
-      li.appendChild(CP.sprites.tierImg(a.tier, 32));
-      var mid = el("div", "fb-mid");
-      mid.appendChild(el("div", "tname", T[a.tier].name.toUpperCase()));
-      mid.appendChild(el("div", "tans", a.name));
-      li.appendChild(mid);
-      li.appendChild(el("b", "tpts", "+" + a.score));
-      list.appendChild(li);
-    });
+    E.byRarity(r.answers).forEach(function (a) { list.appendChild(answerRow(a, p)); });
     card.appendChild(list);
-    var rs = E.roundScore(r);
-    card.appendChild(el("div", "fb-total", "round +" + rs + " · total " + total() + " · -" + E.fmtMetres(total() * C.METRES_PER_POINT)));
+    card.appendChild(el("div", "fb-total", r.answers.length + " answers · round +" + E.roundScore(r) + " · total " + total() + " · -" + E.fmtMetres(total() * C.METRES_PER_POINT)));
     var gem = E.answerSheet(p).k[0];
     var found = r.answers.some(function (a) { return a.tier === "k"; });
-    card.appendChild(el("p", "fb-gem", found ? "You found the centapillion. 🐛" : "The centapillion was “" + gem.name + "”."));
+    var g = el("p", "fb-gem");
+    g.appendChild(CP.sprites.tierImg("k", 20));
+    g.appendChild(el("span", null, found ? " You found the centapillion." : " The centapillion was “" + gem.name + "”. " + (gem.quip || "")));
+    card.appendChild(g);
     var last = game.roundIndex >= C.ROUNDS - 1;
-    var b = el("button", "btn-begin", last ? "SEE THE DIG LOG ▼" : "▼ DIG TO ROUND " + (game.roundIndex + 2) + " ▼");
-    b.type = "button";
-    b.id = "nextBtn";
-    b.addEventListener("click", next);
-    card.appendChild(b);
+    card.appendChild(button(last ? "SEE THE DIG LOG ▼" : "▼ DIG TO ROUND " + (game.roundIndex + 2) + " ▼", "btn-begin", next, "nextBtn"));
     card.appendChild(el("div", "hint", "press enter"));
     P.appendChild(card);
     setTimeout(function () { var n = $("nextBtn"); if (n) n.focus(); }, 30);
@@ -509,55 +561,107 @@
     stopTick();
     var P = $("panel");
     P.innerHTML = "";
-    var s = total(), band = E.bandFor(s), max = E.maxScore(prompts);
+    var s = total(), band = E.bandFor(s);
     var card = el("section", "card done");
     card.appendChild(el("div", "kicker", modeLabel() + " · COMPLETE"));
     var big = el("div", "bigscore");
     big.appendChild(el("span", "num", String(s)));
-    big.appendChild(el("span", "of", "/" + max));
     big.appendChild(el("span", "depth", "-" + E.fmtMetres(s * C.METRES_PER_POINT)));
     card.appendChild(big);
-    var verdict = el("div", "verdict");
-    verdict.style.setProperty("--tc", T[band.tier].color);
-    verdict.appendChild(CP.sprites.tierImg(band.tier, 40));
-    verdict.appendChild(el("span", null, band.verdict));
-    card.appendChild(verdict);
-    card.appendChild(depthChart());
+    if (game.mode === "unlimited" && store.unlimited.best[game.game] > s) card.appendChild(el("p", "dim small", "your best on this dig: " + store.unlimited.best[game.game]));
+    if (game.mode === "archive" && store.archiveBest[game.game] > s) card.appendChild(el("p", "dim small", "your best on this dig: " + store.archiveBest[game.game]));
+    card.appendChild(gauge(s));
 
-    var share = E.shareText({ mode: game.mode, game: game.game, results: game.results, url: location.origin && location.origin !== "null" ? location.origin + location.pathname : "" });
-    var pre = el("pre", "share-preview", share);
-    card.appendChild(pre);
+    // the bearing: where this score sits among the bands
+    var bearing = section("the bearing");
+    var bl = el("ul", "bearing");
+    CP.BANDS.forEach(function (b) {
+      var li = el("li", b === band ? "on" : "");
+      li.style.setProperty("--tc", T[b.tier].color);
+      li.appendChild(CP.sprites.tierImg(b.tier, 18));
+      li.appendChild(el("b", null, b.range));
+      li.appendChild(el("span", null, b.verdict));
+      bl.appendChild(li);
+    });
+    bearing.appendChild(bl);
+    card.appendChild(bearing);
+
+    var share = E.shareText({ mode: game.mode, game: game.game, results: game.results });
+    card.appendChild(el("pre", "share-preview", share));
     var row = el("div", "btn-row");
-    var sb = el("button", "btn-begin", "SHARE ↗");
-    sb.type = "button";
-    sb.id = "shareBtn";
-    sb.addEventListener("click", function () { doShare(share); });
-    row.appendChild(sb);
-    if (game.mode === "unlimited") {
-      var nb = el("button", "btn-ghost", "NEW DIG ∞");
-      nb.type = "button";
-      nb.addEventListener("click", function () { store.unlimited.current = null; newUnlimited(); boot(); });
-      row.appendChild(nb);
-    } else {
-      row.appendChild(link("#/unlimited", "UNLIMITED ∞")).className = "btn-ghost";
-    }
-    var ab = el("button", "btn-ghost", "ARCHIVE ⟲");
-    ab.type = "button";
-    ab.addEventListener("click", function () { openModal("archive"); });
-    row.appendChild(ab);
+    row.appendChild(button("COPY RESULT", "btn-begin", function () { copyResult(share); }, "shareBtn"));
+    if (navigator.share) row.appendChild(button("SHARE…", "btn-ghost", function () { navigator.share({ text: share }).catch(function () {}); }));
     card.appendChild(row);
 
-    if (game.mode === "daily") {
-      var nx = el("p", "next-dig");
-      nx.id = "nextDig";
-      card.appendChild(nx);
-      updateNextDig();
-    }
+    card.appendChild(digChart());
 
-    card.appendChild(el("h3", "sheet-title", "THE DIG LOG"));
-    card.appendChild(answerSheet());
+    // the haul: every round, tap for the full answer sheet
+    var haul = section("the haul", "tap a round for every answer");
+    var sortRow = el("label", "sort-row");
+    sortRow.appendChild(el("span", null, "sort answers within tiers"));
+    var sel = document.createElement("select");
+    sel.id = "sheetSort";
+    [["tier", "As listed"], ["az", "A–Z"], ["za", "Z–A"]].forEach(function (o) {
+      var op = document.createElement("option"); op.value = o[0]; op.textContent = o[1]; if (o[0] === sheetSort) op.selected = true; sel.appendChild(op);
+    });
+    sel.addEventListener("change", function () { sheetSort = sel.value; var open = []; document.querySelectorAll(".sheet-round[open]").forEach(function (d) { open.push(d.dataset.i); }); var fresh = answerSheet(open); $("sheetBox").replaceWith(fresh); });
+    sortRow.appendChild(sel);
+    haul.appendChild(sortRow);
+    haul.appendChild(answerSheet(["0"]));
+    card.appendChild(haul);
+
+    // logbook
+    var book = section("logbook");
+    var st = streaks(), days = dailyDone(), scores = days.map(function (d) { return E.totalScore(store.daily[d].results); });
+    var avg = scores.length ? Math.round(scores.reduce(function (a, b) { return a + b; }, 0) / scores.length) : 0;
+    book.appendChild(el("p", "logbook", "streak " + st.current + " · played " + days.length + " · avg " + avg + " · best " + (scores.length ? Math.max.apply(null, scores) : 0)));
+    card.appendChild(book);
+
+    var nav = el("div", "btn-row");
+    if (game.mode === "daily") {
+      var nx = el("p", "next-dig"); nx.id = "nextDig"; card.appendChild(nx); updateNextDig();
+      nav.appendChild(link("#/unlimited", "KEEP DIGGING ∞", "btn-ghost"));
+      nav.appendChild(button("ARCHIVE ⟲", "btn-ghost", function () { openModal("archive"); }));
+    } else {
+      nav.appendChild(button("PLAY THIS ONE AGAIN ↻", "btn-ghost", replay, "replayBtn"));
+      if (game.mode === "unlimited") {
+        nav.appendChild(button("NEXT DIG ∞", "btn-ghost", function () { go("#/unlimited/" + nextUnlimitedAfter(game.game)); }, "nextDigBtn"));
+        nav.appendChild(button("DIG LOG ∞", "btn-ghost", function () { openModal("diglog"); }));
+      } else {
+        nav.appendChild(button("CHOOSE A DIFFERENT DAY ⟲", "btn-ghost", function () { openModal("archive"); }));
+      }
+      nav.appendChild(link("#/", "← TODAY'S DIG", "btn-ghost"));
+    }
+    card.appendChild(nav);
     P.appendChild(card);
     P.scrollTop = 0;
+  }
+
+  function nextUnlimitedAfter(n) {
+    var k = n + 1;
+    while (store.unlimited.best[k] != null) k++;
+    return k;
+  }
+
+  // Score gauge with the band boundaries marked.
+  function gauge(score) {
+    var W = 320, wrap = el("div", "gauge");
+    var svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+    svg.setAttribute("viewBox", "0 0 " + W + " 40");
+    svg.setAttribute("role", "img");
+    svg.setAttribute("aria-label", "Score " + score + " on a scale to " + CP.GAUGE_MAX);
+    function add(tag, attrs) { var n = document.createElementNS("http://www.w3.org/2000/svg", tag); for (var k in attrs) n.setAttribute(k, attrs[k]); svg.appendChild(n); return n; }
+    var x = function (v) { return Math.min(v, CP.GAUGE_MAX) / CP.GAUGE_MAX * W; };
+    CP.BANDS.forEach(function (b, i) {
+      var end = CP.BANDS[i + 1] ? CP.BANDS[i + 1].min : CP.GAUGE_MAX;
+      add("rect", { x: x(b.min), y: 14, width: Math.max(0, x(end) - x(b.min)), height: 6, fill: T[b.tier].color, opacity: 0.35 });
+      if (b.min) { add("line", { x1: x(b.min), y1: 12, x2: x(b.min), y2: 24, stroke: T[b.tier].color }); var t = add("text", { x: x(b.min), y: 36, "text-anchor": "middle", "font-size": 8, fill: "#c4b49a" }); t.textContent = b.min.toLocaleString("en-US"); }
+    });
+    var sx = x(score);
+    add("rect", { x: 0, y: 14, width: sx, height: 6, fill: T[E.bandFor(score).tier].color });
+    add("polygon", { points: (sx - 5) + ",4 " + (sx + 5) + ",4 " + sx + ",12", fill: "#f4ecdc" });
+    wrap.appendChild(svg);
+    return wrap;
   }
 
   function updateNextDig() {
@@ -569,29 +673,40 @@
   }
   setInterval(function () {
     updateNextDig();
-    // roll over to the new daily when midnight passes on the home screen
-    if (game && parseRoute().mode === "daily" && game.game !== today() && (game.phase === "done" || game.phase === "intro")) boot();
+    if (game && parseRoute().mode === "daily" && game.mode === "daily" && game.game !== today() && (game.phase === "done" || game.phase === "intro")) {
+      toast("midnight passed · a fresh dig is ready");
+      boot();
+    }
   }, 1000);
 
-  function depthChart() {
+  function digChart() {
     var wrap = el("div", "chart");
     var axis = el("div", "chart-axis");
-    ["0", "earthworm", "beetle", "mole", "wyrm", "core"].forEach(function (t) { axis.appendChild(el("span", null, t)); });
+    CP.TIER_IDS.forEach(function (t) {
+      var lab = el("span", null, T[t].name);
+      lab.style.top = (8 + T[t].depth * 84) + "%";
+      lab.style.color = T[t].color;
+      axis.appendChild(lab);
+    });
     wrap.appendChild(axis);
     var cols = el("div", "chart-cols");
     game.results.forEach(function (r, i) {
       var col = el("div", "chart-col");
       col.title = "Round " + (i + 1) + ": " + prompts[i].q;
-      if (!r.answers.length) {
-        var m = el("i", "dot miss"); m.style.top = "3%"; col.appendChild(m);
-      }
-      r.answers.forEach(function (a, j) {
-        var dot = el("i", "dot");
-        dot.style.top = (T[a.tier].depth * 100) + "%";
-        dot.style.left = (50 + (j - (r.answers.length - 1) / 2) * 16) + "%";
-        dot.style.setProperty("--tc", T[a.tier].color);
-        dot.title = a.name + " · " + T[a.tier].name + " · +" + a.score;
-        col.appendChild(dot);
+      if (!r.answers.length) { var m = el("i", "dot miss"); m.style.top = "3%"; col.appendChild(m); }
+      var byTier = {};
+      r.answers.forEach(function (a) { (byTier[a.tier] = byTier[a.tier] || []).push(a); });
+      Object.keys(byTier).forEach(function (t) {
+        var list = byTier[t], perRow = 5;
+        list.forEach(function (a, j) {
+          var dot = el("i", "dot");
+          var row = Math.floor(j / perRow), inRow = Math.min(perRow, list.length - row * perRow), k = j % perRow;
+          dot.style.top = (8 + T[t].depth * 84 + row * 4) + "%";
+          dot.style.left = (50 + (k - (inRow - 1) / 2) * 15) + "%";
+          dot.style.setProperty("--tc", T[t].color);
+          dot.title = a.name + " · " + T[t].name + " · +" + a.score;
+          col.appendChild(dot);
+        });
       });
       col.appendChild(el("span", "chart-r", String(i + 1)));
       cols.appendChild(col);
@@ -600,38 +715,41 @@
     return wrap;
   }
 
-  function answerSheet() {
+  function answerSheet(openIdx) {
     var box = el("div", "sheet");
+    box.id = "sheetBox";
     game.results.forEach(function (r, i) {
       var p = prompts[i];
       var sec = el("details", "sheet-round");
-      if (i === 0) sec.open = true;
+      sec.dataset.i = String(i);
+      if ((openIdx || []).indexOf(String(i)) !== -1) sec.open = true;
       var sum = el("summary");
       sum.appendChild(el("span", "sheet-n", String(i + 1)));
       sum.appendChild(el("span", "sheet-q", p.q));
-      sum.appendChild(el("span", "sheet-emo", E.rowEmoji(r)));
+      sum.appendChild(el("span", "sheet-emo", E.rowEmoji(r, 6)));
       sum.appendChild(el("b", "sheet-pts", "+" + E.roundScore(r)));
       sec.appendChild(sum);
       var sheet = E.answerSheet(p);
       var mine = {};
       r.answers.forEach(function (a) { mine[a.id] = true; });
-      var tiers = ["k", "d", "r", "s", "c", "p"];
-      tiers.forEach(function (t) {
-        var list = sheet[t];
+      ["k", "d", "r", "s", "c", "p"].forEach(function (t) {
+        var list = sheet[t].slice();
         if (!list.length) return;
+        if (sheetSort === "az") list.sort(function (a, b) { return a.name.localeCompare(b.name); });
+        if (sheetSort === "za") list.sort(function (a, b) { return b.name.localeCompare(a.name); });
         var row = el("div", "sheet-tier");
         row.style.setProperty("--tc", T[t].color);
         var head = el("div", "sheet-tier-head");
-        head.appendChild(CP.sprites.tierImg(t, 20));
-        head.appendChild(el("span", null, T[t].name + " · " + T[t].score));
+        head.appendChild(CP.sprites.tierImg(t, 18));
+        var found = list.filter(function (a) { return mine[a.id]; }).length;
+        head.appendChild(el("span", null, T[t].name + " · " + T[t].score + " · " + found + "/" + list.length));
         row.appendChild(head);
         var names = el("div", "sheet-names");
-        var shown = list.slice();
-        // keep the list short, but always show the player's own answers
-        var cap = t === "s" || t === "p" ? 8 : 12;
-        var visible = shown.filter(function (a, idx) { return idx < cap || mine[a.id]; });
-        visible.forEach(function (a) { names.appendChild(el("span", "nm" + (mine[a.id] ? " you" : ""), a.name)); });
-        if (shown.length > visible.length) names.appendChild(el("span", "nm more", "+" + (shown.length - visible.length) + " more"));
+        list.forEach(function (a) {
+          var n = el("span", "nm" + (mine[a.id] ? " you" : ""), a.name);
+          if (a.quip) n.title = a.quip;
+          names.appendChild(n);
+        });
         row.appendChild(names);
         sec.appendChild(row);
       });
@@ -640,16 +758,13 @@
     return box;
   }
 
-  function doShare(text) {
-    var done = function () { toast("copied to clipboard"); };
-    if (navigator.share && /Mobi|Android|iPhone|iPad/i.test(navigator.userAgent)) {
-      navigator.share({ text: text }).catch(function () {});
-      return;
-    }
+  function copyResult(text) {
+    var ok = function () { toast("copied ✓"); var b = $("shareBtn"); if (b) b.textContent = "COPIED ✓"; };
+    var fail = function () { toast("couldn't copy. select the text above"); };
     if (navigator.clipboard && navigator.clipboard.writeText) {
-      navigator.clipboard.writeText(text).then(done, function () { fallbackCopy(text) ? done() : toast("couldn't copy. select the text above"); });
-    } else if (fallbackCopy(text)) done();
-    else toast("couldn't copy. select the text above");
+      navigator.clipboard.writeText(text).then(ok, function () { fallbackCopy(text) ? ok() : fail(); });
+    } else if (fallbackCopy(text)) ok();
+    else fail();
   }
   function fallbackCopy(text) {
     var ta = document.createElement("textarea");
@@ -683,6 +798,12 @@
     return { current: cur, max: max };
   }
 
+  function currentDigger() {
+    var best = streaks().max;
+    var d = CP.DIGGERS.filter(function (x) { return x.id === store.settings.digger; })[0];
+    return d && best >= d.streak ? d : CP.DIGGERS[0];
+  }
+
   // ---------- modals ----------
   function openModal(kind) {
     var body = $("modalBody");
@@ -690,14 +811,14 @@
     if (kind === "howto") {
       body.appendChild(el("h2", null, "HOW TO DIG"));
       body.appendChild(howToList(false));
-      body.appendChild(el("h3", null, "RARITY TIERS"));
+      body.appendChild(el("h3", null, "THE LEVELS"));
       var tl = el("ul", "tier-list");
       CP.TIER_IDS.forEach(function (t) {
         var li = el("li");
         li.style.setProperty("--tc", T[t].color);
         li.appendChild(CP.sprites.tierImg(t, 32));
         var mid = el("div");
-        mid.appendChild(el("b", null, T[t].name + " · " + T[t].score + " pts"));
+        mid.appendChild(el("b", null, T[t].name + " · " + T[t].score + " pts · " + E.fmtMetres(T[t].score * C.METRES_PER_POINT)));
         mid.appendChild(el("div", "dim", T[t].blurb));
         li.appendChild(mid);
         tl.appendChild(li);
@@ -713,7 +834,7 @@
       });
       body.appendChild(bl);
     } else if (kind === "stats") {
-      body.appendChild(el("h2", null, "DIG STATS"));
+      body.appendChild(el("h2", null, "LOGBOOK"));
       var days = dailyDone(), s = streaks();
       var scores = days.map(function (d) { return E.totalScore(store.daily[d].results); });
       var grid = el("div", "stat-grid");
@@ -723,50 +844,91 @@
       });
       body.appendChild(grid);
       var counts = {}; CP.TIER_IDS.forEach(function (t) { counts[t] = 0; });
-      days.forEach(function (d) { store.daily[d].results.forEach(function (r) { r.answers.forEach(function (a) { counts[a.tier]++; }); }); });
+      days.forEach(function (d) { store.daily[d].results.forEach(function (r) { (r.answers || []).forEach(function (a) { counts[a.tier]++; }); }); });
       var maxC = Math.max.apply(null, CP.TIER_IDS.map(function (t) { return counts[t]; }).concat([1]));
-      body.appendChild(el("h3", null, "ANSWERS BY TIER"));
+      body.appendChild(el("h3", null, "ANSWERS BY LEVEL"));
       var bars = el("div", "bars");
       CP.TIER_IDS.slice().reverse().forEach(function (t) {
         var row = el("div", "bar-row"); row.style.setProperty("--tc", T[t].color);
         row.appendChild(CP.sprites.tierImg(t, 20));
+        row.appendChild(el("span", "bar-name", T[t].name));
         var bar = el("div", "bar"); var fill = el("i"); fill.style.width = (counts[t] / maxC * 100) + "%"; bar.appendChild(fill);
         row.appendChild(bar); row.appendChild(el("b", null, String(counts[t])));
         bars.appendChild(row);
       });
       body.appendChild(bars);
-      if (store.unlimited.history.length) {
-        var u = store.unlimited.history.map(function (h) { return h.score; });
-        body.appendChild(el("p", "dim", "unlimited: " + u.length + " digs · best " + Math.max.apply(null, u)));
-      }
+      var ub = Object.keys(store.unlimited.best).map(function (k) { return store.unlimited.best[k]; });
+      if (ub.length) body.appendChild(el("p", "dim", "unlimited: " + ub.length + " digs charted · best " + Math.max.apply(null, ub)));
     } else if (kind === "archive") {
       body.appendChild(el("h2", null, "ARCHIVE ⟲"));
-      body.appendChild(el("p", "dim", "Every past daily dig. Archive digs don't count toward your streak."));
+      body.appendChild(el("p", "dim", "Every past daily dig. Archive digs don't count toward your streak. Replays keep your best."));
       var g = el("div", "archive-grid");
       for (var d = today(); d >= 1; d--) {
-        var a = link(d === today() ? "#/" : "#/archive/" + d, "", null);
-        a.className = "arch";
-        var played = store.daily[d] && store.daily[d].phase === "done" ? store.daily[d] : store.archive[d] && store.archive[d].phase === "done" ? store.archive[d] : null;
+        var a = link(d === today() ? "#/" : "#/archive/" + d, "", "arch");
+        var daily = store.daily[d] && store.daily[d].phase === "done" ? E.totalScore(store.daily[d].results) : null;
+        var best = Math.max(daily == null ? -1 : daily, store.archiveBest[d] == null ? -1 : store.archiveBest[d]);
         a.appendChild(el("b", null, "#" + d));
         a.appendChild(el("span", null, E.dateForDay(d).toLocaleDateString(undefined, { month: "short", day: "numeric" })));
-        a.appendChild(el("em", null, played ? E.totalScore(played.results) + " pts" : d === today() ? "today" : "—"));
-        if (played) a.classList.add("played");
+        a.appendChild(el("em", null, best >= 0 ? best + " pts" : d === today() ? "today" : "—"));
+        if (best >= 0) a.classList.add("played");
         a.addEventListener("click", closeModal);
         g.appendChild(a);
       }
       body.appendChild(g);
+    } else if (kind === "diglog") {
+      body.appendChild(el("h2", null, "DIG LOG ∞"));
+      var charted = Object.keys(store.unlimited.best).length;
+      var hi = Math.max(20, nextUnlimited() + 12);
+      var rule = el("p", "dim");
+      rule.textContent = charted + "/" + hi + " charted · replays keep your best";
+      body.appendChild(rule);
+      var g2 = el("div", "archive-grid");
+      for (var n = 1; n <= hi; n++) {
+        var t = link("#/unlimited/" + n, "", "arch");
+        var bs = store.unlimited.best[n];
+        var inprog = store.unlimited.games[n] && store.unlimited.games[n].phase !== "done" && store.unlimited.games[n].phase !== "intro";
+        t.appendChild(el("b", null, "∞" + n));
+        t.appendChild(el("em", null, bs != null ? "best " + bs : inprog ? "in progress" : "unplayed"));
+        if (bs != null) t.classList.add("played");
+        if (game && game.mode === "unlimited" && game.game === n) t.classList.add("current");
+        t.addEventListener("click", closeModal);
+        g2.appendChild(t);
+      }
+      body.appendChild(g2);
     } else if (kind === "settings") {
       body.appendChild(el("h2", null, "SETTINGS"));
       body.appendChild(toggle("Sound effects", !store.settings.muted, function (v) { store.settings.muted = !v; applySettings(); save(); }));
+      body.appendChild(toggle("Check typos before accepting", store.settings.typoCheck, function (v) { store.settings.typoCheck = v; save(); }));
+      body.appendChild(toggle("Clear the box after a wrong answer", store.settings.clearRejected, function (v) { store.settings.clearRejected = v; save(); }));
       body.appendChild(toggle("Reduced motion", store.settings.reduced, function (v) { store.settings.reduced = v; applySettings(); save(); }));
-      var reset = el("button", "btn-ghost danger", "Erase all progress");
-      reset.type = "button";
-      reset.addEventListener("click", function () {
-        if (confirm("Erase every dig, streak and stat on this device?")) {
-          store = blankStore(); save(); applySettings(); location.hash = "#/"; boot();
-        }
+      body.appendChild(toggle("Low power mode", store.settings.lowPower, function (v) { store.settings.lowPower = v; applySettings(); save(); }));
+      body.appendChild(el("h3", null, "YOUR DIGGER"));
+      body.appendChild(el("p", "dim small", "New diggers unlock with your best daily streak. Tap the digger to poke it."));
+      var dl = el("div", "digger-grid");
+      var maxStreak = streaks().max, cur = currentDigger();
+      CP.DIGGERS.forEach(function (d) {
+        var locked = maxStreak < d.streak;
+        var b = button("", "digger" + (locked ? " locked" : "") + (cur.id === d.id ? " on" : ""), function () {
+          if (locked) return;
+          store.settings.digger = d.id; save(); applySettings(); openModal("settings"); scene.poke();
+        });
+        b.style.setProperty("--dc", d.body);
+        b.appendChild(el("i", "swatch"));
+        b.appendChild(el("span", null, d.name));
+        b.appendChild(el("em", null, locked ? "streak " + d.streak : cur.id === d.id ? "digging" : "ready"));
+        b.disabled = locked;
+        dl.appendChild(b);
       });
-      body.appendChild(reset);
+      body.appendChild(dl);
+      var confirmBox = el("div", "confirm-box");
+      var reset = button("Erase all progress", "btn-ghost danger", function () {
+        confirmBox.innerHTML = "";
+        confirmBox.appendChild(el("p", null, "Erase every dig, streak and stat on this device?"));
+        confirmBox.appendChild(button("Yes, erase", "btn-ghost danger", function () { store = blankStore(); save(); applySettings(); go("#/"); }, "eraseYes"));
+        confirmBox.appendChild(button("Cancel", "btn-ghost", function () { confirmBox.innerHTML = ""; confirmBox.appendChild(reset); }));
+      });
+      confirmBox.appendChild(reset);
+      body.appendChild(confirmBox);
       body.appendChild(el("p", "dim small", "Progress is stored in this browser only."));
     }
     var m = $("modal");
@@ -793,7 +955,7 @@
     $("muteBtn").textContent = store.settings.muted ? "♪̸" : "♪";
     $("muteBtn").setAttribute("aria-pressed", String(!store.settings.muted));
     var reduced = store.settings.reduced || (window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches);
-    if (scene) scene.reduced = reduced;
+    if (scene) { scene.reduced = !!reduced; scene.lowPower = !!store.settings.lowPower; scene.setDigger(currentDigger()); }
     document.body.classList.toggle("reduced", !!reduced);
   }
 
@@ -818,6 +980,14 @@
     $("modal").addEventListener("click", function (e) { if (e.target === $("modal")) closeModal(); });
     $("modal").addEventListener("close", function () { if (game && game.phase === "answering") $("answer").focus({ preventScroll: true }); });
 
+    // poke the digger by tapping it
+    document.addEventListener("pointerdown", function (e) {
+      var t = e.target;
+      if (t !== document.body && t !== $("world") && t !== $("panel") && t !== $("play")) return;
+      var h = scene.headScreen();
+      if (Math.hypot(e.clientX - h.x, e.clientY - h.y) < 36) { scene.poke(); A.play("tick"); }
+    });
+
     window.addEventListener("keydown", function (e) {
       if ($("modal").open) return;
       if (e.key !== "Enter" || e.repeat || e.isComposing || e.altKey || e.ctrlKey || e.metaKey) return;
@@ -827,9 +997,8 @@
       else if (game.phase === "intro") { e.preventDefault(); begin(); }
     });
     window.addEventListener("hashchange", boot);
-    // catch up after the tab was in the background
     document.addEventListener("visibilitychange", function () { if (!document.hidden && game) tick(); });
-    window.addEventListener("storage", function (e) { if (e.key === STORE_KEY) { store = loadStore(); boot(); } });
+    window.addEventListener("storage", function (e) { if (e.key === STORE_KEY) { store = loadStore(); applySettings(); boot(); } });
 
     boot();
   }
@@ -838,7 +1007,8 @@
   window.__centapillion = {
     state: function () { return JSON.parse(JSON.stringify(game)); },
     skip: function (ms) { if (game.previewEndsAt) game.previewEndsAt -= ms; if (game.answerEndsAt) game.answerEndsAt -= ms; save(); tick(); },
-    today: today
+    today: today,
+    store: function () { return JSON.parse(JSON.stringify(store)); }
   };
 
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
