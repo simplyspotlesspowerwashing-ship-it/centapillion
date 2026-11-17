@@ -357,7 +357,9 @@ def main():
                 dropped["overlaps gem"] += 1; continue
             if pid in BLOCK and BLOCK[pid].search(entry.lower()):
                 dropped["blocked"] += 1; continue
-            if " " not in names[0] and wordfreq.zipf_frequency(names[0].lower(), "en") >= STRICT_COMMON.get(pid, COMMON_WORD_ZIPF):
+            # also check what's left once category words go ("Milk River" -> "milk")
+            core = stripped(norm(names[0]), generic) if " " in names[0] else norm(names[0])
+            if " " not in core and wordfreq.zipf_frequency(core, "en") >= STRICT_COMMON.get(pid, COMMON_WORD_ZIPF):
                 dropped["everyday word"] += 1; continue
             if len(k) >= 6:
                 kept.append(k)
