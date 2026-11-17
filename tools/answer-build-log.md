@@ -8,7 +8,7 @@ cut-offs calibrated on where that prompt's hand-ranked answers sit; dataset answ
 (Zipf ≥ 3.3 Burrower, ≥ 2.2 Rare, otherwise Deep Cut). Hand ranks always win, and only the hand pass
 sets Topsoil, Too Clever and the Mother Lode.
 
-Total extra answers: **51978** across 112 prompts.
+Total extra answers: **52097** across 113 prompts.
 
 | Prompt | Hand keys | Added | Burrower | Rare | Deep Cut | From | Wikidata ranks | Skipped |
 |---|---|---|---|---|---|---|---|---|
@@ -101,6 +101,7 @@ Total extra answers: **51978** across 112 prompts.
 | nurseryrhyme | 71 | 60 | 4 | 14 | 42 | wikidata 60 | by rank | unusable 3, already listed 29, everyday word 3 |
 | nut | 48 | 0 | 0 | 0 | 0 | — | by rank | already listed 5 |
 | painter | 109 | 314 | 9 | 39 | 266 | wikidata 314 | calibrated | already listed 32, blocked 11 |
+| painting | 78 | 119 | 5 | 17 | 97 | wikidata 119 | calibrated | unusable 8, already listed 43, everyday word 4 |
 | pasta | 68 | 64 | 2 | 7 | 55 | wikidata 64 | calibrated | already listed 46, spelling variant 4 |
 | pixar | 58 | 0 | 0 | 0 | 0 | — | — | — |
 | potato | 60 | 170 | 15 | 56 | 99 | wikidata 170 | by rank | already listed 33, category word 2, spelling variant 2, everyday word 2 |
