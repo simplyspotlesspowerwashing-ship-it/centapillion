@@ -234,9 +234,69 @@ def hand_keys():
     js = r"""
 for (const f of ["data","data2","data3","data4","data5","data6"]) require("./js/"+f+".js");
 const CP=require("./js/engine.js"),E=CP.engine;const o={};
-for(const p of CP.PROMPTS){const a=E.indexFor(p).answers;o[p.id]={keys:a.flatMap(x=>x.keys),gem:a.find(x=>x.tier==="k").keys};}
+for(const p of CP.PROMPTS){const a=E.indexFor(p).answers.filter(x=>!x.extra);
+o[p.id]={q:p.q,keys:a.flatMap(x=>x.keys),gem:a.find(x=>x.tier==="k").keys,
+answers:a.map(x=>({tier:x.tier,norms:x.aliases.map(n=>E.normalize(n))}))};}
 process.stdout.write(JSON.stringify(o));"""
     return json.loads(subprocess.check_output(["node", "-e", js], cwd=ROOT))
+
+
+# Words that only name the category ("Lake", "River", "Desert"): stripped before
+# comparing, so Wikidata's "Amazon River" counts as the hand-listed "Amazon".
+CATEGORY_WORDS = set(("lake river mount mountain mountains falls fall waterfall island islands isle sea ocean desert park "
+                      "national bridge city town volcano breed cheese sauce soup salad bread cake pie cookie tea beer ale "
+                      "dog cat shark whale dolphin frog toad snake bird language disease dance hat shoe pasta dumpling "
+                      "sandwich cocktail candy bar cereal phobia moon constellation instrument film the a an of").split())
+STOP_Q = set("name a an the of type kind famous that is something word rhymes with ends in or and real life for like member "
+             "family found s u letter piece item style character lays eggs sound by".split())
+
+
+def norm(name):
+    s = unicodedata.normalize("NFD", str(name))
+    s = "".join(c for c in s if unicodedata.category(c) != "Mn").lower()
+    s = s.replace("&", " and ")
+    s = re.sub(r"['’`]", "", s)
+    return re.sub(r"[^a-z0-9]+", " ", s).strip()
+
+
+def stripped(n, generic):
+    t = n.split()
+    while len(t) > 1 and t[0] in generic: t.pop(0)
+    while len(t) > 1 and t[-1] in generic: t.pop()
+    return "".join(t)
+
+
+WIKIDATA = os.path.join(ROOT, "tools", "wikidata")
+
+
+def wikidata_items(pid):
+    path = os.path.join(WIKIDATA, pid + ".json")
+    if not os.path.exists(path):
+        return []
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def sitelink_cuts(pid, items, hand, generic):
+    """Per-prompt popularity cut-offs, from where this prompt's hand-tiered answers sit."""
+    sl = {}
+    for name, n in items:
+        k = stripped(norm(re.sub(r"\s*\([^)]*\)", "", name.split(",")[0])), generic)
+        sl[k] = max(n, sl.get(k, 0))
+    by = {"s": [], "r": [], "d": []}
+    for a in hand["answers"]:
+        if a["tier"] in by:
+            hits = [sl[stripped(x, generic)] for x in a["norms"] if stripped(x, generic) in sl]
+            if hits:
+                by[a["tier"]].append(max(hits))
+    med = lambda v: sorted(v)[len(v) // 2]
+    if all(len(by[t]) >= 3 for t in "srd") and med(by["s"]) > med(by["r"]) > med(by["d"]):
+        return ((med(by["s"]) * med(by["r"])) ** 0.5, (med(by["r"]) * med(by["d"])) ** 0.5, "calibrated")
+    # Too few hand matches: split the list by rank instead (top 15% Burrower, next 35% Rare).
+    v = sorted((n for _, n in items), reverse=True)
+    if not v:
+        return (1e9, 1e9, "none")
+    return (v[min(len(v) - 1, int(len(v) * 0.15))] + 0.5, v[min(len(v) - 1, int(len(v) * 0.5))] + 0.5, "by rank")
 
 
 def main():
@@ -244,30 +304,52 @@ def main():
         sys.exit("corpora checkout not found at %s (set CORPORA=...)" % CORPORA)
     hand = hand_keys()
     extra, log = OrderedDict(), []
-    for pid, fn in SOURCES.items():
+    pids = list(OrderedDict.fromkeys(list(SOURCES) + sorted(f[:-5] for f in os.listdir(WIKIDATA) if f.endswith(".json"))))
+    for pid in pids:
         if pid not in hand:
             sys.exit("unknown prompt id " + pid)
-        taken = set(hand[pid]["keys"])
-        gem = hand[pid]["gem"]
+        H = hand[pid]
+        generic = CATEGORY_WORDS | {w for w in norm(H["q"]).split() if len(w) > 2 and w not in STOP_Q}
+        generic |= {w[:-1] for w in generic if w.endswith("s")}
+        taken = set(H["keys"]) | {stripped(n, generic) for a in H["answers"] for n in a["norms"]}
+        gem = H["gem"]
         tiers = {"s": [], "r": [], "d": []}
-        seen, kept, dropped = set(), [], Counter()
+        seen, kept, dropped, used = set(), [], Counter(), Counter()
+
+        # Wikidata first (popularity = Wikipedia language editions), then datasets (word frequency).
+        items = wikidata_items(pid)
+        cut_s, cut_r, how = sitelink_cuts(pid, items, H, generic)
         cands = []
-        for raw in fn():
+        for name, n in items:
+            if pid in ("africa", "asia", "europe"):   # "Kingdom of Denmark" -> Denmark
+                name = re.sub(r"^(Kingdom|Republic|Principality|Grand Duchy|State|Federation|Commonwealth|Sultanate|Emirate) of (the )?", "", name)
+                name = re.sub(r"^People's Republic of ", "", name)
+            entry = tidy(name.split(",")[0])
+            if entry:
+                cands.append((entry, "s" if n >= cut_s else "r" if n >= cut_r else "d", "wikidata"))
+            else:
+                dropped["unusable"] += 1
+        ds = []
+        for raw in (SOURCES[pid]() if pid in SOURCES else []):
             entry = tidy(raw)
-            if not entry:
-                dropped["unusable"] += 1; continue
-            cands.append(entry)
+            if entry:
+                ds.append(entry)
+            else:
+                dropped["unusable"] += 1
         # most familiar spelling first, so near-duplicates keep the common form
-        cands.sort(key=lambda e: -wordfreq.zipf_frequency(e.split("=")[0].lower(), "en"))
+        ds.sort(key=lambda e: -wordfreq.zipf_frequency(e.split("=")[0].lower(), "en"))
+        cands += [(e, tier_for(e.split("=")[0])[0], "datasets") for e in ds]
+
         long_taken = [t for t in taken if len(t) >= 6]
-        for entry in cands:
+        for entry, tier, src in cands:
             names = entry.split("=")
             keys = [compact(n) for n in names]
+            skeys = [stripped(norm(n), generic) for n in names]
             k = keys[0]
-            if len(k) < 3 or any(x in seen for x in keys):
+            if len(k) < 3 or any(x in seen for x in keys + skeys):
                 continue
-            seen.update(keys)
-            if any(x in taken or (x.endswith("s") and x[:-1] in taken) or x + "s" in taken for x in keys):
+            seen.update(keys + skeys)
+            if any(x in taken or (x.endswith("s") and x[:-1] in taken) or x + "s" in taken for x in keys + skeys):
                 dropped["already listed"] += 1; continue
             if len(k) >= 6 and any(edit1(k, t) for t in long_taken + kept):
                 dropped["spelling variant"] += 1; continue
@@ -279,11 +361,12 @@ def main():
                 dropped["everyday word"] += 1; continue
             if len(k) >= 6:
                 kept.append(k)
-            t, z = tier_for(names[0])
-            tiers[t].append(entry)
+            tiers[tier].append(entry)
+            used[src] += 1
         added = sum(len(v) for v in tiers.values())
-        extra[pid] = {t: "|".join(sorted(v, key=str.lower)) for t, v in tiers.items() if v}
-        log.append((pid, len(hand[pid]["keys"]), added, {t: len(v) for t, v in tiers.items()}, dict(dropped)))
+        if added:
+            extra[pid] = {t: "|".join(sorted(v, key=str.lower)) for t, v in tiers.items() if v}
+        log.append((pid, len(H["keys"]), added, {t: len(v) for t, v in tiers.items()}, dict(used), how if items else "—", dict(dropped)))
 
     with open(os.path.join(ROOT, "js", "data-extra.js"), "w", encoding="utf-8") as f:
         f.write("/* Generated by tools/build_extra.py. Do not edit by hand: change the script or the hand data. */\n")
@@ -293,13 +376,20 @@ def main():
 
     total = sum(x[2] for x in log)
     lines = ["# Answer build log", "",
-             "Generated by `tools/build_extra.py`. Extra answers come from the datasets listed in that script,",
-             "are de-duplicated against the hand-curated answers, and are tiered by word frequency",
-             "(Zipf ≥ 3.3 Uncommon, ≥ 2.2 Rare, otherwise Deep Cut). Hand tiers always win.", "",
+             "Generated by `tools/build_extra.py`. Extra answers come from Wikidata (cached in `tools/wikidata/`,",
+             "fetched by `tools/wikidata_fetch.py`) and the open datasets listed in the build script. They are",
+             "de-duplicated against the hand-curated answers (ignoring category words like \"River\" or \"Lake\") and",
+             "ranked by popularity: Wikidata answers by how many Wikipedia language editions cover them, with",
+             "cut-offs calibrated on where that prompt's hand-ranked answers sit; dataset answers by word frequency",
+             "(Zipf ≥ 3.3 Burrower, ≥ 2.2 Rare, otherwise Deep Cut). Hand ranks always win, and only the hand pass",
+             "sets Topsoil, Too Clever and the Mother Lode.", "",
              "Total extra answers: **%d** across %d prompts." % (total, len(log)), "",
-             "| Prompt | Hand keys | Added | Uncommon | Rare | Deep Cut | Skipped |", "|---|---|---|---|---|---|---|"]
-    for pid, hk, added, t, d in log:
-        lines.append("| %s | %d | %d | %d | %d | %d | %s |" % (pid, hk, added, t["s"], t["r"], t["d"], ", ".join("%s %d" % kv for kv in d.items()) or "—"))
+             "| Prompt | Hand keys | Added | Burrower | Rare | Deep Cut | From | Wikidata ranks | Skipped |",
+             "|---|---|---|---|---|---|---|---|---|"]
+    for pid, hk, added, t, used, how, d in log:
+        lines.append("| %s | %d | %d | %d | %d | %d | %s | %s | %s |" % (
+            pid, hk, added, t["s"], t["r"], t["d"], ", ".join("%s %d" % kv for kv in used.items()) or "—", how,
+            ", ".join("%s %d" % kv for kv in d.items()) or "—"))
     with open(os.path.join(ROOT, "tools", "answer-build-log.md"), "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
     print("added %d answers across %d prompts" % (total, len(log)))

@@ -1,0 +1,650 @@
+[
+[
+"Sahara",
+225
+],
+[
+"Sinai Peninsula",
+133
+],
+[
+"Gobi Desert",
+118
+],
+[
+"Kalahari Desert",
+106
+],
+[
+"Atacama Desert",
+104
+],
+[
+"Negev",
+98
+],
+[
+"Taklamakan",
+92
+],
+[
+"Karakum Desert",
+91
+],
+[
+"Namib",
+90
+],
+[
+"Thar Desert",
+83
+],
+[
+"Death Valley",
+79
+],
+[
+"Great Victoria Desert",
+77
+],
+[
+"Arabian Desert",
+74
+],
+[
+"Kyzyl Kum",
+73
+],
+[
+"Syrian Desert",
+71
+],
+[
+"Mojave Desert",
+70
+],
+[
+"Rub' al Khali",
+69
+],
+[
+"Sonoran Desert",
+67
+],
+[
+"Libyan Desert",
+65
+],
+[
+"Great Sandy Desert",
+55
+],
+[
+"Nubian Desert",
+51
+],
+[
+"Gibson Desert",
+49
+],
+[
+"Chihuahuan Desert",
+48
+],
+[
+"Judaean Desert",
+48
+],
+[
+"Aralkum",
+47
+],
+[
+"Simpson Desert",
+47
+],
+[
+"Eastern Desert",
+46
+],
+[
+"Ténéré desert",
+44
+],
+[
+"Danakil Desert",
+44
+],
+[
+"Błędów Desert",
+42
+],
+[
+"Tanami Desert",
+39
+],
+[
+"Betpak-Dala",
+39
+],
+[
+"Badain Jaran Desert",
+38
+],
+[
+"Great Basin Desert",
+38
+],
+[
+"Arabah",
+38
+],
+[
+"ad-Dahna Desert",
+37
+],
+[
+"Chalbi Desert",
+37
+],
+[
+"Little Sandy Desert",
+34
+],
+[
+"Painted Desert",
+34
+],
+[
+"Cholistan Desert",
+32
+],
+[
+"Ordos Desert",
+32
+],
+[
+"Aral Karakum",
+32
+],
+[
+"Tabernas Desert",
+32
+],
+[
+"Ryn Desert",
+31
+],
+[
+"Algerian Desert",
+31
+],
+[
+"Sechura Desert",
+31
+],
+[
+"Sakhir",
+31
+],
+[
+"Colorado Desert",
+29
+],
+[
+"Gurbantünggüt Desert",
+29
+],
+[
+"Registan Desert",
+29
+],
+[
+"Thal",
+28
+],
+[
+"Golodnaya Steppe",
+27
+],
+[
+"Black Rock Desert",
+27
+],
+[
+"Great Salt Lake Desert",
+27
+],
+[
+"Tirari Desert",
+25
+],
+[
+"Grand Erg Occidental",
+25
+],
+[
+"Dasht-e Margo",
+25
+],
+[
+"La Guajira Desert",
+24
+],
+[
+"Tengger Desert",
+24
+],
+[
+"Strzelecki Desert",
+24
+],
+[
+"Muyunkum Desert",
+23
+],
+[
+"Baja California Desert",
+23
+],
+[
+"Western Desert",
+23
+],
+[
+"Wahiba Sands",
+23
+],
+[
+"Saryesik-Atyrau Desert",
+23
+],
+[
+"Médanos de Coro National Park",
+22
+],
+[
+"Desert of Paran",
+22
+],
+[
+"Sturt Stony Desert",
+22
+],
+[
+"Lop Desert",
+22
+],
+[
+"Tanezrouft",
+21
+],
+[
+"Kumtag Desert",
+21
+],
+[
+"Yuma Desert",
+21
+],
+[
+"Alvord Desert",
+20
+],
+[
+"Monte Desert",
+20
+],
+[
+"Nyiri Desert",
+20
+],
+[
+"Arctic desert",
+19
+],
+[
+"Pedirka Desert",
+19
+],
+[
+"Ramlat al-Sab`atayn",
+19
+],
+[
+"Antelope Valley",
+19
+],
+[
+"Indus Valley desert",
+19
+],
+[
+"Salvador Dalí Desert",
+18
+],
+[
+"Arabia Deserta",
+18
+],
+[
+"Channeled Scablands",
+17
+],
+[
+"Kubuqi Desert",
+17
+],
+[
+"Amargosa Desert",
+17
+],
+[
+"Carcross Desert",
+16
+],
+[
+"Kharan Desert",
+16
+],
+[
+"Sprengisandur",
+15
+],
+[
+"El Djouf",
+15
+],
+[
+"Maspalomas Dunes",
+15
+],
+[
+"Alashan",
+14
+],
+[
+"Murzuq Desert",
+14
+],
+[
+"Escalante Desert",
+14
+],
+[
+"Kaokoveld",
+14
+],
+[
+"Black Desert",
+14
+],
+[
+"Bolsón de Mapimí",
+14
+],
+[
+"Coastal desert of Peru",
+13
+],
+[
+"Mu Us Desert",
+13
+],
+[
+"Kebira Crater",
+13
+],
+[
+"Gran Desierto de Altar",
+13
+],
+[
+"North Saharan steppe and woodlands",
+12
+],
+[
+"Harrat al-Sham",
+12
+],
+[
+"rangeland",
+12
+],
+[
+"Owyhee Desert",
+12
+],
+[
+"Chara Sands",
+12
+],
+[
+"Tule Desert",
+11
+],
+[
+"Yuha Desert",
+11
+],
+[
+"Siloli desert",
+11
+],
+[
+"Taukum",
+11
+],
+[
+"Lechuguilla Desert",
+11
+],
+[
+"Kazakh semi-desert",
+10
+],
+[
+"Desert of Maine",
+10
+],
+[
+"Smoke Creek Desert",
+10
+],
+[
+"Khongoryn Els",
+10
+],
+[
+"Monegros Desert",
+10
+],
+[
+"Jornada del Muerto",
+9
+],
+[
+"Talak",
+9
+],
+[
+"Western Desert cultural bloc",
+9
+],
+[
+"Katpana Desert",
+9
+],
+[
+"Erg Admer",
+9
+],
+[
+"Zin Desert",
+9
+],
+[
+"Central Asian northern desert",
+8
+],
+[
+"Tehuacán Valley matorral",
+8
+],
+[
+"Khuzestan Plain",
+7
+],
+[
+"Great American Desert",
+7
+],
+[
+"Red Desert",
+7
+],
+[
+"Carson Desert",
+7
+],
+[
+"Central Mexican matorral",
+7
+],
+[
+"Moçâmedes Desert",
+7
+],
+[
+"Nitrian Desert",
+7
+],
+[
+"Lompoul desert",
+7
+],
+[
+"Arid Diagonal",
+6
+],
+[
+"Tirari-Sturt stony desert",
+6
+],
+[
+"Goravan State Nature Reservation",
+6
+],
+[
+"Al Khatim Desert",
+6
+],
+[
+"Erg Tiffernine",
+6
+],
+[
+"Kachho",
+6
+],
+[
+"Hulun Buir Shadi",
+5
+],
+[
+"Sevier Desert",
+5
+],
+[
+"Y P Desert",
+5
+],
+[
+"San Lucan xeric scrub",
+5
+],
+[
+"Sayhad",
+5
+],
+[
+"Tamaulipan mezquital",
+5
+],
+[
+"Zhamankum",
+5
+],
+[
+"Kumtag Shamo",
+5
+],
+[
+"Zhuankum",
+5
+],
+[
+"Calansho Desert",
+5
+],
+[
+"Bogurar doi",
+5
+],
+[
+"Agafay Desert",
+5
+],
+[
+"Sinai Desert",
+5
+],
+[
+"Hammada du Guir",
+5
+],
+[
+"High Desert",
+4
+],
+[
+"Tonopah Desert",
+4
+],
+[
+"Rig-e Jenn",
+4
+],
+[
+"Gulf of California Xeric Scrub",
+4
+],
+[
+"Pacific desert",
+4
+],
+[
+"Ninety Mile Desert",
+4
+],
+[
+"Qoraqalpoq Cho‘li",
+4
+],
+[
+"Mælifellssandur",
+4
+],
+[
+"Kozłowska Desert",
+4
+],
+[
+"Ḩismá Desert",
+4
+],
+[
+"Geitlandshraun",
+4
+]
+]

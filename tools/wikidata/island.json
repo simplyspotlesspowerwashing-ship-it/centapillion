@@ -1,0 +1,5946 @@
+[
+[
+"Guam",
+196
+],
+[
+"Réunion",
+183
+],
+[
+"Great Britain",
+174
+],
+[
+"Ireland",
+171
+],
+[
+"Java",
+170
+],
+[
+"Easter Island",
+164
+],
+[
+"Sumatra",
+159
+],
+[
+"Crete",
+158
+],
+[
+"Montserrat",
+158
+],
+[
+"Christmas Island",
+153
+],
+[
+"Saint Helena",
+150
+],
+[
+"Borneo",
+147
+],
+[
+"New Guinea",
+147
+],
+[
+"Kyushu",
+138
+],
+[
+"Shikoku",
+131
+],
+[
+"Sulawesi",
+126
+],
+[
+"Mallorca",
+124
+],
+[
+"Hispaniola",
+124
+],
+[
+"Tahiti",
+123
+],
+[
+"Luzon",
+120
+],
+[
+"Sakhalin",
+118
+],
+[
+"Rhodes",
+116
+],
+[
+"Jan Mayen",
+114
+],
+[
+"Mindanao",
+113
+],
+[
+"Ibiza",
+104
+],
+[
+"Gotland",
+104
+],
+[
+"Timor",
+103
+],
+[
+"Saba",
+103
+],
+[
+"Sint Eustatius",
+103
+],
+[
+"Bali Island",
+102
+],
+[
+"North Island",
+102
+],
+[
+"Newfoundland",
+102
+],
+[
+"Bouvet Island",
+102
+],
+[
+"Navassa Island",
+102
+],
+[
+"Isle of Wight",
+101
+],
+[
+"Corfu",
+100
+],
+[
+"Ascension Island",
+100
+],
+[
+"South Island",
+99
+],
+[
+"Elba",
+99
+],
+[
+"Taiwan Island",
+97
+],
+[
+"Saint Martin",
+97
+],
+[
+"Baffin Island",
+96
+],
+[
+"Zealand",
+96
+],
+[
+"Bornholm",
+96
+],
+[
+"Lesbos",
+94
+],
+[
+"Socotra",
+92
+],
+[
+"Gran Canaria",
+91
+],
+[
+"Capri",
+91
+],
+[
+"Menorca",
+90
+],
+[
+"Clipperton Island",
+89
+],
+[
+"Santorini",
+89
+],
+[
+"Okinawa",
+89
+],
+[
+"Long Island",
+88
+],
+[
+"Rügen",
+87
+],
+[
+"Ellesmere Island",
+86
+],
+[
+"Vancouver Island",
+85
+],
+[
+"Stromboli",
+85
+],
+[
+"Jarvis Island",
+84
+],
+[
+"Saipan",
+84
+],
+[
+"Saaremaa",
+84
+],
+[
+"Trinidad",
+83
+],
+[
+"Howland Island",
+83
+],
+[
+"Lombok Island",
+82
+],
+[
+"Samos",
+82
+],
+[
+"Anglesey",
+82
+],
+[
+"Oahu",
+82
+],
+[
+"Chios",
+81
+],
+[
+"Lanzarote",
+81
+],
+[
+"New Britain",
+81
+],
+[
+"Jeju Island",
+81
+],
+[
+"Delos",
+80
+],
+[
+"Naxos Island",
+80
+],
+[
+"Fuerteventura",
+80
+],
+[
+"Funen",
+80
+],
+[
+"Flores Island",
+80
+],
+[
+"Sark",
+80
+],
+[
+"Victoria Island",
+79
+],
+[
+"Gozo",
+79
+],
+[
+"Euboea",
+78
+],
+[
+"Kos",
+78
+],
+[
+"Cephalonia",
+77
+],
+[
+"Hiiumaa",
+77
+],
+[
+"Öland",
+77
+],
+[
+"Barbuda",
+77
+],
+[
+"Lampedusa",
+76
+],
+[
+"Ithaca",
+76
+],
+[
+"Spitsbergen",
+75
+],
+[
+"Lord Howe Island",
+74
+],
+[
+"Wrangel Island",
+74
+],
+[
+"Phú Quốc",
+74
+],
+[
+"Zakynthos",
+74
+],
+[
+"Isle of Skye",
+73
+],
+[
+"Maui",
+72
+],
+[
+"Patmos",
+72
+],
+[
+"Robben Island",
+72
+],
+[
+"Banks Island",
+71
+],
+[
+"Kauaʻi",
+71
+],
+[
+"Cape Breton Island",
+71
+],
+[
+"Mykonos",
+71
+],
+[
+"Marajó",
+70
+],
+[
+"Usedom",
+70
+],
+[
+"Bioko",
+70
+],
+[
+"Djerba",
+70
+],
+[
+"Antigua",
+70
+],
+[
+"Kiritimati",
+69
+],
+[
+"Tobago",
+69
+],
+[
+"Diego Garcia",
+69
+],
+[
+"Peter I Island",
+69
+],
+[
+"Sumbawa Island",
+69
+],
+[
+"Devon Island",
+69
+],
+[
+"Aegina",
+69
+],
+[
+"Madura Island",
+69
+],
+[
+"Ko Samui",
+69
+],
+[
+"Sylt",
+68
+],
+[
+"Paros",
+68
+],
+[
+"Lemnos",
+68
+],
+[
+"Alexander Island",
+67
+],
+[
+"Macquarie Island",
+67
+],
+[
+"Comino",
+67
+],
+[
+"North Sentinel Island",
+67
+],
+[
+"Snake Island",
+66
+],
+[
+"Krk",
+66
+],
+[
+"Komodo Island",
+66
+],
+[
+"Isla de la Juventud",
+66
+],
+[
+"Hong Kong Island",
+66
+],
+[
+"Nantucket",
+66
+],
+[
+"Kavaratti",
+66
+],
+[
+"Île Amsterdam",
+65
+],
+[
+"Bougainville Island",
+65
+],
+[
+"Halmahera Island",
+65
+],
+[
+"Milos",
+65
+],
+[
+"Guadalcanal",
+65
+],
+[
+"Leyte",
+65
+],
+[
+"Mindoro",
+65
+],
+[
+"Cyprus",
+65
+],
+[
+"Bear Island",
+64
+],
+[
+"Salamis Island",
+64
+],
+[
+"Alcatraz Island",
+64
+],
+[
+"Schiermonnikoog",
+64
+],
+[
+"Hvar",
+63
+],
+[
+"Andros",
+63
+],
+[
+"Surtsey",
+63
+],
+[
+"Seram",
+63
+],
+[
+"Karpathos",
+63
+],
+[
+"Sumba Island",
+63
+],
+[
+"São Miguel Island",
+63
+],
+[
+"Rodrigues",
+63
+],
+[
+"Samar Island",
+63
+],
+[
+"Upolu",
+63
+],
+[
+"K'gari",
+62
+],
+[
+"Samothrace",
+62
+],
+[
+"Viti Levu",
+62
+],
+[
+"Ambon Island",
+62
+],
+[
+"Brač",
+61
+],
+[
+"Malta",
+61
+],
+[
+"West Island",
+61
+],
+[
+"Terschelling",
+61
+],
+[
+"Melville Island",
+61
+],
+[
+"Axel Heiberg Island",
+61
+],
+[
+"Vlieland",
+61
+],
+[
+"Nevis",
+61
+],
+[
+"Coco Island",
+61
+],
+[
+"Yakushima",
+61
+],
+[
+"Lefkada",
+60
+],
+[
+"Icaria",
+60
+],
+[
+"Negros",
+60
+],
+[
+"Kangaroo Island",
+60
+],
+[
+"New Ireland",
+60
+],
+[
+"Mahé",
+60
+],
+[
+"Lolland",
+60
+],
+[
+"Utøya",
+59
+],
+[
+"Kodiak Island",
+59
+],
+[
+"Saint Kitts",
+59
+],
+[
+"Ýdra",
+59
+],
+[
+"Southampton Island",
+59
+],
+[
+"Gorée",
+59
+],
+[
+"Qeshm Island",
+59
+],
+[
+"Island of Mozambique",
+59
+],
+[
+"Europa Island",
+58
+],
+[
+"Isle of Arran",
+58
+],
+[
+"Ruhnu",
+58
+],
+[
+"Panay",
+58
+],
+[
+"Molokaʻi",
+57
+],
+[
+"Korčula",
+57
+],
+[
+"Ellis Island",
+57
+],
+[
+"Thasos",
+57
+],
+[
+"Stewart Island/Rakiura",
+57
+],
+[
+"Prince of Wales Island",
+57
+],
+[
+"Pico Island",
+57
+],
+[
+"Syros",
+57
+],
+[
+"Savai'i",
+57
+],
+[
+"Liberty Island",
+57
+],
+[
+"Santiago",
+56
+],
+[
+"Cres",
+56
+],
+[
+"Bangka Island",
+56
+],
+[
+"Kythira",
+56
+],
+[
+"Scyros",
+56
+],
+[
+"Tinos",
+56
+],
+[
+"Kish Island",
+56
+],
+[
+"Buru Island",
+56
+],
+[
+"Isla Grande de Tierra del Fuego",
+56
+],
+[
+"Margarita Island",
+56
+],
+[
+"Nias Island",
+56
+],
+[
+"Catanduanes",
+55
+],
+[
+"Île Saint-Paul",
+55
+],
+[
+"Príncipe",
+55
+],
+[
+"São Tomé Island",
+55
+],
+[
+"Mljet",
+55
+],
+[
+"Imbros",
+55
+],
+[
+"Muhu",
+55
+],
+[
+"Kunashir Island",
+55
+],
+[
+"Chiloé Island",
+55
+],
+[
+"Islay",
+54
+],
+[
+"Bering Island",
+54
+],
+[
+"Tsushima Island",
+54
+],
+[
+"Tongatapu",
+54
+],
+[
+"Falster",
+54
+],
+[
+"Hormuz Island",
+54
+],
+[
+"Isle of Mull",
+53
+],
+[
+"Sal",
+53
+],
+[
+"Schouwen-Duiveland",
+53
+],
+[
+"Streymoy",
+53
+],
+[
+"Peñón de Vélez de la Gomera",
+53
+],
+[
+"Vágar",
+53
+],
+[
+"Pemba Island",
+53
+],
+[
+"Terceira Island",
+53
+],
+[
+"Kea",
+53
+],
+[
+"Ios",
+53
+],
+[
+"Kihnu",
+53
+],
+[
+"Fogo",
+53
+],
+[
+"Rarotonga",
+53
+],
+[
+"Reichenau Island",
+52
+],
+[
+"Herm",
+52
+],
+[
+"Eysturoy",
+52
+],
+[
+"Murano",
+52
+],
+[
+"Skellig Michael",
+52
+],
+[
+"Amorgos",
+52
+],
+[
+"Cozumel Island",
+52
+],
+[
+"South Georgia",
+52
+],
+[
+"Vaygach Island",
+52
+],
+[
+"Langeland",
+52
+],
+[
+"Rocas Atoll",
+52
+],
+[
+"Kastellorizo",
+52
+],
+[
+"Serifos",
+52
+],
+[
+"Hashima Island",
+52
+],
+[
+"Vanua Levu",
+52
+],
+[
+"Saint Vincent",
+52
+],
+[
+"Henderson Island",
+52
+],
+[
+"Gough Island",
+52
+],
+[
+"Kosrae",
+52
+],
+[
+"Redonda",
+52
+],
+[
+"Ilha da Queimada Grande",
+51
+],
+[
+"North Jutlandic Island",
+51
+],
+[
+"King William Island",
+51
+],
+[
+"Prince Patrick Island",
+51
+],
+[
+"Vieques",
+51
+],
+[
+"Iona",
+50
+],
+[
+"Boa Vista",
+50
+],
+[
+"Lanai",
+50
+],
+[
+"Vis",
+50
+],
+[
+"Pag",
+50
+],
+[
+"Ross Island",
+50
+],
+[
+"Bozcaada",
+50
+],
+[
+"Juan de Nova Island",
+50
+],
+[
+"Kilwa Kisiwani",
+50
+],
+[
+"Ball's Pyramid",
+49
+],
+[
+"Jura",
+49
+],
+[
+"Martha's Vineyard",
+49
+],
+[
+"Somerset Island",
+49
+],
+[
+"Koltur",
+49
+],
+[
+"Bassas da India",
+49
+],
+[
+"Sifnos",
+49
+],
+[
+"Iturup",
+49
+],
+[
+"Banaba Island",
+49
+],
+[
+"Niʻihau",
+49
+],
+[
+"Olkhon Island",
+49
+],
+[
+"St. Lawrence Island",
+49
+],
+[
+"Sentosa",
+49
+],
+[
+"Lantau Island",
+49
+],
+[
+"Linosa",
+49
+],
+[
+"São Vicente",
+48
+],
+[
+"Borðoy",
+48
+],
+[
+"Rab",
+48
+],
+[
+"Montecristo",
+48
+],
+[
+"Kizhi",
+48
+],
+[
+"Lítla Dímun",
+48
+],
+[
+"Unguja",
+48
+],
+[
+"Amager",
+48
+],
+[
+"Gavdos",
+48
+],
+[
+"Tromelin Island",
+48
+],
+[
+"Palawan",
+48
+],
+[
+"Tutuila",
+48
+],
+[
+"Sazan Island",
+48
+],
+[
+"Filfla",
+48
+],
+[
+"Sveti Stefan",
+48
+],
+[
+"Espiritu Santo",
+48
+],
+[
+"Awaji Island",
+48
+],
+[
+"Anticosti Island",
+48
+],
+[
+"Madeira Island",
+47
+],
+[
+"Nordaustlandet",
+47
+],
+[
+"Burano",
+47
+],
+[
+"Suðuroy",
+47
+],
+[
+"Tortuga",
+47
+],
+[
+"Samsø",
+47
+],
+[
+"Lido di Venezia",
+47
+],
+[
+"Mafia Island",
+47
+],
+[
+"Paxos",
+47
+],
+[
+"Bolshevik Island",
+47
+],
+[
+"Moorea",
+47
+],
+[
+"Saint Croix",
+47
+],
+[
+"Robinson Crusoe Island",
+47
+],
+[
+"Belitung Island",
+47
+],
+[
+"Lošinj",
+47
+],
+[
+"Saint Thomas",
+47
+],
+[
+"Kalymnos",
+47
+],
+[
+"Pianosa",
+46
+],
+[
+"Sandoy",
+46
+],
+[
+"October Revolution Island",
+46
+],
+[
+"Ærø",
+46
+],
+[
+"Kahoolawe",
+46
+],
+[
+"Skopelos",
+46
+],
+[
+"Hans Island",
+46
+],
+[
+"Kotelny Island",
+46
+],
+[
+"Babeldaob",
+46
+],
+[
+"Tortola",
+46
+],
+[
+"Tinian",
+46
+],
+[
+"Ternate Island",
+46
+],
+[
+"Arwad",
+46
+],
+[
+"Leros",
+46
+],
+[
+"Föhr",
+45
+],
+[
+"Santo Antão",
+45
+],
+[
+"Hestur",
+45
+],
+[
+"Tidore Island",
+45
+],
+[
+"Bathurst Island",
+45
+],
+[
+"Severny Island",
+45
+],
+[
+"Folegandros",
+45
+],
+[
+"Antikythera",
+45
+],
+[
+"Nisyros",
+45
+],
+[
+"Efate",
+45
+],
+[
+"Alicudi",
+45
+],
+[
+"Kotlin Island",
+45
+],
+[
+"Masbate",
+45
+],
+[
+"Kolepom Island",
+45
+],
+[
+"New Providence",
+45
+],
+[
+"Ometepe",
+45
+],
+[
+"Salina",
+45
+],
+[
+"Symi",
+45
+],
+[
+"Skiathos",
+45
+],
+[
+"Kasos",
+45
+],
+[
+"Amrum",
+44
+],
+[
+"Big Diomede",
+44
+],
+[
+"Mykines",
+44
+],
+[
+"Porto Santo",
+44
+],
+[
+"Devil's Island",
+44
+],
+[
+"Heimaey",
+44
+],
+[
+"Kalsoy",
+44
+],
+[
+"Nólsoy",
+44
+],
+[
+"Coiba",
+44
+],
+[
+"Panarea",
+44
+],
+[
+"Faial Island",
+44
+],
+[
+"Raiatea",
+44
+],
+[
+"Khortytsia",
+44
+],
+[
+"Oléron Island",
+44
+],
+[
+"Inaccessible Island",
+44
+],
+[
+"Marmara Island",
+44
+],
+[
+"Isabela Island",
+43
+],
+[
+"Abu Musa Island",
+43
+],
+[
+"Mainland",
+43
+],
+[
+"Cabrera",
+43
+],
+[
+"Torcello",
+43
+],
+[
+"Fugloy",
+43
+],
+[
+"Fårö",
+43
+],
+[
+"Ellef Ringnes Island",
+43
+],
+[
+"Kunoy",
+43
+],
+[
+"Kolguyev Island",
+43
+],
+[
+"Yonaguni",
+43
+],
+[
+"Viðoy",
+43
+],
+[
+"Anafi",
+43
+],
+[
+"Isle of Ré",
+43
+],
+[
+"Santa Cruz Island",
+43
+],
+[
+"Vormsi",
+43
+],
+[
+"Bylot Island",
+43
+],
+[
+"Kaffeklubben Island",
+43
+],
+[
+"Læsø",
+43
+],
+[
+"Edgeøya",
+43
+],
+[
+"Kassari",
+43
+],
+[
+"San Salvador Island",
+43
+],
+[
+"Šolta",
+43
+],
+[
+"Brava",
+43
+],
+[
+"Rømø",
+42
+],
+[
+"Corvo Island",
+42
+],
+[
+"Astypalaia",
+42
+],
+[
+"Yuzhny Island",
+42
+],
+[
+"Stóra Dímun",
+42
+],
+[
+"Ko Pha-ngan",
+42
+],
+[
+"Philae",
+42
+],
+[
+"Praslin",
+42
+],
+[
+"Ishigaki Island",
+42
+],
+[
+"Poros",
+42
+],
+[
+"Dugi otok",
+42
+],
+[
+"Møn",
+42
+],
+[
+"Tanegashima",
+42
+],
+[
+"Mactan",
+42
+],
+[
+"Disko Island",
+42
+],
+[
+"Lewis and Harris",
+42
+],
+[
+"Abruka",
+42
+],
+[
+"Saint John",
+42
+],
+[
+"Isla de los Estados",
+42
+],
+[
+"Nusapenida Island",
+42
+],
+[
+"Agaléga",
+41
+],
+[
+"Grímsey",
+41
+],
+[
+"Île-d'Aix",
+41
+],
+[
+"Skúvoy",
+41
+],
+[
+"Bananal Island",
+41
+],
+[
+"Antiparos",
+41
+],
+[
+"Santa Maria Island",
+41
+],
+[
+"Kythnos",
+41
+],
+[
+"Manitoulin Island",
+41
+],
+[
+"Osmussaar",
+41
+],
+[
+"Guernsey",
+41
+],
+[
+"Spinalonga",
+41
+],
+[
+"Guadalupe Island",
+41
+],
+[
+"San Cristóbal Island",
+41
+],
+[
+"Maio",
+41
+],
+[
+"Tubuai",
+41
+],
+[
+"Huahine",
+41
+],
+[
+"Isla Salas y Gómez",
+40
+],
+[
+"Wolin",
+40
+],
+[
+"Elephant Island",
+40
+],
+[
+"Svínoy",
+40
+],
+[
+"Barra",
+40
+],
+[
+"Gulangyu",
+40
+],
+[
+"Buton Island",
+40
+],
+[
+"Annobón Island",
+40
+],
+[
+"East Falkland",
+40
+],
+[
+"Malaita",
+40
+],
+[
+"Tino",
+40
+],
+[
+"Cominotto",
+40
+],
+[
+"Sikinos",
+40
+],
+[
+"Rudolf Island",
+40
+],
+[
+"South Uist",
+40
+],
+[
+"Amami Ōshima",
+40
+],
+[
+"Ko Chang",
+40
+],
+[
+"Spetses",
+40
+],
+[
+"Urup",
+40
+],
+[
+"Pohnpei",
+40
+],
+[
+"Graciosa",
+40
+],
+[
+"Ganghwa Island",
+40
+],
+[
+"Niutao",
+40
+],
+[
+"Goli otok",
+40
+],
+[
+"Als",
+39
+],
+[
+"Ulleungdo",
+39
+],
+[
+"Morotai Island",
+39
+],
+[
+"Peñón de Alhucemas",
+39
+],
+[
+"Ugljan",
+39
+],
+[
+"Weno",
+39
+],
+[
+"Lastovo",
+39
+],
+[
+"Minamitorishima",
+39
+],
+[
+"Aitutaki",
+39
+],
+[
+"La Désirade",
+39
+],
+[
+"Shikotan",
+39
+],
+[
+"Komsomolets Island",
+39
+],
+[
+"Fair Isle",
+39
+],
+[
+"Palmaria",
+39
+],
+[
+"Graciosa Island",
+39
+],
+[
+"Filicudi",
+39
+],
+[
+"Benbecula",
+39
+],
+[
+"São Jorge Island",
+39
+],
+[
+"King Island",
+39
+],
+[
+"Siberut Island",
+39
+],
+[
+"Paramushir",
+39
+],
+[
+"Alonnisos",
+39
+],
+[
+"Bintan Island",
+39
+],
+[
+"Djurgården",
+39
+],
+[
+"Psara",
+39
+],
+[
+"Prince Charles Island",
+39
+],
+[
+"Samosir Island",
+39
+],
+[
+"Senja",
+39
+],
+[
+"Roosevelt Island",
+39
+],
+[
+"Tilos",
+39
+],
+[
+"Tanna",
+39
+],
+[
+"King George Island",
+39
+],
+[
+"Rota",
+39
+],
+[
+"Roatán",
+39
+],
+[
+"Ko Tao",
+39
+],
+[
+"Agistri",
+39
+],
+[
+"Lampione",
+38
+],
+[
+"Giannutri",
+38
+],
+[
+"Likoma Island",
+38
+],
+[
+"Perim",
+38
+],
+[
+"Anholt",
+38
+],
+[
+"Atlasov Island",
+38
+],
+[
+"Grand Cayman",
+38
+],
+[
+"Achill Island",
+38
+],
+[
+"Alboran Island",
+38
+],
+[
+"Atauro",
+38
+],
+[
+"North Uist",
+38
+],
+[
+"Wieringen",
+38
+],
+[
+"Sriharikota",
+38
+],
+[
+"Rote Island",
+38
+],
+[
+"Vilsandi",
+38
+],
+[
+"Nosy Boraha",
+38
+],
+[
+"Marie-Galante",
+38
+],
+[
+"Santa Catalina Island",
+38
+],
+[
+"East Rennell",
+38
+],
+[
+"Halki",
+38
+],
+[
+"Hiva-Oa",
+38
+],
+[
+"Goeree-Overflakkee",
+38
+],
+[
+"Anegada",
+38
+],
+[
+"Fungus Rock",
+38
+],
+[
+"Salsette",
+37
+],
+[
+"Rapa Iti",
+37
+],
+[
+"Gröde",
+37
+],
+[
+"Nuku Hiva",
+37
+],
+[
+"Poveglia",
+37
+],
+[
+"La Digue",
+37
+],
+[
+"Grande Terre",
+37
+],
+[
+"Gonâve Island",
+37
+],
+[
+"West Falkland",
+37
+],
+[
+"Rùm",
+37
+],
+[
+"Bequia",
+37
+],
+[
+"Niulakita",
+37
+],
+[
+"Malakula Island",
+37
+],
+[
+"Unst",
+37
+],
+[
+"St Paul's Island",
+37
+],
+[
+"Bawean Island",
+37
+],
+[
+"Wetar Island",
+37
+],
+[
+"Futuna",
+37
+],
+[
+"Capraia",
+37
+],
+[
+"Orchid Island",
+37
+],
+[
+"Caprera",
+37
+],
+[
+"Kimolos",
+37
+],
+[
+"Flinders Island",
+37
+],
+[
+"Livingston Island",
+37
+],
+[
+"Kvitøya",
+37
+],
+[
+"Ambrym",
+37
+],
+[
+"Leipsoi",
+37
+],
+[
+"Iriomote Island",
+37
+],
+[
+"São Nicolau",
+37
+],
+[
+"Tiree",
+37
+],
+[
+"Hinnøya",
+36
+],
+[
+"Giudecca",
+36
+],
+[
+"Fanø",
+36
+],
+[
+"Eleuthera",
+36
+],
+[
+"Penang Island",
+36
+],
+[
+"Cat Island",
+36
+],
+[
+"Cornwallis Island",
+36
+],
+[
+"Staffa",
+36
+],
+[
+"Attu Island",
+36
+],
+[
+"Little Diomede Island",
+36
+],
+[
+"Masirah Island",
+36
+],
+[
+"Bardsey Island",
+36
+],
+[
+"Magerøya",
+36
+],
+[
+"Yapen Island",
+36
+],
+[
+"Tuzla Island",
+36
+],
+[
+"Buka Island",
+36
+],
+[
+"Jolo",
+36
+],
+[
+"Lundy",
+36
+],
+[
+"Grand Bahama",
+36
+],
+[
+"Itsukushima",
+36
+],
+[
+"Barentsøya",
+36
+],
+[
+"Unimak Island",
+36
+],
+[
+"Wallis",
+36
+],
+[
+"Antipaxos",
+36
+],
+[
+"Santa Luzia",
+36
+],
+[
+"Nunivak Island",
+36
+],
+[
+"Pašman",
+36
+],
+[
+"Ven",
+36
+],
+[
+"Gorgona",
+35
+],
+[
+"Rennell Island",
+35
+],
+[
+"Tavolara Island",
+35
+],
+[
+"Alor Island",
+35
+],
+[
+"Taveuni",
+35
+],
+[
+"Hoy",
+35
+],
+[
+"Naissaar",
+35
+],
+[
+"Valentia Island",
+35
+],
+[
+"Deception Island",
+35
+],
+[
+"Vasilyevsky Island",
+35
+],
+[
+"Weh Island",
+35
+],
+[
+"Wellington Island",
+35
+],
+[
+"Rottnest Island",
+35
+],
+[
+"Olib",
+35
+],
+[
+"Bubiyan Island",
+35
+],
+[
+"Malpelo Island",
+35
+],
+[
+"Waigeo Island",
+35
+],
+[
+"Cebu",
+35
+],
+[
+"Mehetia",
+35
+],
+[
+"Oeno Island",
+35
+],
+[
+"Hopen",
+35
+],
+[
+"Murter",
+35
+],
+[
+"New Siberia",
+35
+],
+[
+"Nanumanga",
+35
+],
+[
+"Biševo",
+35
+],
+[
+"Biak Island",
+35
+],
+[
+"Yell",
+35
+],
+[
+"Aegna",
+35
+],
+[
+"Agathonisi",
+35
+],
+[
+"Amund Ringnes Island",
+35
+],
+[
+"Sipadan",
+35
+],
+[
+"Isla de Mona",
+34
+],
+[
+"San Giorgio Maggiore",
+34
+],
+[
+"Swains Island",
+34
+],
+[
+"Virgin Gorda",
+34
+],
+[
+"Ayon Island",
+34
+],
+[
+"Rathlin Island",
+34
+],
+[
+"Büyükada",
+34
+],
+[
+"Donoussa",
+34
+],
+[
+"Gogland",
+34
+],
+[
+"Car Nicobar Island",
+34
+],
+[
+"Thurston Island",
+34
+],
+[
+"Tiran Island",
+34
+],
+[
+"Unije",
+34
+],
+[
+"Manus Island",
+34
+],
+[
+"New Hanover Island",
+34
+],
+[
+"Södermalm",
+34
+],
+[
+"Groote Eylandt",
+34
+],
+[
+"Mangareva",
+34
+],
+[
+"Belle Île",
+34
+],
+[
+"Dikson Island",
+34
+],
+[
+"Maupiti",
+34
+],
+[
+"Baranof Island",
+34
+],
+[
+"Miyako Island",
+34
+],
+[
+"Sable Island",
+34
+],
+[
+"Simeulue Island",
+34
+],
+[
+"San Michele",
+34
+],
+[
+"Saona Island",
+34
+],
+[
+"Great Barrier Island",
+34
+],
+[
+"Tulagi",
+34
+],
+[
+"Foula",
+34
+],
+[
+"Ulva",
+34
+],
+[
+"Prangli",
+34
+],
+[
+"Neuwerk",
+33
+],
+[
+"Snares Islands/Tini Heke",
+33
+],
+[
+"Makatea",
+33
+],
+[
+"Isola Bella",
+33
+],
+[
+"Donauinsel",
+33
+],
+[
+"Alofi Island",
+33
+],
+[
+"Desertas Islands",
+33
+],
+[
+"Isle of Bute",
+33
+],
+[
+"Floreana Island",
+33
+],
+[
+"Chichagof Island",
+33
+],
+[
+"Chek Lap Kok",
+33
+],
+[
+"Barren Island",
+33
+],
+[
+"Fatu Hiva",
+33
+],
+[
+"Carriacou Island",
+33
+],
+[
+"Tinetto",
+33
+],
+[
+"Belkovsky Island",
+33
+],
+[
+"Bennett Island",
+33
+],
+[
+"Île d'Yeu",
+33
+],
+[
+"Tioman Island",
+33
+],
+[
+"Culebra",
+33
+],
+[
+"Yas Island",
+33
+],
+[
+"Shumshu",
+33
+],
+[
+"İmralı",
+33
+],
+[
+"Dia",
+33
+],
+[
+"Choiseul Island",
+33
+],
+[
+"Adelaide Island",
+33
+],
+[
+"Ada Kaleh",
+33
+],
+[
+"Okinotorishima",
+33
+],
+[
+"Waiheke Island",
+33
+],
+[
+"Čiovo",
+33
+],
+[
+"Gotska Sandön",
+33
+],
+[
+"Anatahan",
+33
+],
+[
+"Agios Efstratios",
+33
+],
+[
+"Malden Island",
+33
+],
+[
+"Levanzo",
+33
+],
+[
+"Akimiski Island",
+33
+],
+[
+"ʻEua",
+33
+],
+[
+"Zemlya Georga",
+33
+],
+[
+"Failaka Island",
+33
+],
+[
+"Chatham Island",
+33
+],
+[
+"South Andaman Island",
+33
+],
+[
+"Adak Island",
+32
+],
+[
+"Prins Karls Forland",
+32
+],
+[
+"Lopud",
+32
+],
+[
+"Pagan",
+32
+],
+[
+"Ponza",
+32
+],
+[
+"Siple Island",
+32
+],
+[
+"Premuda",
+32
+],
+[
+"Navarino Island",
+32
+],
+[
+"Pinta Island",
+32
+],
+[
+"Singapore Island",
+32
+],
+[
+"Antsiferov Island",
+32
+],
+[
+"Santa Isabel Island",
+32
+],
+[
+"Asinara",
+32
+],
+[
+"Taipa",
+32
+],
+[
+"Isle of Noirmoutier",
+32
+],
+[
+"Manono Island",
+32
+],
+[
+"Siargao",
+32
+],
+[
+"Misool Island",
+32
+],
+[
+"Inagua",
+32
+],
+[
+"Ernst Thälmann Island",
+32
+],
+[
+"Corregidor",
+32
+],
+[
+"Acklins",
+32
+],
+[
+"Eigg",
+32
+],
+[
+"Cayman Brac",
+32
+],
+[
+"Ailsa Craig",
+32
+],
+[
+"Bressay",
+32
+],
+[
+"Great Bernera",
+32
+],
+[
+"Santiago Island",
+32
+],
+[
+"Unalaska Island",
+32
+],
+[
+"Mayaguana",
+32
+],
+[
+"Alexandra Land",
+32
+],
+[
+"Zavodovski Island",
+31
+],
+[
+"Silba",
+31
+],
+[
+"Elephanta Island",
+31
+],
+[
+"La Tortuga Island",
+31
+],
+[
+"Fasta Åland",
+31
+],
+[
+"Larak Island",
+31
+],
+[
+"Okinoshima",
+31
+],
+[
+"Crooked Island",
+31
+],
+[
+"Sado Island",
+31
+],
+[
+"James Ross Island",
+31
+],
+[
+"Susak",
+31
+],
+[
+"Nikumaroro",
+31
+],
+[
+"Great Nicobar Island",
+31
+],
+[
+"New Georgia",
+31
+],
+[
+"Kadavu Island",
+31
+],
+[
+"Isla Mujeres",
+31
+],
+[
+"Fetlar",
+31
+],
+[
+"Chrysi",
+31
+],
+[
+"Anuta",
+31
+],
+[
+"Therasia",
+31
+],
+[
+"Aranuka",
+31
+],
+[
+"Alegranza",
+31
+],
+[
+"Isla del Sol",
+31
+],
+[
+"Wilczek Land",
+31
+],
+[
+"Umnak",
+31
+],
+[
+"Schoinoussa",
+31
+],
+[
+"Brownsea Island",
+31
+],
+[
+"Pserimos",
+31
+],
+[
+"Ortygia",
+31
+],
+[
+"Socorro Island",
+31
+],
+[
+"Scott Island",
+31
+],
+[
+"Ilha Grande",
+31
+],
+[
+"Saltholm",
+31
+],
+[
+"Mangaia",
+31
+],
+[
+"Maiao",
+31
+],
+[
+"Borden Island",
+31
+],
+[
+"Mors",
+31
+],
+[
+"Lamma Island",
+31
+],
+[
+"Faddeyevsky Peninsula",
+31
+],
+[
+"Tikopia",
+31
+],
+[
+"Manoel Island",
+31
+],
+[
+"Ōkunoshima",
+31
+],
+[
+"Aneityum",
+31
+],
+[
+"Tåsinge",
+31
+],
+[
+"Alamagan",
+31
+],
+[
+"Mackinac Island",
+31
+],
+[
+"Sitra",
+31
+],
+[
+"Enderbury Island",
+30
+],
+[
+"Canna",
+30
+],
+[
+"Baltra Island",
+30
+],
+[
+"Mandø",
+30
+],
+[
+"Memmert",
+30
+],
+[
+"Gyali",
+30
+],
+[
+"Stefansson Island",
+30
+],
+[
+"Drvenik Veli",
+30
+],
+[
+"Salawati Island",
+30
+],
+[
+"Rinca Island",
+30
+],
+[
+"Cát Bà Island",
+30
+],
+[
+"Karaginsky Island",
+30
+],
+[
+"Tory Island",
+30
+],
+[
+"Coloane",
+30
+],
+[
+"Ilovik",
+30
+],
+[
+"Ekarma",
+30
+],
+[
+"Rhun Island",
+30
+],
+[
+"Stolbovoy Island",
+30
+],
+[
+"Apolima",
+30
+],
+[
+"Ventotene",
+30
+],
+[
+"Makronisos",
+30
+],
+[
+"Island of Montreal",
+30
+],
+[
+"Vir",
+30
+],
+[
+"Prvić",
+30
+],
+[
+"Makira",
+30
+],
+[
+"Putuoshan",
+30
+],
+[
+"Santa Cruz del Islote",
+30
+],
+[
+"San Lazzaro degli Armeni",
+30
+],
+[
+"Sanafr Island",
+30
+],
+[
+"Baratang Island",
+30
+],
+[
+"Rum Cay",
+30
+],
+[
+"Pitcairn Island",
+30
+],
+[
+"Skorpios",
+30
+],
+[
+"Darwin's Arch",
+30
+],
+[
+"Elliðaey",
+30
+],
+[
+"Kaprije",
+30
+],
+[
+"Erromango",
+30
+],
+[
+"Abd al Kuri",
+30
+],
+[
+"Marken",
+30
+],
+[
+"Coats Island",
+30
+],
+[
+"Inis Mór",
+30
+],
+[
+"Darwin Island",
+30
+],
+[
+"Lipari",
+30
+],
+[
+"Muna Island",
+30
+],
+[
+"Russky Island",
+30
+],
+[
+"Antimilos",
+30
+],
+[
+"Bely Island",
+30
+],
+[
+"Visingsö",
+30
+],
+[
+"Grande-Terre",
+30
+],
+[
+"Aoba Island",
+30
+],
+[
+"Ambergris Caye",
+30
+],
+[
+"Colonsay",
+30
+],
+[
+"Fire Island",
+30
+],
+[
+"Hoste Island",
+30
+],
+[
+"Kvaløya, Troms",
+29
+],
+[
+"Laysan",
+29
+],
+[
+"Mackenzie King Island",
+29
+],
+[
+"Dokos",
+29
+],
+[
+"Iž",
+29
+],
+[
+"Isle of Raasay",
+29
+],
+[
+"Bolshoy Lyakhovsky Island",
+29
+],
+[
+"Little Cayman",
+29
+],
+[
+"Tiburón Island",
+29
+],
+[
+"Kalamos",
+29
+],
+[
+"Burgaz Adası",
+29
+],
+[
+"Taʻū",
+29
+],
+[
+"Chichijima",
+29
+],
+[
+"Mocha Island",
+29
+],
+[
+"Gaua",
+29
+],
+[
+"Onekotan",
+29
+],
+[
+"Carney Island",
+29
+],
+[
+"Afognak",
+29
+],
+[
+"Ashuradeh",
+29
+],
+[
+"Hornos Island",
+29
+],
+[
+"Clarence Island",
+29
+],
+[
+"Asuncion Island",
+29
+],
+[
+"Isla Aves",
+29
+],
+[
+"Coronation Island",
+29
+],
+[
+"Muckle Roe",
+29
+],
+[
+"Corisco",
+29
+],
+[
+"Molat",
+29
+],
+[
+"Bahrain Island",
+29
+],
+[
+"Sørøya",
+29
+],
+[
+"Kamaran",
+29
+],
+[
+"Enggano Island",
+29
+],
+[
+"Sestrunj",
+29
+],
+[
+"Necker Island",
+29
+],
+[
+"Ap Lei Chau",
+29
+],
+[
+"Jethou",
+29
+],
+[
+"Admiralty Island",
+29
+],
+[
+"Joinville Island",
+29
+],
+[
+"Chongming Island",
+29
+],
+[
+"Isle of Pines",
+29
+],
+[
+"Amchitka",
+29
+],
+[
+"Žirje",
+29
+],
+[
+"Moneron Island",
+29
+],
+[
+"Whalsay",
+29
+],
+[
+"Yamdena Island",
+29
+],
+[
+"Andøya",
+29
+],
+[
+"Agrihan",
+29
+],
+[
+"Taketomi Island",
+29
+],
+[
+"Santa Fe Island",
+29
+],
+[
+"Kornat",
+29
+],
+[
+"Marettimo",
+29
+],
+[
+"Utila",
+29
+],
+[
+"Graham Bell Island",
+29
+],
+[
+"Elafonisos",
+28
+],
+[
+"Coll",
+28
+],
+[
+"Viðey",
+28
+],
+[
+"Chizumulu Island",
+28
+],
+[
+"Zlarin",
+28
+],
+[
+"Rikers Island",
+28
+],
+[
+"Zhenbao Island",
+28
+],
+[
+"Berezan Island",
+28
+],
+[
+"Kong Karls Land",
+28
+],
+[
+"Pantar Island",
+28
+],
+[
+"Wolf Island",
+28
+],
+[
+"Irakleia",
+28
+],
+[
+"Gyaros",
+28
+],
+[
+"Orona",
+28
+],
+[
+"Española Island",
+28
+],
+[
+"Providenciales",
+28
+],
+[
+"Savo Island",
+28
+],
+[
+"Zhokhov Island",
+28
+],
+[
+"Jeannette Island",
+28
+],
+[
+"Snow Hill Island",
+28
+],
+[
+"Rurutu",
+28
+],
+[
+"Drvenik Mali",
+28
+],
+[
+"Epi",
+28
+],
+[
+"Sebatik Island",
+28
+],
+[
+"Lokrum",
+28
+],
+[
+"Maly Taymyr Island",
+28
+],
+[
+"Cornwall Island",
+28
+],
+[
+"Graham Island",
+28
+],
+[
+"Arkoi",
+28
+],
+[
+"Henrietta Island",
+28
+],
+[
+"Wrangell Island",
+28
+],
+[
+"Saria island",
+28
+],
+[
+"Elafonisi",
+28
+],
+[
+"St Mary's",
+28
+],
+[
+"Manuae",
+28
+],
+[
+"Koločep",
+28
+],
+[
+"Chirinkotan",
+28
+],
+[
+"Campbell Island / Motu Ihupuku",
+28
+],
+[
+"Jost Van Dyke",
+28
+],
+[
+"Green Island",
+28
+],
+[
+"Greenland",
+28
+],
+[
+"Matua",
+28
+],
+[
+"Mansel Island",
+28
+],
+[
+"Muharraq Island",
+28
+],
+[
+"Bigger Begichev Island",
+28
+],
+[
+"Ist",
+28
+],
+[
+"Butaritari",
+28
+],
+[
+"Brecqhou",
+28
+],
+[
+"Ukerewe Island",
+28
+],
+[
+"Teraina",
+28
+],
+[
+"San Pietro Island",
+28
+],
+[
+"Mauke",
+28
+],
+[
+"Keros",
+28
+],
+[
+"Dawson Island",
+28
+],
+[
+"Makanrushi",
+28
+],
+[
+"Šipan",
+28
+],
+[
+"Iki Island",
+28
+],
+[
+"Thursday Island",
+28
+],
+[
+"Moskenesøya",
+28
+],
+[
+"Union Island",
+28
+],
+[
+"Meganisi",
+28
+],
+[
+"Alejandro Selkirk Island",
+28
+],
+[
+"Kapiti Island",
+28
+],
+[
+"Isle of Sheppey",
+28
+],
+[
+"Basse-Terre Island",
+27
+],
+[
+"Moresby Island",
+27
+],
+[
+"Inis Oírr",
+27
+],
+[
+"Saint Andrew",
+27
+],
+[
+"Hooge",
+27
+],
+[
+"Milne Land",
+27
+],
+[
+"Bruny Island",
+27
+],
+[
+"Smith Island",
+27
+],
+[
+"Orust",
+27
+],
+[
+"Oinousses",
+27
+],
+[
+"Porquerolles",
+27
+],
+[
+"Middle Andaman Island",
+27
+],
+[
+"Little Andaman",
+27
+],
+[
+"île de Sein",
+27
+],
+[
+"Medny Island",
+27
+],
+[
+"Hainan Island",
+27
+],
+[
+"Mustique",
+27
+],
+[
+"Atiu",
+27
+],
+[
+"Lembata Island",
+27
+],
+[
+"Venetian Ghetto",
+27
+],
+[
+"Vele Srakane",
+27
+],
+[
+"Santa Catarina Island",
+27
+],
+[
+"Idjwi",
+27
+],
+[
+"Tromsøya",
+27
+],
+[
+"Sibuyan",
+27
+],
+[
+"Dirk Hartog Island",
+27
+],
+[
+"Batanta Island",
+27
+],
+[
+"Sir Bani Yas",
+27
+],
+[
+"Maly Lyakhovsky",
+27
+],
+[
+"Chilov",
+27
+],
+[
+"Anak Krakatau Island",
+27
+],
+[
+"Greenwich Island",
+27
+],
+[
+"Ada Bojana",
+27
+],
+[
+"Pharaoh's Island",
+27
+],
+[
+"Marakei",
+27
+],
+[
+"Codfish Island / Whenua Hou",
+27
+],
+[
+"Eldey",
+27
+],
+[
+"Eglinton Island",
+27
+],
+[
+"Bartolomé Island",
+27
+],
+[
+"Pitt Island",
+27
+],
+[
+"Rangitoto Island",
+27
+],
+[
+"Baengnyeongdo",
+27
+],
+[
+"Our Lady of the Rocks",
+27
+],
+[
+"Tofua",
+27
+],
+[
+"Revillagigedo Island",
+27
+],
+[
+"Kao",
+27
+],
+[
+"Gaztelugatxe",
+27
+],
+[
+"Pangkor Island",
+27
+],
+[
+"Sabu Island",
+27
+],
+[
+"Ksamil Islets",
+26
+],
+[
+"Jaco",
+26
+],
+[
+"Kongsøya",
+26
+],
+[
+"Broutona",
+26
+],
+[
+"Aoshima",
+26
+],
+[
+"Snow Island",
+26
+],
+[
+"Rawaki Island",
+26
+],
+[
+"Zverinac",
+26
+],
+[
+"Phillip Island",
+26
+],
+[
+"Anvers Island",
+26
+],
+[
+"South Ronaldsay",
+26
+],
+[
+"Vivara",
+26
+],
+[
+"Warbah Island",
+26
+],
+[
+"Tresco",
+26
+],
+[
+"Rebun Island",
+26
+],
+[
+"Hrísey",
+26
+],
+[
+"Ko Samet",
+26
+],
+[
+"Arguin",
+26
+],
+[
+"Atka Island",
+26
+],
+[
+"Okushiri Island",
+26
+],
+[
+"Manilaid",
+26
+],
+[
+"Avşa",
+26
+],
+[
+"Taymyr Island",
+26
+],
+[
+"North Andaman Island",
+26
+],
+[
+"Ringvassøya",
+26
+],
+[
+"Pulau Ubin",
+26
+],
+[
+"Maewo",
+26
+],
+[
+"Astola Island",
+26
+],
+[
+"Shōdo Island",
+26
+],
+[
+"Raivavae",
+26
+],
+[
+"Obimayor Island",
+26
+],
+[
+"Harbour Island",
+26
+],
+[
+"Värmdö",
+26
+],
+[
+"Maria Island",
+26
+],
+[
+"Krapanj",
+26
+],
+[
+"Île à Vache",
+26
+],
+[
+"Schmidt Island",
+26
+],
+[
+"Maiana",
+26
+],
+[
+"Vatersay",
+26
+],
+[
+"Wiese Island",
+26
+],
+[
+"Jindo",
+26
+],
+[
+"Tahuata",
+26
+],
+[
+"Meighen Island",
+26
+],
+[
+"Mataiva",
+26
+],
+[
+"Out Stack",
+26
+],
+[
+"Inis Meáin",
+26
+],
+[
+"Islet of Rolas",
+26
+],
+[
+"Shangchuan Island",
+26
+],
+[
+"Shapinsay",
+26
+],
+[
+"Vanua Lava",
+26
+],
+[
+"Rineia",
+26
+],
+[
+"Grand Turk",
+26
+],
+[
+"Northbrook",
+26
+],
+[
+"Herschel Island",
+26
+],
+[
+"Tabarca",
+26
+],
+[
+"Bass Rock",
+25
+],
+[
+"Isle Royale",
+25
+],
+[
+"Bird Island",
+25
+],
+[
+"Silhouette Island",
+25
+],
+[
+"Beata Island",
+25
+],
+[
+"Ua Huka",
+25
+],
+[
+"Othonoi",
+25
+],
+[
+"Paulet Island",
+25
+],
+[
+"Ketoy",
+25
+],
+[
+"Pentecost Island",
+25
+],
+[
+"Coron Island",
+25
+],
+[
+"Nelson Island",
+25
+],
+[
+"Niuatoputapu",
+25
+],
+[
+"Petite Martinique",
+25
+],
+[
+"Farmakonisi",
+25
+],
+[
+"Kuria",
+25
+],
+[
+"Roque del Este",
+25
+],
+[
+"Dall Island",
+25
+],
+[
+"Marchena Island",
+25
+],
+[
+"Cubagua",
+25
+],
+[
+"McKean Island",
+25
+],
+[
+"Kharimkotan",
+25
+],
+[
+"Nonouti",
+25
+],
+[
+"Peling Island",
+25
+],
+[
+"Tashirojima",
+25
+],
+[
+"Kastos",
+25
+],
+[
+"Kiska",
+25
+],
+[
+"Mitiaro",
+25
+],
+[
+"Martín García Island",
+25
+],
+[
+"Levitha",
+25
+],
+[
+"Sirri Island",
+25
+],
+[
+"Canouan",
+25
+],
+[
+"Holy Island",
+25
+],
+[
+"Aunuʻu",
+25
+],
+[
+"Rava",
+25
+],
+[
+"Redang Island",
+25
+],
+[
+"Salisbury Island",
+25
+],
+[
+"Rottumeroog",
+25
+],
+[
+"Tupinambarana",
+25
+],
+[
+"Nihoa",
+25
+],
+[
+"Tokunoshima",
+25
+],
+[
+"Lifuka",
+25
+],
+[
+"Ushakov Island",
+25
+],
+[
+"Block Island",
+25
+],
+[
+"Adonara Island",
+25
+],
+[
+"Skeppsholmen",
+25
+],
+[
+"Levant Island",
+25
+],
+[
+"Antipsara",
+25
+],
+[
+"Žut",
+25
+],
+[
+"Isle of Gigha",
+25
+],
+[
+"Akpatok Island",
+25
+],
+[
+"Ragged Island",
+25
+],
+[
+"Farallon de Pajaros",
+25
+],
+[
+"Byam Martin Island",
+25
+],
+[
+"Guguan",
+25
+],
+[
+"Polyaigos",
+25
+],
+[
+"Langøya",
+25
+],
+[
+"Oak Island",
+25
+],
+[
+"Westray",
+25
+],
+[
+"Nea Kameni",
+25
+],
+[
+"Papa Stour",
+25
+],
+[
+"Raikoke",
+25
+],
+[
+"Birnie Island",
+24
+],
+[
+"Manra Island",
+24
+],
+[
+"Mezhdusharsky Island",
+24
+],
+[
+"Santa Inés Island",
+24
+],
+[
+"Shiashkotan",
+24
+],
+[
+"Vella Lavella",
+24
+],
+[
+"Isla Gorgona",
+24
+],
+[
+"Princess Royal Island",
+24
+],
+[
+"Bubaque",
+24
+],
+[
+"Sarigan",
+24
+],
+[
+"Charcot Island",
+24
+],
+[
+"Numfor Island",
+24
+],
+[
+"St. Ivan Island",
+24
+],
+[
+"Hao",
+24
+],
+[
+"Wiener Neustadt Island",
+24
+],
+[
+"Beru",
+24
+],
+[
+"Eriskay",
+24
+],
+[
+"Coche Island",
+24
+],
+[
+"La Orchila",
+24
+],
+[
+"Rivanj",
+24
+],
+[
+"Governors Island",
+24
+],
+[
+"Austvågøya",
+24
+],
+[
+"Vrgada",
+24
+],
+[
+"Takapoto",
+24
+],
+[
+"Nisida",
+24
+],
+[
+"Bolshoy Ussuriysky Island",
+24
+],
+[
+"Lismore",
+24
+],
+[
+"Home Island",
+24
+],
+[
+"Hooker Island",
+24
+],
+[
+"Padre Island",
+24
+],
+[
+"Alimia",
+24
+],
+[
+"Arorae",
+24
+],
+[
+"Jabat Island",
+24
+],
+[
+"Rusinga Island",
+24
+],
+[
+"Eday",
+24
+],
+[
+"Low Island",
+24
+],
+[
+"Sicily",
+24
+],
+[
+"Lavan Island",
+24
+],
+[
+"North Keeling",
+24
+],
+[
+"Hisingen",
+24
+],
+[
+"Rattanakosin Island",
+24
+],
+[
+"Pioneer Island",
+24
+],
+[
+"Adams Island",
+24
+],
+[
+"Kildin Island",
+24
+],
+[
+"Santo Stefano Island",
+24
+],
+[
+"Hahajima",
+24
+],
+[
+"Marado",
+24
+],
+[
+"Kataja",
+24
+],
+[
+"Farsi Island",
+24
+],
+[
+"Brock Island",
+24
+],
+[
+"Futuna Island",
+24
+],
+[
+"Pate Island",
+24
+],
+[
+"Rimatara",
+24
+],
+[
+"Riesco Island",
+24
+],
+[
+"Tigres Island",
+24
+],
+[
+"Montaña Clara",
+24
+],
+[
+"Whitsunday Islands",
+24
+],
+[
+"Roque del Oeste",
+24
+],
+[
+"Klein Bonaire",
+24
+],
+[
+"Rousay",
+24
+],
+[
+"Jackson Island",
+24
+],
+[
+"Hall Island",
+24
+],
+[
+"Annenkov Island",
+23
+],
+[
+"Robert Island",
+23
+],
+[
+"Tarakan Island",
+23
+],
+[
+"Bolshoy Shantar",
+23
+],
+[
+"Guanahani",
+23
+],
+[
+"Damar Island",
+23
+],
+[
+"Gavdopoula",
+23
+],
+[
+"Pamanzi",
+23
+],
+[
+"Svenskøya",
+23
+],
+[
+"Cayo Coco",
+23
+],
+[
+"Cayo Largo del Sur",
+23
+],
+[
+"Sveti Đorđe",
+23
+],
+[
+"Nikunau",
+23
+],
+[
+"Tafahi",
+23
+],
+[
+"San Blas Islands",
+23
+],
+[
+"Roanoke Island",
+23
+],
+[
+"Sveti Grgur",
+23
+],
+[
+"Cuba",
+23
+],
+[
+"St. Matthew Island",
+23
+],
+[
+"Ua Pou",
+23
+],
+[
+"Rasshua",
+23
+],
+[
+"Shannon Island",
+23
+],
+[
+"Santa Clara Island",
+23
+],
+[
+"Yttygran Island",
+23
+],
+[
+"Sipora Island",
+23
+],
+[
+"Vilkitsky Island",
+23
+],
+[
+"Gruinard Island",
+23
+],
+[
+"Stronsay",
+23
+],
+[
+"Beaufort Island",
+23
+],
+[
+"King Christian Island",
+23
+],
+[
+"Guishan Island",
+23
+],
+[
+"Keri",
+23
+],
+[
+"Nusa Lembongan",
+23
+],
+[
+"Te Hauturu-o-Toi / Little Barrier Island",
+23
+],
+[
+"Khao Phing Kan",
+23
+],
+[
+"Pellestrina",
+23
+],
+[
+"Umboi Island",
+23
+],
+[
+"Budelli",
+23
+],
+[
+"Svetac",
+23
+],
+[
+"North Ronaldsay",
+23
+],
+[
+"Herreninsel",
+23
+],
+[
+"Sanday",
+23
+],
+[
+"Mathraki",
+23
+],
+[
+"Panglao Island",
+23
+],
+[
+"Arranmore",
+23
+],
+[
+"Ogurja Ada",
+23
+],
+[
+"Montagu Island",
+23
+],
+[
+"Umm an Nasan",
+23
+],
+[
+"Boyuk Zira",
+23
+],
+[
+"Polillo",
+23
+],
+[
+"Pirallahi Island",
+23
+],
+[
+"Uyedineniya Island",
+23
+],
+[
+"Agatti Island",
+23
+],
+[
+"Vaindloo",
+23
+],
+[
+"Brabant Island",
+23
+],
+[
+"Helgeandsholmen",
+23
+],
+[
+"Slotsholmen",
+23
+],
+[
+"Tyuleniy Archipelago",
+23
+],
+[
+"Papa Westray",
+23
+],
+[
+"U Thant Island",
+23
+],
+[
+"Tamana",
+23
+],
+[
+"Ilhéu Raso",
+23
+],
+[
+"Agattu",
+23
+],
+[
+"Aniwa Island",
+23
+],
+[
+"Aguijan",
+23
+],
+[
+"Kınalıada",
+23
+],
+[
+"Air Force Island",
+23
+],
+[
+"Solor Island",
+23
+],
+[
+"Manda Island",
+23
+],
+[
+"Etolin Island",
+23
+],
+[
+"Mangoli Island",
+23
+],
+[
+"Iony Island",
+23
+],
+[
+"Takutea",
+23
+],
+[
+"Lougheed Island",
+23
+],
+[
+"Blå Jungfrun",
+23
+],
+[
+"Rottumerplaat",
+23
+],
+[
+"Thule Island",
+23
+],
+[
+"Gardner Pinnacles",
+23
+],
+[
+"Pagai Utara Island",
+23
+],
+[
+"Calf of Man",
+22
+],
+[
+"Zembra",
+22
+],
+[
+"Cheung Chau",
+22
+],
+[
+"Kuiu Island",
+22
+],
+[
+"Isla de las Muñecas",
+22
+],
+[
+"Lütje Hörn",
+22
+],
+[
+"Ambalau Island",
+22
+],
+[
+"Scalpay",
+22
+],
+[
+"Busuanga Island",
+22
+],
+[
+"Caye Caulker",
+22
+],
+[
+"Hayes Island",
+22
+],
+[
+"Sant'Erasmo",
+22
+],
+[
+"Resolution Island",
+22
+],
+[
+"Tobi",
+22
+],
+[
+"Farallon de Medinilla",
+22
+],
+[
+"Ziegler Island",
+22
+],
+[
+"Zuqar Island",
+22
+],
+[
+"Saparua Island",
+22
+],
+[
+"Heybeliada",
+22
+],
+[
+"Laurie Island",
+22
+],
+[
+"Visokoi Island",
+22
+],
+[
+"Magnetic Island",
+22
+],
+[
+"Seymour Island",
+22
+],
+[
+"Mamula",
+22
+],
+[
+"Rábida Island",
+22
+],
+[
+"Auckland Island",
+22
+],
+[
+"île aux Cochons",
+22
+],
+[
+"Fergusson Island",
+22
+],
+[
+"Pedra Branca",
+22
+],
+[
+"Lisianski Island",
+22
+],
+[
+"Bellingshausen Island",
+22
+],
+[
+"Kvaløya, Finnmark",
+22
+],
+[
+"Anuanuraro",
+22
+],
+[
+"Berneray",
+22
+],
+[
+"Pinzón Island",
+22
+],
+[
+"Jólnir",
+22
+],
+[
+"Drangey",
+22
+],
+[
+"Mbamu",
+22
+],
+[
+"Ko Lan",
+22
+],
+[
+"Ureparapara",
+22
+],
+[
+"Mota Lava",
+22
+],
+[
+"Dundee Island",
+22
+],
+[
+"St Martin's",
+22
+],
+[
+"Taquile Island",
+22
+],
+[
+"Samhah",
+22
+],
+[
+"Maun",
+22
+],
+[
+"Aquidneck Island",
+22
+],
+[
+"Taiping Island",
+22
+],
+[
+"Gemiler Island",
+22
+],
+[
+"McClintock Island",
+22
+],
+[
+"Ramree Island",
+22
+],
+[
+"Saint Pierre Island",
+22
+],
+[
+"Seiland",
+22
+],
+[
+"Eiao",
+22
+],
+[
+"Sphacteria",
+22
+],
+[
+"Elobey Grande",
+22
+],
+[
+"Ortac",
+22
+],
+[
+"Blanquilla Island",
+22
+],
+[
+"Fejø",
+22
+],
+[
+"Ro",
+22
+],
+[
+"Wilhelmøya",
+22
+],
+[
+"Selayar Island",
+22
+],
+[
+"Burray",
+22
+],
+[
+"Bishop Rock",
+22
+],
+[
+"Riddarholmen",
+22
+],
+[
+"Uunartoq Qeqertaq",
+22
+],
+[
+"Ammouliani",
+22
+],
+[
+"Lib Island",
+22
+],
+[
+"Bogø",
+22
+],
+[
+"Mannar Island",
+22
+],
+[
+"Namiseom",
+22
+],
+[
+"Ilhéu Branco",
+22
+],
+[
+"Kerrera",
+22
+],
+[
+"Muck",
+22
+],
+[
+"Vohilaid",
+22
+],
+[
+"Saunders Island",
+22
+],
+[
+"Akutan Island",
+22
+],
+[
+"Flakstadøya",
+22
+],
+[
+"Tsing Yi",
+22
+],
+[
+"Kaʻula",
+22
+],
+[
+"Killiniq Island",
+22
+],
+[
+"Nootamaa",
+22
+],
+[
+"Just Room Enough Island",
+22
+],
+[
+"Boreray",
+21
+],
+[
+"Akusekijima",
+21
+],
+[
+"Maré Island",
+21
+],
+[
+"Moyenne Island",
+21
+],
+[
+"Coulman Island",
+21
+],
+[
+"Gau Island",
+21
+],
+[
+"Morzhovets",
+21
+],
+[
+"Kitadaitō Island",
+21
+],
+[
+"Zannone",
+21
+],
+[
+"Zamami Island",
+21
+],
+[
+"Kura Island",
+21
+],
+[
+"South Sentinel Island",
+21
+],
+[
+"Faaite",
+21
+],
+[
+"Buckle Island",
+21
+],
+[
+"Sturge Island",
+21
+],
+[
+"Favignana",
+21
+],
+[
+"Burias",
+21
+],
+[
+"Homonhon",
+21
+],
+[
+"Ibo",
+21
+],
+[
+"Vahanga",
+21
+],
+[
+"Champ Island",
+21
+],
+[
+"Candlemas Island",
+21
+],
+[
+"Plavnik",
+21
+],
+[
+"San Benedicto Island",
+21
+],
+[
+"Mornington Island",
+21
+],
+[
+"Zayachy Island",
+21
+],
+[
+"Drygalski Island",
+21
+],
+[
+"Anuanurunga",
+21
+],
+[
+"Île Vanier",
+21
+],
+[
+"Arakamchechen Island",
+21
+],
+[
+"Cockatoo Island",
+21
+],
+[
+"Clare Island",
+21
+],
+[
+"Jemo Island",
+21
+],
+[
+"Atokos",
+21
+],
+[
+"Bellona Island",
+21
+],
+[
+"Petit Saint Vincent",
+21
+],
+[
+"Cameron Island",
+21
+],
+[
+"Sveti Nikola Island",
+21
+],
+[
+"Dahlak Kebir",
+21
+],
+[
+"Water Island",
+21
+],
+[
+"Telendos",
+21
+],
+[
+"Tanaga Island",
+21
+],
+[
+"Taravai",
+21
+],
+[
+"Pāmban Island",
+21
+],
+[
+"Tronchetto",
+21
+],
+[
+"Hateruma Island",
+21
+],
+[
+"Brännö",
+21
+],
+[
+"Ymer Island",
+21
+],
+[
+"Flat Holm",
+21
+],
+[
+"Koiluoto",
+21
+],
+[
+"Pulau Tekong",
+21
+],
+[
+"Portsea Island",
+21
+],
+[
+"Banggi Island",
+21
+],
+[
+"Skomer Island",
+21
+],
+[
+"Trondra",
+21
+],
+[
+"Sri Lanka",
+21
+],
+[
+"Grand Cay",
+21
+],
+[
+"Bohol",
+21
+],
+[
+"Hengqin",
+21
+],
+[
+"Muckle Flugga",
+21
+],
+[
+"Tarout Island",
+21
+],
+[
+"Isla Ángel de la Guarda",
+21
+],
+[
+"Bristol Island",
+21
+],
+[
+"Bhola Island",
+21
+],
+[
+"Bogoslof Island",
+21
+],
+[
+"Burhou",
+21
+],
+[
+"North Kent Island",
+21
+],
+[
+"Geographical Society Island",
+21
+],
+[
+"Vanatinai",
+21
+],
+[
+"Hatutu",
+21
+],
+[
+"Katchall Island",
+21
+],
+[
+"Geojedo",
+21
+],
+[
+"Isla Holbox",
+21
+],
+[
+"Flatey",
+21
+],
+[
+"Sulabesi Island",
+21
+],
+[
+"Strongyli",
+21
+],
+[
+"Kållandsö",
+21
+],
+[
+"Half Moon Island",
+21
+],
+[
+"Kisimul Castle",
+20
+],
+[
+"Maligrad",
+20
+],
+[
+"Okinoerabujima",
+20
+],
+[
+"Utö",
+20
+],
+[
+"Vido",
+20
+],
+[
+"Bacan Island",
+20
+],
+[
+"Lubang Island",
+20
+],
+[
+"Sejerø",
+20
+],
+[
+"Lågøya",
+20
+],
+[
+"Soisalo",
+20
+],
+[
+"Hengam Island",
+20
+],
+[
+"Kyra Panagia",
+20
+],
+[
+"Femø",
+20
+],
+[
+"Ovalau",
+20
+],
+[
+"Ìsola di Sant'Antìoco",
+20
+],
+[
+"Ereikoussa",
+20
+],
+[
+"Bryher",
+20
+],
+[
+"Manaung Island",
+20
+],
+[
+"Vaila",
+20
+],
+[
+"Port-Cros",
+20
+],
+[
+"Traill Island",
+20
+],
+[
+"Kume Island",
+20
+],
+[
+"Swaraj Dweep",
+20
+],
+[
+"Seil",
+20
+],
+[
+"Sušac",
+20
+],
+[
+"Moucha Island",
+20
+],
+[
+"Clarion Island",
+20
+],
+[
+"Lamu Island",
+20
+],
+[
+"Balta",
+20
+],
+[
+"Aukena",
+20
+],
+[
+"Bayonnaise Rocks",
+20
+],
+[
+"Kungsholmen",
+20
+],
+[
+"Matureivavao",
+20
+],
+[
+"Tenararo",
+20
+],
+[
+"Rona",
+20
+],
+[
+"Saadiyat Island",
+20
+],
+[
+"Nusakambangan Island",
+20
+],
+[
+"Rossel Island",
+20
+],
+[
+"San Félix Island",
+20
+],
+[
+"Manam",
+20
+],
+[
+"Tenarunga",
+20
+],
+[
+"Vangunu",
+20
+],
+[
+"Isla de Santa Catalina",
+20
+],
+[
+"Minamidaitō Island",
+20
+],
+[
+"Signy Island",
+20
+],
+[
+"St. Anastasia Island",
+20
+],
+[
+"D'Urville Island",
+20
+],
+[
+"Ford Island",
+20
+],
+[
+"Mayreau",
+20
+],
+[
+"Great Blasket Island",
+20
+],
+[
+"Dinagat Island",
+20
+],
+[
+"Côn Sơn Island",
+20
+],
+[
+"Munkholmen",
+20
+],
+[
+"Sagar Island",
+20
+],
+[
+"Ammassalik Island",
+20
+],
+[
+"Male Srakane",
+20
+],
+[
+"Chechen",
+20
+],
+[
+"Peristera",
+20
+],
+[
+"Shadwan",
+20
+],
+[
+"Emerald Isle",
+20
+],
+[
+"Coreca Reefs",
+20
+],
+[
+"Alsta",
+20
+],
+[
+"Cunda Island",
+20
+],
+[
+"Tablas",
+20
+],
+[
+"Paradise Island",
+20
+],
+[
+"Stadsholmen",
+20
+],
+[
+"Monito Island",
+20
+],
+[
+"Egilsay",
+20
+],
+[
+"Elobey Chico",
+20
+],
+[
+"Supiori Island",
+20
+],
+[
+"Stora Karlsö",
+20
+],
+[
+"Bunaken Island",
+20
+],
+[
+"Mohotani",
+20
+],
+[
+"île de la Possession",
+20
+],
+[
+"San Clemente Island",
+20
+],
+[
+"Ronde Island",
+20
+],
+[
+"Sacca Fisola",
+20
+],
+[
+"Šćedro",
+20
+],
+[
+"Annette Island",
+20
+],
+[
+"Akamaru Island",
+20
+],
+[
+"Amsterdamøya",
+20
+],
+[
+"Catalina Island",
+20
+],
+[
+"Ontong Java Atoll",
+20
+],
+[
+"Cedros Island",
+20
+],
+[
+"Motu Iti",
+20
+],
+[
+"Vanikoro",
+20
+],
+[
+"Roca Partida",
+20
+],
+[
+"Fogo Island",
+20
+],
+[
+"Lihir Island",
+20
+],
+[
+"Spaatz Island",
+20
+],
+[
+"Formigas",
+20
+],
+[
+"Fur",
+20
+],
+[
+"Gimsøya",
+20
+],
+[
+"Charles Alexander Island",
+20
+],
+[
+"Agioi Theodoroi",
+20
+],
+[
+"Kapuiviit",
+20
+],
+[
+"Pagai Selatan Island",
+20
+],
+[
+"Palmarola",
+20
+]
+]

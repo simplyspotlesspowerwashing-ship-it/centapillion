@@ -150,6 +150,7 @@
   }
 
   function startRound(i) {
+    if (scene) scene.setTint(null);
     game.roundIndex = i;
     game.phase = "preview";
     game.previewEndsAt = now() + C.PREVIEW_MS;
@@ -266,15 +267,23 @@
     else $("answer").select();
   }
 
+  // Depth where the current round started (each round digs from here, Krillion-style).
+  function roundBaseMetres() {
+    return E.totalScore(game.results.slice(0, game.roundIndex)) * C.METRES_PER_POINT;
+  }
+
   function addAnswer(ans, raw) {
-    var fromM = total() * C.METRES_PER_POINT;
+    var before = E.roundScore(curRound());
     curRound().answers.push({ id: ans.id, name: ans.name, tier: ans.tier, score: ans.score, raw: raw });
     save();
-    scene.plunge(fromM, ans.tier);
+    // Every answer shows the rank lines from the round's start; only a rarer
+    // answer than the round's best digs deeper, because the round scores its best.
+    scene.plunge(roundBaseMetres(), ans.tier);
     scene.setDepth(total() * C.METRES_PER_POINT);
+    scene.setTint(T[ans.tier].color);
     scene.acceptFx(ans.tier);
     A.play("accept", ans.tier);
-    showLanded(ans);
+    showLanded(ans, ans.score > before, before);
     renderHaul();
     renderScore();
   }
@@ -364,11 +373,11 @@
   function howToList(collapsible) {
     var items = [
       "7 prompts a day. same for everyone.",
-      "30 seconds per prompt. name as many answers as you can.",
-      "every answer scores. rare answers score big. obvious ones stay shallow.",
+      "30 seconds per prompt. name as many answers as you like.",
+      "each round scores its rarest answer. rare answers score big. obvious ones stay shallow.",
       "the pick that feels clever? the colony thought of it too.",
       "typos get one fix-up. submit again to confirm.",
-      "every point digs you 10 metres. 1,800 reaches the core.",
+      "every point digs you 10 metres. 700 is the core.",
       "one dig per day. no second chances."
     ];
     var ul = el("ul", "howto-list");
@@ -395,7 +404,7 @@
     card.appendChild(logo);
     card.appendChild(el("p", "tagline", "one in a centapillion."));
     card.appendChild(el("p", "subline", game.mode === "unlimited" ? "THE ENDLESS DIG" : game.mode === "archive" ? "AN OLD TUNNEL" : "THE DAILY DIG"));
-    card.appendChild(el("p", "subline dim", "7 prompts · 30 seconds each · unlimited answers · rarer answers dig deeper"));
+    card.appendChild(el("p", "subline dim", "7 prompts · 30 seconds each · your rarest answer counts · rarer answers dig deeper"));
     card.appendChild(tierLadder());
     card.appendChild(howToList(true));
     card.appendChild(button("▼ BEGIN DIG ▼", "btn-begin", begin, "beginBtn"));
@@ -461,7 +470,10 @@
     var answers = curRound() ? curRound().answers : [];
     var head = el("div", "haul-head");
     head.appendChild(el("span", null, answers.length ? answers.length + (answers.length === 1 ? " answer" : " answers") : "no answers yet"));
-    head.appendChild(el("b", null, "+" + E.roundScore(curRound() || {})));
+    var best = E.bestAnswer(curRound());
+    var hb = el("b", null, best ? "round best: " + T[best.tier].name + " +" + best.score : "+0");
+    if (best) hb.style.color = T[best.tier].color;
+    head.appendChild(hb);
     box.appendChild(head);
     var list = el("ul", "haul-list");
     answers.slice().reverse().forEach(function (a, i) {
@@ -488,7 +500,7 @@
     return a;
   }
 
-  function showLanded(ans) {
+  function showLanded(ans, improved, before) {
     var box = $("landed");
     var t = T[ans.tier];
     box.innerHTML = "";
@@ -497,7 +509,9 @@
     card.appendChild(CP.sprites.tierImg(ans.tier, 44));
     card.appendChild(el("div", "tname", t.name.toUpperCase()));
     card.appendChild(el("div", "tans", "“" + ans.name + "”"));
-    card.appendChild(el("div", "tpts", "+" + ans.score + " PTS · dig " + E.fmtMetres(ans.score * C.METRES_PER_POINT)));
+    card.appendChild(el("div", "tpts", improved
+      ? (before ? "new round best · +" + (ans.score - before) + " PTS · dig " + E.fmtMetres((ans.score - before) * C.METRES_PER_POINT) : "+" + ans.score + " PTS · dig " + E.fmtMetres(ans.score * C.METRES_PER_POINT))
+      : ans.score + " PTS · your round best is still " + before));
     card.appendChild(el("div", "tsub", answerInfo(ans).quip || t.blurb));
     box.appendChild(card);
     clearTimeout(landedTimer);
@@ -559,14 +573,18 @@
       miss.appendChild(el("span", "dim", "no answers this round · +0"));
       list.appendChild(miss);
     }
-    E.byRarity(r.answers).forEach(function (a) { list.appendChild(answerRow(a, p)); });
+    E.byRarity(r.answers).forEach(function (a, i) {
+      var row = answerRow(a, p);
+      if (i === 0) { row.classList.add("best"); row.querySelector(".fb-mid").insertBefore(el("div", "best-tag", "ROUND BEST · COUNTS"), row.querySelector(".fb-mid").firstChild); }
+      list.appendChild(row);
+    });
     card.appendChild(list);
-    card.appendChild(el("div", "fb-total", r.answers.length + " answers · round +" + E.roundScore(r) + " · total " + total() + " · -" + E.fmtMetres(total() * C.METRES_PER_POINT)));
+    card.appendChild(el("div", "fb-total", "round +" + E.roundScore(r) + " · total " + total() + "/" + CP.MAX_DAY_SCORE + " · -" + E.fmtMetres(total() * C.METRES_PER_POINT)));
     var gem = E.answerSheet(p).k[0];
     var found = r.answers.some(function (a) { return a.tier === "k"; });
     var g = el("p", "fb-gem");
     g.appendChild(CP.sprites.tierImg("k", 20));
-    g.appendChild(el("span", null, found ? " You found the centapillion." : " The centapillion was “" + gem.name + "”. " + (gem.quip || "")));
+    g.appendChild(el("span", null, found ? " You struck the mother lode." : " The mother lode was “" + gem.name + "”. " + (gem.quip || "")));
     card.appendChild(g);
     var last = game.roundIndex >= C.ROUNDS - 1;
     card.appendChild(button(last ? "SEE THE DIG LOG ▼" : "▼ DIG TO ROUND " + (game.roundIndex + 2) + " ▼", "btn-begin", next, "nextBtn"));
@@ -585,11 +603,14 @@
     card.appendChild(el("div", "kicker", modeLabel() + " · COMPLETE"));
     var big = el("div", "bigscore");
     big.appendChild(el("span", "num", String(s)));
+    big.appendChild(el("span", "of", "/" + CP.MAX_DAY_SCORE));
     big.appendChild(el("span", "depth", "-" + E.fmtMetres(s * C.METRES_PER_POINT)));
     card.appendChild(big);
+    scene.setTint(T[band.tier].color);
     if (game.mode === "unlimited" && store.unlimited.best[game.game] > s) card.appendChild(el("p", "dim small", "your best on this dig: " + store.unlimited.best[game.game]));
     if (game.mode === "archive" && store.archiveBest[game.game] > s) card.appendChild(el("p", "dim small", "your best on this dig: " + store.archiveBest[game.game]));
     card.appendChild(gauge(s));
+    card.appendChild(digChart());
 
     // the bearing: where this score sits among the bands
     var bearing = section("the bearing");
@@ -611,8 +632,6 @@
     row.appendChild(button("COPY RESULT", "btn-begin", function () { copyResult(share); }, "shareBtn"));
     if (navigator.share) row.appendChild(button("SHARE…", "btn-ghost", function () { navigator.share({ text: share }).catch(function () {}); }));
     card.appendChild(row);
-
-    card.appendChild(digChart());
 
     // the haul: every round, tap for the full answer sheet
     var haul = section("the haul", "tap a round for every answer");
@@ -674,7 +693,11 @@
     CP.BANDS.forEach(function (b, i) {
       var end = CP.BANDS[i + 1] ? CP.BANDS[i + 1].min : CP.GAUGE_MAX;
       add("rect", { x: x(b.min), y: 14, width: Math.max(0, x(end) - x(b.min)), height: 6, fill: T[b.tier].color, opacity: 0.35 });
-      if (b.min) { add("line", { x1: x(b.min), y1: 12, x2: x(b.min), y2: 24, stroke: T[b.tier].color }); var t = add("text", { x: x(b.min), y: 36, "text-anchor": "middle", "font-size": 8, fill: "#c4b49a" }); t.textContent = b.min.toLocaleString("en-US"); }
+      if (b.min) add("line", { x1: x(b.min), y1: 12, x2: x(b.min), y2: 22, stroke: T[b.tier].color });
+    });
+    [0, 100, 200, 300, 400, 500, 600, 700].forEach(function (v) {
+      var t = add("text", { x: Math.min(W - 6, Math.max(6, x(v))), y: 36, "text-anchor": "middle", "font-size": 8, fill: "#c4b49a", opacity: 0.7 });
+      t.textContent = String(v);
     });
     var sx = x(score);
     add("rect", { x: 0, y: 14, width: sx, height: 6, fill: T[E.bandFor(score).tier].color });
@@ -712,13 +735,25 @@
     game.results.forEach(function (r, i) {
       var col = el("div", "chart-col");
       col.title = "Round " + (i + 1) + ": " + prompts[i].q;
-      if (!r.answers.length) { var m = el("i", "dot miss"); m.style.top = "3%"; col.appendChild(m); }
+      var best = E.bestAnswer(r);
+      var depth = best ? 8 + T[best.tier].depth * 84 : 4;
+      var line = el("i", "chart-line");
+      line.style.height = "calc(" + depth + "% - 6px)";
+      line.style.setProperty("--tc", best ? T[best.tier].color : "#5d739c");
+      col.appendChild(line);
+      if (best) {
+        col.title = "Round " + (i + 1) + ": " + best.name + " · " + T[best.tier].name + " · +" + best.score;
+        var spr = CP.sprites.tierImg(best.tier, 22, "chart-sprite");
+        spr.style.top = depth + "%";
+        col.appendChild(spr);
+      } else { var m = el("i", "dot miss"); m.style.top = "4%"; col.appendChild(m); }
       var byTier = {};
       r.answers.forEach(function (a) { (byTier[a.tier] = byTier[a.tier] || []).push(a); });
       Object.keys(byTier).forEach(function (t) {
         var list = byTier[t], perRow = 5;
         list.forEach(function (a, j) {
-          var dot = el("i", "dot");
+          if (a === best) return;
+          var dot = el("i", "dot faint");
           var row = Math.floor(j / perRow), inRow = Math.min(perRow, list.length - row * perRow), k = j % perRow;
           dot.style.top = (8 + T[t].depth * 84 + row * 4) + "%";
           dot.style.left = (50 + (k - (inRow - 1) / 2) * 15) + "%";
@@ -745,8 +780,14 @@
       var sum = el("summary");
       sum.appendChild(el("span", "sheet-n", String(i + 1)));
       sum.appendChild(el("span", "sheet-q", p.q));
-      sum.appendChild(el("span", "sheet-emo", E.rowEmoji(r, 6)));
-      sum.appendChild(el("b", "sheet-pts", "+" + E.roundScore(r)));
+      var bst = E.bestAnswer(r);
+      var ba = el("span", "sheet-best", bst ? bst.name : "dead end");
+      if (bst) { ba.style.color = T[bst.tier].color; ba.insertBefore(CP.sprites.tierImg(bst.tier, 16), ba.firstChild); }
+      sum.appendChild(ba);
+      if (r.answers.length > 1) sum.appendChild(el("span", "sheet-more", "+" + (r.answers.length - 1)));
+      var pts = el("b", "sheet-pts", "+" + E.roundScore(r));
+      if (bst) pts.style.color = T[bst.tier].color;
+      sum.appendChild(pts);
       sec.appendChild(sum);
       var sheet = E.answerSheet(p);
       var mine = {};
@@ -1044,7 +1085,8 @@
     state: function () { return JSON.parse(JSON.stringify(game)); },
     skip: function (ms) { if (game.previewEndsAt) game.previewEndsAt -= ms; if (game.answerEndsAt) game.answerEndsAt -= ms; save(); tick(); },
     today: today,
-    store: function () { return JSON.parse(JSON.stringify(store)); }
+    store: function () { return JSON.parse(JSON.stringify(store)); },
+    tint: function () { return scene.tint; }
   };
 
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);

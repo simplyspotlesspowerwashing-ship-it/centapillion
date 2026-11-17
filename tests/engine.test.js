@@ -203,10 +203,11 @@ test("random prompts are 7 distinct", () => {
 });
 
 // ---------- scoring ----------
-test("tier points and colours follow the white, orange, blue, red, purple, gold ladder", () => {
+test("ranks use Krillion's points and colours with digging names", () => {
   assert.deepEqual(CP.TIER_IDS.map(t => CP.TIERS[t].score), [10, 15, 30, 60, 85, 100]);
-  assert.deepEqual(CP.TIER_IDS.map(t => CP.TIERS[t].color), ["#e8ecf4", "#ff9f43", "#4de3ff", "#ff5252", "#9d7bff", "#ffd166"]);
-  assert.deepEqual(CP.TIER_IDS.map(t => CP.TIERS[t].name), ["Common", "Too Clever", "Uncommon", "Rare", "Deep Cut", "One in a Centapillion"]);
+  assert.deepEqual(CP.TIER_IDS.map(t => CP.TIERS[t].color), ["#d7e1f2", "#ff9f43", "#4de3ff", "#ff5252", "#9d7bff", "#ffd166"]);
+  assert.deepEqual(CP.TIER_IDS.map(t => CP.TIERS[t].name), ["Topsoil", "Too Clever", "Burrower", "Rare", "Deep Cut", "Mother Lode"]);
+  assert.deepEqual(CP.TIER_IDS.map(t => CP.TIERS[t].depth), [0.08, 0.18, 0.36, 0.6, 0.82, 0.97]);
 });
 
 test("accepted answers carry their tier's points", () => {
@@ -224,24 +225,32 @@ test("30 second rounds with no answer cap", () => {
   assert.equal(CP.CONFIG.MAX_ANSWERS, Infinity);
 });
 
-test("scores, bands, share text", () => {
+test("Krillion scoring: each round scores its best answer, out of 700", () => {
   const results = [
-    { promptId: "x", answers: [{ tier: "p", score: 10 }, { tier: "k", score: 100 }] },
+    { promptId: "x", answers: [{ tier: "p", score: 10 }, { tier: "k", score: 100 }, { tier: "s", score: 30 }] },
     { promptId: "y", answers: [] },
     { promptId: "z", answers: [{ tier: "d", score: 85 }] }
   ];
-  assert.equal(E.totalScore(results), 195);
-  assert.equal(E.bandFor(0).tier, "p");
-  assert.equal(E.bandFor(399).tier, "p");
-  assert.equal(E.bandFor(400).tier, "s");
-  assert.equal(E.bandFor(800).tier, "r");
-  assert.equal(E.bandFor(1200).tier, "d");
-  assert.equal(E.bandFor(1800).tier, "k");
-  const t = E.shareText({ mode: "daily", game: 3, results });
-  assert.equal(t, "Centapillion #3 🐛\n195 pts · -1,950 m\n🟨⬜ 110\n⬛ 0\n🟪 85");
+  assert.equal(E.roundScore(results[0]), 100);
+  assert.equal(E.roundScore(results[1]), 0);
+  assert.equal(E.bestAnswer(results[0]).tier, "k");
+  assert.equal(E.totalScore(results), 185);
+  assert.equal(CP.MAX_DAY_SCORE, 700);
+});
+
+test("Krillion's score bands", () => {
+  const at = n => E.bandFor(n).tier;
+  assert.deepEqual([0, 150, 151, 250, 251, 350, 351, 449, 450, 700].map(at), ["p", "p", "s", "s", "r", "r", "d", "d", "k", "k"]);
+  assert.deepEqual(CP.BANDS.map(b => b.range), ["0–150", "151–250", "251–350", "351–449", "450+"]);
+});
+
+test("share text: title, one emoji per round, score", () => {
+  const results = [
+    { answers: [{ tier: "p", score: 10 }, { tier: "k", score: 100 }] }, { answers: [] }, { answers: [{ tier: "d", score: 85 }] },
+    { answers: [{ tier: "c", score: 15 }] }, { answers: [{ tier: "s", score: 30 }] }, { answers: [{ tier: "r", score: 60 }] }, { answers: [] }
+  ];
+  assert.equal(E.shareText({ mode: "daily", game: 3, results }), "Centapillion #3 🐛\n🌟⬛🔮🤡🪱💎⬛\n290/700 · -2,900 m");
   assert.ok(E.shareText({ mode: "unlimited", game: 9, results }).startsWith("Centapillion ∞ #9"));
-  const many = { answers: Array.from({ length: 14 }, () => ({ tier: "s", score: 30 })) };
-  assert.equal(E.rowEmoji(many), "🟦".repeat(10) + " +4");
 });
 
 test("a prompt never returns within 10 days", () => {

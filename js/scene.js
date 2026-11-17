@@ -23,6 +23,12 @@
     return "rgb(" + Math.round(lerp(x[0], y[0], t)) + "," + Math.round(lerp(x[1], y[1], t)) + "," + Math.round(lerp(x[2], y[2], t)) + ")";
   }
 
+  // Lighten (amt > 0) or darken (amt < 0) a #rrggbb colour.
+  function shade(hex, amt) {
+    var c = hexToRgb(hex).map(function (v) { return Math.round(amt > 0 ? v + (255 - v) * amt : v * (1 + amt)); });
+    return "rgb(" + c.join(",") + ")";
+  }
+
   function stratumAt(m) {
     var st = CP.STRATA, i = st.length - 1;
     while (i > 0 && m < st[i].m) i--;
@@ -372,6 +378,7 @@
       }
     }
     var body = this.digger.body, dark = this.digger.dark, leg = "#1a0f0a", hiC = this.digger.hi;
+    if (this.tint) { body = this.tint; dark = shade(this.tint, -0.45); hiC = shade(this.tint, 0.6); }
     if (this.pokeInfo) {
       var pa = (performance.now() - this.pokeInfo.t0) / 600;
       if (pa < 1) { var hop = Math.round(Math.sin(pa * Math.PI) * 4); segs = segs.map(function (sg, i) { return [sg[0] + (i % 2 ? 1 : -1) * Math.round(Math.sin(pa * 20)), sg[1] - hop]; }); }
@@ -517,6 +524,9 @@
   Scene.prototype.depthMetres = function () { return this.targetM; };
 
   Scene.prototype.setDigger = function (d) { this.digger = d || CP.DIGGERS[0]; };
+
+  // The digger takes the colour of the rank you just reached (null = its own colour).
+  Scene.prototype.setTint = function (color) { this.tint = color || null; };
 
   // Krillion-style plunge: show every tier's line below the current depth,
   // then the digger sinks to the one this answer reached.

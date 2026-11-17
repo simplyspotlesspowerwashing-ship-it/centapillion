@@ -19,32 +19,36 @@
 
   // Rarity tiers, most common to rarest. Colours follow the white, orange,
   // blue, red, purple, gold ladder.
+  // Krillion's six ranks, same points and colours, renamed for digging:
+  // Plankton -> Topsoil, Schooler -> Burrower, One in a Krillion -> Mother Lode.
   var TIERS = {
-    p: { id: "p", key: "common", name: "Common", score: 10, emoji: "⬜", color: "#e8ecf4",
+    p: { id: "p", key: "topsoil", name: "Topsoil", score: 10, emoji: "🌱", color: "#d7e1f2",
          blurb: "The answer everyone digs up first.", depth: 0.08 },
-    c: { id: "c", key: "tooclever", name: "Too Clever", score: 15, emoji: "🟧", color: "#ff9f43",
-         blurb: "The “obscure” pick everyone reaches for.", depth: 0.18 },
-    s: { id: "s", key: "uncommon", name: "Uncommon", score: 30, emoji: "🟦", color: "#4de3ff",
-         blurb: "Solid. Tunnels with the crowd.", depth: 0.36 },
-    r: { id: "r", key: "rare", name: "Rare", score: 60, emoji: "🟥", color: "#ff5252",
-         blurb: "Genuinely uncommon. Nice dig.", depth: 0.6 },
-    d: { id: "d", key: "deepcut", name: "Deep Cut", score: 85, emoji: "🟪", color: "#9d7bff",
+    c: { id: "c", key: "tooclever", name: "Too Clever", score: 15, emoji: "🤡", color: "#ff9f43",
+         blurb: "A famously “obscure” pick. Everyone reaches for it.", depth: 0.18 },
+    s: { id: "s", key: "burrower", name: "Burrower", score: 30, emoji: "🪱", color: "#4de3ff",
+         blurb: "Solid — tunnels with the colony.", depth: 0.36 },
+    r: { id: "r", key: "rare", name: "Rare", score: 60, emoji: "💎", color: "#ff5252",
+         blurb: "Genuinely uncommon. Nice find.", depth: 0.6 },
+    d: { id: "d", key: "deepcut", name: "Deep Cut", score: 85, emoji: "🔮", color: "#9d7bff",
          blurb: "True obscurity. Few dig this deep.", depth: 0.82 },
-    k: { id: "k", key: "centapillion", name: "One in a Centapillion", score: 100, emoji: "🟨", color: "#ffd166",
+    k: { id: "k", key: "motherlode", name: "Mother Lode", score: 100, emoji: "🌟", color: "#ffd166",
          blurb: "The designated gem. Earth's core.", depth: 0.97 }
   };
   var TIER_IDS = ["p", "c", "s", "r", "d", "k"];
   var MISS_EMOJI = "⬛";
 
-  // Score bands for a whole dig (7 rounds, unlimited answers, 30 s each).
+  // Krillion's scoring: each round scores its best (rarest) answer, so a day
+  // is out of 700, and these are Krillion's bands.
+  var MAX_DAY_SCORE = 700;
   var BANDS = [
-    { min: 0, tier: "p", range: "0–399", verdict: "Common. Still in the topsoil." },
-    { min: 400, tier: "s", range: "400–799", verdict: "Uncommon. Tunnelling with the crowd." },
-    { min: 800, tier: "r", range: "800–1,199", verdict: "Rare. Past the bedrock. Nice." },
-    { min: 1200, tier: "d", range: "1,200–1,799", verdict: "Deep cut. Seriously deep dig." },
-    { min: 1800, tier: "k", range: "1,800+", verdict: "One in a centapillion. Core dweller. Absurd." }
+    { min: 0, tier: "p", range: "0–150", verdict: "Topsoil. Plenty of earth left down there." },
+    { min: 151, tier: "s", range: "151–250", verdict: "Burrower. Tunnelling with the colony." },
+    { min: 251, tier: "r", range: "251–350", verdict: "Rare. Below the bedrock. Nice." },
+    { min: 351, tier: "d", range: "351–449", verdict: "Deep cut. Seriously deep dig." },
+    { min: 450, tier: "k", range: "450+", verdict: "Mother lode. Core dweller. Absurd." }
   ];
-  var GAUGE_MAX = 2500;
+  var GAUGE_MAX = MAX_DAY_SCORE;
 
   // Diggers unlocked by your best daily streak.
   var DIGGERS = [
@@ -429,8 +433,13 @@
 
   // ---------- scoring ----------
 
+  // A round scores its best answer (Krillion scores one answer per round).
   function roundScore(round) {
-    return (round.answers || []).reduce(function (s, a) { return s + a.score; }, 0);
+    return (round && round.answers || []).reduce(function (s, a) { return Math.max(s, a.score); }, 0);
+  }
+
+  function bestAnswer(round) {
+    return byRarity((round && round.answers) || [])[0] || null;
   }
 
   function totalScore(results) {
@@ -466,9 +475,10 @@
     var label = opts.mode === "unlimited" ? "Centapillion ∞ #" + opts.game
       : opts.mode === "archive" ? "Centapillion ⟲ #" + opts.game
       : "Centapillion #" + opts.game;
+    // Krillion's format: title, then one emoji per round for its best answer.
+    var row = opts.results.map(function (r) { var b = bestAnswer(r); return b ? TIERS[b.tier].emoji : MISS_EMOJI; }).join("");
     var score = totalScore(opts.results);
-    var lines = [label + " 🐛", score + " pts · -" + fmtMetres(score * CONFIG.METRES_PER_POINT)];
-    opts.results.forEach(function (r) { lines.push(rowEmoji(r) + " " + roundScore(r)); });
+    var lines = [label + " 🐛", row, score + "/" + MAX_DAY_SCORE + " · -" + fmtMetres(score * CONFIG.METRES_PER_POINT)];
     if (opts.url) lines.push(opts.url);
     return lines.join("\n");
   }
@@ -489,6 +499,7 @@
   CP.MISS_EMOJI = MISS_EMOJI;
   CP.BANDS = BANDS;
   CP.GAUGE_MAX = GAUGE_MAX;
+  CP.MAX_DAY_SCORE = MAX_DAY_SCORE;
   CP.DIGGERS = DIGGERS;
   CP.STRATA = STRATA;
   CP.LANDMARKS = LANDMARKS;
@@ -497,7 +508,7 @@
     editDistance: editDistance, nearest: nearest, judge: judge,
     mulberry32: mulberry32, dayNumber: dayNumber, dateForDay: dateForDay,
     promptsForDay: promptsForDay, promptsForUnlimited: promptsForUnlimited, randomPrompts: randomPrompts,
-    roundScore: roundScore, totalScore: totalScore, byRarity: byRarity,
+    roundScore: roundScore, bestAnswer: bestAnswer, totalScore: totalScore, byRarity: byRarity,
     bandFor: bandFor, fmtMetres: fmtMetres, shareText: shareText, rowEmoji: rowEmoji,
     answerSheet: answerSheet
   };

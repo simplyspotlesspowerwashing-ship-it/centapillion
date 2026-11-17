@@ -1,0 +1,7990 @@
+[
+[
+"Nile",
+248
+],
+[
+"Amazon River",
+218
+],
+[
+"Danube",
+200
+],
+[
+"Rhine",
+190
+],
+[
+"Volga",
+189
+],
+[
+"Ganges",
+182
+],
+[
+"Mississippi River",
+181
+],
+[
+"Congo River",
+168
+],
+[
+"Yangtze River",
+168
+],
+[
+"Indus River",
+159
+],
+[
+"Niger River",
+157
+],
+[
+"Yellow River",
+155
+],
+[
+"Euphrates",
+143
+],
+[
+"River Thames",
+131
+],
+[
+"Seine",
+131
+],
+[
+"Tigris",
+130
+],
+[
+"Dnieper",
+126
+],
+[
+"Jordan River",
+124
+],
+[
+"Elbe",
+122
+],
+[
+"Vistula",
+119
+],
+[
+"Mekong River",
+119
+],
+[
+"Amur River",
+114
+],
+[
+"Brahmaputra River",
+113
+],
+[
+"Ob",
+112
+],
+[
+"Lena River",
+112
+],
+[
+"Ural",
+112
+],
+[
+"Don",
+109
+],
+[
+"Missouri River",
+109
+],
+[
+"Loire",
+108
+],
+[
+"Po",
+108
+],
+[
+"Oder",
+107
+],
+[
+"Rhône",
+107
+],
+[
+"Dniester",
+105
+],
+[
+"Tiber",
+104
+],
+[
+"Yenisei",
+104
+],
+[
+"St. Lawrence River",
+104
+],
+[
+"Amu Darya",
+103
+],
+[
+"Tagus",
+102
+],
+[
+"Orinoco River",
+101
+],
+[
+"Colorado River",
+100
+],
+[
+"Yamuna",
+100
+],
+[
+"Neva",
+96
+],
+[
+"Irtysh",
+96
+],
+[
+"Blue Nile",
+95
+],
+[
+"Meuse",
+94
+],
+[
+"Yukon River",
+94
+],
+[
+"Daugava",
+94
+],
+[
+"Syr Darya",
+94
+],
+[
+"Hudson River",
+92
+],
+[
+"Ebro",
+91
+],
+[
+"Columbia River",
+91
+],
+[
+"Rio Grande",
+91
+],
+[
+"Main",
+90
+],
+[
+"Limpopo River",
+90
+],
+[
+"Douro",
+89
+],
+[
+"Ohio River",
+89
+],
+[
+"Paraná River",
+89
+],
+[
+"White Nile",
+89
+],
+[
+"Orange River",
+89
+],
+[
+"Río de la Plata",
+88
+],
+[
+"Moselle",
+88
+],
+[
+"Tisza",
+88
+],
+[
+"Murray River",
+88
+],
+[
+"Vltava",
+87
+],
+[
+"Godavari River",
+87
+],
+[
+"Uruguay River",
+86
+],
+[
+"Irrawaddy River",
+86
+],
+[
+"Senegal River",
+86
+],
+[
+"Moskva River",
+86
+],
+[
+"Angara",
+84
+],
+[
+"Sava",
+83
+],
+[
+"Kama",
+83
+],
+[
+"Garonne",
+83
+],
+[
+"Gambia River",
+83
+],
+[
+"Krishna River",
+82
+],
+[
+"Oka",
+82
+],
+[
+"Rio Negro",
+82
+],
+[
+"Paraguay River",
+82
+],
+[
+"Mackenzie River",
+81
+],
+[
+"Madeira River",
+81
+],
+[
+"Pechora",
+81
+],
+[
+"Kura River",
+81
+],
+[
+"Aras River",
+81
+],
+[
+"Guadalquivir",
+80
+],
+[
+"Inn",
+80
+],
+[
+"Neman",
+80
+],
+[
+"Okavango River",
+80
+],
+[
+"Scheldt",
+79
+],
+[
+"Volta River",
+79
+],
+[
+"Kolyma",
+79
+],
+[
+"Magdalena River",
+79
+],
+[
+"Adige",
+78
+],
+[
+"Neckar",
+78
+],
+[
+"Shatt al-Arab",
+78
+],
+[
+"Northern Dvina",
+77
+],
+[
+"Ubangi River",
+77
+],
+[
+"Pearl River",
+76
+],
+[
+"Spree",
+76
+],
+[
+"Chenab River",
+76
+],
+[
+"Chao Phraya River",
+76
+],
+[
+"Drava",
+76
+],
+[
+"Potomac River",
+76
+],
+[
+"Salween River",
+75
+],
+[
+"Aare",
+75
+],
+[
+"São Francisco River",
+75
+],
+[
+"Bío Bío River",
+74
+],
+[
+"Terek",
+74
+],
+[
+"Arkansas River",
+74
+],
+[
+"Darling River",
+74
+],
+[
+"Weser",
+73
+],
+[
+"Isar",
+73
+],
+[
+"Prut",
+73
+],
+[
+"Kasai River",
+73
+],
+[
+"River Severn",
+72
+],
+[
+"Warta",
+72
+],
+[
+"Benue River",
+72
+],
+[
+"Indigirka",
+72
+],
+[
+"Tocantins River",
+72
+],
+[
+"Sutlej",
+72
+],
+[
+"Kuban",
+71
+],
+[
+"Donets",
+71
+],
+[
+"Yalu River",
+70
+],
+[
+"Kızılırmak River",
+70
+],
+[
+"Rubicon",
+70
+],
+[
+"Lahn",
+69
+],
+[
+"Delaware River",
+69
+],
+[
+"Western Bug",
+69
+],
+[
+"Guadiana",
+68
+],
+[
+"Tennessee River",
+68
+],
+[
+"Saône",
+68
+],
+[
+"River Shannon",
+67
+],
+[
+"Ili River",
+67
+],
+[
+"Rioni",
+67
+],
+[
+"Ruhr",
+67
+],
+[
+"Havel",
+67
+],
+[
+"Jhelum River",
+67
+],
+[
+"Pripyat River",
+67
+],
+[
+"Morava",
+67
+],
+[
+"Ishim",
+67
+],
+[
+"Niagara River",
+67
+],
+[
+"Southern Bug",
+67
+],
+[
+"Helmand River",
+66
+],
+[
+"Han River",
+66
+],
+[
+"Argun River",
+66
+],
+[
+"Selenga",
+66
+],
+[
+"Narmada",
+66
+],
+[
+"Drina",
+66
+],
+[
+"Desna",
+65
+],
+[
+"Kagera River",
+65
+],
+[
+"Vardar",
+65
+],
+[
+"Ravi River",
+64
+],
+[
+"Marne",
+64
+],
+[
+"Chari River",
+64
+],
+[
+"Kabul River",
+63
+],
+[
+"Belaya",
+63
+],
+[
+"Ticino",
+63
+],
+[
+"Saale",
+63
+],
+[
+"Maritsa",
+63
+],
+[
+"Narva",
+63
+],
+[
+"Songhua River",
+63
+],
+[
+"Sura",
+63
+],
+[
+"Liao River",
+63
+],
+[
+"River Clyde",
+62
+],
+[
+"Vyatka",
+62
+],
+[
+"Marañón River",
+62
+],
+[
+"Dordogne",
+62
+],
+[
+"Red River",
+62
+],
+[
+"Neretva",
+62
+],
+[
+"Adda",
+61
+],
+[
+"Ucayali River",
+61
+],
+[
+"Omo River",
+61
+],
+[
+"Ems",
+60
+],
+[
+"Snake River",
+60
+],
+[
+"Tobol",
+60
+],
+[
+"Amstel",
+60
+],
+[
+"Orontes River",
+60
+],
+[
+"Hari River",
+59
+],
+[
+"River Trent",
+59
+],
+[
+"Cunene River",
+59
+],
+[
+"Onon River",
+59
+],
+[
+"Vaal River",
+59
+],
+[
+"Karun River",
+59
+],
+[
+"Vilyuy",
+58
+],
+[
+"Anadyr",
+58
+],
+[
+"Nizhnyaya Tunguska",
+58
+],
+[
+"Aldan",
+58
+],
+[
+"Lusatian Nysa",
+58
+],
+[
+"Panj River",
+57
+],
+[
+"Beas River",
+57
+],
+[
+"Oise",
+57
+],
+[
+"Mur",
+57
+],
+[
+"Awash River",
+57
+],
+[
+"Neris",
+57
+],
+[
+"Ussuri",
+57
+],
+[
+"Kapuas River",
+57
+],
+[
+"Gandaki River",
+57
+],
+[
+"Purus River",
+56
+],
+[
+"Minho River",
+56
+],
+[
+"Bosna",
+56
+],
+[
+"Ufa",
+56
+],
+[
+"Alazani",
+56
+],
+[
+"Ebola River",
+56
+],
+[
+"Olt River",
+56
+],
+[
+"Ottawa River",
+55
+],
+[
+"Detroit River",
+55
+],
+[
+"Váh",
+55
+],
+[
+"Adour",
+55
+],
+[
+"Liffey",
+55
+],
+[
+"Siret River",
+55
+],
+[
+"Meghna River",
+55
+],
+[
+"Andalien River",
+55
+],
+[
+"Waal",
+55
+],
+[
+"Tarim River",
+55
+],
+[
+"Shilka",
+55
+],
+[
+"Japurá River",
+55
+],
+[
+"Acheron",
+55
+],
+[
+"River Tweed",
+55
+],
+[
+"Narew",
+54
+],
+[
+"Susquehanna River",
+54
+],
+[
+"Aisne",
+54
+],
+[
+"Yana",
+54
+],
+[
+"Isère",
+54
+],
+[
+"Sacramento River",
+54
+],
+[
+"Mahanadi",
+54
+],
+[
+"Fraser River",
+54
+],
+[
+"Sakarya River",
+54
+],
+[
+"Iller",
+54
+],
+[
+"Tumen River",
+53
+],
+[
+"Hrazdan River",
+53
+],
+[
+"Vychegda",
+53
+],
+[
+"Volkhov",
+53
+],
+[
+"Xingu River",
+53
+],
+[
+"Ogooué River",
+53
+],
+[
+"Great Menderes River",
+53
+],
+[
+"Glomma",
+53
+],
+[
+"Saar",
+53
+],
+[
+"Iguazu River",
+53
+],
+[
+"Ghaghara River",
+53
+],
+[
+"Platte River",
+53
+],
+[
+"Draa River",
+53
+],
+[
+"Mureș River",
+52
+],
+[
+"Pilcomayo River",
+52
+],
+[
+"Huai River",
+52
+],
+[
+"Drin",
+52
+],
+[
+"Argeș River",
+52
+],
+[
+"San",
+52
+],
+[
+"Enns",
+52
+],
+[
+"Jubba River",
+52
+],
+[
+"Salzach",
+52
+],
+[
+"Araguaia River",
+52
+],
+[
+"Vakhsh River",
+51
+],
+[
+"Doubs",
+51
+],
+[
+"Struma",
+51
+],
+[
+"Gauja",
+51
+],
+[
+"Lys",
+51
+],
+[
+"Zeya",
+51
+],
+[
+"Orkhon River",
+51
+],
+[
+"Timiș River",
+51
+],
+[
+"River Tyne",
+51
+],
+[
+"Juruá River",
+51
+],
+[
+"Yellowstone River",
+51
+],
+[
+"Samara",
+51
+],
+[
+"Litani River",
+51
+],
+[
+"Khabur River",
+51
+],
+[
+"Podkamennaya Tunguska",
+50
+],
+[
+"Olenyok",
+50
+],
+[
+"Tapti River",
+50
+],
+[
+"Berezina",
+50
+],
+[
+"Eider",
+50
+],
+[
+"Great Morava",
+50
+],
+[
+"Iskar",
+50
+],
+[
+"Putumayo River",
+50
+],
+[
+"Hron",
+50
+],
+[
+"Emajõgi",
+50
+],
+[
+"Padma River",
+50
+],
+[
+"Fulda",
+50
+],
+[
+"Mamoré River",
+50
+],
+[
+"Kosi River",
+50
+],
+[
+"River Wye",
+49
+],
+[
+"Athabasca River",
+49
+],
+[
+"Sambre",
+49
+],
+[
+"Seym",
+49
+],
+[
+"Hooghly River",
+49
+],
+[
+"Tapajós River",
+49
+],
+[
+"IJssel",
+49
+],
+[
+"Dâmbovița River",
+49
+],
+[
+"Kemijoki",
+49
+],
+[
+"Xi River",
+49
+],
+[
+"Shire River",
+49
+],
+[
+"Leitha",
+49
+],
+[
+"Marghab River",
+48
+],
+[
+"Vitim",
+48
+],
+[
+"Peace River",
+48
+],
+[
+"Shkumbin",
+48
+],
+[
+"Saskatchewan River",
+48
+],
+[
+"Pärnu River",
+48
+],
+[
+"Piave",
+48
+],
+[
+"Tom",
+48
+],
+[
+"Vrbas",
+48
+],
+[
+"Kamchatka River",
+48
+],
+[
+"Hai River",
+48
+],
+[
+"Chu River",
+48
+],
+[
+"Enguri",
+48
+],
+[
+"Essequibo River",
+48
+],
+[
+"Naryn River",
+48
+],
+[
+"Vetluga",
+48
+],
+[
+"Kherlen River",
+48
+],
+[
+"Tana River",
+47
+],
+[
+"Kwango River",
+47
+],
+[
+"Atbarah River",
+47
+],
+[
+"Svir",
+47
+],
+[
+"Reuss",
+47
+],
+[
+"Werra",
+47
+],
+[
+"Kafue River",
+47
+],
+[
+"Yarmuk",
+47
+],
+[
+"Shebelle River",
+47
+],
+[
+"Chambal River",
+47
+],
+[
+"Cuando River",
+47
+],
+[
+"Zeravshan",
+47
+],
+[
+"Damodar River",
+47
+],
+[
+"Segura",
+46
+],
+[
+"Taedong River",
+46
+],
+[
+"Kupa",
+46
+],
+[
+"Yonne",
+46
+],
+[
+"Vjosa",
+46
+],
+[
+"Brenta",
+46
+],
+[
+"Moulouya River",
+46
+],
+[
+"Durance",
+46
+],
+[
+"Göta älv",
+46
+],
+[
+"Venta",
+46
+],
+[
+"Anabar",
+46
+],
+[
+"Abakan",
+46
+],
+[
+"Noteć",
+46
+],
+[
+"Beni River",
+46
+],
+[
+"Rába",
+46
+],
+[
+"Mara River",
+46
+],
+[
+"Tugela River",
+46
+],
+[
+"Logone River",
+46
+],
+[
+"River Tay",
+45
+],
+[
+"Katun",
+45
+],
+[
+"Þjórsá",
+45
+],
+[
+"Fly River",
+45
+],
+[
+"Una",
+45
+],
+[
+"Chusovaya",
+45
+],
+[
+"Tarn",
+45
+],
+[
+"Lielupe",
+45
+],
+[
+"Khatanga",
+45
+],
+[
+"Yantra",
+45
+],
+[
+"Pregolya",
+45
+],
+[
+"Yser",
+45
+],
+[
+"Waikato River",
+45
+],
+[
+"Rur",
+45
+],
+[
+"Ohře",
+45
+],
+[
+"Klyazma",
+45
+],
+[
+"Jiu River",
+45
+],
+[
+"Aube",
+45
+],
+[
+"Moksha",
+45
+],
+[
+"Olyokma",
+44
+],
+[
+"Limmat",
+44
+],
+[
+"Nestos",
+44
+],
+[
+"Achelous River",
+44
+],
+[
+"Ljubljanica",
+44
+],
+[
+"Ialomița River",
+44
+],
+[
+"Liard River",
+44
+],
+[
+"Allier",
+44
+],
+[
+"Nelson River",
+44
+],
+[
+"Talas River",
+44
+],
+[
+"Cher",
+44
+],
+[
+"Lualaba River",
+44
+],
+[
+"Rufiji River",
+44
+],
+[
+"Someș",
+44
+],
+[
+"Vorskla",
+44
+],
+[
+"Sepik",
+44
+],
+[
+"Illinois River",
+44
+],
+[
+"Vishera",
+44
+],
+[
+"Black Drin",
+44
+],
+[
+"Uele River",
+44
+],
+[
+"Tura",
+44
+],
+[
+"Connecticut River",
+44
+],
+[
+"Murrumbidgee River",
+44
+],
+[
+"Vienne",
+44
+],
+[
+"Allegheny River",
+44
+],
+[
+"Aragvi River",
+44
+],
+[
+"Ariège",
+43
+],
+[
+"Aragón",
+43
+],
+[
+"Mezen",
+43
+],
+[
+"Río Negro",
+43
+],
+[
+"Loa River",
+43
+],
+[
+"Kalmius",
+43
+],
+[
+"Great Zab",
+43
+],
+[
+"Dunajec",
+43
+],
+[
+"Gila River",
+43
+],
+[
+"Vézère",
+43
+],
+[
+"Tana",
+43
+],
+[
+"Torne River",
+43
+],
+[
+"Alatyr",
+43
+],
+[
+"Lippe",
+43
+],
+[
+"Kuma",
+43
+],
+[
+"Haliacmon",
+43
+],
+[
+"Tuul River",
+43
+],
+[
+"Ill",
+43
+],
+[
+"Velikaya",
+42
+],
+[
+"White Drin",
+42
+],
+[
+"Shinano River",
+42
+],
+[
+"Urubamba River",
+42
+],
+[
+"Ruvuma River",
+42
+],
+[
+"Teesta River",
+42
+],
+[
+"Psel",
+42
+],
+[
+"Sunzha",
+42
+],
+[
+"Brazos River",
+42
+],
+[
+"Alazeya",
+42
+],
+[
+"Chulym",
+42
+],
+[
+"Apurímac River",
+42
+],
+[
+"Dalälven",
+42
+],
+[
+"Huangpu River",
+42
+],
+[
+"Madre de Dios River",
+42
+],
+[
+"Bagmati River",
+42
+],
+[
+"Biya",
+42
+],
+[
+"Buna",
+42
+],
+[
+"Luangwa River",
+42
+],
+[
+"Om",
+42
+],
+[
+"Segre",
+41
+],
+[
+"Nakdong River",
+41
+],
+[
+"River Avon",
+41
+],
+[
+"Medjerda River",
+41
+],
+[
+"Onega",
+41
+],
+[
+"Bermejo",
+41
+],
+[
+"River Forth",
+41
+],
+[
+"Atrek River",
+41
+],
+[
+"Pilica",
+41
+],
+[
+"Tagliamento",
+41
+],
+[
+"Semois",
+41
+],
+[
+"Mologa",
+41
+],
+[
+"Guaporé River",
+41
+],
+[
+"Sukhona",
+41
+],
+[
+"Chindwin River",
+41
+],
+[
+"Jamuna River",
+41
+],
+[
+"Aller",
+41
+],
+[
+"Alzette",
+41
+],
+[
+"River Great Ouse",
+40
+],
+[
+"Eure",
+40
+],
+[
+"Gran Valira",
+40
+],
+[
+"Regen",
+40
+],
+[
+"Altmühl",
+40
+],
+[
+"Luga",
+40
+],
+[
+"Sozh",
+40
+],
+[
+"Mondego River",
+40
+],
+[
+"Salhyr",
+40
+],
+[
+"Slave River",
+40
+],
+[
+"Wieprz",
+40
+],
+[
+"Styr River",
+40
+],
+[
+"Lot",
+40
+],
+[
+"Taz",
+40
+],
+[
+"River Dee",
+40
+],
+[
+"Napo River",
+40
+],
+[
+"Green River",
+40
+],
+[
+"Zbruch",
+40
+],
+[
+"Barito River",
+40
+],
+[
+"Cauca River",
+40
+],
+[
+"Guaviare River",
+40
+],
+[
+"Võhandu River",
+40
+],
+[
+"Tanaro",
+40
+],
+[
+"Kostroma",
+40
+],
+[
+"Bóbr",
+40
+],
+[
+"White Volta",
+40
+],
+[
+"Emba River",
+40
+],
+[
+"Oskil",
+40
+],
+[
+"Nitra",
+40
+],
+[
+"Akhurian River",
+40
+],
+[
+"Júcar",
+39
+],
+[
+"Çoruh",
+39
+],
+[
+"Brda",
+39
+],
+[
+"Charles River",
+39
+],
+[
+"Vuoksa",
+39
+],
+[
+"Debed",
+39
+],
+[
+"Lomami River",
+39
+],
+[
+"Horyn",
+39
+],
+[
+"Tungabhadra River",
+39
+],
+[
+"Oglio",
+39
+],
+[
+"Wei River",
+39
+],
+[
+"Iset",
+39
+],
+[
+"Kodori River",
+39
+],
+[
+"Cheptsa",
+39
+],
+[
+"Irkut",
+39
+],
+[
+"Kara Darya",
+39
+],
+[
+"Iori",
+39
+],
+[
+"Kansas River",
+39
+],
+[
+"Inhulets River",
+39
+],
+[
+"Samur",
+39
+],
+[
+"Mbomou River",
+39
+],
+[
+"Kasari River",
+39
+],
+[
+"Paatsjoki",
+39
+],
+[
+"Oum Er-Rbia River",
+39
+],
+[
+"Kazanka",
+39
+],
+[
+"Ibar",
+39
+],
+[
+"Khopyor",
+39
+],
+[
+"Ingoda",
+39
+],
+[
+"Canadian River",
+39
+],
+[
+"River Bann",
+38
+],
+[
+"River Spey",
+38
+],
+[
+"Turia",
+38
+],
+[
+"White Elster",
+38
+],
+[
+"Pisuerga River",
+38
+],
+[
+"Chelif River",
+38
+],
+[
+"Tara",
+38
+],
+[
+"Li River",
+38
+],
+[
+"Ket",
+38
+],
+[
+"Lovat",
+38
+],
+[
+"Oti River",
+38
+],
+[
+"Bandama River",
+38
+],
+[
+"Mulde",
+38
+],
+[
+"Bureya",
+38
+],
+[
+"Krka",
+38
+],
+[
+"Timok",
+38
+],
+[
+"Bani River",
+38
+],
+[
+"Pyasina",
+38
+],
+[
+"Indre River",
+38
+],
+[
+"Körös River",
+38
+],
+[
+"Little Zab",
+38
+],
+[
+"Voronezh",
+38
+],
+[
+"Samara River",
+38
+],
+[
+"Trishuli River",
+38
+],
+[
+"Alma",
+38
+],
+[
+"Ishikari River",
+38
+],
+[
+"Teteriv",
+38
+],
+[
+"Morača",
+38
+],
+[
+"Leine",
+38
+],
+[
+"Alaknanda River",
+38
+],
+[
+"Arda",
+38
+],
+[
+"Gomti River",
+38
+],
+[
+"Chicago River",
+38
+],
+[
+"Komoé River",
+38
+],
+[
+"Sabarmati",
+38
+],
+[
+"Genil",
+37
+],
+[
+"Jarama",
+37
+],
+[
+"Pamir River",
+37
+],
+[
+"Breg",
+37
+],
+[
+"Sakmara",
+37
+],
+[
+"Geba River",
+37
+],
+[
+"Tundzha",
+37
+],
+[
+"Chambeshi River",
+37
+],
+[
+"Bahr el Ghazal River",
+37
+],
+[
+"Dender",
+37
+],
+[
+"Sebou River",
+37
+],
+[
+"Sobat River",
+37
+],
+[
+"Ugra",
+37
+],
+[
+"Ipoly",
+37
+],
+[
+"Minnesota River",
+37
+],
+[
+"Churchill River",
+37
+],
+[
+"Diyala River",
+37
+],
+[
+"Sviyaga",
+37
+],
+[
+"Lek",
+37
+],
+[
+"Cumberland River",
+37
+],
+[
+"Mius",
+37
+],
+[
+"Salado River",
+37
+],
+[
+"Sheksna",
+37
+],
+[
+"Pineios",
+37
+],
+[
+"Barrow",
+37
+],
+[
+"Eurotas",
+37
+],
+[
+"Xiang River",
+37
+],
+[
+"Pinega",
+37
+],
+[
+"River Boyne",
+37
+],
+[
+"Black Volta",
+37
+],
+[
+"Sauer",
+37
+],
+[
+"Pegnitz",
+37
+],
+[
+"Klarälven",
+37
+],
+[
+"River Medway",
+37
+],
+[
+"River Wear",
+37
+],
+[
+"Singapore River",
+37
+],
+[
+"Gardon",
+37
+],
+[
+"Cetina",
+37
+],
+[
+"Volturno",
+37
+],
+[
+"Alabama River",
+37
+],
+[
+"James River",
+37
+],
+[
+"Ardèche",
+37
+],
+[
+"River Aire",
+37
+],
+[
+"Reno",
+37
+],
+[
+"Bzyb River",
+37
+],
+[
+"Upa",
+37
+],
+[
+"Thaya",
+37
+],
+[
+"Traun",
+37
+],
+[
+"Dora Baltea",
+37
+],
+[
+"Yarra River",
+37
+],
+[
+"Sado River",
+36
+],
+[
+"Manzanares",
+36
+],
+[
+"Alster",
+36
+],
+[
+"Mahakam River",
+36
+],
+[
+"Casiquiare canal",
+36
+],
+[
+"Sulak",
+36
+],
+[
+"Ume älv",
+36
+],
+[
+"Barada",
+36
+],
+[
+"Sangha",
+36
+],
+[
+"Barguzin",
+36
+],
+[
+"Semliki River",
+36
+],
+[
+"Sarthe",
+36
+],
+[
+"Mono River",
+36
+],
+[
+"Vorotan River",
+36
+],
+[
+"Yeşilırmak River",
+36
+],
+[
+"Fish River",
+36
+],
+[
+"Murat River",
+36
+],
+[
+"Hérault",
+36
+],
+[
+"Río San Juan",
+36
+],
+[
+"Pasig River",
+36
+],
+[
+"Javary River",
+36
+],
+[
+"Yug",
+36
+],
+[
+"Hornád",
+36
+],
+[
+"River Derwent",
+36
+],
+[
+"Azat River",
+36
+],
+[
+"Willamette River",
+36
+],
+[
+"Biebrza",
+36
+],
+[
+"Red River of the North",
+36
+],
+[
+"Bhagirathi River",
+36
+],
+[
+"Son River",
+36
+],
+[
+"Tone River",
+36
+],
+[
+"Amga",
+36
+],
+[
+"Uzh River",
+36
+],
+[
+"Sajó",
+36
+],
+[
+"Aruwimi River",
+36
+],
+[
+"Vasyugan",
+36
+],
+[
+"Sula River",
+36
+],
+[
+"Yarkand River",
+36
+],
+[
+"Rega",
+36
+],
+[
+"Keila River",
+36
+],
+[
+"Răut",
+36
+],
+[
+"Arpa River",
+36
+],
+[
+"Miass",
+36
+],
+[
+"Ain",
+36
+],
+[
+"Manas River",
+36
+],
+[
+"Shyok River",
+36
+],
+[
+"Orne",
+36
+],
+[
+"Tvertsa",
+36
+],
+[
+"Izhma",
+36
+],
+[
+"Arachthos",
+36
+],
+[
+"Inhul River",
+35
+],
+[
+"Bidasoa",
+35
+],
+[
+"Poprad",
+35
+],
+[
+"North Saskatchewan River",
+35
+],
+[
+"Klondike River",
+35
+],
+[
+"Oulujoki",
+35
+],
+[
+"Usumacinta River",
+35
+],
+[
+"Yauza",
+35
+],
+[
+"San Joaquin River",
+35
+],
+[
+"Omolon",
+35
+],
+[
+"Ik",
+35
+],
+[
+"Sankuru River",
+35
+],
+[
+"Yarkon River",
+35
+],
+[
+"Bodrog",
+35
+],
+[
+"Dyoma",
+35
+],
+[
+"Tavda",
+35
+],
+[
+"Irpin River",
+35
+],
+[
+"Tekezé River",
+35
+],
+[
+"Chubut River",
+35
+],
+[
+"Gan River",
+35
+],
+[
+"Manych",
+35
+],
+[
+"Nevėžis",
+35
+],
+[
+"Lukuga River",
+35
+],
+[
+"Lule River",
+35
+],
+[
+"St. Clair River",
+35
+],
+[
+"Zala",
+35
+],
+[
+"Parnaíba River",
+35
+],
+[
+"Miljacka",
+35
+],
+[
+"Molopo River",
+35
+],
+[
+"Rurubu River",
+35
+],
+[
+"Grande River",
+35
+],
+[
+"Loir",
+35
+],
+[
+"Amgun River",
+35
+],
+[
+"Tanana River",
+35
+],
+[
+"Argun",
+35
+],
+[
+"Bzura",
+35
+],
+[
+"Regnitz",
+35
+],
+[
+"Ouémé River",
+35
+],
+[
+"Cavalla River",
+35
+],
+[
+"Latorica",
+35
+],
+[
+"River Ouse",
+34
+],
+[
+"Betsiboka River",
+34
+],
+[
+"Kuskokwim River",
+34
+],
+[
+"Saane/Sarine",
+34
+],
+[
+"Wabash River",
+34
+],
+[
+"Silis",
+34
+],
+[
+"Bistrița River",
+34
+],
+[
+"Onyx River",
+34
+],
+[
+"Casamance River",
+34
+],
+[
+"Izh",
+34
+],
+[
+"Min River",
+34
+],
+[
+"Ångermanälven",
+34
+],
+[
+"Drôme",
+34
+],
+[
+"Msta",
+34
+],
+[
+"Great Fish River",
+34
+],
+[
+"Suir",
+34
+],
+[
+"Aveyron",
+34
+],
+[
+"Cross River",
+34
+],
+[
+"Šešupė",
+34
+],
+[
+"Dyle / Dijle",
+34
+],
+[
+"Seman",
+34
+],
+[
+"Łyna",
+34
+],
+[
+"Maya",
+34
+],
+[
+"Mincio",
+34
+],
+[
+"Nissan",
+34
+],
+[
+"Bâc",
+34
+],
+[
+"Kalix River",
+34
+],
+[
+"Senne",
+34
+],
+[
+"Gers",
+34
+],
+[
+"Tietê River",
+34
+],
+[
+"Shelon",
+34
+],
+[
+"Upper Angara",
+34
+],
+[
+"Bow River",
+34
+],
+[
+"Ourthe",
+34
+],
+[
+"Ros River",
+34
+],
+[
+"Nieuwe Maas",
+34
+],
+[
+"Aniene",
+34
+],
+[
+"River Tamar",
+34
+],
+[
+"Caroní River",
+34
+],
+[
+"Sylva",
+34
+],
+[
+"Pedja River",
+34
+],
+[
+"South Morava",
+34
+],
+[
+"Fontanka",
+34
+],
+[
+"West Morava",
+34
+],
+[
+"Suriname River",
+34
+],
+[
+"Eisack",
+34
+],
+[
+"Huallaga River",
+34
+],
+[
+"Tinto River",
+33
+],
+[
+"Kunar River",
+33
+],
+[
+"Guadalete",
+33
+],
+[
+"Qiantang River",
+33
+],
+[
+"Maine",
+33
+],
+[
+"Peene",
+33
+],
+[
+"Khalkhyn River",
+33
+],
+[
+"Wkra",
+33
+],
+[
+"Akhtuba",
+33
+],
+[
+"Ybbs",
+33
+],
+[
+"Zarqa River",
+33
+],
+[
+"Kem River",
+33
+],
+[
+"Branco River",
+33
+],
+[
+"Sumida River",
+33
+],
+[
+"Ljusnan",
+33
+],
+[
+"Osam",
+33
+],
+[
+"Kan",
+33
+],
+[
+"Alfeios",
+33
+],
+[
+"Creuse",
+33
+],
+[
+"Red Volta",
+33
+],
+[
+"Usa",
+33
+],
+[
+"Nen River",
+33
+],
+[
+"Crișul Alb River",
+33
+],
+[
+"Pite River",
+33
+],
+[
+"Mohawk River",
+33
+],
+[
+"Lim",
+33
+],
+[
+"Unzha",
+33
+],
+[
+"Coco River",
+33
+],
+[
+"Cagayan River",
+33
+],
+[
+"Cheonggyecheon",
+33
+],
+[
+"Moldova River",
+33
+],
+[
+"Moyka River",
+33
+],
+[
+"Wisłok",
+33
+],
+[
+"Orava",
+33
+],
+[
+"River Tees",
+33
+],
+[
+"Savannah River",
+33
+],
+[
+"Otava",
+33
+],
+[
+"Catatumbo River",
+33
+],
+[
+"Piusa River",
+33
+],
+[
+"Monongahela River",
+33
+],
+[
+"Aura River",
+33
+],
+[
+"Vilnia",
+33
+],
+[
+"Naab",
+33
+],
+[
+"Arve",
+33
+],
+[
+"Bega River",
+33
+],
+[
+"Ilek",
+33
+],
+[
+"Kotuy",
+32
+],
+[
+"Grijalva River",
+32
+],
+[
+"Nervión",
+32
+],
+[
+"Ghaggar-Hakra river",
+32
+],
+[
+"Warnow",
+32
+],
+[
+"Trebbia",
+32
+],
+[
+"Mayenne",
+32
+],
+[
+"Trave",
+32
+],
+[
+"Pirita River",
+32
+],
+[
+"Seyhan River",
+32
+],
+[
+"Korana",
+32
+],
+[
+"Taymyra",
+32
+],
+[
+"Pur",
+32
+],
+[
+"Osum",
+32
+],
+[
+"Devoll",
+32
+],
+[
+"River Foyle",
+32
+],
+[
+"Svislach River",
+32
+],
+[
+"Bikin",
+32
+],
+[
+"Yalong River",
+32
+],
+[
+"Luapula River",
+32
+],
+[
+"Niva",
+32
+],
+[
+"Kymi River",
+32
+],
+[
+"Maputo River",
+32
+],
+[
+"Cimarron River",
+32
+],
+[
+"Sieg",
+32
+],
+[
+"Drwęca",
+32
+],
+[
+"Malka",
+32
+],
+[
+"Uda",
+32
+],
+[
+"Atrato River",
+32
+],
+[
+"Kerzhenets",
+32
+],
+[
+"Gediz River",
+32
+],
+[
+"River Ness",
+32
+],
+[
+"Varzuga",
+32
+],
+[
+"Caledon River",
+32
+],
+[
+"Batang Rajang",
+32
+],
+[
+"Molochna",
+32
+],
+[
+"Cooper Creek",
+32
+],
+[
+"Biryusa",
+32
+],
+[
+"Juruena River",
+32
+],
+[
+"Black River",
+32
+],
+[
+"Hotan River",
+32
+],
+[
+"Laba River",
+32
+],
+[
+"Apalachicola River",
+32
+],
+[
+"Ider River",
+31
+],
+[
+"Svratka",
+31
+],
+[
+"Esla",
+31
+],
+[
+"Tormes",
+31
+],
+[
+"Shenandoah River",
+31
+],
+[
+"Jefferson River",
+31
+],
+[
+"Selemdzha River",
+31
+],
+[
+"River Slaney",
+31
+],
+[
+"Uy",
+31
+],
+[
+"Luvua River",
+31
+],
+[
+"Tsna",
+31
+],
+[
+"Piva",
+31
+],
+[
+"Ofanto",
+31
+],
+[
+"Kolva",
+31
+],
+[
+"River Nore",
+31
+],
+[
+"Black Elster",
+31
+],
+[
+"Ponoy",
+31
+],
+[
+"Saigon River",
+31
+],
+[
+"Bengawan Solo River",
+31
+],
+[
+"Maroni",
+31
+],
+[
+"Buriganga River",
+31
+],
+[
+"Zayandeh River",
+31
+],
+[
+"Sefid Rud",
+31
+],
+[
+"Des Moines River",
+31
+],
+[
+"Numedalslågen",
+31
+],
+[
+"Protva",
+31
+],
+[
+"Nysa Kłodzka",
+31
+],
+[
+"Los Angeles River",
+31
+],
+[
+"Imjin River",
+31
+],
+[
+"Little Yenisey",
+31
+],
+[
+"St. Johns River",
+31
+],
+[
+"Mahaweli River",
+31
+],
+[
+"Karkheh River",
+31
+],
+[
+"Plyussa",
+31
+],
+[
+"Kirenga",
+31
+],
+[
+"Savinja",
+31
+],
+[
+"Chirchiq",
+31
+],
+[
+"Sassandra River",
+31
+],
+[
+"Big Uzen",
+31
+],
+[
+"Indalsälven",
+31
+],
+[
+"Sok",
+31
+],
+[
+"Kocher",
+31
+],
+[
+"Wien",
+31
+],
+[
+"Jökulsá á Fjöllum",
+31
+],
+[
+"Penzhina",
+31
+],
+[
+"Brigach",
+30
+],
+[
+"Syas",
+30
+],
+[
+"Wakhan River",
+30
+],
+[
+"Mantaro River",
+30
+],
+[
+"Paranaíba River",
+30
+],
+[
+"Izhora",
+30
+],
+[
+"Sungacha",
+30
+],
+[
+"Bakoy River",
+30
+],
+[
+"Elde",
+30
+],
+[
+"South Saskatchewan River",
+30
+],
+[
+"Berounka",
+30
+],
+[
+"Aconcagua River",
+30
+],
+[
+"Balikh River",
+30
+],
+[
+"Assiniboine River",
+30
+],
+[
+"Brisbane River",
+30
+],
+[
+"Lee",
+30
+],
+[
+"Kurówka",
+30
+],
+[
+"Apure River",
+30
+],
+[
+"Ljungan",
+30
+],
+[
+"Malaya Kokshaga",
+30
+],
+[
+"Yuryuzan",
+30
+],
+[
+"River Cam",
+30
+],
+[
+"Sharda River",
+30
+],
+[
+"Bolshaya Kokshaga",
+30
+],
+[
+"Bukhtarma River",
+30
+],
+[
+"Strumica",
+30
+],
+[
+"Czarna Hańcza",
+30
+],
+[
+"Ceyhan River",
+30
+],
+[
+"Kwilu River",
+30
+],
+[
+"Aley",
+30
+],
+[
+"River Exe",
+30
+],
+[
+"Dadu River",
+30
+],
+[
+"Sittaung River",
+30
+],
+[
+"Mangoky River",
+30
+],
+[
+"Khrami River",
+30
+],
+[
+"Caño Cristales",
+30
+],
+[
+"Amper",
+30
+],
+[
+"Olza",
+30
+],
+[
+"Põltsamaa River",
+30
+],
+[
+"Great Kei River",
+30
+],
+[
+"Bafing River",
+30
+],
+[
+"Karatal River",
+30
+],
+[
+"Swakop River",
+30
+],
+[
+"Limay River",
+30
+],
+[
+"Jizera",
+30
+],
+[
+"Bolshoy Yugan",
+30
+],
+[
+"Nida",
+30
+],
+[
+"Sluch River",
+30
+],
+[
+"Altaelva",
+30
+],
+[
+"Snov",
+30
+],
+[
+"Athi-Galana-Sabaki River",
+30
+],
+[
+"Chiers",
+30
+],
+[
+"Ahja River",
+30
+],
+[
+"Ay",
+30
+],
+[
+"Vashka",
+30
+],
+[
+"Ardon",
+30
+],
+[
+"Hvítá",
+30
+],
+[
+"Vedea River",
+30
+],
+[
+"Bolshoy Irgiz",
+30
+],
+[
+"Nara",
+30
+],
+[
+"Klang River",
+30
+],
+[
+"River Lea",
+29
+],
+[
+"River Usk",
+29
+],
+[
+"River Taff",
+29
+],
+[
+"Sázava",
+29
+],
+[
+"Musi River",
+29
+],
+[
+"Thur",
+29
+],
+[
+"Svitava",
+29
+],
+[
+"Vazuza",
+29
+],
+[
+"Baksan",
+29
+],
+[
+"Bartang River",
+29
+],
+[
+"River Göksu",
+29
+],
+[
+"Arun River",
+29
+],
+[
+"Bolshoy Kinel",
+29
+],
+[
+"Save River",
+29
+],
+[
+"Lužnice",
+29
+],
+[
+"Ščara",
+29
+],
+[
+"Wisłoka",
+29
+],
+[
+"Rance",
+29
+],
+[
+"Crna",
+29
+],
+[
+"Yongding River",
+29
+],
+[
+"Demyanka",
+29
+],
+[
+"Eg River",
+29
+],
+[
+"Sana",
+29
+],
+[
+"Pedieos",
+29
+],
+[
+"Bolshoy Cheremshan",
+29
+],
+[
+"Cuyahoga River",
+29
+],
+[
+"Vakh",
+29
+],
+[
+"Nan River",
+29
+],
+[
+"Taseyeva River",
+29
+],
+[
+"Bregalnica",
+29
+],
+[
+"Klamath River",
+29
+],
+[
+"Sokoto River",
+29
+],
+[
+"Milk River",
+29
+],
+[
+"White River",
+29
+],
+[
+"Obra",
+29
+],
+[
+"Jialing River",
+29
+],
+[
+"Ubort",
+29
+],
+[
+"Kaduna River",
+29
+],
+[
+"Uchur River",
+29
+],
+[
+"Tensift River",
+29
+],
+[
+"Vym",
+29
+],
+[
+"Betwa River",
+29
+],
+[
+"Nahe",
+29
+],
+[
+"Skjálfandafljót",
+29
+],
+[
+"Motagua River",
+29
+],
+[
+"yuca guasi",
+29
+],
+[
+"Dospat",
+29
+],
+[
+"Yarlung Tsangpo River",
+29
+],
+[
+"Hasbani River",
+29
+],
+[
+"Suceava River",
+29
+],
+[
+"Seret",
+29
+],
+[
+"Mzymta",
+29
+],
+[
+"Tauber",
+29
+],
+[
+"Wouri River",
+29
+],
+[
+"Merkys",
+29
+],
+[
+"Pyana",
+29
+],
+[
+"Navesti River",
+29
+],
+[
+"Nidelva",
+29
+],
+[
+"Ma River",
+29
+],
+[
+"Courantyne River",
+29
+],
+[
+"Maule River",
+29
+],
+[
+"Pará River",
+29
+],
+[
+"Vyg",
+29
+],
+[
+"Or River",
+29
+],
+[
+"Istra",
+29
+],
+[
+"Kentucky River",
+29
+],
+[
+"Oyapock",
+29
+],
+[
+"Mukhavets River",
+29
+],
+[
+"Paraíba do Sul River",
+29
+],
+[
+"Whanganui River",
+29
+],
+[
+"Otra",
+29
+],
+[
+"Amblève",
+29
+],
+[
+"Meta River",
+29
+],
+[
+"Saint John River",
+29
+],
+[
+"Alagón River",
+28
+],
+[
+"Our",
+28
+],
+[
+"Zeta",
+28
+],
+[
+"Acre River",
+28
+],
+[
+"River Eden",
+28
+],
+[
+"Vesdre",
+28
+],
+[
+"Kalchyk",
+28
+],
+[
+"Verdon",
+28
+],
+[
+"Belize River",
+28
+],
+[
+"Mamberamo River",
+28
+],
+[
+"Garigliano",
+28
+],
+[
+"Batang Hari",
+28
+],
+[
+"Porcupine River",
+28
+],
+[
+"Balsas River",
+28
+],
+[
+"Finlay River",
+28
+],
+[
+"Kootenay River",
+28
+],
+[
+"Mulyanka",
+28
+],
+[
+"Prosna",
+28
+],
+[
+"Dubna",
+28
+],
+[
+"Aa River",
+28
+],
+[
+"Meurthe",
+28
+],
+[
+"Luo River",
+28
+],
+[
+"Angrapa",
+28
+],
+[
+"Little Danube",
+28
+],
+[
+"St. Marys River",
+28
+],
+[
+"Laborec",
+28
+],
+[
+"Ci Tarum",
+28
+],
+[
+"Sysola",
+28
+],
+[
+"Farah River",
+28
+],
+[
+"Wisconsin River",
+28
+],
+[
+"Gave de Pau River",
+28
+],
+[
+"Gail",
+28
+],
+[
+"Yuan River",
+28
+],
+[
+"Aghstev",
+28
+],
+[
+"Swat River",
+28
+],
+[
+"Aidar",
+28
+],
+[
+"Chara",
+28
+],
+[
+"Sava Bohinjka",
+28
+],
+[
+"Arauca River",
+28
+],
+[
+"Drawa",
+28
+],
+[
+"Luza",
+28
+],
+[
+"Drut River",
+28
+],
+[
+"Unstrut",
+28
+],
+[
+"Benito River",
+28
+],
+[
+"Sestra",
+28
+],
+[
+"Vechte",
+28
+],
+[
+"Kokemäenjoki",
+28
+],
+[
+"Zhizdra",
+28
+],
+[
+"Sous River",
+28
+],
+[
+"Rezovska",
+28
+],
+[
+"Nemunėlis",
+28
+],
+[
+"Kuiseb River",
+28
+],
+[
+"Rupel",
+28
+],
+[
+"Ilet",
+28
+],
+[
+"Flinders River",
+28
+],
+[
+"Shosha",
+28
+],
+[
+"Skellefte River",
+28
+],
+[
+"Trebišnjica",
+28
+],
+[
+"Komati River",
+28
+],
+[
+"Bystraya Sosna",
+28
+],
+[
+"Lauwers",
+28
+],
+[
+"Kishon River",
+28
+],
+[
+"Medveditsa",
+28
+],
+[
+"Sutla",
+28
+],
+[
+"Kondurcha",
+28
+],
+[
+"Nišava",
+28
+],
+[
+"Maly Uzen",
+28
+],
+[
+"Kasplya",
+28
+],
+[
+"Motława",
+28
+],
+[
+"River Don",
+28
+],
+[
+"Saguenay River",
+28
+],
+[
+"Sim",
+28
+],
+[
+"Adycha River",
+28
+],
+[
+"Bolshoy Yenisei",
+28
+],
+[
+"Wupper",
+28
+],
+[
+"Jihlava",
+28
+],
+[
+"Nura",
+28
+],
+[
+"Ondava",
+28
+],
+[
+"Arakawa River",
+28
+],
+[
+"Donaukanal",
+28
+],
+[
+"Mudan River",
+28
+],
+[
+"Stryi River",
+28
+],
+[
+"Zêzere River",
+27
+],
+[
+"Arga",
+27
+],
+[
+"River Nene",
+27
+],
+[
+"Vaupés River",
+27
+],
+[
+"Linth",
+27
+],
+[
+"Aterno-Pescara",
+27
+],
+[
+"Chir",
+27
+],
+[
+"Artibonite River",
+27
+],
+[
+"Chikoy",
+27
+],
+[
+"Oredezh",
+27
+],
+[
+"Poronay",
+27
+],
+[
+"Arroux",
+27
+],
+[
+"Ziz River",
+27
+],
+[
+"Vologda River",
+27
+],
+[
+"Tartar",
+27
+],
+[
+"Pelym",
+27
+],
+[
+"Bei River",
+27
+],
+[
+"Belaya River",
+27
+],
+[
+"Ombrone",
+27
+],
+[
+"Lambro",
+27
+],
+[
+"Ölfusá",
+27
+],
+[
+"Mékrou River",
+27
+],
+[
+"Nederrijn",
+27
+],
+[
+"Suzhou Creek",
+27
+],
+[
+"Mūša",
+27
+],
+[
+"Kotorosl",
+27
+],
+[
+"Gudbrandsdalslågen",
+27
+],
+[
+"Nagara River",
+27
+],
+[
+"Vorkuta River",
+27
+],
+[
+"Yobe River",
+27
+],
+[
+"Jijia River",
+27
+],
+[
+"Tskhenistsqali",
+27
+],
+[
+"Bârlad River",
+27
+],
+[
+"Bečva",
+27
+],
+[
+"Ruza",
+27
+],
+[
+"Falémé River",
+27
+],
+[
+"Qashqadaryo River",
+27
+],
+[
+"Surxondaryo",
+27
+],
+[
+"Tama River",
+27
+],
+[
+"Tes",
+27
+],
+[
+"Smotrych River",
+27
+],
+[
+"Sudost",
+27
+],
+[
+"Ahr",
+27
+],
+[
+"Severnaya Sosva",
+27
+],
+[
+"Bosut",
+27
+],
+[
+"Iriri River",
+27
+],
+[
+"Guayas River",
+27
+],
+[
+"Periyar River",
+27
+],
+[
+"Kasagh River",
+27
+],
+[
+"Chagres River",
+27
+],
+[
+"Markha",
+27
+],
+[
+"Wiltz",
+27
+],
+[
+"North Platte River",
+27
+],
+[
+"Pangani River",
+27
+],
+[
+"Mun River",
+27
+],
+[
+"Pronya",
+27
+],
+[
+"Mat",
+27
+],
+[
+"Merced River",
+27
+],
+[
+"Mahi River",
+27
+],
+[
+"Wu River",
+27
+],
+[
+"Minija",
+27
+],
+[
+"Iijoki",
+27
+],
+[
+"Ping River",
+27
+],
+[
+"Oldman River",
+27
+],
+[
+"Świna",
+27
+],
+[
+"Opava",
+27
+],
+[
+"Dzisna",
+27
+],
+[
+"Victoria River",
+27
+],
+[
+"Šventoji",
+27
+],
+[
+"Agusan River",
+27
+],
+[
+"Oude Maas",
+27
+],
+[
+"Tano River",
+27
+],
+[
+"Ounasjoki",
+27
+],
+[
+"Spercheios",
+27
+],
+[
+"Brunei River",
+27
+],
+[
+"Eder",
+27
+],
+[
+"Pastaza River",
+27
+],
+[
+"Osyotr",
+27
+],
+[
+"Anacostia River",
+27
+],
+[
+"Saalach",
+27
+],
+[
+"Fuji River",
+27
+],
+[
+"Sankosh River",
+27
+],
+[
+"Jalón River",
+26
+],
+[
+"Vouga River",
+26
+],
+[
+"Lima River",
+26
+],
+[
+"Tâmega River",
+26
+],
+[
+"Dragonja",
+26
+],
+[
+"Loisach",
+26
+],
+[
+"Serchio",
+26
+],
+[
+"Loing",
+26
+],
+[
+"Lama",
+26
+],
+[
+"Drac",
+26
+],
+[
+"Ilmenau",
+26
+],
+[
+"Kureyka",
+26
+],
+[
+"Oyat",
+26
+],
+[
+"Nadym",
+26
+],
+[
+"Pcič",
+26
+],
+[
+"Demerara River",
+26
+],
+[
+"Breede River",
+26
+],
+[
+"Küçük Menderes River",
+26
+],
+[
+"Sèvre Niortaise",
+26
+],
+[
+"Dja River",
+26
+],
+[
+"Red Deer River",
+26
+],
+[
+"Olifants River (Limpopo)",
+26
+],
+[
+"Konda",
+26
+],
+[
+"Zavkhan River",
+26
+],
+[
+"Someșul Mic",
+26
+],
+[
+"Panaro",
+26
+],
+[
+"Veleka",
+26
+],
+[
+"Sesia",
+26
+],
+[
+"Andi Koysu",
+26
+],
+[
+"Ayaguz River",
+26
+],
+[
+"Arys River",
+26
+],
+[
+"Khilok River",
+26
+],
+[
+"Cacheu River",
+26
+],
+[
+"Bemarivo River",
+26
+],
+[
+"Tuloma",
+26
+],
+[
+"Tagil",
+26
+],
+[
+"Barcău River",
+26
+],
+[
+"Ilim",
+26
+],
+[
+"Ostravice",
+26
+],
+[
+"Sankarani River",
+26
+],
+[
+"Salaca",
+26
+],
+[
+"Cem River",
+26
+],
+[
+"Emscher",
+26
+],
+[
+"Jägala River",
+26
+],
+[
+"Ozama River",
+26
+],
+[
+"Oster River",
+26
+],
+[
+"Konka River",
+26
+],
+[
+"Vodla",
+26
+],
+[
+"Neuquén River",
+26
+],
+[
+"Crișul Repede River",
+26
+],
+[
+"Maly Irgiz",
+26
+],
+[
+"Tosna",
+26
+],
+[
+"Namsen",
+26
+],
+[
+"Blanda",
+26
+],
+[
+"Malagarasi River",
+26
+],
+[
+"Tsilma",
+26
+],
+[
+"Waimakariri River",
+26
+],
+[
+"Afrin River",
+26
+],
+[
+"Tuba",
+26
+],
+[
+"Roanoke River",
+26
+],
+[
+"Iput",
+26
+],
+[
+"Turgai River",
+26
+],
+[
+"Rednitz",
+26
+],
+[
+"Crathis",
+26
+],
+[
+"Urup",
+26
+],
+[
+"Lepenac",
+26
+],
+[
+"Sosva",
+26
+],
+[
+"Schuylkill River",
+26
+],
+[
+"Arghandab River",
+25
+],
+[
+"Cinca River",
+25
+],
+[
+"Kamo River",
+25
+],
+[
+"Birs",
+25
+],
+[
+"Pinturas River",
+25
+],
+[
+"Nidda",
+25
+],
+[
+"Hunte",
+25
+],
+[
+"Nugush",
+25
+],
+[
+"Ilz",
+25
+],
+[
+"Barka River",
+25
+],
+[
+"Maipo River",
+25
+],
+[
+"Charysh",
+25
+],
+[
+"Blavet",
+25
+],
+[
+"Coppermine River",
+25
+],
+[
+"Little Colorado River",
+25
+],
+[
+"Yodo River",
+25
+],
+[
+"Kola",
+25
+],
+[
+"Lukenie River",
+25
+],
+[
+"Nerl",
+25
+],
+[
+"Soła",
+25
+],
+[
+"Tuo River",
+25
+],
+[
+"Mae Klong",
+25
+],
+[
+"Lozva",
+25
+],
+[
+"Pactolus",
+25
+],
+[
+"Dawa River",
+25
+],
+[
+"Khemchik",
+25
+],
+[
+"Ene River",
+25
+],
+[
+"Nera",
+25
+],
+[
+"San Juan River",
+25
+],
+[
+"Kheta",
+25
+],
+[
+"Pakhra",
+25
+],
+[
+"River Ribble",
+25
+],
+[
+"Parsęta",
+25
+],
+[
+"Buzău River",
+25
+],
+[
+"Pasłęka",
+25
+],
+[
+"Rio Grande de Mindanao",
+25
+],
+[
+"Uvac",
+25
+],
+[
+"Ropotamo",
+25
+],
+[
+"Pungwe River",
+25
+],
+[
+"Polist",
+25
+],
+[
+"Insar",
+25
+],
+[
+"Dong Nai River",
+25
+],
+[
+"Kofarnihon River",
+25
+],
+[
+"Kokcha River",
+25
+],
+[
+"River Conwy",
+25
+],
+[
+"Kara",
+25
+],
+[
+"Albany River",
+25
+],
+[
+"Kunya",
+25
+],
+[
+"Nyuya",
+25
+],
+[
+"Vipava",
+25
+],
+[
+"Kilmez",
+25
+],
+[
+"Mahananda River",
+25
+],
+[
+"Moa River",
+25
+],
+[
+"River Nith",
+25
+],
+[
+"Qvirila River",
+25
+],
+[
+"Ubagan River",
+25
+],
+[
+"Luhan",
+25
+],
+[
+"Vindel River",
+25
+],
+[
+"Lachlan River",
+25
+],
+[
+"Drino",
+25
+],
+[
+"Cheremosh River",
+25
+],
+[
+"Lulonga River",
+25
+],
+[
+"Tym",
+25
+],
+[
+"Tyung",
+25
+],
+[
+"Erdre",
+25
+],
+[
+"Dahme",
+25
+],
+[
+"West Rapti River",
+25
+],
+[
+"Aksu River",
+25
+],
+[
+"Subarnarekha River",
+25
+],
+[
+"Ledava",
+25
+],
+[
+"Mana River",
+25
+],
+[
+"Uvod",
+25
+],
+[
+"Great Liakhvi River",
+25
+],
+[
+"Fitzroy River",
+25
+],
+[
+"Aiviekste",
+25
+],
+[
+"Merrimack River",
+25
+],
+[
+"Vit",
+25
+],
+[
+"Munster Blackwater",
+25
+],
+[
+"Evinos",
+25
+],
+[
+"Tereshka",
+25
+],
+[
+"Perfume River",
+25
+],
+[
+"Ksani",
+25
+],
+[
+"Lempa River",
+25
+],
+[
+"Abuna River",
+25
+],
+[
+"Jaguarão River",
+25
+],
+[
+"Uzh",
+25
+],
+[
+"Radbuza",
+25
+],
+[
+"Motala ström",
+25
+],
+[
+"Yeruslan",
+25
+],
+[
+"Idrijca",
+25
+],
+[
+"Agan River",
+25
+],
+[
+"Tyosha",
+25
+],
+[
+"Rogue River",
+25
+],
+[
+"Ruvyironza River",
+25
+],
+[
+"Agout",
+25
+],
+[
+"Łeba",
+25
+],
+[
+"Golo",
+25
+],
+[
+"Metauro",
+25
+],
+[
+"Wda",
+25
+],
+[
+"Ciliwung River",
+25
+],
+[
+"Magra",
+25
+],
+[
+"Oker",
+25
+],
+[
+"Dora Riparia",
+25
+],
+[
+"Düssel",
+25
+],
+[
+"Paranapanema River",
+25
+],
+[
+"Lufira River",
+25
+],
+[
+"Panjshir River",
+24
+],
+[
+"Gomal River",
+24
+],
+[
+"Loukkos River",
+24
+],
+[
+"Nalón",
+24
+],
+[
+"River Irwell",
+24
+],
+[
+"Águeda River",
+24
+],
+[
+"Karnaphuli",
+24
+],
+[
+"Iza River",
+24
+],
+[
+"Mže",
+24
+],
+[
+"Lesse",
+24
+],
+[
+"Shagan",
+24
+],
+[
+"Berd",
+24
+],
+[
+"Maly Anyuy",
+24
+],
+[
+"Mapocho River",
+24
+],
+[
+"Oste",
+24
+],
+[
+"Pizhma",
+24
+],
+[
+"Pyshma",
+24
+],
+[
+"Isle",
+24
+],
+[
+"Zrmanja",
+24
+],
+[
+"Mezha",
+24
+],
+[
+"Dez River",
+24
+],
+[
+"Diamantina River",
+24
+],
+[
+"Avacha",
+24
+],
+[
+"Sele",
+24
+],
+[
+"Irgiz River",
+24
+],
+[
+"Hollands Diep",
+24
+],
+[
+"Inya",
+24
+],
+[
+"Turukhan",
+24
+],
+[
+"Truyère",
+24
+],
+[
+"Ourcq",
+24
+],
+[
+"Razdolnaya",
+24
+],
+[
+"Vantaa River",
+24
+],
+[
+"Pasha",
+24
+],
+[
+"Tirso",
+24
+],
+[
+"South Platte River",
+24
+],
+[
+"Moloma",
+24
+],
+[
+"Valdivia River",
+24
+],
+[
+"Yeya River",
+24
+],
+[
+"Karakash River",
+24
+],
+[
+"Anyuy River",
+24
+],
+[
+"Epte",
+24
+],
+[
+"Bityug",
+24
+],
+[
+"Pshish",
+24
+],
+[
+"Okhta",
+24
+],
+[
+"Shipra River",
+24
+],
+[
+"Río Grande de Santiago",
+24
+],
+[
+"Pola",
+24
+],
+[
+"Mera",
+24
+],
+[
+"Chagodoscha",
+24
+],
+[
+"Khovd River",
+24
+],
+[
+"Besed",
+24
+],
+[
+"Sitnica",
+24
+],
+[
+"Dommel",
+24
+],
+[
+"Iren",
+24
+],
+[
+"Dzhida",
+24
+],
+[
+"Dubysa",
+24
+],
+[
+"Mandovi River",
+24
+],
+[
+"Olona",
+24
+],
+[
+"Eisch",
+24
+],
+[
+"Lanë",
+24
+],
+[
+"Mobile River",
+24
+],
+[
+"Kok River",
+24
+],
+[
+"Chumysh",
+24
+],
+[
+"Vorona",
+24
+],
+[
+"Urumea River",
+24
+],
+[
+"Jūra",
+24
+],
+[
+"Banyas",
+24
+],
+[
+"Iya",
+24
+],
+[
+"River Kennet",
+24
+],
+[
+"Winnipeg River",
+24
+],
+[
+"Humboldt River",
+24
+],
+[
+"Flint River",
+24
+],
+[
+"Pra",
+24
+],
+[
+"River Kelvin",
+24
+],
+[
+"Snowy River",
+24
+],
+[
+"Pyakupur",
+24
+],
+[
+"Thyamis",
+24
+],
+[
+"Hantan River",
+24
+],
+[
+"Nueces River",
+24
+],
+[
+"Tigoda",
+24
+],
+[
+"Ner",
+24
+],
+[
+"Pčinja",
+24
+],
+[
+"Tambo River",
+24
+],
+[
+"Baïse",
+24
+],
+[
+"Słupia",
+24
+],
+[
+"Santa Cruz River",
+24
+],
+[
+"Drammenselva",
+24
+],
+[
+"Essonne",
+24
+],
+[
+"Prahova River",
+24
+],
+[
+"Corrèze",
+24
+],
+[
+"Kysuca",
+24
+],
+[
+"Mareb River",
+24
+],
+[
+"Blies",
+24
+],
+[
+"Yom River",
+24
+],
+[
+"Yudoma",
+24
+],
+[
+"Köprüçay River",
+24
+],
+[
+"Koyukuk River",
+24
+],
+[
+"Têt",
+24
+],
+[
+"Kondoma",
+24
+],
+[
+"Kubena",
+24
+],
+[
+"Pechenga",
+24
+],
+[
+"Chulyshman",
+24
+],
+[
+"River Dart",
+24
+],
+[
+"Schugor",
+24
+],
+[
+"Amguema",
+24
+],
+[
+"Delgermörön",
+24
+],
+[
+"Sochi",
+24
+],
+[
+"Noord",
+24
+],
+[
+"Cauto River",
+24
+],
+[
+"Bystry Tanyp",
+24
+],
+[
+"Emme",
+24
+],
+[
+"Hollandse IJssel",
+24
+],
+[
+"Tollense",
+24
+],
+[
+"Mogami River",
+24
+],
+[
+"Sabine River",
+24
+],
+[
+"Seille",
+24
+],
+[
+"Anuy",
+24
+],
+[
+"Clutha River / Mata-Au",
+24
+],
+[
+"Khabur",
+24
+],
+[
+"Odiel",
+23
+],
+[
+"Alberche",
+23
+],
+[
+"Gállego",
+23
+],
+[
+"Guadalhorce",
+23
+],
+[
+"Tronto",
+23
+],
+[
+"Bira",
+23
+],
+[
+"Bolshoy Ik",
+23
+],
+[
+"Úhlava",
+23
+],
+[
+"Liri",
+23
+],
+[
+"Orlice",
+23
+],
+[
+"Moma River",
+23
+],
+[
+"Basento",
+23
+],
+[
+"Gera",
+23
+],
+[
+"Dong River",
+23
+],
+[
+"Rienz",
+23
+],
+[
+"Baro River",
+23
+],
+[
+"Jagst",
+23
+],
+[
+"Teles Pires River",
+23
+],
+[
+"Bille",
+23
+],
+[
+"Abava River",
+23
+],
+[
+"Muna",
+23
+],
+[
+"Brembo",
+23
+],
+[
+"Edo River",
+23
+],
+[
+"Teshio River",
+23
+],
+[
+"Cephissus",
+23
+],
+[
+"Voronya",
+23
+],
+[
+"Wörnitz",
+23
+],
+[
+"Saloum River",
+23
+],
+[
+"Kushk River",
+23
+],
+[
+"Yoshino River",
+23
+],
+[
+"Bhima River",
+23
+],
+[
+"Emtsa",
+23
+],
+[
+"Hingol River",
+23
+],
+[
+"Nitsa",
+23
+],
+[
+"Shashe River",
+23
+],
+[
+"Buy",
+23
+],
+[
+"Sofia River",
+23
+],
+[
+"Busento",
+23
+],
+[
+"Kharkiv",
+23
+],
+[
+"Canche",
+23
+],
+[
+"Kerio River",
+23
+],
+[
+"Corubal River",
+23
+],
+[
+"Onilahy River",
+23
+],
+[
+"River Monnow",
+23
+],
+[
+"Manavgat River",
+23
+],
+[
+"Río Cuareim",
+23
+],
+[
+"Nera River",
+23
+],
+[
+"Khorol River",
+23
+],
+[
+"Vop",
+23
+],
+[
+"Rappahannock River",
+23
+],
+[
+"Mano River",
+23
+],
+[
+"Vire",
+23
+],
+[
+"Chilia branch",
+23
+],
+[
+"Aba River",
+23
+],
+[
+"Gamtoos River",
+23
+],
+[
+"Charyn River",
+23
+],
+[
+"Oude IJssel",
+23
+],
+[
+"Neelum River",
+23
+],
+[
+"Kennebec River",
+23
+],
+[
+"Omoloy",
+23
+],
+[
+"Ulungur River",
+23
+],
+[
+"Karasu River",
+23
+],
+[
+"Mrassu",
+23
+],
+[
+"Pahang River",
+23
+],
+[
+"Murchison River",
+23
+],
+[
+"Kitinen",
+23
+],
+[
+"Nyabarongo River",
+23
+],
+[
+"Kouilou-Niari River",
+23
+],
+[
+"Santa Lucía River",
+23
+],
+[
+"Podkumok",
+23
+],
+[
+"Ankobra River",
+23
+],
+[
+"Ina",
+23
+],
+[
+"Digul River",
+23
+],
+[
+"Väike Emajõgi",
+23
+],
+[
+"Sartang River",
+23
+],
+[
+"Kashgar River",
+23
+],
+[
+"Hondo River",
+23
+],
+[
+"Gascoyne River",
+23
+],
+[
+"Doce River",
+23
+],
+[
+"River Lagan",
+23
+],
+[
+"Tunguska",
+23
+],
+[
+"Sal River",
+23
+],
+[
+"Neyva",
+23
+],
+[
+"Alz",
+23
+],
+[
+"Penna River",
+23
+],
+[
+"Agri",
+23
+],
+[
+"American River",
+23
+],
+[
+"Trinity River",
+23
+],
+[
+"Pededze",
+23
+],
+[
+"Kovda",
+23
+],
+[
+"Argens",
+23
+],
+[
+"Stör",
+23
+],
+[
+"Wiese",
+23
+],
+[
+"Vorderrhein",
+23
+],
+[
+"Sèvre Nantaise",
+23
+],
+[
+"Mira River",
+22
+],
+[
+"Guadalope",
+22
+],
+[
+"Treska",
+22
+],
+[
+"Tikhvinka River",
+22
+],
+[
+"Great Neva",
+22
+],
+[
+"Enz",
+22
+],
+[
+"Kwisa",
+22
+],
+[
+"Hayes River",
+22
+],
+[
+"Sangro",
+22
+],
+[
+"Shing Mun River",
+22
+],
+[
+"Deva",
+22
+],
+[
+"Abukuma River",
+22
+],
+[
+"Keelung River",
+22
+],
+[
+"Sarysu",
+22
+],
+[
+"Berkel",
+22
+],
+[
+"Zhuoshui River",
+22
+],
+[
+"Kazan River",
+22
+],
+[
+"Ygyatta",
+22
+],
+[
+"Tsipa River",
+22
+],
+[
+"Elqui River",
+22
+],
+[
+"Lauca River",
+22
+],
+[
+"Pend Oreille River",
+22
+],
+[
+"Badyarikha River",
+22
+],
+[
+"Tsivil",
+22
+],
+[
+"Limarí River",
+22
+],
+[
+"Scioto River",
+22
+],
+[
+"Khor River",
+22
+],
+[
+"Kolp",
+22
+],
+[
+"Colville River",
+22
+],
+[
+"Niobrara River",
+22
+],
+[
+"Tammerkoski",
+22
+],
+[
+"Copper River",
+22
+],
+[
+"Selizharovka",
+22
+],
+[
+"Österdal River",
+22
+],
+[
+"Atchafalaya River",
+22
+],
+[
+"Luan River",
+22
+],
+[
+"Suna",
+22
+],
+[
+"Marecchia",
+22
+],
+[
+"Nairobi River",
+22
+],
+[
+"Chorna River",
+22
+],
+[
+"Teberda River",
+22
+],
+[
+"Dulce River",
+22
+],
+[
+"Panjnad River",
+22
+],
+[
+"Acharistsqali",
+22
+],
+[
+"Kolubara",
+22
+],
+[
+"River Corrib",
+22
+],
+[
+"Bassac River",
+22
+],
+[
+"Kuloy",
+22
+],
+[
+"Peel River",
+22
+],
+[
+"Nive",
+22
+],
+[
+"River Erne",
+22
+],
+[
+"Shimanto River",
+22
+],
+[
+"Umgeni River",
+22
+],
+[
+"Zagyva",
+22
+],
+[
+"Uyandina",
+22
+],
+[
+"Gacka",
+22
+],
+[
+"Ogun River",
+22
+],
+[
+"Ruo Shui",
+22
+],
+[
+"Byoryolyokh",
+22
+],
+[
+"Suwannee River",
+22
+],
+[
+"Salat",
+22
+],
+[
+"Mirna",
+22
+],
+[
+"Thelon River",
+22
+],
+[
+"Vytegra",
+22
+],
+[
+"Loiret",
+22
+],
+[
+"Lašva",
+22
+],
+[
+"Konkouré River",
+22
+],
+[
+"Palata River",
+22
+],
+[
+"Serio",
+22
+],
+[
+"Suda",
+22
+],
+[
+"Fars",
+22
+],
+[
+"Urukh",
+22
+],
+[
+"Pambak River",
+22
+],
+[
+"Wurm",
+22
+],
+[
+"Algeti River",
+22
+],
+[
+"Radika",
+22
+],
+[
+"Pronia",
+22
+],
+[
+"Hakari River",
+22
+],
+[
+"Futaleufú River",
+22
+],
+[
+"Feni River",
+22
+],
+[
+"Kudma",
+22
+],
+[
+"Kalambo River",
+22
+],
+[
+"Rusenski Lom",
+22
+],
+[
+"Itata River",
+22
+],
+[
+"Smoky Hill River",
+22
+],
+[
+"Orkla",
+22
+],
+[
+"Clain",
+22
+],
+[
+"Kaczawa",
+22
+],
+[
+"Iokanga",
+22
+],
+[
+"Ludza",
+22
+],
+[
+"Kamchiya",
+22
+],
+[
+"Nercha",
+22
+],
+[
+"Timpton",
+22
+],
+[
+"Kashinka",
+22
+],
+[
+"Tigre River",
+22
+],
+[
+"Sym River",
+22
+],
+[
+"Bolshoy Anyuy",
+22
+],
+[
+"Chapaevka",
+22
+],
+[
+"Ilisos",
+22
+],
+[
+"Rokel River",
+22
+],
+[
+"Jeker",
+22
+],
+[
+"Jasieĺda River",
+22
+],
+[
+"Iowa River",
+22
+],
+[
+"Papaloapan River",
+22
+],
+[
+"Yazva",
+22
+],
+[
+"Uday River",
+22
+],
+[
+"Alcantara",
+22
+],
+[
+"Adzva",
+22
+],
+[
+"Ilych",
+22
+],
+[
+"Gonam River",
+22
+],
+[
+"Vyazma",
+22
+],
+[
+"Kinabatangan River",
+22
+],
+[
+"Deseado River",
+22
+],
+[
+"Nete",
+22
+],
+[
+"Great Ruaha River",
+22
+],
+[
+"Yaqui River",
+22
+],
+[
+"Baker River",
+22
+],
+[
+"Pina",
+22
+],
+[
+"Couesnon",
+22
+],
+[
+"Anapo",
+22
+],
+[
+"Sihl",
+22
+],
+[
+"Chona",
+22
+],
+[
+"Bode",
+22
+],
+[
+"Trubizh River",
+22
+],
+[
+"Ivalo River",
+22
+],
+[
+"Allaine",
+22
+],
+[
+"Tempisque River",
+22
+],
+[
+"Arc",
+22
+],
+[
+"Little Bighorn River",
+22
+],
+[
+"River Ure",
+21
+],
+[
+"Salso",
+21
+],
+[
+"Ilm",
+21
+],
+[
+"Carrión River",
+21
+],
+[
+"Eo",
+21
+],
+[
+"Navia",
+21
+],
+[
+"Zilupe",
+21
+],
+[
+"Shuya",
+21
+],
+[
+"Kiso River",
+21
+],
+[
+"Sava Dolinka",
+21
+],
+[
+"Erft",
+21
+],
+[
+"Innerste",
+21
+],
+[
+"Ashburton River",
+21
+],
+[
+"Ucker",
+21
+],
+[
+"Wied",
+21
+],
+[
+"Jade",
+21
+],
+[
+"Nahal Sorek",
+21
+],
+[
+"Hay River",
+21
+],
+[
+"Biferno",
+21
+],
+[
+"Assa River",
+21
+],
+[
+"Copiapó River",
+21
+],
+[
+"Ognon",
+21
+],
+[
+"Bolshoi Zelenchuk",
+21
+],
+[
+"Ilesha",
+21
+],
+[
+"St. Francis River",
+21
+],
+[
+"Luni River",
+21
+],
+[
+"Pa Sak River",
+21
+],
+[
+"Õhne River",
+21
+],
+[
+"Darro",
+21
+],
+[
+"Daman Ganga River",
+21
+],
+[
+"Dobra",
+21
+],
+[
+"Fiagdon",
+21
+],
+[
+"Aulne",
+21
+],
+[
+"Fen River",
+21
+],
+[
+"Demer",
+21
+],
+[
+"Yazoo River",
+21
+],
+[
+"Valbona",
+21
+],
+[
+"Tiasmyn",
+21
+],
+[
+"Mindel",
+21
+],
+[
+"Obaĺ",
+21
+],
+[
+"Niers",
+21
+],
+[
+"Tech",
+21
+],
+[
+"Bytantay",
+21
+],
+[
+"Bia River",
+21
+],
+[
+"Buzi River",
+21
+],
+[
+"Bílina",
+21
+],
+[
+"Burdekin River",
+21
+],
+[
+"Cheyenne River",
+21
+],
+[
+"Savala",
+21
+],
+[
+"Bistricë",
+21
+],
+[
+"Yurungkax He",
+21
+],
+[
+"Roya",
+21
+],
+[
+"Lô River",
+21
+],
+[
+"Jinsha River",
+21
+],
+[
+"Chilik River",
+21
+],
+[
+"Ukhta",
+21
+],
+[
+"Pliva",
+21
+],
+[
+"Rio Mendoza",
+21
+],
+[
+"Cidlina",
+21
+],
+[
+"Zanskar River",
+21
+],
+[
+"Kotra",
+21
+],
+[
+"Brantas River",
+21
+],
+[
+"Severn River",
+21
+],
+[
+"Kazym",
+21
+],
+[
+"Chi River",
+21
+],
+[
+"Odet",
+21
+],
+[
+"Voghdji River",
+21
+],
+[
+"River Towy",
+21
+],
+[
+"Crișul Negru River",
+21
+],
+[
+"Soan River",
+21
+],
+[
+"Besor River",
+21
+],
+[
+"Bahr al-Arab",
+21
+],
+[
+"Dragor",
+21
+],
+[
+"Zay",
+21
+],
+[
+"Komo River",
+21
+],
+[
+"Apa River",
+21
+],
+[
+"Neya",
+21
+],
+[
+"Angren River",
+21
+],
+[
+"Pleiße",
+21
+],
+[
+"Berbice River",
+21
+],
+[
+"Osha",
+21
+],
+[
+"Biga River",
+21
+],
+[
+"Albula",
+21
+],
+[
+"Emil River",
+21
+],
+[
+"Oril River",
+21
+],
+[
+"Tshuapa River",
+21
+],
+[
+"Kunduz River",
+21
+],
+[
+"Zhob River",
+21
+],
+[
+"Nzoia River",
+21
+],
+[
+"Chiluango River",
+21
+],
+[
+"Salt River",
+21
+],
+[
+"Kitakami River",
+21
+],
+[
+"Hunza River",
+21
+],
+[
+"Oude Rijn",
+21
+],
+[
+"Mechi River",
+21
+],
+[
+"Seybouse River",
+21
+],
+[
+"Utroya",
+21
+],
+[
+"Ruki",
+21
+],
+[
+"Khwae Yai River",
+21
+],
+[
+"Tompo",
+21
+],
+[
+"Morkoka River",
+21
+],
+[
+"Clerve",
+21
+],
+[
+"Myjava",
+21
+],
+[
+"Geum River",
+21
+],
+[
+"Indravati River",
+21
+],
+[
+"Tsiribihina River",
+21
+],
+[
+"Okhota",
+21
+],
+[
+"Popigay River",
+21
+],
+[
+"Yaya",
+21
+],
+[
+"Tyukyan",
+21
+],
+[
+"Bodva",
+21
+],
+[
+"Ewaso Ng'iro",
+21
+],
+[
+"Nežárka",
+21
+],
+[
+"Bukhan River",
+21
+],
+[
+"Norrström",
+21
+],
+[
+"Umba",
+21
+],
+[
+"Vorma",
+21
+],
+[
+"Virgin River",
+21
+],
+[
+"Lulua",
+21
+],
+[
+"Neosho River",
+21
+],
+[
+"Cère",
+21
+],
+[
+"Kiya",
+21
+],
+[
+"Kitoy River",
+21
+],
+[
+"Allakh-Yun",
+21
+],
+[
+"Mrežnica",
+21
+],
+[
+"Desaguadero River",
+21
+],
+[
+"Yí River",
+21
+],
+[
+"Syun",
+21
+],
+[
+"River Wharfe",
+21
+],
+[
+"Haine",
+21
+],
+[
+"Agano River",
+21
+],
+[
+"Rock River",
+21
+],
+[
+"River Stour",
+21
+],
+[
+"Richelieu River",
+21
+],
+[
+"Rutka",
+21
+],
+[
+"Pelly River",
+21
+],
+[
+"Kosva",
+21
+],
+[
+"Ayalon River",
+21
+],
+[
+"Russian River",
+21
+],
+[
+"Tromyogan",
+21
+],
+[
+"Elz",
+21
+],
+[
+"Hase",
+21
+],
+[
+"Vuka",
+21
+],
+[
+"Traisen",
+21
+],
+[
+"Hinterrhein",
+21
+],
+[
+"Günz",
+21
+],
+[
+"Ogre River",
+21
+],
+[
+"Landwasser",
+21
+],
+[
+"Marano",
+21
+],
+[
+"Pinka",
+21
+],
+[
+"Henares river",
+20
+],
+[
+"Susitna River",
+20
+],
+[
+"Freiberger Mulde",
+20
+],
+[
+"Abitibi River",
+20
+],
+[
+"Abens",
+20
+],
+[
+"Uftyuga",
+20
+],
+[
+"Massa River",
+20
+],
+[
+"Ibaizabal",
+20
+],
+[
+"Ulla",
+20
+],
+[
+"Cávado River",
+20
+],
+[
+"Česma",
+20
+],
+[
+"Pyoza",
+20
+],
+[
+"Dinkel",
+20
+],
+[
+"Franconian Saale",
+20
+],
+[
+"Adelaide River",
+20
+],
+[
+"Kosa",
+20
+],
+[
+"Würm",
+20
+],
+[
+"River Arun",
+20
+],
+[
+"Spaarne",
+20
+],
+[
+"Odon",
+20
+],
+[
+"Vyya",
+20
+],
+[
+"Tárcoles River",
+20
+],
+[
+"Ülbi River",
+20
+],
+[
+"Torysa",
+20
+],
+[
+"Vad",
+20
+],
+[
+"Dande River",
+20
+],
+[
+"Cuyuni River",
+20
+],
+[
+"Gave d'Oloron",
+20
+],
+[
+"Ishmi",
+20
+],
+[
+"Little Missouri River",
+20
+],
+[
+"Neches River",
+20
+],
+[
+"Sioule",
+20
+],
+[
+"Bradano",
+20
+],
+[
+"Dives",
+20
+],
+[
+"Nogat",
+20
+],
+[
+"Attert",
+20
+],
+[
+"Pongola River",
+20
+],
+[
+"Gimone",
+20
+],
+[
+"Gombak River",
+20
+],
+[
+"Chegem",
+20
+],
+[
+"Yayva",
+20
+],
+[
+"Cuiabá River",
+20
+],
+[
+"Dasht River",
+20
+],
+[
+"Divoká Orlice",
+20
+],
+[
+"Trombetas River",
+20
+],
+[
+"Gizeldon",
+20
+],
+[
+"Bakhmutka",
+20
+],
+[
+"Cesar River",
+20
+],
+[
+"Sham Chun River",
+20
+],
+[
+"Bighorn River",
+20
+],
+[
+"Bièvre",
+20
+],
+[
+"Lepsy River",
+20
+],
+[
+"Ogosta",
+20
+],
+[
+"Tamsui River",
+20
+],
+[
+"Švėtė",
+20
+],
+[
+"Sota River",
+20
+],
+[
+"Shish",
+20
+],
+[
+"Zwickau Mulde",
+20
+],
+[
+"Avia",
+20
+],
+[
+"Mbuluzi River",
+20
+],
+[
+"Bormida",
+20
+],
+[
+"Bolva",
+20
+],
+[
+"Bacchiglione",
+20
+],
+[
+"River Cherwell",
+20
+],
+[
+"Flumendosa",
+20
+],
+[
+"Coghinas",
+20
+],
+[
+"Mornos",
+20
+],
+[
+"Kargat",
+20
+],
+[
+"Sog River",
+20
+],
+[
+"Ilovlya",
+20
+],
+[
+"Dzoraget River",
+20
+],
+[
+"Cirocha",
+20
+],
+[
+"Jaldhaka River",
+20
+],
+[
+"Techa River",
+20
+],
+[
+"Kema",
+20
+],
+[
+"Obsha",
+20
+],
+[
+"Chatkal River",
+20
+],
+[
+"Fimi River",
+20
+],
+[
+"Jequitinhonha River",
+20
+],
+[
+"Kazyr",
+20
+],
+[
+"Setun",
+20
+],
+[
+"Bhavani River",
+20
+],
+[
+"Rječina",
+20
+],
+[
+"Krasivaya Mecha",
+20
+],
+[
+"Dinder River",
+20
+],
+[
+"Drysa",
+20
+],
+[
+"Dulgalakh River",
+20
+],
+[
+"Raška",
+20
+],
+[
+"Jari River",
+20
+],
+[
+"Sutjeska",
+20
+],
+[
+"Vovcha",
+20
+],
+[
+"Crasna",
+20
+],
+[
+"Sayur Brook",
+20
+],
+[
+"Lucala River",
+20
+],
+[
+"Ourika River",
+20
+],
+[
+"Wadi Qelt",
+20
+],
+[
+"Ostyor",
+20
+],
+[
+"Andoma",
+20
+],
+[
+"Supsa River",
+20
+],
+[
+"Pibor River",
+20
+],
+[
+"Cherek",
+20
+],
+[
+"Sit",
+20
+],
+[
+"Rigvedic rivers",
+20
+],
+[
+"Indragiri River",
+20
+],
+[
+"Surma River",
+20
+],
+[
+"Tuntsajoki",
+20
+],
+[
+"Balkh River",
+20
+],
+[
+"Berdan Brook",
+20
+],
+[
+"Sambirano River",
+20
+],
+[
+"Gwda",
+20
+],
+[
+"Tavignano",
+20
+],
+[
+"Toltén River",
+20
+],
+[
+"Bolshaya Kheta River",
+20
+],
+[
+"Vefsna",
+20
+],
+[
+"Chuya",
+20
+],
+[
+"Alsek River",
+20
+],
+[
+"Tsavo River",
+20
+],
+[
+"Potaro River",
+20
+],
+[
+"Osun River",
+20
+],
+[
+"Siva",
+20
+],
+[
+"Selennyakh River",
+20
+],
+[
+"Parabel",
+20
+],
+[
+"Neda",
+20
+],
+[
+"Yasachnaya",
+20
+],
+[
+"Akerselva",
+20
+],
+[
+"Zapadnaya Litsa",
+20
+],
+[
+"Ivindo River",
+20
+],
+[
+"Egorlyk",
+20
+],
+[
+"Sluč",
+20
+],
+[
+"Forcados River",
+20
+],
+[
+"Gazimur River",
+20
+],
+[
+"Gilyuy",
+20
+],
+[
+"Širvinta",
+20
+],
+[
+"South Nahanni River",
+20
+],
+[
+"Allia",
+20
+],
+[
+"Slovechna",
+20
+],
+[
+"Turiya",
+20
+],
+[
+"Målselva",
+20
+],
+[
+"Rospuda",
+20
+],
+[
+"Serebryanka",
+20
+],
+[
+"Bolshaya Chukochya River",
+20
+],
+[
+"Tinkisso River",
+20
+],
+[
+"Lutto",
+20
+],
+[
+"Arros",
+20
+],
+[
+"Lėvuo",
+20
+],
+[
+"Pánuco River",
+20
+],
+[
+"Agrafiotis",
+20
+],
+[
+"Viaur",
+20
+],
+[
+"Ergene",
+20
+],
+[
+"Gunt River",
+20
+],
+[
+"Nahr al-Kalb",
+20
+],
+[
+"Para",
+20
+],
+[
+"Chuluut River",
+20
+],
+[
+"Uzola",
+20
+],
+[
+"Svislax",
+20
+],
+[
+"Someșul Mare River",
+20
+],
+[
+"Dan River",
+20
+],
+[
+"Žitava",
+20
+],
+[
+"Bhadra River",
+20
+],
+[
+"Medellín River",
+20
+],
+[
+"Krzna",
+20
+],
+[
+"Ploučnice",
+20
+],
+[
+"Tikhaya Sosna",
+20
+],
+[
+"Toce",
+20
+],
+[
+"Armançon",
+20
+],
+[
+"Fils",
+20
+],
+[
+"Bregenzerach",
+20
+],
+[
+"Mayo Kébi",
+20
+],
+[
+"Kander",
+20
+],
+[
+"Schwentine",
+20
+],
+[
+"Usta",
+20
+],
+[
+"Ohre",
+20
+],
+[
+"Wertach",
+20
+],
+[
+"River Annan",
+20
+],
+[
+"Verzasca",
+20
+],
+[
+"Kunda River",
+20
+],
+[
+"Kaidu River",
+20
+]
+]

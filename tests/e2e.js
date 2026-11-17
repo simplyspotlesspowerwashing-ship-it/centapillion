@@ -30,7 +30,7 @@ async function answersFor(page) {
 }
 const state = page => page.evaluate(() => window.__centapillion.state());
 const skip = (page, ms) => page.evaluate(m => window.__centapillion.skip(m), ms);
-const roundTotal = st => st.results.reduce((s, r) => s + r.answers.reduce((x, a) => x + a.score, 0), 0);
+const roundTotal = st => st.results.reduce((s, r) => s + r.answers.reduce((x, a) => Math.max(x, a.score), 0), 0); // best answer per round
 async function submit(page, text) {
   await page.fill("#answer", text);
   await page.press("#answer", "Enter");
@@ -62,8 +62,8 @@ async function newPage(browser, opts, clock) {
     await page.waitForSelector("#beginBtn");
     assert.equal((await state(page)).phase, "intro");
     const ladder = await page.locator(".ladder li").allTextContents();
-    assert.deepEqual(ladder, ["Common10", "Too Clever15", "Uncommon30", "Rare60", "Deep Cut85", "One in a Centapillion100"]);
-    assert.match(await page.textContent(".card.intro"), /30 seconds each · unlimited answers/);
+    assert.deepEqual(ladder, ["Topsoil10", "Too Clever15", "Burrower30", "Rare60", "Deep Cut85", "Mother Lode100"]);
+    assert.match(await page.textContent(".card.intro"), /30 seconds each · your rarest answer counts/);
     await page.screenshot({ path: path.join(SHOTS, "01-intro.png") });
   });
 
@@ -78,34 +78,40 @@ async function newPage(browser, opts, clock) {
   });
 
   let A;
-  await step("each tier scores its own points", async () => {
+  await step("round scores its best answer; only rarer answers dig deeper", async () => {
     A = await answersFor(page);
-    let expect = 0;
-    for (const t of ["p", "s", "r", "d", "k"]) {
+    const best = { p: 10, s: 30, r: 60, d: 85, k: 100 };
+    let top = 0;
+    for (const t of ["s", "p", "r", "d", "k"]) {
       await submit(page, A[t][0]);
-      expect += { p: 10, s: 30, r: 60, d: 85, k: 100 }[t];
-      assert.equal(roundTotal(await state(page)), expect, "after " + t);
+      top = Math.max(top, best[t]);
+      assert.equal(roundTotal(await state(page)), top, "after " + t);
+      assert.equal(await page.textContent("#scoreNow"), String(top));
     }
-    assert.equal(await page.textContent("#scoreNow"), String(expect));
-    assert.equal(await page.textContent("#depthNow"), "-" + (expect * 10).toLocaleString("en-US") + " m");
+    assert.equal(await page.textContent("#depthNow"), "-1,000 m");
+    assert.match(await page.textContent(".haul-head"), /round best: Mother Lode \+100/);
   });
 
-  await step("gem shows its quip and tier lines appear", async () => {
+  await step("the worm turns the colour of the rank you got", async () => {
+    assert.equal(await page.evaluate(() => window.__centapillion.tint()), "#ffd166");
     await page.waitForTimeout(450);
+    await page.screenshot({ path: path.join(SHOTS, "02-gem-plunge.png") });
     const card = await page.textContent("#landed");
-    assert.match(card, /ONE IN A CENTAPILLION/);
+    assert.match(card, /MOTHER LODE/);
     const quip = await page.evaluate(() => {
       const st = window.__centapillion.state();
       const p = window.CP.PROMPTS.find(x => x.id === st.promptIds[0]);
       return window.CP.engine.indexFor(p).answers.find(a => a.tier === "k").quip;
     });
-    assert.ok(card.includes(quip), "quip missing from landed card");
-    await page.screenshot({ path: path.join(SHOTS, "02-gem-plunge.png") });
+    assert.ok(card.includes(quip), "fun fact missing from the landed card");
+    await submit(page, A.s[1]);
+    assert.equal(await page.evaluate(() => window.__centapillion.tint()), "#4de3ff");
+    assert.match(await page.textContent("#landed"), /round best is still 100/);
   });
 
   await step("no answer cap: 12 answers in one round all score", async () => {
     const have = new Set((await state(page)).results[0].answers.map(a => a.name));
-    const more = [].concat(A.s, A.r, A.d).filter(n => !have.has(n)).slice(0, 7);
+    const more = [].concat(A.s, A.r, A.d).filter(n => !have.has(n)).slice(0, 6);
     for (const n of more) await submit(page, n);
     const st = await state(page);
     assert.equal(st.phase, "answering");
@@ -166,8 +172,9 @@ async function newPage(browser, opts, clock) {
     await skip(page, 30100);
     await page.waitForFunction(() => window.__centapillion.state().phase === "feedback");
     const tiers = await page.locator(".fb-item .tname").allTextContents();
-    assert.equal(tiers[0], "ONE IN A CENTAPILLION");
-    assert.equal(tiers[tiers.length - 1], "COMMON");
+    assert.equal(tiers[0], "MOTHER LODE");
+    assert.equal(tiers[tiers.length - 1], "TOPSOIL");
+    assert.equal(await page.locator(".fb-item.best").count(), 1);
     await page.screenshot({ path: path.join(SHOTS, "03-feedback.png") });
   });
 
@@ -221,9 +228,9 @@ async function newPage(browser, opts, clock) {
     assert.deepEqual(heads, ["the bearing", "the haul", "logbook"]);
     assert.equal(await page.locator(".bearing li.on").count(), 1);
     const share = await page.textContent(".share-preview");
-    assert.match(share, /^Centapillion #\d+ 🐛\n\d+ pts · -[\d,]+ m\n/);
-    assert.equal(share.split("\n").length, 9);
-    assert.ok(share.includes("⬛ 0"));
+    assert.match(share, /^Centapillion #\d+ 🐛\n[🌱🤡🪱💎🔮🌟⬛]{7}\n\d+\/700 · -[\d,]+ m$/u);
+    assert.match(await page.textContent(".bigscore"), /\/700/);
+    assert.equal(await page.locator(".chart-sprite").count(), 6, "one rank sprite per round with an answer");
     assert.match(await page.textContent(".logbook"), /streak 1 · played 1/);
     await page.waitForTimeout(1000);
     await page.screenshot({ path: path.join(SHOTS, "04-done.png") });

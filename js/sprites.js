@@ -48,9 +48,9 @@
   }
 
   var DRAW = {
-    // Common: a pale earthworm, the first thing any shovel turns up.
+    // Topsoil: a pale earthworm, the first thing any shovel turns up.
     p: function (ctx) {
-      var body = "#e8ecf4", hi = "#ffffff", band = "#9aa6b8";
+      var body = "#d7e1f2", hi = "#ffffff", band = "#8fa3c4";
       var pts = [];
       for (var i = 0; i < 9; i++) pts.push([5 + i * 1.9, 16 + Math.sin(i * 0.8) * 4]);
       pts.forEach(function (p) { disc(ctx, p[0], p[1], 3, OUT); });
@@ -70,7 +70,7 @@
       px(ctx, 14, 16, OUT); px(ctx, 19, 16, OUT);
       line(ctx, 14, 20, 19, 19, OUT);
     },
-    // Uncommon: a blue ground beetle.
+    // Burrower: a blue ground beetle.
     s: function (ctx) {
       var shell = "#4de3ff", hi = "#d8f6ff", head = "#1f6f8e";
       [0, 1, 2].forEach(function (i) {
