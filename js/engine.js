@@ -150,16 +150,29 @@
   var PROMPT_NOUN_OK = { lake: 1, river: 1, mount: 1, mountain: 1, falls: 1, island: 1, isle: 1, sea: 1, ocean: 1, desert: 1,
     "national": 1, park: 1, bridge: 1, volcano: 1, breed: 1, cheese: 1, language: 1, syndrome: 1 };
 
-  function stripGeneric(norm, g) {
+  function stripTokens(norm, g) {
     var t = norm.split(" ");
     while (t.length > 1 && g[t[0]]) t.shift();
     while (t.length > 1 && g[t[t.length - 1]]) t.pop();
-    return t.join("");
+    return t.join(" ");
   }
+  function stripGeneric(norm, g) { return stripTokens(norm, g).replace(/ /g, ""); }
 
   function sortedKey(norm) {
     var t = norm.split(" ");
     return t.length > 1 ? t.slice().sort().join("") : null;
+  }
+
+  // Common English words (js/words.js). A real word is never auto-corrected into an obscure
+  // generated answer: "change" is not a typo of the Chané language.
+  var commonSet = null;
+  function isCommon(norm) {
+    if (!commonSet) {
+      commonSet = {};
+      String(CP.COMMON_WORDS || "").split(" ").forEach(function (w) { if (w) commonSet[w] = 1; });
+    }
+    var t = String(norm || "").split(" ").filter(Boolean);
+    return t.length > 0 && t.every(function (w) { return w.length < 4 || commonSet[w] === 1; });
   }
 
   var indexCache = {};
@@ -196,7 +209,10 @@
     answers.forEach(function (a, i) {
       a.aliases.forEach(function (n) {
         var norm = normalize(n);
-        [stripGeneric(norm, g), sortedKey(norm)].forEach(function (k) {
+        var core = stripGeneric(norm, g);
+        // "Beer Soup" may be typed as "beer soup", not as just "beer".
+        if (a.extra && core !== norm.replace(/ /g, "") && isCommon(stripTokens(norm, g))) core = null;
+        [core, sortedKey(norm)].forEach(function (k) {
           if (k && k.length >= 3 && !(k in map) && !(k in alt)) alt[k] = i;
         });
       });
@@ -228,10 +244,16 @@
   function lookup(prompt, raw) {
     var idx = indexFor(prompt);
     var tk = typedKeys(idx, raw);
+    var common = null;
     for (var j = 0; j < tk.length; j++) {
       var vs = variants(tk[j]);
       for (var i = 0; i < vs.length; i++) {
         var a = keyAnswer(idx, vs[i]);
+        // Plural/singular folding never turns a real word into a generated answer ("sales" -> Sal).
+        if (a && a.extra && i > 0) {
+          if (common === null) common = isCommon(normalize(raw));
+          if (common) continue;
+        }
         if (a) return a;
       }
     }
@@ -279,6 +301,7 @@
   function nearest(prompt, raw) {
     var idx = indexFor(prompt);
     var tk = typedKeys(idx, raw);
+    var common = isCommon(normalize(raw));
     var best = null;
     tk.forEach(function (t) {
       var cap = allowedTypos(t.length);
@@ -290,19 +313,21 @@
         var d = editDistance(t, k, cap + 1);
         var a = keyAnswer(idx, k);
         // Generated answers are mostly obscure names: only fix small slips on long words.
-        if (a.extra && (d > 1 || t.length < 6)) continue;
+        if (a.extra && (d > 1 || t.length < 6 || common)) continue;
         var sound = !a.extra && t.length >= 5 && idx.phon[k] === tp && d <= 2;
         if (d > cap && !sound) continue;
         var score = sound ? Math.min(d, 1) : d;
         var cand = { answer: a, d: d, score: score, sound: sound, len: Math.abs(k.length - t.length), t: t };
+        // Ties: a hand-curated answer beats a generated one, then the more common tier wins.
         if (!best || cand.score < best.score ||
-            (cand.score === best.score && (TIER_RANK[a.tier] < TIER_RANK[best.answer.tier] ||
+            (cand.score === best.score && !a.extra && best.answer.extra) ||
+            (cand.score === best.score && !!a.extra === !!best.answer.extra && (TIER_RANK[a.tier] < TIER_RANK[best.answer.tier] ||
               (TIER_RANK[a.tier] === TIER_RANK[best.answer.tier] && cand.len < best.len)))) best = cand;
       }
     });
     if (best) {
       var n = best.t.length;
-      best.sure = (best.d <= 1 && n >= 5) || (best.sound && best.d <= 2 && n >= 5) || (best.d <= 2 && n >= 10);
+      best.sure = !common && (best.d <= 1 && n >= 5) || (best.sound && best.d <= 2 && n >= 5) || (best.d <= 2 && n >= 10);
       return best;
     }
     // Unique completion of a long enough start ("tyrannosau" -> Tyrannosaurus).
@@ -313,6 +338,7 @@
         var key = idx.keys[j];
         if (key.length > t0.length && key.indexOf(t0) === 0 && t0.length >= key.length * 0.6) {
           var ans = keyAnswer(idx, key);
+          if (ans.extra && common) continue;
           if (hit && hit !== ans) many = true; else hit = ans;
         }
       }

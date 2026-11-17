@@ -1,0 +1,3722 @@
+[
+[
+"German Shepherd",
+92
+],
+[
+"dingo",
+88
+],
+[
+"Labrador Retriever",
+81
+],
+[
+"beagle",
+72
+],
+[
+"Chihuahua",
+71
+],
+[
+"Golden Retriever",
+69
+],
+[
+"Bulldog",
+69
+],
+[
+"dachshund",
+68
+],
+[
+"Rottweiler",
+66
+],
+[
+"Akita",
+65
+],
+[
+"pug",
+62
+],
+[
+"Siberian Husky",
+62
+],
+[
+"Boxer",
+61
+],
+[
+"Dalmatian",
+61
+],
+[
+"poodle",
+61
+],
+[
+"Great Dane",
+60
+],
+[
+"Dobermann",
+60
+],
+[
+"border collie",
+58
+],
+[
+"Chow Chow",
+56
+],
+[
+"St. Bernard",
+55
+],
+[
+"Yorkshire Terrier",
+54
+],
+[
+"greyhound",
+53
+],
+[
+"Afghan Hound",
+53
+],
+[
+"Tosa",
+53
+],
+[
+"Basenji",
+52
+],
+[
+"Newfoundland dog",
+51
+],
+[
+"Shih Tzu",
+51
+],
+[
+"Samoyed",
+50
+],
+[
+"Maltese",
+50
+],
+[
+"Bull Terrier",
+50
+],
+[
+"Alaskan Malamute",
+49
+],
+[
+"Pekingese",
+48
+],
+[
+"Shiba Inu",
+48
+],
+[
+"French Bulldog",
+47
+],
+[
+"Tibetan Mastiff",
+47
+],
+[
+"Shar Pei",
+46
+],
+[
+"Airedale Terrier",
+46
+],
+[
+"Jack Russell Terrier",
+45
+],
+[
+"Australian Shepherd",
+45
+],
+[
+"Caucasian Shepherd Dog",
+44
+],
+[
+"Landseer",
+44
+],
+[
+"Irish wolfhound",
+44
+],
+[
+"West Highland White Terrier",
+44
+],
+[
+"Dogo Argentino",
+44
+],
+[
+"Bullmastiff",
+43
+],
+[
+"bloodhound",
+43
+],
+[
+"Central Asian Shepherd Dog",
+43
+],
+[
+"English Setter",
+43
+],
+[
+"Borzoi",
+43
+],
+[
+"Cane Corso",
+42
+],
+[
+"Saluki",
+42
+],
+[
+"Australian Cattle Dog",
+42
+],
+[
+"Bernese Mountain Dog",
+42
+],
+[
+"Cavalier King Charles Spaniel",
+41
+],
+[
+"Irish Setter",
+41
+],
+[
+"basset hound",
+41
+],
+[
+"Shetland Sheepdog",
+41
+],
+[
+"Cairn Terrier",
+41
+],
+[
+"American Pit Bull Terrier",
+41
+],
+[
+"Czechoslovakian Wolfdog",
+40
+],
+[
+"American Staffordshire Terrier",
+40
+],
+[
+"Scottish Terrier",
+40
+],
+[
+"English Cocker Spaniel",
+40
+],
+[
+"Komondor",
+40
+],
+[
+"Puli",
+40
+],
+[
+"Bichon Frisé",
+40
+],
+[
+"American Cocker Spaniel",
+39
+],
+[
+"Irish Terrier",
+39
+],
+[
+"Miniature Pinscher",
+39
+],
+[
+"Azawakh",
+39
+],
+[
+"Old English sheepdog",
+39
+],
+[
+"Lhasa Apso",
+39
+],
+[
+"Belgian Shepherd",
+39
+],
+[
+"Boston Terrier",
+39
+],
+[
+"English Mastiff",
+39
+],
+[
+"Miniature Schnauzer",
+38
+],
+[
+"Whippet",
+38
+],
+[
+"Pyrenean Mountain Dog",
+38
+],
+[
+"Fox Terrier",
+38
+],
+[
+"German Shorthaired Pointer",
+37
+],
+[
+"Neapolitan Mastiff",
+37
+],
+[
+"Vizsla",
+37
+],
+[
+"Pharaoh Hound",
+37
+],
+[
+"Affenpinscher",
+37
+],
+[
+"Border Terrier",
+37
+],
+[
+"English Pointer",
+37
+],
+[
+"Canaan Dog",
+36
+],
+[
+"Rhodesian Ridgeback",
+36
+],
+[
+"Xoloitzcuintle",
+36
+],
+[
+"Bergamasco Shepherd",
+36
+],
+[
+"Gordon Setter",
+36
+],
+[
+"Staffordshire Bull Terrier",
+36
+],
+[
+"Welsh Corgi",
+36
+],
+[
+"Weimaraner",
+35
+],
+[
+"Brittany",
+35
+],
+[
+"Icelandic Sheepdog",
+35
+],
+[
+"Beauceron",
+35
+],
+[
+"Briard",
+35
+],
+[
+"Chinese Crested Dog",
+35
+],
+[
+"Bedlington Terrier",
+35
+],
+[
+"American Bulldog",
+35
+],
+[
+"Bearded Collie",
+35
+],
+[
+"Leonberger",
+34
+],
+[
+"Italian Greyhound",
+34
+],
+[
+"Greenland Dog",
+34
+],
+[
+"Papillon",
+34
+],
+[
+"Tibetan Terrier",
+34
+],
+[
+"Giant Schnauzer",
+34
+],
+[
+"German Wirehaired Pointer",
+34
+],
+[
+"Hovawart",
+34
+],
+[
+"Finnish Spitz",
+34
+],
+[
+"Bolognese",
+34
+],
+[
+"Belgian Malinois",
+33
+],
+[
+"Kerry Blue Terrier",
+33
+],
+[
+"Welsh Terrier",
+33
+],
+[
+"Abruzzo-Maremma Sheepdog",
+33
+],
+[
+"Pembroke Welsh Corgi",
+33
+],
+[
+"New Guinea singing dog",
+33
+],
+[
+"Dogue de Bordeaux",
+33
+],
+[
+"Australian Kelpie",
+33
+],
+[
+"Anatolian Shepherd",
+33
+],
+[
+"Japanese Chin",
+32
+],
+[
+"Nova Scotia Duck Tolling Retriever",
+32
+],
+[
+"Japanese Spitz",
+32
+],
+[
+"Fila Brasileiro",
+32
+],
+[
+"Havanese",
+32
+],
+[
+"Aidi",
+32
+],
+[
+"Kuvasz",
+32
+],
+[
+"Yugoslavian Shepherd Dog",
+32
+],
+[
+"White Swiss Shepherd",
+32
+],
+[
+"Portuguese water dog",
+31
+],
+[
+"Rough Collie",
+31
+],
+[
+"Coton de Tulear",
+31
+],
+[
+"American foxhound",
+31
+],
+[
+"Skye Terrier",
+31
+],
+[
+"Pumi",
+31
+],
+[
+"Australian Terrier",
+31
+],
+[
+"American Eskimo Dog",
+31
+],
+[
+"Jagdterrier",
+31
+],
+[
+"German Spitz",
+30
+],
+[
+"Catalan Sheepdog",
+30
+],
+[
+"Polish Lowland Sheepdog",
+30
+],
+[
+"Norwegian Elkhound",
+30
+],
+[
+"American Water Spaniel",
+30
+],
+[
+"Shikoku Ken",
+30
+],
+[
+"Griffon Bruxellois",
+30
+],
+[
+"Tibetan Spaniel",
+30
+],
+[
+"German Pinscher",
+30
+],
+[
+"Australian Silky Terrier",
+30
+],
+[
+"Saarloos wolfdog",
+30
+],
+[
+"Scottish Deerhound",
+30
+],
+[
+"Presa Canario",
+30
+],
+[
+"Karelian Bear Dog",
+30
+],
+[
+"Norwegian Buhund",
+29
+],
+[
+"Schipperke",
+29
+],
+[
+"Mudi",
+29
+],
+[
+"Akbash",
+29
+],
+[
+"Black Russian Terrier",
+29
+],
+[
+"Hokkaido inu",
+29
+],
+[
+"Bracco Italiano",
+29
+],
+[
+"American Hairless Terrier",
+29
+],
+[
+"Field Spaniel",
+29
+],
+[
+"English Foxhound",
+29
+],
+[
+"Sloughi",
+29
+],
+[
+"Galgo Español",
+29
+],
+[
+"Manchester Terrier",
+29
+],
+[
+"Spanish Mastiff",
+29
+],
+[
+"Norfolk Terrier",
+28
+],
+[
+"Lakeland Terrier",
+28
+],
+[
+"Alaskan Klee Kai",
+28
+],
+[
+"Chesapeake Bay Retriever",
+28
+],
+[
+"Brazilian Terrier",
+28
+],
+[
+"Pyrenean Mastiff",
+28
+],
+[
+"Greater Swiss Mountain Dog",
+28
+],
+[
+"English Springer Spaniel",
+28
+],
+[
+"Canadian Eskimo Dog",
+28
+],
+[
+"Sealyham Terrier",
+28
+],
+[
+"Finnish Lapphund",
+28
+],
+[
+"Flat-Coated Retriever",
+28
+],
+[
+"Austrian Pinscher",
+28
+],
+[
+"Kangal Shepherd Dog",
+27
+],
+[
+"Yakutian Laika",
+27
+],
+[
+"Kai Ken",
+27
+],
+[
+"Cardigan Welsh Corgi",
+27
+],
+[
+"Irish Water Spaniel",
+27
+],
+[
+"Keeshond",
+27
+],
+[
+"Dutch Shepherd",
+27
+],
+[
+"Clumber Spaniel",
+27
+],
+[
+"Broholmer",
+27
+],
+[
+"Tornjak",
+27
+],
+[
+"Dandie Dinmont Terrier",
+27
+],
+[
+"Kishu",
+27
+],
+[
+"Bouvier des Flandres",
+27
+],
+[
+"Ibizan Hound",
+27
+],
+[
+"Groenendael",
+27
+],
+[
+"cocker spaniel",
+27
+],
+[
+"Eurasier",
+27
+],
+[
+"Löwchen",
+26
+],
+[
+"mongrel",
+26
+],
+[
+"Ukrainian Vivcharka",
+26
+],
+[
+"Norwich Terrier",
+26
+],
+[
+"Kooikerhondje",
+26
+],
+[
+"Volpino Italiano",
+26
+],
+[
+"Parson Russell Terrier",
+26
+],
+[
+"Korean Jindo Dog",
+26
+],
+[
+"Spinone Italiano",
+26
+],
+[
+"Barbet",
+26
+],
+[
+"Boerboel",
+26
+],
+[
+"Norwegian Lundehund",
+26
+],
+[
+"Alano Español",
+26
+],
+[
+"Standard Schnauzer",
+26
+],
+[
+"Picardy Shepherd",
+26
+],
+[
+"Slovak Cuvac",
+25
+],
+[
+"Glen of Imaal Terrier",
+25
+],
+[
+"Basque Shepherd Dog",
+25
+],
+[
+"Cesky Terrier",
+25
+],
+[
+"Croatian Sheepdog",
+25
+],
+[
+"Large Münsterländer",
+25
+],
+[
+"King Charles Spaniel",
+25
+],
+[
+"Cirneco dell'Etna",
+25
+],
+[
+"Tatra Shepherd Dog",
+25
+],
+[
+"Polish Greyhound",
+25
+],
+[
+"Sussex Spaniel",
+25
+],
+[
+"Peruvian Hairless Dog",
+25
+],
+[
+"Otterhound",
+25
+],
+[
+"Lagotto Romagnolo",
+25
+],
+[
+"Swedish Vallhund",
+25
+],
+[
+"German Spaniel",
+25
+],
+[
+"Appenzeller Sennenhund",
+25
+],
+[
+"Alpine Dachsbracke",
+25
+],
+[
+"English Toy Terrier",
+25
+],
+[
+"West Siberian Laika",
+25
+],
+[
+"Wire Fox Terrier",
+25
+],
+[
+"Soft-coated Wheaten Terrier",
+24
+],
+[
+"Jämthund",
+24
+],
+[
+"Estrela Mountain Dog",
+24
+],
+[
+"Magyar agár",
+24
+],
+[
+"American Bully",
+24
+],
+[
+"Russkiy Toy",
+24
+],
+[
+"American Akita",
+24
+],
+[
+"Curly Coated Retriever",
+24
+],
+[
+"Lapponian Herder",
+24
+],
+[
+"Pyrenean Shepherd",
+24
+],
+[
+"Japanese Terrier",
+24
+],
+[
+"Karst Shepherd",
+24
+],
+[
+"Dunker",
+24
+],
+[
+"Black and Tan Coonhound",
+24
+],
+[
+"Carpathian Shepherd Dog",
+24
+],
+[
+"collie",
+24
+],
+[
+"Pudelpointer",
+23
+],
+[
+"Wetterhoun",
+23
+],
+[
+"German Longhaired Pointer",
+23
+],
+[
+"Portuguese Sheepdog",
+23
+],
+[
+"Welsh Springer Spaniel",
+23
+],
+[
+"Stabijhoun",
+23
+],
+[
+"Porcelaine",
+23
+],
+[
+"Thai Ridgeback",
+23
+],
+[
+"Laekenois",
+23
+],
+[
+"Drever",
+23
+],
+[
+"English Shepherd",
+23
+],
+[
+"Entlebucher Mountain Dog",
+23
+],
+[
+"Bavarian Mountain Hound",
+23
+],
+[
+"Transylvanian hound",
+23
+],
+[
+"East Siberian Laika",
+23
+],
+[
+"Moscow Watchdog",
+22
+],
+[
+"Harrier",
+22
+],
+[
+"Polish Hound",
+22
+],
+[
+"Portuguese Pointer",
+22
+],
+[
+"Smooth Fox Terrier",
+22
+],
+[
+"Tervuren",
+22
+],
+[
+"Podenco Canario",
+22
+],
+[
+"Swedish Lapphund",
+22
+],
+[
+"Toy Fox Terrier",
+22
+],
+[
+"Finnish Hound",
+22
+],
+[
+"Danish Swedish Farmdog",
+22
+],
+[
+"Africanis",
+22
+],
+[
+"Pražský Krysařík",
+22
+],
+[
+"Chinook",
+22
+],
+[
+"Hamiltonstövare",
+22
+],
+[
+"Old Danish Pointer",
+22
+],
+[
+"Australian Stumpy Tail Cattle Dog",
+22
+],
+[
+"Russo-European Laika",
+22
+],
+[
+"Greek Shepherd",
+22
+],
+[
+"Majorca Shepherd Dog",
+22
+],
+[
+"Catahoula Leopard Dog",
+22
+],
+[
+"Picardy Spaniel",
+21
+],
+[
+"Small Münsterländer",
+21
+],
+[
+"Perro de Presa Mallorquin",
+21
+],
+[
+"Slovenský kopov",
+21
+],
+[
+"Sabueso Español",
+21
+],
+[
+"Wirehaired Pointing Griffon",
+21
+],
+[
+"Rafeiro do Alentejo",
+21
+],
+[
+"Bohemian Shepherd",
+21
+],
+[
+"Bouvier des Ardennes",
+21
+],
+[
+"Ariégeois",
+21
+],
+[
+"Formosan Mountain Dog",
+21
+],
+[
+"Spanish Water Dog",
+21
+],
+[
+"Blue Picardy Spaniel",
+21
+],
+[
+"Braque d'Auvergne",
+21
+],
+[
+"Carolina Dog",
+21
+],
+[
+"Great Gascony Blue",
+21
+],
+[
+"Drentse Patrijshond",
+21
+],
+[
+"Bucovina Shepherd Dog",
+21
+],
+[
+"Miniature Bull Terrier",
+21
+],
+[
+"Kromfohrländer",
+21
+],
+[
+"Billy",
+21
+],
+[
+"Braque du Bourbonnais",
+21
+],
+[
+"Hanover Hound",
+20
+],
+[
+"East-European Shepherd",
+20
+],
+[
+"Ariege Pointer",
+20
+],
+[
+"Cesky Fousek",
+20
+],
+[
+"Chortai",
+20
+],
+[
+"Portuguese Cattle Dog",
+20
+],
+[
+"Norrbottenspets",
+20
+],
+[
+"Phalène",
+20
+],
+[
+"Deutsche Bracke",
+20
+],
+[
+"Portuguese Podengo",
+20
+],
+[
+"Boykin Spaniel",
+20
+],
+[
+"French Spaniel",
+20
+],
+[
+"Basset Bleu de Gascogne",
+20
+],
+[
+"Halden Hound",
+20
+],
+[
+"Artois Hound",
+20
+],
+[
+"Karakachan Dog",
+20
+],
+[
+"Briquet Griffon Vendéen",
+20
+],
+[
+"Black Norwegian Elkhound",
+19
+],
+[
+"Greek Harehound",
+19
+],
+[
+"Smooth Collie",
+19
+],
+[
+"Irish Red and White Setter",
+19
+],
+[
+"Mioritic",
+19
+],
+[
+"Pont-Audemer Spaniel",
+19
+],
+[
+"Patterdale Terrier",
+19
+],
+[
+"Petit Basset Griffon Vendéen",
+19
+],
+[
+"Fawn Brittany Basset",
+19
+],
+[
+"Dutch Smoushond",
+19
+],
+[
+"Lancashire Heeler",
+19
+],
+[
+"Rat Terrier",
+19
+],
+[
+"Kintamani",
+19
+],
+[
+"Poitevin hound",
+18
+],
+[
+"Estonian Hound",
+18
+],
+[
+"Chinese Chongqing Dog",
+18
+],
+[
+"Smaland Hound",
+18
+],
+[
+"Istrian Shorthaired Hound",
+18
+],
+[
+"Redbone Coonhound",
+18
+],
+[
+"Russkaya tsvetnaya bolonka",
+18
+],
+[
+"Taigan",
+18
+],
+[
+"Wirehaired Vizsla",
+18
+],
+[
+"Schapendoes",
+18
+],
+[
+"Azores Cattle Dog",
+18
+],
+[
+"Blue Gascony Griffon",
+18
+],
+[
+"Barak hound",
+18
+],
+[
+"Braque Saint-Germain",
+18
+],
+[
+"Griffon Nivernais",
+18
+],
+[
+"Rampur Greyhound",
+17
+],
+[
+"Schweizer Laufhund",
+17
+],
+[
+"Burgos Retriever",
+17
+],
+[
+"Rajapalayam",
+17
+],
+[
+"Pungsan",
+17
+],
+[
+"Beagle-Harrier",
+17
+],
+[
+"Posavac Hound",
+17
+],
+[
+"Stichelhaar",
+17
+],
+[
+"Basset Artésien Normand",
+17
+],
+[
+"Alapaha Blue Blood Bulldog",
+17
+],
+[
+"Slovakian Rough-haired Pointer",
+17
+],
+[
+"Biewer Terrier",
+17
+],
+[
+"Blue Lacy",
+17
+],
+[
+"Serbian Hound",
+17
+],
+[
+"Buryat-Mongolian Wolfhound",
+17
+],
+[
+"Grand Griffon Vendéen",
+17
+],
+[
+"Molossian hound",
+17
+],
+[
+"Petit Bleu de Gascogne",
+16
+],
+[
+"Schillerstövare",
+16
+],
+[
+"Mudhol Hound",
+16
+],
+[
+"Armenian Gampr dog",
+16
+],
+[
+"Bully Kutta",
+16
+],
+[
+"Westphalian Dachsbracke",
+16
+],
+[
+"Sapsali",
+16
+],
+[
+"Thai Bangkaew Dog",
+16
+],
+[
+"Serbian Tricolour Hound",
+16
+],
+[
+"Large Vendeen Griffon Basset",
+16
+],
+[
+"Bluetick Coonhound",
+16
+],
+[
+"Cretan Hound",
+15
+],
+[
+"Polish Hunting Dog",
+15
+],
+[
+"Hygen Hound",
+15
+],
+[
+"Chippiparai",
+15
+],
+[
+"Ratonero Bodeguero Andaluz COOPER",
+15
+],
+[
+"Olde English Bulldogge",
+15
+],
+[
+"Montenegrin Mountain Hound",
+15
+],
+[
+"Kazakh tazy",
+15
+],
+[
+"Treeing Walker Coonhound",
+15
+],
+[
+"Austrian Black and Tan Hound",
+15
+],
+[
+"Medium-sized Anglo-French Hound",
+15
+],
+[
+"Plott Hound",
+15
+],
+[
+"Welsh Sheepdog",
+15
+],
+[
+"Fawn Brittany Griffon",
+15
+],
+[
+"Styrian Coarse-haired Hound",
+15
+],
+[
+"Karelo-Finnish Laika",
+15
+],
+[
+"continental bulldog",
+15
+],
+[
+"Cimarrón Uruguayo",
+15
+],
+[
+"nureongi",
+15
+],
+[
+"Aksaray Malaklisi",
+15
+],
+[
+"Griffon Belge",
+14
+],
+[
+"French Tricolour Hound",
+14
+],
+[
+"Bull and Terrier",
+14
+],
+[
+"Kunming wolfdog",
+14
+],
+[
+"Cordoba Fighting Dog",
+14
+],
+[
+"Himalayan Sheepdog",
+14
+],
+[
+"Andalusian Hound",
+14
+],
+[
+"Gos Rater Valencià",
+14
+],
+[
+"Indian Spitz",
+14
+],
+[
+"Tyrolean Hound",
+14
+],
+[
+"Russian Spaniel",
+14
+],
+[
+"Silken Windhound",
+14
+],
+[
+"Pachón Navarro",
+14
+],
+[
+"American English Coonhound",
+14
+],
+[
+"Sulimov dog",
+14
+],
+[
+"Miniature American Shepherd",
+14
+],
+[
+"Braque du Puy",
+14
+],
+[
+"Black and Tan Terrier",
+14
+],
+[
+"Huntaway",
+14
+],
+[
+"Pariah dog",
+14
+],
+[
+"Petit brabançon",
+14
+],
+[
+"Black Mouth Cur",
+13
+],
+[
+"Chilean Fox Terrier",
+13
+],
+[
+"Istrian Coarse-haired Hound",
+13
+],
+[
+"Kanni",
+13
+],
+[
+"Rastreador-brasileiro",
+13
+],
+[
+"Cão de gado transmontano",
+13
+],
+[
+"Telomian",
+13
+],
+[
+"Kokoni (dog)",
+13
+],
+[
+"Phu Quoc ridgeback dog",
+13
+],
+[
+"Braque Français",
+13
+],
+[
+"Dutch Tulip Dog",
+13
+],
+[
+"Argentine Pila Dog",
+13
+],
+[
+"Danish Spitz",
+13
+],
+[
+"Scotch collie",
+13
+],
+[
+"Belgian Mastiff",
+13
+],
+[
+"Xiasi Dog",
+13
+],
+[
+"Campeiro Bulldog",
+12
+],
+[
+"Lupo Italiano",
+12
+],
+[
+"Schweizerischer Niederlaufhund",
+12
+],
+[
+"English Water Spaniel",
+12
+],
+[
+"Combai",
+12
+],
+[
+"Great Anglo-French Tricolour Hound",
+12
+],
+[
+"Segugio Italiano a Pelo Raso",
+12
+],
+[
+"Romanian Raven Shepherd Dog",
+12
+],
+[
+"Limer",
+12
+],
+[
+"Gascon Saintongeois",
+12
+],
+[
+"Chien Français Blanc et Noir",
+12
+],
+[
+"Can de Palleiro",
+12
+],
+[
+"hairless dog",
+12
+],
+[
+"Moscow Water Dog",
+12
+],
+[
+"Alopekis",
+12
+],
+[
+"Macedonian Karaman",
+12
+],
+[
+"Segugio Italiano",
+12
+],
+[
+"Bruno Jura Hound",
+11
+],
+[
+"Georgian Shepherd",
+11
+],
+[
+"Saint-Usuge Spaniel",
+11
+],
+[
+"Cantabrian Water Dog",
+11
+],
+[
+"Great Anglo-French White and Orange Hound",
+11
+],
+[
+"Maneto",
+11
+],
+[
+"Koolie",
+11
+],
+[
+"Kleinspitz",
+11
+],
+[
+"Great Anglo-French White and Black Hound",
+11
+],
+[
+"Shiloh Shepherd",
+11
+],
+[
+"Armant dog",
+11
+],
+[
+"Tenterfield Terrier",
+11
+],
+[
+"Coonhound",
+11
+],
+[
+"Cursinu",
+11
+],
+[
+"Perro majorero",
+11
+],
+[
+"Kerry Beagle",
+11
+],
+[
+"Zerdava",
+11
+],
+[
+"German Spitz Mittel",
+11
+],
+[
+"Bakharwal Dog",
+11
+],
+[
+"Talbot",
+11
+],
+[
+"Nenets Herding Laika",
+11
+],
+[
+"Teddy Roosevelt Terrier",
+11
+],
+[
+"Français Blanc et Orange",
+11
+],
+[
+"Perro de pastor garafiano",
+10
+],
+[
+"Mallorcan ratter",
+10
+],
+[
+"Paisley Terrier",
+10
+],
+[
+"Villano de las Encartaciones",
+10
+],
+[
+"Xarnego Valenciano",
+10
+],
+[
+"Lithuanian Hound",
+10
+],
+[
+"Fuegian dog",
+10
+],
+[
+"Mucuchies",
+10
+],
+[
+"Chukotka sled dog",
+10
+],
+[
+"Treeing Tennessee Brindle",
+10
+],
+[
+"Toy Manchester Terrier",
+10
+],
+[
+"Morkie",
+10
+],
+[
+"Welsh Hound",
+10
+],
+[
+"Abyssinian Sand Terrier",
+10
+],
+[
+"Techichi",
+10
+],
+[
+"Silken Windsprite",
+10
+],
+[
+"Segugio Maremmano",
+10
+],
+[
+"Hälleforshund",
+10
+],
+[
+"griffon",
+10
+],
+[
+"Bull Arab",
+10
+],
+[
+"Leavitt Bulldog",
+10
+],
+[
+"Perro fino Colombiano",
+10
+],
+[
+"Sarabi Mastiff",
+10
+],
+[
+"Gaucho sheepdog",
+10
+],
+[
+"American Alsatian",
+9
+],
+[
+"American Mastiff",
+9
+],
+[
+"Stephens Cur",
+9
+],
+[
+"Jeju dog",
+9
+],
+[
+"American Leopard Hound",
+9
+],
+[
+"King Shepherd",
+9
+],
+[
+"Mountain Cur",
+9
+],
+[
+"Italian Rough-haired Segugio",
+9
+],
+[
+"Griffon à poil laineux",
+9
+],
+[
+"Pampas Deerhound",
+9
+],
+[
+"Ryukyu Inu",
+9
+],
+[
+"Guatemalan Dogo",
+9
+],
+[
+"Bohemian Spotted Dog",
+9
+],
+[
+"Dogue Brasileiro",
+9
+],
+[
+"Patagonian Sheepdog",
+9
+],
+[
+"Celtic Hounds",
+9
+],
+[
+"Can de Chira",
+9
+],
+[
+"Bulgarian Scenthound",
+9
+],
+[
+"White Shepherd Dog",
+9
+],
+[
+"Lobito Herreño",
+9
+],
+[
+"Dong-gyeong",
+9
+],
+[
+"Terceira Mastiff",
+9
+],
+[
+"Lucas Terrier",
+9
+],
+[
+"Gull Terr",
+8
+],
+[
+"Český horský pes",
+8
+],
+[
+"Barbado da Terceira",
+8
+],
+[
+"American Staghound",
+8
+],
+[
+"Northern Inuit Dog",
+8
+],
+[
+"Tarsus Çatalburun",
+8
+],
+[
+"Calupoh",
+8
+],
+[
+"Polish Hunting Spaniel",
+8
+],
+[
+"Kurdish Mastiff",
+8
+],
+[
+"Ecuadorian Hairless Dog",
+8
+],
+[
+"Ratonero Basco",
+7
+],
+[
+"Treeing Cur",
+7
+],
+[
+"Bernese hound",
+7
+],
+[
+"Pastore Fonnese",
+7
+],
+[
+"Bulgarian Hound",
+7
+],
+[
+"Mantiqueira Shepherd",
+7
+],
+[
+"Pomsky",
+7
+],
+[
+"Serrano Bulldog",
+7
+],
+[
+"Dogo Sardesco",
+7
+],
+[
+"Segugio dell'Appennino",
+7
+],
+[
+"Miniature Fox Terrier",
+7
+],
+[
+"Barrocal Algarvio",
+7
+],
+[
+"Podengo Galego",
+7
+],
+[
+"Greyster",
+7
+],
+[
+"Molossus of Epirus",
+7
+],
+[
+"Russian Hound",
+7
+],
+[
+"Tonya Finosu",
+7
+],
+[
+"French Pointing Dog - Pyrenean type",
+7
+],
+[
+"Original Fila Brasileiro",
+7
+],
+[
+"Pit Monster",
+7
+],
+[
+"Tong gau",
+7
+],
+[
+"Großspitz",
+7
+],
+[
+"Bắc Hà dog",
+7
+],
+[
+"Hmong bobtail dog",
+7
+],
+[
+"Dogo español",
+7
+],
+[
+"Svensk vit älghund",
+7
+],
+[
+"Jonangi",
+6
+],
+[
+"Gull Dong",
+6
+],
+[
+"Ca de Conills",
+6
+],
+[
+"Ca Mè Mallorquí",
+6
+],
+[
+"Small Međimurje Dog",
+6
+],
+[
+"basset",
+6
+],
+[
+"Majestic Tree Hound",
+6
+],
+[
+"Levesque",
+6
+],
+[
+"Bakhmull",
+6
+],
+[
+"Savoy Sheepdog",
+6
+],
+[
+"Treeing Feist",
+6
+],
+[
+"Xigou",
+6
+],
+[
+"Sarail hound",
+6
+],
+[
+"Tatranský durič",
+6
+],
+[
+"African village dog",
+6
+],
+[
+"New Zealand Heading Dog",
+6
+],
+[
+"Briquet de Provence",
+6
+],
+[
+"Laizhou Red Dog",
+6
+],
+[
+"Dikkulak",
+6
+],
+[
+"Lài dog",
+6
+],
+[
+"odis",
+6
+],
+[
+"Medelyan",
+6
+],
+[
+"Murcian Ratter",
+6
+],
+[
+"Tahitian Dog",
+6
+],
+[
+"Cane Toccatore",
+6
+],
+[
+"Chinese Imperial Dog",
+5
+],
+[
+"Murray River Curly Coated Retriever",
+5
+],
+[
+"Old Croatian Sighthound",
+5
+],
+[
+"Schwyz Hound",
+5
+],
+[
+"Borador",
+5
+],
+[
+"French Charnaigre Dog",
+5
+],
+[
+"Hedehund",
+5
+],
+[
+"Lucernese Hound",
+5
+],
+[
+"Pandikona",
+5
+],
+[
+"Argentine Polar Dog",
+5
+],
+[
+"Old Welsh Grey Sheepdog",
+5
+],
+[
+"Sporting Lucas Terrier",
+5
+],
+[
+"Bisben",
+5
+],
+[
+"Kawakami Ken",
+5
+],
+[
+"Westfal Terrier",
+5
+],
+[
+"Erbi Txakur",
+5
+],
+[
+"Bulgae",
+5
+],
+[
+"Welsh Hillman",
+5
+],
+[
+"Valdueza",
+5
+],
+[
+"Buckhound",
+5
+],
+[
+"Staghound",
+5
+],
+[
+"Bone-mouth",
+5
+],
+[
+"Perdigueiro Galego",
+5
+],
+[
+"Miniature Shar Pei",
+5
+],
+[
+"Bulgarian Shepherd Dog",
+5
+],
+[
+"American Wolfdog",
+5
+],
+[
+"Australian Cobberdog",
+5
+],
+[
+"Smithfield (dog)",
+5
+],
+[
+"Rize Koyun",
+5
+],
+[
+"Polynesian Dog",
+5
+],
+[
+"Sila Shepherd",
+5
+],
+[
+"Gotland Hound",
+5
+],
+[
+"Black Slovakian Shepherd",
+4
+],
+[
+"Sertanejo Dog",
+4
+],
+[
+"Waeller",
+4
+],
+[
+"Petit Gascon Saintongeois",
+4
+],
+[
+"Sanshu",
+4
+],
+[
+"Harlequin Pinscher",
+4
+],
+[
+"Meitei Hui",
+4
+],
+[
+"Pyrenean Sheepdog Long-haired",
+4
+],
+[
+"National Deerhound",
+4
+],
+[
+"Anglo-Russian Hound",
+4
+],
+[
+"Dumfriesshire Hound",
+4
+],
+[
+"Australasian Bosdog",
+4
+],
+[
+"Grecian Greyhound",
+4
+],
+[
+"Königsberger Paukenhund",
+4
+],
+[
+"basset d'Artois",
+4
+],
+[
+"Chorkie",
+4
+],
+[
+"Kars dog",
+4
+],
+[
+"Iwate Inu",
+4
+],
+[
+"Seppala Siberian Sleddog",
+4
+],
+[
+"Sicilian Sheepdog",
+4
+],
+[
+"Borneo dog",
+4
+],
+[
+"Toy Poodle",
+4
+],
+[
+"Bolonka Franzuska",
+4
+],
+[
+"Belgian Pointer",
+4
+],
+[
+"U.S. state dogs",
+4
+],
+[
+"Guicho",
+4
+],
+[
+"Mi-Ki",
+4
+],
+[
+"Ratonero Palmero",
+4
+],
+[
+"Perro pampa argentino",
+4
+],
+[
+"Norman Hound",
+4
+],
+[
+"West Country Harrier",
+4
+],
+[
+"Liangshan Dog",
+4
+],
+[
+"American Blue Gascon Hound",
+4
+],
+[
+"Grand Gascon Saintongeois",
+4
+],
+[
+"Chuandong Hound",
+4
+],
+[
+"Seskar Seal Dog",
+4
+],
+[
+"Tibetan kyi apso",
+4
+],
+[
+"Pyrenean Sheepdog Smooth-faced",
+4
+],
+[
+"Fu Quan",
+4
+],
+[
+"Mojee",
+4
+],
+[
+"Basati alaunt",
+4
+],
+[
+"Zuchon",
+4
+],
+[
+"Vaghari Dog",
+4
+],
+[
+"Lapponian Shepherd",
+4
+],
+[
+"Brazilian Bull-mastiff",
+4
+],
+[
+"Lessinia and Lagorai Shepherd",
+4
+],
+[
+"Anatolian Greyhound",
+4
+],
+[
+"Double-nosed Andean tiger hound",
+4
+],
+[
+"Antebellum Bulldog",
+3
+],
+[
+"Gran Mastín de Borínquen",
+3
+],
+[
+"Normand-Poitevin",
+3
+],
+[
+"Berner Laufhund",
+3
+],
+[
+"Pastor Americano",
+3
+],
+[
+"Black and Tan Virginia Foxhound",
+3
+],
+[
+"Miniature Australian Shepherd",
+3
+],
+[
+"Langqing Quan",
+3
+],
+[
+"Kunma Dog",
+3
+],
+[
+"Berger de Crau",
+3
+],
+[
+"Farm collie",
+3
+],
+[
+"Schafpudel",
+3
+],
+[
+"White English Bulldog",
+3
+],
+[
+"Valley Bulldog",
+3
+],
+[
+"Hairless Khala",
+3
+],
+[
+"Afghan mastiff",
+3
+],
+[
+"Rare breed",
+3
+],
+[
+"Segugio Cravin",
+3
+],
+[
+"Clallam-Indian Dog",
+3
+],
+[
+"Circassian Orloff Wolfhound",
+3
+],
+[
+"Latvian Hound",
+3
+],
+[
+"Red Decoy Dog",
+3
+],
+[
+"Turkmen Alabai",
+3
+],
+[
+"Trailhound",
+3
+],
+[
+"Naga Dog",
+3
+],
+[
+"Australian Staghound",
+3
+],
+[
+"Labrit",
+3
+],
+[
+"Mâtin",
+3
+],
+[
+"Satsuma Dog",
+3
+],
+[
+"Steinbracke",
+3
+],
+[
+"gråhund",
+3
+],
+[
+"Serbian sheep dog",
+3
+],
+[
+"Silky Spitz",
+3
+],
+[
+"Chilean Dogo",
+3
+],
+[
+"Chien Blanc du Roi",
+3
+],
+[
+"Tuvinskaya ovcharka",
+3
+],
+[
+"Branchiero siciliano",
+3
+],
+[
+"Grand Fauve de Bretagne",
+3
+],
+[
+"American Working Red",
+3
+],
+[
+"Working Pit Bulldog",
+3
+],
+[
+"Bullbras",
+3
+],
+[
+"Patti",
+3
+],
+[
+"Ramanadhapuram Mandai",
+3
+],
+[
+"North-Easthrly Haaling Laika",
+3
+],
+[
+"Carea Castellano Manchego",
+3
+],
+[
+"Chinese Happa Dog",
+3
+],
+[
+"Pulin",
+3
+],
+[
+"Spino siciliano",
+3
+],
+[
+"Auvergne Shepherd",
+3
+],
+[
+"Irish Staffordshire Bull Terrier",
+3
+],
+[
+"Kitler",
+2
+],
+[
+"Gegar",
+2
+],
+[
+"Hungarian sheepdog",
+2
+],
+[
+"Damchi",
+2
+],
+[
+"Korean Mastiff",
+2
+],
+[
+"Gos d'atura aranès",
+2
+],
+[
+"Mountain View Cur",
+2
+],
+[
+"Strobel",
+2
+],
+[
+"Boerenfox terrier",
+2
+],
+[
+"Laconian",
+2
+],
+[
+"Mexican lapdog",
+2
+],
+[
+"Black Spitz",
+2
+],
+[
+"Kattai dog",
+2
+],
+[
+"Boz Shepherd",
+2
+],
+[
+"Patagonian Bearded Greyhound",
+2
+],
+[
+"Continental Toy Spaniel",
+2
+],
+[
+"Levriero meridionale",
+2
+],
+[
+"Zagar",
+2
+],
+[
+"Boxador",
+2
+],
+[
+"Illyrian Shepherd",
+2
+],
+[
+"Piccolo Segugio dell'Appennino",
+2
+],
+[
+"Comforter",
+2
+],
+[
+"Cyprus Poodle",
+2
+],
+[
+"Klamath-Indian Dog",
+2
+],
+[
+"Gredin Spaniel",
+2
+],
+[
+"Common Indian Dog",
+2
+],
+[
+"Colima Dog",
+2
+],
+[
+"Zanzibar Greyhound",
+2
+],
+[
+"Braque Charles X",
+2
+],
+[
+"Shakhi",
+2
+],
+[
+"Shropshre Terrier",
+2
+],
+[
+"Shilluk Greyhound",
+2
+],
+[
+"Strathdoon dingo killer",
+2
+],
+[
+"Sioux Dog",
+2
+],
+[
+"Plains-Indian Dog",
+2
+],
+[
+"Bajan Toy Terrier",
+2
+],
+[
+"Poltalloch Terrier",
+2
+],
+[
+"Llewellin Setter",
+2
+],
+[
+"Rothbury Terrier",
+2
+],
+[
+"Pueblo Dog",
+2
+],
+[
+"Koshikiyama Inu",
+2
+],
+[
+"Jōmon Dog",
+2
+],
+[
+"Toy Bull Terrier",
+2
+],
+[
+"St. Domingo Dog",
+2
+],
+[
+"St. Hubert Jura Hound",
+2
+],
+[
+"Timber-wolf Dog",
+2
+],
+[
+"Dinka Greyhound",
+2
+],
+[
+"Tripuri Dog",
+2
+],
+[
+"Zande Dog",
+2
+],
+[
+"Indian Husky",
+2
+],
+[
+"Nootka Dog",
+2
+],
+[
+"Han Dog",
+2
+],
+[
+"Bisharin Greyhound",
+2
+],
+[
+"Batak Dog",
+2
+],
+[
+"dropper",
+2
+],
+[
+"tumbler",
+2
+],
+[
+"Pardog",
+2
+],
+[
+"White Greek sheepdog",
+2
+],
+[
+"miniature dachshund",
+2
+],
+[
+"Beskydský bundáš",
+2
+],
+[
+"Izcuintli, itzcuintli",
+2
+],
+[
+"West Greenland Dog",
+2
+],
+[
+"Egyptian Hairless Dog",
+2
+],
+[
+"Australian Barb",
+2
+],
+[
+"Aurora Husky",
+2
+],
+[
+"Canis Panther",
+2
+],
+[
+"Gerberian Shepsky",
+2
+],
+[
+"Assyrian Mastiff",
+2
+],
+[
+"Lakeland Foxhound",
+2
+],
+[
+"Shepweiler",
+2
+],
+[
+"Denmark Feist",
+2
+],
+[
+"Ramanathapuram mandai dog",
+2
+],
+[
+"Beaglier",
+2
+],
+[
+"Albanian Wolfdog",
+2
+],
+[
+"Anglo-Spanish Greyhound",
+2
+],
+[
+"Decker Terrier",
+2
+],
+[
+"St. Hubert",
+2
+],
+[
+"podenco palmero",
+2
+],
+[
+"Lyme Mastiff",
+2
+],
+[
+"pocket beagle",
+2
+],
+[
+"Welsh Black-and-Tan Sheepdog",
+2
+],
+[
+"Welsh Blue-Grey",
+2
+],
+[
+"Poochon",
+2
+],
+[
+"Lottatore Brindisino",
+2
+],
+[
+"Chamuco",
+2
+],
+[
+"Cane Pecoraio Varbutu",
+2
+],
+[
+"Longhaired Whippet",
+1
+],
+[
+"Leopard Tree Dog",
+1
+],
+[
+"Agassin",
+1
+],
+[
+"Marxdorfer Wolfshund",
+1
+],
+[
+"Mountain Feist",
+1
+],
+[
+"Burmese Spitz Dog",
+1
+],
+[
+"South African Mastiff",
+1
+],
+[
+"Deltari ilir",
+1
+],
+[
+"Cojack",
+1
+],
+[
+"Serbian Yellow Hound",
+1
+],
+[
+"Karadeniz Shepherd Dog",
+1
+],
+[
+"Pashmi hound",
+1
+],
+[
+"Laobé",
+1
+],
+[
+"Long haired dachshund",
+1
+],
+[
+"wire-haired dachshund",
+1
+],
+[
+"Kumiş",
+1
+],
+[
+"Old Time Farm Shepherd",
+1
+],
+[
+"Kentucky Shell Heap Dog",
+1
+],
+[
+"Gorskaja",
+1
+],
+[
+"Sparta Sheepdog",
+1
+],
+[
+"Black Pointer",
+1
+],
+[
+"Brittany Spaniel",
+1
+],
+[
+"Bullnese",
+1
+],
+[
+"Prapsos",
+1
+],
+[
+"Belgian Griffons",
+1
+],
+[
+"Peruvian Inca Orchid",
+1
+],
+[
+"White Collie",
+1
+],
+[
+"Powinder Dog",
+1
+],
+[
+"Maltese Little Lion-dog",
+1
+],
+[
+"Maltese Pocket Dog",
+1
+],
+[
+"Miniature Siberian Husky",
+1
+],
+[
+"Yakki Dog",
+1
+],
+[
+"Ruby Spaniel",
+1
+],
+[
+"Daitō Inu",
+1
+],
+[
+"Yakushima Inu",
+1
+],
+[
+"San'in Shiba Inu",
+1
+],
+[
+"Bull Boxer",
+1
+],
+[
+"DenMark Feist",
+1
+],
+[
+"Toy Munchkin",
+1
+],
+[
+"Toy Mi-Ki",
+1
+],
+[
+"Baganda Dog",
+1
+],
+[
+"Bichon Yorkie",
+1
+],
+[
+"Pit Bullmastiff",
+1
+],
+[
+"Fell Hound",
+1
+],
+[
+"Terry",
+1
+],
+[
+"Timon's Biter",
+1
+],
+[
+"Inn kwe",
+1
+],
+[
+"Koshi",
+1
+],
+[
+"Awa Ken",
+1
+],
+[
+"Takayasu Inu",
+1
+],
+[
+"Adirondack Pointing Dog",
+1
+],
+[
+"French Hound",
+1
+],
+[
+"Schwarzer",
+1
+],
+[
+"Wurttemberg Pointer",
+1
+],
+[
+"Zlatiborski ovčar",
+1
+],
+[
+"Australian stock dog",
+1
+],
+[
+"Field labrador",
+1
+],
+[
+"Gollie",
+1
+],
+[
+"aquarius",
+1
+],
+[
+"Indian Tailles Dog",
+1
+],
+[
+"Oriental Shar Pei",
+1
+],
+[
+"Camas Cur",
+1
+],
+[
+"westiepoo",
+1
+],
+[
+"Welsh Harrier",
+1
+],
+[
+"Taimyr",
+1
+],
+[
+"French Pointing Dog Gascogne Type",
+1
+],
+[
+"Faroese Sheepdog",
+1
+],
+[
+"Alano",
+1
+],
+[
+"Hertha pointer",
+1
+],
+[
+"Multi-Colored Poodle",
+1
+],
+[
+"Black Norrlandshund",
+1
+],
+[
+"Turkish Greyhound",
+1
+],
+[
+"Albanian Mountain Dog",
+1
+],
+[
+"Inca Dog",
+1
+],
+[
+"Long-haired Inca Dog",
+1
+],
+[
+"Poligar Hound",
+1
+],
+[
+"Tibetan Hound",
+1
+],
+[
+"Camus cur",
+1
+],
+[
+"Canadian cur",
+1
+],
+[
+"Bangara Mastiff",
+1
+],
+[
+"Afghan Spaniel",
+1
+],
+[
+"Alicant Dog",
+1
+],
+[
+"Appalachian Sighthound",
+1
+],
+[
+"Chinese Hound",
+1
+],
+[
+"Cur dog",
+1
+],
+[
+"Glenwherry Collie",
+1
+],
+[
+"Kemmer stock cur",
+1
+],
+[
+"Huslia Husky",
+1
+],
+[
+"Friesian Windhund",
+1
+],
+[
+"Kanawar Dog",
+1
+],
+[
+"Juan Fernández Sheepdog",
+1
+],
+[
+"German Silky Pinscher",
+1
+],
+[
+"Kurdistan Greyhound",
+1
+],
+[
+"Mullins' feist",
+1
+],
+[
+"Original Cajun Squirrel Dog",
+1
+],
+[
+"Philippines Islands Dog",
+1
+],
+[
+"Russian Setter",
+1
+],
+[
+"Shelburne Terrier",
+1
+],
+[
+"Pomeranian Wolf-dog",
+1
+],
+[
+"Transcaucasian Mountain Dog",
+1
+],
+[
+"Siberian Sheepdog",
+1
+],
+[
+"Targhee Hound)",
+1
+],
+[
+"Walker Foxhound",
+1
+],
+[
+"Ukrainian Sheepdog",
+1
+],
+[
+"Wire-haired Beagle",
+1
+],
+[
+"Victorian Bulldog",
+1
+],
+[
+"Water drawer",
+1
+],
+[
+"Balla Terrier",
+1
+],
+[
+"Carolina cur",
+1
+],
+[
+"Creeper Terrier",
+1
+],
+[
+"Laconian Hound",
+1
+],
+[
+"Maltese Fox Terrier",
+1
+],
+[
+"Northern terrier",
+1
+],
+[
+"Northwest farm terrier",
+1
+],
+[
+"American Squirrel Dog",
+1
+],
+[
+"artésien-normand",
+1
+],
+[
+"Capheaton Terrier",
+1
+],
+[
+"Cesky Wire-haired Pointing Griffon",
+1
+],
+[
+"Running Walker Coonhound",
+1
+],
+[
+"Shorty Bull",
+1
+],
+[
+"Ameri-Indian Alaskan Husky",
+1
+],
+[
+"badger dog",
+1
+],
+[
+"Molossian",
+0
+],
+[
+"Renascence Bulldogge",
+0
+],
+[
+"Agassaei",
+0
+],
+[
+"Frenchton",
+0
+],
+[
+"Aussiedoodle",
+0
+],
+[
+"English bull terrier",
+0
+],
+[
+"Native Irish Pedigree Dog Breeds",
+0
+]
+]

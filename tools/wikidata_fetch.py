@@ -45,16 +45,16 @@ SPEC = {
     "chinacity": {"where": "?x wdt:P17 wd:Q148 ; wdt:P31 ?t . ?t wdt:P279* wd:Q515 .", "min": 20},
     "australiacity": {"where": "?x wdt:P17 wd:Q408 ; wdt:P31 ?t . ?t wdt:P279* wd:Q515 .", "min": 8},
     "texascity": {"where": "?x wdt:P31 wd:Q1093829 ; wdt:P131+ wd:Q1439 .", "min": 6},
-    "painter": {"where": "?x wdt:P106 wd:Q1028181 .", "min": 45},
+    "painter": {"where": "?x wdt:P106 wd:Q1028181 . FILTER EXISTS { ?w wdt:P170 ?x ; wdt:P31 wd:Q3305213 . }", "min": 45},  # has a painting on Wikidata (drops hobbyists)
     "composer": {"where": "?x wdt:P106 wd:Q36834 ; wdt:P569 ?b . FILTER(YEAR(?b) < 1935)", "min": 30},
     "scientist": {"where": "?x wdt:P106/wdt:P279* wd:Q901 .", "min": 60},
     "disney": {"where": "?x wdt:P31 wd:Q11424 ; wdt:P272 wd:Q1047410 .", "min": 0},
-    "pixar": {"where": "?x wdt:P272 wd:Q127552 .", "min": 0},
-    "bestpicture": {"where": "?x wdt:P166 wd:Q102427 .", "min": 0},
+    "pixar": {"where": "VALUES ?t { wd:Q11424 wd:Q202866 } ?x wdt:P31 ?t ; wdt:P272 wd:Q127552 .", "min": 0},  # features only
+    "bestpicture": {"where": "?x wdt:P31 wd:Q11424 ; wdt:P166 wd:Q102427 .", "min": 0},  # films, not producers
     "videogame": {"where": "?x wdt:P31 wd:Q7889 .", "min": 35},
-    "console": {"where": "?x wdt:P31 wd:Q8076 .", "min": 3},
+    "console": {"where": "?x %s wd:Q8076 ." % ISA, "min": 3},
     "sitcom": {"where": "?x wdt:P136 wd:Q170238 .", "min": 12},
-    "musical": {"where": "?x wdt:P31 wd:Q2743 .", "min": 6},
+    "musical": {"where": "?x wdt:P136 wd:Q2743 . MINUS { ?x wdt:P31/wdt:P279* wd:Q11424 } MINUS { ?x wdt:P31/wdt:P279* wd:Q482994 }", "min": 6},  # stage musicals: genre musical, not films/albums
     "band": {"where": "?x wdt:P31 wd:Q5741069 .", "min": 30},
     "shakespeare": {"where": "?x wdt:P50 wd:Q692 ; wdt:P31/wdt:P279* wd:Q25379 .", "min": 0},
     "harrypotter": {"where": "?x wdt:P1080 wd:Q5410773 ; wdt:P31/wdt:P279* wd:Q95074 .", "min": 0},

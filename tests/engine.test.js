@@ -1,7 +1,7 @@
 // Run with: node tests/engine.test.js
 const assert = require("node:assert/strict");
 const path = require("node:path");
-for (const f of ["data.js", "data2.js", "data3.js", "data4.js", "data5.js", "data6.js", "data-extra.js"]) {
+for (const f of ["data.js", "data2.js", "data3.js", "data4.js", "data5.js", "data6.js", "data-extra.js", "words.js"]) {
   const fp = path.join(__dirname, "../js", f);
   if (require("node:fs").existsSync(fp)) require(fp);
 }
@@ -121,6 +121,31 @@ test("duplicates rejected, including via alias", () => {
   assert.equal(first.status, "accepted");
   const again = E.judge(fruit, "pitaya", [first.answer.id]);
   assert.equal(again.status, "duplicate");
+});
+
+test("a typo equally close to a generated answer goes to the hand-curated one", () => {
+  const byId = id => BANK.find(p => p.id === id);
+  const cases = [["spokenlang", "Catlan", "Catalan"], ["river", "Narada", "Narmada"], ["italycity", "Corona", "Cortona"]];
+  for (const [id, typo, want] of cases) {
+    const r = E.judge(byId(id), typo, []);
+    assert.ok(r.answer, typo + " matched nothing");
+    assert.equal(r.answer.name, want, typo);
+  }
+});
+
+test("everyday English words are never corrected into generated answers", () => {
+  const byId = id => BANK.find(p => p.id === id);
+  const cases = [["spokenlang", "change"], ["spokenlang", "morning"], ["italycity", "parents"], ["waterfall", "father"],
+    ["germanycity", "better"], ["island", "sales"], ["river", "some"], ["soup", "beer"], ["bread", "fruit"],
+    ["cheese", "cheese"], ["germanycity", "mark"], ["profession", "president"]];
+  for (const [id, w] of cases) {
+    const r = E.judge(byId(id), w, []);
+    assert.ok(!(r.status === "accepted" && r.answer.extra), `${id}: "${w}" accepted as ${r.answer && r.answer.name}`);
+    assert.ok(!(r.status === "correction" && r.answer.extra), `${id}: "${w}" offered ${r.to}`);
+  }
+  // A real word that is a typo of a hand answer asks first instead of auto-correcting.
+  const r = E.judge(byId("clothing"), "Shots", []);
+  assert.notEqual(r.status, "accepted");
 });
 
 test("confident typos are auto-fixed; doubtful ones ask first", () => {

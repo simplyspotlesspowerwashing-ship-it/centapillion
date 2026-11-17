@@ -8,32 +8,32 @@ cut-offs calibrated on where that prompt's hand-ranked answers sit; dataset answ
 (Zipf ≥ 3.3 Burrower, ≥ 2.2 Rare, otherwise Deep Cut). Hand ranks always win, and only the hand pass
 sets Topsoil, Too Clever and the Mother Lode.
 
-Total extra answers: **22995** across 49 prompts.
+Total extra answers: **38209** across 76 prompts.
 
 | Prompt | Hand keys | Added | Burrower | Rare | Deep Cut | From | Wikidata ranks | Skipped |
 |---|---|---|---|---|---|---|---|---|
-| dog | 108 | 377 | 37 | 143 | 197 | datasets 377 | — | already listed 73 |
+| dog | 108 | 911 | 10 | 67 | 834 | wikidata 846, datasets 65 | calibrated | unusable 1, already listed 78, spelling variant 7, everyday word 1 |
 | catbreed | 73 | 33 | 7 | 8 | 18 | datasets 33 | — | already listed 61, everyday word 1 |
-| dinosaur | 78 | 1315 | 5 | 1 | 1309 | datasets 1315 | — | everyday word 2, already listed 62, spelling variant 70 |
+| dinosaur | 78 | 1314 | 4 | 1 | 1309 | datasets 1314 | — | everyday word 2, category word 1, already listed 62, spelling variant 70 |
 | bird | 107 | 1073 | 101 | 501 | 471 | datasets 1073 | — | already listed 8, spelling variant 1 |
 | element | 121 | 0 | 0 | 0 | 0 | — | — | already listed 117, spelling variant 1 |
 | fruit | 101 | 21 | 5 | 6 | 10 | datasets 21 | — | already listed 59 |
 | vegetable | 95 | 61 | 22 | 29 | 10 | datasets 61 | — | already listed 58 |
-| cheese | 86 | 1810 | 52 | 118 | 1640 | datasets 1810 | — | unusable 4, everyday word 2, already listed 72, blocked 7, spelling variant 42 |
+| cheese | 86 | 1925 | 62 | 170 | 1693 | wikidata 192, datasets 1733 | by rank | unusable 5, already listed 73, everyday word 9, category word 1, blocked 7, spelling variant 43 |
 | spice | 97 | 73 | 15 | 31 | 27 | datasets 73 | — | everyday word 1, already listed 63 |
-| bread | 84 | 10 | 2 | 3 | 5 | datasets 10 | — | already listed 24, spelling variant 1 |
-| beer | 69 | 124 | 62 | 29 | 33 | datasets 124 | — | unusable 1, everyday word 5, already listed 9 |
-| cocktail | 85 | 31 | 15 | 12 | 4 | datasets 31 | — | unusable 2, already listed 41, everyday word 3 |
-| condiment | 79 | 65 | 23 | 21 | 21 | datasets 65 | — | everyday word 2, already listed 31, spelling variant 1 |
+| bread | 84 | 213 | 18 | 79 | 116 | wikidata 203, datasets 10 | by rank | already listed 39, everyday word 9, category word 1, spelling variant 1 |
+| beer | 69 | 171 | 66 | 29 | 76 | wikidata 50, datasets 121 | calibrated | unusable 1, already listed 45, everyday word 9, spelling variant 1 |
+| cocktail | 85 | 247 | 3 | 28 | 216 | wikidata 239, datasets 8 | calibrated | unusable 6, already listed 66, everyday word 8, category word 1, spelling variant 1 |
+| condiment | 79 | 274 | 21 | 40 | 213 | wikidata 235, datasets 39 | calibrated | unusable 1, blocked 6, already listed 48, everyday word 9, spelling variant 1 |
 | pizzatopping | 78 | 5 | 5 | 0 | 0 | datasets 5 | — | already listed 19, everyday word 1 |
-| sandwich | 78 | 116 | 41 | 25 | 50 | datasets 116 | — | already listed 51, everyday word 2 |
+| sandwich | 78 | 181 | 27 | 55 | 99 | wikidata 107, datasets 74 | by rank | already listed 54, everyday word 3, category word 2 |
 | fish | 93 | 70 | 28 | 33 | 9 | datasets 70 | — | everyday word 1, already listed 44 |
 | flower | 98 | 20 | 6 | 8 | 6 | datasets 20 | — | already listed 42, spelling variant 1 |
 | pokemon | 127 | 544 | 3 | 11 | 530 | datasets 544 | — | unusable 1, already listed 97, spelling variant 6 |
 | scientist | 108 | 269 | 39 | 108 | 122 | datasets 269 | — | already listed 58, spelling variant 1 |
-| myth | 109 | 46 | 7 | 21 | 18 | datasets 46 | — | everyday word 1, already listed 51, spelling variant 1 |
-| greekgod | 79 | 15 | 1 | 3 | 11 | datasets 15 | — | already listed 49 |
-| river | 98 | 1804 | 3 | 36 | 1765 | wikidata 1778, datasets 26 | calibrated | already listed 93, everyday word 58, spelling variant 55 |
+| myth | 109 | 197 | 19 | 75 | 103 | wikidata 151, datasets 46 | by rank | already listed 62, blocked 3, everyday word 2, spelling variant 1 |
+| greekgod | 79 | 291 | 1 | 9 | 281 | wikidata 278, datasets 13 | calibrated | already listed 68, spelling variant 1, everyday word 1 |
+| river | 98 | 1803 | 3 | 36 | 1764 | wikidata 1777, datasets 26 | calibrated | already listed 93, everyday word 58, spelling variant 55, category word 1 |
 | instrument | 106 | 12 | 6 | 2 | 4 | datasets 12 | — | already listed 42, spelling variant 1 |
 | musicgenre | 112 | 321 | 182 | 58 | 81 | datasets 321 | — | unusable 2, already listed 37, everyday word 3, spelling variant 5 |
 | gem | 71 | 284 | 9 | 24 | 251 | datasets 284 | — | already listed 58, spelling variant 8 |
@@ -54,10 +54,37 @@ Total extra answers: **22995** across 49 prompts.
 | phobia | 69 | 9 | 0 | 2 | 7 | datasets 9 | — | already listed 13, spelling variant 2 |
 | africa | 64 | 0 | 0 | 0 | 0 | — | calibrated | already listed 54 |
 | asia | 59 | 0 | 0 | 0 | 0 | — | by rank | already listed 48 |
+| australiacity | 52 | 43 | 0 | 2 | 41 | wikidata 43 | calibrated | already listed 37, everyday word 1 |
+| band | 106 | 69 | 4 | 20 | 45 | wikidata 69 | by rank | already listed 24, everyday word 5 |
+| bestpicture | 98 | 129 | 14 | 10 | 105 | wikidata 129 | calibrated | unusable 1, already listed 45 |
+| bridge | 63 | 30 | 3 | 12 | 15 | wikidata 30 | by rank | already listed 4, everyday word 2 |
 | capital | 56 | 4 | 0 | 2 | 2 | wikidata 4 | calibrated | already listed 47 |
+| cereal | 70 | 34 | 1 | 5 | 28 | wikidata 34 | by rank | unusable 1, already listed 36, spelling variant 1, everyday word 1 |
+| console | 86 | 0 | 0 | 0 | 0 | — | — | — |
 | desert | 58 | 113 | 1 | 8 | 104 | wikidata 113 | calibrated | already listed 44, everyday word 4, spelling variant 1 |
+| dumpling | 57 | 21 | 0 | 2 | 19 | wikidata 21 | calibrated | already listed 14, spelling variant 1, everyday word 1 |
 | europe | 69 | 2 | 0 | 0 | 2 | wikidata 2 | by rank | already listed 48 |
+| fastfood | 80 | 78 | 4 | 22 | 52 | wikidata 78 | by rank | already listed 35, everyday word 1 |
+| germanycity | 68 | 1917 | 1 | 14 | 1902 | wikidata 1917 | calibrated | already listed 61, spelling variant 73, everyday word 1 |
+| harrypotter | 124 | 450 | 9 | 31 | 410 | wikidata 450 | calibrated | already listed 86, spelling variant 8, everyday word 5 |
 | island | 95 | 1374 | 20 | 21 | 1333 | wikidata 1374 | calibrated | already listed 56, everyday word 23, spelling variant 19 |
+| italycity | 70 | 7189 | 1 | 39 | 7149 | wikidata 7189 | calibrated | already listed 67, overlaps gem 8, spelling variant 441, everyday word 7 |
+| japancity | 59 | 651 | 0 | 1 | 650 | wikidata 651 | calibrated | already listed 47, spelling variant 37, everyday word 4 |
 | lake | 75 | 752 | 0 | 19 | 733 | wikidata 752 | calibrated | already listed 41, everyday word 13, spelling variant 10 |
+| mario | 89 | 0 | 0 | 0 | 0 | — | — | — |
+| mountain | 87 | 538 | 47 | 197 | 294 | wikidata 538 | by rank | unusable 2, already listed 53, spelling variant 6, everyday word 3, blocked 5 |
+| mushroom | 63 | 15 | 2 | 6 | 7 | wikidata 15 | by rank | already listed 3 |
+| musical | 89 | 0 | 0 | 0 | 0 | — | — | — |
+| painter | 109 | 473 | 29 | 60 | 384 | wikidata 473 | calibrated | already listed 33, blocked 2 |
+| pasta | 68 | 64 | 2 | 7 | 55 | wikidata 64 | calibrated | already listed 46, spelling variant 4 |
+| pixar | 58 | 42 | 4 | 10 | 28 | wikidata 42 | by rank | unusable 5, already listed 26, everyday word 2 |
+| potato | 60 | 170 | 15 | 56 | 99 | wikidata 170 | by rank | already listed 33, category word 2, spelling variant 2, everyday word 2 |
+| shakespeare | 46 | 0 | 0 | 0 | 0 | — | — | — |
+| simpsons | 106 | 301 | 19 | 21 | 261 | wikidata 301 | calibrated | unusable 5, already listed 65, everyday word 8, blocked 13, spelling variant 3 |
+| soda | 77 | 103 | 8 | 30 | 65 | wikidata 103 | by rank | unusable 2, everyday word 3, blocked 1, already listed 36, spelling variant 1 |
+| soup | 74 | 324 | 4 | 23 | 297 | wikidata 324 | calibrated | unusable 1, already listed 32, everyday word 9, category word 1, spelling variant 1 |
+| starwars | 116 | 593 | 39 | 218 | 336 | wikidata 593 | by rank | unusable 29, already listed 75, spelling variant 2, everyday word 1 |
+| tea | 67 | 38 | 0 | 10 | 28 | wikidata 38 | by rank | already listed 16, everyday word 2, spelling variant 1 |
+| videogame | 122 | 128 | 11 | 41 | 76 | wikidata 128 | by rank | unusable 51, already listed 31, spelling variant 11, everyday word 1 |
 | volcano | 73 | 755 | 8 | 19 | 728 | wikidata 755 | calibrated | already listed 43, spelling variant 8, everyday word 3 |
 | waterfall | 55 | 1113 | 118 | 329 | 666 | wikidata 1113 | by rank | unusable 3, already listed 45, spelling variant 7, everyday word 23 |

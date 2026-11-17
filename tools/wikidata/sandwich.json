@@ -1,0 +1,586 @@
+[
+[
+"cheeseburger",
+50
+],
+[
+"gyros",
+45
+],
+[
+"panini",
+37
+],
+[
+"zapiekanka",
+34
+],
+[
+"open sandwich",
+34
+],
+[
+"corn dog",
+33
+],
+[
+"club sandwich",
+29
+],
+[
+"wrap",
+28
+],
+[
+"Vada pav",
+28
+],
+[
+"Francesinha",
+25
+],
+[
+"peanut butter and jelly sandwich",
+24
+],
+[
+"cheesesteak",
+22
+],
+[
+"Chivito",
+22
+],
+[
+"mitraillette",
+22
+],
+[
+"toast sandwich",
+22
+],
+[
+"po' boy",
+20
+],
+[
+"Reuben sandwich",
+19
+],
+[
+"Fischbrötchen",
+17
+],
+[
+"Cuban sandwich",
+17
+],
+[
+"fluffernutter",
+16
+],
+[
+"calamari sandwich",
+16
+],
+[
+"Barros Luco",
+15
+],
+[
+"Carrozza",
+15
+],
+[
+"Bauru",
+15
+],
+[
+"pan-bagnat",
+15
+],
+[
+"gua-bao",
+15
+],
+[
+"rice burger",
+15
+],
+[
+"cucumber sandwich",
+14
+],
+[
+"balık ekmek",
+14
+],
+[
+"Bosna",
+14
+],
+[
+"choripán",
+14
+],
+[
+"McRib",
+14
+],
+[
+"Gatsby",
+13
+],
+[
+"egg sandwich",
+13
+],
+[
+"peanut butter, banana and bacon sandwich",
+13
+],
+[
+"lobster roll",
+13
+],
+[
+"breakfast sandwich",
+12
+],
+[
+"Dagwood sandwich",
+12
+],
+[
+"Fool's Gold Loaf",
+12
+],
+[
+"Tramezzino",
+11
+],
+[
+"chicken sandwich",
+11
+],
+[
+"Dabeli",
+11
+],
+[
+"donkey burger",
+11
+],
+[
+"Hot Brown",
+11
+],
+[
+"tea sandwich",
+11
+],
+[
+"Afghani burger",
+10
+],
+[
+"breakfast roll",
+10
+],
+[
+"chip butty",
+10
+],
+[
+"slider",
+10
+],
+[
+"bifana",
+10
+],
+[
+"French dip sandwich",
+9
+],
+[
+"tomato sandwich",
+9
+],
+[
+"Strammer Max",
+9
+],
+[
+"bun kebab",
+9
+],
+[
+"Chacarero",
+9
+],
+[
+"katsu sandwich",
+9
+],
+[
+"horseshoe sandwich",
+9
+],
+[
+"tongue toast",
+9
+],
+[
+"fried-brain sandwich",
+9
+],
+[
+"Pepito",
+9
+],
+[
+"Montreal-style smoked meat",
+8
+],
+[
+"Sol over Gudhjem",
+8
+],
+[
+"Bombay sandwich",
+8
+],
+[
+"Bondiola sandwich",
+8
+],
+[
+"chicken fillet roll",
+8
+],
+[
+"Porilainen",
+8
+],
+[
+"baked bean sandwich",
+8
+],
+[
+"doubles",
+8
+],
+[
+"Denver sandwich",
+8
+],
+[
+"fish finger sandwich",
+8
+],
+[
+"jibarito",
+8
+],
+[
+"Torta Ahogada",
+8
+],
+[
+"Guajolota",
+7
+],
+[
+"Shooter's sandwich",
+7
+],
+[
+"Cemita",
+7
+],
+[
+"pork chop bun",
+7
+],
+[
+"spaghetti sandwich",
+7
+],
+[
+"kumru",
+7
+],
+[
+"beef on weck",
+7
+],
+[
+"roti",
+7
+],
+[
+"pambazo",
+7
+],
+[
+"melt sandwich",
+7
+],
+[
+"sausage sandwich",
+7
+],
+[
+"Ayvalık tostu",
+6
+],
+[
+"barbecue sandwich",
+6
+],
+[
+"McArabia",
+6
+],
+[
+"New Jersey sloppy joe",
+6
+],
+[
+"Kottenbutter",
+6
+],
+[
+"Spatlo",
+6
+],
+[
+"Cheese and pickle sandwich",
+6
+],
+[
+"sandwich loaf",
+6
+],
+[
+"vegetable sandwich",
+6
+],
+[
+"Bake and Shark",
+6
+],
+[
+"medianoche",
+6
+],
+[
+"Thanksgiving sandwich",
+6
+],
+[
+"fruit sandwich",
+5
+],
+[
+"Khao Jee Pâté",
+5
+],
+[
+"butifarra",
+5
+],
+[
+"Trancapecho",
+5
+],
+[
+"Wurstbrot",
+5
+],
+[
+"chow mein sandwich",
+5
+],
+[
+"Bokit",
+5
+],
+[
+"Barros Jarpa",
+5
+],
+[
+"pastrami on rye",
+5
+],
+[
+"Maxwell Street Polish",
+5
+],
+[
+"Sincronizada",
+5
+],
+[
+"Sándwich de milanesa",
+5
+],
+[
+"mortadella sandwich",
+5
+],
+[
+"pocket sandwich",
+5
+],
+[
+"patso",
+4
+],
+[
+"lettuce sandwich",
+4
+],
+[
+"doughnut sandwich",
+4
+],
+[
+"Goralı",
+4
+],
+[
+"bread and dripping",
+4
+],
+[
+"Sailor sandwich",
+4
+],
+[
+"Cudighi",
+4
+],
+[
+"pebete",
+4
+],
+[
+"prawn roll",
+4
+],
+[
+"x caboquinho",
+3
+],
+[
+"Chola sandwich",
+3
+],
+[
+"gilgeori toast",
+3
+],
+[
+"Broodje gezond",
+3
+],
+[
+"casse-croûte",
+3
+],
+[
+"Pan con chicharrón",
+3
+],
+[
+"torta",
+3
+],
+[
+"prego",
+3
+],
+[
+"toasted sandwich",
+3
+],
+[
+"jam sandwich",
+3
+],
+[
+"steak sandwich",
+2
+],
+[
+"Tamago Sando",
+2
+],
+[
+"Camel rider",
+2
+],
+[
+"Conti roll",
+2
+],
+[
+"Gracoro",
+2
+],
+[
+"Xis",
+2
+],
+[
+"chopped cheese",
+2
+],
+[
+"peanut butter sandwich",
+2
+],
+[
+"Fries-omelet sandwich",
+2
+],
+[
+"crab cake sandwich",
+2
+],
+[
+"Churrasco marino",
+2
+],
+[
+"Lunch Pack",
+2
+],
+[
+"Limburger sandwich",
+2
+],
+[
+"cheese and tomato sandwich",
+2
+],
+[
+"chocolate sandwich",
+2
+],
+[
+"sandwich américain",
+2
+],
+[
+"lomito",
+2
+],
+[
+"Redonkadonk",
+2
+]
+]

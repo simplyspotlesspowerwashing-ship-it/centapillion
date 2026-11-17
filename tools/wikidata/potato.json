@@ -1,0 +1,838 @@
+[
+[
+"fries",
+102
+],
+[
+"potato chip",
+77
+],
+[
+"fish and chips",
+66
+],
+[
+"mashed potato",
+64
+],
+[
+"potato salad",
+50
+],
+[
+"potato pancake",
+50
+],
+[
+"rösti",
+47
+],
+[
+"Spanish omelette",
+46
+],
+[
+"poutine",
+43
+],
+[
+"lángos",
+42
+],
+[
+"Panipuri",
+42
+],
+[
+"baked potato",
+33
+],
+[
+"halušky",
+32
+],
+[
+"Karelian pasty",
+31
+],
+[
+"Vichyssoise",
+29
+],
+[
+"shepherd's pie",
+29
+],
+[
+"colcannon",
+28
+],
+[
+"nikujaga",
+27
+],
+[
+"Waterzooi",
+27
+],
+[
+"rassolnik",
+27
+],
+[
+"aloo gobi",
+26
+],
+[
+"potato bread",
+26
+],
+[
+"hash brown",
+26
+],
+[
+"skordalia",
+25
+],
+[
+"Kugel",
+25
+],
+[
+"Patatas bravas",
+25
+],
+[
+"Janssons frestelse",
+24
+],
+[
+"Sunday roast",
+24
+],
+[
+"Eintopf",
+23
+],
+[
+"bubble and squeak",
+22
+],
+[
+"latke",
+22
+],
+[
+"gratin dauphinois",
+22
+],
+[
+"home fries",
+22
+],
+[
+"lefse",
+22
+],
+[
+"mitraillette",
+22
+],
+[
+"Himmel und Erde",
+21
+],
+[
+"kapsalon",
+21
+],
+[
+"moules-frites",
+21
+],
+[
+"Ajiaco",
+21
+],
+[
+"tartiflette",
+21
+],
+[
+"korokke",
+20
+],
+[
+"pyttipanna",
+20
+],
+[
+"hutspot",
+20
+],
+[
+"potato soup",
+20
+],
+[
+"Duchess potatoes",
+20
+],
+[
+"Batata vada",
+19
+],
+[
+"frico",
+19
+],
+[
+"boxty",
+19
+],
+[
+"Bonda",
+19
+],
+[
+"salchipapa",
+18
+],
+[
+"knish",
+18
+],
+[
+"bangers and mash",
+18
+],
+[
+"Stargazy pie",
+18
+],
+[
+"lokša",
+18
+],
+[
+"Coddle",
+18
+],
+[
+"Baeckeoffe",
+18
+],
+[
+"Dum Aloo",
+17
+],
+[
+"Kugelis",
+17
+],
+[
+"Tater Tots",
+17
+],
+[
+"aloo paratha",
+17
+],
+[
+"Hasselback potatoes",
+16
+],
+[
+"Bacalhau à Brás",
+16
+],
+[
+"roasted sweet potatoes",
+16
+],
+[
+"pastéis de Bacalhau",
+16
+],
+[
+"Fricasse",
+16
+],
+[
+"Kalduny",
+16
+],
+[
+"palt",
+15
+],
+[
+"Canarian wrinkly potatoes",
+15
+],
+[
+"manis",
+14
+],
+[
+"krupnik",
+14
+],
+[
+"Trinxat",
+14
+],
+[
+"pommes dauphine",
+13
+],
+[
+"Pommes Anna",
+13
+],
+[
+"Kartoffelkäse",
+13
+],
+[
+"potato wedges",
+13
+],
+[
+"potato babka",
+13
+],
+[
+"German fries",
+12
+],
+[
+"Älplermagronen",
+12
+],
+[
+"Papa a la Hancaina",
+12
+],
+[
+"Tombet",
+12
+],
+[
+"Aloo pie",
+12
+],
+[
+"aloo mutter",
+12
+],
+[
+"Stovies",
+12
+],
+[
+"Lancashire hotpot",
+12
+],
+[
+"Papa rellena",
+12
+],
+[
+"kumpir",
+11
+],
+[
+"pâté aux pommes de terre",
+11
+],
+[
+"Truffade",
+11
+],
+[
+"Quarkkäulchen",
+11
+],
+[
+"champ",
+11
+],
+[
+"Curanto",
+11
+],
+[
+"raspeball",
+11
+],
+[
+"Choorrillanaz",
+11
+],
+[
+"Bauernfrühstück",
+11
+],
+[
+"racuchy",
+11
+],
+[
+"potato waffle",
+11
+],
+[
+"Navarin",
+11
+],
+[
+"Aloo gosht",
+11
+],
+[
+"Lyonnaise potatoes",
+10
+],
+[
+"Tiroler Gröstl",
+10
+],
+[
+"pitepalt",
+10
+],
+[
+"chip butty",
+10
+],
+[
+"tornado potato",
+9
+],
+[
+"Aloor Chop",
+9
+],
+[
+"Patatnik",
+9
+],
+[
+"papet Vaudois",
+9
+],
+[
+"Causa a la limeña",
+9
+],
+[
+"potato doughnut",
+9
+],
+[
+"Pellkartoffeln",
+9
+],
+[
+"fried potatoes",
+9
+],
+[
+"pâté chinois",
+9
+],
+[
+"Kulajda",
+9
+],
+[
+"Szałot",
+9
+],
+[
+"potato cake",
+8
+],
+[
+"pommes soufflées",
+8
+],
+[
+"Tatws Pum Munud",
+8
+],
+[
+"black noodles",
+8
+],
+[
+"Chupe",
+8
+],
+[
+"crisp sandwich",
+8
+],
+[
+"potato skins",
+8
+],
+[
+"funeral potatoes",
+8
+],
+[
+"Hoppelpoppel",
+7
+],
+[
+"Batata harra",
+7
+],
+[
+"crocchè",
+7
+],
+[
+"Thüringer Klöße",
+7
+],
+[
+"Bacalhau à Zé do Pipo",
+7
+],
+[
+"santula",
+7
+],
+[
+"Rioja style potatoes",
+7
+],
+[
+"gamja-jeon",
+7
+],
+[
+"paprikás krumpli",
+7
+],
+[
+"baby potato",
+7
+],
+[
+"Cookbook:Ukrainian Borscht",
+7
+],
+[
+"zalewajka",
+7
+],
+[
+"Woolton pie",
+7
+],
+[
+"Hachis Parmentier",
+7
+],
+[
+"Pipián",
+6
+],
+[
+"spice bag",
+6
+],
+[
+"sweet potato salad",
+6
+],
+[
+"Empadão",
+6
+],
+[
+"gamja-ongsimi",
+6
+],
+[
+"shoestring potatoes",
+6
+],
+[
+"Milcao",
+6
+],
+[
+"Charquicán",
+6
+],
+[
+"Bacalhau à minhota",
+6
+],
+[
+"Maluns",
+6
+],
+[
+"rumbledethumps",
+6
+],
+[
+"Bacalhau à Gomes de Sá",
+6
+],
+[
+"patatas a lo pobre",
+6
+],
+[
+"Žemaičių blynai",
+6
+],
+[
+"Bombay potato",
+6
+],
+[
+"Péla",
+6
+],
+[
+"caramelized potatoes",
+6
+],
+[
+"Mince and tatties",
+6
+],
+[
+"Poutine râpée",
+6
+],
+[
+"pie and mash",
+6
+],
+[
+"Potatiskorv",
+6
+],
+[
+"potato scone",
+5
+],
+[
+"dibbelabbes",
+5
+],
+[
+"Bacalhau com natas",
+5
+],
+[
+"Pataniscas",
+5
+],
+[
+"lompe",
+5
+],
+[
+"Kartoffelwurst",
+5
+],
+[
+"Rewena bread",
+5
+],
+[
+"Pastel de papa",
+5
+],
+[
+"daigaku imo",
+4
+],
+[
+"potato croquette",
+4
+],
+[
+"Patatas a la importancia",
+4
+],
+[
+"Polvo à lagareiro",
+4
+],
+[
+"Patatas alioli",
+4
+],
+[
+"egg and chips",
+4
+],
+[
+"chochoca",
+4
+],
+[
+"Crique",
+4
+],
+[
+"Getzen",
+4
+],
+[
+"suquet de peix",
+4
+],
+[
+"Salampatata",
+4
+],
+[
+"Raspatat",
+4
+],
+[
+"Ulaniv-style potatoes",
+3
+],
+[
+"Ruthenian pierogi",
+3
+],
+[
+"Batatas a murro",
+3
+],
+[
+"Kluchy połom bite",
+3
+],
+[
+"Prażonki",
+3
+],
+[
+"Irish potato candy",
+3
+],
+[
+"boh puniaram",
+3
+],
+[
+"Estofinade",
+3
+],
+[
+"farcidure",
+3
+],
+[
+"Gratin savoyard",
+3
+],
+[
+"Bacalhau à Narcisa",
+3
+],
+[
+"Mermez",
+3
+],
+[
+"morcilla patatera",
+3
+],
+[
+"Mounassou",
+3
+],
+[
+"potato pyzy",
+3
+],
+[
+"tortelli di patate",
+3
+],
+[
+"boiled potatoes",
+2
+],
+[
+"pyry z gzikiem",
+2
+],
+[
+"plato alpujarreño",
+2
+],
+[
+"potato curry",
+2
+],
+[
+"Mustofa Potatoes",
+2
+],
+[
+"roasted sweet potatoes in Japan",
+2
+],
+[
+"miso potatoes",
+2
+],
+[
+"Farcement",
+2
+],
+[
+"Döppekooche",
+2
+],
+[
+"Gefillde",
+2
+],
+[
+"munini-imo",
+2
+],
+[
+"Jaga butter",
+2
+],
+[
+"crêpe vonnassienne",
+2
+],
+[
+"Parsley potatoes",
+2
+],
+[
+"morbiflette",
+2
+],
+[
+"Tofailles",
+2
+],
+[
+"Bomba toledana",
+2
+]
+]
