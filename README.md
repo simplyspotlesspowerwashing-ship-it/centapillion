@@ -28,9 +28,41 @@ A daily rarity-trivia game. It plays like krillion.io, but you tunnel down throu
 - **Diggers:** seven colour variants of the centipede, unlocked by your best daily streak (0, 5, 14, 30, 45, 60, 100 days). Tap the digger to poke it.
 - **Settings:** sound, typo checking, clearing the box after a wrong answer, reduced motion, low power mode, erase progress.
 
-## Questions
+## Questions and answers
 
-154 prompts with 11,681 answers across six files (`js/data.js` to `js/data6.js`): animals, food, places, pop culture, science, everyday things and wordplay. With 7 a day, the daily sequence runs 22 days before any prompt comes back, and a prompt never returns within 10 days. Unlimited digs follow their own sequence.
+154 prompts. Each has a hand-curated answer list (`js/data.js` to `js/data6.js`) plus generated extra answers (`js/data-extra.js`), about **29,000 accepted answers** in all.
+
+### How answers are built (modelled on Krillion's process)
+
+Krillion's FAQ describes its process as: aggregate datasets (dictionaries, wiki lists, encyclopedias), merge and clean them into one answer set, score rarity mechanically against a familiarity database, then do a manual pass. Centapillion does the same:
+
+1. **Hand pass:** every prompt has a curated list. Only the hand pass can set Common, Too Clever and the gem (the One in a Centapillion answer).
+2. **Datasets:** `tools/build_extra.py` pulls answers from the open [corpora](https://github.com/dariusk/corpora) collection (dog and cat breeds, dinosaurs, birds, cheeses, spices, rivers, gemstones, fabrics, Pokémon, scientists, occupations, sports and more). It also uses the CMU Pronouncing Dictionary for rhymes (manually vetted), `wordfreq`'s vocabulary for "-ology" and "-phobia" words, and ISO 639 for languages.
+3. **Cleaning:** drops entries already in the hand list, spelling variants of existing answers, junk entries, and everyday words that would score too easily (e.g. "Milk" as a river).
+4. **Rarity:** each new answer is tiered by how familiar the word is (`wordfreq` Zipf frequency, an open counterpart to Krillion's familiarity database). The cut-offs come from the hand tiers: 3.3 and above is Uncommon, 2.2 to 3.3 is Rare, below 2.2 is Deep Cut.
+5. **Log:** every build writes `tools/answer-build-log.md`, listing per prompt how many answers were added at each level and why others were skipped.
+
+Rebuild after editing the hand data or the script:
+
+```bash
+pip install wordfreq pronouncing pycountry
+git clone --depth 1 https://github.com/dariusk/corpora ../dariusk/corpora
+python3 tools/build_extra.py
+```
+
+The daily sequence runs 22 days before any prompt comes back, and a prompt never returns within 10 days.
+
+### Spell check
+
+- **Confident typos count straight away**, with a "counted as …" note. This covers one slip in a 5+ letter word, two slips in long words, and sound-alikes ("tiramisoo", "dalmation", "brocolli", "hermoine").
+- **Doubtful matches ask first** ("submit again to confirm").
+- **Category words are ignored**: "Lake Baikal", "Baikal" and "Baikal lake" all count. So are word order and shorthands ("mt", "st", "ft", "&").
+- **Ties go to the more common answer**, since that's usually what was meant.
+- **Generated answers** only get one-letter fixes on 6+ letter words. This stops random words matching obscure entries.
+
+### Missed-answers log
+
+Every guess that doesn't count is saved on the device. **Settings → Missed answers log** shows them grouped by prompt, with a Copy button. Send that list in to get real answers added.
 
 ## Run it
 

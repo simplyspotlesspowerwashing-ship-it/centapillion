@@ -40,7 +40,7 @@
 
     { id: "element", q: "Name a chemical element", t: {
       p: "Oxygen|Hydrogen|Carbon|Gold|Iron|Helium",
-      c: "Einsteinium|Tungsten",
+      c: "Einsteinium|Tungsten=wolfram",
       s: "Nitrogen|Silver|Copper|Sodium|Calcium|Neon|Lead|Uranium|Zinc|Aluminum=aluminium|Potassium|Chlorine|Mercury|Platinum|Magnesium|Sulfur=sulphur|Lithium|Silicon|Tin|Plutonium|Nickel|Phosphorus|Fluorine|Iodine|Titanium|Argon|Radium|Cobalt",
       r: "Chromium|Manganese|Boron|Beryllium|Arsenic|Krypton|Xenon|Radon|Bismuth|Cesium=caesium|Barium|Bromine|Strontium|Lanthanum|Palladium|Rhodium|Iridium|Osmium|Selenium|Gallium|Germanium|Thorium|Vanadium|Zirconium|Cadmium|Antimony|Francium|Polonium|Americium|Curium|Neodymium|Tellurium|Indium|Rubidium|Molybdenum|Scandium|Yttrium|Oganesson|Tennessine|Nobelium|Fermium",
       d: "Praseodymium|Dysprosium|Ytterbium|Lutetium|Thulium|Holmium|Erbium|Gadolinium|Terbium|Europium|Samarium|Promethium|Hafnium|Rhenium|Technetium|Ruthenium|Niobium|Tantalum|Thallium|Astatine|Actinium|Protactinium|Neptunium|Berkelium|Californium|Mendelevium|Lawrencium|Rutherfordium|Dubnium|Bohrium|Hassium|Meitnerium|Darmstadtium|Roentgenium|Copernicium|Nihonium|Flerovium|Moscovium|Livermorium",

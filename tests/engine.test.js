@@ -1,7 +1,7 @@
 // Run with: node tests/engine.test.js
 const assert = require("node:assert/strict");
 const path = require("node:path");
-for (const f of ["data.js", "data2.js", "data3.js", "data4.js", "data5.js", "data6.js"]) {
+for (const f of ["data.js", "data2.js", "data3.js", "data4.js", "data5.js", "data6.js", "data-extra.js"]) {
   const fp = path.join(__dirname, "../js", f);
   if (require("node:fs").existsSync(fp)) require(fp);
 }
@@ -123,12 +123,16 @@ test("duplicates rejected, including via alias", () => {
   assert.equal(again.status, "duplicate");
 });
 
-test("typo gives a correction, not an accept", () => {
+test("confident typos are auto-fixed; doubtful ones ask first", () => {
   const r = E.judge(fruit, "pinapple", []);
-  assert.equal(r.status, "correction");
-  assert.equal(r.to, "Pineapple");
-  // Submitting the corrected text is accepted.
-  assert.equal(E.judge(fruit, r.to, []).status, "accepted");
+  assert.equal(r.status, "accepted");
+  assert.equal(r.corrected, true);
+  assert.equal(r.answer.name, "Pineapple");
+  const dino = BANK.find(p => p.id === "dinosaur");
+  const q = E.judge(dino, "tyrannosau", []);
+  assert.equal(q.status, "correction");
+  assert.equal(q.to, "T. Rex");
+  assert.equal(E.judge(dino, q.to, []).status, "accepted");
 });
 
 test("forced (time-up) typo is accepted", () => {
@@ -137,7 +141,7 @@ test("forced (time-up) typo is accepted", () => {
   assert.equal(r.answer.name, "Pineapple");
 });
 
-test("short words never fuzzy-match", () => {
+test("three-letter words never fuzzy-match", () => {
   assert.equal(E.judge(fruit, "fog", []).status, "rejected");
   assert.equal(E.judge(element, "tim", []).status, "rejected");
 });
@@ -254,6 +258,77 @@ test("unlimited digs are deterministic and distinct from each other", () => {
   const a = E.promptsForUnlimited(5, BANK).map(p => p.id), b = E.promptsForUnlimited(5, BANK).map(p => p.id);
   assert.deepEqual(a, b);
   assert.notDeepEqual(a, E.promptsForUnlimited(6, BANK).map(p => p.id));
+});
+
+// ---------- generated answers ----------
+test("generated answers load and each resolves to itself", () => {
+  assert.ok(CP.EXTRA && Object.keys(CP.EXTRA).length >= 30);
+  let n = 0;
+  for (const p of BANK) {
+    for (const a of E.indexFor(p).answers.filter(x => x.extra)) {
+      n++;
+      assert.ok(["s", "r", "d"].includes(a.tier), a.name + " has tier " + a.tier);
+      assert.equal(E.lookup(p, a.name), a, p.id + ": " + a.name);
+    }
+  }
+  assert.ok(n > 15000, n + " generated answers");
+});
+
+test("hand tiers win over generated answers", () => {
+  for (const p of BANK) {
+    const hand = new Set();
+    for (const a of E.indexFor(p).answers) {
+      if (!a.extra) a.keys.forEach(k => hand.add(k));
+      else assert.ok(!hand.has(a.id), p.id + ": generated duplicate " + a.name);
+    }
+  }
+});
+
+test("no everyday words slip in as generated answers", () => {
+  const P = id => BANK.find(p => p.id === id);
+  for (const [id, w] of [["spokenlang", "anal"], ["spokenlang", "sake"], ["river", "milk"], ["river", "white"], ["cheese", "butter"], ["sport", "table sports"]]) {
+    assert.equal(E.judge(P(id), w, []).status === "accepted", false, id + ": " + w);
+  }
+});
+
+// ---------- spell check ----------
+const P = id => BANK.find(p => p.id === id);
+test("common misspellings are accepted without a confirm step", () => {
+  const cases = [["dog", "golden retreiver", "Golden Retriever"], ["dog", "dalmation", "Dalmatian"], ["dog", "chiuaua", "Chihuahua"],
+    ["dog", "rotweiler", "Rottweiler"], ["dessert", "tiramisoo", "Tiramisu"], ["vegetable", "brocolli", "Broccoli"],
+    ["vegetable", "zuchini", "Zucchini"], ["fruit", "pinapple", "Pineapple"], ["fruit", "bannana", "Banana"],
+    ["fruit", "rasberry", "Raspberry"], ["dinosaur", "velocirapter", "Velociraptor"], ["element", "magnesuim", "Magnesium"],
+    ["cheese", "parmesean", "Parmesan"], ["cheese", "mozarella", "Mozzarella"], ["harrypotter", "hermoine", "Hermione Granger"],
+    ["spice", "cinamon", "Cinnamon"], ["spokenlang", "portugese", "Portuguese"], ["pokemon", "pikachoo", "Pikachu"],
+    ["capital", "copenhagan", "Copenhagen"], ["instrument", "xylaphone", "Xylophone"], ["dinosaur", "tyranosaurus rex", "T. Rex"]];
+  for (const [id, typed, want] of cases) {
+    const r = E.judge(P(id), typed, []);
+    assert.equal(r.status, "accepted", typed);
+    assert.equal(r.answer.name, want, typed);
+  }
+});
+
+test("category words, word order and shorthands don't matter", () => {
+  const cases = [["lake", "baikal", "Lake Baikal"], ["lake", "baikal lake", "Lake Baikal"], ["river", "the amazon river", "Amazon"],
+    ["mountain", "mt everest", "Mount Everest"], ["texascity", "ft worth", "Fort Worth"], ["dog", "pug dog", "Pug"],
+    ["shark", "tiger", "Tiger Shark"], ["dog", "labs", "Labrador"]];
+  for (const [id, typed, want] of cases) assert.equal(E.judge(P(id), typed, []).answer.name, want, typed);
+});
+
+test("wrong answers are still rejected", () => {
+  const neg = { fruit: ["chair", "lion", "pencil", "onion", "bread"], dog: ["cat", "lion", "horse", "table"],
+    spokenlang: ["table", "chair", "pizza", "banana", "guitar", "hello", "london", "computer"], cheese: ["bread", "table", "pizza", "apple"],
+    dinosaur: ["dragon", "lizard", "shark", "chicken"], mammal: ["shark", "spider", "snake", "eagle"], bird: ["bee", "dog", "plane"],
+    element: ["water", "fire", "air", "steel", "bronze"], sport: ["table", "pizza", "apple"] };
+  for (const [id, ws] of Object.entries(neg)) for (const w of ws) {
+    assert.notEqual(E.judge(P(id), w, []).status, "accepted", id + ": " + w);
+  }
+});
+
+test("judging stays fast on the biggest answer lists", () => {
+  const t = Date.now();
+  for (let i = 0; i < 50; i++) E.judge(P("spokenlang"), "zzqxjvv" + i, []);
+  assert.ok(Date.now() - t < 2000, (Date.now() - t) + " ms for 50 misses");
 });
 
 console.log(`${passes} passed, ${failures} failed`);

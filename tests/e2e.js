@@ -123,16 +123,43 @@ async function newPage(browser, opts, clock) {
     assert.equal((await state(page)).results[0].answers.length, 12);
   });
 
-  await step("typo needs confirming", async () => {
-    const have = new Set((await state(page)).results[0].answers.map(a => a.name));
-    const long = [].concat(A.s, A.r).find(n => !have.has(n) && /^[a-z]{7,}$/i.test(n));
-    const typo = long.slice(0, 2) + long[3] + long[2] + long.slice(4);
-    await submit(page, typo);
-    assert.equal((await state(page)).results[0].answers.length, 12, "typo scored before confirming: " + typo);
+  await step("a doubtful match asks first, then counts on confirm", async () => {
+    const before = (await state(page)).results[0].answers.length;
+    const probe = await page.evaluate(() => {
+      const st = window.__centapillion.state();
+      const p = window.CP.PROMPTS.find(x => x.id === st.promptIds[0]);
+      const found = st.results[0].answers.map(a => a.id);
+      for (const a of window.CP.engine.indexFor(p).answers) {
+        if (found.includes(a.id) || a.name.length < 9) continue;
+        const t = a.name.slice(0, Math.ceil(a.name.length * 0.7));
+        const r = window.CP.engine.judge(p, t, found, false);
+        if (r.status === "correction") return t;
+      }
+      return null;
+    });
+    if (!probe) return; // this prompt has no doubtful case; covered by the engine tests
+    await submit(page, probe);
+    assert.equal((await state(page)).results[0].answers.length, before, "scored before confirming: " + probe);
     assert.match(await page.textContent("#correction"), /submit again to confirm/);
     await page.press("#answer", "Enter");
     await page.waitForTimeout(40);
-    assert.equal((await state(page)).results[0].answers.length, 13);
+    assert.equal((await state(page)).results[0].answers.length, before + 1);
+  });
+
+  await step("misspelling is auto-fixed and says what it counted as", async () => {
+    const st0 = await state(page);
+    const have = new Set(st0.results[0].answers.map(a => a.name));
+    const long = [].concat(A.s, A.r).find(n => !have.has(n) && /^[a-z]{8,}$/i.test(n));
+    const typo = long.slice(0, 3) + long.slice(4); // drop one letter
+    await submit(page, typo);
+    assert.equal((await state(page)).results[0].answers.length, st0.results[0].answers.length + 1, "not counted: " + typo);
+    assert.match(await page.textContent("#dockMsg"), /counted as/);
+  });
+
+  await step("wrong guesses land in the missed-answers log", async () => {
+    await submit(page, "qwertyuiopzz");
+    const missed = (await page.evaluate(() => window.__centapillion.store())).missed;
+    assert.ok(missed.some(m => m.t === "qwertyuiopzz"));
   });
 
   await step("time-up ends the round; feedback sorted rarest first", async () => {
@@ -267,6 +294,14 @@ async function newPage(browser, opts, clock) {
     await page.click('button.linkish:has-text("DIG LOG")');
     assert.match(await page.textContent("#modalBody"), /1\/\d+ charted · replays keep your best/);
     assert.equal(await page.locator(".arch.played").count(), 1);
+    await page.keyboard.press("Escape");
+  });
+
+  await step("settings shows the missed log with copy", async () => {
+    await page.click('[data-open="settings"]');
+    assert.match(await page.textContent("#missedLog"), /zzqxj blorptastic/);
+    await page.click("#copyMissed");
+    assert.match(await page.evaluate(() => navigator.clipboard.readText()), /zzqxj/);
     await page.keyboard.press("Escape");
   });
 

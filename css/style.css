@@ -203,6 +203,8 @@ body.urgent #hud { box-shadow: inset 0 0 80px rgba(255, 82, 82, 0.25); }
 .dock-msg { min-height: 18px; font-size: 13px; color: var(--drift); text-align: center; }
 .dock-msg.bad { color: var(--bad); }
 .dock-msg.warn { color: var(--gold); }
+.dock-msg.ok { color: var(--cyan); }
+.missed-log { max-height: 180px; overflow: auto; font-size: 12px; }
 .dock-msg.pop { animation: msg .35s ease; }
 @keyframes msg { from { transform: translateY(6px); opacity: 0; } }
 .dock.shake .dock-row { animation: shake .35s; }

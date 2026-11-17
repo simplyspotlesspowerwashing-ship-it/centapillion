@@ -82,12 +82,18 @@
     return s.normalize ? s.normalize("NFD").replace(/[̀-ͯ]/g, "") : s;
   }
 
+  // Shorthands people type, mapped to one spelling on both sides.
+  var TOKEN_SYNONYMS = { st: "saint", ste: "sainte", mt: "mount", mtn: "mountain", ft: "fort", n: "and", vs: "versus", dr: "doctor", jr: "junior", sr: "senior", "1st": "first", "2nd": "second", "3rd": "third" };
+
   function normalize(raw) {
     var s = stripDiacritics(String(raw || "")).toLowerCase();
     s = s.replace(/&/g, " and ").replace(/\+/g, "plus").replace(/#/g, "sharp");
     s = s.replace(/['’`]/g, "");
     s = s.replace(/[^a-z0-9]+/g, " ").trim();
     s = s.replace(/^(the|a|an) /, "");
+    if (s.indexOf(" ") !== -1 || TOKEN_SYNONYMS[s]) {
+      s = s.split(" ").map(function (w) { return TOKEN_SYNONYMS[w] || w; }).join(" ");
+    }
     return s;
   }
 
@@ -102,8 +108,54 @@
       if (/ies$/.test(key)) out.push(key.slice(0, -3) + "y");
       if (/es$/.test(key)) out.push(key.slice(0, -2));
       if (/s$/.test(key)) out.push(key.slice(0, -1));
+      if (!/s$/.test(key)) out.push(key + "s");
     }
     return out;
+  }
+
+  // A rough sound-alike key: consonant skeleton with common spellings folded
+  // ("tiramisoo" and "tiramisu" both give "trms").
+  function phonetic(key) {
+    var s = key.replace(/ph/g, "f").replace(/ck/g, "k").replace(/q/g, "k").replace(/x/g, "ks").replace(/z/g, "s")
+      .replace(/c(?=[eiy])/g, "s").replace(/c/g, "k").replace(/gh/g, "").replace(/^kn/, "n").replace(/^wr/, "r")
+      .replace(/^ps/, "s").replace(/mb$/, "m").replace(/dg/g, "j").replace(/sch/g, "sk").replace(/y/g, "i").replace(/w/g, "");
+    var first = s.charAt(0);
+    var rest = s.slice(1).replace(/[aeiouh]/g, "");
+    return (first + rest).replace(/(.)\1+/g, "$1");
+  }
+
+  var STOP = { name: 1, a: 1, an: 1, the: 1, of: 1, type: 1, kind: 1, famous: 1, that: 1, is: 1, something: 1, word: 1,
+    rhymes: 1, with: 1, ends: 1, "in": 1, or: 1, and: 1, real: 1, life: 1, for: 1, like: 1, member: 1, family: 1, found: 1,
+    s: 1, u: 1, letter: 1, piece: 1, item: 1, style: 1, character: 1, lays: 1, eggs: 1, sound: 1, by: 1, has: 1, been: 1 };
+
+  // Words that just repeat the category ("Lake", "River", "Shark", "Cheese"),
+  // so "Lake Baikal", "Baikal" and "Baikal lake" all find the same answer.
+  // Taken from the question itself plus a fixed list of category nouns.
+  var CATEGORY_NOUNS = ("lake river mount mountain falls fall waterfall island islands isle sea ocean desert park national bridge "
+    + "city town cheese sauce soup salad bread cake pie cookie tea beer ale dog breed cat shark whale dolphin frog toad snake bird "
+    + "tree flower plant fish game movie film song band volcano language disease syndrome dance hat shoe shoes boots style "
+    + "pasta noodles dumpling sandwich cocktail coffee candy bar cereal phobia moon constellation instrument").split(" ");
+  function genericWords(prompt) {
+    var g = {};
+    var add = function (w) { g[w] = 1; if (/s$/.test(w)) g[w.slice(0, -1)] = 1; else g[w + "s"] = 1; };
+    normalize(prompt.q).split(" ").forEach(function (w) { if (w.length > 2 && !STOP[w]) add(w); });
+    CATEGORY_NOUNS.forEach(function (w) { if (prompt.q.toLowerCase().indexOf(w) !== -1 || PROMPT_NOUN_OK[w]) add(w); });
+    return g;
+  }
+  // Nouns safe to drop on any prompt because they only ever name the kind of thing.
+  var PROMPT_NOUN_OK = { lake: 1, river: 1, mount: 1, mountain: 1, falls: 1, island: 1, isle: 1, sea: 1, ocean: 1, desert: 1,
+    "national": 1, park: 1, bridge: 1, volcano: 1, breed: 1, cheese: 1, language: 1, syndrome: 1 };
+
+  function stripGeneric(norm, g) {
+    var t = norm.split(" ");
+    while (t.length > 1 && g[t[0]]) t.shift();
+    while (t.length > 1 && g[t[t.length - 1]]) t.pop();
+    return t.join("");
+  }
+
+  function sortedKey(norm) {
+    var t = norm.split(" ");
+    return t.length > 1 ? t.slice().sort().join("") : null;
   }
 
   var indexCache = {};
@@ -111,34 +163,73 @@
     if (indexCache[prompt.id]) return indexCache[prompt.id];
     var answers = [];
     var map = {};
-    TIER_IDS.forEach(function (tid) {
-      var list = prompt.t[tid];
+    function addList(list, tid, extra) {
       if (!list) return;
       list.split("|").forEach(function (entry) {
         var parts = entry.split("::");
         var names = parts[0].split("=").map(function (x) { return x.trim(); }).filter(Boolean);
         if (!names.length) return;
-        var a = { id: compact(names[0]), name: names[0], tier: tid, score: TIERS[tid].score, keys: [], quip: (parts[1] || "").trim() };
+        var id = compact(names[0]);
+        if (!id || (extra && id in map)) return;
+        var a = { id: id, name: names[0], tier: tid, score: TIERS[tid].score, keys: [], quip: (parts[1] || "").trim(), extra: !!extra, aliases: names };
         names.forEach(function (n) {
           var k = compact(n);
           if (!k) return;
           a.keys.push(k);
-          // First listing wins if two entries share a key.
+          // First listing wins if two entries share a key; hand answers come first.
           if (!(k in map)) map[k] = answers.length;
         });
         answers.push(a);
       });
+    }
+    TIER_IDS.forEach(function (tid) { addList(prompt.t[tid], tid, false); });
+    var ex = CP.EXTRA && CP.EXTRA[prompt.id];
+    if (ex) ["s", "r", "d"].forEach(function (tid) { addList(ex[tid], tid, true); });
+
+    // Secondary keys: category words dropped, and word order ignored.
+    var g = genericWords(prompt);
+    var alt = {};
+    answers.forEach(function (a, i) {
+      a.aliases.forEach(function (n) {
+        var norm = normalize(n);
+        [stripGeneric(norm, g), sortedKey(norm)].forEach(function (k) {
+          if (k && k.length >= 3 && !(k in map) && !(k in alt)) alt[k] = i;
+        });
+      });
     });
-    var idx = { answers: answers, map: map, keys: Object.keys(map) };
+    var keys = Object.keys(map).concat(Object.keys(alt));
+    var phon = {};
+    keys.forEach(function (k) { phon[k] = phonetic(k); });
+    var idx = { answers: answers, map: map, alt: alt, keys: keys, phon: phon, generic: g };
     indexCache[prompt.id] = idx;
     return idx;
   }
 
+  function keyAnswer(idx, k) {
+    if (k in idx.map) return idx.answers[idx.map[k]];
+    if (k in idx.alt) return idx.answers[idx.alt[k]];
+    return null;
+  }
+
+  function typedKeys(idx, raw) {
+    var norm = normalize(raw);
+    var out = [norm.replace(/ /g, "")];
+    var st = stripGeneric(norm, idx.generic);
+    if (st && out.indexOf(st) === -1) out.push(st);
+    var so = sortedKey(norm);
+    if (so && out.indexOf(so) === -1) out.push(so);
+    return out;
+  }
+
   function lookup(prompt, raw) {
     var idx = indexFor(prompt);
-    var vs = variants(compact(raw));
-    for (var i = 0; i < vs.length; i++) {
-      if (vs[i] in idx.map) return idx.answers[idx.map[vs[i]]];
+    var tk = typedKeys(idx, raw);
+    for (var j = 0; j < tk.length; j++) {
+      var vs = variants(tk[j]);
+      for (var i = 0; i < vs.length; i++) {
+        var a = keyAnswer(idx, vs[i]);
+        if (a) return a;
+      }
     }
     return null;
   }
@@ -168,34 +259,69 @@
   }
 
   function allowedTypos(len) {
-    if (len < 5) return 0;
-    if (len < 9) return 1;
-    return 2;
+    if (len < 4) return 0;
+    if (len < 6) return 1;
+    if (len < 10) return 2;
+    return 3;
   }
 
-  // Nearest accepted answer to a typo, or null when none is close or two tie.
+  var TIER_RANK = { p: 0, c: 1, s: 2, r: 3, d: 4, k: 5 };
+
+  /*
+   * Closest accepted answer to a misspelling. Returns
+   *   { answer, sure } — sure means close enough to accept without asking —
+   * or null. Ties go to the more common answer (that's usually what was meant).
+   */
   function nearest(prompt, raw) {
     var idx = indexFor(prompt);
-    var key = compact(raw);
-    var cap = allowedTypos(key.length);
-    if (!cap) return null;
-    var best = null, bestD = cap + 1, tie = false;
-    for (var i = 0; i < idx.keys.length; i++) {
-      var k = idx.keys[i];
-      if (allowedTypos(k.length) === 0) continue;
-      var d = editDistance(key, k, Math.min(cap, bestD));
-      if (d < bestD) { bestD = d; best = idx.answers[idx.map[k]]; tie = false; }
-      else if (d === bestD && best && idx.answers[idx.map[k]] !== best) tie = true;
+    var tk = typedKeys(idx, raw);
+    var best = null;
+    tk.forEach(function (t) {
+      var cap = allowedTypos(t.length);
+      if (!cap) return;
+      var tp = phonetic(t);
+      for (var i = 0; i < idx.keys.length; i++) {
+        var k = idx.keys[i];
+        if (k.length < 4 || Math.abs(k.length - t.length) > cap + 1) continue;
+        var d = editDistance(t, k, cap + 1);
+        var a = keyAnswer(idx, k);
+        // Generated answers are mostly obscure names: only fix small slips on long words.
+        if (a.extra && (d > 1 || t.length < 6)) continue;
+        var sound = !a.extra && t.length >= 5 && idx.phon[k] === tp && d <= 2;
+        if (d > cap && !sound) continue;
+        var score = sound ? Math.min(d, 1) : d;
+        var cand = { answer: a, d: d, score: score, sound: sound, len: Math.abs(k.length - t.length), t: t };
+        if (!best || cand.score < best.score ||
+            (cand.score === best.score && (TIER_RANK[a.tier] < TIER_RANK[best.answer.tier] ||
+              (TIER_RANK[a.tier] === TIER_RANK[best.answer.tier] && cand.len < best.len)))) best = cand;
+      }
+    });
+    if (best) {
+      var n = best.t.length;
+      best.sure = (best.d <= 1 && n >= 5) || (best.sound && best.d <= 2 && n >= 5) || (best.d <= 2 && n >= 10);
+      return best;
     }
-    if (!best || bestD > cap || tie) return null;
-    return best;
+    // Unique completion of a long enough start ("tyrannosau" -> Tyrannosaurus).
+    var t0 = tk[0];
+    if (t0.length >= 5) {
+      var hit = null, many = false;
+      for (var j = 0; j < idx.keys.length && !many; j++) {
+        var key = idx.keys[j];
+        if (key.length > t0.length && key.indexOf(t0) === 0 && t0.length >= key.length * 0.6) {
+          var ans = keyAnswer(idx, key);
+          if (hit && hit !== ans) many = true; else hit = ans;
+        }
+      }
+      if (hit && !many) return { answer: hit, d: 0, sure: false, prefix: true };
+    }
+    return null;
   }
 
   /*
    * Judge one submission.
    *   found: array of answer ids already scored this round
-   *   force: true when time ran out; typos are then accepted outright
-   * Returns { status: "accepted" | "duplicate" | "correction" | "rejected" | "empty", answer?, to? }
+   *   force: true when time ran out, or typo checking is off; any close match is accepted
+   * Returns { status: "accepted" | "duplicate" | "correction" | "rejected" | "empty", answer?, to?, corrected? }
    */
   function judge(prompt, raw, found, force) {
     var text = String(raw || "").trim();
@@ -208,9 +334,10 @@
     }
     var near = nearest(prompt, text);
     if (near) {
-      if (found.indexOf(near.id) !== -1) return { status: "duplicate", answer: near };
-      if (force) return { status: "accepted", answer: near, corrected: true };
-      return { status: "correction", answer: near, to: near.name };
+      var a = near.answer;
+      if (found.indexOf(a.id) !== -1) return { status: "duplicate", answer: a };
+      if (force || near.sure) return { status: "accepted", answer: a, corrected: true };
+      return { status: "correction", answer: a, to: a.name };
     }
     return { status: "rejected" };
   }
@@ -366,7 +493,7 @@
   CP.STRATA = STRATA;
   CP.LANDMARKS = LANDMARKS;
   CP.engine = {
-    normalize: normalize, compact: compact, indexFor: indexFor, lookup: lookup,
+    normalize: normalize, compact: compact, phonetic: phonetic, indexFor: indexFor, lookup: lookup,
     editDistance: editDistance, nearest: nearest, judge: judge,
     mulberry32: mulberry32, dayNumber: dayNumber, dateForDay: dateForDay,
     promptsForDay: promptsForDay, promptsForUnlimited: promptsForUnlimited, randomPrompts: randomPrompts,

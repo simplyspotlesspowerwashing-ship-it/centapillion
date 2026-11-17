@@ -14,7 +14,8 @@
     return {
       settings: { muted: false, reduced: false, lowPower: false, typoCheck: true, clearRejected: false, digger: "classic" },
       daily: {}, archive: {}, archiveBest: {},
-      unlimited: { games: {}, best: {}, last: 0 }
+      unlimited: { games: {}, best: {}, last: 0 },
+      missed: []
     };
   }
   function loadStore() {
@@ -25,7 +26,8 @@
       return {
         settings: Object.assign(b.settings, s.settings || {}),
         daily: s.daily || {}, archive: s.archive || {}, archiveBest: s.archiveBest || {},
-        unlimited: Object.assign(b.unlimited, s.unlimited || {})
+        unlimited: Object.assign(b.unlimited, s.unlimited || {}),
+        missed: Array.isArray(s.missed) ? s.missed : []
       };
     } catch (e) { return b; }
   }
@@ -224,7 +226,7 @@
       A.play("submit");
       addAnswer(r.answer, raw);
       $("answer").value = "";
-      flashMsg("", "");
+      flashMsg(r.corrected ? "counted as “" + r.answer.name + "”" : "", r.corrected ? "ok" : "");
     } else if (r.status === "correction") {
       pendingCorrection = { from: raw, to: r.to };
       $("answer").value = r.to;
@@ -238,8 +240,25 @@
       scene.rejectFx();
       flashMsg("“" + raw + "” isn't in the dirt. try another", "bad");
       shakeDock();
+      logMiss(raw);
       rejectEntry();
     }
+  }
+
+  // Every rejected guess is kept (on this device) so missing answers can be added later.
+  function logMiss(raw) {
+    var p = curPrompt();
+    store.missed.push({ p: p.id, q: p.q, t: raw.slice(0, 80), at: now() });
+    if (store.missed.length > 500) store.missed.splice(0, store.missed.length - 500);
+    save();
+  }
+
+  function missedText() {
+    var by = {};
+    store.missed.forEach(function (m) { (by[m.q] = by[m.q] || {})[m.t.toLowerCase()] = m.t; });
+    return Object.keys(by).map(function (q) {
+      return q + ": " + Object.keys(by[q]).map(function (k) { return by[q][k]; }).join(", ");
+    }).join("\n");
   }
 
   function rejectEntry() {
@@ -745,11 +764,14 @@
         head.appendChild(el("span", null, T[t].name + " · " + T[t].score + " · " + found + "/" + list.length));
         row.appendChild(head);
         var names = el("div", "sheet-names");
-        list.forEach(function (a) {
+        // Long generated lists: show the player's answers plus the first 60.
+        var shown = list.filter(function (a, i) { return i < 60 || mine[a.id]; });
+        shown.forEach(function (a) {
           var n = el("span", "nm" + (mine[a.id] ? " you" : ""), a.name);
           if (a.quip) n.title = a.quip;
           names.appendChild(n);
         });
+        if (list.length > shown.length) names.appendChild(el("span", "nm more", "+" + (list.length - shown.length).toLocaleString("en-US") + " more"));
         row.appendChild(names);
         sec.appendChild(row);
       });
@@ -758,8 +780,8 @@
     return box;
   }
 
-  function copyResult(text) {
-    var ok = function () { toast("copied ✓"); var b = $("shareBtn"); if (b) b.textContent = "COPIED ✓"; };
+  function copyResult(text, btnId) {
+    var ok = function () { toast("copied ✓"); var b = $(btnId || "shareBtn"); if (b) b.textContent = "COPIED ✓"; };
     var fail = function () { toast("couldn't copy. select the text above"); };
     if (navigator.clipboard && navigator.clipboard.writeText) {
       navigator.clipboard.writeText(text).then(ok, function () { fallbackCopy(text) ? ok() : fail(); });
@@ -920,6 +942,20 @@
         dl.appendChild(b);
       });
       body.appendChild(dl);
+      body.appendChild(el("h3", null, "MISSED ANSWERS LOG"));
+      var uniq = {};
+      store.missed.forEach(function (m) { uniq[m.p + ":" + m.t.toLowerCase()] = 1; });
+      var nMiss = Object.keys(uniq).length;
+      body.appendChild(el("p", "dim small", nMiss ? nMiss + " guesses didn't count. Copy the list and send it in to get real answers added." : "Guesses that don't count are logged here so missing answers can be added."));
+      if (nMiss) {
+        var pre = el("pre", "share-preview missed-log", missedText());
+        pre.id = "missedLog";
+        body.appendChild(pre);
+        var mrow = el("div", "btn-row");
+        mrow.appendChild(button("COPY LOG", "btn-ghost", function () { copyResult(missedText(), "copyMissed"); }, "copyMissed"));
+        mrow.appendChild(button("CLEAR LOG", "btn-ghost", function () { store.missed = []; save(); openModal("settings"); }, "clearMissed"));
+        body.appendChild(mrow);
+      }
       var confirmBox = el("div", "confirm-box");
       var reset = button("Erase all progress", "btn-ghost danger", function () {
         confirmBox.innerHTML = "";
