@@ -1,218 +1,537 @@
 [
 [
 "Egypt",
-392
+392,
+[
+"Arab Rep. Egypt",
+"Arab Republic of Egypt",
+"Misr",
+"Rep. Egypt",
+"Republic of Egypt"
+]
 ],
 [
 "Algeria",
-374
+374,
+[
+"Djazaïr",
+"Dzayer",
+"People's Democratic Republic of Algeria"
+]
 ],
 [
 "South Africa",
-368
+368,
+[
+"Republic of South Africa",
+"R.S.A.",
+"RSA",
+"SA",
+"zaf"
+]
 ],
 [
 "Nigeria",
-349
+349,
+[
+"Federal Republic of Nigeria",
+"Naija"
+]
 ],
 [
 "Ethiopia",
-348
+348,
+[
+"et",
+"Federal Democratic Republic of Ethiopia"
+]
 ],
 [
 "Kenya",
-338
+338,
+[
+"ke",
+"Republic of Kenya"
+]
 ],
 [
 "Morocco",
-335
+335,
+[
+"al-Maġrib",
+"Kingdom of Morocco",
+"Lmaġrib",
+"Maroc",
+"Marocco"
+]
 ],
 [
 "Sudan",
-335
+335,
+[
+"al-Sudan",
+"as-Sudan",
+"as-Sūdān",
+"North Sudan",
+"Republic of Sudan",
+"Republic of the Sudan",
+"sd",
+"Soudan",
+"SUD",
+"the Sudan"
+]
 ],
 [
 "Democratic Republic of the Congo",
-335
+335,
+[
+"cd",
+"COD",
+"Congo (Kinshasa)",
+"Democratic Republic of Congo",
+"Dem. Rep. Congo",
+"Dem. Republic of Congo",
+"Dem. Republic of the Congo",
+"D.R.C.",
+"DRC",
+"DR Congo"
+]
 ],
 [
 "Libya",
-334
+334,
+[
+"LBA",
+"ly",
+"State of Libya"
+]
 ],
 [
 "Tunisia",
-329
+329,
+[
+"Republic of Tunisia",
+"tn",
+"Tunisian Republic"
+]
 ],
 [
 "Somalia",
-326
+326,
+[
+"Federal Republic of Somalia"
+]
 ],
 [
 "Ghana",
-326
+326,
+[]
 ],
 [
 "Angola",
-323
+323,
+[
+"ao",
+"Ngola",
+"Republic of Angola"
+]
 ],
 [
 "Madagascar",
-321
+321,
+[
+"Malagascar",
+"Malagaskar",
+"mg",
+"Republic of Madagascar"
+]
 ],
 [
 "Tanzania",
-321
+321,
+[
+"Tanzania, United Republic of",
+"tz",
+"tza",
+"United Republic of Tanganyika and Zanzibar",
+"United Republic of Tanzania"
+]
 ],
 [
 "Zimbabwe",
-320
+320,
+[
+"Republic of Zimbabwe",
+"Rhodesia",
+"Southern Rhodesia",
+"Zimbabwe Rhodesia"
+]
 ],
 [
 "Chad",
-319
+319,
+[
+"CHA",
+"GUM",
+"Republic of Chad",
+"td"
+]
 ],
 [
 "Namibia",
-317
+317,
+[
+"na",
+"Republic of Namibia"
+]
 ],
 [
 "Botswana",
-315
+315,
+[
+"bw",
+"Lefatshe la Botswana",
+"Republic of Botswana"
+]
 ],
 [
 "Ivory Coast",
-314
+314,
+[
+"ci",
+"Cote d'Ivoire",
+"Cote-d'Ivoire",
+"Côte-d'Ivoire",
+"Cote d'lvoire",
+"Cote Ivoire",
+"Republic of Cote d'Ivoire",
+"Republic of Côte d'Ivoire",
+"Republic of Ivory Coast",
+"Republic of the Ivory Coast",
+"The Ivory Coast"
+]
 ],
 [
 "Cameroon",
-314
+314,
+[
+"Republic of Cameroon"
+]
 ],
 [
 "Uganda",
-312
+312,
+[
+"+256",
+"Ouganda",
+"Pearl of Africa",
+"Republic of Uganda",
+"The Republic of Uganda",
+"ug",
+"Ugandah"
+]
 ],
 [
 "Mali",
-312
+312,
+[
+"ml",
+"Republic of Mali"
+]
 ],
 [
 "Senegal",
-309
+309,
+[
+"Republic of Senegal"
+]
 ],
 [
 "Zambia",
-309
+309,
+[
+"Republic of Zambia",
+"Zed"
+]
 ],
 [
 "Burkina Faso",
-309
+309,
+[
+"bf",
+"Republic of Burkina Faso",
+"Republic of Upper Volta (-1984)"
+]
 ],
 [
 "Eritrea",
-309
+309,
+[
+"er",
+"Ertrā",
+"Iritriyā",
+"State of Eritrea"
+]
 ],
 [
 "Benin",
-308
+308,
+[
+"Republic of Benin"
+]
 ],
 [
 "Mauritania",
-306
+306,
+[
+"Agawej",
+"Gannaar",
+"Gànnaar",
+"Islamic Republic of Mauritania",
+"Mauretania",
+"Moritani",
+"mr",
+"Muritanya",
+"Murutaane"
+]
 ],
 [
 "Burundi",
-304
+304,
+[
+"bi",
+"Gouvernement du Burundi",
+"Republic of Burundi",
+"Republika y'Uburundi"
+]
 ],
 [
 "Mozambique",
-303
+303,
+[
+"Moçambique",
+"mz",
+"República de Moçambique",
+"Republic of Mozambique"
+]
 ],
 [
 "Rwanda",
-303
+303,
+[
+"Republic of Rwanda",
+"The Land of a Thousand Hills"
+]
 ],
 [
 "Niger",
-302
+302,
+[
+"ne",
+"Republic Niger",
+"Republic of Niger",
+"Republic of the Niger",
+"The Niger"
+]
 ],
 [
 "Central African Republic",
-302
+302,
+[
+"Central Africa",
+"cf"
+]
 ],
 [
 "Togo",
-302
+302,
+[
+"tg",
+"Togolese Republic"
+]
 ],
 [
 "The Gambia",
-301
+301,
+[
+"Gambia",
+"Islamic Republic of the Gambia",
+"Republic of the Gambia"
+]
 ],
 [
 "Guinea",
-301
+301,
+[
+"gn",
+"GUI",
+"Guinea-Conakry",
+"Republic of Guinea"
+]
 ],
 [
 "Guinea-Bissau",
-300
+300,
+[
+"GBS",
+"gw",
+"Republic of Guinea-Bissau"
+]
 ],
 [
 "Republic of the Congo",
-300
+300,
+[
+"cg",
+"Congo (Brazzaville)",
+"Congo Republic",
+"Rep. Congo",
+"Republic of Congo",
+"Republique du Congo",
+"République du Congo"
+]
 ],
 [
 "Djibouti",
-300
+300,
+[
+"dj",
+"Gabuuti",
+"Jabuuti",
+"Jībūtī",
+"Republic of Djibouti"
+]
 ],
 [
 "Malawi",
-298
+298,
+[
+"MAW",
+"mw",
+"Republic of Malawi"
+]
 ],
 [
 "Gabon",
-296
+296,
+[
+"ga",
+"GAB",
+"Gabonese Republic",
+"Republique Gabonaise",
+"République Gabonaise"
+]
 ],
 [
 "Sierra Leone",
-294
+294,
+[
+"Republic of Sierra Leone",
+"sl",
+"SLE"
+]
 ],
 [
 "Cape Verde",
-292
+292,
+[
+"Cape Verde Islands",
+"Republic of Cabo Verde",
+"Republic of Cape Verde"
+]
 ],
 [
 "Liberia",
-292
+292,
+[
+"Liber",
+"lr",
+"Republic of Liberia"
+]
 ],
 [
 "Eswatini",
-287
+287,
+[
+"eSwatini",
+"Kingdom of Swaziland",
+"sz",
+"Umbuso weSwatini"
+]
 ],
 [
 "Mauritius",
-285
+285,
+[
+"Maurice",
+"Moris",
+"MRI",
+"MU",
+"Republic of Mauritius"
+]
 ],
 [
 "Equatorial Guinea",
-285
+285,
+[
+"GEQ",
+"gq",
+"Republic of Equatorial Guinea"
+]
 ],
 [
 "Comoros",
-284
+284,
+[
+"al-Ittiḥād al-Qumurī",
+"Juzur al-Qamar",
+"Juzur al-Qumur",
+"km",
+"Massiwa ya komori",
+"ouvoimoja wakomori",
+"the Comoros",
+"Udzima wa Komori",
+"Union des Comores",
+"Union of the Comoros"
+]
 ],
 [
 "South Sudan",
-283
+283,
+[
+"Republic of South Sudan",
+"Southern Sudan",
+"ss"
+]
 ],
 [
 "Lesotho",
-282
+282,
+[
+"Kingdom of Lesotho",
+"LES",
+"ls",
+"The Mountain Kingdom"
+]
 ],
 [
 "Seychelles",
-278
+278,
+[
+"Republic of Seychelles",
+"sc",
+"SEY"
+]
 ],
 [
 "São Tomé and Príncipe",
-274
+274,
+[
+"Democratic Republic of São Tomé and Príncipe",
+"Sao Tome and Principe",
+"São Tomé og Príncipe",
+"Sao Tome & Principe",
+"st"
+]
 ]
 ]

@@ -130,11 +130,34 @@
     if (location.hash === hash) boot(); else location.hash = hash;
   }
 
+  // Answer lists live in one file per prompt (js/answers/<id>.js); load the ones this game needs.
+  var loadedAnswers = {};
+  function loadAnswers(ids, done) {
+    var need = ids.filter(function (id) { return !loadedAnswers[id] && !(CP.EXTRA && CP.EXTRA[id]); });
+    var left = need.length, finished = false;
+    var end = function () { if (!finished) { finished = true; done(); } };
+    if (!left) return end();
+    var t = setTimeout(end, 10000);
+    need.forEach(function (id) {
+      var sc = document.createElement("script");
+      sc.src = "js/answers/" + id + ".js";
+      sc.async = true;
+      sc.onload = sc.onerror = function () { loadedAnswers[id] = true; E.invalidate(id); if (--left === 0) { clearTimeout(t); end(); } };
+      document.head.appendChild(sc);
+    });
+  }
+
+  var bootToken = 0;
   function boot() {
     stopTick();
     closeModal();
     game = gameFor(parseRoute());
     prompts = game.promptIds.map(function (id) { return BY_ID[id]; });
+    var token = ++bootToken;
+    loadAnswers(game.promptIds, function () { if (token === bootToken) bootReady(); });
+  }
+
+  function bootReady() {
     save();
     scene.reset();
     if (game.phase !== "intro") {

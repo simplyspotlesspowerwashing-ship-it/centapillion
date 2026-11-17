@@ -1,0 +1,114 @@
+Stovepipe Hat=stovepipe
+Bobble Hat
+Fisherman Hat
+Tam=tam o'shanter
+Balmoral
+Campaign Hat
+Bush Hat
+Sola Topi
+Tarboosh
+Aviator Hat
+Kalpak
+Gaucho Hat
+Bolero Hat
+Montera
+Cordobés
+Chupalla
+Sombrero Vueltiao
+Vaquero Hat
+Boonie Hat
+Jungle Hat
+Safari Hat
+Sou'wester
+Rain Hat
+Watch Cap
+Knit Cap
+Stocking Cap
+Ski Hat
+Pom Pom Hat
+Earflap Hat
+Lumberjack Hat
+Coonskin Cap
+Raccoon Hat
+Fur Hat
+Astrakhan
+Papakha
+Kubanka
+Budenovka
+Peaked Cap
+Visor Cap
+Sun Visor
+Golf Cap
+Painter's Cap
+Engineer Cap
+Train Conductor Hat
+Captain's Hat
+Skipper Cap
+Pilot Cap
+Nurse's Cap
+Surgical Cap
+Hairnet
+Shower Cap
+Sleeping Cap
+Jester Hat
+Fool's Cap
+Santa Hat
+Elf Hat
+Pirate Hat
+Wizard Hat
+Propeller Beanie
+Cat Ear Hat
+Trapper
+Chullo
+Bowler
+Coke Hat
+Billycock
+Derby
+Topper
+Opera Hat
+Gibus
+Collapsible Top Hat
+Straw Boater
+Skimmer
+Canotier
+Gondolier Hat
+Bergère
+Picture Hat
+Cartwheel Hat
+Garden Hat
+Floppy Hat
+Wide-brimmed Hat
+Kentucky Derby Hat
+Church Hat
+Tiara
+Diadem
+Circlet
+Coronet
+Headdress
+War Bonnet
+Feather Headdress
+Turban
+Dastar
+Pagri
+Gele
+Headwrap
+Durag
+Kufi
+Taqiyah
+Fez
+Kippah
+Shtreimel
+Spodik
+Kolpik
+Mitre
+Zucchetto
+Skullcap
+Biretta
+Camauro
+Papal Tiara
+Kamilavka
+Klobuk
+Calotte
+Galero
+Cappello Romano
+Saturno

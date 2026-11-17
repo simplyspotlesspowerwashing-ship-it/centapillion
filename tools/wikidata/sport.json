@@ -1,394 +1,2212 @@
 [
 [
 "baseball",
-158
+158,
+[
+"⚾",
+"America's pastime"
+]
 ],
 [
 "Formula One",
-146
+146,
+[
+"FIA Formula One World Championship",
+"The Formula One race team"
+]
 ],
 [
 "handball",
-130
+130,
+[
+"borden ball",
+"european handball",
+"European handball",
+"european team handball",
+"olympic handball",
+"team handball"
+]
 ],
 [
 "cycling",
-111
+111,
+[
+"bicycling",
+"biking"
+]
 ],
 [
 "gymnastics",
-109
+109,
+[]
 ],
 [
 "running",
-107
+107,
+[
+"running (sport)"
+]
 ],
 [
 "cue sports",
-94
+94,
+[
+"billiards",
+"billiard sports",
+"cuesports",
+"cue sports, billiard sports"
+]
 ],
 [
 "hiking",
-76
+76,
+[
+"bushwalking",
+"leisure hiking",
+"recreational hiking",
+"tramping"
+]
 ],
 [
 "shooting sports",
-73
+73,
+[
+"shooting sport",
+"sport shooting",
+"sports shooting"
+]
 ],
 [
 "softball",
-69
+69,
+[]
 ],
 [
 "underwater diving",
-66
+66,
+[
+"dive",
+"diving"
+]
 ],
 [
 "speleology",
-63
+63,
+[
+"cave science",
+"spelaeology",
+"spelæology"
+]
 ],
 [
 "kung fu",
-63
+63,
+[
+"Gongfu"
+]
 ],
 [
 "cycle sport",
-63
+63,
+[
+"bicycle sport",
+"bike sport",
+"cycling sport",
+"cycling sports",
+"sport cycling",
+"sports cycling"
+]
 ],
 [
 "falconry",
-60
+60,
+[
+"hawking"
+]
 ],
 [
 "winter sport",
-59
+59,
+[
+"wintersport",
+"winter sports",
+"wintersports"
+]
 ],
 [
 "esports",
-59
+59,
+[
+"cyber-sport",
+"cybersport",
+"electronic sports",
+"e-sport",
+"e-sports",
+"pro gaming"
+]
 ],
 [
 "short-track speed skating",
-57
+57,
+[
+"short track skating",
+"short track speed skating",
+"short track speedskating"
+]
 ],
 [
 "team sport",
-57
+57,
+[
+"team games (sports)"
+]
 ],
 [
 "motorsport",
-55
+55,
+[
+"motor racing",
+"motor sport",
+"motor sports",
+"motorsports"
+]
 ],
 [
 "100 metres",
-54
+54,
+[
+"100 m",
+"100 meter",
+"100 meters",
+"100 metre",
+"100-metre dash",
+"100-metre run",
+"100 metres, 100-metre dash",
+"100 metres dash",
+"100 metres run"
+]
 ],
 [
 "skipping rope",
-51
+51,
+[
+"jump rope",
+"rope skipping"
+]
 ],
 [
 "qigong",
-48
+48,
+[
+"chi gung",
+"chi kung"
+]
 ],
 [
 "extreme sport",
-48
+48,
+[
+"action sports",
+"extreme sports"
+]
 ],
 [
 "bicycle touring",
-48
+48,
+[
+"cycling holiday",
+"cycling tourism",
+"cyclotourism"
+]
 ],
 [
 "water sport",
-47
+47,
+[
+"aquatics",
+"aquatic sports",
+"water sports",
+"watersports"
+]
 ],
 [
 "ballroom dance",
-46
+46,
+[
+"competitive ballroom dance"
+]
 ],
 [
 "squat",
-46
+46,
+[
+"dřep"
+]
 ],
 [
 "freediving",
-44
+44,
+[
+"apnea diving",
+"breath-hold diving",
+"free diving",
+"skin diving",
+"snorkel diving"
+]
 ],
 [
 "racing",
-43
+43,
+[
+"race",
+"racing competition",
+"racing contest"
+]
 ],
 [
 "ball game",
-42
+42,
+[
+"ball sport"
+]
 ],
 [
 "equestrian sport",
-40
+40,
+[]
 ],
 [
 "shatranj",
-39
+39,
+[
+"chatrang",
+"mansubat"
+]
 ],
 [
 "chariot racing",
-38
+38,
+[]
 ],
 [
 "recreational fishing",
-36
+36,
+[
+"game fishing",
+"sport fishery",
+"sport fishing"
+]
 ],
 [
 "national sport",
-35
+35,
+[
+"national pastime"
+]
 ],
 [
 "dancesport",
-35
+35,
+[
+"sport dance"
+]
 ],
 [
 "Para sport",
-35
+35,
+[
+"adaptive sport",
+"disability sport",
+"disabled sports",
+"Parasport",
+"Sport for Persons with Disabilities",
+"Sports for Persons with Disabilities"
+]
 ],
 [
 "aerial sport",
-34
+34,
+[
+"air sport"
+]
 ],
 [
 "open water swimming",
-33
+33,
+[
+"wild swimming"
+]
 ],
 [
 "slacklining",
-32
+32,
+[]
 ],
 [
 "women's sports",
-31
+31,
+[
+"ladies' sport",
+"ladies' sports",
+"women's sport"
+]
 ],
 [
 "fly fishing",
-30
+30,
+[]
 ],
 [
 "professional sport",
-29
+29,
+[
+"professionalism in sports",
+"professional sports",
+"pro sport",
+"pro sports"
+]
 ],
 [
 "ancient Greek boxing",
-29
+29,
+[]
 ],
 [
 "kemari",
-28
+28,
+[]
 ],
 [
 "Jallikattu",
-28
+28,
+[
+"Eru thazhuvuthal",
+"Manju virattu",
+"Sallikkattu"
+]
 ],
 [
 "street workout",
-26
+26,
+[]
 ],
 [
 "Shitō-ryū",
-26
+26,
+[]
 ],
 [
 "kho kho",
-26
+26,
+[
+"kho-kho"
+]
 ],
 [
 "inline hockey",
-26
+26,
+[
+"in-line roller hockey",
+"inline roller hockey",
+"roller hockey",
+"roller in-line hockey",
+"roller inline hockey"
+]
 ],
 [
 "freerunning",
-25
+25,
+[]
 ],
 [
 "blood sport",
-25
+25,
+[
+"bloodsport",
+"blood sports",
+"bloodsports"
+]
 ],
 [
 "Okinawan kobudō",
-24
+24,
+[]
 ],
 [
 "Harpastum",
-24
+24,
+[
+"Harpustum"
+]
 ],
 [
 "spearfishing",
-24
+24,
+[
+"spear fishing"
+]
 ],
 [
 "Jōdō",
-23
+23,
+[]
 ],
 [
 "Vovinam",
-22
+22,
+[
+"Việt võ đạo"
+]
 ],
 [
 "pahlevani and zurkhaneh rituals",
-22
+22,
+[
+"Kushti"
+]
 ],
 [
 "clay pigeon shooting",
-22
+22,
+[
+"clay target shooting",
+"Flight Shooting",
+"inanimate Bird Shooting"
+]
 ],
 [
 "Francombat",
-21
+21,
+[]
 ],
 [
 "Turkish archery",
-21
+21,
+[]
 ],
 [
 "bull-leaping",
-21
+21,
+[]
 ],
 [
 "extreme ironing",
-21
+21,
+[]
 ],
 [
 "Bo-Taoshi",
-21
+21,
+[]
 ],
 [
 "Fierljeppen",
-20
+20,
+[]
 ],
 [
 "hoop rolling",
-20
+20,
+[
+"hoop and stick",
+"hoop trundling"
+]
 ],
 [
 "individual sport",
-20
+20,
+[
+"individual sports"
+]
 ],
 [
 "FIA Formula 4",
-20
+20,
+[
+"FIA F4",
+"Formula 4"
+]
 ],
 [
 "pigeon racing",
-20
+20,
+[]
 ],
 [
 "indiaca",
-20
+20,
+[]
 ],
 [
 "land sailing",
-20
+20,
+[
+"landsailing",
+"land yacht",
+"sail wagon",
+"sand yacht",
+"wagons powered by the wind",
+"wind wagon"
+]
 ],
 [
 "Kyz kuu",
-19
+19,
+[]
 ],
 [
 "equitation",
-19
+19,
+[
+"horse riding position",
+"horse riding posture"
+]
 ],
 [
 "Kings League",
-18
+18,
+[
+"Kings League Infojobs"
+]
 ],
 [
 "trekking",
-18
+18,
+[]
 ],
 [
 "street hockey",
-18
+18,
+[
+"ball hockey",
+"dek hockey",
+"road hockey",
+"streethockey"
+]
 ],
 [
 "pato",
-18
+18,
+[
+"juego del pato",
+"juego de pato"
+]
 ],
 [
 "professional boxing",
-18
+18,
+[
+"boxing",
+"prizefighting"
+]
 ],
 [
 "bocce",
-17
+17,
+[
+"bocci",
+"boccie"
+]
 ],
 [
 "mountainboarding",
-17
+17,
+[]
 ],
 [
 "Chinlone",
-17
+17,
+[
+"Chinlon"
+]
 ],
 [
 "bodyboarding",
-17
+17,
+[
+"boogieboarding"
+]
 ],
 [
 "Reining",
-16
+16,
+[]
 ],
 [
 "combined driving",
-16
+16,
+[]
 ],
 [
 "snatch",
-16
+16,
+[]
 ],
 [
 "tent pegging",
-16
+16,
+[]
 ],
 [
 "dog sport",
-16
+16,
+[]
 ],
 [
 "Big Bash League",
-16
+16,
+[
+"BBL",
+"Big Bash Cricket",
+"Big Bash Cricket League",
+"KFC Big Bash",
+"KFC Big Bash League"
+]
 ],
 [
 "baton twirling",
-16
+16,
+[
+"twirling"
+]
 ],
 [
 "BoxRec",
-16
+16,
+[
+"BoxRec.com"
+]
 ],
 [
 "cornhole",
-15
+15,
+[
+"baggo",
+"bags",
+"bags game",
+"bag toss",
+"bean bag",
+"bean bag toss",
+"bean in the hole",
+"corn hole",
+"corn toss",
+"dadhole",
+"doghouse",
+"dummy boards",
+"hillbilly toss",
+"Indiana horseshoes",
+"ramps",
+"sacks",
+"sack toss",
+"soft horseshoes",
+"tailgate toss"
+]
 ],
 [
 "rackets",
-15
+15,
+[
+"racquets"
+]
 ],
 [
 "Jogo do Pau",
-15
+15,
+[
+"Xogo do pau",
+"棍弄",
+"棍戲",
+"葡萄牙棍術"
+]
 ],
 [
 "freeriding",
-15
+15,
+[
+"backcountry skiing"
+]
 ],
 [
 "sports tourism",
-15
+15,
+[
+"spectator sports tourism",
+"sporting event tourism",
+"sport tourism"
+]
 ],
 [
 "bodysurfing",
-15
+15,
+[]
 ],
 [
 "canicross",
-15
+15,
+[
+"cani-cross",
+"CaniX",
+"carting",
+"dryland mushing"
+]
+],
+[
+"life saving as a sport",
+14,
+[
+"Lifesaving",
+"lifesaving as a sport"
+]
+],
+[
+"gravel bike",
+14,
+[
+"adventure bike",
+"all-road bike",
+"gravel road bike"
+]
+],
+[
+"Hobby horsing",
+14,
+[]
+],
+[
+"sport in Europe",
+14,
+[
+"European sport",
+"European sports",
+"Europe sports",
+"sporting in Europe",
+"sports in Europe",
+"sports of Europe"
+]
+],
+[
+"casting",
+14,
+[]
+],
+[
+"worm charming",
+13,
+[
+"earthworm charming",
+"worm fiddling",
+"worm grunting"
+]
+],
+[
+"knife throwing",
+13,
+[
+"knife sport",
+"knife-throwing",
+"throwing knives"
+]
+],
+[
+"contact sport",
+13,
+[]
+],
+[
+"scorpion kick",
+13,
+[
+"back hammer kick",
+"reverse bicycle kick"
+]
+],
+[
+"Valencian pilota",
+13,
+[]
+],
+[
+"Charreada",
+13,
+[
+"charrería"
+]
+],
+[
+"Medieval football",
+13,
+[
+"folk football",
+"mob football",
+"Shrovetide football"
+]
+],
+[
+"TeamGym",
+13,
+[]
+],
+[
+"Formula 5000",
+13,
+[]
+],
+[
+"Woodball",
+13,
+[]
+],
+[
+"animal sports",
+12,
+[
+"animal sport"
+]
+],
+[
+"amateur sports",
+12,
+[
+"amateur sport"
+]
+],
+[
+"sport in Asia",
+12,
+[
+"Asia sports",
+"sporting in Asia",
+"sports in Asia",
+"sports of Asia"
+]
+],
+[
+"radiosport",
+12,
+[]
+],
+[
+"Kronum",
+12,
+[]
+],
+[
+"Shoot boxing",
+12,
+[]
+],
+[
+"pigeon keeping",
+12,
+[]
+],
+[
+"roundnet",
+12,
+[
+"spikeball"
+]
+],
+[
+"Formula Regional",
+12,
+[]
+],
+[
+"Freestyle slalom skating",
+11,
+[
+"Freestyle slalom",
+"Inline freestyle"
+]
+],
+[
+"oină",
+11,
+[
+"hoina",
+"hoină",
+"oina"
+]
+],
+[
+"roller sport",
+11,
+[
+"roller sports"
+]
+],
+[
+"racket sport",
+11,
+[
+"racket sports",
+"racquet sport",
+"racquet sports"
+]
+],
+[
+"Ski touring",
+11,
+[
+"Skitouring"
+]
+],
+[
+"tower running",
+11,
+[]
+],
+[
+"tag rugby",
+11,
+[
+"flag rugby"
+]
+],
+[
+"athletics",
+10,
+[
+"athletic culture",
+"athletic physical culture"
+]
+],
+[
+"fire-fighting sport",
+10,
+[
+"fire sport"
+]
+],
+[
+"competitive sport",
+10,
+[
+"elite sport",
+"high performance sport",
+"performance sport"
+]
+],
+[
+"Punjabi Kabaddi",
+10,
+[
+"circle style kabaddi"
+]
+],
+[
+"Ringo",
+10,
+[]
+],
+[
+"ultra-distance cycling",
+10,
+[
+"long-distance cycling",
+"ultracycling"
+]
+],
+[
+"spectator sport",
+10,
+[]
+],
+[
+"paddleboarding",
+10,
+[]
+],
+[
+"fighter kite",
+10,
+[]
+],
+[
+"playboating",
+10,
+[
+"Canoe freestyle",
+"Freestyle canoeing",
+"Freestyle kayaking",
+"Kayak freestyle"
+]
+],
+[
+"trail riding",
+9,
+[
+"Equiturismo"
+]
+],
+[
+"Lucha del Garrote",
+9,
+[]
+],
+[
+"Lekan Salami Stadium",
+9,
+[]
+],
+[
+"Dambe",
+9,
+[]
+],
+[
+"Yak racing",
+9,
+[]
+],
+[
+"beach golf",
+9,
+[]
+],
+[
+"dry-tooling",
+9,
+[
+"D-grade climbing",
+"dry tooling",
+"drytooling",
+"mixed climbing"
+]
+],
+[
+"sport in Africa",
+9,
+[
+"Africa sports",
+"sporting in Africa",
+"sports in Africa",
+"sports of Africa"
+]
+],
+[
+"tōgyū",
+9,
+[]
+],
+[
+"Brännboll",
+9,
+[]
+],
+[
+"fast draw",
+8,
+[
+"quick draw"
+]
+],
+[
+"Gymkhana",
+8,
+[
+"Gymkana"
+]
+],
+[
+"Lathi khela",
+8,
+[]
+],
+[
+"wakeskating",
+8,
+[]
+],
+[
+"Camargue bullfighting",
+8,
+[
+"course camarguaise",
+"Provencal bullfighting",
+"Provençal bullfighting"
+]
+],
+[
+"mixed-sex sports",
+8,
+[
+"coed sports",
+"mixed-gender sports",
+"mixed sport",
+"mixed sport discipline",
+"mixed sports",
+"mixed sports discipline"
+]
+],
+[
+"Pole climbing",
+8,
+[]
+],
+[
+"sport in ancient Greece",
+8,
+[
+"ancient Greece sports",
+"sporting in ancient Greece",
+"sports in ancient Greece",
+"sports of ancient Greece"
+]
+],
+[
+"youth sports",
+8,
+[]
+],
+[
+"Combat de Reines",
+8,
+[]
+],
+[
+"boardsport",
+8,
+[
+"boarding sport",
+"boarding sports",
+"board sport",
+"board sports",
+"boardsports"
+]
+],
+[
+"koppōjutsu",
+8,
+[
+"koppo-jutsu",
+"koppojutsu",
+"koppō-jutsu",
+"koppo-ken",
+"koppoken",
+"koppō-ken",
+"koppōken"
+]
+],
+[
+"peteca",
+7,
+[]
+],
+[
+"pitch and putt",
+7,
+[]
+],
+[
+"rollball",
+7,
+[]
+],
+[
+"xare",
+7,
+[]
+],
+[
+"Calva",
+7,
+[]
+],
+[
+"Pahlevani wrestling",
+7,
+[
+"Iranian wrestling",
+"Koshti Pahlavāni",
+"Pahlavani",
+"Pahlavāni",
+"Pahlavāni wrestling"
+]
+],
+[
+"strength sport",
+7,
+[
+"power sport"
+]
+],
+[
+"model aircraft sports",
+7,
+[
+"aeromodelling sports",
+"aircraft model sports"
+]
+],
+[
+"Cornish wrestling",
+7,
+[]
+],
+[
+"Caribbean Premier League",
+7,
+[
+"Caribbean Cricket",
+"Caribbean Cricket League",
+"CPL",
+"CPL T20",
+"CPLT20"
+]
+],
+[
+"sport in South America",
+7,
+[
+"South America sports",
+"sporting in South America",
+"sports in South America",
+"sports of South America"
+]
+],
+[
+"indoor sport",
+7,
+[
+"indoor games and sports",
+"indoor sports"
+]
+],
+[
+"Basque rural sports",
+7,
+[]
+],
+[
+"military sports",
+7,
+[]
+],
+[
+"axe throwing",
+7,
+[]
+],
+[
+"mountain sport",
+7,
+[
+"alpine sport"
+]
+],
+[
+"cat agility",
+6,
+[
+"feline agility"
+]
+],
+[
+"flight figure",
+6,
+[]
+],
+[
+"hamster racing",
+6,
+[]
+],
+[
+"Aikibudo",
+6,
+[]
+],
+[
+"Bugatti Type 44",
+6,
+[]
+],
+[
+"rabbiting",
+6,
+[
+"cottontail hunting",
+"rabbit hunting"
+]
+],
+[
+"street sports",
+6,
+[
+"urban sport"
+]
+],
+[
+"Flag throwing",
+6,
+[]
+],
+[
+"ladies' Gaelic football",
+6,
+[]
+],
+[
+"intramural sports",
+6,
+[
+"intramural",
+"intramurals"
+]
+],
+[
+"Takurt",
+6,
+[]
+],
+[
+"ball hockey",
+6,
+[
+"street hockey"
+]
+],
+[
+"blind cricket",
+6,
+[]
+],
+[
+"football in Indonesia",
+6,
+[
+"Association football in Indonesia",
+"Football in Indonesia",
+"Indonesia football",
+"Indonesian association football",
+"Indonesian football",
+"Indonesian soccer",
+"Soccer in Indonesia"
+]
+],
+[
+"pedestrianism",
+6,
+[
+"walking matches"
+]
+],
+[
+"Sagol Kangjei",
+5,
+[]
+],
+[
+"Jukskei",
+5,
+[]
+],
+[
+"throwing sport",
+5,
+[
+"throwing sports"
+]
+],
+[
+"solar car racing",
+5,
+[]
+],
+[
+"company sports",
+5,
+[]
+],
+[
+"flowriding",
+5,
+[
+"flowboarding"
+]
+],
+[
+"international sport",
+5,
+[
+"international sports"
+]
+],
+[
+"Tocatì",
+5,
+[
+"Pljočkanje",
+"Tocatì, a shared programme for the safeguarding of traditional games and sports"
+]
+],
+[
+"Balle à la main",
+5,
+[]
+],
+[
+"sheaf toss",
+5,
+[]
+],
+[
+"Varpa",
+5,
+[]
+],
+[
+"rowing in the Faroe Islands",
+5,
+[]
+],
+[
+"outrigger ski",
+5,
+[
+"monoskibob",
+"outrigger skis"
+]
+],
+[
+"Tenkara fishing",
+5,
+[]
+],
+[
+"freak show fight",
+5,
+[
+"freak fight",
+"freak-fight"
+]
+],
+[
+"artistic fencing",
+5,
+[]
+],
+[
+"diving chess",
+5,
+[
+"dive chess"
+]
+],
+[
+"Nordic shooting with cross-country running",
+4,
+[
+"running biathlon"
+]
+],
+[
+"Socca",
+4,
+[
+"six-a-side football"
+]
+],
+[
+"senior sport",
+4,
+[
+"master's sport",
+"masters sport",
+"senior sports",
+"veteran sports"
+]
+],
+[
+"futins",
+4,
+[
+"football skating",
+"roller foot",
+"roller football",
+"roller soccer"
+]
+],
+[
+"Elle (sport)",
+4,
+[]
+],
+[
+"Ploughing match",
+4,
+[]
+],
+[
+"goat racing",
+4,
+[]
+],
+[
+"Tambourelli",
+4,
+[]
+],
+[
+"Chaza",
+4,
+[]
+],
+[
+"ice canoeing",
+4,
+[]
+],
+[
+"Fiorentina Waterpolo",
+4,
+[]
+],
+[
+"pond hockey",
+4,
+[]
+],
+[
+"Hōlua",
+4,
+[
+"Hawaiian lava sledding",
+"He'e holua",
+"Hee holua",
+"Heʻe hōlua",
+"Holua"
+]
+],
+[
+"Waveski",
+4,
+[]
+],
+[
+"Tsan",
+4,
+[]
+],
+[
+"Wallyball",
+4,
+[
+"rebound volleyball"
+]
+],
+[
+"Khmer traditional wrestling",
+4,
+[
+"Baok Cham Bab"
+]
+],
+[
+"Mondio Ring",
+4,
+[
+"Mondioring"
+]
+],
+[
+"competitive yoga",
+4,
+[
+"yoga sport"
+]
+],
+[
+"Bodyshaping",
+4,
+[]
+],
+[
+"combat",
+4,
+[
+"combat juggling"
+]
+],
+[
+"Duckpin bowling",
+4,
+[]
+],
+[
+"haggis hurling",
+4,
+[]
+],
+[
+"fight stick",
+4,
+[]
+],
+[
+"Logrolling",
+4,
+[]
+],
+[
+"deaf sport",
+3,
+[]
+],
+[
+"para surfing",
+3,
+[
+"adaptive surfing"
+]
+],
+[
+"Errebotea",
+3,
+[]
+],
+[
+"rope skipping",
+3,
+[]
+],
+[
+"hunting by cheetah",
+3,
+[
+"cheetah coursing",
+"hunting with cheetahs"
+]
+],
+[
+"Fox Oring",
+3,
+[]
+],
+[
+"Hestavíg",
+3,
+[]
+],
+[
+"Bull Surfing",
+3,
+[]
+],
+[
+"Langdi",
+3,
+[]
+],
+[
+"Swiss national sports",
+3,
+[]
+],
+[
+"Nzango",
+3,
+[]
+],
+[
+"Chelishish",
+3,
+[]
+],
+[
+"kneeboarding",
+3,
+[]
+],
+[
+"Barette",
+3,
+[]
+],
+[
+"Cracher de bigorneau",
+3,
+[]
+],
+[
+"Thai kites",
+3,
+[]
+],
+[
+"outdoor sports",
+3,
+[]
+],
+[
+"Surr",
+3,
+[]
+],
+[
+"Road tennis",
+3,
+[]
+],
+[
+"Under-18 athletics",
+3,
+[]
+],
+[
+"mob football",
+3,
+[]
+],
+[
+"sport crossbow shooting",
+3,
+[
+"crossbow shooting"
+]
+],
+[
+"Aunt Sally",
+3,
+[]
+],
+[
+"Australian handball",
+3,
+[]
+],
+[
+"recreational sport",
+3,
+[
+"recreational sports"
+]
+],
+[
+"Gena",
+3,
+[
+"Qarsa"
+]
+],
+[
+"Carriage driving",
+3,
+[]
+],
+[
+"Footbag net",
+3,
+[]
+],
+[
+"duck netting",
+3,
+[]
+],
+[
+"Colpbol",
+3,
+[]
+],
+[
+"Highline",
+3,
+[
+"highlining"
+]
+],
+[
+"workers' sport",
+3,
+[
+"workers' sports"
+]
+],
+[
+"locksport",
+3,
+[]
+],
+[
+"Nigerian records in athletics",
+3,
+[]
+],
+[
+"Pig wrestling",
+3,
+[]
+],
+[
+"Rock-It-Ball",
+3,
+[
+"VX",
+"VX (sport)"
+]
+],
+[
+"sport diving",
+3,
+[]
+],
+[
+"sports in Seattle",
+3,
+[
+"sport in Seattle"
+]
+],
+[
+"trick roping",
+3,
+[]
+],
+[
+"Shinai Kyogi",
+3,
+[]
+],
+[
+"wheelchair hockey",
+2,
+[]
+],
+[
+"Hike and Fly",
+2,
+[
+"H&F",
+"Hike & Fly",
+"Hike&Fly"
+]
+],
+[
+"lifelong sport",
+2,
+[]
+],
+[
+"Neppis",
+2,
+[]
+],
+[
+"Walking netball",
+2,
+[]
+],
+[
+"ferreting",
+2,
+[]
+],
+[
+"fun sport",
+2,
+[]
+],
+[
+"endurance sport",
+2,
+[]
+],
+[
+"Speed skydiving",
+2,
+[]
+],
+[
+"ITHF table hockey",
+2,
+[
+"table hockey"
+]
+],
+[
+"Fenerbahçe Swimming",
+2,
+[]
+],
+[
+"twirling",
+2,
+[]
+],
+[
+"Nationalism and sport",
+2,
+[]
+],
+[
+"tarraca",
+2,
+[
+"Tarracá"
+]
+],
+[
+"Catalan bowling",
+2,
+[]
+],
+[
+"Steenwerpen",
+2,
+[]
+],
+[
+"Carom pentathlons",
+2,
+[]
+],
+[
+"Inshore powerboat racing",
+2,
+[]
+],
+[
+"free flight",
+2,
+[]
+],
+[
+"beach korfball",
+2,
+[]
+],
+[
+"frontball",
+2,
+[]
+],
+[
+"tombstoning",
+2,
+[]
+],
+[
+"Nordic Field Biathlon",
+2,
+[]
+],
+[
+"traditional Breton games",
+2,
+[]
+],
+[
+"ice sport",
+2,
+[
+"ice sports",
+"sport on ice",
+"sports on ice"
+]
+],
+[
+"eight-pin bowling",
+2,
+[]
+],
+[
+"Francophone Scrabble",
+2,
+[]
+],
+[
+"Shou Bo",
+2,
+[]
+],
+[
+"sports in Detroit",
+2,
+[
+"Detroit sports",
+"sport in Detroit",
+"sporting in Detroit",
+"sports of Detroit"
+]
+],
+[
+"Va'a",
+2,
+[]
+],
+[
+"men's sports",
+2,
+[
+"men sports",
+"men's sport",
+"mens sports"
+]
+],
+[
+"Fitbox",
+2,
+[
+"Fit-box"
+]
+],
+[
+"Balloon",
+2,
+[
+"Balloon-ball",
+"Baloun",
+"Follis",
+"Wind-ball"
+]
+],
+[
+"karatedo",
+2,
+[]
+],
+[
+"hybrid sport",
+2,
+[]
+],
+[
+"multisport sport",
+2,
+[
+"combined sports",
+"multisport"
+]
+],
+[
+"game-based sport",
+2,
+[
+"game sport"
+]
+],
+[
+"Trofi-red",
+2,
+[]
+],
+[
+"angleball",
+2,
+[]
+],
+[
+"One leg rowing",
+2,
+[]
+],
+[
+"Blue",
+2,
+[]
+],
+[
+"Bovine sports",
+2,
+[]
+],
+[
+"Cheating at the Paralympic Games",
+2,
+[]
+],
+[
+"Dinghy racing",
+2,
+[]
+],
+[
+"adventure sport",
+2,
+[]
+],
+[
+"FIK BFG Fana",
+2,
+[]
+],
+[
+"frog jumping contest",
+2,
+[]
+],
+[
+"kite flying",
+2,
+[
+"kite-flying"
+]
+],
+[
+"Hydroplane racing",
+2,
+[]
+],
+[
+"Rayuela",
+2,
+[]
+],
+[
+"Kudu dung spitting",
+2,
+[]
+],
+[
+"MLW Battle Riot",
+2,
+[
+"Battle Riot"
+]
+],
+[
+"màdel",
+2,
+[]
+],
+[
+"paddle-ball",
+2,
+[]
+],
+[
+"pigeon sport",
+2,
+[
+"colombophilia"
+]
+],
+[
+"tobacco usage in sport",
+2,
+[]
+],
+[
+"Trugo",
+2,
+[]
+],
+[
+"Speedgate",
+2,
+[]
+],
+[
+"Vintage base ball",
+2,
+[]
+],
+[
+"Dog Puller",
+2,
+[]
 ]
 ]

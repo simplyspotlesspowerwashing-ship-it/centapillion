@@ -1,3066 +1,2900 @@
 [
 [
 "dodo",
-117
-],
+117,
 [
-"Dodo",
-117
+"Dodo"
+]
 ],
 [
 "Tasmanian tiger",
-96
-],
+96,
 [
 "Tasmanian wolf",
-96
-],
-[
-"Thylacine",
-96
+"Thylacine"
+]
 ],
 [
 "Aurochs",
-80
+80,
+[]
 ],
 [
 "Great Auk",
-67
+67,
+[]
 ],
 [
 "Passenger Pigeon",
-66
+66,
+[]
 ],
 [
 "quagga",
-65
+65,
+[]
 ],
 [
 "Bali Tiger",
-60
+60,
+[]
 ],
 [
 "culo mojao",
-59
-],
+59,
 [
 "Hyrcanian Tiger",
-59
-],
-[
-"Turan Tiger",
-59
+"Turan Tiger"
+]
 ],
 [
 "Steller’s sea cow",
-57
-],
+57,
 [
 "Steller's Sea Cow",
-57
-],
-[
-"Steller’s Sea Cow",
-57
+"Steller’s Sea Cow"
+]
 ],
 [
 "Javan Tiger",
-55
+55,
+[]
 ],
 [
 "Falkland Islands Wolf",
-54
-],
+54,
 [
 "Falkland Island wolf",
-54
-],
-[
-"Falklands Wolf",
-54
+"Falklands Wolf"
+]
 ],
 [
 "Slender-billed Curlew",
-52
+52,
+[]
 ],
 [
 "Alajuela Toad",
-45
-],
+45,
 [
 "Golden toad",
-45
-],
-[
 "Golden Toad",
-45
-],
-[
 "Monte Verde Golden Toad",
-45
-],
-[
 "Monte Verde Toad",
-45
-],
-[
-"Orange Toad",
-45
+"Orange Toad"
+]
 ],
 [
 "Carolina parakeet",
-43
-],
+43,
 [
-"Carolina Parakeet",
-43
+"Carolina Parakeet"
+]
 ],
 [
 "Chinese Paddlefish",
-41
+41,
+[]
 ],
 [
 "Rodrigues Solitaire",
-40
-],
+40,
 [
-"Rodriguez Solitaire",
-40
+"Rodriguez Solitaire"
+]
 ],
 [
 "Alaotra Grebe",
-40
+40,
+[]
 ],
 [
 "Cuban Macaw",
-40
+40,
+[]
 ],
 [
 "Réunion Flightless Ibis",
-37
-],
+37,
 [
 "Reunion Ibis",
-37
-],
-[
 "Réunion Ibis",
-37
-],
-[
-"Réunion Solitaire",
-37
+"Réunion Solitaire"
+]
 ],
 [
 "Huia",
-37
+37,
+[]
 ],
 [
 "Charles Island Giant Tortoise",
-37
-],
+37,
 [
 "Floreana Giant Tortoise",
-37
-],
-[
-"Galapagos giant tortoise",
-37
+"Galapagos giant tortoise"
+]
 ],
 [
 "Blaubok",
-37
-],
+37,
 [
 "Bluebuck",
-37
-],
-[
-"Blue Buck",
-37
+"Blue Buck"
+]
 ],
 [
 "Schomburgk's Deer",
-37
-],
+37,
 [
-"Schomburgk’s Deer",
-37
+"Schomburgk’s Deer"
+]
 ],
 [
 "Japanese Sea Lion",
-37
+37,
+[]
 ],
 [
 "Labrador Duck",
-36
+36,
+[]
 ],
 [
 "New Zealand Quail",
-36
+36,
+[]
 ],
 [
 "Pallas's Cormorant",
-36
-],
+36,
 [
-"Spectacled Cormorant",
-36
+"Spectacled Cormorant"
+]
 ],
 [
 "Kaua'i 'O'o",
-35
-],
+35,
 [
-"Kauai Oo",
-35
+"Kauai Oo"
+]
 ],
 [
 "Norfolk Kaka",
-35
+35,
+[]
 ],
 [
 "Abingdon Island Tortoise",
-35
-],
+35,
 [
-"Pinta Giant Tortoise",
-35
+"Pinta Giant Tortoise"
+]
 ],
 [
 "Sea mink",
-35
-],
+35,
 [
-"Sea Mink",
-35
+"Sea Mink"
+]
 ],
 [
 "Laughing Owl",
-35
+35,
+[]
 ],
 [
 "Eastern hare wallaby",
-34
-],
+34,
 [
 "Eastern Hare-wallaby",
-34
-],
-[
-"Eastern Hare Wallaby",
-34
+"Eastern Hare Wallaby"
+]
 ],
 [
 "Bonin wood-pigeon",
-34
-],
+34,
 [
 "Bonin Woodpigeon",
-34
-],
-[
 "Bonin Wood Pigeon",
-34
-],
-[
-"Bonin Wood-Pigeon",
-34
+"Bonin Wood-Pigeon"
+]
 ],
 [
 "Lesser Bilby",
-34
-],
+34,
 [
 "Lesser Rabbit-bandicoot",
-34
-],
-[
-"Yallara",
-34
+"Yallara"
+]
 ],
 [
 "Pig-footed Bandicoot",
-33
-],
+33,
 [
 "Pig-footed bandicoots",
-33
-],
-[
-"Southern Pig-footed Bandicoot",
-33
+"Southern Pig-footed Bandicoot"
+]
 ],
 [
 "Colombian Grebe",
-33
+33,
+[]
 ],
 [
 "Atitlan Grebe",
-33
-],
+33,
 [
 "Atitlán Grebe",
-33
-],
-[
 "Giant Grebe",
-33
-],
-[
-"Giant Pied-billed Grebe",
-33
+"Giant Pied-billed Grebe"
+]
 ],
 [
 "Red Rail",
-33
+33,
+[]
 ],
 [
 "Beautiful Parakeet",
-32
-],
+32,
 [
-"Paradise Parrot",
-32
+"Paradise Parrot"
+]
 ],
 [
 "New Zealand Bittern",
-32
-],
+32,
 [
-"New Zealand Little Bittern",
-32
+"New Zealand Little Bittern"
+]
 ],
 [
 "St. Helena Hoopoe",
-32
+32,
+[]
 ],
 [
 "Bushwren",
-31
-],
+31,
 [
 "Bush Wren",
-31
-],
-[
-"New Zealand Bush Wren",
-31
+"New Zealand Bush Wren"
+]
 ],
 [
 "Bramble Cay Melomys",
-31
-],
+31,
 [
-"Bramble Cay Mosaic-tailed Rat",
-31
+"Bramble Cay Mosaic-tailed Rat"
+]
 ],
 [
 "Snail-eating Coua",
-31
+31,
+[]
 ],
 [
 "Mauritius Blue-pigeon",
-31
-],
+31,
 [
 "Mauritius Blue Pigeon",
-31
-],
-[
-"Mauritius Blue-Pigeon",
-31
+"Mauritius Blue-Pigeon"
+]
 ],
 [
 "Choiseul Pigeon",
-31
-],
+31,
 [
 "Kuvojo",
-31
-],
-[
 "Solomon Islands Crowned-pigeon",
-31
-],
-[
-"Solomons Crested Pigeon",
-31
+"Solomons Crested Pigeon"
+]
 ],
 [
 "Mascarene Parrot",
-31
+31,
+[]
 ],
 [
 "White Swamphen",
-30
+30,
+[]
 ],
 [
 "Guadalupe Caracara",
-30
+30,
+[]
 ],
 [
 "Newton's Parakeet",
-30
-],
+30,
 [
-"Rodrigues Parakeet",
-30
+"Rodrigues Parakeet"
+]
 ],
 [
 "Ryukyu Woodpigeon",
-30
-],
+30,
 [
-"Ryukyu Wood Pigeon",
-30
+"Ryukyu Wood Pigeon"
+]
 ],
 [
 "Auckland Island Merganser",
-30
-],
+30,
 [
 "Auckland Merganser",
-30
-],
-[
-"New Zealand Merganser",
-30
+"New Zealand Merganser"
+]
 ],
 [
 "Syrian Wild Ass",
-30
+30,
+[]
 ],
 [
 "Sardinian Pika",
-29
+29,
+[]
 ],
 [
 "Saudi gazelle",
-29
-],
+29,
 [
-"Saudi Gazelle",
-29
+"Saudi Gazelle"
+]
 ],
 [
 "Buff-nosed Rat-kangaroo",
-29
-],
+29,
 [
 "Desert rat kangaroo",
-29
-],
-[
 "Desert Rat-kangaroo",
-29
-],
-[
 "Desert Rat Kangaroo",
-29
-],
-[
-"Plains Rat-kangaroo",
-29
+"Plains Rat-kangaroo"
+]
 ],
 [
 "Brush-tailed bettong",
-29
-],
+29,
 [
 "Brush-tailed Bettong",
-29
-],
-[
 "Brush-tailed Rat-kangaroo",
-29
-],
-[
-"Woylie",
-29
+"Woylie"
+]
 ],
 [
 "Canarian Black Oystercatcher",
-29
-],
+29,
 [
 "Canarian Oystercatcher",
-29
-],
-[
-"Canary Islands Oystercatcher",
-29
+"Canary Islands Oystercatcher"
+]
 ],
 [
 "Kioea",
-29
+29,
+[]
 ],
 [
 "Crescent Nail-tail Wallaby",
-29
-],
+29,
 [
-"Crescent Nailtail Wallaby",
-29
+"Crescent Nailtail Wallaby"
+]
 ],
 [
 "Moustached Fruit Dove",
-28
-],
+28,
 [
 "Red-moustached Fruit-dove",
-28
-],
-[
 "Red-moustached Fruit Dove",
-28
-],
-[
-"Red-moustached Fruit-Dove",
-28
+"Red-moustached Fruit-Dove"
+]
 ],
 [
 "houting",
-28
-],
+28,
 [
-"Houting",
-28
+"Houting"
+]
 ],
 [
 "Hawai'i 'O'o",
-28
-],
+28,
 [
-"Hawaii Oo",
-28
+"Hawaii Oo"
+]
 ],
 [
 "Bishop's 'O'o",
-28
-],
+28,
 [
 "Bishop's Oo",
-28
-],
-[
-"Molokai 'o'o",
-28
+"Molokai 'o'o"
+]
 ],
 [
 "Broad-billed Parrot",
-28
-],
+28,
 [
-"Mauritius Parrot",
-28
+"Mauritius Parrot"
+]
 ],
 [
 "Laysan crake",
-27
-],
+27,
 [
-"Laysan Rail",
-27
+"Laysan Rail"
+]
 ],
 [
 "Bonin Grosbeak",
-27
-],
-[
-"Black-faced Honeycreeper",
-27
-],
-[
-"Po'o-uli",
-27
-],
-[
-"Poo-uli",
-27
+27,
+[]
 ],
 [
 "Tahiti Rail",
-27
+27,
+[]
+],
+[
+"Black-faced Honeycreeper",
+27,
+[
+"Po'o-uli",
+"Poo-uli"
+]
 ],
 [
 "Bulldog Rat",
-27
-],
+27,
 [
 "Christmas Island Burrowing Rat",
-27
-],
-[
-"Christmas Island Rat",
-27
+"Christmas Island Rat"
+]
 ],
 [
 "Hawai'i Mamo",
-27
-],
+27,
 [
-"Hawaii Mamo",
-27
+"Hawaii Mamo"
+]
 ],
 [
 "Rodrigues Rail",
-26
+26,
+[]
 ],
 [
 "Crest-tailed mulgara",
-26
-],
+26,
 [
-"Crest-tailed Mulgara",
-26
+"Crest-tailed Mulgara"
+]
 ],
 [
 "Hoopoe Starling",
-26
-],
+26,
 [
 "Reunion starling",
-26
-],
-[
 "Reunion Starling",
-26
-],
-[
-"Réunion Starling",
-26
+"Réunion Starling"
+]
 ],
 [
 "O'ahu 'O'o",
-26
-],
+26,
 [
-"Oahu Oo",
-26
+"Oahu Oo"
+]
 ],
 [
 "Round Island Burrowing Boa",
-26
+26,
+[]
 ],
 [
 "Tahiti Sandpiper",
-26
+26,
+[]
 ],
 [
 "Hawaiian Thrush",
-25
-],
+25,
 [
 "Kāmaʻo",
-25
-],
-[
 "Kama'o",
-25
-],
-[
 "Kamao",
-25
-],
-[
-"Large Kauai Thrush",
-25
+"Large Kauai Thrush"
+]
 ],
 [
 "Kosrae Island Starling",
-25
-],
+25,
 [
-"Kosrae Starling",
-25
+"Kosrae Starling"
+]
 ],
 [
 "Central Hare-wallaby",
-25
-],
+25,
 [
 "Central Hare Wallaby",
-25
-],
-[
 "Kuluwarri",
-25
-],
-[
-"Lake Mackay Hare-wallaby",
-25
+"Lake Mackay Hare-wallaby"
+]
 ],
 [
 "Broad-faced potoroo",
-25
-],
+25,
 [
-"Broad-faced Potoroo",
-25
+"Broad-faced Potoroo"
+]
 ],
 [
 "Raiatea parakeet",
-25
-],
+25,
 [
-"Raiatea Parakeet",
-25
+"Raiatea Parakeet"
+]
 ],
 [
 "Kangaroo Island Emu",
-25
+25,
+[]
 ],
 [
 "Chatham Rail",
-25
+25,
+[]
 ],
 [
 "Mauritian Shelduck",
-25
-],
+25,
 [
 "Mauritius Sheldgoose",
-25
-],
-[
-"Mauritius Shelduck",
-25
+"Mauritius Shelduck"
+]
 ],
 [
 "Mauritius Owl",
-25
+25,
+[]
 ],
 [
 "Maclear’s Christmas Island Rat",
-25
-],
+25,
 [
-"Maclear's Rat",
-25
+"Maclear's Rat"
+]
 ],
 [
 "Mascarene Teal",
-25
-],
+25,
 [
 "Mauritian Duck",
-25
-],
-[
-"Mauritius Duck",
-25
+"Mauritius Duck"
+]
 ],
 [
 "Liverpool pigeon",
-25
-],
+25,
 [
 "Liverpool Pigeon",
-25
-],
-[
-"Spotted Green Pigeon",
-25
+"Spotted Green Pigeon"
+]
 ],
 [
 "Slender-billed Grackle",
-24
+24,
+[]
 ],
 [
 "Black-fronted parakeet",
-24
-],
+24,
 [
-"Black-fronted Parakeet",
-24
+"Black-fronted Parakeet"
+]
 ],
 [
 "Tristan Gallinule",
-24
-],
+24,
 [
-"Tristan Moorhen",
-24
+"Tristan Moorhen"
+]
 ],
 [
 "Brace's Emerald",
-24
+24,
+[]
 ],
 [
 "Desert Bandicoot",
-24
+24,
+[]
 ],
 [
 "Western Black Rhino",
-24
-],
+24,
 [
-"Western Black Rhinoceros",
-24
+"Western Black Rhinoceros"
+]
 ],
 [
 "Large Palau Flying Fox",
-24
-],
+24,
 [
 "Large Pelew Flying Fox",
-24
-],
-[
 "Palau Flying-fox",
-24
-],
-[
 "Palau Flying Fox",
-24
-],
-[
-"Palau Fruit Bat",
-24
+"Palau Fruit Bat"
+]
 ],
 [
 "Grand Cayman Thrush",
-24
+24,
+[]
 ],
 [
 "Rodrigues Starling",
-24
-],
+24,
 [
-"Rodriguez Starling",
-24
+"Rodriguez Starling"
+]
 ],
 [
 "Thick-billed Ground-dove",
-24
-],
+24,
 [
 "Thick-billed Ground Dove",
-24
-],
-[
-"Thick-billed Ground-Dove",
-24
+"Thick-billed Ground-Dove"
+]
 ],
 [
 "Rodrigues Parrot",
-24
+24,
+[]
 ],
 [
 "Bar-winged Rail",
-24
+24,
+[]
 ],
 [
 "Christmas Island Shrew",
-24
+24,
+[]
 ],
 [
 "North Island Takahe",
-24
+24,
+[]
 ],
 [
 "Amsterdam Duck",
-24
-],
+24,
 [
 "Amsterdam Island Duck",
-24
-],
-[
-"Amsterdam Wigeon",
-24
+"Amsterdam Wigeon"
+]
 ],
 [
 "Aldabra Brush Warbler",
-24
-],
+24,
 [
 "Aldabra Brush-Warbler",
-24
-],
-[
 "Aldabra Bush-warbler",
-24
-],
-[
 "Aldabra Tsikirity",
-24
-],
-[
-"Aldabra Warbler",
-24
+"Aldabra Warbler"
+]
 ],
 [
 "Long-tailed Hopping-mouse",
-24
-],
+24,
 [
-"Long-tailed Hopping Mouse",
-24
+"Long-tailed Hopping Mouse"
+]
 ],
 [
 "Nightingale reed-warbler",
-24
-],
+24,
 [
 "Nightingale Reed-warbler",
-24
-],
-[
 "Nightingale Reed Warbler",
-24
-],
-[
-"Nightingale Reed-Warbler",
-24
+"Nightingale Reed-Warbler"
+]
 ],
 [
 "Bonin Thrush",
-24
+24,
+[]
 ],
 [
 "Mascarene Coot",
-24
+24,
+[]
 ],
 [
 "White-breasted Silvereye",
-24
-],
+24,
 [
-"White-chested White-eye",
-24
+"White-chested White-eye"
+]
 ],
 [
 "Rabbit-eared Tree-rat",
-24
-],
+24,
 [
 "White-footed Conilurus",
-24
-],
-[
 "White-footed rabbit-rat",
-24
-],
-[
 "White-footed Rabbit-rat",
-24
-],
-[
 "White-footed Rabbit Rat",
-24
-],
-[
-"White-footed Tree-rat",
-24
+"White-footed Tree-rat"
+]
 ],
 [
 "'O'u",
-23
-],
+23,
 [
-"Ou",
-23
+"Ou"
+]
 ],
 [
 "Lesser stick-nest rat",
-23
-],
+23,
 [
 "Lesser Stick-nest Rat",
-23
-],
-[
-"White-tipped Stick-nest Rat",
-23
+"White-tipped Stick-nest Rat"
+]
 ],
 [
 "Norfolk Island Starling",
-23
-],
+23,
 [
 "Norfolk Starling",
-23
-],
-[
-"Tasman Starling",
-23
+"Tasman Starling"
+]
 ],
 [
 "Heude's Pig",
-23
-],
+23,
 [
 "Heude’s Pig",
-23
-],
-[
 "Indo-chinese Warty Pig",
-23
-],
-[
-"Vietnam Warty Pig",
-23
+"Vietnam Warty Pig"
+]
 ],
 [
 "Ascension Crake",
-23
-],
+23,
 [
-"Ascension Flightless Crake",
-23
+"Ascension Flightless Crake"
+]
 ],
 [
 "Black Mamo",
-23
+23,
+[]
 ],
 [
 "Bridled white-eye",
-23
-],
+23,
 [
 "Bridled White-eye",
-23
-],
-[
-"Marianas Bridled White-eye",
-23
+"Marianas Bridled White-eye"
+]
 ],
 [
 "Grosbeak Finch",
-23
-],
+23,
 [
-"Kona Grosbeak",
-23
+"Kona Grosbeak"
+]
 ],
 [
 "Short-tailed Hopping-mouse",
-23
-],
+23,
 [
-"Short-tailed Hopping Mouse",
-23
+"Short-tailed Hopping Mouse"
+]
 ],
 [
 "Olson's Petrel",
-23
-],
+23,
 [
 "Small St Helena Petrel",
-23
-],
-[
-"St. Helena Bulwer's Petrel",
-23
+"St. Helena Bulwer's Petrel"
+]
 ],
 [
 "Gould’s mouse",
-22
-],
+22,
 [
 "Gould's Mouse",
-22
-],
-[
 "Gould’s Mouse",
-22
-],
-[
-"Gould’s Pseudomys",
-22
+"Gould’s Pseudomys"
+]
 ],
 [
 "Lesser koa-finch",
-22
-],
+22,
 [
 "Lesser Koa-finch",
-22
-],
-[
 "Lesser Koa Finch",
-22
-],
-[
-"Lesser Koa-Finch",
-22
+"Lesser Koa-Finch"
+]
 ],
 [
 "Greater koa-finch",
-22
-],
+22,
 [
 "Greater Koa-finch",
-22
-],
-[
 "Greater Koa Finch",
-22
-],
-[
-"Greater Koa-Finch",
-22
+"Greater Koa-Finch"
+]
 ],
 [
 "Dark Flying Fox",
-22
-],
+22,
 [
 "Dark Flying Fox.",
-22
-],
-[
 "Lesser Mascarene Flying-fox",
-22
-],
-[
-"Lesser Mascarene Flying Fox",
-22
+"Lesser Mascarene Flying Fox"
+]
 ],
 [
 "Bilkis Gazelle",
-22
-],
+22,
 [
 "Queen of Sheba's Gazelle",
-22
-],
-[
 "Queen Sheba's Gazelle",
-22
-],
-[
-"Yemen Gazelle",
-22
+"Yemen Gazelle"
+]
 ],
 [
 "Rodrigues Pigeon",
-22
-],
+22,
 [
-"Rodrigues Turtle-dove",
-22
+"Rodrigues Turtle-dove"
+]
 ],
 [
 "Guam Flying Fox",
-22
-],
+22,
 [
 "Guam Flying Fox.",
-22
-],
-[
-"Guam Fruit Bat",
-22
+"Guam Fruit Bat"
+]
 ],
 [
 "New Zealand Thrush",
-22
-],
+22,
 [
 "Piopio",
-22
-],
-[
-"South Island Piopio",
-22
+"South Island Piopio"
+]
 ],
 [
 "Darling Downs Hopping-mouse",
-22
-],
+22,
 [
-"Darling Downs Hopping Mouse",
-22
+"Darling Downs Hopping Mouse"
+]
 ],
 [
 "Tanna Ground-dove",
-22
-],
+22,
 [
 "Tanna Ground Dove",
-22
-],
-[
-"Tanna Ground-Dove",
-22
+"Tanna Ground-Dove"
+]
 ],
 [
 "Greater Amakihi",
-22
+22,
+[]
 ],
 [
 "Hawaiian Rail",
-22
+22,
+[]
 ],
 [
 "Rodrigues Owl",
-22
+22,
+[]
 ],
 [
 "Ula-'ai-hawane",
-22
-],
+22,
 [
-"Ula-ai-hawane",
-22
+"Ula-ai-hawane"
+]
 ],
 [
 "Reunion Sheldgoose",
-22
-],
+22,
 [
 "Reunion Shelduck",
-22
-],
-[
-"Réunion Shelduck",
-22
+"Réunion Shelduck"
+]
 ],
 [
 "Lana'i Hookbill",
-22
-],
+22,
 [
-"Lanai Hookbill",
-22
+"Lanai Hookbill"
+]
 ],
 [
 "Christmas Sandpiper",
-21
+21,
+[]
 ],
 [
 "Mauke Starling",
-21
-],
+21,
 [
-"Mysterious Starling",
-21
+"Mysterious Starling"
+]
 ],
 [
 "Big-eared Hopping-mouse",
-21
-],
+21,
 [
-"Big-eared Hopping Mouse",
-21
+"Big-eared Hopping Mouse"
+]
 ],
 [
 "Giant Fosa",
-21
-],
+21,
 [
-"Giant Fossa",
-21
+"Giant Fossa"
+]
 ],
 [
 "Antillean giant rice rat",
-21
-],
+21,
 [
 "Antillean Giant Rice Rat",
-21
-],
-[
 "Desmarest’s Pilorie",
-21
-],
-[
-"Martinique Muskrat",
-21
+"Martinique Muskrat"
+]
 ],
 [
 "Oahu Akialoa",
-21
+21,
+[]
 ],
 [
 "Chatham Fernbird",
-21
+21,
+[]
 ],
 [
 "Alagoas Foliage-gleaner",
-21
+21,
+[]
 ],
 [
 "Hawkins's Rail",
-21
+21,
+[]
 ],
 [
 "Kakawahie",
-21
-],
+21,
 [
-"Molokai Creeper",
-21
+"Molokai Creeper"
+]
 ],
 [
 "Guam Broadbill",
-21
-],
+21,
 [
-"Guam Flycatcher",
-21
+"Guam Flycatcher"
+]
 ],
 [
 "Rodrigues Night-heron",
-21
-],
+21,
 [
 "Rodrigues Night Heron",
-21
-],
-[
-"Rodrigues Night-Heron",
-21
+"Rodrigues Night-Heron"
+]
 ],
 [
 "Mauritius Night-heron",
-21
-],
+21,
 [
 "Mauritius Night Heron",
-21
-],
-[
-"Mauritius Night-Heron",
-21
+"Mauritius Night-Heron"
+]
 ],
 [
 "Robust white-eye",
-21
-],
+21,
 [
-"Robust White-eye",
-21
+"Robust White-eye"
+]
 ],
 [
 "Saint Helena earwig",
-20
-],
+20,
 [
 "Saint Helena Earwig",
-20
-],
-[
 "St Helena Earwig",
-20
-],
-[
-"St Helena Giant Earwig",
-20
+"St Helena Giant Earwig"
+]
 ],
 [
 "Puerto Rican Hutia",
-20
+20,
+[]
 ],
 [
 "Southern gastric-brooding frog",
-20
-],
+20,
 [
-"Southern Platypus Frog",
-20
+"Southern Platypus Frog"
+]
 ],
 [
 "Imposter Hutia",
-20
+20,
+[]
 ],
 [
 "Oriente Cave Rat",
-20
+20,
+[]
 ],
 [
 "Little Swan Island Coney",
-20
-],
+20,
 [
 "Little Swan Island Hutia",
-20
-],
-[
-"Swan Island Hutia",
-20
+"Swan Island Hutia"
+]
 ],
 [
 "Bonin Pipistrelle",
-20
-],
+20,
 [
 "Sturdee's Pipistrelle",
-20
-],
-[
-"Sturdee’s Pipistrelle",
-20
+"Sturdee’s Pipistrelle"
+]
 ],
 [
 "Chatham Bellbird",
-20
-],
+20,
 [
-"Chatham Island Bellbird",
-20
+"Chatham Island Bellbird"
+]
 ],
 [
 "Lord Howe Gerygone",
-20
-],
+20,
 [
-"Lord Howe Island Gerygone",
-20
+"Lord Howe Island Gerygone"
+]
 ],
 [
 "Dusky Flying Fox",
-20
-],
+20,
 [
-"Percy Island Flying Fox",
-20
+"Percy Island Flying Fox"
+]
 ],
 [
 "Guadeloupe Amazon",
-19
-],
+19,
 [
-"Guadeloupe Parrot",
-19
+"Guadeloupe Parrot"
+]
 ],
 [
 "Red-bellied Gracile Mouse Opossum",
-19
-],
+19,
 [
-"Red-bellied Gracile Opossum",
-19
+"Red-bellied Gracile Opossum"
+]
 ],
 [
 "Lesser Akialoa",
-19
+19,
+[]
 ],
 [
 "Torre’s Cave Rat",
-19
+19,
+[]
 ],
 [
 "Reunion Night-heron",
-19
-],
+19,
 [
 "Reunion Night Heron",
-19
-],
-[
-"Réunion Night-Heron",
-19
+"Réunion Night-Heron"
+]
 ],
 [
 "Edith's Island-shrew",
-19
-],
+19,
 [
 "Edith's Nesophont",
-19
-],
-[
-"Puerto Rican Nesophontes",
-19
+"Puerto Rican Nesophontes"
+]
 ],
 [
 "Blue-gray Mouse",
-19
-],
+19,
 [
 "Blue-gray Pseudomys",
-19
-],
-[
-"Blue-grey Mouse",
-19
+"Blue-grey Mouse"
+]
 ],
 [
 "Reunion Owl",
-19
-],
+19,
 [
-"Réunion Owl",
-19
+"Réunion Owl"
+]
 ],
 [
 "Nukupu'u",
-18
-],
+18,
 [
 "Nukupuu",
-18
-],
-[
-"Oahu Nukupuu",
-18
+"Oahu Nukupuu"
+]
 ],
 [
 "Reunion Kestrel",
-18
-],
+18,
 [
-"Réunion Kestrel",
-18
+"Réunion Kestrel"
+]
 ],
 [
 "Darwin's Galapagos Mouse",
-18
-],
+18,
 [
 "Darwin’s Galapagos Mouse",
-18
-],
-[
-"Darwin’s Nesoryzomys",
-18
+"Darwin’s Nesoryzomys"
+]
 ],
 [
 "Santa Lucia giant rice rat",
-18
-],
+18,
 [
 "Santa Lucia Giant Rice Rat",
-18
-],
-[
 "Santa Lucian Giant Rice Rat",
-18
-],
-[
-"Santa Lucian Pilorie",
-18
+"Santa Lucian Pilorie"
+]
 ],
 [
 "Marcano's Solenodon",
-18
-],
+18,
 [
-"Marcano’s Solenodon",
-18
+"Marcano’s Solenodon"
+]
 ],
 [
 "Hispaniolan Edible Rat",
-18
+18,
+[]
 ],
 [
 "Giant Featherback",
-18
+18,
+[]
 ],
 [
 "Martinique Amazon",
-17
-],
+17,
 [
-"Martinique Parrot",
-17
+"Martinique Parrot"
+]
 ],
 [
 "St Helena Cuckoo",
-17
-],
+17,
 [
-"St. Helena Cuckoo",
-17
+"St. Helena Cuckoo"
+]
 ],
 [
 "Western Cuban Nesophontes",
-17
+17,
+[]
 ],
 [
 "Nelson’s Oryzomys",
-17
-],
+17,
 [
 "Nelson's Rice Rat",
-17
-],
-[
-"Tres Marias Island Rice Rat",
-17
+"Tres Marias Island Rice Rat"
+]
 ],
 [
 "Atalaya Nesophontes",
-17
-],
+17,
 [
-"Atalaye Nesophontes",
-17
+"Atalaye Nesophontes"
+]
 ],
 [
 "Lord Howe Island Long-eared Bat",
-17
-],
+17,
 [
-"Lord Howe Long-eared Bat",
-17
+"Lord Howe Long-eared Bat"
+]
 ],
 [
 "Marianne White-eye",
-17
+17,
+[]
 ],
 [
 "Moorea Sandpiper",
-17
+17,
+[]
 ],
 [
 "Montane Hutia",
-17
+17,
+[]
 ],
 [
 "Beyşehir Bleak",
-17
+17,
+[]
 ],
 [
 "St Helena olive",
-17
-],
+17,
 [
-"St Helena Olive",
-17
+"St Helena Olive"
+]
 ],
 [
 "Samana Hutia",
-17
+17,
+[]
 ],
 [
 "Christmas Island Pipistrelle",
-17
+17,
+[]
 ],
 [
 "Bermuda Night-heron",
-17
-],
+17,
 [
-"Bermuda Night Heron",
-17
+"Bermuda Night Heron"
+]
 ],
 [
 "St. Michel Nesophontes",
-17
+17,
+[]
 ],
 [
 "Xerces Blue",
-16
+16,
+[]
 ],
 [
 "Madagascan Dwarf Hippopotamus",
-16
-],
+16,
 [
-"Malagasy Hippo",
-16
+"Madagascan Pygmy Hippo",
+"Malagasy Hippo"
+]
 ],
 [
 "Bubal Hartebeest",
-16
+16,
+[]
 ],
 [
 "Eiao Monarch",
-16
+16,
+[]
 ],
 [
 "Brasilia Burrowing Mouse",
-16
-],
+16,
 [
 "Candango Akodont",
-16
-],
-[
-"Candango Mouse",
-16
+"Candango Mouse"
+]
 ],
 [
 "Deepwater Cisco",
-16
+16,
+[]
 ],
 [
 "Finsch's Duck",
-16
+16,
+[]
 ],
 [
 "Haitian Nesophontes",
-16
+16,
+[]
 ],
 [
 "Greater Cuban Nesophontes",
-16
+16,
+[]
 ],
 [
 "Indefatigable Galapagos Mouse",
-16
-],
+16,
 [
-"Santa Cruz Nesoryzomys",
-16
+"Santa Cruz Nesoryzomys"
+]
 ],
 [
 "Las Vegas Leopard Frog",
-16
+16,
+[]
 ],
 [
 "Catarina Pupfish",
-16
+16,
+[]
 ],
 [
 "Laysan Honeycreeper",
-16
+16,
+[]
 ],
 [
 "splendid poison arrow frog",
-16
-],
+16,
 [
-"splendid poison frog",
-16
+"splendid poison frog"
+]
 ],
 [
 "Amistad gambusia",
-16
-],
+16,
 [
-"Amistad Gambusia",
-16
+"Amistad Gambusia"
+]
 ],
 [
 "Mountain Mistfrog",
-16
-],
+16,
 [
-"Nyakala frog",
-16
+"Nyakala frog"
+]
 ],
 [
 "Rocky Mountain Locust",
-16
+16,
+[]
 ],
 [
 "Pemberton’s Deermouse",
-16
-],
+16,
 [
-"Pemberton's Deer Mouse",
-16
+"Pemberton's Deer Mouse"
+]
 ],
 [
 "Pagan Reed Warbler",
-15
+15,
+[]
 ],
 [
 "Reunion Rail",
-15
+15,
+[]
 ],
 [
 "St. Vincent Colilargo",
-15
-],
+15,
 [
 "St Vincent Pygmy Rice Rat",
-15
-],
-[
-"St. Vincent Pygmy Rice Rat",
-15
+"St. Vincent Pygmy Rice Rat"
+]
 ],
 [
 "New Zealand grayling",
-15
-],
+15,
 [
-"New Zealand Grayling",
-15
+"New Zealand Grayling"
+]
 ],
 [
 "Long Jaw Tristramella",
-15
+15,
+[]
 ],
 [
 "Oceanic Parrot",
-15
+15,
+[]
 ],
 [
 "Eğirdir Minnow",
-15
+15,
+[]
 ],
 [
 "Guadeloupe Ameiva",
-15
+15,
+[]
 ],
 [
 "Gölçük Toothcarp",
-15
+15,
+[]
 ],
 [
 "Snake River Sucker",
-15
+15,
+[]
 ],
 [
 "Longjaw Cisco",
-15
+15,
+[]
 ],
 [
 "Buhler’s Coryphomys",
-15
-],
+15,
 [
 "Buhler's Rat",
-15
-],
-[
-"Buhler’s Rat",
-15
+"Buhler’s Rat"
+]
 ],
 [
 "Java Stingaree",
-15
+15,
+[]
 ],
 [
 "Ash Meadows Killifish",
-15
-],
+15,
 [
-"Ash Meadows Poolfish",
-15
+"Ash Meadows Poolfish"
+]
 ],
 [
 "North Island piopio",
-15
-],
+15,
 [
-"North Island Piopio",
-15
+"North Island Piopio"
+]
 ],
 [
 "Madeiran large white",
-14
-],
+14,
 [
-"Madeiran Large White",
-14
+"Madeiran Large White"
+]
 ],
 [
 "Nuku Hiva Monarch",
-14
+14,
+[]
 ],
 [
 "North Island Snipe",
-14
+14,
+[]
 ],
 [
 "South Island Snipe",
-14
+14,
+[]
 ],
 [
 "Harelip Sucker",
-14
+14,
+[]
 ],
 [
 "Chiriqui harlequin frog",
-14
-],
+14,
 [
 "Chiriqui Harlequin Frog",
-14
-],
-[
-"Lewis' Stubfoot Toad",
-14
+"Lewis' Stubfoot Toad"
+]
 ],
 [
 "Maracay Harlequin Frog",
-14
+14,
+[]
 ],
 [
 "Salado Shiner",
-14
+14,
+[]
 ],
 [
 "Cachorrito de la Trinidad",
-14
-],
+14,
 [
-"Charco Azul Pupfish",
-14
+"Charco Azul Pupfish"
+]
 ],
 [
 "Insular Cave Rat",
-14
-],
+14,
 [
-"Puerto Rican Cave Rat",
-14
+"Puerto Rican Cave Rat"
+]
 ],
 [
 "Whiteline Topminnow",
-14
+14,
+[]
 ],
 [
 "Thicktail Chub",
-14
+14,
+[]
 ],
 [
 "Maryland Darter",
-14
+14,
+[]
 ],
 [
 "Santa Cruz Pupfish",
-14
+14,
+[]
 ],
 [
 "Réunion giant tortoise",
-14
+14,
+[]
 ],
 [
 "Eungella Gastric-brooding Frog",
-13
-],
+13,
 [
-"Northern Gastric Brooding Frog",
-13
+"Northern Gastric Brooding Frog"
+]
 ],
 [
 "Gunther's Streamlined Frog",
-13
+13,
+[]
 ],
 [
 "Vespucci's Rodent",
-13
-],
+13,
 [
-"Vespucci’s Rodent",
-13
+"Vespucci’s Rodent"
+]
 ],
 [
 "Aguiguan Reed Warbler",
-13
+13,
+[]
 ],
 [
 "Jamaican Monkey",
-13
+13,
+[]
 ],
 [
 "Oahu Akepa",
-13
+13,
+[]
 ],
 [
 "Villa Lopez Pupfish",
-13
+13,
+[]
 ],
 [
 "Parras Characodon",
-13
+13,
+[]
 ],
 [
 "Pecatonica River Mayfly",
-13
+13,
+[]
 ],
 [
 "Scioto Madtom",
-13
+13,
+[]
 ],
 [
 "Siamese flat-barbelled catfish",
-13
+13,
+[]
 ],
 [
 "Marquesan Swamphen",
-13
+13,
+[]
 ],
 [
 "Mangareva Reed Warbler",
-12
+12,
+[]
 ],
 [
 "Garrett's Reed Warbler",
-12
+12,
+[]
 ],
 [
 "Jamaican rice rat",
-12
-],
+12,
 [
-"Jamaican Rice Rat",
-12
+"Jamaican Rice Rat"
+]
 ],
 [
 "Maui hau kuahiwi",
-12
+12,
+[]
 ],
 [
 "Maui Akepa",
-12
+12,
+[]
 ],
 [
 "Nullarbor Dwarf Bettong",
-12
+12,
+[]
 ],
 [
 "Campo Grande tree frog",
-12
+12,
+[]
 ],
 [
 "Cryptic Treehunter",
-12
+12,
+[]
 ],
 [
 "Ko’Olau Spurwing Long-legged Fly",
-12
+12,
+[]
 ],
 [
 "Mount Glorious Day Frog",
-12
-],
+12,
 [
 "Mount Glorious torrent frog",
-12
-],
-[
 "Mount Glorious Torrent Frog",
-12
-],
-[
-"Southern Day Frog",
-12
+"Southern Day Frog"
+]
 ],
 [
 "Stumptooth Minnow",
-12
+12,
+[]
 ],
 [
 "Las Vegas Dace",
-12
+12,
+[]
 ],
 [
 "Pass stubfoot toad",
-12
-],
+12,
 [
-"Pass Stubfoot Toad",
-12
+"Pass Stubfoot Toad"
+]
 ],
 [
 "'Amaui",
-12
-],
+12,
 [
-"Amaui",
-12
+"Amaui"
+]
 ],
 [
 "Spiny-knee Leaf Frog",
-12
+12,
+[]
 ],
 [
 "Kauai Akialoa",
-12
+12,
+[]
 ],
 [
 "Maui-nui Akialoa",
-12
+12,
+[]
 ],
 [
 "Marten's bush frog",
-12
-],
+12,
 [
 "pointed-nose bush frog",
-12
-],
-[
 "whitenose bubble-nest frog",
-12
-],
-[
-"white-nosed bush frog",
-12
+"white-nosed bush frog"
+]
 ],
 [
 "liliwai",
-12
+12,
+[]
 ],
 [
 "Woolly-stalked Begonia",
-12
+12,
+[]
 ],
 [
 "Tonga Ground Skink",
-12
+12,
+[]
 ],
 [
 "Durango Shiner",
-12
+12,
+[]
 ],
 [
 "Spined Dwarf Mantis",
-12
+12,
+[]
 ],
 [
 "New Caledonia Gallinule",
-12
+12,
+[]
 ],
 [
 "Peruvian Plains Viscacha",
-12
+12,
+[]
 ],
 [
 "Reunion Pigeon",
-11
-],
+11,
 [
-"Réunion Pigeon",
-11
+"Réunion Pigeon"
+]
 ],
 [
 "Bermuda Flicker",
-11
+11,
+[]
 ],
 [
 "Ainsworth's Salamander",
-11
-],
+11,
 [
-"Catahoula Salamander",
-11
+"Catahoula Salamander"
+]
 ],
 [
 "Sooty Crayfish",
-11
+11,
+[]
 ],
 [
 "Sharp snouted day frog",
-11
-],
+11,
 [
 "Sharp Snouted Day Frog",
-11
-],
-[
-"Sharpsnout Torrent Frog",
-11
+"Sharpsnout Torrent Frog"
+]
 ],
 [
 "Jalpa False Brook Salamander",
-11
+11,
+[]
 ],
 [
 "San Marcos gambusia",
-11
-],
+11,
 [
-"San Marcos Gambusia",
-11
+"San Marcos Gambusia"
+]
 ],
 [
 "Nevis Rice Rat",
-11
-],
+11,
 [
 "St. Eustatius Rice Rat",
-11
-],
-[
-"St. Kitts Rice Rat",
-11
+"St. Kitts Rice Rat"
+]
 ],
 [
 "Cuban Coney",
-11
+11,
+[]
 ],
 [
 "Maui Nukupuu",
-11
-],
-[
-"Polynesian Tree Snail",
-11
+11,
+[]
 ],
 [
 "Oblong Rocksnail",
-11
+11,
+[]
 ],
 [
 "Christmas Island Whiptail-skink",
-11
+11,
+[]
 ],
 [
 "Carolina Elktoe",
-11
+11,
+[]
 ],
 [
 "Mexican Dace",
-11
+11,
+[]
 ],
 [
 "Utah Lake Sculpin",
-11
+11,
+[]
 ],
 [
 "Robert's Stonefly",
-11
+11,
+[]
 ],
 [
 "Martinique Curlytail Lizard",
-11
+11,
+[]
 ],
 [
 "Navassa curly-tailed lizard",
-11
-],
+11,
 [
-"Navassa Curlytail Lizard",
-11
+"Navassa Curlytail Lizard"
+]
 ],
 [
 "Partula snail",
-11
+11,
+[
+"Polynesian Tree Snail"
+]
 ],
 [
 "Phantom shiner",
-11
-],
+11,
 [
-"Phantom Shiner",
-11
+"Phantom Shiner"
+]
 ],
 [
 "San Cristobal Flycatcher",
-11
+11,
+[]
 ],
 [
 "Brown's amaranth",
-11
+11,
+[]
 ],
 [
 "Bermuda Towhee",
-11
+11,
+[]
 ],
 [
 "Galapagos Amaranth",
-10
+10,
+[]
 ],
 [
 "Hawai'i chaff flower",
-10
+10,
+[]
 ],
 [
 "Galapágos Giant Rat",
-10
-],
+10,
 [
-"Galapagos Giant Rice Rat",
-10
+"Galapagos Giant Rice Rat"
+]
 ],
 [
 "Bermuda Saw-whet Owl",
-10
+10,
+[]
 ],
 [
 "Bermuda Hawk",
-10
-],
-[
-"Madagascan Pygmy Hippo",
-10
+10,
+[]
 ],
 [
 "Eastwood's Longtailed Seps",
-10
-],
+10,
 [
-"Eastwood's Whip Lizard",
-10
+"Eastwood's Whip Lizard"
+]
 ],
 [
 "Pahranagat Spinedace",
-10
+10,
+[]
 ],
 [
 "Makawao melicope",
-10
-],
+10,
 [
-"Obovate Melicope",
-10
+"Obovate Melicope"
+]
 ],
 [
 "Corquin Robber Frog",
-10
+10,
+[]
 ],
 [
 "Ochlockonee Arcmussel",
-10
+10,
+[]
 ],
 [
 "Coosa Elktoe",
-10
+10,
+[]
 ],
 [
 "Excised slitshell",
-10
+10,
+[]
 ],
 [
 "Shoal Sprite",
-10
+10,
+[]
 ],
 [
 "Volutine Stoneyian Tabanid Fly",
-10
+10,
+[]
 ],
 [
 "Iznik Shemaya",
-10
+10,
+[]
 ],
 [
 "Clear Lake Splittail",
-9
+9,
+[]
 ],
 [
 "palmtree cyanea",
-9
-],
+9,
 [
-"Tree Cyanea",
-9
+"Tree Cyanea"
+]
 ],
 [
 "Maupiti Monarch",
-9
+9,
+[]
 ],
 [
 "Kauai flatsedge",
-9
+9,
+[]
 ],
 [
 "leechleaf delissea",
-9
-],
+9,
 [
-"Undulata Delissea",
-9
+"Undulata Delissea"
+]
 ],
 [
 "Rodrigues Blue-pigeon",
-9
+9,
+[]
 ],
 [
 "Central Valley Grasshopper",
-9
+9,
+[]
 ],
 [
 "Antioch Dunes Shieldback Katydid",
-9
+9,
+[]
 ],
 [
 "Sandhills Crayfish",
-9
+9,
+[]
 ],
 [
 "Robust Burrowing Mayfly",
-9
-],
+9,
 [
-"Robust Pentagenian Burrowing Mayfly",
-9
+"Robust Pentagenian Burrowing Mayfly"
+]
 ],
 [
 "St. Helena Darter",
-9
+9,
+[]
 ],
 [
 "Kauai Nukupuu",
-9
+9,
+[]
+],
+[
+"Polynesian Tree Snail",
+9,
+[]
 ],
 [
 "Turgid-blossom",
-9
-],
+9,
 [
 "Turgid-blossom Naiad",
-9
-],
-[
 "Turgid-blossom Pearly Mussel",
-9
-],
-[
-"Turgid Riffle Shell",
-9
+"Turgid Riffle Shell"
+]
 ],
 [
 "Sampson's Naiad",
-9
-],
+9,
 [
 "Sampson's Pearly Mussel",
-9
-],
-[
 "Sampson's Riffleshell",
-9
-],
-[
-"Wabash Riffleshell",
-9
+"Wabash Riffleshell"
+]
 ],
 [
 "Arc-form Pearly Mussel",
-9
-],
+9,
 [
-"Sugarspoon",
-9
+"Sugarspoon"
+]
 ],
 [
 "Hoffstetter's Worm Snake",
-9
+9,
+[]
 ],
 [
 "Little Flat-top Snail",
-9
+9,
+[]
 ],
 [
 "Mono Lake Diving Beetle",
-9
+9,
+[]
 ],
 [
 "Pagoda Slitshell",
-9
+9,
+[]
 ],
 [
 "Pyramid Slitshell",
-9
+9,
+[]
 ],
 [
 "Cahaba Pebblesnail",
-9
+9,
+[]
 ],
 [
 "Umbilicate Pebblesnail",
-9
+9,
+[]
 ],
 [
 "Rubious Cave Amphipod",
-9
+9,
+[]
 ],
 [
 "Koolau Range delissea",
-9
+9,
+[]
 ],
 [
 "Mauritius Turtle-dove",
-9
+9,
+[]
 ],
 [
 "Oahu tree snail",
-8
+8,
+[]
 ],
 [
 "Wailupe Valley treecotton",
-8
+8,
+[]
 ],
 [
 "Minute Noctuid Moth",
-8
+8,
+[]
 ],
 [
 "Castle Lake Caddisfly",
-8
+8,
+[]
 ],
 [
 "Capricorn Rabbit-rat",
-8
+8,
+[]
 ],
 [
 "Günther's Burrowing Skink",
-8
-],
+8,
 [
-"Günther's Dwarf Burrowing Skink",
-8
+"Günther's Dwarf Burrowing Skink"
+]
 ],
 [
 "Lined Pocketbook",
-8
+8,
+[]
 ],
 [
 "Cumberland Leafshell",
-8
-],
+8,
 [
-"Steward's Pearly Mussel",
-8
+"Steward's Pearly Mussel"
+]
 ],
 [
 "Nearby Pearlymussel",
-8
-],
+8,
 [
 "Nearby Pearly Mussel",
-8
-],
-[
-"Tennessee Riffleshell",
-8
+"Tennessee Riffleshell"
+]
 ],
 [
 "Carinate Flat-top Snail",
-8
+8,
+[]
 ],
 [
 "Short-spired Elimia",
-8
-],
+8,
 [
-"Short Spire Elimia",
-8
+"Short Spire Elimia"
+]
 ],
 [
 "Cobble elimia",
-8
-],
+8,
 [
-"Cobble Elimia",
-8
+"Cobble Elimia"
+]
 ],
 [
 "Constricted Elimia",
-8
+8,
+[]
 ],
 [
 "Maiden Rocksnail",
-8
+8,
+[]
 ],
 [
 "Amastrid land snail",
-8
+8,
+[]
 ],
 [
 "Closed Elimia",
-8
+8,
+[]
 ],
 [
 "Agate Rocksnail",
-8
+8,
+[]
 ],
 [
 "Striate Slitshell",
-8
+8,
+[]
 ],
 [
 "Bigmouth Rocksnail",
-8
+8,
+[]
 ],
 [
 "Ribbed Slitshell",
-8
+8,
+[]
 ],
 [
 "Pupa Elimia",
-8
+8,
+[]
 ],
 [
 "Rough-lined Elimia",
-8
+8,
+[]
 ],
 [
 "Pygmy Elimia",
-8
+8,
+[]
 ],
 [
 "Acorn Pearly Mussel",
-8
-],
+8,
 [
-"Acornshell",
-8
+"Acornshell"
+]
 ],
 [
 "Round Slitshell",
-8
+8,
+[]
 ],
 [
 "Arcuate Pearly Mussel",
-8
-],
+8,
 [
-"Leafshell",
-8
+"Leafshell"
+]
 ],
 [
 "Corded purg",
-8
-],
+8,
 [
-"Corded Pyrg",
-8
+"Corded Pyrg"
+]
 ],
 [
 "Oachita Pebblesnail",
-8
+8,
+[]
 ],
 [
 "Coosa Rocksnail",
-8
+8,
+[]
 ],
 [
 "Eelgrass Limpet",
-8
+8,
+[]
 ],
 [
 "Umbilicate Flat-top Snail",
-8
+8,
+[]
 ],
 [
 "Pasadena Freshwater Shrimp",
-8
-],
+8,
 [
-"Pasadena Shrimp",
-8
+"Pasadena Shrimp"
+]
 ],
 [
 "Lake Pedder Earthworm",
-8
+8,
+[]
 ],
 [
 "Kona Giant Looper Moth",
-8
+8,
+[]
 ],
 [
 "Broad-cheeked Hopping-mouse",
-8
+8,
+[]
 ],
 [
 "Seychelles Black Terrapin",
-8
-],
+8,
 [
 "Seychelles Mud Turtle",
-8
-],
-[
-"Seychelles Terrapin",
-8
+"Seychelles Terrapin"
+]
 ],
 [
 "Mauritius Woodpigeon",
-8
+8,
+[]
 ],
 [
 "Ridley's Stick Insect",
-7
+7,
+[]
 ],
 [
 "Giffard's Cyanea",
-7
-],
+7,
 [
-"Kilauea Mauna cyanea",
-7
+"Kilauea Mauna cyanea"
+]
 ],
 [
 "pohaku cyanea",
-7
+7,
+[]
 ],
 [
 "greensword",
-7
-],
+7,
 [
-"silversword",
-7
+"silversword"
+]
 ],
 [
 "lava hau kuahiwi",
-7
+7,
+[]
 ],
 [
 "hau kuahiwi",
-7
-],
+7,
 [
-"Kawaihae Hibiscadelphus",
-7
+"Kawaihae Hibiscadelphus"
+]
 ],
 [
 "Adams Mistletoe",
-7
+7,
+[]
 ],
 [
 "St Helena Heliotrope",
-7
+7,
+[]
 ],
 [
 "Athens Caddisfly",
-7
+7,
+[]
 ],
 [
 "Three-tooth Caddisfly",
-7
+7,
+[]
 ],
 [
 "Fine-rayed Pearlymussel",
-7
-],
+7,
 [
 "Fine-rayed Pearly Mussel",
-7
-],
-[
-"Round Combshell",
-7
+"Round Combshell"
+]
 ],
 [
 "Forkshell",
-7
-],
+7,
 [
-"Lewis Pearly Mussel",
-7
+"Lewis Pearly Mussel"
+]
 ],
 [
 "Angled riffleshell",
-7
-],
+7,
 [
-"Angled Riffleshell",
-7
+"Angled Riffleshell"
+]
 ],
 [
 "Narrow Catspaw",
-7
-],
+7,
 [
-"Stone's Pearly Mussel",
-7
+"Stone's Pearly Mussel"
+]
 ],
 [
 "Shouldered Elimia",
-7
+7,
+[]
 ],
 [
 "Striped Rocksnail",
-7
+7,
+[]
 ],
 [
 "Acorn Ramshorn",
-7
+7,
+[]
 ],
 [
 "Fish Lake Physa",
-7
+7,
+[]
 ],
 [
 "Angled Flat-top Snail",
-7
+7,
+[]
 ],
 [
 "Lirate Rocksnail",
-7
-],
+7,
 [
-"Lyrate Rocksnail",
-7
+"Lyrate Rocksnail"
+]
 ],
 [
 "Fusiform Elimia",
-7
+7,
+[]
 ],
 [
 "Hearty Elimia",
-7
+7,
+[]
 ],
 [
 "High-spired Elimia",
-7
+7,
+[]
 ],
 [
 "Rotund Rocksnail",
-7
+7,
+[]
 ],
 [
 "Ribbed Elimia",
-7
+7,
+[]
 ],
 [
 "Squat Rocksnail",
-7
+7,
+[]
 ],
 [
 "Wrinkled Elimia",
-7
+7,
+[]
 ],
 [
 "Reverse Pebblesnail",
-7
+7,
+[]
 ],
 [
 "Thick-lipped Pebblesnail",
-7
+7,
+[]
 ],
 [
 "Teardrop elimia",
-7
-],
+7,
 [
-"Teardrop Elimia",
-7
+"Teardrop Elimia"
+]
 ],
 [
 "Channeled Pebblesnail",
-7
+7,
+[]
 ],
 [
 "Lovegrass Noctuid Moth",
-7
+7,
+[]
 ],
 [
 "Kaholuamano Noctuid Moth",
-7
+7,
+[]
 ],
 [
 "Confused Moth",
-7
+7,
+[]
 ],
 [
 "long-foot cyanea",
-7
+7,
+[]
 ],
 [
 "eleele cyanea",
-7
+7,
+[]
 ],
 [
 "Hawai'i yellowwood",
-7
+7,
+[]
 ],
 [
 "oakleaf cyanea",
-6
-],
+6,
 [
-"Oakleaf Cyanea",
-6
+"Oakleaf Cyanea"
+]
 ],
 [
 "Stringwood",
-6
+6,
+[]
 ],
 [
 "Waiautoa Forget-Me-Not",
-6
+6,
+[]
 ],
 [
 "Roberts' Lechwe",
-6
+6,
+[]
 ],
 [
 "Tobias' Caddisfly",
-6
+6,
+[]
 ],
 [
 "Highnut",
-6
+6,
+[]
 ],
 [
 "True Pigtoe",
-6
+6,
+[]
 ],
 [
 "Longnut",
-6
+6,
+[]
 ],
 [
 "Alabama Pigtoe",
-6
+6,
+[]
 ],
 [
 "Hazel Pigtoe",
-6
+6,
+[]
 ],
 [
 "Brown Pigtoe",
-6
+6,
+[]
 ],
 [
 "Ovate Clubshell",
-6
+6,
+[]
 ],
 [
 "Scioto Pigtoe",
-6
+6,
+[]
 ],
 [
 "Yellow Pigtoe",
-6
+6,
+[]
 ],
 [
 "Alabama Clubshell",
-6
+6,
+[]
 ],
 [
 "neomacounia moss",
-6
+6,
+[]
 ],
 [
 "Mount Matafao different snail",
-6
-],
+6,
 [
-"Mount Matafao Different Snail",
-6
+"Mount Matafao Different Snail"
+]
 ],
 [
 "Hilo Noctuid Moth",
-6
+6,
+[]
 ],
 [
 "Laysan Dropseed Noctuid Moth",
-6
+6,
+[]
 ],
 [
 "Moorean Viviparous Tree Snail",
-6
+6,
+[
+"Polynesian Tree Snail"
+]
 ],
 [
 "Kaholuamanu melicope",
-6
+6,
+[]
 ],
 [
 "thinleaf camasey",
-6
+6,
+[]
 ],
 [
 "Madeiran Land Snail",
-6
+6,
+[]
 ],
 [
 "Pachnodus snail",
-6
+6,
+[]
 ],
 [
 "Ko'olau Giant Looper Moth",
-6
+6,
+[]
 ],
 [
 "Tombigbee Moccasinshell",
-6
+6,
+[]
 ],
 [
 "Ola'a Peppered Looper Moth",
-6
+6,
+[]
 ],
 [
 "Waihee clermontia",
-5
+5,
+[]
 ],
 [
 "Maui cyanea",
-5
+5,
+[]
 ],
 [
 "linearleaf cyanea",
-5
+5,
+[]
 ],
 [
 "tropical govenia",
-5
+5,
+[]
 ],
 [
 "Kauai cyrtandra",
-5
+5,
+[]
 ],
 [
 "Waioli Valley rollandia",
-5
+5,
+[]
 ],
 [
 "Kauai blacksnakeroot",
-5
+5,
+[]
 ],
 [
 "Bennett's Seaweed",
-5
+5,
+[]
 ],
 [
 "Coosa Pigtoe",
-5
+5,
+[]
 ],
 [
 "Olive Marstonia",
-5
+5,
+[]
 ],
 [
 "Great Saint Helena Awl Snail",
-5
+5,
+[]
 ],
 [
 "Polynesia Tree Snail",
-5
+5,
+[]
 ],
 [
 "Mount Alifana Partula",
-5
-],
+5,
 [
-"Tree Snail",
-5
+"Tree Snail"
+]
 ],
 [
 "Laughing owl",
-4
+4,
+[]
 ],
 [
 "Large Sloth Lemur",
-4
+4,
+[]
 ],
 [
 "splitleaf cyanea",
-4
+4,
+[]
 ],
 [
 "manyfruit cyanea",
-4
+4,
+[]
 ],
 [
 "sessileleaf cyanea",
-4
+4,
+[]
 ],
 [
 "lavafield false ohelo",
-4
+4,
+[]
 ],
 [
 "Fort Ross Weevil",
-4
+4,
+[]
 ],
 [
 "Yorba Linda Weevil",
-4
+4,
+[]
 ],
 [
 "Kenya Oribi",
-4
+4,
+[]
 ],
 [
 "Niihau schiedea",
-3
+3,
+[]
 ],
 [
 "Waitakere Scurvy Grass",
-3
+3,
+[]
 ],
 [
 "Interrupted Rocksnail",
-3
+3,
+[]
 ],
 [
 "Fish Springs Marshsnail",
-3
+3,
+[]
+],
+[
+"Caribbean Emerald",
+1,
+[
+"Gould's emerald",
+"Gould's Emerald"
+]
+],
+[
+"Chestnut Clearwing Moth",
+1,
+[]
+],
+[
+"Lyall's Wren",
+1,
+[
+"Stephens Island wren",
+"Stephens Island Wren"
+]
+],
+[
+"St Helena Ebony Tree",
+1,
+[]
+],
+[
+"Yunnan lake newt",
+0,
+[]
+],
+[
+"Large St Helena Petrel",
+0,
+[
+"St Helena Gadfly Petrel"
+]
+],
+[
+"Chatham Island Rail",
+0,
+[
+"Chatham Islands Rail",
+"Chatham Rail"
+]
+],
+[
+"Wake Island Rail",
+0,
+[]
+],
+[
+"St. Helena Crake",
+0,
+[]
+],
+[
+"Kosrae Crake",
+0,
+[]
+],
+[
+"Tahiti Crake",
+0,
+[]
+],
+[
+"Dieffenbach's Rail",
+0,
+[]
 ]
 ]

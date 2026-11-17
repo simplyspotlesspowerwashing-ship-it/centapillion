@@ -1,226 +1,515 @@
 [
 [
 "sushi",
-133
+133,
+[]
 ],
 [
 "tofu",
-98
+98,
+[
+"awara",
+"bean curd",
+"beancurd",
+"doufu",
+"dòufu",
+"dubu",
+"silken tofu",
+"soya curd",
+"soy bean curd",
+"soybean curd",
+"soybeans"
+]
 ],
 [
 "ramen",
-81
+81,
+[]
 ],
 [
 "soy sauce",
-72
+72,
+[
+"ganjang",
+"jiangyou",
+"shoyu",
+"soy",
+"soya sauce"
+]
 ],
 [
 "sashimi",
-60
+60,
+[]
 ],
 [
 "tempura",
-59
+59,
+[
+"tenpura"
+]
 ],
 [
 "onigiri",
-53
+53,
+[
+"Japanese rice ball",
+"nigirimeshi",
+"omusubi"
+]
 ],
 [
 "miso",
-53
+53,
+[
+"Soya paste",
+"Soybean paste"
+]
 ],
 [
 "miso soup",
-53
+53,
+[
+"miso shiru"
+]
 ],
 [
 "udon",
-52
+52,
+[]
 ],
 [
 "takoyaki",
-45
+45,
+[]
 ],
 [
 "nori",
-43
+43,
+[]
 ],
 [
 "Sichuan pepper",
-40
+40,
+[
+"Chinese coriander",
+"Sichuan peppercorn"
+]
 ],
 [
 "wagashi",
-34
+34,
+[
+"collon",
+"Tang Guozi"
+]
 ],
 [
 "oden",
-34
+34,
+[]
 ],
 [
 "wakame",
-33
+33,
+[
+"sea mustard"
+]
 ],
 [
 "donburi",
-31
+31,
+[
+"Japanese rice bowl",
+"rice bowl"
+]
 ],
 [
 "izakaya",
-30
+30,
+[]
 ],
 [
 "sencha",
-30
+30,
+[
+"sencha tea",
+"steeped tea"
+]
 ],
 [
 "teppanyaki",
-30
+30,
+[
+"hibachi"
+]
 ],
 [
 "tsukemono",
-29
+29,
+[
+"Japanese pickles",
+"konomono",
+"okōkō",
+"oshinko"
+]
 ],
 [
 "osechi",
-29
+29,
+[
+"osechi ryōri"
+]
 ],
 [
 "kamaboko",
-28
+28,
+[]
 ],
 [
 "nikujaga",
-27
+27,
+[
+"niku-jaga"
+]
 ],
 [
 "oyakodon",
-26
+26,
+[
+"chicken and egg bowl"
+]
 ],
 [
 "gyokuro",
-23
+23,
+[
+"jade dew",
+"jewel dew"
+]
 ],
 [
 "Chikuwa",
-23
+23,
+[]
 ],
 [
 "kushikatsu",
-22
+22,
+[]
 ],
 [
 "makizushi",
-21
+21,
+[
+"maki",
+"Makimono (sushi)",
+"Maki sushi"
+]
 ],
 [
 "curry bread",
-19
+19,
+[]
 ],
 [
 "Jingisukan",
-19
+19,
+[]
 ],
 [
 "monjayaki",
-18
+18,
+[
+"monja",
+"monja-yaki"
+]
 ],
 [
 "Kusa mochi",
-18
+18,
+[
+"Yomogi mochi"
+]
 ],
 [
 "Japanese noodles",
-17
+17,
+[]
 ],
 [
 "ryōtei",
-16
+16,
+[]
 ],
 [
 "Tsukudani",
-16
+16,
+[]
 ],
 [
 "Light cheese cake",
-15
+15,
+[
+"Cheesecake",
+"Japanese style cheesecake"
+]
 ],
 [
 "nimono",
-11
+11,
+[]
 ],
 [
 "toshikoshi soba",
-11
+11,
+[]
 ],
 [
 "horumonyaki",
-10
+10,
+[
+"horumon-yaki"
+]
 ],
 [
 "gunkanmaki",
-9
+9,
+[
+"gunkan-maki",
+"warship roll"
+]
 ],
 [
 "kōji",
-9
+9,
+[
+"koji"
+]
 ],
 [
 "hitsumabushi",
-8
+8,
+[
+"Hitsumamushi",
+"ひつまぶし",
+"ひつまむし",
+"櫃まぶし",
+"櫃塗",
+"櫃塗し"
+]
 ],
 [
 "Iekei Ramen",
-8
+8,
+[]
 ],
 [
 "kaki fry",
-7
+7,
+[
+"kaki furai"
+]
 ],
 [
 "inago no tsukudani",
-6
+6,
+[
+"inago tsukudani"
+]
 ],
 [
 "Japanese tea",
-6
+6,
+[
+"tea of Japan"
+]
 ],
 [
 "Fukamushicha",
-6
+6,
+[
+"Deep Steamed Green Tea",
+"Deep Steam Green Tea",
+"Fukamushi",
+"Fukamushi Cha",
+"Fukamushi-Cha",
+"Sencha Fukamushi"
+]
 ],
 [
 "itamae",
-5
+5,
+[
+"sushi chef"
+]
 ],
 [
 "Rainbow roll",
-5
+5,
+[]
 ],
 [
 "shirumono",
-4
+4,
+[]
 ],
 [
 "tanukijiru",
-3
+3,
+[
+"raccoon-dog soup",
+"tanuki-jiru",
+"tanuki soup"
+]
 ],
 [
 "tanindon",
-3
+3,
+[]
 ],
 [
 "Japanese restaurant",
-3
+3,
+[]
 ],
 [
 "Thomas Hynes House",
-3
+3,
+[]
 ],
 [
 "hot roll",
-3
+3,
+[]
+],
+[
+"Imomochi",
+2,
+[
+"potato mochi"
+]
+],
+[
+"tuna mayonnaise",
+2,
+[
+"tuna mayo"
+]
+],
+[
+"kappō",
+2,
+[
+"kappō ryōri"
+]
+],
+[
+"taimeshi",
+2,
+[]
+],
+[
+"Shizuoka oden",
+2,
+[
+"Shizōka oden"
+]
+],
+[
+"Surinagashi",
+2,
+[]
+],
+[
+"fish surimi",
+2,
+[
+"surimi"
+]
+],
+[
+"Enokoro meshi",
+1,
+[
+"Enokoro-meshi",
+"Enokoromeshi"
+]
+],
+[
+"hyōrōgan",
+1,
+[]
+],
+[
+"Oga Shottsuru Yakisoba",
+1,
+[
+"Oga no Yakisoba"
+]
+],
+[
+"kasutera kamaboko",
+1,
+[
+"castella kamaboko"
+]
+],
+[
+"hōraku-yaki",
+1,
+[]
+],
+[
+"Yamaoyaji",
+1,
+[]
+],
+[
+"sumiso",
+1,
+[]
+],
+[
+"list of Japanese restaurants",
+1,
+[]
+],
+[
+"Bergh-Stoutenburgh House",
+1,
+[]
+],
+[
+"teriyaki",
+0,
+[]
+],
+[
+"Irimushi",
+0,
+[
+"Irimushicha",
+"Irimushi Cha",
+"Irimushi-Cha"
+]
+],
+[
+"Chūmushi",
+0,
+[
+"Chūmushicha",
+"Chūmushi Cha",
+"Chūmushi-Cha"
+]
+],
+[
+"Asamushi",
+0,
+[
+"Asamushicha",
+"Asamushi Cha",
+"Asamushi-Cha"
+]
 ]
 ]

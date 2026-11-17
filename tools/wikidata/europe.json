@@ -1,198 +1,468 @@
 [
 [
 "Turkey",
-430
+430,
+[
+"Republic of Turkey",
+"Republic of Türkiye"
+]
 ],
 [
 "France",
-428
+428,
+[
+"French Republic"
+]
 ],
 [
 "Russia",
-421
+421,
+[
+"Russian Federation"
+]
 ],
 [
 "Italy",
-409
+409,
+[
+"Italian Republic",
+"Republic of Italy"
+]
 ],
 [
 "Germany",
-405
+405,
+[
+"BRD",
+"DE",
+"DEU",
+"Federal Republic of Germany",
+"FRG"
+]
 ],
 [
 "Finland",
-403
+403,
+[
+"fi",
+"Finnia",
+"Land of Thousand Lakes",
+"Republic of Finland",
+"Republiken Finland",
+"Suomen tasavalta"
+]
 ],
 [
 "Spain",
-397
+397,
+[
+"Kingdom of Spain"
+]
 ],
 [
 "United Kingdom",
-396
+396,
+[
+"G B",
+"Great Britain",
+"Great Britain and Northern Ireland",
+"the UK",
+"the United Kingdom",
+"the United Kingdom of Great Britain and Northern Ireland",
+"U K",
+"United Kingdom of Great Britain and Northern Ireland"
+]
 ],
 [
 "Norway",
-394
+394,
+[
+"Kingdom of Norway"
+]
 ],
 [
 "Poland",
-391
+391,
+[
+"Republic of Poland"
+]
 ],
 [
 "Ukraine",
-390
+390,
+[
+"Ukr.",
+"Ukraïna",
+"Ukrainia"
+]
 ],
 [
 "Albania",
-387
+387,
+[
+"People's Republic of Albania",
+"People's Socialist Republic of Albania",
+"Republic of Albania",
+"Republika Popullore e Shqiperise",
+"Republika Popullore Socialiste e Shqiperise",
+"Shqipërisë"
+]
 ],
 [
 "Switzerland",
-387
+387,
+[
+"Confoederatio Helvetica",
+"Swiss",
+"Swiss Confederation"
+]
 ],
 [
 "Belgium",
-384
+384,
+[
+"Kingdom of Belgium"
+]
 ],
 [
 "Greece",
-378
+378,
+[
+"el",
+"gr",
+"Greek Republic",
+"Hellas, Greece",
+"Hellenic Republic"
+]
 ],
 [
 "Austria",
-372
+372,
+[
+"Republic of Austria"
+]
 ],
 [
 "Portugal",
-372
+372,
+[
+"POR",
+"Portuguese Republic"
+]
 ],
 [
 "Sweden",
-370
+370,
+[
+"Kingdom of Sweden",
+"se",
+"Swedish Kingdom"
+]
 ],
 [
 "Bulgaria",
-361
+361,
+[
+"Bulgarian Republic",
+"Republic of Bulgaria"
+]
 ],
 [
 "Belarus",
-360
+360,
+[
+"Belorussia",
+"Bielaruś",
+"Bielorussia",
+"by",
+"Byeloruss",
+"Byelorussia",
+"Republic of Belarus",
+"Respublika Belarus'",
+"Respublika Bielaruś",
+"White Russia",
+"White Ruthenia"
+]
 ],
 [
 "Hungary",
-359
+359,
+[]
 ],
 [
 "Iceland",
-356
+356,
+[
+"Icelandic republic",
+"Isl.",
+"Republic of Iceland",
+"Ysland"
+]
 ],
 [
 "Croatia",
-356
+356,
+[
+"Republic of Croatia",
+"RH"
+]
 ],
 [
 "Czech Republic",
-355
+355,
+[
+"Czechia",
+"the Czech Republic"
+]
 ],
 [
 "Estonia",
-354
+354,
+[
+"ee",
+"Eesti Vabariik",
+"Estland",
+"Republic of Estonia"
+]
 ],
 [
 "Lithuania",
-352
+352,
+[
+"Republic of Lithuania"
+]
 ],
 [
 "Serbia",
-352
+352,
+[
+"Republic of Serbia",
+"RS"
+]
 ],
 [
 "Georgia",
-351
+351,
+[
+"Georgia (country)",
+"Georgia (Sakartvelo)",
+"Republic of Georgia",
+"Sakartvelo"
+]
 ],
 [
 "Kazakhstan",
-350
+350,
+[
+"kz",
+"Republic of Kazakhstan",
+"Republic of Qazaqstan"
+]
 ],
 [
 "Romania",
-349
+349,
+[
+"Roumania",
+"Rumania"
+]
 ],
 [
 "Vatican City",
-343
+343,
+[
+"Città del Vaticano",
+"Holy See",
+"Papal State",
+"State of Vatican City",
+"Stato della Città del Vaticano",
+"Status Civitatis Vaticanae",
+"The Vatican",
+"Vatican",
+"Vatican City State"
+]
 ],
 [
 "Ireland",
-343
+343,
+[
+"Irish Republic",
+"Republic of Ireland",
+"Southern Ireland"
+]
 ],
 [
 "Bosnia and Herzegovina",
-342
+342,
+[
+"ba",
+"B&H",
+"Bosnia and Hercegovina",
+"Bosnia & Herzegovina",
+"Bosnia-Herzegovina"
+]
 ],
 [
 "Slovakia",
-341
+341,
+[
+"SK",
+"Slovak Republic",
+"SVK"
+]
 ],
 [
 "Latvia",
-336
+336,
+[
+"Latveja",
+"Latvejas Republika",
+"Latvian Republic",
+"Latvija",
+"Latvijas Republika",
+"Leţmо̄",
+"Leţmо̄ Vabāmо̄",
+"lv",
+"Republic of Latvia"
+]
 ],
 [
 "Luxembourg",
-335
+335,
+[
+"Grand Duchy of Luxembourg"
+]
 ],
 [
 "Andorra",
-333
+333,
+[
+"Principality of Andorra",
+"Principality of the Valleys of Andorra"
+]
 ],
 [
 "Slovenia",
-332
+332,
+[
+"Republic of Slovenia",
+"si",
+"slo",
+"Slovenija",
+"svn"
+]
 ],
 [
 "Moldova",
-331
+331,
+[
+"Moldavia",
+"Republica Moldova",
+"Republic of Moldova"
+]
 ],
 [
 "North Macedonia",
-327
+327,
+[
+"Former Yugoslav Republic of Macedonia",
+"FYR Macedonia",
+"Macedonia",
+"Makedonia",
+"MK",
+"MKD",
+"NM",
+"Republic of Macedonia",
+"Republic of North Macedonia"
+]
 ],
 [
 "Cyprus",
-327
+327,
+[
+"Greek Administration of Southern Cyprus",
+"Greek Cypriot State",
+"Republic of Cyprus"
+]
 ],
 [
 "Malta",
-327
+327,
+[
+"Republic of Malta"
+]
 ],
 [
 "Montenegro",
-323
+323,
+[
+"Republic of Montenegro"
+]
 ],
 [
 "Monaco",
-322
+322,
+[
+"Fort-Hercule",
+"mc",
+"Mùnegu",
+"Principality and Diocese of Monaco",
+"Principality of Monaco",
+"Principato di Monaco",
+"Principatu de Mu̍negu",
+"Prinçipatu de Mùnegu",
+"Principauté de Monaco"
+]
 ],
 [
 "Liechtenstein",
-316
+316,
+[
+"FL",
+"li",
+"Principality of Liechtenstein"
+]
 ],
 [
 "San Marino",
-314
+314,
+[
+"Most Serene Republic of San Marino",
+"sm"
+]
 ],
 [
 "Kosovo",
-285
+285,
+[
+"Republic of Kosovo",
+"RKS"
+]
 ],
 [
 "Kingdom of the Netherlands",
-108
+108,
+[
+"Kingdom of Netherlands",
+"Nederlanden",
+"Netherlands",
+"the Netherlands"
+]
 ],
 [
 "Kingdom of Denmark",
-56
+56,
+[
+"Danish Commonwealth",
+"Danish Realm",
+"Danmarkar Ríki",
+"Danmarkip Naalagaaffik",
+"Danmarks Rige",
+"Denmark",
+"Kongeriget Danmark",
+"Kongsríki Danmarkar",
+"Kunngeqarfik Danmarki",
+"Realm of Denmark"
+]
 ]
 ]

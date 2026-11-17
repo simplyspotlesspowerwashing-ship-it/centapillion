@@ -1,258 +1,1938 @@
 [
 [
 "trousers",
-134
+134,
+[
+"pant",
+"pants",
+"slacks"
+]
 ],
 [
 "shirt",
-120
+120,
+[
+"Qamis"
+]
 ],
 [
 "mask",
-116
+116,
+[
+"🎭",
+"art mask",
+"costume mask",
+"cultural mask"
+]
 ],
 [
 "skirt",
-113
+113,
+[]
 ],
 [
 "sari",
-84
+84,
+[
+"saree",
+"sarees",
+"saris",
+"shari"
+]
 ],
 [
 "dress",
-76
+76,
+[
+"frock",
+"gown",
+"one piece",
+"OP"
+]
 ],
 [
 "footwear",
-72
+72,
+[]
 ],
 [
 "undergarment",
-71
+71,
+[
+"underclothes",
+"underclothing",
+"undergarments",
+"underthings",
+"underwear"
+]
 ],
 [
 "uniform",
-67
+67,
+[]
 ],
 [
 "áo dài",
-60
+60,
+[
+"ao dai"
+]
 ],
 [
 "sarong",
-54
+54,
+[]
 ],
 [
 "suit",
-52
+52,
+[
+"business suit",
+"lounge suit",
+"two-piece suit"
+]
 ],
 [
 "costume",
-48
+48,
+[
+"attire",
+"dress",
+"wardrobe"
+]
 ],
 [
 "haute couture",
-47
+47,
+[
+"high fashion"
+]
 ],
 [
 "kaftan",
-46
+46,
+[
+"caftan"
+]
 ],
 [
 "headgear",
-44
+44,
+[
+"head attire",
+"head cover",
+"headdress",
+"head-piece",
+"headwear"
+]
 ],
 [
 "fur clothing",
-41
+41,
+[]
 ],
 [
 "fashion accessory",
-40
+40,
+[
+"accessories",
+"accessory",
+"clothing accessory",
+"costume accessory"
+]
 ],
 [
 "ready-to-wear",
-36
+36,
+[
+"off the peg",
+"off the rack",
+"pret-a-porter"
+]
 ],
 [
 "shalwar kameez",
-34
+34,
+[
+"salwar kameez",
+"shalwar qameez"
+]
 ],
 [
 "loincloth",
-33
+33,
+[
+"breechcloth",
+"breechclout",
+"loin cloth"
+]
 ],
 [
 "sash",
-30
+30,
+[
+"Sashes"
+]
 ],
 [
 "Liturgical vestments and insignia",
-30
+30,
+[
+"clerical vestment"
+]
 ],
 [
 "vintage clothing",
-29
+29,
+[
+"vintage"
+]
 ],
 [
 "clothing in ancient Egypt",
-26
+26,
+[]
 ],
 [
 "Islamic clothing",
-25
+25,
+[
+"clothes in Islam",
+"Islam and clothing",
+"Islamic clothes",
+"Islamic costume",
+"Islamic dress",
+"Islamic dress-code",
+"Islamic veil",
+"Muslim clothes",
+"Muslim clothing",
+"Muslim costume",
+"Muslim dress",
+"Muslim dress-code",
+"Muslim veil",
+"traditional Islamic clothing",
+"traditional Muslim clothing"
+]
 ],
 [
 "robe",
-25
+25,
+[]
 ],
 [
 "upper body garment",
-24
+24,
+[
+"top",
+"Tops (clothing)"
+]
 ],
 [
 "doublet",
-24
+24,
+[]
 ],
 [
 "Japanese clothing",
-23
+23,
+[
+"Japanese fashion",
+"wafuku"
+]
 ],
 [
 "sportswear",
-23
+23,
+[
+"activewear",
+"sports clothing"
+]
 ],
 [
 "sailor suit",
-22
+22,
+[]
 ],
 [
 "clothing in India",
-22
+22,
+[
+"clothing of India",
+"Indian Clothing"
+]
 ],
 [
 "songket",
-22
+22,
+[]
 ],
 [
 "jumpsuit",
-21
+21,
+[
+"catsuit",
+"jump suit"
+]
 ],
 [
 "e-textile",
-20
+20,
+[
+"electronic textiles",
+"Electronic textiles",
+"smart clothing",
+"smart textile"
+]
 ],
 [
 "explosive belt",
-20
+20,
+[
+"explosive vest",
+"suicide belt",
+"suicide vest"
+]
 ],
 [
 "pelerine",
-19
+19,
+[]
 ],
 [
 "streetwear",
-18
+18,
+[
+"street style"
+]
 ],
 [
 "sakkos",
-18
+18,
+[]
 ],
 [
 "Japanese street fashion",
-18
+18,
+[]
 ],
 [
 "nightwear",
-17
+17,
+[
+"nightclothes",
+"sleepwear"
+]
 ],
 [
 "fig leaf",
-17
+17,
+[
+"fig-leaf",
+"fig leaves",
+"fig-leaves",
+"fig leaves (garments)"
+]
 ],
 [
 "boubou",
-16
+16,
+[
+"agbada",
+"bubu"
+]
 ],
 [
 "outerwear",
-16
+16,
+[
+"outer garments"
+]
 ],
 [
 "Khalat",
-16
+16,
+[]
 ],
 [
 "formal wear",
-15
+15,
+[
+"formal attire",
+"formal clothes",
+"formal clothing",
+"formal dress wear"
+]
 ],
 [
 "basque",
-15
+15,
+[]
 ],
 [
 "sanbenito",
-15
+15,
+[]
 ],
 [
 "children's clothing",
-15
+15,
+[
+"children's clothes",
+"children's costume",
+"kids' clothing"
+]
 ],
 [
 "dress clothes",
-13
+13,
+[
+"business attire",
+"business clothing",
+"business wear",
+"dressclothes",
+"dress clothing",
+"dressclothing",
+"informal wear",
+"office wear",
+"professional attire",
+"professional clothing",
+"tenue de ville",
+"undress"
+]
 ],
 [
 "mundu",
-13
+13,
+[]
 ],
 [
 "çarşaf",
-12
+12,
+[
+"carsaf",
+"charshaf"
+]
 ],
 [
 "Lamba",
-12
+12,
+[]
 ],
 [
 "Sukmana",
-12
+12,
+[]
 ],
 [
 "latex clothing",
-11
+11,
+[
+"latex garment",
+"latex gear",
+"latex-wear",
+"latexwear"
+]
 ],
 [
 "beoseon",
-11
+11,
+[]
 ],
 [
 "see-through clothing",
-11
+11,
+[
+"diaphanous clothing",
+"sheer clothing",
+"translucent clothing",
+"transparent clothing"
+]
 ],
 [
 "sinh",
-11
+11,
+[]
 ],
 [
 "winter clothing",
-10
+10,
+[
+"cold weather clothing",
+"winter clothes"
+]
 ],
 [
 "China Poblana",
-10
+10,
+[]
 ],
 [
 "ready-made garment",
-10
+10,
+[
+"ready-made clothes",
+"ready made garment"
+]
 ],
 [
 "religious clothing",
-10
+10,
+[
+"religious costume"
+]
 ],
 [
 "kirtle",
-10
+10,
+[
+"saya"
+]
+],
+[
+"skin-tight garment",
+9,
+[
+"skin-tight clothes",
+"skintight clothes",
+"skin-tight clothing",
+"skintight clothing",
+"skintight garment",
+"snug clothes",
+"snug clothing",
+"tight clothes",
+"tight clothing"
+]
+],
+[
+"Chinese clothing",
+9,
+[
+"costume of China"
+]
+],
+[
+"Mekhela chador",
+9,
+[
+"Chador mekhela",
+"Mekhela chadar",
+"Mekhela sador"
+]
+],
+[
+"Hwarot",
+9,
+[]
+],
+[
+"Vietnamese clothing",
+8,
+[]
+],
+[
+"combination",
+8,
+[]
+],
+[
+"taʻovala",
+8,
+[
+"ta'ovala"
+]
+],
+[
+"bondage suit",
+8,
+[
+"gimp suit"
+]
+],
+[
+"Izaar",
+8,
+[]
+],
+[
+"Baju Melayu",
+8,
+[
+"Malay clothing",
+"Melayu clothing",
+"Melayu Kingdom clothing"
+]
+],
+[
+"fetish fashion",
+8,
+[
+"fetish clothes",
+"fetish clothing",
+"Fetish fashion / fetish clothing",
+"fetishized clothes",
+"fetishized clothing",
+"fetish wear",
+"fetishwear"
+]
+],
+[
+"Moroccan kaftan",
+8,
+[
+"caftan",
+"Moroccan caftan"
+]
+],
+[
+"jebba",
+7,
+[
+"jibbah"
+]
+],
+[
+"mitumba",
+7,
+[]
+],
+[
+"Aztec clothing",
+7,
+[]
+],
+[
+"gomesi",
+7,
+[]
+],
+[
+"Maya textiles",
+7,
+[]
+],
+[
+"Gamurra",
+7,
+[
+"Gammurra",
+"Socha",
+"Zipa",
+"Zupa"
+]
+],
+[
+"Kurdish clothing",
+7,
+[]
+],
+[
+"paper clothing",
+7,
+[
+"paper dress"
+]
+],
+[
+"Rumāl",
+7,
+[]
+],
+[
+"made to measure",
+7,
+[
+"made-to-measure",
+"MTM"
+]
+],
+[
+"Qashabiya",
+6,
+[]
+],
+[
+"infant clothing",
+6,
+[
+"baby clothes",
+"baby clothing"
+]
+],
+[
+"Panung",
+6,
+[]
+],
+[
+"unisex clothing",
+6,
+[
+"unisex clothes",
+"unisex costume"
+]
+],
+[
+"mourning dress",
+6,
+[
+"mourning",
+"mourning clothes",
+"widow's weeds"
+]
+],
+[
+"Algerian caftan",
+6,
+[
+"caftan",
+"carftan",
+"kaftan"
+]
+],
+[
+"military clothing",
+6,
+[]
+],
+[
+"Chepken",
+6,
+[]
+],
+[
+"racing suit",
+6,
+[
+"fire suit"
+]
+],
+[
+"sleep mask",
+5,
+[
+"eye mask",
+"sleeping mask"
+]
+],
+[
+"Air conditioned clothing",
+5,
+[]
+],
+[
+"Tehuana",
+5,
+[]
+],
+[
+"Wearable art",
+5,
+[]
+],
+[
+"clothing of the Philippines",
+4,
+[
+"Filipino costume",
+"Philippine dress"
+]
+],
+[
+"Medieval clothing",
+4,
+[
+"clothing of the Middle Ages",
+"costume of the Middle Ages",
+"fashion of the Middle Ages",
+"medieval fashion"
+]
+],
+[
+"Mughal clothing",
+4,
+[]
+],
+[
+"Manta esperancera",
+4,
+[]
+],
+[
+"western wear",
+4,
+[]
+],
+[
+"durra'ah",
+4,
+[]
+],
+[
+"designer clothing",
+4,
+[]
+],
+[
+"clothing in the ancient world",
+4,
+[
+"ancient clothing",
+"costume of the ancient world"
+]
+],
+[
+"Wrapper",
+4,
+[
+"Liputa",
+"pagne"
+]
+],
+[
+"Kamleika",
+4,
+[]
+],
+[
+"women's clothing",
+4,
+[
+"female clothing",
+"girl's clothes",
+"girls clothes",
+"girl's clothing",
+"girls clothing",
+"women's clothes",
+"women's costume",
+"womenswear"
+]
+],
+[
+"shoe covers",
+4,
+[
+"overshoe",
+"overshoes",
+"shoe cover"
+]
+],
+[
+"Burmese clothing",
+4,
+[]
+],
+[
+"canezou",
+4,
+[
+"canezou-fichu"
+]
+],
+[
+"Colobium sindonis",
+4,
+[]
+],
+[
+"Spanish costume",
+4,
+[
+"folk dress of Spain",
+"Spanish clothing",
+"traditional clothing of Spain"
+]
+],
+[
+"Malaysian Batik",
+4,
+[]
+],
+[
+"plastic clothing",
+4,
+[
+"plastic fashion"
+]
+],
+[
+"throwback uniform",
+4,
+[
+"heritage guernseys",
+"retro kits",
+"retro uniforms"
+]
+],
+[
+"Indo-Western clothing",
+4,
+[]
+],
+[
+"Viking clothing",
+3,
+[
+"Viking costumes"
+]
+],
+[
+"menswear",
+3,
+[
+"Men's clothing",
+"men's fashion"
+]
+],
+[
+"leopard skin",
+3,
+[
+"panther skin"
+]
+],
+[
+"Sailing wear",
+3,
+[]
+],
+[
+"siren suit",
+3,
+[]
+],
+[
+"playsuit",
+3,
+[]
+],
+[
+"Court uniforms and dress of Russia",
+3,
+[]
+],
+[
+"18th-century clothing",
+3,
+[
+"18th-century costume",
+"18th-century dress",
+"18th-century fashion",
+"clothing of the 18th century",
+"costume of the 1700s"
+]
+],
+[
+"Mdemma",
+3,
+[]
+],
+[
+"adaptive clothing",
+3,
+[
+"accessible clothing"
+]
+],
+[
+"wedding clothing",
+3,
+[
+"wedding clothes",
+"wedding costume"
+]
+],
+[
+"anti-suicide smock",
+3,
+[
+"Bam Bam suit"
+]
+],
+[
+"clothing in Africa",
+3,
+[
+"African clothing",
+"clothing of Africa"
+]
+],
+[
+"puletasi",
+3,
+[]
+],
+[
+"Basquiña",
+3,
+[]
+],
+[
+"Khmer Traditional Costumes",
+3,
+[
+"Cambodian clothing",
+"folk costume of Cambodia",
+"folk dress of Cambodia",
+"traditional costume of Cambodia"
+]
+],
+[
+"Uniforms of the United States Air Force",
+3,
+[]
+],
+[
+"Military uniforms of the Confederate States",
+3,
+[
+"Confederate uniforms"
+]
+],
+[
+"Uniforms of the United States Marine Corps",
+3,
+[]
+],
+[
+"Uniforms of the United States Military",
+3,
+[]
+],
+[
+"Uniforms of the United States Navy",
+3,
+[]
+],
+[
+"wrap",
+3,
+[]
+],
+[
+"belted plaid",
+3,
+[
+"feileadh-mor",
+"féileadh-mór",
+"great kilt"
+]
+],
+[
+"Hikeshi hanten",
+3,
+[]
+],
+[
+"lower garment",
+2,
+[]
+],
+[
+"Chofuku",
+2,
+[]
+],
+[
+"Qatari clothing",
+2,
+[]
+],
+[
+"khaftan",
+2,
+[]
+],
+[
+"Sunday best",
+2,
+[
+"Sunday clothes",
+"Sunday's best"
+]
+],
+[
+"Dalmatic (profane)",
+2,
+[]
+],
+[
+"Laz costume",
+2,
+[]
+],
+[
+"figure skating costume",
+2,
+[]
+],
+[
+"protective clothing",
+2,
+[
+"protective wear",
+"safety wear"
+]
+],
+[
+"Uniforms of the United States Army",
+2,
+[
+"Uniforms of the U.S. Army",
+"United States Army uniforms",
+"U.S. Army uniforms"
+]
+],
+[
+"Pollera panameña",
+2,
+[]
+],
+[
+"weighted clothing",
+2,
+[
+"Weighted Clothing"
+]
+],
+[
+"lion skin",
+2,
+[
+"lion",
+"lion fur",
+"lionskin"
+]
+],
+[
+"motorcycle riding gear",
+2,
+[
+"Motorcycle protective clothing",
+"Motorcycle Protective Gear",
+"riding gear"
+]
+],
+[
+"Surfwear",
+2,
+[]
+],
+[
+"Epitoge",
+2,
+[]
+],
+[
+"lingerie dress",
+2,
+[]
+],
+[
+"bum flap",
+2,
+[
+"butt flap"
+]
+],
+[
+"form-fitting garment",
+2,
+[]
+],
+[
+"gabi",
+2,
+[]
+],
+[
+"Botón charro",
+2,
+[]
+],
+[
+"deconstructivism",
+2,
+[]
+],
+[
+"Teresiana",
+2,
+[]
+],
+[
+"tipoy",
+2,
+[]
+],
+[
+"Gala",
+1,
+[]
+],
+[
+"men's clothing",
+1,
+[
+"boy's clothes",
+"boys clothes",
+"boy's clothing",
+"boys clothing",
+"male clothing",
+"men's apparel",
+"men's clothes",
+"men's costume",
+"menswear"
+]
+],
+[
+"Killah",
+1,
+[]
+],
+[
+"rastra",
+1,
+[]
+],
+[
+"penis sheath",
+1,
+[]
+],
+[
+"traditional clothing",
+1,
+[]
+],
+[
+"Uniforms of the United States Coast Guard",
+1,
+[]
+],
+[
+"Wikimedia clothing",
+1,
+[]
+],
+[
+"bikini bottom",
+1,
+[
+"bathing panties",
+"half-bikini"
+]
+],
+[
+"Dermasilk",
+1,
+[]
+],
+[
+"non-human clothing",
+1,
+[
+"animal clothes",
+"animal clothing",
+"animal fashion",
+"non-human clothes",
+"non-human fashion"
+]
+],
+[
+"ripped or torn clothing",
+1,
+[
+"damaged clothes",
+"damaged clothing",
+"ripped clothes",
+"ripped clothing",
+"shredded clothes",
+"shredded clothing",
+"torn clothes",
+"torn clothing"
+]
+],
+[
+"Kelambi",
+1,
+[]
+],
+[
+"Kanson",
+1,
+[]
+],
+[
+"black clothing",
+1,
+[]
+],
+[
+"Antakarana Tradionnal costume",
+1,
+[]
+],
+[
+"Nippolo",
+1,
+[]
+],
+[
+"Targat",
+1,
+[]
+],
+[
+"Aldamer",
+1,
+[]
+],
+[
+"lower body clothing",
+1,
+[
+"LOWER-BODY GARMENTS"
+]
+],
+[
+"Uniforms of the Confederate States Army",
+1,
+[
+"Confederate army uniforms",
+"Confederate States Army uniforms",
+"C.S. Army uniforms"
+]
+],
+[
+"Military headgear of the Confederate States",
+1,
+[]
+],
+[
+"Kepis of the Confederate States",
+1,
+[
+"Confederate forage caps"
+]
+],
+[
+"Military insignia of the Confederate States",
+1,
+[]
+],
+[
+"Uniform of the Commander-in-Chief's Guard",
+1,
+[]
+],
+[
+"one-piece suit",
+1,
+[
+"one-piece garments"
+]
+],
+[
+"kolomo",
+1,
+[
+"koromo"
+]
+],
+[
+"vinyl clothing",
+1,
+[]
+],
+[
+"evening wear",
+1,
+[
+"evening dress",
+"eveningwear",
+"formal dress"
+]
+],
+[
+"clothing in Tibet",
+1,
+[
+"clothing of Tibet",
+"Tibetan costume"
+]
+],
+[
+"Vetpak",
+1,
+[]
+],
+[
+"outdoor clothing",
+1,
+[]
+],
+[
+"Yup'ik clothing",
+1,
+[
+"Alaskan Yup'ik clothing",
+"Central Alaskan Yup'ik clothing",
+"Central Yup'ik clothing"
+]
+],
+[
+"Clothing of Oman",
+1,
+[]
+],
+[
+"pet clothing",
+1,
+[
+"pet apparel",
+"pet clothes"
+]
+],
+[
+"spray-on clothing",
+1,
+[
+"spray-on clothes"
+]
+],
+[
+"Mongolian clothing",
+1,
+[]
+],
+[
+"Renaissance clothing",
+1,
+[
+"clothing of the Renaissance",
+"Renaissance costume",
+"Renaissance fashion"
+]
+],
+[
+"19th-century clothing",
+1,
+[
+"19th-century costume",
+"19th-century fashion",
+"clothing of the 1800s",
+"Victorian fashion"
+]
+],
+[
+"20th-century clothing",
+1,
+[
+"20th-century costume",
+"20th-century fashion",
+"costume of the 1900s"
+]
+],
+[
+"leather clothing",
+1,
+[
+"leather fashion",
+"leather garment",
+"leather gear",
+"leather outfit",
+"leather wear",
+"leatherwear",
+"skin garment"
+]
+],
+[
+"tattered",
+1,
+[
+"ragged",
+"rags",
+"tatters"
+]
+],
+[
+"doll clothes",
+1,
+[
+"doll's clothes",
+"doll's clothing"
+]
+],
+[
+"Saint Tropez",
+1,
+[]
+],
+[
+"shrug",
+1,
+[]
+],
+[
+"argon",
+1,
+[
+"agon",
+"agrun",
+"argon (clothing)",
+"parsa"
+]
+],
+[
+"loungewear",
+1,
+[
+"comfort wear",
+"homewear",
+"lounge-wear"
+]
+],
+[
+"gandola",
+1,
+[]
+],
+[
+"Chekh",
+1,
+[
+"Chukheh"
+]
+],
+[
+"Canilleta",
+1,
+[]
+],
+[
+"Hiking apparel",
+1,
+[]
+],
+[
+"frock",
+1,
+[]
+],
+[
+"googarad",
+1,
+[]
+],
+[
+"Dêrî",
+1,
+[]
+],
+[
+"Reconstructed clothing",
+1,
+[]
+],
+[
+"resort wear",
+1,
+[
+"beachwear",
+"cruise collection",
+"cruise wear",
+"resortwear"
+]
+],
+[
+"traditional clothes of Costa Rica",
+1,
+[
+"traditional costumes of Costa Rica"
+]
+],
+[
+"Rocha John Rocha",
+1,
+[]
+],
+[
+"white clothing",
+1,
+[]
+],
+[
+"Indonesian clothing",
+0,
+[]
+],
+[
+"piupiu",
+0,
+[]
+],
+[
+"pihepihe",
+0,
+[
+"pukeke"
+]
+],
+[
+"Riding gear",
+0,
+[]
+],
+[
+"Korean clothing",
+0,
+[]
+],
+[
+"smock",
+0,
+[]
+],
+[
+"calçola",
+0,
+[]
+],
+[
+"pagan shirt",
+0,
+[]
+],
+[
+"canga (beach)",
+0,
+[]
+],
+[
+"campeira cover",
+0,
+[]
+],
+[
+"cigarette",
+0,
+[]
+],
+[
+"warmer",
+0,
+[]
+],
+[
+"jowl",
+0,
+[]
+],
+[
+"windbreakers",
+0,
+[]
+],
+[
+"jacket",
+0,
+[]
+],
+[
+"perneira (pants)",
+0,
+[]
+],
+[
+"shorts",
+0,
+[]
+],
+[
+"dirty laundry",
+0,
+[]
+],
+[
+"rubber garment",
+0,
+[
+"PVC clothing",
+"PVC wear",
+"rubber clothing",
+"rubber wear",
+"rubberwear"
+]
+],
+[
+"festive clothing",
+0,
+[
+"festive costume"
+]
+],
+[
+"baby & toddler clothing",
+0,
+[]
+],
+[
+"shirts & top",
+0,
+[]
+],
+[
+"sleepwear & loungewear",
+0,
+[]
+],
+[
+"traditional & ceremonial clothing",
+0,
+[]
+],
+[
+"underwear & sock",
+0,
+[]
+],
+[
+"wedding & bridal party dress",
+0,
+[]
+],
+[
+"clothing & closet storage",
+0,
+[]
+],
+[
+"erotic clothing",
+0,
+[]
+],
+[
+"summer clothing",
+0,
+[
+"summer clothes"
+]
+],
+[
+"Arab clothing",
+0,
+[
+"Arab dress",
+"Arabic clothing",
+"clothing in Arab cultures"
+]
+],
+[
+"DAIWA",
+0,
+[]
+],
+[
+"World Book Day costumes",
+0,
+[]
+],
+[
+"ibtiya",
+0,
+[
+"sleeveless jacket"
+]
+],
+[
+"Men's Abaya",
+0,
+[
+"aba"
+]
+],
+[
+"Danish clothing",
+0,
+[]
+],
+[
+"laundry",
+0,
+[
+"dirty clothes",
+"dirty clothing",
+"dirty laundry",
+"dirty linens",
+"dirty sheets"
+]
+],
+[
+"Uis Nipes",
+0,
+[]
+],
+[
+"skater clothing",
+0,
+[]
+],
+[
+"second hand clothes",
+0,
+[
+"second hand clothing"
+]
+],
+[
+"dressingwear",
+0,
+[
+"dressing garment"
+]
+],
+[
+"17th-century clothing",
+0,
+[
+"17th-century dress",
+"17th-century fashion",
+"Baroque clothing",
+"costume of the Baroque"
+]
+],
+[
+"21st-century clothing",
+0,
+[]
+],
+[
+"professional wear",
+0,
+[
+"professional costume"
+]
+],
+[
+"historical costume",
+0,
+[
+"historical garment",
+"historic costume"
+]
+],
+[
+"ensemble",
+0,
+[
+"clothing ensemble",
+"outfit",
+"outfit set"
+]
+],
+[
+"fancy dress costume",
+0,
+[
+"carnival costume",
+"costume",
+"masquerade costume"
+]
+],
+[
+"break-away",
+0,
+[
+"breakaway",
+"tear-away"
+]
+],
+[
+"multiple",
+0,
+[]
+],
+[
+"baby suit",
+0,
+[]
+],
+[
+"wearing blanket",
+0,
+[]
+],
+[
+"battle jacket",
+0,
+[
+"battle dress blouse",
+"battle dress jacket",
+"blouse"
+]
+],
+[
+"clothing of indigenous peoples of North America",
+0,
+[]
+],
+[
+"Design and production of clothing and accessories",
+0,
+[]
+],
+[
+"insulating layer",
+0,
+[
+"\"keep-you-warm\" layer",
+"keep you warm layer",
+"mid layer"
+]
+],
+[
+"Being Molvi",
+0,
+[
+"BeingMolvi"
+]
+],
+[
+"woolens",
+0,
+[]
+],
+[
+"couture copy",
+0,
+[
+"exact copy",
+"licensed copy",
+"line-for-line copy",
+"reproduction"
+]
+],
+[
+"low-rise clothing",
+0,
+[]
+],
+[
+"party clothing",
+0,
+[]
+],
+[
+"motorcycle clothes",
+0,
+[]
+],
+[
+"cover-up",
+0,
+[
+"cover up",
+"coverup"
+]
 ]
 ]

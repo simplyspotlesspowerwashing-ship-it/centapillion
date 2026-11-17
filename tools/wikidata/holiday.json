@@ -1,1182 +1,18845 @@
 [
 [
 "Christmas",
-280
+280,
+[
+"Christmas celebration",
+"X-mas",
+"Xmas"
+]
 ],
 [
 "September 29",
-221
+221,
+[
+"29 September",
+"29th of September",
+"Sep 29",
+"September 29th"
+]
 ],
 [
 "Valentine's Day",
-149
+149,
+[
+"Saint Valentine Day",
+"Saint Valentine's Day",
+"St Valentine's Day",
+"St. Valentine's Day",
+"Valentines Day",
+"Valentines' Day",
+"V-Day"
+]
 ],
 [
 "Eid al-Adha",
-140
+140,
+[
+"Al Adha feast",
+"Corban Festival",
+"Eid Lamb",
+"Feast of Sacrifice",
+"Feast of the Sacrifice",
+"Festival of Sacrifice",
+"Festival of the Sacrifice",
+"Goat Eid",
+"Greater Eid",
+"Major Festival",
+"Qurban Eid",
+"Sacrifice Day"
+]
 ],
 [
 "Eid al-Fitr",
-133
+133,
+[
+"Eid al Fitr",
+"Eid Nights",
+"Eid ul Fitr",
+"id al-fitr",
+"Sugar Feast",
+"Sweet Eid"
+]
 ],
 [
 "International Workers' Day",
-125
+125,
+[
+"1 May",
+"first of May",
+"Labor Day",
+"May 1",
+"May Day",
+"Workers' Day"
+]
 ],
 [
 "Holy Friday",
-117
+117,
+[
+"Good Friday"
+]
 ],
 [
 "Mother's Day",
-115
+115,
+[
+"Mom Day",
+"Mother’s Day",
+"Mum Day"
+]
 ],
 [
 "Diwali",
-107
+107,
+[
+"Deepavali",
+"Deepawali",
+"Dehardi",
+"Dewali",
+"Dipavali",
+"Dipawali",
+"Divali",
+"Festival of Lights",
+"Gadarafubhi",
+"Hindu Festival of Lights",
+"Tudar Parbo"
+]
 ],
 [
 "Nowruz",
-100
+100,
+[
+"Farmer's Day",
+"Narooz",
+"Nauroz",
+"Nauruz",
+"Nauryz",
+"Navrez",
+"Navroj",
+"Navroz",
+"Navruz",
+"Naw-Ruz",
+"Naw-Rúz",
+"Nawroz",
+"Nevruz",
+"Newroz",
+"Nohrooz",
+"Nooruz",
+"Norooz",
+"Norouz",
+"Noruz",
+"Nourooz",
+"Nouruz",
+"Novruz",
+"Nowroj",
+"Nowrouz",
+"Spring Holiday"
+]
 ],
 [
 "Chinese New Year",
-98
+98,
+[
+"CNY",
+"Lunar New Year",
+"Spring Festival"
+]
 ],
 [
 "Father's Day",
-98
+98,
+[
+"Dad Day",
+"Father's Days"
+]
 ],
 [
 "Passover",
-95
+95,
+[
+"Feast of the Passover",
+"Jewish Feast of the Passover",
+"Pesach"
+]
 ],
 [
 "Hanukkah",
-93
+93,
+[
+"care Chimbo",
+"Channuka",
+"Chanuka",
+"Chanukah",
+"Chanukka",
+"Chanukkah",
+"Feast of Dedication",
+"Festival of Lights",
+"Hannukah",
+"Hannukkah",
+"Hanukah",
+"Hanukka",
+"Jewish Feast of Dedication"
+]
 ],
 [
 "Christmas Eve",
-89
+89,
+[]
 ],
 [
 "New Year's Eve",
-87
+87,
+[
+"New Years Eve"
+]
 ],
 [
 "Yom Kippur",
-86
+86,
+[
+"Day of Atonement"
+]
 ],
 [
 "Rosh Hashanah",
-78
+78,
+[
+"Jewish New Year",
+"Yom Ha'zikaron",
+"Yom Teruah"
+]
 ],
 [
 "Feast of the Ascension",
-77
+77,
+[
+"Ascension Day",
+"Ascension Thursday",
+"Holy Thursday"
+]
 ],
 [
 "Victory Day",
-71
+71,
+[
+"30 Ağustos Zafer Bayramı",
+"Bangladesh Victory Day",
+"Day of the Victory",
+"Lusaka Accord Day",
+"Our Lady of Victory Day",
+"Shusha Liberation Day",
+"Victory Day in Bangladesh",
+"Victory and Homeland Thanksgiving Day and the Day of Croatian Defenders",
+"Victory over Daesh",
+"bijaẏ dibas"
+]
 ],
 [
 "Sukkot",
-71
+71,
+[
+"Feast of Tabernacles",
+"Jewish Feast of Tabernacles"
+]
 ],
 [
 "Holy Saturday",
-69
+69,
+[
+"Black Saturday",
+"Easter Eve",
+"Great Sabbath",
+"Holy Saturday, Black Saturday"
+]
 ],
 [
 "Purim",
-68
+68,
+[
+"Feast of Esther",
+"Feast of Lots",
+"Feast of Purim",
+"Jewish Feast of Purim"
+]
 ],
 [
 "Black Friday",
-68
+68,
+[
+"Black Eye Friday",
+"Frantic Friday",
+"Mad Friday"
+]
 ],
 [
 "International Men's Day",
-66
+66,
+[
+"IMD"
+]
 ],
 [
 "Feast of Corpus Christi",
-64
+64,
+[
+"Corpus Domini",
+"Kurpus cristiana"
+]
 ],
 [
 "Candlemas",
-64
+64,
+[
+"Feast of the Presentation of Jesus Christ",
+"Feast of the Presentation of our Lord Jesus",
+"Feast of the Purification of the Blessed Virgin Mary"
+]
 ],
 [
 "New Year's Day",
-63
+63,
+[
+"1 January",
+"January 1",
+"New Years Day"
+]
 ],
 [
 "Europe Day",
-60
+60,
+[
+"Anniversary Of Robert Schuman's Declaration",
+"Schuman Day"
+]
 ],
 [
 "Easter Monday",
-59
+59,
+[
+"Bright Monday",
+"Renewal Monday"
+]
 ],
 [
 "Shavuot",
-58
+58,
+[
+"Feast of Pentecost",
+"Holiday of Water",
+"Pentecost"
+]
 ],
 [
 "Vesak",
-58
+58,
+[
+"Vaisakha",
+"Vesakha",
+"Wesak"
+]
 ],
 [
 "Mid-Autumn Festival",
-58
+58,
+[
+"Chuseok",
+"Mooncake Festival",
+"Moon Festival",
+"Otsukimi",
+"Reunion Festival",
+"Tết Trung thu",
+"Tsukimi"
+]
 ],
 [
 "Nativity of Mary",
-56
+56,
+[
+"birth of Mary",
+"Nativity of the Mother of God",
+"Nativity of the Theotokos"
+]
 ],
 [
 "Independence Day",
-54
+54,
+[
+"8 October",
+"Araw ng Kasarinlan",
+"Argentina Independence Day",
+"Argentina’s Independence Day",
+"Beginning of Independence Wars",
+"Boipuso",
+"Botswana Day",
+"Brazil's Independence Day",
+"Dan neovisnosti/nezavisnosti Bosne i Hercegovine",
+"Dan nezavisnosti Bosne i Hercegovine",
+"Dieciséis de Septiembre",
+"Fifth of July",
+"Finland Independence Day",
+"Finlands självständighetsdag",
+"Flag Day",
+"Hari Kemerdekaan",
+"Hari Kemerdekaan Indonesia",
+"Independence Day (Algeria)",
+"Independence Day (Croatia)",
+"Independence Day (Turkmenistan)",
+"Independence Day of Brazil",
+"Independence Day of Eritrea",
+"Independence Day of Somaliland",
+"Indonesia Independence Day",
+"Indonesian Independence Day",
+"Mexican Independence Day",
+"Mexico's Independence Day",
+"National Day",
+"National Day of Morocco",
+"October 8",
+"Philippine Centennial celebration",
+"Republic Day",
+"Restoration of Somaliland Sovereignty Day",
+"September 7",
+"Seychelles' Independence Day",
+"Somhlolo Day",
+"Suomen itsenäisyyspäivä",
+"Swadhinata Diwas",
+"Swatantrata Diwas",
+"The Eritrea's Independence Day",
+"The Independence Day of Eritrea",
+"Ziua Independenței",
+"Дан независности Босне и Херцеговине"
+]
 ],
 [
 "Navratri",
-53
+53,
+[
+"Navaratri",
+"Navrat",
+"Navratra"
+]
 ],
 [
 "Saturnalia",
-53
+53,
+[]
 ],
 [
 "Republic Day",
-52
+52,
+[
+"Ganatantra Diwas",
+"Ilinden",
+"India Day",
+"India Republic Day",
+"Kazakhstan Republic Day",
+"Kazakhstan's Republic Day",
+"Nepalese Republic Day",
+"Republic Day of Kazakhstan",
+"Union Day"
+]
 ],
 [
 "Maha Shivaratri",
-51
+51,
+[
+"Shivaratri"
+]
 ],
 [
 "Juneteenth",
-50
+50,
+[
+"Black Independence Day",
+"Cel-Liberation Day",
+"Emancipation Day",
+"Freedom Day",
+"Jubilee Day",
+"June teenth",
+"Juneteenth Celebration",
+"Juneteenth Day",
+"Juneteenth Independence Day",
+"Juneteenth National Independence Day"
+]
 ],
 [
 "Mardi Gras",
-49
+49,
+[
+"Fat Tuesday"
+]
 ],
 [
 "Australia Day",
-48
+48,
+[
+"Anniversary Day",
+"Foundation Day",
+"Invasion Day",
+"Survival Day"
+]
 ],
 [
 "Duanwu Festival",
-47
+47,
+[
+"China Dragon Boat Festival",
+"Double Fifth Festival",
+"Dragonboat Festival",
+"Dragon Boat Festival"
+]
 ],
 [
 "Day of Arafat",
-47
+47,
+[
+"Arafat Day",
+"Day of Arafah",
+"Wakfet Arafat",
+"Waqf al Arafa",
+"Waqfat Arafat"
+]
 ],
 [
 "Bacchanalia",
-47
+47,
+[]
 ],
 [
 "Imbolc",
-47
+47,
+[
+"Imbolg",
+"Lá Fhéile Bríde",
+"St Brigid's Day"
+]
 ],
 [
 "Towel Day",
-46
+46,
+[]
 ],
 [
 "German Unity Day",
-45
+45,
+[
+"Day of German Unity",
+"Tag der Deutschen Einheit"
+]
 ],
 [
 "Victory in Europe Day",
-45
+45,
+[
+"V-E Day",
+"VE Day"
+]
 ],
 [
 "Boxing Day",
-45
+45,
+[
+"Offering Day"
+]
 ],
 [
 "Yaldā",
-44
+44,
+[
+"Chelleh Night",
+"Shab-e Chelle",
+"Shab-e Yalda",
+"Yalda",
+"Yaldā Night"
+]
 ],
 [
 "Saint George Day",
-44
+44,
+[
+"Feast of Saint George",
+"Saint George's Day",
+"St. George's Day",
+"St.George's Day"
+]
 ],
 [
 "Lantern Festival",
-44
+44,
+[
+"Tết Nguyên Tiêu"
+]
 ],
 [
 "Ganesh Chaturthi",
-44
+44,
+[
+"Ganesha Chaturthi",
+"Pillayar Chaturthi",
+"Vinayaka Chaturthi"
+]
 ],
 [
 "St John's Eve",
-43
+43,
+[
+"Eve of John the Baptist"
+]
 ],
 [
 "Memorial Day",
-43
+43,
+[
+"Decoration Day"
+]
 ],
 [
 "Canada Day",
-43
+43,
+[
+"Dominion Day",
+"Fete du Canada",
+"Fête du Canada",
+"Jour de la Confederation",
+"Jour de la Confédération"
+]
 ],
 [
 "Cosmonautics Day",
-43
+43,
+[]
 ],
 [
 "Qingming Festival",
-43
+43,
+[
+"Ancestors' Day",
+"Chinese Memorial Day",
+"Ching Ming Festival",
+"Tomb Sweeping Day",
+"Tomb-Sweeping Day"
+]
 ],
 [
 "Hinamatsuri",
-43
+43,
+[
+"Girls' Day",
+"Hina matsuri"
+]
 ],
 [
 "St. Martin's Day",
-42
+42,
+[
+"Feast of Saint Martin",
+"Feast of St. Martin",
+"Feast of St Martin of Martin le Misericordieux",
+"Feast of St Martin of Martin le Miséricordieux",
+"Feast of St Martin of Tours",
+"Martinmas",
+"Martinstag"
+]
 ],
 [
 "Anzac Day",
-42
+42,
+[
+"Anzac day",
+"ANZAC day",
+"ANZAC Day",
+"Dawn service",
+"Digger Day"
+]
 ],
 [
 "Visitation",
-42
+42,
+[
+"The Visitation of the Blessed Mary",
+"Visitation of the Blessed Mary"
+]
 ],
 [
 "Kwanzaa",
-42
+42,
+[]
 ],
 [
 "Guy Fawkes Night",
-42
+42,
+[
+"Bonfire Night",
+"Fireworks Night",
+"Gunpowder Treason Day",
+"Guy Fawkes Day"
+]
 ],
 [
 "Vijayadashami",
-41
+41,
+[
+"Dasara",
+"Dashahara",
+"Dashain",
+"Dashera",
+"Durgotsav",
+"Dussehra",
+"Vijaya dasami"
+]
 ],
 [
 "Reformation Day",
-41
-],
-[
-"Feast of Saints Peter and Paul",
-40
-],
-[
-"Rama Navami",
-40
+41,
+[]
 ],
 [
 "Remembrance Day",
-40
+40,
+[
+"Bravo Day",
+"Day of Remembrance of suffering of Vukovar and Škabrnja",
+"Day of Remembrance of the Victims of the Homeland War",
+"Martyrs' Day",
+"Nuclear Survivors' Day",
+"Nuclear Victims' Day",
+"Poppy Day",
+"War Heroes' Day",
+"formerly Victory Day"
+]
+],
+[
+"Feast of Saints Peter and Paul",
+40,
+[
+"Saint Peter and Paul",
+"Saint Peter's and Paul's Day",
+"St. Peter and Paul",
+"St. Peter's and Paul's Day"
+]
+],
+[
+"Rama Navami",
+40,
+[
+"Ramnavami",
+"Ram Navami"
+]
 ],
 [
 "Pongal",
-40
+40,
+[
+"Poṅkal",
+"Tai Pongal",
+"Thai Pongal"
+]
 ],
 [
 "Buddha's birthday",
-40
+40,
+[
+"Buddha Jayanti",
+"Buddha Purnima"
+]
 ],
 [
 "Groundhog Day",
-40
+40,
+[
+"Daks Day",
+"Groundhog's Day"
+]
 ],
 [
 "Yom HaShoah",
-39
+39,
+[
+"Yom Hashoah",
+"Yom HaZikaron laShoah ve-laG'vurah"
+]
 ],
 [
 "Gandhi Jayanti",
-39
+39,
+[
+"Mahatma Gandhi Jayanti"
+]
 ],
 [
 "Sabantuy",
-38
+38,
+[]
 ],
 [
 "Independence Day of Ukraine",
-38
+38,
+[
+"Independence Day (Ukraine)"
+]
 ],
 [
 "Columbus Day",
-38
+38,
+[
+"Discoverers' Day",
+"Indigenous Peoples and Intercultural Dialogue Day",
+"Indigenous Peoples' Day",
+"Indigenous People's Resistance Day",
+"Native American Day",
+"North American First People's Day"
+]
 ],
 [
 "Programmer's Day",
-38
+38,
+[
+"Day of the Programmer"
+]
 ],
 [
 "Makar Sankranti",
-37
+37,
+[
+"Kumbh Mela",
+"Magha Mela",
+"Maghi",
+"Pedda Panduga",
+"Pongal",
+"Punyakalam",
+"Sankranthi",
+"Sankranti",
+"Songkrant Khmer",
+"Uttarayana"
+]
 ],
 [
 "Cyber Monday",
-37
+37,
+[]
 ],
 [
 "Russia Day",
-37
+37,
+[]
 ],
 [
 "King's Day",
-37
+37,
+[
+"Koninginnedag",
+"Koningsdag",
+"Queen's Day"
+]
 ],
 [
 "Naadam",
-37
+37,
+[
+"эрийн 3 наадам"
+]
 ],
 [
 "Saint Lucy's Day",
-37
+37,
+[
+"Feast of Saint Lucy",
+"Feast of Saint Lucy (Lucia)",
+"Saint Lucia's Day",
+"St Lucia Day",
+"St. Lucia Day",
+"St. Lucia's Day",
+"St Lucy's Day",
+"St. Lucy's Day"
+]
 ],
 [
 "Islamic New Year",
-37
+37,
+[
+"Hijri New Year"
+]
 ],
 [
 "Losar",
-36
+36,
+[]
 ],
 [
 "Defender of the Fatherland Day",
-36
+36,
+[]
 ],
 [
 "Ulambana",
-36
+36,
+[
+"Ghost Festival",
+"Gui Jie",
+"Hungry Ghost Festival",
+"Spirit Festival",
+"Yulan Festival",
+"Yulanpen Festival",
+"Zhongyuan Festival"
+]
 ],
 [
 "Qixi Festival",
-35
+35,
+[
+"ch'i-hsi",
+"chishih",
+"Double Seventh Festival",
+"Magpie Festival",
+"Night of Sevens",
+"Qiqiao Festival",
+"Qi Qiao Festival",
+"Qi Xi",
+"tanabata",
+"Tshit-sia̍h"
+]
 ],
 [
 "Fat Thursday",
-35
+35,
+[
+"Carnival Thursday"
+]
 ],
 [
 "White Day",
-35
+35,
+[]
 ],
 [
 "Hangul Day",
-35
-],
+35,
 [
-"Presentation of Mary",
-34
-],
-[
-"Pohela Boishakh",
-34
-],
-[
-"Africa Day",
-34
-],
-[
-"Singles' Day",
-34
-],
-[
-"Saint Nicholas Day",
-34
+"Hangul Proclamation Day"
+]
 ],
 [
 "Constitution Day",
-34
+34,
+[
+"Chehŏnjŏl",
+"Constitution Day of Kazakhstan",
+"FSM Day",
+"Federated States Day",
+"Jeheonjeol",
+"Sambidhaan Diwas"
+]
+],
+[
+"Presentation of Mary",
+34,
+[
+"The Presentation of the Blessed Virgin Mary"
+]
+],
+[
+"Pohela Boishakh",
+34,
+[
+"Bangla Noboborsho",
+"Naba Barsho",
+"Pahela Baishakh"
+]
+],
+[
+"Africa Day",
+34,
+[
+"African Freedom Day",
+"African Liberation Day"
+]
+],
+[
+"Singles' Day",
+34,
+[
+"Chinese Singles' Day",
+"Double Eleven",
+"November 11",
+"Singles Day",
+"W11"
+]
+],
+[
+"Saint Nicholas Day",
+34,
+[
+"Eve of Saint Nicholas",
+"Feast of Saint Nicholas of Bari",
+"Feast of St. Nicholas",
+"name day of St. Nicholas",
+"Saint Nicholas' Day",
+"St. Nicholas Eve"
+]
 ],
 [
 "Ratha Yatra",
-33
+33,
+[]
 ],
 [
 "Saint Andrew's Day",
-33
+33,
+[
+"feast of Andrew the Apostle",
+"feast of Saint Andrew",
+"Feast of Saint Andrew",
+"Feast of Saint Andrew the Apostle",
+"feast of the Apostle Andrew",
+"St Andrew's Day",
+"St. Andrew's Day",
+"thistle day"
+]
 ],
 [
 "Passover Seder",
-33
-],
-[
-"National Day of Sweden",
-32
-],
-[
-"Vasant Panchami",
-32
-],
-[
-"Chaharshanbe Suri",
-32
-],
-[
-"Star Wars Day",
-32
-],
-[
-"Old New Year",
-32
-],
-[
-"Ohi Day",
-32
-],
-[
-"Buy Nothing Day",
-32
+33,
+[]
 ],
 [
 "Labor Day",
-32
+32,
+[
+"Dri-jerbal Day",
+"Rijerbal Day"
+]
+],
+[
+"National Day of Sweden",
+32,
+[
+"Sveriges nationaldag"
+]
+],
+[
+"Vasant Panchami",
+32,
+[
+"Basant Panchami",
+"Festival of Kites",
+"Panchmi",
+"Saraswati Puja",
+"Shree Panchami"
+]
+],
+[
+"Chaharshanbe Suri",
+32,
+[
+"Charshanbe Suri",
+"Persian Festival of Fire",
+"Red Wednesday"
+]
+],
+[
+"Star Wars Day",
+32,
+[
+"May the 4th Be With You",
+"May the Fourth Be With You"
+]
+],
+[
+"Old New Year",
+32,
+[
+"Hen Galan",
+"Julian New Year",
+"Orthodox New Year",
+"Vasilica"
+]
+],
+[
+"Ohi Day",
+32,
+[
+"Anniversary of the No"
+]
+],
+[
+"Buy Nothing Day",
+32,
+[]
 ],
 [
 "Wikipedia Day",
-31
+31,
+[
+"Wikipedia:Wikipedia Day",
+"WP:Day",
+"WP:WPDAY"
+]
 ],
 [
 "Inti Raymi",
-31
+31,
+[]
 ],
 [
 "Saint Stephen's Day",
-31
+31,
+[
+"St Stephen's Day",
+"St. Stephen's Day"
+]
 ],
 [
 "Intercession of the Theotokos",
-31
+31,
+[
+"Pokrov"
+]
 ],
 [
 "Michaelmas",
-31
+31,
+[
+"Feast of Saint Michael and All Angels",
+"Feast of Saint Michael the Archangel (Michaelmas)",
+"Feast of the Archangels"
+]
 ],
 [
 "Holy Wednesday",
-31
+31,
+[]
 ],
 [
 "Armenian Genocide Remembrance Day",
-31
+31,
+[]
 ],
 [
 "National Day of the People's Republic of China",
-30
+30,
+[
+"guóqìng jié",
+"National Day"
+]
 ],
 [
 "National Independence Day",
-30
+30,
+[
+"Narodowe Święto Niepodległości"
+]
 ],
 [
 "Slava",
-30
+30,
+[
+"Slava (tradition)",
+"Svetets"
+]
 ],
 [
 "Ugadi",
-30
+30,
+[
+"Ougadi",
+"Yugadi"
+]
 ],
 [
 "Bloomsday",
-30
+30,
+[]
 ],
 [
 "Software Freedom Day",
-30
+30,
+[]
 ],
 [
 "Vidovdan",
-30
+30,
+[
+"Saint Vitus Day"
+]
 ],
 [
 "Hogmanay",
-29
+29,
+[]
 ],
 [
 "Gwangbokjeol",
-29
+29,
+[
+"Korean Independence Day",
+"Liberation Day"
+]
 ],
 [
 "May Day",
-29
-],
+29,
 [
-"Children's Day",
-28
-],
-[
-"National Day of Catalonia",
-28
-],
-[
-"Hıdırellez",
-28
-],
-[
-"Mehregan",
-28
+"1 May",
+"Early Spring Bank holiday",
+"May 1",
+"May Day Festival"
+]
 ],
 [
 "Veterans Day",
-28
+28,
+[
+"Armistice Day"
+]
+],
+[
+"Children's Day",
+28,
+[
+"Children's Day (Thailand)",
+"Kodomo no hi"
+]
+],
+[
+"National Day of Catalonia",
+28,
+[
+"Diada Nacional de Catalunya",
+"Día de Cataluña"
+]
+],
+[
+"Hıdırellez",
+28,
+[
+"Hidrellez"
+]
+],
+[
+"Mehregan",
+28,
+[
+"Persian Festival of Autumn"
+]
 ],
 [
 "Culture Day",
-27
+27,
+[
+"Bunka no Hi"
+]
 ],
 [
 "Unity Day",
-27
+27,
+[
+"Day of People’s Unity",
+"National Unity Day"
+]
 ],
 [
 "Thaipusam",
-27
+27,
+[
+"Pausha Pushya",
+"ThaiPoosam",
+"Thaipooyam"
+]
 ],
 [
 "Decollation of John the Baptist",
-27
+27,
+[
+"Beheading of John the Baptist",
+"Beheading of Saint John the Baptist",
+"Beheading of St John the Baptist",
+"Beheading of St. John the Baptist",
+"Beheading of the Baptist",
+"Beheading of the Forerunner",
+"Decollation of Saint John the Baptist",
+"Execution of John the Baptist"
+]
 ],
 [
 "Karva Chauth",
-27
+27,
+[]
 ],
 [
 "Ólavsøka",
-27
+27,
+[
+"Olafsvaka",
+"Ólafsvaka",
+"Olavsoka",
+"Olavsvoku",
+"Ólavsvøku",
+"St. Olav's Day"
+]
 ],
 [
 "Knowledge Day",
-27
+27,
+[]
 ],
 [
 "Yuri's Night",
-27
+27,
+[]
 ],
 [
 "Workers' Memorial Day",
-26
+26,
+[
+"Day of Mourning",
+"International Commemoration Day for Dead and Injured",
+"International Workers' Memorial Day"
+]
 ],
 [
 "Independence Day of Pakistan",
-26
+26,
+[
+"Independence Day"
+]
 ],
 [
 "Guru Purnima",
-26
+26,
+[]
 ],
 [
 "Parentalia",
-26
+26,
+[
+"dies parentales"
+]
 ],
 [
 "Kakava",
-26
+26,
+[]
 ],
 [
 "Whit Monday",
-25
+25,
+[
+"Pentecost Monday"
+]
 ],
 [
 "Chhath Parwa",
-25
+25,
+[
+"Chhath",
+"Dala Chhath",
+"Surya Sashthi"
+]
 ],
 [
 "Radonitsa",
-25
+25,
+[
+"Day of Rejoicing"
+]
 ],
 [
 "Bihu",
-25
+25,
+[
+"Bhogali Bihu",
+"Bohag Bihu",
+"Kati Bihu",
+"Kongali Bihu",
+"Magh Bihu",
+"Rangali Bihu"
+]
 ],
 [
 "Christmas in Ukraine",
-25
+25,
+[]
 ],
 [
 "Floralia",
-25
+25,
+[]
 ],
 [
 "Shemini Atzeret",
-25
+25,
+[]
 ],
 [
 "Nyepi",
-24
+24,
+[
+"Hari Raya Nyepi",
+"Saka New Year"
+]
 ],
 [
 "Data Privacy Day",
-24
+24,
+[
+"Data Privacy & Protection Day",
+"Data Protection Day"
+]
 ],
 [
 "Pitru Paksha",
-24
+24,
+[
+"Mahalaya"
+]
 ],
 [
 "Holy Tuesday",
-24
+24,
+[]
 ],
 [
 "Saint David's Day",
-24
+24,
+[
+"Feast of Saint David of Wales",
+"St David's Day",
+"St. David's Day"
+]
 ],
 [
 "Hanuman Jayanti",
-24
+24,
+[]
 ],
 [
 "Independence Day of Bangladesh",
-24
+24,
+[]
 ],
 [
 "Feast of the Annunciation",
-24
+24,
+[
+"Annunciation",
+"Annunciation Day",
+"Lady Day"
+]
 ],
 [
 "Double Ninth Festival",
-24
+24,
+[
+"Chōyō",
+"Chung Yeung Festival",
+"Sep. 9th",
+"Tết Trùng Cửu"
+]
 ],
 [
 "Land Day",
-24
+24,
+[
+"The Land Day",
+"Yawm al-ʾArḍ"
+]
 ],
 [
 "UN Russian Language Day",
-23
-],
-[
-"Galician Literature Day",
-23
-],
-[
-"Waitangi Day",
-23
-],
-[
-"Heritage Day",
-23
-],
-[
-"Erzya Language Day",
-23
+23,
+[]
 ],
 [
 "Parents' Day",
-23
+23,
+[]
+],
+[
+"Galician Literature Day",
+23,
+[
+"Día das Letras Galegas"
+]
+],
+[
+"Waitangi Day",
+23,
+[
+"New Zealand Day"
+]
+],
+[
+"Heritage Day",
+23,
+[]
+],
+[
+"Erzya Language Day",
+23,
+[]
 ],
 [
 "National Grandparents Day",
-23
+23,
+[]
 ],
 [
 "Washington's Birthday",
-23
+23,
+[
+"George Washington's Birthday",
+"President's Day",
+"Presidents Day",
+"Presidents' Day"
+]
 ],
 [
 "Burns supper",
-22
-],
+22,
 [
-"Twelfth Night",
-22
-],
-[
-"Tsagaan Sar",
-22
+"Burns Night",
+"Rabbie Burns Day",
+"Robbie Burns Day",
+"Robert Burns Day"
+]
 ],
 [
 "Thanksgiving",
-22
+22,
+[
+"American Thanksgiving",
+"Canadian Thanksgiving",
+"Thanksgiving (Canada)",
+"Thanksgiving (United States)",
+"Thanksgiving Day",
+"Turkey day"
+]
+],
+[
+"Twelfth Night",
+22,
+[
+"5th or 6th January",
+"Bean Feast",
+"Driekoningenfeest",
+"Epiphany Eve",
+"Kings' Eve",
+"Le roi boit",
+"The King Drinks",
+"Three Kings celebration",
+"Three wise men celebration"
+]
+],
+[
+"Tsagaan Sar",
+22,
+[
+"Mongolian Lunar New Year",
+"White Moon"
+]
 ],
 [
 "Akitu",
-22
-],
+22,
 [
-"Hari Merdeka",
-21
-],
-[
-"Dziady",
-21
-],
-[
-"Rtveli",
-21
+"Akitum"
+]
 ],
 [
 "Statehood Day",
-21
+21,
+[
+"Day of Ukrainian Statehood",
+"National Day of Bosnia and Herzegovina",
+"Ukrainian Statehood Day"
+]
+],
+[
+"Hari Merdeka",
+21,
+[
+"Hari Kebangsaan Malaysia",
+"Independence Day",
+"Malaysian Independence Day"
+]
+],
+[
+"Dziady",
+21,
+[]
+],
+[
+"Rtveli",
+21,
+[]
 ],
 [
 "Alaska Day",
-21
+21,
+[]
 ],
 [
 "Lemuria",
-21
+21,
+[
+"Lemuralia"
+]
 ],
 [
 "Seven-S",
-20
+20,
+[]
 ],
 [
 "Neptunalia",
-20
+20,
+[]
 ],
 [
 "Siblings Day",
-20
+20,
+[]
 ],
 [
 "Defenders of Ukraine Day",
-20
+20,
+[
+"Defender of Ukraine Day"
+]
 ],
 [
 "Puthandu",
-20
+20,
+[
+"Putandu",
+"Puthuvarudam",
+"Puthuvarusham"
+]
 ],
 [
 "Akshaya Tritiya",
-20
+20,
+[]
 ],
 [
 "Inventors' Day",
-20
+20,
+[]
 ],
 [
 "Malaysia Day",
-20
+20,
+[
+"Hari Malaysia"
+]
 ],
 [
 "Day of the National Flag of Ukraine",
-20
+20,
+[]
 ],
 [
 "Matronalia",
-19
+19,
+[]
 ],
 [
 "Marine Day",
-19
+19,
+[
+"Ocean Day",
+"Sea Day",
+"Umi no Hi"
+]
 ],
 [
 "Shōwa Day",
-19
+19,
+[]
 ],
 [
 "Vardavar",
-19
+19,
+[
+"Vartavar"
+]
 ],
 [
 "Meskel",
-19
+19,
+[
+"Commemoration feast of the finding of the True Holy Cross of Christ",
+"Masqal"
+]
 ],
 [
 "Quinquagesima",
-19
+19,
+[
+"Estomihi",
+"Pork Sunday",
+"Quinquagesimae",
+"Quinquagesima Sunday",
+"Shrove Sunday",
+"Sunday next before Lent"
+]
 ],
 [
 "Festivus",
-19
+19,
+[]
 ],
 [
 "Kartik Poornima",
-19
+19,
+[
+"Dev Deepawali",
+"Karthik Purnima",
+"Kartik Purnima"
+]
 ],
 [
 "World Day for Audiovisual Heritage",
-19
+19,
+[]
 ],
 [
 "Pakistan Day",
-19
+19,
+[
+"Pakistan Resolution Day",
+"Republic Day"
+]
 ],
 [
 "Tatiana Day",
-19
+19,
+[]
 ],
 [
 "Bhai Dooj",
-19
+19,
+[
+"Bhai Beej",
+"Bhai Bij",
+"Bhai Phota",
+"Bhai Tika",
+"Bhau-beej"
+]
 ],
 [
 "Kali Puja",
-19
+19,
+[
+"Mahanisha Puja",
+"Shyama Puja"
+]
 ],
 [
 "Feast of the Immaculate Conception",
-19
+19,
+[
+"Immaculate Conception"
+]
 ],
 [
 "Matariki",
-19
+19,
+[]
 ],
 [
 "Dozhinki",
-19
+19,
+[]
 ],
 [
 "Magha Puja",
-19
+19,
+[
+"Makha Bucha"
+]
 ],
 [
 "Liberation Day",
-18
-],
+18,
 [
-"Respect for the Aged Day",
-18
-],
-[
-"Quinquatria",
-18
-],
-[
-"Rosenmontag",
-18
-],
-[
-"Kathina",
-18
-],
-[
-"Thingyan",
-18
-],
-[
-"ōmisoka",
-18
+"Baghdad Liberation Day",
+"Bevrijdingsdag",
+"Day of Liberation of Bulgaria from the Ottoman Dominion",
+"National Revolution and Armed Forces Day"
+]
 ],
 [
 "Freedom Day",
-18
-],
+18,
 [
-"Dhanteras",
-18
-],
-[
-"Proclamation Day of the Republic of Latvia",
-18
-],
-[
-"Afghan Independence Day",
-18
+"Armed Forces Day",
+"Dzień Voli"
+]
 ],
 [
 "National Sports Day",
-18
+18,
+[]
+],
+[
+"Respect for the Aged Day",
+18,
+[
+"Keirō no Hi"
+]
+],
+[
+"Quinquatria",
+18,
+[]
+],
+[
+"Rosenmontag",
+18,
+[
+"Rose Monday"
+]
+],
+[
+"Kathina",
+18,
+[]
+],
+[
+"Thingyan",
+18,
+[
+"Atā Thingyan",
+"Thingyan Water Festival"
+]
+],
+[
+"ōmisoka",
+18,
+[]
+],
+[
+"Dhanteras",
+18,
+[
+"Dhanatrayodashi"
+]
+],
+[
+"Proclamation Day of the Republic of Latvia",
+18,
+[
+"Independence Day (Latvia)"
+]
+],
+[
+"Afghan Independence Day",
+18,
+[]
 ],
 [
 "Qatar National Day",
-18
+18,
+[
+"Founder's Day",
+"National Day (Qatar)"
+]
 ],
 [
 "Patriot Day",
-17
+17,
+[
+"National Day of Service and Remembrance"
+]
 ],
 [
 "Dashain",
-17
-],
+17,
 [
-"Divine Mercy Sunday",
-17
-],
-[
-"Death anniversary of the Hung Kings",
-17
-],
-[
-"Greenery Day",
-17
-],
-[
-"National Sovereignty and Children's Day",
-17
-],
-[
-"Koliada",
-17
-],
-[
-"Sizdah Be-dar",
-17
-],
-[
-"Tihar",
-17
-],
-[
-"Ketikoti",
-17
-],
-[
-"Saint-Jean-Baptiste Day",
-17
-],
-[
-"Elijah's day",
-17
-],
-[
-"Commonwealth Day",
-17
-],
-[
-"Vestalia",
-17
-],
-[
-"Christmas in Poland",
-17
-],
-[
-"Patriots' Day",
-17
-],
-[
-"Anant Chaturdashi",
-17
-],
-[
-"Cat Day",
-17
-],
-[
-"Ambedkar Jayanti",
-17
-],
-[
-"Gudi Padwa",
-17
-],
-[
-"Jivitputrika",
-17
-],
-[
-"Dano",
-17
-],
-[
-"National Masturbation Day",
-17
-],
-[
-"Saudi National Day",
-17
-],
-[
-"Tulsi Vivah",
-17
-],
-[
-"Labor Thanksgiving Day",
-17
-],
-[
-"Rogation days",
-17
+"Baḍādaśãi",
+"Bada Dashai",
+"Bijaya Darsami",
+"Bijayā Daśamī",
+"Dasai",
+"Daśãi",
+"Dashai",
+"Dashera",
+"Vijaya Darsharmi"
+]
 ],
 [
 "Youth Day",
-17
+17,
+[
+"Children's Day",
+"Hoji-ya-Henda Day",
+"World Children's Day"
+]
+],
+[
+"Divine Mercy Sunday",
+17,
+[
+"Feast of Mercy",
+"Feast of the Divine Mercy"
+]
+],
+[
+"Death anniversary of the Hung Kings",
+17,
+[
+"Hùng Kings' Festival",
+"Hung Kings' Temple Festival",
+"Hùng Kings' Temple Festival",
+"Worship of Hùng kings in Phú Thọ"
+]
+],
+[
+"Greenery Day",
+17,
+[
+"Midori no Hi"
+]
+],
+[
+"National Sovereignty and Children's Day",
+17,
+[
+"April 23",
+"April 23, 1920",
+"Children's Day"
+]
+],
+[
+"Koliada",
+17,
+[]
+],
+[
+"Sizdah Be-dar",
+17,
+[]
+],
+[
+"Tihar",
+17,
+[
+"Deepawali",
+"Dipavali",
+"Nepalese festival of lights",
+"Tihar Festival",
+"Tihar (Nepal)"
+]
+],
+[
+"Ketikoti",
+17,
+[
+"Emancipation Day",
+"Keti Koti",
+"Maspasi",
+"Prisiri Maspasi"
+]
+],
+[
+"Saint-Jean-Baptiste Day",
+17,
+[
+"Fete nationale",
+"Fête nationale",
+"La fete nationale",
+"La fête nationale",
+"National Holiday"
+]
+],
+[
+"Elijah's day",
+17,
+[
+"Elijah Day",
+"Prophet Elijah's day"
+]
+],
+[
+"Commonwealth Day",
+17,
+[
+"Empire Day"
+]
+],
+[
+"Vestalia",
+17,
+[]
+],
+[
+"Christmas in Poland",
+17,
+[
+"Boże Narodzenie w Polsce"
+]
+],
+[
+"Patriots' Day",
+17,
+[
+"Patriot's Day"
+]
+],
+[
+"Anant Chaturdashi",
+17,
+[]
+],
+[
+"Cat Day",
+17,
+[]
+],
+[
+"Ambedkar Jayanti",
+17,
+[
+"Ambedkar Birth Anniversary",
+"Bhim Jayanti",
+"birth anniversary of B. R. Ambedkar",
+"birth anniversary of Dr. Babasaheb Ambedkar"
+]
+],
+[
+"Gudi Padwa",
+17,
+[
+"Gudhi Padva",
+"Gudhi Padwa"
+]
+],
+[
+"Jivitputrika",
+17,
+[
+"Jitiya",
+"Jiutiya"
+]
+],
+[
+"Dano",
+17,
+[
+"Surinal",
+"Suritnal"
+]
+],
+[
+"National Masturbation Day",
+17,
+[
+"International Masturbation Day",
+"International Masturbation Month"
+]
+],
+[
+"Saudi National Day",
+17,
+[
+"Al-Yawm-Al-Watani Saudi"
+]
+],
+[
+"Tulsi Vivah",
+17,
+[]
+],
+[
+"Labor Thanksgiving Day",
+17,
+[
+"Kinrō Kansha no Hi"
+]
+],
+[
+"Rogation days",
+17,
+[
+"rogationtide"
+]
 ],
 [
 "Saint Joseph's Day",
-16
+16,
+[
+"Feast of Saint Joseph",
+"Feast of St. Joseph"
+]
 ],
 [
 "tsukimi",
-16
+16,
+[]
 ],
 [
 "Labour Day",
-16
-],
+16,
 [
-"Fast of the Firstborn",
-16
-],
-[
-"Oruro carnival",
-16
-],
-[
-"Golden weeks",
-16
-],
-[
-"Feast of the Holy Name of Mary",
-16
-],
-[
-"Quartodecimanism",
-16
-],
-[
-"Radio Day",
-16
-],
-[
-"Vinalia",
-16
-],
-[
-"Hindi Divas",
-16
-],
-[
-"Clean Monday",
-16
-],
-[
-"Consualia",
-16
-],
-[
-"Great Union Day",
-16
-],
-[
-"Yhyakh",
-16
-],
-[
-"King's Official Birthday",
-16
-],
-[
-"Spanish National Day",
-16
+"International Workers' Day",
+"Labor Day",
+"May Day"
+]
 ],
 [
 "Victoria Day",
-16
+16,
+[]
+],
+[
+"Fast of the Firstborn",
+16,
+[]
+],
+[
+"Oruro carnival",
+16,
+[
+"Carnaval de Oruro",
+"The second biggest carnival in South America"
+]
+],
+[
+"Golden weeks",
+16,
+[]
+],
+[
+"Feast of the Holy Name of Mary",
+16,
+[
+"Holy Name of Mary",
+"The Most Holy Name of the Blessed Virgin Mary"
+]
+],
+[
+"Quartodecimanism",
+16,
+[]
+],
+[
+"Radio Day",
+16,
+[]
+],
+[
+"Vinalia",
+16,
+[]
+],
+[
+"Hindi Divas",
+16,
+[
+"Hindi Day",
+"Hindi Diwas"
+]
+],
+[
+"Clean Monday",
+16,
+[
+"Ash Monday",
+"Green Monday",
+"Monday of Lent",
+"Pure Monday"
+]
+],
+[
+"Consualia",
+16,
+[]
+],
+[
+"Great Union Day",
+16,
+[
+"Unification Day",
+"Ziua națională a României"
+]
+],
+[
+"Yhyakh",
+16,
+[
+"Ysyakh"
+]
+],
+[
+"King's Official Birthday",
+16,
+[
+"King's Birthday",
+"Queen's Birthday",
+"Queens Birthday",
+"Queen's official birthday"
+]
+],
+[
+"Spanish National Day",
+16,
+[
+"Día de la Hispanidad",
+"Fiesta Nacional de España",
+"Fiesta Nacional de Espanholado"
+]
 ],
 [
 "Reunification Day",
-16
+16,
+[
+"Black April",
+"Day of the Liberation of the South and National Reunification",
+"Fall of Saigon",
+"Liberation Day",
+"Victory Day"
+]
 ],
 [
 "Daeboreum",
-16
+16,
+[
+"Jongwoldaeborum"
+]
 ],
 [
 "Sharad Purnima",
-16
+16,
+[]
 ],
 [
 "The Twelfth",
-16
+16,
+[
+"Battle of the Boyne",
+"Orangeman's Day",
+"Orangemen's Day",
+"The Glorious Twelfth"
+]
 ],
 [
 "Teej",
-16
+16,
+[]
 ],
 [
 "2019 Japanese imperial transition",
-16
+16,
+[
+"Abdication of Akihito",
+"Ceremonies of the Abdication from the Throne",
+"Japanese imperial transition, 2019"
+]
 ],
 [
 "Leif Erikson Day",
-16
+16,
+[]
 ],
 [
 "Vessantara Jataka",
-16
+16,
+[
+"Great Birth Sermon"
+]
 ],
 [
 "Maharashtra Day",
-16
+16,
+[]
 ],
 [
 "Day of the Shining Star",
-16
+16,
+[]
 ],
 [
 "Dongzhi Festival",
-16
+16,
+[
+"Dong Chi",
+"Dong Chi Festival",
+"Dongzhi",
+"Winter Solstice Festival"
+]
 ],
 [
 "Sadeh",
-15
-],
-[
-"Vishwakarma Day",
-15
-],
-[
-"Tiregān",
-15
-],
-[
-"Tasu'a",
-15
-],
-[
-"patronal festival",
-15
-],
-[
-"Dragobete",
-15
+15,
+[]
 ],
 [
 "Day of Remembrance of the Victims of Political Repressions",
-15
+15,
+[
+"Day of Remembrance of Victims of Political Repressions",
+"Den pamiati zhertv politychnykh represii",
+"Memorial Day for Victims of Political Repressions"
+]
 ],
 [
 "National Youth Day",
-15
+15,
+[
+"National Youth and Commonwealth Day",
+"Robert Gabriel Mugabe National Youth Day",
+"Vivekananda Jayanti",
+"Youth Day"
+]
 ],
 [
-"Bujlood",
-15
+"Vishwakarma Day",
+15,
+[
+"Vishwakarma Puja"
+]
 ],
 [
-"Lao New Year",
-15
-],
-[
-"National Voters' Day",
-15
+"Tiregān",
+15,
+[]
 ],
 [
 "Day of Restoration of Independence",
-15
+15,
+[
+"Restoration of Independence Day",
+"Restoration of Independence Day (Estonia)"
+]
+],
+[
+"Tasu'a",
+15,
+[]
+],
+[
+"patronal festival",
+15,
+[
+"patronal day",
+"patronal feast",
+"patronal feast day",
+"patron day"
+]
+],
+[
+"Dragobete",
+15,
+[]
+],
+[
+"Bujlood",
+15,
+[
+"Bilmawen",
+"Biylmawn",
+"Boujloud",
+"Bujlud"
+]
+],
+[
+"Lao New Year",
+15,
+[]
+],
+[
+"National Voters' Day",
+15,
+[]
 ],
 [
 "No Bra Day",
-15
+15,
+[]
 ],
 [
 "Jumu'ah-tul-Wida",
-15
+15,
+[
+"Jumat-ul-Wida",
+"Jumu'atul Wida"
+]
 ],
 [
 "Kargil Vijay Diwas",
-15
+15,
+[]
 ],
 [
 "Cold Food Festival",
-15
+15,
+[
+"Hanshi Festival",
+"Hanshik",
+"Hansik"
+]
 ],
 [
 "Lunar New Year's Eve",
-15
+15,
+[
+"Chinese New Year’s Eve"
+]
 ],
 [
 "Kazakhstan Independence Day",
-15
+15,
+[
+"Independence Day (Kazakhstan)",
+"Independence Day of Kazakhstan"
+]
+],
+[
+"National Day",
+14,
+[
+"Fête nationale camerounaise",
+"Gyalyong Duechen",
+"Independence Day",
+"Meritxell Day",
+"National Day (Vietnam)",
+"National Day of Singapore",
+"Nemzeti ünnep",
+"Students' Day",
+"Unitary State Day"
+]
+],
+[
+"Guru Nanak Gurpurab",
+14,
+[
+"Guru Nanak Jayanti",
+"Guru Parv"
+]
+],
+[
+"Feriae Latinae",
+14,
+[
+"Latin Festival (Rome)"
+]
+],
+[
+"Septimontium",
+14,
+[]
+],
+[
+"International Day of Charity",
+14,
+[]
+],
+[
+"Tsechu",
+14,
+[]
+],
+[
+"Feast of the Holy Name of Jesus",
+14,
+[]
+],
+[
+"Women's Equality Day",
+14,
+[]
+],
+[
+"Hola Mohalla",
+14,
+[]
+],
+[
+"Roma Holocaust Memorial Day",
+14,
+[]
+],
+[
+"Black Day",
+14,
+[]
+],
+[
+"Angam Day",
+14,
+[]
+],
+[
+"Fatherland Liberation War Day",
+14,
+[
+"727",
+"Victory Day"
+]
+],
+[
+"Feralia",
+14,
+[]
+],
+[
+"Icelandic National Day",
+14,
+[]
+],
+[
+"Cassinga Day",
+14,
+[]
+],
+[
+"Novruz in Azerbaijan",
+14,
+[]
+],
+[
+"International Day for Mine Awareness and Assistance in Mine Action",
+14,
+[]
+],
+[
+"Sweden Finns' Day",
+13,
+[
+"Day of Sweden Finns"
+]
+],
+[
+"Heroes' Day",
+13,
+[
+"Kruger Day",
+"Namibia Day"
+]
+],
+[
+"death and funeral of Pope John Paul II",
+13,
+[
+"death of Pope John Paul II",
+"funeral of Pope John Paul II"
+]
+],
+[
+"National Women's Day",
+13,
+[]
+],
+[
+"Rosalia",
+13,
+[]
+],
+[
+"Anti-Bullying Day",
+13,
+[]
+],
+[
+"Anti-Fascist Struggle Day",
+13,
+[]
+],
+[
+"Rashtriya Ekta Diwas",
+13,
+[
+"National Unity Day"
+]
+],
+[
+"Victory Day over Nazism in World War II",
+13,
+[]
+],
+[
+"Prešeren Day",
+13,
+[
+"Prešeren Day, the Slovene Cultural Holiday",
+"Prešernov dan",
+"Prešernov dan, slovenski kulturni praznik"
+]
+],
+[
+"Caristia",
+13,
+[]
+],
+[
+"Language Movement Day",
+13,
+[
+"Language Martyrs' Day",
+"State Language Day"
+]
+],
+[
+"Mercuralia",
+13,
+[]
+],
+[
+"Cambodian New Year",
+13,
+[
+"Choul Chnam Thmey",
+"Khmer New Year",
+"Mesha Sankranti",
+"Sangkrant"
+]
+],
+[
+"Indra Jatra",
+13,
+[
+"Yenyā Punhi"
+]
+],
+[
+"World Hello Day",
+13,
+[]
+],
+[
+"Gangaur",
+13,
+[
+"Gangor"
+]
+],
+[
+"Mysore Dasara",
+13,
+[]
+],
+[
+"Soviet Occupation Day",
+13,
+[]
+],
+[
+"Feast of the Transfiguration",
+13,
+[]
+],
+[
+"Telangana Formation Day",
+13,
+[
+"Telangana Day"
+]
+],
+[
+"Govardhan Puja",
+13,
+[
+"Gobardhan Puja"
+]
+],
+[
+"Kashmir Solidarity Day",
+13,
+[
+"Kashmir Day"
+]
+],
+[
+"Songkran",
+13,
+[]
+],
+[
+"International Fetish Day",
+12,
+[
+"IFD"
+]
+],
+[
+"Saint Sylvester's Day",
+12,
+[
+"Feast of Saint Silvester I"
+]
+],
+[
+"Day of the Foundation of the Republic",
+12,
+[]
+],
+[
+"Eid",
+12,
+[]
+],
+[
+"Constitution Day of Republic of India",
+12,
+[
+"Constitution Day",
+"National Law Day",
+"Samvidhāna Divasa",
+"Samvidhan Divas"
+]
+],
+[
+"Mesha Sankranti",
+12,
+[]
+],
+[
+"Day of Unity of Ukraine",
+12,
+[]
+],
+[
+"Global Orgasm",
+12,
+[]
+],
+[
+"Pioneer Day",
+12,
+[]
+],
+[
+"Memorial of Christ's Death",
+12,
+[
+"Lord's Evening Meal",
+"Memorial"
+]
+],
+[
+"Naraka Chaturdashi",
+12,
+[
+"Bhoot chaturdoshi"
+]
+],
+[
+"Sindhi Cultural Day",
+12,
+[
+"Ekta Day",
+"Sindhi Sunday"
+]
+],
+[
+"Remembrance Day of the Latvian Legionnaires",
+12,
+[
+"Legionnaire Day"
+]
+],
+[
+"Sigd",
+12,
+[
+"Amata Saww",
+"Mehlella",
+"Sig'd"
+]
+],
+[
+"Black Awareness Day",
+12,
+[
+"Black Consciousness Day",
+"Zumbi Day"
+]
+],
+[
+"La Mercè",
+12,
+[
+"Festa Major de Barcelona",
+"Festes de la Mercè",
+"La Merce"
+]
+],
+[
+"Independence and Unity Day",
+12,
+[
+"Dan samostojnosti in enotnosti"
+]
+],
+[
+"Thanksgiving dinner",
+12,
+[]
+],
+[
+"Ratha Saptami",
+12,
+[]
+],
+[
+"May 3rd Constitution Day",
+12,
+[
+"May 3 Constitution Day"
+]
+],
+[
+"Sā Pāru",
+12,
+[
+"Gai Jatra",
+"Sa: Paru"
+]
+],
+[
+"Celebration of the Greek Revolution",
+12,
+[
+"25th March"
+]
+],
+[
+"Steak and Blowjob Day",
+12,
+[
+"“Chris and Mike” day",
+"Steak and Knobber Day",
+"Steak & BJ Day"
+]
+],
+[
+"Cheti Chand",
+12,
+[
+"Ceti Cand"
+]
+],
+[
+"Commemoration of Atatürk, Youth and Sports Day",
+12,
+[
+"19 May the Commemoration of Atatürk, Youth and Sports Day"
+]
+],
+[
+"Sechseläuten",
+12,
+[
+"Sechselauten"
+]
+],
+[
+"Defence Day",
+12,
+[]
+],
+[
+"World Religion Day",
+12,
+[]
+],
+[
+"Totensonntag",
+12,
+[]
+],
+[
+"Day of the Little Candles",
+12,
+[]
+],
+[
+"Kaamatan",
+12,
+[
+"Harvest Festival",
+"Tadau Kaamatan"
+]
+],
+[
+"Lakshmi Puja",
+12,
+[]
+],
+[
+"Retrocession Day",
+12,
+[
+"Commemoration Day of Taiwan's Restoration",
+"Restoration and Victory Memorial Day",
+"Taiwan Retrocession Day",
+"Taiwan Retrocession Day and Memorial Day of Great Victory at Kuningtou Kinmen"
+]
+],
+[
+"National Flag of Canada Day",
+12,
+[]
+],
+[
+"World Osteoporosis Day",
+12,
+[]
+],
+[
+"LGBT History Month",
+12,
+[
+"LGBT+ History Month"
+]
+],
+[
+"Day of Slavonic Alphabet, Bulgarian Enlightenment and Culture",
+12,
+[
+"Day of All-Slavic Educators",
+"Day of Bulgarian Education and Culture and Slavonic Literature",
+"Day of Slavic Literature",
+"Day of Slavic Literature & Culture",
+"Day of Slavic writing & culture"
+]
+],
+[
+"Veneralia",
+12,
+[]
+],
+[
+"Armed Forces Flag Day",
+12,
+[
+"Flag Day"
+]
+],
+[
+"Jinnah's Birthday",
+11,
+[
+"Quaid-e-Azam Day",
+"Quaid-i-Azam Day"
+]
+],
+[
+"Argei",
+11,
+[]
+],
+[
+"Martyrs' Day",
+11,
+[
+"Democracy Day",
+"Maelti Siwuat",
+"Martyrs Day",
+"Shahid Diwas",
+"Uganda Martyrs Day",
+"Veterans Day"
+]
+],
+[
+"Bon Om Touk",
+11,
+[]
+],
+[
+"Navy Day",
+11,
+[
+"Day of the Holiday of the Ukrainian Navy",
+"Day of the Navy of Turkmenistan",
+"Day of the Russian Navy",
+"Navy Day of Israel",
+"Navy Day of Russia",
+"Navy Day of Ukraine"
+]
+],
+[
+"Easter Tuesday",
+11,
+[]
+],
+[
+"Meditrinalia",
+11,
+[]
+],
+[
+"Lāčplēsis Day",
+11,
+[]
+],
+[
+"Saint George's Day in Catalonia",
+11,
+[
+"Diada de Sant Jordi",
+"Saint George's Day (Catalonia)",
+"The Day of Books and Roses"
+]
+],
+[
+"Bal Diwas",
+11,
+[]
+],
+[
+"Party Foundation Day",
+11,
+[]
+],
+[
+"Takanakuy",
+11,
+[]
+],
+[
+"Day of the Armed Forces of Azerbaijan",
+11,
+[]
+],
+[
+"Yom HaAliyah",
+11,
+[
+"10 Nisan",
+"Aliyah Day",
+"Nisan 10",
+"Yom HaAliya"
+]
+],
+[
+"Çarşemba sor",
+11,
+[
+"Çarşema Serê Nîsanê",
+"Çarşema Serê Salê",
+"Yazidi New Year"
+]
+],
+[
+"Anniversary of Islamic revolution",
+11,
+[]
+],
+[
+"Gustav Adolfsdagen",
+11,
+[
+"Gustavus Adolphus Day"
+]
+],
+[
+"Enkutatash",
+11,
+[
+"Kudus Yohannes"
+]
+],
+[
+"Esala Perahera",
+11,
+[]
+],
+[
+"Chaturmas",
+11,
+[]
+],
+[
+"World Internet Day",
+11,
+[]
+],
+[
+"Yennayer",
+11,
+[
+"Amazigh New Year",
+"Berber New Year"
+]
+],
+[
+"Odisha Day",
+11,
+[
+"Orissa Day",
+"Utkal Dibasa"
+]
+],
+[
+"Kha b'Nissan",
+11,
+[
+"Assyrian New Year"
+]
+],
+[
+"Day of Republic Srpska",
+11,
+[
+"Republic Day"
+]
+],
+[
+"Melon Day",
+11,
+[]
+],
+[
+"Ayudha Puja",
+11,
+[]
+],
+[
+"Day of Reconciliation",
+11,
+[]
+],
+[
+"Karthika Deepam",
+11,
+[
+"Karthikai Vilakkidu",
+"Thrikarthika"
+]
+],
+[
+"Kyiv Day",
+11,
+[]
+],
+[
+"Eid Al-Mubarak",
+11,
+[]
+],
+[
+"Sedantag",
+11,
+[]
+],
+[
+"Border Guards Day",
+11,
+[]
+],
+[
+"Ras'ken' Ozks",
+11,
+[]
+],
+[
+"Vivaha Panchami",
+11,
+[]
+],
+[
+"Vulcanalia",
+11,
+[
+"festival of Vulcan"
+]
+],
+[
+"Lebanese Independence Day",
+10,
+[]
+],
+[
+"Día Nacional de Galicia",
+10,
+[
+"Dia Nacional de Galicia",
+"National Day of Galicia"
+]
+],
+[
+"75th Year of Independence Day of India",
+10,
+[
+"Azadi Ka Amrit Mahotsav"
+]
+],
+[
+"Flag Day",
+10,
+[
+"Day of the National Flag (Russia)"
+]
+],
+[
+"International Day of Light",
+10,
+[]
+],
+[
+"Bohag Bihu",
+10,
+[
+"Rongali Bihu"
+]
+],
+[
+"Romanian Language Day",
+10,
+[
+"Limba noastră (formerly)",
+"National Language Day (formerly)"
+]
+],
+[
+"Day of National Solidarity of Azerbaijanis",
+10,
+[
+"International Solidarity Day of Azerbaijanis"
+]
+],
+[
+"Christmas in Sweden",
+10,
+[]
+],
+[
+"Giving Tuesday",
+10,
+[
+"#GivingTuesday"
+]
+],
+[
+"Hornbill Festival",
+10,
+[]
+],
+[
+"Teeyan",
+10,
+[]
+],
+[
+"Sama Chakeva",
+10,
+[]
+],
+[
+"Tartan Day",
+10,
+[
+"National Tartan Day"
+]
+],
+[
+"Raja",
+10,
+[
+"Raja Parba",
+"Rajo",
+"Rojo"
+]
+],
+[
+"First Day of Summer",
+10,
+[
+"Sumardagurinn fyrsti"
+]
+],
+[
+"Sexagesima",
+10,
+[
+"Sexagesima Sunday"
+]
+],
+[
+"Rabindra Jayanti",
+10,
+[]
+],
+[
+"Vappu",
+10,
+[]
+],
+[
+"Augustalia",
+10,
+[]
+],
+[
+"Sham Ennessim",
+10,
+[
+"Sham Al Nassim",
+"Sham an-Nassim",
+"Sham el-Nessam",
+"Sham el-Nessim"
+]
+],
+[
+"Mahamastakabhisheka",
+10,
+[]
+],
+[
+"Nuakhai",
+10,
+[]
+],
+[
+"Ganesh Jayanti",
+10,
+[
+"Magha shukla chaturthi",
+"Tilkund chaturthi",
+"Varad chaturthi"
+]
+],
+[
+"October Revolution Day",
+10,
+[]
+],
+[
+"Day of Ukrainian Literature and Language",
+10,
+[
+"Day of Ukrainian Writing and Language"
+]
+],
+[
+"Spanish Day of the Constitution",
+10,
+[]
+],
+[
+"Orange Shirt Day",
+10,
+[
+"National Day for Truth and Reconciliation"
+]
+],
+[
+"Pepero Day",
+10,
+[]
+],
+[
+"Boss's Day",
+10,
+[]
+],
+[
+"Meteņi",
+10,
+[]
+],
+[
+"Pooram",
+10,
+[]
+],
+[
+"Savitri Brata",
+10,
+[
+"Sabitri Amabasya",
+"Savitri Amavasya",
+"Savitri Vrata"
+]
+],
+[
+"Galungan",
+10,
+[]
+],
+[
+"Maithili New Year",
+10,
+[]
+],
+[
+"Day of Prayer and Repentance",
+10,
+[
+"Day of Penance"
+]
+],
+[
+"Nirjala Ekadashi",
+10,
+[
+"Bhimaseni Ekadashi",
+"Pandava Ekadashi"
+]
+],
+[
+"Rabu pungkasan",
+10,
+[]
+],
+[
+"Dita e Verës",
+10,
+[
+"Summer Day"
+]
+],
+[
+"Parakram Diwas",
+9,
+[]
+],
+[
+"Muslim Women Rights Day",
+9,
+[]
+],
+[
+"Indigenous People's Day",
+9,
+[
+"Indigenous Peoples Day",
+"Indigenous Peoples' Day"
+]
+],
+[
+"Christmas in Romania",
+9,
+[
+"Crăciun în România"
+]
+],
+[
+"Shakambhari Purnima",
+9,
+[]
+],
+[
+"Baltic Unity Day",
+9,
+[
+"Balts' Unity Day",
+"Day of Baltic Unity"
+]
+],
+[
+"Shiv Jayanti",
+9,
+[
+"Chhatrapati Shivaji Maharaj Jayanti"
+]
+],
+[
+"Chair of Saint Peter",
+9,
+[
+"Cathedra Sancti Petri Antiochiae",
+"Feast of the Chair of Saint Peter"
+]
+],
+[
+"Wikipedia:Brooke Vibber Day",
+9,
+[
+"Wikipedia:Brion Vibber Day",
+"WP:BRIONDAY"
+]
+],
+[
+"Liechtenstein State Celebration",
+9,
+[]
+],
+[
+"Paratroopers' Day",
+9,
+[]
+],
+[
+"North Borneo Self-government Day",
+9,
+[]
+],
+[
+"Sarawak Independence Day",
+9,
+[]
+],
+[
+"Sankashti Chaturthi",
+9,
+[]
+],
+[
+"Feast of Saint Mark",
+9,
+[]
+],
+[
+"Dmitriev Day",
+9,
+[
+"Demetrius of Thessaloniki day",
+"Dimitrov den",
+"Dimitrovden"
+]
+],
+[
+"Slavic Christmastide",
+9,
+[]
+],
+[
+"Durga Ashtami",
+9,
+[
+"Mahashtami"
+]
+],
+[
+"Descending Day of Lord Buddha",
+9,
+[
+"Lhabab Duchen"
+]
+],
+[
+"Finnish Swedish Heritage Day",
+9,
+[]
+],
+[
+"Christmas Day",
+9,
+[
+"Natalis Domini",
+"Xmas Day"
+]
+],
+[
+"School Day of Non-violence and Peace",
+9,
+[]
+],
+[
+"Olsok",
+9,
+[]
+],
+[
+"Day of the Vow",
+9,
+[]
+],
+[
+"Islamic Republic of Iran Army Day",
+9,
+[]
+],
+[
+"Día del Mar",
+9,
+[
+"dia del mar"
+]
+],
+[
+"Pravasi Bharatiya Divas",
+9,
+[]
+],
+[
+"Pchum Ben",
+9,
+[]
+],
+[
+"Amalaka Ekadashi",
+9,
+[]
+],
+[
+"Parinirvana Day",
+9,
+[
+"Buddha's Parinirvana",
+"Nirvana Day"
+]
+],
+[
+"Day of Remembrance and Grief",
+9,
+[]
+],
+[
+"Capital City Day",
+9,
+[
+"Day of the Capital"
+]
+],
+[
+"Bihar Day",
+9,
+[]
+],
+[
+"Dev Deepawali",
+9,
+[]
+],
+[
+"Lammas",
+9,
+[
+"Lammas Day"
+]
+],
+[
+"Iqbal Day",
+9,
+[]
+],
+[
+"Little Christmas",
+9,
+[
+"Nollaig Bheag"
+]
+],
+[
+"International Day Commemorating the Victims of Acts of Violence Based on Religion or Belief",
+9,
+[]
+],
+[
+"Nardoqan",
+9,
+[]
+],
+[
+"Madaraka Day",
+9,
+[]
+],
+[
+"Mattu Pongal",
+9,
+[]
+],
+[
+"Monkey Day",
+9,
+[]
+],
+[
+"Sonepur Cattle Fair",
+9,
+[]
+],
+[
+"Feast of St Barbara",
+9,
+[
+"Saint Barbara's Day"
+]
+],
+[
+"National Holiday",
+9,
+[]
+],
+[
+"Festa del Redentore",
+9,
+[]
+],
+[
+"Aromanian National Day",
+8,
+[
+"National Day of the Aromanians"
+]
+],
+[
+"Simbang Gabi",
+8,
+[
+"Gift mass",
+"misa de aguinaldo",
+"Night Mass"
+]
+],
+[
+"Navreh",
+8,
+[]
+],
+[
+"Armed Forces Day",
+8,
+[
+"Arm Forces Day",
+"Day of the Armed Forces of Ukraine",
+"Feast of the Polish Armed Forces",
+"Revolution Day",
+"Royal Brunei Armed Forces Day"
+]
+],
+[
+"Åland's Autonomy Day",
+8,
+[
+"Åland's Self-Government Day"
+]
+],
+[
+"Bonalu",
+8,
+[]
+],
+[
+"Farmers' Day",
+8,
+[
+"Special day for remembering about the effort made by the farmers"
+]
+],
+[
+"Holodomor Memorial Day",
+8,
+[
+"Day of Memory for Victims of the Holodomor",
+"Day of Memory for Victims of the Holodomor and Political Repressions",
+"Day of Memory for Victims of the Holodomors",
+"Day of Memory for Victims of the Holodomors and Political Repressions",
+"Den pamiati zhertv holodomoriv",
+"Holodomor Remembrance Day"
+]
+],
+[
+"Sacred Defence Week",
+8,
+[]
+],
+[
+"Christmas in Iceland",
+8,
+[]
+],
+[
+"Sita Navami",
+8,
+[]
+],
+[
+"St. Catherine's Day",
+8,
+[]
+],
+[
+"Festa della Sensa",
+8,
+[
+"Fèsta de ƚa Sènsa"
+]
+],
+[
+"Ptashkowa swajdzba",
+8,
+[]
+],
+[
+"Zadušnice",
+8,
+[
+"Zaduszki"
+]
+],
+[
+"Free Comic Book Day",
+8,
+[
+"FCBD"
+]
+],
+[
+"Okinawa Memorial Day",
+8,
+[
+"Irei no Hi"
+]
+],
+[
+"Transgender Awareness Week",
+8,
+[]
+],
+[
+"Trafalgar Day",
+8,
+[]
+],
+[
+"Quba Apple Festival",
+8,
+[]
+],
+[
+"Day of Dignity and Freedom",
+8,
+[]
+],
+[
+"Ambubachi Mela",
+8,
+[]
+],
+[
+"Store bededag",
+8,
+[
+"All Prayers Day",
+"Common Prayer Day",
+"Dýri biðidagur (Faroe Islands)",
+"General Prayer Day",
+"Great Day of Prayers"
+]
+],
+[
+"Apple Feast of the Saviour",
+8,
+[
+"Apple Spas",
+"Feast of the Saviour on the Hill",
+"Savior of the Apple Feast Day"
+]
+],
+[
+"Day to Praise",
+8,
+[
+"Yom Hallel"
+]
+],
+[
+"Good Governance Day",
+8,
+[]
+],
+[
+"National Panchayati Raj Day",
+8,
+[]
+],
+[
+"Day of Remembrance and Victory over Nazism in World War II 1939 – 1945",
+8,
+[
+"Day of Remembrance and Victory"
+]
+],
+[
+"Renri",
+8,
+[]
+],
+[
+"Administrative Professionals' Day",
+8,
+[
+"Admin Day",
+"Secretaries' Day"
+]
+],
+[
+"German-American Day",
+8,
+[]
+],
+[
+"Pravāraṇā",
+8,
+[
+"Pavāraṇā"
+]
+],
+[
+"Dhammachakra Pravartan Day",
+8,
+[
+"Dhammachakra Anupravartan Day",
+"Dhammachakra Anupravartan Din",
+"Dhammachakra Pravartan Din"
+]
+],
+[
+"Doubting Thomas",
+8,
+[]
+],
+[
+"Jamhuri Day",
+8,
+[]
+],
+[
+"Dhanu Jatra",
+8,
+[]
+],
+[
+"Day of the Macedonian Uprising",
+8,
+[
+"Anti-fascist Day",
+"Revolution Day, 11 October"
+]
+],
+[
+"National Religious Freedom Day",
+8,
+[]
+],
+[
+"Slavic Candlemas",
+8,
+[
+"Presentation of Jesus at the Temple"
+]
+],
+[
+"Vaikunta Ekadashi",
+8,
+[]
+],
+[
+"Sinhalese New Year",
+8,
+[
+"Aluth Avurudda"
+]
+],
+[
+"Varalakshmi Vratham",
+8,
+[]
+],
+[
+"Karnataka Rajyotsava",
+8,
+[
+"Kannada Rajyothsava",
+"Karnataka Day",
+"Karnataka Formation Day",
+"Karnataka State Day"
+]
+],
+[
+"Sette Giugno",
+8,
+[
+"Commemoration Day",
+"Sette Guigno"
+]
+],
+[
+"World Maritime Day",
+8,
+[]
+],
+[
+"State Flag Day of the Azerbaijan Republic",
+8,
+[]
+],
+[
+"Day of the Veterans and Fallen of the Falklands War",
+8,
+[
+"Malvinas Day"
+]
+],
+[
+"National Salvation Day of Azerbaijanis",
+8,
+[]
+],
+[
+"Burmese Martyrs' Day",
+8,
+[]
+],
+[
+"Charak Puja",
+8,
+[]
+],
+[
+"Festa Junina",
+8,
+[
+"festa de São João"
+]
+],
+[
+"Railway Workers' Day",
+8,
+[]
+],
+[
+"Islamic Republic Day",
+8,
+[]
+],
+[
+"Beñesmen",
+8,
+[]
+],
+[
+"Jackie Robinson Day",
+8,
+[]
+],
+[
+"Goa Liberation Day",
+8,
+[]
+],
+[
+"Uttar Pradesh Day",
+8,
+[
+"UP Day, UP Diwas, Uttar Pradesh Diwas"
+]
+],
+[
+"Magh Bihu",
+8,
+[
+"Bhogali Bihu"
+]
+],
+[
+"Berchtold's Day",
+8,
+[]
+],
+[
+"National Aboriginal Day",
+8,
+[
+"National Indigenous Peoples Day"
+]
+],
+[
+"National Ice Cream Month",
+8,
+[]
+],
+[
+"Herzl Day",
+8,
+[]
+],
+[
+"Saint Blaise's feast day",
+8,
+[
+"Festival of Veles"
+]
+],
+[
+"Wangala",
+8,
+[]
+],
+[
+"Day of the Canary Islands",
+8,
+[]
+],
+[
+"Polish National Flag Day",
+8,
+[]
+],
+[
+"Día de Reyes",
+7,
+[
+"Three Kings Day",
+"Three Kings' Day"
+]
+],
+[
+"National Unity Day",
+7,
+[
+"People's Unity Day"
+]
+],
+[
+"Gifaataa",
+7,
+[]
+],
+[
+"Democracy Day",
+7,
+[
+"Loktantra Diwas",
+"Prajatantra Diwas"
+]
+],
+[
+"Army Day",
+7,
+[]
+],
+[
+"state funeral of Elizabeth II",
+7,
+[]
+],
+[
+"National Space Day",
+7,
+[]
+],
+[
+"Jabotinsky Day",
+7,
+[]
+],
+[
+"Family Day",
+7,
+[
+"Islander Day",
+"Louis Riel Day",
+"Nova Scotia Heritage Day"
+]
+],
+[
+"Indian Arrival Day",
+7,
+[]
+],
+[
+"Day of the Macedonian Revolutionary Struggle",
+7,
+[
+"Day of VMRO"
+]
+],
+[
+"National Sleepy Head Day",
+7,
+[]
+],
+[
+"Wren Day",
+7,
+[
+"Day of the Wren",
+"Hunt the Wren Day",
+"Wren's Day"
+]
+],
+[
+"Manabasa Gurubara",
+7,
+[]
+],
+[
+"Basant Kite Festival",
+7,
+[]
+],
+[
+"Founder's Day",
+7,
+[]
+],
+[
+"Chapchar Kut Festival",
+7,
+[]
+],
+[
+"Arattupuzha Pooram",
+7,
+[]
+],
+[
+"Koninginnedag",
+7,
+[]
+],
+[
+"Day of Remembrance for Truth and Justice",
+7,
+[]
+],
+[
+"Andalusia Day",
+7,
+[
+"Day of Andalusia",
+"Dia de Andalucia",
+"Día de Andalucía"
+]
+],
+[
+"Tamborrada",
+7,
+[]
+],
+[
+"Yap Day",
+7,
+[
+"Yap District Day"
+]
+],
+[
+"Harela",
+7,
+[]
+],
+[
+"Aadi Perukku",
+7,
+[
+"Aadi 18",
+"Aadi nōmbi"
+]
+],
+[
+"International Visegrad Day",
+7,
+[]
+],
+[
+"Baci",
+7,
+[]
+],
+[
+"Newroz as celebrated by Kurds",
+7,
+[
+"Kurdish Nowruz",
+"Nawroz",
+"Newroz",
+"Nowruz as celebrated by Kurds"
+]
+],
+[
+"Chilean National Festivities",
+7,
+[
+"18 de Septiembre",
+"El Dieciocho",
+"Fiestas Patrias",
+"National Day"
+]
+],
+[
+"Mashramani",
+7,
+[
+"Republic Day"
+]
+],
+[
+"Midwinter",
+7,
+[
+"Midwinter Day"
+]
+],
+[
+"Trinity day in Slavs",
+7,
+[
+"Pentecost Slavs"
+]
+],
+[
+"Lednica 2000",
+7,
+[]
+],
+[
+"Waterloo Day",
+7,
+[]
+],
+[
+"Republic Day (Philippines)",
+7,
+[
+"Filipino-American Friendship Day",
+"Philippine-American Friendship Day",
+"Philippine Republic Day"
+]
+],
+[
+"Castile and León Day",
+7,
+[]
+],
+[
+"Basava Jayanthi",
+7,
+[]
+],
+[
+"Vodokres",
+7,
+[]
+],
+[
+"Cesar Chavez Day",
+7,
+[
+"Farmworkers Day",
+"Farm Workers Day"
+]
+],
+[
+"National Revival Day",
+7,
+[]
+],
+[
+"Police and Internal Affairs Servicemen's Day",
+7,
+[]
+],
+[
+"Miķeļi",
+7,
+[
+"Mīkaļiem"
+]
+],
+[
+"French Community Holiday",
+7,
+[
+"Day of the French Community",
+"French Community Day"
+]
+],
+[
+"Christmas in Finland",
+7,
+[]
+],
+[
+"Trndez",
+7,
+[]
+],
+[
+"Day of the German-speaking Community of Belgium",
+7,
+[]
+],
+[
+"World Urdu Day",
+7,
+[]
+],
+[
+"International University Sports Day",
+7,
+[
+"International Day of University Sport"
+]
+],
+[
+"Ashenda",
+7,
+[
+"Shadey",
+"Solel",
+"The feast of Buhe"
+]
+],
+[
+"Ask a Stupid Question Day",
+7,
+[]
+],
+[
+"Singmogil",
+7,
+[
+"Arbour Day"
+]
+],
+[
+"Balipratipada",
+7,
+[
+"Bali Padyami",
+"Bestu Baras",
+"Dyutapratipada",
+"Mahabali Padva",
+"Padva",
+"Padwa",
+"Varsha Pratipada",
+"Virapratipada"
+]
+],
+[
+"Bataan Day",
+7,
+[
+"Araw Ng Kagitingan",
+"Corregidor Day",
+"Day of Valor"
+]
+],
+[
+"Tax Day",
+7,
+[]
+],
+[
+"Kingdom Day",
+7,
+[
+"Koninkrijksdag"
+]
+],
+[
+"Dinagyang Festival",
+7,
+[]
+],
+[
+"Prathamastami",
+7,
+[]
+],
+[
+"Pana Sankranti",
+7,
+[
+"Bisuba Sankranti",
+"Visuba Sankranti"
+]
+],
+[
+"No Smoking Day",
+7,
+[]
+],
+[
+"National Day of Oman",
+7,
+[
+"Qaboos's Birthday"
+]
+],
+[
+"Revolution of the King and the People",
+7,
+[]
+],
+[
+"National Doughnut Day",
+7,
+[
+"National Donut Day"
+]
+],
+[
+"National Pearl Harbor Remembrance Day",
+7,
+[]
+],
+[
+"Nemoralia",
+7,
+[]
+],
+[
+"Ninoy Aquino Day",
+7,
+[]
+],
+[
+"Sadar (festival)",
+7,
+[]
+],
+[
+"Sepandārmazgān",
+7,
+[]
+],
+[
+"Shakrain",
+7,
+[]
+],
+[
+"Triumph of the Revolution",
+7,
+[]
+],
+[
+"Vaikuntha Chaturdashi",
+7,
+[]
+],
+[
+"Vijay Dibos",
+7,
+[
+"Bijoy Dibos",
+"Vijay Diwas"
+]
+],
+[
+"World Wide Knit in Public Day",
+7,
+[]
+],
+[
+"Azad Kashmir Day",
+7,
+[]
+],
+[
+"Racial Harmony Day",
+7,
+[]
+],
+[
+"Night of the Radishes",
+7,
+[]
+],
+[
+"Millennium of the Polish State",
+7,
+[]
+],
+[
+"Veterans Day (Sweden)",
+6,
+[]
+],
+[
+"Partition Horrors Remembrance Day",
+6,
+[]
+],
+[
+"Sitalsasthi Carnival",
+6,
+[]
+],
+[
+"Ayurveda Day",
+6,
+[]
+],
+[
+"Galentine's Day",
+6,
+[
+"Galentine's",
+"Galentines",
+"Valentine's Day Eve"
+]
+],
+[
+"West Bengal Day",
+6,
+[
+"Paschimbanga Dibas",
+"Paschim Banga Dibas"
+]
+],
+[
+"Christmas in Greece",
+6,
+[]
+],
+[
+"Greenland National Day",
+6,
+[
+"National Day of Greenland",
+"Ullortuneq"
+]
+],
+[
+"Ganga Dussehra",
+6,
+[]
+],
+[
+"Badna",
+6,
+[
+"Bandna"
+]
+],
+[
+"Christmas in Hungary",
+6,
+[]
+],
+[
+"Lithuania Independence Restoration Day",
+6,
+[]
+],
+[
+"Yomari punhi",
+6,
+[]
+],
+[
+"National Elephant Day",
+6,
+[
+"Chang Thai Day"
+]
+],
+[
+"Juhannus",
+6,
+[]
+],
+[
+"flag flying day",
+6,
+[
+"flag day"
+]
+],
+[
+"Kottiyoor Vysakha Mahotsavam",
+6,
+[
+"Kottiyoor Ulsavam"
+]
+],
+[
+"Udhauli",
+6,
+[]
+],
+[
+"Sirimanothsavam",
+6,
+[]
+],
+[
+"Blue Christmas",
+6,
+[
+"Longest Night"
+]
+],
+[
+"Ice Cream for Breakfast Day",
+6,
+[]
+],
+[
+"Mohani",
+6,
+[]
+],
+[
+"Kharchi puja",
+6,
+[]
+],
+[
+"Sajibu Nongma Panba",
+6,
+[
+"Cheiraoba",
+"Cheiraobha"
+]
+],
+[
+"St. Thomas's Day",
+6,
+[
+"Feast of Saint Thomas"
+]
+],
+[
+"Telugu Language Day",
+6,
+[]
+],
+[
+"Grandma's Day",
+6,
+[]
+],
+[
+"Evolution Day",
+6,
+[]
+],
+[
+"Day of courage and the Bulgarian Army",
+6,
+[]
+],
+[
+"Throne Day",
+6,
+[]
+],
+[
+"Batik Day",
+6,
+[]
+],
+[
+"Wallonia Day",
+6,
+[]
+],
+[
+"Boxing Week",
+6,
+[
+"twixtmas"
+]
+],
+[
+"World Coconut day",
+6,
+[
+"World Coconut Day"
+]
+],
+[
+"Lombardy Day",
+6,
+[]
+],
+[
+"National Day of Remembrance of the victims of the Genocide of the Citizens of the Polish Republic committed by Ukrainian Nationalists",
+6,
+[]
+],
+[
+"Jaanipäev",
+6,
+[]
+],
+[
+"Canberra Day",
+6,
+[]
+],
+[
+"Gudari Eguna",
+6,
+[]
+],
+[
+"Second Sunday of Lent",
+6,
+[
+"Lent 2",
+"Reminiscere",
+"Reminiscere Sunday",
+"Sunday of Transfiguration"
+]
+],
+[
+"King Kamehameha I Day",
+6,
+[
+"Kamehameha Day"
+]
+],
+[
+"Whitsun",
+6,
+[
+"Pentecost",
+"Pentecost Sunday",
+"Whit",
+"Whitsunday",
+"Whit Sunday"
+]
+],
+[
+"Barborka",
+6,
+[
+"Barbórka"
+]
+],
+[
+"Day of Heroes of the Fatherland",
+6,
+[]
+],
+[
+"Pope John Paul II Day",
+6,
+[]
+],
+[
+"Peter and Fevronia Day",
+6,
+[]
+],
+[
+"Geologist's Day",
+6,
+[
+"Day of Geologists"
+]
+],
+[
+"Youth Day in Russia",
+6,
+[]
+],
+[
+"Skydiver day",
+6,
+[]
+],
+[
+"Day of the Restoration of Latvian Independence",
+6,
+[]
+],
+[
+"Construction Worker's Day",
+6,
+[]
+],
+[
+"Coal Miners Day",
+6,
+[]
+],
+[
+"Electrician Day",
+6,
+[]
+],
+[
+"Zazhynky",
+6,
+[]
+],
+[
+"Gawai Dayak",
+6,
+[
+"Gawai",
+"Hari Gawai"
+]
+],
+[
+"Medoviy Spas",
+6,
+[]
+],
+[
+"Mid-Pentecost",
+6,
+[]
+],
+[
+"Bounty Day",
+6,
+[]
+],
+[
+"Brahmotsavam",
+6,
+[
+"brahimatsavalai"
+]
+],
+[
+"Day of Resistance to Occupation of Crimea and Sevastopol",
+6,
+[]
+],
+[
+"Waffle Day",
+6,
+[
+"Våffeldagen"
+]
+],
+[
+"Fast of Nineveh",
+6,
+[]
+],
+[
+"Feast of the Guardian Angels(October 2)",
+6,
+[]
+],
+[
+"Fête du Vodoun",
+6,
+[
+"Fete du Vodoun",
+"Traditional Day",
+"Traditional Religions Day"
+]
+],
+[
+"Bushu Dima",
+6,
+[
+"Busu Dima"
+]
+],
+[
+"Mandi Shivaratri Fair",
+6,
+[]
+],
+[
+"Mha Puja",
+6,
+[]
+],
+[
+"National Sovereignty Day",
+6,
+[]
+],
+[
+"Double Thirdth Day",
+6,
+[
+"Samjinnal",
+"Shangsi Festival"
+]
+],
+[
+"Saint Crispin's Day",
+6,
+[
+"Feast of Saint Crispin",
+"Feast of Saint Crispinian",
+"Saint Crispinian's Day",
+"St. Crispinian's Day",
+"St. Crispin's Day"
+]
+],
+[
+"Sakela",
+6,
+[]
+],
+[
+"Grand Peace Festival of Augsburg",
+6,
+[]
+],
+[
+"Super Bowl Sunday",
+6,
+[]
+],
+[
+"International Day of Awareness of Food Loss and Waste",
+6,
+[
+"IDAFLW",
+"International Day of Awareness on Food Loss and Waste Reduction"
+]
+],
+[
+"Kabir Jayanti",
+6,
+[
+"Kabir Prakat Diwas"
+]
+],
+[
+"Day of the Unification of the Romanian Principalities",
+5,
+[
+"Little Union Day"
+]
+],
+[
+"Woman prayer",
+5,
+[]
+],
+[
+"Sonam Lhosar",
+5,
+[
+"Sonam Losar"
+]
+],
+[
+"Tamu Lhosar",
+5,
+[]
+],
+[
+"Haya Day",
+5,
+[]
+],
+[
+"Peledush Payrem",
+5,
+[
+"Peledysh Payrem"
+]
+],
+[
+"Independent Czechoslovak State Day",
+5,
+[
+"Czech Independence Day",
+"Czech Republic Independence Day",
+"Independence Day of the Czech Republic"
+]
+],
+[
+"Easter in Poland",
+5,
+[]
+],
+[
+"Independence Restoration Day",
+5,
+[
+"Independence Day (East Timor, 20 May)"
+]
+],
+[
+"Tết Trung Thu",
+5,
+[
+"Tết Đoàn Viên",
+"Tết Hoa Đăng",
+"Tết Thiếu Nhi",
+"Tết Trông Trăng"
+]
+],
+[
+"Adwa Victory Day",
+5,
+[]
+],
+[
+"Wikipedia:Justin Knapp Day",
+5,
+[]
+],
+[
+"Polish Diaspora Day",
+5,
+[]
+],
+[
+"Mayfung",
+5,
+[]
+],
+[
+"Feast of Saint James",
+5,
+[
+"Feast of Saint James the Greater",
+"Saint James' Day"
+]
+],
+[
+"Kanya Puja",
+5,
+[]
+],
+[
+"Indonesia National Education Day",
+5,
+[]
+],
+[
+"Day of the Young Combatant",
+5,
+[]
+],
+[
+"Feast of Christ the Priest",
+5,
+[]
+],
+[
+"State Flag Day",
+5,
+[]
+],
+[
+"Ubhauli",
+5,
+[]
+],
+[
+"Day of Songun",
+5,
+[
+"Military-First Day"
+]
+],
+[
+"Wan Ok Phansa",
+5,
+[]
+],
+[
+"National Music Day in Azerbaijan",
+5,
+[]
+],
+[
+"Basil Day",
+5,
+[]
+],
+[
+"Jana Baha Dyah Jatra (chariot festival)",
+5,
+[]
+],
+[
+"Kashmir Martyrs' Day",
+5,
+[
+"Youm-e-Shuhada-e-Kashmir"
+]
+],
+[
+"Civic Holiday",
+5,
+[
+"Alexander Mackenzie Day",
+"British Columbia Day",
+"Colonel By Day",
+"Founders' Day",
+"George Hamilton Day",
+"Heritage Day",
+"James Cockburn Day",
+"John Galt Day",
+"Joseph Brant Day",
+"McLaughlin Day",
+"Natal Day",
+"New Brunswick Day",
+"Peter Robinson Day",
+"Saskatchewan Day",
+"Simcoe Day",
+"Terry Fox Day"
+]
+],
+[
+"Khet partug",
+5,
+[]
+],
+[
+"Lady Day",
+5,
+[]
+],
+[
+"Thadingyut Festival",
+5,
+[
+"Lighting Festival of Myanmar"
+]
+],
+[
+"Machad Mamangam",
+5,
+[]
+],
+[
+"Perunove",
+5,
+[]
+],
+[
+"Kansas Day",
+5,
+[]
+],
+[
+"Semyk",
+5,
+[]
+],
+[
+"First President Day",
+5,
+[
+"Day of the First President"
+]
+],
+[
+"Marathwada Liberation Day",
+5,
+[]
+],
+[
+"Iris Festival",
+5,
+[]
+],
+[
+"Surhuri",
+5,
+[]
+],
+[
+"Mothering Sunday",
+5,
+[]
+],
+[
+"Andhra Pradesh Day",
+5,
+[
+"Andhra Pradesh Raashtra Avatharana Dinotsavamu",
+"AP State Formation Day"
+]
+],
+[
+"Madeira Day",
+5,
+[
+"Dia da Madeira"
+]
+],
+[
+"Baba Marta Day",
+5,
+[]
+],
+[
+"Democracy and National Unity Day",
+5,
+[]
+],
+[
+"Day of the Balearic Islands",
+5,
+[]
+],
+[
+"Seharane",
+5,
+[]
+],
+[
+"19 Kislev",
+5,
+[
+"Yud Tes Kislev"
+]
+],
+[
+"Thirumandhamkunnu Pooram",
+5,
+[]
+],
+[
+"Chitra Pournami",
+5,
+[
+"Chaitra Purnima"
+]
+],
+[
+"National Patriots' Day",
+5,
+[
+"national patriot's day"
+]
+],
+[
+"Day of Family, Love and Fidelity",
+5,
+[
+"Day of Family, Love and Faithfulness"
+]
+],
+[
+"National Police Day",
+5,
+[]
+],
+[
+"National Day of Aragon",
+5,
+[
+"Día Nacional d'Aragón"
+]
+],
+[
+"Tricolour Day",
+5,
+[]
+],
+[
+"Festival of Saint Agatha (Catania)",
+5,
+[
+"Feast of Saint Agatha"
+]
+],
+[
+"National Day of Cursed Soldiers",
+5,
+[]
+],
+[
+"Losoong Festival",
+5,
+[
+"Namsoong"
+]
+],
+[
+"Days of Military Honour",
+5,
+[]
+],
+[
+"Praises of the Theotokos",
+5,
+[]
+],
+[
+"Whit Tuesday",
+5,
+[]
+],
+[
+"Security Agency Worker's Day (Russia)",
+5,
+[]
+],
+[
+"Day of Russian Science",
+5,
+[]
+],
+[
+"Liberty Day in Ukraine",
+5,
+[]
+],
+[
+"Tankman's Day",
+5,
+[]
+],
+[
+"Apple Day",
+5,
+[]
+],
+[
+"Zul",
+5,
+[]
+],
+[
+"Kazakhstan People's Unity Day",
+5,
+[
+"Unity Day"
+]
+],
+[
+"Saturday of Souls",
+5,
+[]
+],
+[
+"Synaxis of the Theotokos",
+5,
+[]
+],
+[
+"Nut Feast of the Saviour",
+5,
+[
+"Bread Feast of the Saviour",
+"Third Spas",
+"Third Spas feast"
+]
+],
+[
+"Akatuy",
+5,
+[]
+],
+[
+"Ashanti Yam Festival",
+5,
+[]
+],
+[
+"Awukudae Festival",
+5,
+[]
+],
+[
+"Independence Day of Cambodia",
+5,
+[]
+],
+[
+"Translation of the Relics of Saint Nicholas from Myra to Bari",
+5,
+[]
+],
+[
+"California Admission Day",
+5,
+[]
+],
+[
+"Constitution Day and Citizenship Day",
+5,
+[
+"Citizenship Day",
+"Constitution Day in the United States"
+]
+],
+[
+"Culturama",
+5,
+[
+"Carnival Tuesday"
+]
+],
+[
+"Datta Jayanti",
+5,
+[]
+],
+[
+"Day of Remembrance",
+5,
+[
+"National Day of Hatred"
+]
+],
+[
+"Day of Revenge",
+5,
+[
+"Day of Friendship",
+"Italian Evacuation Day"
+]
+],
+[
+"Feast of Saint George (Palestine)",
+5,
+[]
+],
+[
+"Día de Asturias",
+5,
+[]
+],
+[
+"King's Feast",
+5,
+[]
+],
+[
+"Pascua Militar",
+5,
+[]
+],
+[
+"Kollam pooram",
+5,
+[
+"Kollam Pooram"
+]
+],
+[
+"Sat Thai",
+5,
+[]
+],
+[
+"Derviza (festival)",
+5,
+[]
+],
+[
+"Federal Day of Thanksgiving, Repentance and Prayer",
+5,
+[]
+],
+[
+"Mixed Race Day",
+5,
+[]
+],
+[
+"National veterans' day",
+5,
+[
+"National Veterans' Day"
+]
+],
+[
+"Pregnancy and Infant Loss Remembrance Day",
+5,
+[]
+],
+[
+"Rosa Parks Day",
+5,
+[]
+],
+[
+"Saba Saba Day",
+5,
+[]
+],
+[
+"Satu Suro",
+5,
+[]
+],
+[
+"Susan B. Anthony Day",
+5,
+[
+"Susan B Anthony's Birthday"
+]
+],
+[
+"Tazaungdaing festival",
+5,
+[]
+],
+[
+"Thursday of the Dead",
+5,
+[
+"Thursday of the Eggs",
+"Thursday of the Secrets"
+]
+],
+[
+"Varuthini Ekadashi",
+5,
+[]
+],
+[
+"Western Australia Day",
+5,
+[
+"Foundation Day",
+"Foundation Day holiday",
+"Foundation Day, Western Australia",
+"WA Day"
+]
+],
+[
+"Youm-e-Takbir",
+5,
+[]
+],
+[
+"Day of the Community of Madrid",
+5,
+[]
+],
+[
+"Magdalena Festival",
+5,
+[]
+],
+[
+"Act of Independence of Lithuania",
+5,
+[]
+],
+[
+"1500th anniversary of Kyiv",
+4,
+[]
+],
+[
+"International day against violence and bullying at school including cyberbullying",
+4,
+[]
+],
+[
+"Little New Year",
+4,
+[
+"Festival of the Kitchen God"
+]
+],
+[
+"Trianon Treaty Day",
+4,
+[]
+],
+[
+"Ukrainian Headscarf Day",
+4,
+[]
+],
+[
+"Flag and University Day",
+4,
+[
+"Haitian Flag Day"
+]
+],
+[
+"Knut's party",
+4,
+[
+"Christmas tree plundering",
+"Christmas tree shaking",
+"julgransplundring",
+"julgransskakning",
+"Knut's dance",
+"Nuutinpäivä",
+"Tjugondag knut"
+]
+],
+[
+"Day of the Union of Bessarabia with Romania",
+4,
+[]
+],
+[
+"Palestinian Child's Day",
+4,
+[]
+],
+[
+"Ghode Jatra",
+4,
+[]
+],
+[
+"Mahalaya",
+4,
+[]
+],
+[
+"Revolution Day",
+4,
+[
+"July 22 Anniversary",
+"Liberation Day",
+"Revolution Day (Algeria)"
+]
+],
+[
+"Proclamation of Independence Day",
+4,
+[
+"Republic Day"
+]
+],
+[
+"Founding Day",
+4,
+[]
+],
+[
+"Day of the Uprising Against Occupation",
+4,
+[]
+],
+[
+"Union Day",
+4,
+[]
+],
+[
+"Genocide Memorial Day",
+4,
+[]
+],
+[
+"Fishermen's Day",
+4,
+[
+"Fishermen's Holiday"
+]
+],
+[
+"Nawakhani",
+4,
+[]
+],
+[
+"World Backup Day",
+4,
+[]
+],
+[
+"Accession Day",
+4,
+[]
+],
+[
+"Ethiopian Christmas",
+4,
+[]
+],
+[
+"Sultan Yazidis",
+4,
+[]
+],
+[
+"Surjahi Puja",
+4,
+[]
+],
+[
+"Madhya Pradesh Day",
+4,
+[]
+],
+[
+"Pheran Day",
+4,
+[
+"International Pheran Day",
+"World Pheran Day"
+]
+],
+[
+"National Day of the Rebirth of Poland",
+4,
+[]
+],
+[
+"Dashama Vrat",
+4,
+[]
+],
+[
+"Kreschensky Vecher",
+4,
+[
+"Epiphany Eve"
+]
+],
+[
+"Third Day of Christmas",
+4,
+[]
+],
+[
+"Saint Urban's Day",
+4,
+[
+"Feast of Saint Urban I"
+]
+],
+[
+"Easter in Italy",
+4,
+[]
+],
+[
+"Manggahan Festival",
+4,
+[]
+],
+[
+"Parashurama Jayanti",
+4,
+[]
+],
+[
+"International Day of Markhor",
+4,
+[]
+],
+[
+"Brahmaputra Festival",
+4,
+[]
+],
+[
+"National Maritime Day",
+4,
+[
+"United States National Maritime Day"
+]
+],
+[
+"National Revolution and Solidarity Day",
+4,
+[]
+],
+[
+"Rozune",
+4,
+[]
+],
+[
+"Commemoration Day",
+4,
+[
+"Martyrs' Day",
+"Sursalt Revolutionaire"
+]
+],
+[
+"July Mass Uprising Day",
+4,
+[]
+],
+[
+"Easter of the Dead",
+4,
+[
+"Memorial Day",
+"Memorial Easter"
+]
+],
+[
+"Departure Day",
+4,
+[]
+],
+[
+"Hong Kong Special Administrative Region Establishment Day",
+4,
+[]
+],
+[
+"Proclamation Day",
+4,
+[]
+],
+[
+"Pha That Luang Festival",
+4,
+[]
+],
+[
+"Sinai Liberation Day",
+4,
+[]
+],
+[
+"National Day of Thailand",
+4,
+[
+"National Day (Thailand)",
+"Thai National Day"
+]
+],
+[
+"Garia Puja",
+4,
+[
+"Bihu",
+"Biju",
+"Boisabi",
+"Buisu",
+"Busy",
+"Sangrain"
+]
+],
+[
+"Kiku no sekku",
+4,
+[
+"Chōyō",
+"Chrysanthemum Day"
+]
+],
+[
+"Mullivaikkal Remembrance Day",
+4,
+[
+"Mullivaikkal Day"
+]
+],
+[
+"Rato Machindranath Jatra",
+4,
+[]
+],
+[
+"National Grammar Day",
+4,
+[]
+],
+[
+"Kandali Festival",
+4,
+[
+"Kangdali Festival"
+]
+],
+[
+"Ker puja",
+4,
+[]
+],
+[
+"Native American Heritage Day",
+4,
+[]
+],
+[
+"Our Lady of Hungary",
+4,
+[]
+],
+[
+"Christmas in the United States of America",
+4,
+[
+"Christmas in the USA"
+]
+],
+[
+"Rusalii",
+4,
+[]
+],
+[
+"Chaiti Festival, Rayagada",
+4,
+[
+"Chaiti"
+]
+],
+[
+"Gyalpo Lhosar",
+4,
+[
+"Gyalbo Losar",
+"Gyallo Loshar"
+]
+],
+[
+"Jhulan Purnima",
+4,
+[]
+],
+[
+"Siwki",
+4,
+[]
+],
+[
+"World Egg Day",
+4,
+[]
+],
+[
+"First Night",
+4,
+[]
+],
+[
+"World Snow Day",
+4,
+[]
+],
+[
+"Rupertikirtag",
+4,
+[]
+],
+[
+"Missionary Day",
+4,
+[]
+],
+[
+"Founders Day",
+4,
+[
+"Van Riebeeck's Day"
+]
+],
+[
+"Telangana Language Day",
+4,
+[]
+],
+[
+"Chatar jatra",
+4,
+[]
+],
+[
+"Sekrenyi festival",
+4,
+[]
+],
+[
+"Helen Keller Day",
+4,
+[]
+],
+[
+"Yukka Nu Hii",
+4,
+[]
+],
+[
+"Synaxis of John the Baptist",
+4,
+[]
+],
+[
+"Hartjesdag",
+4,
+[]
+],
+[
+"Samvatsari",
+4,
+[]
+],
+[
+"Nazrul Jayanti",
+4,
+[]
+],
+[
+"Carnaval d'hiver de Montréal",
+4,
+[
+"Montreal Winter Carnivals"
+]
+],
+[
+"Falklands day",
+4,
+[]
+],
+[
+"Moving Day",
+4,
+[
+"jour du demenagement",
+"jour du déménagement"
+]
+],
+[
+"atanasov den",
+4,
+[]
+],
+[
+"Filipovka",
+4,
+[]
+],
+[
+"Jeûne genevois",
+4,
+[
+"Jeune genevois"
+]
+],
+[
+"The Finnish Identity Day",
+4,
+[
+"Day of the Finnish Identity",
+"The J.V. Snellman Day"
+]
+],
+[
+"Citizen's Holiday",
+4,
+[]
+],
+[
+"Grand Magal of Touba",
+4,
+[]
+],
+[
+"Spring Day",
+4,
+[]
+],
+[
+"Florus and Laurus Day",
+4,
+[]
+],
+[
+"Warsaw Uprising commemoration day",
+4,
+[]
+],
+[
+"International Astrology Day",
+4,
+[]
+],
+[
+"Woodward Dream Cruise",
+4,
+[]
+],
+[
+"Malanka",
+4,
+[]
+],
+[
+"World Whale and Dolphin Day",
+4,
+[]
+],
+[
+"International Migratory Bird Day",
+4,
+[]
+],
+[
+"World Amateur Radio Day",
+4,
+[]
+],
+[
+"Day of Neutrality",
+4,
+[]
+],
+[
+"День архивов",
+4,
+[]
+],
+[
+"Archaeologist's Day",
+4,
+[]
+],
+[
+"Day of the Police of Belarus",
+4,
+[]
+],
+[
+"Unification Day",
+4,
+[]
+],
+[
+"Day of Commemoration and National Mourning",
+4,
+[
+"Commemoration Day",
+"Day of Remembrance",
+"Remembrance Day"
+]
+],
+[
+"Day of the railway worker in Azerbaijan",
+4,
+[]
+],
+[
+"Sportspeople day",
+4,
+[]
+],
+[
+"Komoeditsa",
+4,
+[]
+],
+[
+"Krasnaya Gorka",
+4,
+[
+"Doubting Thomas"
+]
+],
+[
+"Father-Daughter Day",
+4,
+[]
+],
+[
+"International Bird Day",
+4,
+[]
+],
+[
+"Mtskhetoba",
+4,
+[
+"Svetitskovloba"
+]
+],
+[
+"Captive Nations Week",
+4,
+[]
+],
+[
+"New Year in Ukraine",
+4,
+[]
+],
+[
+"Eagle festival",
+4,
+[]
+],
+[
+"Pied week",
+4,
+[]
+],
+[
+"Saint Nicholas and Saint Martin fest",
+4,
+[
+"Saint Nicholas and Saint Martin customs"
+]
+],
+[
+"All Russian Saints",
+4,
+[]
+],
+[
+"Atla Tadde",
+4,
+[]
+],
+[
+"Autism Sunday",
+4,
+[
+"International Day of Prayer for autism spectrum disorders"
+]
+],
+[
+"Aztec New Year",
+4,
+[]
+],
+[
+"Baltic Freedom Day",
+4,
+[]
+],
+[
+"Poson",
+4,
+[]
+],
+[
+"Russian Air Force Day",
+4,
+[]
+],
+[
+"Kashubian Unity Day",
+4,
+[]
+],
+[
+"Calan Mai",
+4,
+[]
+],
+[
+"Cipotegato",
+4,
+[]
+],
+[
+"Day of the Imprisoned Writer",
+4,
+[]
+],
+[
+"Çük",
+4,
+[
+"Uchuk"
+]
+],
+[
+"Festa de São João do Porto",
+4,
+[]
+],
+[
+"Easter in Corfu",
+4,
+[
+"Corfu's Easter"
+]
+],
+[
+"Garifuna Settlement Day",
+4,
+[]
+],
+[
+"General Pulaski Memorial Day",
+4,
+[]
+],
+[
+"Maritime Day",
+4,
+[]
+],
+[
+"Székely Freedom Day",
+4,
+[]
+],
+[
+"Handsel Monday",
+4,
+[
+"Hansel Monday"
+]
+],
+[
+"Virgen Blanca Festivities",
+4,
+[]
+],
+[
+"Día de la Canción Criolla",
+4,
+[
+"Dia de la Cancion Criolla"
+]
+],
+[
+"J'ouvert",
+4,
+[]
+],
+[
+"Prithvi Jayanti",
+4,
+[
+"Unity Day"
+]
+],
+[
+"Willkakuti",
+4,
+[]
+],
+[
+"Kullu Dussehra",
+4,
+[]
+],
+[
+"Shabana (Hejazi Tradition)",
+4,
+[]
+],
+[
+"Mens' and Soldiers' Day",
+4,
+[]
+],
+[
+"Carnival of Ovar",
+4,
+[
+"Vitamin of Joy"
+]
+],
+[
+"St Piran's Day",
+4,
+[]
+],
+[
+"Lincoln's Birthday",
+4,
+[]
+],
+[
+"Virgen de los Angeles",
+4,
+[
+"La Negrita",
+"La Virgen de los Angeles"
+]
+],
+[
+"Loving Day",
+4,
+[]
+],
+[
+"Loyalty Day",
+4,
+[
+"Americanization Day"
+]
+],
+[
+"Malcolm X Day",
+4,
+[]
+],
+[
+"Mujahideen Victory Day",
+4,
+[]
+],
+[
+"Nag Nathaiya",
+4,
+[]
+],
+[
+"Nanda Devi Raj Jat",
+4,
+[]
+],
+[
+"National Cancer Survivors Day",
+4,
+[]
+],
+[
+"National Day of Commemoration",
+4,
+[
+"La Cuimhneachain Naisiunta",
+"Lá Cuimhneacháin Náisiúnta"
+]
+],
+[
+"National Edge Day",
+4,
+[]
+],
+[
+"National Freedom Day",
+4,
+[
+"Freedom Day"
+]
+],
+[
+"National Science Fiction Day",
+4,
+[]
+],
+[
+"International Survivors of Suicide Loss Day",
+4,
+[
+"National Survivors of Suicide Day"
+]
+],
+[
+"Oktoberfest celebrations",
+4,
+[]
+],
+[
+"Parents' Worship Day",
+4,
+[]
+],
+[
+"Peerla Panduga",
+4,
+[]
+],
+[
+"Picnic Day",
+4,
+[]
+],
+[
+"Prince Kūhiō Day",
+4,
+[
+"Kuhio Day"
+]
+],
+[
+"Metallurgist's Day",
+4,
+[]
+],
+[
+"Rottela Panduga",
+4,
+[
+"Rotiyaan ki eid"
+]
+],
+[
+"Rotuma Day",
+4,
+[]
+],
+[
+"Shinjō Matsuri",
+4,
+[
+"Shinjō Festival"
+]
+],
+[
+"Shravana Putrada Ekadashi",
+4,
+[]
+],
+[
+"Tanduyong Festival",
+4,
+[]
+],
+[
+"Day of Valencian Community",
+4,
+[
+"Valencia Day"
+]
+],
+[
+"Tsiknopempti",
+4,
+[
+"Barbeque Thursday",
+"Charred Thursday",
+"Smelly Thursday",
+"Smoky Thursday"
+]
+],
+[
+"Day of Belarusian Writing",
+4,
+[]
+],
+[
+"World Freedom Day",
+4,
+[]
+],
+[
+"Ceuta Day",
+4,
+[]
+],
+[
+"European Day of Mourning",
+4,
+[]
+],
+[
+"Bisu Parba",
+4,
+[
+"Bisu"
+]
+],
+[
+"Paso del Fuego",
+4,
+[]
+],
+[
+"Emaus w Krakowie",
+4,
+[]
+],
+[
+"Batman Day",
+4,
+[]
+],
+[
+"Statia Day",
+4,
+[]
+],
+[
+"Tamil Nadu Day",
+4,
+[]
+],
+[
+"Bukovina Day",
+3,
+[]
+],
+[
+"Dobruja Day",
+3,
+[]
+],
+[
+"Hiloula of Rabbi Haim Pinto",
+3,
+[]
+],
+[
+"Norfolk Island Foundation Day",
+3,
+[]
+],
+[
+"Boita Bandana",
+3,
+[]
+],
+[
+"Oltenia Day",
+3,
+[]
+],
+[
+"Buisu",
+3,
+[]
+],
+[
+"Pioneers' Day",
+3,
+[]
+],
+[
+"Younger Sister's Day",
+3,
+[]
+],
+[
+"Māori Language Day",
+3,
+[]
+],
+[
+"Day of the Constitution of the Slovak Republic",
+3,
+[
+"Constitution Day"
+]
+],
+[
+"Peace Memorial Day",
+3,
+[
+"Hiroshima Peace Memorial Day"
+]
+],
+[
+"Janjatiya Gaurav Divas",
+3,
+[]
+],
+[
+"Dehwa Rabba",
+3,
+[]
+],
+[
+"Chila shav",
+3,
+[]
+],
+[
+"Czech Statehood Day",
+3,
+[
+"Feast of St. Wenceslas",
+"St. Wenceslas Day"
+]
+],
+[
+"Umuganura Day",
+3,
+[
+"Harvest Thanksgiving"
+]
+],
+[
+"San Jacinto Day",
+3,
+[]
+],
+[
+"Sikkim State Day",
+3,
+[
+"Sikkim Day"
+]
+],
+[
+"Saratov City Day",
+3,
+[]
+],
+[
+"Minjar Mela",
+3,
+[]
+],
+[
+"Meitei Language Day",
+3,
+[]
+],
+[
+"Curaçao Day",
+3,
+[]
+],
+[
+"Cimarrones Festival",
+3,
+[]
+],
+[
+"Ashadhi Puja",
+3,
+[]
+],
+[
+"Arunachal Pradesh Statehood Day",
+3,
+[]
+],
+[
+"National Ribbon Skirt Day",
+3,
+[]
+],
+[
+"Grandfather's Day",
+3,
+[]
+],
+[
+"Bhanu Jayanti",
+3,
+[]
+],
+[
+"Gegants del Pi",
+3,
+[]
+],
+[
+"International Day for the Conservation of the Mangrove Ecosystem",
+3,
+[]
+],
+[
+"October Holiday",
+3,
+[]
+],
+[
+"Navy Day (Pakistan)",
+3,
+[]
+],
+[
+"Chikhal Kalo",
+3,
+[]
+],
+[
+"Ukrainian Cossack Day",
+3,
+[]
+],
+[
+"Computer Security Day",
+3,
+[
+"30-11",
+"30 november",
+"data security day",
+"international data security day",
+"november, 30"
+]
+],
+[
+"Ashura in Algeria",
+3,
+[]
+],
+[
+"Estonian Flag Day",
+3,
+[]
+],
+[
+"Resistance Fighting Day",
+3,
+[]
+],
+[
+"Indiana Day",
+3,
+[]
+],
+[
+"Birthday of Sheikh Mujibur Rahman",
+3,
+[]
+],
+[
+"World War II Serbian Victims Remembrance Day",
+3,
+[]
+],
+[
+"North Korean Defectors' Day",
+3,
+[]
+],
+[
+"State Sovereignty Day",
+3,
+[]
+],
+[
+"Olympic Day",
+3,
+[]
+],
+[
+"Sunneklaas",
+3,
+[]
+],
+[
+"Kojagra",
+3,
+[]
+],
+[
+"Kargatui",
+3,
+[
+"Karga Tui",
+"Qarghatui",
+"Qargha Tui"
+]
+],
+[
+"Paper Lantern Lighting Ceremony",
+3,
+[]
+],
+[
+"Soldier's day (Brazil)",
+3,
+[]
+],
+[
+"Day of Interethnic Harmony and Cultural Diversity (Ukraine)",
+3,
+[]
+],
+[
+"Taruka Bull Fair",
+3,
+[
+"Bullfight Fair"
+]
+],
+[
+"Sovereignty Day",
+3,
+[]
+],
+[
+"Kuzminki autumn",
+3,
+[]
+],
+[
+"Boun Suang Huea",
+3,
+[]
+],
+[
+"Super Saturday",
+3,
+[]
+],
+[
+"Hera Panchami",
+3,
+[]
+],
+[
+"Maydan",
+3,
+[]
+],
+[
+"Easter in Finland",
+3,
+[]
+],
+[
+"Odunde Festival",
+3,
+[]
+],
+[
+"Pawl Kut Festival",
+3,
+[]
+],
+[
+"National Foster Care Month",
+3,
+[]
+],
+[
+"Chilean presidential primaries, 2013",
+3,
+[
+"2013 Chilean presidential primaries"
+]
+],
+[
+"Angarki Sankashti Chaturthi",
+3,
+[]
+],
+[
+"Davao City Torotot Festival",
+3,
+[]
+],
+[
+"Noor Hossain Day",
+3,
+[]
+],
+[
+"Agrasen Jayanti",
+3,
+[]
+],
+[
+"Miracle at Chonae",
+3,
+[]
+],
+[
+"Owain Glyndŵr Day",
+3,
+[]
+],
+[
+"Christmas in Canada",
+3,
+[]
+],
+[
+"Christmas in Brazil",
+3,
+[]
+],
+[
+"Blue Mass",
+3,
+[]
+],
+[
+"Global Money Week",
+3,
+[]
+],
+[
+"Klozum",
+3,
+[]
+],
+[
+"900th anniversary of the Christianization of Rus'",
+3,
+[]
+],
+[
+"Rakhri",
+3,
+[]
+],
+[
+"Vertumnalia",
+3,
+[]
+],
+[
+"Shutdown Day",
+3,
+[]
+],
+[
+"Koppermaandag",
+3,
+[]
+],
+[
+"Twin Holy Birthdays",
+3,
+[]
+],
+[
+"Limassol Carnival Festival",
+3,
+[]
+],
+[
+"Pusnâ",
+3,
+[]
+],
+[
+"Tak Bat Thewo",
+3,
+[]
+],
+[
+"Feast of the Conception of John the Baptist",
+3,
+[]
+],
+[
+"Harriet Tubman Day",
+3,
+[]
+],
+[
+"Day of Salvation and Liberation",
+3,
+[]
+],
+[
+"Ngenpa Gudzom",
+3,
+[]
+],
+[
+"Galdan Namchot",
+3,
+[
+"rándēng jié"
+]
+],
+[
+"National Woman's Day",
+3,
+[
+"Woman's Day"
+]
+],
+[
+"Rokeya Day",
+3,
+[]
+],
+[
+"Kothakonda Jatara",
+3,
+[]
+],
+[
+"National Mourning Day",
+3,
+[]
+],
+[
+"Mārtiņi",
+3,
+[]
+],
+[
+"Sammakka Saralamma Jatara",
+3,
+[]
+],
+[
+"Jaakonpäivä",
+3,
+[]
+],
+[
+"Vvedenie",
+3,
+[]
+],
+[
+"Day of the Race",
+3,
+[]
+],
+[
+"Blessed Rainy Day",
+3,
+[]
+],
+[
+"Day of traffic police",
+3,
+[]
+],
+[
+"State Flag and Constitution Day",
+3,
+[
+"Consitution Day (formerly)",
+"Revival and Unity Day (formerly)"
+]
+],
+[
+"Driver's Day",
+3,
+[]
+],
+[
+"Baptism Day of Kyivan Rus — Ukraine",
+3,
+[]
+],
+[
+"Azerbaijan Cinema Day",
+3,
+[]
+],
+[
+"St. Sargis day",
+3,
+[]
+],
+[
+"Emergency Rescuer's Day",
+3,
+[]
+],
+[
+"Children of Ukraine",
+3,
+[]
+],
+[
+"Mary Magdalene",
+3,
+[
+"Yagodnitsa"
+]
+],
+[
+"Easter in Greece",
+3,
+[]
+],
+[
+"Rostov-on-Don Tree Planting Festival",
+3,
+[]
+],
+[
+"Flower holiday",
+3,
+[
+"Flower Festival"
+]
+],
+[
+"Thomas Week Slavs",
+3,
+[]
+],
+[
+"Simeon day (slavic festival)",
+3,
+[]
+],
+[
+"Synaxis of All Saints of Vladimir",
+3,
+[]
+],
+[
+"Surharban",
+3,
+[]
+],
+[
+"Fedor Week",
+3,
+[]
+],
+[
+"Umkhosi Wokweshwama",
+3,
+[
+"Ukweshwama",
+"Umkhosi Woselwa",
+"Wokweshwama"
+]
+],
+[
+"Auckland Anniversary Day",
+3,
+[
+"Northland Anniversary Day"
+]
+],
+[
+"Defender of the Motherland Day",
+3,
+[]
+],
+[
+"Victory Day Parades",
+3,
+[]
+],
+[
+"World Speech Day",
+3,
+[]
+],
+[
+"Bibi-Ka-Alam",
+3,
+[]
+],
+[
+"Casimir Pulaski Day",
+3,
+[
+"Dzień Kazimierza Pułaskiego",
+"Dzień Pułaskiego",
+"Pulaski Day"
+]
+],
+[
+"Christmas Sunday",
+3,
+[]
+],
+[
+"Coast Guard Day",
+3,
+[]
+],
+[
+"Confederate Memorial Day",
+3,
+[
+"Confederate Decoration Day",
+"Confederate Heroes Day"
+]
+],
+[
+"Day of the Argentine Antarctic",
+3,
+[]
+],
+[
+"Federal Territory Day",
+3,
+[
+"Hari Wilayah"
+]
+],
+[
+"Day of First National Government",
+3,
+[
+"May Revolution Day"
+]
+],
+[
+"Fossil Fools Day",
+3,
+[]
+],
+[
+"Medal of Honor Day",
+3,
+[]
+],
+[
+"Gasparilla Pirate Festival",
+3,
+[]
+],
+[
+"Astan Bandar",
+3,
+[]
+],
+[
+"Day of the People's April Revolution",
+3,
+[]
+],
+[
+"Kushe Aunsi",
+3,
+[
+"Buwa ko Mukh Herne Din",
+"Gokarna Aunsi",
+"Pitri Tirpani Aunsi"
+]
+],
+[
+"Golowan",
+3,
+[]
+],
+[
+"Guru Ravidass Jayanti",
+3,
+[]
+],
+[
+"Extremadura Day",
+3,
+[]
+],
+[
+"Gŵyl Fair y Canhwyllau",
+3,
+[
+"Candlemas in Wales",
+"Welsh Candlemas"
+]
+],
+[
+"Gŵyl Mabsant",
+3,
+[
+"local saint's day"
+]
+],
+[
+"Harela mela",
+3,
+[]
+],
+[
+"Christmas lights in Medellín",
+3,
+[
+"Christmas lights in Medellin",
+"Christmas Medellin"
+]
+],
+[
+"Hawaii Admission Day",
+3,
+[
+"Hawaii Statehood Day"
+]
+],
+[
+"Day of Castile-La Mancha",
+3,
+[]
+],
+[
+"Feast of Our Lady of Guadalupe",
+3,
+[]
+],
+[
+"Jefferson's Birthday",
+3,
+[
+"Thomas Jefferson's Birthday"
+]
+],
+[
+"Founding of the Republic of China Day",
+3,
+[]
+],
+[
+"Kshamavani",
+3,
+[]
+],
+[
+"Sheelah’s Day",
+3,
+[]
+],
+[
+"Military Foundation Day",
+3,
+[]
+],
+[
+"Maaveerar Day",
+3,
+[]
+],
+[
+"Kati Bihu",
+3,
+[
+"Kongali Bihu"
+]
+],
+[
+"Mae-Dam-Mae-Phi",
+3,
+[]
+],
+[
+"Minden Day",
+3,
+[]
+],
+[
+"Mischief Night",
+3,
+[
+"Cabbage Night",
+"Devil's Night",
+"Gate Night",
+"Goosey Night"
+]
+],
+[
+"National Aviation Day",
+3,
+[]
+],
+[
+"National Freedom to Marry Day",
+3,
+[]
+],
+[
+"National Honey Bee Day",
+3,
+[]
+],
+[
+"National Nothing Day",
+3,
+[]
+],
+[
+"National Paper Airplane Day",
+3,
+[]
+],
+[
+"National Public Lands Day",
+3,
+[]
+],
+[
+"National Wear Red Day",
+3,
+[]
+],
+[
+"Philippine–Spanish Friendship Day",
+3,
+[]
+],
+[
+"Puspuni",
+3,
+[
+"Cher cheri",
+"Chher Cheeri"
+]
+],
+[
+"Ronald Reagan Day",
+3,
+[]
+],
+[
+"Stir-up Sunday",
+3,
+[]
+],
+[
+"Sweetest Day",
+3,
+[]
+],
+[
+"Pamulinawen Festival",
+3,
+[]
+],
+[
+"Transfer Day",
+3,
+[]
+],
+[
+"Truman Day",
+3,
+[]
+],
+[
+"White House Hanukkah Party",
+3,
+[]
+],
+[
+"World Contact Day",
+3,
+[]
+],
+[
+"Yom-e Bab ul-Islam",
+3,
+[]
+],
+[
+"Yorkshire Day",
+3,
+[]
+],
+[
+"Zatra in marathi",
+3,
+[]
+],
+[
+"Martyrs’ Day",
+3,
+[
+"Memorial Day"
+]
+],
+[
+"Virgin Islands–Puerto Rico Friendship Day",
+3,
+[]
+],
+[
+"Day of Navarre",
+3,
+[]
+],
+[
+"Day of Euskadi",
+3,
+[]
+],
+[
+"Day of Indigenous Resistance",
+3,
+[]
+],
+[
+"Los Güevos Pintos",
+3,
+[]
+],
+[
+"Mother-in-law Day",
+3,
+[]
+],
+[
+"International Year of Mountains",
+3,
+[
+"International Year of the Monument"
+]
+],
+[
+"octave of Pentecost",
+3,
+[]
+],
+[
+"Kobe Bryant Day",
+3,
+[]
+],
+[
+"Israelsunday",
+2,
+[]
+],
+[
+"Straight Pride Day",
+2,
+[
+"Heterosexual Pride Day"
+]
+],
+[
+"Festa de Independência da Bahia",
+2,
+[]
+],
+[
+"Oath of the Constitution",
+2,
+[]
+],
+[
+"Micareta de Feira",
+2,
+[]
+],
+[
+"Feast day of Saint Anne",
+2,
+[
+"Feast of Saint Anne"
+]
+],
+[
+"Armed Forces Remembrance Day",
+2,
+[]
+],
+[
+"International Inuit Day",
+2,
+[]
+],
+[
+"World Aquatics Day",
+2,
+[]
+],
+[
+"Chafa'a",
+2,
+[
+"Chafaa",
+"Shafa'a",
+"Shafaa"
+]
+],
+[
+"America Recycles Day",
+2,
+[]
+],
+[
+"Hundred Days",
+2,
+[
+"Chrysostomos",
+"Honderd Dagen"
+]
+],
+[
+"Medieval July",
+2,
+[]
+],
+[
+"Feast of St. John the Baptist in Bahia",
+2,
+[]
+],
+[
+"Mechanical Engineer Day",
+2,
+[]
+],
+[
+"Shushi Liberation Day",
+2,
+[]
+],
+[
+"New Year in Finland",
+2,
+[]
+],
+[
+"Lee–Jackson Day",
+2,
+[
+"Lee-Jackson Day"
+]
+],
+[
+"Saamaka Daka",
+2,
+[]
+],
+[
+"National Heroes' Day",
+2,
+[
+"Araw ng mga Bayani",
+"National Heroes Day",
+"President Neto's Birthday"
+]
+],
+[
+"Saints Cyril and Methodius Day",
+2,
+[]
+],
+[
+"National Flag and Anthem Day",
+2,
+[]
+],
+[
+"Heroes Day",
+2,
+[]
+],
+[
+"Festa del Narciso",
+2,
+[]
+],
+[
+"Presidents' Day",
+2,
+[]
+],
+[
+"National Day of Mourning",
+2,
+[
+"Workers' Mourning Day"
+]
+],
+[
+"Prawas Din",
+2,
+[]
+],
+[
+"Law Day, U.S.A.",
+2,
+[]
+],
+[
+"Day of the Migrants",
+2,
+[
+"Migrants Day"
+]
+],
+[
+"Evacuation Day",
+2,
+[
+"Independence Day"
+]
+],
+[
+"300th anniversary of Russian Navy",
+2,
+[]
+],
+[
+"8 May",
+2,
+[]
+],
+[
+"Hyderabad-Karnataka Liberation Day",
+2,
+[]
+],
+[
+"Gilgit-Baltistan Independence Day",
+2,
+[]
+],
+[
+"National Statistics Day",
+2,
+[]
+],
+[
+"Day of the Maroons",
+2,
+[
+"Maroon Day"
+]
+],
+[
+"A-Bomb Day",
+2,
+[]
+],
+[
+"Festa do Dois de Julho",
+2,
+[]
+],
+[
+"Shūsen-no-hi",
+2,
+[
+"Shūsen-kinenbi"
+]
+],
+[
+"Cow Hug Day",
+2,
+[]
+],
+[
+"Palentine's day",
+2,
+[]
+],
+[
+"Boy's Day",
+2,
+[]
+],
+[
+"Doctors' Day (Taiwan)",
+2,
+[]
+],
+[
+"Independence Day in Gdańsk",
+2,
+[]
+],
+[
+"Armenian Press Day",
+2,
+[]
+],
+[
+"Month of the Sacred Heart",
+2,
+[]
+],
+[
+"All -Ukrainian Libraries Day",
+2,
+[]
+],
+[
+"International Accounting Day",
+2,
+[]
+],
+[
+"Tết Hàn Thực",
+2,
+[]
+],
+[
+"Tết Trung Nguyên",
+2,
+[]
+],
+[
+"Nawamintha Maharaj Day",
+2,
+[]
+],
+[
+"Sveti Vrach (holiday)",
+2,
+[]
+],
+[
+"Royal Seating Day",
+2,
+[]
+],
+[
+"Behdienkhlam",
+2,
+[]
+],
+[
+"Nevada Day",
+2,
+[]
+],
+[
+"Pratap Jayanti",
+2,
+[]
+],
+[
+"Meänmaa Flag Day",
+2,
+[]
+],
+[
+"Louis Riel Day",
+2,
+[
+"Family Day"
+]
+],
+[
+"Death and state funeral of Kamuzu Banda",
+2,
+[]
+],
+[
+"August Holiday",
+2,
+[]
+],
+[
+"International Day Against DRM",
+2,
+[
+"International Day Against Digital Restrictions Management"
+]
+],
+[
+"Fire Service Day",
+2,
+[]
+],
+[
+"Day of the Croatian Parliament",
+2,
+[]
+],
+[
+"Lithuanian Flag Day",
+2,
+[]
+],
+[
+"June Holiday",
+2,
+[
+"Discovery Day (until 2020)"
+]
+],
+[
+"Feast of Saint Blaise",
+2,
+[
+"Blasiusmass"
+]
+],
+[
+"Feast of Saint Catherine of Alexandria",
+2,
+[]
+],
+[
+"National Press and Journalism Day",
+2,
+[]
+],
+[
+"Mother's day (Thailand)",
+2,
+[
+"Queen Mother's Birthday",
+"Queen Sirikit's Birthday"
+]
+],
+[
+"Feast of Saint Peter",
+2,
+[]
+],
+[
+"Feast of Saint Bartholomew",
+2,
+[]
+],
+[
+"Sikh Heritage Month",
+2,
+[]
+],
+[
+"Shevchenko Days",
+2,
+[
+"Days of Shevchenko",
+"Shevchenko Day",
+"Taras Shevchenko Day"
+]
+],
+[
+"Madeira's Autonomy Day",
+2,
+[]
+],
+[
+"World Meditation Day",
+2,
+[]
+],
+[
+"Melilla Day",
+2,
+[]
+],
+[
+"Empire Day",
+2,
+[]
+],
+[
+"Police Day",
+2,
+[
+"National Police Day",
+"Święto Policji"
+]
+],
+[
+"South African Librarian's Day",
+2,
+[]
+],
+[
+"July Shaheed Day",
+2,
+[]
+],
+[
+"Jharkhand Day",
+2,
+[]
+],
+[
+"Shrove Monday",
+2,
+[
+"Collop Monday",
+"Collopy Monday",
+"Hall Monday",
+"Merry Monday",
+"Peasen Monday",
+"Rose Monday"
+]
+],
+[
+"Celebration of the Union of the Ionian Islands",
+2,
+[
+"21 May",
+"Union of the Heptanese",
+"Union of the Ionian Islands"
+]
+],
+[
+"Gregoriusfest",
+2,
+[
+"Feast of Saint Gregory the Great"
+]
+],
+[
+"Easter in Cyprus",
+2,
+[]
+],
+[
+"International Day of the Belt and Road",
+2,
+[]
+],
+[
+"Saint Florian's day",
+2,
+[]
+],
+[
+"Wikipedia:Tim Starling Day",
+2,
+[
+"Parser Optimisation Day",
+"Tim Starling Day",
+"Wikipedia:Parser Optimisation Day"
+]
+],
+[
+"Feast of Fishermen",
+2,
+[]
+],
+[
+"Shoppingmanweekend",
+2,
+[
+"frídegi verslunarmanna",
+"Verslunarmannahelgi"
+]
+],
+[
+"Chinese Mid-Autumn Festival",
+2,
+[]
+],
+[
+"Restoration Day of the Independent Czech State",
+2,
+[]
+],
+[
+"Wäldchestag",
+2,
+[]
+],
+[
+"Feast of the Cross",
+2,
+[]
+],
+[
+"Russian Jazz Day",
+2,
+[]
+],
+[
+"The eve of Peter's Fast",
+2,
+[]
+],
+[
+"Sredokrestiye",
+2,
+[]
+],
+[
+"Genesia",
+2,
+[]
+],
+[
+"Cemetery holiday",
+2,
+[
+"Cemetery celebration"
+]
+],
+[
+"Māras",
+2,
+[]
+],
+[
+"Chakri Memorial Day",
+2,
+[
+"Wan Chakkri"
+]
+],
+[
+"Weaver's Day",
+2,
+[]
+],
+[
+"Bennington Battle Day",
+2,
+[]
+],
+[
+"José Celso Barbosa Day",
+2,
+[]
+],
+[
+"Gangamma Jatara",
+2,
+[]
+],
+[
+"Education and Sharing Day",
+2,
+[]
+],
+[
+"Lal Loi",
+2,
+[]
+],
+[
+"Brooklyn-Queens Day",
+2,
+[
+"Anniversary Day",
+"Brooklyn Day",
+"Kids Day"
+]
+],
+[
+"Double Sixth Festival",
+2,
+[]
+],
+[
+"Battle of Las Piedras Day",
+2,
+[]
+],
+[
+"Čuvari Hristovog groba",
+2,
+[]
+],
+[
+"Spanish Radio Academy",
+2,
+[]
+],
+[
+"Maiuma",
+2,
+[]
+],
+[
+"Sangken",
+2,
+[]
+],
+[
+"Kazan Autumn",
+2,
+[]
+],
+[
+"Koninginnedag 2006",
+2,
+[]
+],
+[
+"Romanian Navy Day",
+2,
+[]
+],
+[
+"Meeting of the Lord",
+2,
+[]
+],
+[
+"'A Chiena",
+2,
+[]
+],
+[
+"Nalukulangara Pooram",
+2,
+[]
+],
+[
+"Disabled Access Day",
+2,
+[]
+],
+[
+"New Year celebrations",
+2,
+[]
+],
+[
+"Celebration of Virtue",
+2,
+[]
+],
+[
+"Celebration of Labour",
+2,
+[]
+],
+[
+"Celebration of Convictions",
+2,
+[]
+],
+[
+"Celebration of Talent",
+2,
+[]
+],
+[
+"Celebration of Honors",
+2,
+[]
+],
+[
+"Celebration of the Revolution",
+2,
+[]
+],
+[
+"Fiestas Minervalias",
+2,
+[]
+],
+[
+"Feast of the Seven Sorrows of the Blessed Virgin Mary",
+2,
+[]
+],
+[
+"Labour and Solidarity Day",
+2,
+[
+"1 May International Workers' Day in Turkey"
+]
+],
+[
+"Peasants' Day",
+2,
+[]
+],
+[
+"Nane Nane Day",
+2,
+[
+"Farmers' Day"
+]
+],
+[
+"National Sanitation Day",
+2,
+[]
+],
+[
+"The Eighth",
+2,
+[]
+],
+[
+"2nd Amendment Day",
+2,
+[]
+],
+[
+"World Rakı Festival",
+2,
+[]
+],
+[
+"Nusardil",
+2,
+[
+"Feast of Nusardil",
+"Feast of Rashesh"
+]
+],
+[
+"Abaca Festival",
+2,
+[]
+],
+[
+"Semana Cervantina de Alcalá de Henares",
+2,
+[]
+],
+[
+"Festivities of San Blas, Ateca",
+2,
+[]
+],
+[
+"Employee Appreciation Day",
+2,
+[]
+],
+[
+"Edinburgh's Hogmanay",
+2,
+[]
+],
+[
+"Wedding of Crown Prince Naruhito and Masako Owada",
+2,
+[]
+],
+[
+"Internal Autonomy Day",
+2,
+[]
+],
+[
+"Siwaratri",
+2,
+[]
+],
+[
+"Polish-Hungarian Friendship Day",
+2,
+[]
+],
+[
+"saint martin's (Netherlands feast)",
+2,
+[]
+],
+[
+"Subara",
+2,
+[
+"Season of Annunciation",
+"Suboro"
+]
+],
+[
+"Camp Flog Gnaw",
+2,
+[
+"Odd Future carnival",
+"OFWGKTA Carnival"
+]
+],
+[
+"Sawma Rabba",
+2,
+[]
+],
+[
+"Qyamta",
+2,
+[
+"Qytama"
+]
+],
+[
+"Xantolo",
+2,
+[]
+],
+[
+"National Guard Day (Russia)",
+2,
+[]
+],
+[
+"Warriors' Day",
+2,
+[]
+],
+[
+"Hijab and chastity day",
+2,
+[]
+],
+[
+"Bengali Genocide Remembrance Day",
+2,
+[]
+],
+[
+"Anglo-Franco Proclamation",
+2,
+[]
+],
+[
+"Sombrero Festival",
+2,
+[]
+],
+[
+"Charro Days",
+2,
+[
+"Charro Days Festival"
+]
+],
+[
+"National Vietnam War Veterans Day",
+2,
+[]
+],
+[
+"Israel's 70th anniversary",
+2,
+[]
+],
+[
+"Sovereignty Restoration Day",
+2,
+[]
+],
+[
+"Wattah Wattah Festival",
+2,
+[]
+],
+[
+"Glasgow Fair",
+2,
+[]
+],
+[
+"Teacher's day in Iran",
+2,
+[]
+],
+[
+"Day of the Establishment of the Slovak Republic",
+2,
+[]
+],
+[
+"Universal Smoke Offering Day",
+2,
+[
+"Fumigation to the world",
+"tsamling cisang",
+"Zamling Chisang"
+]
+],
+[
+"Queensland Day",
+2,
+[]
+],
+[
+"Liberation Day in Norway",
+2,
+[]
+],
+[
+"Day of the Dead in Slovenia",
+2,
+[]
+],
+[
+"Women Of Aviation Worldwide Week",
+2,
+[]
+],
+[
+"Pausha Putrada Ekadashi",
+2,
+[]
+],
+[
+"Pope Night",
+2,
+[]
+],
+[
+"Kupalnitsa",
+2,
+[]
+],
+[
+"All-Ukrainian Day of Cultural Workers and Folk Art Lovers",
+2,
+[]
+],
+[
+"Russian Ground Forces Day",
+2,
+[]
+],
+[
+"Jean Sibelius Day",
+2,
+[
+"den finländska musikens dag",
+"finländska musikens dag",
+"Finnish Music Day",
+"Jean Sibeliuksen päivä",
+"Jean Sibeliusdagen",
+"suomalaisen musiikin päivä"
+]
+],
+[
+"Advocacy Day",
+2,
+[
+"Day of the Bar"
+]
+],
+[
+"Day of Kalmyk Tea",
+2,
+[]
+],
+[
+"Collectors Day",
+2,
+[
+"Day of Collector"
+]
+],
+[
+"Marines' Day",
+2,
+[]
+],
+[
+"Muay Thai day",
+2,
+[
+"Thai boxing day"
+]
+],
+[
+"Soviet partisans Day",
+2,
+[
+"Day of Soviet partisans"
+]
+],
+[
+"Day of Workers of the Rocket and Space Industry of Ukraine",
+2,
+[]
+],
+[
+"Russian Post Day",
+2,
+[]
+],
+[
+"Testers day",
+2,
+[
+"QA Day"
+]
+],
+[
+"Day of Physical Culture and Sport in Ukraine",
+2,
+[]
+],
+[
+"Chechen Women's Day",
+2,
+[]
+],
+[
+"Emilian Day",
+2,
+[]
+],
+[
+"Mongolian State Flag Day",
+2,
+[]
+],
+[
+"Vodopol",
+2,
+[]
+],
+[
+"Digital Learning Day",
+2,
+[]
+],
+[
+"Afro-Colombian Day",
+2,
+[
+"Día de la Afrocolombianidad"
+]
+],
+[
+"Hungarian Language Day",
+2,
+[]
+],
+[
+"Alabama Day",
+2,
+[]
+],
+[
+"Amazigh New Year",
+2,
+[
+"Berber New Year",
+"Yennayer"
+]
+],
+[
+"American Heart Month",
+2,
+[
+"36 U.S.C. § 101"
+]
+],
+[
+"Azores Day",
+2,
+[]
+],
+[
+"Bhai Phonta",
+2,
+[]
+],
+[
+"Bhairava Ashtami",
+2,
+[]
+],
+[
+"Binirayan festival",
+2,
+[]
+],
+[
+"Castleton Garland Day",
+2,
+[]
+],
+[
+"Child Health Day",
+2,
+[]
+],
+[
+"Concord Day",
+2,
+[]
+],
+[
+"Coronation Day",
+2,
+[]
+],
+[
+"Cuti bersama",
+2,
+[
+"collective leave",
+"joint holiday"
+]
+],
+[
+"Transit Driver Appreciation Day",
+2,
+[
+"Bus Driver Appreciation Day"
+]
+],
+[
+"Defenders Day",
+2,
+[]
+],
+[
+"Drupka Teshi",
+2,
+[
+"Drug-pa Tse-zhi"
+]
+],
+[
+"Errol Barrow Day",
+2,
+[]
+],
+[
+"Evelio Javier Day",
+2,
+[]
+],
+[
+"Feast of the Crown of Thorns",
+2,
+[]
+],
+[
+"Feast of the Most Precious Blood",
+2,
+[]
+],
+[
+"Freedom and Democracy Day",
+2,
+[]
+],
+[
+"Georgia Day",
+2,
+[]
+],
+[
+"Peat Cutting Monday",
+2,
+[]
+],
+[
+"Day of the Cuban Armed Forces",
+2,
+[]
+],
+[
+"Guanacaste Day",
+2,
+[
+"Annexation of the Party of Nicoya to Costa Rica"
+]
+],
+[
+"Filseta",
+2,
+[]
+],
+[
+"Festivals of the Cross",
+2,
+[]
+],
+[
+"Urkerdag",
+2,
+[]
+],
+[
+"Antilles Day",
+2,
+[]
+],
+[
+"La Rioja Day",
+2,
+[]
+],
+[
+"Fiesta de la Maya, Colmenar Viejo",
+2,
+[]
+],
+[
+"Sunderum",
+2,
+[
+"Sundrum"
+]
+],
+[
+"fair of Jaen",
+2,
+[
+"Feria de San Lucas"
+]
+],
+[
+"San Mateo festivity",
+2,
+[
+"San Mateo"
+]
+],
+[
+"La gritería",
+2,
+[
+"Gritería"
+]
+],
+[
+"Apollo 11 anniversaries",
+2,
+[]
+],
+[
+"Kalahandi Utsav",
+2,
+[
+"Kalahandi Utsav Ghumura"
+]
+],
+[
+"Matatirtha Aunsi",
+2,
+[]
+],
+[
+"Islam Day",
+2,
+[]
+],
+[
+"Fiesta del Charco",
+2,
+[]
+],
+[
+"Tourism Week",
+2,
+[
+"Holy Week"
+]
+],
+[
+"G.F. Betico Croes Day",
+2,
+[
+"Betico Croes Day"
+]
+],
+[
+"Citizen's Day",
+2,
+[]
+],
+[
+"Revival day (Belarus)",
+2,
+[]
+],
+[
+"Higantes Festival",
+2,
+[]
+],
+[
+"Easter in Latvia",
+2,
+[
+"Lieldienas"
+]
+],
+[
+"Feast of Our Lady of the Rosary (October 7)",
+2,
+[
+"Feast of Our Lady of the Most Holy Rosary",
+"Feast of the Rosary",
+"Festum Beatae Mariae Virginis a Rosario"
+]
+],
+[
+"Srefidensi Dey",
+2,
+[]
+],
+[
+"Sea day",
+2,
+[
+"Day of the Sea"
+]
+],
+[
+"Nagoba Jatara",
+2,
+[]
+],
+[
+"National Night Out",
+2,
+[]
+],
+[
+"National Weatherperson's Day",
+2,
+[]
+],
+[
+"Native American Day",
+2,
+[]
+],
+[
+"Nunavut Day",
+2,
+[]
+],
+[
+"Oak Apple Day",
+2,
+[]
+],
+[
+"Pargat Diwas",
+2,
+[
+"Valmiki Jayanti"
+]
+],
+[
+"Peace Officers Memorial Day",
+2,
+[]
+],
+[
+"People's Sunday",
+2,
+[
+"Ħadd in-Nies"
+]
+],
+[
+"Pioneer Days",
+2,
+[]
+],
+[
+"The Palestinian Prisoners' Day",
+2,
+[]
+],
+[
+"Pulaski Day Parade",
+2,
+[]
+],
+[
+"Racial Justice Sunday",
+2,
+[]
+],
+[
+"Architecture of Ukraine",
+2,
+[]
+],
+[
+"Reek Sunday",
+2,
+[
+"Garland Sunday"
+]
+],
+[
+"Remembrance Day of Journalists Killed in the Line of Duty",
+2,
+[]
+],
+[
+"Repentance Day",
+2,
+[]
+],
+[
+"Royal Hobart Show",
+2,
+[]
+],
+[
+"Saiō Matsuri",
+2,
+[
+"Saiō Festival",
+"Saioh Festival",
+"Saio Matsuri"
+]
+],
+[
+"General José de San Martín Memorial Day",
+2,
+[]
+],
+[
+"Small Business Saturday",
+2,
+[]
+],
+[
+"Saint Clement's Day",
+2,
+[
+"Feast of Saint Clement I",
+"St Clement's Day",
+"St. Clement's Day"
+]
+],
+[
+"St George's Day in England",
+2,
+[]
+],
+[
+"St Mark's Eve",
+2,
+[]
+],
+[
+"Surin Elephant Round-up",
+2,
+[]
+],
+[
+"Tirupati Ganga Jatara",
+2,
+[]
+],
+[
+"Ulcinj Municipality Day",
+2,
+[]
+],
+[
+"Union Dissolution Day",
+2,
+[]
+],
+[
+"Wakes week",
+2,
+[]
+],
+[
+"World Compassion Day",
+2,
+[]
+],
+[
+"Distaff Day",
+2,
+[]
+],
+[
+"Harvest Festival",
+2,
+[]
+],
+[
+"Defenders' of Ukraine Remembrance Day",
+2,
+[
+"Day of Remembrance of the Defenders of Ukraine"
+]
+],
+[
+"Konopická",
+2,
+[]
+],
+[
+"Gregorianki",
+2,
+[]
+],
+[
+"Holiday of the City of Miskolc",
+2,
+[]
+],
+[
+"World War I Armistice Day (Serbia)",
+2,
+[]
+],
+[
+"Karen New Year",
+2,
+[
+"Kayin New Year"
+]
+],
+[
+"Memorial Day For Those Who Fell For The Homeland",
+1,
+[
+"Day of Remembrance"
+]
+],
+[
+"Universal Brotherhood Day",
+1,
+[]
+],
+[
+"Feast of Saint Sebastian",
+1,
+[]
+],
+[
+"Feast of Saint Roch",
+1,
+[
+"Feast of Saint Rochus (Roche"
+]
+],
+[
+"All Saints' Day",
+1,
+[
+"Allhelgonadagen"
+]
+],
+[
+"Bigi Sma Dey",
+1,
+[
+"Bigisma Dey",
+"Senior People's Day"
+]
+],
+[
+"Prayer compensation",
+1,
+[]
+],
+[
+"Székely Autonomy Day",
+1,
+[]
+],
+[
+"Day of Conception",
+1,
+[]
+],
+[
+"Quema de las Gamonitas",
+1,
+[]
+],
+[
+"Theravada New Year",
+1,
+[]
+],
+[
+"Durgapur Free Day",
+1,
+[]
+],
+[
+"Herdenking Javaanse immigratie in Suriname",
+1,
+[
+"Commemoration Javanese immigration in Suriname"
+]
+],
+[
+"Toothfish Day",
+1,
+[
+"Toothfish (end of season) Day"
+]
+],
+[
+"Steve Irwin Day",
+1,
+[]
+],
+[
+"Feast of Saint Hubert",
+1,
+[]
+],
+[
+"National Museum Day",
+1,
+[]
+],
+[
+"Newspaper Day",
+1,
+[]
+],
+[
+"Christmas in Guam",
+1,
+[]
+],
+[
+"Vessantara Festival",
+1,
+[]
+],
+[
+"Candia Covo Festival",
+1,
+[]
+],
+[
+"National Flag Day",
+1,
+[]
+],
+[
+"National Heroes Day",
+1,
+[
+"Maurice Bishop Day"
+]
+],
+[
+"Moshoeshoe's Day",
+1,
+[]
+],
+[
+"Downfall of the Derg",
+1,
+[]
+],
+[
+"Primary Care Day",
+1,
+[]
+],
+[
+"Traditional Day of Offering",
+1,
+[
+"buelwa phuewi nyim",
+"Chunipa Losar"
+]
+],
+[
+"Reconciliation Day",
+1,
+[
+"National Conference Day"
+]
+],
+[
+"Territory Day",
+1,
+[]
+],
+[
+"Declaration of Independence of Quito",
+1,
+[]
+],
+[
+"Spring Bank Holiday",
+1,
+[
+"Late May Bank Holiday",
+"Spring Bank Holiday Monday",
+"Summer Half-Term Monday"
+]
+],
+[
+"Nyerere Day",
+1,
+[
+"Julius Nyerere Day"
+]
+],
+[
+"National Day of Prayer, Fasting, Repentance and Reconciliation",
+1,
+[
+"National Day of Prayer",
+"National Day of Prayer and Fasting",
+"National Day of Prayer Fasting and Reconciliation",
+"National Prayer Day"
+]
+],
+[
+"Melbourne Cup Day",
+1,
+[]
+],
+[
+"Separation Day",
+1,
+[
+"Independence Day"
+]
+],
+[
+"Tiwaf",
+1,
+[]
+],
+[
+"National Peace Day",
+1,
+[]
+],
+[
+"August Bank Holiday",
+1,
+[
+"Summer Bank Holiday"
+]
+],
+[
+"Rose Day",
+1,
+[]
+],
+[
+"kiss day",
+1,
+[]
+],
+[
+"Ādi Kārthigai",
+1,
+[
+"Aadi Krithigai",
+"Aadi Krithikai",
+"Āsāṛh Kṛttikā"
+]
+],
+[
+"Feast of the Invention of Saint Stephen",
+1,
+[
+"Feast of Saint Stephen",
+"Feast of St Stephen",
+"Feast of St. Stephen",
+"Feast of the Finding of Saint Stephen",
+"Feast of the Finding of Saint Stephen's Relics",
+"Feast of the Finding of St Stephen",
+"Feast of the Finding of St. Stephen",
+"Feast of the Finding of St Stephen's Relics",
+"Feast of the Finding of St. Stephen's Relics",
+"Feast of the Finding of the Relics of Saint Stephen",
+"Feast of the Finding of the Relics of St Stephen",
+"Feast of the Finding of the Relics of St. Stephen",
+"Feast of the Invention of St Stephen",
+"Feast of the Invention of St. Stephen",
+"Finding of Saint Stephen",
+"Finding of Saint Stephen's Relics",
+"Finding of St Stephen",
+"Finding of St. Stephen",
+"Finding of St Stephen's Relics",
+"Finding of St. Stephen's Relics",
+"Finding of the Relics of Saint Stephen",
+"Finding of the Relics of St Stephen",
+"Finding of the Relics of St. Stephen",
+"Invention of Saint Stephen",
+"Invention of St Stephen",
+"Invention of St. Stephen",
+"Saint Stephen's Day",
+"St Stephen's Day",
+"St. Stephen's Day"
+]
+],
+[
+"Ethiopian Patriots' Victory Day",
+1,
+[]
+],
+[
+"Nations, Nationalities and Peoples' Day",
+1,
+[]
+],
+[
+"Muhajir Cultural Day",
+1,
+[]
+],
+[
+"Baikho",
+1,
+[]
+],
+[
+"Saikhuwa Kesa Khaiti Xaal",
+1,
+[]
+],
+[
+"Hatsuka Shōgatsu",
+1,
+[]
+],
+[
+"假",
+1,
+[]
+],
+[
+"Three Sundays of Commemoration",
+1,
+[]
+],
+[
+"Hassaku",
+1,
+[]
+],
+[
+"National Tourism Day",
+1,
+[]
+],
+[
+"National Black Cat Day",
+1,
+[]
+],
+[
+"Saint Ursula's Day",
+1,
+[
+"St. Ursula's Day"
+]
+],
+[
+"Telangana Irrigation Day",
+1,
+[]
+],
+[
+"National Military Appreciation Month",
+1,
+[
+"Military Appreciation Month"
+]
+],
+[
+"Shōgatsu Sanganichi",
+1,
+[
+"Sanganichi"
+]
+],
+[
+"Day of the financial monitoring system employee",
+1,
+[]
+],
+[
+"Braille Day",
+1,
+[
+"Tenji no Hi"
+]
+],
+[
+"Simón Bolívar Day",
+1,
+[]
+],
+[
+"National Rare Disease Day",
+1,
+[
+"Dia Nacional de Doenças Raras"
+]
+],
+[
+"Transit Equality Day",
+1,
+[]
+],
+[
+"Saint George's Day (Spain)",
+1,
+[]
+],
+[
+"Unofficial Saint Patrick's Day",
+1,
+[]
+],
+[
+"International Day of Planetaria",
+1,
+[]
+],
+[
+"Day of Silesian Flag",
+1,
+[]
+],
+[
+"Finnish the 1st of May",
+1,
+[]
+],
+[
+"Day of Jassic People",
+1,
+[
+"Jassic People's Day"
+]
+],
+[
+"Strawberry Expo",
+1,
+[]
+],
+[
+"Day of the Restoration of Independence",
+1,
+[]
+],
+[
+"Oman Renaissance Day",
+1,
+[
+"Yawm al-Nahḍah al-ʻUmānīyah"
+]
+],
+[
+"Day of tankers",
+1,
+[]
+],
+[
+"Finnish Art Day",
+1,
+[
+"Day of Finnish Art",
+"Day of Visual Arts",
+"Tove Jansson Day"
+]
+],
+[
+"Bangla Divas",
+1,
+[
+"Bangla Dibas",
+"Paschimbanga Dibas",
+"West Bengal Day"
+]
+],
+[
+"National Minorities Day",
+1,
+[]
+],
+[
+"Juloos-e-Muhammadi",
+1,
+[]
+],
+[
+"Wiener day",
+1,
+[]
+],
+[
+"Staatsverjaardag",
+1,
+[]
+],
+[
+"National Tree Plantation Day",
+1,
+[]
+],
+[
+"January 25 Revolution Day",
+1,
+[]
+],
+[
+"Don Young Day",
+1,
+[]
+],
+[
+"Ember months",
+1,
+[]
+],
+[
+"Feast of Wine",
+1,
+[]
+],
+[
+"International Son's Day",
+1,
+[]
+],
+[
+"Parasceve",
+1,
+[]
+],
+[
+"National Tree Growing Day",
+1,
+[]
+],
+[
+"National Science Appreciation Day",
+1,
+[]
+],
+[
+"State funeral of John Atta Mills",
+1,
+[]
+],
+[
+"Eve of Passover",
+1,
+[]
+],
+[
+"Tulip Sunday",
+1,
+[]
+],
+[
+"Kay Htoe Boe",
+1,
+[]
+],
+[
+"National Puzzle Day",
+1,
+[]
+],
+[
+"Day of the Autonomous Republic of Crimea",
+1,
+[]
+],
+[
+"International Client's day",
+1,
+[]
+],
+[
+"Defense Day",
+1,
+[]
+],
+[
+"Turkmen Carpet Day",
+1,
+[]
+],
+[
+"World Teacher’s Day",
+1,
+[]
+],
+[
+"Fasting during Maha Shivratri",
+1,
+[]
+],
+[
+"Surprise Day",
+1,
+[]
+],
+[
+"Veterans Day (România)",
+1,
+[]
+],
+[
+"Science Day",
+1,
+[]
+],
+[
+"Mazingira Day",
+1,
+[]
+],
+[
+"Seoul Car-Free Day",
+1,
+[]
+],
+[
+"Redmond Derby Days",
+1,
+[]
+],
+[
+"Yajnavalkya Jayanti",
+1,
+[]
+],
+[
+"Magazine Day",
+1,
+[]
+],
+[
+"Genocide Remembrance Day",
+1,
+[]
+],
+[
+"Vaikasi Visakam",
+1,
+[]
+],
+[
+"Air Force Day",
+1,
+[]
+],
+[
+"Pintados de Pasi",
+1,
+[]
+],
+[
+"Day of Tank Crew Members",
+1,
+[]
+],
+[
+"Samvidhan Hatya Diwas",
+1,
+[]
+],
+[
+"This Merry Day of Culture",
+1,
+[]
+],
+[
+"Vaikashi Visakam",
+1,
+[
+"Vaikashi Visakha"
+]
+],
+[
+"Feast of Saint Agatha",
+1,
+[]
+],
+[
+"Feast of Saint Thomas Aquinas",
+1,
+[
+"Feast of Saint Thomas of Aquino"
+]
+],
+[
+"Feast of Saint Mary Magdalene",
+1,
+[]
+],
+[
+"Week of Self-Denial",
+1,
+[]
+],
+[
+"Day of Remembrance of the Civilian Population of the Warsaw Uprising",
+1,
+[]
+],
+[
+"Day of the Encounter of Two Worlds",
+1,
+[]
+],
+[
+"Ammungan Festival",
+1,
+[]
+],
+[
+"Macau City Day",
+1,
+[
+"Macao City Day"
+]
+],
+[
+"Green March Day",
+1,
+[]
+],
+[
+"Natal Day",
+1,
+[]
+],
+[
+"World Letter Writing Day",
+1,
+[]
+],
+[
+"Nyilo",
+1,
+[]
+],
+[
+"Lateran Treaty Day",
+1,
+[]
+],
+[
+"U.S. Hostage and Wrongful Detainee Day",
+1,
+[]
+],
+[
+"National Safe Motherhood Day",
+1,
+[]
+],
+[
+"Waya's Passover",
+1,
+[]
+],
+[
+"Nicanor Day",
+1,
+[
+"Day of Nicanor"
+]
+],
+[
+"Jamaica Carnival",
+1,
+[]
+],
+[
+"Chaitra Navratri",
+1,
+[]
+],
+[
+"Folk Costume Festival",
+1,
+[]
+],
+[
+"Guru Brahmanand Jayanti",
+1,
+[
+"Brahmanand Jayanti"
+]
+],
+[
+"Sati Sadhani Day",
+1,
+[]
+],
+[
+"National Book Day",
+1,
+[]
+],
+[
+"World Optometry Day",
+1,
+[]
+],
+[
+"Sitamarhi Dham Parikrama",
+1,
+[]
+],
+[
+"World Zoonoses Day",
+1,
+[]
+],
+[
+"80th birthday celebration",
+1,
+[]
+],
+[
+"Gadyachi Jatra",
+1,
+[]
+],
+[
+"Suffolk Day",
+1,
+[]
+],
+[
+"Aadi Pooram",
+1,
+[]
+],
+[
+"National First Ladies Day",
+1,
+[]
+],
+[
+"National Dombyra Day",
+1,
+[
+"Dombra Day",
+"Dombyra Day",
+"National Dombra Day"
+]
+],
+[
+"Feast of Creation",
+1,
+[]
+],
+[
+"Metallurgist Day (Kazakhstan)",
+1,
+[
+"Metallurgist Day in Kazakhstan",
+"Metallurgist Day of Kazakhstan"
+]
+],
+[
+"National Boyfriend Day",
+1,
+[]
+],
+[
+"United Nations Day for South-South Cooperation",
+1,
+[]
+],
+[
+"World Luxury Day",
+1,
+[]
+],
+[
+"Day of Hungarian Healthcare",
+1,
+[]
+],
+[
+"Youm-e-Marka-e-Haq",
+1,
+[]
+],
+[
+"International SCN2A Awareness Day",
+1,
+[]
+],
+[
+"National Press Day",
+1,
+[]
+],
+[
+"Shruta Panchami",
+1,
+[]
+],
+[
+"Onna-Shogatsu",
+1,
+[]
+],
+[
+"Squirrel Appreciation Day",
+1,
+[]
+],
+[
+"National Reading Day",
+1,
+[]
+],
+[
+"Valentine's Week",
+1,
+[]
+],
+[
+"Nepali New Year",
+1,
+[]
+],
+[
+"Fugu Day",
+1,
+[]
+],
+[
+"Save a Spider Day",
+1,
+[
+"Save-a-Spider Day",
+"Spider Day"
+]
+],
+[
+"Mira",
+1,
+[]
+],
+[
+"National Poetry Day",
+1,
+[]
+],
+[
+"Lá i gCathú",
+1,
+[]
+],
+[
+"Charter Day",
+1,
+[]
+],
+[
+"Atar-oh",
+1,
+[]
+],
+[
+"Jewish Culture Month",
+1,
+[]
+],
+[
+"Salubong",
+1,
+[]
+],
+[
+"Karakol",
+1,
+[]
+],
+[
+"Popular festival of Sant Antoni",
+1,
+[]
+],
+[
+"Russian Church in Cologne, August 28, 2026",
+1,
+[]
+],
+[
+"Zool festival",
+1,
+[]
+],
+[
+"Video Store Day",
+1,
+[]
+],
+[
+"White Sunday",
+1,
+[]
+],
+[
+"World Cotton Day",
+1,
+[]
+],
+[
+"International Sloth Day",
+1,
+[
+"Sloth Day"
+]
+],
+[
+"Wonder Woman Day",
+1,
+[]
+],
+[
+"Midsummer's Day",
+1,
+[]
+],
+[
+"Commerce Day",
+1,
+[
+"Frídagur verslunarmanna"
+]
+],
+[
+"Fullveldisdagurinn",
+1,
+[]
+],
+[
+"Dragon Boat Festival",
+1,
+[
+"Dano",
+"Duanwu Festival",
+"Tango no Sekku",
+"Tết Đoan Ngọ"
+]
+],
+[
+"Ghost Festival of China",
+1,
+[]
+],
+[
+"Baekjung",
+1,
+[]
+],
+[
+"Kuwait National Day",
+1,
+[]
+],
+[
+"World Korean day",
+1,
+[]
+],
+[
+"May 18th Democracy Movement Memorial Day",
+1,
+[]
+],
+[
+"Chulalongkorn Memorial Day",
+1,
+[]
+],
+[
+"Shaheed Dr. Milon Day",
+1,
+[]
+],
+[
+"12-13 Tammuz",
+1,
+[]
+],
+[
+"Fettisdagen",
+1,
+[]
+],
+[
+"Feria de Artesanías de Ponce",
+1,
+[]
+],
+[
+"Municipality of Ilhas Day",
+1,
+[]
+],
+[
+"Majuba Day",
+1,
+[]
+],
+[
+"St John's Day",
+1,
+[]
+],
+[
+"Honor America Days",
+1,
+[]
+],
+[
+"Abbotsbury Garland Day",
+1,
+[]
+],
+[
+"Fastnacht Day",
+1,
+[]
+],
+[
+"Hillbilly Days",
+1,
+[]
+],
+[
+"Lopez Jaena Day",
+1,
+[]
+],
+[
+"Panay Liberation Day",
+1,
+[]
+],
+[
+"Cassette Store Day",
+1,
+[]
+],
+[
+"Father's Day (US)",
+1,
+[]
+],
+[
+"HumanLight",
+1,
+[]
+],
+[
+"Tirumala Shanivaralu",
+1,
+[]
+],
+[
+"Newspaper Carrier Day",
+1,
+[]
+],
+[
+"inauguration of Uhuru Kenyatta",
+1,
+[]
+],
+[
+"New Beer's Eve",
+1,
+[]
+],
+[
+"National Cat Day",
+1,
+[]
+],
+[
+"National Day of Encouragement",
+1,
+[]
+],
+[
+"Military Spouse Day",
+1,
+[
+"Military Spouse Appreciation Day"
+]
+],
+[
+"Oxfordshire Day",
+1,
+[]
+],
+[
+"Feast of the presentation of Jesus at the Temple",
+1,
+[
+"Feast of the Presentation of our Lord Jesus"
+]
+],
+[
+"Feast of Saint Wolfgang",
+1,
+[
+"Feast of Saint Wolfgangus"
+]
+],
+[
+"Chandeshwori Jatra",
+1,
+[]
+],
+[
+"Gabriel Summer",
+1,
+[]
+],
+[
+"Diwali in Gujarat",
+1,
+[]
+],
+[
+"Day of the Republic",
+1,
+[]
+],
+[
+"Gai Tihar",
+1,
+[
+"Cow Tihar"
+]
+],
+[
+"Gujarat Day",
+1,
+[]
+],
+[
+"Organ Donation Day",
+1,
+[]
+],
+[
+"National Streaming Day",
+1,
+[]
+],
+[
+"Day of Remembrance for the Oppressed",
+1,
+[]
+],
+[
+"Andastan",
+1,
+[]
+],
+[
+"Chalica",
+1,
+[]
+],
+[
+"Las Mañanitas",
+1,
+[]
+],
+[
+"Kreki",
+1,
+[]
+],
+[
+"Feast of Saint Rupert",
+1,
+[
+"Feast of Saint Rupert (Rubert) of Salzburg",
+"feast of Saint Rupert (Rubert) of Salzburg, Bishop"
+]
+],
+[
+"Ancestry Day",
+1,
+[]
+],
+[
+"Feast of St Bavo",
+1,
+[
+"Feast of Saint Bavo (Aldowin"
+]
+],
+[
+"Royal Toowoomba Show",
+1,
+[]
+],
+[
+"Day of the Constitution",
+1,
+[]
+],
+[
+"National Sweater Day",
+1,
+[]
+],
+[
+"State funeral of Michael Sata",
+1,
+[]
+],
+[
+"Benito Juárez's birthday",
+1,
+[]
+],
+[
+"Fiestas de La Bien Aparecida",
+1,
+[]
+],
+[
+"Speaking Balinese Day",
+1,
+[]
+],
+[
+"Ballarat Show",
+1,
+[]
+],
+[
+"Royal Geelong Show",
+1,
+[]
+],
+[
+"Soil Exploration Day",
+1,
+[]
+],
+[
+"Higalaay Festival",
+1,
+[]
+],
+[
+"National Cashew Day",
+1,
+[]
+],
+[
+"Day of Prayer and Day of Thanksgiving for Crop and Labor",
+1,
+[]
+],
+[
+"National LGBTI Day",
+1,
+[]
+],
+[
+"Paynauen Duyan Festival",
+1,
+[]
+],
+[
+"Thimphu Tshechu",
+1,
+[]
+],
+[
+"Ghana National Farmers' Day",
+1,
+[]
+],
+[
+"Kostaoba",
+1,
+[]
+],
+[
+"Preparation of the Camp at Lubu",
+1,
+[
+"klu sgug sgar sgrig",
+"luguk gardrik"
+]
+],
+[
+"National Video Game Day",
+1,
+[]
+],
+[
+"Bulgarian-Hungarian Friendship Day",
+1,
+[]
+],
+[
+"Frisian Liberation Day",
+1,
+[]
+],
+[
+"National Farm Safety & Health Week",
+1,
+[]
+],
+[
+"Spaw Sunday",
+1,
+[]
+],
+[
+"Carnival in Belize",
+1,
+[]
+],
+[
+"National Accident Day",
+1,
+[]
+],
+[
+"Festa del Mercat a la Plaça d'Amposta",
+1,
+[]
+],
+[
+"8 Day Lent",
+1,
+[
+"Eight Day Lent of Saint Mary",
+"Ettu Noyambu"
+]
+],
+[
+"Hobiyee",
+1,
+[]
+],
+[
+"chelidonia",
+1,
+[]
+],
+[
+"National Veterinary Day",
+1,
+[
+"Day of Veterinary",
+"National Day of Veterinary",
+"Veterinary Day"
+]
+],
+[
+"fandango",
+1,
+[]
+],
+[
+"Festival of the Sun, Murmansk",
+1,
+[
+"Hello, Sun!"
+]
+],
+[
+"Day of the Sakha (Yakutia)",
+1,
+[
+"Day of Statehood of the Republic of Sakha (Yakutia)",
+"Day of the Republic of Sakha (Yakutia)",
+"Day of the Sakha (Yakutia) Republic",
+"Republic Day of Sakha",
+"Sakha Day",
+"Sakha Republic (Yakutia) Day",
+"Yakutia Day"
+]
+],
+[
+"Obama Day",
+1,
+[]
+],
+[
+"Saint-Torè",
+1,
+[]
+],
+[
+"Berlingaccio",
+1,
+[]
+],
+[
+"Installation ceremony of the Captains Regent",
+1,
+[
+"Investiture of the Captains Regent",
+"Regent Investiture Day"
+]
+],
+[
+"Barack Obama Day",
+1,
+[]
+],
+[
+"Human Rights Day",
+1,
+[
+"Freedom Day",
+"Usuku IwaMalungelo Esintu"
+]
+],
+[
+"Ascension in Russia",
+1,
+[]
+],
+[
+"Vota",
+1,
+[]
+],
+[
+"Day of Revival, Unity, and the Poetry of Magtymguly",
+1,
+[
+"Constitution day",
+"Revival and Unity Day"
+]
+],
+[
+"Day of workers of oil, gas and oil refining industry of Ukraine",
+1,
+[]
+],
+[
+"Day of Accord and Reconciliation",
+1,
+[]
+],
+[
+"Random Acts of Kindness Day",
+1,
+[]
+],
+[
+"Synaxis of the Hierarchs of Novgorod",
+1,
+[]
+],
+[
+"Sorta",
+1,
+[]
+],
+[
+"140th Year Anniversary Celebration of the Emancipation Proclamation",
+1,
+[]
+],
+[
+"Hungarian culture day",
+1,
+[
+"day of Hungarian culture"
+]
+],
+[
+"Agawan Festival",
+1,
+[]
+],
+[
+"Aldersgate Day",
+1,
+[]
+],
+[
+"American Business Women's Day",
+1,
+[]
+],
+[
+"American Family Day",
+1,
+[]
+],
+[
+"Australian Citizenship Day",
+1,
+[]
+],
+[
+"Yud Shvat",
+1,
+[]
+],
+[
+"Emergency Services Day",
+1,
+[]
+],
+[
+"Bonifacio Day",
+1,
+[]
+],
+[
+"Day of the Armed Forces",
+1,
+[]
+],
+[
+"Bermuda Day",
+1,
+[]
+],
+[
+"Höömey Day",
+1,
+[]
+],
+[
+"Temperance and Good Citizenship Day",
+1,
+[]
+],
+[
+"Myitkyina Manau",
+1,
+[]
+],
+[
+"Bizu",
+1,
+[]
+],
+[
+"Blackout Wednesday",
+1,
+[]
+],
+[
+"Carl Garner Federal Lands Cleanup Day",
+1,
+[]
+],
+[
+"Contraband Days",
+1,
+[]
+],
+[
+"Cow Harbor Day",
+1,
+[]
+],
+[
+"Cruisin' Downriver",
+1,
+[]
+],
+[
+"Dundee Fortnight",
+1,
+[]
+],
+[
+"Día de la Altagracia",
+1,
+[
+"Altagracia Day",
+"Altagracia feast day",
+"Dia de la Altagracia",
+"Our Lady of Altagracia Day"
+]
+],
+[
+"Ely Eel Day",
+1,
+[]
+],
+[
+"Water Monday",
+1,
+[
+"Lunes de aguas"
+]
+],
+[
+"Fiji Week",
+1,
+[]
+],
+[
+"Fraternal Day",
+1,
+[]
+],
+[
+"Gibraltar Diamond Jubilee Flotilla",
+1,
+[]
+],
+[
+"Minority Enterprise Development Week",
+1,
+[]
+],
+[
+"Gloucester Day",
+1,
+[]
+],
+[
+"Greek Independence Day",
+1,
+[
+"Celebration of the Greek Revolution of 1821"
+]
+],
+[
+"Archbishop Janani Luwum Day",
+1,
+[]
+],
+[
+"Guam Discovery Day",
+1,
+[
+"Guam History and Chamorro Heritage Day"
+]
+],
+[
+"National Day of Evangelical and Protestant Churches",
+1,
+[]
+],
+[
+"National Day of the Indigenous Peoples in Chile",
+1,
+[]
+],
+[
+"Day of National Liberation",
+1,
+[]
+],
+[
+"Day of the Region of Murcia",
+1,
+[]
+],
+[
+"Day of the province of Almeria",
+1,
+[]
+],
+[
+"Day of Respect for Cultural Diversity",
+1,
+[
+"formerly: Race Day"
+]
+],
+[
+"Festival of San Salvador",
+1,
+[]
+],
+[
+"Christmas in Jamaica",
+1,
+[]
+],
+[
+"Idaho Human Rights Day",
+1,
+[]
+],
+[
+"Stepan Bandera's Birthday",
+1,
+[]
+],
+[
+"Frankenstein Day",
+1,
+[]
+],
+[
+"Pakistan String Puppetry Festival",
+1,
+[]
+],
+[
+"Peace and Freedom Day",
+1,
+[]
+],
+[
+"Ivy Day",
+1,
+[]
+],
+[
+"Day of Pan-Slavic Educators",
+1,
+[
+"Saints Cyril and Methodius Day"
+]
+],
+[
+"Jesus Day",
+1,
+[]
+],
+[
+"World Rock and Roll  Day",
+1,
+[]
+],
+[
+"Kanaka Dasa Jayanti",
+1,
+[]
+],
+[
+"Kaul festival",
+1,
+[]
+],
+[
+"Lancashire Day",
+1,
+[]
+],
+[
+"Landing of the 33 Patriots Day",
+1,
+[]
+],
+[
+"Holidays with paid time off in the United States",
+1,
+[]
+],
+[
+"Lee–Jackson–King Day",
+1,
+[
+"Lee-Jackson-King Day"
+]
+],
+[
+"Leon Day",
+1,
+[]
+],
+[
+"International Cartoon Day",
+1,
+[
+"18 September",
+"Cartoon Day",
+"World Cartoon Day"
+]
+],
+[
+"Lyndon Baines Johnson Day",
+1,
+[]
+],
+[
+"Meal Monday",
+1,
+[]
+],
+[
+"Newfoundland & Labrador Memorial Day",
+1,
+[]
+],
+[
+"Moi Day",
+1,
+[]
+],
+[
+"Dêrandêz",
+1,
+[]
+],
+[
+"National Airborne Day",
+1,
+[]
+],
+[
+"National Catfish Day",
+1,
+[]
+],
+[
+"National Defense Transportation Day",
+1,
+[]
+],
+[
+"National Payroll Week",
+1,
+[]
+],
+[
+"National Public Gardens Day",
+1,
+[]
+],
+[
+"National Regifting Day",
+1,
+[]
+],
+[
+"Ndadaye Day",
+1,
+[]
+],
+[
+"Ozmas",
+1,
+[
+"Ausmas"
+]
+],
+[
+"Pan American Aviation Day",
+1,
+[]
+],
+[
+"Philippine Independence Day Parade",
+1,
+[]
+],
+[
+"Pinkster",
+1,
+[]
+],
+[
+"Prince Rainier Day",
+1,
+[]
+],
+[
+"Ullortuneq",
+1,
+[]
+],
+[
+"Puerto Rico Constitution Day",
+1,
+[]
+],
+[
+"Póvoa de Varzim Holiday",
+1,
+[
+"Povoa de Varzim Holiday"
+]
+],
+[
+"Qaumee Dhuvas",
+1,
+[
+"National Day"
+]
+],
+[
+"Queene's Day",
+1,
+[]
+],
+[
+"Ratcatcher's Day",
+1,
+[
+"Rat-catcher's Day",
+"Rat Catcher's Day"
+]
+],
+[
+"Ratu Sir Lala Sukuna Day",
+1,
+[
+"Ratu Sukuna Day"
+]
+],
+[
+"Recovery Day",
+1,
+[]
+],
+[
+"Recreation Day holiday",
+1,
+[]
+],
+[
+"Relick Sunday",
+1,
+[
+"Feast of Relics"
+]
+],
+[
+"Robert E. Lee Day",
+1,
+[]
+],
+[
+"Royal Launceston Show",
+1,
+[]
+],
+[
+"Sam Collins Day",
+1,
+[]
+],
+[
+"September Celebrations of Belize",
+1,
+[
+"September Celebrations"
+]
+],
+[
+"Spiritual Baptist/Shouter Liberation Day",
+1,
+[]
+],
+[
+"Sree Narayana Guru Samadhi Day",
+1,
+[]
+],
+[
+"Stephen Foster Memorial Day",
+1,
+[]
+],
+[
+"Sunshine Week",
+1,
+[]
+],
+[
+"Sussex Day",
+1,
+[]
+],
+[
+"The eleven day weekend",
+1,
+[]
+],
+[
+"Tibb's Eve",
+1,
+[]
+],
+[
+"United States federal observances",
+1,
+[]
+],
+[
+"Vimy Ridge Day",
+1,
+[]
+],
+[
+"Walk to Work Day",
+1,
+[]
+],
+[
+"Wright Brothers Day",
+1,
+[]
+],
+[
+"Day of the Bessarabian Bulgarians",
+1,
+[]
+],
+[
+"world day for consecrated life",
+1,
+[]
+],
+[
+"Dia de les lletres valencianes",
+1,
+[]
+],
+[
+"Amis Music Festival",
+1,
+[]
+],
+[
+"Tree Planting Day",
+1,
+[]
+],
+[
+"Flower Day",
+1,
+[]
+],
+[
+"1 May Day",
+1,
+[
+"Labour Day"
+]
+],
+[
+"Pollinators' Day",
+1,
+[]
+],
+[
+"Women Veterans Day",
+1,
+[]
+],
+[
+"Slovak National Uprising Anniversary",
+1,
+[]
+],
+[
+"National Gun Violence Awareness Day",
+1,
+[]
+],
+[
+"Slovenian Sports Day",
+1,
+[
+"Dan slovenskega športa"
+]
+],
+[
+"Christmas in Iran",
+0,
+[]
+],
+[
+"Christmas in Jordan",
+0,
+[]
+],
+[
+"local festivities",
+0,
+[]
+],
+[
+"Christmas celebrations in Jerez",
+0,
+[]
+],
+[
+"Feast of Saints Philip and James, Apostles",
+0,
+[]
+],
+[
+"Feast of Saints Simon and Jude",
+0,
+[]
+],
+[
+"DC Emancipation Day",
+0,
+[
+"Emancipation Day (Washington D.C.)"
+]
+],
+[
+"Civil Services Day",
+0,
+[]
+],
+[
+"2021 National Memorial Day Parade",
+0,
+[]
+],
+[
+"Utamaduni Day",
+0,
+[
+"Cultural day",
+"Utamaduni"
+]
+],
+[
+"Malaysia Batik Day",
+0,
+[]
+],
+[
+"Mashujaa Day",
+0,
+[
+"Heroes' Day",
+"Kenyatta Day"
+]
+],
+[
+"Juan Santamaría Day",
+0,
+[]
+],
+[
+"Nuzul Al-Quran",
+0,
+[]
+],
+[
+"Zhabdrung Kuchoe",
+0,
+[
+"Death Anniversary of Zhabdrung"
+]
+],
+[
+"Independence Manifesto Day",
+0,
+[]
+],
+[
+"Birthday of  the 3rd Druk Gyalpo",
+0,
+[
+"Birthday of King Jigme Dorji Wangchuck"
+]
+],
+[
+"Pohnpei Constitution Day",
+0,
+[]
+],
+[
+"Patriots Victory Day",
+0,
+[
+"Arbegnoch Qen"
+]
+],
+[
+"Cyprus National Day",
+0,
+[]
+],
+[
+"Day of Peace and Reconciliation",
+0,
+[
+"Dia da Paz e Reconciliação"
+]
+],
+[
+"King Bhumibol Adulyadej's Birthday",
+0,
+[
+"King Rama IX's Birthday"
+]
+],
+[
+"King's Birthday",
+0,
+[
+"Agong's Birthday",
+"The Yang di-Pertuan Agong's Birthday"
+]
+],
+[
+"Navamindra Maharaj Day",
+0,
+[
+"King Bhumibol Adulyadej Memorial Day"
+]
+],
+[
+"The Queen Mother's Birthday",
+0,
+[]
+],
+[
+"New Year's Holidays",
+0,
+[
+"новогодние каникулы"
+]
+],
+[
+"March Public Holiday",
+0,
+[
+"Adelaide Cup Day"
+]
+],
+[
+"Medin Poya",
+0,
+[
+"Madin Full Moon Poya Day",
+"Medin Full Moon Poya Day"
+]
+],
+[
+"Day of Southern Africa Liberation",
+0,
+[]
+],
+[
+"Praia City Day",
+0,
+[]
+],
+[
+"Children's Parade Carnival Day",
+0,
+[]
+],
+[
+"Discovery Day",
+0,
+[]
+],
+[
+"President Kamuzu Banda's Birthday",
+0,
+[
+"Kamuzu Banda Day",
+"Kamuzu Day"
+]
+],
+[
+"San Isidro Day",
+0,
+[
+"Día de San Isidro Labrador",
+"Saint Isidore Day"
+]
+],
+[
+"Karume Day",
+0,
+[]
+],
+[
+"President Ntaryamira Day",
+0,
+[
+"Cyprien Ntaryamira Day"
+]
+],
+[
+"National Health Day",
+0,
+[]
+],
+[
+"Fast and Prayer Day",
+0,
+[]
+],
+[
+"Republic Proclamation Day",
+0,
+[
+"Dia da Proclamação da República",
+"Proclamação da República"
+]
+],
+[
+"Our Lady of Aparecida",
+0,
+[]
+],
+[
+"Constitutionalist Revolution",
+0,
+[]
+],
+[
+"Founding of São Paulo",
+0,
+[
+"Aniversário de São Paulo"
+]
+],
+[
+"Battle Of Boyaca",
+0,
+[]
+],
+[
+"Independence of Cartagena",
+0,
+[
+"Independencia de Cartagena"
+]
+],
+[
+"Sacred Heart of Jesus",
+0,
+[
+"Sagrado Corazón"
+]
+],
+[
+"Declaration of Independence",
+0,
+[]
+],
+[
+"Anniversary of the Passing of General Martín Miguel de Güemes",
+0,
+[]
+],
+[
+"Santa Rosa de Lima",
+0,
+[]
+],
+[
+"Battle of Angamos",
+0,
+[]
+],
+[
+"Praia Municipal Day",
+0,
+[]
+],
+[
+"Emancipation Day",
+0,
+[
+"Abolition Day",
+"August Monday",
+"Cup Match Day",
+"Freedom Day",
+"Independence Day",
+"Liberty Day"
+]
+],
+[
+"National Anthem and Flag Day",
+0,
+[]
+],
+[
+"Full Moon Day of Tabaung",
+0,
+[
+"celebrated on the day of full moon of Tabaung"
+]
+],
+[
+"Boganda day",
+0,
+[]
+],
+[
+"Mujib's Birthday",
+0,
+[]
+],
+[
+"J.J. Roberts' Birthday",
+0,
+[]
+],
+[
+"Decoration Day",
+0,
+[]
+],
+[
+"Lavity Stoutt's Birthday",
+0,
+[]
+],
+[
+"National Heroes & Benefactors Day",
+0,
+[
+"Baron Bliss Day"
+]
+],
+[
+"American Citizenship Day",
+0,
+[]
+],
+[
+"James Ronald Webster Day",
+0,
+[]
+],
+[
+"EDSA Revolution Anniversary",
+0,
+[]
+],
+[
+"Birthday of King Jigme Khesar Namgyel Wangchuck",
+0,
+[
+"King's Birthday"
+]
+],
+[
+"Father Lini Day",
+0,
+[]
+],
+[
+"February 17th Revolution Day",
+0,
+[]
+],
+[
+"Day of Restoration of the State of Lithuania",
+0,
+[
+"Independence Day"
+]
+],
+[
+"Rafik Hariri Memorial Day",
+0,
+[]
+],
+[
+"Feast of Saint Paul's Shipwreck",
+0,
+[]
+],
+[
+"St. Maroun's Day",
+0,
+[]
+],
+[
+"Day of the Beginning of the National Liberation Armed Struggle",
+0,
+[
+"Beginning the Armed Struggle Day",
+"Day of the Armed Struggle",
+"Liberation Day",
+"Liberation Movement Day",
+"Start of Liberation War"
+]
+],
+[
+"Saint Dévote's Day",
+0,
+[
+"Saint Devota's Day"
+]
+],
+[
+"NRM Liberation Day",
+0,
+[]
+],
+[
+"Duarte's Birthday",
+0,
+[]
+],
+[
+"Day of National Mourning",
+0,
+[
+"Martyrs' Day"
+]
+],
+[
+"Duruthu Poya",
+0,
+[
+"Duruthu Full Moon Poya Day"
+]
+],
+[
+"John Chilembwe Day",
+0,
+[]
+],
+[
+"Day of the Divine Shepherdess",
+0,
+[]
+],
+[
+"Revolution and Youth Day",
+0,
+[]
+],
+[
+"Zanzibar Revolution Day",
+0,
+[]
+],
+[
+"Majority Rule Day",
+0,
+[]
+],
+[
+"Victory over Genocide Day",
+0,
+[
+"Genocide Memorial Day"
+]
+],
+[
+"Incwala Day",
+0,
+[]
+],
+[
+"São Tomé Day",
+0,
+[]
+],
+[
+"National Heroes and Heroines Day",
+0,
+[
+"(formerly) Separation Day"
+]
+],
+[
+"Human Rights and Peace Day",
+0,
+[]
+],
+[
+"Taguig Holiday",
+0,
+[
+"Araw ng Taguig",
+"Taguig Cityhood Day"
+]
+],
+[
+"Saint Clement of Ohrid Day",
+0,
+[]
+],
+[
+"Our Lady of Camarin Day",
+0,
+[
+"Santa Marian Camalen Day"
+]
+],
+[
+"King Tupou I Day",
+0,
+[]
+],
+[
+"Quito Day",
+0,
+[]
+],
+[
+"Gospel Day",
+0,
+[
+"National Gospel Day",
+"Te Aso o te Tala Lei"
+]
+],
+[
+"William Tubman's Birthday",
+0,
+[]
+],
+[
+"Army Abolition Day",
+0,
+[
+"Military Abolition Day"
+]
+],
+[
+"National Day of Thanksgiving",
+0,
+[]
+],
+[
+"Presidents Day",
+0,
+[]
+],
+[
+"The 1949 Great March and Restoration Day",
+0,
+[
+"Restoration Day"
+]
+],
+[
+"The Battle of Pichincha",
+0,
+[]
+],
+[
+"Discovery of Puerto Rico",
+0,
+[]
+],
+[
+"National Unification Day",
+0,
+[
+"Integration Day"
+]
+],
+[
+"Full Moon Day of Kason",
+0,
+[]
+],
+[
+"Anguilla Day",
+0,
+[]
+],
+[
+"Abolition of Slavery",
+0,
+[
+"Abolition Day"
+]
+],
+[
+"Custom Chief's Day",
+0,
+[]
+],
+[
+"Bak Full Moon Poya Day",
+0,
+[
+"Bak Poya"
+]
+],
+[
+"Pancasila Day",
+0,
+[
+"Hari Lahir Pancasila"
+]
+],
+[
+"Queen Suthida's Birthday",
+0,
+[
+"Queen Suthida Bajrasudhabimalalakshana’s Birthday"
+]
+],
+[
+"Queen Mother's Birthday",
+0,
+[]
+],
+[
+"Poson Full Moon Poya Day",
+0,
+[]
+],
+[
+"Battle of Carabobo Day",
+0,
+[]
+],
+[
+"Sir Seretse Khama Day",
+0,
+[]
+],
+[
+"Ra o te Ui Ariki",
+0,
+[
+"Day of the Council of High Chiefs"
+]
+],
+[
+"CARICOM Day",
+0,
+[]
+],
+[
+"King Tupou VI's Birthday",
+0,
+[]
+],
+[
+"National Culture and Senior Citizens Day",
+0,
+[]
+],
+[
+"The First Sermon of Lord Buddha",
+0,
+[]
+],
+[
+"Sultan of Brunei's Birthday",
+0,
+[]
+],
+[
+"La Paz Day",
+0,
+[]
+],
+[
+"Our Lady of Mount Carmel",
+0,
+[]
+],
+[
+"Hajj Day",
+0,
+[
+"Haji Day"
+]
+],
+[
+"Sandinista Revolution Day",
+0,
+[
+"FSLN Revolution Day",
+"Liberation Day"
+]
+],
+[
+"Lao Women Union’s Day",
+0,
+[]
+],
+[
+"National Remembrance Day",
+0,
+[]
+],
+[
+"Chaco Armistice Day",
+0,
+[
+"Chaco Peace Treaty Day"
+]
+],
+[
+"Birthday of José Gervasio Artigas",
+0,
+[]
+],
+[
+"August Monday",
+0,
+[]
+],
+[
+"Kadooment Day",
+0,
+[]
+],
+[
+"Feast of Our Lady of the Angels",
+0,
+[]
+],
+[
+"Festival Monday",
+0,
+[
+"Emancipation Day",
+"Festival Tuesday",
+"Festival Wednesday"
+]
+],
+[
+"Pidjiguiti Day",
+0,
+[
+"Martyrs' Day"
+]
+],
+[
+"August Thursday",
+0,
+[]
+],
+[
+"Independence of Guayaquil",
+0,
+[]
+],
+[
+"Fiesta de Santo Domingo",
+0,
+[
+"Saint Dominic Day"
+]
+],
+[
+"Defence Forces Day",
+0,
+[
+"Defense Forces Day"
+]
+],
+[
+"Restoration Day",
+0,
+[]
+],
+[
+"Popular Consultation Day",
+0,
+[]
+],
+[
+"Coronation Day of Fourth Druk Gyalpo",
+0,
+[]
+],
+[
+"Mother Teresa Day",
+0,
+[]
+],
+[
+"Saint George's Caye Day",
+0,
+[
+"National Day"
+]
+],
+[
+"Pohnpei Liberation Day",
+0,
+[]
+],
+[
+"Day of Our Lady of the Seven Sorrows",
+0,
+[
+"Day of Our Lady of Sorrows"
+]
+],
+[
+"Birthday of Crown Prince Tupoutoʻa ʻUlukalala",
+0,
+[]
+],
+[
+"Binara Full Moon Poya",
+0,
+[]
+],
+[
+"Kenneth Kaunda Day",
+0,
+[]
+],
+[
+"State funeral of former president Mwai Kibaki",
+0,
+[]
+],
+[
+"Late Summer Bank Holiday",
+0,
+[]
+],
+[
+"Manit Day",
+0,
+[
+"Culture Day"
+]
+],
+[
+"Battle of Boquerón Day",
+0,
+[
+"Victory at Boquerón Day"
+]
+],
+[
+"Agricultural Reform Day",
+0,
+[]
+],
+[
+"Friday before the AFL Grand Final",
+0,
+[
+"AFL Grand Final Holiday"
+]
+],
+[
+"Teacher's Day",
+0,
+[]
+],
+[
+"Soldier's Day",
+0,
+[
+"Francisco Morazán Day"
+]
+],
+[
+"Tishren Liberation Day",
+0,
+[
+"Anniversary of the October War"
+]
+],
+[
+"Education Day",
+0,
+[
+"Teachers' Day"
+]
+],
+[
+"National Heritage Day",
+0,
+[]
+],
+[
+"Lotu a Tamaiti",
+0,
+[
+"Children's Day"
+]
+],
+[
+"Prince Rwagasore Day",
+0,
+[]
+],
+[
+"Chișinău Day",
+0,
+[
+"Capital's Day",
+"Chisinau City Day"
+]
+],
+[
+"Commemoration Day of King Father",
+0,
+[]
+],
+[
+"National Cultures Day",
+0,
+[
+"Culture Day"
+]
+],
+[
+"Heroes and Forefathers Day",
+0,
+[]
+],
+[
+"Vap Full Moon Poya Day",
+0,
+[]
+],
+[
+"Baptism of the Prophet",
+0,
+[]
+],
+[
+"Coronation Day of King Sihamoni",
+0,
+[]
+],
+[
+"Independence of Cuenca",
+0,
+[]
+],
+[
+"Liberty Day",
+0,
+[
+"Bull and Bread Day",
+"D. Hamilton Jackson Day"
+]
+],
+[
+"Community Service Day",
+0,
+[
+"Community Day of Service",
+"National Day of Community Service"
+]
+],
+[
+"Thanksgiving Day",
+0,
+[]
+],
+[
+"Genghis Khan's Birthday",
+0,
+[]
+],
+[
+"Colón Day",
+0,
+[]
+],
+[
+"The Day the Maldives Embraced Islam",
+0,
+[]
+],
+[
+"Peace Day",
+0,
+[
+"Anniversary of the Paris Peace Agreements",
+"Peace Celebrations",
+"Peace Day 1919",
+"Peace Treaty Day"
+]
+],
+[
+"Tonga National Day",
+0,
+[
+"Constitution Day"
+]
+],
+[
+"Days of History and Memory",
+0,
+[
+"Days of History and Commemoration of Ancestors"
+]
+],
+[
+"Feast of the Virgin of Almudena",
+0,
+[]
+],
+[
+"Maputo Day",
+0,
+[
+"Maputo City Day"
+]
+],
+[
+"Los Santos Uprising Day",
+0,
+[
+"First Call for Independence"
+]
+],
+[
+"Birthday of the 4th Druk Gyalpo",
+0,
+[
+"Birthday of King Jigme Singye Wangchuck",
+"Constitution Day"
+]
+],
+[
+"Battle of Vertières Day",
+0,
+[
+"Armed Forces Day"
+]
+],
+[
+"President's Day",
+0,
+[
+"Houphouët-Boigny Day"
+]
+],
+[
+"Senior Race Day",
+0,
+[]
+],
+[
+"Discovery of America Day",
+0,
+[]
+],
+[
+"Kwame Nkrumah Memorial Day",
+0,
+[]
+],
+[
+"Funeral of Jacob Oulanyah",
+0,
+[]
+],
+[
+"State Funeral for Former President Banda",
+0,
+[]
+],
+[
+"March Bank Holiday",
+0,
+[]
+],
+[
+"Day of Mourning",
+0,
+[]
+],
+[
+"Saint Anthony's Day",
+0,
+[
+"Anthony of Padua Feast Day",
+"Feast of Saint Anthony of Padua"
+]
+],
+[
+"Official Birthday of the Yang di-Pertua Negeri of Sabah",
+0,
+[
+"Sabah Governor's Official Birthday"
+]
+],
+[
+"King Father's Birthday",
+0,
+[]
+],
+[
+"Guru Rinpoche's Birthday",
+0,
+[]
+],
+[
+"Jamahiriya Day",
+0,
+[
+"Day of the Declaration of Authoritative Power",
+"Jamhuri Day"
+]
+],
+[
+"Day of the National Rebellion",
+0,
+[]
+],
+[
+"Santiago Apóstol",
+0,
+[]
+],
+[
+"National Day in the Republic of the Congo",
+0,
+[
+"Independence Day"
+]
+],
+[
+"Founding of Asunción",
+0,
+[]
+],
+[
+"Quarter day",
+0,
+[]
+],
+[
+"Borrowing days",
+0,
+[]
+],
+[
+"Morazán's week",
+0,
+[]
+],
+[
+"Dassain",
+0,
+[
+"Dasain"
+]
+],
+[
+"Winter solstice",
+0,
+[
+"Nyilog",
+"Nyinlong"
+]
+],
+[
+"Thimphu Drubchoe",
+0,
+[]
+],
+[
+"Birth of the Royal Child",
+0,
+[]
+],
+[
+"Day of King Amador",
+0,
+[
+"Heroes Day"
+]
+],
+[
+"Renaissance Day",
+0,
+[]
+],
+[
+"Malaysia Cup Holiday",
+0,
+[]
+],
+[
+"2022 Mourning Day",
+0,
+[]
+],
+[
+"2022 National Day of Mourning",
+0,
+[]
+],
+[
+"Fiji Day",
+0,
+[]
+],
+[
+"Day of the German Unity",
+0,
+[
+"Nationaler Gedenktag des deutschen Volkes",
+"Tag der deutschen Einheit"
+]
+],
+[
+"National Memorial Service for Queen Elizabeth II",
+0,
+[]
+],
+[
+"Bicentenary of the National Flag",
+0,
+[]
+],
+[
+"José Gregorio Hernández Day",
+0,
+[]
+],
+[
+"30 June Day",
+0,
+[]
+],
+[
+"National Anime Day",
+0,
+[]
+],
+[
+"National Rubber Ducky Day",
+0,
+[]
+],
+[
+"National Absurdity Day",
+0,
+[]
+],
+[
+"European Day of Remembrance for Victims of Totalitarian Regimes",
+0,
+[]
+],
+[
+"Bhaitika",
+0,
+[
+"Bhai Tika"
+]
+],
+[
+"General Framework Agreement Day",
+0,
+[
+"Dayton Agreement Day"
+]
+],
+[
+"Victory Against Argentina Holiday",
+0,
+[
+"FIFA World Cup 2022 Day"
+]
+],
+[
+"End of Year Days",
+0,
+[]
+],
+[
+"George Price Day",
+0,
+[]
+],
+[
+"Plurinational State of Bolivia Anniversary",
+0,
+[]
+],
+[
+"Sint-Piterfeest",
+0,
+[]
+],
+[
+"Winter Midterm Bank Holiday",
+0,
+[]
+],
+[
+"MAR10 Day",
+0,
+[
+"Mario Day"
+]
+],
+[
+"first day of Ramadan",
+0,
+[]
+],
+[
+"Girmit Day",
+0,
+[]
+],
+[
+"King Moshoeshoe I's Anniversary",
+0,
+[
+"King Moshoeshoe I's Birthday"
+]
+],
+[
+"Feast of Saint Agnes",
+0,
+[
+"Saint Agnes' Day",
+"St. Agnes' Day"
+]
+],
+[
+"Feast of Saint Cecilia",
+0,
+[
+"Feast of Saint Cecilia (Cecily)"
+]
+],
+[
+"Urs-e-Tajush Shariah",
+0,
+[]
+],
+[
+"Captain Picard Day",
+0,
+[]
+],
+[
+"World Constitution Day",
+0,
+[
+"Constitution Day",
+"New Age Day"
+]
+],
+[
+"Tsar's Official Name Day",
+0,
+[
+"Csar's Official Name Day"
+]
+],
+[
+"Star Trek Day",
+0,
+[]
+],
+[
+"February 2024 Oman heavy rainfall holiday",
+0,
+[]
+],
+[
+"Royal Queensland Show Day",
+0,
+[
+"Ekka Day"
+]
+],
+[
+"state funeral of Hage Geingob holiday",
+0,
+[]
+],
+[
+"Devonport Show centennial holiday",
+0,
+[]
+],
+[
+"Devonport Show Day",
+0,
+[]
+],
+[
+"Days of Mourning",
+0,
+[]
+],
+[
+"Queen Elizabeth II Cup Day",
+0,
+[]
+],
+[
+"July Holiday",
+0,
+[]
+],
+[
+"Funeral Service for National Hero and former Prime Minister Sir Lester Bryant Bird",
+0,
+[]
+],
+[
+"Adult's Parade Carnival Day",
+0,
+[]
+],
+[
+"2018 Swearing-in ceremony of the president of Cameroon",
+0,
+[]
+],
+[
+"Golden Jubilee Holiday",
+0,
+[]
+],
+[
+"Diamond Jubilee Holiday",
+0,
+[]
+],
+[
+"Platinum Jubilee Holiday",
+0,
+[]
+],
+[
+"State funeral of Bingu Wa Mutharika",
+0,
+[
+"Bingu memorial service"
+]
+],
+[
+"Day of Customs and Traditions",
+0,
+[]
+],
+[
+"Inauguration Day",
+0,
+[]
+],
+[
+"Coronation Day of Fifth Druk Gyalpo",
+0,
+[
+"Coronation Day of King Jigme Khesar Namgyel Wangchuck"
+]
+],
+[
+"Birthday of Crown Prince George Tupou V",
+0,
+[]
+],
+[
+"Senior Citizens Day",
+0,
+[]
+],
+[
+"Grandma Moses Day",
+0,
+[]
+],
+[
+"Americas Day",
+0,
+[]
+],
+[
+"Saba Flag Day",
+0,
+[]
+],
+[
+"SPLA Day",
+0,
+[]
+],
+[
+"Sir Hammer DeRoburt Day",
+0,
+[]
+],
+[
+"Mahdi's Birth",
+0,
+[]
+],
+[
+"Day of Remembrance and Honour",
+0,
+[]
+],
+[
+"Day of the People's Uprising of 9 September",
+0,
+[]
+],
+[
+"Yap Constitution Day",
+0,
+[]
+],
+[
+"Chuuk Constitution Day",
+0,
+[]
+],
+[
+"Kosrae Constitution Day",
+0,
+[]
+],
+[
+"Teachers' Appreciation Day",
+0,
+[]
+],
+[
+"Saint Andrew the First-Called Day",
+0,
+[]
+],
+[
+"Maharshi Parasuram Jayanti",
+0,
+[]
+],
+[
+"State funeral of former president Daniel arap Moi",
+0,
+[]
+],
+[
+"Taranaki Provincial Anniversary Day",
+0,
+[]
+],
+[
+"Boun Khao Phansa",
+0,
+[
+"Merit Lent"
+]
+],
+[
+"Canterbury Provincial Anniversary Day",
+0,
+[]
+],
+[
+"Wellington Provincial Anniversary Day",
+0,
+[]
+],
+[
+"Rabindranath Tagore Day",
+0,
+[
+"Rabindranath Tagore's Birthday"
+]
+],
+[
+"Martyrdom of Ja'far al-Sadiq",
+0,
+[]
+],
+[
+"State Holiday",
+0,
+[
+"Labour Day"
+]
+],
+[
+"Huduma Day",
+0,
+[]
+],
+[
+"Babu Jagjivan Ram's Birthday",
+0,
+[]
+],
+[
+"Botswana Day Holiday",
+0,
+[]
+],
+[
+"Otago Provincial Anniversary Day",
+0,
+[]
+],
+[
+"King of Perlis' Birthday",
+0,
+[]
+],
+[
+"State funeral of Sir Rabbie Namaliu",
+0,
+[]
+],
+[
+"State funeral of Subhas Chandra Nembang",
+0,
+[]
+],
+[
+"State funeral of King George Tupou V",
+0,
+[]
+],
+[
+"State funeral of Frederick Chiluba",
+0,
+[]
+],
+[
+"State funeral of Glafcos Clerides",
+0,
+[]
+],
+[
+"State funeral of Demetris Christofias",
+0,
+[]
+],
+[
+"Homeland Defenders' Day",
+0,
+[]
+],
+[
+"Days of History and Commemoration of Ancestors",
+0,
+[]
+],
+[
+"Heir to the Throne's Birthday",
+0,
+[]
+],
+[
+"Saint Helena Day",
+0,
+[]
+],
+[
+"Melaka City Declaration Day",
+0,
+[
+"Melaka UNESCO Heritage Day"
+]
+],
+[
+"Southland Provincial Anniversary Day",
+0,
+[]
+],
+[
+"Self Determination Day",
+0,
+[]
+],
+[
+"Abolition Day",
+0,
+[]
+],
+[
+"Hari Hol Pahang",
+0,
+[]
+],
+[
+"Day of Mourning for President Raisi",
+0,
+[]
+],
+[
+"Saga Dawa",
+0,
+[]
+],
+[
+"Umhlanga Day",
+0,
+[]
+],
+[
+"JAGS McCartney Day",
+0,
+[]
+],
+[
+"Death of Imam Khomeini Day",
+0,
+[]
+],
+[
+"Revolt of 15th Khordad",
+0,
+[]
+],
+[
+"Flora Duffy Day",
+0,
+[]
+],
+[
+"Guam History and Chamorro Heritage Day",
+0,
+[]
+],
+[
+"Silver Jubilee of King Abdullah II",
+0,
+[]
+],
+[
+"Tenth Anniversary of the Assumption of Constitutional Powers",
+0,
+[]
+],
+[
+"Randol Fawkes Day",
+0,
+[
+"Labour Day"
+]
+],
+[
+"Temotu Province Day",
+0,
+[]
+],
+[
+"Korean Children's Union Foundation Day",
+0,
+[]
+],
+[
+"Isabel Province Day",
+0,
+[]
+],
+[
+"Chuquisaca Anniversary",
+0,
+[]
+],
+[
+"Rincon Day",
+0,
+[]
+],
+[
+"Saint Pierre-Chanel Day",
+0,
+[]
+],
+[
+"50th Anniversary of the Carnation Revolution",
+0,
+[]
+],
+[
+"Army Foundation Day",
+0,
+[]
+],
+[
+"Sri Guru Arjun Dev Ji's Martyrdom Day",
+0,
+[]
+],
+[
+"Khongjom Day",
+0,
+[]
+],
+[
+"Kimbangu's Day",
+0,
+[]
+],
+[
+"Rockhampton Agricultural Show Day",
+0,
+[]
+],
+[
+"Funeral of Vice President Saulos Chilima",
+0,
+[]
+],
+[
+"Shefa Day",
+0,
+[]
+],
+[
+"Bacolod City Charter Day",
+0,
+[]
+],
+[
+"Guru Hargobind Ji's Birthday",
+0,
+[]
+],
+[
+"Jurassic Plebiscite Day",
+0,
+[]
+],
+[
+"Commonwealth Covenant Day",
+0,
+[]
+],
+[
+"Commemoration of the Victory over Kadhafi",
+0,
+[]
+],
+[
+"Oil Nationalization Day",
+0,
+[]
+],
+[
+"Day of Shuhada",
+0,
+[]
+],
+[
+"Cheikh Al Maarouf Day",
+0,
+[]
+],
+[
+"Sports Day",
+0,
+[]
+],
+[
+"Birth of Ali",
+0,
+[
+"Imam Ali's Birthday"
+]
+],
+[
+"Manila Day",
+0,
+[]
+],
+[
+"Pasay City Day",
+0,
+[
+"Pasay Foundation Day"
+]
+],
+[
+"The Visit of His Majesty King Charles III and Her Majesty Queen Camilla",
+0,
+[]
+],
+[
+"Central Province Day",
+0,
+[]
+],
+[
+"Sultan of Kedah's Birthday",
+0,
+[]
+],
+[
+"Independence day in Madagascar",
+0,
+[
+"Independence day"
+]
+],
+[
+"RONPhos Handover Day",
+0,
+[]
+],
+[
+"Investiture of José Raúl Mulino",
+0,
+[]
+],
+[
+"Young Mizo Association Day",
+0,
+[
+"YMA Day"
+]
+],
+[
+"MHIP Day",
+0,
+[]
+],
+[
+"Day (Sidi Bennour)",
+0,
+[]
+],
+[
+"Maharana Pratap Jayanti",
+0,
+[]
+],
+[
+"Declaration of George Town as World Heritage Site",
+0,
+[
+"George Town UNESCO Heritage Day"
+]
+],
+[
+"Battle of Junín",
+0,
+[]
+],
+[
+"National Day of Prayer & Thanksgiving",
+0,
+[]
+],
+[
+"King Letsie III's Birthday",
+0,
+[
+"King's Birthday"
+]
+],
+[
+"Governor of Penang's Birthday",
+0,
+[]
+],
+[
+"Bahia Independence Day",
+0,
+[]
+],
+[
+"General Prayer Day",
+0,
+[]
+],
+[
+"Pasig Foundation Day",
+0,
+[]
+],
+[
+"Pitcairn Day",
+0,
+[]
+],
+[
+"2024 Heatwave Holiday",
+0,
+[]
+],
+[
+"Manu'a Cession Day",
+0,
+[]
+],
+[
+"Rennell and Bellona Province Day",
+0,
+[]
+],
+[
+"Victor Schœlcher Day",
+0,
+[
+"Victor Schoelcher Day"
+]
+],
+[
+"Oued Ed-Dahab Day",
+0,
+[]
+],
+[
+"Anniversary of the 2023 coup d'état",
+0,
+[]
+],
+[
+"Founding of Guayaquil Day",
+0,
+[]
+],
+[
+"Puducherry Liberation Day",
+0,
+[]
+],
+[
+"Freedom from the French Day",
+0,
+[
+"Liberation Day"
+]
+],
+[
+"Sultan of Pahang's Birthday",
+0,
+[]
+],
+[
+"Shaheed Udham Singh Martyrdom Day",
+0,
+[]
+],
+[
+"Social Resistance Day",
+0,
+[]
+],
+[
+"Guadalcanal Province Day",
+0,
+[]
+],
+[
+"Makira-Ulawa Province Day",
+0,
+[]
+],
+[
+"Andorra la Vella Festival",
+0,
+[]
+],
+[
+"National Children's Day",
+0,
+[
+"Aso Tamaliki"
+]
+],
+[
+"Hari Hol of Sultan Iskandar of Johor",
+0,
+[]
+],
+[
+"Luanda City Day",
+0,
+[]
+],
+[
+"Malaita Province Day",
+0,
+[]
+],
+[
+"Sheikh Zayed’s Accession Day",
+0,
+[
+"Accession of H.H. Shaikh"
+]
+],
+[
+"Feast of Our Lady of Coromoto",
+0,
+[]
+],
+[
+"Ibumin Earoeni",
+0,
+[
+"Day of the Tribes"
+]
+],
+[
+"Kim Jong Il's Initiation",
+0,
+[]
+],
+[
+"Hari Jadi Yang di-Pertua Negeri Melaka",
+0,
+[]
+],
+[
+"Peace Agreement Day",
+0,
+[]
+],
+[
+"Independence Recognition Day",
+0,
+[
+"Official Recognition Day"
+]
+],
+[
+"Feast of Saint Basil of Ancyra",
+0,
+[]
+],
+[
+"Feast of Saint Adalard (Adalhard) of Corbie",
+0,
+[]
+],
+[
+"Feast of Saint Genevieve (Genovefa)",
+0,
+[]
+],
+[
+"Feast of Saint Celsus",
+0,
+[]
+],
+[
+"Feast of Saint Simeon the Stylite",
+0,
+[]
+],
+[
+"Feast of Saint Severinus",
+0,
+[]
+],
+[
+"American Withdrawal Day",
+0,
+[
+"Day of the Withdrawal of the Last American Soldier from Afghanistan"
+]
+],
+[
+"Bonaire Flag Day",
+0,
+[]
+],
+[
+"Feast of Saint Valentine",
+0,
+[]
+],
+[
+"Feast of Saint Wulsin",
+0,
+[]
+],
+[
+"Feast of Saint Gudula",
+0,
+[]
+],
+[
+"Feast of Saint William",
+0,
+[]
+],
+[
+"Feast of Saint Paul the Hermit",
+0,
+[]
+],
+[
+"Feast of Saint Hilary",
+0,
+[]
+],
+[
+"Feast of Saint Felix of Nola",
+0,
+[]
+],
+[
+"Feast of Saint Pontianus",
+0,
+[]
+],
+[
+"Feast of Saint Maurus",
+0,
+[]
+],
+[
+"Feast of Saint Macarius the Elder",
+0,
+[]
+],
+[
+"Feast of Saint Marcellus I",
+0,
+[]
+],
+[
+"Feast of Saint Fursey",
+0,
+[]
+],
+[
+"Feast of Saint Antony",
+0,
+[]
+],
+[
+"Feast of Saint Sabinus",
+0,
+[]
+],
+[
+"Feast of Saint Prisca",
+0,
+[]
+],
+[
+"Feast of Saint Wulfstan",
+0,
+[]
+],
+[
+"Feast of Saint Launomarus",
+0,
+[]
+],
+[
+"Feast of Saint Henry of Uppsala",
+0,
+[]
+],
+[
+"Feast of Saint Meinrad",
+0,
+[]
+],
+[
+"Feast of Saint Vincent of Saragossa",
+0,
+[]
+],
+[
+"Feast of Saint Anastasius the Persian",
+0,
+[]
+],
+[
+"Feast of Saint Gaudentius",
+0,
+[]
+],
+[
+"Feast of Saint Emerentiana",
+0,
+[]
+],
+[
+"Feast of Saint Ildephonsus",
+0,
+[]
+],
+[
+"Feast of Saint Timothy",
+0,
+[]
+],
+[
+"Feast of Saint Babylas",
+0,
+[]
+],
+[
+"Feast of Saint Praejectus (Prix)",
+0,
+[]
+],
+[
+"Feast of Saint Polycarp",
+0,
+[]
+],
+[
+"Feast of Saint Paula",
+0,
+[]
+],
+[
+"Feast of Saint John Chrysostom",
+0,
+[]
+],
+[
+"Feast of Saint Julian",
+0,
+[]
+],
+[
+"Feast of Saint Charlemagne",
+0,
+[]
+],
+[
+"Feast of Saint Cyril (Cyrillus)",
+0,
+[]
+],
+[
+"Feast of Saint John of Réome",
+0,
+[]
+],
+[
+"Feast of Saint Valerius",
+0,
+[]
+],
+[
+"Feast of Saint Sulpicius Severus",
+0,
+[]
+],
+[
+"Feast of Saint Constantius",
+0,
+[]
+],
+[
+"Feast of Saint Francis de Sales",
+0,
+[]
+],
+[
+"Feast of Saint Aldegundis",
+0,
+[]
+],
+[
+"Feast of Saint Balthildis (Bathildis)",
+0,
+[]
+],
+[
+"Feast of Saint Martina",
+0,
+[]
+],
+[
+"Feast of Saint Brigid (Bride)",
+0,
+[]
+],
+[
+"Feast of Saint Ignatius",
+0,
+[]
+],
+[
+"Feast of Saint Valericus",
+0,
+[]
+],
+[
+"Feast of Saint Anskar",
+0,
+[]
+],
+[
+"Feast of Saint Andrew Corsini",
+0,
+[]
+],
+[
+"Feast of Saint Vaast (Vedast)",
+0,
+[]
+],
+[
+"Feast of Saint Dorothy",
+0,
+[]
+],
+[
+"Feast of Saint Amand (Amandus)",
+0,
+[]
+],
+[
+"Feast of Saint Apollonia",
+0,
+[]
+],
+[
+"Feast of Saint Scholastica",
+0,
+[]
+],
+[
+"Feast of Saint Benedict of Aniane",
+0,
+[]
+],
+[
+"Feast of Saint Humbelina (Humbleline)",
+0,
+[]
+],
+[
+"Feast of Saint Modestus",
+0,
+[]
+],
+[
+"Feast of Saint Sigfrid",
+0,
+[]
+],
+[
+"Feast of Saint Juliana",
+0,
+[]
+],
+[
+"Feast of Saint Barbatus (Barbas)",
+0,
+[]
+],
+[
+"Feast of Saint Margaret of Cortona",
+0,
+[]
+],
+[
+"Feast of Saint Milburga",
+0,
+[]
+],
+[
+"Feast of Saint Matthias",
+0,
+[]
+],
+[
+"Feast of Saint Walburga",
+0,
+[]
+],
+[
+"Feast of Saint Oswald",
+0,
+[]
+],
+[
+"Feast of Saint Albinus (Aubin)",
+0,
+[]
+],
+[
+"Feast of Saint Herculanus",
+0,
+[]
+],
+[
+"Feast of Saint Cunegund (Kunegunde)",
+0,
+[]
+],
+[
+"Feast of Saint Joseph",
+0,
+[]
+],
+[
+"Feast of Saint Frances of Rome",
+0,
+[]
+],
+[
+"Feast of Saint Catharine of Bologna",
+0,
+[]
+],
+[
+"Feast of Saint Vindician",
+0,
+[]
+],
+[
+"Feast of Saint Gertrude of Nivelles",
+0,
+[]
+],
+[
+"Feast of Saint Gabriel the Archangel",
+0,
+[]
+],
+[
+"Feast of Saint Edward \"the Martyr\" (son of King Edgar the Peaceful)",
+0,
+[]
+],
+[
+"Feast of Saint Cuthbert",
+0,
+[]
+],
+[
+"Feast of Saint Joachim",
+0,
+[]
+],
+[
+"Feast of Saint Martin",
+0,
+[]
+],
+[
+"Feast of Saint Benedict",
+0,
+[]
+],
+[
+"Feast of Saint Ludger (Liudger)",
+0,
+[]
+],
+[
+"Feast of Saint Castulus",
+0,
+[]
+],
+[
+"Feast of Saint Mary the Egyptian",
+0,
+[]
+],
+[
+"Feast of Saint Francis de Paola (also \"de Paula\") Confessor",
+0,
+[]
+],
+[
+"Feast of Saint Ambrose",
+0,
+[]
+],
+[
+"Feast of Saint Waldetrudis (Waudru)",
+0,
+[]
+],
+[
+"Feast of Saint Hugo (Hugh)",
+0,
+[]
+],
+[
+"Feast of Saint Guthlac",
+0,
+[]
+],
+[
+"Feast of Saint Zeno",
+0,
+[]
+],
+[
+"Feast of Saint Victor",
+0,
+[]
+],
+[
+"Feast of Saint Peter González",
+0,
+[]
+],
+[
+"Feast of Saint Fructuosus",
+0,
+[]
+],
+[
+"Feast of Saint Potentiana",
+0,
+[]
+],
+[
+"Feast of Saint Stephen Harding",
+0,
+[]
+],
+[
+"Feast of Saint Leo IX",
+0,
+[]
+],
+[
+"Feast of Saint Anselm",
+0,
+[]
+],
+[
+"Feast of Saint Opportuna",
+0,
+[]
+],
+[
+"Feast of Saint Adalbert of Prague",
+0,
+[]
+],
+[
+"Feast of Saint Egbert of Iona",
+0,
+[]
+],
+[
+"Feast of Saint Ivo",
+0,
+[]
+],
+[
+"Feast of Saint Peter de Rates",
+0,
+[]
+],
+[
+"Feast of Saint Franca Visalta",
+0,
+[]
+],
+[
+"Feast of Saint Peter the Martyr",
+0,
+[]
+],
+[
+"Feast of Saint Robert of Molesmes",
+0,
+[]
+],
+[
+"Feast of Saint Catherine of Siena",
+0,
+[]
+],
+[
+"Feast of Saint Eutropius",
+0,
+[]
+],
+[
+"Feast of Saint Regulus of Senlis (Rieule)",
+0,
+[]
+],
+[
+"Feast of Saint Orientius (Orens)",
+0,
+[]
+],
+[
+"Feast of Saint Amator (Amatre)",
+0,
+[]
+],
+[
+"Feast of Saint Sigismund",
+0,
+[]
+],
+[
+"Feast of Saint Athanasius",
+0,
+[]
+],
+[
+"Feast of Saint Wiborada",
+0,
+[]
+],
+[
+"Feast of Saint Mafalda",
+0,
+[]
+],
+[
+"Feast of Saint Juvenal",
+0,
+[]
+],
+[
+"Feast of Saint Florian",
+0,
+[]
+],
+[
+"Feast of Saint Godehard (Gothard)",
+0,
+[]
+],
+[
+"Feast of Saint Judas Quiriacus (Cyriacus)",
+0,
+[]
+],
+[
+"Feast of Saint Monica",
+0,
+[]
+],
+[
+"Feast of Saint Hilary (Hilarus or Hilarius)",
+0,
+[]
+],
+[
+"Feast of Saint Stanislaus",
+0,
+[]
+],
+[
+"Feast of Saint Victor Maurus",
+0,
+[]
+],
+[
+"Feast of Saint Peter II of Tarentaise",
+0,
+[]
+],
+[
+"Feast of Saint Wiro",
+0,
+[]
+],
+[
+"Feast of Saint Antoninus",
+0,
+[]
+],
+[
+"Feast of Saint Mamertus",
+0,
+[]
+],
+[
+"Feast of Saint Gangulfus",
+0,
+[]
+],
+[
+"Feast of Saint Rictrudis",
+0,
+[]
+],
+[
+"Feast of Saint Servais (Servatius)",
+0,
+[]
+],
+[
+"Feast of Saint Peter Regalado",
+0,
+[]
+],
+[
+"Feast of Saint Pontius",
+0,
+[]
+],
+[
+"Feast of Saint Corona",
+0,
+[]
+],
+[
+"Feast of Saint Euticius",
+0,
+[]
+],
+[
+"Feast of Saint Rupert of Bingen",
+0,
+[]
+],
+[
+"Feast of Saint Pascual Baylón",
+0,
+[]
+],
+[
+"Feast of Saint Eric IX of Sweden",
+0,
+[]
+],
+[
+"Feast of Saint Hadulf",
+0,
+[]
+],
+[
+"Feast of Saint Dunstan",
+0,
+[]
+],
+[
+"Feast of Saint Ivo of Kermartin",
+0,
+[]
+],
+[
+"Feast of Saint Bernardinus degl' Albizzeschi of Siena",
+0,
+[]
+],
+[
+"Feast of Saint Desiderius (Didier)",
+0,
+[]
+],
+[
+"Feast of Saint Zenobius",
+0,
+[]
+],
+[
+"Feast of The Venerable Bede",
+0,
+[]
+],
+[
+"Feast of Saint Augustine (Austin)",
+0,
+[]
+],
+[
+"Feast of Saint Philip Neri",
+0,
+[]
+],
+[
+"Feast of Saint Germanus (Germain)",
+0,
+[]
+],
+[
+"Feast of Saint Caraunus",
+0,
+[]
+],
+[
+"Feast of Saint Maximinus",
+0,
+[]
+],
+[
+"Feast of Saint Felix I",
+0,
+[]
+],
+[
+"Feast of Saint Petronilla",
+0,
+[]
+],
+[
+"Feast of Saint Angela Merici",
+0,
+[]
+],
+[
+"Feast of Saint Caprasius",
+0,
+[]
+],
+[
+"Feast of Saint Erasmus",
+0,
+[]
+],
+[
+"Feast of Saint Chlothildis (Clotilda",
+0,
+[]
+],
+[
+"Feast of Saint Francis (Ascanio) Carracciolo",
+0,
+[]
+],
+[
+"Feast of Saint Quirinus",
+0,
+[]
+],
+[
+"Feast of Saint Boniface",
+0,
+[]
+],
+[
+"Feast of Saint Medard",
+0,
+[]
+],
+[
+"Feast of Saint Landericus (Landry)",
+0,
+[]
+],
+[
+"Feast of Saint Barnabas",
+0,
+[]
+],
+[
+"Feast of Saint Eskill",
+0,
+[]
+],
+[
+"Feast of Saint Basil the Great",
+0,
+[]
+],
+[
+"Feast of Saint Elisha",
+0,
+[]
+],
+[
+"Feast of Saint Landelinus",
+0,
+[]
+],
+[
+"Feast of Saint Eadburga",
+0,
+[]
+],
+[
+"Feast of Saint Jean-François Régis (also \"John Francis Regis\" and \"St Regis\")",
+0,
+[]
+],
+[
+"Feast of Saint Lutgard",
+0,
+[]
+],
+[
+"Feast of Saint Botulph",
+0,
+[]
+],
+[
+"Feast of Saint Avitus",
+0,
+[]
+],
+[
+"Feast of Saint Albanus (Alban) of Mainz",
+0,
+[]
+],
+[
+"Feast of Saint Leufred (Leufroy)",
+0,
+[]
+],
+[
+"Feast of Saint Aloysius (Luigi) Gonzaga",
+0,
+[]
+],
+[
+"Feast of Saint Paulinus",
+0,
+[]
+],
+[
+"Feast of Saint John the Baptist",
+0,
+[]
+],
+[
+"Feast of Saint Prosper",
+0,
+[]
+],
+[
+"Feast of Saint Babolenus",
+0,
+[]
+],
+[
+"Feast of Saint Ladislaus",
+0,
+[]
+],
+[
+"Feast of Saint Leo the Great",
+0,
+[]
+],
+[
+"Feast of Saint Paul",
+0,
+[]
+],
+[
+"Feast of Saint Martial",
+0,
+[]
+],
+[
+"Feast of Saint Ulric (Udalricus)",
+0,
+[]
+],
+[
+"Feast of Saint Procopius of Sázava",
+0,
+[]
+],
+[
+"Feast of Saint Antonio Maria Zaccaria",
+0,
+[]
+],
+[
+"Feast of Saint Goar",
+0,
+[]
+],
+[
+"Feast of Saint Jan Hus",
+0,
+[]
+],
+[
+"Feast of Saint Willibald",
+0,
+[]
+],
+[
+"Feast of Saint Elisabeth (Isabel)",
+0,
+[]
+],
+[
+"Feast of Saint Procopius Megalomartyr",
+0,
+[]
+],
+[
+"Feast of Saint Henry II",
+0,
+[]
+],
+[
+"Feast of Saint Mildred",
+0,
+[]
+],
+[
+"Feast of Saint Turianus",
+0,
+[]
+],
+[
+"Feast of Saint Vincent (ne Madelgar)",
+0,
+[]
+],
+[
+"Feast of Saint Bonaventure",
+0,
+[]
+],
+[
+"Feast of Saint Swithun",
+0,
+[]
+],
+[
+"Feast of Saint Alexis",
+0,
+[]
+],
+[
+"Feast of Saint Kenelm",
+0,
+[]
+],
+[
+"Feast of Saint Marina",
+0,
+[]
+],
+[
+"Feast of Saint Arnulfus (Arnoul)",
+0,
+[]
+],
+[
+"Feast of Saint Camillus de Lellis",
+0,
+[]
+],
+[
+"Feast of Saint Vulmar",
+0,
+[]
+],
+[
+"Feast of Saint Margaret (Marina)",
+0,
+[]
+],
+[
+"Feast of Saint Elijah",
+0,
+[]
+],
+[
+"Feast of Saint Praxedes",
+0,
+[]
+],
+[
+"Feast of Saint Arbogast",
+0,
+[]
+],
+[
+"Feast of Saint Wandregisilus",
+0,
+[]
+],
+[
+"Feast of Saint Liborius",
+0,
+[]
+],
+[
+"Feast of Saint John Cassian",
+0,
+[]
+],
+[
+"Feast of Saint Apollinaris",
+0,
+[]
+],
+[
+"Feast of Saint Christina",
+0,
+[]
+],
+[
+"Feast of Saint Christopher",
+0,
+[]
+],
+[
+"Feast of Saint Cucuphas",
+0,
+[]
+],
+[
+"Feast of Saint Pantaleon (Panteleimon)",
+0,
+[]
+],
+[
+"Feast of Saint Samson",
+0,
+[]
+],
+[
+"Feast of Saint Botwid",
+0,
+[]
+],
+[
+"Feast of Saint Felix",
+0,
+[]
+],
+[
+"Feast of Saint Martha",
+0,
+[]
+],
+[
+"Feast of Saint Olaf of Norway",
+0,
+[]
+],
+[
+"Feast of Saint Germanus",
+0,
+[]
+],
+[
+"Feast of Saint Helen of Skoefde (Sweden)",
+0,
+[]
+],
+[
+"Feast of Saint Ethelwold",
+0,
+[]
+],
+[
+"Feast of Saint Stephen I",
+0,
+[]
+],
+[
+"Feast of Saint Alphonsus Maria de Liguori",
+0,
+[]
+],
+[
+"Feast of Saint Tertullinus",
+0,
+[]
+],
+[
+"Feast of Saint Dominic",
+0,
+[]
+],
+[
+"Feast of Saint Afra",
+0,
+[]
+],
+[
+"Feast of Saint Emygdius (Emidius)",
+0,
+[]
+],
+[
+"Feast of Saint Donatus",
+0,
+[]
+],
+[
+"Feast of Saint Albert of Trapani",
+0,
+[]
+],
+[
+"Feast of Saint Romanus",
+0,
+[]
+],
+[
+"Feast of Saint Laurence",
+0,
+[
+"Feast of Saint Lawrence"
+]
+],
+[
+"Feast of Saint Gaugericus (Gery)",
+0,
+[]
+],
+[
+"Feast of Saint Taurinus",
+0,
+[]
+],
+[
+"Feast of Saint Tiburtius (son of Chromatius in Rome)",
+0,
+[]
+],
+[
+"Feast of Saint Clare of Assisi",
+0,
+[]
+],
+[
+"Feast of Saint Hippolytus",
+0,
+[]
+],
+[
+"Feast of Saint Radegund",
+0,
+[]
+],
+[
+"Feast of Saint Wigbert",
+0,
+[]
+],
+[
+"Feast of Saint Eusebius of Rome",
+0,
+[]
+],
+[
+"Feast of Saint Arnulf",
+0,
+[]
+],
+[
+"Feast of Saint Aredius",
+0,
+[]
+],
+[
+"Feast of Saint Agapitus",
+0,
+[]
+],
+[
+"Feast of Saint Helen",
+0,
+[]
+],
+[
+"Feast of Saint Louis",
+0,
+[]
+],
+[
+"Feast of Saint Philibert",
+0,
+[]
+],
+[
+"Feast of Saint Bernard",
+0,
+[]
+],
+[
+"Feast of Saint Philip Benitius (Filippo Benizzi)",
+0,
+[]
+],
+[
+"Feast of Saint Audoenus (Ouen)",
+0,
+[]
+],
+[
+"Feast of Saint Aurea (Chryse) of Ostia",
+0,
+[]
+],
+[
+"Feast of Saint Louis IX",
+0,
+[]
+],
+[
+"Feast of Saint Hunegundis",
+0,
+[]
+],
+[
+"Feast of Saint Genesius",
+0,
+[]
+],
+[
+"Feast of Saint Geruntius",
+0,
+[]
+],
+[
+"Feast of Saint Caesarius",
+0,
+[]
+],
+[
+"Feast of Saint Augustine",
+0,
+[]
+],
+[
+"Feast of Saint Julian of Brioude",
+0,
+[]
+],
+[
+"Feast of Saint Rufus",
+0,
+[]
+],
+[
+"Feast of Saint Hermes",
+0,
+[]
+],
+[
+"Feast of Saint Pelagius",
+0,
+[]
+],
+[
+"Feast of Saint Balbina",
+0,
+[]
+],
+[
+"Feast of Saint Sabina",
+0,
+[]
+],
+[
+"Feast of Saint Medericus (Merry)",
+0,
+[]
+],
+[
+"Feast of Saint Bononius",
+0,
+[]
+],
+[
+"Feast of Saint Cuthberga",
+0,
+[]
+],
+[
+"Feast of Saint Aegidius (Giles)",
+0,
+[]
+],
+[
+"Feast of Saint Lupus (Leu)",
+0,
+[]
+],
+[
+"Feast of Saint Priscus",
+0,
+[]
+],
+[
+"Feast of Saint Verena",
+0,
+[]
+],
+[
+"Feast of Saint Justus",
+0,
+[]
+],
+[
+"Feast of Saint Isabel",
+0,
+[]
+],
+[
+"Feast of Saint Remaclus",
+0,
+[]
+],
+[
+"Feast of Saint Humbert",
+0,
+[]
+],
+[
+"Feast of Saint Magnus",
+0,
+[]
+],
+[
+"Feast of Saint Evurtius (Euvert)",
+0,
+[]
+],
+[
+"Feast of Saint Chlodoaldus (Cloud)",
+0,
+[]
+],
+[
+"Feast of Saint Corbinianus",
+0,
+[]
+],
+[
+"Feast of Saint Disibod",
+0,
+[]
+],
+[
+"Feast of Saint Gorgonius",
+0,
+[]
+],
+[
+"Feast of Saint Audomarus (Omer)",
+0,
+[]
+],
+[
+"Feast of Saint Adrian",
+0,
+[]
+],
+[
+"Feast of Saint Martyr",
+0,
+[]
+],
+[
+"Feast of Saint Salvius",
+0,
+[]
+],
+[
+"Feast of Saint Maurilius",
+0,
+[]
+],
+[
+"Feast of Saint Aichardus",
+0,
+[]
+],
+[
+"Feast of Saint Nicomedes",
+0,
+[]
+],
+[
+"Feast of Saint Euphemia",
+0,
+[]
+],
+[
+"Feast of Saint Ludmila",
+0,
+[]
+],
+[
+"Feast of Saint Edith (Eadgith) of Wilton",
+0,
+[]
+],
+[
+"Feast of Saint Lambert",
+0,
+[]
+],
+[
+"Feast of Saint Hildegard of Bingen",
+0,
+[]
+],
+[
+"Feast of Saint Januarius of Benevento",
+0,
+[]
+],
+[
+"Feast of Saint Maternus",
+0,
+[]
+],
+[
+"Feast of Saint Eustachius",
+0,
+[]
+],
+[
+"Feast of Saint Matthew",
+0,
+[]
+],
+[
+"Feast of Saint Emmeramus",
+0,
+[]
+],
+[
+"Feast of Saint Thecla of Iconium",
+0,
+[]
+],
+[
+"Feast of Saint Gerard Sagredo",
+0,
+[]
+],
+[
+"Feast of Saint Firminus",
+0,
+[]
+],
+[
+"Feast of Saint Cleophas",
+0,
+[]
+],
+[
+"Feast of Saint Wenceslas of Bohemia",
+0,
+[]
+],
+[
+"Feast of Saint Jerome",
+0,
+[]
+],
+[
+"Feast of Saint Leopardus",
+0,
+[]
+],
+[
+"Feast of Saint Remigius (Remi)",
+0,
+[]
+],
+[
+"Feast of Saint Melorus",
+0,
+[]
+],
+[
+"Feast of Saint Piatus of Tournai",
+0,
+[]
+],
+[
+"Feast of Saint Leodegarius (Leger)",
+0,
+[]
+],
+[
+"Feast of Saint Francis of Assisi",
+0,
+[]
+],
+[
+"Feast of Saint Aurea",
+0,
+[]
+],
+[
+"Feast of Saint Fides",
+0,
+[]
+],
+[
+"Feast of Saint Bruno",
+0,
+[]
+],
+[
+"Feast of Saint Ragenfredis",
+0,
+[]
+],
+[
+"Feast of Saint Benedicta",
+0,
+[]
+],
+[
+"Feast of Saint Bridget of Sweden",
+0,
+[]
+],
+[
+"Feast of Saint Demetrius",
+0,
+[]
+],
+[
+"Feast of Saint Iwigius",
+0,
+[]
+],
+[
+"Feast of Saint Denis (Dionysius)",
+0,
+[]
+],
+[
+"Feast of Saint Gislenus (Ghislain)",
+0,
+[]
+],
+[
+"Feast of Saint Richarius (Riquier)",
+0,
+[]
+],
+[
+"Feast of Saint Francis Borgia (Borja)",
+0,
+[]
+],
+[
+"Feast of Saint Venantius",
+0,
+[]
+],
+[
+"Feast of Saint Cainnech of Aghaboe",
+0,
+[]
+],
+[
+"Feast of Saint Maximilian",
+0,
+[]
+],
+[
+"Feast of Saint Wilfrid",
+0,
+[]
+],
+[
+"Feast of Saint Gerald of Aurillac",
+0,
+[]
+],
+[
+"Feast of Saint Donatianus",
+0,
+[]
+],
+[
+"Feast of Saint Coloman",
+0,
+[]
+],
+[
+"Feast of Edward the Confessor",
+0,
+[]
+],
+[
+"Feast of Saint Simpert (Sintbert)",
+0,
+[]
+],
+[
+"Feast of Saint Callistus (Calixtus) I",
+0,
+[]
+],
+[
+"Feast of Saint Burchard (Burkhard)",
+0,
+[]
+],
+[
+"Feast of Saint Teresa (Teresia)",
+0,
+[
+"Saint Teresa's Day",
+"Saint Teresia's Day",
+"St. Teresa's Day",
+"St. Teresia's Day"
+]
+],
+[
+"Feast of Saint Aurelia",
+0,
+[]
+],
+[
+"Feast of Saint Gall",
+0,
+[]
+],
+[
+"Feast of Saint Hedwig",
+0,
+[]
+],
+[
+"Feast of Saint Luke",
+0,
+[]
+],
+[
+"Feast of Saint Justus of Beauvais",
+0,
+[]
+],
+[
+"Feast of Saint Hermeland",
+0,
+[]
+],
+[
+"Feast of Saint Peter of Alcantara",
+0,
+[]
+],
+[
+"Feast of Saint Irene of Santarém (Portugal)",
+0,
+[]
+],
+[
+"Feast of Saint Ursula",
+0,
+[]
+],
+[
+"Feast of Saint Hilarion",
+0,
+[]
+],
+[
+"Feast of Saint Severus",
+0,
+[]
+],
+[
+"Feast of Saint Mary Salome",
+0,
+[]
+],
+[
+"Feast of Saint Antonio Maria Claret y Clara",
+0,
+[]
+],
+[
+"Feast of Saint John of Capistrano",
+0,
+[]
+],
+[
+"Feast of Saint Magloire (Maelor)",
+0,
+[]
+],
+[
+"Feast of Saint Raphael the Archangel",
+0,
+[]
+],
+[
+"Feast of Saint Minias",
+0,
+[]
+],
+[
+"Feast of Saint Lupus",
+0,
+[]
+],
+[
+"Feast of Saint Narcissus",
+0,
+[]
+],
+[
+"Feast of Saint Quintinus (Quentin)",
+0,
+[]
+],
+[
+"Feast of Saint Foillan (Folianus)",
+0,
+[]
+],
+[
+"Feast of Saint Austremonius (Stremoine)",
+0,
+[]
+],
+[
+"Feast of Saint Lautein",
+0,
+[]
+],
+[
+"Feast of Saint Malachy",
+0,
+[]
+],
+[
+"Feast of Saint Pirminus",
+0,
+[]
+],
+[
+"Feast of Saint Marcellus",
+0,
+[]
+],
+[
+"Feast of Saint Wenailus",
+0,
+[]
+],
+[
+"Feast of Saint Florus",
+0,
+[]
+],
+[
+"Feast of Saint Emeric",
+0,
+[]
+],
+[
+"Feast of Saint Winnoc (Vinocus)",
+0,
+[]
+],
+[
+"Feast of Saint Leonard",
+0,
+[]
+],
+[
+"Feast of Saint Willibrord",
+0,
+[]
+],
+[
+"Feast of Saint Florentius",
+0,
+[]
+],
+[
+"Feast of Saint Willehad",
+0,
+[]
+],
+[
+"Feast of Saint Theodore Tiro",
+0,
+[]
+],
+[
+"Feast of Saint Vitonus (Vanne)",
+0,
+[]
+],
+[
+"Feast of Saint Maturin",
+0,
+[]
+],
+[
+"Feast of Saint Andrew",
+0,
+[]
+],
+[
+"Feast of Saint Mennas",
+0,
+[]
+],
+[
+"Feast of Saint Lebwin",
+0,
+[]
+],
+[
+"Feast of Saint Cunibertus (Quinibert)",
+0,
+[]
+],
+[
+"Feast of Saint Aemilianus Cucullatus",
+0,
+[]
+],
+[
+"Feast of Saint Imerius (Himerius) of Immertal",
+0,
+[]
+],
+[
+"Feast of Saint Martin I",
+0,
+[]
+],
+[
+"Feast of Saint Brice",
+0,
+[]
+],
+[
+"Feast of Saint Maxellendis",
+0,
+[]
+],
+[
+"Feast of Saint Genulf",
+0,
+[]
+],
+[
+"Feast of Saint Eugene",
+0,
+[]
+],
+[
+"Feast of Saint Maclovius",
+0,
+[]
+],
+[
+"Feast of Saint Leopold",
+0,
+[]
+],
+[
+"Feast of Saint Findan (Fintan) of Rheinau",
+0,
+[]
+],
+[
+"Feast of Saint Albert the Great (Albertus Magnus)",
+0,
+[]
+],
+[
+"Feast of Saint Othmar (Audemar)",
+0,
+[]
+],
+[
+"Feast of Saint Agnes of Assisi",
+0,
+[]
+],
+[
+"Feast of Saint Edmund of Abingdon (Edmund Rich)",
+0,
+[]
+],
+[
+"Feast of Saint Gregory the Wonderworker",
+0,
+[]
+],
+[
+"Feast of Saint Anianus (Aignan)",
+0,
+[]
+],
+[
+"Feast of Saint Florinus",
+0,
+[]
+],
+[
+"Feast of Saint Gertrude the Great",
+0,
+[]
+],
+[
+"Feast of Saint Hugh",
+0,
+[]
+],
+[
+"Feast of Saint Romanus of Antioch",
+0,
+[]
+],
+[
+"Feast of Saint Elizabeth of Hungary",
+0,
+[]
+],
+[
+"Feast of Saint Edmund",
+0,
+[]
+],
+[
+"Feast of Saint Felix of Valois",
+0,
+[]
+],
+[
+"Feast of Saint Bernward",
+0,
+[]
+],
+[
+"Feast of Saint Felicitatis",
+0,
+[]
+],
+[
+"Feast of Saint Trudo (Trond)",
+0,
+[]
+],
+[
+"Feast of Saint Columbanus (Columban)",
+0,
+[]
+],
+[
+"Feast of Saint Clement of Metz",
+0,
+[]
+],
+[
+"Feast of Saint Chrysogonus",
+0,
+[]
+],
+[
+"Feast of Saint Linus",
+0,
+[]
+],
+[
+"Feast of Saint Conrad",
+0,
+[]
+],
+[
+"Feast of Saint Leonardo of Porto Maurizio (Leonard of Port Maurice)",
+0,
+[]
+],
+[
+"Feast of Saint Saturninus",
+0,
+[]
+],
+[
+"Feast of Saint Eligius (Eloi)",
+0,
+[]
+],
+[
+"Feast of Saint Francis Xavier",
+0,
+[]
+],
+[
+"Feast of Saint Attala",
+0,
+[]
+],
+[
+"Feast of Saint Sabas",
+0,
+[]
+],
+[
+"Feast of Saint Gerald (Girald)",
+0,
+[]
+],
+[
+"Feast of Saint Eucharius",
+0,
+[]
+],
+[
+"Feast of Saint Syrus",
+0,
+[]
+],
+[
+"Feast of Saint Leocadia of Toledo",
+0,
+[]
+],
+[
+"Feast of Saint Gabriel",
+0,
+[]
+],
+[
+"Feast of Saint Eulalia of Mérida",
+0,
+[]
+],
+[
+"Feast of Saint Damasus",
+0,
+[]
+],
+[
+"Feast of Saint Valeria of Limoges",
+0,
+[]
+],
+[
+"Feast of Saint Aubert (Aubertus)",
+0,
+[]
+],
+[
+"Feast of Saint Judoc",
+0,
+[]
+],
+[
+"Feast of Saint Odilia (Ottilia)",
+0,
+[]
+],
+[
+"Feast of Saint Nicasius",
+0,
+[]
+],
+[
+"Feast of Saint Adelaide",
+0,
+[]
+],
+[
+"Feast of Saint Eusebius",
+0,
+[]
+],
+[
+"Feast of Saint Lazarus of Bethany",
+0,
+[]
+],
+[
+"Feast of Saint Gatian",
+0,
+[]
+],
+[
+"Feast of Saint Wunnibald",
+0,
+[]
+],
+[
+"Feast of Saint Gregory of Spoleto",
+0,
+[]
+],
+[
+"Feast of Saint Thomas Becket",
+0,
+[]
+],
+[
+"Feast of Saint Trophimus",
+0,
+[]
+],
+[
+"Feast of Saint Egwin",
+0,
+[]
+],
+[
+"Feast of Saint Perpetuus",
+0,
+[]
+],
+[
+"Feast of Saint Columba of Sens",
+0,
+[]
+],
+[
+"Start of Ramadan",
+0,
+[]
+],
+[
+"Death of Muhammad and Hasan ibn Ali",
+0,
+[]
+],
+[
+"Birth of Muhammad and Ja'far al-Sadiq",
+0,
+[]
+],
+[
+"Battle of Tucumán",
+0,
+[]
+],
+[
+"New Caledonia Day",
+0,
+[
+"French Treaty Day"
+]
+],
+[
+"Julien Alfred Day",
+0,
+[]
+],
+[
+"EU Accession Day",
+0,
+[]
+],
+[
+"Tuvalu Day",
+0,
+[
+"Independence Day"
+]
+],
+[
+"Tokehega Day",
+0,
+[]
+],
+[
+"Obama Win Celebration",
+0,
+[]
+],
+[
+"Plebiscite Day",
+0,
+[
+"Referendum Day"
+]
+],
+[
+"Norfolk Island Agricultural Show",
+0,
+[]
+],
+[
+"Cyclone Day",
+0,
+[]
+],
+[
+"Hispanity Day",
+0,
+[]
+],
+[
+"Pan American Day",
+0,
+[]
+],
+[
+"Cayenne Festival",
+0,
+[]
+],
+[
+"Hurricane Thanksgiving",
+0,
+[]
+],
+[
+"Antilles' Day",
+0,
+[]
+],
+[
+"Hawke's Bay Provincial Anniversary Day",
+0,
+[]
+],
+[
+"Peniamina Gospel Day",
+0,
+[]
+],
+[
+"World Pancreatic Cancer Day",
+0,
+[]
+],
+[
+"Day of the National Revival Leaders",
+0,
+[
+"Day of the National Enlighteners"
+]
+],
+[
+"Sardar Vallabhbhai Patel's Birthday",
+0,
+[
+"Sardar Vallabhai Patel's Birthday"
+]
+],
+[
+"Marlborough Provincial Anniversary Day",
+0,
+[]
+],
+[
+"Haryana Day",
+0,
+[]
+],
+[
+"Citizenship Day",
+0,
+[]
+],
+[
+"Demonstration of National Unity Days",
+0,
+[]
+],
+[
+"Maore Day",
+0,
+[]
+],
+[
+"Njegos Day",
+0,
+[]
+],
+[
+"Sun Yat-sen's Birthday",
+0,
+[]
+],
+[
+"Readjustment Movement Day",
+0,
+[]
+],
+[
+"King Hussein's Birthday",
+0,
+[]
+],
+[
+"Day of Our Lady of the Rosary of Chiquinquirá",
+0,
+[]
+],
+[
+"Feast of the Translation of Saint Vedastus (Vaast)",
+0,
+[
+"Translation of Vaast"
+]
+],
+[
+"Day of the Alphabet",
+0,
+[
+"Alphabet Day"
+]
+],
+[
+"Day of the Albanian Alphabet",
+0,
+[
+"Albanian Alphabet Day"
+]
+],
+[
+"Feast of the Return of Vedast's Relics",
+0,
+[
+"Feast of the Return of Vaast's Relics"
+]
+],
+[
+"Inauguration of Juan Carlos Varela",
+0,
+[]
+],
+[
+"National Mourning of King Aziz",
+0,
+[]
+],
+[
+"Tree Day",
+0,
+[
+"Plant Your Future Day",
+"Tree Planting Day"
+]
+],
+[
+"Day of Remembrance for Earthquake Victims and Disaster Resistance",
+0,
+[
+"Earthquake Victims Day"
+]
+],
+[
+"Mourning Day for Chief Minister Jayalalithaa",
+0,
+[]
+],
+[
+"Pukapuka Gospel Day",
+0,
+[]
+],
+[
+"Battle Day",
+0,
+[
+"Day of the Battle of the Falkland Islands"
+]
+],
+[
+"Day of the Battle of Ayacucho",
+0,
+[]
+],
+[
+"Fourth Republic Day",
+0,
+[]
+],
+[
+"Homecoming Day",
+0,
+[]
+],
+[
+"2024 Inclement Weather Holidays",
+0,
+[]
+],
+[
+"Mourning for Nawaf Al-Ahmad Al-Jaber Al-Sabah",
+0,
+[]
+],
+[
+"Victory in the 26th Arabian Gulf Cup Holiday",
+0,
+[]
+],
+[
+"Council of the Holy Prophet John the Baptist",
+0,
+[
+"Synaxis of St. John the Baptist"
+]
+],
+[
+"De Hostos Day",
+0,
+[
+"Eugenio María de Hostos' Day"
+]
+],
+[
+"Azhyrnykhua",
+0,
+[
+"Azhirnikhua"
+]
+],
+[
+"Yang di-Pertuan Besar of Negeri Sembilan's Birthday",
+0,
+[
+"NSN"
+]
+],
+[
+"Thiruvalluvar Day",
+0,
+[]
+],
+[
+"Mourning for Jaber Al-Ahmad Al-Sabah",
+0,
+[]
+],
+[
+"6888th Central Postal Directory Battalion Day",
+0,
+[]
+],
+[
+"Himachal Pradesh Statehood Day",
+0,
+[]
+],
+[
+"King Abdullah II's Birthday",
+0,
+[
+"King's Birthday",
+"King's Day"
+]
+],
+[
+"inauguration of Jovenel Moïse",
+0,
+[]
+],
+[
+"Fenkil Day",
+0,
+[]
+],
+[
+"State Funeral of Sushil Koirala",
+0,
+[]
+],
+[
+"Mizoram State Day",
+0,
+[]
+],
+[
+"Caracazo 25th Anniversary",
+0,
+[]
+],
+[
+"Sultan of Terengganu's Coronation Day",
+0,
+[]
+],
+[
+"Penrhyn Gospel Day",
+0,
+[]
+],
+[
+"Halabja Day",
+0,
+[]
+],
+[
+"Sunday after August 13th",
+0,
+[
+"Sunday after feast of St Peter"
+]
+],
+[
+"state funeral of Girija Prasad Koirala",
+0,
+[]
+],
+[
+"Feast of Abdon and Sennen",
+0,
+[]
+],
+[
+"Feast of Agathius and companions",
+0,
+[]
+],
+[
+"Feast of Pope Alexander I and companions",
+0,
+[]
+],
+[
+"Feast of Priscilla and Aquila",
+0,
+[]
+],
+[
+"Feast of Basilides, Cyrinus, Nabor and Nazarius",
+0,
+[]
+],
+[
+"Feast of Cantius and companions",
+0,
+[]
+],
+[
+"Feast of Saint Julian and companions",
+0,
+[]
+],
+[
+"Feast of Saints Chrysanthus and Daria",
+0,
+[]
+],
+[
+"Feast of Claudius and companions",
+0,
+[]
+],
+[
+"Feast of Constantine of Beauvais and Peregrine of Auxerre",
+0,
+[]
+],
+[
+"Feast of Saint Cornelius and Saint Cyprian",
+0,
+[]
+],
+[
+"Feast of Cosmas and Damian",
+0,
+[]
+],
+[
+"Feast of Cyrus and John",
+0,
+[]
+],
+[
+"Feast of Cyriacus and companions",
+0,
+[]
+],
+[
+"Feast of Cyricus and Julitta",
+0,
+[]
+],
+[
+"Feast of Ten thousand martyrs",
+0,
+[]
+],
+[
+"Feast of Twelve Brothers",
+0,
+[]
+],
+[
+"Feast of Saint Euplus and Saint Eleucus",
+0,
+[]
+],
+[
+"Feast of the Forty Martyrs",
+0,
+[]
+],
+[
+"Feast of Our Lady of Good Counsel",
+0,
+[]
+],
+[
+"Feast of the Queenship of Mary(August 22)",
+0,
+[]
+],
+[
+"Feast of Our Lady of Perpetual Help",
+0,
+[]
+],
+[
+"Feast of the Visitation of Mary",
+0,
+[]
+],
+[
+"Feast of the Immaculate Heart of Mary",
+0,
+[]
+],
+[
+"Feast of Our Lady of Mount Carmel",
+0,
+[]
+],
+[
+"Feast of Mary of the Snows",
+0,
+[]
+],
+[
+"Feast of the Icon of our Lord Saviour",
+0,
+[]
+],
+[
+"Feast of Our Lady of the Miraculous Medal",
+0,
+[]
+],
+[
+"Feast of the Expectation of Mary",
+0,
+[]
+],
+[
+"Reception of Marcellus",
+0,
+[
+"Feast of the translation of Marcellus I"
+]
+],
+[
+"Feast of the invention of Fermin",
+0,
+[]
+],
+[
+"Feast of the translation of Hugh of Rouen",
+0,
+[]
+],
+[
+"Feast of the elevation of Aubert of Cambrai",
+0,
+[]
+],
+[
+"Second Feast of Agnes",
+0,
+[]
+],
+[
+"Feast of the translation of Bartholomew the Apostle",
+0,
+[]
+],
+[
+"Feast of the translation of Leopold III",
+0,
+[]
+],
+[
+"Feast of the invention of Celsus of Trier",
+0,
+[]
+],
+[
+"Feast of the translation of Gerard of Csanád",
+0,
+[]
+],
+[
+"Feast of the translation of Saint Wenceslaus I, Duke of Bohemia",
+0,
+[]
+],
+[
+"Feast of the translation of Rieul of Senlis",
+0,
+[]
+],
+[
+"Commemoration of Saint Francis",
+0,
+[]
+],
+[
+"Feast of the invention of Denis",
+0,
+[]
+],
+[
+"Feast of the burial of Ludger",
+0,
+[]
+],
+[
+"Feast of the translation of Peter of Alcantara",
+0,
+[]
+],
+[
+"Feast of the translation of Lambert of Maastricht",
+0,
+[]
+],
+[
+"Feast of the translation of Saint Walpurga",
+0,
+[]
+],
+[
+"Feast of the elevation of Elizabeth of Hungary",
+0,
+[]
+],
+[
+"Feast of the translation of Vincent of Saragossa",
+0,
+[]
+],
+[
+"Feast of the translation of Saint Stephen",
+0,
+[]
+],
+[
+"Feast of the Apparition of Michael the Archangel",
+0,
+[]
+],
+[
+"Feast of the translation of Saint Nicholas",
+0,
+[]
+],
+[
+"Feast of the subvention of Martin of Tours",
+0,
+[]
+],
+[
+"Feast of the translation of Saint Maurice",
+0,
+[]
+],
+[
+"Feast of the translation of Ulrich of Augsburg",
+0,
+[]
+],
+[
+"Feast of the translation of Wigbert",
+0,
+[]
+],
+[
+"Feast of the translation of Syrus of Pavia",
+0,
+[]
+],
+[
+"Feast of the translation of Bernardino of Siena",
+0,
+[]
+],
+[
+"Feast of the translation of Saint Dominic",
+0,
+[]
+],
+[
+"Feast of the translation of Francis of Assisi",
+0,
+[]
+],
+[
+"Feast of the ordination of Oswald of Worcester",
+0,
+[]
+],
+[
+"Feast of the translation of Wulfstan",
+0,
+[]
+],
+[
+"Feast of the translation of Saint Aichardus",
+0,
+[]
+],
+[
+"Feast of the translation of Edward the Martyr",
+0,
+[]
+],
+[
+"Feast of the translation of Eligius",
+0,
+[]
+],
+[
+"Feast of the translation of Lebuinus",
+0,
+[]
+],
+[
+"Feast of the translation of Thomas the Apostle",
+0,
+[]
+],
+[
+"Feast of the translation of Martin of Tours",
+0,
+[]
+],
+[
+"Feast of the translation of Gudula",
+0,
+[]
+],
+[
+"Feast of the translation of Thomas Becket",
+0,
+[]
+],
+[
+"Feast of the translation of Saint Servatius",
+0,
+[]
+],
+[
+"Feast of the translation of Saint Justa",
+0,
+[]
+],
+[
+"Feast of the translation of Saint Benedict",
+0,
+[]
+],
+[
+"Feast of the translation (\"Relatio\") of Vedast",
+0,
+[]
+],
+[
+"Feast of the Dividing of the Apostles",
+0,
+[]
+],
+[
+"Feast of the translation of the Three Kings",
+0,
+[]
+],
+[
+"Feast of the translation of Germanus and Julianus",
+0,
+[]
+],
+[
+"Feast of the translation of Marcellus of Paris",
+0,
+[]
+],
+[
+"Feast of the translation of Charlemagne",
+0,
+[]
+],
+[
+"Feast of the invention of Saint Stephen",
+0,
+[]
+],
+[
+"Feast of the departure of Saint Walpurga",
+0,
+[]
+],
+[
+"Feast of the translation of Saint Valentine, Bishop",
+0,
+[]
+],
+[
+"Feast of the translation of Saint Justina",
+0,
+[]
+],
+[
+"Feast of the translation of Saint Candidus",
+0,
+[]
+],
+[
+"Feast of the translation of Hadulf of Cambrai-Arras",
+0,
+[]
+],
+[
+"Feast of the burial of Saint Emeric of Hungary",
+0,
+[]
+],
+[
+"Feast of the translation of Cuthbert",
+0,
+[]
+],
+[
+"Feast of the translation of Egwin of Evesham",
+0,
+[]
+],
+[
+"Feast of the translation of Cunigunde of Luxembourg",
+0,
+[]
+],
+[
+"Feast of the elevation of Saint Amand",
+0,
+[]
+],
+[
+"Feast of the invention of Clare of Assisi",
+0,
+[]
+],
+[
+"Feast of the elevation of Gaugericus",
+0,
+[]
+],
+[
+"Feast of the translation of Rupert of Salzburg",
+0,
+[]
+],
+[
+"Feast of the translation of Stanislaus of Szczepanów",
+0,
+[]
+],
+[
+"Feast of the translation of Ludger",
+0,
+[]
+],
+[
+"Feast of the translation of Clare of Assisi",
+0,
+[]
+],
+[
+"Feast of the translation of Wolfgang of Regensburg",
+0,
+[]
+],
+[
+"Feast of the translation of Oswald of Worcester",
+0,
+[]
+],
+[
+"Feast of the translation of Augustine of Hippo",
+0,
+[]
+],
+[
+"Feast of the translation of Januarius",
+0,
+[]
+],
+[
+"Feast of the translation of Two Ewalds",
+0,
+[]
+],
+[
+"Feast of the translation of Saint Eustace",
+0,
+[]
+],
+[
+"Feast of the translation of Edith of Wilton",
+0,
+[]
+],
+[
+"Feast of the translation of Adalbert of Prague",
+0,
+[]
+],
+[
+"Feast of the translation of Ludmila of Bohemia",
+0,
+[]
+],
+[
+"Feast of the invention of Antoninus of Piacenza",
+0,
+[]
+],
+[
+"Feast of the translation of Babolein",
+0,
+[]
+],
+[
+"Feast of the translation of Saint Patroclus",
+0,
+[]
+],
+[
+"Feast of the invention of Francis of Assisi",
+0,
+[]
+],
+[
+"Feast of the translation of St. James the Elder, Apostle",
+0,
+[]
+],
+[
+"Feast of Saint Laurentia",
+0,
+[]
+],
+[
+"Feast of Las Navas de Tolosa",
+0,
+[]
+],
+[
+"José de Diego Day",
+0,
+[]
+],
+[
+"Feast of Saint Kilian and companions",
+0,
+[]
+],
+[
+"Feast of Saint Vitus and companions",
+0,
+[]
+],
+[
+"Feast of the Ordination of Gregory",
+0,
+[]
+],
+[
+"Feast of Saints Cyprian and Justina",
+0,
+[
+"Feast of Cyprian and Justina",
+"Feast of Justina and Cyprian"
+]
+],
+[
+"Feast of John and Paul",
+0,
+[]
+],
+[
+"Feast of Hermagoras and Fortunatus",
+0,
+[
+"Feast of Hermigoras and Fortunatus"
+]
+],
+[
+"Feast of Saint Fortunata and companions",
+0,
+[]
+],
+[
+"Octave of the feast of Saint Maurus",
+0,
+[
+"In week after Maurus"
+]
+],
+[
+"Octave of the feast of Wulfstan",
+0,
+[
+"In week after Wulfstan"
+]
+],
+[
+"Octave of the feast of Agnes of Rome",
+0,
+[
+"In week after Agnes",
+"Octave of Agnes"
+]
+],
+[
+"Octave of the feast of Vincent of Saragossa",
+0,
+[
+"In week after Vincent"
+]
+],
+[
+"Octave of the feast of Presentation of Jesus at the Temple",
+0,
+[
+"In week after Purification of Mary"
+]
+],
+[
+"Octave of the feast of Blaise of Sebaste",
+0,
+[
+"In week after Blaise",
+"Octave of Blaise"
+]
+],
+[
+"Octave of the feast of Agatha of Sicily",
+0,
+[
+"In week after Agatha"
+]
+],
+[
+"Octave of the feast of Vedast",
+0,
+[
+"In week after Vaast",
+"Octave of Vaast",
+"Sunday after Vaast"
+]
+],
+[
+"Octave of the feast of Benedict of Nursia",
+0,
+[
+"In week after Benedict"
+]
+],
+[
+"Octave of the feast of the annunciation",
+0,
+[
+"In week after Annunciation of Mary",
+"Sunday after Annunciation of Mary"
+]
+],
+[
+"Octave of the feast of Adalbert of Prague",
+0,
+[
+"In week after Adalbert",
+"Octave of Adalbert"
+]
+],
+[
+"Octave of the feast of Mark the Evangelist",
+0,
+[
+"In week after Mark, Evangelist"
+]
+],
+[
+"Octave of the feast of Philip and James",
+0,
+[
+"In week after Philip and James",
+"Octave of Philip and James, Apostles"
+]
+],
+[
+"Octave of the feast of the elevation of Elizabeth of Hungary",
+0,
+[
+"In week after Elizabeth's Elevation"
+]
+],
+[
+"Octave of the feast of the True Cross",
+0,
+[
+"In week after the Finding of the Cross"
+]
+],
+[
+"Octave of the feast of Elisha",
+0,
+[
+"In week after Elisha"
+]
+],
+[
+"Octave of the feast of Vitus",
+0,
+[
+"In week after Vitus",
+"Octave of Vitus"
+]
+],
+[
+"Octave of the feast of Cyricus and Julitta",
+0,
+[
+"In week after Cyricus",
+"Octave of Cyricus"
+]
+],
+[
+"Octave of the feast of John the Baptist",
+0,
+[
+"In week after John the Baptist",
+"Octave of John the Baptist",
+"Sunday after John the Baptist"
+]
+],
+[
+"Octave of the feast of Peter and Paul",
+0,
+[
+"In week after Peter and Paul",
+"Octave of Peter and Paul",
+"Sunday after Peter and Paul"
+]
+],
+[
+"Octave of the feast of Saint Peter",
+0,
+[
+"In week after Peter (Apostle)"
+]
+],
+[
+"Octave of the feast of Paul the Apostle",
+0,
+[
+"In week after Paul (Apostle)"
+]
+],
+[
+"Octave of the feast of the Visitation",
+0,
+[
+"In week after Visitation of Mary",
+"Octave of Visitation of Mary"
+]
+],
+[
+"Octave of the feast of Ulrich of Augsburg",
+0,
+[
+"In week after Ulric",
+"Octave of Ulric"
+]
+],
+[
+"Octave of the Octave of the Apostles Peter and Paul",
+0,
+[
+"In week after Octave of Peter and Paul"
+]
+],
+[
+"Octave of the feast of the translation of Saint Benedict",
+0,
+[
+"In week after Benedict's Translation",
+"Octave of Benedict's Translation"
+]
+],
+[
+"Octave of the feast of Hermagoras and Fortunatus",
+0,
+[
+"In week after Hermagoras and Fortunatus"
+]
+],
+[
+"Octave of the feast of the translation (Relatio) of Vedast",
+0,
+[
+"In week after Return of Vaast",
+"Octave of Return of Vaast's relics",
+"Sunday after Return of Vaast's relics"
+]
+],
+[
+"Octave of the feast of Elijah",
+0,
+[
+"In week after Elijah"
+]
+],
+[
+"Octave of the feast of Mary Magdalene",
+0,
+[
+"In week after Mary Magdalene",
+"Octave of Mary Magdalene",
+"Sunday after Mary Magdalene"
+]
+],
+[
+"Octave of the feast of St. James the Elder, Apostle",
+0,
+[
+"In week after James the Greater",
+"Octave of James the Greater",
+"Sunday after James the Greater"
+]
+],
+[
+"Octave of the feast of Peter in Chains",
+0,
+[
+"In week after Peter in Chains"
+]
+],
+[
+"Octave of the feast of Saint Dominic",
+0,
+[
+"In week after Dominic"
+]
+],
+[
+"Octave of the feast of Lawrence of Rome",
+0,
+[
+"In week after Laurence",
+"Octave of Laurence"
+]
+],
+[
+"Octave of the feast of Gaugericus",
+0,
+[
+"In week after Gaugericus",
+"Octave of Gaugericus",
+"Sunday after Gaugericus"
+]
+],
+[
+"Octave of the Assumption",
+0,
+[
+"In week after Assumption of Mary",
+"Octave of Assumption of Mary",
+"Sunday after Assumption of Mary"
+]
+],
+[
+"Octave of the feast of Agapitus of Palestrina",
+0,
+[
+"In week after Agapitus",
+"Octave of Agapitus"
+]
+],
+[
+"Octave of the feast of Bernard of Clairvaux",
+0,
+[
+"In week after Bernard"
+]
+],
+[
+"Octave of the feast of Augustine of Hippo",
+0,
+[
+"In week after Augustine",
+"Octave of Augustine"
+]
+],
+[
+"Octave of the feast of the ordination of Gregory",
+0,
+[
+"In week after Gregory's Ordination"
+]
+],
+[
+"Octave of the Nativity of Mary",
+0,
+[
+"In week after Birthday of Mary",
+"Octave of Birthday of Mary",
+"Sunday after Birthday of Mary"
+]
+],
+[
+"Octave of the feast of True Cross",
+0,
+[
+"In week after Holy Cross Day"
+]
+],
+[
+"Octave of the feast of Edith of Wilton",
+0,
+[
+"In week after Edith",
+"Octave of Edith of Wilton",
+"Sunday within the octave of Edith"
+]
+],
+[
+"Octave of the feast of Lambert of Maastricht",
+0,
+[
+"In week after Lambert",
+"Octave of Lambert"
+]
+],
+[
+"Octave of the feast of Matthew the Apostle",
+0,
+[
+"In week after Matthew"
+]
+],
+[
+"Octave of the feast of Fermin",
+0,
+[
+"In week after Firminus"
+]
+],
+[
+"Octave of the feast of Saints Cyprian and Justina",
+0,
+[
+"In week after Justina and Cyprian",
+"Octave of Justina and Cyprian"
+]
+],
+[
+"Octave of the feast of Saint Wenceslaus I, Duke of Bohemia",
+0,
+[
+"In week after Wenceslas",
+"Octave of Wenceslas"
+]
+],
+[
+"Octave of the feast of Jerome",
+0,
+[
+"In week after Jerome"
+]
+],
+[
+"Octave of the feast of Francis of Assisi",
+0,
+[
+"In week after Francis of Assisi"
+]
+],
+[
+"Octave of the feast of the Translation of Vedast",
+0,
+[
+"In week after Vaast's Translation",
+"Octave of Vaast's Translation"
+]
+],
+[
+"Octave of the Feast of the translation of Oswald of Worcester",
+0,
+[
+"In week after Oswald's Translation"
+]
+],
+[
+"Octave of the feast of Denis",
+0,
+[
+"In week after Denis, Bishop of Paris",
+"Octave of Denis, Bishop of Paris"
+]
+],
+[
+"Octave of the feast of Paulinus of York",
+0,
+[
+"In week after Paulinus of York"
+]
+],
+[
+"Octave of the feast of Saint Fortunata and companions",
+0,
+[
+"In week after Fortunata"
+]
+],
+[
+"Octave of the feast of Saint Gall",
+0,
+[
+"In week after Gall",
+"Octave of Gall, Hermit"
+]
+],
+[
+"Octave of the feast of Luke the Evangelist",
+0,
+[
+"In week after Luke"
+]
+],
+[
+"Octave of All Saints",
+0,
+[
+"In week after All Saints' Day",
+"Octave of All Saints' Day"
+]
+],
+[
+"Octave of the feast of Marcellus of Paris",
+0,
+[
+"In week after Marcellus of Paris",
+"Octave of Marcellus, Bishop of Paris"
+]
+],
+[
+"Octave of the feast of Martin of Tours",
+0,
+[
+"In week after Martin",
+"Octave of Martin"
+]
+],
+[
+"Octave of the feast of Elizabeth of Hungary",
+0,
+[
+"In week after Elizabeth of Hungary"
+]
+],
+[
+"Octave of the feast of Saint Cecilia",
+0,
+[
+"In week after Cecilia"
+]
+],
+[
+"Octave of the feast of Clement I",
+0,
+[
+"In week after Clement"
+]
+],
+[
+"Octave of the feast of Andrew the Apostle",
+0,
+[
+"In week after Andrew",
+"Octave of Andrew"
+]
+],
+[
+"Octave of the feast of Saint Nicholas",
+0,
+[
+"In week after Nicholas",
+"Octave of Nicholas"
+]
+],
+[
+"Octave of the feast of Saint Lucy",
+0,
+[
+"In week after Lucy"
+]
+],
+[
+"Octave of the feast of Thomas Becket",
+0,
+[
+"In week after Thomas Becket",
+"Octave of Thomas Becket, Bishop of Canterbury"
+]
+],
+[
+"Octave of the feast of Egwin of Evesham",
+0,
+[
+"In week after Egwin"
+]
+],
+[
+"Octave of Amand",
+0,
+[]
+],
+[
+"Octave of Ludger",
+0,
+[]
+],
+[
+"Octave of George",
+0,
+[]
+],
+[
+"Octave of Florian",
+0,
+[]
+],
+[
+"Octave of Servatius",
+0,
+[]
+],
+[
+"Octave of John and Paul",
+0,
+[]
+],
+[
+"Octave of Martial",
+0,
+[]
+],
+[
+"Octave of Afra",
+0,
+[]
+],
+[
+"Octave of Bartholomew",
+0,
+[]
+],
+[
+"Octave of Saturninus",
+0,
+[]
+],
+[
+"Octave of the Conception of Mary",
+0,
+[]
+],
+[
+"Octave week of Saint George",
+0,
+[
+"Octave of George"
+]
+],
+[
+"Octave week of Saint Florian",
+0,
+[
+"Octave of Florian"
+]
+],
+[
+"Octave week of Saint Servatius",
+0,
+[
+"Octave of Servatius"
+]
+],
+[
+"Octave week of John and Paul",
+0,
+[
+"Octave of John and Paul"
+]
+],
+[
+"Octave week of Saint Martial",
+0,
+[
+"Octave of Martial"
+]
+],
+[
+"Octave week of Saint Afra",
+0,
+[
+"Octave of Afra"
+]
+],
+[
+"Octave week of Saint Bartholomew",
+0,
+[
+"Octave of Bartholomew"
+]
+],
+[
+"Feast of Faustinus and Jovita",
+0,
+[]
+],
+[
+"Feast of Felix and Audactus",
+0,
+[]
+],
+[
+"Feast of Felix and Regula",
+0,
+[]
+],
+[
+"Feast of Felicissimus, Agapitus, and companions",
+0,
+[]
+],
+[
+"Feast of Faith, Hope and Charity",
+0,
+[]
+],
+[
+"Feast of Firmus and Rusticus",
+0,
+[]
+],
+[
+"Feast of Fortunata and companions",
+0,
+[]
+],
+[
+"Feast of Victoricus, Fuscian, and Gentian",
+0,
+[]
+],
+[
+"Feast of Gereon and companions",
+0,
+[]
+],
+[
+"Feast of Gervasius and Protasius",
+0,
+[]
+],
+[
+"Feast of Gordianus and Epimachus",
+0,
+[]
+],
+[
+"Feast of Hilarius and Tatian and companions",
+0,
+[]
+],
+[
+"Feast of Hilaria of Augsburg and companions",
+0,
+[]
+],
+[
+"Feast of Januarius, Faustus, and Martialis",
+0,
+[]
+],
+[
+"Feast of Justus and Pastor",
+0,
+[]
+],
+[
+"Feast of Lucy and Germinian",
+0,
+[]
+],
+[
+"Feast of Lucianus, Maximianus and Julianus",
+0,
+[]
+],
+[
+"Feast of Holy Maccabean Martyrs",
+0,
+[]
+],
+[
+"Feast of Appuleius and Marcellus",
+0,
+[]
+],
+[
+"Feast of Marcellinus and Peter",
+0,
+[]
+],
+[
+"Feast of Mark and Marcellian",
+0,
+[]
+],
+[
+"Feast of Pope Mark",
+0,
+[]
+],
+[
+"Feast of Marius and companions",
+0,
+[]
+],
+[
+"Feast of Maurice and companions",
+0,
+[]
+],
+[
+"Feast of Mustiola and Irenaeus",
+0,
+[]
+],
+[
+"Feast of Nazarius and Celsus",
+0,
+[]
+],
+[
+"Feast of Nereus and Achilleus",
+0,
+[]
+],
+[
+"Feast of Nicasius and companions",
+0,
+[]
+],
+[
+"Feast of the Martyrs of Gorkum",
+0,
+[]
+],
+[
+"Feast of Pancras and companions",
+0,
+[]
+],
+[
+"Feast of Patriarchs",
+0,
+[]
+],
+[
+"Feast of Photinus of Lyons and companions",
+0,
+[]
+],
+[
+"Feast of Placidus and companions",
+0,
+[]
+],
+[
+"Feast of Primus and Felician",
+0,
+[]
+],
+[
+"Feast of Andronicus, Probus and Tarachus",
+0,
+[]
+],
+[
+"Feast of Martinian and Processus",
+0,
+[]
+],
+[
+"Feast of Protus and Hyacinth",
+0,
+[]
+],
+[
+"Feast of Pudentiana, Pudens, and companions",
+0,
+[]
+],
+[
+"Feast of the Four Crowned Martyrs",
+0,
+[]
+],
+[
+"Feast of Five Martyr Brothers",
+0,
+[]
+],
+[
+"Feast of Sergius and Bacchus",
+0,
+[]
+],
+[
+"Feast of Saints Tiburtius, Valerian, and Maximus",
+0,
+[]
+],
+[
+"Feast of Timothy and Apollinaris",
+0,
+[]
+],
+[
+"Feast of the Three Marys",
+0,
+[]
+],
+[
+"Feast of Valentine and Hilary",
+0,
+[]
+],
+[
+"Feast of Perpetua and Felicity",
+0,
+[]
+],
+[
+"Feast of Victoria, Anatolia, and Audax",
+0,
+[]
+],
+[
+"Feast of Victor of Marseilles and companions",
+0,
+[]
+],
+[
+"Feast of Vincent, Orontius, and Victor",
+0,
+[]
+],
+[
+"Feast of Vitalis and Valeria",
+0,
+[]
+],
+[
+"Feast of Saint Fabian and Saint Sebastian",
+0,
+[]
+],
+[
+"Feast of Saint George and Saint Adalbert",
+0,
+[]
+],
+[
+"Feast of Saint Germanus and Saint Vedastus",
+0,
+[]
+],
+[
+"Feast of Saint Ingenuinus and Saint Albuinus",
+0,
+[]
+],
+[
+"Feast of St. Julian of Brioude and Saint Hermes",
+0,
+[]
+],
+[
+"Feast of Saint Nicomedis and Saint Valerianus",
+0,
+[]
+],
+[
+"Feast of Euphemia of Aquileia and Companions",
+0,
+[]
+],
+[
+"Feast of Remigius of Reims and Hilary of Poitiers",
+0,
+[]
+],
+[
+"Feast of Savinian and Potentian",
+0,
+[]
+],
+[
+"Feast of the Five Franciscan Protomartyrs",
+0,
+[]
+],
+[
+"Feast of Seven Sleepers of Ephesus",
+0,
+[]
+],
+[
+"Feast of the Seven Brothers",
+0,
+[]
+],
+[
+"Feast of Simplicius, Faustinus, and Beatrix",
+0,
+[]
+],
+[
+"Feast of Sixtus and companions",
+0,
+[]
+],
+[
+"Feast of Speusippus, Eleusippus and Melapsippus",
+0,
+[]
+],
+[
+"Feast of Sulpitius and Servilianus",
+0,
+[]
+],
+[
+"Feast of Simphorian and Timotheus",
+0,
+[]
+],
+[
+"Feast of Saint Tiburtius and Saint Susanna",
+0,
+[]
+],
+[
+"Eve of Purification of Mary",
+0,
+[]
+],
+[
+"Eve of Matthias, Apostle",
+0,
+[]
+],
+[
+"Eve of Philip and James",
+0,
+[]
+],
+[
+"Eve of Peter and Paul",
+0,
+[]
+],
+[
+"Eve of Peter",
+0,
+[]
+],
+[
+"Vigil of Kilian and companions, Martyrs",
+0,
+[]
+],
+[
+"Eve of Return of Vaast's relics",
+0,
+[]
+],
+[
+"Eve of James the Greater, Apostle",
+0,
+[]
+],
+[
+"Eve of Laurence",
+0,
+[]
+],
+[
+"Eve of Assumption of Mary",
+0,
+[]
+],
+[
+"Eve of Stephen I, King and Apostle of Hungary",
+0,
+[]
+],
+[
+"Eve of Bartholomew",
+0,
+[]
+],
+[
+"Eve of Birthday of Mary",
+0,
+[]
+],
+[
+"Eve of Matthew, Apostle and Evangelist",
+0,
+[]
+],
+[
+"Eve of Simon and Jude",
+0,
+[]
+],
+[
+"Eve of Martin, Bishop of Tours",
+0,
+[]
+],
+[
+"Eve of Othmar (Audemar), Abbot",
+0,
+[]
+],
+[
+"Eve of Andrew",
+0,
+[]
+],
+[
+"Eve of Thomas the Apostle",
+0,
+[]
+],
+[
+"Inauguration of Nelson Mandela as President of South Africa",
+0,
+[]
+],
+[
+"Mourning for Nasrallah Peter Sfeir",
+0,
+[]
+],
+[
+"Day of Family Purity and Respect for Parents",
+0,
+[
+"Family Purity Day"
+]
+],
+[
+"Lubiri Memorial Day",
+0,
+[]
+],
+[
+"State funeral of Sir Emile Gumbs",
+0,
+[]
+],
+[
+"American Evacuation Day",
+0,
+[]
+],
+[
+"São Paulo World Cup Holiday",
+0,
+[]
+],
+[
+"June 12 Commemoration",
+0,
+[]
+],
+[
+"Organic Act Day",
+0,
+[]
+],
+[
+"Sranan Boeroe Day",
+0,
+[]
+],
+[
+"Esala Full Moon Poya Day",
+0,
+[]
+],
+[
+"Full Moon Day of Waso",
+0,
+[]
+],
+[
+"U Tirot Sing Day",
+0,
+[]
+],
+[
+"Luis Muñoz Rivera Day",
+0,
+[]
+],
+[
+"Atiu Gospel Day",
+0,
+[]
+],
+[
+"Mitiaro Gospel Day",
+0,
+[]
+],
+[
+"2025 heatwave in the capital province of Tehran",
+0,
+[]
+],
+[
+"Hurricane Supplication Day",
+0,
+[]
+],
+[
+"Rarotonga Gospel Day",
+0,
+[]
+],
+[
+"Cup Match Day",
+0,
+[]
+],
+[
+"Somers Day",
+0,
+[]
+],
+[
+"National Day of the Génocost",
+0,
+[
+"Congolese Genocide Day",
+"Congolese Genocide Memorial Day",
+"National Day of Commemoration"
+]
+],
+[
+"World Law Day",
+0,
+[]
+],
+[
+"Feast of Victorinus of Assisi",
+0,
+[]
+],
+[
+"Feast of Rufina and Secunda",
+0,
+[]
+],
+[
+"Feast of Fides and companions",
+0,
+[]
+],
+[
+"Feast of Justin of Paris",
+0,
+[]
+],
+[
+"Feast of Victorinus of Amiternum",
+0,
+[]
+],
+[
+"Feast of Opilius of Piacenza",
+0,
+[]
+],
+[
+"Feast of Saint Vulgan",
+0,
+[]
+],
+[
+"Feast of Saint Vigor",
+0,
+[]
+],
+[
+"Feast of Saint Benignus of Dijon",
+0,
+[]
+],
+[
+"Feast of Licinius of Angers",
+0,
+[]
+],
+[
+"Feast of Saint Victor of Piacenza",
+0,
+[]
+],
+[
+"Feast of Eustratius and companions",
+0,
+[]
+],
+[
+"World Government Day",
+0,
+[]
+],
+[
+"World Parliament Day",
+0,
+[]
+],
+[
+"Feast of Amatus",
+0,
+[]
+],
+[
+"Feast of Gemma",
+0,
+[]
+],
+[
+"Feast of Zoerard and Benedict",
+0,
+[]
+],
+[
+"Manihiki Gospel Day",
+0,
+[]
+],
+[
+"Feast of the Ordination of Zeno",
+0,
+[]
+],
+[
+"Feast of the Ordination of Amandus",
+0,
+[]
+],
+[
+"Feast of the Death of Edward the Confessor",
+0,
+[]
+],
+[
+"Feast of the Conversion of Afra",
+0,
+[]
+],
+[
+"Feast of Marcellus of Chalon",
+0,
+[]
+],
+[
+"Lao Issara Day",
+0,
+[
+"Free Laos Day"
+]
+],
+[
+"Feast of the Stigmatization of Francis",
+0,
+[
+"Stigmata of Francis"
+]
+],
+[
+"Patriot's Day",
+0,
+[]
+],
+[
+"Anniversary Day",
+0,
+[]
+],
+[
+"Octave of the feast of Relics",
+0,
+[
+"in week after feast of Relics"
+]
+],
+[
+"Afghan Jihad Victory Day",
+0,
+[
+"Anniversary of the Return to Power"
+]
+],
+[
+"Rakahanga Gospel Day",
+0,
+[]
+],
+[
+"Federation Foundation Day",
+0,
+[
+"Federation of Earth Day",
+"Federation of Earth's Foundation Day",
+"FoE Foundation Day"
+]
+],
+[
+"al-Fateh Revolution Day",
+0,
+[
+"National Day"
+]
+],
+[
+"Feast of Saint Marinus and the Republic",
+0,
+[
+"Republic Day"
+]
+],
+[
+"Victory over Japan Day",
+0,
+[]
+],
+[
+"National Day of Prayer",
+0,
+[]
+],
+[
+"Cochabamba Day",
+0,
+[]
+],
+[
+"Feast of the Victory of Paul",
+0,
+[]
+],
+[
+"Dessalines' Day",
+0,
+[]
+],
+[
+"Gaucho Day",
+0,
+[
+"Farroupilha Revolution"
+]
+],
+[
+"Heroes' Martyrdom Day",
+0,
+[]
+],
+[
+"Maharaja Hari Singh Ji's Birthday",
+0,
+[]
+],
+[
+"Santa Cruz Day",
+0,
+[]
+],
+[
+"Sanma Day",
+0,
+[]
+],
+[
+"Saint Nicholas of Flüe Day",
+0,
+[]
+],
+[
+"Torba Day",
+0,
+[]
+],
+[
+"Tafea Day",
+0,
+[]
+],
+[
+"Malampa Day",
+0,
+[]
+],
+[
+"Pres. Wijetunga Funeral",
+0,
+[]
+],
+[
+"South Canterbury Provincial Anniversary Day",
+0,
+[]
+],
+[
+"Inauguration of João Lourenço",
+0,
+[]
+],
+[
+"Teachers' Day",
+0,
+[
+"Confucius' Birthday"
+]
+],
+[
+"2025 World Athletics Championships Title Day",
+0,
+[]
+],
+[
+"Sultan of Kelantan's Birthday",
+0,
+[]
+],
+[
+"Mourning of Sabah Al-Ahmad Al-Jaber Al-Sabah",
+0,
+[]
+],
+[
+"Patriotism Day",
+0,
+[]
+],
+[
+"Fifth SASE International Conference",
+0,
+[]
+],
+[
+"United Nations Day",
+0,
+[]
+],
+[
+"Commonwealth Cultural Day",
+0,
+[]
+],
+[
+"First Republic Day",
+0,
+[]
+],
+[
+"Rectification Day",
+0,
+[
+"Anniversary of the Coup d'état"
+]
+],
+[
+"Death of Raila Odinga",
+0,
+[]
+],
+[
+"2017 Royal Cremation Ceremony",
+0,
+[]
+],
+[
+"Mourning Day",
+0,
+[]
+],
+[
+"Anniversary of the Name Change",
+0,
+[]
+],
+[
+"50th Anniversary of Haʻapai’s Miracle Cross",
+0,
+[
+"Anniversary of the Mystery Cross"
+]
+],
+[
+"Chiang Kai-shek's Birthday",
+0,
+[]
+],
+[
+"Arbor Day",
+0,
+[
+"Aso o le La'au"
+]
+],
+[
+"Saint Charles' Day",
+0,
+[]
+],
+[
+"First Cry of Independence",
+0,
+[]
+],
+[
+"New Era Day",
+0,
+[
+"Commemoration Day",
+"Renewal Day"
+]
+],
+[
+"Chatham Islands Provincial Anniversary Day",
+0,
+[]
+],
+[
+"International Day on Judicial Well-being",
+0,
+[]
+],
+[
+"Westland Provincial Anniversary Day",
+0,
+[]
+],
+[
+"Sukaphaa Divas",
+0,
+[
+"Asom Divas",
+"Assam Day"
+]
+],
+[
+"Western Province Day",
+0,
+[]
+],
+[
+"Founding of MPLA Day",
+0,
+[
+"Workers' Day"
+]
+],
+[
+"Sultan of Selangor's Birthday",
+0,
+[]
+],
+[
+"Pathet Lao Day",
+0,
+[]
+],
+[
+"Guru Gobind Singh Ji's Birthday",
+0,
+[
+"Gobind Singh Jayanti",
+"Govind Singh Jayanti"
+]
+],
+[
+"Death of Sultan Qaboos bin Said Al Said",
+0,
+[]
+],
+[
+"National Day of Regained Sovereignty",
+0,
+[]
+],
+[
+"Netaji's Birthday",
+0,
+[
+"Subhas Chandra Bose Jayanti"
+]
+],
+[
+"New Constitution Holiday",
+0,
+[]
+],
+[
+"National Day of Reconciliation and Peace",
+0,
+[]
+],
+[
+"Abolition Of Slavery",
+0,
+[
+"Abolition Day"
+]
+],
+[
+"Day of Our Lady of Suyapa",
+0,
+[]
+],
+[
+"Nelson Provincial Anniversary Day",
+0,
+[]
+],
+[
+"2010 Earthquake Commemoration",
+0,
+[]
+],
+[
+"Nawam Poya",
+0,
+[
+"Navam Poya"
+]
+],
+[
+"National Reconciliation Day",
+0,
+[]
+],
+[
+"Bicentennial of the Battle of Salta",
+0,
+[]
+],
+[
+"Choiseul Province Day",
+0,
+[]
+],
+[
+"Return of King Abdullah",
+0,
+[]
+],
+[
+"Anniversary of the March Uprising",
+0,
+[
+"Rebellion Anniversary"
+]
+],
+[
+"Lutsango Day",
+0,
+[
+"Lutsangu Day"
+]
+],
+[
+"Queen Salote College’s 100th Anniversary",
+0,
+[]
+],
+[
+"Jumping Spider Day",
+0,
+[]
+],
+[
+"Canterbury Anniversary Day",
+0,
+[]
+],
+[
+"Day of the People's Party",
+0,
+[
+"People's Party Day"
+]
+],
+[
+"Sultan of Johor's Birthday",
+0,
+[]
+],
+[
+"People's Revolution Day",
+0,
+[
+"The Day Justice Triumphed"
+]
+],
+[
+"Refoundation Day",
+0,
+[]
+],
+[
+"Fifth Sunday of Lent",
+0,
+[]
+],
+[
+"April Bank Holiday",
+0,
+[]
+],
+[
+"Second Republic Day",
+0,
+[]
+],
+[
+"National Heroes’ Day",
+0,
+[]
+],
+[
+"Cremation of Princess Bejaratana Rajasuda",
+0,
+[]
+],
+[
+"Funeral of Sir Cuthbert Sebastian",
+0,
+[]
+],
+[
+"Tarija Day",
+0,
+[]
+],
+[
+"Himachal Day",
+0,
+[]
+],
+[
+"Women's Day",
+0,
+[]
+],
+[
+"Sultan of Perak's Birthday",
+0,
+[]
+],
+[
+"Tsunami Memorial Day",
+0,
+[]
+],
+[
+"Sultan of Terengganu's Birthday",
+0,
+[]
+],
+[
+"Mourning of late President Yar'Adua",
+0,
+[]
+],
+[
+"Swains Island Anniversary",
+0,
+[]
+],
+[
+"Day Of Mourning",
+0,
+[]
+],
+[
+"Funeral of Festus Mogae",
+0,
+[]
+],
+[
+"Okinawa Reversion Day",
+0,
+[]
+],
+[
+"President Ho Chi Minh's Birthday",
+0,
+[]
+],
+[
+"Spiritual Baptist Day",
+0,
+[]
+],
+[
+"2nd U.S.-Pacific Islands Forum Leaders Dialogue",
+0,
+[]
+],
+[
+"President Nkurunziza Day",
+0,
+[]
+],
+[
+"Twentieth Anniversary of the Assumption of Constitutional Powers",
+0,
+[]
+],
+[
+"Mangaia Gospel Day",
+0,
+[]
+],
+[
+"Day of the Oath of the National Constitution",
+0,
+[]
+],
+[
+"Day of the Fish",
+0,
+[]
+],
+[
+"Eigigu Day",
+0,
+[]
+],
+[
+"Inauguration of Benigno Aquino III",
+0,
+[]
+],
+[
+"Inqaz Revolution Day",
+0,
+[]
+],
+[
+"Kebaya Day",
+0,
+[]
+],
+[
+"Unimwane Day",
+0,
+[]
+],
+[
+"Nikini Full Moon Poya",
+0,
+[]
+],
+[
+"Ceasefire Day",
+0,
+[
+"Peace Day"
+]
+],
+[
+"Parsi New Year",
+0,
+[]
+],
+[
+"Puducherry De Jure Transfer Day",
+0,
+[]
+],
+[
+"Bois-Caïman Day",
+0,
+[]
+],
+[
+"Panama La Vieja Day",
+0,
+[
+"Panama City Day"
+]
+],
+[
+"Manuel Luis Quezon Day",
+0,
+[]
+],
+[
+"Day of the Black Person and Afro-Costa Rican Culture",
+0,
+[]
+],
+[
+"Levy Mwanawasa's Funeral",
+0,
+[]
+],
+[
+"29th SEA Games Celebration Holiday",
+0,
+[]
+],
+[
+"Our Lady of Victory",
+0,
+[]
+],
+[
+"Gen Z Martyrs Day",
+0,
+[]
+],
+[
+"Driving Side Switch",
+0,
+[]
+],
+[
+"World Children's Day",
+0,
+[]
+],
+[
+"Anniversary of the September 21 Revolution",
+0,
+[]
+],
+[
+"Day of Mourning for Antoine Ghanem",
+0,
+[]
+],
+[
+"Chuuk Liberation Day",
+0,
+[]
+],
+[
+"Commemoration of the Events of September 25",
+0,
+[]
+],
+[
+"Unduvap Full Moon Poya Day",
+0,
+[
+"Unduwap Poya Day"
+]
+],
+[
+"IMF 2026 Annual Meetings",
+0,
+[]
+],
+[
+"Civil Servants' Day",
+0,
+[]
+],
+[
+"Il Full Moon Poya Day",
+0,
+[]
+],
+[
+"Comics Giveaway Day",
+0,
+[
+"Comic Give Away Day"
+]
+],
+[
+"Comandante Amador Day",
+0,
+[
+"In Honour of Comandante Amador"
+]
+],
+[
+"Potosí Civic Day",
+0,
+[]
+],
+[
+"Phalgunanda Jayanti",
+0,
+[]
+],
+[
+"Meritxell Day",
+0,
+[
+"feast day of Our Lady of Meritxell"
+]
+],
+[
+"Anniversary of the Arengo",
+0,
+[]
+],
+[
+"Liberation from Fascism",
+0,
+[]
+],
+[
+"Feast of San Marino and the Republic",
+0,
+[]
+],
+[
+"Family & Community Day",
+0,
+[]
+],
+[
+"Eight Hours Day",
+0,
+[]
+],
+[
+"Day of Goodwill",
+0,
+[]
+],
+[
+"Macau Special Administrative Region Establishment Day",
+0,
+[]
+],
+[
+"Memorial day of enlighteners of Karelia",
+0,
+[]
+],
+[
+"1 Kislev",
+0,
+[
+"Rosh Chodesh Kislev"
+]
+],
+[
+"Anniversary of the Death of Dessalines",
+0,
+[
+"Anniversary Death of Dessalines",
+"Dessalines Day"
+]
+],
+[
+"Bedoba",
+0,
+[]
+],
+[
+"Day of National Unity of Georgia",
+0,
+[]
+],
+[
+"10 Kislev",
+0,
+[]
+],
+[
+"Day of conception",
+0,
+[
+"Conception day"
+]
+],
+[
+"Negro History Week",
+0,
+[]
+],
+[
+"Turkmen Horse Day",
+0,
+[]
+],
+[
+"Feast of the Assumption of Mary",
+0,
+[
+"Feast of the Assumption"
+]
+],
+[
+"Tres de Febrero",
+0,
+[]
+],
+[
+"Death to America Day",
+0,
+[]
+],
+[
+"Childermas",
+0,
+[
+"Childermass"
+]
+],
+[
+"Colston Day",
+0,
+[]
+],
+[
+"Fest of the Fourth Universal",
+0,
+[]
+],
+[
+"Fest of the Third Universal",
+0,
+[]
+],
+[
+"Lee's Birthday",
+0,
+[
+"Lee's birthday"
+]
 ]
 ]

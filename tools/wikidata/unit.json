@@ -1,2010 +1,5472 @@
 [
 [
 "day",
-254
+254,
+[
+"days",
+"Earth day"
+]
 ],
 [
 "month",
-239
+239,
+[
+"months"
+]
 ],
 [
 "week",
-227
+227,
+[
+"7 days",
+"week duration",
+"weekly",
+"weeks"
+]
 ],
 [
 "1",
-221
+221,
+[
+"multiplicative identity",
+"number 1",
+"number one",
+"one",
+"unit",
+"unit one",
+"unity"
+]
 ],
 [
 "metre",
-187
+187,
+[
+"meter",
+"meters",
+"mètre",
+"metres"
+]
 ],
 [
 "pi",
-182
+182,
+[
+"0.5tau",
+"(1/2)tau",
+"3.14...",
+"Archimedes' constant",
+"pi number",
+"ratio of circumference to diameter",
+"tau/2",
+"tau over two",
+"π"
+]
 ],
 [
 "century",
-180
+180,
+[
+"centenary",
+"centennial",
+"centurial",
+"hundred years",
+"one hundred years"
+]
 ],
 [
 "second",
-179
+179,
+[
+"s",
+"sec",
+"sec.",
+"seconds"
+]
 ],
 [
 "Saarland",
-168
+168,
+[
+"DE-SL"
+]
 ],
 [
 "hour",
-165
+165,
+[
+"60 minutes",
+"h",
+"hours",
+"hr",
+"hrs",
+"sixty minutes"
+]
 ],
 [
 "minute",
-160
+160,
+[
+"min",
+"min.",
+"mins",
+"mins.",
+"minuit",
+"minuits",
+"minutes"
+]
 ],
 [
 "light-year",
-155
+155,
+[
+"light year",
+"lightyear",
+"light years",
+"light-years",
+"lightyears",
+"l.y.",
+"ly"
+]
 ],
 [
 "litre",
-147
+147,
+[
+"l",
+"L",
+"litres"
+]
 ],
 [
 "speed of light in vacuum",
-140
+140,
+[
+"light speed",
+"lightspeed",
+"light speed in vacuum",
+"luminal speed",
+"Planck speed",
+"speed of electromagnetic waves in vacuum",
+"speed of light",
+"speed of light in a vacuum",
+"vacuum speed of light",
+"velocity of light"
+]
 ],
 [
 "kilometre",
-134
+134,
+[
+"kilometres",
+"km"
+]
 ],
 [
 "kelvin",
-131
+131,
+[
+"degrees Kelvin",
+"°K",
+"K",
+"Kelvin degrees"
+]
 ],
 [
 "millennium",
-129
+129,
+[
+"chiliad",
+"millennia"
+]
 ],
 [
 "astronomical unit",
-122
+122,
+[
+"astronomic unit",
+"au",
+"AU",
+"heliocentric distance"
+]
 ],
 [
 "ampere",
-121
+121,
+[
+"A",
+"amp",
+"amperage",
+"amperes",
+"amps"
+]
 ],
 [
 "volt",
-119
+119,
+[
+"V"
+]
 ],
 [
 "newton",
-118
+118,
+[
+"N"
+]
 ],
 [
 "sphere",
-118
+118,
+[
+"2-sphere",
+"orb"
+]
 ],
 [
 "degree Celsius",
-114
+114,
+[
+"°C",
+"℃",
+"Celsius",
+"centigrade",
+"degree centigrade",
+"degrees Celsius",
+"degrees centigrade"
+]
 ],
 [
 "gram",
-110
+110,
+[
+"g",
+"gm",
+"gramme",
+"grams"
+]
 ],
 [
 "percent",
-107
+107,
+[
+"%",
+"pct.",
+"per cent"
+]
 ],
 [
 "centimetre",
-107
+107,
+[
+"centimetres",
+"cm"
+]
 ],
 [
 "digit",
-107
+107,
+[
+"digits",
+"numerical character",
+"numerical digit",
+"numerical digits",
+"numeric character"
+]
 ],
 [
 "mole",
-106
+106,
+[
+"mol"
+]
 ],
 [
 "bit",
-101
+101,
+[
+"b",
+"binary digit",
+"logic value"
+]
 ],
 [
 "byte",
-98
+98,
+[
+"8-bit byte",
+"B",
+"eight-bit byte",
+"octet",
+"u8"
+]
 ],
 [
 "hertz",
-97
+97,
+[
+"cps",
+"CPS",
+"cycles per second",
+"Hz"
+]
 ],
 [
 "degree Fahrenheit",
-96
+96,
+[
+"°F",
+"Fahrenheit"
+]
 ],
 [
 "coulomb",
-95
+95,
+[]
 ],
 [
 "tonne",
-94
+94,
+[
+"metric ton",
+"metric tonne",
+"MT",
+"t",
+"T",
+"ton"
+]
 ],
 [
 "millimetre",
-93
+93,
+[
+"mil",
+"millimetres"
+]
 ],
 [
 "parsec",
-92
+92,
+[
+"parallax of one second",
+"parallax second",
+"pc"
+]
 ],
 [
 "small calorie",
-91
+91,
+[
+"cal",
+"calorie (thermochemical)",
+"gram calorie",
+"thermochemical calorie"
+]
 ],
 [
 "ohm",
-91
+91,
+[
+"Ω"
+]
 ],
 [
 "radian",
-89
+89,
+[
+"rad"
+]
 ],
 [
 "pascal",
-88
+88,
+[
+"Pa"
+]
 ],
 [
 "nanometre",
-87
+87,
+[
+"nanometres",
+"nm"
+]
 ],
 [
 "ångström",
-87
+87,
+[
+"angstrom"
+]
 ],
 [
 "candela",
-87
+87,
+[]
 ],
 [
 "Planck constant",
-85
+85,
+[
+"Planck's constant"
+]
 ],
 [
 "micrometre",
-85
+85,
+[
+"micrometres",
+"micron",
+"µm"
+]
 ],
 [
 "pound",
-83
+83,
+[
+"avoirdupois pound",
+"lb",
+"lbm",
+"lbs",
+"pound (avoirdupois)",
+"pound (mass)",
+"pound mass",
+"pound-mass",
+"pounds"
+]
 ],
 [
 "degree",
-82
+82,
+[
+"°",
+"angular degree",
+"arcdegree",
+"degree of arc"
+]
 ],
 [
 "farad",
-81
+81,
+[
+"F"
+]
 ],
 [
 "pixel",
-81
+81,
+[
+"picture element",
+"px"
+]
 ],
 [
 "electronvolt",
-81
+81,
+[
+"electron volt",
+"eV"
+]
 ],
 [
 "knot",
-79
+79,
+[
+"international knot",
+"kn",
+"kt",
+"kts",
+"node"
+]
 ],
 [
 "becquerel",
-76
+76,
+[]
 ],
 [
 "bar",
-76
+76,
+[
+"bar (pressure)"
+]
 ],
 [
 "Newtonian gravitational constant",
-76
+76,
+[
+"G",
+"gravitational constant",
+"Newtonian constant of gravitation",
+"Newton's gravitational constant"
+]
 ],
 [
 "ounce",
-75
+75,
+[
+"℥",
+"avoirdupois ounce",
+"ounce (avoirdupois)",
+"ounces",
+"oz",
+"oz."
+]
 ],
 [
 "steradian",
-74
+74,
+[
+"square radian",
+"sr"
+]
 ],
 [
 "drop",
-73
+73,
+[
+"metric drop"
+]
 ],
 [
 "henry",
-72
+72,
+[
+"H"
+]
 ],
 [
 "decimetre",
-72
+72,
+[
+"decimetres",
+"dm"
+]
 ],
 [
 "lumen",
-72
+72,
+[
+"lm"
+]
 ],
 [
 "Boltzmann constant",
-72
+72,
+[]
 ],
 [
 "tesla",
-71
+71,
+[
+"T"
+]
 ],
 [
 "decibel",
-69
+69,
+[
+"dB"
+]
 ],
 [
 "weber",
-68
+68,
+[
+"Wb"
+]
 ],
 [
 "sievert",
-66
+66,
+[
+"Sv"
+]
 ],
 [
 "standard atmosphere",
-66
+66,
+[
+"atm",
+"atmosphere"
+]
 ],
 [
 "gallon",
-66
+66,
+[
+"gal",
+"gallons"
+]
 ],
 [
 "picometre",
-66
+66,
+[
+"picometres",
+"pm"
+]
 ],
 [
 "carat",
-65
+65,
+[
+"CD",
+"K",
+"ct",
+"karat",
+"kt",
+"metric carat"
+]
 ],
 [
 "siemens",
-65
+65,
+[
+"S"
+]
 ],
 [
 "lux",
-65
+65,
+[
+"lx"
+]
 ],
 [
 "metre per second",
-65
+65,
+[
+"meter per second",
+"meters per second",
+"metres per second",
+"m/s",
+"m s^(-1)",
+"m s⁻¹"
+]
 ],
 [
 "gray",
-65
+65,
+[
+"Gy"
+]
 ],
 [
 "kilometre per hour",
-62
+62,
+[
+"kilometer per hour",
+"kilometers per hour",
+"kilometres per hour",
+"kmh",
+"km/hr",
+"km per hour",
+"kmph",
+"kph"
+]
 ],
 [
 "per mille",
-62
+62,
+[
+"‰",
+"millage",
+"per mil",
+"permil",
+"per mill",
+"permill",
+"permillage",
+"permille"
+]
 ],
 [
 "tropical year",
-62
+62,
+[
+"solar year"
+]
 ],
 [
 "passenger",
-62
+62,
+[
+"pax"
+]
 ],
 [
 "are",
-61
+61,
+[]
 ],
 [
 "verst",
-59
+59,
+[]
 ],
 [
 "femtometre",
-57
+57,
+[
+"femtometres",
+"fermi",
+"fm"
+]
 ],
 [
 "elementary charge",
-57
+57,
+[
+"elementary electric charge",
+"elementary positive charge"
+]
 ],
 [
 "dioptre",
-56
+56,
+[
+"diopter"
+]
 ],
 [
 "base pair",
-54
+54,
+[
+"bp",
+"pb"
+]
 ],
 [
 "octane rating",
-54
+54,
+[
+"AKI",
+"anti-knock index",
+"MON",
+"motor octane number",
+"octane number",
+"PON",
+"pump octane number",
+"research octane number",
+"RON"
+]
 ],
 [
 "Planck length",
-53
+53,
+[]
 ],
 [
 "Planck time",
-52
+52,
+[]
 ],
 [
 "square mile",
-52
+52,
+[
+"mi2",
+"mi²",
+"s. m.",
+"sq. m.",
+"sq mi",
+"sq. mi.",
+"sqmi",
+"sqr. m.",
+"square miles"
+]
 ],
 [
 "curie",
-51
+51,
+[
+"Ci"
+]
 ],
 [
 "gauss",
-50
+50,
+[
+"Gs"
+]
 ],
 [
 "katal",
-50
+50,
+[]
 ],
 [
 "baud",
-49
+49,
+[
+"Bd"
+]
 ],
 [
 "gradian",
-49
+49,
+[
+"gon",
+"grad",
+"grade"
+]
 ],
 [
 "pint",
-48
+48,
+[
+"imperial pint",
+"pint size",
+"pt"
+]
 ],
 [
 "erg",
-48
+48,
+[]
 ],
 [
 "dozen",
-47
+47,
+[
+"doz",
+"dz",
+"group of 12"
+]
 ],
 [
 "league",
-46
+46,
+[
+"hour's walk",
+"league (unit)"
+]
 ],
 [
 "dyne",
-46
+46,
+[]
 ],
 [
 "roentgen",
-46
+46,
+[
+"R",
+"röntgen"
+]
 ],
 [
 "solar luminosity",
-46
+46,
+[
+"L⊙",
+"solLum"
+]
 ],
 [
 "hectometre",
-46
+46,
+[
+"hm"
+]
 ],
 [
 "FLOPS",
-44
+44,
+[
+"floating point operations per second"
+]
 ],
 [
 "kilogram-force",
-44
+44,
+[
+"kg-f",
+"kgf",
+"kg force",
+"kg-force",
+"kg-w",
+"kilogram force",
+"kilogram weight",
+"kilogram-weight",
+"kilopond",
+"kp"
+]
 ],
 [
 "crore",
-43
+43,
+[
+"cr",
+"karor",
+"koti"
+]
 ],
 [
 "parts per million",
-43
+43,
+[
+"part per million",
+"ppm"
+]
 ],
 [
 "ampere-hour",
-43
+43,
+[
+"A h",
+"A⋅h",
+"Ah",
+"ampere hour",
+"amp hour"
+]
 ],
 [
 "newton metre",
-43
+43,
+[
+"newton meter",
+"newton-meter",
+"newton-metre",
+"N m",
+"N·m",
+"Nm"
+]
 ],
 [
 "fathom",
-43
+43,
+[
+"U.S. survey fathom",
+"US survey fathom"
+]
 ],
 [
 "arcminute",
-42
+42,
+[
+"′",
+"arcmin",
+"arc minute",
+"min.",
+"minuit",
+"minute",
+"minute of arc",
+"MOA"
+]
 ],
 [
 "decametre",
-42
+42,
+[
+"dam",
+"dekametre"
+]
 ],
 [
 "barn",
-41
+41,
+[
+"unit for cross-section"
+]
 ],
 [
 "glycemic index",
-41
+41,
+[
+"glycaemic index"
+]
 ],
 [
 "twenty-foot equivalent unit",
-41
+41,
+[
+"TEU"
+]
 ],
 [
 "semitone",
-41
+41,
+[]
 ],
 [
 "stadion",
-40
+40,
+[
+"stade"
+]
 ],
 [
 "millimetre of mercury",
-40
+40,
+[
+"millimeter of mercury",
+"mm Hg",
+"mmHg"
+]
 ],
 [
 "lakh",
-40
+40,
+[
+"L",
+"lac"
+]
 ],
 [
 "megametre",
-39
+39,
+[
+"megametres"
+]
 ],
 [
 "page",
-39
+39,
+[
+"book page"
+]
 ],
 [
 "British thermal unit",
-39
+39,
+[
+"British thermal unit (th)",
+"BTU",
+"BTU (th)",
+"thermochemical British thermal unit",
+"thermochemical Btu"
+]
 ],
 [
 "Zakat al-Fitr",
-39
+39,
+[
+"Zakat al-Fitrah"
+]
 ],
 [
 "Planck temperature",
-39
+39,
+[
+"Planck temperature scale"
+]
 ],
 [
 "megaannum",
-38
+38,
+[
+"mega-annum",
+"megayear",
+"million years",
+"My",
+"Myr"
+]
 ],
 [
 "mile per hour",
-38
+38,
+[
+"mi/hr",
+"mile/h",
+"mile/hr",
+"miles per hour",
+"Mph"
+]
 ],
 [
 "grain",
-38
+38,
+[
+"wheat grain"
+]
 ],
 [
 "cetane number",
-38
+38,
+[]
 ],
 [
 "percentage point",
-37
+37,
+[
+"percentage points",
+"percent point",
+"percent points",
+"pp"
+]
 ],
 [
 "metre per square second",
-37
+37,
+[
+"meter per second squared",
+"meter per square second",
+"meters per second squared",
+"metre / second squared",
+"metres per second squared",
+"m s^(-2)",
+"m/s2",
+"m s⁻²",
+"m/s²"
+]
 ],
 [
 "g-force",
-37
+37,
+[
+"gravitational force equivalent"
+]
 ],
 [
 "Planck mass",
-37
+37,
+[]
 ],
 [
 "maxwell",
-37
+37,
+[
+"Mx"
+]
 ],
 [
 "international unit",
-37
+37,
+[
+"IU"
+]
 ],
 [
 "Julian year",
-36
+36,
+[
+"a",
+"mean Julian year",
+"year"
+]
 ],
 [
 "gal",
-36
+36,
+[
+"galileo"
+]
 ],
 [
 "neper",
-36
+36,
+[
+"Np"
+]
 ],
 [
 "permittivity of vacuum",
-36
+36,
+[
+"dielectric constant of vacuum",
+"electric constant",
+"permittivity of free space",
+"vacuum electric permittivity",
+"vacuum permittivity"
+]
 ],
 [
 "poise",
-35
+35,
+[]
 ],
 [
 "Bohr magneton",
-35
+35,
+[
+"Bohr–Procopiu magneton"
+]
 ],
 [
 "arcsecond",
-35
+35,
+[
+"″",
+"arc-sec",
+"arcsec",
+"arc second",
+"second",
+"second of arc"
+]
 ],
 [
 "gigametre",
-35
+35,
+[
+"gigametres",
+"Gm"
+]
 ],
 [
 "debye",
-34
+34,
+[
+"D"
+]
 ],
 [
 "pound per square inch",
-34
+34,
+[
+"pound force per square inch",
+"pound-force per square inch",
+"psi"
+]
 ],
 [
 "voxel",
-34
+34,
+[
+"volume pixel"
+]
 ],
 [
 "point",
-33
+33,
+[
+"points",
+"pt",
+"score"
+]
 ],
 [
 "chain",
-33
+33,
+[
+"ch",
+"chains",
+"Gunter's chain",
+"surveyor's chain"
+]
 ],
 [
 "lunar month",
-33
+33,
+[
+"moon month"
+]
 ],
 [
 "oersted",
-33
+33,
+[
+"Oe"
+]
 ],
 [
 "troy ounce",
-32
+32,
+[
+"oz t",
+"oz troy",
+"t oz",
+"troy oz"
+]
 ],
 [
 "dots per inch",
-32
+32,
+[
+"dot per inch",
+"DPI"
+]
 ],
 [
 "magnetic constant",
-31
+31,
+[
+"permeability of free space",
+"permeability of vacuum",
+"vacuum permeability"
+]
 ],
 [
 "kilogram per cubic metre",
-31
+31,
+[
+"kg/m^3",
+"kg/m3",
+"kg/m³",
+"kilogram per cubic meter"
+]
 ],
 [
 "rad",
-30
+30,
+[
+"Radiation Absorbed Dose"
+]
 ],
 [
 "cent",
-30
+30,
+[]
 ],
 [
 "torr",
-30
+30,
+[]
 ],
 [
 "long ton",
-30
+30,
+[
+"displacement ton",
+"gross ton",
+"imperial ton",
+"long tons",
+"long tons (UK)",
+"ton",
+"UK t",
+"weight ton"
+]
 ],
 [
 "candela per square metre",
-29
+29,
+[
+"cd/m²",
+"nit",
+"nt"
+]
 ],
 [
 "Dobson unit",
-29
+29,
+[]
 ],
 [
 "basis point",
-29
+29,
+[
+"‱",
+"0.01%",
+"bp",
+"hundredth of a percent",
+"hundredths of a percent",
+"part per ten thousand",
+"parts per ten thousand",
+"permyriad",
+"per ten thousand"
+]
 ],
 [
 "square degree",
-28
+28,
+[
+"(°)²",
+"deg²",
+"degree squared",
+"sq. deg."
+]
 ],
 [
 "sverdrup",
-28
+28,
+[
+"Sv"
+]
 ],
 [
 "nuclear magneton",
-27
+27,
+[]
 ],
 [
 "joule per mole",
-27
+27,
+[
+"J/mol",
+"J mol^-1",
+"J.mol^-1",
+"Joule per mole",
+"Joules per mole"
+]
 ],
 [
 "Roentgen equivalent man",
-27
+27,
+[
+"rem"
+]
 ],
 [
 "short ton",
-27
+27,
+[
+"ton",
+"US t",
+"U.S. ton",
+"US ton"
+]
 ],
 [
 "square foot",
-27
+27,
+[
+"ft2",
+"SF",
+"sq ft",
+"sqft",
+"square feet"
+]
 ],
 [
 "Planck charge",
-26
+26,
+[]
 ],
 [
 "turn",
-26
+26,
+[
+"complete rotation",
+"cyc",
+"cycle",
+"full circle",
+"full turn",
+"rev",
+"revolution",
+"rot"
+]
 ],
 [
 "Tumen",
-26
+26,
+[]
 ],
 [
 "volume",
-25
+25,
+[
+"book volume",
+"tome",
+"tomes",
+"vol.",
+"volumes"
+]
 ],
 [
 "svedberg",
-25
+25,
+[
+"S",
+"Sv"
+]
 ],
 [
 "cubic decimetre",
-25
+25,
+[
+"cubic decimeter"
+]
 ],
 [
 "erlang",
-25
+25,
+[]
 ],
 [
 "Wolf number",
-25
+25,
+[
+"International sunspot number",
+"relative sunspot number",
+"SSN",
+"Zürich number"
+]
 ],
 [
 "centimorgan",
-25
+25,
+[
+"cM",
+"map unit",
+"Morgan%",
+"m.u."
+]
 ],
 [
 "proof",
-25
+25,
+[
+"alcoholic proof",
+"alcohol proof"
+]
 ],
 [
 "var",
-25
+25,
+[
+"volt-ampere reactive"
+]
 ],
 [
 "whole tone",
-24
+24,
+[
+"tone",
+"whole step"
+]
 ],
 [
 "gross",
-24
+24,
+[
+"gr",
+"gro",
+"group of 144"
+]
 ],
 [
 "stere",
-24
+24,
+[
+"st",
+"stère"
+]
 ],
 [
 "quarter",
-24
+24,
+[
+"quarter of a year",
+"quarter year",
+"trimester"
+]
 ],
 [
 "barye",
-24
+24,
+[
+"Ba",
+"barad",
+"barie",
+"barrie",
+"bary",
+"baryd",
+"baryed"
+]
 ],
 [
 "degree Brix",
-24
+24,
+[
+"Brix",
+"°Bx"
+]
 ],
 [
 "inch of mercury",
-23
+23,
+[
+"″Hg",
+"inches of mercury",
+"inch of mercury column",
+"inHg"
+]
 ],
 [
 "standard acceleration of free fall",
-23
+23,
+[
+"acceleration due to gravity on Earth",
+"g",
+"g_0",
+"gee",
+"g-force",
+"g_n",
+"gravities",
+"g's",
+"standard acceleration of gravity",
+"standard gravity"
+]
 ],
 [
 "power of 10",
-23
+23,
+[
+"power of ten",
+"powers of ten"
+]
 ],
 [
 "terametre",
-23
+23,
+[
+"terametres",
+"Tm"
+]
 ],
 [
 "molar equivalent",
-23
+23,
+[
+"chemical equivalent",
+"eq",
+"equivalent",
+"Equivalent"
+]
 ],
 [
 "Planck density",
-23
+23,
+[]
 ],
 [
 "Planck force",
-23
+23,
+[]
 ],
 [
 "pulse",
-23
+23,
+[
+"electric impulse",
+"pulse signal"
+]
 ],
 [
 "yottametre",
-22
+22,
+[
+"Ym",
+"yottametres"
+]
 ],
 [
 "em",
-22
+22,
+[]
 ],
 [
 "jansky",
-22
+22,
+[]
 ],
 [
 "full-time equivalent",
-22
+22,
+[
+"FTE",
+"whole time equivalent",
+"WTE"
+]
 ],
 [
 "hand",
-22
+22,
+[]
 ],
 [
 "phon",
-22
+22,
+[]
 ],
 [
 "Cronbach's alpha",
-21
+21,
+[]
 ],
 [
 "pound-force",
-21
+21,
+[
+"lb",
+"lbf",
+"pound",
+"pound force",
+"poundforce",
+"pound of force",
+"pound (weight)",
+"pound weight",
+"pound-weight"
+]
 ],
 [
 "degree day",
-21
+21,
+[]
 ],
 [
 "banana equivalent dose",
-21
+21,
+[
+"BED"
+]
 ],
 [
 "yoctometre",
-21
+21,
+[
+"yactometres",
+"ym"
+]
 ],
 [
 "bel",
-21
+21,
+[
+"B"
+]
 ],
 [
 "bit per second",
-21
+21,
+[
+"bit/s",
+"bits per second",
+"bps"
+]
 ],
 [
 "MIPS",
-21
+21,
+[
+"Million instructions per second"
+]
 ],
 [
 "megabit per second",
-21
+21,
+[
+"Mbit/s",
+"Mbps",
+"Mb/s"
+]
 ],
 [
 "cicero",
-21
+21,
+[]
 ],
 [
 "cubic metre per second",
-21
+21,
+[
+"cubic meter per second",
+"cumec",
+"m3 per sec",
+"m3 per second",
+"m3/s",
+"m³/s"
+]
 ],
 [
 "einstein",
-21
+21,
+[]
 ],
 [
 "Planck energy",
-21
+21,
+[]
 ],
 [
 "mithqal",
-21
+21,
+[
+"Mithkal",
+"mithqaal",
+"mithqāl",
+"sextula",
+"&#x10194;"
+]
 ],
 [
 "denier",
-21
+21,
+[]
 ],
 [
 "ell",
-20
+20,
+[]
 ],
 [
 "x-height",
-20
+20,
+[
+"corpus size"
+]
 ],
 [
 "Planck pressure",
-20
+20,
+[]
 ],
 [
 "instructions per second",
-20
+20,
+[
+"IPS"
+]
 ],
 [
 "foot per second",
-20
+20,
+[
+"fps",
+"ft/s",
+"ft/sec"
+]
 ],
 [
 "phot",
-20
+20,
+[
+"ph"
+]
 ],
 [
 "lambert",
-20
+20,
+[
+"L"
+]
 ],
 [
 "Planck power",
-20
+20,
+[]
 ],
 [
 "ton",
-19
+19,
+[]
 ],
 [
 "statcoulomb",
-19
+19,
+[
+"electrostatic unit",
+"electrostatic unit of charge",
+"esu",
+"franklin",
+"statC",
+"statcoulombs"
+]
 ],
 [
 "rutherford",
-19
+19,
+[]
 ],
 [
 "hydrophilic-lipophilic balance",
-19
+19,
+[]
 ],
 [
 "batman",
-19
+19,
+[
+"baṭmān",
+"bātmān",
+"maund"
+]
 ],
 [
 "nat",
-19
+19,
+[
+"natural unit",
+"natural unit of information",
+"nepit",
+"nit"
+]
 ],
 [
 "hide",
-19
+19,
+[]
 ],
 [
 "attometre",
-19
+19,
+[
+"am",
+"attometres"
+]
 ],
 [
 "stilb",
-19
+19,
+[
+"candela per square centimeter",
+"candela per square centimetre",
+"sb"
+]
 ],
 [
 "decibel milliwatt",
-19
+19,
+[
+"dBm",
+"decibel milliwatts"
+]
 ],
 [
 "Planck voltage",
-18
+18,
+[]
 ],
 [
 "square yard",
-18
+18,
+[
+"square yards",
+"sq yd",
+"sqyd",
+"yd2",
+"yd²"
+]
 ],
 [
 "part per billion",
-18
+18,
+[
+"parts per billion"
+]
 ],
 [
 "zeptometre",
-18
+18,
+[
+"zeptometres",
+"zm"
+]
 ],
 [
 "exametre",
-18
+18,
+[
+"Em",
+"exametres"
+]
 ],
 [
 "petametre",
-18
+18,
+[
+"petametres",
+"Pm"
+]
 ],
 [
 "words per minute",
-18
+18,
+[
+"wpm",
+"WPM"
+]
 ],
 [
 "technical atmosphere",
-18
+18,
+[
+"at"
+]
 ],
 [
 "block",
-17
+17,
+[
+"block of data",
+"data block",
+"disk block",
+"logical block",
+"logical sector",
+"physical record",
+"sector"
+]
 ],
 [
 "Planck current",
-17
+17,
+[]
 ],
 [
 "field capacity",
-17
+17,
+[]
 ],
 [
 "gilbert",
-17
+17,
+[
+"Gb"
+]
 ],
 [
 "cubic foot",
-17
+17,
+[
+"cubic feet",
+"cu feet",
+"cu foot",
+"cu ft",
+"cu. ft.",
+"ft³"
+]
 ],
 [
 "shannon",
-17
+17,
+[
+"Sh"
+]
 ],
 [
 "mired",
-17
+17,
+[]
 ],
 [
 "rate equation",
-17
+17,
+[]
 ],
 [
 "kilobit per second",
-17
+17,
+[
+"Kbit/s",
+"kbps",
+"Kbps",
+"kb/s",
+"Kb/s"
+]
 ],
 [
 "texel",
-17
+17,
+[]
 ],
 [
 "Planck momentum",
-17
+17,
+[]
 ],
 [
 "zettametre",
-17
+17,
+[
+"zettametres",
+"Zm"
+]
 ],
 [
 "ampere-turn",
-17
+17,
+[
+"Ampere turn",
+"At"
+]
 ],
 [
 "equivalent weight",
-17
+17,
+[
+"gram equivalent"
+]
 ],
 [
 "sone",
-17
+17,
+[]
 ],
 [
 "Planck angular frequency",
-16
+16,
+[
+"Planck angular speed",
+"Planck frequency"
+]
 ],
 [
 "micromort",
-16
+16,
+[]
 ],
 [
 "rack unit",
-16
+16,
+[
+"1RU",
+"rackmount unit",
+"Rack-unit",
+"Rack Unit",
+"RU",
+"U"
+]
 ],
 [
 "unit of alcohol",
-16
+16,
+[
+"standard drink"
+]
 ],
 [
 "frames per second",
-16
+16,
+[
+"fps",
+"FPS",
+"frames/s",
+"frames/sec",
+"frames/second",
+"f/s"
+]
 ],
 [
 "Baumé degree",
-16
+16,
+[
+"Baume scale",
+"Baumé scale"
+]
 ],
 [
 "Mache",
-15
+15,
+[]
 ],
 [
 "stokes",
-15
+15,
+[
+"St",
+"stoke"
+]
 ],
 [
 "link",
-15
+15,
+[
+"Gunter's link",
+"link for Gunter's chain"
+]
 ],
 [
 "sthène",
-15
+15,
+[
+"sn",
+"sthene"
+]
 ],
 [
 "Living Planet Index",
-15
+15,
+[
+"LPI"
+]
 ],
 [
 "smoot",
-15
+15,
+[]
 ],
 [
 "pica",
-15
+15,
+[]
 ],
 [
 "kopa",
-15
+15,
+[
+"Schock",
+"Skock"
+]
 ],
 [
 "IOPS",
-15
+15,
+[
+"input/output operations per second",
+"I/O operations per second"
+]
 ],
 [
 "enzyme unit",
-15
+15,
+[
+"U",
+"unit"
+]
 ],
 [
 "lumen second",
-15
+15,
+[]
 ],
 [
 "colony-forming unit",
-15
+15,
+[
+"cfu",
+"CFU"
+]
 ],
 [
 "radian per second",
-14
+14,
+[
+"radians per second",
+"rad/s"
+]
 ],
 [
 "square inch",
-14
+14,
+[
+"in2",
+"sq in",
+"sqin",
+"square inches"
+]
 ],
 [
 "French gauge",
-14
+14,
+[
+"Charrière"
+]
 ],
 [
 "tex",
-14
+14,
+[]
 ],
 [
 "Planck impedance",
-14
+14,
+[]
 ],
 [
 "eotvos",
-14
+14,
+[
+"E"
+]
 ],
 [
 "omer",
-14
+14,
+[]
 ],
 [
 "statvolt",
-14
+14,
+[]
 ],
 [
 "cubic inch",
-14
+14,
+[
+"in³"
+]
 ],
 [
 "productivity",
-14
+14,
+[]
 ],
 [
 "number needed to treat",
-14
+14,
+[
+"NNT",
+"numbers needed to treat"
+]
 ],
 [
 "turnover number",
-14
+14,
+[
+"enzyme turnover",
+"Kcat"
+]
 ],
 [
 "candlepower",
-14
+14,
+[
+"candle power"
+]
 ],
 [
 "board foot",
-14
+14,
+[
+"board-foot",
+"Mfbm",
+"Mmfbm",
+"Superficial foot",
+"Super foot"
+]
 ],
 [
 "darcy",
-13
+13,
+[
+"darcy unit"
+]
 ],
 [
 "almud",
-13
+13,
+[]
 ],
 [
 "tonne-kilometre",
-13
+13,
+[
+"tkm",
+"tonne-kilometer"
+]
 ],
 [
 "langley",
-13
+13,
+[
+"Ly"
+]
 ],
 [
 "Watt Peak",
-13
+13,
+[
+"Nominal power in photovoltaic",
+"Nominal power (photovoltaic)",
+"Wp"
+]
 ],
 [
 "cubic yard",
-13
+13,
+[
+"yd³"
+]
 ],
 [
 "decade",
-13
+13,
+[
+"dec",
+"factor of 10",
+"factor of ten",
+"factors of 10",
+"factors of ten"
+]
 ],
 [
 "millibar",
-13
+13,
+[
+"mbar"
+]
 ],
 [
 "electron mass",
-13
+13,
+[
+"electron rest mass"
+]
 ],
 [
 "apostilb",
-13
+13,
+[
+"asb",
+"blondel"
+]
 ],
 [
 "mesh",
-13
+13,
+[]
 ],
 [
 "megahertz",
-13
+13,
+[
+"MHz",
+"㎒"
+]
 ],
 [
 "poundal",
-12
+12,
+[
+"lb ft/s²",
+"pdl"
+]
 ],
 [
 "gigabit per second",
-12
+12,
+[
+"Gbit/s",
+"Gbits/s",
+"Gbps",
+"Gb/s"
+]
 ],
 [
 "imperial horsepower",
-12
+12,
+[
+"bhp",
+"British horsepower",
+"horsepower",
+"Horse-power",
+"hp",
+"mechanical horsepower"
+]
 ],
 [
 "decibel watt",
-12
+12,
+[]
 ],
 [
 "decad",
-12
+12,
+[
+"Buddhist enumerations of 10",
+"Chinese enumerations of 10",
+"decad (concrete)",
+"decade",
+"enumeration of 10",
+"enumerations of 10",
+"group of 10",
+"Japanese enumerations of 10"
+]
 ],
 [
 "hartley",
-12
+12,
+[
+"ban",
+"dit",
+"Hart"
+]
 ],
 [
 "gigahertz",
-12
+12,
+[
+"GHz",
+"㎓"
+]
 ],
 [
 "newton second",
-12
+12,
+[
+"newton-second",
+"N s",
+"N·s"
+]
 ],
 [
 "Rayl",
-12
+12,
+[]
 ],
 [
 "Schoenus",
-12
+12,
+[]
 ],
 [
 "abampere",
-12
+12,
+[
+"abA"
+]
 ],
 [
 "ream",
-12
+12,
+[
+"Ries",
+"Rieß"
+]
 ],
 [
 "deben",
-11
+11,
+[]
 ],
 [
 "millimetre of water",
-11
+11,
+[
+"millimeter of water",
+"millimeters of water",
+"millimetres of water",
+"mm h20",
+"mm H2O",
+"mmH2O",
+"mm wc",
+"mmwc",
+"mm wg",
+"mmwg"
+]
 ],
 [
 "watt per metre kelvin",
-11
+11,
+[
+"watt per meter kelvin",
+"watt per metre kelvin difference",
+"W/(mK)",
+"W/mK"
+]
 ],
 [
 "metabolic equivalent",
-11
+11,
+[
+"MET",
+"Metabolic Equivalent of Task"
+]
 ],
 [
 "kilohertz",
-11
+11,
+[
+"kHz",
+"㎑"
+]
 ],
 [
 "osmole",
-11
+11,
+[]
 ],
 [
 "lines per inch",
-11
+11,
+[
+"lpi"
+]
 ],
 [
 "last",
-11
+11,
+[]
 ],
 [
 "kilojoule",
-11
+11,
+[
+"J",
+"kJ"
+]
 ],
 [
 "kilojoule per mole",
-11
+11,
+[
+"kJ/mol",
+"kJ mol^(-1)",
+"kJ mol⁻¹"
+]
 ],
 [
 "franklin",
-10
+10,
+[]
 ],
 [
 "biot",
-10
+10,
+[]
 ],
 [
 "centimetre of water",
-10
+10,
+[
+"centimeter of water"
+]
 ],
 [
 "gram per cubic centimetre",
-10
+10,
+[
+"g/cc",
+"g·cm−3",
+"g/cm^3",
+"gram/cc",
+"gram per cubic centimeter"
+]
 ],
 [
 "ligne",
-10
+10,
+[
+"line",
+"Paris line"
+]
 ],
 [
 "melt flow index",
-10
+10,
+[
+"MFI"
+]
 ],
 [
 "metre of water",
-10
+10,
+[
+"conventional metre of water",
+"meter of water",
+"meter of water column",
+"metre of water column"
+]
 ],
 [
 "ligand cone angle",
-10
+10,
+[]
 ],
 [
 "gravidity and parity",
-10
+10,
+[
+"parity and gravidity",
+"TPAL"
+]
 ],
 [
 "baker's dozen",
-10
+10,
+[
+"devil's dozen",
+"group of 13",
+"long dozen",
+"thirteen"
+]
 ],
 [
 "carbohydrate counting",
-10
+10,
+[
+"carb counting",
+"carbohydrates counting",
+"CHO counting"
+]
 ],
 [
 "pièze",
-10
+10,
+[
+"pieze",
+"pz"
+]
 ],
 [
 "insulin index",
-10
+10,
+[]
 ],
 [
 "Bubnoff unit",
-10
+10,
+[]
 ],
 [
 "abohm",
-9
+9,
+[]
 ],
 [
 "A-weighting",
-9
+9,
+[]
 ],
 [
 "pennyweight",
-9
+9,
+[
+"dwt",
+"pennyweights",
+"Troy pennyweight"
+]
 ],
 [
 "faraday",
-9
+9,
+[
+"F"
+]
 ],
 [
 "author's sheet",
-9
+9,
+[
+"author’s sheet"
+]
 ],
 [
 "foot-candle",
-9
+9,
+[
+"fc",
+"foot candle",
+"footcandle",
+"ft-c"
+]
 ],
 [
 "degrees of general hardness",
-9
+9,
+[
+"dGH"
+]
 ],
 [
 "Hefner candle",
-9
+9,
+[
+"Hefner-Kerze",
+"hefner unit"
+]
 ],
 [
 "apothecaries' scruple",
-9
+9,
+[
+"apothecary scruple",
+"scruple"
+]
 ],
 [
 "saa",
-9
+9,
+[
+"sa",
+"sa'",
+"saa (measure)",
+"sa (measure)"
+]
 ],
 [
 "en",
-9
+9,
+[
+"En",
+"En (typography)"
+]
 ],
 [
 "cubic foot per minute",
-9
+9,
+[
+"cfm",
+"cubic feet per minute"
+]
 ],
 [
 "signature",
-9
+9,
+[]
 ],
 [
 "megapixel",
-9
+9,
+[
+"MP"
+]
 ],
 [
 "Opera length",
-8
+8,
+[]
 ],
 [
 "toxic equivalency factor",
-8
+8,
+[
+"TEF",
+"toxic equivalent"
+]
 ],
 [
 "darwin",
-8
+8,
+[]
 ],
 [
 "rayleigh",
-8
+8,
+[]
 ],
 [
 "pinch",
-8
+8,
+[
+"Pinch",
+"pn"
+]
 ],
 [
 "pound-foot",
-8
+8,
+[
+"lb ft",
+"lb·ft"
+]
 ],
 [
 "kilopondmetre",
-8
+8,
+[
+"kilopondmeter"
+]
 ],
 [
 "arbitrary unit",
-8
+8,
+[
+"arb. unit",
+"p.d.u.",
+"procedure defined unit"
+]
 ],
 [
 "pascal second",
-8
+8,
+[]
 ],
 [
 "sack",
-8
+8,
+[
+"sck."
+]
 ],
 [
 "degree Plato",
-8
+8,
+[
+"°P"
+]
 ],
 [
 "lacunarity",
-8
+8,
+[]
 ],
 [
 "dollar",
-8
+8,
+[]
 ],
 [
 "homer",
-8
+8,
+[
+"cor",
+"khomer",
+"kor"
+]
 ],
 [
 "steric number",
-8
+8,
+[]
 ],
 [
 "inch of water",
-8
+8,
+[
+"Aq",
+"inAq",
+"inches of water",
+"inch of water column",
+"inch of water gauge",
+"inch water column",
+"in H20",
+"wc"
+]
 ],
 [
 "abcoulomb",
-8
+8,
+[
+"abC",
+"aC",
+"electromagnetic unit of charge",
+"emu of charge"
+]
 ],
 [
 "hectopascal",
-8
+8,
+[
+"hPa"
+]
 ],
 [
 "crown closure",
-8
+8,
+[]
 ],
 [
 "international mile",
-8
+8,
+[
+"imperial mile",
+"imperial miles",
+"international miles",
+"mile",
+"miles",
+"statute mile"
+]
 ],
 [
 "passenger car equivalent",
-8
+8,
+[
+"car units",
+"passenger car unit",
+"PCE",
+"PCU"
+]
 ],
 [
 "tog",
-8
+8,
+[]
 ],
 [
 "Bloom",
-8
+8,
+[]
 ],
 [
 "water retention curve",
-8
+8,
+[]
 ],
 [
 "Electrochemical equivalent",
-8
+8,
+[]
 ],
 [
 "cord",
-8
+8,
+[]
 ],
 [
 "savart",
-7
+7,
+[]
 ],
 [
 "ball",
-7
+7,
+[]
 ],
 [
 "millioctave",
-7
+7,
+[
+"moct"
+]
 ],
 [
 "butt",
-7
+7,
+[]
 ],
 [
 "parts per trillion",
-7
+7,
+[
+"part per trillion",
+"ppt",
+"PPT"
+]
 ],
 [
 "abvolt",
-7
+7,
+[
+"Abavolt",
+"abV"
+]
 ],
 [
 "dBZ",
-7
+7,
+[]
 ],
 [
 "years of potential life lost",
-7
+7,
+[
+"potential years of life lost",
+"PYLL",
+"YPLL"
+]
 ],
 [
 "joule per kilogram kelvin",
-7
+7,
+[
+"J K⁻¹ kg⁻¹",
+"J kg⁻¹ K⁻¹",
+"joule per kilogram-kelvin"
+]
 ],
 [
 "schoppen",
-7
+7,
+[]
 ],
 [
 "R-value",
-7
+7,
+[
+"RSI-value"
+]
 ],
 [
 "volt per metre",
-7
+7,
+[
+"V/m",
+"volt per meter"
+]
 ],
 [
 "eman",
-7
+7,
+[]
 ],
 [
 "degree Rankine",
-7
+7,
+[
+"degrees Rankine"
+]
 ],
 [
 "foot per square second",
-7
+7,
+[
+"foot per second squared",
+"foot/second squared",
+"foot/square second",
+"ft/s2",
+"ft/s²"
+]
 ],
 [
 "amagat",
-7
+7,
+[
+"amg"
+]
 ],
 [
 "trit",
-7
+7,
+[
+"ternary digit",
+"trinary digit"
+]
 ],
 [
 "Crab",
-7
+7,
+[
+"Crab unit"
+]
 ],
 [
 "Dirichlet's energy",
-7
+7,
+[]
 ],
 [
 "expansion ratio",
-7
+7,
+[]
 ],
 [
 "foot-lambert",
-7
+7,
+[
+"footlambert"
+]
 ],
 [
 "long hundred",
-7
+7,
+[
+"great hundred",
+"hundred",
+"small gross",
+"twelfty"
+]
 ],
 [
 "okta",
-7
+7,
+[]
 ],
 [
 "poiseuille",
-7
+7,
+[
+"Pl"
+]
 ],
 [
 "solar neutrino unit",
-7
+7,
+[]
 ],
 [
 "pertica",
-6
+6,
+[]
 ],
 [
 "terabit per second",
-6
+6,
+[
+"Tbit/s",
+"Tbits",
+"Tbps",
+"Tb/s"
+]
 ],
 [
 "terahertz",
-6
+6,
+[
+"THz"
+]
 ],
 [
 "kilogram-force per square centimetre",
-6
+6,
+[
+"kg/cm2",
+"kgf/cm2",
+"kilogram force per square centimeter",
+"kp/cm2",
+"ksc"
+]
 ],
 [
 "megadeath",
-6
+6,
+[
+"megacorpse"
+]
 ],
 [
 "gamma",
-6
+6,
+[]
 ],
 [
 "large-print",
-6
+6,
+[
+"large font",
+"large-font",
+"large print",
+"large type",
+"large-type"
+]
 ],
 [
 "IRE",
-6
+6,
+[
+"IRE for NTSC signal"
+]
 ],
 [
 "Lachter",
-6
+6,
+[]
 ],
 [
 "score",
-6
+6,
+[
+"points score",
+"score in sports",
+"sport score"
+]
 ],
 [
 "milliampere",
-6
+6,
+[
+"mA",
+"㎃",
+"milliamperes"
+]
 ],
 [
 "Bacon number",
-6
+6,
+[]
 ],
 [
 "kilobase pair",
-6
+6,
+[
+"kbp",
+"kilobase"
+]
 ],
 [
 "microampere",
-6
+6,
+[
+"µA",
+"㎂"
+]
 ],
 [
 "aerobic threshold",
-6
+6,
+[
+"AerT",
+"AeT"
+]
 ],
 [
 "thomson",
-6
+6,
+[]
 ],
 [
 "sokha",
-6
+6,
+[]
 ],
 [
 "langmuir",
-6
+6,
+[]
 ],
 [
 "abhenry",
-6
+6,
+[]
 ],
 [
 "cubic foot per second",
-6
+6,
+[
+"cfs",
+"cubic feet per second",
+"cu ft/s",
+"cusec",
+"ft3/s",
+"ft³/s",
+"ft^3/sec",
+"ft3/sec",
+"ft³/sec"
+]
 ],
 [
 "vector group",
-6
+6,
+[]
 ],
 [
 "plaque-forming unit",
-6
+6,
+[
+"PFU"
+]
 ],
 [
 "byte per second",
-6
+6,
+[
+"Bps",
+"B/s",
+"byte/s"
+]
 ],
 [
 "olf",
-6
+6,
+[]
 ],
 [
 "terajoule",
-5
+5,
+[]
 ],
 [
 "cumulative incidence",
-5
+5,
+[]
 ],
 [
 "ronnametre",
-5
+5,
+[
+"Rm",
+"ronnametres"
+]
 ],
 [
 "quettametre",
-5
+5,
+[
+"Qm",
+"quettametres"
+]
 ],
 [
 "poronkusema",
-5
+5,
+[]
 ],
 [
 "ton of coal equivalent",
-5
+5,
+[
+"tce",
+"tonne of coal equivalent"
+]
 ],
 [
 "megajoule",
-5
+5,
+[
+"MJ"
+]
 ],
 [
 "mudd",
-5
+5,
+[
+"mud"
+]
 ],
 [
 "joule second",
-5
+5,
+[
+"joule-second",
+"Js"
+]
 ],
 [
 "metre water equivalent",
-5
+5,
+[
+"meter water equivalent"
+]
 ],
 [
 "Lot (fineness)",
-5
+5,
+[]
 ],
 [
 "megapascal",
-5
+5,
+[
+"Mega Pascal",
+"MPa",
+"㎫",
+"Newton per millimeter squared",
+"N/mm²"
+]
 ],
 [
 "international candle",
-5
+5,
+[]
 ],
 [
 "revision soul",
-5
+5,
+[]
 ],
 [
 "octave band",
-5
+5,
+[]
 ],
 [
 "Didot point",
-5
+5,
+[]
 ],
 [
 "statohm",
-5
+5,
+[]
 ],
 [
 "kilovolt",
-5
+5,
+[
+"kV"
+]
 ],
 [
 "statampere",
-5
+5,
+[
+"statA"
+]
 ],
 [
 "kayser",
-5
+5,
+[
+"rydberg"
+]
 ],
 [
 "picofarad",
-5
+5,
+[
+"pF"
+]
 ],
 [
 "synodic month",
-5
+5,
+[
+"synodal month"
+]
 ],
 [
 "dBFS",
-5
+5,
+[]
 ],
 [
 "reyn",
-5
+5,
+[]
 ],
 [
 "literacy rate",
-5
+5,
+[
+"literacy index"
+]
 ],
 [
 "Quinaria",
-5
+5,
+[]
 ],
 [
 "virgate",
-5
+5,
+[
+"yardland",
+"yard of land"
+]
 ],
 [
 "step",
-5
+5,
+[
+"diatonic step",
+"musical step",
+"scale step",
+"skip",
+"step of a scale",
+"whole or half step"
+]
 ],
 [
 "carcel",
-5
+5,
+[]
 ],
 [
 "kilocalorie per mole",
-5
+5,
+[
+"kcal/mol",
+"thermocaloric kilocalorie per mole"
+]
 ],
 [
 "leaf wetness",
-5
+5,
+[]
 ],
 [
 "townsend",
-5
+5,
+[]
 ],
 [
 "Saybolt universal second",
-5
+5,
+[]
 ],
 [
 "nox",
-5
+5,
+[]
 ],
 [
 "clo",
-4
+4,
+[]
 ],
 [
 "clausius",
-4
+4,
+[]
 ],
 [
 "fjerding",
-4
+4,
+[]
 ],
 [
 "rontometre",
-4
+4,
+[
+"rm",
+"rontometres"
+]
 ],
 [
 "quectometre",
-4
+4,
+[
+"qm",
+"quectometres"
+]
 ],
 [
 "daraf",
-4
+4,
+[]
 ],
 [
 "decipol",
-4
+4,
+[]
 ],
 [
 "Amphora",
-4
+4,
+[]
 ],
 [
 "carucate",
-4
+4,
+[
+"carrucate",
+"Carucate"
+]
 ],
 [
 "Engler degree",
-4
+4,
+[]
 ],
 [
 "full load hour",
-4
+4,
+[
+"full load hours"
+]
 ],
 [
 "ten",
-4
+4,
+[]
 ],
 [
 "dBc",
-4
+4,
+[]
 ],
 [
 "solar flux unit",
-4
+4,
+[
+"sfu",
+"SFU"
+]
 ],
 [
 "degree Balling",
-4
+4,
+[
+"°Balling"
+]
 ],
 [
 "moio",
-4
+4,
+[]
 ],
 [
 "prism dioptre",
-4
+4,
+[
+"prism diopter"
+]
 ],
 [
 "millivolt",
-4
+4,
+[
+"mV"
+]
 ],
 [
 "microfarad",
-4
+4,
+[
+"microfarads",
+"uf",
+"μF"
+]
 ],
 [
 "ampere per metre",
-4
+4,
+[
+"ampere per meter"
+]
 ],
 [
 "craniofacial angle",
-4
+4,
+[
+"Camper's measurements of facial angle",
+"facial angle",
+"sphenomaxillary angle"
+]
 ],
 [
 "high-power field",
-4
+4,
+[
+"high power field",
+"HPF"
+]
 ],
 [
 "mantal",
-4
+4,
+[]
 ],
 [
 "actus",
-4
+4,
+[]
 ],
 [
 "kilometre per second",
-4
+4,
+[
+"kilometer per second",
+"kilometers per second",
+"km/s",
+"kps"
+]
 ],
 [
 "Yule's Q",
-4
+4,
+[]
 ],
 [
 "apothecaries' drachm",
-4
+4,
+[
+"apothecaries' dram",
+"drachm",
+"dram"
+]
 ],
 [
 "buckingham",
-4
+4,
+[]
 ],
 [
 "gauge",
-4
+4,
+[]
 ],
 [
 "jō",
-4
+4,
+[
+"chang",
+"jang",
+"jō (length)",
+"zhang",
+"丈"
+]
 ],
 [
 "Hartkorn",
-4
+4,
+[]
 ],
 [
 "acoustic ohm",
-4
+4,
+[]
 ],
 [
 "Animal unit",
-4
+4,
+[]
 ],
 [
 "Bodansky unit",
-4
+4,
+[]
 ],
 [
 "bril",
-4
+4,
+[]
 ],
 [
 "Cellulase Unit",
-4
+4,
+[]
 ],
 [
 "copper units of pressure",
-4
+4,
+[]
 ],
 [
 "gigapascal",
-4
+4,
+[
+"GPa"
+]
 ],
 [
 "nanoampere",
-4
+4,
+[
+"nA",
+"nanoamp"
+]
 ],
 [
 "faggot",
-4
+4,
+[
+"fagate",
+"fagatt",
+"faget",
+"fagett",
+"faggat",
+"faggott",
+"fagot",
+"fagott",
+"fascis",
+"ffagott",
+"long faggot",
+"short faggot"
+]
 ],
 [
 "kilonewton",
-4
+4,
+[
+"kN"
+]
 ],
 [
 "Siemens mercury unit",
-4
+4,
+[]
 ],
 [
 "spat",
-4
+4,
+[]
 ],
 [
 "troland",
-4
+4,
+[
+"photon"
+]
 ],
 [
 "gram per litre",
-4
+4,
+[
+"g/l",
+"g/L",
+"gram per liter",
+"grams per liter"
+]
 ],
 [
 "Hawking Index",
-4
+4,
+[]
 ],
 [
 "petafarad",
-4
+4,
+[
+"PF"
+]
 ],
 [
 "Puttonyos",
-4
+4,
+[]
+],
+[
+"man-year",
+3,
+[]
+],
+[
+"bag",
+3,
+[
+"bags"
+]
+],
+[
+"reciprocal metre",
+3,
+[
+"1/m",
+"inverse meter",
+"inverse metre",
+"m^-1",
+"m⁻¹",
+"metre to the power minus one",
+"per meter",
+"permeter",
+"per metre",
+"permetre",
+"reciprocal meter"
+]
+],
+[
+"ol",
+3,
+[]
+],
+[
+"kilobyte per second",
+3,
+[]
+],
+[
+"megabyte per second",
+3,
+[
+"MBps",
+"MB/s"
+]
+],
+[
+"skot",
+3,
+[
+"sk"
+]
+],
+[
+"mho",
+3,
+[]
+],
+[
+"great gross",
+3,
+[
+"grand gross"
+]
+],
+[
+"microcoulomb",
+3,
+[
+"µC"
+]
+],
+[
+"Planck volume",
+3,
+[]
+],
+[
+"load",
+3,
+[
+"fother",
+"Load"
+]
+],
+[
+"standard cubic centimeters per minute",
+3,
+[]
+],
+[
+"microvolt",
+3,
+[]
+],
+[
+"Byzantine units of measurement",
+3,
+[]
+],
+[
+"kilopascal",
+3,
+[
+"kPa"
+]
+],
+[
+"new candle",
+3,
+[]
+],
+[
+"röntgen equivalent physical",
+3,
+[
+"rep"
+]
+],
+[
+"nanocoulomb",
+3,
+[
+"nC"
+]
+],
+[
+"speech interference level",
+3,
+[]
+],
+[
+"stopa",
+3,
+[]
+],
+[
+"piece",
+3,
+[
+"apiece",
+"article",
+"ea",
+"ea.",
+"EA",
+"each",
+"pc",
+"pc.",
+"pcs",
+"pieces"
+]
+],
+[
+"millisievert",
+3,
+[
+"mSv"
+]
+],
+[
+"revolution",
+3,
+[]
+],
+[
+"nanosievert",
+3,
+[
+"nSv"
+]
+],
+[
+"Livestock grazing comparison",
+3,
+[]
+],
+[
+"aas",
+3,
+[]
+],
+[
+"gigabyte per second",
+3,
+[
+"GB/s"
+]
+],
+[
+"millicurie",
+3,
+[]
+],
+[
+"kiloohm",
+3,
+[
+"kilohm",
+"kΩ"
+]
+],
+[
+"megaohm",
+3,
+[
+"megohm",
+"MΩ"
+]
+],
+[
+"kilocalorie",
+3,
+[
+"calorie",
+"Calorie",
+"food calorie",
+"kilogram calorie",
+"large calorie",
+"thermochemical kilocalorie"
+]
+],
+[
+"centistokes",
+3,
+[
+"cSt"
+]
+],
+[
+"centipoise",
+3,
+[]
+],
+[
+"microhenry",
+3,
+[
+"µH"
+]
+],
+[
+"nanofarad",
+3,
+[
+"nF"
+]
+],
+[
+"microsievert",
+3,
+[
+"µSv"
+]
+],
+[
+"gigavolt",
+3,
+[
+"GV"
+]
+],
+[
+"millihenry",
+3,
+[
+"mH"
+]
+],
+[
+"parts per quadrillion",
+3,
+[
+"part per quadrillion",
+"ppq"
+]
+],
+[
+"square metre per second",
+3,
+[
+"m²/s",
+"meter squared per second",
+"metre squared per second",
+"square meter per second"
+]
+],
+[
+"Schmerber",
+3,
+[]
+],
+[
+"milliampere hour",
+3,
+[
+"mA h",
+"mA⋅h",
+"mAh",
+"milliampere-hour",
+"milliamp hour"
+]
+],
+[
+"passengers per hour per direction",
+3,
+[
+"passenger throughput",
+"p/h/d"
+]
+],
+[
+"Swiss units of measurement",
+3,
+[]
+],
+[
+"page spread",
+3,
+[
+"double page",
+"double spread",
+"spread"
+]
+],
+[
+"millifarad",
+3,
+[
+"mF"
+]
+],
+[
+"Ald",
+3,
+[]
+],
+[
+"vitasti",
+3,
+[]
+],
+[
+"billion cubic metres of natural gas",
+3,
+[]
+],
+[
+"Brewster",
+3,
+[]
+],
+[
+"circular mil",
+3,
+[
+"circular thou"
+]
+],
+[
+"petahertz",
+3,
+[
+"PHz"
+]
+],
+[
+"gigajoule",
+3,
+[]
+],
+[
+"petajoule",
+3,
+[]
+],
+[
+"exajoule",
+3,
+[]
+],
+[
+"zettajoule",
+3,
+[
+"ZJ"
+]
+],
+[
+"yottajoule",
+3,
+[
+"YJ"
+]
+],
+[
+"zeptojoule",
+3,
+[]
+],
+[
+"picojoule",
+3,
+[]
+],
+[
+"nanojoule",
+3,
+[]
+],
+[
+"millijoule",
+3,
+[]
+],
+[
+"megaampere",
+3,
+[
+"mA",
+"mega amp"
+]
+],
+[
+"zeptoampere",
+3,
+[]
+],
+[
+"yoctoampere",
+3,
+[
+"Yoktoampere"
+]
+],
+[
+"centiampere",
+3,
+[]
+],
+[
+"gigaampere",
+3,
+[]
+],
+[
+"picoampere",
+3,
+[
+"pA",
+"picoamp"
+]
+],
+[
+"teraampere",
+3,
+[]
+],
+[
+"millimole",
+3,
+[
+"mmol"
+]
+],
+[
+"micromole",
+3,
+[
+"umol",
+"μmol"
+]
+],
+[
+"nanomole",
+3,
+[
+"nmol"
+]
+],
+[
+"Persoz hardness",
+3,
+[]
+],
+[
+"Jar",
+3,
+[]
+],
+[
+"perm",
+3,
+[]
+],
+[
+"strontium unit",
+3,
+[]
+],
+[
+"surface feet per minute",
+3,
+[
+"SFM",
+"SFPM"
+]
+],
+[
+"survey township",
+3,
+[
+"congressional township",
+"township"
+]
+],
+[
+"Twaddell scale",
+3,
+[]
+],
+[
+"meganewton",
+3,
+[
+"MN"
+]
+],
+[
+"millitesla",
+3,
+[
+"mT"
+]
+],
+[
+"picocoulomb",
+3,
+[
+"pC"
+]
+],
+[
+"millinewton",
+3,
+[
+"mN"
+]
+],
+[
+"decanewton",
+3,
+[
+"daN"
+]
+],
+[
+"Kast",
+2,
+[]
+],
+[
+"volt-ampere hour reactive",
+2,
+[
+"VArh",
+"volt-ampere-hour reactive",
+"volt-ampere-reactive hour"
+]
+],
+[
+"forty-foot equivalent unit",
+2,
+[
+"FEU"
+]
+],
+[
+"mouse unit",
+2,
+[]
+],
+[
+"thread count",
+2,
+[]
+],
+[
+"Miurg",
+2,
+[]
+],
+[
+"Hubble length",
+2,
+[]
+],
+[
+"apothecaries' ounce",
+2,
+[]
+],
+[
+"rod",
+2,
+[
+"rods",
+"rod (US survey)",
+"United States survey rod",
+"United States survey rods",
+"U.S. survey rod",
+"US survey rod",
+"U.S. survey rods",
+"US survey rods"
+]
+],
+[
+"milligal",
+2,
+[]
+],
+[
+"Tylft",
+2,
+[
+"Tylvt"
+]
+],
+[
+"line pairs per millimetre",
+2,
+[
+"line pairs per millimeter",
+"LP/mm"
+]
+],
+[
+"Surface imperfections",
+2,
+[
+"Optical finish",
+"Scratch and Dig",
+"S&D",
+"Surface roughness specification"
+]
+],
+[
+"million standard cubic feet per day",
+2,
+[
+"MMSCFD",
+"MMSCF/day"
+]
+],
+[
+"abfarad",
+2,
+[
+"abF"
+]
+],
+[
+"fibre year",
+2,
+[]
+],
+[
+"stathenry",
+2,
+[]
+],
+[
+"centigon",
+2,
+[
+"centesimal arcminute"
+]
+],
+[
+"milligon",
+2,
+[]
+],
+[
+"centesimal arcsecond",
+2,
+[]
+],
+[
+"Prony",
+2,
+[]
+],
+[
+"ohm metre",
+2,
+[
+"ohm meter"
+]
+],
+[
+"Esterling",
+2,
+[]
+],
+[
+"truss",
+2,
+[]
+],
+[
+"Henry's Law constant",
+2,
+[]
+],
+[
+"Hundred",
+2,
+[]
+],
+[
+"quire",
+2,
+[]
+],
+[
+"oxgang",
+2,
+[
+"oxgate, oxland, bovate"
+]
+],
+[
+"centimetre per second",
+2,
+[
+"centimeter per second",
+"cm/s"
+]
+],
+[
+"micronaire",
+2,
+[]
+],
+[
+"Nephelometric Turbidity Unit",
+2,
+[
+"nefelometric",
+"Nephelometric Turbidity Units",
+"NTU"
+]
+],
+[
+"kibibit per second",
+2,
+[
+"Kibps",
+"Kib/s"
+]
+],
+[
+"portion",
+2,
+[]
+],
+[
+"cubic metre per mole",
+2,
+[
+"cubic meter per mole",
+"m3/mol"
+]
+],
+[
+"strength of ships",
+2,
+[]
+],
+[
+"concrete compression strength",
+2,
+[]
+],
+[
+"helen",
+2,
+[
+"millihelen"
+]
+],
+[
+"Kosten unit",
+2,
+[]
+],
+[
+"stat",
+2,
+[]
+],
+[
+"gallon (UK)",
+2,
+[
+"gal",
+"gallon",
+"imperial gallon"
+]
+],
+[
+"statmho",
+2,
+[]
+],
+[
+"megabase pair",
+2,
+[
+"Mbp"
+]
+],
+[
+"Windisch–Kolbach unit",
+2,
+[]
+],
+[
+"perfect octave",
+2,
+[
+"perfect eighth"
+]
+],
+[
+"megavolt",
+2,
+[
+"MV"
+]
+],
+[
+"statfarad",
+2,
+[]
+],
+[
+"kilobar",
+2,
+[]
+],
+[
+"nanohenry",
+2,
+[
+"nH"
+]
+],
+[
+"kilocandela",
+2,
+[
+"kcd"
+]
+],
+[
+"metre sea water",
+2,
+[]
+],
+[
+"fluid scruple",
+2,
+[
+"scruple"
+]
+],
+[
+"millicandela",
+2,
+[
+"mcd"
+]
+],
+[
+"attoampere",
+2,
+[
+"aA",
+"Attoampere"
+]
+],
+[
+"attojoule",
+2,
+[]
+],
+[
+"Cartier degree",
+2,
+[]
+],
+[
+"abas",
+2,
+[
+"abbasi"
+]
+],
+[
+"Flashes Per Minute",
+2,
+[]
+],
+[
+"main",
+2,
+[]
+],
+[
+"Gregorian year",
+2,
+[
+"average Gregorian year",
+"mean Gregorian year"
+]
+],
+[
+"comic page",
+2,
+[
+"comic plate",
+"page (comic)",
+"page of a comic",
+"plate (comic)",
+"plate of a comic"
+]
+],
+[
+"sulung",
+2,
+[]
+],
+[
+"abmho",
+2,
+[]
+],
+[
+"abucco",
+2,
+[]
+],
+[
+"agate",
+2,
+[
+"ruby"
+]
+],
+[
+"one-third octave",
+2,
+[
+"decidecade"
+]
+],
+[
+"Buddam",
+2,
+[]
+],
+[
+"damage per second",
+2,
+[
+"DPS"
+]
+],
+[
+"standard cubic feet per minute",
+2,
+[
+"scfm"
+]
+],
+[
+"Degree Lintner",
+2,
+[]
+],
+[
+"exahertz",
+2,
+[
+"EHz"
+]
+],
+[
+"yoctojoule",
+2,
+[]
+],
+[
+"femtojoule",
+2,
+[
+"fJ"
+]
+],
+[
+"micropascal",
+2,
+[
+"μPa"
+]
+],
+[
+"decapascal",
+2,
+[
+"daPa"
+]
+],
+[
+"nanovolt",
+2,
+[]
+],
+[
+"kiloampere",
+2,
+[
+"kA",
+"kiloamp"
+]
+],
+[
+"femtoampere",
+2,
+[
+"fA"
+]
+],
+[
+"petaampere",
+2,
+[]
+],
+[
+"zettaampere",
+2,
+[]
+],
+[
+"yottaampere",
+2,
+[]
+],
+[
+"Livestock Unit",
+2,
+[
+"LSU"
+]
+],
+[
+"zettatesla",
+2,
+[
+"ZT"
+]
+],
+[
+"zettanewton",
+2,
+[
+"ZN"
+]
+],
+[
+"zettacoulomb",
+2,
+[]
+],
+[
+"zettafarad",
+2,
+[
+"ZF"
+]
+],
+[
+"zettahenry",
+2,
+[]
+],
+[
+"Flick",
+2,
+[]
+],
+[
+"Flik",
+2,
+[]
+],
+[
+"gross ton mile",
+2,
+[]
+],
+[
+"picomole",
+2,
+[
+"pmol"
+]
+],
+[
+"Persons approximately",
+2,
+[
+"Pax"
+]
+],
+[
+"dBi",
+2,
+[]
+],
+[
+"hectad",
+2,
+[
+"group of 100",
+"hectad (concrete)",
+"hundred"
+]
+],
+[
+"mile (US survey)",
+2,
+[
+"mile (based on U.S. survey foot)",
+"statue miles",
+"statute mile",
+"survey mile",
+"survey miles",
+"United States survey mile",
+"United States survey miles",
+"U.S. statute mile",
+"US statute mile",
+"U.S. statute miles",
+"US statute miles",
+"U.S. survey mile",
+"US survey mile",
+"U.S. survey miles",
+"US survey miles"
+]
+],
+[
+"international fathom",
+2,
+[
+"fathom"
+]
+],
+[
+"Jow",
+2,
+[]
+],
+[
+"kilometre per square kilometre",
+2,
+[]
+],
+[
+"kip",
+2,
+[
+"kilopound-force",
+"klb"
+]
+],
+[
+"number needed to vaccinate",
+2,
+[]
+],
+[
+"Paris inch",
+2,
+[
+"French inch",
+"pouce"
+]
+],
+[
+"Passeree",
+2,
+[
+"Possare"
+]
+],
+[
+"penrig",
+2,
+[]
+],
+[
+"per cent mille",
+2,
+[
+"pcm",
+"per 100 000"
+]
+],
+[
+"pound per hour",
+2,
+[
+"PPH"
+]
+],
+[
+"protein nitrogen unit",
+2,
+[]
+],
+[
+"traversed edges per second",
+2,
+[
+"GTEPS",
+"TEPS",
+"Traversed Edges Per Second"
+]
+],
+[
+"wine gallon",
+2,
+[
+"gallon",
+"Queen Anne's gallon",
+"Queen Anne's wine gallon"
+]
+],
+[
+"Barrer",
+2,
+[
+"10−10 cm3 (STP) · cm /cm2 · s · cm-Hg"
+]
+],
+[
+"Adamcova míra",
+2,
+[]
+],
+[
+"teaspoon",
+2,
+[
+"metric teaspoon",
+"teaspoonful"
+]
+],
+[
+"miles per gallon",
+2,
+[
+"mpg"
+]
+],
+[
+"petacoulomb",
+2,
+[
+"PC"
+]
+],
+[
+"gigacoulomb",
+2,
+[
+"GC"
+]
+],
+[
+"yottacoulomb",
+2,
+[
+"YC"
+]
+],
+[
+"giganewton",
+2,
+[
+"GN"
+]
+],
+[
+"yottanewton",
+2,
+[
+"YN"
+]
+],
+[
+"petanewton",
+2,
+[
+"PN"
+]
+],
+[
+"microsiemens",
+2,
+[
+"µS"
+]
+],
+[
+"microtesla",
+2,
+[
+"µT"
+]
+],
+[
+"gigabecquerel",
+2,
+[
+"GBq"
+]
+],
+[
+"megabecquerel",
+2,
+[
+"MBq"
+]
+],
+[
+"kilobecquerel",
+2,
+[
+"kBq"
+]
+],
+[
+"megacoulomb",
+2,
+[
+"MC"
+]
+],
+[
+"teracoulomb",
+2,
+[
+"TC"
+]
+],
+[
+"millicoulomb",
+2,
+[
+"mC"
+]
+],
+[
+"megagray",
+2,
+[
+"MGy"
+]
+],
+[
+"yottafarad",
+2,
+[
+"YF"
+]
+],
+[
+"terafarad",
+2,
+[
+"TF"
+]
+],
+[
+"gigafarad",
+2,
+[
+"GF"
+]
+],
+[
+"zeptocoulomb",
+2,
+[]
+],
+[
+"yoctocoulomb",
+2,
+[
+"yC"
+]
+],
+[
+"zeptofarad",
+2,
+[]
+],
+[
+"exafarad",
+2,
+[
+"EF"
+]
+],
+[
+"yoctofarad",
+2,
+[
+"yF"
+]
+],
+[
+"millilux",
+2,
+[
+"mlx"
+]
+],
+[
+"teranewton",
+2,
+[
+"TN"
+]
+],
+[
+"yoctonewton",
+2,
+[
+"yN"
+]
+],
+[
+"zeptonewton",
+2,
+[
+"zN"
+]
+],
+[
+"exanewton",
+2,
+[
+"EN"
+]
+],
+[
+"piconewton",
+2,
+[
+"pN"
+]
+],
+[
+"picotesla",
+2,
+[
+"pT"
+]
+],
+[
+"gigahenry",
+2,
+[
+"GH"
+]
+],
+[
+"petahenry",
+2,
+[
+"PH"
+]
+],
+[
+"yottahenry",
+2,
+[
+"YH"
+]
+],
+[
+"terahenry",
+2,
+[
+"TH"
+]
+],
+[
+"megahenry",
+2,
+[
+"MH"
+]
+],
+[
+"yoctohenry",
+2,
+[
+"yH"
+]
+],
+[
+"exahenry",
+2,
+[
+"EH"
+]
+],
+[
+"picohenry",
+2,
+[
+"pH"
+]
+],
+[
+"zeptohenry",
+2,
+[
+"zH"
+]
+],
+[
+"petatesla",
+2,
+[
+"PT"
+]
+],
+[
+"yottatesla",
+2,
+[
+"YT"
+]
+],
+[
+"gigatesla",
+2,
+[
+"GT"
+]
+],
+[
+"megatesla",
+2,
+[
+"MT"
+]
+],
+[
+"hectotesla",
+2,
+[
+"hT"
+]
+],
+[
+"teratesla",
+2,
+[
+"TT"
+]
+],
+[
+"zeptotesla",
+2,
+[]
+],
+[
+"yoctotesla",
+2,
+[
+"yT"
+]
+],
+[
+"exatesla",
+2,
+[
+"ET"
+]
+],
+[
+"proton mass",
+2,
+[
+"proton rest mass"
+]
 ]
 ]

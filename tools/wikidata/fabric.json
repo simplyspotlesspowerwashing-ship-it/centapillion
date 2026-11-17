@@ -1,878 +1,3287 @@
 [
 [
 "silk",
-135
+135,
+[
+"silk fiber"
+]
 ],
 [
 "blanket",
-94
+94,
+[]
 ],
 [
 "curtain",
-89
+89,
+[
+"drape",
+"window treatment"
+]
 ],
 [
 "mattress",
-82
+82,
+[]
 ],
 [
 "yarn",
-79
+79,
+[]
 ],
 [
 "felt",
-70
+70,
+[]
 ],
 [
 "batik",
-69
+69,
+[
+"bathik",
+"Javanese dyeing technique",
+"Javanese fabric",
+"Javanese heritage cloth",
+"royal Javanese cloth"
+]
 ],
 [
 "tapestry",
-63
+63,
+[
+"gobelin",
+"hanging",
+"woven tapestry"
+]
 ],
 [
 "airbag",
-62
+62,
+[
+"air bag",
+"air bags",
+"airbags",
+"New airbag",
+"Supplementary Restraint System"
+]
 ],
 [
 "lace",
-60
+60,
+[
+"lacework"
+]
 ],
 [
 "tablecloth",
-58
+58,
+[
+"table cloth",
+"Tablecloths",
+"table cover"
+]
 ],
 [
 "bed sheet",
-57
+57,
+[
+"bedsheet",
+"Bed Sheets",
+"sheet"
+]
 ],
 [
 "thread",
-56
+56,
+[]
 ],
 [
 "linen",
-52
+52,
+[]
 ],
 [
 "napkin",
-50
+50,
+[
+"cloth napkin",
+"face towelette"
+]
 ],
 [
 "mosquito net",
-47
+47,
+[
+"bednet",
+"mosquito nets",
+"mosquito netting",
+"wire blinds"
+]
 ],
 [
 "bedding",
-43
+43,
+[
+"bedclothes",
+"Bedding",
+"bed linen"
+]
 ],
 [
 "denim",
-43
+43,
+[]
 ],
 [
 "woven fabric",
-39
+39,
+[
+"woven cloth",
+"woven textile"
+]
 ],
 [
 "tarpaulin",
-39
+39,
+[
+"tarp"
+]
 ],
 [
 "catgut",
-35
+35,
+[]
 ],
 [
 "ribbon",
-35
+35,
+[
+"award ribbon",
+"band",
+"gymnastics ribbon",
+"narrow work",
+"narrowware",
+"prize rosette",
+"rhythmic gymnastics ribbon",
+"riband (ribbon)",
+"riband ribbon",
+"ribbon (material)",
+"ribbon material",
+"rosette"
+]
 ],
 [
 "duvet",
-34
+34,
+[
+"comforter"
+]
 ],
 [
 "cushion",
-33
+33,
+[]
 ],
 [
 "artificial leather",
-33
+33,
+[
+"fake leather",
+"faux leather",
+"imitation leather",
+"leatherette",
+"synthetic leather",
+"vegan leather"
+]
 ],
 [
 "baby sling",
-30
+30,
+[
+"mei tai",
+"pouch carrier",
+"soft structured carrier",
+"SSC",
+"stretchy wrap",
+"woven wrap",
+"wrap"
+]
 ],
 [
 "nonwoven fabric",
-30
+30,
+[
+"non-woven fabric"
+]
 ],
 [
 "Liturgical vestments and insignia",
-30
+30,
+[
+"clerical vestment"
+]
 ],
 [
 "appliqué",
-29
+29,
+[
+"applique"
+]
 ],
 [
 "tulle",
-29
+29,
+[]
 ],
 [
 "fleece",
-28
+28,
+[
+"microfleece",
+"Polar fleece"
+]
 ],
 [
 "canvas",
-28
+28,
+[]
 ],
 [
 "khādī",
-27
+27,
+[
+"khada",
+"khaddar",
+"khadi"
+]
 ],
 [
 "hessian",
-25
+25,
+[
+"burlap"
+]
 ],
 [
 "geotextile",
-23
+23,
+[
+"geo-textile"
+]
 ],
 [
 "pink ribbon",
-22
+22,
+[]
 ],
 [
 "Rushnyk",
-22
+22,
+[]
 ],
 [
 "wimple",
-22
+22,
+[
+"guimpe",
+"guimpes",
+"Headscarf",
+"Shirinka"
+]
 ],
 [
 "songket",
-22
+22,
+[]
 ],
 [
 "floor cleaning cloth",
-21
+21,
+[
+"floor rag"
+]
 ],
 [
 "e-textile",
-20
+20,
+[
+"electronic textiles",
+"Electronic textiles",
+"smart clothing",
+"smart textile"
+]
 ],
 [
 "kente cloth",
-20
+20,
+[
+"adanudo",
+"kente",
+"Kente",
+"nwentom"
+]
 ],
 [
 "lamé",
-20
+20,
+[
+"lame",
+"tinsel"
+]
 ],
 [
 "buckram",
-20
+20,
+[]
 ],
 [
 "net",
-20
+20,
+[
+"filet",
+"netting"
+]
 ],
 [
 "Ikat",
-19
+19,
+[]
 ],
 [
 "rope splicing",
-19
+19,
+[]
 ],
 [
 "tie dyeing",
-19
+19,
+[
+"batik",
+"tie-and-dye",
+"tie dye",
+"Tie-dye"
+]
 ],
 [
 "tapa cloth",
-19
+19,
+[
+"masi",
+"tapa"
+]
 ],
 [
 "baize",
-18
+18,
+[
+"baeta",
+"bay",
+"bayette",
+"bays"
+]
 ],
 [
 "electric blanket",
-18
+18,
+[
+"heated blanket",
+"heating blanket"
+]
 ],
 [
 "cloth",
-18
+18,
+[
+"fabric",
+"material"
+]
 ],
 [
 "warp knitting",
-18
+18,
+[
+"Sockinette",
+"stockinet",
+"tricot"
+]
 ],
 [
 "dishcloth",
-17
+17,
+[
+"tea towel"
+]
 ],
 [
 "space blanket",
-17
+17,
+[
+"emergency blanket",
+"first aid blanket",
+"heat sheet",
+"safety blanket",
+"shock blanket",
+"thermal blanket"
+]
 ],
 [
 "serape",
-17
+17,
+[
+"sarape"
+]
 ],
 [
 "worsted",
-17
+17,
+[
+"worsted yarn"
+]
 ],
 [
 "Zardozi",
-16
+16,
+[]
 ],
 [
 "placemat",
-15
+15,
+[
+"place mat",
+"place mats",
+"placemats",
+"Placemats"
+]
 ],
 [
 "interfacing",
-14
+14,
+[
+"interlining"
+]
 ],
 [
 "webbing",
-14
+14,
+[]
 ],
 [
 "bogolan",
-14
+14,
+[
+"bogalafini",
+"bogolanfini",
+"bògòlanfini",
+"mud cloth",
+"mudcloth"
+]
 ],
 [
 "saddle blanket",
-13
+13,
+[
+"numnah",
+"saddlecloth",
+"saddle pad"
+]
 ],
 [
 "parament",
-13
+13,
+[]
 ],
 [
 "cheesecloth",
-13
+13,
+[]
 ],
 [
 "fouta",
-13
+13,
+[
+"foutah",
+"fouta towel",
+"futa"
+]
 ],
 [
 "wild silk",
-13
+13,
+[]
 ],
 [
 "weighted blanket",
-13
+13,
+[]
 ],
 [
 "linens",
-13
+13,
+[
+"Bedding and Linens",
+"home textile",
+"household linen",
+"linen"
+]
 ],
 [
 "window screen",
-13
+13,
+[
+"screen door",
+"window mesh net",
+"window mosquito net"
+]
 ],
 [
 "episcopal glove",
-13
+13,
+[
+"chiroteca",
+"pontifical glove",
+"Pontifical gloves"
+]
 ],
 [
 "chenille",
-12
+12,
+[]
 ],
 [
 "adire",
-12
+12,
+[]
 ],
 [
 "doily",
-12
+12,
+[
+"doiley",
+"doilie",
+"Doilies",
+"doyley",
+"doyly"
+]
 ],
 [
 "lurex",
-12
+12,
+[]
 ],
 [
 "sea silk",
-12
+12,
+[]
 ],
 [
 "Kirza",
-11
+11,
+[
+"Kierza"
+]
 ],
 [
 "tiraz",
-11
+11,
+[
+"Tiraz",
+"tiraz band"
+]
 ],
 [
 "Opus Anglicanum",
-11
+11,
+[
+"English work",
+"opus anglicanum"
+]
 ],
 [
 "aso oke",
-11
+11,
+[
+"asho oke",
+"aso-ofi",
+"aso-oke",
+"așǫ oke"
+]
 ],
 [
 "knitted fabric",
-11
+11,
+[
+"knit",
+"knit fabric"
+]
 ],
 [
 "lotus silk",
-10
+10,
+[]
 ],
 [
 "sailcloth",
-10
+10,
+[
+"canvas",
+"sail duck"
+]
 ],
 [
 "padding",
-10
+10,
+[
+"batting",
+"padding material",
+"wadding"
+]
 ],
 [
 "metallic thread",
-10
+10,
+[
+"metal fiber",
+"metallic fiber",
+"metal thread"
+]
 ],
 [
 "suiting",
-10
+10,
+[]
 ],
 [
 "cheviot",
-10
+10,
+[
+"Cheviot"
+]
 ],
 [
 "barkcloth",
-10
+10,
+[
+"bark cloth",
+"ka hana kapa",
+"kapa"
+]
 ],
 [
 "bamboo textile",
-10
+10,
+[]
 ],
 [
 "hairpin lace",
-9
+9,
+[
+"hairpin crochet"
+]
 ],
 [
 "wash mitt",
-9
+9,
+[
+"wash glove",
+"washing mitt"
+]
 ],
 [
 "bias tape",
-9
+9,
+[
+"bias binding"
+]
 ],
 [
 "full plaid",
-9
+9,
+[]
 ],
 [
 "rope",
-9
+9,
+[
+"gymnastics rope",
+"rhythmic gymnastics rope"
+]
 ],
 [
 "rebozo",
-9
+9,
+[]
 ],
 [
 "tie-down straps",
-8
+8,
+[
+"cinch strap",
+"lashing straps",
+"ratchet straps"
+]
 ],
 [
 "manuterge",
-8
+8,
+[
+"manustérgio"
+]
 ],
 [
 "covert coat",
-8
+8,
+[
+"cover coat",
+"covercoat"
+]
 ],
 [
 "Kuba textiles",
-8
+8,
+[]
 ],
 [
 "net curtain",
-8
+8,
+[]
 ],
 [
 "mat",
-8
+8,
+[
+"Mats"
+]
 ],
 [
 "Assam silk",
-8
+8,
+[]
 ],
 [
 "African textiles",
-8
+8,
+[
+"textiles of Africa"
+]
 ],
 [
 "ala kiyiz",
-8
+8,
+[
+"Ala-kiyiz",
+"tekemet"
+]
 ],
 [
 "Fabrikoid",
-8
+8,
+[
+"leatherette",
+"nitrocellulose artificial leather"
+]
 ],
 [
 "Dacron",
-8
+8,
+[
+"Dacron polyester"
+]
 ],
 [
 "attus",
-7
+7,
+[
+"attush",
+"attushi"
+]
 ],
 [
 "chiengora",
-7
+7,
+[
+"doghair",
+"dog wool"
+]
 ],
 [
 "sleeved blanket",
-7
+7,
+[
+"Snuggie",
+"Snuggy"
+]
 ],
 [
 "gobelin",
-7
+7,
+[
+"gobelin tapestry"
+]
 ],
 [
 "peshtamal",
-7
+7,
+[
+"peshtemal",
+"pestamal",
+"pestemal"
+]
 ],
 [
 "waterproof fabric",
-7
+7,
+[]
 ],
 [
 "Maya textiles",
-7
+7,
+[]
 ],
 [
 "Brussels tapestry",
-7
+7,
+[]
 ],
 [
 "lizhnyk",
-6
+6,
+[]
 ],
 [
 "batik kawung",
-6
+6,
+[]
 ],
 [
 "batik parang",
-6
+6,
+[
+"Parang"
+]
 ],
 [
 "woolen",
-6
+6,
+[
+"woollen"
+]
 ],
 [
 "verdure",
-6
+6,
+[
+"verdour"
+]
 ],
 [
 "hypocephalus",
-6
+6,
+[]
 ],
 [
 "cleaning cloth",
-6
+6,
+[]
 ],
 [
 "bust improver",
-6
+6,
+[
+"bust pad",
+"falsie"
+]
 ],
 [
 "film base",
-6
+6,
+[]
 ],
 [
 "gimp",
-6
+6,
+[
+"cordonnet",
+"gimp yarn"
+]
 ],
 [
 "ryijy",
-6
+6,
+[]
 ],
 [
 "Khayamiya",
-6
+6,
+[]
 ],
 [
 "sewing thread",
-6
+6,
+[
+"sewing yarn"
+]
 ],
 [
 "funeral pall",
-6
+6,
+[
+"coffin-cloth",
+"coffin cover",
+"funeral cloth",
+"funerary pall",
+"hearse cloth",
+"mort-cloth",
+"mortcloth",
+"pall"
+]
 ],
 [
 "elastic",
-5
-],
+5,
 [
-"purple ribbon",
-5
-],
-[
-"softshell",
-5
-],
-[
-"Ahwenepa Nkasa",
-5
-],
-[
-"silk fabric",
-5
-],
-[
-"eisengarn",
-5
-],
-[
-"Helanca",
-5
-],
-[
-"alindi",
-5
-],
-[
-"security blanket",
-5
-],
-[
-"Siamoise",
-5
-],
-[
-"seam allowance",
-5
+"elastic band"
+]
 ],
 [
 "paper yarn",
-5
+5,
+[]
+],
+[
+"purple ribbon",
+5,
+[]
+],
+[
+"softshell",
+5,
+[
+"soft shell"
+]
+],
+[
+"Ahwenepa Nkasa",
+5,
+[
+"Feuille feuille",
+"Makaïva"
+]
+],
+[
+"silk fabric",
+5,
+[
+"silk"
+]
+],
+[
+"eisengarn",
+5,
+[
+"iron yarn"
+]
+],
+[
+"Helanca",
+5,
+[]
+],
+[
+"alindi",
+5,
+[]
+],
+[
+"security blanket",
+5,
+[]
+],
+[
+"Siamoise",
+5,
+[]
+],
+[
+"seam allowance",
+5,
+[
+"inlays"
+]
 ],
 [
 "pat silk",
-5
+5,
+[]
 ],
 [
 "Ahimsa silk",
-5
+5,
+[
+"peace silk"
+]
 ],
 [
 "Saba lace",
-5
+5,
+[]
 ],
 [
 "korhogo cloth",
-5
+5,
+[]
 ],
 [
 "cotton lisle",
-5
+5,
+[
+"fil d'Ecosse",
+"lisle",
+"lisle thread",
+"lisle yarn"
+]
 ],
 [
 "arraiolos rug",
-5
+5,
+[]
 ],
 [
 "asmalyk",
-5
+5,
+[
+"camel flank hanging",
+"camel trapping"
+]
 ],
 [
 "chemical lace",
-5
+5,
+[
+"machine-embroidered guipure",
+"Schiffli lace"
+]
 ],
 [
 "comforter",
-5
+5,
+[
+"duvet"
+]
 ],
 [
 "crown knot",
-5
+5,
+[]
 ],
 [
 "Kelsch d'Alsace",
-5
+5,
+[]
 ],
 [
 "Dustcloth",
-5
+5,
+[
+"Dustcloths"
+]
 ],
 [
 "Betawi batik",
-5
+5,
+[]
 ],
 [
 "tape lace",
-4
+4,
+[
+"braid lace"
+]
 ],
 [
 "Lenten shroud",
-4
+4,
+[
+"Passiontide veil"
+]
 ],
 [
 "tin wire",
-4
+4,
+[
+"pewter thread",
+"tin thread"
+]
 ],
 [
 "wool fabric",
-4
+4,
+[
+"wool"
+]
 ],
 [
 "Tanah Liet Minangkabau",
-4
+4,
+[]
 ],
 [
 "ouatine",
-4
+4,
+[]
 ],
 [
 "cordage",
-4
+4,
+[]
 ],
 [
 "Akwete cloth",
-4
+4,
+[
+"Akwete"
+]
 ],
 [
 "mattress protector",
-4
+4,
+[
+"Mattress Protectors"
+]
 ],
 [
 "cord",
-4
+4,
+[]
 ],
 [
 "Fresco",
-4
+4,
+[]
 ],
 [
 "Chilkat weaving",
-4
+4,
+[]
 ],
 [
 "cloth modeling",
-4
+4,
+[]
 ],
 [
 "recycled wool",
-4
+4,
+[
+"rag wool",
+"shoddy"
+]
 ],
 [
 "ratteen",
-4
+4,
+[
+"rateen"
+]
 ],
 [
 "Japanese silk",
-4
+4,
+[]
 ],
 [
 "textile rope",
-4
+4,
+[
+"fiber rope",
+"fibre rope"
+]
 ],
 [
 "novelty yarn",
-4
+4,
+[
+"fancy yarn",
+"specialty yarn"
+]
 ],
 [
 "Zibeline",
-4
+4,
+[]
 ],
 [
 "bobbinet",
-4
+4,
+[
+"bobbinet tulle",
+"bobbin net",
+"bobinet"
+]
 ],
 [
 "home textiles",
-4
+4,
+[
+"household textiles"
+]
 ],
 [
 "batik tujuh rupa",
-4
+4,
+[]
 ],
 [
 "Toghu",
-3
+3,
+[]
 ],
 [
 "Faso Dan Fani",
-3
+3,
+[
+"Faso Danfani"
+]
 ],
 [
 "Medical textiles",
-3
+3,
+[]
 ],
 [
 "hakata-ori",
-3
+3,
+[]
 ],
 [
 "Sika Wɔ Ntaban",
-3
+3,
+[
+"Air Afrique",
+"Speed Bird"
+]
 ],
 [
 "Madurese batik",
-3
+3,
+[]
 ],
 [
 "batik megamendung",
-3
+3,
+[]
 ],
 [
 "Naugahyde",
-3
+3,
+[]
 ],
 [
 "Hablon",
-3
+3,
+[]
 ],
 [
 "Shantiniketan Batik",
-3
+3,
+[]
 ],
 [
 "Inlaid patchwork",
-3
+3,
+[]
 ],
 [
 "melange yarn",
-3
+3,
+[
+"blend",
+"fiber blend"
+]
 ],
 [
 "Grazalema blanket",
-3
+3,
+[]
 ],
 [
 "hodden",
-3
+3,
+[
+"hodden grey",
+"wadmel"
+]
 ],
 [
 "metal lace",
-3
+3,
+[]
 ],
 [
 "knitwear",
-3
+3,
+[
+"hosiery",
+"knits",
+"warp-knit fabric"
+]
 ],
 [
 "Taiwan floral fabric",
-3
+3,
+[]
 ],
 [
 "Setralit",
-3
+3,
+[]
 ],
 [
 "crocheted lace",
-3
+3,
+[
+"crochet lace"
+]
 ],
 [
 "cotton yarn",
-3
+3,
+[
+"cotone ritorto"
+]
 ],
 [
 "boiled wool",
-3
+3,
+[]
 ],
 [
 "Air-laid paper",
-3
+3,
+[
+"serbien"
+]
 ],
 [
 "surgical thread",
-3
+3,
+[]
 ],
 [
 "clothweaving",
-3
+3,
+[
+"cloth-weaving"
+]
 ],
 [
 "appliqué lace",
-3
+3,
+[
+"application lace",
+"applique lace",
+"guipure appliqué",
+"point appliqué"
+]
 ],
 [
 "Ban-Lon",
-3
+3,
+[
+"Banlon"
+]
 ],
 [
 "cedar bark textile",
-3
+3,
+[]
 ],
 [
 "Cirebon–Indramayu Javanese batik",
-3
+3,
+[
+"Cirebon batik",
+"Cirebon-Indramayu batik",
+"Indramayu batik"
+]
 ],
 [
 "turkeywork",
-3
+3,
+[
+"turkey work",
+"turkey-work"
+]
 ],
 [
 "Fabrican",
-3
+3,
+[]
 ],
 [
 "Lastex",
-3
+3,
+[]
 ],
 [
 "Lito",
-3
+3,
+[]
 ],
 [
 "Tybetka",
-3
+3,
+[]
 ],
 [
 "Reposteros",
-3
+3,
+[]
 ],
 [
 "raw silk",
-3
+3,
+[
+"grège"
+]
 ],
 [
 "Songket Minangkabau",
-3
+3,
+[]
 ],
 [
 "Khaki drill",
-3
+3,
+[
+"KD"
+]
 ],
 [
 "Plumpungan Batik",
-3
+3,
+[]
 ],
 [
 "Nike Flywire",
-3
+3,
+[]
 ],
 [
 "point de France",
-3
+3,
+[
+"points de France"
+]
 ],
 [
 "punto a groppo",
-3
+3,
+[
+"knotted lace",
+"knotted point",
+"punto a gropari",
+"punto a gropo",
+"punto a gruppo"
+]
 ],
 [
 "rolag",
-3
+3,
+[]
 ],
 [
 "slipcover",
-3
+3,
+[
+"loose cover",
+"slip cover"
+]
 ],
 [
 "tulle bi telli",
-3
+3,
+[
+"assuit",
+"tulle bitelli",
+"Tulle-bi-telli"
+]
+],
+[
+"linen thread",
+2,
+[
+"flax yarn",
+"linen yarn"
+]
+],
+[
+"Khazz silk",
+2,
+[]
+],
+[
+"Armazine",
+2,
+[
+"armoisine",
+"armozine",
+"ermozine"
+]
+],
+[
+"wool yarn",
+2,
+[]
+],
+[
+"Chinchilla",
+2,
+[]
+],
+[
+"pleated linen",
+2,
+[]
+],
+[
+"hemp textile",
+2,
+[
+"hemp cloth",
+"hemp fabric"
+]
+],
+[
+"Barkcloth making in Uganda",
+2,
+[]
+],
+[
+"German lace",
+2,
+[]
+],
+[
+"helmet liner",
+2,
+[
+"liner"
+]
+],
+[
+"luo",
+2,
+[]
+],
+[
+"bouclé yarn",
+2,
+[
+"boucle yarn",
+"looped yarn",
+"loop yarn"
+]
+],
+[
+"blend",
+2,
+[]
+],
+[
+"vigoreaux",
+2,
+[
+"vigoreux",
+"vigoureux"
+]
+],
+[
+"korpe",
+2,
+[]
+],
+[
+"textile laminate",
+2,
+[
+"fabric laminate"
+]
+],
+[
+"Almoravid and Almohad textiles",
+2,
+[]
+],
+[
+"Falbel",
+2,
+[]
+],
+[
+"floret",
+2,
+[]
+],
+[
+"metal-wrapped thread",
+2,
+[
+"filé",
+"gimp",
+"metal-strip-wrapped silk",
+"passing"
+]
+],
+[
+"semi-worsted yarn",
+2,
+[]
+],
+[
+"Green textile",
+2,
+[]
+],
+[
+"Irish linen",
+2,
+[
+"Línéadach Éireannach"
+]
+],
+[
+"Slip sheet",
+2,
+[]
+],
+[
+"slackline",
+2,
+[]
+],
+[
+"shpanyer arbet",
+2,
+[
+"Spanish work",
+"spun work"
+]
+],
+[
+"A. E. Grossé",
+2,
+[
+"A. E. Grosse",
+"Antoinette-Emilienne Grossé"
+]
+],
+[
+"ndop",
+2,
+[]
+],
+[
+"Bengkulu batik",
+2,
+[]
+],
+[
+"Spanish lace",
+2,
+[
+"Spanish point"
+]
+],
+[
+"vigogne",
+2,
+[]
+],
+[
+"Coptic textile",
+2,
+[]
+],
+[
+"bourette",
+2,
+[
+"Bourette"
+]
+],
+[
+"Karaori",
+2,
+[
+"Kara-ori"
+]
+],
+[
+"weft-knit fabric",
+2,
+[
+"knitted work",
+"knitting",
+"knitwork",
+"weft knitting"
+]
+],
+[
+"dentelle du Puy",
+2,
+[
+"Le Puy lace"
+]
+],
+[
+"Outlast Technologies",
+2,
+[
+"Outlast"
+]
+],
+[
+"duvet cover",
+2,
+[]
+],
+[
+"libri lintei",
+2,
+[
+"linen books",
+"linen rolls"
+]
+],
+[
+"Dieppe lace",
+2,
+[
+"Ave Maria lace",
+"dentelle à la vierge",
+"Poussin lace"
+]
+],
+[
+"Taklon",
+2,
+[]
+],
+[
+"sayette",
+2,
+[
+"fil de sayette"
+]
+],
+[
+"ravensduck",
+2,
+[
+"ravenduck",
+"raven's duck"
+]
+],
+[
+"Draw sheet",
+2,
+[]
+],
+[
+"Clarino",
+2,
+[]
+],
+[
+"laminated fabric",
+2,
+[]
+],
+[
+"Landscape fabric",
+2,
+[]
+],
+[
+"Homespun",
+2,
+[]
+],
+[
+"functional textile",
+2,
+[
+"functional fabric"
+]
+],
+[
+"Pertex",
+2,
+[]
+],
+[
+"ribbon yarn",
+2,
+[
+"slit film yarn",
+"slit-film yarn",
+"tape yarn"
+]
+],
+[
+"silk waste",
+2,
+[
+"bourré",
+"flock silk",
+"floretta",
+"waste silk"
+]
+],
+[
+"wool blanket",
+2,
+[
+"woolen blanket",
+"woollen blanket"
+]
+],
+[
+"knitted waistcoat",
+1,
+[
+"knitted jacket",
+"knitted vest"
+]
+],
+[
+"baby lace",
+1,
+[]
+],
+[
+"tray ribbon",
+1,
+[]
+],
+[
+"Bård",
+1,
+[]
+],
+[
+"Damascene lace",
+1,
+[]
+],
+[
+"Delsbo lace",
+1,
+[]
+],
+[
+"Devonshire lace",
+1,
+[]
+],
+[
+"thrum",
+1,
+[]
+],
+[
+"Foulé",
+1,
+[]
+],
+[
+"Langarn",
+1,
+[]
+],
+[
+"Gulbadan",
+1,
+[]
+],
+[
+"Päll",
+1,
+[]
+],
+[
+"Acca cloth",
+1,
+[]
+],
+[
+"Ailesham cloth",
+1,
+[]
+],
+[
+"Sherpa fabric",
+1,
+[
+"Sherpa"
+]
+],
+[
+"Lierre lace",
+1,
+[
+"Lier lace"
+]
+],
+[
+"Adhotar",
+1,
+[]
+],
+[
+"Ratteen",
+1,
+[]
+],
+[
+"Trassel",
+1,
+[]
+],
+[
+"Sinchaw",
+1,
+[]
+],
+[
+"Toilinet",
+1,
+[]
+],
+[
+"plated fabric",
+1,
+[]
+],
+[
+"3D textiles",
+1,
+[]
+],
+[
+"Flame retardant cotton",
+1,
+[]
+],
+[
+"Sangi",
+1,
+[]
+],
+[
+"jōfu",
+1,
+[]
+],
+[
+"table linen",
+1,
+[
+"table linens",
+"Table Linens"
+]
+],
+[
+"futomono",
+1,
+[]
+],
+[
+"wool",
+1,
+[
+"woolen textile"
+]
+],
+[
+"textile scaffold",
+1,
+[]
+],
+[
+"angora yarn",
+1,
+[]
+],
+[
+"BIG JOHN",
+1,
+[
+"Big John (brand)"
+]
+],
+[
+"Falding",
+1,
+[]
+],
+[
+"Kordonek",
+1,
+[]
+],
+[
+"Lederine",
+1,
+[]
+],
+[
+"fransu",
+1,
+[]
+],
+[
+"Estremadura",
+1,
+[]
+],
+[
+"Tissue",
+1,
+[]
+],
+[
+"core spun yarn",
+1,
+[
+"core-spun yarn",
+"core yarn"
+]
+],
+[
+"cordonnet",
+1,
+[]
+],
+[
+"marengo",
+1,
+[]
+],
+[
+"monofilament",
+1,
+[
+"monofilament thread",
+"monofilament yarn"
+]
+],
+[
+"ondée",
+1,
+[]
+],
+[
+"organzine",
+1,
+[
+"organzine silk"
+]
+],
+[
+"wrapped yarn",
+1,
+[
+"fasciated yarn"
+]
+],
+[
+"pearl cotton",
+1,
+[
+"perle cotton"
+]
+],
+[
+"self-twist yarn",
+1,
+[
+"self twist yarn",
+"selftwist yarn"
+]
+],
+[
+"blend yarn",
+1,
+[
+"mixed yarn"
+]
+],
+[
+"tram",
+1,
+[]
+],
+[
+"cordeo",
+1,
+[]
+],
+[
+"ribbon loop trim",
+1,
+[
+"ribbon loop",
+"ribbon loop decoration"
+]
+],
+[
+"ribbon points",
+1,
+[]
+],
+[
+"Batik Belanda",
+1,
+[
+"Batik Holanda"
+]
+],
+[
+"Petani Batik",
+1,
+[]
+],
+[
+"smart textile",
+1,
+[]
+],
+[
+"Aksan",
+1,
+[]
+],
+[
+"shoulder ribbons",
+1,
+[]
+],
+[
+"solitaire",
+1,
+[]
+],
+[
+"Piket",
+1,
+[]
+],
+[
+"Atanoq",
+1,
+[]
+],
+[
+"Baxya",
+1,
+[]
+],
+[
+"Doroyi",
+1,
+[]
+],
+[
+"Gazlama",
+1,
+[]
+],
+[
+"Paxmoq",
+1,
+[]
+],
+[
+"Kabloshi",
+1,
+[]
+],
+[
+"ajiro",
+1,
+[
+"ajirogumi"
+]
+],
+[
+"ajiro tenjō",
+1,
+[]
+],
+[
+"hikers wool",
+1,
+[
+"anti-pressure wool",
+"walking wool"
+]
+],
+[
+"material sold by the meter",
+1,
+[
+"cut goods",
+"material sold by the yard",
+"piece goods",
+"yardage",
+"yard goods",
+"yarding",
+"yard ware"
+]
+],
+[
+"travel jersey",
+1,
+[
+"tech jersey"
+]
+],
+[
+"fabric",
+1,
+[
+"fabrics",
+"textile fabric",
+"textile fabrics"
+]
+],
+[
+"Felbel",
+1,
+[]
+],
+[
+"chainette yarn",
+1,
+[
+"loop wale-yarn"
+]
+],
+[
+"hair tulle",
+1,
+[]
+],
+[
+"African lace",
+1,
+[
+"Austrian Lace",
+"Swiss lace"
+]
+],
+[
+"household textile",
+1,
+[]
+],
+[
+"castor",
+1,
+[]
+],
+[
+"textile sample",
+1,
+[
+"fabric sample"
+]
+],
+[
+"air textured yarn",
+1,
+[
+"Taslan"
+]
+],
+[
+"Kirsey",
+1,
+[]
+],
+[
+"Situbondo batik",
+1,
+[]
+],
+[
+"Sheldon tapestries",
+1,
+[]
+],
+[
+"Dunova",
+1,
+[]
+],
+[
+"caddisfly silk",
+1,
+[
+"Trichoptera silk"
+]
+],
+[
+"bedding set",
+1,
+[]
+],
+[
+"Corduroy",
+1,
+[]
+],
+[
+"embroidered lace",
+1,
+[]
+],
+[
+"tropical",
+1,
+[
+"tropical cloth",
+"tropical suiting",
+"tropical weight",
+"tropical wool",
+"tropical worsted"
+]
+],
+[
+"cotton spinning system yarn",
+1,
+[]
+],
+[
+"types of yarn",
+1,
+[
+"yarn types"
+]
+],
+[
+"tunnel lining",
+1,
+[]
+],
+[
+"skai",
+1,
+[]
+],
+[
+"horsehair",
+1,
+[
+"horsehair stuffing"
+]
+],
+[
+"industrial fabrics",
+1,
+[]
+],
+[
+"military textile",
+1,
+[]
+],
+[
+"crée",
+1,
+[]
+],
+[
+"braid",
+1,
+[]
+],
+[
+"needlework",
+1,
+[]
+],
+[
+"bougran",
+1,
+[
+"bocaran",
+"bouguerans",
+"bouguerant"
+]
+],
+[
+"machine lace",
+1,
+[
+"machine-made lace"
+]
+],
+[
+"felted yarn",
+1,
+[]
+],
+[
+"carded yarn",
+1,
+[]
+],
+[
+"Devon lace",
+1,
+[]
+],
+[
+"Branda",
+1,
+[]
+],
+[
+"wash and wear",
+1,
+[]
+],
+[
+"embroidery thread",
+1,
+[
+"embroidery yarn"
+]
+],
+[
+"wash cloth",
+1,
+[]
+],
+[
+"Androsia",
+1,
+[]
+],
+[
+"synthetic rope",
+1,
+[]
+],
+[
+"suture",
+1,
+[
+"suture thread",
+"suturing thread"
+]
+],
+[
+"mesh fabric",
+1,
+[
+"mesh",
+"net"
+]
+],
+[
+"electroconductive yarn",
+1,
+[
+"electrically conducting yarn"
+]
+],
+[
+"Foot towel",
+1,
+[]
+],
+[
+"backing",
+1,
+[
+"lining"
+]
+],
+[
+"surgical linen",
+1,
+[]
+],
+[
+"invisible thread",
+1,
+[]
+],
+[
+"button thread",
+1,
+[]
+],
+[
+"Lumalive",
+1,
+[]
+],
+[
+"mattress pad",
+1,
+[
+"Mattress Pads",
+"mattress topper"
+]
+],
+[
+"Needlerun net",
+1,
+[]
+],
+[
+"Qiana",
+1,
+[]
+],
+[
+"Zetix",
+1,
+[]
+],
+[
+"bokche",
+1,
+[
+"bohça"
+]
+],
+[
+"entrefenêtre",
+1,
+[
+"entre-fenetre",
+"entrefenetre",
+"entre-fenêtre"
+]
+],
+[
+"Bryt",
+1,
+[]
+],
+[
+"Forgurt",
+1,
+[]
+],
+[
+"Wojłok",
+1,
+[]
+],
+[
+"Balinese batik",
+1,
+[]
+],
+[
+"Kalimantan batik",
+1,
+[]
+],
+[
+"Papuan batik",
+1,
+[]
+],
+[
+"velvet rope",
+1,
+[]
+],
+[
+"hair ribbon",
+0,
+[]
+],
+[
+"mourning ribbon",
+0,
+[]
+],
+[
+"silk plush",
+0,
+[
+"hatter's plush",
+"silk hatter's plush"
+]
+],
+[
+"ribbon hair accessory",
+0,
+[]
+],
+[
+"silk product",
+0,
+[
+"silk"
+]
+],
+[
+"PVC fabric",
+0,
+[
+"pleather",
+"vegan leather",
+"vinyl"
+]
+],
+[
+"ritual cloth",
+0,
+[]
+],
+[
+"botton",
+0,
+[]
+],
+[
+"cloths and fabrics and ritual use of liturgical",
+0,
+[]
+],
+[
+"vestment of ambo",
+0,
+[]
+],
+[
+"vestment pulpit",
+0,
+[]
+],
+[
+"saddlecloth",
+0,
+[]
+],
+[
+"tray cloth",
+0,
+[]
+],
+[
+"purifier",
+0,
+[]
+],
+[
+"ribbon award",
+0,
+[]
+],
+[
+"tape inaugural",
+0,
+[]
+],
+[
+"mop",
+0,
+[]
+],
+[
+"insecticide-treated net",
+0,
+[
+"insecticide-treated bed net",
+"ITN"
+]
+],
+[
+"khaki",
+0,
+[
+"khaki cloth"
+]
+],
+[
+"kenjō hakata-ori",
+0,
+[
+"kenjō hakataori",
+"kenjōhakataori"
+]
+],
+[
+"Trevira CS",
+0,
+[]
+],
+[
+"Kain Bebat DImpo",
+0,
+[]
+],
+[
+"Kain Bulung",
+0,
+[]
+],
+[
+"Kain Beragi",
+0,
+[]
+],
+[
+"Kain Curak",
+0,
+[]
+],
+[
+"Kain Cutar",
+0,
+[]
+],
+[
+"Kain Dugan",
+0,
+[]
+],
+[
+"furniture fabric",
+0,
+[
+"upholstery fabric"
+]
+],
+[
+"optical heart rate sensor band",
+0,
+[
+"optical HR sensor band"
+]
+],
+[
+"Kazak textiles",
+0,
+[
+"Kazak pattern",
+"Kazak rug",
+"Kazak textile"
+]
+],
+[
+"dust cover",
+0,
+[]
+],
+[
+"wool fiber",
+0,
+[
+"wool fibre"
+]
+],
+[
+"mull",
+0,
+[]
+],
+[
+"linho estopinha",
+0,
+[]
+],
+[
+"Mylo",
+0,
+[]
+],
+[
+"cactus leather",
+0,
+[]
+],
+[
+"crafting canva",
+0,
+[]
+],
+[
+"needlecraft canva",
+0,
+[]
+],
+[
+"printable fabric",
+0,
+[]
+],
+[
+"decorative tapestry",
+0,
+[]
+],
+[
+"dupioni",
+0,
+[
+"doupion silk",
+"doupion-silk",
+"douppion",
+"dupion"
+]
+],
+[
+"FineWoven",
+0,
+[]
+],
+[
+"Peniche bobbin lace",
+0,
+[]
+],
+[
+"Vila do Conde bobbin lace",
+0,
+[]
+],
+[
+"pallet net",
+0,
+[]
+],
+[
+"lace ribbon",
+0,
+[]
+],
+[
+"interior textiles",
+0,
+[]
+],
+[
+"clothing textiles",
+0,
+[
+"clothing textile"
+]
+],
+[
+"carpeting",
+0,
+[]
+],
+[
+"furnishing textile material",
+0,
+[
+"furnishing textile"
+]
+],
+[
+"Origin of Aso Oke",
+0,
+[
+"Aso-Ofi"
+]
+],
+[
+"ribbon hair tie",
+0,
+[]
+],
+[
+"lace lingerie",
+0,
+[]
+],
+[
+"Tomatoes(african fabric)",
+0,
+[]
+],
+[
+"Akwụkwọ ukpaka",
+0,
+[]
+],
+[
+"Igba aka bia inu m",
+0,
+[]
+],
+[
+"Ọchieze (African fabric)",
+0,
+[]
+],
+[
+"Enugbagidi(African fabric)",
+0,
+[]
+],
+[
+"Ikpilikpa azu (African Fabric)",
+0,
+[]
+],
+[
+"J seven(African fabric)",
+0,
+[]
+],
+[
+"Deep freezer",
+0,
+[]
+],
+[
+"One love (African fabric)",
+0,
+[]
+],
+[
+"Jumping horse (African fabric)",
+0,
+[]
+],
+[
+"Step to heaven(African fabric)",
+0,
+[]
+],
+[
+"Heavy rain",
+0,
+[]
+],
+[
+"Steps(African fabric)",
+0,
+[]
+],
+[
+"Okoso (African fabric)",
+0,
+[]
+],
+[
+"Santana",
+0,
+[]
+],
+[
+"Okpuru anyanwu(African fabric)",
+0,
+[]
+],
+[
+"Ebge belu ugo belu(African fabric)",
+0,
+[]
+],
+[
+"Seven candles",
+0,
+[]
+],
+[
+"Touching money",
+0,
+[]
+],
+[
+"Ile ejuna(African fabric)",
+0,
+[]
+],
+[
+"Television (African fabric)",
+0,
+[]
+],
+[
+"Broken plate",
+0,
+[]
+],
+[
+"iron gate(african fabric)",
+0,
+[]
+],
+[
+"English gold",
+0,
+[]
+],
+[
+"Onu neli aku(African fabric)",
+0,
+[]
+],
+[
+"Biscuit",
+0,
+[]
+],
+[
+"telepuk",
+0,
+[]
+],
+[
+"ribbon tie",
+0,
+[]
+],
+[
+"Habaspuri sari",
+0,
+[]
+],
+[
+"Flame-resistant textiles",
+0,
+[
+"fire-proof textiles",
+"flame-proof textiles"
+]
+],
+[
+"Sacred silk thread",
+0,
+[
+"Temple silk thread, Pattu thread, Puja silk thread, Nulu pattu, Telugu ritual thread"
+]
+],
+[
+"doll hair",
+0,
+[]
+],
+[
+"laundry",
+0,
+[
+"dirty clothes",
+"dirty clothing",
+"dirty laundry",
+"dirty linens",
+"dirty sheets"
+]
+],
+[
+"chopped strand mat",
+0,
+[]
+],
+[
+"Roman linen",
+0,
+[]
+],
+[
+"Hlyniany textile",
+0,
+[]
+],
+[
+"Snoozle Slide Sheet",
+0,
+[
+"Snoozle",
+"Snoozle turning sheet"
+]
+],
+[
+"sling",
+0,
+[]
+],
+[
+"matting",
+0,
+[]
+],
+[
+"drugget",
+0,
+[
+"India drugget",
+"milled drugget"
+]
+],
+[
+"merino",
+0,
+[
+"merino wool"
+]
+],
+[
+"smocking",
+0,
+[]
+],
+[
+"handmade lace",
+0,
+[]
+],
+[
+"campfire blanket",
+0,
+[]
+],
+[
+"wearing blanket",
+0,
+[]
+],
+[
+"textured filament yarn",
+0,
+[
+"bulked yarn",
+"textured yarn",
+"texturized yarn"
+]
+],
+[
+"tatting",
+0,
+[
+"tatted work",
+"tatting lace"
+]
+],
+[
+"candlewick yarn",
+0,
+[
+"candelwicking yarn",
+"candle wick"
+]
+],
+[
+"double ikat",
+0,
+[]
+],
+[
+"crochet",
+0,
+[]
+],
+[
+"insecticide-treated bednet",
+0,
+[
+"insecticide-treated bednets"
+]
+],
+[
+"Fisto",
+0,
+[]
+],
+[
+"handkerchief linen",
+0,
+[
+"linen cambric"
+]
+],
+[
+"spun silk",
+0,
+[
+"noil",
+"silk noil"
+]
+],
+[
+"seam binding",
+0,
+[
+"binding"
+]
+],
+[
+"reseau",
+0,
+[
+"réseau"
+]
+],
+[
+"plied yarn",
+0,
+[
+"twist"
+]
+],
+[
+"Armacor",
+0,
+[]
+],
+[
+"fibroins",
+0,
+[
+"fibroin"
+]
+],
+[
+"Bergamo tapestry",
+0,
+[]
+],
+[
+"crewel wool",
+0,
+[]
+],
+[
+"rag",
+0,
+[
+"rags",
+"shred",
+"tatter"
+]
+],
+[
+"floss silk",
+0,
+[
+"flat silk",
+"sleeved silk",
+"sleyed silk"
+]
+],
+[
+"bathroom linen",
+0,
+[]
+],
+[
+"knitted lace",
+0,
+[]
 ]
 ]

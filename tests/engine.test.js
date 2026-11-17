@@ -1,7 +1,8 @@
 // Run with: node tests/engine.test.js
 const assert = require("node:assert/strict");
 const path = require("node:path");
-for (const f of ["data.js", "data2.js", "data3.js", "data4.js", "data5.js", "data6.js", "data7.js", "categories.js", "data-extra.js", "words.js"]) {
+for (const f of ["data.js", "data2.js", "data3.js", "data4.js", "data5.js", "data6.js", "data7.js", "categories.js", "words.js"]
+  .concat(require("node:fs").readdirSync(require("node:path").join(__dirname, "../js/answers")).map(x => "answers/" + x))) {
   const fp = path.join(__dirname, "../js", f);
   if (require("node:fs").existsSync(fp)) require(fp);
 }
@@ -376,6 +377,30 @@ test("judging stays fast on the biggest answer lists", () => {
   const t = Date.now();
   for (let i = 0; i < 50; i++) E.judge(P("spokenlang"), "zzqxjvv" + i, []);
   assert.ok(Date.now() - t < 2000, (Date.now() - t) + " ms for 50 misses");
+});
+
+// ---------- reported misses (player screenshots) ----------
+test("answers players reported as missing all count now", () => {
+  const P = id => BANK.find(p => p.id === id);
+  const cases = [["carmodel", "ford focus"], ["carmodel", "t bird"], ["volcano", "Neenach Volcano"], ["indianfood", "chiken masala"],
+    ["indianfood", "chicken masala"], ["card", "bears vs babies"], ["card", "uno flip"], ["card", "crazy 8s"], ["carmodel", "mx5"],
+    ["sitcom", "the wonder years"], ["italycity", "monterosso"]];
+  for (const [id, text] of cases) {
+    const r = E.judge(P(id), text, [], true);
+    assert.ok(r.status === "accepted" || r.status === "correction", `${id}: "${text}" was ${r.status}`);
+  }
+});
+
+test("extra words around a real answer still count", () => {
+  const P = id => BANK.find(p => p.id === id);
+  assert.equal(E.judge(P("carmodel"), "ford focus", []).answer.name.toLowerCase().includes("focus"), true);
+  assert.equal(E.judge(P("color"), "the color red", []).status, "accepted");
+  assert.notEqual(E.judge(P("country"), "not a country", []).status, "accepted");
+});
+
+test("number words and digits are the same answer", () => {
+  const P = id => BANK.find(p => p.id === id);
+  assert.equal(E.judge(P("card"), "crazy 8s", []).answer.id, E.judge(P("card"), "crazy eights", []).answer.id);
 });
 
 // ---------- category digs ----------

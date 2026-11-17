@@ -56,3 +56,165 @@ Arepa
 Gallo Pinto
 Pão de Queijo
 Cornflakes
+Full Scottish
+White Pudding
+Haggis
+Fried Bread
+Pork Roll
+Taylor Ham
+Bacon Egg and Cheese=bec
+Crumpet
+Sticky Bun
+Coffee Cake
+Jook
+Onigiri
+Miso Soup
+Tortilla de Patatas=spanish omelette
+Churros
+Churros con Chocolate
+Syrniki
+Kasha
+Porridge
+Oatmeal
+Grits
+Cream of Wheat
+Malt-O-Meal
+Farina
+Polenta
+Johnnycakes
+Hoecakes
+Flapjacks
+Silver Dollar Pancakes
+Buttermilk Pancakes
+Blueberry Pancakes
+Chocolate Chip Pancakes
+Belgian Waffles
+Eggo
+Breakfast Burrito
+Breakfast Quesadilla
+Egg Sandwich
+Sausage Egg and Cheese
+Croissant Sandwich
+Breakfast Bagel
+Lox and Bagel
+Cream Cheese Bagel
+Toast and Jam
+Toast and Butter
+Cinnamon Toast
+Monkey Bread
+Banana Bread
+Zucchini Bread
+Pumpkin Bread
+Biscotti
+Scrambled Eggs
+Fried Eggs
+Sunny Side Up
+Over Easy
+Poached Eggs
+Boiled Eggs
+Soft-Boiled Egg
+Hard-Boiled Egg
+Deviled Eggs
+Egg White Omelette
+Western Omelette
+Denver Omelette
+Spanish Omelette
+Egg Muffin
+Breakfast Casserole
+Strata
+Hash
+Sausage Links
+Sausage Patties
+Bacon
+Turkey Bacon
+Canadian Bacon
+Ham
+Spam
+Spam Musubi
+Loco Moco
+Rice and Eggs
+Tamago Kake Gohan
+Kaya Toast
+Roti Canai
+Nasi Lemak
+Pho
+Banh Mi
+Xoi
+Khao Tom
+Jianbing
+Baozi
+Shengjian Bao
+Doujiang
+Soy Milk
+Fried Dough
+Beignets
+Sopapillas
+Bunuelos
+Pan Dulce
+Conchas
+Tostada
+Molletes
+Café con Pan
+Tapioca
+Cuscuz
+Mandazi
+Chapati
+Akara
+Bean Cakes
+Shakshouka
+Ful
+Falafel
+Manakish
+Zaatar Bread
+Boyoz
+Pogaca
+Burek
+Banitsa
+Kachapuri
+Khachapuri
+Smorrebrod
+Muesli
+Bircher Muesli
+Granola
+Cornflakes
+Weetabix
+Shreddies
+Rice Krispies
+Cheerios
+Fruit Salad
+Fruit Cup
+Grapefruit
+Orange Juice
+Smoothie
+Protein Shake
+Breakfast Bar
+Granola Bar
+Pop-Tarts
+Toaster Waffles
+Hot Pockets
+Breakfast Hot Pocket
+Kolaches
+Klobasniky
+Breakfast Taco
+Migas
+Huevos Divorciados
+Eggs in Purgatory
+Shirred Eggs
+Scotch Egg
+Eggs Benedict
+Eggs Sardou
+Eggs Hussarde
+Toad in the Hole
+Welsh Rarebit
+Bubble and Squeak
+Laverbread
+Black Pudding
+Kippers
+Smoked Haddock
+Kedgeree
+Devilled Kidneys
+Bloaters
+Potato Farls
+Soda Bread
+Boxty
+Tattie Scones

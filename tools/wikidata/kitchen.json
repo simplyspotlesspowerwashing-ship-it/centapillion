@@ -1,1402 +1,3742 @@
 [
 [
 "spoon",
-152
+152,
+[]
 ],
 [
 "fork",
-113
+113,
+[
+"forks"
+]
 ],
 [
 "frying pan",
-101
+101,
+[
+"frypan",
+"skillet"
+]
 ],
 [
 "mortar and pestle",
-92
+92,
+[
+"mortars & pestle"
+]
 ],
 [
 "bowl",
-88
+88,
+[]
 ],
 [
 "towel",
-87
+87,
+[
+"towels"
+]
 ],
 [
 "chopsticks",
-86
+86,
+[
+"chopstick"
+]
 ],
 [
 "sieve",
-85
+85,
+[
+"seive",
+"sieve (kitchen)",
+"winnow basket"
+]
 ],
 [
 "kettle",
-80
+80,
+[
+"tea kettle",
+"teakettle"
+]
 ],
 [
 "ladle",
-78
+78,
+[]
 ],
 [
 "funnel",
-68
+68,
+[]
 ],
 [
 "grater",
-66
-],
+66,
 [
-"wok",
-62
+"box grater",
+"shredder"
+]
 ],
 [
 "cutlery",
-62
+62,
+[
+"eating utensil",
+"flatware",
+"silverware",
+"tableware"
+]
+],
+[
+"wok",
+62,
+[]
 ],
 [
 "toothpick",
-60
+60,
+[
+"tooth pick",
+"toothpicks"
+]
 ],
 [
 "rolling pin",
-56
+56,
+[
+"pastry roller",
+"pastry rollers",
+"rolling pins"
+]
 ],
 [
 "tableware",
-54
+54,
+[
+"dishware",
+"table service"
+]
 ],
 [
 "blender",
-53
+53,
+[
+"kitchen blender",
+"liquidiser",
+"mixer"
+]
 ],
 [
 "corkscrew",
-51
+51,
+[]
 ],
 [
 "cutting board",
-50
+50,
+[
+"chopping board",
+"cutting mat"
+]
 ],
 [
 "colander",
-46
+46,
+[
+"cullender",
+"kitchen sieve",
+"pasta strainer"
+]
 ],
 [
 "whisk",
-44
+44,
+[]
 ],
 [
 "mixer",
-44
+44,
+[
+"egg-beater",
+"eggbeater",
+"electrical mixer",
+"electric mixer",
+"kitchen mixer",
+"stand mixer"
+]
 ],
 [
 "sponge",
-42
+42,
+[
+"cleaning sponge",
+"kitchen sponge",
+"sponge tool"
+]
 ],
 [
 "meat grinder",
-42
+42,
+[
+"meat mincer"
+]
 ],
 [
 "can opener",
-41
+41,
+[
+"tin opener"
+]
 ],
 [
 "pitcher",
-41
+41,
+[]
 ],
 [
 "nutcracker",
-41
+41,
+[]
 ],
 [
 "cleaver",
-40
+40,
+[
+"meat cleaver"
+]
 ],
 [
 "aluminium foil",
-39
+39,
+[
+"aluminum foil"
+]
 ],
 [
 "waffle iron",
-37
+37,
+[
+"waffle makers",
+"wafflers"
+]
 ],
 [
 "spork",
-37
+37,
+[]
 ],
 [
 "carafe",
-36
+36,
+[]
 ],
 [
 "rice cooker",
-36
+36,
+[
+"electric rice cookers",
+"rice cookers",
+"rice maker",
+"rice makers",
+"rice steamer",
+"rice steamers"
+]
 ],
 [
 "cezve",
-35
+35,
+[]
 ],
 [
 "earthenware",
-35
+35,
+[
+"pottery"
+]
 ],
 [
 "food processor",
-34
+34,
+[
+"chopper",
+"food chopper",
+"multiprocessor"
+]
 ],
 [
 "French press pot",
-34
+34,
+[
+"coffee plunger",
+"coffee press",
+"сafetière à piston"
+]
 ],
 [
 "spatula",
-34
+34,
+[]
 ],
 [
 "lekythos",
-34
+34,
+[]
 ],
 [
 "parchment paper",
-33
+33,
+[
+"bakery paper",
+"bakery release paper",
+"baking paper"
+]
 ],
 [
 "bottle opener",
-32
+32,
+[
+"Bottle Openers"
+]
 ],
 [
 "garlic press",
-32
+32,
+[
+"garlic crusher"
+]
 ],
 [
 "coffee grinder",
-31
+31,
+[
+"coffee mill"
+]
 ],
 [
 "juicer",
-31
+31,
+[
+"juice extractor"
+]
 ],
 [
 "skewer",
-31
+31,
+[]
 ],
 [
 "peeler",
-31
+31,
+[]
 ],
 [
 "deep fryer",
-31
+31,
+[]
 ],
 [
 "pizza cutter",
-31
+31,
+[
+"pizza slicer"
+]
 ],
 [
 "kitchen knife",
-31
+31,
+[]
 ],
 [
 "saucer",
-30
+30,
+[
+"tea saucer"
+]
 ],
 [
 "wine glass",
-30
+30,
+[
+"wineglass"
+]
 ],
 [
 "sugar bowl",
-30
+30,
+[
+"sugar basin"
+]
 ],
 [
 "food steamer",
-28
+28,
+[
+"steamer"
+]
 ],
 [
 "potato masher",
-28
+28,
+[
+"bean masher",
+"crusher",
+"masher",
+"pea masher"
+]
 ],
 [
 "egg slicer",
-28
+28,
+[]
 ],
 [
 "cookware and bakeware",
-28
+28,
+[
+"bakeware",
+"cookware",
+"pots and pans"
+]
 ],
 [
 "skimmer",
-28
+28,
+[]
 ],
 [
 "tava",
-27
+27,
+[
+"sac",
+"saj",
+"saje",
+"tapa",
+"tavah",
+"tawa",
+"tawah"
+]
 ],
 [
 "egg cup",
-27
+27,
+[
+"egg-cup"
+]
 ],
 [
 "cocktail shaker",
-26
+26,
+[]
 ],
 [
 "paper towel",
-26
+26,
+[
+"\"Kitchen Towel\"",
+"Kitchen Towels",
+"kitchen paper",
+"kitchen roll",
+"kitchen towel",
+"poly roll"
+]
 ],
 [
 "brazier",
-26
+26,
+[]
 ],
 [
 "portable stove",
-26
+26,
+[]
 ],
 [
 "metate",
-25
+25,
+[
+"metlatl"
+]
 ],
 [
 "meat tenderizer",
-24
+24,
+[
+"meat mallet",
+"meat pounder"
+]
 ],
 [
 "lemon squeezer",
-24
+24,
+[
+"fruit squeezer"
+]
 ],
 [
 "beverage coaster",
-23
+23,
+[
+"beermat",
+"coaster",
+"drink coaster"
+]
 ],
 [
 "coffee filter",
-23
+23,
+[]
 ],
 [
 "pastry bag",
-23
+23,
+[
+"piping bag"
+]
 ],
 [
 "cooking pot",
-23
+23,
+[
+"pot"
+]
 ],
 [
 "sheet pan",
-23
+23,
+[
+"baker sheet",
+"baking pan",
+"baking sheet",
+"baking tray",
+"cookie sheet"
+]
 ],
 [
 "sauce boat",
-23
+23,
+[
+"gravy boat",
+"sauceboat",
+"sauce boats",
+"sauceboats"
+]
 ],
 [
 "mandoline",
-22
+22,
+[
+"mandolin"
+]
 ],
 [
 "mezzaluna",
-22
+22,
+[]
 ],
 [
 "contraceptive sponge",
-21
+21,
+[
+"Pharmatex",
+"Protectaid",
+"Today sponge"
+]
 ],
 [
 "griddle",
-21
+21,
+[
+"Gas Griddles"
+]
 ],
 [
 "platter",
-20
+20,
+[
+"plate"
+]
 ],
 [
 "oven glove",
-20
+20,
+[
+"oven mitt"
+]
 ],
 [
 "measuring cup",
-20
+20,
+[]
 ],
 [
 "makisu",
-19
+19,
+[
+"sushi mat"
+]
 ],
 [
 "jebena",
-19
+19,
+[]
 ],
 [
 "immersion blender",
-19
+19,
+[
+"Bermixer",
+"hand blender",
+"stick blender",
+"wand blender"
+]
 ],
 [
 "coffee percolator",
-19
+19,
+[
+"percolator"
+]
 ],
 [
 "peel",
-19
+19,
+[
+"bread peel",
+"pizza peel"
+]
 ],
 [
 "bread knife",
-19
+19,
+[
+"bread knives"
+]
 ],
 [
 "cheese slicer",
-18
+18,
+[
+"kitchen slicers"
+]
 ],
 [
 "tureen",
-18
+18,
+[]
 ],
 [
 "hangiri",
-18
+18,
+[
+"sushi oke"
+]
 ],
 [
 "bombilla",
-18
+18,
+[]
 ],
 [
 "oshibori",
-17
+17,
+[
+"hot towel"
+]
 ],
 [
 "scraper",
-17
+17,
+[
+"kitchen scraper",
+"kitchen spatula"
+]
 ],
 [
 "food mold",
-17
+17,
+[
+"baking mold",
+"baking mould",
+"cooking mold",
+"cooking mould",
+"mold",
+"mold for food",
+"mould",
+"mould for food"
+]
 ],
 [
 "coffeepot",
-17
+17,
+[
+"coffee pot"
+]
 ],
 [
 "honey dipper",
-17
+17,
+[
+"honey drizzler",
+"honey wand"
+]
 ],
 [
 "chef's knife",
-17
+17,
+[
+"chef knife",
+"chefs knife",
+"cook's knife",
+"French knife"
+]
 ],
 [
 "table service",
-17
+17,
+[
+"service"
+]
 ],
 [
 "tea strainer",
-17
+17,
+[]
 ],
 [
 "cookie cutter",
-17
+17,
+[
+"biscuit cutter"
+]
 ],
 [
 "wax paper",
-17
+17,
+[
+"paraffin paper",
+"waxed paper",
+"waxpaper"
+]
 ],
 [
 "hibachi",
-17
+17,
+[]
 ],
 [
 "Sač",
-17
+17,
+[
+"Kroatc"
+]
 ],
 [
 "cooktop",
-17
+17,
+[
+"cooker",
+"cookers",
+"cooktops",
+"stovetop"
+]
 ],
 [
 "apple corer",
-17
+17,
+[
+"apple slicer",
+"corer",
+"fruit corer"
+]
 ],
 [
 "ice pick",
-17
+17,
+[
+"Bar Ice Picks"
+]
 ],
 [
 "rocket stove",
-16
+16,
+[
+"InStove",
+"Kelly Kettle"
+]
 ],
 [
 "trivet",
-16
+16,
+[]
 ],
 [
 "table knife",
-16
+16,
+[]
 ],
 [
 "crock (dishware)",
-16
+16,
+[
+"cook-pot",
+"pot"
+]
 ],
 [
 "kitchen utensil",
-16
+16,
+[
+"Cooking and Eating Utensils",
+"cooking utensil",
+"kitchen tools",
+"kitchenware"
+]
 ],
 [
 "dallah",
-16
+16,
+[
+"dalla",
+"dalle",
+"dalleh"
+]
 ],
 [
 "trammel hook",
-16
+16,
+[]
 ],
 [
 "honing steel",
-16
+16,
+[
+"butcher's steel",
+"carving steel",
+"chef's steel",
+"sharpening rod",
+"sharpening steel",
+"sharpening stick",
+"whet steel"
+]
 ],
 [
 "food mill",
-15
+15,
+[]
 ],
 [
 "Spatula kitchen",
-15
+15,
+[
+"perforated spatula",
+"spatula",
+"turner"
+]
 ],
 [
 "milk watcher",
-15
+15,
+[
+"boil over preventer",
+"milk guard",
+"milk saver",
+"pot minder",
+"pot watcher"
+]
 ],
 [
 "mangal",
-15
+15,
+[
+"manghal"
+]
 ],
 [
 "tea set",
-15
+15,
+[
+"tea service"
+]
 ],
 [
 "Cherry pitter",
-15
+15,
+[]
 ],
 [
 "pot-holder",
-15
+15,
+[
+"potholder"
+]
 ],
 [
 "makiyakinabe",
-14
+14,
+[
+"tamagoyaki-ki",
+"tamagoyakinabe"
+]
 ],
 [
 "dish drying cabinet",
-14
+14,
+[
+"dish draining closet",
+"dish dryer machine"
+]
 ],
 [
 "zaru",
-14
+14,
+[]
 ],
 [
 "beer mat",
-13
+13,
+[
+"beer coaster"
+]
 ],
 [
 "Oroshigane",
-13
+13,
+[]
 ],
 [
 "chopstick rest",
-13
+13,
+[
+"chopstick holder"
+]
 ],
 [
 "zester",
-13
+13,
+[
+"citrus zester",
+"lemon zester"
+]
 ],
 [
 "marmite",
-13
+13,
+[]
 ],
 [
 "powder horn",
-13
+13,
+[]
 ],
 [
 "cheese cloche",
-13
+13,
+[
+"cheese bell",
+"cheese cover"
+]
 ],
 [
 "Sujeo",
-13
+13,
+[
+"Spoon and chopsticks"
+]
 ],
 [
 "brasero",
-13
+13,
+[
+"brazier"
+]
 ],
 [
 "muddler",
-13
+13,
+[
+"pestle"
+]
 ],
 [
 "bogrács",
-12
+12,
+[
+"bakraç",
+"bogracs",
+"Bogrács"
+]
 ],
 [
 "herb grinder",
-12
+12,
+[
+"grinder"
+]
 ],
 [
 "whorl",
-12
+12,
+[]
 ],
 [
 "measuring spoon",
-12
+12,
+[]
 ],
 [
 "nutcracker doll",
-12
+12,
+[
+"Christmas nutcracker",
+"nutcracker"
+]
 ],
 [
 "porringer",
-12
-],
-[
-"podstakannik",
-11
-],
-[
-"napkin ring",
-11
-],
-[
-"chinois",
-11
-],
-[
-"tea infuser",
-11
-],
-[
-"baking stone",
-11
-],
-[
-"drinking vessel",
-11
-],
-[
-"potato ricer",
-11
-],
-[
-"pastry brush",
-11
-],
-[
-"Japanese kitchen knife",
-11
-],
-[
-"Suribachi",
-11
-],
-[
-"electric knife",
-11
-],
-[
-"cataplana",
-11
+12,
+[]
 ],
 [
 "pestle",
-11
+11,
+[]
+],
+[
+"podstakannik",
+11,
+[
+"tea glass holder"
+]
+],
+[
+"napkin ring",
+11,
+[]
+],
+[
+"chinois",
+11,
+[]
+],
+[
+"tea infuser",
+11,
+[
+"infuser",
+"teaball"
+]
+],
+[
+"baking stone",
+11,
+[
+"grilling stone",
+"pizza stone"
+]
+],
+[
+"drinking vessel",
+11,
+[
+"drinkware"
+]
+],
+[
+"potato ricer",
+11,
+[
+"ricer"
+]
+],
+[
+"pastry brush",
+11,
+[
+"basting brush"
+]
+],
+[
+"Japanese kitchen knife",
+11,
+[
+"hocho",
+"hōchō",
+"Japanese cutlery"
+]
+],
+[
+"Suribachi",
+11,
+[]
+],
+[
+"electric knife",
+11,
+[
+"electric carving knife"
+]
+],
+[
+"cataplana",
+11,
+[]
 ],
 [
 "egg timer",
-10
+10,
+[
+"kitchen timer"
+]
 ],
 [
 "napkin holder",
-10
+10,
+[]
 ],
 [
 "cast-iron cookware",
-10
+10,
+[]
 ],
 [
 "Thermomix",
-10
+10,
+[
+"Bimby"
+]
 ],
 [
 "strainer",
-10
+10,
+[
+"colander",
+"sieve"
+]
 ],
 [
 "spice mill",
-10
+10,
+[]
 ],
 [
 "salad spinner",
-10
+10,
+[
+"salad tosser"
+]
 ],
 [
 "gridiron",
-10
+10,
+[
+"grid iron",
+"grill",
+"grill basket"
+]
 ],
 [
 "pineapple cutter",
-10
+10,
+[]
 ],
 [
 "olla",
-10
+10,
+[
+"aula",
+"Ollae"
+]
 ],
 [
 "chafing dish",
-9
+9,
+[]
 ],
 [
 "disposable tableware",
-9
+9,
+[
+"disposable cutlery"
+]
 ],
 [
 "potato peeler",
-9
+9,
+[]
 ],
 [
 "billycan",
-9
+9,
+[]
 ],
 [
 "cloche",
-9
+9,
+[
+"silver dish"
+]
 ],
 [
 "dish drainer",
-9
+9,
+[
+"dish rack"
+]
 ],
 [
 "egg separator",
-9
+9,
+[]
 ],
 [
 "cake and pie server",
-9
+9,
+[
+"cake scoop",
+"cake server"
+]
 ],
 [
 "Uruli",
-9
+9,
+[]
 ],
 [
 "butter dish",
-8
+8,
+[]
 ],
 [
 "roller mill",
-8
+8,
+[]
 ],
 [
 "cassotte",
-8
+8,
+[
+"canole",
+"couade",
+"coussotte",
+"hishaku",
+"lo couad"
+]
 ],
 [
 "milk frother",
-8
+8,
+[]
 ],
 [
 "fillet knife",
-8
+8,
+[
+"filleting knife"
+]
 ],
 [
 "knife rest",
-8
+8,
+[]
 ],
 [
 "Handi",
-8
+8,
+[]
 ],
 [
 "sauteuse",
-8
+8,
+[]
 ],
 [
 "cake stand",
-8
+8,
+[]
 ],
 [
 "egg piercer",
-8
+8,
+[]
 ],
 [
 "Frigărui",
-8
+8,
+[]
 ],
 [
 "tian",
-8
+8,
+[]
 ],
 [
 "chasen",
-8
+8,
+[]
 ],
 [
 "fire basket",
-8
+8,
+[
+"burn barrel"
+]
 ],
 [
 "Shichirin",
-8
+8,
+[]
 ],
 [
 "spoon rest",
-8
+8,
+[]
 ],
 [
 "springform pan",
-8
+8,
+[]
 ],
 [
 "glass-ceramic cooktop",
-8
+8,
+[]
 ],
 [
 "nef",
-8
+8,
+[]
 ],
 [
 "donabe",
-7
+7,
+[]
 ],
 [
 "dwojaki",
-7
+7,
+[]
 ],
 [
 "jigger",
-7
+7,
+[
+"Measure"
+]
 ],
 [
 "steam juicer",
-7
+7,
+[
+"steam extractor"
+]
 ],
 [
 "gamasot",
-7
+7,
+[
+"sot"
+]
 ],
 [
 "pasta machine",
-7
+7,
+[]
 ],
 [
 "khytra",
-7
+7,
+[
+"Chytra"
+]
 ],
 [
 "Girolle",
-7
+7,
+[]
 ],
 [
 "Sugar nips",
-7
+7,
+[
+"Zuckerzange"
+]
 ],
 [
 "dolsot",
-7
+7,
+[
+"gopdolsot",
+"stone pot"
+]
 ],
 [
 "spaghetti tongs",
-7
+7,
+[
+"mass tagger"
+]
 ],
 [
 "crepe maker",
-7
+7,
+[
+"Billig"
+]
 ],
 [
 "soy milk maker",
-7
+7,
+[]
 ],
 [
 "teaware",
-7
+7,
+[]
 ],
 [
 "Missoria",
-6
+6,
+[]
 ],
 [
 "surform",
-6
+6,
+[]
 ],
 [
 "yogurt maker",
-6
+6,
+[
+"Yogurt maker",
+"yogurt makers"
+]
 ],
 [
 "oklava",
-6
+6,
+[]
 ],
 [
 "dough scraper",
-6
+6,
+[
+"bench knife",
+"bench scraper",
+"board scraper",
+"dough cutter",
+"dough knife",
+"pastry cutter",
+"pastry scraper"
+]
 ],
 [
 "spit",
-6
+6,
+[]
 ],
 [
 "boerenbont",
-6
+6,
+[]
 ],
 [
 "spoon and chopstick rest",
-6
+6,
+[
+"sujeo rest"
+]
 ],
 [
 "P-38 can opener",
-6
+6,
+[]
 ],
 [
 "combination plate",
-6
+6,
+[
+"partition plate"
+]
 ],
 [
 "butcher knife",
-6
+6,
+[
+"butcher knives",
+"butcher's knife"
+]
 ],
 [
 "pipkin",
-6
+6,
+[
+"grape"
+]
 ],
 [
 "poultry shears",
-6
+6,
+[]
 ],
 [
 "pie bird",
-6
+6,
+[
+"pie chimney",
+"pie funnel",
+"pie vent"
+]
 ],
 [
 "bread pan",
-6
+6,
+[
+"loaf pan"
+]
 ],
 [
 "pastry blender",
-5
+5,
+[]
 ],
 [
 "plate scraper",
-5
+5,
+[
+"maryse",
+"maryse spatula"
+]
 ],
 [
 "Leaf plate",
-5
+5,
+[]
 ],
 [
 "Food slicers",
-5
+5,
+[]
 ],
 [
 "zarf",
-5
+5,
+[]
 ],
 [
 "Eschara",
-5
+5,
+[]
 ],
 [
 "terrine",
-5
+5,
+[]
 ],
 [
 "Dröppelminna",
-5
+5,
+[]
 ],
 [
 "kezuriki",
-5
+5,
+[
+"katsuobushi kezuriki",
+"Katsuobushi kezuriki"
+]
 ],
 [
 "hollowware",
-5
+5,
+[
+"holloware"
+]
 ],
 [
 "Lopas",
-5
+5,
+[]
 ],
 [
 "Menstrual Sponge",
-5
+5,
+[
+"Menstrual Sea Sponge",
+"Soft Tampon"
+]
 ],
 [
 "Whistling kettle",
-5
+5,
+[
+"stovetop kettle"
+]
 ],
 [
 "faisselle",
-5
+5,
+[]
 ],
 [
 "fish kettle",
-5
+5,
+[]
 ],
 [
 "Korchaga",
-5
+5,
+[]
 ],
 [
 "sushi machine",
-5
+5,
+[
+"sushi robot"
+]
 ],
 [
 "Butcher paper",
-5
+5,
+[]
 ],
 [
 "laboratory funnel",
-5
+5,
+[
+"funnel",
+"lab funnel"
+]
 ],
 [
 "Discada",
-5
+5,
+[
+"cowboy wok",
+"plowdisc cooker"
+]
 ],
 [
 "Tamis",
-5
+5,
+[]
 ],
 [
 "dish",
-5
+5,
+[]
 ],
 [
 "spider",
-4
+4,
+[
+"noodle strainer",
+"spider sieve"
+]
 ],
 [
 "bath towel",
-4
+4,
+[]
 ],
 [
 "pastry wheel",
-4
+4,
+[
+"jagging iron",
+"jagging wheel",
+"pastry cutter",
+"pastry jigger"
+]
 ],
 [
 "flagon",
-4
+4,
+[]
 ],
 [
 "table set",
-4
+4,
+[]
 ],
 [
 "ceremonial fire container",
-4
+4,
+[]
 ],
 [
 "Ual",
-4
+4,
+[]
 ],
 [
 "dough basket",
-4
+4,
+[
+"bread-raising basket",
+"dough-rising basket",
+"proofing basket"
+]
 ],
 [
 "Fermentation crock",
-4
+4,
+[]
 ],
 [
 "Kakkabe",
-4
+4,
+[]
 ],
 [
 "citrus reamer",
-4
+4,
+[
+"lemon reamer"
+]
 ],
 [
 "Escargot pincers",
-4
+4,
+[]
 ],
 [
 "butter curler",
-4
+4,
+[]
 ],
 [
 "Heatproof mat",
-4
+4,
+[]
 ],
 [
 "cheese grater",
-4
+4,
+[]
 ],
 [
 "gas lighter",
-4
+4,
+[]
 ],
 [
 "callus shaver",
-4
+4,
+[]
 ],
 [
 "apple slicer",
-4
+4,
+[]
 ],
 [
 "mazagran",
-4
+4,
+[]
 ],
 [
 "spurtle",
-4
+4,
+[]
 ],
 [
 "bottle scraper",
-4
+4,
+[]
 ],
 [
 "cookie press",
-4
+4,
+[]
 ],
 [
 "Ami jakushi",
-4
+4,
+[]
 ],
 [
 "ice cube mold",
-4
+4,
+[
+"ice cube tray",
+"ice tray"
+]
 ],
 [
 "nutmeg grater",
-4
+4,
+[
+"nutmeg rasp"
+]
 ],
 [
 "roasting pan",
-4
+4,
+[
+"roaster",
+"roasting tin"
+]
 ],
 [
 "toast rack",
-4
+4,
+[
+"toastrack"
+]
 ],
 [
 "knife sharpener",
-4
+4,
+[]
 ],
 [
 "Petroleum stove",
-3
+3,
+[]
 ],
 [
 "Anban",
-3
+3,
+[
+"byeongan",
+"tteokpan"
+]
 ],
 [
 "Passe-Vite",
-3
+3,
+[]
 ],
 [
 "apple peeler",
-3
+3,
+[]
 ],
 [
 "Flour sifter",
-3
+3,
+[]
 ],
 [
 "lebrillo",
-3
+3,
+[]
 ],
 [
 "green bean slicer",
-3
+3,
+[]
 ],
 [
 "Microplane",
-3
+3,
+[]
 ],
 [
 "frosting spatula",
-3
+3,
+[
+"icing spatula",
+"leveler",
+"metal spatula",
+"palette knife"
+]
 ],
 [
 "Crepe pan",
-3
+3,
+[]
 ],
 [
 "play crockery",
-3
+3,
+[]
 ],
 [
 "snail fork",
-3
+3,
+[]
 ],
 [
 "Boston shaker",
-3
+3,
+[]
 ],
 [
 "Corkscrew",
-3
+3,
+[]
 ],
 [
 "fish cutlery",
-3
+3,
+[]
 ],
 [
 "Waguan",
-3
+3,
+[
+"Waguan tang"
+]
 ],
 [
 "pan",
-3
+3,
+[]
 ],
 [
 "potato paring knife",
-3
+3,
+[
+"Paring knives"
+]
 ],
 [
 "moquém",
-3
+3,
+[
+"boucan",
+"buccan"
+]
 ],
 [
 "kōrikoppu",
-3
+3,
+[]
 ],
 [
 "lame",
-3
+3,
+[]
 ],
 [
 "lobster pick",
-3
+3,
+[
+"lobster fork"
+]
 ],
 [
 "Mouli grater",
-3
+3,
+[
+"rotational grater"
+]
 ],
 [
 "oshizushihako",
-3
+3,
+[
+"oshi zushi hako",
+"sushi gata",
+"sushi waku"
+]
 ],
 [
 "salad servers",
-3
+3,
+[]
 ],
 [
 "Scotch hands",
-3
+3,
+[
+"butter beaters",
+"butter hands",
+"butter pats",
+"butter workers"
+]
 ],
 [
 "Wonder Pot",
-3
+3,
+[]
 ],
 [
 "tamper",
-3
+3,
+[
+"coffee tamper",
+"Espresso tamper"
+]
 ],
 [
 "rice washer",
-2
+2,
+[]
 ],
 [
 "coffee scoop",
-2
+2,
+[]
 ],
 [
 "coffee spoon",
-2
+2,
+[]
 ],
 [
 "cake pan",
-2
+2,
+[
+"cake mould"
+]
 ],
 [
 "bakeware",
-2
+2,
+[]
 ],
 [
 "banneton",
-2
+2,
+[]
 ],
 [
 "Sushigeta",
-2
+2,
+[]
 ],
 [
 "shōyu-sashi",
-2
+2,
+[
+"shōyusashi",
+"soy sauce bottle",
+"soy sauce dispenser"
+]
 ],
 [
 "ohitsu",
-2
+2,
+[
+"meshibitsu"
+]
 ],
 [
 "champagne stirrer",
-2
+2,
+[
+"champagne whisk"
+]
 ],
 [
 "downpipe leaf trap",
-2
+2,
+[
+"leaf catcher"
+]
 ],
 [
 "pot",
-2
+2,
+[]
 ],
 [
 "Madam Blå",
-2
+2,
+[]
 ],
 [
 "Presssack",
-2
+2,
+[]
 ],
 [
 "Uri",
-2
+2,
+[]
 ],
 [
 "bamboo skewer",
-2
+2,
+[]
 ],
 [
 "potato grater",
-2
+2,
+[]
 ],
 [
 "wok brush",
-2
+2,
+[]
 ],
 [
 "Multiboy",
-2
+2,
+[]
 ],
 [
 "Passierwiege",
-2
+2,
+[]
 ],
 [
 "jacket potato skewer",
-2
+2,
+[]
 ],
 [
 "splatter guard",
-2
+2,
+[
+"splatter screen"
+]
 ],
 [
 "square ceramic bowl with handle for embers or fruit",
-2
+2,
+[
+"17th-century Dutch ceramic brazier",
+"brazier (ceramic)",
+"fruittest",
+"test (Dutch smoking utensil)",
+"vuurtest"
+]
 ],
 [
 "sautoir",
-2
+2,
+[]
 ],
 [
 "herb scissors",
-2
+2,
+[]
 ],
 [
 "onion chopper",
-2
+2,
+[]
 ],
 [
 "larding needle",
-2
+2,
+[]
 ],
 [
 "pickle lifter",
-2
+2,
+[
+"cucumber elevator",
+"lifting tray",
+"lift up strainer",
+"lift-up strainer",
+"pickle elevator"
+]
 ],
 [
 "Embossing mat",
-2
+2,
+[]
 ],
 [
 "Luffa sponge",
-2
+2,
+[]
 ],
 [
 "Blue Ridge",
-2
+2,
+[]
 ],
 [
 "Brustolina",
-2
+2,
+[
+"graticola",
+"tostapane",
+"tosta pane e polenta"
+]
 ],
 [
 "Cassolette",
-2
+2,
+[]
 ],
 [
 "Chakla",
-2
+2,
+[]
 ],
 [
 "chip pan",
-2
+2,
+[]
 ],
 [
 "chocolate temper meter",
-2
+2,
+[]
 ],
 [
 "crab cracker",
-2
+2,
+[]
 ],
 [
 "crepulja",
-2
+2,
+[]
 ],
 [
 "simmering plate",
-2
+2,
+[
+"Diffuser",
+"flame tamer"
+]
 ],
 [
 "disposable towel",
-2
+2,
+[]
 ],
 [
 "Dry pasta line",
-2
+2,
+[]
 ],
 [
 "G.I. pocket stove",
-2
+2,
+[]
 ],
 [
 "Heat sources for cooking",
-2
+2,
+[]
 ],
 [
 "Mihbaj",
-2
+2,
+[]
 ],
 [
 "cutlery holder",
-2
+2,
+[
+"utensil stand"
+]
 ],
 [
 "Osterizer",
-2
+2,
+[]
 ],
 [
 "palayok",
-2
+2,
+[
+"anglit"
+]
 ],
 [
 "shaguo",
-2
+2,
+[
+"Chinese clay pots"
+]
 ],
 [
 "pot rack",
-2
+2,
+[]
 ],
 [
 "rally towel",
-2
+2,
+[]
 ],
 [
 "soup plate",
-2
+2,
+[]
 ],
 [
 "killing cone",
-2
+2,
+[
+"poultry cone",
+"restraining cone"
+]
 ],
 [
 "culinary mill",
-2
+2,
+[
+"grinder (kitchen)"
+]
+],
+[
+"breadboard",
+1,
+[
+"baking tray"
+]
+],
+[
+"Gunda",
+1,
+[]
+],
+[
+"hand towel",
+1,
+[]
+],
+[
+"face towel",
+1,
+[]
+],
+[
+"schampur",
+1,
+[]
+],
+[
+"baster",
+1,
+[
+"turkey baster"
+]
+],
+[
+"egg platter",
+1,
+[
+"deviled egg plate"
+]
+],
+[
+"saddle quern",
+1,
+[
+"grinding stone",
+"saddle-quern"
+]
+],
+[
+"skillet",
+1,
+[]
+],
+[
+"incense bowl",
+1,
+[]
+],
+[
+"petrol burner",
+1,
+[]
+],
+[
+"hōroku",
+1,
+[]
+],
+[
+"warigo",
+1,
+[
+"わりご",
+"破子",
+"破籠"
+]
+],
+[
+"sugar dispenser",
+1,
+[]
+],
+[
+"muffin & pastry pan",
+1,
+[]
+],
+[
+"sauté pan",
+1,
+[]
+],
+[
+"serveware",
+1,
+[]
+],
+[
+"beach towel",
+1,
+[]
+],
+[
+"pallissó",
+1,
+[]
+],
+[
+"metal griddle",
+1,
+[
+"iron griddle"
+]
+],
+[
+"Combination eating utensils",
+1,
+[]
+],
+[
+"disposable cooking glove",
+1,
+[
+"cooking glove"
+]
+],
+[
+"Şadara",
+1,
+[]
+],
+[
+"loofah",
+1,
+[
+"bath body puff",
+"body puff",
+"loofa",
+"shower puff"
+]
+],
+[
+"kitchen scissors",
+1,
+[
+"kitchen shears"
+]
+],
+[
+"Beruk",
+1,
+[]
+],
+[
+"apothecary mortar",
+1,
+[]
+],
+[
+"steamer pan",
+1,
+[]
+],
+[
+"Shoyu zara",
+1,
+[]
+],
+[
+"Nambé Ware",
+1,
+[]
+],
+[
+"komaliewant",
+1,
+[]
+],
+[
+"Spaetzle maker",
+1,
+[]
+],
+[
+"Utō shakushi",
+1,
+[
+"Uto shakushi"
+]
+],
+[
+"lint filter",
+1,
+[
+"lint trap",
+"Pump filter"
+]
+],
+[
+"service cutlery",
+1,
+[
+"serving utensil",
+"serving utensils"
+]
+],
+[
+"Leutel",
+1,
+[
+"warleutel"
+]
+],
+[
+"tomato slicer",
+1,
+[]
+],
+[
+"kitchen exhaust",
+1,
+[]
+],
+[
+"beer skimmer",
+1,
+[]
+],
+[
+"covered beaker",
+1,
+[
+"decorative cup"
+]
+],
+[
+"Mounted corkscrew",
+1,
+[]
+],
+[
+"Der Gerät",
+1,
+[]
+],
+[
+"Dipping pin",
+1,
+[
+"Chocolate Fork"
+]
+],
+[
+"meat knife",
+1,
+[]
+],
+[
+"lip",
+1,
+[]
+],
+[
+"tart pan",
+1,
+[
+"pie dish"
+]
+],
+[
+"asparagus tongs",
+1,
+[]
+],
+[
+"outdoor kitchens",
+1,
+[]
+],
+[
+"menu holder",
+1,
+[
+"table tent"
+]
+],
+[
+"bierhobel",
+1,
+[]
+],
+[
+"Bakestone",
+1,
+[]
+],
+[
+"fries cutter",
+1,
+[]
+],
+[
+"Bedourie oven",
+1,
+[]
+],
+[
+"Beverage opener",
+1,
+[]
+],
+[
+"church key",
+1,
+[
+"churchkey"
+]
+],
+[
+"cimeter",
+1,
+[
+"cimeter knife",
+"scimitar"
+]
+],
+[
+"Food carrier",
+1,
+[]
+],
+[
+"dough mixer",
+1,
+[
+"dough blender"
+]
+],
+[
+"Farberware",
+1,
+[]
+],
+[
+"Gilhoolie",
+1,
+[]
+],
+[
+"Grabit",
+1,
+[]
+],
+[
+"saj",
+1,
+[]
+],
+[
+"Herb chopper",
+1,
+[]
+],
+[
+"Maya (cutlery)",
+1,
+[]
+],
+[
+"The sideboard kettle",
+1,
+[]
+],
+[
+"Cole slaw board",
+1,
+[]
+],
+[
+"kofah",
+1,
+[]
+],
+[
+"Magic Bullet",
+1,
+[
+"magic bullet blender",
+"Magic Bullet Blender"
+]
+],
+[
+"Kilince",
+1,
+[]
+],
+[
+"Sunbeam CG",
+1,
+[]
+],
+[
+"Wonderbag",
+1,
+[]
+],
+[
+"Cobbler shaker",
+1,
+[]
+],
+[
+"paring knife",
+1,
+[]
+],
+[
+"dinner service",
+1,
+[]
+],
+[
+"cake basket",
+1,
+[]
+],
+[
+"jelly glass",
+1,
+[]
+],
+[
+"carving knife",
+1,
+[]
+],
+[
+"Juicero Press",
+0,
+[
+"Juicero juicer",
+"Juicero machine"
+]
+],
+[
+"salt grinder",
+0,
+[]
+],
+[
+"bathroom floor",
+0,
+[]
+],
+[
+"towel (leisure)",
+0,
+[]
+],
+[
+"toilet towel",
+0,
+[]
+],
+[
+"table marker",
+0,
+[]
+],
+[
+"spatula pharmaceutical",
+0,
+[]
+],
+[
+"cozy",
+0,
+[]
+],
+[
+"peanut roaster",
+0,
+[]
+],
+[
+"coffee ball roaster",
+0,
+[]
+],
+[
+"cane mill",
+0,
+[
+"sugarcane mill"
+]
+],
+[
+"cassava grater",
+0,
+[]
+],
+[
+"shell cereals",
+0,
+[]
+],
+[
+"ladle sauce",
+0,
+[]
+],
+[
+"culinary brush",
+0,
+[]
+],
+[
+"dough roller cutter",
+0,
+[]
+],
+[
+"crab hammer",
+0,
+[]
+],
+[
+"teapot",
+0,
+[]
+],
+[
+"pot (samovar)",
+0,
+[]
+],
+[
+"cup",
+0,
+[]
+],
+[
+"plate (stove)",
+0,
+[]
+],
+[
+"canecão",
+0,
+[]
+],
+[
+"frying basket",
+0,
+[]
+],
+[
+"oil strainer",
+0,
+[]
+],
+[
+"copper-cake",
+0,
+[]
+],
+[
+"spoon (kitchen)",
+0,
+[]
+],
+[
+"spoon rice",
+0,
+[]
+],
+[
+"cup to catch water",
+0,
+[]
+],
+[
+"platter of rest",
+0,
+[]
+],
+[
+"gin (kitchen)",
+0,
+[]
+],
+[
+"olive gin",
+0,
+[]
+],
+[
+"cutlery drainer",
+0,
+[]
+],
+[
+"squeezer (kitchen)",
+0,
+[]
+],
+[
+"ice mold",
+0,
+[]
+],
+[
+"loaf of brown sugar",
+0,
+[]
+],
+[
+"forminha patty",
+0,
+[]
+],
+[
+"kit culinary meters",
+0,
+[]
+],
+[
+"legumeira",
+0,
+[]
+],
+[
+"milkmaid",
+0,
+[]
+],
+[
+"culinary meter",
+0,
+[]
+],
+[
+"shovel cheese",
+0,
+[]
+],
+[
+"toothpick dispenser",
+0,
+[]
+],
+[
+"handle legumeira",
+0,
+[]
+],
+[
+"ice tongs",
+0,
+[]
+],
+[
+"door-eggs",
+0,
+[]
+],
+[
+"coconut scraper",
+0,
+[]
+],
+[
+"sieve (mining)",
+0,
+[]
+],
+[
+"board",
+0,
+[]
+],
+[
+"dishabille",
+0,
+[]
+],
+[
+"dessert cup",
+0,
+[]
+],
+[
+"shovel cake",
+0,
+[]
+],
+[
+"silverware salad",
+0,
+[]
+],
+[
+"door-toast",
+0,
+[]
+],
+[
+"cheese making",
+0,
+[]
+],
+[
+"board crab",
+0,
+[]
+],
+[
+"cheese board",
+0,
+[]
+],
+[
+"olive tray",
+0,
+[]
+],
+[
+"flat cooking pot",
+0,
+[]
+],
+[
+"hot egg cup",
+0,
+[]
+],
+[
+"creamer",
+0,
+[]
+],
+[
+"coaster",
+0,
+[]
+],
+[
+"salamander",
+0,
+[]
+],
+[
+"dirty dishes",
+0,
+[]
+],
+[
+"punch ladle",
+0,
+[]
+],
+[
+"masticating juicer",
+0,
+[]
+],
+[
+"high-speed centrifugal juicer",
+0,
+[
+"HSC juicer"
+]
+],
+[
+"egg mold",
+0,
+[]
+],
+[
+"pan for marcipan",
+0,
+[]
+],
+[
+"wooden knife",
+0,
+[]
+],
+[
+"oyster shell",
+0,
+[]
+],
+[
+"cosmetic pestle",
+0,
+[]
+],
+[
+"libation ladle",
+0,
+[]
+],
+[
+"paint can key",
+0,
+[
+"paint can opener"
+]
+],
+[
+"table decorations",
+0,
+[
+"table settings and decorations"
+]
+],
+[
+"laboratory blender",
+0,
+[
+"Laboratory Blender"
+]
+],
+[
+"handheld power mixer",
+0,
+[]
+],
+[
+"baking peel",
+0,
+[]
+],
+[
+"basting brush",
+0,
+[]
+],
+[
+"beverage dispenser",
+0,
+[]
+],
+[
+"cake decorating supply",
+0,
+[]
+],
+[
+"can crusher",
+0,
+[]
+],
+[
+"carving fork",
+0,
+[]
+],
+[
+"channel knife",
+0,
+[]
+],
+[
+"colanders & strainer",
+0,
+[]
+],
+[
+"condiment dispenser",
+0,
+[]
+],
+[
+"cooking thermometer accessory",
+0,
+[]
+],
+[
+"cooking timer",
+0,
+[]
+],
+[
+"cooking torch",
+0,
+[]
+],
+[
+"dish racks & drain board",
+0,
+[]
+],
+[
+"dough wheel",
+0,
+[]
+],
+[
+"electric knife accessory",
+0,
+[]
+],
+[
+"electric knife replacement blade",
+0,
+[]
+],
+[
+"food & drink stencil",
+0,
+[]
+],
+[
+"food cracker",
+0,
+[]
+],
+[
+"lobster & crab cracker",
+0,
+[]
+],
+[
+"decorative nutcracker",
+0,
+[]
+],
+[
+"food dispenser",
+0,
+[]
+],
+[
+"food graters & zester",
+0,
+[]
+],
+[
+"food peelers & corer",
+0,
+[]
+],
+[
+"food steaming bag",
+0,
+[]
+],
+[
+"food sticks & skewer",
+0,
+[]
+],
+[
+"gelatin mold",
+0,
+[]
+],
+[
+"kitchen mold",
+0,
+[]
+],
+[
+"kitchen organizer",
+0,
+[]
+],
+[
+"can organizer",
+0,
+[]
+],
+[
+"drinkware holder",
+0,
+[]
+],
+[
+"kitchen cabinet organizer",
+0,
+[]
+],
+[
+"kitchen counter & beverage station organizer",
+0,
+[]
+],
+[
+"kitchen utensil holders & rack",
+0,
+[]
+],
+[
+"knife blocks & holder",
+0,
+[]
+],
+[
+"napkin holders & dispenser",
+0,
+[]
+],
+[
+"paper towel holders & dispenser",
+0,
+[]
+],
+[
+"spice organizer",
+0,
+[]
+],
+[
+"straw holders & dispenser",
+0,
+[]
+],
+[
+"sugar caddie",
+0,
+[]
+],
+[
+"toothpick holders & dispenser",
+0,
+[]
+],
+[
+"utensil & flatware tray",
+0,
+[]
+],
+[
+"grill scraper",
+0,
+[]
+],
+[
+"kitchen shears",
+0,
+[]
+],
+[
+"kitchen utensil set",
+0,
+[]
+],
+[
+"measuring cups and spoon",
+0,
+[]
+],
+[
+"oil & vinegar dispenser",
+0,
+[]
+],
+[
+"oven mitts & pot holder",
+0,
+[]
+],
+[
+"pasta molds & stamp",
+0,
+[]
+],
+[
+"pastry cloth",
+0,
+[]
+],
+[
+"pizza cutter accessory",
+0,
+[]
+],
+[
+"rolling pin accessory",
+0,
+[]
+],
+[
+"rolling pin covers & sleeve",
+0,
+[]
+],
+[
+"rolling pin ring",
+0,
+[]
+],
+[
+"salad dressing mixers & shaker",
+0,
+[]
+],
+[
+"ice scoop",
+0,
+[]
+],
+[
+"sink caddie",
+0,
+[]
+],
+[
+"sink mats & grid",
+0,
+[]
+],
+[
+"spice grinder accessory",
+0,
+[]
+],
+[
+"spice grinder",
+0,
+[]
+],
+[
+"bakeware set",
+0,
+[]
+],
+[
+"baking & cookie sheet",
+0,
+[]
+],
+[
+"broiling pan",
+0,
+[]
+],
+[
+"cake pans & mold",
+0,
+[]
+],
+[
+"cookware set",
+0,
+[]
+],
+[
+"crêpe & blini pan",
+0,
+[]
+],
+[
+"fermentation & pickling crock",
+0,
+[]
+],
+[
+"griddles & grill pan",
+0,
+[]
+],
+[
+"grill press",
+0,
+[]
+],
+[
+"paella pan",
+0,
+[]
+],
+[
+"pressure cookers & canner",
+0,
+[]
+],
+[
+"skillets & frying pan",
+0,
+[]
+],
+[
+"tagines & clay cooking pot",
+0,
+[]
+],
+[
+"coffee & tea set",
+0,
+[]
+],
+[
+"coffee servers & tea pot",
+0,
+[]
+],
+[
+"chopstick accessory",
+0,
+[]
+],
+[
+"flatware set",
+0,
+[]
+],
+[
+"salt & pepper shaker",
+0,
+[]
+],
+[
+"serveware accessory",
+0,
+[]
+],
+[
+"tablecloth clips & weight",
+0,
+[]
+],
+[
+"bath towels & washcloth",
+0,
+[]
+],
+[
+"cupcake liners",
+0,
+[
+"cupcake cups",
+"muffin cups",
+"muffin liners"
+]
+],
+[
+"pot-à-oille",
+0,
+[
+"pot à oille",
+"pots-à-oille"
+]
+],
+[
+"Freudenthal's sieve",
+0,
+[
+"Freudenthal's table"
+]
+],
+[
+"Flour Roasting Oven",
+0,
+[
+"Rousting Pan"
+]
+],
+[
+"dough sheeter",
+0,
+[]
+],
+[
+"zu",
+0,
+[]
+],
+[
+"Stone handi",
+0,
+[
+"Stone pot"
+]
+],
+[
+"nut mill",
+0,
+[
+"nut chopper",
+"nut grinder"
+]
+],
+[
+"sorghum mill",
+0,
+[]
+],
+[
+"Plate, fish design, overglaze enamels",
+0,
+[]
+],
+[
+"opaline paper",
+0,
+[]
+],
+[
+"potter's knife",
+0,
+[]
+],
+[
+"copper cookware",
+0,
+[
+"copper bowl",
+"copper pan",
+"copper pot",
+"copperware"
+]
+],
+[
+"pipe brazier",
+0,
+[]
+],
+[
+"paring peeler",
+0,
+[
+"paring knife"
+]
+],
+[
+"cream skimmer",
+0,
+[
+"skimming dish"
+]
+],
+[
+"pasta maker",
+0,
+[
+"noodle maker",
+"pasta machine"
+]
+],
+[
+"hand beater",
+0,
+[
+"rotary beater"
+]
+],
+[
+"roaster",
+0,
+[
+"vertical broilers",
+"vertical grill"
+]
+],
+[
+"egg poacher",
+0,
+[]
+],
+[
+"caviar box",
+0,
+[]
+],
+[
+"chork",
+0,
+[]
+],
+[
+"brandy warmer",
+0,
+[
+"brandy warmers"
+]
+],
+[
+"tajine",
+0,
+[]
+],
+[
+"milk pot",
+0,
+[]
+],
+[
+"Chinese teaware",
+0,
+[]
+],
+[
+"taco shell pan",
+0,
+[]
+],
+[
+"cake tin",
+0,
+[]
+],
+[
+"tourne knife",
+0,
+[
+"bird's beak knife",
+"tourné knife"
+]
+],
+[
+"produce knife",
+0,
+[
+"vegetable produce knife"
+]
+],
+[
+"dinnerware",
+0,
+[]
+],
+[
+"towel end",
+0,
+[]
+],
+[
+"lime spatula",
+0,
+[]
+],
+[
+"Chemex Coffeemaker half moon filters",
+0,
+[
+"Half moon filter"
+]
+],
+[
+"grill broil",
+0,
+[]
+],
+[
+"cabaret",
+0,
+[]
+],
+[
+"garnish",
+0,
+[]
+],
+[
+"dredger",
+0,
+[
+"dredge",
+"dredging box",
+"drudger",
+"drudging box"
+]
 ]
 ]

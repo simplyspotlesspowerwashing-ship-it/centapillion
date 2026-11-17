@@ -1,254 +1,483 @@
 [
 [
 "spaghetti",
-94
+94,
+[
+"Spaghetti",
+"spaghetti noodle"
+]
 ],
 [
 "tiramisu",
-83
+83,
+[]
 ],
 [
 "lasagna",
-81
+81,
+[
+"lasagne"
+]
 ],
 [
 "carbonara",
-58
+58,
+[
+"pasta alla carbonara",
+"spaghetti alla carbonara",
+"spaghetti carbonara"
+]
 ],
 [
 "Caesar salad",
-57
+57,
+[]
 ],
 [
 "panna cotta",
-57
+57,
+[]
 ],
 [
 "cabbage roll",
-48
+48,
+[
+"cabbage rolls",
+"stuffed cabbage"
+]
 ],
 [
 "carpaccio",
-45
+45,
+[]
 ],
 [
 "pecorino",
-43
+43,
+[]
 ],
 [
 "ciabatta",
-42
+42,
+[]
 ],
 [
 "tagliatelle",
-40
+40,
+[]
 ],
 [
 "frittata",
-39
+39,
+[]
 ],
 [
 "panini",
-37
+37,
+[
+"grilled sandwich",
+"Italian sandwich",
+"panini sandwich"
+]
 ],
 [
 "cannelloni",
-37
+37,
+[]
 ],
 [
 "Saltimbocca",
-33
+33,
+[
+"Saltinbocca"
+]
 ],
 [
 "guanciale",
-32
+32,
+[]
 ],
 [
 "antipasto",
-31
+31,
+[]
 ],
 [
 "Piadina",
-27
+27,
+[]
 ],
 [
 "Marinara sauce",
-25
+25,
+[]
 ],
 [
 "Biscotti",
-25
+25,
+[
+"Cantuccio"
+]
 ],
 [
 "trattoria",
-23
+23,
+[]
 ],
 [
 "sfogliatelle",
-23
+23,
+[]
 ],
 [
 "Stracciatella",
-22
+22,
+[
+"stracciatella gelato",
+"stracciatella ice cream"
+]
 ],
 [
 "capellini",
-20
+20,
+[]
 ],
 [
 "Torta caprese",
-20
+20,
+[]
 ],
 [
 "Milanesa",
-19
+19,
+[]
 ],
 [
 "Acquacotta",
-19
+19,
+[]
 ],
 [
 "agnolotti",
-19
+19,
+[
+"Agnelot",
+"agnolotto"
+]
 ],
 [
 "Agliata",
-19
+19,
+[]
 ],
 [
 "Cioppino",
-18
+18,
+[]
 ],
 [
 "Supplì",
-17
+17,
+[
+"Suppli"
+]
 ],
 [
 "Crostata",
-17
+17,
+[]
 ],
 [
 "Lampredotto",
-17
+17,
+[]
 ],
 [
 "stuffed squash",
-17
+17,
+[
+"Kousa Mahshi",
+"Punjene tikvice",
+"stuffed zucchinis"
+]
 ],
 [
 "Colomba di Pasqua",
-16
+16,
+[
+"Colomba pasquale",
+"Easter dove"
+]
 ],
 [
 "bombolone",
-16
+16,
+[]
 ],
 [
 "stuffed tomatoes",
-16
+16,
+[
+"stuffed tomato",
+"Stuffed tomatoes"
+]
 ],
 [
 "pastéis de Bacalhau",
-16
+16,
+[
+"pasteis de Bacalhau"
+]
 ],
 [
 "Cassoeula",
-15
+15,
+[]
 ],
 [
 "stracciatella",
-15
+15,
+[]
 ],
 [
 "Spumoni",
-14
+14,
+[]
 ],
 [
 "Passatelli",
-14
+14,
+[]
 ],
 [
 "Cassatella di Sant'Agata",
-11
+11,
+[]
 ],
 [
 "Giardiniera",
-11
+11,
+[]
 ],
 [
 "wedding soup",
-11
+11,
+[
+"Italian wedding soup"
+]
 ],
 [
 "paccheri",
-10
+10,
+[]
 ],
 [
 "walnut soup",
-9
+9,
+[]
 ],
 [
 "Coda alla vaccinara",
-9
+9,
+[]
 ],
 [
 "Torta setteveli",
-9
+9,
+[]
 ],
 [
 "spaghetti alla Nerano",
-9
+9,
+[]
 ],
 [
 "Rafanata",
-8
+8,
+[]
 ],
 [
 "Zuppa pavese",
-7
+7,
+[]
 ],
 [
 "Pizza dolce di Beridde",
-7
+7,
+[
+"diamanti romani",
+"pizza ebraica"
+]
 ],
 [
 "Mondeghili",
-7
+7,
+[]
 ],
 [
 "salume",
-7
+7,
+[
+"Italian charcuterie",
+"salumi",
+"salumi of Italy"
+]
 ],
 [
 "Torta pasqualina",
-7
+7,
+[]
 ],
 [
 "pizza pugliese",
-6
+6,
+[]
 ],
 [
 "Cotoletta alla bolognese",
-6
+6,
+[]
 ],
 [
 "torta della nonna",
-6
+6,
+[
+"grandma's cake"
+]
 ],
 [
 "budino",
-6
+6,
+[
+"creamy pudding",
+"pudding"
+]
 ],
 [
 "sugo alla puttanesca",
-4
+4,
+[
+"puttanesca"
+]
 ],
 [
 "Salame genovese di Sant'Olcese",
-3
+3,
+[]
 ],
 [
 "sformato",
-3
+3,
+[]
+],
+[
+"Conti roll",
+2,
+[
+"continental roll"
+]
+],
+[
+"pizza with salami",
+2,
+[]
+],
+[
+"Pangiallo",
+2,
+[
+"yellow bread"
+]
+],
+[
+"pisarei",
+1,
+[]
+],
+[
+"Pampavìa",
+1,
+[]
+],
+[
+"Abbunata",
+1,
+[]
+],
+[
+"Bullitu",
+1,
+[]
+],
+[
+"Pastetta",
+1,
+[]
+],
+[
+"Pipareddi",
+1,
+[]
+],
+[
+"Spillonga",
+1,
+[]
+],
+[
+"Tunnina",
+1,
+[]
+],
+[
+"Tàfara",
+1,
+[]
+],
+[
+"Kodinzòn",
+1,
+[]
+],
+[
+"list of Italian restaurants",
+1,
+[]
+],
+[
+"Drago restaurants",
+1,
+[
+"Drago"
+]
+],
+[
+"Italian restaurant",
+1,
+[
+"Italian style restaurant"
+]
+],
+[
+"The Electric Banana",
+1,
+[]
+],
+[
+"Pomodoro",
+0,
+[]
+],
+[
+"Zuccoto",
+0,
+[]
+],
+[
+"Italian cheese",
+0,
+[
+"Italian cheeses"
+]
 ]
 ]

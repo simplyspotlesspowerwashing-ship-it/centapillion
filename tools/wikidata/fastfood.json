@@ -1,1466 +1,3958 @@
 [
 [
 "McDonald's",
-137
+137,
+[
+"Macca's",
+"Maccas",
+"McDonald's Restaurant",
+"Mickey D's"
+]
 ],
 [
 "Burger King",
-112
+112,
+[
+"Burger King Corporation",
+"Insta-Burger King"
+]
 ],
 [
 "KFC",
-98
+98,
+[
+"KFC Restaurant"
+]
 ],
 [
 "Pizza Hut",
-96
+96,
+[
+"Pizza Hut Express",
+"Pizza Hut, Inc.",
+"Pizza Hut mobile app"
+]
 ],
 [
 "Jack in the Box",
-63
+63,
+[
+"JITB"
+]
 ],
 [
 "Carl's Jr.",
-60
+60,
+[
+"Carl's Jr",
+"Carls Jr",
+"Carl's Junior",
+"Carls Junior"
+]
 ],
 [
 "Subway",
-58
+58,
+[
+"SUBWAY",
+"Subway IP LLC",
+"Subway (restaurant)"
+]
 ],
 [
 "Domino's Pizza",
-57
+57,
+[
+"Domino's Pizza, Inc."
+]
 ],
 [
 "Dunkin'",
-55
+55,
+[
+"DD",
+"Dunkin D",
+"Dunkin Donuts",
+"Dunkin' Donuts",
+"Dunkin Donuts Coffee"
+]
 ],
 [
 "A&W Restaurants",
-51
+51,
+[
+"Allen and Wright",
+"A&w all-american food",
+"A&W All-American Food",
+"A&w all-american food restaurant",
+"A&W All-American Food Restaurant",
+"A&W Restaurant",
+"A&w restaurants",
+"A & W Restaurants",
+"A&W Restaurants Inc.",
+"A&W Restaurants, Inc.",
+"Baby Burger",
+"Mama Burger",
+"Teen Burger"
+]
 ],
 [
 "Taco Bell",
-49
+49,
+[]
 ],
 [
 "Wendy's",
-48
+48,
+[
+"Wendys"
+]
 ],
 [
 "In-N-Out Burger",
-45
+45,
+[
+"In and Out burger",
+"In-N-Out"
+]
 ],
 [
 "Whataburger",
-45
+45,
+[]
 ],
 [
 "Jollibee",
-44
+44,
+[
+"Jolibe",
+"Jolibee"
+]
 ],
 [
 "Wienerschnitzel",
-39
+39,
+[]
 ],
 [
 "Chick-fil-A",
-39
+39,
+[]
 ],
 [
 "Popeyes",
-38
+38,
+[
+"Popeye's",
+"Popeyes Chicken and Biscuits",
+"Popeye's Chicken & Biscuits",
+"Popeyes Chicken & Biscuits",
+"Popeyes Famous Fried Chicken",
+"Popeyes Famous Fried Chicken and Biscuits",
+"Popeyes Famous Fried Chicken & Biscuits",
+"Popeyes Louisiana Kitchen",
+"Popeyes Louisiana Kitchen, Inc."
+]
 ],
 [
 "Dairy Queen",
-32
+32,
+[
+"DQ"
+]
 ],
 [
 "Five Guys",
-30
+30,
+[
+"Five Guys Burgers and Fries",
+"Five Guys Burgers & Fries"
+]
 ],
 [
 "Krispy Kreme",
-30
+30,
+[
+"Krispy Kreme Doughnuts, Inc."
+]
 ],
 [
 "Vkusno i Tochka",
-29
+29,
+[
+"Delicious, full stop",
+"Tasty and dot",
+"Tasty and that's it",
+"Tasty And That’s It",
+"Tasty - period",
+"Tasty Russia",
+"Vkusno i tochka",
+"Vkusno & tochka"
+]
 ],
 [
 "Papa John's",
-29
+29,
+[
+"Papa John's Pizza",
+"Papa Johns Pizza"
+]
 ],
 [
 "Arby's",
-28
+28,
+[]
 ],
 [
 "Hesburger",
-27
+27,
+[]
 ],
 [
 "Panda Express",
-25
+25,
+[
+"Panda Express Chinese Kitchen"
+]
 ],
 [
 "White Castle",
-24
+24,
+[]
 ],
 [
 "Little Caesars",
-24
+24,
+[
+"Little Caesar Enterprises Inc.",
+"Little Caesars International"
+]
 ],
 [
 "Yoshinoya",
-24
+24,
+[]
 ],
 [
 "MOS Burger",
-22
+22,
+[
+"MOS Food Services"
+]
 ],
 [
 "Checkers and Rally's",
-20
+20,
+[
+"Checkers",
+"Checkers Drive-In Restaurants",
+"Checkers Drive-In Restaurants, Inc.",
+"Rally's"
+]
 ],
 [
 "Long John Silver's",
-19
+19,
+[
+"Long John Silver’s"
+]
 ],
 [
 "Sbarro",
-19
+19,
+[]
 ],
 [
 "Lotteria",
-18
+18,
+[
+"LOTTERIA Co., Ltd."
+]
 ],
 [
 "MrBeast Burger",
-17
+17,
+[
+"Beast Burger"
+]
 ],
 [
 "Quick",
-17
+17,
+[]
 ],
 [
 "Sukiya",
-17
+17,
+[
+"SUKIYA"
+]
 ],
 [
 "Nordsee",
-17
+17,
+[]
 ],
 [
 "Mister Donut",
-16
+16,
+[]
 ],
 [
 "Max Hamburgers",
-16
+16,
+[]
 ],
 [
 "Church's Texas Chicken",
-15
-],
-[
-"Quiznos",
-15
+15,
+[]
 ],
 [
 "Wimpy",
-15
+15,
+[
+"WimpyUK"
+]
+],
+[
+"Quiznos",
+15,
+[
+"Quizno's",
+"Quizno's Corporation",
+"Quiznos Sub"
+]
 ],
 [
 "Buffalo Wild Wings",
-15
+15,
+[
+"B-Dubs",
+"Buffalo Wild Wings & Weck",
+"BW3"
+]
 ],
 [
 "Sonic Drive-In",
-15
+15,
+[
+"Sonic",
+"Sonic Corporation"
+]
 ],
 [
 "Nathan's Famous",
-14
+14,
+[
+"Nathan's Famous, Inc."
+]
 ],
 [
 "Burgeranch",
-14
+14,
+[]
 ],
 [
 "Johnny Rockets",
-13
+13,
+[]
 ],
 [
 "Hungry Jack's",
-13
+13,
+[
+"Burger King",
+"HJ’s",
+"Hungry Jack's Pty Ltd"
+]
 ],
 [
 "Planet Hollywood",
-13
+13,
+[]
 ],
 [
 "Gong Cha",
-12
+12,
+[]
 ],
 [
 "Del Taco",
-11
+11,
+[]
 ],
 [
 "Dodo Pizza",
-11
+11,
+[]
 ],
 [
 "Bojangles' Famous Chicken 'n Biscuits",
-11
+11,
+[
+"Bojangles"
+]
 ],
 [
 "Paris Croissant",
-10
+10,
+[
+"Paris Baguette"
+]
 ],
 [
 "Krystal",
-10
+10,
+[]
 ],
 [
 "Raising Cane's Chicken Fingers",
-10
+10,
+[
+"Raising Cane's",
+"Raising Cane's Chicken"
+]
 ],
 [
 "Wingstop",
-10
+10,
+[
+"Wing Stop",
+"Wingstop Restaurants, Inc."
+]
 ],
 [
 "Marugame Seimen",
-9
+9,
+[
+"Marugame Udon",
+"Marukame Udon"
+]
 ],
 [
 "Red Rooster",
-9
+9,
+[]
 ],
 [
 "Captain D's",
-9
+9,
+[
+"Mr. D's Seafood and Hamburgers"
+]
 ],
 [
 "Peppes Pizza",
-9
+9,
+[
+"Peppes"
+]
 ],
 [
 "Fazoli's",
-8
+8,
+[]
 ],
 [
 "Harvey's",
-8
+8,
+[
+"Harveys"
+]
 ],
 [
 "Oporto",
-8
+8,
+[]
 ],
 [
 "El Pollo Loco",
-7
+7,
+[
+"Pollo Loco",
+"The Crazy Chicken"
+]
 ],
 [
 "Back Yard Burgers",
-7
+7,
+[]
 ],
 [
 "Pollo Tropical",
-7
+7,
+[]
 ],
 [
 "Cook Out",
-7
+7,
+[
+"Cook Out Restaurants"
+]
 ],
 [
 "Freshness Burger",
-7
+7,
+[]
 ],
 [
 "Shakey's Pizza",
-7
+7,
+[
+"Shakey's",
+"Shakey's Pizza Parlor",
+"Shakey's Pizza Restaurant",
+"Shakey's Super Delivery"
+]
 ],
 [
 "Lee's Sandwiches",
-7
+7,
+[
+"Lee's Sandwiches International",
+"Saigon Gourmet"
+]
 ],
 [
 "Potbelly Sandwich Shop",
-7
+7,
+[
+"Potbelly Corporation",
+"Potbelly Sandwich Works"
+]
 ],
 [
 "Hotto Motto",
-6
+6,
+[]
 ],
 [
 "Dom Dom",
-6
+6,
+[
+"Dom Dom Hamburger"
+]
 ],
 [
 "Taco Cabana",
-6
+6,
+[
+"Taco cabana"
+]
 ],
 [
 "Guzman y Gomez",
-6
+6,
+[
+"GYG"
+]
 ],
 [
 "Wasabi",
-6
+6,
+[]
 ],
 [
 "Maoz Vegetarian",
-6
+6,
+[]
 ],
 [
 "Nene Chicken",
-6
+6,
+[
+"NeNe Chicken"
+]
 ],
 [
 "Cicis",
-6
+6,
+[
+"Cici's",
+"Cici's Pizza",
+"Cicis Pizza",
+"CiCi's Pizza"
+]
 ],
 [
 "Rostic's",
-6
+6,
+[]
 ],
 [
 "BurgerFi",
-6
+6,
+[
+"BurgerFi International, LLC"
+]
 ],
 [
 "Al Tazaj",
-6
+6,
+[]
 ],
 [
 "Donut King",
-6
+6,
+[]
 ],
 [
 "Freddy's Frozen Custard & Steakburgers",
-6
+6,
+[
+"Freddy's",
+"Freddy's LLC"
+]
 ],
 [
 "Mang Inasal",
-6
+6,
+[]
 ],
 [
 "Penn Station",
-6
+6,
+[
+"Penn Station East Coast Subs"
+]
 ],
 [
 "Roy Rogers Restaurants",
-6
+6,
+[
+"Roy Rogers",
+"Roy Rogers Franchise Company, L.L.C.",
+"Roy Rogers Franchise Company, LLC"
+]
 ],
 [
 "WingStreet",
-6
+6,
+[]
 ],
 [
 "Salad and Go",
-5
+5,
+[]
 ],
 [
 "Pasibus",
-5
+5,
+[]
 ],
 [
 "Mie Gacoan",
-5
+5,
+[
+"Gacoan"
+]
 ],
 [
 "German Doner Kebab",
-5
+5,
+[
+"GDK"
+]
 ],
 [
 "Mak.by",
-5
+5,
+[]
 ],
 [
 "Pizzabakeren",
-5
+5,
+[]
 ],
 [
 "Sunset Boulevard",
-5
+5,
+[
+"Sunset"
+]
 ],
 [
 "Eggslut",
-5
+5,
+[]
 ],
 [
 "Chicken Republic",
-5
+5,
+[]
 ],
 [
 "White Tower Hamburgers",
-5
+5,
+[]
 ],
 [
 "Katsuya",
-5
+5,
+[
+"Ca-Tu-Ya CO.,LTD.",
+"KATSUYA CO.,LTD."
+]
 ],
 [
 "Baja Fresh",
-5
+5,
+[]
 ],
 [
 "Portillo's Restaurants",
-5
+5,
+[
+"Portillo's",
+"Portillo's Hot Dogs"
+]
 ],
 [
 "TOGO'S",
-5
+5,
+[
+"Togo's Sandwiches"
+]
 ],
 [
 "Blimpie",
-5
+5,
+[
+"Blimpie International",
+"Blimpie International, Inc.",
+"Blimpie Restaurants",
+"Blimpie Subs & Salads"
+]
 ],
 [
 "Cousins Subs",
-5
+5,
+[]
 ],
 [
 "Dixy Chicken",
-5
+5,
+[]
 ],
 [
 "First Kitchen",
-5
+5,
+[
+"First Kitchen Co.,Ltd"
+]
 ],
 [
 "Herfy",
-5
+5,
+[]
 ],
 [
 "Mr. Sub",
-5
+5,
+[]
 ],
 [
 "Ringer Hut",
-5
+5,
+[]
 ],
 [
 "Taco John's",
-5
+5,
+[
+"Taco John's International"
+]
 ],
 [
 "TacoTime",
-5
+5,
+[
+"Taco Time"
+]
 ],
 [
 "Winchell's Donuts",
-5
+5,
+[
+"Winchell's Donut House"
+]
 ],
 [
 "Bageterie Boulevard",
-4
+4,
+[]
 ],
 [
 "Gindaco",
-4
+4,
+[
+"Gindako",
+"Hotland",
+"Hotland Holdings",
+"Tsukiji Gindaco",
+"Tsukiji Gindako"
+]
 ],
 [
 "Puzata Hata",
-4
+4,
+[]
 ],
 [
 "Burger Club",
-4
+4,
+[]
 ],
 [
 "Mostaza",
-4
+4,
+[
+"Mostaza Argentina"
+]
 ],
 [
 "Big Smoke Burger",
-4
+4,
+[]
 ],
 [
 "Restoran Sederhana",
-4
+4,
+[]
 ],
 [
 "Richeese Factory",
-4
+4,
+[]
 ],
 [
 "O'Tacos",
-4
+4,
+[]
 ],
 [
 "Dixie Lee Fried Chicken",
-4
+4,
+[]
 ],
 [
 "Pomme de Pain",
-4
+4,
+[
+"Pomme de pain"
+]
 ],
 [
 "McDonald's Ukraine",
-4
+4,
+[
+"McDonald's restaurants in Ukraine"
+]
 ],
 [
 "BurgerFuel",
-4
+4,
+[
+"Burger Fuel"
+]
 ],
 [
 "Chicken Express",
-4
+4,
+[]
 ],
 [
 "Extreme Pita",
-4
+4,
+[]
 ],
 [
 "Fosters Freeze",
-4
+4,
+[
+"Foster's Freeze"
+]
 ],
 [
 "Harry Ramsden's",
-4
+4,
+[
+"Harry Ramsden"
+]
 ],
 [
 "Hot Dog on a Stick",
-4
+4,
+[]
 ],
 [
 "Goralı",
-4
+4,
+[]
 ],
 [
 "BurgerIM",
-4
+4,
+[
+"Burgerim"
+]
 ],
 [
 "Friends & Brgrs",
-4
+4,
+[]
 ],
 [
 "Mary Brown's",
-4
+4,
+[]
 ],
 [
 "New York Fries",
-4
+4,
+[]
 ],
 [
 "Maxim's MX",
-4
+4,
+[]
 ],
 [
 "Rax",
-4
+4,
+[]
 ],
 [
 "Spangles",
-4
+4,
+[]
 ],
 [
 "Lord of the Fries",
-3
+3,
+[]
 ],
 [
 "Mochinut",
-3
+3,
+[]
 ],
 [
 "Pans & Company",
-3
+3,
+[]
 ],
 [
 "McDonald's Israel",
-3
+3,
+[]
 ],
 [
 "Pizza Celentano",
-3
+3,
+[]
 ],
 [
 "Tendon Tenya",
-3
+3,
+[
+"Tenya"
+]
 ],
 [
 "Mister York",
-3
+3,
+[]
 ],
 [
 "Home Original Chicken",
-3
+3,
+[]
 ],
 [
 "Mel's Drive-In",
-3
+3,
+[]
 ],
 [
 "Wahlburgers",
-3
+3,
+[]
 ],
 [
 "Twisters",
-3
+3,
+[]
 ],
 [
 "Grill’d",
-3
+3,
+[]
 ],
 [
 "China in Box",
-3
+3,
+[]
 ],
 [
 "Pizzaiolo (restaurant chain)",
-3
+3,
+[]
 ],
 [
 "Super Super Congee & Noodles",
-3
+3,
+[]
 ],
 [
 "Tortilla",
-3
+3,
+[]
 ],
 [
 "Apache Pizza",
-3
+3,
+[]
 ],
 [
 "New York Pizza",
-3
+3,
+[]
 ],
 [
 "21Plus",
-3
+3,
+[
+"21 Century"
+]
 ],
 [
 "Frasses",
-3
+3,
+[
+"Frasses Hamburgare"
+]
 ],
 [
 "Quickly",
-3
+3,
+[]
 ],
 [
 "Wok to Walk",
-3
+3,
+[]
 ],
 [
 "Fafa's",
-3
+3,
+[]
 ],
 [
 "Abrakebabra",
-3
+3,
+[]
 ],
 [
 "Amato's",
-3
+3,
+[]
 ],
 [
 "Brown's Chicken & Pasta",
-3
+3,
+[]
 ],
 [
 "Chester's International",
-3
+3,
+[
+"チェスターズ"
+]
 ],
 [
 "Chicken Treat",
-3
+3,
+[]
 ],
 [
 "Cluck-U Chicken",
-3
+3,
+[
+"Cluck University"
+]
 ],
 [
 "Es Teler 77",
-3
+3,
+[]
 ],
 [
 "Frostop",
-3
+3,
+[]
 ],
 [
 "KOI Thé",
-3
+3,
+[]
 ],
 [
 "Harold's Chicken Shack",
-3
+3,
+[
+"Harold's",
+"Harold's Chicken",
+"The Fried Chicken King"
+]
 ],
 [
 "Hokka Hokka Tei",
-3
+3,
+[]
 ],
 [
 "itsu",
-3
+3,
+[]
 ],
 [
 "Juice It Up!",
-3
+3,
+[]
 ],
 [
 "King Taco",
-3
+3,
+[]
 ],
 [
 "Larry's Giant Subs",
-3
+3,
+[]
 ],
 [
 "Leon Restaurants",
-3
+3,
+[
+"Feed NHS",
+"Leon"
+]
 ],
 [
 "Menchie's Frozen Yogurt",
-3
+3,
+[
+"Menchie's"
+]
 ],
 [
 "Noodle Box",
-3
+3,
+[]
 ],
 [
 "Pretzelmaker",
-3
+3,
+[]
 ],
 [
 "Skippers Seafood & Chowder House",
-3
+3,
+[
+"Skippers Seafood and Chowder House"
+]
 ],
 [
 "Smithfield's Chicken 'N Bar-B-Q",
-3
+3,
+[]
 ],
 [
 "Southern Fried Chicken",
-3
+3,
+[
+"SFC",
+"SFC Plus"
+]
 ],
 [
 "Spoleto",
-3
+3,
+[]
 ],
 [
 "Tubby's",
-3
+3,
+[]
 ],
 [
 "Yum Yum Donuts",
-3
+3,
+[
+"Yum-Yum Donuts"
+]
 ],
 [
 "Gosch Sylt",
-3
+3,
+[
+"GOSCH"
+]
 ],
 [
 "Fuzzy's Taco Shop",
-3
+3,
+[]
 ],
 [
 "Geprek Bensu",
-3
+3,
+[]
 ],
 [
 "No Brand Burger",
-3
+3,
+[]
 ],
 [
 "Roberto's Taco Shop",
-2
+2,
+[]
 ],
 [
 "Burger Ranch",
-2
+2,
+[]
 ],
 [
 "Çiğköftem",
-2
+2,
+[]
 ],
 [
 "Oliver’s Super Sandwiches",
-2
+2,
+[]
 ],
 [
 "New Deli",
-2
+2,
+[]
 ],
 [
 "Parsa's",
-2
+2,
+[]
 ],
 [
 "Nakau",
-2
+2,
+[]
 ],
 [
 "Hanamarūdon",
-2
+2,
+[]
 ],
 [
 "Bikkuri Donkey",
-2
+2,
+[]
 ],
 [
 "Bored & Hungry",
-2
+2,
+[]
 ],
 [
 "Roll'd Vietnamese",
-2
+2,
+[
+"Roll'd"
+]
 ],
 [
 "WaBa Grill",
-2
+2,
+[]
 ],
 [
 "Nadai Fuji Soba",
-2
+2,
+[]
 ],
 [
 "Tokyo Chikara Meshi",
-2
+2,
+[]
 ],
 [
 "Aladin Foods",
-2
+2,
+[]
 ],
 [
 "Lviv Croissants",
-2
+2,
+[]
 ],
 [
 "Big Bite",
-2
+2,
+[
+"Big Bite Submarines",
+"Big Bite Subs"
+]
 ],
 [
 "Pepe's Piri Piri",
-2
+2,
+[]
 ],
 [
 "Bombay Express",
-2
+2,
+[]
 ],
 [
 "G La Dalle",
-2
+2,
+[]
 ],
 [
 "Pizzaman Chickenman",
-2
+2,
+[]
 ],
 [
 "hana-musubi",
-2
+2,
+[]
 ],
 [
 "California Burrito",
-2
+2,
+[]
 ],
 [
 "Lupe Tortilla",
-2
+2,
+[]
 ],
 [
 "Le 129",
-2
+2,
+[]
 ],
 [
 "Pronto Copec",
-2
+2,
+[]
 ],
 [
 "Chester's",
-2
+2,
+[
+"Chester’s grill",
+"Chester’s Grill Chicken"
+]
 ],
 [
 "Five Star Chicken",
-2
+2,
+[]
 ],
 [
 "Zetteria",
-2
+2,
+[]
 ],
 [
 "Café de Coral",
-2
+2,
+[]
 ],
 [
 "Umami Burger",
-2
+2,
+[]
 ],
 [
 "Zambrero",
-2
+2,
+[]
 ],
 [
 "Burger Urge",
-2
+2,
+[]
 ],
 [
 "The Good Burger",
-2
+2,
+[]
 ],
 [
 "Wahaca",
-2
+2,
+[]
 ],
 [
 "Tops Pizza",
-2
+2,
+[]
 ],
 [
 "Sushi Wok",
-2
+2,
+[]
 ],
 [
 "Spartan",
-2
+2,
+[
+"Spartan Restaurant"
+]
 ],
 [
 "La Croissanterie",
-2
+2,
+[]
 ],
 [
 "McDonald's Taiwan",
-2
+2,
+[]
 ],
 [
 "Stardog!s",
-2
+2,
+[]
 ],
 [
 "Schnitz",
-2
+2,
+[]
 ],
 [
 "Hey Chicken",
-2
+2,
+[]
 ],
 [
 "Napoli Pizza",
-2
+2,
+[
+"Napoli",
+"Napoli Fried Chicken"
+]
 ],
 [
 "Bill Gray's",
-2
+2,
+[]
 ],
 [
 "Biscuitville",
-2
+2,
+[]
 ],
 [
 "Burger Machine",
-2
+2,
+[
+"Burger Machine Holdings Corporation"
+]
 ],
 [
 "Carrows",
-2
+2,
+[]
 ],
 [
 "DiBella's",
-2
+2,
+[
+"DiBella's Old Fashioned Submarines",
+"DiBella's Subs"
+]
 ],
 [
 "Doggie Diner",
-2
+2,
+[
+"Doggie Diner Heads"
+]
 ],
 [
 "Eegee's",
-2
+2,
+[]
 ],
 [
 "Farmer Boys",
-2
+2,
+[]
 ],
 [
 "Chick'nCone",
-2
+2,
+[]
 ],
 [
 "Golden Krust Caribbean Bakery & Grill",
-2
+2,
+[]
 ],
 [
 "Great Wraps",
-2
+2,
+[]
 ],
 [
 "Green Burrito",
-2
+2,
+[
+"Red Burrito"
+]
 ],
 [
 "H. Salt Esquire",
-2
+2,
+[]
 ],
 [
 "The Honey Baked Ham Company",
-2
+2,
+[
+"HoneyBaked",
+"Honey Baked Ham",
+"HoneyBaked Ham",
+"The Honey Baked Ham Co.",
+"The HoneyBaked Ham Company",
+"The Honey Baked Ham Company, LLC"
+]
 ],
 [
 "Burgers Bar",
-2
+2,
+[]
 ],
 [
 "Little Tavern",
-2
+2,
+[]
 ],
 [
 "Pakistānas kebabs",
-2
+2,
+[]
 ],
 [
 "Rocket Chicken",
-2
+2,
+[
+"Rocket Chicken Indonesia"
+]
 ],
 [
 "Mighty Taco",
-2
+2,
+[]
 ],
 [
 "Milo's Hamburgers",
-2
+2,
+[]
 ],
 [
 "Pudgie's",
-2
+2,
+[
+"Pudgie's Famous Chicken"
+]
 ],
 [
 "Taco Bueno",
-2
+2,
+[]
 ],
 [
 "Taco Bus",
-2
+2,
+[]
 ],
 [
 "West Cornwall Pasty Company",
-2
+2,
+[
+"West Cornwall Pasty",
+"West Cornwall Pasty Co",
+"West Cornwall Pasty Co."
+]
 ],
 [
 "Upper Crust",
-2
+2,
+[]
 ],
 [
 "Xi'an Famous Foods",
-2
+2,
+[]
 ],
 [
 "El Jannah",
-2
+2,
+[]
 ],
 [
 "Casa do Pão de Queijo",
-2
+2,
+[]
 ],
 [
 "Daisys",
-1
+1,
+[]
 ],
 [
 "SomiSomi Soft Serve & Taiyaki",
-1
+1,
+[
+"SomiSomi"
+]
 ],
 [
 "Orange Brutus",
-1
+1,
+[]
 ],
 [
 "Taco Bar",
-1
+1,
+[]
 ],
 [
 "Tex's Chicken & Burgers",
-1
+1,
+[
+"Texas Chicken & Burgers"
+]
 ],
 [
 "Wendy's First Kitchen",
-1
+1,
+[]
 ],
 [
 "Kwalitaria",
-1
+1,
+[]
 ],
 [
 "Taco Mundo",
-1
+1,
+[]
 ],
 [
 "NORANG TONGDAK",
-1
+1,
+[
+"NORANG CHICKEN"
+]
 ],
 [
 "Dongdaemun Yupdduk",
-1
+1,
+[]
 ],
 [
 "Rosegarden",
-1
+1,
+[]
 ],
 [
 "Soul Origin",
-1
+1,
+[]
 ],
 [
 "Fireaway",
-1
+1,
+[]
 ],
 [
 "Mostafa Gad",
-1
+1,
+[]
 ],
 [
 "La Lucha",
-1
+1,
+[
+"La Lucha Sangucheria Criolla"
+]
 ],
 [
 "Taco Bell Cantina",
-1
+1,
+[]
 ],
 [
 "Türkis",
-1
+1,
+[]
 ],
 [
 "Hip Hop Fish & Chicken",
-1
+1,
+[
+"HipHop Fish & Chicken"
+]
 ],
 [
 "Chiyoda Sushi",
-1
+1,
+[]
 ],
 [
 "Kebab King",
-1
+1,
+[]
 ],
 [
 "Pizza Pocket",
-1
+1,
+[]
 ],
 [
 "Burrito Company",
-1
+1,
+[]
 ],
 [
 "Zeppelin Hot Dog",
-1
+1,
+[
+"Zeppelin Hot Dog Shop"
+]
 ],
 [
 "Gyūdon Tarō",
-1
+1,
+[]
 ],
 [
 "Oliver's Real Food",
-1
+1,
+[]
 ],
 [
 "Ma’loa",
-1
+1,
+[
+"Maloa",
+"MA’LOA",
+"MALOA"
+]
 ],
 [
 "The Beanery",
-1
+1,
+[]
 ],
 [
 "The Vurger Co.",
-1
+1,
+[]
 ],
 [
 "Miss Millie's",
-1
+1,
+[
+"Miss Millie's Fried Chicken"
+]
 ],
 [
 "Ward's",
-1
+1,
+[]
 ],
 [
 "Sushi Market",
-1
+1,
+[]
 ],
 [
 "Frittenwerk",
-1
+1,
+[]
 ],
 [
 "Salvatoré",
-1
+1,
+[]
 ],
 [
 "Poke House",
-1
+1,
+[
+"POKE HOUSE S.R.L."
+]
 ],
 [
 "Hopdoddy Burger Bar",
-1
+1,
+[]
 ],
 [
 "Chicken Street",
-1
+1,
+[
+"Chicken Street Naan & Fried Chicken"
+]
 ],
 [
 "Smoper Chicken",
-1
+1,
+[]
 ],
 [
 "Chamas Tacos",
-1
+1,
+[]
 ],
 [
 "Epic Burger",
-1
+1,
+[]
 ],
 [
 "Tea Time",
-1
+1,
+[]
 ],
 [
 "Vons Chicken",
-1
+1,
+[]
 ],
 [
 "J. Dawgs",
-1
+1,
+[]
 ],
 [
 "Oi Kwan Fast Food Shop",
-1
+1,
+[]
 ],
 [
 "Zacadoo's",
-1
+1,
+[
+"Zacadoo's Grill"
+]
 ],
 [
 "Smalls Sliders",
-1
+1,
+[]
 ],
 [
 "Z-Burger",
-1
+1,
+[
+"ZBurger"
+]
 ],
 [
 "Donut Kingdom",
-1
+1,
+[]
 ],
 [
 "The Golden Egg",
-1
+1,
+[]
 ],
 [
 "NÖÖÖDLES",
-1
+1,
+[]
 ],
 [
 "Joella's Hot Chicken",
-1
+1,
+[]
 ],
 [
 "PFK",
-1
+1,
+[
+"Poulet Frit Kentucky"
+]
 ],
 [
 "Burger One",
-1
+1,
+[
+"Lotteria",
+"Zetteria"
+]
 ],
 [
 "Judy Judy Judy's",
-1
+1,
+[]
 ],
 [
 "Emado's",
-1
+1,
+[]
 ],
 [
 "Bioburger",
-1
+1,
+[]
 ],
 [
 "Carter's Fried Chicken",
-1
+1,
+[]
 ],
 [
 "55 Burger, Cola, Fries",
-1
+1,
+[]
 ],
 [
 "Tang Tang Chicken",
-1
+1,
+[]
 ],
 [
 "Sumo Salad",
-1
+1,
+[]
 ],
 [
 "Wrapchic",
-1
+1,
+[]
 ],
 [
 "Bongousse",
-1
+1,
+[]
 ],
 [
 "Kerbisher & Malt",
-1
+1,
+[
+"Kerbisher",
+"Kerbisher and Malt",
+"Kerbisher Malt"
+]
 ],
 [
 "Podorognik",
-1
+1,
+[]
 ],
 [
 "Bagelstein",
-1
+1,
+[
+"Badiff",
+"Badiff SARL"
+]
 ],
 [
 "Sam's Chicken",
-1
+1,
+[]
 ],
 [
 "Dig Inn",
-1
+1,
+[]
 ],
 [
 "Vivo Italian Kitchen",
-1
+1,
+[]
 ],
 [
 "Genghis Grill",
-1
+1,
+[]
 ],
 [
 "Class'Croute",
-1
+1,
+[]
 ],
 [
 "Pure",
-1
+1,
+[]
 ],
 [
 "La Boîte à Pizza",
-1
+1,
+[]
 ],
 [
 "Le Kiosque à Pizzas",
-1
+1,
+[]
 ],
 [
 "City Wok",
-1
+1,
+[]
 ],
 [
 "B-Bop's",
-1
+1,
+[]
 ],
 [
 "Burger Theory",
-1
+1,
+[]
 ],
 [
 "Big Apple Bagels",
-1
+1,
+[]
 ],
 [
 "Four Star Pizza",
-1
+1,
+[]
 ],
 [
 "Rusty Taco",
-1
+1,
+[
+"R Taco"
+]
 ],
 [
 "Dos Mas",
-1
+1,
+[
+"DosMas"
+]
 ],
 [
 "Goli Vada Pav",
-1
+1,
+[]
 ],
 [
 "Great Steak",
-1
+1,
+[
+"Greak Steak & Potato Company",
+"Great Steak & Fry Company",
+"The Greak Steak & Potato Company",
+"The Great Steak & Fry Company"
+]
 ],
 [
 "Slapfish",
-1
+1,
+[]
 ],
 [
 "Andok's",
-1
+1,
+[]
 ],
 [
 "Angel's Burger",
-1
+1,
+[
+"Angels Burger"
+]
 ],
 [
 "Minute Burger",
-1
+1,
+[]
 ],
 [
 "Paris Baguette",
-1
+1,
+[
+"Paris Baguette Café"
+]
 ],
 [
 "Checkers",
-1
+1,
+[
+"Checker's",
+"Checker’s",
+"Checkers Drive-In",
+"Checkers Drive-In Restaurants"
+]
 ],
 [
 "Rally's",
-1
+1,
+[
+"Rally’s",
+"Rally's Drive-In"
+]
 ],
 [
 "Noah's New York Bagels",
-1
+1,
+[
+"Noah's Bagels",
+"Noah's NY Bagels"
+]
 ],
 [
 "Federal Donuts",
-1
+1,
+[]
 ],
 [
 "Penguin Point",
-1
+1,
+[]
 ],
 [
 "Lion's Choice",
-1
+1,
+[]
 ],
 [
 "Meatheads Burgers & Fries",
-1
+1,
+[]
 ],
 [
 "Jureskogs",
-1
+1,
+[]
 ],
 [
 "Petro's Chili & Chips",
-1
+1,
+[]
 ],
 [
 "Pup 'N' Taco",
-1
+1,
+[]
 ],
 [
 "Sneaky Pete's",
-1
+1,
+[
+"Sneaky Pete's Hotdogs"
+]
 ],
 [
 "Taco Time Northwest",
-1
+1,
+[]
 ],
 [
 "Tasti D-Lite",
-1
+1,
+[
+"Tasti D Lite"
+]
 ],
 [
 "Tom Wahl's",
-1
+1,
+[]
 ],
 [
 "BBQ",
-1
+1,
+[
+"BBQ Chicken"
+]
 ],
 [
 "Smullers",
-1
+1,
+[]
+],
+[
+"Asiahung",
+0,
+[
+"Asia Hung"
+]
+],
+[
+"La Panetière",
+0,
+[]
+],
+[
+"Kentucky",
+0,
+[]
+],
+[
+"Bagel Corner",
+0,
+[]
+],
+[
+"Barburrito",
+0,
+[
+"BarBurrito Canada"
+]
+],
+[
+"Oakberry Açaí Bowls",
+0,
+[]
+],
+[
+"Dog Haus",
+0,
+[]
+],
+[
+"Cheesus Burger",
+0,
+[]
+],
+[
+"Pizza Hut Delivery",
+0,
+[]
+],
+[
+"La Pasta Veloce",
+0,
+[]
+],
+[
+"Teriyaki Madness",
+0,
+[
+"Teriyaki Madness Franchise",
+"Teriyaki Madness Restaurants"
+]
+],
+[
+"Veggie Pret",
+0,
+[]
+],
+[
+"Halal Fried Chicken",
+0,
+[
+"HFC"
+]
+],
+[
+"La Piadineria",
+0,
+[]
+],
+[
+"Costa Vida",
+0,
+[]
+],
+[
+"Kelly's Cajun Grill",
+0,
+[]
+],
+[
+"Wok a Holic",
+0,
+[]
+],
+[
+"Suki Hana",
+0,
+[]
+],
+[
+"72 Street",
+0,
+[]
+],
+[
+"burgerme",
+0,
+[]
+],
+[
+"Johnny's Burger Company",
+0,
+[]
+],
+[
+"The Döner Company",
+0,
+[]
+],
+[
+"Fasfú Burgers",
+0,
+[
+"Fasfú"
+]
+],
+[
+"Extrawurst",
+0,
+[]
+],
+[
+"Baguette & Baguette",
+0,
+[
+"Baguette"
+]
+],
+[
+"Malvón",
+0,
+[]
+],
+[
+"Euro Kebab",
+0,
+[]
+],
+[
+"JSP",
+0,
+[
+"TWJSP"
+]
+],
+[
+"Açaí Concept",
+0,
+[]
+],
+[
+"Board & Brew",
+0,
+[
+"Board and Brew"
+]
+],
+[
+"Izzo's Illegal Burrito",
+0,
+[
+"Izzo's"
+]
+],
+[
+"Thisbowl",
+0,
+[]
+],
+[
+"Burgerheart",
+0,
+[]
+],
+[
+"Victorico's",
+0,
+[]
+],
+[
+"Les Burgers de Papa",
+0,
+[]
+],
+[
+"Five Guys - Plaza Singapore",
+0,
+[
+"Five Guys"
+]
+],
+[
+"Aloha Pokē Co",
+0,
+[]
+],
+[
+"Nino Nando's",
+0,
+[]
+],
+[
+"Migros Take Away",
+0,
+[]
+],
+[
+"Migros Bio Take Away",
+0,
+[]
+],
+[
+"Royal Donuts",
+0,
+[]
+],
+[
+"Noodle King",
+0,
+[]
+],
+[
+"Basil Box",
+0,
+[]
+],
+[
+"Pizzaville",
+0,
+[]
+],
+[
+"California Sandwiches",
+0,
+[]
+],
+[
+"Head West",
+0,
+[
+"Head West Subs"
+]
+],
+[
+"Epic Wings",
+0,
+[
+"Epic Wings N' Things",
+"Wings N' Things"
+]
+],
+[
+"Pizza Max",
+0,
+[]
+],
+[
+"Poke Bros.",
+0,
+[]
+],
+[
+"Alice Pizza",
+0,
+[]
+],
+[
+"Laredo Taco Company",
+0,
+[]
+],
+[
+"El Rinconsito",
+0,
+[]
+],
+[
+"The Japanese Canteen",
+0,
+[]
+],
+[
+"Bubbakoo's Burritos",
+0,
+[]
+],
+[
+"Haus!",
+0,
+[
+"Haus, HAUS, HAUS!, Haus Indonesia"
+]
+],
+[
+"Pitaya",
+0,
+[]
+],
+[
+"l'artigiano",
+0,
+[]
+],
+[
+"Chopstix",
+0,
+[
+"Chopstix Noodle Bar"
+]
+],
+[
+"RISA Chicken",
+0,
+[
+"RISA"
+]
+],
+[
+"LemonShark Poké",
+0,
+[]
+],
+[
+"Eddys Pizza",
+0,
+[]
+],
+[
+"Nimi's",
+0,
+[]
+],
+[
+"Manhattn's Burgers",
+0,
+[
+"Manhattn's",
+"Nova Belgica"
+]
+],
+[
+"Daniel's Donuts",
+0,
+[
+"Daniels Donuts"
+]
+],
+[
+"Zahir Kebab",
+0,
+[]
+],
+[
+"Burgermeister",
+0,
+[]
+],
+[
+"Grab-a-Java",
+0,
+[]
+],
+[
+"The Yard Milkshake Bar",
+0,
+[]
+],
+[
+"Texburger",
+0,
+[]
+],
+[
+"Two Hands Corn Dog",
+0,
+[
+"Two Hands",
+"Two Hands Seoul Fresh Corn Dogs"
+]
+],
+[
+"Erik's DeliCafé",
+0,
+[
+"Erik's",
+"Erik’s DeliCafe, Franchises, Inc."
+]
+],
+[
+"Presto",
+0,
+[]
+],
+[
+"Swing Kitchen",
+0,
+[]
+],
+[
+"Pommesfreunde",
+0,
+[]
+],
+[
+"Abu Zaghleh Restaurants",
+0,
+[]
+],
+[
+"Doughnut Time",
+0,
+[]
+],
+[
+"Fastrac Cafe",
+0,
+[
+"Fastrac"
+]
+],
+[
+"Captain Burger",
+0,
+[]
+],
+[
+"Pizza GoGo",
+0,
+[
+"Pizza GOGO Ltd"
+]
+],
+[
+"I'm",
+0,
+[
+"Food Solutions"
+]
+],
+[
+"Chigo x Flip",
+0,
+[
+"Chigo"
+]
+],
+[
+"Davanni's",
+0,
+[
+"Davanni's Pizza & Hot Hoagies"
+]
+],
+[
+"Farmer J",
+0,
+[]
+],
+[
+"Condado Tacos",
+0,
+[]
+],
+[
+"Captain Jay's",
+0,
+[]
+],
+[
+"Black Rooster Peri Peri",
+0,
+[
+"Black Rooster"
+]
+],
+[
+"Sushi Story",
+0,
+[]
+],
+[
+"Bubba's 33",
+0,
+[]
+],
+[
+"Döner Market",
+0,
+[]
+],
+[
+"Jugo Juice",
+0,
+[]
+],
+[
+"American Deli",
+0,
+[]
+],
+[
+"Champs Chicken",
+0,
+[]
+],
+[
+"VIVA",
+0,
+[
+"Viva"
+]
+],
+[
+"Lola Nena's",
+0,
+[]
+],
+[
+"Baliwag",
+0,
+[]
+],
+[
+"Don.C",
+0,
+[]
+],
+[
+"Don Benito's",
+0,
+[]
+],
+[
+"Mr. Liempo",
+0,
+[
+"Mr. Liempo Avenue, Inc."
+]
+],
+[
+"Uling Roasters",
+0,
+[]
+],
+[
+"Billy Tacos",
+0,
+[]
+],
+[
+"PizzaBoyz",
+0,
+[]
+],
+[
+"JuiceLand",
+0,
+[]
+],
+[
+"E-WEKE",
+0,
+[]
+],
+[
+"Taco Casa",
+0,
+[]
+],
+[
+"Mr. Hero",
+0,
+[]
+],
+[
+"Bourbon St. Grill",
+0,
+[]
+],
+[
+"Burrito Boyz",
+0,
+[]
+],
+[
+"South Street Burger",
+0,
+[]
+],
+[
+"Julia's",
+0,
+[]
+],
+[
+"Café Zupas",
+0,
+[]
+],
+[
+"Guac Mexi Grill",
+0,
+[]
+],
+[
+"Fat Bastard Burrito Co.",
+0,
+[]
+],
+[
+"Freshly Squeezed",
+0,
+[]
+],
+[
+"Next Level Burger",
+0,
+[]
+],
+[
+"SHABU to go",
+0,
+[]
+],
+[
+"Shell Café",
+0,
+[
+"Shell Cafe"
+]
+],
+[
+"Chicken Plus Vietnam",
+0,
+[]
+],
+[
+"Bufkes",
+0,
+[]
+],
+[
+"Chicken Shop",
+0,
+[]
+],
+[
+"Wok To Go",
+0,
+[]
+],
+[
+"Nravizza",
+0,
+[]
+],
+[
+"DQ Grill & Chill",
+0,
+[
+"Dairy Queen Grill & Chill"
+]
+],
+[
+"Papa's Pizza",
+0,
+[]
+],
+[
+"Cheezzy Pizza",
+0,
+[]
+],
+[
+"Superburger",
+0,
+[
+"super burger",
+"superburger",
+"Super burger",
+"Super Burger",
+"SuperBurger"
+]
+],
+[
+"Berlin Döner Kebap",
+0,
+[]
+],
+[
+"Adıyaman Çiğ Köftecisi",
+0,
+[
+"Ömer Aybak Çiğ Köfte"
+]
+],
+[
+"Joys Tacos",
+0,
+[]
+],
+[
+"Le Tacos de Lyon",
+0,
+[]
+],
+[
+"New School Tacos",
+0,
+[]
+],
+[
+"Tacos Avenue",
+0,
+[]
+],
+[
+"Takos King",
+0,
+[]
+],
+[
+"Twisted Tenders",
+0,
+[]
+],
+[
+"vkusnolubov",
+0,
+[]
+],
+[
+"Doña Tota",
+0,
+[
+"Gorditas Doña Tota"
+]
+],
+[
+"CheburekMe",
+0,
+[]
+],
+[
+"Pollos Guerrero",
+0,
+[]
+],
+[
+"Rosati's Pizza",
+0,
+[]
+],
+[
+"33 Fried Chicken",
+0,
+[
+"Napoli Fried Chicken"
+]
+],
+[
+"Chez l'Ancien",
+0,
+[]
+],
+[
+"PB Poulet Braisé",
+0,
+[]
+],
+[
+"Croasonho",
+0,
+[]
+],
+[
+"Deli Delicious",
+0,
+[]
+],
+[
+"Trailer Birds",
+0,
+[]
+],
+[
+"Wrapublic",
+0,
+[]
+],
+[
+"Loco Chicken",
+0,
+[]
+],
+[
+"Happy Slice",
+0,
+[]
+],
+[
+"Myungrang Hotdog",
+0,
+[]
+],
+[
+"Herbies Pizza",
+0,
+[
+"Herbie's Pizza"
+]
+],
+[
+"Holy Cow!",
+0,
+[]
+],
+[
+"Mesopotamia",
+0,
+[
+"Meso",
+"Mesopotamia Romania"
+]
+],
+[
+"Stop Cafe",
+0,
+[
+"stop cafe",
+"stop.cafe"
+]
+],
+[
+"La Gastronomie pizza",
+0,
+[]
+],
+[
+"Super Chix Chicken & Custard",
+0,
+[
+"Super Chix ",
+" Chicken & Custard",
+"Super Chix, Chicken & Custard",
+"SUPER CHIX CHICKEN & CUSTARD"
+]
+],
+[
+"Cheogajip Chicken",
+0,
+[
+"CHEOGAJIP"
+]
+],
+[
+"Toreore",
+0,
+[
+"Toreore Chicken"
+]
+],
+[
+"Mexican Chicken",
+0,
+[
+"Mexican"
+]
+],
+[
+"Mexicana Chicken",
+0,
+[
+"Mexicana"
+]
+],
+[
+"Hangry Joe's Hot Chicken",
+0,
+[
+"Hangry Joe's"
+]
+],
+[
+"Chicken Maru",
+0,
+[]
+],
+[
+"Thunder Chicken",
+0,
+[]
+],
+[
+"Kkanbu Chicken",
+0,
+[]
+],
+[
+"Bodram Chicken",
+0,
+[]
+],
+[
+"S-Tong Chicken",
+0,
+[]
+],
+[
+"Ssaltongdak",
+0,
+[]
+],
+[
+"OPPADAK",
+0,
+[]
+],
+[
+"Hoolala",
+0,
+[]
+],
+[
+"NY HOTDOG",
+0,
+[
+"New York Hot Dog & Coffee",
+"NY HOTDOG & COFFEE"
+]
+],
+[
+"TWOZONE",
+0,
+[]
+],
+[
+"CAMTO TOAST",
+0,
+[]
+],
+[
+"JANG-TEO",
+0,
+[]
+],
+[
+"Thank u Mom",
+0,
+[
+"Thank u Mom chicken"
+]
+],
+[
+"JANGMONIM CHICKEN",
+0,
+[]
+],
+[
+"MiPaChicken",
+0,
+[
+"MiPa Chicken"
+]
+],
+[
+"Chicken The Home",
+0,
+[
+"Chick'n The Home"
+]
+],
+[
+"DD Chicken",
+0,
+[]
+],
+[
+"Don Chicken",
+0,
+[]
+],
+[
+"Noonaholdak Hongdae",
+0,
+[]
+],
+[
+"Yadllie Chicken",
+0,
+[]
+],
+[
+"Chicken Party",
+0,
+[
+"VFC Chicken Party"
+]
+],
+[
+"Sincham Tteokbokki",
+0,
+[
+"Sincham"
+]
+],
+[
+"Kyoung A Two Chicken",
+0,
+[]
+],
+[
+"Kong's Riceball",
+0,
+[]
+],
+[
+"Sodam Chicken",
+0,
+[]
+],
+[
+"Youngdabang",
+0,
+[]
+],
+[
+"Yumsem",
+0,
+[]
+],
+[
+"Jeonssam",
+0,
+[]
+],
+[
+"BONG-EE Chicken",
+0,
+[]
+],
+[
+"Duria BBQ Chicken",
+0,
+[
+"Duria",
+"Duria Chicken"
+]
+],
+[
+"Daegu Tongdak",
+0,
+[
+"Daegu Chicken"
+]
+],
+[
+"Ska Juice Bar",
+0,
+[]
+],
+[
+"MacShaurma",
+0,
+[]
+],
+[
+"Entrée",
+0,
+[]
+],
+[
+"Degusto",
+0,
+[]
+],
+[
+"Tempo",
+0,
+[]
+],
+[
+"Bander's Potato",
+0,
+[
+"Bandar Potato",
+"Banderita Restaurant",
+"Banderita's Restaurant",
+"Banderitax Restaurant",
+"Bander Potato",
+"Bander Restaurant",
+"Banders Potato",
+"Restaurant Bander's Potato"
+]
+],
+[
+"Burger Singh",
+0,
+[]
+],
+[
+"Hisana Fried Chicken",
+0,
+[]
+],
+[
+"Shelby's",
+0,
+[]
+],
+[
+"Waffle Cabin",
+0,
+[
+"Waffle Haus"
+]
+],
+[
+"A&W",
+0,
+[
+"A&W Malaysia"
+]
+],
+[
+"Eggdrop",
+0,
+[]
+],
+[
+"Pita Land",
+0,
+[]
+],
+[
+"Mac's Sushi",
+0,
+[]
+],
+[
+"Pittagoras",
+0,
+[]
+],
+[
+"Haus des Döners",
+0,
+[]
+],
+[
+"Foodmaker",
+0,
+[]
+],
+[
+"Bento Sushi",
+0,
+[]
+],
+[
+"Bills Burger",
+0,
+[
+"Bill's Burger"
+]
+],
+[
+"Cezam",
+0,
+[
+"Cezam Restaurants",
+"CEZAM restaurants",
+"CEZAM Restaurants"
+]
+],
+[
+"DĒVOR",
+0,
+[
+"Dévor"
+]
+],
+[
+"Simon's Burger",
+0,
+[]
+],
+[
+"Pollolandia",
+0,
+[]
+],
+[
+"August",
+0,
+[]
+],
+[
+"Marge",
+0,
+[]
+],
+[
+"Good Flippin' Burgers",
+0,
+[]
+],
+[
+"Shah's Halal Food",
+0,
+[]
+],
+[
+"Fat Phill's",
+0,
+[
+"Fat Phill's Diner"
+]
+],
+[
+"Zi Pizza",
+0,
+[]
+],
+[
+"Fabel Friet",
+0,
+[
+"Fabel Fries"
+]
+],
+[
+"Volfoni",
+0,
+[]
+],
+[
+"Romayo's",
+0,
+[]
+],
+[
+"Topla!",
+0,
+[]
+],
+[
+"Maxin Chicken",
+0,
+[
+"Maxin' Chicken"
+]
+],
+[
+"Etiler Marmaris",
+0,
+[]
+],
+[
+"Poe Poe",
+0,
+[]
+],
+[
+"The Burger Project",
+0,
+[]
+],
+[
+"Zaўždy cіkaVa",
+0,
+[]
+],
+[
+"La Donuteria",
+0,
+[]
+],
+[
+"America's Best Wings",
+0,
+[]
+],
+[
+"Bellozzo",
+0,
+[]
+],
+[
+"QooQy",
+0,
+[]
+],
+[
+"Domino's Pizza - Aba",
+0,
+[]
+],
+[
+"GO Grill",
+0,
+[]
+],
+[
+"Wing Machine",
+0,
+[]
+],
+[
+"Sabana Fried Chicken",
+0,
+[]
+],
+[
+"Salad Story",
+0,
+[]
+],
+[
+"Wok Hey",
+0,
+[]
+],
+[
+"Fritz Mitte",
+0,
+[]
+],
+[
+"Shisheng",
+0,
+[]
+],
+[
+"Melty",
+0,
+[
+"Melty Way"
+]
+],
+[
+"Art Lunch",
+0,
+[]
+],
+[
+"OMG! Decadent Donuts",
+0,
+[
+"OMG",
+"OMG!"
+]
+],
+[
+"Padthai Wokbar",
+0,
+[]
+],
+[
+"HappyFood",
+0,
+[
+"Happy Food"
+]
+],
+[
+"Layne's Chicken Fingers",
+0,
+[]
+],
+[
+"Family",
+0,
+[]
+],
+[
+"Pizza Heart",
+0,
+[
+"ex. Pizza Hut Russia"
+]
+],
+[
+"Mawarko",
+0,
+[]
+],
+[
+"Domino Pizza",
+0,
+[
+"DOMИNO PIZZA, ex. Domino's Pizza Russia"
+]
+],
+[
+"La Pizza de Nico",
+0,
+[
+"Pizza de Nico"
+]
+],
+[
+"BOK",
+0,
+[
+"BOK Korean Fried Chicken"
+]
+],
+[
+"Honeygrow",
+0,
+[]
+],
+[
+"Wonder",
+0,
+[]
+],
+[
+"Minit Stop",
+0,
+[]
+],
+[
+"Grab&Go",
+0,
+[
+"Grab & Go"
+]
+],
+[
+"Dolmer",
+0,
+[
+"Dolmer grape leaves",
+"Dolmer restaurant",
+"Dolmer Saudi Arabia",
+"Dolmer warag enab",
+"دولمير"
+]
+],
+[
+"Yogis Grill",
+0,
+[
+"Yogi's Grill",
+"Yogis Grill Teriyaki & Roll"
+]
+],
+[
+"Burrito Madre",
+0,
+[]
+],
+[
+"Pizza Fan",
+0,
+[]
+],
+[
+"Yixin Yiwei",
+0,
+[]
+],
+[
+"Cartofisserie",
+0,
+[]
+],
+[
+"Noodle Pack",
+0,
+[]
+],
+[
+"Fryday",
+0,
+[
+"Fry"
+]
+],
+[
+"Poké House",
+0,
+[]
+],
+[
+"Tossed",
+0,
+[]
+],
+[
+"Baydöner",
+0,
+[]
+],
+[
+"The Flame Broiler",
+0,
+[
+"Flame Broiler"
+]
+],
+[
+"Freebirds World Burrito",
+0,
+[]
+],
+[
+"Les Restaurants Louis",
+0,
+[]
+],
+[
+"Smileys",
+0,
+[
+"Smiley's",
+"smileys.de"
+]
+],
+[
+"Num Pang",
+0,
+[]
+],
+[
+"Russkiy Appetit",
+0,
+[
+"Rusapp"
+]
+],
+[
+"Everest",
+0,
+[
+"everest"
+]
+],
+[
+"Pinulito",
+0,
+[
+"Pinulito Chicken",
+"Pollo Pinulito"
+]
+],
+[
+"Pollo Granjero Guatemala",
+0,
+[
+"Pollo Granjero"
+]
+],
+[
+"Pollo Granjero Costa Rica",
+0,
+[
+"Pollo Granjero"
+]
+],
+[
+"Robins Dobin",
+0,
+[]
+],
+[
+"immergrün",
+0,
+[
+"Immergrün"
+]
+],
+[
+"B.Good",
+0,
+[
+"B Good",
+"B-Good",
+"BGood"
+]
+],
+[
+"Snap Burger",
+0,
+[
+"#Snap Burger & Fries"
+]
+],
+[
+"Manhattan Bagel",
+0,
+[
+"Manhattan Bagels"
+]
+],
+[
+"Rudy's Hot Dog",
+0,
+[]
+],
+[
+"Agadir",
+0,
+[
+"Agadir Burger"
+]
+],
+[
+"SUSU & Sons",
+0,
+[
+"SUSU and Sons"
+]
+],
+[
+"Burgus Burger Bar",
+0,
+[
+"BBB"
+]
+],
+[
+"Ad HaEtzem Express",
+0,
+[
+"Ad HaEtzem"
+]
+],
+[
+"Burgerim",
+0,
+[]
+],
+[
+"Vitrina",
+0,
+[]
+],
+[
+"Port 19",
+0,
+[]
+],
+[
+"Sushi Shop",
+0,
+[]
+],
+[
+"Cultures",
+0,
+[]
+],
+[
+"Mucho Burrito",
+0,
+[]
+],
+[
+"dean&david",
+0,
+[]
+],
+[
+"Flower Burger",
+0,
+[]
+],
+[
+"Warunk Upnormal",
+0,
+[]
+],
+[
+"Eatlah",
+0,
+[]
+],
+[
+"Hungry bunny",
+0,
+[]
+],
+[
+"Bambu",
+0,
+[
+"Bambū",
+"Bambu Franchising"
+]
+],
+[
+"bhc",
+0,
+[
+"bhc Chicken"
+]
+],
+[
+"Freshëns",
+0,
+[
+"Freshens"
+]
+],
+[
+"Pollo Feliz",
+0,
+[]
+],
+[
+"Gang of Pizza",
+0,
+[]
+],
+[
+"Carrefour Bon App",
+0,
+[]
+],
+[
+"Aurify Brands",
+0,
+[]
+],
+[
+"Kitchen Origin",
+0,
+[]
+],
+[
+"Everytable",
+0,
+[]
+],
+[
+"Jim Block",
+0,
+[]
+],
+[
+"Pizza Shemesh",
+0,
+[
+"Shemesh Pizza"
+]
+],
+[
+"Pizza Prego",
+0,
+[]
 ]
 ]

@@ -61,3 +61,23 @@ E. O. Wilson
 Stephen Jay Gould
 Rosalind Franklin
 Maurice Wilkins
+Paracelsus
+Max Born=born
+Avicenna
+Averroes
+Al-Biruni
+Alhazen
+Galen
+Ptolemy
+Democritus
+Thales
+Anaximander
+Empedocles
+Hipparchus
+Aristarchus
+Eratosthenes
+Zhang Heng
+Shen Kuo
+Aryabhata
+Brahmagupta
+Bhaskara

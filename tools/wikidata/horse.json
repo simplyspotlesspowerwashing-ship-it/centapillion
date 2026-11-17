@@ -1,2678 +1,3716 @@
 [
 [
 "Arabian horse",
-71
+71,
+[
+"Arab horse",
+"Arabian",
+"washin"
+]
 ],
 [
 "mustang",
-56
+56,
+[
+"mustangs"
+]
 ],
 [
 "Thoroughbred",
-51
+51,
+[
+"Thoroughbred breed",
+"Thoroughbred horse",
+"Thoroughbred racehorse"
+]
 ],
 [
 "Lipizzaner",
-49
+49,
+[
+"Lipizzan",
+"Lipizzan horse"
+]
 ],
 [
 "Akhal-Teke",
-49
+49,
+[
+"Akhal-teke horse"
+]
 ],
 [
 "Friesian horse",
-48
+48,
+[
+"Friesian Horse"
+]
 ],
 [
 "Andalusian horse",
-46
+46,
+[]
 ],
 [
 "Appaloosa",
-45
+45,
+[]
 ],
 [
 "Shetland pony",
-42
+42,
+[]
 ],
 [
 "Icelandic horse",
-42
+42,
+[]
 ],
 [
 "Clydesdale horse",
-41
+41,
+[
+"Clydesdale"
+]
 ],
 [
 "American Quarter Horse",
-37
+37,
+[
+"Quarter horse"
+]
 ],
 [
 "Standardbred",
-36
+36,
+[]
 ],
 [
 "Percheron",
-35
+35,
+[]
 ],
 [
 "Mongolian horse",
-33
+33,
+[
+"breed"
+]
 ],
 [
 "Morgan horse",
-32
+32,
+[]
 ],
 [
 "Shire horse",
-32
+32,
+[
+"Shire"
+]
 ],
 [
 "Haflinger",
-32
+32,
+[]
 ],
 [
 "Konik",
-31
+31,
+[]
 ],
 [
 "Karabakh horse",
-29
+29,
+[]
 ],
 [
 "Falabella",
-28
+28,
+[]
 ],
 [
 "Barb horse",
-27
+27,
+[
+"Berber horse"
+]
 ],
 [
 "Bashkir horse",
-27
+27,
+[
+"Bashkir",
+"Bashkir pony"
+]
 ],
 [
 "Belgian Draught",
-27
+27,
+[
+"Brabançon",
+"Brabander",
+"Brabant",
+"Brabants trekpaard",
+"Cheval de trait belge"
+]
 ],
 [
 "Fjord horse",
-26
+26,
+[]
 ],
 [
 "Yakutian horse",
-25
+25,
+[]
 ],
 [
 "Hackney horse",
-25
+25,
+[]
 ],
 [
 "Holsteiner horse",
-24
+24,
+[]
 ],
 [
 "Trakehner",
-24
+24,
+[]
 ],
 [
 "Russian Don",
-23
+23,
+[]
 ],
 [
 "Hanoverian horse",
-23
+23,
+[]
 ],
 [
 "Anglo-Arabian",
-23
+23,
+[]
 ],
 [
 "Ardennes horse",
-23
+23,
+[]
 ],
 [
 "Hucul pony",
-23
+23,
+[
+"Hucul horse",
+"Hucul Ponies",
+"Huțan",
+"Huțul"
+]
 ],
 [
 "Camargue horse",
-23
+23,
+[
+"Camarguais"
+]
 ],
 [
 "Lusitano",
-23
+23,
+[
+"Lusitano horse"
+]
 ],
 [
 "Orlov Trotter",
-22
+22,
+[]
 ],
 [
 "Connemara pony",
-22
+22,
+[]
 ],
 [
 "Brumby",
-22
+22,
+[]
 ],
 [
 "Welsh Pony and Cob",
-21
+21,
+[
+"Welsh pony"
+]
 ],
 [
 "Exmoor pony",
-21
+21,
+[]
 ],
 [
 "Marwari horse",
-20
+20,
+[]
 ],
 [
 "Cleveland Bay",
-20
+20,
+[]
 ],
 [
 "Kabarda horse",
-20
+20,
+[]
 ],
 [
 "American Saddlebred",
-20
+20,
+[]
 ],
 [
 "Finnhorse",
-19
+19,
+[
+"Finnish Horse",
+"Finnish Universal"
+]
 ],
 [
 "New Forest pony",
-19
+19,
+[
+"New Forest Pony"
+]
 ],
 [
 "Tennessee Walking Horse",
-19
+19,
+[
+"Tennessee walker",
+"TWH",
+"'Walker",
+"Walker",
+"Walking horse"
+]
 ],
 [
 "Gypsy Vanner horse",
-19
+19,
+[
+"Gypsy Cob",
+"Gypsy Vanner Horse",
+"Irish Cob",
+"Tinker"
+]
 ],
 [
 "Budyonny horse",
-19
+19,
+[]
 ],
 [
 "American Paint Horse",
-19
+19,
+[]
 ],
 [
 "Gotland Pony",
-18
+18,
+[]
 ],
 [
 "Selle Français",
-18
+18,
+[
+"Selle Francais"
+]
 ],
 [
 "Sorraia",
-18
+18,
+[
+"Sorraia horse"
+]
 ],
 [
 "Noriker horse",
-17
+17,
+[
+"Norico-Pinzgauer"
+]
 ],
 [
 "Oldenburg horse",
-17
+17,
+[]
 ],
 [
 "Caspian horse",
-17
+17,
+[]
 ],
 [
 "Nonius horse",
-17
+17,
+[
+"nonius"
+]
 ],
 [
 "Suffolk Punch",
-17
+17,
+[
+"Punch",
+"Suffolk",
+"Suffolk horse"
+]
 ],
 [
 "Criollo horse",
-16
+16,
+[
+"Criollo",
+"Crioulo"
+]
 ],
 [
 "Pottok",
-16
+16,
+[]
 ],
 [
 "Vladimir Heavy Draft",
-16
+16,
+[]
 ],
 [
 "Zaniskari",
-16
+16,
+[
+"Zanskari"
+]
 ],
 [
 "American Cream Draft",
-16
+16,
+[]
 ],
 [
 "Alter Real",
-16
+16,
+[]
 ],
 [
 "Boulonnais",
-16
+16,
+[]
 ],
 [
 "Dartmoor Pony",
-16
+16,
+[]
 ],
 [
 "Ferghana horse",
-15
+15,
+[]
 ],
 [
 "Dutch Warmblood",
-15
+15,
+[
+"Koninklijk Warmbloed Paard Nederland",
+"KWPN"
+]
 ],
 [
 "Highland pony",
-15
+15,
+[
+"Garron",
+"Highland Pony"
+]
 ],
 [
 "Knabstrupper",
-15
+15,
+[]
 ],
 [
 "Banker horse",
-15
+15,
+[]
 ],
 [
 "Žemaitukas",
-15
+15,
+[]
 ],
 [
 "Breton horse",
-15
+15,
+[
+"breton horse"
+]
 ],
 [
 "Shagya Arabian",
-15
+15,
+[
+"Shagya arab"
+]
 ],
 [
 "Dølehest",
-15
+15,
+[
+"Dølahest",
+"Dole",
+"Dole Gudbrandsdal",
+"Döle Gudbrandsdal",
+"Dolehest"
+]
 ],
 [
 "Kathiawari",
-14
+14,
+[
+"Kathiawari horse"
+]
 ],
 [
 "Estonian horse",
-14
+14,
+[]
 ],
 [
 "Heck horse",
-14
+14,
+[]
 ],
 [
 "Kazakh horse",
-14
+14,
+[]
 ],
 [
 "Turkoman horse",
-14
+14,
+[]
 ],
 [
 "Altai horse",
-14
+14,
+[]
 ],
 [
 "Rocky Mountain Horse",
-14
+14,
+[]
 ],
 [
 "Faroe pony",
-14
+14,
+[]
 ],
 [
 "Paso Fino",
-14
+14,
+[]
 ],
 [
 "Nisean horse",
-14
+14,
+[
+"Nesaian horse",
+"Nisaean horse",
+"Nisaian horse",
+"Nisayan horse"
+]
 ],
 [
 "Bosnian Mountain Horse",
-14
+14,
+[
+"Bosniak",
+"Bosnian Pony"
+]
 ],
 [
 "Dales pony",
-14
+14,
+[]
 ],
 [
 "Fell pony",
-14
+14,
+[]
 ],
 [
 "Tersk horse",
-13
+13,
+[
+"Tersky"
+]
 ],
 [
 "Irish Draught",
-13
+13,
+[]
 ],
 [
 "Jutland horse",
-13
+13,
+[]
 ],
 [
 "Missouri Fox Trotter",
-13
+13,
+[]
 ],
 [
 "Russian Trotter",
-13
+13,
+[]
 ],
 [
 "Mérens horse",
-13
+13,
+[
+"Merens horse"
+]
 ],
 [
 "Furioso-North Star",
-13
+13,
+[
+"Mezőhegyes Halfbred"
+]
 ],
 [
 "Peruvian Paso",
-13
+13,
+[]
 ],
 [
 "Azteca horse",
-13
+13,
+[]
 ],
 [
 "Međimurje horse",
-12
+12,
+[
+"Murakoz horse"
+]
 ],
 [
 "Irish Sport Horse",
-12
+12,
+[
+"Irish Hunter"
+]
 ],
 [
 "Poitevin horse",
-12
+12,
+[]
 ],
 [
 "Frederiksborg horse",
-12
+12,
+[]
 ],
 [
 "Aegidienberger",
-12
+12,
+[]
 ],
 [
 "American Bashkir Curly",
-12
+12,
+[]
 ],
 [
 "Dülmener",
-12
+12,
+[
+"Dülmen Pony"
+]
 ],
 [
 "Black Forest Horse",
-12
+12,
+[]
 ],
 [
 "Iomud",
-12
+12,
+[]
 ],
 [
 "Waler horse",
-12
+12,
+[]
 ],
 [
 "Freiberger",
-12
+12,
+[
+"Cheval du Jura",
+"Franches-Montagnes",
+"Franc-Montagnard",
+"Jura"
+]
 ],
 [
 "Asturcón",
-12
+12,
+[
+"Asturcon"
+]
 ],
 [
 "Boer pony",
-12
+12,
+[]
 ],
 [
 "Kustanair",
-12
+12,
+[]
 ],
 [
 "Pindos Pony",
-12
+12,
+[]
 ],
 [
 "Swedish Warmblood",
-11
+11,
+[]
 ],
 [
 "Pony of the Americas",
-11
+11,
+[]
 ],
 [
 "Tori horse",
-11
+11,
+[]
 ],
 [
 "French Trotter",
-11
+11,
+[]
 ],
 [
 "Albanian horse",
-11
+11,
+[]
 ],
 [
 "Skyros Pony",
-11
+11,
+[]
 ],
 [
 "North Swedish Horse",
-11
+11,
+[]
 ],
 [
 "Menorquín horse",
-11
+11,
+[
+"Menorquin horse"
+]
 ],
 [
 "Mangalarga Marchador",
-11
+11,
+[]
 ],
 [
 "Maremmano",
-11
+11,
+[]
 ],
 [
 "Murgese",
-11
+11,
+[]
 ],
 [
 "Yonaguni horse",
-11
+11,
+[
+"Yonaguni pony"
+]
 ],
 [
 "Garrano",
-11
+11,
+[
+"Garrano horse"
+]
 ],
 [
 "Gidran",
-11
+11,
+[]
 ],
 [
 "Abaco Barb",
-11
+11,
+[
+"Abaco Spanish Colonial Horse"
+]
 ],
 [
 "Nordlandshest/Lyngshest",
-11
+11,
+[]
 ],
 [
 "Kyrgyz Horse",
-11
+11,
+[
+"Kirgiz Horse"
+]
 ],
 [
 "Australian Pony",
-11
+11,
+[
+"Australian Riding Pony"
+]
 ],
 [
 "Nokota horse",
-11
+11,
+[]
 ],
 [
 "Canadian horse",
-11
+11,
+[]
 ],
 [
 "Manipuri pony",
-11
+11,
+[
+"Manipuri horse",
+"Meetei horse",
+"Meetei pony",
+"Meitei horse",
+"Meitei pony"
+]
 ],
 [
 "Mallorquín",
-11
+11,
+[
+"Mallorquin"
+]
 ],
 [
 "Bardigiano",
-11
+11,
+[]
 ],
 [
 "Gelderland horse",
-10
+10,
+[]
 ],
 [
 "Hokkaido Pony",
-10
+10,
+[
+"Dosanko pony"
+]
 ],
 [
 "Trait du Nord",
-10
+10,
+[
+"Ardennais du Nord"
+]
 ],
 [
 "Wielkopolski",
-10
+10,
+[]
 ],
 [
 "Rhenish-German Cold-Blood",
-10
+10,
+[]
 ],
 [
 "Sable Island Pony",
-10
+10,
+[]
 ],
 [
 "Giara horse",
-10
+10,
+[]
 ],
 [
 "Kladruber",
-10
+10,
+[]
 ],
 [
 "Hispano-Árabe",
-10
+10,
+[
+"Hispano-Arabe"
+]
 ],
 [
 "Posavac horse",
-10
+10,
+[]
 ],
 [
 "Java Pony",
-10
+10,
+[]
 ],
 [
 "Karabair",
-10
+10,
+[]
 ],
 [
 "American Shetland Pony",
-10
+10,
+[]
 ],
 [
 "Westphalian horse",
-10
+10,
+[]
 ],
 [
 "Soviet Heavy Draft",
-10
+10,
+[]
 ],
 [
 "Spiti Horse",
-10
+10,
+[]
 ],
 [
 "Bali Pony",
-10
+10,
+[]
 ],
 [
 "Jeju horse",
-10
+10,
+[]
 ],
 [
 "Vyatka horse",
-10
+10,
+[]
 ],
 [
 "Kerry Bog Pony",
-10
+10,
+[]
 ],
 [
 "Kiso",
-10
+10,
+[
+"Kiso Horse"
+]
 ],
 [
 "Dutch Draft",
-10
+10,
+[
+"Dutch Heavy Draft",
+"Zeeland Horse"
+]
 ],
 [
 "Schleswig horse",
-10
+10,
+[]
 ],
 [
 "Timor Pony",
-10
+10,
+[]
 ],
 [
 "Chincoteague pony",
-10
+10,
+[
+"Assateague",
+"Assateague horse",
+"Assateague pony",
+"Chincoteague",
+"Chincoteague horse",
+"wild pony"
+]
 ],
 [
 "Australian Stock Horse",
-10
+10,
+[
+"Stockhorse"
+]
 ],
 [
 "Tokara horse",
-10
+10,
+[
+"Tokara pony"
+]
 ],
 [
 "Latvian horse",
-10
+10,
+[
+"Latvijas šķirne"
+]
 ],
 [
 "Campolina",
-9
+9,
+[]
 ],
 [
 "Galiceno",
-9
+9,
+[]
 ],
 [
 "Groningen horse",
-9
+9,
+[]
 ],
 [
 "Lithuanian Heavy Draught",
-9
+9,
+[
+"Lithuanian Coldblood"
+]
 ],
 [
 "Norman Cob",
-9
+9,
+[
+"Cob Normand"
+]
 ],
 [
 "Morab",
-9
+9,
+[]
 ],
 [
 "Eriskay Pony",
-9
+9,
+[]
 ],
 [
 "Lundy",
-9
+9,
+[]
 ],
 [
 "Lokai",
-9
+9,
+[]
 ],
 [
 "Riwoche horse",
-9
+9,
+[]
 ],
 [
 "Galician Pony",
-9
+9,
+[]
 ],
 [
 "Czech warm blood",
-9
+9,
+[]
 ],
 [
 "Namib Desert Horse",
-9
+9,
+[
+"The feral horses of Garub"
+]
 ],
 [
 "Ostfriesen and Alt-Oldenburger",
-9
+9,
+[]
 ],
 [
 "American Walking Pony",
-9
+9,
+[]
 ],
 [
 "Misaki",
-9
+9,
+[]
 ],
 [
 "Galloway pony",
-9
+9,
+[]
 ],
 [
 "Miyako horse",
-9
+9,
+[
+"Miyako pony"
+]
 ],
 [
 "Ukrainian Riding Horse",
-9
+9,
+[
+"Ukrainian Saddle Horse"
+]
 ],
 [
 "Auxois",
-9
+9,
+[]
 ],
 [
 "Landais pony",
-9
+9,
+[]
 ],
 [
 "Sumbawa Pony",
-9
+9,
+[
+"Bima"
+]
 ],
 [
 "Italian Heavy Draft",
-9
+9,
+[
+"TPR"
+]
 ],
 [
 "Colorado Ranger",
-8
+8,
+[]
 ],
 [
 "Comtois horse",
-8
+8,
+[]
 ],
 [
 "Deliboz",
-8
+8,
+[]
 ],
 [
 "Danish Warmblood",
-8
+8,
+[]
 ],
 [
 "Sardinian Anglo-Arab",
-8
+8,
+[]
 ],
 [
 "Russian Heavy Draft",
-8
+8,
+[]
 ],
 [
 "Coldblood trotter",
-8
+8,
+[]
 ],
 [
 "Anglo-Norman horse",
-8
+8,
+[]
 ],
 [
 "Tibetan pony",
-8
+8,
+[
+"Tibetan horse"
+]
 ],
 [
 "Sandalwood Pony",
-8
+8,
+[]
 ],
 [
 "Florida Cracker Horse",
-8
+8,
+[]
 ],
 [
 "Welsh cob",
-8
+8,
+[
+"Welsh D"
+]
 ],
 [
 "Corsican horse",
-8
+8,
+[]
 ],
 [
 "Chilean horse",
-8
+8,
+[
+"Chilean Horse"
+]
 ],
 [
 "Norfolk Trotter",
-8
+8,
+[]
 ],
 [
 "Taishuh",
-8
+8,
+[]
 ],
 [
 "Byelorussian Harness",
-8
+8,
+[]
 ],
 [
 "Dongola horse",
-8
+8,
+[]
 ],
 [
 "Kurdish horse",
-8
+8,
+[
+"Kurd horse"
+]
 ],
 [
 "Hackney pony",
-8
+8,
+[]
 ],
 [
 "Losino horse",
-8
+8,
+[]
 ],
 [
 "French Saddle Pony",
-8
+8,
+[]
 ],
 [
 "Rhinelander horse",
-8
+8,
+[]
 ],
 [
 "Silesian horse",
-8
+8,
+[]
 ],
 [
 "Indian Half-Bred",
-8
+8,
+[]
 ],
 [
 "Karachay horse",
-8
+8,
+[]
 ],
 [
 "Riding Pony",
-8
+8,
+[]
 ],
 [
 "American Miniature Horse",
-8
+8,
+[]
 ],
 [
 "Adaev",
-8
+8,
+[]
 ],
 [
 "Pintabian",
-8
+8,
+[]
 ],
 [
 "Belgian Warmblood",
-8
+8,
+[
+"Belgisch Warmbloed",
+"Belgisch warmbloed paard",
+"BWP"
+]
 ],
 [
 "Basuto pony",
-8
+8,
+[]
 ],
 [
 "Batak Pony",
-8
+8,
+[]
 ],
 [
 "Messara",
-8
+8,
+[
+"Cretan horse"
+]
 ],
 [
 "Neapolitan horse",
-8
+8,
+[]
 ],
 [
 "Kentucky Mountain Saddle Horse",
-8
+8,
+[]
 ],
 [
 "Salerno horse",
-8
+8,
+[]
 ],
 [
 "German Riding Pony",
-8
+8,
+[]
 ],
 [
 "Hequ horse",
-7
+7,
+[]
 ],
 [
 "Hungarian Sport Horse",
-7
+7,
+[
+"Hungarian Warmblood"
+]
 ],
 [
 "Wild horses of Livno",
-7
+7,
+[]
 ],
 [
 "Guba",
-7
+7,
+[
+"Azerbaijan horse"
+]
 ],
 [
 "Kinsky horse",
-7
+7,
+[]
 ],
 [
 "Monterufolino",
-7
+7,
+[]
 ],
 [
 "Carthusian",
-7
+7,
+[
+"Cartujano"
+]
 ],
 [
 "Mecklenburger",
-7
+7,
+[]
 ],
 [
 "Peneia Pony",
-7
+7,
+[]
 ],
 [
 "Welsh Mountain Pony",
-7
+7,
+[
+"Welsh A",
+"Welsh Mountain Pony (Section A)"
+]
 ],
 [
 "Kiger Mustang",
-7
+7,
+[]
 ],
 [
 "Senner",
-7
+7,
+[]
 ],
 [
 "Zweibrücker",
-7
+7,
+[]
 ],
 [
 "San Fratello horse",
-7
+7,
+[]
 ],
 [
 "Kisber Felver",
-7
+7,
+[]
 ],
 [
 "Foutanké",
-7
+7,
+[
+"Fouta",
+"Foutanke"
+]
 ],
 [
 "Chara",
-7
+7,
+[]
 ],
 [
 "Baluchi horse",
-7
+7,
+[]
 ],
 [
 "Pampa Horse",
-7
+7,
+[]
 ],
 [
 "American creme and white horse registry",
-7
+7,
+[]
 ],
 [
 "Noma pony",
-7
+7,
+[]
 ],
 [
 "Henson horse",
-7
+7,
+[]
 ],
 [
 "Abyssinian horse",
-7
+7,
+[]
 ],
 [
 "Novokirghiz",
-7
+7,
+[]
 ],
 [
 "Ob pony",
-7
+7,
+[]
 ],
 [
 "Spotted Saddle horse",
-7
+7,
+[]
 ],
 [
 "Croatian Coldblood",
-7
+7,
+[]
 ],
 [
 "Pleven horse",
-7
+7,
+[]
 ],
 [
 "East Bulgarian",
-7
+7,
+[]
 ],
 [
 "Brandenburger",
-7
+7,
+[]
 ],
 [
 "German Classic Pony",
-7
+7,
+[]
 ],
 [
 "Danube Delta horse",
-7
+7,
+[]
 ],
 [
 "AraAppaloosa",
-7
+7,
+[]
 ],
 [
 "Württemberger",
-7
+7,
+[]
 ],
 [
 "Einsiedler",
-7
+7,
+[
+"Cavallo della Madonna"
+]
 ],
 [
 "Quarab",
-7
+7,
+[]
 ],
 [
 "Warlander",
-7
+7,
+[]
 ],
 [
 "Bavarian Warmblood",
-7
+7,
+[
+"Bayrisches Warmblut"
+]
 ],
 [
 "Mangalarga",
-7
+7,
+[]
 ],
 [
 "Campeiro",
-6
+6,
+[]
 ],
 [
 "Caballo Polo Argentino",
-6
+6,
+[]
 ],
 [
 "Panje",
-6
+6,
+[]
 ],
 [
 "American Indian horse",
-6
+6,
+[]
 ],
 [
 "Anadolu Pony",
-6
+6,
+[]
 ],
 [
 "Balikun horse",
-6
+6,
+[
+"Chinese Kazakh Horse"
+]
 ],
 [
 "Camarillo White Horse",
-6
+6,
+[]
 ],
 [
 "Canadian Rustic Pony",
-6
+6,
+[]
 ],
 [
 "Catria horse",
-6
+6,
+[]
 ],
 [
 "Irish Hobby",
-6
+6,
+[]
 ],
 [
 "Malopolski",
-6
+6,
+[]
 ],
 [
 "Kaimanawa horse",
-6
+6,
+[]
 ],
 [
 "Spanish Mustang",
-6
+6,
+[]
 ],
 [
 "Newfoundland pony",
-6
+6,
+[]
 ],
 [
 "Sarcidano horse",
-6
+6,
+[]
 ],
 [
 "Monchino",
-6
+6,
+[]
 ],
 [
 "Hispano-Bretón",
-6
+6,
+[
+"Hispano-Breton"
+]
 ],
 [
 "Poney du Logone",
-6
+6,
+[
+"Kirdi",
+"Lakka",
+"Mbaï",
+"Pagan",
+"Poney de la Kabia",
+"Poney Hoho",
+"Poney Mousseye",
+"Poney Musey",
+"Sara"
+]
 ],
 [
 "Persano horse",
-6
+6,
+[]
 ],
 [
 "Voronej",
-6
+6,
+[]
 ],
 [
 "Cayuse",
-6
+6,
+[]
 ],
 [
 "Dutch harness horse",
-6
+6,
+[]
 ],
 [
 "Arabo-friesian",
-6
+6,
+[]
 ],
 [
 "Sokolsky horse",
-6
+6,
+[
+"Sokólski"
+]
 ],
 [
 "Arab-Barb",
-6
+6,
+[]
 ],
 [
 "Slovenian Cold-blood",
-6
+6,
+[
+"Slovenian Coldblood",
+"Slovenian Cold-blooded Horse"
+]
 ],
 [
 "Arenberg-Nordkirchen",
-6
+6,
+[]
 ],
 [
 "Pura Raza Española",
-6
+6,
+[
+"PRE"
+]
 ],
 [
 "French Anglo Arab",
-6
+6,
+[]
 ],
 [
 "Quarter pony",
-6
+6,
+[]
 ],
 [
 "Spanish Jennet Horse",
-6
+6,
+[]
 ],
 [
 "Tawleed",
-6
+6,
+[]
 ],
 [
 "Kalmyk horse",
-6
+6,
+[]
 ],
 [
 "Windsor Grey",
-6
+6,
+[]
 ],
 [
 "Calabrese horse",
-5
+5,
+[]
 ],
 [
 "Dareshuri",
-5
+5,
+[
+"Dareshoori",
+"Shirazi"
+]
 ],
 [
 "Estonian Draft",
-5
+5,
+[
+"Eston-Arden"
+]
 ],
 [
 "Welsh Pony of Cob Type",
-5
+5,
+[
+"Welsh Pony (Section C)"
+]
 ],
 [
 "Tusheti horse",
-5
+5,
+[]
 ],
 [
 "Emscherbrücher",
-5
+5,
+[]
 ],
 [
 "Siciliano indigeno",
-5
+5,
+[]
 ],
 [
 "Zangersheide",
-5
+5,
+[]
 ],
 [
 "Bhutia Horse",
-5
+5,
+[
+"Bhotia horse"
+]
 ],
 [
 "Araber-Haflinger",
-5
+5,
+[]
 ],
 [
 "Welara",
-5
+5,
+[]
 ],
 [
 "Mezen horse",
-5
+5,
+[]
 ],
 [
 "Axios horses",
-5
+5,
+[]
 ],
 [
 "Kundido horse",
-5
+5,
+[
+"Kundudo horse"
+]
 ],
 [
 "Hessisches Warmblut",
-5
+5,
+[]
 ],
 [
 "Rottaler",
-5
+5,
+[
+"Rottaler Pferd",
+"Rottaler Warmblut"
+]
 ],
 [
 "Bhimthadi horse",
-5
+5,
+[
+"Deccani"
+]
 ],
 [
 "Palatinate-Ardennes",
-5
+5,
+[
+"Palatine Ardennes",
+"Pfalz-Ardenner"
+]
 ],
 [
 "Bangladesh native horse",
-5
+5,
+[
+"Bangladeshi native horse"
+]
 ],
 [
 "British Spotted pony",
-5
+5,
+[]
 ],
 [
 "M'Bayar",
-5
+5,
+[
+"Baol",
+"Mbayar",
+"Poney Mbayar"
+]
 ],
 [
 "Indonesian Racing Horse",
-5
+5,
+[
+"Kuda Pacu Indonesia"
+]
 ],
 [
 "Retuerta horse",
-5
+5,
+[]
 ],
 [
 "American Warmblood",
-5
+5,
+[]
 ],
 [
 "Andravida horse",
-5
+5,
+[]
 ],
 [
 "Anglo-Kabarda",
-5
+5,
+[]
 ],
 [
 "Poney de selle belge",
-5
+5,
+[]
 ],
 [
 "AQPS",
-5
+5,
+[
+"Autre Que Pur Sang",
+"French chaser"
+]
 ],
 [
 "Blazer horse",
-5
+5,
+[]
 ],
 [
 "Carolina Marsh Tacky",
-5
+5,
+[]
 ],
 [
 "Castillonnais",
-5
+5,
+[]
 ],
 [
 "Charolais horse",
-5
+5,
+[]
 ],
 [
 "Auvergne horse",
-5
+5,
+[]
 ],
 [
 "Nez Perce Horse",
-5
+5,
+[]
 ],
 [
 "Brazilian Sport Horse",
-5
+5,
+[]
 ],
 [
 "Flemish Horse",
-5
+5,
+[]
 ],
 [
 "Choctaw Horse",
-5
+5,
+[]
 ],
 [
 "Austrian Warmblood",
-5
+5,
+[]
 ],
 [
 "Lavradeiro",
-5
+5,
+[
+"Wild Horse of Roraima"
+]
 ],
 [
 "Gayoe",
-5
+5,
+[
+"kuda-Gayo"
+]
 ],
 [
 "Jaca Navarra",
-5
+5,
+[]
 ],
 [
 "Narym Pony",
-5
+5,
+[]
 ],
 [
 "National Show Horse",
-5
+5,
+[]
 ],
 [
 "Nooitgedacht pony",
-5
+5,
+[]
 ],
 [
 "Old English Black",
-5
+5,
+[]
 ],
 [
 "Pantaneiro",
-5
+5,
+[
+"Bahiano",
+"Mimoseano",
+"Poconeano"
+]
 ],
 [
 "Lac La Croix Indian Pony",
-5
+5,
+[]
 ],
 [
 "Tolfetano",
-5
+5,
+[]
 ],
 [
 "Australian Draught Horse",
-5
+5,
+[]
 ],
 [
 "Italian Trotter",
-5
+5,
+[]
 ],
 [
 "Uzunyayla",
-5
+5,
+[]
 ],
 [
 "Virginia Highlander",
-5
+5,
+[]
 ],
 [
 "Purosangue Orientale",
-5
+5,
+[]
 ],
 [
 "Dzhab",
-5
+5,
+[
+"Betpakdalin",
+"Jabe"
+]
 ],
 [
 "Sella Italiano",
-5
+5,
+[]
 ],
 [
 "Orlov-Rostopchin Sport Horse",
-5
+5,
+[]
 ],
 [
 "Arravani",
-5
+5,
+[
+"Macedonian pacer horse"
+]
 ],
 [
 "Danish Sport Pony",
-5
+5,
+[]
 ],
 [
 "Guangxi",
-5
+5,
+[
+"Guangxi pony"
+]
 ],
 [
 "Northeastern horse",
-5
+5,
+[]
 ],
 [
 "Cumberland Island horse",
-5
+5,
+[]
 ],
 [
 "Czechoslovakian Small Riding Pony",
-5
+5,
+[]
 ],
 [
 "Friesian Sporthorse",
-5
+5,
+[]
 ],
 [
 "Guizhou pony",
-5
+5,
+[]
 ],
 [
 "Spanish Sport Horse",
-5
+5,
+[
+"CDE"
+]
 ],
 [
 "Swiss Warmblood",
-5
+5,
+[
+"Cavallo della Svizzera",
+"CH-Warmblut",
+"Demi-Sang CH",
+"Demi-Sang Suisse",
+"Neue Einsiedler",
+"Schweizer Warmblut",
+"Swiss Saddle Horse"
+]
 ],
 [
 "Marismeño",
-5
+5,
+[]
 ],
 [
 "NorthAmerican Sportpony",
-5
+5,
+[]
 ],
 [
 "Spanish-Norman horse",
-5
+5,
+[]
 ],
 [
 "Australian Warmblood",
-5
+5,
+[]
 ],
 [
 "Yili horse",
-5
+5,
+[]
 ],
 [
 "Racking horse",
-5
+5,
+[]
 ],
 [
 "British Warmblood",
-5
+5,
+[]
 ],
 [
 "Chinese Guoxia",
-5
+5,
+[]
 ],
 [
 "Vlaamperd",
-5
+5,
+[]
 ],
 [
 "Esperia Pony",
-5
+5,
+[]
 ],
 [
 "Brazilian pony",
-4
+4,
+[]
 ],
 [
 "Andean",
-4
+4,
+[]
 ],
 [
 "Boer Pony",
-4
+4,
+[]
 ],
 [
 "American Drum Horse",
-4
+4,
+[]
 ],
 [
 "Egyptian Arabian",
-4
+4,
+[]
 ],
 [
 "Hebridean pony",
-4
+4,
+[]
 ],
 [
 "Liebenthaler",
-4
+4,
+[]
 ],
 [
 "Strelets",
-4
+4,
+[]
 ],
 [
 "Kandachime",
-4
+4,
+[]
 ],
 [
 "tatar horse",
-4
+4,
+[]
 ],
 [
 "Kuc felinski",
-4
+4,
+[]
 ],
 [
 "German Warmblood",
-4
+4,
+[]
 ],
 [
 "Finnish Warmblood",
-4
+4,
+[]
 ],
 [
 "Hack horses",
-4
+4,
+[]
 ],
 [
 "Ngua Noi",
-4
+4,
+[]
 ],
 [
 "Spanish Trotter",
-4
+4,
+[]
 ],
 [
 "Bidet breton",
-4
+4,
+[]
 ],
 [
 "Dutch Miniature",
-4
+4,
+[
+"Nederlands Mini Paarden"
+]
 ],
 [
 "Pirenenc Català",
-4
+4,
+[
+"Cavall Pirenenc Català"
+]
 ],
 [
 "Altwürttemberger",
-4
+4,
+[]
 ],
 [
 "Chinese Mongolian",
-4
+4,
+[
+"Chinese Mongolian horse"
+]
 ],
 [
 "Tuva",
-4
+4,
+[
+"Tuva horse"
+]
 ],
 [
 "Lombok Pony",
-4
+4,
+[]
 ],
 [
 "Yushu",
-4
+4,
+[]
 ],
 [
 "Mountain Pleasure Horse",
-4
+4,
+[]
 ],
 [
 "Fleuve",
-4
+4,
+[
+"Cheval du Fleuve",
+"Naru Gor"
+]
 ],
 [
 "M'Par",
-4
+4,
+[]
 ],
 [
 "Shan Horse",
-4
+4,
+[]
 ],
 [
 "Amurski horse",
-4
+4,
+[
+"Manchurian pony"
+]
 ],
 [
 "Swedish Ardennes",
-4
+4,
+[]
 ],
 [
 "Baixadeiro",
-4
+4,
+[]
 ],
 [
 "Bhirum pony",
-4
+4,
+[
+"Nigerian Pony"
+]
 ],
 [
 "Barraquand horse",
-4
+4,
+[
+"Vercors horse"
+]
 ],
 [
 "Cavallo Romano della Maremma Laziale",
-4
+4,
+[]
 ],
 [
 "Cheval du Morvan",
-4
+4,
+[]
 ],
 [
 "Limousin horse",
-4
+4,
+[]
 ],
 [
 "Cheval lorrain",
-4
+4,
+[]
 ],
 [
 "Navarrin horse",
-4
+4,
+[]
 ],
 [
 "Coffin Bay Pony",
-4
+4,
+[]
 ],
 [
 "Deli pony",
-4
+4,
+[]
 ],
 [
 "Burmese Pony",
-4
+4,
+[
+"Burmese Horse"
+]
 ],
 [
 "Karacabey horse",
-4
+4,
+[]
 ],
 [
 "Narragansett Pacer",
-4
+4,
+[]
 ],
 [
 "Oberlander horse",
-4
+4,
+[
+"South German Coldblood"
+]
 ],
 [
 "Costa Rican Saddle Horse",
-4
+4,
+[]
 ],
 [
 "Petiso Argentino",
-4
+4,
+[]
 ],
 [
 "Western Sudan pony",
-4
+4,
+[]
 ],
 [
 "Half-bred horses of Dombes",
-4
+4,
+[]
 ],
 [
 "Tiger horse",
-4
+4,
+[]
 ],
 [
 "Cavallo Appenninico",
-4
+4,
+[]
 ],
 [
 "Kuznet",
-4
+4,
+[]
 ],
 [
 "Miquelon horse",
-4
+4,
+[]
 ],
 [
 "Basque Mountain Horse",
-4
+4,
+[]
 ],
 [
 "Burguete horse",
-4
+4,
+[]
 ],
 [
 "Bobo horse",
-4
+4,
+[
+"Bobodi"
+]
 ],
 [
 "Trochador",
-4
+4,
+[]
 ],
 [
 "Bagual",
-4
+4,
+[]
 ],
 [
 "Hrvatski toplokrvnjak",
-4
+4,
+[]
 ],
 [
 "Novoolexandrian Draught",
-4
+4,
+[]
 ],
 [
 "Georgian Grande Horse",
-4
+4,
+[]
 ],
 [
 "Polish Halfbred Horse",
-4
+4,
+[]
 ],
 [
 "Ljutomer Trotter",
-4
+4,
+[]
 ],
 [
 "Carneddau pony",
-4
+4,
+[
+"Carneddau ponies"
+]
 ],
 [
 "Sudan Country-Bred",
-4
+4,
+[]
 ],
 [
 "Heihe horse",
-4
+4,
+[]
 ],
 [
 "La Hague horse",
-4
+4,
+[]
 ],
 [
 "Karelian horse",
-4
+4,
+[]
 ],
 [
 "Puruca",
-4
+4,
+[]
 ],
 [
 "Hirzai",
-4
+4,
+[
+"Nukra Stallion"
+]
 ],
 [
 "Ujumqin",
-4
+4,
+[]
 ],
 [
 "Indian Country Bred",
-4
+4,
+[]
 ],
 [
 "Lijiang pony",
-4
+4,
+[
+"Lijiang ponies"
+]
 ],
 [
 "Samolaco horse",
-4
+4,
+[]
 ],
 [
 "Yorkshire Coach Horse",
-4
+4,
+[]
 ],
 [
 "Canadian Warmblood",
-3
+3,
+[]
 ],
 [
 "Cuban Paso",
-3
+3,
+[]
 ],
 [
 "Cuban trotter",
-3
+3,
+[]
 ],
 [
 "Jinjiang",
-3
+3,
+[
+"Jinhong"
+]
 ],
 [
 "American Belgian Draft",
-3
+3,
+[
+"Belgian",
+"Belgian Draft",
+"Belgian Heavy Draft"
+]
 ],
 [
 "Polish Coldblood",
-3
+3,
+[]
 ],
 [
 "warmblood trotter",
-3
+3,
+[]
 ],
 [
 "Edelbluthaflinger",
-3
+3,
+[]
 ],
 [
 "Edles Warmblut",
-3
+3,
+[]
 ],
 [
 "Ader",
-3
+3,
+[]
 ],
 [
 "Anglo European",
-3
+3,
+[
+"AES",
+"Anglo European Stud Book"
+]
 ],
 [
 "Hegardt Horse",
-3
+3,
+[
+"Stroebel Horse"
+]
 ],
 [
 "Canik",
-3
+3,
+[]
 ],
 [
 "Chernomor",
-3
+3,
+[
+"Black Sea Horse",
+"Cherkassky"
+]
 ],
 [
 "Erlenbach horse",
-3
+3,
+[
+"Erlenbacher"
+]
 ],
 [
 "Corlay horse",
-3
+3,
+[]
 ],
 [
 "Iberoamericano",
-3
+3,
+[]
 ],
 [
 "Kushum",
-3
+3,
+[]
 ],
 [
 "Beberbecker",
-3
+3,
+[]
 ],
 [
 "Zabaikal",
-3
+3,
+[]
 ],
 [
 "Thai Pony",
-3
+3,
+[]
 ],
 [
 "Chakouyi",
-3
+3,
+[]
 ],
 [
 "Datong horse",
-3
+3,
+[]
 ],
 [
 "Chaidamu",
-3
+3,
+[]
 ],
 [
 "Shandan horse",
-3
+3,
+[]
 ],
 [
 "Cavallo del Delta",
-3
+3,
+[]
 ],
 [
 "North American Single-Footing Horse",
-3
+3,
+[]
 ],
 [
 "Chumbivilcas",
-3
+3,
+[]
 ],
 [
 "Cerbat Mustang",
-3
+3,
+[]
 ],
 [
 "Sri Lankan pony",
-3
+3,
+[]
 ],
 [
 "Abtenauer",
-3
+3,
+[]
 ],
 [
 "Abeya",
-3
+3,
+[]
 ],
 [
 "Angevin horse",
-3
+3,
+[]
 ],
 [
 "Berrichon horse",
-3
+3,
+[]
 ],
 [
 "Canadian Pacer",
-3
+3,
+[]
 ],
 [
 "castilian horse",
-3
+3,
+[]
 ],
 [
 "Charentais horse",
-3
+3,
+[]
 ],
 [
 "Nangchen horse",
-3
+3,
+[]
 ],
 [
 "Pentro horse",
-3
+3,
+[]
 ],
 [
 "Belgian Sport Horse",
-3
+3,
+[
+"sBs"
+]
 ],
 [
 "Cheval des Marquises",
-3
+3,
+[]
 ],
 [
 "Ventasso horse",
-3
+3,
+[]
 ],
 [
 "Persian plateau horse",
-3
+3,
+[]
 ],
 [
 "Moyle horse",
-3
+3,
+[]
 ],
 [
 "Nivernais horse",
-3
+3,
+[]
 ],
 [
 "Pónei da Terceira",
-3
+3,
+[]
 ],
 [
 "Argentinian Warmblood",
-3
+3,
+[]
 ],
 [
 "Unmol Horse",
-3
+3,
+[]
 ],
 [
 "Walkaloosa",
-3
+3,
+[]
 ],
 [
 "Barock Pinto",
-3
+3,
+[
+"Friesian Pinto",
+"Pinto Barock",
+"Pinto Friesian"
+]
 ],
 [
 "Baladi horse",
-3
+3,
+[]
 ],
 [
 "Bale horse",
-3
+3,
+[]
 ],
 [
 "Selale",
-3
+3,
+[]
 ],
 [
 "Venezuelan Criollo",
-3
+3,
+[
+"Llanero"
+]
 ],
 [
 "Crioulo",
-3
+3,
+[]
 ],
 [
 "Beledougou",
-3
+3,
+[]
 ],
 [
 "Polesskaya horse",
-3
+3,
+[]
 ],
 [
 "Lesbos horse",
-3
+3,
+[]
 ],
 [
 "Darkhad",
-3
+3,
+[]
 ],
 [
 "Rodope horse",
-3
+3,
+[]
 ],
 [
 "Zanthe horse",
-3
+3,
+[]
 ],
 [
 "Rhodos pony",
-3
+3,
+[]
 ],
 [
 "Cauchois horse",
-3
+3,
+[]
 ],
 [
 "Maine",
-3
+3,
+[]
 ],
 [
 "Merlerault horse",
-3
+3,
+[]
 ],
 [
 "Polish Arabian horse",
-3
+3,
+[]
 ],
 [
 "Abaga",
-3
+3,
+[
+"Black Abaga"
+]
 ],
 [
 "Pryor Mountain Mustang",
-3
+3,
+[]
 ],
 [
 "Romanian Sporthorse",
-3
+3,
+[]
 ],
 [
 "Avelignese",
-3
+3,
+[]
 ],
 [
 "Mossi",
-2
+2,
+[]
 ],
 [
 "Sachsen-Anhaltiner Warmblut",
-2
+2,
+[]
 ],
 [
 "Basseri horse",
-2
+2,
+[]
 ],
 [
 "Cuban Pinto",
-2
+2,
+[]
 ],
 [
 "Morocco Spotted Horse",
-2
+2,
+[]
 ],
 [
 "Iranian Arabian",
-2
+2,
+[
+"Asil Horse"
+]
 ],
 [
 "American Sugarbush Harlequin Draft",
-2
+2,
+[]
 ],
 [
 "Tatar Pony",
-2
+2,
+[]
 ],
 [
 "Sport Horse Breeding of Great Britain",
-2
+2,
+[]
 ],
 [
 "Constantine Barb",
-2
+2,
+[]
 ],
 [
 "Oran Barb",
-2
+2,
+[]
 ],
 [
 "Ushi-uma",
-2
+2,
+[]
 ],
 [
 "Jaf",
-2
+2,
+[]
 ],
 [
 "German Part-bred Shetland Pony",
-2
+2,
+[]
 ],
 [
 "Stara Planina",
-2
+2,
+[]
 ],
 [
 "Canadian Sport Horse",
-2
+2,
+[]
 ],
 [
 "British Miniature Horse",
-2
+2,
+[
+"Miniature Toy Horse"
+]
 ],
 [
 "Lofoten pony",
-2
+2,
+[]
 ],
 [
 "German Trotter",
-2
+2,
+[]
 ],
 [
 "Brennou horse",
-2
+2,
+[
+"Brandin horse"
+]
 ],
 [
 "Israeli Local Horse",
-2
+2,
+[]
 ],
 [
 "Baltic Ardennes",
-2
+2,
+[]
 ],
 [
 "Miniature Shetland pony",
-2
+2,
+[]
 ],
 [
 "Bolivian Pony",
-2
+2,
+[]
 ],
 [
 "Borneo Pony",
-2
+2,
+[]
 ],
 [
 "Luxembourg Warmblood",
-2
+2,
+[]
 ],
 [
 "Jianchang",
-2
+2,
+[]
 ],
 [
 "Chinese Kazakh Horse",
-2
+2,
+[]
 ],
 [
 "Ban-ei Race Horse",
-2
+2,
+[]
 ],
 [
 "Merak-Saktenpata",
-2
+2,
+[]
 ],
 [
 "Yuta horse",
-2
+2,
+[]
 ],
 [
 "Kuningan",
-2
+2,
+[]
 ],
 [
 "Abstang",
-2
+2,
+[]
 ],
 [
 "Augeron horse",
-2
+2,
+[]
 ],
 [
 "Aenos",
-2
+2,
+[]
 ],
 [
 "Turkish Arabian horse",
-2
+2,
+[]
 ],
 [
 "Muniqi",
-2
+2,
+[]
 ],
 [
 "Alaca",
-2
+2,
+[]
 ],
 [
 "Priangan horse",
-2
+2,
+[]
 ],
 [
 "Marajoara (horse breed)",
-2
+2,
+[]
 ],
 [
 "Montana Traveler",
-2
+2,
+[
+"Montana Travler"
+]
 ],
 [
 "Qatgani",
-2
+2,
+[]
 ],
 [
 "Malakan",
-2
+2,
+[]
 ],
 [
 "Slovak Warmblood",
-2
+2,
+[]
 ],
 [
 "Romanian draft horse",
-2
+2,
+[]
 ],
 [
 "Slovenian warmblood",
-2
+2,
+[]
 ],
 [
 "Trote y Galope",
-2
+2,
+[]
 ],
 [
 "Uruguayan Criollo",
-2
+2,
+[]
 ],
 [
 "Paraguayan Criollo",
-2
+2,
+[]
 ],
 [
 "Belgian Trotter",
-2
+2,
+[]
 ],
 [
 "Waziri",
-2
+2,
+[]
 ],
 [
 "Galshar",
-2
+2,
+[]
 ],
 [
 "Myngad",
-2
+2,
+[
+"Myangad"
+]
 ],
 [
 "Conestoga Horse",
-2
+2,
+[]
 ],
 [
 "Kafa",
-2
+2,
+[]
 ],
 [
 "Baguio",
-2
+2,
+[]
 ],
 [
 "Bergmann",
-2
+2,
+[
+"Argentine Mode Pony"
+]
 ],
 [
 "Estonian Sport Horse",
-2
+2,
+[]
 ],
 [
 "Yabu",
-2
+2,
+[]
 ],
 [
 "Bajau",
-2
+2,
+[]
 ],
 [
 "Javakhuri Harness Horse",
-2
+2,
+[]
 ],
 [
 "Carrossier noir du Cotentin",
-2
+2,
+[]
 ],
 [
 "Goonhilly",
-2
+2,
+[]
 ],
 [
 "Makassar",
-2
+2,
+[]
 ],
 [
 "Lao",
-2
+2,
+[]
 ],
 [
 "Zhongdian",
-2
+2,
+[]
 ],
 [
 "Henan",
-2
+2,
+[]
 ],
 [
 "Wenshan",
-2
+2,
+[]
 ],
 [
 "South African Warmblood",
-2
+2,
+[
+"Sa warm blood"
+]
 ],
 [
 "Morna",
-2
+2,
+[]
 ],
 [
 "Jata",
-2
+2,
+[]
 ],
 [
 "Polish Riding Pony",
-2
+2,
+[]
 ],
 [
 "South African Miniature",
-2
+2,
+[]
 ],
 [
 "Lippitt Morgan",
-2
+2,
+[]
 ],
 [
 "Hınıs",
-2
+2,
+[]
 ],
 [
 "Studbook La Silla",
-2
+2,
+[]
 ],
 [
 "Xilingol horse",
-2
+2,
+[]
 ],
 [
 "Bachmat",
-2
+2,
+[]
 ],
 [
 "Namaqua Pony",
-2
+2,
+[]
 ],
 [
 "American spotted paso",
-1
+1,
+[]
 ],
 [
 "Chapman Horse",
-1
+1,
+[]
 ],
 [
 "Trotter-type Finnhorse",
-1
+1,
+[]
 ],
 [
 "Jofi",
-1
+1,
+[
+"al-Jawf"
+]
 ],
 [
 "Golden American Saddlebred",
-1
+1,
+[]
 ],
 [
 "Japanese Riding Horse",
-1
+1,
+[]
 ],
 [
 "Bakhtiari",
-1
+1,
+[]
 ],
 [
 "North American Spotted Draft Horse",
-1
+1,
+[]
 ],
 [
 "Sulphur",
-1
+1,
+[]
 ],
 [
 "McCurdy Plantation Horse",
-1
+1,
+[
+"McCurdy Walker"
+]
 ],
 [
 "Anglo-barb horse",
-1
+1,
+[]
 ],
 [
 "Karst horse",
-1
+1,
+[]
 ],
 [
 "Swiss Pony",
-1
+1,
+[]
 ],
 [
 "Sztumski",
-1
+1,
+[]
 ],
 [
 "Lincolnshire Dray Horse",
-1
+1,
+[]
 ],
 [
 "Sistani",
-1
+1,
+[]
 ],
 [
 "Croatian trotter",
-1
+1,
+[]
 ],
 [
 "Bohai",
-1
+1,
+[
+"Buohai"
+]
 ],
 [
 "Calvinia",
-1
+1,
+[]
 ],
 [
 "American Paint Pony Registry",
-1
+1,
+[]
 ],
 [
 "Jilin",
-1
+1,
+[]
 ],
 [
 "Brantome line",
-1
+1,
+[]
 ],
 [
 "Çukurova",
-1
+1,
+[]
 ],
 [
 "Gemlik",
-1
+1,
+[]
 ],
 [
 "Cape Harness",
-1
+1,
+[]
 ],
 [
 "Clay Trotting Horses",
-1
+1,
+[]
 ],
 [
 "Tes",
-1
+1,
+[]
 ],
 [
 "Patibarcina",
-1
+1,
+[]
 ],
 [
 "Cherokee",
-1
+1,
+[]
 ],
 [
 "Chumysh",
-1
+1,
+[]
 ],
 [
 "Danish trotter",
-1
+1,
+[]
 ],
 [
 "Romanian Trotter",
-1
+1,
+[]
 ],
 [
 "Banat",
-1
+1,
+[]
 ],
 [
 "Ondorshil",
-1
+1,
+[]
 ],
 [
 "Kajlan",
-1
+1,
+[]
 ],
 [
 "Appaloosa Sport Horse",
-1
+1,
+[]
 ],
 [
 "South African Saddlehorse",
-1
+1,
+[]
 ],
 [
 "Westphalian Pony",
-0
+0,
+[]
 ],
 [
 "Borta",
-0
+0,
+[]
 ],
 [
 "Dawand",
-0
+0,
+[]
 ],
 [
 "Mazari",
-0
+0,
+[]
 ],
 [
 "Herati",
-0
+0,
+[]
 ],
 [
 "Qazal",
-0
+0,
+[]
 ],
 [
 "Yargha",
-0
+0,
+[]
 ],
 [
 "Samand",
-0
+0,
+[]
 ],
 [
 "Kohband",
-0
+0,
+[]
 ],
 [
 "Manx",
-0
+0,
+[]
 ],
 [
 "Japanese Miniature Horse",
-0
+0,
+[]
 ],
 [
 "Japanese Sport Horse",
-0
+0,
+[]
 ],
 [
 "Japanese Pony",
-0
+0,
+[]
 ],
 [
 "Podveleski",
-0
+0,
+[]
 ],
 [
 "Busa Pony",
-0
+0,
+[]
 ],
 [
 "Hutovo-Blato",
-0
+0,
+[]
 ],
 [
 "Domestic mountain pony",
-0
+0,
+[]
 ],
 [
 "Namaqua",
-0
+0,
+[]
 ],
 [
 "English Halfblut",
-0
+0,
+[]
 ],
 [
 "Bisbino horse",
-0
+0,
+[]
 ],
 [
 "Tattu",
-0
+0,
+[]
 ],
 [
 "Chyanta",
-0
+0,
+[
+"Cyanta",
+"Shanta"
+]
 ],
 [
 "Tanghan",
-0
+0,
+[]
 ],
 [
 "Baltic Trotter",
-0
+0,
+[]
 ],
 [
 "Balkan Pony",
-0
+0,
+[]
 ],
 [
 "Pahlavan",
-0
+0,
+[]
 ],
 [
 "Desert Norman Horse",
-0
+0,
+[]
 ],
 [
 "Irish cob",
-0
+0,
+[]
 ],
 [
 "Irish Pony",
-0
+0,
+[]
 ],
 [
 "Baise",
-0
+0,
+[]
 ],
 [
 "Shishan",
-0
+0,
+[]
 ],
 [
 "American White Draught Horse",
-0
+0,
+[]
 ],
 [
 "Amyrakikos",
-0
+0,
+[]
 ],
 [
 "Tuva Harness Horse",
-0
+0,
+[
+"Tuva Coach"
+]
 ],
 [
 "Pinkafö",
-0
+0,
+[]
 ]
 ]

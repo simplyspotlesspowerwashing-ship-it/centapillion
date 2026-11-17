@@ -1,938 +1,2357 @@
 [
 [
 "pita",
-60
+60,
+[
+"Greek bread",
+"Palestinian bread",
+"pita bread",
+"pitta",
+"Syrian bread"
+]
 ],
 [
 "flatbread",
-55
+55,
+[
+"flatbreads"
+]
 ],
 [
 "toast",
-52
+52,
+[
+"bread toast",
+"toasted bread"
+]
 ],
 [
 "sacramental bread",
-51
+51,
+[
+"communion bread",
+"communion wafer",
+"consecrated host",
+"holy host",
+"host",
+"hostia",
+"ostia"
+]
 ],
 [
 "rye bread",
-51
+51,
+[]
 ],
 [
 "papad",
-51
+51,
+[
+"papadum",
+"papar",
+"pappadam",
+"poppadom",
+"poppadum"
+]
 ],
 [
 "bread crumbs",
-48
+48,
+[
+"breadcrumbs"
+]
 ],
 [
 "puri",
-47
+47,
+[
+"poori",
+"Poori bread",
+"Puri bread"
+]
 ],
 [
 "bread roll",
-43
+43,
+[
+"барм",
+"булочка",
+"дріжджовий рулет",
+"качан",
+"ковток",
+"рулон",
+"торт з броколі"
+]
 ],
 [
 "white bread",
-37
+37,
+[]
 ],
 [
 "simit",
-37
+37,
+[
+"gevrek",
+"sameet",
+"semid",
+"semit",
+"simeet",
+"Turkish bagel"
+]
 ],
 [
 "rusk",
-36
+36,
+[
+"rusks"
+]
 ],
 [
 "garlic bread",
-35
+35,
+[
+"garlic bread roll"
+]
 ],
 [
 "bun",
-32
+32,
+[]
 ],
 [
 "unleavened bread",
-32
+32,
+[]
 ],
 [
 "challah",
-32
+32,
+[
+"berches",
+"challos",
+"challot",
+"hallah"
+]
 ],
 [
 "poğaça",
-30
+30,
+[
+"Pagáč",
+"pogača",
+"pogačica",
+"pogačice"
+]
 ],
 [
 "potato bread",
-26
+26,
+[]
 ],
 [
 "Butterbrot",
-25
+25,
+[]
 ],
 [
 "prosphora",
-25
+25,
+[
+"panagia",
+"prosphoron"
+]
 ],
 [
 "tandyr nan",
-24
+24,
+[
+"lepyoshka",
+"obi non",
+"tandir non",
+"tohax",
+"tonur nan"
+]
 ],
 [
 "brown bread",
-24
+24,
+[]
 ],
 [
 "palianytsia",
-23
+23,
+[
+"palianitsa",
+"palyanitsa",
+"palyanytsya"
+]
 ],
 [
 "Matnakash",
-23
+23,
+[]
 ],
 [
 "korovai",
-22
+22,
+[
+"karavai",
+"kravai"
+]
 ],
 [
 "pão de queijo",
-22
+22,
+[
+"cheese bread",
+"cheese bun",
+"cheese roll"
+]
 ],
 [
 "bublik",
-21
+21,
+[]
 ],
 [
 "khubz",
-21
+21,
+[
+"Arabic bread"
+]
 ],
 [
 "Vienna bread",
-21
+21,
+[]
 ],
 [
 "taboon bread",
-21
+21,
+[
+"laffa"
+]
 ],
 [
 "Shoti",
-20
+20,
+[]
 ],
 [
 "chipa",
-20
+20,
+[]
 ],
 [
 "curry bread",
-19
-],
-[
-"koliva",
-19
-],
-[
-"sourdough bread",
-19
+19,
+[]
 ],
 [
 "rice bread",
-19
+19,
+[]
+],
+[
+"koliva",
+19,
+[]
+],
+[
+"sourdough bread",
+19,
+[]
 ],
 [
 "Christmas wafer",
-18
+18,
+[]
 ],
 [
 "sopa paraguaya",
-18
+18,
+[]
 ],
 [
 "knish",
-18
+18,
+[
+"knishes"
+]
 ],
 [
 "bazlama",
-18
+18,
+[]
 ],
 [
 "Easter bread",
-17
+17,
+[]
 ],
 [
 "aloo paratha",
-17
+17,
+[
+"alu paratha"
+]
 ],
 [
 "makki ki roti",
-17
+17,
+[
+"makkī kī roṭṭī"
+]
 ],
 [
 "Taftan",
-17
+17,
+[]
 ],
 [
 "fit-fit",
-16
+16,
+[]
 ],
 [
 "malawach",
-16
+16,
+[
+"Malawah"
+]
 ],
 [
 "blessed bread",
-16
+16,
+[
+"antidoron",
+"eulogia"
+]
 ],
 [
 "Kubdari",
-16
+16,
+[]
 ],
 [
 "Sel roti",
-16
+16,
+[
+"selroti",
+"shinghal"
+]
 ],
 [
 "Vasilopita",
-15
+15,
+[
+"Greek king cake"
+]
 ],
 [
 "fried bread",
-15
+15,
+[]
 ],
 [
 "markook",
-15
+15,
+[]
 ],
 [
 "Rumali Roti",
-15
+15,
+[]
 ],
 [
 "Kommissbrot",
-15
+15,
+[]
 ],
 [
 "Graham bread",
-15
+15,
+[]
 ],
 [
 "Japanese milk bread",
-14
+14,
+[
+"Hokkaido milk bread",
+"Milk bread",
+"Shokupan"
+]
 ],
 [
 "damper",
-14
+14,
+[]
 ],
 [
 "Broa",
-14
+14,
+[]
 ],
 [
 "bazeen",
-14
+14,
+[
+"bazin"
+]
 ],
 [
 "monkey bread",
-14
+14,
+[]
 ],
 [
 "Mlinci",
-13
+13,
+[]
 ],
 [
 "sprouted bread",
-13
+13,
+[
+"Essene bread",
+"Ezekiel bread"
+]
 ],
 [
 "Tequeño",
-13
+13,
+[]
 ],
 [
 "Pathiri",
-13
+13,
+[]
 ],
 [
 "Limpa bread",
-13
+13,
+[]
 ],
 [
 "Tiger bread",
-13
+13,
+[
+"Dutch Crunch",
+"giraffe bread",
+"Giraffe bread",
+"Marco Polo bread",
+"tiger roll"
+]
 ],
 [
 "Marraqueta",
-13
+13,
+[]
 ],
 [
 "pan loaf",
-12
+12,
+[]
 ],
 [
 "Maltese bread",
-12
-],
-[
-"shaobing",
-12
+12,
+[]
 ],
 [
 "beer bread",
-12
+12,
+[]
+],
+[
+"shaobing",
+12,
+[
+"Chinese pancake",
+"shao bing"
+]
 ],
 [
 "Laufabrauð",
-11
+11,
+[]
 ],
 [
 "sliced bread",
-11
+11,
+[
+"pre-sliced bread"
+]
 ],
 [
 "talo",
-11
+11,
+[]
 ],
 [
 "pain de campagne",
-11
+11,
+[
+"campagne bread",
+"pains de campagne",
+"rustic bread",
+"rustic loaf"
+]
 ],
 [
 "Bolo do caco",
-11
+11,
+[]
 ],
 [
 "gnocco fritto",
-11
+11,
+[
+"crescentina"
+]
 ],
 [
 "Kitcha",
-11
+11,
+[]
 ],
 [
 "Potbrood",
-11
+11,
+[]
 ],
 [
 "michetta",
-11
+11,
+[]
 ],
 [
 "quick bread",
-10
+10,
+[
+"aerated bread"
+]
 ],
 [
 "twist bread",
-10
+10,
+[]
 ],
 [
 "Baba",
-10
+10,
+[]
 ],
 [
 "Baati",
-10
+10,
+[]
 ],
 [
 "rosquilla",
-10
+10,
+[
+"Rousquille"
+]
 ],
 [
 "Kubaneh",
-10
+10,
+[]
 ],
 [
 "kompyang",
-10
+10,
+[
+"gng-biâⁿ",
+"guáng-biǎng",
+"guang-bing",
+"gwōngbéng",
+"konpen",
+"kuang-ping",
+"kunpen"
+]
 ],
 [
 "Mandarin roll",
-9
+9,
+[
+"hua juan",
+"huajuan"
+]
 ],
 [
 "Laobing",
-9
+9,
+[]
 ],
 [
 "Matlou",
-9
+9,
+[
+"khobz el-dâr",
+"khobz el-kousha",
+"khobz el-tajine",
+"matloua el-kousha",
+"matlouh"
+]
 ],
 [
 "Dinkelbread",
-9
+9,
+[
+"Spelt bread",
+"Speltbread"
+]
 ],
 [
 "Tebirkes",
-9
+9,
+[
+"Københavnerbirkes",
+"Thebirkes"
+]
 ],
 [
 "multigrain bread",
-9
+9,
+[]
 ],
 [
 "almojábana",
-9
+9,
+[
+"Almojabana"
+]
 ],
 [
 "Faluche",
-9
+9,
+[
+"North Bread",
+"Pain du Nord"
+]
 ],
 [
 "Mosbolletjies",
-9
+9,
+[]
 ],
 [
 "no-knead bread",
-9
+9,
+[
+"no knead bread"
+]
 ],
 [
 "Pandebono",
-9
+9,
+[]
 ],
 [
 "Rosca",
-9
+9,
+[]
 ],
 [
 "Sanna",
-9
+9,
+[]
 ],
 [
 "Daktyla",
-8
+8,
+[]
 ],
 [
 "soboro-ppang",
-8
+8,
+[
+"Korean streusel bread",
+"soboro bread",
+"soboro bun",
+"soboro pastry"
+]
 ],
 [
 "Covrigi",
-8
+8,
+[]
 ],
 [
 "Ramadan pide",
-8
+8,
+[
+"Ramazan pidesi"
+]
 ],
 [
 "obwarzanek",
-8
+8,
+[
+"precel"
+]
 ],
 [
 "Pan candeal",
-8
+8,
+[]
 ],
 [
 "carrot bread",
-8
+8,
+[]
 ],
 [
 "Cuñapé",
-8
+8,
+[]
 ],
 [
 "Pane di Altamura PDO",
-8
+8,
+[]
 ],
 [
 "Basler Brot",
-8
+8,
+[
+"Basler Laibli"
+]
 ],
 [
 "coco bread",
-8
+8,
+[]
 ],
 [
 "Finnish bread",
-8
+8,
+[]
 ],
 [
 "Tapalapa",
-8
+8,
+[]
 ],
 [
 "pa de pagès",
-8
+8,
+[]
 ],
 [
 "cazabe",
-8
+8,
+[
+"casabe",
+"casabe de yuca",
+"cassava bread"
+]
 ],
 [
 "Bush bread",
-7
+7,
+[]
 ],
 [
 "Cemita",
-7
+7,
+[
+"Cema",
+"Sema",
+"Semita"
+]
 ],
 [
 "Olive bread",
-7
+7,
+[
+"olivenbrot"
+]
 ],
 [
 "Gebildbrot",
-7
+7,
+[]
 ],
 [
 "Mischbrot",
-7
+7,
+[]
 ],
 [
 "roti gambang",
-7
+7,
+[]
 ],
 [
 "sandwich bread",
-7
+7,
+[]
 ],
 [
 "maize bread",
-7
+7,
+[
+"corn bread",
+"mealie bread"
+]
 ],
 [
 "pain brié",
-7
+7,
+[
+"pain brie"
+]
 ],
 [
 "Tabouna bread",
-7
+7,
+[]
 ],
 [
 "Vastedda",
-7
+7,
+[]
 ],
 [
 "festival",
-7
+7,
+[
+"festivals",
+"Jamaican festival",
+"Jamaican festivals"
+]
 ],
 [
 "Kandil simidi",
-7
+7,
+[]
 ],
 [
 "Fatoot",
-7
+7,
+[]
 ],
 [
 "ka'ak al-Quds",
-7
+7,
+[
+"Bagel Yerushalmi",
+"Jerusalem bagel",
+"kaak al-Quds",
+"ka'ek al-Quds"
+]
 ],
 [
 "sausage bread",
-7
+7,
+[]
 ],
 [
 "steamed bread",
-7
+7,
+[]
 ],
 [
 "Pan de yuca",
-7
+7,
+[]
 ],
 [
 "Galician bread",
-6
+6,
+[
+"IGP Pan Gallego",
+"Pan galego",
+"PGI Галицький хліб",
+"Пан гальєго"
+]
 ],
 [
 "Colaci",
-6
+6,
+[]
 ],
 [
 "kkulppang",
-6
+6,
+[
+"honey bread"
+]
 ],
 [
 "Dalieba",
-6
+6,
+[
+"lieba"
+]
 ],
 [
 "barley bread",
-6
+6,
+[]
 ],
 [
 "biskotso",
-6
+6,
+[
+"biscocho"
+]
 ],
 [
 "Amish Friendship Bread",
-6
+6,
+[
+"Amish cinnamon bread"
+]
 ],
 [
 "Farl",
-6
+6,
+[]
 ],
 [
 "Kelane",
-6
+6,
+[
+"Kalana",
+"Kelaneh"
+]
 ],
 [
 "malt loaf",
-6
+6,
+[]
 ],
 [
 "parva",
-6
+6,
+[]
 ],
 [
 "Piki",
-6
+6,
+[]
 ],
 [
 "baton",
-5
+5,
+[]
 ],
 [
 "Spanish bread",
-5
+5,
+[
+"Señorita bread"
+]
 ],
 [
 "picatostes",
-5
+5,
+[
+"picatoste"
+]
 ],
 [
 "pão francês",
-5
+5,
+[
+"French bread",
+"French roll"
+]
 ],
 [
 "Al-Maltout",
-5
+5,
+[
+"maltoot bread"
+]
 ],
 [
 "Mexican bread",
-5
+5,
+[]
 ],
 [
 "Bappir",
-5
+5,
+[]
 ],
 [
 "Apple Bread",
-5
+5,
+[]
 ],
 [
 "bread dildo",
-5
+5,
+[]
 ],
 [
 "Rewena bread",
-5
+5,
+[]
 ],
 [
 "Burebrot",
-5
+5,
+[]
 ],
 [
 "blöta",
-5
+5,
+[
+"sop"
+]
 ],
 [
 "parbaking",
-5
+5,
+[
+"par-baked"
+]
 ],
 [
 "veneziana",
-5
+5,
+[]
 ],
 [
 "Canadian white bread",
-5
+5,
+[]
 ],
 [
 "Cocol",
-5
+5,
+[]
 ],
 [
 "Güirila",
-5
+5,
+[]
 ],
 [
 "Jolada Rotti",
-5
+5,
+[
+"Jawari Roti",
+"Jōḷada roṭṭi",
+"Jonna rotte",
+"Jowar roti"
+]
 ],
 [
 "Mandoca",
-5
+5,
+[]
 ],
 [
 "salt-rising bread",
-5
+5,
+[]
 ],
 [
 "tortilla de rescoldo",
-5
+5,
+[]
 ],
 [
 "Vinschgauer",
-5
+5,
+[]
 ],
 [
 "Prądnik bread",
-5
+5,
+[]
 ],
 [
 "roti bolen",
-5
+5,
+[]
 ],
 [
 "Upplandskubb",
-4
+4,
+[]
 ],
 [
 "Batter bread",
-4
+4,
+[]
 ],
 [
 "Bollo sevillano",
-4
+4,
+[
+"Bollo"
+]
 ],
 [
 "Pan de cañada",
-4
+4,
+[
+"Cañada bread"
+]
 ],
 [
 "Darnitsa bread",
-4
+4,
+[]
 ],
 [
 "vrtanek",
-4
+4,
+[
+"perec",
+"Vrtanek"
+]
 ],
 [
 "Tepertős pogácsa",
-4
+4,
+[]
 ],
 [
 "Trenza",
-4
+4,
+[]
 ],
 [
 "horsebread",
-4
+4,
+[]
 ],
 [
 "Kneippbrød",
-4
+4,
+[]
 ],
 [
 "Adobe bread",
-4
+4,
+[
+"oven bread"
+]
 ],
 [
 "Mutschel",
-4
+4,
+[]
 ],
 [
 "barm cake",
-4
+4,
+[]
 ],
 [
 "Broa de Avintes",
-4
+4,
+[]
 ],
 [
 "Cheesymite scroll",
-4
+4,
+[]
 ],
 [
 "rieska",
-4
+4,
+[]
 ],
 [
 "hard dough bread",
-4
+4,
+[
+"hardo bread"
+]
 ],
 [
 "Panbrioche",
-4
+4,
+[]
 ],
 [
 "stottie cake",
-4
+4,
+[]
 ],
 [
 "Wagafi bread",
-4
+4,
+[]
 ],
 [
 "Hönökaka",
-3
+3,
+[]
 ],
 [
 "paltbröd",
-3
+3,
+[]
 ],
 [
 "Kepta duona",
-3
+3,
+[]
 ],
 [
 "Mollete of Antequera",
-3
+3,
+[]
 ],
 [
 "fatira",
-3
+3,
+[
+"faṭira",
+"paṭira"
+]
 ],
 [
 "Gurasa",
-3
+3,
+[]
 ],
 [
 "pizza toast",
-3
+3,
+[]
 ],
 [
 "Hearth bread",
-3
+3,
+[]
 ],
 [
 "Bisalto",
-3
+3,
+[]
 ],
 [
 "Samarkand non",
-3
+3,
+[
+"Samarkand bread"
+]
 ],
 [
 "Saint George bread",
-3
+3,
+[
+"pa de Sant Jordi",
+"pan de San Jorge"
+]
 ],
 [
 "Bread of Cea",
-3
+3,
+[]
 ],
 [
 "Putok",
-3
+3,
+[]
 ],
 [
 "ِAbbas bread",
-3
+3,
+[]
 ],
 [
 "Churrasca",
-3
+3,
+[]
 ],
 [
 "Katlam",
-3
+3,
+[]
 ],
 [
 "Georgian bread",
-3
+3,
+[]
 ],
 [
 "Gochtial",
-3
+3,
+[]
 ],
 [
 "Kanpan",
-3
+3,
+[]
 ],
 [
 "Casinobread",
-3
+3,
+[]
 ],
 [
 "German bread",
-3
+3,
+[]
 ],
 [
 "sweet bread",
-3
+3,
+[]
 ],
 [
 "Krol",
-3
+3,
+[]
 ],
 [
 "Bolang-baling",
-3
+3,
+[]
 ],
 [
 "Faraoa 'ipo",
-3
+3,
+[]
 ],
 [
 "Cachitos",
-3
+3,
+[]
 ],
 [
 "Ghandi Bread",
-3
+3,
+[]
 ],
 [
 "Macatias",
-3
+3,
+[]
 ],
 [
 "somun",
-3
+3,
+[]
 ],
 [
 "Focaccia novese",
-3
+3,
+[]
 ],
 [
 "friselle",
-3
+3,
+[
+"fresella",
+"frisa",
+"frise",
+"frisedda",
+"friseddha",
+"friseddhre"
+]
 ],
 [
 "Chinese pancake",
-3
+3,
+[]
 ],
 [
 "crackling bread",
-3
+3,
+[
+"cornbread"
+]
 ],
 [
 "crustless bread",
-3
+3,
+[]
 ],
 [
 "Beschuit",
-3
+3,
+[]
 ],
 [
 "Ovelgönne bread roll",
-3
+3,
+[]
 ],
 [
 "National loaf",
-3
+3,
+[]
 ],
 [
 "Panfocaccia",
-3
+3,
+[]
 ],
 [
 "Slow Bread",
-3
+3,
+[]
 ],
 [
 "Sorullos",
-3
+3,
+[]
 ],
 [
 "Wonder Bread",
-3
+3,
+[]
 ],
 [
 "koppe pan",
-3
+3,
+[
+"koppepan"
+]
 ],
 [
 "U Pan de Natale",
-3
+3,
+[]
 ],
 [
 "Shio pan",
-3
+3,
+[
+"Salt bread"
+]
 ],
 [
 "Telera",
-3
+3,
+[]
+],
+[
+"Pone",
+2,
+[]
+],
+[
+"Poee",
+2,
+[
+"poie"
+]
+],
+[
+"Cinta bread",
+2,
+[
+"Pan de cinta"
+]
+],
+[
+"Galletes d'oli",
+2,
+[
+"Galletes d'Inca"
+]
+],
+[
+"K-brot",
+2,
+[]
+],
+[
+"Flama bread",
+2,
+[]
+],
+[
+"Crystal bread",
+2,
+[
+"pa de vidre",
+"pan de vidrio"
+]
+],
+[
+"Dalí bread",
+2,
+[
+"Pa de crostons",
+"Pa de tres cantons",
+"Pa de tres crostons",
+"Pan Dalí"
+]
+],
+[
+"Alentejano bread",
+2,
+[
+"Alentejo bread",
+"pão alentejano"
+]
+],
+[
+"Zopako",
+2,
+[
+"sopako"
+]
+],
+[
+"regañao",
+2,
+[]
+],
+[
+"electric bread",
+2,
+[]
+],
+[
+"Pan de queso",
+2,
+[]
+],
+[
+"homemade bread",
+2,
+[]
+],
+[
+"french bread",
+2,
+[]
+],
+[
+"Ottupathal",
+2,
+[]
+],
+[
+"Dumb bread",
+2,
+[]
+],
+[
+"Patir",
+2,
+[]
+],
+[
+"Sarna",
+2,
+[
+"sarnita"
+]
+],
+[
+"Mentai-france",
+2,
+[
+"Mentai france",
+"Mentaiko france",
+"Mentaiko-france"
+]
+],
+[
+"Boba",
+2,
+[]
+],
+[
+"Honig-Salz-Brot",
+2,
+[]
+],
+[
+"Ruchbrot",
+2,
+[]
+],
+[
+"Scali bread",
+2,
+[]
+],
+[
+"Bica de azeite",
+2,
+[]
+],
+[
+"Turkish breads",
+2,
+[
+"breads of Turkey"
+]
+],
+[
+"Ekmek",
+2,
+[
+"Turkish bread"
+]
+],
+[
+"Pa de ronyó",
+2,
+[
+"Kidney shape bread"
+]
+],
+[
+"Ousá bread",
+2,
+[]
+],
+[
+"yeast bread",
+2,
+[
+"yeast dough bread",
+"yeasted bread",
+"yeast-risen bread"
+]
+],
+[
+"mlawi",
+2,
+[]
+],
+[
+"marquesote",
+2,
+[]
+],
+[
+"Cornell bread",
+2,
+[]
+],
+[
+"Ttongppang",
+2,
+[]
+],
+[
+"Kilor",
+2,
+[]
+],
+[
+"Hubertus bread",
+2,
+[]
+],
+[
+"Nutribun",
+2,
+[
+"Nutriban",
+"Nutri-bun"
+]
+],
+[
+"Regeringsbrood",
+2,
+[]
+],
+[
+"Pagnotta del Dittaino",
+2,
+[]
+],
+[
+"civraxiu",
+2,
+[
+"civàrxu",
+"civràxu"
+]
+],
+[
+"Tain",
+2,
+[]
+],
+[
+"Bulkie roll",
+2,
+[]
+],
+[
+"Milk roll",
+2,
+[]
+],
+[
+"slice of bread",
+2,
+[
+"piece of bread"
+]
+],
+[
+"hot and spicy cheese bread",
+2,
+[
+"Wisconsin Cheesy Bread"
+]
+],
+[
+"peg bread",
+2,
+[]
+],
+[
+"plain loaf",
+2,
+[
+"plain bread"
+]
+],
+[
+"floor-baked bread",
+2,
+[]
+],
+[
+"Caramanduca",
+2,
+[]
+],
+[
+"Herculaneum loaf",
+2,
+[]
+],
+[
+"St. Galler brot",
+2,
+[
+"St. Galler bread"
+]
+],
+[
+"Pan de sòrc PAT",
+1,
+[]
+],
+[
+"Malaxlimpa",
+1,
+[]
+],
+[
+"Rotweinbrot",
+1,
+[]
+],
+[
+"Geflochtener Gipfel",
+1,
+[]
+],
+[
+"Chapla bread",
+1,
+[]
+],
+[
+"Tiroler Schinkenkruste",
+1,
+[]
+],
+[
+"Senfzwirbel",
+1,
+[]
+],
+[
+"Ungarisches Teebrot",
+1,
+[]
+],
+[
+"Blaukrautschnecke",
+1,
+[]
+],
+[
+"Succarie bread",
+1,
+[]
+],
+[
+"Pan cateto",
+1,
+[
+"yokel bread (literal translation)"
+]
+],
+[
+"Avaro",
+1,
+[]
+],
+[
+"Cantos bread",
+1,
+[]
+],
+[
+"Piña",
+1,
+[
+"cortaíto",
+"picadito",
+"picaíllo",
+"picaíto"
+]
+],
+[
+"Jallulla",
+1,
+[]
+],
+[
+"Lechuguino",
+1,
+[]
+],
+[
+"potato bun",
+1,
+[]
+],
+[
+"onion bread",
+1,
+[]
+],
+[
+"end of the bread",
+1,
+[]
+],
+[
+"Fabiola",
+1,
+[]
+],
+[
+"Pan Sobado de La Rioja",
+1,
+[]
+],
+[
+"Pintera bread",
+1,
+[]
+],
+[
+"Pan de codos",
+1,
+[
+"pa de colzes"
+]
+],
+[
+"Libreta bread",
+1,
+[]
+],
+[
+"krydder",
+1,
+[]
+],
+[
+"Archipelago bread",
+1,
+[
+"Black bread"
+]
+],
+[
+"chōripan",
+1,
+[]
+],
+[
+"Antigua Sunday Bread",
+1,
+[]
+],
+[
+"Sakhnovshchyna korovai",
+1,
+[]
+],
+[
+"shelf-stable bread",
+1,
+[]
+],
+[
+"Piece of sorghum bread contained in basket S. 283, from the grave goods of child mummy S. 278",
+1,
+[]
+],
+[
+"Bread loaf bound with papyrus strips",
+1,
+[]
+],
+[
+"Bread loaf",
+1,
+[]
+],
+[
+"Mennonite bread",
+1,
+[]
+],
+[
+"Mishṭāʿ al-ǧrīsh",
+1,
+[
+"Mishtah el jreesh",
+"Mishṭāʿ al-ŷrīsh",
+"مشطاح الجريش"
+]
+],
+[
+"Gijda",
+1,
+[]
+],
+[
+"Chama",
+1,
+[
+"chamillo"
+]
+],
+[
+"Three-pointed bread",
+1,
+[
+"pan de tres puntas"
+]
+],
+[
+"Szczecin bread",
+1,
+[]
+],
+[
+"Papad",
+1,
+[]
+],
+[
+"Pão de cará",
+1,
+[]
+],
+[
+"Pão de Mistura de Seia",
+1,
+[
+"Mixed flour bread"
+]
+],
+[
+"Pada de Vale de Ílhavo",
+1,
+[
+"Bread"
+]
+],
+[
+"Khobz el-dâr",
+1,
+[]
+],
+[
+"bread loaf",
+1,
+[
+"loaf of bread"
+]
+],
+[
+"psatyr",
+1,
+[]
+],
+[
+"Filinchen",
+1,
+[]
+],
+[
+"sesame roll",
+1,
+[]
+],
+[
+"pulppang",
+1,
+[]
+],
+[
+"poppyseed muffin",
+1,
+[
+"poppy seed muffins"
+]
+],
+[
+"Valladolid bread",
+1,
+[]
+],
+[
+"rievä",
+1,
+[]
+],
+[
+"Méture",
+1,
+[]
+],
+[
+"Pa de pages catala",
+1,
+[
+"pa de Pagès Català"
+]
+],
+[
+"fruit bread",
+1,
+[]
+],
+[
+"Vinschgauer struzn PAT",
+1,
+[
+"Pane della Val Venosta a forma di ferro di cavallo"
+]
+],
+[
+"Oberlander",
+1,
+[]
+],
+[
+"khobz mbesses",
+1,
+[]
+],
+[
+"Swedish white bread",
+1,
+[]
+],
+[
+"Korean mochi breads",
+1,
+[
+"mochi breads"
+]
+],
+[
+"sandwich",
+1,
+[
+"sandwich (Belgian bun)"
+]
+],
+[
+"Ölbrot",
+1,
+[]
+],
+[
+"cuchaule",
+1,
+[]
+],
+[
+"gáhkku",
+1,
+[]
+],
+[
+"ciriola",
+1,
+[
+"ciriola romana"
+]
+],
+[
+"Pane casareccio di Genzano PGI",
+1,
+[]
+],
+[
+"Altbrot",
+1,
+[]
+],
+[
+"Pane di Montecalvo PAT",
+1,
+[
+"Montecalvo bread",
+"Montecalvo Irpino bread"
+]
+],
+[
+"Filone",
+1,
+[]
+],
+[
+"Ochío",
+1,
+[
+"Ochio"
+]
+],
+[
+"Spaccata",
+1,
+[]
+],
+[
+"bolivian bread",
+1,
+[]
+],
+[
+"Tarvo",
+1,
+[]
+],
+[
+"tapan",
+1,
+[]
+],
+[
+"Pan de Cruz",
+1,
+[]
+],
+[
+"Vantage loaf",
+1,
+[
+"vantage of bread"
+]
+],
+[
+"Micca",
+1,
+[]
+],
+[
+"Patîle",
+1,
+[
+"pîza"
+]
+],
+[
+"Palabirabrot",
+1,
+[]
+],
+[
+"roscón",
+1,
+[
+"Roscon"
+]
+],
+[
+"soldiers",
+1,
+[]
+],
+[
+"Bazo bread",
+1,
+[]
+],
+[
+"Byśki",
+1,
+[]
+],
+[
+"straw bread",
+1,
+[]
+],
+[
+"poppy seed bun",
+0,
+[]
+],
+[
+"Purple Bread",
+0,
+[
+"Ube Pandesal"
+]
+],
+[
+"zeytinli açma",
+0,
+[]
+],
+[
+"Pão da Lagoinha",
+0,
+[
+"Lagoinha bread"
+]
+],
+[
+"white bread crust",
+0,
+[]
+],
+[
+"Baga tami",
+0,
+[]
+],
+[
+"South Asian bread",
+0,
+[]
+],
+[
+"biscoito",
+0,
+[]
+],
+[
+"Loaf of Bread",
+0,
+[]
+],
+[
+"Bread",
+0,
+[]
+],
+[
+"Conical loaf of bread",
+0,
+[]
+],
+[
+"Circular loaf of bread",
+0,
+[]
+],
+[
+"Triangular loaf of bread",
+0,
+[]
+],
+[
+"ritual bread baking on St. George’s day in the village of Krynychne",
+0,
+[]
+],
+[
+"Danish varme hveder",
+0,
+[
+"hot wheats"
+]
+],
+[
+"Pain aux noix",
+0,
+[
+"French Walnut Bread"
+]
+],
+[
+"Pani Popo",
+0,
+[]
+],
+[
+"Ampas Tarigu",
+0,
+[]
+],
+[
+"Ecto Bread",
+0,
+[]
+],
+[
+"Siddu",
+0,
+[
+"Siddu bread"
+]
+],
+[
+"Godiya spacial Bread",
+0,
+[
+"Godiya bread"
+]
+],
+[
+"musafan",
+0,
+[
+"musaffan"
+]
+],
+[
+"leavened bread",
+0,
+[]
+],
+[
+"A1 Bread",
+0,
+[
+"A1 Bakeries"
+]
+],
+[
+"Gluten-free bread",
+0,
+[]
+],
+[
+"Pre-baked bread",
+0,
+[]
+],
+[
+"kolmbeng",
+0,
+[]
 ]
 ]

@@ -1,534 +1,1133 @@
 [
 [
 "fortune cookie",
-39
+39,
+[]
 ],
 [
 "cracker",
-31
+31,
+[]
 ],
 [
 "chocolate chip cookie",
-27
+27,
+[]
 ],
 [
 "qurabiya",
-27
+27,
+[
+"kurabiye"
+]
 ],
 [
 "hamantash",
-26
+26,
+[
+"hamantashen",
+"hamentasch",
+"hamentaschen",
+"hamentash",
+"hamentashen",
+"homentash",
+"oznei Haman"
+]
 ],
 [
 "pryanik",
-23
+23,
+[
+"pernik",
+"perník",
+"piernik",
+"prianyk"
+]
 ],
 [
 "lebkuchen",
-22
+22,
+[
+"honigkuchen",
+"pfefferkuchen"
+]
 ],
 [
 "sandwich cookie",
-21
+21,
+[
+"cookie sandwich",
+"mouse-poultry",
+"round sandwich biscuit",
+"sandwich biscuit"
+]
 ],
 [
 "Makroudh",
-21
+21,
+[]
 ],
 [
 "wafer cookie",
-19
+19,
+[
+"galletas suizas",
+"oblaten",
+"oblatne",
+"oblea"
+]
 ],
 [
 "Anzac biscuit",
-19
+19,
+[]
 ],
 [
 "Achappam",
-19
+19,
+[
+"honeycomb cookie",
+"rose cookie"
+]
 ],
 [
 "butter cookie",
-17
+17,
+[
+"danish butter cookie",
+"danish cookie"
+]
 ],
 [
 "chinsuko",
-17
+17,
+[]
 ],
 [
 "rosette",
-17
+17,
+[]
 ],
 [
 "flapjack",
-16
+16,
+[
+"cereal bar",
+"granola bar",
+"muesli bar"
+]
 ],
 [
 "kourabiedes",
-16
+16,
+[
+"kourabiethes",
+"qurabiya"
+]
 ],
 [
 "Sablé",
-16
+16,
+[
+"Sable"
+]
 ],
 [
 "whoopie pie",
-15
+15,
+[]
 ],
 [
 "nankhatai",
-15
+15,
+[
+"naan khatai",
+"nan khatai",
+"nuncatie"
+]
 ],
 [
 "Couque de Dinant",
-15
+15,
+[]
 ],
 [
 "sandesh",
-15
+15,
+[
+"Bengali cookies",
+"Bengali Sandesh"
+]
 ],
 [
 "faworki",
-14
+14,
+[]
 ],
 [
 "cat tongues",
-13
+13,
+[]
 ],
 [
 "Springerle",
-12
+12,
+[]
 ],
 [
 "pfeffernusse",
-12
+12,
+[]
 ],
 [
 "rainbow cookie",
-12
+12,
+[]
 ],
 [
 "Hertzoggie",
-12
+12,
+[
+"Hertzog Cookie",
+"Hertzogkoekie"
+]
 ],
 [
 "kūčiukai",
-12
+12,
+[
+"slizhyki"
+]
 ],
 [
 "Getuk",
-12
+12,
+[
+"gêthuk",
+"ꦒꦼꦛꦸꦏ"
+]
 ],
 [
 "Chinese almond biscuit",
-12
+12,
+[
+"Chinese almond cake",
+"Chinese almond cookie"
+]
 ],
 [
 "Zalabiyeh",
-12
+12,
+[]
 ],
 [
 "Hallongrotta",
-11
+11,
+[
+"Raspberry thumbprint cookies",
+"Thumbprint cookies"
+]
 ],
 [
 "koloocheh",
-11
+11,
+[]
 ],
 [
 "sale pisang",
-10
+10,
+[]
 ],
 [
 "Jodenkoek",
-10
+10,
+[
+"Dutch cookie",
+"Jew cookie"
+]
 ],
 [
 "peanut butter cookie",
-10
+10,
+[]
 ],
 [
 "snickerdoodle",
-10
+10,
+[
+"Snickerdoodle"
+]
 ],
 [
 "Khapse",
-9
+9,
+[
+"Khapsey"
+]
 ],
 [
 "Kaasstengels",
-8
+8,
+[]
 ],
 [
 "Feqqas",
-8
+8,
+[]
 ],
 [
 "Chips Ahoy!",
-8
+8,
+[
+"Chips More!",
+"Choco Chips"
+]
 ],
 [
 "hodu-gwaja",
-8
+8,
+[
+"hodo-gwaja",
+"walnut cake",
+"walnut cookie",
+"walnut pastry"
+]
 ],
 [
 "Barazek",
-7
+7,
+[
+"barazeq",
+"برازق"
+]
 ],
 [
 "oatmeal cookie",
-7
+7,
+[
+"Lace Cookies"
+]
 ],
 [
 "Antwerps Handje",
-7
+7,
+[
+"Antwerpse Handjes"
+]
 ],
 [
 "sugar cookie",
-7
+7,
+[]
 ],
 [
 "Gogoşi",
-7
+7,
+[]
 ],
 [
 "Polvorosa",
-6
+6,
+[
+"Panderito",
+"Pandero",
+"Polvorosas"
+]
 ],
 [
 "Filipinos",
-6
+6,
+[]
 ],
 [
 "Tiel carnival cake",
-6
+6,
+[]
 ],
 [
 "Bath Oliver",
-6
+6,
+[]
 ],
 [
 "gevulde koek",
-6
+6,
+[
+"gevulde koeken"
+]
 ],
 [
 "Girl Scout Cookies",
-6
+6,
+[]
 ],
 [
 "Drabbelkoek",
-6
+6,
+[]
 ],
 [
 "Chremslach",
-6
+6,
+[
+"Chremsel, chremzel, chremsl, chremzl"
+]
 ],
 [
 "corn cookie",
-6
+6,
+[]
 ],
 [
 "Frankfurter Brenten",
-5
+5,
+[]
 ],
 [
 "Meuseukat",
-5
+5,
+[]
 ],
 [
 "Braune Kuchen",
-5
+5,
+[]
 ],
 [
 "ijzerkoekje",
-5
+5,
+[
+"iron cookie",
+"Vlaardings ijzerkoekje"
+]
 ],
 [
 "canistrelli",
-5
+5,
+[]
 ],
 [
 "Lille filled waffle",
-5
+5,
+[
+"gaufre fourrée"
+]
 ],
 [
 "Stuffed cookie",
-5
+5,
+[]
 ],
 [
 "Nutter Butter",
-5
+5,
+[
+"Bis",
+"Nabisco"
+]
 ],
 [
 "Zhavoronki",
-4
+4,
+[
+"buski",
+"galushki",
+"saroki",
+"zhawruki"
+]
 ],
 [
 "Charcoal biscuit",
-4
+4,
+[]
 ],
 [
 "Sabre St. Simon",
-4
+4,
+[]
 ],
 [
 "Kleeb lamduan",
-4
+4,
+[]
 ],
 [
 "salty biscuit",
-4
+4,
+[
+"kiâm-piánn",
+"Penghu salty biscuit"
+]
 ],
 [
 "Nilla Wafers",
-4
+4,
+[]
 ],
 [
 "Linzer Augen",
-4
+4,
+[
+"Linzer Auge",
+"Linzeraugen",
+"Linzer cookie"
+]
 ],
 [
 "kletskop",
-4
+4,
+[
+"kletskoppen"
+]
 ],
 [
 "taai-taai",
-4
+4,
+[
+"taai taai",
+"taaitaai"
+]
 ],
 [
 "Eierkoek",
-4
+4,
+[]
 ],
 [
 "Bokkenpootje",
-4
+4,
+[]
 ],
 [
 "Nocciolini di Canzo",
-4
+4,
+[]
 ],
 [
 "Baklawa El Bey",
-4
+4,
+[]
 ],
 [
 "Mee Siput",
-4
+4,
+[]
 ],
 [
 "Beypazarı kurusu",
-4
+4,
+[]
 ],
 [
 "Caycay",
-4
+4,
+[]
 ],
 [
 "Kavala Almond Cookies",
-3
+3,
+[]
 ],
 [
 "Cuca",
-3
+3,
+[
+"Catalina",
+"Chula",
+"Galleta catalina",
+"Galleta chula",
+"Galleta cuca",
+"Galleta del país",
+"Galleta liberal",
+"Galleta negra",
+"Galleta paledonia",
+"Galleta pera",
+"Liberal",
+"Paledonia",
+"Pera"
+]
 ],
 [
 "Bingka Kentang",
-3
+3,
+[]
 ],
 [
 "lamaniets",
-3
+3,
+[
+"lamantsy"
+]
 ],
 [
 "chocolate crinkle",
-3
+3,
+[]
 ],
 [
 "Kharkivske biscuit",
-3
+3,
+[
+"Kharkiv biscuit",
+"Kharkivske pechyvo",
+"Soyuzne biscuit",
+"Soyuzne pechyvo",
+"Union biscuit"
+]
 ],
 [
 "Lorna Doone",
-3
+3,
+[]
 ],
 [
 "Milano",
-3
+3,
+[]
 ],
 [
 "Rosquillo",
-3
+3,
+[]
 ],
 [
 "Keukarah",
-3
+3,
+[]
 ],
 [
 "Janhagel",
-3
+3,
+[]
 ],
 [
 "Finskepinner",
-3
+3,
+[]
 ],
 [
 "Vaniljekranse",
-3
+3,
+[]
 ],
 [
 "Lacquemant waffles",
-3
+3,
+[]
 ],
 [
 "Moonlight",
-3
+3,
+[]
 ],
 [
 "Bolang-baling",
-3
+3,
+[]
 ],
 [
 "Fryske dúmkes",
-3
+3,
+[
+"Frisian thumbs"
+]
 ],
 [
 "bakpia pathok",
-3
+3,
+[]
 ],
 [
 "paste di meliga",
-3
+3,
+[]
 ],
 [
 "Tetyorki cookies",
-3
+3,
+[]
 ],
 [
 "kоłасzki",
-3
+3,
+[]
 ],
 [
 "serinakaker",
-3
+3,
+[]
 ],
 [
 "Masa podrida",
-3
+3,
+[]
 ],
 [
 "ube crinkles",
-3
+3,
+[
+"purple yam crinkles"
+]
 ],
 [
 "Duvshaniot",
-3
+3,
+[]
 ],
 [
 "Achira",
-3
+3,
+[]
 ],
 [
 "Bada reuteuk",
-2
+2,
+[]
 ],
 [
 "dream",
-2
+2,
+[]
 ],
 [
 "Bingka Barandam",
-2
+2,
+[]
 ],
 [
 "Biscottini di Novara",
-2
+2,
+[]
 ],
 [
 "Coconut cookies",
-2
+2,
+[]
 ],
 [
 "Mergpijpje",
-2
+2,
+[]
 ],
 [
 "bitterkoekje",
-2
+2,
+[
+"bitterkoekjes"
+]
 ],
 [
 "carrot cake cookie",
-2
+2,
+[]
 ],
 [
 "fudge cookie",
-2
+2,
+[]
 ],
 [
 "Arnhemse meisjes",
-2
+2,
+[]
 ],
 [
 "Weespermop",
-2
+2,
+[]
 ],
 [
 "Hernhutter",
-2
+2,
+[]
 ],
 [
 "Gangmaker",
-2
+2,
+[]
 ],
 [
 "Michel et Augustin",
-2
+2,
+[]
 ],
 [
 "Grisbì",
-2
+2,
+[]
 ],
 [
 "Berger Cookies",
-2
+2,
+[]
 ],
 [
 "Changzhou sesame candy",
-2
+2,
+[]
 ],
 [
 "Dokchok",
-2
+2,
+[
+"dok chok",
+"dok jok",
+"dokjok",
+"ขนมดอกจอก"
+]
 ],
 [
 "Willisauer Ringli",
-2
+2,
+[]
 ],
 [
 "puto seco",
-2
+2,
+[]
 ],
 [
 "Roskette",
-2
+2,
+[
+"rosketi"
+]
 ],
 [
 "Thin Mints",
-2
+2,
+[]
 ],
 [
 "Jødekager",
-2
+2,
+[
+"Jewish cookie"
+]
 ],
 [
 "Caramanduca",
-2
+2,
+[]
 ],
 [
 "Oblietjie",
-2
+2,
+[]
 ],
 [
 "avoador",
-2
+2,
+[]
+],
+[
+"Monteiro Lopes",
+1,
+[]
+],
+[
+"Xipa",
+1,
+[]
+],
+[
+"Oat pulp cookie",
+1,
+[]
+],
+[
+"Bolacha Piedade",
+1,
+[]
+],
+[
+"Fruta de horno",
+1,
+[]
+],
+[
+"Bungong Kayee",
+1,
+[]
+],
+[
+"COUNTRY MA'AM",
+1,
+[]
+],
+[
+"tannafakurū",
+1,
+[]
+],
+[
+"candy cane cookie",
+1,
+[]
+],
+[
+"makagigi",
+1,
+[
+"makagiga"
+]
+],
+[
+"Yellowhammer cookie",
+1,
+[]
+],
+[
+"Amaretti di Mombaruzzo",
+1,
+[]
+],
+[
+"\"Bull's eye\" cookie",
+1,
+[]
+],
+[
+"rondho royal",
+1,
+[]
+],
+[
+"cigarette russe",
+1,
+[
+"cigare",
+"cigares",
+"cigarette",
+"cigarettes russes",
+"Russian cigarettes"
+]
+],
+[
+"Pampavìa",
+1,
+[]
+],
+[
+"Iron Biscuits",
+1,
+[]
+],
+[
+"Biscotto della monaca",
+1,
+[
+"biscuit of the nun"
+]
+],
+[
+"mustazzola",
+1,
+[
+"mustazzola al mosto",
+"mustazzola al vino cotto",
+"mustazzola di Sicli",
+"mustazzoli"
+]
+],
+[
+"Pipareddi",
+1,
+[]
+],
+[
+"Potato biscuits",
+1,
+[]
+],
+[
+"Amsterdamse koggetjes",
+1,
+[]
+],
+[
+"Café Noir",
+1,
+[]
+],
+[
+"apple cider cookie",
+1,
+[]
+],
+[
+"LiGA",
+1,
+[]
+],
+[
+"Groninger cake",
+1,
+[]
+],
+[
+"Garibaldi biscuit",
+1,
+[]
+],
+[
+"black-and-white cookies",
+1,
+[]
+],
+[
+"mandorlini del Ponte",
+1,
+[]
+],
+[
+"Bhoi",
+1,
+[]
+],
+[
+"canestrelli novesi",
+1,
+[
+"canestrello novese"
+]
+],
+[
+"Brussels cookies",
+1,
+[]
+],
+[
+"Smiley Cookies",
+1,
+[
+"Smiley Cookie"
+]
+],
+[
+"Guyuria",
+1,
+[
+"Chamorro jawbreaker cookies"
+]
+],
+[
+"Joe Frogger",
+1,
+[]
+],
+[
+"must cookie",
+1,
+[]
+],
+[
+"vaníliás karika",
+1,
+[]
+],
+[
+"Moravian spice cookies",
+1,
+[]
+],
+[
+"Ginger Snaps",
+1,
+[
+"Zu Zu Ginger Snaps"
+]
+],
+[
+"Biscochos",
+1,
+[]
+],
+[
+"Jewish almond cookie",
+1,
+[]
+],
+[
+"Pan di Stelle",
+1,
+[]
+],
+[
+"Fatit",
+1,
+[]
+],
+[
+"melting moment",
+0,
+[]
+],
+[
+"yoyo",
+0,
+[]
+],
+[
+"Kerupuk jengkol",
+0,
+[]
+],
+[
+"Refrigerator cookie",
+0,
+[
+"cebox cookie",
+"cebox cookies",
+"Refrigerator cookies"
+]
+],
+[
+"Biscoitos Duchen",
+0,
+[]
+],
+[
+"Biscoitos São Luiz",
+0,
+[]
+],
+[
+"Pillsbury holiday sugar cookies",
+0,
+[
+"Holiday Pillsbury cookies",
+"Pillsbury holiday shape cookies",
+"Pillsbury ready to bake",
+"Pillsbury Shape holiday cookies",
+"Pillsbury sugar cookie dough"
+]
+],
+[
+"zhawruki",
+0,
+[
+"buski",
+"galushki",
+"kuliki",
+"saroki"
+]
+],
+[
+"hash cookie",
+0,
+[]
+],
+[
+"Mariah's Cookies",
+0,
+[
+"Mariah Carey's Cookies"
+]
+],
+[
+"Sandnøtter",
+0,
+[]
 ]
 ]

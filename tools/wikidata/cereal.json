@@ -1,306 +1,462 @@
 [
 [
 "muesli",
-54
+54,
+[
+"musli"
+]
 ],
 [
 "corn flakes",
-47
+47,
+[
+"cornflakes"
+]
 ],
 [
 "granola",
-35
+35,
+[
+"crunchy muesli"
+]
 ],
 [
 "Froot Loops",
-16
+16,
+[
+"Fruit Loops"
+]
 ],
 [
 "Frosted Flakes",
-14
+14,
+[
+"Frosted Flakes of Corn",
+"Frosties",
+"Sugar Frosted Flakes"
+]
 ],
 [
 "Cheerios",
-13
+13,
+[]
 ],
 [
 "Weet-Bix",
-12
+12,
+[]
 ],
 [
 "Rice Krispies",
-9
+9,
+[
+"Rice Bubbles"
+]
 ],
 [
 "Chocapic",
-9
+9,
+[
+"Chocopic",
+"Koko Krunch"
+]
 ],
 [
 "Cocoa Krispies",
-7
+7,
+[
+"Coco Pops"
+]
 ],
 [
 "Cinnamon Toast Crunch",
-7
+7,
+[
+"Cini Minis",
+"Cinnamon Grahams",
+"Croque-Cannelle",
+"Curiously Cinnamon"
+]
 ],
 [
 "Special K",
-7
+7,
+[
+"Kellogg Special K"
+]
 ],
 [
 "Cap'n Crunch",
-7
+7,
+[
+"Captain Crunch"
+]
 ],
 [
 "Sugar Puffs",
-6
+6,
+[
+"Honey Monster Puffs"
+]
 ],
 [
 "Weetabix",
-6
+6,
+[]
 ],
 [
 "General Mills monster-themed breakfast cereals",
-6
+6,
+[
+"monster cereals"
+]
 ],
 [
 "Honey Smacks",
-6
+6,
+[]
 ],
 [
 "Lucky Charms",
-6
+6,
+[
+"Lucky Charms cereal"
+]
 ],
 [
 "Cerelac",
-6
+6,
+[]
 ],
 [
 "Chex",
-6
+6,
+[]
 ],
 [
 "Wheaties",
-5
+5,
+[]
 ],
 [
 "Golden Grahams",
-5
+5,
+[]
 ],
 [
 "raisin bran",
-5
+5,
+[
+"sultana bran"
+]
 ],
 [
 "Trix cereal",
-5
+5,
+[]
 ],
 [
 "Honey Nut Cheerios",
-4
+4,
+[]
 ],
 [
 "Kix",
-4
+4,
+[]
 ],
 [
 "Fitness cereal",
-4
+4,
+[
+"Fitnesse",
+"Nestlé Fitness"
+]
 ],
 [
 "Corn Pops",
-4
+4,
+[
+"Sugar Corn Pops",
+"Sugar Pops"
+]
 ],
 [
 "Cocoa Puffs",
-4
+4,
+[]
 ],
 [
 "Frosted Mini-Wheats",
-4
+4,
+[
+"Frosted Wheats",
+"Mini Max",
+"Mini-Wheats",
+"Toppas"
+]
 ],
 [
 "Honey Loops",
-4
+4,
+[
+"Honey Pops"
+]
 ],
 [
 "Life",
-4
+4,
+[
+"Life cereal"
+]
 ],
 [
 "Reese's Puffs",
-4
+4,
+[]
 ],
 [
 "puffed wheat",
-3
+3,
+[]
 ],
 [
 "Pebbles cereal",
-3
+3,
+[
+"Fruity Pebbles"
+]
 ],
 [
 "All-Bran",
-3
+3,
+[]
 ],
 [
 "Country Store",
-3
+3,
+[]
 ],
 [
 "Honeycomb cereal",
-3
+3,
+[]
 ],
 [
 "Nintendo Cereal System",
-3
+3,
+[]
 ],
 [
 "Shredded Wheat",
-3
+3,
+[]
 ],
 [
 "Total",
-3
+3,
+[]
 ],
 [
 "Havrefras",
-2
+2,
+[]
 ],
 [
 "Nesquik Cereal",
-2
+2,
+[
+"Nesquik cereals"
+]
 ],
 [
 "Honey Bunches of Oats",
-2
+2,
+[]
 ],
 [
 "Oh's",
-2
+2,
+[
+"Honey Oh's"
+]
 ],
 [
 "Ice Cream Cones",
-2
+2,
+[]
 ],
 [
 "Brinta",
-2
+2,
+[]
 ],
 [
 "Krave",
-2
+2,
+[
+"Kelloggs Krave"
+]
 ],
 [
 "Ready Brek",
-2
+2,
+[]
 ],
 [
 "Baron von Redberry",
-2
+2,
+[]
 ],
 [
 "Crunchy Nut",
-2
+2,
+[
+"Crunchy Nut Corn Flakes",
+"Honey & Nut Corn Flakes",
+"Nut & Honey Crunch"
+]
 ],
 [
 "Fruit 'n Fibre",
-2
+2,
+[
+"Fruit and fibre"
+]
 ],
 [
 "bran flakes",
-2
+2,
+[]
 ],
 [
 "Grape-Nuts",
-2
+2,
+[
+"Grape Nuts"
+]
 ],
 [
 "Halfsies",
-2
+2,
+[]
 ],
 [
 "Just Right",
-2
+2,
+[
+"Kellogg Just Right"
+]
 ],
 [
 "Maypo",
-2
+2,
+[]
 ],
 [
 "Quisp",
-2
+2,
+[]
 ],
 [
 "Raisin Wheats",
-2
+2,
+[]
 ],
 [
 "S'mores Grahams",
-2
+2,
+[]
 ],
 [
 "Triples",
-2
+2,
+[]
 ],
 [
 "Weetos",
-2
+2,
+[]
 ],
 [
 "Green Onion Chex",
-2
+2,
+[
+"Pa-mat Chex"
+]
 ],
 [
 "Lion Cereal",
-1
+1,
+[]
 ],
 [
 "Plus",
-1
+1,
+[
+"Flakes Plus"
+]
 ],
 [
 "Alpha-Bits",
-1
+1,
+[]
 ],
 [
 "Buc Wheats cereal",
-1
+1,
+[]
 ],
 [
 "C.W. Post",
-1
+1,
+[]
 ],
 [
 "CoCo Wheats",
-1
+1,
+[]
 ],
 [
 "Golden Crisp",
-1
+1,
+[
+"Happy Jax",
+"Sugar Crisp",
+"Super Golden Crisp",
+"Super Sugar Crisp"
+]
 ],
 [
 "Post Toasties",
-1
+1,
+[
+"Elijah's Manna"
+]
 ],
 [
 "Shake 'n Bake",
-1
+1,
+[]
 ],
 [
 "Waffle Crisp",
-1
+1,
+[]
 ],
 [
 "baby cereal",
-0
+0,
+[]
 ],
 [
 "Tropical Charms",
-0
+0,
+[]
 ],
 [
 "Teenage Mutant Ninja Turtles Cereal",
-0
+0,
+[]
 ]
 ]

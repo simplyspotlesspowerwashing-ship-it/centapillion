@@ -65,3 +65,8 @@ Spice Rack
 Knife Block
 Honing Steel
 Sharpening Stone
+Frying Pan=fry pan
+Skillet
+Sauté Pan=saute pan
+Griddle
+Grill Pan

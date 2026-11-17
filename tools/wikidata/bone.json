@@ -1,878 +1,2437 @@
 [
 [
 "rib",
-110
+110,
+[
+"ribs"
+]
 ],
 [
 "clavicle",
-85
+85,
+[]
 ],
 [
 "scapula",
-84
+84,
+[
+"shoulder blade",
+"shoulder bone",
+"wing bone"
+]
 ],
 [
 "vertebra",
-81
+81,
+[]
 ],
 [
 "mandible",
-80
+80,
+[
+"inferior maxillary bone",
+"jaw bone",
+"jawbone",
+"lower jaw",
+"lower maxilla"
+]
 ],
 [
 "femur",
-79
+79,
+[
+"femora",
+"femurs",
+"thigh bone"
+]
 ],
 [
 "sternum",
-77
+77,
+[
+"breastbone"
+]
 ],
 [
 "tibia",
-74
+74,
+[
+"shank",
+"shankbone",
+"shin",
+"shin bone",
+"shinbone"
+]
 ],
 [
 "sacrum",
-71
+71,
+[
+"sacral spine",
+"sakral vertebra huecos"
+]
 ],
 [
 "maxilla",
-68
+68,
+[
+"upper jaw",
+"upper jawbone"
+]
 ],
 [
 "humerus",
-67
+67,
+[
+"bone bone"
+]
 ],
 [
 "coccyx",
-64
+64,
+[
+"coxis",
+"tailbone"
+]
 ],
 [
 "zygomatic bone",
-62
+62,
+[
+"cheekbone",
+"malar bone",
+"zygoma"
+]
 ],
 [
 "patella",
-60
+60,
+[
+"knee cap",
+"kneecap",
+"Knee-cap",
+"kneepan"
+]
 ],
 [
 "nasal bone",
-60
+60,
+[]
 ],
 [
 "radius",
-59
+59,
+[
+"radial bone",
+"radius bone"
+]
 ],
 [
 "frontal bone",
-58
+58,
+[
+"os frontis"
+]
 ],
 [
 "hyoid bone",
-58
+58,
+[]
 ],
 [
 "fibula",
-58
+58,
+[
+"calf bone"
+]
 ],
 [
 "parietal bone",
-56
+56,
+[
+"os parietale"
+]
 ],
 [
 "temporal bone",
-56
+56,
+[
+"os temporale"
+]
 ],
 [
 "occipital bone",
-56
+56,
+[
+"ossification of occipital bone"
+]
 ],
 [
 "sphenoid bone",
-55
+55,
+[]
 ],
 [
 "ulna",
-55
+55,
+[
+"elbow bone",
+"ulna bone"
+]
 ],
 [
 "malleus",
-53
+53,
+[
+"hammer"
+]
 ],
 [
 "phalanx",
-52
+52,
+[
+"عظمة السلامية"
+]
 ],
 [
 "vomer",
-52
+52,
+[
+"vomeral bone",
+"vomer bone"
+]
 ],
 [
 "ethmoid bone",
-51
+51,
+[]
 ],
 [
 "dentin",
-51
+51,
+[]
 ],
 [
 "lacrimal bone",
-51
+51,
+[]
 ],
 [
 "palatine bone",
-51
+51,
+[
+"Palate"
+]
 ],
 [
 "carpal bone",
-50
+50,
+[
+"bone of carpus"
+]
 ],
 [
 "tarsal bones",
-49
+49,
+[
+"ankle bone",
+"bone of ankle",
+"bone of tarsal",
+"tarsal bone",
+"Tarsals"
+]
 ],
 [
 "incus",
-49
+49,
+[
+"anvil",
+"incus bone"
+]
 ],
 [
 "talus",
-48
+48,
+[
+"ankle bone",
+"anklebone",
+"astragalus",
+"talus bone"
+]
 ],
 [
 "metatarsal bones",
-48
+48,
+[
+"metatarsal",
+"metatarsal bone"
+]
 ],
 [
 "hip bone",
-48
+48,
+[
+"bony pelvis",
+"coxal bone",
+"innominate bone",
+"pelvic bone",
+"pelvic bones",
+"pelvic skeleton",
+"skeletal system of pelvis"
+]
 ],
 [
 "atlas",
-48
+48,
+[
+"C1",
+"C1 vertebra",
+"cervical atlas",
+"cervical vertebra 1",
+"first cervical vertebra"
+]
 ],
 [
 "metacarpal bones",
-47
+47,
+[
+"metacarpal",
+"metacarpal bone"
+]
 ],
 [
 "stapes",
-47
+47,
+[
+"stapes bone"
+]
 ],
 [
 "pubic bone",
-46
+46,
+[
+"pubis"
+]
 ],
 [
 "cervical vertebra",
-46
+46,
+[
+"cervical vertebrae"
+]
 ],
 [
 "calcaneus",
-45
+45,
+[
+"heel bone"
+]
 ],
 [
 "auditory ossicle",
-43
+43,
+[
+"auditory ossicle bone",
+"ear ossicle",
+"ossicle",
+"ossicular chain"
+]
 ],
 [
 "lunate bone",
-40
+40,
+[]
 ],
 [
 "scaphoid bone",
-40
+40,
+[
+"navicular"
+]
 ],
 [
 "inferior nasal concha",
-40
+40,
+[
+"inferior nasal concha bone",
+"inferior nasal turbinate",
+"inferior turbinated bone"
+]
 ],
 [
 "axis",
-39
+39,
+[
+"axis vertebra",
+"C2",
+"C2 vertebra",
+"cervical vertebra 2",
+"epistropheus",
+"second cervical vertebra"
+]
 ],
 [
 "baculum",
-39
+39,
+[
+"os penis",
+"penile bone",
+"penis bone"
+]
 ],
 [
 "hamate bone",
-38
+38,
+[]
 ],
 [
 "thoracic vertebra",
-38
+38,
+[
+"thoracic vertebrae"
+]
 ],
 [
 "pisiform bone",
-38
+38,
+[
+"pisiform"
+]
 ],
 [
 "facial skeleton",
-37
+37,
+[
+"cranium faciale",
+"facial bone",
+"facial bones",
+"skeleton faciale",
+"skeleton faciei"
+]
 ],
 [
 "lumbar vertebrae",
-37
+37,
+[
+"lumbar vertebra"
+]
 ],
 [
 "ilium",
-37
+37,
+[
+"iliac bone"
+]
 ],
 [
 "capitate bone",
-37
+37,
+[]
 ],
 [
 "trapezoid bone",
-36
+36,
+[
+"lesser multangular bone"
+]
 ],
 [
 "sesamoid bone",
-35
+35,
+[
+"sesamoid bones"
+]
 ],
 [
 "triquetral bone",
-35
+35,
+[
+"cornered bone",
+"cuneiform bone",
+"pyramidal bone",
+"triangular bone",
+"triquetrum"
+]
 ],
 [
 "ischium",
-35
+35,
+[
+"sitting bone"
+]
 ],
 [
 "navicular bone",
-34
+34,
+[]
 ],
 [
 "trapezium",
-33
+33,
+[
+"trapezium bone"
+]
 ],
 [
 "cuboid bone",
-32
+32,
+[]
 ],
 [
 "oracle bone",
-31
+31,
+[
+"oracle bones"
+]
 ],
 [
 "cuneiform bones",
-27
+27,
+[
+"cuneiform bone"
+]
 ],
 [
 "long bone",
-25
+25,
+[]
 ],
 [
 "premaxilla",
-23
+23,
+[
+"incisive bone"
+]
 ],
 [
 "malleolus",
-22
+22,
+[]
 ],
 [
 "Coracoid",
-20
+20,
+[]
 ],
 [
 "calvaria",
-20
+20,
+[
+"calvarium",
+"skull cap",
+"skullcap",
+"vault of skull"
+]
 ],
 [
 "keel",
-20
+20,
+[]
 ],
 [
 "pterygopalatine fossa",
-20
+20,
+[]
 ],
 [
 "Squamosal bone",
-19
+19,
+[]
 ],
 [
 "tarsometatarsus",
-19
+19,
+[]
 ],
 [
 "pygostyle",
-19
+19,
+[
+"turkey tail"
+]
 ],
 [
 "tibiotarsus",
-16
+16,
+[
+"tibiotarsi"
+]
 ],
 [
 "fabella",
-16
+16,
+[]
 ],
 [
 "fish bone",
-15
+15,
+[
+"fishbone"
+]
 ],
 [
 "bony plate",
-15
+15,
+[
+"armor",
+"armor plate",
+"armour"
+]
 ],
 [
 "chevron",
-14
+14,
+[]
 ],
 [
 "bone tool",
-14
+14,
+[
+"bone implement"
+]
 ],
 [
 "short bone",
-13
+13,
+[]
 ],
 [
 "wormian bone",
-13
+13,
+[
+"intrasutural bone",
+"sutural bone"
+]
 ],
 [
 "flat bone",
-13
+13,
+[]
 ],
 [
 "pterygoid bone",
-12
+12,
+[
+"pterygoid"
+]
 ],
 [
 "Tianyuan man",
-12
+12,
+[]
 ],
 [
 "lateral epicondyle of the humerus",
-12
+12,
+[
+"lateral epicondyle of humerus"
+]
 ],
 [
 "notarium",
-12
+12,
+[
+"os dorsale"
+]
 ],
 [
 "articular bone",
-12
+12,
+[]
 ],
 [
 "bone marrow as food",
-11
+11,
+[]
 ],
 [
 "middle phalanx",
-11
+11,
+[
+"intermediate phalanges",
+"intermediate phalanx",
+"middle phalangeal bone of hand",
+"middle phalanges",
+"middle phalanx of finger",
+"middle phalanx of hand",
+"phalange",
+"phalanx media"
+]
 ],
 [
 "irregular bone",
-11
+11,
+[]
 ],
 [
 "angular bone",
-11
+11,
+[]
 ],
 [
 "carpometacarpus",
-11
+11,
+[]
 ],
 [
 "sequestrum",
-10
+10,
+[]
 ],
 [
 "prefrontal bone",
-10
+10,
+[]
 ],
 [
 "distal phalanx",
-10
+10,
+[
+"distal phalange"
+]
 ],
 [
 "proximal phalanx",
-10
+10,
+[
+"metacarpal phalanx",
+"proximal phalangeal bone of hand",
+"proximal phalanges",
+"proximal phalanx of finger",
+"proximal phalanx of hand"
+]
 ],
 [
 "phalanx of finger",
-10
+10,
+[
+"finger phalanx",
+"hand phalanx",
+"manual phalanx",
+"phalanx of hand",
+"phalanx of the hand"
+]
 ],
 [
 "lateral cuneiform bone",
-10
+10,
+[
+"third cuneiform"
+]
 ],
 [
 "second metacarpal bone",
-10
+10,
+[
+"metacarpal bone of the index finger"
+]
 ],
 [
 "third metacarpal bone",
-10
+10,
+[
+"metacarpal bone of the middle finger"
+]
 ],
 [
 "interparietal bone",
-10
+10,
+[
+"inca bone",
+"os interparietale"
+]
 ],
 [
 "phalanx of foot",
-9
+9,
+[
+"foot phalanx",
+"pedal phalanx",
+"phalanges of the foot",
+"phalanx                                                                     of                                                                     pes",
+"phalanx of toe",
+"toe phalanx"
+]
 ],
 [
 "medial cuneiform bone",
-9
+9,
+[]
 ],
 [
 "fifth metacarpal bone",
-9
+9,
+[
+"metacarpal bone of the little finger"
+]
 ],
 [
 "fourth metacarpal bone",
-9
+9,
+[
+"metacarpal bone of the ring finger"
+]
 ],
 [
 "first metacarpal bone",
-9
+9,
+[
+"metacarpal bone of the thumb"
+]
 ],
 [
 "epipubic bone",
-8
+8,
+[]
 ],
 [
 "accessory navicular bone",
-8
+8,
+[
+"NAVICULAR BONE, ACCESSORY",
+"Os tibiale externum"
+]
 ],
 [
 "membranous bone",
-8
+8,
+[
+"dermal bone",
+"membrane bone"
+]
 ],
 [
 "intermediate cuneiform bone",
-8
+8,
+[]
 ],
 [
 "splenial bone",
-8
+8,
+[]
 ],
 [
 "parasphenoid",
-7
+7,
+[]
 ],
 [
 "interclavicle",
-7
+7,
+[
+"episternum"
+]
 ],
 [
 "columella",
-7
+7,
+[]
 ],
 [
 "human mandible",
-7
+7,
+[
+"jawbone",
+"lower jaw",
+"lower jaws",
+"mandibles"
+]
 ],
 [
 "first metatarsal bone",
-7
+7,
+[]
 ],
 [
 "human sternum",
-7
+7,
+[]
 ],
 [
 "Baubellum",
-6
+6,
+[
+"os clitoridis",
+"Os clitoridis"
+]
 ],
 [
 "fifth metatarsal bone",
-6
+6,
+[]
 ],
 [
 "lateral part of occipital bone",
-6
+6,
+[
+"exoccipitals",
+"lateral parts of occipital bone"
+]
 ],
 [
 "tuberosity of the tibia",
-6
+6,
+[
+"tibial tubercle",
+"tibial tuberosity",
+"Tuberositas tibiae"
+]
 ],
 [
 "coccygeal vertebra",
-5
+5,
+[
+"caudal vertebra"
+]
 ],
 [
 "false rib",
-5
+5,
+[]
 ],
 [
 "accessory bone",
-5
+5,
+[
+"supernumerary bone"
+]
 ],
 [
 "fourth metatarsal bone",
-5
+5,
+[]
 ],
 [
 "palpebral bone",
-5
+5,
+[
+"Palpebral"
+]
 ],
 [
 "second metatarsal bone",
-5
+5,
+[]
 ],
 [
 "third metatarsal bone",
-5
+5,
+[]
 ],
 [
 "Predentary",
-5
+5,
+[]
 ],
 [
 "intrajugular process",
-4
+4,
+[
+"intrajugular process of occipital bone"
+]
 ],
 [
 "os trigonum",
-4
+4,
+[
+"lateral tubercle of talus",
+"os trigonum of talus"
+]
 ],
 [
 "dentary bone",
-4
+4,
+[
+"dentary"
+]
 ],
 [
 "sacral promontory",
-4
+4,
+[]
 ],
 [
 "Epipterygoid",
-3
+3,
+[]
 ],
 [
 "pork bones",
-3
+3,
+[
+"pig bones"
+]
 ],
 [
 "Postfrontal bone",
-3
+3,
+[]
 ],
 [
 "bone as food",
-3
+3,
+[]
 ],
 [
 "os talonaviculare dorsale",
-3
+3,
+[
+"supernumerary bone"
+]
 ],
 [
 "whalebone",
-3
+3,
+[
+"whale bone",
+"whale-bone ivory"
+]
 ],
 [
 "C7 vertebra",
-3
+3,
+[
+"C7",
+"cervical vertebra 7",
+"prominent vertebra",
+"seventh cervical vertebra",
+"vertebra prominens"
+]
 ],
 [
 "Coffin bone",
-3
+3,
+[]
 ],
 [
 "true rib",
-3
+3,
+[]
 ],
 [
 "beef bones",
-2
+2,
+[]
 ],
 [
 "pneumatized bone",
-2
+2,
+[
+"pneumatic bone",
+"pneumatised bone"
+]
 ],
 [
 "middle phalanx of foot",
-2
+2,
+[
+"middle phalangeal bone of foot",
+"middle phalanx",
+"middle phalanx of toe"
+]
 ],
 [
 "Basisphenoid",
-2
+2,
+[]
 ],
 [
 "Ossa cordis",
-2
+2,
+[]
 ],
 [
 "C3 vertebra",
-2
+2,
+[
+"third cervical vertebra"
+]
 ],
 [
 "os centrale",
-2
+2,
+[]
 ],
 [
 "human occipital bone",
-2
+2,
+[]
 ],
 [
 "arm bone",
-2
+2,
+[
+"arm bones",
+"bone of arm"
+]
 ],
 [
 "distal phalanx of finger",
-2
+2,
+[
+"distal phalangeal bone of hand",
+"distal phalanx",
+"distal phalanx of hand"
+]
 ],
 [
 "cyamella",
-2
+2,
+[]
 ],
 [
 "eleventh rib",
-2
+2,
+[
+"11th rib",
+"rib 11"
+]
 ],
 [
 "ala of sacrum",
-2
+2,
+[]
 ],
 [
 "Scorpiones sterna",
-2
+2,
+[]
 ],
 [
 "basisphenoid",
-2
+2,
+[]
 ],
 [
 "Filtben",
-1
+1,
+[]
 ],
 [
 "Episternal ossicles",
-1
+1,
+[]
 ],
 [
 "metatarsal bone",
-1
+1,
+[]
 ],
 [
 "second rib",
-1
+1,
+[
+"2nd rib",
+"rib 2",
+"rib cage"
+]
 ],
 [
 "endochondral bone",
-1
+1,
+[
+"cartilaginous bone"
+]
 ],
 [
 "forearm bones",
-1
+1,
+[
+"bones of the forearm"
+]
 ],
 [
 "Oloch",
-1
+1,
+[]
 ],
 [
 "Ugan",
-1
+1,
+[]
 ],
 [
 "Os compedale",
-1
+1,
+[]
 ],
 [
 "Ossa metacarpalia",
-1
+1,
+[]
 ],
 [
 "bone of hand",
-1
+1,
+[
+"bones of hand",
+"hand bone",
+"manus bone",
+"skeleton of hand"
+]
 ],
 [
 "Caudal vertebra",
-1
+1,
+[]
 ],
 [
 "bare bones",
-1
+1,
+[
+"exoskeleton"
+]
 ],
 [
 "Os subcalcaneum",
-1
+1,
+[]
 ],
 [
 "human bone",
-1
+1,
+[]
 ],
 [
 "acoelous vertebrae",
-1
+1,
+[
+"platyan"
+]
 ],
 [
 "amphicoelous vertebrae",
-1
+1,
+[]
 ],
 [
 "proximal phalanx of foot",
-1
+1,
+[
+"metatarsal phalanx",
+"proximal phalangeal bone of foot",
+"proximal phalanx",
+"proximal phalanx of toe"
+]
 ],
 [
 "distal phalanx of foot",
-1
+1,
+[
+"distal phalangeal bone of foot",
+"distal phalanx",
+"distal phalanx of toe"
+]
 ],
 [
 "antler",
-1
+1,
+[
+"deer antler"
+]
 ],
 [
 "heterocoelous vertebrae",
-1
+1,
+[]
 ],
 [
 "opisthocoelous vertebrae",
-1
+1,
+[]
 ],
 [
 "unpaired bone",
-1
+1,
+[]
 ],
 [
 "paired bone",
-1
+1,
+[]
 ],
 [
 "procoelous vertebrae",
-1
+1,
+[]
 ],
 [
 "extra rib",
-1
+1,
+[
+"supernumerary rib"
+]
 ],
 [
 "T1 vertebra",
-1
+1,
+[
+"first thoracic vertebra",
+"T1",
+"thoracic vertebra 1"
+]
 ],
 [
 "T2 vertebra",
-1
+1,
+[
+"second thoracic vertebra",
+"T2",
+"thoracic vertebra 2"
+]
 ],
 [
 "T3 vertebra",
-1
+1,
+[
+"T3",
+"third thoracic vertebra",
+"thoracic vertebra 3"
+]
 ],
 [
 "T4 vertebra",
-1
+1,
+[
+"fourth thoracic vertebra",
+"T4",
+"thoracic vertebra 4"
+]
 ],
 [
 "T5 vertebra",
-1
+1,
+[
+"fifth thoracic vertebra",
+"T5",
+"thoracic vertebra 5"
+]
 ],
 [
 "T6 vertebra",
-1
+1,
+[
+"sixth thoracic vertebra",
+"T6",
+"thoracic vertebra 6"
+]
 ],
 [
 "T7 vertebra",
-1
+1,
+[
+"seventh thoracic vertebra",
+"T7",
+"thoracic vertebra 7"
+]
 ],
 [
 "T8 vertebra",
-1
+1,
+[
+"eighth thoracic vertebra",
+"T8",
+"thoracic vertebra 8"
+]
 ],
 [
 "T9 vertebra",
-1
+1,
+[
+"ninth thoracic vertebra",
+"T9",
+"thoracic vertebra 9"
+]
 ],
 [
 "T10 vertebra",
-1
+1,
+[
+"T10",
+"tenth thoracic vertebra",
+"thoracic vertebra 10"
+]
 ],
 [
 "T11 vertebra",
-1
+1,
+[
+"eleventh thoracic vertebra",
+"T11",
+"thoracic vertebra 11"
+]
 ],
 [
 "T12 vertebra",
-1
+1,
+[
+"lower thoracic vertebra",
+"T12",
+"thoracic vertebra 12",
+"twelfth thoracic vertebra"
+]
 ],
 [
 "L1 vertebra",
-1
+1,
+[
+"first lumbar vertebra",
+"L1",
+"lumbar vertebra 1"
+]
 ],
 [
 "L2 vertebra",
-1
+1,
+[
+"L2",
+"lumbar vertebra 2",
+"second lumbar vertebra"
+]
 ],
 [
 "L3 vertebra",
-1
+1,
+[
+"L3",
+"lumbar vertebra 3",
+"third lumbar vertebra"
+]
 ],
 [
 "L4 vertebra",
-1
+1,
+[
+"fouth lumbar vertebra",
+"L4",
+"lumbar vertebra 4"
+]
 ],
 [
 "L5 vertebra",
-1
+1,
+[
+"fifth lumbar vertebra",
+"L5",
+"lumbar vertebra 5"
+]
 ],
 [
 "sacral vertebra",
-1
+1,
+[]
 ],
 [
 "C4 vertebra",
-1
+1,
+[
+"C4",
+"cervical vertebra 4",
+"fourth cervical vertebra"
+]
 ],
 [
 "C5 vertebra",
-1
+1,
+[
+"C5",
+"cervical vertebra 5",
+"fifth cervical vertebra"
+]
 ],
 [
 "C6 vertebra",
-1
+1,
+[
+"C6",
+"cervical vertebra 6",
+"sixth cervical vertebra"
+]
 ],
 [
 "third rib",
-1
+1,
+[
+"3rd rib",
+"rib 3"
+]
 ],
 [
 "fourth rib",
-1
+1,
+[
+"4th rib",
+"rib 4"
+]
 ],
 [
 "fifth rib",
-1
+1,
+[
+"5th rib",
+"rib 5"
+]
 ],
 [
 "sixth rib",
-1
+1,
+[
+"6th rib",
+"rib 6"
+]
 ],
 [
 "seventh rib",
-1
+1,
+[
+"7th rib",
+"rib 7"
+]
 ],
 [
 "eighth rib",
-1
+1,
+[
+"8th rib",
+"rib 8"
+]
 ],
 [
 "ninth rib",
-1
+1,
+[
+"9th rib",
+"rib 9"
+]
 ],
 [
 "first rib",
-1
+1,
+[
+"1st rib",
+"rib 1"
+]
 ],
 [
 "sesamoid bone of hand",
-1
+1,
+[]
 ],
 [
 "periotic bone",
-1
+1,
+[
+"Petrosal bone"
+]
 ],
 [
 "Stratton Parker syndrome",
-1
+1,
+[
+"Growth Hormone Deficiency With Wormian Bones, Cardiac Anomaly, and Brachycamptodactyly",
+"short stature-wormian bones-dextrocardia syndrome",
+"Stratton-Parker syndrome"
+]
 ],
 [
 "tenth rib",
-1
+1,
+[
+"10th rib",
+"rib 10"
+]
 ],
 [
 "twelfth rib",
-1
+1,
+[
+"12th rib",
+"rib 12",
+"twelveth rib"
+]
+],
+[
+"tooth",
+0,
+[
+"teeth"
+]
+],
+[
+"intermuscular bones",
+0,
+[
+"IBs"
+]
+],
+[
+"chickadee bone",
+0,
+[]
+],
+[
+"chicken bone",
+0,
+[]
+],
+[
+"lamb bone",
+0,
+[]
+],
+[
+"suckling pig bone",
+0,
+[]
+],
+[
+"meat bone",
+0,
+[]
+],
+[
+"veal bone",
+0,
+[]
+],
+[
+"hare bone",
+0,
+[]
+],
+[
+"crayfish bone",
+0,
+[]
+],
+[
+"partridge bone",
+0,
+[]
+],
+[
+"mutton bone",
+0,
+[]
+],
+[
+"capon bone",
+0,
+[]
+],
+[
+"accessory carpal bone",
+0,
+[]
+],
+[
+"metacarpal bone",
+0,
+[]
+],
+[
+"sesamoid bones of knee",
+0,
+[]
+],
+[
+"os japonicum",
+0,
+[]
+],
+[
+"accessory bones of cranium",
+0,
+[
+"accessory bones of skull"
+]
+],
+[
+"extracranial bones of head",
+0,
+[
+"other bones of head"
+]
+],
+[
+"bones of vertebral column",
+0,
+[]
+],
+[
+"human bony pelvis",
+0,
+[
+"human pelvic girdle"
+]
+],
+[
+"autopod bone",
+0,
+[]
+],
+[
+"mesopodium bone",
+0,
+[]
+],
+[
+"right parietal bone",
+0,
+[]
+],
+[
+"left parietal bone",
+0,
+[]
+],
+[
+"S1 vertebra",
+0,
+[
+"first sacral vertebra",
+"S1",
+"sacral vertebra 1"
+]
+],
+[
+"S2 vertebra",
+0,
+[
+"S2",
+"sacral vertebra 2",
+"second sacral vertebra"
+]
+],
+[
+"S3 vertebra",
+0,
+[
+"S3",
+"sacral vertebra 3",
+"third sacral vertebra"
+]
+],
+[
+"S4 vertebra",
+0,
+[
+"fourth sacral vertebra",
+"S4",
+"sacral vertebra 4"
+]
+],
+[
+"S5 vertebra",
+0,
+[
+"fifth sacral vertebra",
+"S5",
+"sacral vertebra 5"
+]
+],
+[
+"Co1 vertebra",
+0,
+[
+"Co1",
+"coccygeal vertebra 1",
+"first coccygeal vertebra"
+]
+],
+[
+"Co2 vertebra",
+0,
+[
+"Co2",
+"coccygeal vertebra 2",
+"second coccygeal vertebra"
+]
+],
+[
+"Co3 vertebra",
+0,
+[
+"Co3",
+"coccygeal vertebra 3",
+"third coccygeal vertebra"
+]
+],
+[
+"Co4 vertebra",
+0,
+[
+"Co4",
+"coccygeal vertebra 4",
+"fourth coccygeal vertebra"
+]
+],
+[
+"bones of the foot",
+0,
+[
+"bones of foot",
+"skeleton of foot"
+]
+],
+[
+"set phalanges of one foot",
+0,
+[
+"phalangeal bones of foot",
+"phalanges of foot"
+]
+],
+[
+"plantar surface of toe phalanges",
+0,
+[]
+],
+[
+"right clavicle",
+0,
+[]
+],
+[
+"left clavicle",
+0,
+[]
+],
+[
+"right scapula",
+0,
+[]
+],
+[
+"left scapula",
+0,
+[]
+],
+[
+"right hip bone",
+0,
+[]
+],
+[
+"left hip bone",
+0,
+[]
+],
+[
+"right ilium",
+0,
+[
+"right iliac bone"
+]
+],
+[
+"left ilium",
+0,
+[
+"left iliac bone"
+]
+],
+[
+"right ischium",
+0,
+[]
+],
+[
+"left ischium",
+0,
+[]
+],
+[
+"right pubis",
+0,
+[]
+],
+[
+"left pubis",
+0,
+[]
+],
+[
+"right humerus",
+0,
+[]
+],
+[
+"left humerus",
+0,
+[]
+],
+[
+"lateral epicondyle of right humerus",
+0,
+[]
+],
+[
+"lateral epicondyle of left humerus",
+0,
+[]
+],
+[
+"right radius",
+0,
+[]
+],
+[
+"left radius",
+0,
+[]
+],
+[
+"right ulna",
+0,
+[]
+],
+[
+"left ulna",
+0,
+[]
+],
+[
+"right trapezoid",
+0,
+[]
+],
+[
+"skull bone",
+0,
+[]
+],
+[
+"skeleton of right foot",
+0,
+[]
+],
+[
+"skeleton of left foot",
+0,
+[]
+],
+[
+"right scaphoid",
+0,
+[]
+],
+[
+"left scaphoid",
+0,
+[]
+],
+[
+"right lunate",
+0,
+[]
+],
+[
+"left lunate",
+0,
+[]
+],
+[
+"right triquetral",
+0,
+[]
+],
+[
+"left triquetral",
+0,
+[]
+],
+[
+"right pisiform",
+0,
+[]
+],
+[
+"left pisiform",
+0,
+[]
+],
+[
+"right trapezium",
+0,
+[]
+],
+[
+"left trapezium",
+0,
+[]
+],
+[
+"left trapezoid",
+0,
+[]
+],
+[
+"right capitate",
+0,
+[]
+],
+[
+"left capitate",
+0,
+[]
+],
+[
+"right hamate",
+0,
+[]
+],
+[
+"left hamate",
+0,
+[]
+],
+[
+"right second metacarpal bone",
+0,
+[]
+],
+[
+"left second metacarpal bone",
+0,
+[]
+],
+[
+"right third metacarpal bone",
+0,
+[]
+],
+[
+"left third metacarpal bone",
+0,
+[]
+],
+[
+"right fourth metacarpal bone",
+0,
+[]
+],
+[
+"left fourth metacarpal bone",
+0,
+[]
+],
+[
+"right femur",
+0,
+[]
+],
+[
+"left femur",
+0,
+[]
+],
+[
+"right tibia",
+0,
+[]
+],
+[
+"left tibia",
+0,
+[]
+],
+[
+"right fibula",
+0,
+[]
+],
+[
+"left fibula",
+0,
+[]
+],
+[
+"right talus",
+0,
+[]
+],
+[
+"left talus",
+0,
+[]
+],
+[
+"right patella",
+0,
+[]
+],
+[
+"left patella",
+0,
+[]
+],
+[
+"right calcaneus",
+0,
+[]
+],
+[
+"left calcaneus",
+0,
+[]
+],
+[
+"navicular bone of right foot",
+0,
+[]
+],
+[
+"navicular bone of left foot",
+0,
+[]
+],
+[
+"right second metatarsal bone",
+0,
+[]
+],
+[
+"left second metatarsal bone",
+0,
+[]
+],
+[
+"right third metatarsal bone",
+0,
+[]
+],
+[
+"left third metatarsal bone",
+0,
+[]
+],
+[
+"right fourth metatarsal bone",
+0,
+[]
+],
+[
+"left fourth metatarsal bone",
+0,
+[]
+],
+[
+"right fifth metatarsal bone",
+0,
+[]
+],
+[
+"left fifth metatarsal bone",
+0,
+[]
+],
+[
+"right medial cuneiform bone",
+0,
+[]
+],
+[
+"left medial cuneiform bone",
+0,
+[]
+],
+[
+"right intermediate cuneiform bone",
+0,
+[]
+],
+[
+"left intermediate cuneiform bone",
+0,
+[]
+],
+[
+"right lateral cuneiform bone",
+0,
+[]
+],
+[
+"left lateral cuneiform bone",
+0,
+[]
+],
+[
+"right cuboid bone",
+0,
+[]
+],
+[
+"left cuboid bone",
+0,
+[]
+],
+[
+"right ala of sacrum",
+0,
+[]
+],
+[
+"left ala of sacrum",
+0,
+[]
+],
+[
+"phalanx of big toe",
+0,
+[]
+],
+[
+"phalanx of second toe",
+0,
+[]
+],
+[
+"phalanx of third toe",
+0,
+[]
+],
+[
+"phalanx of fourth toe",
+0,
+[]
+],
+[
+"phalanx of little toe",
+0,
+[]
+],
+[
+"proximal carpal bone",
+0,
+[]
+],
+[
+"distal carpal bone",
+0,
+[]
+],
+[
+"surface of calcaneus",
+0,
+[]
+],
+[
+"right tibial tuberosity",
+0,
+[]
+],
+[
+"left tibial tuberosity",
+0,
+[]
+],
+[
+"phalanx of thumb",
+0,
+[]
+],
+[
+"phalanx of index finger",
+0,
+[]
+],
+[
+"phalanx of middle finger",
+0,
+[]
+],
+[
+"phalanx of ring finger",
+0,
+[]
+],
+[
+"phalanx of little finger",
+0,
+[]
+],
+[
+"sesamoid bone of foot",
+0,
+[]
+],
+[
+"right temporal bone",
+0,
+[]
+],
+[
+"left temporal bone",
+0,
+[]
+],
+[
+"right lateral part of occipital bone",
+0,
+[]
+],
+[
+"left lateral part of occipital bone",
+0,
+[]
+],
+[
+"right zygomatic bone",
+0,
+[
+"right cheekbone"
+]
+],
+[
+"left zygomatic bone",
+0,
+[
+"left cheekbone"
+]
+],
+[
+"right lacrimal bone",
+0,
+[]
+],
+[
+"left lacrimal bone",
+0,
+[]
+],
+[
+"right nasal bone",
+0,
+[]
+],
+[
+"left nasal bone",
+0,
+[]
+],
+[
+"right maxilla",
+0,
+[]
+],
+[
+"left maxilla",
+0,
+[]
+],
+[
+"right palatine bone",
+0,
+[]
+],
+[
+"left palatine bone",
+0,
+[]
+],
+[
+"right inferior nasal concha",
+0,
+[]
+],
+[
+"left inferior nasal concha",
+0,
+[]
+],
+[
+"suprasternal bones",
+0,
+[
+"set of suprasternal bones"
+]
+],
+[
+"right stapes",
+0,
+[]
+],
+[
+"left stapes",
+0,
+[]
+],
+[
+"right malleus",
+0,
+[]
+],
+[
+"left malleus",
+0,
+[]
+],
+[
+"set of right tarsal bones",
+0,
+[]
+],
+[
+"set of left tarsal bones",
+0,
+[]
+],
+[
+"Male bony pelvis",
+0,
+[]
+],
+[
+"Female bony pelvis",
+0,
+[]
+],
+[
+"Preinterparietal bone",
+0,
+[]
+],
+[
+"Epipteric bone",
+0,
+[]
+],
+[
+"rib bone",
+0,
+[]
+],
+[
+"ham bone",
+0,
+[]
+],
+[
+"bones of lower extremity",
+0,
+[
+"Bones of Lower Extremity",
+"lower extremity bone",
+"lower extremity bones"
+]
+],
+[
+"upper extremity bones",
+0,
+[
+"Bones of Upper Extremity",
+"upper extremity bone"
+]
+],
+[
+"carved bone",
+0,
+[]
+],
+[
+"bone fragment",
+0,
+[]
 ]
 ]

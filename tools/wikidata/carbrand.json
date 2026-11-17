@@ -1,1194 +1,15193 @@
 [
 [
 "Toyota",
-149
+149,
+[
+"TOYOTA JIDOSHA KABUSHIKI KAISHA",
+"TOYOTA JIDOSHA KABUSHIKI KAISHA (Toyota)"
+]
 ],
 [
 "Volkswagen",
-124
+124,
+[]
 ],
 [
 "BMW",
-118
+118,
+[
+"Bavarian Motor Works",
+"Bayerische Motorenwerke",
+"Bayrische Motoren Werke",
+"B.M.W."
+]
 ],
 [
 "Ford Motor Company",
-116
+116,
+[
+"FoMoCo",
+"Ford Motor Corporation",
+"Ford Motors"
+]
 ],
 [
 "Audi AG",
-115
+115,
+[
+"Audi",
+"Audi AG (Ingolstadt)"
+]
 ],
 [
 "Renault",
-110
+110,
+[
+"Groupe Renault",
+"Renault S.A.",
+"Renault SA"
+]
 ],
 [
 "Honda",
-105
+105,
+[
+"Honda Giken Kōgyō",
+"Honda Giken Kogyo K.K.",
+"Honda Motor Co., Ltd.",
+"Honda Motor Co., Ltd. (Tokyo)",
+"Honda Motor Company, Ltd."
+]
 ],
 [
 "Donkervoort",
-103
+103,
+[
+"Donkervoort Automobielen"
+]
 ],
 [
 "Ferrari",
-98
+98,
+[]
 ],
 [
 "Porsche",
-91
+91,
+[
+"Dr. Ing. h.c. F. Porsche AG",
+"Porsche AG"
+]
 ],
 [
 "Nissan",
-90
+90,
+[
+"Nissan Jidōsha Kabushiki-gaisha",
+"Nissan Motor Co.",
+"Nissan Motor Co. Ltd.",
+"Nissan Motor Co., Ltd.",
+"Nissan Motor Company",
+"Nissan Motor Company Ltd",
+"Nissan Motors"
+]
 ],
 [
 "General Motors",
-90
+90,
+[
+"General Motors Corporation",
+"GM"
+]
 ],
 [
 "Fiat",
-88
+88,
+[
+"Fabbrica Italiana Automobili Torino"
+]
 ],
 [
 "Opel",
-88
+88,
+[
+"Opel Automobile GmbH"
+]
 ],
 [
 "Lamborghini",
-87
+87,
+[
+"Automobili Lamborghini S.p.A.",
+"Lamborghini S.p.A."
+]
 ],
 [
 "Chevrolet",
-86
+86,
+[]
 ],
 [
 "Suzuki Motor Corporation",
-83
+83,
+[]
 ],
 [
 "Mazda",
-82
+82,
+[
+"Matsuda Kabushiki-gaisha",
+"Mazda Motor",
+"Mazda Motor Corporation"
+]
 ],
 [
 "Škoda Auto",
-80
+80,
+[
+"Automobilový koncern ŠKODA a.s.",
+"Skoda",
+"SKODA",
+"Škoda",
+"Skoda Auto",
+"Škoda Auto a.s.",
+"ŠKODA AUTO a.s.",
+"ŠKODA, automobilová a.s."
+]
 ],
 [
 "Kia",
-80
+80,
+[
+"Kia Corp",
+"Kia Corporation",
+"Kia motors",
+"Kia Motors",
+"Kia Motors Corporation (Seoul)",
+"KN",
+"Kyungsung Precision Industry"
+]
 ],
 [
 "Alfa Romeo",
-77
+77,
+[
+"Alfa",
+"Anonima Lombarda Fabbrica Automobili"
+]
 ],
 [
 "Citroën",
-77
+77,
+[
+"Automobiles Citroën S.A."
+]
 ],
 [
 "Hyundai Motor Company",
-76
+76,
+[]
 ],
 [
 "Mercedes-Benz Group",
-73
+73,
+[
+"Daimler",
+"Daimler AG",
+"Daimler Benz",
+"Daimler-Benz",
+"Daimler Chrysler",
+"DaimlerChrysler",
+"MBG"
+]
 ],
 [
 "Togg",
-72
+72,
+[
+"TOGG",
+"Turkey's Automobile Joint Venture Group Inc."
+]
 ],
 [
 "Volkswagen Group",
-69
+69,
+[
+"Volkswagen",
+"VOLKSWAGEN AG",
+"Volkswagen Aktiengesellschaft",
+"VOLKSWAGEN AKTIENGESELLSCHAFT",
+"VW",
+"VW AG"
+]
 ],
 [
 "Jaguar Cars",
-69
+69,
+[
+"Jaguar"
+]
 ],
 [
 "Aston Martin Lagonda",
-68
+68,
+[
+"Aston Martin",
+"Aston Martin Holdings",
+"Aston Martin Lagonda Global Holdings",
+"Aston Martin Lagonda Holdings",
+"Aston Martin Lagonda Holdings plc",
+"Aston Martin Lagonda Limited"
+]
 ],
 [
 "Cadillac",
-68
+68,
+[
+"Cadillac Motor Car Division"
+]
 ],
 [
 "Jeep",
-67
+67,
+[]
 ],
 [
 "Land Rover",
-67
+67,
+[
+"Land Rover Ltd."
+]
 ],
 [
 "Stellantis North America",
-63
+63,
+[]
 ],
 [
 "Maserati",
-63
+63,
+[]
 ],
 [
 "Rolls-Royce Motor Cars",
-62
+62,
+[
+"Rolls-Royce",
+"Rolls-Royce Motor Cars Limited"
+]
 ],
 [
 "Bentley",
-61
+61,
+[
+"Bentley Motors"
+]
 ],
 [
 "Lancia",
-61
+61,
+[]
 ],
 [
 "Mitsubishi Motors",
-61
+61,
+[
+"Mitsubishi Jidosha",
+"Mitsubishi Jidōsha Kōgyō",
+"Mitsubishi Jidosha Kogyo KK",
+"Mitsubishi Motors Corporation"
+]
 ],
 [
 "Subaru",
-60
+60,
+[]
 ],
 [
 "Lexus",
-59
+59,
+[]
 ],
 [
 "SEAT",
-58
+58,
+[
+"SEAT SA",
+"SEAT, S.A.",
+"Sociedad Española de Automóviles de Turismo"
+]
 ],
 [
 "Volvo Cars",
-54
+54,
+[
+"Volvo",
+"Volvo Car AB"
+]
 ],
 [
 "Dodge",
-54
+54,
+[
+"Dodge Brothers"
+]
 ],
 [
 "Buick",
-53
+53,
+[]
 ],
 [
 "Dacia",
-53
+53,
+[
+"Automobile Dacia",
+"S.C. Automobile Dacia S.A."
+]
 ],
 [
 "Isuzu",
-53
+53,
+[
+"Isuzu Jidōsha Kabushiki-Kaisha",
+"Isuzu Motors"
+]
 ],
 [
 "Groupe PSA",
-52
+52,
+[
+"PSA",
+"PSA Peugeot Citroën",
+"PSA Peugeot Talbot Citroën"
+]
 ],
 [
 "GAZ",
-52
+52,
+[]
 ],
 [
 "smart",
-49
+49,
+[
+"Micro Compact Car",
+"Swatch Mercedes Art"
+]
 ],
 [
 "AvtoVAZ",
-49
+49,
+[
+"AutoVAZ",
+"AwtoWAS",
+"VAZ",
+"Volga Automobile Plant",
+"Volzhsky Avtomobilny Zavod"
+]
 ],
 [
 "Geely",
-49
+49,
+[
+"Geely Holding Group",
+"Zhejiang Geely Holding Group",
+"Zhejiang Geely Holding Group Co., Ltd."
+]
 ],
 [
 "Stellantis",
-49
+49,
+[]
 ],
 [
 "Lincoln Motor Company",
-47
+47,
+[
+"Lincoln Ford"
+]
 ],
 [
 "Daihatsu",
-47
+47,
+[]
 ],
 [
 "Koenigsegg",
-47
+47,
+[
+"Koenigsegg AB",
+"Koenigsegg Automotive",
+"Koenigsegg Automotive AB"
+]
 ],
 [
 "Holden",
-46
+46,
+[
+"General Motors-Holden's Ltd",
+"GM Holden Ltd (Holden)",
+"Holden Ltd"
+]
 ],
 [
 "Lotus Cars",
-46
+46,
+[
+"Lotus Cars Limited"
+]
 ],
 [
 "BYD Auto",
-45
+45,
+[
+"Build Your Dreams"
+]
 ],
 [
 "Vauxhall",
-45
+45,
+[
+"General Motors UK Limited",
+"GMUK",
+"Vauxhall Motors"
+]
 ],
 [
 "ELBO",
-44
+44,
+[
+"ELVO",
+"Hellenic Vehicle Industry"
+]
 ],
 [
 "Saab Automobile",
-44
+44,
+[
+"Project 92",
+"Saab",
+"Saab Automobile AB",
+"Svenska Aeroplan Aktiebolaget",
+"X9248"
+]
 ],
 [
 "Alpine",
-43
+43,
+[
+"Alpine-Renault",
+"Société des automobiles Alpine SAS"
+]
 ],
 [
 "DAF",
-43
+43,
+[
+"DAF Trucks",
+"DAF Trucks (Netherlands)"
+]
 ],
 [
 "ZiL",
-43
+43,
+[
+"AMO ZiL",
+"Zavod imeni Likhachova"
+]
 ],
 [
 "KG Mobility",
-42
+42,
+[]
 ],
 [
 "Pagani Automobili",
-41
+41,
+[
+"Pagani Automobili S.p.A.",
+"Pagani S.p.A."
+]
 ],
 [
 "Mahindra & Mahindra",
-41
+41,
+[
+"Mahindra",
+"Mahindra and Mahindra",
+"Mahindra & Mahindra Limited"
+]
 ],
 [
 "Fiat Chrysler Automobiles",
-40
+40,
+[
+"FCA"
+]
 ],
 [
 "Mercedes-AMG",
-40
+40,
+[
+"AMG",
+"Mercedes-AMG GmbH"
+]
 ],
 [
 "Messerschmitt",
-39
+39,
+[]
 ],
 [
 "NSU Motorenwerke",
-38
+38,
+[
+"NSU",
+"NSU Motorenwerke AG"
+]
 ],
 [
 "Dongfeng Motor Corporation",
-37
+37,
+[
+"DFC",
+"Dongfeng Motor"
+]
 ],
 [
 "McLaren Automotive",
-37
+37,
+[
+"McLaren",
+"McLaren Automotive Limited",
+"McLaren Cars",
+"McLaren Cars Limited",
+"TAG McLaren Research & Development Limited"
+]
 ],
 [
 "American Motors Corporation",
-37
+37,
+[
+"AMC",
+"American Motors"
+]
 ],
 [
 "Rolls-Royce Limited",
-37
+37,
+[
+"Rolls Royce Limited"
+]
 ],
 [
 "Simca",
-36
+36,
+[
+"Simca vehicles",
+"Societe Industrielle de Mecanique et de Carosserie Auto"
+]
 ],
 [
 "Oldsmobile",
-36
+36,
+[]
 ],
 [
 "Auto Union",
-36
+36,
+[
+"Auto Union AG"
+]
 ],
 [
 "Ikarus",
-36
+36,
+[]
 ],
 [
 "Hino Motors",
-36
+36,
+[]
 ],
 [
 "Studebaker",
-36
+36,
+[]
 ],
 [
 "Matra",
-35
+35,
+[
+"Capra",
+"Mécanique Aviation Traction"
+]
 ],
 [
 "Chery",
-35
+35,
+[
+"Chery Automobile",
+"Chery Automobile Co. Ltd",
+"Chirey",
+"Qirui"
+]
 ],
 [
 "UAZ",
-35
+35,
+[
+"Ulyanovsky Avtomobilny Zavod",
+"УАЗ"
+]
 ],
 [
 "Proton",
-35
+35,
+[
+"PHB",
+"PROTON Holdings",
+"Proton Holdings Berhad",
+"PROTON Holdings Berhad",
+"PROTON Holdings Bhd"
+]
 ],
 [
 "Maruti Suzuki",
-35
+35,
+[
+"Maruti Suzuki India Limited",
+"Maruti Udyog",
+"Maruti Udyog Limited"
+]
 ],
 [
 "Great Wall Motor",
-34
+34,
+[
+"Great Wall",
+"Great Wall Motor Company Limited",
+"Great Wall Motors",
+"GWM"
+]
 ],
 [
 "Hyundai Motor Group",
-34
+34,
+[
+"Hyundai Automotive Group",
+"'''Hyundai Motor Group"
+]
 ],
 [
 "DS Automobiles",
-33
+33,
+[
+"DS"
+]
 ],
 [
 "Renault Korea Motors",
-33
+33,
+[
+"Renault Korea",
+"Renault Samsung"
+]
 ],
 [
 "FAW Group",
-32
+32,
+[
+"China FAW Group Corporation Limited",
+"FAW Group Corporation",
+"First Automobile Works"
+]
 ],
 [
 "Cooper Car Company",
-32
+32,
+[
+"CCC F1 team",
+"CCC Formula One team",
+"Cooper F1 team",
+"Cooper Formula One team"
+]
 ],
 [
 "Abarth",
-32
+32,
+[]
 ],
 [
 "Changan Automobile",
-32
+32,
+[
+"Chanag'an"
+]
 ],
 [
 "Brabus",
-32
+32,
+[]
 ],
 [
 "XPeng",
-32
+32,
+[
+"Xiaopeng Motors",
+"XPeng Inc",
+"XPeng Motors"
+]
 ],
 [
 "DKW",
-32
+32,
+[
+"Des-Knaben-Wunsch",
+"Deutsche Kinder-Wagen"
+]
 ],
 [
 "De Tomaso",
-31
+31,
+[]
 ],
 [
 "BMW M",
-31
+31,
+[
+"BMW M GmbH",
+"BMW Motorsport"
+]
 ],
 [
 "Horch",
-31
+31,
+[
+"August Horch & Cie",
+"Horch AG"
+]
 ],
 [
 "Dallara",
-30
+30,
+[]
 ],
 [
 "Nio Inc.",
-30
+30,
+[]
 ],
 [
 "GM Korea",
-30
+30,
+[
+"General Motors Korea",
+"GM Daewoo",
+"한국GM"
+]
 ],
 [
 "Daimler-Benz AG",
-30
+30,
+[
+"Mercedes-Benz"
+]
 ],
 [
 "Wanderer",
-30
+30,
+[
+"Wanderer Werke",
+"Wanderer Werke A.G."
+]
 ],
 [
 "Subaru Corporation",
-29
+29,
+[
+"Fuji Heavy Industries",
+"Fuji Jūkōgyō Kabushiki-gaisha"
+]
 ],
 [
 "Spyker Cars",
-29
+29,
+[]
 ],
 [
 "DeLorean Motor Company",
-29
+29,
+[
+"DMC"
+]
 ],
 [
 "British Leyland",
-29
+29,
+[
+"BL"
+]
 ],
 [
 "Hanomag",
-29
+29,
+[]
 ],
 [
 "Ligier",
-29
+29,
+[]
 ],
 [
 "Packard",
-29
+29,
+[
+"Packard Motor Car Company"
+]
 ],
 [
 "Rimac Automobili",
-29
+29,
+[
+"Rimac Concept S"
+]
 ],
 [
 "Zeekr",
-28
+28,
+[
+"Zhejiang Zeekr Intelligent Technology Co., Ltd."
+]
 ],
 [
 "Iran Khodro",
-28
+28,
+[
+"IKCO",
+"Iran Khodro Company",
+"Iran National"
+]
 ],
 [
 "Perodua",
-28
+28,
+[]
 ],
 [
 "ARO",
-28
+28,
+[
+"Auto Romania"
+]
 ],
 [
 "British Motor Corporation",
-28
+28,
+[
+"BMC",
+"The British Motor Corporation Limited"
+]
 ],
 [
 "Polestar",
-28
+28,
+[
+"Polestar Performance AB",
+"Polestar Racing"
+]
 ],
 [
 "Saturn Corporation",
-28
+28,
+[]
 ],
 [
 "Riga Autobus Factory",
-28
+28,
+[
+"RAF",
+"Rīgas Autobusu Fabrika"
+]
 ],
 [
 "Fiat S.p.A.",
-28
+28,
+[
+"Fabbrica Italiana Automobili Torino",
+"Fiat"
+]
 ],
 [
 "Zastava Automobiles",
-27
+27,
+[]
 ],
 [
 "Ram Trucks",
-27
+27,
+[
+"Ram"
+]
 ],
 [
 "Polaris",
-27
+27,
+[
+"Polaris Inc.",
+"Polaris Industries Inc.",
+"Polaris (United States)"
+]
 ],
 [
 "Alpina",
-27
+27,
+[
+"Alpina Burkard Bovensiepen"
+]
 ],
 [
 "Morris Motors",
-27
+27,
+[]
 ],
 [
 "Caterham Cars",
-27
+27,
+[]
 ],
 [
 "Morgan Motor Company",
-26
+26,
+[
+"Morgan"
+]
 ],
 [
 "Hongqi",
-26
+26,
+[
+"Red Flag"
+]
 ],
 [
 "Audi Sport",
-26
+26,
+[
+"Audi Sport GmbH"
+]
 ],
 [
 "Autobianchi",
-26
+26,
+[]
 ],
 [
 "Bertone",
-26
+26,
+[]
 ],
 [
 "Daimler Company",
-26
+26,
+[]
 ],
 [
 "ZAZ",
-26
+26,
+[
+"Proizvodstvennoe Obiedinenie \"AvtoZAZ\"",
+"Zaporizhzhia Automobile building plant",
+"Zaporozhsky Avtomobilny Zavod \"Kommunar\""
+]
 ],
 [
 "Panhard",
-26
+26,
+[]
 ],
 [
 "Nash Motors",
-25
+25,
+[
+"Nash Motors Company"
+]
 ],
 [
 "Triumph",
-25
+25,
+[
+"Triumph Motor Company"
+]
 ],
 [
 "Van Hool",
-25
+25,
+[
+"Van Hool NV"
+]
 ],
 [
 "Pegaso",
-25
+25,
+[]
 ],
 [
 "March Engineering",
-25
+25,
+[
+"March 761",
+"March Champ",
+"March F1 team",
+"March Formula One team"
+]
 ],
 [
 "Genesis Motor",
-25
+25,
+[
+"Genesis",
+"Genesis Motors"
+]
 ],
 [
 "Italdesign Giugiaro",
-25
+25,
+[
+"italdesign"
+]
 ],
 [
 "Daimler Motors Corporation",
-25
+25,
+[
+"Daimler-Motoren-Gesellschaft",
+"DMG"
+]
 ],
 [
 "Rivian Automotive",
-25
+25,
+[
+"Avera Automotive",
+"Mainstream Motors"
+]
 ],
 [
 "Hudson Motor Car Company",
-24
+24,
+[]
 ],
 [
 "Hindustan Motors",
-24
+24,
+[]
 ],
 [
 "Automobiles Gonfaronnaises Sportives",
-24
+24,
+[
+"AGS F1",
+"Automobiles Gonfaronaises Sportives"
+]
 ],
 [
 "Gordini",
-24
+24,
+[]
 ],
 [
 "Bugatti",
-24
+24,
+[
+"Automobiles Ettore Bugatti"
+]
 ],
 [
 "Adler",
-24
+24,
+[
+"Adlerwerke vorm. H. Kleyer",
+"Adler Works formerly known as Heinrich Kleyer"
+]
 ],
 [
 "JAC Group",
-24
+24,
+[
+"Anhui Jianghuai Automobile Co., Ltd.",
+"JAC Motors"
+]
 ],
 [
 "Cupra",
-24
+24,
+[
+"Seat Cupra"
+]
 ],
 [
 "Brilliance Auto",
-24
+24,
+[
+"Brilliance",
+"Brilliance Auto Group",
+"Brilliance Automotive Group",
+"Huachen",
+"Huachen Automotive Group",
+"Huachen Automotive Group Holdings"
+]
 ],
 [
 "Leapmotor",
-24
+24,
+[
+"Zhejiang Leapmotor Technology Co., Ltd."
+]
 ],
 [
 "Tofaş",
-23
+23,
+[
+"Türk Otomobil Fabrikası Anonim Şirketi (Turkey)"
+]
 ],
 [
 "Mitsuoka Motor",
-23
+23,
+[
+"Mitsuoka",
+"Mitsuoka Motor Co., Ltd."
+]
 ],
 [
 "International Harvester",
-23
+23,
+[
+"IH",
+"IHC",
+"International Harvester Company",
+"International Trucks",
+"The International Harvester Company"
+]
 ],
 [
 "Bristol Cars",
-23
+23,
+[]
 ],
 [
 "Lucid Motors",
-23
+23,
+[
+"Atieva"
+]
 ],
 [
 "Autosan",
-23
+23,
+[
+"Autosan S.A."
+]
 ],
 [
 "Armstrong Whitworth",
-23
+23,
+[
+"Armstrong-Whitworth",
+"Armstrong, Whitworth & Co Ltd",
+"Sir W G Armstrong Whitworth & Co Ltd"
+]
 ],
 [
 "Karmann",
-23
+23,
+[]
 ],
 [
 "Foton Motor",
-23
+23,
+[
+"Beiqi Foton Motor Co., Ltd",
+"Foton"
+]
 ],
 [
 "SSC North America",
-22
+22,
+[
+"Shelby SuperCars"
+]
 ],
 [
 "Isotta Fraschini",
-22
+22,
+[
+"Società Milanese Automobili Isotta, Fraschini & C."
+]
 ],
 [
 "Osella",
-22
+22,
+[
+"Osella F1 team",
+"Osella Formula One team",
+"Osella Squadra Corse"
+]
 ],
 [
 "Automobili Turismo e Sport",
-22
+22,
+[
+"ATS F1 team",
+"ATS Formula One team"
+]
 ],
 [
 "Ariel Motor Company",
-22
+22,
+[
+"Ariel Motor Company Ltd"
+]
 ],
 [
 "Volvo Buses",
-22
-],
+22,
 [
-"AC Cars",
-22
+"Volvo Bussar"
+]
 ],
 [
 "Avia",
-22
+22,
+[]
+],
+[
+"AC Cars",
+22,
+[]
 ],
 [
 "Delage",
-22
+22,
+[]
 ],
 [
 "Duesenberg",
-22
+22,
+[]
 ],
 [
 "Industrieverband Fahrzeugbau",
-22
+22,
+[
+"IFA",
+"Industrial Association for Vehicle Construction"
+]
 ],
 [
 "Steyr-Daimler-Puch",
-22
+22,
+[
+"Steyr Bus GmbH"
+]
 ],
 [
 "Maḥmīyat Umm al-Rayḥān",
-22
+22,
+[]
 ],
 [
 "Cisitalia",
-21
+21,
+[]
 ],
 [
 "Renault–Nissan–Mitsubishi Alliance",
-21
+21,
+[
+"Renault-Nissan"
+]
 ],
 [
 "REO Motor Car Company",
-21
+21,
+[]
 ],
 [
 "English Racing Automobiles",
-21
+21,
+[
+"ERA",
+"ERA F1 team",
+"ERA Formula One team"
+]
 ],
 [
 "MG Motor",
-21
+21,
+[
+"Morris Garages"
+]
 ],
 [
 "Barkas",
-21
+21,
+[
+"Framo"
+]
 ],
 [
 "Ansaldo",
-21
+21,
+[
+"Ansaldo Trasporti",
+"Gio. Ansaldo & C."
+]
 ],
 [
 "Lagonda",
-21
+21,
+[]
 ],
 [
 "Wolseley Motor Company",
-21
+21,
+[]
 ],
 [
 "Saipa",
-20
+20,
+[
+"Saipa Corporation",
+"Saipa Khodro",
+"Saipa Motor Co"
+]
 ],
 [
 "Eagle",
-20
+20,
+[]
 ],
 [
 "Hafei Motor Co.",
-20
+20,
+[
+"Hafei",
+"HAFEI MOTOR",
+"Hafei Motor Co., Ltd"
+]
 ],
 [
 "Noble Automotive",
-20
+20,
+[]
 ],
 [
 "Nanjing Automobile",
-20
+20,
+[
+"Nanjing Automobile Corporation"
+]
 ],
 [
 "LuAZ",
-20
+20,
+[]
 ],
 [
 "Humber Limited",
-20
+20,
+[]
 ],
 [
 "Innocenti",
-20
+20,
+[
+"Società Generale per l'Industria Metallurgica e Meccanica"
+]
 ],
 [
 "Rootes Group",
-20
+20,
+[]
 ],
 [
 "Abt Sportsline",
-20
+20,
+[
+"ABT Schaeffler Audi Sport",
+"Audi Sport ABT"
+]
 ],
 [
 "Ascari Cars",
-20
+20,
+[]
 ],
 [
 "Alvis Car and Engineering Company Ltd",
-20
+20,
+[
+"Alvis"
+]
 ],
 [
 "Lynk & Co",
-20
+20,
+[]
 ],
 [
 "Geely Auto",
-20
+20,
+[
+"Geely",
+"Geely Automobile",
+"Geely Automobile Holdings Limited",
+"Geely Automobile Holdings Ltd."
+]
 ],
 [
 "Gumpert",
-20
+20,
+[
+"German sports car manufacturer"
+]
 ],
 [
 "Officine Meccaniche",
-20
+20,
+[]
 ],
 [
 "Talbot-Lago",
-20
+20,
+[]
 ],
 [
 "Aichi",
-20
+20,
+[
+"Aichi Aircraft Company",
+"Aichi Kokuki",
+"Aichi Kokuki Co., Ltd.",
+"Aichi Machine Industry Co., Ltd.",
+"Aichi Tokei Denki Seizo Co., Ltd.",
+"Aichi Watch and Electric Manufacturing Company"
+]
 ],
 [
 "Carroll Shelby International",
-19
+19,
+[
+"Shelby American, Inc",
+"Shelby diecast collectibles"
+]
 ],
 [
 "De Dion–Bouton",
-19
+19,
+[]
 ],
 [
 "Detroit Diesel",
-19
+19,
+[]
 ],
 [
 "Think Global",
-19
+19,
+[
+"Pivco"
+]
 ],
 [
 "Saleen",
-19
+19,
+[]
 ],
 [
 "AM General",
-19
+19,
+[
+"AM General Corporation",
+"AM General LLC"
+]
 ],
 [
 "Jensen Motors",
-19
+19,
+[]
 ],
 [
 "Wuling Motors",
-19
+19,
+[
+"Wuling Motors Holdings Limited"
+]
 ],
 [
 "Farman Aviation Works",
-19
+19,
+[]
 ],
 [
 "Ruf Automobile",
-19
+19,
+[]
 ],
 [
 "Vignale",
-19
+19,
+[
+"Carrozzeria Vignale"
+]
 ],
 [
 "Armstrong Siddeley",
-19
+19,
+[
+"Armstrong-Siddeley",
+"Armstrong Siddeley Motors Ltd"
+]
 ],
 [
 "Isdera",
-19
+19,
+[]
 ],
 [
 "Panoz Auto Development",
-19
+19,
+[]
 ],
 [
 "Riley Motor",
-19
+19,
+[]
 ],
 [
 "Alenia Aermacchi",
-19
+19,
+[]
 ],
 [
 "Eisenacher Motorenwerk",
-19
+19,
+[
+"EMW"
+]
 ],
 [
 "Dongfeng Stellantis",
-18
+18,
+[
+"Dongfeng Peugeot-Citroën Automobile",
+"DPCA",
+"Shenlong"
+]
 ],
 [
 "ZX Auto",
-18
+18,
+[
+"Hebei Zhongxing Automobile Co Ltd"
+]
 ],
 [
 "Breguet Aviation",
-18
+18,
+[
+"Louis Breguet Aviation Workshops"
+]
 ],
 [
 "Faraday Future",
-18
+18,
+[
+"Faraday Future Inc."
+]
 ],
 [
 "Spyker",
-18
+18,
+[]
 ],
 [
 "Daewoo Motors",
-18
+18,
+[]
 ],
 [
 "Oltcit",
-18
+18,
+[]
 ],
 [
 "Pierce-Arrow",
-18
+18,
+[]
 ],
 [
 "Qoros",
-18
+18,
+[]
 ],
 [
 "Stanley Motor Carriage Company",
-18
+18,
+[]
 ],
 [
 "Polski FIAT",
-18
+18,
+[
+"FSO",
+"Polski-Fiat"
+]
 ],
 [
 "Aiways",
-18
+18,
+[]
 ],
 [
 "Alex von Falkenhausen Motorenbau",
-17
+17,
+[
+"AFM F1 constructor",
+"AFM Formula One constructor",
+"Alex von Falkenhausen F1 constructor",
+"Alex von Falkenhausen Formula One constructor",
+"von Falkenhausen F1 constructor",
+"von Falkenhausen Formula One constructor"
+]
 ],
 [
 "Jaecoo",
-17
+17,
+[
+"Lucano"
+]
 ],
 [
 "El Nasr Automotive Manufacturing Company",
-17
+17,
+[
+"El Nasr",
+"Nasr",
+"Nasr Automotive"
+]
 ],
 [
 "Kaiser Motors",
-17
+17,
+[]
 ],
 [
 "SAIC Volkswagen",
-17
+17,
+[
+"SAIC Volkswagen Automobile Co., Ltd.",
+"SAIC Volkswagen Automotive Co., Ltd",
+"Shanghai Volkswagen"
+]
 ],
 [
 "Willys",
-17
+17,
+[
+"Willis Motor Company",
+"Willys – Overland Motors",
+"Willys–Overland Motors"
+]
 ],
 [
 "Hillman",
-17
+17,
+[]
 ],
 [
 "Higer",
-17
+17,
+[
+"Higer Bus"
+]
 ],
 [
 "Marcos Engineering",
-17
+17,
+[]
 ],
 [
 "Ginetta Cars",
-17
+17,
+[]
 ],
 [
 "Kojima Engineering",
-17
+17,
+[
+"Kojima F1 team",
+"Kojima Formula One team"
+]
 ],
 [
 "Oakland Motor Car Company",
-17
+17,
+[]
 ],
 [
 "Austin-Healey",
-17
+17,
+[]
 ],
 [
 "Sunbeam",
-17
+17,
+[
+"Sunbeam Motor Car Company Limited"
+]
 ],
 [
 "Amphicar",
-17
+17,
+[]
 ],
 [
 "Fabryka Samochodów Małolitrażowych",
-17
+17,
+[
+"FSM"
+]
 ],
 [
 "AJS",
-17
+17,
+[
+"AJS Motorcycles Ltd"
+]
 ],
 [
 "Itala",
-17
+17,
+[
+"Ceirano Matteo & C. Vetture Marca Itala",
+"Itala Fabbrica Automobili"
+]
 ],
 [
 "Laurin & Klement",
-17
+17,
+[]
 ],
 [
 "Agrale",
-17
+17,
+[
+"Agrale Brazil"
+]
 ],
 [
 "Simson",
-17
+17,
+[]
 ],
 [
 "Aurus",
-17
+17,
+[]
 ],
 [
 "Volkswagen do Brasil",
-17
+17,
+[
+"Volkswagen Brazil",
+"Volkswagen do Brasil Indústria de Veículos Automotores Ltda.",
+"Volkswagen do Brasil Ltda."
+]
 ],
 [
 "Goliath",
-17
+17,
+[
+"Goliath-Werke Borgward & Co."
+]
 ],
 [
 "Monteverdi",
-17
+17,
+[]
 ],
 [
 "Gillet",
-17
+17,
+[]
 ],
 [
 "Facel Vega",
-17
+17,
+[
+"Facel",
+"Facel S.A.",
+"Facel SA",
+"Facel-Vega",
+"Facel Véga"
+]
 ],
 [
 "Imperia",
-17
+17,
+[
+"Impéria",
+"Impéria Automobiles"
+]
 ],
 [
 "BAW",
-17
+17,
+[
+"Beijing Automobile Works",
+"Beijing Automobile Works Co., Ltd."
+]
 ],
 [
 "OSCA",
-17
+17,
+[
+"Officine Specializzate Costruzione Automobili"
+]
 ],
 [
 "Avatr Technology",
-16
+16,
+[]
 ],
 [
 "Laraki",
-16
+16,
+[]
 ],
 [
 "Omoda",
-16
+16,
+[
+"Ecoda"
+]
 ],
 [
 "Standard Motor Company",
-16
+16,
+[]
 ],
 [
 "VDL Nedcar",
-16
+16,
+[
+"NedCar"
+]
 ],
 [
 "Karsan",
-16
+16,
+[]
 ],
 [
 "Ford Otosan",
-16
+16,
+[
+"Otosan"
+]
 ],
 [
 "Vector Motors",
-16
+16,
+[
+"Vector Motors Corporation"
+]
 ],
 [
 "ErAZ",
-16
+16,
+[]
 ],
 [
 "Abadal",
-16
+16,
+[]
 ],
 [
 "Nagant",
-16
+16,
+[]
 ],
 [
 "Iso Rivolta",
-16
+16,
+[]
 ],
 [
 "Siemens-Schuckert",
-16
+16,
+[
+"Siemens and Schuckert",
+"Siemens & Schuckert",
+"Siemens Schuckertwerke AG"
+]
 ],
 [
 "Asia Motors",
-16
+16,
+[]
 ],
 [
 "Seres Auto (Hubei)",
-16
+16,
+[
+"DFSK Motor",
+"DFSK (Sokon)",
+"Dongfeng Sokon",
+"Seres Auto Hubei",
+"Seres Automobile (Hubei)",
+"Seres Hubei"
+]
 ],
 [
 "Ford of Europe",
-16
+16,
+[
+"Ford Europe"
+]
 ],
 [
 "Ford Germany",
-16
+16,
+[
+"Ford of Germany"
+]
 ],
 [
 "Piëch Automotive",
-16
+16,
+[]
 ],
 [
 "Brough Superior",
-16
+16,
+[]
 ],
 [
 "Glas",
-16
+16,
+[
+"Hans Glas GmbH"
+]
 ],
 [
 "Veritas",
-16
+16,
+[]
 ],
 [
 "Lanchester Motor Company",
-16
+16,
+[]
 ],
 [
 "FAW-Volkswagen",
-16
+16,
+[
+"FAW-Volkswagen Automotive Co. Ltd"
+]
 ],
 [
 "Jetour",
-16
+16,
+[]
 ],
 [
 "China South Industries Group",
-15
+15,
+[
+"China South Industries Group Co Ltd",
+"China South Industries Group Corporation",
+"CSGC"
+]
 ],
 [
 "IM Motors",
-15
+15,
+[]
 ],
 [
 "Lea-Francis",
-15
+15,
+[]
 ],
 [
 "Stutz Motor Company",
-15
+15,
+[]
 ],
 [
 "Soueast",
-15
+15,
+[
+"Dongnan Motor Co., Ltd",
+"Soueast Motors",
+"South East (Fujian) Motor Co., Ltd."
+]
 ],
 [
 "Rinspeed",
-15
+15,
+[]
 ],
 [
 "Sevel",
-15
+15,
+[
+"Società europea veicoli leggeri"
+]
 ],
 [
 "Stellantis Europe",
-15
+15,
+[
+"FCA Italy",
+"FGA",
+"Fiat Chrysler Automobiles Italy",
+"Fiat Group Automobiles"
+]
 ],
 [
 "LaSalle",
-15
+15,
+[]
 ],
 [
 "Hansa",
-15
+15,
+[
+"Hansa-Automobil Gesellschaft m.b.H.",
+"Hansa-Lloyd-Werke A. G."
+]
 ],
 [
 "Argus Motoren",
-15
+15,
+[]
 ],
 [
 "Reliant",
-15
+15,
+[]
+],
+[
+"Jiangling Motors",
+14,
+[
+"Jiangling",
+"JMC"
+]
+],
+[
+"Haima Automobile",
+14,
+[
+"Haima Automobile Group Co., Ltd"
+]
+],
+[
+"Force Motors",
+14,
+[
+"Bajaj Tempo"
+]
+],
+[
+"Fábrica Nacional de Motores",
+14,
+[
+"Fabrica Nacional de Motores"
+]
+],
+[
+"Troller Veículos Especiais",
+14,
+[
+"Troller Veiculos Especiais"
+]
+],
+[
+"Marmon Motor Car Company",
+14,
+[]
+],
+[
+"Industrias Kaiser Argentina",
+14,
+[]
+],
+[
+"Wallyscar",
+14,
+[]
+],
+[
+"Lister Cars",
+14,
+[
+"Lister Motor Company Ltd."
+]
+],
+[
+"Checker Motors Corporation",
+14,
+[]
+],
+[
+"Abbott-Detroit",
+14,
+[]
+],
+[
+"HQM Sachsenring GmbH",
+14,
+[
+"Sachsenring"
+]
+],
+[
+"Albion Motors",
+14,
+[]
+],
+[
+"Velorex",
+14,
+[]
+],
+[
+"Carlsson",
+14,
+[]
+],
+[
+"Gemballa",
+14,
+[]
+],
+[
+"Luxgen",
+14,
+[
+"LUXGEN",
+"Luxgen Motor Co., Ltd."
+]
+],
+[
+"Allard Motor Company",
+14,
+[]
+],
+[
+"SAIC General Motors",
+14,
+[
+"SAIC GM",
+"Shanghai General Mtoros",
+"Shanghai GM"
+]
+],
+[
+"Commer",
+14,
+[]
+],
+[
+"Carrozzeria Fissore",
+13,
+[]
+],
+[
+"Seres Group",
+13,
+[
+"Chongqing Sokon",
+"Chongqing Sokon Industrial Group Co",
+"Sokon"
+]
+],
+[
+"Changhe",
+13,
+[]
+],
+[
+"Scuderia Cameron Glickenhaus",
+13,
+[
+"Glickenhaus",
+"SCG"
+]
+],
+[
+"Hennessey Performance Engineering",
+13,
+[
+"HPE"
+]
+],
+[
+"Fisker",
+13,
+[]
+],
+[
+"Bizzarrini",
+13,
+[]
+],
+[
+"Radical Sportscars",
+13,
+[
+"Radical Sportcars"
+]
+],
+[
+"Anzani",
+13,
+[
+"Fabbrica Motori Anzani"
+]
+],
+[
+"Hupmobile",
+13,
+[]
+],
+[
+"Automobilwerk Eisenach",
+13,
+[
+"AWE",
+"Eisenacher Motoren Werke",
+"EMW",
+"VEB Automobilwerk Eisenach"
+]
+],
+[
+"AC Schnitzer",
+13,
+[]
+],
+[
+"Switch Mobility",
+13,
+[
+"Optare"
+]
+],
+[
+"Microcar",
+13,
+[]
+],
+[
+"Bitter Automobile",
+13,
+[
+"Bitter Cars"
+]
+],
+[
+"Tec-Mec",
+13,
+[
+"Studio Tecnica Meccanica"
+]
+],
+[
+"IzhAvto",
+13,
+[
+"Lada Izhevsk"
+]
+],
+[
+"Sungri Motors",
+13,
+[
+"Sungri Motor",
+"Sungri Motor Complex",
+"Sungri Motor Works",
+"Tochkon Motor Company"
+]
+],
+[
+"DR Automobiles Groupe",
+13,
+[
+"DR",
+"DR Motor Company"
+]
+],
+[
+"Maico",
+13,
+[]
+],
+[
+"Irmscher",
+13,
+[]
+],
+[
+"Lorraine-Dietrich",
+13,
+[
+"De Dietrich et Cie",
+"Lorraine",
+"Société Lorraine des anciens etablissements de Dietrich et Cie.",
+"Societe Lorraine des Anciens Etablissments de Dietrich and Cie",
+"Société Lorraine des Anciens Etablissments de Dietrich and Cie"
+]
+],
+[
+"Overland Automobile",
+13,
+[]
+],
+[
+"Stoewer",
+13,
+[
+"Stower"
+]
+],
+[
+"Mowag",
+13,
+[]
+],
+[
+"Automobiles L. Rosengart",
+13,
+[]
+],
+[
+"Automotive Industries",
+13,
+[]
+],
+[
+"Beijing Benz",
+13,
+[
+"Beijing Benz DaimlerChrysler"
+]
+],
+[
+"Jiangsu Yueda Kia Motors",
+13,
+[
+"Dongfeng Yueda Kia",
+"Dongfeng Yueda Kia Motors"
+]
+],
+[
+"GAC Aion",
+13,
+[
+"Aion",
+"GAC NE",
+"GAC New Energy"
+]
+],
+[
+"Ford of Britain",
+13,
+[
+"British Ford",
+"Ford Britain",
+"Ford UK",
+"Ford United Kingdom"
+]
+],
+[
+"Nuffield Organization",
+13,
+[]
+],
+[
+"British Motor Holdings",
+13,
+[
+"British Motor Holdings; BMH"
+]
+],
+[
+"Blériot",
+13,
+[
+"Bleriot",
+"Bleriot Aeronautique",
+"Blériot Aéronautique"
+]
+],
+[
+"Chrysler Europe",
+12,
+[]
+],
+[
+"Delaunay-Belleville",
+12,
+[]
+],
+[
+"Valmet Automotive",
+12,
+[]
+],
+[
+"Peel Engineering Company",
+12,
+[]
+],
+[
+"Pars Khodro",
+12,
+[]
+],
+[
+"Scripps-Booth",
+12,
+[]
+],
+[
+"Elcat Oy",
+12,
+[
+"Elcat"
+]
+],
+[
+"Excalibur",
+12,
+[]
+],
+[
+"Ford do Brasil",
+12,
+[
+"Companhia Ford Industrial do Brasil",
+"Ford Brasil",
+"Ford Brazil"
+]
+],
+[
+"Maxwell Motor Company",
+12,
+[
+"Maxwell automobile"
+]
+],
+[
+"Winton Motor Carriage Company",
+12,
+[]
+],
+[
+"Unic",
+12,
+[]
+],
+[
+"Mastretta",
+12,
+[
+"Mastretta Cars"
+]
+],
+[
+"White Motor Company",
+12,
+[]
+],
+[
+"Peerless",
+12,
+[
+"Peerless Cars Ltd."
+]
+],
+[
+"Mosler Automotive",
+12,
+[]
+],
+[
+"Oyak Renault",
+12,
+[]
+],
+[
+"Singer Motors",
+12,
+[
+"Singer (automobile company)"
+]
+],
+[
+"Peugeot Sport",
+12,
+[
+"Marlboro Peugeot Total",
+"Peugeot Talbot Sport"
+]
+],
+[
+"FAW Tianjin",
+12,
+[]
+],
+[
+"Mercedes",
+12,
+[
+"Mercedes brand"
+]
+],
+[
+"Magyar Suzuki",
+12,
+[
+"Magyar Suzuki Corporation"
+]
+],
+[
+"Brasier",
+12,
+[]
+],
+[
+"ÖAF",
+12,
+[
+"Austro-Fiat",
+"Österreichische Austro-Fiat",
+"Österreichische Automobil-Fabrik"
+]
+],
+[
+"Gutbrod",
+12,
+[]
+],
+[
+"Shanghai Maple",
+12,
+[]
+],
+[
+"Alta",
+12,
+[]
+],
+[
+"Melkus",
+12,
+[]
+],
+[
+"Mors",
+12,
+[]
+],
+[
+"Yulon Motor",
+12,
+[]
+],
+[
+"Venucia",
+12,
+[]
+],
+[
+"Gordon-Keeble",
+12,
+[]
+],
+[
+"Biscúter",
+12,
+[
+"Biscuter"
+]
+],
+[
+"Casalini",
+11,
+[]
+],
+[
+"Chevron Cars",
+11,
+[]
+],
+[
+"Austin Rover Group",
+11,
+[
+"Austin Rover"
+]
+],
+[
+"LDV",
+11,
+[
+"LDV Group now part of SAIC group"
+]
+],
+[
+"GAC Fiat Chrysler",
+11,
+[
+"GAC FCA",
+"GAC Fiat Automobiles Co., Ltd."
+]
+],
+[
+"DB",
+11,
+[]
+],
+[
+"Locomobile Company of America",
+11,
+[]
+],
+[
+"Thames Ironworks and Shipbuilding Company",
+11,
+[
+"Thames Iron Works"
+]
+],
+[
+"Puma",
+11,
+[
+"Puma Automóveis Ltda."
+]
+],
+[
+"Edwin Foden, Sons & Co.",
+11,
+[]
+],
+[
+"Ford Australia",
+11,
+[
+"Ford of Australia"
+]
+],
+[
+"Henry Ford Company",
+11,
+[]
+],
+[
+"GAC Toyota",
+11,
+[
+"GTMC"
+]
+],
+[
+"Global Electric Motorcars",
+11,
+[
+"GEM",
+"GEM Vehicles"
+]
+],
+[
+"TagAZ",
+11,
+[]
+],
+[
+"GAC Honda",
+11,
+[
+"ghac.cn",
+"Guangqi Honda"
+]
+],
+[
+"Zinoro",
+11,
+[]
+],
+[
+"Invicta",
+11,
+[]
+],
+[
+"Le Zèbre",
+11,
+[
+"Le Zebre"
+]
+],
+[
+"Napier & Son",
+11,
+[
+"D. Napier and Son",
+"D. Napier & Son",
+"Napier and Son"
+]
+],
+[
+"Jonway Automobile",
+11,
+[]
+],
+[
+"Trnavské automobilové závody",
+11,
+[
+"Trnavske automobilove zavody"
+]
+],
+[
+"Excelsior Motor Company",
+11,
+[]
+],
+[
+"Arzani-Volpini",
+11,
+[
+"Arzani-Volpini F1 team",
+"Arzani-Volpini Formula One team"
+]
+],
+[
+"Thomas Built Buses",
+11,
+[
+"Thomas",
+"Thomas Built Buses, Inc.",
+"Thomas buses"
+]
+],
+[
+"Zust",
+11,
+[]
+],
+[
+"GAZ Group",
+11,
+[]
+],
+[
+"ABC Motors",
+11,
+[
+"All British Engine Company"
+]
+],
+[
+"Elfin Sports Cars",
+11,
+[
+"Elfin Sports Cars Pty Ltd"
+]
+],
+[
+"Kutaisi Auto Mechanical Plant",
+11,
+[
+"Kutaisi Automobile Plant — KAZ"
+]
+],
+[
+"Premier Automobiles Limited",
+11,
+[]
+],
+[
+"Aero",
+11,
+[]
+],
+[
+"SG Automotive",
+11,
+[]
+],
+[
+"Ballot",
+11,
+[]
+],
+[
+"Industrija motornih vozil",
+11,
+[
+"Adria Mobil",
+"IMV",
+"Revoz"
+]
+],
+[
+"Troll",
+11,
+[]
+],
+[
+"Adria Mobil",
+11,
+[]
+],
+[
+"Barreiros",
+11,
+[]
+],
+[
+"Byton",
+11,
+[
+"Future Mobility Corporation"
+]
+],
+[
+"North German Automobile and Engine",
+11,
+[]
+],
+[
+"Fafnir",
+11,
+[]
+],
+[
+"SeAZ",
+11,
+[]
+],
+[
+"S.P.A.",
+11,
+[
+"Societa Piemontese Automobili",
+"Società Piemontese Automobili",
+"SPA"
+]
+],
+[
+"Changfeng Motor",
+11,
+[]
+],
+[
+"Aquila Italiana",
+11,
+[]
+],
+[
+"Karosserie Baur",
+11,
+[]
+],
+[
+"Vivinus",
+11,
+[]
+],
+[
+"Renault Russia",
+11,
+[
+"Avtoframos"
+]
+],
+[
+"Dangel",
+11,
+[]
+],
+[
+"Bandini Automobili",
+11,
+[]
+],
+[
+"Hawtai",
+11,
+[]
+],
+[
+"Shineray Group",
+10,
+[
+"Shineray"
+]
+],
+[
+"Inokom",
+10,
+[]
+],
+[
+"Ceirano GB & C",
+10,
+[]
+],
+[
+"Bugatti Rimac",
+10,
+[
+"Bugatti Rimac d.o.o. za proizvodnju i razvoj motornih vozila",
+"Bugatti Rimac LLC",
+"Bugatti Rimac LLC for manufacturing and development of motor vehicles"
+]
+],
+[
+"Alldays & Onions",
+10,
+[]
+],
+[
+"Anadolu Isuzu",
+10,
+[
+"Anadolu Isuzu Automotive Industry & Trading A.S."
+]
+],
+[
+"Crosley",
+10,
+[]
+],
+[
+"Diatto",
+10,
+[]
+],
+[
+"Esemka",
+10,
+[
+"PT Solo Manufaktur Kreasi",
+"Solo Manufaktur Kreasi"
+]
+],
+[
+"Elmore",
+10,
+[
+"Elmore automobile"
+]
+],
+[
+"Egg",
+10,
+[]
+],
+[
+"Lada Zapad Tolyatti",
+10,
+[
+"GM-AVTOVAZ"
+]
+],
+[
+"Ford Performance Vehicles",
+10,
+[
+"FPV"
+]
+],
+[
+"GTA Motor",
+10,
+[
+"kobee"
+]
+],
+[
+"Hyundai Motor India Limited",
+10,
+[
+"HMIL"
+]
+],
+[
+"Youngman",
+10,
+[
+"YONG MAN"
+]
+],
+[
+"Rickenbacker",
+10,
+[
+"Rickenbacker Motor Company"
+]
+],
+[
+"Gonow",
+10,
+[
+"GAC Gonow"
+]
+],
+[
+"Kantanka Automobile",
+10,
+[
+"Kantanka",
+"Kantanka cars",
+"Kantanka vehicles"
+]
+],
+[
+"Premier Automotive Group",
+10,
+[]
+],
+[
+"Fabryka Samochodów Ciężarowych",
+10,
+[
+"FSC"
+]
+],
+[
+"9ff",
+10,
+[
+"9FF"
+]
+],
+[
+"Robur",
+10,
+[]
+],
+[
+"Jinbei",
+10,
+[]
+],
+[
+"Kaipan",
+10,
+[]
+],
+[
+"Selve",
+10,
+[]
+],
+[
+"Eicher",
+10,
+[]
+],
+[
+"Neckar",
+10,
+[
+"NSU-Fiat"
+]
+],
+[
+"FCA Srbija",
+10,
+[
+"FCA Serbia",
+"Fiat automobili Srbija"
+]
+],
+[
+"Stebro",
+10,
+[]
+],
+[
+"William Beardmore and Company",
+10,
+[
+"W. Beardmore"
+]
+],
+[
+"Arash Motor Company",
+10,
+[
+"Farboud Limited"
+]
+],
+[
+"Carrosserie Hess",
+10,
+[
+"Carrosserie Hess AG"
+]
+],
+[
+"Elva",
+10,
+[]
+],
+[
+"Ateliers de Construction Mecanique l'Aster",
+10,
+[]
+],
+[
+"Volkswagen Autoeuropa",
+10,
+[]
+],
+[
+"Bignan",
+10,
+[]
+],
+[
+"Baker Motor Vehicle",
+10,
+[]
+],
+[
+"Durkopp Adler",
+10,
+[]
+],
+[
+"Dadi Auto",
+10,
+[
+"Dadi Automobile Group Co., Ltd."
+]
+],
+[
+"Automobili Stanguellini",
+10,
+[]
+],
+[
+"Marquette",
+10,
+[
+"Marquette automobiles",
+"Marquette Motor Car Company"
+]
+],
+[
+"Fiat Industrial",
+10,
+[]
+],
+[
+"Bulgarrenault",
+9,
+[]
+],
+[
+"Cartercar",
+9,
+[
+"Cartercar Company"
+]
+],
+[
+"Chiribiri",
+9,
+[]
+],
+[
+"Ford France",
+9,
+[
+"Ford Motor Company",
+"Ford of France",
+"Ford SAF"
+]
+],
+[
+"David",
+9,
+[]
+],
+[
+"Kia Motors Slovakia",
+9,
+[
+"Kia Motors Slovakia (firma)"
+]
+],
+[
+"Ford Romania",
+9,
+[
+"Ford Otosan Romania",
+"Ford Otosan Romania SRL"
+]
+],
+[
+"Lepas",
+9,
+[]
+],
+[
+"Ralf-Stetysz",
+9,
+[]
+],
+[
+"Ford Argentina",
+9,
+[
+"Ford Motor Argentina",
+"Ford Motor Company of Argentina"
+]
+],
+[
+"LTI",
+9,
+[
+"London Taxis International",
+"London Taxis International Limited"
+]
+],
+[
+"Ruston & Hornsby",
+9,
+[
+"Ruston and Hornsby"
+]
+],
+[
+"Local Motors",
+9,
+[]
+],
+[
+"Rovin",
+9,
+[]
+],
+[
+"VLF Automotive",
+9,
+[
+"VLF",
+"VLF Automotive LLC"
+]
+],
+[
+"PhoenixEV",
+9,
+[]
+],
+[
+"Kaiser Jeep",
+9,
+[]
+],
+[
+"McLaughlin Motor Car Company",
+9,
+[
+"GM Canada",
+"McLaughlin Carriage Co.",
+"McLaughlin Carriage Works",
+"McLaughlin Motor Car Co. Ltd."
+]
+],
+[
+"Carbodies Limited",
+9,
+[
+"Carbodies"
+]
+],
+[
+"Somaca",
+9,
+[]
+],
+[
+"Antoinette",
+9,
+[]
+],
+[
+"Coda Automotive",
+9,
+[]
+],
+[
+"Nanjing Fiat Automobile",
+9,
+[]
+],
+[
+"Nissan Motor Ibérica",
+9,
+[
+"Motor Ibérica S.A.",
+"Nissan Motor Iberica"
+]
+],
+[
+"Zimmer",
+9,
+[]
+],
+[
+"Pope Manufacturing Company",
+9,
+[]
+],
+[
+"Ranger",
+9,
+[]
+],
+[
+"NAMI",
+9,
+[
+"Central Scientific Research Automobile and Automotive Engines Institute",
+"Central Scientific Research Automobile and Engine Institute"
+]
+],
+[
+"Aspid",
+9,
+[]
+],
+[
+"Framo",
+9,
+[]
+],
+[
+"Neue Automobil Gesellschaft",
+9,
+[
+"N.A.G.",
+"NAG",
+"NAG-Presto",
+"NAG-Protos",
+"Nationale Automobil-Gesellschaft",
+"Neue Automobilgesellschaft",
+"Neue Automobil-Gesellschaft"
+]
+],
+[
+"URO",
+9,
+[
+"URO VAMTAC"
+]
+],
+[
+"Kaiyi Auto",
+9,
+[
+"Cowin",
+"Cowin Auto",
+"Yibin Kaiyi (Cowin) Automobile Co., Ltd."
+]
+],
+[
+"Motobloc",
+9,
+[
+"Société Centrale de Constructions Mécaniques"
+]
+],
+[
+"Hotchkiss Grégoire",
+9,
+[
+"Hotchkiss Gregoire"
+]
+],
+[
+"Qvale",
+9,
+[]
+],
+[
+"Litex Motors",
+9,
+[]
+],
+[
+"Studebaker-Packard Corporation",
+9,
+[]
+],
+[
+"Ateliers Germain",
+9,
+[
+"Germain"
+]
+],
+[
+"Nyayo Car",
+9,
+[]
+],
+[
+"Alcyon",
+9,
+[]
+],
+[
+"Compagnie Nationale Excelsior",
+9,
+[
+"Automobiles Excelsior SA",
+"Excelsior"
+]
+],
+[
+"Automobiles Grégoire (1902-1924)",
+9,
+[
+"Automobiles Gregoire",
+"Gregoire"
+]
+],
+[
+"Auverland",
+9,
+[]
+],
+[
+"Léon Bollée Automobiles",
+9,
+[
+"Leon Bollee Automobiles"
+]
+],
+[
+"Gardner-Serpollet",
+9,
+[]
+],
+[
+"Fornasari",
+9,
+[]
+],
+[
+"Timor Putra Nasional",
+9,
+[
+"Timor (car)"
+]
+],
+[
+"Leyat",
+9,
+[]
+],
+[
+"GAC Mitsubishi",
+9,
+[
+"GAC Mitsubishi Motors"
+]
+],
+[
+"Hycan",
+9,
+[
+"GAC Nio New Energy Automobile Technology",
+"Hycan Automobile Technology"
+]
+],
+[
+"Canoo",
+9,
+[
+"Canoo Inc.",
+"Canoo Technologies Inc.",
+"Evelozcity"
+]
+],
+[
+"Bucciali",
+9,
+[]
+],
+[
+"Campion Cycle Company",
+8,
+[]
+],
+[
+"Carrozzeria Marazzi",
+8,
+[]
+],
+[
+"Chalmers Automobile",
+8,
+[]
+],
+[
+"Columbia Automobile Company",
+8,
+[]
+],
+[
+"Lion-Peugeot",
+8,
+[]
+],
+[
+"Donald Healey Motor Company",
+8,
+[]
+],
+[
+"Shuanghuan Auto",
+8,
+[]
+],
+[
+"Cyklon",
+8,
+[]
+],
+[
+"Vest Buss",
+8,
+[
+"Vest-Busscar Stryn",
+"Vest-Karosseri"
+]
+],
+[
+"Durant Motors",
+8,
+[]
+],
+[
+"TAS vehicles",
+8,
+[]
+],
+[
+"Egy-Tech Engineering",
+8,
+[]
+],
+[
+"Egyptian German Automotive Company",
+8,
+[]
+],
+[
+"National Pescara",
+8,
+[]
+],
+[
+"Emgrand",
+8,
+[]
+],
+[
+"Century",
+8,
+[]
+],
+[
+"Matford",
+8,
+[]
+],
+[
+"Gillet Herstal",
+8,
+[]
+],
+[
+"Gurgel",
+8,
+[]
+],
+[
+"Ultima Sports",
+8,
+[]
+],
+[
+"Tecnologia Automotiva Catarinense",
+8,
+[
+"CAB Motors"
+]
+],
+[
+"Intermeccanica",
+8,
+[]
+],
+[
+"UMM",
+8,
+[
+"União Metalo-Mecânica"
+]
+],
+[
+"Volkswagen (China) Investment Co., Ltd.",
+8,
+[
+"Volkswagen China",
+"Volkswagen Group China"
+]
+],
+[
+"Jordan Motor Car Company",
+8,
+[]
+],
+[
+"Calthorpe cars",
+8,
+[]
+],
+[
+"Mercedes-Benz U.S. International",
+8,
+[]
+],
+[
+"Nesselsdorfer Wagenbau-Fabriks-Gesellschaft",
+8,
+[]
+],
+[
+"Avtotor",
+8,
+[]
+],
+[
+"Diamond-Star Motors",
+8,
+[]
+],
+[
+"General Motors Europe",
+8,
+[
+"GM Europe"
+]
+],
+[
+"Volkswagen Slovakia",
+8,
+[
+"Volkswagen Slovensko"
+]
+],
+[
+"Arrival",
+8,
+[
+"Arrival Limited",
+"Arrival Ltd"
+]
+],
+[
+"AC Propulsion",
+8,
+[]
+],
+[
+"Kleinschnittger",
+8,
+[]
+],
+[
+"Karl Kässbohrer Fahrzeugwerke",
+8,
+[
+"Kässbohrer Fahrzeugwerke"
+]
+],
+[
+"AGA",
+8,
+[
+"AGA (automobily)"
+]
+],
+[
+"MTX",
+8,
+[
+"Metalex"
+]
+],
+[
+"American Austin Car Company",
+8,
+[]
+],
+[
+"Ruxton",
+8,
+[]
+],
+[
+"Loremo",
+8,
+[]
+],
+[
+"London EV Company",
+8,
+[
+"LEVC",
+"London Electric Vehicle Company"
+]
+],
+[
+"Muntz Car Company",
+8,
+[
+"Muntz"
+]
+],
+[
+"Brabham Automotive",
+8,
+[]
+],
+[
+"Dongfeng Liuzhou Motor Company",
+8,
+[
+"Dongfeng Liuzhou Motor"
+]
+],
+[
+"Durant",
+8,
+[]
+],
+[
+"Turcat-Méry",
+8,
+[
+"Turcat-Mery"
+]
+],
+[
+"Automobiles René Bonnet",
+8,
+[
+"Automobiles Rene Bonnet"
+]
+],
+[
+"Hesketh Motorcycles",
+8,
+[
+"Hesketh"
+]
+],
+[
+"Holland Car",
+8,
+[]
+],
+[
+"Austro-Tatra",
+8,
+[]
+],
+[
+"Chamonix",
+8,
+[]
+],
+[
+"Arnolt",
+8,
+[]
+],
+[
+"SS Cars Ltd",
+8,
+[]
+],
+[
+"Grecav",
+8,
+[]
+],
+[
+"ASA",
+8,
+[]
+],
+[
+"Ader",
+8,
+[]
+],
+[
+"Nazzaro",
+8,
+[
+"Nazzaro & C.Fabbrica di Automobili"
+]
+],
+[
+"Spyker N.V.",
+8,
+[]
+],
+[
+"Belsize Motors",
+8,
+[]
+],
+[
+"Guy Motors",
+8,
+[]
+],
+[
+"Victoria",
+8,
+[]
+],
+[
+"Sizaire-Naudin",
+8,
+[]
+],
+[
+"Cottereau vehicles",
+8,
+[]
+],
+[
+"Dansk Automobil Byggeri",
+8,
+[
+"DAB",
+"DAB-Silkeborg",
+"Danish Automobile Building",
+"Leyland-DAB",
+"Scania Busser Silkeborg",
+"Vest-Busscar Silkeborg"
+]
+],
+[
+"Burton",
+7,
+[]
+],
+[
+"Centralne Warsztaty Samochodowe",
+7,
+[]
+],
+[
+"Chater-Lea",
+7,
+[]
+],
+[
+"Foxtron",
+7,
+[
+"FOXTRON",
+"Foxtron Vehicle Technologies Co., Ltd."
+]
+],
+[
+"Cole Motor Car Company",
+7,
+[]
+],
+[
+"Krieger Company of Electric Vehicles",
+7,
+[]
+],
+[
+"Mochet",
+7,
+[]
+],
+[
+"PTV",
+7,
+[]
+],
+[
+"New-Map",
+7,
+[]
+],
+[
+"Rox Motor",
+7,
+[
+"Jishi",
+"Polestones"
+]
+],
+[
+"GB Corp",
+7,
+[
+"Ghabbour"
+]
+],
+[
+"Dort Motor Car Company",
+7,
+[]
+],
+[
+"Gladiator Cycle Company",
+7,
+[
+"Gladiator vehicles"
+]
+],
+[
+"Walter vehicles",
+7,
+[
+"Walter Fiat"
+]
+],
+[
+"Maurer-Union",
+7,
+[]
+],
+[
+"Egyptian Light Transport Manufacturing Company",
+7,
+[
+"Ramses Gamila"
+]
+],
+[
+"Volkswagen (Anhui) Automotive Co., Ltd.",
+7,
+[
+"Volkswagen (Anhui)",
+"Volkswagen Anhui"
+]
+],
+[
+"Hurtan",
+7,
+[]
+],
+[
+"FASA-Renault",
+7,
+[]
+],
+[
+"Ford Motor Company of Canada",
+7,
+[
+"Ford Canada",
+"Ford of Canada"
+]
+],
+[
+"Adami",
+7,
+[]
+],
+[
+"Woojin Industrial Systems",
+7,
+[
+"WJIS"
+]
+],
+[
+"Georges Irat",
+7,
+[]
+],
+[
+"Briggs Automotive Company",
+7,
+[
+"BAC Mono"
+]
+],
+[
+"Moreland Motor Truck Company",
+7,
+[]
+],
+[
+"Giannini Automobili",
+7,
+[]
+],
+[
+"Mia electric",
+7,
+[]
+],
+[
+"Rolland-Pilain",
+7,
+[]
+],
+[
+"Guangzhou Peugeot Automobile Company",
+7,
+[
+"Guangzhou Peugeot"
+]
+],
+[
+"Unison",
+7,
+[]
+],
+[
+"Métallurgique",
+7,
+[
+"Metallurgique"
+]
+],
+[
+"Squire Car Manufacturing Company",
+7,
+[]
+],
+[
+"Heibao",
+7,
+[
+"Heibao Auto"
+]
+],
+[
+"Modec",
+7,
+[]
+],
+[
+"Namco",
+7,
+[
+"National Motor Company",
+"National Motor Company of Greece"
+]
+],
+[
+"National Motor Vehicle Company",
+7,
+[]
+],
+[
+"Officine Stampaggi Industriali",
+7,
+[
+"O.S.I.",
+"OSI"
+]
+],
+[
+"Binz",
+7,
+[
+"Binz GmbH & Co. KG"
+]
+],
+[
+"IAME Rastrojero",
+7,
+[]
+],
+[
+"Tawon Car",
+7,
+[
+"PT Super Gasindo Jaya",
+"Super Gasindo Jaya"
+]
+],
+[
+"Wegmann & Co.",
+7,
+[
+"Wegmann"
+]
+],
+[
+"Carver",
+7,
+[
+"Carver Europe B.V.",
+"Carver vehicles"
+]
+],
+[
+"Brissonneau et Lotz",
+7,
+[
+"Brissonneau and Lotz",
+"Brissonneau & Lotz"
+]
+],
+[
+"Mobius Motors",
+7,
+[]
+],
+[
+"Carbuss - Indústria de Carrocerias Catarinense Ltda.",
+7,
+[]
+],
+[
+"Adolf Bleichert & Co.",
+7,
+[
+"Adolf Bleichert & Co., Cable car factory, Leipzig-Gohlis",
+"Bleichert Transport systems"
+]
+],
+[
+"Denzel",
+7,
+[]
+],
+[
+"Comil",
+7,
+[]
+],
+[
+"Thomas B. Jeffery Company",
+7,
+[]
+],
+[
+"Berna",
+7,
+[]
+],
+[
+"Mars",
+7,
+[]
+],
+[
+"Covini Engineering",
+7,
+[]
+],
+[
+"General Motors Egypt",
+7,
+[]
+],
+[
+"DeWitt Motor Company",
+7,
+[]
+],
+[
+"Yes! Roadster",
+7,
+[]
+],
+[
+"Bollack Netter and Co",
+7,
+[]
+],
+[
+"Wikov",
+7,
+[
+"Wichterle a Kovářík a.s.",
+"Wikov CZ",
+"Wikov (Czech Republic)"
+]
+],
+[
+"Venirauto",
+7,
+[]
+],
+[
+"Apal",
+7,
+[]
+],
+[
+"Arab American Vehicles",
+7,
+[]
+],
+[
+"Barabus TKR",
+7,
+[]
+],
+[
+"Protos of Nonnendamm",
+7,
+[]
+],
+[
+"Bavarian Auto Group",
+7,
+[]
+],
+[
+"Rainier Motor Car Company",
+7,
+[]
+],
+[
+"Bowler Offroad",
+7,
+[
+"Bowler Manufacturing"
+]
+],
+[
+"Kissel Motor Car Company",
+7,
+[]
+],
+[
+"Gilbern",
+7,
+[]
+],
+[
+"Tushek&Spigel Supercars",
+7,
+[]
+],
+[
+"Argyll Motors Ltd",
+7,
+[
+"Hozier Engineering Company"
+]
+],
+[
+"Pipe",
+7,
+[]
+],
+[
+"Pic-Pic",
+7,
+[]
+],
+[
+"Little Motor Car Company",
+7,
+[
+"Little"
+]
+],
+[
+"Enzmann",
+7,
+[]
+],
+[
+"Auto Avio Costruzioni",
+7,
+[]
+],
+[
+"Arrol-Johnston",
+7,
+[]
+],
+[
+"Renault do Brasil",
+7,
+[
+"Renault do Brasil Automoveis"
+]
+],
+[
+"Renntech",
+7,
+[]
+],
+[
+"Obvio!",
+7,
+[]
+],
+[
+"Tomcar",
+7,
+[]
+],
+[
+"Autocars Co.",
+7,
+[]
+],
+[
+"LaFayette Motors",
+7,
+[]
+],
+[
+"Astra Daihatsu Motor",
+7,
+[]
+],
+[
+"Automobile Craiova",
+7,
+[]
+],
+[
+"ALP",
+7,
+[]
+],
+[
+"AFA",
+7,
+[]
+],
+[
+"Baja Bug",
+7,
+[]
+],
+[
+"Automobiles Bellanger Frères",
+7,
+[
+"Automobiles Bellanger Freres"
+]
+],
+[
+"Siddeley-Deasy",
+7,
+[
+"Siddeley-Deasy Motorcar Company Limited"
+]
+],
+[
+"Wilson-Pilcher",
+7,
+[]
+],
+[
+"FAMO",
+7,
+[
+"Fahrzeug- und Motoren-Werke"
+]
+],
+[
+"APIS (automobiles)",
+7,
+[]
+],
+[
+"Brixia-Zust",
+7,
+[]
+],
+[
+"Bromme",
+7,
+[]
+],
+[
+"Cottin & Desgouttes",
+7,
+[]
+],
+[
+"De La Chapelle",
+7,
+[]
+],
+[
+"Corre La Licorne",
+7,
+[
+"Corre-La Licorne",
+"La Licorne",
+"Licorne"
+]
+],
+[
+"Subaru of Indiana Automotive, Inc.",
+7,
+[]
+],
+[
+"Speranza Motors",
+7,
+[]
+],
+[
+"Bulgaralpine",
+6,
+[]
+],
+[
+"Chapuis-Dornier",
+6,
+[]
+],
+[
+"General Motors do Brasil",
+6,
+[]
+],
+[
+"Flandria",
+6,
+[]
+],
+[
+"Niutron",
+6,
+[]
+],
+[
+"Constantinesco",
+6,
+[]
+],
+[
+"Prinetti & Stucchi",
+6,
+[]
+],
+[
+"SCAT",
+6,
+[
+"Società Ceirano Automobili Torino"
+]
+],
+[
+"HRG Engineering Company",
+6,
+[
+"HRG"
+]
+],
+[
+"B Engineering",
+6,
+[]
+],
+[
+"Coventry Victor",
+6,
+[]
+],
+[
+"Radior",
+6,
+[]
+],
+[
+"Derways",
+6,
+[]
+],
+[
+"Nota Sports and Racing Cars",
+6,
+[
+"Nota"
+]
+],
+[
+"Micro-Vett",
+6,
+[]
+],
+[
+"Ampere",
+6,
+[
+"Ampere Electricity, Ampere SAS"
+]
+],
+[
+"Beijing Jeep",
+6,
+[
+"Beijing Jeep Corporation"
+]
+],
+[
+"Portaro",
+6,
+[]
+],
+[
+"Sofasa",
+6,
+[]
+],
+[
+"Neander (motorcycle)",
+6,
+[]
+],
+[
+"Nardi",
+6,
+[
+"Nardi & Danese"
+]
+],
+[
+"Clénet Coachworks",
+6,
+[
+"Clenet Coachworks"
+]
+],
+[
+"Derby",
+6,
+[]
+],
+[
+"Devaux Coupe",
+6,
+[]
+],
+[
+"Donnet",
+6,
+[]
+],
+[
+"Du Pont Motors",
+6,
+[]
+],
+[
+"Paris-Rhône",
+6,
+[
+"Paris-Rhone"
+]
+],
+[
+"Thornycroft",
+6,
+[]
+],
+[
+"MI-VAL",
+6,
+[]
+],
+[
+"Waaijenberg",
+6,
+[]
+],
+[
+"La Cuadra",
+6,
+[]
+],
+[
+"Lozier",
+6,
+[]
+],
+[
+"Eurocar",
+6,
+[]
+],
+[
+"Eysink",
+6,
+[]
+],
+[
+"Frontenac Motor Corporation",
+6,
+[]
+],
+[
+"Selden Motor Vehicle Company",
+6,
+[]
+],
+[
+"Junior F.J.T.A.",
+6,
+[]
+],
+[
+"Flint",
+6,
+[]
+],
+[
+"Ford Motor Company of Japan",
+6,
+[
+"Ford Japan",
+"Ford Japan Limited"
+]
+],
+[
+"Pretis vehicles",
+6,
+[]
+],
+[
+"Marlin",
+6,
+[]
+],
+[
+"Georges Richard",
+6,
+[
+"Société des Anciens Établissements Georges Richard"
+]
+],
+[
+"Gobron-Brillié",
+6,
+[
+"Gobron-Brillie"
+]
+],
+[
+"Hanomag-Henschel",
+6,
+[]
+],
+[
+"Élan Motorsport Technologies",
+6,
+[
+"Elan Motorsport Technologies"
+]
+],
+[
+"Locost",
+6,
+[]
+],
+[
+"Hannoversche Waggonfabrik",
+6,
+[
+"Hannoversche Waggonfabrik AG"
+]
+],
+[
+"Henriod",
+6,
+[]
+],
+[
+"Guangzhou Automobile Industry Group",
+6,
+[
+"GAIG"
+]
+],
+[
+"Haynes Automobile Company",
+6,
+[]
+],
+[
+"Velie",
+6,
+[]
+],
+[
+"Mercedes-Maybach",
+6,
+[
+"Maybach",
+"MAYBACH",
+"Mercedes Maybach"
+]
+],
+[
+"Honda of the UK Manufacturing",
+6,
+[]
+],
+[
+"Polarsun Automobile",
+6,
+[]
+],
+[
+"Hermes-Simplex",
+6,
+[]
+],
+[
+"Hyundai Assan Otomotiv",
+6,
+[]
+],
+[
+"IndoMobil Group",
+6,
+[]
+],
+[
+"Knox Automobile",
+6,
+[]
+],
+[
+"Daimler Truck North America",
+6,
+[
+"Daimler Truck North America LLC"
+]
+],
+[
+"David Brown Automotive",
+6,
+[]
+],
+[
+"Marot-Gardon",
+6,
+[]
+],
+[
+"Smith Electric Vehicles",
+6,
+[]
+],
+[
+"Karenjy",
+6,
+[]
+],
+[
+"Ariès",
+6,
+[
+"Aries"
+]
+],
+[
+"Rickman Motorcycles",
+6,
+[]
+],
+[
+"Knaus Tabbert Group",
+6,
+[]
+],
+[
+"Lambert Automobile Company",
+6,
+[]
+],
+[
+"Ace",
+6,
+[]
+],
+[
+"Tucker Corporation",
+6,
+[
+"Tucker"
+]
+],
+[
+"Messier",
+6,
+[]
+],
+[
+"Nanjing Vehicle",
+6,
+[
+"Nanjing IVECO Motor Co.",
+"Nanjing Vehicle Co., Ltd",
+"Naveco",
+"NAVECO",
+"naveco.com.cn"
+]
+],
+[
+"Zhengzhou Nissan Automobile Company",
+6,
+[]
+],
+[
+"Faun-Werke",
+6,
+[]
+],
+[
+"Orient Express",
+6,
+[]
+],
+[
+"Ciimo",
+6,
+[]
+],
+[
+"Playboy Automobile Company",
+6,
+[]
+],
+[
+"Powell Manufacturing Company",
+6,
+[]
+],
+[
+"Rockne",
+6,
+[]
+],
+[
+"Scutum Logistic",
+6,
+[
+"Scutum Logistics",
+"Silence"
+]
+],
+[
+"Star Motor Company",
+6,
+[]
+],
+[
+"JDM",
+6,
+[]
+],
+[
+"Advance Motor Manufacturing Company",
+6,
+[]
+],
+[
+"Shamrock",
+6,
+[]
+],
+[
+"FAW Toyota Motor (Chengdu)",
+6,
+[
+"FTCC",
+"SFTM",
+"Sichuan FAW Toyota Motor"
+]
+],
+[
+"Tracta",
+6,
+[]
+],
+[
+"Alexander Leutner & Co.",
+6,
+[]
+],
+[
+"Automobiles Talbot France",
+6,
+[]
+],
+[
+"Spark Racing Technology",
+6,
+[
+"SPARK"
+]
+],
+[
+"Tornax",
+6,
+[]
+],
+[
+"Aberdonia Cars",
+6,
+[]
+],
+[
+"GEA Westfalia Separator",
+6,
+[]
+],
+[
+"Lucchini Engineering",
+6,
+[]
+],
+[
+"Cudell",
+6,
+[]
+],
+[
+"Rex-Acme",
+6,
+[
+"Rex"
+]
+],
+[
+"Tulio Crespi S.A.",
+6,
+[
+"Crespi Competicion"
+]
+],
+[
+"Vanderhall Motor Works",
+6,
+[]
+],
+[
+"ArtLine Racing",
+6,
+[]
+],
+[
+"AutoAlliance Thailand",
+6,
+[
+"AAT",
+"Auto Alliance Thailand"
+]
+],
+[
+"ABC",
+6,
+[]
+],
+[
+"American Simplex",
+6,
+[]
+],
+[
+"Avanti",
+6,
+[
+"Avanti Automotive Corporation",
+"Avanti II",
+"AVX"
+]
+],
+[
+"DAC",
+6,
+[]
+],
+[
+"Anglo-Dane",
+6,
+[]
+],
+[
+"Flxible",
+6,
+[]
+],
+[
+"Caparo Vehicle Technologies",
+6,
+[]
+],
+[
+"KGM Commercial",
+6,
+[
+"Edison Motors",
+"KGMC",
+"KG Mobility Commercial"
+]
+],
+[
+"Hackett",
+6,
+[]
+],
+[
+"Castro vehicles",
+6,
+[]
+],
+[
+"Apperson",
+6,
+[]
+],
+[
+"Biotechnia Ellinikon Trikyklon",
+6,
+[]
+],
+[
+"Belga Rise",
+6,
+[]
+],
+[
+"Arnold",
+6,
+[]
+],
+[
+"Premier Motor Manufacturing Company",
+6,
+[]
+],
+[
+"Jehle",
+6,
+[]
+],
+[
+"Simca do Brasil",
+6,
+[]
+],
+[
+"Stevens-Duryea",
+6,
+[]
+],
+[
+"Sunbeam-Talbot",
+6,
+[]
+],
+[
+"Tiger Racing",
+6,
+[
+"Tiger"
+]
+],
+[
+"Australian Motor Industries",
+6,
+[]
+],
+[
+"Baughan",
+6,
+[]
+],
+[
+"Automobiles Bernardet",
+6,
+[
+"Établissement Bernardet Frères"
+]
+],
+[
+"Puli",
+6,
+[]
+],
+[
+"Maudslay Motor Company",
+6,
+[]
+],
+[
+"Steinmetz Opel Tuning",
+6,
+[]
+],
+[
+"Bjering",
+6,
+[]
+],
+[
+"Bolide",
+6,
+[]
+],
+[
+"Sharp's Commercials",
+6,
+[]
+],
+[
+"Charron-Laycock",
+6,
+[]
+],
+[
+"Bricklin SV-1",
+6,
+[]
+],
+[
+"C. Benz Söhne vehicles",
+6,
+[]
+],
+[
+"Rae",
+6,
+[]
+],
+[
+"Darmont",
+6,
+[]
+],
+[
+"Brouhot vehicles",
+6,
+[]
+],
+[
+"Brush Motor Car Company",
+6,
+[
+"Brush Runabout Company"
+]
+],
+[
+"Czinger",
+6,
+[
+"Czinger Vehicles"
+]
+],
+[
+"CTA-Arsenal",
+5,
+[]
+],
+[
+"Bordrin",
+5,
+[]
+],
+[
+"Jeantaud",
+5,
+[]
+],
+[
+"Hopium",
+5,
+[]
+],
+[
+"EdisonFuture",
+5,
+[]
+],
+[
+"Coadou et Fleury",
+5,
+[]
+],
+[
+"Comarth",
+5,
+[]
+],
+[
+"Forthing",
+5,
+[
+"Dongfeng Fengxing"
+]
+],
+[
+"Vemac Car Company",
+5,
+[]
+],
+[
+"Mototri Contal",
+5,
+[]
+],
+[
+"Sero Electric",
+5,
+[]
+],
+[
+"CMN",
+5,
+[]
+],
+[
+"Cournil",
+5,
+[]
+],
+[
+"Covert",
+5,
+[
+"B. V. Covert and Company"
+]
+],
+[
+"Ford Union",
+5,
+[]
+],
+[
+"DIM",
+5,
+[]
+],
+[
+"Astra Automobile & Waggon Factory _",
+5,
+[]
+],
+[
+"De Bazelaire",
+5,
+[]
+],
+[
+"Hering & Richard",
+5,
+[]
+],
+[
+"Devin Cars",
+5,
+[]
+],
+[
+"Doriot, Flandrin & Parant",
+5,
+[]
+],
+[
+"Alba",
+5,
+[]
+],
+[
+"Dual-Ghia",
+5,
+[]
+],
+[
+"E-M-F Company",
+5,
+[]
+],
+[
+"D’Yrsan",
+5,
+[]
+],
+[
+"Little Midland",
+5,
+[]
+],
+[
+"Chevrolet El Morocco",
+5,
+[]
+],
+[
+"Ferves",
+5,
+[]
+],
+[
+"Ebro",
+5,
+[
+"Ebro Suv"
+]
+],
+[
+"Toyota Motor Manufacturing Turkey",
+5,
+[
+"TMMT"
+]
+],
+[
+"Enfield Automotive",
+5,
+[]
+],
+[
+"Automobiles Lombard",
+5,
+[]
+],
+[
+"Volkswagen de México",
+5,
+[
+"Volkswagen de Mexico",
+"Volkswagen Mexico"
+]
+],
+[
+"Escol motorcycles",
+5,
+[
+"Escol"
+]
+],
+[
+"Evante",
+5,
+[]
+],
+[
+"FN",
+5,
+[
+"Fabrique Nationale d’Armes de Guerre"
+]
+],
+[
+"Fial",
+5,
+[]
+],
+[
+"Unitas-Tatra vehicles",
+5,
+[]
+],
+[
+"Fendt Caravan",
+5,
+[]
+],
+[
+"Fondu vehicles",
+5,
+[]
+],
+[
+"Artés de Arcos",
+5,
+[
+"Artes de Arcos"
+]
+],
+[
+"Cunningham cars",
+5,
+[]
+],
+[
+"Tan Chong Motor Holdings Berhad",
+5,
+[
+"Tan Chong Motor",
+"Tan Chong Motor Holdings Bhd.",
+"TCMH"
+]
+],
+[
+"Toyota Motor Manufacturing Canada",
+5,
+[
+"TMMC"
+]
+],
+[
+"Società Torinese Automobili Rapid",
+5,
+[
+"Societa Torinese Automobili Rapid",
+"S.T.A.R."
+]
+],
+[
+"FH vehicles",
+5,
+[]
+],
+[
+"Fratelli Ceirano",
+5,
+[]
+],
+[
+"Wolsit",
+5,
+[
+"Wolseley Italiana"
+]
+],
+[
+"General Motors Thailand",
+5,
+[]
+],
+[
+"Röhr vehicles",
+5,
+[]
+],
+[
+"Sizaire-Berwick",
+5,
+[]
+],
+[
+"Hyundai Motor Manufacturing Czech",
+5,
+[]
+],
+[
+"Automobiles Robert Serf",
+5,
+[]
+],
+[
+"Maybach Manufaktur",
+5,
+[
+"Maybach"
+]
+],
+[
+"Hercules",
+5,
+[]
+],
+[
+"Superformance",
+5,
+[]
+],
+[
+"Star",
+5,
+[]
+],
+[
+"Hobby-Wohnwagenwerk",
+5,
+[]
+],
+[
+"Honda Canada",
+5,
+[
+"Honda of Canada"
+]
+],
+[
+"Hyundai Motor Manufacturing Rus",
+5,
+[
+"Sestroretsky Autoworks \"Hyundai\""
+]
+],
+[
+"haresh Kumar",
+5,
+[]
+],
+[
+"JPL",
+5,
+[]
+],
+[
+"Jackson Automobile Company",
+5,
+[]
+],
+[
+"Jago",
+5,
+[]
+],
+[
+"Scaldia vehicles",
+5,
+[]
+],
+[
+"Toyota Motor Manufacturing Kentucky",
+5,
+[
+"TMMK"
+]
+],
+[
+"Zeta",
+5,
+[]
+],
+[
+"Alfi",
+5,
+[]
+],
+[
+"Yellow Cab Manufacturing Company",
+5,
+[]
+],
+[
+"Orca Engineering",
+5,
+[]
+],
+[
+"Lawil S.p.A.",
+5,
+[]
+],
+[
+"Volkswagen Argentina",
+5,
+[]
+],
+[
+"Lafitte vehicles",
+5,
+[
+"Lafitte"
+]
+],
+[
+"Alpha Sports",
+5,
+[]
+],
+[
+"Costruzioni Meccaniche di Saronno",
+5,
+[
+"Officine Meccaniche di Saronno",
+"Saronno"
+]
+],
+[
+"Lloyd Cars Ltd",
+5,
+[]
+],
+[
+"Lurquin-Coudert",
+5,
+[]
+],
+[
+"MAVA-Renault",
+5,
+[]
+],
+[
+"MBM vehicles",
+5,
+[]
+],
+[
+"MEBEA",
+5,
+[]
+],
+[
+"Modiran Vehicle Manufacturing Company",
+5,
+[]
+],
+[
+"Theologou",
+5,
+[]
+],
+[
+"Oméga-Six",
+5,
+[
+"Omega-Six"
+]
+],
+[
+"Pellandini Cars",
+5,
+[]
+],
+[
+"Aspa",
+5,
+[]
+],
+[
+"Oscar vehicles",
+5,
+[]
+],
+[
+"S.C.A.P.",
+5,
+[]
+],
+[
+"Entreposto",
+5,
+[]
+],
+[
+"FAW Oley",
+5,
+[]
+],
+[
+"Siata Española S.A.",
+5,
+[]
+],
+[
+"Slaby-Beringer",
+5,
+[]
+],
+[
+"Austral",
+5,
+[]
+],
+[
+"Sofia",
+5,
+[]
+],
+[
+"Th. Schneider",
+5,
+[]
+],
+[
+"Tornado Cars",
+5,
+[]
+],
+[
+"Town Life",
+5,
+[]
+],
+[
+"Toyota Motor Manufacturing UK",
+5,
+[
+"TMUK",
+"Toyota Motor Manufacturing (UK) Ltd"
+]
+],
+[
+"MOL Trucks",
+5,
+[]
+],
+[
+"Straker-Squire",
+5,
+[]
+],
+[
+"Studebaker-Garford",
+5,
+[]
+],
+[
+"Renault Argentina",
+5,
+[
+"Renault Argentina S.A."
+]
+],
+[
+"Delamare-Deboutteville",
+5,
+[]
+],
+[
+"Dallas",
+5,
+[]
+],
+[
+"Dart (commercial vehicle)",
+5,
+[]
+],
+[
+"Sensaud de Lavaud",
+5,
+[]
+],
+[
+"Columbus Buggy Company",
+5,
+[]
+],
+[
+"Fiat India",
+5,
+[
+"FCA India Automobiles"
+]
+],
+[
+"Sherman",
+5,
+[
+"Roy Sherman"
+]
+],
+[
+"Schütte-Lanz",
+5,
+[
+"Airship Builder Schutte-Lanz",
+"Luftschiffbau Schütte-Lanz",
+"Schutte-Lanz"
+]
+],
+[
+"Toyota South Africa Motors",
+5,
+[
+"TSAM"
+]
+],
+[
+"Deutsche Industriewerke",
+5,
+[
+"Deutsche Industrie-Werke GmbH"
+]
+],
+[
+"Bratislavské automobilové závody",
+5,
+[]
+],
+[
+"Elder",
+5,
+[]
+],
+[
+"Fusi",
+5,
+[]
+],
+[
+"Jetcar",
+5,
+[]
+],
+[
+"Rayton Fissore",
+5,
+[]
+],
+[
+"Dutton Cars",
+5,
+[]
+],
+[
+"Marchese",
+5,
+[]
+],
+[
+"Altena",
+5,
+[]
+],
+[
+"Aerocarene",
+5,
+[]
+],
+[
+"Amilcar Italiana",
+5,
+[]
+],
+[
+"Argo",
+5,
+[]
+],
+[
+"Baby-Brousse",
+5,
+[]
+],
+[
+"Blakely Auto Works",
+5,
+[]
+],
+[
+"Lomax",
+5,
+[]
+],
+[
+"Briscoe",
+5,
+[]
+],
+[
+"Buffum",
+5,
+[]
+],
+[
+"CIME",
+5,
+[]
+],
+[
+"Clipper",
+5,
+[]
+],
+[
+"Springuel",
+5,
+[]
+],
+[
+"Dayton Electric",
+5,
+[]
+],
+[
+"Sheffield-Simplex",
+5,
+[
+"Sheffield Simplex",
+"Sheffield Simplex Motor Works",
+"Sheffield-Simplex Motor Works"
+]
+],
+[
+"Ford of Spain",
+5,
+[
+"Ford de España"
+]
+],
+[
+"Sono Motors",
+5,
+[
+"Sono"
+]
+],
+[
+"Toyota Argentina",
+5,
+[
+"TASA",
+"Toyota Argentina S.A."
+]
+],
+[
+"Heine-Velox",
+5,
+[]
+],
+[
+"Pasquali vehicles",
+5,
+[]
+],
+[
+"James Cunningham, Son and Company",
+5,
+[
+"James Cunningham, Son and Co."
+]
+],
+[
+"Jewett",
+5,
+[]
+],
+[
+"Arab",
+5,
+[]
+],
+[
+"MTM - Motoren Technik Mayer",
+5,
+[]
+],
+[
+"Keeton",
+5,
+[
+"Keeton Motor Company"
+]
+],
+[
+"Tokyu Kogyo Kurogane",
+5,
+[
+"Kurogane"
+]
+],
+[
+"RAESR",
+5,
+[]
+],
+[
+"Arimofa",
+5,
+[]
+],
+[
+"McFarlan Automobile",
+5,
+[]
+],
+[
+"Mercedes-Benz Mexico",
+5,
+[
+"Mercedes Benz Mexico"
+]
+],
+[
+"Csonka",
+5,
+[]
+],
+[
+"Pragoti",
+5,
+[]
+],
+[
+"Asquith",
+5,
+[]
+],
+[
+"Sénéchal automobiles",
+5,
+[]
+],
+[
+"Sava",
+5,
+[]
+],
+[
+"Chappe et Gessalin",
+5,
+[]
+],
+[
+"Sheridan",
+5,
+[]
+],
+[
+"Arista",
+5,
+[]
+],
+[
+"Atomette",
+5,
+[]
+],
+[
+"Audibert & Lavirotte",
+5,
+[]
+],
+[
+"Crouch Cars",
+5,
+[]
+],
+[
+"Clyno",
+5,
+[]
+],
+[
+"Australian Six",
+5,
+[]
+],
+[
+"Sizaire Frères",
+5,
+[
+"Sizaire Freres"
+]
+],
+[
+"Alva",
+5,
+[]
+],
+[
+"Alatac",
+5,
+[]
+],
+[
+"ADK",
+5,
+[]
+],
+[
+"Awtowelo",
+5,
+[]
+],
+[
+"BMW US Manufacturing Company",
+5,
+[]
+],
+[
+"Barley Motor Car Co.",
+5,
+[]
+],
+[
+"Berkeley Cars",
+5,
+[]
+],
+[
+"Nissan Motor Manufacturing UK",
+5,
+[]
+],
+[
+"VOMAG",
+5,
+[]
+],
+[
+"Allright",
+5,
+[]
+],
+[
+"Reichenberger Automobil Fabrik",
+5,
+[
+"RAF"
+]
+],
+[
+"Göricke vehicles",
+5,
+[]
+],
+[
+"British Salmson",
+5,
+[]
+],
+[
+"Bollinger Motors",
+5,
+[]
+],
+[
+"Hinstin",
+5,
+[]
+],
+[
+"O-We-Go",
+5,
+[]
+],
+[
+"Gleagle",
+5,
+[]
+],
+[
+"Renault Pars",
+5,
+[]
+],
+[
+"Bugatti Automobili",
+4,
+[]
+],
+[
+"Charron, Girardot et Voigt",
+4,
+[]
+],
+[
+"Carbon Motors Corporation",
+4,
+[
+"Carbon Motors"
+]
+],
+[
+"ACE EV Group",
+4,
+[]
+],
+[
+"Techrules",
+4,
+[]
+],
+[
+"Patria motorcycles",
+4,
+[]
+],
+[
+"Chaigneau-Brasier",
+4,
+[
+"Richard-Brasier"
+]
+],
+[
+"Chainless",
+4,
+[]
+],
+[
+"Chambers Motors",
+4,
+[]
+],
+[
+"City Transformer",
+4,
+[
+"CT"
+]
+],
+[
+"Vinaxuki",
+4,
+[]
+],
+[
+"Reva",
+4,
+[]
+],
+[
+"OScar",
+4,
+[]
+],
+[
+"Coey",
+4,
+[]
+],
+[
+"Colda",
+4,
+[]
+],
+[
+"Compañía Balear de Automóviles",
+4,
+[]
+],
+[
+"Popp vehicles",
+4,
+[]
+],
+[
+"Samcor",
+4,
+[]
+],
+[
+"Crawford Automobile",
+4,
+[]
+],
+[
+"Crow-Elkhart",
+4,
+[]
+],
+[
+"Cubitt",
+4,
+[]
+],
+[
+"Sportequipe",
+4,
+[
+"DR Sportequipe"
+]
+],
+[
+"DS-Malterre",
+4,
+[]
+],
+[
+"ICH-X",
+4,
+[
+"ICKX"
+]
+],
+[
+"Elbil Norge",
+4,
+[]
+],
+[
+"Dauer Sportwagen",
+4,
+[]
+],
+[
+"Davis Motorcar Company",
+4,
+[]
+],
+[
+"Dax Cars",
+4,
+[]
+],
+[
+"De Dietrich",
+4,
+[]
+],
+[
+"De Riancey",
+4,
+[]
+],
+[
+"Delaugère et Clayette",
+4,
+[
+"Delaugere et Clayette"
+]
+],
+[
+"Delin",
+4,
+[]
+],
+[
+"Desande",
+4,
+[]
+],
+[
+"Dethleffs",
+4,
+[]
+],
+[
+"Dewan Farooque Motors",
+4,
+[]
+],
+[
+"Dixie Flyer",
+4,
+[]
+],
+[
+"Société Parisienne",
+4,
+[
+"Societe Parisienne"
+]
+],
+[
+"Hampton",
+4,
+[]
+],
+[
+"Soriano-Pedroso",
+4,
+[]
+],
+[
+"VELAM",
+4,
+[]
+],
+[
+"Edelsbrunner Automobile München",
+4,
+[]
+],
+[
+"Excelsior",
+4,
+[]
+],
+[
+"Ego vehicles",
+4,
+[]
+],
+[
+"Eichler & Bachmann",
+4,
+[]
+],
+[
+"SIMA-Violet",
+4,
+[]
+],
+[
+"Telo Trucks",
+4,
+[
+"TELO",
+"Telo Trucks Inc"
+]
+],
+[
+"Kühlstein",
+4,
+[]
+],
+[
+"Ellemobil",
+4,
+[]
+],
+[
+"Slate Auto",
+4,
+[
+"Re:Car",
+"Slate, Inc."
+]
+],
+[
+"Esther",
+4,
+[]
+],
+[
+"Effa Motors",
+4,
+[]
+],
+[
+"Tenet",
+4,
+[]
+],
+[
+"Mekong Auto",
+4,
+[
+"Mekong Auto Corporation"
+]
+],
+[
+"Marsonetto vehicles",
+4,
+[]
+],
+[
+"Eudelin",
+4,
+[]
+],
+[
+"Excelsior-Mascot",
+4,
+[]
+],
+[
+"Tarrant automobile",
+4,
+[]
+],
+[
+"Standard",
+4,
+[]
+],
+[
+"Lufbery",
+4,
+[]
+],
+[
+"Felber vehicles",
+4,
+[]
+],
+[
+"Ermini vehicles",
+4,
+[]
+],
+[
+"Volkswagen Sarajevo",
+4,
+[]
+],
+[
+"Ford Italia",
+4,
+[
+"Ford Italy"
+]
+],
+[
+"Fram vehicles",
+4,
+[]
+],
+[
+"La Buire",
+4,
+[]
+],
+[
+"Freight Rover",
+4,
+[]
+],
+[
+"Replicar Hellas",
+4,
+[
+"Beetlekitcars",
+"RCH"
+]
+],
+[
+"Inter-State",
+4,
+[]
+],
+[
+"Moon Motor Car",
+4,
+[]
+],
+[
+"General Motors of Canada",
+4,
+[
+"General Motors Canada",
+"GM Canada"
+]
+],
+[
+"GM Vietnam",
+4,
+[]
+],
+[
+"GTM Cars",
+4,
+[]
+],
+[
+"Gadabout",
+4,
+[]
+],
+[
+"Rutenber Motor Company",
+4,
+[]
+],
+[
+"Gautier–Wehrlé",
+4,
+[]
+],
+[
+"Thrige-Titan",
+4,
+[
+"Thrige"
+]
+],
+[
+"Isuzu HICOM Malaysia",
+4,
+[]
+],
+[
+"Equus Automotive",
+4,
+[]
+],
+[
+"Tazzari",
+4,
+[]
+],
+[
+"Le Cabri",
+4,
+[]
+],
+[
+"Gillet-Forest",
+4,
+[]
+],
+[
+"Giocattolo",
+4,
+[]
+],
+[
+"Glide",
+4,
+[
+"Bartholomew Company"
+]
+],
+[
+"Pilot-Wagen",
+4,
+[
+"Pilot",
+"Pilotmotorenwerke",
+"Pilotmotorenwerke Bannewitz",
+"Pilotwagen",
+"Pilot-Wagen AG"
+]
+],
+[
+"Gordon",
+4,
+[]
+],
+[
+"Leichtbau Maier",
+4,
+[]
+],
+[
+"HICOM Automotive Manufacturers",
+4,
+[]
+],
+[
+"Automobiles ERAD",
+4,
+[]
+],
+[
+"Cedre",
+4,
+[]
+],
+[
+"Ehrhardt-Szawe",
+4,
+[]
+],
+[
+"Hanzer vehicles",
+4,
+[]
+],
+[
+"Nobel",
+4,
+[]
+],
+[
+"Hawk",
+4,
+[]
+],
+[
+"Holden Special Vehicles",
+4,
+[
+"HSV"
+]
+],
+[
+"Honda Türkiye",
+4,
+[]
+],
+[
+"Humber Motorcycles",
+4,
+[]
+],
+[
+"Hulas Motors",
+4,
+[]
+],
+[
+"Janoir",
+4,
+[]
+],
+[
+"Tunisian Company of Automotive Industry",
+4,
+[]
+],
+[
+"Windhoff Bahn- und Anlagentechnik",
+4,
+[]
+],
+[
+"Van Clee vehicles",
+4,
+[]
+],
+[
+"Isuzu Astra Motor Indonesia",
+4,
+[]
+],
+[
+"Ivel",
+4,
+[]
+],
+[
+"New British",
+4,
+[]
+],
+[
+"Reliance",
+4,
+[]
+],
+[
+"Bamby Cars",
+4,
+[]
+],
+[
+"Hol-Tan",
+4,
+[]
+],
+[
+"Marc Nordon Racing",
+4,
+[]
+],
+[
+"Silver Hawk",
+4,
+[]
+],
+[
+"Lincoln Motor Car Works",
+4,
+[]
+],
+[
+"Jousset",
+4,
+[]
+],
+[
+"Trident Cars",
+4,
+[
+"Trident"
+]
+],
+[
+"Keinath",
+4,
+[]
+],
+[
+"Kerman Motor",
+4,
+[
+"Kerman Khodro",
+"Kerman Motor Company",
+"K.M.C",
+"KMC",
+"Modiran Pars"
+]
+],
+[
+"Kieft Cars",
+4,
+[]
+],
+[
+"Tourey",
+4,
+[]
+],
+[
+"Loryc vehicles",
+4,
+[]
+],
+[
+"Central Motors",
+4,
+[]
+],
+[
+"La Française Diamant",
+4,
+[]
+],
+[
+"Arden Automobilbau",
+4,
+[]
+],
+[
+"Micro Cars",
+4,
+[]
+],
+[
+"Lacoste & Battmann",
+4,
+[]
+],
+[
+"Addison",
+4,
+[]
+],
+[
+"RFW",
+4,
+[]
+],
+[
+"M2",
+4,
+[]
+],
+[
+"MAN Auto-Uzbekistan",
+4,
+[]
+],
+[
+"Malicet et Blin",
+4,
+[]
+],
+[
+"Marion-Handley",
+4,
+[]
+],
+[
+"Marlei",
+4,
+[]
+],
+[
+"Marr",
+4,
+[]
+],
+[
+"Martin Motors",
+4,
+[]
+],
+[
+"Spijkstaal",
+4,
+[]
+],
+[
+"Meyra",
+4,
+[]
+],
+[
+"Méray vehicles",
+4,
+[]
+],
+[
+"Falcon Motorsports",
+4,
+[]
+],
+[
+"Nacional Sitjes vehicles",
+4,
+[]
+],
+[
+"Nissan Motor Australia",
+4,
+[
+"Nissan Australia"
+]
+],
+[
+"Automotive Design and Development",
+4,
+[]
+],
+[
+"Antoine",
+4,
+[]
+],
+[
+"Atlantic",
+4,
+[]
+],
+[
+"Juwel",
+4,
+[]
+],
+[
+"Opperman",
+4,
+[]
+],
+[
+"Bouquet, Garcin & Schivre",
+4,
+[]
+],
+[
+"P. Morisse et Cie",
+4,
+[
+"Morisse"
+]
+],
+[
+"Pan-Car",
+4,
+[]
+],
+[
+"Pope-Tribune",
+4,
+[]
+],
+[
+"Renault Tanger Méditerranée",
+4,
+[]
+],
+[
+"Ricart vehicles",
+4,
+[]
+],
+[
+"Ricart-Espana vehicles",
+4,
+[]
+],
+[
+"Rolux",
+4,
+[]
+],
+[
+"Linser",
+4,
+[]
+],
+[
+"Ruska",
+4,
+[]
+],
+[
+"Itar",
+4,
+[]
+],
+[
+"Jakovlev & Frese vehicles",
+4,
+[]
+],
+[
+"S. Sandford",
+4,
+[]
+],
+[
+"Schacht",
+4,
+[]
+],
+[
+"Schuckert & Co.",
+4,
+[]
+],
+[
+"Secqueville-Hoyau",
+4,
+[]
+],
+[
+"Shanghai Wanfeng Auto Group",
+4,
+[]
+],
+[
+"Simplicia",
+4,
+[]
+],
+[
+"Steiger",
+4,
+[
+"Maschinenfabrik Walther Steiger & Co"
+]
+],
+[
+"Talbot-Darracq",
+4,
+[]
+],
+[
+"Ideal",
+4,
+[
+"Ideal (car brand)"
+]
+],
+[
+"Valveless",
+4,
+[]
+],
+[
+"Poncin vehicles",
+4,
+[]
+],
+[
+"Western Tool Works",
+4,
+[]
+],
+[
+"J-P Wimille",
+4,
+[]
+],
+[
+"Woodrow",
+4,
+[]
+],
+[
+"Albany",
+4,
+[]
+],
+[
+"AAG",
+4,
+[]
+],
+[
+"Doninvest",
+4,
+[]
+],
+[
+"Fonlupt",
+4,
+[]
+],
+[
+"Middleby Auto Company",
+4,
+[]
+],
+[
+"K-1 vehicles",
+4,
+[]
+],
+[
+"Etsong Vehicle Manufacturing",
+4,
+[]
+],
+[
+"Helios AG",
+4,
+[]
+],
+[
+"A. G. Alfieri",
+4,
+[]
+],
+[
+"Air Navigation and Engineering Company",
+4,
+[]
+],
+[
+"Compagnie Française de Matériel Ferroviaire",
+4,
+[
+"C.F.M.F.",
+"Monica"
+]
+],
+[
+"Pieper",
+4,
+[]
+],
+[
+"AG für Akkumulatoren- und Automobilbau",
+4,
+[]
+],
+[
+"AV Motors",
+4,
+[
+"AV"
+]
+],
+[
+"friction drive car",
+4,
+[
+"Abbey"
+]
+],
+[
+"Apollo",
+4,
+[
+"Chicago Recording Scale Company"
+]
+],
+[
+"Manta Cars",
+4,
+[]
+],
+[
+"Accles-Turrell",
+4,
+[]
+],
+[
+"Orion (Czech vehicle brand)",
+4,
+[
+"Vilém Michl, Továrna motorů, motorových kol a velocipedů, strojírna a slévárna"
+]
+],
+[
+"Ajax",
+4,
+[]
+],
+[
+"Luc Court",
+4,
+[]
+],
+[
+"Gatter Autowerk Reichstadt",
+4,
+[]
+],
+[
+"Helbé",
+4,
+[
+"Helbe"
+]
+],
+[
+"Custoca",
+4,
+[]
+],
+[
+"Kiitokori",
+4,
+[]
+],
+[
+"Atterbury vehicles",
+4,
+[]
+],
+[
+"Shawmut Motor Company",
+4,
+[]
+],
+[
+"Petropoulos",
+4,
+[]
+],
+[
+"Emporiki Autokiniton",
+4,
+[]
+],
+[
+"Autokinitoviomihania Ellados",
+4,
+[]
+],
+[
+"Altmann",
+4,
+[]
+],
+[
+"Guerry et Bourguignon",
+4,
+[]
+],
+[
+"Amazonas Motos Especiais",
+4,
+[]
+],
+[
+"ASA Aluminium Body",
+4,
+[
+"Nestor Salerno"
+]
+],
+[
+"American Motor Car Company",
+4,
+[]
+],
+[
+"Adams",
+4,
+[]
+],
+[
+"Alpena Flyer",
+4,
+[]
+],
+[
+"Amor",
+4,
+[]
+],
+[
+"America",
+4,
+[]
+],
+[
+"Amherst",
+4,
+[]
+],
+[
+"Aquila Racing Cars",
+4,
+[]
+],
+[
+"Ben Hur",
+4,
+[
+"Ben Hur Motor Company"
+]
+],
+[
+"Brew-Hatcher",
+4,
+[
+"B & H"
+]
+],
+[
+"Browniekar",
+4,
+[]
+],
+[
+"Buffalo",
+4,
+[]
+],
+[
+"Buffalo Electric Vehicle Company",
+4,
+[]
+],
+[
+"Buffalo Electric Carriage",
+4,
+[]
+],
+[
+"California Motor Company",
+4,
+[]
+],
+[
+"Clément-Talbot",
+4,
+[
+"Clement-Talbot"
+]
+],
+[
+"Commonwealth",
+4,
+[]
+],
+[
+"Commuter Cars",
+4,
+[]
+],
+[
+"Correja",
+4,
+[]
+],
+[
+"Covin",
+4,
+[]
+],
+[
+"Cutting",
+4,
+[]
+],
+[
+"Andre Py",
+4,
+[]
+],
+[
+"Deal",
+4,
+[]
+],
+[
+"Diar",
+4,
+[]
+],
+[
+"Elcar",
+4,
+[]
+],
+[
+"Electromobile",
+4,
+[]
+],
+[
+"Empire",
+4,
+[]
+],
+[
+"Falcon-Knight",
+4,
+[]
+],
+[
+"Ford Lio Ho Motor",
+4,
+[]
+],
+[
+"Fredonia",
+4,
+[]
+],
+[
+"Gardner Douglas",
+4,
+[]
+],
+[
+"Glasspar",
+4,
+[]
+],
+[
+"Traum vehicles",
+4,
+[]
+],
+[
+"Grade Automobilwerke",
+4,
+[]
+],
+[
+"Grinnall Specialist Cars",
+4,
+[]
+],
+[
+"Grivel",
+4,
+[]
+],
+[
+"Rollin Motors",
+4,
+[]
+],
+[
+"Stewart Motor Corporation",
+4,
+[]
+],
+[
+"Havers",
+4,
+[]
+],
+[
+"Chrysler Fevre Argentina S.A.",
+4,
+[]
+],
+[
+"Bungartz Butz",
+4,
+[]
+],
+[
+"Hoffman",
+4,
+[
+"Hoffman Automobile and Manufacturing Company"
+]
+],
+[
+"General Motors of Argentina",
+4,
+[
+"General Motors Argentina",
+"GM Argentina"
+]
+],
+[
+"Zakład Samochodów Dostawczych",
+4,
+[]
+],
+[
+"Dala7",
+4,
+[]
+],
+[
+"Iroquois Motor Car Company",
+4,
+[]
+],
+[
+"Imperia motorcycles",
+4,
+[]
+],
+[
+"James",
+4,
+[
+"J&M Motor Car Company"
+]
+],
+[
+"Joel-Rosenthal",
+4,
+[]
+],
+[
+"Ardex",
+4,
+[]
+],
+[
+"SGMW Motor Indonesia",
+4,
+[]
+],
+[
+"Liberty Motor Car",
+4,
+[]
+],
+[
+"Lion",
+4,
+[]
+],
+[
+"McIntyre Automobile",
+4,
+[]
+],
+[
+"Michigan",
+4,
+[]
+],
+[
+"Midland Motor Company",
+4,
+[]
+],
+[
+"Jack Sport",
+4,
+[
+"Utilia"
+]
+],
+[
+"National Sewing Machine Company",
+4,
+[]
+],
+[
+"Nelson",
+4,
+[]
+],
+[
+"Grofri",
+4,
+[]
+],
+[
+"Libelle",
+4,
+[]
+],
+[
+"Olympian",
+4,
+[]
+],
+[
+"Partin Manufacturing Company",
+4,
+[]
+],
+[
+"Paterson",
+4,
+[]
+],
+[
+"Penn",
+4,
+[]
+],
+[
+"Petters Limited",
+4,
+[]
+],
+[
+"Ashley Laminates",
+4,
+[]
+],
+[
+"Queen",
+4,
+[]
+],
+[
+"Reliable Dayton",
+4,
+[]
+],
+[
+"Renault España",
+4,
+[
+"Renault Spain"
+]
+],
+[
+"Scootacar",
+4,
+[]
+],
+[
+"Ronart Cars",
+4,
+[]
+],
+[
+"Roush Performance",
+4,
+[]
+],
+[
+"Royal Motor Company",
+4,
+[]
+],
+[
+"Russell Motor Car Company",
+4,
+[]
+],
+[
+"Sebring",
+4,
+[]
+],
+[
+"Atalanta Motors",
+4,
+[]
+],
+[
+"Ateliers Teixeira Automobiles",
+4,
+[]
+],
+[
+"Ateliers d’Automobiles et d’Aviation",
+4,
+[]
+],
+[
+"St. Louis Motor Company",
+4,
+[]
+],
+[
+"Stearns Steam Carriage Company",
+4,
+[]
+],
+[
+"Seagrave Fire Apparatus",
+4,
+[]
+],
+[
+"Toyota Kirloskar Motor Private Limited",
+4,
+[]
+],
+[
+"Auto-Mixte",
+4,
+[]
+],
+[
+"Twentieth Century Motor Car Corporation",
+4,
+[]
+],
+[
+"Autobleu",
+4,
+[]
+],
+[
+"Automeccanica",
+4,
+[]
+],
+[
+"FIF",
+4,
+[]
+],
+[
+"Orel vehicles",
+4,
+[]
+],
+[
+"Automobiles Rally",
+4,
+[]
+],
+[
+"Sigma (France) vehicles",
+4,
+[]
+],
+[
+"ASS",
+4,
+[
+"Automobiles Sans Soupapes"
+]
+],
+[
+"Vincke",
+4,
+[]
+],
+[
+"Perl vehicles",
+4,
+[]
+],
+[
+"Aurea",
+4,
+[]
+],
+[
+"Marino vehicles",
+4,
+[]
+],
+[
+"Autovia",
+4,
+[]
+],
+[
+"Avolette",
+4,
+[]
+],
+[
+"Wilson Automobile",
+4,
+[]
+],
+[
+"DZT Tymińscy",
+4,
+[]
+],
+[
+"Bell Brothers",
+4,
+[]
+],
+[
+"Brütsch",
+4,
+[]
+],
+[
+"Birchfield",
+4,
+[]
+],
+[
+"Champion",
+4,
+[]
+],
+[
+"Juho",
+4,
+[]
+],
+[
+"Szawe vehicles",
+4,
+[]
+],
+[
+"Bohse vehicles",
+4,
+[]
+],
+[
+"Bright Automotive",
+4,
+[]
+],
+[
+"Brossel Frères",
+4,
+[]
+],
+[
+"Apex Motors",
+4,
+[]
+],
+[
+"General Motors Japan",
+4,
+[
+"GM Japan"
+]
+],
+[
+"Krampers",
+4,
+[]
+],
+[
+"Albatros",
+4,
+[]
+],
+[
+"SiTech",
+4,
+[]
+],
+[
+"EVO",
+4,
+[
+"DR EVO"
+]
+],
+[
+"Sylva Autokits",
+4,
+[]
+],
+[
+"Sinogold",
+4,
+[]
+],
+[
+"Florentia",
+4,
+[]
+],
+[
+"Buckler Cars",
+4,
+[]
+],
+[
+"Buffaud & Robatel",
+3,
+[]
+],
+[
+"Bégot & Mazurie vehicles",
+3,
+[]
+],
+[
+"Bürstner vehicles",
+3,
+[]
+],
+[
+"Richardson vehicles",
+3,
+[]
+],
+[
+"Car-Nation",
+3,
+[]
+],
+[
+"Vemag",
+3,
+[
+"Veículos e Máquinas Agrícolas"
+]
+],
+[
+"Ceirano Fabbrica Automobili",
+3,
+[]
+],
+[
+"Weichai (Chongqing) Automotive",
+3,
+[
+"Chongqing Jialing Chuanjiang Automobile Manufacturing Co., Ltd"
+]
+],
+[
+"Nova Scotia Carriage and Motor Car Company",
+3,
+[]
+],
+[
+"Stellantis Australia",
+3,
+[
+"Chrysler Australia",
+"FCA Australia"
+]
+],
+[
+"Voiturettes Automobiles A.S.",
+3,
+[]
+],
+[
+"Cito Fahrradwerke",
+3,
+[]
+],
+[
+"Atlas Technologies B.V.",
+3,
+[
+"Atlas Technologies",
+"Lightyear"
+]
+],
+[
+"Buddy Electric",
+3,
+[
+"Electric Car Norway",
+"Pure Mobility"
+]
+],
+[
+"Cleveland",
+3,
+[
+"Cleveland Motor Car Company"
+]
+],
+[
+"Deliry & Fils",
+3,
+[
+"Colliot"
+]
+],
+[
+"Schaudel vehicles",
+3,
+[]
+],
+[
+"Stella vehicles",
+3,
+[]
+],
+[
+"Xenia",
+3,
+[]
+],
+[
+"KAN vehicles",
+3,
+[
+"K.A.N.",
+"KAN"
+]
+],
+[
+"Cooper Motor Corporation",
+3,
+[]
+],
+[
+"Corona",
+3,
+[
+"Corona-Werke"
+]
+],
+[
+"Comsove",
+3,
+[
+"CMSV"
+]
+],
+[
+"Crayford Engineering",
+3,
+[]
+],
+[
+"Crespelle automobiles",
+3,
+[]
+],
+[
+"Créanche vehicles",
+3,
+[]
+],
+[
+"Cyrano",
+3,
+[]
+],
+[
+"J. Valeš VAJA",
+3,
+[]
+],
+[
+"Rodae",
+3,
+[]
+],
+[
+"M. P. Moller Motor Car Company",
+3,
+[
+"Dagmar"
+]
+],
+[
+"Dalgliesh-Gullane",
+3,
+[]
+],
+[
+"Augé",
+3,
+[
+"Auge"
+]
+],
+[
+"Dansk",
+3,
+[]
+],
+[
+"Jidé",
+3,
+[
+"Jide"
+]
+],
+[
+"Max Motors",
+3,
+[]
+],
+[
+"Laffite Automobili",
+3,
+[]
+],
+[
+"Lech",
+3,
+[]
+],
+[
+"Davrian",
+3,
+[]
+],
+[
+"Day-Leeds",
+3,
+[]
+],
+[
+"Denis de Boisse",
+3,
+[]
+],
+[
+"De Cosmo vehicles",
+3,
+[]
+],
+[
+"De Wandre",
+3,
+[]
+],
+[
+"Deep Sanderson",
+3,
+[]
+],
+[
+"Deguingand",
+3,
+[]
+],
+[
+"Dehler vehicles",
+3,
+[]
+],
+[
+"Cirelli Motor Company",
+3,
+[]
+],
+[
+"Deutsche Licenz Tatra vehicles",
+3,
+[]
+],
+[
+"Vehicle Production Group",
+3,
+[]
+],
+[
+"Korn et Latil",
+3,
+[]
+],
+[
+"Diavolino vehicles",
+3,
+[]
+],
+[
+"Taylor-Dunn",
+3,
+[
+"Taylor-Dunn Manufacturing"
+]
+],
+[
+"Esperia vehicles",
+3,
+[]
+],
+[
+"Pilbeam Racing Designs",
+3,
+[]
+],
+[
+"Dominion Motors Frontenac",
+3,
+[]
+],
+[
+"Fimer",
+3,
+[]
+],
+[
+"La Minerve",
+3,
+[]
+],
+[
+"Stutz Motor Car of America",
+3,
+[]
+],
+[
+"Sautter-Harlé",
+3,
+[
+"Sautter & Lemonnier"
+]
+],
+[
+"Soar Automotive",
+3,
+[]
+],
+[
+"Dudly Bug",
+3,
+[]
+],
+[
+"Dupressoir",
+3,
+[]
+],
+[
+"Dux",
+3,
+[]
+],
+[
+"Marathon Motors Engineering",
+3,
+[]
+],
+[
+"E. B. Replicar vehicles",
+3,
+[]
+],
+[
+"Eurostar Automobilwerk",
+3,
+[]
+],
+[
+"Eagle Engineering",
+3,
+[
+"Eagle Engineering & Motor Company"
+]
+],
+[
+"Economic Motors",
+3,
+[]
+],
+[
+"Albar",
+3,
+[]
+],
+[
+"Timmis",
+3,
+[]
+],
+[
+"Werner Frères",
+3,
+[]
+],
+[
+"Röhr tractors",
+3,
+[]
+],
+[
+"Roger-Benz vehicles",
+3,
+[]
+],
+[
+"Berliner Maschinenfabrik Henschel & Co. GmbH",
+3,
+[]
+],
+[
+"Ateliers Defrance Frères",
+3,
+[
+"Elfe"
+]
+],
+[
+"Fiberfab",
+3,
+[]
+],
+[
+"Elitewagen vehicles",
+3,
+[]
+],
+[
+"Stéla vehicles",
+3,
+[]
+],
+[
+"Elswick",
+3,
+[]
+],
+[
+"Adamson",
+3,
+[
+"R. Barton Adamson & Co Ltd"
+]
+],
+[
+"Embo S.p.A.",
+3,
+[]
+],
+[
+"Entrop",
+3,
+[]
+],
+[
+"Esculape",
+3,
+[]
+],
+[
+"Estrima",
+3,
+[]
+],
+[
+"Europestar",
+3,
+[]
+],
+[
+"Barison & C.",
+3,
+[]
+],
+[
+"Fabbrica Automobili Oreste Garanzini",
+3,
+[
+"Garanzini"
+]
+],
+[
+"FIAM vehicles",
+3,
+[]
+],
+[
+"Ansbach",
+3,
+[]
+],
+[
+"Fairthorpe Cars",
+3,
+[]
+],
+[
+"Fal-Car",
+3,
+[]
+],
+[
+"Falcon Shells",
+3,
+[]
+],
+[
+"Weyher & Richemond vehicles",
+3,
+[]
+],
+[
+"Rossa Cars",
+3,
+[]
+],
+[
+"Fejes",
+3,
+[]
+],
+[
+"Ferbedo motorcycles",
+3,
+[]
+],
+[
+"Staunau",
+3,
+[]
+],
+[
+"Finlandia",
+3,
+[]
+],
+[
+"Flaid",
+3,
+[]
+],
+[
+"FTF Trucks",
+3,
+[]
+],
+[
+"Flyer",
+3,
+[]
+],
+[
+"FOD vehicles",
+3,
+[]
+],
+[
+"Foos Gas Engine Company",
+3,
+[]
+],
+[
+"Forward",
+3,
+[]
+],
+[
+"Fossum",
+3,
+[]
+],
+[
+"Foucher et Delachanal",
+3,
+[]
+],
+[
+"Lavie",
+3,
+[]
+],
+[
+"Antony vehicles",
+3,
+[]
+],
+[
+"Steyr-SSF",
+3,
+[
+"GD European Land Systems - Steyr GmbH"
+]
+],
+[
+"Friedmann-Knoller vehicles",
+3,
+[]
+],
+[
+"Ley vehicles",
+3,
+[]
+],
+[
+"Meadows Frisky",
+3,
+[]
+],
+[
+"Stephens",
+3,
+[]
+],
+[
+"GWK",
+3,
+[]
+],
+[
+"Aymesa",
+3,
+[]
+],
+[
+"Galba",
+3,
+[]
+],
+[
+"Galloway",
+3,
+[]
+],
+[
+"MMC Automotriz",
+3,
+[]
+],
+[
+"Gaylord Cars",
+3,
+[]
+],
+[
+"Gibbs",
+3,
+[]
+],
+[
+"Gilco vehicles",
+3,
+[]
+],
+[
+"Madelvic Motor Carriage Company",
+3,
+[]
+],
+[
+"Giotti Victoria",
+3,
+[]
+],
+[
+"Sovra vehicles",
+3,
+[]
+],
+[
+"Goujon",
+3,
+[]
+],
+[
+"Joswin",
+3,
+[]
+],
+[
+"Automobiles Tracta S.A.",
+3,
+[
+"Grégoire"
+]
+],
+[
+"Viratelle",
+3,
+[]
+],
+[
+"Solidor",
+3,
+[]
+],
+[
+"Kearns vehicles",
+3,
+[]
+],
+[
+"T.B. (Thompson Brothers)",
+3,
+[]
+],
+[
+"Léo vehicles",
+3,
+[]
+],
+[
+"Lifu vehicles",
+3,
+[]
+],
+[
+"Hanover",
+3,
+[
+"Hanover Motor Car Company"
+]
+],
+[
+"Alma",
+3,
+[
+"Alma (1926 automobile)",
+"Alma (French automobile)",
+"Alma (French car)",
+"Alma (car)",
+"Alma 6"
+]
+],
+[
+"Anton Rumpler",
+3,
+[]
+],
+[
+"Automobilwerk Walter Schätzle",
+3,
+[]
+],
+[
+"Carrosserie Worblaufen",
+3,
+[]
+],
+[
+"Flipper vehicles",
+3,
+[]
+],
+[
+"Martin vehicles",
+3,
+[]
+],
+[
+"Rotinoff Motors",
+3,
+[]
+],
+[
+"Rumpler-Werke",
+3,
+[]
+],
+[
+"Tomcar vehicles",
+3,
+[]
+],
+[
+"Société Bournhonet, Lerefait",
+3,
+[]
+],
+[
+"Vernet-Pairard",
+3,
+[]
+],
+[
+"Věchet a spol.",
+3,
+[]
+],
+[
+"Sinclair Motor Works",
+3,
+[]
+],
+[
+"Luther & Heyer vehicles",
+3,
+[]
+],
+[
+"Torpedo motorcycles",
+3,
+[]
+],
+[
+"Henney Motor Company",
+3,
+[]
+],
+[
+"Henriod vehicles",
+3,
+[]
+],
+[
+"Presto Works",
+3,
+[
+"Presto Works Guenther & Co"
+]
+],
+[
+"Karosseriewerke Weinsberg",
+3,
+[]
+],
+[
+"Premier Cheb",
+3,
+[]
+],
+[
+"Houlberg",
+3,
+[]
+],
+[
+"Hult Healey",
+3,
+[]
+],
+[
+"Hexe",
+3,
+[]
+],
+[
+"Neale (electric car)",
+3,
+[]
+],
+[
+"Hyundai Automotive South Africa",
+3,
+[]
+],
+[
+"Martaré vehicles",
+3,
+[]
+],
+[
+"Vilvoorde Renault Factory",
+3,
+[]
+],
+[
+"Vauxhall Luton",
+3,
+[]
+],
+[
+"Danvignes",
+3,
+[]
+],
+[
+"Intercamp",
+3,
+[]
+],
+[
+"La Va Bon Train",
+3,
+[]
+],
+[
+"Röck vehicles",
+3,
+[]
+],
+[
+"Daewoo Motor Polska",
+3,
+[]
+],
+[
+"Isuzu Truck South Africa",
+3,
+[
+"Isuzu Motors South Africa"
+]
+],
+[
+"JG Sport",
+3,
+[]
+],
+[
+"Dennis",
+3,
+[]
+],
+[
+"Berkeley",
+3,
+[]
+],
+[
+"Higgs \"Champion\" Car Syndicate",
+3,
+[]
+],
+[
+"Jean Gras",
+3,
+[]
+],
+[
+"Jeecy-Vea",
+3,
+[]
+],
+[
+"Jewell",
+3,
+[
+"Forest City Motor Company",
+"Jewell Motor Car Company"
+]
+],
+[
+"Malcolm Jones",
+3,
+[]
+],
+[
+"Volkswagen Australia",
+3,
+[]
+],
+[
+"Huffman Bros. Motor Co",
+3,
+[]
+],
+[
+"Holly",
+3,
+[]
+],
+[
+"Mohs",
+3,
+[]
+],
+[
+"King",
+3,
+[]
+],
+[
+"Tholomé",
+3,
+[
+"Tholome"
+]
+],
+[
+"Logan",
+3,
+[
+"Logan Construction Company"
+]
+],
+[
+"Huayang",
+3,
+[]
+],
+[
+"OTAS vehicles",
+3,
+[]
+],
+[
+"Ozamktas Özaltin Makina Otomotiv",
+3,
+[
+"Özaltin"
+]
+],
+[
+"Carl Jurisch Fahrwerkbau",
+3,
+[]
+],
+[
+"Karosseriebau Autenrieth",
+3,
+[]
+],
+[
+"Kelmark Engineering",
+3,
+[]
+],
+[
+"Kenter",
+3,
+[]
+],
+[
+"Kevah",
+3,
+[]
+],
+[
+"Pope-Toledo",
+3,
+[]
+],
+[
+"Koco vehicles",
+3,
+[]
+],
+[
+"Louis Chenard",
+3,
+[]
+],
+[
+"Moll vehicles",
+3,
+[]
+],
+[
+"Seoudi Group",
+3,
+[]
+],
+[
+"Scotte vehicles",
+3,
+[]
+],
+[
+"Motorette Corporation",
+3,
+[]
+],
+[
+"Kline Kar",
+3,
+[]
+],
+[
+"Società Torinese Automobili Elettrici",
+3,
+[
+"Societa Torinese Automobili Elettrici",
+"STAE"
+]
+],
+[
+"Kombat Armouring",
+3,
+[]
+],
+[
+"Kraftfahrzeugwerk \"Ernst Grube\" Werdau",
+3,
+[]
+],
+[
+"La Lorraine",
+3,
+[]
+],
+[
+"Heico Sportiv",
+3,
+[]
+],
+[
+"Le Blon",
+3,
+[]
+],
+[
+"NEMA-Werke",
+3,
+[]
+],
+[
+"Zeiller & Fournier",
+3,
+[]
+],
+[
+"LuWe",
+3,
+[]
+],
+[
+"La Ponette",
+3,
+[]
+],
+[
+"Luverne",
+3,
+[]
+],
+[
+"Luxior",
+3,
+[]
+],
+[
+"L'Ardennais",
+3,
+[]
+],
+[
+"Gatso vehicles",
+3,
+[]
+],
+[
+"MK Sportscars",
+3,
+[]
+],
+[
+"Maillard",
+3,
+[]
+],
+[
+"Majola",
+3,
+[]
+],
+[
+"Manderbach Fahrzeugbau",
+3,
+[]
+],
+[
+"Marauder Cars",
+3,
+[]
+],
+[
+"Marendaz",
+3,
+[]
+],
+[
+"Marion",
+3,
+[]
+],
+[
+"Dana",
+3,
+[]
+],
+[
+"Maximag",
+3,
+[]
+],
+[
+"McCurd",
+3,
+[]
+],
+[
+"Mercedes-Benz South Africa",
+3,
+[]
+],
+[
+"Michel Irat",
+3,
+[]
+],
+[
+"Midas Cars",
+3,
+[]
+],
+[
+"Mieusset vehicles",
+3,
+[]
+],
+[
+"Millot",
+3,
+[]
+],
+[
+"Motor Bob",
+3,
+[]
+],
+[
+"Baer (car)",
+3,
+[]
+],
+[
+"Heinle & Wegelin vehicles",
+3,
+[]
+],
+[
+"Nanceene",
+3,
+[]
+],
+[
+"Nu-Klea Starlite",
+3,
+[]
+],
+[
+"Newton-Bennett",
+3,
+[
+"Newton Bennett"
+]
+],
+[
+"Établissements Henry Précloux",
+3,
+[
+"E.H.P."
+]
+],
+[
+"Norsk Geijer",
+3,
+[]
+],
+[
+"Only automobiles",
+3,
+[]
+],
+[
+"Octo",
+3,
+[]
+],
+[
+"Meccanica Taraschi",
+3,
+[]
+],
+[
+"OTAV vehicles",
+3,
+[]
+],
+[
+"Otto Beckmann & Co",
+3,
+[]
+],
+[
+"Palmerston",
+3,
+[]
+],
+[
+"Paramount Cars",
+3,
+[]
+],
+[
+"Patriarca vehicles",
+3,
+[]
+],
+[
+"Petigars Prat Carrabin vehicles",
+3,
+[]
+],
+[
+"The Pick Motor Company",
+3,
+[]
+],
+[
+"Piedmont",
+3,
+[]
+],
+[
+"Poinard",
+3,
+[]
+],
+[
+"Ponts-Moteurs",
+3,
+[]
+],
+[
+"Prunel vehicles",
+3,
+[]
+],
+[
+"Quantum Sports Cars",
+3,
+[]
+],
+[
+"Raouval",
+3,
+[]
+],
+[
+"Red Star Auto",
+3,
+[]
+],
+[
+"Hermann Paus Maschinenfabrik",
+3,
+[]
+],
+[
+"Rhemag vehicles",
+3,
+[]
+],
+[
+"Rickett",
+3,
+[]
+],
+[
+"Robin Hood Engineering",
+3,
+[]
+],
+[
+"Robinson & Price",
+3,
+[]
+],
+[
+"Roding Automobile",
+3,
+[]
+],
+[
+"Rodley",
+3,
+[]
+],
+[
+"Ruby",
+3,
+[]
+],
+[
+"Ryjan",
+3,
+[]
+],
+[
+"Train vehicles",
+3,
+[]
+],
+[
+"SARA",
+3,
+[
+"Air-Cooled Automobile Company"
+]
+],
+[
+"Santax",
+3,
+[]
+],
+[
+"Scavas",
+3,
+[]
+],
+[
+"Baltijas Džips",
+3,
+[]
+],
+[
+"Searchmont Motor Company",
+3,
+[]
+],
+[
+"Blackjack Cars",
+3,
+[]
+],
+[
+"GTD vehicles",
+3,
+[]
+],
+[
+"Hudson",
+3,
+[]
+],
+[
+"Moss vehicles",
+3,
+[]
+],
+[
+"Securus",
+3,
+[]
+],
+[
+"Doré vehicles",
+3,
+[]
+],
+[
+"Électromotion vehicles",
+3,
+[]
+],
+[
+"Soncin",
+3,
+[]
+],
+[
+"Mercedes-Benz Argentina",
+3,
+[
+"Mercedes Benz Argentina"
+]
+],
+[
+"Southern Cross",
+3,
+[]
+],
+[
+"Baltcoach",
+3,
+[
+"Baltscan"
+]
+],
+[
+"Stearns-Knight",
+3,
+[]
+],
+[
+"Steinwinter",
+3,
+[]
+],
+[
+"Stevens vehicles",
+3,
+[]
+],
+[
+"Steyr-Werke",
+3,
+[]
+],
+[
+"De la Chapelle Frères et Compagnie",
+3,
+[
+"De la Chapelle Freres et Compagnie"
+]
+],
+[
+"Studillac",
+3,
+[]
+],
+[
+"Styl Kar",
+3,
+[]
+],
+[
+"Success Automobile Manufacturing Company",
+3,
+[]
+],
+[
+"Okamura Mikasa",
+3,
+[]
+],
+[
+"Suère",
+3,
+[
+"Suere"
+]
+],
+[
+"André",
+3,
+[
+"Andre"
+]
+],
+[
+"Tenting vehicles",
+3,
+[]
+],
+[
+"Spaulding Manufacturing Company",
+3,
+[]
+],
+[
+"Tincher",
+3,
+[]
+],
+[
+"Tony Huber",
+3,
+[]
+],
+[
+"Tourand vehicles",
+3,
+[]
+],
+[
+"Start vehicles",
+3,
+[]
+],
+[
+"Toyota Kenya",
+3,
+[]
+],
+[
+"Tribelhorn",
+3,
+[]
+],
+[
+"Triouleyre",
+3,
+[]
+],
+[
+"Truffault vehicles",
+3,
+[]
+],
+[
+"Mathieu vehicles",
+3,
+[]
+],
+[
+"JMC Yusheng",
+3,
+[]
+],
+[
+"Vermorel",
+3,
+[]
+],
+[
+"Carmichael",
+3,
+[
+"SIG",
+"SIMON CARMICHAEL INTERNATIONAL GROUP LIMITED",
+"YONGQIANG-CARMICHAEL TECHNOLOGY LIMITED"
+]
+],
+[
+"Volugrafo",
+3,
+[
+"Volugrafo vehicles"
+]
+],
+[
+"Vulcan",
+3,
+[]
+],
+[
+"M. et A. Dulac",
+3,
+[]
+],
+[
+"Shanghai Auto Works",
+3,
+[]
+],
+[
+"Qinchuan Auto",
+3,
+[]
+],
+[
+"Wales & Edwards",
+3,
+[]
+],
+[
+"Waukesha Engines",
+3,
+[]
+],
+[
+"Waverley Cars",
+3,
+[]
+],
+[
+"Wendax",
+3,
+[]
+],
+[
+"Wenkelmobil",
+3,
+[]
+],
+[
+"Äskulap",
+3,
+[]
+],
+[
+"Willowvale Motor Industries",
+3,
+[]
+],
+[
+"Basil Green Motors",
+3,
+[]
+],
+[
+"Izuogu Z-600",
+3,
+[]
+],
+[
+"ČAS (car)",
+3,
+[]
+],
+[
+"Alda",
+3,
+[]
+],
+[
+"Alesbury",
+3,
+[]
+],
+[
+"Alfgang",
+3,
+[]
+],
+[
+"AKA (car)",
+3,
+[]
+],
+[
+"Allard & Co",
+3,
+[
+"Allard"
+]
+],
+[
+"Renault Factory of Algeria",
+3,
+[]
+],
+[
+"Jaroslav Šibrava, Továrna motorových vozidel",
+3,
+[]
+],
+[
+"AEM (1924 automobile)",
+3,
+[]
+],
+[
+"BMW South Africa",
+3,
+[]
+],
+[
+"Obus",
+3,
+[]
+],
+[
+"Citroën Chile",
+3,
+[]
+],
+[
+"Stelka",
+3,
+[]
+],
+[
+"AB Atlas",
+3,
+[]
+],
+[
+"Honda Australia",
+3,
+[
+"Honda of Australia"
+]
+],
+[
+"Baby Silvestre vehicles",
+3,
+[]
+],
+[
+"Heinis",
+3,
+[]
+],
+[
+"Dotto Trains",
+3,
+[]
+],
+[
+"Aaglander",
+3,
+[]
+],
+[
+"Daimler Manufacturing Company",
+3,
+[
+"Daimler USA",
+"USA Daimler"
+]
+],
+[
+"Fiat Automóveis",
+3,
+[]
+],
+[
+"Corbin Motors",
+3,
+[]
+],
+[
+"Classic Motor Carriages",
+3,
+[
+"CMC"
+]
+],
+[
+"Gatsby vehicles",
+3,
+[]
+],
+[
+"Commuter Vehicles",
+3,
+[]
+],
+[
+"Able",
+3,
+[]
+],
+[
+"Tilbury vehicles",
+3,
+[]
+],
+[
+"GM Uzbekistan",
+3,
+[]
+],
+[
+"Austro",
+3,
+[]
+],
+[
+"Bock & Hollender",
+3,
+[]
+],
+[
+"Westcott automobile",
+3,
+[]
+],
+[
+"Italcar",
+3,
+[]
+],
+[
+"Skeoch",
+3,
+[]
+],
+[
+"Africar",
+3,
+[]
+],
+[
+"S.R. Bailey & Co.",
+3,
+[]
+],
+[
+"Ailloud",
+3,
+[]
+],
+[
+"Richard-Brasier",
+3,
+[]
+],
+[
+"ReVere Motor Car Corporation",
+3,
+[
+"Revere",
+"ReVere"
+]
+],
+[
+"The Adams Brothers Company",
+3,
+[]
+],
+[
+"American",
+3,
+[]
+],
+[
+"Ales",
+3,
+[]
+],
+[
+"Amiot-Péneau",
+3,
+[
+"Amiot",
+"Amiot et Peneau",
+"Amiot et Péneau",
+"Amiot-Peneau"
+]
+],
+[
+"Allen",
+3,
+[]
+],
+[
+"American Napier",
+3,
+[]
+],
+[
+"American Steam Car",
+3,
+[]
+],
+[
+"American Tri-Car",
+3,
+[]
+],
+[
+"Ames",
+3,
+[]
+],
+[
+"Anchor Buggy",
+3,
+[]
+],
+[
+"Anderson",
+3,
+[]
+],
+[
+"Argonne",
+3,
+[]
+],
+[
+"Arkley",
+3,
+[]
+],
+[
+"Arrow",
+3,
+[
+"M. C. Whitmore Company"
+]
+],
+[
+"Astra",
+3,
+[]
+],
+[
+"Atla",
+3,
+[]
+],
+[
+"Atlas",
+3,
+[]
+],
+[
+"Atlas Motor Car Company",
+3,
+[]
+],
+[
+"Reber Manufacturing Company",
+3,
+[]
+],
+[
+"Attila",
+3,
+[]
+],
+[
+"Autoette",
+3,
+[]
+],
+[
+"Bachelle Electric",
+3,
+[]
+],
+[
+"Saehan",
+3,
+[]
+],
+[
+"Belmont",
+3,
+[]
+],
+[
+"Benham",
+3,
+[]
+],
+[
+"Beisel",
+3,
+[]
+],
+[
+"Binghamton Electric",
+3,
+[]
+],
+[
+"Binney & Burnham",
+3,
+[]
+],
+[
+"Bourassa",
+3,
+[]
+],
+[
+"Bradley",
+3,
+[]
+],
+[
+"Brooks Steam Motors",
+3,
+[]
+],
+[
+"California Automobile Company",
+3,
+[]
+],
+[
+"Campbell",
+3,
+[
+"Campbell Motor Car Company"
+]
+],
+[
+"Canda",
+3,
+[]
+],
+[
+"Cannon",
+3,
+[]
+],
+[
+"Car de Luxe",
+3,
+[]
+],
+[
+"Carhartt",
+3,
+[
+"Carhartt Automobile Corporation"
+]
+],
+[
+"Cavac",
+3,
+[]
+],
+[
+"Groninger vehicles",
+3,
+[]
+],
+[
+"Church-Field",
+3,
+[]
+],
+[
+"Clarkmobile",
+3,
+[]
+],
+[
+"Coates-Goshen",
+3,
+[]
+],
+[
+"Colonial",
+3,
+[]
+],
+[
+"Continental Automobile Manufacturing Company",
+3,
+[]
+],
+[
+"Crane & Breed",
+3,
+[]
+],
+[
+"Cricket",
+3,
+[]
+],
+[
+"De La Vergne",
+3,
+[]
+],
+[
+"De Mot",
+3,
+[]
+],
+[
+"De Schaum",
+3,
+[]
+],
+[
+"Desberon",
+3,
+[]
+],
+[
+"Detroit-Dearborn",
+3,
+[]
+],
+[
+"Detroit Cyclecar",
+3,
+[]
+],
+[
+"Arbenz vehicles",
+3,
+[]
+],
+[
+"Dingfelder",
+3,
+[]
+],
+[
+"Downing-Detroit",
+3,
+[]
+],
+[
+"Eagle Cars Limited",
+3,
+[]
+],
+[
+"M.L.B.",
+3,
+[]
+],
+[
+"Elgin",
+3,
+[]
+],
+[
+"Engler",
+3,
+[]
+],
+[
+"Etnyre",
+3,
+[]
+],
+[
+"Automobile Factory R. A. Smekal",
+3,
+[]
+],
+[
+"Excel",
+3,
+[]
+],
+[
+"Fabrica de Carrocerías Andres Nemer S.A",
+3,
+[
+"Facansa"
+]
+],
+[
+"Farner",
+3,
+[]
+],
+[
+"Fischer",
+3,
+[]
+],
+[
+"GM Defense",
+3,
+[]
+],
+[
+"Gareau",
+3,
+[]
+],
+[
+"Gaylord",
+3,
+[]
+],
+[
+"Gem",
+3,
+[]
+],
+[
+"George W. Davis Motor Car Company",
+3,
+[]
+],
+[
+"Ghia-Aigle",
+3,
+[]
+],
+[
+"Krastin Automobile Manufacturing Company",
+3,
+[]
+],
+[
+"Anker",
+3,
+[]
+],
+[
+"Gray-Dort Motors",
+3,
+[]
+],
+[
+"Gray",
+3,
+[]
+],
+[
+"Gray Light Car",
+3,
+[]
+],
+[
+"Greenleaf",
+3,
+[]
+],
+[
+"Samsung Motors",
+3,
+[]
+],
+[
+"Tata Zambia",
+3,
+[]
+],
+[
+"Halladay",
+3,
+[]
+],
+[
+"Hammer",
+3,
+[]
+],
+[
+"Handley-Knight",
+3,
+[]
+],
+[
+"Harvard",
+3,
+[]
+],
+[
+"Chrysler UK",
+3,
+[]
+],
+[
+"Herreshoff",
+3,
+[]
+],
+[
+"Hewitt-Lindstrom",
+3,
+[]
+],
+[
+"Hidley Steam Car",
+3,
+[]
+],
+[
+"Napoleon Motors Company",
+3,
+[]
+],
+[
+"Hitchcock",
+3,
+[]
+],
+[
+"Hobbie Accessible",
+3,
+[]
+],
+[
+"Ohio Electric Car Company",
+3,
+[]
+],
+[
+"Industria Argentina de Vehículos de Avanzada",
+3,
+[
+"IAVA"
+]
+],
+[
+"Pan-American Motor Company",
+3,
+[]
+],
+[
+"Industrias Eduardo Sal-Lari",
+3,
+[
+"IES"
+]
+],
+[
+"C.R. Patterson and Sons",
+3,
+[
+"C.R. Patterson and Sons Carriage Company",
+"C.R. Patterson, Son & Company",
+"C.R. Patterson & Sons",
+"Gallia Body Company",
+"Greenfield Bus Body Co.",
+"Greenfield Bus Body Company",
+"Patterson-Greenfield automobiles",
+"Patterson-Greenfield vehicles"
+]
+],
+[
+"Claude Delage",
+3,
+[]
+],
+[
+"Pilot Motor Car Company",
+3,
+[
+"Pilot"
+]
+],
+[
+"Roberts Motor Manufacturing Company",
+3,
+[
+"Roberts Motor Co.",
+"Roberts Motor Company",
+"Roberts Motors"
+]
+],
+[
+"Simplex Automobile Company",
+3,
+[]
+],
+[
+"Le Patron",
+3,
+[]
+],
+[
+"Juzan",
+3,
+[]
+],
+[
+"Kidder",
+3,
+[]
+],
+[
+"Koppin",
+3,
+[]
+],
+[
+"Lincoln",
+3,
+[]
+],
+[
+"Little Princess",
+3,
+[]
+],
+[
+"Lone Star",
+3,
+[]
+],
+[
+"Lyons-Knight",
+3,
+[]
+],
+[
+"MPM",
+3,
+[]
+],
+[
+"Maison Parisienne",
+3,
+[]
+],
+[
+"Marble-Swift",
+3,
+[]
+],
+[
+"Marie de Bagneux",
+3,
+[]
+],
+[
+"McBurnie",
+3,
+[]
+],
+[
+"Media",
+3,
+[]
+],
+[
+"Menominee",
+3,
+[]
+],
+[
+"Mitsubishi Motors North America",
+3,
+[
+"Mitsubishi North America",
+"Mitsubishi USA"
+]
+],
+[
+"Mobile Company of America",
+3,
+[]
+],
+[
+"Monocar",
+3,
+[]
+],
+[
+"Monroe",
+3,
+[]
+],
+[
+"Myers Motors",
+3,
+[]
+],
+[
+"Nichols and Shepard",
+3,
+[]
+],
+[
+"Nyberg Automobile",
+3,
+[]
+],
+[
+"Flint Automobile Company",
+3,
+[]
+],
+[
+"Pierce-Racine",
+3,
+[]
+],
+[
+"Asardo",
+3,
+[]
+],
+[
+"Ponsard-Ansaloni",
+3,
+[]
+],
+[
+"Pungs Finch",
+3,
+[
+"Pungs-Finch"
+]
+],
+[
+"Rauch and Lang",
+3,
+[]
+],
+[
+"Fabbrica Ligure Automobili Genova",
+3,
+[]
+],
+[
+"Ronn Motor Company",
+3,
+[
+"RMC"
+]
+],
+[
+"Ross",
+3,
+[]
+],
+[
+"Sandusky Automobile Company",
+3,
+[]
+],
+[
+"Alliance",
+3,
+[
+"Aiglon"
+]
+],
+[
+"Associated Vehicle Assemblers",
+3,
+[]
+],
+[
+"Aster Società Italiana Motori",
+3,
+[
+"Aster Societa Italiana Motori"
+]
+],
+[
+"Shawmobile",
+3,
+[]
+],
+[
+"Simplo",
+3,
+[]
+],
+[
+"Sipani",
+3,
+[]
+],
+[
+"Linon vehicles",
+3,
+[]
+],
+[
+"Sage vehicles",
+3,
+[]
+],
+[
+"Bovy vehicles",
+3,
+[]
+],
+[
+"Smith Automobile Company",
+3,
+[]
+],
+[
+"Stanwood",
+3,
+[]
+],
+[
+"Staver",
+3,
+[
+"Staver Motor Company"
+]
+],
+[
+"Steamobile Company of America",
+3,
+[]
+],
+[
+"Mercury",
+3,
+[]
+],
+[
+"The Great Horseless Carriage Company",
+3,
+[]
+],
+[
+"Tilling-Stevens",
+3,
+[]
+],
+[
+"Toyota Motor Engineering & Manufacturing North America",
+3,
+[
+"TEMA",
+"Toyota Motor Engineering & Manufacturing North America, Inc.  (Plano, TX)"
+]
+],
+[
+"Toyota Motor Manufacturing Mississippi",
+3,
+[
+"TMMMS"
+]
+],
+[
+"Travco",
+3,
+[]
+],
+[
+"Bardon",
+3,
+[]
+],
+[
+"Astatic",
+3,
+[]
+],
+[
+"Automobiles Belgica",
+3,
+[]
+],
+[
+"Automobiles Boitel",
+3,
+[]
+],
+[
+"Automobiles Claveau",
+3,
+[]
+],
+[
+"Automobiles Impetus",
+3,
+[]
+],
+[
+"Automobiles Julien",
+3,
+[]
+],
+[
+"Automobiles Lambert",
+3,
+[]
+],
+[
+"Automobiles Marathon",
+3,
+[]
+],
+[
+"Societé Générale des Voitures Automobiles Otto",
+3,
+[
+"Societe Generale des Voitures Automobiles Otto"
+]
+],
+[
+"Porthos vehicles",
+3,
+[]
+],
+[
+"Automobiles Rossel",
+3,
+[]
+],
+[
+"Villard",
+3,
+[]
+],
+[
+"Automobiles Vinet",
+3,
+[]
+],
+[
+"Automobiles Westinghouse",
+3,
+[
+"Societe Anonyme Westinghouse",
+"Société Anonyme Westinghouse",
+"Société des Automobiles Westinghouse"
+]
+],
+[
+"Automobilfabrik Orion",
+3,
+[]
+],
+[
+"Autozodiaco",
+3,
+[]
+],
+[
+"BMA",
+3,
+[]
+],
+[
+"BMW Manufacturing (Thailand)",
+3,
+[]
+],
+[
+"Wayne Corporation",
+3,
+[]
+],
+[
+"Baguley Cars",
+3,
+[]
+],
+[
+"Baille-Lemaire",
+3,
+[]
+],
+[
+"Bailleau",
+3,
+[]
+],
+[
+"Baja vehicles",
+3,
+[]
+],
+[
+"Yorkshire Patent Steam Wagon Co.",
+3,
+[]
+],
+[
+"Bangchan General Assembly",
+3,
+[]
+],
+[
+"Zoe Motors",
+3,
+[]
+],
+[
+"Bessemer Motor Truck Company",
+3,
+[]
+],
+[
+"Ford Ireland",
+3,
+[
+"Henry Ford & Son Ltd"
+]
+],
+[
+"Toyota Ireland",
+3,
+[]
+],
+[
+"Baudier vehicles",
+3,
+[]
+],
+[
+"Beauford automobiles",
+3,
+[]
+],
+[
+"Bel Motors",
+3,
+[]
+],
+[
+"Bentall vehicles",
+3,
+[
+"Bentall",
+"E. H. Bentall & Co"
+]
+],
+[
+"Bergmann-Metallurgique",
+3,
+[]
+],
+[
+"Bermuda Buggy vehicles",
+3,
+[]
+],
+[
+"Alan",
+3,
+[]
+],
+[
+"Pawi",
+3,
+[]
+],
+[
+"Bij 't Vuur",
+3,
+[]
+],
+[
+"De Bruyne vehicles",
+3,
+[]
+],
+[
+"Wolseley-Siddeley",
+3,
+[]
+],
+[
+"Warwick vehicles",
+3,
+[]
+],
+[
+"Black Baron",
+3,
+[]
+],
+[
+"Black Motor Company",
+3,
+[]
+],
+[
+"Bluebird Automotive",
+3,
+[]
+],
+[
+"Bocar",
+3,
+[]
+],
+[
+"Bonneville",
+3,
+[]
+],
+[
+"Bozier vehicles",
+3,
+[]
+],
+[
+"Bradley Automotive",
+3,
+[]
+],
+[
+"Brems",
+3,
+[]
+],
+[
+"Britannia",
+3,
+[]
+],
+[
+"Briton Motor Company",
+3,
+[]
+],
+[
+"Delecroix",
+3,
+[]
+],
+[
+"Brooke Cars",
+3,
+[]
+],
+[
+"Divolvo",
+3,
+[]
+],
+[
+"GAC Motor",
+3,
+[
+"GAC Trumpchi"
+]
+],
+[
+"Altona vehicles",
+3,
+[]
+],
+[
+"Keohwa",
+3,
+[]
+],
+[
+"ElectroMobility Poland",
+3,
+[]
+],
+[
+"Toyota Motor Manufacturing Russia",
+3,
+[
+"TMMR"
+]
+],
+[
+"Buchanan",
+3,
+[]
+],
+[
+"Bugatti & Gulinelli",
+2,
+[]
+],
+[
+"Buggy-Center-Hamburg G. Kühn GmbH",
+2,
+[]
+],
+[
+"Buggy Autodynamisch Centrum vehicles",
+2,
+[]
+],
+[
+"Bush",
+2,
+[]
+],
+[
+"Busse Elektromobil-Bau",
+2,
+[]
+],
+[
+"Butterosi",
+2,
+[]
+],
+[
+"C.V.R.",
+2,
+[]
+],
+[
+"Hugot vehicles",
+2,
+[]
+],
+[
+"CN vehicles",
+2,
+[]
+],
+[
+"Carcano",
+2,
+[]
+],
+[
+"Leontina vehicles",
+2,
+[]
+],
+[
+"Carthago Reisemobilbau",
+2,
+[
+"Carthago"
+]
+],
+[
+"Celer vehicles",
+2,
+[]
+],
+[
+"Stellantis France",
+2,
+[]
+],
+[
+"Charles Montier et Cie",
+2,
+[
+"Charles Montier & Co."
+]
+],
+[
+"Hare's Motors",
+2,
+[]
+],
+[
+"Charon vehicles",
+2,
+[]
+],
+[
+"Officina Meccanica della Stanga",
+2,
+[]
+],
+[
+"Scania-Bussar",
+2,
+[
+"SKV",
+"Svenska Karosseri Verkstäderna"
+]
+],
+[
+"Premier Cycle Company",
+2,
+[]
+],
+[
+"Eshelman",
+2,
+[]
+],
+[
+"Chevallier",
+2,
+[]
+],
+[
+"Chic Cars",
+2,
+[
+"Chic Cars Ltd."
+]
+],
+[
+"Christiansen",
+2,
+[]
+],
+[
+"Chriton vehicles",
+2,
+[]
+],
+[
+"Civelli de Bosch et Cie",
+2,
+[]
+],
+[
+"Adaptive City Mobility",
+2,
+[
+"ACM City"
+]
+],
+[
+"Janßen vehicles",
+2,
+[]
+],
+[
+"Cockborne, Lehucher et da Costa",
+2,
+[]
+],
+[
+"Cognet de Seynes",
+2,
+[]
+],
+[
+"Colani vehicles",
+2,
+[]
+],
+[
+"Colt Runabout",
+2,
+[]
+],
+[
+"Columbus Motor Vehicle Company",
+2,
+[]
+],
+[
+"Comet vehicles",
+2,
+[]
+],
+[
+"Duhanot vehicles",
+2,
+[]
+],
+[
+"CID vehicles",
+2,
+[]
+],
+[
+"Citroën Argentina",
+2,
+[
+"Citroen Argentina"
+]
+],
+[
+"Stellantis Argentina",
+2,
+[]
+],
+[
+"Cornilleau",
+2,
+[
+"Automobiles Cornilleau"
+]
+],
+[
+"Cornu",
+2,
+[]
+],
+[
+"Coronet vehicles",
+2,
+[]
+],
+[
+"Courier Car Co",
+2,
+[]
+],
+[
+"Cumbria Motors",
+2,
+[]
+],
+[
+"Bell",
+2,
+[]
+],
+[
+"Major cyclecars",
+2,
+[]
+],
+[
+"Cycles et Automobiles C. Lefebvre et Cie",
+2,
+[]
+],
+[
+"Gryff vehicles",
+2,
+[]
+],
+[
+"Cygnus vehicles",
+2,
+[]
+],
+[
+"DCA",
+2,
+[]
+],
+[
+"Dewcar",
+2,
+[]
+],
+[
+"Beijing Henrey Automobile Technology",
+2,
+[]
+],
+[
+"Weez",
+2,
+[
+"Eon Motors"
+]
+],
+[
+"Munro Vehicles",
+2,
+[]
+],
+[
+"One Wheel Truck",
+2,
+[
+"One Wheel Truck Co."
+]
+],
+[
+"De Cézac",
+2,
+[
+"De Cezac"
+]
+],
+[
+"De Dietrich vehicles",
+2,
+[]
+],
+[
+"De Vaux",
+2,
+[]
+],
+[
+"H. Deckert",
+2,
+[]
+],
+[
+"Scania Production Słupsk",
+2,
+[]
+],
+[
+"Delfino",
+2,
+[
+"Barnet Shell",
+"Delfino Cars"
+]
+],
+[
+"Demeester vehicles",
+2,
+[]
+],
+[
+"Lahden Autokori",
+2,
+[
+"Lahden Buses & Coaches",
+"Lahti"
+]
+],
+[
+"Design by Ulf",
+2,
+[]
+],
+[
+"Militem",
+2,
+[]
+],
+[
+"Neta Auto",
+2,
+[]
+],
+[
+"Deutsche Motorfahrzeugfabrik GmbH",
+2,
+[]
+],
+[
+"Diabolo vehicles",
+2,
+[]
+],
+[
+"Ditmar & Urban",
+2,
+[
+"Ditmar & Urban vehicles"
+]
+],
+[
+"Yank",
+2,
+[]
+],
+[
+"Balkan (factory)",
+2,
+[]
+],
+[
+"Aabenraa Karrosseri",
+2,
+[]
+],
+[
+"Multiplex Manufacturing Company",
+2,
+[
+"Crispin Multiplex Manufacturing Company"
+]
+],
+[
+"Fabryka Samochodów Osobowych \"Syrena\" w Kutnie",
+2,
+[]
+],
+[
+"Harper Sports Cars",
+2,
+[]
+],
+[
+"Fischer vehicles",
+2,
+[]
+],
+[
+"Ledl vehicles",
+2,
+[]
+],
+[
+"Dubonnet",
+2,
+[]
+],
+[
+"Ducroiset vehicles",
+2,
+[]
+],
+[
+"Albrecht vehicles",
+2,
+[]
+],
+[
+"Durey-Sohy vehicles",
+2,
+[]
+],
+[
+"Dyna Automobil-Import und -Export",
+2,
+[]
+],
+[
+"D'Aoust (automobile)",
+2,
+[]
+],
+[
+"E-Volution Jetflyer",
+2,
+[]
+],
+[
+"E.N.V. Motor Syndicate",
+2,
+[]
+],
+[
+"Hollier",
+2,
+[]
+],
+[
+"E.I.M. vehicles",
+2,
+[]
+],
+[
+"S.A. San Giusto",
+2,
+[]
+],
+[
+"EcoCraft Automotive",
+2,
+[]
+],
+[
+"Egger-Lohner",
+2,
+[]
+],
+[
+"Pope-Robinson",
+2,
+[]
+],
+[
+"Chery Holding",
+2,
+[]
+],
+[
+"Aletra",
+2,
+[
+"PT Aletra Mobil Nusantara"
+]
+],
+[
+"Gitane",
+2,
+[]
+],
+[
+"Spinell vehicles",
+2,
+[]
+],
+[
+"Nègre vehicles",
+2,
+[]
+],
+[
+"Gendron & Michelot",
+2,
+[
+"Gendron & Cie",
+"G.M. automobiles"
+]
+],
+[
+"El-Trans vehicles",
+2,
+[]
+],
+[
+"Ajax Motors Company",
+2,
+[
+"Ajax"
+]
+],
+[
+"Lexington Motor Company",
+2,
+[
+"Lexington"
+]
+],
+[
+"Pathfinder Company",
+2,
+[
+"Motor Car Manufacturing Company",
+"Parry Auto Company"
+]
+],
+[
+"Eureka Motor Car Manufacturing Company",
+2,
+[
+"Eureka",
+"Eureka Motor Buggy Company"
+]
+],
+[
+"Hal Motor Car Company",
+2,
+[
+"H. A. Lozier Company"
+]
+],
+[
+"Elisar vehicles",
+2,
+[]
+],
+[
+"Elite vehicles",
+2,
+[]
+],
+[
+"Emeraude",
+2,
+[]
+],
+[
+"Moteurs Reinhard",
+2,
+[]
+],
+[
+"English Mechanic vehicles",
+2,
+[]
+],
+[
+"Ensinger",
+2,
+[]
+],
+[
+"Marden vehicles",
+2,
+[]
+],
+[
+"JuneYao Auto",
+2,
+[]
+],
+[
+"Erla",
+2,
+[]
+],
+[
+"Mecca vehicles",
+2,
+[]
+],
+[
+"Zilang Auto",
+2,
+[]
+],
+[
+"SAG vehicles",
+2,
+[]
+],
+[
+"Lambert",
+2,
+[]
+],
+[
+"Euramobil vehicles",
+2,
+[]
+],
+[
+"Eureka",
+2,
+[]
+],
+[
+"Européenne vehicles",
+2,
+[]
+],
+[
+"Pichon et Parat",
+2,
+[
+"Pichon-Parat"
+]
+],
+[
+"Bako Motors",
+2,
+[]
+],
+[
+"Wright Flexible Axle Motors",
+2,
+[
+"Wright Flexible Axle Motors Ltd"
+]
+],
+[
+"Fiam vehicles",
+2,
+[]
+],
+[
+"FIM vehicles",
+2,
+[]
+],
+[
+"Fabryka Samochodów Gepard",
+2,
+[]
+],
+[
+"Reyonnah",
+2,
+[]
+],
+[
+"Libéria",
+2,
+[
+"Liberia"
+]
+],
+[
+"Hurst vehicles",
+2,
+[]
+],
+[
+"Fahrzeugfabrik Kannenberg",
+2,
+[
+"FAKA"
+]
+],
+[
+"Falcon vehicles",
+2,
+[]
+],
+[
+"Faure vehicles",
+2,
+[]
+],
+[
+"Miller-Meteor",
+2,
+[]
+],
+[
+"Rigal",
+2,
+[]
+],
+[
+"Fenton vehicles",
+2,
+[]
+],
+[
+"Dougill",
+2,
+[]
+],
+[
+"Fisson vehicles",
+2,
+[]
+],
+[
+"Gobron vehicles",
+2,
+[]
+],
+[
+"Vixen vehicles",
+2,
+[]
+],
+[
+"Flanders Manufacturing Company",
+2,
+[]
+],
+[
+"Norsk",
+2,
+[]
+],
+[
+"Ford of South Africa",
+2,
+[
+"Ford Motor Company of Southern Africa",
+"Ford South Africa"
+]
+],
+[
+"Ford Vietnam Limited",
+2,
+[
+"Ford of Vietnam"
+]
+],
+[
+"France Jet Motors",
+2,
+[]
+],
+[
+"Truelle et Compagnie",
+2,
+[
+"Françon"
+]
+],
+[
+"Ceirano vehicles",
+2,
+[]
+],
+[
+"Marca-Tre-Spade",
+2,
+[]
+],
+[
+"Strømmen-Dodge vehicles",
+2,
+[]
+],
+[
+"Ockelbo",
+2,
+[]
+],
+[
+"Freia-Automobil",
+2,
+[]
+],
+[
+"Ache vehicles",
+2,
+[]
+],
+[
+"Gebr. Kaiser",
+2,
+[]
+],
+[
+"Friedrich Erdmann",
+2,
+[]
+],
+[
+"Reyrol vehicles",
+2,
+[]
+],
+[
+"Gauthier vehicles",
+2,
+[]
+],
+[
+"Fuller Buggy Company",
+2,
+[]
+],
+[
+"Giad Auto",
+2,
+[]
+],
+[
+"Féron et Vibert",
+2,
+[]
+],
+[
+"Křižík Works",
+2,
+[]
+],
+[
+"Zato vehicles",
+2,
+[]
+],
+[
+"G.E.M.",
+2,
+[]
+],
+[
+"Austro-Adler vehicles",
+2,
+[]
+],
+[
+"Bohrer vehicles",
+2,
+[]
+],
+[
+"ESA vehicles",
+2,
+[]
+],
+[
+"Krauseco vehicles",
+2,
+[]
+],
+[
+"Wyner vehicles",
+2,
+[]
+],
+[
+"Garbaty",
+2,
+[]
+],
+[
+"Gasi Motorradwagen Gesellschaft mbH",
+2,
+[]
+],
+[
+"Génestin vehicles",
+2,
+[]
+],
+[
+"Geering",
+2,
+[]
+],
+[
+"Guerraz",
+2,
+[]
+],
+[
+"Gesellschaft für Automobilwagenbau System Loutzky",
+2,
+[
+"Loutzky"
+]
+],
+[
+"Volkswagen Motor Polska",
+2,
+[
+"VOLKSWAGEN MOTOR POLSKA SP. Z O.O."
+]
+],
+[
+"Glöckler-Porsche",
+2,
+[]
+],
+[
+"Westcoaster vehicles",
+2,
+[]
+],
+[
+"Alamagny",
+2,
+[]
+],
+[
+"Grewe & Schulte-Derne vehicles",
+2,
+[]
+],
+[
+"Greyhound vehicles",
+2,
+[]
+],
+[
+"Griffith vehicles",
+2,
+[]
+],
+[
+"Kölner Motorenfabrik vehicles",
+2,
+[]
+],
+[
+"Imp vehicles",
+2,
+[]
+],
+[
+"Jouvie",
+2,
+[]
+],
+[
+"Carrosserie Schebera GmbH",
+2,
+[]
+],
+[
+"All Cars vehicles",
+2,
+[]
+],
+[
+"Lost Cause Motors",
+2,
+[]
+],
+[
+"Graziosa Fahrradwerke Benedict Albl",
+2,
+[]
+],
+[
+"Jeanperrin vehicles",
+2,
+[]
+],
+[
+"Hallamshire",
+2,
+[]
+],
+[
+"Suffolk vehicles",
+2,
+[]
+],
+[
+"Ram vehicles",
+2,
+[]
+],
+[
+"Bramwith vehicles",
+2,
+[]
+],
+[
+"Hammonia vehicles",
+2,
+[]
+],
+[
+"Lutzmann vehicles",
+2,
+[]
+],
+[
+"Delta Motor Corporation",
+2,
+[]
+],
+[
+"Ratier vehicles",
+2,
+[]
+],
+[
+"Avis vehicles",
+2,
+[]
+],
+[
+"BRM",
+2,
+[]
+],
+[
+"BSH vehicles",
+2,
+[]
+],
+[
+"Baja",
+2,
+[]
+],
+[
+"Cicostar vehicles",
+2,
+[]
+],
+[
+"Compagnie Française des Voitures Électromobiles",
+2,
+[]
+],
+[
+"Patin vehicles",
+2,
+[]
+],
+[
+"Doriot-Flandrin",
+2,
+[]
+],
+[
+"Aesculap vehicles",
+2,
+[]
+],
+[
+"Farcot et Olivier vehicles",
+2,
+[]
+],
+[
+"Fend vehicles",
+2,
+[]
+],
+[
+"Hobbycar",
+2,
+[]
+],
+[
+"Hotzenblitz vehicles",
+2,
+[]
+],
+[
+"Guédon vehicles",
+2,
+[]
+],
+[
+"GMT vehicles",
+2,
+[]
+],
+[
+"E 3 D vehicles",
+2,
+[]
+],
+[
+"Inzersdorfer Industriewerke AG Hans Fuchs",
+2,
+[]
+],
+[
+"Jewel",
+2,
+[]
+],
+[
+"Kikos vehicles",
+2,
+[]
+],
+[
+"Lenham vehicles",
+2,
+[]
+],
+[
+"MW vehicles",
+2,
+[]
+],
+[
+"Maschinen- und Waggonbau-Fabriks-Aktiengesellschaft in Simmering",
+2,
+[
+"Simmeringer Waggonfabrik"
+]
+],
+[
+"Hansa-Automobil",
+2,
+[]
+],
+[
+"Pilgrim vehicles",
+2,
+[]
+],
+[
+"Roussey Frères",
+2,
+[]
+],
+[
+"Klaus vehicles",
+2,
+[]
+],
+[
+"U-Wagen-Werke",
+2,
+[]
+],
+[
+"Boursaud vehicles",
+2,
+[]
+],
+[
+"Hardys KFZ-Service",
+2,
+[]
+],
+[
+"Vitrex vehicles",
+2,
+[]
+],
+[
+"WAF vehicles",
+2,
+[]
+],
+[
+"JL vehicles",
+2,
+[]
+],
+[
+"Delsaux vehicles",
+2,
+[]
+],
+[
+"HKT vehicles",
+2,
+[]
+],
+[
+"Mutel (engineering)",
+2,
+[]
+],
+[
+"Hataz vehicles",
+2,
+[]
+],
+[
+"General Electric Automobile Company",
+2,
+[]
+],
+[
+"Hautier vehicles",
+2,
+[]
+],
+[
+"VEB Hebezeugwerk Sebnitz",
+2,
+[]
+],
+[
+"La Nef vehicles",
+2,
+[]
+],
+[
+"RMA Rheinau",
+2,
+[]
+],
+[
+"Savage GT",
+2,
+[]
+],
+[
+"SA Appareils Mécaniques et Engrenages",
+2,
+[
+"Hermes"
+]
+],
+[
+"HAG vehicles",
+2,
+[]
+],
+[
+"HS vehicles",
+2,
+[]
+],
+[
+"Hill & Stanier",
+2,
+[]
+],
+[
+"Hille-Werke",
+2,
+[]
+],
+[
+"Lepape vehicles",
+2,
+[]
+],
+[
+"Honda Manufacturing of Indiana",
+2,
+[
+"Indiana Auto Plant (IAP)"
+]
+],
+[
+"Honda de México",
+2,
+[]
+],
+[
+"Offord & Sons coachwork",
+2,
+[]
+],
+[
+"Hoosier Scout vehicles",
+2,
+[]
+],
+[
+"LMC Caravan",
+2,
+[]
+],
+[
+"Horstmann vehicles",
+2,
+[]
+],
+[
+"Hot Rod Doesburg vehicles",
+2,
+[]
+],
+[
+"Hyundai Precision Machine",
+2,
+[
+"Galloper",
+"HDPIC",
+"Hyundai Precision",
+"Hyundai Precision & Industry"
+]
+],
+[
+"Jean Piat vehicles",
+2,
+[]
+],
+[
+"Maschinenfabrik A. Flocken",
+2,
+[]
+],
+[
+"Imperial",
+2,
+[]
+],
+[
+"IENA",
+2,
+[
+"Industria Economica Nazionale Automobili di Tommasi & Rizzi",
+"Tommasi & Rizzi"
+]
+],
+[
+"Rochet vehicles",
+2,
+[]
+],
+[
+"Kewet Industri",
+2,
+[]
+],
+[
+"Omikron automobiles",
+2,
+[]
+],
+[
+"Napoleon vehicles",
+2,
+[]
+],
+[
+"Progetti Gestioni Ecologiche",
+2,
+[]
+],
+[
+"Isuzu Malaysia",
+2,
+[]
+],
+[
+"Isuzu Vietnam",
+2,
+[]
+],
+[
+"JBS vehicles",
+2,
+[]
+],
+[
+"Jacquot vehicles",
+2,
+[]
+],
+[
+"James Robertson",
+2,
+[]
+],
+[
+"Cremorne vehicles",
+2,
+[]
+],
+[
+"Janémian",
+2,
+[
+"Janemian"
+]
+],
+[
+"Electric Carriage & Wagon Company",
+2,
+[
+"E.C.W.C."
+]
+],
+[
+"Elieson vehicles",
+2,
+[]
+],
+[
+"Hugh Kennedy & Company",
+2,
+[]
+],
+[
+"C.AR",
+2,
+[]
+],
+[
+"Phébus vehicles",
+2,
+[]
+],
+[
+"Merkel Motor Company",
+2,
+[]
+],
+[
+"COURB",
+2,
+[]
+],
+[
+"Stanley Engineering Company",
+2,
+[]
+],
+[
+"FD vehicles",
+2,
+[]
+],
+[
+"Volk vehicles",
+2,
+[]
+],
+[
+"YEC",
+2,
+[]
+],
+[
+"Changhe Suzuki vehicles",
+2,
+[]
+],
+[
+"Read (automobile)",
+2,
+[]
+],
+[
+"Rex (automobile)",
+2,
+[]
+],
+[
+"Robie",
+2,
+[]
+],
+[
+"Princess",
+2,
+[]
+],
+[
+"Pilgrim",
+2,
+[]
+],
+[
+"UMAP vehicles",
+2,
+[]
+],
+[
+"Vaghi vehicles",
+2,
+[]
+],
+[
+"Le Métais vehicles",
+2,
+[]
+],
+[
+"Kersting-Modellbauwerkstätten",
+2,
+[]
+],
+[
+"Hoover Cyclecar",
+2,
+[]
+],
+[
+"John Fitch & Co.",
+2,
+[]
+],
+[
+"Erste Oeynhauser Krankenfahrzeug-Fabrik H. W. Voltmann",
+2,
+[
+"Westfalia"
+]
+],
+[
+"Ilinga",
+2,
+[]
+],
+[
+"Saïga vehicles",
+2,
+[]
+],
+[
+"LeRoy",
+2,
+[]
+],
+[
+"Virus",
+2,
+[]
+],
+[
+"Hotchkiss",
+2,
+[]
+],
+[
+"Jouffret",
+2,
+[]
+],
+[
+"UROVESA",
+2,
+[]
+],
+[
+"Harding vehicles",
+2,
+[]
+],
+[
+"Kaiser Fahrzeugbau vehicles",
+2,
+[]
+],
+[
+"Wilbrook",
+2,
+[]
+],
+[
+"Morel vehicles",
+2,
+[]
+],
+[
+"Karosseriewerke Otto Kühn",
+2,
+[]
+],
+[
+"Keller",
+2,
+[]
+],
+[
+"Foers",
+2,
+[]
+],
+[
+"Portland Cyclecar Company",
+2,
+[]
+],
+[
+"Special Vehicle Team",
+2,
+[]
+],
+[
+"NG Cars",
+2,
+[]
+],
+[
+"Rousson et Chamoix",
+2,
+[]
+],
+[
+"Komet",
+2,
+[]
+],
+[
+"Motoren-Werke Dessau",
+2,
+[]
+],
+[
+"Koch vehicles",
+2,
+[]
+],
+[
+"Kohlmus vehicles",
+2,
+[]
+],
+[
+"Komnick automobiles",
+2,
+[]
+],
+[
+"Kover vehicles",
+2,
+[]
+],
+[
+"Kurek vehicles",
+2,
+[]
+],
+[
+"Rational (Heatley-Gresham)",
+2,
+[]
+],
+[
+"Kässbohrer Transport Technik",
+2,
+[]
+],
+[
+"LMX vehicles",
+2,
+[]
+],
+[
+"LR Fahrzeugbau",
+2,
+[]
+],
+[
+"La Confortable",
+2,
+[]
+],
+[
+"La Joyeuse vehicles",
+2,
+[]
+],
+[
+"La Roulette",
+2,
+[]
+],
+[
+"Lambert & Cie",
+2,
+[]
+],
+[
+"Édouard Rossel",
+2,
+[
+"Edouard Rossel"
+]
+],
+[
+"Land Rover Aqaba Assembly Plant",
+2,
+[]
+],
+[
+"Hensen Automotive",
+2,
+[]
+],
+[
+"Kessler Motor Company",
+2,
+[]
+],
+[
+"Magali",
+2,
+[]
+],
+[
+"Landmaschinenbau Döbeln",
+2,
+[]
+],
+[
+"Laspougeas vehicles",
+2,
+[]
+],
+[
+"Laurence-Jackson",
+2,
+[]
+],
+[
+"Le Dauphin",
+2,
+[]
+],
+[
+"Le Favori",
+2,
+[]
+],
+[
+"Le Roitelet",
+2,
+[]
+],
+[
+"Tractobile vehicles",
+2,
+[]
+],
+[
+"Espenlaub",
+2,
+[]
+],
+[
+"American Quality Coach",
+2,
+[]
+],
+[
+"Logicar",
+2,
+[]
+],
+[
+"AC Automotive",
+2,
+[]
+],
+[
+"Lutèce",
+2,
+[
+"Lutece"
+]
+],
+[
+"Lux'sche Industriewerke",
+2,
+[]
+],
+[
+"L'Élégante vehicles",
+2,
+[]
+],
+[
+"MASE",
+2,
+[]
+],
+[
+"New Era",
+2,
+[]
+],
+[
+"Mahindra Renault Limited",
+2,
+[]
+],
+[
+"Malliary",
+2,
+[]
+],
+[
+"Marbais and Lasnier",
+2,
+[
+"Marbais et Lasnier"
+]
+],
+[
+"Marland vehicles",
+2,
+[]
+],
+[
+"Marshall vehicles",
+2,
+[]
+],
+[
+"Mascot 100 vehicles",
+2,
+[]
+],
+[
+"Merz vehicles",
+2,
+[]
+],
+[
+"GP vehicles",
+2,
+[]
+],
+[
+"Speedex Castings & Accessories",
+2,
+[]
+],
+[
+"Tourette vehicles",
+2,
+[]
+],
+[
+"Viking Performance vehicles",
+2,
+[]
+],
+[
+"Mignonette-Luap vehicles",
+2,
+[]
+],
+[
+"Monnier vehicles",
+2,
+[]
+],
+[
+"Mops",
+2,
+[]
+],
+[
+"Morgan & Company",
+2,
+[]
+],
+[
+"Motorenfabrik Magnet",
+2,
+[]
+],
+[
+"Murad (car)",
+2,
+[]
+],
+[
+"Mécanique et Moteurs",
+2,
+[
+"Mecanique et Moteurs"
+]
+],
+[
+"Nardini",
+2,
+[]
+],
+[
+"Zetgelette",
+2,
+[]
+],
+[
+"Jiangnan vehicles",
+2,
+[]
+],
+[
+"The British Four-wheel Drive Tractor Lorry Super Engineering Company",
+2,
+[]
+],
+[
+"Norden vehicles",
+2,
+[]
+],
+[
+"Nordwestdeutscher Fahrzeugbau",
+2,
+[]
+],
+[
+"Norfolk",
+2,
+[]
+],
+[
+"Norma Auto Concept",
+2,
+[
+"Duqueine Automotive"
+]
+],
+[
+"Lennartsfors AB",
+2,
+[]
+],
+[
+"Lucien Noël",
+2,
+[]
+],
+[
+"Noël Bénet vehicles",
+2,
+[]
+],
+[
+"Officine Meccaniche Torinesi vehicles",
+2,
+[]
+],
+[
+"Ford Netherlands",
+2,
+[]
+],
+[
+"Moskvitch",
+2,
+[]
+],
+[
+"Ouzou vehicles",
+2,
+[]
+],
+[
+"P. Vallée vehicles",
+2,
+[]
+],
+[
+"PCS vehicles",
+2,
+[]
+],
+[
+"Pagano vehicles",
+2,
+[]
+],
+[
+"Paul Speidel",
+2,
+[]
+],
+[
+"Paulet vehicles",
+2,
+[]
+],
+[
+"Pelland Engineering",
+2,
+[]
+],
+[
+"Petri + Lehr vehicles",
+2,
+[]
+],
+[
+"Peugeot-Croizat",
+2,
+[]
+],
+[
+"Victor Motors",
+2,
+[]
+],
+[
+"Phoenix",
+2,
+[]
+],
+[
+"Pinguin",
+2,
+[]
+],
+[
+"AMT vehicles",
+2,
+[]
+],
+[
+"Pivco vehicles",
+2,
+[]
+],
+[
+"Velox",
+2,
+[]
+],
+[
+"Prod'homme",
+2,
+[]
+],
+[
+"Prosper-Lambert vehicles",
+2,
+[]
+],
+[
+"Pöhlmann vehicles",
+2,
+[]
+],
+[
+"Qinhuangdao Jincheng Automobile Manufacture Company",
+2,
+[]
+],
+[
+"R.H. vehicles",
+2,
+[]
+],
+[
+"Avante Cars",
+2,
+[]
+],
+[
+"Adams Roadsters",
+2,
+[]
+],
+[
+"Edge Sportscars",
+2,
+[]
+],
+[
+"Asquith Brothers",
+2,
+[]
+],
+[
+"Real vehicles",
+2,
+[]
+],
+[
+"Rebour",
+2,
+[]
+],
+[
+"Regal",
+2,
+[]
+],
+[
+"Renault Nissan Automotive India Private Limited",
+2,
+[]
+],
+[
+"Swiss Buggy vehicles",
+2,
+[]
+],
+[
+"Rabag vehicles",
+2,
+[]
+],
+[
+"Phänomen",
+2,
+[
+"Gustav Hiller",
+"Hiller AG",
+"Kraftfahrzeugwerk Phänomen Zittau",
+"Phänomen-Fahrradwerke Gustav Hiller",
+"Phänomen-Werke",
+"Phänomen-Werke AG",
+"Phänomen-Werke Gustav Hiller",
+"Phänomenwerke Gustav Hiller AG",
+"Phänomen-Werke Gustav Hiller AG und firmierte zunächst bis 1957 als Volkseigener Betrieb (VEB) Kraftfahrzeugwerk Phänomen Zittau.",
+"VEB Kraftfahrzeugwerk Phänomen Zittau"
+]
+],
+[
+"Rhéda vehicles",
+2,
+[]
+],
+[
+"Rochdale Motor Panels and Engineering",
+2,
+[]
+],
+[
+"Ronteix",
+2,
+[]
+],
+[
+"Rootes Australia",
+2,
+[]
+],
+[
+"Roots vehicles",
+2,
+[]
+],
+[
+"Rouxel",
+2,
+[]
+],
+[
+"Royale vehicles",
+2,
+[]
+],
+[
+"Pyongsang Auto Works",
+2,
+[
+"Phyongnam General Machine Plant"
+]
+],
+[
+"S.C.A.R. vehicles",
+2,
+[]
+],
+[
+"Safir",
+2,
+[]
+],
+[
+"SATAM",
+2,
+[]
+],
+[
+"SOCEMA",
+2,
+[]
+],
+[
+"Saier vehicles",
+2,
+[]
+],
+[
+"Santler",
+2,
+[]
+],
+[
+"Saviano vehicles",
+2,
+[]
+],
+[
+"Timoney Technology Limited of Ireland",
+2,
+[]
+],
+[
+"SHW",
+2,
+[]
+],
+[
+"Scout Motors",
+2,
+[]
+],
+[
+"Secrétand vehicles",
+2,
+[]
+],
+[
+"A. F. vehicles",
+2,
+[]
+],
+[
+"AGM Sports Cars",
+2,
+[]
+],
+[
+"Alto vehicles",
+2,
+[]
+],
+[
+"Aquila Sports Cars",
+2,
+[]
+],
+[
+"Bouillot-Helsel vehicles",
+2,
+[]
+],
+[
+"BRA",
+2,
+[]
+],
+[
+"Bradley vehicles",
+2,
+[]
+],
+[
+"Brockmore Classic Replicas",
+2,
+[]
+],
+[
+"Bufori",
+2,
+[]
+],
+[
+"Bullock",
+2,
+[]
+],
+[
+"CK Automotive",
+2,
+[]
+],
+[
+"Continental Coachwork",
+2,
+[]
+],
+[
+"Dorset Motor Services",
+2,
+[]
+],
+[
+"Evolution Sportscars",
+2,
+[]
+],
+[
+"Fiero Factory",
+2,
+[]
+],
+[
+"Fletcher Boats",
+2,
+[]
+],
+[
+"Fleur de Lys Automobile Manufacturing",
+2,
+[]
+],
+[
+"Freestyle vehicles",
+2,
+[]
+],
+[
+"Hartnett vehicles",
+2,
+[]
+],
+[
+"Jimini vehicles",
+2,
+[]
+],
+[
+"Johnard vehicles",
+2,
+[]
+],
+[
+"Latham Sportscars",
+2,
+[]
+],
+[
+"Luego vehicles",
+2,
+[]
+],
+[
+"Mallalieu Engineering",
+2,
+[]
+],
+[
+"Marlip Indo Mandiri",
+2,
+[]
+],
+[
+"McCoy vehicles",
+2,
+[]
+],
+[
+"Minari Engineering",
+2,
+[]
+],
+[
+"NG vehicles",
+2,
+[]
+],
+[
+"Parabug vehicles",
+2,
+[]
+],
+[
+"Prova vehicles",
+2,
+[]
+],
+[
+"Prowler vehicles",
+2,
+[]
+],
+[
+"Robnell Sports Cars",
+2,
+[]
+],
+[
+"Sabre Cars",
+2,
+[]
+],
+[
+"Teal Cars",
+2,
+[]
+],
+[
+"Fiat (New Zealand) vehicles",
+2,
+[]
+],
+[
+"Trekka vehicles",
+2,
+[]
+],
+[
+"Vincent cars",
+2,
+[]
+],
+[
+"Vintage",
+2,
+[]
+],
+[
+"Falcon",
+2,
+[]
+],
+[
+"Sera",
+2,
+[]
+],
+[
+"Shephard",
+2,
+[]
+],
+[
+"Sidéa vehicles",
+2,
+[]
+],
+[
+"Silva-Coroner",
+2,
+[]
+],
+[
+"Smiles vehicles",
+2,
+[]
+],
+[
+"Bernardi vehicles",
+2,
+[]
+],
+[
+"Società per la Trazione Elettrica",
+2,
+[]
+],
+[
+"Côte vehicles",
+2,
+[]
+],
+[
+"Société Neuchâteloise d’Automobiles",
+2,
+[]
+],
+[
+"Société l’Énergie",
+2,
+[]
+],
+[
+"Sofravel vehicles",
+2,
+[]
+],
+[
+"Solo Kleinmotoren",
+2,
+[
+"Solo Kleinmotoren (Germany)"
+]
+],
+[
+"Solomobil vehicles",
+2,
+[]
+],
+[
+"Solon AB",
+2,
+[]
+],
+[
+"Springfield Automobile Company",
+2,
+[]
+],
+[
+"Stabilia",
+2,
+[]
+],
+[
+"Stirling’s Motor Carriages",
+2,
+[]
+],
+[
+"Anhui Anchi Automobile Industry",
+2,
+[]
+],
+[
+"Lethimonnier",
+2,
+[]
+],
+[
+"Levêque Frères",
+2,
+[]
+],
+[
+"Teste & Moret vehicles",
+2,
+[]
+],
+[
+"Actividades Industriales",
+2,
+[]
+],
+[
+"Thieulin vehicles",
+2,
+[]
+],
+[
+"Think Nordic",
+2,
+[]
+],
+[
+"Thrif-T vehicles",
+2,
+[]
+],
+[
+"Toledo",
+2,
+[]
+],
+[
+"Tom Pouce",
+2,
+[]
+],
+[
+"Trigger vehicles",
+2,
+[]
+],
+[
+"Trumbull vehicles",
+2,
+[]
+],
+[
+"Albatross",
+2,
+[]
+],
+[
+"Turinelli & Pezza",
+2,
+[]
+],
+[
+"Turner's Motor Manufacturing Co",
+2,
+[]
+],
+[
+"Zévaco",
+2,
+[]
+],
+[
+"Zürcher Patent-Motorwagen-Fabrik Rapid",
+2,
+[]
+],
+[
+"VM",
+2,
+[]
+],
+[
+"Vee Gee",
+2,
+[]
+],
+[
+"Verwey & Lugard's Automobiel Maatschappij",
+2,
+[]
+],
+[
+"Redpath",
+2,
+[]
+],
+[
+"VW-Werk Osnabrück",
+2,
+[]
+],
+[
+"Volkswagen of South Africa",
+2,
+[
+"Volkswagen South Africa"
+]
+],
+[
+"Phianna",
+2,
+[]
+],
+[
+"Bamin",
+2,
+[]
+],
+[
+"Winnerway Motors",
+2,
+[
+"CANIC Hongyuan",
+"CANIC Winnerway",
+"Dongguan CANIC Winnerway Motors Co, Ltd.",
+"Hongyuan Motors",
+"Zhongqihongyuan Automobile Co. Ltd."
+]
+],
+[
+"Yunbao vehicles",
+2,
+[]
+],
+[
+"Skopak",
+2,
+[]
+],
+[
+"Wagenfabrik Jos. Neuss",
+2,
+[
+"Jos Neuss"
+]
+],
+[
+"Nanqi",
+2,
+[]
+],
+[
+"Weber vehicles",
+2,
+[]
+],
+[
+"Weineck Cobra & Motorenbau",
+2,
+[]
+],
+[
+"Wenger Basel",
+2,
+[]
+],
+[
+"Winkler",
+2,
+[]
+],
+[
+"Woods Mobilette vehicles",
+2,
+[]
+],
+[
+"Yaxa",
+2,
+[]
+],
+[
+"Yenko Chevrolet",
+2,
+[]
+],
+[
+"Lifan Junma",
+2,
+[]
+],
+[
+"Ramsis",
+2,
+[]
+],
+[
+"Fongri",
+2,
+[]
+],
+[
+"Allard-Latour",
+2,
+[]
+],
+[
+"Allwyn Cyclecars",
+2,
+[]
+],
+[
+"Corre vehicles",
+2,
+[]
+],
+[
+"Pur Sang vehicles",
+2,
+[]
+],
+[
+"Industrias del Transporte Automotor",
+2,
+[]
+],
+[
+"Megastar Veículos",
+2,
+[]
+],
+[
+"Ippolit W. Romanow",
+2,
+[]
+],
+[
+"Mohr vehicles",
+2,
+[]
+],
+[
+"A. Felber & Co",
+2,
+[]
+],
+[
+"Guitolar",
+2,
+[]
+],
+[
+"Arawak Motors",
+2,
+[]
+],
+[
+"Fabrica Nacional de Automoviles",
+2,
+[]
+],
+[
+"Marathon Electric Vehicles",
+2,
+[]
+],
+[
+"Tate Electric vehicles",
+2,
+[]
+],
+[
+"Steel Swallow",
+2,
+[]
+],
+[
+"Saginaw",
+2,
+[]
+],
+[
+"Tiffany",
+2,
+[]
+],
+[
+"Sharp",
+2,
+[]
+],
+[
+"Sibley",
+2,
+[]
+],
+[
+"Standard Electric",
+2,
+[]
+],
+[
+"States cyclecar",
+2,
+[]
+],
+[
+"Austro-FIAT",
+2,
+[]
+],
+[
+"ACM Automobili",
+2,
+[
+"ACM"
+]
+],
+[
+"Ampère",
+2,
+[
+"Ampere"
+]
+],
+[
+"Armor",
+2,
+[]
+],
+[
+"Duport vehicles",
+2,
+[]
+],
+[
+"Poirier vehicles",
+2,
+[]
+],
+[
+"Roussel (automobile)",
+2,
+[]
+],
+[
+"AMC Motors Oy Finland",
+2,
+[]
+],
+[
+"Tritan Ventures Inc",
+2,
+[]
+],
+[
+"Debora",
+2,
+[]
+],
+[
+"Deco Rides vehicles",
+2,
+[]
+],
+[
+"Trihawk",
+2,
+[]
+],
+[
+"Sebring-Vanguard",
+2,
+[]
+],
+[
+"Vanguard Motors Corporation",
+2,
+[]
+],
+[
+"Auburn-Cord-Duesenberg automobiles",
+2,
+[]
+],
+[
+"Contemporary vehicles",
+2,
+[]
+],
+[
+"Guanci vehicles",
+2,
+[]
+],
+[
+"Lucra vehicles",
+2,
+[]
+],
+[
+"Southeastern Replicars",
+2,
+[]
+],
+[
+"Fawick vehicles",
+2,
+[]
+],
+[
+"Beck vehicles",
+2,
+[]
+],
+[
+"Abendroth & Root Manufacturing Co",
+2,
+[]
+],
+[
+"Adams Probe Motor",
+2,
+[]
+],
+[
+"Adem",
+2,
+[]
+],
+[
+"Advanced Design Tramontana",
+2,
+[]
+],
+[
+"Aegir Automobilwerke",
+2,
+[]
+],
+[
+"Aero Car",
+2,
+[
+"Aero Car Engineering",
+"Aero Car Engineering Company Ltd."
+]
+],
+[
+"Gasmobile vehicles",
+2,
+[]
+],
+[
+"Bambycars",
+2,
+[]
+],
+[
+"Peel Engineering vehicles",
+2,
+[]
+],
+[
+"Ageron",
+2,
+[]
+],
+[
+"Ajams",
+2,
+[]
+],
+[
+"Auburn Motor Chassis Company",
+2,
+[]
+],
+[
+"A Automobile Company",
+2,
+[]
+],
+[
+"Smith and Mabley",
+2,
+[]
+],
+[
+"Abenaque Machine Works, Inc.",
+2,
+[]
+],
+[
+"Biddle-Murray Manufacturing Company",
+2,
+[]
+],
+[
+"Louis J. Bergdoll Motor Company",
+2,
+[]
+],
+[
+"E.T. Burrowes Co.",
+2,
+[]
+],
+[
+"Chicago Motorcycle Company",
+2,
+[]
+],
+[
+"Chicago Motor Vehicle Company",
+2,
+[]
+],
+[
+"Sperry Engineering Company",
+2,
+[]
+],
+[
+"Eurostyle Costruzione Carrozzerie e Automobili",
+2,
+[
+"Eurostyle"
+]
+],
+[
+"Alvechurch",
+2,
+[]
+],
+[
+"Alphi",
+2,
+[]
+],
+[
+"Amati Cars",
+2,
+[]
+],
+[
+"AK Hellas",
+2,
+[]
+],
+[
+"Automobile Manufacturing Company",
+2,
+[
+"AMC"
+]
+],
+[
+"American Motor Company",
+2,
+[]
+],
+[
+"J. H. Dawson Machinery Company",
+2,
+[]
+],
+[
+"De Motte Motor Car Company",
+2,
+[]
+],
+[
+"Abingdon",
+2,
+[]
+],
+[
+"Alexandra",
+2,
+[
+"Phoenix Carriage Company"
+]
+],
+[
+"All-British Car Company",
+2,
+[]
+],
+[
+"American Waltham",
+2,
+[]
+],
+[
+"Economy vehicles",
+2,
+[]
+],
+[
+"Elwell-Parker Electric Company",
+2,
+[]
+],
+[
+"Anger Engineering Company",
+2,
+[]
+],
+[
+"Anna",
+2,
+[]
+],
+[
+"Arbel",
+2,
+[]
+],
+[
+"Fahrzeug- und Maschinenbau Gustav Kroboth",
+2,
+[]
+],
+[
+"Amédée Bollée",
+2,
+[]
+],
+[
+"Enova Systems",
+2,
+[]
+],
+[
+"Battery Manufacturing Association",
+2,
+[]
+],
+[
+"Super Car",
+2,
+[]
+],
+[
+"Bendix",
+2,
+[]
+],
+[
+"Anderheggen",
+2,
+[]
+],
+[
+"LT",
+2,
+[]
+],
+[
+"Bravia",
+2,
+[]
+],
+[
+"CVI",
+2,
+[]
+],
+[
+"Canadian Motor",
+2,
+[]
+],
+[
+"Frantz Automobile Company",
+2,
+[]
+],
+[
+"Friedman Automobile Company",
+2,
+[]
+],
+[
+"Fritchle vehicles",
+2,
+[]
+],
+[
+"Fulton Motor Truck Company",
+2,
+[]
+],
+[
+"Goddeu vehicles",
+2,
+[]
+],
+[
+"Banjo vehicles",
+2,
+[]
+],
+[
+"Chevron Engineering Ltd",
+2,
+[]
+],
+[
+"Christchurch-Campbell",
+2,
+[]
+],
+[
+"Great Western vehicles",
+2,
+[]
+],
+[
+"General Vehicle Company",
+2,
+[]
+],
+[
+"Clinton",
+2,
+[]
+],
+[
+"Colonial Motors",
+2,
+[]
+],
+[
+"Harper Buggy Company",
+2,
+[]
+],
+[
+"Corwin Manufacturing Company",
+2,
+[
+"Vaughn Machine Company"
+]
+],
+[
+"Couverchel",
+2,
+[]
+],
+[
+"Cortland Cart & Carriage Company",
+2,
+[
+"Hatfield Motor Company"
+]
+],
+[
+"Cuautitlán Assembly",
+2,
+[
+"Cuautitlan Assembly",
+"Ford Izcalli",
+"Ford Mexico",
+"Ford México",
+"Planta Ford Cuautitlan",
+"Planta Ford Cuautitlán",
+"Planta Ford Mexico",
+"Planta Ford México"
+]
+],
+[
+"Herschell-Spillman",
+2,
+[]
+],
+[
+"Oakman Motor Vehicle Company",
+2,
+[]
+],
+[
+"Hill Climbing Automobile Manufacturing Company",
+2,
+[]
+],
+[
+"Charlon",
+2,
+[]
+],
+[
+"David & Bourgeois",
+2,
+[]
+],
+[
+"De Sanzy",
+2,
+[]
+],
+[
+"Hoyt",
+2,
+[
+"American Manufacturing Company"
+]
+],
+[
+"Detroit",
+2,
+[]
+],
+[
+"Diatto-Clément",
+2,
+[
+"Diatto-Clement"
+]
+],
+[
+"Dile",
+2,
+[]
+],
+[
+"Econoom",
+2,
+[]
+],
+[
+"Edismith",
+2,
+[]
+],
+[
+"Ehrhardt",
+2,
+[]
+],
+[
+"Ekstromer",
+2,
+[]
+],
+[
+"Electricar",
+2,
+[]
+],
+[
+"Elgé",
+2,
+[
+"Elge"
+]
+],
+[
+"Éole",
+2,
+[
+"Eole"
+]
+],
+[
+"C P Kimball & Company",
+2,
+[]
+],
+[
+"Ayax",
+2,
+[
+"Ayax S.A."
+]
+],
+[
+"Christie vehicles",
+2,
+[]
+],
+[
+"Church Manufacturing Company",
+2,
+[]
+],
+[
+"Great Eagle",
+2,
+[]
+],
+[
+"Long Distance vehicles",
+2,
+[]
+],
+[
+"Mahoning automobiles",
+2,
+[]
+],
+[
+"Larrabee-Deyo Motor Truck Company",
+2,
+[]
+],
+[
+"Marlboro vehicles",
+2,
+[]
+],
+[
+"Melling Sportscars",
+2,
+[]
+],
+[
+"BR Engineering",
+2,
+[]
+],
+[
+"Hatfield Motor Vehicle Company",
+2,
+[]
+],
+[
+"Motor Traction",
+2,
+[]
+],
+[
+"Ateliers Piccard-Pictet & Cie.",
+2,
+[]
+],
+[
+"Metropol Motors Corporation",
+2,
+[]
+],
+[
+"A.D. Meiselbach Motor Wagon Co.",
+2,
+[]
+],
+[
+"Mercury Machine Company",
+2,
+[]
+],
+[
+"Milburn Wagon Company",
+2,
+[]
+],
+[
+"Milwaukee Automobile Company",
+2,
+[]
+],
+[
+"Miller Motor Company",
+2,
+[]
+],
+[
+"Monarch Automobile Company",
+2,
+[]
+],
+[
+"C. W. Kelsey Manufacturing Company",
+2,
+[]
+],
+[
+"Mueller vehicles",
+2,
+[]
+],
+[
+"Murray Motor Car Company",
+2,
+[]
+],
+[
+"Morrison Electric vehicles",
+2,
+[]
+],
+[
+"Nadig vehicles",
+2,
+[]
+],
+[
+"Niagara Automobile Company",
+2,
+[]
+],
+[
+"Ofeldt vehicles",
+2,
+[]
+],
+[
+"Pan-American Motors Corporation",
+2,
+[]
+],
+[
+"Modern Tool Company",
+2,
+[]
+],
+[
+"Pennington",
+2,
+[]
+],
+[
+"Racine Motor Vehicle Company",
+2,
+[]
+],
+[
+"Fredcar vehicles",
+2,
+[]
+],
+[
+"Pittsburgh Motor Vehicle Company",
+2,
+[]
+],
+[
+"Pontiac Spring & Wagon Works",
+2,
+[]
+],
+[
+"Puritan vehicles",
+2,
+[]
+],
+[
+"James M. Quinby",
+2,
+[]
+],
+[
+"Prescott Automobile Manufacturing Company",
+2,
+[]
+],
+[
+"Red Bug vehicles",
+2,
+[]
+],
+[
+"Reeves Pulley Company",
+2,
+[]
+],
+[
+"Regas Automobile Company",
+2,
+[]
+],
+[
+"Sears vehicles",
+2,
+[]
+],
+[
+"Roper",
+2,
+[]
+],
+[
+"Alden Sampson Division",
+2,
+[]
+],
+[
+"Seneca Motorcar Company",
+2,
+[]
+],
+[
+"Service Motor Car Company",
+2,
+[]
+],
+[
+"Spaulding Automobile & Motor Company",
+2,
+[]
+],
+[
+"Speedway vehicles",
+2,
+[]
+],
+[
+"Smith Automobile and Machine Company",
+2,
+[]
+],
+[
+"Star Motor Car Company",
+2,
+[]
+],
+[
+"Sterling Automobile Manufacturing Company",
+2,
+[]
+],
+[
+"ZAP Jonway vehicles",
+2,
+[]
+],
+[
+"Sturtevant Mill Company",
+2,
+[]
+],
+[
+"Vim Motor Truck Company",
+2,
+[]
+],
+[
+"Western Wheel Works",
+2,
+[]
+],
+[
+"Badger Brass Manufacturing Company",
+2,
+[]
+],
+[
+"Turner Brass Works",
+2,
+[]
+],
+[
+"Tucker",
+2,
+[]
+],
+[
+"eGT New Energy Automotive",
+2,
+[
+"eGT New Energy Automotive Co., Ltd."
+]
+],
+[
+"Wichita Falls Motor Company",
+2,
+[]
+],
+[
+"Kauffman Motor Vehicle Company",
+2,
+[]
+],
+[
+"Palmer-Singer vehicles",
+2,
+[]
+],
+[
+"Tulsa vehicles",
+2,
+[]
+],
+[
+"Pratt Motor Car Company",
+2,
+[]
+],
+[
+"Porter vehicles",
+2,
+[]
+],
+[
+"Maytag-Mason Motor Company",
+2,
+[]
+],
+[
+"Ajax Motor Vehicle Company",
+2,
+[]
+],
+[
+"Le Piaf",
+2,
+[]
+],
+[
+"Leach",
+2,
+[]
+],
+[
+"Lems",
+2,
+[]
+],
+[
+"PRB",
+2,
+[]
+],
+[
+"Enfield-Neorion vehicles",
+2,
+[]
+],
+[
+"London Motors",
+2,
+[]
+],
+[
+"Madoz",
+2,
+[]
+],
+[
+"Mania Spyder",
+2,
+[]
+],
+[
+"Martin-Spéciale",
+2,
+[
+"Martin-Speciale"
+]
+],
+[
+"Maryland Steamer",
+2,
+[]
+],
+[
+"Seidel-Arop",
+2,
+[]
+],
+[
+"Nielson",
+2,
+[]
+],
+[
+"Owen Thomas",
+2,
+[
+"Owen Thomas Car Company"
+]
+],
+[
+"Pantelemidis",
+2,
+[]
+],
+[
+"Impact Automotive Technologies",
+2,
+[]
+],
+[
+"Phelps Motor Vehicle",
+2,
+[]
+],
+[
+"Arzac",
+2,
+[]
+],
+[
+"Piggins",
+2,
+[]
+],
+[
+"Plage i Laśkiewicz",
+2,
+[]
+],
+[
+"Porter Motor Company",
+2,
+[]
+],
+[
+"Asdomobil",
+2,
+[]
+],
+[
+"Asheville Light Car",
+2,
+[]
+],
+[
+"Rayfield",
+2,
+[]
+],
+[
+"Reading Steamer",
+2,
+[]
+],
+[
+"Renault India Private Limited",
+2,
+[]
+],
+[
+"Roper-Corbet",
+2,
+[]
+],
+[
+"Asra",
+2,
+[]
+],
+[
+"EWB Cars",
+2,
+[]
+],
+[
+"Schaum",
+2,
+[]
+],
+[
+"Self",
+2,
+[]
+],
+[
+"Tropical",
+2,
+[
+"Alfa"
+]
+],
+[
+"Sigma Motors",
+2,
+[]
+],
+[
+"Single Center",
+2,
+[
+"ingle Center Buggy Company"
+]
+],
+[
+"A.M.",
+2,
+[]
+],
+[
+"Soules",
+2,
+[]
+],
+[
+"Spex Design Corporation",
+2,
+[]
+],
+[
+"Mercedes-Benz AG",
+2,
+[
+"Mercedes-Benz",
+"Mercedes Benz AG"
+]
+],
+[
+"Tata Motors Passenger Vehicles",
+2,
+[
+"Tata Cars",
+"Tata.Cars",
+"Tata Engineering and Locomotive Company",
+"Tata Motors",
+"TELCO"
+]
+],
+[
+"Ausonia",
+2,
+[]
+],
+[
+"Australis",
+2,
+[]
+],
+[
+"Quagliotti",
+2,
+[]
+],
+[
+"Auto Cub",
+2,
+[]
+],
+[
+"Auto Mirage",
+2,
+[]
+],
+[
+"AHS vehicles",
+2,
+[]
+],
+[
+"Strohm vehicles",
+2,
+[]
+],
+[
+"Ariane",
+2,
+[]
+],
+[
+"Automobiles Beck",
+2,
+[]
+],
+[
+"Colin",
+2,
+[]
+],
+[
+"Dasse",
+2,
+[]
+],
+[
+"Diederichs vehicles",
+2,
+[]
+],
+[
+"Gamma vehicles",
+2,
+[]
+],
+[
+"Induco",
+2,
+[]
+],
+[
+"Jean-Bart",
+2,
+[]
+],
+[
+"Quo Vadis",
+2,
+[]
+],
+[
+"Ravel vehicles",
+2,
+[]
+],
+[
+"Regina vehicles",
+2,
+[]
+],
+[
+"Automobiles Ruhl",
+2,
+[]
+],
+[
+"Rumpf vehicles",
+2,
+[]
+],
+[
+"Vallée vehicles",
+2,
+[]
+],
+[
+"Celeritas vehicles",
+2,
+[]
+],
+[
+"Biagini vehicles",
+2,
+[]
+],
+[
+"Franco vehicles",
+2,
+[]
+],
+[
+"Scheib vehicles",
+2,
+[]
+],
+[
+"United Australian Automobile Industries",
+2,
+[]
+],
+[
+"Utopian",
+2,
+[]
+],
+[
+"Vapomobile",
+2,
+[]
+],
+[
+"Heim vehicles",
+2,
+[]
+],
+[
+"Baker & Dale",
+2,
+[]
+],
+[
+"Zendik",
+2,
+[
+"Zendik Cars"
+]
+],
+[
+"Fiat Ireland",
+2,
+[
+"FCA Ireland",
+"Fiat Chrysler Automobiles Ireland",
+"Stellantis Ireland"
+]
+],
+[
+"G. A. Brittain",
+2,
+[]
+],
+[
+"Hennessy’s",
+2,
+[]
+],
+[
+"Irish Exporters & Importers",
+2,
+[]
+],
+[
+"Nissan Ireland",
+2,
+[]
+],
+[
+"Renauto Limited",
+2,
+[]
+],
+[
+"Bayerische Autowerke",
+2,
+[]
+],
+[
+"Beacon Motors",
+2,
+[]
+],
+[
+"Benarrow",
+2,
+[]
+],
+[
+"HB",
+2,
+[]
+],
+[
+"Berliner Motorwagen-Fabrik",
+2,
+[
+"Oryx Motorenwerke"
+]
+],
+[
+"Sablatnig-Beuchelt",
+2,
+[]
+],
+[
+"Bieber vehicles",
+2,
+[]
+],
+[
+"Pak-Age-Car",
+2,
+[]
+],
+[
+"Beardmore Motors Ltd",
+2,
+[]
+],
+[
+"Podeus",
+2,
+[]
+],
+[
+"Kondor",
+2,
+[]
+],
+[
+"Black Prince Motors Ltd.",
+2,
+[]
+],
+[
+"Bobby-Alba",
+2,
+[]
+],
+[
+"Jacob Boes & Co.",
+2,
+[]
+],
+[
+"BZ vehicles",
+2,
+[]
+],
+[
+"Borderel-Cail",
+2,
+[]
+],
+[
+"Bound",
+2,
+[]
+],
+[
+"Bradwell",
+2,
+[]
+],
+[
+"Bramham",
+2,
+[]
+],
+[
+"Braun",
+2,
+[]
+],
+[
+"Bravo",
+2,
+[]
+],
+[
+"Brierre",
+2,
+[]
+],
+[
+"Bristol Motor Co vehicles",
+2,
+[]
+],
+[
+"Jannarelly",
+2,
+[]
+],
+[
+"Hunan Leopaard Motors",
+2,
+[]
+],
+[
+"Windsor",
+2,
+[]
+],
+[
+"BPD",
+2,
+[]
+],
+[
+"Brown Brothers",
+2,
+[
+"Brown Bros vehicles"
+]
+],
+[
+"Bruvo vehicles",
+2,
+[]
+],
+[
+"Buat vehicles",
+2,
+[]
+],
+[
+"Vega Innovations",
+2,
+[]
 ]
 ]

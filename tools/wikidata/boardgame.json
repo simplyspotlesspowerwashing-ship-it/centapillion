@@ -1,1270 +1,20800 @@
 [
 [
 "chess",
-270
+270,
+[
+"chess game",
+"international chess",
+"modern European chess",
+"Western chess"
+]
 ],
 [
 "backgammon",
-105
+105,
+[]
 ],
 [
 "checkers",
-98
+98,
+[
+"draughts"
+]
 ],
 [
 "Monopoly",
-81
+81,
+[
+"Monopoly game"
+]
 ],
 [
 "mahjong",
-64
+64,
+[
+"mah-jongg",
+"mahjongg"
+]
 ],
 [
 "xiangqi",
-63
+63,
+[
+"Chinese chess",
+"elephant chess",
+"elephant game",
+"Hsiang ch’i",
+"Xiang Qi"
+]
 ],
 [
 "chaturanga",
-54
+54,
+[]
 ],
 [
 "The Settlers of Catan",
-42
+42,
+[
+"Catan",
+"Settlers of Catan"
+]
 ],
 [
 "snakes and ladders",
-41
+41,
+[]
 ],
 [
 "correspondence chess",
-40
+40,
+[
+"correspondence chess game"
+]
 ],
 [
 "nine men's morris",
-40
+40,
+[
+"Cowboy checkers",
+"Marelles",
+"Merelles",
+"Merels",
+"Merrills",
+"Mill",
+"Mills",
+"Mlynek",
+"Morelles",
+"Nine Man Morris",
+"Ninepenny Marl",
+"The Mill Game"
+]
 ],
 [
 "Risk",
-38
+38,
+[]
 ],
 [
 "Battleship",
-38
+38,
+[
+"battleship",
+"Battleships",
+"Sea Battle"
+]
 ],
 [
 "Senet",
-37
+37,
+[
+"Senat"
+]
 ],
 [
 "Royal Game of Ur",
-36
+36,
+[
+"Aasha",
+"Game of Twenty Squares",
+"Game of Ur"
+]
 ],
 [
 "Pachisi",
-35
+35,
+[
+"parcheesi set"
+]
 ],
 [
 "Ludo",
-32
+32,
+[
+"Ludo sport",
+"Ludosport"
+]
 ],
 [
 "Chinese checkers",
-30
+30,
+[
+"Chinese chequers",
+"Stern-halma",
+"Sternhalma"
+]
 ],
 [
 "Rummikub",
-30
+30,
+[]
 ],
 [
 "Mensch ärgere dich nicht",
-28
+28,
+[
+"Man, don't get angry! (German: mensch ärgere rich night)",
+"Man, don't get annoyed",
+"Pachisi"
+]
 ],
 [
 "Connect Four",
-27
+27,
+[
+"Hx5c"
+]
 ],
 [
 "Ticket to Ride",
-27
+27,
+[
+"TTR"
+]
 ],
 [
 "Stratego",
-27
+27,
+[]
 ],
 [
 "peg solitaire",
-26
+26,
+[
+"Brainvita",
+"Hi-Q",
+"Marble Solitaire",
+"Peg Solitaire",
+"Sailor’s Solitaire",
+"Solitaire",
+"Solo Goli",
+"Solo Noble"
+]
 ],
 [
 "Mastermind",
-26
+26,
+[
+"Bulls and Cows",
+"Hit & Blow",
+"Master Mind",
+"Pegs, Bulls and Cows"
+]
 ],
 [
 "Game of the Goose",
-25
+25,
+[
+"Goose game",
+"Royal Game of the Goose"
+]
 ],
 [
 "Diplomacy",
-25
+25,
+[]
 ],
 [
 "Trivial Pursuit",
-24
+24,
+[]
 ],
 [
 "Puerto Rico",
-23
+23,
+[]
 ],
 [
 "alquerque",
-22
+22,
+[]
 ],
 [
 "Pandemic",
-22
+22,
+[]
 ],
 [
 "Oware",
-22
+22,
+[
+"Awari",
+"Wari"
+]
 ],
 [
 "tafl games",
-22
+22,
+[
+"hnefatafl games"
+]
 ],
 [
 "Twister",
-21
+21,
+[]
 ],
 [
 "7 Wonders",
-20
+20,
+[
+"Seven Wonders"
+]
 ],
 [
 "Abalone",
-19
+19,
+[]
 ],
 [
 "Codenames",
-19
+19,
+[]
 ],
 [
 "Quoridor",
-19
+19,
+[]
 ],
 [
 "Renju",
-18
+18,
+[]
 ],
 [
 "Power Grid",
-18
+18,
+[]
 ],
 [
 "Agricola",
-18
+18,
+[]
 ],
 [
 "Quarto",
-18
+18,
+[
+"Quarto!"
+]
 ],
 [
 "Blokus",
-18
+18,
+[]
 ],
 [
 "hexagonal chess",
-18
+18,
+[]
 ],
 [
 "Tantrix",
-17
+17,
+[]
 ],
 [
 "Fanorona",
-17
+17,
+[]
 ],
 [
 "Splendor",
-17
+17,
+[]
 ],
 [
 "three-dimensional chess",
-17
+17,
+[
+"3D chess"
+]
 ],
 [
 "Arkham Horror (1st Edition)",
-17
+17,
+[]
 ],
 [
 "Ludus latrunculorum",
-16
+16,
+[
+"latrones",
+"latrunculi",
+"Latrunculus"
+]
 ],
 [
 "Blood Bowl",
-16
+16,
+[]
 ],
 [
 "A Game of Thrones",
-16
+16,
+[]
 ],
 [
 "Axis & Allies",
-16
+16,
+[
+"Axis and Allies"
+]
 ],
 [
 "bagh-chal",
-16
+16,
+[]
 ],
 [
 "The Game of Life",
-15
+15,
+[]
 ],
 [
 "Hounds and Jackals",
-15
+15,
+[
+"58 holes",
+"fifty-eight holes",
+"Game of Hounds and Jackals"
+]
 ],
 [
 "Pentago",
-15
+15,
+[]
 ],
 [
 "Kalah",
-15
+15,
+[]
 ],
 [
 "Twilight Struggle",
-15
+15,
+[]
 ],
 [
 "Wingspan",
-15
+15,
+[]
 ],
 [
 "Caylus",
-15
+15,
+[]
 ],
 [
 "Mehen",
-14
+14,
+[]
 ],
 [
 "tabula",
-14
+14,
+[]
 ],
 [
 "Illuminati",
-14
+14,
+[
+"The Illuminati"
+]
 ],
 [
 "Scotland Yard",
-14
+14,
+[]
 ],
 [
 "Bao",
-14
+14,
+[
+"bao la kiswahili"
+]
 ],
 [
 "Parchís",
-14
+14,
+[
+"Parchis"
+]
 ],
 [
 "Lasca",
-13
+13,
+[]
 ],
 [
 "ludus duodecim scriptorum",
-13
+13,
+[
+"duodecim scripta",
+"Game of twelve markings",
+"Ludus XII scripta"
+]
 ],
 [
 "El Grande",
-13
+13,
+[]
 ],
 [
 "Sevens",
-13
+13,
+[
+"Parliament"
+]
 ],
 [
 "Stone Age",
-13
+13,
+[]
 ],
 [
 "Subbuteo",
-13
+13,
+[]
 ],
 [
 "Thurn and Taxis",
-13
+13,
+[
+"Thurn und Taxis"
+]
 ],
 [
 "Alhambra",
-13
+13,
+[]
 ],
 [
 "Liar's Dice",
-13
+13,
+[
+"Liar's Dice (Richard Borg)",
+"Perudo"
+]
 ],
 [
 "Jungle",
-13
+13,
+[
+"Animals Chess",
+"Dou Shou Qi",
+"Jungle Chess",
+"The Jungle Game"
+]
 ],
 [
 "Guess Who?",
-13
+13,
+[
+"Quien es quien?"
+]
 ],
 [
 "Congkak",
-13
+13,
+[]
 ],
 [
 "Fox games",
-13
+13,
+[]
 ],
 [
 "HeroQuest",
-12
+12,
+[
+"Hero Quest"
+]
 ],
 [
 "Small World",
-12
+12,
+[]
 ],
 [
 "Luzhanqi",
-12
+12,
+[]
 ],
 [
 "Talisman",
-12
+12,
+[]
 ],
 [
 "Scythe",
-12
+12,
+[]
 ],
 [
 "crokinole",
-12
+12,
+[]
 ],
 [
 "Mordheim",
-12
+12,
+[]
 ],
 [
 "Okey",
-12
+12,
+[]
 ],
 [
 "three-player chess",
-12
+12,
+[
+"three-handed",
+"three-man",
+"three-way chess"
+]
 ],
 [
 "Dōbutsu shōgi",
-11
+11,
+[
+"Let's Catch the Lion!"
+]
 ],
 [
 "Hare and Tortoise",
-11
+11,
+[]
 ],
 [
 "Labyrinth",
-11
+11,
+[
+"Labyrinth: The War on Terror, 2001 – ?"
+]
 ],
 [
 "Kingdom Builder",
-11
+11,
+[]
 ],
 [
 "Zooloretto",
-11
+11,
+[]
 ],
 [
 "GIPF",
-11
+11,
+[]
 ],
 [
 "YINSH",
-11
+11,
+[]
 ],
 [
 "Dobble",
-11
+11,
+[
+"Spot it!"
+]
 ],
 [
 "Ghosts",
-11
+11,
+[
+"Geister",
+"Good & Bad Ghosts"
+]
 ],
 [
 "Through the Ages: A Story of Civilization",
-11
+11,
+[
+"Through the Ages",
+"TTA"
+]
 ],
 [
 "international draughts",
-11
+11,
+[
+"international checkers",
+"Polish draughts"
+]
 ],
 [
 "Descent: Journeys in the Dark",
-10
+10,
+[]
 ],
 [
 "Rithmomachia",
-10
+10,
+[
+"Arithmomachia",
+"Rithmomachy",
+"Rythmomachy",
+"The Philosophers' Game"
+]
 ],
 [
 "Takenoko",
-10
+10,
+[]
 ],
 [
 "Terra Mystica",
-10
+10,
+[]
 ],
 [
 "Tikal",
-10
+10,
+[]
 ],
 [
 "Triominoes",
-10
+10,
+[]
 ],
 [
 "San Juan",
-10
+10,
+[]
 ],
 [
 "Space Hulk",
-10
+10,
+[]
 ],
 [
 "DVONN",
-10
+10,
+[]
 ],
 [
 "ZÈRTZ",
-10
+10,
+[
+"ZERTZ"
+]
 ],
 [
 "Focus",
-10
+10,
+[]
 ],
 [
 "Afrikan tähti",
-10
+10,
+[]
 ],
 [
 "shatar",
-10
+10,
+[
+"Mongolia chess",
+"Mongolian chess"
+]
 ],
 [
 "Gloomhaven",
-10
+10,
+[]
 ],
 [
 "Niagara",
-10
+10,
+[]
 ],
 [
 "Surakarta",
-10
+10,
+[]
 ],
 [
 "Memoir '44",
-10
+10,
+[]
 ],
 [
 "Word chain",
-10
+10,
+[]
 ],
 [
 "Civilization",
-9
+9,
+[
+"Sid Meier's Civilization: The Board Game"
+]
 ],
 [
 "Elfenland",
-9
+9,
+[]
 ],
 [
 "Mū Tōrere",
-9
+9,
+[]
 ],
 [
 "Tigris and Euphrates",
-9
+9,
+[]
 ],
 [
 "Doom: The Boardgame",
-9
+9,
+[]
 ],
 [
 "Pass the Pigs",
-9
+9,
+[
+"Pig Mania!"
+]
 ],
 [
 "Villa Paletti",
-9
+9,
+[]
 ],
 [
 "Ricochet Robots",
-9
+9,
+[]
 ],
 [
 "Manhattan",
-9
+9,
+[]
 ],
 [
 "Keltis",
-9
+9,
+[]
 ],
 [
 "Machi Koro",
-9
+9,
+[]
 ],
 [
 "PÜNCT",
-9
+9,
+[]
 ],
 [
 "Tric Trac",
-9
+9,
+[
+"Backgammon",
+"Trictrac",
+"Tric-Trac"
+]
 ],
 [
 "Tzaar",
-9
+9,
+[]
 ],
 [
 "Acquire",
-9
+9,
+[]
 ],
 [
 "Pallanguzhi",
-9
+9,
+[
+"Pallankuli, Pallanguli"
+]
 ],
 [
 "Top Secret Spies",
-9
+9,
+[]
 ],
 [
 "Pictionary",
-9
+9,
+[]
 ],
 [
 "Pente",
-9
+9,
+[
+"Gobang",
+"Go Bang"
+]
 ],
 [
 "bagatelle",
-9
+9,
+[
+"Corinthian Bagatelle"
+]
 ],
 [
 "Auf Achse",
-9
+9,
+[]
 ],
 [
 "Taboo",
-9
+9,
+[]
 ],
 [
 "Phutball",
-9
+9,
+[
+"Philosopher's Football"
+]
 ],
 [
 "Yota",
-8
+8,
+[
+"Yote"
+]
 ],
 [
 "King of Tokyo",
-8
+8,
+[]
 ],
 [
 "Havannah",
-8
+8,
+[]
 ],
 [
 "Modern Art",
-8
+8,
+[]
 ],
 [
 "Hotel",
-8
+8,
+[]
 ],
 [
 "Saint Petersburg",
-8
+8,
+[]
 ],
 [
 "Le Havre",
-8
+8,
+[]
 ],
 [
 "Istanbul",
-8
+8,
+[]
 ],
 [
 "The Castles of Burgundy",
-8
+8,
+[]
 ],
 [
 "Alias",
-8
+8,
+[]
 ],
 [
 "Colt Express",
-8
+8,
+[]
 ],
 [
 "TAMSK",
-8
+8,
+[]
 ],
 [
 "Neutron",
-8
+8,
+[]
 ],
 [
 "Bezzerwizzer",
-8
+8,
+[]
 ],
 [
 "Bul",
-8
+8,
+[
+"Boolik",
+"Buul",
+"Puluc"
+]
 ],
 [
 "Twilight Imperium",
-8
+8,
+[]
 ],
 [
 "Russian draughts",
-8
+8,
+[
+"Russian checkers"
+]
 ],
 [
 "Game of the Amazons",
-8
+8,
+[
+"Game of Amazons"
+]
 ],
 [
 "Android: Netrunner",
-8
+8,
+[]
 ],
 [
 "Anti-Monopoly",
-8
+8,
+[]
 ],
 [
 "Konane",
-8
+8,
+[
+"Kōnane"
+]
 ],
 [
 "Dune: Imperium",
-7
+7,
+[]
 ],
 [
 "Coloretto",
-7
+7,
+[]
 ],
 [
 "Cranium",
-7
+7,
+[]
 ],
 [
 "Enchanted Forest",
-7
+7,
+[]
 ],
 [
 "Lamlameta",
-7
+7,
+[]
 ],
 [
 "TransAmerica",
-7
+7,
+[]
 ],
 [
 "The Pillars of the Earth",
-7
+7,
+[]
 ],
 [
 "The Landlord's Game",
-7
+7,
+[
+"Brer Fox an' Brer Rabbit",
+"Landlord Game"
+]
 ],
 [
 "Imperial",
-7
+7,
+[]
 ],
 [
 "Junta",
-7
+7,
+[]
 ],
 [
 "Java",
-7
+7,
+[]
 ],
 [
 "Galaxy Trucker",
-7
+7,
+[]
 ],
 [
 "score four",
-7
+7,
+[
+"Connect Four Advanced"
+]
 ],
 [
 "Looping Louie",
-7
+7,
+[
+"Loopin' Louie"
+]
 ],
 [
 "Zombies!!!",
-7
+7,
+[]
 ],
 [
 "Scattergories",
-7
+7,
+[]
 ],
 [
 "Marrakech",
-7
+7,
+[]
 ],
 [
 "Tak",
-7
+7,
+[]
 ],
 [
 "Mechs vs. Minions",
-7
+7,
+[]
 ],
 [
 "The Witcher Adventure Game",
-7
+7,
+[
+"Wiedźmin: Gra Przygodowa"
+]
 ],
 [
 "Neuroshima Hex!",
-7
+7,
+[
+"Neuroshima Hex! 3.0"
+]
 ],
 [
 "Hoity Toity",
-7
+7,
+[]
 ],
 [
 "The Princes of Florence",
-7
+7,
+[]
 ],
 [
 "Daldøs",
-7
+7,
+[]
 ],
 [
 "aeroplane chess",
-7
+7,
+[]
 ],
 [
 "Agon",
-7
+7,
+[]
 ],
 [
 "Amun-Re",
-7
+7,
+[]
 ],
 [
 "Mangala",
-7
+7,
+[]
 ],
 [
 "Domineering",
-7
+7,
+[]
 ],
 [
 "Taj Mahal",
-7
+7,
+[]
 ],
 [
 "RoboRally",
-7
+7,
+[]
 ],
 [
 "Mexican Train",
-7
+7,
+[]
 ],
 [
 "Breakthrough",
-7
+7,
+[]
 ],
 [
 "Root",
-6
+6,
+[
+"Root: A Game of Woodland Might and Right"
+]
 ],
 [
 "Café International",
-6
+6,
+[
+"Cafe International"
+]
 ],
 [
 "Can't Stop",
-6
+6,
+[]
 ],
 [
 "Cartagena",
-6
+6,
+[]
 ],
 [
 "Adji-boto",
-6
+6,
+[]
 ],
 [
 "Layli Goobalay",
-6
+6,
+[
+"Layli Goobaly"
+]
 ],
 [
 "Lost Ruins of Arnak",
-6
+6,
+[]
 ],
 [
 "Cascadia",
-6
+6,
+[]
 ],
 [
 "Sky Team",
-6
-],
-[
-"Ingenious",
-6
-],
-[
-"Europa Universalis",
-6
-],
-[
-"Tables game",
-6
-],
-[
-"Battle Masters",
-6
-],
-[
-"Flames of War",
-6
-],
-[
-"Torres",
-6
-],
-[
-"Formula D",
-6
-],
-[
-"Um Reifenbreite",
-6
-],
-[
-"Eclipse",
-6
-],
-[
-"Sho",
-6
-],
-[
-"Zombicide",
-6
-],
-[
-"Mexica",
-6
-],
-[
-"Metro",
-6
-],
-[
-"Space Crusade",
-6
-],
-[
-"1830: The Game of Railroads and Robber Barons",
-6
-],
-[
-"Shove ha'penny",
-6
-],
-[
-"Salta",
-6
-],
-[
-"Eldritch Horror",
-6
-],
-[
-"Shogun",
-6
-],
-[
-"Ba-awa",
-6
-],
-[
-"Great Western Trail",
-6
-],
-[
-"Djambi",
-6
-],
-[
-"Operation",
-6
-],
-[
-"Hare games",
-6
-],
-[
-"Kamisado",
-6
-],
-[
-"Teeko",
-6
-],
-[
-"Bauernroulette",
-6
-],
-[
-"Shadows Over Camelot",
-6
-],
-[
-"Take It Easy",
-6
-],
-[
-"Qubic",
-6
+6,
+[]
 ],
 [
 "Dune",
-6
+6,
+[]
+],
+[
+"Ingenious",
+6,
+[]
+],
+[
+"Europa Universalis",
+6,
+[]
+],
+[
+"Tables game",
+6,
+[]
+],
+[
+"Battle Masters",
+6,
+[
+"Claymore Saga",
+"Knight Strife",
+"Masters of War",
+"the Claymore Saga"
+]
+],
+[
+"Flames of War",
+6,
+[]
+],
+[
+"Torres",
+6,
+[]
+],
+[
+"Formula D",
+6,
+[
+"Formula Dé"
+]
+],
+[
+"Um Reifenbreite",
+6,
+[]
+],
+[
+"Eclipse",
+6,
+[
+"Eclipse: New Dawn for the Galaxy"
+]
+],
+[
+"Sho",
+6,
+[]
+],
+[
+"Zombicide",
+6,
+[]
+],
+[
+"Mexica",
+6,
+[]
+],
+[
+"Metro",
+6,
+[]
+],
+[
+"Space Crusade",
+6,
+[]
+],
+[
+"1830: The Game of Railroads and Robber Barons",
+6,
+[]
+],
+[
+"Shove ha'penny",
+6,
+[]
+],
+[
+"Salta",
+6,
+[]
+],
+[
+"Shogun",
+6,
+[
+"Samurai Swords"
+]
+],
+[
+"Eldritch Horror",
+6,
+[]
+],
+[
+"Ba-awa",
+6,
+[]
+],
+[
+"Great Western Trail",
+6,
+[]
+],
+[
+"Djambi",
+6,
+[]
+],
+[
+"Operation",
+6,
+[
+"Operation game"
+]
+],
+[
+"Hare games",
+6,
+[
+"Catch the Alien",
+"Catch the Giant",
+"French Military Game",
+"Game of Dwarves",
+"Hare and hounds",
+"Pumpkin Hunter",
+"Rodent Roundup",
+"The Devil among tailors",
+"The Soldiers' Game"
+]
+],
+[
+"Kamisado",
+6,
+[]
+],
+[
+"Teeko",
+6,
+[]
+],
+[
+"Bauernroulette",
+6,
+[]
+],
+[
+"Shadows Over Camelot",
+6,
+[]
+],
+[
+"Take It Easy",
+6,
+[
+"Take it Easy!"
+]
+],
+[
+"Qubic",
+6,
+[
+"3D tic-tac-toe"
+]
 ],
 [
 "EinStein würfelt nicht!",
-6
+6,
+[
+"EinStein does not play dice"
+]
 ],
 [
 "business chess",
-6
+6,
+[]
 ],
 [
 "Terrace",
-6
+6,
+[]
 ],
 [
 "Canadian Checkers",
-6
+6,
+[
+"Canadian draughts"
+]
 ],
 [
 "Ashta Chamma",
-6
+6,
+[
+"Chowka bhara"
+]
 ],
 [
 "Ashtapada",
-6
+6,
+[]
 ],
 [
 "Brass: Lancashire",
-6
+6,
+[
+"Brass"
+]
 ],
 [
 "Crocodile Dentist",
-6
+6,
+[
+"Crocodile dentist"
+]
 ],
 [
 "egg dance",
-6
+6,
+[]
 ],
 [
 "Ubongo",
-6
+6,
+[]
 ],
 [
 "Cosmic Encounter",
-6
+6,
+[]
 ],
 [
 "Shengguan Tu",
-6
+6,
+[
+"Promoting Officials",
+"Table of Bureaucratic Promotion"
+]
 ],
 [
 "Mouse Trap",
-6
+6,
+[]
 ],
 [
 "Railway Rivals",
-6
+6,
+[]
 ],
 [
 "Sherlock Holmes Consulting Detective",
-6
-],
+6,
 [
-"Banqi",
-6
+"Consulting Detective",
+"SHCD",
+"Sherlock Holmes",
+"Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases"
+]
 ],
 [
 "War of the Ring",
-6
+6,
+[]
+],
+[
+"Banqi",
+6,
+[
+"Blind Chess",
+"Dark Chess",
+"Half Chess"
+]
 ],
 [
 "BattleLore",
-6
+6,
+[]
 ],
 [
 "Car Wars",
-5
+5,
+[]
 ],
 [
 "Hawalis",
-5
+5,
+[]
 ],
 [
 "Warhammer Quest",
-5
+5,
+[]
 ],
 [
 "Heroscape",
-5
+5,
+[]
 ],
 [
 "Living Forest",
-5
+5,
+[]
 ],
 [
 "Dorfromantik: The Board Game",
-5
+5,
+[
+"Dorfromantik"
+]
 ],
 [
 "Lord of the Rings",
-5
+5,
+[]
 ],
 [
 "Forbidden Island",
-5
+5,
+[]
 ],
 [
 "Bomb Busters",
-5
+5,
+[]
 ],
 [
 "Fearsome Floors",
-5
+5,
+[]
 ],
 [
 "Warzone",
-5
+5,
+[]
 ],
 [
 "The Legends of Andor",
-5
+5,
+[
+"Andor",
+"Legends of Andor"
+]
 ],
 [
 "Mage Knight",
-5
+5,
+[]
 ],
 [
 "Trouble",
-5
+5,
+[]
 ],
 [
 "Civilization: The Boardgame",
-5
+5,
+[]
 ],
 [
 "Robinson Crusoe: Adventures on the Cursed Island",
-5
+5,
+[
+"Robinson Crusoe: adventures on the cursed island"
+]
 ],
 [
 "Shax",
-5
+5,
+[]
 ],
 [
 "Concept",
-5
+5,
+[
+"Yerkish charades"
+]
 ],
 [
 "13 Dead End Drive",
-5
+5,
+[]
 ],
 [
 "Key Largo",
-5
+5,
+[]
 ],
 [
 "The game of fortress and siege",
-5
+5,
+[]
 ],
 [
 "Thud",
-5
+5,
+[]
 ],
 [
 "Balderdash",
-5
+5,
+[]
 ],
 [
 "Commander Chess",
-5
+5,
+[
+"co tu lenh",
+"cờ tư lệnh"
+]
 ],
 [
 "Sushi Go!",
-5
+5,
+[]
 ],
 [
 "Sorry!",
-5
+5,
+[]
 ],
 [
 "Village",
-5
+5,
+[]
 ],
 [
 "ouk chatrang",
-5
+5,
+[
+"Cambodian chess",
+"ouk chaktrang"
+]
 ],
 [
 "Mysterium",
-5
+5,
+[]
 ],
 [
 "Blood Rage",
-5
+5,
+[]
 ],
 [
 "The Voyages of Marco Polo",
-5
+5,
+[]
 ],
 [
 "Cathedral",
-5
+5,
+[]
 ],
 [
 "jacquet",
-5
+5,
+[]
 ],
 [
 "Kensington",
-5
+5,
+[]
 ],
 [
 "Ra",
-5
+5,
+[
+"Reiner Knizia's Ra"
+]
 ],
 [
 "San Marco",
-5
+5,
+[]
 ],
 [
 "Chapayev",
-5
+5,
+[
+"Chapaev"
+]
 ],
 [
 "Malefiz",
-5
+5,
+[]
 ],
 [
 "patrol chess",
-5
+5,
+[]
 ],
 [
 "Ali Guli Mane",
-5
+5,
+[]
 ],
 [
 "Clans",
-5
+5,
+[]
 ],
 [
 "Five Tribes: The Djinns of Naqala",
-5
+5,
+[]
 ],
 [
 "Das Bohnenspiel",
-5
+5,
+[]
 ],
 [
 "World of Warcraft: The Board Game",
-5
+5,
+[]
 ],
 [
 "Hecatomb",
-5
+5,
+[]
 ],
 [
 "Adugo",
-5
+5,
+[]
 ],
 [
 "LYNGK",
-5
+5,
+[]
 ],
 [
 "Suffragetto",
-5
+5,
+[]
 ],
 [
 "The Quacks of Quedlinburg",
-5
+5,
+[]
 ],
 [
 "Dungeon!",
-5
+5,
+[]
 ],
 [
 "Hungry Hungry Hippos",
-5
+5,
+[]
 ],
 [
 "Khanhoo",
-5
+5,
+[
+"Kanhu"
+]
 ],
 [
 "Barbarossa",
-5
+5,
+[]
 ],
 [
 "Thai checkers",
-5
+5,
+[
+"Makhos",
+"Mak-hot",
+"Thai droughts"
+]
 ],
 [
 "Fresco",
-5
+5,
+[]
 ],
 [
 "Louis XIV",
-5
+5,
+[]
 ],
 [
 "Pig",
-5
+5,
+[]
 ],
 [
 "Britannia",
-5
+5,
+[]
 ],
 [
 "Sequence",
-5
+5,
+[]
 ],
 [
 "The Crew: The Quest for Planet Nine",
-5
+5,
+[
+"The Crew"
+]
 ],
 [
 "Tsuro",
-5
+5,
+[]
 ],
 [
 "Betrayal at House on the Hill",
-5
+5,
+[]
 ],
 [
 "Pictures",
-5
+5,
+[]
 ],
 [
 "Mississippi Queen",
-5
+5,
+[]
+],
+[
+"Daybreak",
+4,
+[
+"Climate Crisis"
+]
+],
+[
+"Chinesenspiel",
+4,
+[
+"Chinese game"
+]
+],
+[
+"Chupu",
+4,
+[]
+],
+[
+"The Black Pirate",
+4,
+[
+"Der Schwarze Pirat"
+]
+],
+[
+"Ark Nova",
+4,
+[]
+],
+[
+"Commands & Colors: Ancients",
+4,
+[]
+],
+[
+"Conquest of the Empire",
+4,
+[
+"VI Caesars"
+]
+],
+[
+"Battle Dome",
+4,
+[]
+],
+[
+"Mole in the Hole",
+4,
+[]
+],
+[
+"Gunjin Shōgi",
+4,
+[
+"Gunjin Shogi"
+]
+],
+[
+"Akropolis",
+4,
+[]
+],
+[
+"Entdecker",
+4,
+[]
+],
+[
+"Dungeonquest",
+4,
+[]
+],
+[
+"Trench Crusade",
+4,
+[]
+],
+[
+"Through the Desert",
+4,
+[]
+],
+[
+"Harmonies",
+4,
+[]
+],
+[
+"Endeavor: Deep Sea",
+4,
+[
+"Endeavor Deep Sea"
+]
+],
+[
+"Wolf and Sheep",
+4,
+[
+"Fox and Hounds"
+]
+],
+[
+"Epic Armageddon",
+4,
+[]
+],
+[
+"Gorkamorka",
+4,
+[]
+],
+[
+"You're Bluffing",
+4,
+[]
+],
+[
+"K2",
+4,
+[
+"K2 (board game)"
+]
+],
+[
+"Las Vegas",
+4,
+[]
+],
+[
+"Pickomino",
+4,
+[]
+],
+[
+"Mansions of Madness: First Edition",
+4,
+[
+"Mansions of Madness",
+"Mansions_of_Madness"
+]
+],
+[
+"Beat the Buzzard",
+4,
+[
+"Hol's der Geier",
+"What the Heck?"
+]
+],
+[
+"Manila",
+4,
+[]
+],
+[
+"Medici",
+4,
+[]
+],
+[
+"Kremlin",
+4,
+[]
+],
+[
+"Hey, That's My Fish!",
+4,
+[]
+],
+[
+"Löwenherz",
+4,
+[]
+],
+[
+"Medina",
+4,
+[]
+],
+[
+"Caverna: The Cave Farmers",
+4,
+[
+"Caverna"
+]
+],
+[
+"Mare Nostrum",
+4,
+[]
+],
+[
+"Polarity",
+4,
+[]
+],
+[
+"Hordes",
+4,
+[]
+],
+[
+"sungka",
+4,
+[]
+],
+[
+"Escape from Colditz",
+4,
+[]
+],
+[
+"Thunderstone",
+4,
+[]
+],
+[
+"Primordial Soup",
+4,
+[]
+],
+[
+"Pylos",
+4,
+[]
+],
+[
+"Viva Topo!",
+4,
+[]
+],
+[
+"Push Puppet",
+4,
+[
+"Wakouwa"
+]
+],
+[
+"Concordia",
+4,
+[]
+],
+[
+"Yspahan",
+4,
+[]
+],
+[
+"Verquere",
+4,
+[]
+],
+[
+"Survive: Escape from Atlantis!",
+4,
+[
+"Atlantis"
+]
+],
+[
+"Imhotep: Builder of Egypt",
+4,
+[
+"Imhotep"
+]
+],
+[
+"Pixel",
+4,
+[]
+],
+[
+"Castle",
+4,
+[]
+],
+[
+"Patchwork",
+4,
+[]
+],
+[
+"Chromino",
+4,
+[]
+],
+[
+"Diamant",
+4,
+[
+"Incan Gold"
+]
+],
+[
+"Evo",
+4,
+[
+"Evo: The Last Gasp of the Dinosaurs"
+]
+],
+[
+"Tiger game",
+4,
+[]
+],
+[
+"Magic Maze",
+4,
+[]
+],
+[
+"Avatar: The Last Airbender Trading Card Game",
+4,
+[]
+],
+[
+"Railways of the World",
+4,
+[
+"Railroad Tycoon",
+"Railroad Tycoon: The Boardgame"
+]
+],
+[
+"Star Wars Miniatures",
+4,
+[]
+],
+[
+"Unlur",
+4,
+[]
+],
+[
+"Wooden Ships and Iron Men",
+4,
+[]
+],
+[
+"The Mad Magazine Game",
+4,
+[]
+],
+[
+"Mombasa",
+4,
+[]
+],
+[
+"Die Macher",
+4,
+[]
+],
+[
+"Katro",
+4,
+[]
+],
+[
+"Ünee tugalluulakh",
+4,
+[]
+],
+[
+"World in Flames",
+4,
+[
+"WiF"
+]
+],
+[
+"StarCraft: The Board Game",
+4,
+[]
+],
+[
+"Santorini",
+4,
+[]
+],
+[
+"Kimble",
+4,
+[]
+],
+[
+"Bashni",
+4,
+[]
+],
+[
+"Owela",
+4,
+[
+"//Hus",
+"Hus",
+"//Hüs",
+"Hüs",
+"ǁHus",
+"ǁHüs"
+]
+],
+[
+"1776",
+4,
+[]
+],
+[
+"Inkognito",
+4,
+[]
+],
+[
+"Vai Lung Thlan",
+4,
+[]
+],
+[
+"acey-deucey",
+4,
+[]
+],
+[
+"Aquarius",
+4,
+[]
+],
+[
+"Bagh bandi",
+4,
+[]
+],
+[
+"Bau cua ca cop",
+4,
+[]
+],
+[
+"Samurai",
+4,
+[]
+],
+[
+"Careers",
+4,
+[]
+],
+[
+"Civilization: The Card Game",
+4,
+[]
+],
+[
+"Crossings",
+4,
+[]
+],
+[
+"Dablot Prejjesne",
+4,
+[]
+],
+[
+"Dara",
+4,
+[]
+],
+[
+"Eson xorgol",
+4,
+[]
+],
+[
+"Game of the Generals",
+4,
+[]
+],
+[
+"Werewords",
+4,
+[]
+],
+[
+"Mice and Mystics",
+4,
+[]
+],
+[
+"Shadow Hunters",
+4,
+[]
+],
+[
+"Pueblo",
+4,
+[]
+],
+[
+"Middle-earth Collectible Card Game",
+4,
+[]
+],
+[
+"Liberian Queah",
+4,
+[]
+],
+[
+"Pirate's Cove",
+4,
+[]
+],
+[
+"Krur",
+4,
+[]
+],
+[
+"Isolation",
+4,
+[
+"Isola",
+"Stranded"
+]
+],
+[
+"Alkkagi",
+4,
+[
+"Tanqi"
+]
+],
+[
+"No Thanks!",
+4,
+[]
+],
+[
+"Star Wars: X-Wing Miniatures Game",
+4,
+[]
+],
+[
+"The Mansion of Happiness",
+4,
+[]
+],
+[
+"The Resistance",
+4,
+[
+"Avalon"
+]
+],
+[
+"Australia",
+4,
+[]
+],
+[
+"Mr. Jack",
+4,
+[
+"Mr Jack"
+]
+],
+[
+"La-Trel",
+4,
+[]
+],
+[
+"Black Box",
+4,
+[]
+],
+[
+"Blue Moon City",
+4,
+[]
+],
+[
+"Battle Sheep",
+4,
+[]
+],
+[
+"Eile mit Weile",
+4,
+[]
+],
+[
+"Smart 10",
+3,
+[]
+],
+[
+"Capitol",
+3,
+[]
+],
+[
+"Duplik",
+3,
+[]
+],
+[
+"Abilene",
+3,
+[]
+],
+[
+"Paleo",
+3,
+[]
+],
+[
+"Mage Knight Board Game",
+3,
+[]
+],
+[
+"Colosseum",
+3,
+[]
+],
+[
+"L'Attaque",
+3,
+[]
+],
+[
+"Quacks & Co.: Quedlinburg Dash",
+3,
+[
+"Mit Quacks & Co nach Quedlinburg"
+]
+],
+[
+"Nemesis",
+3,
+[]
+],
+[
+"Cry Havoc",
+3,
+[]
+],
+[
+"Mato Mato",
+3,
+[]
+],
+[
+"Lego Heroica",
+3,
+[]
+],
+[
+"World Without End",
+3,
+[]
+],
+[
+"Wavelength",
+3,
+[]
+],
+[
+"Earth",
+3,
+[]
+],
+[
+"Wyrmspan",
+3,
+[]
+],
+[
+"Dragon Dice",
+3,
+[]
+],
+[
+"Drunter und Drüber",
+3,
+[]
+],
+[
+"Dungeon Twister",
+3,
+[]
+],
+[
+"Arcs",
+3,
+[
+"Arcs: Conflict & Collapse in the Reach"
+]
+],
+[
+"Heat: Pedal to the Metal",
+3,
+[
+"Heat"
+]
+],
+[
+"Kaleidos",
+3,
+[]
+],
+[
+"Coppit",
+3,
+[
+"Trap the Cap"
+]
+],
+[
+"Tanbo",
+3,
+[]
+],
+[
+"Zatre",
+3,
+[]
+],
+[
+"Goa",
+3,
+[]
+],
+[
+"Rise of Augustus",
+3,
+[
+"Augustus"
+]
+],
+[
+"Marienbad",
+3,
+[]
+],
+[
+"Seasons",
+3,
+[]
+],
+[
+"petteia",
+3,
+[]
+],
+[
+"Jambo",
+3,
+[]
+],
+[
+"Kahuna",
+3,
+[]
+],
+[
+"Pay Day",
+3,
+[]
+],
+[
+"Kings & Things",
+3,
+[]
+],
+[
+"That's Life!",
+3,
+[]
+],
+[
+"Battles of Westeros",
+3,
+[]
+],
+[
+"The Rose King",
+3,
+[]
+],
+[
+"Ghost Fightin' Treasure Hunters",
+3,
+[]
+],
+[
+"The Jolly Darkie Target Game",
+3,
+[]
+],
+[
+"Escape from the Hidden Castle",
+3,
+[
+"Escape from the Hidden Castle (2018)",
+"Ghost Party",
+"Midnight Party (1989)"
+]
+],
+[
+"Navia Dratp",
+3,
+[]
+],
+[
+"Ninuki-renju",
+3,
+[]
+],
+[
+"Balloon Cup",
+3,
+[]
+],
+[
+"shovel board",
+3,
+[
+"shove-groat",
+"shovelboard",
+"slide-groat",
+"table shuffleboard"
+]
+],
+[
+"Dead of Winter: A Cross Roads Game",
+3,
+[
+"Dead of Winter",
+"Dead of Winter: A Crossroads Game"
+]
+],
+[
+"Here I Stand",
+3,
+[
+"Here I Stand: Wars of the Reformation 1517-1555"
+]
+],
+[
+"Republic of Rome",
+3,
+[]
+],
+[
+"The Magic Labyrinth",
+3,
+[]
+],
+[
+"Indigo",
+3,
+[]
+],
+[
+"Downfall",
+3,
+[]
+],
+[
+"quantum chess",
+3,
+[]
+],
+[
+"Titan",
+3,
+[
+"The Law of Titan"
+]
+],
+[
+"Tribulation",
+3,
+[]
+],
+[
+"Russian Railroads",
+3,
+[]
+],
+[
+"My First Stone Age",
+3,
+[]
+],
+[
+"20 Questions",
+3,
+[
+"Twenty Questions"
+]
+],
+[
+"Broom Service",
+3,
+[]
+],
+[
+"Isle of Skye: From Chieftain to King",
+3,
+[
+"Isle of Skye"
+]
+],
+[
+"Pictureka!",
+3,
+[]
+],
+[
+"Viticulture",
+3,
+[]
+],
+[
+"Speculation",
+3,
+[]
+],
+[
+"A la carte",
+3,
+[
+"A la Carte"
+]
+],
+[
+"Diaballik",
+3,
+[]
+],
+[
+"Guardians",
+3,
+[]
+],
+[
+"The Quest for El Dorado",
+3,
+[]
+],
+[
+"Kharbaga",
+3,
+[]
+],
+[
+"Machiavelli",
+3,
+[]
+],
+[
+"Man O' War",
+3,
+[]
+],
+[
+"Mana",
+3,
+[]
+],
+[
+"Plakoto",
+3,
+[]
+],
+[
+"So Long Sucker",
+3,
+[
+"F**k You Buddy",
+"Fuck You Buddy"
+]
+],
+[
+"Attack!",
+3,
+[]
+],
+[
+"Simpei",
+3,
+[]
+],
+[
+"Star Wars Customizable Card Game",
+3,
+[]
+],
+[
+"A House Divided",
+3,
+[]
+],
+[
+"Alemungula",
+3,
+[]
+],
+[
+"Aw-li On-nam Ot-tjin",
+3,
+[
+"Otjin"
+]
+],
+[
+"Omweso",
+3,
+[]
+],
+[
+"isolo",
+3,
+[]
+],
+[
+"Fireball Island",
+3,
+[]
+],
+[
+"Lost Worlds",
+3,
+[]
+],
+[
+"Merchant of Venus",
+3,
+[]
+],
+[
+"Vinci",
+3,
+[
+"Vinci: the rise & fall of civilizations"
+]
+],
+[
+"Magneton",
+3,
+[]
+],
+[
+"Warcraft: The Board Game",
+3,
+[]
+],
+[
+"Castle Risk",
+3,
+[]
+],
+[
+"Andada",
+3,
+[]
+],
+[
+"Food Chain Magnate",
+3,
+[]
+],
+[
+"Orléans",
+3,
+[]
+],
+[
+"Giganten (board game)",
+3,
+[]
+],
+[
+"Tobit",
+3,
+[]
+],
+[
+"Cuba",
+3,
+[]
+],
+[
+"Advanced Civilization",
+3,
+[]
+],
+[
+"Anagrams",
+3,
+[]
+],
+[
+"Apples to Apples",
+3,
+[]
+],
+[
+"Awithlaknannai Mosona",
+3,
+[]
+],
+[
+"Battlecars",
+3,
+[]
+],
+[
+"Star Wars: Rebellion",
+3,
+[]
+],
+[
+"Black Path Game",
+3,
+[]
+],
+[
+"Brax",
+3,
+[]
+],
+[
+"Breakthru",
+3,
+[]
+],
+[
+"Caesar",
+3,
+[]
+],
+[
+"Candy Land",
+3,
+[]
+],
+[
+"Carat",
+3,
+[]
+],
+[
+"BattleTech",
+3,
+[]
+],
+[
+"Cleopatra and the Society of Architects",
+3,
+[]
+],
+[
+"Clobber",
+3,
+[]
+],
+[
+"Dala",
+3,
+[]
+],
+[
+"Dameo",
+3,
+[]
+],
+[
+"Dao",
+3,
+[]
+],
+[
+"Dash-guti",
+3,
+[]
+],
+[
+"Paco Ŝako",
+3,
+[]
+],
+[
+"Dorn",
+3,
+[]
+],
+[
+"Dragons of Kir",
+3,
+[]
+],
+[
+"Dungeoneer",
+3,
+[]
+],
+[
+"Empires in Arms",
+3,
+[]
+],
+[
+"Captain Sonar",
+3,
+[]
+],
+[
+"Falling",
+3,
+[]
+],
+[
+"Fields of Action",
+3,
+[]
+],
+[
+"five-field kono",
+3,
+[]
+],
+[
+"Dragon'g Breath",
+3,
+[
+"Sparkling Treasure"
+]
+],
+[
+"German Solo",
+3,
+[]
+],
+[
+"For Sale",
+3,
+[]
+],
+[
+"Gul bara",
+3,
+[]
+],
+[
+"Onitama",
+3,
+[]
+],
+[
+"Karuba",
+3,
+[]
+],
+[
+"Hansa Teutonica",
+3,
+[]
+],
+[
+"high jump",
+3,
+[]
+],
+[
+"Pank-a-Squith",
+3,
+[]
+],
+[
+"Imperial 2030",
+3,
+[]
+],
+[
+"Telestrations",
+3,
+[]
+],
+[
+"Jeson Mor",
+3,
+[]
+],
+[
+"Kolowis Awithlaknannai",
+3,
+[]
+],
+[
+"Komikan",
+3,
+[
+"Solitario"
+]
+],
+[
+"Legend of the Burning Sands",
+3,
+[]
+],
+[
+"Tally Ho!",
+3,
+[]
+],
+[
+"Pack & Stack",
+3,
+[
+"Zak Pak!"
+]
+],
+[
+"PanzerBlitz",
+3,
+[]
+],
+[
+"Pasang",
+3,
+[]
+],
+[
+"Pass the Bomb",
+3,
+[
+"Tick Tock Boom",
+"Tick...Tock Boom",
+"Tic Tac Boom"
+]
+],
+[
+"Peralikatuma",
+3,
+[
+"Perali Kotuwa"
+]
+],
+[
+"Ponte del Diavolo",
+3,
+[]
+],
+[
+"Prophecy",
+3,
+[
+"Proroctvi"
+]
+],
+[
+"Ringo",
+3,
+[]
+],
+[
+"Rumis",
+3,
+[
+"Blokus 3D"
+]
+],
+[
+"Ssangryuk",
+3,
+[]
+],
+[
+"Struggle for Rome",
+3,
+[
+"Catan Histories: Struggle for Rome"
+]
+],
+[
+"Supremacy",
+3,
+[]
+],
+[
+"tabletop football",
+3,
+[]
+],
+[
+"The Kids of Catan",
+3,
+[]
+],
+[
+"Upwords",
+3,
+[
+"Betutorony"
+]
+],
+[
+"Wallenstein",
+3,
+[]
+],
+[
+"Yomi",
+3,
+[
+"Yomi: Fighting Card Game"
+]
+],
+[
+"Ô ăn quan",
+3,
+[]
+],
+[
+"Battlestar Galactica: The Board Game",
+3,
+[
+"Battlestar Galactica: The Boardgame"
+]
+],
+[
+"Candamir: The First Settlers",
+3,
+[]
+],
+[
+"Boomtown",
+3,
+[]
+],
+[
+"Clank! A Deck-Building Adventure",
+3,
+[]
+],
+[
+"Tavli",
+3,
+[
+"backgammon"
+]
+],
+[
+"Nova Luna",
+3,
+[]
+],
+[
+"Ayoayo",
+3,
+[]
+],
+[
+"Cartographers: A Roll Player Tale",
+3,
+[
+"Cartographers"
+]
+],
+[
+"Andor: The Family Fantasy Game",
+2,
+[
+"Andor Junior"
+]
+],
+[
+"Summoner Wars",
+2,
+[
+"Summoner Wars (Second Edition)",
+"Summoner Wars: Second Edition"
+]
+],
+[
+"Caesar & Cleopatra",
+2,
+[]
+],
+[
+"Yavalath",
+2,
+[]
+],
+[
+"Panzer Armee Afrika",
+2,
+[]
+],
+[
+"Richthofen's War",
+2,
+[]
+],
+[
+"Rise and Decline of the Third Reich",
+2,
+[
+"Third Reich"
+]
+],
+[
+"Raumschach",
+2,
+[
+"Space Chess"
+]
+],
+[
+"Quinamid",
+2,
+[]
+],
+[
+"Luxor",
+2,
+[]
+],
+[
+"Parks",
+2,
+[]
+],
+[
+"North Wind",
+2,
+[]
+],
+[
+"A Game of Thrones: Catan – Brotherhood of the Watch",
+2,
+[
+"A Game of Thrones Catan: Brotherhood of the Watch"
+]
+],
+[
+"The Adventures of Robin Hood",
+2,
+[]
+],
+[
+"Heroes of Land, Air & Sea",
+2,
+[]
+],
+[
+"XCOM",
+2,
+[]
+],
+[
+"Chaos in the Old World",
+2,
+[]
+],
+[
+"Go for Broke",
+2,
+[]
+],
+[
+"Calico",
+2,
+[]
+],
+[
+"Tellstones: King's Gambit",
+2,
+[]
+],
+[
+"Zombie Teenz Evolution",
+2,
+[]
+],
+[
+"Roller Coaster Hippo",
+2,
+[]
+],
+[
+"Dragonlance",
+2,
+[
+"Dragonlance (board game)"
+]
+],
+[
+"Coup",
+2,
+[
+"Coup: The Resistance"
+]
+],
+[
+"Northern Zhou Xiangxi",
+2,
+[]
+],
+[
+"parji",
+2,
+[]
+],
+[
+"seven-player chess",
+2,
+[]
+],
+[
+"Five Lines",
+2,
+[]
+],
+[
+"Schaska",
+2,
+[]
+],
+[
+"Chaco",
+2,
+[]
+],
+[
+"Frosthaven",
+2,
+[]
+],
+[
+"Rivers, Roads & Rails",
+2,
+[
+"Connect",
+"Contact"
+]
+],
+[
+"7 Wonders: Architects",
+2,
+[]
+],
+[
+"Oriflamme",
+2,
+[]
+],
+[
+"Prime Climb",
+2,
+[]
+],
+[
+"Cosmic Coasters",
+2,
+[]
+],
+[
+"Oath: Chronicles of Empire and Exile",
+2,
+[]
+],
+[
+"Cups",
+2,
+[]
+],
+[
+"Das kaufmännische Talent",
+2,
+[]
+],
+[
+"Gioul",
+2,
+[]
+],
+[
+"Das Kleine Gespenst",
+2,
+[]
+],
+[
+"Star Wars: The Deckbuilding Game",
+2,
+[]
+],
+[
+"Fallout: The Board Game",
+2,
+[]
+],
+[
+"Wandering Towers",
+2,
+[]
+],
+[
+"Dodo – Rettet das Wackel-Ei",
+2,
+[]
+],
+[
+"De Bellis Magistrorum Militum",
+2,
+[
+"DBMM"
+]
+],
+[
+"Fun Facts",
+2,
+[]
+],
+[
+"Next Station: London",
+2,
+[
+"Next Station London"
+]
+],
+[
+"Mysterium Kids: Captain Echo's Treasure",
+2,
+[
+"Mysterium Kids"
+]
+],
+[
+"Planet Unknown",
+2,
+[]
+],
+[
+"Lunch Money",
+2,
+[]
+],
+[
+"Oltre Mare",
+2,
+[]
+],
+[
+"Can't Stop Express",
+2,
+[]
+],
+[
+"Sphinx",
+2,
+[]
+],
+[
+"The Flying Dutchman",
+2,
+[]
+],
+[
+"Rattus",
+2,
+[]
+],
+[
+"Deutschlandreise",
+2,
+[]
+],
+[
+"Arkadia",
+2,
+[]
+],
+[
+"In the Kingdom of the Polar Bear",
+2,
+[]
+],
+[
+"The Rivals for Catan",
+2,
+[]
+],
+[
+"Diego Drachenzahn",
+2,
+[]
+],
+[
+"Virus!",
+2,
+[]
+],
+[
+"Patchesi",
+2,
+[]
+],
+[
+"In the Footsteps of Darwin",
+2,
+[]
+],
+[
+"Sword Girls",
+2,
+[]
+],
+[
+"Piranha Pedro",
+2,
+[]
+],
+[
+"Polis",
+2,
+[]
+],
+[
+"Captain Flip",
+2,
+[]
+],
+[
+"Magic Keys",
+2,
+[]
+],
+[
+"Taco Kitten Pizza",
+2,
+[]
+],
+[
+"Ticket to Ride Legacy: Legends of the West",
+2,
+[]
+],
+[
+"Fevga",
+2,
+[]
+],
+[
+"Trajan",
+2,
+[]
+],
+[
+"Rock Island",
+2,
+[]
+],
+[
+"SETI: Search for Extraterrestrial Intelligence",
+2,
+[]
+],
+[
+"The Witcher RPG",
+2,
+[]
+],
+[
+"History of the World",
+2,
+[
+"HotW"
+]
+],
+[
+"Fromage",
+2,
+[]
+],
+[
+"Maestro",
+2,
+[]
+],
+[
+"Rebirth",
+2,
+[]
+],
+[
+"Toy Battle",
+2,
+[]
+],
+[
+"Fauna",
+2,
+[]
+],
+[
+"JinxO",
+2,
+[]
+],
+[
+"Morty Sorty Magic Shop",
+2,
+[]
+],
+[
+"Boo Party",
+2,
+[]
+],
+[
+"Streetcar",
+2,
+[]
+],
+[
+"Finca",
+2,
+[]
+],
+[
+"War Chest",
+2,
+[]
+],
+[
+"Sanctuary",
+2,
+[]
+],
+[
+"Friedrich",
+2,
+[]
+],
+[
+"Asara",
+2,
+[]
+],
+[
+"Star Wars: The Card Game",
+2,
+[]
+],
+[
+"Egizia",
+2,
+[]
+],
+[
+"The Ladybug's Costume Party",
+2,
+[]
+],
+[
+"Schnappt Hubi!",
+2,
+[]
+],
+[
+"Uisge",
+2,
+[]
+],
+[
+"Abacus checkers",
+2,
+[]
+],
+[
+"369 Qí",
+2,
+[]
+],
+[
+"Thebes",
+2,
+[]
+],
+[
+"Himalaya",
+2,
+[]
+],
+[
+"Bisca",
+2,
+[]
+],
+[
+"Ido",
+2,
+[]
+],
+[
+"RisiKo!",
+2,
+[]
+],
+[
+"Ghost Stories",
+2,
+[]
+],
+[
+"Tourne Case",
+2,
+[]
+],
+[
+"Truc y flou",
+2,
+[]
+],
+[
+"Triopoly",
+2,
+[]
+],
+[
+"Mascarade",
+2,
+[]
+],
+[
+"BattleTech Collectible Card Game",
+2,
+[]
+],
+[
+"Dungeons & Dragons: The Legend of Drizzt Board Game",
+2,
+[]
+],
+[
+"Tank Battle",
+2,
+[]
+],
+[
+"sixteen soldiers",
+2,
+[]
+],
+[
+"Blink",
+2,
+[]
+],
+[
+"Sowing",
+2,
+[]
+],
+[
+"Ave Caesar",
+2,
+[]
+],
+[
+"Novem",
+2,
+[]
+],
+[
+"Killer Bunnies and the Quest for the Magic Carrot",
+2,
+[]
+],
+[
+"A Line in the Sand",
+2,
+[]
+],
+[
+"Kingsburg",
+2,
+[]
+],
+[
+"Klondike",
+2,
+[]
+],
+[
+"Kotra",
+2,
+[]
+],
+[
+"Bottle Imp",
+2,
+[]
+],
+[
+"Dingbats",
+2,
+[]
+],
+[
+"Pentalath",
+2,
+[]
+],
+[
+"The Mad Magazine Card Game",
+2,
+[]
+],
+[
+"Leonardo da Vinci",
+2,
+[]
+],
+[
+"Life Style",
+2,
+[]
+],
+[
+"Mister X",
+2,
+[]
+],
+[
+"Moruba",
+2,
+[]
+],
+[
+"Almirante",
+2,
+[]
+],
+[
+"1835",
+2,
+[]
+],
+[
+"Up the Creek",
+2,
+[
+"Ogallala"
+]
+],
+[
+"Origo",
+2,
+[]
+],
+[
+"Touché",
+2,
+[]
+],
+[
+"Smash up",
+2,
+[]
+],
+[
+"Notre Dame",
+2,
+[]
+],
+[
+"La Fallera Calavera",
+2,
+[]
+],
+[
+"La Boca",
+2,
+[]
+],
+[
+"Warrior Knights",
+2,
+[]
+],
+[
+"SPQR",
+2,
+[]
+],
+[
+"Elasund",
+2,
+[
+"Elasund: The First City"
+]
+],
+[
+"Battlestar Galactica Collectable Card Game",
+2,
+[]
+],
+[
+"Quarriors!",
+2,
+[
+"Quarriors! Dice-Building Game Set-up Box"
+]
+],
+[
+"Cacao",
+2,
+[]
+],
+[
+"StarGate",
+2,
+[]
+],
+[
+"Mamma Mia!",
+2,
+[]
+],
+[
+"Snail's Pace Race",
+2,
+[]
+],
+[
+"Punaisten ja valkoisten taistelu Suomessa 1918",
+2,
+[]
+],
+[
+"Troyes",
+2,
+[]
+],
+[
+"The Ungame",
+2,
+[]
+],
+[
+"Experiment",
+2,
+[]
+],
+[
+"Test Match",
+2,
+[]
+],
+[
+"Gomocup",
+2,
+[]
+],
+[
+"Wortfix",
+2,
+[]
+],
+[
+"Meschugge",
+2,
+[]
+],
+[
+"WarCry",
+2,
+[]
+],
+[
+"Waurie",
+2,
+[]
+],
+[
+"Whoowasit?",
+2,
+[]
+],
+[
+"Tsoro",
+2,
+[]
+],
+[
+"Colorito",
+2,
+[
+"Robijn"
+]
+],
+[
+"Spooky stairs",
+2,
+[]
+],
+[
+"Spinderella",
+2,
+[]
+],
+[
+"Beppo der Bock",
+2,
+[]
+],
+[
+"Wissens-Spektrum",
+2,
+[]
+],
+[
+"The enchanted tower",
+2,
+[]
+],
+[
+"Dark Souls – The Board Game",
+2,
+[]
+],
+[
+"Schoko & Co.",
+2,
+[]
+],
+[
+"Buck Rogers – Battle for the 25th Century",
+2,
+[]
+],
+[
+"Buffy the Vampire Slayer Collectible Card Game",
+2,
+[]
+],
+[
+"Karawane",
+2,
+[
+"Caravane"
+]
+],
+[
+"Carolus Magnus",
+2,
+[]
+],
+[
+"Ecopolicy",
+2,
+[]
+],
+[
+"Chouine",
+2,
+[]
+],
+[
+"Colonial Diplomacy",
+2,
+[]
+],
+[
+"Magician's Kitchen",
+2,
+[]
+],
+[
+"Diam",
+2,
+[]
+],
+[
+"Europa 1945-2030",
+2,
+[]
+],
+[
+"Exxit",
+2,
+[]
+],
+[
+"Eye Know",
+2,
+[]
+],
+[
+"Fits",
+2,
+[]
+],
+[
+"Flintloque",
+2,
+[]
+],
+[
+"Tokaido",
+2,
+[]
+],
+[
+"Frag",
+2,
+[]
+],
+[
+"Freedom in the Galaxy",
+2,
+[]
+],
+[
+"Celestia",
+2,
+[]
+],
+[
+"Full Metal Planète",
+2,
+[]
+],
+[
+"Settlers of America: Trails to Rails",
+2,
+[]
+],
+[
+"Gounki",
+2,
+[]
+],
+[
+"Jarnac",
+2,
+[]
+],
+[
+"Rich Uncle",
+2,
+[
+"Game of Rich Uncle from the States"
+]
+],
+[
+"Jeu de la drogue",
+2,
+[]
+],
+[
+"Le Château Lafortune",
+2,
+[]
+],
+[
+"Le Cochon qui rit",
+2,
+[]
+],
+[
+"The Lord of the Rings: The Card Game",
+2,
+[
+"LOTR LCG"
+]
+],
+[
+"Orchard",
+2,
+[]
+],
+[
+"Les Aigles",
+2,
+[]
+],
+[
+"Mysteries of Old Peking",
+2,
+[]
+],
+[
+"Grave Robbers from Outer Space",
+2,
+[
+"Grave Robbers From Outer Space"
+]
+],
+[
+"Linq",
+2,
+[]
+],
+[
+"Maharaja",
+2,
+[]
+],
+[
+"simplified mahjong",
+2,
+[
+"Xiangqi mahjong"
+]
+],
+[
+"Maka Bana",
+2,
+[]
+],
+[
+"Mhing",
+2,
+[]
+],
+[
+"Mission: Red Planet",
+2,
+[]
+],
+[
+"Mystery of the Abbey",
+2,
+[]
+],
+[
+"Serenissima",
+2,
+[]
+],
+[
+"Proteus",
+2,
+[]
+],
+[
+"Activity",
+2,
+[]
+],
+[
+"Sleuth",
+2,
+[]
+],
+[
+"Starfire",
+2,
+[]
+],
+[
+"Toscana",
+2,
+[]
+],
+[
+"Verso Recto",
+2,
+[]
+],
+[
+"VOR: The Maelstrom",
+2,
+[]
+],
+[
+"Ace of Aces",
+2,
+[]
+],
+[
+"Anywoli",
+2,
+[]
+],
+[
+"Endodoi",
+2,
+[]
+],
+[
+"Which Witch?",
+2,
+[]
+],
+[
+"A Feast for Odin",
+2,
+[]
+],
+[
+"All The King's Men",
+2,
+[]
+],
+[
+"Kiela",
+2,
+[]
+],
+[
+"Kiothi",
+2,
+[]
+],
+[
+"Keyflower",
+2,
+[]
+],
+[
+"T.I.M.E Stories",
+2,
+[
+"Time Stories"
+]
+],
+[
+"Tzolk'in: The Mayan Calendar",
+2,
+[]
+],
+[
+"Latho",
+2,
+[]
+],
+[
+"Lukho",
+2,
+[]
+],
+[
+"Barragoon",
+2,
+[]
+],
+[
+"Paths of Glory",
+2,
+[
+"Paths of Glory: The First World War, 1914–1918"
+]
+],
+[
+"Scarabeo",
+2,
+[]
+],
+[
+"Space Marines",
+2,
+[]
+],
+[
+"Space Walk",
+2,
+[]
+],
+[
+"White Bear and Red Moon",
+2,
+[
+"Dragon Pass"
+]
+],
+[
+"Squander",
+2,
+[]
+],
+[
+"Star Fleet Battles",
+2,
+[]
+],
+[
+"Starship Troopers",
+2,
+[
+"Robert Heinlein's Starship Troopers"
+]
+],
+[
+"Aye, Dark Overlord!",
+2,
+[]
+],
+[
+"Warangel",
+2,
+[]
+],
+[
+"Brainstorm",
+2,
+[]
+],
+[
+"Kanagawa",
+2,
+[]
+],
+[
+"Schnapp die Nuss!",
+2,
+[]
+],
+[
+"Colomino",
+2,
+[
+"+ 1 more",
+"Blockout",
+"Block Out"
+]
+],
+[
+"Wahoo",
+2,
+[]
+],
+[
+"Forbidden Desert",
+2,
+[]
+],
+[
+"1989: Dawn of Freedom",
+2,
+[]
+],
+[
+"Just 4 Fun",
+2,
+[]
+],
+[
+"Gaia Project",
+2,
+[]
+],
+[
+"Raiders of the North Sea",
+2,
+[]
+],
+[
+"Doctor Faust",
+2,
+[]
+],
+[
+"Burg Appenzell",
+2,
+[
+"Castle of Appenzell"
+]
+],
+[
+"Kraken-Alarm",
+2,
+[]
+],
+[
+"Dream Home",
+2,
+[]
+],
+[
+"221B Baker Street",
+2,
+[]
+],
+[
+"30 Seconds",
+2,
+[]
+],
+[
+"Advance to Boardwalk",
+2,
+[
+"Monopoly Advance to Boardwalk"
+]
+],
+[
+"Afrika Korps",
+2,
+[]
+],
+[
+"Age of Mythology: The Boardgame",
+2,
+[]
+],
+[
+"Age of Renaissance",
+2,
+[]
+],
+[
+"Aggravation",
+2,
+[]
+],
+[
+"Neolithibum",
+2,
+[]
+],
+[
+"Alexander the Great",
+2,
+[
+"Александар"
+]
+],
+[
+"All Star Baseball",
+2,
+[]
+],
+[
+"Anachronism",
+2,
+[]
+],
+[
+"Shiftago",
+2,
+[]
+],
+[
+"Andantino",
+2,
+[]
+],
+[
+"Astar",
+2,
+[]
+],
+[
+"Avalanche",
+2,
+[]
+],
+[
+"Awithlaknakwe",
+2,
+[]
+],
+[
+"Axis & Allies: Europe",
+2,
+[]
+],
+[
+"Axis & Allies: Pacific",
+2,
+[]
+],
+[
+"Battle of the Bulge",
+2,
+[]
+],
+[
+"Berlin ’85: The Enemy at the Gates",
+2,
+[
+"Berlin ’85"
+]
+],
+[
+"Earth Game",
+2,
+[]
+],
+[
+"Dimension Demons",
+2,
+[]
+],
+[
+"Citadel of Blood",
+2,
+[]
+],
+[
+"The Game of France, 1940",
+2,
+[]
+],
+[
+"Bismarck",
+2,
+[]
+],
+[
+"Bizingo",
+2,
+[]
+],
+[
+"Bleach Trading Card Game",
+2,
+[]
+],
+[
+"Blood Royale",
+2,
+[]
+],
+[
+"Blue & Gray",
+2,
+[]
+],
+[
+"Blue Marble Game",
+2,
+[
+"Blue Marbel Game"
+]
+],
+[
+"Blue Max",
+2,
+[]
+],
+[
+"Buga-shadara",
+2,
+[]
+],
+[
+"Camelot",
+2,
+[
+"Chivalry",
+"Inside Moves"
+]
+],
+[
+"Camp Granada",
+2,
+[]
+],
+[
+"Caribbean",
+2,
+[]
+],
+[
+"Dungeons & Dragons: Castle Ravenloft Board Game",
+2,
+[
+"Castle Ravenloft",
+"Castle Ravenloft Board Game",
+"D&D : Castle Ravenloft Board Game"
+]
+],
+[
+"Catan Dice Game",
+2,
+[]
+],
+[
+"Catan Geographies: Germany",
+2,
+[]
+],
+[
+"Cootie",
+2,
+[
+"Flea",
+"The Game of Cootie"
+]
+],
+[
+"Dark Future",
+2,
+[]
+],
+[
+"Dark Millennium",
+2,
+[]
+],
+[
+"Dark Tower",
+2,
+[]
+],
+[
+"Cytosis: A Cell Biology Board Game",
+2,
+[
+"Cytosis"
+]
+],
+[
+"Discworld: Ankh-Morpork",
+2,
+[]
+],
+[
+"Doctor Who – Battles in Time",
+2,
+[]
+],
+[
+"Don't Give Up the Ship!",
+2,
+[]
+],
+[
+"Don't Go to Jail",
+2,
+[]
+],
+[
+"Kings of War",
+2,
+[]
+],
+[
+"Dungeons & Dragons Computer Labyrinth Game",
+2,
+[]
+],
+[
+"Elder Sign",
+2,
+[]
+],
+[
+"Emergo",
+2,
+[]
+],
+[
+"Star Wars Risk: The Clone Wars Edition",
+2,
+[]
+],
+[
+"Federation Commander",
+2,
+[]
+],
+[
+"Felli",
+2,
+[
+"Fich"
+]
+],
+[
+"Fetaix",
+2,
+[
+"qireq"
+]
+],
+[
+"Flash Point: Fire Rescue",
+2,
+[]
+],
+[
+"Anno 1701",
+2,
+[]
+],
+[
+"Antike",
+2,
+[]
+],
+[
+"Axiom",
+2,
+[]
+],
+[
+"Dragonwood",
+2,
+[]
+],
+[
+"Gift Trap",
+2,
+[]
+],
+[
+"Barbarian Prince",
+2,
+[]
+],
+[
+"Havana",
+2,
+[]
+],
+[
+"Godzilla Game",
+2,
+[]
+],
+[
+"Gother Than Thou",
+2,
+[]
+],
+[
+"Monte Rolla",
+2,
+[]
+],
+[
+"13 Days: The Cuban Missile Crisis",
+2,
+[
+"13 Days"
+]
+],
+[
+"Photosynthesis",
+2,
+[]
+],
+[
+"Headache",
+2,
+[]
+],
+[
+"Marvel Heroes",
+2,
+[]
+],
+[
+"Sagrada",
+2,
+[]
+],
+[
+"Commonspoly",
+2,
+[
+"Commonsopoly",
+"Commons Poly"
+]
+],
+[
+"Enkeshui",
+2,
+[
+"Engesho"
+]
+],
+[
+"Hamburgum",
+2,
+[]
+],
+[
+"Imaginiff",
+2,
+[]
+],
+[
+"Imperium",
+2,
+[
+"Imperium: Empires in Conflict – Worlds in the Balance"
+]
+],
+[
+"Indian and jackrabbits",
+2,
+[]
+],
+[
+"Inkan aarre",
+2,
+[]
+],
+[
+"Battlesuit",
+2,
+[]
+],
+[
+"Italian Damone",
+2,
+[]
+],
+[
+"Pioneers",
+2,
+[]
+],
+[
+"Brian Clough's Football Fortunes",
+2,
+[]
+],
+[
+"Catan Histories: Rise of the Inka",
+2,
+[
+"Catan - Rise of the Inkas",
+"Rise of the Inkas"
+]
+],
+[
+"Aqua Romana",
+2,
+[]
+],
+[
+"jul-gonu",
+2,
+[]
+],
+[
+"Kaooa",
+2,
+[]
+],
+[
+"Kill Doctor Lucky",
+2,
+[]
+],
+[
+"Kingdoms",
+2,
+[]
+],
+[
+"Contigo",
+2,
+[]
+],
+[
+"Krypto",
+2,
+[
+"Kripto"
+]
+],
+[
+"La'b Hakimi",
+2,
+[
+"La'b Akili"
+]
+],
+[
+"Melee",
+2,
+[]
+],
+[
+"Leap Frog",
+2,
+[]
+],
+[
+"Iron Horse",
+2,
+[]
+],
+[
+"Space Empires 4X",
+2,
+[]
+],
+[
+"Leopard hunt game",
+2,
+[
+"leopard games",
+"Leopard hunt games"
+]
+],
+[
+"Life as a BlackMan",
+2,
+[]
+],
+[
+"Valley of the Vikings",
+2,
+[]
+],
+[
+"Cyclades",
+2,
+[]
+],
+[
+"Lords of Waterdeep",
+2,
+[]
+],
+[
+"Mak-yek",
+2,
+[]
+],
+[
+"Management",
+2,
+[]
+],
+[
+"MechWarrior: Dark Age",
+2,
+[]
+],
+[
+"Tumbling Down",
+2,
+[]
+],
+[
+"Mighty Warriors",
+2,
+[]
+],
+[
+"MindTrap",
+2,
+[]
+],
+[
+"Monopoly Junior",
+2,
+[]
+],
+[
+"Napoleon in Europe",
+2,
+[]
+],
+[
+"Naval Battles",
+2,
+[]
+],
+[
+"New World: A Carcassonne Game",
+2,
+[]
+],
+[
+"Ogre",
+2,
+[]
+],
+[
+"Orient Express",
+2,
+[]
+],
+[
+"Outburst",
+2,
+[]
+],
+[
+"Perfection",
+2,
+[]
+],
+[
+"Permainan-Tabal",
+2,
+[]
+],
+[
+"Risk 2210 A.D.",
+2,
+[]
+],
+[
+"Runebound",
+2,
+[]
+],
+[
+"Say Anything",
+2,
+[]
+],
+[
+"Schotten-Totten",
+2,
+[]
+],
+[
+"Skirrid",
+2,
+[]
+],
+[
+"Sniper!",
+2,
+[]
+],
+[
+"Star",
+2,
+[]
+],
+[
+"Stay Alive",
+2,
+[]
+],
+[
+"TEG",
+2,
+[
+"T.E.G."
+]
+],
+[
+"TacTix",
+2,
+[]
+],
+[
+"Terhuchu",
+2,
+[]
+],
+[
+"The Fantasy Trip",
+2,
+[
+"Advanced Melee",
+"Advanced Wizard",
+"In the Labyrinth",
+"TFT: Melee",
+"TFT: Wizard",
+"Wizard"
+]
+],
+[
+"The Fury of Dracula",
+2,
+[]
+],
+[
+"The Settlers of Zarahemla",
+2,
+[]
+],
+[
+"The Sorcerer's Cave",
+2,
+[]
+],
+[
+"Tiger and buffaloes",
+2,
+[]
+],
+[
+"Triplanetary",
+2,
+[]
+],
+[
+"Uckers",
+2,
+[
+"Huckers"
+]
+],
+[
+"Underwater Cities",
+2,
+[]
+],
+[
+"War on Terror",
+2,
+[
+"War on Terror, the Boardgame",
+"War on Terror: the Boardgame"
+]
+],
+[
+"watermelon chess",
+2,
+[]
+],
+[
+"We the People",
+2,
+[]
+],
+[
+"Wits & Wagers",
+2,
+[
+"Wits and Wagers"
+]
+],
+[
+"Wiz-War",
+2,
+[]
+],
+[
+"Wrath of Ashardalon",
+2,
+[
+"Dungeons & Dragons: Wrath of Ashardalon Board Game"
+]
+],
+[
+"Zingo!",
+2,
+[]
+],
+[
+"Bausack",
+2,
+[]
+],
+[
+"Little Town",
+2,
+[]
+],
+[
+"The X-Files Trivia Game",
+2,
+[]
+],
+[
+"Ms. Monopoly",
+2,
+[]
+],
+[
+"Billabong",
+2,
+[
+"High Tail It!"
+]
+],
+[
+"Borodino",
+2,
+[
+"Battle for Borodino",
+"Battle of Borodino",
+"The Battle of Borodino: Napoleon in Russia 1812"
+]
+],
+[
+"Mykerinos",
+2,
+[]
+],
+[
+"Octi",
+2,
+[]
+],
+[
+"Bauernhof-Bande",
+2,
+[]
+],
+[
+"My City",
+2,
+[]
+],
+[
+"Sheriff of Nottingham",
+2,
+[]
+],
+[
+"Crimson Skies",
+2,
+[]
+],
+[
+"Hyena chase",
+2,
+[]
+],
+[
+"Hedgehog Roll",
+2,
+[]
+],
+[
+"Circus Maximus",
+2,
+[]
+],
+[
+"Dungeon Lords",
+2,
+[]
+],
+[
+"Lowlands",
+1,
+[]
+],
+[
+"Foto Fish",
+1,
+[]
+],
+[
+"Talisman City",
+1,
+[]
+],
+[
+"Talisman The Adventure",
+1,
+[]
+],
+[
+"The Warlock of Firetop Mountain",
+1,
+[]
+],
+[
+"Feudum",
+1,
+[]
+],
+[
+"Star Trek: The Enterprise 4 Encounter",
+1,
+[]
+],
+[
+"Mega-Mania",
+1,
+[]
+],
+[
+"Seunggyeongdo",
+1,
+[]
+],
+[
+"Trap",
+1,
+[]
+],
+[
+"Ferris Bueller's Day Off",
+1,
+[]
+],
+[
+"Splotch",
+1,
+[]
+],
+[
+"Six",
+1,
+[]
+],
+[
+"Dipole",
+1,
+[]
+],
+[
+"Panzerkrieg: von Manstein & HeeresGruppe Süd",
+1,
+[]
+],
+[
+"Carabande",
+1,
+[]
+],
+[
+"Taule",
+1,
+[]
+],
+[
+"Hippos & Crocodiles",
+1,
+[]
+],
+[
+"Chameleon",
+1,
+[
+"Chamäleon"
+]
+],
+[
+"Star Trek: Catan",
+1,
+[]
+],
+[
+"Abande",
+1,
+[]
+],
+[
+"Alcazar",
+1,
+[]
+],
+[
+"Cardino",
+1,
+[]
+],
+[
+"Insecta (board game)",
+1,
+[]
+],
+[
+"Indian Ocean Adventure: The Japanese Raids on Ceylon",
+1,
+[]
+],
+[
+"Adeptus Titanicus",
+1,
+[]
+],
+[
+"The Worlds of Boris Vallejo",
+1,
+[]
+],
+[
+"Terror of the Lichemaster",
+1,
+[]
+],
+[
+"Riddle of the Ring",
+1,
+[
+"The Riddle of the Ring"
+]
+],
+[
+"Dark Emperor",
+1,
+[]
+],
+[
+"Dark Blades",
+1,
+[]
+],
+[
+"Ellery Queen's Mystery Magazine Game",
+1,
+[]
+],
+[
+"Ellery Queen's Operation: Murder",
+1,
+[]
+],
+[
+"Agatha Christie: Behind the Screen",
+1,
+[]
+],
+[
+"Armada",
+1,
+[]
+],
+[
+"Chase",
+1,
+[]
+],
+[
+"Sea Hawks",
+1,
+[]
+],
+[
+"Exorbitare",
+1,
+[]
+],
+[
+"We play shopping",
+1,
+[]
+],
+[
+"Helvetia",
+1,
+[]
+],
+[
+"Mesopotamia",
+1,
+[
+"Mesopotamia: Cradle of Civilization"
+]
+],
+[
+"Close to the Border",
+1,
+[]
+],
+[
+"Sherwood Forest",
+1,
+[]
+],
+[
+"Keythedral",
+1,
+[]
+],
+[
+"Waka Waka",
+1,
+[]
+],
+[
+"Pelican Cove",
+1,
+[]
+],
+[
+"Merchants of Amsterdam",
+1,
+[]
+],
+[
+"Globalissimo",
+1,
+[]
+],
+[
+"Catan: Ancient Egypt",
+1,
+[]
+],
+[
+"Germany: Find Minden",
+1,
+[]
+],
+[
+"Portobello Market",
+1,
+[]
+],
+[
+"Toledo",
+1,
+[]
+],
+[
+"Momentum",
+1,
+[]
+],
+[
+"Whiskey Settlers",
+1,
+[]
+],
+[
+"Nauticus",
+1,
+[]
+],
+[
+"The Swarm",
+1,
+[]
+],
+[
+"The Settlers of Nuremberg",
+1,
+[]
+],
+[
+"Guatemala Cafe",
+1,
+[
+"Guatemala Café"
+]
+],
+[
+"A Column of Fire",
+1,
+[]
+],
+[
+"Anasazi",
+1,
+[]
+],
+[
+"De Kolonisten van de Lage Landen",
+1,
+[]
+],
+[
+"Akron",
+1,
+[]
+],
+[
+"Drop It",
+1,
+[]
+],
+[
+"Catan Geographies: Settlers of Hesse",
+1,
+[]
+],
+[
+"The Golden Compass",
+1,
+[]
+],
+[
+"Catan: Event Cards",
+1,
+[]
+],
+[
+"Vikings",
+1,
+[]
+],
+[
+"Black Friday",
+1,
+[]
+],
+[
+"The Golden City",
+1,
+[]
+],
+[
+"Catan - Anniversary Edition",
+1,
+[]
+],
+[
+"Battle Over Britain",
+1,
+[]
+],
+[
+"Blue & Gray: Four American Civil War Battles",
+1,
+[]
+],
+[
+"A Gleam of Bayonets: The Battle of Antietam",
+1,
+[]
+],
+[
+"Oust",
+1,
+[]
+],
+[
+"Catan Scenario: Crop Trust",
+1,
+[]
+],
+[
+"Battles for the Ardennes",
+1,
+[]
+],
+[
+"Drive on Stalingrad: Battle for Southern Russia Game",
+1,
+[]
+],
+[
+"Firefight: Modern U.S. and Soviet Small Unit Tactics",
+1,
+[]
+],
+[
+"Catan Histories: Merchants of Europe",
+1,
+[]
+],
+[
+"Catan: Portable Edition",
+1,
+[]
+],
+[
+"Wien Catan",
+1,
+[]
+],
+[
+"The 7th Continent",
+1,
+[]
+],
+[
+"Baden-Württemberg Catan",
+1,
+[]
+],
+[
+"Glory to Rome",
+1,
+[]
+],
+[
+"The Great Wall Street Fortune Hunt",
+1,
+[]
+],
+[
+"Simply Catan",
+1,
+[]
+],
+[
+"The Settlers of Catan - Mini",
+1,
+[]
+],
+[
+"The Settlers of Catan - Entry level version",
+1,
+[]
+],
+[
+"Catan Junior Madagascar",
+1,
+[]
+],
+[
+"Catan Scenarios: Frenemies",
+1,
+[]
+],
+[
+"Merv: The Heart of the Silk Road",
+1,
+[]
+],
+[
+"Tintenblut",
+1,
+[]
+],
+[
+"Inkheart",
+1,
+[]
+],
+[
+"NE-spelet",
+1,
+[
+"the NE game"
+]
+],
+[
+"Mississippi",
+1,
+[]
+],
+[
+"War",
+1,
+[
+"Ataque, Nuclear War I"
+]
+],
+[
+"51st State",
+1,
+[]
+],
+[
+"The Gallerist",
+1,
+[]
+],
+[
+"Big Kini",
+1,
+[]
+],
+[
+"Indus",
+1,
+[]
+],
+[
+"Blox",
+1,
+[]
+],
+[
+"Inka",
+1,
+[]
+],
+[
+"Aton",
+1,
+[]
+],
+[
+"Popkult",
+1,
+[]
+],
+[
+"Wacht am Rhein",
+1,
+[
+"'Wacht am Rhein': The Battle of the Bulge, 16 Dec 44 – 2 Jan 45"
+]
+],
+[
+"Patrol",
+1,
+[]
+],
+[
+"James Clavell's Tai-Pan",
+1,
+[]
+],
+[
+"The First Galaxy G1",
+1,
+[]
+],
+[
+"Westminster: The Election Game",
+1,
+[]
+],
+[
+"The President",
+1,
+[]
+],
+[
+"Hype",
+1,
+[]
+],
+[
+"Vietnam: 1965-1975",
+1,
+[]
+],
+[
+"Save the President",
+1,
+[]
+],
+[
+"Cobra: Game of the Normandy Breakout",
+1,
+[]
+],
+[
+"Brass: Birmingham",
+1,
+[]
+],
+[
+"Last Battle: Twilight 2000",
+1,
+[]
+],
+[
+"Last Frontier: The Vesuvius Incident",
+1,
+[]
+],
+[
+"Vultures",
+1,
+[]
+],
+[
+"Ocean Trader",
+1,
+[]
+],
+[
+"Crude: The Oil Game",
+1,
+[
+"McMulti"
+]
+],
+[
+"Open Fire: Solitaire Tank Combat in WWII",
+1,
+[]
+],
+[
+"Tac Air",
+1,
+[]
+],
+[
+"The Hunt for Red October",
+1,
+[]
+],
+[
+"Lee vs. Grant: The Wilderness Campaign of 1864",
+1,
+[]
+],
+[
+"6-Tage Rennen",
+1,
+[]
+],
+[
+"Man the Lifeboat",
+1,
+[]
+],
+[
+"Angola",
+1,
+[]
+],
+[
+"The Great Patriotic War: Nazi Germany vs. the Soviet Union",
+1,
+[]
+],
+[
+"Seaside Frolics",
+1,
+[]
+],
+[
+"Campaign Trail: The Game of Presidential Elections",
+1,
+[]
+],
+[
+"Presidential Campaign",
+1,
+[]
+],
+[
+"Election",
+1,
+[]
+],
+[
+"Mr. Trucker",
+1,
+[]
+],
+[
+"Bewitched",
+1,
+[]
+],
+[
+"Orgy",
+1,
+[]
+],
+[
+"Gulf Strike",
+1,
+[]
+],
+[
+"Who Can Beat Nixon?",
+1,
+[]
+],
+[
+"Slick!",
+1,
+[]
+],
+[
+"War of 1812",
+1,
+[
+"War of 1812 (1973)"
+]
+],
+[
+"Insider Dealing",
+1,
+[]
+],
+[
+"Menara",
+1,
+[]
+],
+[
+"Triumph",
+1,
+[]
+],
+[
+"Wicketz",
+1,
+[]
+],
+[
+"The Metric Mile",
+1,
+[]
+],
+[
+"Test of Arms",
+1,
+[]
+],
+[
+"The Campaigns of Robert E. Lee",
+1,
+[]
+],
+[
+"Maloney's Inheritance",
+1,
+[]
+],
+[
+"The Golf Game: Par Excellence",
+1,
+[]
+],
+[
+"Tokyo Express: The Guadalcanal Naval Campaign – 1942",
+1,
+[]
+],
+[
+"Desert Falcons",
+1,
+[]
+],
+[
+"Deal Me In",
+1,
+[]
+],
+[
+"The Last Hurrah",
+1,
+[]
+],
+[
+"Lose Your Shirt",
+1,
+[]
+],
+[
+"The Peninsular War 1808-14",
+1,
+[]
+],
+[
+"Pole Position",
+1,
+[]
+],
+[
+"Circus Imperium",
+1,
+[]
+],
+[
+"Safari Jack",
+1,
+[]
+],
+[
+"Clan War",
+1,
+[]
+],
+[
+"The Way of War",
+1,
+[]
+],
+[
+"Victory: World War II",
+1,
+[]
+],
+[
+"New York, New York",
+1,
+[]
+],
+[
+"La Bataille d'Albuera: Espagnol",
+1,
+[]
+],
+[
+"Onslaught",
+1,
+[]
+],
+[
+"City",
+1,
+[]
+],
+[
+"Targui",
+1,
+[]
+],
+[
+"Checkmath",
+1,
+[]
+],
+[
+"The Emperor Returns",
+1,
+[]
+],
+[
+"Breakaway Rider",
+1,
+[]
+],
+[
+"Zombie Fluxx",
+1,
+[]
+],
+[
+"Quadromania",
+1,
+[]
+],
+[
+"Stack",
+1,
+[]
+],
+[
+"Oppression",
+1,
+[]
+],
+[
+"Share Mania",
+1,
+[]
+],
+[
+"Res Arcana",
+1,
+[]
+],
+[
+"Mathesso",
+1,
+[
+"Category:Mathesso"
+]
+],
+[
+"Towers",
+1,
+[]
+],
+[
+"Drang Nach Osten!",
+1,
+[]
+],
+[
+"Bergnein",
+1,
+[]
+],
+[
+"Instant Propose",
+1,
+[]
+],
+[
+"Gothic Checkers",
+1,
+[]
+],
+[
+"Blitzkrieg",
+1,
+[]
+],
+[
+"Altiplano",
+1,
+[]
+],
+[
+"Oceans",
+1,
+[]
+],
+[
+"1812",
+1,
+[]
+],
+[
+"1853",
+1,
+[]
+],
+[
+"Train",
+1,
+[]
+],
+[
+"Fight for the Sky",
+1,
+[]
+],
+[
+"8th Army",
+1,
+[]
+],
+[
+"Ace of Aces: Wingleader",
+1,
+[]
+],
+[
+"Hepta",
+1,
+[
+"hepta"
+]
+],
+[
+"Europe Aflame",
+1,
+[]
+],
+[
+"Aliens",
+1,
+[]
+],
+[
+"Napoleon's Battles",
+1,
+[]
+],
+[
+"Modern Naval Battles",
+1,
+[]
+],
+[
+"Red Barricades: ASL Historical Module 1",
+1,
+[]
+],
+[
+"Assarmot",
+1,
+[
+"Assarmot. Gra historyczna"
+]
+],
+[
+"Light Division",
+1,
+[]
+],
+[
+"Hitler's Last Gamble",
+1,
+[]
+],
+[
+"ASG Baseball",
+1,
+[]
+],
+[
+"Usuthu! The Battle Of Rorke's Drift 1879",
+1,
+[]
+],
+[
+"Modern Naval Battles II: The Campaign Game",
+1,
+[]
+],
+[
+"Patton's 3rd Army",
+1,
+[]
+],
+[
+"Save Doctor Lucky",
+1,
+[]
+],
+[
+"1851 Agidingbi",
+1,
+[]
+],
+[
+"Ironbottom Sound",
+1,
+[]
+],
+[
+"Middle Sea",
+1,
+[]
+],
+[
+"Aqualin",
+1,
+[]
+],
+[
+"Pickett's Charge",
+1,
+[]
+],
+[
+"Nimbi",
+1,
+[]
+],
+[
+"Kriegsmarine",
+1,
+[]
+],
+[
+"two-player chess",
+1,
+[]
+],
+[
+"one-player chess",
+1,
+[
+"single-player chess"
+]
+],
+[
+"Syzygy",
+1,
+[]
+],
+[
+"Tonkin",
+1,
+[]
+],
+[
+"Fish, fluff, meatballs",
+1,
+[]
+],
+[
+"Legendary: A Marvel Deck Building Game",
+1,
+[]
+],
+[
+"Espresso Doppio",
+1,
+[]
+],
+[
+"Descent: Legends of the Dark",
+1,
+[]
+],
+[
+"Blitzkrieg Module System",
+1,
+[]
+],
+[
+"Cromwell",
+1,
+[]
+],
+[
+"'CA': Tactical Naval Warfare in the Pacific 1941-43",
+1,
+[]
+],
+[
+"Caesar's Legions",
+1,
+[]
+],
+[
+"The American Revolution: 1775–1783",
+1,
+[]
+],
+[
+"Sticks & Stones",
+1,
+[]
+],
+[
+"Combined Arms",
+1,
+[]
+],
+[
+"Crimea: The Dawn of Modern Warfare",
+1,
+[]
+],
+[
+"Watergate",
+1,
+[]
+],
+[
+"The Battle of Britain",
+1,
+[]
+],
+[
+"The Battles of Bull Run",
+1,
+[]
+],
+[
+"The Marne: Home Before the Leaves Fall",
+1,
+[]
+],
+[
+"The Conquerors",
+1,
+[]
+],
+[
+"Napoleon at Bay",
+1,
+[]
+],
+[
+"Barbarossa: The Russo-German War 1941-45",
+1,
+[]
+],
+[
+"Jurassic World: The Legacy of Isla Nublar",
+1,
+[]
+],
+[
+"The East is Red: The Sino Soviet War",
+1,
+[]
+],
+[
+"The American Civil War: 1861–1865",
+1,
+[]
+],
+[
+"Destruction of Army Group Center",
+1,
+[]
+],
+[
+"1812: The Campaign of Napoleon in Russia",
+1,
+[]
+],
+[
+"El Alamein: Battles in North Africa, 1942",
+1,
+[]
+],
+[
+"Foxbat & Phantom",
+1,
+[]
+],
+[
+"Frederick the Great",
+1,
+[]
+],
+[
+"Global War",
+1,
+[]
+],
+[
+"La Grande Armée",
+1,
+[]
+],
+[
+"Guerilla",
+1,
+[]
+],
+[
+"Quebec 1759",
+1,
+[]
+],
+[
+"Jerusalem! Tactical Game of the 1948 War",
+1,
+[]
+],
+[
+"Island War: Four Pacific Battles",
+1,
+[]
+],
+[
+"KampfPanzer: Armored Combat, 1937–40",
+1,
+[]
+],
+[
+"Kasserine Pass: The Baptism of Fire",
+1,
+[]
+],
+[
+"Overlord",
+1,
+[]
+],
+[
+"Kriegspiel",
+1,
+[]
+],
+[
+"Kursk: Operation Zitadelle",
+1,
+[]
+],
+[
+"Korea: The Mobile War",
+1,
+[]
+],
+[
+"Korsun Pocket: Little Stalingrad on the Dnepr",
+1,
+[]
+],
+[
+"Lee vs. Meade",
+1,
+[]
+],
+[
+"Chessboard and chess pieces used by Napoleon and his entourage at Longwood, Saint Helena",
+1,
+[]
+],
+[
+"Park and Shop",
+1,
+[]
+],
+[
+"Leipzig: The Battle of Nations",
+1,
+[]
+],
+[
+"Lost Battles: Operational Combat in Russia",
+1,
+[]
+],
+[
+"Luftwaffe",
+1,
+[
+"Luftwaffe: The Game of Aerial Combat Over Germany 1943-45"
+]
+],
+[
+"Marengo: Napoleon in Italy, 14 June 1800",
+1,
+[]
+],
+[
+"MechWar '77",
+1,
+[
+"MechWar '77: Tactical Armored Combat in the 1970s"
+]
+],
+[
+"Minuteman: The Second American Revolution",
+1,
+[]
+],
+[
+"Modern Battles: Four Contemporary Conflicts",
+1,
+[]
+],
+[
+"Narvik: The Campaign in Norway, 1940",
+1,
+[]
+],
+[
+"CLOWN",
+1,
+[]
+],
+[
+"Napoleon at War: Four Battles",
+1,
+[]
+],
+[
+"Cryptid",
+1,
+[]
+],
+[
+"Cartaventura: Lhasa",
+1,
+[
+"Cartaventura Lhasa"
+]
+],
+[
+"Iki",
+1,
+[]
+],
+[
+"Draftosaurus",
+1,
+[]
+],
+[
+"Solenia",
+1,
+[]
+],
+[
+"Battle for Midway: Decision in the Pacific, 1942",
+1,
+[]
+],
+[
+"1918",
+1,
+[]
+],
+[
+"Khalkhin-Gol",
+1,
+[]
+],
+[
+"Nordlingen",
+1,
+[]
+],
+[
+"Lützen",
+1,
+[]
+],
+[
+"Freiburg",
+1,
+[]
+],
+[
+"Gigamons",
+1,
+[]
+],
+[
+"Mondo",
+1,
+[]
+],
+[
+"Bruxelles 1893",
+1,
+[]
+],
+[
+"Miracle Five",
+1,
+[]
+],
+[
+"Bloody Ridge",
+1,
+[]
+],
+[
+"Austerlitz",
+1,
+[
+"Austerlitz: The Battle of Three Emperors, 2 December 1805"
+]
+],
+[
+"Anzio Beachhead",
+1,
+[]
+],
+[
+"Atlantic Wall",
+1,
+[
+"Atlantic Wall: The Invasion of Europe June 1944"
+]
+],
+[
+"Ribbit",
+1,
+[
+"The Great Turtle Race"
+]
+],
+[
+"Arnhem",
+1,
+[]
+],
+[
+"COIN",
+1,
+[]
+],
+[
+"Tsushima",
+1,
+[]
+],
+[
+"Westwall: Four Battles to Germany",
+1,
+[]
+],
+[
+"Burma",
+1,
+[]
+],
+[
+"Beda Fomm",
+1,
+[
+"Beda Fomm: Wavell in the Western Desert, 1941"
+]
+],
+[
+"Bloody April: The Battle of Shiloh, 1862",
+1,
+[]
+],
+[
+"The Battle of Raphia, 217 B.C.",
+1,
+[]
+],
+[
+"Blue & Gray II",
+1,
+[]
+],
+[
+"Bar-Lev",
+1,
+[]
+],
+[
+"Cambrai, 1917: The First Blitzkrieg",
+1,
+[]
+],
+[
+"Custer's Last Stand",
+1,
+[]
+],
+[
+"Chariot: Tactical Warfare in the Biblical Age, 3000-500 B.C.",
+1,
+[]
+],
+[
+"Eagle Day: The Battle of Britain",
+1,
+[
+"Eagle Day"
+]
+],
+[
+"Eagles",
+1,
+[]
+],
+[
+"The Fall of Rome",
+1,
+[]
+],
+[
+"EuroFront",
+1,
+[]
+],
+[
+"Frigate: Sea War in the Age of Sail",
+1,
+[]
+],
+[
+"The Fall of Tobruk",
+1,
+[]
+],
+[
+"Fury in the West",
+1,
+[]
+],
+[
+"Friedland 1807",
+1,
+[]
+],
+[
+"Guilford Courthouse",
+1,
+[]
+],
+[
+"Four Battles in North Africa",
+1,
+[]
+],
+[
+"Hurtgen Forest",
+1,
+[]
+],
+[
+"Grand Austria Hotel",
+1,
+[]
+],
+[
+"Feudal Lord",
+1,
+[]
+],
+[
+"Stocks & Bonds",
+1,
+[]
+],
+[
+"The Keep",
+1,
+[]
+],
+[
+"Hannibal",
+1,
+[]
+],
+[
+"Ancients",
+1,
+[]
+],
+[
+"La Belle Alliance: The Battle of Waterloo",
+1,
+[]
+],
+[
+"Leros: The Island Prize",
+1,
+[]
+],
+[
+"Tannenberg",
+1,
+[]
+],
+[
+"Jena-Auerstadt: The Battle for Prussia, 14 October 1806",
+1,
+[]
+],
+[
+"Legion: Tactical Warfare in the Roman Age, 100BC-700AD",
+1,
+[]
+],
+[
+"International Cricket",
+1,
+[]
+],
+[
+"Topple",
+1,
+[]
+],
+[
+"High-Bid",
+1,
+[]
+],
+[
+"Leningrad: The Advance of Army Group North, Summer 1941",
+1,
+[]
+],
+[
+"Ea$y Money",
+1,
+[]
+],
+[
+"Excalibur",
+1,
+[]
+],
+[
+"Thomas the Tank Engine Game",
+1,
+[]
+],
+[
+"Tomorrow the World",
+1,
+[]
+],
+[
+"Counter Intelligence",
+1,
+[]
+],
+[
+"Hookipa",
+1,
+[]
+],
+[
+"Traber Derby Spiel",
+1,
+[]
+],
+[
+"Grosz Jakosa",
+1,
+[]
+],
+[
+"Favoriten",
+1,
+[]
+],
+[
+"Oil War: American Intervention in the Persian Gulf",
+1,
+[]
+],
+[
+"Normandy: The Invasion of Europe 1944",
+1,
+[]
+],
+[
+"Echelon",
+1,
+[]
+],
+[
+"Temple of the Beastmen",
+1,
+[]
+],
+[
+"Clubhouse Baseball",
+1,
+[]
+],
+[
+"Chamelequin",
+1,
+[]
+],
+[
+"5th Fleet: Modern Naval Combat in the Indian Ocean",
+1,
+[]
+],
+[
+"Liftoff!",
+1,
+[]
+],
+[
+"Minden Playing Card Cricket",
+1,
+[]
+],
+[
+"Rise and Fall",
+1,
+[]
+],
+[
+"Dicke Kartoffeln",
+1,
+[]
+],
+[
+"Flux",
+1,
+[]
+],
+[
+"Star Wars: Escape From The Death Star",
+1,
+[]
+],
+[
+"Cover Up",
+1,
+[]
+],
+[
+"Murphy",
+1,
+[]
+],
+[
+"Fidchell: Celtic Chess",
+1,
+[]
+],
+[
+"March Madness",
+1,
+[]
+],
+[
+"Death By Diet",
+1,
+[]
+],
+[
+"Terraforming Mars: Ares Expedition",
+1,
+[]
+],
+[
+"A Mighty Fortress",
+1,
+[
+"A Mighty Fortress: Reformation and Counter-Reformation, 1532-1555"
+]
+],
+[
+"Turing Machine",
+1,
+[]
+],
+[
+"Tactics II",
+1,
+[]
+],
+[
+"War in the East",
+1,
+[]
+],
+[
+"Dark Force",
+1,
+[]
+],
+[
+"Battle for Moscow",
+1,
+[]
+],
+[
+"KuZOOkA",
+1,
+[]
+],
+[
+"Crescendo of Doom",
+1,
+[]
+],
+[
+"Nyctophobia",
+1,
+[]
+],
+[
+"Acre: Richard Lionheart's Siege",
+1,
+[]
+],
+[
+"The Scepter of Zavandor",
+1,
+[]
+],
+[
+"The Godfather Game",
+1,
+[]
+],
+[
+"The Stock Market Game",
+1,
+[]
+],
+[
+"Ligny: Incomplete Victory",
+1,
+[]
+],
+[
+"Wavre: The Lost Opportunity",
+1,
+[]
+],
+[
+"Gimel",
+1,
+[]
+],
+[
+"Sirius",
+1,
+[]
+],
+[
+"Touch and Go",
+1,
+[]
+],
+[
+"Saipan: Conquest of the Marianas, June 1944",
+1,
+[]
+],
+[
+"Okinawa: The Last Battle",
+1,
+[]
+],
+[
+"Space Lines",
+1,
+[]
+],
+[
+"Ratrace",
+1,
+[]
+],
+[
+"La Bataille d'Auerstædt",
+1,
+[]
+],
+[
+"Organized Crime",
+1,
+[]
+],
+[
+"Winter War: The Russo-Finnish Conflict",
+1,
+[]
+],
+[
+"Gregory Horror Show",
+1,
+[]
+],
+[
+"Cauldron: Battle of Gazala, May 1942",
+1,
+[]
+],
+[
+"Fortune",
+1,
+[]
+],
+[
+"Bermuda Triangle",
+1,
+[]
+],
+[
+"7 Ages",
+1,
+[]
+],
+[
+"Duck Pond",
+1,
+[]
+],
+[
+"Domination",
+1,
+[]
+],
+[
+"Dos Rios",
+1,
+[]
+],
+[
+"Epäillyt",
+1,
+[]
+],
+[
+"Formula 1 Grand Prix",
+1,
+[]
+],
+[
+"Carla Caramel",
+1,
+[]
+],
+[
+"I Am, I Do",
+1,
+[]
+],
+[
+"Maailman eläimet",
+1,
+[]
+],
+[
+"Marco Polo",
+1,
+[]
+],
+[
+"Missä lahjat herra Hakkarainen?",
+1,
+[]
+],
+[
+"He & She",
+1,
+[]
+],
+[
+"Starship Troopers: Prepare for Battle!",
+1,
+[]
+],
+[
+"Shell Shock!",
+1,
+[]
+],
+[
+"Noble Armada",
+1,
+[]
+],
+[
+"Ramses II",
+1,
+[]
+],
+[
+"Crimea",
+1,
+[]
+],
+[
+"The Fall of South Vietnam",
+1,
+[]
+],
+[
+"The China War",
+1,
+[]
+],
+[
+"The Thin Red Line",
+1,
+[
+"The Thin Red Line: A Game of the Battle of Waterloo"
+]
+],
+[
+"Wellington in the Peninsula",
+1,
+[]
+],
+[
+"Chinese Civil War",
+1,
+[]
+],
+[
+"Objective: Atlanta",
+1,
+[]
+],
+[
+"The Great Redoubt",
+1,
+[
+"The Great Redoubt: A Game of the Battle of Borodino – 1812"
+]
+],
+[
+"Divine Wind",
+1,
+[]
+],
+[
+"Submarine",
+1,
+[]
+],
+[
+"Le Grand Empire",
+1,
+[]
+],
+[
+"Supercharge: Battle of El Alamein, October 1942",
+1,
+[
+"Supercharge: Battle of El Alamein"
+]
+],
+[
+"Yeoman",
+1,
+[]
+],
+[
+"Panzer",
+1,
+[]
+],
+[
+"Viking",
+1,
+[]
+],
+[
+"Von Manstein: Battles for the Ukraine",
+1,
+[]
+],
+[
+"Flying Fortress I & II",
+1,
+[]
+],
+[
+"PRESTAGS",
+1,
+[]
+],
+[
+"Shiloh: The Battle for Tennessee",
+1,
+[]
+],
+[
+"War in the Pacific",
+1,
+[]
+],
+[
+"La Bataille de Valmy",
+1,
+[]
+],
+[
+"Roope-Setä Liikemiespeli",
+1,
+[]
+],
+[
+"Lionheart",
+1,
+[]
+],
+[
+"Successors",
+1,
+[
+"Successors (Third Edition)",
+"Successors: The Battles for Alexander's Empire"
+]
+],
+[
+"Barbie Queen of the Prom",
+1,
+[]
+],
+[
+"Blockword",
+1,
+[]
+],
+[
+"Marvel Super Dice",
+1,
+[]
+],
+[
+"Sinai: The Arab-Israeli Wars",
+1,
+[]
+],
+[
+"Track",
+1,
+[]
+],
+[
+"Revenge of the Dinosaurs",
+1,
+[]
+],
+[
+"12 Thieves",
+1,
+[
+"The Thief of Baghdad"
+]
+],
+[
+"Kangaroo: The Jumping Game",
+1,
+[]
+],
+[
+"Balance of Power",
+1,
+[]
+],
+[
+"The Generals",
+1,
+[]
+],
+[
+"Domain",
+1,
+[
+"2001: the space age game",
+"Boomerang, Chameleon, Kiss"
+]
+],
+[
+"Phantom of Old Prague",
+1,
+[]
+],
+[
+"Showbiz",
+1,
+[]
+],
+[
+"Pentantastar",
+1,
+[]
+],
+[
+"Der wahre Walter",
+1,
+[]
+],
+[
+"World War I: 1914–1918",
+1,
+[]
+],
+[
+"Doorways to Horror",
+1,
+[]
+],
+[
+"Dorada",
+1,
+[]
+],
+[
+"Flying Carpet",
+1,
+[]
+],
+[
+"Intuition",
+1,
+[]
+],
+[
+"Tyranno Ex",
+1,
+[]
+],
+[
+"Ney vs. Wellington: The Battle of Quatre Bras",
+1,
+[]
+],
+[
+"BattleTech: Alpha Strike",
+1,
+[]
+],
+[
+"Strike Force One",
+1,
+[]
+],
+[
+"Wolfpack",
+1,
+[
+"Wolfpack: Submarine Warfare in the North Atlantic, 1942-44"
+]
+],
+[
+"U.S.N.: The Game of War in the Pacific, 1941–43",
+1,
+[]
+],
+[
+"Soldiers: Tactical Combat in 1914–15",
+1,
+[]
+],
+[
+"Russian Civil War 1918–1922",
+1,
+[]
+],
+[
+"Tapestry",
+1,
+[]
+],
+[
+"Robert at Bannockburn",
+1,
+[]
+],
+[
+"World War II: European Theater of Operations",
+1,
+[]
+],
+[
+"Turning Point: The Battle of Stalingrad",
+1,
+[]
+],
+[
+"Legend of Zagor",
+1,
+[]
+],
+[
+"Brilliant Lances",
+1,
+[]
+],
+[
+"galagapy",
+1,
+[
+"castle-gate",
+"kishmish oyunu",
+"raisin game"
+]
+],
+[
+"Red Star/White Star: Tactical Combat in Europe in the 1970s",
+1,
+[]
+],
+[
+"War Between the States 1861–1865",
+1,
+[]
+],
+[
+"Veracruz: U.S. Invasion of Mexico 1847",
+1,
+[]
+],
+[
+"Tito and his Partisan Army: Yugoslavia, 1941–45",
+1,
+[]
+],
+[
+"Solomons Campaign",
+1,
+[]
+],
+[
+"South Africa: Vestige of Colonialism",
+1,
+[]
+],
+[
+"The Flight of the Goeben",
+1,
+[]
+],
+[
+"The Wilderness Campaign",
+1,
+[]
+],
+[
+"The Franco-Prussian War",
+1,
+[]
+],
+[
+"WorldKiller: The Game of Planetary Assault",
+1,
+[]
+],
+[
+"Digit",
+1,
+[]
+],
+[
+"Guild Ball",
+1,
+[]
+],
+[
+"Wagram: The Peace of Vienna, 5-6 July 1809",
+1,
+[]
+],
+[
+"Objective Moscow",
+1,
+[]
+],
+[
+"This War of Mine: The Board Game",
+1,
+[
+"This War of Mine"
+]
+],
+[
+"Bakio",
+1,
+[]
+],
+[
+"Belratti",
+1,
+[]
+],
+[
+"Mall of Horror",
+1,
+[]
+],
+[
+"Viva!: Revolution in Mexico",
+1,
+[]
+],
+[
+"SSN: Modern Tactical Submarine Warfare",
+1,
+[]
+],
+[
+"Troy",
+1,
+[]
+],
+[
+"Yalu: The Chinese Counteroffensive in Korea, November 1950 to May 1951",
+1,
+[]
+],
+[
+"The March on India, 1944",
+1,
+[]
+],
+[
+"Stonewall: The Battle of Kernstown",
+1,
+[]
+],
+[
+"Verdun: The Game of Attrition",
+1,
+[]
+],
+[
+"Siege!: The Game of Siege Warfare, 50 AD-1400 AD",
+1,
+[]
+],
+[
+"Hannibal: Rome vs. Carthage",
+1,
+[]
+],
+[
+"Cat in the Box",
+1,
+[]
+],
+[
+"Darwin's Journey",
+1,
+[]
+],
+[
+"La Famiglia: The Great Mafia War",
+1,
+[]
+],
+[
+"The White Castle",
+1,
+[]
+],
+[
+"Tales of the Arabian Nights",
+1,
+[]
+],
+[
+"Dice Town",
+1,
+[]
+],
+[
+"Dien Bien Phu",
+1,
+[]
+],
+[
+"Inchon",
+1,
+[]
+],
+[
+"The Wilderness",
+1,
+[]
+],
+[
+"D.A.K.",
+1,
+[]
+],
+[
+"La Regia Marina",
+1,
+[]
+],
+[
+"West Front",
+1,
+[]
+],
+[
+"Lebensraum!",
+1,
+[]
+],
+[
+"Otys",
+1,
+[]
+],
+[
+"Man of War",
+1,
+[]
+],
+[
+"Ortona",
+1,
+[]
+],
+[
+"The One World",
+1,
+[]
+],
+[
+"Dragon Quest",
+1,
+[]
+],
+[
+"Quebec Libre",
+1,
+[]
+],
+[
+"With Fire and Sword",
+1,
+[]
+],
+[
+"Scourge of God",
+1,
+[]
+],
+[
+"Dune (Parker Brothers)",
+1,
+[]
+],
+[
+"Warring States",
+1,
+[]
+],
+[
+"Feed the Kraken",
+1,
+[]
+],
+[
+"Password",
+1,
+[]
+],
+[
+"Star Trek: Ascendancy",
+1,
+[]
+],
+[
+"The Defense of Rorke's Drift",
+1,
+[]
+],
+[
+"Clash of Deck",
+1,
+[]
+],
+[
+"Piratissimo",
+1,
+[]
+],
+[
+"Gunslinger",
+1,
+[]
+],
+[
+"Flamecraft",
+1,
+[]
+],
+[
+"Dinosaurus",
+1,
+[]
+],
+[
+"Unfathomable",
+1,
+[]
+],
+[
+"The Game of the District Messenger Boy",
+1,
+[]
+],
+[
+"Egghead",
+1,
+[]
+],
+[
+"Outremer",
+1,
+[]
+],
+[
+"Defenders of the Realm",
+1,
+[]
+],
+[
+"Dixit: Odyssey",
+1,
+[
+"Dixit Odyssey"
+]
+],
+[
+"Belfort",
+1,
+[]
+],
+[
+"Raid! Commando Operations, in the 20th Century",
+1,
+[]
+],
+[
+"Mycelia",
+1,
+[]
+],
+[
+"7. W obronie Lwowa",
+1,
+[]
+],
+[
+"Such a Thing?",
+1,
+[]
+],
+[
+"Fortnite Monopoly",
+1,
+[
+"Monopoly: Fortnite Edition"
+]
+],
+[
+"Big Elementary School Game",
+1,
+[]
+],
+[
+"Botanicus",
+1,
+[]
+],
+[
+"Marralhinha",
+1,
+[]
+],
+[
+"Doodle Dungeon",
+1,
+[]
+],
+[
+"Buccaneer",
+1,
+[
+"The Pirates"
+]
+],
+[
+"Beer Pioneers",
+1,
+[]
+],
+[
+"Sleeping Gods",
+1,
+[]
+],
+[
+"Ethnos",
+1,
+[]
+],
+[
+"Ritual",
+1,
+[]
+],
+[
+"Captain Park's Imaginary Polar Expedition",
+1,
+[]
+],
+[
+"Micropul",
+1,
+[]
+],
+[
+"Chron'Autrices",
+1,
+[]
+],
+[
+"Looot",
+1,
+[]
+],
+[
+"daily chess",
+1,
+[]
+],
+[
+"Libertalia: Winds of Galecrest",
+1,
+[]
+],
+[
+"Sabika",
+1,
+[]
+],
+[
+"This Is Your Life",
+1,
+[]
+],
+[
+"Agemonia",
+1,
+[]
+],
+[
+"Goblin",
+1,
+[]
+],
+[
+"Middle Passage",
+1,
+[]
+],
+[
+"Edge City",
+1,
+[]
+],
+[
+"Fury of the Clansmen",
+1,
+[]
+],
+[
+"Australian Rails",
+1,
+[]
+],
+[
+"Raiders and Traders",
+1,
+[
+"The Heroic Age of Greece"
+]
+],
+[
+"Monster Derby",
+1,
+[]
+],
+[
+"Sobek",
+1,
+[]
+],
+[
+"Undersea Warriors",
+1,
+[]
+],
+[
+"Settlers of the Stone Age",
+1,
+[]
+],
+[
+"Phantasie",
+1,
+[]
+],
+[
+"Eselsbrücke",
+1,
+[]
+],
+[
+"Conquest of Space",
+1,
+[]
+],
+[
+"2ème D.B. 'I' Normandie",
+1,
+[]
+],
+[
+"Strategy on rails",
+1,
+[]
+],
+[
+"Bataille de la Marne 1914",
+1,
+[]
+],
+[
+"MOCKBA: La battaglia di Mosca 1941",
+1,
+[]
+],
+[
+"Cold War",
+1,
+[]
+],
+[
+"Yom Kippur",
+1,
+[]
+],
+[
+"Ambush!: Purple Heart",
+1,
+[]
+],
+[
+"Sixth Fleet: Modern Naval Combat in the Mediterranean",
+1,
+[]
+],
+[
+"Wagram 1809",
+1,
+[]
+],
+[
+"Pacific War: The Struggle Against Japan 1941-1945",
+1,
+[]
+],
+[
+"Dr. Ruth's Game of Good Sex",
+1,
+[]
+],
+[
+"Cargo",
+1,
+[]
+],
+[
+"Ost",
+1,
+[]
+],
+[
+"Starship Captain",
+1,
+[]
+],
+[
+"Roma",
+1,
+[]
+],
+[
+"Western Front Tank Leader",
+1,
+[]
+],
+[
+"Landsknecht",
+1,
+[]
+],
+[
+"Dragon Hordes",
+1,
+[]
+],
+[
+"Maxi Bour$e",
+1,
+[]
+],
+[
+"Isis & Osiris",
+1,
+[]
+],
+[
+"Blue Stones",
+1,
+[]
+],
+[
+"Mai '68 Le jeu",
+1,
+[]
+],
+[
+"Guet-Apens",
+1,
+[]
+],
+[
+"Tactical Command",
+1,
+[]
+],
+[
+"Guillotine",
+1,
+[]
+],
+[
+"Quest",
+1,
+[]
+],
+[
+"The Hills Rise Wild!",
+1,
+[]
+],
+[
+"The Battle of Prague",
+1,
+[]
+],
+[
+"Super Cluedo Challenge",
+1,
+[]
+],
+[
+"Im Fadenkreuz: Europa",
+1,
+[]
+],
+[
+"When Darkness Comes: The Awakening",
+1,
+[]
+],
+[
+"Dante's Inferno",
+1,
+[]
+],
+[
+"Hundred Kingdoms",
+1,
+[]
+],
+[
+"Vampire: Dark Influences",
+1,
+[]
+],
+[
+"Escape the Dark Castle",
+1,
+[]
+],
+[
+"A Touch of Evil: The Supernatural Game",
+1,
+[]
+],
+[
+"Above and Below",
+1,
+[]
+],
+[
+"Tieto & Taito & Temppu",
+1,
+[]
+],
+[
+"Rome: Imperium, Circus Maximus, Hannibal vs Rome",
+1,
+[]
+],
+[
+"Trinity: Battleground",
+1,
+[]
+],
+[
+"Witchcraft",
+1,
+[]
+],
+[
+"Take Time",
+1,
+[]
+],
+[
+"The Ark of the Covenant",
+1,
+[]
+],
+[
+"SAT Game For Dummies",
+1,
+[]
+],
+[
+"Mmm ... Brains!",
+1,
+[]
+],
+[
+"Anno 1800",
+1,
+[
+"Anno 1800: The Board Game"
+]
+],
+[
+"MidEvil",
+1,
+[]
+],
+[
+"Magic Dance",
+1,
+[]
+],
+[
+"Space Marine",
+1,
+[]
+],
+[
+"Titan Legions",
+1,
+[]
+],
+[
+"Warhammer Epic 40,000",
+1,
+[]
+],
+[
+"Foundations of Metropolis",
+1,
+[]
+],
+[
+"Abaku",
+1,
+[
+"Abaku LAB",
+"Abaku PLAY"
+]
+],
+[
+"Aquasphere",
+1,
+[]
+],
+[
+"Scooby-Doo! Thrills and Spills",
+1,
+[]
+],
+[
+"Musketeers",
+1,
+[]
+],
+[
+"Hot Streak",
+1,
+[]
+],
+[
+"Yummy Lava",
+1,
+[]
+],
+[
+"Crosscheck",
+1,
+[]
+],
+[
+"Little Alchemists",
+1,
+[]
+],
+[
+"Star Traders",
+1,
+[]
+],
+[
+"Monsters!",
+1,
+[]
+],
+[
+"Toriki: The Castaway Island",
+1,
+[]
+],
+[
+"Fossil",
+1,
+[]
+],
+[
+"Kontor",
+1,
+[]
+],
+[
+"Spielesammlung",
+1,
+[]
+],
+[
+"Grimoire",
+1,
+[]
+],
+[
+"Stich-Meister",
+1,
+[]
+],
+[
+"Privacy",
+1,
+[]
+],
+[
+"Hexdame",
+1,
+[]
+],
+[
+"Rex: Final Days of an Empire",
+1,
+[]
+],
+[
+"Kulami",
+1,
+[]
+],
+[
+"Masons",
+1,
+[]
+],
+[
+"Moeraki: Kemu",
+1,
+[]
+],
+[
+"Taluva",
+1,
+[]
+],
+[
+"Turm & Wächter",
+1,
+[]
+],
+[
+"Pah Tum",
+1,
+[]
+],
+[
+"Padavettu",
+1,
+[]
+],
+[
+"Neopets Trading Card Game",
+1,
+[]
+],
+[
+"Burn Rate",
+1,
+[]
+],
+[
+"Tyros",
+1,
+[]
+],
+[
+"Vabanque",
+1,
+[]
+],
+[
+"Tablut",
+1,
+[]
+],
+[
+"Igel Ärgern",
+1,
+[]
+],
+[
+"Njet",
+1,
+[]
+],
+[
+"King's Breakfast",
+1,
+[
+"King Lui"
+]
+],
+[
+"Strasbourg",
+1,
+[]
+],
+[
+"Mixmo",
+1,
+[]
+],
+[
+"Myrmes",
+1,
+[]
+],
+[
+"Power Barons",
+1,
+[]
+],
+[
+"Image",
+1,
+[]
+],
+[
+"Atlanta",
+1,
+[
+"Atlanta: Civil War Campaign Game"
+]
+],
+[
+"Copa",
+1,
+[]
+],
+[
+"Ghettopoly",
+1,
+[]
+],
+[
+"No Middle Ground",
+1,
+[]
+],
+[
+"hypergammon",
+1,
+[]
+],
+[
+"Realm of the Jade Goddess",
+1,
+[
+"Im Reich der Jadegöttin"
+]
+],
+[
+"Don't Be Annoyed",
+1,
+[]
+],
+[
+"Makonn",
+1,
+[]
+],
+[
+"Escape from New York",
+1,
+[]
+],
+[
+"Hong Kong Monopoly",
+1,
+[]
+],
+[
+"King Oil",
+1,
+[]
+],
+[
+"Midway",
+1,
+[]
+],
+[
+"Patton's Best",
+1,
+[]
+],
+[
+"Trial of Strength",
+1,
+[]
+],
+[
+"Shipka Pass",
+1,
+[]
+],
+[
+"Star Trek: Attack Wing",
+1,
+[]
+],
+[
+"Pox: Save the People",
+1,
+[]
+],
+[
+"Tsoro Yematatu",
+1,
+[
+"Tsoro YeMaMutatu"
+]
+],
+[
+"Ultimate Combat!",
+1,
+[]
+],
+[
+"Rome at War series",
+1,
+[]
+],
+[
+"King of the Hill",
+1,
+[]
+],
+[
+"Zombiepox",
+1,
+[]
+],
+[
+"Pretty Pretty Princess",
+1,
+[]
+],
+[
+"Shadowlord",
+1,
+[]
+],
+[
+"1856: Railroading in Upper Canada from 1856",
+1,
+[]
+],
+[
+"Classical Diplomacy",
+1,
+[]
+],
+[
+"Kakelorum",
+1,
+[]
+],
+[
+"Odin's Ravens",
+1,
+[]
+],
+[
+"Web of Power",
+1,
+[
+"Cardinal and King",
+"Cardinal & King"
+]
+],
+[
+"Karma",
+1,
+[]
+],
+[
+"I.Q. 2000",
+1,
+[]
+],
+[
+"King Arthur",
+1,
+[]
+],
+[
+"Push",
+1,
+[]
+],
+[
+"Freedom: The Underground Railroad",
+1,
+[]
+],
+[
+"1936 Guerra Civil",
+1,
+[]
+],
+[
+"Loco Motive",
+1,
+[]
+],
+[
+"The City",
+1,
+[
+"Metropolis"
+]
+],
+[
+"Dragons",
+1,
+[]
+],
+[
+"Lankhmar",
+1,
+[]
+],
+[
+"Beyblade Trading Card Game",
+1,
+[]
+],
+[
+"Warhammer 40,000: Conquest",
+1,
+[]
+],
+[
+"Letra-Mix",
+1,
+[]
+],
+[
+"Don Pepe",
+1,
+[
+"El Padrino"
+]
+],
+[
+"Havok & Hijinks",
+1,
+[]
+],
+[
+"Pegity",
+1,
+[]
+],
+[
+"Odysseus",
+1,
+[]
+],
+[
+"Ur",
+1,
+[]
+],
+[
+"Oktaeder",
+1,
+[]
+],
+[
+"Shintai",
+1,
+[]
+],
+[
+"Mixtour",
+1,
+[]
+],
+[
+"Neutreeko",
+1,
+[]
+],
+[
+"Suomi Tietopeli",
+1,
+[]
+],
+[
+"Vauhdin Maailma",
+1,
+[]
+],
+[
+"Antike Duellum",
+1,
+[]
+],
+[
+"Metropolis",
+1,
+[]
+],
+[
+"Mutineer",
+1,
+[]
+],
+[
+"Kampen om Rai",
+1,
+[]
+],
+[
+"Mü & More",
+1,
+[]
+],
+[
+"Müller und Sohn",
+1,
+[]
+],
+[
+"Mr. President",
+1,
+[]
+],
+[
+"Occhio!",
+1,
+[]
+],
+[
+"Eight-Minute Empire",
+1,
+[
+"8 Min Imperium",
+"8 Minute Empire"
+]
+],
+[
+"Space Opera",
+1,
+[]
+],
+[
+"The Golden Ages",
+1,
+[]
+],
+[
+"Muumipeli",
+1,
+[]
+],
+[
+"¡New Amici!",
+1,
+[]
+],
+[
+"Traboulet",
+1,
+[]
+],
+[
+"Obridjie",
+1,
+[]
+],
+[
+"Draw Out",
+1,
+[]
+],
+[
+"Ouril",
+1,
+[]
+],
+[
+"Panic Tower!",
+1,
+[]
+],
+[
+"Johnny Reb",
+1,
+[]
+],
+[
+"The Red Dragon Inn",
+1,
+[]
+],
+[
+"Stixx",
+1,
+[]
+],
+[
+"Key to the Kingdom",
+1,
+[]
+],
+[
+"Bed Bugs",
+1,
+[]
+],
+[
+"Samurai Spirit",
+1,
+[]
+],
+[
+"G.E.V.",
+1,
+[]
+],
+[
+"Turning Point: Stalingrad",
+1,
+[]
+],
+[
+"Provopoli",
+1,
+[]
+],
+[
+"Voodoo",
+1,
+[]
+],
+[
+"Game For Fame",
+1,
+[]
+],
+[
+"The Duke",
+1,
+[]
+],
+[
+"Diamond Chess",
+1,
+[]
+],
+[
+"Razzia!",
+1,
+[]
+],
+[
+"Ringwraiths",
+1,
+[]
+],
+[
+"Salamanca",
+1,
+[]
+],
+[
+"Santa Cruz",
+1,
+[]
+],
+[
+"Schraumen",
+1,
+[
+"Schraumeln"
+]
+],
+[
+"Lifeboats",
+1,
+[]
+],
+[
+"Lost Treasure",
+1,
+[]
+],
+[
+"Bruges",
+1,
+[
+"Brugge"
+]
+],
+[
+"Complots",
+1,
+[]
+],
+[
+"Spion & Spion",
+1,
+[]
+],
+[
+"Formula 1",
+1,
+[]
+],
+[
+"Citizen X",
+1,
+[]
+],
+[
+"Admirals",
+1,
+[]
+],
+[
+"Teufelsrad",
+1,
+[]
+],
+[
+"The Willow Game",
+1,
+[]
+],
+[
+"Kaplansky's game",
+1,
+[]
+],
+[
+"Matjok",
+1,
+[]
+],
+[
+"Tongiaki",
+1,
+[]
+],
+[
+"Triolet",
+1,
+[]
+],
+[
+"Urland",
+1,
+[]
+],
+[
+"Dynasty League Baseball",
+1,
+[]
+],
+[
+"Terror in Meeple City",
+1,
+[]
+],
+[
+"Taliesin Master Game",
+1,
+[]
+],
+[
+"Traitor",
+1,
+[]
+],
+[
+"Age of Napoleon",
+1,
+[]
+],
+[
+"Qin",
+1,
+[]
+],
+[
+"Plague!",
+1,
+[]
+],
+[
+"London's Burning",
+1,
+[]
+],
+[
+"Gambler",
+1,
+[]
+],
+[
+"Inner Circle",
+1,
+[]
+],
+[
+"Diamond",
+1,
+[]
+],
+[
+"La Città",
+1,
+[]
+],
+[
+"Napoleon's Last Battles",
+1,
+[]
+],
+[
+"War of Wizards",
+1,
+[]
+],
+[
+"At the Gates of Loyang",
+1,
+[]
+],
+[
+"Lensman",
+1,
+[]
+],
+[
+"Damath",
+1,
+[]
+],
+[
+"Castle Panic",
+1,
+[]
+],
+[
+"Superpower",
+1,
+[]
+],
+[
+"DDR-Reise",
+1,
+[]
+],
+[
+"The Labyrinth of Rings",
+1,
+[]
+],
+[
+"Zoff in Buffalo",
+1,
+[]
+],
+[
+"Wie ich die Welt sehe...",
+1,
+[]
+],
+[
+"Subulata",
+1,
+[]
+],
+[
+"Tipsy Tower",
+1,
+[]
+],
+[
+"YVIO",
+1,
+[]
+],
+[
+"Alaska",
+1,
+[]
+],
+[
+"Sauerbaum",
+1,
+[]
+],
+[
+"Jockey",
+1,
+[
+"Corsa Tris"
+]
+],
+[
+"Broker",
+1,
+[]
+],
+[
+"Trimula",
+1,
+[
+"3D-Tic-Tac-Toe",
+"arlac Trimula"
+]
+],
+[
+"Petsamo",
+1,
+[]
+],
+[
+"Funny Bunny",
+1,
+[]
+],
+[
+"Alchemists",
+1,
+[]
+],
+[
+"Wir füttern die kleinen Nilpferde",
+1,
+[]
+],
+[
+"007",
+1,
+[]
+],
+[
+"Zapp Zerapp",
+1,
+[]
+],
+[
+"Aficionado",
+1,
+[]
+],
+[
+"Ail ger",
+1,
+[]
+],
+[
+"Assault on Hoth: The Empire Strikes Back",
+1,
+[]
+],
+[
+"Seafall",
+1,
+[]
+],
+[
+"Quod",
+1,
+[]
+],
+[
+"Sampo",
+1,
+[]
+],
+[
+"Union Pacific",
+1,
+[]
+],
+[
+"Cottage Garden",
+1,
+[]
+],
+[
+"Seti",
+1,
+[]
+],
+[
+"Asteroyds",
+1,
+[]
+],
+[
+"Astoria",
+1,
+[]
+],
+[
+"Astérix et la Potion magique",
+1,
+[]
+],
+[
+"Jungle Party",
+1,
+[]
+],
+[
+"Fist of Dragonstones",
+1,
+[]
+],
+[
+"Aztec",
+1,
+[]
+],
+[
+"Spinnengift und Krötenschleim",
+1,
+[]
+],
+[
+"Mmm!",
+1,
+[]
+],
+[
+"Baron",
+1,
+[]
+],
+[
+"Castle Flutterstone",
+1,
+[
+"Flutterstone Castle"
+]
+],
+[
+"The mysterious Dragon Cave",
+1,
+[]
+],
+[
+"Carson City",
+1,
+[]
+],
+[
+"Cash'n Guns",
+1,
+[
+"Ca$h 'n Gun$",
+"Cash 'n Guns"
+]
+],
+[
+"Casse-toi pov' con",
+1,
+[
+"Casse-toi pov' con!"
+]
+],
+[
+"Chess Mutation",
+1,
+[]
+],
+[
+"Claustrophobia",
+1,
+[]
+],
+[
+"Luther: Das Spiel",
+1,
+[]
+],
+[
+"Kerala: The Way of the Elephant",
+1,
+[]
+],
+[
+"Heroes of Normandie",
+1,
+[]
+],
+[
+"Contrario",
+1,
+[]
+],
+[
+"Cosmail",
+1,
+[]
+],
+[
+"The Rolling Witch",
+1,
+[]
+],
+[
+"De l'Orc pour les braves",
+1,
+[
+"Gold und Rum"
+]
+],
+[
+"Lagoonis",
+1,
+[]
+],
+[
+"Lingua",
+1,
+[]
+],
+[
+"Ausbrecher AG",
+1,
+[]
+],
+[
+"Wicked Witches Way",
+1,
+[]
+],
+[
+"Dust",
+1,
+[]
+],
+[
+"Défifoo",
+1,
+[]
+],
+[
+"Earth Reborn",
+1,
+[]
+],
+[
+"Endeavor",
+1,
+[]
+],
+[
+"Fantasy Business",
+1,
+[]
+],
+[
+"Finis ton Assiette",
+1,
+[]
+],
+[
+"Batik",
+1,
+[]
+],
+[
+"Frankenstein",
+1,
+[]
+],
+[
+"Gang of Four",
+1,
+[
+"Gang of 4"
+]
+],
+[
+"Garçon",
+1,
+[
+"Waiter"
+]
+],
+[
+"Golden Horn: Von Venedig nach Konstantinopel",
+1,
+[]
+],
+[
+"Hell Dorado",
+1,
+[]
+],
+[
+"Cockroach Duel",
+1,
+[]
+],
+[
+"The Settlers of the Stone Age",
+1,
+[]
+],
+[
+"Kamakura",
+1,
+[]
+],
+[
+"Korsar",
+1,
+[]
+],
+[
+"L'Enclos",
+1,
+[]
+],
+[
+"Dragon's Gold",
+1,
+[]
+],
+[
+"The Conquest of Oil",
+1,
+[
+"La Conquête du Pétrole"
+]
+],
+[
+"Wooly Wars",
+1,
+[
+"War of the Sheep"
+]
+],
+[
+"Valley of the Mammoths",
+1,
+[]
+],
+[
+"Queen's Necklace",
+1,
+[]
+],
+[
+"Three-Dragon Ante",
+1,
+[]
+],
+[
+"Le Magistral",
+1,
+[]
+],
+[
+"Battles of the Third Age",
+1,
+[]
+],
+[
+"River Dragons",
+1,
+[
+"Dragon Delta"
+]
+],
+[
+"Wizardry to the power of three",
+1,
+[]
+],
+[
+"Livequiz",
+1,
+[]
+],
+[
+"Red November",
+1,
+[]
+],
+[
+"Found Objects",
+1,
+[]
+],
+[
+"Octoverso",
+1,
+[]
+],
+[
+"Oh ! les nains",
+1,
+[]
+],
+[
+"Patamania",
+1,
+[]
+],
+[
+"Petits Meurtres & Faits Divers",
+1,
+[]
+],
+[
+"Plan social",
+1,
+[]
+],
+[
+"Pony express",
+1,
+[]
+],
+[
+"Rubik's Puzzle Match",
+1,
+[]
+],
+[
+"Savannah Café",
+1,
+[
+"Savannah Cafe"
+]
+],
+[
+"Shabadabada",
+1,
+[]
+],
+[
+"Shazamm!",
+1,
+[]
+],
+[
+"Sillage",
+1,
+[]
+],
+[
+"Sky My Husband",
+1,
+[]
+],
+[
+"Small World Underground",
+1,
+[]
+],
+[
+"Soviet System",
+1,
+[]
+],
+[
+"Splotch!",
+1,
+[]
+],
+[
+"Sporz Original Outbreak",
+1,
+[]
+],
+[
+"Squad Seven",
+1,
+[]
+],
+[
+"SuperGang",
+1,
+[]
+],
+[
+"Syllabus",
+1,
+[]
+],
+[
+"Tintin & Tintinors",
+1,
+[]
+],
+[
+"Ear Tug",
+1,
+[]
+],
+[
+"Toc Toc Toc !",
+1,
+[]
+],
+[
+"multicolor turtle",
+1,
+[
+"alag melkhii",
+"alag melkhii örökh"
+]
+],
+[
+"Banana Express",
+1,
+[]
+],
+[
+"Unanimo",
+1,
+[]
+],
+[
+"XIII: Le Complot",
+1,
+[]
+],
+[
+"Cheyenne",
+1,
+[]
+],
+[
+"Dominant Species",
+1,
+[]
+],
+[
+"Merchants & Marauders",
+1,
+[]
+],
+[
+"De vulgari eloquentia",
+1,
+[]
+],
+[
+"Giocagoal",
+1,
+[]
+],
+[
+"Monster-Pups",
+1,
+[]
+],
+[
+"Kerrunch",
+1,
+[]
+],
+[
+"Magikon",
+1,
+[]
+],
+[
+"Manager",
+1,
+[]
+],
+[
+"Ostrakon",
+1,
+[]
+],
+[
+"UFO: Game of Close Encounters",
+1,
+[]
+],
+[
+"Legend of the Five Rings: The Card Game",
+1,
+[]
+],
+[
+"Starwars",
+1,
+[]
+],
+[
+"Class Struggle",
+1,
+[]
+],
+[
+"Pursuit of Glory",
+1,
+[]
+],
+[
+"Ticket to Ride: Europe",
+1,
+[
+"Ticket to Ride Europe"
+]
+],
+[
+"Suburbia",
+1,
+[]
+],
+[
+"Runewars",
+1,
+[]
+],
+[
+"Siena",
+1,
+[]
+],
+[
+"VII Legio",
+1,
+[]
+],
+[
+"Time of Crisis: The Roman Empire in Turmoil, 235-284 AD",
+1,
+[]
+],
+[
+"1775: Rebellion",
+1,
+[]
+],
+[
+"1812: The Invasion of Canada",
+1,
+[]
+],
+[
+"Star Empires",
+1,
+[]
+],
+[
+"Wizard's Quest",
+1,
+[]
+],
+[
+"Indonesia",
+1,
+[]
+],
+[
+"Mole-Rats in Space",
+1,
+[]
+],
+[
+"Doctor Who: The Game of Time & Space",
+1,
+[]
+],
+[
+"The Fury of the Norsemen",
+1,
+[]
+],
+[
+"Master Labyrinth",
+1,
+[]
+],
+[
+"Virgin Queen",
+1,
+[]
+],
+[
+"Gute Freunde",
+1,
+[]
+],
+[
+"My Haunted Castle",
+1,
+[]
+],
+[
+"Corsaro",
+1,
+[]
+],
+[
+"Ringel-Rangel",
+1,
+[]
+],
+[
+"Noah's Park",
+1,
+[]
+],
+[
+"Leinen los!",
+1,
+[]
+],
+[
+"Thunder Alley",
+1,
+[]
+],
+[
+"Henne Berta",
+1,
+[]
+],
+[
+"Tri-Ba-Lance",
+1,
+[
+"Tribalance",
+"Triominos Tribalance"
+]
+],
+[
+"Die Ritter von der Haselnuss",
+1,
+[]
+],
+[
+"Schloss Schlotterstein",
+1,
+[]
+],
+[
+"Burg der 1000 Spiegel",
+1,
+[]
+],
+[
+"Monster Trap",
+1,
+[]
+],
+[
+"King of New York",
+1,
+[]
+],
+[
+"Ta-Ke",
+1,
+[
+"TA-KE"
+]
+],
+[
+"Valley of the Four Winds",
+1,
+[]
+],
+[
+"katarenga",
+1,
+[]
+],
+[
+"The divided Germany, 1945-1989",
+1,
+[
+"Wir sind das Volk!"
+]
+],
+[
+"1829",
+1,
+[]
+],
+[
+"Adventure Land",
+1,
+[]
+],
+[
+"1914",
+1,
+[]
+],
+[
+"1960: The Making of the President",
+1,
+[]
+],
+[
+"Polis: Fight for the Hegemony",
+1,
+[]
+],
+[
+"Squirrel Rush",
+1,
+[]
+],
+[
+"A Few Acres of Snow",
+1,
+[]
+],
+[
+"About Time",
+1,
+[]
+],
+[
+"Accasta",
+1,
+[]
+],
+[
+"Achi",
+1,
+[]
+],
+[
+"Acronymble",
+1,
+[]
+],
+[
+"Across Suez",
+1,
+[]
+],
+[
+"Microworld",
+1,
+[]
+],
+[
+"Fog of love",
+1,
+[]
+],
+[
+"Advanced Third Reich",
+1,
+[]
+],
+[
+"AeroTech",
+1,
+[
+"AeroTech: The BattleTech Game of Fighter Combat"
+]
+],
+[
+"Air Assault on Crete",
+1,
+[]
+],
+[
+"Air Baron",
+1,
+[]
+],
+[
+"Air Force",
+1,
+[]
+],
+[
+"John Carter: Warlord of Mars",
+1,
+[]
+],
+[
+"Aladdin's Dragons",
+1,
+[]
+],
+[
+"Mountains of Madness",
+1,
+[]
+],
+[
+"Allegiance: War of Factions",
+1,
+[]
+],
+[
+"Alpha Blitz",
+1,
+[]
+],
+[
+"Ambush!",
+1,
+[]
+],
+[
+"Bunny Kingdom",
+1,
+[]
+],
+[
+"Auf die Nüsse!",
+1,
+[]
+],
+[
+"American Megafauna",
+1,
+[]
+],
+[
+"Gladiator",
+1,
+[]
+],
+[
+"Firefly: The Game",
+1,
+[]
+],
+[
+"Ants in the Pants",
+1,
+[]
+],
+[
+"Anzio",
+1,
+[]
+],
+[
+"Apocalypse",
+1,
+[]
+],
+[
+"Arab-Israeli Wars",
+1,
+[]
+],
+[
+"Archworld",
+1,
+[]
+],
+[
+"Armies of Arcana",
+1,
+[]
+],
+[
+"Articulate!",
+1,
+[]
+],
+[
+"Axis & Allies: D-Day",
+1,
+[]
+],
+[
+"Axis & Allies: Battle of the Bulge",
+1,
+[]
+],
+[
+"Axis & Allies: Guadalcanal",
+1,
+[]
+],
+[
+"B-17, Queen of the Skies",
+1,
+[]
+],
+[
+"Babylon 5: A Call to Arms",
+1,
+[]
+],
+[
+"Bailout! The Game",
+1,
+[]
+],
+[
+"BattleForce",
+1,
+[]
+],
+[
+"BattleSpace",
+1,
+[
+"BattleSpace: The BattleTech Game of Space Combat"
+]
+],
+[
+"BattleTroops",
+1,
+[]
+],
+[
+"Battle Cattle: The Card Game",
+1,
+[]
+],
+[
+"Battle Cry",
+1,
+[]
+],
+[
+"Battle for Armageddon",
+1,
+[]
+],
+[
+"Battlelords",
+1,
+[]
+],
+[
+"Battling Tops",
+1,
+[]
+],
+[
+"Bendomino",
+1,
+[]
+],
+[
+"Beowulf: The Legend",
+1,
+[]
+],
+[
+"Intruder",
+1,
+[]
+],
+[
+"Outdoor Survival",
+1,
+[]
+],
+[
+"Nomad Gods",
+1,
+[]
+],
+[
+"Elric",
+1,
+[
+"Elric: Battle at the End of Time"
+]
+],
+[
+"Lords of the Middle Sea",
+1,
+[]
+],
+[
+"Stomp!",
+1,
+[]
+],
+[
+"Spellmaker",
+1,
+[]
+],
+[
+"Star Fighter",
+1,
+[]
+],
+[
+"Strange New Worlds",
+1,
+[]
+],
+[
+"Swordquest",
+1,
+[]
+],
+[
+"Valkenburg Castle",
+1,
+[]
+],
+[
+"Panzer Pranks",
+1,
+[]
+],
+[
+"Starfall",
+1,
+[]
+],
+[
+"The Beastlord",
+1,
+[]
+],
+[
+"Hero: A Game of Adventure in the Catacombs",
+1,
+[
+"Hero"
+]
+],
+[
+"Mythology",
+1,
+[]
+],
+[
+"Swashbuckler",
+1,
+[]
+],
+[
+"Beachhead: A Game of Island Invasions in the South Pacific 1942-1944",
+1,
+[
+"Beachhead"
+]
+],
+[
+"Cerberus",
+1,
+[]
+],
+[
+"Hexagony",
+1,
+[]
+],
+[
+"Robots!",
+1,
+[]
+],
+[
+"Spellbinder",
+1,
+[]
+],
+[
+"Galacta: Star Commandos",
+1,
+[
+"Star Commandos"
+]
+],
+[
+"King Arthur's Knights",
+1,
+[]
+],
+[
+"Marine: 2002",
+1,
+[]
+],
+[
+"The War of the Worlds",
+1,
+[
+"The War of the Worlds (board game)"
+]
+],
+[
+"4th Dimension",
+1,
+[]
+],
+[
+"Operation Pegasus",
+1,
+[]
+],
+[
+"Raid on Iran",
+1,
+[]
+],
+[
+"Shooting Stars",
+1,
+[]
+],
+[
+"Prochorovka: Armor at Kursk",
+1,
+[]
+],
+[
+"The Barbarians: Games of the Fall of Rome and the Mongol Invasion of Europe",
+1,
+[
+"The Barbarians"
+]
+],
+[
+"Attack of the Mutants!",
+1,
+[]
+],
+[
+"Survival / The Barbarian",
+1,
+[]
+],
+[
+"Amoeba Wars",
+1,
+[]
+],
+[
+"They've Invaded Pleasantville",
+1,
+[]
+],
+[
+"Vampyre",
+1,
+[]
+],
+[
+"Starship: The Game of Space Contact",
+1,
+[]
+],
+[
+"Outreach",
+1,
+[]
+],
+[
+"After the Holocaust",
+1,
+[]
+],
+[
+"Chitin: I",
+1,
+[]
+],
+[
+"Down Styphon!",
+1,
+[]
+],
+[
+"Swords & Sorcery",
+1,
+[
+"Swords & Sorcery: Quest and Conquest in the Age of Magic"
+]
+],
+[
+"Mind War",
+1,
+[]
+],
+[
+"Quazar",
+1,
+[]
+],
+[
+"The War of the Worlds II",
+1,
+[]
+],
+[
+"Alien Space Battle Manual",
+1,
+[]
+],
+[
+"4000 A.D.",
+1,
+[]
+],
+[
+"Starguard!",
+1,
+[]
+],
+[
+"StarSoldier",
+1,
+[]
+],
+[
+"Snapshot",
+1,
+[]
+],
+[
+"Warriors of the Green Planet Trilogy",
+1,
+[]
+],
+[
+"Belter",
+1,
+[]
+],
+[
+"Demons",
+1,
+[]
+],
+[
+"Annihilator & One World",
+1,
+[]
+],
+[
+"Sigma Omega",
+1,
+[]
+],
+[
+"Hot Spot",
+1,
+[]
+],
+[
+"Vector 3",
+1,
+[]
+],
+[
+"Double Star",
+1,
+[]
+],
+[
+"Rommel's Panzers",
+1,
+[]
+],
+[
+"Artifact",
+1,
+[]
+],
+[
+"Forest Wars of the Haven",
+1,
+[]
+],
+[
+"Space Future",
+1,
+[]
+],
+[
+"Time Tripper",
+1,
+[
+"TimeTripper"
+]
+],
+[
+"The Wreck of the B.S.M. Pandora",
+1,
+[]
+],
+[
+"Barbarian Kings",
+1,
+[]
+],
+[
+"Final Frontier",
+1,
+[]
+],
+[
+"NORAD",
+1,
+[]
+],
+[
+"Star Quest",
+1,
+[]
+],
+[
+"Strike Team Alpha",
+1,
+[]
+],
+[
+"Titan Strike!",
+1,
+[]
+],
+[
+"Colony Delta",
+1,
+[]
+],
+[
+"Holy War",
+1,
+[]
+],
+[
+"Ice War",
+1,
+[]
+],
+[
+"Olympica",
+1,
+[
+"Olympica: The U.N. Raid on Mars, 2206 A.D."
+]
+],
+[
+"Black Hole",
+1,
+[]
+],
+[
+"Lords & Wizards",
+1,
+[]
+],
+[
+"Asteroid",
+1,
+[]
+],
+[
+"Darkover",
+1,
+[]
+],
+[
+"Death and Destruction",
+1,
+[]
+],
+[
+"The Legend of Robin Hood",
+1,
+[]
+],
+[
+"MAATAC",
+1,
+[]
+],
+[
+"Ram Speed",
+1,
+[]
+],
+[
+"It",
+1,
+[]
+],
+[
+"Laser Tank",
+1,
+[]
+],
+[
+"Magic Wood",
+1,
+[]
+],
+[
+"King of the Mountain",
+1,
+[]
+],
+[
+"Quirks",
+1,
+[]
+],
+[
+"Tau Ceti 2015 AD",
+1,
+[]
+],
+[
+"Knights and Knaves",
+1,
+[]
+],
+[
+"Timelag",
+1,
+[]
+],
+[
+"Air War",
+1,
+[]
+],
+[
+"Arena of Death",
+1,
+[]
+],
+[
+"Kings & Castles",
+1,
+[]
+],
+[
+"The Lords of Underearth",
+1,
+[]
+],
+[
+"Space Warrior",
+1,
+[]
+],
+[
+"Duel Arcane",
+1,
+[]
+],
+[
+"Dawn of the Dead",
+1,
+[]
+],
+[
+"Star Fleet Battle Manual",
+1,
+[]
+],
+[
+"Dark Stars",
+1,
+[]
+],
+[
+"Shuttlewars",
+1,
+[]
+],
+[
+"Space Raid!",
+1,
+[]
+],
+[
+"The Hammer of Thor: The Game of Norse Mythology",
+1,
+[]
+],
+[
+"I.C.B.M.",
+1,
+[]
+],
+[
+"The Sword and the Stars",
+1,
+[]
+],
+[
+"Bitin' Off Hedz",
+1,
+[]
+],
+[
+"Block Mania",
+1,
+[]
+],
+[
+"Blockade",
+1,
+[]
+],
+[
+"Blockhead!",
+1,
+[]
+],
+[
+"Blood Feud in New York",
+1,
+[]
+],
+[
+"Bonaparte at Marengo",
+1,
+[]
+],
+[
+"Bonkers!",
+1,
+[]
+],
+[
+"Bookchase",
+1,
+[]
+],
+[
+"Bosworth",
+1,
+[]
+],
+[
+"Bowl Bound",
+1,
+[]
+],
+[
+"Brain Chain",
+1,
+[]
+],
+[
+"Brawl",
+1,
+[]
+],
+[
+"Broadsides and Boarding Parties",
+1,
+[]
+],
+[
+"Bull's-Eye Ball",
+1,
+[
+"Hot Shot"
+]
+],
+[
+"Bushido (game)",
+1,
+[
+"Bushido: Way Of The Warrior"
+]
+],
+[
+"Button Men",
+1,
+[]
+],
+[
+"BuyWord",
+1,
+[]
+],
+[
+"Calamity",
+1,
+[]
+],
+[
+"Canadian Monopoly",
+1,
+[]
+],
+[
+"Aquatika",
+1,
+[]
+],
+[
+"Capes & Cowls",
+1,
+[]
+],
+[
+"Samsara",
+1,
+[]
+],
+[
+"Carcassonne: The Castle",
+1,
+[]
+],
+[
+"Carcassonne: The City",
+1,
+[]
+],
+[
+"Carcassonne: Wheel of Fortune",
+1,
+[]
+],
+[
+"Carrier",
+1,
+[]
+],
+[
+"Catan Historical Scenarios I: Alexander and Cheops",
+1,
+[]
+],
+[
+"catch the hare",
+1,
+[]
+],
+[
+"Cavaliers and Roundheads",
+1,
+[]
+],
+[
+"Cemetery Hill",
+1,
+[]
+],
+[
+"Central America",
+1,
+[]
+],
+[
+"Chainsaw Warrior",
+1,
+[]
+],
+[
+"Challenge The Yankees",
+1,
+[]
+],
+[
+"Chancellorsville",
+1,
+[]
+],
+[
+"Chandragupta",
+1,
+[]
+],
+[
+"neoclassical chess",
+1,
+[
+"Neoclassical Chess"
+]
+],
+[
+"ChiZo Rising",
+1,
+[]
+],
+[
+"Chinese Farm",
+1,
+[]
+],
+[
+"CityTech",
+1,
+[]
+],
+[
+"City of Heroes Collectible Card Game",
+1,
+[]
+],
+[
+"Civil War",
+1,
+[]
+],
+[
+"Close Action",
+1,
+[]
+],
+[
+"Clue: The Great Museum Caper",
+1,
+[
+"Cluedo: The Great Museum Caper"
+]
+],
+[
+"Clue Jr.: Case of the Missing Pet",
+1,
+[]
+],
+[
+"Cluedo: Discover the Secrets",
+1,
+[]
+],
+[
+"Cluedo Master Detective",
+1,
+[
+"Clue Master Detective"
+]
+],
+[
+"Coda",
+1,
+[]
+],
+[
+"Codename: Kids Next Door Trading Card Game",
+1,
+[]
+],
+[
+"Coin Hopping--Washington D.C.",
+1,
+[]
+],
+[
+"Colorforms",
+1,
+[]
+],
+[
+"Seikatsu",
+1,
+[]
+],
+[
+"Conan Collectible Card Game",
+1,
+[]
+],
+[
+"Conflict of Heroes: Awakening the Bear! – Russia 1941-42",
+1,
+[]
+],
+[
+"Conflict of Heroes: Storms of Steel",
+1,
+[
+"Conflict of Heroes: Storms of Steel! – Kursk 1943"
+]
+],
+[
+"Connect 4x4",
+1,
+[]
+],
+[
+"Conquest",
+1,
+[]
+],
+[
+"Conquest of Nerath",
+1,
+[]
+],
+[
+"Conquistador: The Age of Exploration",
+1,
+[
+"Conquistador",
+"Conquistador: The Age of Exploration: 1495–1600"
+]
+],
+[
+"Conspiracy",
+1,
+[]
+],
+[
+"Conspirateurs",
+1,
+[]
+],
+[
+"Container",
+1,
+[]
+],
+[
+"Continuo",
+1,
+[]
+],
+[
+"Cosmic Wimpout",
+1,
+[]
+],
+[
+"Cranium Whoonu",
+1,
+[]
+],
+[
+"Crossbows and Catapults",
+1,
+[]
+],
+[
+"Crossfire",
+1,
+[]
+],
+[
+"Cthulhu 500",
+1,
+[]
+],
+[
+"Cthulhu Dice",
+1,
+[]
+],
+[
+"Curse of the Mummy's Tomb",
+1,
+[]
+],
+[
+"D-Day",
+1,
+[]
+],
+[
+"Da Vinci's Challenge",
+1,
+[]
+],
+[
+"Deadwood",
+1,
+[
+"Deadwood Studios USA"
+]
+],
+[
+"Death Stacks",
+1,
+[]
+],
+[
+"Demala diviyan keliya",
+1,
+[]
+],
+[
+"Destination",
+1,
+[]
+],
+[
+"Devil's Den",
+1,
+[]
+],
+[
+"Devil Bunny Hates the Earth",
+1,
+[]
+],
+[
+"Devil Bunny Needs a Ham",
+1,
+[]
+],
+[
+"Dirty Minds",
+1,
+[]
+],
+[
+"Divine Right",
+1,
+[]
+],
+[
+"Don't Break the Ice",
+1,
+[]
+],
+[
+"Don't Drop the Soap",
+1,
+[]
+],
+[
+"Don't Miss the Boat!",
+1,
+[]
+],
+[
+"Don't Quote Me",
+1,
+[]
+],
+[
+"Don't Wake Daddy",
+1,
+[]
+],
+[
+"Doomtown",
+1,
+[]
+],
+[
+"Down with the King",
+1,
+[]
+],
+[
+"DragonStrike",
+1,
+[]
+],
+[
+"Dragon Booster Trading Card Game",
+1,
+[]
+],
+[
+"Dreadnought",
+1,
+[]
+],
+[
+"Dungeons & Dragons: The Fantasy Adventure Board Game",
+1,
+[]
+],
+[
+"Dungeons & Dragons Basic Game",
+1,
+[]
+],
+[
+"Dunkirk: The Battle of France",
+1,
+[]
+],
+[
+"Easy Money",
+1,
+[
+"The Game of Easy Money"
+]
+],
+[
+"Electric football",
+1,
+[]
+],
+[
+"Elefun",
+1,
+[]
+],
+[
+"Empire Builder",
+1,
+[]
+],
+[
+"Empire of the Rising Sun",
+1,
+[]
+],
+[
+"Empires of the Middle Ages",
+1,
+[]
+],
+[
+"Entropy",
+1,
+[
+"Hyle",
+"Hyle 7"
+]
+],
+[
+"Equate",
+1,
+[]
+],
+[
+"Escalado",
+1,
+[]
+],
+[
+"Wild Life",
+1,
+[]
+],
+[
+"Eurocracy",
+1,
+[]
+],
+[
+"Existensminimum",
+1,
+[]
+],
+[
+"Facts in Five",
+1,
+[]
+],
+[
+"Familienbande",
+1,
+[]
+],
+[
+"Fast Attack Boats",
+1,
+[]
+],
+[
+"Federation and Empire",
+1,
+[]
+],
+[
+"Fields of Fire",
+1,
+[]
+],
+[
+"Fight in the Skies",
+1,
+[]
+],
+[
+"Figure It Out",
+1,
+[]
+],
+[
+"File 13",
+1,
+[]
+],
+[
+"Finance",
+1,
+[]
+],
+[
+"Fire and Ice",
+1,
+[]
+],
+[
+"Fjords",
+1,
+[]
+],
+[
+"Flibbix",
+1,
+[]
+],
+[
+"A Castle for All Seasons",
+1,
+[]
+],
+[
+"Forbidden Bridge",
+1,
+[]
+],
+[
+"Ad Astra",
+1,
+[]
+],
+[
+"Age of Empires III",
+1,
+[
+"Age of Empires III: The Age of Discovery"
+]
+],
+[
+"Fortress America",
+1,
+[]
+],
+[
+"Antler Island",
+1,
+[]
+],
+[
+"Attila",
+1,
+[]
+],
+[
+"Aku Ankka",
+1,
+[]
+],
+[
+"Borneo",
+1,
+[]
+],
+[
+"Cavum",
+1,
+[]
+],
+[
+"Chang Cheng",
+1,
+[]
+],
+[
+"Free Parking",
+1,
+[]
+],
+[
+"Freeloader",
+1,
+[]
+],
+[
+"Fullrigger",
+1,
+[]
+],
+[
+"Fun House",
+1,
+[]
+],
+[
+"SOS Dino",
+1,
+[]
+],
+[
+"Gammarauders",
+1,
+[]
+],
+[
+"Giganten",
+1,
+[]
+],
+[
+"Tief im Riff",
+1,
+[]
+],
+[
+"Federation Space",
+1,
+[]
+],
+[
+"Gheos",
+1,
+[]
+],
+[
+"Ghoulash: The Last Game on Earth",
+1,
+[]
+],
+[
+"Adventurer",
+1,
+[]
+],
+[
+"Alaric the Goth: Fall of the Western Roman Empire",
+1,
+[]
+],
+[
+"Demonlord",
+1,
+[]
+],
+[
+"Diadem (board game)",
+1,
+[]
+],
+[
+"Dragonslayer",
+1,
+[]
+],
+[
+"Fantasy Land (board game)",
+1,
+[]
+],
+[
+"Helltank",
+1,
+[]
+],
+[
+"Hyper Battle",
+1,
+[]
+],
+[
+"Invasion: Earth",
+1,
+[]
+],
+[
+"Kung Fu 2100",
+1,
+[]
+],
+[
+"Nebula 19",
+1,
+[]
+],
+[
+"Oregon Trail",
+1,
+[]
+],
+[
+"Outpost Gamma",
+1,
+[]
+],
+[
+"Rescue from the Hive",
+1,
+[]
+],
+[
+"Saga (microgame)",
+1,
+[]
+],
+[
+"Space Empires",
+1,
+[]
+],
+[
+"Spacefarers",
+1,
+[]
+],
+[
+"Spies!",
+1,
+[]
+],
+[
+"Star Viking",
+1,
+[]
+],
+[
+"Starfire III: Empires",
+1,
+[]
+],
+[
+"Sword Lords",
+1,
+[]
+],
+[
+"The Air-Eaters Strike Back!",
+1,
+[]
+],
+[
+"The Castle (board game)",
+1,
+[]
+],
+[
+"The Dragonlords",
+1,
+[]
+],
+[
+"The Generic Gangster Chase Game",
+1,
+[]
+],
+[
+"Time Tunnels",
+1,
+[]
+],
+[
+"Trailblazer",
+1,
+[]
+],
+[
+"Transylvania",
+1,
+[]
+],
+[
+"Ultra-Warrior",
+1,
+[]
+],
+[
+"Undead (board game)",
+1,
+[]
+],
+[
+"Lourche",
+1,
+[]
+],
+[
+"Girl Talk",
+1,
+[]
+],
+[
+"Give Me the Brain",
+1,
+[]
+],
+[
+"Coyote",
+1,
+[]
+],
+[
+"Wildlife Safari",
+1,
+[
+"Flinke Pinke",
+"Quandaries (1994)",
+"Quandary"
+]
+],
+[
+"Fruit Spy",
+1,
+[]
+],
+[
+"Go to the Head of the Class",
+1,
+[]
+],
+[
+"Golan",
+1,
+[]
+],
+[
+"Gold Mine",
+1,
+[]
+],
+[
+"Granada",
+1,
+[]
+],
+[
+"Anchors Aweigh!",
+1,
+[]
+],
+[
+"Giro Galoppo",
+1,
+[]
+],
+[
+"Last Will",
+1,
+[]
+],
+[
+"Green Ghost",
+1,
+[]
+],
+[
+"ConHex",
+1,
+[]
+],
+[
+"Duel Magical",
+1,
+[]
+],
+[
+"Greyhawk Wars",
+1,
+[]
+],
+[
+"GridIron Master",
+1,
+[]
+],
+[
+"Grind",
+1,
+[]
+],
+[
+"DOG",
+1,
+[]
+],
+[
+"The Big Book of Madness",
+1,
+[]
+],
+[
+"The mysterious magical lake",
+1,
+[]
+],
+[
+"5 Seconds Rule",
+1,
+[]
+],
+[
+"Gunfight in the Valley of Tears, October 9, 1973",
+1,
+[]
+],
+[
+"Schlaraffen Affen",
+1,
+[]
+],
+[
+"Laborigines",
+1,
+[]
+],
+[
+"Gipsy King",
+1,
+[]
+],
+[
+"Glik",
+1,
+[]
+],
+[
+"Moon Base Clavius",
+1,
+[]
+],
+[
+"Asteroid Pirates",
+1,
+[]
+],
+[
+"Highway 2000",
+1,
+[]
+],
+[
+"Demon's Run",
+1,
+[]
+],
+[
+"Dragons of Underearth",
+1,
+[]
+],
+[
+"Field of Honor",
+1,
+[]
+],
+[
+"Lemming",
+1,
+[
+"Lemminge",
+"Lemmingek"
+]
+],
+[
+"Roads & Boats",
+1,
+[]
+],
+[
+"Cuba Libre",
+1,
+[]
+],
+[
+"Monopoly Gamer",
+1,
+[]
+],
+[
+"Tulip Bubble",
+1,
+[]
+],
+[
+"Trench",
+1,
+[]
+],
+[
+"Haggis",
+1,
+[]
+],
+[
+"Halusa",
+1,
+[]
+],
+[
+"Hammer of the Scots",
+1,
+[]
+],
+[
+"Schlag den Raab: Das Spiel",
+1,
+[]
+],
+[
+"Anno 1503",
+1,
+[]
+],
+[
+"Rajas of the Ganges",
+1,
+[]
+],
+[
+"Dino World",
+1,
+[]
+],
+[
+"Vikings Gone Wild",
+1,
+[]
+],
+[
+"Hey Pa! There's a Goat on the Roof",
+1,
+[]
+],
+[
+"In the Year of the Dragon",
+1,
+[]
+],
+[
+"Jantaris",
+1,
+[]
+],
+[
+"Astrotime",
+1,
+[]
+],
+[
+"The Name of the Rose",
+1,
+[]
+],
+[
+"Crash by Crash",
+1,
+[]
+],
+[
+"League of Six",
+1,
+[]
+],
+[
+"Star Munchkin",
+1,
+[]
+],
+[
+"Hitler's War",
+1,
+[]
+],
+[
+"Hue",
+1,
+[]
+],
+[
+"18CZ",
+1,
+[]
+],
+[
+"Hūsker Dū?",
+1,
+[
+"Husker Du?"
+]
+],
+[
+"I'm the Boss!",
+1,
+[]
+],
+[
+"Fruttirelli",
+1,
+[]
+],
+[
+"Geoprimo",
+1,
+[]
+],
+[
+"Click Clack",
+1,
+[]
+],
+[
+"Rhino Hero Super Battle",
+1,
+[
+"Rhino Hero: Super Battle"
+]
+],
+[
+"I Vant to Bite Your Finger",
+1,
+[]
+],
+[
+"IceTowers",
+1,
+[]
+],
+[
+"Star Wars Monopoly",
+1,
+[]
+],
+[
+"Clans of Caledonia",
+1,
+[]
+],
+[
+"Invasion America",
+1,
+[]
+],
+[
+"Iron Dragon",
+1,
+[]
+],
+[
+"Ironclad",
+1,
+[]
+],
+[
+"Judge Dredd",
+1,
+[]
+],
+[
+"Vallco Professional Drag Racing",
+1,
+[]
+],
+[
+"Borderlands",
+1,
+[]
+],
+[
+"By the Sword!",
+1,
+[]
+],
+[
+"Shootout at the Saloon",
+1,
+[]
+],
+[
+"Grav-Ball",
+1,
+[]
+],
+[
+"Helltank Destroyer",
+1,
+[]
+],
+[
+"Star Smuggler",
+1,
+[]
+],
+[
+"Battle Damage: Code Red",
+1,
+[]
+],
+[
+"Attack Force",
+1,
+[]
+],
+[
+"Escape from Altassar",
+1,
+[]
+],
+[
+"Viking Gods",
+1,
+[]
+],
+[
+"Dragon Rage",
+1,
+[]
+],
+[
+"Boarding Party",
+1,
+[]
+],
+[
+"Interstellar Wars",
+1,
+[]
+],
+[
+"Ant Wars",
+1,
+[]
+],
+[
+"Deep Space Navigator",
+1,
+[]
+],
+[
+"Silo 14",
+1,
+[]
+],
+[
+"Bug-Eyed Monsters",
+1,
+[]
+],
+[
+"It's Alive!",
+1,
+[]
+],
+[
+"Cuboro Tricky Ways",
+1,
+[
+"Tricky Ways Fasal"
+]
+],
+[
+"Electronic Dream Phone",
+1,
+[
+"Boyfriend Phone"
+]
+],
+[
+"Okey 101",
+1,
+[]
+],
+[
+"Raids",
+1,
+[]
+],
+[
+"tabula lusoria",
+1,
+[
+"tabulae lusoriae"
+]
+],
+[
+"Make 10 and 20",
+1,
+[]
+],
+[
+"Genoa",
+1,
+[
+"The traders of Genoa"
+]
+],
+[
+"Hetrix",
+1,
+[]
+],
+[
+"Wig Out",
+1,
+[]
+],
+[
+"Jedi Knights Trading Card Game",
+1,
+[]
+],
+[
+"Taktillinen partiopeli",
+1,
+[]
+],
+[
+"Suomen vapaussota",
+1,
+[]
+],
+[
+"Lentokilpailu-peli",
+1,
+[]
+],
+[
+"Matka kotiin jouluksi",
+1,
+[]
+],
+[
+"Kilpa-ajo-peli 1887",
+1,
+[]
+],
+[
+"Belägrings-spelet",
+1,
+[]
+],
+[
+"Robinson Crusoe",
+1,
+[]
+],
+[
+"Maantieteellinen seurapeli",
+1,
+[]
+],
+[
+"Svenskt Historiskt Sällskap Spel",
+1,
+[]
+],
+[
+"Sveaborg",
+1,
+[]
+],
+[
+"Råttfällan",
+1,
+[]
+],
+[
+"Maailmansota itäisellä sotanäyttämöllä",
+1,
+[]
+],
+[
+"LEADERS: The Combined Strategy Game",
+1,
+[]
+],
+[
+"Okiya",
+1,
+[
+"Niya"
+]
+],
+[
+"Jinsei Game",
+1,
+[]
+],
+[
+"1918: Brother Against Brother",
+1,
+[]
+],
+[
+"Tank Attack",
+1,
+[]
+],
+[
+"Journey through Europe",
+1,
+[]
+],
+[
+"A Study in Emerald",
+1,
+[]
+],
+[
+"Consentacle",
+1,
+[]
+],
+[
+"Ka-Bala",
+1,
+[]
+],
+[
+"Keep Cool",
+1,
+[]
+],
+[
+"Imhotep: The Duel",
+1,
+[]
+],
+[
+"Khronos",
+1,
+[]
+],
+[
+"Killer Bunnies and the Journey to Jupiter",
+1,
+[]
+],
+[
+"Kingmaker",
+1,
+[]
+],
+[
+"KingsRow",
+1,
+[]
+],
+[
+"Fabulantica",
+1,
+[]
+],
+[
+"Knockout",
+1,
+[]
+],
+[
+"Kotu Ellima",
+1,
+[]
+],
+[
+"Kruzno",
+1,
+[]
+],
+[
+"København",
+1,
+[]
+],
+[
+"La'b Madjnuni",
+1,
+[
+"Crazy Game"
+]
+],
+[
+"Tyranid Attack",
+1,
+[]
+],
+[
+"Nautilus",
+1,
+[]
+],
+[
+"Landslide",
+1,
+[]
+],
+[
+"Last Night on Earth",
+1,
+[
+"Last Night on Earth: The Zombie Game"
+]
+],
+[
+"Mertwig's Maze",
+1,
+[]
+],
+[
+"Cloudships & Gunboats",
+1,
+[]
+],
+[
+"Space 1889 Adversaries",
+1,
+[]
+],
+[
+"Bug Hunter",
+1,
+[]
+],
+[
+"Hammer's Slammers",
+1,
+[]
+],
+[
+"The Lonely Mountain",
+1,
+[]
+],
+[
+"Star Trek: The Adventure Game",
+1,
+[
+"The Adventure Game"
+]
+],
+[
+"Wabbit Wampage",
+1,
+[]
+],
+[
+"Chill: Black Morn Manor",
+1,
+[]
+],
+[
+"The Watersdown Affair",
+1,
+[]
+],
+[
+"Star Trek III Starship Combat Game",
+1,
+[]
+],
+[
+"Superfight",
+1,
+[]
+],
+[
+"Battlestar Galactica",
+1,
+[]
+],
+[
+"The Mystic Wood",
+1,
+[]
+],
+[
+"Star Trek III",
+1,
+[
+"Star Trek III (game)"
+]
+],
+[
+"Samurai Blades",
+1,
+[]
+],
+[
+"City of Sorcerers",
+1,
+[]
+],
+[
+"Thunde-Rin Guns, Game of the Wild West",
+1,
+[]
+],
+[
+"The Fellowship of the Ring",
+1,
+[]
+],
+[
+"Star Trek II: Starship Combat Simulator",
+1,
+[]
+],
+[
+"The Search for Spock",
+1,
+[]
+],
+[
+"Struggle for the Throne",
+1,
+[]
+],
+[
+"The Last Starfighter: Tunnel Chase",
+1,
+[]
+],
+[
+"Necromancer",
+1,
+[]
+],
+[
+"The Omega War",
+1,
+[]
+],
+[
+"The High Crusade",
+1,
+[]
+],
+[
+"Heart of Oak: Naval Miniatures for the Age of Fighting Sail",
+1,
+[]
+],
+[
+"Star Wars: X-Wing Second Edition",
+1,
+[]
+],
+[
+"Starship Duel",
+1,
+[]
+],
+[
+"BattleDroids",
+1,
+[]
+],
+[
+"The Forever War",
+1,
+[]
+],
+[
+"Alien Contact: Extraterrestrial Empires in Conflict",
+1,
+[]
+],
+[
+"Globbo",
+1,
+[]
+],
+[
+"Condottiere",
+1,
+[]
+],
+[
+"Co-opoly",
+1,
+[
+"Co-opoly: The Game of Cooperatives"
+]
+],
+[
+"Dance Arena 200",
+1,
+[]
+],
+[
+"Chronicles of Crime",
+1,
+[]
+],
+[
+"Lord of the Rings: The Confrontation",
+1,
+[]
+],
+[
+"Hexxagon",
+1,
+[]
+],
+[
+"Jurassic Snack",
+1,
+[]
+],
+[
+"Mythos Tales",
+1,
+[]
+],
+[
+"Im Märchenwald",
+1,
+[]
+],
+[
+"Jagd auf Kohlenklau",
+1,
+[]
+],
+[
+"Hansa",
+1,
+[]
+],
+[
+"Heads of State",
+1,
+[]
+],
+[
+"Logo Board Game",
+1,
+[]
+],
+[
+"London Cabbie",
+1,
+[]
+],
+[
+"Lord of the Fries",
+1,
+[]
+],
+[
+"Lotus",
+1,
+[]
+],
+[
+"Luck of the Draw",
+1,
+[]
+],
+[
+"Zombie Kidz Evolution",
+1,
+[
+"Zombie Kidz Évolution"
+]
+],
+[
+"MLB Showdown",
+1,
+[]
+],
+[
+"Mad Gab",
+1,
+[]
+],
+[
+"Mage Wars Arena",
+1,
+[]
+],
+[
+"Magic Realm",
+1,
+[]
+],
+[
+"Main Tapal Empat",
+1,
+[]
+],
+[
+"Make-A-Million",
+1,
+[]
+],
+[
+"Mall Madness",
+1,
+[]
+],
+[
+"Armageddon",
+1,
+[]
+],
+[
+"Masterpiece",
+1,
+[]
+],
+[
+"Matchwitz",
+1,
+[]
+],
+[
+"Super 3",
+1,
+[]
+],
+[
+"Rapier & Dagger",
+1,
+[
+"Rapier and Dagger"
+]
+],
+[
+"Micro Armour: The Game – WWII",
+1,
+[]
+],
+[
+"Middle Earth",
+1,
+[]
+],
+[
+"Mine a Million",
+1,
+[
+"The Business Game"
+]
+],
+[
+"Minion Hunter",
+1,
+[]
+],
+[
+"Monsterpocalypse",
+1,
+[]
+],
+[
+"Monsters Menace America",
+1,
+[]
+],
+[
+"Mosby's Raiders",
+1,
+[]
+],
+[
+"Factory Fun",
+1,
+[]
+],
+[
+"Claim It!",
+1,
+[]
+],
+[
+"Clash of the Gladiators",
+1,
+[]
+],
+[
+"Goldland",
+1,
+[]
+],
+[
+"Dungeon Petz",
+1,
+[]
+],
+[
+"Mystery Date",
+1,
+[]
+],
+[
+"Mystery Mansion",
+1,
+[]
+],
+[
+"Mythgardia",
+1,
+[]
+],
+[
+"NASCAR Race Day",
+1,
+[]
+],
+[
+"NBA Showdown",
+1,
+[]
+],
+[
+"NFL Showdown",
+1,
+[]
+],
+[
+"Napoleon",
+1,
+[]
+],
+[
+"Mágové z Hexanu",
+1,
+[]
+],
+[
+"Nations: A Simulation Game in International Politics",
+1,
+[]
+],
+[
+"Nexus Ops",
+1,
+[]
+],
+[
+"Nightmare",
+1,
+[]
+],
+[
+"Notable Quotables",
+1,
+[]
+],
+[
+"Nsolo",
+1,
+[]
+],
+[
+"Nuclear War",
+1,
+[]
+],
+[
+"Numble",
+1,
+[]
+],
+[
+"Nîn-Gonost",
+1,
+[
+"Nin-Gonost"
+]
+],
+[
+"Oceania",
+1,
+[]
+],
+[
+"Oh-Wah-Ree",
+1,
+[]
+],
+[
+"Omega Virus",
+1,
+[]
+],
+[
+"One False Step for Mankind",
+1,
+[]
+],
+[
+"Operation Greif",
+1,
+[]
+],
+[
+"Origins of World War II",
+1,
+[]
+],
+[
+"Outrage!",
+1,
+[]
+],
+[
+"Panzer Command",
+1,
+[]
+],
+[
+"Panzer Leader",
+1,
+[]
+],
+[
+"Panzer Warfare",
+1,
+[]
+],
+[
+"Panzergruppe Guderian",
+1,
+[]
+],
+[
+"Parthenon: Rise of the Aegean",
+1,
+[]
+],
+[
+"Paydirt",
+1,
+[]
+],
+[
+"Personal Preference",
+1,
+[]
+],
+[
+"Pimp: The Backhanding",
+1,
+[]
+],
+[
+"Pirate and Traveler",
+1,
+[]
+],
+[
+"pitchnut",
+1,
+[]
+],
+[
+"Pivot",
+1,
+[]
+],
+[
+"Playing Gods",
+1,
+[]
+],
+[
+"Imagine",
+1,
+[]
+],
+[
+"Point of Law",
+1,
+[]
+],
+[
+"Pyramis",
+1,
+[]
+],
+[
+"Posse: Thirteen Against One",
+1,
+[]
+],
+[
+"Post and Pair",
+1,
+[]
+],
+[
+"Probe",
+1,
+[]
+],
+[
+"Puzzle Strike: Bag of Chips",
+1,
+[]
+],
+[
+"Quicksand",
+1,
+[]
+],
+[
+"Quiddler",
+1,
+[]
+],
+[
+"RSVP",
+1,
+[]
+],
+[
+"Rail Baron",
+1,
+[]
+],
+[
+"Ranger: Simulation of Modern Patrolling Operations",
+1,
+[]
+],
+[
+"Rave",
+1,
+[]
+],
+[
+"Realm of the Desert Sons",
+1,
+[]
+],
+[
+"Reef Encounter",
+1,
+[]
+],
+[
+"Renfield",
+1,
+[]
+],
+[
+"Replay Publishing",
+1,
+[]
+],
+[
+"Revolt On Antares",
+1,
+[]
+],
+[
+"Rimau",
+1,
+[]
+],
+[
+"Risk Godstorm",
+1,
+[]
+],
+[
+"Rogue Trooper",
+1,
+[]
+],
+[
+"RollerCoaster Tycoon",
+1,
+[]
+],
+[
+"Rummoli",
+1,
+[]
+],
+[
+"Sailor Moon Collectible Card Game",
+1,
+[]
+],
+[
+"Battle Cattle",
+1,
+[]
+],
+[
+"Battle-Sphere",
+1,
+[]
+],
+[
+"Search & Destroy: Tactical Combat Vietnam 1965-1966",
+1,
+[]
+],
+[
+"Second World War at Sea series",
+1,
+[]
+],
+[
+"Sentinels of the Multiverse",
+1,
+[]
+],
+[
+"Set Cubed",
+1,
+[]
+],
+[
+"Sexy Slang",
+1,
+[]
+],
+[
+"Sher-bakar",
+1,
+[]
+],
+[
+"Sixteen",
+1,
+[]
+],
+[
+"Skullduggery",
+1,
+[]
+],
+[
+"Snit's Revenge",
+1,
+[]
+],
+[
+"The Siege of Jerusalem",
+1,
+[
+"The Siege of Jerusalem, 70 A.D."
+]
+],
+[
+"Solarquest",
+1,
+[]
+],
+[
+"Source of the Nile",
+1,
+[]
+],
+[
+"Space Hop",
+1,
+[]
+],
+[
+"Spaceopoly",
+1,
+[]
+],
+[
+"Spectrangle",
+1,
+[]
+],
+[
+"Speed Circuit",
+1,
+[]
+],
+[
+"Attika",
+1,
+[]
+],
+[
+"Spy Alley",
+1,
+[]
+],
+[
+"Square Mile",
+1,
+[]
+],
+[
+"Squatter",
+1,
+[]
+],
+[
+"Stadium Checkers",
+1,
+[]
+],
+[
+"Star Fleet Battle Force",
+1,
+[]
+],
+[
+"Star Probe",
+1,
+[]
+],
+[
+"Star Trek: Starship Tactical Combat Simulator",
+1,
+[]
+],
+[
+"Star Trek: The Next Generation Interactive VCR Board Game – A Klingon Challenge",
+1,
+[]
+],
+[
+"Star Wars: The Interactive Video Board Game",
+1,
+[
+"Star Wars: The Interactive Video Board Game: Assault on the Death Star"
+]
+],
+[
+"Star Wars Epic Duels",
+1,
+[]
+],
+[
+"Star Wars Miniatures Battles",
+1,
+[]
+],
+[
+"Star Wars PocketModel Trading Card Game",
+1,
+[]
+],
+[
+"Starforce: Alpha Centauri",
+1,
+[]
+],
+[
+"Statis Pro Baseball",
+1,
+[]
+],
+[
+"Stellar Conquest",
+1,
+[]
+],
+[
+"Stock Ticker",
+1,
+[]
+],
+[
+"Stonehenge",
+1,
+[]
+],
+[
+"Stop Thief",
+1,
+[]
+],
+[
+"Storm Over Arnhem",
+1,
+[]
+],
+[
+"Strange Synergy",
+1,
+[]
+],
+[
+"Strat-O-Matic Football",
+1,
+[]
+],
+[
+"Stratego: Legends",
+1,
+[]
+],
+[
+"Stuff Yer Face",
+1,
+[]
+],
+[
+"sua ghin gnua",
+1,
+[]
+],
+[
+"Super Scrabble",
+1,
+[]
+],
+[
+"Swipe",
+1,
+[]
+],
+[
+"Switch 16",
+1,
+[]
+],
+[
+"Sword of Rome",
+1,
+[]
+],
+[
+"Ta Yü",
+1,
+[]
+],
+[
+"Take Off!",
+1,
+[]
+],
+[
+"Tales of the Crystals",
+1,
+[]
+],
+[
+"Terakh",
+1,
+[]
+],
+[
+"The Awful Green Things From Outer Space",
+1,
+[]
+],
+[
+"The Farming Game",
+1,
+[]
+],
+[
+"The Game of Jaws",
+1,
+[]
+],
+[
+"The Game of Life Card Game",
+1,
+[]
+],
+[
+"The Grape Escape",
+1,
+[]
+],
+[
+"The Great Brain Robbery",
+1,
+[]
+],
+[
+"The Great Khan Game",
+1,
+[]
+],
+[
+"The Kids of Carcassonne",
+1,
+[]
+],
+[
+"The London Game",
+1,
+[]
+],
+[
+"The Longest Day",
+1,
+[]
+],
+[
+"The Market of Alturien",
+1,
+[]
+],
+[
+"The Next War",
+1,
+[]
+],
+[
+"The Quest of the Philosopher's Stone",
+1,
+[]
+],
+[
+"The Really Nasty Horse Racing Game",
+1,
+[]
+],
+[
+"The Settlers of Canaan",
+1,
+[]
+],
+[
+"The Succession Wars",
+1,
+[]
+],
+[
+"The Very Clever Pipe Game",
+1,
+[]
+],
+[
+"The Wheel of Time Collectible Card Game",
+1,
+[]
+],
+[
+"Thin Ice",
+1,
+[]
+],
+[
+"Third Reich/Great Pacific War series",
+1,
+[]
+],
+[
+"Thiruthamizh",
+1,
+[]
+],
+[
+"Thunder Road",
+1,
+[]
+],
+[
+"Thunder on South Mountain",
+1,
+[]
+],
+[
+"Tide of Iron",
+1,
+[]
+],
+[
+"Tiger game played with forty",
+1,
+[]
+],
+[
+"Timberland",
+1,
+[]
+],
+[
+"Titanic: The Board Game",
+1,
+[]
+],
+[
+"Tobruk",
+1,
+[]
+],
+[
+"Totopoly",
+1,
+[
+"Totopoli"
+]
+],
+[
+"DungeonQuest Legends",
+1,
+[
+"Drakborgen Legenden"
+]
+],
+[
+"Tracks to Telluride",
+1,
+[]
+],
+[
+"Transformers",
+1,
+[]
+],
+[
+"Travel Go",
+1,
+[]
+],
+[
+"Treehouse",
+1,
+[]
+],
+[
+"TriBond",
+1,
+[]
+],
+[
+"Trias",
+1,
+[]
+],
+[
+"True Dough Mania",
+1,
+[]
+],
+[
+"Tuknanavuhpi",
+1,
+[]
+],
+[
+"Ultra Marines",
+1,
+[]
+],
+[
+"Unexploded Cow",
+1,
+[]
+],
+[
+"Vanished Planet",
+1,
+[]
+],
+[
+"Vegas Showdown",
+1,
+[]
+],
+[
+"Viewpoint",
+1,
+[]
+],
+[
+"Vineta",
+1,
+[]
+],
+[
+"Voice of the Mummy",
+1,
+[]
+],
+[
+"Wall Street Spin",
+1,
+[]
+],
+[
+"War and Peace",
+1,
+[
+"War and Peace: Game of the Napoleonic Wars: 1805–1815"
+]
+],
+[
+"War at Sea",
+1,
+[]
+],
+[
+"War in Europe",
+1,
+[]
+],
+[
+"WarpWar",
+1,
+[]
+],
+[
+"Warriors of Mars",
+1,
+[]
+],
+[
+"Washington's War",
+1,
+[]
+],
+[
+"Babel",
+1,
+[]
+],
+[
+"Who's the Ass?",
+1,
+[]
+],
+[
+"Why",
+1,
+[]
+],
+[
+"Wide World",
+1,
+[]
+],
+[
+"Wise and Otherwise",
+1,
+[]
+],
+[
+"Wizard",
+1,
+[]
+],
+[
+"Wizards",
+1,
+[]
+],
+[
+"Xactika",
+1,
+[]
+],
+[
+"Young Jedi Collectible Card Game",
+1,
+[]
+],
+[
+"Z-G",
+1,
+[]
+],
+[
+"Zendo",
+1,
+[]
+],
+[
+"Bauernschlau",
+1,
+[]
+],
+[
+"Spanish Checkers",
+1,
+[
+"Spanish draughts"
+]
+],
+[
+"Mister Zero",
+1,
+[]
+],
+[
+"Robots",
+1,
+[]
+],
+[
+"Agincourt",
+1,
+[]
+],
+[
+"Black Death",
+1,
+[]
+],
+[
+"Bladestorm",
+1,
+[]
+],
+[
+"Castle of Magic",
+1,
+[]
+],
+[
+"City States of Arklyrell",
+1,
+[]
+],
+[
+"City of Chaos",
+1,
+[]
+],
+[
+"Critter Commandos",
+1,
+[]
+],
+[
+"Deathwing",
+1,
+[]
+],
+[
+"Dragonlord",
+1,
+[]
+],
+[
+"Genestealer",
+1,
+[]
+],
+[
+"Hands Down",
+1,
+[]
+],
+[
+"Shapeshifters",
+1,
+[]
+],
+[
+"Wadjet",
+1,
+[]
+],
+[
+"Big Boss",
+1,
+[]
+],
+[
+"Sushi Go Party!",
+1,
+[]
+],
+[
+"The Lord of the Rings: The Two Towers",
+1,
+[]
+],
+[
+"Marvel HeroClix: Infinity Challenge",
+1,
+[]
+],
+[
+"Mage Knight Dungeons",
+1,
+[]
+],
+[
+"Die Verbotene Stadt",
+1,
+[]
+],
+[
+"Minecraft – Builders & Biomes",
+1,
+[
+"Minecraft Board Game",
+"Minecraft Builders and Biomes",
+"Minecraft: Builders and Biomes",
+"Minecraft Builders & Biomes",
+"Minecraft: Builders & Biomes"
+]
+],
+[
+"Bakschisch",
+1,
+[]
+],
+[
+"The X-Files Board Game",
+1,
+[]
+],
+[
+"Camette",
+1,
+[]
+],
+[
+"Brandon the Brave",
+1,
+[]
+],
+[
+"Eurobusiness",
+1,
+[
+"Eurobiznes"
+]
+],
+[
+"Dice Forge",
+1,
+[]
+],
+[
+"3-6-9",
+1,
+[]
+],
+[
+"Attangle",
+1,
+[]
+],
+[
+"3-stones",
+1,
+[]
+],
+[
+"Tavreli",
+1,
+[]
+],
+[
+"Do you know Di?",
+1,
+[]
+],
+[
+"Castles of Mad King Ludwig",
+1,
+[]
+],
+[
+"Tutankhamen",
+1,
+[]
+],
+[
+"SANQI",
+1,
+[]
+],
+[
+"Knights of Camelot",
+1,
+[]
+],
+[
+"London",
+1,
+[
+"London (Second Edition)"
+]
+],
+[
+"Citadel",
+1,
+[]
+],
+[
+"Direct Conflict in Dimension Six",
+1,
+[]
+],
+[
+"Fire & Steel",
+1,
+[]
+],
+[
+"Fuzzy Heroes",
+1,
+[]
+],
+[
+"Fuzzy Sooper Heroes",
+1,
+[]
+],
+[
+"Gangsters",
+1,
+[]
+],
+[
+"Labyrinthine",
+1,
+[]
+],
+[
+"Legions of the Petal Throne",
+1,
+[]
+],
+[
+"Return to Dark Tower",
+1,
+[]
+],
+[
+"Shasn",
+1,
+[]
+],
+[
+"Shockforce: Battles in the Remnants of America",
+1,
+[]
+],
+[
+"War of the Star Slavers",
+1,
+[]
+],
+[
+"Afrikan tähti: Retkikunnat",
+1,
+[]
+],
+[
+"What Were You Thinking?",
+1,
+[]
+],
+[
+"Cities: Skylines – The Board Game",
+1,
+[]
+],
+[
+"Kunglig ludo",
+1,
+[]
+],
+[
+"Cara a Cara",
+1,
+[
+"Quem é Quem"
+]
+],
+[
+"The Cat's Pajamas",
+1,
+[]
+],
+[
+"Flight 501",
+1,
+[
+"Tisa 501"
+]
+],
+[
+"Flamme Rouge",
+1,
+[]
+],
+[
+"Dragonhunt",
+1,
+[]
+],
+[
+"Star Explorer",
+1,
+[]
+],
+[
+"G.O.O.T.M.U.",
+1,
+[]
+],
+[
+"The Golden Horde",
+1,
+[]
+],
+[
+"Bad Bitches Only",
+1,
+[]
+],
+[
+"Corona",
+1,
+[]
+],
+[
+"Pizza Wars Imperium",
+1,
+[]
+],
+[
+"The Final Campaign",
+1,
+[]
+],
+[
+"Gloomhaven: Jaws of the Lion",
+1,
+[]
+],
+[
+"Heaven & Ale",
+0,
+[]
+],
+[
+"Detective",
+0,
+[
+"Detective: A Modern Crime Board Game"
+]
+],
+[
+"Carpe Diem",
+0,
+[]
+],
+[
+"Concept Kids: Animals",
+0,
+[]
+],
+[
+"Quixo",
+0,
+[]
+],
+[
+"Taskmaster: The Board Game",
+0,
+[
+"Taskmaster Board Game",
+"Taskmaster The Board Game"
+]
+],
+[
+"Brainstonz",
+0,
+[]
+],
+[
+"Potion Explosion",
+0,
+[]
+],
+[
+"Free Willy Game",
+0,
+[]
+],
+[
+"Catan 3D Collector's Edition",
+0,
+[]
+],
+[
+"Reigns: The Council",
+0,
+[
+"Reigns The Council"
+]
+],
+[
+"Platoon",
+0,
+[]
+],
+[
+"Go Gecko Go!",
+0,
+[]
+],
+[
+"Captain Silver",
+0,
+[]
+],
+[
+"Push a Monster",
+0,
+[]
+],
+[
+"Schatz-Rabatz",
+0,
+[]
+],
+[
+"Flizz & Miez",
+0,
+[]
+],
+[
+"Gold am Orinoko",
+0,
+[]
+],
+[
+"Mucca Pazza",
+0,
+[]
+],
+[
+"Roll Through the Ages: The Bronze Age",
+0,
+[]
+],
+[
+"Die Dracheninsel",
+0,
+[]
+],
+[
+"Das Amulett",
+0,
+[]
+],
+[
+"Koenigspiel",
+0,
+[
+"King’s Game"
+]
+],
+[
+"Neue Kriegsspiel",
+0,
+[
+"New War Game"
+]
+],
+[
+"Neu-erfundenes grosses Koenig-Spiel",
+0,
+[
+"Newly Invented Great King’s Game"
+]
+],
+[
+"Mystery! Motive for Murder",
+0,
+[
+"Mystery!"
+]
+],
+[
+"Fort",
+0,
+[]
+],
+[
+"Pandemic Legacy: Season 0",
+0,
+[
+"Pandemic Legacy 0",
+"Pandemic Legacy 3",
+"Pandemic Legacy Season 0"
+]
+],
+[
+"Startups",
+0,
+[]
+],
+[
+"Gravwell: Escape from the 9th Dimension",
+0,
+[]
+],
+[
+"Villagers",
+0,
+[]
+],
+[
+"Storytailors",
+0,
+[]
+],
+[
+"Unlock! Kids: Detective Stories",
+0,
+[]
+],
+[
+"Unlock! Legendary Adventures",
+0,
+[
+"Unlock! 9"
+]
+],
+[
+"Deckscape: Behind the Curtain",
+0,
+[]
+],
+[
+"Deckscape: Escape from Alcatraz",
+0,
+[]
+],
+[
+"Deckscape: Dracula's Castle",
+0,
+[]
+],
+[
+"Deckscape Crew vs Crew: The Pirates' Island",
+0,
+[]
+],
+[
+"The Doom That Came To Atlantic City",
+0,
+[]
+],
+[
+"Jeu de la guerre",
+0,
+[]
+],
+[
+"Star Wars: Escape from Death Star",
+0,
+[]
+],
+[
+"Star Wars: Adventures of R2-D2",
+0,
+[]
+],
+[
+"Star Wars: The Ultimate Space Adventure Game",
+0,
+[]
+],
+[
+"Star Wars: Battle at Sarlacc's Pit",
+0,
+[]
+],
+[
+"Star Wars: Destroy Death Star",
+0,
+[]
+],
+[
+"Star Wars: Hoth Ice Planet Adventure",
+0,
+[]
+],
+[
+"Star Wars: Yoda the Jedi Master",
+0,
+[]
+],
+[
+"Magia Cum Laude",
+0,
+[]
+],
+[
+"Cum Laude",
+0,
+[]
+],
+[
+"Destiny Game",
+0,
+[]
+],
+[
+"The Squirrel Game",
+0,
+[]
+],
+[
+"The Queen's Gambit",
+0,
+[
+"Queen's Gambit The Board Game"
+]
+],
+[
+"Piou Piou",
+0,
+[]
+],
+[
+"Escape from the Hidden Castle (dup)",
+0,
+[]
+],
+[
+"Nino Delfino",
+0,
+[]
+],
+[
+"Age of Industry",
+0,
+[]
+],
+[
+"High Spirits with Calvin and the Colonel",
+0,
+[
+"Game of High Spirits",
+"Game of High Spirits with Calvin and the Colonel",
+"High Spirits"
+]
+],
+[
+"Donjons & Dominos",
+0,
+[]
+],
+[
+"Whirling Witchcraft",
+0,
+[]
+],
+[
+"Bubble Stories",
+0,
+[]
+],
+[
+"Happy City",
+0,
+[]
+],
+[
+"My First Castle Panic",
+0,
+[]
+],
+[
+"Pin Pon!",
+0,
+[]
+],
+[
+"Nouvelles Contrées",
+0,
+[]
+],
+[
+"Detective Charlie",
+0,
+[]
+],
+[
+"Kraken Attack!",
+0,
+[]
+],
+[
+"Peek-a-Mouse",
+0,
+[]
+],
+[
+"Ghost Adventure",
+0,
+[]
+],
+[
+"Tainted Grail: The Fall of Avalon",
+0,
+[]
+],
+[
+"Fiesta de los Muertos",
+0,
+[]
+],
+[
+"Dream Catcher",
+0,
+[]
+],
+[
+"Yum Yum Island",
+0,
+[]
+],
+[
+"Where's Mr. Wolf?",
+0,
+[
+"Mr. Wolf"
+]
+],
+[
+"The Color Monster",
+0,
+[]
+],
+[
+"Shadows: Amsterdam",
+0,
+[]
+],
+[
+"Treasure Island",
+0,
+[]
+],
+[
+"Outfoxed!",
+0,
+[]
+],
+[
+"Boom, Bang, Gold",
+0,
+[]
+],
+[
+"Animouv",
+0,
+[]
+],
+[
+"Conan",
+0,
+[]
+],
+[
+"Pluckin' Pairs",
+0,
+[]
+],
+[
+"Mafia de Cuba",
+0,
+[]
+],
+[
+"Master Fox",
+0,
+[]
+],
+[
+"Clomping Creatures",
+0,
+[]
+],
+[
+"Le jeu aux mille titres",
+0,
+[]
+],
+[
+"Tales & Games: The Hare & the Tortoise",
+0,
+[
+"Tales and Games: The Hare and the Tortoise"
+]
+],
+[
+"Rent a Hero",
+0,
+[]
+],
+[
+"Parade",
+0,
+[]
+],
+[
+"Loony Quest",
+0,
+[]
+],
+[
+"Deus",
+0,
+[]
+],
+[
+"Abyss",
+0,
+[]
+],
+[
+"Tales & Games: The Three Little Pigs",
+0,
+[
+"Tales and Games: The Three Little Pigs",
+"The Three Little Pigs"
+]
+],
+[
+"Riff Raff",
+0,
+[]
+],
+[
+"Lewis & Clark: The Expedition",
+0,
+[
+"Lewis and Clark: The Expedition"
+]
+],
+[
+"Krosmaster: Arena",
+0,
+[
+"Krosmaster Arena"
+]
+],
+[
+"Koryŏ",
+0,
+[
+"Koryo"
+]
+],
+[
+"Crazy Time",
+0,
+[]
+],
+[
+"The Builders: Middle Ages",
+0,
+[]
+],
+[
+"Strike",
+0,
+[]
+],
+[
+"Merlin Zinzin",
+0,
+[]
+],
+[
+"Mausgetrixt",
+0,
+[]
+],
+[
+"Get Bit!",
+0,
+[]
+],
+[
+"Cardline: Animals",
+0,
+[]
+],
+[
+"Animal Upon Animal: Balancing Bridge",
+0,
+[]
+],
+[
+"Cubulus",
+0,
+[]
+],
+[
+"Fame Us",
+0,
+[]
+],
+[
+"Olympos",
+0,
+[]
+],
+[
+"Pirates!",
+0,
+[]
+],
+[
+"Sandwich",
+0,
+[]
+],
+[
+"Zwerg Riese",
+0,
+[]
+],
+[
+"Djam",
+0,
+[]
+],
+[
+"Razzo Raketo",
+0,
+[]
+],
+[
+"Water Lily",
+0,
+[]
+],
+[
+"Hide the Kids!",
+0,
+[]
+],
+[
+"The Caravan",
+0,
+[]
+],
+[
+"Tobago",
+0,
+[]
+],
+[
+"Jamaica",
+0,
+[]
+],
+[
+"Secrets of the Sea",
+0,
+[]
+],
+[
+"Castle Knights",
+0,
+[]
+],
+[
+"On the Dot",
+0,
+[]
+],
+[
+"Siam",
+0,
+[]
+],
+[
+"Crazy Circus",
+0,
+[]
+],
+[
+"Composio",
+0,
+[]
+],
+[
+"Serengeti",
+0,
+[]
+],
+[
+"Atlas & Zeus",
+0,
+[
+"Atlas and Zeus"
+]
+],
+[
+"Habana Taxi",
+0,
+[]
+],
+[
+"Pack of Flies",
+0,
+[]
+],
+[
+"Délir'phone",
+0,
+[]
+],
+[
+"Hopse Frosch",
+0,
+[]
+],
+[
+"Match of the Penguins",
+0,
+[]
+],
+[
+"La Vache Amoureuse",
+0,
+[]
+],
+[
+"Bakari",
+0,
+[]
+],
+[
+"Collection particulière",
+0,
+[]
+],
+[
+"Hitstory",
+0,
+[]
+],
+[
+"Shendao",
+0,
+[]
+],
+[
+"Conquistador",
+0,
+[]
+],
+[
+"Jericho",
+0,
+[]
+],
+[
+"Quits",
+0,
+[]
+],
+[
+"stone kernoi",
+0,
+[
+"kernoi"
+]
+],
+[
+"Hawaii",
+0,
+[]
+],
+[
+"Amerigo",
+0,
+[]
+],
+[
+"Fields of Arle",
+0,
+[]
+],
+[
+"Architects of the West Kingdom",
+0,
+[]
+],
+[
+"Newton",
+0,
+[]
+],
+[
+"Paladins of the West Kingdom",
+0,
+[]
+],
+[
+"Barrage",
+0,
+[]
+],
+[
+"Khôra: Rise of an Empire",
+0,
+[
+"Khôra"
+]
+],
+[
+"Witchstone",
+0,
+[]
+],
+[
+"Monopoly - Paris",
+0,
+[
+"France Monopoly",
+"French Monopoly",
+"Monopoly France",
+"Monopoly Paris",
+"Parisian Monopoly",
+"Paris Monopoly"
+]
+],
+[
+"Pentominoes",
+0,
+[]
+],
+[
+"CoraQuest",
+0,
+[]
+],
+[
+"Hellapagos",
+0,
+[]
+],
+[
+"Therapy",
+0,
+[]
+],
+[
+"Flashback: Zombie Kidz",
+0,
+[
+"Flashback Zombie Kids",
+"Flashback: Zombie Kids",
+"Flashback Zombie Kidz"
+]
+],
+[
+"Stomp the Plank",
+0,
+[]
+],
+[
+"Carnegie",
+0,
+[]
+],
+[
+"Federation",
+0,
+[]
+],
+[
+"Monopoly: Scott the Woz Edition",
+0,
+[]
+],
+[
+"Clue: Scott the Woz Edition",
+0,
+[]
+],
+[
+"Monty Plays Scrabble",
+0,
+[]
+],
+[
+"Unlock! Game Adventures",
+0,
+[]
+],
+[
+"Unlock! Extraordinary adventures",
+0,
+[]
+],
+[
+"Unlock! Kids: Stories From the Past",
+0,
+[]
+],
+[
+"El nuevo coyote",
+0,
+[
+"The new coyote"
+]
+],
+[
+"El cascabelito mudo",
+0,
+[
+"The silent bell"
+]
+],
+[
+"51st State: Master Set",
+0,
+[
+"51st State Master Set"
+]
+],
+[
+"51st State: Ultimate Edition",
+0,
+[
+"51st State Ultimate Edition"
+]
+],
+[
+"Dérive",
+0,
+[]
+],
+[
+"Jeu de lices",
+0,
+[]
+],
+[
+"Trap Surprise",
+0,
+[]
+],
+[
+"Spice Navigator",
+0,
+[]
+],
+[
+"Bunker Poker",
+0,
+[]
+],
+[
+"Yin Yang",
+0,
+[]
+],
+[
+"Crescendo",
+0,
+[]
+],
+[
+"Le Défi du Sphinx",
+0,
+[]
+],
+[
+"Bluffer",
+0,
+[
+"Planet Genius"
+]
+],
+[
+"Bataclan",
+0,
+[]
+],
+[
+"Eureka",
+0,
+[]
+],
+[
+"Serenissima (Second Edition)",
+0,
+[]
+],
+[
+"Project L",
+0,
+[]
+],
+[
+"Here to Slay",
+0,
+[]
+],
+[
+"Word Rummikub",
+0,
+[]
+],
+[
+"Zen the initiate",
+0,
+[
+"Zen: the Initiate"
+]
+],
+[
+"Avalam",
+0,
+[
+"Avalam Bitaka",
+"Avalam Evolution"
+]
+],
+[
+"K'dor",
+0,
+[]
+],
+[
+"Obélix contre Hattack",
+0,
+[
+"Astérix présente Obélix contre Hattack"
+]
+],
+[
+"Power",
+0,
+[]
+],
+[
+"Arcanor",
+0,
+[]
+],
+[
+"Bermude",
+0,
+[]
+],
+[
+"Category Game",
+0,
+[
+"Category"
+]
+],
+[
+"Spirou et les champignons géants",
+0,
+[]
+],
+[
+"Pusher",
+0,
+[]
+],
+[
+"À vos marques!",
+0,
+[
+"A vos marques!"
+]
+],
+[
+"Blackbeard",
+0,
+[]
+],
+[
+"Breakout",
+0,
+[
+"Break Out"
+]
+],
+[
+"Le jeu des chaises musicales",
+0,
+[]
+],
+[
+"Leader Foot",
+0,
+[]
+],
+[
+"Petits Pieds... Partez !",
+0,
+[]
+],
+[
+"Terrain Vague",
+0,
+[]
+],
+[
+"Unsettled",
+0,
+[]
+],
+[
+"Euthia: Torment of Resurrection",
+0,
+[]
+],
+[
+"Horizon Zero Dawn: The Board Game",
+0,
+[]
+],
+[
+"Resident Evil 2: The Board Game",
+0,
+[]
+],
+[
+"Descent: Journeys in the Dark (Second Edition)",
+0,
+[]
+],
+[
+"Arkham Horror (2nd Edition)",
+0,
+[]
+],
+[
+"Arkham Horror (3rd Edition)",
+0,
+[]
+],
+[
+"Siemens Grand Prix Game",
+0,
+[]
+],
+[
+"Empires: Age of Discovery",
+0,
+[]
+],
+[
+"Rhino Hero",
+0,
+[]
+],
+[
+"Dimension",
+0,
+[]
+],
+[
+"Insider",
+0,
+[]
+],
+[
+"Colony",
+0,
+[]
+],
+[
+"Origin",
+0,
+[]
+],
+[
+"Jack and the Beanstalk Game",
+0,
+[]
+],
+[
+"Fidchess",
+0,
+[]
+],
+[
+"Cowgirls",
+0,
+[]
+],
+[
+"Star Wars: Imperial Assault",
+0,
+[]
+],
+[
+"Mansions of Madness: Second Edition",
+0,
+[]
+],
+[
+"Risk Legacy",
+0,
+[]
+],
+[
+"Zombicide: Black Plague",
+0,
+[]
+],
+[
+"The Korean War",
+0,
+[]
+],
+[
+"Top 13",
+0,
+[]
+],
+[
+"Nickropolis",
+0,
+[]
+],
+[
+"Godforsaken Scavengers",
+0,
+[]
+],
+[
+"Too Many Monkeys",
+0,
+[]
+],
+[
+"Pairs",
+0,
+[]
+],
+[
+"The Great War",
+0,
+[]
+],
+[
+"Battle for Germany",
+0,
+[]
+],
+[
+"Cities",
+0,
+[]
+],
+[
+"Merchants",
+0,
+[]
+],
+[
+"Tomb",
+0,
+[]
+],
+[
+"Nottingham",
+0,
+[]
+],
+[
+"Factory Funner",
+0,
+[]
+],
+[
+"Dracula",
+0,
+[]
+],
+[
+"Starfighter",
+0,
+[]
+],
+[
+"Fief",
+0,
+[]
+],
+[
+"Age of Discovery",
+0,
+[]
+],
+[
+"The Game of 49",
+0,
+[]
+],
+[
+"Roll For It!",
+0,
+[]
+],
+[
+"Enemy at the Gates",
+0,
+[]
+],
+[
+"Pacific Victory: War in the Pacific 1941-45",
+0,
+[]
+],
+[
+"Confrontation",
+0,
+[]
+],
+[
+"Pipeline",
+0,
+[]
+],
+[
+"Times to Remember",
+0,
+[]
+],
+[
+"Connections",
+0,
+[]
+],
+[
+"Ping Win",
+0,
+[]
+],
+[
+"A to Z",
+0,
+[]
+],
+[
+"Montgolfière",
+0,
+[]
+],
+[
+"Guesstures",
+0,
+[]
+],
+[
+"Connex'Oh",
+0,
+[
+"Connexo"
+]
+],
+[
+"Dreams",
+0,
+[]
+],
+[
+"Droids",
+0,
+[]
+],
+[
+"L'Anniversaire des triplés",
+0,
+[]
+],
+[
+"Le Paresseux",
+0,
+[]
+],
+[
+"Patzam",
+0,
+[
+"Le Patzam"
+]
+],
+[
+"Motspeed",
+0,
+[]
+],
+[
+"Who Is Going to Do the Dishes?",
+0,
+[]
+],
+[
+"Tutankhamen's Revenge",
+0,
+[]
+],
+[
+"Ex*Pion",
+0,
+[
+"Ex-Pion"
+]
+],
+[
+"Fully",
+0,
+[]
+],
+[
+"Kami",
+0,
+[]
+],
+[
+"Takemo",
+0,
+[]
+],
+[
+"Fragrances",
+0,
+[]
+],
+[
+"Généric",
+0,
+[]
+],
+[
+"Gym-Jungle",
+0,
+[
+"Gym Jungle"
+]
+],
+[
+"Riviera Quest",
+0,
+[]
+],
+[
+"Scribe Glass",
+0,
+[]
+],
+[
+"Get the white!",
+0,
+[]
+],
+[
+"Formidable Foes",
+0,
+[]
+],
+[
+"Boonlake",
+0,
+[]
+],
+[
+"Powerline",
+0,
+[]
+],
+[
+"Foundations of Rome",
+0,
+[]
+],
+[
+"Ancient Knowledge",
+0,
+[]
+],
+[
+"Ticket to Ride: Märklin",
+0,
+[]
+],
+[
+"Tempus",
+0,
+[]
+],
+[
+"Hacienda",
+0,
+[]
+],
+[
+"Blokus Duo",
+0,
+[]
+],
+[
+"Rat Hot",
+0,
+[]
+],
+[
+"Pizza Box Football",
+0,
+[]
+],
+[
+"Sun Tzu",
+0,
+[]
+],
+[
+"Pax Romana",
+0,
+[]
+],
+[
+"Lock 'n Load: Band of Heroes",
+0,
+[]
+],
+[
+"Fire in the Sky: The Great Pacific War 1941-1945",
+0,
+[]
+],
+[
+"Crusader Rex",
+0,
+[]
+],
+[
+"Battleground",
+0,
+[]
+],
+[
+"Advanced Squad Leader: Starter Kit #2",
+0,
+[]
+],
+[
+"You Must Be an Idiot!",
+0,
+[]
+],
+[
+"Poison",
+0,
+[]
+],
+[
+"Funny Friends",
+0,
+[]
+],
+[
+"Walk the Dogs",
+0,
+[]
+],
+[
+"Techno Witches",
+0,
+[]
+],
+[
+"Hula Hippos",
+0,
+[]
+],
+[
+"Ice Cream",
+0,
+[]
+],
+[
+"Attacktix Battle Figure Game: Star Wars",
+0,
+[]
+],
+[
+"Fury of Dracula",
+0,
+[]
+],
+[
+"Viktory II",
+0,
+[
+"Viktory 2"
+]
+],
+[
+"Shifting Sands: The Campaign for North Africa 1940-1943",
+0,
+[]
+],
+[
+"Napoleon's Triumph",
+0,
+[]
+],
+[
+"EastFront: The War in Russia 1941-45",
+0,
+[
+"EastFront: The War in Russia 1941-45 – Second Edition"
+]
+],
+[
+"Combat Commander: Europe",
+0,
+[]
+],
+[
+"Advanced Squad Leader: Starter Kit #3 (2007)",
+0,
+[]
+],
+[
+"A Victory Lost: Crisis in Ukraine 1942-1943",
+0,
+[]
+],
+[
+"Medici vs Strozzi",
+0,
+[]
+],
+[
+"Ingenious: Travel Edition",
+0,
+[]
+],
+[
+"Duel in the Dark",
+0,
+[]
+],
+[
+"Rum & Pirates",
+0,
+[]
+],
+[
+"The World Cup Game",
+0,
+[
+"The World Cup Game: History of the greatest football tournament"
+]
+],
+[
+"Ultimate Werewolf: Whitebox Edition",
+0,
+[]
+],
+[
+"Santy Anno",
+0,
+[]
+],
+[
+"Split Personality",
+0,
+[]
+],
+[
+"Kragmortha",
+0,
+[]
+],
+[
+"HysteriCoach",
+0,
+[]
+],
+[
+"The Castle of the Devil",
+0,
+[]
+],
+[
+"Cineplexity",
+0,
+[]
+],
+[
+"Chopstick Dexterity MegaChallenge 3000",
+0,
+[]
+],
+[
+"World of Warcraft Trading Card Game",
+0,
+[]
+],
+[
+"Take Stock",
+0,
+[]
+],
+[
+"Gambit Royale",
+0,
+[]
+],
+[
+"Null & Nichtig",
+0,
+[]
+],
+[
+"Mag·Blast: Third Edition",
+0,
+[
+"Mag Blast: Third Edition"
+]
+],
+[
+"Iliad",
+0,
+[]
+],
+[
+"Escalation!",
+0,
+[]
+],
+[
+"Quietville",
+0,
+[]
+],
+[
+"Zig-Zag",
+0,
+[]
+],
+[
+"Zeus on the Loose",
+0,
+[]
+],
+[
+"Los Mampfos",
+0,
+[]
+],
+[
+"If Wishes Were Fishes!",
+0,
+[]
+],
+[
+"Heroscape Marvel: The Conflict Begins",
+0,
+[]
+],
+[
+"Celtica",
+0,
+[]
+],
+[
+"Battleground: Crossbows & Catapults",
+0,
+[]
+],
+[
+"Attacktix Battle Figure Game Marvel Superheroes",
+0,
+[]
+],
+[
+"Quizimaze",
+0,
+[]
+],
+[
+"Tribune: Primus Inter Pares",
+0,
+[]
+],
+[
+"World at War: Eisenbach Gap",
+0,
+[]
+],
+[
+"Warriors of God: The Wars of England & France, 1135-1453",
+0,
+[]
+],
+[
+"The Devil's Cauldron: The Battles for Arnhem and Nijmegen",
+0,
+[]
+],
+[
+"Manoeuvre",
+0,
+[]
+],
+[
+"Field Commander: Rommel",
+0,
+[]
+],
+[
+"FAB: The Bulge",
+0,
+[
+"The Fast Action Battle Series: Volume 1 – The Bulge"
+]
+],
+[
+"España 1936",
+0,
+[
+"Espana 1936"
+]
+],
+[
+"Asia Engulfed",
+0,
+[]
+],
+[
+"Shanghaien",
+0,
+[]
+],
+[
+"Pick & Pack",
+0,
+[
+"Pick and Pack"
+]
+],
+[
+"Cold War: CIA vs KGB",
+0,
+[]
+],
+[
+"The Battle for Hill 218",
+0,
+[]
+],
+[
+"Ticket to Ride: Nordic Countries",
+0,
+[]
+],
+[
+"Oregon",
+0,
+[]
+],
+[
+"Metropolys",
+0,
+[]
+],
+[
+"Felicity: The Cat in the Sack",
+0,
+[]
+],
+[
+"Aquaretto",
+0,
+[]
+],
+[
+"Airships",
+0,
+[]
+],
+[
+"My Puzzle Adventure: Dragon",
+0,
+[
+"My Puzzle Adventure - Dragon"
+]
+],
+[
+"Morris the Dodo",
+0,
+[]
+],
+[
+"Super Miaou",
+0,
+[]
+],
+[
+"Eila and Something Shiny",
+0,
+[]
+],
+[
+"Perfect Words",
+0,
+[]
+],
+[
+"El Capitán",
+0,
+[
+"El Capitan"
+]
+],
+[
+"RattleSnake",
+0,
+[
+"Rattle Snake"
+]
+],
+[
+"Penguin",
+0,
+[]
+],
+[
+"Heroscape Master Set: Swarm of the Marro",
+0,
+[]
+],
+[
+"Gumball Rally",
+0,
+[]
+],
+[
+"Kitty Bitty",
+0,
+[]
+],
+[
+"Cheeky Monkey",
+0,
+[
+"Monkey Business"
+]
+],
+[
+"Bobbin' Bumblebee",
+0,
+[]
+],
+[
+"Ticket to Ride: The Card Game",
+0,
+[]
+],
+[
+"Slide 5",
+0,
+[]
+],
+[
+"Biblios",
+0,
+[]
+],
+[
+"Pacific Typhoon",
+0,
+[]
+],
+[
+"Mü and Lots More",
+0,
+[]
+],
+[
+"Cutthroat Caverns",
+0,
+[]
+],
+[
+"Before the Wind",
+0,
+[]
+],
+[
+"BANG! The Bullet!",
+0,
+[]
+],
+[
+"Unspeakable Words",
+0,
+[]
+],
+[
+"Ubongo Extreme",
+0,
+[]
+],
+[
+"Time's Up! Title Recall!",
+0,
+[]
+],
+[
+"Time's Up! Deluxe",
+0,
+[]
+],
+[
+"Ca$h 'n Gun$: Live",
+0,
+[]
+],
+[
+"Steel Driver",
+0,
+[]
+],
+[
+"Steam",
+0,
+[
+"Steam: Rails to Riches"
+]
+],
+[
+"Wabash Cannonball",
+0,
+[
+"Chicago Express"
+]
+],
+[
+"Automobile",
+0,
+[]
+],
+[
+"Wasabi!",
+0,
+[
+"Sushi!"
+]
+],
+[
+"Sorry! Sliders",
+0,
+[]
+],
+[
+"Snow Tails",
+0,
+[]
+],
+[
+"Powerboats",
+0,
+[]
+],
+[
+"Fast Flowing Forest Fellers",
+0,
+[]
+],
+[
+"Waterloo",
+0,
+[]
+],
+[
+"Ubongo: Duel",
+0,
+[]
+],
+[
+"Combat Commander: Pacific",
+0,
+[]
+],
+[
+"2 de Mayo",
+0,
+[
+"Dos de Mayo"
+]
+],
+[
+"Unhappy King Charles!",
+0,
+[]
+],
+[
+"The Napoleonic Wars",
+0,
+[
+"The Napoleonic Wars (First Edition)",
+"The Napoleonic Wars (Second Edition)"
+]
+],
+[
+"Axis & Allies Anniversary Edition",
+0,
+[]
+],
+[
+"You Robot",
+0,
+[]
+],
+[
+"Ultimate Werewolf: Ultimate Edition",
+0,
+[
+"Ultimate Werewolf"
+]
+],
+[
+"Gambit 7",
+0,
+[]
+],
+[
+"Are You the Traitor?",
+0,
+[]
+],
+[
+"The 3 Commandments",
+0,
+[]
+],
+[
+"Zoowaboo",
+0,
+[]
+],
+[
+"Tier auf Tier: Das Duell",
+0,
+[]
+],
+[
+"Sushizock im Gockelwok",
+0,
+[]
+],
+[
+"Go Nuts!",
+0,
+[]
+],
+[
+"Pyramid of Pengqueen",
+0,
+[]
+],
+[
+"duck! duck! Go!",
+0,
+[]
+],
+[
+"Piece o' Cake",
+0,
+[]
+],
+[
+"Uruk",
+0,
+[
+"Uruk: Wiege der Zivilisation"
+]
+],
+[
+"Monty Python Fluxx",
+0,
+[]
+],
+[
+"Modern Art Card Game",
+0,
+[]
+],
+[
+"A Game of Thrones: The Card Game",
+0,
+[]
+],
+[
+"Byzanz",
+0,
+[]
+],
+[
+"Bonnie and Clyde",
+0,
+[]
+],
+[
+"Planet Steam",
+0,
+[]
+],
+[
+"Android",
+0,
+[]
+],
+[
+"Descent: Legends of the Dark – The Betrayer's War",
+0,
+[]
+],
+[
+"The Thing: The Boardgame",
+0,
+[]
+],
+[
+"Zombie in My Pocket",
+0,
+[]
+],
+[
+"To the Last Man! The Great War in the West",
+0,
+[]
+],
+[
+"Skirmish Wars: Advance Tactics",
+0,
+[]
+],
+[
+"Pocket Dungeon",
+0,
+[]
+],
+[
+"Island Trader",
+0,
+[]
+],
+[
+"Free Trader",
+0,
+[]
+],
+[
+"The Dungeon of D",
+0,
+[]
+],
+[
+"Dune Express",
+0,
+[]
+],
+[
+"Decktet",
+0,
+[]
+],
+[
+"Chunky Fighters",
+0,
+[]
+],
+[
+"Cheese Chasers",
+0,
+[]
+],
+[
+"Bindle Rails",
+0,
+[]
+],
+[
+"Airborne in My Pocket",
+0,
+[]
+],
+[
+"Agricola Express",
+0,
+[]
+],
+[
+"Timber Tom",
+0,
+[]
+],
+[
+"Stronghold",
+0,
+[]
+],
+[
+"Mr. Jack in New York",
+0,
+[]
+],
+[
+"Campaign Manager 2008",
+0,
+[]
+],
+[
+"Arena: Roma II",
+0,
+[]
+],
+[
+"Bunny Hops!",
+0,
+[
+"Bunny Hops"
+]
+],
+[
+"Crack List",
+0,
+[]
+],
+[
+"Ubongo 3D",
+0,
+[
+"Ubongo 3-D"
+]
+],
+[
+"Qwirkle Cubes",
+0,
+[]
+],
+[
+"Mosaix",
+0,
+[
+"Te-Trix"
+]
+],
+[
+"Mountain Goats",
+0,
+[
+"Level X"
+]
+],
+[
+"Kraby",
+0,
+[]
+],
+[
+"Genial Spezial",
+0,
+[]
+],
+[
+"Court of the Medici",
+0,
+[]
+],
+[
+"Adaptoid",
+0,
+[]
+],
+[
+"Ablaze!",
+0,
+[]
+],
+[
+"War of the Ring Collector's Edition",
+0,
+[]
+],
+[
+"The Adventurers: The Temple of Chac",
+0,
+[]
+],
+[
+"Railways of the World: The Card Game",
+0,
+[]
+],
+[
+"Innovation",
+0,
+[]
+],
+[
+"Ascension: Deckbuilding Game",
+0,
+[
+"Ascension: Chronicle of the Godslayer"
+]
+],
+[
+"Word on the Street Junior",
+0,
+[]
+],
+[
+"Wits & Wagers Family",
+0,
+[
+"Wits and Wagers Family"
+]
+],
+[
+"duck! duck! SAFARI!",
+0,
+[]
+],
+[
+"6 nimmt! Junior",
+0,
+[]
+],
+[
+"Archipelago",
+0,
+[]
+],
+[
+"ClimaTicTac",
+0,
+[]
+],
+[
+"Marrakesh",
+0,
+[
+"Marrakesh: Essential Edition"
+]
+],
+[
+"Evergreen",
+0,
+[]
+],
+[
+"Ra: The Dice Game",
+0,
+[]
+],
+[
+"Macao",
+0,
+[]
+],
+[
+"Catacombs",
+0,
+[]
+],
+[
+"Ugg-Tect",
+0,
+[]
+],
+[
+"Bunny Bunny Moose Moose",
+0,
+[]
+],
+[
+"Long Shot",
+0,
+[]
+],
+[
+"Nanuk",
+0,
+[]
+],
+[
+"Word on the Street",
+0,
+[]
+],
+[
+"Battle for Rokugan",
+0,
+[]
+],
+[
+"Septikon: Uranium Wars",
+0,
+[]
+],
+[
+"Big Adventure",
+0,
+[]
+],
+[
+"Yucatan",
+0,
+[]
+],
+[
+"Potion-making: Path of Alchemist",
+0,
+[]
+],
+[
+"Rolling Heights",
+0,
+[]
+],
+[
+"Pendulum",
+0,
+[]
+],
+[
+"City of the Great Machine",
+0,
+[]
+],
+[
+"Vivid Memories",
+0,
+[]
+],
+[
+"Oathsworn: Into the Deepwood",
+0,
+[]
+],
+[
+"Terrorscape",
+0,
+[]
+],
+[
+"Yggdrasil",
+0,
+[]
+],
+[
+"Trickerion: Collector's Edition",
+0,
+[]
+],
+[
+"Beast",
+0,
+[]
+],
+[
+"A.D.E.L.E.",
+0,
+[]
+],
+[
+"Tabriz",
+0,
+[]
+],
+[
+"Intent to Kill",
+0,
+[]
+],
+[
+"Cloomba",
+0,
+[]
+],
+[
+"NEON",
+0,
+[]
+],
+[
+"Master of Orion: The Board Game",
+0,
+[
+"Master of Orion"
+]
+],
+[
+"Savernake Forest",
+0,
+[]
+],
+[
+"Maple Valley",
+0,
+[]
+],
+[
+"Witchcraft!",
+0,
+[]
+],
+[
+"Ierusalem: Anno Domini",
+0,
+[]
+],
+[
+"War of the Ring: The Card Game",
+0,
+[]
+],
+[
+"Aurignac",
+0,
+[]
+],
+[
+"Chicken Chicken",
+0,
+[
+"Poule Poule"
+]
+],
+[
+"Oriflamme: Alliance",
+0,
+[]
+],
+[
+"Oriflamme: Ablaze",
+0,
+[]
+],
+[
+"Xia: Legends of a Drift System",
+0,
+[]
+],
+[
+"Arydia: The Paths We Dare Tread",
+0,
+[]
+],
+[
+"Critter Kitchen",
+0,
+[]
+],
+[
+"The Guild of Merchant Explorers",
+0,
+[]
+],
+[
+"Dragon-Slayers",
+0,
+[]
+],
+[
+"Jurassic Parts",
+0,
+[]
+],
+[
+"Saboteur: The Lost Mines",
+0,
+[]
+],
+[
+"Saboteur: The Dark Cave",
+0,
+[]
+],
+[
+"Saboteur: The Duel",
+0,
+[]
+],
+[
+"The Isle of Cats",
+0,
+[]
+],
+[
+"Third Crusade",
+0,
+[]
+],
+[
+"Tiny Towns",
+0,
+[]
+],
+[
+"Nobody is Perfect",
+0,
+[]
+],
+[
+"The Final Frontier (board game)",
+0,
+[
+"Star Trek: The Final Frontier"
+]
+],
+[
+"Infection Express",
+0,
+[]
+],
+[
+"Doctor Who: Solitaire Story Game",
+0,
+[]
+],
+[
+"Delve: The Dice Game",
+0,
+[]
+],
+[
+"The d6 Shooters",
+0,
+[]
+],
+[
+"D-Day Dice: Free Trial Version",
+0,
+[]
+],
+[
+"Power Grid: Factory Manager",
+0,
+[]
+],
+[
+"Homesteaders",
+0,
+[]
+],
+[
+"Middle-Earth Quest",
+0,
+[]
+],
+[
+"Richard III: The Wars of the Roses",
+0,
+[]
+],
+[
+"D-Day at Omaha Beach",
+0,
+[]
+],
+[
+"Mr. Jack Pocket",
+0,
+[]
+],
+[
+"Famiglia",
+0,
+[]
+],
+[
+"Commands & Colors: Napoleonics",
+0,
+[]
+],
+[
+"Uncle Chestnut's Table Gype",
+0,
+[]
+],
+[
+"SNCF: France & Germany",
+0,
+[
+"Paris Connection",
+"SNCF"
+]
+],
+[
+"Mijnlieff",
+0,
+[]
+],
+[
+"Fealty",
+0,
+[]
+],
+[
+"Crows",
+0,
+[]
+],
+[
+"Bits",
+0,
+[]
+],
+[
+"Artus",
+0,
+[
+"Artus and the Knights of the Round Table"
+]
+],
+[
+"Aether",
+0,
+[]
+],
+[
+"Isla Dorada",
+0,
+[]
+],
+[
+"Alien Frontiers",
+0,
+[
+"Alien Frontiers: Aurora"
+]
+],
+[
+"Thunderstone: Dragonspire",
+0,
+[]
+],
+[
+"Space Hulk: Death Angel – The Card Game",
+0,
+[]
+],
+[
+"Nightfall",
+0,
+[]
+],
+[
+"Engine, Engine No. 9",
+0,
+[]
+],
+[
+"Angry Birds: Knock on Wood",
+0,
+[]
+],
+[
+"Dweebies",
+0,
+[]
+],
+[
+"Heckmeck Junior",
+0,
+[]
+],
+[
+"Harry Potter Hogwarts",
+0,
+[
+"LEGO Hogwarts"
+]
+],
+[
+"Magic Labyrinth: Card Game",
+0,
+[]
+],
+[
+"Sumo Ham Slam",
+0,
+[]
+],
+[
+"Tail Feathers",
+0,
+[]
+],
+[
+"Airlines Europe",
+0,
+[]
+],
+[
+"Nuns on the Run",
+0,
+[]
+],
+[
+"Ascending Empires",
+0,
+[]
+],
+[
+"High Frontier",
+0,
+[]
+],
+[
+"Mord im Arosa",
+0,
+[
+"Hotel Mystery"
+]
+],
+[
+"Crappy Birthday",
+0,
+[]
+],
+[
+"Junta: Viva el Presidente!",
+0,
+[]
+],
+[
+"Train of Thought",
+0,
+[]
+],
+[
+"12 Realms",
+0,
+[]
+],
+[
+"Aether Captains",
+0,
+[]
+],
+[
+"Aliens: This Time It's War",
+0,
+[]
+],
+[
+"Arkham Express",
+0,
+[]
+],
+[
+"BattleCON: War of Indines",
+0,
+[]
+],
+[
+"Pocket Pro Golf",
+0,
+[]
+],
+[
+"RoboDerby: Express",
+0,
+[]
+],
+[
+"Smash Monster Rampage!",
+0,
+[]
+],
+[
+"The Thing",
+0,
+[]
+],
+[
+"Utopia Engine",
+0,
+[]
+],
+[
+"Glen More",
+0,
+[]
+],
+[
+"Navegador",
+0,
+[]
+],
+[
+"Rubik's Flip",
+0,
+[]
+],
+[
+"Letters from Whitechapel",
+0,
+[]
+],
+[
+"Battleship Galaxies",
+0,
+[
+"Battleship Galaxies: The Saturn Offensive Game Set"
+]
+],
+[
+"Fighting Formations: Grossdeutschland Motorized Infantry Division",
+0,
+[
+"Fighting Formations: Großdeutschland Infantry Division"
+]
+],
+[
+"No Retreat! The Russian Front",
+0,
+[]
+],
+[
+"Sekigahara: The Unification of Japan",
+0,
+[]
+],
+[
+"Animal Upon Animal",
+0,
+[]
+],
+[
+"Agricola: All Creatures Big and Small",
+0,
+[]
+],
+[
+"Drako: Dragon & Dwarves",
+0,
+[]
+],
+[
+"Omen: A Reign of War",
+0,
+[]
+],
+[
+"Revolver",
+0,
+[]
+],
+[
+"Star Trek: Fleet Captains",
+0,
+[]
+],
+[
+"Summoner Wars: Master Set",
+0,
+[]
+],
+[
+"Coerceo",
+0,
+[]
+],
+[
+"Epigo",
+0,
+[]
+],
+[
+"For The Win",
+0,
+[]
+],
+[
+"Pizza Theory",
+0,
+[]
+],
+[
+"Rise!",
+0,
+[]
+],
+[
+"Blood Bowl: Team Manager – The Card Game",
+0,
+[]
+],
+[
+"Core Worlds",
+0,
+[]
+],
+[
+"Eminent Domain",
+0,
+[]
+],
+[
+"Thunderstone Advance: Towers of Ruin",
+0,
+[]
+],
+[
+"Catan: Junior",
+0,
+[]
+],
+[
+"FlowerFall",
+0,
+[]
+],
+[
+"Goblins Drool, Fairies Rule!",
+0,
+[]
+],
+[
+"Heroica: Fortaan",
+0,
+[]
+],
+[
+"Mare Balticum",
+0,
+[]
+],
+[
+"Martian Dice",
+0,
+[]
+],
+[
+"Stuffed Fables",
+0,
+[]
+],
+[
+"D-Day Dice",
+0,
+[]
+],
+[
+"Dixit: Journey",
+0,
+[
+"Dixit Journey"
+]
+],
+[
+"Dungeon Fighter",
+0,
+[]
+],
+[
+"Epic Spell Wars of the Battle Wizards: Duel at Mt. Skullzfyre",
+0,
+[]
+],
+[
+"Aether Captains: Clockwork Cabal",
+0,
+[]
+],
+[
+"The Big Time!",
+0,
+[]
+],
+[
+"Dark Moon",
+0,
+[]
+],
+[
+"Dungeon in a Tin",
+0,
+[]
+],
+[
+"Inspector Moss: House Arrest",
+0,
+[]
+],
+[
+"Lord of the Rings: The Adventure Deck Game",
+0,
+[]
+],
+[
+"Rolling Stock",
+0,
+[]
+],
+[
+"Shadows Upon Lassadar",
+0,
+[]
+],
+[
+"Bug Race",
+0,
+[]
+],
+[
+"Forgotten Waters",
+0,
+[]
+],
+[
+"Xerxes",
+0,
+[]
+],
+[
+"The Crocodile-Game",
+0,
+[]
+],
+[
+"GHQ",
+0,
+[
+"GHQ: The Lost Board Game",
+"Kurt Vonnegut’s GHQ",
+"Kurt Vonnegut’s GHQ: General Headquarters",
+"Kurt Vonnegut’s GHQ: The Lost Board Game"
+]
+],
+[
+"The Battle of Versailles",
+0,
+[]
+],
+[
+"Kemet",
+0,
+[]
+],
+[
+"Kemet: Blood and Sand",
+0,
+[]
+],
+[
+"Coffee Rush",
+0,
+[]
+],
+[
+"My First Adventure: Finding the Dragon",
+0,
+[]
+],
+[
+"Odysea Organization",
+0,
+[]
+],
+[
+"Wonder Book",
+0,
+[]
+],
+[
+"The Animals of Baker Street",
+0,
+[]
+],
+[
+"Arborea",
+0,
+[]
+],
+[
+"Johari",
+0,
+[]
+],
+[
+"Rats of Wistar",
+0,
+[]
+],
+[
+"Defenders of the Wild",
+0,
+[]
+],
+[
+"Comanauts",
+0,
+[]
+],
+[
+"Aftermath",
+0,
+[]
+],
+[
+"Argent: The Consortium",
+0,
+[]
+],
+[
+"Brew",
+0,
+[]
+],
+[
+"Mysteriet på Greveholm",
+0,
+[
+"(1999) N/A 4.00 3 [ Shop ]"
+]
+],
+[
+"Strike of the Eagle",
+0,
+[]
+],
+[
+"Andean Abyss",
+0,
+[]
+],
+[
+"Spotlight",
+0,
+[]
+],
+[
+"Kronologic: Paris 1920",
+0,
+[]
+],
+[
+"Kutná Hora: The City of Silver",
+0,
+[]
+],
+[
+"Sankoré: The Pride of Mansa Musa",
+0,
+[]
+],
+[
+"For a Crown",
+0,
+[]
+],
+[
+"Teenage Mutant Ninja Turtles Game",
+0,
+[]
+],
+[
+"Islebound",
+0,
+[]
+],
+[
+"World Wonders",
+0,
+[]
+],
+[
+"Mosaic: A Story of Civilization",
+0,
+[
+"Mosaic"
+]
+],
+[
+"Destinies",
+0,
+[]
+],
+[
+"Helsinki",
+0,
+[]
+],
+[
+"Kamon",
+0,
+[]
+],
+[
+"Macroscope",
+0,
+[]
+],
+[
+"Lost & Found",
+0,
+[
+"Lost'n'Found"
+]
+],
+[
+"Doorways to Adventure",
+0,
+[]
+],
+[
+"Too Many Bones",
+0,
+[]
+],
+[
+"Balconia",
+0,
+[]
+],
+[
+"The Big Fat Tomato Game",
+0,
+[]
+],
+[
+"Ticket to Ride: First Journey (U.S.)",
+0,
+[]
+],
+[
+"Ticket to Ride: First Journey (Europe)",
+0,
+[]
+],
+[
+"Ticket to Ride: Ghost Train",
+0,
+[]
+],
+[
+"Ticket to Ride: Germany",
+0,
+[]
+],
+[
+"Ticket to Ride: New York",
+0,
+[]
+],
+[
+"Ticket to Ride: London",
+0,
+[]
+],
+[
+"Ticket to Ride: Amsterdam",
+0,
+[]
+],
+[
+"Ticket to Ride: San Francisco",
+0,
+[]
+],
+[
+"Ticket to Ride: Paris",
+0,
+[]
+],
+[
+"Ticket to Ride: Northern Lights",
+0,
+[]
+],
+[
+"Forbidden Sky",
+0,
+[]
+],
+[
+"Forbidden Jungle",
+0,
+[]
+],
+[
+"Hannin Wa Odoru",
+0,
+[]
+],
+[
+"Monster My Neighbor",
+0,
+[
+"Monster My Friend"
+]
+],
+[
+"ABBA Monopoly",
+0,
+[]
+],
+[
+"Evenfall",
+0,
+[]
+],
+[
+"Terra Nova",
+0,
+[]
+],
+[
+"Art Society",
+0,
+[]
+],
+[
+"Black Book: The Board Game",
+0,
+[]
+],
+[
+"Comet",
+0,
+[]
+],
+[
+"Distilled",
+0,
+[]
+],
+[
+"3 Chapters",
+0,
+[]
+],
+[
+"Unfair",
+0,
+[]
+],
+[
+"The Vale of Eternity",
+0,
+[]
+],
+[
+"Revive",
+0,
+[]
+],
+[
+"Message in a Bottle",
+0,
+[]
+],
+[
+"Arbolito",
+0,
+[]
+],
+[
+"Half-and-Seek",
+0,
+[]
+],
+[
+"Discat",
+0,
+[]
+],
+[
+"Satori",
+0,
+[]
+],
+[
+"Phoenix: New Horizon",
+0,
+[]
+],
+[
+"Daruma",
+0,
+[]
+],
+[
+"Concilium Urbis",
+0,
+[]
+],
+[
+"Last Message",
+0,
+[]
+],
+[
+"Monopoly: Animal Crossing",
+0,
+[]
+],
+[
+"Catapult Feud",
+0,
+[]
+],
+[
+"Wreck Raiders",
+0,
+[]
+],
+[
+"Pixie Queen",
+0,
+[]
+],
+[
+"Woodcraft",
+0,
+[]
+],
+[
+"Under Falling Skies",
+0,
+[]
+],
+[
+"Game of Thrones: The Card Game",
+0,
+[]
+],
+[
+"Wolfenstein: The Board Game",
+0,
+[]
+],
+[
+"SPARPAGLIATI",
+0,
+[]
+],
+[
+"Présages",
+0,
+[]
+],
+[
+"Zenith",
+0,
+[]
+],
+[
+"Het Beursspel",
+0,
+[]
+],
+[
+"Teenage Mutant Ninja Turtles: Tower of Doom",
+0,
+[]
+],
+[
+"Star Trek: Deep Space Nine: The Board Game",
+0,
+[]
+],
+[
+"Star Trek: The Next Generation: The Board Game",
+0,
+[]
+],
+[
+"Checkers Plus",
+0,
+[
+"Dama Piu",
+"Dama Più",
+"Dama Plus"
+]
+],
+[
+"Dig Deeper Dwarf",
+0,
+[]
+],
+[
+"Fire in the Lake",
+0,
+[]
+],
+[
+"COIN Series",
+0,
+[]
+],
+[
+"A Distant Plain: Insurgency in Afghanistan",
+0,
+[]
+],
+[
+"Colonial Twilight: The French-Algerian War",
+0,
+[]
+],
+[
+"China’s War: 1937-1941",
+0,
+[]
+],
+[
+"Falling Sky: The Gallic Revolt Against Caesar",
+0,
+[]
+],
+[
+"The British Way: Counterinsurgency at the End of Empire",
+0,
+[]
+],
+[
+"The Guerrilla Generation: Cold War Insurgencies",
+0,
+[]
+],
+[
+"RWBY: Combat Ready",
+0,
+[]
+],
+[
+"Gods, Warriors & Beasts",
+0,
+[
+"Beasts Warriors and Gods BWG Beasts, Warriors & Gods – Board Game"
+]
+],
+[
+"Rheinländer",
+0,
+[]
+],
+[
+"Dragon Eclipse",
+0,
+[]
+],
+[
+"The Old King's Crown",
+0,
+[]
+],
+[
+"Speakeasy",
+0,
+[]
+],
+[
+"Welcome to the Moon",
+0,
+[]
+],
+[
+"Tumblin' Dice",
+0,
+[]
+],
+[
+"Historical Mystery: Death at the Ball",
+0,
+[]
+],
+[
+"Historical Mystery: Bets are Made",
+0,
+[]
+],
+[
+"Historical Mystery: Disappearance in the Sky",
+0,
+[]
+],
+[
+"Historical Mystery: Treasures of the Galleon",
+0,
+[]
+],
+[
+"Historical Mystery: The Witch",
+0,
+[]
+],
+[
+"StegegetS",
+0,
+[]
+],
+[
+"Western Legends",
+0,
+[]
+],
+[
+"Finspan",
+0,
+[]
+],
+[
+"Onward",
+0,
+[]
+],
+[
+"The Twisted Spooky Night",
+0,
+[]
+],
+[
+"Ants",
+0,
+[]
+],
+[
+"Carnuta",
+0,
+[]
+],
+[
+"Sinister Institute",
+0,
+[]
+],
+[
+"JeDiBo",
+0,
+[]
+],
+[
+"Under Falling Skies: A 9-Card Solo Game",
+0,
+[]
+],
+[
+"ludus coriovalli",
+0,
+[]
+],
+[
+"Splendor Duel",
+0,
+[]
+],
+[
+"Halo",
+0,
+[
+"Halo Tabletop"
+]
+],
+[
+"World Traveler Board Game",
+0,
+[
+"World Traveler Race Around the World"
+]
+],
+[
+"Mafiabursdag",
+0,
+[]
+],
+[
+"Harry Potter: A Year at Hogwarts",
+0,
+[]
+],
+[
+"Rengo",
+0,
+[]
+],
+[
+"You Are the President",
+0,
+[]
+],
+[
+"Bomb Squad",
+0,
+[]
+],
+[
+"Nine Knights",
+0,
+[]
+],
+[
+"Great Kingdom",
+0,
+[]
+],
+[
+"King's Crown",
+0,
+[]
+],
+[
+"Carcassonne: Winter Edition",
+0,
+[]
+],
+[
+"The Mind Game",
+0,
+[]
+],
+[
+"The Crew: Mission Deep Sea",
+0,
+[]
+],
+[
+"The Resistance: Avalon",
+0,
+[]
+],
+[
+"Catan Junior travel",
+0,
+[]
+],
+[
+"Gunsen: The Battle for Toshi Ranbo",
+0,
+[]
+],
+[
+"Yami",
+0,
+[]
+],
+[
+"Primal: The Awakening",
+0,
+[]
+],
+[
+"Solstis",
+0,
+[]
+],
+[
+"Doggerland",
+0,
+[]
+],
+[
+"New World Empires",
+0,
+[]
+],
+[
+"Gods of Rome",
+0,
+[
+"Gods Of Rome"
+]
+],
+[
+"Codenames Duet",
+0,
+[]
+],
+[
+"Libertalia",
+0,
+[]
+],
+[
+"Filipino dama",
+0,
+[
+"dama",
+"Filipino checkers",
+"Philippine checkers",
+"Philippine draughts"
+]
+],
+[
+"I Luv London",
+0,
+[]
+],
+[
+"London-Opoly",
+0,
+[]
+],
+[
+"Forest City Routes/Roots",
+0,
+[]
+],
+[
+"Kellogg's Story Book of Games series",
+0,
+[]
+],
+[
+"Kellogg's Story Book of Games book one",
+0,
+[]
+],
+[
+"Wake Up Stars",
+0,
+[]
+],
+[
+"Sumology",
+0,
+[]
+],
+[
+"Math Room",
+0,
+[]
+],
+[
+"Glow Spotters",
+0,
+[]
+],
+[
+"Ice Tumble",
+0,
+[]
+],
+[
+"Trifusion",
+0,
+[]
+],
+[
+"Owl Solve That!",
+0,
+[]
+],
+[
+"Crystal Cup Rally",
+0,
+[]
+],
+[
+"Graffiti game",
+0,
+[]
+],
+[
+"Eye to Eye",
+0,
+[]
+],
+[
+"Dreaming Dragon",
+0,
+[]
+],
+[
+"Math Medalist",
+0,
+[]
+],
+[
+"Is or Isn't",
+0,
+[]
+],
+[
+"Time Jumpers",
+0,
+[]
+],
+[
+"SavannaScapes",
+0,
+[]
+],
+[
+"Prickly Path",
+0,
+[]
+],
+[
+"The Climbing Knights",
+0,
+[]
+],
+[
+"Dinosaur Challenge",
+0,
+[]
+],
+[
+"Bug Crafts",
+0,
+[]
+],
+[
+"SlideAscope",
+0,
+[]
+],
+[
+"Team Digger",
+0,
+[]
+],
+[
+"Poles Apart",
+0,
+[]
+],
+[
+"Nebulous Connections",
+0,
+[]
+],
+[
+"Quantum",
+0,
+[]
+],
+[
+"Shinru",
+0,
+[]
+],
+[
+"Kinapa",
+0,
+[]
+],
+[
+"Room Share",
+0,
+[]
+],
+[
+"Haniwa",
+0,
+[]
+],
+[
+"Magical Bakery",
+0,
+[]
+],
+[
+"Magical Bakery: I'm the Manager!",
+0,
+[]
+],
+[
+"Magical Bakery: A conglomerate from today!!",
+0,
+[]
+],
+[
+"Magical Bakery: Magical Girl Rebellion",
+0,
+[]
+],
+[
+"Magical Kingdom",
+0,
+[]
+],
+[
+"Magical Patisserie",
+0,
+[]
+],
+[
+"Magical Bakery Gaiden: Bread and Rice Witch Trials (And Potatoes Too!)",
+0,
+[]
+],
+[
+"Pirates of Maracaibo",
+0,
+[]
+],
+[
+"Men-Nefer",
+0,
+[]
+],
+[
+"Windmill Valley",
+0,
+[]
+],
+[
+"River of Gold",
+0,
+[]
+],
+[
+"Yokohama",
+0,
+[]
+],
+[
+"Day & Night",
+0,
+[]
+],
+[
+"Le Havre: The Inland Port",
+0,
+[]
+],
+[
+"Oranienburger Kanal",
+0,
+[]
+],
+[
+"Duel for Cardia",
+0,
+[]
+],
+[
+"Railway Boom",
+0,
+[]
+],
+[
+"Sex&Money",
+0,
+[
+"Sex and Money",
+"Sex & Money"
+]
+],
+[
+"13 Clues",
+0,
+[]
+],
+[
+"Age of Innovation",
+0,
+[]
+],
+[
+"A Gest of Robin Hood",
+0,
+[]
+],
+[
+"Altay: Dawn of Civilization",
+0,
+[]
+],
+[
+"Aquatica",
+0,
+[]
+],
+[
+"Azul Duel",
+0,
+[]
+],
+[
+"Anachrony",
+0,
+[]
+],
+[
+"Bug",
+0,
+[]
+],
+[
+"Caravan",
+0,
+[]
+],
+[
+"20 Strong",
+0,
+[]
+],
+[
+"3000 Scoundrels",
+0,
+[]
+],
+[
+"7th Sea: City of Five Sails",
+0,
+[]
+],
+[
+"Abroad",
+0,
+[]
+],
+[
+"After Us",
+0,
+[]
+],
+[
+"Almadi",
+0,
+[]
+],
+[
+"Amalfi: Renaissance",
+0,
+[]
+],
+[
+"Amyitis",
+0,
+[]
+],
+[
+"AOC: Age of Champagne",
+0,
+[]
+],
+[
+"Apiary",
+0,
+[]
+],
+[
+"Applejack",
+0,
+[]
+],
+[
+"Arabella",
+0,
+[]
+],
+[
+"Archipels",
+0,
+[]
+],
+[
+"The Architects of Amytis",
+0,
+[]
+],
+[
+"Arctica",
+0,
+[]
+],
+[
+"Assyria",
+0,
+[]
+],
+[
+"Asteria",
+0,
+[]
+],
+[
+"Astra",
+0,
+[]
+],
+[
+"Automobiles",
+0,
+[]
+],
+[
+"Awkward Guests: The Walton Case",
+0,
+[]
+],
+[
+"Sausage Sizzle!",
+0,
+[]
+],
+[
+"Art Decko",
+0,
+[]
+],
+[
+"Azure",
+0,
+[]
+],
+[
+"Baby Dinosaur Rescue",
+0,
+[]
+],
+[
+"Bahama Taxi",
+0,
+[]
+],
+[
+"Balloon Pop!",
+0,
+[]
+],
+[
+"Bamboozle",
+0,
+[]
+],
+[
+"Bandada",
+0,
+[]
+],
+[
+"Batalla de Coronas",
+0,
+[]
+],
+[
+"Battle of LITS",
+0,
+[]
+],
+[
+"Battlegammon",
+0,
+[]
+],
+[
+"Azul: Queen's Garden",
+0,
+[]
+],
+[
+"Beer & Bread",
+0,
+[]
+],
+[
+"Betta",
+0,
+[]
+],
+[
+"Beyond the Sun",
+0,
+[]
+],
+[
+"Bombay",
+0,
+[]
+],
+[
+"Blue Skies",
+0,
+[]
+],
+[
+"boop.",
+0,
+[]
+],
+[
+"Biomos",
+0,
+[]
+],
+[
+"Bordeaux",
+0,
+[]
+],
+[
+"Bubblee Pop",
+0,
+[]
+],
+[
+"Cat Café",
+0,
+[]
+],
+[
+"Cinco",
+0,
+[]
+],
+[
+"City of the Big Shoulders: Burden of Destiny",
+0,
+[]
+],
+[
+"Catan: New Energies",
+0,
+[]
+],
+[
+"Bayonets & Tomahawks",
+0,
+[]
+],
+[
+"Bebop",
+0,
+[]
+],
+[
+"Biomes of Nilgiris",
+0,
+[]
+],
+[
+"Bobail",
+0,
+[]
+],
+[
+"Bunny Kingdom Town",
+0,
+[]
+],
+[
+"Caïrn",
+0,
+[]
+],
+[
+"DinoGenics",
+0,
+[]
+],
+[
+"Dog Park",
+0,
+[]
+],
+[
+"Don't Let It Die",
+0,
+[]
+],
+[
+"Donuts",
+0,
+[]
+],
+[
+"Downforce",
+0,
+[]
+],
+[
+"Dracula vs Van Helsing",
+0,
+[]
+],
+[
+"Dragon Castle",
+0,
+[]
+],
+[
+"Dragon Keeper: The Dungeon",
+0,
+[]
+],
+[
+"Dragonarium",
+0,
+[]
+],
+[
+"Empire Plateau",
+0,
+[]
+],
+[
+"Envelopes of Cash",
+0,
+[]
+],
+[
+"Eriantys",
+0,
+[]
+],
+[
+"Eruption",
+0,
+[]
+],
+[
+"Expeditions: Around the World",
+0,
+[]
+],
+[
+"Flip Freighters",
+0,
+[]
+],
+[
+"Gold West",
+0,
+[]
+],
+[
+"Gopher",
+0,
+[]
+],
+[
+"Gravity Superstar",
+0,
+[]
+],
+[
+"Great Western Trail: El Paso",
+0,
+[]
+],
+[
+"Gygès",
+0,
+[]
+],
+[
+"Hadara",
+0,
+[]
+],
+[
+"Hadrian's Wall",
+0,
+[]
+],
+[
+"Harvest",
+0,
+[]
+],
+[
+"Hegemony: Lead Your Class to Victory",
+0,
+[]
+],
+[
+"Herd",
+0,
+[]
+],
+[
+"High Season: Grand Hotel Roll & Write",
+0,
+[]
+],
+[
+"Hokito",
+0,
+[]
+],
+[
+"Flume",
+0,
+[]
+],
+[
+"Fractal",
+0,
+[]
+],
+[
+"Fruit Picking",
+0,
+[]
+],
+[
+"Galactic Era",
+0,
+[]
+],
+[
+"Garden Nation",
+0,
+[]
+],
+[
+"Garden Rush",
+0,
+[]
+],
+[
+"Gatsby",
+0,
+[]
+],
+[
+"Get on Board: New York & London",
+0,
+[]
+],
+[
+"Get on Board: Paris & Roma",
+0,
+[]
+],
+[
+"Glow",
+0,
+[]
+],
+[
+"Go Goa",
+0,
+[]
+],
+[
+"Hutan: Life in the Rainforest",
+0,
+[]
+],
+[
+"Hydroracers",
+0,
+[]
+],
+[
+"Impasse",
+0,
+[]
+],
+[
+"Irish Gauge",
+0,
+[]
+],
+[
+"Isaac",
+0,
+[]
+],
+[
+"It's a Wonderful Kingdom",
+0,
+[]
+],
+[
+"Jokerball",
+0,
+[]
+],
+[
+"Junk Drawer",
+0,
+[]
+],
+[
+"Lielow",
+0,
+[]
+],
+[
+"Lifeline",
+0,
+[]
+],
+[
+"Limit",
+0,
+[]
+],
+[
+"Movers & Shakers",
+0,
+[]
+],
+[
+"Murus Gallicus",
+0,
+[]
+],
+[
+"Mythic Battles: Ragnarök",
+0,
+[]
+],
+[
+"Nanga Parbat",
+0,
+[]
+],
+[
+"Natural Chaos",
+0,
+[]
+],
+[
+"Nemesis: Retaliation",
+0,
+[]
+],
+[
+"NEOM",
+0,
+[]
+],
+[
+"New York Zoo",
+0,
+[]
+],
+[
+"Nibble",
+0,
+[]
+],
+[
+"Now Boarding",
+0,
+[]
+],
+[
+"NXS",
+0,
+[]
+],
+[
+"Odicey",
+0,
+[]
+],
+[
+"Off the Rails",
+0,
+[]
+],
+[
+"Obession",
+0,
+[]
+],
+[
+"On Tour",
+0,
+[]
+],
+[
+"ONE",
+0,
+[]
+],
+[
+"Outlaws: Last Man Standing",
+0,
+[]
+],
+[
+"Oxono",
+0,
+[]
+],
+[
+"P.I.",
+0,
+[]
+],
+[
+"Paint the Roses",
+0,
+[]
+],
+[
+"Path of Civilization",
+0,
+[]
+],
+[
+"Penny Press",
+0,
+[]
+],
+[
+"Pergola",
+0,
+[]
+],
+[
+"Perikles",
+0,
+[]
+],
+[
+"Pier 18",
+0,
+[]
+],
+[
+"Pioneer Days",
+0,
+[]
+],
+[
+"Pond",
+0,
+[]
+],
+[
+"Popcorn",
+0,
+[]
+],
+[
+"Postcards",
+0,
+[]
+],
+[
+"Potions of Azerland",
+0,
+[]
+],
+[
+"Power Vacuum",
+0,
+[]
+],
+[
+"Praga Caput Regni",
+0,
+[]
+],
+[
+"Quirky Quarks",
+0,
+[]
+],
+[
+"Rauha",
+0,
+[]
+],
+[
+"Red Notice: A Million or Prison",
+0,
+[]
+],
+[
+"Simplicity",
+0,
+[]
+],
+[
+"Sir Ocelot's cave",
+0,
+[]
+],
+[
+"Skara Brae",
+0,
+[]
+],
+[
+"Small Islands",
+0,
+[]
+],
+[
+"Sobek: 2 Players",
+0,
+[]
+],
+[
+"Space Station Phoenix",
+0,
+[]
+],
+[
+"Squadro",
+0,
+[]
+],
+[
+"Stalk Exchange",
+0,
+[]
+],
+[
+"Steam Works",
+0,
+[]
+],
+[
+"SteamRollers",
+0,
+[]
+],
+[
+"Stockpile",
+0,
+[]
+],
+[
+"Stonespine Architects",
+0,
+[]
+],
+[
+"Stupor Mundi",
+0,
+[]
+],
+[
+"Sunfield Farm",
+0,
+[]
+],
+[
+"Survive The Island",
+0,
+[]
+],
+[
+"TacTile",
+0,
+[]
+],
+[
+"Tag Team",
+0,
+[]
+],
+[
+"Takara Island",
+0,
+[
+"The Edict of King Budeaunia"
+]
+],
+[
+"Takenokolor",
+0,
+[]
+],
+[
+"Talon",
+0,
+[]
+],
+[
+"Tembo: Survival on the Savanna",
+0,
+[]
+],
+[
+"Teotihuacan: City of Gods",
+0,
+[]
+],
+[
+"Thrive",
+0,
+[]
+],
+[
+"Ticket Gagnant",
+0,
+[]
+],
+[
+"Tiny Farms",
+0,
+[]
+],
+[
+"Tiwanaku",
+0,
+[]
+],
+[
+"Trekking the World",
+0,
+[]
+],
+[
+"Treos",
+0,
+[]
+],
+[
+"Trike",
+0,
+[]
+],
+[
+"Tumbleweed",
+0,
+[]
+],
+[
+"Turncoats",
+0,
+[]
+],
+[
+"Twilight Imperium: Fourth Edition",
+0,
+[]
+],
+[
+"Twin Tin Bots",
+0,
+[]
+],
+[
+"Twinkle Twinkle",
+0,
+[]
+],
+[
+"Ultimate Railroads",
+0,
+[]
+],
+[
+"Umbrella",
+0,
+[]
+],
+[
+"Ūnane",
+0,
+[]
+],
+[
+"Unconditional Surrender! World War 2 in Europe",
+0,
+[]
+],
+[
+"Under the Leaves",
+0,
+[]
+],
+[
+"Undergrove",
+0,
+[]
+],
+[
+"Triskel",
+0,
+[
+"Uptown"
+]
+],
+[
+"Veggie Garden",
+0,
+[]
+],
+[
+"Veletas",
+0,
+[]
+],
+[
+"Verona Twist",
+0,
+[]
+],
+[
+"The Game Makers",
+0,
+[]
+],
+[
+"The Hanging Gardens",
+0,
+[]
+],
+[
+"The Isle of Cats Duel",
+0,
+[]
+],
+[
+"The King's Guild",
+0,
+[]
+],
+[
+"The Oracle of Delphi",
+0,
+[]
+],
+[
+"The Ruhr: A Story of Coal Trade",
+0,
+[]
+],
+[
+"Amoriax",
+0,
+[]
+],
+[
+"Carpniches",
+0,
+[]
+],
+[
+"Chandigarh",
+0,
+[]
+],
+[
+"Chimera Station",
+0,
+[]
+],
+[
+"Custodian Dice",
+0,
+[]
+],
+[
+"Deluxe Camping",
+0,
+[]
+],
+[
+"Divercité",
+0,
+[]
+],
+[
+"Edgecut",
+0,
+[]
+],
+[
+"Electrify",
+0,
+[]
+],
+[
+"Gems of Iridescia",
+0,
+[]
+],
+[
+"Golden Goal",
+0,
+[]
+],
+[
+"Inkwell",
+0,
+[]
+],
+[
+"Invector",
+0,
+[]
+],
+[
+"Kelp: Shark vs Octopus",
+0,
+[]
+],
+[
+"Livingstone",
+0,
+[]
+],
+[
+"Monster Hex",
+0,
+[]
+],
+[
+"Morocco",
+0,
+[]
+],
+[
+"Mū",
+0,
+[]
+],
+[
+"Pirates Under Fire",
+0,
+[]
+],
+[
+"Qango",
+0,
+[]
+],
+[
+"Andromeda's Edge",
+0,
+[]
+],
+[
+"City of the Big Shoulders",
+0,
+[
+"Chicago 1875: City of the Big Shoulders"
+]
+],
+[
+"Class of '89",
+0,
+[]
+],
+[
+"Echoes of Time",
+0,
+[]
+],
+[
+"Fall of Lumen",
+0,
+[]
+],
+[
+"Fate: Defenders of Grimheim",
+0,
+[]
+],
+[
+"Fountains",
+0,
+[]
+],
+[
+"Group",
+0,
+[]
+],
+[
+"Grow Sky",
+0,
+[]
+],
+[
+"XxunG",
+0,
+[]
+],
+[
+"Ynaros Fallin",
+0,
+[]
+],
+[
+"Odéon",
+0,
+[]
+],
+[
+"Pax Renaissance",
+0,
+[]
+],
+[
+"Room and Pillar",
+0,
+[]
+],
+[
+"Rumble Planet",
+0,
+[]
+],
+[
+"Sea Shells",
+0,
+[]
+],
+[
+"Gears of War: The Board Game",
+0,
+[]
+],
+[
+"Viinipeli",
+0,
+[]
+],
+[
+"10 Days in Europe",
+0,
+[]
+],
+[
+"Zoophoria",
+0,
+[]
+],
+[
+"South Dakota Trivia Trails",
+0,
+[]
+],
+[
+"Mörderische Dinnerparty",
+0,
+[]
+],
+[
+"Game of Thrones Risk",
+0,
+[]
+],
+[
+"AmuseAmaze",
+0,
+[]
+],
+[
+"Dindons & Dragons",
+0,
+[]
+],
+[
+"Déconnaissance",
+0,
+[]
+],
+[
+"Jumbulaya",
+0,
+[]
+],
+[
+"Monopoly: Here and Now",
+0,
+[]
+],
+[
+"Monopoly: The Simpsons",
+0,
+[]
+],
+[
+"Menhir",
+0,
+[]
+],
+[
+"Scroubabble",
+0,
+[]
+],
+[
+"Tiki Topple",
+0,
+[]
+],
+[
+"Friends Trivia Game",
+0,
+[]
+],
+[
+"Chicago",
+0,
+[
+"Chicago (1986)"
+]
+],
+[
+"Pandemic Legacy: Season 1",
+0,
+[
+"Pandemic Legacy 1",
+"Pandemic Legacy - Season 1",
+"Pandemic Legacy Season 1",
+"Pandemic Legacy: Season 1 Blue Edition",
+"Pandemic Legacy: Season 1 Red Edition"
+]
+],
+[
+"Tickle Bee",
+0,
+[]
+],
+[
+"Through the Ages: A New Story of Civilization",
+0,
+[
+"Through the Ages",
+"TTA"
+]
+],
+[
+"Sinco",
+0,
+[]
+],
+[
+"La Foi et le Glaive",
+0,
+[]
+],
+[
+"Kula Kula",
+0,
+[]
+],
+[
+"1754: Conquest – The French and Indian War",
+0,
+[
+"1754: Conquest"
+]
+],
+[
+"Just4Fun Colours",
+0,
+[]
+],
+[
+"Victory in Normandy",
+0,
+[]
+],
+[
+"Lancaster",
+0,
+[]
+],
+[
+"The Palaces of Carrara",
+0,
+[]
+],
+[
+"Rococo",
+0,
+[
+"Rokoko"
+]
+],
+[
+"Elysium",
+0,
+[]
+],
+[
+"Troia",
+0,
+[]
+],
+[
+"Ra: Strategy Among Hexagons",
+0,
+[]
+],
+[
+"Skript",
+0,
+[]
+],
+[
+"Die Magier",
+0,
+[]
+],
+[
+"Venice Connection",
+0,
+[]
+],
+[
+"Husch Husch kleine Hexe",
+0,
+[]
+],
+[
+"Piepmatz",
+0,
+[]
+],
+[
+"Hallo Dachs!",
+0,
+[]
+],
+[
+"Pete the Pirate",
+0,
+[]
+],
+[
+"Highly Suspect",
+0,
+[]
+],
+[
+"Maharaja: The Game of Palace Building in India",
+0,
+[
+"Maharaja"
+]
+],
+[
+"De Ontembare Stad",
+0,
+[]
+],
+[
+"Gwyddbwyll",
+0,
+[
+"Celtic Gwyddbwyll",
+"Gwyddbwyll Geltaidd"
+]
+],
+[
+"A World at War",
+0,
+[
+"World at War"
+]
+],
+[
+"Maria",
+0,
+[]
+],
+[
+"Ora et Labora",
+0,
+[
+"Ora & Labora"
+]
+],
+[
+"Nations",
+0,
+[]
+],
+[
+"La Granja",
+0,
+[]
+],
+[
+"Eiertanz, Das Kartenspiel",
+0,
+[]
+],
+[
+"Living Landscapes",
+0,
+[]
+],
+[
+"I.U.opoly",
+0,
+[]
+],
+[
+"Swords and Heroes: Starter Set",
+0,
+[]
+],
+[
+"Red vs White vs Blue: A Russian Civil War 1918-1922",
+0,
+[]
+],
+[
+"The Checkered Game of Life",
+0,
+[]
+],
+[
+"Cosmic Journey",
+0,
+[]
+],
+[
+"Hubba + Bubba",
+0,
+[]
+],
+[
+"ACHTUNG!",
+0,
+[]
+],
+[
+"The Cottage of Content or the Blessings of Cheerfulness & Good Temper",
+0,
+[]
+],
+[
+"Rare Species",
+0,
+[]
+],
+[
+"Lucky Numbers",
+0,
+[]
+],
+[
+"Bugs! Bugs! Bugs!",
+0,
+[]
+],
+[
+"Snelrekenspel",
+0,
+[]
+],
+[
+"Affenstark",
+0,
+[]
+],
+[
+"Euro Miljonairs",
+0,
+[]
+],
+[
+"Lucky 13",
+0,
+[]
+],
+[
+"Tryangles",
+0,
+[]
+],
+[
+"Donkey Racing",
+0,
+[]
+],
+[
+"Gespensterburg",
+0,
+[]
+],
+[
+"Magic Realm Light 30",
+0,
+[]
+],
+[
+"Herakles",
+0,
+[]
+],
+[
+"Traumatosaures",
+0,
+[]
+],
+[
+"On the Road to Abha",
+0,
+[]
+],
+[
+"Alpha Nature",
+0,
+[]
+],
+[
+"A Trip To Mars",
+0,
+[]
+],
+[
+"Hydro Battle!",
+0,
+[]
+],
+[
+"Investopoly",
+0,
+[]
+],
+[
+"Darwin's Dice",
+0,
+[]
+],
+[
+"The Winning Touch",
+0,
+[]
+],
+[
+"Battles for a Continent",
+0,
+[]
+],
+[
+"tummple!",
+0,
+[]
+],
+[
+"Encore",
+0,
+[]
+],
+[
+"Sinnet",
+0,
+[]
+],
+[
+"Darkest Crusade",
+0,
+[]
+],
+[
+"Fast4Words",
+0,
+[]
+],
+[
+"Bug-opoly",
+0,
+[]
+],
+[
+"Wait Up, Grandpa!",
+0,
+[]
+],
+[
+"Canal Grande",
+0,
+[]
+],
+[
+"Missing Words",
+0,
+[]
+],
+[
+"Dragon Riders Triumphant",
+0,
+[]
+],
+[
+"Dodge Bowl",
+0,
+[]
+],
+[
+"Finger Baseball",
+0,
+[]
+],
+[
+"Fortuna",
+0,
+[]
+],
+[
+"Border Reivers",
+0,
+[]
+],
+[
+"Breakscore",
+0,
+[]
+],
+[
+"Burosh",
+0,
+[]
+],
+[
+"Go Cuckoo!",
+0,
+[]
+],
+[
+"Card football",
+0,
+[]
+],
+[
+"Snakes and Ladders game",
+0,
+[]
+],
+[
+"Cherry Ames' Nursing Game",
+0,
+[]
+],
+[
+"Conflict",
+0,
+[]
+],
+[
+"Crash! The bankrupt game",
+0,
+[]
+],
+[
+"D-Day: The Great Crusade",
+0,
+[]
+],
+[
+"Diceland",
+0,
+[]
+],
+[
+"Fast Food Franchise",
+0,
+[]
+],
+[
+"Freedom",
+0,
+[]
+],
+[
+"Games played with Mahjong equipment",
+0,
+[]
+],
+[
+"Garden Party",
+0,
+[]
+],
+[
+"Werewolf",
+0,
+[]
+],
+[
+"4000 AD",
+0,
+[]
+],
+[
+"Solar Conquest",
+0,
+[]
+],
+[
+"Qadardalikoi",
+0,
+[
+"Qadardálikoi"
+]
+],
+[
+"Goth",
+0,
+[
+"Goth: The Game of Horror Trivia"
+]
+],
+[
+"Web and Starship",
+0,
+[]
+],
+[
+"Gridlock",
+0,
+[]
+],
+[
+"Knights of Justice: The Siege of Malta, 1565",
+0,
+[]
+],
+[
+"Flight of the Goeben",
+0,
+[]
+],
+[
+"Reds!",
+0,
+[
+"Reds! The Russian Civil War 1918-1921"
+]
+],
+[
+"Assault Across the Suez",
+0,
+[]
+],
+[
+"Infantry Attacks series",
+0,
+[]
+],
+[
+"Allenby's Blitzkrieg",
+0,
+[]
+],
+[
+"Bloodbath at the Sakarya",
+0,
+[]
+],
+[
+"Beer Empire",
+0,
+[]
+],
+[
+"Ironclads series",
+0,
+[]
+],
+[
+"Spy Code: Safe Breaker",
+0,
+[]
+],
+[
+"Metsämies",
+0,
+[]
+],
+[
+"Resan genom Sagoland",
+0,
+[]
+],
+[
+"No Time For Sergeants",
+0,
+[]
+],
+[
+"Zombie 15'",
+0,
+[]
+],
+[
+"Boekenspel",
+0,
+[]
+],
+[
+"The Lord of the Rings: The Two Towers Board Game",
+0,
+[]
+],
+[
+"Ticket to Ride: Rails & Sails",
+0,
+[]
+],
+[
+"Dirtside II",
+0,
+[]
+],
+[
+"Interplanetary",
+0,
+[]
+],
+[
+"Star Trek Klingon Edition Monopoly",
+0,
+[
+"Monopoly: Klingon Edition"
+]
+],
+[
+"Empire I",
+0,
+[]
+],
+[
+"Krazy Maze",
+0,
+[]
+],
+[
+"Missúm!",
+0,
+[]
+],
+[
+"Warhammer 40.000: Kill Team",
+0,
+[]
+],
+[
+"Rocketville",
+0,
+[]
+],
+[
+"Ironclads and Ether Flyers",
+0,
+[]
+],
+[
+"HUE",
+0,
+[]
+],
+[
+"Kryptos",
+0,
+[]
+],
+[
+"Dogs",
+0,
+[]
+],
+[
+"Barons",
+0,
+[]
+],
+[
+"Ancestree",
+0,
+[]
+],
+[
+"Orbit, a Brain Game",
+0,
+[]
+],
+[
+"Space Pilot",
+0,
+[]
+],
+[
+"Buck Rogers",
+0,
+[]
+],
+[
+"Warhammer Warriors Battle Books",
+0,
+[]
+],
+[
+"Space Marine Assault",
+0,
+[]
+],
+[
+"Gumshoe",
+0,
+[
+"The hardboiled detective in the Thirties"
+]
+],
+[
+"Mask Trilogy",
+0,
+[]
+],
+[
+"Bommerz over da Sulphur River",
+0,
+[]
+],
+[
+"Obsession",
+0,
+[]
+],
+[
+"Scurvy Musketeers of the Spanish Main",
+0,
+[]
+],
+[
+"Pirates of the Caribbean Trading Card Game",
+0,
+[]
+],
+[
+"Plateau",
+0,
+[]
+],
+[
+"Raise the Roof",
+0,
+[]
+],
+[
+"Sergeant Preston",
+0,
+[]
+],
+[
+"Serpent's Tongue",
+0,
+[]
+],
+[
+"Talisman: Kingdom Hearts",
+0,
+[
+"Talisman Kingdom Hearts"
+]
+],
+[
+"Take On You",
+0,
+[]
+],
+[
+"Uncle Wiggily",
+0,
+[
+"Uncle Wiggily Game"
+]
+],
+[
+"Vector",
+0,
+[]
+],
+[
+"Victory by Any Means",
+0,
+[]
+],
+[
+"Simply Cosmic",
+0,
+[]
+],
+[
+"Battle Rider",
+0,
+[]
+],
+[
+"Xeno",
+0,
+[]
+],
+[
+"Power Projection: Fleet",
+0,
+[]
+],
+[
+"Power Projection: Escort",
+0,
+[]
+],
+[
+"Ætherverse",
+0,
+[]
+],
+[
+"Combat Command",
+0,
+[]
+],
+[
+"Lost Patrol",
+0,
+[]
+],
+[
+"Nuclear Destruction",
+0,
+[]
+],
+[
+"Unlock! Escape adventures",
+0,
+[
+"Unlock! 1",
+"Unlock!: Escape Adventures"
+]
+],
+[
+"Unlock! Mystery Adventures",
+0,
+[
+"Unlock! 2"
+]
+],
+[
+"Unlock! Secret adventures",
+0,
+[
+"Unlock! 3"
+]
+],
+[
+"Unlock! Exotic adventures",
+0,
+[
+"Unlock! 4"
+]
+],
+[
+"Unlock! Heroic adventures",
+0,
+[
+"Unlock! 5"
+]
+],
+[
+"Unlock! Timeless adventures",
+0,
+[
+"Unlock! 6"
+]
+],
+[
+"Unlock! Epic adventures",
+0,
+[
+"Unlock! 7"
+]
+],
+[
+"Unlock! Mythic Adventures",
+0,
+[
+"Unlock! 8"
+]
+],
+[
+"Pandemic Legacy: Season 2",
+0,
+[
+"Pandemic Legacy 2",
+"Pandemic Legacy – Season 2",
+"Pandemic Legacy: Season 2 Black Edition",
+"Pandemic Legacy: Season 2 Yellow Edition"
+]
+],
+[
+"Tinners' Trail",
+0,
+[
+"Tinner's Trail",
+"Tinners Trail"
+]
+],
+[
+"Exit: The Game – The Abandoned Cabin",
+0,
+[]
+],
+[
+"Exit: The Game – The Mysterious Museum",
+0,
+[]
+],
+[
+"Exit: The Game – Dead Man on the Orient Express",
+0,
+[]
+],
+[
+"Exit: The Game – The Sunken Treasure",
+0,
+[]
+],
+[
+"Exit: The Game – The Forgotten Island",
+0,
+[]
+],
+[
+"Exit: The Game – The Forbidden Castle",
+0,
+[]
+],
+[
+"Exit: The Game – The Polar Station",
+0,
+[]
+],
+[
+"Exit: The Game – The Secret Lab",
+0,
+[]
+],
+[
+"Exit: The Game – The Pharaoh's Tomb",
+0,
+[]
+],
+[
+"Coffee",
+0,
+[]
+],
+[
+"Beagle-opoly",
+0,
+[
+"Beagleopoly"
+]
+],
+[
+"Fujian Trader",
+0,
+[]
+],
+[
+"Unlock!: Star Wars Escape Game",
+0,
+[
+"Unlock Star Wars"
+]
+],
+[
+"Sune och ryska posten",
+0,
+[]
+],
+[
+"TMMC",
+0,
+[]
+],
+[
+"On Mars",
+0,
+[]
+],
+[
+"The King's Dilemma",
+0,
+[]
+],
+[
+"First Orchard",
+0,
+[]
 ]
 ]

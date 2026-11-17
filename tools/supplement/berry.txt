@@ -1,0 +1,98 @@
+Whitecurrant=white currant
+Mistletoe Berry
+Wolfberry
+Olallieberry
+Youngberry
+Buffaloberry
+Ollalieberry
+Boysenberry
+Loganberry
+Tayberry
+Marionberry
+Wineberry
+Dewberry
+Thimbleberry
+Salmonberry
+Cloudberry
+Arctic Raspberry
+Nagoonberry
+Black Raspberry
+Golden Raspberry
+Yellow Raspberry
+Purple Raspberry
+Bilberry
+Whortleberry
+Huckleberry
+Lowbush Blueberry
+Highbush Blueberry
+Wild Blueberry
+Lingonberry
+Cowberry
+Partridgeberry
+Bearberry
+Crowberry
+Cranberry
+Mountain Ash Berry
+Rowanberry
+Elderberry
+Black Elderberry
+Chokeberry
+Aronia
+Chokecherry
+Serviceberry
+Saskatoon Berry
+Juneberry
+Haskap
+Honeysuckle Berry
+Sea Buckthorn
+Seaberry
+Goji
+Barberry
+Oregon Grape
+Salal
+Manzanita
+Madrone
+Snowberry
+Wintergreen Berry
+Teaberry
+Checkerberry
+Baneberry
+Pokeberry
+Yew Berry
+Holly Berry
+Juniper Berry
+Hackberry
+Mulberry
+White Mulberry
+Red Mulberry
+Black Mulberry
+Acai
+Maqui
+Camu Camu
+Jaboticaba
+Miracle Berry=miracle fruit
+Goldenberry
+Ground Cherry
+Inca Berry
+Cape Gooseberry
+Strawberry
+Wild Strawberry
+Alpine Strawberry
+Musk Strawberry
+Blueberry
+Raspberry
+Blackberry
+Gooseberry
+Currant
+Redcurrant
+Blackcurrant
+Jostaberry
+Josta
+Kiwi Berry
+Hardy Kiwi
+Grape
+Muscadine
+Scuppernong
+Fox Grape
+Beautyberry
+Snowberry

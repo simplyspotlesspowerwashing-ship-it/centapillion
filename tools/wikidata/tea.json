@@ -1,230 +1,620 @@
 [
 [
 "green tea",
-94
+94,
+[
+"Cameliae sinesis folium",
+"Camelliae Folium",
+"green tea leaf",
+"le̍k-tê",
+"liu̍k-chhà",
+"lǜchá",
+"nokcha",
+"ryokucha",
+"Theae Folium"
+]
 ],
 [
 "black tea",
-66
+66,
+[
+"red tea"
+]
 ],
 [
 "oolong",
-52
+52,
+[
+"blue tea",
+"olong",
+"oolong tea",
+"Oolong tea",
+"wulong tea"
+]
 ],
 [
 "iced tea",
-52
+52,
+[
+"ice tea"
+]
 ],
 [
 "white tea",
-49
+49,
+[]
 ],
 [
 "masala chai",
-46
+46,
+[
+"chai",
+"chai latte",
+"karak",
+"spiced tea"
+]
 ],
 [
 "milk tea",
-44
+44,
+[]
 ],
 [
 "butter tea",
-39
+39,
+[]
 ],
 [
 "jasmine tea",
-31
+31,
+[]
 ],
 [
 "Hibiscus tea",
-30
+30,
+[
+"red sorrel",
+"sorrel"
+]
 ],
 [
 "barley tea",
-29
+29,
+[
+"boricha",
+"mugicha",
+"roasted barley tea"
+]
 ],
 [
 "Chinese tea",
-24
+24,
+[]
 ],
 [
 "ginger tea",
-20
+20,
+[
+"saenggang-cha",
+"teh halia",
+"Wedang Jahe"
+]
 ],
 [
 "fermented tea",
-19
+19,
+[
+"Fermented teas",
+"post fermented tea"
+]
 ],
 [
 "chrysanthemum tea",
-18
+18,
+[
+"gukhwacha",
+"júhuā chá"
+]
 ],
 [
 "compressed tea",
-17
+17,
+[
+"brick tea",
+"bricktea"
+]
 ],
 [
 "Noon Chai",
-17
+17,
+[]
 ],
 [
 "lapacho",
-17
+17,
+[]
 ],
 [
 "yuja-cha",
-16
+16,
+[
+"citron tea",
+"honey citron tea",
+"yuja tea",
+"yuzu tea"
+]
 ],
 [
 "instant tea",
-14
+14,
+[]
 ],
 [
 "Biluochun",
-12
+12,
+[
+"Dongting Biluochun",
+"Green snail spring"
+]
 ],
 [
 "Nepal tea",
-10
+10,
+[]
 ],
 [
 "Taiwanese tea",
-9
+9,
+[]
 ],
 [
 "lotus tea",
-9
+9,
+[]
 ],
 [
 "Crush, Tear, Curl",
-8
+8,
+[
+"CTC",
+"cut, tear, curl"
+]
 ],
 [
 "lemon tea",
-8
+8,
+[]
 ],
 [
 "Maojian tea",
-7
+7,
+[
+"Green Tip",
+"Tippy Green",
+"Yu Maofeng"
+]
 ],
 [
 "Tsheringma tea",
-7
+7,
+[]
 ],
 [
 "Wuyi tea",
-7
+7,
+[
+"Bohea",
+"Bohea tea"
+]
 ],
 [
 "rooibos",
-7
+7,
+[
+"bush tea",
+"redbush tea",
+"red tea",
+"rooibos tea"
+]
 ],
 [
 "Panda tea",
-7
+7,
+[]
 ],
 [
 "Burmese milk tea",
-7
+7,
+[]
 ],
 [
 "Japanese tea",
-6
+6,
+[
+"tea of Japan"
+]
 ],
 [
 "Tea blending and additives",
-6
+6,
+[]
 ],
 [
 "tea with pine nuts",
-6
+6,
+[]
 ],
 [
 "mogwa-cha",
-6
+6,
+[
+"quince tea"
+]
 ],
 [
 "Matte Leão",
-5
+5,
+[]
 ],
 [
 "Tuocha",
-5
+5,
+[]
 ],
 [
 "fenghuang dancong",
-5
+5,
+[]
 ],
 [
 "GABA Tea",
-5
+5,
+[]
 ],
 [
 "Libyan tea",
-5
+5,
+[]
 ],
 [
 "gyepi-cha",
-5
+5,
+[
+"cinnamon tea"
+]
 ],
 [
 "Canned tea",
-5
+5,
+[]
 ],
 [
 "daechu-cha",
-5
+5,
+[
+"jujube tea"
+]
 ],
 [
 "Jūrokucha",
-5
+5,
+[]
 ],
 [
 "ogwa-cha",
-5
+5,
+[
+"five-fruit tea"
+]
 ],
 [
 "Kuwaiti tea",
-4
+4,
+[
+"Cinnamon tea",
+"Crocus and cardamom tea"
+]
 ],
 [
 "omija-cha",
-4
+4,
+[
+"magnolia berry tea"
+]
 ],
 [
 "peach blossom tea",
-4
+4,
+[
+"dohwa-cha",
+"peach flower tea"
+]
 ],
 [
 "goji tea",
-4
+4,
+[
+"goji berry tea",
+"goji leaf tea",
+"gugi-cha",
+"gugija-cha",
+"gugiyeop-cha"
+]
 ],
 [
 "ginseng tea",
-4
+4,
+[
+"insam-cha"
+]
 ],
 [
 "Krasnodar tea",
-4
+4,
+[]
 ],
 [
 "corn silk tea",
-3
+3,
+[]
 ],
 [
 "tea without tea leaves",
-3
+3,
+[]
 ],
 [
 "Black soybean tea",
-3
+3,
+[
+"Black bean tea"
+]
 ],
 [
 "East Friesland tea blend",
-3
+3,
+[]
 ],
 [
 "dried lime tea",
-3
+3,
+[
+"chai noomi basra",
+"loomi tea",
+"noomi basra tea"
+]
+],
+[
+"Brick tea",
+2,
+[]
+],
+[
+"Twisted Tea",
+2,
+[]
+],
+[
+"Nishio Tea",
+2,
+[]
+],
+[
+"gyeolmyeongja-cha",
+2,
+[
+"senna seed tea",
+"sicklepod seed tea",
+"sicklepod tea"
+]
+],
+[
+"Powchong",
+2,
+[
+"Baojhong",
+"Baozhong",
+"Pouchong",
+"Powchong tea"
+]
+],
+[
+"ssuk-cha",
+2,
+[
+"mugwort tea",
+"wormwood tea"
+]
+],
+[
+"yulmu-cha",
+2,
+[
+"Job's tears tea"
+]
+],
+[
+"flavored tea",
+2,
+[]
+],
+[
+"Pure Leaf",
+2,
+[]
+],
+[
+"Sweet tea",
+2,
+[]
+],
+[
+"pekoe",
+2,
+[]
+],
+[
+"Babaocha",
+2,
+[
+"eight treasure tea"
+]
+],
+[
+"Sayama tea",
+2,
+[]
+],
+[
+"Yù Lù",
+1,
+[
+"Jade Dew"
+]
+],
+[
+"Yunnan Sourcing",
+1,
+[]
+],
+[
+"Maison Bourgeon",
+1,
+[]
+],
+[
+"Mi lan xiang",
+1,
+[]
+],
+[
+"Ureshino Tea",
+1,
+[
+"Ureshino-cha"
+]
+],
+[
+"Sasso",
+1,
+[]
+],
+[
+"Tea Koshari",
+1,
+[]
+],
+[
+"flavoured tea",
+1,
+[]
+],
+[
+"Four Seasons Spring Tea",
+1,
+[]
+],
+[
+"Keisarin Morsian",
+1,
+[]
+],
+[
+"fukucha",
+1,
+[
+"fukuja"
+]
+],
+[
+"Ji-kōcha",
+1,
+[
+"Local Black Tea"
+]
+],
+[
+"Gold Peak Tea",
+1,
+[]
+],
+[
+"chulan",
+1,
+[]
+],
+[
+"turmeric tea",
+1,
+[
+"ukoncha"
+]
+],
+[
+"Tekoe",
+1,
+[]
+],
+[
+"root tea",
+0,
+[
+"ppuricha"
+]
+],
+[
+"seed tea",
+0,
+[]
+],
+[
+"Korean fruit tea",
+0,
+[]
+],
+[
+"Korean flower and leaf tea",
+0,
+[]
+],
+[
+"Amruttulya tea",
+0,
+[
+"Aamdar Amruttulya",
+"Amrut tulya",
+"Amrut-tulya",
+"Amruttulya chaha",
+"Amruttulya Chai",
+"Puneri Amruttulya",
+"Ratna Amruttulya",
+"Yewale Amruttulya"
+]
+],
+[
+"MX3 Tea",
+0,
+[
+"Mangosteen Tea",
+"MX3 Mangosteen Tea"
+]
+],
+[
+"Kashmiri kahwa",
+0,
+[]
+],
+[
+"Limeflower tea",
+0,
+[]
+],
+[
+"bootealicious",
+0,
+[
+"Bootealicious Tea tox",
+"Bootealicious Teatox"
+]
 ]
 ]

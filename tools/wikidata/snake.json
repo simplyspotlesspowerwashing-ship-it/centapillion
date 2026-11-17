@@ -1,9150 +1,9715 @@
 [
 [
 "adder",
-90
-],
+90,
 [
-"Adder",
-90
-],
-[
-"King Cobra",
-82
+"Adder"
+]
 ],
 [
 "Hamadryad",
-82
+82,
+[
+"King Cobra"
+]
 ],
 [
 "Grass Snake",
-77
+77,
+[]
 ],
 [
 "Black mamba",
-70
-],
+70,
 [
-"Black Mamba",
-70
+"Black Mamba"
+]
 ],
 [
 "Green anaconda",
-68
+68,
+[]
 ],
 [
 "Indian cobra",
-62
+62,
+[]
 ],
 [
 "Reticulated python",
-60
+60,
+[]
 ],
 [
 "smooth snake",
-59
-],
+59,
 [
-"Smooth snake",
-59
+"Smooth snake"
+]
 ],
 [
 "Ball Python",
-55
-],
+55,
 [
-"Royal Python",
-55
+"Royal Python"
+]
 ],
 [
 "Asiatic rock python",
-54
+54,
+[]
 ],
 [
 "Aesculapian Ratsnake",
-52
-],
+52,
 [
-"Aesculapian Snake",
-52
+"Aesculapian Snake"
+]
 ],
 [
 "titan boa",
-51
+51,
+[]
 ],
 [
 "Gaboon Adder",
-51
-],
+51,
 [
-"Gaboon Viper",
-51
+"Gaboon Viper"
+]
 ],
 [
 "puff adder",
-50
+50,
+[]
 ],
 [
 "Banded Krait",
-49
+49,
+[]
 ],
 [
 "Green Python",
-47
-],
+47,
 [
-"Green Tree Python",
-47
+"Green Tree Python"
+]
 ],
 [
 "Green mamba",
-46
+46,
+[]
 ],
 [
 "Western Green Mamba",
-45
+45,
+[]
 ],
 [
 "African rock python",
-45
+45,
+[]
 ],
 [
 "Nose-horned Viper",
-44
+44,
+[]
 ],
 [
 "Burmese python",
-43
-],
+43,
 [
-"Burmese Python",
-43
+"Burmese Python"
+]
 ],
 [
 "Dice Snake",
-43
-],
+43,
 [
-"Tessellated Water Snake",
-43
+"Tessellated Water Snake"
+]
 ],
 [
 "Kingsnakes",
-42
+42,
+[]
 ],
 [
 "Garter Snakes",
-41
+41,
+[]
 ],
 [
 "Saw-scaled Vipers",
-41
+41,
+[]
 ],
 [
 "leptotyphlopid",
-41
+41,
+[]
 ],
 [
 "Corn Snake",
-41
-],
+41,
 [
-"Red Cornsnake",
-41
+"Red Cornsnake"
+]
 ],
 [
 "Flying Snakes",
-40
+40,
+[]
 ],
 [
 "Cat Snakes",
-40
+40,
+[]
 ],
 [
 "Common Indian krait",
-40
+40,
+[]
 ],
 [
 "Black-necked Spitting Cobra",
-40
+40,
+[]
 ],
 [
 "Asp Viper",
-40
+40,
+[]
 ],
 [
 "Cape cobra",
-39
+39,
+[]
 ],
 [
 "Copperhead",
-39
-],
+39,
 [
-"Northern Copperhead",
-39
+"Northern Copperhead"
+]
 ],
 [
 "Yellow-bellied sea snake",
-38
+38,
+[]
 ],
 [
 "Eastern diamond-backed rattlesnake",
-38
-],
+38,
 [
 "Eastern Diamond-backed Rattlesnake",
-38
-],
-[
-"Eastern Diamondback Rattlesnake",
-38
+"Eastern Diamondback Rattlesnake"
+]
 ],
 [
 "Yellow anaconda",
-38
+38,
+[]
 ],
 [
 "Smooth Snakes",
-37
+37,
+[]
 ],
 [
 "Central Asian Cobra",
-37
-],
+37,
 [
 "Oxus cobra",
-37
-],
-[
-"Oxus Cobra",
-37
+"Oxus Cobra"
+]
 ],
 [
 "Cottonmouth",
-37
+37,
+[]
 ],
 [
 "Sidewinder",
-36
-],
+36,
 [
-"Sidewinder Rattlesnake",
-36
+"Sidewinder Rattlesnake"
+]
 ],
 [
 "horned desert viper",
-36
-],
+36,
 [
-"Saharan horned viper",
-36
+"Saharan horned viper"
+]
 ],
 [
 "Western diamond-backed rattlesnake",
-36
-],
+36,
 [
 "Western Diamond-backed Rattlesnake",
-36
-],
-[
-"Western Diamondback Rattlesnake",
-36
+"Western Diamondback Rattlesnake"
+]
 ],
 [
 "Banded sea krait",
-36
-],
+36,
 [
 "Columbrine Sea Krait",
-36
-],
-[
-"Yellow-lipped Sea Krait",
-36
+"Yellow-lipped Sea Krait"
+]
 ],
 [
 "Meadow viper",
-36
-],
+36,
 [
 "Meadow Viper",
-36
-],
-[
 "Orsini's Viper",
-36
-],
-[
-"Orsinis Viper",
-36
+"Orsinis Viper"
+]
 ],
 [
 "Lanceheads",
-36
+36,
+[]
 ],
 [
 "carpet python",
-36
-],
+36,
 [
-"diamond python",
-36
+"diamond python"
+]
 ],
 [
 "Many-banded Krait",
-36
+36,
+[]
 ],
 [
 "Cat Snake",
-35
-],
+35,
 [
 "Mediterranean Cat Snake or European Catsnake",
-35
-],
-[
-"Soosan Snake",
-35
+"Soosan Snake"
+]
 ],
 [
 "Red spitting cobra",
-35
+35,
+[]
 ],
 [
 "tiger snake",
-35
+35,
+[]
 ],
 [
 "Ringhals",
-35
-],
+35,
 [
 "Ring-necked Spitting Cobra",
-35
-],
-[
-"Rinkhals",
-35
+"Rinkhals"
+]
 ],
 [
 "Gold-ringed Cat snake",
-34
-],
+34,
 [
-"Mangrove snake",
-34
+"Mangrove snake"
+]
 ],
 [
 "Black And White Spitting Cobra",
-34
-],
+34,
 [
 "Indo-chinese Spitting Cobra",
-34
-],
-[
-"Siamese Cobra",
-34
+"Siamese Cobra"
+]
 ],
 [
 "Javelin sand boa",
-34
+34,
+[]
 ],
 [
 "Dwarf Boas",
-33
+33,
+[]
 ],
 [
 "Common Death Adder",
-33
+33,
+[]
 ],
 [
 "Asian vine snake",
-33
-],
+33,
 [
 "Asian Vine Snake",
-33
-],
-[
 "Boie's Whip Snake",
-33
-],
-[
 "Gunther’s whip snake",
-33
-],
-[
 "Gunther's Whip Snake",
-33
-],
-[
-"Oriental Whip Snake",
-33
+"Oriental Whip Snake"
+]
 ],
 [
 "Green Whip Snake",
-33
-],
+33,
 [
-"Western Whip Snake",
-33
+"Western Whip Snake"
+]
 ],
 [
 "European Ratsnake",
-33
-],
+33,
 [
-"Leopard Snake",
-33
+"Leopard Snake"
+]
 ],
 [
 "Four-lined snake",
-33
-],
+33,
 [
-"Four-lined Snake",
-33
+"Four-lined Snake"
+]
 ],
 [
 "Cascabel Rattlesnake",
-33
-],
+33,
 [
 "Neotropical Rattlesnake",
-33
-],
-[
 "South American Rattlesnake",
-33
-],
-[
-"Yucatan Rattlesnake",
-33
+"Yucatan Rattlesnake"
+]
 ],
 [
 "Bush vipers",
-32
+32,
+[]
 ],
 [
 "Moccasins",
-32
+32,
+[]
 ],
 [
 "Blood Python",
-32
-],
+32,
 [
-"Sumatran Short-tailed Python",
-32
+"Brongersma's Short-tailed Python",
+"Red Short-tailed Python",
+"Sumatran Short-tailed Python"
+]
 ],
 [
 "Chinese Cobra",
-32
+32,
+[]
 ],
 [
 "flying snake",
-32
+32,
+[]
 ],
 [
 "Monocled Cobra",
-32
+32,
+[]
 ],
 [
 "African burrowing python",
-32
+32,
+[]
 ],
 [
 "Asian Sunbeam Snake",
-31
-],
+31,
 [
-"Sunbeam Snake",
-31
+"Sunbeam Snake"
+]
 ],
 [
 "Lataste’s viper",
-31
-],
+31,
 [
-"Lataste's Viper",
-31
+"Lataste's Viper"
+]
 ],
 [
 "Montpellier snake",
-31
-],
+31,
 [
-"Montpellier Snake",
-31
+"Montpellier Snake"
+]
 ],
 [
 "buff striped keelback",
-31
+31,
+[]
 ],
 [
 "Brown tree snake",
-31
+31,
+[]
 ],
 [
 "Dumeril’s boa",
-31
-],
+31,
 [
 "Dumeril's Boa",
-31
-],
-[
-"Madagascar Ground Boa",
-31
+"Madagascar Ground Boa"
+]
 ],
 [
 "Scarlet kingsnake",
-30
+30,
+[]
 ],
 [
 "Advanced Snakes",
-30
+30,
+[]
 ],
 [
 "Dawn Blind Snakes",
-30
-],
+30,
 [
-"Primitive Blind Snakes",
-30
+"Primitive Blind Snakes"
+]
 ],
 [
 "Northern Philippine Cobra",
-30
+30,
+[]
 ],
 [
 "Common garter snake",
-30
-],
+30,
 [
 "Common Gartersnake",
-30
-],
-[
 "Common Garter Snake",
-30
-],
-[
-"Red-sided Garter Snake",
-30
+"Red-sided Garter Snake"
+]
 ],
 [
 "Timber rattlesnake",
-29
-],
+29,
 [
-"Timber Rattlesnake",
-29
+"Timber Rattlesnake"
+]
 ],
 [
 "Eastern Racer",
-29
-],
+29,
 [
-"Racer",
-29
+"Racer"
+]
 ],
 [
 "African nocturnal snakes",
-29
+29,
+[]
 ],
 [
 "Eastern Coral Snake",
-29
-],
+29,
 [
 "Harlequin Coralsnake",
-29
-],
-[
-"Northern Coral Snake",
-29
+"Northern Coral Snake"
+]
 ],
 [
 "Viperine Snake",
-29
+29,
+[]
 ],
 [
 "Northern Rubber Boa",
-29
-],
+29,
 [
 "Rubber Boa",
-29
-],
-[
-"Southern Rubber Boa",
-29
+"Southern Rubber Boa"
+]
 ],
 [
 "Anchieta's Dwarf Python",
-29
-],
+29,
 [
-"Angolan Python",
-29
+"Angolan Python"
+]
 ],
 [
 "Mauritius snakes",
-29
+29,
+[]
 ],
 [
 "Common Kingsnake",
-29
+29,
+[]
 ],
 [
 "Western Ratsnake",
-29
+29,
+[]
 ],
 [
 "Southern Smooth Snake",
-28
+28,
+[]
 ],
 [
 "Malayan Pit Viper",
-28
+28,
+[]
 ],
 [
 "Prairie Rattlesnake",
-28
-],
+28,
 [
-"Western Rattlesnake",
-28
+"Western Rattlesnake"
+]
 ],
 [
 "Mozambique spitting cobra",
-28
+28,
+[]
 ],
 [
 "Beaked sea snake",
-28
+28,
+[]
 ],
 [
 "Javan Spitting Cobra",
-28
-],
+28,
 [
-"Southern Indonesian Spitting Cobra",
-28
+"Southern Indonesian Spitting Cobra"
+]
 ],
 [
 "Garden Flying Snake",
-28
-],
+28,
 [
 "Paradise Flying Snake",
-28
-],
-[
-"Paradise Tree Snake",
-28
-],
-[
-"Western Coral Snake",
-27
+"Paradise Tree Snake"
+]
 ],
 [
 "Mamushi",
-27
+27,
+[]
 ],
 [
 "Arowana snake",
-27
-],
+27,
 [
 "Tentacled Snake",
-27
-],
-[
-"Tentacle Snake",
-27
+"Tentacle Snake"
+]
 ],
 [
 "Sonoran Coralsnake",
-27
+27,
+[
+"Western Coral Snake"
+]
 ],
 [
 "Ladder Snake",
-27
+27,
+[]
 ],
 [
 "Common Egg Eater",
-27
-],
+27,
 [
 "Egg-eating Snake",
-27
-],
-[
-"Rhombic Egg Eater",
-27
+"Rhombic Egg Eater"
+]
 ],
 [
 "Malayan Krait",
-27
+27,
+[]
 ],
 [
 "Black Spitting Cobra",
-27
-],
+27,
 [
 "Equatorial Spitting Cobra",
-27
-],
-[
-"Sumatran Spitting Cobra",
-27
+"Sumatran Spitting Cobra"
+]
 ],
 [
 "Bismarck Ringed Python",
-27
+27,
+[]
 ],
 [
 "Cape coral snake",
-26
-],
+26,
 [
-"Coral Shield Cobra",
-26
+"Coral Shield Cobra"
+]
 ],
 [
 "Round Island Burrowing Boa",
-26
+26,
+[]
 ],
 [
 "Madagascar tree boa",
-26
-],
+26,
 [
 "Madagascar Tree Boa",
-26
-],
-[
-"Sanzinia",
-26
+"Sanzinia"
+]
 ],
 [
 "Seoane's Viper",
-26
+26,
+[]
 ],
 [
 "Asian Bockadam",
-26
-],
+26,
 [
 "Bockadam Snake",
-26
-],
-[
 "Dog-faced water snake",
-26
-],
-[
 "Dog-faced Water Snake",
-26
-],
-[
-"New Guinea Bockadam",
-26
+"New Guinea Bockadam"
+]
 ],
 [
 "Arboreal Rat Snake",
-26
-],
+26,
 [
 "Red-tailed Green Ratsnake",
-26
-],
-[
-"Red-Tailed Racer",
-26
+"Red-Tailed Racer"
+]
 ],
 [
 "Horseshoe Whip Snake",
-26
+26,
+[]
 ],
 [
 "Ottoman Viper",
-26
-],
-[
-"Brongersma's Short-tailed Python",
-26
-],
-[
-"Red Short-tailed Python",
-26
+26,
+[]
 ],
 [
 "Dahl's Whip Snake",
-26
+26,
+[]
 ],
 [
 "Boelen's python",
-26
+26,
+[]
 ],
 [
 "Palestine Viper",
-25
+25,
+[]
 ],
 [
 "Brahminy blind snake",
-25
+25,
+[]
 ],
 [
 "Rat snakes",
-25
+25,
+[]
 ],
 [
 "Fea's Viper",
-25
+25,
+[]
 ],
 [
 "Slug Snakes",
-25
+25,
+[]
 ],
 [
 "Snouted cobra",
-25
+25,
+[]
 ],
 [
 "False smooth snake",
-25
-],
+25,
 [
-"False Smooth Snake",
-25
+"False Smooth Snake"
+]
 ],
 [
 "Elephant's Trunk Snake",
-25
-],
+25,
 [
 "Elephant Trunk Snake",
-25
-],
-[
 "Javan File Snake",
-25
-],
-[
-"Javan Wart Snake",
-25
+"Javan Wart Snake"
+]
 ],
 [
 "Common Pipe Snake",
-25
-],
+25,
 [
 "Red Cylinder Snake",
-25
-],
-[
-"Red-tailed Pipe Snake",
-25
+"Red-tailed Pipe Snake"
+]
 ],
 [
 "Spotted python",
-25
+25,
+[]
 ],
 [
 "Ring-necked Snake",
-25
-],
+25,
 [
-"Ringneck Snake",
-25
+"Ringneck Snake"
+]
 ],
 [
 "Ramsay's Python",
-25
-],
+25,
 [
 "Woma",
-25
-],
-[
-"Woma python",
-25
+"Woma python"
+]
 ],
 [
 "Cuban boa",
-25
+25,
+[]
 ],
 [
 "King brown snake",
-25
+25,
+[]
 ],
 [
 "Wagler's Keeled Green Pit Viper",
-25
-],
+25,
 [
 "Wagler's Palm Viper",
-25
-],
-[
-"Wagler's Pit Viper",
-25
+"Wagler's Pit Viper"
+]
 ],
 [
 "Armenian Viper",
-25
-],
+25,
 [
-"Radde's Rock Viper",
-25
+"Radde's Rock Viper"
+]
 ],
 [
 "Dark Spotted Anaconda",
-25
+25,
+[]
 ],
 [
 "Katian Spitting Cobra",
-25
-],
+25,
 [
-"Mali Cobra",
-25
+"Mali Cobra"
+]
 ],
 [
 "Round Island Boa",
-24
-],
+24,
 [
 "Round Island Ground Boa",
-24
-],
-[
 "Round Island keel-scaled boa",
-24
-],
-[
-"Round Island Keel-scaled Boa",
-24
+"Round Island Keel-scaled Boa"
+]
 ],
 [
 "Bolivian Anaconda",
-24
+24,
+[]
 ],
 [
 "Tiger Keelback",
-24
-],
-[
-"Indian Egg-eating Snake",
-24
+24,
+[]
 ],
 [
 "Coffee Palm Viper",
-24
+24,
+[]
 ],
 [
 "Madagascar Boa",
-24
-],
+24,
 [
 "Madagascar ground boa",
-24
-],
-[
-"Malagasy Ground Boa",
-24
+"Malagasy Ground Boa"
+]
 ],
 [
 "Caucasian (Caucasus) Viper",
-24
-],
+24,
 [
 "Caucasian viper",
-24
-],
-[
-"Caucasian Viper",
-24
+"Caucasian Viper"
+]
 ],
 [
 "Darevsky’s viper",
-24
-],
+24,
 [
-"Darevsky's Viper",
-24
+"Darevsky's Viper"
+]
 ],
 [
 "Black-tailed Rattlesnake",
-24
-],
+24,
 [
-"Blacktail Rattlesnake",
-24
+"Blacktail Rattlesnake"
+]
 ],
 [
 "Red-headed Krait",
-24
+24,
+[]
 ],
 [
 "Caucasian Rat Snake",
-24
-],
+24,
 [
-"Transcaucasian Rat Snake",
-24
+"Transcaucasian Rat Snake"
+]
 ],
 [
 "Dwarf Puff Adder",
-24
-],
+24,
 [
 "Peringuey's Adder",
-24
-],
-[
 "Peringuey's desert adder",
-24
-],
-[
-"Side-winding Adder",
-24
+"Side-winding Adder"
+]
 ],
 [
 "Dog-toothed Cat Snake",
-24
-],
+24,
 [
-"Large Blunt-headed Tree Snake",
-24
+"Large Blunt-headed Tree Snake"
+]
 ],
 [
 "Indian Egg-eater",
-24
-],
+24,
 [
-"Westermann's Snake",
-24
+"Indian Egg-eating Snake",
+"Westermann's Snake"
+]
 ],
 [
 "Namaqua dwarf adder",
-24
-],
+24,
 [
-"Namaqua Dwarf Adder",
-24
+"Namaqua Dwarf Adder"
+]
 ],
 [
 "Indian Wolf Snake",
-24
+24,
+[]
 ],
 [
 "Samar Cobra",
-24
-],
+24,
 [
-"Southeastern Philippine Cobra",
-24
+"Southeastern Philippine Cobra"
+]
 ],
 [
 "Sahara Sand Viper",
-24
+24,
+[]
 ],
 [
 "Bornean Short-tailed Python",
-24
+24,
+[]
 ],
 [
 "Mohave Rattlesnake",
-24
-],
+24,
 [
-"Mojave Rattlesnake",
-24
+"Mojave Rattlesnake"
+]
 ],
 [
 "Amethystine python",
-23
+23,
+[
+"Amethyst Python",
+"Amethystine Python",
+"Scrub Python"
+]
 ],
 [
 "Olive Sea Snakes",
-23
+23,
+[]
 ],
 [
 "Horned Adder",
-23
+23,
+[]
 ],
 [
 "Sunbeam Snakes",
-23
+23,
+[]
 ],
 [
 "Texas Coralsnake",
-23
-],
+23,
 [
-"Texas Coral Snake",
-23
+"Texas Coral Snake"
+]
 ],
 [
 "Desert Cobra",
-23
-],
-[
-"Amethystine Python",
-23
-],
-[
-"Amethyst Python",
-23
-],
-[
-"Scrub Python",
-23
+23,
+[]
 ],
 [
 "Rosy boa",
-23
-],
+23,
 [
-"Rosy Boa",
-23
+"Rosy Boa"
+]
 ],
 [
 "Blackbanded Sea Krait",
-23
-],
+23,
 [
 "brown lipped sea krait",
-23
-],
-[
-"Brown-lipped Sea Krait",
-23
+"Brown-lipped Sea Krait"
+]
 ],
 [
 "Red-bellied black snake",
-23
+23,
+[]
 ],
 [
 "Little Filesnake",
-23
-],
+23,
 [
 "Little Wartsnake",
-23
-],
-[
 "Marine File Snake",
-23
-],
-[
 "Small Warty Snake",
-23
-],
-[
-"Wart Snake",
-23
+"Wart Snake"
+]
 ],
 [
 "Black-banded sea krait",
-23
+23,
+[]
 ],
 [
 "Common Cat Snake",
-23
-],
+23,
 [
-"Indian Gamma Snake",
-23
+"Indian Gamma Snake"
+]
 ],
 [
 "Wagner's viper",
-23
-],
+23,
 [
-"Wagner's Viper",
-23
+"Wagner's Viper"
+]
 ],
 [
 "Tiger Rattlesnake",
-23
+23,
+[]
 ],
 [
 "Asia Minor Dwarf Racer",
-22
-],
+22,
 [
-"Ring-Headed Dwarf Snake",
-22
+"Ring-Headed Dwarf Snake"
+]
 ],
 [
 "Faint-banded Sea Snake",
-22
+22,
+[]
 ],
 [
 "Fiji Cobra",
-22
+22,
+[
+"Fiji Snake",
+"Fiji snake",
+"Viti Bolo"
+]
 ],
 [
 "Jararacussu",
-22
+22,
+[]
 ],
 [
 "Spotted Wipe Snake",
-22
-],
-[
-"Fiji snake",
-22
-],
-[
-"Fiji Snake",
-22
-],
-[
-"Viti Bolo",
-22
+22,
+[]
 ],
 [
 "Caucasus subalpine viper",
-22
-],
+22,
 [
 "Caucasus Subalpine Viper",
-22
-],
-[
-"Dinnik's Viper",
-22
+"Dinnik's Viper"
+]
 ],
 [
 "Red Diamond Rattlesnake",
-22
+22,
+[]
 ],
 [
 "Sri Lankan pit viper",
-22
+22,
+[]
 ],
 [
 "Banded Malaysian Coral Snake",
-22
-],
+22,
 [
-"Striped Coral Snake",
-22
+"Striped Coral Snake"
+]
 ],
 [
 "Balkan Whip Snake",
-22
+22,
+[]
 ],
 [
 "Yellow-blotched palm-pitviper",
-22
-],
+22,
 [
-"Yellow-blotched Palm Pit Viper",
-22
+"Yellow-blotched Palm Pit Viper"
+]
 ],
 [
 "Large Whip Snake",
-22
+22,
+[]
 ],
 [
 "Rat Snakes",
-21
+21,
+[]
 ],
 [
 "Whip Snakes",
-21
+21,
+[]
 ],
 [
 "Black massasauga",
-21
-],
+21,
 [
-"Massasauga",
-21
+"Massasauga"
+]
 ],
 [
 "Mountain viper",
-21
-],
+21,
 [
-"Mountain Viper",
-21
+"Mountain Viper"
+]
 ],
 [
 "Racers",
-21
+21,
+[]
 ],
 [
 "Western hog-nosed snake",
-21
-],
+21,
 [
 "Western Hog-nosed Snake",
-21
-],
-[
-"Western Hognose Snake",
-21
+"Western Hognose Snake"
+]
 ],
 [
 "Nikolsky's Viper",
-21
+21,
+[]
 ],
 [
 "Turtlehead Sea Snakes",
-21
+21,
+[]
 ],
 [
 "Hognose Pit Vipers",
-21
+21,
+[]
 ],
 [
 "Arafura File Snake",
-21
-],
+21,
 [
-"Filesnake",
-21
+"Filesnake"
+]
 ],
 [
 "Mexican cantil",
-21
+21,
+[]
 ],
 [
 "Annulated sea snake",
-21
-],
+21,
 [
 "Annulated Sea Snake",
-21
-],
-[
-"Bluebanded Sea Snake",
-21
+"Bluebanded Sea Snake"
+]
 ],
 [
 "Japanese Ratsnake",
-21
+21,
+[]
 ],
 [
 "Eastern Hog-nosed Snake",
-21
-],
+21,
 [
-"Eastern Hognose Snake",
-21
+"Eastern Hognose Snake"
+]
 ],
 [
 "Blue Coral Snake",
-21
+21,
+[]
 ],
 [
 "Burmese Spitting Cobra",
-21
-],
+21,
 [
-"Mandalay Cobra",
-21
+"Mandalay Cobra"
+]
 ],
 [
 "Hump-nosed pit viper",
-21
+21,
+[]
 ],
 [
 "common bamboo viper",
-21
+21,
+[]
 ],
 [
 "Ornate reef sea snake",
-21
-],
+21,
 [
 "Ornate Reef Sea Snake",
-21
-],
-[
-"Ornate Sea Snake",
-21
+"Ornate Sea Snake"
+]
 ],
 [
 "Black-headed rhynchocalamus",
-21
-],
+21,
 [
 "Black-Headed Rhynchocalamus",
-21
-],
-[
-"Black-headed Snake",
-21
+"Black-headed Snake"
+]
 ],
 [
 "Santa Catalina Island rattlesnake",
-21
-],
+21,
 [
-"Santa Catalina Island Rattlesnake",
-21
+"Santa Catalina Island Rattlesnake"
+]
 ],
 [
 "Rock Rattlesnake",
-21
+21,
+[]
 ],
 [
 "Snake-Eating Snakes",
-20
+20,
+[]
 ],
 [
 "Italian Aesculapian Snake",
-20
+20,
+[]
 ],
 [
 "Perisan Horned Viper",
-20
-],
+20,
 [
-"Persian horned viper",
-20
+"Persian horned viper"
+]
 ],
 [
 "New Mexican Ridge-nosed Rattlesnake",
-20
+20,
+[]
 ],
 [
 "Red-Bellied Racer",
-20
-],
+20,
 [
 "schmidt's Whip Snake",
-20
-],
-[
-"Schmidt's Whip Snake",
-20
+"Schmidt's Whip Snake"
+]
 ],
 [
 "Rainbow Snake",
-20
+20,
+[]
 ],
 [
 "Twin-spotted Rattlesnake",
-20
+20,
+[]
 ],
 [
 "Northern Pacific Rattlesnake",
-20
+20,
+[
+"Western Rattlesnake"
+]
 ],
 [
 "Brown Water Python",
-20
-],
+20,
 [
-"Water Python",
-20
+"Water Python"
+]
 ],
 [
 "Lake Erie Water Snake",
-20
+20,
+[]
 ],
 [
 "Moorish Viper",
-20
+20,
+[]
 ],
 [
 "Jamaican boa",
-20
+20,
+[]
 ],
 [
 "Puerto Rican boa",
-20
+20,
+[]
 ],
 [
 "Trans-pecos Ratsnake",
-20
-],
+20,
 [
-"Trans-pecos Rat Snake",
-20
+"Trans-pecos Rat Snake"
+]
 ],
 [
 "Usambara eyelash viper",
-20
-],
+20,
 [
-"Usambara Eyelash Viper",
-20
+"Usambara Eyelash Viper"
+]
 ],
 [
 "Red-necked Keelback",
-20
+20,
+[]
 ],
 [
 "Anchieta's cobra",
-20
+20,
+[]
 ],
 [
 "Alburzi viper",
-20
-],
+20,
 [
 "Alburzi Viper",
-20
-],
-[
-"Armenian Steppe Viper",
-20
+"Armenian Steppe Viper"
+]
 ],
 [
 "Egg-eating Sea Snake",
-20
-],
+20,
 [
 "Turtleheaded sea snake",
-20
-],
-[
-"Turtleheaded Sea Snake",
-20
+"Turtleheaded Sea Snake"
+]
 ],
 [
 "Mang Mountain Pit Viper",
-20
-],
+20,
 [
 "Mangshan pit viper",
-20
-],
-[
 "Mangshan Pit Viper",
-20
-],
-[
-"Mt. Mang Pit Viper",
-20
+"Mt. Mang Pit Viper"
+]
 ],
 [
 "Arabian horned viper",
-20
-],
+20,
 [
-"Arabian Horned Viper",
-20
+"Arabian Horned Viper"
+]
 ],
 [
 "Greensnake",
-20
-],
+20,
 [
 "Rough Greensnake",
-20
-],
-[
-"Rough Green Snake",
-20
+"Rough Green Snake"
+]
 ],
 [
 "Mud Snake",
-20
-],
+20,
 [
-"Red-bellied Mudsnake",
-20
+"Red-bellied Mudsnake"
+]
 ],
 [
 "Cyclades blunt-nosed viper",
-20
-],
+20,
 [
 "Cyclades Blunt-nosed Viper",
-20
-],
-[
-"Milos Viper",
-20
+"Milos Viper"
+]
 ],
 [
 "Glossy Snake",
-20
+20,
+[]
 ],
 [
 "Smooth Greensnake",
-20
-],
+20,
 [
-"Smooth Green Snake",
-20
+"Smooth Green Snake"
+]
 ],
 [
 "Green Cat Snake",
-19
+19,
+[]
 ],
 [
 "Colkhis Water Snake",
-19
-],
+19,
 [
-"Large-headed Water Snake",
-19
+"Large-headed Water Snake"
+]
 ],
 [
 "Querétaro dusky rattlesnake",
-19
+19,
+[]
 ],
 [
 "Chicken Snake",
-19
+19,
+[
+"Tiger Ratsnake",
+"Yellow Rat Snake"
+]
 ],
 [
 "Schokari sand racer",
-19
+19,
+[]
 ],
 [
 "Speckled rattlesnake",
-19
-],
+19,
 [
-"Speckled Rattlesnake",
-19
+"Speckled Rattlesnake"
+]
 ],
 [
 "Egyptian Saw-scaled Viper",
-19
+19,
+[]
 ],
 [
 "Green Bush Viper",
-19
-],
+19,
 [
 "West African Bush Viper",
-19
-],
-[
-"Western Bush Viper",
-19
+"Western Bush Viper"
+]
 ],
 [
 "Catesby's Snail-eater",
-19
+19,
+[]
 ],
 [
 "Rainbow Mud Snake",
-19
-],
+19,
 [
 "Rainbow Water Snake",
-19
-],
-[
-"Striped Water Snake",
-19
+"Striped Water Snake"
+]
 ],
 [
 "Hooded malpolon",
-19
+19,
+[]
 ],
 [
 "Banded Swamp Snake",
-19
-],
+19,
 [
 "Dog-face Water Snake",
-19
-],
-[
 "Linne's Water Snake",
-19
-],
-[
 "Masked Water Snake",
-19
-],
-[
 "Puff-faced Water Snake",
-19
-],
-[
-"Puff-face Water Snake",
-19
+"Puff-face Water Snake"
+]
 ],
 [
 "Slender-necked Sea Snake",
-19
+19,
+[]
 ],
 [
 "Berg Adder",
-19
-],
+19,
 [
-"Mountain Adder",
-19
+"Mountain Adder"
+]
 ],
 [
 "Japanese Four-lined Ratsnake",
-19
+19,
+[]
 ],
 [
 "Nubian spitting cobra",
-19
+19,
+[]
 ],
 [
 "Olive-brown sea snake",
-19
-],
+19,
 [
 "Olive-brown Sea Snake",
-19
-],
-[
-"Olive Sea Snake",
-19
+"Olive Sea Snake"
+]
 ],
 [
 "Andaman's Krait",
-19
-],
+19,
 [
-"South Andaman Krait",
-19
+"South Andaman Krait"
+]
 ],
 [
 "Keeled Rat Snake",
-19
+19,
+[
+"King ratsnake"
+]
 ],
 [
 "Arabian sand boa",
-19
-],
+19,
 [
-"Arabian Sand Boa",
-19
+"Arabian Sand Boa"
+]
 ],
 [
 "Bird Snake",
-19
-],
+19,
 [
 "Twig Snake",
-19
-],
-[
-"Vine Snake",
-19
+"Vine Snake"
+]
 ],
 [
 "Palestine saw-scaled viper",
-19
-],
-[
-"Tiger Ratsnake",
-19
-],
-[
-"Yellow Rat Snake",
-19
-],
-[
-"King ratsnake",
-19
+19,
+[]
 ],
 [
 "Terrestrial Gartersnake",
-19
-],
+19,
 [
 "Terrestrial (Wandering) Garter Snake",
-19
-],
-[
 "Western terrestrial garter snake",
-19
-],
-[
-"Western Terrestrial Garter Snake",
-19
+"Western Terrestrial Garter Snake"
+]
 ],
 [
 "Flat-tail Sea Snake",
-18
+18,
+[]
 ],
 [
 "McMahon's Desert Viper",
-18
+18,
+[]
 ],
 [
 "Fea Viper",
-18
+18,
+[]
 ],
 [
 "Pinesnake",
-18
-],
+18,
 [
-"Pine Snake",
-18
+"Pine Snake"
+]
 ],
 [
 "Scarletsnake",
-18
-],
+18,
 [
-"Scarlet Snake",
-18
+"Scarlet Snake"
+]
 ],
 [
 "Stimson’s python",
-18
+18,
+[]
 ],
 [
 "Lotiev's Viper",
-18
+18,
+[]
 ],
 [
 "Southern watersnake",
-18
-],
+18,
 [
 "Southern Watersnake",
-18
-],
-[
-"Southern Water Snake",
-18
+"Southern Water Snake"
+]
 ],
 [
 "Crocker's Sea Snake",
-18
-],
+18,
 [
 "Rennell Island sea krait",
-18
-],
-[
-"Rennell Island Sea Krait",
-18
+"Rennell Island Sea Krait"
+]
 ],
 [
 "Western ribbon snake",
-18
-],
+18,
 [
 "Western Ribbonsnake",
-18
-],
-[
-"Western Ribbon Snake",
-18
+"Western Ribbon Snake"
+]
 ],
 [
 "Olivaceous Keelback",
-18
-],
+18,
 [
 "Olive Keelback Wart Snake",
-18
-],
-[
 "Olive Keelback Water Snake",
-18
-],
-[
-"Split Keelback Snake",
-18
+"Split Keelback Snake"
+]
 ],
 [
 "Bullsnake",
-18
-],
+18,
 [
 "Gophersnake",
-18
-],
-[
-"Gopher Snake",
-18
+"Gopher Snake"
+]
 ],
 [
 "Diadem snake",
-18
+18,
+[]
 ],
 [
 "Eastern indigo snake",
-18
-],
+18,
 [
-"Eastern Indigo Snake",
-18
+"Eastern Indigo Snake"
+]
 ],
 [
 "Loos Snake",
-18
-],
+18,
 [
-"Streaked Kukri Snake",
-18
+"Streaked Kukri Snake"
+]
 ],
 [
 "Drapiez's Cat Snake",
-18
-],
+18,
 [
-"White-spotted Cat Snake",
-18
+"White-spotted Cat Snake"
+]
 ],
 [
 "Speckle-headed Vine Snake",
-18
+18,
+[]
 ],
 [
 "Brownsnake",
-18
-],
+18,
 [
-"Brown Snake",
-18
+"Brown Snake"
+]
 ],
 [
 "Eastern Russell's Viper",
-18
+18,
+[]
 ],
 [
 "Dotted Dwarf Snake",
-18
+18,
+[]
 ],
 [
 "Chinese Mountain Pit Viper",
-18
+18,
+[]
 ],
 [
 "Atlas Dwarf Viper",
-18
+18,
+[]
 ],
 [
 "Black Earth Snakes",
-17
+17,
+[]
 ],
 [
 "Picado's Pit Viper",
-17
-],
-[
-"Green Rat Snake",
-17
+17,
+[]
 ],
 [
 "Red-banded Snake",
-17
-],
-[
-"Crab-eating Water Snake",
-17
+17,
+[]
 ],
 [
 "Green Ratsnake",
-17
+17,
+[
+"Green Rat Snake"
+]
 ],
 [
 "Mexican Kingsnake",
-17
+17,
+[]
 ],
 [
 "Crab-eating Snake",
-17
-],
+17,
 [
+"Crab-eating Water Snake",
 "Fordonia",
-17
-],
-[
 "Fordon's Water Snake",
-17
-],
-[
 "Mangrove Snake",
-17
-],
-[
 "Plain Fordonia",
-17
-],
-[
 "White-bellied Freshwater Snake",
-17
-],
-[
 "White-bellied Mangrove Snake",
-17
-],
-[
-"White-bellied Water Snake",
-17
+"White-bellied Water Snake"
+]
 ],
 [
 "Guatemala Palm Pit Viper",
-17
+17,
+[]
 ],
 [
 "Broad-headed snake",
-17
-],
+17,
 [
-"Broad-headed Snake",
-17
+"Broad-headed Snake"
+]
 ],
 [
 "Giant garter snake",
-17
-],
+17,
 [
 "Giant Gartersnake",
-17
-],
-[
-"Giant Garter Snake",
-17
+"Giant Garter Snake"
+]
 ],
 [
 "Pygmy Rattlesnake",
-17
+17,
+[]
 ],
 [
 "Black-headed Cat Snake",
-17
+17,
+[]
 ],
 [
 "Mandarin Ratsnake",
-17
-],
+17,
 [
-"Mandarin Trinket Snake",
-17
+"Mandarin Trinket Snake"
+]
 ],
 [
 "bronzeback",
-17
-],
+17,
 [
 "common bronzeback tree snake",
-17
-],
-[
-"Daudin's bronzeback",
-17
+"Daudin's bronzeback"
+]
 ],
 [
 "Japanese Woodsnake",
-17
+17,
+[]
 ],
 [
 "Rock Mamushi",
-17
+17,
+[]
 ],
 [
 "Black-headed Centipede Eater",
-17
-],
+17,
 [
-"Cape Centipede Eater",
-17
+"Cape Centipede Eater"
+]
 ],
 [
 "Western Blind Snake",
-17
-],
+17,
 [
 "Western Slender Blindsnake",
-17
-],
-[
-"Western Threadsnake",
-17
-],
-[
-"Night Snake",
-17
+"Western Threadsnake"
+]
 ],
 [
 "Queen Snake",
-17
+17,
+[]
 ],
 [
 "Texas Blind Snake",
-17
-],
+17,
 [
-"Texas Threadsnake",
-17
+"Texas Threadsnake"
+]
 ],
 [
 "Malayan Vine Snake",
-17
+17,
+[]
 ],
 [
 "Jasper Cat Snake",
-17
+17,
+[]
 ],
 [
 "Many-banded Cat Snake",
-17
-],
+17,
 [
-"Many-banded Tree Snake",
-17
+"Many-banded Tree Snake"
+]
 ],
 [
 "Sri Lankan krait",
-17
+17,
+[]
 ],
 [
 "Transcaucasian Long-nosed Viper",
-17
+17,
+[]
 ],
 [
 "Orlov's viper",
-17
-],
+17,
 [
-"Orlov's Viper",
-17
+"Orlov's Viper"
+]
 ],
 [
 "Fiji Island Boa",
-17
-],
+17,
 [
 "Pacific Boa",
-17
-],
-[
-"Solomon Island Tree Boa",
-17
+"Solomon Island Tree Boa"
+]
 ],
 [
 "Sri Lankan cat snake",
-17
+17,
+[]
 ],
 [
 "Sonoran Mountain Kingsnake",
-17
+17,
+[]
 ],
 [
 "Nightsnake",
-17
+17,
+[
+"Night Snake"
+]
 ],
 [
 "Quill-snouted Snakes",
-16
+16,
+[]
 ],
 [
 "Hooknose Snakes",
-16
+16,
+[]
 ],
 [
 "Tibetan spring snake",
-16
-],
+16,
 [
-"Xizang Hot-spring Keel-back",
-16
+"Xizang Hot-spring Keel-back"
+]
 ],
 [
 "Braid Snake",
-16
-],
+16,
 [
 "Jan’s Cliff Racer",
-16
-],
-[
 "Wadi racer",
-16
-],
-[
-"Wadi Racer",
-16
+"Wadi Racer"
+]
 ],
 [
 "Natal black snake",
-16
+16,
+[]
 ],
 [
 "Western Shovel-nosed Snake",
-16
-],
+16,
 [
 "Western Shovel-nose Snake",
-16
-],
-[
-"Western Shovelnose Snake",
-16
+"Western Shovelnose Snake"
+]
 ],
 [
 "Checkered Gartersnake",
-16
-],
+16,
 [
-"Checkered Garter Snake",
-16
+"Checkered Garter Snake"
+]
 ],
 [
 "Tancitaran dusky rattlesnake",
-16
+16,
+[]
 ],
 [
 "Black-necked Gartersnake",
-16
-],
+16,
 [
-"Blackneck Garter Snake",
-16
+"Blackneck Garter Snake"
+]
 ],
 [
 "Honduran Palm Pit Viper",
-16
-],
+16,
 [
-"March's Palm Pit Viper",
-16
+"March's Palm Pit Viper"
+]
 ],
 [
 "Muller's Snake",
-16
+16,
+[
+"Square-nosed Snake"
+]
 ],
 [
 "crown snakes",
-16
+16,
+[]
 ],
 [
 "Cropan's Boa",
-16
+16,
+[]
 ],
 [
 "Sharp-tailed Snake",
-16
-],
+16,
 [
-"Sharptail Snake",
-16
+"Sharptail Snake"
+]
 ],
 [
 "Wall's Bronzeback",
-16
+16,
+[]
 ],
 [
 "Gray-banded Kingsnake",
-16
+16,
+[]
 ],
 [
 "black-striped snakes",
-16
+16,
+[]
 ],
 [
 "Israeli burrowing asp",
-16
-],
+16,
 [
 "Israeli Mole Viper",
-16
-],
-[
-"Mole Viper",
-16
+"Mole Viper"
+]
 ],
 [
 "Stokes' sea snake",
-16
+16,
+[]
 ],
 [
 "Bibron’s Stiletto Snake",
-16
-],
+16,
 [
-"Mole Adder",
-16
+"Mole Adder"
+]
 ],
 [
 "Diard's Blindsnake",
-16
-],
+16,
 [
 "Indochinese Blindsnake",
-16
-],
-[
 "Large Blind Snake",
-16
-],
-[
-"Large Wormsnake",
-16
+"Large Wormsnake"
+]
 ],
 [
 "Ashy Kukri Snake",
-16
-],
+16,
 [
 "Black Cross-barred Kukri Snake",
-16
-],
-[
 "Golden Kukri Snake",
-16
-],
-[
-"Gönther's Kukri Snake",
-16
+"Gönther's Kukri Snake"
+]
 ],
 [
 "Rough-backed Litter Snake",
-16
+16,
+[]
 ],
 [
 "Dubois' Sea Snake",
-16
-],
+16,
 [
 "Reef shallows sea snake",
-16
-],
-[
-"Reef Shallows Sea Snake",
-16
+"Reef Shallows Sea Snake"
+]
 ],
 [
 "Red-sided Keelback Water Snake",
-16
+16,
+[]
 ],
 [
 "Geckos",
-16
-],
+16,
 [
 "Gloyd's Hump-nosed Viper",
-16
-],
-[
 "Sri Lanka humpnose viper",
-16
-],
-[
 "Sri Lanka Humpnose Viper",
-16
-],
-[
-"Wall's Humpnose Viper",
-16
+"Wall's Humpnose Viper"
+]
 ],
 [
 "Boulenger's keelback",
-16
+16,
+[]
 ],
 [
 "Beddome's cat snake",
-16
-],
+16,
 [
-"Beddome's Cat Snake",
-16
+"Beddome's Cat Snake"
+]
 ],
 [
 "Latifi's viper",
-16
-],
+16,
 [
-"Latifi's Viper",
-16
+"Latifi's Viper"
+]
 ],
 [
 "Thickhead Ground Snake",
-16
+16,
+[]
 ],
 [
 "Indonesian Iridescent Snakes",
-16
+16,
+[]
 ],
 [
 "Red-headed Reed Snake",
-16
+16,
+[]
 ],
 [
 "Bibron's Coral Snake",
-16
-],
+16,
 [
-"Bibron's Slender Coral Snake",
-16
+"Bibron's Slender Coral Snake"
+]
 ],
 [
 "Awl-headed snake",
-16
-],
+16,
 [
 "Awl-headed Snake",
-16
-],
-[
 "Common Leaf-nosed Snake",
-16
-],
-[
 "Diademed Sand Snake",
-16
-],
-[
-"Diamond Snake",
-16
+"Diamond Snake"
+]
 ],
 [
 "Anderson's Mountain Keelback",
-16
-],
+16,
 [
-"Anderson's Stream Snake",
-16
+"Anderson's Stream Snake"
+]
 ],
 [
 "Sao Paulo Lancehead",
-16
+16,
+[]
 ],
 [
 "Dary's Burrowing Snake",
-16
+16,
+[]
 ],
 [
 "Orange-bellied Racer",
-16
-],
+16,
 [
 "Red-bellied racer",
-16
-],
-[
 "Red-bellied Racer",
-16
-],
-[
-"Saba Racer",
-16
+"Saba Racer"
+]
 ],
 [
 "Horned sea snake",
-16
+16,
+[]
 ],
 [
 "Barred Grass Snake",
-16
+16,
+[]
 ],
 [
 "Keeled Slug-eating Snake",
-16
+16,
+[]
 ],
 [
 "Forsten's Cat Snake",
-16
-],
+16,
 [
-"Reddish Peninsular Cat Snake",
-16
+"Reddish Peninsular Cat Snake"
+]
 ],
 [
 "Mexican palm viper",
-16
-],
+16,
 [
-"Rowley's Palm Pit Viper",
-16
+"Rowley's Palm Pit Viper"
+]
 ],
 [
 "Black Treesnake",
-16
-],
+16,
 [
-"Common Treesnake",
-16
+"Common Treesnake"
+]
 ],
 [
 "Yellowbelly Worm-eating Snake",
-15
+15,
+[]
 ],
 [
 "Thorntail Snakes",
-15
+15,
+[]
 ],
 [
 "Red adder",
-15
+15,
+[]
 ],
 [
 "Malayan Banded Wolf Snake",
-15
-],
+15,
 [
-"White-Banded Wolf Snake",
-15
+"White-Banded Wolf Snake"
+]
 ],
 [
 "Kelung Cat Snake",
-15
-],
+15,
 [
-"Square-headed Cat Snake",
-15
-],
-[
-"Yellow-red Rat Snake",
-15
-],
-[
-"Anomalous Sea Snake",
-15
-],
-[
-"Dwarf Seasnake",
-15
-],
-[
-"Dwarf Sea Snake",
-15
-],
-[
-"Roman's Saw-scaled Viper",
-15
-],
-[
-"White-bellied Carpet Viper",
-15
-],
-[
-"Kirtland's Snake",
-15
-],
-[
-"Central American Rattlesnake",
-15
-],
-[
-"Middle American Rattlesnake",
-15
-],
-[
-"Autlán rattlesnake",
-15
-],
-[
-"Socotran Racer",
-15
-],
-[
-"Forest Vipers",
-15
-],
-[
-"Godman's montane pitviper",
-15
-],
-[
-"Godman's Montane Pit Viper",
-15
-],
-[
-"Shield-nose snake",
-15
-],
-[
-"Speckled Shield Cobra",
-15
-],
-[
-"Lebanon viper",
-15
-],
-[
-"Lebanon Viper",
-15
-],
-[
-"Boulenger's bronzeback",
-15
-],
-[
-"Boulenger's Bronze-back",
-15
-],
-[
-"Boulenger's Bronzeback",
-15
-],
-[
-"Travancore Bronze-brown Snake",
-15
-],
-[
-"Long-nosed Snake",
-15
-],
-[
-"Longnose Snake",
-15
-],
-[
-"Schmidt's Reed Snake",
-15
-],
-[
-"Collared Dwarf Racer",
-15
-],
-[
-"Red Whip Snake",
-15
-],
-[
-"Kirtland's snake",
-15
-],
-[
-"Pfeffer’s reed snake",
-15
-],
-[
-"Pfeffer's Reed Snake",
-15
-],
-[
-"Chinese Green Snake",
-15
-],
-[
-"Greater Green Snake",
-15
-],
-[
-"Narrow-headed Reed Snake",
-15
-],
-[
-"Caatinga Lancehead",
-15
-],
-[
-"Jumping Pit Viper",
-15
-],
-[
-"Smith's Black-headed Snake",
-15
-],
-[
-"Southwestern Blackhead Snake",
-15
-],
-[
-"Many-horned adder",
-15
-],
-[
-"River Vine Snake",
-15
-],
-[
-"Large shieldtail snake",
-15
-],
-[
-"Baird's Ratsnake",
-15
-],
-[
-"Baird's Rat Snake",
-15
-],
-[
-"Iwasaki’s snail-eater",
-15
-],
-[
-"Iwasaki's Snail-eater",
-15
-],
-[
-"Field's Horned Viper",
-15
-],
-[
-"Aurora House Snake",
-15
-],
-[
-"Chinese Leopard Snake",
-15
-],
-[
-"Jerdon's Pitviper",
-15
-],
-[
-"Oriental pitviper",
-15
-],
-[
-"Yellow Speckled Lancehead",
-15
-],
-[
-"Southern Hog-nosed Snake",
-15
-],
-[
-"Southern hognose snake",
-15
-],
-[
-"Southern Hognose Snake",
-15
-],
-[
-"Bardick",
-15
-],
-[
-"Malagasy giant hognose snake",
-15
-],
-[
-"Malagasy Giant Hognose Snake",
-15
-],
-[
-"Tschudi's False Coral Snake",
-15
+"Square-headed Cat Snake"
+]
 ],
 [
 "Yellow sea snake",
-15
+15,
+[
+"Yellow Sea Snake"
+]
 ],
 [
-"Yellow Sea Snake",
-15
+"Yellow-red Rat Snake",
+15,
+[]
+],
+[
+"Anomalous Sea Snake",
+15,
+[]
+],
+[
+"Dwarf Seasnake",
+15,
+[
+"Dwarf Sea Snake"
+]
+],
+[
+"Roman's Saw-scaled Viper",
+15,
+[
+"White-bellied Carpet Viper"
+]
+],
+[
+"Central American Rattlesnake",
+15,
+[
+"Middle American Rattlesnake"
+]
+],
+[
+"Autlán rattlesnake",
+15,
+[]
+],
+[
+"Socotran Racer",
+15,
+[]
+],
+[
+"Forest Vipers",
+15,
+[]
+],
+[
+"Godman's montane pitviper",
+15,
+[
+"Godman's Montane Pit Viper"
+]
+],
+[
+"Shield-nose snake",
+15,
+[
+"Speckled Shield Cobra"
+]
 ],
 [
 "Mona Island Boa",
-15
+15,
+[]
+],
+[
+"Lebanon viper",
+15,
+[
+"Lebanon Viper"
+]
+],
+[
+"Boulenger's bronzeback",
+15,
+[
+"Boulenger's Bronze-back",
+"Boulenger's Bronzeback",
+"Travancore Bronze-brown Snake"
+]
+],
+[
+"Long-nosed Snake",
+15,
+[
+"Longnose Snake"
+]
+],
+[
+"Schmidt's Reed Snake",
+15,
+[]
+],
+[
+"Collared Dwarf Racer",
+15,
+[
+"Collared Dwarf Snake",
+"Hand Snake",
+"Red Whip Snake",
+"Wind Snake"
+]
+],
+[
+"Kirtland's snake",
+15,
+[
+"Kirtland's Snake"
+]
+],
+[
+"Pfeffer’s reed snake",
+15,
+[
+"Pfeffer's Reed Snake"
+]
+],
+[
+"Chinese Green Snake",
+15,
+[
+"Greater Green Snake"
+]
+],
+[
+"Narrow-headed Reed Snake",
+15,
+[]
+],
+[
+"Caatinga Lancehead",
+15,
+[]
+],
+[
+"Jumping Pit Viper",
+15,
+[]
+],
+[
+"Smith's Black-headed Snake",
+15,
+[
+"Southwestern Blackhead Snake"
+]
+],
+[
+"Many-horned adder",
+15,
+[]
+],
+[
+"River Vine Snake",
+15,
+[]
+],
+[
+"Large shieldtail snake",
+15,
+[]
+],
+[
+"Baird's Ratsnake",
+15,
+[
+"Baird's Rat Snake"
+]
+],
+[
+"Iwasaki’s snail-eater",
+15,
+[
+"Iwasaki's Snail-eater"
+]
+],
+[
+"Field's Horned Viper",
+15,
+[]
+],
+[
+"Aurora House Snake",
+15,
+[
+"Night Snake"
+]
+],
+[
+"Chinese Leopard Snake",
+15,
+[]
+],
+[
+"Jerdon's Pitviper",
+15,
+[
+"Oriental pitviper",
+"Yellow Speckled Lancehead"
+]
+],
+[
+"Southern Hog-nosed Snake",
+15,
+[
+"Southern hognose snake",
+"Southern Hognose Snake"
+]
+],
+[
+"Bardick",
+15,
+[]
+],
+[
+"Malagasy giant hognose snake",
+15,
+[
+"Malagasy Giant Hognose Snake"
+]
+],
+[
+"Tschudi's False Coral Snake",
+15,
+[]
 ],
 [
 "Bar-bellied sea snake",
-15
-],
+15,
 [
 "Bar-bellied Sea Snake",
-15
-],
-[
-"Elegant Sea Snake",
-15
+"Elegant Sea Snake"
+]
 ],
 [
 "Rhinoceros Viper",
-15
-],
+15,
 [
 "West African Gaboon Adder",
-15
-],
-[
 "West African Gaboon Viper",
-15
-],
-[
 "Western Gaboon Adder",
-15
-],
-[
-"Western Gaboon Viper",
-15
+"Western Gaboon Viper"
+]
 ],
 [
 "Alcatrazes Lancehead",
-15
+15,
+[]
 ],
 [
 "Padang Reed Snake",
-15
+15,
+[]
 ],
 [
 "White-bellied Reed Snake",
-15
+15,
+[]
 ],
 [
 "Ulmer's Reed Snake",
-15
+15,
+[]
 ],
 [
 "Taiwan Keelback",
-15
+15,
+[]
 ],
 [
 "Christmas Island Blind Snake",
-15
+15,
+[]
 ],
 [
 "Plains Black-headed Snake",
-15
-],
+15,
 [
-"Plains Blackhead Snake",
-15
-],
-[
-"Collared Dwarf Snake",
-15
-],
-[
-"Hand Snake",
-15
-],
-[
-"Wind Snake",
-15
+"Plains Blackhead Snake"
+]
 ],
 [
 "Eastern ribbon snake",
-15
-],
+15,
 [
 "Eastern Ribbonsnake",
-15
-],
-[
-"Eastern Ribbon Snake",
-15
+"Eastern Ribbon Snake"
+]
 ],
 [
 "Argentinian Coral Snake",
-15
+15,
+[]
 ],
 [
 "Eight-lined Kukri Snake",
-15
-],
+15,
 [
 "Eight-striped Kukri Snake",
-15
-],
-[
-"Grace's Kukri Snake",
-15
+"Grace's Kukri Snake"
+]
 ],
 [
 "Brown Kukri Snake",
-15
-],
+15,
 [
-"Purple Kukri Snake",
-15
+"Purple Kukri Snake"
+]
 ],
 [
 "Hognosed Pit Viper",
-15
-],
+15,
 [
-"Víbora de Hoja Nasal",
-15
+"Víbora de Hoja Nasal"
+]
 ],
 [
 "Plains gartersnake",
-15
-],
+15,
 [
 "Plains Gartersnake",
-15
-],
-[
-"Plains Garter Snake",
-15
+"Plains Garter Snake"
+]
 ],
 [
 "Bicoloured Reed Snake",
-15
+15,
+[]
 ],
 [
 "Narrow-striped Dwarf Snake",
-15
+15,
+[]
 ],
 [
 "Antiguan racer",
-15
-],
+15,
 [
-"Antiguan Racer",
-15
+"Antiguan Racer"
+]
 ],
 [
 "Bengkulu Cat Snake",
-15
+15,
+[]
 ],
 [
 "Black Sea viper",
-15
-],
+15,
 [
-"Black Sea Viper",
-15
+"Black Sea Viper"
+]
 ],
 [
 "Brown Watersnake",
-15
-],
+15,
 [
-"Brown Water Snake",
-15
+"Brown Water Snake"
+]
 ],
 [
 "Shedao Island Pit Viper",
-14
+14,
+[]
 ],
 [
 "Desert Mountain Adder",
-14
+14,
+[]
 ],
 [
 "Many-banded cobra",
-14
+14,
+[]
 ],
 [
 "Chinese Keelback Water Snake",
-14
+14,
+[]
 ],
 [
 "Hong Kong Dwarf Snake",
-14
-],
+14,
 [
-"Northern Reed Snake",
-14
+"Northern Reed Snake"
+]
 ],
 [
 "Formosa Wolf Snake",
-14
-],
+14,
 [
-"Rushstrat's Wolf Snake",
-14
+"Rushstrat's Wolf Snake"
+]
 ],
 [
 "Grey Burrowing Snake",
-14
+14,
+[]
 ],
 [
 "Blyth's Reticulate Snake",
-14
-],
+14,
 [
-"Iridescent Snake",
-14
+"Iridescent Snake"
+]
 ],
 [
 "Big-eyed mountain keelback",
-14
-],
+14,
 [
-"Large-eyed False Cobra",
-14
+"Large-eyed False Cobra"
+]
 ],
 [
 "Koshun Worm Snake",
-14
+14,
+[]
+],
+[
+"Green Rat Snake",
+14,
+[]
 ],
 [
 "Bearded Snake",
-14
+14,
+[]
 ],
 [
 "Middle American Burrowing Snake",
-14
+14,
+[]
 ],
 [
 "Mexican small-headed rattlesnake",
-14
+14,
+[]
 ],
 [
 "Great Plains rat snake",
-14
-],
+14,
 [
 "Great Plains Ratsnake",
-14
-],
-[
-"Great Plains Rat Snake",
-14
+"Great Plains Rat Snake"
+]
 ],
 [
 "Striped Lowland Snake",
-14
-],
-[
-"Iberian Grass Snake",
-14
-],
-[
-"Little Brown Snake",
-14
-],
-[
-"Short-nosed Snake",
-14
-],
-[
-"Two-striped Gartersnake",
-14
-],
-[
-"Two-striped Garter Snake",
-14
-],
-[
-"Beddome's Coral Snake",
-14
-],
-[
-"Southeastern Crowned Snake",
-14
-],
-[
-"Roatan coral snake",
-14
-],
-[
-"Roatan Coral Snake",
-14
-],
-[
-"Common Wolf Snake",
-14
-],
-[
-"Sri Lanka pipe snake",
-14
-],
-[
-"Common Brown Water Snake",
-14
-],
-[
-"Common Purple-glossed Snake",
-14
-],
-[
-"Black Headed Snake",
-14
-],
-[
-"Kalahari Purple-glossed Snake",
-14
-],
-[
-"Laos Wolf Snake",
-14
-],
-[
-"Graceful Small Headed Seasnake",
-14
-],
-[
-"Slender Sea Snake",
-14
-],
-[
-"Collared Black-headed Snake",
-14
-],
-[
-"Common Blackhead",
-14
-],
-[
-"Common Many-tooth Snake",
-14
-],
-[
-"Albuquerque Ground Snake",
-14
-],
-[
-"Brown-speckled Whipsnake",
-14
-],
-[
-"Brown vine snake",
-14
-],
-[
-"Brown Vine Snake",
-14
-],
-[
-"Thunderbolt Snake",
-14
-],
-[
-"Twin-spotted Wolf Snake",
-14
-],
-[
-"Yellow-speckled Wolfsnake",
-14
-],
-[
-"Military ground snake",
-14
-],
-[
-"Common rough-sided snake",
-14
-],
-[
-"Dusky Wolf Snake",
-14
-],
-[
-"Roth's Dwarf Snake",
-14
+14,
+[]
 ],
 [
 "Nicobar Cat Snake",
-14
+14,
+[
+"Wall's Cat Snake"
+]
+],
+[
+"Iberian Grass Snake",
+14,
+[]
+],
+[
+"Little Brown Snake",
+14,
+[
+"Short-nosed Snake"
+]
+],
+[
+"Two-striped Gartersnake",
+14,
+[
+"Two-striped Garter Snake"
+]
+],
+[
+"Beddome's Coral Snake",
+14,
+[]
+],
+[
+"Southeastern Crowned Snake",
+14,
+[]
+],
+[
+"Roatan coral snake",
+14,
+[
+"Roatan Coral Snake"
+]
+],
+[
+"Common Wolf Snake",
+14,
+[]
+],
+[
+"Sri Lanka pipe snake",
+14,
+[]
+],
+[
+"Common Brown Water Snake",
+14,
+[]
+],
+[
+"Common Purple-glossed Snake",
+14,
+[]
+],
+[
+"Black Headed Snake",
+14,
+[
+"Kalahari Purple-glossed Snake"
+]
+],
+[
+"Laos Wolf Snake",
+14,
+[]
+],
+[
+"Graceful Small Headed Seasnake",
+14,
+[
+"Slender Sea Snake"
+]
+],
+[
+"Collared Black-headed Snake",
+14,
+[
+"Common Blackhead",
+"Common Many-tooth Snake"
+]
+],
+[
+"Albuquerque Ground Snake",
+14,
+[]
+],
+[
+"Brown-speckled Whipsnake",
+14,
+[
+"Brown vine snake",
+"Brown Vine Snake",
+"Thunderbolt Snake"
+]
+],
+[
+"Twin-spotted Wolf Snake",
+14,
+[
+"Yellow-speckled Wolfsnake"
+]
+],
+[
+"Military ground snake",
+14,
+[]
+],
+[
+"Common rough-sided snake",
+14,
+[]
+],
+[
+"Dusky Wolf Snake",
+14,
+[]
+],
+[
+"Roth's Dwarf Snake",
+14,
+[]
 ],
 [
 "Banded Worm Snake",
-14
+14,
+[]
 ],
 [
 "Bornean Reed Snake",
-14
+14,
+[]
 ],
 [
 "Thick Reed Snake",
-14
+14,
+[]
 ],
 [
 "Döderlein's Reed Snake",
-14
+14,
+[]
 ],
 [
 "Eiselt's Reed Snake",
-14
+14,
+[]
 ],
 [
 "Javanese Reed Snake",
-14
+14,
+[]
 ],
 [
 "Black Coral Snake",
-14
+14,
+[
+"Striped Coral Snake"
+]
 ],
 [
 "Philippine Pit Viper",
-14
+14,
+[]
 ],
 [
 "Formosa Slug Snake",
-14
+14,
+[]
 ],
 [
 "East African Egg-eater",
-14
+14,
+[]
+],
+[
+"False Smooth Snake",
+14,
+[]
 ],
 [
 "Groundsnake",
-14
-],
+14,
 [
-"Ground Snake",
-14
+"Ground Snake"
+]
 ],
 [
 "Common Slug Eater",
-14
-],
+14,
 [
-"Slug-eater",
-14
+"Slug-eater"
+]
 ],
 [
 "Oman saw-scaled viper",
-14
-],
+14,
 [
-"Oman Saw-scaled Viper",
-14
+"Oman Saw-scaled Viper"
+]
 ],
 [
 "Amami takachiho snake",
-14
-],
+14,
 [
-"Amami Takachiho Snake",
-14
+"Amami Takachiho Snake"
+]
 ],
 [
 "Anguilla Racer",
-14
-],
+14,
 [
 "Leeward Island racer",
-14
-],
-[
-"Leeward Island Racer",
-14
+"Leeward Island Racer"
+]
 ],
 [
 "Allen's Coral Snake",
-14
+14,
+[]
 ],
 [
 "Clark's Coral Snake",
-14
+14,
+[]
 ],
 [
 "Redback Coffee Snake",
-14
+14,
+[]
 ],
+[
+"Southern Water Snake",
+14,
 [
 "Speckle-bellied Keelback",
-14
-],
-[
-"Specklebelly Keelback",
-14
+"Specklebelly Keelback"
+]
 ],
 [
 "Butler's Gartersnake",
-14
-],
+14,
 [
-"Butler's Garter Snake",
-14
+"Butler's Garter Snake"
+]
 ],
 [
 "Mechel's Reed Snake",
-14
+14,
+[]
 ],
 [
 "Red River Krait",
-14
+14,
+[]
 ],
 [
 "Three-lined Kukri Snake",
-14
+14,
+[]
 ],
 [
 "Philippine Blunt-headed Tree Snake",
-14
+14,
+[]
 ],
 [
 "Philippine Cat Snake",
-14
+14,
+[]
 ],
 [
 "large-scaled pitviper",
-14
+14,
+[]
 ],
 [
 "Hughes' Saw-scaled Viper",
-14
+14,
+[]
 ],
 [
 "Mississippi green watersnake",
-14
-],
+14,
 [
 "Mississippi Green Watersnake",
-14
-],
-[
-"Mississippi Green Water Snake",
-14
+"Mississippi Green Water Snake"
+]
 ],
 [
 "Assam Oriental Slender Snake",
-13
-],
+13,
 [
-"Mountain Worm-eating Snake",
-13
+"Mountain Worm-eating Snake"
+]
 ],
 [
 "Olive Oriental Slender Snake",
-13
+13,
+[]
 ],
 [
 "Taiwan Pit Viper",
-13
+13,
+[]
 ],
 [
 "Cantor's Kukri Snake",
-13
-],
+13,
 [
-"North-east Indian Kukri Snake",
-13
+"North-east Indian Kukri Snake"
+]
 ],
 [
 "Oaxacan Burrowing Snake",
-13
+13,
+[]
 ],
 [
 "Kloss' Sea Snake",
-13
+13,
+[]
 ],
 [
 "Black-banded Snake",
-13
+13,
+[]
 ],
 [
 "Northwestern Gartersnake",
-13
-],
+13,
 [
-"Northwestern Garter Snake",
-13
+"Northwestern Garter Snake"
+]
 ],
 [
 "Arabian cat snake",
-13
+13,
+[]
 ],
 [
 "African Brown Water Snake",
-13
+13,
+[]
 ],
 [
 "Rustyhead Snake",
-13
-],
-[
-"Gerard's Water Snake",
-13
+13,
+[]
 ],
 [
 "Western Black-headed Snake",
-13
-],
+13,
 [
-"Western Blackhead Snake",
-13
+"Western Blackhead Snake"
+]
 ],
 [
 "Short-tailed Snake",
-13
+13,
+[]
 ],
 [
 "Cerrado Lancehead",
-13
+13,
+[]
 ],
 [
 "Blunthead Slug Snake",
-13
+13,
+[]
 ],
 [
 "Two-lined Black Earth Snake",
-13
+13,
+[]
 ],
 [
 "Pine Woods Littersnake",
-13
-],
+13,
 [
-"Pine Woods Snake",
-13
+"Pine Woods Snake"
+]
 ],
 [
 "Florida Crowned Snake",
-13
+13,
+[]
 ],
 [
 "Central American Indigo Snake",
-13
-],
+13,
 [
-"Western Indigo Snake",
-13
+"Western Indigo Snake"
+]
 ],
 [
 "Banded Flying Snake",
-13
-],
+13,
 [
-"Twin-barred Tree Snake",
-13
+"Twin-barred Tree Snake"
+]
 ],
 [
 "Dwarf Copperhead",
-13
-],
+13,
 [
 "Pygmy copperhead",
-13
-],
-[
-"Pygmy Copperhead",
-13
+"Pygmy Copperhead"
+]
 ],
 [
 "Ornamental snake",
-13
-],
+13,
 [
-"Ornamental Snake",
-13
+"Ornamental Snake"
+]
 ],
 [
 "Greater Sea Snake",
-13
-],
+13,
 [
-"Oliveheaded Sea Snake",
-13
+"Oliveheaded Sea Snake"
+]
 ],
 [
 "Günther's vine snake",
-13
-],
+13,
 [
-"Günther's Vine Snake",
-13
+"Günther's Vine Snake"
+]
 ],
 [
 "Natal Purple-glossed Snake",
-13
+13,
+[]
 ],
 [
 "Cat-eyed Fishing Snake",
-13
-],
+13,
 [
 "Cat-eyed Water Snake",
-13
-],
-[
-"Glossy Marsh Snake",
-13
+"Gerard's Water Snake",
+"Glossy Marsh Snake"
+]
 ],
 [
 "Stuart's Coral Snake",
-13
+13,
+[]
 ],
 [
 "Cantor's Mangrove Snake",
-13
-],
+13,
 [
 "Cantor's Water Snake",
-13
-],
-[
-"Yellow-banded Mangrove Snake",
-13
+"Yellow-banded Mangrove Snake"
+]
 ],
 [
 "Mayan Coral Snake",
-13
+13,
+[]
 ],
 [
 "Plain Mountain Adder",
-13
+13,
+[]
 ],
 [
 "Travancore Wolf Snake",
-13
+13,
+[]
 ],
 [
 "Prairie Kingsnake",
-13
-],
+13,
 [
-"Yellow-bellied Kingsnake",
-13
+"Yellow-bellied Kingsnake"
+]
 ],
 [
 "California Mountain Kingsnake",
-13
+13,
+[]
 ],
 [
 "Bibron’s Blind Snake",
-13
+13,
+[]
 ],
 [
 "Formosa Odd-scaled Snake",
-13
+13,
+[]
 ],
 [
 "Leaf-scaled sea snake",
-13
-],
+13,
 [
-"Leaf-scaled Sea Snake",
-13
+"Leaf-scaled Sea Snake"
+]
 ],
 [
 "hill keelback",
-13
-],
+13,
 [
-"Wynaad keelback",
-13
+"Wynaad keelback"
+]
 ],
 [
 "Mueller’s Reed Snake",
-13
+13,
+[]
 ],
 [
 "Piraja’s lancehead",
-13
-],
+13,
 [
-"Piraja's Lancehead",
-13
+"Piraja's Lancehead"
+]
 ],
 [
 "Splendid Krait",
-13
+13,
+[]
 ],
 [
 "Bengkulu Reed Snake",
-13
+13,
+[]
 ],
 [
 "Battersby's Reed Snake",
-13
+13,
+[]
 ],
 [
 "Boeseman’s Reed Snake",
-13
+13,
+[]
 ],
 [
 "Forcart's Reed Snake",
-13
+13,
+[]
 ],
 [
 "Grabowsky's Reed Snake",
-13
+13,
+[]
 ],
 [
 "Lined Reed Snake",
-13
+13,
+[]
 ],
 [
 "White-striped Reed Snake",
-13
+13,
+[]
 ],
 [
 "Lumholz's Reed Snake",
-13
+13,
+[]
 ],
 [
 "Stripe-necked Reed Snake",
-13
+13,
+[]
 ],
 [
 "Brown Reed Snake",
-13
+13,
+[]
 ],
 [
 "Yellow-bellied Reed Snake",
-13
+13,
+[]
 ],
 [
 "Thanh's Reed Snake",
-13
+13,
+[]
 ],
 [
 "Yunnan Reed Snake",
-13
+13,
+[]
 ],
 [
 "Speckled Coral Snake",
-13
+13,
+[]
 ],
 [
 "Mountain Sipo",
-13
+13,
+[]
 ],
 [
 "Indian Smooth Snake",
-13
+13,
+[]
 ],
 [
 "Japanese Keelback",
-13
+13,
+[]
 ],
 [
 "Slender Hognose Viper",
-13
+13,
+[]
 ],
 [
 "Hampton's Slug-eating Snake",
-13
-],
+13,
 [
-"Hampton's Slug Snake",
-13
+"Hampton's Slug Snake"
+]
 ],
 [
 "Ruthvens Kingsnake",
-13
+13,
+[]
 ],
 [
 "Ijima's Sea Snake",
-13
+13,
+[]
 ],
 [
 "Iranian Worm Snake",
-13
+13,
+[]
 ],
 [
 "Tiny Night Snake",
-13
+13,
+[]
 ],
 [
 "Klauber's Blind Snake",
-13
+13,
+[]
 ],
 [
 "Mexican pitviper",
-13
+13,
+[]
 ],
 [
 "Madagascar Night Snake",
-13
+13,
+[]
 ],
 [
 "Assam Mountain Snake",
-13
+13,
+[]
 ],
 [
 "Cherlin's Saw-scaled Viper",
-13
+13,
+[]
 ],
 [
 "Chinese Kukri Snake",
-13
+13,
+[]
 ],
 [
 "Coconut Tree Snake",
-13
-],
+13,
 [
 "Green Tree Snake",
-13
-],
-[
-"Nothern Tree Snake",
-13
+"Nothern Tree Snake"
+]
 ],
 [
 "Bocourt's Black-headed Snake",
-13
+13,
+[]
 ],
 [
 "Perrotet's mountain snake",
-13
-],
+13,
 [
 "Perrotet's Mountain Snake",
-13
-],
-[
-"Striped Narrow-headed Snake",
-13
+"Striped Narrow-headed Snake"
+]
 ],
 [
 "Duméril's Kukri Snake",
-13
-],
+13,
 [
-"DumÈril's kukri snake",
-13
+"DumÈril's kukri snake"
+]
 ],
 [
 "Northern Snail-eater",
-13
+13,
+[]
 ],
 [
 "Crowned Dwarf Snake",
-13
+13,
+[]
 ],
 [
 "Chinese Many-tooth Snake",
-13
+13,
+[]
 ],
 [
 "Black-banded Keelback",
-13
-],
+13,
 [
-"Green Keelback",
-13
+"Green Keelback"
+]
 ],
 [
 "Aquatic Gartersnake",
-13
-],
+13,
 [
 "Pacific Coast Aquatic Garter Snake",
-13
-],
-[
 "Santa Cruz Garter Snake",
-13
-],
-[
-"Western Aquatic Garter Snake",
-13
+"Western Aquatic Garter Snake"
+]
 ],
 [
 "Taylor's Cantil",
-13
+13,
+[]
 ],
 [
 "Stephen's Banded Snake",
-13
+13,
+[]
 ],
 [
 "Many-banded Coral Snake",
-13
+13,
+[]
 ],
 [
 "Pará Coral Snake",
-13
+13,
+[]
 ],
 [
 "black rat snake",
-13
-],
+13,
 [
-"eastern ratsnake",
-13
+"eastern ratsnake"
+]
 ],
 [
 "Black Halloween Snake",
-13
-],
+13,
 [
-"Cope's False Coral Snake",
-13
+"Cope's False Coral Snake"
+]
 ],
 [
 "False Tree Coral",
-13
+13,
+[]
 ],
 [
 "Terrestrial Snail Sucker",
-13
+13,
+[]
 ],
 [
 "Magnificent Viper",
-13
+13,
+[]
 ],
 [
 "Lambert's Sea Snake",
-13
+13,
+[]
 ],
 [
 "Atlantic Saltmarsh Snake",
-13
+13,
+[]
 ],
 [
 "Cope's Vine Snake",
-13
+13,
+[]
 ],
 [
 "Joger's Saw-scaled Viper",
-13
+13,
+[]
 ],
 [
 "Madagascar burrowing snake",
-13
+13,
+[]
 ],
 [
 "Blackbelly Worm-eating Snake",
-12
+12,
+[]
 ],
 [
 "Sand Boas",
-12
+12,
+[]
 ],
 [
 "Guangxi Cat Snake",
-12
+12,
+[]
 ],
 [
 "Doria's Green Snake",
-12
+12,
+[]
 ],
 [
 "Beautiful Kukri Snake",
-12
-],
+12,
 [
-"Formosa Kukri Snake",
-12
-],
-[
-"Malabar pit viper",
-12
+"Formosa Kukri Snake"
+]
 ],
 [
 "Arabian Gulf sea snake",
-12
-],
+12,
 [
-"Persian Gulf Sea Snake",
-12
+"Persian Gulf Sea Snake"
+]
 ],
 [
 "Viperine Seasnake",
-12
+12,
+[]
 ],
 [
 "Arafura Smooth Sea Snake",
-12
-],
+12,
 [
-"Northern Mangrove Sea Snake",
-12
-],
-[
-"Purple-red Earth Snake",
-12
-],
-[
-"Keel-bellied Water Snake",
-12
-],
-[
-"Spatula-toothed Snake",
-12
-],
-[
-"beaked sea snakes",
-12
-],
-[
-"Philippine Dryophiops",
-12
-],
-[
-"Mexican Parrot Snake",
-12
-],
-[
-"Seychelles wolf snake",
-12
-],
-[
-"Seychelles Wolf Snake",
-12
-],
-[
-"Aruba Island rattlesnake",
-12
-],
-[
-"Red-bellied snake",
-12
-],
-[
-"Red-bellied Snake",
-12
-],
-[
-"Redbelly Snake",
-12
-],
-[
-"Bitia",
-12
-],
-[
-"Gray's Water Snake",
-12
+"Northern Mangrove Sea Snake"
+]
 ],
 [
 "Palni Mountain Burrowing Snake",
-12
+12,
+[
+"Red-Bellied Shieldtail"
+]
 ],
 [
-"Red-Bellied Shieldtail",
-12
+"Purple-red Earth Snake",
+12,
+[]
+],
+[
+"Spatula-toothed Snake",
+12,
+[]
+],
+[
+"beaked sea snakes",
+12,
+[]
+],
+[
+"Philippine Dryophiops",
+12,
+[]
+],
+[
+"Mexican Parrot Snake",
+12,
+[]
+],
+[
+"Seychelles wolf snake",
+12,
+[
+"Seychelles Wolf Snake"
+]
+],
+[
+"Aruba Island rattlesnake",
+12,
+[]
+],
+[
+"Red-bellied snake",
+12,
+[
+"Red-bellied Snake",
+"Redbelly Snake"
+]
+],
+[
+"Bitia",
+12,
+[
+"Gray's Water Snake",
+"Keel-bellied Water Snake"
+]
 ],
 [
 "Fisk's house snake",
-12
-],
+12,
 [
-"Fisk's House Snake",
-12
+"Fisk's House Snake"
+]
 ],
 [
 "Yellow-bellied House Snake",
-12
+12,
+[]
 ],
 [
 "Rim Rock crowned snake",
-12
-],
+12,
 [
-"Rim Rock Crowned Snake",
-12
+"Rim Rock Crowned Snake"
+]
 ],
 [
 "Saint Croix Racer",
-12
+12,
+[]
 ],
 [
 "Dunmall's snake",
-12
-],
+12,
 [
-"Dunmall's Snake",
-12
+"Dunmall's Snake"
+]
 ],
 [
 "Malabarian pit viper",
-12
+12,
+[
+"Malabar pit viper"
+]
 ],
 [
 "Graham's crayfish snake",
-12
-],
+12,
 [
-"Graham's Crayfish Snake",
-12
+"Graham's Crayfish Snake"
+]
 ],
 [
 "Spotted Earth Snake",
-12
+12,
+[]
 ],
 [
 "Eastern Purple-glossed Snake",
-12
-],
+12,
 [
-"White-lipped Snake",
-12
+"White-lipped Snake"
+]
 ],
 [
 "Pacific Coast Parrot Snake",
-12
+12,
+[]
 ],
 [
 "Florida Green Watersnake",
-12
-],
+12,
 [
-"Florida Green Water Snake",
-12
+"Florida Green Water Snake"
+]
 ],
 [
 "Striped Sea Snake",
-12
+12,
+[]
 ],
 [
 "Cloud Forest Parrot Snake",
-12
+12,
+[]
 ],
 [
 "Downs' Earth Snake",
-12
+12,
+[]
 ],
 [
 "Eastern Foxsnake",
-12
-],
+12,
 [
-"Eastern Fox Snake",
-12
+"Eastern Fox Snake"
+]
 ],
 [
 "Spotted Rock Snake",
-12
+12,
+[]
 ],
 [
 "Yellow-spotted wolf snake",
-12
-],
+12,
 [
-"Yellow-spotted Wolf Snake",
-12
+"Yellow-spotted Wolf Snake"
+]
 ],
 [
 "Lake Taal Snake",
-12
+12,
+[]
 ],
 [
 "Blanford's Bridal Snake",
-12
+12,
+[]
 ],
 [
 "Red Blind Snake",
-12
+12,
+[]
 ],
 [
 "Kunua Blind Snake",
-12
+12,
+[]
 ],
 [
 "Bismarck Sharp-Nosed Blind Snake",
-12
+12,
+[]
 ],
 [
 "Sahul Reef Snake",
-12
-],
+12,
 [
-"Short-nosed Sea Snake",
-12
+"Short-nosed Sea Snake"
+]
 ],
 [
 "Eydoux' Sea Snake",
-12
-],
+12,
 [
 "Marbled Sea Snake",
-12
-],
-[
 "Spine-tailed sea snake",
-12
-],
-[
-"Spine-tailed Sea Snake",
-12
+"Spine-tailed Sea Snake"
+]
 ],
 [
 "Goias Burrowing Snake",
-12
+12,
+[]
 ],
 [
 "Tai hairy bush viper",
-12
-],
+12,
 [
-"Tai Hairy Bush Viper",
-12
+"Tai Hairy Bush Viper"
+]
 ],
 [
 "Black Ground Snake",
-12
+12,
+[]
 ],
 [
 "Banded Ground Snake",
-12
+12,
+[]
 ],
 [
 "Northern Ground Snake",
-12
+12,
+[]
 ],
 [
 "Grey Ground Snake",
-12
+12,
+[]
 ],
 [
 "Basin Ground Snake",
-12
+12,
+[]
 ],
 [
 "Olmecan Pit Viper",
-12
+12,
+[]
 ],
 [
 "Highland copperhead",
-12
+12,
+[]
 ],
 [
 "Southern adder",
-12
+12,
+[]
 ],
 [
 "Dighton's Cat Snake",
-12
-],
+12,
 [
 "Peermade Cat Snake",
-12
-],
-[
 "Pirmad Cat Snake",
-12
-],
-[
-"Travancore Cat Snake",
-12
+"Travancore Cat Snake"
+]
 ],
 [
 "Lojan Lancehead",
-12
+12,
+[]
 ],
 [
 "Collared Reed Snake",
-12
+12,
+[]
 ],
 [
 "Low's Reed Snake",
-12
+12,
+[]
 ],
 [
 "Tropical Forest Snake",
-12
+12,
+[]
 ],
 [
 "Spotted Coral Snake",
-12
+12,
+[]
 ],
 [
 "Tzotzil Montane Pit Viper",
-12
+12,
+[]
 ],
 [
 "Sonoran Shovel-nosed Snake",
-12
-],
+12,
 [
-"Sonoran Shovelnose Snake",
-12
+"Sonoran Shovelnose Snake"
+]
 ],
 [
 "Indian flying snake",
-12
+12,
+[]
 ],
 [
 "Big Bend Blackhead Snake",
-12
-],
+12,
 [
-"Trans-pecos Black-headed Snake",
-12
+"Trans-pecos Black-headed Snake"
+]
 ],
 [
 "Two-colored Blind Snake",
-12
+12,
+[]
 ],
 [
 "Baird's Black-headed Snake",
-12
+12,
+[]
 ],
 [
 "Schmutz's Worm Snake",
-12
+12,
+[]
 ],
 [
 "Oates's Blind Snake",
-12
+12,
+[]
 ],
 [
 "Olive Grass Snake",
-12
+12,
+[
+"Olive Marsh Snake"
+]
 ],
 [
 "Mountain Slug Snake",
-12
-],
+12,
 [
-"White-spotted Slug Snake",
-12
+"White-spotted Slug Snake"
+]
 ],
 [
 "Oaxacan Centipede Snake",
-12
+12,
+[]
 ],
 [
 "Volcan Tacana Centipede Snake",
-12
+12,
+[]
 ],
 [
 "Likiang Pit Viper",
-12
+12,
+[]
 ],
 [
 "Russell's Sea Snake",
-12
+12,
+[]
 ],
 [
 "Yaqui Black-headed Snake",
-12
-],
+12,
 [
-"Yaqui Blackhead Snake",
-12
+"Yaqui Blackhead Snake"
+]
 ],
 [
 "Peten Centipede Snake",
-12
+12,
+[]
 ],
 [
 "Yellow-lined Centipede Snake",
-12
+12,
+[]
 ],
 [
 "Elliot's earth snake",
-12
-],
+12,
 [
-"Elliot's Earth Snake",
-12
+"Elliot's Earth Snake"
+]
 ],
 [
 "Black Forest Racer",
-12
-],
+12,
 [
-"Lower-montane Green Racer",
-12
+"Lower-montane Green Racer"
+]
 ],
 [
 "Spotted Keelback Water Snake",
-12
+12,
+[]
 ],
 [
 "Three-colored Blind Snake",
-12
+12,
+[]
 ],
 [
 "Mexican horned pitviper",
-12
+12,
+[]
 ],
 [
 "Curl snake",
-12
+12,
+[]
 ],
 [
 "Louisiana pine snake",
-12
-],
+12,
 [
 "Louisiana Pinesnake",
-12
-],
-[
-"Louisiana Pine Snake",
-12
+"Louisiana Pine Snake"
+]
 ],
 [
 "Günther's Keelback",
-12
-],
+12,
 [
 "Javanese Keelback",
-12
-],
-[
-"Sahul Keelback",
-12
+"Sahul Keelback"
+]
 ],
 [
 "Chinese Mountain Snake",
-12
+12,
+[]
 ],
 [
 "Mountain Bronzeback Tree Snake",
-12
+12,
+[]
 ],
 [
 "Derafshi Snake",
-12
+12,
+[]
 ],
 [
 "Pacific Coast Centipede Snake",
-12
+12,
+[]
 ],
 [
 "Socotra Worm Snake",
-12
+12,
+[]
 ],
 [
 "Dunn's Hognose Viper",
-12
+12,
+[]
 ],
 [
 "Lined Blind Snake",
-12
-],
+12,
 [
 "Striped Blind Snake",
-12
-],
-[
-"Striped Worm Snake",
-12
+"Striped Worm Snake"
+]
 ],
 [
 "Panamanian Dwarf Boa",
-12
+12,
+[]
 ],
 [
 "Kham Plateau Pitviper",
-12
-],
+12,
 [
 "Sichuan Lancehead",
-12
-],
-[
-"Szechwan Pit Viper",
-12
+"Szechwan Pit Viper"
+]
 ],
 [
 "Stejneger's Bamboo Snake",
-12
+12,
+[]
 ],
 [
 "Mandalay Kukri Snake",
-12
-],
+12,
 [
-"Theobald's Kukri Snake",
-12
+"Theobald's Kukri Snake"
+]
 ],
 [
 "Jan's Centipede Snake",
-12
+12,
+[]
 ],
 [
 "Flathead snake",
-12
-],
+12,
 [
-"Flathead Snake",
-12
+"Flathead Snake"
+]
 ],
 [
 "Mexican Black-headed Snake",
-12
+12,
+[]
 ],
 [
 "Lorenz's Blind Snake",
-12
+12,
+[]
 ],
 [
 "Hainan Sunbeam Snake",
-12
+12,
+[]
 ],
 [
 "Chihuahuan Hook-nosed Snake",
-12
-],
+12,
 [
 "Western Hook-nosed Snake",
-12
-],
-[
-"Western Hooknose Snake",
-12
+"Western Hooknose Snake"
+]
 ],
 [
 "Pearl-banded Rat Snake",
-12
-],
+12,
 [
 "Sichuan Rat Snake",
-12
-],
-[
-"Szechwan Rat Snake",
-12
+"Szechwan Rat Snake"
+]
 ],
 [
 "Diamond-backed Watersnake",
-12
-],
+12,
 [
-"Diamondback Water Snake",
-12
+"Diamondback Water Snake"
+]
 ],
 [
 "Brown Whip Snake",
-12
-],
+12,
 [
 "Keel-bellied Whip Snake",
-12
+"Red Whip Snake"
+]
 ],
 [
 "Dark-Grey Ground Snake",
-12
+12,
+[]
 ],
 [
 "Colombian Longtail Snake",
-12
+12,
+[]
 ],
 [
 "Chihuahuan Black-headed Snake",
-12
-],
+12,
 [
-"Chihuahuan Blackhead Snake",
-12
+"Chihuahuan Blackhead Snake"
+]
 ],
 [
 "Common Keelback",
-12
-],
+12,
 [
-"Mair's Keelback",
-12
+"Mair's Keelback"
+]
 ],
 [
 "Dunn's Earth Snake",
-12
+12,
+[]
 ],
 [
 "Black House Snake",
-12
-],
+12,
 [
-"Olive House Snake",
-12
+"Olive House Snake"
+]
 ],
 [
 "Lema's Ground Snake",
-12
+12,
+[]
 ],
 [
 "Dryad Snake",
-12
-],
+12,
 [
-"Salmon-bellied racer",
-12
+"Salmon-bellied racer"
+]
 ],
 [
 "Diana's Coral Snake",
-12
+12,
+[]
 ],
 [
 "Pygmy Coral Snake",
-12
+12,
+[]
 ],
 [
 "Boie's Kukri Snake",
-12
-],
+12,
 [
-"Javanese Mountain Kukri Snake",
-12
+"Javanese Mountain Kukri Snake"
+]
 ],
 [
 "Hampton's Kukri Snake",
-12
+12,
+[]
 ],
 [
 "Splendid Kukri Snake",
-12
+12,
+[]
 ],
 [
 "Eastern Natal Green Snake",
-12
+12,
+[]
 ],
 [
 "Angola Shovel-snout",
-12
+12,
+[]
 ],
 [
 "Stripe-bellied Sand Snake",
-12
-],
+12,
 [
-"Western Yellow-bellied Sand Snake",
-12
+"Western Yellow-bellied Sand Snake"
+]
 ],
 [
 "Western Graceful Brown Snake",
-12
+12,
+[]
 ],
 [
 "Godman's Graceful Brown Snake",
-12
+12,
+[]
 ],
 [
 "Argus Snail Sucker",
-12
+12,
+[]
 ],
 [
 "Slender Snail Sucker",
-12
+12,
+[]
 ],
 [
 "Tropical Flat Snake",
-12
+12,
+[]
 ],
 [
 "Central American Centipede Snake",
-12
+12,
+[]
 ],
 [
 "Coastal House Snake",
-12
+12,
+[]
 ],
 [
 "Sierra Gartersnake",
-12
+12,
+[
+"Western Aquatic Garter Snake"
+]
 ],
 [
 "Malayan Spotted Keelback Water Snake",
-12
+12,
+[]
 ],
 [
 "Neuwied's False Fer-de-lance",
-12
+12,
+[]
 ],
 [
 "Wucherer's Ground Snake",
-12
+12,
+[]
 ],
 [
 "Javanese Keelback Water snake",
-12
+12,
+[]
 ],
 [
 "Ringed Centipede Snake",
-12
+12,
+[]
 ],
 [
 "Banded Cat Snake",
-12
-],
+12,
 [
-"Banded Green Cat Snake",
-12
+"Banded Green Cat Snake"
+]
 ],
 [
 "Burrowing Snake",
-12
+12,
+[]
 ],
 [
 "Double-banded Coral Snake Mimic",
-12
+12,
+[]
 ],
 [
 "Wagler's snake",
-12
+12,
+[]
 ],
 [
 "Haitian Pale-Lipped Blindsnake",
-12
+12,
+[]
 ],
 [
 "Central American Boa",
-12
+12,
+[]
 ],
 [
 "Buch's Reed Snake",
-12
-],
+12,
 [
-"Dalat Dwarf Snake",
-12
+"Dalat Dwarf Snake"
+]
 ],
 [
 "Deppe's Centipede Snake",
-12
+12,
+[]
 ],
 [
 "Black Tree Cobra",
-12
-],
+12,
 [
-"Hoodless Cobra",
-12
+"Hoodless Cobra"
+]
 ],
 [
 "Equal-banded Coral Snake",
-12
-],
+12,
 [
-"Venezuela Coral Snake",
-12
+"Venezuela Coral Snake"
+]
 ],
 [
 "Hook-nosed Blindsnake",
-12
+12,
+[]
 ],
 [
 "Beddome's Sheildtail",
-11
-],
+11,
 [
-"Salty Earth Snake",
-11
+"Salty Earth Snake"
+]
 ],
 [
 "Martinique Threadsnake",
-11
-],
+11,
 [
-"Two-lined blind snake",
-11
+"Two-lined blind snake"
+]
 ],
 [
 "Günther's Reed Snake",
-11
-],
+11,
 [
-"Stripe-Necked Snake",
-11
+"Stripe-Necked Snake"
+]
 ],
 [
 "Rufous burrowing snake",
-11
+11,
+[]
 ],
 [
 "White-lipped Python",
-11
+11,
+[]
 ],
 [
 "Günther's Racer",
-11
+11,
+[]
 ],
 [
 "Striped Whipsnake",
-11
+11,
+[]
 ],
 [
 "Mexican Gartersnake",
-11
-],
+11,
 [
-"Mexican Garter Snake",
-11
+"Mexican Garter Snake"
+]
 ],
 [
 "Swaziland House Snake",
-11
-],
+11,
 [
-"Swazi Rock Snake",
-11
+"Swazi Rock Snake"
+]
 ],
 [
 "Smooth-scaled Death Adder",
-11
+11,
+[]
 ],
 [
 "Snake",
-11
-],
+11,
 [
 "Sumatra Etheridge Snake",
-11
-],
-[
-"Sumatran Burrowing Snake",
-11
+"Sumatran Burrowing Snake"
+]
 ],
 [
 "Eastern Himalayan Bronze-brown Snake",
-11
-],
+11,
 [
 "Gore's Bronze-back",
-11
-],
-[
-"Gore's Bronzeback",
-11
+"Gore's Bronzeback"
+]
 ],
 [
 "Blossom Krait",
-11
-],
+11,
 [
 "Sri Lankan keelback",
-11
-],
-[
-"Sri Lankan Keelback",
-11
+"Sri Lankan Keelback"
+]
 ],
 [
 "Large-eyed bronzeback",
-11
-],
+11,
 [
-"Southern Bronzeback",
-11
+"Southern Bronzeback"
+]
 ],
 [
 "Tornier's Cat Snake",
-11
+11,
+[]
 ],
 [
 "Slowinski's Cornsnake",
-11
+11,
+[]
 ],
 [
 "Striped Harlequin Snake",
-11
+11,
+[]
 ],
 [
 "Kikuzato’s brook snake",
-11
-],
+11,
 [
 "Kikuzato's Brook Snake",
-11
-],
-[
-"Kikuzato’s Stream Snake",
-11
+"Kikuzato’s Stream Snake"
+]
 ],
 [
 "St Vincent Blacksnake",
-11
+11,
+[]
 ],
 [
 "Terre-De-Haut Racer",
-11
+11,
+[]
 ],
 [
 "Mount Bulgar Viper",
-11
+11,
+[]
 ],
 [
 "Malabar Brown Kukri Snake",
-11
-],
+11,
 [
-"Western Kukri Snake",
-11
+"Western Kukri Snake"
+]
 ],
 [
 "Western Hognose Viper",
-11
+11,
+[]
 ],
 [
 "Kopstein's Bronzeback Tree Snake",
-11
+11,
+[]
 ],
 [
 "Algerian Whip Snake",
-11
+11,
+[]
 ],
 [
 "Lined Centipede-eater",
-11
+11,
+[]
 ],
 [
 "Nikhil's Kukri Snake",
-11
+11,
+[]
 ],
 [
 "Caicos Islands dwarf boa",
-11
+11,
+[]
 ],
 [
 "Duméril's black-headed snake",
-11
-],
+11,
 [
-"Jerdon's many-toothed snake",
-11
+"Jerdon's many-toothed snake"
+]
 ],
 [
 "Western Patch-nosed Snake",
-11
-],
+11,
 [
-"Western Patchnose Snake",
-11
+"Western Patchnose Snake"
+]
 ],
 [
 "Transvaal Quillsnout Snake",
-11
+11,
+[]
 ],
 [
 "Cogger's Sea Snake",
-11
+11,
+[
+"Slender-necked Sea Snake"
+]
 ],
 [
 "Bourret's Odd-scaled Snake",
-11
+11,
+[]
 ],
 [
 "Perrotet's Vine Snake",
-11
-],
+11,
 [
-"Western Ghats Bronzeback",
-11
+"Western Ghats Bronzeback"
+]
 ],
 [
 "Taita Hills Purple-glossed Snake",
-11
-],
+11,
 [
-"Teitana Purple-glossed Snake",
-11
+"Teitana Purple-glossed Snake"
+]
 ],
 [
 "Rodhain's Purple-glossed Snake",
-11
+11,
+[]
 ],
 [
 "Mexican Blind Snake",
-11
+11,
+[]
 ],
 [
 "Two-lined Ground Snake",
-11
+11,
+[]
 ],
 [
 "Bocourt's Ground Snake",
-11
+11,
+[]
 ],
 [
 "Carrion's Ground Snake",
-11
-],
+11,
 [
-"Parker's Ground Snake",
-11
+"Parker's Ground Snake"
+]
 ],
 [
 "Duida Ground Snake",
-11
-],
+11,
 [
-"Venezuela Ground Snake",
-11
+"Venezuela Ground Snake"
+]
 ],
 [
 "Ecuadorean Ground Snake",
-11
+11,
+[]
 ],
 [
 "Emmel's Ground Snake",
-11
+11,
+[]
 ],
 [
 "Filippi's Ground Snake",
-11
+11,
+[]
 ],
 [
 "Modest Ground Snake",
-11
+11,
+[]
 ],
 [
 "Bignose Ground Snake",
-11
+11,
+[]
 ],
 [
 "Western Ground Snake",
-11
+11,
+[]
 ],
 [
 "Little-scaled Ground Snake",
-11
+11,
+[]
 ],
 [
 "Roule's Ground Snake",
-11
+11,
+[]
 ],
 [
 "Striped Ground Snake",
-11
+11,
+[]
 ],
 [
 "Michoacán Centipede Snake",
-11
+11,
+[]
 ],
 [
 "Albany adder",
-11
+11,
+[]
 ],
 [
 "Barnes's cat snake",
-11
+11,
+[]
 ],
 [
 "Inca Forest Pit Viper",
-11
-],
+11,
 [
 "Peru Forest Pit Viper",
-11
-],
-[
-"Peruvian Forest Pit Viper",
-11
+"Peruvian Forest Pit Viper"
+]
 ],
 [
 "Everett's Reed Snake",
-11
+11,
+[]
 ],
 [
 "Prakke's Reed Snake",
-11
+11,
+[]
 ],
 [
 "Eastern Wormsnake",
-11
-],
+11,
 [
-"Eastern Worm Snake",
-11
+"Eastern Worm Snake"
+]
 ],
 [
 "Sand Snake",
-11
-],
+11,
 [
-"Variable Sandsnake",
-11
+"Variable Sandsnake"
+]
 ],
 [
 "Ecuador Sipo",
-11
+11,
+[]
 ],
 [
 "Black-striped Snake",
-11
+11,
+[]
 ],
 [
 "stripeless snake",
-11
+11,
+[]
 ],
 [
 "Freiberg's Blind Snake",
-11
+11,
+[]
 ],
 [
 "Joshua's Blind Snake",
-11
+11,
+[]
 ],
 [
 "Collared snake-eater",
-11
+11,
+[]
 ],
 [
 "Stout Sand Snake",
-11
+11,
+[]
 ],
 [
 "Potosí Centipede Snake",
-11
+11,
+[]
 ],
 [
 "Beddome's black earth snake",
-11
-],
+11,
 [
 "Beddome's Black Earth Snake",
-11
-],
-[
-"Beddome's Black Shieldtail",
-11
+"Beddome's Black Shieldtail"
+]
 ],
 [
 "Horseshoe Pit-viper",
-11
-],
+11,
 [
-"Horseshoe Viper",
-11
+"Horseshoe Viper"
+]
 ],
 [
 "Indian Black Earth Snake",
-11
-],
+11,
 [
-"Wayanad shieldtail",
-11
+"Wayanad shieldtail"
+]
 ],
 [
 "Madurai Shieldtail",
-11
-],
+11,
 [
 "Palni Purple-brown Worm Snake",
-11
-],
-[
-"Travancore Hills Thorntail Snake",
-11
+"Travancore Hills Thorntail Snake"
+]
 ],
 [
 "Northern Triangle-spotted Snake",
-11
+11,
+[]
 ],
 [
 "Striped Centipede Snake",
-11
+11,
+[]
 ],
 [
 "Aru Cylinder Snake",
-11
+11,
+[]
 ],
 [
 "Guerreran Centipede Snake",
-11
+11,
+[]
 ],
 [
 "Briggs' Centipede Snake",
-11
+11,
+[]
 ],
 [
 "Condanarous Sandsnake",
-11
-],
+11,
 [
 "Indo-burmese Sand Snake",
-11
-],
-[
-"Indo-chinese Sand Snake",
-11
+"Indo-chinese Sand Snake"
+]
 ],
 [
 "Black blindsnake",
-11
+11,
+[]
 ],
 [
 "Nilgiri Burrowing Snake",
-11
-],
+11,
 [
 "Perrotet's Burrowing Snake",
-11
-],
-[
-"Perrotet's Sheildtail",
-11
+"Perrotet's Sheildtail"
+]
 ],
 [
 "Rose Blind Snake",
-11
+11,
+[]
 ],
 [
 "Chasen’s Mountain Pitviper",
-11
-],
+11,
 [
 "Kinabalu Brown Pit Viper",
-11
-],
-[
-"Mount Kinabalu Pit Viper",
-11
+"Mount Kinabalu Pit Viper"
+]
 ],
 [
 "Angolan Beaked Thread Snake",
-11
+11,
+[]
 ],
 [
 "Dark Blind Snake",
-11
+11,
+[]
 ],
 [
 "Goggle-eyed Worm Snake",
-11
+11,
+[]
 ],
 [
 "Arboreal Blind Snake",
-11
+11,
+[]
 ],
 [
 "Red-lined Blind Snake",
-11
+11,
+[]
 ],
 [
 "Degerbol's Blind Snake",
-11
+11,
+[]
 ],
 [
 "Coral-bellied Wormsnake",
-11
-],
+11,
 [
 "Gunther's Oriental Worm Snake",
-11
-],
-[
-"Rosebelly Worm-eating Snake",
-11
+"Rosebelly Worm-eating Snake"
+]
 ],
 [
 "Melanesia Blindsnake",
-11
+11,
+[]
 ],
 [
 "Santander Blind Snake",
-11
+11,
+[]
 ],
 [
 "Yellowbellied Blindsnake",
-11
+11,
+[]
 ],
 [
 "White-bellied Worm Snake",
-11
+11,
+[]
 ],
 [
 "Smooth Earth Snake",
-11
+11,
+[]
 ],
 [
 "Eleven-striped Blind Snake",
-11
+11,
+[]
 ],
 [
 "Amazon Coastal House Snake",
-11
+11,
+[]
 ],
 [
 "Loyalty Islands Blind Snake",
-11
+11,
+[]
 ],
 [
 "Short-tailed Kukri Snake",
-11
+11,
+[]
 ],
 [
 "Cuming's Blind Snake",
-11
+11,
+[]
 ],
 [
 "Ornate Kukri Snake",
-11
+11,
+[]
 ],
 [
 "Lacroix Kukri Snake",
-11
+11,
+[]
 ],
 [
 "Yucatán Hognose Viper",
-11
+11,
+[]
 ],
 [
 "Yellow-spotted Keelback Water Snake",
-11
+11,
+[]
 ],
 [
 "Manukwari Blind Snake",
-11
+11,
+[]
 ],
 [
 "Black Centipede Snake",
-11
+11,
+[]
 ],
 [
 "Salawati Blindsnake",
-11
+11,
+[]
 ],
 [
 "Bouet’s Worm Snake",
-11
+11,
+[]
 ],
 [
 "Tiburon Peninsula Blindsnake",
-11
+11,
+[]
 ],
 [
 "Mograbin Diadem Snake",
-11
+11,
+[]
 ],
 [
 "Beautiful Bronzeback Tree Snake",
-11
-],
+11,
 [
-"Elegant Bronzeback",
-11
+"Elegant Bronzeback"
+]
 ],
 [
 "Peters' Forest Racer",
-11
+11,
+[]
 ],
 [
 "South American Forest Racer",
-11
+11,
+[]
 ],
 [
 "Marx's Worm Snake",
-11
+11,
+[]
 ],
 [
 "Striped Kukri Snake",
-11
+11,
+[]
 ],
 [
 "Two-colored Snail-eater",
-11
+11,
+[]
 ],
 [
 "Snail-eating Thirst Snake",
-11
+11,
+[]
 ],
 [
 "Lamu Worm Snake",
-11
-],
+11,
 [
-"Manda Flesh-pink Blind Snake",
-11
+"Manda Flesh-pink Blind Snake"
+]
 ],
 [
 "Tschudi's Blind Snake",
-11
+11,
+[]
 ],
 [
 "Mimic False Coral Snake",
-11
+11,
+[]
 ],
 [
 "Dugand's Blind Snake",
-11
+11,
+[]
 ],
 [
 "Caqueta Blind Snake",
-11
+11,
+[]
 ],
 [
 "Orange-naped snake",
-11
+11,
+[]
 ],
 [
 "Chiapas Earth Snake",
-11
+11,
+[]
 ],
 [
 "Keeled Earth Snake",
-11
+11,
+[]
 ],
 [
 "Panamenian Earth Snake",
-11
+11,
+[]
 ],
 [
 "Savage's Earth Snake",
-11
+11,
+[]
 ],
 [
 "Dugès' Earth Snake",
-11
+11,
+[]
 ],
 [
 "Mertens' Earth Snake",
-11
+11,
+[]
 ],
 [
 "Mesa Central Earth Snake",
-11
+11,
+[]
 ],
 [
 "Potosí Earth Snake",
-11
+11,
+[]
 ],
 [
 "Coffee Earth Snake",
-11
+11,
+[]
 ],
 [
 "Rosebelly Earth Snake",
-11
+11,
+[]
 ],
 [
 "Ruthven's Earth Snake",
-11
+11,
+[]
 ],
 [
 "Orange-bellied Snake",
-11
+11,
+[]
 ],
 [
 "Common Ring-neck",
-11
+11,
+[]
 ],
 [
 "Desert Hooknose Snake",
-11
-],
+11,
 [
-"Thornscrub Hook-nosed Snake",
-11
+"Thornscrub Hook-nosed Snake"
+]
 ],
 [
 "Olive Keelback",
-11
+11,
+[]
 ],
 [
 "Philippine Cylindrical Snake",
-11
+11,
+[]
 ],
 [
 "Spotted Harlequin snake",
-11
+11,
+[]
 ],
 [
 "Blackheaded Banded Sea Snake",
-11
-],
+11,
 [
-"Black-headed Sea Snake",
-11
+"Black-headed Sea Snake"
+]
 ],
 [
 "Mcdowell's Sea Snake",
-11
-],
+11,
 [
-"Small-headed Sea Snake",
-11
+"Small-headed Sea Snake"
+]
 ],
 [
 "Confused Coral Snake",
-11
-],
+11,
 [
-"Langsdorff's Coral Snake",
-11
+"Langsdorff's Coral Snake"
+]
 ],
 [
 "Cauca Coral Snake",
-11
+11,
+[]
 ],
 [
 "Barron's Kukri Snake",
-11
+11,
+[]
 ],
 [
 "Angel's Kukri Snake",
-11
+11,
+[]
 ],
 [
 "Ningshaan Kukri Snake",
-11
+11,
+[]
 ],
 [
 "Banded Kukri Snake",
-11
-],
+11,
 [
 "Barred Kukri Snake",
-11
-],
-[
-"Half-Keeled Kukri Snake",
-11
+"Half-Keeled Kukri Snake"
+]
 ],
 [
 "Dark-spined Kukri Snake",
-11
-],
+11,
 [
-"Vertebral Kukri Snake",
-11
+"Vertebral Kukri Snake"
+]
 ],
 [
 "Bleeker's Kukri Snake",
-11
+11,
+[]
 ],
 [
 "Argentina Mousehole Snake",
-11
+11,
+[]
 ],
 [
 "Dwarf sand snake",
-11
+11,
+[]
 ],
 [
 "False Cat-eyed Snake",
-11
+11,
+[]
 ],
 [
 "Dwarf Reed Snake",
-11
+11,
+[]
 ],
 [
 "White-bellied Rat Snake",
-11
+11,
+[]
 ],
 [
 "Brazilian Bird Snake",
-11
+11,
+[]
 ],
 [
 "Ribbon Graceful Brown Snake",
-11
+11,
+[]
 ],
 [
 "Gaige's Pine Forest Snake",
-11
+11,
+[]
 ],
 [
 "Kinkelin Graceful Brown Snake",
-11
+11,
+[]
 ],
 [
 "Tearful Pine-Oak Snake",
-11
+11,
+[]
 ],
 [
 "Common Neckband Snake",
-11
+11,
+[]
 ],
 [
 "Ringed Snail Sucker",
-11
+11,
+[]
 ],
 [
 "Stejneger's Snail Sucker",
-11
+11,
+[]
 ],
 [
 "Boie's Many-Tooth Snake",
-11
-],
+11,
 [
 "Striped Black-headed Snake",
-11
-],
-[
-"Striped Litter Snake",
-11
+"Striped Litter Snake"
+]
 ],
 [
 "Japanese Coral Snake",
-11
+11,
+[]
 ],
 [
 "Common Spotted Night Snake",
-11
+11,
+[]
 ],
 [
 "Muller's Wolf Snake",
-11
+11,
+[]
 ],
 [
 "Mertens' Centipede Snake",
-11
+11,
+[]
 ],
 [
 "Slavens' Centipede Snake",
-11
+11,
+[]
 ],
 [
 "Short-headed Gartersnake",
-11
-],
+11,
 [
-"Shorthead Garter Snake",
-11
+"Shorthead Garter Snake"
+]
 ],
 [
 "Lateral Water Snake",
-11
+11,
+[]
 ],
 [
 "Yellow-striped Water Snake",
-11
+11,
+[]
 ],
 [
 "Barbour's Tropical Ground Snake",
-11
+11,
+[]
 ],
 [
 "Spotted Water Snake",
-11
+11,
+[]
 ],
 [
 "Central African Egg-eating Snake",
-11
-],
+11,
 [
-"Western Forest Eggeater",
-11
+"Western Forest Eggeater"
+]
 ],
 [
 "Villiers' Blind Snake",
-11
+11,
+[]
 ],
 [
 "Smooth-scaled Mountain Rat Snake",
-11
+11,
+[]
 ],
 [
 "Bourret's Cat Snake",
-11
+11,
+[]
 ],
 [
 "Pulau Tioman Ground Snake",
-11
+11,
+[]
 ],
 [
 "Five-striped Snake",
-11
+11,
+[]
 ],
 [
 "Schultze's Pit Viper",
-11
+11,
+[]
 ],
 [
 "Big-eyed ratsnake",
-11
+11,
+[]
 ],
 [
 "Litter Snake",
-11
-],
+11,
 [
-"Reticulate Centipede Snake",
-11
+"Reticulate Centipede Snake"
+]
 ],
 [
 "Baja California Ratsnake",
-11
-],
+11,
 [
-"Baja California Rat Snake",
-11
+"Baja California Rat Snake"
+]
 ],
 [
 "Chocoan Toadheaded Pitviper",
-11
+11,
+[]
 ],
 [
 "Günther's Mountain Snake",
-11
+11,
+[]
 ],
 [
 "Mcnamara's Burrowing Snake",
-11
+11,
+[]
 ],
 [
 "Groove-necked Keel-back",
-11
+11,
+[]
 ],
 [
 "Abor Hills Kukri Snake",
-10
+10,
+[]
 ],
 [
 "White-eyed Keelback",
-10
+10,
+[]
 ],
 [
 "North-western mangrove sea snake",
-10
-],
+10,
 [
-"North-western Mangrove Sea Snake",
-10
+"North-western Mangrove Sea Snake"
+]
 ],
 [
 "Bighead Sea Snake",
-10
+10,
+[]
 ],
 [
 "Peters' Sea Snake",
-10
+10,
+[]
 ],
 [
 "Plain Sea Snake",
-10
+10,
+[]
 ],
 [
 "Collared Sea Snake",
-10
+10,
+[]
 ],
 [
 "Banded Racers",
-10
+10,
+[]
+],
+[
+"King Cobra",
+10,
+[]
 ],
 [
 "Blyth's earth snake",
-10
+10,
+[]
 ],
 [
 "Nguyenvansang's snake",
-10
+10,
+[]
 ],
 [
 "Himalayan Stripe-necked Snake",
-10
+10,
+[]
 ],
 [
 "Petronella's Kukri Snake",
-10
+10,
+[]
 ],
 [
 "Eastern Stripe-bellied sand snake",
-10
+10,
+[]
 ],
 [
 "Nilgiri keelback",
-10
+10,
+[]
 ],
 [
 "Brown Wolf Snake",
-10
-],
+10,
 [
-"Scarce Wolf Snake",
-10
+"Scarce Wolf Snake"
+]
 ],
 [
 "Tarascan Earth Snake",
-10
+10,
+[]
 ],
 [
 "Copper Parrot Snake",
-10
+10,
+[]
 ],
 [
 "Dusky Sea Snake",
-10
-],
+10,
 [
-"Timor Reef Snake",
-10
+"Timor Reef Snake"
+]
 ],
 [
 "Sao Paulo Blind Snake",
-10
+10,
+[]
 ],
 [
 "Mpwapwa Purple-glossed Snake",
-10
+10,
+[]
 ],
 [
 "Malindi Centipede-eater",
-10
+10,
+[]
 ],
 [
 "Desert Cat Snake",
-10
-],
+10,
 [
-"Indian Desert Tiger Snake",
-10
+"Indian Desert Tiger Snake"
+]
 ],
 [
 "Kenya Two-headed Snake",
-10
+10,
+[
+"Two Coloured Snake"
+]
 ],
 [
-"Two Coloured Snake",
-10
+"Mole Viper",
+10,
+[
+"Stiletto Snake",
+"Variable Burrowing Asp"
+]
 ],
 [
 "Large-headed Seasnake",
-10
-],
+10,
 [
-"Pacific Sea Snake",
-10
+"Pacific Sea Snake"
+]
 ],
 [
 "Papuan Death Adder",
-10
-],
+10,
 [
-"Rough-scaled Death Adder",
-10
+"Rough-scaled Death Adder"
+]
 ],
 [
 "Hainan burrowing snake",
-10
-],
+10,
 [
-"Hainan Odd-scaled Snake",
-10
+"Hainan Odd-scaled Snake"
+]
 ],
 [
 "Sichuan Odd-scaled Snake",
-10
+10,
+[]
 ],
 [
 "Rondo Worm Snake",
-10
+10,
+[]
 ],
 [
 "Ecuador Blind Snake",
-10
+10,
+[]
 ],
 [
 "Günther's Island Racer",
-10
+10,
+[]
 ],
 [
 "Müller's Crowned Snake",
-10
-],
+10,
 [
-"Müller's Crown Snake",
-10
+"Müller's Crown Snake"
+]
 ],
 [
 "Cope's Rough-side",
-10
+10,
+[]
 ],
 [
 "Emigdio’s Ground Snake",
-10
+10,
+[]
 ],
 [
 "Indistinct Ground Snake",
-10
+10,
+[]
 ],
 [
 "Lasalle's Ground Snake",
-10
+10,
+[]
 ],
 [
 "Lehmann's Ground Snake",
-10
+10,
+[]
 ],
 [
 "Big Ground Snake",
-10
-],
+10,
 [
-"Brown Ground Snake",
-10
+"Brown Ground Snake"
+]
 ],
 [
 "Marisela's Ground Snake",
-10
+10,
+[]
 ],
 [
 "Blackbelly Ground Snake",
-10
+10,
+[]
 ],
 [
 "Black-ventered Ground Snake",
-10
+10,
+[]
 ],
 [
 "Fat Ground Snake",
-10
+10,
+[]
 ],
 [
 "Hispanic Ground Snake",
-10
+10,
+[]
 ],
 [
 "Peru Ground Snake",
-10
+10,
+[]
 ],
 [
 "St. Marta's Ground Snake",
-10
+10,
+[]
 ],
 [
 "Variegated Ground Snake",
-10
+10,
+[]
 ],
 [
 "Speckled Ground Snake",
-10
+10,
+[]
 ],
 [
 "Gia Lai Reed Snake",
-10
+10,
+[]
 ],
 [
 "Variable Reed Snake",
-10
+10,
+[]
 ],
 [
 "Kapuas Reed Snake",
-10
+10,
+[]
 ],
 [
 "Sang's Reed Snake",
-10
+10,
+[]
 ],
 [
 "Rebentisch's Reed Snake",
-10
+10,
+[]
 ],
 [
 "Sumatran Reed Snake",
-10
+10,
+[]
 ],
 [
 "Boie's Dwarf Snake",
-10
-],
+10,
 [
 "Short-tailed Reed Snake",
-10
-],
-[
-"Southern Worm Snake",
-10
+"Southern Worm Snake"
+]
 ],
 [
 "Two-spotted Snake",
-10
+10,
+[]
 ],
 [
 "Peters' Running Snake",
-10
+10,
+[]
 ],
 [
 "Cuvier's Sheildtail",
-10
-],
+10,
 [
-"Kerala Shieldtail",
-10
+"Kerala Shieldtail"
+]
 ],
 [
 "Peter's Worm Snake",
-10
-],
+10,
 [
-"Samagutin Worm Snake",
-10
+"Samagutin Worm Snake"
+]
 ],
 [
 "Eritrean Blind Snake",
-10
+10,
+[]
 ],
 [
 "Brongersma's Pit Viper",
-10
+10,
+[]
 ],
 [
 "Phipson's Earth Snake",
-10
-],
+10,
 [
 "Phipson's shieldtail",
-10
-],
-[
-"Phipson's Shieldtail",
-10
+"Phipson's Shieldtail"
+]
 ],
 [
 "Günther's Burrowing Snake",
-10
+10,
+[]
 ],
 [
 "Few-scaled Worm Snake",
-10
-],
+10,
 [
-"Wall's Worm Snake",
-10
+"Wall's Worm Snake"
+]
 ],
 [
 "Javanese Blind Snake",
-10
-],
+10,
 [
-"Western Java Worm Snake",
-10
+"Western Java Worm Snake"
+]
 ],
 [
 "Wormlike Beaked Snake",
-10
-],
+10,
 [
-"Zanzibar Gracile Blind-snake",
-10
+"Zanzibar Gracile Blind-snake"
+]
 ],
 [
 "Indian Earth Snake",
-10
-],
+10,
 [
-"Palni Shieldtail",
-10
+"Palni Shieldtail"
+]
 ],
 [
 "Peru Blind Snake",
-10
+10,
+[]
 ],
 [
 "Walnut Kukri Snake",
-10
+10,
+[]
 ],
 [
 "Plain-bellied Watersnake",
-10
-],
+10,
 [
-"Plainbelly Water Snake",
-10
+"Plainbelly Water Snake"
+]
 ],
 [
 "Beddome's Worm Snake",
-10
+10,
+[]
 ],
 [
 "Striated Bronzeback Tree Snake",
-10
-],
-[
-"Olive Marsh Snake",
-10
+10,
+[]
 ],
 [
 "Boulenger's Slug Snake",
-10
+10,
+[]
 ],
 [
 "Leonard's Keelback",
-10
+10,
+[]
 ],
 [
 "Man-Son Mountain Stream Snake",
-10
-],
+10,
 [
-"Tonkin Mountain Keelback",
-10
+"Tonkin Mountain Keelback"
+]
 ],
 [
 "Chihuahuan Desert Lyresnake",
-10
-],
+10,
 [
 "Chihuahuan Lyre Snake",
-10
-],
-[
-"Texas Lyre Snake",
-10
+"Texas Lyre Snake"
+]
 ],
 [
 "Blonde Hognose Snake",
-10
+10,
+[]
 ],
 [
 "Michoacán Slender Blind Snake",
-10
+10,
+[]
 ],
 [
 "Chinese Mountain Keelback",
-10
+10,
+[]
 ],
 [
 "Giant Blind Snake",
-10
+10,
+[]
 ],
 [
 "Costa Rica Blind Snake",
-10
+10,
+[]
 ],
 [
 "Yellowtail Blind Snake",
-10
+10,
+[]
 ],
 [
 "Peters' Earth Snake",
-10
+10,
+[
+"Shieldtail Earth Snake"
+]
 ],
 [
 "Ashambu Sheildtail",
-10
-],
+10,
 [
 "Dark-bordered Earth Snake",
-10
-],
-[
-"Günther's Earth Snake",
-10
+"Günther's Earth Snake"
+]
 ],
 [
 "Jamaican Blindsnake",
-10
-],
+10,
 [
-"Jamaica Worm Snake",
-10
+"Jamaica Worm Snake"
+]
 ],
 [
 "Brown House Snake",
-10
+10,
+[]
 ],
 [
 "Variable Cat Snake",
-10
-],
+10,
 [
-"West African Cat Snake",
-10
+"West African Cat Snake"
+]
 ],
 [
 "Blakeway's Blotch-necked Snake",
-10
+10,
+[]
 ],
 [
 "Sundevall's garter snake",
-10
+10,
+[]
 ],
 [
 "Cuban Khaki Trope",
-10
+10,
+[]
 ],
 [
 "Lake Tanganyika Blind Snake",
-10
-],
+10,
 [
-"Sternfeld's Beaked Snake",
-10
+"Sternfeld's Beaked Snake"
+]
 ],
 [
 "Karl Schmidt's False Cobra",
-10
+10,
+[]
 ],
 [
 "Blackbelly Centipede Snake",
-10
+10,
+[]
 ],
 [
 "Michell's Quill-snouted Snake",
-10
+10,
+[]
 ],
 [
 "Mexican Hooknose Snake",
-10
-],
+10,
 [
-"Tamaulipan Hook-nosed Snake",
-10
+"Tamaulipan Hook-nosed Snake"
+]
 ],
 [
 "Lorentz River Tree Snake",
-10
+10,
+[]
 ],
 [
 "Barahona Peninsula Blindsnake",
-10
+10,
+[]
 ],
 [
 "Bocourt's snake-eater",
-10
+10,
+[]
 ],
 [
 "Gambia Blind Snake",
-10
+10,
+[]
 ],
 [
 "American Snail-eater",
-10
+10,
+[]
 ],
 [
 "Pratt's Snail-eater",
-10
+10,
+[]
 ],
 [
 "Tropical Snail-eater",
-10
+10,
+[]
 ],
 [
 "Temporal Snail-eater",
-10
+10,
+[]
 ],
 [
 "Vermiculate Snail-eater",
-10
+10,
+[]
 ],
 [
 "Esmarald Racer",
-10
+10,
+[]
 ],
 [
 "Mustard-bellied Snake",
-10
-],
+10,
 [
-"Rose-bellied Snake",
-10
+"Rose-bellied Snake"
+]
 ],
 [
 "Günther’s Garter Snake",
-10
+10,
+[]
 ],
 [
 "Pinchinda Snake",
-10
+10,
+[]
 ],
 [
 "Pacific Longtail Snake",
-10
+10,
+[]
 ],
 [
 "Günther's False Coral Snake",
-10
-],
-[
-"False Coral Snake",
-10
+10,
+[]
 ],
 [
 "McDowell’s Blindsnake",
-10
+10,
+[]
 ],
 [
 "Palni Uropeltis",
-10
-],
+10,
 [
-"Woodmason's Earth Snake",
-10
+"Woodmason's Earth Snake"
+]
 ],
 [
 "Cross' Beaked Snake",
-10
+10,
+[]
 ],
 [
 "Mexican Plateau Earth Snake",
-10
+10,
+[]
 ],
 [
 "Betanien Earth Snake",
-10
+10,
+[]
 ],
 [
 "Blanchard's Earth Snake",
-10
+10,
+[]
 ],
 [
 "Colombian Earth Snake",
-10
+10,
+[]
 ],
 [
 "Sierra Juarez Earth Snake",
-10
+10,
+[]
 ],
 [
 "Godman's Earth Snake",
-10
+10,
+[]
 ],
 [
 "Sierra Coalcoman Earth Snake",
-10
+10,
+[]
 ],
 [
 "Isthmian Earth Snake",
-10
+10,
+[]
 ],
 [
 "Michoacán Earth Snake",
-10
+10,
+[]
 ],
 [
 "Highland Earth Snake",
-10
+10,
+[]
 ],
 [
 "Black-banded Earth Snake",
-10
+10,
+[]
 ],
 [
 "Guerreran Earth Snake",
-10
+10,
+[]
 ],
 [
 "Pyburn's Earth Snake",
-10
+10,
+[]
 ],
 [
 "Siebold's Earth Snake",
-10
+10,
+[]
 ],
 [
 "Daniel's Keelback",
-10
+10,
+[]
 ],
 [
 "Black-bellied Swamp Snake",
-10
-],
+10,
 [
 "Marsh Snake",
-10
-],
-[
-"Swamp Snake",
-10
+"Swamp Snake"
+]
 ],
 [
 "Costa Rica Water Snake",
-10
+10,
+[]
 ],
 [
 "Black-banded Sea Snake",
-10
-],
+10,
 [
-"Robust Sea Snake",
-10
+"Robust Sea Snake"
+]
 ],
 [
 "Amazon Water Snake",
-10
+10,
+[
+"False Coral Snake"
+]
 ],
 [
 "Rio Verde Nightsnake",
-10
-],
+10,
 [
-"Tanzer’s Night Snake",
-10
+"Tanzer’s Night Snake"
+]
 ],
 [
 "Rainforest Cat-eyed Snake",
-10
+10,
+[]
 ],
 [
 "Pemba Worm Snake",
-10
+10,
+[]
 ],
 [
 "Indonesian Liopeltine Snake",
-10
-],
+10,
 [
 "Malayan Ringneck",
-10
-],
-[
-"Tricoloured Ringneck",
-10
+"Tricoloured Ringneck"
+]
 ],
 [
 "Daniel's Tropical Racer",
-10
+10,
+[]
 ],
 [
 "Striped Lizard Eater",
-10
+10,
+[]
 ],
 [
 "Peters' Coral Snake",
-10
+10,
+[]
 ],
 [
 "Panamenian Coral Snake",
-10
+10,
+[]
 ],
 [
 "Two-colored Mussurana",
-10
+10,
+[]
 ],
 [
 "Myer's Snake",
-10
+10,
+[]
 ],
 [
 "Ringneck Coffee Snake",
-10
+10,
+[]
 ],
 [
 "Spotted Coffee Snake",
-10
+10,
+[]
 ],
 [
 "Northern Short-headed Snake",
-10
+10,
+[]
 ],
 [
 "Ringed Kukri Snake",
-10
-],
+10,
 [
-"Spotted Kukri Snake",
-10
+"Spotted Kukri Snake"
+]
 ],
 [
 "Small-banded Kukri Snake",
-10
+10,
+[]
 ],
 [
 "Everett's Kukri Snake",
-10
-],
+10,
 [
-"Jewelled Kukri Snake",
-10
+"Jewelled Kukri Snake"
+]
 ],
 [
 "Grey Kukri Snake",
-10
-],
+10,
 [
-"Joynson's Kukri Snake",
-10
+"Joynson's Kukri Snake"
+]
 ],
 [
 "Perkin's Short-headed Snake",
-10
+10,
+[]
 ],
 [
 "Pulau Weh Kukri Snake",
-10
+10,
+[]
 ],
 [
 "Travancore Kukri Snake",
-10
+10,
+[]
 ],
 [
 "Non-banded Philippine Burrowing Snake",
-10
-],
+10,
 [
-"Philippine Shrub Snake",
-10
+"Philippine Shrub Snake"
+]
 ],
 [
 "Banded Philippine Burrowing Snake",
-10
+10,
+[]
 ],
 [
 "Fitzinger's False Coral Snake",
-10
+10,
+[]
 ],
 [
 "Werner's False Coral Snake",
-10
+10,
+[]
 ],
 [
 "Günther's Green Racer",
-10
+10,
+[]
 ],
 [
 "Schmidt's Green Racer",
-10
+10,
+[]
 ],
 [
 "Green water snake",
-10
-],
+10,
 [
-"Southeastern green snake",
-10
+"Southeastern green snake"
+]
 ],
 [
 "Angolan Shovel-snout",
-10
-],
+10,
 [
-"East African Shovel-snout",
-10
+"East African Shovel-snout"
+]
 ],
 [
 "Cross-marked Grass Snake",
-10
-],
+10,
 [
 "Cross-marked Sand Snake",
-10
-],
-[
-"Montane Grass Snake",
-10
+"Montane Grass Snake"
+]
 ],
 [
 "South American Pond Snake",
-10
+10,
+[]
 ],
 [
 "Mountain Burrowing Snake",
-10
+10,
+[]
 ],
 [
 "Dull Bamboo Snake",
-10
+10,
+[]
 ],
 [
 "Small-headed Blind Snake",
-10
+10,
+[]
 ],
 [
 "Red-belled Keelback",
-10
+10,
+[]
 ],
 [
 "Oaxacan Graceful Brown Snake",
-10
+10,
+[]
 ],
 [
 "Thick Graceful Brown Snake",
-10
+10,
+[]
 ],
 [
 "Veracruz Graceful Brown Snake",
-10
+10,
+[]
 ],
 [
 "Forbes' Graceful Brown Snake",
-10
+10,
+[]
 ],
 [
 "Crowned Graceful Brown Snake",
-10
+10,
+[]
 ],
 [
 "MacDougall's Graceful Brown Snake",
-10
+10,
+[]
 ],
 [
 "Marcella's Graceful Brown Snake",
-10
+10,
+[]
 ],
 [
 "Nuevo Leon Graceful Brown Snake",
-10
+10,
+[]
 ],
 [
 "Myers' Graceful Brown Snake",
-10
+10,
+[]
 ],
 [
 "Guerreran Pine Woods Snake",
-10
+10,
+[]
 ],
 [
 "Pueblan Graceful Brown Snake",
-10
+10,
+[]
 ],
 [
 "Sargent's Graceful Brown Snake",
-10
+10,
+[]
 ],
 [
 "Vermiculate Graceful Brown Snake",
-10
-],
-[
-"Square-nosed Snake",
-10
+10,
+[]
 ],
 [
 "Northern Small-eyed Snake",
-10
-],
+10,
 [
-"Western Carpentaria Snake",
-10
+"Western Carpentaria Snake"
+]
 ],
 [
 "Eastern Patch-nosed Snake",
-10
-],
+10,
 [
 "Mountain Patchnose Snake",
-10
-],
-[
-"Texas patch-nosed snake",
-10
+"Texas patch-nosed snake"
+]
 ],
 [
 "Dunn's Snail Sucker",
-10
+10,
+[]
 ],
 [
 "Boulenger's Tree Snake",
-10
+10,
+[]
 ],
 [
 "Yunnan Keelback Water Snake",
-10
+10,
+[]
 ],
 [
 "Guanabara Spotted Night Snake",
-10
+10,
+[]
 ],
 [
 "Worontzow's Spotted Night Snake",
-10
+10,
+[]
 ],
 [
 "Lasalle's Fishing Snake",
-10
+10,
+[]
 ],
 [
 "Peru Slender Snake",
-10
+10,
+[]
 ],
 [
 "Barbour's Centipede Snake",
-10
+10,
+[]
 ],
 [
 "Andes Centipede Snake",
-10
+10,
+[]
 ],
 [
 "Mena's Centipede Snake",
-10
+10,
+[]
 ],
 [
 "Fruhstorfer's Mountain Snake",
-10
+10,
+[]
 ],
 [
 "Roze's Coastal House Snake",
-10
+10,
+[]
 ],
 [
 "Loria Forest Snake",
-10
+10,
+[]
 ],
 [
 "Orangebelly Swamp Snake",
-10
+10,
+[]
 ],
 [
 "Wirot's Pit Viper",
-10
+10,
+[]
 ],
 [
 "Serra Snake",
-10
+10,
+[]
 ],
 [
 "Moluccan Keelback",
-10
+10,
+[]
 ],
 [
 "Ornate Brown Snake",
-10
+10,
+[]
 ],
 [
 "Malayan Brown Snake",
-10
+10,
+[]
 ],
 [
 "Widecollar Earth Snake",
-10
+10,
+[]
 ],
 [
 "Sumatran Palm Pit Viper",
-10
+10,
+[]
 ],
 [
 "Kaulback's Lance-headed Pitviper",
-10
+10,
+[]
 ],
 [
 "Palawan Worm Snake",
-10
+10,
+[]
 ],
 [
 "Jintakune's Kukri Snake",
-10
+10,
+[]
 ],
 [
 "Guatemala Neckband Snake",
-10
+10,
+[]
 ],
 [
 "Pine-Oak Snake",
-10
+10,
+[]
 ],
 [
 "Bamboo False Cobra",
-10
+10,
+[]
 ],
 [
 "Jerdon's Kukri Snake",
-10
+10,
+[]
 ],
 [
 "Sierra Mije Earth Snake",
-10
+10,
+[]
 ],
 [
 "Hoogstraal’s cat snake",
-10
+10,
+[]
 ],
 [
 "Andean Blackback Coral Snake",
-10
+10,
+[]
 ],
 [
 "Vertebral Ground Snake",
-10
+10,
+[]
 ],
 [
 "Bombay earth snake",
-10
-],
+10,
 [
 "Bombay Earth Snake",
-10
-],
-[
-"Large-scaled Earth Snake",
-10
+"Large-scaled Earth Snake"
+]
 ],
 [
 "Philippi’s Snail-Eating Snake",
-10
+10,
+[]
 ],
 [
 "Cope's Snail Sucker",
-10
+10,
+[]
 ],
 [
 "Three Horned-scaled Pitviper",
-10
+10,
+[]
 ],
 [
 "Big Bend Black-headed Snake",
-10
+10,
+[]
 ],
 [
 "Zong's Odd-scaled Snake",
-10
+10,
+[]
 ],
 [
 "Boo-Liat's Kukri Snake",
-10
+10,
+[]
 ],
 [
 "Bolivian Burrowing Snake",
-10
+10,
+[]
 ],
 [
 "Common Graceful Brown Snake",
-10
+10,
+[]
 ],
 [
 "Desert viper",
-9
+9,
+[]
 ],
 [
 "Scarce Bridal Snake",
-9
+9,
+[]
 ],
 [
 "Glossy Snakes",
-9
+9,
+[]
 ],
 [
 "Java Tubercle Snake",
-9
+9,
+[]
 ],
 [
 "Solomons Coral Snake",
-9
+9,
+[
+"Solomons Red Krait"
+]
 ],
 [
 "Forsten’s Pointed Snakes",
-9
+9,
+[]
 ],
 [
 "Scarlet Snakes",
-9
+9,
+[]
 ],
 [
 "Dunn's Road Guarder",
-9
+9,
+[]
 ],
 [
 "Bougainville Coral Snake",
-9
-],
+9,
 [
-"Solomons Red Krait",
-9
+"Bougainvillian Coral Snake",
+"Hediger’s Coral Snake"
+]
 ],
 [
 "Solomons Black-banded krait",
-9
-],
+9,
 [
-"Solomon’s Small-eyed Snake",
-9
-],
-[
-"Bougainvillian Coral Snake",
-9
-],
-[
-"Hediger’s Coral Snake",
-9
-],
-[
-"Lined snake",
-9
-],
-[
-"Lined Snake",
-9
-],
-[
-"Eyed Kukri Snake",
-9
-],
-[
-"Ocellated Kukri Snake",
-9
-],
-[
-"Brazos River Watersnake",
-9
-],
-[
-"Brazos Watersnake",
-9
-],
-[
-"Brazos Water Snake",
-9
-],
-[
-"Saint Lucia racer",
-9
-],
-[
-"Seychelles House Snake",
-9
-],
-[
-"Smith's Mountain Keelback",
-9
-],
-[
-"Spencer’s Stream Snake",
-9
-],
-[
-"Tortuga Island Rattlesnake",
-9
-],
-[
-"Concho Watersnake",
-9
-],
-[
-"Concho Water Snake",
-9
-],
-[
-"Colombo Wolf Snake",
-9
-],
-[
-"Flowerly Wolf Snake",
-9
-],
-[
-"Fine-spined Sea Snake",
-9
-],
-[
-"Stuart's Burrowing Snake",
-9
-],
-[
-"Blanford’s Blind-snake",
-9
-],
-[
-"Gierra's Blind Snake",
-9
-],
-[
-"Usambara Spotted Worm Snake",
-9
-],
-[
-"Schmidt's blind snake",
-9
-],
-[
-"Arafura Sea Snake",
-9
-],
-[
-"Brown-lined Sea Snake",
-9
-],
-[
-"Mexican Snake Eater",
-9
-],
-[
-"Boie's rough-sided snake",
-9
-],
-[
-"Drummond-Hay's rough-sided snake",
-9
-],
-[
-"Gunther's rough-sided snake",
-9
-],
-[
-"Smooth Slug-eating Snake",
-9
-],
-[
-"Smooth Slug Snake",
-9
-],
-[
-"Mountain Slug-eating Snake",
-9
-],
-[
-"Brougham's Earth Snake",
-9
-],
-[
-"Linnaeus's Reed Snake",
-9
-],
-[
-"Cuban Lesser Racer",
-9
-],
-[
-"Equatorial Mussurana",
-9
-],
-[
-"Bhola Nath's Racer",
-9
-],
-[
-"Nagarjuna Racer",
-9
-],
-[
-"Sharma's Racer",
-9
-],
-[
-"Michoacán Striped Snake",
-9
-],
-[
-"Uluguru Gracile Blind-snake",
-9
-],
-[
-"Uluguru Worm Snake",
-9
+"Solomon’s Small-eyed Snake"
+]
 ],
 [
 "Beaked Blind Snake",
-9
+9,
+[
+"Lowland Beaked blindsnake"
+]
 ],
 [
-"Lowland Beaked blindsnake",
-9
+"Lined snake",
+9,
+[
+"Lined Snake"
+]
+],
+[
+"Eyed Kukri Snake",
+9,
+[
+"Ocellated Kukri Snake"
+]
+],
+[
+"Brazos River Watersnake",
+9,
+[
+"Brazos Watersnake",
+"Brazos Water Snake"
+]
+],
+[
+"Saint Lucia racer",
+9,
+[]
+],
+[
+"Seychelles House Snake",
+9,
+[]
+],
+[
+"Smith's Mountain Keelback",
+9,
+[
+"Spencer’s Stream Snake"
+]
+],
+[
+"Tortuga Island Rattlesnake",
+9,
+[]
+],
+[
+"Concho Watersnake",
+9,
+[
+"Concho Water Snake"
+]
+],
+[
+"Colombo Wolf Snake",
+9,
+[
+"Flowerly Wolf Snake"
+]
+],
+[
+"Fine-spined Sea Snake",
+9,
+[]
+],
+[
+"Stuart's Burrowing Snake",
+9,
+[]
+],
+[
+"Blanford’s Blind-snake",
+9,
+[]
+],
+[
+"Gierra's Blind Snake",
+9,
+[
+"Usambara Spotted Worm Snake"
+]
+],
+[
+"Schmidt's blind snake",
+9,
+[]
+],
+[
+"Arafura Sea Snake",
+9,
+[
+"Brown-lined Sea Snake"
+]
+],
+[
+"Mexican Snake Eater",
+9,
+[]
+],
+[
+"Boie's rough-sided snake",
+9,
+[]
+],
+[
+"Drummond-Hay's rough-sided snake",
+9,
+[]
+],
+[
+"Gunther's rough-sided snake",
+9,
+[]
+],
+[
+"Smooth Slug-eating Snake",
+9,
+[
+"Smooth Slug Snake"
+]
+],
+[
+"Mountain Slug-eating Snake",
+9,
+[]
+],
+[
+"Brougham's Earth Snake",
+9,
+[]
+],
+[
+"Linnaeus's Reed Snake",
+9,
+[]
+],
+[
+"Cuban Lesser Racer",
+9,
+[]
+],
+[
+"Equatorial Mussurana",
+9,
+[]
+],
+[
+"Bhola Nath's Racer",
+9,
+[
+"Nagarjuna Racer",
+"Sharma's Racer"
+]
+],
+[
+"Michoacán Striped Snake",
+9,
+[]
+],
+[
+"Uluguru Gracile Blind-snake",
+9,
+[
+"Uluguru Worm Snake"
+]
 ],
 [
 "Flower's Blind Snake",
-9
-],
+9,
 [
-"Flower's Worm Snake",
-9
+"Flower's Worm Snake"
+]
 ],
 [
 "Drummond-hay's Earth Snake",
-9
+9,
+[]
 ],
 [
 "Daudin's Sea Snake",
-9
+9,
+[]
 ],
 [
 "Namsang Kukri Snake",
-9
-],
+9,
 [
-"Red-striped Kukri Snake",
-9
+"Red-striped Kukri Snake"
+]
 ],
 [
 "Southern Triangle-spotted Snake",
-9
+9,
+[]
 ],
 [
 "Engkari Pipe Snake",
-9
+9,
+[]
 ],
 [
 "Sichuan Mountain Keelback",
-9
+9,
+[]
 ],
 [
 "Cardamom Hills Earth Snake",
-9
+9,
+[]
 ],
 [
 "Maxwell's Mountain Keelback",
-9
+9,
+[]
 ],
 [
 "Kerala Burrowing Snake",
-9
+9,
+[]
 ],
 [
 "Gunther's Sea Snake",
-9
+9,
+[]
 ],
 [
 "Zaw's Wolf Snake",
-9
+9,
+[]
 ],
 [
 "Chapa Mountain Keelback",
-9
-],
+9,
 [
-"Jacob's Stream Snake",
-9
+"Jacob's Stream Snake"
+]
 ],
 [
 "Gunther's Shieldtail",
-9
-],
+9,
 [
 "Madura Earth Snake",
-9
-],
-[
-"Tinevelly Uropeltis",
-9
+"Tinevelly Uropeltis"
+]
 ],
 [
 "Schneider's Earth Snake",
-9
-],
+9,
 [
-"Schneider’s Shieldtail",
-9
+"Schneider’s Shieldtail"
+]
 ],
 [
 "Australian Myron",
-9
-],
+9,
 [
+"Gray's Water Snake",
 "Richardson's Freshwater Snake",
-9
-],
-[
 "Richardson's Grey Mangrove Snake",
-9
-],
-[
 "Richardson's Mangrove Snake",
-9
-],
-[
-"Tree-striped Myron",
-9
-],
-[
-"Shieldtail Earth Snake",
-9
+"Tree-striped Myron"
+]
 ],
 [
 "Soosan Viper",
-9
+9,
+[]
 ],
 [
 "Bahamian Slender Blindsnake",
-9
+9,
+[]
 ],
 [
 "Gray's earth snake",
-9
+9,
+[]
 ],
 [
 "Chilean Slender Snake",
-9
+9,
+[]
 ],
 [
 "Cardamom Mountains Wolf Snake",
-9
+9,
+[]
 ],
 [
 "Dusky-bellied Water Snake",
-9
+9,
+[]
 ],
 [
 "Hoffstetter's Worm Snake",
-9
+9,
+[]
 ],
 [
 "Guinea Snake-eater",
-9
+9,
+[]
 ],
 [
 "Reinhardt's Snake-eater",
-9
+9,
+[]
 ],
 [
 "Hellmich's Wolf Snake",
-9
-],
+9,
 [
-"Kaokoveld Wolf Snake",
-9
+"Kaokoveld Wolf Snake"
+]
 ],
 [
 "Giri's Bronzeback Tree Snake",
-9
+9,
+[]
 ],
 [
 "Montane Treesnake",
-9
-],
+9,
 [
-"Spotted-Bellied Treesnake",
-9
+"Spotted-Bellied Treesnake"
+]
 ],
 [
 "Nganson Bronzeback Tree Snake",
-9
+9,
+[]
 ],
 [
 "Cope's Forest Racer",
-9
+9,
+[]
 ],
 [
 "Chanard's Mud Snake",
-9
-],
+9,
 [
-"Sind River Snake",
-9
+"Sind River Snake"
+]
 ],
 [
 "Beddome's Uropeltis",
-9
-],
+9,
 [
-"Red-spotted Earth Snake",
-9
+"Red-spotted Earth Snake"
+]
 ],
 [
 "Günther's Many-tooth Snake",
-9
-],
+9,
 [
-"Pegu Black-headed Snake",
-9
+"Pegu Black-headed Snake"
+]
 ],
 [
 "Fred Parkers Blindsnake",
-9
+9,
+[]
 ],
 [
 "Island Worm Snake",
-9
+9,
+[]
 ],
 [
 "Colombian Frog-eating Snake",
-9
+9,
+[]
 ],
 [
 "Peru Snail-eater",
-9
-],
+9,
 [
-"Peruvian Thirst Snake",
-9
+"Peruvian Thirst Snake"
+]
 ],
 [
 "Taylor's Snail-eater",
-9
+9,
+[]
 ],
 [
 "Bocourt's Snail-eater",
-9
+9,
+[]
 ],
 [
 "Master's Snake",
-9
+9,
+[]
 ],
 [
 "Common Slug-eater",
-9
-],
+9,
 [
 "South African Slug-eater",
-9
-],
-[
 "Spotted Slug-eater",
-9
-],
-[
-"Variegated Slug-eater",
-9
+"Variegated Slug-eater"
+]
 ],
 [
 "Boulenger's garter snake",
-9
+9,
+[]
+],
+[
+"False Coral Snake",
+9,
+[]
 ],
 [
 "Hallowell's Centipede Snake",
-9
+9,
+[]
 ],
 [
 "Nilgiri Hills Worm Snake",
-9
-],
+9,
 [
-"Tindall's Worm Snake",
-9
+"Tindall's Worm Snake"
+]
 ],
 [
 "Shreve's Keelback",
-9
+9,
+[]
 ],
 [
 "Hoge's Keelback",
-9
-],
+9,
 [
-"Ladder Keelback",
-9
+"Ladder Keelback"
+]
 ],
 [
 "Yellow-spotted Water Snake",
-9
+9,
+[]
 ],
 [
 "Kinabalu Water Snake",
-9
+9,
+[]
 ],
 [
 "Dunn's Water Snake",
-9
+9,
+[]
 ],
 [
 "Black Racer",
-9
-],
+9,
 [
-"Jamaican Racer",
-9
+"Jamaican Racer"
+]
 ],
 [
 "Plain Tree Snake",
-9
-],
+9,
 [
 "Speckled Blunt-headed Tree Snake",
-9
-],
-[
 "Western Tree Snake",
-9
-],
-[
-"Yellow Blunt-headed Tree Snake",
-9
+"Yellow Blunt-headed Tree Snake"
+]
 ],
 [
 "Black-banded Cat-eyed Snake",
-9
+9,
+[]
 ],
 [
 "Western Cat-eyed Snake",
-9
+9,
+[]
 ],
 [
 "Oliver's Parrot Snake",
-9
+9,
+[]
 ],
 [
 "Howell’s Worm Snake",
-9
+9,
+[]
 ],
 [
 "Mount Kenya Worm Snake",
-9
+9,
+[]
 ],
 [
 "Butler's Wolf Snake",
-9
+9,
+[]
 ],
 [
 "Tanganyika Water Snake",
-9
+9,
+[]
 ],
 [
 "Chan-ard Mountain Reed Snake",
-9
+9,
+[]
 ],
 [
 "Genting Highlands Reed Snake",
-9
+9,
+[]
 ],
 [
 "Jason's Reed Snake",
-9
+9,
+[]
 ],
 [
 "Malayan Mountain Reed Snake",
-9
-],
+9,
 [
-"Striped Reed Snake",
-9
+"Striped Reed Snake"
+]
 ],
 [
 "Schulz's Reed Snake",
-9
+9,
+[]
 ],
 [
 "Tweedie's Reed Snake",
-9
+9,
+[]
 ],
 [
 "Vogel's Reed Snake",
-9
+9,
+[]
 ],
 [
 "Heath's Tropical Racer",
-9
+9,
+[]
 ],
 [
 "Tana Delta Smooth Snake",
-9
+9,
+[]
 ],
 [
 "Black-headed Smooth Snake",
-9
+9,
+[]
 ],
 [
 "Espinal's Coffee Snake",
-9
+9,
+[]
 ],
 [
 "Cope's Coffee Snake",
-9
+9,
+[]
 ],
 [
 "Pegu Kukri Snake",
-9
+9,
+[]
 ],
 [
 "Forbes' Kukri Snake",
-9
+9,
+[]
 ],
 [
 "Inornate Kukri Snake",
-9
+9,
+[]
 ],
 [
 "Arakan Kukri Snake",
-9
-],
+9,
 [
-"McDougall's Kukri Snake",
-9
+"McDougall's Kukri Snake"
+]
 ],
 [
 "Sulu Short-headed Snake",
-9
+9,
+[]
 ],
 [
 "Wagner’s kukri Snake",
-9
+9,
+[]
 ],
 [
 "Guanxi Mountain Keelback",
-9
+9,
+[]
 ],
 [
 "Mountain Reed Snake",
-9
+9,
+[]
 ],
 [
 "Boulenger's False Coral Snake",
-9
+9,
+[]
 ],
 [
 "Dumeril's Diadem Snake",
-9
+9,
+[]
 ],
 [
 "Jan's Green Racer",
-9
+9,
+[]
 ],
 [
 "Banded Pampas Snake",
-9
+9,
+[]
 ],
 [
 "Spotted Leaf-nosed Snake",
-9
-],
+9,
 [
-"Spotted Leafnose Snake",
-9
+"Spotted Leafnose Snake"
+]
 ],
 [
 "Flowered racer",
-9
-],
+9,
 [
 "Flower's Racer",
-9
-],
-[
 "Flower's Whip Snake",
-9
-],
-[
-"Geoffroy's Racer",
-9
+"Geoffroy's Racer"
+]
 ],
 [
 "Rogers' Racer",
-9
+9,
+[]
 ],
 [
 "Mocquard's Reed Snake",
-9
+9,
+[]
 ],
 [
 "Zamboanga Burrowing Snake",
-9
+9,
+[]
 ],
 [
 "White-collared Reed Snake",
-9
+9,
+[]
 ],
 [
 "Eiselt's Dwarf Reed Snake",
-9
+9,
+[]
 ],
 [
 "Negros Light-scaled Burrowing Snake",
-9
+9,
+[]
 ],
 [
 "Taylor's Burrowing Snake",
-9
+9,
+[]
 ],
 [
 "Night Brook Snake",
-9
+9,
+[]
 ],
 [
 "Wide Ground Snake",
-9
+9,
+[]
 ],
 [
 "Sulawesi Black Racer",
-9
+9,
+[]
 ],
 [
 "Zigzag-lined Water Snake",
-9
+9,
+[]
 ],
 [
 "Dunn's Saphenophis Snake",
-9
+9,
+[]
 ],
 [
 "Atahuallpa Saphenophis Snake",
-9
+9,
+[]
 ],
 [
 "Triangled Black-headed Snake",
-9
+9,
+[]
 ],
 [
 "Bornean Black Snake",
-9
+9,
+[]
 ],
 [
 "Bismark Ground Snake",
-9
+9,
+[]
 ],
 [
 "Slender Snake",
-9
+9,
+[]
 ],
 [
 "Red Earth Centipede Snake",
-9
+9,
+[]
 ],
 [
 "Black Tree Snake",
-9
-],
+9,
 [
-"Western Black Tree Snake",
-9
+"Western Black Tree Snake"
+]
 ],
 [
 "Schmidt’s Bold-eyed Tree Snake",
-9
+9,
+[]
 ],
 [
 "Mt Rossel Forest Snake",
-9
+9,
+[]
 ],
 [
 "Misima Island Forest Snake",
-9
+9,
+[]
 ],
 [
 "Spotted Forest Snake",
-9
+9,
+[]
 ],
 [
 "Mocquard's Swamp Snake",
-9
+9,
+[]
 ],
 [
 "Striped Swamp Snake",
-9
+9,
+[]
 ],
 [
 "Günther's Tropical Ground Snake",
-9
+9,
+[]
 ],
 [
 "Cope's Tropical Ground Snake",
-9
+9,
+[]
 ],
 [
 "Dunn's Tropical Ground Snake",
-9
+9,
+[]
 ],
 [
 "Slevin's Tropical Ground Snake",
-9
+9,
+[]
 ],
 [
 "Viquez's Tropical Ground Snake",
-9
+9,
+[]
 ],
 [
 "Mexican Lyre Snake",
-9
+9,
+[]
 ],
 [
 "Fischer’s Snail-Eating Snake",
-9
+9,
+[]
 ],
 [
 "Bornean Keeled Green Pit Viper",
-9
-],
+9,
 [
-"North Philippine Temple Pitviper",
-9
+"North Philippine Temple Pitviper"
+]
 ],
 [
 "East Papuan Keelback",
-9
+9,
+[]
 ],
 [
 "New Britain Keelback",
-9
+9,
+[]
 ],
 [
 "Bismark Keelback",
-9
+9,
+[]
 ],
 [
 "Northern New Guinea Keelback",
-9
+9,
+[]
 ],
 [
 "North Irian Montane Keelback",
-9
+9,
+[]
 ],
 [
 "Many-scaled Keelback",
-9
+9,
+[]
 ],
 [
 "New Guinea Keelback",
-9
+9,
+[]
 ],
 [
 "Highland Keelback",
-9
-],
+9,
 [
-"Parker's Keelback",
-9
+"Parker's Keelback"
+]
 ],
 [
 "Painted Keelback",
-9
+9,
+[]
 ],
 [
 "Halmahera Keelback",
-9
+9,
+[]
 ],
 [
 "Papua New Guinea Montane Keelback",
-9
+9,
+[]
 ],
 [
 "Pilbara Bandy Bandy",
-9
+9,
+[]
 ],
 [
 "Burmese Keelback Water Snake",
-9
+9,
+[]
 ],
 [
 "Schäfer's Spiny-jawed Snake",
-9
+9,
+[]
 ],
 [
 "Captain's Wood Snake",
-9
+9,
+[]
 ],
 [
 "Brazilian Woodland Racer",
-9
+9,
+[]
 ],
 [
 "Half-Banded Bridled Snake",
-9
-],
+9,
 [
 "Malayan Bridal Snake",
-9
-],
-[
-"Southern Bridle Snake",
-9
+"Southern Bridle Snake"
+]
 ],
 [
 "Ranawana’s golden cat snake",
-9
+9,
+[]
 ],
 [
 "Orange-lipped Keelback",
-9
+9,
+[]
 ],
 [
 "Sahara racer",
-9
+9,
+[]
 ],
 [
 "Pemba Gracile Blind-snake",
-9
+9,
+[]
 ],
 [
 "Mexican Longtail Snake",
-9
+9,
+[]
 ],
 [
 "Forest Racer",
-9
+9,
+[]
 ],
 [
 "West Coast Black-headed Sea Snake",
-9
+9,
+[]
 ],
 [
 "Zanzibar Beaked Snake",
-9
+9,
+[]
 ],
 [
 "Cambodian Kukri Snake",
-9
-],
+9,
 [
-"Mouhot’s Kukri Snake",
-9
+"Mouhot’s Kukri Snake"
+]
 ],
 [
 "Ivory Coast Snake-eater",
-9
-],
+9,
 [
-"Neuwied’s Polemon",
-9
+"Neuwied’s Polemon"
+]
 ],
 [
 "Nilgiri Uropeltis",
-9
-],
+9,
 [
 "Ocellated Earth Snake",
-9
-],
-[
-"Ocellate Shield Tail",
-9
+"Ocellate Shield Tail"
+]
 ],
 [
 "Tonkin Pit Viper",
-9
+9,
+[]
 ],
 [
 "North-western shovel-nosed snake",
-9
+9,
+[]
 ],
 [
 "Negros Island Blind Snake",
-9
-],
+9,
 [
-"Negros Island Worm Snake",
-9
+"Negros Island Worm Snake"
+]
 ],
 [
 "Mountain Dwarf Snake",
-9
+9,
+[]
 ],
 [
 "Barred Short-headed Snake",
-9
+9,
+[]
 ],
 [
 "Baram False Cobra",
-9
+9,
+[]
 ],
 [
 "Aden Black-headed Snake",
-9
+9,
+[]
 ],
 [
 "Mbanja Worm Snake",
-9
+9,
+[]
 ],
 [
 "Leopard Dwarf Boa",
-8
-],
+8,
 [
-"Spotted Brown Trope",
-8
+"Spotted Brown Trope"
+]
 ],
 [
 "Usambara Vine Snake",
-8
+8,
+[]
 ],
 [
 "Black-ringed Sea Snake",
-8
-],
+8,
 [
-"Port Darwin Sea Snake",
-8
+"Port Darwin Sea Snake"
+]
 ],
 [
 "Bombay Sea Snake",
-8
+8,
+[]
 ],
 [
 "Rough Coffee Snake",
-8
+8,
+[]
 ],
 [
 "Florida brown snake",
-8
+8,
+[]
 ],
 [
 "Cape File Snake",
-8
+8,
+[
+"Common File Snake"
+]
 ],
 [
 "Small-Scaled Burrowing Asp",
-8
+8,
+[]
 ],
 [
 "Somali Garter Snake",
-8
-],
+8,
 [
-"Southern Somali Garter Snake",
-8
-],
-[
-"Stiletto Snake",
-8
-],
-[
-"Variable Burrowing Asp",
-8
+"Southern Somali Garter Snake"
+]
 ],
 [
 "Black Odd-scaled Snake",
-8
+8,
+[]
 ],
 [
 "Striped crayfish snake",
-8
+8,
+[]
 ],
 [
 "Striped Crown Snake",
-8
+8,
+[]
 ],
 [
 "Malayan Slug-eating Snake",
-8
-],
+8,
 [
-"Malayan Slug Snake",
-8
+"Malayan Slug Snake"
+]
 ],
 [
 "Limitan Ground Snake",
-8
+8,
+[]
 ],
 [
 "Neckband Ground Snake",
-8
+8,
+[]
 ],
 [
 "Schultz' Blunt-headed Tree Snake",
-8
+8,
+[]
 ],
 [
 "Palau bevelnosed boa",
-8
-],
+8,
 [
-"Palau Bevel-nosed Boa",
-8
+"Palau Bevel-nosed Boa"
+]
 ],
 [
 "Beaked Worm Snake",
-8
+8,
+[]
 ],
 [
 "Moluccan Flying Snake",
-8
+8,
+[]
 ],
 [
 "Yucatan Neotropical Rattlesnake",
-8
+8,
+[]
 ],
 [
 "Léopoldville Beaked Snake",
-8
+8,
+[]
 ],
 [
 "Anaimalai Reddish-brown Worm Snake",
-8
-],
+8,
 [
-"Lined Thorntail Snake",
-8
+"Lined Thorntail Snake"
+]
 ],
 [
 "Lined Pipe Snake",
-8
+8,
+[]
 ],
 [
 "Tamil Nadu Earth Snake",
-8
-],
+8,
 [
 "Travancore Earth Snake",
-8
-],
-[
-"Travancore Sheildtail",
-8
+"Travancore Sheildtail"
+]
 ],
 [
 "Olive Forest Snake",
-8
-],
+8,
 [
 "Olive trapezoid snake",
-8
-],
-[
-"Olive Trapezoid Snake",
-8
+"Olive Trapezoid Snake"
+]
 ],
 [
 "Javanese Pit Viper",
-8
+8,
+[]
 ],
 [
 "Peter's earth snake",
-8
+8,
+[]
 ],
 [
 "Mamberamo River Water Snake",
-8
-],
+8,
 [
-"Mamberano River Watersnake",
-8
+"Mamberano River Watersnake"
+]
 ],
 [
 "Beddome's Earth Snake",
-8
+8,
+[]
 ],
 [
 "Three-lined Centipede Snake",
-8
+8,
+[]
 ],
 [
 "Southern Brown Egg-eater",
-8
+8,
+[]
 ],
 [
 "Annam Keelback",
-8
+8,
+[]
 ],
 [
 "Barred Sheildtail",
-8
-],
+8,
 [
-"Boulenger's Earth Snake",
-8
+"Boulenger's Earth Snake"
+]
 ],
 [
 "Pygmy Wolf Snake",
-8
+8,
+[]
 ],
 [
 "Collared Whip Snake",
-8
+8,
+[]
 ],
 [
 "Sawtooth-necked Bronzeback",
-8
+8,
+[]
 ],
 [
 "Underwood's Bronzeback Tree Snake",
-8
+8,
+[]
 ],
 [
 "Barred Forest Racer",
-8
+8,
+[]
 ],
 [
 "Three-Banded Bridled Snake",
-8
+8,
+[]
 ],
 [
 "Black Garter Snake",
-8
-],
+8,
 [
 "Usambara garter snake",
-8
-],
-[
-"Usambara Garter Snake",
-8
+"Usambara Garter Snake"
+]
 ],
 [
 "Mertens' Tropical Forest Snake",
-8
+8,
+[]
 ],
 [
 "Pyburn's Tropical Forest Snake",
-8
+8,
+[]
 ],
 [
 "St. Thomas' Beaked Snake",
-8
+8,
+[]
 ],
 [
 "Hoffmann's Earth Snake",
-8
+8,
+[]
 ],
 [
 "Red Earth Snake",
-8
+8,
+[]
 ],
 [
 "Sallae's Earth Snake",
-8
+8,
+[]
 ],
 [
 "Matschie's African Ground Snake",
-8
+8,
+[]
 ],
 [
 "Eastern Bark Snake",
-8
-],
+8,
 [
-"Northern Bark Snake",
-8
+"Northern Bark Snake"
+]
 ],
 [
 "Estuarine Sea Snake",
-8
+8,
+[]
 ],
 [
 "Blunt-headed Vine Snake",
-8
-],
+8,
 [
-"Phantasma Tree Snake",
-8
+"Phantasma Tree Snake"
+]
 ],
 [
 "Forest Night Snake",
-8
+8,
+[]
 ],
 [
 "Southwestern Cat-eyed Snake",
-8
+8,
+[]
 ],
 [
 "Splendid Cat-eyed Snake",
-8
+8,
+[]
 ],
 [
 "Peters' bright snake",
-8
-],
+8,
 [
-"Peters' Bright Snake",
-8
+"Peters' Bright Snake"
+]
 ],
 [
 "Gold-collared Snake",
-8
+8,
+[]
 ],
 [
 "Jaeger's Ground Snake",
-8
+8,
+[]
 ],
 [
 "Ross' Wolf Snake",
-8
+8,
+[]
 ],
 [
 "Gongshan Wolf Snake",
-8
+8,
+[]
 ],
 [
 "Kundu's Wolf Snake",
-8
+8,
+[]
 ],
 [
 "Rendahl's Wolf Snake",
-8
+8,
+[]
 ],
 [
 "Boehme’s Wolf Snake",
-8
+8,
+[]
 ],
 [
 "Manila Wolf Snake",
-8
-],
+8,
 [
-"Rare Wolf Snake",
-8
+"Rare Wolf Snake"
+]
 ],
 [
 "Eastern Wolf Snake",
-8
-],
+8,
 [
-"Mozambique Wolf Snake",
-8
+"Mozambique Wolf Snake"
+]
 ],
 [
 "Baloch Awl-headed Sand Snake",
-8
-],
+8,
 [
-"Maynard's Longnose Sand Snake",
-8
+"Maynard's Longnose Sand Snake"
+]
 ],
 [
 "Catamayo Coral Snake",
-8
+8,
+[]
 ],
 [
 "Roux-Estève’s Worm Snake",
-8
+8,
+[]
 ],
 [
 "Collared Marsh-Snake",
-8
+8,
+[
+"Marsh Snake"
+]
 ],
 [
 "Gary's Mountain Keelback",
-8
+8,
+[]
 ],
 [
 "Zayuan Mountain Pit Viper",
-8
+8,
+[]
 ],
 [
 "Barred Slug-eating Snake",
-8
+8,
+[]
 ],
 [
 "Common Bush Snake",
-8
-],
+8,
 [
+"Green Tree Snake",
 "Irregular Green Snake",
-8
-],
-[
-"Northern Green Bush Snake",
-8
+"Northern Green Bush Snake"
+]
 ],
 [
 "Alemán's Snail-eater",
-8
+8,
+[]
 ],
 [
 "Multi-scaled Shovel-snout",
-8
-],
+8,
 [
-"Pitman's Shovelsnout Snake",
-8
+"Pitman's Shovelsnout Snake"
+]
 ],
 [
 "Paraná False Boa",
-8
+8,
+[]
 ],
 [
 "False Tomodon Snake",
-8
+8,
+[]
 ],
 [
 "Angel's Keelback",
-8
+8,
+[]
 ],
 [
 "White-lined Water Snake",
-8
+8,
+[]
 ],
 [
 "Black-barred Keelback",
-8
+8,
+[]
 ],
 [
 "Gunung Murud Keelback",
-8
-],
+8,
 [
-"Muruden Keelback",
-8
+"Muruden Keelback"
+]
 ],
 [
 "Brokencollar Graceful Brown Snake",
-8
+8,
+[]
 ],
 [
 "White-striped Snake",
-8
+8,
+[]
 ],
 [
 "Coastal Burrowing Snake",
-8
-],
+8,
 [
-"West Coast Banded Snake",
-8
+"West Coast Banded Snake"
+]
 ],
 [
 "Kellog's Coral Snake",
-8
+8,
+[]
 ],
 [
 "Zebra Snake",
-8
+8,
+[]
 ],
 [
 "Three-banded Centipede Snake",
-8
+8,
+[]
 ],
 [
 "Sichuan Hot-Spring Keelback",
-8
+8,
+[]
 ],
 [
 "Setekwa River Forest Snake",
-8
+8,
+[]
 ],
 [
 "Fergusson Island Forest Snake",
-8
-],
+8,
 [
-"Woodlark Island Forest Snake",
-8
+"Woodlark Island Forest Snake"
+]
 ],
 [
 "Preuss’s Forest Snake",
-8
+8,
+[]
 ],
 [
 "Sirumalai Hills Earth Snake",
-8
+8,
+[]
 ],
 [
 "Yucatecan cantil",
-8
+8,
+[]
 ],
 [
 "Sumatran Mud Snake",
-8
-],
+8,
 [
-"White-spotted Water Snake",
-8
+"White-spotted Water Snake"
+]
 ],
 [
 "Swahili Gracile Blind-snake",
-8
+8,
+[]
 ],
 [
 "Dao Van Tien's Stream Snake",
-8
+8,
+[]
 ],
 [
 "Kalimantan Sea Snake",
-8
+8,
+[]
 ],
 [
-"Common File Snake",
-8
+"Orsini's Viper",
+8,
+[]
 ],
 [
 "Striped Brook Snake",
-8
+8,
+[]
 ],
 [
 "Striped Skaapsteker",
-8
-],
+8,
 [
-"Three-lined Grass Snake",
-8
+"Three-lined Grass Snake"
+]
 ],
 [
 "Vanzolini's Ground Snake",
-8
+8,
+[]
 ],
 [
 "Stadelman's Graceful Brown Snake",
-7
+7,
+[]
 ],
 [
 "Boettger's worm snake",
-7
+7,
+[]
 ],
 [
 "Coral Pipesnake",
-7
+7,
+[]
 ],
 [
 "Socotran Racers",
-7
+7,
+[]
 ],
 [
 "Long-nose Snake",
-7
+7,
+[]
 ],
 [
 "Kunming Kukri Snake",
-7
+7,
+[]
 ],
 [
 "Taiwan Mountain Pitviper",
-7
+7,
+[]
 ],
 [
 "San Francisco garter snake",
-7
+7,
+[]
 ],
 [
 "Chapa Flat-nosed Snake",
-7
+7,
+[]
 ],
 [
 "Mocquard's worm snake",
-7
+7,
+[]
 ],
 [
 "Yucatecan Worm Snake",
-7
+7,
+[]
 ],
 [
 "Shaw's dark ground snake",
-7
+7,
+[]
 ],
 [
 "Haas's Bronzeback Tree Snake",
-7
+7,
+[]
 ],
 [
 "Angel's Mountain Keelback",
-7
-],
+7,
 [
-"Brown Stream Snake",
-7
+"Brown Stream Snake"
+]
 ],
 [
 "White-headed Blind Snake",
-7
+7,
+[]
 ],
 [
 "Pied worm snake",
-7
+7,
+[]
 ],
 [
 "Kakamega Blind-snake",
-7
+7,
+[]
 ],
 [
 "Kenyan Dwarf Blind-snake",
-7
+7,
+[]
 ],
 [
 "Liwale Blind-snake",
-7
+7,
+[]
 ],
 [
 "Boomsong’s stream snake",
-7
+7,
+[]
 ],
 [
 "Sahelian Burrowing Asp",
-7
+7,
+[]
 ],
 [
 "Bolivian Ground Snake",
-7
+7,
+[]
 ],
 [
 "Boettger's Ground Snake",
-7
+7,
+[]
 ],
 [
 "One-banded Ground Snake",
-7
+7,
+[]
 ],
 [
 "Uluguru Forest Snake",
-7
+7,
+[]
 ],
 [
 "Parker's worm snake",
-7
+7,
+[]
 ],
 [
 "Madagascar worm snake",
-7
+7,
+[]
 ],
 [
 "South American Sipo",
-7
+7,
+[]
 ],
 [
 "dark-spined blind snake",
-7
+7,
+[]
 ],
 [
 "Boulenger's Forest Snake",
-7
+7,
+[]
 ],
 [
 "False Habu",
-7
-],
+7,
 [
-"Red Keelback",
-7
+"Red Keelback"
+]
 ],
 [
 "Mona Blind Snake",
-7
+7,
+[]
 ],
 [
 "Many-banded Green Snake",
-7
+7,
+[]
 ],
 [
 "Solomons Tree Snake",
-7
+7,
+[]
 ],
 [
 "Slender Forest-Racer",
-7
-],
+7,
 [
-"West-Ecuadorian Forest-Racer",
-7
+"West-Ecuadorian Forest-Racer"
+]
 ],
 [
 "Margarita Indigo Snake",
-7
+7,
+[]
 ],
 [
 "Zoige Ratsnake",
-7
+7,
+[]
 ],
 [
 "Black Blind Snake",
-7
+7,
+[]
 ],
 [
 "Puerto Rican Coastal Blindsnake",
-7
+7,
+[]
 ],
 [
 "Stanley's Slug Snake",
-7
+7,
+[]
 ],
 [
 "Bearded snake",
-7
-],
+7,
 [
-"Kloss's Rough Water Snake",
-7
+"Kloss's Rough Water Snake"
+]
 ],
 [
 "Veracruz Earth Snake",
-7
+7,
+[]
 ],
 [
 "Mesa del Sur Earth Snake",
-7
+7,
+[]
 ],
 [
 "Coral Earth Snake",
-7
+7,
+[]
 ],
 [
 "Savanna Lesser File Snake",
-7
+7,
+[]
 ],
 [
 "Equatorial Keelback",
-7
+7,
+[]
 ],
 [
 "Keller's bark snake",
-7
+7,
+[]
 ],
 [
 "Desert Nightsnake",
-7
-],
+7,
 [
-"Desert Night Snake",
-7
+"Desert Night Snake"
+]
 ],
 [
 "Yellow-lipped Sea Snake",
-7
+7,
+[]
 ],
 [
 "Uribe's False Cat-eyed Snake",
-7
+7,
+[]
 ],
 [
 "Madagascar Three-lined Snake",
-7
+7,
+[]
 ],
 [
 "Velvety Swamp Snake",
-7
+7,
+[]
 ],
 [
 "Grandidier's water snake",
-7
-],
+7,
 [
-"Grandidier's Water Snake",
-7
+"Grandidier's Water Snake"
+]
 ],
 [
 "Six-lined Water Snake",
-7
+7,
+[]
 ],
 [
 "Whyte's Water Snake",
-7
+7,
+[]
 ],
 [
 "Forest Wolf Snake",
-7
-],
+7,
 [
-"Ornate Wolf Snake",
-7
+"Ornate Wolf Snake"
+]
 ],
 [
 "Trinidad Northern Coral Snake",
-7
+7,
+[]
 ],
 [
 "Annam Kukri Snake",
-7
+7,
+[]
 ],
 [
 "Morice's Kukri Snake",
-7
+7,
+[]
 ],
 [
 "Javanese Stream Snake",
-7
-],
+7,
 [
-"Sumatran Stream Snake",
-7
+"Sumatran Stream Snake"
+]
 ],
 [
 "Bibron's False Coral Snake",
-7
+7,
+[]
 ],
 [
 "Xiaoheishan Slug-eater Snake",
-7
-],
+7,
 [
-"Xiaoheishan Slug-eating Snake",
-7
+"Xiaoheishan Slug-eating Snake"
+]
 ],
 [
 "Variable Racer",
-7
-],
+7,
 [
-"Variable Snake",
-7
+"Variable Snake"
+]
 ],
 [
 "Jan's Shoval-snout",
-7
-],
+7,
 [
-"Mozambique Shovel-snout",
-7
+"Mozambique Shovel-snout"
+]
 ],
 [
 "Indo-Chinese Sand Snake",
-7
+7,
+[]
 ],
 [
 "Plateau Brook Snake",
-7
+7,
+[]
 ],
 [
 "Beck’s Blind Snake",
-7
+7,
+[]
 ],
 [
 "Red Beaked Snake",
-7
-],
+7,
 [
-"Red-spotted Beaked Snake",
-7
+"Red-spotted Beaked Snake"
+]
 ],
 [
 "Black-headed Collared Snake",
-7
-],
+7,
 [
 "Malayan Many-tooth Snake",
-7
-],
-[
-"White-lipped Black-headed Snake",
-7
+"White-lipped Black-headed Snake"
+]
 ],
 [
 "Barat Bamboo Pitviper",
-7
+7,
+[]
 ],
 [
 "Yunnan Mountain Snake",
-7
+7,
+[]
 ],
 [
 "Lined Water Snake",
-7
+7,
+[]
 ],
 [
 "Dwarf Wolf Snake",
-7
+7,
+[]
 ],
 [
 "Ornate Shovel-snout",
-7
+7,
+[]
 ],
 [
 "Anamalai wood snake",
-7
+7,
+[]
 ],
 [
-"Black racer",
-6
+"Malabar pit viper",
+6,
+[]
 ],
 [
-"Mexican Burrowing Python",
-6
-],
-[
-"Blunt-head Slug Snake",
-6
-],
-[
-"Boomslang",
-6
-],
-[
-"Black-collared Snake",
-6
-],
-[
-"Lowland Swamp Viper",
-6
-],
-[
-"Tehuantepec Striped Snakes",
-6
-],
-[
-"Black-banded Trinket Snakes",
-6
-],
-[
-"Rinkhal",
-6
-],
-[
-"Enggano Rat Snake",
-6
-],
-[
-"Grenada Bank Blindsnake",
-6
-],
-[
-"Grenada Worm Snake",
-6
-],
-[
-"Stejneger's Beaked Snake",
-6
-],
-[
-"Kanara Burrowing Snake",
-6
-],
-[
-"Karnataka Burrowing Snake",
-6
-],
-[
-"Sand Worm Snake",
-6
-],
-[
-"Narrow-headed whipsnake",
-6
-],
-[
-"Papuan Treesnake",
-6
-],
-[
-"Dark Head Dwarf-racer",
-6
-],
-[
-"Tay Minh Water Snake",
-6
-],
-[
-"Tay Ninh Mud Snake",
-6
-],
-[
-"Longhead Water Snake",
-6
-],
-[
-"Longtailed Mud Snake",
-6
-],
-[
-"Tonlé Sap Water Snake",
-6
-],
-[
-"Bangkok Mud Snake",
-6
-],
-[
-"Jagor's Water Snake",
-6
-],
-[
-"Mekong Mud Snake",
-6
-],
-[
-"Black File Snake",
-6
-],
-[
-"Deuve's Water Snake",
-6
-],
-[
-"Snake-Eater Wolf Snake",
-6
-],
-[
-"Yemen Blind Snake",
-6
-],
-[
-"Eberhardt's Kukri Snake",
-6
-],
-[
-"False Striped Kukri Snake",
-6
-],
-[
-"Saint Giron's Kukri Snake",
-6
-],
-[
-"Cuc's Mountain Snake",
-6
-],
-[
-"Tam Dao Stream Snake",
-6
-],
-[
-"Corrugated Water Snake",
-6
-],
-[
-"Olive Mountain Keelback",
-6
-],
-[
-"Ghana Shovel-snout",
-6
-],
-[
-"Speckled Shovel-snout Snake",
-6
-],
-[
-"Mao-Lan Pit Viper",
-6
-],
-[
-"Trungkhanh pit viper",
-6
-],
-[
-"Trungkhanh Pit Viper",
-6
+"Western Coral Snake",
+6,
+[]
 ],
 [
 "Boulenger's Slender Snake",
-6
+6,
+[]
+],
+[
+"Black racer",
+6,
+[]
+],
+[
+"Mexican Burrowing Python",
+6,
+[]
+],
+[
+"Blunt-head Slug Snake",
+6,
+[]
+],
+[
+"Boomslang",
+6,
+[]
+],
+[
+"Black-collared Snake",
+6,
+[]
+],
+[
+"Crab-eating Water Snake",
+6,
+[]
+],
+[
+"Lowland Swamp Viper",
+6,
+[]
+],
+[
+"Tehuantepec Striped Snakes",
+6,
+[]
+],
+[
+"Black-banded Trinket Snakes",
+6,
+[]
+],
+[
+"Rinkhal",
+6,
+[]
+],
+[
+"Enggano Rat Snake",
+6,
+[]
+],
+[
+"Grenada Bank Blindsnake",
+6,
+[
+"Grenada Worm Snake"
+]
+],
+[
+"Stejneger's Beaked Snake",
+6,
+[]
+],
+[
+"Kanara Burrowing Snake",
+6,
+[
+"Karnataka Burrowing Snake"
+]
+],
+[
+"Sand Worm Snake",
+6,
+[]
+],
+[
+"Narrow-headed whipsnake",
+6,
+[]
+],
+[
+"Papuan Treesnake",
+6,
+[]
+],
+[
+"Dark Head Dwarf-racer",
+6,
+[]
+],
+[
+"Tay Minh Water Snake",
+6,
+[
+"Tay Ninh Mud Snake"
+]
+],
+[
+"Longhead Water Snake",
+6,
+[
+"Longtailed Mud Snake",
+"Tonlé Sap Water Snake"
+]
+],
+[
+"Bangkok Mud Snake",
+6,
+[
+"Jagor's Water Snake"
+]
+],
+[
+"Mekong Mud Snake",
+6,
+[
+"Striped Water Snake"
+]
+],
+[
+"Deuve's Water Snake",
+6,
+[]
+],
+[
+"Snake-Eater Wolf Snake",
+6,
+[]
+],
+[
+"Yemen Blind Snake",
+6,
+[]
+],
+[
+"Eberhardt's Kukri Snake",
+6,
+[]
+],
+[
+"False Striped Kukri Snake",
+6,
+[]
+],
+[
+"Saint Giron's Kukri Snake",
+6,
+[]
+],
+[
+"Cuc's Mountain Snake",
+6,
+[]
+],
+[
+"Tam Dao Stream Snake",
+6,
+[]
+],
+[
+"Corrugated Water Snake",
+6,
+[
+"Olive Mountain Keelback"
+]
+],
+[
+"Ghana Shovel-snout",
+6,
+[
+"Speckled Shovel-snout Snake"
+]
+],
+[
+"East African Shovel-snout",
+6,
+[]
+],
+[
+"Mao-Lan Pit Viper",
+6,
+[]
+],
+[
+"Trungkhanh pit viper",
+6,
+[
+"Trungkhanh Pit Viper"
+]
 ],
 [
 "Central American Lyre Snake",
-6
+6,
+[]
 ],
 [
 "Bicatenate Uropeltis",
-6
-],
+6,
 [
-"Two-chained Uropeltis",
-6
+"Two-chained Uropeltis"
+]
 ],
 [
 "Smith's Earth Snake",
-6
+6,
+[]
 ],
 [
 "Durheim's Kukri Snake",
-6
+6,
+[]
 ],
 [
 "Black file snake",
-6
+6,
+[
+"Black File Snake"
+]
 ],
 [
 "Wall's Sind Krait",
-6
+6,
+[]
 ],
 [
 "Hunan odd-scaled snake",
-5
+5,
+[]
 ],
 [
 "Oaxacan Dwarf Boa",
-5
+5,
+[]
 ],
 [
 "Many-spotted Snake",
-5
+5,
+[]
 ],
 [
 "Ladder Snakes",
-5
+5,
+[]
 ],
 [
 "Schouteden's Sun Snake",
-5
+5,
+[]
 ],
 [
 "Werner's Ornate Snake",
-5
+5,
+[]
 ],
 [
 "Mexican Short-tailed Snake",
-5
+5,
+[]
 ],
 [
 "Schlegel's Golden Snake",
-5
+5,
+[]
 ],
 [
 "Sumatra Etheridge Snakes",
-5
+5,
+[]
 ],
 [
 "Williamson's Reed Snakes",
-5
+5,
+[]
 ],
 [
 "Ringneck Snakes",
-5
+5,
+[]
 ],
 [
 "Graceful Mountain Snake",
-5
+5,
+[]
+],
+[
+"Port Darwin Sea Snake",
+5,
+[]
 ],
 [
 "Ridgehead Snake",
-5
+5,
+[]
 ],
 [
 "Solomon's Small-eyed Snake",
-5
+5,
+[]
 ],
 [
 "Malayan Brown Pit Viper",
-5
+5,
+[]
 ],
 [
 "Comoro Worm Snake",
-5
+5,
+[]
 ],
 [
 "Reuters Blind Snake",
-5
+5,
+[]
 ],
 [
 "Arabian Small-Scaled Burrowing Asp",
-5
+5,
+[]
 ],
 [
 "Australian Bokadam",
-5
-],
+5,
 [
-"Australian Rockadam",
-5
+"Australian Rockadam"
+]
 ],
 [
 "Conrad's Worm Snake",
-5
+5,
+[]
 ],
 [
 "Hampton's Green Snake",
-5
+5,
+[]
 ],
 [
 "Smith's Rough Water Snake",
-5
+5,
+[]
+],
+[
+"Black File Snake",
+5,
+[]
 ],
 [
 "Luding Kukri Snake",
-5
+5,
+[]
 ],
 [
 "Kanara burrowing snake",
-5
-],
+5,
 [
-"Karnataka burrowing snake",
-5
+"Karnataka burrowing snake"
+]
 ],
 [
 "Dominican blind snake",
-5
+5,
+[]
 ],
 [
 "Gumprecht's Pit Viper",
-5
+5,
+[]
 ],
 [
 "Southern Sharpnose Snake",
-5
+5,
+[]
 ],
 [
 "Huaping wolf snake",
-5
+5,
+[]
 ],
 [
 "Mexican west coast boa constrictor",
-4
+4,
+[]
 ],
 [
 "Western Snail-Eating Snake",
-4
+4,
+[]
 ],
 [
 "Mêdog Himalayas Keelback",
-4
+4,
+[]
 ],
 [
 "Western Ribbon Coral snake",
-4
+4,
+[]
 ],
 [
 "Asian Pipe Snakes",
-4
+4,
+[]
 ],
 [
 "Madagascar Burrowing Snake",
-4
+4,
+[]
 ],
 [
 "Western Keeled Snake",
-4
+4,
+[]
 ],
 [
 "Deharveng's Blind Snake",
-4
+4,
+[]
 ],
 [
 "Cameroon Racer",
-4
+4,
+[]
+],
+[
+"Keel-bellied Water Snake",
+4,
+[]
 ],
 [
 "Revoil's Short Snake",
-4
+4,
+[]
 ],
 [
 "Sri Lankan Keelback Blossom Krait",
-4
+4,
+[]
+],
+[
+"Kirtland's Snake",
+4,
+[]
 ],
 [
 "Dagger-toothed Vine Snake",
-4
+4,
+[]
+],
+[
+"Indian Egg-eating Snake",
+4,
+[]
 ],
 [
 "Hallberg's Cloud Forest Snake",
-4
+4,
+[]
 ],
 [
 "Rhinoceros Snake",
-4
+4,
+[]
 ],
 [
 "False Hook-nosed Snakes",
-4
+4,
+[]
 ],
 [
 "File Snakes",
-4
+4,
+[]
 ],
 [
 "Mamberano River Water Snake",
-4
+4,
+[]
 ],
 [
 "Striped Lowland Snakes",
-4
+4,
+[]
 ],
 [
 "Wanghaoting's Krait",
-4
+4,
+[]
 ],
 [
 "Ferania",
-4
-],
+4,
 [
 "Siebold's Mud Snake",
-4
-],
-[
 "Siebold's Smooth-water Snake",
-4
-],
-[
-"Siebold's Water Snake",
-4
+"Siebold's Water Snake"
+]
 ],
 [
 "Bocourt's Water Snake",
-4
+4,
+[]
 ],
 [
 "Samar Blind Snake",
-4
+4,
+[]
 ],
 [
 "Blue-necked Keelback",
-4
+4,
+[]
 ],
 [
 "Stolickza's Stream Snake",
-4
+4,
+[]
 ],
 [
 "File Worm Snake",
-4
+4,
+[]
 ],
 [
 "Grant's worm snake",
-4
+4,
+[]
 ],
 [
 "Puerto Rican coastal blind snake",
-4
+4,
+[]
 ],
 [
 "Cayman Brac blind snake",
-4
+4,
+[]
 ],
 [
 "Big-eyed Green Pitviper",
-4
-],
+4,
 [
 "Kramer's Pit Viper",
-4
-],
-[
-"Large-eyed Pit Viper",
-4
+"Large-eyed Pit Viper"
+]
 ],
 [
 "St. Johann's Tree Snake",
-4
+4,
+[]
 ],
 [
 "Neotropical Whip Snake",
-4
+4,
+[]
 ],
 [
 "Sonoran Whipsnake",
-4
+4,
+[]
 ],
 [
 "St. Lucian boa",
-4
+4,
+[]
 ],
 [
 "Hispaniolan Vineboa",
-3
+3,
+[]
 ],
 [
 "Turpan Basin sand snake",
-3
-],
+3,
 [
 "Turpan Basin snake",
-3
-],
-[
-"Turpan sand snake",
-3
+"Turpan sand snake"
+]
 ],
 [
 "Colombian rainbow boa",
-3
+3,
+[]
 ],
 [
 "Lydia’s Little Snake",
-3
+3,
+[]
 ],
 [
 "Yellow whip snake",
-3
+3,
+[]
 ],
 [
 "Dark Whipsnake",
-3
-],
+3,
 [
 "Dark Whip Snake",
-3
-],
-[
 "Indochinese Long Nosed Vine Snake",
-3
-],
-[
-"Indochinese Long-nosed Whipsnake",
-3
+"Indochinese Long-nosed Whipsnake"
+]
 ],
 [
 "H'mong keelback snake",
-3
+3,
+[]
 ],
 [
 "Peruvian Rainbow Boa",
-3
+3,
+[]
 ],
 [
 "Günther's Black Snake",
-3
+3,
+[]
 ],
 [
 "African Big-head Snake",
-3
+3,
+[]
 ],
 [
 "Hanitsch's Reed Snake",
-3
+3,
+[]
 ],
 [
 "Bluebelly Java Snake",
-3
+3,
+[]
 ],
 [
 "Seychelles Wolf Snakes",
-3
+3,
+[]
 ],
 [
 "Sao Paulo Sharp Snake",
-3
+3,
+[]
 ],
 [
 "Oaxacan Cat-eyed Snake",
-3
+3,
+[]
+],
+[
+"Round Island Ground Boa",
+3,
+[]
 ],
 [
 "Cameroon Rainforest Snake",
-3
+3,
+[]
 ],
 [
 "Dwarf Beaded Snake",
-3
+3,
+[]
 ],
 [
 "Hensel's Snake",
-3
+3,
+[]
 ],
 [
 "Columbian Longtail Snake",
-3
+3,
+[]
 ],
 [
 "Northwestern Mangrove Sea Snake",
-3
+3,
+[]
 ],
 [
 "Fanged Water Snake",
-3
+3,
+[]
 ],
 [
 "Mole Snake",
-3
+3,
+[]
 ],
 [
 "Vietnamese Water Snake",
-3
+3,
+[]
 ],
 [
 "Ruby-eyed Green Pitviper",
-3
+3,
+[]
+],
+[
+"Gerard's Water Snake",
+3,
+[]
 ],
 [
 "Brazilian Burrowing Snakes",
-3
+3,
+[]
 ],
 [
 "Ihering's Snake",
-3
+3,
+[]
 ],
 [
 "Guyana Blackback Coral Snake",
-3
+3,
+[]
 ],
 [
 "Vietnamese Large-toothed Snake",
-3
+3,
+[]
 ],
 [
 "Indian Water Snake",
-3
-],
+3,
 [
 "Selangor Mud Snake",
-3
-],
-[
-"West Malaysia Water Snake",
-3
+"West Malaysia Water Snake"
+]
 ],
 [
 "eastern yellow-bellied racer",
-3
+3,
+[]
 ],
 [
 "Sind saw-scaled viper",
-3
+3,
+[]
 ],
 [
 "Dinagat Island Banded Coralsnake",
-3
+3,
+[]
 ],
 [
 "Brazilian Rainbow Boa",
-3
+3,
+[]
+],
+[
+"Espirito Santo Rainbow Boa",
+2,
+[]
+],
+[
+"Ningshan Odd-scaled Snake",
+2,
+[]
+],
+[
+"Dabie Mountains Odd‑scaled Snake",
+2,
+[]
+],
+[
+"Chinese Moccasin",
+2,
+[]
+],
+[
+"Jan's Snake",
+2,
+[]
+],
+[
+"Cream-spotted Mountain Snake",
+2,
+[]
+],
+[
+"Black Swamp Snakes",
+2,
+[]
+],
+[
+"Rainbow Tree Snakes",
+2,
+[]
+],
+[
+"Proximus Blind Snake",
+2,
+[
+"Woodland Blind Snake"
+]
+],
+[
+"Atlantic Bushmaster",
+2,
+[]
+],
+[
+"Kinabalu Green Pit Viper",
+2,
+[]
+],
+[
+"Sabah Pit Viper",
+2,
+[]
+],
+[
+"Redi's Viper",
+2,
+[]
+],
+[
+"Marie-Galante Boa",
+1,
+[]
+],
+[
+"Virgin Island Tree Boa",
+1,
+[]
+],
+[
+"Haitian Ground Snake",
+1,
+[]
+],
+[
+"Large Shieldtail Snake",
+1,
+[]
+],
+[
+"Pale-headed Blind Snake",
+1,
+[]
+],
+[
+"Kimberley Shallow-soil Blind Snake",
+1,
+[]
+],
+[
+"Persian Rat Snake",
+1,
+[]
+],
+[
+"Gimlett's Reed Snake",
+1,
+[]
+],
+[
+"Iranian mountain steppe viper",
+1,
+[
+"Iranian Mountain Steppe Viper"
+]
+],
+[
+"Miyara’s dwarf snake",
+1,
+[
+"Miyara's reed snake"
+]
+],
+[
+"Central Texas whipsnake",
+1,
+[]
+],
+[
+"Yonaguni keeled ratsnake",
+1,
+[
+"Yonaguni musk snake"
+]
+],
+[
+"Kuatun Keelback",
+1,
+[]
+],
+[
+"Bella Rat Snake",
+1,
+[
+"Dice-like Trinket Snake"
+]
+],
+[
+"Elegant Racer",
+1,
+[
+"Elegant Whip Snake"
+]
+],
+[
+"Bornean Palm Pit Viper",
+1,
+[]
+],
+[
+"Asiatic water snake",
+1,
+[
+"Asiatic Water Snake",
+"Diamond-backed Water Snake"
+]
+],
+[
+"Banded Watersnake",
+1,
+[
+"Banded Water Snake"
+]
+],
+[
+"Sunda Island Pitviper",
+1,
+[
+"White-lipped Island Pitviper"
+]
+],
+[
+"Common watersnake",
+1,
+[
+"Northern water snake",
+"Northern watersnake"
+]
+],
+[
+"Western Australian Carpet Python",
+1,
+[]
+],
+[
+"Bornean blue coral snake",
+0,
+[]
+],
+[
+"Coachwhip",
+0,
+[]
+],
+[
+"Interior Blind Snake",
+0,
+[]
+],
+[
+"Truong Son Pit Viper",
+0,
+[]
+],
+[
+"Two-striped Keelback",
+0,
+[]
+],
+[
+"Hooked thread snake",
+0,
+[]
+],
+[
+"Sinai Banded Racer",
+0,
+[
+"Sinai Banded Snake",
+"Sinai Racer"
+]
+],
+[
+"Red-banded snake",
+0,
+[]
+],
+[
+"Turks Islands boa",
+0,
+[]
+],
+[
+"Mountain Keelback",
+0,
+[
+"Tonkin Keelback"
+]
+],
+[
+"Sulawesi Keelback",
+0,
+[]
+],
+[
+"Andrea's Keelback",
+0,
+[]
+],
+[
+"Mona Island boa",
+0,
+[]
+],
+[
+"Moellendorff's trinket snake",
+0,
+[
+"Moellendorff's Trinket Snake"
+]
+],
+[
+"Lake Cronin snake",
+0,
+[
+"Lake Cronin Snake"
+]
+],
+[
+"Stripe-tailed ratsnake",
+0,
+[]
+],
+[
+"Mandarin ratsnake",
+0,
+[]
+],
+[
+"Saint Lucia wormsnake",
+0,
+[]
+],
+[
+"Jan's worm snake",
+0,
+[]
+],
+[
+"Ceylon wolf snake",
+0,
+[]
+],
+[
+"Russell's viper",
+0,
+[]
+],
+[
+"Ceylon keelback",
+0,
+[]
+],
+[
+"Almeda Striped Racer",
+0,
+[
+"California Whipsnake",
+"Striped Racer"
+]
+],
+[
+"Yunnan Olive Keelback",
+0,
+[]
+],
+[
+"Collared Blind Snake",
+0,
+[]
+],
+[
+"Sind River Mud Snake",
+0,
+[
+"Sind River Snake"
+]
+],
+[
+"Gabou File Snake",
+0,
+[]
+],
+[
+"Eastern Tiger Snake",
+0,
+[]
+],
+[
+"Sumatra Pit Viper",
+0,
+[]
+],
+[
+"Vogel's Pit Viper",
+0,
+[]
+],
+[
+"Sumatran Green Pit Viper",
+0,
+[]
+],
+[
+"Cyprus Whip Snake",
+0,
+[
+"Zypern-schlanknatter"
+]
+],
+[
+"Unbanded Shovel-nosed Snake",
+0,
+[]
+],
+[
+"Green Trinket Snake",
+0,
+[]
+],
+[
+"Viperine sea snake",
+0,
+[
+"Viperine Sea Snake"
+]
+],
+[
+"Kapuas Mud Snake",
+0,
+[]
+],
+[
+"Northern Mexican garter snake",
+0,
+[]
+],
+[
+"Koekkoek's Blind Snake",
+0,
+[]
 ]
 ]

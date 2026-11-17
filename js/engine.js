@@ -87,7 +87,12 @@
   }
 
   // Shorthands people type, mapped to one spelling on both sides.
-  var TOKEN_SYNONYMS = { st: "saint", ste: "sainte", mt: "mount", mtn: "mountain", ft: "fort", n: "and", vs: "versus", dr: "doctor", jr: "junior", sr: "senior", "1st": "first", "2nd": "second", "3rd": "third" };
+  var TOKEN_SYNONYMS = { st: "saint", ste: "sainte", mt: "mount", mtn: "mountain", ft: "fort", n: "and", vs: "versus", v: "versus", dr: "doctor", jr: "junior", sr: "senior", "1st": "first", "2nd": "second", "3rd": "third" };
+  // Number words become digits, so "Crazy Eights" = "Crazy 8s" and "Phase Ten" = "Phase 10" ("MX-5" = "mx5").
+  ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve"].forEach(function (w, i) {
+    TOKEN_SYNONYMS[w] = String(i);
+    TOKEN_SYNONYMS[w + (w.slice(-1) === "x" ? "es" : "s")] = i + "s";
+  });
 
   function normalize(raw) {
     var s = stripDiacritics(String(raw || "")).toLowerCase();
@@ -228,7 +233,10 @@
         var core = stripGeneric(norm, g);
         // "Beer Soup" may be typed as "beer soup", not as just "beer".
         if (a.extra && core !== norm.replace(/ /g, "") && isCommon(stripTokens(norm, g))) core = null;
-        [core, sortedKey(norm)].forEach(function (k) {
+        var sk = sortedKey(norm);
+        // reordered words must not spell an everyday word ("Fast Break" -> "breakfast")
+        if (sk && isCommon(sk)) sk = null;
+        [core, sk].forEach(function (k) {
           if (k && k.length >= 3 && !(k in map) && !(k in alt)) alt[k] = i;
         });
       });
@@ -268,6 +276,12 @@
       for (var i = 0; i < vs.length; i++) {
         var a = keyAnswer(idx, vs[i]);
         // Plural/singular folding never turns a real word into a generated answer ("sales" -> Sal).
+        // An everyday word typed alone ("using", "breakfast") doesn't match a generated name that only
+        // spells it when its parts are joined ("U-Sing", "Fast Break"); typing the name as written does.
+        if (a && a.extra && tk[j] === tk[0] && normalize(raw).indexOf(" ") === -1 && isCommon(normalize(raw)) &&
+            !a.aliases.some(function (n) { return normalize(n).indexOf(" ") === -1 && compact(n) === vs[i]; })) {
+          continue;
+        }
         if (a && a.extra && i > 0) {
           if (common === null) common = isCommon(normalize(raw));
           if (common) continue;
@@ -372,6 +386,42 @@
    *   force: true when time ran out, or typo checking is off; any close match is accepted
    * Returns { status: "accepted" | "duplicate" | "correction" | "rejected" | "empty", answer?, to?, corrected? }
    */
+  // Extra words around a real answer: "Ford Focus" when only "Focus" is listed, "red Corvette",
+  // "Neenach Volcano". Also one word left out of a longer name: "chicken masala" for
+  // "Chicken Tikka Masala" (asks first, since the shorter name may be a different thing).
+  function partial(prompt, raw) {
+    var idx = indexFor(prompt);
+    var words = normalize(raw).split(" ").filter(Boolean);
+    if (words.length < 2) return null;
+    var tryKey = function (ws) {
+      var k = ws.join("");
+      if (k.length < 3) return null;
+      var a = keyAnswer(idx, k);
+      if (!a) {
+        var vs = variants(k);
+        for (var i = 1; i < vs.length && !a; i++) a = keyAnswer(idx, vs[i]);
+      }
+      return a;
+    };
+    for (var cut = 1; cut <= Math.min(2, words.length - 1); cut++) {
+      var a = tryKey(words.slice(cut)) || tryKey(words.slice(0, words.length - cut));
+      if (a && !(a.extra && isCommon(words.slice(cut).join(" ")))) return { answer: a, sure: true };
+    }
+    // one word missing from the middle of a multi-word answer
+    if (words.length >= 2) {
+      var want = words.join(" ");
+      for (var j = 0; j < idx.answers.length; j++) {
+        var ans = idx.answers[j];
+        var tw = normalize(ans.name).split(" ");
+        if (tw.length !== words.length + 1) continue;
+        for (var m = 1; m < tw.length - 1; m++) {
+          if (tw.slice(0, m).concat(tw.slice(m + 1)).join(" ") === want) return { answer: ans, sure: false };
+        }
+      }
+    }
+    return null;
+  }
+
   function judge(prompt, raw, found, force) {
     var text = String(raw || "").trim();
     if (!compact(text)) return { status: "empty" };
@@ -387,6 +437,12 @@
       if (found.indexOf(a.id) !== -1) return { status: "duplicate", answer: a };
       if (force || near.sure) return { status: "accepted", answer: a, corrected: true };
       return { status: "correction", answer: a, to: a.name };
+    }
+    var part = partial(prompt, text);
+    if (part) {
+      if (found.indexOf(part.answer.id) !== -1) return { status: "duplicate", answer: part.answer };
+      if (force || part.sure) return { status: "accepted", answer: part.answer, corrected: true };
+      return { status: "correction", answer: part.answer, to: part.answer.name };
     }
     return { status: "rejected" };
   }
@@ -577,6 +633,7 @@
   CP.engine = {
     normalize: normalize, compact: compact, phonetic: phonetic, indexFor: indexFor, lookup: lookup,
     editDistance: editDistance, nearest: nearest, judge: judge,
+    invalidate: function (pid) { delete indexCache[pid]; },
     mulberry32: mulberry32, dayNumber: dayNumber, dateForDay: dateForDay,
     promptsForDay: promptsForDay, promptsForUnlimited: promptsForUnlimited, promptsForCategory: promptsForCategory,
     category: category, categoryBank: categoryBank, randomPrompts: randomPrompts,

@@ -84,7 +84,7 @@ def tidy(name):
         return "=".join(parts) if parts else None
     name = re.sub(r"\s*\([^)]*\)", "", name)          # drop parentheticals
     name = re.sub(r"\s+", " ", name).strip(" ,;-")
-    if not name or len(name) > 40 or re.search(r"\d", name):
+    if not name or len(name) > 60 or re.fullmatch(r"[\d\s.,/-]+", name):   # digits are fine ("Peugeot 205", "Halo 3")
         return None
     if name.islower():
         name = " ".join(w if w in ("and", "of", "the", "de", "la", "du") else w[:1].upper() + w[1:] for w in name.split(" "))
@@ -255,7 +255,7 @@ BLOCK = {
     "soda": re.compile(r"^(kefir|milk|water|juice|wine|beer|coffee|tea|beverage|drink|fermented milk product)$"),
     "fabric": re.compile(r"^(blanket|yarn|tapestry|thread|fibre|fiber|bed sheet|mosquito net|c change|machine knitting|e-textiles|cedar bark|carbon fiber)$|^(blanket|curtain|mattress|pillow|airbag|bedding|napkin|towel|carpet|rug|sleeping bag|tent|flag|banner|sail|mitre|chasuble|dalmatic|pallium|papal tiara|candle wick|catgut|bed sheet|mosquito net|c change|machine knitting|e-textiles|cedar bark|carbon fiber|yarn|thread|tapestry|quilt|duvet|tablecloth|handkerchief|bandage|gauze|ribbon|rope|net|mesh|felt hat|textile|fabric|cloth)s?$"),
     "flower": re.compile(r"^(rosemary|sage|holly|basil|thyme)$"),
-    "fruit": re.compile(r"^(nut|bell pepper|chili pepper|cucumber|tomato|vegetable)$"),
+    "fruit": re.compile(r"^(nut|bell pepper|chili pepper|cucumber|tomato|vegetable)$|^(apple of discord|golden apple|forbidden fruit|fruit)$"),
     "fish": re.compile(r"\b(lobster|shrimp|prawn|crab|oyster|mussel|clam|scallop|squid|octopus|crayfish|krill)s?$|^cooking fish$"),
     "card": re.compile(r"^(professional eater|splendor|tarot.*)$"),
     "clothing": re.compile(r"^(mask|footwear|clothing.*|garment|costume|uniform|waterproof|zip|undergarment)$|\bclothing in\b"),
@@ -265,7 +265,7 @@ BLOCK = {
 }
 # A single everyday word scores too easily ("Milk" river, "Sake" language).
 COMMON_WORD_ZIPF = 4.0
-STRICT_COMMON = {"spokenlang": 3.0, "river": 4.0, "cocktail": 4.2, "uscity": 3.4, "europecity": 3.4, "italycity": 3.4, "japancity": 3.4}
+STRICT_COMMON = {"spokenlang": 3.9, "river": 4.0, "cocktail": 4.2, "uscity": 3.4, "europecity": 3.4, "italycity": 3.4, "japancity": 3.4}
 
 
 def edit1(a, b):
@@ -325,6 +325,36 @@ def stripped(n, generic):
 WIKIDATA = os.path.join(ROOT, "tools", "wikidata")
 
 
+PEOPLE_PROMPTS = {"scientist", "composer", "author", "painter", "musician", "actor", "athlete", "nbaplayer", "president"}
+ANIMAL_PROMPTS = {"mammal", "bird", "fish", "reptile", "amphibian", "snake", "insect", "shark", "whale", "rodent", "primate",
+                  "animal", "seacreature", "wildcat", "dog", "catbreed", "horse"}
+PARTICLES = {"van", "von", "da", "de", "di", "del", "della", "der", "den", "le", "la", "du", "dos", "das", "do", "al", "el", "bin", "ibn", "st.", "saint"}
+SUFFIXES = {"jr.", "jr", "sr.", "sr", "ii", "iii", "iv"}
+
+
+def surname(full):
+    w = re.sub(r"\s*\([^)]*\)", "", full).replace(",", "").split()
+    while w and w[-1].lower() in SUFFIXES:
+        w = w[:-1]
+    if len(w) < 2:
+        return None
+    if len(w) >= 3 and w[-2].lower() in PARTICLES:
+        return " ".join(w[-2:])
+    return w[-1]
+
+
+CAR_MAKE = re.compile(r"^(Acura|Alfa Romeo|Aston Martin|Audi|Austin|Bentley|BMW|Bugatti|Buick|BYD|Cadillac|Chevrolet|Chevy|Chrysler|"
+                      r"Citroën|Citroen|Dacia|Daewoo|Daihatsu|Datsun|DeLorean|Dodge|Ferrari|Fiat|Ford|Genesis|GMC|Holden|Honda|"
+                      r"Hummer|Hyundai|Infiniti|Isuzu|Jaguar|Jeep|Kia|Lada|Lamborghini|Lancia|Land Rover|Lexus|Lincoln|Lotus|"
+                      r"Maserati|Maybach|Mazda|McLaren|Mercedes-Benz|Mercedes|Mercury|MG|Mini|Mitsubishi|Nissan|Oldsmobile|Opel|"
+                      r"Pagani|Peugeot|Plymouth|Polestar|Pontiac|Porsche|Ram|Renault|Rivian|Rolls-Royce|Rover|Saab|Saturn|Scion|"
+                      r"SEAT|Seat|Škoda|Skoda|Smart|SsangYong|Subaru|Suzuki|Tata|Tesla|Toyota|Trabant|Triumph|Vauxhall|Volkswagen|"
+                      r"VW|Volvo|Wartburg|Zastava)\s+", re.I)
+
+PLACE_PROMPTS = {"uscity", "europecity", "italycity", "japancity", "germanycity", "chinacity", "australiacity", "capital",
+                 "worldcapital", "statecapital", "island", "lake", "river", "mountain", "volcano", "waterfall", "desert",
+                 "bridge", "landmark", "nationalpark", "africa", "asia", "europe", "country", "caribbean"}
+
 # Prompts whose Wikidata class turned out to be the wrong set of things.
 WIKIDATA_SKIP = {"houseplant", "pixar", "disney", "berry"}
 
@@ -341,10 +371,11 @@ def wikidata_items(pid):
     if pid in COMPOSITE:
         best = {}
         for part in COMPOSITE[pid]:
-            for name, sl in (raw_items(part) if part == pid else wikidata_items(part)):
-                if sl > best.get(name, -1):
-                    best[name] = sl
-        return sorted(([n, v] for n, v in best.items()), key=lambda x: -x[1])
+            for it in (raw_items(part) if part == pid else wikidata_items(part)):
+                name, sl, als = it[0], it[1], (it[2] if len(it) > 2 else [])
+                if name not in best or sl > best[name][0]:
+                    best[name] = [sl, als]
+        return sorted(([n, v[0], v[1]] for n, v in best.items()), key=lambda x: -x[1])
     return [] if pid in WIKIDATA_SKIP else raw_items(pid)
 
 
@@ -367,7 +398,8 @@ def raw_items(pid):
 def familiarity_fn(items, generic):
     """0..1 familiarity: Wikipedia coverage (log sitelinks) or English word frequency, whichever is higher."""
     sl = {}
-    for name, n in items:
+    for it in items:
+        name, n = it[0], it[1]
         k = stripped(norm(re.sub(r"\s*\([^)]*\)", "", name.split(",")[0])), generic)
         sl[k] = max(n, sl.get(k, 0))
     top = math.log1p(max(sl.values())) if sl else 1.0
@@ -391,7 +423,8 @@ HAND_BONUS = 1.0
 def sitelink_cuts(pid, items, hand, generic):
     """Per-prompt popularity cut-offs, from where this prompt's hand-tiered answers sit."""
     sl = {}
-    for name, n in items:
+    for it in items:
+        name, n = it[0], it[1]
         k = stripped(norm(re.sub(r"\s*\([^)]*\)", "", name.split(",")[0])), generic)
         sl[k] = max(n, sl.get(k, 0))
     by = {"s": [], "r": [], "d": []}
@@ -404,7 +437,7 @@ def sitelink_cuts(pid, items, hand, generic):
     if all(len(by[t]) >= 3 for t in "srd") and med(by["s"]) > med(by["r"]) > med(by["d"]):
         return ((med(by["s"]) * med(by["r"])) ** 0.5, (med(by["r"]) * med(by["d"])) ** 0.5, "calibrated")
     # Too few hand matches: split the list by rank instead (top 15% Burrower, next 35% Rare).
-    v = sorted((n for _, n in items), reverse=True)
+    v = sorted((it[1] for it in items), reverse=True)
     if not v:
         return (1e9, 1e9, "none")
     return (v[min(len(v) - 1, int(len(v) * 0.15))] + 0.5, v[min(len(v) - 1, int(len(v) * 0.5))] + 0.5, "by rank")
@@ -416,6 +449,8 @@ def main():
     hand = hand_keys()
     extra, log = OrderedDict(), []
     pids = list(OrderedDict.fromkeys(list(SOURCES) + sorted(f[:-5] for f in os.listdir(WIKIDATA) if f.endswith(".json")) + list(COMPOSITE) + sorted(f[:-4] for f in os.listdir(os.path.join(ROOT, "tools", "supplement")) if f.endswith(".txt")) + sorted(hand)))
+    if os.environ.get("ONLY"):
+        pids = [p for p in pids if p in os.environ["ONLY"].split(",")]
     for pid in pids:
         if pid not in hand:          # source or cache for a retired prompt
             continue
@@ -437,7 +472,8 @@ def main():
         for raw in supplement(pid):
             z = wordfreq.zipf_frequency(norm(raw.split("=")[0]), "en")
             cands.append((raw, "s" if z >= 3.3 else "r" if z >= 2.2 else "d", "curated"))
-        for name, n in items:
+        for it in items:
+            name, n, als = it[0], it[1], (it[2] if len(it) > 2 else [])
             if pid == "soccerclub":                     # "Manchester United F.C." / "AS Roma" -> the club's name
                 for _ in range(2):
                     name = re.sub(r"^(?:[A-Z]{1,3}\.?){1,4} (?=[A-Z])", "", name) if re.match(r"^(?:[A-Z]\.?){2,4} ", name) else name
@@ -447,11 +483,34 @@ def main():
             if pid in ("africa", "asia", "europe", "country"):   # "Kingdom of Denmark" -> Denmark
                 name = re.sub(r"^(Kingdom|Republic|Principality|Grand Duchy|State|Federation|Commonwealth|Sultanate|Emirate) of (the )?", "", name)
                 name = re.sub(r"^People's Republic of ", "", name)
-            entry = tidy(name.split(",")[0])
+            if pid == "carmodel":                       # "Pontiac Fiero" also counts as "Fiero"
+                m = CAR_MAKE.match(name)
+                if m and len(name) - m.end() >= 2:
+                    rest = name[m.end():].strip()
+                    if wordfreq.zipf_frequency(norm(rest), "en") < 4.0:
+                        als = list(als) + [rest]
+            # "Springfield, Illinois" -> Springfield for places; keep commas in titles ("Hello, Goodbye")
+            entry = tidy(name.split(",")[0] if pid in PLACE_PROMPTS else name)
             if entry:
+                # Wikidata's "also known as" names become aliases (T-bird, Uno Flip), minus everyday words
+                extra_names = []
+                for a in als:
+                    ta = tidy(a)
+                    if ta and len(compact(ta)) >= 3 and wordfreq.zipf_frequency(norm(ta), "en") < min(4.0, STRICT_COMMON.get(pid, 4.0)) \
+                            and ta not in extra_names:
+                        extra_names.extend(x for x in ta.split("=") if x not in extra_names)
+                if extra_names:
+                    entry = "=".join([entry] + [x for x in extra_names if compact(x) != compact(entry.split("=")[0])][:12])
                 cands.append((entry, "s" if n >= cut_s else "r" if n >= cut_r else "d", "wikidata"))
             else:
                 dropped["unusable"] += 1
+        # Wikipedia category trees (tools/wikipedia_fetch.py): catches items Wikidata classifies oddly.
+        wp = os.path.join(ROOT, "tools", "wikipedia", pid + ".json")
+        if os.path.exists(wp):
+            for title in json.load(open(wp, encoding="utf-8")):
+                entry = tidy(title.split(",")[0] if pid in PLACE_PROMPTS else title)
+                if entry:
+                    cands.append((entry, "d", "wikipedia"))
         ds = []
         for raw in (SOURCES[pid]() if pid in SOURCES else []):
             entry = tidy(raw)
@@ -465,9 +524,22 @@ def main():
 
         fam = familiarity_fn(items, generic)
         pool = []                     # (familiarity, entry or None, hand answer or None)
-        long_taken = [t for t in taken if len(t) >= 6]
+        # Symmetric-delete index: two keys are one edit apart if they share a one-letter deletion.
+        near_idx = set()
+        def add_near(key):
+            near_idx.add(key)
+            near_idx.update(key[:i] + key[i + 1:] for i in range(len(key)))
+        def is_near(key):
+            return key in near_idx or any(key[:i] + key[i + 1:] in near_idx for i in range(len(key)))
+        for t0 in taken:
+            if len(t0) >= 6:
+                add_near(t0)
         hand_name = {kk: a["name"] for a in H["answers"] for kk in a["keys"]}
         aliases = []
+        DEBUG = [d.lower() for d in os.environ.get("DEBUG_NAMES", "").split(",") if d]
+        def dbg(reason, entry):
+            if DEBUG and any(d in entry.lower() for d in DEBUG):
+                print("DEBUG", pid, reason, "|", entry[:120])
         for entry, tier, src in cands:
             names = entry.split("=")
             keys = [compact(n) for n in names]
@@ -482,32 +554,41 @@ def main():
                 continue
             if src == "curated":
                 skeys = []           # hand-checked: only an exact duplicate counts as already listed
-            if len(k) < 3 or any(x in seen for x in keys + skeys):
-                continue
+            clash = lambda x: x in seen or x in taken or (x.endswith("s") and x[:-1] in taken) or x + "s" in taken
+            # The main name decides; a clashing nickname only loses that nickname ("Desert Lynx" on the caracal).
+            main_keys = [keys[0]] + ([skeys[0]] if skeys else [])
+            if len(k) < 3 or any(x in seen for x in main_keys):
+                dbg("seen", entry); continue
+            if any(clash(x) for x in main_keys):
+                seen.update(main_keys)
+                dbg("already listed", entry); dropped["already listed"] += 1; continue
+            kept_names = [names[0]] + [n for n, x, sx in zip(names[1:], keys[1:], (skeys[1:] if skeys else [None] * len(names))) if x and not clash(x) and not (sx and clash(sx))]
+            names = kept_names
+            entry = "=".join(names)
+            keys = [compact(n) for n in names]
+            skeys = [stripped(norm(n), generic) for n in names] if src != "curated" else []
             seen.update(keys + skeys)
-            if any(x in taken or (x.endswith("s") and x[:-1] in taken) or x + "s" in taken for x in keys + skeys):
-                dropped["already listed"] += 1; continue
             if src == "curated":
                 pool.append((BAND[tier] + fam(names[0]), entry, None)); used[src] += 1
-                if len(k) >= 6: kept.append(k)
+                if len(k) >= 6: add_near(k)
                 continue
-            if len(k) >= 6 and any(edit1(k, t) for t in long_taken + kept):
-                dropped["spelling variant"] += 1; continue
+            if len(k) >= 6 and is_near(k):
+                dbg("spelling variant", entry); dropped["spelling variant"] += 1; continue
             if any(len(x) >= 4 and (g.startswith(x) or x.startswith(g)) for x in keys for g in gem):
                 dropped["overlaps gem"] += 1; continue
             if pid in BLOCK and BLOCK[pid].search(entry.lower()):
-                dropped["blocked"] += 1; continue
+                dbg("blocked", entry); dropped["blocked"] += 1; continue
             # also check what's left once category words go ("Milk River" -> "milk")
             core = stripped(norm(names[0]), generic) if " " in names[0] else norm(names[0])
             if " " not in core and wordfreq.zipf_frequency(core, "en") >= STRICT_COMMON.get(pid, COMMON_WORD_ZIPF):
-                dropped["everyday word"] += 1; continue
+                dbg("everyday", entry); dropped["everyday word"] += 1; continue
             if norm(names[0]) in generic or core in generic:          # "Cheese" as a cheese
                 dropped["category word"] += 1; continue
             # an everyday word can't ride along as an alias ("Baruth/Mark" -> not "Mark")
             names = [names[0]] + [n for n in names[1:] if wordfreq.zipf_frequency(norm(n), "en") < 4.0]
             entry = "=".join(names)
             if len(k) >= 6:
-                kept.append(k)
+                add_near(k)
             pool.append((BAND[tier] + fam(names[0]), entry, None))
             used[src] += 1
         # Rank hand answers (except Topsoil, Too Clever and the gem) together with the generated ones.
@@ -516,6 +597,41 @@ def main():
                 f = max([fam(n) for n in a["norms"]] or [0.0])
                 pool.append((BAND[a["tier"]] + HAND_BONUS + f * 0.5, None, a))
         pool.sort(key=lambda x: (-x[0], x[1] is not None))
+
+        # Players type surnames ("Euler", "van Gogh"): each surname goes to the best-known person who has it.
+        if pid in PEOPLE_PROMPTS:
+            used_keys = set(taken) | set(seen)
+            for i, (f, entry, a) in enumerate(pool):
+                full = entry.split("=")[0] if entry is not None else a["name"]
+                sur = surname(full)
+                if not sur:
+                    continue
+                kk = compact(sur)
+                if len(kk) < 2 or kk in used_keys or wordfreq.zipf_frequency(norm(sur), "en") >= 5.0 \
+                        or any(g.startswith(kk) or kk.startswith(g) for g in gem):
+                    continue
+                used_keys.add(kk)
+                if entry is not None:
+                    pool[i] = (f, entry + "=" + sur, None)
+                else:
+                    aliases.append(sur + ">" + a["name"])
+
+        # Group names for animals: "Kudu" from "Greater Kudu" and "Lesser Kudu".
+        if pid in ANIMAL_PROMPTS:
+            heads = {}
+            for f, entry, a in pool:
+                full = entry.split("=")[0] if entry is not None else a["name"]
+                w = full.split()
+                if len(w) >= 2 and re.fullmatch(r"[A-Za-z-]{4,}", w[-1]):
+                    h = w[-1].capitalize()
+                    heads.setdefault(h, []).append(f)
+            have = set(taken) | set(seen)
+            for h, fs in heads.items():
+                kk = compact(h)
+                if len(fs) >= 2 and kk not in have and not (kk.endswith("s") and kk[:-1] in have) and kk + "s" not in have \
+                        and wordfreq.zipf_frequency(h.lower(), "en") < 4.5 and not (pid in BLOCK and BLOCK[pid].search(h.lower())):
+                    pool.append((max(fs), h, None)); have.add(kk)
+            pool.sort(key=lambda x: (-x[0], x[1] is not None))
         N = len(pool)
         nb = min(N, max(BURROWER_MIN, min(BURROWER_MAX, round(N * BURROWER_SHARE))))
         nr = round(N * RARE_SHARE)
@@ -535,11 +651,22 @@ def main():
                 extra[pid]["t"] = "|".join(overrides)
         log.append((pid, len(H["keys"]), added, {t: len(v) for t, v in tiers.items()}, dict(used), how if items else "—", dict(dropped)))
 
-    with open(os.path.join(ROOT, "js", "data-extra.js"), "w", encoding="utf-8") as f:
-        f.write("/* Generated by tools/build_extra.py. Do not edit by hand: change the script or the hand data. */\n")
-        f.write("(function (root) {\n  root.CP = root.CP || {};\n  root.CP.EXTRA = ")
-        f.write(json.dumps(extra, ensure_ascii=False, indent=1))
-        f.write(";\n})(typeof window !== \"undefined\" ? window : globalThis);\n")
+    # One file per prompt (js/answers/<prompt>.js), loaded only when that prompt is played.
+    outdir = os.path.join(ROOT, "js", "answers")
+    os.makedirs(outdir, exist_ok=True)
+    if not os.environ.get("ONLY"):
+        for f in os.listdir(outdir):
+            if f.endswith(".js"):
+                os.remove(os.path.join(outdir, f))
+    for pid, data in extra.items():
+        with open(os.path.join(outdir, pid + ".js"), "w", encoding="utf-8") as f:
+            f.write("/* Generated by tools/build_extra.py. */\n(function (r) { r.CP = r.CP || {}; r.CP.EXTRA = r.CP.EXTRA || {}; r.CP.EXTRA[%s] = "
+                    % json.dumps(pid))
+            f.write(json.dumps(data, ensure_ascii=False, separators=(",", ":")))
+            f.write("; if (r.CP.engine) r.CP.engine.invalidate(%s); })(typeof window !== \"undefined\" ? window : globalThis);\n" % json.dumps(pid))
+    old = os.path.join(ROOT, "js", "data-extra.js")
+    if os.path.exists(old):
+        os.remove(old)
 
     # Common English words, shipped to the browser so the spell check never "fixes" a real word
     # (e.g. "change") into an obscure generated answer ("Chané").

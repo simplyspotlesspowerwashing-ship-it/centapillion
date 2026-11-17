@@ -1,0 +1,32 @@
+Arizona Cardinals=cards
+Atlanta Falcons=dirty birds
+Baltimore Ravens=birds of prey
+Buffalo Bills=bills
+Carolina Panthers=panthers
+Chicago Bears=da bears
+Cincinnati Bengals=bungles
+Cleveland Browns=dawgs
+Dallas Cowboys=boys
+Denver Broncos=broncos
+Detroit Lions=lions
+Green Bay Packers=pack
+Houston Texans=texans
+Indianapolis Colts=colts
+Jacksonville Jaguars=jags
+Kansas City Chiefs=kc
+Las Vegas Raiders=silver and black
+Los Angeles Chargers=bolts
+Los Angeles Rams=rams
+Miami Dolphins=fins
+Minnesota Vikings=vikes
+New England Patriots=pats
+New Orleans Saints=who dat
+New York Giants=big blue=g-men
+New York Jets=gang green
+Philadelphia Eagles=birds
+Pittsburgh Steelers=stillers
+San Francisco 49ers=niners
+Seattle Seahawks=hawks
+Tampa Bay Buccaneers=bucs
+Tennessee Titans=titans
+Washington Commanders=commies=skins

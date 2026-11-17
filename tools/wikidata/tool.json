@@ -1,1106 +1,2951 @@
 [
 [
 "axe",
-167
+167,
+[
+"ax"
+]
 ],
 [
 "scissors",
-136
+136,
+[
+"✂",
+"pair of scissors",
+"scissor",
+"shears"
+]
 ],
 [
 "broom",
-127
+127,
+[]
 ],
 [
 "scythe",
-102
+102,
+[]
 ],
 [
 "shovel",
-99
+99,
+[
+"pan"
+]
 ],
 [
 "screwdriver",
-96
+96,
+[]
 ],
 [
 "toothbrush",
-93
+93,
+[
+"tooth brush",
+"toothbrushes"
+]
 ],
 [
 "mortar and pestle",
-92
+92,
+[
+"mortars & pestle"
+]
 ],
 [
 "chisel",
-80
+80,
+[]
 ],
 [
 "plane",
-75
+75,
+[]
 ],
 [
 "hand fan",
-74
+74,
+[
+"fan",
+"handfan",
+"hand-held fan",
+"handheld fan",
+"paper fan"
+]
 ],
 [
 "pliers",
-72
+72,
+[
+"Pliers"
+]
 ],
 [
 "file",
-70
-],
-[
-"grater",
-66
-],
-[
-"paintbrush",
-66
+70,
+[]
 ],
 [
 "stapler",
-66
+66,
+[
+"Tacker",
+"office stapler"
+]
+],
+[
+"grater",
+66,
+[
+"box grater",
+"shredder"
+]
+],
+[
+"paintbrush",
+66,
+[
+"art brish",
+"artists' brush",
+"paint brush",
+"pencil"
+]
 ],
 [
 "wrench",
-64
+64,
+[
+"spanner"
+]
 ],
 [
 "cutlery",
-62
+62,
+[
+"eating utensil",
+"flatware",
+"silverware",
+"tableware"
+]
 ],
 [
 "brush",
-61
+61,
+[]
 ],
 [
 "drinking straw",
-55
+55,
+[
+"soda straw",
+"straw"
+]
 ],
 [
 "tweezers",
-55
+55,
+[
+"forceps",
+"surgical tweezers",
+"thumb forceps"
+]
 ],
 [
 "scalpel",
-55
+55,
+[
+"hobby knife",
+"lance",
+"lancet",
+"surgical knife",
+"surgical lance",
+"X-Acto knife"
+]
 ],
 [
 "crowbar",
-52
+52,
+[
+"crow bar",
+"gooseneck",
+"jimmy",
+"jimmy bar",
+"PikiPiki",
+"pinch-bar",
+"prise bar",
+"prisebar",
+"pry bar",
+"prybar",
+"wrecking bar"
+]
 ],
 [
 "pincers",
-46
+46,
+[]
 ],
 [
 "clothespin",
-42
+42,
+[
+"clothes peg",
+"clothespeg",
+"clothes pin"
+]
 ],
 [
 "light fixture",
-41
+41,
+[
+"light fitting",
+"lighting armature",
+"lighting fixture",
+"luminaire"
+]
 ],
 [
 "woodworking chisel",
-38
+38,
+[
+"wood chisel"
+]
 ],
 [
 "masonry trowel",
-38
+38,
+[
+"brick trowel",
+"corner trowels",
+"stone trowel",
+"trowel"
+]
 ],
 [
 "magic wand",
-36
+36,
+[
+"magick wand",
+"wand"
+]
 ],
 [
 "conductor's baton",
-36
+36,
+[
+"baton",
+"conducting baton",
+"conductor baton"
+]
 ],
 [
 "carrying pole",
-35
+35,
+[
+"burden stick",
+"carrying stick",
+"human yoke",
+"milkmaid's yoke",
+"shoulder yoke"
+]
 ],
 [
 "pruning shears",
-34
+34,
+[
+"hand pruners",
+"loppers",
+"secateurs"
+]
 ],
 [
 "hex key",
-34
+34,
+[
+"Allen key",
+"Allen wrench",
+"Hex wrench",
+"Inbus",
+"Unbrako"
+]
 ],
 [
 "adjustable wrench",
-34
+34,
+[
+"adjustable spanner"
+]
 ],
 [
 "hairbrush",
-30
+30,
+[
+"hair brush"
+]
 ],
 [
 "tongs",
-30
+30,
+[
+"pair of tongs"
+]
 ],
 [
 "set square",
-30
+30,
+[
+"triangle",
+"triangle ruler",
+"triangular plate"
+]
 ],
 [
 "electric shaver",
-29
+29,
+[
+"dry razor",
+"electric razor",
+"shaver"
+]
 ],
 [
 "brace",
-29
+29,
+[
+"brace and bit"
+]
 ],
 [
 "flyswatter",
-28
+28,
+[
+"fly flap",
+"fly swatter",
+"swatter"
+]
 ],
 [
 "trowel",
-28
+28,
+[
+"archaeologists' trowel",
+"masonry trowel"
+]
 ],
 [
 "Meissen porcelain",
-27
+27,
+[
+"Meissen china"
+]
 ],
 [
 "toilet brush",
-26
+26,
+[]
 ],
 [
 "drawing board",
-26
+26,
+[
+"drawing table"
+]
 ],
 [
 "torque wrench",
-26
+26,
+[
+"torque spanner"
+]
 ],
 [
 "rasp",
-26
+26,
+[]
 ],
 [
 "tap",
-25
+25,
+[]
 ],
 [
 "gimlet",
-25
+25,
+[]
 ],
 [
 "metate",
-25
+25,
+[
+"metlatl"
+]
 ],
 [
 "diagonal pliers",
-25
+25,
+[
+"diagonal cutter",
+"diagonal cutting pliers",
+"side cutter",
+"side-cutting pliers",
+"wire cutter"
+]
 ],
 [
 "socket wrench",
-25
+25,
+[
+"可换头套筒扳手"
+]
 ],
 [
 "baton",
-24
+24,
+[
+"ceremonial baton",
+"commander's staff",
+"marshal's baton",
+"Marshal's baton",
+"military baton",
+"officer's baton"
+]
 ],
 [
 "wire stripper",
-23
+23,
+[]
 ],
 [
 "nail file",
-22
+22,
+[]
 ],
 [
 "surgical instrument",
-22
+22,
+[
+"surgical instruments",
+"surgical tool"
+]
 ],
 [
 "curette",
-22
+22,
+[]
 ],
 [
 "shaving brush",
-22
+22,
+[
+"shave brush"
+]
 ],
 [
 "lineman's pliers",
-22
+22,
+[
+"combination pliers",
+"Kleins",
+"side cutting linesman pliers"
+]
 ],
 [
 "crop",
-21
+21,
+[
+"riding crop",
+"Riding Crops & Whips"
+]
 ],
 [
 "burin",
-21
+21,
+[
+"burins",
+"graver",
+"gravers",
+"Scauper",
+"scooper"
+]
 ],
 [
 "plumber wrench",
-20
+20,
+[
+"pipe wrench"
+]
 ],
 [
 "hand saw",
-20
+20,
+[
+"fish saw",
+"handsaw",
+"panel saw"
+]
 ],
 [
 "hand truck",
-20
+20,
+[
+"bag barrow",
+"box cart",
+"dolly",
+"hand trolley",
+"sack barrow",
+"sack truck",
+"stack truck",
+"trundler"
+]
 ],
 [
 "try square",
-20
+20,
+[]
 ],
 [
 "washing paddle",
-19
+19,
+[
+"beetle",
+"Wäschebleuel",
+"washing bat"
+]
 ],
 [
 "Shepherd's axe",
-18
+18,
+[]
 ],
 [
 "needle-nose pliers",
-18
+18,
+[
+"needlenose pliers"
+]
 ],
 [
 "tongue-and-groove pliers",
-18
+18,
+[
+"waterpump pliers"
+]
 ],
 [
 "staple gun",
-18
+18,
+[
+"powered stapler",
+"Staple Guns",
+"tacker",
+"trigger tacker"
+]
 ],
 [
 "hedge trimmer",
-17
+17,
+[
+"тример для кущів",
+"Тримери для живоплоту"
+]
 ],
 [
 "card scraper",
-17
+17,
+[
+"cabinet scraper"
+]
 ],
 [
 "locking pliers",
-17
+17,
+[
+"Mole grips"
+]
 ],
 [
 "digging bar",
-17
+17,
+[
+"bar",
+"crowbar",
+"pry bar",
+"spud bar"
+]
 ],
 [
 "bow saw",
-17
+17,
+[
+"bucksaw",
+"Finn saw",
+"Swede saw"
+]
 ],
 [
 "hatchet",
-17
+17,
+[]
 ],
 [
 "snips",
-17
+17,
+[]
 ],
 [
 "putty knife",
-17
+17,
+[]
 ],
 [
 "surgical drain",
-16
+16,
+[
+"drain"
+]
 ],
 [
 "broadaxe",
-16
+16,
+[
+"ax",
+"broad axe"
+]
 ],
 [
 "kitchen utensil",
-16
+16,
+[
+"Cooking and Eating Utensils",
+"cooking utensil",
+"kitchen tools",
+"kitchenware"
+]
 ],
 [
 "pipe wrench",
-16
+16,
+[
+"Stillson wrench"
+]
 ],
 [
 "splitting maul",
-15
+15,
+[
+"block buster",
+"block splitter",
+"chop and maul",
+"go-devil",
+"hamaxe",
+"sledge axe"
+]
 ],
 [
 "snow shovel",
-15
+15,
+[
+"Snow Shovels"
+]
 ],
 [
 "chopper",
-14
+14,
+[]
 ],
 [
 "needle holder",
-14
+14,
+[
+"needle driver"
+]
 ],
 [
 "forceps",
-14
+14,
+[]
 ],
 [
 "backsaw",
-14
+14,
+[]
 ],
 [
 "scribe",
-14
+14,
+[]
 ],
 [
 "doorstop",
-14
+14,
+[
+"door stop",
+"door stopper",
+"door wedge"
+]
 ],
 [
 "mitre box",
-14
+14,
+[
+"miter box"
+]
 ],
 [
 "Oroshigane",
-13
+13,
+[]
 ],
 [
 "rebate plane",
-13
+13,
+[
+"rabbet plane"
+]
 ],
 [
 "eyelash curler",
-13
+13,
+[]
 ],
 [
 "jointer plane",
-13
+13,
+[
+"trueing plane",
+"trying plane",
+"try plane"
+]
 ],
 [
 "spokeshave",
-13
+13,
+[]
 ],
 [
 "tap wrench",
-12
+12,
+[]
 ],
 [
 "candle snuffer",
-12
+12,
+[
+"candlesnuffer",
+"snuffer"
+]
 ],
 [
 "monkey wrench",
-12
+12,
+[
+"french key",
+"gas grips"
+]
 ],
 [
 "wire brush",
-12
+12,
+[]
 ],
 [
 "lock pick",
-11
+11,
+[
+"lockpick",
+"pick",
+"picklock"
+]
 ],
 [
 "garden trowel",
-11
+11,
+[
+"gardening trowel"
+]
 ],
 [
 "90-45-45 set square",
-11
+11,
+[
+"set square"
+]
 ],
 [
 "fire flapper",
-11
+11,
+[
+"Hosa"
+]
 ],
 [
 "Suribachi",
-11
+11,
+[]
 ],
 [
 "spoke wrench",
-11
+11,
+[
+"nipple wrench",
+"spoke key",
+"spokey"
+]
 ],
 [
 "Round-nose pliers",
-10
+10,
+[]
 ],
 [
 "lint remover",
-10
+10,
+[
+"lint roller",
+"tape cleaner"
+]
 ],
 [
 "halligan",
-10
+10,
+[
+"Halligan bar",
+"Halligan tool",
+"hooligan tool"
+]
 ],
 [
 "Sagaris",
-10
+10,
+[]
 ],
 [
 "bearded axe",
-10
+10,
+[
+"long-bearded axe"
+]
 ],
 [
 "grooving plane",
-10
+10,
+[]
 ],
 [
 "surgical scissors",
-10
+10,
+[]
 ],
 [
 "Dermatome",
-10
+10,
+[]
 ],
 [
 "screwdriver bit",
-9
+9,
+[
+"bit",
+"chuck",
+"screwdriver chuck"
+]
 ],
 [
 "retractor",
-9
+9,
+[
+"surgical retractor"
+]
 ],
 [
 "trephine",
-9
+9,
+[]
 ],
 [
 "bark spud",
-9
+9,
+[]
 ],
 [
 "pickaroon",
-9
+9,
+[
+"cant hook",
+"hookaroon",
+"sappie"
+]
 ],
 [
 "Orbitoclast",
-9
+9,
+[]
 ],
 [
 "berry-picking rake",
-9
+9,
+[]
 ],
 [
 "punch",
-9
+9,
+[
+"hole punch pliers"
+]
 ],
 [
 "hydrant wrench",
-8
+8,
+[]
 ],
 [
 "nibbler",
-8
+8,
+[]
 ],
 [
 "hair-cutting shears",
-8
+8,
+[
+"barber scissors / barber shears",
+"barber's scissors",
+"hair-cutting scissors",
+"hairdressing scissors",
+"hair shears",
+"texturizing shears"
+]
 ],
 [
 "router plane",
-8
+8,
+[
+"depthing router",
+"granny's tooth",
+"old woman's tooth"
+]
 ],
 [
 "edible tableware",
-8
+8,
+[
+"edible utensil"
+]
 ],
 [
 "aspirator",
-8
+8,
+[]
 ],
 [
 "saw set",
-8
+8,
+[]
 ],
 [
 "push drill",
-8
+8,
+[
+"Persian drill"
+]
 ],
 [
 "tenaculum",
-8
+8,
+[]
 ],
 [
 "pack frame",
-8
+8,
+[]
 ],
 [
 "utensil",
-7
+7,
+[]
 ],
 [
 "Magill forceps",
-7
+7,
+[]
 ],
 [
 "sheep shears",
-7
+7,
+[
+"wool shears"
+]
 ],
 [
 "whipsaw",
-7
+7,
+[]
 ],
 [
 "French wrench",
-7
+7,
+[
+"monkey wrench"
+]
 ],
 [
 "nail scissors",
-7
+7,
+[
+"manicure scissors"
+]
 ],
 [
 "ticket punch",
-7
+7,
+[]
 ],
 [
 "grinding dresser",
-7
+7,
+[
+"grinding wheel dresser",
+"wheel dresser"
+]
 ],
 [
 "punch down tool",
-7
+7,
+[
+"krone tool",
+"punchdown tool"
+]
 ],
 [
 "Pinking shears",
-7
+7,
+[]
 ],
 [
 "trauma shears",
-7
+7,
+[]
 ],
 [
 "block plane",
-7
+7,
+[]
 ],
 [
 "spaghetti tongs",
-7
+7,
+[
+"mass tagger"
+]
 ],
 [
 "blind rivetting tool",
-7
+7,
+[
+"blind rivet tool, Blind riveter"
+]
 ],
 [
 "Burdizzo",
-7
+7,
+[]
 ],
 [
 "keyhole saw",
-7
+7,
+[
+"alligator saw",
+"drywall saw",
+"jab saw",
+"pad saw"
+]
 ],
 [
 "shoulder plane",
-7
+7,
+[]
 ],
 [
 "surform",
-6
+6,
+[]
 ],
 [
 "torque screwdriver",
-6
+6,
+[
+"torque driver"
+]
 ],
 [
 "tuning wrench",
-6
+6,
+[]
 ],
 [
 "caulking gun",
-6
+6,
+[
+"cartridge gun",
+"caulk cartridge gun",
+"caulk gun",
+"Caulking Tools",
+"sealant gun"
+]
 ],
 [
 "siths",
-6
-],
-[
-"paila",
-6
-],
-[
-"dishwashing brush",
-6
-],
-[
-"Debakey forceps",
-6
-],
-[
-"bandage scissors",
-6
+6,
+[]
 ],
 [
 "cold chisel",
-6
+6,
+[]
+],
+[
+"paila",
+6,
+[]
+],
+[
+"dishwashing brush",
+6,
+[]
+],
+[
+"Debakey forceps",
+6,
+[]
+],
+[
+"bandage scissors",
+6,
+[]
 ],
 [
 "bone cutter",
-6
+6,
+[]
 ],
 [
 "square drive",
-6
+6,
+[
+"Berne key",
+"external square-drive",
+"internal square-drive",
+"square-drive",
+"square drive bit",
+"square drive key",
+"square drive power bit",
+"square drive screw",
+"square drive shaft",
+"square drive socket",
+"square drive wrench"
+]
 ],
 [
 "hand drill",
-5
+5,
+[]
 ],
 [
 "jack plane",
-5
+5,
+[
+"#5 plane",
+"fore plane",
+"jackplane",
+"No. 5 plane",
+"No.5 plane"
+]
 ],
 [
 "scrub plane",
-5
+5,
+[]
 ],
 [
 "test tube brush",
-5
+5,
+[
+"spout brush"
+]
 ],
 [
 "kezuriki",
-5
+5,
+[
+"katsuobushi kezuriki",
+"Katsuobushi kezuriki"
+]
 ],
 [
 "Japanese plane",
-5
+5,
+[
+"kanna"
+]
 ],
 [
 "instruments of labor",
-5
+5,
+[
+"instrument of labor"
+]
 ],
 [
 "bottle brush",
-5
+5,
+[
+"bottle brushe"
+]
 ],
 [
 "kravchuchka",
-5
+5,
+[
+"kravchuchtsi"
+]
 ],
 [
 "hoof pick",
-5
+5,
+[]
 ],
 [
 "boarding axe",
-5
+5,
+[]
 ],
 [
 "finger plane",
-5
+5,
+[]
 ],
 [
 "sailmaker's palm",
-5
+5,
+[
+"hand sailors palm",
+"roping palm",
+"sailmaker's glove",
+"Sailor's palm",
+"sail palm",
+"sewing palm"
+]
 ],
 [
 "Leucotome",
-5
+5,
+[
+"McKenzie Leucotome"
+]
 ],
 [
 "Stamp tongs",
-5
+5,
+[]
 ],
 [
 "Liston knife",
-5
+5,
+[]
 ],
 [
 "miter square",
-4
+4,
+[
+"mitre square"
+]
 ],
 [
 "Surgical Stapler",
-4
+4,
+[
+"Surgical stapler",
+"Surgical staplers"
+]
 ],
 [
 "saddle stitch stapler",
-4
+4,
+[
+"booklet stapler",
+"long arm stapler",
+"long reach stapler",
+"saddle stapler"
+]
 ],
 [
 "Yue",
-4
+4,
+[]
 ],
 [
 "grass shears",
-4
+4,
+[]
 ],
 [
 "post hole digger",
-4
+4,
+[
+"post-hole digger"
+]
 ],
 [
 "rocker",
-4
+4,
+[
+"mezzotint rocker"
+]
 ],
 [
 "currycomb",
-4
+4,
+[
+"curry comb"
+]
 ],
 [
 "Yankee screwdriver",
-4
+4,
+[
+"pump screwdriver",
+"spiral ratchet screwdriver"
+]
 ],
 [
 "carpenter's chisel",
-4
+4,
+[
+"chisel"
+]
 ],
 [
 "Escargot pincers",
-4
+4,
+[]
 ],
 [
 "cheese grater",
-4
+4,
+[]
 ],
 [
 "callus shaver",
-4
+4,
+[]
 ],
 [
 "Adson forceps",
-4
+4,
+[
+"Adson tissue forceps"
+]
 ],
 [
 "executioner's axe",
-4
+4,
+[
+"axe"
+]
 ],
 [
 "Bogota bag",
-4
+4,
+[]
 ],
 [
 "hydraulic torque wrench",
-4
+4,
+[]
 ],
 [
 "Venencia",
-4
+4,
+[]
 ],
 [
 "nutmeg grater",
-4
+4,
+[
+"nutmeg rasp"
+]
 ],
 [
 "Miner's axe",
-4
+4,
+[]
 ],
 [
 "marking axe",
-4
+4,
+[]
 ],
 [
 "smoothing plane",
-4
+4,
+[
+"smoother",
+"smooth plane"
+]
 ],
 [
 "beard trimmer",
-4
+4,
+[
+"barber shaver",
+"beard razor",
+"beard shaver",
+"stubble trimmer"
+]
 ],
 [
 "Detonator crimping pliers",
-3
+3,
+[]
 ],
 [
 "tube spanner",
-3
+3,
+[]
 ],
 [
 "surgical tweezers",
-3
-],
-[
-"electric pliers",
-3
-],
-[
-"center punch",
-3
-],
-[
-"hinge tweaker",
-3
-],
-[
-"Snook hook",
-3
-],
-[
-"slip joint pliers",
-3
-],
-[
-"90-30-60 set square",
-3
-],
-[
-"Microplane",
-3
-],
-[
-"nailset",
-3
-],
-[
-"flat axe",
-3
-],
-[
-"pneumatic torque wrench",
-3
-],
-[
-"joggling pliers",
-3
-],
-[
-"Norelco",
-3
-],
-[
-"palm",
-3
-],
-[
-"air hammer",
-3
-],
-[
-"automatic center punch",
-3
+3,
+[]
 ],
 [
 "fire shovel",
-3
+3,
+[
+"fireplace shovel"
+]
+],
+[
+"electric pliers",
+3,
+[
+"passatizhi",
+"pump pliers"
+]
+],
+[
+"center punch",
+3,
+[]
+],
+[
+"hinge tweaker",
+3,
+[
+"hinge adjuster",
+"Hinge bender"
+]
+],
+[
+"Snook hook",
+3,
+[
+"spay hook"
+]
+],
+[
+"slip joint pliers",
+3,
+[]
+],
+[
+"90-30-60 set square",
+3,
+[
+"set square"
+]
+],
+[
+"Microplane",
+3,
+[]
+],
+[
+"nailset",
+3,
+[
+"nail punch",
+"nail set",
+"pin punch"
+]
+],
+[
+"flat axe",
+3,
+[]
+],
+[
+"pneumatic torque wrench",
+3,
+[]
+],
+[
+"joggling pliers",
+3,
+[
+"Absetzzange"
+]
+],
+[
+"Norelco",
+3,
+[
+"Norelco product",
+"Norelco product line"
+]
+],
+[
+"palm",
+3,
+[]
+],
+[
+"air hammer",
+3,
+[
+"air chisel"
+]
+],
+[
+"automatic center punch",
+3,
+[]
 ],
 [
 "cat's paw",
-3
+3,
+[
+"cat's claw",
+"nail claw",
+"tack lifter",
+"tack pull",
+"tack puller",
+"tack wrench"
+]
 ],
 [
 "cranioclast",
-3
+3,
+[]
 ],
 [
 "Jige",
-3
+3,
+[]
 ],
 [
 "Mouli grater",
-3
+3,
+[
+"rotational grater"
+]
 ],
 [
 "Stanley Odd Jobs",
-3
+3,
+[
+"odd job",
+"Odd Job",
+"odd jobs",
+"Odd Jobs",
+"Stanley No.1 Odd Jobs"
+]
 ],
 [
 "hair tweezers",
-2
+2,
+[]
 ],
 [
 "ratchet wrench",
-2
+2,
+[]
 ],
 [
 "non adjustable wrench",
-2
+2,
+[]
 ],
 [
 "SIM card ejection tool",
-2
+2,
+[
+"SIM card eject tool",
+"SIM card removal tool",
+"SIM card tool",
+"SIM card tray pin eject tool",
+"SIM ejection tool",
+"SIM ejector",
+"SIM removal tool",
+"SIM tool"
+]
 ],
 [
 "plaster trowel",
-2
+2,
+[]
 ],
 [
 "wire cutters",
-2
+2,
+[
+"cutting pliers",
+"wire cutter",
+"wire shears"
+]
 ],
 [
 "dowel plate",
-2
+2,
+[]
 ],
 [
 "Glass Fibre Eraser Pencil",
-2
+2,
+[
+"Glass Eraser Pen"
+]
 ],
 [
 "brush drawing",
-2
+2,
+[]
 ],
 [
 "Probang",
-2
+2,
+[]
 ],
 [
 "Basin wrench",
-2
+2,
+[]
 ],
 [
 "clothes brush",
-2
+2,
+[
+"clothing brush"
+]
 ],
 [
 "curd cutter",
-2
+2,
+[]
 ],
 [
 "dental torque wrench",
-2
+2,
+[]
 ],
 [
 "anvil pruners",
-2
+2,
+[]
 ],
 [
 "Spark plug spanners",
-2
+2,
+[]
 ],
 [
 "Japanese chisel",
-2
+2,
+[
+"nomi"
+]
 ],
 [
 "Ring ratchet spanner",
-2
+2,
+[]
 ],
 [
 "fore plane",
-2
+2,
+[
+"#6 plane",
+"foreplane",
+"No. 6 plane",
+"short jointer"
+]
 ],
 [
 "basque wrench",
-2
+2,
+[]
 ],
 [
 "Joiners' hammer",
-2
+2,
+[]
 ],
 [
 "chimney sweep's shoulder iron",
-2
+2,
+[]
 ],
 [
 "stone chisel",
-2
+2,
+[]
 ],
 [
 "decorative rollers",
-2
+2,
+[
+"structural rollers"
+]
 ],
 [
 "millstone crane",
-2
+2,
+[]
 ],
 [
 "hedge clipper",
-2
+2,
+[
+"manual hedge trimmer"
+]
 ],
 [
 "suture needle",
-2
+2,
+[
+"suturing needle"
+]
 ],
 [
 "saw files",
-2
+2,
+[]
 ],
 [
 "Magic keys",
-2
+2,
+[]
 ],
 [
 "oil-filter wrench",
-2
+2,
+[]
 ],
 [
 "crimping tool",
-2
+2,
+[
+"crimper",
+"crimping pliers"
+]
 ],
 [
 "Porcelain of Nyon",
-2
+2,
+[]
 ],
 [
 "riffler file",
-2
+2,
+[]
 ],
 [
 "Tester screwdriver",
-2
+2,
+[]
 ],
 [
 "breaker bar",
-2
+2,
+[]
 ],
 [
 "Catlin",
-2
+2,
+[
+"catling"
+]
 ],
 [
 "coal shovel",
-2
+2,
+[]
 ],
 [
 "cradle",
-2
+2,
+[
+"cradle scythe",
+"grain cradle"
+]
 ],
 [
 "Drum wrench",
-2
+2,
+[]
 ],
 [
 "Electric torque wrench",
-2
+2,
+[]
 ],
 [
 "float",
-2
+2,
+[
+"planemaker's float",
+"planemakers float"
+]
 ],
 [
 "carpet stretcher",
-2
+2,
+[
+"knee kicker",
+"power stretcher"
+]
 ],
 [
 "Battery torque wrench",
-2
+2,
+[]
 ],
 [
 "hammer tacker",
-2
+2,
+[]
 ],
 [
 "hawk",
-2
+2,
+[]
 ],
 [
 "Bonney's round ligament forceps",
-2
+2,
+[]
 ],
 [
 "dog ball thrower",
-2
+2,
+[
+"ball launcher",
+"ball thrower",
+"ball-throwing device",
+"dog ball launcher",
+"tennis ball launcher",
+"tennis ball thrower"
+]
 ],
 [
 "Duck Bill Axe",
-2
+2,
+[]
 ],
 [
 "Mihbaj",
-2
+2,
+[]
 ],
 [
 "mop bucket cart",
-2
+2,
+[
+"mop trolley"
+]
 ],
 [
 "razee plane",
-2
+2,
+[
+"cutaway plane",
+"recess handle plane"
+]
 ],
 [
 "strap wrench",
-2
+2,
+[]
 ],
 [
 "shoe brush",
-2
+2,
+[
+"buffer",
+"Shoe Brushes",
+"shoe polish brush"
+]
+],
+[
+"triangular file",
+1,
+[
+"three cornered file",
+"three square file"
+]
+],
+[
+"round file",
+1,
+[]
+],
+[
+"Grape Shears",
+1,
+[
+"scissors (fruit)"
+]
+],
+[
+"transitional plane",
+1,
+[
+"wood bottom plane"
+]
+],
+[
+"circlip pliers",
+1,
+[]
+],
+[
+"intraosseous infusion device",
+1,
+[]
+],
+[
+"lawn levelling rake",
+1,
+[
+"lawn leveling rake",
+"levelawn rake",
+"level rake"
+]
+],
+[
+"dusting broom",
+1,
+[
+"cleaning brush"
+]
+],
+[
+"Nerve hook",
+1,
+[]
+],
+[
+"bruza",
+1,
+[]
+],
+[
+"electric toothbrush head",
+1,
+[
+"electric toothbrush replacement head",
+"toothbrush head"
+]
+],
+[
+"axe hammer",
+1,
+[]
+],
+[
+"diamond file",
+1,
+[]
+],
+[
+"motor wrench",
+1,
+[]
+],
+[
+"stockpiles",
+1,
+[]
+],
+[
+"spring hook",
+1,
+[]
+],
+[
+"wand",
+1,
+[
+"baton"
+]
+],
+[
+"ice saw",
+1,
+[
+"ice-saw"
+]
+],
+[
+"cryocauter",
+1,
+[]
+],
+[
+"DUKET",
+1,
+[]
+],
+[
+"Ligogu",
+1,
+[]
+],
+[
+"nbouet",
+1,
+[]
+],
+[
+"kitchen scissors",
+1,
+[
+"kitchen shears"
+]
+],
+[
+"paper scissors",
+1,
+[]
+],
+[
+"apothecary mortar",
+1,
+[]
+],
+[
+"briula",
+1,
+[
+"Briula",
+"Mint of Briula",
+"scanalaturi",
+"scanaturi"
+]
+],
+[
+"paint scraper",
+1,
+[]
+],
+[
+"Averruncator head",
+1,
+[
+"pruning shears head"
+]
+],
+[
+"notched trowel",
+1,
+[]
+],
+[
+"triangular wrench",
+1,
+[]
+],
+[
+"Slater's anvil",
+1,
+[]
+],
+[
+"imbemba",
+1,
+[]
+],
+[
+"fishtail",
+1,
+[
+"fishtail gouge",
+"fishtail spade gouge",
+"fishtail tool",
+"ishtail spade gouge"
+]
+],
+[
+"scoring knife",
+1,
+[
+"scoring tool"
+]
+],
+[
+"kajandu",
+1,
+[]
+],
+[
+"Marshalltown trowel",
+1,
+[]
+],
+[
+"Torque multiplier",
+1,
+[]
+],
+[
+"spanner wrench",
+1,
+[
+"hook spanner"
+]
+],
+[
+"Plumb",
+1,
+[]
+],
+[
+"tommy bar",
+1,
+[]
+],
+[
+"Ziehhobel (pulling planer)",
+1,
+[]
+],
+[
+"circle cutter",
+1,
+[]
+],
+[
+"Strohspalter",
+1,
+[]
+],
+[
+"stacking cone",
+1,
+[]
+],
+[
+"pizza scissors",
+1,
+[
+"pizza shears"
+]
+],
+[
+"Zuckerklatsche",
+1,
+[]
+],
+[
+"Zughammer",
+1,
+[]
+],
+[
+"silepe",
+1,
+[]
+],
+[
+"Ährenrechen",
+1,
+[]
+],
+[
+"Smoothing plane",
+1,
+[]
+],
+[
+"electrotome",
+1,
+[]
+],
+[
+"surgical forceps",
+1,
+[
+"forceps"
+]
+],
+[
+"Ciroir",
+1,
+[]
+],
+[
+"grooming scissors",
+1,
+[]
+],
+[
+"swivel head pin vise",
+1,
+[]
+],
+[
+"clamp Bar",
+1,
+[]
+],
+[
+"asparagus tongs",
+1,
+[]
+],
+[
+"painting knife",
+1,
+[
+"painting-knife"
+]
+],
+[
+"séran",
+1,
+[]
+],
+[
+"Subbia",
+1,
+[]
+],
+[
+"brick chisel",
+1,
+[]
+],
+[
+"Blackhawk",
+1,
+[]
+],
+[
+"Can wrench",
+1,
+[]
+],
+[
+"cleaving axe",
+1,
+[]
+],
+[
+"Ficron",
+1,
+[]
+],
+[
+"Ratchets",
+1,
+[]
+],
+[
+"surgical linen",
+1,
+[]
+],
+[
+"scraper",
+1,
+[]
+],
+[
+"archaeology trowel",
+1,
+[]
+],
+[
+"probes",
+1,
+[]
+],
+[
+"Beroş",
+1,
+[]
+],
+[
+"Nipple wrench",
+1,
+[]
+],
+[
+"power wrench",
+1,
+[]
+],
+[
+"The Pig",
+1,
+[]
+],
+[
+"torque tester",
+1,
+[]
+],
+[
+"tubular lock pick",
+1,
+[]
+],
+[
+"Tzii-wi",
+1,
+[]
+],
+[
+"nail brush",
+1,
+[]
+],
+[
+"fomich",
+1,
+[]
+],
+[
+"agate burnisher",
+1,
+[]
+],
+[
+"hand scythe",
+1,
+[]
+],
+[
+"alligator wrench",
+1,
+[]
+],
+[
+"rat-tail file",
+1,
+[]
+],
+[
+"Biscayne axe",
+1,
+[
+"Biscayne trade axe"
+]
+],
+[
+"circlip tool",
+0,
+[
+"retaining ring pliers",
+"snap ring pliers"
+]
+],
+[
+"bench plane",
+0,
+[]
+],
+[
+"hoop driver",
+0,
+[]
+],
+[
+"scarifier",
+0,
+[]
+],
+[
+"candle earmuffs",
+0,
+[]
+],
+[
+"clamp",
+0,
+[]
+],
+[
+"cigarette-ashtray",
+0,
+[]
+],
+[
+"cover clothes",
+0,
+[]
+],
+[
+"current glasses",
+0,
+[]
+],
+[
+"current clock",
+0,
+[]
+],
+[
+"doser medicine",
+0,
+[]
+],
+[
+"bath brush",
+0,
+[]
+],
+[
+"brush gun",
+0,
+[]
+],
+[
+"fence wire tensioner",
+0,
+[]
+],
+[
+"beverage bottle label",
+0,
+[]
+],
+[
+"iron charcoal",
+0,
+[]
+],
+[
+"guarantor (weapon)",
+0,
+[]
+],
+[
+"globe (light)",
+0,
+[]
+],
+[
+"left-locking",
+0,
+[]
+],
+[
+"chestplate",
+0,
+[]
+],
+[
+"indicator (blackboard)",
+0,
+[]
+],
+[
+"clean-downs (writing)",
+0,
+[]
+],
+[
+"clean feet",
+0,
+[]
+],
+[
+"glove of horsehair",
+0,
+[]
+],
+[
+"mango",
+0,
+[]
+],
+[
+"objects of assistance, personal care and comfort",
+0,
+[]
+],
+[
+"smoking object",
+0,
+[]
+],
+[
+"peia",
+0,
+[]
+],
+[
+"paper holder block",
+0,
+[]
+],
+[
+"match holder",
+0,
+[]
+],
+[
+"door-cloth",
+0,
+[]
+],
+[
+"saca-rag artillery",
+0,
+[]
+],
+[
+"washtub (clothing)",
+0,
+[]
+],
+[
+"cotton clinical clamp",
+0,
+[]
+],
+[
+"forceps gauze",
+0,
+[]
+],
+[
+"eyebrow tweezer",
+0,
+[]
+],
+[
+"cassava grater",
+0,
+[]
+],
+[
+"murça (lime)",
+0,
+[]
+],
+[
+"pruning saw",
+0,
+[
+"branch saw",
+"camping saw",
+"collapsible saw",
+"folding saw",
+"garden saw"
+]
+],
+[
+"Universal saw",
+0,
+[]
+],
+[
+"shovel cheese",
+0,
+[]
+],
+[
+"firefighting axe",
+0,
+[]
+],
+[
+"castration pliers",
+0,
+[
+"elastrator pliers"
+]
+],
+[
+"shoemaker pliers",
+0,
+[]
+],
+[
+"planer manual",
+0,
+[]
+],
+[
+"electric planer manual",
+0,
+[]
+],
+[
+"pointer",
+0,
+[]
+],
+[
+"fabric scissors",
+0,
+[]
+],
+[
+"scissors (jewelery)",
+0,
+[]
+],
+[
+"scissors (livestock)",
+0,
+[]
+],
+[
+"horsehair scissors",
+0,
+[]
+],
+[
+"cutters with tongue-in-tip cat",
+0,
+[]
+],
+[
+"cleaning brush (gun)",
+0,
+[]
+],
+[
+"brush table",
+0,
+[]
+],
+[
+"shovel (heater)",
+0,
+[]
+],
+[
+"shovel (gardening)",
+0,
+[]
+],
+[
+"nozzle blade",
+0,
+[]
+],
+[
+"square shovel",
+0,
+[]
+],
+[
+"wooden scissors",
+0,
+[]
+],
+[
+"spatula book",
+0,
+[]
+],
+[
+"heaver",
+0,
+[
+"bar",
+"heaving rod",
+"pole"
+]
+],
+[
+"Changdung",
+0,
+[]
+],
+[
+"shears",
+0,
+[
+"pair of shears"
+]
+],
+[
+"circumcision plate",
+0,
+[]
+],
+[
+"moulding chisel",
+0,
+[]
+],
+[
+"nail puller",
+0,
+[
+"nail extractor",
+"nail pull"
+]
+],
+[
+"polishing iron",
+0,
+[]
+],
+[
+"double-bitted axe",
+0,
+[
+"double-headed axe"
+]
+],
+[
+"paint can key",
+0,
+[
+"paint can opener"
+]
+],
+[
+"master link pliers",
+0,
+[
+"Chain link pliers",
+"Powerlink pliers",
+"Quick link pliers"
+]
+],
+[
+"cuticle scissors",
+0,
+[
+"Cuticle Scissors"
+]
+],
+[
+"Flieringa-Legrand ring",
+0,
+[
+"Bonaccolto ring",
+"Flieringa ring",
+"Flieringa's ring",
+"Flieringas ring",
+"Flieringa's scleral ring"
+]
+],
+[
+"craft & office scissors",
+0,
+[]
+],
+[
+"art brush",
+0,
+[]
+],
+[
+"chimney brush",
+0,
+[]
+],
+[
+"pipe cutter",
+0,
+[]
+],
+[
+"drill brush",
+0,
+[]
+],
+[
+"stair climbing hand truck",
+0,
+[
+"stair climber"
+]
+],
+[
+"flat nose pliers",
+0,
+[]
+],
+[
+"open-end spanner",
+0,
+[]
+],
+[
+"Duplex axe",
+0,
+[]
+],
+[
+"adjustable triangle",
+0,
+[]
+],
+[
+"baren",
+0,
+[]
+],
+[
+"chisel brush",
+0,
+[]
+],
+[
+"dusting brush",
+0,
+[]
+],
+[
+"levigator",
+0,
+[]
+],
+[
+"pitching chisel",
+0,
+[]
+],
+[
+"spitsticks",
+0,
+[]
+],
+[
+"stretching pliers",
+0,
+[]
+],
+[
+"Tushkar",
+0,
+[
+"tushker",
+"tuskar",
+"tusker"
+]
+],
+[
+"surgical instrument in knee replacement",
+0,
+[
+"knee arthroplasty surgical instruments",
+"knee replacement instrumentation",
+"TKA instrumentation"
+]
+],
+[
+"DeWalt DW268",
+0,
+[]
+],
+[
+"DeWalt DW257",
+0,
+[]
+],
+[
+"DeWalt DW272",
+0,
+[]
+],
+[
+"Hitachi W6V3",
+0,
+[]
+],
+[
+"bolster",
+0,
+[
+"bolster chisel"
+]
+],
+[
+"hat brush",
+0,
+[]
+],
+[
+"Indonesian ceremonial bronze axe",
+0,
+[]
+],
+[
+"war axe",
+0,
+[
+"ax"
+]
+],
+[
+"ceremonial axe",
+0,
+[
+"ceremonial ax",
+"Ceremonial Axe"
+]
+],
+[
+"trenching shovel",
+0,
+[
+"sharpshooter"
+]
+],
+[
+"compass plane",
+0,
+[
+"circular plane"
+]
+],
+[
+"Stone Axes, Hammers, Flakes, Cores and Pottery",
+0,
+[]
+],
+[
+"burnisher",
+0,
+[]
+],
+[
+"suede brush",
+0,
+[]
+],
+[
+"blacksmith's tongs",
+0,
+[
+"forging tongs",
+"smith's tongs"
+]
+],
+[
+"surgical stapler",
+0,
+[
+"surgical staplers"
+]
 ]
 ]

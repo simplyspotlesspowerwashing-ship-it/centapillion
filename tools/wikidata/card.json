@@ -1,598 +1,6629 @@
 [
 [
 "contract bridge",
-70
+70,
+[
+"bridge",
+"bridge game",
+"game of bridge"
+]
 ],
 [
 "blackjack",
-64
+64,
+[
+"Card Games/Blackjack",
+"twenty-one"
+]
 ],
 [
 "baccarat",
-38
+38,
+[
+"baccara"
+]
 ],
 [
 "Rummy",
-37
+37,
+[]
 ],
 [
 "Canasta",
-33
+33,
+[]
 ],
 [
 "hanafuda",
-33
+33,
+[
+"hwatu"
+]
 ],
 [
 "whist",
-33
+33,
+[]
 ],
 [
 "Omaha hold 'em",
-25
+25,
+[]
 ],
 [
 "Professional eater",
-24
+24,
+[
+"banana split",
+"bullshit",
+"cheat",
+"I Doubt It",
+"Verish' Ne Verish'"
+]
 ],
 [
 "FreeCell",
-22
+22,
+[]
 ],
 [
 "Scopa",
-21
+21,
+[]
 ],
 [
 "Briscola",
-21
+21,
+[]
 ],
 [
 "karuta",
-20
+20,
+[]
 ],
 [
 "Tarot of Marseilles",
-20
+20,
+[]
 ],
 [
 "Spades",
-20
+20,
+[]
 ],
 [
 "cribbage",
-18
+18,
+[
+"crib"
+]
 ],
 [
 "War",
-18
+18,
+[]
 ],
 [
 "Black Peter",
-18
+18,
+[]
 ],
 [
 "Splendor",
-17
+17,
+[]
 ],
 [
 "Piquet",
-17
+17,
+[]
 ],
 [
 "Hearts",
-17
+17,
+[
+"Calamity Jane",
+"Slippery Bitch"
+]
 ],
 [
 "Bezique",
-16
+16,
+[]
 ],
 [
 "Mau-Mau",
-16
+16,
+[
+"Macau"
+]
 ],
 [
 "twenty-one",
-16
+16,
+[
+"21",
+"blackjack"
+]
 ],
 [
 "French tarot",
-16
+16,
+[
+"jeu de tarot",
+"tarot"
+]
 ],
 [
 "Gin rummy",
-15
+15,
+[
+"Gin"
+]
 ],
 [
 "Hanabi",
-15
+15,
+[]
 ],
 [
 "Tressette",
-15
+15,
+[]
 ],
 [
 "Crazy Eights",
-15
+15,
+[]
 ],
 [
 "oh, hell",
-15
+15,
+[
+"ah hell",
+"contract whist",
+"oh hell",
+"wist"
+]
 ],
 [
 "Illuminati",
-14
+14,
+[
+"The Illuminati"
+]
 ],
 [
 "sixty-six",
-14
+14,
+[
+"Paderbörnern"
+]
 ],
 [
 "Visconti-Sforza tarot",
-14
+14,
+[]
 ],
 [
 "Sette e Mezzo",
-13
+13,
+[
+"Seven and a Half"
+]
 ],
 [
 "Chinese poker",
-13
+13,
+[
+"Chinese_poker"
+]
 ],
 [
 "Sevens",
-13
+13,
+[
+"Parliament"
+]
 ],
 [
 "Go-Stop",
-13
+13,
+[]
 ],
 [
 "Pinochle",
-13
+13,
+[]
 ],
 [
 "Old maid",
-13
+13,
+[]
 ],
 [
 "ombre",
-13
+13,
+[]
 ],
 [
 "Spider",
-13
+13,
+[
+"Roosevelt's Favorite",
+"Roosevelt's Favourite"
+]
 ],
 [
 "Go Fish",
-13
+13,
+[]
 ],
 [
 "Truco",
-13
+13,
+[]
 ],
 [
 "Caribbean stud poker",
-12
+12,
+[]
 ],
 [
 "faro",
-12
+12,
+[]
 ],
 [
 "three-card monte",
-12
+12,
+[
+"find the lady",
+"monte",
+"three card monte",
+"three-card trick"
+]
 ],
 [
 "As-Nas",
-12
+12,
+[]
 ],
 [
 "écarté",
-12
+12,
+[]
 ],
 [
 "Euchre",
-12
+12,
+[]
 ],
 [
 "Koi-Koi",
-12
+12,
+[
+"Koikoi",
+"Koi Koi"
+]
 ],
 [
 "Jass",
-12
+12,
+[]
 ],
 [
 "Russian bank",
-11
+11,
+[
+"Crapette",
+"Touch",
+"Tunj"
+]
 ],
 [
 "Shithead",
-11
+11,
+[
+"Danish",
+"Karma",
+"Palace",
+"Shed",
+"Shithead (card game)"
+]
 ],
 [
 "Lansquenet",
-11
+11,
+[]
 ],
 [
 "Cassino",
-10
+10,
+[
+"Casino"
+]
 ],
 [
 "Kemps",
-10
+10,
+[
+"Canes"
+]
 ],
 [
 "Trente et Quarante",
-10
+10,
+[
+"Rouge-et-Noir"
+]
 ],
 [
 "Dou Di Zhu",
-10
+10,
+[]
 ],
 [
 "Manille",
-10
+10,
+[]
 ],
 [
 "Kabufuda",
-10
+10,
+[]
 ],
 [
 "Scum",
-10
+10,
+[
+"Arsehole",
+"Janitor",
+"Kings",
+"Kings and Assholes",
+"Landlord",
+"President",
+"Rich Man Poor Man",
+"Scumbag",
+"Warlords and Scumbags"
+]
 ],
 [
 "Tichu",
-10
+10,
+[]
 ],
 [
 "mus",
-10
+10,
+[]
 ],
 [
 "Sanguosha",
-9
+9,
+[
+"Legends of the Three Kingdoms",
+"Three Kingdoms Kill"
+]
 ],
 [
 "Doppelkopf",
-9
+9,
+[]
 ],
 [
 "Gnav",
-9
+9,
+[]
 ],
 [
 "Tute",
-9
+9,
+[]
 ],
 [
 "24 game",
-9
+9,
+[
+"24"
+]
 ],
 [
 "happy families",
-9
+9,
+[]
 ],
 [
 "KeyForge",
-9
+9,
+[
+"Key Forge"
+]
 ],
 [
 "Conquian",
-9
+9,
+[
+"Coon Can"
+]
 ],
 [
 "Buraco",
-8
+8,
+[]
 ],
 [
 "Lost Cities",
-8
+8,
+[]
 ],
 [
 "Quartets",
-8
+8,
+[
+"Quartet",
+"Quartett"
+]
 ],
 [
 "duplicate bridge",
-8
+8,
+[]
 ],
 [
 "Karnöffel",
-8
+8,
+[]
 ],
 [
 "competitive karuta",
-8
+8,
+[
+"kyogi karuta"
+]
 ],
 [
 "Daifugō",
-8
+8,
+[
+"Capitalist",
+"Daihinmin",
+"President",
+"Tycoon"
+]
 ],
 [
 "Top Trumps",
-8
+8,
+[]
 ],
 [
 "Eleusis",
-8
+8,
+[]
 ],
 [
 "Ligretto",
-7
+7,
+[]
 ],
 [
 "uta-garuta",
-7
+7,
+[
+"hyakunin isshu karuta",
+"karuta"
+]
 ],
 [
 "Mao",
-7
+7,
+[]
 ],
 [
 "Macao",
-7
+7,
+[]
 ],
 [
 "Race for the Galaxy",
-7
+7,
+[]
 ],
 [
 "Oicho-Kabu",
-7
+7,
+[]
 ],
 [
 "Madiao",
-7
+7,
+[]
 ],
 [
 "Pyramid",
-7
+7,
+[]
 ],
 [
 "Aluette",
-7
+7,
+[]
 ],
 [
 "Yablon",
-7
+7,
+[
+"Red dog poker"
+]
 ],
 [
 "burro",
-7
+7,
+[]
 ],
 [
 "rubber bridge",
-7
+7,
+[]
 ],
 [
 "Bastra",
-7
+7,
+[
+"Pastra"
+]
 ],
 [
 "The Mind",
-7
+7,
+[]
 ],
 [
 "Just One",
-7
+7,
+[]
 ],
 [
 "Barbu",
-7
+7,
+[]
 ],
 [
 "Spoons",
-7
+7,
+[
+"1-2-3 Pass",
+"Donkey",
+"Pig"
+]
 ],
 [
 "Boston",
-7
+7,
+[]
 ],
 [
 "Watten",
-7
+7,
+[]
 ],
 [
 "Napoleon",
-6
+6,
+[
+"Nap"
+]
 ],
 [
 "Thirty-one",
-6
+6,
+[]
 ],
 [
 "Lorum",
-6
+6,
+[]
 ],
 [
 "Cucumber",
-6
+6,
+[]
 ],
 [
 "Yaniv",
-6
+6,
+[
+"Dhumbal",
+"Jhyap"
+]
 ],
 [
 "Russian Schnapsen",
-6
+6,
+[
+"Thousand Schnapsen"
+]
 ],
 [
 "Spit",
-6
+6,
+[]
 ],
 [
 "Oblique Strategies",
-6
+6,
+[]
 ],
 [
 "Aces Up",
-6
+6,
+[
+"Firing Squad"
+]
 ],
 [
 "Egyptian Ratscrew",
-6
+6,
+[
+"Card Games/Egyptian Ratscrew"
+]
 ],
 [
 "Four Color Cards",
-6
+6,
+[]
 ],
 [
 "7 Wonders Duel",
-6
+6,
+[]
 ],
 [
 "Tablanet",
-6
+6,
+[]
 ],
 [
 "Chinchón",
-6
+6,
+[
+"Chinchon"
+]
 ],
 [
 "500",
-6
+6,
+[
+"Five Hundred"
+]
 ],
 [
 "Continental Rummy",
-6
+6,
+[]
 ],
 [
 "Pasur",
-6
+6,
+[]
 ],
 [
 "Court piece",
-6
+6,
+[]
 ],
 [
 "slapjack",
-6
+6,
+[
+"slap jack"
+]
 ],
 [
 "Three card brag",
-6
+6,
+[]
 ],
 [
 "Pan",
-5
+5,
+[]
 ],
 [
 "Ulti",
-5
+5,
+[]
 ],
 [
 "Forest Shuffle",
-5
+5,
+[]
 ],
 [
 "Trappola",
-5
+5,
+[]
 ],
 [
 "Jaipur",
-5
+5,
+[]
 ],
 [
 "Open-face Chinese poker",
-5
+5,
+[
+"OFCP"
+]
 ],
 [
 "Klaverjas",
-5
+5,
+[]
 ],
 [
 "Golf",
-5
+5,
+[
+"Cambio",
+"Crazy Nines",
+"Dutch",
+"Hara Kiri",
+"Pablo",
+"Polish Poker",
+"Polish Polka",
+"Turtle"
+]
 ],
 [
 "Polignac",
-5
+5,
+[]
 ],
 [
 "coinche",
-5
+5,
+[
+"belote coinchée"
+]
 ],
 [
 "Sushi Go!",
-5
+5,
+[]
 ],
 [
 "Stýrivolt",
-5
+5,
+[]
 ],
 [
 "Swiss 1JJ Tarot",
-5
+5,
+[]
 ],
 [
 "Zwicken",
-5
+5,
+[]
 ],
 [
 "zole",
-5
-],
-[
-"Primero",
-5
-],
-[
-"Beggar-My-Neighbour",
-5
-],
-[
-"Triomphe",
-5
-],
-[
-"Blüchern",
-5
-],
-[
-"500 rum",
-5
-],
-[
-"Basset",
-5
+5,
+[]
 ],
 [
 "Chicago",
-5
+5,
+[
+"Four-deal Bridge",
+"Short Bridge"
+]
+],
+[
+"Primero",
+5,
+[]
+],
+[
+"Beggar-My-Neighbour",
+5,
+[]
+],
+[
+"Triomphe",
+5,
+[
+"Triomphe/trionfa"
+]
+],
+[
+"Blüchern",
+5,
+[]
+],
+[
+"500 rum",
+5,
+[
+"500 rummy",
+"Michigan rummy",
+"Persian rummy",
+"pinochle rummy",
+"rummy 500"
+]
+],
+[
+"Basset",
+5,
+[]
 ],
 [
 "auction bridge",
-5
+5,
+[]
 ],
 [
 "Nain Jaune",
-5
+5,
+[]
 ],
 [
 "One Card",
-5
+5,
+[]
 ],
 [
 "Rams",
-5
+5,
+[]
 ],
 [
 "Sequence",
-5
+5,
+[]
 ],
 [
 "Sueca",
-5
+5,
+[]
 ],
 [
 "The Crew: The Quest for Planet Nine",
-5
+5,
+[
+"The Crew"
+]
 ],
 [
 "Bouillotte",
-5
+5,
+[]
+],
+[
+"Coucou",
+4,
+[]
+],
+[
+"Uno Flip!",
+4,
+[
+"Uno Flip"
+]
+],
+[
+"Ninety-nine",
+4,
+[]
+],
+[
+"Monopoly Deal",
+4,
+[]
+],
+[
+"Panguingue",
+4,
+[]
+],
+[
+"Scarto",
+4,
+[]
+],
+[
+"Mauscheln",
+4,
+[
+"Maus",
+"Vierblatt"
+]
+],
+[
+"King",
+4,
+[]
+],
+[
+"Ceki",
+4,
+[]
+],
+[
+"Quadrille",
+4,
+[]
+],
+[
+"Russia without Putin?",
+4,
+[]
+],
+[
+"Colour whist",
+4,
+[]
+],
+[
+"Kuhn poker",
+4,
+[]
+],
+[
+"straight",
+4,
+[
+"Run"
+]
+],
+[
+"Königrufen",
+4,
+[]
+],
+[
+"Blind Hookey",
+4,
+[]
+],
+[
+"Poch",
+4,
+[]
+],
+[
+"Silesian Lottery",
+4,
+[]
+],
+[
+"52 pickup",
+4,
+[
+"52-card pickup"
+]
+],
+[
+"Bohemian Schneider",
+4,
+[]
+],
+[
+"Diamant",
+4,
+[
+"Incan Gold"
+]
+],
+[
+"Bura (card game)",
+4,
+[
+"Thirty-One"
+]
+],
+[
+"Knightmare Chess",
+4,
+[
+"Nightmare Chess",
+"Tempête sur l'échiquier"
+]
+],
+[
+"Calabresella",
+4,
+[]
+],
+[
+"sousem",
+4,
+[
+"Canadian stud",
+"Scandinavian stud",
+"soko",
+"sökö"
+]
+],
+[
+"3-5-8",
+4,
+[
+"sergeant major"
+]
+],
+[
+"Machiavelli (Italian card game)",
+4,
+[]
+],
+[
+"stuss",
+4,
+[
+"Jewish Faro"
+]
+],
+[
+"Up Front",
+4,
+[]
+],
+[
+"Skitgubbe",
+4,
+[]
+],
+[
+"Bella Sara",
+4,
+[]
+],
+[
+"guiñote",
+4,
+[
+"bresca real"
+]
+],
+[
+"carioca",
+4,
+[
+"Carioca"
+]
+],
+[
+"escoba",
+4,
+[]
+],
+[
+"The Binding of Isaac: Four Souls",
+4,
+[]
+],
+[
+"Gong Zhu",
+4,
+[
+"Gongzhu"
+]
+],
+[
+"chlust",
+4,
+[]
+],
+[
+"Macau",
+4,
+[
+"Macao",
+"Macaua",
+"Macau (card game)",
+"Makaó",
+"Makaua"
+]
+],
+[
+"Lanterloo",
+4,
+[
+"Loo"
+]
+],
+[
+"Köpknack",
+4,
+[]
+],
+[
+"O'NO 99",
+4,
+[
+"Double Play"
+]
+],
+[
+"Paskahousu",
+4,
+[]
+],
+[
+"Pope Joan",
+4,
+[]
+],
+[
+"Sleeping Queens",
+4,
+[]
+],
+[
+"Starship Catan",
+4,
+[]
+],
+[
+"tam cúc",
+4,
+[]
+],
+[
+"Mariage",
+4,
+[]
+],
+[
+"Byggkasino",
+3,
+[]
+],
+[
+"Onze et demie",
+3,
+[]
+],
+[
+"Swedish whist",
+3,
+[]
+],
+[
+"Ferme",
+3,
+[]
+],
+[
+"Sjavs",
+3,
+[]
+],
+[
+"Cockroach Poker",
+3,
+[]
+],
+[
+"1001",
+3,
+[]
+],
+[
+"Roppyakken",
+3,
+[]
+],
+[
+"Challengers!",
+3,
+[]
+],
+[
+"Drużbart",
+3,
+[]
+],
+[
+"Brede Mette",
+3,
+[]
+],
+[
+"Faraway",
+3,
+[]
+],
+[
+"Trio",
+3,
+[]
+],
+[
+"Robbers' rummy",
+3,
+[]
+],
+[
+"51",
+3,
+[]
+],
+[
+"Odin",
+3,
+[]
+],
+[
+"Castle Combo",
+3,
+[]
+],
+[
+"Flip 7",
+3,
+[]
+],
+[
+"Toepen",
+3,
+[]
+],
+[
+"Twenty-eight",
+3,
+[]
+],
+[
+"Jo-Jotte",
+3,
+[]
+],
+[
+"Solo whist",
+3,
+[]
+],
+[
+"Gaigel",
+3,
+[]
+],
+[
+"Tatteln",
+3,
+[]
+],
+[
+"Bassadewitz",
+3,
+[]
+],
+[
+"Troggu",
+3,
+[]
+],
+[
+"Fifteen Lake",
+3,
+[]
+],
+[
+"Bourré",
+3,
+[]
+],
+[
+"Indian Rummy",
+3,
+[]
+],
+[
+"Lemon",
+3,
+[
+"Atlantis",
+"Chanhassen",
+"James Bond"
+]
+],
+[
+"Préférence",
+3,
+[
+"Preference"
+]
+],
+[
+"Reversis",
+3,
+[]
+],
+[
+"Touring",
+3,
+[
+"Touring card game"
+]
+],
+[
+"Polish Red Dog",
+3,
+[
+"Stitch"
+]
+],
+[
+"Cenzr",
+3,
+[]
+],
+[
+"Monte Bank",
+3,
+[]
+],
+[
+"officers' skat",
+3,
+[
+"two-player Skat"
+]
+],
+[
+"Balloon Cup",
+3,
+[]
+],
+[
+"Vira (card game)",
+3,
+[]
+],
+[
+"Zwanzigerrufen",
+3,
+[]
+],
+[
+"Tempeln",
+3,
+[
+"Stoß"
+]
+],
+[
+"A Game of Thrones: Second Edition",
+3,
+[
+"A Game of Thrones: The Card Game Second Edition",
+"AGoT"
+]
+],
+[
+"Perlaggen",
+3,
+[]
+],
+[
+"Grasobern",
+3,
+[]
+],
+[
+"Bavarian Tarock",
+3,
+[
+"Bavarian tarot"
+]
+],
+[
+"Rammeln",
+3,
+[]
+],
+[
+"Wallachen",
+3,
+[]
+],
+[
+"Norseman's knock",
+3,
+[]
+],
+[
+"Knektpass",
+3,
+[]
+],
+[
+"Kille",
+3,
+[]
+],
+[
+"Goulash",
+3,
+[]
+],
+[
+"Hero Realms",
+3,
+[]
+],
+[
+"Imperial Settlers",
+3,
+[]
+],
+[
+"Bestia",
+3,
+[]
+],
+[
+"Trionfo",
+3,
+[]
+],
+[
+"Century: Spice Road",
+3,
+[]
+],
+[
+"Trex",
+3,
+[]
+],
+[
+"Brusquembille",
+3,
+[]
+],
+[
+"Pedro",
+3,
+[
+"High Five",
+"Pedro (card game)"
+]
+],
+[
+"Marjapussi",
+3,
+[]
+],
+[
+"Apples to Apples",
+3,
+[]
+],
+[
+"Beleaguered Castle",
+3,
+[]
+],
+[
+"Brelan",
+3,
+[]
+],
+[
+"buta no shippo",
+3,
+[]
+],
+[
+"Canfield",
+3,
+[]
+],
+[
+"Chinese Blackjack",
+3,
+[
+"21-point",
+"ban-luck"
+]
+],
+[
+"Contract rummy",
+3,
+[]
+],
+[
+"Double Exposure Blackjack",
+3,
+[
+"Black Jack Double Exposure",
+"Double Exposure",
+"See-Thru 21"
+]
+],
+[
+"German Solo",
+3,
+[]
+],
+[
+"German whist",
+3,
+[
+"Chinese whist",
+"Honeymoon Whist"
+]
+],
+[
+"Droggn",
+3,
+[]
+],
+[
+"Gloom",
+3,
+[
+"Cthulhu Gloom"
+]
+],
+[
+"Mistigri",
+3,
+[]
+],
+[
+"Binokel",
+3,
+[]
+],
+[
+"Krypkille",
+3,
+[]
+],
+[
+"Julepe",
+3,
+[]
+],
+[
+"Juckerspiel",
+3,
+[]
+],
+[
+"le her",
+3,
+[]
+],
+[
+"Knack",
+3,
+[]
+],
+[
+"Svängknack",
+3,
+[]
+],
+[
+"Schatz der Drachen",
+3,
+[]
+],
+[
+"Mulle",
+3,
+[]
+],
+[
+"Musta Maija",
+3,
+[]
+],
+[
+"Noddy",
+3,
+[]
+],
+[
+"Pit",
+3,
+[]
+],
+[
+"Quinze",
+3,
+[]
+],
+[
+"Ristikontra",
+3,
+[]
+],
+[
+"Shuffle track",
+3,
+[]
+],
+[
+"snip-snap-snorum",
+3,
+[
+"snip snap snorem",
+"snip-snap-snorem"
+]
+],
+[
+"spite and malice",
+3,
+[]
+],
+[
+"Twenty-five",
+3,
+[
+"25",
+"Five and Ten",
+"Five-cards",
+"Five Cards",
+"Five Fingers",
+"Spoilt Five"
+]
+],
+[
+"What do you Meme?",
+3,
+[
+"What Do You Meme?"
+]
+],
+[
+"Switch",
+3,
+[]
+],
+[
+"Thunee",
+3,
+[]
+],
+[
+"Tien len",
+3,
+[
+"Tiến lên",
+"Vietnamese cards"
+]
+],
+[
+"Tri Peaks",
+3,
+[
+"Three Peaks",
+"Triple Peaks"
+]
+],
+[
+"Waterworks",
+3,
+[
+"Waterworks Classic"
+]
+],
+[
+"Bauernschnapsen",
+3,
+[]
+],
+[
+"Scharwenzel",
+3,
+[]
+],
+[
+"Brandeln",
+3,
+[]
+],
+[
+"Bruus",
+3,
+[]
+],
+[
+"Elfern",
+3,
+[]
+],
+[
+"Brus",
+3,
+[]
+],
+[
+"banka bäver",
+2,
+[]
+],
+[
+"Newmarket",
+2,
+[
+"boodle",
+"Newmarket (card game)",
+"Newmarket horses",
+"stops"
+]
+],
+[
+"Rumpel",
+2,
+[]
+],
+[
+"Penneech",
+2,
+[]
+],
+[
+"Queen Nazarene",
+2,
+[]
+],
+[
+"Femkort",
+2,
+[]
+],
+[
+"Kodilj",
+2,
+[]
+],
+[
+"Point Salad",
+2,
+[]
+],
+[
+"wiezen",
+2,
+[]
+],
+[
+"Priffe",
+2,
+[]
+],
+[
+"Rödskägg",
+2,
+[]
+],
+[
+"Tong-its",
+2,
+[]
+],
+[
+"Trischaken",
+2,
+[]
+],
+[
+"Chratze",
+2,
+[]
+],
+[
+"Dreierles",
+2,
+[]
+],
+[
+"Comet",
+2,
+[]
+],
+[
+"Hoc Mazarin",
+2,
+[
+"Hoc"
+]
+],
+[
+"Romestecq",
+2,
+[]
+],
+[
+"Gou Ji",
+2,
+[]
+],
+[
+"Goldrausch",
+2,
+[]
+],
+[
+"Brisca",
+2,
+[]
+],
+[
+"Neunkart",
+2,
+[]
+],
+[
+"German Tarok",
+2,
+[]
+],
+[
+"Scout",
+2,
+[
+"SCOUT"
+]
+],
+[
+"Pandur",
+2,
+[]
+],
+[
+"skærvindsel",
+2,
+[]
+],
+[
+"Cockroach Salad",
+2,
+[]
+],
+[
+"Svoyi Koziri",
+2,
+[]
+],
+[
+"Scherwenzel",
+2,
+[
+"Scharwenzel"
+]
+],
+[
+"Hana-Awase",
+2,
+[]
+],
+[
+"Höllfahren",
+2,
+[]
+],
+[
+"Sizette",
+2,
+[]
+],
+[
+"Quadrette",
+2,
+[]
+],
+[
+"Schlauch",
+2,
+[]
+],
+[
+"Fun Facts",
+2,
+[]
+],
+[
+"Cuccù",
+2,
+[
+"Cucù"
+]
+],
+[
+"Vogelspiel",
+2,
+[]
+],
+[
+"Mona",
+2,
+[]
+],
+[
+"German Schafkopf",
+2,
+[]
+],
+[
+"Botifarra",
+2,
+[]
+],
+[
+"Davoserjazz",
+2,
+[]
+],
+[
+"Maw",
+2,
+[]
+],
+[
+"Hahndreier",
+2,
+[]
+],
+[
+"Anomia",
+2,
+[]
+],
+[
+"Seotda",
+2,
+[]
+],
+[
+"Dvorak",
+2,
+[]
+],
+[
+"Taco Kitten Pizza",
+2,
+[]
+],
+[
+"Lupfen",
+2,
+[]
+],
+[
+"Tapp-Tarock",
+2,
+[
+"Viennese tarot"
+]
+],
+[
+"Taco Cat Goat Cheese Pizza",
+2,
+[]
+],
+[
+"Dreeg",
+2,
+[]
+],
+[
+"Pixies",
+2,
+[]
+],
+[
+"Mooki Island",
+2,
+[]
+],
+[
+"Slovenian Tarok",
+2,
+[
+"Tarocco"
+]
+],
+[
+"illustrated tarot",
+2,
+[]
+],
+[
+"Hund",
+2,
+[]
+],
+[
+"Kuku",
+2,
+[]
+],
+[
+"Klammern",
+2,
+[]
+],
+[
+"Minnesota whist",
+2,
+[]
+],
+[
+"Wendish Schafkopf",
+2,
+[]
+],
+[
+"Sheepshead",
+2,
+[]
+],
+[
+"Grass",
+2,
+[]
+],
+[
+"Chor Voli",
+2,
+[]
+],
+[
+"Lascaux",
+2,
+[]
+],
+[
+"Strohmandeln",
+2,
+[]
+],
+[
+"Golden Creature Card",
+2,
+[
+"Battle of Golden Monster",
+"Golden Monster Battle"
+]
+],
+[
+"Kein Stich",
+2,
+[]
+],
+[
+"Herzeln",
+2,
+[]
+],
+[
+"Rouge et noir",
+2,
+[
+"Rouge et Noir"
+]
+],
+[
+"Truc y flou",
+2,
+[]
+],
+[
+"Targi",
+2,
+[]
+],
+[
+"Jabberwocky",
+2,
+[]
+],
+[
+"Booleo",
+2,
+[]
+],
+[
+"Australian Patience",
+2,
+[]
+],
+[
+"Schweinchen",
+2,
+[]
+],
+[
+"Cuttle",
+2,
+[
+"Combat"
+]
+],
+[
+"Kaiserspiel",
+2,
+[]
+],
+[
+"Kaschlan",
+2,
+[]
+],
+[
+"Rosbiratschka",
+2,
+[]
+],
+[
+"Zwikken",
+2,
+[]
+],
+[
+"Letzter",
+2,
+[]
+],
+[
+"Mucken",
+2,
+[]
+],
+[
+"Mulatschak",
+2,
+[]
+],
+[
+"Oma Skat",
+2,
+[]
+],
+[
+"Neunzehnerrufen",
+2,
+[]
+],
+[
+"La Fallera Calavera",
+2,
+[]
+],
+[
+"Quodlibet",
+2,
+[]
+],
+[
+"Rage",
+2,
+[]
+],
+[
+"Boží požehnání",
+2,
+[]
+],
+[
+"Bauerchen",
+2,
+[]
+],
+[
+"Enflé",
+2,
+[]
+],
+[
+"Siebenschräm",
+2,
+[
+"7 Schräm"
+]
+],
+[
+"Bismarck",
+2,
+[]
+],
+[
+"Sticheln",
+2,
+[]
+],
+[
+"My Aunt, Your Ant",
+2,
+[
+"Meine Tante, Deine Tante"
+]
+],
+[
+"Württemberg tarot",
+2,
+[
+"Tapp"
+]
+],
+[
+"the king of hearts has five sons",
+2,
+[]
+],
+[
+"Tippen",
+2,
+[
+"Dreekort",
+"Dreiblatt",
+"Drei Karten",
+"Kleinpréférence",
+"Labet",
+"Trekort"
+]
+],
+[
+"Zwickern",
+2,
+[]
+],
+[
+"Pandoer",
+2,
+[]
+],
+[
+"Hungarian Tarokk",
+2,
+[]
+],
+[
+"Epic Card Game",
+2,
+[]
+],
+[
+"Treppenrommé",
+2,
+[]
+],
+[
+"rank",
+2,
+[]
+],
+[
+"Müller Matz",
+2,
+[]
+],
+[
+"Alkort",
+2,
+[]
+],
+[
+"Bohemian Watten",
+2,
+[]
+],
+[
+"Herz zu Herz",
+2,
+[]
+],
+[
+"Counting Patience",
+2,
+[]
+],
+[
+"Pollack (card game)",
+2,
+[]
+],
+[
+"bank",
+2,
+[]
+],
+[
+"bonking",
+2,
+[]
+],
+[
+"Chkobba",
+2,
+[]
+],
+[
+"Rutersju",
+2,
+[]
+],
+[
+"Ranter-Go-Round",
+2,
+[
+"Chase the ace"
+]
+],
+[
+"Little Lots",
+2,
+[
+"Eight Packet Patience"
+]
+],
+[
+"Crazy pineapple",
+2,
+[]
+],
+[
+"poka",
+2,
+[]
+],
+[
+"debertz",
+2,
+[
+"deberts"
+]
+],
+[
+"Eralash",
+2,
+[]
+],
+[
+"Sleuth",
+2,
+[]
+],
+[
+"Cabo",
+2,
+[]
+],
+[
+"Tonk",
+2,
+[]
+],
+[
+"Pilotta",
+2,
+[]
+],
+[
+"ace wins all",
+2,
+[]
+],
+[
+"Cicera bigia",
+2,
+[
+"Ciccera biccera",
+"Cicera"
+]
+],
+[
+"Credo",
+2,
+[]
+],
+[
+"Mag·Blast",
+2,
+[
+"Mag Blast"
+]
+],
+[
+"Troccas",
+2,
+[]
+],
+[
+"Patruni e sutta",
+2,
+[]
+],
+[
+"truc",
+2,
+[]
+],
+[
+"Just 4 Fun",
+2,
+[]
+],
+[
+"Star Wars: Destiny",
+2,
+[]
+],
+[
+"400",
+2,
+[]
+],
+[
+"Accordion",
+2,
+[
+"Tower of Babel"
+]
+],
+[
+"Adrenalyn XL",
+2,
+[]
+],
+[
+"Agnes",
+2,
+[]
+],
+[
+"Memoarrr!",
+2,
+[]
+],
+[
+"Amazons",
+2,
+[]
+],
+[
+"Solo 66",
+2,
+[]
+],
+[
+"Majesty: For the Realm",
+2,
+[]
+],
+[
+"Authors",
+2,
+[
+"The Game of Authors"
+]
+],
+[
+"Bartok",
+2,
+[]
+],
+[
+"bid whist",
+2,
+[]
+],
+[
+"Bingo",
+2,
+[
+"bango"
+]
+],
+[
+"Biriba",
+2,
+[]
+],
+[
+"Blackjack Switch",
+2,
+[
+"Black Jack Switch"
+]
+],
+[
+"Bridge whist",
+2,
+[
+"straight bridge"
+]
+],
+[
+"Calculation",
+2,
+[]
+],
+[
+"Car Wars The Card Game",
+2,
+[
+"Car Wars: The Card Game"
+]
+],
+[
+"catch the ten",
+2,
+[]
+],
+[
+"Matt",
+2,
+[]
+],
+[
+"Chrononauts",
+2,
+[]
+],
+[
+"Cuarenta",
+2,
+[]
+],
+[
+"Evolution: Random Mutations",
+2,
+[]
+],
+[
+"Dark Eden",
+2,
+[]
+],
+[
+"Dupa Biskupa",
+2,
+[]
+],
+[
+"Einwerfen",
+2,
+[]
+],
+[
+"Elimination Blackjack",
+2,
+[]
+],
+[
+"Dreierschnapsen",
+2,
+[]
+],
+[
+"Gaps",
+2,
+[
+"Blanket",
+"Blue Moon",
+"Montana",
+"Montana Aces",
+"Red Moon",
+"Spaces",
+"Station",
+"Vacancies"
+]
+],
+[
+"Dragonwood",
+2,
+[]
+],
+[
+"Gilet",
+2,
+[
+"Gile"
+]
+],
+[
+"Point Tarock",
+2,
+[]
+],
+[
+"Bauernfangen",
+2,
+[]
+],
+[
+"Bauernheinrich",
+2,
+[]
+],
+[
+"Port Royal",
+2,
+[]
+],
+[
+"Panko card game",
+2,
+[]
+],
+[
+"Rabouge",
+2,
+[]
+],
+[
+"Indian",
+2,
+[
+"Indian Poker"
+]
+],
+[
+"Großtarock",
+2,
+[]
+],
+[
+"Bester Bube",
+2,
+[
+"Bester Bauer",
+"Fiefkarten",
+"Lenter"
+]
+],
+[
+"Jaggln",
+2,
+[]
+],
+[
+"Israeli whist",
+2,
+[]
+],
+[
+"Femkortskille",
+2,
+[]
+],
+[
+"Remigio",
+2,
+[]
+],
+[
+"Schwimmen",
+2,
+[]
+],
+[
+"Snap",
+2,
+[]
+],
+[
+"Malaysian pontoon",
+2,
+[
+"pontoon",
+"pontoon (card game)"
+]
+],
+[
+"Klaberjass",
+2,
+[]
+],
+[
+"Knock-out Whist",
+2,
+[]
+],
+[
+"Kosakeln",
+2,
+[]
+],
+[
+"Voller Hund",
+2,
+[]
+],
+[
+"Bettelmann",
+2,
+[]
+],
+[
+"Bête",
+2,
+[
+"Beste",
+"Homme",
+"la Beste",
+"La bête",
+"l'Homme"
+]
+],
+[
+"Matzlfangen",
+2,
+[]
+],
+[
+"Fipsen",
+2,
+[]
+],
+[
+"Sedmice",
+2,
+[]
+],
+[
+"Trischettn",
+2,
+[]
+],
+[
+"Brús",
+2,
+[]
+],
+[
+"Supergol",
+2,
+[]
+],
+[
+"Loba",
+2,
+[]
+],
+[
+"Alsós",
+2,
+[
+"Alsos"
+]
+],
+[
+"Nertz",
+2,
+[
+"Racing Demon"
+]
+],
+[
+"Polskpas",
+2,
+[]
+],
+[
+"Ristiseiska",
+2,
+[]
+],
+[
+"Schlafmütze",
+2,
+[]
+],
+[
+"Shanghai rum",
+2,
+[]
+],
+[
+"Shelem",
+2,
+[]
+],
+[
+"Super Fun 21",
+2,
+[]
+],
+[
+"Teen patti",
+2,
+[]
+],
+[
+"The Herring-Bone",
+2,
+[
+"Braid"
+]
+],
+[
+"Pop's Card Game",
+2,
+[
+"Three thirteen"
+]
+],
+[
+"tuppi",
+2,
+[]
+],
+[
+"Two-ten-jack",
+2,
+[
+"2 Ten Jack"
+]
+],
+[
+"Ultimate Werewolf",
+2,
+[]
+],
+[
+"vint",
+2,
+[
+"Russian whist"
+]
+],
+[
+"Whot!",
+2,
+[]
+],
+[
+"Windmill",
+2,
+[
+"Propeller",
+"Propellor",
+"Whirligig"
+]
+],
+[
+"troefcall",
+2,
+[]
+],
+[
+"Belle, Flux et Trente-et-Un",
+2,
+[
+"Belle, Fluss und Einunddreißig",
+"Best, Flush and Thirty-One"
+]
+],
+[
+"Black Maria",
+2,
+[]
+],
+[
+"Skwitz",
+2,
+[]
+],
+[
+"Bieten",
+2,
+[]
+],
+[
+"Blattla",
+2,
+[]
+],
+[
+"Tournay",
+2,
+[]
+],
+[
+"Bolachen",
+2,
+[]
+],
+[
+"Gilé",
+2,
+[]
+],
+[
+"Bauerntarock",
+2,
+[]
+],
+[
+"Sheriff of Nottingham",
+2,
+[]
+],
+[
+"Pontoon",
+2,
+[
+"Vingt-Un"
+]
+],
+[
+"Taroc l'Hombre",
+2,
+[]
+],
+[
+"Takoyaki",
+2,
+[]
+],
+[
+"Guandan",
+2,
+[]
+],
+[
+"Viennese Grosstarock",
+2,
+[]
+],
+[
+"Vieux Garçon",
+2,
+[
+"Le Puant"
+]
+],
+[
+"Jodete",
+1,
+[
+"Rodete"
+]
+],
+[
+"Red 5",
+1,
+[]
+],
+[
+"Salic Law",
+1,
+[]
+],
+[
+"Militaire",
+1,
+[]
+],
+[
+"Turkish king",
+1,
+[]
+],
+[
+"The Make My Day Card Game",
+1,
+[]
+],
+[
+"Honor of the Samurai",
+1,
+[]
+],
+[
+"Herzblatt",
+1,
+[]
+],
+[
+"Voormsi",
+1,
+[]
+],
+[
+"Costly colours",
+1,
+[]
+],
+[
+"losing lodam",
+1,
+[]
+],
+[
+"wit and reason",
+1,
+[]
+],
+[
+"laugh and lie down",
+1,
+[]
+],
+[
+"Kauflabet",
+1,
+[]
+],
+[
+"Homme d'Auvergne",
+1,
+[]
+],
+[
+"Culbas",
+1,
+[]
+],
+[
+"Gé, Point, Flux et Sequence",
+1,
+[]
+],
+[
+"Best Act",
+1,
+[]
+],
+[
+"Struggle for Catan",
+1,
+[]
+],
+[
+"The Pillars of the Earth: Builders Duel",
+1,
+[]
+],
+[
+"Knaves",
+1,
+[]
+],
+[
+"Kashgar: Merchants of the Silk Road",
+1,
+[]
+],
+[
+"51st State",
+1,
+[]
+],
+[
+"Dragonheart",
+1,
+[]
+],
+[
+"Push",
+1,
+[]
+],
+[
+"squint",
+1,
+[]
+],
+[
+"Machi Koro Legacy",
+1,
+[]
+],
+[
+"Fantasy Realms",
+1,
+[
+"Fantasy Realms: The Cursed Hoard"
+]
+],
+[
+"Groo: The Game",
+1,
+[]
+],
+[
+"Quarante de Roi",
+1,
+[]
+],
+[
+"Tontine",
+1,
+[]
+],
+[
+"Osmosis",
+1,
+[
+"Treasure Trove"
+]
+],
+[
+"Great Wall of China",
+1,
+[]
+],
+[
+"Scan",
+1,
+[]
+],
+[
+"Career Poker",
+1,
+[]
+],
+[
+"Black Monday",
+1,
+[]
+],
+[
+"Emprunt",
+1,
+[]
+],
+[
+"Abduction",
+1,
+[]
+],
+[
+"Chinese Paladin - XiaoYaoYou",
+1,
+[]
+],
+[
+"Loot",
+1,
+[]
+],
+[
+"Game of Trains",
+1,
+[]
+],
+[
+"Minhwatu",
+1,
+[]
+],
+[
+"Primes",
+1,
+[]
+],
+[
+"Truco uruguayo",
+1,
+[
+"Uruguayan Truco"
+]
+],
+[
+"Skull & Roses",
+1,
+[
+"Skull"
+]
+],
+[
+"Rosamund's Bower",
+1,
+[
+"Rosamund"
+]
+],
+[
+"Pisha paysha",
+1,
+[]
+],
+[
+"Papillon",
+1,
+[]
+],
+[
+"Riftforce",
+1,
+[]
+],
+[
+"six-bid solo",
+1,
+[
+"six-bid",
+"six bid solo"
+]
+],
+[
+"hiyoko",
+1,
+[
+"shossho"
+]
+],
+[
+"Froggies",
+1,
+[]
+],
+[
+"Wiz Ball",
+1,
+[]
+],
+[
+"Call-ace Whist",
+1,
+[
+"Danish whist"
+]
+],
+[
+"Goninkan",
+1,
+[]
+],
+[
+"Neu",
+1,
+[]
+],
+[
+"Monster Maker",
+1,
+[]
+],
+[
+"hachi-hachi",
+1,
+[]
+],
+[
+"Birkie",
+1,
+[
+"Birky"
+]
+],
+[
+"Clue Quest",
+1,
+[]
+],
+[
+"Piepmatz: Little Songbirds",
+1,
+[]
+],
+[
+"Cash",
+1,
+[
+"Club Unlock"
+]
+],
+[
+"Wer Hat Mehr?",
+1,
+[]
+],
+[
+"Rettet Die Umwelt",
+1,
+[]
+],
+[
+"Römer",
+1,
+[]
+],
+[
+"Terraforming Mars: Ares Expedition",
+1,
+[]
+],
+[
+"Wild Space",
+1,
+[]
+],
+[
+"Hey Yo",
+1,
+[]
+],
+[
+"District Noir",
+1,
+[]
+],
+[
+"That's not a Hat",
+1,
+[]
+],
+[
+"Froop!",
+1,
+[]
+],
+[
+"Jericho",
+1,
+[]
+],
+[
+"Imajica",
+1,
+[]
+],
+[
+"Mantis",
+1,
+[]
+],
+[
+"Mindbug: First Contact",
+1,
+[]
+],
+[
+"Go Golly!",
+1,
+[]
+],
+[
+"Evolution: New World",
+1,
+[]
+],
+[
+"Viersche",
+1,
+[]
+],
+[
+"Animals of the Prehistoric World (first series)",
+1,
+[]
+],
+[
+"Oz Fluxx",
+1,
+[]
+],
+[
+"Chapanka",
+1,
+[]
+],
+[
+"Brolle",
+1,
+[]
+],
+[
+"Belratti",
+1,
+[]
+],
+[
+"Zanga",
+1,
+[]
+],
+[
+"Eighth Air Force",
+1,
+[]
+],
+[
+"Asterix – The cardgame",
+1,
+[]
+],
+[
+"Bumbesi",
+1,
+[]
+],
+[
+"Doubler",
+1,
+[]
+],
+[
+"Rikitiki",
+1,
+[]
+],
+[
+"Vida",
+1,
+[]
+],
+[
+"Bezig",
+1,
+[]
+],
+[
+"1234",
+1,
+[]
+],
+[
+"Schrödinger's Cats",
+1,
+[]
+],
+[
+"Red Empire",
+1,
+[]
+],
+[
+"The Challenge",
+1,
+[]
+],
+[
+"Jeu de la Géographie",
+1,
+[]
+],
+[
+"Match!",
+1,
+[]
+],
+[
+"FTW?!",
+1,
+[]
+],
+[
+"Jeu de la géographie",
+1,
+[]
+],
+[
+"Scupuni",
+1,
+[]
+],
+[
+"Witch Trial",
+1,
+[]
+],
+[
+"Starship Command",
+1,
+[]
+],
+[
+"The Big Idea",
+1,
+[]
+],
+[
+"Galaxy: The Dark Ages",
+1,
+[]
+],
+[
+"Labyrinth: The Card Game",
+1,
+[]
+],
+[
+"The Gang",
+1,
+[]
+],
+[
+"Dino Hunt",
+1,
+[]
+],
+[
+"Calypso",
+1,
+[]
+],
+[
+"Sobek",
+1,
+[]
+],
+[
+"Weapons of Mass Destruction",
+1,
+[]
+],
+[
+"Mystick Domination",
+1,
+[]
+],
+[
+"Nanofictionary",
+1,
+[]
+],
+[
+"Barbarossa",
+1,
+[]
+],
+[
+"The Fantod Pack",
+1,
+[
+"A Chthonian Christmas",
+"Fantod Pack",
+"The Fantod Pack of Edward Gorey"
+]
+],
+[
+"Hex Hex",
+1,
+[]
+],
+[
+"Femtio",
+1,
+[]
+],
+[
+"Hula",
+1,
+[]
+],
+[
+"royal tarot",
+1,
+[
+"Royal-Tarock"
+]
+],
+[
+"Tausendundeins",
+1,
+[]
+],
+[
+"Tableau",
+1,
+[]
+],
+[
+"Ninety-One",
+1,
+[]
+],
+[
+"Aces and Kings",
+1,
+[]
+],
+[
+"Backbone",
+1,
+[]
+],
+[
+"Batsford",
+1,
+[]
+],
+[
+"Beetle",
+1,
+[]
+],
+[
+"American Toad",
+1,
+[]
+],
+[
+"Casket",
+1,
+[]
+],
+[
+"Corona",
+1,
+[]
+],
+[
+"Double Canfield",
+1,
+[]
+],
+[
+"Heads And Tails",
+1,
+[]
+],
+[
+"Three Shuffles and a Draw",
+1,
+[]
+],
+[
+"Gnau",
+1,
+[]
+],
+[
+"Odd and Even",
+1,
+[]
+],
+[
+"Josephine",
+1,
+[
+"Joséphine"
+]
+],
+[
+"Marriage",
+1,
+[]
+],
+[
+"Red Nines",
+1,
+[]
+],
+[
+"Zioncheck",
+1,
+[]
+],
+[
+"Etori",
+1,
+[]
+],
+[
+"Schwarze Katze",
+1,
+[
+"Black Lady Hearts"
+]
+],
+[
+"Amerikaner",
+1,
+[]
+],
+[
+"Doctor Who: The Card Game",
+1,
+[]
+],
+[
+"Hobbit Tales",
+1,
+[
+"Hobbit Tales from the Green Dragon Inn"
+]
+],
+[
+"Clumsy Thief",
+1,
+[]
+],
+[
+"Kirves",
+1,
+[]
+],
+[
+"Friday",
+1,
+[]
+],
+[
+"Muushig",
+1,
+[]
+],
+[
+"Afrikan tähti",
+1,
+[]
+],
+[
+"Kingen",
+1,
+[]
+],
+[
+"Schraumen",
+1,
+[
+"Schraumeln"
+]
+],
+[
+"Boon",
+1,
+[]
+],
+[
+"Rotten Apples",
+1,
+[]
+],
+[
+"Towie",
+1,
+[]
+],
+[
+"projective set",
+1,
+[]
+],
+[
+"Gleek",
+1,
+[]
+],
+[
+"Naval War",
+1,
+[]
+],
+[
+"Truf",
+1,
+[]
+],
+[
+"Swish",
+1,
+[]
+],
+[
+"Thousands",
+1,
+[]
+],
+[
+"Dale of Merchants",
+1,
+[]
+],
+[
+"Linko!",
+1,
+[]
+],
+[
+"Huckleybuck",
+1,
+[]
+],
+[
+"Hasty patience",
+1,
+[]
+],
+[
+"Cheating Moth",
+1,
+[]
+],
+[
+"Tempel des Schreckens",
+1,
+[]
+],
+[
+"Fabled Fruit",
+1,
+[]
+],
+[
+"Dodelido",
+1,
+[]
+],
+[
+"Word Slam",
+1,
+[]
+],
+[
+"Tongue",
+1,
+[]
+],
+[
+"Joffre",
+1,
+[]
+],
+[
+"Rio rummy",
+1,
+[
+"poker rummy"
+]
+],
+[
+"Kilo de merde",
+1,
+[]
+],
+[
+"Mise",
+1,
+[]
+],
+[
+"Cripple Mr Onion",
+1,
+[]
+],
+[
+"Espada Negra",
+1,
+[]
+],
+[
+"11 nimmt!",
+1,
+[]
+],
+[
+"Schnaps",
+1,
+[]
+],
+[
+"Stoppa (gioco di carte)",
+1,
+[]
+],
+[
+"Tozzolo",
+1,
+[]
+],
+[
+"Hanamikoji",
+1,
+[]
+],
+[
+"Fuji Flush",
+1,
+[]
+],
+[
+"Sneaky Cards",
+1,
+[]
+],
+[
+"3-2-5",
+1,
+[]
+],
+[
+"Barbuse",
+1,
+[]
+],
+[
+"Ace Trumps",
+1,
+[]
+],
+[
+"Acey Deucey",
+1,
+[]
+],
+[
+"Alhambra",
+1,
+[]
+],
+[
+"Archie Bunker's Card Game",
+1,
+[
+"All in the Family Archie Bunker's card game",
+"Archie Bunker's card game"
+]
+],
+[
+"Cheating Bumblebee",
+1,
+[]
+],
+[
+"3 Secrets",
+1,
+[]
+],
+[
+"Apples",
+1,
+[]
+],
+[
+"Auld Lang Syne",
+1,
+[]
+],
+[
+"Baseball",
+1,
+[]
+],
+[
+"Warlock",
+1,
+[]
+],
+[
+"Sqwurm",
+1,
+[]
+],
+[
+"O.K. Corral",
+1,
+[]
+],
+[
+"Bid Euchre",
+1,
+[]
+],
+[
+"Blockade",
+1,
+[]
+],
+[
+"Bluke",
+1,
+[
+"Blook"
+]
+],
+[
+"Boom-O",
+1,
+[]
+],
+[
+"Boy Crazy",
+1,
+[]
+],
+[
+"British Constitution",
+1,
+[]
+],
+[
+"Truco venezolano",
+1,
+[
+"Venezuelan truco"
+]
+],
+[
+"Gangster City",
+1,
+[]
+],
+[
+"Texas Showdown",
+1,
+[
+"Strife"
+]
+],
+[
+"Cinch",
+1,
+[]
+],
+[
+"Clabber",
+1,
+[
+"Clobber"
+]
+],
+[
+"Colorado",
+1,
+[]
+],
+[
+"Colours",
+1,
+[]
+],
+[
+"Commerce",
+1,
+[]
+],
+[
+"Contradance",
+1,
+[]
+],
+[
+"Crash",
+1,
+[]
+],
+[
+"Crescent",
+1,
+[]
+],
+[
+"Crossfire",
+1,
+[]
+],
+[
+"Cắt Tê",
+1,
+[]
+],
+[
+"Desmoche",
+1,
+[
+"Conquién"
+]
+],
+[
+"Squirrel or Die",
+1,
+[]
+],
+[
+"Duchess",
+1,
+[]
+],
+[
+"Elementeo",
+1,
+[]
+],
+[
+"Enemy in Sight",
+1,
+[]
+],
+[
+"Booby",
+1,
+[]
+],
+[
+"Hromádky",
+1,
+[]
+],
+[
+"Kámen – zbraně – papír",
+1,
+[]
+],
+[
+"Fightball",
+1,
+[]
+],
+[
+"Flaps",
+1,
+[]
+],
+[
+"Flower Garden",
+1,
+[]
+],
+[
+"Following",
+1,
+[]
+],
+[
+"Fortress",
+1,
+[]
+],
+[
+"Napoleon at St Helena",
+1,
+[
+"Big Forty",
+"Dress Parade",
+"Forty Thieves",
+"Indian",
+"Josephine",
+"Le Cadran",
+"Limited",
+"Lucas",
+"Maria",
+"Number Ten",
+"Rank and File",
+"Red and Black",
+"Roosevelt at San Juan",
+"Sixty Thieves",
+"Streets"
+]
+],
+[
+"Fourteen Out",
+1,
+[]
+],
+[
+"Fünfzehnern",
+1,
+[]
+],
+[
+"Sherlook",
+1,
+[]
+],
+[
+"Gay Gordons",
+1,
+[]
+],
+[
+"German Patience",
+1,
+[]
+],
+[
+"Welcome to the Dungeon",
+1,
+[]
+],
+[
+"Dobbm",
+1,
+[]
+],
+[
+"Viennese Rummy",
+1,
+[]
+],
+[
+"Evolution",
+1,
+[]
+],
+[
+"Grandfather's Clock",
+1,
+[]
+],
+[
+"Elements",
+1,
+[]
+],
+[
+"zetema",
+1,
+[]
+],
+[
+"Grobhäusern",
+1,
+[]
+],
+[
+"Guts",
+1,
+[]
+],
+[
+"Black Spy",
+1,
+[]
+],
+[
+"Twin it!",
+1,
+[]
+],
+[
+"Hera and Zeus",
+1,
+[]
+],
+[
+"Grand Master of the Martial Arts",
+1,
+[]
+],
+[
+"Travellers",
+1,
+[]
+],
+[
+"Päckchen",
+1,
+[]
+],
+[
+"Take the Galaxy",
+1,
+[]
+],
+[
+"Bohnanza: The Duel",
+1,
+[]
+],
+[
+"Hacker",
+1,
+[]
+],
+[
+"OrgasMe!",
+1,
+[]
+],
+[
+"Djinn",
+1,
+[]
+],
+[
+"Anno Domini",
+1,
+[]
+],
+[
+"Billabong",
+1,
+[]
+],
+[
+"Half Pint Heroes",
+1,
+[]
+],
+[
+"Imaginary Thirteen",
+1,
+[]
+],
+[
+"Intrigue",
+1,
+[]
+],
+[
+"Dealt!",
+1,
+[
+"Checkered Combos"
+]
+],
+[
+"Deer in the Headlights game",
+1,
+[]
+],
+[
+"Nuclear Escalation",
+1,
+[]
+],
+[
+"Herzla",
+1,
+[]
+],
+[
+"Slobberhannes",
+1,
+[]
+],
+[
+"Lampeln",
+1,
+[]
+],
+[
+"Ramsen",
+1,
+[
+"Ramsch"
+]
+],
+[
+"Schnalzen",
+1,
+[]
+],
+[
+"Kratzen",
+1,
+[]
+],
+[
+"Schrum-Schrum",
+1,
+[]
+],
+[
+"Unteransetzen",
+1,
+[
+"Unteranlegen",
+"Unterauflegen"
+]
+],
+[
+"Officers' Schafkopf",
+1,
+[]
+],
+[
+"Briscan",
+1,
+[]
+],
+[
+"Encounters",
+1,
+[]
+],
+[
+"Prime number game",
+1,
+[]
+],
+[
+"Truco argentino.",
+1,
+[
+"Argentinian truco"
+]
+],
+[
+"Jeu Royal de la Guerre",
+1,
+[]
+],
+[
+"Kaiser",
+1,
+[]
+],
+[
+"Who did it?",
+1,
+[]
+],
+[
+"Monster Match",
+1,
+[]
+],
+[
+"La Croix d'Honneur",
+1,
+[]
+],
+[
+"Labyrinth",
+1,
+[]
+],
+[
+"Launch Pad",
+1,
+[]
+],
+[
+"my ship sails",
+1,
+[]
+],
+[
+"Knüffeln",
+1,
+[]
+],
+[
+"Dark Cults",
+1,
+[]
+],
+[
+"Frog",
+1,
+[]
+],
+[
+"Lusti-Kartl'n",
+1,
+[]
+],
+[
+"Mouche",
+1,
+[]
+],
+[
+"Hintersche",
+1,
+[]
+],
+[
+"Letzter Stich",
+1,
+[]
+],
+[
+"Zehnerlegen",
+1,
+[
+"Zehneranlegen",
+"Zehner-Auflegen"
+]
+],
+[
+"5-Minute Dungeon",
+1,
+[]
+],
+[
+"Les Quatre Coins",
+1,
+[
+"Corner Patience",
+"Cornerstones",
+"Four Corners"
+]
+],
+[
+"Linger longer",
+1,
+[]
+],
+[
+"Literature",
+1,
+[
+"Canadian Fish"
+]
+],
+[
+"Maze",
+1,
+[]
+],
+[
+"Mille",
+1,
+[]
+],
+[
+"En Garde",
+1,
+[]
+],
+[
+"Home Sweet Home",
+1,
+[]
+],
+[
+"Roma",
+1,
+[]
+],
+[
+"Sitting Ducks",
+1,
+[]
+],
+[
+"Cash-a-Catch",
+1,
+[]
+],
+[
+"Negus",
+1,
+[]
+],
+[
+"Parallels",
+1,
+[]
+],
+[
+"Pas de Deux",
+1,
+[]
+],
+[
+"Penguin",
+1,
+[]
+],
+[
+"Perpetual Motion",
+1,
+[]
+],
+[
+"Perseverance",
+1,
+[]
+],
+[
+"Persian Patience",
+1,
+[]
+],
+[
+"Phat",
+1,
+[]
+],
+[
+"Imagine",
+1,
+[]
+],
+[
+"Pope Julius",
+1,
+[
+"Pope July"
+]
+],
+[
+"Primo visto",
+1,
+[]
+],
+[
+"Puss in the Corner",
+1,
+[
+"Puss in Corner"
+]
+],
+[
+"Put",
+1,
+[]
+],
+[
+"Royal Cotillion",
+1,
+[]
+],
+[
+"Royal Flush",
+1,
+[]
+],
+[
+"Royal Rendezvous",
+1,
+[]
+],
+[
+"Ruff and Honours",
+1,
+[]
+],
+[
+"Rumino",
+1,
+[]
+],
+[
+"Réunion",
+1,
+[
+"Reunion"
+]
+],
+[
+"Aliens Predator Customizable Card Game",
+1,
+[]
+],
+[
+"Scrabble Slam!",
+1,
+[]
+],
+[
+"Six By Six",
+1,
+[]
+],
+[
+"Stalactites",
+1,
+[
+"Grampus",
+"Old Mole"
+]
+],
+[
+"Stop the Bus",
+1,
+[]
+],
+[
+"Straw",
+1,
+[]
+],
+[
+"Tarabish",
+1,
+[]
+],
+[
+"The Game of Alice in Wonderland",
+1,
+[]
+],
+[
+"The Last Crusade",
+1,
+[]
+],
+[
+"Bring Your Own Book",
+1,
+[]
+],
+[
+"Tower of Hanoy",
+1,
+[]
+],
+[
+"Turup",
+1,
+[]
+],
+[
+"Virginia Reel",
+1,
+[]
+],
+[
+"7 ate 9",
+1,
+[]
+],
+[
+"Zodiac",
+1,
+[]
+],
+[
+"First Contact",
+1,
+[]
+],
+[
+"Monster Bunch",
+1,
+[]
+],
+[
+"Robots",
+1,
+[]
+],
+[
+"Harry Potter: Hogwarts Battle",
+1,
+[]
+],
+[
+"Creatures & Cultists",
+1,
+[]
+],
+[
+"Dragonmaster",
+1,
+[]
+],
+[
+"Nuclear Proliferation",
+1,
+[]
+],
+[
+"Ramscheln",
+1,
+[]
+],
+[
+"Spitzeln",
+1,
+[]
+],
+[
+"Fifteen",
+1,
+[]
+],
+[
+"Romex",
+1,
+[]
+],
+[
+"systeme d'enchere française",
+1,
+[]
+],
+[
+"Royal Visit",
+1,
+[]
+],
+[
+"Contact: Signals from Outer Space",
+1,
+[]
+],
+[
+"Dirty Pig",
+1,
+[]
+],
+[
+"Silver & Gold",
+1,
+[]
+],
+[
+"Cyberpunk",
+1,
+[]
+],
+[
+"EuroHit",
+1,
+[]
+],
+[
+"Frog Juice",
+1,
+[]
+],
+[
+"Heavy Gear Fighter",
+1,
+[]
+],
+[
+"Karniffel",
+1,
+[]
+],
+[
+"Panko or Votes for Women",
+1,
+[]
+],
+[
+"Paranoia Mandatory Bonus Fun! Card Game",
+1,
+[]
+],
+[
+"Piquesept",
+1,
+[]
+],
+[
+"Spammers",
+1,
+[]
+],
+[
+"Call of the Archons",
+0,
+[
+"KeyForge: Call of the Archons"
+]
+],
+[
+"Age of Ascension",
+0,
+[
+"KeyForge: Age of Ascension"
+]
+],
+[
+"Worlds Collide",
+0,
+[
+"KeyForge: Worlds Collide"
+]
+],
+[
+"Mass Mutation",
+0,
+[
+"KeyForge: Mass Mutation"
+]
+],
+[
+"Gabong",
+0,
+[]
+],
+[
+"Queens of Literature",
+0,
+[]
+],
+[
+"24 Game",
+0,
+[]
+],
+[
+"DOS",
+0,
+[
+"Dos",
+"DOS!",
+"DOS!™",
+"DOS™",
+"Uno 2",
+"UNO 2"
+]
+],
+[
+"Rümpfen",
+0,
+[]
+],
+[
+"ScrapHumor",
+0,
+[]
+],
+[
+"Abyss",
+0,
+[]
+],
+[
+"Mow",
+0,
+[]
+],
+[
+"Guildhall",
+0,
+[]
+],
+[
+"The Grizzled",
+0,
+[]
+],
+[
+"Paper Tales",
+0,
+[]
+],
+[
+"Aeon’s End",
+0,
+[]
+],
+[
+"Händler der Karibik",
+0,
+[]
+],
+[
+"Governance game",
+0,
+[]
+],
+[
+"New Tactical Games with Dice and Cards",
+0,
+[
+"Neue Taktikspiele mit Würfeln und Karten",
+"New Tactical Games with Dice and Cards (1990)"
+]
+],
+[
+"Dark Souls: The Card Game",
+0,
+[]
+],
+[
+"Home From Oz",
+0,
+[]
+],
+[
+"Dice games properly explained",
+0,
+[
+"Das große Buch der Würfelspiele"
+]
+],
+[
+"Mitch",
+0,
+[
+"Revolution"
+]
+],
+[
+"Milken",
+0,
+[]
+],
+[
+"Leopard",
+0,
+[]
+],
+[
+"The Battle for Hill 218",
+0,
+[]
+],
+[
+"Arboretum",
+0,
+[]
+],
+[
+"NOIR: Deductive Mystery Game",
+0,
+[
+"Noir: Killer versus Inspector",
+"NOIR: Killer vs. Inspector",
+"Noir of Indines"
+]
+],
+[
+"Uno Flex!",
+0,
+[
+"Uno Flex"
+]
+],
+[
+"Dustbiters",
+0,
+[]
+],
+[
+"Uno Non-Partisan",
+0,
+[
+"Nonpartisan Uno"
+]
+],
+[
+"Uno Show 'Em No Mercy",
+0,
+[
+"Uno No Mercy"
+]
+],
+[
+"Uno All Wild!",
+0,
+[]
+],
+[
+"Učim zvuki saamskogo jazyka i bukvy saamskogo alfavita (1990)",
+0,
+[]
+],
+[
+"Didaktičeskij material k učebniku saamskogo jazyka dlja vtorogo klassa saamskoj školy (1991)",
+0,
+[]
+],
+[
+"St Patrick",
+0,
+[]
+],
+[
+"Figgie",
+0,
+[]
+],
+[
+"3 Chapters",
+0,
+[]
+],
+[
+"Scopa Più",
+0,
+[
+"Scopa Piu"
+]
+],
+[
+"Scopone Più",
+0,
+[
+"Scopone Piu"
+]
+],
+[
+"Briscola Più",
+0,
+[
+"Briscola Piu"
+]
+],
+[
+"Rubamazzo Più",
+0,
+[
+"Rubamazzo Piu"
+]
+],
+[
+"Assopiglia Più",
+0,
+[
+"Asso piglia Piu",
+"Assopiglia Piu",
+"Asso piglia Più"
+]
+],
+[
+"Scala 40 Più",
+0,
+[
+"Scala 40 Piu"
+]
+],
+[
+"Tressette Più",
+0,
+[
+"Tressette Piu"
+]
+],
+[
+"Traversone Più",
+0,
+[]
+],
+[
+"Burraco Più",
+0,
+[
+"Burraco Piu"
+]
+],
+[
+"Buraco Plus",
+0,
+[
+"Buraco"
+]
+],
+[
+"Ramino Più",
+0,
+[
+"Ramino Piu"
+]
+],
+[
+"Escoba Más",
+0,
+[
+"Escoba Mas"
+]
+],
+[
+"Brisca Más",
+0,
+[
+"Brisca Mas"
+]
+],
+[
+"Klondike",
+0,
+[]
+],
+[
+"Spider Solitaire Online",
+0,
+[]
+],
+[
+"Freecell",
+0,
+[]
+],
+[
+"Pyramid Solitaire Online",
+0,
+[]
+],
+[
+"Tripeaks",
+0,
+[]
+],
+[
+"RAH RACE",
+0,
+[
+"Rah Race"
+]
+],
+[
+"Sly3 card game",
+0,
+[
+"Sly3"
+]
+],
+[
+"Kind Kids: 50 Activities for Compassion, Confidence and Community",
+0,
+[]
+],
+[
+"Let's Grow Happiness",
+0,
+[]
+],
+[
+"Ready Steady Slope",
+0,
+[
+"Ready Steady Slope card game"
+]
+],
+[
+"Market Fortune",
+0,
+[]
+],
+[
+"Session Cards",
+0,
+[]
+],
+[
+"Trick Stakes",
+0,
+[]
+],
+[
+"Tricky Time Crisis",
+0,
+[]
+],
+[
+"Flea Market",
+0,
+[]
+],
+[
+"Brokies",
+0,
+[]
+],
+[
+"POP!",
+0,
+[]
+],
+[
+"Candy Spiders Leopards",
+0,
+[]
+],
+[
+"SPLIT",
+0,
+[]
+],
+[
+"Charge & Spark",
+0,
+[]
+],
+[
+"Happy Corgi",
+0,
+[]
+],
+[
+"Boba Life",
+0,
+[]
+],
+[
+"Festi'vibes",
+0,
+[]
+],
+[
+"KYRAN",
+0,
+[
+"Kyran",
+"Kyran: Maître des Mystiques"
+]
+],
+[
+"Pondscape",
+0,
+[]
+],
+[
+"Duel for Cardia",
+0,
+[]
+],
+[
+"15 Days",
+0,
+[]
+],
+[
+"13 Leaves",
+0,
+[]
+],
+[
+"Art Thief",
+0,
+[]
+],
+[
+"Ninety-Nine",
+0,
+[
+"100",
+"98",
+"99",
+"Ninety-Eight",
+"One Hundred"
+]
+],
+[
+"8 Masters' Revenge",
+0,
+[]
+],
+[
+"Age of Civilization",
+0,
+[]
+],
+[
+"Arctic",
+0,
+[]
+],
+[
+"Bacon",
+0,
+[]
+],
+[
+"Café",
+0,
+[]
+],
+[
+"5 Pairs",
+0,
+[]
+],
+[
+"a_way",
+0,
+[]
+],
+[
+"Abandon All Artichokes",
+0,
+[]
+],
+[
+"Abra Chadabra",
+0,
+[]
+],
+[
+"Alakablast",
+0,
+[]
+],
+[
+"All In: A Flip & Write Showdown",
+0,
+[]
+],
+[
+"All In: Predictions",
+0,
+[]
+],
+[
+"All You Can Eat Buffet",
+0,
+[]
+],
+[
+"Altered",
+0,
+[]
+],
+[
+"Aniversus",
+0,
+[]
+],
+[
+"Apocalypse at the Zoo of Carson City",
+0,
+[]
+],
+[
+"Bauer",
+0,
+[]
+],
+[
+"Arctic Scavengers",
+0,
+[]
+],
+[
+"Arigatō",
+0,
+[]
+],
+[
+"ATRAH",
+0,
+[]
+],
+[
+"Aurum",
+0,
+[]
+],
+[
+"AVES",
+0,
+[]
+],
+[
+"Battle Spirits Saga",
+0,
+[]
+],
+[
+"Belladone Bluff",
+0,
+[]
+],
+[
+"Beyond",
+0,
+[]
+],
+[
+"Bids",
+0,
+[]
+],
+[
+"Blaze",
+0,
+[]
+],
+[
+"Bohemians",
+0,
+[]
+],
+[
+"Call of Katulhu",
+0,
+[]
+],
+[
+"Collect!",
+0,
+[]
+],
+[
+"Coins",
+0,
+[]
+],
+[
+"Cheez-Tricks",
+0,
+[]
+],
+[
+"Bear Necessities",
+0,
+[]
+],
+[
+"Beasts",
+0,
+[]
+],
+[
+"Big Time Soccer",
+0,
+[]
+],
+[
+"Bizarre Manor",
+0,
+[]
+],
+[
+"Boreal",
+0,
+[]
+],
+[
+"Bunny Boom",
+0,
+[]
+],
+[
+"Canvas",
+0,
+[]
+],
+[
+"Boomerang: Australia",
+0,
+[]
+],
+[
+"Boomerang: Europe",
+0,
+[]
+],
+[
+"Boomerang: USA",
+0,
+[]
+],
+[
+"Detective Poker",
+0,
+[]
+],
+[
+"Diam's",
+0,
+[]
+],
+[
+"Dickory",
+0,
+[]
+],
+[
+"DIG UP Adventure",
+0,
+[]
+],
+[
+"Dinosaur Tea Party",
+0,
+[]
+],
+[
+"dnup",
+0,
+[]
+],
+[
+"Dobro",
+0,
+[]
+],
+[
+"Dog Lover",
+0,
+[]
+],
+[
+"Draft Cider",
+0,
+[]
+],
+[
+"Dragon Bridge",
+0,
+[]
+],
+[
+"Dragon Line",
+0,
+[]
+],
+[
+"Dragon Overload",
+0,
+[]
+],
+[
+"Dungeon Rummy",
+0,
+[]
+],
+[
+"Easy Peasy",
+0,
+[]
+],
+[
+"Egocentric World",
+0,
+[]
+],
+[
+"Ekko",
+0,
+[]
+],
+[
+"Enemy Anemone",
+0,
+[]
+],
+[
+"Eternitium",
+0,
+[]
+],
+[
+"Fika",
+0,
+[]
+],
+[
+"Fleet",
+0,
+[]
+],
+[
+"Flip 7: With A Vengeance",
+0,
+[]
+],
+[
+"FlipToons",
+0,
+[]
+],
+[
+"Go Nuts for Donuts",
+0,
+[]
+],
+[
+"Goblin Hood",
+0,
+[]
+],
+[
+"Gold’n’Crash",
+0,
+[]
+],
+[
+"GOLDblivion",
+0,
+[]
+],
+[
+"Golfie",
+0,
+[]
+],
+[
+"Good Cop Bad Cop",
+0,
+[]
+],
+[
+"Gosu X",
+0,
+[]
+],
+[
+"Greasy Spoon",
+0,
+[]
+],
+[
+"Guildes",
+0,
+[]
+],
+[
+"Guile",
+0,
+[]
+],
+[
+"Hack Trick",
+0,
+[]
+],
+[
+"Hardback",
+0,
+[]
+],
+[
+"Heckin Hounds",
+0,
+[]
+],
+[
+"Hens",
+0,
+[]
+],
+[
+"Herrlof",
+0,
+[]
+],
+[
+"Hoarders",
+0,
+[]
+],
+[
+"Florenza: The Card Game",
+0,
+[]
+],
+[
+"Flowers",
+0,
+[]
+],
+[
+"Flowers: A Mandala Game",
+0,
+[]
+],
+[
+"For Northwood!",
+0,
+[]
+],
+[
+"Forest Shuffle: Smoky Mountains",
+0,
+[]
+],
+[
+"Four Gardens",
+0,
+[]
+],
+[
+"Fugitive",
+0,
+[]
+],
+[
+"Gangsta!",
+0,
+[]
+],
+[
+"Get the MacGuffin",
+0,
+[]
+],
+[
+"Ghost At Home",
+0,
+[]
+],
+[
+"Giraffe Raffe",
+0,
+[]
+],
+[
+"Ice and the Sky",
+0,
+[]
+],
+[
+"Indian Chief",
+0,
+[]
+],
+[
+"Inside Job",
+0,
+[]
+],
+[
+"Jump Gate",
+0,
+[]
+],
+[
+"Just Desserts",
+0,
+[]
+],
+[
+"Kado",
+0,
+[]
+],
+[
+"Las Vegan",
+0,
+[]
+],
+[
+"Le Roy des Ribauds",
+0,
+[]
+],
+[
+"Leaders",
+0,
+[]
+],
+[
+"Legends of Hellas",
+0,
+[]
+],
+[
+"Legions: Abyss Universe",
+0,
+[]
+],
+[
+"Lepidoptery",
+0,
+[]
+],
+[
+"Let's Go! To Japan",
+0,
+[]
+],
+[
+"Letter Tycoon",
+0,
+[]
+],
+[
+"Line It",
+0,
+[]
+],
+[
+"Moonshine",
+0,
+[]
+],
+[
+"Mythicals",
+0,
+[]
+],
+[
+"Naishi",
+0,
+[]
+],
+[
+"Narabi",
+0,
+[]
+],
+[
+"Nicodemus",
+0,
+[]
+],
+[
+"Nidavellir",
+0,
+[]
+],
+[
+"Nile",
+0,
+[]
+],
+[
+"Ninjan",
+0,
+[]
+],
+[
+"Nylon-ppong",
+0,
+[]
+],
+[
+"OASIS New Hope",
+0,
+[]
+],
+[
+"Oh-Seven",
+0,
+[
+"Insidious Sevens"
+]
+],
+[
+"Once Upon A Forest",
+0,
+[]
+],
+[
+"Onda",
+0,
+[]
+],
+[
+"Pagan: Fate of Roanoke",
+0,
+[]
+],
+[
+"Panda Rei",
+0,
+[]
+],
+[
+"Papayoo",
+0,
+[]
+],
+[
+"Paper World",
+0,
+[]
+],
+[
+"Park Life",
+0,
+[]
+],
+[
+"Pescado Novo",
+0,
+[]
+],
+[
+"Piles!",
+0,
+[]
+],
+[
+"Pili Pili",
+0,
+[]
+],
+[
+"Please Don't Burn My Village",
+0,
+[]
+],
+[
+"Pook",
+0,
+[]
+],
+[
+"Quirky Quarks",
+0,
+[]
+],
+[
+"Rainbow",
+0,
+[]
+],
+[
+"Ratjack",
+0,
+[]
+],
+[
+"Red7",
+0,
+[]
+],
+[
+"Similo",
+0,
+[]
+],
+[
+"Skate Legend",
+0,
+[]
+],
+[
+"Slambo",
+0,
+[]
+],
+[
+"Snorkeling",
+0,
+[]
+],
+[
+"Solar Storm",
+0,
+[]
+],
+[
+"Soothsayers",
+0,
+[]
+],
+[
+"Sparts",
+0,
+[]
+],
+[
+"SpellBook",
+0,
+[]
+],
+[
+"Splito",
+0,
+[]
+],
+[
+"Spooky Tower",
+0,
+[]
+],
+[
+"Spyrium",
+0,
+[]
+],
+[
+"Star Fluxx",
+0,
+[]
+],
+[
+"Stella",
+0,
+[]
+],
+[
+"Stir Fry Eighteen",
+0,
+[]
+],
+[
+"Stonks",
+0,
+[]
+],
+[
+"SUPER",
+0,
+[]
+],
+[
+"Super Fantasy Brawl",
+0,
+[]
+],
+[
+"Super Mega Lucky Box",
+0,
+[]
+],
+[
+"Symbiosis",
+0,
+[]
+],
+[
+"Tash-Kalar: Arena of Legends",
+0,
+[]
+],
+[
+"Tea Time",
+0,
+[]
+],
+[
+"The Boss",
+0,
+[]
+],
+[
+"Thermopyles",
+0,
+[]
+],
+[
+"Tic-Tac Match",
+0,
+[]
+],
+[
+"Timeline Twist",
+0,
+[]
+],
+[
+"Tiny Epic Defenders",
+0,
+[]
+],
+[
+"Tír na nÓg",
+0,
+[]
+],
+[
+"ToeShamBo",
+0,
+[]
+],
+[
+"Tortuga 1667",
+0,
+[]
+],
+[
+"Tranquility",
+0,
+[]
+],
+[
+"Tranquility: The Ascent",
+0,
+[]
+],
+[
+"Trick of the Rails",
+0,
+[]
+],
+[
+"Tucano",
+0,
+[]
+],
+[
+"Tulip & Rose",
+0,
+[]
+],
+[
+"Twin Palms",
+0,
+[]
+],
+[
+"Unrest",
+0,
+[]
+],
+[
+"Up or Down?",
+0,
+[]
+],
+[
+"VEGEtables",
+0,
+[
+"Vege Tables"
+]
+],
+[
+"Verdant",
+0,
+[]
+],
+[
+"Verso",
+0,
+[]
+],
+[
+"Vidrasso",
+0,
+[]
+],
+[
+"Visions",
+0,
+[]
+],
+[
+"The Brambles",
+0,
+[]
+],
+[
+"The Builders: Antiquity",
+0,
+[]
+],
+[
+"The Dwarf King",
+0,
+[]
+],
+[
+"The Fox in the Forest: Duet",
+0,
+[]
+],
+[
+"The Jelly Monster Lab",
+0,
+[]
+],
+[
+"The Lady and the Tiger",
+0,
+[]
+],
+[
+"The Last Droids",
+0,
+[]
+],
+[
+"The Shipwreck Arcana",
+0,
+[]
+],
+[
+"The Yellow House",
+0,
+[]
+],
+[
+"Bluff King",
+0,
+[]
+],
+[
+"Bye-Bye Black Sheep",
+0,
+[]
+],
+[
+"Cannonades",
+0,
+[]
+],
+[
+"Circadia",
+0,
+[]
+],
+[
+"Circle Of Life: on the Savannah",
+0,
+[]
+],
+[
+"Claim",
+0,
+[]
+],
+[
+"Classified Information",
+0,
+[]
+],
+[
+"Coupell",
+0,
+[]
+],
+[
+"Cradle to Grave",
+0,
+[]
+],
+[
+"Crazy Corgi",
+0,
+[]
+],
+[
+"Crits & Tricks",
+0,
+[]
+],
+[
+"Deck Express: Tennessee Central",
+0,
+[]
+],
+[
+"Diamonds",
+0,
+[]
+],
+[
+"Drako: Aetherya Pocket",
+0,
+[]
+],
+[
+"Drones vs Seagulls",
+0,
+[]
+],
+[
+"Expressions",
+0,
+[]
+],
+[
+"Fight 5",
+0,
+[]
+],
+[
+"Five Three Five",
+0,
+[
+"535"
+]
+],
+[
+"Flockers",
+0,
+[]
+],
+[
+"Forks",
+0,
+[]
+],
+[
+"Fugu",
+0,
+[]
+],
+[
+"Golems",
+0,
+[]
+],
+[
+"Grove",
+0,
+[]
+],
+[
+"Journey Horizon",
+0,
+[]
+],
+[
+"Kiri-ai: The Duel",
+0,
+[]
+],
+[
+"Metz",
+0,
+[]
+],
+[
+"Masters of Renaissance: Lorenzo il Magnifico",
+0,
+[]
+],
+[
+"Misty",
+0,
+[]
+],
+[
+"Monster Trick",
+0,
+[]
+],
+[
+"Neon Reign",
+0,
+[]
+],
+[
+"Persona non Grata",
+0,
+[]
+],
+[
+"Piratas!",
+0,
+[]
+],
+[
+"Play Nine",
+0,
+[]
+],
+[
+"Bus",
+0,
+[]
+],
+[
+"Catatac",
+0,
+[]
+],
+[
+"Catopomp",
+0,
+[]
+],
+[
+"Charuma",
+0,
+[]
+],
+[
+"Conspiracy",
+0,
+[]
+],
+[
+"Expeditions",
+0,
+[]
+],
+[
+"Gachapon Trick",
+0,
+[]
+],
+[
+"The Great American Fox Hunt",
+0,
+[]
+],
+[
+"Grizzo",
+0,
+[]
+],
+[
+"Hegemony of Faith",
+0,
+[]
+],
+[
+"The itty bitty card game",
+0,
+[]
+],
+[
+"The Nine Sons of The Dragon",
+0,
+[]
+],
+[
+"No Loose Ends",
+0,
+[]
+],
+[
+"Phố Phở",
+0,
+[]
+],
+[
+"Reflections in the Looking Glass",
+0,
+[]
+],
+[
+"Relative Space",
+0,
+[]
+],
+[
+"Resist!",
+0,
+[]
+],
+[
+"River Rats",
+0,
+[]
+],
+[
+"Samarkand",
+0,
+[
+"Bazaar"
+]
+],
+[
+"Schadenfreude",
+0,
+[]
+],
+[
+"Scream Park",
+0,
+[]
+],
+[
+"Rapotín",
+0,
+[]
+],
+[
+"Armchair Cricket",
+0,
+[]
+],
+[
+"Battle of the Bands",
+0,
+[]
+],
+[
+"Five Crowns",
+0,
+[]
+],
+[
+"Flinch",
+0,
+[]
+],
+[
+"Action! Regroup! Move!",
+0,
+[]
+],
+[
+"pluck",
+0,
+[]
+],
+[
+"Rooky",
+0,
+[]
+],
+[
+"Vampire",
+0,
+[]
+],
+[
+"We Didn't Playtest This At All",
+0,
+[]
+],
+[
+"1 2 3",
+0,
+[]
+],
+[
+"Cat Chaos",
+0,
+[]
+],
+[
+"Bollen",
+0,
+[]
+],
+[
+"Battle for Souls",
+0,
+[]
 ]
 ]

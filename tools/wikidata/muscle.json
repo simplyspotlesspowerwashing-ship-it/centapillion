@@ -1,1330 +1,8404 @@
 [
 [
 "thoracic diaphragm",
-89
+89,
+[
+"diaphragm",
+"diaphragm muscle",
+"respiratory diaphragm"
+]
 ],
 [
 "biceps brachii",
-59
+59,
+[
+"biceps",
+"biceps brachii muscle",
+"musculus biceps brachii"
+]
 ],
 [
 "skeletal muscle",
-56
+56,
+[
+"muscle, skeletal",
+"skeletal striated muscle",
+"striated voluntary muscle"
+]
 ],
 [
 "deltoid muscle",
-51
+51,
+[
+"deltoid",
+"deltoids",
+"delts"
+]
 ],
 [
 "calf",
-49
+49,
+[
+"calves"
+]
 ],
 [
 "triceps brachii muscle",
-47
+47,
+[
+"tri",
+"triceps",
+"triceps brachii"
+]
 ],
 [
 "trapezius muscle",
-45
+45,
+[
+"trapezius"
+]
 ],
 [
 "rectus abdominis muscle",
-45
+45,
+[
+"abdominal muscles",
+"abdominals",
+"abs",
+"core muscle definition",
+"rectus abdominis",
+"Rectus abdominis muscle"
+]
 ],
 [
 "pectoralis major",
-41
+41,
+[
+"main human chest muscle",
+"pecs",
+"pectoralis major muscle"
+]
 ],
 [
 "gluteus maximus muscle",
-41
+41,
+[
+"glutes"
+]
 ],
 [
 "sinoatrial node",
-40
+40,
+[
+"Keith and Flack node",
+"Keith-Flack node",
+"SAN",
+"SA node",
+"sinus node"
+]
 ],
 [
 "quadriceps femoris muscle",
-40
+40,
+[
+"quadriceps",
+"quadriceps extensor",
+"Quadriceps Muscle",
+"quads"
+]
 ],
 [
 "sphincter muscle",
-39
+39,
+[
+"sphincter"
+]
 ],
 [
 "sternocleidomastoid muscle",
-38
+38,
+[
+"sternocleidomastoideus",
+"sternomastoid"
+]
 ],
 [
 "latissimus dorsi muscle",
-37
+37,
+[
+"lats"
+]
 ],
 [
 "ciliary muscle",
-34
+34,
+[]
 ],
 [
 "electrical conduction system of the heart",
-34
+34,
+[
+"cardiac conduction system (CCS)",
+"CCS",
+"electrical cardiac conduction system",
+"heart conduction system"
+]
 ],
 [
 "coracobrachialis muscle",
-34
+34,
+[]
 ],
 [
 "pectoralis minor muscle",
-34
+34,
+[
+"pectoralis minor"
+]
 ],
 [
 "masseter muscle",
-33
+33,
+[]
 ],
 [
 "gastrocnemius muscle",
-33
+33,
+[]
 ],
 [
 "teres major muscle",
-32
+32,
+[
+"teres major"
+]
 ],
 [
 "temporal muscle",
-32
+32,
+[
+"temporalis muscle"
+]
 ],
 [
 "teres minor muscle",
-32
+32,
+[
+"teres minor"
+]
 ],
 [
 "infraspinatus muscle",
-31
+31,
+[]
 ],
 [
 "atrioventricular node",
-31
+31,
+[
+"A-V node",
+"AV node",
+"Tawara node"
+]
 ],
 [
 "biceps femoris muscle",
-31
+31,
+[]
 ],
 [
 "serratus anterior muscle",
-31
+31,
+[
+"boxer's muscle"
+]
 ],
 [
 "supraspinatus muscle",
-31
+31,
+[
+"supraspinatus"
+]
 ],
 [
 "brachialis muscle",
-31
+31,
+[
+"brachialis",
+"brachialis anticus"
+]
 ],
 [
 "gluteus medius muscle",
-30
+30,
+[
+"gluteus medius"
+]
 ],
 [
 "orbicularis oculi muscle",
-30
+30,
+[]
 ],
 [
 "abdominal external oblique muscle",
-30
+30,
+[
+"external abdominal oblique muscle",
+"external oblique"
+]
 ],
 [
 "subscapularis muscle",
-29
+29,
+[]
 ],
 [
 "anconeus muscle",
-29
+29,
+[
+"anconaeus",
+"anconæus",
+"anconaeus muscle",
+"anconæus muscle",
+"anconeus"
+]
 ],
 [
 "sartorius muscle",
-29
+29,
+[]
 ],
 [
 "flexor carpi ulnaris muscle",
-28
+28,
+[]
 ],
 [
 "levator scapulae muscle",
-28
+28,
+[]
 ],
 [
 "pelvic floor",
-28
+28,
+[
+"pelvic diaphragm"
+]
 ],
 [
 "psoas major muscle",
-27
+27,
+[]
 ],
 [
 "pronator teres muscle",
-27
+27,
+[]
 ],
 [
 "platysma muscle",
-27
+27,
+[]
 ],
 [
 "flexor digitorum superficialis muscle",
-27
+27,
+[]
 ],
 [
 "semitendinosus muscle",
-26
+26,
+[]
 ],
 [
 "semimembranosus muscle",
-26
+26,
+[]
 ],
 [
 "subendocardial branches",
-26
+26,
+[
+"Purkinje fibers"
+]
 ],
 [
 "triceps surae",
-26
+26,
+[
+"calf muscle",
+"calves muscles",
+"triceps surae muscle"
+]
 ],
 [
 "stapedius muscle",
-26
+26,
+[]
 ],
 [
 "gluteus minimus muscle",
-26
+26,
+[]
 ],
 [
 "digastric muscle",
-26
+26,
+[
+"digastricus"
+]
 ],
 [
 "palmaris longus muscle",
-26
+26,
+[]
 ],
 [
 "piriformis muscle",
-25
+25,
+[]
 ],
 [
 "popliteus muscle",
-25
+25,
+[]
 ],
 [
 "abdominal internal oblique muscle",
-25
+25,
+[
+"internal abdominal oblique muscle",
+"internal oblique"
+]
 ],
 [
 "tensor fasciae latae muscle",
-25
+25,
+[
+"tensor fasciae latae",
+"Tensor fascia lata"
+]
 ],
 [
 "atrioventricular bundle",
-25
+25,
+[
+"atrioventricular bundle of His",
+"bundle of His",
+"His bundle"
+]
 ],
 [
 "brachioradialis",
-25
+25,
+[
+"brachioradialis muscle"
+]
 ],
 [
 "supinator muscle",
-25
+25,
+[]
 ],
 [
 "extensor carpi ulnaris muscle",
-25
+25,
+[]
 ],
 [
 "nasalis muscle",
-25
+25,
+[
+"nasal muscle"
+]
 ],
 [
 "medial pterygoid muscle",
-25
+25,
+[]
 ],
 [
 "erector spinae muscles",
-25
+25,
+[]
 ],
 [
 "flexor digitorum profundus muscle",
-25
+25,
+[]
 ],
 [
 "buccinator muscle",
-25
+25,
+[
+"buccinator"
+]
 ],
 [
 "psoas minor muscle",
-24
+24,
+[]
 ],
 [
 "soleus muscle",
-24
+24,
+[]
 ],
 [
 "muscle of mastication",
-24
+24,
+[
+"masticatory muscle",
+"masticatory muscles",
+"muscles of mastication",
+"set of masticatory muscles"
+]
 ],
 [
 "Orbicularis oris muscle",
-24
+24,
+[]
 ],
 [
 "corrugator supercilii muscle",
-24
+24,
+[]
 ],
 [
 "zygomaticus major muscle",
-24
+24,
+[]
 ],
 [
 "procerus muscle",
-24
+24,
+[]
 ],
 [
 "pronator quadratus muscle",
-24
+24,
+[]
 ],
 [
 "risorius muscle",
-24
+24,
+[]
 ],
 [
 "flexor pollicis longus muscle",
-24
+24,
+[]
 ],
 [
 "flexor carpi radialis muscle",
-24
+24,
+[]
 ],
 [
 "occipitofrontalis muscle",
-24
+24,
+[]
 ],
 [
 "lateral pterygoid muscle",
-24
+24,
+[]
 ],
 [
 "iris sphincter muscle",
-23
+23,
+[
+"sphincter pupillae",
+"Sphincter pupillae muscles"
+]
 ],
 [
 "subclavius muscle",
-23
+23,
+[]
 ],
 [
 "quadratus lumborum muscle",
-23
+23,
+[
+"quadratus lumborum"
+]
 ],
 [
 "adductor longus muscle",
-23
+23,
+[]
 ],
 [
 "gracilis muscle",
-23
+23,
+[]
 ],
 [
 "flexor hallucis longus muscle",
-23
+23,
+[]
 ],
 [
 "iliacus muscle",
-23
+23,
+[]
 ],
 [
 "rhomboid major muscle",
-23
+23,
+[]
 ],
 [
 "sternohyoid muscle",
-23
+23,
+[]
 ],
 [
 "tibialis anterior muscle",
-23
+23,
+[]
 ],
 [
 "omohyoid muscle",
-22
+22,
+[]
 ],
 [
 "zygomaticus minor muscle",
-22
+22,
+[]
 ],
 [
 "transversus abdominis muscle",
-22
+22,
+[
+"transversalis muscle",
+"Transverse abdominal muscle"
+]
 ],
 [
 "pectineus muscle",
-22
+22,
+[]
 ],
 [
 "extensor digiti minimi muscle",
-22
+22,
+[
+"little finger extender muscle"
+]
 ],
 [
 "levator labii superioris alaeque nasi muscle",
-22
+22,
+[]
 ],
 [
 "intercostal muscle",
-22
+22,
+[
+"intercostal muscles"
+]
 ],
 [
 "abductor pollicis brevis muscle",
-22
+22,
+[]
 ],
 [
 "adductor magnus muscle",
-22
+22,
+[
+"adductor magnus"
+]
 ],
 [
 "plantaris muscle",
-22
+22,
+[]
 ],
 [
 "extraocular muscle",
-22
+22,
+[
+"extra-ocular muscle",
+"extrinsic muscle of eye",
+"oculomotor muscle",
+"oculomotor muscles"
+]
 ],
 [
 "iris dilator muscle",
-22
+22,
+[
+"dilator pupillae",
+"radial muscle of iris"
+]
 ],
 [
 "iliocostalis",
-22
+22,
+[
+"iliocostalis muscle",
+"illicostalis"
+]
 ],
 [
 "extensor carpi radialis longus muscle",
-22
+22,
+[]
 ],
 [
 "extensor carpi radialis brevis muscle",
-22
+22,
+[
+"extensor carpi radialis brevis"
+]
 ],
 [
 "stylohyoid muscle",
-22
+22,
+[]
 ],
 [
 "extensor digitorum muscle of hand",
-22
+22,
+[
+"extensor digitorum communis",
+"extensor digitorum muscle"
+]
 ],
 [
 "rhomboid minor muscle",
-22
+22,
+[
+"Rhomboid minor"
+]
 ],
 [
 "Levator anguli oris",
-22
+22,
+[]
 ],
 [
 "depressor septi nasi muscle",
-21
+21,
+[
+"depressor alae nasi muscle"
+]
 ],
 [
 "fibularis longus",
-21
+21,
+[
+"fibularis longus muscle",
+"peroneus longus"
+]
 ],
 [
 "lumbricals of the hand",
-21
+21,
+[
+"lumbrical muscles of hand",
+"lumbricals muscles",
+"lumbricals muscles of the hand"
+]
 ],
 [
 "scalene muscles",
-21
+21,
+[
+"scalene muscle"
+]
 ],
 [
 "obturator internus muscle",
-21
+21,
+[
+"internal obturator muscle"
+]
 ],
 [
 "adductor brevis muscle",
-21
+21,
+[]
 ],
 [
 "tibialis posterior muscle",
-21
+21,
+[]
 ],
 [
 "striated muscle tissue",
-21
+21,
+[
+"striated muscle"
+]
 ],
 [
 "tensor tympani muscle",
-21
+21,
+[
+"eustachian muscle",
+"tensor tympani"
+]
 ],
 [
 "set of rhomboids",
-21
+21,
+[
+"set of rhomboid muscles"
+]
 ],
 [
 "levator ani",
-21
+21,
+[
+"LAM",
+"levator ani muscle"
+]
 ],
 [
 "extensor pollicis brevis muscle",
-21
+21,
+[]
 ],
 [
 "mylohyoid muscle",
-21
+21,
+[]
 ],
 [
 "opponens pollicis muscle",
-21
+21,
+[]
 ],
 [
 "levator labii superioris",
-21
+21,
+[]
 ],
 [
 "inferior oblique muscle",
-20
+20,
+[]
 ],
 [
 "mentalis",
-20
+20,
+[
+"mentalis muscle"
+]
 ],
 [
 "geniohyoid muscle",
-20
+20,
+[]
 ],
 [
 "thyrohyoid muscle",
-20
+20,
+[]
 ],
 [
 "serratus posterior superior muscle",
-20
+20,
+[]
 ],
 [
 "abductor digiti minimi muscle of foot",
-20
+20,
+[]
 ],
 [
 "superior rectus muscle",
-20
+20,
+[]
 ],
 [
 "quadratus femoris muscle",
-20
+20,
+[]
 ],
 [
 "extensor hallucis longus muscle",
-20
+20,
+[]
 ],
 [
 "abductor hallucis muscle",
-20
+20,
+[]
 ],
 [
 "extensor digitorum longus muscle",
-20
+20,
+[]
 ],
 [
 "pyramidalis muscle",
-20
+20,
+[]
 ],
 [
 "internal intercostal muscle",
-20
+20,
+[
+"set of internal intercostal muscles"
+]
 ],
 [
 "Flexor pollicis brevis muscle",
-20
+20,
+[
+"flexor pollicis brevis"
+]
 ],
 [
 "sternothyroid muscle",
-20
+20,
+[]
 ],
 [
 "extensor pollicis longus muscle",
-20
+20,
+[]
 ],
 [
 "external intercostal muscles",
-20
+20,
+[]
 ],
 [
 "abductor pollicis longus muscle",
-20
+20,
+[]
 ],
 [
 "serratus posterior inferior muscle",
-20
+20,
+[]
 ],
 [
 "extensor indicis muscle",
-20
+20,
+[]
 ],
 [
 "levator palpebrae superioris muscle",
-20
+20,
+[]
 ],
 [
 "longus capitis muscle",
-19
+19,
+[]
 ],
 [
 "opponens digiti minimi muscle of hand",
-19
+19,
+[]
 ],
 [
 "Adductor pollicis muscle",
-19
+19,
+[]
 ],
 [
 "tensor veli palatini muscle",
-19
+19,
+[
+"tensor muscle of the velum palatinum",
+"Tensor palati"
+]
 ],
 [
 "longissimus",
-19
+19,
+[
+"longissimus muscle"
+]
 ],
 [
 "inferior rectus muscle",
-19
+19,
+[]
 ],
 [
 "medial rectus muscle",
-19
+19,
+[]
 ],
 [
 "obturator externus muscle",
-19
+19,
+[]
 ],
 [
 "flexor digitorum longus muscle",
-19
+19,
+[]
 ],
 [
 "facial muscles",
-19
+19,
+[
+"mimetic muscles",
+"mimic muscles",
+"Musculature of face"
+]
 ],
 [
 "external anal sphincter",
-19
+19,
+[
+"external anal sphincter muscle",
+"sphincter ani externus muscle"
+]
 ],
 [
 "flexor digiti minimi brevis muscle of hand",
-19
+19,
+[
+"flexor digiti minimi brevis manus"
+]
 ],
 [
 "hyoglossus",
-19
+19,
+[
+"hyoglossus muscle"
+]
 ],
 [
 "genioglossus",
-19
+19,
+[
+"genioglossus muscle"
+]
 ],
 [
 "abductor digiti minimi muscle of hand",
-19
+19,
+[
+"abductor digiti minimi of hand"
+]
 ],
 [
 "depressor labii inferioris muscle",
-19
+19,
+[]
 ],
 [
 "superior oblique muscle",
-19
+19,
+[
+"obliquus oculi superior"
+]
 ],
 [
 "palmaris brevis muscle",
-19
+19,
+[]
 ],
 [
 "lateral rectus muscle",
-18
+18,
+[]
 ],
 [
 "longus colli muscle",
-18
+18,
+[]
 ],
 [
 "spinalis muscles",
-18
+18,
+[
+"spinalis muscle"
+]
 ],
 [
 "splenius capitis muscle",
-18
+18,
+[]
 ],
 [
 "fibularis brevis muscle",
-18
+18,
+[
+"fibularis brevis",
+"peroneus brevis",
+"peroneus brevis muscle"
+]
 ],
 [
 "inferior gemellus muscle",
-18
+18,
+[
+"gemellus inferior"
+]
 ],
 [
 "cricothyroid muscle",
-18
+18,
+[]
 ],
 [
 "depressor anguli oris muscle",
-18
+18,
+[]
 ],
 [
 "styloglossus",
-18
+18,
+[
+"styloglossus muscle"
+]
 ],
 [
 "transversus thoracis muscle",
-18
+18,
+[]
 ],
 [
 "coccygeus muscle",
-17
+17,
+[
+"ischiococcygeus muscle"
+]
 ],
 [
 "semispinalis capitis",
-17
+17,
+[
+"semispinalis capitis muscle"
+]
 ],
 [
 "levator veli palatini",
-17
+17,
+[
+"levator palati"
+]
 ],
 [
 "flexor digitorum brevis muscle",
-17
+17,
+[
+"short flexor muscle of toes"
+]
 ],
 [
 "quadratus plantae muscle",
-17
+17,
+[
+"Flexor accessorius"
+]
 ],
 [
 "extensor digitorum brevis muscle",
-17
+17,
+[
+"Extensor digitorum brevis of foot"
+]
 ],
 [
 "superior gemellus muscle",
-17
+17,
+[
+"gemellus superior"
+]
 ],
 [
 "fibularis tertius",
-17
+17,
+[
+"fibularis tertius muscle",
+"peroneus tertius"
+]
 ],
 [
 "vastus intermedius muscle",
-17
+17,
+[
+"Vastus intermedius"
+]
 ],
 [
 "rectus capitis lateralis muscle",
-17
+17,
+[]
 ],
 [
 "rectus capitis posterior major muscle",
-17
+17,
+[]
 ],
 [
 "depressor supercilii muscle",
-17
+17,
+[]
 ],
 [
 "obliquus capitis inferior muscle",
-16
+16,
+[]
 ],
 [
 "splenius cervicis muscle",
-16
+16,
+[]
 ],
 [
 "bulbospongiosus muscle",
-16
+16,
+[]
 ],
 [
 "multifidus muscle",
-16
+16,
+[
+"multifidus muscles"
+]
 ],
 [
 "levatores costarum muscles",
-16
+16,
+[
+"Levatores costorum"
+]
 ],
 [
 "superior pharyngeal constrictor muscle",
-16
+16,
+[
+"superior constrictor muscle of the pharynx"
+]
 ],
 [
 "lateral cricoarytenoid muscle",
-16
+16,
+[]
 ],
 [
 "scalenus anterior",
-16
+16,
+[
+"anterior scalene muscle"
+]
 ],
 [
 "thyroarytenoid muscle",
-16
+16,
+[]
 ],
 [
 "obliquus capitis superior muscle",
-15
+15,
+[]
 ],
 [
 "salpingopharyngeus muscle",
-15
+15,
+[]
 ],
 [
 "flexor hallucis brevis muscle",
-15
+15,
+[]
 ],
 [
 "adductor hallucis muscle",
-15
+15,
+[
+"adductor muscle",
+"contrahens I muscle"
+]
 ],
 [
 "set of suprahyoid muscles",
-15
+15,
+[
+"suprahyoid muscles"
+]
 ],
 [
 "splenius muscles",
-15
+15,
+[
+"splenius"
+]
 ],
 [
 "middle pharyngeal constrictor muscle",
-15
+15,
+[
+"middle pharyngeal constrictor"
+]
 ],
 [
 "sphincter ani internus muscle",
-15
+15,
+[]
 ],
 [
 "rectus capitis anterior muscle",
-15
+15,
+[]
 ],
 [
 "posterior cricoarytenoid muscle",
-15
+15,
+[]
 ],
 [
 "flexor digiti minimi brevis muscle of foot",
-15
+15,
+[]
 ],
 [
 "ischiocavernosus muscle",
-15
+15,
+[
+"erector clitoridis",
+"erector penis"
+]
 ],
 [
 "palatoglossus muscle",
-15
+15,
+[
+"glossopalatinus",
+"palatoglossus"
+]
 ],
 [
 "muscles of respiration",
-15
+15,
+[
+"respiratory muscles"
+]
 ],
 [
 "rectus capitis posterior minor muscle",
-15
+15,
+[]
 ],
 [
 "rotatores muscles",
-15
+15,
+[
+"rotatores spinae muscles"
+]
 ],
 [
 "palatopharyngeus muscle",
-15
+15,
+[
+"palatopharyngeal muscle",
+"palatopharyngeus"
+]
 ],
 [
 "scalenus posterior",
-15
+15,
+[
+"posterior scalene muscle"
+]
 ],
 [
 "superior longitudinal muscle of tongue",
-14
+14,
+[]
 ],
 [
 "scalenus medius",
-14
+14,
+[
+"scalenus medius muscle"
+]
 ],
 [
 "chondroglossus",
-14
+14,
+[
+"chondroglossus muscle"
+]
 ],
 [
 "extensor hallucis brevis muscle",
-14
+14,
+[]
 ],
 [
 "inferior longitudinal muscle of tongue",
-14
+14,
+[]
 ],
 [
 "Infrahyoid muscles",
-14
+14,
+[
+"infrahyoid muscle"
+]
 ],
 [
 "plantar interossei muscles",
-14
+14,
+[]
 ],
 [
 "palmar interossei muscles",
-14
+14,
+[
+"volar interossei"
+]
 ],
 [
 "lumbricals of the foot",
-14
+14,
+[
+"lumbricals of foot",
+"musculus lumbricalis pedis"
+]
 ],
 [
 "inferior pharyngeal constrictor muscle",
-14
+14,
+[
+"inferior pharyngeal constrictor"
+]
 ],
 [
 "antagonist",
-14
+14,
+[]
 ],
 [
 "stylopharyngeus muscle",
-14
+14,
+[]
 ],
 [
 "Interspinales muscle",
-14
+14,
+[
+"set of interspinales"
+]
 ],
 [
 "Intertransversarii muscle",
-14
+14,
+[
+"Intertransversarii"
+]
 ],
 [
 "subcostalis muscle",
-14
+14,
+[
+"subcostal muscles"
+]
 ],
 [
 "posterior auricular muscle",
-14
+14,
+[]
 ],
 [
 "dorsal interossei of the hand",
-13
+13,
+[
+"dorsal interossei muscles of hand"
+]
 ],
 [
 "pes anserinus",
-13
+13,
+[]
 ],
 [
 "anterior auricular muscle",
-13
+13,
+[]
 ],
 [
 "innermost intercostal muscle",
-13
+13,
+[]
 ],
 [
 "superior auricular muscle",
-13
+13,
+[]
 ],
 [
 "articularis genus muscle",
-12
+12,
+[]
 ],
 [
 "vertical muscle of tongue",
-12
+12,
+[]
 ],
 [
 "transverse arytenoid muscle",
-12
+12,
+[
+"Transverse arytenoid"
+]
 ],
 [
 "semispinalis muscle",
-12
+12,
+[
+"semispinalis muscles"
+]
 ],
 [
 "transverse muscle of tongue",
-11
+11,
+[]
 ],
 [
 "musculus uvulae",
-11
+11,
+[
+"uvular muscle"
+]
 ],
 [
 "transversospinales muscles",
-11
+11,
+[]
 ],
 [
 "dorsal interossei of the foot",
-10
+10,
+[]
 ],
 [
 "oblique arytenoid muscle",
-10
+10,
+[
+"oblique arytenoid"
+]
 ],
 [
 "extrinsic auricular muscle",
-10
+10,
+[
+"auricular muscle"
+]
 ],
 [
 "articularis cubiti muscle",
-9
+9,
+[
+"Lecomte's pronator of ulna",
+"subanconeus muscle"
+]
 ],
 [
 "deep transverse perineal muscle",
-9
+9,
+[]
 ],
 [
 "superficial transverse perineal muscle",
-9
+9,
+[
+"Theile's muscle"
+]
 ],
 [
 "abdominal muscles",
-9
+9,
+[]
 ],
 [
 "transverse muscle of the chin",
-9
+9,
+[
+"transversus menti muscle"
+]
 ],
 [
 "adductor minimus muscle",
-9
+9,
+[]
 ],
 [
 "sternalis muscle",
-9
+9,
+[
+"sternalis"
+]
 ],
 [
 "Anatomical terms of muscle",
-9
+9,
+[]
 ],
 [
 "cardiac muscles",
-8
+8,
+[
+"cardiac muscle tissue",
+"cardiac striated muscle",
+"heart muscle"
+]
 ],
 [
 "musculus scalenus minimus",
-8
+8,
+[]
 ],
 [
 "abductor muscle",
-8
+8,
+[
+"abductor muscle (anatomy)"
+]
 ],
 [
 "opponens digiti minimi of foot",
-8
+8,
+[
+"opponens digiti minimi musculus of the foot",
+"opponens digiti minimi of the foot"
+]
 ],
 [
 "semispinalis cervicis",
-8
+8,
+[
+"semispinalis colli muscle"
+]
 ],
 [
 "agonist",
-8
+8,
+[]
 ],
 [
 "semispinalis thoracis",
-7
+7,
+[
+"Semispinalis dorsi",
+"Semispinalis thoracis muscle"
+]
 ],
 [
 "striated cutaneous muscle",
-6
+6,
+[
+"panniculus carnosus"
+]
 ],
 [
 "six pack",
-6
+6,
+[
+"eight pack",
+"four pack",
+"ten pack"
+]
 ],
 [
 "external sphincter muscle of female urethra",
-6
+6,
+[
+"female external urethral sphincter"
+]
 ],
 [
 "prevertebral muscle",
-6
+6,
+[]
 ],
 [
 "pharyngeal muscles",
-6
+6,
+[]
 ],
 [
 "tragicus muscle",
-5
+5,
+[
+"tragicus"
+]
 ],
 [
 "Arytenoid muscle",
-5
+5,
+[]
 ],
 [
 "Accessory muscle",
-5
+5,
+[]
 ],
 [
 "external sphincter muscle of male urethra",
-5
+5,
+[
+"male external urethral sphincter"
+]
 ],
 [
 "helicis major",
-4
+4,
+[
+"helicis major muscle"
+]
 ],
 [
 "helicis minor",
-4
+4,
+[
+"helicis minor muscle"
+]
 ],
 [
 "musculus longissimus capitis",
-4
+4,
+[
+"longissimus capitis"
+]
 ],
 [
 "Intrinsic ocular muscle",
-4
+4,
+[
+"intra-ocular muscle",
+"intraocular muscle",
+"Intraocular muscle"
+]
 ],
 [
 "upper esophageal sphincter",
-4
+4,
+[]
 ],
 [
 "tongue muscle",
-4
+4,
+[
+"muscle of tongue",
+"muscles of tongue"
+]
 ],
 [
 "lower esophageal sphincter",
-4
+4,
+[
+"cardiac sphincter",
+"cardioesophageal valve",
+"gastroesophageal sphincter"
+]
 ],
 [
 "muscles of the human torso",
-4
+4,
+[]
 ],
 [
 "synergist",
-4
+4,
+[]
 ],
 [
 "orbitalis muscle",
-4
+4,
+[
+"Müller's muscle"
+]
 ],
 [
 "back muscles",
-4
+4,
+[
+"back muscle",
+"muscle of back"
+]
 ],
 [
 "nasal muscle",
-3
+3,
+[]
 ],
 [
 "antitragicus muscle",
-3
+3,
+[
+"antitragicus"
+]
 ],
 [
 "Musculus cricopharyngeus",
-3
+3,
+[]
 ],
 [
 "musculus longissimus cervicis",
-3
+3,
+[]
 ],
 [
 "Oblique muscle of auricle",
-3
+3,
+[]
 ],
 [
 "vocal muscle",
-3
+3,
+[]
 ],
 [
 "sphenomandibularis",
-3
+3,
+[]
 ],
 [
 "biarticular muscle",
-3
+3,
+[]
 ],
 [
 "laryngeal muscles",
-3
+3,
+[
+"laryngeal muscle",
+"muscle of larynx"
+]
 ],
 [
 "velopharyngeal sphincter",
-3
+3,
+[
+"Velopharyngeal port"
+]
 ],
 [
 "pharyngeal constrictor",
-3
+3,
+[
+"constrictor muscle of pharynx"
+]
 ],
 [
 "transverse muscle of auricle",
-3
+3,
+[]
 ],
 [
 "spinalis capitis muscle",
-2
+2,
+[]
 ],
 [
 "intrinsic auricular muscle",
-2
+2,
+[]
 ],
 [
 "lower limb muscles",
-2
+2,
+[
+"muscle of lower limb"
+]
 ],
 [
 "incisivus labii inferioris muscle",
-2
+2,
+[
+"incisivus labii inferioris"
+]
 ],
 [
 "iliocostalis lumborum muscle",
-2
+2,
+[
+"lateral division of lumbar erector spinae"
+]
 ],
 [
 "Musculus malaris",
-2
+2,
+[]
 ],
 [
 "musculus gluteus superficialis",
-2
+2,
+[
+"gluteus superficialis muscle",
+"superficial gluteal muscles"
+]
 ],
 [
 "pterygoideus proprius muscle",
-2
+2,
+[]
 ],
 [
 "extrinsic extensor muscles of the hand",
-2
+2,
+[]
 ],
 [
 "levator muscle of medial angle of eye",
-2
+2,
+[]
 ],
 [
 "Retractor muscle of the penis",
-2
+2,
+[]
 ],
 [
 "musculus retractor costae",
-2
+2,
+[]
 ],
 [
 "Asynchronous muscles",
-2
+2,
+[]
 ],
 [
 "adductor muscle",
-2
+2,
+[
+"adductor"
+]
 ],
 [
 "musculus iliocostalis cervicis",
-2
+2,
+[]
 ],
 [
 "elbow muscles",
-1
+1,
+[]
 ],
 [
 "pelvic floor muscle",
-1
+1,
+[]
 ],
 [
 "muscles of the shoulder",
-1
+1,
+[]
 ],
 [
 "muscles of the leg",
-1
+1,
+[]
 ],
 [
 "trunk muscle",
-1
+1,
+[
+"muscles of the trunk",
+"trunk muscles"
+]
 ],
 [
 "spinodorsal muscles",
-1
+1,
+[]
 ],
 [
 "iris muscle",
-1
+1,
+[
+"muscle of iris"
+]
 ],
 [
 "lumbar rotator",
-1
+1,
+[
+"rotatores lumborum muscles"
+]
 ],
 [
 "adductor part of adductor magnus",
-1
+1,
+[
+"Pars adductoria adductoris magni",
+"Pars adductoria adductoris magnus"
+]
 ],
 [
 "rotator",
-1
+1,
+[]
 ],
 [
 "superficial muscle of head",
-1
+1,
+[
+"facial muscles"
+]
 ],
 [
 "muscle of terminal notch",
-1
+1,
+[]
 ],
 [
 "pyramidal muscle of auricle",
-1
+1,
+[
+"Jung's muscle"
+]
 ],
 [
 "epaxial muscles",
-1
+1,
+[
+"deep back muscles",
+"muscles of back proper",
+"true back muscles"
+]
 ],
 [
 "oculomotor muscle",
-1
+1,
+[]
 ],
 [
 "rectosigmoid sphincter",
-1
+1,
+[
+"pylorus sigmoidrectalis",
+"rectosigmoid sphincter of O'Beirne",
+"sphincter ani tertius",
+"sphincter of O'Beirne"
+]
 ],
 [
 "musculus retractor anguli oculi lateralis",
-1
+1,
+[]
 ],
 [
 "musculus flexor digitorum pedis superficialis",
-1
+1,
+[]
 ],
 [
 "musculus flexor digitorum profundus (hind limbs)",
-1
+1,
+[]
 ],
 [
 "deep gluteal muscles",
-1
+1,
+[
+"lateral rotators of thigh"
+]
 ],
 [
 "longissimus thoracis",
-1
+1,
+[
+"longissimus thoracis muscle",
+"Musculus longissimus thoracis"
+]
 ],
 [
 "forearm muscles",
-1
+1,
+[]
 ],
 [
 "Myrtiformis muscle",
-1
+1,
+[]
 ],
 [
 "anterior neck muscles",
-1
+1,
+[]
 ],
 [
 "muscle of thorax",
-1
+1,
+[]
 ],
 [
 "pectoral muscle",
-1
+1,
+[]
 ],
 [
 "epicranius muscle",
-1
+1,
+[
+"epicranial muscles",
+"epicranius"
+]
 ],
 [
 "muscle of auditory ossicle",
-1
+1,
+[
+"auditory ossicles muscle",
+"muscle of tympanic cavity",
+"ossicular muscle",
+"tympanic cavity muscle",
+"tympanic muscle"
+]
 ],
 [
 "physiological cross-sectional area",
-1
+1,
+[
+"PCSA"
+]
 ],
 [
 "Segmental stabilizers",
-1
+1,
+[]
+],
+[
+"abdominal part of pectoralis major muscle",
+0,
+[]
+],
+[
+"sternocostal head of pectoralis major muscle",
+0,
+[]
+],
+[
+"ischiocondylar part of adductor magnus",
+0,
+[
+"hamstring part of adductor magnus",
+"Pars ischiocondylaris adductoris magni"
+]
+],
+[
+"abductor of fifth metatarsal",
+0,
+[
+"Wood's muscle"
+]
+],
+[
+"gastrointestinal sphincter",
+0,
+[]
+],
+[
+"forelimb zeugopod muscle",
+0,
+[]
+],
+[
+"gluteal muscles",
+0,
+[]
+],
+[
+"smooth muscle organ",
+0,
+[]
+],
+[
+"striated visceral muscle",
+0,
+[]
+],
+[
+"dilator muscle",
+0,
+[
+"dilator"
+]
+],
+[
+"attachment",
+0,
+[]
+],
+[
+"superior attachment",
+0,
+[]
+],
+[
+"inferior attachment",
+0,
+[]
+],
+[
+"medial attachment",
+0,
+[]
+],
+[
+"lateral attachment",
+0,
+[]
+],
+[
+"proximal attachment",
+0,
+[]
+],
+[
+"distal attachment",
+0,
+[]
+],
+[
+"ceratocricoid muscle",
+0,
+[]
+],
+[
+"lumbar part of longissimus thoracis muscle",
+0,
+[]
+],
+[
+"spinalis colli muscle",
+0,
+[
+"spinalis cervicis muscle"
+]
+],
+[
+"left anterior branch of atrioventricular bundle",
+0,
+[
+"superior fascicle of left bundle branch"
+]
+],
+[
+"left intermediate branch of atrioventricular bundle",
+0,
+[
+"septal fascicle of left bundle branch"
+]
+],
+[
+"left posterior branch of atrioventricular bundle",
+0,
+[
+"inferior fascicle of left bundle branch"
+]
+],
+[
+"human pelvic floor",
+0,
+[]
+],
+[
+"human musculus biceps brachii",
+0,
+[]
+],
+[
+"human muscle",
+0,
+[]
+],
+[
+"opponens digiti minimi",
+0,
+[]
+],
+[
+"right bundle branch",
+0,
+[
+"right branch of atrioventricular bundle"
+]
+],
+[
+"left bundle branch",
+0,
+[
+"left branch of atrioventricular bundle"
+]
+],
+[
+"muscle of leg",
+0,
+[
+"hindlimb muscle"
+]
+],
+[
+"digastric muscle group",
+0,
+[
+"muscle of digastric group"
+]
+],
+[
+"subdivision of conducting system of heart",
+0,
+[]
+],
+[
+"cardiac muscle tissue of right atrium",
+0,
+[]
+],
+[
+"cardiac muscle tissue of atrium",
+0,
+[]
+],
+[
+"cardiac muscle tissue of left atrium",
+0,
+[]
+],
+[
+"internodal tract",
+0,
+[]
+],
+[
+"anterior internodal tract",
+0,
+[]
+],
+[
+"middle internodal tract",
+0,
+[]
+],
+[
+"posterior internodal tract",
+0,
+[]
+],
+[
+"accessory atrioventricular bundle",
+0,
+[]
+],
+[
+"anterior division of left branch of atrioventricular bundle",
+0,
+[]
+],
+[
+"posterior division of left branch of atrioventricular bundle",
+0,
+[]
+],
+[
+"subendocardial branch of right branch of atrioventricular bundle",
+0,
+[]
+],
+[
+"subendocardial branch of anterior division of left branch of atrioventricular bundle",
+0,
+[]
+],
+[
+"subendocardial branch of posterior division of left branch of atrioventricular bundle",
+0,
+[]
+],
+[
+"atrial part of atrioventricular bundle",
+0,
+[]
+],
+[
+"ventricular part of atrioventricular bundle",
+0,
+[]
+],
+[
+"muscle of head",
+0,
+[]
+],
+[
+"muscle of neck",
+0,
+[]
+],
+[
+"muscle of abdomen",
+0,
+[
+"abdomen musculature",
+"muscles of abdomen",
+"musculature of abdomen"
+]
+],
+[
+"muscle of upper limb",
+0,
+[]
+],
+[
+"perineal muscle",
+0,
+[]
+],
+[
+"external intercostal muscle",
+0,
+[]
+],
+[
+"subcostal muscle",
+0,
+[]
+],
+[
+"right transversus thoracis",
+0,
+[]
+],
+[
+"left transversus thoracis",
+0,
+[]
+],
+[
+"right first external intercostal muscle",
+0,
+[]
+],
+[
+"right second external intercostal muscle",
+0,
+[]
+],
+[
+"right third external intercostal muscle",
+0,
+[]
+],
+[
+"right fourth external intercostal muscle",
+0,
+[]
+],
+[
+"right fifth external intercostal muscle",
+0,
+[]
+],
+[
+"right sixth external intercostal muscle",
+0,
+[]
+],
+[
+"right seventh external intercostal muscle",
+0,
+[]
+],
+[
+"right eighth external intercostal muscle",
+0,
+[]
+],
+[
+"right ninth external intercostal muscle",
+0,
+[]
+],
+[
+"right tenth external intercostal muscle",
+0,
+[]
+],
+[
+"right eleventh external intercostal muscle",
+0,
+[]
+],
+[
+"left first external intercostal muscle",
+0,
+[]
+],
+[
+"left second external intercostal muscle",
+0,
+[]
+],
+[
+"left third external intercostal muscle",
+0,
+[]
+],
+[
+"left fourth external intercostal muscle",
+0,
+[]
+],
+[
+"left fifth external intercostal muscle",
+0,
+[]
+],
+[
+"left sixth external intercostal muscle",
+0,
+[]
+],
+[
+"left seventh external intercostal muscle",
+0,
+[]
+],
+[
+"left eighth external intercostal muscle",
+0,
+[]
+],
+[
+"left ninth external intercostal muscle",
+0,
+[]
+],
+[
+"left tenth external intercostal muscle",
+0,
+[]
+],
+[
+"left eleventh external intercostal muscle",
+0,
+[]
+],
+[
+"right first internal intercostal muscle",
+0,
+[]
+],
+[
+"right second internal intercostal muscle",
+0,
+[]
+],
+[
+"right third internal intercostal muscle",
+0,
+[]
+],
+[
+"right fourth internal intercostal muscle",
+0,
+[]
+],
+[
+"right fifth internal intercostal muscle",
+0,
+[]
+],
+[
+"right sixth internal intercostal muscle",
+0,
+[]
+],
+[
+"right seventh internal intercostal muscle",
+0,
+[]
+],
+[
+"right eighth internal intercostal muscle",
+0,
+[]
+],
+[
+"right ninth internal intercostal muscle",
+0,
+[]
+],
+[
+"right tenth internal intercostal muscle",
+0,
+[]
+],
+[
+"right eleventh internal intercostal muscle",
+0,
+[]
+],
+[
+"left first internal intercostal muscle",
+0,
+[]
+],
+[
+"left second internal intercostal muscle",
+0,
+[]
+],
+[
+"left third internal intercostal muscle",
+0,
+[]
+],
+[
+"left fourth internal intercostal muscle",
+0,
+[]
+],
+[
+"left fifth internal intercostal muscle",
+0,
+[]
+],
+[
+"left sixth internal intercostal muscle",
+0,
+[]
+],
+[
+"left seventh internal intercostal muscle",
+0,
+[]
+],
+[
+"left eighth internal intercostal muscle",
+0,
+[]
+],
+[
+"left ninth internal intercostal muscle",
+0,
+[]
+],
+[
+"left tenth internal intercostal muscle",
+0,
+[]
+],
+[
+"left eleventh internal intercostal muscle",
+0,
+[]
+],
+[
+"second innermost intercostal muscle",
+0,
+[]
+],
+[
+"left second innermost intercostal muscle",
+0,
+[]
+],
+[
+"right subcostal muscle",
+0,
+[]
+],
+[
+"left subcostal muscle",
+0,
+[]
+],
+[
+"right external oblique",
+0,
+[]
+],
+[
+"left external oblique",
+0,
+[]
+],
+[
+"infrahyoid muscle",
+0,
+[]
+],
+[
+"right sternohyoid",
+0,
+[]
+],
+[
+"left sternohyoid",
+0,
+[]
+],
+[
+"right omohyoid",
+0,
+[]
+],
+[
+"left omohyoid",
+0,
+[]
+],
+[
+"right sternothyroid",
+0,
+[]
+],
+[
+"left sternothyroid",
+0,
+[]
+],
+[
+"right thyrohyoid",
+0,
+[]
+],
+[
+"left thyrohyoid",
+0,
+[]
+],
+[
+"right latissimus dorsi",
+0,
+[]
+],
+[
+"left latissimus dorsi",
+0,
+[]
+],
+[
+"right longus colli",
+0,
+[]
+],
+[
+"left longus colli",
+0,
+[]
+],
+[
+"right pectoralis major",
+0,
+[]
+],
+[
+"left pectoralis major",
+0,
+[]
+],
+[
+"right pectoralis minor",
+0,
+[]
+],
+[
+"left pectoralis minor",
+0,
+[]
+],
+[
+"right rectus abdominis",
+0,
+[]
+],
+[
+"left rectus abdominis",
+0,
+[]
+],
+[
+"right rhomboid major",
+0,
+[]
+],
+[
+"left rhomboid major",
+0,
+[]
+],
+[
+"right rhomboid minor",
+0,
+[]
+],
+[
+"left rhomboid minor",
+0,
+[]
+],
+[
+"right scalenus posterior",
+0,
+[]
+],
+[
+"left scalenus posterior",
+0,
+[]
+],
+[
+"right scalenus medius",
+0,
+[]
+],
+[
+"left scalenus medius",
+0,
+[]
+],
+[
+"right scalenus anterior",
+0,
+[]
+],
+[
+"left scalenus anterior",
+0,
+[]
+],
+[
+"right serratus anterior",
+0,
+[]
+],
+[
+"left serratus anterior",
+0,
+[]
+],
+[
+"serratus posterior",
+0,
+[]
+],
+[
+"right serratus posterior superior",
+0,
+[]
+],
+[
+"left serratus posterior superior",
+0,
+[]
+],
+[
+"right serratus posterior inferior",
+0,
+[]
+],
+[
+"left serratus posterior inferior",
+0,
+[]
+],
+[
+"right sternocleidomastoid",
+0,
+[]
+],
+[
+"left sternocleidomastoid",
+0,
+[]
+],
+[
+"left subclavius",
+0,
+[]
+],
+[
+"right subclavius",
+0,
+[]
+],
+[
+"right subscapularis",
+0,
+[]
+],
+[
+"left subscapularis",
+0,
+[]
+],
+[
+"right trapezius",
+0,
+[]
+],
+[
+"left trapezius",
+0,
+[]
+],
+[
+"conducting system of right atrium",
+0,
+[]
+],
+[
+"conducting system of left atrium",
+0,
+[]
+],
+[
+"conducting system of right ventricle",
+0,
+[]
+],
+[
+"conducting system of left ventricle",
+0,
+[]
+],
+[
+"right internal oblique",
+0,
+[]
+],
+[
+"left internal oblique",
+0,
+[]
+],
+[
+"skeletal muscle tissue",
+0,
+[]
+],
+[
+"obturator muscle",
+0,
+[]
+],
+[
+"muscle of pelvis",
+0,
+[
+"pelvic muscle"
+]
+],
+[
+"deep perineal muscle",
+0,
+[]
+],
+[
+"superficial perineal muscle",
+0,
+[]
+],
+[
+"muscle of anterior abdominal wall",
+0,
+[
+"anterior abdominal wall muscle"
+]
+],
+[
+"right superficial transverse perineal muscle",
+0,
+[]
+],
+[
+"left superficial transverse perineal muscle",
+0,
+[]
+],
+[
+"right bulbospongiosus",
+0,
+[]
+],
+[
+"left bulbospongiosus",
+0,
+[]
+],
+[
+"right ischiocavernosus",
+0,
+[]
+],
+[
+"left ischiocavernosus",
+0,
+[]
+],
+[
+"right deep transverse perineal muscle",
+0,
+[]
+],
+[
+"left deep transverse perineal muscle",
+0,
+[]
+],
+[
+"gemellus",
+0,
+[
+"gemellus muscle"
+]
+],
+[
+"right iliacus",
+0,
+[]
+],
+[
+"left iliacus",
+0,
+[]
+],
+[
+"right obturator internus",
+0,
+[]
+],
+[
+"left obturator internus",
+0,
+[]
+],
+[
+"right obturator externus",
+0,
+[]
+],
+[
+"left obturator externus",
+0,
+[]
+],
+[
+"right gluteus maximus",
+0,
+[]
+],
+[
+"left gluteus maximus",
+0,
+[]
+],
+[
+"right gluteus medius",
+0,
+[]
+],
+[
+"left gluteus medius",
+0,
+[]
+],
+[
+"right gluteus minimus",
+0,
+[]
+],
+[
+"left gluteus minimus",
+0,
+[]
+],
+[
+"right gemellus superior",
+0,
+[]
+],
+[
+"left gemellus superior",
+0,
+[]
+],
+[
+"right gemellus inferior",
+0,
+[]
+],
+[
+"left gemellus inferior",
+0,
+[]
+],
+[
+"right quadratus femoris",
+0,
+[]
+],
+[
+"left quadratus femoris",
+0,
+[]
+],
+[
+"right piriformis",
+0,
+[]
+],
+[
+"left piriformis",
+0,
+[]
+],
+[
+"right psoas major",
+0,
+[]
+],
+[
+"left psoas major",
+0,
+[]
+],
+[
+"right transversus abdominis",
+0,
+[]
+],
+[
+"left transversus abdominis",
+0,
+[]
+],
+[
+"right pyramidalis",
+0,
+[]
+],
+[
+"left pyramidalis",
+0,
+[]
+],
+[
+"right quadratus lumborum",
+0,
+[]
+],
+[
+"left quadratus lumborum",
+0,
+[]
+],
+[
+"right psoas minor",
+0,
+[]
+],
+[
+"left psoas minor",
+0,
+[]
+],
+[
+"right sartorius",
+0,
+[]
+],
+[
+"left sartorius",
+0,
+[]
+],
+[
+"right semitendinosus",
+0,
+[]
+],
+[
+"left semitendinosus",
+0,
+[]
+],
+[
+"right biceps femoris",
+0,
+[]
+],
+[
+"left biceps femoris",
+0,
+[]
+],
+[
+"right tensor fasciae latae",
+0,
+[]
+],
+[
+"left tensor fasciae latae",
+0,
+[]
+],
+[
+"muscle of posterior compartment of thigh",
+0,
+[]
+],
+[
+"muscle of medial compartment of thigh",
+0,
+[]
+],
+[
+"right quadriceps femoris",
+0,
+[]
+],
+[
+"left quadriceps femoris",
+0,
+[]
+],
+[
+"right articularis genus",
+0,
+[]
+],
+[
+"left articularis genus",
+0,
+[]
+],
+[
+"right semimembranosus",
+0,
+[]
+],
+[
+"left semimembranosus",
+0,
+[]
+],
+[
+"right pectineus",
+0,
+[]
+],
+[
+"left pectineus",
+0,
+[]
+],
+[
+"right adductor brevis",
+0,
+[]
+],
+[
+"left adductor brevis",
+0,
+[]
+],
+[
+"right adductor longus",
+0,
+[]
+],
+[
+"left adductor longus",
+0,
+[]
+],
+[
+"right adductor magnus",
+0,
+[]
+],
+[
+"left adductor magnus",
+0,
+[]
+],
+[
+"muscle of thigh",
+0,
+[]
+],
+[
+"muscle of anterior compartment of leg",
+0,
+[]
+],
+[
+"muscle of lateral compartment of leg",
+0,
+[]
+],
+[
+"muscle of posterior compartment of leg",
+0,
+[]
+],
+[
+"right tibialis anterior",
+0,
+[]
+],
+[
+"left tibialis anterior",
+0,
+[]
+],
+[
+"right extensor hallucis longus",
+0,
+[]
+],
+[
+"left extensor hallucis longus",
+0,
+[]
+],
+[
+"right extensor digitorum longus",
+0,
+[]
+],
+[
+"left extensor digitorum longus",
+0,
+[]
+],
+[
+"right fibularis tertius",
+0,
+[]
+],
+[
+"left fibularis tertius",
+0,
+[]
+],
+[
+"right fibularis longus",
+0,
+[]
+],
+[
+"left fibularis longus",
+0,
+[]
+],
+[
+"right fibularis brevis",
+0,
+[]
+],
+[
+"left fibularis brevis",
+0,
+[]
+],
+[
+"right gastrocnemius",
+0,
+[]
+],
+[
+"left gastrocnemius",
+0,
+[]
+],
+[
+"right soleus",
+0,
+[]
+],
+[
+"left soleus",
+0,
+[]
+],
+[
+"right plantaris",
+0,
+[]
+],
+[
+"left plantaris",
+0,
+[]
+],
+[
+"right popliteus",
+0,
+[]
+],
+[
+"left popliteus",
+0,
+[]
+],
+[
+"muscle of vertebral column",
+0,
+[]
+],
+[
+"iliocostalis thoracis muscle",
+0,
+[
+"thoracic part of iliocostalis lumborum muscle"
+]
+],
+[
+"iliocostalis colli muscle",
+0,
+[
+"iliocostalis cervicis muscle"
+]
+],
+[
+"longissimus colli muscle",
+0,
+[
+"longissimus cervicis muscle"
+]
+],
+[
+"longissimus capitis muscle",
+0,
+[]
+],
+[
+"right splenius cervicis",
+0,
+[]
+],
+[
+"left splenius cervicis",
+0,
+[]
+],
+[
+"right splenius capitis",
+0,
+[]
+],
+[
+"left splenius capitis",
+0,
+[]
+],
+[
+"set of right erector spinae",
+0,
+[]
+],
+[
+"set of left erector spinae",
+0,
+[]
+],
+[
+"right transversospinales muscle group",
+0,
+[]
+],
+[
+"left transversospinales muscle group",
+0,
+[]
+],
+[
+"right iliocostalis lumborum",
+0,
+[]
+],
+[
+"left iliocostalis lumborum",
+0,
+[]
+],
+[
+"right iliocostalis thoracis",
+0,
+[]
+],
+[
+"left iliocostalis thoracis",
+0,
+[]
+],
+[
+"right iliocostalis cervicis",
+0,
+[]
+],
+[
+"left iliocostalis cervicis",
+0,
+[]
+],
+[
+"right longissimus thoracis",
+0,
+[]
+],
+[
+"left longissimus thoracis",
+0,
+[]
+],
+[
+"right longissimus capitis",
+0,
+[]
+],
+[
+"left longissimus capitis",
+0,
+[]
+],
+[
+"right longissimus cervicis",
+0,
+[]
+],
+[
+"left longissimus cervicis",
+0,
+[]
+],
+[
+"spinalis thoracis muscle",
+0,
+[]
+],
+[
+"right spinalis thoracis",
+0,
+[]
+],
+[
+"left spinalis thoracis",
+0,
+[]
+],
+[
+"right spinalis capitis",
+0,
+[]
+],
+[
+"left spinalis capitis",
+0,
+[]
+],
+[
+"interspinalis lumborum",
+0,
+[]
+],
+[
+"interspinalis thoracis",
+0,
+[]
+],
+[
+"interspinalis cervicis",
+0,
+[]
+],
+[
+"lumbar intertransversarius",
+0,
+[]
+],
+[
+"lateral lumbar intertransversarius",
+0,
+[]
+],
+[
+"medial lumbar intertransversarius",
+0,
+[]
+],
+[
+"thoracic intertransversarius",
+0,
+[]
+],
+[
+"cervical intertransversarius",
+0,
+[]
+],
+[
+"right semispinalis thoracis",
+0,
+[]
+],
+[
+"left semispinalis thoracis",
+0,
+[]
+],
+[
+"right semispinalis cervicis",
+0,
+[]
+],
+[
+"left semispinalis cervicis",
+0,
+[]
+],
+[
+"right semispinalis capitis",
+0,
+[]
+],
+[
+"left semispinalis capitis",
+0,
+[]
+],
+[
+"right multifidus",
+0,
+[]
+],
+[
+"left multifidus",
+0,
+[]
+],
+[
+"first interspinalis lumborum",
+0,
+[]
+],
+[
+"second interspinalis lumborum",
+0,
+[]
+],
+[
+"right interspinalis thoracis",
+0,
+[]
+],
+[
+"left interspinalis thoracis",
+0,
+[]
+],
+[
+"first interspinalis cervicis",
+0,
+[]
+],
+[
+"seventh interspinalis cervicis",
+0,
+[]
+],
+[
+"third medial lumbar intertransversarius",
+0,
+[]
+],
+[
+"fourth medial lumbar intertransversarius",
+0,
+[]
+],
+[
+"first lateral lumbar intertransversarius",
+0,
+[]
+],
+[
+"second lateral lumbar intertransversarius",
+0,
+[]
+],
+[
+"first medial lumbar intertransversarius",
+0,
+[]
+],
+[
+"second medial lumbar intertransversarius",
+0,
+[]
+],
+[
+"tenth thoracic intertransversarius",
+0,
+[]
+],
+[
+"eleventh thoracic intertransversarius",
+0,
+[]
+],
+[
+"third anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"fourth anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"anterior intertransversarii colli muscles",
+0,
+[
+"anterior cervical intertransversarii muscles",
+"set of anterior cervical intertransversarii"
+]
+],
+[
+"lateral posterior intertransversarii colli muscles",
+0,
+[
+"lateral posterior cervical intertransversarii muscles",
+"set of posterior cervical intertransversarii"
+]
+],
+[
+"first posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"second posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"first anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"second anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"rotatores colli",
+0,
+[
+"rotatores cervicis",
+"rotatores cervicis muscles",
+"rotatores colli muscles"
+]
+],
+[
+"thoracic rotator",
+0,
+[]
+],
+[
+"right lumbar rotator",
+0,
+[]
+],
+[
+"left lumbar rotator",
+0,
+[]
+],
+[
+"posterior part of right leg",
+0,
+[]
+],
+[
+"posterior part of left leg",
+0,
+[]
+],
+[
+"compressor urethrae",
+0,
+[
+"compressor urethrae muscle"
+]
+],
+[
+"sphincter urethrovaginalis",
+0,
+[
+"sphincter urethrovaginalis muscle"
+]
+],
+[
+"postvertebral muscle",
+0,
+[]
+],
+[
+"extrinsic muscle of shoulder",
+0,
+[]
+],
+[
+"superficial extrinsic muscle of shoulder",
+0,
+[]
+],
+[
+"deep extrinsic muscle of shoulder",
+0,
+[]
+],
+[
+"scapulohumeral muscles",
+0,
+[
+"intrinsic muscle of shoulder"
+]
+],
+[
+"right rectus capitis posterior major",
+0,
+[]
+],
+[
+"left rectus capitis posterior major",
+0,
+[]
+],
+[
+"right rectus capitis posterior minor",
+0,
+[]
+],
+[
+"left rectus capitis posterior minor",
+0,
+[]
+],
+[
+"right obliquus capitis superior",
+0,
+[]
+],
+[
+"left obliquus capitis superior",
+0,
+[]
+],
+[
+"right obliquus capitis inferior",
+0,
+[]
+],
+[
+"left obliquus capitis inferior",
+0,
+[]
+],
+[
+"right levator scapulae",
+0,
+[]
+],
+[
+"left levator scapulae",
+0,
+[]
+],
+[
+"right deltoid",
+0,
+[]
+],
+[
+"left deltoid",
+0,
+[]
+],
+[
+"right supraspinatus",
+0,
+[]
+],
+[
+"left supraspinatus",
+0,
+[]
+],
+[
+"right infraspinatus muscle",
+0,
+[]
+],
+[
+"left infraspinatus muscle",
+0,
+[]
+],
+[
+"right teres major",
+0,
+[]
+],
+[
+"left teres major",
+0,
+[]
+],
+[
+"right teres minor",
+0,
+[]
+],
+[
+"left teres minor",
+0,
+[]
+],
+[
+"superficial postvertebral muscle",
+0,
+[]
+],
+[
+"intermediate postvertebral muscle",
+0,
+[]
+],
+[
+"deep postvertebral muscle",
+0,
+[]
+],
+[
+"posterior suboccipital muscle",
+0,
+[]
+],
+[
+"interspinous muscle group",
+0,
+[]
+],
+[
+"right interspinous muscle group",
+0,
+[]
+],
+[
+"left interspinous muscle group",
+0,
+[]
+],
+[
+"set of right infrahyoid muscles",
+0,
+[]
+],
+[
+"set of left infrahyoid muscles",
+0,
+[]
+],
+[
+"set of right suprahyoid muscles",
+0,
+[]
+],
+[
+"set of left suprahyoid muscles",
+0,
+[]
+],
+[
+"muscle of shoulder",
+0,
+[]
+],
+[
+"muscle of pectoral girdle",
+0,
+[]
+],
+[
+"muscle of free upper limb",
+0,
+[]
+],
+[
+"muscle of pelvic girdle",
+0,
+[]
+],
+[
+"muscle of free lower limb",
+0,
+[]
+],
+[
+"muscle of foot",
+0,
+[]
+],
+[
+"muscle of arm",
+0,
+[]
+],
+[
+"muscle of forearm",
+0,
+[]
+],
+[
+"muscle of hand",
+0,
+[]
+],
+[
+"right abductor pollicis brevis",
+0,
+[]
+],
+[
+"left abductor pollicis brevis",
+0,
+[]
+],
+[
+"right flexor pollicis brevis",
+0,
+[]
+],
+[
+"left flexor pollicis brevis",
+0,
+[]
+],
+[
+"right opponens pollicis",
+0,
+[]
+],
+[
+"left opponens pollicis",
+0,
+[]
+],
+[
+"right adductor pollicis",
+0,
+[]
+],
+[
+"left adductor pollicis",
+0,
+[]
+],
+[
+"right palmaris brevis",
+0,
+[]
+],
+[
+"left palmaris brevis",
+0,
+[]
+],
+[
+"abductor digiti minimi of right hand",
+0,
+[]
+],
+[
+"abductor digiti minimi of left hand",
+0,
+[]
+],
+[
+"flexor digiti minimi brevis of right hand",
+0,
+[]
+],
+[
+"flexor digiti minimi brevis of left hand",
+0,
+[]
+],
+[
+"opponens digiti minimi of right hand",
+0,
+[]
+],
+[
+"opponens digiti minimi of left hand",
+0,
+[]
+],
+[
+"first lumbrical of hand",
+0,
+[]
+],
+[
+"second lumbrical of hand",
+0,
+[]
+],
+[
+"third lumbrical of hand",
+0,
+[]
+],
+[
+"fourth lumbrical of hand",
+0,
+[]
+],
+[
+"first lumbrical of right hand",
+0,
+[]
+],
+[
+"first lumbrical of left hand",
+0,
+[]
+],
+[
+"second lumbrical of right hand",
+0,
+[]
+],
+[
+"second lumbrical of left hand",
+0,
+[]
+],
+[
+"third lumbrical of right hand",
+0,
+[]
+],
+[
+"third lumbrical of left hand",
+0,
+[]
+],
+[
+"fourth lumbrical of right hand",
+0,
+[]
+],
+[
+"fourth lumbrical of left hand",
+0,
+[]
+],
+[
+"interosseous muscle of hand",
+0,
+[
+"interosseous muscle of manus"
+]
+],
+[
+"first dorsal interosseous of hand",
+0,
+[]
+],
+[
+"second dorsal interosseous of hand",
+0,
+[]
+],
+[
+"third dorsal interosseous of hand",
+0,
+[]
+],
+[
+"fourth dorsal interosseous of hand",
+0,
+[]
+],
+[
+"fourth dorsal interosseous of right hand",
+0,
+[]
+],
+[
+"fourth dorsal interosseous of left hand",
+0,
+[]
+],
+[
+"third dorsal interosseous of right hand",
+0,
+[]
+],
+[
+"third dorsal interosseous of left hand",
+0,
+[]
+],
+[
+"second dorsal interosseous of right hand",
+0,
+[]
+],
+[
+"second dorsal interosseous of left hand",
+0,
+[]
+],
+[
+"first dorsal interosseous of right hand",
+0,
+[]
+],
+[
+"first dorsal interosseous of left hand",
+0,
+[]
+],
+[
+"pollical palmar interosseus muscle",
+0,
+[
+"accessory adductor pollicis muscle",
+"first palmar interosseous of hand"
+]
+],
+[
+"second palmar interosseous of hand",
+0,
+[
+"palmar interosseus muscle 1"
+]
+],
+[
+"third palmar interosseous of hand",
+0,
+[]
+],
+[
+"fourth palmar interosseous of hand",
+0,
+[]
+],
+[
+"fourth palmar interosseous of right hand",
+0,
+[]
+],
+[
+"fourth palmar interosseous of left hand",
+0,
+[]
+],
+[
+"third palmar interosseous of right hand",
+0,
+[]
+],
+[
+"third palmar interosseous of left hand",
+0,
+[]
+],
+[
+"second palmar interosseous of right hand",
+0,
+[]
+],
+[
+"second palmar interosseous of left hand",
+0,
+[]
+],
+[
+"first palmar interosseous of right hand",
+0,
+[]
+],
+[
+"first palmar interosseous of left hand",
+0,
+[]
+],
+[
+"interosseous of foot",
+0,
+[
+"interosseous muscle of foot"
+]
+],
+[
+"right abductor hallucis",
+0,
+[]
+],
+[
+"left abductor hallucis",
+0,
+[]
+],
+[
+"right flexor digitorum brevis",
+0,
+[]
+],
+[
+"left flexor digitorum brevis",
+0,
+[]
+],
+[
+"abductor digiti minimi of right foot",
+0,
+[]
+],
+[
+"abductor digiti minimi of left foot",
+0,
+[]
+],
+[
+"right flexor accessorius",
+0,
+[]
+],
+[
+"left flexor accessorius",
+0,
+[]
+],
+[
+"right flexor hallucis brevis",
+0,
+[]
+],
+[
+"left flexor hallucis brevis",
+0,
+[]
+],
+[
+"right adductor hallucis",
+0,
+[]
+],
+[
+"left adductor hallucis",
+0,
+[]
+],
+[
+"flexor digiti minimi brevis of right foot",
+0,
+[]
+],
+[
+"flexor digiti minimi brevis of left foot",
+0,
+[]
+],
+[
+"first lumbrical of foot",
+0,
+[]
+],
+[
+"second lumbrical of foot",
+0,
+[]
+],
+[
+"third lumbrical of foot",
+0,
+[]
+],
+[
+"fourth lumbrical of foot",
+0,
+[]
+],
+[
+"fourth lumbrical of right foot",
+0,
+[]
+],
+[
+"fourth lumbrical of left foot",
+0,
+[]
+],
+[
+"third lumbrical of right foot",
+0,
+[]
+],
+[
+"third lumbrical of left foot",
+0,
+[]
+],
+[
+"right coracobrachialis",
+0,
+[]
+],
+[
+"left coracobrachialis",
+0,
+[]
+],
+[
+"right brachialis",
+0,
+[]
+],
+[
+"left brachialis",
+0,
+[]
+],
+[
+"right biceps brachii",
+0,
+[]
+],
+[
+"left biceps brachii",
+0,
+[]
+],
+[
+"right triceps brachii",
+0,
+[]
+],
+[
+"left triceps brachii",
+0,
+[]
+],
+[
+"right articularis cubiti",
+0,
+[]
+],
+[
+"left articularis cubiti",
+0,
+[]
+],
+[
+"right anconeus",
+0,
+[]
+],
+[
+"left anconeus",
+0,
+[]
+],
+[
+"muscle of anterior compartment of arm",
+0,
+[]
+],
+[
+"muscle of posterior compartment of arm",
+0,
+[]
+],
+[
+"first lumbrical of right foot",
+0,
+[]
+],
+[
+"first lumbrical of left foot",
+0,
+[]
+],
+[
+"second lumbrical of right foot",
+0,
+[]
+],
+[
+"second lumbrical of left foot",
+0,
+[]
+],
+[
+"first dorsal interosseous of foot",
+0,
+[]
+],
+[
+"second dorsal interosseous of foot",
+0,
+[]
+],
+[
+"third dorsal interosseous of foot",
+0,
+[]
+],
+[
+"fourth dorsal interosseous of foot",
+0,
+[]
+],
+[
+"first dorsal interosseous of right foot",
+0,
+[]
+],
+[
+"first dorsal interosseous of left foot",
+0,
+[]
+],
+[
+"second dorsal interosseous of right foot",
+0,
+[]
+],
+[
+"second dorsal interosseous of left foot",
+0,
+[]
+],
+[
+"third dorsal interosseous of right foot",
+0,
+[]
+],
+[
+"third dorsal interosseous of left foot",
+0,
+[]
+],
+[
+"fourth dorsal interosseous of right foot",
+0,
+[]
+],
+[
+"fourth dorsal interosseous of left foot",
+0,
+[]
+],
+[
+"first plantar interosseous of foot",
+0,
+[]
+],
+[
+"second plantar interosseous of foot",
+0,
+[]
+],
+[
+"third plantar interosseous of foot",
+0,
+[]
+],
+[
+"third plantar interosseous of right foot",
+0,
+[]
+],
+[
+"third plantar interosseous of left foot",
+0,
+[]
+],
+[
+"second plantar interosseous of right foot",
+0,
+[]
+],
+[
+"second plantar interosseous of left foot",
+0,
+[]
+],
+[
+"first plantar interosseous of right foot",
+0,
+[]
+],
+[
+"first plantar interosseous of left foot",
+0,
+[]
+],
+[
+"right pronator teres",
+0,
+[]
+],
+[
+"left pronator teres",
+0,
+[]
+],
+[
+"right pronator quadratus",
+0,
+[]
+],
+[
+"left pronator quadratus",
+0,
+[]
+],
+[
+"muscle of anterior compartment of forearm",
+0,
+[]
+],
+[
+"right flexor carpi radialis",
+0,
+[]
+],
+[
+"left flexor carpi radialis",
+0,
+[]
+],
+[
+"right palmaris longus",
+0,
+[]
+],
+[
+"left palmaris longus",
+0,
+[]
+],
+[
+"right flexor carpi ulnaris",
+0,
+[]
+],
+[
+"left flexor carpi ulnaris",
+0,
+[]
+],
+[
+"right flexor digitorum superficialis",
+0,
+[]
+],
+[
+"left flexor digitorum superficialis",
+0,
+[]
+],
+[
+"superficial muscle of anterior compartment of forearm",
+0,
+[]
+],
+[
+"deep muscle of anterior compartment of forearm",
+0,
+[]
+],
+[
+"right flexor digitorum profundus",
+0,
+[]
+],
+[
+"left flexor digitorum profundus",
+0,
+[]
+],
+[
+"right flexor pollicis longus",
+0,
+[]
+],
+[
+"left flexor pollicis longus",
+0,
+[]
+],
+[
+"right brachioradialis",
+0,
+[]
+],
+[
+"left brachioradialis",
+0,
+[]
+],
+[
+"muscle of posterior compartment of forearm",
+0,
+[]
+],
+[
+"superficial muscle of posterior compartment of forearm",
+0,
+[]
+],
+[
+"right extensor carpi radialis longus",
+0,
+[]
+],
+[
+"left extensor carpi radialis longus",
+0,
+[]
+],
+[
+"right extensor carpi radialis brevis",
+0,
+[]
+],
+[
+"left extensor carpi radialis brevis",
+0,
+[]
+],
+[
+"right extensor digitorum",
+0,
+[]
+],
+[
+"left extensor digitorum",
+0,
+[]
+],
+[
+"right extensor digiti minimi",
+0,
+[]
+],
+[
+"left extensor digiti minimi",
+0,
+[]
+],
+[
+"right extensor carpi ulnaris",
+0,
+[]
+],
+[
+"left extensor carpi ulnaris",
+0,
+[]
+],
+[
+"deep muscle of posterior compartment of forearm",
+0,
+[]
+],
+[
+"right supinator",
+0,
+[]
+],
+[
+"left supinator",
+0,
+[]
+],
+[
+"right abductor pollicis longus",
+0,
+[]
+],
+[
+"left abductor pollicis longus",
+0,
+[]
+],
+[
+"right extensor pollicis brevis",
+0,
+[]
+],
+[
+"left extensor pollicis brevis",
+0,
+[]
+],
+[
+"right extensor pollicis longus",
+0,
+[]
+],
+[
+"left extensor pollicis longus",
+0,
+[]
+],
+[
+"right extensor indicis",
+0,
+[]
+],
+[
+"left extensor indicis",
+0,
+[]
+],
+[
+"right vastus intermedius",
+0,
+[]
+],
+[
+"left vastus intermedius",
+0,
+[]
+],
+[
+"extrinsic muscle of hand",
+0,
+[]
+],
+[
+"intrinsic muscle of hand",
+0,
+[]
+],
+[
+"right gracilis",
+0,
+[]
+],
+[
+"left gracilis",
+0,
+[]
+],
+[
+"right adductor minimus",
+0,
+[]
+],
+[
+"left adductor minimus",
+0,
+[]
+],
+[
+"muscle of anterior compartment of thigh",
+0,
+[]
+],
+[
+"striated muscle tissue of prostate",
+0,
+[]
+],
+[
+"right platysma",
+0,
+[]
+],
+[
+"left platysma",
+0,
+[]
+],
+[
+"right stylohyoid",
+0,
+[]
+],
+[
+"left stylohyoid",
+0,
+[]
+],
+[
+"suprahyoid muscle",
+0,
+[]
+],
+[
+"right digastric",
+0,
+[]
+],
+[
+"left digastric",
+0,
+[]
+],
+[
+"right longus capitis",
+0,
+[]
+],
+[
+"left longus capitis",
+0,
+[]
+],
+[
+"right rectus capitis anterior",
+0,
+[]
+],
+[
+"left rectus capitis anterior",
+0,
+[]
+],
+[
+"right rectus capitis lateralis",
+0,
+[]
+],
+[
+"left rectus capitis lateralis",
+0,
+[]
+],
+[
+"right mylohyoid",
+0,
+[]
+],
+[
+"left mylohyoid",
+0,
+[]
+],
+[
+"right geniohyoid",
+0,
+[]
+],
+[
+"left geniohyoid",
+0,
+[]
+],
+[
+"first external intercostal muscle",
+0,
+[]
+],
+[
+"second external intercostal muscle",
+0,
+[]
+],
+[
+"third external intercostal muscle",
+0,
+[]
+],
+[
+"fourth external intercostal muscle",
+0,
+[]
+],
+[
+"fifth external intercostal muscle",
+0,
+[]
+],
+[
+"sixth external intercostal muscle",
+0,
+[]
+],
+[
+"seventh external intercostal muscle",
+0,
+[]
+],
+[
+"eighth external intercostal muscle",
+0,
+[]
+],
+[
+"ninth external intercostal muscle",
+0,
+[]
+],
+[
+"tenth external intercostal muscle",
+0,
+[]
+],
+[
+"eleventh external intercostal muscle",
+0,
+[]
+],
+[
+"first internal intercostal muscle",
+0,
+[]
+],
+[
+"second internal intercostal muscle",
+0,
+[]
+],
+[
+"third internal intercostal muscle",
+0,
+[]
+],
+[
+"fourth internal intercostal muscle",
+0,
+[]
+],
+[
+"fifth internal intercostal muscle",
+0,
+[]
+],
+[
+"sixth internal intercostal muscle",
+0,
+[]
+],
+[
+"seventh internal intercostal muscle",
+0,
+[]
+],
+[
+"eighth internal intercostal muscle",
+0,
+[]
+],
+[
+"ninth internal intercostal muscle",
+0,
+[]
+],
+[
+"tenth internal intercostal muscle",
+0,
+[]
+],
+[
+"eleventh internal intercostal muscle",
+0,
+[]
+],
+[
+"right coccygeus",
+0,
+[]
+],
+[
+"left coccygeus",
+0,
+[]
+],
+[
+"right cricothyroid muscle",
+0,
+[]
+],
+[
+"left cricothyroid muscle",
+0,
+[]
+],
+[
+"right posterior crico-arytenoid",
+0,
+[]
+],
+[
+"left posterior crico-arytenoid",
+0,
+[]
+],
+[
+"right lateral crico-arytenoid",
+0,
+[]
+],
+[
+"left lateral crico-arytenoid",
+0,
+[]
+],
+[
+"right oblique arytenoid",
+0,
+[]
+],
+[
+"left oblique arytenoid",
+0,
+[]
+],
+[
+"right thyro-arytenoid",
+0,
+[]
+],
+[
+"left thyro-arytenoid",
+0,
+[]
+],
+[
+"right vocalis",
+0,
+[]
+],
+[
+"left vocalis",
+0,
+[]
+],
+[
+"muscle of pharynx",
+0,
+[]
+],
+[
+"right superior pharyngeal constrictor",
+0,
+[]
+],
+[
+"left superior pharyngeal constrictor",
+0,
+[]
+],
+[
+"right middle pharyngeal constrictor",
+0,
+[]
+],
+[
+"left middle pharyngeal constrictor",
+0,
+[]
+],
+[
+"right inferior pharyngeal constrictor",
+0,
+[]
+],
+[
+"left inferior pharyngeal constrictor",
+0,
+[]
+],
+[
+"right stylopharyngeus",
+0,
+[]
+],
+[
+"left stylopharyngeus",
+0,
+[]
+],
+[
+"right salpingopharyngeus",
+0,
+[]
+],
+[
+"left salpingopharyngeus",
+0,
+[]
+],
+[
+"right palatopharyngeus",
+0,
+[]
+],
+[
+"left palatopharyngeus",
+0,
+[]
+],
+[
+"right genioglossus",
+0,
+[]
+],
+[
+"extrinsic muscle of tongue",
+0,
+[]
+],
+[
+"intrinsic muscle of tongue",
+0,
+[]
+],
+[
+"left genioglossus",
+0,
+[]
+],
+[
+"right hyoglossus",
+0,
+[]
+],
+[
+"left hyoglossus",
+0,
+[]
+],
+[
+"right styloglossus",
+0,
+[]
+],
+[
+"left styloglossus",
+0,
+[]
+],
+[
+"right chondroglossus",
+0,
+[]
+],
+[
+"left chondroglossus",
+0,
+[]
+],
+[
+"right palatoglossus",
+0,
+[]
+],
+[
+"left palatoglossus",
+0,
+[]
+],
+[
+"right superior longitudinal muscle of tongue",
+0,
+[]
+],
+[
+"left superior longitudinal muscle of tongue",
+0,
+[]
+],
+[
+"right inferior longitudinal muscle of tongue",
+0,
+[]
+],
+[
+"left inferior longitudinal muscle of tongue",
+0,
+[]
+],
+[
+"right transverse muscle of tongue",
+0,
+[]
+],
+[
+"left transverse muscle of tongue",
+0,
+[]
+],
+[
+"right vertical muscle of tongue",
+0,
+[]
+],
+[
+"left vertical muscle of tongue",
+0,
+[]
+],
+[
+"ceratoglossus",
+0,
+[]
+],
+[
+"right ceratoglossus",
+0,
+[]
+],
+[
+"left ceratoglossus",
+0,
+[]
+],
+[
+"muscles of soft palate",
+0,
+[
+"muscle of palate"
+]
+],
+[
+"right levator veli palatini",
+0,
+[]
+],
+[
+"left levator veli palatini",
+0,
+[]
+],
+[
+"right tensor veli palatini",
+0,
+[]
+],
+[
+"left tensor veli palatini",
+0,
+[]
+],
+[
+"right uvular muscle",
+0,
+[]
+],
+[
+"left uvular muscle",
+0,
+[]
+],
+[
+"muscle of face",
+0,
+[]
+],
+[
+"right orbicularis oculi",
+0,
+[]
+],
+[
+"left orbicularis oculi",
+0,
+[]
+],
+[
+"right corrugator supercilii",
+0,
+[]
+],
+[
+"left corrugator supercilii",
+0,
+[]
+],
+[
+"right depressor supercilii",
+0,
+[]
+],
+[
+"left depressor supercilii",
+0,
+[]
+],
+[
+"right levator labii superioris alaeque nasi",
+0,
+[]
+],
+[
+"left levator labii superioris alaeque nasi",
+0,
+[]
+],
+[
+"right levator labii superioris",
+0,
+[]
+],
+[
+"left levator labii superioris",
+0,
+[]
+],
+[
+"right zygomaticus major",
+0,
+[]
+],
+[
+"left zygomaticus major",
+0,
+[]
+],
+[
+"right zygomaticus minor",
+0,
+[]
+],
+[
+"left zygomaticus minor",
+0,
+[]
+],
+[
+"right depressor labii inferioris",
+0,
+[]
+],
+[
+"left depressor labii inferioris",
+0,
+[]
+],
+[
+"right levator anguli oris",
+0,
+[]
+],
+[
+"left levator anguli oris",
+0,
+[]
+],
+[
+"right mentalis",
+0,
+[]
+],
+[
+"left mentalis",
+0,
+[]
+],
+[
+"right depressor anguli oris",
+0,
+[]
+],
+[
+"left depressor anguli oris",
+0,
+[]
+],
+[
+"right buccinator",
+0,
+[]
+],
+[
+"left buccinator",
+0,
+[]
+],
+[
+"right risorius",
+0,
+[]
+],
+[
+"left risorius",
+0,
+[]
+],
+[
+"incisivus labii superioris",
+0,
+[]
+],
+[
+"right auricularis superior",
+0,
+[]
+],
+[
+"left auricularis superior",
+0,
+[]
+],
+[
+"right auricularis anterior",
+0,
+[]
+],
+[
+"left auricularis anterior",
+0,
+[]
+],
+[
+"right auricularis posterior",
+0,
+[]
+],
+[
+"left auricularis posterior",
+0,
+[]
+],
+[
+"right helicis major",
+0,
+[]
+],
+[
+"left helicis major",
+0,
+[]
+],
+[
+"right helicis minor",
+0,
+[]
+],
+[
+"left helicis minor",
+0,
+[]
+],
+[
+"right tragicus",
+0,
+[]
+],
+[
+"left tragicus",
+0,
+[]
+],
+[
+"right antitragicus",
+0,
+[]
+],
+[
+"left antitragicus",
+0,
+[]
+],
+[
+"transverse muscle of right auricle",
+0,
+[]
+],
+[
+"transverse muscle of left auricle",
+0,
+[]
+],
+[
+"oblique muscle of right auricle",
+0,
+[]
+],
+[
+"oblique muscle of left auricle",
+0,
+[]
+],
+[
+"right masseter",
+0,
+[]
+],
+[
+"left masseter",
+0,
+[]
+],
+[
+"right temporalis",
+0,
+[]
+],
+[
+"left temporalis",
+0,
+[]
+],
+[
+"right medial pterygoid",
+0,
+[]
+],
+[
+"left medial pterygoid",
+0,
+[]
+],
+[
+"right lateral pterygoid",
+0,
+[]
+],
+[
+"left lateral pterygoid",
+0,
+[]
+],
+[
+"right stapedius",
+0,
+[]
+],
+[
+"left stapedius",
+0,
+[]
+],
+[
+"right tensor tympani",
+0,
+[]
+],
+[
+"left tensor tympani",
+0,
+[]
+],
+[
+"right orbitalis",
+0,
+[]
+],
+[
+"left orbitalis",
+0,
+[]
+],
+[
+"right superior rectus",
+0,
+[]
+],
+[
+"left superior rectus",
+0,
+[]
+],
+[
+"right inferior rectus",
+0,
+[]
+],
+[
+"left inferior rectus",
+0,
+[]
+],
+[
+"right levator palpebrae superioris",
+0,
+[]
+],
+[
+"left levator palpebrae superioris",
+0,
+[]
+],
+[
+"right inferior oblique",
+0,
+[]
+],
+[
+"left inferior oblique",
+0,
+[]
+],
+[
+"right superior oblique",
+0,
+[]
+],
+[
+"left superior oblique",
+0,
+[]
+],
+[
+"right lateral rectus",
+0,
+[]
+],
+[
+"left lateral rectus",
+0,
+[]
+],
+[
+"right medial rectus",
+0,
+[]
+],
+[
+"left medial rectus",
+0,
+[]
+],
+[
+"right transversus menti",
+0,
+[]
+],
+[
+"left transversus menti",
+0,
+[]
+],
+[
+"right incisivus labii superioris",
+0,
+[]
+],
+[
+"left incisivus labii superioris",
+0,
+[]
+],
+[
+"right incisivus labii inferioris",
+0,
+[]
+],
+[
+"left incisivus labii inferioris",
+0,
+[]
+],
+[
+"right transverse arytenoid",
+0,
+[]
+],
+[
+"left transverse arytenoid",
+0,
+[]
+],
+[
+"ocular muscle",
+0,
+[
+"eye muscle"
+]
+],
+[
+"right ciliary muscle",
+0,
+[]
+],
+[
+"left ciliary muscle",
+0,
+[]
+],
+[
+"right sphincter pupillae",
+0,
+[]
+],
+[
+"left sphincter pupillae",
+0,
+[]
+],
+[
+"right dilatator pupillae",
+0,
+[]
+],
+[
+"left dilatator pupillae",
+0,
+[]
+],
+[
+"subdivision of ciliary muscle",
+0,
+[]
+],
+[
+"longitudinal part of ciliary muscle",
+0,
+[]
+],
+[
+"longitudinal part of right ciliary muscle",
+0,
+[]
+],
+[
+"longitudinal part of left ciliary muscle",
+0,
+[]
+],
+[
+"radial part of ciliary muscle",
+0,
+[]
+],
+[
+"radial part of right ciliary muscle",
+0,
+[]
+],
+[
+"radial part of left ciliary muscle",
+0,
+[]
+],
+[
+"circular part of ciliary muscle",
+0,
+[]
+],
+[
+"circular part of right ciliary muscle",
+0,
+[]
+],
+[
+"circular part of left ciliary muscle",
+0,
+[]
+],
+[
+"short rotatores",
+0,
+[
+"short rotator muscles"
+]
+],
+[
+"long rotatores",
+0,
+[
+"long rotator muscle"
+]
+],
+[
+"right triceps surae",
+0,
+[]
+],
+[
+"left triceps surae",
+0,
+[]
+],
+[
+"right extensor digitorum brevis",
+0,
+[]
+],
+[
+"left extensor digitorum brevis",
+0,
+[]
+],
+[
+"right extensor hallucis brevis",
+0,
+[]
+],
+[
+"left extensor hallucis brevis",
+0,
+[]
+],
+[
+"extrinsic muscle of larynx",
+0,
+[]
+],
+[
+"intrinsic muscle of larynx",
+0,
+[]
+],
+[
+"right nasalis",
+0,
+[]
+],
+[
+"left nasalis",
+0,
+[]
+],
+[
+"right depressor septi nasi",
+0,
+[]
+],
+[
+"left depressor septi nasi",
+0,
+[]
+],
+[
+"right procerus",
+0,
+[]
+],
+[
+"left procerus",
+0,
+[]
+],
+[
+"muscle of head proper",
+0,
+[]
+],
+[
+"muscle of trunk",
+0,
+[]
+],
+[
+"superficial muscle of neck",
+0,
+[]
+],
+[
+"muscle of pelvic diaphragm",
+0,
+[]
+],
+[
+"anterior suboccipital muscle",
+0,
+[]
+],
+[
+"extrinsic muscle of palm of hand",
+0,
+[]
+],
+[
+"extrinsic muscle of dorsum of hand",
+0,
+[]
+],
+[
+"thenar muscle",
+0,
+[]
+],
+[
+"hypothenar muscle",
+0,
+[]
+],
+[
+"superficial muscle of posterior compartment of leg",
+0,
+[]
+],
+[
+"deep muscle of posterior compartment of leg",
+0,
+[]
+],
+[
+"right flexor hallucis longus",
+0,
+[]
+],
+[
+"left flexor hallucis longus",
+0,
+[]
+],
+[
+"right flexor digitorum longus",
+0,
+[]
+],
+[
+"left flexor digitorum longus",
+0,
+[]
+],
+[
+"right tibialis posterior",
+0,
+[]
+],
+[
+"left tibialis posterior",
+0,
+[]
+],
+[
+"intrinsic muscle of foot",
+0,
+[]
+],
+[
+"extrinsic muscle of foot",
+0,
+[]
+],
+[
+"extrinsic dorsal muscle of foot",
+0,
+[]
+],
+[
+"extrinsic plantar muscle of foot",
+0,
+[]
+],
+[
+"intrinsic muscle of dorsum of foot",
+0,
+[]
+],
+[
+"intrinsic muscle of plantar part of foot",
+0,
+[]
+],
+[
+"first innermost intercostal muscle",
+0,
+[]
+],
+[
+"right first innermost intercostal muscle",
+0,
+[]
+],
+[
+"left first innermost intercostal muscle",
+0,
+[]
+],
+[
+"right second innermost intercostal muscle",
+0,
+[]
+],
+[
+"third innermost intercostal muscle",
+0,
+[]
+],
+[
+"right third innermost intercostal muscle",
+0,
+[]
+],
+[
+"left third innermost intercostal muscle",
+0,
+[]
+],
+[
+"fourth innermost intercostal muscle",
+0,
+[]
+],
+[
+"right fourth innermost intercostal muscle",
+0,
+[]
+],
+[
+"left fourth innermost intercostal muscle",
+0,
+[]
+],
+[
+"fifth innermost intercostal muscle",
+0,
+[]
+],
+[
+"right fifth innermost intercostal muscle",
+0,
+[]
+],
+[
+"left fifth innermost intercostal muscle",
+0,
+[]
+],
+[
+"sixth innermost intercostal muscle",
+0,
+[]
+],
+[
+"right sixth innermost intercostal muscle",
+0,
+[]
+],
+[
+"left sixth innermost intercostal muscle",
+0,
+[]
+],
+[
+"seventh innermost intercostal muscle",
+0,
+[]
+],
+[
+"right seventh innermost intercostal muscle",
+0,
+[]
+],
+[
+"left seventh innermost intercostal muscle",
+0,
+[]
+],
+[
+"eighth innermost intercostal muscle",
+0,
+[]
+],
+[
+"right eighth innermost intercostal muscle",
+0,
+[]
+],
+[
+"left eighth innermost intercostal muscle",
+0,
+[]
+],
+[
+"ninth innermost intercostal muscle",
+0,
+[]
+],
+[
+"right ninth innermost intercostal muscle",
+0,
+[]
+],
+[
+"left ninth innermost intercostal muscle",
+0,
+[]
+],
+[
+"tenth innermost intercostal muscle",
+0,
+[]
+],
+[
+"right tenth innermost intercostal muscle",
+0,
+[]
+],
+[
+"left tenth innermost intercostal muscle",
+0,
+[]
+],
+[
+"eleventh innermost intercostal muscle",
+0,
+[]
+],
+[
+"right eleventh innermost intercostal muscle",
+0,
+[]
+],
+[
+"left eleventh innermost intercostal muscle",
+0,
+[]
+],
+[
+"interspinales lumborum muscles",
+0,
+[
+"set of interspinales lumborum"
+]
+],
+[
+"interspinales thoracis muscles",
+0,
+[
+"set of interspinales thoracis"
+]
+],
+[
+"interspinales colli muscles",
+0,
+[
+"interspinales cervicis muscles",
+"set of interspinales cervicis"
+]
+],
+[
+"intertransversarii thoracis muscles",
+0,
+[
+"set of thoracic intertransversarii",
+"thoracic intertransversarii muscles"
+]
+],
+[
+"levatores longi costarum",
+0,
+[
+"levatores costarum longi muscles",
+"set of levatores costarum longi"
+]
+],
+[
+"levatores breves costarum",
+0,
+[
+"levatores costarum breves muscles",
+"set of levatores costarum breves"
+]
+],
+[
+"circumorbital muscle",
+0,
+[
+"corrugator supercilii",
+"orbicularis oculi"
+]
+],
+[
+"set of right thoracic intertransversarii",
+0,
+[]
+],
+[
+"set of left thoracic intertransversarii",
+0,
+[]
+],
+[
+"set of right levatores costarum",
+0,
+[]
+],
+[
+"set of left levatores costarum",
+0,
+[]
+],
+[
+"set of right levatores costarum longi",
+0,
+[]
+],
+[
+"set of left levatores costarum longi",
+0,
+[]
+],
+[
+"set of right levatores costarum breves",
+0,
+[]
+],
+[
+"set of left levatores costarum breves",
+0,
+[]
+],
+[
+"set of right subcostales",
+0,
+[]
+],
+[
+"set of left subcostales",
+0,
+[]
+],
+[
+"set of right external intercostal muscles",
+0,
+[]
+],
+[
+"set of left external intercostal muscles",
+0,
+[]
+],
+[
+"set of right internal intercostal muscles",
+0,
+[]
+],
+[
+"set of left internal intercostal muscles",
+0,
+[]
+],
+[
+"set of right innermost intercostal muscles",
+0,
+[]
+],
+[
+"set of left innermost intercostal muscles",
+0,
+[]
+],
+[
+"medial intertransversarii lumborum muscles",
+0,
+[
+"medial lumbar intertransversarii muscles",
+"set of medial lumbar intertransversarius muscles"
+]
+],
+[
+"medial posterior intertransversarii colli muscles",
+0,
+[
+"medial posterior cervical intertransversarii muscles",
+"medial posterior intertransversarii cervicis muscles",
+"set of medial posterior cervical intertransversarii"
+]
+],
+[
+"muscle of anal triangle",
+0,
+[]
+],
+[
+"first thoracic rotator",
+0,
+[]
+],
+[
+"second thoracic rotator",
+0,
+[]
+],
+[
+"Third thoracic rotator",
+0,
+[]
+],
+[
+"fourth thoracic rotator",
+0,
+[]
+],
+[
+"fifth thoracic rotator",
+0,
+[]
+],
+[
+"sixth thoracic rotator",
+0,
+[]
+],
+[
+"seventh thoracic rotator",
+0,
+[]
+],
+[
+"eighth thoracic rotator",
+0,
+[]
+],
+[
+"ninth thoracic rotator",
+0,
+[]
+],
+[
+"tenth thoracic rotator",
+0,
+[]
+],
+[
+"eleventh thoracic rotator",
+0,
+[]
+],
+[
+"right first thoracic rotator",
+0,
+[]
+],
+[
+"left first thoracic rotator",
+0,
+[]
+],
+[
+"right second thoracic rotator",
+0,
+[]
+],
+[
+"left second thoracic rotator",
+0,
+[]
+],
+[
+"right third thoracic rotator",
+0,
+[]
+],
+[
+"left third thoracic rotator",
+0,
+[]
+],
+[
+"right fourth thoracic rotator",
+0,
+[]
+],
+[
+"left fourth thoracic rotator",
+0,
+[]
+],
+[
+"right fifth thoracic rotator",
+0,
+[]
+],
+[
+"left fifth thoracic rotator",
+0,
+[]
+],
+[
+"right sixth thoracic rotator",
+0,
+[]
+],
+[
+"left sixth thoracic rotator",
+0,
+[]
+],
+[
+"right seventh thoracic rotator",
+0,
+[]
+],
+[
+"left seventh thoracic rotator",
+0,
+[]
+],
+[
+"right eighth thoracic rotator",
+0,
+[]
+],
+[
+"left eighth thoracic rotator",
+0,
+[]
+],
+[
+"right ninth thoracic rotator",
+0,
+[]
+],
+[
+"left ninth thoracic rotator",
+0,
+[]
+],
+[
+"right tenth thoracic rotator",
+0,
+[]
+],
+[
+"left tenth thoracic rotator",
+0,
+[]
+],
+[
+"right eleventh thoracic rotator",
+0,
+[]
+],
+[
+"left eleventh thoracic rotator",
+0,
+[]
+],
+[
+"fifth anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"sixth anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"seventh anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"third posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"fourth posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"fifth posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"sixth posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"seventh posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"right first anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"left first anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"right second anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"left second anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"right third anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"left third anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"right fourth anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"left fourth anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"right fifth anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"left fifth anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"right sixth anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"left sixth anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"right seventh anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"left seventh anterior cervical intertransversarius",
+0,
+[]
+],
+[
+"right first posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"left first posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"right second posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"left second posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"right third posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"left third posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"right fourth posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"left fourth posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"right fifth posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"left fifth posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"right sixth posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"left sixth posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"right seventh posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"left seventh posterior cervical intertransversarius",
+0,
+[]
+],
+[
+"twelfth thoracic intertransversarius",
+0,
+[]
+],
+[
+"right tenth thoracic intertransversarius",
+0,
+[]
+],
+[
+"left tenth thoracic intertransversarius",
+0,
+[]
+],
+[
+"right eleventh thoracic intertransversarius",
+0,
+[]
+],
+[
+"left eleventh thoracic intertransversarius",
+0,
+[]
+],
+[
+"right twelfth thoracic intertransversarius",
+0,
+[]
+],
+[
+"left twelfth thoracic intertransversarius",
+0,
+[]
+],
+[
+"fifth medial lumbar intertransversarius",
+0,
+[]
+],
+[
+"third lateral lumbar intertransversarius",
+0,
+[]
+],
+[
+"fourth lateral lumbar intertransversarius",
+0,
+[]
+],
+[
+"fifth lateral lumbar intertransversarius",
+0,
+[]
+],
+[
+"right first medial lumbar intertransversarius",
+0,
+[]
+],
+[
+"left first medial lumbar intertransversarius",
+0,
+[]
+],
+[
+"right second medial lumbar intertransversarius",
+0,
+[]
+],
+[
+"left second medial lumbar intertransversarius",
+0,
+[]
+],
+[
+"right third medial lumbar intertransversarius",
+0,
+[]
+],
+[
+"left third medial lumbar intertransversarius",
+0,
+[]
+],
+[
+"right fourth medial lumbar intertransversarius",
+0,
+[]
+],
+[
+"left fourth medial lumbar intertransversarius",
+0,
+[]
+],
+[
+"right fifth medial lumbar intertransversarius",
+0,
+[]
+],
+[
+"left fifth medial lumbar intertransversarius",
+0,
+[]
+],
+[
+"right first lateral lumbar intertransversarius",
+0,
+[]
+],
+[
+"left first lateral lumbar intertransversarius",
+0,
+[]
+],
+[
+"right second lateral lumbar intertransversarius",
+0,
+[]
+],
+[
+"left second lateral lumbar intertransversarius",
+0,
+[]
+],
+[
+"right third lateral lumbar intertransversarius",
+0,
+[]
+],
+[
+"left third lateral lumbar intertransversarius",
+0,
+[]
+],
+[
+"right fourth lateral lumbar intertransversarius",
+0,
+[]
+],
+[
+"left fourth lateral lumbar intertransversarius",
+0,
+[]
+],
+[
+"right fifth lateral lumbar intertransversarius",
+0,
+[]
+],
+[
+"left fifth lateral lumbar intertransversarius",
+0,
+[]
+],
+[
+"third interspinalis cervicis",
+0,
+[]
+],
+[
+"fourth interspinalis cervicis",
+0,
+[]
+],
+[
+"fifth interspinalis cervicis",
+0,
+[]
+],
+[
+"sixth interspinalis cervicis",
+0,
+[]
+],
+[
+"right first interspinalis cervicis",
+0,
+[]
+],
+[
+"left first interspinalis cervicis",
+0,
+[]
+],
+[
+"right seventh interspinalis cervicis",
+0,
+[]
+],
+[
+"left seventh interspinalis cervicis",
+0,
+[]
+],
+[
+"right third interspinalis cervicis",
+0,
+[]
+],
+[
+"left third interspinalis cervicis",
+0,
+[]
+],
+[
+"right fourth interspinalis cervicis",
+0,
+[]
+],
+[
+"left fourth interspinalis cervicis",
+0,
+[]
+],
+[
+"right fifth interspinalis cervicis",
+0,
+[]
+],
+[
+"left fifth interspinalis cervicis",
+0,
+[]
+],
+[
+"right sixth interspinalis cervicis",
+0,
+[]
+],
+[
+"left sixth interspinalis cervicis",
+0,
+[]
+],
+[
+"third interspinalis lumborum",
+0,
+[]
+],
+[
+"fourth interspinalis lumborum",
+0,
+[]
+],
+[
+"right first interspinalis lumborum",
+0,
+[]
+],
+[
+"left first interspinalis lumborum",
+0,
+[]
+],
+[
+"right second interspinalis lumborum",
+0,
+[]
+],
+[
+"left second interspinalis lumborum",
+0,
+[]
+],
+[
+"right third interspinalis lumborum",
+0,
+[]
+],
+[
+"left third interspinalis lumborum",
+0,
+[]
+],
+[
+"right fourth interspinalis lumborum",
+0,
+[]
+],
+[
+"left fourth interspinalis lumborum",
+0,
+[]
+],
+[
+"right cervical rotator",
+0,
+[]
+],
+[
+"left cervical rotator",
+0,
+[]
+],
+[
+"levator costae",
+0,
+[]
+],
+[
+"first levator costae",
+0,
+[]
+],
+[
+"second levator costae",
+0,
+[]
+],
+[
+"third levator costae",
+0,
+[]
+],
+[
+"fourth levator costae",
+0,
+[]
+],
+[
+"fifth levator costae",
+0,
+[]
+],
+[
+"sixth levator costae",
+0,
+[]
+],
+[
+"seventh levator costae",
+0,
+[]
+],
+[
+"eighth levator costae",
+0,
+[]
+],
+[
+"ninth levator costae",
+0,
+[]
+],
+[
+"tenth levator costae",
+0,
+[]
+],
+[
+"eleventh levator costae",
+0,
+[]
+],
+[
+"twelfth levator costae",
+0,
+[]
+],
+[
+"right first levator costae",
+0,
+[]
+],
+[
+"left first levator costae",
+0,
+[]
+],
+[
+"right second levator costae",
+0,
+[]
+],
+[
+"left second levator costae",
+0,
+[]
+],
+[
+"right third levator costae",
+0,
+[]
+],
+[
+"left third levator costae",
+0,
+[]
+],
+[
+"right fourth levator costae",
+0,
+[]
+],
+[
+"left fourth levator costae",
+0,
+[]
+],
+[
+"right fifth levator costae",
+0,
+[]
+],
+[
+"left fifth levator costae",
+0,
+[]
+],
+[
+"right sixth levator costae",
+0,
+[]
+],
+[
+"left sixth levator costae",
+0,
+[]
+],
+[
+"right seventh levator costae",
+0,
+[]
+],
+[
+"left seventh levator costae",
+0,
+[]
+],
+[
+"right eighth levator costae",
+0,
+[]
+],
+[
+"left eighth levator costae",
+0,
+[]
+],
+[
+"right ninth levator costae",
+0,
+[]
+],
+[
+"left ninth levator costae",
+0,
+[]
+],
+[
+"right tenth levator costae",
+0,
+[]
+],
+[
+"left tenth levator costae",
+0,
+[]
+],
+[
+"right eleventh levator costae",
+0,
+[]
+],
+[
+"left eleventh levator costae",
+0,
+[]
+],
+[
+"right twelfth levator costae",
+0,
+[]
+],
+[
+"left twelfth levator costae",
+0,
+[]
+],
+[
+"right levator ani",
+0,
+[]
+],
+[
+"left levator ani",
+0,
+[]
+],
+[
+"conducting system of interventricular septum",
+0,
+[]
+],
+[
+"conducting system of interatrial septum",
+0,
+[]
+],
+[
+"septal division of left branch of atrioventricular bundle",
+0,
+[]
+],
+[
+"subendocardial branch of septal division of left branch of atrioventricular bundle",
+0,
+[]
+],
+[
+"atrial septal branch of anterior internodal tract",
+0,
+[]
+],
+[
+"conducting tissue of heart",
+0,
+[]
+],
+[
+"cardiac muscle tissue of ventricle",
+0,
+[]
+],
+[
+"cardiac muscle tissue of right ventricle",
+0,
+[]
+],
+[
+"cardiac muscle tissue of left ventricle",
+0,
+[]
+],
+[
+"conducting system of subdivision of heart",
+0,
+[]
+],
+[
+"cardiac muscle tissue of interatrial septum",
+0,
+[]
+],
+[
+"cardiac muscle tissue of interventricular septum",
+0,
+[]
+],
+[
+"cardiac muscle tissue of auricle",
+0,
+[]
+],
+[
+"cardiac muscle tissue of right auricle",
+0,
+[]
+],
+[
+"cardiac muscle tissue of left auricle",
+0,
+[]
+],
+[
+"cardiac muscle tissue of papillary muscle",
+0,
+[]
+],
+[
+"cardiac muscle tissue of papillary muscle of right ventricle",
+0,
+[]
+],
+[
+"cardiac muscle tissue of papillary muscle of left ventricle",
+0,
+[]
+],
+[
+"cardiac muscle tissue of trabecula carnea",
+0,
+[]
+],
+[
+"cardiac muscle tissue of trabecula carnea of right ventricle",
+0,
+[]
+],
+[
+"cardiac muscle tissue of trabecula carnea of left ventricle",
+0,
+[]
+],
+[
+"cardiac muscle tissue of septomarginal trabecula",
+0,
+[]
+],
+[
+"cardiac muscle tissue of pectinate muscle",
+0,
+[]
+],
+[
+"atrial branch of anterior internodal tract",
+0,
+[]
+],
+[
+"muscle of back",
+0,
+[]
+],
+[
+"external urethral sphincter",
+0,
+[]
+],
+[
+"opponens digiti minimi of right foot",
+0,
+[]
+],
+[
+"opponens digiti minimi of left foot",
+0,
+[]
+],
+[
+"Right occipitofrontalis",
+0,
+[]
+],
+[
+"Left occipitofrontalis",
+0,
+[]
+],
+[
+"set of all suprahyoid muscles",
+0,
+[]
+],
+[
+"Set of all infrahyoid muscles",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of region of myocardium of left ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of region of basal zone of myocardium of left ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of region of mid zone of myocardium of left ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of region of apical zone of myocardium of left ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 17",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 1",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 2",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 3",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 4",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 5",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 6",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 7",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 8",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 9",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 10",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 11",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 12",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 13",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 14a",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 15a",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 15",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 16a",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 18",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 19",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 20",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 14",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 16",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 17a",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardial zone 13a",
+0,
+[]
+],
+[
+"Conducting system of cardiac chamber",
+0,
+[]
+],
+[
+"Conducting system of cardiac septum",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of cardiac septum",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of region of myocardium of right ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of region of basal zone of myocardium of right ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of region of mid zone of myocardium of right ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of region of apical zone of myocardium of right ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of basal anterior zone of myocardium of right ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of basal septal zone of myocardium of right ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of basal lateral zone of myocardium of right ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of basal inferior zone of myocardium of right ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of mid anterior zone of myocardium of right ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of mid septal zone of myocardium of right ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of mid inferior zone of myocardium of right ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of mid lateral zone of myocardium of right ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of apical anterior zone of myocardium of right ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of apical septal zone of myocardium of right ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of apical inferior zone of myocardium of right ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of apical lateral zone of myocardium of right ventricle",
+0,
+[]
+],
+[
+"Right iliocostalis",
+0,
+[]
+],
+[
+"Left iliocostalis",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardium of outflow part of left ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardium of outflow part of right ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardium of inflow part of left ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardium proper",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardium of inflow part of right ventricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardium",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of myocardium of atrium proper",
+0,
+[]
+],
+[
+"Muscel tissue of crista supraventricularis (volume)",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of deltoid",
+0,
+[
+"skeletal muscle tissue of deltoid"
+]
+],
+[
+"Skeletal muscle tissue of right deltoid",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left deltoid",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of epicranius",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of temporalis",
+0,
+[
+"skeletal muscle tissue of temporalis"
+]
+],
+[
+"Skeletal muscle tissue of right temporalis",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left temporalis",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of superior rectus",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right superior rectus",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left superior rectus",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of inferior rectus",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right inferior rectus",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left inferior rectus",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of medial rectus",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right medial rectus",
+0,
+[]
+],
+[
+"ONARD_Class_1580407",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of lateral rectus",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right lateral rectus",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left lateral rectus",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of superior oblique",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right superior oblique",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left superior oblique",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of inferior oblique",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right inferior oblique",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left inferior oblique",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of levator palpebrae superioris",
+0,
+[
+"skeletal muscle tissue of levator palpebrae superioris"
+]
+],
+[
+"Skeletal muscle tissue of right levator palpebrae superioris",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left levator palpebrae superioris",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of procerus",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right procerus",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left procerus",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of nasalis",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right nasalis",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left nasalis",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of depressor septi nasi",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right depressor septi nasi",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left depressor septi nasi",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of depressor supercilli",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right depressor supercilli",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left depressor supercilli",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of orbicularis oculi",
+0,
+[
+"skeletal muscle tissue of orbicularis oculi"
+]
+],
+[
+"Skeletal muscle tissue of right orbicularis oculi",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left orbicularis oculi",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of corrugator supercilli",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right corrugator supercilli",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left corrugator supercilli",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of masseter",
+0,
+[
+"skeletal muscle tissue of masseter"
+]
+],
+[
+"Skeletal muscle tissue of right masseter",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left masseter",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of medial pterygoid",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right medial pterygoid",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left medial pterygoid",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of lateral pterygoid",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right lateral pterygoid",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left lateral pterygoid",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of platysma",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right platysma",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left platysma",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of sternocleidomastoid",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right sternocleidomastoid",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left sternocleidomastoid",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of scalenus anterior",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right scalenus anterior",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left scalenus anterior",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of scalenus medius",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right scalenus medius",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left scalenus medius",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of scalenus posterior",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right scalenus posterior",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left scalenus posterior",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of digastric",
+0,
+[
+"skeletal muscle tissue of digastric"
+]
+],
+[
+"Skeletal muscle tissue of right digastric",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left digastric",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of mylohyoid",
+0,
+[
+"skeletal muscle tissue of mylohyoid"
+]
+],
+[
+"Skeletal muscle tissue of right mylohyoid",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left mylohyoid",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of intercostal muscle",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of external intercostal muscle",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of internal intercostal muscle",
+0,
+[
+"skeletal muscle tissue of internal intercostal muscle"
+]
+],
+[
+"Skeletal muscle tissue of innermost intercostal muscle",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of transversus thoracis",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right transversus thoracis",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left transversus thoracis",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of diaphragm",
+0,
+[
+"skeletal muscle tissue of diaphragm"
+]
+],
+[
+"Skeletal muscle tissue of external oblique",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right external oblique",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left external oblique",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of internal oblique",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right internal oblique",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left internal oblique",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of transversus abdominis",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right transversus abdominis",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left transversus abdominis",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of quadratus lumborum",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right quadratus lumborum",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left quadratus lumborum",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of rectus abdominis",
+0,
+[
+"skeletal muscle tissue of rectus abdominis"
+]
+],
+[
+"Skeletal muscle tissue of right rectus abdominis",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left rectus abdominis",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of psoas major",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right psoas major",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left psoas major",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of trapezius",
+0,
+[
+"skeletal muscle tissue of trapezius"
+]
+],
+[
+"Skeletal muscle tissue of right trapezius",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left trapezius",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of latissimus dorsi",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right latissimus dorsi",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left latissimus dorsi",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of serratus anterior",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right serratus anterior",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left serratus anterior",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of supraspinatus",
+0,
+[
+"skeletal muscle tissue of supraspinatus"
+]
+],
+[
+"Skeletal muscle tissue of right supraspinatus",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left supraspinatus",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of teres major",
+0,
+[
+"skeletal muscle tissue of teres major"
+]
+],
+[
+"Skeletal muscle tissue of right teres major",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left teres major",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right pectoralis major",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left pectoralis major",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of biceps brachii",
+0,
+[
+"skeletal muscle tissue of biceps brachii"
+]
+],
+[
+"Skeletal muscle tissue of right biceps brachii",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left biceps brachii",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of gluteus maximus",
+0,
+[
+"skeletal muscle tissue of gluteus maximus"
+]
+],
+[
+"Skeletal muscle tissue of right gluteus maximus",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left gluteus maximus",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of quadratus femoris",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right quadratus femoris",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left quadratus femoris",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of iliacus",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of right iliacus",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left iliacus",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of quadriceps femoris",
+0,
+[
+"skeletal muscle tissue of quadriceps femoris"
+]
+],
+[
+"Skeletal muscle tissue of right quadriceps femoris",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left quadriceps femoris",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of tibialis anterior",
+0,
+[
+"skeletal muscle tissue of tibialis anterior"
+]
+],
+[
+"Skeletal muscle tissue of right tibialis anterior",
+0,
+[]
+],
+[
+"Skeletal muscle tissue of left tibialis anterior",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of pectinate muscle of right atrium",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of pectinate muscle of left atrium",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of pectinate muscle of right auricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of pectinate muscle of left auricle",
+0,
+[]
+],
+[
+"Cardiac muscle tissue of pectinate muscle of outflow part of right atrium",
+0,
+[]
+],
+[
+"Left longissimus",
+0,
+[]
+],
+[
+"Right longissimus",
+0,
+[]
+],
+[
+"pterygoid muscles",
+0,
+[
+"Pterygoid Muscle"
+]
+],
+[
+"psoas muscles",
+0,
+[
+"psoas muscle"
+]
+],
+[
+"intermediate back muscles",
+0,
+[
+"Intermediate Back Muscle"
+]
+],
+[
+"paraspinal muscles",
+0,
+[
+"Paraspinal Muscle"
+]
+],
+[
+"superficial back muscles",
+0,
+[
+"Superficial Back Muscle"
+]
+],
+[
+"neck muscles",
+0,
+[
+"muscle of neck",
+"neck muscle"
+]
 ]
 ]

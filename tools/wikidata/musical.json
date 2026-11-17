@@ -1,4126 +1,5486 @@
 [
 [
 "Swan Lake",
-64
+64,
+[
+"Lebedinoye ozero"
+]
 ],
 [
 "Rigoletto",
-58
+58,
+[]
 ],
 [
 "Harry Potter and the Cursed Child",
-48
+48,
+[]
 ],
 [
 "Jesus Christ Superstar",
-47
+47,
+[]
 ],
 [
 "Peer Gynt",
-46
+46,
+[]
 ],
 [
 "The Threepenny Opera",
-46
+46,
+[
+"Die Dreigroschenoper"
+]
 ],
 [
 "Pagliacci",
-46
+46,
+[]
 ],
 [
 "The Phantom of the Opera",
-43
+43,
+[]
 ],
 [
 "Elf",
-43
+43,
+[
+"ELF The Musical"
+]
 ],
 [
 "West Side Story",
-43
+43,
+[]
 ],
 [
 "Giselle",
-42
+42,
+[
+"Giselle, or the Willis",
+"Gizelle"
+]
 ],
 [
 "Hamilton",
-40
+40,
+[
+"Hamilton: An American Musical"
+]
 ],
 [
 "The Imaginary Invalid",
-40
+40,
+[
+"Le Malade imaginaire"
+]
 ],
 [
 "Cats",
-39
+39,
+[]
 ],
 [
 "Fiddler on the Roof",
-39
+39,
+[
+"Fyedka"
+]
 ],
 [
 "Les Misérables",
-38
+38,
+[
+"Les Mis",
+"les Miserables",
+"Les Miz"
+]
 ],
 [
 "Die Fledermaus",
-37
+37,
+[
+"The Bat"
+]
 ],
 [
 "The Merry Widow",
-36
+36,
+[
+"Lehár, Franz, 1870-1948. Dora, la viuda alegre",
+"Lehár, Franz, 1870-1948. Glada änkan",
+"Lehár, Franz, 1870-1948. Glade enke",
+"Lehár, Franz, 1870-1948. Merry widow",
+"Lehár, Franz, 1870-1948. Vedova allegra",
+"Lehár, Franz, 1870-1948. Veuve joyeuse",
+"Lehár, Franz, 1870-1948. Viuda alegre"
+]
 ],
 [
 "Hair",
-34
+34,
+[
+"Hair: The American Tribal Love-Rock Musical",
+"MacDermot, Galt, 1928- Don Kirshner cuts Hair",
+"MacDermot, Galt, 1928- Hair"
+]
 ],
 [
 "Wicked",
-34
+34,
+[
+"Wicked: The Untold Story of the Witches of Oz"
+]
 ],
 [
 "Petrushka",
-32
+32,
+[
+"Petrouchka"
+]
 ],
 [
 "The Sound of Music",
-31
+31,
+[]
 ],
 [
 "Riverdance",
-30
+30,
+[]
 ],
 [
 "My Fair Lady",
-30
+30,
+[]
 ],
 [
 "Chicago",
-30
+30,
+[]
 ],
 [
 "Mamma Mia!",
-30
+30,
+[]
 ],
 [
 "Porgy and Bess",
-29
+29,
+[
+"Porgy & Bess"
+]
 ],
 [
 "Evita",
-29
+29,
+[]
 ],
 [
 "Rent",
-28
+28,
+[
+"RENT"
+]
 ],
 [
 "Grease",
-28
+28,
+[]
 ],
 [
 "Le Bourgeois gentilhomme",
-27
+27,
+[
+"The Bourgeois Gentleman",
+"The Middle-Class Gentleman",
+"The Would-Be Gentleman",
+"The Would-Be Noble"
+]
 ],
 [
 "The Beggar's Opera",
-27
+27,
+[
+"Beggar's Opera"
+]
 ],
 [
 "Miss Saigon",
-27
+27,
+[]
 ],
 [
 "Cabaret",
-26
+26,
+[]
 ],
 [
 "Oklahoma!",
-26
+26,
+[
+"Oklahoma"
+]
 ],
 [
 "Sweeney Todd: The Demon Barber of Fleet Street",
-25
+25,
+[
+"Sweeney Todd",
+"Sweeney Todd, the Demon Barber of Fleet Street"
+]
 ],
 [
 "The Book of Mormon",
-24
+24,
+[
+"Book of Mormon"
+]
 ],
 [
 "Oliver!",
-24
+24,
+[]
 ],
 [
 "The Gypsy Baron",
-24
+24,
+[]
 ],
 [
 "Avenue Q",
-24
+24,
+[]
 ],
 [
 "The Lion King",
-23
+23,
+[
+"Lion King musical",
+"Lion King the musical",
+"The Lion King (musical)",
+"The Lion King Musical"
+]
 ],
 [
 "Beauty and the Beast",
-23
+23,
+[]
 ],
 [
 "The King and I",
-23
+23,
+[]
 ],
 [
 "Ariadne auf Naxos",
-23
+23,
+[]
 ],
 [
 "Joseph and the Amazing Technicolor Dreamcoat",
-22
+22,
+[]
 ],
 [
 "Dear Evan Hansen",
-22
+22,
+[]
 ],
 [
 "The Mikado",
-21
+21,
+[]
 ],
 [
 "South Pacific",
-21
+21,
+[
+"Tales of the South Pacific"
+]
 ],
 [
 "The Producers",
-21
+21,
+[]
 ],
 [
 "A Chorus Line",
-21
+21,
+[]
 ],
 [
 "Annie",
-21
+21,
+[]
 ],
 [
 "The Rocky Horror Show",
-21
+21,
+[]
 ],
 [
 "Chess",
-21
+21,
+[]
 ],
 [
 "Into the Woods",
-20
+20,
+[]
 ],
 [
 "Hello, Dolly!",
-20
+20,
+[]
 ],
 [
 "Billy Elliot the Musical",
-20
+20,
+[
+"Billy Elliot: The Musical"
+]
 ],
 [
 "Spring Awakening",
-20
+20,
+[]
 ],
 [
 "Legally Blonde",
-19
+19,
+[]
 ],
 [
 "The Dybbuk",
-19
+19,
+[
+"Der dibeḳ",
+"ha-Dibuḳ",
+"הדיבוק"
+]
 ],
 [
 "Aida",
-19
+19,
+[]
 ],
 [
 "We Will Rock You",
-18
+18,
+[]
 ],
 [
 "H.M.S. Pinafore",
-18
+18,
+[
+"HMS Pinafore",
+"H.M.S. Pinafore; or, The Lass That Loved a Sailor",
+"Pinafore",
+"that infernal nonsense Pinafore",
+"The Lass That Loved a Sailor"
+]
 ],
 [
 "The Pirates of Penzance",
-18
+18,
+[
+"The Slave of Duty"
+]
 ],
 [
 "Jekyll & Hyde",
-18
+18,
+[
+"Jekyll and Hyde",
+"Jekyll & Hyde (musical)"
+]
 ],
 [
 "Countess Maritza",
-18
+18,
+[
+"Gräfin Mariza",
+"Marica grófnő"
+]
 ],
 [
 "Sunset Boulevard",
-18
+18,
+[
+"Sunset Boulevard (musical)"
+]
 ],
 [
 "Show Boat",
-18
+18,
+[]
 ],
 [
 "Starlight Express",
-18
+18,
+[]
 ],
 [
 "Six: The Musical",
-18
+18,
+[
+"Six"
+]
 ],
 [
 "The Tsar's Bride",
-18
+18,
+[]
 ],
 [
 "Spamalot",
-18
+18,
+[
+"Monty Python's Spamalot"
+]
 ],
 [
 "Dance of the Vampires",
-17
+17,
+[]
 ],
 [
 "Little Shop of Horrors",
-17
+17,
+[]
 ],
 [
 "Hairspray",
-17
+17,
+[]
 ],
 [
 "Wiener Blut",
-17
+17,
+[
+"Viennese Blood",
+"Viennese Spirit"
+]
 ],
 [
 "Anastasia",
-17
+17,
+[
+"Anastasia (2016 musical)"
+]
 ],
 [
 "Man of La Mancha",
-17
+17,
+[]
 ],
 [
 "Guys and Dolls",
-17
+17,
+[]
 ],
 [
 "Die Zirkusprinzessin",
-16
+16,
+[]
 ],
 [
 "In the Heights",
-16
+16,
+[]
 ],
 [
 "Sweet Charity",
-16
+16,
+[]
 ],
 [
 "Annie Get Your Gun",
-16
+16,
+[]
 ],
 [
 "Kinky Boots",
-16
+16,
+[]
 ],
 [
 "Anything Goes",
-16
+16,
+[]
 ],
 [
 "A Funny Thing Happened on the Way to the Forum",
-16
+16,
+[]
 ],
 [
 "Blood Brothers",
-16
+16,
+[]
 ],
 [
 "George Dandin ou le Mari confondu",
-16
+16,
+[]
 ],
 [
 "Carousel",
-15
+15,
+[]
 ],
 [
 "The Three-Cornered Hat",
-15
+15,
+[]
 ],
 [
 "Matilda the Musical",
-15
+15,
+[
+"Matilda"
+]
 ],
 [
 "Next to Normal",
-15
+15,
+[]
 ],
 [
 "Gypsy: A Musical Fable",
-15
+15,
+[
+"Gypsy"
+]
 ],
 [
 "La Cage aux Folles",
-15
+15,
+[]
 ],
 [
 "The Addams Family",
-15
+15,
+[]
 ],
 [
 "Company",
-15
+15,
+[]
 ],
 [
 "Candide",
-14
+14,
+[]
 ],
 [
 "The Telephone",
-14
+14,
+[
+"The telephone",
+"The Telephone, or L'amour à trois"
+]
 ],
 [
 "Tick, Tick... Boom!",
-14
+14,
+[]
 ],
 [
 "The Music Man",
-14
+14,
+[]
 ],
 [
 "Jersey Boys",
-14
+14,
+[]
 ],
 [
 "La vie parisienne",
-14
+14,
+[]
 ],
 [
 "Hadestown",
-14
+14,
+[]
 ],
 [
 "Les cloches de Corneville",
-14
+14,
+[
+"The Chimes of Normandy"
+]
 ],
 [
 "Dreamgirls",
-13
+13,
+[]
 ],
 [
 "Der Bettelstudent",
-13
+13,
+[
+"The Beggar Student"
+]
 ],
 [
 "Kiss Me, Kate",
-13
+13,
+[]
 ],
 [
 "Hedwig and the Angry Inch",
-13
+13,
+[]
 ],
 [
 "The Black Crook",
-13
+13,
+[]
 ],
 [
 "Godspell (musical)",
-13
+13,
+[]
 ],
 [
 "Aladdin",
-13
+13,
+[
+"Aladdin musical",
+"Aladdin the musical"
+]
 ],
 [
 "How to Succeed in Business Without Really Trying",
-13
+13,
+[
+"How To Succeed In Business Without Really Trying"
+]
 ],
 [
 "Mary Poppins",
-13
+13,
+[]
 ],
 [
 "Trial by Jury",
-13
+13,
+[]
 ],
 [
 "Marriage by Compulsion",
-13
+13,
+[
+"Le Mariage forcé"
+]
 ],
 [
 "Sunday in the Park with George",
-13
+13,
+[]
 ],
 [
 "American Idiot",
-13
+13,
+[]
 ],
 [
 "The Fair at Sorochyntsi",
-13
+13,
+[
+"Fair at Sorochinsk",
+"Fair of Sorochintsi",
+"Fiera di Sorocinzi",
+"Foire de Sorotchintsi",
+"Foire de Sorotchintzi",
+"Jahrmarkt von Sorotschintzi",
+"Jahrmarkt zu Ssorotschinzi",
+"Sorochinskaya yarmarka",
+"Sorochintsï fair",
+"Sorochintsy fair",
+"Sorotschinskaja jarmarka",
+"The Fair at Sorochintsï",
+"Сорочинская ярмарка"
+]
 ],
 [
 "Appalachian Spring",
-13
+13,
+[]
 ],
 [
 "Pippin",
-13
+13,
+[
+"Corner of the Sky"
+]
 ],
 [
 "Boccaccio",
-13
+13,
+[
+"Boccaccio, oder Der Prinz von Palermo",
+"Der Prinz von Palermo"
+]
 ],
 [
 "Camelot",
-12
+12,
+[]
 ],
 [
 "Funny Girl",
-12
+12,
+[]
 ],
 [
 "42nd Street",
-12
+12,
+[]
 ],
 [
 "The Rape of Lucretia",
-12
+12,
+[]
 ],
 [
 "Shrek the Musical",
-12
+12,
+[]
 ],
 [
 "The Wiz",
-12
+12,
+[]
 ],
 [
 "You're a Good Man, Charlie Brown",
-12
+12,
+[]
 ],
 [
 "Les brigands",
-12
+12,
+[]
 ],
 [
 "Das Dreimäderlhaus",
-12
+12,
+[
+"House of the Three Girls"
+]
 ],
 [
 "Princess Ida",
-11
+11,
+[]
 ],
 [
 "Oh! Calcutta!",
-11
+11,
+[]
 ],
 [
 "Cinderella",
-11
+11,
+[
+"Rodgers + Hammerstein's Cinderella",
+"Rodgers and Hammerstein's Cinderella"
+]
 ],
 [
 "L'Arlésienne",
-11
+11,
+[]
 ],
 [
 "Waitress",
-11
+11,
+[]
 ],
 [
 "Barbe-bleue",
-11
+11,
+[]
 ],
 [
 "The Bohemian Girl",
-11
+11,
+[
+"La zingara"
+]
 ],
 [
 "The Little Sweep",
-11
+11,
+[
+"Let’s Make an Opera"
+]
 ],
 [
 "The Boy from Oz",
-11
+11,
+[]
 ],
 [
 "The Full Monty",
-11
+11,
+[]
 ],
 [
 "Damn Yankees",
-10
+10,
+[]
 ],
 [
 "On the Town",
-10
+10,
+[]
 ],
 [
 "Irma La Douce",
-10
+10,
+[]
 ],
 [
 "Back to the Future: The Musical",
-10
+10,
+[]
 ],
 [
 "Urinetown",
-10
+10,
+[]
 ],
 [
 "A Little Night Music",
-10
+10,
+[]
 ],
 [
 "Frozen",
-10
+10,
+[]
 ],
 [
 "The Yeomen of the Guard",
-10
+10,
+[]
 ],
 [
 "Charlie and the Chocolate Factory",
-10
+10,
+[]
 ],
 [
 "Brigadoon",
-10
+10,
+[]
 ],
 [
 "Sister Act",
-10
+10,
+[]
 ],
 [
 "Aspects of Love",
-10
+10,
+[]
 ],
 [
 "Treemonisha",
-10
+10,
+[]
 ],
 [
 "The Little Mermaid (musical)",
-10
+10,
+[
+"Little Mermaid"
+]
 ],
 [
 "Ruddigore",
-9
+9,
+[
+"Ruddygore",
+"The Witch's Curse"
+]
 ],
 [
 "Fatinitza",
-9
+9,
+[]
 ],
 [
 "Crazy for You",
-9
+9,
+[]
 ],
 [
 "Natasha, Pierre and the Great Comet of 1812",
-9
+9,
+[]
 ],
 [
 "The Lark",
-9
+9,
+[]
 ],
 [
 "Tarzan",
-9
+9,
+[]
 ],
 [
 "Pal Joey",
-9
+9,
+[]
 ],
 [
 "Assassins",
-9
+9,
+[]
 ],
 [
 "High School Musical on Stage!",
-9
+9,
+[]
 ],
 [
 "Come from Away",
-9
+9,
+[]
 ],
 [
 "La mascotte",
-9
+9,
+[]
 ],
 [
 "Peter Pan",
-9
+9,
+[]
 ],
 [
 "Catch Me If You Can",
-9
+9,
+[]
 ],
 [
 "Thoroughly Modern Millie",
-9
+9,
+[]
 ],
 [
 "Singin' in the Rain",
-9
+9,
+[]
 ],
 [
 "The Gay Hussars",
-8
+8,
+[]
 ],
 [
 "Kiss of the Spider Woman",
-8
+8,
+[]
 ],
 [
 "Carmen Jones",
-8
+8,
+[]
 ],
 [
 "Jacques Brel is Alive and Well and Living in Paris",
-8
+8,
+[]
 ],
 [
 "Titanic",
-8
+8,
+[
+"Titanic: The Musical"
+]
 ],
 [
 "La chanson de Fortunio",
-8
+8,
+[]
 ],
 [
 "Me and My Girl",
-8
+8,
+[]
 ],
 [
 "The Rose of Stamboul",
-8
+8,
+[]
 ],
 [
 "No, No, Nanette",
-8
+8,
+[]
 ],
 [
 "Something Rotten!",
-8
+8,
+[]
 ],
 [
 "Ghost",
-8
+8,
+[
+"Ghost the Musical"
+]
 ],
 [
 "She Loves Me",
-8
+8,
+[]
 ],
 [
 "Nine",
-8
+8,
+[]
 ],
 [
 "Wonderful Town",
-8
+8,
+[]
 ],
 [
 "Follies",
-8
+8,
+[]
 ],
 [
 "Mean Girls",
-8
+8,
+[
+"Mean Girls on Broadway",
+"Mean Girls The Musical"
+]
 ],
 [
 "Drood",
-8
+8,
+[
+"The Mystery of Edwin Drood"
+]
 ],
 [
 "The Princess of Trébizonde",
-8
+8,
+[
+"La princesse de Trébizonde"
+]
 ],
 [
 "The Marriage Market",
-8
+8,
+[]
 ],
 [
 "Patience",
-8
+8,
+[
+"Bunthorne's Bride"
+]
 ],
 [
 "Das Spitzentuch der Königin",
-8
+8,
+[
+"The Queen's Lace Handkerchief"
+]
 ],
 [
 "Where the Lark Sings",
-8
+8,
+[
+"Where the lark sings"
+]
 ],
 [
 "Falsettos",
-8
+8,
+[]
 ],
 [
 "Kiss the Boys Goodbye",
-8
+8,
+[]
 ],
 [
 "Newsies",
-8
+8,
+[]
 ],
 [
 "Gentlemen Prefer Blondes",
-8
+8,
+[]
 ],
 [
 "Les deux aveugles",
-8
+8,
+[
+"The Two Blind Men"
+]
 ],
 [
 "The Drowsy Chaperone",
-8
+8,
+[]
 ],
 [
 "The Pajama Game",
-8
+8,
+[]
 ],
 [
 "Spider-Man: Turn Off the Dark",
-7
+7,
+[
+"Spider-Man: Turn Off the Dark Cast Lists"
+]
 ],
 [
 "Maybe Happy Ending",
-7
+7,
+[
+"What I Learned from People"
+]
 ],
 [
 "The Best Little Whorehouse in Texas",
-7
+7,
+[]
 ],
 [
 "Gräfin Dubarry",
-7
+7,
+[]
 ],
 [
 "Le mariage aux lanternes",
-7
+7,
+[
+"Marriage by Lanterns",
+"The Wedding by Lantern-Light"
+]
 ],
 [
 "Paint Your Wagon",
-7
+7,
+[]
 ],
 [
 "Lischen et Fritzchen",
-7
+7,
+[]
 ],
 [
 "Giroflé-Girofla",
-7
+7,
+[
+"Girofle-Girofla"
+]
 ],
 [
 "Applause",
-7
+7,
+[]
 ],
 [
 "School of Rock",
-7
+7,
+[]
 ],
 [
 "Groundhog Day",
-7
+7,
+[]
 ],
 [
 "Shuffle Along",
-7
+7,
+[]
 ],
 [
 "Silk Stockings",
-7
+7,
+[]
 ],
 [
 "Song and Dance",
-7
+7,
+[
+"Song & Dance"
+]
 ],
 [
 "Street Scene",
-7
+7,
+[]
 ],
 [
 "The Chocolate Soldier",
-7
+7,
+[]
 ],
 [
 "Finian's Rainbow",
-7
+7,
+[]
 ],
 [
 "Iolanthe",
-7
+7,
+[
+"Sullivan, Arthur, 1842-1900. Iolanthe, or, The peer and the peri",
+"Sullivan, Arthur, 1842-1900. Peer and the peri",
+"Sullivan, Arthur, 1842-1900. Prince and the peri"
+]
 ],
 [
 "Dirty Rotten Scoundrels",
-7
+7,
+[]
 ],
 [
 "Pacific Overtures",
-7
+7,
+[]
 ],
 [
 "Once",
-7
+7,
+[]
 ],
 [
 "The Eve of St. Mark",
-7
+7,
+[
+"Eve of St. Mark"
+]
 ],
 [
 "Véronique",
-7
+7,
+[
+"Veronique"
+]
 ],
 [
 "Trouble in Tahiti",
-7
+7,
+[]
 ],
 [
 "Kismet",
-7
+7,
+[]
 ],
 [
 "The Gondoliers",
-7
+7,
+[]
 ],
 [
 "The Sorcerer",
-7
+7,
+[]
 ],
 [
 "A Family Affair",
-7
+7,
+[
+"Family Affair"
+]
 ],
 [
 "Stop the World – I Want to Get Off",
-7
+7,
+[]
 ],
 [
 "Of Thee I Sing",
-7
+7,
+[]
 ],
 [
 "Chitty Chitty Bang Bang",
-7
+7,
+[]
 ],
 [
 "Four Saints in Three Acts",
-7
+7,
+[
+"4 Saints in 3 Acts"
+]
 ],
 [
 "The Prom",
-7
+7,
+[
+"Prom"
+]
 ],
 [
 "High Button Shoes",
-7
+7,
+[
+"High Button Shows"
+]
 ],
 [
 "Merrily We Roll Along",
-7
+7,
+[]
 ],
 [
 "Ragtime",
-7
+7,
+[]
 ],
 [
 "Lady, Be Good!",
-7
+7,
+[]
 ],
 [
 "Once on This Island",
-7
+7,
+[]
 ],
 [
 "Friederike",
-7
+7,
+[]
 ],
 [
 "Whistle Down the Wind",
-7
+7,
+[]
 ],
 [
 "By Jeeves",
-6
+6,
+[
+"Jeeves"
+]
 ],
 [
 "The Three Musketeers",
-6
+6,
+[]
 ],
 [
 "Flower Festival in Genzano",
-6
+6,
+[]
 ],
 [
 "The Geisha",
-6
+6,
+[]
 ],
 [
 "Cabin in the Sky",
-6
+6,
+[]
 ],
 [
 "The Woman in White",
-6
+6,
+[]
 ],
 [
 "Prinz Methusalem",
-6
+6,
+[]
 ],
 [
 "Grand Hotel",
-6
+6,
+[]
 ],
 [
 "Oh, Kay!",
-6
+6,
+[]
 ],
 [
 "Babes in Toyland",
-6
+6,
+[]
 ],
 [
 "Girl Crazy",
-6
+6,
+[]
 ],
 [
 "Me and Juliet",
-6
+6,
+[]
 ],
 [
 "Fun Home",
-6
+6,
+[]
 ],
 [
 "Rose-Marie",
-6
+6,
+[]
 ],
 [
 "Mame",
-6
+6,
+[]
 ],
 [
 "Dance of the Hours",
-6
+6,
+[]
 ],
 [
 "The Boy Friend",
-6
+6,
+[]
 ],
 [
 "Victor/Victoria",
-6
+6,
+[]
 ],
 [
 "Christophe Colomb",
-6
+6,
+[]
 ],
 [
 "The Band's Visit",
-6
+6,
+[]
 ],
 [
 "Florodora",
-6
+6,
+[]
 ],
 [
 "Le roi Carotte",
-6
+6,
+[]
 ],
 [
 "Maritana",
-6
+6,
+[]
 ],
 [
 "Sugar",
-6
+6,
+[]
 ],
 [
 "13",
-6
+6,
+[
+"Thirteen"
+]
 ],
 [
 "Can-Can",
-6
+6,
+[]
 ],
 [
 "The Girl in Pink Tights",
-6
+6,
+[]
 ],
 [
 "1776",
-6
+6,
+[]
 ],
 [
 "Barnum",
-6
+6,
+[]
 ],
 [
 "Zorba",
-6
+6,
+[]
 ],
 [
 "Chu Chin Chow",
-6
+6,
+[]
 ],
 [
 "Redhead",
-6
+6,
+[]
 ],
 [
 "John Loves Mary",
-6
+6,
+[]
 ],
 [
 "Promises, Promises",
-6
+6,
+[]
 ],
 [
 "& Juliet",
-6
+6,
+[]
 ],
 [
 "Parade",
-6
+6,
+[]
 ],
 [
 "Der Opernball",
-6
+6,
+[
+"The Opera Ball"
+]
 ],
 [
 "The Color Purple",
-6
+6,
+[
+"Color Purple"
+]
 ],
 [
 "Les bavards",
-6
+6,
+[]
 ],
 [
 "Young Frankenstein",
-6
+6,
+[]
 ],
 [
 "Metro",
-6
+6,
+[]
 ],
 [
 "Bye Bye Birdie",
-5
+5,
+[]
 ],
 [
 "Sophisticated Ladies",
-5
+5,
+[]
 ],
 [
 "The Scarlet Pimpernel",
-5
+5,
+[]
 ],
 [
 "Altar Boyz",
-5
+5,
+[
+"ALTER BOYZ Orange"
+]
 ],
 [
 "The Outsiders",
-5
+5,
+[]
 ],
 [
 "Dracula, the Musical",
-5
+5,
+[]
 ],
 [
 "Lost in the Stars",
-5
+5,
+[]
 ],
 [
 "Roberta",
-5
+5,
+[]
 ],
 [
 "Fancy Free",
-5
+5,
+[]
 ],
 [
 "Fanny",
-5
+5,
+[]
 ],
 [
 "Lady in the Dark",
-5
+5,
+[]
 ],
 [
 "Martin Guerre",
-5
+5,
+[]
 ],
 [
 "The Capeman",
-5
+5,
+[]
 ],
 [
 "Rocky the Musical",
-5
+5,
+[]
 ],
 [
 "Happy End",
-5
+5,
+[
+"Happy End Songspiel"
+]
 ],
 [
 "Whoopee!",
-5
+5,
+[]
 ],
 [
 "Let 'Em Eat Cake",
-5
+5,
+[]
 ],
 [
 "The Boys from Syracuse",
-5
+5,
+[]
 ],
 [
 "The 25th Annual Putnam County Spelling Bee",
-5
+5,
+[
+"25th Annual Putnam County Spelling Bee",
+"The Twenty-fifth Annual Putnam County Spelling Bee",
+"Twenty-fifth Annual Putnam County Spelling Bee"
+]
 ],
 [
 "If/Then",
-5
+5,
+[]
 ],
 [
 "An American in Paris",
-5
+5,
+[]
 ],
 [
 "The Student Prince",
-5
+5,
+[]
 ],
 [
 "Footloose",
-5
+5,
+[]
 ],
 [
 "Les noces de Jeannette",
-5
+5,
+[
+"Le nozze di Giannetta"
+]
 ],
 [
 "Animal Crackers",
-5
+5,
+[]
 ],
 [
 "City of Angels",
-5
+5,
+[]
 ],
 [
 "Rugantino",
-5
+5,
+[]
 ],
 [
 "The Cocoanuts",
-5
+5,
+[]
 ],
 [
 "Dirty Dancing",
-5
+5,
+[]
 ],
 [
 "Passion",
-5
+5,
+[]
 ],
 [
 "Afternoon of a Faun",
-5
+5,
+[]
 ],
 [
 "Allegro",
-5
+5,
+[]
 ],
 [
 "Big River",
-5
+5,
+[]
 ],
 [
 "Bonnie & Clyde",
-5
+5,
+[
+"Bonnie and Clyde"
+]
 ],
 [
 "Carrie",
-5
+5,
+[
+"Carrie: The Musical"
+]
 ],
 [
 "Chaplin",
-5
+5,
+[
+"Chaplin: The Musical",
+"Limelight: The Story of Charlie Chaplin"
+]
 ],
 [
 "The Unsinkable Molly Brown",
-5
+5,
+[]
 ],
 [
 "El Capitan",
-5
+5,
+[]
 ],
 [
 "Jagged Little Pill",
-5
+5,
+[]
 ],
 [
 "Funny Face",
-5
+5,
+[]
 ],
 [
 "La La Lucille",
-5
+5,
+[
+"La, La, Lucille"
+]
 ],
 [
 "Diana",
-5
+5,
+[]
 ],
 [
 "MJ: The Musical",
-5
+5,
+[
+"MJ"
+]
 ],
 [
 "Memphis",
-5
+5,
+[]
 ],
 [
 "Once Upon a Mattress",
-5
+5,
+[]
 ],
 [
 "Pipe Dream",
-5
+5,
+[]
 ],
 [
 "Strike Up the Band",
-5
+5,
+[]
 ],
 [
 "The Desert Song",
-5
+5,
+[
+"Lady Fair"
+]
 ],
 [
 "La jolie parfumeuse",
-5
+5,
+[]
 ],
 [
 "Kimberly Akimbo",
-4
+4,
+[]
 ],
 [
 "It's a Bird...It's a Plane...It's Superman",
-4
+4,
+[]
 ],
 [
 "DuBarry Was a Lady",
-4
+4,
+[]
 ],
 [
 "Gay Divorce",
-4
+4,
+[
+"The Gay Divorce"
+]
 ],
 [
 "One Touch of Venus",
-4
+4,
+[]
 ],
 [
 "Carnival!",
-4
+4,
+[]
 ],
 [
 "The Pirate Queen",
-4
+4,
+[]
 ],
 [
 "Babes in Arms",
-4
+4,
+[]
 ],
 [
 "Les Géorgiennes",
-4
+4,
+[]
 ],
 [
 "On Your Toes",
-4
+4,
+[]
 ],
 [
 "The Bridges of Madison County",
-4
+4,
+[]
 ],
 [
 "A Gentleman's Guide to Love and Murder",
-4
+4,
+[]
 ],
 [
 "Treasure Girl",
-4
+4,
+[]
 ],
 [
 "Show Girl",
-4
+4,
+[]
 ],
 [
 "Madame Pompadour",
-4
+4,
+[
+"Mme. Pompadour"
+]
 ],
 [
 "Pardon My English",
-4
+4,
+[]
 ],
 [
 "Flower Drum Song",
-4
+4,
+[]
 ],
 [
 "Sally",
-4
+4,
+[]
 ],
 [
 "Fiorello!",
-4
+4,
+[]
 ],
 [
 "The Act",
-4
+4,
+[]
 ],
 [
 "Bombo",
-4
+4,
+[]
 ],
 [
 "Taboo",
-4
+4,
+[]
 ],
 [
 "Be More Chill",
-4
+4,
+[]
 ],
 [
 "I Can Get It for You Wholesale",
-4
+4,
+[]
 ],
 [
 "Seesaw",
-4
+4,
+[]
 ],
 [
 "The Bellman",
-4
+4,
+[
+"Bellman"
+]
 ],
 [
 "The Band Wagon",
-4
+4,
+[]
 ],
 [
 "Tip-Toes",
-4
+4,
+[]
 ],
 [
 "Xanadu",
-4
+4,
+[]
 ],
 [
 "Leave It to Me!",
-4
+4,
+[]
 ],
 [
 "Lestat",
-4
+4,
+[]
 ],
 [
 "Passing Strange",
-4
+4,
+[
+"Passing Strange The Movie"
+]
 ],
 [
 "The Wizard of Oz",
-4
+4,
+[]
 ],
 [
 "9 to 5",
-4
+4,
+[
+"9 to 5: The Musical",
+"Nine to Five",
+"Nine to Five: The Musical"
+]
 ],
 [
 "A Tale of Two Cities",
-4
+4,
+[]
 ],
 [
 "Ain't Misbehavin'",
-4
+4,
+[]
 ],
 [
 "Anna Karenina",
-4
+4,
+[]
 ],
 [
 "Anyone Can Whistle",
-4
+4,
+[]
 ],
 [
 "Girl from the North Country",
-4
+4,
+[]
 ],
 [
 "Blackbirds of 1928",
-4
+4,
+[]
 ],
 [
 "Breakfast at Tiffany's",
-4
+4,
+[
+"Holly Golightly"
+]
 ],
 [
 "Bring It On",
-4
+4,
+[]
 ],
 [
 "Jane Eyre",
-4
+4,
+[]
 ],
 [
 "Tootsie",
-4
+4,
+[]
 ],
 [
 "Half a Sixpence",
-4
+4,
+[]
 ],
 [
 "Le 66",
-4
+4,
+[]
 ],
 [
 "Little Johnny Jones",
-4
+4,
+[]
 ],
 [
 "Naughty Marietta",
-4
+4,
+[]
 ],
 [
 "Seussical",
-4
+4,
+[]
 ],
 [
 "The Desert Flower",
-4
+4,
+[]
 ],
 [
 "The New Moon",
-4
+4,
+[]
 ],
 [
 "The Rink",
-4
+4,
+[]
 ],
 [
 "The Who's Tommy",
-4
+4,
+[]
 ],
 [
 "Call Me Madam",
-3
+3,
+[]
 ],
 [
 "On a Clear Day You Can See Forever",
-3
+3,
+[]
 ],
 [
 "Paris",
-3
+3,
+[]
 ],
 [
 "Illya Darling",
-3
+3,
+[]
 ],
 [
 "Hot Chocolates",
-3
+3,
+[]
 ],
 [
 "The Eternal Road",
-3
+3,
+[]
 ],
 [
 "Knickerbocker Holiday",
-3
+3,
+[]
 ],
 [
 "Panama Hattie",
-3
+3,
+[]
 ],
 [
 "Oh, Boy!",
-3
+3,
+[]
 ],
 [
 "Mack & Mabel",
-3
+3,
+[
+"Mack and Mabel"
+]
 ],
 [
 "Fifty Million Frenchmen",
-3
+3,
+[]
 ],
 [
 "Der Feldprediger",
-3
+3,
+[
+"The Black Hussar"
+]
 ],
 [
 "Gigi",
-3
+3,
+[]
 ],
 [
 "Big Fish",
-3
+3,
+[]
 ],
 [
 "James Joyce's The Dead",
-3
+3,
+[]
 ],
 [
 "Nanon",
-3
+3,
+[]
 ],
 [
 "A Winsome Widow",
-3
+3,
+[
+"Winsome Widow"
+]
 ],
 [
 "American Psycho",
-3
+3,
+[]
 ],
 [
 "I Do! I Do!",
-3
+3,
+[]
 ],
 [
 "The Last Ship",
-3
+3,
+[]
 ],
 [
 "On the Twentieth Century",
-3
+3,
+[]
 ],
 [
 "Smokey Joe's Cafe",
-3
+3,
+[]
 ],
 [
 "Sarafina!",
-3
+3,
+[]
 ],
 [
 "Jubilee",
-3
+3,
+[]
 ],
 [
 "The Century Girl",
-3
+3,
+[]
 ],
 [
 "Music Box Revue",
-3
+3,
+[]
 ],
 [
 "Finding Neverland",
-3
+3,
+[]
 ],
 [
 "On Your Feet!",
-3
+3,
+[]
 ],
 [
 "Copacabana",
-3
+3,
+[]
 ],
 [
 "Hellzapoppin",
-3
+3,
+[]
 ],
 [
 "All Shook Up",
-3
+3,
+[]
 ],
 [
 "War Paint",
-3
+3,
+[]
 ],
 [
 "Little Women",
-3
+3,
+[]
 ],
 [
 "Beggar's Holiday",
-3
+3,
+[]
 ],
 [
 "Coco",
-3
+3,
+[]
 ],
 [
 "Eileen",
-3
+3,
+[]
 ],
 [
 "Fela!",
-3
+3,
+[]
 ],
 [
 "Little Me",
-3
+3,
+[]
 ],
 [
 "New Girl in Town",
-3
+3,
+[]
 ],
 [
 "Pins and Needles",
-3
+3,
+[]
 ],
 [
 "When Knights Were Bold",
-3
+3,
+[]
 ],
 [
 "They're Playing Our Song",
-3
+3,
+[]
 ],
 [
 "The Bridal Crown",
-3
+3,
+[]
 ],
 [
 "Rio Rita",
-3
+3,
+[]
 ],
 [
 "Sunny",
-3
+3,
+[]
 ],
 [
 "The Garrick Gaieties",
-3
+3,
+[
+"Garrick Gaieties"
+]
 ],
 [
 "The Girl Friend",
-3
+3,
+[]
 ],
 [
 "The New Yorkers",
-3
+3,
+[]
 ],
 [
 "Watch Your Step",
-3
+3,
+[]
 ],
 [
 "1600 Pennsylvania Avenue",
-3
+3,
+[]
 ],
 [
 "A Grand Night for Singing",
-3
+3,
+[]
 ],
 [
 "Amour",
-3
+3,
+[]
 ],
 [
 "Ankles Aweigh",
-3
+3,
+[]
 ],
 [
 "Around the World",
-3
+3,
+[]
 ],
 [
 "Banjo Eyes",
-3
+3,
+[]
 ],
 [
 "Cry-Baby",
-3
+3,
+[]
 ],
 [
 "Curtains",
-3
+3,
+[]
 ],
 [
 "Cyrano",
-3
+3,
+[]
 ],
 [
 "Dear World",
-3
+3,
+[]
 ],
 [
 "Doctor Zhivago",
-3
+3,
+[]
 ],
 [
 "Dorothy",
-3
+3,
+[]
 ],
 [
 "Eubie!",
-3
+3,
+[]
 ],
 [
 "Forty-Five Minutes from Broadway",
-3
+3,
+[]
 ],
 [
 "Regina",
-3
+3,
+[]
 ],
 [
 "Grey Gardens",
-3
+3,
+[]
 ],
 [
 "Here's Love",
-3
+3,
+[]
 ],
 [
 "I'll Say She Is",
-3
+3,
+[]
 ],
 [
 "I Love My Wife",
-3
+3,
+[]
 ],
 [
 "In Dahomey",
-3
+3,
+[]
 ],
 [
 "Kid Boots",
-3
+3,
+[]
 ],
 [
 "LoveMusik",
-3
+3,
+[]
 ],
 [
 "Miss 1917",
-3
+3,
+[]
 ],
 [
 "Nice Work If You Can Get It",
-3
+3,
+[]
 ],
 [
 "Song of Norway",
-3
+3,
+[]
 ],
 [
 "Putting It Together",
-3
+3,
+[]
 ],
 [
 "Raisin",
-3
+3,
+[]
 ],
 [
 "Robin Hood",
-3
+3,
+[]
 ],
 [
 "Seagulls Over Sorrento",
-3
+3,
+[
+"Crest of the Wave"
+]
 ],
 [
 "Shangri-La",
-3
+3,
+[]
 ],
 [
 "Shogun: The Musical",
-3
+3,
+[]
 ],
 [
 "Sinbad",
-3
+3,
+[]
 ],
 [
 "Stop! Look! Listen!",
-3
+3,
+[]
 ],
 [
 "Sweethearts",
-3
+3,
+[]
 ],
 [
 "Take Me Along",
-3
+3,
+[]
 ],
 [
 "Too Many Girls",
-3
+3,
+[]
 ],
 [
 "The Cradle Will Rock",
-3
+3,
+[]
 ],
 [
 "The Frogs",
-3
+3,
+[]
 ],
 [
 "The Light in the Piazza",
-3
+3,
+[]
 ],
 [
 "The Night Boat",
-3
+3,
+[]
 ],
 [
 "The Princess Pat",
-3
+3,
+[]
 ],
 [
 "The Red Mill",
-3
+3,
+[]
 ],
 [
 "The Roar of the Greasepaint – The Smell of the Crowd",
-3
+3,
+[]
 ],
 [
 "The Rose of Castille",
-3
+3,
+[]
 ],
 [
 "The Scottsboro Boys",
-3
+3,
+[]
 ],
 [
 "The Vagabond King",
-3
+3,
+[]
 ],
 [
 "The Visit",
-3
+3,
+[]
 ],
 [
 "The Will Rogers Follies",
-3
+3,
+[]
 ],
 [
 "The Wizard of the Nile",
-3
+3,
+[]
 ],
 [
 "Two by Two",
-3
+3,
+[]
 ],
 [
 "White Christmas",
-3
+3,
+[]
 ],
 [
 "Best Foot Forward",
-3
+3,
+[]
 ],
 [
 "Mrs. Doubtfire",
-3
+3,
+[]
 ],
 [
 "A Strange Loop",
-3
+3,
+[]
 ],
 [
 "The Prince of Pilsen",
-2
+2,
+[]
 ],
 [
 "Paradise Square",
-2
+2,
+[]
 ],
 [
 "Red, Hot and Blue",
-2
+2,
+[]
 ],
 [
 "The Chocolate Dandies",
-2
+2,
+[]
 ],
 [
 "The Slim Princess",
-2
+2,
+[]
 ],
 [
 "An Englishman's Home",
-2
+2,
+[
+"Englishman's Home"
+]
 ],
 [
 "Minnie's Boys",
-2
+2,
+[]
 ],
 [
 "Stereophonic",
-2
+2,
+[]
 ],
 [
 "Out of This World",
-2
+2,
+[]
 ],
 [
 "Good News",
-2
+2,
+[]
 ],
 [
 "Hitchy-Koo",
-2
+2,
+[]
 ],
 [
 "Jamaica",
-2
+2,
+[]
 ],
 [
 "Harrigan 'N Hart",
-2
+2,
+[]
 ],
 [
 "Irene",
-2
+2,
+[]
 ],
 [
 "Is there life after high school?",
-2
+2,
+[]
 ],
 [
 "Lend an Ear",
-2
+2,
+[]
 ],
 [
 "Princess Flavia",
-2
+2,
+[]
 ],
 [
 "The Pink Lady",
-2
+2,
+[]
 ],
 [
 "Rosalie",
-2
+2,
+[]
 ],
 [
 "Soul Doctor",
-2
+2,
+[]
 ],
 [
 "Make It Snappy",
-2
+2,
+[]
 ],
 [
 "Roza",
-2
+2,
+[]
 ],
 [
 "Holler If Ya Hear Me (musical)",
-2
+2,
+[]
 ],
 [
 "Chin Chin",
-2
+2,
+[]
 ],
 [
 "Flahooley",
-2
+2,
+[]
 ],
 [
 "Criss Cross",
-2
+2,
+[]
 ],
 [
 "Jumbo",
-2
+2,
+[]
 ],
 [
 "The Yankee Prince",
-2
+2,
+[]
 ],
 [
 "Mexican Hayride",
-2
+2,
+[]
 ],
 [
 "My One and Only",
-2
+2,
+[]
 ],
 [
 "Love O' Mike",
-2
+2,
+[]
 ],
 [
 "Seventeen",
-2
+2,
+[]
 ],
 [
 "Americana",
-2
+2,
+[]
 ],
 [
 "Bright Star",
-2
+2,
+[]
 ],
 [
 "Poor Little Ritz Girl",
-2
+2,
+[]
 ],
 [
 "Shuffle Along, or, the Making of the Musical Sensation of 1921 and All That Followed",
-2
+2,
+[]
 ],
 [
 "Cyrano: The Musical",
-2
+2,
+[]
 ],
 [
 "110 in the Shade",
-2
+2,
+[]
 ],
 [
 "Evangeline",
-2
+2,
+[
+"Rice's Beautiful Evangeline",
+"The Belle of Acadia"
+]
 ],
 [
 "Good Times",
-2
+2,
+[]
 ],
 [
 "Tangerine",
-2
+2,
+[]
 ],
 [
 "Bitter Sweet",
-2
+2,
+[]
 ],
 [
 "The Midnight Sons",
-2
+2,
+[]
 ],
 [
 "First Impressions",
-2
+2,
+[]
 ],
 [
 "Justice",
-2
+2,
+[]
 ],
 [
 "The Golden Apple",
-2
+2,
+[]
 ],
 [
 "Her Little Highness",
-2
+2,
+[]
 ],
 [
 "Il paese dei campanelli",
-2
+2,
+[]
 ],
 [
 "Park Avenue",
-2
+2,
+[]
 ],
 [
 "Ziegfeld Follies of 1936",
-2
+2,
+[]
 ],
 [
 "Lute Song",
-2
+2,
+[]
 ],
 [
 "Marinka",
-2
+2,
+[]
 ],
 [
 "70, Girls, 70",
-2
+2,
+[]
 ],
 [
 "A Chinese Honeymoon",
-2
+2,
+[]
 ],
 [
 "A Connecticut Yankee",
-2
+2,
+[]
 ],
 [
 "A Country Girl",
-2
+2,
+[]
 ],
 [
 "A Greek Slave",
-2
+2,
+[]
 ],
 [
 "A Party with Betty Comden and Adolph Green",
-2
+2,
+[]
 ],
 [
 "A Princess of Kensington",
-2
+2,
+[]
 ],
 [
 "A Tree Grows in Brooklyn",
-2
+2,
+[]
 ],
 [
 "Ain't Supposed to Die a Natural Death",
-2
+2,
+[]
 ],
 [
 "Amilie, or the Love Test",
-2
+2,
+[]
 ],
 [
 "At the Drop of a Hat",
-2
+2,
+[]
 ],
 [
 "Baby",
-2
+2,
+[]
 ],
 [
 "Baker Street",
-2
+2,
+[]
 ],
 [
 "Ballroom",
-2
+2,
+[]
 ],
 [
 "Ben-Hur",
-2
+2,
+[]
 ],
 [
 "Big (musical)",
-2
+2,
+[
+"Big The Musical"
+]
 ],
 [
 "Bloody Bloody Andrew Jackson",
-2
+2,
+[]
 ],
 [
 "Bloomer Girl",
-2
+2,
+[]
 ],
 [
 "Bombay Dreams",
-2
+2,
+[]
 ],
 [
 "Bravo Giovanni",
-2
+2,
+[]
 ],
 [
 "Bugs Bunny on Broadway",
-2
+2,
+[]
 ],
 [
 "Captain Jinks of the Horse Marines",
-2
+2,
+[
+"Captain Jinks of the Horse Marines : a romantic comedy in music in three acts by Jack Beeson"
+]
 ],
 [
 "Caroline, or Change",
-2
+2,
+[]
 ],
 [
 "Chris and the Wonderful Lamp",
-2
+2,
+[]
 ],
 [
 "Conversation Piece",
-2
+2,
+[]
 ],
 [
 "Dames at Sea",
-2
+2,
+[]
 ],
 [
 "Dearest Enemy",
-2
+2,
+[]
 ],
 [
 "Do I Hear a Waltz?",
-2
+2,
+[]
 ],
 [
 "Do Re Mi",
-2
+2,
+[]
 ],
 [
 "Don't Bother Me, I Can't Cope",
-2
+2,
+[]
 ],
 [
 "Don't Play Us Cheap",
-2
+2,
+[]
 ],
 [
 "Dream City",
-2
+2,
+[]
 ],
 [
 "Five Guys Named Moe",
-2
+2,
+[]
 ],
 [
 "Flora the Red Menace",
-2
+2,
+[]
 ],
 [
 "The Casino Girl",
-2
+2,
+[]
 ],
 [
 "The Transposed Heads",
-2
+2,
+[]
 ],
 [
 "Going Up",
-2
+2,
+[]
 ],
 [
 "Goodtime Charley",
-2
+2,
+[]
 ],
 [
 "Hallelujah, Baby!",
-2
+2,
+[]
 ],
 [
 "Hold Everything!",
-2
+2,
+[]
 ],
 [
 "I Killed the Count",
-2
+2,
+[]
 ],
 [
 "Jackpot",
-2
+2,
+[]
 ],
 [
 "The Sultan of Sulu",
-2
+2,
+[]
 ],
 [
 "Jimmy Shine",
-2
+2,
+[]
 ],
 [
 "Johnny Johnson",
-2
+2,
+[]
 ],
 [
 "Kat and the Kings",
-2
+2,
+[]
 ],
 [
 "King David",
-2
+2,
+[]
 ],
 [
 "King Kong",
-2
+2,
+[]
 ],
 [
 "La Plume de Ma Tante",
-2
+2,
+[]
 ],
 [
 "Leave It to Jane",
-2
+2,
+[]
 ],
 [
 "Lennon",
-2
+2,
+[]
 ],
 [
 "Li'l Abner",
-2
+2,
+[]
 ],
 [
 "Lilac Domino",
-2
+2,
+[]
 ],
 [
 "The Ham Tree",
-2
+2,
+[]
 ],
 [
 "Little House on the Prairie",
-2
+2,
+[
+"the Little House on the Prairie musical"
+]
 ],
 [
 "Little Nellie Kelly",
-2
+2,
+[]
 ],
 [
 "Lorelei",
-2
+2,
+[]
 ],
 [
 "Lovely Ladies, Kind Gentlemen",
-2
+2,
+[]
 ],
 [
 "Magdalena: a Musical Adventure",
-2
+2,
+[]
 ],
 [
 "Marriage a la Carte",
-2
+2,
+[]
 ],
 [
 "Mayor",
-2
+2,
+[]
 ],
 [
 "Maytime",
-2
+2,
+[]
 ],
 [
 "Merlin",
-2
+2,
+[]
 ],
 [
 "Mlle. Modiste",
-2
+2,
+[]
 ],
 [
 "Movin' Out",
-2
+2,
+[]
 ],
 [
 "Nell Gwynne",
-2
+2,
+[]
 ],
 [
 "Oh, Coward!",
-2
+2,
+[]
 ],
 [
 "Oh, Lady! Lady!!",
-2
+2,
+[]
 ],
 [
 "Over Here!",
-2
+2,
+[]
 ],
 [
 "Pickwick",
-2
+2,
+[]
 ],
 [
 "Plain and Fancy",
-2
+2,
+[]
 ],
 [
 "Robinson Crusoe, Jr.",
-2
+2,
+[]
 ],
 [
 "Romance/Romance",
-2
+2,
+[]
 ],
 [
 "Sail Away",
-2
+2,
+[]
 ],
 [
 "San Toy",
-2
+2,
+[]
 ],
 [
 "Santa Maria",
-2
+2,
+[]
 ],
 [
 "See America First",
-2
+2,
+[]
 ],
 [
 "Shinbone Alley",
-2
+2,
+[
+"archy & mehitabel"
+]
 ],
 [
 "Side by Side by Sondheim",
-2
+2,
+[]
 ],
 [
 "Skyscraper",
-2
+2,
+[]
 ],
 [
 "Songbook",
-2
+2,
+[
+"The Moony Shapiro Songbook"
+]
 ],
 [
 "Sons o' Fun",
-2
+2,
+[]
 ],
 [
 "State Fair",
-2
+2,
+[]
 ],
 [
 "A Stubborn Cinderella",
-2
+2,
+[
+"Stubborn Cinderella"
+]
 ],
 [
 "Sweet Adeline",
-2
+2,
+[]
 ],
 [
 "Teddy & Alice",
-2
+2,
+[]
 ],
 [
 "The Apple Tree",
-2
+2,
+[]
 ],
 [
 "The Belle of Mayfair",
-2
+2,
+[]
 ],
 [
 "The Belle of New York",
-2
+2,
+[]
 ],
 [
 "The Blue Paradise",
-2
+2,
+[]
 ],
 [
 "The Catch of the Season",
-2
+2,
+[]
 ],
 [
 "The Cingalee",
-2
+2,
+[
+"Cingalee",
+"Sunny Ceylon",
+"The Cingalee, or Sunny Ceylon"
+]
 ],
 [
 "The Dollar Princess",
-2
+2,
+[]
 ],
 [
 "The Duchess of Dantzic",
-2
+2,
+[]
 ],
 [
 "The Earl and the Girl",
-2
+2,
+[]
 ],
 [
 "The Emerald Isle",
-2
+2,
+[]
 ],
 [
 "The Firefly",
-2
+2,
+[]
 ],
 [
 "The Five O'Clock Girl",
-2
+2,
+[]
 ],
 [
 "The Fortune Teller",
-2
+2,
+[]
 ],
 [
 "The Gay Parisienne",
-2
+2,
+[
+"The Girl from Paris"
+]
 ],
 [
 "The Girl Who Came to Supper",
-2
+2,
+[]
 ],
 [
 "The Girl from Utah",
-2
+2,
+[]
 ],
 [
 "The Girls of Gottenberg",
-2
+2,
+[]
 ],
 [
 "The Gospel at Colonus",
-2
+2,
+[]
 ],
 [
 "The Grand Tour",
-2
+2,
+[]
 ],
 [
 "The Happy Time",
-2
+2,
+[]
 ],
 [
 "The Impossible Years",
-2
+2,
+[
+"Impossible Years"
+]
 ],
 [
 "The Little Show",
-2
+2,
+[]
 ],
 [
 "The Messenger Boy",
-2
+2,
+[]
 ],
 [
 "The Monks of Malabar",
-2
+2,
+[]
 ],
 [
 "The Orchid",
-2
+2,
+[]
 ],
 [
 "The Passing Show of 1916",
-2
+2,
+[]
 ],
 [
 "The Passing Show of 1918",
-2
+2,
+[]
 ],
 [
 "The Rose of Persia",
-2
+2,
+[]
 ],
 [
 "The Rothschilds",
-2
+2,
+[]
 ],
 [
 "The Secret Garden",
-2
+2,
+[]
 ],
 [
 "The Serenade",
-2
+2,
+[]
 ],
 [
 "The Tap Dance Kid",
-2
+2,
+[]
 ],
 [
 "The Wedding Singer",
-2
+2,
+[]
 ],
 [
 "Thomas and Sally",
-2
+2,
+[
+"Thomas and Sally, or The Sailor's Return"
+]
 ],
 [
 "Thou Shalt Not",
-2
+2,
+[]
 ],
 [
 "Timbuktu!",
-2
+2,
+[]
 ],
 [
 "Top Banana",
-2
+2,
+[]
 ],
 [
 "Town Topics",
-2
+2,
+[
+"Ned Wayburn's Town Topics"
+]
 ],
 [
 "Two Gentlemen of Verona",
-2
+2,
+[]
 ],
 [
 "Urban Cowboy",
-2
+2,
+[]
 ],
 [
 "Very Good Eddie",
-2
+2,
+[]
 ],
 [
 "Madeleine",
-2
+2,
+[]
 ],
 [
 "Woman of the Year",
-2
+2,
+[]
 ],
 [
 "Women on the Verge of a Nervous Breakdown",
-2
+2,
+[]
 ],
 [
 "Wonderland",
-2
+2,
+[
+"Wonderland: Alice's New Musical Adventure",
+"Wonderland: A New Alice"
+]
 ],
 [
 "Yip Yip Yaphank",
-2
+2,
+[]
 ],
 [
 "You Never Know",
-2
+2,
+[]
 ],
 [
 "The Sho-Gun",
-2
+2,
+[
+"The Shogun"
+]
 ],
 [
 "Bells Are Ringing",
-2
+2,
+[]
 ],
 [
 "High Fidelity",
-2
+2,
+[]
 ],
 [
 "Hoity Toity",
-1
+1,
+[
+"Hoity-Toity"
+]
 ],
 [
 "The Man in the Moon",
-1
+1,
+[]
 ],
 [
 "Pretty Mrs. Smith",
-1
+1,
+[]
 ],
 [
 "The Burgomaster",
-1
+1,
+[]
 ],
 [
 "King Dodo",
-1
+1,
+[]
 ],
 [
 "Little Simplicity",
-1
+1,
+[]
 ],
 [
 "So Long Letty",
-1
+1,
+[]
 ],
 [
 "George White's Scandals of 1922",
-1
+1,
+[]
 ],
 [
 "Mary of Magdala",
-1
+1,
+[]
 ],
 [
 "The Girl Behind the Gun",
-1
+1,
+[]
 ],
 [
 "Bankers and Brokers",
-1
+1,
+[]
 ],
 [
 "Have a Heart",
-1
+1,
+[]
 ],
 [
 "Head Over Heels",
-1
+1,
+[]
 ],
 [
 "Madame Sherry",
-1
+1,
+[]
 ],
 [
 "The Chaperons",
-1
+1,
+[]
 ],
 [
 "Saravá",
-1
+1,
+[]
 ],
 [
 "The Passing Show of 1914",
-1
+1,
+[]
 ],
 [
 "Rainbow",
-1
+1,
+[]
 ],
 [
 "The White Hen",
-1
+1,
+[
+"The Girl from Vienna"
+]
 ],
 [
 "Water for Elephants",
-1
+1,
+[]
 ],
 [
 "Piff! Paff!! Pouf!!!",
-1
+1,
+[]
 ],
 [
 "The Century Revue",
-1
+1,
+[]
 ],
 [
 "Tommy Rot",
-1
+1,
+[]
 ],
 [
 "Illinoise",
-1
+1,
+[]
 ],
 [
 "Lord Piccolo",
-1
+1,
+[
+"Little Boy Blue"
+]
 ],
 [
 "The Queen of Versailles",
-1
+1,
+[]
 ],
 [
 "Two's Company",
-1
+1,
+[]
 ],
 [
 "Smash",
-1
+1,
+[]
 ],
 [
 "Marie Christine",
-1
+1,
+[]
 ],
 [
 "Rob Roy",
-1
+1,
+[]
 ],
 [
 "Take It from Me",
-1
+1,
+[]
 ],
 [
 "Peggy from Paris",
-1
+1,
+[]
 ],
 [
 "The Wall Street Girl",
-1
+1,
+[]
 ],
 [
 "A Hot Old Time",
-1
+1,
+[
+"Hot Old Time"
+]
 ],
 [
 "Sweet Anne Page",
-1
+1,
+[]
 ],
 [
 "The White Horse Inn",
-1
+1,
+[]
 ],
 [
 "Man on the Moon",
-1
+1,
+[]
 ],
 [
 "House of Flowers",
-1
+1,
+[]
 ],
 [
 "Music Is",
-1
+1,
+[]
 ],
 [
 "The Girl in the Taxi",
-1
+1,
+[]
 ],
 [
 "A Catered Affair",
-1
+1,
+[]
 ],
 [
 "Happy Days",
-1
+1,
+[]
 ],
 [
 "I'm Solomon",
-1
+1,
+[]
 ],
 [
 "The Wild Party",
-1
+1,
+[]
 ],
 [
 "After Midnight",
-1
+1,
+[]
 ],
 [
 "A Doll's Life",
-1
+1,
+[]
 ],
 [
 "Everybody's Welcome",
-1
+1,
+[]
 ],
 [
 "The Goodbye Girl",
-1
+1,
+[]
 ],
 [
 "Hands on a Hardbody",
-1
+1,
+[]
 ],
 [
 "High Society",
-1
+1,
+[]
 ],
 [
 "Home Sweet Homer",
-1
+1,
+[]
 ],
 [
 "John Henry",
-1
+1,
+[]
 ],
 [
 "Make a Wish",
-1
+1,
+[]
 ],
 [
 "Raggedy Ann",
-1
+1,
+[
+"Rag Dolly"
+]
 ],
 [
 "Take a Chance",
-1
+1,
+[]
 ],
 [
 "Very Warm for May",
-1
+1,
+[]
 ],
 [
 "Via Galactica",
-1
+1,
+[]
 ],
 [
 "Ipi Tombi",
-1
+1,
+[
+"Ipi N'tombi",
+"The Warrior"
+]
 ],
 [
 "Hold On to Your Hats",
-1
+1,
+[]
 ],
 [
 "La Belle Paree",
-1
+1,
+[]
 ],
 [
 "Laffing Room Only",
-1
+1,
+[]
 ],
 [
 "Ziegfeld Follies of 1913",
-1
+1,
+[]
 ],
 [
 "Sometime",
-1
+1,
+[]
 ],
 [
 "Ziegfeld Follies of 1922",
-1
+1,
+[]
 ],
 [
 "Lollipop",
-1
+1,
+[]
 ],
 [
 "The Bunch and Judy",
-1
+1,
+[]
 ],
 [
 "Into the Light",
-1
+1,
+[]
 ],
 [
 "Ripples",
-1
+1,
+[]
 ],
 [
 "Stepping Stones",
-1
+1,
+[]
 ],
 [
 "A Night with Janis Joplin",
-1
+1,
+[]
 ],
 [
 "Love Birds",
-1
+1,
+[]
 ],
 [
 "The Great Waltz",
-1
+1,
+[]
 ],
 [
 "The Crinoline Girl",
-1
+1,
+[]
 ],
 [
 "Primitive Mysteries",
-1
+1,
+[]
 ],
 [
 "Three's a Crowd",
-1
+1,
+[]
 ],
 [
 "Holiday Inn",
-1
+1,
+[]
 ],
 [
 "Thumbs Up!",
-1
+1,
+[]
 ],
 [
 "In Transit",
-1
+1,
+[]
 ],
 [
 "Doctor Dolittle",
-1
+1,
+[
+"Doctor Dolittle (musical)"
+]
 ],
 [
 "Here Lies Love",
-1
+1,
+[]
 ],
 [
 "Up in Central Park",
-1
+1,
+[]
 ],
 [
 "Ziegfeld Follies of 1911",
-1
+1,
+[]
 ],
 [
 "Ziegfeld Follies of 1912",
-1
+1,
+[]
 ],
 [
 "Ziegfeld Follies of 1916",
-1
+1,
+[]
 ],
 [
 "Ziegfeld Follies of 1920",
-1
+1,
+[]
 ],
 [
 "Ziegfeld Follies of 1927",
-1
+1,
+[]
 ],
 [
 "Ziegfeld Follies of 1934",
-1
+1,
+[]
 ],
 [
 "Ziegfeld Follies of 1943",
-1
+1,
+[]
 ],
 [
 "A Broadway Musical",
-1
+1,
+[]
 ],
 [
 "A Class Act",
-1
+1,
+[]
 ],
 [
 "A Joyful Noise",
-1
+1,
+[]
 ],
 [
 "A Kurt Weill Cabaret",
-1
+1,
+[]
 ],
 [
 "A Night in Spain",
-1
+1,
+[]
 ],
 [
 "A Time for Singing",
-1
+1,
+[]
 ],
 [
 "A Wonderful Life",
-1
+1,
+[]
 ],
 [
 "A Year with Frog and Toad",
-1
+1,
+[]
 ],
 [
 "Afgar",
-1
+1,
+[]
 ],
 [
 "All American",
-1
+1,
+[]
 ],
 [
 "America's Sweetheart",
-1
+1,
+[]
 ],
 [
 "An Evening with Jerry Herman",
-1
+1,
+[]
 ],
 [
 "And the World Goes 'Round",
-1
+1,
+[]
 ],
 [
 "Anya",
-1
+1,
+[]
 ],
 [
 "Are You With It?",
-1
+1,
+[]
 ],
 [
 "As Thousands Cheer",
-1
+1,
+[]
 ],
 [
 "As the Girls Go",
-1
+1,
+[]
 ],
 [
 "At Home Abroad",
-1
+1,
+[]
 ],
 [
 "At the Drop of Another Hat",
-1
+1,
+[]
 ],
 [
 "Baby It's You!",
-1
+1,
+[]
 ],
 [
 "Bajour",
-1
+1,
+[]
 ],
 [
 "Memphis Bound!",
-1
+1,
+[
+"Memphis Bound"
+]
 ],
 [
 "Between the Devil",
-1
+1,
+[]
 ],
 [
 "Bianca",
-1
+1,
+[]
 ],
 [
 "Billion Dollar Baby",
-1
+1,
+[]
 ],
 [
 "Billy Bishop Goes to War",
-1
+1,
+[]
 ],
 [
 "Black and Blue",
-1
+1,
+[]
 ],
 [
 "Bright Lights of 1944",
-1
+1,
+[]
 ],
 [
 "Bring Back Birdie",
-1
+1,
+[]
 ],
 [
 "But Never Jam Today",
-1
+1,
+[]
 ],
 [
 "By Jupiter",
-1
+1,
+[]
 ],
 [
 "By the Beautiful Sea",
-1
+1,
+[]
 ],
 [
 "Canterbury Tales",
-1
+1,
+[]
 ],
 [
 "Carmelina",
-1
+1,
+[]
 ],
 [
 "Carnival in Flanders",
-1
+1,
+[]
 ],
 [
 "Castles in the Air",
-1
+1,
+[]
 ],
 [
 "Celebration",
-1
+1,
+[]
 ],
 [
 "Charlie and Algernon",
-1
+1,
+[]
 ],
 [
 "Chita Rivera: The Dancer's Life",
-1
+1,
+[]
 ],
 [
 "Chronicle of a Death Foretold",
-1
+1,
+[]
 ],
 [
 "Chu Chem",
-1
+1,
+[]
 ],
 [
 "Copperfield",
-1
+1,
+[]
 ],
 [
 "Cry for Us All",
-1
+1,
+[]
 ],
 [
 "Dance a Little Closer",
-1
+1,
+[]
 ],
 [
 "Dance with Me",
-1
+1,
+[]
 ],
 [
 "Darling of the Day",
-1
+1,
+[]
 ],
 [
 "Destry Rides Again",
-1
+1,
+[]
 ],
 [
 "Different Times",
-1
+1,
+[]
 ],
 [
 "Don't Step on My Olive Branch",
-1
+1,
+[]
 ],
 [
 "Donnybrook!",
-1
+1,
+[]
 ],
 [
 "Doonesbury",
-1
+1,
+[
+"Doonesbury: A Musical comedy",
+"Doonesbury: The Musical"
+]
 ],
 [
 "Drat! The Cat!",
-1
+1,
+[]
 ],
 [
 "Dude",
-1
+1,
+[
+"Dude: The Highway Life"
+]
 ],
 [
 "Mr. Bluebeard",
-1
+1,
+[]
 ],
 [
 "Face the Music",
-1
+1,
+[]
 ],
 [
 "Fade Out – Fade In",
-1
+1,
+[]
 ],
 [
 "Floyd Collins",
-1
+1,
+[]
 ],
 [
 "Flying Colors",
-1
+1,
+[]
 ],
 [
 "Flying High",
-1
+1,
+[]
 ],
 [
 "Follow Thru",
-1
+1,
+[]
 ],
 [
 "Follow the Girls",
-1
+1,
+[]
 ],
 [
 "The Doctor of Alcantara",
-1
+1,
+[]
 ],
 [
 "The Ameer",
-1
+1,
+[]
 ],
 [
 "A Reign of Error",
-1
+1,
+[]
 ],
 [
 "Gantry",
-1
+1,
+[]
 ],
 [
 "George M!",
-1
+1,
+[]
 ],
 [
 "Golden Boy",
-1
+1,
+[]
 ],
 [
 "Golden Rainbow",
-1
+1,
+[]
 ],
 [
 "Goldilocks",
-1
+1,
+[]
 ],
 [
 "Good Vibrations",
-1
+1,
+[]
 ],
 [
 "Greenwillow",
-1
+1,
+[]
 ],
 [
 "Grind",
-1
+1,
+[]
 ],
 [
 "Happy New Year",
-1
+1,
+[]
 ],
 [
 "Havana",
-1
+1,
+[]
 ],
 [
 "Hazel Flagg",
-1
+1,
+[]
 ],
 [
 "Henry, Sweet Henry",
-1
+1,
+[]
 ],
 [
 "Her First Roman",
-1
+1,
+[]
 ],
 [
 "Here's Where I Belong",
-1
+1,
+[]
 ],
 [
 "High Spirits",
-1
+1,
+[]
 ],
 [
 "Higher and Higher",
-1
+1,
+[]
 ],
 [
 "Hollywood Pinafore",
-1
+1,
+[]
 ],
 [
 "Honeymoon in Vegas",
-1
+1,
+[]
 ],
 [
 "Hooray for What!",
-1
+1,
+[]
 ],
 [
 "Hot Spot",
-1
+1,
+[]
 ],
 [
 "How Now, Dow Jones",
-1
+1,
+[]
 ],
 [
 "I'd Rather Be Right",
-1
+1,
+[]
 ],
 [
 "I Had a Ball",
-1
+1,
+[]
 ],
 [
 "I Married an Angel",
-1
+1,
+[]
 ],
 [
 "I Remember Mama",
-1
+1,
+[]
 ],
 [
 "Inside U.S.A.",
-1
+1,
+[]
 ],
 [
 "Interplay",
-1
+1,
+[]
 ],
 [
 "Jelly's Last Jam",
-1
+1,
+[]
 ],
 [
 "Jennie",
-1
+1,
+[]
 ],
 [
 "Jerry's Girls",
-1
+1,
+[]
 ],
 [
 "John Murray Anderson's Almanac",
-1
+1,
+[]
 ],
 [
 "Juan Darién: A Carnival Mass",
-1
+1,
+[]
 ],
 [
 "Juno",
-1
+1,
+[]
 ],
 [
 "Katinka",
-1
+1,
+[]
 ],
 [
 "Kean",
-1
+1,
+[]
 ],
 [
 "Keep Off the Grass",
-1
+1,
+[]
 ],
 [
 "Kelly",
-1
+1,
+[]
 ],
 [
 "King of Cadonia",
-1
+1,
+[]
 ],
 [
 "King of Hearts",
-1
+1,
+[]
 ],
 [
 "Kissing Time",
-1
+1,
+[]
 ],
 [
 "Kwamina",
-1
+1,
+[]
 ],
 [
 "La Strada",
-1
+1,
+[]
 ],
 [
 "A Letter for Queen Victoria",
-1
+1,
+[]
 ],
 [
 "The Yankee Consul",
-1
+1,
+[]
 ],
 [
 "Leader of the Pack",
-1
+1,
+[]
 ],
 [
 "Leap of Faith",
-1
+1,
+[]
 ],
 [
 "Legs Diamond",
-1
+1,
+[]
 ],
 [
 "Let's Face It!",
-1
+1,
+[]
 ],
 [
 "Let It Ride",
-1
+1,
+[]
 ],
 [
 "Life Begins at 8:40",
-1
+1,
+[]
 ],
 [
 "Look to the Lilies",
-1
+1,
+[]
 ],
 [
 "Louisiana Purchase",
-1
+1,
+[]
 ],
 [
 "Love Life",
-1
+1,
+[]
 ],
 [
 "Maggie Flynn",
-1
+1,
+[]
 ],
 [
 "Marilyn: An American Fable",
-1
+1,
+[]
 ],
 [
 "May Wine",
-1
+1,
+[]
 ],
 [
 "Meet Me in St. Louis",
-1
+1,
+[]
 ],
 [
 "Milk and Honey",
-1
+1,
+[]
 ],
 [
 "Miss Liberty",
-1
+1,
+[]
 ],
 [
 "Molly",
-1
+1,
+[]
 ],
 [
 "Mr. President",
-1
+1,
+[]
 ],
 [
 "Mr. Wonderful",
-1
+1,
+[
+"Mister Wonderful"
+]
 ],
 [
 "Music in the Air",
-1
+1,
+[]
 ],
 [
 "My Favorite Year",
-1
+1,
+[]
 ],
 [
 "My Maryland",
-1
+1,
+[]
 ],
 [
 "The Tenderfoot",
-1
+1,
+[]
 ],
 [
 "Never Gonna Dance",
-1
+1,
+[
+"NEVER GONNA DANCE"
+]
 ],
 [
 "Nick & Nora",
-1
+1,
+[]
 ],
 [
 "No Strings",
-1
+1,
+[]
 ],
 [
 "Oh, Captain!",
-1
+1,
+[]
 ],
 [
 "On the Record",
-1
+1,
+[
+"Disney's On the Record"
+]
 ],
 [
 "One Night Stand",
-1
+1,
+[]
 ],
 [
 "Peggy-Ann",
-1
+1,
+[]
 ],
 [
 "Platinum",
-1
+1,
+[]
 ],
 [
 "Play On!",
-1
+1,
+[]
 ],
 [
 "Portofino",
-1
+1,
+[]
 ],
 [
 "Present Arms",
-1
+1,
+[]
 ],
 [
 "Prince of Central Park",
-1
+1,
+[]
 ],
 [
 "Princess Charming",
-1
+1,
+[]
 ],
 [
 "Somebody's Sweetheart",
-1
+1,
+[]
 ],
 [
 "Everywoman",
-1
+1,
+[
+"Everywoman: Her Pilgrimage in Quest of Love"
+]
 ],
 [
 "Rachael Lily Rosenbloom",
-1
+1,
+[]
 ],
 [
 "Rags",
-1
+1,
+[]
 ],
 [
 "Revenge with Music",
-1
+1,
+[]
 ],
 [
 "Rex",
-1
+1,
+[]
 ],
 [
 "Ring of Fire",
-1
+1,
+[]
 ],
 [
 "Runaways",
-1
+1,
+[]
 ],
 [
 "Saratoga",
-1
+1,
+[]
 ],
 [
 "Say, Darling",
-1
+1,
+[]
 ],
 [
 "Say When",
-1
+1,
+[]
 ],
 [
 "Scandalous: The Life and Trials of Aimee Semple McPherson",
-1
+1,
+[
+"Scandalous"
+]
 ],
 [
 "Set to Music",
-1
+1,
+[]
 ],
 [
 "Seven Brides for Seven Brothers",
-1
+1,
+[]
 ],
 [
 "Sherry!",
-1
+1,
+[]
 ],
 [
 "Shylock",
-1
+1,
+[]
 ],
 [
 "Side Show",
-1
+1,
+[]
 ],
 [
 "Simple Simon",
-1
+1,
+[]
 ],
 [
 "Smile",
-1
+1,
+[]
 ],
 [
 "So Long, 174th Street",
-1
+1,
+[]
 ],
 [
 "Something for the Boys",
-1
+1,
+[]
 ],
 [
 "Sondheim on Sondheim",
-1
+1,
+[]
 ],
 [
 "St. Louis Woman",
-1
+1,
+[]
 ],
 [
 "Steel Pier",
-1
+1,
+[]
 ],
 [
 "Subways Are For Sleeping",
-1
+1,
+[]
 ],
 [
 "Sugar Babies",
-1
+1,
+[]
 ],
 [
 "Aphrodite",
-1
+1,
+[]
 ],
 [
 "Sweet Smell of Success",
-1
+1,
+[]
 ],
 [
 "Swinging on a Star",
-1
+1,
+[]
 ],
 [
 "Tenderloin",
-1
+1,
+[]
 ],
 [
 "The 101 Dalmatians Musical",
-1
+1,
+[]
 ],
 [
 "The Adventures of Tom Sawyer",
-1
+1,
+[]
 ],
 [
 "The Agreeable Surprise",
-1
+1,
+[]
 ],
 [
 "The Balkan Princess",
-1
+1,
+[]
 ],
 [
 "The Ballad of Baby Doe",
-1
+1,
+[]
 ],
 [
 "The Best Little Whorehouse Goes Public",
-1
+1,
+[]
 ],
 [
 "The Better 'Ole",
-1
+1,
+[]
 ],
 [
 "The Billy Barnes Revue",
-1
+1,
+[
+"Billy Barnes Revue"
+]
 ],
 [
 "The Body Beautiful",
-1
+1,
+[]
 ],
 [
 "The Cat and the Fiddle",
-1
+1,
+[]
 ],
 [
 "The Civil War",
-1
+1,
+[]
 ],
 [
 "The Conquering Hero",
-1
+1,
+[]
 ],
 [
 "The Count of Luxembourg",
-1
+1,
+[]
 ],
 [
 "The Day Before Spring",
-1
+1,
+[]
 ],
 [
 "The District Leader",
-1
+1,
+[]
 ],
 [
 "The Dream Girl",
-1
+1,
+[]
 ],
 [
 "The Fig Leaves Are Falling",
-1
+1,
+[]
 ],
 [
 "The Firebrand of Florence",
-1
+1,
+[]
 ],
 [
 "The Gay Life",
-1
+1,
+[]
 ],
 [
 "The Girl Behind the Counter",
-1
+1,
+[]
 ],
 [
 "The Happiest Girl in the World",
-1
+1,
+[]
 ],
 [
 "The Human Comedy",
-1
+1,
+[]
 ],
 [
 "The Life (musical)",
-1
+1,
+[]
 ],
 [
 "The Little Prince and the Aviator",
-1
+1,
+[]
 ],
 [
 "The Magic Knight",
-1
+1,
+[]
 ],
 [
 "The Magic Show",
-1
+1,
+[]
 ],
 [
 "The Maid of the Mountains",
-1
+1,
+[]
 ],
 [
 "The Me Nobody Knows",
-1
+1,
+[]
 ],
 [
 "The Most Happy Fella",
-1
+1,
+[]
 ],
 [
 "The Night That Made America Famous",
-1
+1,
+[]
 ],
 [
 "The Red Shoes",
-1
+1,
+[]
 ],
 [
 "The Robber Bridegroom",
-1
+1,
+[]
 ],
 [
 "The Second Little Show",
-1
+1,
+[
+"Second Little Show"
+]
 ],
 [
 "The Siren",
-1
+1,
+[]
 ],
 [
 "The Spring Chicken",
-1
+1,
+[]
 ],
 [
 "The Story of My Life",
-1
+1,
+[]
 ],
 [
 "The Times They Are A-Changin'",
-1
+1,
+[
+"Times They Are A-Changin'"
+]
 ],
 [
 "The Utter Glory of Morrissey Hall",
-1
+1,
+[]
 ],
 [
 "The Well of Romance",
-1
+1,
+[]
 ],
 [
 "The Zulu and the Zayda",
-1
+1,
+[]
 ],
 [
 "This Year of Grace",
-1
+1,
+[]
 ],
 [
 "Three Wishes for Jamie",
-1
+1,
+[]
 ],
 [
 "[title of show]",
-1
+1,
+[
+"title of show"
+]
 ],
 [
 "To-Night's the Night",
-1
+1,
+[]
 ],
 [
 "Tom Jones",
-1
+1,
+[]
 ],
 [
 "Fantana",
-1
+1,
+[]
 ],
 [
 "Dolly Varden",
-1
+1,
+[]
 ],
 [
 "Jumping Jupiter",
-1
+1,
+[]
 ],
 [
 "Mary's Lamb",
-1
+1,
+[]
 ],
 [
 "Miss Simplicity",
-1
+1,
+[]
 ],
 [
 "Gypsy Love",
-1
+1,
+[]
 ],
 [
 "Twisted",
-1
+1,
+[]
 ],
 [
 "Two for the Show",
-1
+1,
+[]
 ],
 [
 "Two on the Aisle",
-1
+1,
+[]
 ],
 [
 "The American Idea",
-1
+1,
+[]
 ],
 [
 "Aladdin, Jr.",
-1
+1,
+[
+"Aladdin, Jr.: A Tale of a Wonderful Lamp"
+]
 ],
 [
 "Around the Map",
-1
+1,
+[]
 ],
 [
 "By the Sad Sea Waves",
-1
+1,
+[]
 ],
 [
 "Violet",
-1
+1,
+[]
 ],
 [
 "Wake Up and Dream",
-1
+1,
+[]
 ],
 [
 "Walk a Little Faster",
-1
+1,
+[]
 ],
 [
 "Walking Happy",
-1
+1,
+[]
 ],
 [
 "Welcome to the Club",
-1
+1,
+[]
 ],
 [
 "What's Up?",
-1
+1,
+[]
 ],
 [
 "Where's Charley?",
-1
+1,
+[]
 ],
 [
 "Whoop-Up",
-1
+1,
+[]
 ],
 [
 "Wildcat",
-1
+1,
+[]
 ],
 [
 "Miss Dolly Dollars",
-1
+1,
+[]
 ],
 [
 "Wish You Were Here",
-1
+1,
+[]
 ],
 [
 "Working",
-1
+1,
+[]
 ],
 [
 "Your Arms Too Short to Box with God",
-1
+1,
+[]
 ],
 [
 "Zoot Suit",
-1
+1,
+[]
 ],
 [
 "Bright Eyes",
-1
+1,
+[]
 ],
 [
 "The Little Duchess",
-1
+1,
+[]
 ],
 [
 "Mam'selle Napoleon",
-1
+1,
+[]
 ],
 [
 "Foxy",
-1
+1,
+[]
 ],
 [
 "The Notebook",
-1
+1,
+[
+"Notebook"
+]
 ],
 [
 "A Romance of Athlone",
-1
+1,
+[]
 ],
 [
 "The Gingham Girl",
-0
+0,
+[]
 ],
 [
 "Humpty Dumpty",
-0
+0,
+[
+"Humpty‐Dumpty"
+]
 ],
 [
 "Truly Blessed",
-0
+0,
+[
+"Truly Blessed: A Musical Celebration of Mahalia Jackson"
+]
 ],
 [
 "Yours Truly",
-0
+0,
+[]
 ],
 [
 "Kosher Kitty Kelly",
-0
+0,
+[]
 ],
 [
 "Rip Van Winkle",
-0
+0,
+[]
 ],
 [
 "Little Boy Blue",
-0
+0,
+[
+"Little Boy Blue or, Hush-A-Bye Baby and Patty and Her Pitcher"
+]
 ],
 [
 "The Devil and Daniel Webster",
-0
+0,
+[]
 ],
 [
 "Keep Shufflin'",
-0
+0,
+[]
 ],
 [
 "His Honor the Mayor",
-0
+0,
+[]
 ],
 [
 "The Bird Cage",
-0
+0,
+[]
 ],
 [
 "Luckee Girl",
-0
+0,
+[]
 ],
 [
 "Ziegfeld Follies of 1910",
-0
+0,
+[]
 ],
 [
 "Apple Blossoms",
-0
+0,
+[]
 ],
 [
 "The Belle of London Town",
-0
+0,
+[]
 ],
 [
 "A Madcap Princess",
-0
+0,
+[]
 ],
 [
 "The Belle of the West",
-0
+0,
+[]
 ],
 [
 "The Blonde in Black",
-0
+0,
+[]
 ],
 [
 "The Begum",
-0
+0,
+[]
 ],
 [
 "Arizona",
-0
+0,
+[]
 ],
 [
 "Eileen Asthore",
-0
+0,
+[]
 ]
 ]

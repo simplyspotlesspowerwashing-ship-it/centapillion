@@ -70,3 +70,162 @@ Lingerie
 Nightgown
 Slip
 Garter
+Corduroys
+Pinafore
+Apron
+Bathrobe
+Bloomers
+Pantyhose
+Bralette
+Slip
+Half Slip
+Petticoat
+Girdle
+Garter Belt
+Camisole
+Teddy
+Chemise
+Babydoll
+Robe
+Kimono Robe
+Housecoat
+Muumuu
+Caftan
+Sweater Vest
+Twinset
+Jumper
+Pullover
+Crewneck
+V-neck
+Mock Neck
+Polo Neck
+Rugby Shirt
+Jersey
+Football Shirt
+Basketball Jersey
+Tracksuit
+Track Pants
+Windbreaker
+Rain Jacket
+Mac
+Macintosh
+Cagoule
+Shacket
+Overshirt
+Flannel
+Chambray Shirt
+Oxford Shirt
+Hawaiian Shirt
+Aloha Shirt
+Guayabera
+Barong
+Dashiki
+Kurta
+Sherwani
+Salwar Kameez
+Lehenga
+Dhoti
+Lungi
+Mundu
+Sampot
+Longyi
+Batik Shirt
+Kebaya
+Baju Kurung
+Hanfu
+Yukata
+Hakama
+Haori
+Jinbei
+Deel
+Chapan
+Burnous
+Djellaba
+Kandura
+Bisht
+Chador
+Burqa
+Niqab
+Hijab
+Kilt
+Sporran
+Trews
+Breeches
+Jodhpurs
+Plus Fours
+Knickerbockers
+Pedal Pushers
+Clam Diggers
+Gauchos
+Bell-bottoms
+Flares
+Bootcut Jeans
+Skinny Jeans
+Mom Jeans
+Boyfriend Jeans
+Cargo Shorts
+Chino Shorts
+Cycling Shorts
+Bike Shorts
+Running Shorts
+Swim Shorts
+Speedo
+Rash Guard
+Wetsuit
+Drysuit
+Ski Suit
+Snowsuit
+Salopettes
+Flight Suit
+Boiler Suit
+Coveralls
+Scrubs
+Lab Coat
+Chef's Jacket
+Uniform
+School Uniform
+Blazer
+Morning Suit
+Dinner Jacket
+Smoking Jacket
+Cummerbund
+Bow Tie
+Necktie
+Cravat
+Ascot
+Bolo Tie
+Scarf
+Snood
+Neck Gaiter
+Muffler
+Earmuffs
+Mittens
+Gloves
+Gauntlets
+Arm Warmers
+Leg Warmers
+Knee Socks
+Ankle Socks
+Tube Socks
+Toe Socks
+Fishnets
+Stockings
+Thigh-highs
+Garters
+Suspenders
+Braces
+Belt
+Sash
+Obi
+Cummerbund
+Corset
+Waist Cincher
+Shapewear
+Spanx
+Long Johns
+Thermals
+Union Suit
+Onesie
+Footie Pajamas
+Nightshirt
+Nightcap

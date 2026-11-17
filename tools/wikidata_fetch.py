@@ -96,6 +96,7 @@ SPEC = {
     "seacreature": taxon("Q25326", 5),  # molluscs; fish/sharks/whales come from the composite
     "muscle": kinds("Q7365", min=1, deep=True),
     "joint": kinds("Q9644", min=1, deep=True),
+    "spokenlang": {"where": "VALUES ?k { wd:Q34770 wd:Q1288568 wd:Q33742 wd:Q45762 wd:Q33215 wd:Q34228 wd:Q38058796 wd:Q436240 } ?x wdt:P31 ?k ."},  # languages, sign and constructed languages
     "africa": {"where": "?x wdt:P31 wd:Q3624078 ; wdt:P30 wd:Q15 . FILTER NOT EXISTS { ?x wdt:P576 ?end }", "min": 0},
     "asia": {"where": "?x wdt:P31 wd:Q3624078 ; wdt:P30 wd:Q48 . FILTER NOT EXISTS { ?x wdt:P576 ?end }", "min": 0},
     "europe": {"where": "?x wdt:P31 wd:Q3624078 ; wdt:P30 wd:Q46 . FILTER NOT EXISTS { ?x wdt:P576 ?end }", "min": 0},
@@ -211,6 +212,7 @@ PREFIX ps: <http://www.wikidata.org/prop/statement/>
 PREFIX pq: <http://www.wikidata.org/prop/qualifier/>
 PREFIX wikibase: <http://wikiba.se/ontology#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 """
 
 
@@ -228,11 +230,29 @@ def sparql(q, tries=3):
     raise err
 
 
-def query(spec):
-    name = "?cn" if spec.get("common") else "?l"
-    label = "" if spec.get("common") else "?x rdfs:label ?l . FILTER(lang(?l) = 'en')"
-    return ("SELECT DISTINCT ?x %s ?sl WHERE { %s ?x wikibase:sitelinks ?sl . FILTER(?sl >= %d) %s }"
-            % (name, spec["where"], spec["min"], label))
+# Popularity floors. Rarity is ranked afterwards, so obscure items stay in the list (they become
+# Deep Cuts) instead of being dropped. Floors remain only where a class is enormous or noisy.
+FLOOR = {
+    "athlete": 20, "author": 20, "musician": 15, "actor": 20, "nbaplayer": 3, "scientist": 30, "painter": 15, "composer": 10,
+    "uscity": 3, "europecity": 10, "italycity": 0, "germanycity": 5, "chinacity": 5, "japancity": 0,
+    "river": 4, "lake": 3, "island": 3, "mountain": 4, "bridge": 2, "landmark": 8, "disease": 3,
+    "soccerclub": 8, "band": 3, "videogame": 3, "painting": 3, "socialapp": 10, "language": 2, "profession": 3,
+    "sport": 2, "musicgenre": 2, "spokenlang": 2, "currency": 2, "unit": 2, "carbrand": 2, "fashionbrand": 1,
+}
+
+
+def query(spec, pid=None):
+    """One row per item: English name, Wikipedia sitelinks, and every English alias ("also known as")."""
+    floor = FLOOR.get(pid, 0)
+    if spec.get("common"):
+        name = "?x wdt:P1843 ?nm . FILTER(lang(?nm) = 'en')"
+        alias = "OPTIONAL { ?x wdt:P1843 ?al . FILTER(lang(?al) = 'en') }"   # other English common names
+    else:
+        name = "?x rdfs:label ?nm . FILTER(lang(?nm) = 'en')"
+        alias = "OPTIONAL { ?x skos:altLabel ?al . FILTER(lang(?al) = 'en') }"
+    return ("SELECT ?x (SAMPLE(?nm) AS ?n) (MAX(?s0) AS ?sl) (GROUP_CONCAT(DISTINCT ?al; separator=\"|\") AS ?als) WHERE { "
+            "%s ?x wikibase:sitelinks ?s0 . FILTER(?s0 >= %d) %s %s } GROUP BY ?x"
+            % (spec["where"], floor, name, alias))
 
 
 def main():
@@ -247,19 +267,24 @@ def main():
             continue
         t = time.time()
         try:
-            rows = sparql(query(spec))
+            rows = sparql(query(spec, pid))
         except Exception as e:
             print("%-14s FAILED %s" % (pid, e)); continue
-        key = "cn" if spec.get("common") else "l"
         items = {}
         for r in rows:
-            name, sl = r[key]["value"], int(r["sl"]["value"])
-            if name not in items or sl > items[name]:
-                items[name] = sl
-        out = sorted(([n, s] for n, s in items.items()), key=lambda x: -x[1])
+            if "n" not in r:
+                continue
+            name, sl = r["n"]["value"], int(r["sl"]["value"])
+            als = [a for a in r.get("als", {}).get("value", "").split("|") if a and a != name]
+            if name in items:            # same name on two items: keep the better known, merge aliases
+                items[name][0] = max(items[name][0], sl)
+                items[name][1] = sorted(set(items[name][1]) | set(als))
+            else:
+                items[name] = [sl, als]
+        out = sorted(([n, v[0], v[1]] for n, v in items.items()), key=lambda x: -x[1])
         with open(path, "w", encoding="utf-8") as f:
             json.dump(out, f, ensure_ascii=False, indent=0)
-        print("%-14s %5d items  %4.1fs  top: %s" % (pid, len(out), time.time() - t, ", ".join(n for n, _ in out[:4])))
+        print("%-14s %5d items  %4.1fs  top: %s" % (pid, len(out), time.time() - t, ", ".join(x[0] for x in out[:4])))
         time.sleep(1)
 
 

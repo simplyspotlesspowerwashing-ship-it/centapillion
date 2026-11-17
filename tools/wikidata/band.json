@@ -1,1970 +1,5221 @@
 [
 [
 "Paramore",
-143
+143,
+[]
 ],
 [
 "Motörhead",
-139
+139,
+[
+"Motorhead"
+]
 ],
 [
 "Pink Floyd",
-126
+126,
+[
+"The Pink Floyd",
+"The Pink Floyd Sound"
+]
 ],
 [
 "Led Zeppelin",
-120
+120,
+[]
 ],
 [
 "Nirvana",
-115
+115,
+[
+"The Nirvana Ensemble"
+]
 ],
 [
 "Deep Purple",
-88
+88,
+[]
 ],
 [
 "Aerosmith",
-84
+84,
+[]
 ],
 [
 "Scorpions",
-79
+79,
+[]
 ],
 [
 "Oasis",
-79
+79,
+[]
 ],
 [
 "Pussy Riot",
-79
+79,
+[]
 ],
 [
 "The Clash",
-76
+76,
+[
+"Clash"
+]
 ],
 [
 "Pearl Jam",
-76
+76,
+[
+"Mookie Blaylock",
+"PJ"
+]
 ],
 [
 "The Velvet Underground",
-74
+74,
+[
+"The Velvets",
+"Velvet Underground"
+]
 ],
 [
 "Evanescence",
-73
+73,
+[]
 ],
 [
 "R.E.M.",
-70
+70,
+[
+"Bingo Hand Job",
+"Hornets Attack Victor Mature",
+"It Crawled from the South",
+"R E M",
+"R. E. M.",
+"REM",
+"Twisted Kites"
+]
 ],
 [
 "Foo Fighters",
-66
+66,
+[]
 ],
 [
 "Nickelback",
-66
+66,
+[]
 ],
 [
 "Alice in Chains",
-66
+66,
+[]
 ],
 [
 "Soundgarden",
-65
+65,
+[
+"Nudedragons"
+]
 ],
 [
 "The Police",
-64
+64,
+[
+"Police"
+]
 ],
 [
 "The White Stripes",
-63
+63,
+[
+"White Stripes"
+]
 ],
 [
 "Uriah Heep",
-62
+62,
+[]
 ],
 [
 "Deftones",
-62
+62,
+[]
 ],
 [
 "The Smashing Pumpkins",
-61
+61,
+[
+"Smashing Pumpkins",
+"TSP"
+]
 ],
 [
 "Imagine Dragons",
-61
+61,
+[]
 ],
 [
 "The Smiths",
-60
+60,
+[
+"Smiths"
+]
 ],
 [
 "Florence + the Machine",
-59
+59,
+[
+"FATM",
+"Florence and the Machine",
+"Florence And The Machine",
+"Florence & the Machine",
+"F+TM"
+]
 ],
 [
 "The Rasmus",
-59
+59,
+[
+"Rasmus"
+]
 ],
 [
 "HIM",
-58
+58,
+[
+"HER",
+"H.I.M.",
+"His Infernal Majesty",
+"Thulsa D"
+]
 ],
 [
 "Talking Heads",
-57
+57,
+[]
 ],
 [
 "Jethro Tull",
-56
+56,
+[
+"Tull"
+]
 ],
 [
 "The Strokes",
-56
+56,
+[]
 ],
 [
 "King Crimson",
-55
+55,
+[]
 ],
 [
 "Toto",
-54
+54,
+[]
 ],
 [
 "Weezer",
-53
+53,
+[]
 ],
 [
 "Three Days Grace",
-52
+52,
+[
+"3 Days Grace",
+"3DG",
+"Groundswell",
+"TDG"
+]
 ],
 [
 "New Order",
-50
+50,
+[]
 ],
 [
 "Marilyn Manson",
-50
+50,
+[
+"Marilyn Manson and the Spooky Kids",
+"Marilyn Manson & the Spooky Kids"
+]
 ],
 [
 "Kreator",
-47
+47,
+[]
 ],
 [
 "Dark Tranquillity",
-47
+47,
+[]
 ],
 [
 "Audioslave",
-47
+47,
+[]
 ],
 [
 "DragonForce",
-46
+46,
+[
+"Dragon Force"
+]
 ],
 [
 "Emerson, Lake & Palmer",
-45
+45,
+[
+"EL&P",
+"ELP",
+"Emerson, Lake and Palmer",
+"Emerson Lake & Palmer",
+"Emmerson, Lake & Palmer",
+"Fab Three",
+"Keith, Greg and Carl",
+"The Lads from Croydon"
+]
 ],
 [
 "Santana",
-44
+44,
+[]
 ],
 [
 "Travis",
-43
+43,
+[]
 ],
 [
 "Bloc Party",
-43
+43,
+[]
 ],
 [
 "Godsmack",
-43
+43,
+[]
 ],
 [
 "The Stone Roses",
-42
+42,
+[
+"Stone Roses"
+]
 ],
 [
 "Ensiferum",
-41
+41,
+[]
 ],
 [
 "Breaking Benjamin",
-41
+41,
+[]
 ],
 [
 "T. Rex",
-40
+40,
+[]
 ],
 [
 "Die Toten Hosen",
-40
+40,
+[
+"Toten Hosen"
+]
 ],
 [
 "Hole",
-40
+40,
+[]
 ],
 [
 "Echo & the Bunnymen",
-40
+40,
+[
+"Bunnymen",
+"Echo and the Bunnymen"
+]
 ],
 [
 "Rise Against",
-39
+39,
+[
+"Transistor Revolt"
+]
 ],
 [
 "Stone Temple Pilots",
-39
+39,
+[
+"Mighty Joe Young",
+"STP"
+]
 ],
 [
 "Kamelot",
-39
+39,
+[]
 ],
 [
 "Nazareth",
-39
+39,
+[]
 ],
 [
 "OK Go",
-39
+39,
+[]
 ],
 [
 "Soulfly",
-38
+38,
+[]
 ],
 [
 "Kansas",
-38
+38,
+[]
 ],
 [
 "Twisted Sister",
-38
+38,
+[]
 ],
 [
 "Seether",
-38
+38,
+[
+"Saron Gas"
+]
 ],
 [
 "Black Flag",
-38
+38,
+[]
 ],
 [
 "Steppenwolf",
-38
+38,
+[]
 ],
 [
 "Talk Talk",
-38
+38,
+[]
 ],
 [
 "Noir Désir",
-37
+37,
+[
+"Noir Desir"
+]
 ],
 [
 "Aria",
-37
+37,
+[]
 ],
 [
 "Smokie",
-37
+37,
+[
+"Smokey"
+]
 ],
 [
 "Suede",
-36
+36,
+[
+"London Suede",
+"The London Suede"
+]
 ],
 [
 "Half Japanese",
-36
+36,
+[
+"1/2 Japanese"
+]
 ],
 [
 "Heart",
-36
+36,
+[]
 ],
 [
 "Survivor",
-35
+35,
+[]
 ],
 [
 "Staind",
-35
+35,
+[]
 ],
 [
 "Stone Sour",
-35
+35,
+[]
 ],
 [
 "The Cars",
-35
+35,
+[]
 ],
 [
 "Traffic",
-34
+34,
+[]
 ],
 [
 "The Jam",
-34
+34,
+[]
 ],
 [
 "Yellowcard",
-33
+33,
+[]
 ],
 [
 "The Hu",
-33
+33,
+[
+"Hu",
+"Hu Band",
+"TheHu",
+"The Hu Band"
+]
 ],
 [
 "Rotting Christ",
-33
+33,
+[]
 ],
 [
 "Band-Maid",
-32
+32,
+[
+"Band Maid",
+"BandMaid",
+"Band-Maiko"
+]
 ],
 [
 "The Warning",
-32
+32,
+[]
 ],
 [
 "Small Faces",
-32
+32,
+[]
 ],
 [
 "Blind Channel",
-32
+32,
+[]
 ],
 [
 "Rancid",
-32
+32,
+[]
 ],
 [
 "Iron Butterfly",
-32
+32,
+[]
 ],
 [
 "Eagles of Death Metal",
-31
+31,
+[]
 ],
 [
 "Suicide Silence",
-31
+31,
+[]
 ],
 [
 "Midnight Oil",
-31
+31,
+[
+"The Oils"
+]
 ],
 [
 "Annihilator",
-31
+31,
+[]
 ],
 [
 "Styx",
-31
+31,
+[]
 ],
 [
 "Switchfoot",
-31
+31,
+[]
 ],
 [
 "Chumbawamba",
-30
+30,
+[]
 ],
 [
 "Killing Joke",
-30
+30,
+[]
 ],
 [
 "Parkway Drive",
-30
+30,
+[]
 ],
 [
 "The Doobie Brothers",
-30
+30,
+[
+"Doobie Brothers"
+]
 ],
 [
 "Goo Goo Dolls",
-30
+30,
+[
+"The Goo Goo Dolls"
+]
 ],
 [
 "Sevendust",
-30
+30,
+[]
 ],
 [
 "The Exploited",
-29
+29,
+[
+"Exploited"
+]
 ],
 [
 "KMFDM",
-29
+29,
+[
+"Kein Mehrheit für die Mitleid"
+]
 ],
 [
 "Hawkwind",
-29
+29,
+[
+"Hawkwind Zoo"
+]
 ],
 [
 "Ministry",
-29
+29,
+[]
 ],
 [
 "F.T. Island",
-29
+29,
+[
+"Five Treasure Island"
+]
 ],
 [
 "The Calling",
-29
+29,
+[]
 ],
 [
 "Aphrodite's Child",
-29
+29,
+[]
 ],
 [
 "Sparks",
-28
+28,
+[
+"Halfnelson",
+"The Sparks"
+]
 ],
 [
 "Wishbone Ash",
-28
+28,
+[]
 ],
 [
 "Sirenia",
-28
+28,
+[]
 ],
 [
 "Smash Mouth",
-28
+28,
+[]
 ],
 [
 "Daughtry",
-28
+28,
+[]
 ],
 [
 "Pertti Kurikan Nimipäivät",
-27
+27,
+[]
 ],
 [
 "Tom Petty and the Heartbreakers",
-27
+27,
+[]
 ],
 [
 "Free",
-27
+27,
+[]
 ],
 [
 "Soul Asylum",
-27
+27,
+[]
 ],
 [
 "Lady Pank",
-27
+27,
+[]
 ],
 [
 "Norther",
-27
+27,
+[]
 ],
 [
 "Rascal Flatts",
-27
+27,
+[]
 ],
 [
 "Blessthefall",
-27
+27,
+[]
 ],
 [
 "Lifehouse",
-27
+27,
+[
+"Blyss"
+]
 ],
 [
 "Voivod",
-27
+27,
+[]
 ],
 [
 "Social Distortion",
-27
+27,
+[]
 ],
 [
 "Hypocrisy",
-26
+26,
+[]
 ],
 [
 "Super Furry Animals",
-26
+26,
+[]
 ],
 [
 "Eels",
-26
+26,
+[]
 ],
 [
 "Nautilus Pompilius",
-26
+26,
+[
+"Ali Baba and the Forty Thieves",
+"Nau",
+"Nautilus",
+"NP"
+]
 ],
 [
 "Ayreon",
-26
+26,
+[]
 ],
 [
 "Black Label Society",
-26
+26,
+[]
 ],
 [
 "Mano Negra",
-26
+26,
+[]
 ],
 [
 "Mumiy Troll",
-26
+26,
+[]
 ],
 [
 "Therapy?",
-25
+25,
+[
+"therapy?"
+]
 ],
 [
 "Violent Femmes",
-25
+25,
+[
+"The Violent Femmes"
+]
 ],
 [
 "Girlschool",
-25
+25,
+[]
 ],
 [
 "Metsatöll",
-25
+25,
+[]
 ],
 [
 "The Tremeloes",
-25
+25,
+[]
 ],
 [
 "Anti Social Media",
-25
+25,
+[]
 ],
 [
 "Krokus",
-25
+25,
+[]
 ],
 [
 "Mad Season",
-25
+25,
+[]
 ],
 [
 "The Lumineers",
-25
+25,
+[
+"Lumineers",
+"Wesley Jeremiah"
+]
 ],
 [
 "Ten Years After",
-25
+25,
+[]
 ],
 [
 "Silbermond",
-25
+25,
+[]
 ],
 [
 "The Horrors",
-24
+24,
+[
+"Horrors"
+]
 ],
 [
 "Ocean Colour Scene",
-24
+24,
+[
+"OCS"
+]
 ],
 [
 "Mr. Mister",
-24
+24,
+[
+"Mr Mister"
+]
 ],
 [
 "Black Rebel Motorcycle Club",
-24
+24,
+[]
 ],
 [
 "Gong",
-24
+24,
+[]
 ],
 [
 "Sonic Syndicate",
-24
+24,
+[]
 ],
 [
 "Dope",
-24
+24,
+[]
 ],
 [
 "The Move",
-23
+23,
+[
+"Move"
+]
 ],
 [
 "Discharge",
-23
+23,
+[]
 ],
 [
 "Alabama Shakes",
-23
+23,
+[]
 ],
 [
 "The Makemakes",
-23
+23,
+[]
 ],
 [
 "Atreyu",
-23
+23,
+[]
 ],
 [
 "The Vines",
-23
+23,
+[]
 ],
 [
 "Eloy",
-23
+23,
+[]
 ],
 [
 "Winger",
-23
+23,
+[]
 ],
 [
 "Bi-2",
-23
+23,
+[]
 ],
 [
 "Babes in Toyland",
-23
+23,
+[]
 ],
 [
 "Runrig",
-23
+23,
+[]
 ],
 [
 "Hinder",
-23
+23,
+[]
 ],
 [
 "White Lion",
-22
+22,
+[]
 ],
 [
 "Skyclad",
-22
+22,
+[]
 ],
 [
 "Hanoi Rocks",
-22
+22,
+[]
 ],
 [
 "You Me at Six",
-22
+22,
+[]
 ],
 [
 "The J. Geils Band",
-22
+22,
+[
+"J Geils Band",
+"J. Geils Band",
+"The J. Geils Blues Band"
+]
 ],
 [
 "Live",
-22
+22,
+[
+"+LĪVE+",
+"LĪVE"
+]
 ],
 [
 "Barenaked Ladies",
-22
+22,
+[
+"BNL"
+]
 ],
 [
 "Ride",
-22
+22,
+[
+"Ride (band)"
+]
 ],
 [
 "Silverstein",
-22
+22,
+[]
 ],
 [
 "The Slits",
-22
+22,
+[
+"Slits"
+]
 ],
 [
 "Fates Warning",
-22
+22,
+[]
 ],
 [
 "Boris",
-22
+22,
+[]
 ],
 [
 "Skyforger",
-21
+21,
+[]
 ],
 [
 "Mayday Parade",
-21
+21,
+[]
 ],
 [
 "Nothing but Thieves",
-21
+21,
+[
+"Nothing But Thieves"
+]
 ],
 [
 "Los Lobos",
-21
+21,
+[
+"Lobos",
+"Los Lobos del Este de Los Angeles"
+]
 ],
 [
 "Poco",
-21
+21,
+[]
 ],
 [
 "Danzig",
-21
+21,
+[]
 ],
 [
 "Humble Pie",
-21
+21,
+[]
 ],
 [
 "Izabo",
-21
+21,
+[]
 ],
 [
 "Ektomorf",
-21
+21,
+[]
 ],
 [
 "Mucc",
-20
+20,
+[
+"MUCC"
+]
 ],
 [
 "Teenage Fanclub",
-20
+20,
+[]
 ],
 [
 "Ozric Tentacles",
-20
+20,
+[
+"The Ozrics"
+]
 ],
 [
 "Warrant",
-20
+20,
+[]
 ],
 [
 "Trouble",
-20
+20,
+[]
 ],
 [
 "The Bravery",
-20
+20,
+[
+"Bravery"
+]
 ],
 [
 "Secondhand Serenade",
-20
+20,
+[]
 ],
 [
 "Spock's Beard",
-20
+20,
+[]
 ],
 [
 "Theory of a Deadman",
-20
+20,
+[]
 ],
 [
 "Atomic Rooster",
-20
+20,
+[]
 ],
 [
 "Vanilla Fudge",
-20
+20,
+[
+"The Vanilla Fudge"
+]
 ],
 [
 "Barclay James Harvest",
-20
+20,
+[
+"BJH"
+]
 ],
 [
 "Crazy Horse",
-20
+20,
+[]
 ],
 [
 "Reamonn",
-19
+19,
+[]
 ],
 [
 "Samson",
-19
+19,
+[]
 ],
 [
 "Generation X",
-19
+19,
+[
+"Gen X"
+]
 ],
 [
 "Delaney & Bonnie",
-19
+19,
+[]
 ],
 [
 "Family",
-19
+19,
+[]
 ],
 [
 "Monster Magnet",
-19
+19,
+[]
 ],
 [
 "The Easybeats",
-19
+19,
+[
+"Easybeats"
+]
 ],
 [
 "Warpaint",
-19
+19,
+[]
 ],
 [
 "The Maccabees",
-19
+19,
+[]
 ],
 [
 "Adema",
-19
+19,
+[]
 ],
 [
 "Idles",
-19
+19,
+[
+"Idles_(band)",
+"Idles Band"
+]
 ],
 [
 "Coheed and Cambria",
-19
+19,
+[
+"CoCa",
+"Coheed",
+"Coheed & Cambria"
+]
 ],
 [
 "Inspiral Carpets",
-19
+19,
+[]
 ],
 [
 "Keep of Kalessin",
-19
+19,
+[]
 ],
 [
 "Collective Soul",
-19
+19,
+[]
 ],
 [
 "Teapacks",
-19
+19,
+[
+"HaHotzaa La'Poal"
+]
 ],
 [
 "Broken Social Scene",
-19
+19,
+[]
 ],
 [
 "Obrint Pas",
-19
+19,
+[]
 ],
 [
 "Bal-Sagoth",
-19
+19,
+[
+"Bal Sagoth"
+]
 ],
 [
 "Between the Buried and Me",
-19
+19,
+[
+"BtBaM",
+"BTBAM"
+]
 ],
 [
 "Bow Wow Wow",
-19
+19,
+[]
 ],
 [
 "OSI",
-19
+19,
+[]
 ],
 [
 "Plastic Tree",
-18
+18,
+[]
 ],
 [
 "Indica",
-18
+18,
+[]
 ],
 [
 "The Raveonettes",
-18
+18,
+[
+"Raveonettes"
+]
 ],
 [
 "Spooky Tooth",
-18
+18,
+[]
 ],
 [
 "Red Fang",
-18
+18,
+[]
 ],
 [
 "Third Day",
-18
+18,
+[]
 ],
 [
 "All Shall Perish",
-18
+18,
+[]
 ],
 [
 "The Jesus Lizard",
-18
-],
-[
-"Electric Six",
-18
-],
-[
-"Archive",
-18
-],
-[
-"Control Denied",
-18
-],
-[
-"Raven",
-18
+18,
+[]
 ],
 [
 "Cactus",
-18
+18,
+[]
+],
+[
+"Electric Six",
+18,
+[
+"Dick Valentine, M., Tait Nucleus, The Colonel, Joh",
+"The Wildbunch"
+]
+],
+[
+"Archive",
+18,
+[]
+],
+[
+"Control Denied",
+18,
+[]
+],
+[
+"Raven",
+18,
+[]
 ],
 [
 "The Firm",
-18
+18,
+[
+"Firm"
+]
 ],
 [
 "Low",
-18
+18,
+[]
 ],
 [
 "Buck-Tick",
-18
+18,
+[
+"BUCK-TICK"
+]
 ],
 [
 "Poisonblack",
-17
+17,
+[]
 ],
 [
 "Steeleye Span",
-17
+17,
+[]
 ],
 [
 "Soil",
-17
+17,
+[
+"SOiL"
+]
 ],
 [
 "Holocaust",
-17
+17,
+[]
 ],
 [
 "10 Years",
-17
+17,
+[
+"Ten Years"
+]
 ],
 [
 "Magnum",
-17
+17,
+[]
 ],
 [
 "Spirit",
-17
+17,
+[]
 ],
 [
 "Vixen",
-17
+17,
+[]
 ],
 [
 "Molly Hatchet",
-17
+17,
+[
+"Molly Hatchet (hudební skupina)"
+]
 ],
 [
 "Fields of the Nephilim",
-17
+17,
+[]
 ],
 [
 "Električni Orgazam",
-17
+17,
+[]
 ],
 [
 "Athlete",
-17
+17,
+[]
 ],
 [
 "Banda Bassotti",
-17
+17,
+[]
 ],
 [
 "The Academy Is...",
-16
+16,
+[
+"Academy Is..."
+]
 ],
 [
 "Dr. Hook & the Medicine Show",
-16
+16,
+[
+"Dr Hook",
+"Dr. Hook"
+]
 ],
 [
 "Los Hermanos",
-16
+16,
+[]
 ],
 [
 "New Model Army",
-16
+16,
+[]
 ],
 [
 "Spiritual Beggars",
-16
+16,
+[]
 ],
 [
 "Oi Polloi",
-16
+16,
+[]
 ],
 [
 "Nektar",
-16
+16,
+[]
 ],
 [
 "Saliva",
-16
+16,
+[]
 ],
 [
 "The Walkmen",
-16
+16,
+[]
 ],
 [
 "Saint Asonia",
-16
+16,
+[
+"SΔINT ΔSONIΔ"
+]
 ],
 [
 "Isengard",
-16
+16,
+[]
 ],
 [
 "Jesu",
-16
+16,
+[]
 ],
 [
 "Battlelore",
-16
+16,
+[]
 ],
 [
 "Anderson Bruford Wakeman Howe",
-16
+16,
+[
+"ABWH"
+]
 ],
 [
 "High and Mighty Color",
-16
+16,
+[]
 ],
 [
 "Sound Horizon",
-16
+16,
+[]
 ],
 [
 "Spinal Tap",
-16
+16,
+[]
 ],
 [
 "The Kingsmen",
-16
+16,
+[
+"Kingsmen"
+]
 ],
 [
 "The Posies",
-16
+16,
+[]
 ],
 [
 "Trapt",
-15
+15,
+[]
 ],
 [
 "Boredoms",
-15
+15,
+[]
 ],
 [
 "The Word Alive",
-15
+15,
+[
+"Word Alive"
+]
 ],
 [
 "Rival Sons",
-15
+15,
+[]
 ],
 [
 "The Bouncing Souls",
-15
+15,
+[
+"Bouncing Souls"
+]
 ],
 [
 "Rhino Bucket",
-15
+15,
+[
+"Deep Six Holiday"
+]
 ],
 [
 "Pendragon",
-15
+15,
+[
+"Zeus Pendragon"
+]
 ],
 [
 "TNT",
-15
+15,
+[]
 ],
 [
 "Gillan",
-15
+15,
+[]
 ],
 [
 "Young the Giant",
-15
+15,
+[
+"The Jakes"
+]
 ],
 [
 "Bleeding Through",
-15
+15,
+[]
 ],
 [
 "Die Happy",
-15
+15,
+[]
 ],
 [
 "Lucifer",
-15
+15,
+[
+"Λucifer"
+]
 ],
 [
 "Heavenly",
-15
+15,
+[]
 ],
 [
 "Strawbs",
-15
+15,
+[]
 ],
 [
 "White Skull",
-15
+15,
+[]
 ],
 [
 "Rev Theory",
-15
+15,
+[
+"Revelation Theory"
+]
 ],
 [
 "Built to Spill",
-14
+14,
+[]
 ],
 [
 "Bump of Chicken",
-14
+14,
+[
+"BOC"
+]
 ],
 [
 "Danger Danger",
-14
+14,
+[]
 ],
 [
 "Unwritten Law",
-14
+14,
+[
+"The Unwritten Law"
+]
 ],
 [
 "Dover",
-14
+14,
+[]
 ],
 [
 "Kashmir",
-14
+14,
+[]
 ],
 [
 "The Living End",
-14
+14,
+[
+"Living End"
+]
 ],
 [
 "Scary Kids Scaring Kids",
-14
+14,
+[]
 ],
 [
 "Taproot",
-14
+14,
+[]
 ],
 [
 "Kortatu",
-14
+14,
+[]
 ],
 [
 "Trust",
-14
+14,
+[]
 ],
 [
 "Slaughter",
-14
+14,
+[]
 ],
 [
 "Ne Obliviscaris",
-14
+14,
+[]
 ],
 [
 "Montrose",
-14
+14,
+[]
 ],
 [
 "Dave Dee, Dozy, Beaky, Mick & Tich",
-14
+14,
+[
+"DDDBMT"
+]
 ],
 [
 "Wigwam",
-14
+14,
+[
+"Wigwam (band)"
+]
 ],
 [
 "38 Special",
-14
+14,
+[
+".38 Special"
+]
 ],
 [
 "Acid Drinkers",
-14
+14,
+[]
 ],
 [
 "April Wine",
-14
+14,
+[]
 ],
 [
 "The Wallflowers",
-14
+14,
+[]
 ],
 [
 "The Honeydrippers",
-14
+14,
+[
+"Honeydrippers"
+]
 ],
 [
 "Flying Colors",
-14
+14,
+[]
 ],
 [
 "Les Horribles Cernettes",
-14
+14,
+[
+"Cernettes",
+"Les Cernettes"
+]
 ],
 [
 "Die Apokalyptischen Reiter",
-14
+14,
+[
+"Apocalyptic Riders",
+"Apokalyptische Reiter",
+"The Apocalyptic Riders"
+]
 ],
 [
 "GO!GO!7188",
-14
+14,
+[]
 ],
 [
 "Black Tide",
-14
+14,
+[]
 ],
 [
 "Karnivool",
-14
+14,
+[]
 ],
 [
 "Buffalo Tom",
-13
+13,
+[]
 ],
 [
 "The Feeling",
-13
+13,
+[]
 ],
 [
 "Fireflight",
-13
+13,
+[]
 ],
 [
 "Godley & Creme",
-13
+13,
+[]
 ],
 [
 "Jungle",
-13
+13,
+[]
 ],
 [
 "Harry and the Potters",
-13
+13,
+[
+"Dumbledore",
+"The Gringotts Goblin Choir"
+]
 ],
 [
 "The Triffids",
-13
+13,
+[
+"Triffids"
+]
 ],
 [
 "Failure",
-13
+13,
+[]
 ],
 [
 "Hot Tuna",
-13
+13,
+[]
 ],
 [
 "Get Scared",
-13
+13,
+[]
 ],
 [
 "Walls of Jericho",
-13
+13,
+[]
 ],
 [
 "Her's",
-13
+13,
+[
+"That Band Of Hers"
+]
 ],
 [
 "Wizard",
-13
+13,
+[]
 ],
 [
 "As Blood Runs Black",
-13
+13,
+[]
 ],
 [
 "Shout Out Louds",
-13
+13,
+[]
 ],
 [
 "Bayside",
-13
+13,
+[]
 ],
 [
 "Mutemath",
-13
+13,
+[
+"Mute Math"
+]
 ],
 [
 "Misery Signals",
-13
+13,
+[]
 ],
 [
 "Petra",
-12
+12,
+[]
 ],
 [
 "Deep Blue Something",
-12
+12,
+[
+"Leper Messiah"
+]
 ],
 [
 "Tocotronic",
-12
+12,
+[]
 ],
 [
 "Duman",
-12
+12,
+[]
 ],
 [
 "The Jayhawks",
-12
+12,
+[]
 ],
 [
 "Hothouse Flowers",
-12
+12,
+[]
 ],
 [
 "Alice Cooper",
-12
+12,
+[]
 ],
 [
 "The Struts",
-12
+12,
+[]
 ],
 [
 "N.R.M.",
-12
+12,
+[]
 ],
 [
 "Les Négresses Vertes",
-12
+12,
+[
+"Les Negresses Vertes"
+]
 ],
 [
 "The Tea Party",
-12
+12,
+[]
 ],
 [
 "Wicked Lester",
-12
+12,
+[]
 ],
 [
 "Vivid",
-12
+12,
+[
+"ViViD"
+]
 ],
 [
 "Raised Fist",
-12
+12,
+[]
 ],
 [
 "Shivaree",
-12
+12,
+[]
 ],
 [
 "Divinyls",
-12
+12,
+[]
 ],
 [
 "Normaal",
-12
+12,
+[]
 ],
 [
 "Pussy Galore",
-12
+12,
+[]
 ],
 [
 "The Pineapple Thief",
-12
+12,
+[]
 ],
 [
 "Altered Images",
-12
+12,
+[]
 ],
 [
 "Tomorrow",
-12
+12,
+[
+"Four Plus One",
+"The In Crowd"
+]
 ],
 [
 "Kult",
-12
+12,
+[]
 ],
 [
 "Transplants",
-12
+12,
+[
+"The Transplants"
+]
 ],
 [
 "Strawberry Switchblade",
-12
+12,
+[]
 ],
 [
 "Maanam",
-12
+12,
+[]
 ],
 [
 "Triumvirat",
-12
+12,
+[]
 ],
 [
 "Red Krayola",
-11
+11,
+[
+"Red Crayola",
+"The Red Crayola"
+]
 ],
 [
 "Eve 6",
-11
+11,
+[
+"Eve Six"
+]
 ],
 [
 "Merciless",
-11
+11,
+[]
 ],
 [
 "Royal Republic",
-11
+11,
+[]
 ],
 [
 "Siniestro Total",
-11
+11,
+[]
 ],
 [
 "Kaipa",
-11
+11,
+[]
 ],
 [
 "Racoon",
-11
+11,
+[]
 ],
 [
 "Young Knives",
-11
+11,
+[
+"The Young Knives"
+]
 ],
 [
 "Circa Waves",
-11
+11,
+[]
 ],
 [
 "Thy Serpent",
-11
+11,
+[]
 ],
 [
 "Animal Alpha",
-11
+11,
+[]
 ],
 [
 "Mondo Generator",
-11
+11,
+[]
 ],
 [
 "The Bluetones",
-11
+11,
+[
+"Bluetones"
+]
 ],
 [
 "The Beau Brummels",
-11
+11,
+[
+"Beau Brummels"
+]
 ],
 [
 "Highly Suspect",
-11
+11,
+[]
 ],
 [
 "Allister",
-11
+11,
+[]
 ],
 [
 "The Spiders from Mars",
-11
+11,
+[
+"Spiders From Mars"
+]
 ],
 [
 "Cain's Offering",
-11
+11,
+[]
 ],
 [
 "Loaded",
-11
+11,
+[]
 ],
 [
 "The Twilight Singers",
-11
+11,
+[]
 ],
 [
 "Bôa",
-11
+11,
+[
+"Boa"
+]
 ],
 [
 "Voice of Baceprot",
-11
+11,
+[]
 ],
 [
 "Welicoruss",
-11
+11,
+[
+"WelicoRuss"
+]
 ],
 [
 "Aereogramme",
-11
+11,
+[]
 ],
 [
 "Phantogram",
-11
+11,
+[
+"Charlie Everywhere"
+]
 ],
 [
 "Nelson",
-11
+11,
+[
+"Power Tool"
+]
 ],
 [
 "Kælan Mikla",
-11
+11,
+[]
 ],
 [
 "Burning Witches",
-11
+11,
+[]
 ],
 [
 "Better Than Ezra",
-11
+11,
+[]
 ],
 [
 "Judy and Mary",
-10
+10,
+[
+"JAM",
+"JUDY AND MARY"
+]
 ],
 [
 "Oldcodex",
-10
+10,
+[]
 ],
 [
 "Los Brincos",
-10
+10,
+[]
 ],
 [
 "Aes Dana",
-10
+10,
+[]
 ],
 [
 "Freak Kitchen",
-10
+10,
+[]
 ],
 [
 "Supersuckers",
-10
+10,
+[]
 ],
 [
 "The Georgia Satellites",
-10
+10,
+[]
 ],
 [
 "We Are Harlot",
-10
+10,
+[
+"Harlot"
+]
 ],
 [
 "Sugar",
-10
+10,
+[]
 ],
 [
 "Entombed A.D.",
-10
+10,
+[]
 ],
 [
 "Omega Diatribe",
-10
+10,
+[]
 ],
 [
 "Sloan",
-10
+10,
+[]
 ],
 [
 "Rise of the Northstar",
-10
+10,
+[
+"ROTN",
+"R.O.T.N.S."
+]
 ],
 [
 "Dúné",
-10
+10,
+[
+"Dune"
+]
 ],
 [
 "Royal Trux",
-10
+10,
+[]
 ],
 [
 "Samhain",
-10
+10,
+[]
 ],
 [
 "ASAP",
-10
+10,
+[
+"Adrian Smith And Project",
+"A.S.A.P."
+]
 ],
 [
 "From Ashes to New",
-10
+10,
+[]
 ],
 [
 "Black Widow",
-10
+10,
+[]
 ],
 [
 "D'erlanger",
-10
+10,
+[
+"D'ERLANGER"
+]
 ],
 [
 "LostAlone",
-10
+10,
+[]
 ],
 [
 "Alkonost",
-10
+10,
+[]
 ],
 [
 "The Soft Boys",
-10
+10,
+[
+"Soft Boys"
+]
 ],
 [
 "12012",
-10
+10,
+[]
 ],
 [
 "The Remains",
-10
+10,
+[
+"Barry and the Remains"
+]
 ],
 [
 "Los Lonely Boys",
-10
+10,
+[]
 ],
 [
 "Ningen Isu",
-10
+10,
+[]
 ],
 [
 "Josef K",
-10
+10,
+[]
 ],
 [
 "Larkin Poe",
-10
+10,
+[
+"Rebecca & Megan Lovell"
+]
 ],
 [
 "Divididos",
-10
+10,
+[
+"The Rock steamroller"
+]
 ],
 [
 "Chelsea",
-10
+10,
+[]
 ],
 [
 "Junoon",
-10
+10,
+[]
 ],
 [
 "Smak",
-10
+10,
+[]
 ],
 [
 "Rockbitch",
-10
+10,
+[
+"Cat Genetica",
+"Red Abyss"
+]
 ],
 [
 "Ange",
-10
+10,
+[
+"Ange (band)"
+]
 ],
 [
 "Jane",
-10
+10,
+[]
 ],
 [
 "Wolf Parade",
-10
+10,
+[]
 ],
 [
 "Flëur",
-10
+10,
+[]
 ],
 [
 "Reset",
-10
+10,
+[]
 ],
 [
 "Vola",
-10
+10,
+[
+"VOLA"
+]
 ],
 [
 "Bad Lieutenant",
-10
+10,
+[]
 ],
 [
 "Caspian",
-10
+10,
+[]
 ],
 [
 "The Damned Things",
-10
+10,
+[]
 ],
 [
 "les",
-9
+9,
+[
+"chápuines"
+]
 ],
 [
 "Yard Act",
-9
+9,
+[]
 ],
 [
 "Comets on Fire",
-9
+9,
+[]
 ],
 [
 "Supercar",
-9
+9,
+[]
 ],
 [
 "The Wonder Years",
-9
+9,
+[]
 ],
 [
 "Kane",
-9
+9,
+[
+"Dinand Woesthof"
+]
 ],
 [
 "Hardline",
-9
+9,
+[]
 ],
 [
 "The Fabulous Wailers",
-9
+9,
+[
+"Fabulous Wailers",
+"The Wailers",
+"Wailers"
+]
 ],
 [
 "Letters to Cleo",
-9
+9,
+[]
 ],
 [
 "3",
-9
+9,
+[
+"3 (UK band)",
+"Emerson, Berry & Palmer",
+"Three"
+]
 ],
 [
 "Stiltskin",
-9
+9,
+[]
 ],
 [
 "With Confidence",
-9
+9,
+[]
 ],
 [
 "The Fiery Furnaces",
-9
+9,
+[]
 ],
 [
 "The Album Leaf",
-9
+9,
+[
+"Jimmy LaValle"
+]
 ],
 [
 "Iron Reagan",
-9
+9,
+[]
 ],
 [
 "Redemption",
-9
+9,
+[]
 ],
 [
 "Len",
-9
+9,
+[]
 ],
 [
 "Ashes Divide",
-9
+9,
+[]
 ],
 [
 "Jannabi",
-9
+9,
+[
+"Zannabi"
+]
 ],
 [
 "Almah",
-9
+9,
+[]
 ],
 [
 "Trypes",
-9
+9,
+[]
 ],
 [
 "House of Lords",
-9
+9,
+[]
 ],
 [
 "We Are the Ocean",
-9
+9,
+[]
 ],
 [
 "Modern Life Is War",
-9
+9,
+[]
 ],
 [
 "The Almighty",
-9
+9,
+[]
 ],
 [
 "Nothing's Carved in Stone",
-9
+9,
+[]
 ],
 [
 "Fehlfarben",
-9
+9,
+[]
 ],
 [
 "Ton Steine Scherben",
-9
+9,
+[]
 ],
 [
 "Wild Fire",
-9
+9,
+[
+"Cathercist"
+]
 ],
 [
 "The Atomic Bitchwax",
-9
+9,
+[]
 ],
 [
 "Grobschnitt",
-9
+9,
+[]
 ],
 [
 "Birth Control",
-9
+9,
+[]
 ],
 [
 "Reef",
-9
+9,
+[]
 ],
 [
 "The Lookouts",
-9
+9,
+[]
 ],
 [
 "Tonic",
-9
+9,
+[]
 ],
 [
 "Earthless",
-8
+8,
+[]
 ],
 [
 "Catch 22",
-8
+8,
+[
+"Catch Twenty-Two"
+]
 ],
 [
 "Channel Zero",
-8
+8,
+[]
 ],
 [
 "Quartz",
-8
+8,
+[]
 ],
 [
 "Ghinzu",
-8
+8,
+[]
 ],
 [
 "Glass Tiger",
-8
+8,
+[]
 ],
 [
 "The Weakerthans",
-8
+8,
+[
+"Weakerthans"
+]
 ],
 [
 "Nine Days",
-8
+8,
+[
+"ninedays"
+]
 ],
 [
 "The Arnold Corns",
-8
+8,
+[
+"Arnold Corns"
+]
 ],
 [
 "Mudcrutch",
-8
+8,
+[]
 ],
 [
 "Bear's Den",
-8
+8,
+[]
 ],
 [
 "Thinking Plague",
-8
+8,
+[]
 ],
 [
 "Jackyl",
-8
+8,
+[]
 ],
 [
 "Sacrifice",
-8
+8,
+[]
 ],
 [
 "Shed Seven",
-8
+8,
+[]
 ],
 [
 "Dust",
-8
+8,
+[]
 ],
 [
 "FliT",
-8
+8,
+[]
 ],
 [
 "Esprit D'Air",
-8
+8,
+[]
 ],
 [
 "Flaming Youth",
-8
+8,
+[]
 ],
 [
 "Epidemia",
-8
+8,
+[]
 ],
 [
 "Enuff Z'nuff",
-8
+8,
+[]
 ],
 [
 "Nosferatu",
-8
+8,
+[]
 ],
 [
 "Engenheiros do Hawaii",
-8
+8,
+[]
 ],
 [
 "Patricio Rey y sus Redonditos de Ricota",
-8
+8,
+[]
 ],
 [
 "Los Suaves",
-8
+8,
+[]
 ],
 [
 "Louna",
-8
+8,
+[]
 ],
 [
 "Verdena",
-8
+8,
+[]
 ],
 [
 "Passenger",
-8
+8,
+[]
 ],
 [
 "Shortparis",
-8
+8,
+[]
 ],
 [
 "Breaking Point",
-8
+8,
+[]
 ],
 [
 "Rockets",
-8
+8,
+[]
 ],
 [
 "Make-Up",
-8
+8,
+[]
 ],
 [
 "Evermore",
-8
+8,
+[]
+],
+[
+"Voodoocult",
+7,
+[]
+],
+[
+"Anzen Chitai",
+7,
+[]
+],
+[
+"Deliverance",
+7,
+[]
+],
+[
+"Paint It Black",
+7,
+[]
+],
+[
+"Quintessence",
+7,
+[]
+],
+[
+"LAB",
+7,
+[]
+],
+[
+"The Cosmic Jokers",
+7,
+[
+"Cosmic Jokers"
+]
+],
+[
+"Rockfour",
+7,
+[
+"רוקפור"
+]
+],
+[
+"Pilot",
+7,
+[]
+],
+[
+"Absynthe Minded",
+7,
+[]
+],
+[
+"Resurrection Band",
+7,
+[
+"REZ",
+"Rez Band"
+]
+],
+[
+"Lycia",
+7,
+[]
+],
+[
+"Brutto",
+7,
+[]
+],
+[
+"Chizh & Co",
+7,
+[
+"Chizh and Co",
+"Chizh & Co."
+]
+],
+[
+"The Enid",
+7,
+[]
+],
+[
+"Peach",
+7,
+[
+"Peach [gb]",
+"Suns of the Tundra"
+]
+],
+[
+"Shy",
+7,
+[
+"Trojan"
+]
+],
+[
+"Pierrot",
+7,
+[
+"PIERROT"
+]
+],
+[
+"Ángeles del Infierno",
+7,
+[
+"Angeles del Infierno"
+]
+],
+[
+"Hammerbox",
+7,
+[]
+],
+[
+"Merzhin",
+7,
+[]
+],
+[
+"Popeda",
+7,
+[]
+],
+[
+"Screaming Females",
+7,
+[]
+],
+[
+"Wye Oak",
+7,
+[]
+],
+[
+"YU grupa",
+7,
+[]
+],
+[
+"The Ides of March",
+7,
+[]
+],
+[
+"Model",
+7,
+[
+"Grup Model"
+]
+],
+[
+"Scale the Summit",
+7,
+[]
+],
+[
+"Secrets",
+7,
+[
+"Secrets (post-hardcore band)"
+]
+],
+[
+"The Wannadies",
+7,
+[]
+],
+[
+"Bigbang",
+7,
+[]
+],
+[
+"BoDeans",
+7,
+[
+"Bodeans",
+"Bo Deans"
+]
+],
+[
+"Element of Crime",
+7,
+[]
+],
+[
+"Tasavallan Presidentti",
+7,
+[]
+],
+[
+"The Gone Jackals",
+7,
+[]
+],
+[
+"Snowkel",
+6,
+[]
+],
+[
+"The Snuts",
+6,
+[]
+],
+[
+"One Minute Silence",
+6,
+[]
+],
+[
+"Fireball Ministry",
+6,
+[]
+],
+[
+"Harpers Bizarre",
+6,
+[]
+],
+[
+"100 Monkeys",
+6,
+[]
+],
+[
+"Bad Suns",
+6,
+[]
+],
+[
+"Draco and the Malfoys",
+6,
+[]
+],
+[
+"Zen Café",
+6,
+[
+"Zen Cafe"
+]
+],
+[
+"Solution",
+6,
+[]
+],
+[
+"Secret",
+6,
+[
+"Sekret"
+]
+],
+[
+"State Radio",
+6,
+[]
+],
+[
+"40 Below Summer",
+6,
+[]
+],
+[
+"Bang Tango",
+6,
+[]
+],
+[
+"Last in Line",
+6,
+[]
+],
+[
+"South",
+6,
+[]
+],
+[
+"Jovink en de Voederbietels",
+6,
+[
+"Gijs Jolink (Bass Guitar, Vocals), Hans Bouman (Drums), Hendrik Jan Bökkers (Guitar), Hendrik Jan Lovink (Guitar, Vocals)",
+"Jovink & De Voederbietels"
+]
+],
+[
+"Shturtsite",
+6,
+[
+"Shtourtzite",
+"Shturtzite"
+]
+],
+[
+"The Marcus King Band",
+6,
+[]
+],
+[
+"Mutnajevoka",
+6,
+[]
+],
+[
+"SHVPES",
+6,
+[
+"Shapes"
+]
+],
+[
+"B.A.P.!!",
+6,
+[]
+],
+[
+"Seigmen",
+6,
+[
+"Klisne Seigmenn"
+]
+],
+[
+"Minimal Compact",
+6,
+[]
+],
+[
+"Vision Eternel",
+6,
+[
+"Vision Eternal",
+"Vision Éternel"
+]
+],
+[
+"The Sleepy Jackson",
+6,
+[]
+],
+[
+"Fury in the Slaughterhouse",
+6,
+[
+"Die Beschissen'n Sechs"
+]
+],
+[
+"The Rezillos",
+6,
+[
+"Revillos",
+"Rezillos",
+"The Revillos"
+]
+],
+[
+"Libido",
+6,
+[]
+],
+[
+"Moheener Ghoraguli",
+6,
+[
+"Mohiner Ghoraguli"
+]
+],
+[
+"Zarama",
+6,
+[]
+],
+[
+"Obús",
+6,
+[
+"Obus"
+]
+],
+[
+"Potato",
+6,
+[
+"POTATO"
+]
+],
+[
+"Tutti Frutti",
+6,
+[
+"Tutti Frutti Balkan Band",
+"Tutti Frutti Band"
+]
+],
+[
+"H. P. Lovecraft",
+6,
+[
+"HP Lovecraft"
+]
+],
+[
+"Noori",
+6,
+[]
+],
+[
+"Chaif",
+6,
+[
+"Chai-F"
+]
+],
+[
+"Jal",
+6,
+[]
+],
+[
+"Everyday Sunday",
+6,
+[]
+],
+[
+"Rapture",
+6,
+[]
+],
+[
+"Esperanto",
+6,
+[]
+],
+[
+"Ethnix",
+6,
+[
+"Moskva"
+]
+],
+[
+"Immanu el",
+6,
+[
+"IMMANU EL"
+]
+],
+[
+"Synergia",
+6,
+[]
+],
+[
+"Smash",
+6,
+[
+"S*M*A*S*H"
+]
+],
+[
+"Los Abuelos de la Nada",
+6,
+[]
+],
+[
+"Fiction Plane",
+6,
+[]
+],
+[
+"Apocalypse",
+6,
+[]
+],
+[
+"The Protomen",
+6,
+[
+"Protomen"
+]
+],
+[
+"Vintage Trouble",
+6,
+[]
+],
+[
+"Goodbye Mr. Mackenzie",
+6,
+[]
+],
+[
+"Los Shakers",
+6,
+[]
+],
+[
+"Nemophila",
+5,
+[]
+],
+[
+"Black Panther",
+5,
+[
+"Heibao",
+"Hei Bao"
+]
+],
+[
+"Fridge",
+5,
+[]
+],
+[
+"Brandy Senki",
+5,
+[
+"Blandy Senki"
+]
+],
+[
+"Oktobar 1864",
+5,
+[]
+],
+[
+"Shooting Star",
+5,
+[]
+],
+[
+"Pacifica (banda)",
+5,
+[]
+],
+[
+"Déportivo",
+5,
+[
+"Deportivo"
+]
+],
+[
+"Bombus",
+5,
+[]
+],
+[
+"Trubetskoy",
+5,
+[]
+],
+[
+"Kalinov Most",
+5,
+[
+"Kalinov Bridge"
+]
+],
+[
+"The Districts",
+5,
+[]
+],
+[
+"Elvis Depressedly",
+5,
+[]
+],
+[
+"Addison Road",
+5,
+[]
+],
+[
+"Novedades Carminha",
+5,
+[]
+],
+[
+"Show-Ya",
+5,
+[]
+],
+[
+"Virus",
+5,
+[]
+],
+[
+"Too Close to Touch",
+5,
+[]
+],
+[
+"Max Webster",
+5,
+[]
+],
+[
+"León Benavente",
+5,
+[]
+],
+[
+"Gone Is Gone",
+5,
+[]
+],
+[
+"Nemra",
+5,
+[]
+],
+[
+"Amplifiki",
+5,
+[]
+],
+[
+"Supersubmarina",
+5,
+[]
+],
+[
+"Ithilien",
+5,
+[]
+],
+[
+"May Blitz",
+5,
+[]
+],
+[
+"Convulse",
+5,
+[]
+],
+[
+"Grinspoon",
+5,
+[]
+],
+[
+"Magnapop",
+5,
+[
+"Homemade Sister",
+"Linda and Ruthie",
+"Linda & Ruthie",
+"Swell",
+"Swell Dopa"
+]
+],
+[
+"Bala",
+5,
+[]
+],
+[
+"Manta Ray",
+5,
+[]
+],
+[
+"Other Lives",
+5,
+[]
+],
+[
+"Jaguares",
+5,
+[]
+],
+[
+"Sidonie",
+5,
+[]
+],
+[
+"La Banda Trapera del Río",
+5,
+[
+"Banda Trapera del Río",
+"La Banda Trapera Del Rio"
+]
+],
+[
+"Dommin",
+5,
+[]
+],
+[
+"Just Surrender",
+5,
+[]
+],
+[
+"Living Loud",
+5,
+[]
+],
+[
+"Speed Caravan",
+5,
+[]
+],
+[
+"Arbouretum",
+5,
+[]
+],
+[
+"Streetwalkers",
+5,
+[]
+],
+[
+"Lost",
+5,
+[]
+],
+[
+"Offlaga Disco Pax",
+5,
+[]
+],
+[
+"Happy Days",
+5,
+[]
+],
+[
+"Stampin' Ground",
+5,
+[
+"Stamping Ground"
+]
+],
+[
+"The Wildhearts",
+5,
+[]
+],
+[
+"Cascade",
+5,
+[
+"Cadcade (J-Rock)",
+"CASCADE"
+]
+],
+[
+"Sleepy Sleepers",
+5,
+[]
+],
+[
+"The Bambi Molesters",
+5,
+[
+"Bambi Molesters"
+]
+],
+[
+"Before Their Eyes",
+5,
+[]
+],
+[
+"Diablo Blvd",
+5,
+[
+"Diablo Boulevard"
+]
+],
+[
+"Rhinoceros",
+5,
+[]
+],
+[
+"FM",
+5,
+[]
+],
+[
+"HaYehudim",
+5,
+[]
+],
+[
+"The Good The Bad and The Zugly",
+5,
+[]
+],
+[
+"Pip Blom",
+5,
+[]
+],
+[
+"Ilegales",
+5,
+[]
+],
+[
+"Las Pelotas",
+5,
+[]
+],
+[
+"Burning",
+5,
+[]
+],
+[
+"Manal",
+5,
+[]
+],
+[
+"Nightstalker",
+5,
+[]
+],
+[
+"Włochaty",
+5,
+[]
+],
+[
+"Pepper",
+5,
+[]
+],
+[
+"Attrition",
+5,
+[]
+],
+[
+"Standstill",
+5,
+[]
+],
+[
+"Blackmail",
+5,
+[]
+],
+[
+"Rain",
+5,
+[
+"Ra:IN"
+]
+],
+[
+"Vended",
+5,
+[]
+],
+[
+"Árbol",
+5,
+[]
+],
+[
+"Variété",
+5,
+[]
+],
+[
+"The Lucid",
+4,
+[]
+],
+[
+"Bridear",
+4,
+[]
+],
+[
+"Kris Barras Band",
+4,
+[]
+],
+[
+"Ippu-Do",
+4,
+[]
+],
+[
+"Frankie and the Witch Fingers",
+4,
+[]
+],
+[
+"Dig",
+4,
+[]
+],
+[
+"The Blue Elephant Band",
+4,
+[
+"The Blue Elephant"
+]
+],
+[
+"Kerach 9",
+4,
+[
+"Ice 9",
+"Ice nine",
+"Kerach Tesha"
+]
+],
+[
+"Eatliz",
+4,
+[]
+],
+[
+"julie",
+4,
+[]
+],
+[
+"Brigitte Calls Me Baby",
+4,
+[]
+],
+[
+"Korslagda",
+4,
+[
+"Korslagda kukar"
+]
+],
+[
+"Die Spitz",
+4,
+[]
+],
+[
+"T-Slam",
+4,
+[]
+],
+[
+"Friends",
+4,
+[]
+],
+[
+"The Good Life",
+4,
+[]
+],
+[
+"Wardell",
+4,
+[]
+],
+[
+"Dispatched",
+4,
+[]
+],
+[
+"AnimatsiYa",
+4,
+[
+"Animation"
+]
+],
+[
+"Ryan Adams & the Cardinals",
+4,
+[
+"Adams and the Cardinals",
+"Adams & the Cardinals",
+"Ryan Adams and the Cardinals"
+]
+],
+[
+"Total Control",
+4,
+[]
+],
+[
+"The Wall",
+4,
+[]
+],
+[
+"Klaus Renft Combo",
+4,
+[]
+],
+[
+"Small Time Giants",
+4,
+[]
+],
+[
+"Sarcofagus",
+4,
+[]
+],
+[
+"Dawn",
+4,
+[]
+],
+[
+"Darkhaus",
+4,
+[]
+],
+[
+"Sorority Noise",
+4,
+[]
+],
+[
+"Kingdom Come",
+4,
+[]
+],
+[
+"Vapors of Morphine",
+4,
+[]
+],
+[
+"Sheer Mag",
+4,
+[]
+],
+[
+"Feu! Chatterton",
+4,
+[]
+],
+[
+"Rupa & the April Fishes",
+4,
+[
+"Rupa and the April Fishes"
+]
+],
+[
+"Dune Rats",
+4,
+[]
+],
+[
+"For All Eternity",
+4,
+[]
+],
+[
+"Alazka",
+4,
+[
+"Burning Down Alaska"
+]
+],
+[
+"Wucan",
+4,
+[]
+],
+[
+"GWLT",
+4,
+[]
+],
+[
+"Voice of the Beehive",
+4,
+[]
+],
+[
+"Rabbota Ho",
+4,
+[]
+],
+[
+"Stories",
+4,
+[]
+],
+[
+"Giraffe Tongue Orchestra",
+4,
+[]
+],
+[
+"Hangman's Chair",
+4,
+[]
+],
+[
+"Kruzenshtern & Parohod",
+4,
+[]
+],
+[
+"Clearlight",
+4,
+[]
+],
+[
+"Elmer Food Beat",
+4,
+[]
+],
+[
+"Sorry About Your Daughter",
+4,
+[
+"SAYD"
+]
+],
+[
+"Uchuu Nekoko",
+4,
+[
+"Uchu Nekoko",
+"Universe Nekoko"
+]
+],
+[
+"Coz",
+4,
+[]
+],
+[
+"Jad Wio",
+4,
+[]
+],
+[
+"Les Calamités",
+4,
+[]
+],
+[
+"Los Berrones",
+4,
+[]
+],
+[
+"Open Hand",
+4,
+[]
+],
+[
+"Soror Dolorosa",
+4,
+[]
+],
+[
+"Clou",
+4,
+[]
+],
+[
+"Think About Life",
+4,
+[]
+],
+[
+"Warship",
+4,
+[]
+],
+[
+"24 Grana",
+4,
+[]
+],
+[
+"And Then There Were None",
+4,
+[]
+],
+[
+"Antonius Rex",
+4,
+[]
+],
+[
+"Forgive Durden",
+4,
+[]
+],
+[
+"Heaven",
+4,
+[]
+],
+[
+"Jumbo",
+4,
+[]
+],
+[
+"Massimo Volume",
+4,
+[]
+],
+[
+"The Sheepdogs",
+4,
+[]
+],
+[
+"Vanadium",
+4,
+[
+"Diumvana"
+]
+],
+[
+"Crimesterdam",
+4,
+[]
+],
+[
+"Kamaedzitca",
+4,
+[]
+],
+[
+"The End",
+4,
+[]
+],
+[
+"Onkel Kånkel",
+4,
+[]
+],
+[
+"Charlotte",
+4,
+[]
+],
+[
+"Blitz",
+4,
+[]
+],
+[
+"Pluto",
+4,
+[]
+],
+[
+"The Van Jets",
+4,
+[]
+],
+[
+"An Horse",
+4,
+[
+"Kate Cooper and Damon Cox"
+]
+],
+[
+"Burn",
+4,
+[]
+],
+[
+"C Real",
+4,
+[]
+],
+[
+"Elemeno P",
+4,
+[]
+],
+[
+"Siberian Meat Grinder",
+4,
+[]
+],
+[
+"Don Tetto",
+4,
+[]
+],
+[
+"Skreppers",
+4,
+[
+"The Skreppers"
+]
+],
+[
+"Hummingbird",
+4,
+[]
+],
+[
+"Massive Wagons",
+4,
+[]
+],
+[
+"Belafonte Sensacional",
+4,
+[
+"Belafonte"
+]
+],
+[
+"Overload",
+4,
+[]
+],
+[
+"Zuğaşi Berepe",
+4,
+[
+"Zugasi Berepe"
+]
+],
+[
+"3 Hür-El",
+4,
+[
+"3 Hürel",
+"Üç Hürel"
+]
+],
+[
+"Don Huonot",
+4,
+[]
+],
+[
+"Strings",
+4,
+[]
+],
+[
+"Fate",
+4,
+[]
+],
+[
+"Los Brujos",
+4,
+[]
+],
+[
+"Peter Green Splinter Group",
+4,
+[]
+],
+[
+"Riff",
+4,
+[]
+],
+[
+"Anthrax",
+4,
+[]
+],
+[
+"Vital Signs",
+4,
+[]
+],
+[
+"The Beards",
+4,
+[]
+],
+[
+"Cuca",
+4,
+[]
+],
+[
+"The Golden Palominos",
+4,
+[
+"Golden Palominos"
+]
+],
+[
+"The Playtones",
+4,
+[]
+],
+[
+"Pom Poko",
+4,
+[]
+],
+[
+"Black Magick SS",
+4,
+[]
+],
+[
+"Wanda i Banda",
+4,
+[
+"Banda i Wanda",
+"Banda & Wanda"
+]
+],
+[
+"Caballeros de la Quema",
+4,
+[
+"Los Caballeros de la Quema"
+]
+],
+[
+"Pattern-Seeking Animals",
+4,
+[]
+],
+[
+"East",
+4,
+[]
+],
+[
+"Frailty",
+3,
+[]
+],
+[
+"BIN",
+3,
+[]
+],
+[
+"Ovlov",
+3,
+[]
+],
+[
+"Ko Ko Mo",
+3,
+[]
+],
+[
+"Kodigo Norte",
+3,
+[]
+],
+[
+"Browsing Collection",
+3,
+[]
+],
+[
+"Beachdog",
+3,
+[]
+],
+[
+"Shazamat",
+3,
+[]
+],
+[
+"Danny Boy et ses Pénitents",
+3,
+[
+"Danny Boy et ses Penitents"
+]
+],
+[
+"Kim Nowak",
+3,
+[]
+],
+[
+"Kombajn do Zbierania Kur po Wioskach",
+3,
+[
+"Kdzkpw"
+]
+],
+[
+"Schaliach",
+3,
+[]
+],
+[
+"L.A.",
+3,
+[]
+],
+[
+"Mefisto",
+3,
+[]
+],
+[
+"Stavangerensemblet",
+3,
+[]
+],
+[
+"999",
+3,
+[]
+],
+[
+"Rufus T. Firefly",
+3,
+[]
+],
+[
+"Exkixu",
+3,
+[]
+],
+[
+"Mamá Vudú",
+3,
+[]
+],
+[
+"Red Band",
+3,
+[]
+],
+[
+"Cozy Syndrome",
+3,
+[]
+],
+[
+"Aftermath",
+3,
+[
+"Aftermath Bangladesh"
+]
+],
+[
+"East of Eden",
+3,
+[]
+],
+[
+"Pegasus",
+3,
+[]
+],
+[
+"Cunaguaro Soul",
+3,
+[]
+],
+[
+"Diles Que No Me Maten",
+3,
+[]
+],
+[
+"Saturnalia Temple",
+3,
+[]
+],
+[
+"Başkarma",
+3,
+[]
+],
+[
+"Emerald",
+3,
+[]
+],
+[
+"Return to Dust",
+3,
+[]
+],
+[
+"Fair",
+3,
+[]
+],
+[
+"The Mannish Boys",
+3,
+[
+"Mannish Boys"
+]
+],
+[
+"Nocturne",
+3,
+[]
+],
+[
+"Farewell, My Love",
+3,
+[]
+],
+[
+"Doc Holliday",
+3,
+[]
+],
+[
+"Western Synoikies",
+3,
+[]
+],
+[
+"I Wear* Experiment",
+3,
+[
+"I Wear* Experimentent"
+]
+],
+[
+"Lift",
+3,
+[]
+],
+[
+"Crow Mother",
+3,
+[]
+],
+[
+"Rites of Ash",
+3,
+[]
+],
+[
+"Kayser",
+3,
+[]
+],
+[
+"Nola",
+3,
+[]
+],
+[
+"Fahrenheit",
+3,
+[]
+],
+[
+"Motel",
+3,
+[]
+],
+[
+"Miljoonasade",
+3,
+[]
+],
+[
+"Jorsh",
+3,
+[]
+],
+[
+"Kollezhskiy Asessor",
+3,
+[
+"Collegium Accessor"
+]
+],
+[
+"Loudspeakers",
+3,
+[]
+],
+[
+"Kyyria",
+3,
+[]
+],
+[
+"VERIDIA",
+3,
+[]
+],
+[
+"Ex Hex",
+3,
+[]
+],
+[
+"Contact Trio",
+3,
+[]
+],
+[
+"Ebri Knight",
+3,
+[]
+],
+[
+"RavenEye",
+3,
+[]
+],
+[
+"Teen Suicide",
+3,
+[]
+],
+[
+"King King",
+3,
+[]
+],
+[
+"Abe Vigoda",
+3,
+[]
+],
+[
+"The Walkers",
+3,
+[]
+],
+[
+"Inglorious",
+3,
+[]
+],
+[
+"Lody Kong",
+3,
+[]
+],
+[
+"The Darling Buds",
+3,
+[]
+],
+[
+"Sinoptik",
+3,
+[]
+],
+[
+"The Brains",
+3,
+[]
+],
+[
+"Melys",
+3,
+[]
+],
+[
+"Kontingent 88",
+3,
+[]
+],
+[
+"091",
+3,
+[]
+],
+[
+"Architect",
+3,
+[
+"Architeq",
+"Sam Annand"
+]
+],
+[
+"Dirty Slippers",
+3,
+[]
+],
+[
+"Artefact",
+3,
+[]
+],
+[
+"Avantgarde",
+3,
+[]
+],
+[
+"Country Teasers",
+3,
+[]
+],
+[
+"Methyl Ethel",
+3,
+[]
+],
+[
+"Devianz",
+3,
+[]
+],
+[
+"Killed by 9V Batteries",
+3,
+[]
+],
+[
+"Forteresse",
+3,
+[]
+],
+[
+"Fraction",
+3,
+[]
+],
+[
+"Inter Arma",
+3,
+[]
+],
+[
+"Glorious",
+3,
+[]
+],
+[
+"Guerre froide",
+3,
+[]
+],
+[
+"Hepburn",
+3,
+[]
+],
+[
+"Hors Contrôle",
+3,
+[]
+],
+[
+"Inner Terrestrials",
+3,
+[]
+],
+[
+"Jack the Ripper",
+3,
+[
+"Adrien Rodrigue, Aka de Kebnekaize, Alexandre Irissou, Arnaud Mazurel, Dominique Martin, Fabrice Fenaux, Hervé Mazurel, Thierry Mazurel",
+"The Fitzcarraldo Sessions"
+]
+],
+[
+"Kohann",
+3,
+[]
+],
+[
+"Lard Free",
+3,
+[]
+],
+[
+"Les Rats",
+3,
+[]
+],
+[
+"Leusemia",
+3,
+[]
+],
+[
+"The Jeevas",
+3,
+[]
+],
+[
+"Nakanomori Band",
+3,
+[]
+],
+[
+"Penance",
+3,
+[]
+],
+[
+"Motorsex",
+3,
+[]
+],
+[
+"Kee Marcello's K2",
+3,
+[]
+],
+[
+"Magenta",
+3,
+[
+"Anders Odden & Vilde Lockert"
+]
+],
+[
+"Sirsy",
+3,
+[]
+],
+[
+"Hard Stuff",
+3,
+[
+"John Du Cann's Daemon"
+]
+],
+[
+"Starshooter",
+3,
+[]
+],
+[
+"The Hurt Process",
+3,
+[]
+],
+[
+"Panx Romana",
+3,
+[]
+],
+[
+"Warrior Kids",
+3,
+[]
+],
+[
+"Arnapi",
+3,
+[]
+],
+[
+"Abulico",
+3,
+[]
+],
+[
+"Regal Lily",
+3,
+[
+"RegalLily"
+]
+],
+[
+"Mastedon",
+3,
+[]
+],
+[
+"Morgan",
+3,
+[]
+],
+[
+"Nobraino",
+3,
+[]
+],
+[
+"Pork Dukes",
+3,
+[]
+],
+[
+"Spring",
+3,
+[]
+],
+[
+"Naka",
+3,
+[]
+],
+[
+"Nine Pound Hammer",
+3,
+[]
+],
+[
+"Brigada S",
+3,
+[
+"Brigade S"
+]
+],
+[
+"Orgia Pravednikov",
+3,
+[]
+],
+[
+"Rabfak",
+3,
+[]
+],
+[
+"Staya",
+3,
+[]
+],
+[
+"1927",
+3,
+[]
+],
+[
+"HaClique",
+3,
+[]
+],
+[
+"Aeon Zen",
+3,
+[]
+],
+[
+"Area 11",
+3,
+[]
+],
+[
+"Ark",
+3,
+[]
+],
+[
+"Banana",
+3,
+[]
+],
+[
+"Brigade",
+3,
+[]
+],
+[
+"Burn Season",
+3,
+[]
+],
+[
+"Camisa de Vênus",
+3,
+[
+"Camisa de Venus"
+]
+],
+[
+"Charizma",
+3,
+[]
+],
+[
+"Chilliwack",
+3,
+[]
+],
+[
+"Danger Radio",
+3,
+[]
+],
+[
+"Domenica",
+3,
+[]
+],
+[
+"Spanta la Xente",
+3,
+[]
+],
+[
+"Eifo HaYeled",
+3,
+[]
+],
+[
+"Musta Paraati",
+3,
+[]
+],
+[
+"Garage",
+3,
+[
+"Garáž"
+]
+],
+[
+"Gypsy",
+3,
+[
+"The James Walsh Gypsy Band"
+]
+],
+[
+"Habiluim",
+3,
+[
+"Ha Biluim"
+]
+],
+[
+"Haivrit",
+3,
+[]
+],
+[
+"Gapochka",
+3,
+[
+"Hapochka"
+]
+],
+[
+"Santos Inocentes",
+3,
+[]
+],
+[
+"Home",
+3,
+[]
+],
+[
+"L'Odi Social",
+3,
+[]
+],
+[
+"Pan",
+3,
+[]
+],
+[
+"The Black María",
+3,
+[
+"The Black Maria"
+]
+],
+[
+"Numen",
+3,
+[]
+],
+[
+"El Corazón del Sapo",
+3,
+[]
+],
+[
+"Reva l'sheva",
+3,
+[]
+],
+[
+"Love Amongst Ruin",
+3,
+[]
+],
+[
+"Molybaron",
+3,
+[]
+],
+[
+"Magdallan",
+3,
+[]
+],
+[
+"Fallout",
+3,
+[]
+],
+[
+"Neverland",
+3,
+[
+"Backstage Works",
+"Plastic Park",
+"Taxhall Projekt",
+"Two On Plastic"
+]
+],
+[
+"Beit Habubot",
+3,
+[
+"Dollhouse"
+]
+],
+[
+"Pohjannaula",
+3,
+[]
+],
+[
+"Reuben",
+3,
+[]
+],
+[
+"Rey",
+3,
+[]
+],
+[
+"Some Girls",
+3,
+[]
+],
+[
+"Sparks the Rescue",
+3,
+[]
+],
+[
+"Starbuck",
+3,
+[]
+],
+[
+"Stoneground",
+3,
+[]
+],
+[
+"The Flowers of Romance",
+3,
+[
+"Flowers Of Romance"
+]
+],
+[
+"The Friends of Natasha",
+3,
+[]
+],
+[
+"The Hippos",
+3,
+[]
+],
+[
+"The Last Drive",
+3,
+[]
+],
+[
+"The Muggs",
+3,
+[]
+],
+[
+"The New Order",
+3,
+[
+"Ron Asheton's New Order"
+]
+],
+[
+"The Record Company",
+3,
+[]
+],
+[
+"The Rubens",
+3,
+[]
+],
+[
+"The Snakes",
+3,
+[]
+],
+[
+"Thirsty Merc",
+3,
+[]
+],
+[
+"Dirty White Boy",
+3,
+[]
+],
+[
+"Voodoo Gods",
+3,
+[]
+],
+[
+"Zombi",
+3,
+[]
+],
+[
+"Zoroaster",
+3,
+[]
+],
+[
+"We Are The Night",
+3,
+[]
+],
+[
+"Crossfire",
+3,
+[]
+],
+[
+"En Attendant Ana",
+3,
+[]
+],
+[
+"Palace",
+3,
+[]
+],
+[
+"Keimzeit",
+3,
+[]
+],
+[
+"Inoren Ero Ni",
+3,
+[]
+],
+[
+"Afro Kolektyw",
+3,
+[]
+],
+[
+"Aya RL",
+3,
+[]
+],
+[
+"Classless Act",
+3,
+[]
+],
+[
+"The Sixsters",
+3,
+[]
+],
+[
+"Sedes",
+3,
+[]
+],
+[
+"Hiperkarma",
+3,
+[]
+],
+[
+"Ist Ist",
+3,
+[]
+],
+[
+"Kizu",
+3,
+[]
 ]
 ]

@@ -1,1902 +1,3250 @@
 [
 [
 "chocolate",
-190
+190,
+[]
 ],
 [
 "cotton candy",
-65
+65,
+[
+"candy floss",
+"cotton floss",
+"fairy floss",
+"Paolina Floss",
+"spun sugar",
+"sugar clouds"
+]
 ],
 [
 "marshmallow",
-60
+60,
+[]
 ],
 [
 "lollipop",
-59
+59,
+[
+"lolly",
+"sticky-pop",
+"sucker"
+]
 ],
 [
 "M&M's",
-49
+49,
+[
+"M&M"
+]
 ],
 [
 "white chocolate",
-47
+47,
+[]
 ],
 [
 "Toblerone",
-46
+46,
+[]
 ],
 [
 "Kit Kat",
-46
+46,
+[
+"KitKat"
+]
 ],
 [
 "Snickers",
-45
+45,
+[
+"Marathon"
+]
 ],
 [
 "Kinder Surprise",
-43
+43,
+[
+"Kinder egg",
+"Kinder Sorpresa"
+]
 ],
 [
 "Milka",
-41
+41,
+[]
 ],
 [
 "ganache",
-40
+40,
+[]
 ],
 [
 "Ferrero Rocher",
-40
+40,
+[]
 ],
 [
 "Mars",
-39
+39,
+[
+"Mars Bar",
+"Mars Candy",
+"Mars Candy Bar"
+]
 ],
 [
 "milk chocolate",
-37
+37,
+[]
 ],
 [
 "toffee",
-37
+37,
+[
+"Russian fudge"
+]
 ],
 [
 "Dubai chocolate",
-36
+36,
+[]
 ],
 [
 "gummy bear",
-35
+35,
+[
+"gummi bear",
+"gummi bears",
+"gummy bears"
+]
 ],
 [
 "Twix",
-35
+35,
+[
+"Raider"
+]
 ],
 [
 "Bounty",
-35
+35,
+[]
 ],
 [
 "chocolate truffle",
-34
+34,
+[
+"Chocolate truffle"
+]
 ],
 [
 "Mozartkugel",
-34
+34,
+[
+"Rudolf Baumann - Inventor of the Salzburg Mozartkugel"
+]
 ],
 [
 "çäkçäk",
-34
+34,
+[
+"Boxara käläwäse",
+"Cakcak",
+"Çäk-çäk",
+"Cekcek",
+"Cək-cək",
+"Cəkcək",
+"Chaekchaek",
+"Chek-chek",
+"Chekchek",
+"Sak-sak",
+"Sek-sek",
+"Shek-shek",
+"Tchak-tchak"
+]
 ],
 [
 "dark chocolate",
-34
+34,
+[
+"black chocolate"
+]
 ],
 [
 "dragée",
-33
+33,
+[
+"Jordan almond",
+"dragee"
+]
 ],
 [
 "Milo",
-32
+32,
+[
+"Nestle Milo"
+]
 ],
 [
 "chocolate syrup",
-32
+32,
+[
+"chocolate sauce"
+]
 ],
 [
 "candy cane",
-31
+31,
+[]
 ],
 [
 "chocolate bar",
-30
+30,
+[
+"candybar",
+"double candybar"
+]
 ],
 [
 "Tic Tac",
-29
+29,
+[]
 ],
 [
 "quince cheese",
-29
+29,
+[
+"marmelada",
+"quince paste"
+]
 ],
 [
 "Kinder Bueno",
-26
+26,
+[]
 ],
 [
 "jelly bean",
-25
+25,
+[]
 ],
 [
 "chocolate chip",
-25
+25,
+[]
 ],
 [
 "Kompeitō",
-25
+25,
+[
+"Confeito",
+"Konpeitō"
+]
 ],
 [
 "Milky Way",
-24
+24,
+[]
 ],
 [
 "Vanillekipferl",
-24
+24,
+[
+"Hókifli"
+]
 ],
 [
 "After Eight",
-24
+24,
+[
+"After Eight mint chocolate"
+]
 ],
 [
 "military chocolate",
-23
-],
-[
-"Gianduja",
-23
+23,
+[]
 ],
 [
 "ruby chocolate",
-23
+23,
+[
+"pink chocolate"
+]
+],
+[
+"Gianduja",
+23,
+[]
 ],
 [
 "sprinkles",
-23
+23,
+[
+"hundreds and thousands"
+]
 ],
 [
 "hagelslag",
-22
+22,
+[]
 ],
 [
 "Ritter Sport",
-22
+22,
+[]
 ],
 [
 "Swiss chocolate",
-22
+22,
+[]
 ],
 [
 "cough drop",
-21
+21,
+[
+"cachou",
+"cough sweet",
+"troche"
+]
 ],
 [
 "ptasie mleczko",
-21
+21,
+[
+"birds' milk"
+]
 ],
 [
 "krówki",
-21
+21,
+[
+"cream fudge",
+"krowki",
+"mou",
+"muh-muhs"
+]
 ],
 [
 "Fisherman's Friend",
-20
+20,
+[]
 ],
 [
 "Mon Chéri",
-20
+20,
+[
+"Mon Cheri"
+]
 ],
 [
 "Kinder Joy",
-20
+20,
+[
+"Kinder Merendero"
+]
 ],
 [
 "Belgian praline",
-20
+20,
+[]
 ],
 [
 "bonbon",
-20
+20,
+[
+"bon-bon",
+"chocolates"
+]
 ],
 [
 "cake pop",
-19
+19,
+[
+"Cake Pop"
+]
 ],
 [
 "Christmas cookies",
-19
+19,
+[
+"christmas cookie"
+]
 ],
 [
 "compound chocolate",
-18
+18,
+[]
 ],
 [
 "szaloncukor",
-18
+18,
+[]
 ],
 [
 "wine gum",
-17
+17,
+[
+"jelly sweets"
+]
 ],
 [
 "Kinder Chocolate",
-17
+17,
+[
+"Kinder Cioccolato"
+]
 ],
 [
 "gummy candy",
-17
+17,
+[
+"gummi candy",
+"gummies",
+"jelly candy"
+]
 ],
 [
 "Pop Rocks",
-17
+17,
+[]
 ],
 [
 "Túró Rudi",
-17
+17,
+[
+"Turo Rudi"
+]
 ],
 [
 "couverture chocolate",
-17
+17,
+[]
 ],
 [
 "Giri choco",
-16
+16,
+[]
 ],
 [
 "Werther's Original",
-16
+16,
+[
+"Werthers Echte"
+]
 ],
 [
 "Giandujotto PAT",
-15
+15,
+[]
 ],
 [
 "Gobstopper",
-15
+15,
+[
+"Jawbreaker"
+]
 ],
 [
 "Halls",
-15
+15,
+[]
 ],
 [
 "praline",
-15
+15,
+[
+"pralines"
+]
 ],
 [
 "Butterfinger",
-14
+14,
+[]
 ],
 [
 "candy bar",
-14
+14,
+[
+"candy bars"
+]
 ],
 [
 "Nestlé Crunch",
-14
+14,
+[]
 ],
 [
 "honeycomb toffee",
-14
+14,
+[
+"cinder toffee",
+"honeycomb candy",
+"sponge toffee"
+]
 ],
 [
 "Sugus",
-14
+14,
+[]
 ],
 [
 "Lion Bar",
-14
+14,
+[
+"Lion"
+]
 ],
 [
 "chocolate coins",
-14
+14,
+[
+"chocolate money",
+"gelt"
+]
 ],
 [
 "Belgian chocolate",
-14
+14,
+[]
 ],
 [
 "candied almonds",
-13
+13,
+[
+"candied almond",
+"praline"
+]
 ],
 [
 "dragon's beard candy",
-13
+13,
+[]
 ],
 [
 "Reese's Peanut Butter Cups",
-13
+13,
+[]
 ],
 [
 "honmei choco",
-13
+13,
+[]
 ],
 [
 "Sellu",
-13
+13,
+[
+"Sellu, Sel•lu, Sfuf, Sellou, Sfouf",
+"zemmita, zemita"
+]
 ],
 [
 "Cadbury Dairy Milk",
-13
+13,
+[]
 ],
 [
 "polkagris",
-13
+13,
+[]
 ],
 [
 "cuberdon",
-12
+12,
+[]
 ],
 [
 "Praline",
-12
+12,
+[]
 ],
 [
 "Goiabada",
-12
+12,
+[]
 ],
 [
 "hard candy",
-12
+12,
+[
+"boiled sweet"
+]
 ],
 [
 "Daim bar",
-12
+12,
+[
+"Daim",
+"Dime"
+]
 ],
 [
 "Aero chocolate",
-12
+12,
+[
+"Aero",
+"Aero (chocolate)"
+]
 ],
 [
 "mint",
-12
+12,
+[
+"breath mint",
+"mint candy"
+]
 ],
 [
 "Mesir macunu",
-12
+12,
+[
+"Mesir"
+]
 ],
 [
 "taffy",
-12
+12,
+[
+"chews"
+]
 ],
 [
 "baking chocolate",
-12
+12,
+[
+"Baking chocolate",
+"bitter chocolate"
+]
 ],
 [
 "marmelade",
-11
+11,
+[]
 ],
 [
 "liquorice allsorts",
-11
+11,
+[]
 ],
 [
 "Dove",
-11
+11,
+[
+"Galaxy"
+]
 ],
 [
 "Balisto",
-11
+11,
+[]
 ],
 [
 "macun şekeri",
-11
+11,
+[
+"macun"
+]
 ],
 [
 "knäck",
-10
+10,
+[]
 ],
 [
 "Galaxy",
-10
+10,
+[]
 ],
 [
 "sugar candy",
-10
+10,
+[]
 ],
 [
 "Zimtstern",
-10
+10,
+[]
 ],
 [
 "3 Musketeers",
-10
+10,
+[]
 ],
 [
 "kosereva",
-10
+10,
+[
+"coserevá",
+"koserevá"
+]
 ],
 [
 "nonpareils",
-10
+10,
+[
+"hundreds and thousands",
+"musket seed"
+]
 ],
 [
 "Prince Polo",
-10
+10,
+[]
 ],
 [
 "Milkybar",
-10
+10,
+[]
 ],
 [
 "Swedish Fish",
-10
+10,
+[]
 ],
 [
 "Kvikk Lunsj",
-10
+10,
+[]
 ],
 [
 "Baby Ruth",
-9
+9,
+[]
 ],
 [
 "Starburst",
-9
+9,
+[
+"Opal Fruits",
+"Starburst candy"
+]
 ],
 [
 "Alyonka chocolate",
-9
+9,
+[]
 ],
 [
 "Kendal Mint Cake",
-9
+9,
+[]
 ],
 [
 "Dutch-process cocoa",
-9
+9,
+[
+"Dutch cocoa",
+"Dutched chocolate",
+"Dutch process chocolate"
+]
 ],
 [
 "Sugar painting",
-8
+8,
+[]
 ],
 [
 "Magenbrot",
-8
+8,
+[]
 ],
 [
 "air chocolate",
-8
+8,
+[
+"aerated chocolate",
+"bubble chocolate",
+"bubbly chocolate"
+]
 ],
 [
 "Kit Kats in Japan",
-8
+8,
+[
+"Kit Kat in Japan",
+"KitKat in Japan",
+"KitKats in Japan"
+]
 ],
 [
 "Altoids",
-8
+8,
+[]
 ],
 [
 "Life Savers",
-8
+8,
+[]
 ],
 [
 "Hershey bar",
-8
+8,
+[
+"Hershey's Milk Chocolate Bar"
+]
 ],
 [
 "Black Thunder",
-8
+8,
+[]
 ],
 [
 "Jelly Babies",
-8
+8,
+[]
 ],
 [
 "Sakuma drops",
-8
+8,
+[]
 ],
 [
 "mint chocolate",
-8
+8,
+[]
 ],
 [
 "Plopp",
-7
+7,
+[]
 ],
 [
 "drops",
-7
+7,
+[]
 ],
 [
 "Coffee Crisp",
-7
+7,
+[]
 ],
 [
 "Lakrisal",
-7
+7,
+[]
 ],
 [
 "Carambar",
-7
+7,
+[]
 ],
 [
 "Almond Joy",
-7
+7,
+[]
 ],
 [
 "Mounds",
-7
+7,
+[]
 ],
 [
 "cat tongues",
-6
+6,
+[]
 ],
 [
 "TIROL-CHOCO",
-6
+6,
+[]
 ],
 [
 "Maoam",
-6
+6,
+[]
 ],
 [
 "Wispa",
-6
+6,
+[]
 ],
 [
 "Heath bar",
-6
+6,
+[]
 ],
 [
 "Ahlgrens bilar",
-6
+6,
+[]
 ],
 [
 "barley sugar",
-6
+6,
+[]
 ],
 [
 "Kopalnioki",
-6
+6,
+[]
 ],
 [
 "Bajadera",
-6
+6,
+[]
 ],
 [
 "Caramilk",
-6
+6,
+[]
 ],
 [
 "Oh Henry!",
-6
+6,
+[]
 ],
 [
 "Frisk",
-6
+6,
+[]
 ],
 [
 "100 Grand Bar",
-6
+6,
+[
+"$100,000 Bar",
+"100 Grand"
+]
 ],
 [
 "Pocket Coffee",
-6
+6,
+[
+"Ferrero Pocket Coffee"
+]
 ],
 [
 "Flake",
-6
+6,
+[]
 ],
 [
 "Crunchie",
-6
+6,
+[]
 ],
 [
 "Gumdrop",
-6
+6,
+[]
 ],
 [
 "Hershey's Cookies 'n' Creme",
-6
+6,
+[]
 ],
 [
 "Ghana Chocolate",
-6
+6,
+[
+"Ghana",
+"Lotte Ghana Chocolate"
+]
 ],
 [
 "Mr. Goodbar",
-6
+6,
+[]
 ],
 [
 "Mässmogge",
-6
+6,
+[]
 ],
 [
 "Nerds",
-6
+6,
+[]
 ],
 [
 "Sour Patch Kids",
-6
+6,
+[]
 ],
 [
 "Yorkie chocolate bar",
-6
+6,
+[]
 ],
 [
 "Zero bar",
-6
+6,
+[]
 ],
 [
 "Violet candy",
-6
+6,
+[]
 ],
 [
 "Geisha",
-5
+5,
+[]
 ],
 [
 "licorice pipe",
-5
+5,
+[
+"Skipper's Pipes"
+]
 ],
 [
 "Kofila",
-5
+5,
+[]
 ],
 [
 "5th Avenue",
-5
+5,
+[]
 ],
 [
 "Negro",
-5
+5,
+[]
 ],
 [
 "Pihlaja",
-5
+5,
+[]
 ],
 [
 "Star Bar",
-5
+5,
+[]
 ],
 [
 "Jolly Rancher",
-5
+5,
+[]
 ],
 [
 "Mailänderli",
-5
+5,
+[]
 ],
 [
 "Nuts",
-5
+5,
+[
+"Nestle Nuts",
+"Nestlé Nuts",
+"Nuts bar"
+]
 ],
 [
 "Presidential M&M's",
-5
+5,
+[]
 ],
 [
 "Topic",
-5
+5,
+[]
 ],
 [
 "Bacio Perugina",
-5
+5,
+[]
 ],
 [
 "Cremino",
-5
+5,
+[]
 ],
 [
 "Idaho Spud",
-5
+5,
+[]
 ],
 [
 "Cadbury Picnic",
-5
+5,
+[]
 ],
 [
 "Tupla",
-5
+5,
+[]
 ],
 [
 "Abba-Zaba",
-5
+5,
+[]
 ],
 [
 "Bit-O-Honey",
-5
+5,
+[]
 ],
 [
 "Cherry Blossom",
-5
+5,
+[]
 ],
 [
 "Nerds And Monsters & Sonic X",
-5
+5,
+[
+"Lisa Ortiz Tabitha St. Germain"
+]
 ],
 [
 "Fry's Turkish Delight",
-5
+5,
+[]
 ],
 [
 "5 Star",
-5
+5,
+[]
 ],
 [
 "Hershey's Special Dark",
-5
+5,
+[]
 ],
 [
 "Horalky",
-5
+5,
+[]
 ],
 [
 "Mike and Ike",
-5
+5,
+[]
 ],
 [
 "Nestlé Chunky",
-5
+5,
+[
+"Nestle Chunky"
+]
 ],
 [
 "peanut butter cup",
-5
+5,
+[]
 ],
 [
 "Ring Pop",
-5
+5,
+[
+"Ring Pop candy"
+]
 ],
 [
 "SweeTarts",
-5
+5,
+[]
 ],
 [
 "Whatchamacallit",
-5
+5,
+[]
 ],
 [
 "modeling chocolate",
-5
+5,
+[
+"candy clay",
+"chocolate clay",
+"chocolate leather",
+"modelling chocolate",
+"plastic chocolate"
+]
 ],
 [
 "comfit",
-5
+5,
+[]
 ],
 [
 "babelutte",
-4
+4,
+[]
 ],
 [
 "Fazer Blue",
-4
+4,
+[]
 ],
 [
 "Duplo",
-4
+4,
+[]
 ],
 [
 "pastillas",
-4
+4,
+[
+"pastilla de leche"
+]
 ],
 [
 "nimm2",
-4
+4,
+[]
 ],
 [
 "Hamburger Speck",
-4
+4,
+[]
 ],
 [
 "Sport slice",
-4
+4,
+[]
 ],
 [
 "Freia Melkesjokolade",
-4
+4,
+[]
 ],
 [
 "Lohengrin",
-4
+4,
+[]
 ],
 [
 "Seafood pralines",
-4
+4,
+[]
 ],
 [
 "Brunsli",
-4
+4,
+[]
 ],
 [
 "Jersey Milk",
-4
+4,
+[]
 ],
 [
 "Confetti di Sulmona",
-4
+4,
+[]
 ],
 [
 "Bar One",
-4
+4,
+[
+"Nestle Bar One"
+]
 ],
 [
 "Troika",
-4
+4,
+[]
 ],
 [
 "Baker's Chocolate",
-4
+4,
+[]
 ],
 [
 "Boost",
-4
+4,
+[]
 ],
 [
 "Cadbury Fingers",
-4
+4,
+[]
 ],
 [
 "Caramello Koala",
-4
+4,
+[]
 ],
 [
 "Chokito",
-4
+4,
+[]
 ],
 [
 "Curly Wurly",
-4
+4,
+[]
 ],
 [
 "Edinburgh rock",
-4
+4,
+[
+"Edinburgh Castle rock"
+]
 ],
 [
 "Chocolate Frogs",
-4
+4,
+[]
 ],
 [
 "Laffy Taffy",
-4
+4,
+[]
 ],
 [
 "Pesek Zman",
-4
+4,
+[]
 ],
 [
 "Nero",
-4
+4,
+[]
 ],
 [
 "Penguin",
-4
+4,
+[]
 ],
 [
 "Peppermint Crisp",
-4
+4,
+[]
 ],
 [
 "Percy Pig",
-4
+4,
+[]
 ],
 [
 "Push Pop",
-4
+4,
+[]
 ],
 [
 "stick candy",
-4
+4,
+[]
 ],
 [
 "Sugar plum",
-4
+4,
+[]
 ],
 [
 "Symphony (candy)",
-4
+4,
+[]
 ],
 [
 "yellowman",
-4
+4,
+[
+"yellaman",
+"yellow man"
+]
 ],
 [
 "Zagnut",
-4
+4,
+[]
 ],
 [
 "pavé chocolate",
-4
+4,
+[]
 ],
 [
 "Center",
-3
+3,
+[]
 ],
 [
 "Kick",
-3
+3,
+[]
 ],
 [
 "Sportlunch",
-3
+3,
+[]
 ],
 [
 "gummy worm",
-3
+3,
+[
+"Gummy worms"
+]
 ],
 [
 "ramune",
-3
+3,
+[]
 ],
 [
 "aruheitō",
-3
+3,
+[
+"ariheitō"
+]
 ],
 [
 "bekkō candy",
-3
+3,
+[
+"bekkō ame"
+]
 ],
 [
 "karumeyaki",
-3
+3,
+[
+"karume-yaki"
+]
 ],
 [
 "Hershey's Miniatures",
-3
+3,
+[]
 ],
 [
 "Mingles",
-3
+3,
+[]
 ],
 [
 "Tortit",
-3
+3,
+[]
 ],
 [
 "Ferrero-Küsschen",
-3
+3,
+[]
 ],
 [
 "Sonho de Valsa",
-3
+3,
+[]
 ],
 [
 "Japp",
-3
+3,
+[]
 ],
 [
 "Sin Parar",
-3
+3,
+[]
 ],
 [
 "Kinder cereals",
-3
+3,
+[
+"Kinder Country"
+]
 ],
 [
 "Sfratto di Pitigliano",
-3
+3,
+[]
 ],
 [
 "Princessa",
-3
+3,
+[]
 ],
 [
 "AirHeads",
-3
+3,
+[]
 ],
 [
 "Aniseed ball",
-3
+3,
+[]
 ],
 [
 "Big Turk",
-3
+3,
+[
+"Nestle Big Turk"
+]
 ],
 [
 "Cadbury Mr. Big",
-3
+3,
+[]
 ],
 [
 "Carlos V chocolate bar",
-3
+3,
+[
+"Carlos V (chocolate)"
+]
 ],
 [
 "Cherry Ripe",
-3
+3,
+[]
 ],
 [
 "Chick-O-Stick",
-3
+3,
+[]
 ],
 [
 "Chomp",
-3
+3,
+[]
 ],
 [
 "Clark Bar",
-3
+3,
+[]
 ],
 [
 "Double Decker",
-3
+3,
+[]
 ],
 [
 "Dream",
-3
+3,
+[]
 ],
 [
 "Dum Dum Pop",
-3
+3,
+[
+"Dum Dums",
+"Dum•Dums"
+]
 ],
 [
 "Fry's Chocolate Cream",
-3
+3,
+[]
 ],
 [
 "Fun Dip",
-3
+3,
+[
+"Lik-m-aid"
+]
 ],
 [
 "Fuse",
-3
+3,
+[]
 ],
 [
 "Cadbury Old Gold",
-3
+3,
+[]
 ],
 [
 "Goldenberg's Peanut Chews",
-3
+3,
+[]
 ],
 [
 "GooGoo Cluster",
-3
+3,
+[]
 ],
 [
 "Humbug",
-3
+3,
+[]
 ],
 [
 "Puccho",
-3
+3,
+[]
 ],
 [
 "Kismet",
-3
+3,
+[]
 ],
 [
 "Opera cream",
-3
+3,
+[]
 ],
 [
 "lemon drop",
-3
+3,
+[
+"Drop"
+]
 ],
 [
 "CHELSEA",
-3
+3,
+[]
 ],
 [
 "Aakkoset",
-3
+3,
+[]
 ],
 [
 "Mackintosh's Toffee",
-3
+3,
+[]
 ],
 [
 "Mekupelet",
-3
+3,
+[]
 ],
 [
 "Lacta",
-3
+3,
+[]
 ],
 [
 "Moro",
-3
+3,
+[]
 ],
 [
 "Munch",
-3
+3,
+[]
 ],
 [
 "Reese's Sticks",
-3
+3,
+[]
 ],
 [
 "rock",
-3
+3,
+[
+"Blackpool rock",
+"Brighton rock"
+]
 ],
 [
 "Skor",
-3
+3,
+[]
 ],
 [
 "Time Out",
-3
+3,
+[]
 ],
 [
 "Twirl",
-3
+3,
+[]
 ],
 [
 "Yankie Bar",
-3
+3,
+[]
 ],
 [
 "Bayrisch Blockmalz",
-3
+3,
+[
+"Aecht Bayrischer Blockmalz",
+"Bayrischer Blockmalz",
+"Echt Bayrisch Blockmalz"
+]
 ],
 [
 "Irish potato candy",
-3
+3,
+[]
 ],
 [
 "bean-to-bar",
-3
+3,
+[
+"b2b chocolate",
+"Bean to Bar",
+"craft chocolate"
+]
 ],
 [
 "Badem şekeri",
-3
+3,
+[]
 ],
 [
 "Lollo",
-2
+2,
+[]
 ],
 [
 "Bridge",
-2
+2,
+[]
 ],
 [
 "Brio",
-2
+2,
+[]
 ],
 [
 "Cloetta Juleskum",
-2
+2,
+[]
 ],
 [
 "Cloetta Kexchoklad",
-2
+2,
+[]
 ],
 [
 "Fruxo",
-2
+2,
+[]
 ],
 [
 "foam candy",
-2
+2,
+[]
 ],
 [
 "Soho",
-2
+2,
+[]
 ],
 [
 "DARS",
-2
+2,
+[]
 ],
 [
 "Meiji milk chocolate",
-2
+2,
+[]
 ],
 [
 "Da-Capo",
-2
+2,
+[]
 ],
 [
 "Vosí hnízdo",
-2
+2,
+[]
 ],
 [
 "Christmas candy",
-2
+2,
+[]
 ],
 [
 "blonde chocolate",
-2
+2,
+[
+"blond chocolate",
+"caramelized chocolate, golden chocolate",
+"dulcey chocolate",
+"gold chocolate",
+"golden chocolate"
+]
 ],
 [
 "Kif Kef",
-2
+2,
+[]
 ],
 [
 "Flavorless candy",
-2
+2,
+[]
 ],
 [
 "Egozi",
-2
+2,
+[]
 ],
 [
 "Twist",
-2
+2,
+[]
 ],
 [
 "Caramello",
-2
+2,
+[]
 ],
 [
 "Gullbrød",
-2
+2,
+[]
 ],
 [
 "Mokkatrøffel",
-2
+2,
+[]
 ],
 [
 "Ginger candy",
-2
+2,
+[]
 ],
 [
 "panoramic sugar egg",
-2
+2,
+[
+"panorama egg",
+"panoramic Easter egg",
+"sugar egg"
+]
 ],
 [
 "Schleckmuscheln",
-2
+2,
+[]
 ],
 [
 "Studentská pečeť",
-2
+2,
+[]
 ],
 [
 "Jet-Puffed Marshmallows",
-2
+2,
+[]
 ],
 [
 "Cri cri",
-2
+2,
+[
+"cri-cri"
+]
 ],
 [
 "Zaotang",
-2
+2,
+[]
 ],
 [
 "Jacob's Club",
-2
+2,
+[]
 ],
 [
 "Kinder Maxi King",
-2
+2,
+[]
 ],
 [
 "Yogurette",
-2
+2,
+[]
 ],
 [
 "Galaxy Honeycomb Crisp",
-2
+2,
+[]
 ],
 [
 "Koetjesreep",
-2
+2,
+[]
 ],
 [
 "Animal Bar",
-2
+2,
+[]
 ],
 [
 "baci di Cherasco",
-2
+2,
+[]
 ],
 [
 "chocolate egg",
-2
+2,
+[]
 ],
 [
 "Cha-Cha",
-2
+2,
+[]
 ],
 [
 "Berlingot de Carpentras",
-2
+2,
+[]
 ],
 [
 "Ta'ami",
-2
+2,
+[
+"Taami"
+]
 ],
 [
 "Easter candy",
-2
+2,
+[]
 ],
 [
 "Marathon",
-2
+2,
+[]
 ],
 [
 "Roudoudou",
-2
+2,
+[]
 ],
 [
 "Zoo",
-2
+2,
+[]
 ],
 [
 "Crispo",
-2
+2,
+[]
 ],
 [
 "Allen's",
-2
+2,
+[]
 ],
 [
 "Army & Navy Sweets",
-2
+2,
+[]
 ],
 [
 "Baby Bottle Pop",
-2
+2,
+[]
 ],
 [
 "Big Hunk",
-2
+2,
+[]
 ],
 [
 "Bournville",
-2
+2,
+[]
 ],
 [
 "Bun Bars",
-2
+2,
+[]
 ],
 [
 "Cadbury Dairy Milk Caramel",
-2
+2,
+[]
 ],
 [
 "Cadbury Dairy Milk Fruit & Nut",
-2
+2,
+[]
 ],
 [
 "Cadbury Snack",
-2
+2,
+[]
 ],
 [
 "Cadbury Snowflake",
-2
+2,
+[]
 ],
 [
 "Campino",
-2
+2,
+[]
 ],
 [
 "Certs",
-2
+2,
+[]
 ],
 [
 "Crachi",
-2
+2,
+[]
 ],
 [
 "Creme Egg Twisted",
-2
+2,
+[]
 ],
 [
 "Crisp",
-2
+2,
+[]
 ],
 [
 "Drifter",
-2
+2,
+[
+"Nestlé Drifter"
+]
 ],
 [
 "Eat-More",
-2
+2,
+[]
 ],
 [
 "Flyte",
-2
+2,
+[]
 ],
 [
 "Fox's U-bet chocolate syrup",
-2
+2,
+[]
 ],
 [
 "fruit snack",
-2
+2,
+[]
 ],
 [
 "Fudge",
-2
+2,
+[]
 ],
 [
 "Galaxy Bubbles",
-2
+2,
+[]
 ],
 [
 "Pellizco",
-2
+2,
+[]
 ],
 [
 "Haviland Thin Mints",
-2
+2,
+[]
 ],
 [
 "ate",
-2
+2,
+[
+"dulce de membrillo"
+]
 ],
 [
 "Hot Tamales",
-2
+2,
+[]
 ],
 [
 "KING",
-2
+2,
+[]
 ],
 [
 "Junior Mints",
-2
+2,
+[]
 ],
 [
 "Klik",
-2
+2,
+[
+"Glik"
+]
 ],
 [
 "Lemonhead",
-2
+2,
+[]
 ],
 [
 "M-Azing",
-2
+2,
+[]
 ],
 [
 "NutRageous",
-2
+2,
+[]
 ],
 [
 "PB Max",
-2
+2,
+[]
 ],
 [
 "Pixy Stix",
-2
+2,
+[]
 ],
 [
 "Polly",
-2
+2,
+[]
 ],
 [
 "Polly Waffle",
-2
+2,
+[]
 ],
 [
 "Salt water taffy",
-2
+2,
+[]
 ],
 [
 "Sky Bar",
-2
+2,
+[]
 ],
 [
 "St. Catherine's taffy",
-2
+2,
+[]
 ],
 [
 "Nestlé Munch",
-2
+2,
+[]
 ],
 [
 "Rally",
-1
+1,
+[]
 ],
 [
 "Kina",
-1
+1,
+[]
 ],
 [
 "Aztec",
-1
+1,
+[
+"Aztec 2000"
+]
 ],
 [
 "big rats",
-1
+1,
+[]
 ],
 [
 "Tulo",
-1
+1,
+[]
 ],
 [
 "Tutti Frutti",
-1
+1,
+[]
 ],
 [
 "Toffo",
-1
+1,
+[]
 ],
 [
 "Cabana",
-1
+1,
+[]
 ],
 [
 "Haribo Happy Cola",
-1
+1,
+[
+"Happy Cola"
+]
 ],
 [
 "Goen choko",
-1
+1,
+[
+"5 yen choco"
+]
 ],
 [
 "silver dragée",
-1
+1,
+[]
 ],
 [
 "Whiskey Bon Bon",
-1
+1,
+[]
 ],
 [
 "Galbo",
-1
+1,
+[]
 ],
 [
 "Cocoa Cigarette",
-1
+1,
+[]
 ],
 [
 "Cola up",
-1
+1,
+[]
 ],
 [
 "tannafakurū",
-1
+1,
+[]
 ],
 [
 "choco egg",
-1
+1,
+[]
 ],
 [
 "chocolate covered ants",
-1
+1,
+[]
 ],
 [
 "Choco Bat",
-1
+1,
+[]
 ],
 [
 "Marble chocolate",
-1
+1,
+[]
 ],
 [
 "Mini Cola",
-1
+1,
+[]
 ],
 [
 "Milky",
-1
+1,
+[]
 ],
 [
 "MINTIA",
-1
+1,
+[]
 ],
 [
 "Roseau d'Annecy",
-1
+1,
+[
+"Roseaux d'Annecy"
+]
 ],
 [
 "LOOK",
-1
+1,
+[]
 ],
 [
 "Berlingot",
-1
+1,
+[]
 ],
 [
 "Kajuu gumi",
-1
+1,
+[
+"Kajū gumi",
+"Kajū gummy",
+"Kajuu gummy"
+]
 ],
 [
 "tablet candy",
-1
+1,
+[]
 ],
 [
 "chocolate Easter egg",
-1
+1,
+[]
 ],
 [
 "chocolate drops",
-1
+1,
+[
+"Chocodrops",
+"Choco Drops",
+"Chocolate Chips",
+"Chocolate Chunks"
+]
 ],
 [
 "kamiyo ame",
-1
+1,
+[
+"Kamiyo Ame Candy",
+"kamiyo candy"
+]
 ],
 [
 "Nerds Gummy Clusters",
-1
+1,
+[]
 ],
 [
 "Bocca",
-1
+1,
+[]
 ],
 [
 "dulce de membrillo and cheese",
-1
+1,
+[]
 ],
 [
 "Cadbury Favourites",
-1
+1,
+[]
 ],
 [
 "banana gummy",
-1
+1,
+[
+"banana foam candy",
+"banana sweets"
+]
 ],
 [
 "Mogimogi Fruits Gummy",
-1
+1,
+[]
 ],
 [
 "Kazakhstan chocolate",
-1
+1,
+[
+"Kazakh chocolate",
+"\"Kazakhstan\" chocolate",
+"Kazakhstani chocolate",
+"\"Qazaqstan\" chocolate"
+]
 ],
 [
 "Charms Blow Pops",
-1
+1,
+[
+"Blow Pops",
+"Triple Treat"
+]
 ],
 [
 "chocolate in Japan",
-1
+1,
+[]
 ],
 [
 "Mayordomo",
-1
+1,
+[]
 ],
 [
 "Frango",
-1
+1,
+[]
 ],
 [
 "Laekrits",
-1
+1,
+[]
 ],
 [
 "Lemon stick",
-1
+1,
+[]
 ],
 [
 "Ippon Manzoku Bar",
-1
+1,
+[
+"Ippon Mannzoku Bar"
+]
 ],
 [
 "Kinder Freude",
-1
+1,
+[
+"Maxi Ei"
+]
 ],
 [
 "aporo",
-1
+1,
+[
+"Apollo"
+]
 ],
 [
 "Zedernbrot",
-1
+1,
+[]
 ],
 [
 "Prestígio",
-1
+1,
+[]
 ],
 [
 "Suffeli",
-1
+1,
+[]
 ],
 [
 "Bobby",
-1
+1,
+[]
 ],
 [
 "Qrishlat",
-1
+1,
+[]
 ],
 [
 "Nestlé Tex",
-1
+1,
+[]
 ],
 [
 "Trio",
-1
+1,
+[]
 ],
 [
 "Pal-o-mine",
-1
+1,
+[]
 ],
 [
 "Yoglet",
-1
+1,
+[]
 ],
 [
 "Sugar Mama",
-1
+1,
+[]
 ],
 [
 "bulls-eye",
-1
+1,
+[]
 ],
 [
 "Black Magic",
-1
+1,
+[]
 ],
 [
 "Shigekikkusu",
-1
+1,
+[]
 ],
 [
 "Coco Boer",
-1
+1,
+[]
 ],
 [
 "Pulse",
-1
+1,
+[]
 ],
 [
 "boiled sweet",
-1
+1,
+[]
 ],
 [
 "La Vosgienne",
-1
+1,
+[]
 ],
 [
 "Monk's",
-1
+1,
+[]
 ],
 [
 "Morositas",
-1
+1,
+[]
 ],
 [
 "Zigulì",
-1
+1,
+[
+"Ziguli"
+]
 ],
 [
 "Pim Pim",
-1
+1,
+[]
 ],
 [
 "Guldnougat",
-1
+1,
+[]
 ],
 [
 "Gott & blandat",
-1
+1,
+[]
 ],
 [
 "Huesitos",
-1
+1,
+[]
 ],
 [
 "Aniseed twist",
-1
+1,
+[]
 ],
 [
 "Apple drops",
-1
+1,
+[]
 ],
 [
 "Astros",
-1
+1,
+[]
 ],
 [
 "Morinaga milk chocolate",
-1
+1,
+[]
 ],
 [
 "Cadbury Spira",
-1
+1,
+[]
 ],
 [
 "Cadburys Tempo",
-1
+1,
+[]
 ],
 [
 "Cherry Mash",
-1
+1,
+[]
 ],
 [
 "Lentilky",
-1
+1,
+[]
 ],
 [
 "Cup-o-Gold",
-1
+1,
+[]
 ],
 [
 "Gibraltar rock",
-1
+1,
+[]
 ],
 [
 "dark chocolate chips",
-1
+1,
+[]
 ],
 [
 "Ibarra",
-1
+1,
+[]
 ],
 [
 "Tofi",
-1
+1,
+[]
 ],
 [
 "Kojak",
-1
+1,
+[]
 ],
 [
 "Bocadin",
-1
+1,
+[]
 ],
 [
 "Hallonlakritsskalle",
-1
+1,
+[]
 ],
 [
 "Nut Goodie",
-1
+1,
+[]
 ],
 [
 "Nutty bars",
-1
+1,
+[]
 ],
 [
 "Red Vines",
-1
+1,
+[]
 ],
 [
 "Reese's Crispy Crunchy Bar",
-1
+1,
+[]
 ],
 [
 "Reese's Fast Break",
-1
+1,
+[
+"Hershey Sidekick"
+]
 ],
 [
 "Reese's Whipps",
-1
+1,
+[]
 ],
 [
 "Secret",
-1
+1,
+[]
 ],
 [
 "star rock",
-1
+1,
+[
+"starry rock"
+]
 ],
 [
 "Summit Candy Bar",
-1
+1,
+[]
 ],
 [
 "Taxi",
-1
+1,
+[]
 ],
 [
 "Texan",
-1
+1,
+[]
 ],
 [
 "Opatów krówki",
-1
+1,
+[]
 ],
 [
 "U-No Bar",
-1
+1,
+[]
 ],
 [
 "Wazoo",
-1
+1,
+[]
 ],
 [
 "ZotZ",
-1
+1,
+[]
 ],
 [
 "Oatfield Emerald",
-1
+1,
+[]
 ],
 [
 "Hi-Lemon",
-1
+1,
+[]
 ],
 [
 "Poyfull",
-1
+1,
+[]
+],
+[
+"Ülker Alpella",
+0,
+[]
+],
+[
+"Indigenous Chocolate",
+0,
+[
+"Aboriginal Chocolate",
+"Amerindian Chocolate",
+"Cacao-Chocolate",
+"Chocolata Inda",
+"Indigenous Chocolate ™",
+"Native American Chocolate"
+]
+],
+[
+"popping candy",
+0,
+[]
+],
+[
+"Laber Larve",
+0,
+[]
+],
+[
+"white gummy bear",
+0,
+[]
+],
+[
+"herbal gummy supplement",
+0,
+[
+"botanical gummy supplement",
+"gummy natural supplement",
+"herbal gummies"
+]
+],
+[
+"ashwagandha gummies",
+0,
+[
+"ashwa gummies"
+]
+],
+[
+"hemp-based gummies",
+0,
+[]
+],
+[
+"CBD gummies",
+0,
+[
+"cannabidiol gummies"
+]
+],
+[
+"Sambucus nigra gummies",
+0,
+[
+"elderberry gummies",
+"Sambucus elderberry gummies"
+]
+],
+[
+"Sakeru Gummy",
+0,
+[]
+],
+[
+"Cacao-Chocolate",
+0,
+[
+"Cacao Chocolate",
+"Chocolate from cacao",
+"Indigenous chocolate",
+"Original chocolate",
+"Pure chocolate"
+]
+],
+[
+"Chocolate Panda",
+0,
+[
+"7th heaven chocolate"
+]
+],
+[
+"Tart 'N Tangy Taffy",
+0,
+[
+"TNT Taffy"
+]
+],
+[
+"Conejos con crema pastelera",
+0,
+[
+"Conejitos con crema pastelera"
+]
+],
+[
+"Jolly Rancher Original Flavors",
+0,
+[]
+],
+[
+"Jolly Rancher Tropical",
+0,
+[]
+],
+[
+"Jolly Rancher Fruity Bash",
+0,
+[]
+],
+[
+"Gummy Onions",
+0,
+[]
+],
+[
+"Sourballs",
+0,
+[]
+],
+[
+"Splashberry Derps",
+0,
+[]
+],
+[
+"Cosmic Coconut",
+0,
+[]
+],
+[
+"Blots",
+0,
+[]
+],
+[
+"Hot Rods",
+0,
+[]
+],
+[
+"Nerds Rope",
+0,
+[]
+],
+[
+"AirHeads Xtremes",
+0,
+[]
+],
+[
+"Freezin' Flecks",
+0,
+[]
+],
+[
+"Silver Doubloons",
+0,
+[]
+],
+[
+"Raspberry Bark",
+0,
+[]
+],
+[
+"Blackberry Bark",
+0,
+[]
+],
+[
+"Portallini Confetti",
+0,
+[]
+],
+[
+"Autumn Leaves Sprinkles",
+0,
+[]
+],
+[
+"Countdown Candies",
+0,
+[]
+],
+[
+"Pyroclastic Crunch",
+0,
+[]
+],
+[
+"Dr. Bones",
+0,
+[]
+],
+[
+"Cinco Swirls",
+0,
+[]
+],
+[
+"AirHeads Cherry",
+0,
+[]
+],
+[
+"AirHeads Watermelon",
+0,
+[]
+],
+[
+"AirHeads Grape",
+0,
+[]
+],
+[
+"AirHeads Strawberry",
+0,
+[]
+],
+[
+"AirHeads Orange",
+0,
+[]
+],
+[
+"AirHeads Green Apple",
+0,
+[]
+],
+[
+"AirHeads Blue Raspberry",
+0,
+[]
+],
+[
+"AirHeads White Mystery",
+0,
+[]
+],
+[
+"AirHeads Pink Lemonade",
+0,
+[]
+],
+[
+"AirHeads 9 Bars",
+0,
+[]
+],
+[
+"AirHeads 6 Bars",
+0,
+[]
+],
+[
+"AirHeads Citrus Rush",
+0,
+[]
+],
+[
+"AirHeads 5 Bars",
+0,
+[]
+],
+[
+"Bunte Tüte",
+0,
+[]
+],
+[
+"Gummy Kraken",
+0,
+[]
+],
+[
+"Sourbatch Bears",
+0,
+[]
+],
+[
+"Quasi-Gummy Chewy Candy Fish",
+0,
+[]
+],
+[
+"Jolly Rancher Cherry",
+0,
+[]
+],
+[
+"Jolly Rancher Green Apple",
+0,
+[]
+],
+[
+"Jolly Rancher Blue Raspberry",
+0,
+[]
+],
+[
+"Jolly Rancher Grape",
+0,
+[]
+],
+[
+"Jolly Rancher Watermelon",
+0,
+[]
+],
+[
+"Jolly Rancher Lemon",
+0,
+[]
+],
+[
+"Jolly Rancher Strawberry",
+0,
+[]
+],
+[
+"Jolly Rancher Passion Mix",
+0,
+[]
+],
+[
+"Jolly Rancher Peach",
+0,
+[]
+],
+[
+"Jolly Rancher Orange",
+0,
+[]
+],
+[
+"Jolly Rancher Fruit Punch",
+0,
+[]
+],
+[
+"Jolly Rancher Wild Berry Fruit Flavors",
+0,
+[]
+],
+[
+"Jolly Rancher Fruit 'N' Sour",
+0,
+[]
+],
+[
+"Jolly Rancher Bold Fruit Smoothie",
+0,
+[
+"Jolly Rancher Springtime Smoothies"
+]
+],
+[
+"Jolly Rancher Mountain Berry",
+0,
+[]
+],
+[
+"Jolly Rancher Pineapple",
+0,
+[]
+],
+[
+"Jolly Rancher Sour Cherry",
+0,
+[]
+],
+[
+"Jolly Rancher Sour Green Apple",
+0,
+[]
+],
+[
+"Jolly Rancher Sour Blue Raspberry",
+0,
+[]
+],
+[
+"Jolly Rancher Sour Watermelon",
+0,
+[]
+],
+[
+"Jolly Rancher Sour Wild Strawberry",
+0,
+[]
+],
+[
+"Jolly Rancher Raspberry",
+0,
+[]
+],
+[
+"Jolly Rancher Wild Strawberry",
+0,
+[]
+],
+[
+"Jolly Rancher Strawberry-Watermelon",
+0,
+[]
+],
+[
+"Jolly Rancher Raspberry Lemonade",
+0,
+[]
+],
+[
+"Jolly Rancher Strawberry Smoothie",
+0,
+[]
+],
+[
+"Jolly Rancher Watermelon Smoothie",
+0,
+[]
+],
+[
+"Jolly Rancher Peach Smoothie",
+0,
+[]
+],
+[
+"Jolly Rancher Orange Smoothie",
+0,
+[]
+],
+[
+"Jolly Rancher Mixed Berry Smoothie",
+0,
+[]
+],
+[
+"Jolly Rancher Cinnamon Fire!",
+0,
+[]
+],
+[
+"Jolly Rancher Mango",
+0,
+[]
+],
+[
+"Jolly Rancher Golden Pineapple",
+0,
+[]
+],
+[
+"Jolly Rancher Lime",
+0,
+[]
+],
+[
+"AirHeads Sour Blue Blast",
+0,
+[]
+],
+[
+"AirHeads Sour Watermelon Punch",
+0,
+[]
+],
+[
+"AirHeads Sour Lemon Berry Squeeze",
+0,
+[]
+],
+[
+"Manija",
+0,
+[]
+],
+[
+"Joyride Sweets",
+0,
+[
+"Joyride"
+]
+],
+[
+"camel milk chocolate",
+0,
+[]
+],
+[
+"caraway comfit",
+0,
+[
+"candied caraway",
+"comfits of caraway"
+]
+],
+[
+"Candel",
+0,
+[
+"Candel Astra, Astra, Cande"
+]
+],
+[
+"Cadbury Heroes",
+0,
+[]
+],
+[
+"troach drop",
+0,
+[
+"troach",
+"troach rock",
+"troach sweet"
+]
+],
+[
+"sugar-free candy",
+0,
+[
+"sugar free candy"
+]
+],
+[
+"Spitzbuben",
+0,
+[]
+],
+[
+"Peanut Cluster",
+0,
+[]
+],
+[
+"Tokke",
+0,
+[]
+],
+[
+"bittersweet chocolate",
+0,
+[
+"Bittersweet chocolate"
+]
+],
+[
+"grated chocolate",
+0,
+[]
+],
+[
+"arum manis",
+0,
+[]
 ]
 ]

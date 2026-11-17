@@ -1,650 +1,11152 @@
 [
 [
 "Sahara",
-225
+225,
+[
+"al-Sahara",
+"al-Sahra",
+"as-Sahra",
+"as-Sahra al-Kubra",
+"aṣ-Ṣaḥrāʾ al-Kubrā",
+"Desart",
+"Desert",
+"Great Desert",
+"Saara",
+"Sahara Desert",
+"Saharra",
+"the Desart",
+"the Desert",
+"the Great Desert",
+"The Sahara",
+"Zaara",
+"Zahara",
+"Zara"
+]
 ],
 [
 "Sinai Peninsula",
-133
+133,
+[
+"the Sinai"
+]
 ],
 [
 "Gobi Desert",
-118
+118,
+[
+"Beljan",
+"Cobi",
+"Da Gebi",
+"Desert of Lop",
+"Gebi",
+"Gobi",
+"Hang-hai",
+"Han-hai",
+"Hanhai",
+"Kalmack Desert",
+"Kalmuk",
+"Kara-kathay",
+"Kara Kathay",
+"Ko-pih",
+"Lop",
+"Lop Desert",
+"Samo",
+"Shamo",
+"Ta Ko-pih"
+]
 ],
 [
 "Kalahari Desert",
-106
+106,
+[]
 ],
 [
 "Atacama Desert",
-104
+104,
+[
+"Atacama",
+"The Atacama"
+]
 ],
 [
 "Negev",
-98
+98,
+[]
 ],
 [
 "Taklamakan",
-92
+92,
+[
+"Takla Makan",
+"Taklamakan Desert",
+"Takla Makan Desert"
+]
 ],
 [
 "Karakum Desert",
-91
+91,
+[]
 ],
 [
 "Namib",
-90
+90,
+[
+"Namib Desert"
+]
 ],
 [
 "Thar Desert",
-83
+83,
+[
+"Great Indian Desert",
+"Indian Desert",
+"Rajputana Desert"
+]
 ],
 [
 "Death Valley",
-79
+79,
+[
+"Amargosa Desert",
+"Armuyosa Desert",
+"Kunayiwaavi",
+"LaVallee De Mort",
+"Lost Valley",
+"Mesquite Valley",
+"Mound Spring Valley",
+"North Arm",
+"Northwestern Arm",
+"Todestal",
+"Tonesha",
+"Tumpisa"
+]
 ],
 [
 "Great Victoria Desert",
-77
+77,
+[]
 ],
 [
 "Arabian Desert",
-74
+74,
+[]
 ],
 [
 "Kyzyl Kum",
-73
+73,
+[
+"Red Sand Desert"
+]
 ],
 [
 "Syrian Desert",
-71
+71,
+[
+"Badia",
+"Jordanian steppe",
+"Syrian steppe"
+]
 ],
 [
 "Mojave Desert",
-70
+70,
+[
+"Mojave"
+]
 ],
 [
 "Rub' al Khali",
-69
+69,
+[
+"Empty Quarter"
+]
 ],
 [
 "Sonoran Desert",
-67
+67,
+[
+"Carson Plains",
+"Desierto de Sonora",
+"Desierto Grande",
+"Sonora Desert"
+]
 ],
 [
 "Libyan Desert",
-65
+65,
+[]
 ],
 [
 "Great Sandy Desert",
-55
+55,
+[
+"Great Sandy Desert, Australia",
+"Great Sandy Desert, Western Australia"
+]
 ],
 [
 "Nubian Desert",
-51
+51,
+[]
 ],
 [
 "Gibson Desert",
-49
+49,
+[]
 ],
 [
 "Judaean Desert",
-48
+48,
+[
+"Judean Desert"
+]
 ],
 [
 "Chihuahuan Desert",
-48
+48,
+[]
 ],
 [
 "Simpson Desert",
-47
+47,
+[
+"Munga-Thirri"
+]
 ],
 [
 "Aralkum",
-47
+47,
+[
+"Aralkum Desert"
+]
 ],
 [
 "Eastern Desert",
-46
+46,
+[
+"Arabian Desert"
+]
 ],
 [
 "Danakil Desert",
-44
+44,
+[]
 ],
 [
 "Ténéré desert",
-44
+44,
+[
+"Tenere"
+]
 ],
 [
 "Błędów Desert",
-42
+42,
+[
+"Pustynia Błędowska"
+]
 ],
 [
 "Betpak-Dala",
-39
+39,
+[
+"Betpakdala desert",
+"Bet-Pak-Dal desert",
+"Betpaqdala"
+]
 ],
 [
 "Tanami Desert",
-39
+39,
+[]
 ],
 [
 "Great Basin Desert",
-38
+38,
+[
+"Great Basin shrub steppe"
+]
 ],
 [
 "Arabah",
-38
+38,
+[
+"Arabah Valley"
+]
 ],
 [
 "Badain Jaran Desert",
-38
+38,
+[
+"Badain Jaran Shamo"
+]
 ],
 [
 "Chalbi Desert",
-37
+37,
+[]
 ],
 [
 "ad-Dahna Desert",
-37
+37,
+[
+"Ad Dahnā'",
+"Dahna Desert"
+]
 ],
 [
 "Painted Desert",
-34
+34,
+[
+"El Desierto Pintado"
+]
 ],
 [
 "Little Sandy Desert",
-34
+34,
+[
+"Little Sandy Desert bioregion",
+"Little Sandy Desert, Western Australia"
+]
 ],
 [
 "Ordos Desert",
-32
+32,
+[]
 ],
 [
 "Aral Karakum",
-32
+32,
+[
+"Aral Mangy Qaraqumy"
+]
 ],
 [
 "Cholistan Desert",
-32
+32,
+[
+"Pat Desert",
+"Rohi",
+"Rohi Desert",
+"Thar Desert"
+]
 ],
 [
 "Tabernas Desert",
-32
+32,
+[]
 ],
 [
 "Ryn Desert",
-31
+31,
+[
+"Naryn Qum"
+]
 ],
 [
 "Algerian Desert",
-31
+31,
+[
+"Algerian Sahara",
+"Saharan Algeria"
+]
 ],
 [
 "Sakhir",
-31
+31,
+[
+"Al Sukhair"
+]
 ],
 [
 "Sechura Desert",
-31
+31,
+[]
 ],
 [
 "Gurbantünggüt Desert",
-29
+29,
+[
+"Gǔ'ěrbāntōnggǔtè Shāmò",
+"Kurbantongut Desert",
+"Qurban-Tungghut Desert"
+]
 ],
 [
 "Registan Desert",
-29
+29,
+[]
 ],
 [
 "Colorado Desert",
-29
+29,
+[]
 ],
 [
 "Thal",
-28
+28,
+[
+"Thal desert",
+"Thal region",
+"the Thal"
+]
 ],
 [
 "Golodnaya Steppe",
-27
+27,
+[
+"Jizzakh-Chinaz Steppe",
+"Mirzachoʻl Steppe"
+]
 ],
 [
 "Great Salt Lake Desert",
-27
+27,
+[
+"Salt Lake Desert"
+]
 ],
 [
 "Black Rock Desert",
-27
+27,
+[]
 ],
 [
 "Tirari Desert",
-25
+25,
+[]
 ],
 [
 "Grand Erg Occidental",
-25
+25,
+[]
 ],
 [
 "Dasht-e Margo",
-25
+25,
+[
+"Dashti Margo"
+]
 ],
 [
 "Tengger Desert",
-24
+24,
+[
+"Sky Desert"
+]
 ],
 [
 "Strzelecki Desert",
-24
+24,
+[]
 ],
 [
 "La Guajira Desert",
-24
+24,
+[]
 ],
 [
 "Western Desert",
-23
+23,
+[]
 ],
 [
 "Wahiba Sands",
-23
+23,
+[
+"Al Wahibah Dunes"
+]
 ],
 [
 "Saryesik-Atyrau Desert",
-23
+23,
+[]
 ],
 [
 "Muyunkum Desert",
-23
+23,
+[]
 ],
 [
 "Baja California Desert",
-23
+23,
+[]
 ],
 [
 "Médanos de Coro National Park",
-22
+22,
+[
+"Medanos de Coro National Park",
+"Parque Nacional Medanos de Coro"
+]
 ],
 [
 "Sturt Stony Desert",
-22
+22,
+[
+"Sturt's Stony Desert"
+]
 ],
 [
 "Lop Desert",
-22
+22,
+[]
 ],
 [
 "Desert of Paran",
-22
+22,
+[]
 ],
 [
 "Tanezrouft",
-21
+21,
+[]
 ],
 [
 "Yuma Desert",
-21
+21,
+[]
 ],
 [
 "Kumtag Desert",
-21
+21,
+[]
 ],
 [
 "Monte Desert",
-20
+20,
+[]
 ],
 [
 "Nyiri Desert",
-20
+20,
+[
+"Taru desert",
+"Taru Desert",
+"The Nyika"
+]
 ],
 [
 "Alvord Desert",
-20
+20,
+[]
 ],
 [
 "Ramlat al-Sab`atayn",
-19
+19,
+[]
 ],
 [
 "Pedirka Desert",
-19
+19,
+[]
 ],
 [
 "Antelope Valley",
-19
+19,
+[]
 ],
 [
 "Indus Valley desert",
-19
+19,
+[]
 ],
 [
 "Arctic desert",
-19
+19,
+[]
 ],
 [
 "Salvador Dalí Desert",
-18
+18,
+[
+"Dali Desert",
+"Dalí Desert",
+"Desierto Dali",
+"Salvador Dali Desert"
+]
 ],
 [
 "Arabia Deserta",
-18
+18,
+[]
 ],
 [
 "Channeled Scablands",
-17
+17,
+[
+"Scablands"
+]
 ],
 [
 "Kubuqi Desert",
-17
+17,
+[
+"Hobq Desert",
+"Kubuqi desert"
+]
 ],
 [
 "Amargosa Desert",
-17
+17,
+[
+"Amargoza Desert",
+"Great Amargosa Desert"
+]
 ],
 [
 "Kharan Desert",
-16
+16,
+[]
 ],
 [
 "Carcross Desert",
-16
+16,
+[]
 ],
 [
 "El Djouf",
-15
+15,
+[]
 ],
 [
 "Sprengisandur",
-15
+15,
+[]
 ],
 [
 "Maspalomas Dunes",
-15
+15,
+[
+"Dunes of Maspalomas",
+"Las Dunas de Maspalomas"
+]
 ],
 [
 "Escalante Desert",
-14
+14,
+[]
 ],
 [
 "Black Desert",
-14
+14,
+[]
 ],
 [
 "Bolsón de Mapimí",
-14
+14,
+[
+"Bolson de Mapimi"
+]
 ],
 [
 "Murzuq Desert",
-14
+14,
+[]
 ],
 [
 "Alashan",
-14
+14,
+[
+"Ala Shan"
+]
 ],
 [
 "Kaokoveld",
-14
+14,
+[
+"Kaokoveld Desert"
+]
 ],
 [
 "Coastal desert of Peru",
-13
+13,
+[
+"Chala"
+]
 ],
 [
 "Kebira Crater",
-13
+13,
+[]
 ],
 [
 "Gran Desierto de Altar",
-13
+13,
+[]
 ],
 [
 "Mu Us Desert",
-13
+13,
+[
+"Maowusu Desert",
+"Mu Us Sandyland"
+]
 ],
 [
 "Owyhee Desert",
-12
+12,
+[]
 ],
 [
 "Chara Sands",
-12
+12,
+[]
 ],
 [
 "rangeland",
-12
+12,
+[]
 ],
 [
 "North Saharan steppe and woodlands",
-12
+12,
+[]
 ],
 [
 "Harrat al-Sham",
-12
+12,
+[
+"Black Desert",
+"Harrat al-Harra",
+"Harrat al-Shaba",
+"Harrat Ash Shamah"
+]
 ],
 [
 "Siloli desert",
-11
+11,
+[]
 ],
 [
 "Yuha Desert",
-11
+11,
+[]
 ],
 [
 "Taukum",
-11
+11,
+[]
 ],
 [
 "Lechuguilla Desert",
-11
+11,
+[]
 ],
 [
 "Tule Desert",
-11
+11,
+[]
 ],
 [
 "Monegros Desert",
-10
+10,
+[
+"Desierto de los Monegros"
+]
 ],
 [
 "Khongoryn Els",
-10
+10,
+[]
 ],
 [
 "Smoke Creek Desert",
-10
+10,
+[]
 ],
 [
 "Kazakh semi-desert",
-10
+10,
+[]
 ],
 [
 "Desert of Maine",
-10
+10,
+[]
 ],
 [
 "Jornada del Muerto",
-9
+9,
+[]
 ],
 [
 "Western Desert cultural bloc",
-9
+9,
+[
+"Western Desert"
+]
 ],
 [
 "Katpana Desert",
-9
+9,
+[
+"Biama Nakpo",
+"Cold Desert, Skardu"
+]
 ],
 [
 "Zin Desert",
-9
+9,
+[]
 ],
 [
 "Talak",
-9
+9,
+[]
 ],
 [
 "Erg Admer",
-9
+9,
+[]
 ],
 [
 "Tehuacán Valley matorral",
-8
+8,
+[
+"Tehuacan Valley matorral"
+]
 ],
 [
 "Central Asian northern desert",
-8
+8,
+[
+"Central Asian Northern Desert Ecoregion"
+]
 ],
 [
 "Moçâmedes Desert",
-7
+7,
+[]
 ],
 [
 "Lompoul desert",
-7
+7,
+[]
 ],
 [
 "Red Desert",
-7
+7,
+[]
 ],
 [
 "Carson Desert",
-7
+7,
+[]
 ],
 [
 "Central Mexican matorral",
-7
+7,
+[]
 ],
 [
 "Great American Desert",
-7
+7,
+[]
 ],
 [
 "Khuzestan Plain",
-7
+7,
+[]
 ],
 [
 "Nitrian Desert",
-7
+7,
+[]
 ],
 [
 "Arid Diagonal",
-6
+6,
+[]
 ],
 [
 "Kachho",
-6
+6,
+[
+"Kachho Desert"
+]
 ],
 [
 "Goravan State Nature Reservation",
-6
+6,
+[]
 ],
 [
 "Al Khatim Desert",
-6
+6,
+[]
 ],
 [
 "Tirari-Sturt stony desert",
-6
+6,
+[
+"Tirari-Sturt Stony Desert"
+]
 ],
 [
 "Erg Tiffernine",
-6
+6,
+[
+"Isaouane-n-Tifernine"
+]
 ],
 [
 "Kumtag Shamo",
-5
+5,
+[
+"Kumtag desert (Turpan)",
+"Piqan County Desert"
+]
 ],
 [
 "Sinai Desert",
-5
+5,
+[]
 ],
 [
 "Zhuankum",
-5
+5,
+[]
 ],
 [
 "Calansho Desert",
-5
+5,
+[]
 ],
 [
 "Hammada du Guir",
-5
+5,
+[]
 ],
 [
 "Tamaulipan mezquital",
-5
+5,
+[
+"Tamaulipan pastizal",
+"Tamaulipas-Texas semiarid plain"
+]
 ],
 [
 "Bogurar doi",
-5
+5,
+[
+"Bograr Doi",
+"Curd of Bogra"
+]
 ],
 [
 "Zhamankum",
-5
+5,
+[]
 ],
 [
 "San Lucan xeric scrub",
-5
+5,
+[]
 ],
 [
 "Sayhad",
-5
+5,
+[]
 ],
 [
 "Hulun Buir Shadi",
-5
+5,
+[]
 ],
 [
 "Sevier Desert",
-5
+5,
+[
+"Black Desert",
+"Black Rock Desert",
+"Sandy Desert",
+"Sevier Lake Desert"
+]
 ],
 [
 "Y P Desert",
-5
+5,
+[]
 ],
 [
 "Agafay Desert",
-5
+5,
+[]
 ],
 [
 "Ninety Mile Desert",
-4
+4,
+[]
 ],
 [
 "Kozłowska Desert",
-4
+4,
+[
+"Pustynia Kozłowska"
+]
 ],
 [
 "Mælifellssandur",
-4
+4,
+[]
 ],
 [
 "Geitlandshraun",
-4
+4,
+[]
 ],
 [
 "Ḩismá Desert",
-4
+4,
+[
+"Hisma plain"
+]
 ],
 [
 "Pacific desert",
-4
+4,
+[
+"Desert of Atacama-Sechura"
+]
 ],
 [
 "Gulf of California Xeric Scrub",
-4
+4,
+[]
 ],
 [
 "High Desert",
-4
+4,
+[]
 ],
 [
 "Rig-e Jenn",
-4
+4,
+[]
 ],
 [
 "Tonopah Desert",
-4
+4,
+[]
 ],
 [
 "Qoraqalpoq Cho‘li",
-4
+4,
+[]
+],
+[
+"Siedlec Desert",
+3,
+[]
+],
+[
+"Eastern Desert (Jordan)",
+3,
+[]
+],
+[
+"Lieberose Desert",
+3,
+[]
+],
+[
+"Erg Tihodaïne",
+3,
+[]
+],
+[
+"Hothori Desert",
+3,
+[]
+],
+[
+"Tin-Toumma desert",
+3,
+[
+"Tin-Toumna desert",
+"Ti-N-Toumna desert"
+]
+],
+[
+"Archedinsko-Donskiye Peski",
+3,
+[]
+],
+[
+"Nafūd aḑ Ḑāḩī",
+3,
+[]
+],
+[
+"Tal",
+3,
+[
+"Désert de Tal",
+"Désert du Tal"
+]
+],
+[
+"Delamar Flat",
+3,
+[]
+],
+[
+"Gumuk Pasir Parangkusumo",
+3,
+[]
+],
+[
+"Starczynów Desert",
+3,
+[]
+],
+[
+"Al-Hammad",
+2,
+[
+"Al-Hamad",
+"Al-Hammad Desert",
+"Badia al-Hammad"
+]
+],
+[
+"Tharparkar Desert",
+2,
+[
+"Thar",
+"Tharparkar"
+]
+],
+[
+"Puna",
+2,
+[]
+],
+[
+"Red Centre",
+2,
+[]
+],
+[
+"Duhaymat al Bidd",
+2,
+[]
+],
+[
+"Gassi el Hassi",
+2,
+[]
+],
+[
+"Erg Guidi",
+2,
+[]
+],
+[
+"Erg Amguid",
+2,
+[]
+],
+[
+"Peski Kimirekkum",
+2,
+[]
+],
+[
+"Peski Taskudyk",
+2,
+[
+"Toshquduq Qumlari"
+]
+],
+[
+"Tsimlyanskiye Peski",
+2,
+[]
+],
+[
+"Anza-Borrego Desert",
+2,
+[]
+],
+[
+"Low Desert",
+2,
+[]
+],
+[
+"Badia",
+2,
+[
+"Badiah",
+"Desert",
+"Steppe"
+]
+],
+[
+"Piute Valley",
+2,
+[
+"Piute Valley Watershed"
+]
+],
+[
+"Sunset Country",
+2,
+[]
+],
+[
+"Fongchueisha",
+1,
+[]
+],
+[
+"Kumtagh Desert",
+1,
+[]
+],
+[
+"Biyabanak",
+1,
+[]
+],
+[
+"Iraqi Desert",
+1,
+[]
+],
+[
+"Krepputunga",
+1,
+[]
+],
+[
+"Sarfaranga Desert",
+1,
+[
+"Safaranga",
+"Sarfranga"
+]
+],
+[
+"Heydarabad Desert",
+1,
+[]
+],
+[
+"The Desert",
+1,
+[]
+],
+[
+"Regenfeld",
+1,
+[
+"Rainfield"
+]
+],
+[
+"Desierto de Calanda",
+1,
+[]
+],
+[
+"Qushāsh",
+1,
+[]
+],
+[
+"Sayḩ Rab‘",
+1,
+[]
+],
+[
+"Naqā Raghwah",
+1,
+[]
+],
+[
+"Raigha",
+1,
+[]
+],
+[
+"Sayḩ ar Rajībah",
+1,
+[]
+],
+[
+"Naqā Rākah",
+1,
+[]
+],
+[
+"Ramaq",
+1,
+[]
+],
+[
+"Ḩabl Ramrām",
+1,
+[]
+],
+[
+"Sayḩ ar Raqq",
+1,
+[]
+],
+[
+"Rasan",
+1,
+[]
+],
+[
+"Nadd Rāshid",
+1,
+[]
+],
+[
+"Ra's Qal‘ah",
+1,
+[]
+],
+[
+"Wādī Rayj",
+1,
+[]
+],
+[
+"Riḩyāt",
+1,
+[]
+],
+[
+"Ramlat ar Ruhayl",
+1,
+[]
+],
+[
+"Ruq‘at al ‘Arād",
+1,
+[]
+],
+[
+"Rafadah",
+1,
+[]
+],
+[
+"Ruq‘at Ḩulayw",
+1,
+[]
+],
+[
+"Ruq‘at Ḩumaydī",
+1,
+[]
+],
+[
+"Ruq‘at Maghis",
+1,
+[]
+],
+[
+"Ruq‘at Musajira",
+1,
+[]
+],
+[
+"Ruq‘at Muşallī",
+1,
+[]
+],
+[
+"Ruq‘at Nuşb",
+1,
+[]
+],
+[
+"Ruq‘at Sunayyim",
+1,
+[]
+],
+[
+"Ruq‘at Ya‘āribah",
+1,
+[]
+],
+[
+"‘Irq Ruqayţuwah",
+1,
+[]
+],
+[
+"Shaqqat ar Ruqayţuwah",
+1,
+[]
+],
+[
+"Sayḩ Ruwayshid",
+1,
+[]
+],
+[
+"Naqā Sa‘ādah",
+1,
+[]
+],
+[
+"Raml as Sādd",
+1,
+[]
+],
+[
+"Wādī Şafā",
+1,
+[]
+],
+[
+"Ghaffāt Saḩmī",
+1,
+[]
+],
+[
+"Sala",
+1,
+[]
+],
+[
+"Salān Khalfān",
+1,
+[]
+],
+[
+"Salbūk",
+1,
+[]
+],
+[
+"Sayḩ Salīl",
+1,
+[]
+],
+[
+"Wādī Salīmah",
+1,
+[]
+],
+[
+"Sayḩ Sallah",
+1,
+[]
+],
+[
+"Wādī Sallah",
+1,
+[]
+],
+[
+"Raml as Salm",
+1,
+[]
+],
+[
+"Sayḩ as Salm",
+1,
+[]
+],
+[
+"Raml as Salmá",
+1,
+[]
+],
+[
+"Sayḩ Salmá",
+1,
+[]
+],
+[
+"Jabal Samāḩ",
+1,
+[]
+],
+[
+"Sayh Samarah",
+1,
+[]
+],
+[
+"Raml Samḩān",
+1,
+[]
+],
+[
+"Wādī Sanābil",
+1,
+[]
+],
+[
+"Sarūq al Jasam",
+1,
+[]
+],
+[
+"Naqā Sawţah",
+1,
+[]
+],
+[
+"Sayḩ Maḩārī",
+1,
+[]
+],
+[
+"Ramlat Sayyid",
+1,
+[]
+],
+[
+"Sha‘athān",
+1,
+[]
+],
+[
+"Wādī Shabak",
+1,
+[]
+],
+[
+"Shabqatayn",
+1,
+[]
+],
+[
+"Sayḩ Sha‘īl",
+1,
+[]
+],
+[
+"Shanţūţ",
+1,
+[]
+],
+[
+"Shanţūt Ibn ‘Umān",
+1,
+[]
+],
+[
+"Ramlat Shanţūt Bin ‘Umān",
+1,
+[]
+],
+[
+"Sharaf Ḩawrah",
+1,
+[]
+],
+[
+"Sharaf Tamī",
+1,
+[]
+],
+[
+"Raml Sharbū",
+1,
+[]
+],
+[
+"Sayḩ Sharbū",
+1,
+[]
+],
+[
+"Shāt",
+1,
+[]
+],
+[
+"‘Urūq ash Shaybah",
+1,
+[]
+],
+[
+"Shaydad Bin Khanfūr",
+1,
+[]
+],
+[
+"Wādī Shibḩāt",
+1,
+[]
+],
+[
+"Ramlat Shīşah",
+1,
+[]
+],
+[
+"Raml ash Shu‘ayb",
+1,
+[]
+],
+[
+"Sayḩ Shu‘ayb",
+1,
+[]
+],
+[
+"Sayḩ Shumayrīkh",
+1,
+[]
+],
+[
+"Shunayyin",
+1,
+[]
+],
+[
+"Sayḩ as Sidrah",
+1,
+[]
+],
+[
+"Sayḩ Silm",
+1,
+[]
+],
+[
+"Silmīyah",
+1,
+[]
+],
+[
+"Ra's as Silmīyah",
+1,
+[]
+],
+[
+"Nada Sima",
+1,
+[]
+],
+[
+"Sayḩ Şubrah",
+1,
+[]
+],
+[
+"Ḩadabat Sukhub",
+1,
+[]
+],
+[
+"Sayḩ Sulaymān",
+1,
+[]
+],
+[
+"Sayḩ Sulaymāt",
+1,
+[]
+],
+[
+"Sayḩ as Sumayḩ",
+1,
+[]
+],
+[
+"Sunayyim",
+1,
+[]
+],
+[
+"Wādī Suwaydā'",
+1,
+[]
+],
+[
+"Ramlat Suwayḩān",
+1,
+[]
+],
+[
+"Naqā Suwayţah",
+1,
+[]
+],
+[
+"Ţawī Bid‘ Sa‘īd",
+1,
+[]
+],
+[
+"Nadd aţ Ţarūsh",
+1,
+[]
+],
+[
+"Barqat Thāmir",
+1,
+[]
+],
+[
+"Thamūd",
+1,
+[]
+],
+[
+"Khabb ath Thawr",
+1,
+[]
+],
+[
+"‘Urqūb Thurayyā",
+1,
+[]
+],
+[
+"Tina",
+1,
+[]
+],
+[
+"Kharīmat Ţuwaylah",
+1,
+[]
+],
+[
+"Umm al Ashţān",
+1,
+[]
+],
+[
+"Umm al Qird",
+1,
+[]
+],
+[
+"Umm ar Raml",
+1,
+[]
+],
+[
+"Umm Dhuwaylah",
+1,
+[]
+],
+[
+"Qarn Umm Ḩaşá",
+1,
+[]
+],
+[
+"Umm Minhad",
+1,
+[]
+],
+[
+"‘Uqayyiq",
+1,
+[]
+],
+[
+"‘Uraykah",
+1,
+[]
+],
+[
+"Jabal ‘Uwaybil",
+1,
+[]
+],
+[
+"‘Uwayj al ‘Abīd",
+1,
+[]
+],
+[
+"Niqyān ‘Uwayrah",
+1,
+[]
+],
+[
+"Ghaffāt al ‘Uwayyirah",
+1,
+[]
+],
+[
+"Ḩabl Wādī Şafā",
+1,
+[]
+],
+[
+"Sayḩ al Wakrah",
+1,
+[]
+],
+[
+"Khaţm Waraq",
+1,
+[]
+],
+[
+"Raml Wāsiţ",
+1,
+[]
+],
+[
+"Watigh",
+1,
+[]
+],
+[
+"Wudibsā",
+1,
+[]
+],
+[
+"Ya‘alla",
+1,
+[]
+],
+[
+"Sayḩ Yāfūkh",
+1,
+[]
+],
+[
+"Ya‘rid",
+1,
+[]
+],
+[
+"Yākhūn",
+1,
+[]
+],
+[
+"Yilaiyis",
+1,
+[]
+],
+[
+"Sayḩ Za‘lah",
+1,
+[]
+],
+[
+"Ramlat Zayd",
+1,
+[]
+],
+[
+"Zibara",
+1,
+[]
+],
+[
+"Zimmat ‘Ankah",
+1,
+[]
+],
+[
+"Zimmat Ḩalamah",
+1,
+[]
+],
+[
+"Zinād",
+1,
+[]
+],
+[
+"Zirā‘ah",
+1,
+[]
+],
+[
+"Jabal al ‘Azab",
+1,
+[]
+],
+[
+"Zubyah",
+1,
+[]
+],
+[
+"Z̧ulaymah",
+1,
+[]
+],
+[
+"Ramlat ad Dimā'",
+1,
+[]
+],
+[
+"Naqā al Hawz",
+1,
+[]
+],
+[
+"Sayḩ Mudaysis",
+1,
+[]
+],
+[
+"Ramlat Saḩam",
+1,
+[]
+],
+[
+"Kharmat Umm al ‘Awsh",
+1,
+[]
+],
+[
+"Shudūq al Jawwān",
+1,
+[]
+],
+[
+"As Samḩah",
+1,
+[]
+],
+[
+"Wādī Athāmīyah",
+1,
+[]
+],
+[
+"Aţ Ţalfāḩah",
+1,
+[]
+],
+[
+"‘Awāfī",
+1,
+[]
+],
+[
+"Naqā Awai",
+1,
+[]
+],
+[
+"Ḩadabat al ‘Awdah",
+1,
+[]
+],
+[
+"Banná",
+1,
+[]
+],
+[
+"Naqā Banná",
+1,
+[]
+],
+[
+"Raml al Barq",
+1,
+[]
+],
+[
+"Sayḩ al Barq",
+1,
+[]
+],
+[
+"Raml al Barqā'",
+1,
+[]
+],
+[
+"Sayḩ al Barqā'",
+1,
+[]
+],
+[
+"Qarn al Barr",
+1,
+[]
+],
+[
+"Bāţin Dhibn",
+1,
+[]
+],
+[
+"Bayāḑat Ḩawqānī",
+1,
+[]
+],
+[
+"Ramlat Bayţar",
+1,
+[]
+],
+[
+"Sayḩ al Bayţar",
+1,
+[]
+],
+[
+"Bībān",
+1,
+[]
+],
+[
+"Naqā Bidah",
+1,
+[]
+],
+[
+"Naqā Bid‘ al ‘Ajam",
+1,
+[]
+],
+[
+"Bidāyar al Ashkhar",
+1,
+[]
+],
+[
+"Bid‘ Ḩamdān",
+1,
+[]
+],
+[
+"Bid‘ Khalīfah",
+1,
+[]
+],
+[
+"Sayḩ Bid‘ Kuḩayl",
+1,
+[]
+],
+[
+"Sayḩ Bid‘ Minsaud",
+1,
+[]
+],
+[
+"Bid‘ Mubārak",
+1,
+[]
+],
+[
+"Ramlat Bid‘ al Mughanni",
+1,
+[]
+],
+[
+"Ramlat Bid‘ Mughannī",
+1,
+[]
+],
+[
+"Bid‘ Sa‘īd Bin Sa‘īd",
+1,
+[]
+],
+[
+"Bid‘ Salmá",
+1,
+[]
+],
+[
+"Qurūn Bidud",
+1,
+[]
+],
+[
+"Bil ‘Arīf",
+1,
+[]
+],
+[
+"Ramlat Bil Milḩ",
+1,
+[]
+],
+[
+"Sayḩ Bin ‘Amr",
+1,
+[]
+],
+[
+"Bin ‘Asal",
+1,
+[]
+],
+[
+"Barqat Bin ‘Atr",
+1,
+[]
+],
+[
+"Ramlat Bin Ḩilal",
+1,
+[]
+],
+[
+"Ghadīr Bin Khumayyis",
+1,
+[]
+],
+[
+"Sayḩ Bin Nuşūr",
+1,
+[]
+],
+[
+"Naqā Bin Sabţ",
+1,
+[]
+],
+[
+"Sayḩ Biyātah",
+1,
+[]
+],
+[
+"‘Irq Bū al ‘Abbās",
+1,
+[]
+],
+[
+"Kharīmat Bū al Bunayyah",
+1,
+[]
+],
+[
+"Ramlat Bū adh Dhabah",
+1,
+[]
+],
+[
+"Naqā Bū al Haram",
+1,
+[]
+],
+[
+"Ramlat Bū al Hassah",
+1,
+[]
+],
+[
+"Niqyān Bū al Khayrān",
+1,
+[]
+],
+[
+"Ramlat Bū Arţá",
+1,
+[]
+],
+[
+"Bū Ḑarī",
+1,
+[]
+],
+[
+"Budhayrāt",
+1,
+[]
+],
+[
+"Ghāfat Bū Ḩamr",
+1,
+[]
+],
+[
+"Kharīmat Bū Ḩayrān",
+1,
+[]
+],
+[
+"Raml al Buḩūth",
+1,
+[]
+],
+[
+"Sayḩ al Buḩūth",
+1,
+[]
+],
+[
+"Buḩūth Yibārah",
+1,
+[]
+],
+[
+"Ramlat Bū Ma‘talah",
+1,
+[]
+],
+[
+"Ramlat Bū Nukhaylah",
+1,
+[]
+],
+[
+"Sayḩ Bū Rakbah",
+1,
+[]
+],
+[
+"Bū Samārah",
+1,
+[]
+],
+[
+"Bū Wiala",
+1,
+[]
+],
+[
+"Da Ali",
+1,
+[]
+],
+[
+"Dahanan",
+1,
+[]
+],
+[
+"Sayḩ aḑ Ḑaḩl",
+1,
+[]
+],
+[
+"Naqā Darāmikah",
+1,
+[]
+],
+[
+"Qarn Ḑaw'",
+1,
+[]
+],
+[
+"Dhai",
+1,
+[]
+],
+[
+"Ramlat Dhai",
+1,
+[]
+],
+[
+"Ḩabl Dharī",
+1,
+[]
+],
+[
+"Naqā Dhi'b",
+1,
+[]
+],
+[
+"Raml adh Dhibāḩ",
+1,
+[]
+],
+[
+"Dhirā‘",
+1,
+[
+"Dhira'"
+]
+],
+[
+"Sayḩ Dhumaida",
+1,
+[]
+],
+[
+"Dimthat al Manşif",
+1,
+[]
+],
+[
+"Dumyat Manşūr",
+1,
+[]
+],
+[
+"Duwaybah",
+1,
+[]
+],
+[
+"Sayḩ Faḩlayn",
+1,
+[]
+],
+[
+"Sayḩ Falaj ash Shaykh",
+1,
+[]
+],
+[
+"Fardah",
+1,
+[]
+],
+[
+"Z̧ahrat al Fāris",
+1,
+[]
+],
+[
+"Khabb al F'ād",
+1,
+[]
+],
+[
+"Wādī Fulayy",
+1,
+[]
+],
+[
+"Ghadr Bil Khayl",
+1,
+[]
+],
+[
+"Ghaḑyān",
+1,
+[]
+],
+[
+"Niqyān al Ghāfah",
+1,
+[]
+],
+[
+"Raml al Ghafr",
+1,
+[]
+],
+[
+"Sayḩ al Ghafr",
+1,
+[]
+],
+[
+"Ghāf Rimāḩ",
+1,
+[]
+],
+[
+"Ghallaiya",
+1,
+[]
+],
+[
+"Wādī Ghammaḑ",
+1,
+[]
+],
+[
+"Ghanāḑah",
+1,
+[]
+],
+[
+"Tilā‘ Ghanāḑah",
+1,
+[]
+],
+[
+"Ghār",
+1,
+[]
+],
+[
+"Raml Ghayl",
+1,
+[]
+],
+[
+"Sayḩ Ghayl",
+1,
+[]
+],
+[
+"Naqā Ghufaylīyah",
+1,
+[]
+],
+[
+"Kharmat Ghurayḑah",
+1,
+[]
+],
+[
+"Ghuyūţ ‘Ulayyah",
+1,
+[]
+],
+[
+"Ghaffāt al Ḩād",
+1,
+[]
+],
+[
+"Ḩadabat Khalīfah",
+1,
+[]
+],
+[
+"Ḩādhīyat Ruqayyib",
+1,
+[]
+],
+[
+"Naqā Ḩādithah",
+1,
+[]
+],
+[
+"Sayḩ Ḩādithah",
+1,
+[]
+],
+[
+"Ghaffāt Hadūmah",
+1,
+[]
+],
+[
+"Ḩaffār",
+1,
+[]
+],
+[
+"Raml Ḩafir",
+1,
+[]
+],
+[
+"Sayḩ Ḩafir",
+1,
+[]
+],
+[
+"Sayḩ Ḩalamah",
+1,
+[]
+],
+[
+"Ḩalwān",
+1,
+[]
+],
+[
+"Sayḩ Ḩamarī",
+1,
+[]
+],
+[
+"Raml al Ḩamḑ",
+1,
+[]
+],
+[
+"Sayḩ al Ḩamḑ",
+1,
+[]
+],
+[
+"Ramlat al Ḩammah",
+1,
+[]
+],
+[
+"Sayḩ al Ḩammah",
+1,
+[]
+],
+[
+"Sayḩ Ḩamrān",
+1,
+[]
+],
+[
+"Ḩanyūfah",
+1,
+[]
+],
+[
+"Barqat al Ḩaqaf",
+1,
+[]
+],
+[
+"Naqā Ḩarz",
+1,
+[]
+],
+[
+"Sayḩ Ḩarz",
+1,
+[]
+],
+[
+"Raml Ḩasam Mawātir",
+1,
+[]
+],
+[
+"Qarn al Hawāmir",
+1,
+[]
+],
+[
+"Ramlat Ḩawāwis",
+1,
+[]
+],
+[
+"Ḩawāwis Naqā Jabr",
+1,
+[]
+],
+[
+"Ḩawījat Mash‘ān",
+1,
+[]
+],
+[
+"Ḩawīyat Furaysh",
+1,
+[]
+],
+[
+"Ramlat Hayr",
+1,
+[]
+],
+[
+"Wādī Hayr",
+1,
+[]
+],
+[
+"Sayḩ al Ḩayrah",
+1,
+[]
+],
+[
+"Ḩadabat Ḩayrān",
+1,
+[]
+],
+[
+"Naqā al Ḩayz",
+1,
+[]
+],
+[
+"Haz' Bawsh",
+1,
+[]
+],
+[
+"Ḩazā' Kilāb",
+1,
+[]
+],
+[
+"Haza Mugaum",
+1,
+[]
+],
+[
+"Ramlat Ḩazā' Salmá",
+1,
+[]
+],
+[
+"Ḩazm al Habb",
+1,
+[]
+],
+[
+"Naqā Hazmīyah",
+1,
+[]
+],
+[
+"Hūtat Abū Marsī",
+1,
+[]
+],
+[
+"Wādī Iblīs",
+1,
+[]
+],
+[
+"Wādī Jabib",
+1,
+[]
+],
+[
+"Ramlat Jarīn",
+1,
+[]
+],
+[
+"Jawī al Harm",
+1,
+[]
+],
+[
+"Sayḩ Jibārah",
+1,
+[]
+],
+[
+"‘Urqūb al Jufrah",
+1,
+[]
+],
+[
+"Sayḩ Juḩr",
+1,
+[]
+],
+[
+"Wādī Khabb",
+1,
+[]
+],
+[
+"Wādī Khaḑrā'",
+1,
+[]
+],
+[
+"Khameran",
+1,
+[]
+],
+[
+"Ramlat Kharas",
+1,
+[]
+],
+[
+"Kharigat Baruth",
+1,
+[]
+],
+[
+"Kharījat al Ḩārith",
+1,
+[]
+],
+[
+"Kharījat Ḩasan",
+1,
+[]
+],
+[
+"Khashm",
+1,
+[]
+],
+[
+"Kharmat Khawrah",
+1,
+[]
+],
+[
+"Sayḩ al Khawrah",
+1,
+[]
+],
+[
+"Khayāsim",
+1,
+[]
+],
+[
+"Khubay' Muţawwá",
+1,
+[]
+],
+[
+"Raml Khuḑr",
+1,
+[]
+],
+[
+"Raml Khumayyis",
+1,
+[]
+],
+[
+"Raml al Khurayj",
+1,
+[]
+],
+[
+"Sayḩ al Khurayj",
+1,
+[]
+],
+[
+"Khuşayy",
+1,
+[]
+],
+[
+"Khuwayridān",
+1,
+[]
+],
+[
+"Sayḩ Khuwayridān",
+1,
+[]
+],
+[
+"Khuzaynah",
+1,
+[]
+],
+[
+"Sayḩ al Kubaysh",
+1,
+[]
+],
+[
+"Naqā Kumayyis",
+1,
+[]
+],
+[
+"Kurayyah",
+1,
+[]
+],
+[
+"Laiya",
+1,
+[]
+],
+[
+"Lamḩah",
+1,
+[]
+],
+[
+"Ramlat Lidwīyah",
+1,
+[]
+],
+[
+"Wādī Liwārī",
+1,
+[]
+],
+[
+"Wādī M‘ad",
+1,
+[]
+],
+[
+"Madhran",
+1,
+[]
+],
+[
+"Madrasān",
+1,
+[]
+],
+[
+"Suddat al Mahārid",
+1,
+[]
+],
+[
+"Mahāwī",
+1,
+[]
+],
+[
+"Majhūlah",
+1,
+[]
+],
+[
+"Makadd al Jamal",
+1,
+[]
+],
+[
+"Ramlat Makḩūlah",
+1,
+[]
+],
+[
+"Sabkhat Makḩūlah",
+1,
+[]
+],
+[
+"Qarn Maktūm",
+1,
+[]
+],
+[
+"Malad",
+1,
+[]
+],
+[
+"Malgutha",
+1,
+[]
+],
+[
+"Haḑabat Mamlaḩ",
+1,
+[]
+],
+[
+"Manahaz",
+1,
+[]
+],
+[
+"Mandar Salām",
+1,
+[]
+],
+[
+"Jaww Manhūlah",
+1,
+[]
+],
+[
+"Wādī Marākiz",
+1,
+[]
+],
+[
+"Markhīyah",
+1,
+[]
+],
+[
+"Wādī al Masākīn",
+1,
+[]
+],
+[
+"Naqā Mash‘aţī",
+1,
+[]
+],
+[
+"Wādī Ma‘shīq",
+1,
+[]
+],
+[
+"Maskūnah",
+1,
+[]
+],
+[
+"Ramlat Milḩah",
+1,
+[]
+],
+[
+"Naqā Milt",
+1,
+[]
+],
+[
+"Minhaḑ",
+1,
+[]
+],
+[
+"Minhādī",
+1,
+[]
+],
+[
+"Wādī Misaith",
+1,
+[]
+],
+[
+"Mishāb",
+1,
+[]
+],
+[
+"Sayḩ Rahaf",
+1,
+[]
+],
+[
+"Wādī Muḑāhīyah",
+1,
+[]
+],
+[
+"Mudayfīnah",
+1,
+[]
+],
+[
+"Mudayrim",
+1,
+[]
+],
+[
+"Wādī Mughayrah",
+1,
+[]
+],
+[
+"Mughayr Sālim",
+1,
+[]
+],
+[
+"Mughayyin",
+1,
+[]
+],
+[
+"Qarn Murrah",
+1,
+[]
+],
+[
+"Raml Murrah",
+1,
+[]
+],
+[
+"Wādī Murrah",
+1,
+[]
+],
+[
+"Sayḩ Musannad",
+1,
+[]
+],
+[
+"Musayyibah",
+1,
+[]
+],
+[
+"Mushayrif",
+1,
+[]
+],
+[
+"Mu‘tariḑah",
+1,
+[]
+],
+[
+"Muwayh al Huḑayb",
+1,
+[]
+],
+[
+"Muwayh al J'ābir",
+1,
+[]
+],
+[
+"Muwayh Arnab",
+1,
+[]
+],
+[
+"Naqā Muwayzah",
+1,
+[]
+],
+[
+"Muyaydirah",
+1,
+[]
+],
+[
+"Sayḩ Muyaydirah",
+1,
+[]
+],
+[
+"Ramlat Nadd",
+1,
+[]
+],
+[
+"Naqā Nadh",
+1,
+[]
+],
+[
+"Nahshīlah",
+1,
+[]
+],
+[
+"Naqā Nā'if",
+1,
+[]
+],
+[
+"Naqab Sha‘rān",
+1,
+[]
+],
+[
+"Naqrah",
+1,
+[]
+],
+[
+"Qarn Naqrah",
+1,
+[]
+],
+[
+"Nasas",
+1,
+[]
+],
+[
+"Ramlat Nasās",
+1,
+[]
+],
+[
+"Sayḩ an Nashash",
+1,
+[]
+],
+[
+"Naşīb",
+1,
+[]
+],
+[
+"Naşlah",
+1,
+[]
+],
+[
+"Naşūrīyah",
+1,
+[]
+],
+[
+"Sayḩ Naşūrīyah",
+1,
+[]
+],
+[
+"Sayḩ Naşūrīyah Ghafanī",
+1,
+[]
+],
+[
+"Naqā an Nawā",
+1,
+[]
+],
+[
+"Wādī Nazwá",
+1,
+[]
+],
+[
+"Qurūn Nişāb",
+1,
+[]
+],
+[
+"Sayḩ an Nukharah",
+1,
+[]
+],
+[
+"Nuşayb",
+1,
+[]
+],
+[
+"Qarn Nuşaylah",
+1,
+[]
+],
+[
+"Nuwayrān",
+1,
+[]
+],
+[
+"Raml al Qaḩţ",
+1,
+[]
+],
+[
+"Ḩabl Qā'imah",
+1,
+[]
+],
+[
+"Qar‘ah",
+1,
+[]
+],
+[
+"Kharīmat Qaşīmah",
+1,
+[]
+],
+[
+"Qaşr Şāliḩ",
+1,
+[]
+],
+[
+"Ramlat al Qassīs",
+1,
+[]
+],
+[
+"Qaţam",
+1,
+[]
+],
+[
+"Naqā Qaydah",
+1,
+[]
+],
+[
+"Qayyat al Bawl",
+1,
+[]
+],
+[
+"Ghaḑā' Qūbah",
+1,
+[]
+],
+[
+"Sayḩ Qubaysāt",
+1,
+[]
+],
+[
+"Qufayyid",
+1,
+[]
+],
+[
+"Sayḩ Qurayḩah",
+1,
+[]
+],
+[
+"Ramlat Şabr",
+1,
+[]
+],
+[
+"Nahdah",
+1,
+[]
+],
+[
+"Sayḩ Miyāda‘ah",
+1,
+[]
+],
+[
+"Sayḩ Barq al Liyān",
+1,
+[]
+],
+[
+"Sayḩ Kamrān",
+1,
+[]
+],
+[
+"Sayḩ Ramrām",
+1,
+[]
+],
+[
+"Naqā Khumayyis",
+1,
+[]
+],
+[
+"Naqā Ruwīk",
+1,
+[]
+],
+[
+"Naqā Saḩam",
+1,
+[]
+],
+[
+"Naqā Ghallah",
+1,
+[]
+],
+[
+"Ramlat Muraykh",
+1,
+[]
+],
+[
+"Sharaf Yamal",
+1,
+[]
+],
+[
+"Naqā Bin Rimth",
+1,
+[]
+],
+[
+"Naqā Şuḩānah",
+1,
+[]
+],
+[
+"Ramlat Kanasn",
+1,
+[]
+],
+[
+"Naqā Tuwaysah",
+1,
+[]
+],
+[
+"Bidāyar Khanaysar",
+1,
+[]
+],
+[
+"Asḩab",
+1,
+[]
+],
+[
+"Ḩabl Layān",
+1,
+[]
+],
+[
+"Ramlat Sarāmī",
+1,
+[]
+],
+[
+"Raml Abū Dabas",
+1,
+[]
+],
+[
+"Abū Ḩuraybah",
+1,
+[]
+],
+[
+"Ḩabl Abyaḑ",
+1,
+[]
+],
+[
+"Ad Dahhān",
+1,
+[]
+],
+[
+"Sayḩ al Airj",
+1,
+[]
+],
+[
+"Ramlat Ajaj",
+1,
+[]
+],
+[
+"Al Ajīj",
+1,
+[]
+],
+[
+"Al ‘Alwā",
+1,
+[]
+],
+[
+"Al Fā‘iyah",
+1,
+[]
+],
+[
+"Al Ḩabl",
+1,
+[]
+],
+[
+"Al Ḩaylīyah",
+1,
+[]
+],
+[
+"Al Jāhilīyah",
+1,
+[]
+],
+[
+"Al Jufrah",
+1,
+[]
+],
+[
+"Al Khuḑr",
+1,
+[]
+],
+[
+"Al Khushaym",
+1,
+[]
+],
+[
+"Al Layyis",
+1,
+[]
+],
+[
+"Al Malaḩ",
+1,
+[]
+],
+[
+"Al Muwayji‘ah",
+1,
+[]
+],
+[
+"Al Qāşirah",
+1,
+[]
+],
+[
+"Al Qufayyah",
+1,
+[]
+],
+[
+"Al ‘Uqaylah",
+1,
+[]
+],
+[
+"Al Uwayrah",
+1,
+[]
+],
+[
+"Al Uwayyirah",
+1,
+[]
+],
+[
+"Baţn ‘Ankah",
+1,
+[]
+],
+[
+"An Niddah",
+1,
+[]
+],
+[
+"‘Anqat Rajājīl",
+1,
+[]
+],
+[
+"Barqat ‘Araj al Ḩādh",
+1,
+[]
+],
+[
+"‘Arjān",
+1,
+[]
+],
+[
+"Ar Ramaq",
+1,
+[]
+],
+[
+"Sayḩ al Ashkarī",
+1,
+[]
+],
+[
+"Raml al ‘Ashūsh",
+1,
+[]
+],
+[
+"Sayḩ al ‘Ashūsh",
+1,
+[]
+],
+[
+"Dasht-e Tōbah",
+1,
+[]
+],
+[
+"Yāsīn Das̲h̲tah",
+1,
+[]
+],
+[
+"Tāghazī Das̲h̲tah",
+1,
+[]
+],
+[
+"Shēr ‘Alī Khān Das̲h̲tah",
+1,
+[]
+],
+[
+"Shōr Tepah",
+1,
+[]
+],
+[
+"Rēgistān-e Siyāh Kōh",
+1,
+[]
+],
+[
+"Rēgistān-e Siyāhtal",
+1,
+[]
+],
+[
+"Rēgistān-e Shōrō",
+1,
+[]
+],
+[
+"Shamshēr Wastah",
+1,
+[]
+],
+[
+"Dasht-e Razānī",
+1,
+[]
+],
+[
+"Sāḩah-ye Rēgī Mazanpaṯ",
+1,
+[]
+],
+[
+"Dasht-e Şāliyān",
+1,
+[]
+],
+[
+"Dasht-e Pōghadar",
+1,
+[]
+],
+[
+"Lanḏay Das̲h̲t",
+1,
+[]
+],
+[
+"Dasht-e Khāsh",
+1,
+[]
+],
+[
+"Kham-e Zarak",
+1,
+[]
+],
+[
+"Gondīn",
+1,
+[]
+],
+[
+"Dāmān Dasht",
+1,
+[]
+],
+[
+"Dasht-e Arbū-ye Junūbī",
+1,
+[]
+],
+[
+"Bagat Das̲h̲t",
+1,
+[]
+],
+[
+"Bālā Dasht",
+1,
+[]
+],
+[
+"Chōl-e Ābdān",
+1,
+[]
+],
+[
+"Dasht-e Pushtah",
+1,
+[]
+],
+[
+"Rēg Rawānkul",
+1,
+[]
+],
+[
+"Faqīr Das̲h̲t",
+1,
+[]
+],
+[
+"Dasht-e Deh-e Sabz",
+1,
+[]
+],
+[
+"Travesía del Zanjón",
+1,
+[]
+],
+[
+"Travesía de Mogna",
+1,
+[]
+],
+[
+"Little Desert",
+1,
+[]
+],
+[
+"Big Desert",
+1,
+[]
+],
+[
+"Areïgat Lemha",
+1,
+[]
+],
+[
+"Erg Zmeïla",
+1,
+[]
+],
+[
+"Draa ez Zmila",
+1,
+[]
+],
+[
+"Sif ez Zorhba",
+1,
+[]
+],
+[
+"Rhourd Zotti",
+1,
+[]
+],
+[
+"Rhourd ez Zotti",
+1,
+[]
+],
+[
+"Erg ez Zouabi",
+1,
+[]
+],
+[
+"Rhoud ez Zoufara",
+1,
+[]
+],
+[
+"Rhourd Zoukkeur",
+1,
+[]
+],
+[
+"Oued ez Zraïb",
+1,
+[]
+],
+[
+"Feïdjet ez Zrine",
+1,
+[]
+],
+[
+"Erg Zemilat Bou Ali",
+1,
+[]
+],
+[
+"Erg Zemoul Djouad",
+1,
+[]
+],
+[
+"Chouchet ez Zerga",
+1,
+[]
+],
+[
+"Garet ez Zerga",
+1,
+[]
+],
+[
+"Foum ez Zgag",
+1,
+[]
+],
+[
+"Draa ez Zina",
+1,
+[]
+],
+[
+"Rhourd ez Zina",
+1,
+[]
+],
+[
+"Feïdjet ez Zita",
+1,
+[]
+],
+[
+"Rhourd ez Zita",
+1,
+[]
+],
+[
+"Theïrat ez Zeïta",
+1,
+[]
+],
+[
+"Feïdjet ez Zekoukene",
+1,
+[]
+],
+[
+"Erg Zaher",
+1,
+[]
+],
+[
+"Erg Zaouadi",
+1,
+[]
+],
+[
+"Guern Zaouia",
+1,
+[]
+],
+[
+"Orhroud ez Zaouïa",
+1,
+[]
+],
+[
+"Erg Zaza",
+1,
+[]
+],
+[
+"Orhroud et Toumiat",
+1,
+[]
+],
+[
+"Draa Toumiet",
+1,
+[]
+],
+[
+"Hamada Tounassine",
+1,
+[]
+],
+[
+"Traces de Foggara",
+1,
+[]
+],
+[
+"Tri Tra",
+1,
+[]
+],
+[
+"Rhourd et Trounia",
+1,
+[]
+],
+[
+"Rhourd et Tsaleb",
+1,
+[]
+],
+[
+"Erg Yahia",
+1,
+[]
+],
+[
+"Rhourd Yaïch",
+1,
+[]
+],
+[
+"Slassel Yaïch",
+1,
+[]
+],
+[
+"Rhourd Yakoub",
+1,
+[]
+],
+[
+"Sif el Yhoudi",
+1,
+[]
+],
+[
+"Zaafrane",
+1,
+[]
+],
+[
+"Khebb Zaaroudj",
+1,
+[]
+],
+[
+"Groun et Tleta",
+1,
+[]
+],
+[
+"Rhourd et Tlouti",
+1,
+[]
+],
+[
+"Orhroud et Tmar",
+1,
+[]
+],
+[
+"Feïdj Torba",
+1,
+[]
+],
+[
+"Guern et Torba",
+1,
+[]
+],
+[
+"Orhroud Torba",
+1,
+[]
+],
+[
+"Feïdj Torki",
+1,
+[]
+],
+[
+"Guern et Touafez",
+1,
+[]
+],
+[
+"Guern et Touafez ech Chergui",
+1,
+[]
+],
+[
+"Es Siouf et Toual",
+1,
+[]
+],
+[
+"Erg Touareg",
+1,
+[]
+],
+[
+"Feïdjet et Toub",
+1,
+[]
+],
+[
+"Sif Touidjine",
+1,
+[]
+],
+[
+"Erg et Touil",
+1,
+[]
+],
+[
+"Gassi Touil",
+1,
+[]
+],
+[
+"Orhroud Touil",
+1,
+[]
+],
+[
+"Annguer et Touila",
+1,
+[]
+],
+[
+"Elb Touila",
+1,
+[]
+],
+[
+"Feïdj Touila",
+1,
+[]
+],
+[
+"Nebka Touila",
+1,
+[]
+],
+[
+"Oued Touila",
+1,
+[]
+],
+[
+"Touilet Chegga",
+1,
+[]
+],
+[
+"Touilet el Guettar",
+1,
+[]
+],
+[
+"Touil Saoudi",
+1,
+[]
+],
+[
+"Toumiat",
+1,
+[]
+],
+[
+"Erg Tiselline",
+1,
+[]
+],
+[
+"Rhourd Titlo",
+1,
+[]
+],
+[
+"Erg Tinasrat",
+1,
+[]
+],
+[
+"Ti-n-Baloul",
+1,
+[]
+],
+[
+"Hamada de Tindouf",
+1,
+[]
+],
+[
+"Tinefdjaouine",
+1,
+[]
+],
+[
+"Ti-n- Issi",
+1,
+[]
+],
+[
+"Erg Tinrhales",
+1,
+[]
+],
+[
+"Hamada de Tinrhert",
+1,
+[]
+],
+[
+"Demrhat et Tir",
+1,
+[]
+],
+[
+"Nba Tiliouine",
+1,
+[]
+],
+[
+"Erg Timellouline",
+1,
+[]
+],
+[
+"Feïdjet Timenndert",
+1,
+[]
+],
+[
+"Erg Timetat",
+1,
+[]
+],
+[
+"Erg Timezzouatine",
+1,
+[]
+],
+[
+"Erg Timizerk",
+1,
+[]
+],
+[
+"Erg Timokhane",
+1,
+[]
+],
+[
+"Erg Timoskaline",
+1,
+[]
+],
+[
+"Guern Timoutane",
+1,
+[]
+],
+[
+"Oued Timoutane",
+1,
+[]
+],
+[
+"Feïdj Tenouida",
+1,
+[]
+],
+[
+"Drâ' Teraga",
+1,
+[]
+],
+[
+"Theïrat Terfas",
+1,
+[]
+],
+[
+"Theïrat et Terfas",
+1,
+[]
+],
+[
+"Termet Smid",
+1,
+[]
+],
+[
+"Dmirat Thebane",
+1,
+[]
+],
+[
+"Reg Theuma",
+1,
+[]
+],
+[
+"Erg Tibhaouin",
+1,
+[]
+],
+[
+"Erg Tidjidit",
+1,
+[]
+],
+[
+"Tiferouine",
+1,
+[]
+],
+[
+"Erg Tefelet",
+1,
+[]
+],
+[
+"Erg Teganet",
+1,
+[]
+],
+[
+"Erg Teguentour",
+1,
+[]
+],
+[
+"Dmirat Tekar",
+1,
+[]
+],
+[
+"Erg ti-n-Telessebane",
+1,
+[]
+],
+[
+"Sif et Teliha",
+1,
+[]
+],
+[
+"Erg Tellis",
+1,
+[]
+],
+[
+"Reg Temassine",
+1,
+[]
+],
+[
+"Tenia",
+1,
+[]
+],
+[
+"Rhourd et Tenia",
+1,
+[]
+],
+[
+"Tarauma",
+1,
+[]
+],
+[
+"Rhourd Tarfaïa",
+1,
+[]
+],
+[
+"Tarfaïet Troud",
+1,
+[]
+],
+[
+"Tarhtarh Soltane",
+1,
+[]
+],
+[
+"Guern Tasguennfous",
+1,
+[]
+],
+[
+"Erg Tassedjefit",
+1,
+[]
+],
+[
+"Oued Tasselga",
+1,
+[]
+],
+[
+"Tayert Hdjoua",
+1,
+[]
+],
+[
+"Oued Taziouene",
+1,
+[]
+],
+[
+"Tamzaïa",
+1,
+[]
+],
+[
+"Tanemelelt",
+1,
+[]
+],
+[
+"Ta-n-Emezadj",
+1,
+[]
+],
+[
+"Erg oua-n-Tanenet",
+1,
+[]
+],
+[
+"Erg Tangousmane",
+1,
+[]
+],
+[
+"Rhourd Tangueur",
+1,
+[]
+],
+[
+"Ta-n-Tissemnt",
+1,
+[]
+],
+[
+"Ta-n-Toura",
+1,
+[]
+],
+[
+"Taherhete",
+1,
+[]
+],
+[
+"Erg Tahinaouine",
+1,
+[]
+],
+[
+"Erg Tahtani",
+1,
+[]
+],
+[
+"Taïaret el Koptane",
+1,
+[]
+],
+[
+"Erg Talachemt",
+1,
+[]
+],
+[
+"Erg Talesmout",
+1,
+[]
+],
+[
+"Tadjoujelt",
+1,
+[]
+],
+[
+"Erg Tagsist",
+1,
+[]
+],
+[
+"Oued Taguennzi",
+1,
+[]
+],
+[
+"Feïdj Taguenza",
+1,
+[]
+],
+[
+"Reg Tahantas",
+1,
+[]
+],
+[
+"Taharmout",
+1,
+[]
+],
+[
+"Tahar Taharet",
+1,
+[]
+],
+[
+"Groun es Souaba",
+1,
+[]
+],
+[
+"Guern es Souaba",
+1,
+[]
+],
+[
+"Drâ' Souf",
+1,
+[]
+],
+[
+"Elb Souid el Amia",
+1,
+[]
+],
+[
+"Dmirat Souifet",
+1,
+[]
+],
+[
+"Erg Souifet Mouissarh",
+1,
+[]
+],
+[
+"Rhourd Srhir",
+1,
+[]
+],
+[
+"Guern es Srouria",
+1,
+[]
+],
+[
+"Aleb Sidi Saïd",
+1,
+[]
+],
+[
+"Gassi Sidi Slimane",
+1,
+[]
+],
+[
+"Orhroud Sidi Tayeb",
+1,
+[]
+],
+[
+"Rhourd es Sifeur",
+1,
+[]
+],
+[
+"Skakir",
+1,
+[]
+],
+[
+"Dir es Slef",
+1,
+[]
+],
+[
+"Chouchet Sliaa",
+1,
+[]
+],
+[
+"Rhourd Slimane Mbarek",
+1,
+[]
+],
+[
+"Nebka Smehria",
+1,
+[]
+],
+[
+"Oued es Smiharia",
+1,
+[]
+],
+[
+"Erg Smila",
+1,
+[]
+],
+[
+"Dekhlat Sidi Aoun",
+1,
+[]
+],
+[
+"Arich Sidi Bou Haous",
+1,
+[]
+],
+[
+"Gour Sidi Cheïkh",
+1,
+[]
+],
+[
+"Arichet Sidi el Hadj Bou Haous",
+1,
+[]
+],
+[
+"Sif Sidi Kaddour",
+1,
+[]
+],
+[
+"Sif Sidi Mohammed",
+1,
+[]
+],
+[
+"Erg Sidi Moussa",
+1,
+[]
+],
+[
+"Erg Selea",
+1,
+[]
+],
+[
+"Feïdjet Sellat",
+1,
+[]
+],
+[
+"Feïdjet es Senndani",
+1,
+[]
+],
+[
+"Guern es Serach",
+1,
+[]
+],
+[
+"Areg Serhane",
+1,
+[]
+],
+[
+"Feïdjet es Seroual",
+1,
+[]
+],
+[
+"Guern el Seroual",
+1,
+[]
+],
+[
+"Erg Sersouf",
+1,
+[]
+],
+[
+"Orhroud Settar",
+1,
+[]
+],
+[
+"Sfaïa",
+1,
+[]
+],
+[
+"Orhroud Sfina",
+1,
+[]
+],
+[
+"Rhourd es Sid",
+1,
+[]
+],
+[
+"Guern Sidi Abdallah",
+1,
+[]
+],
+[
+"Sebaïa",
+1,
+[]
+],
+[
+"Rhourd Sebbakh",
+1,
+[]
+],
+[
+"Demrhat Sebgag",
+1,
+[]
+],
+[
+"Theïrat Sedjra",
+1,
+[]
+],
+[
+"Sedjret Bel Aïdouni",
+1,
+[]
+],
+[
+"Aleb es Sedra",
+1,
+[]
+],
+[
+"Sedra ed Derkani",
+1,
+[]
+],
+[
+"Sedrat Tebdji",
+1,
+[]
+],
+[
+"Feïdjet es Sefar",
+1,
+[]
+],
+[
+"Rhourd es Sefar",
+1,
+[]
+],
+[
+"Feïdjet es Sefra",
+1,
+[]
+],
+[
+"Theïrat Sefsou",
+1,
+[]
+],
+[
+"Aleb Segaâ",
+1,
+[]
+],
+[
+"Guern Sehamida",
+1,
+[]
+],
+[
+"Sehoui Oua-n-Remed",
+1,
+[]
+],
+[
+"Foum Seïada",
+1,
+[]
+],
+[
+"Guern Safra",
+1,
+[]
+],
+[
+"Hamada Safra",
+1,
+[]
+],
+[
+"Slassel Safra",
+1,
+[]
+],
+[
+"Rhourd Sahane el Kherez",
+1,
+[]
+],
+[
+"Dmirat Sahb",
+1,
+[]
+],
+[
+"Erg Saï",
+1,
+[]
+],
+[
+"Orhroud Saïda",
+1,
+[]
+],
+[
+"Oued Salah",
+1,
+[]
+],
+[
+"Rhourd Salah",
+1,
+[]
+],
+[
+"Alibet Salah Bousbïa",
+1,
+[]
+],
+[
+"Feïdj es Sarda",
+1,
+[]
+],
+[
+"'Erg Saret",
+1,
+[]
+],
+[
+"Erg es Sayah",
+1,
+[]
+],
+[
+"Rhourd Sayah",
+1,
+[]
+],
+[
+"Draa Sbeït",
+1,
+[]
+],
+[
+"Draa Rmel",
+1,
+[]
+],
+[
+"Roknet el Aouda",
+1,
+[]
+],
+[
+"Roknet el Khadem",
+1,
+[]
+],
+[
+"Feïdjet er Romana",
+1,
+[]
+],
+[
+"Theïrat Rouadi",
+1,
+[]
+],
+[
+"Rhourd er Rouati",
+1,
+[]
+],
+[
+"Rhourd Rouba",
+1,
+[]
+],
+[
+"Arich er Roumana",
+1,
+[]
+],
+[
+"Guern er Roumana",
+1,
+[]
+],
+[
+"Rhourd er Rouni",
+1,
+[]
+],
+[
+"Rhourd er Rout",
+1,
+[]
+],
+[
+"Aleb er Rtem",
+1,
+[]
+],
+[
+"Feïdj er Rtem",
+1,
+[]
+],
+[
+"Hamadat er Rtem",
+1,
+[]
+],
+[
+"Oued er Rtem",
+1,
+[]
+],
+[
+"Gassi Rtem Rhoul",
+1,
+[]
+],
+[
+"Demrhat er R'Zinn",
+1,
+[]
+],
+[
+"Rhourd Saad Allah",
+1,
+[]
+],
+[
+"Erg el Rhbeïda",
+1,
+[]
+],
+[
+"Demrhat Rhechicha",
+1,
+[]
+],
+[
+"Erg Rhelania",
+1,
+[]
+],
+[
+"Draa Rhenem",
+1,
+[]
+],
+[
+"'Erg Rhenia",
+1,
+[]
+],
+[
+"Guelbat el Rherfane",
+1,
+[]
+],
+[
+"Rhoridat el Rhessel",
+1,
+[]
+],
+[
+"Rhourd el Rhezala",
+1,
+[]
+],
+[
+"Rhiat el Aouda",
+1,
+[]
+],
+[
+"Erg Rhira",
+1,
+[]
+],
+[
+"Guelib el Rhnem",
+1,
+[]
+],
+[
+"Feïdj Rhorb el Ethel",
+1,
+[]
+],
+[
+"Rhorfat el Achchab",
+1,
+[]
+],
+[
+"Rhourd Rhorfat Mbarek",
+1,
+[]
+],
+[
+"Aleb el Rhoul",
+1,
+[]
+],
+[
+"Rhourd el Rhouldid",
+1,
+[]
+],
+[
+"Feïdjet er Rich",
+1,
+[]
+],
+[
+"Guern er Richat",
+1,
+[]
+],
+[
+"Demrhat er Rih",
+1,
+[]
+],
+[
+"Erg er Rih",
+1,
+[]
+],
+[
+"Orhroud er Rih",
+1,
+[]
+],
+[
+"Sif er Rimel",
+1,
+[]
+],
+[
+"Draa er Remla",
+1,
+[]
+],
+[
+"Oued Rerhama",
+1,
+[]
+],
+[
+"Sif Retba",
+1,
+[]
+],
+[
+"Feïdjet er Retmaïa",
+1,
+[]
+],
+[
+"Orhroud Retmaïa",
+1,
+[]
+],
+[
+"Oued er Retmaïa",
+1,
+[]
+],
+[
+"Rhourd er Retmaïa",
+1,
+[]
+],
+[
+"Retmia",
+1,
+[]
+],
+[
+"Erg Retmia",
+1,
+[]
+],
+[
+"Theïrat el Rhaba",
+1,
+[]
+],
+[
+"Rhabtat el Maïouf",
+1,
+[]
+],
+[
+"Feïdj el Rham",
+1,
+[]
+],
+[
+"Areg Rhanem",
+1,
+[]
+],
+[
+"Er Reg el Rharbi",
+1,
+[]
+],
+[
+"Rharet ed Dib",
+1,
+[]
+],
+[
+"Erg er Raoui",
+1,
+[]
+],
+[
+"Theïrat Râs el Maâ",
+1,
+[]
+],
+[
+"Erg Râs et Teneb",
+1,
+[]
+],
+[
+"Hamada er Rayia",
+1,
+[]
+],
+[
+"Feïdjet Rchicha",
+1,
+[]
+],
+[
+"Aleb Rebaïa",
+1,
+[]
+],
+[
+"Rebeg Bel Aïdouni",
+1,
+[]
+],
+[
+"Rebeg et Tseldj",
+1,
+[]
+],
+[
+"Rhourd er Redef",
+1,
+[]
+],
+[
+"Arich er Redini",
+1,
+[]
+],
+[
+"Theïrat er Redjem",
+1,
+[]
+],
+[
+"Redjem ed Debdeb",
+1,
+[]
+],
+[
+"Feïdj er Reguig",
+1,
+[]
+],
+[
+"Theïrat er Reguig",
+1,
+[]
+],
+[
+"Erg er Reh",
+1,
+[]
+],
+[
+"Reg er Rehila",
+1,
+[]
+],
+[
+"Feïdjet er Rekani",
+1,
+[]
+],
+[
+"Rhourd Remad et Tsleba",
+1,
+[]
+],
+[
+"Oum Sahane",
+1,
+[]
+],
+[
+"Orhroud Oured",
+1,
+[]
+],
+[
+"Oued el Oussaa",
+1,
+[]
+],
+[
+"Draa el Oussera",
+1,
+[]
+],
+[
+"Draa el Oussif",
+1,
+[]
+],
+[
+"Erg el Oussif",
+1,
+[]
+],
+[
+"Râs el Oussif",
+1,
+[]
+],
+[
+"Rhourd el Oussif",
+1,
+[]
+],
+[
+"Draa el Oust",
+1,
+[]
+],
+[
+"Aleb Rahmoun",
+1,
+[]
+],
+[
+"Chouchet er Raïssa",
+1,
+[]
+],
+[
+"Rhourde Ramad",
+1,
+[]
+],
+[
+"Ramaleh",
+1,
+[]
+],
+[
+"Feïdjet Oum ech Chegaa",
+1,
+[]
+],
+[
+"Feïdjet Oum ech Chiah",
+1,
+[]
+],
+[
+"Feïdjet Oum ed Damrane",
+1,
+[]
+],
+[
+"Feïdjet Oum ed Dem",
+1,
+[]
+],
+[
+"Feïdjet Oum ed Diab",
+1,
+[]
+],
+[
+"Guern Oum ed Dzrabine",
+1,
+[]
+],
+[
+"Feïdjet Oum el Afrane",
+1,
+[]
+],
+[
+"Feïdjet Oum el Alennda",
+1,
+[]
+],
+[
+"Oued Oum el Alennda",
+1,
+[]
+],
+[
+"Feïdjet Oum el Arfedj",
+1,
+[]
+],
+[
+"Feïdjet Oum el Arneb",
+1,
+[]
+],
+[
+"Feïdjet Oum el Baguel",
+1,
+[]
+],
+[
+"Guern Oum el Baguel",
+1,
+[]
+],
+[
+"Oued Oum el Baguel",
+1,
+[]
+],
+[
+"Feïdjet Oum el Guedour",
+1,
+[]
+],
+[
+"Feïdjet Oum el Guergaa",
+1,
+[]
+],
+[
+"Feïdjet Oum el Hadjer",
+1,
+[]
+],
+[
+"Oum el Hanina",
+1,
+[]
+],
+[
+"Oum el Houa",
+1,
+[]
+],
+[
+"Feïdjet Oum el Kedim",
+1,
+[]
+],
+[
+"Gassi Oum el Mgoul et Tahtania",
+1,
+[]
+],
+[
+"Feïdjet Oum el Rhirane",
+1,
+[]
+],
+[
+"Rhourd Oum en Nsir",
+1,
+[]
+],
+[
+"Rhourd Oum es Saad",
+1,
+[]
+],
+[
+"Guern Oum es Sif",
+1,
+[]
+],
+[
+"Feïdjet Oum es Soeï",
+1,
+[]
+],
+[
+"Oum et Teboul",
+1,
+[]
+],
+[
+"Guern Oum Meroub",
+1,
+[]
+],
+[
+"Feïdjet Oum Achgouf",
+1,
+[]
+],
+[
+"Erg Oudeschane",
+1,
+[]
+],
+[
+"Orhroud el Oudjdi",
+1,
+[]
+],
+[
+"Oudliene",
+1,
+[]
+],
+[
+"Ras el Oued Bou Hamouadi",
+1,
+[]
+],
+[
+"Theïrat Oued Dekkar",
+1,
+[]
+],
+[
+"Arigat Oueddo",
+1,
+[]
+],
+[
+"Oued Guenifida",
+1,
+[]
+],
+[
+"Erg Oued Yahia",
+1,
+[]
+],
+[
+"Oued el Oukda",
+1,
+[]
+],
+[
+"Rhourd Oulad Ahmed",
+1,
+[]
+],
+[
+"Draa Oulad Amar",
+1,
+[]
+],
+[
+"Rhourd Oulad Amar",
+1,
+[]
+],
+[
+"Reg Oulad Bou Hadid",
+1,
+[]
+],
+[
+"Gassi Oulad Daoud",
+1,
+[]
+],
+[
+"Rhourd Oulad Djemaa",
+1,
+[]
+],
+[
+"Rhourd Oulad Messaoud",
+1,
+[]
+],
+[
+"Feïdjet Oulad Mokhane",
+1,
+[]
+],
+[
+"Gassi Oulad Mokhane",
+1,
+[]
+],
+[
+"Feïdjet Oulad Nsir",
+1,
+[]
+],
+[
+"Rhourd Oulad Zid",
+1,
+[]
+],
+[
+"Demrhat Ould Breïk",
+1,
+[]
+],
+[
+"Erg Ouled Mohammed",
+1,
+[]
+],
+[
+"Taïrt Ouled Yakoub",
+1,
+[]
+],
+[
+"Dmirat en Naga",
+1,
+[]
+],
+[
+"Rhourd en Naga",
+1,
+[]
+],
+[
+"Erg en Nakhla",
+1,
+[]
+],
+[
+"Oued Namous",
+1,
+[]
+],
+[
+"Khechem en Nasseur",
+1,
+[]
+],
+[
+"Erg en Nazia",
+1,
+[]
+],
+[
+"Orhroud Nba",
+1,
+[]
+],
+[
+"Nba Laoumdat",
+1,
+[]
+],
+[
+"Nebka",
+1,
+[]
+],
+[
+"Nebka Zebbara",
+1,
+[]
+],
+[
+"Guelb en Nemeur",
+1,
+[]
+],
+[
+"Oued en Nessara",
+1,
+[]
+],
+[
+"Draa en Nezla",
+1,
+[]
+],
+[
+"Orhroud en Nezla",
+1,
+[]
+],
+[
+"Oued Nezla",
+1,
+[]
+],
+[
+"Erg en Nine",
+1,
+[]
+],
+[
+"Orhroud Nouabi",
+1,
+[]
+],
+[
+"Theïrat Noubaka",
+1,
+[]
+],
+[
+"Demrhat en Noubia",
+1,
+[]
+],
+[
+"Oued en Noubia",
+1,
+[]
+],
+[
+"Nouider",
+1,
+[]
+],
+[
+"Nouidret",
+1,
+[]
+],
+[
+"Erg Nouitirat",
+1,
+[]
+],
+[
+"Dmirat Nous",
+1,
+[]
+],
+[
+"Rhourde Nous",
+1,
+[]
+],
+[
+"Rhourd en Nous",
+1,
+[]
+],
+[
+"Groun en Nsa",
+1,
+[]
+],
+[
+"Guern en Nsa",
+1,
+[]
+],
+[
+"Erg Nsira",
+1,
+[]
+],
+[
+"Feïdj el Oglat",
+1,
+[]
+],
+[
+"Rhourd Orad Guenafid",
+1,
+[]
+],
+[
+"Ord Inifeg",
+1,
+[]
+],
+[
+"Guern Otsmane",
+1,
+[]
+],
+[
+"Rhourde el Ouahdani",
+1,
+[]
+],
+[
+"Oua-n-Bedjedjene",
+1,
+[]
+],
+[
+"Erg Oua-n-Essandilene",
+1,
+[]
+],
+[
+"Oua-n-Ousmane",
+1,
+[]
+],
+[
+"Oua-n-ti-n-Barek",
+1,
+[]
+],
+[
+"Gassi el Ouassa",
+1,
+[]
+],
+[
+"Feïdj el Ouassah",
+1,
+[]
+],
+[
+"Ubari Sand Sea",
+1,
+[]
+],
+[
+"Guern el Morr",
+1,
+[]
+],
+[
+"Erg el Morrat",
+1,
+[]
+],
+[
+"Motroub",
+1,
+[]
+],
+[
+"Reg Mouadeb",
+1,
+[]
+],
+[
+"Redjem el Mouaïa",
+1,
+[]
+],
+[
+"Demrhat el Moualidj",
+1,
+[]
+],
+[
+"Mouhet ed Diab",
+1,
+[]
+],
+[
+"Chouchet Mouiet Roho",
+1,
+[]
+],
+[
+"Gassi el Mouilah",
+1,
+[]
+],
+[
+"Feïdj Mouilah Mataallah",
+1,
+[]
+],
+[
+"Guern Moul Amoura",
+1,
+[]
+],
+[
+"Feïdjet el Moulay",
+1,
+[]
+],
+[
+"Feïdjet Moulay Bagdad",
+1,
+[]
+],
+[
+"Erg Moulay Mohammed",
+1,
+[]
+],
+[
+"Feïdjet Moul el Gouiret",
+1,
+[]
+],
+[
+"Reg Moul el Kedim",
+1,
+[]
+],
+[
+"Feïdj Moulgrad",
+1,
+[]
+],
+[
+"Erg ti Mouma",
+1,
+[]
+],
+[
+"Aleb el Moungar",
+1,
+[]
+],
+[
+"Rhourde Moussa",
+1,
+[]
+],
+[
+"Moussakh Bel Ali",
+1,
+[]
+],
+[
+"Elb Mou Tboul",
+1,
+[]
+],
+[
+"Rhourd Mouza",
+1,
+[]
+],
+[
+"Orhroud el Mrazigat",
+1,
+[]
+],
+[
+"Sif Msafa",
+1,
+[]
+],
+[
+"Erg Msedli",
+1,
+[]
+],
+[
+"Arigat el Msegguem",
+1,
+[]
+],
+[
+"Feïdj M'sour el Begra",
+1,
+[]
+],
+[
+"Mta Arabine",
+1,
+[]
+],
+[
+"Reg Mta ed Dem",
+1,
+[]
+],
+[
+"Reg Mta el Hamir",
+1,
+[]
+],
+[
+"Elb el Mtréourat",
+1,
+[]
+],
+[
+"Rhourd Mzabi",
+1,
+[]
+],
+[
+"Orhroud Mzalib",
+1,
+[]
+],
+[
+"Erg en Naam",
+1,
+[]
+],
+[
+"Fedj en Naam",
+1,
+[]
+],
+[
+"Feïdjet en Nadja",
+1,
+[]
+],
+[
+"Areg en Nadour",
+1,
+[]
+],
+[
+"Orhroud Mezrag",
+1,
+[]
+],
+[
+"Demrhat el Mezraïer",
+1,
+[]
+],
+[
+"Foum el Mgoud",
+1,
+[]
+],
+[
+"Drâ' el Mguemmel",
+1,
+[]
+],
+[
+"Hamadet el Mguemmel",
+1,
+[]
+],
+[
+"Khechem M'Hamed",
+1,
+[]
+],
+[
+"Miad Rebaïa",
+1,
+[]
+],
+[
+"Rhourd Midi",
+1,
+[]
+],
+[
+"Gassi Mignotte",
+1,
+[]
+],
+[
+"Gassi Milheut",
+1,
+[]
+],
+[
+"Draa Missaoui",
+1,
+[]
+],
+[
+"Feïdj Mjajim",
+1,
+[]
+],
+[
+"Feïjet el Mkam",
+1,
+[]
+],
+[
+"Drâ' Mkhatta",
+1,
+[]
+],
+[
+"Rhourd Mlaoua",
+1,
+[]
+],
+[
+"Feïdj Mlehas",
+1,
+[]
+],
+[
+"Erg el Mohammedi",
+1,
+[]
+],
+[
+"Erg Moharrega",
+1,
+[]
+],
+[
+"Draa el Mokhanza",
+1,
+[]
+],
+[
+"Oued el Mokhfi",
+1,
+[]
+],
+[
+"Feïdj Merita",
+1,
+[]
+],
+[
+"Guerinet el Merk",
+1,
+[]
+],
+[
+"Rhourd el Merkh",
+1,
+[]
+],
+[
+"Sif el Merkh",
+1,
+[]
+],
+[
+"Sif el Meroug",
+1,
+[]
+],
+[
+"Guern el Mersane",
+1,
+[]
+],
+[
+"Oued el Mersane",
+1,
+[]
+],
+[
+"Erg ti-n-Merzouga",
+1,
+[]
+],
+[
+"Rhourd Messaoud",
+1,
+[]
+],
+[
+"Theïrat el Messaoud",
+1,
+[]
+],
+[
+"Feïdjet el Messdar",
+1,
+[]
+],
+[
+"Sif el Messelmi",
+1,
+[]
+],
+[
+"Reg el Messha",
+1,
+[]
+],
+[
+"Gassi el Messha et Touil",
+1,
+[]
+],
+[
+"Oued el Meuch ech Chergui",
+1,
+[]
+],
+[
+"Oued el Meuch el Rharbi",
+1,
+[]
+],
+[
+"Dmirat el Meurkh",
+1,
+[]
+],
+[
+"Rhirdat el Meurkh",
+1,
+[]
+],
+[
+"Groun el Meurr",
+1,
+[]
+],
+[
+"Khebb el Mezaria",
+1,
+[]
+],
+[
+"Erg Mezebella",
+1,
+[]
+],
+[
+"Gassi el Mezna",
+1,
+[]
+],
+[
+"Reg el Meloukia",
+1,
+[]
+],
+[
+"Demrhat el Menisserat",
+1,
+[]
+],
+[
+"Mennkhour",
+1,
+[]
+],
+[
+"Oued Menoucha",
+1,
+[]
+],
+[
+"Merdouf el Guettaf",
+1,
+[]
+],
+[
+"Merfaga Ben Chekchek",
+1,
+[]
+],
+[
+"Merfeg Tinessarat",
+1,
+[]
+],
+[
+"Erg Merhiti",
+1,
+[]
+],
+[
+"Demrhat Meriem",
+1,
+[]
+],
+[
+"Mekha",
+1,
+[]
+],
+[
+"Orhroud el Mekha",
+1,
+[]
+],
+[
+"Mekitla",
+1,
+[]
+],
+[
+"Rhourd el Mektela",
+1,
+[]
+],
+[
+"Rhourd el Mektla",
+1,
+[]
+],
+[
+"Feïdj el Melah",
+1,
+[]
+],
+[
+"Garet el Melah",
+1,
+[]
+],
+[
+"Selselat el Melah",
+1,
+[]
+],
+[
+"Melah Barka",
+1,
+[]
+],
+[
+"Theïrat Mechia el Kebira",
+1,
+[]
+],
+[
+"Theïrat Mechia es Srhîra",
+1,
+[]
+],
+[
+"Medabah Cherguia",
+1,
+[]
+],
+[
+"Rhourd el Medabarh",
+1,
+[]
+],
+[
+"Feïdj el Medjbed",
+1,
+[]
+],
+[
+"Feïdjet el Medjbed",
+1,
+[]
+],
+[
+"Theïret el Medjbed",
+1,
+[]
+],
+[
+"Medjbed Taouardassa",
+1,
+[]
+],
+[
+"Medjbed Touba",
+1,
+[]
+],
+[
+"Theïrat el Medjna",
+1,
+[]
+],
+[
+"Guern el Megarine",
+1,
+[]
+],
+[
+"Erg Megraoun",
+1,
+[]
+],
+[
+"Meguidene",
+1,
+[]
+],
+[
+"Arigat el Mehane",
+1,
+[]
+],
+[
+"Sif el Mehareg",
+1,
+[]
+],
+[
+"Erg el Meharzi",
+1,
+[]
+],
+[
+"Rabet el Mehaza",
+1,
+[]
+],
+[
+"Erg Mehedjibat",
+1,
+[]
+],
+[
+"Chouchet el Malha",
+1,
+[]
+],
+[
+"Rhourd Mammar",
+1,
+[]
+],
+[
+"Draa Manimoussa",
+1,
+[]
+],
+[
+"Oued Mansour",
+1,
+[]
+],
+[
+"Demrhat el Maziz",
+1,
+[]
+],
+[
+"Theïrat Mbarek",
+1,
+[]
+],
+[
+"Toumiat Mbarek Bel Aïd",
+1,
+[]
+],
+[
+"Mebrouk",
+1,
+[]
+],
+[
+"Rhourd Mebrouka",
+1,
+[]
+],
+[
+"Madjouri",
+1,
+[]
+],
+[
+"Draa el Madjouri",
+1,
+[]
+],
+[
+"Erg Mahabes Tiguendaft",
+1,
+[]
+],
+[
+"Orhroud Mahaboula",
+1,
+[]
+],
+[
+"Theïrat Mahamet Ben Zit",
+1,
+[]
+],
+[
+"Demrhat Mahdjouba",
+1,
+[]
+],
+[
+"Feïdj Mahnoun",
+1,
+[]
+],
+[
+"Feïdj Maïtigat",
+1,
+[]
+],
+[
+"Guern el Maïza",
+1,
+[]
+],
+[
+"Feïdj el Makhzene",
+1,
+[]
+],
+[
+"Gassi Makhzene",
+1,
+[]
+],
+[
+"Rhourd Malah el Meurkh",
+1,
+[]
+],
+[
+"Malah Khaled",
+1,
+[]
+],
+[
+"Erg Lebtene",
+1,
+[]
+],
+[
+"Erg Lefaïa",
+1,
+[]
+],
+[
+"Legouiret",
+1,
+[]
+],
+[
+"Lehchachine",
+1,
+[]
+],
+[
+"Oued Lekdane",
+1,
+[]
+],
+[
+"Rhourde Lektaïa",
+1,
+[]
+],
+[
+"Rhourd el Lia",
+1,
+[]
+],
+[
+"Ras el Ma",
+1,
+[]
+],
+[
+"Râs el Maâ",
+1,
+[]
+],
+[
+"Feïdjet el Maama",
+1,
+[]
+],
+[
+"Erg Maatallah",
+1,
+[]
+],
+[
+"Rhourd el Maati",
+1,
+[]
+],
+[
+"Erg Mabrouka",
+1,
+[]
+],
+[
+"Sif el Madani",
+1,
+[]
+],
+[
+"Theïrat Ksebiat",
+1,
+[]
+],
+[
+"Feïdjet el Ksour",
+1,
+[]
+],
+[
+"Orhroud el Ktir",
+1,
+[]
+],
+[
+"Oued Ktob el Krib",
+1,
+[]
+],
+[
+"Aleb Lahamar",
+1,
+[]
+],
+[
+"Laham el Kelb",
+1,
+[]
+],
+[
+"Gara ta-n-Lakane",
+1,
+[]
+],
+[
+"Drâ' Kourama",
+1,
+[]
+],
+[
+"Erg Kranguet el Hadid",
+1,
+[]
+],
+[
+"Erg el Krebs",
+1,
+[]
+],
+[
+"Gara Khima",
+1,
+[]
+],
+[
+"Feïdjet el Khis",
+1,
+[]
+],
+[
+"Rhourd el Khlef",
+1,
+[]
+],
+[
+"Orhroud el Khoab",
+1,
+[]
+],
+[
+"Theïrat el Khoab",
+1,
+[]
+],
+[
+"Elb el Khoula",
+1,
+[]
+],
+[
+"Arich el Khouma",
+1,
+[]
+],
+[
+"Erg Kilian",
+1,
+[]
+],
+[
+"Feïdjet el Kina",
+1,
+[]
+],
+[
+"Oued el Korfa",
+1,
+[]
+],
+[
+"Koridat Mbarka",
+1,
+[]
+],
+[
+"Demrhat el Koula",
+1,
+[]
+],
+[
+"Koumbet Rherib",
+1,
+[]
+],
+[
+"Dmirat Khalfi",
+1,
+[]
+],
+[
+"Erg Khanem",
+1,
+[]
+],
+[
+"Erg Khaouar",
+1,
+[]
+],
+[
+"Oued Khaoula",
+1,
+[]
+],
+[
+"Garet el Khatem",
+1,
+[]
+],
+[
+"Rhourd el Khatti",
+1,
+[]
+],
+[
+"Rhourd el Khechba",
+1,
+[]
+],
+[
+"Guern el Khegago",
+1,
+[]
+],
+[
+"Erg el Khella",
+1,
+[]
+],
+[
+"Siouf Khella",
+1,
+[]
+],
+[
+"Draa el Khellal",
+1,
+[]
+],
+[
+"Khellet el Arara",
+1,
+[]
+],
+[
+"Feïdjet el Khenafes",
+1,
+[]
+],
+[
+"Rhourd el Kherouf",
+1,
+[]
+],
+[
+"Feïdjet el Kedim",
+1,
+[]
+],
+[
+"Oued el Kehal",
+1,
+[]
+],
+[
+"Keïmene",
+1,
+[]
+],
+[
+"Orhroud el Kelb",
+1,
+[]
+],
+[
+"Rhourd el Kelb",
+1,
+[]
+],
+[
+"Oued el Kelbo",
+1,
+[]
+],
+[
+"Keltoumet ech Chergui",
+1,
+[]
+],
+[
+"Keltoumet el Rharbi",
+1,
+[]
+],
+[
+"Kenntich",
+1,
+[]
+],
+[
+"Guern el Keroum",
+1,
+[]
+],
+[
+"Rhourd el Khacheref",
+1,
+[]
+],
+[
+"Feïdj el Khadem",
+1,
+[]
+],
+[
+"Khadik",
+1,
+[]
+],
+[
+"Adlet Khaldi",
+1,
+[]
+],
+[
+"Erg Isfaouene",
+1,
+[]
+],
+[
+"Feïdjet Isrhar",
+1,
+[]
+],
+[
+"Erg Joui",
+1,
+[]
+],
+[
+"Sif Jouini",
+1,
+[]
+],
+[
+"Siouf Kabou",
+1,
+[]
+],
+[
+"Sif Kaddouha",
+1,
+[]
+],
+[
+"Orhroud el Kahal",
+1,
+[]
+],
+[
+"Feïdjet el Kahla",
+1,
+[]
+],
+[
+"Oued el Kahla",
+1,
+[]
+],
+[
+"Theïrat el Kahla",
+1,
+[]
+],
+[
+"Erg ti-n-Kaïet",
+1,
+[]
+],
+[
+"Sahane el Kaïma",
+1,
+[]
+],
+[
+"Oued el Kakla",
+1,
+[]
+],
+[
+"Zemlet el Kalef",
+1,
+[]
+],
+[
+"Feïdjet el Kalga",
+1,
+[]
+],
+[
+"Guern Kallouz",
+1,
+[]
+],
+[
+"Erg Kamboud",
+1,
+[]
+],
+[
+"Sif el Kamit",
+1,
+[]
+],
+[
+"Hamadet el Kareb",
+1,
+[]
+],
+[
+"Iguidi oua-n-Kasa",
+1,
+[]
+],
+[
+"Guern el Kebch",
+1,
+[]
+],
+[
+"Oued el Kebir",
+1,
+[]
+],
+[
+"Theïrat el Hena",
+1,
+[]
+],
+[
+"Feïdjet el Henna",
+1,
+[]
+],
+[
+"Rhourd el Henna",
+1,
+[]
+],
+[
+"Erg el Hezma",
+1,
+[]
+],
+[
+"Erg el Hofer",
+1,
+[]
+],
+[
+"Erg el Homeur",
+1,
+[]
+],
+[
+"Erg Iabes",
+1,
+[]
+],
+[
+"Erg el Ibel",
+1,
+[]
+],
+[
+"Rmel el Ibel",
+1,
+[]
+],
+[
+"Erg Idri",
+1,
+[]
+],
+[
+"Iguenouyane",
+1,
+[]
+],
+[
+"Ihahellelene",
+1,
+[]
+],
+[
+"Erg Ikna",
+1,
+[]
+],
+[
+"Feïdjet Ikna",
+1,
+[]
+],
+[
+"I-n-Ameded",
+1,
+[]
+],
+[
+"I-n-Amedjene",
+1,
+[]
+],
+[
+"I-n-Ilel",
+1,
+[]
+],
+[
+"I-n-Louiam",
+1,
+[]
+],
+[
+"I-n-Merzouga",
+1,
+[]
+],
+[
+"Erg Irhezer",
+1,
+[]
+],
+[
+"Guern el Haouli",
+1,
+[]
+],
+[
+"Gara ta-n-Harab",
+1,
+[]
+],
+[
+"Draa el Harch",
+1,
+[]
+],
+[
+"Draa el Harcha",
+1,
+[]
+],
+[
+"Orhroud Harcha",
+1,
+[]
+],
+[
+"Hares el Maïz",
+1,
+[]
+],
+[
+"Harrez",
+1,
+[]
+],
+[
+"Draa el Hassi",
+1,
+[]
+],
+[
+"Guern el Hassi",
+1,
+[]
+],
+[
+"Reg Hassi Ali",
+1,
+[]
+],
+[
+"Erg el Hassiane",
+1,
+[]
+],
+[
+"Draa Hassi Brahim",
+1,
+[]
+],
+[
+"Erg Hamed Ben Moussa",
+1,
+[]
+],
+[
+"Feïdjet el Hamiani",
+1,
+[]
+],
+[
+"Elb el Hammami",
+1,
+[]
+],
+[
+"Oued Hamouya",
+1,
+[]
+],
+[
+"Rhourde Hamra",
+1,
+[]
+],
+[
+"Rhourd el Haouar",
+1,
+[]
+],
+[
+"Draa el Haouaziz",
+1,
+[]
+],
+[
+"Khebb el Guetatia",
+1,
+[]
+],
+[
+"Gueteb Ben Lakhdar",
+1,
+[]
+],
+[
+"Gueteb el Ahmar",
+1,
+[]
+],
+[
+"Gueteb el Beth",
+1,
+[]
+],
+[
+"Gueteb el Khoab",
+1,
+[]
+],
+[
+"Gueteb el M'Galif",
+1,
+[]
+],
+[
+"Gueteb Trilia",
+1,
+[]
+],
+[
+"Guettab el Djeleb",
+1,
+[]
+],
+[
+"Orhroud Guettaf",
+1,
+[]
+],
+[
+"Theïrat el Guezab",
+1,
+[]
+],
+[
+"Theïrat el Guezah",
+1,
+[]
+],
+[
+"Theïrat Habel el Ahmar",
+1,
+[]
+],
+[
+"Gassi el Habeut",
+1,
+[]
+],
+[
+"Groun el Habib",
+1,
+[]
+],
+[
+"Nebket el Habil",
+1,
+[]
+],
+[
+"Habouhet el Hamar",
+1,
+[]
+],
+[
+"Messha el Hachich",
+1,
+[]
+],
+[
+"Chouchet el Had",
+1,
+[]
+],
+[
+"Feïdj el Had",
+1,
+[]
+],
+[
+"Theïrat el Had",
+1,
+[]
+],
+[
+"Feïdj el Hadj",
+1,
+[]
+],
+[
+"Oued el Hadj",
+1,
+[]
+],
+[
+"Rhourd el Hadj Ali",
+1,
+[]
+],
+[
+"Theïrat el Hadjer",
+1,
+[]
+],
+[
+"Rhourd el Hadj Mbarek",
+1,
+[]
+],
+[
+"Erg Hadj Moussa",
+1,
+[]
+],
+[
+"Demrhat Hadjrat el Hamra",
+1,
+[]
+],
+[
+"Haoud el Hadj Saïd",
+1,
+[]
+],
+[
+"Rhourd el Haïba",
+1,
+[]
+],
+[
+"Haïchat Fersiga",
+1,
+[]
+],
+[
+"Haïchat Ouargla",
+1,
+[]
+],
+[
+"Demrhat el Halfa",
+1,
+[]
+],
+[
+"Meksem Halim",
+1,
+[]
+],
+[
+"Halloufa",
+1,
+[]
+],
+[
+"Archane el Halma",
+1,
+[]
+],
+[
+"Rhourd el Halma",
+1,
+[]
+],
+[
+"Chouchet el Ham",
+1,
+[]
+],
+[
+"Zemla Hamama",
+1,
+[]
+],
+[
+"Rhourd el Hamamir",
+1,
+[]
+],
+[
+"Messha el Hamar",
+1,
+[]
+],
+[
+"Demrhat el Hamara",
+1,
+[]
+],
+[
+"Feïdjet el Hamara",
+1,
+[]
+],
+[
+"Sif el Hamara",
+1,
+[]
+],
+[
+"Gasbia",
+1,
+[]
+],
+[
+"Erg Gasbia",
+1,
+[]
+],
+[
+"Oued Gassem",
+1,
+[]
+],
+[
+"Ras el Gassi el Hamar",
+1,
+[]
+],
+[
+"Demrhat el Ghardaïa",
+1,
+[]
+],
+[
+"Reg el Gouiret",
+1,
+[]
+],
+[
+"Gounet el Baguel",
+1,
+[]
+],
+[
+"Feïdjet el Gour",
+1,
+[]
+],
+[
+"Massah el Gour",
+1,
+[]
+],
+[
+"Erg Gourdane",
+1,
+[]
+],
+[
+"Feïdj el Graa",
+1,
+[]
+],
+[
+"Feïdjet el Grara",
+1,
+[]
+],
+[
+"Taïrt Grizim",
+1,
+[]
+],
+[
+"Chouchet el Guebar",
+1,
+[]
+],
+[
+"Feïdjet el Guebeïr",
+1,
+[]
+],
+[
+"Meksem el Guebli",
+1,
+[]
+],
+[
+"Oued el Gueblia",
+1,
+[]
+],
+[
+"Draa el Guebour",
+1,
+[]
+],
+[
+"Orhroud el Guedra",
+1,
+[]
+],
+[
+"Hadeb el Guefoul",
+1,
+[]
+],
+[
+"Khebb el Guelalil",
+1,
+[]
+],
+[
+"Dmirat el Guelb",
+1,
+[]
+],
+[
+"Orhroud Guelb el Gara",
+1,
+[]
+],
+[
+"Gassi el Guelta",
+1,
+[]
+],
+[
+"Hamadet el Guelta",
+1,
+[]
+],
+[
+"Rhourd el Guemara",
+1,
+[]
+],
+[
+"Rhourd el Guemlet",
+1,
+[]
+],
+[
+"Rhourd el Guemra",
+1,
+[]
+],
+[
+"Rhourd el Guenafid",
+1,
+[]
+],
+[
+"Gueniene",
+1,
+[]
+],
+[
+"Slassel Guerba",
+1,
+[]
+],
+[
+"Guern el Guerzmia",
+1,
+[]
+],
+[
+"Rhourd el Guetam",
+1,
+[]
+],
+[
+"Rhourd el Guetar",
+1,
+[]
+],
+[
+"Rhourd el Fares",
+1,
+[]
+],
+[
+"Sif el Fartout",
+1,
+[]
+],
+[
+"Guern Fasselga",
+1,
+[]
+],
+[
+"Erg el Fatek",
+1,
+[]
+],
+[
+"Archane Fdzeïla",
+1,
+[]
+],
+[
+"Gassi el Feïdj",
+1,
+[]
+],
+[
+"Guern Feïdjet el Rhemama",
+1,
+[]
+],
+[
+"Feraat M'Zine ech Cherguia",
+1,
+[]
+],
+[
+"Erg el Feras",
+1,
+[]
+],
+[
+"Rhourd Ferd",
+1,
+[]
+],
+[
+"Rhourd el Ferd",
+1,
+[]
+],
+[
+"Elb el Fersig",
+1,
+[]
+],
+[
+"Oued el Fersig",
+1,
+[]
+],
+[
+"Fersig Moulay Tayeb",
+1,
+[]
+],
+[
+"Guern el Fes",
+1,
+[]
+],
+[
+"Erg Fetouha",
+1,
+[]
+],
+[
+"Gassi el Fokra",
+1,
+[]
+],
+[
+"Gassi Fouïda",
+1,
+[]
+],
+[
+"Erg Foukani",
+1,
+[]
+],
+[
+"Feïdj Foumirat",
+1,
+[]
+],
+[
+"Hamadet el Fres",
+1,
+[]
+],
+[
+"Feïdjet el Gadem",
+1,
+[]
+],
+[
+"Theïrat el Gafda",
+1,
+[]
+],
+[
+"Dlaa el Gaouara",
+1,
+[]
+],
+[
+"Oued Gaous",
+1,
+[]
+],
+[
+"Feïdjet el Gara",
+1,
+[]
+],
+[
+"El Kebrit",
+1,
+[]
+],
+[
+"El Khacha",
+1,
+[]
+],
+[
+"El Kheït et Tessekha",
+1,
+[]
+],
+[
+"El Khenab",
+1,
+[]
+],
+[
+"El Kheneg",
+1,
+[]
+],
+[
+"El Krika",
+1,
+[]
+],
+[
+"El Ksar",
+1,
+[]
+],
+[
+"El Ksar Srhir",
+1,
+[]
+],
+[
+"El Lejmat",
+1,
+[]
+],
+[
+"El Malheïba",
+1,
+[]
+],
+[
+"El Marfag",
+1,
+[]
+],
+[
+"El Mattina",
+1,
+[]
+],
+[
+"El Medjer",
+1,
+[]
+],
+[
+"El Megzrat",
+1,
+[]
+],
+[
+"El Mehalguet er Rous",
+1,
+[]
+],
+[
+"El Mektla",
+1,
+[]
+],
+[
+"El Merita",
+1,
+[]
+],
+[
+"El Merk",
+1,
+[]
+],
+[
+"El Messha et Touil",
+1,
+[]
+],
+[
+"El Mhaïerta",
+1,
+[]
+],
+[
+"El Mkhinza",
+1,
+[]
+],
+[
+"El Morr",
+1,
+[]
+],
+[
+"El Outed",
+1,
+[]
+],
+[
+"El Outiya",
+1,
+[]
+],
+[
+"El Rhedira",
+1,
+[]
+],
+[
+"El Rheïcha",
+1,
+[]
+],
+[
+"En Nouidrat",
+1,
+[]
+],
+[
+"Theïret Entbouat",
+1,
+[]
+],
+[
+"Râs el Erg",
+1,
+[]
+],
+[
+"Khebb Erg Chibani",
+1,
+[]
+],
+[
+"Er Raba",
+1,
+[]
+],
+[
+"Er Regaa",
+1,
+[]
+],
+[
+"Er Rekaïm",
+1,
+[]
+],
+[
+"Reg Essaoui Mellene",
+1,
+[]
+],
+[
+"Es Slougui",
+1,
+[]
+],
+[
+"Es Smiharia",
+1,
+[]
+],
+[
+"Es Sohoun es Srhir",
+1,
+[]
+],
+[
+"Es Sohoun et Toual",
+1,
+[]
+],
+[
+"Et Taï",
+1,
+[]
+],
+[
+"Et Tartah",
+1,
+[]
+],
+[
+"Ezreya",
+1,
+[]
+],
+[
+"Ez Zaïtit",
+1,
+[]
+],
+[
+"Ez Zebboudj",
+1,
+[]
+],
+[
+"Ez Zemoul",
+1,
+[]
+],
+[
+"Ez Zgag",
+1,
+[]
+],
+[
+"Theïrat Doui Menia",
+1,
+[]
+],
+[
+"Erg Drina",
+1,
+[]
+],
+[
+"Oued Drinn",
+1,
+[]
+],
+[
+"Feïdjet el Dzreati",
+1,
+[]
+],
+[
+"Ech Chareb",
+1,
+[]
+],
+[
+"Ech Choucha",
+1,
+[]
+],
+[
+"Ed Debded",
+1,
+[]
+],
+[
+"Edehin Ouarene",
+1,
+[]
+],
+[
+"Theïrat Ekheb",
+1,
+[]
+],
+[
+"El Adoui",
+1,
+[]
+],
+[
+"El Aktab",
+1,
+[]
+],
+[
+"El Aouedj",
+1,
+[]
+],
+[
+"El Areg",
+1,
+[]
+],
+[
+"El Aricha",
+1,
+[]
+],
+[
+"El Arifia",
+1,
+[]
+],
+[
+"El Ariga",
+1,
+[]
+],
+[
+"El Arithat",
+1,
+[]
+],
+[
+"El Aroug",
+1,
+[]
+],
+[
+"El Assaba",
+1,
+[]
+],
+[
+"El Assal",
+1,
+[]
+],
+[
+"El Atichine",
+1,
+[]
+],
+[
+"El Bahr",
+1,
+[]
+],
+[
+"El Behabia",
+1,
+[]
+],
+[
+"El Blida",
+1,
+[]
+],
+[
+"El Erg",
+1,
+[]
+],
+[
+"El Ethelet",
+1,
+[]
+],
+[
+"El Gada",
+1,
+[]
+],
+[
+"El Glouba",
+1,
+[]
+],
+[
+"El Gouifla",
+1,
+[]
+],
+[
+"El Guebaïret",
+1,
+[]
+],
+[
+"El Guetatia",
+1,
+[]
+],
+[
+"El Hachchana",
+1,
+[]
+],
+[
+"El Hafaïr",
+1,
+[]
+],
+[
+"El Hamira",
+1,
+[]
+],
+[
+"El Karouchi",
+1,
+[]
+],
+[
+"Theïrat Djerbane",
+1,
+[]
+],
+[
+"Erg Djerbouïa",
+1,
+[]
+],
+[
+"Draa Djeribia",
+1,
+[]
+],
+[
+"Feïdjet Djokhane",
+1,
+[]
+],
+[
+"Djoua",
+1,
+[]
+],
+[
+"Rhourd Djreri",
+1,
+[]
+],
+[
+"Rhorafa ed Doua",
+1,
+[]
+],
+[
+"Hamada ed Douakel",
+1,
+[]
+],
+[
+"Douara",
+1,
+[]
+],
+[
+"Draa ed Doui",
+1,
+[]
+],
+[
+"Rhourd el Djebali",
+1,
+[]
+],
+[
+"Khenig Djebbar",
+1,
+[]
+],
+[
+"Djedaret Oum el Baï",
+1,
+[]
+],
+[
+"Orhroud Djedaria",
+1,
+[]
+],
+[
+"Feïdj Djedda",
+1,
+[]
+],
+[
+"Erg Djedid",
+1,
+[]
+],
+[
+"Feïdjet el Djedid",
+1,
+[]
+],
+[
+"Rhirdat el Djefla",
+1,
+[]
+],
+[
+"Feïdjet el Djeleb",
+1,
+[]
+],
+[
+"Feïdjet Djelid",
+1,
+[]
+],
+[
+"Theïret el Djem",
+1,
+[]
+],
+[
+"Erg Djemel",
+1,
+[]
+],
+[
+"Feïdjet Djemel",
+1,
+[]
+],
+[
+"Guelb el Djemel",
+1,
+[]
+],
+[
+"Rhourd el Djenaïne",
+1,
+[]
+],
+[
+"Djenane es Saoud",
+1,
+[]
+],
+[
+"Slassel Dhanoun",
+1,
+[]
+],
+[
+"Garet ed Diab",
+1,
+[]
+],
+[
+"Gouiret ed Diab",
+1,
+[]
+],
+[
+"Gassi ed Diar",
+1,
+[]
+],
+[
+"Arich ed Dib",
+1,
+[]
+],
+[
+"Dalaat el Djadj",
+1,
+[]
+],
+[
+"Rhourd el Djali",
+1,
+[]
+],
+[
+"Debadib",
+1,
+[]
+],
+[
+"Aleb ed Debbane",
+1,
+[]
+],
+[
+"Debbiaït",
+1,
+[]
+],
+[
+"Feïdjet ed Debdeba",
+1,
+[]
+],
+[
+"Debdeba el Beïda",
+1,
+[]
+],
+[
+"Debdeb Bou Bahar",
+1,
+[]
+],
+[
+"Kreider desert",
+1,
+[]
+],
+[
+"Debdeb Kef et Toumi",
+1,
+[]
+],
+[
+"Debde el Mra",
+1,
+[]
+],
+[
+"Theïrat ed Debou",
+1,
+[]
+],
+[
+"Rhourd ed Dehar",
+1,
+[]
+],
+[
+"Feïdjet ed Deheb",
+1,
+[]
+],
+[
+"Dekikir Tinesrat",
+1,
+[]
+],
+[
+"Rhourd ed Delaa",
+1,
+[]
+],
+[
+"Feïdj Delim",
+1,
+[]
+],
+[
+"Sif ed Delim",
+1,
+[]
+],
+[
+"Areg ed Dem",
+1,
+[]
+],
+[
+"Aleb Choucha",
+1,
+[]
+],
+[
+"Guern ech Chouf",
+1,
+[]
+],
+[
+"Nebket ech Chouf",
+1,
+[]
+],
+[
+"Orhroud Chouf",
+1,
+[]
+],
+[
+"Rhourde ech Chouf",
+1,
+[]
+],
+[
+"Rhourd ech Chouil",
+1,
+[]
+],
+[
+"Erg Chouiref",
+1,
+[]
+],
+[
+"Demrhat ech Chreïer",
+1,
+[]
+],
+[
+"Draa ech Chrifa",
+1,
+[]
+],
+[
+"Rhourd Dabdaba",
+1,
+[]
+],
+[
+"'Erg Dafa",
+1,
+[]
+],
+[
+"Feïdj Damerane",
+1,
+[]
+],
+[
+"Feïdj Damrane",
+1,
+[]
+],
+[
+"Feïdj ed Damrane",
+1,
+[]
+],
+[
+"Feïdjet ed Damrane",
+1,
+[]
+],
+[
+"Foum ed Damrane",
+1,
+[]
+],
+[
+"Orhroud Damrane",
+1,
+[]
+],
+[
+"Oued Damrane",
+1,
+[]
+],
+[
+"Oued ed Damrane",
+1,
+[]
+],
+[
+"Rhourd Damrane",
+1,
+[]
+],
+[
+"Sif ed Damrane",
+1,
+[]
+],
+[
+"Theïrat Damrane",
+1,
+[]
+],
+[
+"Damrane Hammou Zid",
+1,
+[]
+],
+[
+"Demrhat Daoud",
+1,
+[]
+],
+[
+"Rhourd ech Cherrad",
+1,
+[]
+],
+[
+"Feïdjet ech Chiah",
+1,
+[]
+],
+[
+"Erg Chebbi",
+1,
+[]
+],
+[
+"Rhourd Chegga",
+1,
+[]
+],
+[
+"Orhroud Cheheb",
+1,
+[]
+],
+[
+"Feïdjet ech Cheïkh",
+1,
+[]
+],
+[
+"Guern ech Cheïkh",
+1,
+[]
+],
+[
+"Cherf Mouia Aïssa",
+1,
+[]
+],
+[
+"Guern ech Chergui",
+1,
+[]
+],
+[
+"Oued Cherif",
+1,
+[]
+],
+[
+"Gassi Bou Zraïb",
+1,
+[]
+],
+[
+"Guern Bou Zraïb",
+1,
+[]
+],
+[
+"Guern Brahim Ben ed Daoui",
+1,
+[]
+],
+[
+"Drâ' el Brass",
+1,
+[]
+],
+[
+"Arsat el Braz",
+1,
+[]
+],
+[
+"Elb el Bréniya",
+1,
+[]
+],
+[
+"Guern el Btati",
+1,
+[]
+],
+[
+"Demrhat ech Chaamba",
+1,
+[]
+],
+[
+"Orhroud Chabet",
+1,
+[]
+],
+[
+"Chabounïa",
+1,
+[]
+],
+[
+"Hamada Chammar",
+1,
+[]
+],
+[
+"Erg Bou Ogab",
+1,
+[]
+],
+[
+"Erg Bourarhet",
+1,
+[]
+],
+[
+"Bour Erg Kaddour",
+1,
+[]
+],
+[
+"Feïdj Bou Nouara",
+1,
+[]
+],
+[
+"Bourezma",
+1,
+[]
+],
+[
+"Rhourd Bou Rhorfa",
+1,
+[]
+],
+[
+"Rhourd Bou Rouahla",
+1,
+[]
+],
+[
+"Rhourd el Bous",
+1,
+[]
+],
+[
+"Orhroud Bou Safia",
+1,
+[]
+],
+[
+"Guern Bousbous",
+1,
+[]
+],
+[
+"Draa Bou Settach",
+1,
+[]
+],
+[
+"Erg Boussenaka",
+1,
+[]
+],
+[
+"Bou Taddi",
+1,
+[]
+],
+[
+"Reg Bou Tali",
+1,
+[]
+],
+[
+"Rhourd Bou Tayeb",
+1,
+[]
+],
+[
+"'Erg Bou Zekri",
+1,
+[]
+],
+[
+"Argoub Bou Zenna",
+1,
+[]
+],
+[
+"Erg Bou Zerafa",
+1,
+[]
+],
+[
+"Gassi Bou Zeriba",
+1,
+[]
+],
+[
+"Feïdjet Bou Znida",
+1,
+[]
+],
+[
+"Gassi Bou Cha'ba",
+1,
+[]
+],
+[
+"Bou Chebria",
+1,
+[]
+],
+[
+"Feïdjet Bou Chiah",
+1,
+[]
+],
+[
+"Erg Bou Chlifa",
+1,
+[]
+],
+[
+"Rhourd Bou Dahar",
+1,
+[]
+],
+[
+"Guern Bou Debous",
+1,
+[]
+],
+[
+"Draa Bou Delaa",
+1,
+[]
+],
+[
+"Erg Bou Dellal",
+1,
+[]
+],
+[
+"Erg Bou Dib",
+1,
+[]
+],
+[
+"Reg Boudjane",
+1,
+[]
+],
+[
+"Bou Djihane",
+1,
+[]
+],
+[
+"Khebb Boudouil",
+1,
+[]
+],
+[
+"Erg Bou Fagoussa",
+1,
+[]
+],
+[
+"Rhourd Bou Fas",
+1,
+[]
+],
+[
+"Orhroud Bou Guefa",
+1,
+[]
+],
+[
+"Erg Bou Guenina",
+1,
+[]
+],
+[
+"Foum Bou Guenina",
+1,
+[]
+],
+[
+"Rhourd Bou Guerba",
+1,
+[]
+],
+[
+"Orhroud Bou Hadoura",
+1,
+[]
+],
+[
+"Guern Bou Hamouadi",
+1,
+[]
+],
+[
+"Oued Bou Hamouadi",
+1,
+[]
+],
+[
+"Rhourd Bou Keloua",
+1,
+[]
+],
+[
+"Erg Bou Kerkar",
+1,
+[]
+],
+[
+"Guern Bou Khalifa",
+1,
+[]
+],
+[
+"Guern Bou Khamsa",
+1,
+[]
+],
+[
+"Erg Bou Khechba",
+1,
+[]
+],
+[
+"Feïdjet Bou Khechba",
+1,
+[]
+],
+[
+"Slassel Bou Khechba",
+1,
+[]
+],
+[
+"Demrhat Bou Khechiba",
+1,
+[]
+],
+[
+"Guern Bou Khechiba",
+1,
+[]
+],
+[
+"Reg Bou Khedim",
+1,
+[]
+],
+[
+"Theïrat Bou Khelal",
+1,
+[]
+],
+[
+"Orhroud Bou Khelala",
+1,
+[]
+],
+[
+"Theïrat Bou Khelala",
+1,
+[]
+],
+[
+"Erg Bou Khezana",
+1,
+[]
+],
+[
+"Rhourd Bou Khira",
+1,
+[]
+],
+[
+"Bou Khorafa",
+1,
+[]
+],
+[
+"Oued Bou Kina",
+1,
+[]
+],
+[
+"Gassi Bou Klala",
+1,
+[]
+],
+[
+"Orhroud Boulahia",
+1,
+[]
+],
+[
+"Rmel Bou Loussa",
+1,
+[]
+],
+[
+"Garet el Bouma",
+1,
+[]
+],
+[
+"Rhourd Bouma",
+1,
+[]
+],
+[
+"Oued Bou Maada",
+1,
+[]
+],
+[
+"Draa Bou Mbarka",
+1,
+[]
+],
+[
+"Guern Bou Naama",
+1,
+[]
+],
+[
+"Theïrat Ben Taret",
+1,
+[]
+],
+[
+"Erg Bent Chaouli",
+1,
+[]
+],
+[
+"Theïret Bent el Begra",
+1,
+[]
+],
+[
+"Guern Bent el Guenndouz",
+1,
+[]
+],
+[
+"Rhourd Ben Telli",
+1,
+[]
+],
+[
+"Aleb Bent Khemad",
+1,
+[]
+],
+[
+"Dmirat Bent Mehaguene",
+1,
+[]
+],
+[
+"Feïdjet Bent Meridja",
+1,
+[]
+],
+[
+"Guern Bent Yahia",
+1,
+[]
+],
+[
+"Reg Bent Yahia Ben Aïssa",
+1,
+[]
+],
+[
+"Theïrat Beraber",
+1,
+[]
+],
+[
+"Theïrat Berherhel",
+1,
+[]
+],
+[
+"Orhroud el Berkine",
+1,
+[]
+],
+[
+"Drâ' Berrani",
+1,
+[]
+],
+[
+"Areg Besseroudj",
+1,
+[]
+],
+[
+"Bet Tebel",
+1,
+[]
+],
+[
+"Guern Bet Tebel",
+1,
+[]
+],
+[
+"Guern el Bet Teboul",
+1,
+[]
+],
+[
+"Rhourd el Bidone",
+1,
+[]
+],
+[
+"Drâ' el Biod",
+1,
+[]
+],
+[
+"Gherd el Beyod",
+1,
+[]
+],
+[
+"Rouissat Bir Bent Ameur",
+1,
+[]
+],
+[
+"Erg Bir el Arab",
+1,
+[]
+],
+[
+"Bir Rhardaïa",
+1,
+[]
+],
+[
+"Erg el Borma",
+1,
+[]
+],
+[
+"Garet el Borma",
+1,
+[]
+],
+[
+"Hamadet el Borma",
+1,
+[]
+],
+[
+"Rhourd Bottar",
+1,
+[]
+],
+[
+"Guern el Bottine",
+1,
+[]
+],
+[
+"Rhourd Bou Aouka",
+1,
+[]
+],
+[
+"Feïdj Bou Aroua",
+1,
+[]
+],
+[
+"Rhourd Ben Rakaï",
+1,
+[]
+],
+[
+"Oued Ben Rheris",
+1,
+[]
+],
+[
+"Demrhat Ben Saïd",
+1,
+[]
+],
+[
+"Groun Ben Saïd",
+1,
+[]
+],
+[
+"Rhourd Ben Seddir",
+1,
+[]
+],
+[
+"Reg Ben Slima",
+1,
+[]
+],
+[
+"Erg Ben Keskes",
+1,
+[]
+],
+[
+"Erg Ben Kina",
+1,
+[]
+],
+[
+"Feïdjet Ben Kina",
+1,
+[]
+],
+[
+"Theïrat Ben Lakhdar",
+1,
+[]
+],
+[
+"Aleb Ben Guecha",
+1,
+[]
+],
+[
+"Orhroud Bel Hadj Azzouz",
+1,
+[]
+],
+[
+"Nza Bel Khadem",
+1,
+[]
+],
+[
+"Oued Bel Khechib",
+1,
+[]
+],
+[
+"Dune Bellando",
+1,
+[]
+],
+[
+"Rhourd Bel Lefa",
+1,
+[]
+],
+[
+"Rhourd Bel Melaoua",
+1,
+[]
+],
+[
+"Feïdj Bel Moussa",
+1,
+[]
+],
+[
+"Bel Mrahi",
+1,
+[]
+],
+[
+"Feïdj Bel Mrahi",
+1,
+[]
+],
+[
+"Orhroud Bel Teboul",
+1,
+[]
+],
+[
+"Hamadet Bel Touadjine",
+1,
+[]
+],
+[
+"Elb Ben Abbes",
+1,
+[]
+],
+[
+"Feïdjet Ben Abbou",
+1,
+[]
+],
+[
+"Draa Bel Guebbour",
+1,
+[]
+],
+[
+"Feïdjet Ben Abd el Hakem",
+1,
+[]
+],
+[
+"Feïdjet Ben Abd el Hassout",
+1,
+[]
+],
+[
+"Theïrat Ben Abd el Kader",
+1,
+[]
+],
+[
+"Guern Ben Ahmed",
+1,
+[]
+],
+[
+"Oued Ben Ahmed",
+1,
+[]
+],
+[
+"Habel Ben Ali Ben Aïssa",
+1,
+[]
+],
+[
+"Rhourd Ben Aoumeur",
+1,
+[]
+],
+[
+"Erg Ben Arbia",
+1,
+[]
+],
+[
+"Oued Benat Mammar",
+1,
+[]
+],
+[
+"Feïdj Ben Attassa",
+1,
+[]
+],
+[
+"Rhourd Ben Choulia",
+1,
+[]
+],
+[
+"Sif Ben Dahmane",
+1,
+[]
+],
+[
+"Gassi Ben Douida",
+1,
+[]
+],
+[
+"Draa Ben ed Debb",
+1,
+[]
+],
+[
+"Guern Ben Guesmia",
+1,
+[]
+],
+[
+"Feïdjet el Bega",
+1,
+[]
+],
+[
+"Erg el Begra",
+1,
+[]
+],
+[
+"Feïdjet el Begra",
+1,
+[]
+],
+[
+"Feïdj el Beïda",
+1,
+[]
+],
+[
+"Hamada el Beïda",
+1,
+[]
+],
+[
+"Rhourd Bel Acheb",
+1,
+[]
+],
+[
+"Rhourd Bel Adem",
+1,
+[]
+],
+[
+"Sif Bel Adem",
+1,
+[]
+],
+[
+"Guern Bel Aouaïa",
+1,
+[]
+],
+[
+"Haoud el Belbelet",
+1,
+[]
+],
+[
+"Orhroud Bel Djediane",
+1,
+[]
+],
+[
+"Erg Belfelfoul",
+1,
+[]
+],
+[
+"Draa Bel Firane",
+1,
+[]
+],
+[
+"Rhourd Bel Gamra",
+1,
+[]
+],
+[
+"Feïdj Bel Ghamra",
+1,
+[]
+],
+[
+"Feïdjet el Badi",
+1,
+[]
+],
+[
+"Orhroud Bafka",
+1,
+[]
+],
+[
+"Areg Bagoussa",
+1,
+[]
+],
+[
+"Feïdjet el Bagra",
+1,
+[]
+],
+[
+"Draa el Baguel",
+1,
+[]
+],
+[
+"Feïdj el Baguel",
+1,
+[]
+],
+[
+"Feïdjet el Baguel",
+1,
+[]
+],
+[
+"Rhourd el Baguel",
+1,
+[]
+],
+[
+"Theïrat el Baguel",
+1,
+[]
+],
+[
+"Feïdjet el Baguel ed Daoudi",
+1,
+[]
+],
+[
+"Sif Bahadi",
+1,
+[]
+],
+[
+"Erg Bahammo",
+1,
+[]
+],
+[
+"Rhourd Bahira",
+1,
+[]
+],
+[
+"Erg Baïadine",
+1,
+[]
+],
+[
+"Feïdjet el Baïr",
+1,
+[]
+],
+[
+"Sif el Baïr",
+1,
+[]
+],
+[
+"Guern el Baouel",
+1,
+[]
+],
+[
+"Erg ta-n-Baradene",
+1,
+[]
+],
+[
+"Erg Barga",
+1,
+[]
+],
+[
+"Rhourd ech Barga",
+1,
+[]
+],
+[
+"Hamada el Barka",
+1,
+[]
+],
+[
+"Erg el Bassour",
+1,
+[]
+],
+[
+"Guern Batla",
+1,
+[]
+],
+[
+"Khebb Bechaïr",
+1,
+[]
+],
+[
+"Erg Bechir",
+1,
+[]
+],
+[
+"Dra' el Atchane",
+1,
+[]
+],
+[
+"Erg Atchane",
+1,
+[]
+],
+[
+"Erg el Atchane",
+1,
+[]
+],
+[
+"Gassi el Atchane",
+1,
+[]
+],
+[
+"Hamadet el Atchane",
+1,
+[]
+],
+[
+"Erg Atinim",
+1,
+[]
+],
+[
+"Guern el Atour",
+1,
+[]
+],
+[
+"Chouchet el Atra",
+1,
+[]
+],
+[
+"Guern el Atrous",
+1,
+[]
+],
+[
+"Dmirat Atroussa",
+1,
+[]
+],
+[
+"Rhourd el Atta",
+1,
+[]
+],
+[
+"Habel el Azal",
+1,
+[]
+],
+[
+"Erg Azebri",
+1,
+[]
+],
+[
+"Demirhet el Azel",
+1,
+[]
+],
+[
+"Demrhat el Azel",
+1,
+[]
+],
+[
+"Draa el Azel",
+1,
+[]
+],
+[
+"Erg el Azel",
+1,
+[]
+],
+[
+"Feïdjet el Azel",
+1,
+[]
+],
+[
+"Glib el Azel",
+1,
+[]
+],
+[
+"Rhourd el Azel",
+1,
+[]
+],
+[
+"Slassel el Azel",
+1,
+[]
+],
+[
+"Gassi el Aziba",
+1,
+[]
+],
+[
+"Orhroud el Aziba",
+1,
+[]
+],
+[
+"Iguidi I-n-Azzeden",
+1,
+[]
+],
+[
+"Oued Azzouz",
+1,
+[]
+],
+[
+"Arigat Assabaï",
+1,
+[]
+],
+[
+"Asloudj",
+1,
+[]
+],
+[
+"Feïdj el Arf",
+1,
+[]
+],
+[
+"Draa el Arfadj",
+1,
+[]
+],
+[
+"Erg el Arich",
+1,
+[]
+],
+[
+"Râs el Arich",
+1,
+[]
+],
+[
+"Sif el Arid",
+1,
+[]
+],
+[
+"Sif el Arif",
+1,
+[]
+],
+[
+"Erg Arifdji",
+1,
+[]
+],
+[
+"Nebket el Arig",
+1,
+[]
+],
+[
+"Erg el Arma",
+1,
+[]
+],
+[
+"Steïhat el Aroua",
+1,
+[]
+],
+[
+"Hamadet Aroueïda",
+1,
+[]
+],
+[
+"Feïdjet el Aroui",
+1,
+[]
+],
+[
+"Sif el Arred",
+1,
+[]
+],
+[
+"Feïdj el Arta",
+1,
+[]
+],
+[
+"Rhourd el Arta",
+1,
+[]
+],
+[
+"Reg el Asfer",
+1,
+[]
+],
+[
+"Oued Askalo",
+1,
+[]
+],
+[
+"Râs el Anngra",
+1,
+[]
+],
+[
+"Rhourd el Aouamed",
+1,
+[]
+],
+[
+"Areïgat el Aouassine",
+1,
+[]
+],
+[
+"Guern el Aouda",
+1,
+[]
+],
+[
+"Erg Aoudjedite",
+1,
+[]
+],
+[
+"Aou Djilemt",
+1,
+[]
+],
+[
+"Gassi el Aouedj",
+1,
+[]
+],
+[
+"Guern el Aoumeur",
+1,
+[]
+],
+[
+"Orhroud el Aoun Allah el Rharbi",
+1,
+[]
+],
+[
+"Oued Aourir",
+1,
+[]
+],
+[
+"Aleb el Aras",
+1,
+[]
+],
+[
+"Erg i-n-Arazoui",
+1,
+[]
+],
+[
+"Dmirat el Arbi",
+1,
+[]
+],
+[
+"Messha el Arbi",
+1,
+[]
+],
+[
+"Theïrat el Arbi",
+1,
+[]
+],
+[
+"Sif el Ard",
+1,
+[]
+],
+[
+"Tiouririne i-n-Ared",
+1,
+[]
+],
+[
+"Rhourd Ameur",
+1,
+[]
+],
+[
+"Erg el 'Amira",
+1,
+[]
+],
+[
+"Feïdjet el Amour",
+1,
+[]
+],
+[
+"Erg el Amri",
+1,
+[]
+],
+[
+"Feïdj el Amri",
+1,
+[]
+],
+[
+"Orhroud Amri Yet",
+1,
+[]
+],
+[
+"Erg Amselsel",
+1,
+[]
+],
+[
+"Erg el Anagueur",
+1,
+[]
+],
+[
+"Khebb el Anib",
+1,
+[]
+],
+[
+"Dekhlat Amar Bel Haïb",
+1,
+[]
+],
+[
+"Erg Amastane",
+1,
+[]
+],
+[
+"Rhourd el Akhal",
+1,
+[]
+],
+[
+"Guern el Akhzine",
+1,
+[]
+],
+[
+"Rhourd Akoub",
+1,
+[]
+],
+[
+"Foum el Aleb",
+1,
+[]
+],
+[
+"Erg Aleb el Akhal",
+1,
+[]
+],
+[
+"Aleb Saïd",
+1,
+[]
+],
+[
+"Theïrat el Alenda",
+1,
+[]
+],
+[
+"Feïdj Alennda",
+1,
+[]
+],
+[
+"Feïdj el Alennda",
+1,
+[]
+],
+[
+"Feïdjet el Alennda",
+1,
+[]
+],
+[
+"Slassel el Alennda",
+1,
+[]
+],
+[
+"Theïrat el Alennda",
+1,
+[]
+],
+[
+"Guern Ali",
+1,
+[]
+],
+[
+"Orhroud Ali",
+1,
+[]
+],
+[
+"Rhourd Ali",
+1,
+[]
+],
+[
+"Sif el Ali",
+1,
+[]
+],
+[
+"Ali Ben Abdallah",
+1,
+[]
+],
+[
+"Erg Ali Ben Abdallah",
+1,
+[]
+],
+[
+"Drâ' Ali Ben Amar",
+1,
+[]
+],
+[
+"Hamadet Ali Ben Amar",
+1,
+[]
+],
+[
+"Oued Ali Ben Brahim",
+1,
+[]
+],
+[
+"Aligat er Rous",
+1,
+[]
+],
+[
+"Toumiet Ali Matallah",
+1,
+[]
+],
+[
+"Drâ' Allal",
+1,
+[]
+],
+[
+"Erg Allal",
+1,
+[]
+],
+[
+"Allendaoui",
+1,
+[]
+],
+[
+"Rhourd el Allouch",
+1,
+[]
+],
+[
+"Ez Zemoul el Akbar",
+1,
+[]
+],
+[
+"Sif el Akba",
+1,
+[]
+],
+[
+"Tanezrouft-n-Ahenet",
+1,
+[]
+],
+[
+"Draa el Ahmar",
+1,
+[]
+],
+[
+"Guelb el Ahmar",
+1,
+[]
+],
+[
+"Guern el Ahmar",
+1,
+[]
+],
+[
+"Rhourd Ahmar",
+1,
+[]
+],
+[
+"Rhourd el Ahmar",
+1,
+[]
+],
+[
+"Orhroud Ahmed Ben Bou Haous",
+1,
+[]
+],
+[
+"Rhourd Ahmedi",
+1,
+[]
+],
+[
+"Guern el Ahmedia",
+1,
+[]
+],
+[
+"Feïdjet el Aïataïa",
+1,
+[]
+],
+[
+"Elb el Aïd",
+1,
+[]
+],
+[
+"Aïn el Aid",
+1,
+[]
+],
+[
+"Erg el Adaïa",
+1,
+[]
+],
+[
+"Erg el Adal",
+1,
+[]
+],
+[
+"Draa el Adao",
+1,
+[]
+],
+[
+"Adeb el Henna",
+1,
+[]
+],
+[
+"Gassi el Adem",
+1,
+[]
+],
+[
+"Sif el Adem",
+1,
+[]
+],
+[
+"Aleb el Adjedel",
+1,
+[]
+],
+[
+"Adjnadjane",
+1,
+[]
+],
+[
+"Erg i-n-Afarag",
+1,
+[]
+],
+[
+"Iguidi I-n-Afarag",
+1,
+[]
+],
+[
+"Afelahla",
+1,
+[]
+],
+[
+"Erg Afestene",
+1,
+[]
+],
+[
+"Guern el Agab",
+1,
+[]
+],
+[
+"Feïdj el Aggaï",
+1,
+[]
+],
+[
+"Erg Aglagal",
+1,
+[]
+],
+[
+"Oued Aglaglal",
+1,
+[]
+],
+[
+"Draa el Agreb",
+1,
+[]
+],
+[
+"Erg el Agreb",
+1,
+[]
+],
+[
+"Erg el Agueïba",
+1,
+[]
+],
+[
+"Oued Aguello",
+1,
+[]
+],
+[
+"Feïdj el Aguig",
+1,
+[]
+],
+[
+"Ahd Bel Baguel",
+1,
+[]
+],
+[
+"Sif el Abiod",
+1,
+[]
+],
+[
+"Draa el Abras",
+1,
+[]
+],
+[
+"Demrhat el Acha",
+1,
+[]
+],
+[
+"Sif el Achchana",
+1,
+[]
+],
+[
+"Feïdjet Achour",
+1,
+[]
+],
+[
+"Rhourd Abadie",
+1,
+[]
+],
+[
+"Erg ti-n-Abaro",
+1,
+[]
+],
+[
+"Chouchet Abbès",
+1,
+[]
+],
+[
+"Erg Abbouchouno",
+1,
+[]
+],
+[
+"Reg Abdallah",
+1,
+[]
+],
+[
+"Erg Abd el Adhim",
+1,
+[]
+],
+[
+"Theïret Abd el Adhim",
+1,
+[]
+],
+[
+"Orhroud el Abeb",
+1,
+[]
+],
+[
+"Draa el Abed",
+1,
+[]
+],
+[
+"Gassi el Abid",
+1,
+[]
+],
+[
+"Theïrat el 'Abid",
+1,
+[]
+],
+[
+"Erg el Abiod",
+1,
+[]
+],
+[
+"Argoub en Nzi",
+1,
+[]
+],
+[
+"Nza Diba",
+1,
+[]
+],
+[
+"Tirahart",
+1,
+[]
+],
+[
+"Erg el Mouilha",
+1,
+[]
+],
+[
+"Erg el Fasi",
+1,
+[]
+],
+[
+"Imessaragadene",
+1,
+[]
+],
+[
+"Erg Znaïgui",
+1,
+[]
+],
+[
+"Adrar Desert",
+1,
+[]
+],
+[
+"Zajadān",
+1,
+[]
+],
+[
+"‘Uzlat al Ḩunayshāt",
+1,
+[]
+],
+[
+"Kathīb Umm Ḩamas",
+1,
+[]
+],
+[
+"Kathīb Umm ‘Iz̧ām",
+1,
+[]
+],
+[
+"Habr Umm Khushayb",
+1,
+[]
+],
+[
+"Umm Mitmām",
+1,
+[]
+],
+[
+"Qawz Umm Rujūm",
+1,
+[]
+],
+[
+"Umm ‘Ajārim",
+1,
+[]
+],
+[
+"Umm ar Ruwaysāt",
+1,
+[]
+],
+[
+"Agrad Yerad",
+1,
+[]
+],
+[
+"Kathīb aţ Ţayr",
+1,
+[]
+],
+[
+"Qawz ath Thughrah",
+1,
+[]
+],
+[
+"Médano de Santiago",
+1,
+[]
+],
+[
+"Samlat Sauaia",
+1,
+[]
+],
+[
+"Samlat Sedra",
+1,
+[]
+],
+[
+"Háyerat Tagueneddest",
+1,
+[]
+],
+[
+"Gherd at Tayara",
+1,
+[]
+],
+[
+"Tamegdulet",
+1,
+[]
+],
+[
+"Háyerat Togba",
+1,
+[]
+],
+[
+"Tuarim",
+1,
+[]
+],
+[
+"Tueisilat el Beid",
+1,
+[]
+],
+[
+"Médano de Tutarrán",
+1,
+[]
+],
+[
+"Um el Quemcha",
+1,
+[]
+],
+[
+"Ghurūd as Surrah",
+1,
+[]
+],
+[
+"Ghurd at Tafāsīkh",
+1,
+[]
+],
+[
+"Lakhbaytat",
+1,
+[]
+],
+[
+"Lemheirisat Tiyebrén",
+1,
+[]
+],
+[
+"Rag Lemhum",
+1,
+[]
+],
+[
+"Gleib Lemlaida",
+1,
+[]
+],
+[
+"Ghard Lamnizla",
+1,
+[]
+],
+[
+"Lemsail",
+1,
+[]
+],
+[
+"Zamlet al Magnaçe",
+1,
+[]
+],
+[
+"Samlat Ment Sidi Baba",
+1,
+[]
+],
+[
+"Samlat Meyeihida",
+1,
+[]
+],
+[
+"Agrad el Mirad",
+1,
+[]
+],
+[
+"Rabt Sebeta",
+1,
+[
+"Rabt Sbayta"
+]
+],
+[
+"Samlat Remz",
+1,
+[]
+],
+[
+"Ghrad al 'Angra",
+1,
+[]
+],
+[
+"Samlat Laarad",
+1,
+[]
+],
+[
+"Greid Laareich",
+1,
+[]
+],
+[
+"Samlat Laareich",
+1,
+[]
+],
+[
+"Laareig",
+1,
+[]
+],
+[
+"Rag Laasailíen",
+1,
+[]
+],
+[
+"Agrad Laasal",
+1,
+[]
+],
+[
+"Rag Labiad",
+1,
+[]
+],
+[
+"La Mancha Blanca",
+1,
+[]
+],
+[
+"Guerd Langra",
+1,
+[]
+],
+[
+"Gherd al 'Angra",
+1,
+[]
+],
+[
+"Las Ballenas",
+1,
+[]
+],
+[
+"Las Matillas",
+1,
+[]
+],
+[
+"Legdam",
+1,
+[]
+],
+[
+"Samlat Legraitifa",
+1,
+[]
+],
+[
+"Ḩamrāyat as Sijāl al Wasţānīyah",
+1,
+[]
+],
+[
+"Boca de Jarro",
+1,
+[]
+],
+[
+"Jeneifisat el Jádar",
+1,
+[]
+],
+[
+"Jeneig Diba",
+1,
+[]
+],
+[
+"Kathīb ash Shawāyil",
+1,
+[]
+],
+[
+"Ḩamrāyat ash Shaykh ‘Abd ar Rāziq",
+1,
+[]
+],
+[
+"Ḩamrāyat ash Shaykh Faraj",
+1,
+[]
+],
+[
+"Ḩamrāyat Shirājī Sa‘īd",
+1,
+[]
+],
+[
+"Dunas de Cintra",
+1,
+[]
+],
+[
+"Dunas De Cintra",
+1,
+[]
+],
+[
+"Aaglet Echaur",
+1,
+[]
+],
+[
+"Samlat Echdari",
+1,
+[]
+],
+[
+"Uad Echfal",
+1,
+[]
+],
+[
+"Eig",
+1,
+[]
+],
+[
+"Uad Elcarif",
+1,
+[]
+],
+[
+"Ereddi",
+1,
+[]
+],
+[
+"Aáleib Ergad",
+1,
+[]
+],
+[
+"Falso Cabo Blanco",
+1,
+[]
+],
+[
+"Uad Famma",
+1,
+[]
+],
+[
+"Megsem el Fernán",
+1,
+[]
+],
+[
+"Quedia Gueblía",
+1,
+[]
+],
+[
+"Canal de la Inés",
+1,
+[]
+],
+[
+"Shakal",
+1,
+[]
+],
+[
+"Agüidirat",
+1,
+[]
+],
+[
+"Ajreitim",
+1,
+[]
+],
+[
+"Ammat Dud",
+1,
+[]
+],
+[
+"Ammat Quersia",
+1,
+[]
+],
+[
+"Ghridat Anchiyech",
+1,
+[]
+],
+[
+"Arbet Lemais",
+1,
+[]
+],
+[
+"Samlat Arraguen",
+1,
+[]
+],
+[
+"Arruigueb",
+1,
+[]
+],
+[
+"Asatef",
+1,
+[]
+],
+[
+"Samlat Ascaf",
+1,
+[]
+],
+[
+"Hasi el Beied",
+1,
+[]
+],
+[
+"Udei Bogdad",
+1,
+[]
+],
+[
+"Buchuaimia",
+1,
+[]
+],
+[
+"Guerd Buchuaimia",
+1,
+[]
+],
+[
+"Buhal-lasá",
+1,
+[]
+],
+[
+"Fadrat Chdida",
+1,
+[]
+],
+[
+"Hasi Cheg",
+1,
+[]
+],
+[
+"Dait Chengli",
+1,
+[]
+],
+[
+"Gart Chuaichia",
+1,
+[]
+],
+[
+"Irq el-Sab'a",
+1,
+[]
+],
+[
+"Kathīb as Sabakh",
+1,
+[]
+],
+[
+"Kathīb aş Şabḩah",
+1,
+[]
+],
+[
+"Jawz Sālimah",
+1,
+[]
+],
+[
+"Háyerat Aádam Enuasitar",
+1,
+[]
+],
+[
+"Médano de Aaiún",
+1,
+[]
+],
+[
+"Samlat Aaomar",
+1,
+[]
+],
+[
+"Abembi",
+1,
+[]
+],
+[
+"Greid Achacán",
+1,
+[]
+],
+[
+"Samlat Achguig",
+1,
+[]
+],
+[
+"Draa Afrafir",
+1,
+[]
+],
+[
+"Draa Afrafir Tadjest",
+1,
+[]
+],
+[
+"Afreidíat",
+1,
+[]
+],
+[
+"Agttiw",
+1,
+[]
+],
+[
+"Samlat Agracha",
+1,
+[]
+],
+[
+"Agrubas Labiad",
+1,
+[]
+],
+[
+"Agrad Aguaya",
+1,
+[]
+],
+[
+"Aguerguer",
+1,
+[]
+],
+[
+"Ghurd ar Rammāk",
+1,
+[]
+],
+[
+"Qawz ar Raqabah",
+1,
+[]
+],
+[
+"Azreg Rhourde",
+1,
+[]
+],
+[
+"Feïdjet el Baz",
+1,
+[]
+],
+[
+"Ghurd al Qaţţānīyah",
+1,
+[]
+],
+[
+"Ghurd al Qazzūn",
+1,
+[]
+],
+[
+"Ghurūd Qiblī Abū Gharādiq",
+1,
+[]
+],
+[
+"Ghurd an Nuşf",
+1,
+[]
+],
+[
+"Z̧ahr al Qals",
+1,
+[]
+],
+[
+"Ghurd Musā‘idah",
+1,
+[]
+],
+[
+"Al Ḩaddādāt",
+1,
+[]
+],
+[
+"Ḩamrāyat Naj‘ al Ḩajar",
+1,
+[]
+],
+[
+"Ghurd Mubārak",
+1,
+[]
+],
+[
+"Mukassar al Fanājīl",
+1,
+[]
+],
+[
+"‘Ugret Mas‘ûd",
+1,
+[]
+],
+[
+"Ghurd al Mashrūkah",
+1,
+[]
+],
+[
+"Ḩibāl al Miskār",
+1,
+[]
+],
+[
+"Ghurd al Lubayţah",
+1,
+[]
+],
+[
+"Kathīb al Makhāzīn",
+1,
+[]
+],
+[
+"Ghurūd al Khānkah",
+1,
+[]
+],
+[
+"Kharwat Farag",
+1,
+[]
+],
+[
+"Kathīb al Khayl",
+1,
+[]
+],
+[
+"Kathīb al Junayt",
+1,
+[]
+],
+[
+"Al Ghurd al Kabīr",
+1,
+[]
+],
+[
+"Ghurd al Kalb",
+1,
+[]
+],
+[
+"Kathīb al Jufayr",
+1,
+[]
+],
+[
+"Ramlat Ḩumayyir",
+1,
+[]
+],
+[
+"Ghurd al Ḩunayshāt",
+1,
+[]
+],
+[
+"Ghurd al Ḩunayshāt al Wasţānī",
+1,
+[]
+],
+[
+"Kathīb al Ḩanū",
+1,
+[]
+],
+[
+"Karâdîd Gûnet el- Maqât",
+1,
+[]
+],
+[
+"Ghurd al Ḩallif",
+1,
+[]
+],
+[
+"Kathīb al Firdān",
+1,
+[]
+],
+[
+"Ghurûd Gahannam",
+1,
+[]
+],
+[
+"Kathīb Quwāz al Jarād",
+1,
+[]
+],
+[
+"Ghurd Ghurābī",
+1,
+[]
+],
+[
+"Ḩamrāyat al Fashnī wa al Basyūnī",
+1,
+[]
+],
+[
+"Ghurd al Faras",
+1,
+[]
+],
+[
+"Al Munţār",
+1,
+[]
+],
+[
+"Al Mūrah",
+1,
+[]
+],
+[
+"Abū ath Thamāyil",
+1,
+[]
+],
+[
+"Al Jumay‘ī",
+1,
+[]
+],
+[
+"Al Ma‘din",
+1,
+[]
+],
+[
+"El-Madhrat",
+1,
+[]
+],
+[
+"Al Minaytir",
+1,
+[]
+],
+[
+"Gôz el-Ḍab‘a",
+1,
+[]
+],
+[
+"Dalla Road Dunes",
+1,
+[]
+],
+[
+"Kathīb ad Darb",
+1,
+[]
+],
+[
+"Ghard el-Dew",
+1,
+[]
+],
+[
+"Kathīb al ‘Ayr",
+1,
+[]
+],
+[
+"Ghurūd Badr ad Dīn",
+1,
+[]
+],
+[
+"Awghādat al Māshiyah",
+1,
+[]
+],
+[
+"An Nahdayn",
+1,
+[]
+],
+[
+"Ghurūd al ‘Aşīdah",
+1,
+[]
+],
+[
+"Al Hayūl",
+1,
+[]
+],
+[
+"Al ‘Uqdah",
+1,
+[]
+],
+[
+"Ajīdat Umm Naşr",
+1,
+[]
+],
+[
+"Al A‘bash",
+1,
+[]
+],
+[
+"Al ‘Ajramīyah",
+1,
+[]
+],
+[
+"Ghurd Abū Rakham",
+1,
+[]
+],
+[
+"Ghurd Abū Sannān",
+1,
+[]
+],
+[
+"Abû Shaqâfa eṣ Ṣaghîr",
+1,
+[]
+],
+[
+"Abu Liheimin",
+1,
+[]
+],
+[
+"Ghurd Abū Muḩarrik",
+1,
+[]
+],
+[
+"Aḑ Ḑab‘ah",
+1,
+[]
+],
+[
+"Ḩamrāyat ‘Abd al Majīd",
+1,
+[]
+],
+[
+"Kathīb Abū al ‘Urūq",
+1,
+[]
+],
+[
+"Kathīb Abū ‘Aşab",
+1,
+[]
+],
+[
+"Ḩamrāyat Abū as Sarāwīl",
+1,
+[]
+],
+[
+"El-Wadaḥ",
+1,
+[]
+],
+[
+"Gôz Abu Rad",
+1,
+[]
+],
+[
+"Kârdûd Qaṭ‘ el-Ḥagar",
+1,
+[]
+],
+[
+"El-Mabwala",
+1,
+[]
+],
+[
+"Khashm Ghanam",
+1,
+[]
+],
+[
+"Ghurūd al Khānikah",
+1,
+[]
+],
+[
+"Pustynya Danakil",
+1,
+[]
+],
+[
+"Koroli Desert",
+1,
+[]
+],
+[
+"Kaisut Desert",
+1,
+[]
+],
+[
+"Dida Galgalu Desert",
+1,
+[]
+],
+[
+"Peski Menteke",
+1,
+[]
+],
+[
+"Peski Sauskan",
+1,
+[]
+],
+[
+"Peski Tyuyesu",
+1,
+[]
+],
+[
+"Peski Dzhideli",
+1,
+[]
+],
+[
+"Peski Chagyrly",
+1,
+[]
+],
+[
+"Peski Barmakkum",
+1,
+[]
+],
+[
+"Peski Barshakum",
+1,
+[]
+],
+[
+"Peski Biikum",
+1,
+[]
+],
+[
+"Peski Dala",
+1,
+[]
+],
+[
+"Peski Irizhar",
+1,
+[]
+],
+[
+"Peski Karaatozgan",
+1,
+[]
+],
+[
+"Peski Buyrek",
+1,
+[]
+],
+[
+"Berabich",
+1,
+[]
+],
+[
+"Hüysiyn Govĭ",
+1,
+[]
+],
+[
+"Bogd Golïn Els",
+1,
+[]
+],
+[
+"Dzaraagiyn Govĭ",
+1,
+[]
+],
+[
+"Höh Nariyn Govĭ",
+1,
+[]
+],
+[
+"Tusgay Manhan",
+1,
+[]
+],
+[
+"Hoyt Govĭ",
+1,
+[]
+],
+[
+"Hevtee Hüreniy Govĭ",
+1,
+[]
+],
+[
+"Holboogiin Govĭ",
+1,
+[]
+],
+[
+"Dzag Süüjiyn Govĭ",
+1,
+[]
+],
+[
+"Galbïn Govĭ",
+1,
+[]
+],
+[
+"Haltarïn Govĭ",
+1,
+[]
+],
+[
+"Baruun Höshöögiyn Govĭ",
+1,
+[]
+],
+[
+"Bordzongiyn Govĭ",
+1,
+[]
+],
+[
+"Boroljiyn Manhan",
+1,
+[]
+],
+[
+"Argalant Ulaan Els",
+1,
+[]
+],
+[
+"Ragg Sba",
+1,
+[]
+],
+[
+"Desierto de La Soledad",
+1,
+[]
+],
+[
+"Desierto de Vizcaíno",
+1,
+[]
+],
+[
+"Desierto de San Juan",
+1,
+[]
+],
+[
+"Desierto de Santa María",
+1,
+[]
+],
+[
+"Desierto Maijoma",
+1,
+[]
+],
+[
+"Desierto de Mayran",
+1,
+[]
+],
+[
+"Desierto El Vizcaino",
+1,
+[]
+],
+[
+"Kubqi Shamo",
+1,
+[]
+],
+[
+"Horqin Shadi",
+1,
+[]
+],
+[
+"Qafrat al ‘Amashīyah",
+1,
+[]
+],
+[
+"Al Jāfūrah",
+1,
+[]
+],
+[
+"Al Ḩawmah",
+1,
+[]
+],
+[
+"Baḩr aş Şāfī",
+1,
+[]
+],
+[
+"Peski Kattakum",
+1,
+[]
+],
+[
+"Peski Sary-Kulyuk",
+1,
+[]
+],
+[
+"Peski Yagzak-Kum",
+1,
+[]
+],
+[
+"Mala‘laq",
+1,
+[]
+],
+[
+"Şaḩrā' al Muşallá",
+1,
+[]
+],
+[
+"Dunas de Ica",
+1,
+[
+"Desierto de Ica"
+]
+],
+[
+"Azaoua",
+1,
+[]
+],
+[
+"Ténéré du Tafassâsset",
+1,
+[]
+],
+[
+"Tularosa basin gypsum dunes",
+1,
+[
+"the white sands"
+]
+],
+[
+"Desert Discovery Center",
+1,
+[]
+],
+[
+"deserts of Afghanistan and Iran",
+1,
+[]
+],
+[
+"Samaria desert",
+1,
+[]
+],
+[
+"Erg Tanezzouft",
+1,
+[]
+],
+[
+"Jarama Desert",
+0,
+[]
 ]
 ]

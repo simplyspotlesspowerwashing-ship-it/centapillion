@@ -1,61 +1,327 @@
-Paneer
-Vada
-Chai
-Paratha
-Poori=puri
+Aam Panna
+Achar
+Achari Chicken
+Ada Pradhaman
+Adhirasam
+Aloo Chaat
+Aloo Gobi
+Aloo Matar
+Aloo Methi
 Aloo Paratha
+Aloo Posto
+Aloo Puri
+Aloo Tikki
+Amritsari Kulcha
+Anda Curry
+Appam
+Appam with Stew
+Avial
+Badam Milk
+Baingan Bharta
+Balti
+Balushahi
+Barfi
+Basundi
+Batata Vada
+Bebinca
+Besan Ladoo
+Bhaji
+Bhatura
+Bhel Puri
+Bhindi Do Pyaza
+Bhindi Masala
+Bhujia
+Bhuna Gosht
+Biryani
+Bisi Bele Bath
+Bonda
+Boondi Raita
+Boti Kebab
+Bread Pakora
+Butter Chicken=murgh makhani
+Butter Naan
+Butter Paneer=paneer butter masala
+Chaas=buttermilk
+Chai
+Chai=masala chai
+Chakli
+Cham Cham
+Chana Dal
+Chana Masala=chole
+Chapati
+Chettinad Chicken
+Chicken 65
+Chicken Biryani
+Chicken Chettinad
+Chicken Curry
+Chicken Do Pyaza
+Chicken Ghee Roast
+Chicken Kolhapuri
+Chicken Korma
+Chicken Manchurian
+Chicken Masala=chicken masala curry
+Chicken Roll
+Chicken Saag
+Chicken Tikka
+Chicken Tikka Masala
+Chilli Chicken
+Chilli Paneer
+Chingri Malai Curry
+Chivda
+Chole Bhature
+Chutney
+Coconut Chutney
+Coconut Rice
+Curd Rice
+Cutting Chai
+Dabeli
+Dahi Bhalla
+Dahi Puri
+Dahi Vada
+Dal
+Dal Baati Churma
+Dal Fry
 Dal Makhani
 Dal Tadka
-Rajma
-Kadhi
-Baingan Bharta
-Bhindi Masala
-Matar Paneer
-Shahi Paneer
-Kadai Paneer
-Paneer Tikka
-Chicken Korma
-Lamb Vindaloo
-Fish Curry
-Goan Fish Curry
-Chettinad Chicken
-Hyderabadi Biryani
-Pulao
-Jeera Rice
-Khichdi
-Upma
-Poha
-Idiyappam
-Appam
-Puttu
-Pesarattu
-Medu Vada
-Rava Dosa
-Masala Dosa
-Kachori
-Aloo Tikki
-Dahi Puri
-Sev Puri
-Vada Pav
-Misal Pav
-Dabeli
-Kathi Roll
-Frankie
-Momos
-Thukpa
-Rasmalai
-Sandesh
-Mysore Pak
-Barfi
-Ladoo
-Halwa
-Gajar Halwa
-Payasam
-Shrikhand
-Kulfi
+Dhansak
+Dhokla
+Dosa
+Double ka Meetha
+Dum Aloo
+Egg Bhurji
+Egg Biryani
+Egg Curry
+Egg Roll
+Fafda
 Falooda
+Filter Coffee
+Fish Curry
+Fish Thali
+Fish Tikka
+Frankie
+Gajar Halwa
+Gajar Halwa=gajar ka halwa
+Galouti
+Galouti Kebab
+Garlic Naan
+Gatte ki Sabzi
+Ghee Rice
+Ghevar
+Goan Fish Curry
+Gobi Manchurian
+Gobi Masala
+Gobi Paratha
+Gulab Jamun
+Gushtaba
+Hakka Noodles
+Halwa
+Handvo
+Hyderabadi Biryani
+Hyderabadi Haleem
+Idiyappam
+Idli
+Imarti
+Jalebi
+Jalfrezi
+Jaljeera
+Jeera Aloo
+Jeera Rice
+Kachori
+Kachumber
+Kadai Chicken
+Kadai Paneer
+Kadala Curry
+Kadhi
+Kadhi Chawal
+Kadhi Pakora
+Kaju Katli
+Kakori Kebab
+Kala Jamun
+Kanda Poha
+Kashmiri Dum Aloo
+Kathi Roll
+Kebab
+Keema Matar
+Keema Pav
+Ker Sangri
+Kerala Fish Curry
+Kerala Parotta
+Khakhra
+Khandvi
+Kheema
+Kheer
+Khichdi
+Kofta
+Kootu
+Kori Rotti
+Korma
+Kosha Mangsho
+Kothu Parotta
+Kozhi Varuval
+Kulcha
+Kulfi
+Laal Maas
+Ladoo
+Ladoo=laddu
+Lagan nu Custard
+Lamb Saag
+Lamb Vindaloo
+Lassi
+Lauki Kofta
+Lemon Rice
+Litti Chokha
+Luchi
+Machher Jhol
+Madras Curry
+Makki ki Roti
+Malabar Parotta
+Malai Kofta
+Malai Tikka
+Malpua
+Mangalorean Fish Curry
 Mango Lassi
+Mango Pickle
 Masala Chai
-Pickle
-Chutney
+Masala Dosa
+Masala Vada
+Matar Paneer
+Mathri
+Medu Vada
+Meen Moilee
+Methi Thepla
+Mint Chutney
+Mirchi Bajji
+Mirchi ka Salan
+Misal Pav
+Mishti Doi
+Mix Veg
+Modak
+Mohanthal
+Momos
+Moong Dal
+Moong Dal Halwa
+Motichoor Ladoo
+Murukku
+Mutton Biryani
+Mutton Do Pyaza
+Mutton Sukka
+Mysore Masala Dosa
+Mysore Pak
+Naan
+Namak Pare
+Navratan Korma
+Neer Dosa
+Nihari
+Nimbu Pani
+Onion Bhaji
+Onion Pakora
+Pakora=pakoda
+Palak Paneer
+Pandhra Rassa
+Paneer
+Paneer Bhurji
+Paneer Butter Masala
+Paneer Makhani
+Paneer Pakora
+Paneer Paratha
+Paneer Tikka
+Pani Puri=golgappa=puchka
+Papad=papadum=poppadom
 Papadum
+Papdi Chaat
+Paratha
+Pathar ka Gosht
+Patra ni Machhi
+Pav Bhaji
+Paya
+Payasam
+Peda
+Pepper Chicken
+Pesarattu
+Phaal
+Phirni
+Pickle
+Pindi Chole
+Pitha
+Poha
+Pongal
+Poori=puri
+Poriyal
+Pork Vindaloo
+Prawn Balchao
+Pulao
+Puran Poli
+Puri
+Puri Bhaji
+Puttu
+Qubani ka Meetha
+Rabri
+Ragda Pattice
+Raita
+Raj Kachori
+Rajma
+Rajma Chawal
+Ras Malai=rasmalai
+Rasam
+Rasmalai
+Rava Dosa
+Rava Upma
+Reshmi Kebab
+Rista
+Rogan Josh
+Rosogolla=rasgulla
+Roti
+Rumali Roti
+Saag Paneer
+Sabudana Khichdi
+Sabudana Vada
+Sali Boti
+Sambar Vada
+Sambhar=sambar
+Samosa
+Samosa Chaat
+Sandesh
+Sarson ka Saag
+Sattu
+Schezwan Fried Rice
+Seekh Kebab
+Set Dosa
+Sev Puri
+Seviyan
+Shahi Korma
+Shahi Paneer
+Shami Kebab
+Shankarpali
+Sheer Khurma
+Sheera
+Shorshe Ilish
+Shrikhand
+Soan Papdi
+Sooji Halwa
+Sorpotel
+Tamarind Chutney
+Tamarind Rice
+Tambda Rassa
+Tandoori Chicken
+Tandoori Roti
+Tangdi Kebab
+Thali
+Thandai
+Thepla
+Thoran
+Thukpa
+Tikka
+Toor Dal
+Undhiyu
+Unniyappam
+Upma
+Uttapam
+Vada
+Vada Pav
+Veg Biryani
+Veg Kolhapuri
+Vegetable Korma
+Vindaloo
+Wazwan
+Xacuti
+Yakhni

@@ -1,846 +1,2296 @@
 [
 [
 "mozzarella",
-76
+76,
+[
+"Cookbook:Mozzarella Cheese",
+"mozzarella cheese"
+]
 ],
 [
 "Parmesan",
-71
+71,
+[
+"Parmesan cheese",
+"Parmigiano",
+"Parmigiano Reggiano",
+"Parmigiano-Reggiano"
+]
 ],
 [
 "Camembert",
-66
+66,
+[]
 ],
 [
 "Roquefort cheese",
-59
+59,
+[
+"Roquefort"
+]
 ],
 [
 "pecorino",
-43
+43,
+[]
 ],
 [
 "Grana Padano PDO",
-37
+37,
+[
+"Grana Padano cheese"
+]
 ],
 [
 "Bryndza",
-34
+34,
+[
+"Brynza"
+]
 ],
 [
 "kurt",
-32
+32,
+[
+"aarul",
+"aaruul",
+"aqet",
+"chortan",
+"dried yoghurt",
+"kashk",
+"keshk",
+"khuruud",
+"kishik",
+"kishk",
+"qurt"
+]
 ],
 [
 "processed cheese",
-32
+32,
+[
+"cheese food",
+"pasteurized process cheese",
+"process cheese"
+]
 ],
 [
 "Limburger",
-32
+32,
+[]
 ],
 [
 "kashkaval",
-30
+30,
+[
+"kaskavál",
+"קאַשקאַוואַל",
+"קאַשקאַוואַל קעז",
+"קשקבל"
+]
 ],
 [
 "Tilsit cheese",
-29
+29,
+[]
 ],
 [
 "Comté cheese",
-29
+29,
+[
+"Comte cheese"
+]
 ],
 [
 "Pecorino Romano PDO",
-28
+28,
+[]
 ],
 [
 "Fontina PDO",
-28
+28,
+[]
 ],
 [
 "abondance",
-27
+27,
+[]
 ],
 [
 "Asiago PDO",
-25
+25,
+[]
 ],
 [
 "Taleggio PDO",
-25
+25,
+[]
 ],
 [
 "Brocciu",
-23
+23,
+[]
 ],
 [
 "khoa",
-23
+23,
+[
+"khoya",
+"mawa"
+]
 ],
 [
 "Jāņi cheese",
-22
+22,
+[
+"caraway cheese"
+]
 ],
 [
 "Obatzda",
-22
+22,
+[
+"Obatzter",
+"Obazda"
+]
 ],
 [
 "Mozzarella di Bufala Campana PDO",
-20
+20,
+[]
 ],
 [
 "sheep milk cheese",
-19
+19,
+[
+"sheep cheese",
+"sheep's-milk cheese"
+]
 ],
 [
 "fresh cheese",
-18
+18,
+[
+"fresh cheeses"
+]
 ],
 [
 "Parenica",
-17
+17,
+[]
 ],
 [
 "smoked cheese",
-17
+17,
+[
+"Rauchkäse",
+"uzené sýry"
+]
 ],
 [
 "Livno cheese",
-17
+17,
+[
+"Livanjski sir"
+]
 ],
 [
 "Swiss cheese",
-17
+17,
+[]
 ],
 [
 "Pecorino Sardo PDO",
-17
+17,
+[]
 ],
 [
 "Pag cheese",
-16
+16,
+[]
 ],
 [
 "Raschera PDO",
-16
+16,
+[]
 ],
 [
 "beyaz peynir",
-15
+15,
+[
+"Turkish white cheese"
+]
 ],
 [
 "Shanklish",
-15
+15,
+[]
 ],
 [
 "hebra cheese",
-15
+15,
+[
+"Queso oaxaca"
+]
 ],
 [
 "Castelmagno PDO",
-14
+14,
+[]
 ],
 [
 "Granular cheese",
-14
+14,
+[
+"pressed cheese"
+]
 ],
 [
 "whey cheese",
-14
+14,
+[]
 ],
 [
 "Bitto PDO",
-14
+14,
+[]
 ],
 [
 "Bra PDO",
-14
+14,
+[]
 ],
 [
 "Afuega'l pitu",
-13
+13,
+[
+"Afuega'l pitu cheese"
+]
 ],
 [
 "Swiss cheeses",
-13
+13,
+[
+"cheese from Switzerland",
+"Swiss cheese"
+]
 ],
 [
 "Rumi cheese",
-13
+13,
+[]
 ],
 [
 "Milbenkäse",
-13
+13,
+[]
 ],
 [
 "Kefalograviera",
-12
+12,
+[]
 ],
 [
 "Queijo de Azeitão",
-12
+12,
+[]
 ],
 [
 "acid-set cheese",
-12
+12,
+[
+"sour milk cheese"
+]
 ],
 [
 "tulum cheese",
-12
+12,
+[]
 ],
 [
 "Nisa cheese",
-12
+12,
+[
+"queijo de Nisa"
+]
 ],
 [
 "washed-rind cheese",
-12
+12,
+[
+"smear-ripened cheese",
+"Washed-rind cheese",
+"washed-rind hard cheese",
+"washed-rind soft cheese"
+]
 ],
 [
 "Circassian cheese",
-12
+12,
+[]
 ],
 [
 "J&L Grubb",
-11
+11,
+[]
 ],
 [
 "camembert de Normandie",
-11
+11,
+[]
 ],
 [
 "Monte Veronese PDO",
-11
+11,
+[]
 ],
 [
 "Queso Ibores",
-11
+11,
+[
+"DOP Queso Ibores"
+]
 ],
 [
 "pasta filata",
-11
+11,
+[
+"plastic-curd cheese",
+"plastic-curd cheeses",
+"pulled-curd cheese",
+"pulled-curd cheeses",
+"spun paste cheese",
+"spun paste cheeses",
+"stretched-curd cheese",
+"stretched-curd cheeses"
+]
 ],
 [
 "Piave PDO",
-11
+11,
+[]
 ],
 [
 "grated cheese",
-11
+11,
+[
+"shredded cheese"
+]
 ],
 [
 "Domiati",
-11
+11,
+[]
 ],
 [
 "Kopanisti mykonou",
-11
+11,
+[]
 ],
 [
 "Valtellina Casera PDO",
-11
+11,
+[]
 ],
 [
 "Ragusano PDO",
-10
+10,
+[]
 ],
 [
 "Quartirolo Lombardo PDO",
-10
+10,
+[]
 ],
 [
 "Hermelín",
-10
+10,
+[
+"Hermelin"
+]
 ],
 [
 "Silter PDO",
-10
+10,
+[]
 ],
 [
 "brined cheese",
-10
+10,
+[
+"pickled cheese"
+]
 ],
 [
 "Vlašić cheese",
-10
+10,
+[
+"Travnik cheese"
+]
 ],
 [
 "Pecorino Toscano PDO",
-10
+10,
+[]
 ],
 [
 "Valdeón cheese PGI",
-9
+9,
+[
+"queso Valdeón",
+"Valdeón PGI"
+]
 ],
 [
 "Fiore Sardo PDO",
-9
+9,
+[]
 ],
 [
 "French cheese",
-9
+9,
+[
+"cheese from France"
+]
 ],
 [
 "Rollot",
-9
+9,
+[]
 ],
 [
 "Brussels cheese",
-9
+9,
+[
+"Brusselse kaas",
+"ettekeis",
+"fromage de Bruxelles"
+]
 ],
 [
 "Motal",
-9
+9,
+[]
 ],
 [
 "Formaggio di Fossa",
-9
+9,
+[]
 ],
 [
 "Majorero cheese PDO",
-9
+9,
+[
+"Majorero DOP",
+"Queso Majorero DOP"
+]
 ],
 [
 "Quesillo",
-9
+9,
+[]
 ],
 [
 "Palmero cheese",
-9
+9,
+[
+"La Palma cheese"
+]
 ],
 [
 "Spressa delle Giudicarie PDO",
-8
+8,
+[]
 ],
 [
 "Valle d'Aosta Fromadzo PDO",
-8
+8,
+[
+"Vallée d'Aoste Fromadzo"
+]
 ],
 [
 "Hutsul bryndza",
-8
+8,
+[]
 ],
 [
 "soft cheese",
-8
+8,
+[]
 ],
 [
 "Sakura cheese",
-8
+8,
+[
+"Sakura"
+]
 ],
 [
 "Fromage D'Orval",
-8
+8,
+[]
 ],
 [
 "requeijão",
-8
+8,
+[]
 ],
 [
 "Pecorino di Filiano PDO",
-8
+8,
+[]
 ],
 [
 "Queso de Mano",
-8
+8,
+[]
 ],
 [
 "Altenburger",
-8
+8,
+[]
 ],
 [
 "cheese spread",
-8
+8,
+[]
 ],
 [
 "kesong puti",
-8
+8,
+[
+"quesong puti"
+]
 ],
 [
 "Pule cheese",
-8
+8,
+[
+"donkey cheese"
+]
 ],
 [
 "Transmontano goat cheese",
-8
+8,
+[
+"queijo de cabra transmontano"
+]
 ],
 [
 "Casciotta d'Urbino PDO",
-7
+7,
+[]
 ],
 [
 "Toma Piemontese PDO",
-7
+7,
+[
+"Toma d'Alpeggio",
+"Toma Italiana"
+]
 ],
 [
 "Casín cheese",
-7
+7,
+[
+"Casin cheese"
+]
 ],
 [
 "Datshi",
-7
+7,
+[]
 ],
 [
 "Tupí",
-7
+7,
+[]
 ],
 [
 "white cheese",
-7
+7,
+[]
 ],
 [
 "Murazzano PDO",
-7
+7,
+[]
 ],
 [
 "Žemaitiškas kastinys",
-7
+7,
+[]
 ],
 [
 "Egyptian cheese",
-7
+7,
+[]
 ],
 [
 "Caciotta",
-7
+7,
+[]
 ],
 [
 "Snøfrisk",
-7
+7,
+[]
 ],
 [
 "Rosa Camuna",
-7
+7,
+[]
 ],
 [
 "Norvegia",
-7
+7,
+[]
 ],
 [
 "Formai de Mut dell'Alta Valle Brembana PDO",
-7
+7,
+[]
 ],
 [
 "powdered cheese",
-6
+6,
+[
+"cheese powder"
+]
 ],
 [
 "Cheese from l'Alt Urgell y la Cerdanya",
-6
+6,
+[
+"Formatge de l'Alt Urgell i La Cerdanya"
+]
 ],
 [
 "Abbey of Westmalle",
-6
+6,
+[]
 ],
 [
 "Kars gravyer cheese",
-6
+6,
+[]
 ],
 [
 "Reggianito",
-6
+6,
+[]
 ],
 [
 "Abertam cheese",
-6
+6,
+[]
 ],
 [
 "Bandel cheese",
-6
+6,
+[]
 ],
 [
 "Brousse du Rove",
-6
+6,
+[]
 ],
 [
 "Tronchon",
-6
+6,
+[]
 ],
 [
 "Délice de Bourgogne",
-6
+6,
+[
+"Delice de Bourgogne"
+]
 ],
 [
 "Robiola di Roccaverano PDO",
-6
+6,
+[]
 ],
 [
 "Allgäuer Emmentaler",
-6
+6,
+[
+"Allgau emmentaler"
+]
 ],
 [
 "balkánský sýr",
-5
+5,
+[]
 ],
 [
 "Nøkkelost",
-5
+5,
+[
+"Nokkelost"
+]
 ],
 [
 "queso blanco",
-5
+5,
+[
+"queso fresco"
+]
 ],
 [
 "Squacquerone di Romagna PDO",
-5
+5,
+[
+"Squacquarone",
+"Squacquerone di Romagna",
+"Squaquaròn"
+]
 ],
 [
 "Ardrahan Cheese",
-5
+5,
+[]
 ],
 [
 "Caravane",
-5
+5,
+[]
 ],
 [
 "Vastedda della valle del Belice PDO",
-5
+5,
+[]
 ],
 [
 "Ossolano PDO",
-5
+5,
+[]
 ],
 [
 "Pecorino Crotonese PDO",
-5
+5,
+[]
 ],
 [
 "mould cheese",
-5
+5,
+[]
 ],
 [
 "Puzzone di Moena",
-5
+5,
+[]
 ],
 [
 "Ossetian cheese",
-5
+5,
+[]
 ],
 [
 "Aura",
-5
+5,
+[
+"Midnight Blue"
+]
 ],
 [
 "Caş",
-5
+5,
+[]
 ],
 [
 "farmer cheese",
-5
+5,
+[
+"farmer's cheese",
+"farmers' cheese"
+]
 ],
 [
 "Lori",
-5
+5,
+[]
 ],
 [
 "Le Rustique",
-5
+5,
+[]
 ],
 [
 "Caciocavallo Silano PDO",
-5
+5,
+[]
 ],
 [
 "Mallorca cheese",
-5
+5,
+[]
 ],
 [
 "Dali ni Horbo",
-5
+5,
+[]
 ],
 [
 "Canestrato Pugliese PDO",
-5
+5,
+[]
 ],
 [
 "Basa",
-4
+4,
+[]
 ],
 [
 "Blaťácké zlato",
-4
+4,
+[]
 ],
 [
 "Mozzarella di Gioia del Colle PDO",
-4
+4,
+[]
 ],
 [
 "Acehúche cheese",
-4
+4,
+[]
 ],
 [
 "A Filetta",
-4
+4,
+[]
 ],
 [
 "semi-hard cheese",
-4
+4,
+[]
 ],
 [
 "Maredsous cheese",
-4
+4,
+[]
 ],
 [
 "kaşar",
-4
+4,
+[
+"kaşar cheese"
+]
 ],
 [
 "Formaggella del Luinese PDO",
-4
+4,
+[]
 ],
 [
 "Chura kampo",
-4
+4,
+[]
 ],
 [
 "Chura loenpa",
-4
+4,
+[]
 ],
 [
 "Chabis",
-4
+4,
+[]
 ],
 [
 "yak's milk cheese",
-4
+4,
+[
+"yak cheese"
+]
 ],
 [
 "Humboldt Fog",
-4
+4,
+[]
 ],
 [
 "Allgäuer Bergkäse",
-4
+4,
+[]
 ],
 [
 "fresh Tomme",
-4
+4,
+[]
 ],
 [
 "triple cream",
-4
+4,
+[]
 ],
 [
 "Tybo",
-4
+4,
+[]
 ],
 [
 "Nostrano Valtrompia PDO",
-4
+4,
+[]
 ],
 [
 "Piacentinu Ennese PDO",
-4
+4,
+[]
 ],
 [
 "Strachitunt PDO",
-4
+4,
+[]
 ],
 [
 "Toma del Mottarone",
-4
+4,
+[]
 ],
 [
 "Pata de mulo cheese",
-4
+4,
+[]
 ],
 [
 "Queijo prata",
-4
+4,
+[]
 ],
 [
 "Basket cheese",
-4
+4,
+[]
 ],
 [
 "brick cheese",
-4
+4,
+[]
 ],
 [
 "Government cheese",
-4
+4,
+[]
 ],
 [
 "Imokilly Regato",
-4
+4,
+[
+"Reigeató Uí Mhic Coille"
+]
 ],
 [
 "queijos da Beira Baixa",
-4
+4,
+[
+"Beira Baixa cheeses",
+"queijo amarelo da Beira Baixa",
+"queijo de Castelo Branco",
+"queijo picante da Beira Baixa"
+]
 ],
 [
 "Pied-De-Vent",
-4
+4,
+[]
 ],
 [
 "Parrano",
-4
+4,
+[
+"Parrano cheese"
+]
 ],
 [
 "pepper jack cheese",
-4
+4,
+[]
 ],
 [
 "Bavaria blu",
-4
+4,
+[]
 ],
 [
 "Hutsul sheep bryndzya",
-4
+4,
+[]
 ],
 [
 "Queso herreño",
-4
+4,
+[]
 ],
 [
 "Sbirro",
-3
+3,
+[]
 ],
 [
 "Palmito cheese",
-3
+3,
+[]
 ],
 [
 "Argentine cheese",
-3
+3,
+[
+"Cheese in Argentina",
+"Cheeses from Argentina",
+"Cheeses of Argentina"
+]
 ],
 [
 "Mutschli",
-3
+3,
+[]
 ],
 [
 "Schnittkäse Bela Badia PAT",
-3
+3,
+[
+"formaggio da taglio Bela Badia"
+]
 ],
 [
 "Nakládaný hermelín",
-3
+3,
+[]
 ],
 [
 "cheese horses",
-3
+3,
+[]
 ],
 [
 "Casatella Trevigiana PDO",
-3
+3,
+[]
 ],
 [
 "Vezzena",
-3
+3,
+[]
 ],
 [
 "L’Etivaz",
-3
+3,
+[
+"L’Étivaz VD"
+]
 ],
 [
 "fromage frais",
-3
+3,
+[]
 ],
 [
 "reindeer cheese",
-3
+3,
+[
+"reindeer milk cheese"
+]
 ],
 [
 "Requeixo",
-3
+3,
+[]
 ],
 [
 "British cheese",
-3
+3,
+[
+"UK cheese"
+]
 ],
 [
 "Tibetan cheese",
-3
+3,
+[]
 ],
 [
 "brie noir",
-3
+3,
+[
+"black brie"
+]
 ],
 [
 "Calinzanincu",
-3
+3,
+[]
 ],
 [
 "Fontal",
-3
+3,
+[]
 ],
 [
 "farmstead cheese",
-3
+3,
+[
+"farmhouse cheese"
+]
 ],
 [
 "Alpkäse",
-3
+3,
+[]
 ],
 [
 "Pikauba (cheese)",
-3
+3,
+[]
 ],
 [
 "Tomme de Gressoney",
-3
+3,
+[]
 ],
 [
 "Șvaițer",
-3
+3,
+[]
 ],
 [
 "Canestrato di Moliterno",
-3
+3,
+[]
 ],
 [
 "Pecorino di Carmasciano PAT",
-3
+3,
+[
+"Carmasciano"
+]
 ],
 [
 "Poshekhonye cheese",
-3
+3,
+[]
 ],
 [
 "Kenyan cheese",
-3
+3,
+[
+"Cheese in Kenya"
+]
 ],
 [
 "Cheese in Canada",
-3
+3,
+[
+"Canadian cheese"
+]
 ],
 [
 "Mexican cheese",
-3
+3,
+[
+"Cheese of Mexico",
+"Cheeses of Mexico"
+]
 ],
 [
 "Cooleeney Farmhouse Cheese",
-3
+3,
+[]
 ],
 [
 "Cremoso cheese",
-3
+3,
+[]
 ],
 [
 "San Michali",
-3
+3,
+[]
 ],
 [
 "burrata di Andria",
-3
+3,
+[]
 ],
 [
 "Galotyri",
-3
+3,
+[]
 ],
 [
 "Xynotyro",
-3
+3,
+[]
 ],
 [
 "Anevato",
-3
+3,
+[]
 ],
 [
 "Rauchkäse",
-3
+3,
+[]
+],
+[
+"Aschbacher magerkäse PAT",
+2,
+[
+"Aschbach magro",
+"Formaggio aschbach",
+"Formaggio aschbach magro"
+]
+],
+[
+"Hirtenkäse",
+2,
+[]
+],
+[
+"Swiss-type cheeses",
+2,
+[
+"Alpine cheeses"
+]
+],
+[
+"Queijo serrano",
+2,
+[]
+],
+[
+"Moliterno",
+2,
+[
+"pecorino di Moliterno",
+"pecorino Moliterno"
+]
+],
+[
+"Brânză de vaci",
+2,
+[]
+],
+[
+"Apetito",
+2,
+[]
+],
+[
+"Pategrás",
+2,
+[]
+],
+[
+"Abkhazian cheese",
+2,
+[]
+],
+[
+"Zaanlander",
+2,
+[]
+],
+[
+"Uniekaas",
+2,
+[]
+],
+[
+"Casàda PAT",
+2,
+[
+"Casada",
+"Colostra"
+]
+],
+[
+"Schnittkäse Schlanderser leicht PAT",
+2,
+[
+"Formaggio da taglio Silandro leggero"
+]
+],
+[
+"Jadel",
+2,
+[]
+],
+[
+"Graviera Agrafon",
+2,
+[]
+],
+[
+"Schnittkäse Marienberger PAT",
+2,
+[
+"Formaggio da taglio Monte Maria"
+]
+],
+[
+"Chanakh",
+2,
+[]
+],
+[
+"Frico",
+2,
+[
+"Friesche Coöperatieve Zuivel Export Vereniging"
+]
+],
+[
+"raw-milk cheese",
+2,
+[
+"raw milk cheese"
+]
+],
+[
+"cheese with holes",
+2,
+[
+"Swiss cheese"
+]
+],
+[
+"Qurut",
+2,
+[]
+],
+[
+"Rovethym",
+2,
+[]
+],
+[
+"Cougar Gold cheese",
+2,
+[]
+],
+[
+"bouhezza",
+2,
+[]
+],
+[
+"abbey cheese",
+2,
+[]
+],
+[
+"Ardi-Gasna",
+2,
+[]
+],
+[
+"Allgäuer Sennalpkäse",
+2,
+[]
+],
+[
+"aarts",
+2,
+[]
+],
+[
+"Flandrien",
+2,
+[]
+],
+[
+"Serbian cheese",
+2,
+[]
+],
+[
+"Bierkäse",
+2,
+[]
+],
+[
+"Cendrillon",
+2,
+[]
+],
+[
+"Chaux-d'Abel",
+2,
+[]
+],
+[
+"Durrus cheese",
+2,
+[]
+],
+[
+"Fourme de Rochefort",
+2,
+[]
+],
+[
+"cow's-milk cheese",
+2,
+[
+"cow cheese"
+]
+],
+[
+"Portuguese cheese",
+2,
+[]
+],
+[
+"Le Douanier",
+2,
+[]
+],
+[
+"Tomme de l'Ubaye",
+2,
+[]
+],
+[
+"Tomme du Jura",
+2,
+[]
+],
+[
+"Formaggio di malga dei sette comuni",
+2,
+[
+"Malga Cheese"
+]
+],
+[
+"Granone lodigiano PAT",
+2,
+[
+"Grana Tipico Lodigiano"
+]
+],
+[
+"Provolone del Monaco PDO",
+2,
+[]
+],
+[
+"artisan cheese",
+2,
+[]
+],
+[
+"Cevrin",
+2,
+[]
+],
+[
+"Caciocavallo di Castelfranco PAT",
+2,
+[
+"Castelfranco in Miscano cheese"
+]
+],
+[
+"Cazelle de Saint Affrique",
+2,
+[]
+],
+[
+"sfela",
+2,
+[]
+],
+[
+"Georgian cheese",
+2,
+[]
+],
+[
+"Zacharie Cloutier",
+2,
+[]
+],
+[
+"Arseniko Naxou",
+2,
+[]
+],
+[
+"Boeren Leidenkaas",
+2,
+[
+"Boeren-Leidse met Sleutels"
+]
+],
+[
+"Ezine peyniri",
+2,
+[
+"Ezine cheese"
+]
+],
+[
+"Chubut cheese",
+2,
+[]
+],
+[
+"Balsfjordost",
+2,
+[]
+],
+[
+"Camoscio d'oro",
+2,
+[]
+],
+[
+"Caciotta marchigiana",
+2,
+[]
+],
+[
+"vlaskaas",
+2,
+[]
+],
+[
+"Prljo cheese",
+2,
+[]
+],
+[
+"Pichtogalo Chanion",
+2,
+[]
+],
+[
+"Cabra La Collada",
+2,
+[]
+],
+[
+"La Chivita",
+2,
+[]
+],
+[
+"Cookbook:Cheese",
+2,
+[]
+],
+[
+"testun",
+2,
+[]
+],
+[
+"Pecorino del Monte Poro",
+2,
+[]
+],
+[
+"dil peyniri",
+1,
+[]
+],
+[
+"Algunder ziegenkäse PAT",
+1,
+[
+"Algunder Ziegenkäse",
+"Formaggio di capra di Lagundo"
+]
+],
+[
+"Mashanza",
+1,
+[
+"mashanza"
+]
+],
+[
+"Enzyme-modified cheese",
+1,
+[]
+],
+[
+"Schnittkäse Malga Gardena PAT",
+1,
+[
+"Formaggio da taglio Malga Gardena"
+]
+],
+[
+"Tome de Bray",
+1,
+[]
+],
+[
+"Meule de Bray",
+1,
+[]
+],
+[
+"bloomy rind cheese",
+1,
+[
+"white cheese"
+]
+],
+[
+"Wyfe of Bath",
+1,
+[]
+],
+[
+"Alta Badia",
+1,
+[
+"Alta Badia Cheese"
+]
+],
+[
+"Schnittkäse Dolomitenkönig PAT",
+1,
+[
+"Formaggio da Taglio Dolomitenkönig",
+"Schnittkäse Dolomitenkönig"
+]
+],
+[
+"Cheese (Shirak)",
+1,
+[]
+],
+[
+"Fourme d'Yssingeaux",
+1,
+[]
+],
+[
+"Castellano",
+1,
+[
+"queso castellano"
+]
+],
+[
+"Lajta",
+1,
+[]
+],
+[
+"Mklats panir",
+1,
+[
+"Kanach",
+"Kanach cheese",
+"Kanach panir"
+]
+],
+[
+"Tel panir",
+1,
+[]
+],
+[
+"Lećevački cheese",
+1,
+[]
+],
+[
+"Innichner butterkäse PAT",
+1,
+[
+"Caciottina Montanara"
+]
+],
+[
+"Maiorchino di Novara di Sicilia PAT",
+1,
+[]
+],
+[
+"semi-solid semi-hard cheese",
+1,
+[]
+],
+[
+"Le Wavreumont",
+1,
+[]
+],
+[
+"Le Chèvre de Wavreumont",
+1,
+[]
+],
+[
+"Narchvi",
+1,
+[]
+],
+[
+"yellow cheese",
+1,
+[]
+],
+[
+"dairy cheese",
+1,
+[]
+],
+[
+"Pirotski kačkavalj",
+1,
+[
+"Pirot caciocavallo",
+"Pirot cheese",
+"Pirot kachkaval"
+]
+],
+[
+"Petit Quercy",
+1,
+[]
+],
+[
+"Rambol",
+1,
+[]
+],
+[
+"Annot",
+1,
+[
+"Tomme Annot"
+]
+],
+[
+"Bonrus",
+1,
+[]
+],
+[
+"Carré de Bray",
+1,
+[
+"Carre de Bray"
+]
+],
+[
+"Casse-Croûte",
+1,
+[]
+],
+[
+"doré-mi",
+1,
+[]
+],
+[
+"industrial cheese",
+1,
+[
+"mass-produced cheese"
+]
+],
+[
+"mixed milk cheese",
+1,
+[]
+],
+[
+"Australian cheese",
+1,
+[]
+],
+[
+"Danish cheese",
+1,
+[]
+],
+[
+"cheese from Finland",
+1,
+[]
+],
+[
+"Hungarian cheese",
+1,
+[]
+],
+[
+"Indian cheese",
+1,
+[]
+],
+[
+"Norwegian cheese",
+1,
+[]
+],
+[
+"Peruvian cheese",
+1,
+[]
+],
+[
+"Romanian cheese",
+1,
+[]
+],
+[
+"Slovak cheese",
+1,
+[]
+],
+[
+"Swedish cheese",
+1,
+[
+"Swedish cheeses"
+]
+],
+[
+"vegetarian cheese",
+1,
+[]
+],
+[
+"Crucolo",
+1,
+[]
+],
+[
+"Arribes de Salamanca Cheese",
+1,
+[]
+],
+[
+"Sir Laurier d'Arthabaska",
+1,
+[]
+],
+[
+"Banbury cheese",
+1,
+[]
+],
+[
+"Biaslag",
+1,
+[]
+],
+[
+"Bratkäse",
+1,
+[]
+],
+[
+"rennet cheese",
+1,
+[]
+],
+[
+"pottekaas",
+0,
+[
+"pottekeis"
+]
+],
+[
+"plattekaas",
+0,
+[
+"maquée de Brabant",
+"plattekeis"
+]
+],
+[
+"hard cheese",
+0,
+[]
+],
+[
+"Accasciato",
+0,
+[]
+],
+[
+"Royal Hollandia",
+0,
+[]
+],
+[
+"Holland Master",
+0,
+[]
+],
+[
+"Slovenian cheese",
+0,
+[
+"Slovene cheese"
+]
+],
+[
+"Castelões",
+0,
+[
+"Queijo Castelões"
+]
+],
+[
+"Lanche",
+0,
+[
+"lancheira",
+"merenda",
+"merenda mista"
+]
+],
+[
+"semi-soft cheese",
+0,
+[]
+],
+[
+"Cantenaar",
+0,
+[]
+],
+[
+"Maigre du Nord",
+0,
+[]
+],
+[
+"Meule du Plateau",
+0,
+[]
+],
+[
+"extra-fat cheese",
+0,
+[
+"double cream cheese"
+]
+],
+[
+"fat cheese",
+0,
+[]
+],
+[
+"semi-fat cheese",
+0,
+[]
+],
+[
+"low-fat cheese",
+0,
+[]
+],
+[
+"skim milk cheese",
+0,
+[]
+],
+[
+"low-moisture cheese",
+0,
+[
+"hard cheese"
+]
+],
+[
+"medium-moisture cheese",
+0,
+[
+"semi-hard cheese"
+]
+],
+[
+"high-moisture cheese",
+0,
+[
+"soft cheese"
+]
+],
+[
+"Burrata di Andria PGI",
+0,
+[]
+],
+[
+"Caciottone di Norcia PGI",
+0,
+[]
+],
+[
+"Formaggio di Fossa di Sogliano PDO",
+0,
+[]
+],
+[
+"Gorgonzola PDO",
+0,
+[]
+],
+[
+"Montasio PDO",
+0,
+[]
+],
+[
+"Parmigiano Reggiano PDO",
+0,
+[]
+],
+[
+"Pecorino delle Balze Volterrane PDO",
+0,
+[]
+],
+[
+"Pecorino del Monte Poro PDO",
+0,
+[]
+],
+[
+"Pecorino di Picinisco PDO",
+0,
+[]
+],
+[
+"Pecorino Siciliano PDO",
+0,
+[]
+],
+[
+"Provola dei Nebrodi PDO",
+0,
+[]
+],
+[
+"Provolone Valpadana PDO",
+0,
+[]
+],
+[
+"Spretz Tzaorì PDO",
+0,
+[
+"Puzzone di Moena"
+]
+],
+[
+"Salva Cremasco PDO",
+0,
+[]
+],
+[
+"Stelvio o Stilfser PDO",
+0,
+[]
+],
+[
+"Brossa PAT",
+0,
+[]
+],
+[
+"Formaggio di capra a pasta molle PAT",
+0,
+[]
+],
+[
+"Formaggio di pecora o capra a pasta pressata PAT",
+0,
+[]
+],
+[
+"Formaggio misto PAT",
+0,
+[]
+],
+[
+"Reblec PAT",
+0,
+[]
+],
+[
+"Reblec de crama PAT",
+0,
+[]
+],
+[
+"Salignoùn PAT",
+0,
+[]
+],
+[
+"Séras PAT",
+0,
+[]
+],
+[
+"Toma di Gressoney PAT",
+0,
+[]
+],
+[
+"Bruzzo PAT",
+0,
+[
+"Brus",
+"Brussu",
+"della Valle Arroscia"
+]
+],
+[
+"Picurinu: tuma PAT",
+0,
+[
+"primosale",
+"secondo sale",
+"stagionato"
+]
+],
+[
+"Nostrano PAT",
+0,
+[
+"Nostrano “de casel",
+"Nostrano di malga",
+"Nostrano di Primiero"
+]
+],
+[
+"Formaggetta della Val Graveglia PAT",
+0,
+[
+"dell’alta Valle Scrivia",
+"dell’alta Valle Stura",
+"della Val di Vara",
+"di Bonassola",
+"di Vàise"
+]
+],
+[
+"Casu frazigu PAT",
+0,
+[
+"Casu becciu",
+"Casu fattittu",
+"Casu marzu",
+"Formaggio marcio",
+"Hasu muhidu"
+]
+],
+[
+"Casu axedu PAT",
+0,
+[
+"Bischidu",
+"Cagiadda",
+"Casàdu",
+"Casu agèru",
+"Casu e fitta",
+"Fiscidu",
+"Frua merca",
+"Frughe",
+"Fruhe",
+"Ischidu",
+"Latte cazàdu",
+"Latti callàu",
+"Piéta",
+"Préta",
+"Vischidàle",
+"Viscidu"
+]
+],
+[
+"Dutch cheese",
+0,
+[]
+],
+[
+"Italian cheese",
+0,
+[
+"Italian cheeses"
+]
+],
+[
+"camel-milk cheese",
+0,
+[
+"camel's-milk cheese"
+]
+],
+[
+"pasteurized milk cheese",
+0,
+[]
+],
+[
+"German cheese",
+0,
+[]
+],
+[
+"Goma cheese",
+0,
+[]
+],
+[
+"Spanish cheese",
+0,
+[]
+],
+[
+"Greek cheese",
+0,
+[
+"cheese of Greece"
+]
+],
+[
+"Austrian cheese",
+0,
+[
+"Austrian cheeses"
+]
+],
+[
+"Polish cheese",
+0,
+[]
+],
+[
+"Lithuanian cheese",
+0,
+[
+"Lithuanian cheeses"
+]
+],
+[
+"slice of cheese",
+0,
+[]
+],
+[
+"Gioddu",
+0,
+[]
 ]
 ]

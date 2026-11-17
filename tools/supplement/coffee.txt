@@ -40,3 +40,95 @@ Caramel Macchiato
 White Mocha
 Iced Latte
 Iced Americano
+Cafecito
+Greek Coffee
+Arabic Coffee
+Qahwa
+Ca Phe Sua Da
+Aeropress
+Percolator
+Chemex
+Siphon Coffee=vacuum coffee
+Instant Coffee
+Nescafe
+Folgers
+Cowboy Coffee
+Drip
+Mocha Java
+Kona Coffee
+Jamaica Blue Mountain
+Ethiopian Yirgacheffe
+Sumatra
+Colombian
+Arabica
+Robusta
+Liberica
+Excelsa
+Decaf
+Half Caff
+Iced Latte
+Iced Mocha
+Iced Americano
+Caramel Latte
+Vanilla Latte
+Hazelnut Latte
+Lavender Latte
+Honey Latte
+Oat Milk Latte
+Spanish Latte
+Breve Latte
+Skinny Latte
+London Fog
+Chai Latte
+Matcha Latte
+Golden Latte
+Babyccino
+Cortadito
+Café Bombón
+Café Touba
+Kaffeost
+Yuanyang
+Hong Kong Milk Coffee
+Kopi O
+Kopi C
+White Coffee
+Ipoh White Coffee
+Indian Filter Coffee
+Madras Coffee
+Mazagran
+Café Brûlot
+Café Royale
+Coffee Milk
+Coffee Soda
+Espresso Martini
+Mexican Mocha
+Café de Olla
+Café Miel
+Turkish Delight Latte
+Frappé
+Greek Frappé
+Freddo Espresso
+Freddo Cappuccino
+Shakerato
+Affogato al Caffè
+Ristretto Bianco
+Magic
+Long Macchiato
+Short Macchiato
+Café Noisette
+Café Crème
+Café Allongé
+Café Liégeois
+Wiener Melange
+Kleiner Brauner
+Großer Brauner
+Verlängerter
+Einspänner
+Pharisäer
+Kapuziner
+Fiaker
+Franziskaner
+Maria Theresia
+Kopi
+Kopi Luwak
+Kopi Tubruk

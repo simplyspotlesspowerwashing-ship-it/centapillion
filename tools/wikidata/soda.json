@@ -1,586 +1,1513 @@
 [
 [
 "carbonated water",
-70
+70,
+[
+"aerated water",
+"aerated waters",
+"club soda",
+"cool water",
+"fizzy water",
+"seltzer water",
+"soda water",
+"sparkling water"
+]
 ],
 [
 "energy drink",
-68
+68,
+[
+"Energy Drinks",
+"stimulant drink"
+]
 ],
 [
 "kefir",
-64
+64,
+[
+"bulgaros",
+"búlgaros",
+"keefir",
+"kefier",
+"Kephir",
+"milk kefir"
+]
 ],
 [
 "Sprite",
-61
+61,
+[
+"Sprite (drink)"
+]
 ],
 [
 "tonic water",
-53
+53,
+[
+"Indian tonic water"
+]
 ],
 [
 "iced tea",
-52
+52,
+[
+"ice tea"
+]
 ],
 [
 "7 Up",
-48
+48,
+[
+"7up",
+"7-Up",
+"7Up",
+"7up.com",
+"Seven Up",
+"SevenUp"
+]
 ],
 [
 "kombucha",
-48
+48,
+[
+"Kombuchas",
+"kombucha tea"
+]
 ],
 [
 "Mountain Dew",
-46
+46,
+[
+"Dew"
+]
 ],
 [
 "Schweppes",
-44
+44,
+[]
 ],
 [
 "Dr Pepper",
-40
+40,
+[
+"Dr. Pepper"
+]
 ],
 [
 "ginger ale",
-32
+32,
+[]
 ],
 [
 "root beer",
-31
+31,
+[]
 ],
 [
 "Irn-Bru",
-30
+30,
+[
+"Irn Bru"
+]
 ],
 [
 "ramune",
-26
+26,
+[]
 ],
 [
 "Inca Kola",
-25
+25,
+[
+"the Golden kola"
+]
 ],
 [
 "julmust",
-24
+24,
+[]
 ],
 [
 "Tarhun",
-23
+23,
+[]
 ],
 [
 "cream soda",
-22
+22,
+[]
 ],
 [
 "Baikal",
-19
+19,
+[]
 ],
 [
 "fermented milk product",
-19
+19,
+[
+"cultured dairy foods",
+"cultured dairy product",
+"cultured milk product",
+"fermented milk products"
+]
 ],
 [
 "ice cream float",
-17
+17,
+[
+"coke float",
+"float",
+"ice cream soda",
+"snowball",
+"spider"
+]
 ],
 [
 "Afri-Cola",
-16
+16,
+[]
 ],
 [
 "Canada Dry",
-16
+16,
+[]
 ],
 [
 "Teh Talua",
-15
+15,
+[
+"Teh Telur"
+]
 ],
 [
 "White Coke",
-15
+15,
+[]
 ],
 [
 "Spezi",
-14
+14,
+[]
 ],
 [
 "Mezzo Mix",
-14
+14,
+[
+"mezzo mix"
+]
 ],
 [
 "Sirap Bandung",
-14
+14,
+[
+"Air Sirap Bandong",
+"Air Sirap Bandung",
+"Bandong",
+"Bandung drink originating from Johor",
+"bandung meaning pair,twin and combine in Malay langguange or Malaysia langguange it same like Mee bandung",
+"Sirap Bandong"
+]
 ],
 [
 "Fresca",
-13
+13,
+[]
 ],
 [
 "malt beer",
-12
+12,
+[
+"malt"
+]
 ],
 [
 "guaraná",
-11
+11,
+[]
 ],
 [
 "Vimto",
-11
+11,
+[]
 ],
 [
 "Pommac",
-11
+11,
+[]
 ],
 [
 "Ribena",
-11
+11,
+[]
 ],
 [
 "Kas",
-11
+11,
+[
+"Kas drink",
+"Pepsi Kas"
+]
 ],
 [
 "Sarsaparilla",
-11
+11,
+[]
 ],
 [
 "Lucozade",
-10
+10,
+[]
 ],
 [
 "Faxe Kondi",
-10
+10,
+[]
 ],
 [
 "Cajuína",
-10
+10,
+[
+"Cajuina"
+]
 ],
 [
 "Mello Yello",
-10
+10,
+[]
 ],
 [
 "Pakola",
-10
+10,
+[]
 ],
 [
 "Vinea",
-9
+9,
+[]
 ],
 [
 "Kola Real",
-9
+9,
+[
+"Big Cola",
+"KR",
+"Real Cola"
+]
 ],
 [
 "Cuba Cola",
-9
+9,
+[]
 ],
 [
 "Crystal Pepsi",
-9
+9,
+[]
 ],
 [
 "diet soda",
-9
+9,
+[
+"diet drink",
+"diet soft drink"
+]
 ],
 [
 "Duchess",
-9
+9,
+[]
 ],
 [
 "Cappy",
-9
+9,
+[]
 ],
 [
 "Solo",
-9
+9,
+[]
 ],
 [
 "Crush",
-9
+9,
+[
+"Crush (drink)",
+"Orange Crush"
+]
 ],
 [
 "C.C. Lemon",
-8
+8,
+[]
 ],
 [
 "Lift",
-8
+8,
+[]
 ],
 [
 "Coca-Cola with Lemon",
-8
+8,
+[]
 ],
 [
 "Trocadero",
-8
+8,
+[]
 ],
 [
 "Green Spot",
-8
+8,
+[]
 ],
 [
 "Jarritos",
-8
+8,
+[]
 ],
 [
 "Barq's",
-8
+8,
+[
+"Barq's Brothers Bottling Company",
+"Barq's root beer"
+]
 ],
 [
 "Ice Peak",
-7
+7,
+[]
 ],
 [
 "Moxie",
-7
+7,
+[]
 ],
 [
 "Pepsi Raw",
-7
+7,
+[
+"Pepsi RAW",
+"PEPSI RAW"
+]
 ],
 [
 "Ambasa",
-7
+7,
+[]
 ],
 [
 "Guaraná Jesus",
-7
+7,
+[
+"Guarana Jesus"
+]
 ],
 [
 "Sprite Zero",
-7
+7,
+[]
 ],
 [
 "Coca Colla",
-6
+6,
+[]
 ],
 [
 "Bireley's",
-6
+6,
+[]
 ],
 [
 "Bluna",
-6
+6,
+[]
 ],
 [
 "Cucumber soda",
-6
+6,
+[]
 ],
 [
 "birch beer",
-6
+6,
+[]
 ],
 [
 "julebrus",
-6
+6,
+[
+"jolebrus"
+]
 ],
 [
 "Lilt",
-6
+6,
+[]
 ],
 [
 "Sierra Mist",
-6
+6,
+[
+"Mist Twist",
+"Mist Twst"
+]
 ],
 [
 "Laranjada",
-6
+6,
+[]
 ],
 [
 "Kuat",
-6
+6,
+[]
 ],
 [
 "Tango",
-6
+6,
+[]
 ],
 [
 "Dandelion and burdock",
-6
+6,
+[]
 ],
 [
 "Surge",
-6
+6,
+[]
 ],
 [
 "Banta",
-6
+6,
+[
+"Goli Soda"
+]
 ],
 [
 "Slice",
-6
+6,
+[
+"Slice (drink)",
+"Slice juice"
+]
 ],
 [
 "Milkis",
-6
+6,
+[]
 ],
 [
 "Kickapoo Joy Juice",
-5
+5,
+[]
 ],
 [
 "Skiwasser",
-5
+5,
+[]
 ],
 [
 "Faygo",
-5
+5,
+[
+"Faygo Beverage",
+"Faygo soda",
+"Faygo soft drink"
+]
 ],
 [
 "Hawaï",
-5
+5,
+[]
 ],
 [
 "Sidral Mundet",
-5
+5,
+[]
 ],
 [
 "Sparletta",
-5
+5,
+[]
 ],
 [
 "Big Red",
-5
+5,
+[]
 ],
 [
 "Cidona",
-5
+5,
+[]
 ],
 [
 "Gold Spot",
-5
+5,
+[]
 ],
 [
 "Hires Root Beer",
-5
+5,
+[]
 ],
 [
 "Spiro Spathis",
-5
+5,
+[]
 ],
 [
 "Mitsuya Cider",
-5
+5,
+[
+"Mitsuya Cider with squeezed lemon"
+]
 ],
 [
 "Malta",
-4
+4,
+[]
 ],
 [
 "Hydrox Corporation",
-4
+4,
+[
+"Hydrox Company"
+]
 ],
 [
 "Vivi Kola",
-4
+4,
+[
+"VIVI Kola"
+]
 ],
 [
 "Premium-Cola",
-4
+4,
+[]
 ],
 [
 "Jolly Shandy",
-4
+4,
+[]
 ],
 [
 "spuma",
-4
+4,
+[]
 ],
 [
 "BAWLS Guarana",
-4
+4,
+[]
 ],
 [
 "Citrus Blast",
-4
+4,
+[]
 ],
 [
 "Caffeine-Free Pepsi",
-4
+4,
+[
+"Caffeine free Pepsi",
+"Pepsi Caffeine free"
+]
 ],
 [
 "Cheerwine",
-4
+4,
+[]
 ],
 [
 "Paso de los Toros",
-4
+4,
+[]
 ],
 [
 "Jaffa",
-4
+4,
+[]
 ],
 [
 "Morir Soñando",
-4
+4,
+[]
 ],
 [
 "Nehi",
-4
+4,
+[]
 ],
 [
 "Oro",
-4
+4,
+[]
 ],
 [
 "Smart",
-4
+4,
+[]
 ],
 [
 "Stewart's Fountain Classics",
-4
+4,
+[]
 ],
 [
 "Vault",
-4
+4,
+[]
 ],
 [
 "Vernors",
-4
+4,
+[]
 ],
 [
 "Big Cola",
-4
+4,
+[
+"BIG COLA"
+]
 ],
 [
 "Oasis",
-4
-],
-[
-"Tizer",
-3
-],
-[
-"melon soda",
-3
-],
-[
-"Asina",
-3
-],
-[
-"Salpicón de frutas",
-3
-],
-[
-"lime cordial",
-3
-],
-[
-"Frucade",
-3
-],
-[
-"Egils Appelsín",
-3
-],
-[
-"Bacon soda",
-3
-],
-[
-"LA Ice Cola",
-3
-],
-[
-"MoleCola",
-3
-],
-[
-"Champis",
-3
-],
-[
-"Coca Sek",
-3
-],
-[
-"Gini",
-3
-],
-[
-"Zingo",
-3
-],
-[
-"Ale-8-One",
-3
-],
-[
-"Artos",
-3
-],
-[
-"Cactus Cooler",
-3
-],
-[
-"Cheerio",
-3
-],
-[
-"Cherryade",
-3
-],
-[
-"Duke's Lemonade",
-3
-],
-[
-"Grapette",
-3
-],
-[
-"gazzosa al caffè",
-3
+4,
+[]
 ],
 [
 "Portello",
-3
+3,
+[]
+],
+[
+"Tizer",
+3,
+[]
+],
+[
+"melon soda",
+3,
+[]
+],
+[
+"Asina",
+3,
+[]
+],
+[
+"Salpicón de frutas",
+3,
+[
+"Colombian fruit cocktail",
+"Cumbalazo",
+"Salpicón",
+"Salpicón (bebida)",
+"Salpicón de Baudilia",
+"Salpicón payanés"
+]
+],
+[
+"lime cordial",
+3,
+[]
+],
+[
+"Frucade",
+3,
+[]
+],
+[
+"Egils Appelsín",
+3,
+[]
+],
+[
+"Bacon soda",
+3,
+[]
+],
+[
+"LA Ice Cola",
+3,
+[]
+],
+[
+"MoleCola",
+3,
+[
+"Molecola",
+"Mole-Cola"
+]
+],
+[
+"Champis",
+3,
+[]
+],
+[
+"Coca Sek",
+3,
+[]
+],
+[
+"Gini",
+3,
+[]
+],
+[
+"Zingo",
+3,
+[]
+],
+[
+"Ale-8-One",
+3,
+[
+"Ale-8"
+]
+],
+[
+"Artos",
+3,
+[]
+],
+[
+"Cactus Cooler",
+3,
+[]
+],
+[
+"Cheerio",
+3,
+[]
+],
+[
+"Cherryade",
+3,
+[]
+],
+[
+"Duke's Lemonade",
+3,
+[]
+],
+[
+"Grapette",
+3,
+[]
+],
+[
+"gazzosa al caffè",
+3,
+[]
 ],
 [
 "Quatro",
-3
+3,
+[]
 ],
 [
 "Ski",
-3
+3,
+[]
 ],
 [
 "Sosyo",
-3
+3,
+[]
 ],
 [
 "Squirt",
-3
+3,
+[
+"Squirt soda"
+]
 ],
 [
 "Sun Drop",
-3
+3,
+[
+"Sundrop"
+]
 ],
 [
 "Tanora",
-3
+3,
+[]
 ],
 [
 "Ting",
-3
+3,
+[]
 ],
 [
 "ToniCol",
-3
+3,
+[]
 ],
 [
 "Urge",
-3
+3,
+[]
 ],
 [
 "Vess",
-3
+3,
+[]
+],
+[
+"Red lemonade",
+2,
+[]
+],
+[
+"clear cola",
+2,
+[]
+],
+[
+"Gabu Gabu!",
+2,
+[]
+],
+[
+"Kem",
+2,
+[]
+],
+[
+"Dayao",
+2,
+[]
+],
+[
+"Mojo (sort drink)",
+2,
+[]
+],
+[
+"La Cigogne",
+2,
+[]
+],
+[
+"Malta (soft drink)",
+2,
+[]
+],
+[
+"Double Seven",
+2,
+[]
+],
+[
+"Goombay Punch",
+2,
+[]
+],
+[
+"Exota",
+2,
+[]
+],
+[
+"Double Cola",
+2,
+[]
+],
+[
+"Oranżada",
+2,
+[]
+],
+[
+"Ginger",
+2,
+[]
+],
+[
+"Liégeois",
+2,
+[
+"Liegeois"
+]
+],
+[
+"50/50",
+2,
+[]
+],
+[
+"Ameyal",
+2,
+[]
+],
+[
+"Villa",
+2,
+[]
+],
+[
+"Baghdad Soft Drinks Co",
+2,
+[]
+],
+[
+"Beverly",
+2,
+[]
+],
+[
+"Canfield's Diet Chocolate Fudge",
+2,
+[]
+],
+[
+"Dr. Brown's",
+2,
+[]
+],
+[
+"Dublin Dr Pepper",
+2,
+[]
+],
+[
+"Fanta Citrus",
+2,
+[]
+],
+[
+"Foxton Fizz",
+2,
+[]
+],
+[
+"Craft soda",
+2,
+[
+"Artisanal lemonade"
+]
+],
+[
+"Niğde Gazozu",
+2,
+[
+"Niğde gazozu"
+]
+],
+[
+"Çamlıca",
+2,
+[]
+],
+[
+"Itubaína",
+2,
+[
+"Itubaina"
+]
+],
+[
+"Sidra Pino",
+2,
+[]
+],
+[
+"Kelluke",
+2,
+[]
+],
+[
+"Lemon Sour",
+2,
+[]
+],
+[
+"Lorina",
+2,
+[]
+],
+[
+"Match",
+2,
+[]
+],
+[
+"Nordic Mist",
+2,
+[]
+],
+[
+"Robinsons",
+2,
+[]
+],
+[
+"Rondo",
+2,
+[]
+],
+[
+"Tuborg Squash",
+2,
+[]
+],
+[
+"Aurinko Jaffa",
+1,
+[]
+],
+[
+"Päronsoda",
+1,
+[]
+],
+[
+"Shio",
+1,
+[]
+],
+[
+"Kokojoo",
+1,
+[]
+],
+[
+"C1000",
+1,
+[
+"C1000 Takeda"
+]
+],
+[
+"Gazosa La Fiorenzana",
+1,
+[]
+],
+[
+"Mozell",
+1,
+[]
+],
+[
+"Dororich",
+1,
+[]
+],
+[
+"Fanta Exotic Thrill",
+1,
+[]
+],
+[
+"Fanta Free Orange",
+1,
+[]
+],
+[
+"Fanta Free Pineapple",
+1,
+[]
+],
+[
+"Inka",
+1,
+[]
+],
+[
+"Nara",
+1,
+[]
+],
+[
+"cedrata",
+1,
+[]
+],
+[
+"Ifri Gazouz",
+1,
+[
+"Ifri Soda"
+]
+],
+[
+"Judor",
+1,
+[]
+],
+[
+"Paulaner Sunset",
+1,
+[]
+],
+[
+"Krest",
+1,
+[]
+],
+[
+"Nesbitt's",
+1,
+[]
+],
+[
+"Frisco",
+1,
+[]
+],
+[
+"CoolCola",
+1,
+[]
+],
+[
+"Fruktsjimpanse",
+1,
+[
+"Frukt-champagne"
+]
+],
+[
+"Jupiña",
+1,
+[]
+],
+[
+"Josta",
+1,
+[]
+],
+[
+"Hamar og Lillehammer julebrus",
+1,
+[]
+],
+[
+"Moomin (soft drink)",
+1,
+[]
+],
+[
+"Tropo",
+1,
+[]
+],
+[
+"3ES",
+1,
+[]
+],
+[
+"herbal soda",
+1,
+[
+"herbal soft drink"
+]
+],
+[
+"raspberry soft drink",
+1,
+[
+"raspberryade",
+"raspberry pop",
+"raspberry soda"
+]
+],
+[
+"Colombiana",
+1,
+[]
+],
+[
+"Brasilena",
+1,
+[]
+],
+[
+"Coca-Cola M5",
+1,
+[]
+],
+[
+"Burple",
+1,
+[]
+],
+[
+"Club",
+1,
+[]
+],
+[
+"Cola Lacaye",
+1,
+[]
+],
+[
+"dnL",
+1,
+[]
+],
+[
+"Fitz's",
+1,
+[]
+],
+[
+"Brio",
+1,
+[]
+],
+[
+"citrus soda",
+1,
+[
+"citrus soft drink"
+]
+],
+[
+"grape soda",
+1,
+[
+"grape drink"
+]
+],
+[
+"Highway",
+1,
+[]
+],
+[
+"Cunnington",
+1,
+[]
+],
+[
+"refreshing drink",
+1,
+[
+"refreshment"
+]
+],
+[
+"Altay",
+1,
+[]
+],
+[
+"Horehound beer",
+1,
+[]
+],
+[
+"Royal Club",
+1,
+[]
+],
+[
+"Elvan",
+1,
+[]
+],
+[
+"Ironbeer",
+1,
+[]
+],
+[
+"Bigg Apple",
+1,
+[
+"Big Apple"
+]
+],
+[
+"Red Anaar",
+1,
+[]
+],
+[
+"Kick",
+1,
+[]
+],
+[
+"Lattella",
+1,
+[]
+],
+[
+"Purdey's",
+1,
+[]
+],
+[
+"Shloer",
+1,
+[]
+],
+[
+"Sioux City sarsaparilla",
+1,
+[]
+],
+[
+"Storm",
+1,
+[]
+],
+[
+"Sun Crest",
+1,
+[]
+],
+[
+"Suso",
+1,
+[]
+],
+[
+"Tiky",
+1,
+[]
+],
+[
+"Triple XXX",
+1,
+[]
+],
+[
+"VegitaBeta",
+1,
+[]
+],
+[
+"Brause",
+1,
+[]
+],
+[
+"Planet Pulp",
+1,
+[
+"Pulp",
+"Pulp Paraguay"
+]
+],
+[
+"Schweppes Russian Wild Berry",
+0,
+[]
+],
+[
+"mate based soft drink",
+0,
+[]
+],
+[
+"Sanpellegrino sparkling drink",
+0,
+[]
+],
+[
+"caffeinated soft drink",
+0,
+[]
+],
+[
+"Ifri Cola",
+0,
+[]
+],
+[
+"Fanta Orange",
+0,
+[]
+],
+[
+"Warheads Sour Soda",
+0,
+[]
+],
+[
+"Jolly Rancher Tropical Tremor Fruit Punch",
+0,
+[]
+],
+[
+"Jolly Rancher Soda",
+0,
+[]
+],
+[
+"Jolly Rancher Tropical Tremor Kiwi Strawberry",
+0,
+[]
+],
+[
+"Jolly Rancher Tropical Tremor Lime Punch",
+0,
+[]
+],
+[
+"Jolly Rancher Tropical Tremor Mountain Berry",
+0,
+[]
+],
+[
+"Ocean Water",
+0,
+[]
+],
+[
+"Kinza",
+0,
+[]
+],
+[
+"Τσιτσιμπύρα",
+0,
+[
+"Τσιτσιμπίρα ή Τσιτσιμπύρα ή Ginger beer"
+]
+],
+[
+"gengibirra",
+0,
+[
+"Brazilian ginger ale"
+]
+],
+[
+"guarana soft drink",
+0,
+[
+"guarana soda"
+]
+],
+[
+"pineapple spear",
+0,
+[]
+],
+[
+"Trio",
+0,
+[]
+],
+[
+"Tuvunu",
+0,
+[
+"Tuvunu S.A.",
+"Tuvunu SA"
+]
 ]
 ]

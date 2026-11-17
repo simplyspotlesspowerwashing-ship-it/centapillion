@@ -1,586 +1,1459 @@
 [
 [
 "cheeseburger",
-50
+50,
+[]
 ],
 [
 "gyros",
-45
+45,
+[
+"gyro"
+]
 ],
 [
 "panini",
-37
+37,
+[
+"grilled sandwich",
+"Italian sandwich",
+"panini sandwich"
+]
 ],
 [
 "zapiekanka",
-34
+34,
+[]
 ],
 [
 "open sandwich",
-34
+34,
+[
+"bread baser",
+"open faced sandwich",
+"open face sandwich",
+"Smörgås",
+"tartine"
+]
 ],
 [
 "corn dog",
-33
+33,
+[
+"corndog"
+]
 ],
 [
 "club sandwich",
-29
+29,
+[
+"clubhouse sandwich"
+]
 ],
 [
 "wrap",
-28
+28,
+[
+"roll",
+"tunnbrödsrulle"
+]
 ],
 [
 "Vada pav",
-28
+28,
+[
+"batata vada pav",
+"batata wada pav",
+"Bombay Burger",
+"Pao Vada",
+"Pao Wada",
+"Pav Vada",
+"Pav Wada",
+"Vada pao",
+"vadapav",
+"Wada pao",
+"wadapav",
+"Wada pav"
+]
 ],
 [
 "Francesinha",
-25
+25,
+[]
 ],
 [
 "peanut butter and jelly sandwich",
-24
+24,
+[
+"PB&J",
+"peanut butter and jam sandwich",
+"peanut butter & jam sandwich",
+"peanut butter & jelly sandwich"
+]
 ],
 [
 "cheesesteak",
-22
+22,
+[
+"cheese steak",
+"cheesesteak sandwich",
+"Philadelphia cheesesteak",
+"Philly cheesesteak",
+"steak and cheese"
+]
 ],
 [
 "Chivito",
-22
+22,
+[]
 ],
 [
 "mitraillette",
-22
+22,
+[
+"Américain"
+]
 ],
 [
 "toast sandwich",
-22
+22,
+[]
 ],
 [
 "po' boy",
-20
+20,
+[
+"po boy",
+"po-boy"
+]
 ],
 [
 "Reuben sandwich",
-19
-],
-[
-"Cuban sandwich",
-17
+19,
+[]
 ],
 [
 "Fischbrötchen",
-17
+17,
+[]
+],
+[
+"Cuban sandwich",
+17,
+[
+"Cuban mix",
+"Cuban pressed sandwich",
+"mixto"
+]
 ],
 [
 "fluffernutter",
-16
+16,
+[
+"liberty sandwich"
+]
 ],
 [
 "calamari sandwich",
-16
+16,
+[
+"Fried squid sandwich"
+]
 ],
 [
 "gua-bao",
-15
+15,
+[
+"bao",
+"bao bun",
+"cuápao",
+"koah-pau",
+"kong bak pau",
+"kuah-pau",
+"kuwapaw",
+"pork belly bun",
+"Taiwanese hamburger"
+]
 ],
 [
 "Barros Luco",
-15
+15,
+[]
 ],
 [
 "Carrozza",
-15
+15,
+[
+"Carrozza sandwich",
+"mozzarella in carrozza"
+]
 ],
 [
 "Bauru",
-15
+15,
+[
+"Bauru (sandwich)"
+]
 ],
 [
 "pan-bagnat",
-15
+15,
+[
+"pan bagnat"
+]
 ],
 [
 "rice burger",
-15
+15,
+[
+"riceburger"
+]
 ],
 [
 "balık ekmek",
-14
+14,
+[]
 ],
 [
 "choripán",
-14
+14,
+[]
 ],
 [
 "McRib",
-14
+14,
+[]
 ],
 [
 "Bosna",
-14
+14,
+[]
 ],
 [
 "cucumber sandwich",
-14
+14,
+[]
 ],
 [
 "Gatsby",
-13
+13,
+[]
 ],
 [
 "peanut butter, banana and bacon sandwich",
-13
+13,
+[
+"Elvis sandwich"
+]
 ],
 [
 "lobster roll",
-13
+13,
+[]
 ],
 [
 "egg sandwich",
-13
+13,
+[]
 ],
 [
 "breakfast sandwich",
-12
+12,
+[]
 ],
 [
 "Dagwood sandwich",
-12
+12,
+[
+"Dagwood"
+]
 ],
 [
 "Fool's Gold Loaf",
-12
+12,
+[]
 ],
 [
 "chicken sandwich",
-11
+11,
+[]
 ],
 [
 "Tramezzino",
-11
+11,
+[]
 ],
 [
 "Dabeli",
-11
+11,
+[
+"Kutchi dabeli",
+"Kutchi double rotii"
+]
 ],
 [
 "donkey burger",
-11
+11,
+[
+"donkey sandwich",
+"lurou huoshao",
+"lǘròu huǒshāo",
+"lvrou huoshao",
+"lyurou huoshao"
+]
 ],
 [
 "Hot Brown",
-11
+11,
+[
+"Hot Brown Sandwich"
+]
 ],
 [
 "tea sandwich",
-11
+11,
+[
+"finger sandwich"
+]
 ],
 [
 "Afghani burger",
-10
+10,
+[]
 ],
 [
 "chip butty",
-10
+10,
+[]
 ],
 [
 "slider",
-10
+10,
+[]
 ],
 [
 "breakfast roll",
-10
+10,
+[
+"full Irish breakfast roll"
+]
 ],
 [
 "bifana",
-10
+10,
+[]
 ],
 [
 "tomato sandwich",
-9
+9,
+[]
 ],
 [
 "French dip sandwich",
-9
+9,
+[
+"Au Jus Sandwich",
+"Roast Beef Au Jus,"
+]
 ],
 [
 "katsu sandwich",
-9
+9,
+[
+"katsu-sando",
+"katsusando"
+]
 ],
 [
 "bun kebab",
-9
+9,
+[
+"anda shami"
+]
 ],
 [
 "Chacarero",
-9
+9,
+[]
 ],
 [
 "Strammer Max",
-9
+9,
+[]
 ],
 [
 "tongue toast",
-9
+9,
+[]
 ],
 [
 "fried-brain sandwich",
-9
+9,
+[]
 ],
 [
 "horseshoe sandwich",
-9
+9,
+[]
 ],
 [
 "Pepito",
-9
+9,
+[]
 ],
 [
 "chicken fillet roll",
-8
+8,
+[
+"chicken roll"
+]
 ],
 [
 "Bondiola sandwich",
-8
+8,
+[]
 ],
 [
 "Bombay sandwich",
-8
+8,
+[]
 ],
 [
 "Sol over Gudhjem",
-8
+8,
+[]
 ],
 [
 "Denver sandwich",
-8
+8,
+[
+"Western sandwich"
+]
 ],
 [
 "baked bean sandwich",
-8
+8,
+[]
 ],
 [
 "Montreal-style smoked meat",
-8
+8,
+[
+"Montreal smoked meat",
+"Montreal-style pastrami",
+"smoked meat"
+]
 ],
 [
 "doubles",
-8
+8,
+[]
 ],
 [
 "fish finger sandwich",
-8
+8,
+[]
 ],
 [
 "jibarito",
-8
+8,
+[]
 ],
 [
 "Torta Ahogada",
-8
+8,
+[]
 ],
 [
 "Porilainen",
-8
+8,
+[]
 ],
 [
 "Cemita",
-7
+7,
+[
+"Cema",
+"Sema",
+"Semita"
+]
 ],
 [
 "roti",
-7
+7,
+[
+"wrap roti"
+]
 ],
 [
 "spaghetti sandwich",
-7
+7,
+[
+"spaghetti jaffle"
+]
 ],
 [
 "Shooter's sandwich",
-7
+7,
+[]
 ],
 [
 "kumru",
-7
+7,
+[]
 ],
 [
 "beef on weck",
-7
+7,
+[
+"beef on weck sandwich",
+"beef on wick",
+"beef on wick sandwich"
+]
 ],
 [
 "Guajolota",
-7
+7,
+[]
 ],
 [
 "pambazo",
-7
+7,
+[]
 ],
 [
 "melt sandwich",
-7
+7,
+[]
 ],
 [
 "sausage sandwich",
-7
+7,
+[]
 ],
 [
 "pork chop bun",
-7
+7,
+[]
 ],
 [
 "Bake and Shark",
-6
+6,
+[]
 ],
 [
 "medianoche",
-6
+6,
+[]
 ],
 [
 "New Jersey sloppy joe",
-6
+6,
+[
+"sloppy joe",
+"Sloppy joe"
+]
 ],
 [
 "Spatlo",
-6
+6,
+[]
 ],
 [
 "sandwich loaf",
-6
+6,
+[]
 ],
 [
 "barbecue sandwich",
-6
+6,
+[]
 ],
 [
 "Cheese and pickle sandwich",
-6
+6,
+[]
 ],
 [
 "McArabia",
-6
+6,
+[
+"McKebab",
+"McOriental",
+"McTurco"
+]
 ],
 [
 "Thanksgiving sandwich",
-6
+6,
+[
+"Gobbler",
+"Pilgrim",
+"Puritan"
+]
 ],
 [
 "vegetable sandwich",
-6
+6,
+[
+"veggie sandwich"
+]
 ],
 [
 "Ayvalık tostu",
-6
+6,
+[
+"Ayvalık toast"
+]
 ],
 [
 "Kottenbutter",
-6
+6,
+[
+"Kottenbotter"
+]
 ],
 [
 "fruit sandwich",
-5
-],
+5,
 [
-"pastrami on rye",
-5
-],
-[
-"Maxwell Street Polish",
-5
-],
-[
-"Wurstbrot",
-5
+"fruit sando"
+]
 ],
 [
 "Trancapecho",
-5
+5,
+[]
+],
+[
+"pastrami on rye",
+5,
+[
+"pastrami sandwich"
+]
+],
+[
+"Maxwell Street Polish",
+5,
+[]
+],
+[
+"Wurstbrot",
+5,
+[]
 ],
 [
 "Bokit",
-5
+5,
+[]
 ],
 [
 "chow mein sandwich",
-5
+5,
+[]
 ],
 [
 "Sándwich de milanesa",
-5
+5,
+[
+"Sandwich de milanesa"
+]
 ],
 [
 "butifarra",
-5
+5,
+[
+"jamón del país sandwich"
+]
 ],
 [
 "Barros Jarpa",
-5
+5,
+[]
 ],
 [
 "mortadella sandwich",
-5
+5,
+[]
 ],
 [
 "pocket sandwich",
-5
+5,
+[]
 ],
 [
 "Khao Jee Pâté",
-5
+5,
+[
+"Lao bánh mì",
+"Laotian bánh mì"
+]
 ],
 [
 "Sincronizada",
-5
+5,
+[]
 ],
 [
 "patso",
-4
+4,
+[]
 ],
 [
 "bread and dripping",
-4
+4,
+[
+"larded bread"
+]
 ],
 [
 "Sailor sandwich",
-4
+4,
+[]
 ],
 [
 "Cudighi",
-4
+4,
+[]
 ],
 [
 "Goralı",
-4
+4,
+[]
 ],
 [
 "pebete",
-4
+4,
+[]
 ],
 [
 "prawn roll",
-4
+4,
+[]
 ],
 [
 "doughnut sandwich",
-4
+4,
+[]
 ],
 [
 "lettuce sandwich",
-4
+4,
+[]
 ],
 [
 "prego",
-3
+3,
+[
+"Prego",
+"prego no pão",
+"prego no prato"
+]
 ],
 [
 "gilgeori toast",
-3
+3,
+[
+"Korean street toast"
+]
 ],
 [
 "toasted sandwich",
-3
+3,
+[
+"toastie"
+]
 ],
 [
 "casse-croûte",
-3
+3,
+[
+"casse-croute",
+"snack"
+]
 ],
 [
 "Pan con chicharrón",
-3
+3,
+[]
 ],
 [
 "torta",
-3
+3,
+[
+"Lonche"
+]
 ],
 [
 "x caboquinho",
-3
+3,
+[
+"x-caboquinho"
+]
 ],
 [
 "Broodje gezond",
-3
+3,
+[]
 ],
 [
 "jam sandwich",
-3
+3,
+[]
 ],
 [
 "Chola sandwich",
-3
+3,
+[]
 ],
 [
 "Gracoro",
-2
+2,
+[]
 ],
 [
 "Xis",
-2
+2,
+[]
 ],
 [
 "Lunch Pack",
-2
+2,
+[]
 ],
 [
 "Camel rider",
-2
+2,
+[]
 ],
 [
 "Conti roll",
-2
+2,
+[
+"continental roll"
+]
 ],
 [
 "steak sandwich",
-2
+2,
+[]
 ],
 [
 "Tamago Sando",
-2
+2,
+[]
 ],
 [
 "Churrasco marino",
-2
+2,
+[]
 ],
 [
 "sandwich américain",
-2
+2,
+[]
 ],
 [
 "Limburger sandwich",
-2
+2,
+[]
 ],
 [
 "cheese and tomato sandwich",
-2
+2,
+[]
 ],
 [
 "Fries-omelet sandwich",
-2
+2,
+[]
 ],
 [
 "chopped cheese",
-2
+2,
+[
+"chop cheese"
+]
 ],
 [
 "chocolate sandwich",
-2
+2,
+[]
 ],
 [
 "crab cake sandwich",
-2
+2,
+[]
 ],
 [
 "lomito",
-2
+2,
+[
+"loin sandwich"
+]
 ],
 [
 "Redonkadonk",
-2
+2,
+[]
 ],
 [
 "peanut butter sandwich",
-2
+2,
+[]
+],
+[
+"Skefkef",
+1,
+[
+"Khanz u Bnin",
+"Khanz w Bnin"
+]
+],
+[
+"BLAT",
+1,
+[
+"bacon, lettuce, avocado, and tomato",
+"bacon, lettuce, avocado, and tomato sandwich",
+"B.L.A.T.",
+"BLAT sandwich"
+]
+],
+[
+"Elena Ruz",
+1,
+[
+"Elena Ruz sandwich"
+]
+],
+[
+"burger",
+1,
+[]
+],
+[
+"roll with sliced sausage",
+1,
+[
+"sausage roll"
+]
+],
+[
+"anko and butter sandwich",
+1,
+[]
+],
+[
+"kroket sandwich",
+1,
+[
+"croquette sandwich"
+]
+],
+[
+"Widerbergare",
+1,
+[]
+],
+[
+"sándwich York",
+1,
+[]
+],
+[
+"Chemilico",
+1,
+[]
+],
+[
+"Pagnotta alla disgraziata PAT",
+1,
+[]
+],
+[
+"Karlsbader Schnitte",
+1,
+[]
+],
+[
+"Doughwich",
+1,
+[]
+],
+[
+"sanuki udon burger",
+1,
+[]
+],
+[
+"Har cheong gai burger",
+1,
+[]
+],
+[
+"McBaguette",
+1,
+[]
+],
+[
+"Deli Choices",
+1,
+[]
+],
+[
+"Aliado",
+1,
+[]
+],
+[
+"pistolette",
+1,
+[]
+],
+[
+"panino con porchetta",
+1,
+[
+"porchetta panini"
+]
+],
+[
+"shrimp po' boy",
+1,
+[]
+],
+[
+"alligator po' boy",
+1,
+[]
+],
+[
+"sandwich",
+0,
+[]
+],
+[
+"jiamo",
+0,
+[]
+],
+[
+"Albuquerque turkey",
+0,
+[]
+],
+[
+"frikandel sandwich",
+0,
+[]
+],
+[
+"churrasco",
+0,
+[]
+],
+[
+"Awesome Onion",
+0,
+[]
+],
+[
+"Beef Buster",
+0,
+[]
+],
+[
+"Bird Buster",
+0,
+[]
+],
+[
+"Blazin' Beef",
+0,
+[]
+],
+[
+"Butterbrezel",
+0,
+[]
+],
+[
+"Cheesy BLT",
+0,
+[]
+],
+[
+"Cheesy Chick",
+0,
+[]
+],
+[
+"Classic Club",
+0,
+[]
+],
+[
+"Classic Cuban",
+0,
+[]
+],
+[
+"Cluck and Onion",
+0,
+[]
+],
+[
+"Cordon Bleu",
+0,
+[]
+],
+[
+"Fiery Flatbread",
+0,
+[]
+],
+[
+"Gobbledy Gouda",
+0,
+[]
+],
+[
+"Gorgonzilla",
+0,
+[]
+],
+[
+"Grilled Cheesesteak",
+0,
+[]
+],
+[
+"Health Nut",
+0,
+[]
+],
+[
+"Heaping Hoggy",
+0,
+[]
+],
+[
+"Hot Hamwich",
+0,
+[]
+],
+[
+"Kickin' Chicken",
+0,
+[]
+],
+[
+"Lobster Po' Boy",
+0,
+[]
+],
+[
+"Marbled Mushroom",
+0,
+[]
+],
+[
+"Meat Lover's",
+0,
+[]
+],
+[
+"Pickled Peppers",
+0,
+[]
+],
+[
+"Porky Pepper",
+0,
+[]
+],
+[
+"Portallini Panini",
+0,
+[]
+],
+[
+"Rosemary Ranch",
+0,
+[]
+],
+[
+"Rudy's Reuben",
+0,
+[]
+],
+[
+"Sarge's Revenge",
+0,
+[]
+],
+[
+"Sauce Pocket",
+0,
+[]
+],
+[
+"Sour Salad",
+0,
+[]
+],
+[
+"Southwest Steakhouse",
+0,
+[]
+],
+[
+"Sunrise Sandwich",
+0,
+[]
+],
+[
+"Surf and Turf",
+0,
+[]
+],
+[
+"The Pumperjack",
+0,
+[]
+],
+[
+"Toastie Dijon",
+0,
+[]
+],
+[
+"Toastwood Turkey",
+0,
+[]
+],
+[
+"Veggie Melt",
+0,
+[]
+],
+[
+"Western Omelette",
+0,
+[]
+],
+[
+"Wild Western",
+0,
+[]
+],
+[
+"Bacon Bomb",
+0,
+[]
+],
+[
+"Bagel Ablaze",
+0,
+[]
+],
+[
+"Battered Barbecue",
+0,
+[]
+],
+[
+"Big Bavarian",
+0,
+[]
+],
+[
+"Bourbon BBQ Chicken",
+0,
+[]
+],
+[
+"Breakfast Biscuit",
+0,
+[]
+],
+[
+"Buffalo Bacon Biscuit",
+0,
+[]
+],
+[
+"Cabbage Patch",
+0,
+[]
+],
+[
+"Catch of the Day",
+0,
+[]
+],
+[
+"Cemita Poblana",
+0,
+[]
+],
+[
+"Cheesy Chivito",
+0,
+[]
+],
+[
+"Cheesy Chops",
+0,
+[]
+],
+[
+"Cluckeria Classic",
+0,
+[]
+],
+[
+"Coronation Chicken",
+0,
+[]
+],
+[
+"Cotolette Alla Pizzaiola",
+0,
+[]
+],
+[
+"Crab Banh Mi",
+0,
+[]
+],
+[
+"Crabby Croissant",
+0,
+[]
+],
+[
+"Farmers Market",
+0,
+[]
+],
+[
+"Fish Fry",
+0,
+[]
+],
+[
+"Harcsapaprikas",
+0,
+[]
+],
+[
+"Honey Mushroom",
+0,
+[]
+],
+[
+"Honky Tonk Haddock",
+0,
+[]
+],
+[
+"Jägerschnitzel",
+0,
+[]
+],
+[
+"Katsu Sando",
+0,
+[]
+],
+[
+"Luau Delight",
+0,
+[]
+],
+[
+"Mighty Marinara",
+0,
+[]
+],
+[
+"Nashville Veggie",
+0,
+[]
+],
+[
+"Papa's Paprikash",
+0,
+[]
+],
+[
+"Parmesan Pile-Up",
+0,
+[]
+],
+[
+"Peri Pickle",
+0,
+[]
+],
+[
+"Rahmschnitzel",
+0,
+[]
+],
+[
+"Seafood Sampler",
+0,
+[]
+],
+[
+"Southern Steak Stack",
+0,
+[]
+],
+[
+"Spicy Skipper",
+0,
+[]
+],
+[
+"Towering Teriyaki",
+0,
+[]
+],
+[
+"Whitefish Jubilee",
+0,
+[]
+],
+[
+"meat sandwich",
+0,
+[]
+],
+[
+"hot pressed sandwich",
+0,
+[]
+],
+[
+"kebab sandwich",
+0,
+[
+"sandwich made of kebab",
+"sandwich of kebab"
+]
+],
+[
+"caprese sandwich",
+0,
+[]
+],
+[
+"stuffed flatbread",
+0,
+[]
 ]
 ]

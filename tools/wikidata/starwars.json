@@ -1,2806 +1,3958 @@
 [
 [
 "Darth Vader",
-85
+85,
+[
+"Vader"
+]
 ],
 [
 "Yoda",
-68
+68,
+[
+"Grandmaster Yoda",
+"Master Yoda"
+]
 ],
 [
 "Luke Skywalker",
-65
+65,
+[
+"Luke Starkiller"
+]
 ],
 [
 "Obi-Wan Kenobi",
-62
+62,
+[
+"Ben Kenobi",
+"General Kenobi",
+"Master Kenobi",
+"Obi Wan",
+"Obi-Wan",
+"Obi-Wan \"Ben\" Kenobi",
+"Obi Wan Kenobi",
+"Ratio Tile"
+]
 ],
 [
 "Princess Leia",
-62
+62,
+[
+"General Organa",
+"Leia Organa",
+"Leia Organa Solo",
+"Princess Leia Organa",
+"Princess Leia Organa of Alderaan"
+]
 ],
 [
 "Han Solo",
-55
+55,
+[]
 ],
 [
 "Palpatine",
-53
+53,
+[
+"Chancellor Palpatine",
+"Darth Sidious",
+"Emperor Palpatine",
+"Sheev Palpatine",
+"The Senate"
+]
 ],
 [
 "C-3PO",
-51
+51,
+[
+"3PO",
+"C 3PO",
+"C3PO",
+"See-Threepio",
+"Threepio"
+]
 ],
 [
 "Padmé Amidala",
-50
+50,
+[
+"Padme Amidala",
+"Padme Naberrie",
+"Padmé Naberrie",
+"Queen Amidala",
+"Senator Amidala"
+]
 ],
 [
 "Chewbacca",
-49
+49,
+[]
 ],
 [
 "Qui-Gon Jinn",
-48
+48,
+[
+"Qui-Gon"
+]
 ],
 [
 "R2-D2",
-47
+47,
+[
+"Artoo",
+"Artoo-Detoo",
+"R2",
+"R2 D2",
+"R2D2"
+]
 ],
 [
 "Mace Windu",
-46
+46,
+[]
 ],
 [
 "Darth Maul",
-43
+43,
+[
+"Maul"
+]
 ],
 [
 "Count Dooku",
-41
+41,
+[
+"Count Dooku of Serenno",
+"Darth Tyranus",
+"Dooku",
+"Dooku of Serenno",
+"Tyranus"
+]
 ],
 [
 "Kylo Ren",
-40
+40,
+[
+"Ben Solo"
+]
 ],
 [
 "Boba Fett",
-39
+39,
+[]
 ],
 [
 "Ahsoka Tano",
-38
+38,
+[
+"Ahsoka",
+"Ashla",
+"Fulcrum",
+"Snips"
+]
 ],
 [
 "General Grievous",
-37
+37,
+[
+"Grievous",
+"Qymaen jai Sheelal"
+]
 ],
 [
 "Rey",
-36
+36,
+[
+"Rey Palpatine",
+"Rey Skywalker"
+]
 ],
 [
 "Jar Jar Binks",
-34
+34,
+[
+"Jar Jar"
+]
 ],
 [
 "Jabba the Hutt",
-34
+34,
+[]
 ],
 [
 "Jango Fett",
-34
+34,
+[]
 ],
 [
 "Lando Calrissian",
-34
+34,
+[
+"Landonis Balthazar Calrissian",
+"Landonis Balthazar Calrissian III"
+]
 ],
 [
 "Finn",
-32
+32,
+[
+"Finn (FN-2187)",
+"FN-2187"
+]
 ],
 [
 "Anakin Skywalker",
-31
+31,
+[
+"Allah Gold",
+"Anakin",
+"Ani",
+"Darth Vader",
+"General Skywalker",
+"The Chosen One"
+]
 ],
 [
 "Grogu",
-31
+31,
+[
+"Baby Yoda",
+"Din Grogu",
+"Grogu “The Child”",
+"The Child"
+]
 ],
 [
 "Poe Dameron",
-30
+30,
+[]
 ],
 [
 "Wilhuff Tarkin",
-30
+30,
+[
+"Governor Tarkin",
+"Grand Moff Tarkin",
+"Grand Moff Wilhuff Tarkin"
+]
 ],
 [
 "BB-8",
-28
+28,
+[
+"BB 8",
+"BB8",
+"Beebee-Ate",
+"Beebee-Eight"
+]
 ],
 [
 "Grand Admiral Thrawn",
-26
+26,
+[
+"Kivu'raw'nuru",
+"Mitth'raw'nuru",
+"Mitth'raw'nuruodo",
+"Th'raw'n",
+"Thrawn",
+"Vurawn"
+]
 ],
 [
 "Din Djarin",
-25
+25,
+[
+"Din Djarin “The Mandalorian”",
+"Mandalorian",
+"Mando",
+"The Mandalorian"
+]
 ],
 [
 "Aayla Secura",
-23
+23,
+[]
 ],
 [
 "Supreme Leader Snoke",
-23
+23,
+[
+"Snoke"
+]
 ],
 [
 "Shmi Skywalker",
-23
+23,
+[]
 ],
 [
 "Admiral Ackbar",
-23
+23,
+[
+"Gial Ackbar"
+]
 ],
 [
 "Asajj Ventress",
-22
+22,
+[]
 ],
 [
 "Jyn Erso",
-22
+22,
+[]
 ],
 [
 "Ki-Adi-Mundi",
-21
+21,
+[]
 ],
 [
 "Darth Plagueis",
-20
+20,
+[
+"Darth Plagueis the Wise",
+"Hego Damask II",
+"Lord Plagueis"
+]
 ],
 [
 "Revan",
-20
+20,
+[
+"Darth Revan"
+]
 ],
 [
 "Darth Bane",
-20
+20,
+[
+"Dessel"
+]
 ],
 [
 "Watto",
-20
+20,
+[]
 ],
 [
 "Nute Gunray",
-19
+19,
+[]
 ],
 [
 "Bail Organa",
-19
+19,
+[
+"senator Organa"
+]
 ],
 [
 "Mon Mothma",
-18
+18,
+[]
 ],
 [
 "Phasma",
-17
+17,
+[
+"Captain Phasma"
+]
 ],
 [
 "General Hux",
-17
+17,
+[
+"Armitage Hux",
+"General Armitage Hux"
+]
 ],
 [
 "Wedge Antilles",
-17
+17,
+[]
 ],
 [
 "Kit Fisto",
-17
+17,
+[]
 ],
 [
 "Maz Kanata",
-16
+16,
+[]
 ],
 [
 "Mara Jade",
-16
+16,
+[
+"Mara Jade Skywalker"
+]
 ],
 [
 "Starkiller",
-16
+16,
+[
+"Galen Marek"
+]
 ],
 [
 "Luminara Unduli",
-15
+15,
+[]
 ],
 [
 "Plo Koon",
-15
+15,
+[]
 ],
 [
 "Shaak Ti",
-14
+14,
+[]
 ],
 [
 "Captain Rex",
-14
+14,
+[
+"Commander Rex",
+"CT-7567",
+"Rex"
+]
 ],
 [
 "Kyle Katarn",
-14
+14,
+[]
 ],
 [
 "Bo-Katan Kryze",
-13
+13,
+[
+"Bo",
+"Lady Bo-Katan"
+]
 ],
 [
 "Jaina Solo",
-13
+13,
+[
+"Jaina Solo Fel"
+]
 ],
 [
 "Cassian Andor",
-13
+13,
+[
+"Kassa"
+]
 ],
 [
 "Saesee Tiin",
-12
+12,
+[]
 ],
 [
 "Ezra Bridger",
-12
+12,
+[]
 ],
 [
 "Rose Tico",
-12
+12,
+[
+"Rose"
+]
 ],
 [
 "Owen Lars",
-11
+11,
+[
+"Uncle Owen"
+]
 ],
 [
 "Greedo",
-11
+11,
+[]
 ],
 [
 "Admiral Ozzel",
-11
+11,
+[
+"Admiral Kendal Ozzel",
+"Kendal Ozzel"
+]
 ],
 [
 "Firmus Piett",
-11
+11,
+[
+"Admiral Piett"
+]
 ],
 [
 "midi-chlorian",
-10
+10,
+[
+"midichlorian"
+]
 ],
 [
 "Finis Valorum",
-10
+10,
+[
+"Chancellor Valorum",
+"Valorum"
+]
 ],
 [
 "Anakin Solo",
-10
+10,
+[]
 ],
 [
 "IG-88",
-10
+10,
+[]
 ],
 [
 "Beru Lars",
-10
+10,
+[
+"Aunt Beru",
+"Beru Whitesun",
+"Beru Whitesun Lars"
+]
 ],
 [
 "Kanan Jarrus",
-10
+10,
+[
+"Caleb Dume"
+]
 ],
 [
 "Bib Fortuna",
-10
+10,
+[]
 ],
 [
 "Zam Wesell",
-10
+10,
+[]
 ],
 [
 "Jacen Solo",
-9
+9,
+[
+"Darth Caedus"
+]
 ],
 [
 "Saw Gerrera",
-9
+9,
+[]
 ],
 [
 "Yaddle",
-9
+9,
+[]
 ],
 [
 "Nien Nunb",
-9
+9,
+[]
 ],
 [
 "Commander Cody",
-9
+9,
+[
+"CC-2224"
+]
 ],
 [
 "Adi Gallia",
-9
+9,
+[]
 ],
 [
 "Depa Billaba",
-9
+9,
+[]
 ],
 [
 "Hera Syndulla",
-9
+9,
+[]
 ],
 [
 "Bastila Shan",
-9
+9,
+[]
 ],
 [
 "Poggle the Lesser",
-9
+9,
+[]
 ],
 [
 "Exar Kun",
-9
+9,
+[]
 ],
 [
 "Quinlan Vos",
-8
+8,
+[]
 ],
 [
 "Darth Traya",
-8
+8,
+[
+"Kreia"
+]
 ],
 [
 "Cliegg Lars",
-8
+8,
+[]
 ],
 [
 "Darth Nihilus",
-8
+8,
+[]
 ],
 [
 "Sabine Wren",
-8
+8,
+[]
 ],
 [
 "Dash Rendar",
-8
+8,
+[]
 ],
 [
 "Darth Malak",
-8
+8,
+[
+"Alek",
+"Malak"
+]
 ],
 [
 "Wicket W. Warrick",
-8
+8,
+[
+"Wicket"
+]
 ],
 [
 "Bossk",
-8
+8,
+[]
 ],
 [
 "Orson Krennic",
-8
+8,
+[
+"Orson Callan Krennic"
+]
 ],
 [
 "Agen Kolar",
-8
+8,
+[]
 ],
 [
 "Cad Bane",
-8
+8,
+[]
 ],
 [
 "Moff Gideon",
-8
+8,
+[
+"Gideon"
+]
 ],
 [
 "Fennec Shand",
-8
+8,
+[]
 ],
 [
 "4-LOM",
-7
+7,
+[]
 ],
 [
 "Stass Allie",
-7
+7,
+[]
 ],
 [
 "Sebulba",
-7
+7,
+[]
 ],
 [
 "Wat Tambor",
-7
+7,
+[]
 ],
 [
 "Boss Nass",
-7
+7,
+[
+"Rugor Nass"
+]
 ],
 [
 "Maximilian Veers",
-7
+7,
+[
+"General Veers"
+]
 ],
 [
 "Sifo-Dyas",
-7
+7,
+[
+"Syfo-Dias"
+]
 ],
 [
 "Prince Xizor",
-7
+7,
+[
+"Xizor"
+]
 ],
 [
 "K-2SO",
-7
+7,
+[]
 ],
 [
 "HK-47",
-7
+7,
+[]
 ],
 [
 "Aurra Sing",
-7
+7,
+[]
 ],
 [
 "Oppo Rancisis",
-7
+7,
+[]
 ],
 [
 "IG-11",
-7
+7,
+[]
 ],
 [
 "Lumiya",
-6
+6,
+[
+"Shira Brie",
+"Shira Elan Colla Brie"
+]
 ],
 [
 "Yarael Poof",
-6
+6,
+[]
 ],
 [
 "Ben Skywalker",
-6
+6,
+[]
 ],
 [
 "Barriss Offee",
-6
+6,
+[]
 ],
 [
 "Cade Skywalker",
-6
+6,
+[]
 ],
 [
 "Durge",
-6
+6,
+[]
 ],
 [
 "Savage Opress",
-6
+6,
+[]
 ],
 [
 "Lobot",
-6
+6,
+[
+"Lo"
+]
 ],
 [
 "Darth Sion",
-6
+6,
+[]
 ],
 [
 "Freedon Nadd",
-6
+6,
+[]
 ],
 [
 "Qi'ra",
-6
+6,
+[]
 ],
 [
 "Cal Kestis",
-6
+6,
+[]
 ],
 [
 "Greef Karga",
-6
+6,
+[]
 ],
 [
 "Darth Krayt",
-5
+5,
+[
+"A'Sharad Hett"
+]
 ],
 [
 "Ferus Olin",
-5
+5,
+[]
 ],
 [
 "Rahm Kota",
-5
+5,
+[]
 ],
 [
 "Sando Aqua Monster",
-5
+5,
+[]
 ],
 [
 "Rune Haako",
-5
+5,
+[]
 ],
 [
 "Naga Sadow",
-5
+5,
+[
+"Darth Naga Sadow"
+]
 ],
 [
 "Jolee Bindo",
-5
+5,
+[]
 ],
 [
 "Jaden Korr",
-5
+5,
+[]
 ],
 [
 "Biggs Darklighter",
-5
+5,
+[]
 ],
 [
 "General Dodonna",
-5
+5,
+[
+"Jan Dodonna"
+]
 ],
 [
 "Grand Inquisitor",
-5
+5,
+[
+"The Grand Inquisitor"
+]
 ],
 [
 "Tobias Beckett",
-5
+5,
+[]
 ],
 [
 "Eeth Koth",
-5
+5,
+[]
 ],
 [
 "Coleman Trebor",
-5
+5,
+[]
 ],
 [
 "Gardulla the Hutt",
-5
+5,
+[]
 ],
 [
 "Rosh Penin",
-5
+5,
+[]
 ],
 [
 "Lowbacca",
-5
+5,
+[]
 ],
 [
 "Juhani",
-4
+4,
+[]
 ],
 [
 "Talzin",
-4
+4,
+[
+"Mother Talzin"
+]
 ],
 [
 "Zuckuss",
-4
+4,
+[]
 ],
 [
 "Cin Drallig",
-4
+4,
+[]
 ],
 [
 "Canderous Ordo",
-4
+4,
+[
+"Mandalore the Preserver"
+]
 ],
 [
 "Jocasta Nu",
-4
+4,
+[]
 ],
 [
 "Ludo Kressh",
-4
+4,
+[]
 ],
 [
 "Ulic Qel-Droma",
-4
+4,
+[]
 ],
 [
 "Corran Horn",
-4
+4,
+[]
 ],
 [
 "Mas Amedda",
-4
+4,
+[]
 ],
 [
 "Meetra Surik",
-4
+4,
+[
+"Jedi Exile"
+]
 ],
 [
 "Even Piell",
-4
+4,
+[]
 ],
 [
 "Chirrut Îmwe",
-4
+4,
+[]
 ],
 [
 "Baze Malbus",
-4
+4,
+[]
 ],
 [
 "Bodhi Rook",
-4
+4,
+[]
 ],
 [
 "Galen Erso",
-4
+4,
+[]
 ],
 [
 "Commander Bly",
-4
+4,
+[
+"Bly",
+"CC-5052"
+]
 ],
 [
 "Dengar",
-4
+4,
+[]
 ],
 [
 "Kol Skywalker",
-4
+4,
+[]
 ],
 [
 "Captain Tarpals",
-4
+4,
+[
+"Roos Tarpals"
+]
 ],
 [
 "Ajunta Pall",
-4
+4,
+[]
 ],
 [
 "Raymus Antilles",
-4
+4,
+[]
 ],
 [
 "Sabé",
-4
+4,
+[
+"Sabe"
+]
 ],
 [
 "Garm Bel Iblis",
-4
+4,
+[]
 ],
 [
 "Commander Gree",
-4
+4,
+[
+"CC-1004",
+"Gree"
+]
 ],
 [
 "Hondo Ohnaka",
-4
+4,
+[]
 ],
 [
 "Moff Jerjerrod",
-4
+4,
+[
+"Jerjerrod",
+"Tiaan Jerjerrod"
+]
 ],
 [
 "Jek Porkins",
-4
+4,
+[]
 ],
 [
 "Xanatos",
-4
+4,
+[]
 ],
 [
 "Juno Eclipse",
-4
+4,
+[]
 ],
 [
 "Cara Dune",
-4
+4,
+[
+"Carasynthia Dune"
+]
 ],
 [
 "Vice-Admiral Holdo",
-4
+4,
+[
+"Amilyn Holdo"
+]
 ],
 [
 "Sora Bulq",
-3
+3,
+[]
 ],
 [
 "Daakman Barrek",
-3
+3,
+[
+"Barrek"
+]
 ],
 [
 "Vergere",
-3
+3,
+[]
 ],
 [
 "Ikrit",
-3
+3,
+[]
 ],
 [
 "Ponda Baba",
-3
+3,
+[]
 ],
 [
 "Gilad Pellaeon",
-3
+3,
+[]
 ],
 [
 "Tenel Ka",
-3
+3,
+[]
 ],
 [
 "Tarr Seirr",
-3
+3,
+[]
 ],
 [
 "Admiral Natasi Daala",
-3
+3,
+[
+"Daala",
+"Natasi Daala"
+]
 ],
 [
 "Reva Sevander",
-3
+3,
+[
+"Third Sister"
+]
 ],
 [
 "Enric Pryde",
-3
+3,
+[
+"Allegiant General Pryde"
+]
 ],
 [
 "Garven Dreis",
-3
+3,
+[
+"Dave Dreis",
+"Dreis",
+"Garven \"Dave\" Dreis",
+"Red Leader"
+]
 ],
 [
 "Max Rebo",
-3
+3,
+[
+"Siiruulian Phantele"
+]
 ],
 [
 "Arvel Crynyd",
-3
+3,
+[]
 ],
 [
 "Bazine Netal",
-3
+3,
+[]
 ],
 [
 "Lor San Tekka",
-3
+3,
+[]
 ],
 [
 "Unkar Plutt",
-3
+3,
+[]
 ],
 [
 "Carth Onasi",
-3
+3,
+[]
 ],
 [
 "2-1B",
-3
+3,
+[]
 ],
 [
 "Lott Dod",
-3
+3,
+[]
 ],
 [
 "Visas Marr",
-3
+3,
+[]
 ],
 [
 "Sio Bibble",
-3
+3,
+[]
 ],
 [
 "Darth Sidious",
-3
+3,
+[]
 ],
 [
 "Pre Vizsla",
-3
+3,
+[
+"Pre vizsla"
+]
 ],
 [
 "Ziro the Hutt",
-3
+3,
+[
+"Ziro",
+"Ziro Desilijic Tiure"
+]
 ],
 [
 "General Madine",
-3
+3,
+[
+"Crix Madine"
+]
 ],
 [
 "Sy Snootles",
-3
+3,
+[]
 ],
 [
 "Dexter Jettster",
-3
+3,
+[]
 ],
 [
 "Bao-Dur",
-3
+3,
+[]
 ],
 [
 "An'ya Kuro",
-3
+3,
+[
+"Dark Woman"
+]
 ],
 [
 "Micah Giett",
-3
+3,
+[]
 ],
 [
 "Jan Ors",
-3
+3,
+[]
 ],
 [
 "Marka Ragnos",
-3
+3,
+[]
 ],
 [
 "Taun We",
-3
+3,
+[]
 ],
 [
 "Tavion Axmis",
-3
+3,
+[]
 ],
 [
 "Salacious Crumb",
-3
+3,
+[
+"Salacious B. Crumb"
+]
 ],
 [
 "Tarfful",
-3
+3,
+[]
 ],
 [
 "Desann",
-3
+3,
+[]
 ],
 [
 "Maris Brood",
-3
+3,
+[]
 ],
 [
 "Commander Bacara",
-3
+3,
+[]
 ],
 [
 "Kazdan Paratus",
-3
+3,
+[]
 ],
 [
 "Cordé",
-3
+3,
+[
+"Corde"
+]
 ],
 [
 "Quarsh Panaka",
-3
+3,
+[
+"Captain Panaka",
+"Panaka"
+]
 ],
 [
 "Lama Su",
-3
+3,
+[]
 ],
 [
 "Tionne Solusar",
-3
+3,
+[
+"Tionne"
+]
 ],
 [
 "Zayne Carrick",
-3
+3,
+[]
 ],
 [
 "Arca Jeth",
-3
+3,
+[]
 ],
 [
 "Cay Qel-Droma",
-3
+3,
+[]
 ],
 [
 "Empatojayos Brand",
-3
+3,
+[]
 ],
 [
 "Mission Vao",
-3
+3,
+[]
 ],
 [
 "T3-M4",
-3
+3,
+[
+"Teethree"
+]
 ],
 [
 "Zaalbar",
-3
+3,
+[]
 ],
 [
 "Gizor Dellso",
-3
+3,
+[]
 ],
 [
 "Dryden Vos",
-3
+3,
+[]
 ],
 [
 "Captain Typho",
-3
+3,
+[]
 ],
 [
 "Zsinj",
-3
+3,
+[]
 ],
 [
 "Doctor Aphra",
-3
+3,
+[
+"Chelli Lona Aphra"
+]
 ],
 [
 "Bria Tharen",
-3
+3,
+[]
 ],
 [
 "Ysanne Isard",
-3
+3,
+[]
 ],
 [
 "Borsk Fey'lya",
-3
+3,
+[]
 ],
 [
 "Tahiri Veila",
-3
+3,
+[]
 ],
 [
 "Paz Vizsla",
-3
+3,
+[
+"Paz Vizla"
+]
 ],
 [
 "Kyp Durron",
-3
+3,
+[]
 ],
 [
 "Vandar Tokare",
-3
+3,
+[]
 ],
 [
 "Cobb Vanth",
-2
+2,
+[
+"The Marshal"
+]
 ],
 [
 "Nala Se",
-2
+2,
+[]
 ],
 [
 "Onaconda Farr",
-2
+2,
+[]
 ],
 [
 "TC-fourteen",
-2
+2,
+[
+"TC-14"
+]
 ],
 [
 "Zett Jukassa",
-2
+2,
+[]
 ],
 [
 "Echuu Shen-Jon",
-2
+2,
+[]
 ],
 [
 "Darth Ruin",
-2
+2,
+[
+"Phanius"
+]
 ],
 [
 "Jerec",
-2
+2,
+[]
 ],
 [
 "San Hill",
-2
+2,
+[]
 ],
 [
 "Sharad Hett",
-2
+2,
+[]
 ],
 [
 "Dathka Graush",
-2
+2,
+[]
 ],
 [
 "Satine Kryze",
-2
+2,
+[
+"Duchess Satine",
+"Duchess Satine Kryze"
+]
 ],
 [
 "Morgan Katarn",
-2
+2,
+[]
 ],
 [
 "Vima-Da-Boda",
-2
+2,
+[]
 ],
 [
 "Lumpawaroo",
-2
+2,
+[
+"Lumpawarrump",
+"Lumpy",
+"Waroo"
+]
 ],
 [
 "Zeb Orrelios",
-2
+2,
+[
+"Garazeb Orrelios",
+"Garazeb \"Zeb\" Orrelios",
+"Zeb"
+]
 ],
 [
 "Garsa Fwip",
-2
+2,
+[]
 ],
 [
 "Krrsantan",
-2
+2,
+[
+"Black Krrsantan"
+]
 ],
 [
 "ASN-121",
-2
+2,
+[]
 ],
 [
 "Chagrian",
-2
+2,
+[
+"Chagrians"
+]
 ],
 [
 "Jannah",
-2
+2,
+[]
 ],
 [
 "Luuke Skywalker",
-2
+2,
+[]
 ],
 [
 "Wrenga Jixton",
-2
+2,
+[
+"Jix"
+]
 ],
 [
 "Galak Fyyar",
-2
+2,
+[]
 ],
 [
 "Bren Derlin",
-2
+2,
+[]
 ],
 [
 "Roan Shryne",
-2
+2,
+[]
 ],
 [
 "Huyang",
-2
+2,
+[
+"Professor Huyang"
+]
 ],
 [
 "Gha Nachkt",
-2
+2,
+[]
 ],
 [
 "Dominus",
-2
+2,
+[]
 ],
 [
 "Danni Quee",
-2
+2,
+[]
 ],
 [
 "Atton Rand",
-2
+2,
+[
+"Jaq"
+]
 ],
 [
 "Cal Omas",
-2
+2,
+[]
 ],
 [
 "Orn Free Taa",
-2
+2,
+[]
 ],
 [
 "Ody Mandrell",
-2
+2,
+[]
 ],
 [
 "Rush Clovis",
-2
+2,
+[
+"Clovis"
+]
 ],
 [
 "Lux Bonteri",
-2
+2,
+[]
 ],
 [
 "Noa Briqualon",
-2
+2,
+[]
 ],
 [
 "Wullf Yularen",
-2
+2,
+[]
 ],
 [
 "Oola",
-2
+2,
+[
+"Oola the Twilek Dancing Girl"
+]
 ],
 [
 "Nomi Sunrider",
-2
+2,
+[]
 ],
 [
 "Ask Aak",
-2
+2,
+[]
 ],
 [
 "Serra Keto",
-2
+2,
+[]
 ],
 [
 "Jorus C'baoth",
-2
+2,
+[]
 ],
 [
 "Darth Desolous",
-2
+2,
+[]
 ],
 [
 "Darth Malgus",
-2
+2,
+[
+"Veradun"
+]
 ],
 [
 "Satele Shan",
-2
+2,
+[]
 ],
 [
 "Darth Zannah",
-2
+2,
+[
+"Rain",
+"Zannah"
+]
 ],
 [
 "Belia Darzu",
-2
+2,
+[]
 ],
 [
 "Voolvif Monn",
-2
+2,
+[]
 ],
 [
 "Alema Rar",
-2
+2,
+[]
 ],
 [
 "Allana Solo",
-2
+2,
+[]
 ],
 [
 "Allya",
-2
+2,
+[]
 ],
 [
 "Bodo Baas",
-2
+2,
+[]
 ],
 [
 "Callista Ming",
-2
+2,
+[]
 ],
 [
 "Supreme Chancellor",
-2
+2,
+[]
 ],
 [
 "Cassio Tagge",
-2
+2,
+[
+"General Tagge"
+]
 ],
 [
 "Cilghal",
-2
+2,
+[]
 ],
 [
 "Darth Andeddu",
-2
+2,
+[
+"Immortal God-King of Prakith"
+]
 ],
 [
 "Dorsk 81",
-2
+2,
+[]
 ],
 [
 "Foul Moudama",
-2
+2,
+[]
 ],
 [
 "Queen Jamillia",
-2
+2,
+[
+"Jamillia"
+]
 ],
 [
 "G0-T0",
-2
+2,
+[]
 ],
 [
 "Meena Tills",
-2
+2,
+[]
 ],
 [
 "Hanharr",
-2
+2,
+[]
 ],
 [
 "Joclad Danva",
-2
+2,
+[]
 ],
 [
 "Kam Solusar",
-2
+2,
+[]
 ],
 [
 "Kirana Ti",
-2
+2,
+[]
 ],
 [
 "Lorth Needa",
-2
+2,
+[
+"Captain Needa",
+"Needa"
+]
 ],
 [
 "Mira",
-2
+2,
+[]
 ],
 [
 "N'Kata Del Gormo",
-2
+2,
+[]
 ],
 [
 "Nom Anor",
-2
+2,
+[]
 ],
 [
 "Odan-Urr",
-2
+2,
+[]
 ],
 [
 "Ooroo",
-2
+2,
+[]
 ],
 [
 "Raynar Thul",
-2
+2,
+[]
 ],
 [
 "Roron Corobb",
-2
+2,
+[]
 ],
 [
 "Saba Sebatyne",
-2
+2,
+[]
 ],
 [
 "Sha'a Gi",
-2
+2,
+[]
 ],
 [
 "Sly Moore",
-2
+2,
+[]
 ],
 [
 "Tallisibeth Enwandung-Esterhazy",
-2
+2,
+[
+"Scout"
+]
 ],
 [
 "Tott Doneeta",
-2
+2,
+[]
 ],
 [
 "Tsavong Lah",
-2
+2,
+[]
 ],
 [
 "Vodo-Siosk Baas",
-2
+2,
+[]
 ],
 [
 "Coleman Kcaj",
-2
+2,
+[]
 ],
 [
 "Lieutenant Connix",
-2
+2,
+[
+"Kaydel Ko Connix"
+]
 ],
 [
 "Carnor Jax",
-2
+2,
+[]
 ],
 [
 "Chopper",
-2
+2,
+[
+"C1-10P"
+]
 ],
 [
 "L3-37",
-2
+2,
+[]
 ],
 [
 "Enfys Nest",
-2
+2,
+[]
 ],
 [
 "8t88",
-2
+2,
+[]
 ],
 [
 "Demetrius Zaarin",
-2
+2,
+[]
 ],
 [
 "Talon Karrde",
-2
+2,
+[]
 ],
 [
 "Siri Tachi",
-2
+2,
+[]
 ],
 [
 "Po Nudo",
-2
+2,
+[]
 ],
 [
 "Dr. Evazan",
-2
+2,
+[
+"Cornelius Evazan",
+"Doctor Cornelius Evazan",
+"Doctor Evazan",
+"Dr. Cornelius Evazan"
+]
 ],
 [
 "Shado Vao",
-2
+2,
+[]
 ],
 [
 "Darth Nihl",
-2
+2,
+[]
 ],
 [
 "Zorii Bliss",
-2
+2,
+[
+"Zorii Wynn",
+"Zorri Bliss"
+]
 ],
 [
 "Attichitcuk",
-2
+2,
+[]
 ],
 [
 "Carlist Rieekan",
-2
+2,
+[
+"General Rieekan"
+]
 ],
 [
 "Chalmun",
-2
+2,
+[]
 ],
 [
 "Kuiil",
-2
+2,
+[]
 ],
 [
 "The Armorer",
-2
+2,
+[]
 ],
 [
 "The Client",
-2
+2,
+[]
 ],
 [
 "Babu Frik",
-2
+2,
+[]
 ],
 [
 "Passel Argente",
-2
+2,
+[]
 ],
 [
 "Djas Puhr",
-2
+2,
+[]
 ],
 [
 "Qu Rahn",
-2
+2,
+[]
 ],
 [
 "Queen Apailana",
-2
+2,
+[
+"Apailana"
+]
 ],
 [
 "Nuvo Vindi",
-1
+1,
+[]
 ],
 [
 "Flint",
-1
+1,
+[]
 ],
 [
 "Guri",
-1
+1,
+[]
 ],
 [
 "Githany",
-1
+1,
+[
+"Githa"
+]
 ],
 [
 "Skere Kaan",
-1
+1,
+[]
 ],
 [
 "Moff Yittereas",
-1
+1,
+[]
 ],
 [
 "Pekt",
-1
+1,
+[]
 ],
 [
 "Tion Medon",
-1
+1,
+[]
 ],
 [
 "Weebacca",
-1
+1,
+[]
 ],
 [
 "Vette",
-1
+1,
+[
+"Ce'na"
+]
 ],
 [
 "Breha Organa",
-1
+1,
+[
+"Queen Breha Organa"
+]
 ],
 [
 "Vima Sunrider",
-1
+1,
+[]
 ],
 [
 "Alora",
-1
+1,
+[]
 ],
 [
 "Darth Millennial",
-1
+1,
+[]
 ],
 [
 "Darth Tenebrous",
-1
+1,
+[
+"Rugess Nome"
+]
 ],
 [
 "Hunter",
-1
+1,
+[]
 ],
 [
 "Crosshair",
-1
+1,
+[
+"CT-9904"
+]
 ],
 [
 "AZI-3",
-1
+1,
+[
+"AZI-345211896246498721347"
+]
 ],
 [
 "Cut Lawquane",
-1
+1,
+[]
 ],
 [
 "Cham Syndulla",
-1
+1,
+[
+"The Hammer of Ryloth"
+]
 ],
 [
 "Momaw Nadon",
-1
+1,
+[]
 ],
 [
 "Fang Zar",
-1
+1,
+[]
 ],
 [
 "Ren",
-1
+1,
+[]
 ],
 [
 "DJ",
-1
+1,
+[]
 ],
 [
 "Agent Kallus",
-1
+1,
+[
+"Alexsandr Kallus"
+]
 ],
 [
 "Fifth Brother",
-1
+1,
+[]
 ],
 [
 "Rabé Tonsort",
-1
+1,
+[
+"Rabe",
+"Rabé"
+]
 ],
 [
 "Saché Adova",
-1
+1,
+[
+"Sache",
+"Saché"
+]
 ],
 [
 "Eirtaé Ballory",
-1
+1,
+[
+"Eirtae",
+"Eirtaé"
+]
 ],
 [
 "Koffi Arana",
-1
+1,
+[]
 ],
 [
 "Tala Durith",
-1
+1,
+[]
 ],
 [
 "Larma D'Acy",
-1
+1,
+[]
 ],
 [
 "D-O",
-1
+1,
+[]
 ],
 [
 "Maarva Andor",
-1
+1,
+[
+"Maarva Carassi Andor"
+]
 ],
 [
 "Kazuda Xiono",
-1
+1,
+[
+"Kaz Xiono"
+]
 ],
 [
 "Dormé",
-1
+1,
+[]
 ],
 [
 "Greeata",
-1
+1,
+[
+"Greeata Jendowanian"
+]
 ],
 [
 "Joh Yowza",
-1
+1,
+[]
 ],
 [
 "Axe Woves",
-1
+1,
+[
+"Axe"
+]
 ],
 [
 "Galactic Emperor",
-1
+1,
+[]
 ],
 [
 "Quarrie",
-1
+1,
+[]
 ],
 [
 "Khaat Qiyn",
-1
+1,
+[]
 ],
 [
 "Eno Cordova",
-1
+1,
+[]
 ],
 [
 "Baylan Skoll",
-1
+1,
+[]
 ],
 [
 "Shin Hati",
-1
+1,
+[]
 ],
 [
 "Morgan Elsbeth",
-1
+1,
+[]
 ],
 [
 "Marrok",
-1
+1,
+[]
 ],
 [
 "Carson Teva",
-1
+1,
+[
+"Captain Carson Teva",
+"Captain Teva"
+]
 ],
 [
 "Tahl",
-1
+1,
+[]
 ],
 [
 "Vernestra Rwoh",
-1
+1,
+[]
 ],
 [
 "Ruu",
-1
+1,
+[]
 ],
 [
 "Yuehiro",
-1
+1,
+[]
 ],
 [
 "Avar Kriss",
-1
+1,
+[]
 ],
 [
 "Yord Fandar",
-1
+1,
+[]
 ],
 [
 "Jecki Lon",
-1
+1,
+[]
 ],
 [
 "Kantam Sy",
-1
+1,
+[]
 ],
 [
 "Detta Yao",
-1
+1,
+[]
 ],
 [
 "Lula Talisola",
-1
+1,
+[]
 ],
 [
 "Terec",
-1
+1,
+[]
 ],
 [
 "Lene Kostana",
-1
+1,
+[]
 ],
 [
 "Tep Tep",
-1
+1,
+[]
 ],
 [
 "Kho Phon Farrus",
-1
+1,
+[]
 ],
 [
 "Ak-Buz",
-1
+1,
+[]
 ],
 [
 "Het Nkik",
-1
+1,
+[]
 ],
 [
 "Ommin",
-1
+1,
+[]
 ],
 [
 "Cindel Towani",
-1
+1,
+[]
 ],
 [
 "Catarine Towani",
-1
+1,
+[]
 ],
 [
 "Jeremitt Towani",
-1
+1,
+[]
 ],
 [
 "Katuunko",
-1
+1,
+[]
 ],
 [
 "Mace Towani",
-1
+1,
+[]
 ],
 [
 "Admiral Motti",
-1
+1,
+[
+"Conan Antonio Motti"
+]
 ],
 [
 "Nadhar Vebb",
-1
+1,
+[]
 ],
 [
 "Tyvokka",
-1
+1,
+[]
 ],
 [
 "Sun Fac",
-1
+1,
+[]
 ],
 [
 "Snap Wexley",
-1
+1,
+[]
 ],
 [
 "Admiral Raddus",
-1
+1,
+[]
 ],
 [
 "Lyra Erso",
-1
+1,
+[]
 ],
 [
 "Ruescott Melshi",
-1
+1,
+[
+"Melshi",
+"Sergeant Melshi"
+]
 ],
 [
 "Airen Cracken",
-1
+1,
+[
+"General Cracken"
+]
 ],
 [
 "FN-2199",
-1
+1,
+[
+"TR-8R"
+]
 ],
 [
 "Daeshara'cor",
-1
+1,
+[]
 ],
 [
 "Darth Talon",
-1
+1,
+[]
 ],
 [
 "Mallatobuck",
-1
+1,
+[]
 ],
 [
 "K'Kruhk",
-1
+1,
+[]
 ],
 [
 "Montross",
-1
+1,
+[]
 ],
 [
 "Murk Lundi",
-1
+1,
+[]
 ],
 [
 "Dark Underlord",
-1
+1,
+[]
 ],
 [
 "Tulak Hord",
-1
+1,
+[]
 ],
 [
 "T'ra Saa",
-1
+1,
+[]
 ],
 [
 "Tenebrae",
-1
+1,
+[
+"Darth Vitiate",
+"Sith Emperor",
+"Valkorion"
+]
 ],
 [
 "Yun",
-1
+1,
+[]
 ],
 [
 "Yarua",
-1
+1,
+[]
 ],
 [
 "Aleema",
-1
+1,
+[]
 ],
 [
 "Anoon Bondara",
-1
+1,
+[]
 ],
 [
 "Arden Lyn",
-1
+1,
+[]
 ],
 [
 "Bene",
-1
+1,
+[]
 ],
 [
 "Boc Aseca",
-1
+1,
+[]
 ],
 [
 "Chamma",
-1
+1,
+[]
 ],
 [
 "Crado",
-1
+1,
+[]
 ],
 [
 "Dark trooper",
-1
+1,
+[]
 ],
 [
 "Darth Vectivus",
-1
+1,
+[]
 ],
 [
 "Djinn Altis",
-1
+1,
+[]
 ],
 [
 "Kavar",
-1
+1,
+[]
 ],
 [
 "Gilramos Libkath",
-1
+1,
+[]
 ],
 [
 "Ganner Rhysode",
-1
+1,
+[]
 ],
 [
 "Gantoris",
-1
+1,
+[]
 ],
 [
 "Garnoo",
-1
+1,
+[]
 ],
 [
 "Gorc",
-1
+1,
+[]
 ],
 [
 "Gra'aton",
-1
+1,
+[]
 ],
 [
 "Halagad Ventor",
-1
+1,
+[]
 ],
 [
 "Ken",
-1
+1,
+[]
 ],
 [
 "Krynda Draay",
-1
+1,
+[
+"Krynda Hulis"
+]
 ],
 [
 "Lannik Racto",
-1
+1,
+[]
 ],
 [
 "Lok Durd",
-1
+1,
+[]
 ],
 [
 "Lomi Plo",
-1
+1,
+[]
 ],
 [
 "Lucien Draay",
-1
+1,
+[]
 ],
 [
 "Maw",
-1
+1,
+[]
 ],
 [
 "Memit Nadill",
-1
+1,
+[]
 ],
 [
 "Nat Skywalker",
-1
+1,
+[
+"\"Bantha\" Rawk",
+"Rawk"
+]
 ],
 [
 "Nayama",
-1
+1,
+[]
 ],
 [
 "Oron Kira",
-1
+1,
+[]
 ],
 [
 "Picaroon C. Boodle",
-1
+1,
+[]
 ],
 [
 "Pong Krell",
-1
+1,
+[]
 ],
 [
 "Q'Anilia",
-1
+1,
+[]
 ],
 [
 "Qordis",
-1
+1,
+[]
 ],
 [
 "Reelo Baruk",
-1
+1,
+[]
 ],
 [
 "Rotta the Hutt",
-1
+1,
+[
+"Rotta",
+"Stinky"
+]
 ],
 [
 "Rozatta",
-1
+1,
+[
+"Roz"
+]
 ],
 [
 "Sariss",
-1
+1,
+[
+"Prophetess"
+]
 ],
 [
 "Satal Keto",
-1
+1,
+[]
 ],
 [
 "Sate Pestage",
-1
+1,
+[]
 ],
 [
 "Shayoto",
-1
+1,
+[]
 ],
 [
 "Shoaneb Culu",
-1
+1,
+[]
 ],
 [
 "Sidrona Diath",
-1
+1,
+[]
 ],
 [
 "Simus",
-1
+1,
+[]
 ],
 [
 "Streen",
-1
+1,
+[]
 ],
 [
 "Taj Junak",
-1
+1,
+[]
 ],
 [
 "Tamith Kai",
-1
+1,
+[]
 ],
 [
 "Teneniel Djo",
-1
+1,
+[]
 ],
 [
 "Tholme",
-1
+1,
+[]
 ],
 [
 "Tol Skorr",
-1
+1,
+[]
 ],
 [
 "Triclops",
-1
+1,
+[]
 ],
 [
 "Trioculus",
-1
+1,
+[]
 ],
 [
 "Wolf Sazen",
-1
+1,
+[]
 ],
 [
 "Wurth Skidder",
-1
+1,
+[]
 ],
 [
 "Xendor",
-1
+1,
+[]
 ],
 [
 "Zekk",
-1
+1,
+[]
 ],
 [
 "Joruus C'baoth",
-1
+1,
+[]
 ],
 [
 "Boushh",
-1
+1,
+[]
 ],
 [
 "Iden Versio",
-1
+1,
+[]
 ],
 [
 "Bol Chatak",
-1
+1,
+[]
 ],
 [
 "Seventh Sister",
-1
+1,
+[]
 ],
 [
 "Darth Bandon",
-1
+1,
+[]
 ],
 [
 "Val",
-1
+1,
+[
+"Val Beckett"
+]
 ],
 [
 "Rio Durant",
-1
+1,
+[]
 ],
 [
 "Tsui Choi",
-1
+1,
+[]
 ],
 [
 "Shodu Warrick",
-1
+1,
+[
+"Shodu"
+]
 ],
 [
 "Deej Warrick",
-1
+1,
+[
+"Deej"
+]
 ],
 [
 "Widdle Warrick",
-1
+1,
+[
+"Willy"
+]
 ],
 [
 "Winda Warrick",
-1
+1,
+[
+"Winda"
+]
 ],
 [
 "Weechee Warrick",
-1
+1,
+[]
 ],
 [
 "Logray",
-1
+1,
+[]
 ],
 [
 "OOM-9",
-1
+1,
+[]
 ],
 [
 "Tikkes",
-1
+1,
+[]
 ],
 [
 "Tru Veld",
-1
+1,
+[]
 ],
 [
 "Bendu",
-1
+1,
+[]
 ],
 [
 "Jon Vander",
-1
+1,
+[
+"Jon \"Dutch\" Vander"
+]
 ],
 [
 "The Chosen One",
-1
+1,
+[]
 ],
 [
 "Jastus Farr",
-1
+1,
+[]
 ],
 [
 "Jerico Moonrider",
-1
+1,
+[]
 ],
 [
 "Kren Blista-Vanee",
-1
+1,
+[]
 ],
 [
 "Roron Corrob",
-1
+1,
+[]
 ],
 [
 "Saul Karath",
-1
+1,
+[]
 ],
 [
 "Ephant Mon",
-1
+1,
+[]
 ],
 [
 "Daultay Dofine",
-1
+1,
+[]
 ],
 [
 "Irek Ismaren",
-1
+1,
+[]
 ],
 [
 "Tag and Bink",
-1
+1,
+[]
 ],
 [
 "Darra Thel-Tanis",
-1
+1,
+[
+"Darra Haariden"
+]
 ],
 [
 "Migs Mayfeld",
-1
+1,
+[
+"Mayfeld"
+]
 ],
 [
 "Jurokk",
-1
+1,
+[]
 ],
 [
 "Shu Mai",
-1
+1,
+[]
 ],
 [
 "Yuthura Ban",
-1
+1,
+[]
 ],
 [
 "Bruck Chun",
-1
+1,
+[]
 ],
 [
 "Rowan Freemaker",
-0
+0,
+[]
 ],
 [
 "Kordi Freemaker",
-0
+0,
+[]
 ],
 [
 "Zander Freemaker",
-0
+0,
+[]
 ],
 [
 "Roger",
-0
+0,
+[
+"R0-GR"
+]
 ],
 [
 "Naare",
-0
+0,
+[]
 ],
 [
 "Graballa the Hutt",
-0
+0,
+[]
 ],
 [
 "Pace Freemaker",
-0
+0,
+[]
 ],
 [
 "Dr. Pershing",
-0
+0,
+[
+"Penn Pershing"
+]
 ],
 [
 "Koska Reeves",
-0
+0,
+[]
 ],
 [
 "Lena Freemaker",
-0
+0,
+[]
 ],
 [
 "Moxie Freemaker",
-0
+0,
+[]
 ],
 [
 "Lak Sivrak",
-0
+0,
+[]
 ],
 [
 "Bultar Swan",
-0
+0,
+[]
 ],
 [
 "Cosinga Palpatine",
-0
+0,
+[]
 ],
 [
 "Larsh Hill",
-0
+0,
+[]
 ],
 [
 "11-4D",
-0
+0,
+[]
 ],
 [
 "Jon Antilles",
-0
+0,
+[]
 ],
 [
 "Octa Ramis",
-0
+0,
+[]
 ],
 [
 "Echo",
-0
+0,
+[
+"CT-1409"
+]
 ],
 [
 "Wrecker",
-0
+0,
+[]
 ],
 [
 "Tech",
-0
+0,
+[]
 ],
 [
 "Steela Gerrera",
-0
+0,
+[]
 ],
 [
 "Omega",
-0
+0,
+[]
 ],
 [
 "Suu Lawquane",
-0
+0,
+[]
 ],
 [
 "Shaeeah Lawquane",
-0
+0,
+[
+"Shaeeah"
+]
 ],
 [
 "Jek Lawquane",
-0
+0,
+[]
 ],
 [
 "Vice Admiral Rampart",
-0
+0,
+[
+"Rampart"
+]
 ],
 [
 "Rafa Martez",
-0
+0,
+[]
 ],
 [
 "Trace Martez",
-0
+0,
+[]
 ],
 [
 "Eleni Syndulla",
-0
+0,
+[]
 ],
 [
 "Beldorion",
-0
+0,
+[]
 ],
 [
 "Yeppau",
-0
+0,
+[]
 ],
 [
 "Master Codebraker",
-0
+0,
+[]
 ],
 [
 "Jek-14",
-0
+0,
+[
+"the Maker of Zoh"
+]
 ],
 [
 "Peli Motto",
-0
+0,
+[]
 ],
 [
 "Mok Shaiz's Majordomo",
-0
+0,
+[]
 ],
 [
 "Becky Smoochenbacher",
-0
+0,
+[]
 ],
 [
 "L0-LA59",
-0
+0,
+[
+"Lola"
+]
 ],
 [
 "Obi-Wan Kenobi's brother",
-0
+0,
+[
+"Obi-Wan's brother"
+]
 ],
 [
 "Pav-ti",
-0
+0,
+[]
 ],
 [
 "Lieutenant Valeria",
-0
+0,
+[
+"Lt Valeria",
+"Valeria"
+]
 ],
 [
 "B2EMO",
-0
+0,
+[]
 ],
 [
 "Clem Andor",
-0
+0,
+[]
 ],
 [
 "Dathan",
-0
+0,
+[]
 ],
 [
 "Lonni Jung",
-0
+0,
+[]
 ],
 [
 "Doda Bodonawieedo",
-0
+0,
+[]
 ],
 [
 "Kelleran Beq",
-0
+0,
+[
+"Jedi Master Kelleran Beq",
+"The Sabered Hand"
+]
 ],
 [
 "Chancellor",
-0
+0,
+[]
 ],
 [
 "Lando Calrissian's father",
-0
+0,
+[
+"Lindo Calrissian"
+]
 ],
 [
 "Kadara Calrissian",
-0
+0,
+[]
 ],
 [
 "Kadara Calrissian's mother",
-0
+0,
+[]
 ],
 [
 "Elia Kane",
-0
+0,
+[
+"Amnesty Officer G68",
+"Comms officer",
+"TK-2755"
+]
 ],
 [
 "Lys Solay",
-0
+0,
+[]
 ],
 [
 "Kai Brightstar",
-0
+0,
+[]
 ],
 [
 "Nubs",
-0
+0,
+[]
 ],
 [
 "Nash Durango",
-0
+0,
+[]
 ],
 [
 "Zia Zaldor Zanna",
-0
+0,
+[]
 ],
 [
 "RJ-83",
-0
+0,
+[]
 ],
 [
 "M-OC",
-0
+0,
+[]
 ],
 [
 "Kiza",
-0
+0,
+[]
 ],
 [
 "Viceroy Exim Panshard",
-0
+0,
+[
+"Exim Panshard"
+]
 ],
 [
 "Miramir",
-0
+0,
+[]
 ],
 [
 "Ochi of Bestoon",
-0
+0,
+[]
 ],
 [
 "Cere Junda",
-0
+0,
+[]
 ],
 [
 "Greez Dritus",
-0
+0,
+[]
 ],
 [
 "Jaro Tapal",
-0
+0,
+[]
 ],
 [
 "Merrin",
-0
+0,
+[]
 ],
 [
 "Cane Adiss",
-0
+0,
+[]
 ],
 [
 "Ghoel",
-0
+0,
+[]
 ],
 [
 "Pateesa",
-0
+0,
+[
+"Jabba's rancor"
+]
 ],
 [
 "Malta",
-0
+0,
+[]
 ],
 [
 "Nampi",
-0
+0,
+[]
 ],
 [
 "Lop",
-0
+0,
+[]
 ],
 [
 "Pello Scrambas",
-0
+0,
+[]
 ],
 [
 "Derek Torent",
-0
+0,
+[]
 ],
 [
 "Nerf",
-0
+0,
+[]
 ],
 [
 "Fourth Sister",
-0
+0,
+[
+"Lyn Rakish"
+]
 ],
 [
 "R5-D4",
-0
+0,
+[]
 ],
 [
 "FX-7",
-0
+0,
+[]
 ],
 [
 "Kreel",
-0
+0,
+[
+"Agent 5241",
+"Gamemaster",
+"Sergeant Kreel",
+"Sgt. Kreel"
+]
 ],
 [
 "Pablo-Jill",
-0
+0,
+[
+"Pablo Jill"
+]
 ],
 [
 "Archduke of Geonosis",
-0
+0,
+[]
 ],
 [
 "Droopy McCool",
-0
+0,
+[]
 ],
 [
 "Brea Tonnika",
-0
+0,
+[]
 ],
 [
 "Senni Tonnika",
-0
+0,
+[]
 ],
 [
 "Swilla Corey",
-0
+0,
+[]
 ],
 [
 "Tan Yuster",
-0
+0,
+[]
 ],
 [
 "General Draven",
-0
+0,
+[]
 ],
 [
 "General Merrick",
-0
+0,
+[]
 ],
 [
 "Senator Vaspar",
-0
+0,
+[]
 ],
 [
 "Senator Jebel",
-0
+0,
+[]
 ],
 [
 "Senator Pamlo",
-0
+0,
+[]
 ],
 [
 "Corporal Tonc",
-0
+0,
+[]
 ],
 [
 "Lieutenant Sefla",
-0
+0,
+[]
 ],
 [
 "Two Tubes",
-0
+0,
+[]
 ],
 [
 "Tivik",
-0
+0,
+[]
 ],
 [
 "General Hurst Romodi",
-0
+0,
+[]
 ],
 [
 "Captain Pterro",
-0
+0,
+[]
 ],
 [
 "Vaneé",
-0
+0,
+[]
 ],
 [
 "Rebel Techs",
-0
+0,
+[]
 ],
 [
 "Grizzly Rebel",
-0
+0,
+[]
 ],
 [
 "Rebel MP",
-0
+0,
+[]
 ],
 [
 "Blue Three",
-0
+0,
+[]
 ],
 [
 "Blue Four",
-0
+0,
+[]
 ],
 [
 "Blue Five",
-0
+0,
+[]
 ],
 [
 "Red Leader",
-0
+0,
+[]
 ],
 [
 "Gold Leader",
-0
+0,
+[]
 ],
 [
 "Gold Nine",
-0
+0,
+[]
 ],
 [
 "Red Twelve",
-0
+0,
+[]
 ],
 [
 "Blue Eight",
-0
+0,
+[]
 ],
 [
 "General Ramda",
-0
+0,
+[]
 ],
 [
 "Lieutenant Adema",
-0
+0,
+[]
 ],
 [
 "Admiral Gorin",
-0
+0,
+[]
 ],
 [
 "Lieutenant Casido",
-0
+0,
+[]
 ],
 [
 "General Corssin",
-0
+0,
+[]
 ],
 [
 "2nd Lieutenant Frobb",
-0
+0,
+[]
 ],
 [
 "Private Basteren",
-0
+0,
+[]
 ],
 [
 "Pao",
-0
+0,
+[]
 ],
 [
 "Corporal Rostok",
-0
+0,
+[]
 ],
 [
 "Bistan",
-0
+0,
+[]
 ],
 [
 "Shield Gate Officer",
-0
+0,
+[]
 ],
 [
 "Imperial Guard Droid",
-0
+0,
+[]
 ],
 [
 "Alderaanian Guard",
-0
+0,
+[]
 ],
 [
 "Weeteef Cyubee",
-0
+0,
+[]
 ],
 [
 "L-1",
-0
+0,
+[]
 ],
 [
 "Hammerhead Captain",
-0
+0,
+[]
 ],
 [
 "Andur Sunrider",
-0
+0,
+[]
 ],
 [
 "Aqinos",
-0
+0,
+[]
 ],
 [
 "Ashka Boda",
-0
+0,
+[]
 ],
 [
 "Brianna",
-0
+0,
+[]
 ],
 [
 "Dorsk 82",
-0
+0,
+[]
 ],
 [
 "Krath war droid",
-0
+0,
+[]
 ],
 [
 "Duron Qel-Droma",
-0
+0,
+[]
 ],
 [
 "Jaled Dur",
-0
+0,
+[]
 ],
 [
 "Kenth Hamner",
-0
+0,
+[]
 ],
 [
 "Mical",
-0
+0,
+[]
 ],
 [
 "Miko Reglia",
-0
+0,
+[]
 ],
 [
 "Mroon Jassa",
-0
+0,
+[]
 ],
 [
 "Roth-Del Masona",
-0
+0,
+[]
 ],
 [
 "Shadday Potkin",
-0
+0,
+[]
 ],
 [
 "Tekli",
-0
+0,
+[]
 ],
 [
 "Tesar Sebatyne",
-0
+0,
+[]
 ],
 [
 "Welk",
-0
+0,
+[]
 ],
 [
 "Xiaan Amersu",
-0
+0,
+[]
 ],
 [
 "Lady Proxima",
-0
+0,
+[]
 ],
 [
 "Scourge",
-0
+0,
+[]
 ],
 [
 "Bala-Tik",
-0
+0,
+[]
 ],
 [
 "Arren Kae",
-0
+0,
+[]
 ],
 [
 "Charal",
-0
+0,
+[]
 ],
 [
 "Chian",
-0
+0,
+[]
 ],
 [
 "Commander Neyo",
-0
+0,
+[]
 ],
 [
 "Darth Caedus",
-0
+0,
+[]
 ],
 [
 "Hoar",
-0
+0,
+[]
 ],
 [
 "Thok",
-0
+0,
+[]
 ],
 [
 "Feltipern Trevagg",
-0
+0,
+[]
 ],
 [
 "Lumas Etima",
-0
+0,
+[]
 ],
 [
 "Oss Wilum",
-0
+0,
+[]
 ],
 [
 "Ozzik Sturn",
-0
+0,
+[]
 ],
 [
 "Sirch Fi'ek",
-0
+0,
+[]
 ],
 [
 "Uthar Wynn",
-0
+0,
+[]
 ],
 [
 "Chief Chirpa",
-0
+0,
+[
+"Chirpa"
+]
 ],
 [
 "Ben Quadinaros",
-0
+0,
+[]
 ],
 [
 "Oleeno",
-0
+0,
+[
+"oleeno"
+]
 ],
 [
 "Terak",
-0
+0,
+[]
 ],
 [
 "Q9-0",
-0
+0,
+[
+"Z",
+"Zero"
+]
 ],
 [
 "Czerka Corperation Master Control System",
-0
+0,
+[]
 ],
 [
 "Lonna Vash",
-0
+0,
+[]
 ],
 [
 "Olee Starstone",
-0
+0,
+[]
 ],
 [
 "Zez-Kai Ell",
-0
+0,
+[]
 ],
 [
 "Shuseddhun",
-0
+0,
+[]
 ]
 ]

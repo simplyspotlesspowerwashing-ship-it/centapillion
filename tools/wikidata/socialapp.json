@@ -1,486 +1,2156 @@
 [
 [
 "Facebook",
-264
+264,
+[
+"m.facebook.com",
+"web.facebook.com",
+"www.facebook.com"
+]
 ],
 [
 "X",
-208
+208,
+[]
 ],
 [
 "email",
-174
+174,
+[
+"electronic mail",
+"e-mail"
+]
 ],
 [
 "Netflix",
-144
+144,
+[]
 ],
 [
 "TikTok",
-138
+138,
+[
+"Tik Tok"
+]
 ],
 [
 "Skype",
-112
+112,
+[]
 ],
 [
 "Wikispecies",
-104
+104,
+[
+"specieswiki",
+"Species.wikimedia.org",
+"SW",
+"WS"
+]
 ],
 [
 "Spotify",
-104
+104,
+[]
 ],
 [
 "Duolingo",
-102
+102,
+[]
 ],
 [
 "Reddit",
-92
+92,
+[
+"reddit.com"
+]
 ],
 [
 "Myspace",
-89
+89,
+[
+"myspace",
+"MySpace"
+]
 ],
 [
 "VK",
-86
+86,
+[
+"vk.com",
+"VKontakte"
+]
 ],
 [
 "LinkedIn",
-86
+86,
+[]
 ],
 [
 "Snapchat",
-81
+81,
+[
+"Snap",
+"Snapchat Android app"
+]
 ],
 [
 "GitHub",
-81
+81,
+[]
 ],
 [
 "virtual private network",
-79
+79,
+[
+"V.P.N.",
+"VPN"
+]
 ],
 [
 "Pokémon Go",
-75
+75,
+[
+"Pokemon Go"
+]
 ],
 [
 "Flickr",
-74
+74,
+[
+"flickr"
+]
 ],
 [
 "Blogger",
-74
+74,
+[
+"Blogger beta",
+"Blogger.com",
+"Blogspot",
+"blogspot.com",
+"Google Blogger"
+]
 ],
 [
 "Threads",
-67
+67,
+[
+"Meta Threads",
+"P92",
+"Project 92",
+"Threads, an Instagram app",
+"threads.net"
+]
 ],
 [
 "SoundCloud",
-66
+66,
+[]
 ],
 [
 "WeChat",
-65
+65,
+[
+"Weixin",
+"Wēixìn"
+]
 ],
 [
 "last.fm",
-62
+62,
+[
+"Last FM"
+]
 ],
 [
 "Messenger",
-61
+61,
+[
+"Facebook Chat",
+"Facebook Messenger"
+]
 ],
 [
 "Secure Shell",
-60
+60,
+[
+"Secure Shell protocol",
+"SSh",
+"SSH",
+"SSH protocol"
+]
 ],
 [
 "Signal",
-57
+57,
+[]
 ],
 [
 "Internet Protocol television",
-55
+55,
+[
+"Interactive Personality Television",
+"Internet Protocol TV",
+"IP-TV",
+"IPTV"
+]
 ],
 [
 "Microsoft Outlook",
-55
+55,
+[
+"Microsoft Office Outlook",
+"MS Outlook",
+"Outlook"
+]
 ],
 [
 "ICQ",
-53
+53,
+[
+"I SEE K-YOU",
+"I SEEK YOU"
+]
 ],
 [
 "Google Analytics",
-52
+52,
+[
+"GA4",
+"Google Analytics 4",
+"UA",
+"Universal Analytics"
+]
 ],
 [
 "Brave",
-52
+52,
+[
+"Brave (web browser)"
+]
 ],
 [
 "MyHeritage",
-52
+52,
+[
+"MyHeritage.com"
+]
 ],
 [
 "Google Docs",
-52
+52,
+[
+"Docs",
+"docs.google.com",
+"docs.google.com/document",
+"Documents",
+"Google Documents"
+]
 ],
 [
 "Vine",
-51
+51,
+[]
 ],
 [
 "Truth Social",
-50
+50,
+[
+"TruthSocial"
+]
 ],
 [
 "Google Talk",
-50
+50,
+[
+"gchat",
+"Gmail Chat"
+]
 ],
 [
 "Avast Antivirus",
-49
+49,
+[]
 ],
 [
 "Tinder",
-48
+48,
+[]
 ],
 [
 "Bluesky",
-48
+48,
+[]
 ],
 [
 "Odnoklassniki",
-47
+47,
+[
+"OK.ru"
+]
 ],
 [
 "HBO Max",
-47
+47,
+[]
 ],
 [
 "LiveJournal",
-46
+46,
+[
+"livejournal.com"
+]
 ],
 [
 "Google Calendar",
-46
+46,
+[]
 ],
 [
 "video on demand",
-46
+46,
+[
+"premium video-on-demand",
+"PVOD",
+"VOD"
+]
 ],
 [
 "Microsoft OneDrive",
-46
+46,
+[
+"Windows Live Folders"
+]
 ],
 [
 "iNaturalist",
-45
+45,
+[
+"iNat"
+]
 ],
 [
 "WinRAR",
-45
+45,
+[]
 ],
 [
 "Orkut",
-44
+44,
+[]
 ],
 [
 "Goodreads",
-43
+43,
+[
+"Good reads",
+"goodreads.com",
+"www.goodreads.com"
+]
 ],
 [
 "Google Workspace",
-42
+42,
+[
+"Google Apps for Your Domain"
+]
 ],
 [
 "ResearchGate",
-41
+41,
+[
+"facebook for research",
+"Researchgate",
+"researchgate.com",
+"ResearchGate GmbH",
+"researchgate.net"
+]
 ],
 [
 "Weibo",
-41
+41,
+[]
 ],
 [
 "Crunchyroll",
-40
+40,
+[
+"crunchyroll.com"
+]
 ],
 [
 "Chess.com",
-40
+40,
+[]
 ],
 [
 "Paramount+",
-40
+40,
+[]
 ],
 [
 "LINE",
-39
+39,
+[
+"Line",
+"LINE Messenger"
+]
 ],
 [
 "Google Sites",
-39
+39,
+[
+"JotSpot",
+"sites.google.com"
+]
 ],
 [
 "Gboard",
-38
+38,
+[]
 ],
 [
 "Shazam",
-37
+37,
+[]
 ],
 [
 "Academia.edu",
-37
+37,
+[
+"Academia"
+]
 ],
 [
 "Gopher",
-37
+37,
+[
+"Gofer",
+"Gopher (protocol)",
+"Internet Gofer",
+"Internet Gopher",
+"the Internet Gofer",
+"the Internet Gopher"
+]
 ],
 [
 "Alipay",
-37
+37,
+[
+"AliPay",
+"Alipay.com"
+]
 ],
 [
 "Waze",
-37
+37,
+[
+"FreeMap Israel",
+"Waze Mobile Ltd."
+]
 ],
 [
 "Flightradar24",
-36
+36,
+[
+"flightradar",
+"flightradar24.com",
+"FR24"
+]
 ],
 [
 "Slack",
-36
+36,
+[
+"chatly.io",
+"chatlyio",
+"Slack HQ"
+]
 ],
 [
 "ASKfm",
-36
+36,
+[
+"askfm.pro"
+]
 ],
 [
 "Clubhouse",
-35
+35,
+[
+"Clubhouse: Social audio"
+]
 ],
 [
 "9GAG",
-35
+35,
+[
+"9gag",
+"9Gag"
+]
 ],
 [
 "Yandex Maps",
-35
+35,
+[]
 ],
 [
 "FaceTime",
-35
+35,
+[]
 ],
 [
 "Tencent QQ",
-35
+35,
+[
+"k-you-k-you",
+"KYOUKYOU",
+"OICQ",
+"OpenICQ",
+"OPEN-ICQ",
+"QICQ",
+"Qq",
+"QQ"
+]
 ],
 [
 "LibriVox",
-34
+34,
+[
+"LibriVox Free Audiobook Collection",
+"librivox.org"
+]
 ],
 [
 "Taobao",
-34
+34,
+[
+"moubao",
+"taobao",
+"taobao.com",
+"Taobao Marketplace"
+]
 ],
 [
 "Google Allo",
-34
+34,
+[
+"Allo"
+]
 ],
 [
 "Google Duo",
-34
+34,
+[
+"Duo"
+]
 ],
 [
 "Bilibili",
-34
+34,
+[
+"bilibili",
+"B Site",
+"Mikufans"
+]
 ],
 [
 "Android Auto",
-33
+33,
+[
+"android auto"
+]
 ],
 [
 "Musical.ly",
-33
+33,
+[
+"musical.ly"
+]
 ],
 [
 "Google Buzz",
-33
+33,
+[
+"Buzz by Google",
+"Google Buzz service"
+]
 ],
 [
 "Google Groups",
-33
+33,
+[
+"groups.google.com"
+]
 ],
 [
 "Youku",
-32
+32,
+[
+"Youku.com",
+"Youku Inc."
+]
 ],
 [
 "Apple Books",
-31
+31,
+[
+"Books",
+"com.apple.iBooks",
+"iBooks"
+]
 ],
 [
 "Xiaohongshu",
-31
+31,
+[
+"RED",
+"RedNote",
+"REDnote",
+"XHS"
+]
 ],
 [
 "I2P",
-31
+31,
+[
+"IIP",
+"Invisible Internet Project",
+"Invisible IRC Project"
+]
 ],
 [
 "AOL Instant Messenger",
-31
+31,
+[
+"3char",
+"AIM"
+]
 ],
 [
 "Foursquare City Guide",
-31
+31,
+[
+"4sq",
+"Foursquare app"
+]
 ],
 [
 "GitLab",
-30
+30,
+[
+"Git Lab",
+"Zoom"
+]
 ],
 [
 "Letterboxd",
-30
+30,
+[
+"Letterboxd Vote"
+]
 ],
 [
 "Uber Eats",
-30
+30,
+[
+"UberEats"
+]
 ],
 [
 "Samsung Pay",
-30
+30,
+[
+"SΛMSUNG Pay"
+]
 ],
 [
 "Parler",
-30
+30,
+[]
 ],
 [
 "YouTube Shorts",
-30
+30,
+[
+"Shorts",
+"YT Shorts"
+]
 ],
 [
 "Medium",
-29
+29,
+[
+"A Medium Corporation",
+"medium.com"
+]
 ],
 [
 "Gab",
-29
+29,
+[
+"gab.ai",
+"Gab.ai",
+"gab.com",
+"Gab Social"
+]
 ],
 [
 "Google Lens",
-29
+29,
+[
+"Lens"
+]
 ],
 [
 "Agoda",
-29
+29,
+[
+"Agoda.com"
+]
 ],
 [
 "Firefox for Android",
-29
+29,
+[
+"Fenix",
+"Fennec",
+"Firefox Daylight",
+"Firefox for mobile",
+"Firefox for Mobile",
+"Firefox mobile",
+"Mozilla Fennec"
+]
 ],
 [
 "Apple Wallet",
-29
+29,
+[
+"Apple Passbook",
+"com.apple.Passbook",
+"Passbook",
+"Wallet"
+]
 ],
 [
 "Strava",
-28
+28,
+[
+"Strava app",
+"Strava iphone app"
+]
 ],
 [
 "Meduza",
-28
+28,
+[
+"meduza.io",
+"Медуза"
+]
 ],
 [
 "Periscope",
-28
+28,
+[]
 ],
 [
 "Evernote",
-28
+28,
+[]
 ],
 [
 "Cydia",
-28
+28,
+[]
 ],
 [
 "Niconico",
-28
+28,
+[
+"Nico Nico",
+"NicoNico",
+"Nico Nico Douga",
+"Niconico, Inc.",
+"nicovideo",
+"nicovideo.jp"
+]
 ],
 [
 "Google Messages",
-28
+28,
+[
+"Messages",
+"Messages by Google"
+]
 ],
 [
 "Malwarebytes",
-27
+27,
+[
+"Malwarebytes Anti-Malware",
+"MBAM"
+]
 ],
 [
 "Wolt",
-27
+27,
+[]
 ],
 [
 "FaceApp",
-27
+27,
+[
+"Face app",
+"Face app old face",
+"Faceapp old face"
+]
 ],
 [
 "Adblock Plus",
-27
+27,
+[
+"ABP"
+]
 ],
 [
 "Waterfox",
-26
+26,
+[]
 ],
 [
 "Popcorn Time",
-26
+26,
+[]
 ],
 [
 "Rutube",
-26
+26,
+[
+"rutube.ru"
+]
 ],
 [
 "Norton AntiVirus",
-26
+26,
+[
+"NAV",
+"Norton Antivirus",
+"Norton Anti-Virus",
+"Norton by Symantec",
+"NortonOnline",
+"Norton Security"
+]
 ],
 [
 "Firebase",
-25
+25,
+[
+"Firebase, Inc.",
+"Google Firebase"
+]
 ],
 [
 "Google Play Games",
-25
+25,
+[
+"Google Play Games Services",
+"GPGS"
+]
 ],
 [
 "Nextcloud",
-25
+25,
+[
+"NextCloud"
+]
 ],
 [
 "ownCloud",
-25
+25,
+[]
 ],
 [
 "Google Forms",
-25
+25,
+[
+"docs.google.com/forms",
+"forms.gle",
+"forms.google.com"
+]
 ],
 [
 "Bigo Live",
-25
+25,
+[]
 ],
 [
 "Speedtest",
-25
+25,
+[]
 ],
 [
 "Bebo",
-25
+25,
+[
+"Bebo, Inc."
+]
+],
+[
+"Google Wallet",
+24,
+[
+"กูเกิลวอร์เลท llc"
+]
+],
+[
+"Yelp",
+24,
+[
+"Yelp!",
+"Yelp.com",
+"Yelp Inc",
+"Yelp Inc.",
+"Yelp, Inc.",
+"Yelp Incorporated"
+]
+],
+[
+"BBC iPlayer",
+24,
+[
+"iPlayer"
+]
+],
+[
+"XING",
+24,
+[
+"New Work SE"
+]
+],
+[
+"Google Public DNS",
+23,
+[
+"2001:4860:4860::8844",
+"2001:4860:4860::8888",
+"8.8.4.4",
+"8.8.8.8",
+"dns.google"
+]
+],
+[
+"Obsidian",
+23,
+[
+"Obsidian.md",
+"ObsidianMD"
+]
+],
+[
+"OpenDNS",
+23,
+[
+"Open DNS"
+]
+],
+[
+"Netlog",
+23,
+[]
+],
+[
+"CapCut",
+23,
+[
+"cap cut",
+"CapCut video editing"
+]
+],
+[
+"Viva Engage",
+23,
+[
+"Yammer"
+]
+],
+[
+"DaVinci Resolve",
+23,
+[
+"Blackmagic DaVinci Resolve",
+"ResolDaVince Resolveve"
+]
+],
+[
+"Pinduoduo",
+23,
+[
+"Pinduoduo Platform"
+]
+],
+[
+"Google Chat",
+23,
+[
+"gchat",
+"Google Hangouts Chat",
+"Hangouts Chat"
+]
+],
+[
+"Friendster",
+22,
+[
+"Amigos, Inc."
+]
+],
+[
+"PlayStation Home",
+22,
+[]
+],
+[
+"Mail",
+22,
+[
+"Apple Mail",
+"Mail (iOS)",
+"Mail (iPadOS)",
+"Mail (MacOS)",
+"Mail (watchOS)"
+]
+],
+[
+"Alumniportal Deutschland",
+22,
+[]
+],
+[
+"Archive of Our Own",
+22,
+[]
+],
+[
+"identi.ca",
+22,
+[]
+],
+[
+"VSCO",
+22,
+[]
+],
+[
+"Firefox Focus",
+22,
+[]
+],
+[
+"URL shortening",
+22,
+[]
+],
+[
+"Moltbook",
+21,
+[]
+],
+[
+"inbound marketing",
+21,
+[]
+],
+[
+"Google Play Services",
+21,
+[]
+],
+[
+"Inbox by Gmail",
+21,
+[
+"Google Inbox",
+"Inbox"
+]
+],
+[
+"Cyworld",
+21,
+[]
+],
+[
+"MyAnimeList",
+21,
+[
+"MAL",
+"My Anime List",
+"MyAnimeList Co., Ltd.",
+"MyAnimeList, LLC",
+"MyAnimeList.net"
+]
+],
+[
+"Douban",
+21,
+[
+"Beijing Douwang Technology Co. Ltd.",
+"douban",
+"douban.com"
+]
+],
+[
+"Shopee",
+21,
+[]
+],
+[
+"meebo",
+21,
+[]
+],
+[
+"Organic Maps",
+20,
+[
+"app.organicmaps",
+"OM",
+"OMaps",
+"OrganicMaps"
+]
+],
+[
+"hi5",
+20,
+[
+"hi5.com"
+]
+],
+[
+"Tencent Video",
+20,
+[
+"WeTV"
+]
+],
+[
+"Behance",
+20,
+[
+"Bēhance",
+"behance.com",
+"behance.net"
+]
+],
+[
+"Renren",
+20,
+[
+"renren.com"
+]
+],
+[
+"Ello",
+19,
+[
+"Ello.co"
+]
+],
+[
+"Apple News",
+19,
+[
+" News"
+]
+],
+[
+"OsmAnd",
+19,
+[
+"OpenStreetMap Automated Navigation Directions"
+]
+],
+[
+"Kuaishou",
+19,
+[
+"Gif-show",
+"Gif Show",
+"GifShow",
+"kuai.com",
+"Kuàishǒu",
+"kuaishou.com",
+"Kwai",
+"quick hand",
+"Snack Video"
+]
+],
+[
+"Proton VPN",
+19,
+[]
+],
+[
+"CoinMarketCap",
+19,
+[
+"CMC",
+"Coinmarketcap"
+]
+],
+[
+"Windows Live Spaces",
+19,
+[]
+],
+[
+"expedia.com",
+18,
+[
+"Expedia",
+"Expedia app",
+"Expedia.com",
+"Expedia Travel"
+]
+],
+[
+"Yandex Taxi",
+18,
+[]
+],
+[
+"Sway",
+18,
+[
+"Microsoft Sway",
+"Office Sway"
+]
+],
+[
+"Photos",
+18,
+[
+"Photos (Apple)",
+"Photos (application)",
+"Photos (software)"
+]
+],
+[
+"Calculator",
+18,
+[
+"com.apple.calculator"
+]
+],
+[
+"Steemit",
+18,
+[]
+],
+[
+"Preply",
+18,
+[]
+],
+[
+"Wish.com",
+18,
+[
+"ContextLogic",
+"Wish"
+]
+],
+[
+"1.1.1.1",
+18,
+[]
+],
+[
+"MeWe",
+18,
+[]
+],
+[
+"YouTube Vanced",
+17,
+[
+"Vanced",
+"You Tube Vanced",
+"YT Vanced"
+]
+],
+[
+"Threema",
+17,
+[]
+],
+[
+"TrueCaller",
+17,
+[]
+],
+[
+"MAPS.ME",
+17,
+[
+"MapsWithMe"
+]
+],
+[
+"Ning",
+17,
+[
+"Ning, Inc."
+]
+],
+[
+"Geni",
+17,
+[]
+],
+[
+"Plurk",
+17,
+[
+"PLURK",
+"plurk.com"
+]
+],
+[
+"Termux",
+17,
+[]
+],
+[
+"Swiggy",
+17,
+[]
+],
+[
+"Apple Podcasts",
+17,
+[
+"com.apple.podcasts",
+"Podcasts",
+"podcasts.apple.com"
+]
+],
+[
+"4shared",
+17,
+[
+"4shared.com"
+]
+],
+[
+"Mixi",
+16,
+[]
+],
+[
+"SkyShowtime",
+16,
+[]
+],
+[
+"Flattr",
+16,
+[
+"Flattr AB"
+]
+],
+[
+"Orbot",
+16,
+[
+"Onion Routing Robot"
+]
+],
+[
+"Gojek",
+16,
+[
+"GO-JEK",
+"PT Gojek Indonesia",
+"Velox Technology Holdings Pte. Ltd."
+]
+],
+[
+"IGTV",
+16,
+[
+"IG TV",
+"Instagram TV"
+]
+],
+[
+"IFTTT",
+16,
+[
+"If This Then That",
+"If This, Then That (IFTTT)",
+"ifttt.ai",
+"ifttt.com"
+]
+],
+[
+"Gemini",
+16,
+[
+"Gemini (protocol)",
+"Gemini space",
+"Project Gemini"
+]
+],
+[
+"Crypto.com",
+15,
+[
+"MCO Malta DAX Limited"
+]
+],
+[
+"Gettr",
+15,
+[
+"GETTR"
+]
+],
+[
+"Blued",
+15,
+[]
+],
+[
+"Pixel Camera",
+15,
+[
+"GCam",
+"Google Camera"
+]
+],
+[
+"Apple Health",
+15,
+[
+"com.apple.Health",
+"Health"
+]
+],
+[
+"Minds",
+15,
+[
+"minds.com"
+]
+],
+[
+"Bumble",
+15,
+[
+"Bumble App",
+"Bumble Dating"
+]
+],
+[
+"Jamboard",
+15,
+[
+"Google Jamboard"
+]
+],
+[
+"ModDB",
+15,
+[]
+],
+[
+"Find My iPhone",
+15,
+[]
+],
+[
+"NewPipe",
+15,
+[]
+],
+[
+"Wikipedia",
+15,
+[
+"Wikipedia Android app"
+]
+],
+[
+"Qzone",
+15,
+[
+"QQzone",
+"Q-Zone"
+]
+],
+[
+"Tagged",
+14,
+[
+"tagged",
+"tagged.com"
+]
+],
+[
+"K-9 Mail",
+14,
+[]
+],
+[
+"Foursquare Swarm",
+14,
+[
+"Foursquare Swarm: Check In",
+"Foursquare Swarm: Check-in App",
+"Swarm app"
+]
+],
+[
+"Anobii",
+14,
+[]
+],
+[
+"Radio Garden",
+14,
+[
+"radio.garden"
+]
+],
+[
+"Ekşi Sözlük",
+14,
+[
+"eksisozluk.com",
+"Sour Dictionary",
+"sourtimes.org"
+]
+],
+[
+"Cash App",
+14,
+[
+"Cashapp",
+"Cash app, INC",
+"Square Cash"
+]
+],
+[
+"Windows Live Writer",
+14,
+[]
+],
+[
+"PlayStation App",
+14,
+[
+"PS App"
+]
+],
+[
+"SixDegrees",
+14,
+[
+"SixDegrees.com"
+]
+],
+[
+"Too Good To Go",
+14,
+[
+"TGTG"
+]
+],
+[
+"Aarogya Setu",
+14,
+[
+"anusha"
+]
+],
+[
+"Hyves",
+13,
+[
+"hyves.nl"
+]
+],
+[
+"Flipper Zero",
+13,
+[]
+],
+[
+"DeepSeek",
+13,
+[
+"chat.deepseek.com"
+]
+],
+[
+"Meetup.com",
+13,
+[
+"Meetup"
+]
+],
+[
+"Briar",
+13,
+[
+"Briar_(App)"
+]
+],
+[
+"Miitomo",
+13,
+[]
+],
+[
+"Google Family Link",
+12,
+[
+"Family Link"
+]
+],
+[
+"OkCupid",
+12,
+[
+"OkC",
+"OKC"
+]
+],
+[
+"SurveyMonkey",
+12,
+[
+"MNTV",
+"Momentive",
+"Momentive Global",
+"Momentive Global Inc.",
+"survey monkey",
+"surveymonkey",
+"Surveymonkey",
+"Survey Monkey",
+"SurveyMonkey Audience",
+"SurveyMonkey Enterprise",
+"SVMK, Inc."
+]
+],
+[
+"Brainly",
+12,
+[]
+],
+[
+"Speech Recognition & Synthesis",
+12,
+[
+"Cloud Text-to-Speech",
+"CTTS",
+"GCTTS",
+"Google Cloud Text-to-Speech",
+"Google Speech Services",
+"Google Text-to-Speech",
+"GTTS",
+"Speech Services",
+"SR&S"
+]
+],
+[
+"Twinkl",
+12,
+[
+"twinkl",
+"twinkl.ae",
+"twinkl.ar",
+"twinkl.at",
+"twinkl.ca",
+"twinkl.ch",
+"twinkl.cl",
+"twinkl.co.id",
+"twinkl.co.in",
+"twinkl.co.ke",
+"twinkl.com",
+"twinkl.com.au",
+"twinkl.com.br",
+"twinkl.com.cn",
+"twinkl.com.cy",
+"twinkl.com.eg",
+"twinkl.com.hk",
+"twinkl.com.kw",
+"twinkl.com.mt",
+"twinkl.com.mx",
+"twinkl.com.ng",
+"twinkl.com.pe",
+"twinkl.com.ph",
+"twinkl.com.pk",
+"twinkl.com.qa",
+"twinkl.com.sg",
+"twinkl.com.tr",
+"twinkl.com.tw",
+"twinkl.com.vn",
+"twinkl.co.nz",
+"twinkl.co.th",
+"twinkl.co.uk",
+"twinkl.co.za",
+"twinkl.cz",
+"twinkl.de",
+"twinkl.es",
+"twinkl.fi",
+"twinkl.fr",
+"twinkl.gr",
+"twinkl.hr",
+"twinkl.hu",
+"twinkl.ie",
+"twinkl.jp",
+"twinkl.no",
+"twinkl.pl",
+"twinkl.pt",
+"twinkl.ro",
+"twinkl.si",
+"twinkl.sk",
+"www.twinkl.it"
+]
+],
+[
+"Olympic Channel",
+12,
+[
+"www.OlympicChannel.com"
+]
+],
+[
+"ChatON",
+12,
+[
+"Samsung ChatON"
+]
+],
+[
+"Quad9",
+12,
+[
+"149.112.112.112",
+"2620:fe::9",
+"2620:fe::fe",
+"9.9.9.9"
+]
+],
+[
+"BBC Sounds",
+12,
+[]
+],
+[
+"Pleroma",
+12,
+[]
+],
+[
+"Firefox Lockwise",
+12,
+[
+"Firefox Lockbox"
+]
+],
+[
+"Taimi",
+12,
+[
+"Taimi (app)",
+"Taimi app"
+]
+],
+[
+"Mixcloud",
+12,
+[
+"mixcloud.com",
+"Mixcloud.com"
+]
+],
+[
+"Xbox App",
+12,
+[
+"Xbox",
+"Xbox SmartGlass"
+]
+],
+[
+"Dribbble",
+12,
+[
+"dribbble.com"
+]
+],
+[
+"TraceTogether",
+12,
+[]
+],
+[
+"Koo",
+12,
+[
+"Koo (app)",
+"Koo App",
+"Koo (social network)"
+]
+],
+[
+"Petal Maps",
+11,
+[]
+],
+[
+"Hanyu Da Cidian",
+11,
+[]
+],
+[
+"Doubao",
+11,
+[
+"Dola",
+"doubao.com",
+"Seed"
+]
+],
+[
+"FireChat",
+11,
+[]
+],
+[
+"Asphalt Overdrive",
+11,
+[
+"Asphalt O"
+]
+],
+[
+"Toutiao",
+11,
+[
+"toutiao.com"
+]
+],
+[
+"FreeOTP",
+11,
+[
+"FreeOTP Authenticator"
+]
+],
+[
+"MX Player",
+11,
+[
+"J2 Interactive Co., Ltd."
+]
+],
+[
+"Amikumu",
+11,
+[]
+],
+[
+"Joox",
+11,
+[
+"JOOX",
+"JOOX Music",
+"JOOX - Music & Sing Karaoke"
+]
+],
+[
+"Dzen",
+11,
+[
+"Yandex Zen",
+"Zen"
+]
+],
+[
+"Flixster",
+11,
+[
+"flixster.com",
+"Flixster, Inc."
+]
+],
+[
+"iTunes Ping",
+11,
+[
+"Ping"
+]
+],
+[
+"Apple TV app",
+11,
+[
+"TV app"
+]
+],
+[
+"Files",
+11,
+[
+"Apple Files",
+"Fi (Google)",
+"Files Go",
+"com.apple.DocumentsApp"
+]
+],
+[
+"Google Safe Browsing",
+11,
+[]
+],
+[
+"Cloob",
+11,
+[
+"cloob.com"
+]
+],
+[
+"Google Mobile Services",
+11,
+[
+"GMS"
+]
+],
+[
+"Amino",
+11,
+[
+"Amino: Communities and Chats"
+]
+],
+[
+"Fitness",
+11,
+[
+"Activity",
+"com.apple.Fitness"
+]
+],
+[
+"Noggin",
+11,
+[]
+],
+[
+"Baidu Tieba",
+11,
+[
+"Tieba"
+]
+],
+[
+"mobile device management",
+11,
+[
+"MDM"
+]
+],
+[
+"Diia",
+11,
+[
+"Diia (Action)",
+"Diia City",
+"Diya",
+"Держава і Я",
+"Дія"
+]
+],
+[
+"Google Japanese Input",
+10,
+[
+"Google Japanese Input Method Editor",
+"Japanese Input Method Editor",
+"Mozc"
+]
+],
+[
+"OpenFeint",
+10,
+[]
+],
+[
+"Bitpanda",
+10,
+[]
+],
+[
+"Wuala",
+10,
+[
+"item/properti"
+]
+],
+[
+"UpScrolled",
+10,
+[]
+],
+[
+"Bitchat",
+10,
+[
+"bitchat mesh"
+]
+],
+[
+"Wiser.org",
+10,
+[]
+],
+[
+"YouVersion",
+10,
+[
+"youversion.com"
+]
+],
+[
+"funk",
+10,
+[]
+],
+[
+"Draw Something",
+10,
+[]
+],
+[
+"Monzo",
+10,
+[
+"Monzo Bank",
+"Monzo Bank Limited",
+"Monzo Bank Ltd"
+]
+],
+[
+"MobiOffice",
+10,
+[
+"MobiSystems OfficeSuite",
+"OfficeSuite"
+]
+],
+[
+"Ameba",
+10,
+[]
+],
+[
+"Orange Egypt",
+10,
+[
+"Mobinil"
+]
+],
+[
+"NK.pl",
+10,
+[
+"Nasza-klasa.pl",
+"pamiec"
+]
+],
+[
+"Clock",
+10,
+[
+"com.apple.mobiletimer"
+]
+],
+[
+"Weather",
+10,
+[
+"com.apple.weather",
+"Weather (software)"
+]
+],
+[
+"Rotana Media Group",
+10,
+[
+"Rotana",
+"Rotana Film & TV",
+"Rotana Group",
+"Rotana Holding",
+"Rotana Holding FZ-LLC",
+"Rotana TV"
+]
+],
+[
+"App.net",
+10,
+[
+"ADN",
+"appdotnet"
+]
+],
+[
+"alibaba.com",
+10,
+[
+"Alibaba.com Limited"
+]
+],
+[
+"Skyrock",
+10,
+[
+"Skyblog",
+"Skyrock Blog",
+"Skyrock.com"
+]
+],
+[
+"Procreate",
+10,
+[
+"For iPhone",
+"Procreate for iPad",
+"Procreate for Pocket"
+]
+],
+[
+"Douyin",
+10,
+[]
+],
+[
+"ShareChat",
+10,
+[
+"Sharechat"
+]
+],
+[
+"Pokémon Home",
+10,
+[
+"Pokemon Home"
+]
 ]
 ]

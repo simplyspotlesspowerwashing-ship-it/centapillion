@@ -1,342 +1,690 @@
 [
 [
 "pelmeni",
-63
+63,
+[]
 ],
 [
 "ravioli",
-57
+57,
+[]
 ],
 [
 "gnocchi",
-53
+53,
+[
+"Italian dumpling"
+]
 ],
 [
 "Khinkali",
-49
+49,
+[]
 ],
 [
 "manti",
-46
+46,
+[
+"manta",
+"mantı",
+"mantu",
+"manty"
+]
 ],
 [
 "momo",
-44
+44,
+[
+"Mo:mo"
+]
 ],
 [
 "knödel",
-42
+42,
+[]
 ],
 [
 "wonton",
-41
+41,
+[]
 ],
 [
 "dango",
-41
+41,
+[]
 ],
 [
 "baozi",
-40
+40,
+[
+"bao",
+"pao"
+]
 ],
 [
 "zongzi",
-40
+40,
+[
+"Cáe̤ng",
+"Chàng",
+"Chùng",
+"Júng",
+"rice dumpling",
+"Tsàng",
+"Tson",
+"Zung"
+]
 ],
 [
 "jiaozi",
-39
+39,
+[
+"gaau ji",
+"giyose",
+"guotie",
+"jiǎo",
+"jiǎozi",
+"potstickers"
+]
 ],
 [
 "spätzle",
-38
+38,
+[]
 ],
 [
 "cepelinai",
-34
+34,
+[]
 ],
 [
 "tangyuan",
-33
+33,
+[
+"tang yuan"
+]
 ],
 [
 "joshpara",
-29
+29,
+[
+"chuchvara",
+"düşbere",
+"dushbara",
+"shishbarak",
+"tatarbari"
+]
 ],
 [
 "Dampfnudel",
-24
+24,
+[
+"Dampfnudeln"
+]
 ],
 [
 "Buuz",
-24
+24,
+[
+"buuz",
+"Buuza"
+]
 ],
 [
 "Quenelle",
-23
+23,
+[
+"Knepfle"
+]
 ],
 [
 "Schupfnudel",
-20
+20,
+[]
 ],
 [
 "Germknödel",
-20
+20,
+[]
 ],
 [
 "Semmelknödel",
-19
+19,
+[]
 ],
 [
 "kroppkaka",
-18
+18,
+[
+"kroppkakor"
+]
 ],
 [
 "Kopytka",
-16
+16,
+[]
 ],
 [
 "Idrija dumplings",
-15
+15,
+[
+"idrijski žlikrofi"
+]
 ],
 [
 "matzah ball",
-15
+15,
+[
+"knaidel",
+"knaidelach",
+"knaidelech",
+"knaidels",
+"knaideluch",
+"knaidlach",
+"knaydlech",
+"kneidel",
+"kneidelach",
+"kneidels",
+"kneidlach",
+"kneydel",
+"kneydels",
+"kneydl",
+"kneydlach",
+"kneydlekh",
+"kneydls",
+"matzo ball",
+"matzo balls"
+]
 ],
 [
 "Silesian dumplings",
-14
+14,
+[]
 ],
 [
 "Leberknödel",
-14
+14,
+[]
 ],
 [
 "siopao",
-13
+13,
+[
+"salapao"
+]
 ],
 [
 "Bichak",
-12
+12,
+[
+"bichak"
+]
 ],
 [
 "shengjian mantou",
-11
+11,
+[
+"pan-fried cabbage and pork bun",
+"Shengjianbao"
+]
 ],
 [
 "gnocco fritto",
-11
+11,
+[
+"crescentina"
+]
 ],
 [
 "capuns",
-11
+11,
+[]
 ],
 [
 "knedle",
-11
+11,
+[]
 ],
 [
 "pyzy",
-10
+10,
+[]
 ],
 [
 "Kartoffelklösse",
-10
+10,
+[
+"kartoffelklöße",
+"kartoffelknödel"
+]
 ],
 [
 "Mohnnudel",
-10
+10,
+[]
 ],
 [
 "jau gok",
-10
+10,
+[]
 ],
 [
 "kluski",
-9
+9,
+[
+"klusek",
+"kluska"
+]
 ],
 [
 "Tangbao",
-9
+9,
+[
+"Guantangbao",
+"Guantang Baozi"
+]
 ],
 [
 "Oyaki",
-9
+9,
+[]
 ],
 [
 "pampuchy",
-9
+9,
+[]
 ],
 [
 "Šúľance",
-8
+8,
+[]
 ],
 [
 "pyeonsu",
-8
+8,
+[]
 ],
 [
 "gnocchi alla romana",
-7
+7,
+[]
 ],
 [
 "pickert",
-7
+7,
+[]
 ],
 [
 "Chapalele",
-7
+7,
+[
+"Chapalel"
+]
 ],
 [
 "mitarashi dango",
-7
+7,
+[]
 ],
 [
 "houskové knedlíky",
-6
+6,
+[
+"bread dumpling",
+"bread dumplings",
+"houskový knedlík"
+]
 ],
 [
 "Chichi dango",
-5
+5,
+[]
 ],
 [
 "bakpau",
-5
+5,
+[]
 ],
 [
 "Kasnudeln",
-5
+5,
+[
+"Carinthian noodles"
+]
 ],
 [
 "shiratama",
-4
+4,
+[
+"shiratama dango"
+]
 ],
 [
 "Kaspressknödel",
-4
+4,
+[
+"cheese dumplings",
+"pressed cheese dumplings"
+]
 ],
 [
 "bansh",
-4
+4,
+[
+"banš"
+]
 ],
 [
 "alkaline rice dumplings",
-4
+4,
+[
+"gaan seoi zung"
+]
 ],
 [
 "Gnocchi alla sorrentina",
-4
+4,
+[
+"Gnocchi in the style of Sorrento"
+]
 ],
 [
 "choi pan",
-4
+4,
+[
+"Chai kue"
+]
 ],
 [
 "Mataz",
-4
+4,
+[
+"haluš",
+"psyhaluje"
+]
 ],
 [
 "toasted ravioli",
-4
+4,
+[
+"fried ravioli",
+"T-rav"
+]
 ],
 [
 "Shui jiao",
-4
+4,
+[]
 ],
 [
 "Topfenknödel",
-3
+3,
+[]
 ],
 [
 "zhēngjiao",
-3
+3,
+[
+"zhēngjiǎo"
+]
 ],
 [
 "sasa dango",
-3
+3,
+[
+"onna-dango",
+"otoko-dango"
+]
 ],
 [
 "sobagaki",
-3
+3,
+[]
 ],
 [
 "bramborový knedlík",
-3
+3,
+[]
 ],
 [
 "griessnockerl",
-3
+3,
+[
+"griesskloesschen"
+]
 ],
 [
 "red bean paste bun",
-3
+3,
+[
+"red bean bun"
+]
 ],
 [
 "stäerzelen",
-3
+3,
+[]
 ],
 [
 "potato pyzy",
-3
+3,
+[
+"pyzy"
+]
 ],
 [
 "Grammelknödel",
-2
+2,
+[]
 ],
 [
 "bánh giò",
-2
+2,
+[]
 ],
 [
 "Meat rice dumpling",
-2
+2,
+[]
 ],
 [
 "myōga bochi",
-2
+2,
+[
+"myōgabochi"
+]
 ],
 [
 "uroko dango",
-2
+2,
+[
+"fish scale dumplings",
+"tsubaki dango"
+]
 ],
 [
 "Frankenburger Bratknödel",
-2
+2,
+[]
 ],
 [
 "Kibi dango",
-2
+2,
+[]
 ],
 [
 "Botchan dango",
-2
+2,
+[]
 ],
 [
 "potato gnocchi",
-2
+2,
+[]
 ],
 [
 "doubao",
-2
+2,
+[]
 ],
 [
 "suan tang shui jiao",
-2
+2,
+[]
 ],
 [
 "Mirik meatball",
-2
+2,
+[]
 ],
 [
 "Hanazono Dango",
-2
+2,
+[]
 ],
 [
 "bacon dumplings",
-2
+2,
+[
+"speckknödeln"
+]
 ],
 [
 "Danjiao",
-2
+2,
+[]
+],
+[
+"Fleischknödel",
+1,
+[]
+],
+[
+"kakaran dango",
+1,
+[]
+],
+[
+"denpun dango",
+1,
+[]
+],
+[
+"hatto",
+1,
+[]
+],
+[
+"Hitokuchi gyoza",
+1,
+[]
+],
+[
+"Herahera dango",
+1,
+[]
+],
+[
+"Kakkō Dango",
+1,
+[]
+],
+[
+"shōyu dango",
+1,
+[]
+],
+[
+"Prażucha",
+1,
+[]
+],
+[
+"Dhapu momo",
+1,
+[
+"Tibetan momos"
+]
+],
+[
+"potato-dough dumpling",
+1,
+[
+"potato dumpling"
+]
+],
+[
+"varaki",
+1,
+[]
+],
+[
+"hoorische",
+1,
+[]
+],
+[
+"gnocchi di zucca",
+1,
+[
+"pumpkin gnocchi"
+]
+],
+[
+"Swabian Spätzle",
+1,
+[]
+],
+[
+"colțunași",
+1,
+[
+"coltunasi"
+]
+],
+[
+"bramloše",
+1,
+[]
+],
+[
+"Turkish mantı",
+1,
+[
+"Kayseri mantısı",
+"Turkish manti"
+]
+],
+[
+"Deep-fried wonton",
+1,
+[
+"caau wan tan"
+]
+],
+[
+"buckwheat dumplings",
+1,
+[]
+],
+[
+"Big Mac Bao",
+0,
+[]
+],
+[
+"Bay Gyoza",
+0,
+[]
+],
+[
+"Sinop mantı",
+0,
+[]
+],
+[
+"beef ravioli",
+0,
+[]
 ]
 ]

@@ -1,0 +1,45 @@
+Hokkien
+Teochew
+Shanghainese
+Hakka
+Cantonese
+Hainanese
+Fuzhounese
+Taishanese
+Wu Chinese
+Min Nan
+Gan
+Xiang
+Quenya
+Sindarin
+Elvish
+Dothraki
+High Valyrian
+Klingon
+Na'vi
+Newspeak
+Parseltongue
+Simlish
+Huttese
+Lapine
+Mayan=maya
+Yucatec Maya
+K'iche'
+Kaqchikel
+British Sign Language=bsl
+American Sign Language=asl
+Auslan
+Pig Latin
+Ebonics=aave
+Pidgin
+Creole
+Haitian Creole
+Patois
+Jamaican Patois
+Tok Pisin
+Bislama
+Singlish
+Spanglish
+Franglais
+Hinglish
+Taglish

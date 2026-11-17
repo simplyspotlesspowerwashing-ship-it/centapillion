@@ -1,126 +1,261 @@
 [
 [
 "naan",
-68
+68,
+[
+"butter naan",
+"garlic naan",
+"khamiri",
+"naan bread",
+"nan"
+]
 ],
 [
 "fish and chips",
-66
+66,
+[
+"fish ‘n’ chips",
+"fish supper"
+]
 ],
 [
 "idli",
-48
+48,
+[
+"idly"
+]
 ],
 [
 "Kulfi",
-46
+46,
+[
+"Cookbook:Kulfi",
+"kulfis",
+"qulfi"
+]
 ],
 [
 "masala chai",
-46
+46,
+[
+"chai",
+"chai latte",
+"karak",
+"spiced tea"
+]
 ],
 [
 "tandoori chicken",
-42
+42,
+[
+"tandoori",
+"tandoori murgh"
+]
 ],
 [
 "Panipuri",
-42
+42,
+[
+"golgappa",
+"pani ke batashe",
+"Pani Puri",
+"puchka"
+]
 ],
 [
 "butter chicken",
-40
+40,
+[
+"murgh makhani"
+]
 ],
 [
 "falooda",
-40
+40,
+[]
 ],
 [
 "thali",
-36
+36,
+[]
 ],
 [
 "Dahi vada",
-24
+24,
+[]
 ],
 [
 "Dal makhani",
-23
+23,
+[]
 ],
 [
 "Chaat masala",
-22
+22,
+[
+"Chat Masala"
+]
 ],
 [
 "aloo paratha",
-17
+17,
+[
+"alu paratha"
+]
 ],
 [
 "rabri",
-16
+16,
+[
+"rabdi"
+]
 ],
 [
 "amba",
-14
+14,
+[]
 ],
 [
 "baingan bartha",
-13
+13,
+[]
 ],
 [
 "Hyderabadi haleem",
-12
+12,
+[]
 ],
 [
 "zarda",
-12
+12,
+[]
 ],
 [
 "Akuri",
-11
+11,
+[
+"khaghina"
+]
 ],
 [
 "Dal dhokli",
-10
+10,
+[]
 ],
 [
 "Shemai",
-10
+10,
+[]
 ],
 [
 "Kachumber",
-9
+9,
+[]
 ],
 [
 "Osmania Biscuit",
-8
+8,
+[]
 ],
 [
 "Handvo",
-8
+8,
+[]
 ],
 [
 "Fafda",
-7
+7,
+[]
 ],
 [
 "Mirchi Bada",
-7
+7,
+[]
 ],
 [
 "Bombay potato",
-6
+6,
+[]
 ],
 [
 "Chicken Chettinad",
-5
+5,
+[]
 ],
 [
 "Tandoori roti",
-5
+5,
+[]
 ],
 [
 "chicken biryani",
-4
+4,
+[]
+],
+[
+"Indian-Nepali restaurants in Japan",
+2,
+[]
+],
+[
+"Kadhi chawal",
+2,
+[]
+],
+[
+"Kidyo",
+2,
+[
+"Kulkuls"
+]
+],
+[
+"Pathia",
+2,
+[]
+],
+[
+"Cheela",
+1,
+[]
+],
+[
+"Mokthuk",
+1,
+[]
+],
+[
+"Bara",
+1,
+[]
+],
+[
+"Indian curry",
+1,
+[]
+],
+[
+"Dosa",
+1,
+[]
+],
+[
+"Indian restaurant",
+1,
+[]
+],
+[
+"Masala Karela Recipe",
+0,
+[
+"indian food"
+]
+],
+[
+"Arbi (dish)",
+0,
+[
+"Arvi"
+]
 ]
 ]

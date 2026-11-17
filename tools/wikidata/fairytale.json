@@ -1,1566 +1,3645 @@
 [
 [
 "The Little Mermaid",
-107
+107,
+[
+"Den lille havfrue"
+]
 ],
 [
 "Rapunzel",
-67
+67,
+[]
 ],
 [
 "Beauty and the Beast",
-62
+62,
+[
+"La Belle et la Bête"
+]
 ],
 [
 "The Frog Prince",
-42
+42,
+[
+"KHM 1",
+"The Frog King, or Iron Heinrich"
+]
 ],
 [
 "Jack and the Beanstalk",
-42
+42,
+[]
 ],
 [
 "Goldilocks and the Three Bears",
-37
+37,
+[
+"Silver‐Locks and the Three Bears",
+"The Story of the Three Bears",
+"The Three Bears"
+]
 ],
 [
 "The Swineherd",
-22
+22,
+[
+"Svinedrengen"
+]
 ],
 [
 "East of the Sun and West of the Moon",
-19
+19,
+[
+"Østenfor Sol og vestenfor Maane"
+]
 ],
 [
 "One-inch boy",
-18
+18,
+[
+"Issun-bōshi"
+]
 ],
 [
 "The Twelve Brothers",
-18
+18,
+[]
 ],
 [
 "Ukrainian fairy tale",
-14
+14,
+[]
 ],
 [
 "Soria Moria Castle",
-13
+13,
+[]
 ],
 [
 "The Crab and the Monkey",
-12
+12,
+[
+"The Battle of the Ape and the Crab"
+]
 ],
 [
 "The Heart of a Monkey",
-12
+12,
+[
+"The Jelly Fish and the Monkey",
+"猿の生肝"
+]
 ],
 [
 "kijo",
-11
+11,
+[
+"onibaba"
+]
 ],
 [
 "The Gingerbread Man",
-11
+11,
+[
+"The Gin‐ger‐bread Boy",
+"The Gingerbread Boy"
+]
 ],
 [
 "Baš Čelik",
-11
+11,
+[]
 ],
 [
 "The Master Thief",
-10
+10,
+[]
 ],
 [
 "Hare of Inaba",
-10
+10,
+[
+"The White Hare And The Crocodiles",
+"White Hare of Inaba"
+]
 ],
 [
 "Tahir and Zuhra",
-10
+10,
+[
+"Tahir and Zohra"
+]
 ],
 [
 "The Ridiculous Wishes",
-10
+10,
+[
+"The Three Ridiculous Wishes"
+]
 ],
 [
 "The Giant Who Had No Heart in His Body",
-10
+10,
+[]
 ],
 [
 "The Enchanted Pig",
-10
+10,
+[]
 ],
 [
 "Clever Gretel",
-10
+10,
+[
+"Clever Grethel"
+]
 ],
 [
 "Father Frost",
-9
+9,
+[
+"Frost",
+"Jack Frost",
+"King Frost",
+"The Story of King Frost"
+]
 ],
 [
 "The Fairy Pari-Banou and Prince Ahmed",
-9
+9,
+[
+"Histoire du prince Ahmed, et de la fée Pari-Banou",
+"Ахмад та Пері Бану",
+"Ахмед і Парібану",
+"Історія принца Ахмеда та феї Парібану",
+"Принц Ахмед і фея"
+]
 ],
 [
 "Ye Xian",
-9
+9,
+[]
 ],
 [
 "The Tiger, the Brahmin and the Jackal",
-8
+8,
+[]
 ],
 [
 "Ileana Simziana",
-8
+8,
+[]
 ],
 [
 "Dapplegrim",
-8
+8,
+[
+"Grimsborken"
+]
 ],
 [
 "Katie Woodencloak",
-8
+8,
+[
+"Kari Træstak",
+"Kari Woodencloak"
+]
 ],
 [
 "The Princess on the Glass Hill",
-8
+8,
+[
+"Jomfruen paa Glasbjerget"
+]
 ],
 [
 "The Twelve Wild Ducks",
-8
+8,
+[]
 ],
 [
 "Golden Apple and Nine Peacocks",
-7
+7,
+[
+"The Golden Apples and the Nine Peahens",
+"The Golden Apple-tree, and the Nine Peahens",
+"The Nine Peahens and the Golden Apples",
+"The Seven Golden Peahens",
+"Zlatna jabuka i devet paunica"
+]
 ],
 [
 "Snøfrid Svåsesdotter",
-7
+7,
+[
+"Snäfridr",
+"Snefried (?)"
+]
 ],
 [
 "Gertrude's Bird",
-7
+7,
+[]
 ],
 [
 "Black Bull of Norroway",
-7
+7,
+[
+"The Black Bull of Norroway"
+]
 ],
 [
 "The King Who Would Be Stronger Than Fate",
-7
-],
-[
-"Champavati",
-6
-],
-[
-"The Snake Prince",
-6
+7,
+[]
 ],
 [
 "Cinderella",
-6
+6,
+[
+"Cendrillon ou la petite pantoufle de verre",
+"Cinderella or the little glass slipper"
+]
+],
+[
+"Champavati",
+6,
+[]
+],
+[
+"The Snake Prince",
+6,
+[]
 ],
 [
 "The Brown Bear of Norway",
-6
+6,
+[]
 ],
 [
 "The Witch in the Stone Boat",
-6
+6,
+[]
 ],
 [
 "Bushy Bride",
-6
+6,
+[]
 ],
 [
 "Prince Hat under the Ground",
-6
+6,
+[]
 ],
 [
 "Tatterhood",
-6
+6,
+[]
 ],
 [
 "The Husband Who Was to Mind the House",
-6
+6,
+[
+"Mannen som skulde stelle hjemme",
+"The Man who was going to Mind the House"
+]
 ],
 [
 "The Jogi's Punishment",
-6
+6,
+[]
 ],
 [
 "The Old Dame and her Hen",
-6
+6,
+[]
 ],
 [
 "The Old Witch",
-6
+6,
+[]
 ],
 [
 "The Three Aunts",
-6
+6,
+[]
 ],
 [
 "The Wicked Sisters",
-6
+6,
+[]
 ],
 [
 "What Came of Picking Flowers",
-6
+6,
+[]
 ],
 [
 "What the Rose did to the Cypress",
-6
+6,
+[]
 ],
 [
 "Harap Alb",
-5
+5,
+[
+"Harap-alb"
+]
 ],
 [
 "Youth without age and life without death",
-5
+5,
+[
+"Tinerețe fără de bătrânețe și viață fără de moarte"
+]
 ],
 [
 "Flying Ship",
-5
+5,
+[]
 ],
 [
 "The Story of Abou Hassan, or The Sleeper Awakened",
-5
+5,
+[
+"The Sleeper and the Waker"
+]
 ],
 [
 "Boots and the Troll",
-5
+5,
+[
+"About Ash Lad, Who Stole the Troll's Silver Ducks, Coverlet, and Golden Harp"
+]
 ],
 [
 "The Story of How One Man Fed Two Generals",
-5
+5,
+[]
 ],
 [
 "Fairy Ointment",
-5
+5,
+[]
 ],
 [
 "Biancabella and the Snake",
-5
+5,
+[
+"The Snake"
+]
 ],
 [
 "The Companion",
-5
+5,
+[]
 ],
 [
 "Esben and the Witch",
-5
+5,
+[]
 ],
 [
 "Crocodile",
-5
+5,
+[
+"Krokodil"
+]
 ],
 [
 "Moydodyr",
-5
+5,
+[
+"Moidodyr"
+]
 ],
 [
 "Beauty and Pock Face",
-5
+5,
+[]
 ],
 [
 "Boots Who Made the Princess Say, \"That's A Story\"",
-5
+5,
+[]
 ],
 [
 "Buttercup",
-5
+5,
+[]
 ],
 [
 "Catherine and her Destiny",
-5
+5,
+[]
 ],
 [
 "Catskin",
-5
+5,
+[]
 ],
 [
 "Drakestail",
-5
+5,
+[
+"Bout-d’-Canard",
+"Quackling"
+]
 ],
 [
 "The Master-Smith",
-5
+5,
+[]
 ],
 [
 "Farmer Weathersky",
-5
+5,
+[
+"Farmer Weatherbeard"
+]
 ],
 [
 "Gudbrand on the Hill-side",
-5
+5,
+[]
 ],
 [
 "Mr Simigdáli",
-5
+5,
+[
+"Master Semolina",
+"Mr Simigdali"
+]
 ],
 [
 "Myrsina",
-5
+5,
+[]
 ],
 [
 "Shortshanks",
-5
+5,
+[
+"Lillekort"
+]
 ],
 [
 "The Daughter of the Skies",
-5
+5,
+[]
 ],
 [
 "The Enchanted Canary",
-5
+5,
+[]
 ],
 [
 "The Golden Lion",
-5
+5,
+[]
 ],
 [
 "The Love for Three Oranges",
-5
+5,
+[
+"Le tre cetra",
+"The Three Citrons",
+"V No. 9"
+]
 ],
 [
 "The Nunda, Eater of People",
-5
+5,
+[]
 ],
 [
 "The Red Ettin",
-5
+5,
+[]
 ],
 [
 "The Seven Foals",
-5
+5,
+[
+"De syv Folerne"
+]
 ],
 [
 "The Tale of the Hoodie",
-5
+5,
+[]
 ],
 [
 "The Thirteenth Son of the King of Erin",
-5
+5,
+[]
 ],
 [
 "The Three Daughters of King O'Hara",
-5
+5,
+[]
 ],
 [
 "The Three Princesses of Whiteland",
-5
+5,
+[
+"De tre Prindsesser i Hvidtenland"
+]
 ],
 [
 "The Wonderful Birch",
-5
+5,
+[]
 ],
 [
 "Prince Sobur",
-4
+4,
+[]
 ],
 [
 "Habrmani",
-4
+4,
+[]
 ],
 [
 "The Hedgehog, the Merchant, the King and the Poor Man",
-4
+4,
+[]
 ],
 [
 "Abu al-Husn and His Slave-Girl Tawaddud",
-4
+4,
+[]
 ],
 [
 "The Big Bird Dan",
-4
+4,
+[]
 ],
 [
 "The Flax",
-4
+4,
+[]
 ],
 [
 "Golden Hair",
-4
+4,
+[
+"Zlatovlaska the Golden-Haired"
+]
 ],
 [
 "The Fisher-Girl and the Crab",
-4
+4,
+[]
 ],
 [
 "The Lute Player",
-4
+4,
+[]
 ],
 [
 "Lord Peter",
-4
+4,
+[]
 ],
 [
 "King Fortunatus's Golden Wig",
-4
+4,
+[]
 ],
 [
 "Märchen-Almanach auf das Jahr 1827",
-4
+4,
+[]
 ],
 [
 "Little Peter's Journey to the Moon",
-4
+4,
+[
+"Peter and Anneli's Journey to the Moon",
+"Peterchens Mondfahrt"
+]
 ],
 [
 "The Soul Cages",
-4
+4,
+[]
 ],
 [
 "The Beauty Sleeping in the Wood",
-4
+4,
+[
+"Sleeping Beauty"
+]
 ],
 [
 "The Little Mouse",
-4
+4,
+[]
 ],
 [
 "Childe Rowland",
-4
+4,
+[]
 ],
 [
 "Mukha Tsokotukha",
-4
+4,
+[]
 ],
 [
 "Boots Who Ate a Match With the Troll",
-4
+4,
+[]
 ],
 [
 "Diamond Cut Diamond",
-4
+4,
+[]
 ],
 [
 "The Lad who went to the North Wind",
-4
+4,
+[]
 ],
 [
 "Fair, Brown and Trembling",
-4
+4,
+[]
 ],
 [
 "Gold-Tree and Silver-Tree",
-4
+4,
+[]
 ],
 [
 "Prince Hyacinth and the Dear Little Princess",
-4
+4,
+[
+"Désir et Mignone"
+]
 ],
 [
 "Prunella",
-4
+4,
+[]
 ],
 [
 "Prâslea the Brave and the Golden Apples",
-4
+4,
+[
+"Praslea the Brave and the Golden Apples"
+]
 ],
 [
 "Rushen Coatie",
-4
+4,
+[]
 ],
 [
 "The Bird of Truth",
-4
+4,
+[]
 ],
 [
 "The Black Thief and Knight of the Glen",
-4
+4,
+[]
 ],
 [
 "The Boy Who Drew Cats",
-4
+4,
+[
+"Neko wo egaita shonen"
+]
 ],
 [
 "The Boy and the Wolves",
-4
+4,
+[]
 ],
 [
 "The Boys with the Golden Stars",
-4
+4,
+[]
 ],
 [
 "The Bronze Ring",
-4
+4,
+[
+"L'anneau de Bronze"
+]
 ],
 [
 "The Cat on the Dovrefjell",
-4
+4,
+[]
 ],
 [
 "The Dancing Water, the Singing Apple, and the Speaking Bird",
-4
+4,
+[]
 ],
 [
 "The Death of Abu Nowas and of his Wife",
-4
+4,
+[]
 ],
 [
 "The Dragon and the Prince",
-4
+4,
+[]
 ],
 [
 "The Fish and the Ring",
-4
+4,
+[]
 ],
 [
 "The Golden-Headed Fish",
-4
+4,
+[]
 ],
 [
 "The Greenish Bird",
-4
+4,
+[]
 ],
 [
 "The King of England and his Three Sons",
-4
+4,
+[]
 ],
 [
 "The Lassie and Her Godmother",
-4
+4,
+[]
 ],
 [
 "The Nettle Spinner",
-4
+4,
+[]
 ],
 [
 "The One-Handed Girl",
-4
+4,
+[]
 ],
 [
 "The Small-tooth Dog",
-4
+4,
+[]
 ],
 [
 "The Sprig of Rosemary",
-4
+4,
+[]
 ],
 [
 "The Three Heads of the Well",
-4
+4,
+[]
 ],
 [
 "Water and Salt",
-4
+4,
+[]
 ],
 [
 "The Goat and the Ram",
-4
+4,
+[]
 ],
 [
 "Trương Ba's Soul in the Butcher's Body",
-3
+3,
+[]
 ],
 [
 "The Magic Lotus Lantern",
-3
+3,
+[]
 ],
 [
 "The Tale of the Woodcutter and his Daughters",
-3
+3,
+[]
 ],
 [
 "The Tale about Baba-Yaga",
-3
+3,
+[]
 ],
 [
 "Little Vigg's Christmas Eve adventure",
-3
+3,
+[]
 ],
 [
 "The Story of the Abandoned Princess",
-3
+3,
+[]
 ],
 [
 "About the astonishing husband Horu",
-3
+3,
+[]
 ],
 [
 "Lo turzo d'oro",
-3
+3,
+[
+"The Golden Root",
+"The Golden Trunk",
+"V No. 4"
+]
 ],
 [
 "Liberal",
-3
+3,
+[]
 ],
 [
 "The Travelling Companion",
-3
+3,
+[]
 ],
 [
 "Məlikməmməd",
-3
+3,
+[]
 ],
 [
 "My Own Self",
-3
+3,
+[]
 ],
 [
 "The Stolen Sun",
-3
+3,
+[]
 ],
 [
 "Tale of Ersh Ershovich",
-3
+3,
+[]
 ],
 [
 "Wise Minnow",
-3
+3,
+[]
 ],
 [
 "The Adventures of Bibigon",
-3
+3,
+[]
 ],
 [
 "Per Gynt",
-3
+3,
+[]
 ],
 [
 "Anthousa, Xanthousa, Chrisomalousa",
-3
+3,
+[]
 ],
 [
 "Boots and His Brothers",
-3
+3,
+[]
 ],
 [
 "Cap-o'-Rushes",
-3
+3,
+[
+"Cap o' Rushes"
+]
 ],
 [
 "Doll i' the Grass",
-3
+3,
+[]
 ],
 [
 "The Widow's Son",
-3
+3,
+[
+"Enkesønnen"
+]
 ],
 [
 "Făt-Frumos with the Golden Hair",
-3
+3,
+[]
 ],
 [
 "How the Devil Married Three Sisters",
-3
+3,
+[]
 ],
 [
 "How the Dragon was Tricked",
-3
+3,
+[]
 ],
 [
 "The story of Prince Ahmed and the fairy Paribanou",
-3
+3,
+[]
 ],
 [
 "The Princess in the Suit of Leather",
-3
+3,
+[]
 ],
 [
 "The Trolls in Hedale Wood",
-3
+3,
+[]
 ],
 [
 "Jack and His Golden Snuff-Box",
-3
+3,
+[]
 ],
 [
 "Kate Crackernuts",
-3
+3,
+[
+"Katie Crackernuts"
+]
 ],
 [
 "King Kojata",
-3
+3,
+[]
 ],
 [
 "The Bird 'Grip'",
-3
+3,
+[]
 ],
 [
 "Little Annie the Goose-Girl",
-3
+3,
+[
+"Little Lucy Goosey Girl",
+"Vesle Aase Gaasepige"
+]
 ],
 [
 "Lovely Ilonka",
-3
+3,
+[]
 ],
 [
 "Mossycoat",
-3
+3,
+[
+"\"Mossycoat\""
+]
 ],
 [
 "Nourie Hadig",
-3
+3,
+[]
 ],
 [
 "Puddocky",
-3
+3,
+[
+"Cherry, or the Frog-Bride"
+]
 ],
 [
 "Tattercoats",
-3
+3,
+[]
 ],
 [
 "The Blue Belt",
-3
+3,
+[]
 ],
 [
 "The Buried Moon",
-3
+3,
+[]
 ],
 [
 "The Canary Prince",
-3
+3,
+[]
 ],
 [
 "The Child who came from an Egg",
-3
+3,
+[]
 ],
 [
 "The Cunning Shoemaker",
-3
+3,
+[]
 ],
 [
 "The Daughter of Buk Ettemsuch",
-3
+3,
+[]
 ],
 [
 "The Enchanted Watch",
-3
+3,
+[]
 ],
 [
 "The Fiend",
-3
+3,
+[]
 ],
 [
 "The Fox Sister",
-3
+3,
+[]
 ],
 [
 "The Golden Bracelet",
-3
+3,
+[]
 ],
 [
 "The Golden Crab",
-3
+3,
+[]
 ],
 [
 "The Greek Princess and the Young Gardener",
-3
+3,
+[]
 ],
 [
 "The Green Knight",
-3
+3,
+[]
 ],
 [
 "The Hedley Kow",
-3
+3,
+[]
 ],
 [
 "The Horse Gullfaxi and the Sword Gunnfoder",
-3
+3,
+[]
 ],
 [
 "The Husband of the Rat's Daughter",
-3
+3,
+[
+"Finding a Mice's Husband",
+"Finding a Mouse's Husband"
+]
 ],
 [
 "The King of Love",
-3
+3,
+[]
 ],
 [
 "The Knights of the Fish",
-3
+3,
+[]
 ],
 [
 "The Little Green Frog",
-3
+3,
+[]
 ],
 [
 "The Lost Children",
-3
+3,
+[]
 ],
 [
 "The Rose-Tree",
-3
+3,
+[]
 ],
 [
 "The Sea-Maiden",
-3
+3,
+[]
 ],
 [
 "The Sharp Grey Sheep",
-3
+3,
+[
+"The Sharp-Horned Grey Sheep"
+]
 ],
 [
 "The Sleeping Prince",
-3
+3,
+[]
 ],
 [
 "The Story of Tam and Cam",
-3
+3,
+[]
 ],
 [
 "The Story of Three Wonderful Beggars",
-3
+3,
+[]
 ],
 [
 "The Story of Zoulvisia",
-3
+3,
+[]
 ],
 [
 "Thirteenth",
-3
+3,
+[
+"Tridicinu"
+]
 ],
 [
 "Tritill, Litill, and the Birds",
-3
+3,
+[]
 ],
 [
 "True and Untrue",
-3
+3,
+[]
 ],
 [
 "Udea and her Seven Brothers",
-3
+3,
+[]
 ],
 [
 "The Ditmarsch Tale of Lies",
-3
+3,
+[
+"The Tall Tale from Ditmarsh"
+]
 ],
 [
 "Adventures of Gilla Na Chreck An Gour",
-2
+2,
+[]
 ],
 [
 "Vuoripeikot",
-2
+2,
+[]
 ],
 [
 "Cinder-Maid",
-2
+2,
+[]
 ],
 [
 "Prince Wolf",
-2
+2,
+[]
 ],
 [
 "The Horse-Devil and the Witch",
-2
+2,
+[]
 ],
 [
 "Devil and Káča",
-2
+2,
+[]
 ],
 [
 "Les Princes et la Princesse de Marinca",
-2
+2,
+[]
 ],
 [
 "The Story of Princess Zeineb and King Leopard",
-2
+2,
+[]
 ],
 [
 "Sigurd, the King's Son",
-2
+2,
+[]
 ],
 [
 "The Green Man of Knowledge",
-2
+2,
+[]
 ],
 [
 "The White Wolf",
-2
+2,
+[]
 ],
 [
 "About a Little Fairy and a Young Shepherd",
-2
+2,
+[]
 ],
 [
 "Red Riding Hood",
-2
+2,
+[]
 ],
 [
 "Trandafiru",
-2
+2,
+[]
 ],
 [
 "Elijah the Prophet and St. Nicholas",
-2
+2,
+[]
 ],
 [
 "Nikita the Footless and the Terrible Tsar",
-2
+2,
+[]
 ],
 [
 "Peerless Beauty the Cake-Baker",
-2
+2,
+[]
 ],
 [
 "Story of Lyubim Tsarevich and the Winged Wolf",
-2
+2,
+[]
 ],
 [
 "Story of the Knight Yaroslav Lasarevich and the Princess Anastasia",
-2
+2,
+[]
 ],
 [
 "Story of the Most Wonderful and Noble Self-Playing Harp",
-2
+2,
+[]
 ],
 [
 "The Story of Kasyan and the Dream Maiden",
-2
+2,
+[]
 ],
 [
 "The Golden Horde (fairy tale)",
-2
+2,
+[]
 ],
 [
 "Whirlwind the Whistler, or the Kingdoms of Copper, Silver, and Gold",
-2
+2,
+[]
 ],
 [
 "How Stavr the Noble was saved by a Woman's Wiles",
-2
+2,
+[]
 ],
 [
 "The Adventure of the Burning White Stone",
-2
+2,
+[]
 ],
 [
 "How Quiet Dunai had brought the Princess Apraxia to Kiev",
-2
+2,
+[]
 ],
 [
 "The Story of Nikitich and Marina",
-2
+2,
+[]
 ],
 [
 "How the Court of Vladimir received a Visitor from India the Glorious",
-2
+2,
+[]
 ],
 [
 "Vasily the Turbulent",
-2
+2,
+[]
 ],
 [
 "The Mirror of Matsuyama",
-2
+2,
+[
+"松山鏡"
+]
 ],
 [
 "King Crin",
-2
+2,
+[]
 ],
 [
 "The Tale of the Little Dog",
-2
+2,
+[]
 ],
 [
 "Hrnečku vař",
-2
+2,
+[]
 ],
 [
 "The Ruined Man of Baghdad and His Slave-Girl",
-2
+2,
+[]
 ],
 [
 "The Fan of Patience",
-2
+2,
+[]
 ],
 [
 "The Dragon-Prince and the Stepmother",
-2
+2,
+[]
 ],
 [
 "The Girl With Two Husbands",
-2
+2,
+[]
 ],
 [
 "María, manos blancas",
-2
+2,
+[]
 ],
 [
 "The Prince and the Gypsy Woman",
-2
+2,
+[]
 ],
 [
 "The Lake Beetle as Groom",
-2
+2,
+[]
 ],
 [
 "Grandfather's daughter and grandmother's daughter",
-2
+2,
+[]
 ],
 [
 "Prince Whitebear",
-2
+2,
+[]
 ],
 [
 "The Tale of Aftab",
-2
+2,
+[]
 ],
 [
 "Anahit",
-2
+2,
+[]
 ],
 [
 "Ivan-Pobyvan",
-2
+2,
+[]
 ],
 [
 "The Dwarf, the Fox and the Princess",
-2
+2,
+[]
 ],
 [
 "George and His Goat",
-2
+2,
+[]
 ],
 [
 "The Cucumber Girl",
-2
+2,
+[]
 ],
 [
 "Mõtsavaht",
-2
+2,
+[]
 ],
 [
 "Yanechek and the Water Demon",
-2
+2,
+[]
 ],
 [
 "Šípková Růženka",
-2
+2,
+[]
 ],
 [
 "Lost Conscience",
-2
+2,
+[]
 ],
 [
 "Fool",
-2
+2,
+[]
 ],
 [
 "The Princess Who Was Hidden Underground",
-2
+2,
+[
+"The Princess who was hidden Underground"
+]
 ],
 [
 "Why the Bear Is Stumpy-Tailed",
-2
+2,
+[]
 ],
 [
 "The Well of the World's End",
-2
+2,
+[]
 ],
 [
 "The Little Girl Sold with the Pears",
-2
+2,
+[]
 ],
 [
 "The Magician's Horse",
-2
+2,
+[]
 ],
 [
 "Violin",
-2
+2,
+[]
 ],
 [
 "Der Pfiffigste",
-2
+2,
+[]
 ],
 [
 "The Cavern of Steenfoll",
-2
+2,
+[]
 ],
 [
 "Die Mandelkörbchen",
-2
+2,
+[]
 ],
 [
 "Die schlechten Kameraden",
-2
+2,
+[]
 ],
 [
 "Rattenkönig Birlibi",
-2
+2,
+[]
 ],
 [
 "Said’s Adventures",
-2
+2,
+[
+"The Adventures of Said"
+]
 ],
 [
 "Fairer-than-a-Fairy",
-2
+2,
+[]
 ],
 [
 "The Emperor Trojan's Goat's Ears",
-2
+2,
+[]
 ],
 [
 "How the Daughter-in-Law Got the Coins",
-2
+2,
+[]
 ],
 [
 "Jan Karafiát - Broučci - circa 1919",
-2
+2,
+[]
 ],
 [
 "Little Briar Rose",
-2
+2,
+[
+"Briar Rose",
+"Sleeping Beauty",
+"The sleeping beauty",
+"Thorn Rose"
+]
 ],
 [
 "The Voice of Death",
-2
+2,
+[]
 ],
 [
 "Old Bread-Salt is Forgotten",
-2
+2,
+[]
 ],
 [
 "Habogi",
-2
+2,
+[]
 ],
 [
 "Aybolit",
-2
+2,
+[]
 ],
 [
 "Barmaley",
-2
+2,
+[]
 ],
 [
 "Wild Landowner",
-2
+2,
+[]
 ],
 [
 "Defeat Barmaley!",
-2
+2,
+[]
 ],
 [
 "Fedora's Grief",
-2
+2,
+[
+"Fedorino gore"
+]
 ],
 [
 "A Tale of the Tontlawald",
-2
+2,
+[]
 ],
 [
 "Aurore and Aimée",
-2
+2,
+[
+"Aurore and Aimee"
+]
 ],
 [
 "Clever Maria",
-2
+2,
+[]
 ],
 [
 "Conall Cra Bhuidhe",
-2
+2,
+[
+"Conall Yellowclaw"
+]
 ],
 [
 "Don Joseph Pear",
-2
+2,
+[]
 ],
 [
 "Hacon Grizzlebeard",
-2
+2,
+[]
 ],
 [
 "The Two Step-Sisters",
-2
+2,
+[]
 ],
 [
 "Rich Peter the Pedlar",
-2
+2,
+[]
 ],
 [
 "Thumbikin",
-2
+2,
+[]
 ],
 [
 "The Lad and the Deil",
-2
+2,
+[
+"The Lad and the Devil"
+]
 ],
 [
 "Father Roquelaure",
-2
+2,
+[]
 ],
 [
 "The Portrait of the Beautiful Princess",
-2
+2,
+[]
 ],
 [
 "Grain-o'-Maize",
-2
+2,
+[]
 ],
 [
 "The Prince Who Had Ass's Ears",
-2
+2,
+[]
 ],
 [
 "The Tower of Babylon",
-2
+2,
+[]
 ],
 [
 "The White Rabbit",
-2
+2,
+[]
 ],
 [
 "The Magician's Servant",
-2
+2,
+[]
 ],
 [
 "The Little Boy and the Moon",
-2
+2,
+[]
 ],
 [
 "The Nobleman and the Green Blinds",
-2
+2,
+[]
 ],
 [
 "The Prince A Toad",
-2
+2,
+[]
 ],
 [
 "Maria Silva",
-2
+2,
+[]
 ],
 [
 "The Great Hero",
-2
+2,
+[]
 ],
 [
 "The Count of Paris",
-2
+2,
+[]
 ],
 [
 "The Value of an Egg",
-2
+2,
+[]
 ],
 [
 "The Horse's Skin",
-2
+2,
+[]
 ],
 [
 "The Snake with Seven Heads",
-2
+2,
+[]
 ],
 [
 "The Enchanted Old Woman",
-2
+2,
+[]
 ],
 [
 "The Man Who Seeks Adventures",
-2
+2,
+[]
 ],
 [
 "The Enchanted Moorish Princess",
-2
+2,
+[]
 ],
 [
 "Saucy Jesper",
-2
+2,
+[]
 ],
 [
 "Greyfoot",
-2
+2,
+[]
 ],
 [
 "Geirlug The King's Daughter",
-2
+2,
+[]
 ],
 [
 "Georgic and Merlin",
-2
+2,
+[]
 ],
 [
 "Half-Man",
-2
+2,
+[
+"Halfman"
+]
 ],
 [
 "How to find out a True Friend",
-2
+2,
+[]
 ],
 [
 "In Love with a Statue",
-2
+2,
+[]
 ],
 [
 "The Twelve Dancing Princesses",
-2
+2,
+[]
 ],
 [
 "The Princess Mayblossom",
-2
+2,
+[]
 ],
 [
 "Yashka",
-2
+2,
+[]
 ],
 [
 "The Box with Something Pretty in it",
-2
+2,
+[]
 ],
 [
 "Skleněný zámek",
-2
+2,
+[]
 ],
 [
 "Jean, the Soldier, and Eulalie, the Devil's Daughter",
-2
+2,
+[]
 ],
 [
 "Kallo and the Goblins",
-2
+2,
+[]
 ],
 [
 "Laughing Eye and Weeping Eye",
-2
+2,
+[]
 ],
 [
 "For a Foot - a Chicken, for a Chicken - a Goose",
-2
+2,
+[]
 ],
 [
 "Fool Wolf",
-2
+2,
+[]
 ],
 [
 "Salt",
-2
+2,
+[]
 ],
 [
 "Little Catskin",
-2
+2,
+[]
 ],
 [
 "Little Johnny Sheep-Dung",
-2
+2,
+[]
 ],
 [
 "Maiden Bright-eye",
-2
+2,
+[]
 ],
 [
 "Maroula",
-2
+2,
+[]
 ],
 [
 "Molly Whuppie",
-2
+2,
+[]
 ],
 [
 "Niels and the Giants",
-2
+2,
+[]
 ],
 [
 "Prince Darling",
-2
+2,
+[]
 ],
 [
 "Sprookjes uit de nalatenschap van Moeder de Gans",
-2
+2,
+[]
 ],
 [
 "Aardige sprookjes",
-2
+2,
+[]
 ],
 [
 "Rosanella",
-2
+2,
+[]
 ],
 [
 "Sir Gammer Vans",
-2
+2,
+[]
 ],
 [
 "The Adventures of Covan the Brown-haired",
-2
+2,
+[]
 ],
 [
 "The Bear",
-2
+2,
+[]
 ],
 [
 "The Blue Mountains",
-2
+2,
+[]
 ],
 [
 "The Brown Bear of the Green Glen",
-2
+2,
+[]
 ],
 [
 "The Cottager and his Cat",
-2
+2,
+[]
 ],
 [
 "The Dirty Shepherdess",
-2
+2,
+[]
 ],
 [
 "The Dolphin",
-2
+2,
+[]
 ],
 [
 "The Elf Maiden",
-2
+2,
+[]
 ],
 [
 "The Enchanted Maiden",
-2
+2,
+[]
 ],
 [
 "The Enchanted Wreath",
-2
+2,
+[]
 ],
 [
 "The Fair Fiorita",
-2
+2,
+[]
 ],
 [
 "The False Prince and the True",
-2
+2,
+[]
 ],
 [
 "The Gifts of the Magician",
-2
+2,
+[]
 ],
 [
 "The Glass Mountain",
-2
+2,
+[]
 ],
 [
 "The Gold-spinners",
-2
+2,
+[]
 ],
 [
 "The Gold-bearded Man",
-2
+2,
+[]
 ],
 [
 "The Golden Stag",
-2
+2,
+[]
 ],
 [
 "The Grateful Beasts",
-2
+2,
+[]
 ],
 [
 "The Grateful Prince",
-2
+2,
+[]
 ],
 [
 "The Groac'h of the Isle of Lok",
-2
+2,
+[]
 ],
 [
 "The Hairy Man",
-2
+2,
+[]
 ],
 [
 "The Hobyahs",
-2
+2,
+[]
 ],
 [
 "The Jezinkas",
-2
+2,
+[]
 ],
 [
 "The King Who Wished to Marry His Daughter",
-2
+2,
+[]
 ],
 [
 "The Little Bull-Calf",
-2
+2,
+[]
 ],
 [
 "The Man of Stone",
-2
+2,
+[]
 ],
 [
 "The Mermaid and the Boy",
-2
+2,
+[]
 ],
 [
 "The Pretty Little Calf",
-2
+2,
+[]
 ],
 [
 "The Prince Who Wanted to See the World",
-2
+2,
+[]
 ],
 [
 "The Prince and the Princess in the Forest",
-2
+2,
+[]
 ],
 [
 "The Princess That Wore a Rabbit-skin Dress",
-2
+2,
+[]
 ],
 [
 "The Princess in the Chest",
-2
+2,
+[]
 ],
 [
 "The Story of Bensurdatu",
-2
+2,
+[]
 ],
 [
 "The Story of the Queen of the Flowery Isles",
-2
+2,
+[]
 ],
 [
 "The Tale of the Queen Who Sought a Drink From a Certain Well",
-2
+2,
+[]
 ],
 [
 "The Tale of the Shifty Lad, the Widow's Son",
-2
+2,
+[]
 ],
 [
 "The Three Dogs",
-2
+2,
+[]
 ],
 [
 "The Three May Peaches",
-2
+2,
+[]
 ],
 [
 "The Three Princes and their Beasts",
-2
+2,
+[]
 ],
 [
 "The Two Caskets",
-2
+2,
+[]
 ],
 [
 "The Water Mother",
-2
+2,
+[]
 ],
 [
 "The Young King Of Easaidh Ruadh",
-2
+2,
+[]
 ],
 [
 "Japonské pohádky",
-2
+2,
+[]
 ],
 [
 "Virgilius the Sorcerer",
-2
+2,
+[]
 ],
 [
 "O Smolíčkovi",
-2
+2,
+[
+"Smolicheck",
+"Smolineck"
+]
 ],
 [
 "The Tomten in Åbo Castle",
-2
+2,
+[
+"The Tomte at Turku Castle"
+]
+],
+[
+"Pasák",
+1,
+[]
+],
+[
+"Nevěrný stín",
+1,
+[]
+],
+[
+"La Ombro",
+1,
+[]
+],
+[
+"The Shadow",
+1,
+[]
+],
+[
+"Dvanáct bratrů",
+1,
+[
+"The Twelve Brothers"
+]
+],
+[
+"Os doze irmãos",
+1,
+[
+"The Twelve Brothers"
+]
+],
+[
+"Los doce hermanos",
+1,
+[
+"The Twelve Brothers"
+]
+],
+[
+"Král Křivobrad",
+1,
+[
+"King Thrushbeard"
+]
+],
+[
+"Rei bico-de-tordo",
+1,
+[
+"King Thrushbeard"
+]
+],
+[
+"Król Drozdobrody",
+1,
+[
+"King Thrushbeard"
+]
+],
+[
+"Šest labutí",
+1,
+[
+"The Six Swans"
+]
+],
+[
+"Die sechs Schwäne",
+1,
+[
+"The Six Swans"
+]
+],
+[
+"Os seis cisnes",
+1,
+[
+"The Six Swans"
+]
+],
+[
+"Siostra łabędzi",
+1,
+[
+"The Six Swans"
+]
+],
+[
+"Roztrhané střevíce",
+1,
+[
+"The Twelve Dancing Princesses"
+]
+],
+[
+"Zvířátka a petrovští",
+1,
+[]
+],
+[
+"The allies' fairy book",
+1,
+[]
+],
+[
+"A midsummer night's dream",
+1,
+[]
+],
+[
+"A song of the English",
+1,
+[]
+],
+[
+"Æsop's fables",
+1,
+[]
+],
+[
+"Eene Geestverschijning",
+1,
+[]
+],
+[
+"Parsifal, or, The legend of the Holy Grail",
+1,
+[]
+],
+[
+"Rip Van Winkle",
+1,
+[]
+],
+[
+"Rubáiyát of Omar Khayyám (1920 edition)",
+1,
+[
+"Rubáiyát"
+]
+],
+[
+"Tanglewood tales",
+1,
+[]
+],
+[
+"A wonder book",
+1,
+[]
+],
+[
+"The Arabian Nights",
+1,
+[]
+],
+[
+"The Legend of Sleepy Hollow",
+1,
+[]
+],
+[
+"The night before Christmas",
+1,
+[]
+],
+[
+"The Ship That Sailed to Mars",
+1,
+[]
+],
+[
+"The tempest",
+1,
+[]
+],
+[
+"The vicar of Wakefield",
+1,
+[]
+],
+[
+"The year's at the spring",
+1,
+[]
+],
+[
+"Undine",
+1,
+[]
+],
+[
+"I was eaten the day the white bull was eaten",
+1,
+[
+"the lion and the three bulls"
+]
+],
+[
+"Princess Badoura : a tale from the Arabian nights",
+1,
+[]
+],
+[
+"Lady Featherflight",
+1,
+[]
+],
+[
+"O Víťazkovi",
+1,
+[
+"Víťazko",
+"Vitazko the Victorious"
+]
+],
+[
+"The Golden-Haired Children",
+1,
+[]
+],
+[
+"The Story of The Farmer's Three Daughters",
+1,
+[]
+],
+[
+"The Golden Fish, The Wonder-working Tree and the Golden Bird",
+1,
+[]
+],
+[
+"The Swan Queen",
+1,
+[]
+],
+[
+"Die Hochzeit der Frau Füchsin",
+1,
+[
+"The Wedding of Mrs. Fox"
+]
+],
+[
+"Der getreue Johannes",
+1,
+[
+"Faithful John"
+]
+],
+[
+"Frau Trude",
+1,
+[
+"Mrs. Trude"
+]
+],
+[
+"Fundevogel",
+1,
+[
+"Foundling-Bird"
+]
+],
+[
+"Häsichenbraut",
+1,
+[
+"The Hare's Bride"
+]
+],
+[
+"The Dog in the Sea",
+1,
+[
+"The Dog and the Sailor"
+]
+],
+[
+"Oh: The Tsar of the Forest",
+1,
+[]
+],
+[
+"Donotknow",
+1,
+[
+"Neznaiko"
+]
+],
+[
+"Książę Świniarek",
+1,
+[]
+],
+[
+"Cinder Jack (Hungarian fairy tale)",
+1,
+[]
+],
+[
+"Povestea cu măr moramăr și păsărica a ciută",
+1,
+[]
+],
+[
+"O Zlatovlásce",
+1,
+[]
+],
+[
+"Jhonathan and the Witchs",
+1,
+[]
+],
+[
+"Mielikki and Her Nine Sons",
+1,
+[]
+],
+[
+"Anûshirwân and the Village Damsel",
+1,
+[]
+],
+[
+"Ja‘far the Barmakid and the Old Badawî",
+1,
+[]
+],
+[
+"O kohoutkovi a o slepičce",
+1,
+[
+"The Dear Little Hen",
+"The Little Cock and the Little Hen"
+]
+],
+[
+"Las barbas de plata",
+1,
+[]
+],
+[
+"Polepetko",
+1,
+[]
+],
+[
+"Nemtudomka",
+1,
+[]
+],
+[
+"Green-Vanka",
+1,
+[]
+],
+[
+"Feather O' My Wing",
+1,
+[]
+],
+[
+"About the Golden-Haired Boy",
+1,
+[]
+],
+[
+"Sprookjessprokkelaar",
+1,
+[
+"The Fairy tale collector"
+]
+],
+[
+"Tejimola",
+1,
+[
+"Tezimona"
+]
+],
+[
+"Three Princesses",
+1,
+[]
+],
+[
+"Billy Beg and The Bull",
+1,
+[]
+],
+[
+"Enchanted Balaur",
+1,
+[]
+],
+[
+"The Maiden of the Tree of Raranj and Taranj",
+1,
+[]
+],
+[
+"The Spotted Deer",
+1,
+[]
+],
+[
+"Es Negret",
+1,
+[]
+],
+[
+"The Daughter of the Griffin Bird",
+1,
+[]
+],
+[
+"The Fairy Maiden and the Gypsy Girl",
+1,
+[]
+],
+[
+"The Story of King Pig",
+1,
+[]
+],
+[
+"The Story of Oimè",
+1,
+[]
+],
+[
+"The Bewitched Prince",
+1,
+[]
+],
+[
+"The Three Orange-Peris",
+1,
+[]
+],
+[
+"The Stone of Patience",
+1,
+[]
+],
+[
+"Turandot",
+1,
+[]
+],
+[
+"The King who would have a Beautiful Wife",
+1,
+[]
+],
+[
+"Boty z kůže buvolí",
+1,
+[
+"The Boots of Buffalo Leather"
+]
+],
+[
+"Báchorka o svévolné dcerušce",
+1,
+[]
+],
+[
+"Báchorka o zamilované ústřici",
+1,
+[]
+],
+[
+"Jan",
+1,
+[]
+],
+[
+"Lidka",
+1,
+[]
+],
+[
+"Liliana",
+1,
+[]
+],
+[
+"Maruška",
+1,
+[]
+],
+[
+"Pastýř a hadi",
+1,
+[]
+],
+[
+"Robota",
+1,
+[]
+],
+[
+"Sen",
+1,
+[]
+],
+[
+"Z pohádkového kraje",
+1,
+[]
+],
+[
+"The Rooster and the Dog",
+1,
+[]
+],
+[
+"The Fox and the Goat",
+1,
+[]
+],
+[
+"Goat",
+1,
+[
+"Kozyol"
+]
+],
+[
+"У цара Тројана козје уши",
+1,
+[
+"The Goat's Ears of the Emperor Trojan"
+]
+],
+[
+"Stribor's Forest",
+1,
+[]
+],
+[
+"The Turnip",
+1,
+[]
+],
+[
+"Létací vak",
+1,
+[]
+],
+[
+"The Giants and the Herd-boy",
+1,
+[]
+],
+[
+"A String of Pearls Twined with Golden Flowers",
+1,
+[]
+],
+[
+"Little Daylight",
+1,
+[]
+],
+[
+"The Fox and the Golden Egg",
+1,
+[]
+],
+[
+"How Geirald the Coward was Punished",
+1,
+[]
+],
+[
+"The Magic Book",
+1,
+[]
+],
+[
+"Starlight",
+1,
+[]
+],
+[
+"Nicht Nought Nothing",
+1,
+[]
+],
+[
+"Beth Gellert",
+1,
+[]
+],
+[
+"The Lad with the Goat-skin",
+1,
+[]
+],
+[
+"Ariel and Tamara",
+1,
+[]
+],
+[
+"Aschengrittel",
+1,
+[]
+],
+[
+"Das Räthsel",
+1,
+[
+"The Riddle"
+]
+],
+[
+"The little bird on the oak",
+1,
+[]
+],
+[
+"Das kluge Grethel",
+1,
+[
+"Clever Grethel"
+]
+],
+[
+"Das singende, springende Löweneckerchen",
+1,
+[
+"The Singing, Springing Lark"
+]
+],
+[
+"The Valiant Little Tailor",
+1,
+[]
+],
+[
+"De Gaudeif un sien Meester",
+1,
+[
+"The Thief and His Master"
+]
+],
+[
+"The poor man and the rich man",
+1,
+[]
+],
+[
+"Der Frieder und das Catherlieschen",
+1,
+[
+"Frederick and Catherine"
+]
+],
+[
+"Der Jud’ im Dorn",
+1,
+[
+"The Jew among Thorns"
+]
+],
+[
+"Der Krautesel",
+1,
+[
+"The Salad"
+]
+],
+[
+"Der König mit dem Löwen",
+1,
+[
+"The Twelve Huntsmen"
+]
+],
+[
+"Der Liebste Roland",
+1,
+[
+"Sweetheart Roland"
+]
+],
+[
+"Der Ranzen, das Hütlein und das Hörnlein",
+1,
+[
+"The Knapsack, the Hat, and the Horn"
+]
+],
+[
+"The tailor in heaven",
+1,
+[]
+],
+[
+"Der gescheidte Hans",
+1,
+[
+"Clever Hans"
+]
+],
+[
+"Des Schneiders Daumerling Wanderschaft",
+1,
+[
+"first edition \"Thumbling as Journeyman\""
+]
+],
+[
+"Die Bienenkönigin",
+1,
+[
+"The Queen Bee"
+]
+],
+[
+"Die Brautschau",
+1,
+[]
+],
+[
+"Die Höhlenzwerge",
+1,
+[
+"The cave dwarves"
+]
+],
+[
+"Die drei Männlein im Walde",
+1,
+[
+"The Three Little Men in the Wood"
+]
+],
+[
+"Die drei Sprachen",
+1,
+[
+"The Three Languages"
+]
+],
+[
+"Moroz Ivanovich",
+1,
+[]
+],
+[
+"Die kluge Else",
+1,
+[
+"Clever Elsie"
+]
+],
+[
+"Die sieben Raben",
+1,
+[
+"Sieben Raben",
+"The Seven Ravens"
+]
+],
+[
+"The Four Brothers",
+1,
+[]
+],
+[
+"Die vier kunstreichen Brüder",
+1,
+[
+"The Four Skillful Brothers"
+]
+],
+[
+"Doctor Allwissend",
+1,
+[
+"Doctor Know-all"
+]
+],
+[
+"Estonian fairy tales",
+1,
+[]
+],
+[
+"The Djinn of the Sea",
+1,
+[
+"The Genie of the Sea"
+]
+],
+[
+"Gut Kegel- und Kartenspiel",
+1,
+[
+"The Youth Who Could Not Shudder"
+]
+],
+[
+"Häsichen-Braut",
+1,
+[
+"The Hare's Bride"
+]
+],
+[
+"König Droßelbart",
+1,
+[
+"King Thrushbeard"
+]
+],
+[
+"Mädchen ohne Hände",
+1,
+[
+"The Girl without Hands"
+]
+],
+[
+"Schneeweißchen und Rosenroth",
+1,
+[]
+],
+[
+"Schneewittchen",
+1,
+[]
+],
+[
+"Leaping water, speaking bird, singing tree",
+1,
+[]
+],
+[
+"Vom Fundevogel",
+1,
+[
+"Foundling-Bird"
+]
+],
+[
+"Vom goldnen Vogel",
+1,
+[
+"The Golden Bird"
+]
+],
+[
+"Vom treuen Gevatter Sperling",
+1,
+[
+"The Dog and the Sparrow"
+]
+],
+[
+"Von dem Teufel mit drei goldenen Haaren",
+1,
+[
+"The Devil with the Three Golden Hairs"
+]
+],
+[
+"Von dem Tischgen deck dich, dem Goldesel und dem Knüppel in dem Sack",
+1,
+[
+"The Wishing-Table, the Gold-Ass, and the Cudgel in the Sack"
+]
+],
+[
+"Von dem bösen Flachsspinnen",
+1,
+[
+"The Three Spinners"
+]
+],
+[
+"Von den Wichtelmännern",
+1,
+[
+"The Elves and the Shoemaker"
+]
+],
+[
+"Von der Frau Füchsin",
+1,
+[
+"The Wedding of Mrs. Fox"
+]
+],
+[
+"Rumpelstilzchen",
+1,
+[
+"Rumpelstiltskin"
+]
+],
+[
+"De Wildeman",
+1,
+[
+"The Wild Man"
+]
+],
+[
+"Tři zlaté vlasy Děda-Vševěda",
+1,
+[]
+],
+[
+"Assipattle and the Stoor Worm",
+1,
+[]
+],
+[
+"De koning van Zevenbergen",
+1,
+[]
+],
+[
+"The seven aldermen of Eys",
+1,
+[]
+],
+[
+"The Seven-headed Dragon",
+1,
+[]
+],
+[
+"La petite Toute-Belle",
+1,
+[]
+],
+[
+"Now It's Light in the Taiga",
+1,
+[]
+],
+[
+"The History of Richard Whittington",
+1,
+[
+"ballad or history of Dick Whittington"
+]
+],
+[
+"The Fool of the World and the Flying Ship",
+1,
+[]
+],
+[
+"Almondseed and Almondella",
+1,
+[]
+],
+[
+"Alphege, or the Green Monkey",
+1,
+[]
+],
+[
+"Andras Baive",
+1,
+[]
+],
+[
+"Asmund and Signy",
+1,
+[]
+],
+[
+"Bella Venezia",
+1,
+[]
+],
+[
+"Brewery of Eggshells",
+1,
+[]
+],
+[
+"Fair Brow",
+1,
+[]
+],
+[
+"Fortune and the Wood-Cutter",
+1,
+[]
+],
+[
+"Sněhulák",
+1,
+[]
+],
+[
+"God Gives a Hundred for One",
+1,
+[]
+],
+[
+"Hermod and Hadvor",
+1,
+[]
+],
+[
+"Červená karkulka",
+1,
+[]
+],
+[
+"How Ian Direach got the Blue Falcon",
+1,
+[]
+],
+[
+"How the Beggar Boy turned into Count Piro",
+1,
+[]
+],
+[
+"How the Hermit helped to win the King's Daughter",
+1,
+[]
+],
+[
+"How the Killing of the Old Men Was Stopped",
+1,
+[]
+],
+[
+"How the Stalos were Tricked",
+1,
+[]
+],
+[
+"I know what I have learned",
+1,
+[]
+],
+[
+"Princess Printaniere",
+1,
+[]
+],
+[
+"The Six Sillies",
+1,
+[]
+],
+[
+"Red Etin",
+1,
+[]
+],
+[
+"Císařovy nové šaty",
+1,
+[]
+],
+[
+"Jeník a Hanička",
+1,
+[]
+],
+[
+"Jack and His Comrades",
+1,
+[]
+],
+[
+"Jesper Who Herded the Hares",
+1,
+[]
+],
+[
+"Ali Baba a čtyřicet lupičů",
+1,
+[
+"Ali Baba and the Forty Thieves"
+]
+],
+[
+"Princ Vlastislav",
+1,
+[]
+],
+[
+"Doktor Vševěda",
+1,
+[]
+],
+[
+"Koschei the Deathless",
+1,
+[
+"Kostěj nesmrtelný",
+"Selected national myths and legends of other branches of Slavic culture/Koschei the deathless",
+"Vybrané báje a pověsti národní jiných větví slovanských/Kostěj nesmrtelný"
+]
+],
+[
+"Kisa the Cat",
+1,
+[]
+],
+[
+"La Ramée and the Phantom",
+1,
+[
+"La Ramee and the Phantom"
+]
+],
+[
+"Telephone",
+1,
+[]
+],
+[
+"Garbancito",
+1,
+[]
+],
+[
+"King Solomon and the Bee",
+1,
+[]
+],
+[
+"Zlatovláska",
+1,
+[]
+],
+[
+"Madschun",
+1,
+[]
+],
+[
+"Master and Pupil",
+1,
+[]
+],
+[
+"Prince Ring",
+1,
+[]
+],
+[
+"Snow-White-Fire-Red",
+1,
+[]
+],
+[
+"Thank God It Wasn't A Peso",
+1,
+[]
+],
+[
+"The Bay-Tree Maiden",
+1,
+[]
+],
+[
+"The Boy Who Found Fear At Last",
+1,
+[]
+],
+[
+"The Cat's Elopement",
+1,
+[]
+],
+[
+"The Charcoal Burner",
+1,
+[]
+],
+[
+"The Daughter Of King Under-Waves",
+1,
+[]
+],
+[
+"The Flower Queen's Daughter",
+1,
+[]
+],
+[
+"The Fountain of Youth",
+1,
+[]
+],
+[
+"The Girl and the Dead Man",
+1,
+[]
+],
+[
+"The Goat Girl",
+1,
+[]
+],
+[
+"The Hazel-nut Child",
+1,
+[]
+],
+[
+"The Jackal and the Spring",
+1,
+[]
+],
+[
+"The King of Erin and the Queen of the Lonesome Island",
+1,
+[]
+],
+[
+"The King of Lochlin's Three Daughters",
+1,
+[]
+],
+[
+"The Magic Swan",
+1,
+[]
+],
+[
+"The Maiden with the Rose on her Forehead",
+1,
+[]
+],
+[
+"The Master and his Pupil",
+1,
+[]
+],
+[
+"The Pot Bears a Son",
+1,
+[]
+],
+[
+"The Rich Brother and the Poor Brother",
+1,
+[]
+],
+[
+"The Rider Of Grianaig, And Iain The Soldier's Son",
+1,
+[]
+],
+[
+"The Ridere of Riddles",
+1,
+[]
+],
+[
+"The Silent Princess",
+1,
+[]
+],
+[
+"The Slave Mother",
+1,
+[]
+],
+[
+"The Tailor Who Sold His Soul to the Devil",
+1,
+[]
+],
+[
+"The Three Treasures of the Giants",
+1,
+[]
+],
+[
+"The White Dove",
+1,
+[]
+],
+[
+"The Wizard King",
+1,
+[]
+],
+[
+"The Woman Who Had No Shadow",
+1,
+[]
+],
+[
+"The Wonderful Tune",
+1,
+[]
+],
+[
+"Whuppity Stoorie",
+1,
+[]
+],
+[
+"Cár Trojan má kozí uši",
+1,
+[]
+],
+[
+"Zlatovlaska the Golden-haired",
+1,
+[]
+],
+[
+"Silný Jan",
+1,
+[]
+],
+[
+"25. About the clever tambourine player",
+1,
+[]
+],
+[
+"Kocour a liška",
+1,
+[]
+],
+[
+"Krošečka-Chavrošička",
+1,
+[]
+],
+[
+"Krásná Vasilisa",
+1,
+[]
+],
+[
+"Sestřička Helenka a bratříček Ivánek",
+1,
+[]
+],
+[
+"Vazuza a Volha",
+1,
+[]
+],
+[
+"O neposlušných kůzlátkách",
+1,
+[
+"The Disobedient Kids"
+]
+],
+[
+"Falešný peníz",
+1,
+[]
+],
+[
+"O štice zubaté",
+1,
+[]
+],
+[
+"Staré pohostinství se zapomíná",
+1,
+[]
+],
+[
+"Věďma a Sluncova sestra",
+1,
+[]
+],
+[
+"The life of High Countess Gritta von Ratsinourhouse",
+0,
+[
+"Gritta from the castle of rats"
+]
+],
+[
+"Faust",
+0,
+[]
+],
+[
+"In powder & crinoline",
+0,
+[]
+],
+[
+"Grimms Märchenschatz",
+0,
+[]
+],
+[
+"Straw Bull",
+0,
+[
+"Straw Ox"
+]
+],
+[
+"The Flea and the Professor",
+0,
+[]
+],
+[
+"The Rags",
+0,
+[]
+],
+[
+"The Terrible Head",
+0,
+[]
+],
+[
+"The Teddy Bears",
+0,
+[]
+],
+[
+"Disheveled Sparrow",
+0,
+[]
+],
+[
+"Warm bread",
+0,
+[]
+],
+[
+"Koxxt kuht paarʹn pɨʹnnjen naredeʹs",
+0,
+[
+"koht kuht par̦n̦ p̦en̦jen̦ narodəș"
+]
+],
+[
+"35. pohp ja robotnɛkʹ baijas",
+0,
+[]
+],
+[
+"The Fairy Tale about the Bear, the Wolf and the Sly Fox (1925)",
+0,
+[]
+],
+[
+"The Adventures of Chanticleer and Partlet",
+0,
+[]
+],
+[
+"Frau Holle",
+0,
+[
+"Mother Holle"
+]
+],
+[
+"This Fable is Intended for You",
+0,
+[]
+],
+[
+"The Talisman",
+0,
+[]
+],
+[
+"Klimek",
+0,
+[]
+],
+[
+"Modré světlo",
+0,
+[
+"The Blue Light"
+]
+],
+[
+"Medio Pollito",
+0,
+[
+"The Half-chick"
+]
+],
+[
+"Abdullah the Fisherman and Abdullah the Merman",
+0,
+[
+"Abdallah the Fisherman and Abdallah the Merman"
+]
+],
+[
+"Tom Thumb",
+0,
+[]
 ]
 ]

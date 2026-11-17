@@ -1,1430 +1,4542 @@
 [
 [
 "euro",
-242
+242,
+[]
 ],
 [
 "United States dollar",
-189
+189,
+[
+"$",
+"$USD",
+"American dollar",
+"American dollars",
+"American money",
+"buck",
+"dollar",
+"dollars",
+"greenback",
+"United States dollars",
+"US $",
+"US-$",
+"US$",
+"USA dollar",
+"USA dollars",
+"USD",
+"USD$",
+"US dollar",
+"U. S. Dollar",
+"U.S. Dollar",
+"US dollars"
+]
 ],
 [
 "Bitcoin",
-154
+154,
+[]
 ],
 [
 "yen",
-148
+148,
+[
+"Japanese yen"
+]
 ],
 [
 "pound sterling",
-121
+121,
+[
+"£",
+"British pound",
+"GBP",
+"Great British pound",
+"livre sterling",
+"pence",
+"penny",
+"pound",
+"pounds",
+"quid",
+"sterling"
+]
 ],
 [
 "renminbi",
-117
+117,
+[
+"Chinese Yuan",
+"yuan",
+"yuan renminbi",
+"yuan RMB"
+]
 ],
 [
 "Azerbaijani manat",
-111
+111,
+[
+"Azerbaijan manat",
+"AZN",
+"manat"
+]
 ],
 [
 "Chilean peso",
-109
+109,
+[]
 ],
 [
 "Russian ruble",
-109
+109,
+[
+"RUB",
+"ruble"
+]
 ],
 [
 "Swiss franc",
-98
+98,
+[
+"Chf",
+"CHF (Swiss Franc)",
+"Confœderatio Helvetica Franc",
+"Franc",
+"Franco svizzero",
+"Franc suisse",
+"S₣",
+"Schweizer Franken",
+"Swiss franco",
+"Swiss francs",
+"Swiss Frank",
+"Swiss Franken"
+]
 ],
 [
 "Indian rupee",
-95
+95,
+[
+"₹",
+"INR",
+"Rupaya",
+"Rupee"
+]
 ],
 [
 "Turkish lira",
-92
+92,
+[
+"₺",
+"TRL",
+"TRY"
+]
 ],
 [
 "Australian dollar",
-92
+92,
+[
+"$",
+"A$",
+"AU$",
+"AUD",
+"Aussie dollar",
+"dollar",
+"dollars",
+"the Australian dollar"
+]
 ],
 [
 "hryvnia",
-92
+92,
+[
+"hryvnya",
+"UAH",
+"Ukrainian hryvnia"
+]
 ],
 [
 "Canadian dollar",
-83
+83,
+[
+"$",
+"C$",
+"CA$",
+"CAD",
+"CAN$",
+"dollar of Canada"
+]
 ],
 [
 "złoty",
-83
+83,
+[
+"PLN",
+"Polish zloty",
+"Polish złoty",
+"zł",
+"zloty"
+]
 ],
 [
 "Armenian dram",
-83
+83,
+[
+"֏",
+"AMD",
+"dram"
+]
 ],
 [
 "new shekel",
-83
+83,
+[
+"₪",
+"ILS",
+"Israeli new shekel",
+"Israeli new sheqel",
+"new Israeli shekel",
+"new Israeli sheqel",
+"new sheqel",
+"NIS",
+"shekel"
+]
 ],
 [
 "Swedish krona",
-82
+82,
+[
+"SEK"
+]
 ],
 [
 "Danish krone",
-82
+82,
+[
+"kr"
+]
 ],
 [
 "forint",
-82
+82,
+[
+"Ft",
+"HUF",
+"Hungarian forint"
+]
 ],
 [
 "Albanian lek",
-79
+79,
+[
+"ALL",
+"Lek"
+]
 ],
 [
 "rupiah",
-79
+79,
+[
+"Indonesian rupiah",
+"Rupiah (1965-date)"
+]
 ],
 [
 "Norwegian krone",
-78
+78,
+[
+"kr",
+"krone",
+"NOK"
+]
 ],
 [
 "ruble",
-78
+78,
+[
+"rouble"
+]
 ],
 [
 "won",
-78
+78,
+[
+"￦",
+"KRW",
+"south korea won",
+"the won"
+]
 ],
 [
 "Belarusian ruble",
-78
+78,
+[
+"third Belarusian ruble"
+]
 ],
 [
 "Kazakhstani tenge",
-77
+77,
+[]
 ],
 [
 "baht",
-77
+77,
+[
+"฿",
+"Siamese tical",
+"Thai baht",
+"THB",
+"tical"
+]
 ],
 [
 "New Zealand dollar",
-76
+76,
+[
+"dollar",
+"dollars",
+"NZ$",
+"NZD"
+]
 ],
 [
 "afghani",
-76
+76,
+[
+"؋",
+"Afghan afghani",
+"AFN"
+]
 ],
 [
 "Iranian rial",
-75
+75,
+[]
 ],
 [
 "Georgian lari",
-75
+75,
+[
+"₾",
+"GEL",
+"Lari"
+]
 ],
 [
 "Romanian leu",
-74
+74,
+[
+"L",
+"leu românesc",
+"RON"
+]
 ],
 [
 "Brazilian real",
-74
+74,
+[]
 ],
 [
 "rand",
-74
+74,
+[
+"Rand",
+"South African rand"
+]
 ],
 [
 "Icelandic króna",
-73
+73,
+[
+"Icelandic krona",
+"ISK",
+"kr",
+"króna"
+]
 ],
 [
 "Pakistani rupee",
-73
+73,
+[
+"PKR"
+]
 ],
 [
 "Singapore dollar",
-73
+73,
+[
+"$",
+"dollar",
+"dollars",
+"Ringgit Singapore",
+"S$",
+"SGD"
+]
 ],
 [
 "ngultrum",
-73
+73,
+[
+"Bhutan currency",
+"Bhutanese ngultrum",
+"BTN"
+]
 ],
 [
 "Deutsche Mark",
-72
+72,
+[
+"DEM",
+"DE-Mark",
+"Deutschmark",
+"DM",
+"D-Mark",
+"German mark"
+]
 ],
 [
 "Bulgarian lev",
-72
+72,
+[
+"BGJ",
+"BGK",
+"BGL",
+"BGN",
+"Bulgarian lev (fourth)",
+"lev",
+"Lev"
+]
 ],
 [
 "Czech koruna",
-71
+71,
+[
+"CZK"
+]
 ],
 [
 "Serbian dinar",
-71
+71,
+[
+"dinar",
+"RSD",
+"Serbia dinar"
+]
 ],
 [
 "Bangladeshi taka",
-71
+71,
+[
+"BDT",
+"taka 12272"
+]
 ],
 [
 "dinar",
-70
+70,
+[
+"denar"
+]
 ],
 [
 "Argentine convertible peso",
-70
+70,
+[
+"ARS",
+"peso convertible Argentina"
+]
 ],
 [
 "Saudi riyal",
-70
+70,
+[
+"riyal",
+"SAR"
+]
 ],
 [
 "kwanza",
-70
+70,
+[
+"Angolan kwanza",
+"AOA",
+"Kz"
+]
 ],
 [
 "North Korean won",
-69
-],
-[
-"Macedonian denar",
-69
+69,
+[]
 ],
 [
 "peso",
-69
+69,
+[
+"MX$",
+"MXN",
+"Mexican centavo",
+"Mexican new peso",
+"Mexican nuevo peso",
+"Mexican peso",
+"currency of Mexico"
+]
+],
+[
+"Macedonian denar",
+69,
+[
+"denar",
+"MKD",
+"North Macedonian denar"
+]
 ],
 [
 "Nepalese rupee",
-68
+68,
+[
+"NPR",
+"Rupee (1932-date)"
+]
 ],
 [
 "Egyptian pound",
-67
+67,
+[]
 ],
 [
 "Eastern Caribbean dollar",
-67
+67,
+[]
 ],
 [
 "Hong Kong dollar",
-67
+67,
+[
+"$",
+"dollar",
+"dollars",
+"HK$",
+"HKD"
+]
 ],
 [
 "Tajikistani somoni",
-66
+66,
+[
+"currency of Tajikistan",
+"Somoni",
+"Tajik Somoni",
+"TJS"
+]
 ],
 [
 "Mongolian tögrög",
-65
+65,
+[
+"Mongolian tughrik",
+"Mongolian tugrik"
+]
 ],
 [
 "United Arab Emirates dirham",
-65
+65,
+[
+"AED",
+"Dirham (1973-date)",
+"Emirati dirham",
+"U.A.E. dirham",
+"UAE dirham"
+]
 ],
 [
 "Malaysian ringgit",
-64
+64,
+[
+"MYR",
+"Ringgit Malaysia",
+"RM"
+]
 ],
 [
 "Kuwaiti dinar",
-64
+64,
+[]
 ],
 [
 "Algerian dinar",
-64
+64,
+[
+"dinar",
+"DZD"
+]
 ],
 [
 "Dirham",
-64
+64,
+[
+"Denar",
+"Dinar",
+"Dirahm",
+"Dirhem"
+]
 ],
 [
 "Philippine peso",
-63
+63,
+[
+"₱",
+"peso",
+"Philippine piso",
+"PHP",
+"piso",
+"the Philippine peso"
+]
 ],
 [
 "Iraqi dinar",
-63
+63,
+[
+"ID"
+]
 ],
 [
 "Lao kip",
-63
+63,
+[
+"₭",
+"₭N",
+"kip",
+"LAK"
+]
 ],
 [
 "Moroccan dirham",
-63
+63,
+[
+"Maza"
+]
 ],
 [
 "Kyrgyz som",
-63
+63,
+[
+"som"
+]
 ],
 [
 "Moldovan leu",
-62
+62,
+[
+"leu",
+"MDL"
+]
 ],
 [
 "CFA franc",
-62
+62,
+[]
 ],
 [
 "Uzbek som",
-62
+62,
+[
+"soʻm",
+"Uzbek sum",
+"UZS"
+]
 ],
 [
 "convertible mark",
-61
+61,
+[
+"mark"
+]
 ],
 [
 "Ghana cedi",
-61
+61,
+[
+"cedi",
+"GH₵",
+"GHS"
+]
 ],
 [
 "Vietnamese đồng",
-61
+61,
+[
+"₫",
+"đồng",
+"VND"
+]
 ],
 [
 "Jordanian dinar",
-61
+61,
+[
+"Dinar (1949-date)"
+]
 ],
 [
 "Botswana pula",
-60
+60,
+[]
 ],
 [
 "naira",
-60
+60,
+[
+"₦",
+"NGN",
+"Nigerian naira"
+]
 ],
 [
 "bir",
-60
+60,
+[
+"ETB",
+"Ethiopian birr",
+"Ethiopian dollar"
+]
 ],
 [
 "Sri Lankan rupee",
-60
+60,
+[
+"LKR",
+"SLRs",
+"Sri Lankan rupees",
+"Sri Lanka Rupee",
+"Tamil rupee"
+]
 ],
 [
 "Turkmenistan new manat",
-60
+60,
+[
+"TMT",
+"Turkmenistani new manat"
+]
 ],
 [
 "Brunei dollar",
-59
+59,
+[
+"$",
+"B$",
+"BND"
+]
 ],
 [
 "New Taiwan dollar",
-59
+59,
+[
+"$",
+"NT$",
+"NTD",
+"TWD"
+]
 ],
 [
 "Faroese króna",
-57
+57,
+[
+"Faroese krona"
+]
 ],
 [
 "kyat",
-57
+57,
+[
+"Burmese kyat",
+"K",
+"Ks",
+"MMK",
+"Myanmar kyat"
+]
 ],
 [
 "Kenyan shilling",
-57
+57,
+[
+"Shilling"
+]
 ],
 [
 "Syrian pound",
-57
+57,
+[
+"LS",
+"Syrian lira"
+]
 ],
 [
 "Cuban peso",
-56
+56,
+[
+"CUP"
+]
 ],
 [
 "Surinamese dollar",
-56
+56,
+[
+"$",
+"SRD"
+]
 ],
 [
 "Qatari riyal",
-56
+56,
+[
+"Qatar riyal"
+]
 ],
 [
 "Colombian peso",
-56
+56,
+[
+"$",
+"CO $",
+"CO$",
+"COL$",
+"Colomb peso",
+"peso"
+]
 ],
 [
 "Ugandan shilling",
-56
+56,
+[
+"Uganda shilling",
+"UGX",
+"USh"
+]
 ],
 [
 "Bahraini dinar",
-55
+55,
+[]
 ],
 [
 "Nuevo sol",
-55
+55,
+[
+"PEN"
+]
 ],
 [
 "Maldivian rufiyaa",
-55
+55,
+[
+"rufiyaa"
+]
 ],
 [
 "Mauritanian ouguiya",
-55
+55,
+[
+"MRU",
+"ouguiya",
+"UM"
+]
 ],
 [
 "Yemeni rial",
-55
+55,
+[
+"rial",
+"YER",
+"ريال"
+]
 ],
 [
 "lilangeni",
-55
+55,
+[
+"emalangeni",
+"Eswatini lilangeni",
+"Swaziland lilangeni",
+"Swazi lilangeni"
+]
 ],
 [
 "thaler",
-54
+54,
+[]
 ],
 [
 "Bahamian dollar",
-54
+54,
+[
+"BSD"
+]
 ],
 [
 "kina",
-54
+54,
+[
+"Papua New Guinean kina",
+"PGK"
+]
 ],
 [
 "Lebanese pound",
-54
+54,
+[
+"1000 lira",
+"LBP",
+"Lebanese pound (1939-date)"
+]
 ],
 [
 "riel",
-54
+54,
+[
+"៛",
+"Cambodian riel",
+"KHR"
+]
 ],
 [
 "Liberian dollar",
-54
+54,
+[]
 ],
 [
 "Gibraltar pound",
-54
+54,
+[
+"GIP"
+]
 ],
 [
 "Tanzanian shilling",
-54
+54,
+[
+"Shilingi",
+"Tanzanian schilling",
+"Tanzanian shilingi",
+"TSh",
+"TZS"
+]
 ],
 [
 "Libyan dinar",
-53
+53,
+[
+"dinar",
+"LYD"
+]
 ],
 [
 "Barbadian dollar",
-53
+53,
+[]
 ],
 [
 "Mozambican metical",
-53
+53,
+[
+"Metical"
+]
 ],
 [
 "Namibian dollar",
-53
+53,
+[
+"$",
+"N$",
+"NAD"
+]
 ],
 [
 "dalasi",
-53
+53,
+[
+"Gambian dalasi",
+"GMD"
+]
 ],
 [
 "gourde",
-53
+53,
+[
+"Haitian Gourde",
+"HTG"
+]
 ],
 [
 "Paraguayan guaraní",
-53
+53,
+[
+"Guarani (1944-date)",
+"Paraguayan guarani"
+]
 ],
 [
 "loti",
-53
+53,
+[
+"Lesotho loti",
+"LSL"
+]
 ],
 [
 "Malawian kwacha",
-53
+53,
+[
+"Kwacha (1971-date)",
+"Malawi kwacha",
+"MWK"
+]
 ],
 [
 "Burundian franc",
-53
+53,
+[
+"BIF"
+]
 ],
 [
 "Seychellois rupee",
-53
+53,
+[
+"Rupee",
+"Seychelles Rupee",
+"SRe"
+]
 ],
 [
 "Honduran lempira",
-53
+53,
+[]
 ],
 [
 "Zambian Kwacha",
-53
+53,
+[
+"ZMW"
+]
 ],
 [
 "denarius",
-52
+52,
+[]
 ],
 [
 "Transnistrian ruble",
-52
+52,
+[
+"Pridnestrovian ruble"
+]
 ],
 [
 "quetzal",
-52
+52,
+[
+"GTQ",
+"Guatemala quetzal",
+"Quetzal (1925-date)"
+]
 ],
 [
 "Panamanian balboa",
-52
+52,
+[]
 ],
 [
 "Mauritian rupee",
-52
+52,
+[
+"Mauritius rupee",
+"MUR",
+"Rupee (1877-date)"
+]
 ],
 [
 "Guinean franc",
-52
+52,
+[]
 ],
 [
 "South Sudanese pound",
-52
+52,
+[]
 ],
 [
 "Omani rial",
-52
+52,
+[]
 ],
 [
 "ariary",
-52
+52,
+[
+"Madagascan ariary",
+"Malagasy ariary"
+]
 ],
 [
 "Fijian dollar",
-52
+52,
+[
+"Fijan dollar",
+"Fiji Dollar"
+]
 ],
 [
 "Djiboutian franc",
-52
+52,
+[
+"DJF",
+"Djibouti Franc"
+]
 ],
 [
 "Rwandan franc",
-52
+52,
+[
+"FRw",
+"RF",
+"RWF"
+]
 ],
 [
 "nakfa",
-51
+51,
+[
+"Eritrean nakfa",
+"Nkf"
+]
 ],
 [
 "boliviano",
-51
+51,
+[
+"BOB",
+"Bolivian boliviano",
+"second boliviano"
+]
 ],
 [
 "Nicaraguan córdoba",
-51
+51,
+[
+"Cordoba Oro",
+"Mariana Montserrat",
+"NIC",
+"Nicaraguan cordoba",
+"NIO"
+]
 ],
 [
 "Jamaican dollar",
-51
+51,
+[
+"$",
+"J$",
+"Jay",
+"JMD"
+]
 ],
 [
 "Belize dollar",
-51
+51,
+[
+"$",
+"BZ$",
+"BZD"
+]
 ],
 [
 "leone",
-51
+51,
+[
+"Sierra Leonean leone",
+"SLE",
+"SLL"
+]
 ],
 [
 "Cape Verdean escudo",
-51
+51,
+[
+"Cape Verde escudo"
+]
 ],
 [
 "São Tomé and Príncipe dobra",
-50
+50,
+[]
 ],
 [
 "Vanuatu vatus",
-50
+50,
+[
+"Vatu"
+]
 ],
 [
 "Uruguayan peso",
-50
+50,
+[]
 ],
 [
 "Guyanese dollar",
-50
+50,
+[
+"Money of Guyana"
+]
 ],
 [
 "CFP Franc",
-50
+50,
+[
+"franc",
+"Franc Pacifique",
+"Pacific Franc",
+"XPF"
+]
 ],
 [
 "Sudanese pound",
-50
+50,
+[
+"Sudanese Pound"
+]
 ],
 [
 "Tunisian dinar",
-50
+50,
+[
+"Tunis dinar"
+]
 ],
 [
 "Tongan paʻanga",
-50
+50,
+[
+"Pa anga",
+"Pa'anga",
+"Tongan pa`anga",
+"Tonga pa`anga",
+"Tonga paʻanga"
+]
 ],
 [
 "Congolese franc",
-50
+50,
+[
+"Belgian Congolese franc",
+"CDF",
+"Franc Congolais"
+]
 ],
 [
 "West African CFA franc",
-50
+50,
+[
+"BCEAO franc"
+]
 ],
 [
 "Bermudian dollar",
-49
+49,
+[
+"BMD"
+]
 ],
 [
 "solidus",
-49
+49,
+[]
 ],
 [
 "Aruban florin",
-49
+49,
+[
+"Afl.",
+"AWG"
+]
 ],
 [
 "Costa Rican colón",
-49
+49,
+[
+"Costa Rican colon",
+"CRC"
+]
 ],
 [
 "Akçe",
-49
+49,
+[
+"Akça"
+]
 ],
 [
 "Samoan tālā",
-49
+49,
+[
+"Samoan Tala",
+"Tala",
+"Tālā",
+"Tala (1967-date)",
+"WS$",
+"WST"
+]
 ],
 [
 "Trinidad and Tobago dollar",
-48
+48,
+[]
 ],
 [
 "Manx pound",
-48
+48,
+[]
 ],
 [
 "Somali shilling",
-48
+48,
+[
+"Currency of somalia",
+"Sh.So."
+]
 ],
 [
 "Central African CFA franc",
-48
+48,
+[
+"franc CFA"
+]
 ],
 [
 "Comorian franc",
-47
+47,
+[]
 ],
 [
 "Macanese pataca",
-46
+46,
+[
+"MOP",
+"MOP$"
+]
 ],
 [
 "Dominican peso",
-46
+46,
+[
+"Dominican peso oro",
+"peso oro"
+]
 ],
 [
 "Hungarian pengő",
-45
+45,
+[
+"pengő"
+]
 ],
 [
 "Solomon Islands dollar",
-45
+45,
+[
+"Solomon Dollar"
+]
 ],
 [
 "Cayman Islands dollar",
-43
+43,
+[
+"Dollar (1972-date)"
+]
 ],
 [
 "Yugoslav dinar",
-43
+43,
+[]
 ],
 [
 "groschen",
-42
+42,
+[
+"groschen coin"
+]
 ],
 [
 "aureus",
-42
+42,
+[]
 ],
 [
 "Somaliland shilling",
-42
+42,
+[]
 ],
 [
 "Guernsey pound",
-41
+41,
+[]
 ],
 [
 "Falkland Islands pound",
-41
+41,
+[
+"FKP"
+]
 ],
 [
 "as",
-41
+41,
+[]
 ],
 [
 "Czechoslovak koruna",
-40
+40,
+[
+"CSK"
+]
 ],
 [
 "obol",
-40
+40,
+[
+"obelus",
+"obolus"
+]
 ],
 [
 "Netherlands Antillean guilder",
-39
+39,
+[
+"ANG",
+"f",
+"ƒ",
+"Gulden (1828-date)",
+"NAf",
+"NAƒ"
+]
 ],
 [
 "convertible peso",
-38
+38,
+[
+"chavito",
+"Convertible peso (1994-2020)",
+"CUC"
+]
 ],
 [
 "Saint Helena pound",
-37
+37,
+[]
 ],
 [
 "guinea",
-37
+37,
+[
+"Guineas"
+]
 ],
 [
 "kopeck",
-36
+36,
+[
+"Kopek"
+]
 ],
 [
 "Tuvaluan dollar",
-36
+36,
+[
+"$T",
+"Tuvalu dollar",
+"TV$",
+"TVD"
+]
 ],
 [
 "Artsakh dram",
-36
+36,
+[
+"Nagorno-Karabakh dram"
+]
 ],
 [
 "Vatican lira",
-35
+35,
+[
+"VAL"
+]
 ],
 [
 "Abkhazian apsar",
-35
+35,
+[
+"apsar",
+"apsark"
+]
 ],
 [
 "Cook Islands dollar",
-35
+35,
+[]
 ],
 [
 "pfennig",
-34
+34,
+[
+"penny"
+]
 ],
 [
 "rai stone",
-33
+33,
+[
+"fei stone",
+"Yapese stone money"
+]
 ],
 [
 "Kiribati dollar",
-32
+32,
+[]
 ],
 [
 "tetradrachm",
-32
+32,
+[]
 ],
 [
 "hyperpyron",
-32
+32,
+[]
 ],
 [
 "Austro-Hungarian krone",
-32
+32,
+[
+"Austrian crown",
+"Austrian korona",
+"Austro-Hungarian coroana",
+"Austro-Hungarian coroană",
+"Austro-Hungarian corona",
+"Austro-Hungarian crown",
+"Austro-Hungarian korona",
+"Austro-Hungarian koruna",
+"Austro-Hungarian krona",
+"Austro-Hungarian Krone",
+"Austro-Hungarian krune"
+]
 ],
 [
 "German mark",
-32
+32,
+[]
 ],
 [
 "Salvadoran colón",
-32
+32,
+[
+"Colon",
+"Colón",
+"Salvadoran colon",
+"Salvadorean colon",
+"Salvadorean colón"
+]
 ],
 [
 "East Timor centavo coins",
-31
+31,
+[]
 ],
 [
 "Sammarinese lira",
-30
+30,
+[]
 ],
 [
 "Spanish dollar",
-30
+30,
+[
+"piece of eight",
+"Pillar dollar"
+]
 ],
 [
 "écu",
-30
+30,
+[
+"ecu",
+"Ecu (coin)",
+"Écu (coin)",
+"Ecus",
+"Écus",
+"French ecu",
+"French écu",
+"French Écu"
+]
 ],
 [
 "الدراهم المغربي",
-28
+28,
+[
+"الصحراء المغربية"
+]
 ],
 [
 "Rentenmark",
-28
+28,
+[
+"German Rentenmark"
+]
 ],
 [
 "Austro-Hungarian gulden",
-28
+28,
+[
+"Austrian florin",
+"Austrian Florin",
+"Austro-Hungarian florin",
+"Austro-Hungarian forint",
+"Austro-Hungarian Gulden"
+]
 ],
 [
 "Monegasque franc",
-27
+27,
+[
+"MCF"
+]
 ],
 [
 "Ecuadorian sucre",
-27
+27,
+[
+"sucre"
+]
 ],
 [
 "Caribbean guilder",
-26
+26,
+[]
 ],
 [
 "gold dinar",
-25
+25,
+[]
 ],
 [
 "Armenian rouble",
-25
+25,
+[
+"Armenian ruble"
+]
 ],
 [
 "Manchukuo yuan",
-25
+25,
+[]
 ],
 [
 "quadrans",
-24
+24,
+[
+"teruncius"
+]
 ],
 [
 "quinarius",
-24
+24,
+[
+"𐆗",
+"quinarii"
+]
 ],
 [
 "Zimbabwe ZiG",
-24
+24,
+[
+"ZiG",
+"Zimbabwean gold"
+]
 ],
 [
 "Iranian toman",
-24
+24,
+[]
 ],
 [
 "sultani",
-24
+24,
+[]
 ],
 [
 "semis",
-23
+23,
+[]
 ],
 [
 "siliqua",
-23
+23,
+[
+"𐆕"
+]
 ],
 [
 "argenteus",
-23
+23,
+[]
 ],
 [
 "Bohemian and Moravian koruna",
-23
+23,
+[
+"Bohemian and Moravian crown"
+]
 ],
 [
 "Tremissis",
-22
+22,
+[]
 ],
 [
 "Yugoslav krone",
-22
+22,
+[
+"krone"
+]
 ],
 [
 "pound Scots",
-22
+22,
+[
+"pounds Scots",
+"Scots pound",
+"Scottish pound"
+]
 ],
 [
 "Korean won",
-22
+22,
+[
+"Korean Empire won"
+]
 ],
 [
 "French Indochinese piastre",
-21
+21,
+[]
 ],
 [
 "spesmilo",
-21
+21,
+[
+"1000 spesoj",
+"100 spesdekoj",
+"10 spescentoj"
+]
 ],
 [
 "East African shilling",
-21
+21,
+[]
 ],
 [
 "African Monetary Union",
-21
+21,
+[
+"afriq",
+"afro"
+]
 ],
 [
 "Palestine pound",
-21
+21,
+[
+"الشهيدا  الأدام  خيرا جنود الأرض دولة فلسطين  القدس الشريف  المسجد الآقصي المبارك@"
+]
 ],
 [
 "Danzig gulden",
-21
+21,
+[]
 ],
 [
 "Montenegrin perper",
-21
+21,
+[]
 ],
 [
 "Spanish escudo",
-20
+20,
+[
+"escudo"
+]
 ],
 [
 "zaire",
-20
+20,
+[
+"Congolese zaire",
+"zaïre",
+"Zairean zaire"
+]
 ],
 [
 "Ottoman lira",
-20
+20,
+[]
 ],
 [
 "Ecuadorian centavo coins",
-20
+20,
+[]
 ],
 [
 "Eco",
-20
+20,
+[
+"ECO"
+]
 ],
 [
 "Chechen naxar",
-19
+19,
+[]
 ],
 [
 "ancient drachma",
-19
+19,
+[
+"hellenic drachma"
+]
 ],
 [
 "Khaleeji",
-19
+19,
+[]
 ],
 [
 "Moldovan cupon",
-19
+19,
+[]
 ],
 [
 "Kraków złoty",
-19
+19,
+[]
 ],
 [
 "Conventionsthaler",
-19
+19,
+[
+"Konventionstaler",
+"Konventionsthaler"
+]
 ],
 [
 "Tuvan akşa",
-18
+18,
+[]
 ],
 [
 "Republika Srpska dinar",
-18
+18,
+[]
 ],
 [
 "Straits dollar",
-18
+18,
+[]
 ],
 [
 "German East African rupie",
-18
+18,
+[]
 ],
 [
 "French denier",
-18
+18,
+[]
 ],
 [
 "Confederate States dollar",
-18
+18,
+[]
 ],
 [
 "Biafran pound",
-18
+18,
+[]
 ],
 [
 "Korean yen",
-18
+18,
+[]
 ],
 [
 "Sycee",
-17
+17,
+[
+"yuanbao"
+]
 ],
 [
 "Polish marka",
-17
+17,
+[]
 ],
 [
 "Swedish riksdaler",
-17
+17,
+[
+"riksdaler"
+]
 ],
 [
 "Newfoundland dollar",
-17
+17,
+[
+"NF$",
+"NFD"
+]
 ],
 [
 "Afghan rupee",
-17
+17,
+[]
 ],
 [
 "Maltese scudo",
-17
+17,
+[
+"Coins of the Order of Saint John of Jerusalem"
+]
 ],
 [
 "SUCRE",
-16
+16,
+[
+"Sistema Unico de Compensacion Regional",
+"Sistema Único de Compensación Regional",
+"XSU"
+]
 ],
 [
 "Greek phoenix",
-16
+16,
+[
+"phoenix"
+]
 ],
 [
 "Portuguese real",
-16
+16,
+[
+"reais",
+"real",
+"reis",
+"réis"
+]
 ],
 [
 "Hawaiian dollar",
-16
+16,
+[
+"dala"
+]
 ],
 [
 "Tunisian franc",
-16
+16,
+[]
 ],
 [
 "Algerian franc",
-16
+16,
+[]
 ],
 [
 "fals",
-16
+16,
+[
+"felus"
+]
 ],
 [
 "Vereinsthaler",
-16
+16,
+[]
 ],
 [
 "Angolan escudo",
-16
+16,
+[
+"Angolan Escudo (1958-1977)"
+]
 ],
 [
 "Chilean escudo",
-16
+16,
+[
+"Escudo (1960-1975)"
+]
 ],
 [
 "cash",
-16
+16,
+[
+"Chinese cash",
+"wen"
+]
 ],
 [
 "Taiwanese yen",
-16
+16,
+[]
 ],
 [
 "Old Taiwan dollar",
-16
+16,
+[]
 ],
 [
 "cistophorus",
-16
+16,
+[
+"cistophor"
+]
 ],
 [
 "Liechtenstein frank",
-15
+15,
+[]
 ],
 [
 "grivna",
-15
+15,
+[]
 ],
 [
 "Zanzibari rupee",
-15
+15,
+[]
 ],
 [
 "livre tournois",
-15
+15,
+[]
 ],
 [
 "aes grave",
-15
+15,
+[]
 ],
 [
 "liard",
-15
+15,
+[]
 ],
 [
 "Transcaucasian ruble",
-14
+14,
+[]
 ],
 [
 "groat",
-14
+14,
+[]
 ],
 [
 "silver as an investment",
-14
+14,
+[
+"silver",
+"silver as currency",
+"XAG"
+]
 ],
 [
 "Austrian krone",
-14
+14,
+[]
 ],
 [
 "South Vietnamese đồng",
-14
+14,
+[
+"VNCHD"
+]
 ],
 [
 "scyphate",
-14
+14,
+[]
 ],
 [
 "Malawian pound",
-14
+14,
+[
+"pound"
+]
 ],
 [
 "ryō",
-14
+14,
+[]
 ],
 [
 "Argentine real",
-14
+14,
+[
+"argentinian real",
+"real",
+"Real (1813-1881)"
+]
 ],
 [
 "denga",
-14
+14,
+[]
 ],
 [
 "Saar franc",
-14
+14,
+[]
 ],
 [
 "Japanese military yen",
-14
+14,
+[
+"JMY"
+]
 ],
 [
 "Hungarian korona",
-14
+14,
+[]
 ],
 [
 "soldo",
-13
+13,
+[]
 ],
 [
 "New Turkish lira",
-13
+13,
+[
+"Denemek",
+"İkinci Türk Lirası",
+"Türk lirası",
+"YTL"
+]
 ],
 [
 "Reichsthaler",
-13
+13,
+[]
 ],
 [
 "German ostmark",
-13
+13,
+[]
 ],
 [
 "skilling",
-13
+13,
+[]
 ],
 [
 "Liechtenstein krone",
-13
+13,
+[]
 ],
 [
 "Cambodian franc",
-13
+13,
+[]
 ],
 [
 "Biatec",
-13
+13,
+[]
 ],
 [
 "Krajina dinar",
-13
+13,
+[]
 ],
 [
 "Japanese mon",
-13
+13,
+[]
 ],
 [
 "Greenlandic krone",
-13
+13,
+[]
 ],
 [
 "Fiume krone",
-13
+13,
+[]
 ],
 [
 "Kronenthaler",
-13
+13,
+[]
 ],
 [
 "South Korean hwan",
-13
+13,
+[]
 ],
 [
 "Prussian thaler",
-13
+13,
+[]
 ],
 [
 "East African rupee",
-13
+13,
+[]
 ],
 [
 "knife money",
-12
+12,
+[
+"chin-tao",
+"daobi",
+"daoqian",
+"jindao",
+"kine tao",
+"kine-tao",
+"kin tao",
+"kin-tao",
+"kin-tau",
+"tao-chien",
+"tao-pi"
+]
 ],
 [
 "Hyderabadi rupee",
-12
+12,
+[
+"Hali",
+"Osmania sicca"
+]
 ],
 [
 "aes signatum",
-12
+12,
+[]
 ],
 [
 "victoriatus",
-12
+12,
+[]
 ],
 [
 "aes rude",
-12
+12,
+[]
 ],
 [
 "Roman scudo",
-12
+12,
+[]
 ],
 [
 "New Hebrides franc",
-12
+12,
+[]
 ],
 [
 "Portuguese Timorese pataca",
-12
+12,
+[]
 ],
 [
 "German ostruble",
-12
+12,
+[
+"Ostruble"
+]
 ],
 [
 "Italian Somaliland rupia",
-12
+12,
+[
+"Somali rupia"
+]
 ],
 [
 "Italian Somaliland somalo",
-12
+12,
+[]
 ],
 [
 "Burmese rupee",
-12
+12,
+[]
 ],
 [
 "Malayan dollar",
-12
+12,
+[]
 ],
 [
 "Sarawak dollar",
-12
+12,
+[]
 ],
 [
 "Equatorial Guinean peseta",
-12
+12,
+[
+"Guinean peseta",
+"Peseta guineana"
+]
 ],
 [
 "French West African franc",
-12
+12,
+[]
 ],
 [
 "franga",
-12
+12,
+[]
 ],
 [
 "Saar mark",
-12
+12,
+[]
 ],
 [
 "sextans",
-12
+12,
+[]
 ],
 [
 "North Vietnamese đồng",
-12
+12,
+[
+"đồng"
+]
 ],
 [
 "Hungarian adópengő",
-12
+12,
+[]
 ],
 [
 "Stavraton",
-12
+12,
+[]
 ],
 [
 "bes",
-12
+12,
+[]
 ],
 [
 "Netherlands Indies guilder",
-12
+12,
+[
+"Dutch East Indies guilder"
+]
 ],
 [
 "Rwanda and Burundi franc",
-11
+11,
+[]
 ],
 [
 "Joachimsthaler",
-11
+11,
+[
+"Tolar"
+]
 ],
 [
 "Eritrean tallero",
-11
+11,
+[]
 ],
 [
 "Aksumite currency",
-11
+11,
+[]
 ],
 [
 "quattrino",
-11
+11,
+[]
 ],
 [
 "som",
-11
+11,
+[
+"soum",
+"sum"
+]
 ],
 [
 "Iranian qiran",
-11
+11,
+[
+"kran",
+"qerun"
+]
 ],
 [
 "Southern Rhodesian pound",
-11
+11,
+[]
 ],
 [
 "Rhodesia and Nyasaland pound",
-11
+11,
+[]
 ],
 [
 "Korean yang",
-11
+11,
+[]
 ],
 [
 "Korean mun",
-11
+11,
+[]
 ],
 [
 "Jamaican pound",
-11
+11,
+[
+"Pound (1822-1969)",
+"Pound (1840-1969)"
+]
 ],
 [
 "coins and postage stamps of Sealand",
-11
+11,
+[
+"SX$"
+]
 ],
 [
 "basilikon",
-11
+11,
+[
+"doukaton"
+]
 ],
 [
 "Angolan angolar",
-11
+11,
+[]
 ],
 [
 "Alderney pound",
-11
+11,
+[]
 ],
 [
 "North Yemeni rial",
-11
+11,
+[]
 ],
 [
 "Zimbabwean dollar",
-11
+11,
+[
+"$",
+"2019 Zimbabwean dollar",
+"5th Zimbabwean dollar",
+"fifth Zimbabwean dollar",
+"Real Time Gross Settlement dollar",
+"RTGS$",
+"Z$",
+"Zimbabwean dollar (2019)",
+"Zimdollar",
+"ZWL"
+]
 ],
 [
 "Mexican real",
-11
+11,
+[]
 ],
 [
 "Nova Scotian dollar",
-10
+10,
+[]
 ],
 [
 "Italian East African lira",
-10
+10,
+[]
 ],
 [
 "Danish rigsdaler",
-10
+10,
+[
+"rixdollar"
+]
 ],
 [
 "French Indian rupee",
-10
+10,
+[
+"roupie",
+"rupee"
+]
 ],
 [
 "Paraguayan peso",
-10
+10,
+[]
 ],
 [
 "Portuguese Indian escudo",
-10
+10,
+[]
 ],
 [
 "Cambodian tical",
-10
+10,
+[]
 ],
 [
 "pim weight",
-10
+10,
+[
+"payim",
+"pim"
+]
 ],
 [
 "São Tomé and Príncipe escudo",
-10
+10,
+[]
 ],
 [
 "örtug",
-10
+10,
+[
+"ortig"
+]
 ],
 [
 "Slovak koruna (1939–1945)",
-10
+10,
+[]
 ],
 [
 "Luccan pound",
-10
+10,
+[]
 ],
 [
 "Argentine peso ley",
-10
+10,
+[
+"peso ley 18188",
+"peso ley argentino"
+]
 ],
 [
 "Sardinian lira",
-10
+10,
+[]
 ],
 [
 "sovereign bolivar",
-10
+10,
+[
+"bolivar",
+"Bs.S",
+"VES"
+]
 ],
 [
 "Mongolian dollar",
-10
+10,
+[]
 ],
 [
 "baiocco",
-10
+10,
+[]
+],
+[
+"angel",
+9,
+[]
+],
+[
+"West Irian rupiah",
+9,
+[
+"West New Guinea rupiah"
+]
+],
+[
+"decussis",
+9,
+[]
+],
+[
+"Réunion franc",
+9,
+[
+"Reunion franc"
+]
+],
+[
+"quantum money",
+9,
+[]
+],
+[
+"Algerian budju",
+9,
+[]
+],
+[
+"French sol",
+9,
+[
+"Spanish sueldo"
+]
+],
+[
+"papal lira",
+9,
+[]
+],
+[
+"British North Borneo dollar",
+9,
+[]
+],
+[
+"Italian Somaliland lira",
+9,
+[
+"Somali lira"
+]
+],
+[
+"Sovznak",
+9,
+[]
+],
+[
+"Independent State of Croatia kuna",
+9,
+[
+"kuna"
+]
+],
+[
+"Portuguese Indian rupia",
+9,
+[]
+],
+[
+"Tunisian rial",
+9,
+[
+"rial"
+]
+],
+[
+"livre parisis",
+9,
+[]
+],
+[
+"Rhenish guilder",
+9,
+[]
+],
+[
+"Moroccan rial",
+9,
+[]
+],
+[
+"assignation ruble",
+9,
+[]
+],
+[
+"Norwegian rigsdaler",
+9,
+[]
+],
+[
+"Niue dollar",
+9,
+[]
+],
+[
+"Lombardy-Venetia pound",
+9,
+[]
+],
+[
+"penning",
+9,
+[
+"Norwegian penning"
+]
+],
+[
+"Norwegian speciedaler",
+9,
+[]
+],
+[
+"Sasanian coinage",
+9,
+[]
+],
+[
+"Japanese Government-Issued Rupee in Burma",
+9,
+[]
+],
+[
+"Japanese government-issued dollar in South-East Asia (1942–1945)",
+9,
+[]
+],
+[
+"Gold Coast ackey",
+9,
+[]
+],
+[
+"Guatemalan peso",
+9,
+[]
+],
+[
+"B yen",
+9,
+[
+"B type military scrip"
+]
+],
+[
+"New Guinean mark",
+9,
+[]
+],
+[
+"British West Indies dollar",
+9,
+[]
+],
+[
+"Portuguese dinheiro",
+8,
+[]
+],
+[
+"Almoravid dinar",
+8,
+[
+"currency"
+]
+],
+[
+"trachy",
+8,
+[
+"trachea"
+]
+],
+[
+"Katangese franc",
+8,
+[]
+],
+[
+"plate money",
+8,
+[]
+],
+[
+"moidore",
+8,
+[
+"moydore"
+]
+],
+[
+"prutah",
+8,
+[]
+],
+[
+"Egyptian gold stater",
+8,
+[]
+],
+[
+"Danish West Indian daler",
+8,
+[]
+],
+[
+"Kutch kori",
+8,
+[]
+],
+[
+"Polushka",
+8,
+[]
+],
+[
+"Kerenka",
+8,
+[]
+],
+[
+"Islamic State Dinar",
+8,
+[
+"IS dinar",
+"ISIS currency",
+"ISIS dinar"
+]
+],
+[
+"Tibetan tangka",
+8,
+[
+"dngul Tam",
+"Tam",
+"tangka"
+]
+],
+[
+"Ukrainian shah",
+8,
+[]
+],
+[
+"grzywna",
+8,
+[]
+],
+[
+"Indian paisa",
+8,
+[]
+],
+[
+"Togolese franc",
+8,
+[]
+],
+[
+"agontano",
+8,
+[
+"grosso agontano"
+]
+],
+[
+"giulio",
+8,
+[]
+],
+[
+"Ionian obol",
+8,
+[]
+],
+[
+"Costa Rican peso",
+8,
+[]
+],
+[
+"Salvadoran peso",
+8,
+[
+"peso",
+"Peso salvadoreño",
+"Pesos salvadoreños",
+"Salvadoran Pesos",
+"Salvadorean peso",
+"Salvadorian peso"
+]
+],
+[
+"Danish West Indian rigsdaler",
+8,
+[]
+],
+[
+"Danish Indian rupee",
+8,
+[]
+],
+[
+"Bermudian pound",
+8,
+[]
+],
+[
+"Pitcairn Islands dollar",
+8,
+[]
+],
+[
+"Lithuanian long currency",
+8,
+[]
+],
+[
+"Tuscan florin",
+8,
+[]
+],
+[
+"Japanese government-issued Philippine peso",
+8,
+[]
+],
+[
+"Friedrich d'or",
+8,
+[]
+],
+[
+"Serbian perper",
+8,
+[]
+],
+[
+"Tyrian shekel",
+8,
+[]
+],
+[
+"South German gulden",
+8,
+[]
+],
+[
+"Tripolitanian lira",
+8,
+[
+"MAL",
+"Military Authority Lira"
+]
+],
+[
+"Nepalese mohar",
+8,
+[]
+],
+[
+"Sierra Leonean dollar",
+8,
+[]
+],
+[
+"Riau rupiah",
+8,
+[]
+],
+[
+"East African florin",
+8,
+[]
+],
+[
+"peso moneda nacional",
+8,
+[
+"Argentine peso moneda nacional",
+"m$n"
+]
+],
+[
+"Tenpō Tsūhō",
+7,
+[]
+],
+[
+"belga",
+7,
+[]
+],
+[
+"Iraqi Swiss dinar",
+7,
+[]
+],
+[
+"gigliato",
+7,
+[
+"carlino",
+"gillat"
+]
+],
+[
+"ant-nose coin",
+7,
+[
+"ant-nose money",
+"jibi coin",
+"yibi coin",
+"yibi cowry"
+]
+],
+[
+"Luccan franc",
+7,
+[]
+],
+[
+"Carthaginian currency",
+7,
+[
+"Carthaginian coinage",
+"Punic coinage",
+"Punic currency"
+]
+],
+[
+"French Equatorial African franc",
+7,
+[]
+],
+[
+"Honduran peso",
+7,
+[]
+],
+[
+"pūl",
+7,
+[]
+],
+[
+"Zanzibari ryal",
+7,
+[]
+],
+[
+"Azorean real",
+7,
+[]
+],
+[
+"Prince Edward Island dollar",
+7,
+[]
+],
+[
+"Poltura",
+7,
+[]
+],
+[
+"Genoese lira",
+7,
+[]
+],
+[
+"coinage of the Republic of Venice",
+7,
+[]
+],
+[
+"Vietnamese cash",
+7,
+[]
+],
+[
+"Boratynka",
+7,
+[]
+],
+[
+"broad",
+7,
+[]
+],
+[
+"Wu Zhu",
+7,
+[
+"Wu Chu coins",
+"Wu Zhu cash coins",
+"Wuzhu coins",
+"五銖"
+]
+],
+[
+"Tokugawa coinage",
+7,
+[]
+],
+[
+"Kelantanese dinar",
+7,
+[]
+],
+[
+"Ryukyuan mon",
+7,
+[
+"mon"
+]
+],
+[
+"South Korean won (1945–1953)",
+7,
+[]
+],
+[
+"Mariengroschen",
+7,
+[]
+],
+[
+"Seborga luigino",
+7,
+[
+"Luigino"
+]
+],
+[
+"spade money",
+7,
+[]
+],
+[
+"hacksilver",
+7,
+[]
+],
+[
+"Great Qing Treasure Note",
+7,
+[]
+],
+[
+"North German thaler",
+6,
+[]
+],
+[
+"French Guianan franc",
+6,
+[]
+],
+[
+"New Brunswick dollar",
+6,
+[]
+],
+[
+"Weißpfennig",
+6,
+[]
+],
+[
+"Occupation Reichsmark",
+6,
+[]
+],
+[
+"Cape Verdean real",
+6,
+[]
+],
+[
+"Meißner Groschen",
+6,
+[]
+],
+[
+"Catalan peseta",
+6,
+[]
+],
+[
+"Sumatran dollar",
+6,
+[]
+],
+[
+"Ural franc",
+6,
+[]
+],
+[
+"zlatnik",
+6,
+[]
+],
+[
+"Ichibuban",
+6,
+[]
+],
+[
+"Netherlands New Guinean gulden",
+6,
+[]
+],
+[
+"Fribourg frank",
+6,
+[
+"Frank"
+]
+],
+[
+"Aargau frank",
+6,
+[]
+],
+[
+"New Caledonian franc",
+6,
+[]
+],
+[
+"French Polynesian franc",
+6,
+[]
+],
+[
+"Martinique franc",
+6,
+[]
+],
+[
+"Milanese scudo",
+6,
+[
+"scudo"
+]
+],
+[
+"AM-Lira",
+6,
+[]
+],
+[
+"British Columbia dollar",
+6,
+[]
+],
+[
+"Parman lira",
+6,
+[]
+],
+[
+"Tuscan pound",
+6,
+[]
+],
+[
+"German South West African mark",
+6,
+[
+"mark"
+]
+],
+[
+"Peruvian peseta",
+6,
+[]
+],
+[
+"Ionian gazeta",
+6,
+[]
+],
+[
+"Azerbaijani ruble",
+6,
+[]
+],
+[
+"won of the Red Army Command",
+6,
+[
+"Red Army won"
+]
+],
+[
+"Hamburg mark",
+6,
+[]
+],
+[
+"Saint Pierre and Miquelon franc",
+6,
+[]
+],
+[
+"Danzig mark",
+6,
+[]
+],
+[
+"Money of Litzmannstadt Ghetto",
+6,
+[]
+],
+[
+"Italian lira",
+6,
+[]
+],
+[
+"commemorative coins of the Soviet Union",
+6,
+[]
+],
+[
+"French Camerounian franc",
+6,
+[]
+],
+[
+"Piedmontese scudo",
+6,
+[]
+],
+[
+"Hejaz Saudi riyal",
+6,
+[]
+],
+[
+"Sardinian scudo",
+6,
+[]
+],
+[
+"Cochinchina Piastre",
+6,
+[]
+],
+[
+"Greenlandic rigsdaler",
+6,
+[]
+],
+[
+"Mangır",
+6,
+[
+"manghir",
+"mankur",
+"pūl"
+]
+],
+[
+"Guadeloupe franc",
+6,
+[
+"franc"
+]
+],
+[
+"Kushan coinage",
+6,
+[]
+],
+[
+"leprosy colony money",
+6,
+[
+"leper colony money"
+]
+],
+[
+"Mogadishu currency",
+6,
+[]
+],
+[
+"albus",
+6,
+[]
+],
+[
+"Bukharan tenga",
+6,
+[]
+],
+[
+"Frizatik",
+5,
+[]
+],
+[
+"Basel thaler",
+5,
+[]
+],
+[
+"Berne thaler",
+5,
+[]
+],
+[
+"Berne frank",
+5,
+[]
+],
+[
+"Geneva thaler",
+5,
+[]
+],
+[
+"Basel frank",
+5,
+[]
+],
+[
+"Solothurn frank",
+5,
+[]
+],
+[
+"St. Gallen thaler",
+5,
+[]
+],
+[
+"Luzern frank",
+5,
+[]
+],
+[
+"Solothurn thaler",
+5,
+[]
+],
+[
+"Vaud franc",
+5,
+[]
+],
+[
+"Kiautschou dollar",
+5,
+[]
+],
+[
+"Hubu Guanpiao",
+5,
+[
+"Dà Qīng Hù Bù Guān Piào",
+"大清戶部官票",
+"户部官票"
+]
+],
+[
+"Makhno Ruble",
+5,
+[]
+],
+[
+"Tibetan srang",
+5,
+[
+"dngul srang"
+]
+],
+[
+"Westphalian frank",
+5,
+[]
+],
+[
+"Ticinese franco",
+5,
+[]
+],
+[
+"pataca",
+5,
+[]
+],
+[
+"riffan mamoun",
+5,
+[]
+],
+[
+"Zürich thaler",
+5,
+[]
+],
+[
+"Parthian coins",
+5,
+[
+"Parthian currency"
+]
+],
+[
+"Tumen",
+5,
+[
+"tümen of north caucasin emirate"
+]
+],
+[
+"Saxon thaler",
+5,
+[]
+],
+[
+"Sechsling",
+5,
+[]
+],
+[
+"Sicilian piastra",
+5,
+[]
+],
+[
+"Khwarazmi tenga",
+5,
+[]
+],
+[
+"South West African mark",
+5,
+[]
+],
+[
+"Fureai kippu",
+5,
+[]
+],
+[
+"Vlorë frank",
+5,
+[]
+],
+[
+"Harbin Ruble",
+5,
+[]
+],
+[
+"Bavarian gulden",
+5,
+[]
+],
+[
+"Angolan real",
+5,
+[]
+],
+[
+"falus",
+5,
+[]
+],
+[
+"Palembang pitis",
+5,
+[
+"Uang pitis Palembang"
+]
+],
+[
+"Penang dollar",
+5,
+[]
+],
+[
+"Ambrosino",
+5,
+[]
+],
+[
+"tiền",
+5,
+[]
+],
+[
+"Argentine argentino",
+5,
+[]
+],
+[
+"yarmaq",
+5,
+[]
+],
+[
+"Shahi",
+4,
+[]
+],
+[
+"Marchuwa",
+4,
+[]
+],
+[
+"Danzig thaler",
+4,
+[]
+],
+[
+"Almohad dinar",
+4,
+[]
+],
+[
+"Meiji Tsuho",
+4,
+[]
+],
+[
+"Chinese gold yuan",
+4,
+[]
+],
+[
+"Qirat",
+4,
+[]
+],
+[
+"paolo",
+4,
+[]
+],
+[
+"nogata",
+4,
+[]
+],
+[
+"Fatimid coinage",
+4,
+[]
+],
+[
+"Iraimbilanja",
+4,
+[]
+],
+[
+"Xin Dynasty coinage",
+4,
+[
+"Wang Mang coinage",
+"Wang Mang money"
+]
+],
+[
+"Franc Poincaré",
+4,
+[
+"Franc Poincare"
+]
+],
+[
+"Ecuadorian peso",
+4,
+[]
+],
+[
+"Colombian real",
+4,
+[]
+],
+[
+"Europa",
+4,
+[]
+],
+[
+"Sadagur coins",
+4,
+[]
+],
+[
+"coins of the Helvetic Republic",
+4,
+[]
+],
+[
+"Madras fanam",
+4,
+[]
+],
+[
+"Salvadoran real",
+4,
+[
+"Real",
+"Reales Salvadoreños",
+"Real salvadoreño",
+"Salvadorean real",
+"Salvadorian real"
+]
+],
+[
+"venezolano",
+4,
+[]
+],
+[
+"Tobagan dollar",
+4,
+[]
+],
+[
+"Trinidadian dollar",
+4,
+[]
+],
+[
+"Mauritian dollar",
+4,
+[]
+],
+[
+"Graubünden frank",
+4,
+[]
+],
+[
+"Appenzell frank",
+4,
+[]
+],
+[
+"Glarus frank",
+4,
+[]
+],
+[
+"Württemberg gulden",
+4,
+[]
+],
+[
+"Peruvian inca",
+4,
+[]
+],
+[
+"Argentine peso moneda corriente",
+4,
+[
+"peso moneda corriente"
+]
+],
+[
+"Venezuelan peso",
+4,
+[]
+],
+[
+"ryal",
+4,
+[]
+],
+[
+"Hanoverian thaler",
+4,
+[]
+],
+[
+"St. Gallen frank",
+4,
+[]
+],
+[
+"Geneva franc",
+4,
+[]
+],
+[
+"Portuguese Guinean real",
+4,
+[]
+],
+[
+"Don ruble",
+4,
+[]
+],
+[
+"gold rouble",
+4,
+[
+"gold ruble"
+]
+],
+[
+"Peruvian libra",
+4,
+[]
+],
+[
+"Geneva genevoise",
+4,
+[]
+],
+[
+"Srebrennik",
+4,
+[]
+],
+[
+"Korçë franc",
+4,
+[]
+],
+[
+"dang",
+4,
+[]
+],
+[
+"Austrian Netherlands kronenthaler",
+4,
+[]
+],
+[
+"yuan of the Red Army Command",
+4,
+[]
+],
+[
+"Gibraltar real",
+4,
+[]
+],
+[
+"New Generation Currency Series",
+4,
+[
+"NGC"
+]
+],
+[
+"Guadeloupe livre",
+4,
+[]
+],
+[
+"cuarto",
+4,
+[]
+],
+[
+"Single South American currency",
+4,
+[
+"Sur"
+]
+],
+[
+"Lebanese-Syrian pound",
+4,
+[
+"Syrian pound",
+"Syro-Lebanese pound"
+]
+],
+[
+"Made Beaver",
+4,
+[]
+],
+[
+"Nova Scotian pound",
+4,
+[]
+],
+[
+"Terra",
+4,
+[]
+],
+[
+"Tanga",
+4,
+[]
+],
+[
+"Vermont copper",
+4,
+[]
+],
+[
+"Schwyz frank",
+4,
+[]
+],
+[
+"banknotes of the Central Reserve Bank of China",
+3,
+[]
+],
+[
+"Huanqian",
+3,
+[
+"Huánqián",
+"圜錢"
+]
+],
+[
+"Chinese National Currency",
+3,
+[]
+],
+[
+"Goldback",
+3,
+[]
+],
+[
+"bon",
+3,
+[
+"bony"
+]
+],
+[
+"Saigo-satsu",
+3,
+[]
+],
+[
+"Masmodina",
+3,
+[]
+],
+[
+"grosso",
+3,
+[]
+],
+[
+"Offa's imitation dinar",
+3,
+[]
+],
+[
+"Italian yuan",
+3,
+[]
+],
+[
+"Alaskan parchment scrip",
+3,
+[]
+],
+[
+"Java rupiah",
+3,
+[]
+],
+[
+"Maiorina",
+3,
+[]
+],
+[
+"mordovka",
+3,
+[]
+],
+[
+"Travancore fanam",
+3,
+[]
+],
+[
+"nasry",
+3,
+[
+"nasri"
+]
+],
+[
+"tostão",
+3,
+[]
+],
+[
+"coins of Turkey",
+3,
+[]
+],
+[
+"Texas dollar",
+3,
+[]
+],
+[
+"Saint Lucia dollar",
+3,
+[]
+],
+[
+"Saint Lucia livre",
+3,
+[]
+],
+[
+"Puerto Rican peso",
+3,
+[]
+],
+[
+"Hesse-Kassel thaler",
+3,
+[]
+],
+[
+"Schwyz gulden",
+3,
+[]
+],
+[
+"Luzern gulden",
+3,
+[]
+],
+[
+"Reich karbovanets",
+3,
+[]
+],
+[
+"Kolkhuri Tetri",
+3,
+[]
+],
+[
+"kuna",
+3,
+[]
+],
+[
+"Luxembourgian livre",
+3,
+[]
+],
+[
+"Soviet coins",
+3,
+[]
+],
+[
+"São Tomé and Príncipe real",
+3,
+[]
+],
+[
+"riyal of Qatar and Dubai",
+3,
+[]
+],
+[
+"Ruble zone",
+3,
+[]
+],
+[
+"Cocos (Keeling) Islands rupee",
+3,
+[]
+],
+[
+"Said rial",
+3,
+[]
+],
+[
+"Korçë Skënder",
+3,
+[]
+],
+[
+"Mengjiang yuan",
+3,
+[]
+],
+[
+"banknotes of the Czechoslovak Koruna (1945)",
+3,
+[]
+],
+[
+"ceiniog",
+3,
+[]
+],
+[
+"Dominican franco",
+3,
+[]
+],
+[
+"Zürich frank",
+3,
+[]
+],
+[
+"Budju of Abd el Kader",
+3,
+[]
+],
+[
+"MVDOL",
+3,
+[
+"BOV",
+"Mvdol"
+]
+],
+[
+"Westphalian thaler",
+3,
+[]
+],
+[
+"Paraguayan real",
+3,
+[]
+],
+[
+"Vietnamese mạch",
+3,
+[
+"陌"
+]
+],
+[
+"Umayyad dinar",
+3,
+[
+"dinar",
+"Islamic coins",
+"Umayyad"
+]
+],
+[
+"Thurgau frank",
+3,
+[]
+],
+[
+"Unterwalden frank",
+3,
+[]
+],
+[
+"Orange Free State pound",
+3,
+[]
+],
+[
+"Peruvian real",
+3,
+[]
+],
+[
+"Uri frank",
+3,
+[]
+],
+[
+"Indo-Sasanian coinage",
+3,
+[]
+],
+[
+"Schaffhausen frank",
+3,
+[]
+],
+[
+"Tong Bei",
+3,
+[]
+],
+[
+"Ľubovniansky zlatý",
+3,
+[]
+],
+[
+"Hard bolivar",
+3,
+[
+"Bolívar fuerte"
+]
+],
+[
+"Lumi",
+2,
+[]
+],
+[
+"Silver Tael",
+2,
+[
+"silver tael currency"
+]
+],
+[
+"breadcoin",
+2,
+[]
+],
+[
+"Sichuan rupee",
+2,
+[]
+],
+[
+"Chromia",
+2,
+[
+"CHR",
+"Chromapolis"
+]
+],
+[
+"Tianming Tongbao",
+2,
+[
+"天命通寳"
+]
+],
+[
+"Sure han ni jiha",
+2,
+[]
+],
+[
+"romanat",
+2,
+[
+"român",
+"romîn"
+]
+],
+[
+"Sekō Tsūhō",
+2,
+[
+"seko-tsuho",
+"Sekou Tsuuhou"
+]
+],
+[
+"Minbushō-satsu",
+2,
+[
+"Civil department notes"
+]
+],
+[
+"cowrie currency",
+2,
+[
+"cowrie shell money",
+"cowry money",
+"cowry shell",
+"cowry shell money"
+]
+],
+[
+"Roman baiocco",
+2,
+[]
+],
+[
+"beşlik",
+2,
+[]
+],
+[
+"TEM",
+2,
+[]
+],
+[
+"British Iron Bar currency",
+2,
+[]
+],
+[
+"Geonwonjungbo",
+2,
+[
+"Geonwon Joongbo"
+]
+],
+[
+"Royal Canadian Mint Olympic coins",
+2,
+[]
+],
+[
+"talent",
+2,
+[]
+],
+[
+"Maltese pound (decimal)",
+2,
+[
+"Maltese lira",
+"MTL",
+"MTP"
+]
+],
+[
+"palladium as an investment",
+2,
+[
+"palladium",
+"palladium as currency",
+"XPD"
+]
+],
+[
+"Yongchang Tongbao",
+2,
+[
+"永昌通宝",
+"永昌通寶"
+]
+],
+[
+"Wenxin coins",
+2,
+[
+"文信圜錢"
+]
+],
+[
+"billon real",
+2,
+[]
+],
+[
+"Chang'an coin",
+2,
+[
+"長安圜錢"
+]
+],
+[
+"Xianfeng coin",
+2,
+[
+"Xianfeng coins",
+"Xianfeng era cash coins"
+]
+],
+[
+"Zimbabwean bonds",
+2,
+[]
+],
+[
+"trifollaro",
+2,
+[
+"trifollaris"
+]
+],
+[
+"gros",
+2,
+[]
+],
+[
+"kharouba",
+2,
+[]
+],
+[
+"macuta",
+2,
+[]
+],
+[
+"Antigua dollar",
+2,
+[]
+],
+[
+"Grenadan dollar",
+2,
+[]
+],
+[
+"Nevisian dollar",
+2,
+[]
+],
+[
+"Saint Kitts dollar",
+2,
+[]
+],
+[
+"Saint Vincent dollar",
+2,
+[]
+],
+[
+"Polish rubel",
+2,
+[
+"Polish bank ruble"
+]
+],
+[
+"balysh",
+2,
+[
+"balish"
+]
+],
+[
+"pengő of the Allied occupation Zone",
+2,
+[]
+],
+[
+"Mozambican real",
+2,
+[]
+],
+[
+"Coins of Sindi",
+2,
+[
+"ΣΙΝΔΩΝ"
+]
+],
+[
+"Baden gulden",
+2,
+[]
+],
+[
+"emergency circulating notes",
+2,
+[]
+],
+[
+"gaucho",
+2,
+[]
+],
+[
+"Qarapul",
+2,
+[]
+],
+[
+"Gold Certificates of the Russian-Asian Bank",
+2,
+[]
+],
+[
+"Qiang Tie",
+2,
+[]
+],
+[
+"velddaalder",
+2,
+[]
+],
+[
+"Haitian livre",
+2,
+[]
+],
+[
+"Hesse-Kassel vereinsthaler",
+2,
+[]
+],
+[
+"Dólar MUC",
+2,
+[]
+],
+[
+"African hoe money",
+2,
+[
+"Currency"
+]
+],
+[
+"Israeli Military Currency",
+2,
+[]
+],
+[
+"LECOP",
+2,
+[]
+],
+[
+"New Design series",
+2,
+[
+"BSP Series"
+]
+],
+[
+"New France livre",
+2,
+[]
+],
+[
+"tin ingot",
+2,
+[]
 ]
 ]

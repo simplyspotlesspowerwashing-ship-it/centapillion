@@ -1,82 +1,231 @@
 [
 [
 "banana",
-228
+228,
+[
+"banana fruit",
+"bananas"
+]
 ],
 [
 "grape",
-196
+196,
+[
+"🍇",
+"grapes"
+]
 ],
 [
 "pumpkin",
-128
+128,
+[
+"MbMB",
+"Telfairia ocbu 8cidentalis vine,"
+]
 ],
 [
 "kiwifruit",
-99
+99,
+[
+"Chinese gooseberry",
+"kiwi",
+"kiwi fruit"
+]
 ],
 [
 "Ribes",
-87
+87,
+[]
 ],
 [
 "persimmon",
-52
+52,
+[
+"kaki",
+"Persimmons"
+]
 ],
 [
 "pomegranate",
-45
+45,
+[
+"grenadine fruit",
+"grenadine fruits",
+"pomegranate fruit"
+]
 ],
 [
 "lemon",
-35
+35,
+[]
 ],
 [
 "goji",
-35
+35,
+[
+"Goji",
+"goji berry",
+"wolfberry"
+]
 ],
 [
 "avocado",
-19
+19,
+[
+"alligator pear",
+"avocadoes",
+"avocado pear",
+"avocados"
+]
 ],
 [
 "tomato",
-18
+18,
+[
+"🍅",
+"love apple",
+"tomatoes"
+]
 ],
 [
 "bilberry",
-15
+15,
+[
+"European blueberry"
+]
 ],
 [
 "pepo",
-13
+13,
+[]
 ],
 [
 "soursop",
-10
+10,
+[
+"durian belanda",
+"guanabana",
+"guyabano",
+"lampun",
+"Soursops",
+"tearb barung",
+"Western custard-apple fruit"
+]
 ],
 [
 "grapefruit",
-10
+10,
+[]
 ],
 [
 "Balausta",
-4
+4,
+[]
 ],
 [
 "gooseberry",
-4
+4,
+[
+"European gooseberry"
+]
 ],
 [
 "blackcurrant",
-4
+4,
+[
+"black currant"
+]
 ],
 [
 "currant",
-4
+4,
+[]
 ],
 [
 "loquat",
-3
+3,
+[
+"Loquat fruit"
+]
+],
+[
+"citron",
+2,
+[]
+],
+[
+"Coffea canephora (fruit)",
+1,
+[
+"Coffea robusta (fruit)",
+"Robusta coffee (fruit)"
+]
+],
+[
+"cloudberry",
+1,
+[
+"bakeapple",
+"knotberry",
+"knoutberry",
+"low-bush salmonberry",
+"nordic berry"
+]
+],
+[
+"myrtle berry",
+1,
+[]
+],
+[
+"magnolia berry",
+0,
+[
+"Schisandra chinensis fruit"
+]
+],
+[
+"honeyberry",
+0,
+[
+"haskap"
+]
+],
+[
+"cornelian cherry",
+0,
+[]
+],
+[
+"coffee fruit",
+0,
+[]
+],
+[
+"common barberry",
+0,
+[]
+],
+[
+"wild strawberry",
+0,
+[]
+],
+[
+"elderberry",
+0,
+[]
+],
+[
+"Pummelo",
+0,
+[]
+],
+[
+"caper berry",
+0,
+[
+"caperberry"
+]
 ]
 ]

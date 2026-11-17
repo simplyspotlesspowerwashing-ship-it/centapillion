@@ -1,4890 +1,6201 @@
 [
 [
 "Cephalopods",
-91
+91,
+[]
 ],
 [
 "ammonite",
-75
-],
+75,
 [
-"ammonoid",
-75
+"ammonoid"
+]
 ],
 [
 "Common octopus",
-51
+51,
+[]
 ],
 [
 "monoplacophorans",
-50
-],
+50,
 [
-"monoplacophores",
-50
+"monoplacophores"
+]
 ],
 [
 "Nudibranchs",
-49
+49,
+[]
 ],
 [
 "Blue mussel",
-46
-],
+46,
 [
-"Common mussel",
-46
+"Common mussel"
+]
 ],
 [
 "Blue dragon",
-43
-],
+43,
 [
 "Blue glaucus",
-43
-],
-[
 "Blue ocean slug",
-43
-],
-[
 "Blue sea slug",
-43
-],
-[
-"Sea swallow",
-43
+"Sea swallow"
+]
 ],
 [
 "Colossal squid",
-43
+43,
+[]
 ],
 [
 "Edible periwinkle",
-40
+40,
+[]
 ],
 [
 "Giant clam",
-40
-],
+40,
 [
-"Giant Clam",
-40
+"Giant Clam"
+]
 ],
 [
 "Brown Lipped Snail",
-37
-],
+37,
 [
-"Grove snail",
-37
+"Grove snail"
+]
 ],
 [
 "White-lipped banded snail",
-37
-],
+37,
 [
-"White Lipped Snail",
-37
+"White Lipped Snail"
+]
 ],
 [
 "common cuttlefish",
-37
-],
+37,
 [
 "Common cuttlefish",
-37
-],
-[
-"Common Cuttlefish",
-37
+"Common Cuttlefish"
+]
 ],
 [
 "european squid",
-36
-],
+36,
 [
-"European squid",
-36
+"European squid"
+]
 ],
 [
 "Wandering Mussel",
-36
-],
+36,
 [
 "zebra mussel",
-36
-],
-[
-"Zebra Mussel",
-36
+"Zebra Mussel"
+]
 ],
 [
 "Scallops",
-34
+34,
+[]
 ],
 [
 "Giant Squid",
-34
+34,
+[]
 ],
 [
 "giant octopus",
-34
-],
+34,
 [
 "Giant Pacific Octopus",
-34
-],
-[
 "North Pacific giant octopus",
-34
-],
-[
 "North Pacific Giant Octopus",
-34
-],
-[
-"Pacific Giant Octopus",
-34
+"Pacific Giant Octopus"
+]
 ],
 [
 "African snail",
-33
-],
+33,
 [
-"giant East African snail",
-33
+"giant East African snail"
+]
 ],
 [
 "Cone snail",
-32
+32,
+[]
 ],
 [
 "Common cockle",
-32
+32,
+[]
 ],
 [
 "Native oyster",
-32
+32,
+[]
 ],
 [
 "cowries",
-31
+31,
+[]
 ],
 [
 "Freshwater pearl mussel",
-31
+31,
+[]
 ],
 [
 "Leopard slug",
-31
+31,
+[]
 ],
 [
 "Ocean quahog",
-31
+31,
+[]
 ],
 [
 "Humboldt Squid",
-31
-],
+31,
 [
-"Jumbo Flying Squid",
-31
+"Jumbo Flying Squid"
+]
 ],
 [
 "ramshorn snails",
-30
+30,
+[]
 ],
 [
 "Little post horn squid",
-30
-],
+30,
 [
 "Little Post Horn Squid",
-30
-],
-[
 "Ram's horn squid",
-30
-],
-[
-"Ram's Horn Squid",
-30
+"Ram's Horn Squid"
+]
 ],
 [
 "Great pond snail",
-30
-],
+30,
 [
 "Great Pond Snail",
-30
-],
-[
-"great pons snail",
-30
+"great pons snail"
+]
 ],
 [
 "Pacific Geoduck",
-29
+29,
+[]
 ],
 [
 "Venus clams",
-29
+29,
+[]
 ],
 [
 "Common limpet",
-29
+29,
+[]
 ],
 [
 "argonaut",
-29
-],
+29,
 [
-"paper nautilus",
-29
+"paper nautilus"
+]
 ],
 [
 "Triton's trumpet",
-28
+28,
+[]
 ],
 [
 "Common whelk",
-28
+28,
+[]
 ],
 [
 "swan usmsel",
-28
+28,
+[]
 ],
 [
 "Garden snail",
-28
+28,
+[]
 ],
 [
 "Freshwater Snails",
-27
+27,
+[]
 ],
 [
 "Channeled Applesnail",
-27
+27,
+[]
 ],
 [
 "asian clam",
-27
-],
+27,
 [
-"Golden Freshwater Clam",
-27
+"Golden Freshwater Clam"
+]
 ],
 [
 "chambered nautilus",
-27
+27,
+[]
 ],
 [
 "Thick Shelled River Mussel",
-25
+25,
+[]
 ],
 [
 "duck mussel",
-24
+24,
+[]
 ],
 [
 "Southern blue-ringed octopus",
-24
+24,
+[]
 ],
 [
 "copse snail",
-24
-],
+24,
 [
-"Copse Snail",
-24
+"Copse Snail"
+]
 ],
 [
 "cowry",
-23
-],
+23,
 [
-"money cowry",
-23
+"money cowry"
+]
 ],
 [
 "Giant Australian cuttlefish",
-23
-],
+23,
 [
-"Giant Australian Cuttlefish",
-23
+"Giant Australian Cuttlefish"
+]
 ],
 [
 "turban snails",
-22
+22,
+[]
 ],
 [
 "Attenuate Fossaria",
-22
+22,
+[]
 ],
 [
 "grey field slug",
-22
+22,
+[]
 ],
 [
 "red slug",
-22
+22,
+[]
 ],
 [
 "Firefly squid",
-22
-],
+22,
 [
-"Japanese Firefly Squid",
-22
+"Japanese Firefly Squid"
+]
 ],
 [
 "Greater Blue-ringed Octopus",
-21
+21,
+[]
 ],
 [
 "European flying squid",
-21
+21,
+[]
 ],
 [
 "Veined rapa whelk",
-21
+21,
+[]
 ],
 [
 "Pond Snails",
-21
+21,
+[]
 ],
 [
 "Giant tun",
-21
+21,
+[]
 ],
 [
 "Common Apple Snail",
-21
-],
+21,
 [
-"Golden Mystery Snail",
-21
+"Golden Mystery Snail"
+]
 ],
 [
 "Caribbean reef squid",
-21
+21,
+[]
 ],
 [
 "Common Blanket Octopus",
-21
-],
+21,
 [
-"Violet Blanket Octopus",
-21
+"Violet Blanket Octopus"
+]
 ],
 [
 "Painter's Mussel",
-21
+21,
+[]
 ],
 [
 "Big-eared Radix",
-20
+20,
+[]
 ],
 [
 "Freshwater & brackish water clams",
-20
+20,
+[]
 ],
 [
 "cloth-of-gold cone snail",
-20
-],
+20,
 [
-"textile cone snail",
-20
+"textile cone snail"
+]
 ],
 [
 "Dog whelk",
-20
+20,
+[]
 ],
 [
 "Headshield slugs",
-19
+19,
+[]
 ],
 [
 "Flamboyant cuttlefish",
-19
-],
+19,
 [
-"Flamboyant Cuttlefish",
-19
+"Flamboyant Cuttlefish"
+]
 ],
 [
 "New Zealand Mudsnail",
-19
+19,
+[]
 ],
 [
 "Small giant clam",
-19
-],
+19,
 [
-"Small Giant Clam",
-19
+"Small Giant Clam"
+]
 ],
 [
 "Curled octopus",
-19
+19,
+[]
 ],
 [
 "Chinese Pond Mussel",
-19
+19,
+[]
 ],
 [
 "ash-black slug",
-19
+19,
+[]
 ],
 [
 "Fluted clam",
-18
-],
+18,
 [
 "Fluted Clam",
-18
-],
-[
 "Fluted giant clam",
-18
-],
-[
 "Fluted Giant Clam",
-18
-],
-[
 "giant clam",
-18
-],
-[
-"Scaly Clam",
-18
+"Scaly Clam"
+]
 ],
 [
 "chank",
-18
-],
+18,
 [
 "chank shell",
-18
-],
-[
 "divine conch",
-18
-],
-[
-"sacred chank",
-18
+"sacred chank"
+]
 ],
 [
 "Flat periwinkle",
-18
+18,
+[]
 ],
 [
 "River Limpet",
-18
+18,
+[]
 ],
 [
 "Narrow-mouthed whorl snail",
-18
-],
+18,
 [
 "Narrow-mouthed Whorl Snail",
-18
-],
-[
-"Narrow Mouthed Whorl Snail",
-18
+"Narrow Mouthed Whorl Snail"
+]
 ],
 [
 "giant Ghana tiger snail",
-18
+18,
+[]
 ],
 [
 "Great Ram's Horn Snail",
-18
-],
+18,
 [
-"ramshorn snail",
-18
+"ramshorn snail"
+]
 ],
 [
 "Grooved Razor Shell",
-18
+18,
+[]
 ],
 [
 "Common Bithynia",
-18
+18,
+[]
 ],
 [
 "Hairy Snail",
-17
+17,
+[]
 ],
 [
 "Tun shells",
-17
+17,
+[]
 ],
 [
 "Common Bladder Snail",
-17
+17,
+[]
 ],
 [
 "Razor shell",
-17
+17,
+[]
 ],
 [
 "Lake Limpet",
-17
+17,
+[]
 ],
 [
 "Dog conch",
-16
+16,
+[]
 ],
 [
 "blanket octopus",
-16
+16,
+[]
 ],
 [
 "Abalone",
-16
-],
+16,
 [
 "Ear shell",
-16
-],
-[
 "Green ormer",
-16
-],
-[
-"Ormer",
-16
+"Ormer"
+]
 ],
 [
 "Marbled Cone",
-16
+16,
+[]
 ],
 [
 "Elegant Cuttlefish",
-16
+16,
+[]
 ],
 [
 "Quagga Mussel",
-16
+16,
+[]
 ],
 [
 "Southern giant clam",
-15
-],
+15,
 [
-"Southern Giant Clam",
-15
+"Southern Giant Clam"
+]
 ],
 [
 "Paintpot Cuttlefish",
-15
+15,
+[]
 ],
 [
 "Spanish dancer",
-15
+15,
+[]
 ],
 [
 "atlantic bobtail",
-15
-],
+15,
 [
-"Atlantic Bobtail Squid",
-15
+"Atlantic Bobtail Squid"
+]
 ],
 [
 "diamondback squid",
-15
-],
+15,
 [
 "Diamondback squid",
-15
-],
-[
 "Diamondback Squid",
-15
-],
-[
 "diamond squid",
-15
-],
-[
-"Rhomboid squid",
-15
+"Rhomboid squid"
+]
 ],
 [
 "Depressed River Mussel",
-15
+15,
+[]
 ],
 [
 "Swollen River Mussel",
-15
+15,
+[]
 ],
 [
 "glory of the sea cone",
-14
-],
+14,
 [
-"glory-of-the-sea cone",
-14
+"glory-of-the-sea cone"
+]
 ],
 [
 "Oahu tree snail",
-14
+14,
+[]
 ],
 [
 "Moss Chrysalis Snail",
-14
+14,
+[]
 ],
 [
 "Grey sea slug",
-14
+14,
+[]
 ],
 [
 "Geyer's whorl snail",
-14
-],
+14,
 [
-"Geyer’s Whorl Snail",
-14
+"Geyer’s Whorl Snail"
+]
 ],
 [
 "Humming-bird Bobtail Squid",
-14
+14,
+[]
 ],
 [
 "Peppery furrow shell",
-14
+14,
+[]
 ],
 [
 "Pharaoh Cuttlefish",
-14
+14,
+[]
 ],
 [
 "Spengler’s freshwater mussel",
-14
-],
+14,
 [
-"Spengler's Freshwater Mussel",
-14
+"Spengler's Freshwater Mussel"
+]
 ],
 [
 "Appalachian elktoe",
-14
-],
+14,
 [
 "Appalachian Elktoe",
-14
-],
-[
-"Appalacian Elktoe",
-14
+"Appalacian Elktoe"
+]
 ],
 [
 "Bear Paw Clam",
-14
-],
+14,
 [
 "Horse’s hoof clam",
-14
-],
-[
 "Horse's Hoof Clam",
-14
-],
-[
-"Strawberry Clam",
-14
+"Strawberry Clam"
+]
 ],
 [
 "Dwarf Bobtail Squid",
-14
+14,
+[]
 ],
 [
 "Glory-of-the-Atlantic Cone",
-14
+14,
+[]
 ],
 [
 "Korean common octopus",
-14
-],
+14,
 [
-"long arm octopus",
-14
+"long arm octopus"
+]
 ],
 [
 "Desmoulin's whorl snail",
-14
-],
+14,
 [
-"Desmoulin's Whorl Snail",
-14
+"Desmoulin's Whorl Snail"
+]
 ],
 [
 "umbrella slug",
-13
+13,
+[]
 ],
 [
 "cowries and cowry allies",
-13
+13,
+[]
 ],
 [
 "Chiragra spider conch",
-13
+13,
+[]
 ],
 [
 "Fig cone",
-13
+13,
+[]
 ],
 [
 "Sand-dusted Cone",
-13
+13,
+[]
 ],
 [
 "Thatcheria mirabilis",
-13
+13,
+[]
 ],
 [
 "Villepin's Cone",
-13
+13,
+[]
 ],
 [
 "european common squid",
-13
+13,
+[]
 ],
 [
 "European cowrie",
-13
+13,
+[]
 ],
 [
 "dog whelks",
-13
+13,
+[]
 ],
 [
 "Nassa mud snails",
-13
+13,
+[]
 ],
 [
 "leaf-veined slugs",
-13
+13,
+[]
 ],
 [
 "black gloss",
-13
-],
+13,
 [
 "Black Gloss",
-13
-],
-[
-"Black Gloss Snail",
-13
+"Black Gloss Snail"
+]
 ],
 [
 "Sea Angels",
-13
+13,
+[]
 ],
 [
 "European Stream Valvata",
-13
-],
+13,
 [
-"European Valve Snail",
-13
+"European Valve Snail"
+]
 ],
 [
 "pellucid snail",
-13
-],
-[
-"Lesser Ramshorn Snail",
-13
-],
-[
-"Little Whirlpool Ram's-horn Snail",
-13
-],
-[
-"Ram's-horn Snail",
-13
-],
-[
-"Laver spire shell",
-13
-],
-[
-"Argentine short-finned squid",
-13
-],
-[
-"Argentine short-fin squid",
-13
-],
-[
-"Argentine shortfin squid",
-13
-],
-[
-"Argentine Shortfin Squid",
-13
-],
-[
-"Argentine Squid",
-13
-],
-[
-"Argentinian squid",
-13
-],
-[
-"Fat Threeridge",
-13
-],
-[
-"Kerry Slug",
-13
-],
-[
-"European painted top shell",
-13
-],
-[
-"Emerald Green Snail",
-13
-],
-[
-"Green Tree Snail",
-13
-],
-[
-"Manus Green Tree Snail",
-13
-],
-[
-"Hooded oyster",
-13
-],
-[
-"horny orb mussel",
-13
+13,
+[]
 ],
 [
 "Carrot Cone",
-13
+13,
+[]
+],
+[
+"Lesser Ramshorn Snail",
+13,
+[
+"Little Whirlpool Ram's-horn Snail",
+"Ram's-horn Snail"
+]
+],
+[
+"Laver spire shell",
+13,
+[]
+],
+[
+"Argentine short-finned squid",
+13,
+[
+"Argentine short-fin squid",
+"Argentine shortfin squid",
+"Argentine Shortfin Squid",
+"Argentine Squid",
+"Argentinian squid"
+]
+],
+[
+"Fat Threeridge",
+13,
+[]
+],
+[
+"Kerry Slug",
+13,
+[]
+],
+[
+"European painted top shell",
+13,
+[]
+],
+[
+"Emerald Green Snail",
+13,
+[
+"Green Tree Snail",
+"Manus Green Tree Snail"
+]
+],
+[
+"Hooded oyster",
+13,
+[]
+],
+[
+"horny orb mussel",
+13,
+[]
 ],
 [
 "Ram's Horn Snail",
-13
+13,
+[]
 ],
 [
 "listers river snail",
-13
-],
+13,
 [
-"Lister's River Snail",
-13
+"Lister's River Snail"
+]
 ],
 [
 "Mimic Lymnaea",
-13
+13,
+[]
 ],
 [
 "Chinese Mactra",
-12
+12,
+[]
 ],
 [
 "Common delphinula",
-12
+12,
+[]
 ],
 [
 "Koch's Bottletail Squid",
-12
+12,
+[]
 ],
 [
 "Bubble Cone",
-12
+12,
+[]
 ],
 [
 "Flea Cone",
-12
+12,
+[]
 ],
 [
 "West Indian Alphabet Cone",
-12
+12,
+[]
 ],
 [
 "Common garden slug",
-12
+12,
+[]
 ],
 [
 "sidegill slugs",
-12
-],
-[
-"Polynesian Tree Snail",
-12
+12,
+[]
 ],
 [
 "Crown Cone",
-12
+12,
+[]
 ],
 [
 "Sponsal Cone",
-12
+12,
+[]
 ],
 [
 "Ouachita Rock Pocketbook",
-12
-],
+12,
 [
 "Wheeler's pearly mussel",
-12
-],
-[
-"Wheeler's Pearly Mussel",
-12
+"Wheeler's Pearly Mussel"
+]
 ],
 [
 "Striped Pyjama Squid",
-12
+12,
+[]
 ],
 [
 "Golden Cuttlefish",
-12
+12,
+[]
 ],
 [
 "Mouse Cone",
-12
+12,
+[]
 ],
 [
 "Stout Bobtail Squid",
-12
+12,
+[]
 ],
 [
 "Spineless Cuttlefish",
-12
+12,
+[]
 ],
 [
 "Round-mouthed Whorl Snail",
-12
+12,
+[]
 ],
 [
 "Partula snail",
-12
+12,
+[
+"Polynesian Tree Snail"
+]
 ],
 [
 "Brook Floater",
-12
+12,
+[]
 ],
 [
 "Dromedary Naiad",
-12
-],
+12,
 [
 "Dromedary pearly mussel",
-12
-],
-[
-"Dromedary Pearly Mussel",
-12
+"Dromedary Pearly Mussel"
+]
 ],
 [
 "Cahaba Elimia",
-12
+12,
+[]
 ],
 [
 "Lapidary Snail",
-12
+12,
+[]
 ],
 [
 "Twisted Ram's-horn",
-12
+12,
+[]
 ],
 [
 "pfeifers amber snail",
-12
+12,
+[]
 ],
 [
 "Glutinous snail",
-12
-],
+12,
 [
-"Glutinous Snail",
-12
+"Glutinous Snail"
+]
 ],
 [
 "Boring Clam",
-12
-],
+12,
 [
 "Crocus Clam",
-12
-],
-[
-"Saffron-coloured Clam",
-12
+"Saffron-coloured Clam"
+]
 ],
 [
 "Naked Sea Butterflies",
-11
+11,
+[]
 ],
 [
 "Characteristic Cone",
-11
+11,
+[]
 ],
 [
 "Cancellate Cone",
-11
+11,
+[]
 ],
 [
 "Rawai cone snail",
-11
+11,
+[]
 ],
 [
 "Golden-Yellow Cone",
-11
-],
+11,
 [
-"Yellow Pacific cone",
-11
+"Yellow Pacific cone"
+]
 ],
 [
 "Feathered Cone",
-11
+11,
+[]
 ],
 [
 "Agate Cone",
-11
+11,
+[]
 ],
 [
 "false limpets",
-11
+11,
+[]
 ],
 [
 "Polynesian tree snail",
-11
+11,
+[
+"Polynesian Tree Snail"
+]
 ],
 [
 "Bengal Cone",
-11
-],
+11,
 [
-"Glory of Bengal",
-11
+"Glory of Bengal"
+]
 ],
 [
 "Noble Cone",
-11
+11,
+[]
 ],
 [
 "Flame Cone",
-11
+11,
+[]
 ],
 [
 "Pat's Cone",
-11
+11,
+[]
 ],
 [
 "Japanese Spineless Cuttlefish",
-11
+11,
+[]
 ],
 [
 "Pink Cuttlefish",
-11
+11,
+[]
 ],
 [
 "Fat Guam partula",
-11
-],
+11,
 [
 "Fat Guam Partula",
-11
-],
-[
-"Tree Snail",
-11
+"Tree Snail"
+]
 ],
 [
 "Patchwork Cuttlefish",
-11
+11,
+[]
 ],
 [
 "Lentil Bobtail Squid",
-11
+11,
+[]
 ],
 [
 "Deepsea Squid",
-11
+11,
+[]
 ],
 [
 "Corsican Snail",
-11
+11,
+[]
 ],
 [
 "New Zealand giant landsnails",
-11
+11,
+[]
 ],
 [
 "Black Squid",
-11
-],
+11,
 [
-"Violet Squid",
-11
+"Violet Squid"
+]
 ],
 [
 "Banded wedge shell",
-11
+11,
+[]
 ],
 [
 "Oblong Rocksnail",
-11
+11,
+[]
 ],
 [
 "Three-tooth Cavoline",
-11
+11,
+[]
 ],
 [
 "Coosa Moccasinshell",
-11
+11,
+[]
 ],
 [
 "Ochlockonee Moccasinshell",
-11
+11,
+[]
 ],
 [
 "Fanshell",
-11
+11,
+[]
 ],
 [
 "Fan mussel",
-11
+11,
+[]
 ],
 [
 "Cumberland Monkeyface",
-11
-],
+11,
 [
-"Cumberland Monkey-face Pearly Mussel",
-11
+"Cumberland Monkey-face Pearly Mussel"
+]
 ],
 [
 "Amastrid land snail",
-11
+11,
+[]
 ],
 [
 "Carolina Elktoe",
-11
+11,
+[]
 ],
 [
 "Altamaha arcmussel",
-11
-],
+11,
 [
 "Altamaha Arcmussel",
-11
-],
-[
-"Altamaha Arc-Mussel",
-11
+"Altamaha Arc-Mussel"
+]
 ],
 [
 "Elktoe",
-11
+11,
+[]
 ],
 [
 "Granulated Snail",
-11
+11,
+[]
 ],
 [
 "Oyster mussel",
-11
-],
+11,
 [
-"Oyster Mussel",
-11
+"Oyster Mussel"
+]
 ],
 [
 "Franklin Mountain Woodland Snail",
-11
+11,
+[]
 ],
 [
 "Rocky Mountain capshell",
-11
-],
+11,
 [
-"Rocky Mountain Capshell",
-11
+"Rocky Mountain Capshell"
+]
 ],
 [
 "Tight Coin",
-11
+11,
+[]
 ],
 [
 "Mossy Elimia",
-11
+11,
+[]
 ],
 [
 "Shiny Pigtoe",
-11
+11,
+[]
 ],
 [
 "Pink mucket",
-11
-],
+11,
 [
-"Pink Mucket",
-11
+"Pink Mucket"
+]
 ],
 [
 "Painted Snake-coiled Forest Snail",
-11
+11,
+[]
 ],
 [
 "Pecos Assiminea",
-11
+11,
+[]
 ],
 [
 "Minimal armhook squid",
-11
+11,
+[]
 ],
 [
 "Lesser Bulin",
-11
+11,
+[]
 ],
 [
 "Golden mussel",
-11
+11,
+[]
 ],
 [
 "Karst snail of Torna",
-11
+11,
+[]
 ],
 [
 "Prickly Pear Island Snail",
-11
-],
+11,
 [
-"Prickly Pear Snail",
-11
+"Prickly Pear Snail"
+]
 ],
 [
 "Hooded sea slug",
-11
+11,
+[]
 ],
 [
 "sea hares",
-11
+11,
+[]
 ],
 [
 "Chinese Mystery Snail",
-11
+11,
+[]
 ],
 [
 "Shining ram's-horn snail",
-10
+10,
+[]
 ],
 [
 "Cumberland Bean",
-10
-],
+10,
 [
 "Cumberland bean pearly mussel",
-10
-],
-[
 "Cumberland Bean Pearly Mussel",
-10
-],
-[
-"Purple Bean",
-10
+"Purple Bean"
+]
 ],
 [
 "Giant spider conch",
-10
+10,
+[]
 ],
 [
 "Electric Flame Scallop",
-10
+10,
+[]
 ],
 [
 "Snow-Flaked Cone",
-10
+10,
+[]
 ],
 [
 "Frigid Cone",
-10
+10,
+[]
 ],
 [
 "Engraved Cone",
-10
-],
+10,
 [
-"Tiled Cone",
-10
+"Tiled Cone"
+]
 ],
 [
 "False elephant's foot",
-10
+10,
+[]
 ],
 [
 "Cylindrical Cone",
-10
+10,
+[]
 ],
 [
 "Cardinal Cone",
-10
+10,
+[]
 ],
 [
 "Patagonian longfin squid",
-10
-],
+10,
 [
 "Patagonian Longfin Squid",
-10
-],
-[
 "Patagonian squid",
-10
-],
-[
-"Patagonian Squid",
-10
+"Patagonian Squid"
+]
 ],
 [
 "Pahranagat Pebblesnail",
-10
-],
+10,
 [
-"Pahranagat Valley Turban Snail",
-10
-],
-[
-"Horned Murex",
-10
-],
-[
-"Heath Snail",
-10
-],
-[
-"Slender Cone",
-10
-],
-[
-"Moorean Viviparious Tree Snail",
-10
-],
-[
-"Moorean viviparous tree snail",
-10
-],
-[
-"Round Rocksnail",
-10
-],
-[
-"Common Bobtail",
-10
-],
-[
-"Common Bobtail Squid",
-10
-],
-[
-"Moorean Viviparous Tree Snail",
-10
-],
-[
-"Radiolate partula",
-10
-],
-[
-"Radiolate Partula",
-10
-],
-[
-"Kisslip Cuttlefish",
-10
-],
-[
-"Two-toned Pygmy Squid",
-10
-],
-[
-"Yellow Lampmussel",
-10
-],
-[
-"Alabama Moccasinshell",
-10
-],
-[
-"Purple Bankclimber",
-10
-],
-[
-"Tar river spiny mussel",
-10
-],
-[
-"Tar River Spinymussel",
-10
-],
-[
-"Tar River Spiny Mussel",
-10
-],
-[
-"Ochlockonee Arcmussel",
-10
-],
-[
-"Geniculate River Snail",
-10
-],
-[
-"Ornate Rocksnail",
-10
-],
-[
-"Blue Spring Aphaostracon",
-10
-],
-[
-"Blue Spring Hydrobe",
-10
-],
-[
-"Armigerous River Snail",
-10
-],
-[
-"Armored Rocksnail",
-10
-],
-[
-"Coosa Elktoe",
-10
-],
-[
-"White desert snail",
-10
-],
-[
-"White Desert Snail",
-10
-],
-[
-"Fine-rayed pigtoe",
-10
-],
-[
-"Fine-rayed Pigtoe",
-10
-],
-[
-"Finerayed Pigtoe",
-10
-],
-[
-"Finerayed Pigtoe Pearlymussel",
-10
-],
-[
-"Fine-rayed Pigtoe Pearly Mussel",
-10
-],
-[
-"Cumberland Land Snail",
-10
-],
-[
-"Varicose Rocksnail",
-10
-],
-[
-"Verrucose File Snail",
-10
-],
-[
-"Edible Naiad",
-10
-],
-[
-"Edible Pearly Mussel",
-10
-],
-[
-"Western Fan-shell",
-10
-],
-[
-"Western Fanshell",
-10
-],
-[
-"Western Fanshell Mussel",
-10
-],
-[
-"Moapa Pebblesnail",
-10
-],
-[
-"Muddy Valley Turban Snail",
-10
-],
-[
-"Columbia Pebblesnail",
-10
-],
-[
-"Caper Elimia",
-10
-],
-[
-"Barrington Tops Bristle Snail",
-10
-],
-[
-"Elegant Elimia",
-10
-],
-[
-"Mainstream River Snail",
-10
-],
-[
-"Onyx Rocksnail",
-10
-],
-[
-"Coldwater Elimia",
-10
-],
-[
-"Santa Barbara Shelled Slug",
-10
-],
-[
-"Slug Snail",
-10
-],
-[
-"Lilyshoals Elimia",
-10
-],
-[
-"Lily Shoals Elimia",
-10
+"Pahranagat Valley Turban Snail"
+]
 ],
 [
 "Madeiran land snail",
-10
+10,
+[]
+],
+[
+"Horned Murex",
+10,
+[]
+],
+[
+"Heath Snail",
+10,
+[]
+],
+[
+"Slender Cone",
+10,
+[]
+],
+[
+"Moorean Viviparious Tree Snail",
+10,
+[
+"Moorean viviparous tree snail",
+"Polynesian Tree Snail"
+]
+],
+[
+"Common Bobtail",
+10,
+[
+"Common Bobtail Squid"
+]
+],
+[
+"Moorean viviparous tree snail",
+10,
+[
+"Moorean Viviparous Tree Snail",
+"Polynesian Tree Snail",
+"Sutural Partula"
+]
+],
+[
+"Radiolate partula",
+10,
+[
+"Radiolate Partula",
+"Tree Snail"
+]
+],
+[
+"Kisslip Cuttlefish",
+10,
+[]
+],
+[
+"Two-toned Pygmy Squid",
+10,
+[]
+],
+[
+"Yellow Lampmussel",
+10,
+[]
+],
+[
+"Alabama Moccasinshell",
+10,
+[]
+],
+[
+"Purple Bankclimber",
+10,
+[]
+],
+[
+"Tar river spiny mussel",
+10,
+[
+"Tar River Spinymussel",
+"Tar River Spiny Mussel"
+]
+],
+[
+"Ochlockonee Arcmussel",
+10,
+[]
+],
+[
+"Geniculate River Snail",
+10,
+[
+"Ornate Rocksnail"
+]
+],
+[
+"Blue Spring Aphaostracon",
+10,
+[
+"Blue Spring Hydrobe"
+]
+],
+[
+"Armigerous River Snail",
+10,
+[
+"Armored Rocksnail"
+]
+],
+[
+"Coosa Elktoe",
+10,
+[]
+],
+[
+"White desert snail",
+10,
+[
+"White Desert Snail"
+]
+],
+[
+"Fine-rayed pigtoe",
+10,
+[
+"Fine-rayed Pigtoe",
+"Finerayed Pigtoe",
+"Finerayed Pigtoe Pearlymussel",
+"Fine-rayed Pigtoe Pearly Mussel"
+]
+],
+[
+"Cumberland Land Snail",
+10,
+[]
+],
+[
+"Varicose Rocksnail",
+10,
+[
+"Verrucose File Snail"
+]
+],
+[
+"Edible Naiad",
+10,
+[
+"Edible Pearly Mussel",
+"Western Fan-shell",
+"Western Fanshell",
+"Western Fanshell Mussel"
+]
+],
+[
+"Moapa Pebblesnail",
+10,
+[
+"Muddy Valley Turban Snail"
+]
+],
+[
+"Columbia Pebblesnail",
+10,
+[]
+],
+[
+"Caper Elimia",
+10,
+[]
+],
+[
+"Barrington Tops Bristle Snail",
+10,
+[]
+],
+[
+"Elegant Elimia",
+10,
+[]
+],
+[
+"Mainstream River Snail",
+10,
+[
+"Onyx Rocksnail"
+]
+],
+[
+"Coldwater Elimia",
+10,
+[]
+],
+[
+"Santa Barbara Shelled Slug",
+10,
+[
+"Slug Snail"
+]
+],
+[
+"Lilyshoals Elimia",
+10,
+[
+"Lily Shoals Elimia"
+]
 ],
 [
 "Excised slitshell",
-10
+10,
+[]
 ],
 [
 "Fine-lined pocketbook",
-10
-],
+10,
 [
 "Fine-lined Pocketbook",
-10
-],
-[
-"Finelined Pocketbook",
-10
+"Finelined Pocketbook"
+]
 ],
 [
 "pheasantshell",
-10
+10,
+[]
 ],
 [
 "Shoal Sprite",
-10
+10,
+[]
 ],
 [
 "Cumberlandian combshell",
-10
-],
+10,
 [
-"Cumberlandian Combshell",
-10
+"Cumberlandian Combshell"
+]
 ],
 [
 "Tulotoma",
-10
+10,
+[]
 ],
 [
 "Foreman's High-spired Riversnail",
-10
-],
+10,
 [
 "Rough hornsnail",
-10
-],
-[
-"Rough Hornsnail",
-10
+"Rough Hornsnail"
+]
 ],
 [
 "Florida Applesnail",
-10
+10,
+[]
+],
+[
+"Round Rocksnail",
+10,
+[]
 ],
 [
 "Dun Sentinel",
-10
+10,
+[]
 ],
 [
 "Flat Ram's Horn Sail",
-10
+10,
+[]
 ],
 [
 "Dwarf Wedgemussel",
-10
-],
+10,
 [
-"Dwarf Wedge Mussel",
-10
+"Dwarf Wedge Mussel"
+]
 ],
 [
 "Brazilian land snail",
-10
+10,
+[]
 ],
 [
 "blackfoot pāua",
-10
-],
+10,
 [
-"rainbow abalone",
-10
+"rainbow abalone"
+]
 ],
 [
 "False Virgin Cone",
-10
+10,
+[]
 ],
 [
 "Green Floater",
-10
+10,
+[]
 ],
 [
 "Sutured Cone",
-10
+10,
+[]
 ],
 [
 "Fat pocketbook",
-9
-],
+9,
 [
 "Fat Pocketbook",
-9
-],
-[
-"Fat Pocketbook Pearly Mussel",
-9
+"Fat Pocketbook Pearly Mussel"
+]
 ],
 [
 "White Wartyback",
-9
-],
+9,
 [
-"White Warty-back Pearly Mussel",
-9
+"White Warty-back Pearly Mussel"
+]
 ],
 [
 "Club Naiad",
-9
-],
+9,
 [
 "Clubshell",
-9
-],
-[
 "Clubshell pearly mussel",
-9
-],
-[
-"Clubshell Pearly Mussel",
-9
+"Clubshell Pearly Mussel"
+]
 ],
 [
 "Orange-footed Pimpleback Mussel",
-9
-],
+9,
 [
 "Orangefoot pimpleback",
-9
-],
-[
-"Orangefoot Pimpleback",
-9
+"Orangefoot Pimpleback"
+]
 ],
 [
 "Humpbacked conch",
-9
+9,
+[]
 ],
 [
 "Fingerprint cowry",
-9
-],
+9,
 [
-"fingerprint cyphoma",
-9
+"fingerprint cyphoma"
+]
 ],
 [
 "Lightning whelk",
-9
+9,
+[]
 ],
 [
 "Granger’s Cone",
-9
+9,
+[]
 ],
 [
 "Hieroglyphic Cone",
-9
+9,
+[]
 ],
 [
 "Ringed Cone",
-9
+9,
+[]
 ],
 [
 "Vic Wee’s Cone",
-9
+9,
+[]
 ],
 [
 "Necklace Cone",
-9
+9,
+[]
 ],
 [
 "Florida Cone",
-9
+9,
+[]
 ],
 [
 "Jickeli’s Cone",
-9
+9,
+[]
 ],
 [
 "West Indian Murex",
-9
+9,
+[]
 ],
 [
 "Opalescent Inshore Squid",
-9
+9,
+[]
 ],
 [
 "chrysalis snail",
-9
+9,
+[]
+],
+[
+"Polynesian Tree Snail",
+9,
+[]
 ],
 [
 "Golden Cone",
-9
+9,
+[]
 ],
 [
 "Clery's Cone",
-9
+9,
+[]
 ],
 [
 "Stigmatic Cone",
-9
+9,
+[]
 ],
 [
 "Matchless Cone",
-9
+9,
+[]
 ],
 [
 "Smoky Cone",
-9
+9,
+[]
 ],
 [
 "Richard's Cone",
-9
+9,
+[]
 ],
 [
 "Hyena Cone",
-9
+9,
+[]
 ],
 [
 "Neptune Cone",
-9
+9,
+[]
 ],
 [
 "Bermuda Cone",
-9
+9,
+[]
 ],
 [
 "Pacific Bobtail Squid",
-9
+9,
+[]
 ],
 [
 "Odd Bobtail Squid",
-9
+9,
+[]
 ],
 [
 "Needle Cuttlefish",
-9
+9,
+[]
 ],
 [
 "Mud Elimia",
-9
+9,
+[]
 ],
 [
 "Hooded Cuttlefish",
-9
+9,
+[]
 ],
 [
 "Mottled Treesnail",
-9
+9,
+[]
 ],
 [
 "Southern reef squid",
-9
+9,
+[]
 ],
 [
 "Amphiurgus Cone",
-9
-],
-[
-"Sutural Partula",
-9
+9,
+[]
 ],
 [
 "Carol Bobtail Squid",
-9
+9,
+[]
 ],
 [
 "Comb-finned Squid",
-9
-],
+9,
 [
-"Toothed-fin Squid",
-9
+"Toothed-fin Squid"
+]
 ],
 [
 "Hélice Sylvatique",
-9
+9,
+[]
 ],
 [
 "Longsolid",
-9
-],
+9,
 [
 "Long Solid Mussel",
-9
-],
-[
 "Longsolid Naiad",
-9
-],
-[
-"Long Solid Naiad",
-9
+"Long Solid Naiad"
+]
 ],
 [
 "Turgid-blossom",
-9
-],
+9,
 [
 "Turgid-blossom Naiad",
-9
-],
-[
 "Turgid-blossom Pearly Mussel",
-9
-],
-[
-"Turgid Riffle Shell",
-9
+"Turgid Riffle Shell"
+]
 ],
 [
 "Alabama lampmussel",
-9
-],
+9,
 [
 "Alabama Lamp Naiad",
-9
-],
-[
-"Alabama Lamp Pearly Mussel",
-9
+"Alabama Lamp Pearly Mussel"
+]
 ],
 [
 "Sampson's Naiad",
-9
-],
+9,
 [
 "Sampson's Pearly Mussel",
-9
-],
-[
 "Sampson's Riffleshell",
-9
+"Wabash Riffleshell"
+]
 ],
 [
-"Wabash Riffleshell",
-9
+"Purple Bean",
+9,
+[]
 ],
 [
 "Higgins' eye pearly mussel",
-9
-],
+9,
 [
-"Higgins' Eye Pearly Mussel",
-9
+"Higgins' Eye Pearly Mussel"
+]
 ],
 [
 "Sheepnose",
-9
+9,
+[]
 ],
 [
 "Narrow pigtoe",
-9
-],
+9,
 [
-"Narrow Pigtoe",
-9
+"Narrow Pigtoe"
+]
 ],
 [
 "Rough Maple Leaf Pearly Mussel",
-9
-],
+9,
 [
-"Winged Mapleleaf",
-9
+"Winged Mapleleaf"
+]
 ],
 [
 "Suwannee Moccasinshell",
-9
+9,
+[]
 ],
 [
 "Gulf Moccasinshell",
-9
+9,
+[]
 ],
 [
 "Birdwing pearlymussel",
-9
-],
+9,
 [
-"Birdwing Pearlymussel",
-9
+"Birdwing Pearlymussel"
+]
 ],
 [
 "Carolina Lance",
-9
+9,
+[]
 ],
 [
 "Atlantic Pigtoe",
-9
+9,
+[]
 ],
 [
 "Arc-form Pearly Mussel",
-9
-],
+9,
 [
-"Sugarspoon",
-9
+"Sugarspoon"
+]
 ],
 [
 "Black Sandshell",
-9
+9,
+[]
 ],
 [
 "Carolina heelsplitter",
-9
-],
+9,
 [
-"Carolina Heelsplitter",
-9
+"Carolina Heelsplitter"
+]
 ],
 [
 "Conrad's False Mussel",
-9
-],
+9,
 [
-"Dark False Mussel",
-9
+"Dark False Mussel"
+]
 ],
 [
 "Catalina Mountain Snail",
-9
+9,
+[]
 ],
 [
 "Rayed Creekshell",
-9
+9,
+[]
 ],
 [
 "Coal Elimia",
-9
+9,
+[]
 ],
 [
 "Hacking River Forest Snail",
-9
+9,
+[]
 ],
 [
 "Bicolor cactus snail",
-9
-],
+9,
 [
-"Bicolor Cactus Snail",
-9
+"Bicolor Cactus Snail"
+]
 ],
 [
 "Jay's River Snail",
-9
-],
+9,
 [
-"Rugose Rocksnail",
-9
+"Rugose Rocksnail"
+]
 ],
 [
 "Banded Dune Snail",
-9
-],
+9,
 [
 "Morro shoulderband",
-9
-],
-[
-"Morro Shoulderband",
-9
+"Morro Shoulderband"
+]
 ],
 [
 "Wekiwa Hydrobe",
-9
-],
+9,
 [
-"Wekiwa Springs Aphaostracon",
-9
+"Wekiwa Springs Aphaostracon"
+]
 ],
 [
 "Midas Ear Cassidula",
-9
+9,
+[]
 ],
 [
 "Ash Gyro",
-9
+9,
+[]
 ],
 [
 "Lava Rock Mountain Snail",
-9
-],
+9,
 [
-"Walton's Banded Mountain Snail",
-9
+"Walton's Banded Mountain Snail"
+]
 ],
 [
 "Little Flat-top Snail",
-9
+9,
+[]
 ],
 [
 "Mission Creek Oregonian",
-9
+9,
+[]
 ],
 [
 "Morongo Desert Snail",
-9
+9,
+[]
 ],
 [
 "Gabb's Snail",
-9
-],
+9,
 [
-"San Clemente Island Snail",
-9
+"San Clemente Island Snail"
+]
 ],
 [
 "Elk River File Snail",
-9
-],
+9,
 [
-"Warty Rocksnail",
-9
+"Warty Rocksnail"
+]
 ],
 [
 "Nymph Elimia",
-9
+9,
+[]
 ],
 [
 "Spring Elimia",
-9
+9,
+[]
 ],
 [
 "Anthony's Riversnail",
-9
-],
+9,
 [
-"Anthony's River Snail",
-9
+"Anthony's River Snail"
+]
 ],
 [
 "Slender Campeloma",
-9
+9,
+[]
 ],
 [
 "Squat Elimia",
-9
+9,
+[]
 ],
 [
 "Pagoda Slitshell",
-9
+9,
+[]
 ],
 [
 "Pyramid Slitshell",
-9
+9,
+[]
 ],
 [
 "Cahaba Pebblesnail",
-9
+9,
+[]
 ],
 [
 "Smooth Rocksnail",
-9
+9,
+[]
 ],
 [
 "Acute Elimia",
-9
+9,
+[]
 ],
 [
 "Spotted Rocksnail",
-9
+9,
+[]
 ],
 [
 "Brother Spike",
-9
+9,
+[]
 ],
 [
 "Altamaha Slabshell",
-9
+9,
+[]
 ],
 [
 "Scaleshell",
-9
-],
+9,
 [
-"Scale Shell",
-9
+"Scale Shell"
+]
 ],
 [
 "Rock snail",
-9
-],
+9,
 [
-"Rock Snail",
-9
+"Rock Snail"
+]
 ],
 [
 "Black abalone",
-9
-],
+9,
 [
-"Black Abalone",
-9
+"Black Abalone"
+]
 ],
 [
 "Mimka Bobtail Squid",
-9
+9,
+[]
 ],
 [
 "Plicate Rocksnail",
-9
+9,
+[]
 ],
 [
 "Umbilicate Pebblesnail",
-9
+9,
+[]
 ],
 [
 "Golden pebblesnail",
-9
+9,
+[]
 ],
 [
 "Tennessee Pebblesnail",
-9
+9,
+[]
 ],
 [
 "Cylindrical Lioplax",
-9
+9,
+[]
 ],
 [
 "Bliss Rapid Snail",
-9
-],
+9,
 [
 "Bliss Rapids snail",
-9
-],
-[
-"Bliss Rapids Snail",
-9
+"Bliss Rapids Snail"
+]
 ],
 [
 "Northern abalone",
-9
-],
+9,
 [
 "Northern Abalone",
-9
-],
-[
-"Pinto Abalone",
-9
+"Pinto Abalone"
+]
 ],
 [
 "Smooth Ram’s Horn Snail",
-9
+9,
+[]
 ],
 [
 "Northern Pygmy Squid",
-9
+9,
+[]
 ],
 [
 "Large Mouthed Valve Snail",
-9
+9,
+[]
 ],
 [
 "Oahu treesnail",
-9
+9,
+[]
 ],
 [
 "Boreal Top",
-9
-],
+9,
 [
-"Boreal Top Snail",
-9
+"Boreal Top Snail"
+]
 ],
 [
 "Short Samoan Tree Snail",
-9
+9,
+[]
 ],
 [
 "Gila Tryonia",
-9
+9,
+[]
 ],
 [
 "Tennessee Heelsplitter",
-9
+9,
+[]
 ],
 [
 "Golf Stick Pearly Mussel",
-9
-],
+9,
 [
-"Ring Pink",
-9
+"Ring Pink"
+]
 ],
 [
 "Black Nerite",
-9
+9,
+[]
 ],
 [
 "Rough Pigtoe",
-8
-],
+8,
 [
 "Rough pigtoe pearly mussel",
-8
-],
-[
-"Rough Pigtoe Pearly Mussel",
-8
+"Rough Pigtoe Pearly Mussel"
+]
 ],
 [
 "Yoka Star Turban",
-8
+8,
+[]
 ],
 [
 "Rockhampton Banded Snail",
-8
+8,
+[]
 ],
 [
 "Sting Ray Cone",
-8
-],
+8,
 [
-"Triangular Cone",
-8
+"Triangular Cone"
+]
 ],
 [
 "Rosemary's Cone",
-8
+8,
+[]
 ],
 [
 "Dollfus's octopus",
-8
+8,
+[]
 ],
 [
 "Poison ocellate octopus",
-8
-],
-[
-"Mace Cone",
-8
-],
-[
-"Brian Haye's Cone",
-8
-],
-[
-"Cuming's Cone",
-8
-],
-[
-"Red Sea Cone",
-8
-],
-[
-"Garcia's Cone",
-8
-],
-[
-"Abbott's Cone",
-8
-],
-[
-"Honker's Cone",
-8
-],
-[
-"Kulkulcan Cone",
-8
-],
-[
-"Paula's Cone",
-8
-],
-[
-"Clay Cone",
-8
-],
-[
-"Toheroa",
-8
-],
-[
-"bloodfluke planorb",
-8
-],
-[
-"Kobi Cuttlefish",
-8
-],
-[
-"African Cuttlefish",
-8
-],
-[
-"Ornate Cuttlefish",
-8
-],
-[
-"Japanese Bobtail Squid",
-8
-],
-[
-"Big-eyed Bobtail Squid",
-8
-],
-[
-"Banded Piglet Squid",
-8
-],
-[
-"Spider Cuttlefish",
-8
-],
-[
-"Atlantic oyster drill",
-8
-],
-[
-"Leucoptera Bobtail Squid",
-8
-],
-[
-"Socorro Snail",
-8
-],
-[
-"Ozark pyrg",
-8
-],
-[
-"Marsh Rams-horn",
-8
-],
-[
-"Marsh Ramshorn",
-8
-],
-[
-"Ash Meadows Pebblesnail",
-8
-],
-[
-"Southern Pocketbook",
-8
-],
-[
-"Texas hornshell",
-8
-],
-[
-"Butterfly bobtail squid",
-8
-],
-[
-"Lined Pocketbook",
-8
-],
-[
-"Penitent Mussel",
-8
-],
-[
-"Southern Combshell",
-8
-],
-[
-"Cumberland Leafshell",
-8
-],
-[
-"Steward's Pearly Mussel",
-8
-],
-[
-"Pod Lance",
-8
-],
-[
-"Little Winged Pearly Mussel",
-8
-],
-[
-"Littlewing Pearlymussel",
-8
-],
-[
-"Tan Riffle Shell",
-8
-],
-[
-"Amethyst gem clam",
-8
-],
-[
-"Boreal Astarte",
-8
-],
-[
-"Hickorynut",
-8
-],
-[
-"Recovery Pearly Mussel",
-8
-],
-[
-"Winged Spike",
-8
-],
-[
-"Altamaha Spinymussel",
-8
-],
-[
-"Georgia Spinymussel",
-8
-],
-[
-"Georgia Spiny Mussel",
-8
-],
-[
-"Fuzzy Pigtoe",
-8
-],
-[
-"Spectaclecase",
-8
-],
-[
-"Spectacle Case",
-8
-],
-[
-"Spectacle Case Pearly Mussel",
-8
-],
-[
-"Alabama Pearlshell",
-8
-],
-[
-"Alabama Pearl Shell",
-8
-],
-[
-"Elliptical File-Shell",
-8
-],
-[
-"Small-ear fileclam",
-8
-],
-[
-"Small-ear Fileclam",
-8
-],
-[
-"Kidneyshell",
-8
-],
-[
-"Southern clubshell",
-8
-],
-[
-"Texas Heelsplitter",
-8
-],
-[
-"Nearby Pearlymussel",
-8
-],
-[
-"Nearby Pearly Mussel",
-8
-],
-[
-"Tennessee Riffleshell",
-8
-],
-[
-"Southern Hickorynut",
-8
-],
-[
-"Cumberland Elktoe",
-8
-],
-[
-"Altamaha Lance",
-8
-],
-[
-"Altamaha pocketbook",
-8
-],
-[
-"Texas Pigtoe",
-8
-],
-[
-"Purple wartyback",
-8
-],
-[
-"Speckled Pocketbook",
-8
-],
-[
-"Ridged Mapleleaf",
-8
-],
-[
-"Louisiana Pearlshell",
-8
-],
-[
-"Wrinkled Snail",
-8
-],
-[
-"Wreathed Cactus Snail",
-8
-],
-[
-"Cave Physa",
-8
-],
-[
-"Plain Cactus Snail",
-8
-],
-[
-"Domed Ancylid",
-8
-],
-[
-"Boulder Pile Mountain Snail",
-8
-],
-[
-"Dutton's River Snail",
-8
-],
-[
-"Helmet Rocksnail",
-8
-],
-[
-"Walnut Elimia",
-8
-],
-[
-"Magnificent Ramshorn",
-8
-],
-[
-"Concentrated Snail",
-8
-],
-[
-"Santa Barbara Island Snail",
-8
-],
-[
-"Mount Dryander Scaly Snail",
-8
-],
-[
-"Silt Elimia",
-8
-],
-[
-"Fraternal Snail",
-8
-],
-[
-"San Nicolas Island Snail",
-8
-],
-[
-"Wet Rock Physa",
-8
-],
-[
-"Marbled Disc",
-8
-],
-[
-"Carinate Flat-top Snail",
-8
-],
-[
-"Kern Shoulderband",
-8
-],
-[
-"Vortex Banded Mountain Snail",
-8
-],
-[
-"Whorled Mountain Snail",
-8
-],
-[
-"Banded Elimia",
-8
-],
-[
-"Muddy Rocksnail",
-8
-],
-[
-"Rugged River Snail",
-8
-],
-[
-"Knobby Rocksnail",
-8
-],
-[
-"Cape Leeuwin Snail",
-8
-],
-[
-"Leeuwin-naturaliste Amphibious Snail",
-8
-],
-[
-"Slowwater Elimia",
-8
-],
-[
-"Australian Freshwater Limpet",
-8
-],
-[
-"Tasmanian Freshwater 'Limpet'",
-8
-],
-[
-"Short-spired Elimia",
-8
-],
-[
-"Short Spire Elimia",
-8
-],
-[
-"Cobble elimia",
-8
-],
-[
-"Cobble Elimia",
-8
-],
-[
-"Constricted Elimia",
-8
-],
-[
-"Maiden Rocksnail",
-8
-],
-[
-"Closed Elimia",
-8
-],
-[
-"Tapered Cavesnail",
-8
-],
-[
-"Agate Rocksnail",
-8
-],
-[
-"Greenbrier Cavesnail",
-8
-],
-[
-"Striate Slitshell",
-8
-],
-[
-"Brook Elimia",
-8
-],
-[
-"Bigmouth Rocksnail",
-8
-],
-[
-"Ribbed Slitshell",
-8
-],
-[
-"North Pine River freshwater snail",
-8
-],
-[
-"North Pine River Freshwater Snail",
-8
-],
-[
-"Pupa Elimia",
-8
-],
-[
-"Rough-lined Elimia",
-8
-],
-[
-"Pygmy Elimia",
-8
-],
-[
-"Tidewater Mucket",
-8
-],
-[
-"Acorn Pearly Mussel",
-8
-],
-[
-"Acornshell",
-8
-],
-[
-"Satilla Elephantear",
-8
-],
-[
-"Yellow Lance",
-8
-],
-[
-"Round Slitshell",
-8
-],
-[
-"Arcuate Pearly Mussel",
-8
-],
-[
-"Leafshell",
-8
-],
-[
-"Hood Ancylid",
-8
-],
-[
-"Northern Admete",
-8
-],
-[
-"Sculpin snail",
-8
-],
-[
-"Sculpin Snail",
-8
-],
-[
-"Oasis Valley Springsnail",
-8
-],
-[
-"Tumbling Creek Cavesnail",
-8
-],
-[
-"Ovate Pebblesnail",
-8
-],
-[
-"Corded purg",
-8
-],
-[
-"Corded Pyrg",
-8
-],
-[
-"Maze's Cone",
-8
-],
-[
-"Point of Rocks Tryonia",
-8
-],
-[
-"Ringed hornsnail",
-8
-],
-[
-"Ringed Hornsnail",
-8
-],
-[
-"Atlas Pebblesnail",
-8
-],
-[
-"Telescope Hornsnail",
-8
-],
-[
-"Rugged Hornsnail",
-8
-],
-[
-"Oachita Pebblesnail",
-8
-],
-[
-"Painted Rocksnail",
-8
-],
-[
-"Lacy Elimia",
-8
-],
-[
-"Jackson Lake Springsnail",
-8
-],
-[
-"Corpulent Hornsnail",
-8
-],
-[
-"Stout Riversnail",
-8
-],
-[
-"Roswell Springsnail",
-8
-],
-[
-"Shortspire hornsnail",
-8
-],
-[
-"Shortspire Hornsnail",
-8
-],
-[
-"Kingman Springsnail",
-8
-],
-[
-"Upland Hornsnail",
-8
-],
-[
-"Mimic Cavesnail",
-8
-],
-[
-"Sportingoods Tryonia",
-8
-],
-[
-"Knotty Pebblesnail",
-8
-],
-[
-"South Sierra Nevada Springsnail",
-8
-],
-[
-"Bruneau Hot Springsnail",
-8
-],
-[
-"Page Sprlngsnail",
-8
-],
-[
-"Emerald Valvata",
-8
-],
-[
-"Montezuma Well Springsnail",
-8
-],
-[
-"Rolling Pebblesnail",
-8
-],
-[
-"Savannah Pebblesnail",
-8
-],
-[
-"Moon Pebblesnail",
-8
-],
-[
-"Horn Shell",
-8
-],
-[
-"Plicate Horn Snail",
-8
-],
-[
-"Angular Pebblesnail",
-8
-],
-[
-"Royal springsnail",
-8
-],
-[
-"Grand Wash Springsnail",
-8
-],
-[
-"Cheatum's Snail",
-8
-],
-[
-"Phantom Tryonia",
-8
-],
-[
-"Coosa Rocksnail",
-8
-],
-[
-"Panhandle Pebblesnail",
-8
-],
-[
-"Sandal-eye Squid",
-8
-],
-[
-"Eelgrass Limpet",
-8
-],
-[
-"Mud Snail",
-8
-],
-[
-"Crystal Spring Springsnail",
-8
-],
-[
-"Umbilicate Flat-top Snail",
-8
-],
-[
-"crimorans",
-8
-],
-[
-"Judas Ear Cassidula",
-8
-],
-[
-"Triangle Floater",
-8
-],
-[
-"Striped Nerite",
-8
+8,
+[]
 ],
 [
 "Madeiran Land Snail",
-8
+8,
+[]
+],
+[
+"Mace Cone",
+8,
+[]
+],
+[
+"Brian Haye's Cone",
+8,
+[]
+],
+[
+"Cuming's Cone",
+8,
+[]
+],
+[
+"Red Sea Cone",
+8,
+[]
+],
+[
+"Garcia's Cone",
+8,
+[]
+],
+[
+"Abbott's Cone",
+8,
+[]
+],
+[
+"Honker's Cone",
+8,
+[]
+],
+[
+"Kulkulcan Cone",
+8,
+[]
+],
+[
+"Paula's Cone",
+8,
+[]
+],
+[
+"Clay Cone",
+8,
+[]
+],
+[
+"Toheroa",
+8,
+[]
+],
+[
+"bloodfluke planorb",
+8,
+[]
+],
+[
+"Kobi Cuttlefish",
+8,
+[]
+],
+[
+"African Cuttlefish",
+8,
+[]
+],
+[
+"Ornate Cuttlefish",
+8,
+[]
+],
+[
+"Japanese Bobtail Squid",
+8,
+[]
+],
+[
+"Big-eyed Bobtail Squid",
+8,
+[]
+],
+[
+"Banded Piglet Squid",
+8,
+[]
+],
+[
+"Spider Cuttlefish",
+8,
+[]
+],
+[
+"Atlantic oyster drill",
+8,
+[]
+],
+[
+"Leucoptera Bobtail Squid",
+8,
+[]
+],
+[
+"Socorro Snail",
+8,
+[]
+],
+[
+"Moorean Viviparous Tree Snail",
+8,
+[
+"Polynesian Tree Snail"
+]
+],
+[
+"Ozark pyrg",
+8,
+[]
+],
+[
+"Marsh Rams-horn",
+8,
+[
+"Marsh Ramshorn"
+]
+],
+[
+"Ash Meadows Pebblesnail",
+8,
+[]
+],
+[
+"Southern Pocketbook",
+8,
+[]
+],
+[
+"Texas hornshell",
+8,
+[]
+],
+[
+"Butterfly bobtail squid",
+8,
+[]
+],
+[
+"Lined Pocketbook",
+8,
+[]
+],
+[
+"Penitent Mussel",
+8,
+[
+"Southern Combshell"
+]
+],
+[
+"Cumberland Leafshell",
+8,
+[
+"Steward's Pearly Mussel"
+]
+],
+[
+"Pod Lance",
+8,
+[]
+],
+[
+"Little Winged Pearly Mussel",
+8,
+[
+"Littlewing Pearlymussel"
+]
+],
+[
+"Tan Riffle Shell",
+8,
+[]
+],
+[
+"Amethyst gem clam",
+8,
+[]
+],
+[
+"Boreal Astarte",
+8,
+[]
+],
+[
+"Hickorynut",
+8,
+[]
+],
+[
+"Recovery Pearly Mussel",
+8,
+[
+"Winged Spike"
+]
+],
+[
+"Altamaha Spinymussel",
+8,
+[
+"Georgia Spinymussel",
+"Georgia Spiny Mussel"
+]
+],
+[
+"Fuzzy Pigtoe",
+8,
+[]
+],
+[
+"Spectaclecase",
+8,
+[
+"Spectacle Case",
+"Spectacle Case Pearly Mussel"
+]
+],
+[
+"Alabama Pearlshell",
+8,
+[
+"Alabama Pearl Shell"
+]
+],
+[
+"Elliptical File-Shell",
+8,
+[
+"Small-ear fileclam",
+"Small-ear Fileclam"
+]
+],
+[
+"Kidneyshell",
+8,
+[]
+],
+[
+"Southern clubshell",
+8,
+[]
+],
+[
+"Texas Heelsplitter",
+8,
+[]
+],
+[
+"Nearby Pearlymussel",
+8,
+[
+"Nearby Pearly Mussel",
+"Tennessee Riffleshell"
+]
+],
+[
+"Southern Hickorynut",
+8,
+[]
+],
+[
+"Cumberland Elktoe",
+8,
+[]
+],
+[
+"Altamaha Lance",
+8,
+[]
+],
+[
+"Altamaha pocketbook",
+8,
+[]
+],
+[
+"Texas Pigtoe",
+8,
+[]
+],
+[
+"Purple wartyback",
+8,
+[]
+],
+[
+"Speckled Pocketbook",
+8,
+[]
+],
+[
+"Ridged Mapleleaf",
+8,
+[]
+],
+[
+"Louisiana Pearlshell",
+8,
+[]
+],
+[
+"Wrinkled Snail",
+8,
+[]
+],
+[
+"Wreathed Cactus Snail",
+8,
+[]
+],
+[
+"Cave Physa",
+8,
+[]
+],
+[
+"Plain Cactus Snail",
+8,
+[]
+],
+[
+"Domed Ancylid",
+8,
+[]
+],
+[
+"Boulder Pile Mountain Snail",
+8,
+[]
+],
+[
+"Dutton's River Snail",
+8,
+[
+"Helmet Rocksnail"
+]
+],
+[
+"Walnut Elimia",
+8,
+[]
+],
+[
+"Magnificent Ramshorn",
+8,
+[]
+],
+[
+"Concentrated Snail",
+8,
+[
+"Santa Barbara Island Snail"
+]
+],
+[
+"Mount Dryander Scaly Snail",
+8,
+[]
+],
+[
+"Silt Elimia",
+8,
+[]
+],
+[
+"Fraternal Snail",
+8,
+[
+"San Nicolas Island Snail"
+]
+],
+[
+"Wet Rock Physa",
+8,
+[]
+],
+[
+"Marbled Disc",
+8,
+[]
+],
+[
+"Carinate Flat-top Snail",
+8,
+[]
+],
+[
+"Kern Shoulderband",
+8,
+[]
+],
+[
+"Vortex Banded Mountain Snail",
+8,
+[
+"Whorled Mountain Snail"
+]
+],
+[
+"Banded Elimia",
+8,
+[]
+],
+[
+"Muddy Rocksnail",
+8,
+[
+"Rugged River Snail"
+]
+],
+[
+"Knobby Rocksnail",
+8,
+[]
+],
+[
+"Cape Leeuwin Snail",
+8,
+[
+"Leeuwin-naturaliste Amphibious Snail"
+]
+],
+[
+"Slowwater Elimia",
+8,
+[]
+],
+[
+"Australian Freshwater Limpet",
+8,
+[
+"Tasmanian Freshwater 'Limpet'"
+]
+],
+[
+"Short-spired Elimia",
+8,
+[
+"Short Spire Elimia"
+]
+],
+[
+"Cobble elimia",
+8,
+[
+"Cobble Elimia"
+]
+],
+[
+"Constricted Elimia",
+8,
+[]
+],
+[
+"Maiden Rocksnail",
+8,
+[]
+],
+[
+"Closed Elimia",
+8,
+[]
+],
+[
+"Tapered Cavesnail",
+8,
+[]
+],
+[
+"Agate Rocksnail",
+8,
+[]
+],
+[
+"Greenbrier Cavesnail",
+8,
+[]
+],
+[
+"Striate Slitshell",
+8,
+[]
+],
+[
+"Brook Elimia",
+8,
+[]
+],
+[
+"Bigmouth Rocksnail",
+8,
+[]
+],
+[
+"Ribbed Slitshell",
+8,
+[]
+],
+[
+"North Pine River freshwater snail",
+8,
+[
+"North Pine River Freshwater Snail"
+]
+],
+[
+"Pupa Elimia",
+8,
+[]
+],
+[
+"Rough-lined Elimia",
+8,
+[]
+],
+[
+"Pygmy Elimia",
+8,
+[]
+],
+[
+"Tidewater Mucket",
+8,
+[]
+],
+[
+"Acorn Pearly Mussel",
+8,
+[
+"Acornshell"
+]
+],
+[
+"Satilla Elephantear",
+8,
+[]
+],
+[
+"Yellow Lance",
+8,
+[]
+],
+[
+"Round Slitshell",
+8,
+[]
+],
+[
+"Arcuate Pearly Mussel",
+8,
+[
+"Leafshell"
+]
+],
+[
+"Hood Ancylid",
+8,
+[]
+],
+[
+"Northern Admete",
+8,
+[]
+],
+[
+"Sculpin snail",
+8,
+[
+"Sculpin Snail"
+]
+],
+[
+"Oasis Valley Springsnail",
+8,
+[]
+],
+[
+"Tumbling Creek Cavesnail",
+8,
+[]
+],
+[
+"Ovate Pebblesnail",
+8,
+[]
+],
+[
+"Corded purg",
+8,
+[
+"Corded Pyrg"
+]
+],
+[
+"Maze's Cone",
+8,
+[]
+],
+[
+"Point of Rocks Tryonia",
+8,
+[]
+],
+[
+"Ringed hornsnail",
+8,
+[
+"Ringed Hornsnail"
+]
+],
+[
+"Atlas Pebblesnail",
+8,
+[]
+],
+[
+"Telescope Hornsnail",
+8,
+[]
+],
+[
+"Rugged Hornsnail",
+8,
+[]
+],
+[
+"Oachita Pebblesnail",
+8,
+[]
+],
+[
+"Painted Rocksnail",
+8,
+[]
+],
+[
+"Lacy Elimia",
+8,
+[]
+],
+[
+"Jackson Lake Springsnail",
+8,
+[]
+],
+[
+"Corpulent Hornsnail",
+8,
+[
+"Stout Riversnail"
+]
+],
+[
+"Roswell Springsnail",
+8,
+[]
+],
+[
+"Shortspire hornsnail",
+8,
+[
+"Shortspire Hornsnail"
+]
+],
+[
+"Kingman Springsnail",
+8,
+[]
+],
+[
+"Upland Hornsnail",
+8,
+[]
+],
+[
+"Mimic Cavesnail",
+8,
+[]
+],
+[
+"Sportingoods Tryonia",
+8,
+[]
+],
+[
+"Knotty Pebblesnail",
+8,
+[]
+],
+[
+"South Sierra Nevada Springsnail",
+8,
+[]
+],
+[
+"Bruneau Hot Springsnail",
+8,
+[]
+],
+[
+"Page Sprlngsnail",
+8,
+[]
+],
+[
+"Emerald Valvata",
+8,
+[]
+],
+[
+"Montezuma Well Springsnail",
+8,
+[]
+],
+[
+"Rolling Pebblesnail",
+8,
+[]
+],
+[
+"Savannah Pebblesnail",
+8,
+[]
+],
+[
+"Moon Pebblesnail",
+8,
+[]
+],
+[
+"Horn Shell",
+8,
+[
+"Plicate Horn Snail"
+]
+],
+[
+"Angular Pebblesnail",
+8,
+[]
+],
+[
+"Royal springsnail",
+8,
+[]
+],
+[
+"Grand Wash Springsnail",
+8,
+[]
+],
+[
+"Cheatum's Snail",
+8,
+[
+"Phantom Tryonia"
+]
+],
+[
+"Coosa Rocksnail",
+8,
+[]
+],
+[
+"Panhandle Pebblesnail",
+8,
+[]
+],
+[
+"Sandal-eye Squid",
+8,
+[]
+],
+[
+"Eelgrass Limpet",
+8,
+[]
+],
+[
+"Mud Snail",
+8,
+[]
+],
+[
+"Crystal Spring Springsnail",
+8,
+[]
+],
+[
+"Umbilicate Flat-top Snail",
+8,
+[]
+],
+[
+"crimorans",
+8,
+[]
+],
+[
+"Judas Ear Cassidula",
+8,
+[]
+],
+[
+"Triangle Floater",
+8,
+[]
+],
+[
+"Striped Nerite",
+8,
+[]
 ],
 [
 "Coral Cerith",
-8
+8,
+[]
 ],
 [
 "Pale Lilliput",
-8
-],
+8,
 [
 "Pale Lilliput Naiad",
-8
-],
-[
 "Pale Lilliput pearly mussel",
-8
-],
-[
-"Pale Lilliput Pearly Mussel",
-8
+"Pale Lilliput Pearly Mussel"
+]
 ],
 [
 "Long Fingernail Clam",
-8
+8,
+[]
 ],
 [
 "Salamander mussel",
-8
+8,
+[]
 ],
 [
 "Great Lake Snail",
-8
+8,
+[]
 ],
 [
 "Atherton Tableland Keeled Snail",
-8
+8,
+[]
 ],
 [
 "Appalachian monkeyface",
-7
-],
+7,
 [
-"Appalachian monkey-face pearly mussel",
-7
+"Appalachian monkey-face pearly mussel"
+]
 ],
 [
 "Andaman Cone",
-7
+7,
+[]
 ],
 [
 "Hidden Pebblesnail",
-7
+7,
+[]
 ],
 [
 "Longfin Inshore Squid",
-7
-],
-[
-"Galapagos land snail",
-7
-],
-[
-"Centurion Cone",
-7
-],
-[
-"Baer's Cone",
-7
-],
-[
-"Havana Cone",
-7
-],
-[
-"Malacca Cone",
-7
-],
-[
-"Flame Coloured Cone",
-7
-],
-[
-"Fragile Geography Cone",
-7
-],
-[
-"Giant African Cuttlefish",
-7
-],
-[
-"Longarm Cuttlefish",
-7
-],
-[
-"Elegant Bobtail Squid",
-7
-],
-[
-"Southern Bobtail Squid",
-7
-],
-[
-"Hedley's Cuttlefish",
-7
-],
-[
-"Orangenacre Mucket",
-7
-],
-[
-"Striking Cuttlefish",
-7
-],
-[
-"Analogous bobtail squid",
-7
-],
-[
-"Smith's Cuttlefish",
-7
-],
-[
-"Bush-club Squid",
-7
-],
-[
-"Slender Cuttlefish",
-7
-],
-[
-"Southern Bottletail Squid",
-7
-],
-[
-"Partula tree snail",
-7
-],
-[
-"Doubtful Cone",
-7
-],
-[
-"Thousand Palms Desert Snail",
-7
-],
-[
-"Quitabaquito Tryonia",
-7
-],
-[
-"Eastern Elliptio",
-7
-],
-[
-"Inflated Floater",
-7
-],
-[
-"Olympia oyster",
-7
-],
-[
-"Brook Wedge Mussel",
-7
-],
-[
-"Slippershell mussel",
-7
-],
-[
-"Slippershell Mussel",
-7
-],
-[
-"Neosho Mucket",
-7
-],
-[
-"Neosho Pearlymussel",
-7
-],
-[
-"Neosho Pearly Mussel",
-7
-],
-[
-"Fine-rayed Pearlymussel",
-7
-],
-[
-"Fine-rayed Pearly Mussel",
-7
-],
-[
-"Round Combshell",
-7
-],
-[
-"Atlantic Spike",
-7
-],
-[
-"Alabama Creekmussel",
-7
-],
-[
-"Florida Lance",
-7
-],
-[
-"Wavyrayed lampmussel",
-7
-],
-[
-"Wavyrayed Lampmussel",
-7
-],
-[
-"Threeridge",
-7
-],
-[
-"Cracking pearly mussel",
-7
-],
-[
-"Cracking Pearlymussel",
-7
-],
-[
-"Cracking Pearly Mussel",
-7
-],
-[
-"Fluted Elephantear",
-7
-],
-[
-"Pyramid Pigtoe",
-7
-],
-[
-"Forkshell",
-7
-],
-[
-"Lewis Pearly Mussel",
-7
-],
-[
-"Alabama Heelsplitter",
-7
-],
-[
-"Triangle Pigtoe",
-7
-],
-[
-"Tennessee clubshell",
-7
-],
-[
-"Tennessee Clubshell",
-7
-],
-[
-"Southern Pigtoe",
-7
-],
-[
-"Angled riffleshell",
-7
-],
-[
-"Angled Riffleshell",
-7
-],
-[
-"Arkansas Fatmucket",
-7
-],
-[
-"Rayed Pink Fatmucket",
-7
-],
-[
-"Waccamaw Fatmucket",
-7
-],
-[
-"Southern Acorn Riffle Shell",
-7
-],
-[
-"Southern Acornshell",
-7
-],
-[
-"Alabama Spike",
-7
-],
-[
-"Narrow Catspaw",
-7
-],
-[
-"Stone's Pearly Mussel",
-7
-],
-[
-"Ozark Pigtoe",
-7
-],
-[
-"Shouldered Elimia",
-7
-],
-[
-"Coahuilix De Hubbs Snail",
-7
-],
-[
-"Utah Physa",
-7
-],
-[
-"Alabama Vertigo",
-7
-],
-[
-"Victorville Shoulderband",
-7
-],
-[
-"Virginia Fringed Mountain Snail",
-7
-],
-[
-"Magazine Mountain Middle-toothed Snail",
-7
-],
-[
-"Magazine Mountain Shagreen",
-7
-],
-[
-"Spindle Elimia",
-7
-],
-[
-"Silky snail",
-7
-],
-[
-"Silky Snail",
-7
-],
-[
-"Western Three-toothed Land Snail",
-7
-],
-[
-"Flaxen Elimia",
-7
-],
-[
-"Mesa Shoulderband",
-7
-],
-[
-"Strawberry Snail",
-7
-],
-[
-"Striped Rocksnail",
-7
-],
-[
-"Flat-spired Three-toothed Snail",
-7
-],
-[
-"Shasta Sideband",
-7
-],
-[
-"Northern conical pinwheel snail",
-7
-],
-[
-"Nautilus Ram’s-horn Snail",
-7
-],
-[
-"Star Gyro",
-7
-],
-[
-"Karok Hesperion",
-7
-],
-[
-"Karok Indian Snail",
-7
-],
-[
-"Acorn Ramshorn",
-7
-],
-[
-"Keeled Sideband",
-7
-],
-[
-"Mossman Gorge Treesnail",
-7
-],
-[
-"Fish Lake Physa",
-7
-],
-[
-"Snake River Physa",
-7
-],
-[
-"Snake River Physa Snail",
-7
-],
-[
-"Angled Flat-top Snail",
-7
-],
-[
-"Wicker ancylid",
-7
-],
-[
-"Wicker Ancylid",
-7
-],
-[
-"blue green chiton",
-7
-],
-[
-"Allyn Smith's Banded Snail",
-7
-],
-[
-"Merced Canyon Shoulderband",
-7
-],
-[
-"Gladiator Elimia",
-7
-],
-[
-"Knotty elimia",
-7
-],
-[
-"Knotty Elimia",
-7
-],
-[
-"Round-ribed Elimia",
-7
-],
-[
-"Round-rib Elimia",
-7
-],
-[
-"Lirate Rocksnail",
-7
-],
-[
-"Lyrate Rocksnail",
-7
-],
-[
-"Fusiform Elimia",
-7
-],
-[
-"Hearty Elimia",
-7
-],
-[
-"High-spired Elimia",
-7
-],
-[
-"Rotund Rocksnail",
-7
-],
-[
-"Knob Mudalia",
-7
-],
-[
-"Badwater Snail",
-7
-],
-[
-"Ribbed Elimia",
-7
-],
-[
-"Puzzle Elimia",
-7
-],
-[
-"Squat Rocksnail",
-7
-],
-[
-"Chipola Slabshell",
-7
-],
-[
-"Upland Combshell",
-7
-],
-[
-"Huachuca Springsnail",
-7
-],
-[
-"Armored Marstonia",
-7
-],
-[
-"Spiral Hornsnail",
-7
-],
-[
-"Desert Valvata",
-7
-],
-[
-"Utah Roundmouth Snail",
-7
-],
-[
-"Utah Valvata",
-7
-],
-[
-"Sparrow Pebblesnail",
-7
-],
-[
-"Brown Springsnail",
-7
-],
-[
-"Wrinkled Elimia",
-7
-],
-[
-"Elongate-gland Springsnail",
-7
-],
-[
-"Chupadera Springsnail",
-7
-],
-[
-"Brune Spring Snail",
-7
-],
-[
-"Brune's Springsnail",
-7
-],
-[
-"Brune's Tryonia",
-7
-],
-[
-"Koster's Tryonia",
-7
-],
-[
-"Beaverpond Marstonia",
-7
-],
-[
-"Beaver Pond Marstonia",
-7
-],
-[
-"Verde Rim Springsnail",
-7
-],
-[
-"Coosa Pebblesnail",
-7
-],
-[
-"Distal-gland Springsnail",
-7
-],
-[
-"San Bernadino Springsnail",
-7
-],
-[
-"Virgin Nerite",
-7
-],
-[
-"Amargossa Tryonia",
-7
-],
-[
-"New Mexico Hotspring Snail",
-7
-],
-[
-"Skirted Hornsnail",
-7
-],
-[
-"Black River Springsnail",
-7
-],
-[
-"Three Forks springsnail",
-7
-],
-[
-"Three Forks Springsnail",
-7
-],
-[
-"Opaque Pebblesnail",
-7
-],
-[
-"California Brackish Water Snail",
-7
-],
-[
-"Mimic Tryonia",
-7
-],
-[
-"Reverse Pebblesnail",
-7
-],
-[
-"Davis County Springsnail",
-7
-],
-[
-"Limpia Creek Springsnail",
-7
-],
-[
-"Thick-lipped Pebblesnail",
-7
-],
-[
-"Pecos Springsnail",
-7
-],
-[
-"Stocky Pebblesnail",
-7
-],
-[
-"Pygmy Pebblesnail",
-7
-],
-[
-"Threeridge Valvata",
-7
-],
-[
-"Grated Tryonia",
-7
-],
-[
-"White River Snail",
-7
-],
-[
-"Minute Tryonia",
-7
-],
-[
-"Spiny river snail",
-7
-],
-[
-"Spiny riversnail",
-7
-],
-[
-"Teardrop elimia",
-7
-],
-[
-"Teardrop Elimia",
-7
-],
-[
-"Flat pebblesnail",
-7
-],
-[
-"Flat Pebblesnail",
-7
-],
-[
-"Fairbanks Springsnail",
-7
-],
-[
-"Fossil Springsnail",
-7
-],
-[
-"Granite Pebblesnail",
-7
-],
-[
-"Gila Springsnail",
-7
-],
-[
-"Quadrate Pebblesnail",
-7
-],
-[
-"Mossy Valvata",
-7
-],
-[
-"Dwarf Pebblesnail",
-7
-],
-[
-"Alamosa Springsnail",
-7
-],
-[
-"Channeled Pebblesnail",
-7
-],
-[
-"Fluted Pebblesnail",
-7
-],
-[
-"Naegele Springsnail",
-7
-],
-[
-"Presidio County Springsnail",
-7
-],
-[
-"Median-gland Nevada Springsnail",
-7
-],
-[
-"Andrea Cuttlefish",
-7
-],
-[
-"Stumpy Cuttlefish",
-7
-],
-[
-"two-toothed white snail",
-7
-],
-[
-"Partulina snail",
-7
-],
-[
-"Pondoland cannibal snail",
-7
-],
-[
-"Pondoland Cannibal Snail",
-7
-],
-[
-"California Floater",
-7
-],
-[
-"Southern Elktoe",
-7
-],
-[
-"Eastern lampmussel",
-7
-],
-[
-"Mt Augustus snail",
-7
-],
-[
-"Maputaland cannibal snail",
-7
-],
-[
-"Tongaland Cannibal Snail",
-7
-],
-[
-"China Clam",
-7
-],
-[
-"Aldabra Banded Snail",
-7
-],
-[
-"Iowa pleistocene snail",
-7
-],
-[
-"Iowa Pleistocene Snail",
-7
-],
-[
-"Hawaiian tree snail",
-7
+7,
+[]
 ],
 [
 "Land snail",
-7
-],
-[
-"Snail",
-7
-],
-[
-"Tallapoosa Pebblesnail",
-7
-],
-[
-"New Zealand rock oyster",
-7
-],
-[
-"nut orb mussel",
-7
-],
-[
-"Nut Orb Mussel",
-7
-],
-[
-"River Orb Mussel",
-7
+7,
+[]
 ],
 [
 "Suboestophora snail",
-7
+7,
+[]
+],
+[
+"Galapagos land snail",
+7,
+[]
+],
+[
+"Centurion Cone",
+7,
+[]
+],
+[
+"Baer's Cone",
+7,
+[]
+],
+[
+"Havana Cone",
+7,
+[]
+],
+[
+"Malacca Cone",
+7,
+[]
+],
+[
+"Flame Coloured Cone",
+7,
+[]
+],
+[
+"Fragile Geography Cone",
+7,
+[]
+],
+[
+"Giant African Cuttlefish",
+7,
+[]
+],
+[
+"Longarm Cuttlefish",
+7,
+[]
+],
+[
+"Elegant Bobtail Squid",
+7,
+[]
+],
+[
+"Southern Bobtail Squid",
+7,
+[]
+],
+[
+"Hedley's Cuttlefish",
+7,
+[]
+],
+[
+"Orangenacre Mucket",
+7,
+[]
+],
+[
+"Striking Cuttlefish",
+7,
+[]
+],
+[
+"Analogous bobtail squid",
+7,
+[]
+],
+[
+"Smith's Cuttlefish",
+7,
+[]
+],
+[
+"Bush-club Squid",
+7,
+[]
+],
+[
+"Slender Cuttlefish",
+7,
+[]
+],
+[
+"Southern Bottletail Squid",
+7,
+[]
+],
+[
+"Partula tree snail",
+7,
+[
+"Polynesian Tree Snail"
+]
+],
+[
+"Doubtful Cone",
+7,
+[]
+],
+[
+"Thousand Palms Desert Snail",
+7,
+[]
+],
+[
+"Quitabaquito Tryonia",
+7,
+[]
+],
+[
+"Eastern Elliptio",
+7,
+[]
+],
+[
+"Inflated Floater",
+7,
+[]
+],
+[
+"Olympia oyster",
+7,
+[]
+],
+[
+"Brook Wedge Mussel",
+7,
+[
+"Slippershell mussel",
+"Slippershell Mussel"
+]
+],
+[
+"Neosho Mucket",
+7,
+[
+"Neosho Pearlymussel",
+"Neosho Pearly Mussel"
+]
+],
+[
+"Fine-rayed Pearlymussel",
+7,
+[
+"Fine-rayed Pearly Mussel",
+"Round Combshell"
+]
+],
+[
+"Atlantic Spike",
+7,
+[]
+],
+[
+"Alabama Creekmussel",
+7,
+[]
+],
+[
+"Florida Lance",
+7,
+[]
+],
+[
+"Wavyrayed lampmussel",
+7,
+[
+"Wavyrayed Lampmussel"
+]
+],
+[
+"Threeridge",
+7,
+[]
+],
+[
+"Cracking pearly mussel",
+7,
+[
+"Cracking Pearlymussel",
+"Cracking Pearly Mussel"
+]
+],
+[
+"Fluted Elephantear",
+7,
+[]
+],
+[
+"Pyramid Pigtoe",
+7,
+[]
+],
+[
+"Forkshell",
+7,
+[
+"Lewis Pearly Mussel"
+]
+],
+[
+"Alabama Heelsplitter",
+7,
+[]
+],
+[
+"Triangle Pigtoe",
+7,
+[]
+],
+[
+"Tennessee clubshell",
+7,
+[
+"Tennessee Clubshell"
+]
+],
+[
+"Southern Pigtoe",
+7,
+[]
+],
+[
+"Angled riffleshell",
+7,
+[
+"Angled Riffleshell"
+]
+],
+[
+"Arkansas Fatmucket",
+7,
+[]
+],
+[
+"Rayed Pink Fatmucket",
+7,
+[]
+],
+[
+"Waccamaw Fatmucket",
+7,
+[]
+],
+[
+"Southern Acorn Riffle Shell",
+7,
+[
+"Southern Acornshell"
+]
+],
+[
+"Alabama Spike",
+7,
+[]
+],
+[
+"Narrow Catspaw",
+7,
+[
+"Stone's Pearly Mussel"
+]
+],
+[
+"Ozark Pigtoe",
+7,
+[]
+],
+[
+"Shouldered Elimia",
+7,
+[]
+],
+[
+"Coahuilix De Hubbs Snail",
+7,
+[]
+],
+[
+"Utah Physa",
+7,
+[]
+],
+[
+"Alabama Vertigo",
+7,
+[]
+],
+[
+"Victorville Shoulderband",
+7,
+[]
+],
+[
+"Virginia Fringed Mountain Snail",
+7,
+[]
+],
+[
+"Magazine Mountain Middle-toothed Snail",
+7,
+[
+"Magazine Mountain Shagreen"
+]
+],
+[
+"Spindle Elimia",
+7,
+[]
+],
+[
+"Silky snail",
+7,
+[
+"Silky Snail"
+]
+],
+[
+"Western Three-toothed Land Snail",
+7,
+[]
+],
+[
+"Flaxen Elimia",
+7,
+[]
+],
+[
+"Mesa Shoulderband",
+7,
+[]
+],
+[
+"Strawberry Snail",
+7,
+[]
+],
+[
+"Striped Rocksnail",
+7,
+[]
+],
+[
+"Flat-spired Three-toothed Snail",
+7,
+[]
+],
+[
+"Shasta Sideband",
+7,
+[]
+],
+[
+"Northern conical pinwheel snail",
+7,
+[]
+],
+[
+"Nautilus Ram’s-horn Snail",
+7,
+[
+"Star Gyro"
+]
+],
+[
+"Karok Hesperion",
+7,
+[
+"Karok Indian Snail"
+]
+],
+[
+"Acorn Ramshorn",
+7,
+[]
+],
+[
+"Keeled Sideband",
+7,
+[]
+],
+[
+"Mossman Gorge Treesnail",
+7,
+[]
+],
+[
+"Fish Lake Physa",
+7,
+[]
+],
+[
+"Snake River Physa",
+7,
+[
+"Snake River Physa Snail"
+]
+],
+[
+"Angled Flat-top Snail",
+7,
+[]
+],
+[
+"Wicker ancylid",
+7,
+[
+"Wicker Ancylid"
+]
+],
+[
+"blue green chiton",
+7,
+[]
+],
+[
+"Allyn Smith's Banded Snail",
+7,
+[
+"Merced Canyon Shoulderband"
+]
+],
+[
+"Gladiator Elimia",
+7,
+[]
+],
+[
+"Knotty elimia",
+7,
+[
+"Knotty Elimia"
+]
+],
+[
+"Round-ribed Elimia",
+7,
+[
+"Round-rib Elimia"
+]
+],
+[
+"Lirate Rocksnail",
+7,
+[
+"Lyrate Rocksnail"
+]
+],
+[
+"Fusiform Elimia",
+7,
+[]
+],
+[
+"Hearty Elimia",
+7,
+[]
+],
+[
+"High-spired Elimia",
+7,
+[]
+],
+[
+"Rotund Rocksnail",
+7,
+[]
+],
+[
+"Knob Mudalia",
+7,
+[]
+],
+[
+"Badwater Snail",
+7,
+[]
+],
+[
+"Ribbed Elimia",
+7,
+[]
+],
+[
+"Puzzle Elimia",
+7,
+[]
+],
+[
+"Squat Rocksnail",
+7,
+[]
+],
+[
+"Chipola Slabshell",
+7,
+[]
+],
+[
+"Upland Combshell",
+7,
+[]
+],
+[
+"Huachuca Springsnail",
+7,
+[]
+],
+[
+"Armored Marstonia",
+7,
+[]
+],
+[
+"Spiral Hornsnail",
+7,
+[]
+],
+[
+"Desert Valvata",
+7,
+[
+"Utah Roundmouth Snail",
+"Utah Valvata"
+]
+],
+[
+"Sparrow Pebblesnail",
+7,
+[]
+],
+[
+"Brown Springsnail",
+7,
+[]
+],
+[
+"Wrinkled Elimia",
+7,
+[]
+],
+[
+"Elongate-gland Springsnail",
+7,
+[]
+],
+[
+"Chupadera Springsnail",
+7,
+[]
+],
+[
+"Brune Spring Snail",
+7,
+[
+"Brune's Springsnail",
+"Brune's Tryonia"
+]
+],
+[
+"Koster's Tryonia",
+7,
+[]
+],
+[
+"Beaverpond Marstonia",
+7,
+[
+"Beaver Pond Marstonia"
+]
+],
+[
+"Verde Rim Springsnail",
+7,
+[]
+],
+[
+"Coosa Pebblesnail",
+7,
+[]
+],
+[
+"Distal-gland Springsnail",
+7,
+[]
+],
+[
+"San Bernadino Springsnail",
+7,
+[]
+],
+[
+"Virgin Nerite",
+7,
+[]
+],
+[
+"Amargossa Tryonia",
+7,
+[]
+],
+[
+"New Mexico Hotspring Snail",
+7,
+[]
+],
+[
+"Skirted Hornsnail",
+7,
+[]
+],
+[
+"Black River Springsnail",
+7,
+[
+"Three Forks springsnail",
+"Three Forks Springsnail"
+]
+],
+[
+"Opaque Pebblesnail",
+7,
+[]
+],
+[
+"California Brackish Water Snail",
+7,
+[
+"Mimic Tryonia"
+]
+],
+[
+"Reverse Pebblesnail",
+7,
+[]
+],
+[
+"Davis County Springsnail",
+7,
+[
+"Limpia Creek Springsnail"
+]
+],
+[
+"Thick-lipped Pebblesnail",
+7,
+[]
+],
+[
+"Pecos Springsnail",
+7,
+[]
+],
+[
+"Stocky Pebblesnail",
+7,
+[]
+],
+[
+"Pygmy Pebblesnail",
+7,
+[]
+],
+[
+"Threeridge Valvata",
+7,
+[]
+],
+[
+"Grated Tryonia",
+7,
+[
+"White River Snail"
+]
+],
+[
+"Minute Tryonia",
+7,
+[]
+],
+[
+"Spiny river snail",
+7,
+[
+"Spiny riversnail"
+]
+],
+[
+"Teardrop elimia",
+7,
+[
+"Teardrop Elimia"
+]
+],
+[
+"Flat pebblesnail",
+7,
+[
+"Flat Pebblesnail"
+]
+],
+[
+"Fairbanks Springsnail",
+7,
+[]
+],
+[
+"Fossil Springsnail",
+7,
+[]
+],
+[
+"Granite Pebblesnail",
+7,
+[]
+],
+[
+"Gila Springsnail",
+7,
+[]
+],
+[
+"Quadrate Pebblesnail",
+7,
+[]
+],
+[
+"Mossy Valvata",
+7,
+[]
+],
+[
+"Dwarf Pebblesnail",
+7,
+[]
+],
+[
+"Alamosa Springsnail",
+7,
+[]
+],
+[
+"Channeled Pebblesnail",
+7,
+[]
+],
+[
+"Fluted Pebblesnail",
+7,
+[]
+],
+[
+"Naegele Springsnail",
+7,
+[
+"Presidio County Springsnail"
+]
+],
+[
+"Median-gland Nevada Springsnail",
+7,
+[]
+],
+[
+"Andrea Cuttlefish",
+7,
+[]
+],
+[
+"Stumpy Cuttlefish",
+7,
+[]
+],
+[
+"two-toothed white snail",
+7,
+[]
+],
+[
+"Partulina snail",
+7,
+[]
+],
+[
+"Pondoland cannibal snail",
+7,
+[
+"Pondoland Cannibal Snail"
+]
+],
+[
+"California Floater",
+7,
+[]
+],
+[
+"Southern Elktoe",
+7,
+[]
+],
+[
+"Eastern lampmussel",
+7,
+[]
+],
+[
+"Mt Augustus snail",
+7,
+[]
+],
+[
+"Maputaland cannibal snail",
+7,
+[
+"Tongaland Cannibal Snail"
+]
+],
+[
+"China Clam",
+7,
+[]
+],
+[
+"Aldabra Banded Snail",
+7,
+[]
+],
+[
+"Iowa pleistocene snail",
+7,
+[
+"Iowa Pleistocene Snail"
+]
+],
+[
+"Silky Snail",
+7,
+[]
+],
+[
+"Hawaiian tree snail",
+7,
+[]
+],
+[
+"Snail",
+7,
+[]
+],
+[
+"Tree Snail",
+7,
+[]
+],
+[
+"Tallapoosa Pebblesnail",
+7,
+[]
+],
+[
+"New Zealand rock oyster",
+7,
+[]
+],
+[
+"nut orb mussel",
+7,
+[
+"Nut Orb Mussel",
+"River Orb Mussel"
+]
 ],
 [
 "vokesimureces",
-7
+7,
+[]
 ],
 [
 "Rhön Spring Snail",
-7
+7,
+[]
 ],
 [
 "Plaited Snail",
-7
+7,
+[]
 ],
 [
 "Point Snail",
-7
+7,
+[]
 ],
 [
 "Ovalbone Cuttlefish",
-7
+7,
+[]
 ],
 [
 "Insular Birddrop",
-7
-],
+7,
 [
-"San Clemente Island Blunt-top Snail",
-7
+"San Clemente Island Blunt-top Snail"
+]
 ],
 [
 "Mud Pebblesnail",
-7
+7,
+[]
 ],
 [
 "Supreme Cone",
-7
+7,
+[]
 ],
 [
 "Long-tailed slug",
-6
+6,
+[]
 ],
 [
 "Pyramid Elimia",
-6
+6,
+[]
 ],
 [
 "Heart Clam",
-6
-],
+6,
 [
-"Japanese Cockle",
-6
+"Japanese Cockle"
+]
 ],
 [
 "Italian River Snail",
-6
+6,
+[]
 ],
 [
 "King octopus",
-6
+6,
+[]
 ],
 [
 "Red Mangrove Shell",
-6
+6,
+[]
 ],
 [
 "Black Spot Cone",
-6
+6,
+[]
 ],
 [
 "Gravel maggot",
-6
+6,
+[]
 ],
 [
 "Big Bottom Bobtail Squid",
-6
+6,
+[]
 ],
 [
 "Zanzibar Cuttlefish",
-6
+6,
+[]
 ],
 [
 "Knifebone Cuttlefish",
-6
+6,
+[]
 ],
 [
 "Curvespine Cuttlefish",
-6
+6,
+[]
 ],
 [
 "Ample Elimia",
-6
+6,
+[
+"Round Rocksnail"
+]
 ],
 [
 "Salina Mucket",
-6
+6,
+[]
 ],
 [
 "Madokai's Cuttlefish",
-6
+6,
+[]
 ],
 [
 "Starry Cuttlefish",
-6
+6,
+[]
 ],
 [
 "Viet Nam Cuttlefish",
-6
+6,
+[]
 ],
 [
 "Whitley's Cuttlefish",
-6
+6,
+[]
 ],
 [
 "Magnificent Cuttlefish",
-6
+6,
+[]
 ],
 [
 "Yellow octopus",
-6
+6,
+[]
 ],
 [
 "Kanab amber snail",
-6
-],
+6,
 [
 "Kanab Ambersnail",
-6
-],
-[
-"Kanab Amber Snail",
-6
+"Kanab Amber Snail"
+]
 ],
 [
 "Robust Bobtail Squid",
-6
+6,
+[]
 ],
 [
 "Voss' Cuttlefish",
-6
+6,
+[]
 ],
 [
 "Intermediate Bobtail Squid",
-6
+6,
+[]
 ],
 [
 "Papuan Cuttlefish",
-6
+6,
+[]
 ],
 [
 "Frog Cuttlefish",
-6
+6,
+[]
 ],
 [
 "Highnut",
-6
+6,
+[]
 ],
 [
 "True Pigtoe",
-6
+6,
+[]
 ],
 [
 "Green-blossom",
-6
-],
+6,
 [
 "Green-blossom Naiad",
-6
-],
-[
 "Green-blossom Pearly Mussel",
-6
-],
-[
 "Green Riffle Shell",
-6
-],
-[
-"Tubercled Blossom",
-6
+"Tubercled Blossom"
+]
 ],
 [
 "Warrior Pigtoe",
-6
+6,
+[]
 ],
 [
 "Dark Pigtoe",
-6
+6,
+[]
 ],
 [
 "Snuffbox",
-6
+6,
+[]
 ],
 [
 "Longnut",
-6
+6,
+[]
 ],
 [
 "Georgia Pigtoe",
-6
+6,
+[]
 ],
 [
 "Painted Clubshell",
-6
+6,
+[]
 ],
 [
 "Alabama Pigtoe",
-6
+6,
+[]
 ],
 [
 "Hazel Pigtoe",
-6
+6,
+[]
 ],
 [
 "Heavy Pigtoe",
-6
-],
+6,
 [
-"Judge Tait's Mussel",
-6
+"Judge Tait's Mussel"
+]
 ],
 [
 "Porous Pea Mussel",
-6
+6,
+[]
 ],
 [
 "Bean Mussel",
-6
-],
+6,
 [
-"Rayed Bean",
-6
+"Rayed Bean"
+]
 ],
 [
 "Pink Papershell",
-6
+6,
+[]
 ],
 [
 "Triangular Kidneyshell",
-6
+6,
+[]
 ],
 [
 "Southern Kidneyshell",
-6
+6,
+[]
 ],
 [
 "Brown Pigtoe",
-6
+6,
+[]
 ],
 [
 "Oval Pigtoe",
-6
+6,
+[]
 ],
 [
 "Ovate Clubshell",
-6
+6,
+[]
 ],
 [
 "Flat Pigtoe",
-6
-],
+6,
 [
-"Marshall's Mussel",
-6
+"Marshall's Mussel"
+]
 ],
 [
 "Mississippi Pigtoe",
-6
+6,
+[]
 ],
 [
 "Fatmucket",
-6
+6,
+[]
 ],
 [
 "Cumberland Pigtoe",
-6
+6,
+[]
 ],
 [
 "Scioto Pigtoe",
-6
+6,
+[]
 ],
 [
 "Yellow Pigtoe",
-6
+6,
+[]
 ],
 [
 "Alabama Clubshell",
-6
+6,
+[]
 ],
 [
 "Black Clubshell",
-6
-],
+6,
 [
-"Curtus's Mussel",
-6
+"Curtus's Mussel"
+]
 ],
 [
 "James River Spinymussel",
-6
+6,
+[]
 ],
 [
 "Lesser Shining Bobtail Squid",
-6
+6,
+[]
 ],
 [
 "Franklin Mountain Talus Snail",
-6
+6,
+[]
 ],
 [
 "Tadpole Physa",
-6
+6,
+[]
 ],
 [
 "Paua slug",
-6
+6,
+[]
 ],
 [
 "Bonneville Stagnicola",
-6
-],
+6,
 [
 "Thickshell Pondsnail",
-6
-],
-[
-"Utah Ribbed Snail",
-6
+"Utah Ribbed Snail"
+]
 ],
 [
 "Miller's Snail",
-6
+6,
+[]
 ],
 [
 "New Zealand microsnails",
-6
+6,
+[]
 ],
 [
 "Carib Fossaria",
-6
+6,
+[]
 ],
 [
 "Cataract gorge snail",
-6
-],
+6,
 [
-"Cataract Gorge Snail",
-6
+"Cataract Gorge Snail"
+]
 ],
 [
 "Keeled Snail",
-6
+6,
+[]
 ],
 [
 "Ghost Rams-horn",
-6
-],
+6,
 [
-"Ghost Ramshorn",
-6
+"Ghost Ramshorn"
+]
 ],
 [
 "Border Ranges Treesnail",
-6
+6,
+[]
 ],
 [
 "Pilsbry's Narrow-apertured Land Snail",
-6
+6,
+[]
 ],
 [
 "Durangonella De Coahuila Snail",
-6
+6,
+[]
 ],
 [
 "Moerch's Cingula",
-6
+6,
+[]
 ],
 [
 "Bantum Hydrobe",
-6
+6,
+[]
 ],
 [
 "Ocmulgee Marstonia",
-6
+6,
+[]
 ],
 [
 "two-toothed door snail",
-6
+6,
+[]
 ],
 [
 "Tongue Bobtail Squid",
-6
+6,
+[]
 ],
 [
 "Trident Cuttlefish",
-6
+6,
+[]
 ],
 [
 "Shortclub Cuttlefish",
-6
+6,
+[]
 ],
 [
 "Dusky Ancylid",
-6
+6,
+[]
 ],
 [
 "Bellmouth Ramshorn",
-6
+6,
+[]
 ],
 [
 "Blue Ham",
-6
-],
+6,
 [
 "Elephant-ear Mussel",
-6
-],
-[
 "Elephantear Mussel",
-6
-],
-[
 "Elephant Ear Mussel",
-6
-],
-[
-"Mule's Ear",
-6
+"Mule's Ear"
+]
 ],
 [
 "Oregon Floater",
-6
+6,
+[]
 ],
 [
 "Bastard",
-6
-],
+6,
 [
 "Black Pocketbook",
-6
-],
-[
 "Grandmaw",
-6
-],
-[
 "Queen",
-6
-],
-[
 "Rock Pocketbook",
-6
-],
-[
-"Rockshell",
-6
+"Rockshell"
+]
 ],
 [
 "Fawnsfoot",
-6
+6,
+[]
 ],
 [
 "Coosa Fiveridge",
-6
+6,
+[]
 ],
 [
 "Arctic Astarte",
-6
+6,
+[]
 ],
 [
 "Paper Pondshell",
-6
+6,
+[]
 ],
 [
 "Ellipse",
-6
+6,
+[]
 ],
 [
 "Brass Mucket",
-6
-],
+6,
 [
 "Grass Mucket",
-6
-],
-[
 "Mucket",
-6
-],
-[
-"Steamboat Mucket",
-6
+"Steamboat Mucket"
+]
 ],
 [
 "Pondhorn",
-6
+6,
+[]
 ],
 [
 "Anchialine Pool Snail",
-6
+6,
+[]
 ],
 [
 "Mount Matafao different snail",
-6
-],
+6,
 [
-"Mount Matafao Different Snail",
-6
+"Mount Matafao Different Snail"
+]
 ],
 [
 "Splendid partulina",
-6
-],
+6,
 [
-"Splendid Partulina",
-6
+"Splendid Partulina"
+]
 ],
 [
 "Mua Treesnail",
-6
+6,
+[]
 ],
 [
 "Tiger cuspivolva",
-6
+6,
+[]
 ],
 [
 "Melanopsis parreyssii",
-6
+6,
+[]
 ],
 [
 "Harney Basin Duskysnail",
-6
+6,
+[]
 ],
 [
 "Cima Discula",
-6
+6,
+[]
 ],
 [
 "Transverse Grand Pyrg",
-6
+6,
+[]
 ],
 [
 "Pachnodus snail",
-6
+6,
+[]
 ],
 [
 "Roe's abalone",
-6
-],
+6,
 [
 "Roe's Abalone",
-6
-],
-[
-"Roe's Ear Shell",
-6
+"Roe's Ear Shell"
+]
 ],
 [
 "Tombigbee Moccasinshell",
-6
+6,
+[]
 ],
 [
 "Gelatinous Blanket Octopus",
-6
+6,
+[]
 ],
 [
 "Mouse Ear Snail",
-6
+6,
+[]
 ],
 [
 "angasi oyster",
-6
-],
+6,
 [
 "Australian flat oyster",
-6
-],
-[
 "Australian mud oyster",
-6
-],
-[
 "Common Mud Oyster",
-6
-],
-[
 "Mud Oyster",
-6
-],
-[
 "native flat oyster",
-6
-],
-[
 "native mud oyster",
-6
-],
-[
+"Native oyster",
 "Port Lincoln Oyster",
-6
-],
-[
 "Southern Flat Oyster",
-6
-],
-[
 "southern mud oyster",
-6
-],
-[
 "Stewart Island Oyster",
-6
-],
-[
-"Tasmanian Flat Oyster",
-6
+"Tasmanian Flat Oyster"
+]
 ],
 [
 "Paludiscala De Oro Snail",
-6
+6,
+[]
 ],
 [
 "Vanuatu nautilus",
-5
+5,
+[]
 ],
 [
 "Campbell's conch",
-5
+5,
+[]
 ],
 [
 "Scaly snail of Doboz",
-5
+5,
+[]
 ],
 [
 "Duckwater Pyrg",
-5
+5,
+[]
 ],
 [
 "Asprella",
-5
+5,
+[]
 ],
 [
 "Greater Hooked Squid",
-5
+5,
+[]
 ],
 [
 "Oman Cuttlefish",
-5
+5,
+[]
 ],
 [
 "Moon Squid",
-5
+5,
+[]
 ],
 [
 "murchisonelloid",
-5
+5,
+[]
 ],
 [
 "Spotty Bobtail Squid",
-5
+5,
+[]
 ],
 [
 "Greater Shining Bobtail Squid",
-5
+5,
+[]
 ],
 [
 "Broadback Cuttlefish",
-5
+5,
+[]
 ],
 [
 "Guinean Cuttlefish",
-5
+5,
+[]
 ],
 [
 "Tortuga Bobtail Squid",
-5
+5,
+[]
 ],
 [
 "Antilles Bobtail Squid",
-5
+5,
+[]
 ],
 [
 "Arabian Cuttlefish",
-5
+5,
+[]
 ],
 [
 "Coosa Pigtoe",
-5
+5,
+[]
 ],
 [
 "Round Pigtoe",
-5
+5,
+[]
 ],
 [
 "Painted Creekshell",
-5
+5,
+[]
 ],
 [
 "Kākahi",
-5
-],
+5,
 [
-"New Zealand Freshwater Mussel",
-5
+"New Zealand Freshwater Mussel"
+]
 ],
 [
 "beaded lancetooth",
-5
-],
+5,
 [
 "Beaded Lancetooth",
-5
-],
-[
-"Beaded Lancetooth Snail",
-5
+"Beaded Lancetooth Snail"
+]
 ],
 [
 "Sax Xavier Talus Snail",
-5
+5,
+[]
 ],
 [
 "Trinity Bristle Snail",
-5
+5,
+[]
 ],
 [
 "Banded Bonneville Stagnicola",
-5
-],
+5,
 [
 "Bonneville Snail",
-5
-],
-[
-"Fat-whorled Pondsnail",
-5
+"Fat-whorled Pondsnail"
+]
 ],
 [
 "Idaho Forestsnail",
-5
+5,
+[]
 ],
 [
 "Oregon Forestsnail",
-5
+5,
+[]
 ],
 [
 "Leaf-veined slug",
-5
+5,
+[]
 ],
 [
 "Amargosa Springsnail",
-5
+5,
+[]
 ],
 [
 "Olive Marstonia",
-5
+5,
+[]
 ],
 [
 "Crested Mudalia",
-5
+5,
+[]
 ],
 [
 "Asian oyster drill",
-5
+5,
+[]
 ],
 [
 "Caterpillar slug",
-5
-],
+5,
 [
-"Caterpillar Slug",
-5
+"Caterpillar Slug"
+]
 ],
 [
 "Thicklip Rams-horn",
-5
-],
+5,
 [
-"Thicklip Ramshorn",
-5
+"Thicklip Ramshorn"
+]
 ],
 [
 "Ridged Rams-horn",
-5
+5,
+[]
 ],
 [
 "Mesa Rams-horn",
-5
-],
+5,
 [
-"Mesa Ramshorn",
-5
+"Mesa Ramshorn"
+]
 ],
 [
 "Woodland Pondsnail",
-5
+5,
+[]
 ],
 [
 "Cat's Ear Cassidula",
-5
+5,
+[]
 ],
 [
 "Artemesian Rams-horn",
-5
+5,
+[]
 ],
 [
 "Mammoth Lymnaea",
-5
+5,
+[]
 ],
 [
 "Ovate Campeloma",
-5
+5,
+[]
 ],
 [
 "Wabash Pigtoe",
-5
+5,
+[]
 ],
 [
 "Washboard",
-5
+5,
+[]
 ],
 [
 "Roanoke Slabshell",
-5
+5,
+[]
 ],
 [
 "Yukon Floater",
-5
+5,
+[]
 ],
 [
 "Giant Floater",
-5
+5,
+[]
 ],
 [
 "Choctaw Bean",
-5
-],
+5,
 [
-"Choctaw Pearly Mussel",
-5
+"Choctaw Pearly Mussel"
+]
 ],
 [
 "Southern tuatua",
-5
+5,
+[]
 ],
 [
 "Yellow Sandshell",
-5
+5,
+[]
 ],
 [
 "Notched Rainbow",
-5
+5,
+[]
 ],
 [
 "Alewife Floater",
-5
+5,
+[]
 ],
 [
 "keeled Australian top shell",
-5
+5,
+[]
 ],
 [
 "Great Saint Helena Awl Snail",
-5
+5,
+[]
 ],
 [
 "Polynesia Tree Snail",
-5
+5,
+[]
 ],
 [
 "Mount Alifana Partula",
-5
+5,
+[
+"Tree Snail"
+]
 ],
 [
 "Stygian Amnicola",
-5
+5,
+[]
 ],
 [
 "Northern White Wentletrap",
-5
+5,
+[]
 ],
 [
 "Tiara Top Snail",
-5
+5,
+[]
 ],
 [
 "Blushing snail",
-5
+5,
+[]
 ],
 [
 "Oriental toothless pupasnail",
-5
+5,
+[]
 ],
 [
 "Kauri Snail",
-5
-],
+5,
 [
-"Pupurangi",
-5
+"Pupurangi"
+]
 ],
 [
 "Ohio pigtoe",
-5
-],
+5,
 [
-"Ohio Pigtoe",
-5
+"Ohio Pigtoe"
+]
 ],
 [
 "Newcomb's Bugle",
-5
-],
+5,
 [
 "Newcomb's snail",
-5
-],
-[
-"Newcomb's Snail",
-5
+"Newcomb's Snail"
+]
 ],
 [
 "Snake skin hunter slug",
-5
-],
+5,
 [
-"Snake Skin Hunter Slug",
-5
+"Snake Skin Hunter Slug"
+]
 ],
 [
 "Trumpet-mouthed hunter snail",
-5
+5,
+[]
 ],
 [
 "New Zealand Flax Snail",
-5
-],
+5,
 [
-"Pupuharakeke",
-5
+"Pupuharakeke"
+]
 ],
 [
 "deepwater clam",
-5
-],
+5,
 [
-"New Zealand geoduck",
-5
+"New Zealand geoduck"
+]
 ],
 [
 "Maldive Cone",
-5
+5,
+[]
+],
+[
+"Spider Elimia",
+4,
+[]
+],
+[
+"Princess Elimia",
+4,
+[]
+],
+[
+"Club Elimia",
+4,
+[]
+],
+[
+"Smooth Elimia",
+4,
+[]
+],
+[
+"Interrupted rocksnail",
+4,
+[]
+],
+[
+"Shawnee rocksnail",
+4,
+[]
+],
+[
+"Milk conch",
+4,
+[]
+],
+[
+"Spindle Cone",
+4,
+[]
+],
+[
+"Japanese conch",
+4,
+[]
+],
+[
+"squalid megapits",
+4,
+[]
+],
+[
+"Indian seahare",
+4,
+[]
+],
+[
+"Peron's side-gilled sea slug",
+4,
+[]
+],
+[
+"Palmate Octopus",
+4,
+[]
+],
+[
+"Southern Cuttlefish",
+4,
+[]
+],
+[
+"Sozon's Cone",
+4,
+[]
+],
+[
+"Fraussen's Cone",
+4,
+[]
+],
+[
+"Black Clam",
+4,
+[]
+],
+[
+"Knobby Bobtail Squid",
+4,
+[]
+],
+[
+"Bahama Cone",
+4,
+[]
+],
+[
+"Southern Pygmy Squid",
+4,
+[]
+],
+[
+"Rosecone Cuttlefish",
+4,
+[]
+],
+[
+"Apple snail",
+4,
+[]
+],
+[
+"Elegant pinwheel snail",
+4,
+[]
+],
+[
+"Rabbitsfoot",
+4,
+[]
+],
+[
+"Rainbow mussel",
+4,
+[]
+],
+[
+"Marsh Pondsnail",
+4,
+[]
+],
+[
+"Mitchell’s rainforest snail",
+4,
+[
+"Mitchell's Rainforest Snail"
+]
+],
+[
+"Dromedary jumping-slug",
+4,
+[]
+],
+[
+"Fragile Ancylid",
+4,
+[]
+],
+[
+"Grooved Cuttlefish",
+4,
+[]
+],
+[
+"Broken hornsnail",
+4,
+[
+"Broken Hornsnail"
+]
+],
+[
+"Sandbowl snail",
+4,
+[
+"Sandbowl Snail"
+]
+],
+[
+"Web's Cuttlefish",
+4,
+[]
+],
+[
+"Flat-whorled Pondsnail",
+4,
+[]
+],
+[
+"Corpulent Ramshorn",
+4,
+[]
+],
+[
+"Lamb Rams-horn",
+4,
+[
+"Lamb Ramshorn"
+]
+],
+[
+"Widelip Pondsnail",
+4,
+[]
+],
+[
+"Mountain Marshsnail",
+4,
+[]
+],
+[
+"Disk Gyro",
+4,
+[]
+],
+[
+"Cloaked Physa",
+4,
+[]
+],
+[
+"Ridged Lioplax",
+4,
+[]
+],
+[
+"Rotund Mysterysnail",
+4,
+[]
+],
+[
+"Brown Walker",
+4,
+[]
+],
+[
+"Glossy Valvata",
+4,
+[]
+],
+[
+"Ochlockonee Mysterysnail",
+4,
+[]
+],
+[
+"Texas liptooth",
+4,
+[
+"Texas Liptooth",
+"Texas Liptooth Snail"
+]
+],
+[
+"Florida Rainbow",
+4,
+[]
+],
+[
+"Eastern Floater",
+4,
+[]
+],
+[
+"Flat Spike",
+4,
+[]
+],
+[
+"Northern Lance",
+4,
+[]
+],
+[
+"Florida Shiny Spike",
+4,
+[]
+],
+[
+"Wartyback",
+4,
+[]
+],
+[
+"Spike",
+4,
+[]
+],
+[
+"Downy Rainbow",
+4,
+[]
+],
+[
+"Newfoundland Floater",
+4,
+[]
+],
+[
+"Cold-water Yoldia",
+4,
+[
+"frigid yoldia",
+"Frigid yoldia",
+"Frigid Yoldia"
+]
+],
+[
+"Bankclimber",
+4,
+[]
+],
+[
+"Eastern Creekshell",
+4,
+[]
+],
+[
+"Crenulate Astarte",
+4,
+[]
+],
+[
+"Plant's Gulella Snail",
+4,
+[]
+],
+[
+"Suwannee Hydrobe",
+4,
+[]
+],
+[
+"Nugget Pebblesnail",
+4,
+[]
+],
+[
+"Freemouth Hydrobe Snail",
+4,
+[]
+],
+[
+"Burnup’s Hunter Slug",
+4,
+[]
+],
+[
+"Dlinza Forest Pinwheel",
+4,
+[
+"Dlinza pinwheel"
+]
+],
+[
+"Carter's freshwater mussel",
+4,
+[
+"Carter’s Freshwater Mussel"
+]
+],
+[
+"Flax snail",
+4,
+[
+"Flax Snail",
+"New Zealand Flax Snail",
+"Pupuharakeke Or Flax Snail"
+]
+],
+[
+"Purcell’s Hunter Slug",
+4,
+[]
+],
+[
+"Northern Riffleshell",
+4,
+[
+"Tan-blossom Naiad",
+"Tan-blossom Pearly Mussel"
+]
+],
+[
+"Hygromiid land snail",
+4,
+[]
+],
+[
+"purple sunset clam",
+4,
+[]
+],
+[
+"Diadem pearl ovulid",
+4,
+[]
+],
+[
+"Kauri snail",
+4,
+[]
+],
+[
+"Green Snail",
+4,
+[]
+],
+[
+"Snakeskin chiton",
+4,
+[]
+],
+[
+"Opalescent squid",
+4,
+[]
+],
+[
+"Knobby Elimia",
+3,
+[]
+],
+[
+"Rippled Elimia",
+3,
+[
+"Savannah Elimia"
+]
+],
+[
+"Fluted Elimia",
+3,
+[]
+],
+[
+"Slackwater Elimia",
+3,
+[]
+],
+[
+"Stately Elimia",
+3,
+[]
+],
+[
+"Carved Elimia",
+3,
+[]
+],
+[
+"Sprite Elimia",
+3,
+[]
+],
+[
+"File Elimia",
+3,
+[]
+],
+[
+"Scalloped Juga",
+3,
+[
+"Topaz Juga"
+]
+],
+[
+"Oasis Juga",
+3,
+[]
+],
+[
+"Black Juga",
+3,
+[]
+],
+[
+"Reeve's pouch snail",
+3,
+[]
+],
+[
+"Bottle Hornsnail",
+3,
+[]
+],
+[
+"Noble Hornsnail",
+3,
+[]
+],
+[
+"Rooster conch",
+3,
+[
+"Roostertail conch"
+]
+],
+[
+"Hawkwing conch",
+3,
+[]
+],
+[
+"Sea lemon",
+3,
+[]
+],
+[
+"Fat-whorled Pondsnail",
+3,
+[]
+],
+[
+"speckled swallow-tailed sea slug",
+3,
+[]
+],
+[
+"Dawson's Kellyclam",
+3,
+[]
+],
+[
+"Dalmatian Belgrande",
+3,
+[]
+],
+[
+"Hungarian blind snail",
+3,
+[]
+],
+[
+"Danubial blind snail",
+3,
+[]
+],
+[
+"Metkovich Cave Nerite",
+3,
+[]
+],
+[
+"Obese pouch snail",
+3,
+[]
+],
+[
+"Maitai Cave snail",
+3,
+[]
+],
+[
+"Te Ahumairangi Hill snail",
+3,
+[]
+],
+[
+"Jasper Cone",
+3,
+[]
+],
+[
+"western ridged mussel",
+3,
+[]
+],
+[
+"Interrupted Rocksnail",
+3,
+[]
+],
+[
+"New Mexico Ramshorn Snail",
+3,
+[]
+],
+[
+"Fish Springs Marshsnail",
+3,
+[]
+],
+[
+"Umbilicate Sprite",
+3,
+[]
+],
+[
+"Yellow-banded Carnivorous Snail",
+3,
+[]
+],
+[
+"Pacific Walker",
+3,
+[]
+],
+[
+"Ebonyshell",
+3,
+[]
+],
+[
+"Oval Elliptio",
+3,
+[]
+],
+[
+"Rusty Peaclam",
+3,
+[]
+],
+[
+"Florida Pondhorn",
+3,
+[]
+],
+[
+"Box Spike",
+3,
+[]
+],
+[
+"Montane Peaclam",
+3,
+[]
+],
+[
+"Waccamaw Spike",
+3,
+[]
+],
+[
+"Round Peaclam",
+3,
+[]
+],
+[
+"Giant Northern Peaclam",
+3,
+[]
+],
+[
+"Savannah Lilliput",
+3,
+[]
+],
+[
+"Louisiana Fatmucket",
+3,
+[]
+],
+[
+"Walker peaclam",
+3,
+[]
+],
+[
+"Banbury Springs lanx",
+3,
+[
+"Banbury Springs limpet",
+"Banbury Springs Limpet"
+]
+],
+[
+"Indented Duskysnail",
+3,
+[]
+],
+[
+"Cobble Sprite",
+3,
+[]
+],
+[
+"Crowned Cavesnail",
+3,
+[]
+],
+[
+"Pyramid Lake Pebblesnail",
+3,
+[]
+],
+[
+"Beaked Cavesnail",
+3,
+[]
+],
+[
+"Smooth-ribbed Hydrobe",
+3,
+[]
+],
+[
+"Domed Cavesnail",
+3,
+[]
+],
+[
+"Halcyon Marstonia",
+3,
+[]
+],
+[
+"Devil Tryonia",
+3,
+[]
+],
+[
+"Cottonball Marsh Tryonia",
+3,
+[]
+],
+[
+"Modoc Pebblesnail",
+3,
+[]
+],
+[
+"Carinated planorbid",
+3,
+[]
+],
+[
+"haminoeoid",
+3,
+[]
+],
+[
+"Opalescent Pendant-Snail",
+3,
+[]
+],
+[
+"Small Spot Snail",
+3,
+[]
+],
+[
+"Brenner’s bobtail",
+3,
+[]
+],
+[
+"Red-mouth Nerite Snail",
+2,
+[]
+],
+[
+"Zaton Cave water snail",
+2,
+[
+"Zaton Cave Water Snail"
+]
+],
+[
+"äipun Cave water snail",
+2,
+[
+"Šipun Cave Water Snail"
+]
+],
+[
+"Pinpoint Cone",
+2,
+[]
+],
+[
+"Ross' Land Snail",
+2,
+[]
+],
+[
+"Glenelg Freshwater Mussel",
+2,
+[]
+],
+[
+"Bubble Pondsnail",
+2,
+[]
+],
+[
+"Giant freshwater clam",
+2,
+[]
+],
+[
+"Liliput Shell",
+2,
+[
+"Lilliput"
+]
+],
+[
+"Purple Lilliput",
+2,
+[]
+],
+[
+"Branhams Cone",
+2,
+[]
+],
+[
+"Shortspire Pondsnail",
+2,
+[]
+],
+[
+"Obese Pondsnail",
+2,
+[]
+],
+[
+"Santee Threetooth",
+2,
+[]
+],
+[
+"Southwestern Fringed-snail",
+2,
+[]
+],
+[
+"Chittenango Ovate Amber Snail",
+2,
+[]
+],
+[
+"Coldwater Pebblesnail",
+2,
+[]
+],
+[
+"Salton Sea Springsnail",
+2,
+[]
+],
+[
+"Cherrystone drop",
+2,
+[]
+],
+[
+"Bianca's Cone",
+2,
+[]
+],
+[
+"fawn melania",
+1,
+[]
+],
+[
+"Walden Peaclam",
+1,
+[]
+],
+[
+"webfoot octopus",
+1,
+[]
+],
+[
+"Jukes's pouch snail",
+1,
+[]
+],
+[
+"Manawatāwhi pāua",
+1,
+[]
+],
+[
+"Laciniate conch",
+1,
+[]
+],
+[
+"Atlantic white-spotted octopus",
+1,
+[
+"Grass octopus",
+"White-spotted octopus"
+]
+],
+[
+"Coppery ramshorn",
+1,
+[
+"Rusty ramshorn"
+]
+],
+[
+"alpine peaclam",
+1,
+[
+"arctic-alpine pea clam"
+]
+],
+[
+"Pimpleback",
+1,
+[]
+],
+[
+"Caserta Pea Mussel",
+1,
+[]
+],
+[
+"Queen conch",
+1,
+[]
+],
+[
+"Arctic-alpine Pea Clam",
+1,
+[]
+],
+[
+"Henslow’s Pea Mussel",
+1,
+[]
+],
+[
+"Oregon lancetooth",
+1,
+[
+"Oregon Lancetooth",
+"Oregon Lancetooth Snail"
+]
+],
+[
+"oblong ancylid",
+1,
+[]
+],
+[
+"Strange Many-whorled Land Snail",
+1,
+[]
+],
+[
+"Guadalupe Woodlandsnail",
+1,
+[]
+],
+[
+"Northern Treeband Snail",
+1,
+[]
+],
+[
+"Kern River Pyrg",
+1,
+[]
+],
+[
+"Clear Lake Pyrg",
+1,
+[]
+],
+[
+"Yaqui Springsnail",
+1,
+[]
+],
+[
+"Wong's Pyrg",
+1,
+[
+"Wong's Springsnail"
+]
+],
+[
+"Missouri Cavesnail",
+1,
+[]
+],
+[
+"Blue Ridge Springsnail",
+1,
+[]
+],
+[
+"Diablo Range Pyrg",
+1,
+[]
+],
+[
+"Bear Lake Springsnail",
+1,
+[]
+],
+[
+"cyrtonelliones",
+1,
+[]
+],
+[
+"Lagoon Spire Snail",
+1,
+[]
+],
+[
+"Haida Gwaii slug",
+1,
+[]
+],
+[
+"Brown Snail",
+1,
+[]
+],
+[
+"Jordan Spring Pyrg",
+0,
+[]
+],
+[
+"Burnt Corral Pyrg",
+0,
+[]
+],
+[
+"Johnstone's Junonia",
+0,
+[]
+],
+[
+"lamellate spot",
+0,
+[
+"Lamellate Spot"
+]
+],
+[
+"glass spot",
+0,
+[
+"Glass Spot",
+"Glass Spot Snail"
+]
+],
+[
+"Cockerell's striated disc (snail)",
+0,
+[
+"Cockerell's Striate Disc (Snail)",
+"Cockerell's Striate Disc Snail"
+]
+],
+[
+"Trinity spot",
+0,
+[]
+],
+[
+"solstice creekmussel",
+0,
+[]
+],
+[
+"Frigid Ambersnail",
+0,
+[]
+],
+[
+"Pleistocene Catinella",
+0,
+[]
+],
+[
+"Round Ebonyshell",
+0,
+[]
+],
+[
+"Phantom Cavesnail",
+0,
+[
+"Phantom Cave Snail"
+]
+],
+[
+"Archer's Toothed Land Snail",
+0,
+[]
+],
+[
+"Clench's Middle-toothed Land Snail",
+0,
+[
+"Mission Creek Oregonian"
+]
+],
+[
+"Jones' Middle-toothed Land Snail",
+0,
+[]
+],
+[
+"Enid snail",
+0,
+[]
+],
+[
+"Aldabra banded snail",
+0,
+[]
+],
+[
+"Partula snails",
+0,
+[]
+],
+[
+"magnificent Helicarionid land snail",
+0,
+[]
+],
+[
+"Lord Howe Island land snail",
+0,
+[]
+],
+[
+"Burgundy snail",
+0,
+[]
+],
+[
+"swollen spire-shell",
+0,
+[]
+],
+[
+"Broadclub Cuttlefish",
+0,
+[]
 ]
 ]

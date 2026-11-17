@@ -1,10 +1,46 @@
 [
 [
 "garden rose",
-36
+36,
+[
+"garden roses"
+]
 ],
 [
 "kokedama",
-19
+19,
+[]
+],
+[
+"Citrus x nobilis",
+2,
+[]
+],
+[
+"poisonous house plant",
+1,
+[]
+],
+[
+"Phalaenopsis Grace Palm",
+1,
+[
+"Phalaenopsis Winged Victory"
+]
+],
+[
+"Phalaenopsis Psyche",
+1,
+[]
+],
+[
+"Indoor bonsai",
+1,
+[]
+],
+[
+"Potted plants in Japan",
+1,
+[]
 ]
 ]

@@ -1,2198 +1,3123 @@
 [
 [
 "Harry Potter",
-90
+90,
+[
+"Harry James Potter",
+"The Boy Who Lived",
+"The Chosen One"
+]
 ],
 [
 "Albus Dumbledore",
-83
+83,
+[
+"Albus Percival Wulfric Brian Dumbledore",
+"Professor Albus Dumbledore"
+]
 ],
 [
 "Hermione Granger",
-82
+82,
+[
+"Hermione",
+"Hermione Jean Granger",
+"Hermy"
+]
 ],
 [
 "Ron Weasley",
-77
+77,
+[
+"Ronald Bilius \"Ron\" Weasley",
+"Ronald Bilius Weasley",
+"Ronald Weasley"
+]
 ],
 [
 "Lord Voldemort",
-76
+76,
+[
+"Dark Lord",
+"Dark Lord Voldemort",
+"He Who Must Not Be Named",
+"He-Who-Must-Not-Be-Named",
+"You Know Who",
+"You-Know-Who"
+]
 ],
 [
 "Severus Snape",
-70
+70,
+[
+"Half-Blood Prince",
+"Professor Snape"
+]
 ],
 [
 "Rubeus Hagrid",
-64
+64,
+[
+"Hagrid"
+]
 ],
 [
 "Draco Malfoy",
-60
+60,
+[]
 ],
 [
 "Minerva McGonagall",
-55
+55,
+[
+"McGonagall",
+"Professor McGonagall",
+"Professor Minerva McGonagall"
+]
 ],
 [
 "Sirius Black",
-51
+51,
+[
+"Padfoot",
+"Sirius Black III",
+"Snuffles"
+]
 ],
 [
 "Ginny Weasley",
-46
+46,
+[
+"Ginevra Molly Potter",
+"Ginevra Molly Weasley",
+"Ginevra Potter",
+"Ginevra Weasley",
+"Ginny Potter"
+]
 ],
 [
 "Luna Lovegood",
-45
+45,
+[
+"Luna Scamander"
+]
 ],
 [
 "Remus Lupin",
-45
+45,
+[
+"Moony",
+"Remus John Lupin"
+]
 ],
 [
 "Neville Longbottom",
-44
+44,
+[]
 ],
 [
 "Bellatrix Lestrange",
-42
+42,
+[
+"Bellatrix Black"
+]
 ],
 [
 "Dolores Umbridge",
-41
+41,
+[
+"Dolores Jane Umbridge",
+"Professor Dolores Umbridge"
+]
 ],
 [
 "Cedric Diggory",
-40
+40,
+[]
 ],
 [
 "Lily Potter",
-38
+38,
+[
+"Lily Evans",
+"Lily Evans Potter"
+]
 ],
 [
 "Cho Chang",
-38
+38,
+[]
 ],
 [
 "Molly Weasley",
-36
+36,
+[
+"Molly Prewett",
+"Mrs. Weasley"
+]
 ],
 [
 "James Potter",
-36
+36,
+[
+"Prongs"
+]
 ],
 [
 "Lucius Malfoy",
-36
+36,
+[
+"Mr. Malfoy"
+]
 ],
 [
 "Nymphadora Tonks",
-35
+35,
+[
+"Nymphadora Lupin",
+"Tonks"
+]
 ],
 [
 "Alastor Moody",
-34
+34,
+[
+"Alastor 'Mad-Eye' Moody",
+"Alastor \"Mad-Eye\" Moody",
+"\"Mad-Eye\" Moody"
+]
 ],
 [
 "Horace Slughorn",
-34
+34,
+[
+"Professor Slughorn",
+"Slughorn"
+]
 ],
 [
 "Bill Weasley",
-34
+34,
+[
+"William Arthur \"Bill\" Weasley",
+"William Arthur Weasley",
+"William Weasley"
+]
 ],
 [
 "Gilderoy Lockhart",
-32
+32,
+[
+"Professor Lockhart"
+]
 ],
 [
 "Narcissa Malfoy",
-32
+32,
+[
+"Narcissa Black",
+"Narcissa Black Malfoy"
+]
 ],
 [
 "Pomona Sprout",
-32
+32,
+[]
 ],
 [
 "Filius Flitwick",
-32
+32,
+[
+"Profesor Flitwick"
+]
 ],
 [
 "Salazar Slytherin",
-32
+32,
+[]
 ],
 [
 "Viktor Krum",
-31
+31,
+[]
 ],
 [
 "Quirinus Quirrell",
-31
+31,
+[
+"Profesor Quirrell"
+]
 ],
 [
 "Gellert Grindelwald",
-31
+31,
+[
+"Grindelwald",
+"Percival Graves"
+]
 ],
 [
 "Percy Weasley",
-31
+31,
+[
+"Percy Ignatius Weasley"
+]
 ],
 [
 "Charlie Weasley",
-31
+31,
+[
+"Charles Weasley"
+]
 ],
 [
 "Arthur Weasley",
-31
+31,
+[
+"Mr. Weasley"
+]
 ],
 [
 "Argus Filch",
-30
+30,
+[]
 ],
 [
 "Fleur Delacour",
-30
+30,
+[
+"Fleur Weasley"
+]
 ],
 [
 "Peter Pettigrew",
-29
+29,
+[
+"Scabbers",
+"Wormtail"
+]
 ],
 [
 "Dobby",
-29
+29,
+[]
 ],
 [
 "Moaning Myrtle",
-29
+29,
+[
+"Myrtle Elizabeth Warren",
+"Myrtle Warren"
+]
 ],
 [
 "Sybill Trelawney",
-29
+29,
+[
+"Professor Trelawney",
+"Sibyll Trelawney"
+]
 ],
 [
 "dementor",
-28
+28,
+[]
 ],
 [
 "Aberforth Dumbledore",
-28
+28,
+[]
 ],
 [
 "Cornelius Fudge",
-27
+27,
+[]
 ],
 [
 "Seamus Finnigan",
-27
+27,
+[]
 ],
 [
 "Godric Gryffindor",
-27
+27,
+[]
 ],
 [
 "Igor Karkaroff",
-26
+26,
+[]
 ],
 [
 "Regulus Black",
-26
+26,
+[
+"R.A.B.",
+"Regulus Arcturus Black"
+]
 ],
 [
 "Rowena Ravenclaw",
-26
+26,
+[]
 ],
 [
 "Vincent Crabbe",
-26
+26,
+[]
 ],
 [
 "Dean Thomas",
-26
+26,
+[]
 ],
 [
 "Lavender Brown",
-26
+26,
+[]
 ],
 [
 "Pansy Parkinson",
-26
+26,
+[]
 ],
 [
 "Gregory Goyle",
-25
+25,
+[]
 ],
 [
 "Rita Skeeter",
-25
+25,
+[]
 ],
 [
 "Kingsley Shacklebolt",
-25
+25,
+[]
 ],
 [
 "Dudley Dursley",
-25
+25,
+[]
 ],
 [
 "Olympe Maxime",
-24
+24,
+[
+"Madame Maxime"
+]
 ],
 [
 "Petunia Dursley",
-24
+24,
+[
+"Aunt Petunia",
+"Mrs. Dursley",
+"Petunia Evans",
+"Petunia Evans Dursley"
+]
 ],
 [
 "Parvati Patil",
-24
+24,
+[]
 ],
 [
 "Katie Bell",
-24
+24,
+[]
 ],
 [
 "Barty Crouch Jr.",
-24
+24,
+[
+"Bartemius \"Barty\" Crouch Jr.",
+"Bartemius Crouch Jr."
+]
 ],
 [
 "Vernon Dursley",
-23
+23,
+[
+"Mr. Dursley",
+"Uncle Vernon"
+]
 ],
 [
 "Fred Weasley",
-23
+23,
+[
+"Frederich Weasley"
+]
 ],
 [
 "George Weasley",
-23
+23,
+[]
 ],
 [
 "Helga Hufflepuff",
-23
+23,
+[]
 ],
 [
 "Fenrir Greyback",
-23
+23,
+[]
 ],
 [
 "Lee Jordan",
-23
+23,
+[]
 ],
 [
 "Rufus Scrimgeour",
-23
+23,
+[]
 ],
 [
 "Xenophilius Lovegood",
-22
+22,
+[
+"G. Lovegood"
+]
 ],
 [
 "Albus Severus Potter",
-22
+22,
+[
+"Albus Potter"
+]
 ],
 [
 "Angelina Johnson",
-22
+22,
+[]
 ],
 [
 "Arabella Figg",
-22
+22,
+[
+"Arabella Doreen Figg",
+"Mrs. Figg"
+]
 ],
 [
 "Armando Dippet",
-22
+22,
+[]
 ],
 [
 "Barty Crouch",
-21
+21,
+[
+"Bartemius Crouch",
+"Bartemius Crouch Sr.",
+"Barty Crouch Sr.",
+"G. Crouch"
+]
 ],
 [
 "Cuthbert Binns",
-21
+21,
+[
+"Professor Cuthbert Binns"
+]
 ],
 [
 "Mundungus Fletcher",
-21
+21,
+[
+"Dung"
+]
 ],
 [
 "Oliver Wood",
-21
+21,
+[]
 ],
 [
 "Hannah Abbott",
-21
+21,
+[
+"Hannah Longbottom"
+]
 ],
 [
 "Frank Longbottom",
-20
+20,
+[]
 ],
 [
 "Gabrielle Delacour",
-20
+20,
+[]
 ],
 [
 "Colin Creevey",
-20
+20,
+[]
 ],
 [
 "Peeves",
-20
+20,
+[
+"Peeves the Poltergeist"
+]
 ],
 [
 "Poppy Pomfrey",
-20
+20,
+[]
 ],
 [
 "Padma Patil",
-20
+20,
+[]
 ],
 [
 "Alice Longbottom",
-20
+20,
+[]
 ],
 [
 "Ariana Dumbledore",
-19
+19,
+[]
 ],
 [
 "Andromeda Tonks",
-19
+19,
+[
+"Andromeda Black",
+"Andromeda Black Tonks"
+]
 ],
 [
 "Rolanda Hooch",
-19
+19,
+[
+"Madam Hooch"
+]
 ],
 [
 "Garrick Ollivander",
-18
+18,
+[
+"Gospod Ollivander",
+"Ollivander"
+]
 ],
 [
 "Ernie Macmillan",
-18
+18,
+[
+"Ernest Macmillan"
+]
 ],
 [
 "Newt Scamander",
-18
+18,
+[
+"Newton Artemis Fido \"Newt\" Scamander",
+"Newton Artemis Fido Scamander",
+"Newton Scamander"
+]
 ],
 [
 "Phineas Nigellus Black",
-18
+18,
+[
+"Professor Black"
+]
 ],
 [
 "Bathilda Bagshot",
-18
+18,
+[]
 ],
 [
 "Alecto Carrow",
-18
+18,
+[]
 ],
 [
 "Romilda Vane",
-18
+18,
+[]
 ],
 [
 "Cormac McLaggen",
-18
+18,
+[]
 ],
 [
 "Nearly Headless Nick",
-18
+18,
+[
+"Sir Nicholas de Mimsy-Porpington"
+]
 ],
 [
 "Irma Pince",
-17
+17,
+[]
 ],
 [
 "Walden Macnair",
-17
+17,
+[]
 ],
 [
 "Amycus Carrow",
-17
+17,
+[]
 ],
 [
 "Buckbeak",
-17
+17,
+[
+"Witherwings"
+]
 ],
 [
 "Scorpius Malfoy",
-17
+17,
+[
+"Scorpius Hyperion Malfoy"
+]
 ],
 [
 "Kreacher",
-17
+17,
+[]
 ],
 [
 "Sorting Hat",
-17
+17,
+[]
 ],
 [
 "Frank Bryce",
-16
+16,
+[]
 ],
 [
 "Aragog",
-16
+16,
+[]
 ],
 [
 "Crookshanks",
-16
+16,
+[]
 ],
 [
 "Charity Burbage",
-16
+16,
+[]
 ],
 [
 "Rose Granger-Weasley",
-16
+16,
+[
+"Rose \"Rosie\" Granger-Weasley",
+"Rose Weasley",
+"Rosie Granger-Weasley"
+]
 ],
 [
 "Lily Luna Potter",
-16
+16,
+[
+"Lily L. Potter",
+"Lily Potter"
+]
 ],
 [
 "Helena Ravenclaw",
-16
+16,
+[
+"Grey Lady",
+"The Grey Lady"
+]
 ],
 [
 "Susan Bones",
-16
+16,
+[]
 ],
 [
 "Nagini",
-16
+16,
+[]
 ],
 [
 "Ludo Bagman",
-15
+15,
+[
+"Ludovic Bagman"
+]
 ],
 [
 "Dennis Creevey",
-15
+15,
+[]
 ],
 [
 "Morfin Gaunt",
-15
+15,
+[]
 ],
 [
 "Fawkes",
-15
+15,
+[]
 ],
 [
 "Ted Tonks",
-15
+15,
+[
+"Edward Tonks"
+]
 ],
 [
 "Hugo Granger-Weasley",
-15
+15,
+[
+"Hugo Weasley"
+]
 ],
 [
 "Alicia Spinnet",
-15
+15,
+[]
 ],
 [
 "Justin Finch-Fletchley",
-15
+15,
+[]
 ],
 [
 "Hedwig",
-15
+15,
+[]
 ],
 [
 "Bloody Baron",
-14
+14,
+[]
 ],
 [
 "Marge Dursley",
-14
+14,
+[
+"Aunt Marge",
+"Marjorie Dursley"
+]
 ],
 [
 "Madam Rosmerta",
-14
+14,
+[]
 ],
 [
 "Firenze",
-14
+14,
+[]
 ],
 [
 "Marietta Edgecombe",
-14
+14,
+[]
 ],
 [
 "James Sirius Potter",
-14
+14,
+[
+"James Potter",
+"James Potter II"
+]
 ],
 [
 "Terry Boot",
-13
+13,
+[]
 ],
 [
 "Zacharias Smith",
-13
+13,
+[]
 ],
 [
 "Michael Corner",
-13
+13,
+[]
 ],
 [
 "Amos Diggory",
-13
+13,
+[
+"Mr. Diggory"
+]
 ],
 [
 "Ted Lupin",
-13
+13,
+[
+"Edward Lupin",
+"Edward Remus Lupin",
+"Edward Remus \"Teddy\" Lupin",
+"Teddy Lupin"
+]
 ],
 [
 "Merope Gaunt",
-13
+13,
+[
+"Merope Riddle"
+]
 ],
 [
 "Elphias Doge",
-13
+13,
+[]
 ],
 [
 "Blaise Zabini",
-13
+13,
+[]
 ],
 [
 "Penelope Clearwater",
-12
+12,
+[]
 ],
 [
 "Augusta Longbottom",
-12
+12,
+[]
 ],
 [
 "Tom Riddle",
-12
+12,
+[
+"Tom Riddle Senior"
+]
 ],
 [
 "Marvolo Gaunt",
-12
+12,
+[
+"Orvoloson Gaunt"
+]
 ],
 [
 "Wilhelmina Grubbly-Plank",
-12
+12,
+[]
 ],
 [
 "Bertha Jorkins",
-12
+12,
+[]
 ],
 [
 "Grawp",
-12
+12,
+[]
 ],
 [
 "Pius Thicknesse",
-12
+12,
+[]
 ],
 [
 "Septima Vector",
-12
+12,
+[
+"Professor Vector"
+]
 ],
 [
 "Dedalus Diggle",
-12
+12,
+[]
 ],
 [
 "Anthony Goldstein",
-12
+12,
+[]
 ],
 [
 "Stan Shunpike",
-11
+11,
+[
+"Stanley Shunpike"
+]
 ],
 [
 "Antonin Dolohov",
-11
+11,
+[]
 ],
 [
 "Edgar Bones",
-11
+11,
+[]
 ],
 [
 "Rodolphus Lestrange",
-11
+11,
+[]
 ],
 [
 "Griphook",
-11
+11,
+[]
 ],
 [
 "The Fat Friar",
-11
+11,
+[
+"Fat Friar"
+]
 ],
 [
 "Mrs. Norris",
-10
+10,
+[
+"Mrs Norris"
+]
 ],
 [
 "Marlene McKinnon",
-10
+10,
+[]
 ],
 [
 "Fat Lady",
-10
+10,
+[
+"The Fat Lady"
+]
 ],
 [
 "Hepzibah Smith",
-10
+10,
+[]
 ],
 [
 "Amelia Bones",
-10
+10,
+[
+"Amelia Susan Bones"
+]
 ],
 [
 "Emmeline Vance",
-10
+10,
+[]
 ],
 [
 "Pigwidgeon",
-10
+10,
+[]
 ],
 [
 "Aurora Sinistra",
-10
+10,
+[
+"Profesor Sinistra"
+]
 ],
 [
 "Evan Rosier",
-10
+10,
+[]
 ],
 [
 "Millicent Bulstrode",
-10
+10,
+[]
 ],
 [
 "Walburga Black",
-10
+10,
+[
+"Mrs. Black"
+]
 ],
 [
 "Dilys Derwent",
-9
+9,
+[]
 ],
 [
 "Corban Yaxley",
-9
+9,
+[
+"Yaxley"
+]
 ],
 [
 "Niffler",
-9
+9,
+[]
 ],
 [
 "Whomping Willow",
-9
+9,
+[]
 ],
 [
 "Theodore Nott",
-8
+8,
+[
+"Theodore “Theo” Nott"
+]
 ],
 [
 "Rabastan Lestrange",
-8
+8,
+[]
 ],
 [
 "Victoire Weasley",
-8
+8,
+[]
 ],
 [
 "Nicolas Flamel",
-8
+8,
+[]
 ],
 [
 "Augustus Rookwood",
-8
+8,
+[
+"Rottenroll"
+]
 ],
 [
 "Norberta",
-8
+8,
+[
+"Norbert"
+]
 ],
 [
 "Dirk Cresswell",
-8
+8,
+[]
 ],
 [
 "Ignotus Peverell",
-8
+8,
+[]
 ],
 [
 "Kendra Dumbledore",
-8
+8,
+[]
 ],
 [
 "Dorcas Meadowes",
-7
+7,
+[]
 ],
 [
 "Albert Runcorn",
-7
+7,
+[]
 ],
 [
 "Winky",
-7
+7,
+[]
 ],
 [
 "Reginald Cattermole",
-7
+7,
+[
+"Reg Cattermole"
+]
 ],
 [
 "Antioch Peverell",
-7
+7,
+[]
 ],
 [
 "Marcus Flint",
-7
+7,
+[]
 ],
 [
 "Fluffy",
-7
+7,
+[]
 ],
 [
 "Percival Dumbledore",
-7
+7,
+[]
 ],
 [
 "Demelza Robins",
-6
+6,
+[]
 ],
 [
 "Sir Cadogan",
-6
+6,
+[]
 ],
 [
 "John Dawlish",
-6
+6,
+[
+"Dawlish"
+]
 ],
 [
 "Cadmus Peverell",
-6
+6,
+[]
 ],
 [
 "Orion Black",
-6
+6,
+[]
 ],
 [
 "Silvanus Kettleburn",
-6
+6,
+[]
 ],
 [
 "Eileen Prince",
-6
+6,
+[]
 ],
 [
 "Marcus Belby",
-5
+5,
+[]
 ],
 [
 "Roger Davies",
-5
+5,
+[]
 ],
 [
 "Ritchie Coote",
-5
+5,
+[]
 ],
 [
 "Galatea Merrythought",
-5
+5,
+[]
 ],
 [
 "Fang",
-5
+5,
+[]
 ],
 [
 "Piers Polkiss",
-5
+5,
+[]
 ],
 [
 "Florian Fortescue",
-5
+5,
+[
+"Florean Fortescue"
+]
 ],
 [
 "Broderick Bode",
-5
+5,
+[]
 ],
 [
 "Fridwulfa",
-5
+5,
+[]
 ],
 [
 "Jimmy Peakes",
-5
+5,
+[]
 ],
 [
 "Astoria Greengrass",
-5
+5,
+[
+"Harry Malfoy"
+]
 ],
 [
 "Mafalda Hopkirk",
-5
+5,
+[]
 ],
 [
 "gillyweed",
-5
+5,
+[]
 ],
 [
 "Kennilworthy Whisp",
-4
+4,
+[]
 ],
 [
 "Thorfinn Rowle",
-4
+4,
+[]
 ],
 [
 "Griselda Marchbanks",
-4
+4,
+[]
 ],
 [
 "Caractacus Burke",
-4
+4,
+[]
 ],
 [
 "Gregorovitch",
-4
+4,
+[
+"Mykew Gregorovitch"
+]
 ],
 [
 "Daphne Greengrass",
-4
+4,
+[]
 ],
 [
 "Abraxas Malfoy",
-4
+4,
+[]
 ],
 [
 "Ernie Prang",
-4
+4,
+[
+"Ernest Prang"
+]
 ],
 [
 "Delphini Riddle",
-4
+4,
+[
+"Delphini"
+]
 ],
 [
 "Porpentina Goldstein",
-4
+4,
+[
+"Porpentina Esther Goldstein",
+"Porpentina Esther Scamander",
+"Porpentina Scamander",
+"Tina Goldstein",
+"Tina Scamander"
+]
 ],
 [
 "Grogan Stump",
-4
+4,
+[]
 ],
 [
 "Nigel Wolpert",
-4
+4,
+[
+"Nigel Wespert"
+]
 ],
 [
 "Bob Ogden",
-4
+4,
+[]
 ],
 [
 "Gibbon",
-3
+3,
+[]
 ],
 [
 "Jack Sloper",
-3
+3,
+[]
 ],
 [
 "Selwyn",
-3
+3,
+[]
 ],
 [
 "Montague",
-3
+3,
+[]
 ],
 [
 "Eloise Midgen",
-3
+3,
+[]
 ],
 [
 "Bilius Weasley",
-3
+3,
+[]
 ],
 [
 "Blast-ended Skrewt",
-3
+3,
+[]
 ],
 [
 "Goyle senior",
-3
+3,
+[]
 ],
 [
 "Basilisk in the Chamber of Secrets",
-3
+3,
+[
+"Serpent of Slytherin"
+]
 ],
 [
 "Bane",
-3
+3,
+[]
 ],
 [
 "Jacob Kowalski",
-3
+3,
+[]
 ],
 [
 "Mosag",
-3
+3,
+[]
 ],
 [
 "Tobias Snape",
-3
+3,
+[]
 ],
 [
 "Dexter Fortescue",
-3
+3,
+[]
 ],
 [
 "Leta Lestrange",
-3
+3,
+[]
 ],
 [
 "Everard",
-3
+3,
+[]
 ],
 [
 "Artemisia Lufkin",
-3
+3,
+[]
 ],
 [
 "Avery",
-3
+3,
+[]
 ],
 [
 "Half-blood Prince",
-2
+2,
+[]
 ],
 [
 "Euan Abercrombie",
-2
+2,
+[]
 ],
 [
 "Andrew Kirke",
-2
+2,
+[]
 ],
 [
 "Natalie McDonald",
-2
+2,
+[]
 ],
 [
 "Mary Macdonald",
-2
+2,
+[]
 ],
 [
 "Eleanor Branstone",
-2
+2,
+[]
 ],
 [
 "Cadwallader",
-2
+2,
+[]
 ],
 [
 "Stebbins",
-2
+2,
+[]
 ],
 [
 "Summerby",
-2
+2,
+[]
 ],
 [
 "Kevin Whitby",
-2
+2,
+[]
 ],
 [
 "Rose Zeller",
-2
+2,
+[]
 ],
 [
 "Mandy Brocklehurst",
-2
+2,
+[]
 ],
 [
 "Eddie Carmichael",
-2
+2,
+[]
 ],
 [
 "Fawcett",
-2
+2,
+[
+"Miss Fawcett"
+]
 ],
 [
 "Lisa Turpin",
-2
+2,
+[]
 ],
 [
 "Malcolm Baddock",
-2
+2,
+[]
 ],
 [
 "Miles Bletchley",
-2
+2,
+[
+"Bletchley"
+]
 ],
 [
 "Bole",
-2
+2,
+[]
 ],
 [
 "Derrick",
-2
+2,
+[
+"Peregrine Derrick"
+]
 ],
 [
 "Harper",
-2
+2,
+[]
 ],
 [
 "Terence Higgs",
-2
+2,
+[]
 ],
 [
 "Adrian Pucey",
-2
+2,
+[]
 ],
 [
 "Vaisey",
-2
+2,
+[]
 ],
 [
 "Urquhart",
-2
+2,
+[]
 ],
 [
 "Warrington",
-2
+2,
+[
+"Cassius Warrington"
+]
 ],
 [
 "Bogrod",
-2
+2,
+[]
 ],
 [
 "Cecilia",
-2
+2,
+[]
 ],
 [
 "Araminta Meliflua",
-2
+2,
+[]
 ],
 [
 "Ronan",
-2
+2,
+[]
 ],
 [
 "Arnold",
-2
+2,
+[
+"Arnold the Pygmy Puff"
+]
 ],
 [
 "Hermes",
-2
+2,
+[]
 ],
 [
 "Trevor",
-2
+2,
+[
+"Trevor the toad"
+]
 ],
 [
 "Caradoc Dearborn",
-2
+2,
+[]
 ],
 [
 "Benjy Fenwick",
-2
+2,
+[]
 ],
 [
 "Hestia Jones",
-2
+2,
+[]
 ],
 [
 "Sturgis Podmore",
-2
+2,
+[]
 ],
 [
 "Fabian Prewett",
-2
+2,
+[]
 ],
 [
 "Gideon Prewett",
-2
+2,
+[]
 ],
 [
 "Mulciber",
-2
+2,
+[]
 ],
 [
 "Nott",
-2
+2,
+[
+"Mr Nott"
+]
 ],
 [
 "Travers",
-2
+2,
+[]
 ],
 [
 "Wilkes",
-2
+2,
+[]
 ],
 [
 "Errol",
-2
+2,
+[]
 ],
 [
 "Herpo the Foul",
-2
+2,
+[]
 ],
 [
 "Millicent Bagnold",
-2
+2,
+[]
 ],
 [
 "Dominique Weasley",
-2
+2,
+[]
 ],
 [
 "Louis Weasley",
-2
+2,
+[]
 ],
 [
 "Elladora Black",
-2
+2,
+[]
 ],
 [
 "Queenie Goldstein",
-2
+2,
+[]
 ],
 [
 "Credence Barebone",
-2
+2,
+[
+"Avrelius Dumbledore"
+]
 ],
 [
 "Herbert Beery",
-2
+2,
+[]
 ],
 [
 "Owen Cauldwell",
-2
+2,
+[]
 ],
 [
 "Damocles Rowle",
-1
+1,
+[]
 ],
 [
 "Hokey",
-1
+1,
+[]
 ],
 [
 "Rolf Scamander",
-1
+1,
+[]
 ],
 [
 "Barny Weasley",
-1
+1,
+[]
 ],
 [
 "Casper Diligent",
-1
+1,
+[]
 ],
 [
 "Roderick Plumpton",
-1
+1,
+[]
 ],
 [
 "Pollux Black",
-1
+1,
+[]
 ],
 [
 "Borgin",
-1
+1,
+[
+"Mr Borgin",
+"Mr. Borgin"
+]
 ],
 [
 "Tofty",
-1
+1,
+[
+"Professor Tofty"
+]
 ],
 [
 "Muriel",
-1
+1,
+[
+"Auntie Muriel",
+"Great-Auntie Muriel"
+]
 ],
 [
 "Gawain Robards",
-1
+1,
+[]
 ],
 [
 "Evangeline Orpington",
-1
+1,
+[]
 ],
 [
 "Faris Spavin",
-1
+1,
+[
+"Spout-Hole"
+]
 ],
 [
 "Nobby Leach",
-1
+1,
+[]
 ],
 [
 "Roxanne Weasley",
-1
+1,
+[]
 ],
 [
 "Cygnus Black III",
-1
+1,
+[]
 ],
 [
 "Dorea Black",
-1
+1,
+[]
 ],
 [
 "Daisy Dodderidge",
-1
+1,
+[]
 ],
 [
 "Emeric the Evil",
-1
+1,
+[]
 ],
 [
 "Petrova Porskoff",
-1
+1,
+[]
 ],
 [
 "Ethelred the Ever-Ready",
-1
+1,
+[]
 ],
 [
 "Frank",
-1
+1,
+[
+"Frank (thunderbird)"
+]
 ],
 [
 "Wrackspurt",
-1
+1,
+[]
 ],
 [
 "Theseus Scamander",
-1
+1,
+[]
 ],
 [
 "Mr. Granger",
-1
+1,
+[
+"Wendell Wilkins"
+]
 ],
 [
 "Mrs. Granger",
-1
+1,
+[
+"Monica Wilkins"
+]
 ],
 [
 "Harry James Potter-Evans-Verres",
-1
+1,
+[]
 ],
 [
 "Albert Boot",
-1
+1,
+[]
 ],
 [
 "Archer Evermonde",
-1
+1,
+[]
 ],
 [
 "Basil Flack",
-1
+1,
+[]
 ],
 [
 "Dugald McPhail",
-1
+1,
+[]
 ],
 [
 "Eldritch Diggory",
-1
+1,
+[]
 ],
 [
 "Eugenia Jenkins",
-1
+1,
+[]
 ],
 [
 "Harold Minchum",
-1
+1,
+[]
 ],
 [
 "Hector Fawley",
-1
+1,
+[]
 ],
 [
 "Hesphaestus Gore",
-1
+1,
+[]
 ],
 [
 "Hortensia Milliphutt",
-1
+1,
+[]
 ],
 [
 "Ignatius Tuft",
-1
+1,
+[]
 ],
 [
 "Josephina Flint",
-1
+1,
+[]
 ],
 [
 "Leonard Spencer-Moon",
-1
+1,
+[]
 ],
 [
 "Lorcan McLaird",
-1
+1,
+[]
 ],
 [
 "Maximilian Crowdy",
-1
+1,
+[]
 ],
 [
 "Ottaline Gambol",
-1
+1,
+[]
 ],
 [
 "Perseus Parkinson",
-1
+1,
+[]
 ],
 [
 "Porteus Knatchbull",
-1
+1,
+[]
 ],
 [
 "Priscilla Dupont",
-1
+1,
+[]
 ],
 [
 "Ulick Gamp",
-1
+1,
+[]
 ],
 [
 "Unctuous Osbert",
-1
+1,
+[]
 ],
 [
 "Venusia Crickerly",
-1
+1,
+[]
 ],
 [
 "Wilhelmina Tuft",
-1
+1,
+[]
 ],
 [
 "Radolphus Lestrange",
-1
+1,
+[]
 ],
 [
 "Cassandra Trelawney",
-1
+1,
+[]
 ],
 [
 "Gwenog Jones",
-0
+0,
+[]
 ],
 [
 "Eldred Worple",
-0
+0,
+[]
 ],
 [
 "Ripper",
-0
+0,
+[]
 ],
 [
 "Heir of Slytherin",
-0
+0,
+[]
 ],
 [
 "Bertie Bott",
-0
+0,
+[]
 ],
 [
 "Hippocrates Smethwyck",
-0
+0,
+[
+"Healer Smethwyck"
+]
 ],
 [
 "Tracey Davis",
-0
+0,
+[
+"Tracy Davis"
+]
 ],
 [
 "Blaise Zabini's mother",
-0
+0,
+[
+"Mrs Zabini",
+"Mrs. Zabini"
+]
 ],
 [
 "Apolline Delacour",
-0
+0,
+[
+"Madame Delacour"
+]
 ],
 [
 "Fay Dunbar",
-0
+0,
+[]
 ],
 [
 "Abraham Potter",
-0
+0,
+[]
 ],
 [
 "Augustus Worme",
-0
+0,
+[]
 ],
 [
 "Apollyon Pringle",
-0
+0,
+[]
 ],
 [
 "Armand Malfoy",
-0
+0,
+[]
 ],
 [
 "Ryan",
-0
+0,
+[
+"Barry Ryan"
+]
 ],
 [
 "Billy Stubbs",
-0
+0,
+[]
 ],
 [
 "Blenheim Stalk",
-0
+0,
+[]
 ],
 [
 "Henry Potter",
-0
+0,
+[]
 ],
 [
 "Golgomath",
-0
+0,
+[]
 ],
 [
 "Gondoline Oliphant",
-0
+0,
+[]
 ],
 [
 "Honoria",
-0
+0,
+[]
 ],
 [
 "Gulliver Pokeby",
-0
+0,
+[]
 ],
 [
 "D. J. Prod",
-0
+0,
+[]
 ],
 [
 "Damocles",
-0
+0,
+[
+"Damocles Belby"
+]
 ],
 [
 "Dennis Bishop",
-0
+0,
+[]
 ],
 [
 "Derwent Shimpling",
-0
+0,
+[]
 ],
 [
 "Gemma Farley",
-0
+0,
+[]
 ],
 [
 "Jocunda Sykes",
-0
+0,
+[]
 ],
 [
 "Dr Filibuster",
-0
+0,
+[
+"Doctor Filibuster",
+"Filibuster"
+]
 ],
 [
 "Dougal McGregor",
-0
+0,
+[]
 ],
 [
 "Eupraxia Mole",
-0
+0,
+[]
 ],
 [
 "Arsenius Jigger",
-0
+0,
+[]
 ],
 [
 "Yvonne",
-0
+0,
+[]
 ],
 [
 "Ignatia Wildsmith",
-0
+0,
+[]
 ],
 [
 "Isobel Ross",
-0
+0,
+[
+"Isobel McGonagall"
+]
 ],
 [
 "Isolt Sayre",
-0
+0,
+[
+"Isolt Steward"
+]
 ],
 [
 "Iolanthe Peverell",
-0
+0,
+[
+"Iolanthe Potter"
+]
 ],
 [
 "Yann Fredericks",
-0
+0,
+[]
 ],
 [
 "Cantankerus Nott",
-0
+0,
+[]
 ],
 [
 "Karl Jenkins",
-0
+0,
+[]
 ],
 [
 "Quentin Trimble",
-0
+0,
+[]
 ],
 [
 "Kirley",
-0
+0,
+[]
 ],
 [
 "Corvinus Gaunt",
-0
+0,
+[
+"Corvinus"
+]
 ],
 [
 "Potters' cat",
-0
+0,
+[
+"Potter family cat"
+]
 ],
 [
 "Craig Bowker Jr.",
-0
+0,
+[
+"Craig",
+"Craig Bowker"
+]
 ],
 [
 "Lyall Lupin",
-0
+0,
+[]
 ],
 [
 "Lancelot",
-0
+0,
+[]
 ],
 [
 "Lestrange",
-0
+0,
+[]
 ],
 [
 "Moon",
-0
+0,
+[
+"Lily Moon"
+]
 ],
 [
 "Linfred of Stinchcombe",
-0
+0,
+[
+"the Potterer"
+]
 ],
 [
 "Luc Millefeuille",
-0
+0,
+[]
 ],
 [
 "Lucius Malfoy I",
-0
+0,
+[
+"the first Lucius Malfoy"
+]
 ],
 [
 "Madame Bonhabille",
-0
+0,
+[
+"Bonhabille"
+]
 ],
 [
 "Z. Nettles",
-0
+0,
+[
+"Madam Z. Nettles"
+]
 ],
 [
 "Maximus Brankovitch III",
-0
+0,
+[]
 ],
 [
 "Malcolm McGonagall",
-0
+0,
+[]
 ],
 [
 "Melinda Bobbin",
-0
+0,
+[]
 ],
 [
 "Miranda Goshawk",
-0
+0,
+[]
 ],
 [
 "Mrs Cole",
-0
+0,
+[
+"Mrs. Cole"
+]
 ],
 [
 "Mrs. Crouch",
-0
+0,
+[
+"Barty Crouch Jr.'s mother"
+]
 ],
 [
 "Gilderoy Lockhart's mother",
-0
+0,
+[]
 ],
 [
 "Morag MacDougal",
-0
+0,
+[]
 ],
 [
 "Moran",
-0
+0,
+[]
 ],
 [
 "Monsieur Delacour",
-0
+0,
+[]
 ],
 [
 "Mrs. Riddle",
-0
+0,
+[
+"Mary Riddle",
+"Mrs Riddle"
+]
 ],
 [
 "Nicholas Malfoy",
-0
+0,
+[]
 ],
 [
 "Olive Hornby",
-0
+0,
+[]
 ],
 [
 "Orford Umbridge",
-0
+0,
+[]
 ],
 [
 "Pandora Lovegood",
-0
+0,
+[]
 ],
 [
 "Perenelle Flamel",
-0
+0,
+[]
 ],
 [
 "Polly Chapman",
-0
+0,
+[]
 ],
 [
 "Ralston Potter",
-0
+0,
+[]
 ],
 [
 "Rionach",
-0
+0,
+[]
 ],
 [
 "Robert McGonagall Jr.",
-0
+0,
+[
+"Robert Junior",
+"Robert McGonagall"
+]
 ],
 [
 "Robert McGonagall",
-0
+0,
+[
+"Reverend Robert McGonagall",
+"Robert McGonagall Sr."
+]
 ],
 [
 "Robert Hilliard",
-0
+0,
+[]
 ],
 [
 "Roger Malone",
-0
+0,
+[]
 ],
 [
 "Rosier",
-0
+0,
+[]
 ],
 [
 "Sally Smith",
-0
+0,
+[]
 ],
 [
 "Sally-Anne Perks",
-0
+0,
+[]
 ],
 [
 "Sanguini",
-0
+0,
+[]
 ],
 [
 "Celestina Warbeck",
-0
+0,
+[
+"the Singing Sorceress"
+]
 ],
 [
 "Septimus Malfoy",
-0
+0,
+[]
 ],
 [
 "Scabior",
-0
+0,
+[]
 ],
 [
 "Death",
-0
+0,
+[]
 ],
 [
 "Saul Croaker",
-0
+0,
+[
+"Croaker",
+"Professor Croaker"
+]
 ],
 [
 "Sophie Roper",
-0
+0,
+[]
 ],
 [
 "Tom",
-0
+0,
+[
+"Tom the barman",
+"Tom the innkeeper"
+]
 ],
 [
 "Mr. Riddle",
-0
+0,
+[
+"Mr Riddle",
+"Thomas Riddle"
+]
 ],
 [
 "William Sayre",
-0
+0,
+[]
 ],
 [
 "Phyllida Spore",
-0
+0,
+[]
 ],
 [
 "Fleamont Potter",
-0
+0,
+[]
 ],
 [
 "Flora Buchanan",
-0
+0,
+[]
 ],
 [
 "Harvey Ridgebit",
-0
+0,
+[]
 ],
 [
 "Hardwin Potter",
-0
+0,
+[]
 ],
 [
 "Hope Howell",
-0
+0,
+[
+"Hope Lupin"
+]
 ],
 [
 "Hamish Buchanan",
-0
+0,
+[]
 ],
 [
 "Chambers",
-0
+0,
+[]
 ],
 [
 "Carlotta Pinkstone",
-0
+0,
+[]
 ],
 [
 "Aidan Lynch",
-0
+0,
+[]
 ],
 [
 "Algie",
-0
+0,
+[
+"Algie Longbottom",
+"Great-uncle Algie"
+]
 ],
 [
 "Ellen Cracknell",
-0
+0,
+[]
 ],
 [
 "Eloise Mintumble",
-0
+0,
+[]
 ],
 [
 "Elphinstone Urquart",
-0
+0,
+[]
 ],
 [
 "Amy Benson",
-0
+0,
+[]
 ],
 [
 "Enid",
-0
+0,
+[
+"Enid Longbottom",
+"Great-auntie Enid"
+]
 ],
 [
 "Euphemia Potter",
-0
+0,
+[]
 ],
 [
 "Euphemia Rowle",
-0
+0,
+[]
 ],
 [
 "Janus Thickey",
-0
+0,
+[]
 ],
 [
 "Abernathy",
-0
+0,
+[]
 ],
 [
 "Anton Vogel",
-0
+0,
+[]
 ],
 [
 "Aristotle Twelvetrees",
-0
+0,
+[]
 ],
 [
 "Arnold Guzman",
-0
+0,
+[]
 ],
 [
 "Bunty Broadacre",
-0
+0,
+[
+"Bunty"
+]
 ],
 [
 "Bartholomew Barebone",
-0
+0,
+[]
 ],
 [
 "Vinda Rosier",
-0
+0,
+[]
 ],
 [
 "Vicência Santos",
-0
+0,
+[
+"Vicencia Santos"
+]
 ],
 [
 "Helmut",
-0
+0,
+[]
 ],
 [
 "Gondulphus Graves",
-0
+0,
+[]
 ],
 [
 "Grimmson",
-0
+0,
+[]
 ],
 [
 "Dorcus Twelvetrees",
-0
+0,
+[]
 ],
 [
 "Irma Dugard",
-0
+0,
+[]
 ],
 [
 "Corvus Lestrange",
-0
+0,
+[
+"Corvus Lestrange IV",
+"Corvus Lestrange V"
+]
 ],
 [
 "Krafft",
-0
+0,
+[]
 ],
 [
 "Krall",
-0
+0,
+[]
 ],
 [
 "Liu Tao",
-0
+0,
+[]
 ],
 [
 "Modesty Barebone",
-0
+0,
+[]
 ],
 [
 "Mungo MacDuff",
-0
+0,
+[]
 ],
 [
 "Mary Lou Barebone",
-0
+0,
+[]
 ],
 [
 "Nagel",
-0
+0,
+[]
 ],
 [
 "Pickett",
-0
+0,
+[]
 ],
 [
 "Spielman",
-0
+0,
+[]
 ],
 [
 "Skender",
-0
+0,
+[]
 ],
 [
 "Tycho Dodonus",
-0
+0,
+[]
 ],
 [
 "Torquil Travers",
-0
+0,
+[]
 ],
 [
 "Emily Rappaport",
-0
+0,
+[]
 ],
 [
 "Lally Hicks",
-0
+0,
+[
+"Eulalie Hicks",
+"Eulalie 'Lally' Hicks"
+]
 ],
 [
 "Yusuf Kama",
-0
+0,
+[]
 ],
 [
 "Ivy Warrington",
-0
+0,
+[]
 ],
 [
 "Daniel Page",
-0
+0,
+[]
 ],
 [
 "Cassandra Vole",
-0
+0,
+[]
 ],
 [
 "Kevin Farrell",
-0
+0,
+[]
 ],
 [
 "Crescent Flump",
-0
+0,
+[]
 ],
 [
 "Lottie Turner",
-0
+0,
+[]
 ],
 [
 "Merula Snyde",
-0
+0,
+[]
 ],
 [
 "Murphy McNully",
-0
+0,
+[]
 ],
 [
 "Orion Amari",
-0
+0,
+[]
 ],
 [
 "Penny Haywood",
-0
+0,
+[]
 ],
 [
 "Robyn Thistlethwaite",
-0
+0,
+[]
 ],
 [
 "Rowan Khanna",
-0
+0,
+[]
 ],
 [
 "Skye Parkin",
-0
+0,
+[]
 ],
 [
 "Tulip Karasu",
-0
+0,
+[]
 ],
 [
 "Fischer Frey",
-0
+0,
+[]
 ],
 [
 "Wendelin the Weird",
-0
+0,
+[]
 ],
 [
 "Verity",
-0
+0,
+[]
 ],
 [
 "Vicky Frobisher",
-0
+0,
+[]
 ],
 [
 "Vindictus Viridian",
-0
+0,
+[]
 ],
 [
 "Bradley",
-0
+0,
+[]
 ],
 [
 "Brutus Malfoy",
-0
+0,
+[]
 ],
 [
 "Mr. Evans",
-0
+0,
+[]
 ],
 [
 "Mrs. Evans",
-0
+0,
+[]
 ],
 [
 "Septimus Weasley",
-0
+0,
+[]
 ],
 [
 "Cedrella Black",
-0
+0,
+[
+"Cedrella Weasley"
+]
 ],
 [
 "Callidora Black",
-0
+0,
+[
+"Callidora Longbottom"
+]
 ],
 [
 "Harfang Longbottom",
-0
+0,
+[]
 ],
 [
 "Charis Black",
-0
+0,
+[]
 ],
 [
 "Caspar Crouch",
-0
+0,
+[]
 ],
 [
 "Arcturus Black",
-0
+0,
+[]
 ],
 [
 "Lysandra Yaxley",
-0
+0,
+[]
 ],
 [
 "Ursula Flint",
-0
+0,
+[
+"Ursula Black"
+]
 ],
 [
 "Fred Weasley II",
-0
+0,
+[]
 ],
 [
 "Belvina Black",
-0
+0,
+[]
 ],
 [
 "Cygnus Black II",
-0
+0,
+[]
 ],
 [
 "Phineas Black",
-0
+0,
+[]
 ],
 [
 "Sirius Black II",
-0
+0,
+[]
 ],
 [
 "Sirius Black I",
-0
+0,
+[
+"Sirius Black"
+]
 ],
 [
 "Isla Black",
-0
+0,
+[]
 ],
 [
 "Bob Hitchens",
-0
+0,
+[]
 ],
 [
 "Herbert Burke",
-0
+0,
+[]
 ],
 [
 "Druella Rosier",
-0
+0,
+[]
 ],
 [
 "Melania Macmillan",
-0
+0,
+[
+"Melania Black"
+]
 ],
 [
 "Cygnus Black I",
-0
+0,
+[]
 ],
 [
 "Arcturus Black III",
-0
+0,
+[]
 ],
 [
 "Lucretia Black",
-0
+0,
+[]
 ],
 [
 "Lycoris Black",
-0
+0,
+[]
 ],
 [
 "Hesper Gamp",
-0
+0,
+[
+"Hesper Black"
+]
 ],
 [
 "Regulus Black I",
-0
+0,
+[]
 ],
 [
 "Alphard Black",
-0
+0,
+[]
 ],
 [
 "Irma Crabbe",
-0
+0,
+[
+"Irma Black"
+]
 ],
 [
 "Violetta Bulstrode",
-0
+0,
+[]
 ],
 [
 "Cassiopeia Black",
-0
+0,
+[]
 ],
 [
 "Charlus Potter",
-0
+0,
+[]
 ],
 [
 "Marius Black",
-0
+0,
+[]
 ],
 [
 "Beedle the Bard",
-0
+0,
+[]
 ],
 [
 "Ignatius Prewett",
-0
+0,
+[]
 ],
 [
 "King Ragnuk the First",
-0
+0,
+[]
 ],
 [
 "Barberus Bragge",
-0
+0,
+[]
 ],
 [
 "Bowman Wright",
-0
+0,
+[]
 ],
 [
 "Barnabas Cuffe",
-0
+0,
+[]
 ],
 [
 "Pierre Bonaccord",
-0
+0,
+[]
 ],
 [
 "Babajide Akingbade",
-0
+0,
+[]
 ],
 [
 "Sidley Smirk Platter",
-0
+0,
+[
+"Sir Sidley Smirk Platter"
+]
 ],
 [
 "Cottismore Croyne",
-0
+0,
+[]
 ],
 [
 "Seraphina Picquery",
-0
+0,
+[]
 ],
 [
 "Ogg",
-0
+0,
+[]
 ],
 [
 "Raczidian",
-0
+0,
+[]
 ]
 ]

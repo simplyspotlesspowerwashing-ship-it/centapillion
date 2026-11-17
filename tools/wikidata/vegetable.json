@@ -1,886 +1,3208 @@
 [
 [
 "Allium sativum",
-189
+189,
+[
+"allium sativum",
+"garlic",
+"garlic plant",
+"hardneck garlic",
+"softneck garlic"
+]
 ],
 [
 "sweet potato",
-152
+152,
+[
+"sweet potatoes"
+]
 ],
 [
 "carrot",
-151
+151,
+[
+"carrot taproot",
+"domesticated carrot"
+]
 ],
 [
 "Spinacia oleracea",
-140
+140,
+[
+"spinach",
+"spinach plant"
+]
 ],
 [
 "pumpkin",
-128
+128,
+[
+"MbMB",
+"Telfairia ocbu 8cidentalis vine,"
+]
 ],
 [
 "Lactuca sativa",
-127
+127,
+[
+"lettuce"
+]
 ],
 [
 "Colocasia esculenta",
-112
+112,
+[
+"dasheen",
+"godere",
+"kalo",
+"Olhuala",
+"taro"
+]
 ],
 [
 "broccoli",
-111
+111,
+[
+"Brassica oleracea italica",
+"Brassica oleracea var. italica",
+"Broccoli"
+]
 ],
 [
 "leek",
-97
+97,
+[
+"leeks"
+]
 ],
 [
 "turnip",
-97
+97,
+[
+"neep",
+"summer turnip",
+"white turnip"
+]
 ],
 [
 "Camellia sinensis",
-95
+95,
+[
+"tea",
+"tea plant",
+"tea shrub"
+]
 ],
 [
 "Kimchi",
-86
+86,
+[
+"Korean kimchi"
+]
 ],
 [
 "globe artichoke",
-84
+84,
+[
+"artichoke",
+"artichokes"
+]
 ],
 [
 "yam",
-73
+73,
+[]
 ],
 [
 "bell pepper",
-68
+68,
+[
+"pepper",
+"sweet pepper",
+"sweet peppers"
+]
 ],
 [
 "beet",
-67
+67,
+[
+"Beetroot",
+"Beets",
+"Beta vulgaris subsp. vulgaris Conditiva Group",
+"beet green",
+"beet greens",
+"beet leaf",
+"beet leaves",
+"beet root",
+"beetroot",
+"beetroot leaf",
+"beetroot leaves",
+"garden beet",
+"red beet",
+"table beet"
+]
 ],
 [
 "potato",
-67
+67,
+[
+"spud"
+]
 ],
 [
 "Welsh onion",
-66
+66,
+[
+"Allium fistulosum",
+"bunching onion",
+"green onion",
+"scallion"
+]
 ],
 [
 "zucchini",
-60
+60,
+[
+"baby marrow",
+"courgette",
+"Cucurbita pepo var. cylindrica"
+]
 ],
 [
 "kale",
-53
+53,
+[
+"borecole",
+"Brassica oleracea L. Acephala",
+"Brassica oleracea L. var. viridis L."
+]
 ],
 [
 "pickled cucumber",
-52
+52,
+[
+"cornichon",
+"cucumber pickle",
+"pickle"
+]
 ],
 [
 "root vegetable",
-51
+51,
+[
+"culinary root",
+"medicinal root",
+"root as food",
+"root crops",
+"root vegetables"
+]
 ],
 [
 "Brassica rapa subsp. chinensis",
-49
+49,
+[
+"bok choy",
+"Bok choy",
+"bok choy plant",
+"Brassica chinensis",
+"Brassica rapa Pak Choi Group",
+"Pak choi",
+"Shanghai Green"
+]
 ],
 [
 "Napa cabbage",
-47
+47,
+[
+"Brassica rapa subsp. pekinensis",
+"Chinese cabbage",
+"Chinese leaf",
+"pe-tsai",
+"petsai",
+"Pe tsay",
+"wombok"
+]
 ],
 [
 "green bean",
-47
+47,
+[
+"filet bean",
+"fine bean",
+"french green bean",
+"snap bean",
+"string bean"
+]
 ],
 [
 "red cabbage",
-43
+43,
+[
+"Cabbage, red, raw"
+]
 ],
 [
 "scallion",
-43
+43,
+[
+"baby onion",
+"bunch onion",
+"green onion",
+"green shallot",
+"long onion",
+"onion stick",
+"precious onion",
+"salad onion",
+"spring onion",
+"yard onion"
+]
 ],
 [
 "celery",
-42
+42,
+[
+"Chinese celery",
+"leaf celery"
+]
 ],
 [
 "melon",
-42
+42,
+[
+"melon fruit",
+"melons"
+]
 ],
 [
 "leaf vegetable",
-39
+39,
+[
+"greens",
+"leaf vegetables",
+"leafy greens",
+"pot herbs",
+"salad greens",
+"vegetable greens"
+]
 ],
 [
 "Romanesco broccoli",
-35
+35,
+[
+"Broccoflower",
+"Broccolo Romanesco",
+"Roman cauliflower",
+"Romanesco",
+"Romanesque cauliflower"
+]
 ],
 [
 "umeboshi",
-34
+34,
+[]
 ],
 [
 "torshi",
-34
+34,
+[]
 ],
 [
 "achar",
-34
+34,
+[
+"Indian pickle",
+"Nepali pickle",
+"Pakistani pickle",
+"South Asian pickle"
+]
 ],
 [
 "sprouting",
-32
+32,
+[
+"sprouts"
+]
 ],
 [
 "kombu",
-32
+32,
+[
+"昆布"
+]
 ],
 [
 "gourd",
-32
+32,
+[
+"squash",
+"squash (plant)"
+]
 ],
 [
 "cherry tomato",
-31
+31,
+[
+"Lycopersicon esculentum var. cerasiforme",
+"Lycopersicon lycopersicum var. cerasiforme",
+"Solanum lycopersicum var. cerasiforme"
+]
 ],
 [
 "black garlic",
-29
+29,
+[]
 ],
 [
 "tsukemono",
-29
+29,
+[
+"Japanese pickles",
+"konomono",
+"okōkō",
+"oshinko"
+]
 ],
 [
 "mung bean sprout",
-29
+29,
+[
+"sukjunamul"
+]
 ],
 [
 "gari",
-27
+27,
+[
+"pickled ginger",
+"sushi ginger"
+]
 ],
 [
 "pattypan squash",
-27
+27,
+[
+"Cucurbita pepo var. clypeata"
+]
 ],
 [
 "galangal",
-25
+25,
+[]
 ],
 [
 "honeydew",
-23
+23,
+[
+"Cucumis melo var. inodorus",
+"honeydew melon",
+"honeymelon",
+"Inodorus Group"
+]
 ],
 [
 "grape leaves",
-23
+23,
+[
+"stuffed grape leaf",
+"Vinblad"
+]
 ],
 [
 "radicchio",
-23
+23,
+[
+"Italian chicory"
+]
 ],
 [
 "pomato",
-22
+22,
+[
+"tomato-potato hybrid"
+]
 ],
 [
 "watermelon",
-22
+22,
+[]
 ],
 [
 "Spaghetti squash",
-21
+21,
+[]
 ],
 [
 "microgreen",
-21
+21,
+[
+"microgreens"
+]
 ],
 [
 "takuan",
-21
+21,
+[
+"takuwan"
+]
 ],
 [
 "preserved lemon",
-20
+20,
+[
+"lemon pickle"
+]
 ],
 [
 "fiddlehead fern",
-20
+20,
+[
+"fiddlehead greens",
+"fiddleheads"
+]
 ],
 [
 "beni shōga",
-19
-],
+19,
 [
-"ginger",
-18
-],
-[
-"tomato",
-18
-],
-[
-"cucumber",
-18
-],
-[
-"Gulkand",
-18
+"beni-shōga",
+"benishōga"
+]
 ],
 [
 "red onion",
-18
+18,
+[
+"Bombay onion",
+"purple onion"
+]
+],
+[
+"ginger",
+18,
+[
+"ginger rhizome",
+"ginger root",
+"ginger spice"
+]
+],
+[
+"tomato",
+18,
+[
+"🍅",
+"love apple",
+"tomatoes"
+]
+],
+[
+"cucumber",
+18,
+[
+"cucumbers",
+"cuke"
+]
+],
+[
+"Gulkand",
+18,
+[
+"Gulqand"
+]
 ],
 [
 "square watermelon",
-17
+17,
+[
+"cube watermelon"
+]
 ],
 [
 "Chinese cabbage",
-17
+17,
+[
+"bok choy",
+"napa",
+"pak choi"
+]
 ],
 [
 "butternut squash",
-17
+17,
+[
+"butternut pumpkin"
+]
 ],
 [
 "sun-dried tomato",
-17
+17,
+[
+"sundried tomato"
+]
 ],
 [
 "Padrón peppers",
-16
+16,
+[
+"Padron peppers"
+]
 ],
 [
 "onion",
-16
+16,
+[
+"onion as food",
+"onions"
+]
 ],
 [
 "Dioscorea trifida",
-16
+16,
+[
+"cush-cush",
+"Indian yam",
+"inhame",
+"mapuey",
+"ñame",
+"ñampi",
+"sacha papa",
+"tabena",
+"yampee"
+]
 ],
 [
 "Salzgurke",
-15
+15,
+[
+"Kovászos uborka",
+"sour pickles"
+]
 ],
 [
 "kkakdugi",
-15
+15,
+[
+"diced radish kimchi"
+]
 ],
 [
 "white cabbage",
-14
+14,
+[]
 ],
 [
 "Flavr Savr",
-14
+14,
+[]
 ],
 [
 "pickle",
-14
+14,
+[
+"pickled food",
+"pickled vegetable",
+"pickles"
+]
 ],
 [
 "pickled onion",
-14
+14,
+[]
 ],
 [
 "Japanese radish",
-14
+14,
+[
+"daikon"
+]
 ],
 [
 "calçot",
-14
+14,
+[]
 ],
 [
 "Cucurbita pepo subsp. pepo",
-14
+14,
+[
+"Cucurbita pepo pepo",
+"marrow"
+]
 ],
 [
 "canned tomato",
-14
+14,
+[
+"canned tomatoes",
+"tinned tomato",
+"tinned tomatoes"
+]
 ],
 [
 "kabocha",
-13
+13,
+[
+"kabocha squash"
+]
 ],
 [
 "suan cai",
-13
+13,
+[
+"suancai",
+"suan tsai"
+]
 ],
 [
 "pearl onion",
-13
+13,
+[]
 ],
 [
 "plum tomato",
-13
+13,
+[
+"paste tomato"
+]
 ],
 [
 "Dongchimi",
-13
+13,
+[]
 ],
 [
 "Cladosiphon okamuranus",
-12
+12,
+[
+"Okinawa-Mozuku"
+]
 ],
 [
 "soybean sprout",
-12
+12,
+[
+"bean sprouts",
+"kongnamul",
+"soybean sprouts"
+]
 ],
 [
 "San Marzano tomato",
-12
+12,
+[]
 ],
 [
 "beefsteak tomato",
-12
+12,
+[
+"Beefsteak tomato",
+"beef tomato"
+]
 ],
 [
 "Brassica oleracea var. palmifolia",
-12
+12,
+[
+"black kale",
+"cavolo nero",
+"dinosaur kale",
+"Italian kale",
+"lacinato kale",
+"Tuscan cabbage",
+"Tuscan kale"
+]
 ],
 [
 "garlic",
-12
+12,
+[
+"bulb of garlic",
+"head of garlic"
+]
 ],
 [
 "cereal legume",
-12
+12,
+[]
 ],
 [
 "mixed pickle",
-12
+12,
+[
+"mixed pickles"
+]
 ],
 [
 "winter squash",
-12
+12,
+[]
 ],
 [
 "Sichuan pickles",
-11
+11,
+[
+"pao cai",
+"Sichuan Pao Cai",
+"Szechuan pickles",
+"Szechwan pickles"
+]
 ],
 [
 "puntarelle",
-11
+11,
+[]
 ],
 [
 "Fukujinzuke",
-11
+11,
+[]
 ],
 [
 "salt potatoes",
-11
+11,
+[
+"boiled potatoes"
+]
 ],
 [
 "Galia",
-11
+11,
+[
+"Galia melon",
+"sarda"
+]
 ],
 [
 "asazuke",
-11
+11,
+[]
 ],
 [
 "solo garlic",
-11
+11,
+[
+"monobulb garlic",
+"pearl garlic",
+"single bulb garlic",
+"single clove garlic"
+]
 ],
 [
 "Spreewald gherkins",
-11
+11,
+[]
 ],
 [
 "pointed cabbage",
-11
+11,
+[
+"spring cabbage"
+]
 ],
 [
 "Nabak kimchi",
-11
+11,
+[]
 ],
 [
 "jangajji",
-10
+10,
+[]
 ],
 [
 "friggitello",
-10
+10,
+[
+"golden Greek pepper",
+"pepperoncini",
+"sweet Italian pepper",
+"Tuscan pepper"
+]
 ],
 [
 "Knieperkohl",
-10
+10,
+[]
 ],
 [
 "Chinese pickles",
-10
+10,
+[]
 ],
 [
 "Santa Claus melon",
-10
+10,
+[
+"Christmas melon"
+]
 ],
 [
 "crushed red pepper",
-10
+10,
+[
+"CRP",
+"red pepper flakes"
+]
 ],
 [
 "ham salad",
-10
+10,
+[]
 ],
 [
 "red kuri squash",
-10
+10,
+[]
 ],
 [
 "baekkimchi",
-9
+9,
+[
+"white kimchi"
+]
 ],
 [
 "cabbage",
-9
+9,
+[
+"cabage",
+"cabagge"
+]
 ],
 [
 "endive",
-9
+9,
+[]
 ],
 [
 "broccoflower",
-9
+9,
+[]
 ],
 [
 "Matsumaezuke",
-9
+9,
+[
+"Matsumae-zuke"
+]
 ],
 [
 "atchara",
-9
+9,
+[]
 ],
 [
 "nukazuke",
-8
+8,
+[]
 ],
 [
 "eggplant",
-8
+8,
+[
+"aubergine",
+"eggfruit",
+"mad apple"
+]
 ],
 [
 "genetically modified potato",
-8
+8,
+[
+"transgenic potato"
+]
 ],
 [
 "murături",
-8
+8,
+[]
 ],
 [
 "calabaza",
-8
+8,
+[
+"calabasa",
+"calabash",
+"Caribbean pumpkin",
+"Cuban squash",
+"West Indian pumpkin"
+]
 ],
 [
 "Mozuku",
-8
+8,
+[]
 ],
 [
 "white onion",
-8
+8,
+[]
 ],
 [
 "pickled mushrooms",
-8
+8,
+[]
 ],
 [
 "Cornichons",
-8
+8,
+[]
 ],
 [
 "summer squash",
-7
+7,
+[]
 ],
 [
 "kasuzuke",
-7
+7,
+[
+"kasu-zuke"
+]
 ],
 [
 "Thai eggplant",
-7
+7,
+[]
 ],
 [
 "Karashizuke",
-7
+7,
+[]
 ],
 [
 "acorn squash",
-7
+7,
+[]
 ],
 [
 "baechu-kimchi",
-7
+7,
+[
+"cabbage kimchi",
+"napa cabbage kimchi"
+]
 ],
 [
 "Ñora",
-7
+7,
+[
+"Ñora pepper",
+"Nyora"
+]
 ],
 [
 "botok",
-7
+7,
+[
+"bothok"
+]
 ],
 [
 "Brassica oleracea Acephala Group",
-7
+7,
+[]
 ],
 [
 "cruciferous vegetable",
-7
+7,
+[]
 ],
 [
 "pickled pepper",
-7
+7,
+[]
 ],
 [
 "pickled carrot",
-7
+7,
+[]
 ],
 [
 "Charentais melon",
-6
+6,
+[
+"Melons de Cavaillon"
+]
 ],
 [
 "pea sprout",
-6
+6,
+[
+"dou miao"
+]
 ],
 [
 "Urfa biber",
-6
+6,
+[
+"isot",
+"isot pepper",
+"Urfa pepper"
+]
 ],
 [
 "Ornamental kales and cabbages",
-6
+6,
+[
+"decorative kale",
+"flowering cabbage",
+"flowering kale",
+"ornamental cabbage",
+"ornamental kale"
+]
 ],
 [
 "Pomodorino del Piennolo del Vesuvio",
-6
+6,
+[
+"Pomodorino Vesuviano"
+]
 ],
 [
 "fruit vegetable",
-6
+6,
+[
+"fruit",
+"vegetable"
+]
 ],
 [
 "soup vegetables",
-6
+6,
+[
+"soup greens"
+]
 ],
 [
 "ubi Cilembu",
-6
+6,
+[]
 ],
 [
 "bean sprout",
-6
+6,
+[
+"bean sprouts"
+]
 ],
 [
 "bomdong",
-6
+6,
+[]
 ],
 [
 "Vidalia onion",
-6
+6,
+[]
 ],
 [
 "potato onion",
-6
+6,
+[]
 ],
 [
 "blue tomato",
-6
+6,
+[
+"Black tomato",
+"Purple tomato"
+]
 ],
 [
 "bettarazuke",
-6
+6,
+[]
 ],
 [
 "Avakaya",
-6
+6,
+[]
 ],
 [
 "Honeynut squash",
-6
+6,
+[]
 ],
 [
 "Bostongurka",
-6
+6,
+[]
 ],
 [
 "mustard pickle",
-5
+5,
+[
+"gherkin pickled with mustard seeds"
+]
 ],
 [
 "yeolmu-kimchi",
-5
+5,
+[]
 ],
 [
 "Tigerella",
-5
+5,
+[]
 ],
 [
 "rucola",
-5
+5,
+[
+"rocket"
+]
 ],
 [
 "unusually shaped vegetable",
-5
+5,
+[]
 ],
 [
 "Oignon de Roscoff",
-5
+5,
+[
+"pink onions of Roscoff",
+"Roscoff Onion"
+]
 ],
 [
 "Potatoes of Chiloé",
-5
+5,
+[
+"Potatoes of Chiloe"
+]
 ],
 [
 "sweet onion",
-5
+5,
+[]
 ],
 [
 "Heirloom tomato",
-5
+5,
+[]
 ],
 [
 "Peperone di Senise",
-5
+5,
+[
+"Bell pepper of Sinese",
+"Senise bell pepper",
+"Senise pepper"
+]
 ],
 [
 "Quelite",
-5
+5,
+[]
 ],
 [
 "bush tomato",
-5
+5,
+[]
 ],
 [
 "frozen vegetable",
-5
+5,
+[
+"frozen vegetables"
+]
 ],
 [
 "grape tomato",
-5
+5,
+[]
 ],
 [
 "yellow onion",
-5
+5,
+[
+"brown onion"
+]
 ],
 [
 "Kumato",
-5
+5,
+[]
 ],
 [
 "Dalle Khursani",
-4
+4,
+[
+"Akabare Khursani",
+"Dalle",
+"Jyanmara Khursani",
+"Red cherry pepper chilli"
+]
 ],
 [
 "Narazuke",
-4
+4,
+[
+"Nara-zuke"
+]
 ],
 [
 "pickled red beet",
-4
+4,
+[
+"pickled beetroot"
+]
 ],
 [
 "half sour pickle",
-4
+4,
+[
+"malossol cucumber"
+]
 ],
 [
 "Yorkshire Forced Rhubarb",
-4
+4,
+[]
 ],
 [
 "pickled fruit",
-4
+4,
+[]
 ],
 [
 "winter vegetable",
-4
+4,
+[]
 ],
 [
 "Aglio rosso di Sulmona",
-4
+4,
+[]
 ],
 [
 "Russet potato",
-4
+4,
+[
+"Idaho potato"
+]
 ],
 [
 "siraegi",
-4
+4,
+[]
 ],
 [
 "baby carrot",
-4
+4,
+[
+"baby-cut carrot"
+]
 ],
 [
 "Radicchio di Chioggia",
-4
+4,
+[]
 ],
 [
 "Figueres onion",
-4
+4,
+[]
 ],
 [
 "pickle relish",
-4
+4,
+[
+"gherkin relish",
+"pickled cucumber relish"
+]
 ],
 [
 "gem squash",
-4
+4,
+[]
 ],
 [
 "Roma tomato",
-4
+4,
+[]
 ],
 [
 "Saengchae",
-4
+4,
+[]
 ],
 [
 "Santorini tomato",
-4
+4,
+[]
 ],
 [
 "radish green",
-4
+4,
+[]
 ],
 [
 "seedless watermelon",
-4
+4,
+[]
 ],
 [
 "inflorescence vegetable",
-4
+4,
+[
+"flower vegetable"
+]
 ],
 [
 "dưa hành",
-3
+3,
+[
+"hành muối"
+]
 ],
 [
 "Baby napa cabbage",
-3
+3,
+[
+"Baby Chinese Cabbage",
+"Mini Tientsin Pakchoi"
+]
 ],
 [
 "Kyōyasai",
-3
+3,
+[
+"Kyo-yasai",
+"Kyoyasai",
+"Kyō-yasai"
+]
 ],
 [
 "Nerima daikon",
-3
+3,
+[]
 ],
 [
 "geotjeori",
-3
+3,
+[]
 ],
 [
 "dried beans",
-3
+3,
+[]
 ],
 [
 "Radicchio Rosso di Treviso PGI",
-3
+3,
+[]
 ],
 [
 "Pear tomato",
-3
+3,
+[
+"teardrop tomato"
+]
 ],
 [
 "Yellow summer squash",
-3
+3,
+[
+"Straightneck squash"
+]
 ],
 [
 "Pickled lime",
-3
+3,
+[
+"Hot lime pickle",
+"lemon pickle",
+"lime pickle",
+"lime pickles"
+]
 ],
 [
 "Küttiger carrot",
-3
+3,
+[
+"Küttiger Rüebli"
+]
 ],
 [
 "European cucumber",
-3
+3,
+[
+"Hot House cucumber"
+]
 ],
 [
 "Oignon doux des Cévennes",
-3
+3,
+[]
 ],
 [
 "Aglio di Voghiera PDO",
-3
+3,
+[]
 ],
 [
 "noonsom",
-3
+3,
+[]
 ],
 [
 "Rosa de Barbastro",
-3
+3,
+[]
 ],
 [
 "Haft Bijar",
-3
+3,
+[
+"Haft-e bijar",
+"Hafte Bijar"
+]
 ],
 [
 "Aglio Bianco Polesano PDO",
-3
+3,
+[]
 ],
 [
 "Lomagne white garlic",
-3
+3,
+[]
 ],
 [
 "dandelion",
-3
+3,
+[]
 ],
 [
 "early potato",
-3
+3,
+[]
 ],
 [
 "Shikrarpuri Achar",
-3
+3,
+[]
 ],
 [
 "Campari tomato",
-3
+3,
+[]
 ],
 [
 "cocktail onion",
-3
+3,
+[]
 ],
 [
 "edible plant stem",
-3
+3,
+[]
 ],
 [
 "dried chili pepper",
-3
+3,
+[
+"Dried chili",
+"dried chilli pepper"
+]
 ],
 [
 "Pickled pigs feet",
-3
+3,
+[]
 ],
 [
 "perennial vegetable",
-3
+3,
+[
+"Perennial vegetables are"
+]
 ],
 [
 "Pochas",
-3
+3,
+[]
 ],
 [
 "Red leaf Lettuce",
-3
+3,
+[
+"Redina Lettuce"
+]
 ],
 [
 "Snow Mountain Garlic",
-3
+3,
+[]
+],
+[
+"jjanji",
+2,
+[
+"mu-jjanji"
+]
+],
+[
+"soknorang sweet potato",
+2,
+[]
+],
+[
+"Mirza melon",
+2,
+[
+"gulabi melon",
+"Mirzachul melon",
+"torpedo melon"
+]
+],
+[
+"Melon de Guadeloupe",
+2,
+[]
+],
+[
+"radish kimchi",
+2,
+[]
+],
+[
+"frozen carrot, peas, and corn mix",
+2,
+[
+"frozen mixed vegetables, carrot, peas, and corn",
+"frozen vegetable mixe"
+]
+],
+[
+"Carota novella di Ispica",
+2,
+[]
+],
+[
+"suguki",
+2,
+[
+"suguki-zuke",
+"sugukizuke"
+]
+],
+[
+"Heshiko",
+2,
+[]
+],
+[
+"wasabizuke",
+2,
+[]
+],
+[
+"Kaiware-daikon",
+2,
+[]
+],
+[
+"Miura daikon",
+2,
+[
+"Miura radish"
+]
+],
+[
+"Shimonita negi",
+2,
+[]
+],
+[
+"Brassica campestris var. akana",
+2,
+[]
+],
+[
+"Gisovu Tea",
+2,
+[]
+],
+[
+"Aglio di Caraglio PAT",
+2,
+[
+"Aj 'd Caraj"
+]
+],
+[
+"Sukombu",
+2,
+[]
+],
+[
+"okra",
+2,
+[
+"lady fingers"
+]
+],
+[
+"green bean fillet",
+2,
+[
+"French bean",
+"French beans"
+]
+],
+[
+"Aamer mishti achaar",
+2,
+[]
+],
+[
+"peeled tomato",
+2,
+[]
+],
+[
+"Bekzodi",
+2,
+[]
+],
+[
+"Gokayama bobera",
+2,
+[]
+],
+[
+"dill pickle",
+2,
+[]
+],
+[
+"Alibag White onion",
+2,
+[]
+],
+[
+"boiled potatoes",
+2,
+[]
+],
+[
+"melón de oro",
+2,
+[]
+],
+[
+"Hiroshimana",
+2,
+[]
+],
+[
+"minced ginger",
+2,
+[]
+],
+[
+"Tangsuan",
+2,
+[]
+],
+[
+"onion of Cavasso Nuovo",
+2,
+[]
+],
+[
+"melon du Haut-Poitou",
+2,
+[]
+],
+[
+"Hanover tomato",
+2,
+[]
+],
+[
+"Hillbilly",
+2,
+[
+"Hillbilly Tomato"
+]
+],
+[
+"broccoli sprouts",
+2,
+[]
+],
+[
+"industrial potato",
+2,
+[]
+],
+[
+"Jersey cabbage",
+2,
+[]
+],
+[
+"Batata doce de Aljezur",
+2,
+[
+"Aljezur sweet potato"
+]
+],
+[
+"Open field cucumber",
+2,
+[]
+],
+[
+"Radicchio of Verona",
+2,
+[
+"Rosso di Verona"
+]
+],
+[
+"Carota dell'Altopiano del Fucino PGI",
+2,
+[]
+],
+[
+"pa-kimchi",
+2,
+[]
+],
+[
+"Karit fruit",
+2,
+[]
+],
+[
+"Shetland Black",
+2,
+[]
+],
+[
+"ginger pickle",
+2,
+[]
+],
+[
+"Chicago-style relish",
+2,
+[]
+],
+[
+"Batata de Trás-os-Montes",
+2,
+[
+"Trás-os-Montes potato"
+]
+],
+[
+"horseradish root",
+2,
+[
+"horseradish"
+]
+],
+[
+"Patata novella di Messina",
+2,
+[]
+],
+[
+"Echalion",
+2,
+[]
+],
+[
+"Asparago verde di Altedo PGI",
+2,
+[]
+],
+[
+"Carciofo Romanesco del Lazio PGI",
+2,
+[]
+],
+[
+"Suasa's onion",
+2,
+[]
+],
+[
+"Aunt Ruby's German Green",
+2,
+[]
+],
+[
+"Senju negi",
+2,
+[]
+],
+[
+"Big Max",
+2,
+[]
+],
+[
+"celebrity tomato",
+2,
+[
+"celebrity"
+]
+],
+[
+"Genetically modified tomato",
+2,
+[]
+],
+[
+"Mukeunji",
+2,
+[]
+],
+[
+"dried vegetable",
+2,
+[]
+],
+[
+"Hyderabadi pickle",
+2,
+[
+"Hyderabadi achaar"
+]
+],
+[
+"Patata della Sila PGI",
+2,
+[]
+],
+[
+"alfalfa sprouts",
+2,
+[]
+],
+[
+"rhubarb diet",
+2,
+[]
+],
+[
+"Tomaccio",
+2,
+[]
+],
+[
+"Traveller",
+2,
+[]
+],
+[
+"stewed tomato",
+2,
+[
+"Stewed tomatoes"
+]
+],
+[
+"chonggak-kimchi",
+2,
+[]
+],
+[
+"Orange bell peppers",
+1,
+[]
+],
+[
+"red bell pepper",
+1,
+[
+"red capsicum"
+]
+],
+[
+"numasu negi",
+1,
+[]
+],
+[
+"Taguchi-na",
+1,
+[]
+],
+[
+"Nissato-negi",
+1,
+[
+"Nissato green onion"
+]
+],
+[
+"paprika fruit",
+1,
+[
+"paprika",
+"silique of paprika"
+]
+],
+[
+"sunkizuke",
+1,
+[
+"sunki",
+"sunki-zuke"
+]
+],
+[
+"naniwayasai",
+1,
+[]
+],
+[
+"karikari ume",
+1,
+[
+"karikari umezuke",
+"karikari-zuke"
+]
+],
+[
+"Kujō negi",
+1,
+[
+"kujo negi"
+]
+],
+[
+"Kyō-tsukemono",
+1,
+[
+"Kyoto tsukemono"
+]
+],
+[
+"Sendai hakusai",
+1,
+[
+"Sendai Hakusai"
+]
+],
+[
+"Ise takuan",
+1,
+[]
+],
+[
+"traditional vegetable",
+1,
+[]
+],
+[
+"Shinshū Traditional Vegetable",
+1,
+[]
+],
+[
+"Kaga yasai",
+1,
+[]
+],
+[
+"senmaizuke",
+1,
+[
+"semmai-zuke",
+"semmaizuke",
+"senmai-zuke"
+]
+],
+[
+"Nambari-Melon",
+1,
+[]
+],
+[
+"Kagamigahara kimuchi",
+1,
+[
+"Kagamigahara kimchi"
+]
+],
+[
+"misozuke",
+1,
+[
+"miso pickle"
+]
+],
+[
+"Yamato yasai",
+1,
+[
+"Yamatoyasai"
+]
+],
+[
+"Moriguchi daikon",
+1,
+[]
+],
+[
+"Sukuna pumpkin",
+1,
+[
+"Sukuna Kabocha"
+]
+],
+[
+"Amaimo",
+1,
+[]
+],
+[
+"sankaizuke",
+1,
+[]
+],
+[
+"Iwatsu negi",
+1,
+[]
+],
+[
+"Misono daikon",
+1,
+[]
+],
+[
+"shibazuke",
+1,
+[
+"shiba-zuke"
+]
+],
+[
+"Edo Tokyo yasai",
+1,
+[
+"Edo yasai",
+"Traditional Edo-Tokyo vegetable"
+]
+],
+[
+"fugu no ransō no nukazuke",
+1,
+[
+"fugunoko nukazuke"
+]
+],
+[
+"fennel bulb",
+1,
+[]
+],
+[
+"hanazuke",
+1,
+[]
+],
+[
+"Kan'on green onion",
+1,
+[]
+],
+[
+"tofu misozuke",
+1,
+[
+"tofu no misozuke"
+]
+],
+[
+"Traditional Vegetable of Hida/Mino",
+1,
+[]
+],
+[
+"Hidabeni",
+1,
+[]
+],
+[
+"nishinzuke",
+1,
+[
+"nishin-zuke"
+]
+],
+[
+"Naruto kintoki",
+1,
+[]
+],
+[
+"arrowhead",
+1,
+[]
+],
+[
+"floury potato",
+1,
+[]
+],
+[
+"Hinokaburazuke",
+1,
+[
+"Hinokabuzuke"
+]
+],
+[
+"nezumi daikon",
+1,
+[]
+],
+[
+"prepared vegetable",
+1,
+[
+"convenience vegetable",
+"ready-to-cook vegetable",
+"ready-to-eat vegetable",
+"ready veggie"
+]
+],
+[
+"twisted carrots",
+1,
+[
+"hugging carrot",
+"hugging carrots",
+"twisted carrot"
+]
+],
+[
+"vinegar pickle",
+1,
+[
+"pickling in vinegar",
+"vinegar pickling"
+]
+],
+[
+"acar buah",
+1,
+[]
+],
+[
+"Dahbedi",
+1,
+[]
+],
+[
+"Davlatboy",
+1,
+[]
+],
+[
+"Gulnoz",
+1,
+[]
+],
+[
+"Gurvak",
+1,
+[]
+],
+[
+"jute leaves",
+1,
+[]
+],
+[
+"peanut pumpkin",
+1,
+[
+"Galeux d'Eysine"
+]
+],
+[
+"Mellunaro",
+1,
+[]
+],
+[
+"Batata-Doce da Madeira",
+1,
+[
+"Madeira sweet potato"
+]
+],
+[
+"Vittoria cherry tomato",
+1,
+[]
+],
+[
+"Gayane",
+1,
+[]
+],
+[
+"Govakan",
+1,
+[]
+],
+[
+"Manpukuji carrot",
+1,
+[]
+],
+[
+"cipolla di Bisacquino",
+1,
+[
+"Bisacquino onion"
+]
+],
+[
+"Sparacello",
+1,
+[]
+],
+[
+"Karaköprü tat watermelon",
+1,
+[]
+],
+[
+"pink garlic of Brignoles",
+1,
+[]
+],
+[
+"spring greens",
+1,
+[
+"spring cabbage"
+]
+],
+[
+"ganjang kimchi",
+1,
+[]
+],
+[
+"Carciofo Spinoso di Sardegna PDO",
+1,
+[]
+],
+[
+"Pembrokeshire Earlies",
+1,
+[
+"Pembrokeshire New Potatoes"
+]
+],
+[
+"Andes melon",
+1,
+[]
+],
+[
+"Ōkura daikon",
+1,
+[
+"Okura daikon"
+]
+],
+[
+"Shishigatani kabocha",
+1,
+[]
+],
+[
+"Moriguchi zuke",
+1,
+[]
+],
+[
+"Arrow-shaft cabbage",
+1,
+[]
+],
+[
+"Amsterdam onion",
+1,
+[]
+],
+[
+"Ajima imo",
+1,
+[]
+],
+[
+"Melon du Quercy",
+1,
+[]
+],
+[
+"shōgoinkabu",
+1,
+[
+"shogoin-kabu",
+"shogoinkabu",
+"shōgoin-kabu"
+]
+],
+[
+"Kintoki carrot",
+1,
+[
+"kintoki ninjin"
+]
+],
+[
+"Kamo nasu",
+1,
+[
+"Solanum melongena"
+]
+],
+[
+"karamidaikon",
+1,
+[
+"karami-daikon"
+]
+],
+[
+"natazuke",
+1,
+[]
+],
+[
+"Sakuraba zuke",
+1,
+[]
+],
+[
+"Horikawa gobo",
+1,
+[
+"Horikawa gobou"
+]
+],
+[
+"Ogen melon",
+1,
+[
+"desert melon",
+"Ha'Ogen melon"
+]
+],
+[
+"amarillo liso",
+1,
+[
+"honey melon",
+"yellow honeydew melon"
+]
+],
+[
+"bulbous vegetables",
+1,
+[
+"bulb vegetables"
+]
+],
+[
+"nuka nishin",
+1,
+[]
+],
+[
+"oak leaf lettuce",
+1,
+[
+"oakleaf lettuce"
+]
+],
+[
+"Napa",
+1,
+[]
+],
+[
+"Connecticut Field pumpkin",
+1,
+[]
+],
+[
+"traditional vegetable in Aichi prefecture",
+1,
+[
+"Aichi no dento yasai",
+"Aichi no dentō yasai"
+]
+],
+[
+"pre-cut vegetables",
+1,
+[]
+],
+[
+"Béa du Roussillon potatoes",
+1,
+[
+"Bea du Roussillon potatoes"
+]
+],
+[
+"Aokubi daikon",
+1,
+[]
+],
+[
+"papaya-zuke",
+1,
+[]
+],
+[
+"Fukaya negi",
+1,
+[]
+],
+[
+"grelos",
+1,
+[
+"turnip greens"
+]
+],
+[
+"potatoes from the Ile de Ré",
+1,
+[
+"potatoes from the Ile de Re"
+]
+],
+[
+"green asparagus",
+1,
+[]
+],
+[
+"Syracuse watermelon",
+1,
+[]
+],
+[
+"Carciofo di Paestum PGI",
+1,
+[]
+],
+[
+"spinach",
+1,
+[
+"green spinach"
+]
+],
+[
+"Melone Mantovano PGI",
+1,
+[]
+],
+[
+"Neapolitan papaccella",
+1,
+[]
+],
+[
+"Patata novella di Siracusa",
+1,
+[]
+],
+[
+"Peperone di Pontecorvo PDO",
+1,
+[]
+],
+[
+"Radicchio Variegato di Castelfranco PGI",
+1,
+[]
+],
+[
+"Scalogno di Romagna PGI",
+1,
+[]
+],
+[
+"leek pie",
+1,
+[]
+],
+[
+"Sabzi",
+1,
+[]
+],
+[
+"Alicante",
+1,
+[]
+],
+[
+"Andenhorn",
+1,
+[]
+],
+[
+"Brandywine",
+1,
+[]
+],
+[
+"Dried turnip",
+1,
+[]
+],
+[
+"garden peach tomato",
+1,
+[]
+],
+[
+"Jerusalem artichoke",
+1,
+[
+"helianthus tuberosus tuber",
+"lambchoke",
+"sunchoke",
+"Sunchokes",
+"sunroot",
+"topinambur"
+]
+],
+[
+"Anguria Reggiana",
+1,
+[]
+],
+[
+"Shiokombu",
+1,
+[]
+],
+[
+"Mul-kimchi",
+1,
+[
+"Water kimchi"
+]
+],
+[
+"cantaloupe",
+1,
+[
+"cantaloupe melon",
+"rockmelon",
+"sweet melon"
+]
+],
+[
+"Jubilee",
+1,
+[]
+],
+[
+"Asati",
+1,
+[]
+],
+[
+"Kamakura yasai",
+1,
+[]
+],
+[
+"Lillian's Yellow",
+1,
+[]
+],
+[
+"shallot",
+1,
+[
+"French red shallot"
+]
+],
+[
+"green bell pepper",
+1,
+[]
+],
+[
+"Encûr",
+1,
+[]
+],
+[
+"Qiwî",
+1,
+[]
+],
+[
+"Pickled meat snack",
+1,
+[
+"pickled pork"
+]
+],
+[
+"cardoon",
+1,
+[
+"artichoke thistle",
+"cardi",
+"cardone",
+"cardoni",
+"carduni"
+]
+],
+[
+"Three Sisters",
+1,
+[]
+],
+[
+"White Queen tomato",
+1,
+[]
+],
+[
+"Winter greens",
+1,
+[]
+],
+[
+"bossam-kimchi",
+1,
+[]
+],
+[
+"Obanazawa watermelon",
+1,
+[]
+],
+[
+"Namba negi",
+1,
+[]
+],
+[
+"young beets",
+1,
+[]
+],
+[
+"burdock root",
+1,
+[
+"Arctii radix",
+"gobo root"
+]
+],
+[
+"celeriac root",
+0,
+[]
+],
+[
+"turnip greens",
+0,
+[]
+],
+[
+"watercress",
+0,
+[
+"Watercress"
+]
+],
+[
+"parsnip",
+0,
+[
+"neep",
+"Parsnips"
+]
+],
+[
+"brussels sprouts",
+0,
+[]
+],
+[
+"lettuce",
+0,
+[]
+],
+[
+"collard greens",
+0,
+[]
+],
+[
+"seed potato",
+0,
+[]
+],
+[
+"caulilini",
+0,
+[
+"baby cauliflower"
+]
+],
+[
+"chard root",
+0,
+[]
+],
+[
+"owairaka red",
+0,
+[]
+],
+[
+"Beauregard",
+0,
+[]
+],
+[
+"stem vegetables",
+0,
+[]
+],
+[
+"peapod",
+0,
+[]
+],
+[
+"Nyonbeka",
+0,
+[]
+],
+[
+"cactus leaf",
+0,
+[
+"Cactus Leaves"
+]
+],
+[
+"Turnips & Rutabagas",
+0,
+[]
+],
+[
+"canned vegetables",
+0,
+[]
+],
+[
+"candy roaster",
+0,
+[]
+],
+[
+"North Georgia candy roaster",
+0,
+[]
+],
+[
+"Okazi soup",
+0,
+[]
+],
+[
+"Carciofo Brindisino PGI",
+0,
+[]
+],
+[
+"Sedano Bianco di Sperlonga PGI",
+0,
+[]
+],
+[
+"Patata dell'Alto Viterbese PGI",
+0,
+[]
+],
+[
+"Asian vegetable",
+0,
+[
+"Asian greens",
+"oriental vegetable"
+]
+],
+[
+"wild carrot",
+0,
+[
+"carrot",
+"wild carrot taproot"
+]
+],
+[
+"Bothok Mlanding",
+0,
+[]
+],
+[
+"sour gherkins",
+0,
+[]
+],
+[
+"napa cabbage",
+0,
+[]
+],
+[
+"botok-botok ikan",
+0,
+[]
+],
+[
+"nonsom bambangan",
+0,
+[]
+],
+[
+"fresh vegetable",
+0,
+[]
+],
+[
+"Yungay potato cultivar",
+0,
+[]
+],
+[
+"shredded carrot",
+0,
+[]
+],
+[
+"Tender tamarind leaves",
+0,
+[
+"Tamarind greens"
+]
+],
+[
+"Yam Dumpling",
+0,
+[]
+],
+[
+"zébrine",
+0,
+[]
+],
+[
+"baby spinach",
+0,
+[]
+],
+[
+"bitter cassava",
+0,
+[]
+],
+[
+"designated vegetable",
+0,
+[]
+],
+[
+"chicory leaves",
+0,
+[
+"chicory greens"
+]
+],
+[
+"starchy root vegetable",
+0,
+[
+"starchy root vegetables"
+]
+],
+[
+"garlic scape",
+0,
+[]
+],
+[
+"Petit carré de Nice",
+0,
+[]
+],
+[
+"pressed cucumber",
+0,
+[]
+],
+[
+"rhubarb",
+0,
+[
+"turkey rhubarb rhizome"
+]
+],
+[
+"cauliflower",
+0,
+[]
+],
+[
+"vegetable sauce",
+0,
+[]
+],
+[
+"garlic clove",
+0,
+[
+"clove of garlic"
+]
+],
+[
+"processing and preserving of potatoes",
+0,
+[]
+],
+[
+"radish",
+0,
+[
+"radishes"
+]
+],
+[
+"chard",
+0,
+[]
+],
+[
+"chicory green",
+0,
+[]
+],
+[
+"Gogu Valley",
+0,
+[]
+],
+[
+"Shepody",
+0,
+[]
+],
+[
+"A8812-3",
+0,
+[]
+],
+[
+"cassava root",
+0,
+[
+"cassava",
+"cassava tuber",
+"manioc",
+"yuca",
+"yuca root"
+]
+],
+[
+"chives",
+0,
+[]
+],
+[
+"muskmelon",
+0,
+[]
+],
+[
+"little gem lettuce",
+0,
+[]
+],
+[
+"bimi",
+0,
+[]
+],
+[
+"snow pea",
+0,
+[]
+],
+[
+"pickled sun-dried tomato",
+0,
+[]
+],
+[
+"deep-frozen spinach",
+0,
+[
+"frozen spinach"
+]
+],
+[
+"pointed pepper",
+0,
+[]
+],
+[
+"leek shoots",
+0,
+[]
+],
+[
+"leaf lettuce",
+0,
+[]
+],
+[
+"pickled tomato",
+0,
+[]
+],
+[
+"novita lettuce",
+0,
+[]
+],
+[
+"palm hearts",
+0,
+[]
+],
+[
+"pickled pearl onions",
+0,
+[]
+],
+[
+"parsley root",
+0,
+[]
+],
+[
+"dried paprika",
+0,
+[
+"dried bell pepper",
+"sundried bell pepper"
+]
+],
+[
+"zucchini flower",
+0,
+[]
+],
+[
+"white radish",
+0,
+[]
+],
+[
+"horseradish paste",
+0,
+[]
+],
+[
+"black salsify",
+0,
+[]
+],
+[
+"vine tomato",
+0,
+[]
+],
+[
+"pizza tomato",
+0,
+[]
+],
+[
+"endigia",
+0,
+[
+"red Belgian endive",
+"red chicory"
+]
+],
+[
+"gac melon",
+0,
+[
+"cochinchin gourd",
+"red melon",
+"spiny bitter gourd",
+"sweet gourd"
+]
+],
+[
+"Boston lettuce",
+0,
+[
+"Boston butterhead lettuce",
+"round lettuce"
+]
+],
+[
+"Beetroot extract",
+0,
+[]
+],
+[
+"primarily waxy potato",
+0,
+[]
+],
+[
+"waxy potato",
+0,
+[
+"low-starch potato"
+]
+],
+[
+"starchy potato",
+0,
+[
+"floury potato",
+"mealy potato"
+]
 ]
 ]

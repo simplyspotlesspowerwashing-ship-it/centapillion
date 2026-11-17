@@ -1,90 +1,307 @@
-Mount Baker
-Mount Adams
-Mount Hood
-Mount Jefferson
-Three Sisters
-Mount Mazama
-Newberry
-Medicine Lake
-Lassen Peak
-Mono Lake
-Long Valley
-Mount Spurr
-Mount Katmai
-Novarupta
-Pavlof
-Shishaldin
-Mount Veniaminof
-Okmok
-Mount Cleveland
-Bogoslof
-Kliuchevskoi
-Bezymianny
-Sheveluch
-Tolbachik
-Avachinsky
-Koryaksky
-Asama
-Aso
-Mount Ontake
-Mount Usu
-Shinmoedake
-Mount Ruang
-Semeru
-Sinabung
-Kelud
-Galunggung
-Tangkuban Perahu
-Ijen
-Bromo
-Rinjani
-Mount Kanlaon
-Bulusan
-Mount Apo
-Ulawun
-Rabaul
-Manam
+Acatenango
+Aconcagua
+Agua
+Agung
+Akutan
+Ambae
+Amboy Crater
 Ambrym
-Yasur
-White Island
-Whakaari
-Taranaki
-Erta Ale
-Ol Doinyo Lengai
-Mount Cameroon
-Piton de la Fournaise
-Karthala
-Fogo
-Pico
-Laki
-Grimsvotn
-Bardarbunga
-Askja
-Krafla
-Fagradalsfjall
-Surtsey
-Campi Flegrei
-Vulcano
-Pantelleria
-Nisyros
-Mount Ararat
-Damavand
-Elbrus
-Tungurahua
-Sangay
-Reventador
-Galeras
-Nevado del Ruiz
+Anak Krakatau
+Aniakchak
+Antisana
 Arenal
-Poas
-Irazu
-Masaya
-Momotombo
-San Cristobal
-Santa Maria
-Fuego
-Pacaya
-Colima
-El Chichon
-Nevado de Toluca
+Asama
+Askja
+Aso
+Atitlán
+Avachinsky
+Baekdu Mountain=paektu=changbaishan
+Bardarbunga
+Barú
+Batur
+Beerenberg
+Bezymianny
+Big Ben (Heard Island)
+Bogoslof
+Broken Top
+Bromo
+Bulusan
+Bárðarbunga
+Calbuco
+Campi Flegrei
+Capulin Volcano
+Cayambe
+Ceboruco
+Cerro Azul
 Cerro Negro
+Chaitén
+Chaîne des Puys
+Chimborazo
+Cinder Cone
+Clear Lake Volcanic Field
+Colima
+Colima=volcan de colima
+Concepción
+Copahue
+Cordón Caulle
+Coropuna
+Cotopaxi
+Crater Lake=mount mazama
+Craters of the Moon
+Dallol
+Damavand
+Deception Island
+Devils Tower
+Diamond Head
+Eifel
+El Chichon
+El Chichón=el chichon
+Elbrus
+Eldfell
+Erciyes
+Erebus=mount erebus
+Erta Ale
+Eyjafjallajökull=eyjafjallajokull
+Fagradalsfjall
+Fernandina
+Fogo
+Fuego
+Galeras
+Galunggung
+Glacier Peak
+Great Sitkin
+Grimsvotn
+Grímsvötn
+Guagua Pichincha
+Haleakala
+Hallasan
+Hasan Dağı
+Hekla
+Hengill
+Hibok-Hibok
+Hualalai
+Huaynaputina
+Hudson
+Humphreys Peak
+Hunga Tonga–Hunga Haʻapai=hunga tonga
+Ijen
+Irazu
+Irazú
+Ischia
+Izalco
+Iztaccíhuatl=iztaccihuatl
+Jan Mayen
+Jemez Mountains
+Kaiserstuhl
+Kanaga
+Kanlaon
+Karthala
+Karymsky
+Kasatochi
+Katla
+Kazbek
+Kelud
+Kerinci
+Kick 'em Jenny
+Kilauea
+Kirishima
+Kliuchevskoi
+Klyuchevskaya Sopka
+Kohala
+Koko Crater
+Koryaksky
+Krafla
+Krakatoa=krakatau
+Kronotsky
+La Soufrière
+Laacher See
+Lake Taupo=taupo volcano
+Laki
+Lamington
+Lanín
+Lascar
+Lassen Peak
+Lewotobi
+Licancabur
+Litli-Hrútur
+Llaima
+Llullaillaco
+Loihi=kamaʻehuakanaloa
+Long Valley
+Long Valley Caldera
+Longonot
+Makushin
+Manam
+Masaya
+Massif Central
+Mauna Kea
+Mauna Loa
+Mayon
+Medicine Lake
+Medicine Lake Volcano
+Menan Buttes
+Menengai
+Merapi
+Methana
+Milos
+Misti=el misti
+Momotombo
+Mono Craters
+Mono Lake
+Mono-Inyo Craters
+Monte Amiata
+Monte Nuovo
+Mount Adams
+Mount Apo
+Mount Ararat
+Mount Aso
+Mount Augustine
+Mount Bachelor
+Mount Baker
+Mount Bandai
+Mount Cameroon
+Mount Cleveland
+Mount Eden
+Mount Edgecumbe
+Mount Edziza
+Mount Elgon
+Mount Erebus
+Mount Etna
+Mount Fuji=fujisan
+Mount Garibaldi
+Mount Hood
+Mount Iliamna
+Mount Jefferson
+Mount Kanlaon
+Mount Katmai
+Mount Kenya
+Mount Kilimanjaro
+Mount Lassen=lassen peak
+Mount Mazama
+Mount McLoughlin
+Mount Meager
+Mount Melbourne
+Mount Meru
+Mount Ontake
+Mount Pelée=mont pelee
+Mount Rainier
+Mount Redoubt
+Mount Ruang
+Mount Shasta
+Mount Spurr
+Mount St. Helens=st helens
+Mount Tarumae
+Mount Taylor
+Mount Terror
+Mount Thielsen
+Mount Usu
+Mount Veniaminof
+Mount Wrangell
+Neenach Volcano=neenach
+Nemrut
+Nevado de Toluca
+Nevado del Ruiz
+Newberry
+Newberry Volcano
+Ngauruhoe
+Nisyros
+Novarupta
+Nyamuragira
+Nyiragongo
+Ojos del Salado
+Okmok
+Ol Doinyo Lengai
+Ollagüe
+Ontake
+Osorno
+Pacaya
+Pantelleria
+Papandayan
+Parícutin=paricutin
+Pavlof
+Pavlof Volcano
+Peteroa
+Pichincha
+Pico
+Pico de Orizaba=citlaltepetl
+Pinatubo
+Pinnacles Volcano
+Pisgah Crater
+Piton de la Fournaise
+Poas
+Popocatépetl=popocatepetl=popo
+Poás
+Punchbowl Crater
+Puracé
+Puy de Dôme
+Puyehue
+Quizapu
+Rabaul
+Rangitoto
+Reventador
+Rincón de la Vieja
+Rinjani
+Ruang
+Ruapehu
+SP Crater
+Sabancaya
+Sakurajima
+San Cristobal
+San Cristóbal
+San Francisco Peaks
+San Miguel
+Sangay
+Santa Ana
+Santa Maria
+Santa María
+Santiaguito
+Santorini
+Semeru
+Sheveluch
+Shinmoedake
+Shiprock
+Shishaldin
+Showa-shinzan
+Sierra Negra
+Sinabung
+Snæfellsjökull=snaefellsjokull
+Solfatara
+Soufrière Hills
+Stromboli
+Sunset Crater
+Surtsey
+Suswa
+Taal
+Tacana
+Tambora
+Tangkuban Perahu
+Tanna
+Taranaki
+Taranaki=mount egmont
+Tavurvur
+Teide
+Three Sisters
+Toba
+Tolbachik
+Tongariro
+Torfajökull
+Tungurahua
+Tupungato
+Turrialba
+Ubinas
+Ulawun
+Unzen
+Usu
+Valles Caldera
+Vesuvius
+Villarrica
+Vogelsberg
+Vulcano
+Whakaari
+Whakaari=white island
+White Island
+Wolf Volcano
+Xitle
+Yasur
+Yellowstone Caldera
+Öræfajökull

@@ -1,306 +1,443 @@
 [
 [
 "Gladiator",
-108
+108,
+[]
 ],
 [
 "Casablanca",
-107
+107,
+[]
 ],
 [
 "The Silence of the Lambs",
-103
+103,
+[]
 ],
 [
 "Schindler's List",
-102
+102,
+[]
 ],
 [
 "The Lord of the Rings: The Return of the King",
-93
+93,
+[
+"Lord of the Rings: The Return of the King"
+]
 ],
 [
 "Slumdog Millionaire",
-90
+90,
+[]
 ],
 [
 "A Beautiful Mind",
-87
+87,
+[
+"Beautiful Mind"
+]
 ],
 [
 "Oppenheimer",
-81
+81,
+[]
 ],
 [
 "The Departed",
-81
+81,
+[
+"Departed"
+]
 ],
 [
 "Parasite",
-81
+81,
+[
+"Gisaengchung"
+]
 ],
 [
 "The King's Speech",
-79
+79,
+[
+"King's Speech"
+]
 ],
 [
 "No Country for Old Men",
-79
+79,
+[]
 ],
 [
 "American Beauty",
-79
+79,
+[]
 ],
 [
 "Lawrence of Arabia",
-78
+78,
+[]
 ],
 [
 "12 Years a Slave",
-78
+78,
+[
+"Twelve Years a Slave"
+]
 ],
 [
 "Birdman",
-74
+74,
+[
+"Birdman or (The Unexpected Virtue of Ignorance)"
+]
 ],
 [
 "The Artist",
-73
+73,
+[
+"Artist"
+]
 ],
 [
 "Shakespeare in Love",
-72
+72,
+[]
 ],
 [
 "Million Dollar Baby",
-72
+72,
+[]
 ],
 [
 "The Bridge on the River Kwai",
-72
+72,
+[
+"Bridge on the River Kwai"
+]
 ],
 [
 "The Shape of Water",
-71
+71,
+[
+"Shape of Water"
+]
 ],
 [
 "Green Book",
-71
+71,
+[]
 ],
 [
 "The Sound of Music",
-71
+71,
+[
+"Sound of Music"
+]
 ],
 [
 "The Hurt Locker",
-69
+69,
+[
+"Hurt Locker"
+]
 ],
 [
 "All About Eve",
-68
+68,
+[]
 ],
 [
 "The Last Emperor",
-66
+66,
+[
+"Last Emperor",
+"Le dernier empereur",
+"L'ultimo imperatore"
+]
 ],
 [
 "Annie Hall",
-65
+65,
+[]
 ],
 [
 "Argo",
-65
+65,
+[]
 ],
 [
 "Spotlight",
-64
+64,
+[]
 ],
 [
 "Chicago",
-64
+64,
+[]
 ],
 [
 "Crash",
-63
+63,
+[]
 ],
 [
 "Kramer vs. Kramer",
-63
+63,
+[]
 ],
 [
 "Rebecca",
-63
+63,
+[]
 ],
 [
 "On the Waterfront",
-63
+63,
+[]
 ],
 [
 "My Fair Lady",
-62
+62,
+[]
 ],
 [
 "All Quiet on the Western Front",
-62
+62,
+[
+"À l'Ouest, rien de nouveau"
+]
 ],
 [
 "From Here to Eternity",
-61
+61,
+[]
 ],
 [
 "Moonlight",
-60
+60,
+[]
 ],
 [
 "An American in Paris",
-60
+60,
+[
+"American in Paris"
+]
 ],
 [
 "Everything Everywhere All at Once",
-60
+60,
+[
+"EEAAO"
+]
 ],
 [
 "It Happened One Night",
-59
+59,
+[
+"Night Bus"
+]
 ],
 [
 "Midnight Cowboy",
-59
+59,
+[]
 ],
 [
 "The Apartment",
-58
+58,
+[
+"Apartment"
+]
 ],
 [
 "Patton",
-57
+57,
+[]
 ],
 [
 "The French Connection",
-57
+57,
+[
+"French Connection"
+]
 ],
 [
 "How Green Was My Valley",
-57
+57,
+[]
 ],
 [
 "West Side Story",
-57
+57,
+[]
 ],
 [
 "Wings",
-56
+56,
+[]
 ],
 [
 "In the Heat of the Night",
-56
+56,
+[]
 ],
 [
 "Mutiny on the Bounty",
-55
+55,
+[]
 ],
 [
 "The Sting",
-55
+55,
+[
+"Sting"
+]
 ],
 [
 "One Battle After Another",
-54
+54,
+[
+"Baktan Cross",
+"BC Project",
+"Desert Highway",
+"The Battle of Baktan Cross"
+]
 ],
 [
 "Grand Hotel",
-54
+54,
+[]
 ],
 [
 "The Broadway Melody",
-54
+54,
+[
+"Broadway Melody"
+]
 ],
 [
 "Anora",
-53
+53,
+[]
 ],
 [
 "A Man for All Seasons",
-53
+53,
+[
+"Man for All Seasons"
+]
 ],
 [
 "The Lost Weekend",
-53
+53,
+[
+"Lost Weekend"
+]
 ],
 [
 "Nomadland",
-53
+53,
+[]
 ],
 [
 "The Best Years of Our Lives",
-53
+53,
+[
+"Best Years of Our Lives"
+]
 ],
 [
 "Mrs. Miniver",
-52
+52,
+[]
 ],
 [
 "Cimarron",
-51
+51,
+[]
 ],
 [
 "Around the World in 80 Days",
-51
+51,
+[]
 ],
 [
 "All the King's Men",
-51
+51,
+[]
 ],
 [
 "Going My Way",
-50
+50,
+[]
 ],
 [
 "The Great Ziegfeld",
-50
+50,
+[
+"Great Ziegfeld"
+]
 ],
 [
 "The Greatest Show on Earth",
-50
+50,
+[
+"Greatest Show on Earth"
+]
 ],
 [
 "Marty",
-49
+49,
+[]
 ],
 [
 "The Life of Emile Zola",
-49
+49,
+[
+"Life of Emile Zola"
+]
 ],
 [
 "You Can't Take It With You",
-48
+48,
+[]
 ],
 [
 "Cavalcade",
-48
+48,
+[]
 ],
 [
 "CODA",
-47
+47,
+[]
 ],
 [
 "Tom Jones",
-47
+47,
+[]
 ],
 [
 "Hamlet",
-46
+46,
+[]
 ],
 [
 "Gigi",
-46
+46,
+[]
 ],
 [
 "Oliver!",
-45
+45,
+[]
 ],
 [
 "Gentleman's Agreement",
-45
+45,
+[]
 ]
 ]

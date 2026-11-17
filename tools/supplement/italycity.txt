@@ -1,0 +1,41 @@
+Monterosso al Mare=monterosso
+Manarola
+Corniglia
+Vernazza
+Riomaggiore
+Ercolano=herculaneum
+Pompei=pompeii
+Portovenere=porto venere
+Bellagio
+Varenna
+Menaggio
+Tremezzo
+Sirmione
+Malcesine
+Limone sul Garda
+Riva del Garda
+Stresa
+Cortina d'Ampezzo=cortina
+Ortisei
+Burano
+Murano
+Lido di Venezia=lido
+Chioggia
+Tropea
+Scilla
+Lipari
+Panarea
+Stromboli
+Erice
+Marsala
+Mazara del Vallo
+Castellammare di Stabia
+Vietri sul Mare
+Ravello
+Praiano
+Atrani
+Maiori
+Minori
+Anacapri
+Forio
+Lampedusa

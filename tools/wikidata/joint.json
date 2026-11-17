@@ -1,478 +1,3950 @@
 [
 [
 "wrist",
-87
+87,
+[]
 ],
 [
 "shoulder joint",
-31
+31,
+[
+"glenohumeral joint"
+]
 ],
 [
 "temporomandibular joint",
-30
+30,
+[]
 ],
 [
 "ball and socket joint",
-23
+23,
+[
+"articulatio sphaeroidea",
+"spheroid joint"
+]
 ],
 [
 "pubic symphysis",
-23
+23,
+[]
 ],
 [
 "symphysis",
-23
+23,
+[]
 ],
 [
 "synovial joint",
-20
+20,
+[
+"diarthrodial joint",
+"diarthrosis",
+"through joint"
+]
 ],
 [
 "hip joint",
-19
+19,
+[
+"acetabulofemoral joint",
+"articulatio coxae",
+"articulatio coxofemoralis",
+"coxafemoral joint"
+]
 ],
 [
 "acromioclavicular joint",
-18
+18,
+[]
 ],
 [
 "knuckle",
-18
+18,
+[
+"finger knuckle",
+"toe knuckle"
+]
 ],
 [
 "sacroiliac joint",
-17
+17,
+[
+"sacro-iliac joint"
+]
 ],
 [
 "synchondrosis",
-16
+16,
+[
+"synchondroses"
+]
 ],
 [
 "lambdoid suture",
-15
+15,
+[
+"lambdoidal suture"
+]
 ],
 [
 "hock",
-15
+15,
+[
+"gambrel",
+"hough"
+]
 ],
 [
 "sternoclavicular articulation",
-15
+15,
+[
+"sternoclavicular joint"
+]
 ],
 [
 "sagittal suture",
-15
+15,
+[]
 ],
 [
 "coronal suture",
-15
+15,
+[]
 ],
 [
 "synarthroidal joint",
-14
+14,
+[
+"immovable joint",
+"nonsynovial joint",
+"solid joint",
+"synarthrosis"
+]
 ],
 [
 "hinge joint",
-14
+14,
+[
+"ginglymoid",
+"ginglymus"
+]
 ],
 [
 "cranial suture",
-14
+14,
+[
+"suture joint of skull",
+"suture of cranium"
+]
 ],
 [
 "atlanto-axial joint",
-13
+13,
+[
+"atlantoaxial joint"
+]
 ],
 [
 "ellipsoid joint",
-12
+12,
+[
+"condylar joint"
+]
 ],
 [
 "metatarsophalangeal joint",
-12
+12,
+[
+"metatarsophalangeal articulation"
+]
 ],
 [
 "metacarpophalangeal joint",
-11
+11,
+[
+"MCP joint"
+]
 ],
 [
 "zygapophysial joint",
-11
+11,
+[
+"Zygapophyseal Joint"
+]
 ],
 [
 "frontal suture",
-11
+11,
+[
+"metopic suture"
+]
 ],
 [
 "carpometacarpal joint",
-10
+10,
+[
+"CMC joint"
+]
 ],
 [
 "syndesmosis",
-10
+10,
+[]
 ],
 [
 "fibrous joint",
-10
+10,
+[]
 ],
 [
 "symphysis menti",
-10
+10,
+[
+"mandibular symphysis",
+"Symphysis Mentalis"
+]
 ],
 [
 "squamosal suture",
-10
+10,
+[]
 ],
 [
 "atlanto-occipital joint",
-9
+9,
+[
+"atlantooccipital joint"
+]
 ],
 [
 "interphalangeal joint of hand",
-9
+9,
+[
+"interphalangeal articulation",
+"interphalangeal articulation of hand",
+"interphalangeal joint",
+"interphalangeal joint of finger"
+]
 ],
 [
 "occipitomastoid suture",
-9
+9,
+[]
 ],
 [
 "Frontoethmoidal suture",
-8
+8,
+[]
 ],
 [
 "sphenosquamosal suture",
-8
+8,
+[
+"sphenosquamous suture"
+]
 ],
 [
 "lumbosacral symphysis",
-8
+8,
+[
+"lumbosacral joint"
+]
 ],
 [
 "elbow joint",
-7
+7,
+[
+"joint of elbow"
+]
 ],
 [
 "sphenofrontal suture",
-7
+7,
+[]
 ],
 [
 "Sphenoethmoidal suture",
-7
+7,
+[]
 ],
 [
 "zygomaticofrontal suture",
-7
+7,
+[]
 ],
 [
 "zygomaticotemporal suture",
-7
+7,
+[]
 ],
 [
 "suture",
-7
+7,
+[
+"anatomical suture",
+"suture joint"
+]
 ],
 [
 "cricothyroid joint",
-7
+7,
+[
+"cricothyroid articulation"
+]
 ],
 [
 "fetlock",
-7
+7,
+[]
 ],
 [
 "inferior tibiofibular joint",
-7
+7,
+[
+"distal tibiofibular joint"
+]
 ],
 [
 "sphenozygomatic suture",
-7
+7,
+[]
 ],
 [
 "subtalar joint",
-7
+7,
+[]
 ],
 [
 "sphenoparietal suture",
-7
+7,
+[]
 ],
 [
 "gomphosis",
-6
+6,
+[]
 ],
 [
 "cartilaginous joint",
-6
+6,
+[
+"Cartilaginous"
+]
 ],
 [
 "sacrococcygeal symphysis",
-6
+6,
+[]
 ],
 [
 "sternocostal joints",
-6
+6,
+[]
 ],
 [
 "hand joint",
-6
+6,
+[
+"joint of hand",
+"manus joint"
+]
 ],
 [
 "B-Lynch suture",
-6
+6,
+[]
 ],
 [
 "cricoarytenoid articulation",
-6
+6,
+[]
 ],
 [
 "humeroradial joint",
-6
+6,
+[]
 ],
 [
 "internasal suture",
-5
+5,
+[]
 ],
 [
 "tarsometatarsal joint",
-5
+5,
+[
+"Lisfranc joint",
+"Lisfranc joints",
+"tarsometatarsal articulations"
+]
 ],
 [
 "costotransverse joint",
-5
+5,
+[]
 ],
 [
 "parietomastoid suture",
-5
+5,
+[]
 ],
 [
 "pastern",
-5
+5,
+[]
 ],
 [
 "humeroulnar joint",
-5
+5,
+[]
 ],
 [
 "proximal radioulnar joint",
-5
+5,
+[
+"proximal radioulnar articulation",
+"PRUJ",
+"superior radioulnar joint"
+]
 ],
 [
 "transverse tarsal joint",
-5
+5,
+[
+"Chopart's joint",
+"midtarsal joint"
+]
 ],
 [
 "superior tibiofibular joint",
-5
+5,
+[
+"proximal tibiofibular joint"
+]
 ],
 [
 "talocalcaneonavicular joint",
-5
+5,
+[]
 ],
 [
 "interphalangeal articulations of foot",
-4
+4,
+[
+"interphalangeal joint of toe",
+"toe joint",
+"toe joints"
+]
 ],
 [
 "articulation of head of rib",
-4
+4,
+[
+"joint of head of rib"
+]
 ],
 [
 "distal radioulnar joint",
-4
+4,
+[
+"distal radioulnar articulation",
+"inferior radioulnar joint"
+]
 ],
 [
 "knee joint",
-4
+4,
+[]
 ],
 [
 "xiphisternal joint",
-4
+4,
+[]
 ],
 [
 "Zygosphene-zygantrum articulation",
-4
+4,
+[]
 ],
 [
 "ankle joint",
-3
+3,
+[]
 ],
 [
 "frontolacrimal suture",
-3
+3,
+[]
 ],
 [
 "Intermetatarsal joint",
-3
+3,
+[
+"intermetatarsal articulations"
+]
 ],
 [
 "incudostapedial joint",
-3
+3,
+[]
 ],
 [
 "palatomaxillary suture",
-3
+3,
+[]
 ],
 [
 "calcaneocuboid joint",
-3
+3,
+[]
 ],
 [
 "Cuneonavicular articulation",
-3
+3,
+[]
 ],
 [
 "Incudomalleolar joint",
-3
+3,
+[]
 ],
 [
 "frontonasal suture",
-3
+3,
+[]
 ],
 [
 "incisive suture",
-2
+2,
+[]
 ],
 [
 "joints of the neck",
-2
+2,
+[]
 ],
 [
 "radiocarpal joint",
-2
+2,
+[
+"radiocarpal articulation",
+"wrist joint"
+]
 ],
 [
 "Schindylesis",
-2
+2,
+[]
 ],
 [
 "intervertebral joint",
-2
+2,
+[]
 ],
 [
 "costochondral joint",
-2
+2,
+[]
 ],
 [
 "Cuboideonavicular articulation",
-2
+2,
+[
+"cuboideonavicular joint"
+]
 ],
 [
 "intercuneiform articulations",
-2
+2,
+[]
 ],
 [
 "frontomaxillary suture",
-2
+2,
+[]
 ],
 [
 "sphenomaxillary suture",
-2
+2,
+[]
 ],
 [
 "nasomaxillary suture",
-2
+2,
+[]
 ],
 [
 "lacrimomaxillary suture",
-2
+2,
+[]
 ],
 [
 "lacrimoconchal suture",
-2
+2,
+[]
 ],
 [
 "intermaxillary suture",
-2
+2,
+[]
 ],
 [
 "median palatine suture",
-2
+2,
+[]
 ],
 [
 "transverse palatine suture",
-2
+2,
+[]
 ],
 [
 "ethmoidolacrimal suture",
-2
+2,
+[]
 ],
 [
 "articular circumference",
-1
+1,
+[
+"circumferentia articularis"
+]
 ],
 [
 "intervertebral symphysis",
-1
+1,
+[]
 ],
 [
 "fibrous joints of thorax",
-1
+1,
+[
+"fibrous joints of auditory ossicles",
+"syndesmoses of thorax"
+]
 ],
 [
 "radio-ulnar joint",
-1
+1,
+[]
 ],
 [
 "proximal interphalangeal joint of finger",
-1
+1,
+[
+"PIP joint",
+"proximal interphalangeal joint",
+"proximal interphalangeal joint of hand"
+]
 ],
 [
 "joints of the foot",
-1
+1,
+[
+"foot joint",
+"foot joints",
+"joints of foot"
+]
 ],
 [
 "lateral atlanto-axial joint",
-1
+1,
+[]
 ],
 [
 "C7-T1 vertebral arch joint",
-1
+1,
+[
+"cervicothoracic junction",
+"CTJ"
+]
 ],
 [
 "carpometacarpal joint of thumb",
-1
+1,
+[]
 ],
 [
 "radio-ulnar syndesmosis",
-1
+1,
+[]
 ],
 [
 "tibiofemoral joint",
-1
+1,
+[]
 ],
 [
 "cuneocuboid joint",
-1
+1,
+[]
 ],
 [
 "zygomaticomaxillary suture",
-1
+1,
+[]
 ],
 [
 "ethmoidomaxillary suture",
-1
+1,
+[]
 ],
 [
 "sphenovomerine suture",
-1
+1,
+[]
 ],
 [
 "palato-ethmoidal suture",
-1
+1,
+[]
 ],
 [
 "squamomastoid suture",
-1
+1,
+[]
 ],
 [
 "Category:Joint of auditory ossicles",
-1
+1,
+[]
 ],
 [
 "tympanostapedial syndesmosis",
-1
+1,
+[]
 ],
 [
 "bicondylar joint",
-1
+1,
+[]
+],
+[
+"talocalcaneal joint",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of foot",
+0,
+[]
+],
+[
+"distal interphalangeal joint of foot",
+0,
+[]
+],
+[
+"accessory occipital suture",
+0,
+[
+"mendosal suture"
+]
+],
+[
+"dento-alveolar syndesmosis",
+0,
+[
+"tooth socket joint"
+]
+],
+[
+"fibrous joints of larynx",
+0,
+[]
+],
+[
+"synovial joints of larynx",
+0,
+[]
+],
+[
+"synovial joint of free upper limb segment",
+0,
+[]
+],
+[
+"synovial joint of free limb segment",
+0,
+[]
+],
+[
+"thoracic joints",
+0,
+[]
+],
+[
+"cartilaginous joints of thorax",
+0,
+[
+"synchondroses of thorax"
+]
+],
+[
+"sternochondral synchondrosis of first rib",
+0,
+[
+"costosternal synchondrosis of first rib",
+"sternochondral joint of first rib",
+"sternocostal synchondrosis of first rib"
+]
+],
+[
+"cartilaginous joints of sternum",
+0,
+[
+"sternal synchondroses"
+]
+],
+[
+"manubriosternal joint",
+0,
+[]
+],
+[
+"manubriosternal synchondrosis",
+0,
+[]
+],
+[
+"synovial joints of thorax",
+0,
+[]
+],
+[
+"finger joint",
+0,
+[
+"finger joints"
+]
+],
+[
+"wrist joint",
+0,
+[
+"joint of wrist"
+]
+],
+[
+"distal interphalangeal joint of finger",
+0,
+[
+"DIP joint",
+"distal interphalangeal joint",
+"distal interphalangeal joint of hand"
+]
+],
+[
+"synostosis",
+0,
+[]
+],
+[
+"joint of thorax",
+0,
+[]
+],
+[
+"synovial sternocostal joint",
+0,
+[]
+],
+[
+"synovial interchondral joint",
+0,
+[]
+],
+[
+"joint of head of first rib",
+0,
+[]
+],
+[
+"joint of head of right first rib",
+0,
+[]
+],
+[
+"joint of head of left first rib",
+0,
+[]
+],
+[
+"joint of head of second rib",
+0,
+[]
+],
+[
+"joint of head of right second rib",
+0,
+[]
+],
+[
+"joint of head of left second rib",
+0,
+[]
+],
+[
+"joint of head of third rib",
+0,
+[]
+],
+[
+"joint of head of right third rib",
+0,
+[]
+],
+[
+"joint of head of left third rib",
+0,
+[]
+],
+[
+"joint of head of fourth rib",
+0,
+[]
+],
+[
+"joint of head of right fourth rib",
+0,
+[]
+],
+[
+"joint of head of left fourth rib",
+0,
+[]
+],
+[
+"joint of head of fifth rib",
+0,
+[]
+],
+[
+"joint of head of right fifth rib",
+0,
+[]
+],
+[
+"joint of head of left fifth rib",
+0,
+[]
+],
+[
+"joint of head of sixth rib",
+0,
+[]
+],
+[
+"joint of head of right sixth rib",
+0,
+[]
+],
+[
+"joint of head of left sixth rib",
+0,
+[]
+],
+[
+"joint of head of seventh rib",
+0,
+[]
+],
+[
+"joint of head of right seventh rib",
+0,
+[]
+],
+[
+"joint of head of left seventh rib",
+0,
+[]
+],
+[
+"joint of head of eighth rib",
+0,
+[]
+],
+[
+"joint of head of right eighth rib",
+0,
+[]
+],
+[
+"joint of head of left eighth rib",
+0,
+[]
+],
+[
+"joint of head of ninth rib",
+0,
+[]
+],
+[
+"joint of head of right ninth rib",
+0,
+[]
+],
+[
+"joint of head of left ninth rib",
+0,
+[]
+],
+[
+"joint of head of tenth rib",
+0,
+[]
+],
+[
+"joint of head of right tenth rib",
+0,
+[]
+],
+[
+"joint of head of left tenth rib",
+0,
+[]
+],
+[
+"joint of head of eleventh rib",
+0,
+[]
+],
+[
+"joint of head of right eleventh rib",
+0,
+[]
+],
+[
+"joint of head of left eleventh rib",
+0,
+[]
+],
+[
+"joint of head of twelfth rib",
+0,
+[]
+],
+[
+"joint of head of right twelfth rib",
+0,
+[]
+],
+[
+"joint of head of left twelfth rib",
+0,
+[]
+],
+[
+"first sternocostal joint",
+0,
+[]
+],
+[
+"second sternocostal joint",
+0,
+[]
+],
+[
+"right first sternocostal joint",
+0,
+[]
+],
+[
+"left first sternocostal joint",
+0,
+[]
+],
+[
+"right second sternocostal joint",
+0,
+[]
+],
+[
+"left second sternocostal joint",
+0,
+[]
+],
+[
+"third sternocostal joint",
+0,
+[]
+],
+[
+"right third sternocostal joint",
+0,
+[]
+],
+[
+"left third sternocostal joint",
+0,
+[]
+],
+[
+"fourth sternocostal joint",
+0,
+[]
+],
+[
+"right fourth sternocostal joint",
+0,
+[]
+],
+[
+"left fourth sternocostal joint",
+0,
+[]
+],
+[
+"fifth sternocostal joint",
+0,
+[]
+],
+[
+"right fifth sternocostal joint",
+0,
+[]
+],
+[
+"left fifth sternocostal joint",
+0,
+[]
+],
+[
+"sixth sternocostal joint",
+0,
+[]
+],
+[
+"right sixth sternocostal joint",
+0,
+[]
+],
+[
+"left sixth sternocostal joint",
+0,
+[]
+],
+[
+"seventh sternocostal joint",
+0,
+[]
+],
+[
+"right seventh sternocostal joint",
+0,
+[]
+],
+[
+"left seventh sternocostal joint",
+0,
+[]
+],
+[
+"manubriosternal synostosis",
+0,
+[]
+],
+[
+"xiphisternal synostosis",
+0,
+[]
+],
+[
+"epiphysial junction",
+0,
+[]
+],
+[
+"first costochondral joint",
+0,
+[]
+],
+[
+"right first costochondral joint",
+0,
+[]
+],
+[
+"left first costochondral joint",
+0,
+[]
+],
+[
+"second costochondral joint",
+0,
+[]
+],
+[
+"right second costochondral joint",
+0,
+[]
+],
+[
+"left second costochondral joint",
+0,
+[]
+],
+[
+"third costochondral joint",
+0,
+[]
+],
+[
+"right third costochondral joint",
+0,
+[]
+],
+[
+"left third costochondral joint",
+0,
+[]
+],
+[
+"fourth costochondral joint",
+0,
+[]
+],
+[
+"right fourth costochondral joint",
+0,
+[]
+],
+[
+"left fourth costochondral joint",
+0,
+[]
+],
+[
+"fifth costochondral joint",
+0,
+[]
+],
+[
+"right fifth costochondral joint",
+0,
+[]
+],
+[
+"left fifth costochondral joint",
+0,
+[]
+],
+[
+"sixth costochondral joint",
+0,
+[]
+],
+[
+"right sixth costochondral joint",
+0,
+[]
+],
+[
+"left sixth costochondral joint",
+0,
+[]
+],
+[
+"seventh costochondral joint",
+0,
+[]
+],
+[
+"right seventh costochondral joint",
+0,
+[]
+],
+[
+"left seventh costochondral joint",
+0,
+[]
+],
+[
+"eighth costochondral joint",
+0,
+[]
+],
+[
+"right eighth costochondral joint",
+0,
+[]
+],
+[
+"left eighth costochondral joint",
+0,
+[]
+],
+[
+"ninth costochondral joint",
+0,
+[]
+],
+[
+"right ninth costochondral joint",
+0,
+[]
+],
+[
+"left ninth costochondral joint",
+0,
+[]
+],
+[
+"tenth costochondral joint",
+0,
+[]
+],
+[
+"right tenth costochondral joint",
+0,
+[]
+],
+[
+"left tenth costochondral joint",
+0,
+[]
+],
+[
+"eleventh costochondral joint",
+0,
+[]
+],
+[
+"right eleventh costochondral joint",
+0,
+[]
+],
+[
+"left eleventh costochondral joint",
+0,
+[]
+],
+[
+"twelfth costochondral joint",
+0,
+[]
+],
+[
+"right twelfth costochondral joint",
+0,
+[]
+],
+[
+"left twelfth costochondral joint",
+0,
+[]
+],
+[
+"first costotransverse joint",
+0,
+[]
+],
+[
+"second costotransverse joint",
+0,
+[]
+],
+[
+"right first costotransverse joint",
+0,
+[]
+],
+[
+"left first costotransverse joint",
+0,
+[]
+],
+[
+"right second costotransverse joint",
+0,
+[]
+],
+[
+"left second costotransverse joint",
+0,
+[]
+],
+[
+"third costotransverse joint",
+0,
+[]
+],
+[
+"right third costotransverse joint",
+0,
+[]
+],
+[
+"left third costotransverse joint",
+0,
+[]
+],
+[
+"fourth costotransverse joint",
+0,
+[]
+],
+[
+"right fourth costotransverse joint",
+0,
+[]
+],
+[
+"left fourth costotransverse joint",
+0,
+[]
+],
+[
+"fifth costotransverse joint",
+0,
+[]
+],
+[
+"right fifth costotransverse joint",
+0,
+[]
+],
+[
+"sixth costotransverse joint",
+0,
+[]
+],
+[
+"right sixth costotransverse joint",
+0,
+[]
+],
+[
+"left sixth costotransverse joint",
+0,
+[]
+],
+[
+"seventh costotransverse joint",
+0,
+[]
+],
+[
+"right seventh costotransverse joint",
+0,
+[]
+],
+[
+"left seventh costotransverse joint",
+0,
+[]
+],
+[
+"eighth costotransverse joint",
+0,
+[]
+],
+[
+"right eighth costotransverse joint",
+0,
+[]
+],
+[
+"left eighth costotransverse joint",
+0,
+[]
+],
+[
+"ninth costotransverse joint",
+0,
+[]
+],
+[
+"right ninth costotransverse joint",
+0,
+[]
+],
+[
+"left ninth costotransverse joint",
+0,
+[]
+],
+[
+"tenth costotransverse joint",
+0,
+[]
+],
+[
+"right tenth costotransverse joint",
+0,
+[]
+],
+[
+"left tenth costotransverse joint",
+0,
+[]
+],
+[
+"costovertebral synovial joint",
+0,
+[]
+],
+[
+"interchondral joint of 6th and 7th ribs",
+0,
+[]
+],
+[
+"interchondral joint of 7th and 8th ribs",
+0,
+[]
+],
+[
+"interchondral joint of 8th and 9th ribs",
+0,
+[]
+],
+[
+"interchondral joint of right 6th and 7th ribs",
+0,
+[]
+],
+[
+"interchondral joint of left 6th and 7th ribs",
+0,
+[]
+],
+[
+"interchondral joint of right 7th and 8th ribs",
+0,
+[]
+],
+[
+"interchondral joint of left 7th and 8th ribs",
+0,
+[]
+],
+[
+"interchondral joint of right 8th and 9th ribs",
+0,
+[]
+],
+[
+"interchondral joint of left 8th and 9th ribs",
+0,
+[]
+],
+[
+"interchondral joint of 5th and 6th ribs",
+0,
+[]
+],
+[
+"interchondral joint of right 5th and 6th ribs",
+0,
+[]
+],
+[
+"interchondral joint of left 5th and 6th ribs",
+0,
+[]
+],
+[
+"interchondral syndesmosis",
+0,
+[]
+],
+[
+"intervertebral syndesmosis",
+0,
+[]
+],
+[
+"thoracic vertebral arch joint",
+0,
+[]
+],
+[
+"thoracic intervertebral syndesmosis",
+0,
+[]
+],
+[
+"lumbar intervertebral syndesmosis",
+0,
+[]
+],
+[
+"T1-T2 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"T2-T3 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"T3-T4 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"T4-T5 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"T5-T6 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"T6-T7 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"T7-T8 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"T8-T9 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"T9-T10 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"T10-T11 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"right sacroiliac joint",
+0,
+[]
+],
+[
+"left sacroiliac joint",
+0,
+[]
+],
+[
+"right wrist",
+0,
+[]
+],
+[
+"left wrist",
+0,
+[]
+],
+[
+"right lateral atlanto-axial joint",
+0,
+[]
+],
+[
+"left lateral atlanto-axial joint",
+0,
+[]
+],
+[
+"right atlanto-occipital joint",
+0,
+[]
+],
+[
+"left atlanto-occipital joint",
+0,
+[]
+],
+[
+"C2-C3 vertebral arch joint",
+0,
+[]
+],
+[
+"C3-C4 vertebral arch joint",
+0,
+[]
+],
+[
+"intervertebral symphysis of axis",
+0,
+[]
+],
+[
+"right sternoclavicular joint",
+0,
+[]
+],
+[
+"left sternoclavicular joint",
+0,
+[]
+],
+[
+"right acromioclavicular joint",
+0,
+[]
+],
+[
+"left acromioclavicular joint",
+0,
+[]
+],
+[
+"right glenohumeral joint",
+0,
+[]
+],
+[
+"left glenohumeral joint",
+0,
+[]
+],
+[
+"cervical intervertebral symphysis",
+0,
+[]
+],
+[
+"third cervical intervertebral symphysis",
+0,
+[]
+],
+[
+"fourth cervical intervertebral symphysis",
+0,
+[]
+],
+[
+"fifth cervical intervertebral symphysis",
+0,
+[]
+],
+[
+"sixth cervical intervertebral symphysis",
+0,
+[]
+],
+[
+"seventh cervical intervertebral symphysis",
+0,
+[]
+],
+[
+"thoracic intervertebral symphysis",
+0,
+[]
+],
+[
+"lumbar intervertebral symphysis",
+0,
+[]
+],
+[
+"first thoracic intervertebral symphysis",
+0,
+[]
+],
+[
+"C4-C5 vertebral arch joint",
+0,
+[]
+],
+[
+"C5-C6 vertebral arch joint",
+0,
+[]
+],
+[
+"C6-C7 vertebral arch joint",
+0,
+[]
+],
+[
+"second thoracic intervertebral symphysis",
+0,
+[]
+],
+[
+"third thoracic intervertebral symphysis",
+0,
+[]
+],
+[
+"fourth thoracic intervertebral symphysis",
+0,
+[]
+],
+[
+"fifth thoracic intervertebral symphysis",
+0,
+[]
+],
+[
+"sixth thoracic intervertebral symphysis",
+0,
+[]
+],
+[
+"seventh thoracic intervertebral symphysis",
+0,
+[]
+],
+[
+"eighth thoracic intervertebral symphysis",
+0,
+[]
+],
+[
+"ninth thoracic intervertebral symphysis",
+0,
+[]
+],
+[
+"tenth thoracic intervertebral symphysis",
+0,
+[]
+],
+[
+"eleventh thoracic intervertebral symphysis",
+0,
+[]
+],
+[
+"twelfth thoracic intervertebral symphysis",
+0,
+[]
+],
+[
+"first lumbar intervertebral symphysis",
+0,
+[]
+],
+[
+"second lumbar intervertebral symphysis",
+0,
+[]
+],
+[
+"third lumbar intervertebral symphysis",
+0,
+[]
+],
+[
+"fourth lumbar intervertebral symphysis",
+0,
+[]
+],
+[
+"fifth lumbar intervertebral symphysis",
+0,
+[]
+],
+[
+"T1-T2 vertebral arch joint",
+0,
+[]
+],
+[
+"cervical intervertebral syndesmosis",
+0,
+[]
+],
+[
+"atlanto-axial syndesmosis",
+0,
+[]
+],
+[
+"C2-C3 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"C3-C4 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"C4-C5 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"C5-C6 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"C6-C7 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"C7-T1 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"L1-L2 vertebral arch joint",
+0,
+[]
+],
+[
+"right c2-c3 vertebral arch joint",
+0,
+[]
+],
+[
+"left c2-c3 vertebral arch joint",
+0,
+[]
+],
+[
+"right c3-c4 vertebral arch joint",
+0,
+[]
+],
+[
+"left c3-c4 vertebral arch joint",
+0,
+[]
+],
+[
+"right c4-c5 vertebral arch joint",
+0,
+[]
+],
+[
+"left c4-c5 vertebral arch joint",
+0,
+[]
+],
+[
+"right c5-c6 vertebral arch joint",
+0,
+[]
+],
+[
+"left c5-c6 vertebral arch joint",
+0,
+[]
+],
+[
+"right c6-c7 vertebral arch joint",
+0,
+[]
+],
+[
+"left c6-c7 vertebral arch joint",
+0,
+[]
+],
+[
+"right c7-t1 vertebral arch joint",
+0,
+[]
+],
+[
+"left c7-t1 vertebral arch joint",
+0,
+[]
+],
+[
+"T2-T3 vertebral arch joint",
+0,
+[]
+],
+[
+"T3-T4 vertebral arch joint",
+0,
+[]
+],
+[
+"T4-T5 vertebral arch joint",
+0,
+[]
+],
+[
+"T5-T6 vertebral arch joint",
+0,
+[]
+],
+[
+"T6-T7 vertebral arch joint",
+0,
+[]
+],
+[
+"T7-T8 vertebral arch joint",
+0,
+[]
+],
+[
+"T8-T9 vertebral arch joint",
+0,
+[]
+],
+[
+"T9-T10 vertebral arch joint",
+0,
+[]
+],
+[
+"T10-T11 vertebral arch joint",
+0,
+[]
+],
+[
+"T11-T12 vertebral arch joint",
+0,
+[]
+],
+[
+"T12-L1 vertebral arch joint",
+0,
+[]
+],
+[
+"right t1-t2 vertebral arch joint",
+0,
+[]
+],
+[
+"left t1-t2 vertebral arch joint",
+0,
+[]
+],
+[
+"right t2-t3 vertebral arch joint",
+0,
+[]
+],
+[
+"left t2-t3 vertebral arch joint",
+0,
+[]
+],
+[
+"right t3-t4 vertebral arch joint",
+0,
+[]
+],
+[
+"left t3-t4 vertebral arch joint",
+0,
+[]
+],
+[
+"right t4-t5 vertebral arch joint",
+0,
+[]
+],
+[
+"left t4-t5 vertebral arch joint",
+0,
+[]
+],
+[
+"right t5-t6 vertebral arch joint",
+0,
+[]
+],
+[
+"left t5-t6 vertebral arch joint",
+0,
+[]
+],
+[
+"right t6-t7 vertebral arch joint",
+0,
+[]
+],
+[
+"left t6-t7 vertebral arch joint",
+0,
+[]
+],
+[
+"right t7-t8 vertebral arch joint",
+0,
+[]
+],
+[
+"left t7-t8 vertebral arch joint",
+0,
+[]
+],
+[
+"right t8-t9 vertebral arch joint",
+0,
+[]
+],
+[
+"left t8-t9 vertebral arch joint",
+0,
+[]
+],
+[
+"right t9-t10 vertebral arch joint",
+0,
+[]
+],
+[
+"left t9-t10 vertebral arch joint",
+0,
+[]
+],
+[
+"right t10-t11 vertebral arch joint",
+0,
+[]
+],
+[
+"left t10-t11 vertebral arch joint",
+0,
+[]
+],
+[
+"right t11-t12 vertebral arch joint",
+0,
+[]
+],
+[
+"left t11-t12 vertebral arch joint",
+0,
+[]
+],
+[
+"right t12-l1 vertebral arch joint",
+0,
+[]
+],
+[
+"left t12-l1 vertebral arch joint",
+0,
+[]
+],
+[
+"L2-L3 vertebral arch joint",
+0,
+[]
+],
+[
+"L3-L4 vertebral arch joint",
+0,
+[]
+],
+[
+"L4-L5 vertebral arch joint",
+0,
+[]
+],
+[
+"L5-S1 vertebral arch joint",
+0,
+[]
+],
+[
+"right l1-l2 vertebral arch joint",
+0,
+[]
+],
+[
+"left l1-l2 vertebral arch joint",
+0,
+[]
+],
+[
+"right l2-l3 vertebral arch joint",
+0,
+[]
+],
+[
+"left l2-l3 vertebral arch joint",
+0,
+[]
+],
+[
+"right l3-l4 vertebral arch joint",
+0,
+[]
+],
+[
+"left l3-l4 vertebral arch joint",
+0,
+[]
+],
+[
+"right l4-l5 vertebral arch joint",
+0,
+[]
+],
+[
+"left l4-l5 vertebral arch joint",
+0,
+[]
+],
+[
+"right l5-s1 vertebral arch joint",
+0,
+[]
+],
+[
+"left l5-s1 vertebral arch joint",
+0,
+[]
+],
+[
+"L1-L2 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"L2-L3 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"L3-L4 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"L4-L5 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"L5-S1 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"synovial joint of pelvic girdle",
+0,
+[]
+],
+[
+"right knee joint",
+0,
+[]
+],
+[
+"left knee joint",
+0,
+[]
+],
+[
+"right hip joint",
+0,
+[]
+],
+[
+"left hip joint",
+0,
+[]
+],
+[
+"tibiofibular joint",
+0,
+[]
+],
+[
+"right tibiofibular joint",
+0,
+[]
+],
+[
+"left tibiofibular joint",
+0,
+[]
+],
+[
+"right superior tibiofibular joint",
+0,
+[]
+],
+[
+"left superior tibiofibular joint",
+0,
+[]
+],
+[
+"right inferior tibiofibular joint",
+0,
+[]
+],
+[
+"left inferior tibiofibular joint",
+0,
+[]
+],
+[
+"right ankle joint",
+0,
+[]
+],
+[
+"left ankle joint",
+0,
+[]
+],
+[
+"right talocalcaneal joint",
+0,
+[]
+],
+[
+"left talocalcaneal joint",
+0,
+[]
+],
+[
+"right transverse tarsal joint",
+0,
+[]
+],
+[
+"left transverse tarsal joint",
+0,
+[]
+],
+[
+"right talocalcaneonavicular joint",
+0,
+[]
+],
+[
+"left talocalcaneonavicular joint",
+0,
+[]
+],
+[
+"right calcaneocuboid joint",
+0,
+[]
+],
+[
+"left calcaneocuboid joint",
+0,
+[]
+],
+[
+"right cuneonavicular joint",
+0,
+[]
+],
+[
+"left cuneonavicular joint",
+0,
+[]
+],
+[
+"right intercuneiform joint",
+0,
+[]
+],
+[
+"left intercuneiform joint",
+0,
+[]
+],
+[
+"right tarsometatarsal joint",
+0,
+[]
+],
+[
+"left tarsometatarsal joint",
+0,
+[]
+],
+[
+"first intermetatarsal joint",
+0,
+[]
+],
+[
+"second intermetatarsal joint",
+0,
+[]
+],
+[
+"metatarsophalangeal joint of big toe",
+0,
+[]
+],
+[
+"metatarsophalangeal joint of right big toe",
+0,
+[]
+],
+[
+"metatarsophalangeal joint of left big toe",
+0,
+[]
+],
+[
+"metatarsophalangeal joint of second toe",
+0,
+[]
+],
+[
+"metatarsophalangeal joint of right second toe",
+0,
+[]
+],
+[
+"metatarsophalangeal joint of left second toe",
+0,
+[]
+],
+[
+"metatarsophalangeal joint of third toe",
+0,
+[]
+],
+[
+"metatarsophalangeal joint of right third toe",
+0,
+[]
+],
+[
+"metatarsophalangeal joint of left third toe",
+0,
+[]
+],
+[
+"metatarsophalangeal joint of fourth toe",
+0,
+[]
+],
+[
+"metatarsophalangeal joint of right fourth toe",
+0,
+[]
+],
+[
+"metatarsophalangeal joint of left fourth toe",
+0,
+[]
+],
+[
+"metatarsophalangeal joint of little toe",
+0,
+[]
+],
+[
+"metatarsophalangeal joint of right little toe",
+0,
+[]
+],
+[
+"metatarsophalangeal joint of left little toe",
+0,
+[]
+],
+[
+"synovial joint of pectoral girdle",
+0,
+[]
+],
+[
+"metacarpophalangeal joint of thumb",
+0,
+[]
+],
+[
+"metacarpophalangeal joint of right thumb",
+0,
+[]
+],
+[
+"metacarpophalangeal joint of left thumb",
+0,
+[]
+],
+[
+"metacarpophalangeal joint of index finger",
+0,
+[]
+],
+[
+"metacarpophalangeal joint of right index finger",
+0,
+[]
+],
+[
+"metacarpophalangeal joint of left index finger",
+0,
+[]
+],
+[
+"metacarpophalangeal joint of middle finger",
+0,
+[]
+],
+[
+"metacarpophalangeal joint of right middle finger",
+0,
+[]
+],
+[
+"metacarpophalangeal joint of left middle finger",
+0,
+[]
+],
+[
+"metacarpophalangeal joint of ring finger",
+0,
+[]
+],
+[
+"metacarpophalangeal joint of right ring finger",
+0,
+[]
+],
+[
+"metacarpophalangeal joint of left ring finger",
+0,
+[]
+],
+[
+"metacarpophalangeal joint of little finger",
+0,
+[]
+],
+[
+"metacarpophalangeal joint of right little finger",
+0,
+[]
+],
+[
+"metacarpophalangeal joint of left little finger",
+0,
+[]
+],
+[
+"intermetacarpal joint",
+0,
+[]
+],
+[
+"right elbow joint",
+0,
+[]
+],
+[
+"left elbow joint",
+0,
+[]
+],
+[
+"right distal radio-ulnar joint",
+0,
+[]
+],
+[
+"left distal radio-ulnar joint",
+0,
+[]
+],
+[
+"right wrist joint",
+0,
+[]
+],
+[
+"left wrist joint",
+0,
+[]
+],
+[
+"interphalangeal joint of thumb",
+0,
+[]
+],
+[
+"interphalangeal joint of right thumb",
+0,
+[]
+],
+[
+"interphalangeal joint of left thumb",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of index finger",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of right index finger",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of left index finger",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of middle finger",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of right middle finger",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of left middle finger",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of ring finger",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of right ring finger",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of left ring finger",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of little finger",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of right little finger",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of left little finger",
+0,
+[]
+],
+[
+"distal interphalangeal joint of index finger",
+0,
+[]
+],
+[
+"distal interphalangeal joint of right index finger",
+0,
+[]
+],
+[
+"distal interphalangeal joint of left index finger",
+0,
+[]
+],
+[
+"distal interphalangeal joint of middle finger",
+0,
+[]
+],
+[
+"distal interphalangeal joint of right middle finger",
+0,
+[]
+],
+[
+"distal interphalangeal joint of left middle finger",
+0,
+[]
+],
+[
+"distal interphalangeal joint of ring finger",
+0,
+[]
+],
+[
+"distal interphalangeal joint of right ring finger",
+0,
+[]
+],
+[
+"distal interphalangeal joint of left ring finger",
+0,
+[]
+],
+[
+"distal interphalangeal joint of little finger",
+0,
+[]
+],
+[
+"distal interphalangeal joint of right little finger",
+0,
+[]
+],
+[
+"distal interphalangeal joint of left little finger",
+0,
+[]
+],
+[
+"interphalangeal joint of big toe",
+0,
+[]
+],
+[
+"interphalangeal joint of right big toe",
+0,
+[]
+],
+[
+"interphalangeal joint of left big toe",
+0,
+[]
+],
+[
+"interphalangeal joint of second toe",
+0,
+[]
+],
+[
+"interphalangeal joint of right second toe",
+0,
+[]
+],
+[
+"interphalangeal joint of left second toe",
+0,
+[]
+],
+[
+"interphalangeal joint of third toe",
+0,
+[]
+],
+[
+"interphalangeal joint of right third toe",
+0,
+[]
+],
+[
+"interphalangeal joint of left third toe",
+0,
+[]
+],
+[
+"interphalangeal joint of fourth toe",
+0,
+[]
+],
+[
+"interphalangeal joint of right fourth toe",
+0,
+[]
+],
+[
+"interphalangeal joint of left fourth toe",
+0,
+[]
+],
+[
+"interphalangeal joint of little toe",
+0,
+[]
+],
+[
+"interphalangeal joint of right little toe",
+0,
+[]
+],
+[
+"interphalangeal joint of left little toe",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of second toe",
+0,
+[]
+],
+[
+"distal interphalangeal joint of second toe",
+0,
+[]
+],
+[
+"distal interphalangeal joint of right second toe",
+0,
+[]
+],
+[
+"distal interphalangeal joint of left second toe",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of right second toe",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of left second toe",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of third toe",
+0,
+[]
+],
+[
+"distal interphalangeal joint of third toe",
+0,
+[]
+],
+[
+"distal interphalangeal joint of right third toe",
+0,
+[]
+],
+[
+"distal interphalangeal joint of left third toe",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of right third toe",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of left third toe",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of fourth toe",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of right fourth toe",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of left fourth toe",
+0,
+[]
+],
+[
+"distal interphalangeal joint of fourth toe",
+0,
+[]
+],
+[
+"distal interphalangeal joint of right fourth toe",
+0,
+[]
+],
+[
+"distal interphalangeal joint of left fourth toe",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of little toe",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of right little toe",
+0,
+[]
+],
+[
+"proximal interphalangeal joint of left little toe",
+0,
+[]
+],
+[
+"distal interphalangeal joint of little toe",
+0,
+[]
+],
+[
+"distal interphalangeal joint of right little toe",
+0,
+[]
+],
+[
+"distal interphalangeal joint of left little toe",
+0,
+[]
+],
+[
+"interphalangeal joint of index finger",
+0,
+[]
+],
+[
+"interphalangeal joint of middle finger",
+0,
+[]
+],
+[
+"interphalangeal joint of ring finger",
+0,
+[]
+],
+[
+"interphalangeal joint of little finger",
+0,
+[]
+],
+[
+"carpometacarpal joint of right thumb",
+0,
+[]
+],
+[
+"carpometacarpal joint of left thumb",
+0,
+[]
+],
+[
+"second carpometacarpal joint",
+0,
+[]
+],
+[
+"right second carpometacarpal joint",
+0,
+[]
+],
+[
+"left second carpometacarpal joint",
+0,
+[]
+],
+[
+"third carpometacarpal joint",
+0,
+[]
+],
+[
+"right third carpometacarpal joint",
+0,
+[]
+],
+[
+"left third carpometacarpal joint",
+0,
+[]
+],
+[
+"fourth carpometacarpal joint",
+0,
+[]
+],
+[
+"right fourth carpometacarpal joint",
+0,
+[]
+],
+[
+"left fourth carpometacarpal joint",
+0,
+[]
+],
+[
+"fifth carpometacarpal joint",
+0,
+[]
+],
+[
+"right fifth carpometacarpal joint",
+0,
+[]
+],
+[
+"left fifth carpometacarpal joint",
+0,
+[]
+],
+[
+"right humeroulnar joint",
+0,
+[]
+],
+[
+"left humeroulnar joint",
+0,
+[]
+],
+[
+"right humeroradial joint",
+0,
+[]
+],
+[
+"left humeroradial joint",
+0,
+[]
+],
+[
+"right proximal radio-ulnar joint",
+0,
+[]
+],
+[
+"left proximal radio-ulnar joint",
+0,
+[]
+],
+[
+"right radioulnar syndesmosis",
+0,
+[]
+],
+[
+"left radioulnar syndesmosis",
+0,
+[]
+],
+[
+"interphalangeal joint",
+0,
+[]
+],
+[
+"right tibiofemoral joint",
+0,
+[]
+],
+[
+"left tibiofemoral joint",
+0,
+[]
+],
+[
+"patellofemoral joint",
+0,
+[]
+],
+[
+"right patellofemoral joint",
+0,
+[]
+],
+[
+"left patellofemoral joint",
+0,
+[]
+],
+[
+"intertarsal joint",
+0,
+[]
+],
+[
+"right intertarsal joint",
+0,
+[]
+],
+[
+"left intertarsal joint",
+0,
+[]
+],
+[
+"right cuboideonavicular joint",
+0,
+[]
+],
+[
+"left cuboideonavicular joint",
+0,
+[]
+],
+[
+"right cuneocuboid joint",
+0,
+[]
+],
+[
+"left cuneocuboid joint",
+0,
+[]
+],
+[
+"first tarsometatarsal joint",
+0,
+[]
+],
+[
+"second tarsometatarsal joint",
+0,
+[]
+],
+[
+"third tarsometatarsal joint",
+0,
+[]
+],
+[
+"fourth tarsometatarsal joint",
+0,
+[]
+],
+[
+"fifth tarsometatarsal joint",
+0,
+[]
+],
+[
+"right first tarsometatarsal joint",
+0,
+[]
+],
+[
+"left first tarsometatarsal joint",
+0,
+[]
+],
+[
+"right second tarsometatarsal joint",
+0,
+[]
+],
+[
+"left second tarsometatarsal joint",
+0,
+[]
+],
+[
+"right third tarsometatarsal joint",
+0,
+[]
+],
+[
+"left third tarsometatarsal joint",
+0,
+[]
+],
+[
+"right fourth tarsometatarsal joint",
+0,
+[]
+],
+[
+"left fourth tarsometatarsal joint",
+0,
+[]
+],
+[
+"right fifth tarsometatarsal joint",
+0,
+[]
+],
+[
+"left fifth tarsometatarsal joint",
+0,
+[]
+],
+[
+"right occipitomastoid suture",
+0,
+[]
+],
+[
+"left occipitomastoid suture",
+0,
+[]
+],
+[
+"right sphenosquamosal suture",
+0,
+[]
+],
+[
+"left sphenosquamosal suture",
+0,
+[]
+],
+[
+"right nasomaxillary suture",
+0,
+[]
+],
+[
+"left nasomaxillary suture",
+0,
+[]
+],
+[
+"right temporozygomatic suture",
+0,
+[]
+],
+[
+"left temporozygomatic suture",
+0,
+[]
+],
+[
+"right palatomaxillary suture",
+0,
+[]
+],
+[
+"left palatomaxillary suture",
+0,
+[]
+],
+[
+"right sphenofrontal suture",
+0,
+[]
+],
+[
+"left sphenofrontal suture",
+0,
+[]
+],
+[
+"right spheno-ethmoidal suture",
+0,
+[]
+],
+[
+"left spheno-ethmoidal suture",
+0,
+[]
+],
+[
+"right sphenoparietal suture",
+0,
+[]
+],
+[
+"left sphenoparietal suture",
+0,
+[]
+],
+[
+"right zygomaticomaxillary suture",
+0,
+[]
+],
+[
+"left zygomaticomaxillary suture",
+0,
+[]
+],
+[
+"right lacrimomaxillary suture",
+0,
+[]
+],
+[
+"left lacrimomaxillary suture",
+0,
+[]
+],
+[
+"right frontozygomatic suture",
+0,
+[]
+],
+[
+"left frontozygomatic suture",
+0,
+[]
+],
+[
+"right squamous suture",
+0,
+[]
+],
+[
+"left squamous suture",
+0,
+[]
+],
+[
+"right squamomastoid suture",
+0,
+[]
+],
+[
+"left squamomastoid suture",
+0,
+[]
+],
+[
+"right sphenozygomatic suture",
+0,
+[]
+],
+[
+"left sphenozygomatic suture",
+0,
+[]
+],
+[
+"right frontomaxillary suture",
+0,
+[]
+],
+[
+"left frontomaxillary suture",
+0,
+[]
+],
+[
+"right fronto-ethmoidal suture",
+0,
+[]
+],
+[
+"left fronto-ethmoidal suture",
+0,
+[]
+],
+[
+"right ethmoidomaxillary suture",
+0,
+[]
+],
+[
+"left ethmoidomaxillary suture",
+0,
+[]
+],
+[
+"right parietomastoid suture",
+0,
+[]
+],
+[
+"left parietomastoid suture",
+0,
+[]
+],
+[
+"right sphenovomerine suture",
+0,
+[]
+],
+[
+"left sphenovomerine suture",
+0,
+[]
+],
+[
+"right sphenomaxillary suture",
+0,
+[]
+],
+[
+"left sphenomaxillary suture",
+0,
+[]
+],
+[
+"right lacrimoconchal suture",
+0,
+[]
+],
+[
+"left lacrimoconchal suture",
+0,
+[]
+],
+[
+"right frontolacrimal suture",
+0,
+[]
+],
+[
+"left frontolacrimal suture",
+0,
+[]
+],
+[
+"sphenopetrosal synchondrosis",
+0,
+[]
+],
+[
+"right sphenopetrosal synchondrosis",
+0,
+[]
+],
+[
+"left sphenopetrosal synchondrosis",
+0,
+[]
+],
+[
+"cranial synchondroses",
+0,
+[]
+],
+[
+"spheno-occipital synchondrosis",
+0,
+[]
+],
+[
+"petro-occipital synchondrosis",
+0,
+[]
+],
+[
+"posterior intra-occipital synchondrosis",
+0,
+[]
+],
+[
+"anterior intra-occipital synchondrosis",
+0,
+[]
+],
+[
+"spheno-ethmoidal synchondrosis",
+0,
+[]
+],
+[
+"cranial synovial joint",
+0,
+[]
+],
+[
+"right temporomandibular joint",
+0,
+[]
+],
+[
+"left temporomandibular joint",
+0,
+[]
+],
+[
+"laryngeal joint",
+0,
+[]
+],
+[
+"right crico-arytenoid joint",
+0,
+[]
+],
+[
+"left crico-arytenoid joint",
+0,
+[]
+],
+[
+"right cricothyroid joint",
+0,
+[]
+],
+[
+"left cricothyroid joint",
+0,
+[]
+],
+[
+"right incudomallear joint",
+0,
+[]
+],
+[
+"left incudomallear joint",
+0,
+[]
+],
+[
+"right incudostapedial joint",
+0,
+[]
+],
+[
+"left incudostapedial joint",
+0,
+[]
+],
+[
+"right tympanostapedial syndesmosis",
+0,
+[]
+],
+[
+"left tympanostapedial syndesmosis",
+0,
+[]
+],
+[
+"dento-alveolar joint of incisor tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of canine tooth",
+0,
+[]
+],
+[
+"spheno-occipital synostosis",
+0,
+[]
+],
+[
+"dento-alveolar joint of right upper central incisor tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of left upper central incisor tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of right upper lateral incisor tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of left upper lateral incisor tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of right lower central incisor tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of left lower central incisor tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of right lower lateral incisor tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of left lower lateral incisor tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of right upper canine tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of left upper canine tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of right lower canine tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of left lower canine tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of premolar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of right upper first premolar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of left upper first premolar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of right upper second premolar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of left upper second premolar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of right lower first premolar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of left lower first premolar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of right lower second premolar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of left lower second premolar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of molar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of right lower first molar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of left lower first molar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of right lower second molar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of left lower second molar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of right lower third molar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of left lower third molar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of right upper first molar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of left upper first molar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of right upper second molar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of left upper second molar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of right upper third molar tooth",
+0,
+[]
+],
+[
+"dento-alveolar joint of left upper third molar tooth",
+0,
+[]
+],
+[
+"intermetacarpal joint of second and third metacarpal bones",
+0,
+[]
+],
+[
+"intermetacarpal joint of right second and third metacarpal bones",
+0,
+[]
+],
+[
+"intermetacarpal joint of left second and third metacarpal bones",
+0,
+[]
+],
+[
+"intermetacarpal joint of third and fourth metacarpal bones",
+0,
+[]
+],
+[
+"intermetacarpal joint of right third and fourth metacarpal bones",
+0,
+[]
+],
+[
+"intermetacarpal joint of left third and fourth metacarpal bones",
+0,
+[]
+],
+[
+"intermetacarpal joint of fourth and fifth metacarpal bones",
+0,
+[]
+],
+[
+"intermetacarpal joint of right fourth and fifth metacarpal bones",
+0,
+[]
+],
+[
+"intermetacarpal joint of left fourth and fifth metacarpal bones",
+0,
+[]
+],
+[
+"right ethmoidolacrimal suture",
+0,
+[]
+],
+[
+"left ethmoidolacrimal suture",
+0,
+[]
+],
+[
+"pterygospinous syndesmosis",
+0,
+[]
+],
+[
+"cranial syndesmosis",
+0,
+[]
+],
+[
+"stylohyoid syndesmosis",
+0,
+[]
+],
+[
+"intercoccygeal joint",
+0,
+[]
+],
+[
+"set of joints of right foot",
+0,
+[]
+],
+[
+"set of joints of left foot",
+0,
+[]
+],
+[
+"set of tarsometatarsal joints of right foot",
+0,
+[]
+],
+[
+"set of tarsometatarsal joints of left foot",
+0,
+[]
+],
+[
+"set of intermetatarsal joints of right foot",
+0,
+[]
+],
+[
+"set of intermetatarsal joints of left foot",
+0,
+[]
+],
+[
+"set of metatarsophalangeal joints of right foot",
+0,
+[]
+],
+[
+"set of metatarsophalangeal joints of left foot",
+0,
+[]
+],
+[
+"set of interphalangeal joints of right foot",
+0,
+[]
+],
+[
+"set of interphalangeal joints of left foot",
+0,
+[]
+],
+[
+"set of joints of auditory ossicles",
+0,
+[
+"articulations of auditory ossicles"
+]
+],
+[
+"medial-intermediate intercuneiform joint",
+0,
+[]
+],
+[
+"lateral-intermediate intercuneiform joint",
+0,
+[]
+],
+[
+"right medial-intermediate intercuneiform joint",
+0,
+[]
+],
+[
+"left medial-intermediate intercuneiform joint",
+0,
+[]
+],
+[
+"right lateral-intermediate intercuneiform joint",
+0,
+[]
+],
+[
+"left lateral-intermediate intercuneiform joint",
+0,
+[]
+],
+[
+"third intermetatarsal joint",
+0,
+[]
+],
+[
+"fourth intermetatarsal joint",
+0,
+[]
+],
+[
+"right first intermetatarsal joint",
+0,
+[]
+],
+[
+"left first intermetatarsal joint",
+0,
+[]
+],
+[
+"right second intermetatarsal joint",
+0,
+[]
+],
+[
+"left second intermetatarsal joint",
+0,
+[]
+],
+[
+"right third intermetatarsal joint",
+0,
+[]
+],
+[
+"left third intermetatarsal joint",
+0,
+[]
+],
+[
+"right fourth intermetatarsal joint",
+0,
+[]
+],
+[
+"left fourth intermetatarsal joint",
+0,
+[]
+],
+[
+"cylindrical joint",
+0,
+[]
+],
+[
+"serrate suture",
+0,
+[]
+],
+[
+"denticulate suture",
+0,
+[]
+],
+[
+"limbous suture",
+0,
+[]
+],
+[
+"T11-T12 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"T12-L1 intervertebral syndesmosis",
+0,
+[]
+],
+[
+"Cervical vertebral arch joint",
+0,
+[]
+],
+[
+"Lumbar vertebral arch joint",
+0,
+[]
+],
+[
+"Interchondral joint of right 9th and 10th ribs",
+0,
+[]
+],
+[
+"Interchondral joint of left 9th and 10th ribs",
+0,
+[]
 ]
 ]

@@ -1,366 +1,804 @@
 [
 [
 "Orion",
-126
+126,
+[
+"Ori",
+"Orion (constellation)",
+"Orionis"
+]
 ],
 [
 "Ursa Major",
-125
+125,
+[
+"Arctus",
+"Arktos",
+"Charles's Wain",
+"Great Bear",
+"Larger Bear",
+"UMa",
+"Ursae Majoris"
+]
 ],
 [
 "Gemini",
-112
+112,
+[
+"♊",
+"Gem",
+"Gemini (constellation)",
+"Geminorum"
+]
 ],
 [
 "Taurus",
-109
+109,
+[
+"♉",
+"Tau",
+"Tauri",
+"The Bull"
+]
 ],
 [
 "Leo",
-109
+109,
+[
+"Leo (constellation)",
+"Leonis"
+]
 ],
 [
 "Ursa Minor",
-107
+107,
+[
+"Little Bear",
+"Little Dipper",
+"UMi",
+"Ursae Minoris"
+]
 ],
 [
 "Capricornus",
-107
+107,
+[
+"♑︎",
+"♑️",
+"Capri",
+"Capricorn",
+"Capricorni",
+"Sea goat",
+"Sea-goat"
+]
 ],
 [
 "Virgo",
-106
+106,
+[
+"Vir",
+"Virginis",
+"Virgo (constellation)"
+]
 ],
 [
 "Sagittarius",
-106
+106,
+[
+"Sagitarii",
+"Sagittarius (constellation)",
+"Sgr"
+]
 ],
 [
 "Scorpius",
-104
+104,
+[
+"Sco",
+"Scorpii",
+"Scorpio"
+]
 ],
 [
 "Libra",
-102
+102,
+[
+"Lib",
+"Librae"
+]
 ],
 [
 "Aquarius",
-101
+101,
+[
+"Aqr"
+]
 ],
 [
 "Pisces",
-101
+101,
+[
+"Pisces (constellation)",
+"Piscium",
+"Psc"
+]
 ],
 [
 "Andromeda",
-100
+100,
+[
+"And",
+"Andromeda (constellation)",
+"Andromedae"
+]
 ],
 [
 "Cygnus",
-98
+98,
+[
+"Cyg",
+"Cygni",
+"Cygnus (constellation)"
+]
 ],
 [
 "Canis Major",
-97
+97,
+[
+"Canis Majoris",
+"CMa"
+]
 ],
 [
 "Crux",
-96
+96,
+[
+"Cru",
+"Cruc",
+"Crucis",
+"Southern Cross",
+"the Southern Cross"
+]
 ],
 [
 "Auriga",
-94
+94,
+[
+"Aur",
+"Aurigae"
+]
 ],
 [
 "Lyra",
-94
+94,
+[
+"Lyr",
+"Lyrae"
+]
 ],
 [
 "Boötes",
-94
+94,
+[
+"Boo",
+"Boötis"
+]
 ],
 [
 "Centaurus",
-94
+94,
+[
+"Cen",
+"Centauri",
+"the Centaur"
+]
 ],
 [
 "Ophiuchus",
-93
+93,
+[
+"Oph",
+"Ophiuchi",
+"Serpentarius",
+"Serpent Holder"
+]
 ],
 [
 "Perseus",
-92
+92,
+[
+"Per",
+"Persei"
+]
 ],
 [
 "Cassiopeia",
-91
+91,
+[
+"Cas",
+"Cassiopeiae"
+]
 ],
 [
 "Aquila",
-91
+91,
+[
+"Aql",
+"Aquilae"
+]
 ],
 [
 "Draco",
-91
+91,
+[
+"Dra",
+"Draco (constellation)",
+"Draconis"
+]
 ],
 [
 "Pegasus",
-91
+91,
+[
+"Peg",
+"Pegasi",
+"Pegasus (constellation)"
+]
 ],
 [
 "Corona Borealis",
-90
+90,
+[
+"Coronae Borealis",
+"CrB",
+"Crown of Ariadne",
+"northern crown"
+]
 ],
 [
 "Eridanus",
-90
+90,
+[
+"Eri",
+"Eridani"
+]
 ],
 [
 "Hercules",
-90
+90,
+[
+"Her",
+"Herculis"
+]
 ],
 [
 "Lepus",
-89
+89,
+[
+"Lep",
+"Leporis"
+]
 ],
 [
 "Antlia",
-89
+89,
+[
+"Ant",
+"Antila",
+"Antliae",
+"Antlia Pneumatica",
+"the Air Pump"
+]
 ],
 [
 "Hydra",
-89
+89,
+[
+"Hya",
+"Hydrae"
+]
 ],
 [
 "Coma Berenices",
-89
+89,
+[
+"Com",
+"Comae Berenices"
+]
 ],
 [
 "Canis Minor",
-89
+89,
+[
+"Canis Minoris",
+"CMi"
+]
 ],
 [
 "Equuleus",
-88
+88,
+[
+"Equ",
+"Equulei"
+]
 ],
 [
 "Cepheus",
-88
+88,
+[
+"Cep",
+"Cephei"
+]
 ],
 [
 "Lupus",
-88
+88,
+[
+"Lup",
+"Lupi",
+"Lupus (constellation)"
+]
 ],
 [
 "Cetus",
-87
+87,
+[
+"Cet",
+"Ceti"
+]
 ],
 [
 "Hydrus",
-86
+86,
+[
+"Hydri",
+"Hyi",
+"the Water Snake"
+]
 ],
 [
 "Monoceros",
-86
+86,
+[
+"Mon",
+"Monocerotis"
+]
 ],
 [
 "Carina",
-86
+86,
+[
+"Car",
+"Carinae",
+"the Keel"
+]
 ],
 [
 "Delphinus",
-86
+86,
+[
+"Del",
+"Delphini",
+"Delphinus (constellation)"
+]
 ],
 [
 "Canes Venatici",
-85
+85,
+[
+"Canum Venaticorum",
+"CVn"
+]
 ],
 [
 "Caelum",
-85
+85,
+[
+"Cae",
+"Caeli",
+"the Chisel"
+]
 ],
 [
 "Vulpecula",
-85
+85,
+[
+"Vul",
+"Vulpecula cum Ansere",
+"Vulpeculae"
+]
 ],
 [
 "Triangulum",
-85
+85,
+[
+"Tri",
+"Trianguli"
+]
 ],
 [
 "Camelopardalis",
-85
+85,
+[
+"Cam",
+"Camelopardalus",
+"Camelopardi",
+"Camelopardus",
+"the Giraffe"
+]
 ],
 [
 "Fornax",
-85
+85,
+[
+"For",
+"Fornacis",
+"the Furnace"
+]
 ],
 [
 "Piscis Austrinus",
-84
+84,
+[
+"Piscis Australis",
+"Piscis Austrini",
+"Piscis Notius",
+"PsA"
+]
 ],
 [
 "Lacerta",
-84
+84,
+[
+"Lac",
+"Lacertae",
+"Little Cassiopeia"
+]
 ],
 [
 "Lynx",
-84
+84,
+[
+"Lyn",
+"Lyncis"
+]
 ],
 [
 "Apus",
-84
+84,
+[
+"Apodis",
+"Aps",
+"the Bird of Paradise"
+]
 ],
 [
 "Sagitta",
-84
+84,
+[
+"Sagittae",
+"Sge"
+]
 ],
 [
 "Vela",
-84
+84,
+[
+"The Sails",
+"Vel",
+"Velorum"
+]
 ],
 [
 "Serpens",
-84
+84,
+[
+"Ser",
+"Serpentis"
+]
 ],
 [
 "Ara",
-84
+84,
+[
+"Ara (constellation)",
+"Arae",
+"the Altar"
+]
 ],
 [
 "Leo Minor",
-83
+83,
+[
+"Leonis Minoris",
+"LMi",
+"the smaller lion"
+]
 ],
 [
 "Corona Australis",
-83
+83,
+[
+"Corona Austrina",
+"Coronae Australis",
+"Coronae Austrinae",
+"CrA"
+]
 ],
 [
 "Columba",
-83
+83,
+[
+"Col",
+"Columbae",
+"Columba Noachi",
+"Columba Noæ",
+"the Dove"
+]
 ],
 [
 "Phoenix",
-83
+83,
+[
+"Phe",
+"Phoenicis",
+"the Phoenix"
+]
 ],
 [
 "Chamaeleon",
-83
+83,
+[
+"Cha",
+"Chamaeleontis",
+"the Chameleon"
+]
 ],
 [
 "Corvus",
-83
+83,
+[
+"Corvi",
+"Crv"
+]
 ],
 [
 "Sextans",
-83
+83,
+[
+"Sex",
+"Sextansis",
+"Sextantis"
+]
 ],
 [
 "Puppis",
-83
+83,
+[
+"Pup",
+"the Poop Deck",
+"the Stern"
+]
 ],
 [
 "Crater",
-83
+83,
+[
+"Crater (constellation)",
+"Crateris",
+"Crt"
+]
 ],
 [
 "Sculptor",
-83
+83,
+[
+"Scl",
+"Sculptor (constellation)",
+"Sculptoris"
+]
 ],
 [
 "Indus",
-82
+82,
+[
+"Ind",
+"Indi",
+"Indus (constellation)"
+]
 ],
 [
 "Octans",
-82
+82,
+[
+"Oct",
+"Octantis",
+"the Octant"
+]
 ],
 [
 "Scutum",
-82
+82,
+[
+"Sct",
+"Scuti",
+"Scutum Sobiescanum",
+"Sobieski's Shield"
+]
 ],
 [
 "Grus",
-82
+82,
+[
+"Gru",
+"Gruis",
+"the Crane"
+]
 ],
 [
 "Tucana",
-82
+82,
+[
+"The Toucan",
+"Tuc",
+"Tucanae"
+]
 ],
 [
 "Horologium",
-82
+82,
+[
+"Hor",
+"Horologii",
+"the Clock"
+]
 ],
 [
 "Dorado",
-82
+82,
+[
+"Dor",
+"Dorado (constellation)",
+"Doradus",
+"the Swordfish"
+]
 ],
 [
 "Triangulum Australe",
-81
+81,
+[
+"The Southern Triangle",
+"TrA",
+"Trianguli Australis"
+]
 ],
 [
 "Musca",
-81
+81,
+[
+"Mus",
+"Muscae",
+"the Fly"
+]
 ],
 [
 "Volans",
-81
+81,
+[
+"Piscis Volans",
+"The Flying Fish",
+"Vol",
+"Volantis"
+]
 ],
 [
 "Pictor",
-81
+81,
+[
+"Equuleus Pictoris",
+"Pic",
+"Pictoris",
+"the Easel"
+]
 ],
 [
 "Microscopium",
-81
+81,
+[
+"Mic",
+"Microscopii",
+"the Microscope"
+]
 ],
 [
 "Pavo",
-81
+81,
+[
+"Pav",
+"Pavonis",
+"the Peacock"
+]
 ],
 [
 "Circinus",
-80
+80,
+[
+"Cir",
+"Circini",
+"the Compass"
+]
 ],
 [
 "Telescopium",
-80
+80,
+[
+"Tel",
+"Telescopii",
+"The Telescope"
+]
 ],
 [
 "Mensa",
-80
+80,
+[
+"Men",
+"Mensa (constellation)",
+"Mensae",
+"the Table Mountain"
+]
 ],
 [
 "Pyxis",
-79
+79,
+[
+"Pyx",
+"Pyxidis",
+"The Ship's Compass"
+]
 ],
 [
 "Norma",
-79
+79,
+[
+"Nor",
+"Normae",
+"the Carpenter's Square"
+]
 ],
 [
 "Reticulum",
-78
+78,
+[
+"Ret",
+"Reticuli",
+"the Reticle"
+]
 ],
 [
 "Left Wall of the Heavenly Market Enclosure",
-3
+3,
+[
+"Left Wall"
+]
 ],
 [
 "Gladii Electorales Saxonici",
-2
+2,
+[]
 ],
 [
 "Sciurus Volans",
-1
+1,
+[]
 ],
 [
 "Marmor Sculptile",
-1
+1,
+[]
 ],
 [
 "Sah",
-1
+1,
+[]
 ]
 ]

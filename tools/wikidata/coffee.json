@@ -1,446 +1,1123 @@
 [
 [
 "coffee",
-259
+259,
+[]
 ],
 [
 "cappuccino",
-77
+77,
+[
+"Kapuziner"
+]
 ],
 [
 "espresso",
-73
+73,
+[]
 ],
 [
 "Turkish coffee",
-69
+69,
+[]
 ],
 [
 "kopi luwak",
-54
+54,
+[]
 ],
 [
 "latte",
-50
+50,
+[
+"cafe latte",
+"caffe e latte",
+"caffè e latte",
+"caffe latte",
+"caffè latte",
+"caffellate",
+"Lattes"
+]
 ],
 [
 "instant coffee",
-50
+50,
+[
+"coffee crystals",
+"coffee powder",
+"soluble coffee"
+]
 ],
 [
 "Irish coffee",
-44
+44,
+[]
 ],
 [
 "cafè mocha",
-42
+42,
+[
+"café mocha",
+"mocha",
+"mochachino"
+]
 ],
 [
 "caffè americano",
-41
+41,
+[
+"americano",
+"cafe americano",
+"Caffe Americano"
+]
 ],
 [
 "caffè macchiato",
-39
+39,
+[
+"Caffe macchiato",
+"macchiato"
+]
 ],
 [
 "frappé coffee",
-39
+39,
+[
+"café frappé",
+"frappé",
+"frappe coffee"
+]
 ],
 [
 "iced coffee",
-38
+38,
+[
+"ice coffee"
+]
 ],
 [
 "latte macchiato",
-37
+37,
+[
+"Caramel macchiato"
+]
 ],
 [
 "Arabic coffee",
-35
+35,
+[
+"Gahwa"
+]
 ],
 [
 "cortado",
-33
+33,
+[]
 ],
 [
 "milk coffee",
-28
+28,
+[
+"coffee with milk"
+]
 ],
 [
 "ristretto",
-28
+28,
+[]
 ],
 [
 "bicerin",
-28
+28,
+[]
 ],
 [
 "Black Russian",
-26
+26,
+[]
 ],
 [
 "Vietnamese coffee",
-26
+26,
+[]
 ],
 [
 "flat white",
-26
+26,
+[
+"Flat white"
+]
 ],
 [
 "Frappuccino",
-26
+26,
+[]
 ],
 [
 "drip coffee",
-25
+25,
+[
+"brewed coffee",
+"drip brewed coffee",
+"filter coffee",
+"filtered coffee",
+"immersion brewed coffee",
+"pour-over coffee"
+]
 ],
 [
 "Egg coffee",
-25
+25,
+[]
 ],
 [
 "lungo",
-25
+25,
+[]
 ],
 [
 "Espresso martini",
-23
+23,
+[
+"Vodka espresso"
+]
 ],
 [
 "Carajillo",
-22
+22,
+[]
 ],
 [
 "café au lait",
-22
+22,
+[]
 ],
 [
 "yuenyeung",
-22
+22,
+[
+"coffee with tea",
+"milk coffee",
+"yuanyang"
+]
 ],
 [
 "cold brew coffee",
-22
+22,
+[
+"cold drip",
+"cold press coffee",
+"Dutch coffee",
+"Kyoto style cold brew"
+]
 ],
 [
 "Wiener Melange",
-22
+22,
+[]
 ],
 [
 "Jamaican Blue Mountain Coffee",
-22
+22,
+[
+"Jamaica Blue Mountain Coffee"
+]
 ],
 [
 "caffè sospeso",
-20
+20,
+[
+"caffe sospeso",
+"pending coffee"
+]
 ],
 [
 "galão",
-19
+19,
+[]
 ],
 [
 "Ipoh white coffee",
-17
+17,
+[]
 ],
 [
 "Kona coffee",
-16
+16,
+[]
 ],
 [
 "Maraba coffee",
-16
+16,
+[]
 ],
 [
 "café de olla",
-16
+16,
+[
+"cafe de olla"
+]
 ],
 [
 "Black Ivory coffee",
-16
+16,
+[]
 ],
 [
 "specialty coffee",
-15
+15,
+[]
 ],
 [
 "Moretta",
-15
+15,
+[]
 ],
 [
 "Cuban espresso",
-15
+15,
+[
+"Café cubano"
+]
 ],
 [
 "doppio",
-15
+15,
+[
+"doppio espresso"
+]
 ],
 [
 "long black",
-15
+15,
+[]
 ],
 [
 "mazagran",
-15
+15,
+[
+"cafe masagran",
+"café masagran",
+"cafe mazagran",
+"café mazagran",
+"masagran"
+]
 ],
 [
 "café con leche",
-14
+14,
+[
+"cafe con leche"
+]
 ],
 [
 "café Touba",
-14
+14,
+[
+"cafe Touba"
+]
 ],
 [
 "liqueur coffee",
-14
+14,
+[
+"coffee cocktail"
+]
 ],
 [
 "dandelion coffee",
-14
+14,
+[]
 ],
 [
 "Raph Coffee",
-14
+14,
+[
+"Raf",
+"Raf Coffee",
+"Raph"
+]
 ],
 [
 "Marocchino",
-13
+13,
+[]
 ],
 [
 "Kopi O",
-13
+13,
+[
+"Coffee",
+"Kopi"
+]
 ],
 [
 "bica",
-13
+13,
+[
+"bica coffee"
+]
 ],
 [
 "Indian filter coffee",
-12
+12,
+[
+"Kaapi"
+]
 ],
 [
 "Bourbon coffee",
-11
+11,
+[
+"Bourbon"
+]
 ],
 [
 "franziskaner",
-11
+11,
+[
+"café Vienne",
+"café Viennois"
+]
 ],
 [
 "caffè con panna",
-11
+11,
+[
+"espresso con panna"
+]
 ],
 [
 "karsk",
-11
+11,
+[]
 ],
 [
 "caffè crema",
-10
+10,
+[
+"caffe crema"
+]
 ],
 [
 "Monsooned Malabar",
-10
+10,
+[]
 ],
 [
 "mırra",
-10
+10,
+[]
 ],
 [
 "Pharisees",
-9
+9,
+[]
 ],
 [
 "kopi tubruk",
-9
+9,
+[]
 ],
 [
 "Geisha coffee",
-9
+9,
+[]
 ],
 [
 "Java coffee",
-8
+8,
+[]
 ],
 [
 "Oliang",
-8
+8,
+[]
 ],
 [
 "Boss Coffee",
-8
+8,
+[]
 ],
 [
 "canned coffee",
-8
+8,
+[]
 ],
 [
 "Georgia",
-8
+8,
+[
+"Georgia (coffee)"
+]
 ],
 [
 "Asiático",
-8
+8,
+[
+"Asiatico"
+]
 ],
 [
 "white coffee",
-8
+8,
+[]
 ],
 [
 "Einspänner",
-7
+7,
+[]
 ],
 [
 "shade-grown coffee",
-7
+7,
+[]
 ],
 [
 "coffee in Japan",
-7
+7,
+[]
 ],
 [
 "peaberry",
-7
+7,
+[]
 ],
 [
 "Single-origin coffee",
-7
+7,
+[]
 ],
 [
 "Pumpkin Spice Latte",
-6
+6,
+[
+"PSL",
+"pumpkin spice lattes"
+]
 ],
 [
 "robusta coffee",
-6
+6,
+[]
 ],
 [
 "red eye",
-6
+6,
+[]
 ],
 [
 "Ube latte",
-5
+5,
+[]
 ],
 [
 "Bulletproof Coffee",
-5
+5,
+[]
 ],
 [
 "weak coffee",
-5
+5,
+[
+"Blümchenkaffee"
+]
 ],
 [
 "Caffè Borghetti",
-4
+4,
+[]
 ],
 [
 "Yazdi coffee",
-4
+4,
+[]
 ],
 [
 "Death Wish Coffee",
-4
+4,
+[]
 ],
 [
 "caffè",
-4
+4,
+[
+"Italian coffee",
+"荷兰的咖啡"
+]
 ],
 [
 "nitro cold brew coffee",
-4
+4,
+[]
 ],
 [
 "espressino",
-4
+4,
+[]
 ],
 [
 "café glacé",
-4
+4,
+[]
 ],
 [
 "Café com Cheirinho",
-4
+4,
+[
+"Cafe com Cheirinho",
+"café com música"
+]
 ],
 [
 "Camp Coffee",
-4
+4,
+[]
 ],
 [
 "Sanka",
-4
+4,
+[
+"Sanka coffee"
+]
 ],
 [
 "aia kawa",
-3
+3,
+[]
 ],
 [
 "Café cassé",
-3
+3,
+[]
 ],
 [
 "low caffeine coffee",
-3
+3,
+[
+"low-caffeine coffee"
+]
 ],
 [
 "Nabob",
-3
+3,
+[]
 ],
 [
 "Kopi Jos",
-3
+3,
+[]
 ],
 [
 "salt coffee",
-2
+2,
+[]
 ],
 [
 "Juhla Mokka",
-2
-],
-[
-"Espresso Yen",
-2
-],
-[
-"Jihlavanka",
-2
-],
-[
-"Limburg coffee",
-2
-],
-[
-"Brûlot charentais",
-2
-],
-[
-"Café Bustelo",
-2
-],
-[
-"coffee cocktail",
-2
-],
-[
-"Babycino",
-2
-],
-[
-"Belmonte",
-2
-],
-[
-"Qajar coffee",
-2
+2,
+[]
 ],
 [
 "black coffee",
-2
+2,
+[
+"coffee black"
+]
+],
+[
+"Espresso Yen",
+2,
+[]
+],
+[
+"Jihlavanka",
+2,
+[]
+],
+[
+"Limburg coffee",
+2,
+[]
+],
+[
+"Brûlot charentais",
+2,
+[]
+],
+[
+"Café Bustelo",
+2,
+[]
+],
+[
+"coffee cocktail",
+2,
+[]
+],
+[
+"Babycino",
+2,
+[]
+],
+[
+"Belmonte",
+2,
+[]
+],
+[
+"Qajar coffee",
+2,
+[]
 ],
 [
 "Kopi kothok",
-2
+2,
+[]
+],
+[
+"coffee in Azerbaijan",
+1,
+[]
+],
+[
+"Roots",
+1,
+[]
+],
+[
+"Frezza",
+1,
+[]
+],
+[
+"Kulta Katriina",
+1,
+[]
+],
+[
+"Presidentti",
+1,
+[]
+],
+[
+"cafè Caleta",
+1,
+[]
+],
+[
+"Mt.RAINIER",
+1,
+[
+"Mount Rainier"
+]
+],
+[
+"kaffepunch",
+1,
+[]
+],
+[
+"Cultured coffee",
+1,
+[
+"synthetic coffee"
+]
+],
+[
+"instant coffee mix",
+1,
+[]
+],
+[
+"freddo cappuccino",
+1,
+[
+"cappuccino freddo"
+]
+],
+[
+"French coffee",
+1,
+[]
+],
+[
+"Italian coffee",
+1,
+[]
+],
+[
+"café helado",
+1,
+[]
+],
+[
+"Algerian coffee",
+1,
+[]
+],
+[
+"Saludo",
+1,
+[]
+],
+[
+"Albert Heijn koffie",
+1,
+[]
+],
+[
+"Kopi sanger",
+1,
+[]
+],
+[
+"cafe breva",
+1,
+[
+"caffè breva"
+]
+],
+[
+"Chock full o'Nuts",
+1,
+[]
+],
+[
+"El Nahala Coffee",
+1,
+[]
+],
+[
+"kopi tahlil",
+1,
+[]
+],
+[
+"Mustang coffee",
+1,
+[]
+],
+[
+"Hasseltse koffie",
+1,
+[
+"Afzakkertje",
+"Vlaamse koffie"
+]
+],
+[
+"Sintaro coffee",
+1,
+[]
+],
+[
+"Half Million",
+0,
+[
+"1/2 M",
+"1/2M",
+"1/2M Half Million",
+"هاف مليون",
+"هاف مليون m 1/2"
+]
+],
+[
+"Prince Caffe Turke",
+0,
+[]
+],
+[
+"coffee brand",
+0,
+[
+"brand of coffee"
+]
+],
+[
+"decaffeinated coffee",
+0,
+[]
+],
+[
+"Cafelatory",
+0,
+[]
+],
+[
+"stick coffee",
+0,
+[]
+],
+[
+"dark roast coffee",
+0,
+[]
+],
+[
+"Berry Plumoncino",
+0,
+[]
+],
+[
+"Bouquet Frappé",
+0,
+[]
+],
+[
+"Butterfly Matchiato",
+0,
+[]
+],
+[
+"Butterscotch Granita",
+0,
+[]
+],
+[
+"Butterscotch Paisano",
+0,
+[]
+],
+[
+"Caffe Marocchino",
+0,
+[]
+],
+[
+"Café Borgia",
+0,
+[]
+],
+[
+"Café Calypso",
+0,
+[]
+],
+[
+"Café Miel",
+0,
+[]
+],
+[
+"Café Nutcracker",
+0,
+[]
+],
+[
+"Café Suzette",
+0,
+[]
+],
+[
+"Caramel Cappuccino",
+0,
+[]
+],
+[
+"Chilled Velveccino",
+0,
+[]
+],
+[
+"Chocolate Crushiato",
+0,
+[]
+],
+[
+"Classic Papaccino",
+0,
+[]
+],
+[
+"Coconut Cosmique",
+0,
+[]
+],
+[
+"Floral Frappé",
+0,
+[]
+],
+[
+"Fruity Mousse",
+0,
+[]
+],
+[
+"High Tea Slushy",
+0,
+[]
+],
+[
+"Honey Blue Blue",
+0,
+[]
+],
+[
+"Icebox Frappé",
+0,
+[]
+],
+[
+"Iced Matcha Latte",
+0,
+[]
+],
+[
+"Lavender Latte",
+0,
+[]
+],
+[
+"Lunar Latte",
+0,
+[]
+],
+[
+"Mallow Macchiato",
+0,
+[]
+],
+[
+"Mega Mochaccino",
+0,
+[]
+],
+[
+"Mocha Fragolatte",
+0,
+[]
+],
+[
+"Mocha Mauveato",
+0,
+[]
+],
+[
+"Mystic Moon",
+0,
+[]
+],
+[
+"Nebulous Nimbus",
+0,
+[]
+],
+[
+"Pink Lemonade Latte",
+0,
+[]
+],
+[
+"Plymouth Shaker",
+0,
+[]
+],
+[
+"Purple Parisian",
+0,
+[]
+],
+[
+"Rosemallow Slush",
+0,
+[]
+],
+[
+"Salt City Freezie",
+0,
+[]
+],
+[
+"Strawberry Sanguinello",
+0,
+[]
+],
+[
+"Sugar Cinnaspresso",
+0,
+[]
+],
+[
+"Teaberry Brûlée",
+0,
+[]
+],
+[
+"Toasted Carmelatto",
+0,
+[]
+],
+[
+"Whipped Cumulato",
+0,
+[]
+],
+[
+"Saudi coffee",
+0,
+[
+"Arabian Coffee",
+"Arabic coffee",
+"blonde coffee",
+"Gahwa",
+"Najdi coffee",
+"Qahwa",
+"Saudi Arabian coffee",
+"Saudi Gahwa",
+"Saudi Qahwa",
+"yellow coffee"
+]
+],
+[
+"Najdi coffee",
+0,
+[
+"Gahwa",
+"Gahwa Najd",
+"Gahwat Najd",
+"Najd coffee",
+"Najd Gahwa",
+"Saudi Najdi coffee"
+]
+],
+[
+"powdered instant coffee",
+0,
+[]
+],
+[
+"freddo espresso",
+0,
+[
+"espresso freddo"
+]
+],
+[
+"Frisco Coffee",
+0,
+[
+"Frisco",
+"Frisco Original"
+]
+],
+[
+"Fiaker",
+0,
+[]
+],
+[
+"mocha liqueur",
+0,
+[]
+],
+[
+"moka pot brew",
+0,
+[
+"Moka coffee",
+"Stovetop espresso"
+]
 ]
 ]

@@ -1,542 +1,879 @@
 [
 [
 "Siamese",
-63
+63,
+[]
 ],
 [
 "Persian cat",
-61
+61,
+[
+"Persian"
+]
 ],
 [
 "Abyssinian",
-55
+55,
+[
+"Abyssinian cat"
+]
 ],
 [
 "Maine coon",
-51
+51,
+[
+"American longhair",
+"Maine coon cat"
+]
 ],
 [
 "Bengal cat",
-49
+49,
+[
+"Bengal"
+]
 ],
 [
 "Turkish Angora",
-49
+49,
+[
+"Turkish Angora cats"
+]
 ],
 [
 "Manx",
-48
+48,
+[]
 ],
 [
 "British Shorthair",
-47
+47,
+[]
 ],
 [
 "Sphynx",
-47
+47,
+[
+"Canadian Hairless",
+"Canadian Sphynx"
+]
 ],
 [
 "Russian Blue",
-46
+46,
+[
+"Angel ruso"
+]
 ],
 [
 "Norwegian Forest Cat",
-46
+46,
+[
+"NFC",
+"Norwegian Forest cat",
+"Wegie"
+]
 ],
 [
 "Ragdoll",
-44
+44,
+[
+"Ragdoll cat"
+]
 ],
 [
 "Birman cat",
-43
+43,
+[
+"Sacred Cat of Burma"
+]
 ],
 [
 "Burmese",
-42
+42,
+[
+"Burmese cat"
+]
 ],
 [
 "Siberian",
-42
+42,
+[
+"Siberian cat",
+"Siberian forest cat"
+]
 ],
 [
 "Scottish Fold",
-42
+42,
+[]
 ],
 [
 "Savannah",
-40
+40,
+[]
 ],
 [
 "Chartreux",
-38
+38,
+[]
 ],
 [
 "Korat",
-38
+38,
+[]
 ],
 [
 "Bombay",
-37
+37,
+[]
 ],
 [
 "Ocicat",
-37
+37,
+[]
 ],
 [
 "Egyptian Mau",
-37
+37,
+[]
 ],
 [
 "European Shorthair",
-36
+36,
+[
+"Celtic",
+"pelo corto celta"
+]
 ],
 [
 "Devon Rex",
-36
+36,
+[]
 ],
 [
 "Turkish Van",
-36
+36,
+[
+"swimming cat",
+"Turkish cat",
+"Turkish Vankedisi"
+]
 ],
 [
 "American Curl",
-36
+36,
+[
+"American Curl Longhair"
+]
 ],
 [
 "Balinese cat",
-36
+36,
+[]
 ],
 [
 "Cornish Rex",
-35
+35,
+[]
 ],
 [
 "Himalayan",
-35
+35,
+[]
 ],
 [
 "American Shorthair",
-35
+35,
+[]
 ],
 [
 "Somali",
-33
+33,
+[
+"Somali cat"
+]
 ],
 [
 "Japanese Bobtail",
-32
+32,
+[]
 ],
 [
 "Exotic Shorthair",
-31
+31,
+[]
 ],
 [
 "Cymric",
-29
+29,
+[]
 ],
 [
 "Tonkinese",
-29
+29,
+[]
 ],
 [
 "Munchkin cat",
-29
+29,
+[
+"Kangaroo cat",
+"Sausage cat"
+]
 ],
 [
 "snowshoe",
-28
+28,
+[
+"snowshoe cat"
+]
 ],
 [
 "Oriental Shorthair",
-28
+28,
+[
+"Orientale"
+]
 ],
 [
 "Peterbald",
-27
+27,
+[]
 ],
 [
 "Singapura",
-27
+27,
+[]
 ],
 [
 "Donskoy cat",
-26
+26,
+[
+"Don Hairless",
+"Don Sphynx",
+"Russian Hairless"
+]
 ],
 [
 "Selkirk Rex",
-25
+25,
+[]
 ],
 [
 "American Wirehair",
-25
+25,
+[]
 ],
 [
 "Burmilla",
-24
+24,
+[]
 ],
 [
 "German Rex",
-24
+24,
+[]
 ],
 [
 "Kurilian Bobtail",
-24
+24,
+[
+"Kurile Island Bobtail",
+"Kurilian Bobtail cat"
+]
 ],
 [
 "Havana Brown",
-23
+23,
+[
+"Swiss Mountain Cats"
+]
 ],
 [
 "Pixie-bob",
-23
+23,
+[]
 ],
 [
 "American Bobtail",
-23
+23,
+[]
 ],
 [
 "British Longhair",
-22
+22,
+[
+"Britannica",
+"Highlander",
+"Highland Straight"
+]
 ],
 [
 "Chausie",
-22
+22,
+[]
 ],
 [
 "Toyger",
-22
+22,
+[]
 ],
 [
 "Aegean cat",
-22
+22,
+[]
 ],
 [
 "Brazilian Shorthair",
-21
+21,
+[]
 ],
 [
 "LaPerm",
-21
+21,
+[]
 ],
 [
 "Asian",
-21
+21,
+[
+"Malayan"
+]
 ],
 [
 "Australian Mist",
-21
+21,
+[
+"Aussie cat",
+"Spotted Mist"
+]
 ],
 [
 "Sokoke",
-20
+20,
+[
+"African Shorthair",
+"Sokoke Forest Cat"
+]
 ],
 [
 "Ragamuffin",
-20
+20,
+[]
 ],
 [
 "Thai",
-20
+20,
+[
+"Applehead",
+"Classical Siamese",
+"Old-Style Siamese",
+"Old-style Siamese cat",
+"Thai cat",
+"Traditional Siamese",
+"Wichianmat",
+"Wichien Maat"
+]
 ],
 [
 "Serengeti cat",
-20
+20,
+[
+"Serengeti"
+]
 ],
 [
 "California Spangled",
-18
+18,
+[
+"California Spangled Cat"
+]
 ],
 [
 "Nebelung",
-18
+18,
+[]
 ],
 [
 "Javanese",
-18
+18,
+[
+"Javanese cat"
+]
 ],
 [
 "Neva Masquerade",
-17
+17,
+[
+"Neva Masquerade cat"
+]
 ],
 [
 "Dragon Li",
-17
+17,
+[
+"China Li Hua",
+"Chinese Li Hua",
+"Li Hua",
+"Li Hua Mao",
+"Li Hua Mau",
+"Li Mao",
+"狸猫",
+"狸花猫"
+]
 ],
 [
 "Arabian Mau",
-17
+17,
+[]
 ],
 [
 "Tiffanie",
-17
+17,
+[
+"Asian longhair",
+"Asian semi longhair",
+"Asian semi-longhair",
+"Burmilla longhair"
+]
 ],
 [
 "Oriental Longhair",
-16
+16,
+[
+"British angora",
+"JAV",
+"Javanese",
+"Javanese cat",
+"Mandarin",
+"OLH",
+"Oriental longhair",
+"Oriental Longhair cat"
+]
 ],
 [
 "York Chocolate",
-16
+16,
+[]
 ],
 [
 "Ukrainian Levkoy",
-16
+16,
+[]
 ],
 [
 "domestic short-haired cat",
-15
+15,
+[
+"alley cat",
+"domestic shorthair",
+"house cat",
+"housecat",
+"house cat, shorthair"
+]
 ],
 [
 "Khao Manee",
-15
+15,
+[
+"Diamond Eye"
+]
 ],
 [
 "Bambino",
-15
+15,
+[
+"Bambino Sphynx",
+"Mèo Bambino"
+]
 ],
 [
 "Lykoi Cat",
-14
+14,
+[
+"Lykoi",
+"werewolf cat",
+"wolf cat"
+]
 ],
 [
 "Chantilly",
-14
+14,
+[
+"Chantilly cat",
+"Chantilly-Tiffany",
+"Chantilly/Tiffany",
+"Foreign Longhair"
+]
 ],
 [
 "Ojos Azules",
-14
+14,
+[
+"Ojos Azules cat"
+]
 ],
 [
 "Colorpoint Shorthair",
-13
+13,
+[]
 ],
 [
 "Minskin",
-12
+12,
+[]
 ],
 [
 "domestic long-haired cat",
-12
+12,
+[
+"domestic longhair",
+"house cat, longhair"
+]
 ],
 [
 "Minuet cat",
-12
+12,
+[
+"Napoleon"
+]
 ],
 [
 "Raas",
-10
+10,
+[
+"Busok",
+"Madura cat",
+"Raas cat"
+]
 ],
 [
 "Aphrodite's Giant",
-10
+10,
+[
+"Aphrodite",
+"Aphrodite Giant",
+"Aphrodite's Giant cat"
+]
 ],
 [
 "Mekong Bobtail",
-9
+9,
+[]
 ],
 [
 "Seychellois",
-9
+9,
+[]
 ],
 [
 "Ural rex",
-9
+9,
+[]
 ],
 [
 "FoldEx cat",
-8
+8,
+[
+"Foldex",
+"FoldEx"
+]
 ],
 [
 "Highlander cat",
-8
+8,
+[]
 ],
 [
 "Karelian Bobtail",
-8
+8,
+[]
 ],
 [
 "Anatoli",
-8
+8,
+[]
 ],
 [
 "Oregon Rex",
-8
+8,
+[]
 ],
 [
 "Foreign White",
-8
+8,
+[
+"White Siamese"
+]
 ],
 [
 "Rex mutation",
-8
+8,
+[]
 ],
 [
 "Traditional Persian",
-8
+8,
+[
+"Old-style Longhair",
+"Original Longhair",
+"Traditional Longhair"
+]
 ],
 [
 "Ashera",
-7
+7,
+[]
 ],
 [
 "Suphalak",
-7
+7,
+[]
 ],
 [
 "Toybob",
-7
+7,
+[]
 ],
 [
 "Oriental Bicolour",
-7
+7,
+[]
 ],
 [
 "squitten",
-7
+7,
+[]
 ],
 [
 "Kinkalow",
-6
+6,
+[]
 ],
 [
 "Safari",
-6
+6,
+[]
 ],
 [
 "Skookum",
-5
+5,
+[]
 ],
 [
 "Ussuri",
-5
+5,
+[
+"Ussuri cat"
+]
 ],
 [
 "chinchilla Persian",
-4
+4,
+[
+"chinchilla",
+"chinchilla (cat)",
+"chinchilla Persian cat",
+"persian chinchilla cat",
+"Shaded Silver",
+"silver Persian"
+]
 ],
 [
 "Kanaani cat",
-4
+4,
+[
+"Kanaani"
+]
 ],
 [
 "moggy",
-4
+4,
+[
+"DLH",
+"DMH",
+"Domestic Longhair",
+"Domestic Mediumhair",
+"Domestic Shorthair",
+"DSH",
+"moggie"
+]
 ],
 [
 "Russian White, Black and Tabby",
-4
+4,
+[]
 ],
 [
 "American Ringtail",
-4
+4,
+[]
 ],
 [
 "Bohemian Rex",
-4
+4,
+[]
 ],
 [
 "Ceylon",
-4
+4,
+[]
 ],
 [
 "Jianzhou cat",
-3
+3,
+[]
 ],
 [
 "Elf cat",
-3
+3,
+[]
 ],
 [
 "Mandalay",
-3
+3,
+[]
 ],
 [
 "British Semi-longhair",
-3
+3,
+[]
 ],
 [
 "Modern Siamese",
-2
+2,
+[]
 ],
 [
 "Thai Lilac",
-2
+2,
+[
+"Thai Blue Point",
+"Thai Lilac Point"
+]
 ],
 [
 "Suffolk",
-2
+2,
+[
+"suffolk (cat)",
+"suffolk cat",
+"suffolk cats"
+]
 ],
 [
 "dwelf",
-2
+2,
+[]
 ],
 [
 "Tennessee Rex",
-2
+2,
+[]
 ],
 [
 "Owyhee Bob",
-2
+2,
+[
+"Owyhee Bob cat",
+"Owyhee Bobs"
+]
 ],
 [
 "American burmese",
-2
+2,
+[]
 ],
 [
 "European Burmese",
-2
+2,
+[
+"British Burmese",
+"English Burmese",
+"European Burmese cat",
+"Traditional Burmese"
+]
 ],
 [
 "Lambkin",
-2
+2,
+[]
 ],
 [
 "genetta",
-2
+2,
+[]
 ],
 [
 "Kohana",
-2
+2,
+[]
 ],
 [
 "mixed breed cat",
-1
+1,
+[]
 ],
 [
 "golden cat",
-1
+1,
+[
+"sunshine cat"
+]
 ],
 [
 "Deutsche Langhaarkatze",
-1
+1,
+[]
 ],
 [
 "Altai",
-1
+1,
+[
+"ABE",
+"Altai Blue-Eyed",
+"Altai cat",
+"Altay"
+]
 ],
 [
 "Pantherina",
-1
+1,
+[
+"Pantherina cat"
+]
 ],
 [
 "California Rex",
-1
+1,
+[]
 ],
 [
 "Kashmir cat",
-1
+1,
+[
+"Kashmir"
+]
 ],
 [
 "Kohona",
-1
+1,
+[]
 ],
 [
 "Himalayan Persian",
-1
+1,
+[]
 ],
 [
 "Antipodean",
-0
+0,
+[
+"Australian Longhair",
+"Australian Shorthair",
+"New Zealand Longhair",
+"New Zealand Shorthair"
+]
 ]
 ]

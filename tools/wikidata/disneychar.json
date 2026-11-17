@@ -1,374 +1,3170 @@
 [
 [
 "Mickey Mouse",
-180
+180,
+[
+"Mickey"
+]
 ],
 [
 "Donald Duck",
-107
+107,
+[]
 ],
 [
 "Minnie Mouse",
-81
+81,
+[
+"Minerva Mouse",
+"Minnie"
+]
 ],
 [
 "Bugs Bunny",
-69
+69,
+[]
 ],
 [
 "Sonic the Hedgehog",
-63
+63,
+[
+"Sonic",
+"Sonic Hedgehog",
+"Super Sonic"
+]
 ],
 [
 "Goofy",
-62
+62,
+[
+"Dippy Dawg",
+"George Geef",
+"Goofy Goof"
+]
 ],
 [
 "Dr. Eggman",
-38
+38,
+[
+"Doctor Ivo \"Eggman\" Robotnik",
+"Doctor Ivo Robotnik",
+"Doctor Robotnik",
+"Dr Eggman",
+"Dr. Ivo Robotnik",
+"Dr Robotnik",
+"Dr. Robotnik",
+"Eggman",
+"Ivo Robotnik",
+"Robotnik"
+]
 ],
 [
 "Pete",
-37
+37,
+[
+"Big Bad Pete",
+"Black Pete",
+"Peg-Leg Pete",
+"Pete (Disney)",
+"Peter Pete Senior",
+"Peter Pete Sr."
+]
 ],
 [
 "Elsa",
-37
+37,
+[
+"Elsa of Arendelle",
+"Princess Elsa",
+"Princess Elsa of Arendelle",
+"Queen Elsa",
+"Queen Elsa of Arendelle"
+]
 ],
 [
 "Simba",
-32
+32,
+[]
 ],
 [
 "Buzz Lightyear",
-32
+32,
+[]
 ],
 [
 "Ariel",
-32
+32,
+[
+"Ariel (Disney)",
+"Princess Ariel",
+"The Little Mermaid"
+]
 ],
 [
 "Woody",
-31
+31,
+[
+"Sheriff Woody",
+"Sheriff Woody Pride",
+"Woody Pride"
+]
 ],
 [
 "Oswald the Lucky Rabbit",
-28
+28,
+[
+"Oswald Rabbit",
+"Oswald the Rabbit"
+]
 ],
 [
 "Maleficent",
-27
+27,
+[]
 ],
 [
 "Piglet",
-27
+27,
+[
+"Piglet (Disney)"
+]
 ],
 [
 "Belle",
-26
+26,
+[]
 ],
 [
 "Scar",
-25
+25,
+[
+"Askari",
+"Taka"
+]
 ],
 [
 "Cruella de Vil",
-25
+25,
+[
+"Cruella De Vil",
+"Cruella DeVil"
+]
 ],
 [
 "Ryu",
-24
+24,
+[
+"Ryū",
+"Ryu Hoshi",
+"Ryuu"
+]
 ],
 [
 "Anna",
-23
+23,
+[
+"Anna of Arendelle",
+"Princess Anna",
+"Princess Anna of Arendelle",
+"Queen Anna",
+"Queen Anna of Arendelle"
+]
 ],
 [
 "Rapunzel",
-23
+23,
+[
+"Princess Rapunzel"
+]
 ],
 [
 "Merida",
-23
+23,
+[]
 ],
 [
 "Aurora",
-22
+22,
+[
+"Briar Rose",
+"Princess Aurora",
+"Rosa?"
+]
 ],
 [
 "José Carioca",
-21
+21,
+[
+"Jose Carioca",
+"Ze Carioca",
+"Zé Carioca"
+]
 ],
 [
 "M. Bison",
-20
+20,
+[
+"Bison",
+"Dictator",
+"Vega"
+]
 ],
 [
 "Stitch",
-20
+20,
+[]
 ],
 [
 "Ken Masters",
-18
+18,
+[
+"Ken"
+]
 ],
 [
 "Max Goof",
-18
+18,
+[]
 ],
 [
 "Moana",
-18
+18,
+[
+"Moana of Motunui",
+"Moana Waialiki",
+"Moana Waialiki of Motunui",
+"Vaiana"
+]
 ],
 [
 "Mulan",
-18
+18,
+[]
 ],
 [
 "Mufasa",
-16
+16,
+[]
 ],
 [
 "Perry the Platypus",
-16
+16,
+[
+"Agent P"
+]
 ],
 [
 "Jessica Rabbit",
-15
+15,
+[]
 ],
 [
 "Nala",
-15
+15,
+[]
 ],
 [
 "Pocahontas",
-15
+15,
+[]
 ],
 [
 "Jim Hawkins",
-15
+15,
+[
+"Treasure Planet Jim Hawkins"
+]
 ],
 [
 "Olaf",
-14
+14,
+[]
 ],
 [
 "Zangief",
-14
+14,
+[
+"Red Cyclone"
+]
 ],
 [
 "Beast",
-13
+13,
+[
+"Beast (Disney)",
+"Prince Adam",
+"The Beast"
+]
 ],
 [
 "Gaston",
-12
+12,
+[
+"Gaston LeGume"
+]
 ],
 [
 "Candace Flynn",
-12
+12,
+[
+"Candace Gertrude Flynn"
+]
 ],
 [
 "Scamp",
-11
+11,
+[]
 ],
 [
 "Heinz Doofenshmirtz",
-11
+11,
+[
+"Doofenshmirtz",
+"Dr. Doofenshmirtz",
+"Dr. Heinz Doofenshmirtz",
+"Professor Time"
+]
 ],
 [
 "Eugene Fitzherbert",
-10
+10,
+[
+"Eugene Fitzherbert (Tangled)",
+"Flynn Rider"
+]
 ],
 [
 "Tadashi Hamada",
-10
+10,
+[]
 ],
 [
 "Roger Rabbit",
-10
+10,
+[]
 ],
 [
 "Hans",
-9
+9,
+[
+"Hans Westergaard",
+"Prince Hans of the Southern Isles"
+]
 ],
 [
 "Kristoff",
-9
+9,
+[
+"Kristoff Bjorgman"
+]
 ],
 [
 "Raya",
-8
+8,
+[]
 ],
 [
 "Mother Gothel",
-8
+8,
+[]
 ],
 [
 "Pumbaa",
-8
+8,
+[
+"Pumbaa Smith"
+]
 ],
 [
 "Timon",
-8
+8,
+[
+"Timon Berkowitz"
+]
 ],
 [
 "Witch Hazel",
-8
+8,
+[]
 ],
 [
 "Gopher",
-8
+8,
+[]
 ],
 [
 "Alice",
-7
+7,
+[
+"Alice (Disney)"
+]
 ],
 [
 "Big Bad Wolf",
-7
+7,
+[
+"The Big Bad Wolf",
+"Zeke Midas Wolf"
+]
 ],
 [
 "Bimbo",
-7
+7,
+[
+"Fitz"
+]
 ],
 [
 "P.J. Pete",
-7
+7,
+[
+"Pete Junior",
+"Peter Pete Jr.",
+"Peter Pete Junior",
+"P.J.",
+"P.J. (Disney)",
+"PJ (Disney)",
+"P.J. (Goof Troop)",
+"PJ (Goof Troop)"
+]
 ],
 [
 "Lumière",
-6
+6,
+[
+"Lumiere"
+]
 ],
 [
 "Mrs. Potts",
-6
+6,
+[]
 ],
 [
 "Cogsworth",
-6
+6,
+[]
 ],
 [
 "Sarabi",
-6
+6,
+[]
 ],
 [
 "Mushu",
-6
+6,
+[]
 ],
 [
 "Professor Ratigan",
-5
+5,
+[
+"Ratigan"
+]
 ],
 [
 "Baymax",
-5
+5,
+[]
 ],
 [
 "Hiro Hamada",
-5
+5,
+[]
 ],
 [
 "Judy Hopps",
-5
+5,
+[
+"Officer Hopps"
+]
 ],
 [
 "Zazu",
-5
+5,
+[]
 ],
 [
 "Sven",
-5
+5,
+[
+"Sven (Frozen)"
+]
 ],
 [
 "Bolt",
-5
+5,
+[]
 ],
 [
 "Claude Frollo",
-5
+5,
+[
+"Frollo"
+]
 ],
 [
 "Yzma",
-4
+4,
+[
+"Principal Amzy"
+]
 ],
 [
 "Honey Lemon",
-4
+4,
+[]
 ],
 [
 "Nick Wilde",
-4
+4,
+[
+"Nicholas P. \"Nick\" Wilde",
+"Nicholas P. Wilde",
+"Nicholas Wilde"
+]
 ],
 [
 "Maui",
-4
+4,
+[
+"Maui (Moana)"
+]
 ],
 [
 "Donna Duck",
-4
+4,
+[]
 ],
 [
 "Giselle",
-4
+4,
+[]
 ],
 [
 "Pinocchio",
-4
+4,
+[]
 ],
 [
 "Kronk Pepikrankenitz",
-4
+4,
+[
+"Kronk"
+]
 ],
 [
 "Winnie the Pooh",
-3
+3,
+[
+"Pooh",
+"Pooh Bear"
+]
 ],
 [
 "Kuzco",
-3
+3,
+[
+"Emperor Kuzco",
+"Emperor Manco",
+"Manco"
+]
 ],
 [
 "Wasabi-No-Ginger",
-3
+3,
+[]
 ],
 [
 "Fredzilla",
-3
+3,
+[]
 ],
 [
 "GoGo Tomago",
-3
+3,
+[]
 ],
 [
 "Three Little Pigs",
-3
+3,
+[]
 ],
 [
 "Maurice",
-3
+3,
+[]
 ],
 [
 "Duchess",
-3
+3,
+[]
 ],
 [
 "Chip",
-3
+3,
+[
+"Chip Potts"
+]
 ],
 [
 "Kiara",
-3
+3,
+[]
 ],
 [
 "Rafiki",
-3
+3,
+[]
 ],
 [
 "Governor Ratcliffe",
-3
+3,
+[]
 ],
 [
 "Judge Doom",
-3
+3,
+[]
+],
+[
+"Sisu",
+2,
+[]
+],
+[
+"Basil",
+2,
+[
+"Basil of Baker Street"
+]
+],
+[
+"King Magnifico",
+2,
+[]
+],
+[
+"Asha",
+2,
+[]
+],
+[
+"Jenny the Burro",
+2,
+[]
+],
+[
+"Vanellope von Schweetz",
+2,
+[]
+],
+[
+"Clayton",
+2,
+[
+"Mr. Clayton"
+]
+],
+[
+"Go Go Tomago",
+2,
+[]
+],
+[
+"Robert Callaghan",
+2,
+[
+"Professor Callaghan",
+"Professor Robert Callaghan",
+"Yokai"
+]
+],
+[
+"Sarafina",
+2,
+[]
+],
+[
+"Kenai",
+2,
+[]
+],
+[
+"Eddie Valiant",
+2,
+[
+"Edward \"Eddie\" Valiant",
+"Edward Valiant"
+]
+],
+[
+"Percival McLeach",
+2,
+[
+"McLeach"
+]
+],
+[
+"Abby Mallard",
+1,
+[
+"Abigail \"Abby\" Mallard"
+]
+],
+[
+"Chicken Little",
+1,
+[
+"\"Chicken Little\" Cluck"
+]
+],
+[
+"Gary De'Snake",
+1,
+[]
+],
+[
+"Pawbert Lynxley",
+1,
+[]
+],
+[
+"The Emperor of China",
+1,
+[
+"Emperor",
+"Emperor of China",
+"The Emperor"
+]
+],
+[
+"Shenzi",
+1,
+[]
+],
+[
+"Banzai",
+1,
+[
+"Kamari"
+]
+],
+[
+"Ed",
+1,
+[
+"Azizi"
+]
+],
+[
+"Lucky",
+1,
+[]
+],
+[
+"Chief Bogo",
+1,
+[
+"Bogo"
+]
+],
+[
+"Wreck-It Ralph",
+1,
+[
+"Wreck It Ralph"
+]
+],
+[
+"Geppetto",
+1,
+[]
+],
+[
+"Prince Phillip",
+1,
+[
+"Prince Philipp"
+]
+],
+[
+"Pongo",
+1,
+[]
+],
+[
+"Perdita",
+1,
+[]
+],
+[
+"Desoto",
+1,
+[]
+],
+[
+"Esmeralda",
+1,
+[]
+],
+[
+"Jane Porter",
+1,
+[
+"Jane"
+]
+],
+[
+"Kala",
+1,
+[]
+],
+[
+"Sabor",
+1,
+[]
+],
+[
+"Koda",
+1,
+[]
+],
+[
+"Fix-it Felix",
+1,
+[
+"Felix"
+]
+],
+[
+"Duke of Weselton",
+1,
+[]
+],
+[
+"Queen Iduna",
+1,
+[]
+],
+[
+"Fred",
+1,
+[]
+],
+[
+"Wasabi",
+1,
+[]
+],
+[
+"Alameda Slim",
+1,
+[]
+],
+[
+"Toby Tortoise",
+1,
+[]
+],
+[
+"Shan Yu",
+1,
+[]
+],
+[
+"Flora",
+1,
+[]
+],
+[
+"Little Red Riding Hood",
+1,
+[]
+],
+[
+"Ethan Clade",
+0,
+[]
+],
+[
+"Milo Murphy",
+0,
+[
+"Milo Danger Murphy"
+]
+],
+[
+"Dr. Frankenollie",
+0,
+[]
+],
+[
+"Doctor",
+0,
+[]
+],
+[
+"Al the Alligator",
+0,
+[
+"Alligator"
+]
+],
+[
+"Splodyhead",
+0,
+[
+"619",
+"Experiment 619",
+"Splody",
+"Splodyhead 619",
+"X-619"
+]
+],
+[
+"Lieutenant Mattias",
+0,
+[
+"Destin Mattias",
+"General Destin Mattias",
+"General Mattias",
+"Lieutenant Destin Mattias"
+]
+],
+[
+"Nibbles Maplestick",
+0,
+[
+"Nibbles"
+]
+],
+[
+"Robert Philip",
+0,
+[]
+],
+[
+"Prince Edward",
+0,
+[]
+],
+[
+"Morgan Philip",
+0,
+[]
+],
+[
+"Nancy Tremaine",
+0,
+[]
+],
+[
+"Pip",
+0,
+[]
+],
+[
+"Queen Narissa",
+0,
+[]
+],
+[
+"Nathaniel",
+0,
+[]
+],
+[
+"Yesss",
+0,
+[]
+],
+[
+"Shank",
+0,
+[]
+],
+[
+"Star",
+0,
+[]
+],
+[
+"Milton Lynxley",
+0,
+[]
+],
+[
+"Cattrick Lynxley",
+0,
+[]
+],
+[
+"Kitty Lynxley",
+0,
+[]
+],
+[
+"Dr. Fuzzby",
+0,
+[
+"Fuzzby"
+]
+],
+[
+"Brian Winddancer",
+0,
+[
+"Mayor Brian Winddancer",
+"Mayor Winddancer",
+"Winddancer"
+]
+],
+[
+"Russ",
+0,
+[]
+],
+[
+"Jesús",
+0,
+[]
+],
+[
+"Antony",
+0,
+[]
+],
+[
+"Bearoness",
+0,
+[
+"the Bearoness"
+]
+],
+[
+"Robert Furwin",
+0,
+[]
+],
+[
+"Paul Moledebrandt",
+0,
+[
+"Moledebrandt"
+]
+],
+[
+"Bloats",
+0,
+[
+"Officer Bloats"
+]
+],
+[
+"Higgins",
+0,
+[
+"Officer Higgins"
+]
+],
+[
+"Gramma Taller",
+0,
+[]
+],
+[
+"Zeke",
+0,
+[]
+],
+[
+"Truffler",
+0,
+[]
+],
+[
+"Ed Shearin",
+0,
+[]
+],
+[
+"Molly Hopps",
+0,
+[
+"Molly"
+]
+],
+[
+"Christine",
+0,
+[]
+],
+[
+"Charisma",
+0,
+[]
+],
+[
+"Brianca",
+0,
+[]
+],
+[
+"Tru Tru",
+0,
+[]
+],
+[
+"Sam",
+0,
+[]
+],
+[
+"Marshmallow",
+0,
+[]
+],
+[
+"Olivia Flaversham",
+0,
+[]
+],
+[
+"Hiram Flaversham",
+0,
+[]
+],
+[
+"Fidget",
+0,
+[
+"Fidget the Bat"
+]
+],
+[
+"Dr. David Q. Dawson",
+0,
+[
+"David Q. Dawson",
+"Dawson",
+"Dr. Dawson"
+]
+],
+[
+"Toby",
+0,
+[]
+],
+[
+"Felicia",
+0,
+[]
+],
+[
+"Mrs. Judson",
+0,
+[]
+],
+[
+"Queen Mousetoria",
+0,
+[
+"also known as \"Queen Mousetoria\", is a supporting character in the 1986 Disney animated movie \"the Great Mouse Detective\", which features an animal version of classic Sherlock Holmes stories with mice as characters.",
+"Mouse Queen"
+]
+],
+[
+"Bartholomew",
+0,
+[]
+],
+[
+"Max",
+0,
+[]
+],
+[
+"Gazelle",
+0,
+[]
+],
+[
+"Leodore Lionheart",
+0,
+[
+"Mayor Lionheart"
+]
+],
+[
+"Yax",
+0,
+[]
+],
+[
+"Benjamin Clawhauser",
+0,
+[
+"Clawhauser",
+"Officer Benjamin Clawhauser",
+"Officer Clawhauser"
+]
+],
+[
+"Flash",
+0,
+[
+"Flash Slothmore"
+]
+],
+[
+"Dawn Bellwether",
+0,
+[
+"Bellwether"
+]
+],
+[
+"Bonnie Hopps",
+0,
+[]
+],
+[
+"Stu Hopps",
+0,
+[]
+],
+[
+"Mrs. Otterton",
+0,
+[]
+],
+[
+"Duke Weaselton",
+0,
+[]
+],
+[
+"Mr. Big",
+0,
+[]
+],
+[
+"LeFou",
+0,
+[]
+],
+[
+"Finnick",
+0,
+[]
+],
+[
+"Laverne",
+0,
+[]
+],
+[
+"Gideon Grey",
+0,
+[]
+],
+[
+"Drill Sergeant",
+0,
+[
+"Major Friedkin"
+]
+],
+[
+"Jerry Jumbeaux Jr.",
+0,
+[]
+],
+[
+"Badger Doctor",
+0,
+[
+"Dr. Madge Honey Badger"
+]
+],
+[
+"Nangi",
+0,
+[]
+],
+[
+"Mr. Manchas",
+0,
+[
+"Renato Manchas"
+]
+],
+[
+"Frantic Pig",
+0,
+[]
+],
+[
+"Fru Fru",
+0,
+[]
+],
+[
+"Doug",
+0,
+[]
+],
+[
+"Peter Moosebridge",
+0,
+[]
+],
+[
+"Bucky Oryx-Antlerson",
+0,
+[]
+],
+[
+"Pronk Oryx-Antlerson",
+0,
+[]
+],
+[
+"Officer McHorn",
+0,
+[]
+],
+[
+"Landlady",
+0,
+[
+"Dharma Armadillo",
+"Mrs. Armadillo"
+]
+],
+[
+"Mouse Foreman",
+0,
+[
+"Vorarbeitermaus"
+]
+],
+[
+"Priscilla",
+0,
+[]
+],
+[
+"Tito",
+0,
+[]
+],
+[
+"Desk Sergeant",
+0,
+[]
+],
+[
+"The Director",
+0,
+[]
+],
+[
+"Chief Tui",
+0,
+[]
+],
+[
+"Sina",
+0,
+[]
+],
+[
+"Gramma Tala",
+0,
+[]
+],
+[
+"Tamatoa",
+0,
+[]
+],
+[
+"Heihei",
+0,
+[]
+],
+[
+"Pua",
+0,
+[]
+],
+[
+"Tramp",
+0,
+[
+"Tramp (Disney)"
+]
+],
+[
+"Lady",
+0,
+[]
+],
+[
+"Jock",
+0,
+[
+"Yock"
+]
+],
+[
+"Trusty",
+0,
+[]
+],
+[
+"Jim Dear",
+0,
+[]
+],
+[
+"Darling",
+0,
+[]
+],
+[
+"Si",
+0,
+[]
+],
+[
+"Am",
+0,
+[]
+],
+[
+"Bull",
+0,
+[]
+],
+[
+"Tony",
+0,
+[]
+],
+[
+"Joe",
+0,
+[]
+],
+[
+"Aunt Sarah",
+0,
+[]
+],
+[
+"Peg",
+0,
+[]
+],
+[
+"Toughy",
+0,
+[]
+],
+[
+"Boris",
+0,
+[]
+],
+[
+"Dachsie",
+0,
+[]
+],
+[
+"Pedro",
+0,
+[]
+],
+[
+"Merryweather",
+0,
+[]
+],
+[
+"King Stefan",
+0,
+[]
+],
+[
+"King Hubert",
+0,
+[]
+],
+[
+"Roger Radcliffe",
+0,
+[
+"Roger"
+]
+],
+[
+"Anita Radcliffe",
+0,
+[
+"Anita"
+]
+],
+[
+"Jasper",
+0,
+[
+"Jasper Badun"
+]
+],
+[
+"Horace",
+0,
+[
+"Horace Badun"
+]
+],
+[
+"Patch",
+0,
+[]
+],
+[
+"Rolly",
+0,
+[]
+],
+[
+"Penny",
+0,
+[]
+],
+[
+"Nanny",
+0,
+[
+"Nanny Cook"
+]
+],
+[
+"Lucy",
+0,
+[]
+],
+[
+"Colonel",
+0,
+[]
+],
+[
+"Captain",
+0,
+[]
+],
+[
+"Sergeant Tibbs",
+0,
+[]
+],
+[
+"Towser",
+0,
+[]
+],
+[
+"Danny",
+0,
+[
+"Great Dane"
+]
+],
+[
+"Queenie",
+0,
+[]
+],
+[
+"Countess",
+0,
+[]
+],
+[
+"Princess",
+0,
+[]
+],
+[
+"Collie",
+0,
+[]
+],
+[
+"Labrador",
+0,
+[]
+],
+[
+"Thunderbolt",
+0,
+[]
+],
+[
+"Tigger",
+0,
+[
+"Tigger (Disney)"
+]
+],
+[
+"Rabbit",
+0,
+[]
+],
+[
+"Eeyore",
+0,
+[
+"Eeyore (Disney)"
+]
+],
+[
+"Owl",
+0,
+[]
+],
+[
+"Beaver",
+0,
+[
+"Mr. Busy",
+"the beaver"
+]
+],
+[
+"Christopher Robin",
+0,
+[]
+],
+[
+"Roo",
+0,
+[]
+],
+[
+"Kanga",
+0,
+[]
+],
+[
+"Bernard",
+0,
+[
+"Bernard (Disney)"
+]
+],
+[
+"Bianca",
+0,
+[
+"Miss Bianca"
+]
+],
+[
+"Chairmouse",
+0,
+[
+"Mr. Chairman",
+"The Chairman"
+]
+],
+[
+"Bill the Lizard",
+0,
+[]
+],
+[
+"Miss Kitty Mouse",
+0,
+[]
+],
+[
+"Oliver",
+0,
+[]
+],
+[
+"Dodger",
+0,
+[]
+],
+[
+"Einstein",
+0,
+[]
+],
+[
+"Francis",
+0,
+[]
+],
+[
+"Rita",
+0,
+[]
+],
+[
+"Fagin",
+0,
+[]
+],
+[
+"Roscoe",
+0,
+[]
+],
+[
+"Bill Sykes",
+0,
+[]
+],
+[
+"Jenny",
+0,
+[]
+],
+[
+"Georgette",
+0,
+[]
+],
+[
+"Louie",
+0,
+[
+"Louie the Hot Dog Man",
+"Old Louie"
+]
+],
+[
+"Winston",
+0,
+[
+"Mr. Winston"
+]
+],
+[
+"Wilbur",
+0,
+[]
+],
+[
+"Jake",
+0,
+[]
+],
+[
+"Cody",
+0,
+[]
+],
+[
+"Joanna",
+0,
+[
+"Joanna the Goanna"
+]
+],
+[
+"Marahute",
+0,
+[]
+],
+[
+"Frank",
+0,
+[]
+],
+[
+"Krebbs",
+0,
+[]
+],
+[
+"Red",
+0,
+[]
+],
+[
+"Dr. Mouse",
+0,
+[]
+],
+[
+"François",
+0,
+[]
+],
+[
+"Philippe",
+0,
+[]
+],
+[
+"Wardrobe",
+0,
+[]
+],
+[
+"Claudette",
+0,
+[]
+],
+[
+"Laurette",
+0,
+[]
+],
+[
+"Paulette",
+0,
+[]
+],
+[
+"Stove",
+0,
+[
+"Chef Bouche",
+"The Stove"
+]
+],
+[
+"Monsieur D'Arque",
+0,
+[]
+],
+[
+"Fifi",
+0,
+[
+"Babette",
+"Feather Duster",
+"Marie",
+"Plumette"
+]
+],
+[
+"Sultan",
+0,
+[
+"Footstool"
+]
+],
+[
+"Diablo",
+0,
+[]
+],
+[
+"John Smith",
+0,
+[
+"Captain John Smith"
+]
+],
+[
+"Wiggins",
+0,
+[]
+],
+[
+"Meeko",
+0,
+[]
+],
+[
+"Ben",
+0,
+[]
+],
+[
+"Lon",
+0,
+[]
+],
+[
+"Flit",
+0,
+[]
+],
+[
+"Thomas",
+0,
+[]
+],
+[
+"Grandmother Willow",
+0,
+[]
+],
+[
+"Chief Powhatan",
+0,
+[
+"Powhatan"
+]
+],
+[
+"Percy",
+0,
+[]
+],
+[
+"Nakoma",
+0,
+[]
+],
+[
+"Kocoum",
+0,
+[]
+],
+[
+"Kekata",
+0,
+[]
+],
+[
+"Quasimodo",
+0,
+[]
+],
+[
+"Phoebus",
+0,
+[
+"Captain Phoebus"
+]
+],
+[
+"Hugo",
+0,
+[]
+],
+[
+"Victor",
+0,
+[]
+],
+[
+"Archdeacon",
+0,
+[
+"The Archdeacon"
+]
+],
+[
+"Djali",
+0,
+[]
+],
+[
+"Quasimodo's Mother",
+0,
+[]
+],
+[
+"Brutish Guard",
+0,
+[
+"Brutish"
+]
+],
+[
+"Oafish Guard",
+0,
+[
+"Oafish"
+]
+],
+[
+"Clopin",
+0,
+[
+"Clopin Trouillefou"
+]
+],
+[
+"Grandmother Fa",
+0,
+[
+"Mulan's Grandmother"
+]
+],
+[
+"Fa Zhou",
+0,
+[
+"Mulan's father"
+]
+],
+[
+"Fa Li",
+0,
+[
+"Mulan's mother"
+]
+],
+[
+"Chi-Fu",
+0,
+[
+"Chi Fu"
+]
+],
+[
+"Li Shang",
+0,
+[
+"Shang"
+]
+],
+[
+"Yao",
+0,
+[]
+],
+[
+"Chien-Po",
+0,
+[
+"Chien Po"
+]
+],
+[
+"Ling",
+0,
+[]
+],
+[
+"General Li",
+0,
+[]
+],
+[
+"Khan",
+0,
+[
+"Mulan's horse"
+]
+],
+[
+"Cri-Kee",
+0,
+[
+"Mulan's cricket"
+]
+],
+[
+"Matchmaker",
+0,
+[
+"The Matchmaker"
+]
+],
+[
+"Little Brother",
+0,
+[
+"Mulan's dog"
+]
+],
+[
+"Tarzan",
+0,
+[]
+],
+[
+"Kerchak and Kala's Baby",
+0,
+[
+"Baby Ape",
+"Kala's Baby",
+"Kala's child",
+"Kerchak's child"
+]
+],
+[
+"Archimedes Q. Porter",
+0,
+[
+"Archimedes Quincy Porter",
+"Professor Porter",
+"Prof. Porter"
+]
+],
+[
+"Kerchak",
+0,
+[]
+],
+[
+"Tantor",
+0,
+[]
+],
+[
+"Terk",
+0,
+[
+"Terkina"
+]
+],
+[
+"Tarzan's Mother",
+0,
+[]
+],
+[
+"Tarzan's father",
+0,
+[]
+],
+[
+"Tantor's Mother",
+0,
+[]
+],
+[
+"Flynt",
+0,
+[]
+],
+[
+"Mungo",
+0,
+[]
+],
+[
+"Pacha",
+0,
+[]
+],
+[
+"Chicha",
+0,
+[]
+],
+[
+"Rudy",
+0,
+[
+"Old Man",
+"The Old Man"
+]
+],
+[
+"Chaca",
+0,
+[
+"Pacha's Daughter"
+]
+],
+[
+"Tipo",
+0,
+[]
+],
+[
+"Bucky the Squirrel",
+0,
+[
+"Bucky"
+]
+],
+[
+"Theme Song Guy",
+0,
+[
+"The Theme Song Guy"
+]
+],
+[
+"Mata",
+0,
+[
+"Waitress"
+]
+],
+[
+"Villager #3",
+0,
+[]
+],
+[
+"Fisherman",
+0,
+[]
+],
+[
+"Villager #1",
+0,
+[]
+],
+[
+"Villager #2",
+0,
+[]
+],
+[
+"Billy Bones",
+0,
+[]
+],
+[
+"Doctor Doppler",
+0,
+[
+"Delbert Doppler",
+"Doctor Delbert Doppler",
+"Dr. Delbert Doppler",
+"Dr. Doppler"
+]
+],
+[
+"Captain Amelia",
+0,
+[]
+],
+[
+"B.E.N.",
+0,
+[
+"BEN"
+]
+],
+[
+"John Silver",
+0,
+[
+"Treasure Planet John Silver"
+]
+],
+[
+"Captain Nathaniel Flint",
+0,
+[
+"Captain Flint",
+"Nathaniel Flint"
+]
+],
+[
+"Onus",
+0,
+[]
+],
+[
+"Hands",
+0,
+[
+"Treasure Planet Hands"
+]
+],
+[
+"Morph",
+0,
+[]
+],
+[
+"Scroop",
+0,
+[
+"Mr. Scroop"
+]
+],
+[
+"Mr. Arrow",
+0,
+[]
+],
+[
+"Sarah Hawkins",
+0,
+[]
+],
+[
+"Bird Brain Mary",
+0,
+[
+"Birdbrain Mary",
+"Bloody Mary"
+]
+],
+[
+"Turnbuckle",
+0,
+[]
+],
+[
+"Tuke",
+0,
+[]
+],
+[
+"Rutt",
+0,
+[]
+],
+[
+"Denahi",
+0,
+[]
+],
+[
+"Sitka",
+0,
+[]
+],
+[
+"Koda's mother",
+0,
+[
+"Koda's mom"
+]
+],
+[
+"Tanana",
+0,
+[]
+],
+[
+"Tug",
+0,
+[]
+],
+[
+"Stabbington Brother",
+0,
+[]
+],
+[
+"Captain of the Guards",
+0,
+[]
+],
+[
+"Hook Hand",
+0,
+[]
+],
+[
+"Big Nose",
+0,
+[]
+],
+[
+"Vladimir",
+0,
+[
+"Vlad"
+]
+],
+[
+"Attila",
+0,
+[]
+],
+[
+"Shorty",
+0,
+[
+"Short Thug"
+]
+],
+[
+"Urf",
+0,
+[]
+],
+[
+"Pascal",
+0,
+[]
+],
+[
+"Maximus",
+0,
+[]
+],
+[
+"Queen Arianna",
+0,
+[]
+],
+[
+"King Frederic",
+0,
+[]
+],
+[
+"Calhoun",
+0,
+[
+"Sergeant Calhoun"
+]
+],
+[
+"King Candy",
+0,
+[
+"Turbo"
+]
+],
+[
+"Taffyta Muttonfudge",
+0,
+[]
+],
+[
+"Markowski",
+0,
+[]
+],
+[
+"Stan Litwak",
+0,
+[
+"Mr. Litwak"
+]
+],
+[
+"General Hologram",
+0,
+[]
+],
+[
+"Mary",
+0,
+[]
+],
+[
+"Gene",
+0,
+[]
+],
+[
+"Don",
+0,
+[]
+],
+[
+"Deanna",
+0,
+[]
+],
+[
+"Roy",
+0,
+[]
+],
+[
+"Wynnchel",
+0,
+[]
+],
+[
+"Duncan",
+0,
+[]
+],
+[
+"Tapper",
+0,
+[]
+],
+[
+"Moppet Girl",
+0,
+[]
+],
+[
+"Beard Papa",
+0,
+[]
+],
+[
+"Sour Bill",
+0,
+[]
+],
+[
+"Candlehead",
+0,
+[]
+],
+[
+"Rancis Fluggerbutter",
+0,
+[]
+],
+[
+"Jubileena Bing Bing",
+0,
+[
+"Jubileena Bing-Bing"
+]
+],
+[
+"Crumbelina di Caramello",
+0,
+[
+"Crumbelina DiCaramello"
+]
+],
+[
+"Dr. Brad Scott",
+0,
+[
+"Brad Scott"
+]
+],
+[
+"Saitine",
+0,
+[]
+],
+[
+"Surge Protector",
+0,
+[]
+],
+[
+"Clyde",
+0,
+[]
+],
+[
+"Kohut",
+0,
+[]
+],
+[
+"Grand Pabbie",
+0,
+[
+"Pabbie"
+]
+],
+[
+"Oaken",
+0,
+[]
+],
+[
+"King Agnarr",
+0,
+[]
+],
+[
+"Kai",
+0,
+[]
+],
+[
+"Gerda",
+0,
+[]
+],
+[
+"Bulda",
+0,
+[]
+],
+[
+"Spanish Dignitary",
+0,
+[]
+],
+[
+"German Dignitary",
+0,
+[]
+],
+[
+"Irish Dignitary",
+0,
+[]
+],
+[
+"Alistair Krei",
+0,
+[]
+],
+[
+"Aunt Cass",
+0,
+[
+"Cass"
+]
+],
+[
+"Abigail Callaghan",
+0,
+[]
+],
+[
+"Mr. Yama",
+0,
+[
+"Yama"
+]
+],
+[
+"Heathcliff",
+0,
+[]
+],
+[
+"Fred's Father",
+0,
+[
+"Freds Father"
+]
+],
+[
+"Mochi",
+0,
+[]
+],
+[
+"Larry",
+0,
+[
+"Wolf Guard"
+]
+],
+[
+"Gary",
+0,
+[]
+],
+[
+"Travis",
+0,
+[]
+],
+[
+"Sharla",
+0,
+[]
+],
+[
+"Gareth",
+0,
+[]
+],
+[
+"Hippo Girl",
+0,
+[]
+],
+[
+"Fabienne Growley",
+0,
+[
+"Snow Leopard co-anchor"
+]
+],
+[
+"Jaguar",
+0,
+[]
+],
+[
+"Jesse",
+0,
+[]
+],
+[
+"Woolter",
+0,
+[]
+],
+[
+"Achilles",
+0,
+[]
+],
+[
+"Te Fiti",
+0,
+[]
+],
+[
+"Te Kā",
+0,
+[
+"Te Ka"
+]
+],
+[
+"The Dogcatcher",
+0,
+[
+"dogcatcher"
+]
+],
+[
+"Man in Pet Shop",
+0,
+[]
+],
+[
+"Professor",
+0,
+[]
+],
+[
+"Samson",
+0,
+[]
+],
+[
+"Hyacinth Hippo",
+0,
+[
+"Hippo Ballerina"
+]
+],
+[
+"Prissy",
+0,
+[]
+],
+[
+"Prissy's owner",
+0,
+[
+"Artist Woman"
+]
+],
+[
+"Lady Mouse",
+0,
+[]
+],
+[
+"Bar Maid",
+0,
+[]
+],
+[
+"Citizen",
+0,
+[]
+],
+[
+"Baitmouse",
+0,
+[]
+],
+[
+"Faloo",
+0,
+[]
+],
+[
+"Cody's mother",
+0,
+[]
+],
+[
+"Nurse Mouse",
+0,
+[]
+],
+[
+"bookseller",
+0,
+[]
+],
+[
+"baker",
+0,
+[]
+],
+[
+"The Old Heretic",
+0,
+[]
+],
+[
+"First Ancestor",
+0,
+[]
+],
+[
+"Official",
+0,
+[]
+],
+[
+"Misty",
+0,
+[]
+],
+[
+"Ram #1",
+0,
+[]
+],
+[
+"Ram #2",
+0,
+[]
+],
+[
+"Old Lady Bear",
+0,
+[]
+],
+[
+"Male Lover Bear",
+0,
+[]
+],
+[
+"Female Lover Bear",
+0,
+[]
+],
+[
+"Foreign (Croatian) Bear",
+0,
+[]
+],
+[
+"Maggie",
+0,
+[]
+],
+[
+"Mrs. Calloway",
+0,
+[
+"Mrs. Caloway"
+]
+],
+[
+"Grace",
+0,
+[]
+],
+[
+"Mr. Wesley",
+0,
+[]
+],
+[
+"Rusty",
+0,
+[]
+],
+[
+"Buck",
+0,
+[]
+],
+[
+"Junior",
+0,
+[]
+],
+[
+"Rico",
+0,
+[]
+],
+[
+"Sheriff Sam Brown",
+0,
+[]
+],
+[
+"Jeb",
+0,
+[]
+],
+[
+"Pearl",
+0,
+[
+"Pearl Gesner"
+]
+],
+[
+"Audrey, the Chicken",
+0,
+[]
+],
+[
+"Ollie, the Pig",
+0,
+[]
+],
+[
+"Larry, the Duck",
+0,
+[]
+],
+[
+"Lucky Jack",
+0,
+[]
+],
+[
+"Annie",
+0,
+[]
+],
+[
+"Patrick",
+0,
+[]
+],
+[
+"Abner",
+0,
+[
+"Abner Dixon"
+]
+],
+[
+"The Mouse",
+0,
+[]
+],
+[
+"Drunken Lackey",
+0,
+[
+"Minstrel"
+]
+],
+[
+"policeman at zoo",
+0,
+[
+"The Policeman"
+]
+],
+[
+"The Owl",
+0,
+[]
+],
+[
+"Madame Upanova",
+0,
+[]
+],
+[
+"Johnny Appleseed",
+0,
+[]
+],
+[
+"Peter",
+0,
+[]
+],
+[
+"Aladar",
+0,
+[]
+],
+[
+"Plio",
+0,
+[]
+],
+[
+"Yar",
+0,
+[]
+],
+[
+"Zini",
+0,
+[]
+],
+[
+"Suri",
+0,
+[]
+],
+[
+"Kron",
+0,
+[]
+],
+[
+"Neera",
+0,
+[]
+],
+[
+"Bruton",
+0,
+[]
+],
+[
+"Baylene",
+0,
+[]
+],
+[
+"Eema",
+0,
+[]
+],
+[
+"Old Settler",
+0,
+[]
+],
+[
+"Johnny's Angel",
+0,
+[]
+],
+[
+"Fauna",
+0,
+[]
+],
+[
+"Annette",
+0,
+[]
+],
+[
+"Collette",
+0,
+[]
+],
+[
+"Danielle",
+0,
+[]
+],
+[
+"Queen Leah",
+0,
+[]
+],
+[
+"Huaca",
+0,
+[]
+],
+[
+"Falcon",
+0,
+[
+"Hayabusa",
+"Hayabusa the Falcon",
+"The Falcon"
+]
+],
+[
+"Percival Fauncewater",
+0,
+[
+"Meathead",
+"Mr. Fauncewater",
+"Percival \"Meathead\" Fauncewater"
+]
+],
+[
+"Dirty Dawson",
+0,
+[]
+],
+[
+"Knowsmore",
+0,
+[]
+],
+[
+"Arthur",
+0,
+[]
+],
+[
+"Principal Mazur",
+0,
+[]
+],
+[
+"Robert Zimmeruski",
+0,
+[
+"Bobby Zimmeruski"
+]
+],
+[
+"Roxanne",
+0,
+[]
+],
+[
+"Powerline",
+0,
+[]
+],
+[
+"Q*bert",
+0,
+[]
+],
+[
+"Miss Birdwell",
+0,
+[]
+],
+[
+"Mr. Simpkins",
+0,
+[]
+],
+[
+"Pepper",
+0,
+[]
+],
+[
+"Quiz Master",
+0,
+[]
+],
+[
+"Scottie",
+0,
+[]
+],
+[
+"TV inspector",
+0,
+[
+"Inspector Graves"
+]
 ]
 ]

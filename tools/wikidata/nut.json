@@ -1,22 +1,99 @@
 [
 [
 "acorn",
-78
+78,
+[
+"oak nut"
+]
 ],
 [
 "hazelnut",
-63
+63,
+[
+"cobnut",
+"European hazelnut",
+"filbert"
+]
 ],
 [
 "kola nut",
-34
+34,
+[
+"Cola"
+]
 ],
 [
 "chestnut",
-22
+22,
+[]
 ],
 [
 "beechnut",
-17
+17,
+[]
+],
+[
+"Djucu",
+2,
+[]
+],
+[
+"tree nut",
+1,
+[
+"tree nuts"
+]
+],
+[
+"Ginnan",
+1,
+[]
+],
+[
+"American chestnut",
+0,
+[]
+],
+[
+"giant filbert",
+0,
+[
+"Corylus maxima nut"
+]
+],
+[
+"buckeye nut",
+0,
+[]
+],
+[
+"Manchurian walnut",
+0,
+[]
+],
+[
+"kukui nut",
+0,
+[
+"candlenut",
+"Indian walnut"
+]
+],
+[
+"green walnuts",
+0,
+[
+"Juglans regia fruit",
+"unripe walnuts",
+"walnut fruit",
+"young walnuts"
+]
+],
+[
+"galip nut",
+0,
+[
+"kenari"
+]
 ]
 ]

@@ -1,2702 +1,8628 @@
 [
 [
 "The Joker",
-68
+68,
+[
+"Arthur Fleck",
+"Clown Prince of Crime",
+"DC Joker",
+"Dryad",
+"Eric Border",
+"Harlequin of Hate",
+"Jack Napier",
+"Jack White",
+"Jay Reko",
+"Joe Kerr",
+"John Doe",
+"Joker",
+"Joseph Kerr",
+"Liam Distal",
+"Mr. J",
+"Mr. J.",
+"Oberon Sexton",
+"Red Hood",
+"The Comedian",
+"The Freak",
+"The Gravedigger",
+"The Jester of Genocide",
+"The Trickster"
+]
 ],
 [
 "Catwoman",
-56
+56,
+[
+"Catwoman (Batman Returns)",
+"Irena Dubrovna",
+"Selina Kyle",
+"The Cat"
+]
 ],
 [
 "Thanos",
-56
+56,
+[
+"Dione"
+]
 ],
 [
 "Harley Quinn",
-47
+47,
+[
+"Dr. Harleen Frances Quinzel",
+"Harleen Frances Quinzel",
+"Harleen Quinzel",
+"Lee"
+]
 ],
 [
 "Scarlet Witch",
-45
+45,
+[
+"Ana Maximoff",
+"Wanda Frank",
+"Wanda Magnus"
+]
 ],
 [
 "Two-Face",
-44
+44,
+[
+"Harvey Dent"
+]
 ],
 [
 "Lex Luthor",
-43
+43,
+[
+"Alexander Joseph \"Lex\" Luthor",
+"Alexander Joseph Luthor"
+]
 ],
 [
 "Doctor Doom",
-41
+41,
+[
+"Dr. Doom",
+"Emperor Doom",
+"Victor Domashev",
+"Victor von Doom"
+]
 ],
 [
 "Green Goblin",
-39
+39,
+[]
 ],
 [
 "Riddler",
-39
+39,
+[
+"Edward Nashton",
+"Edward Nygma",
+"E. Nigma"
+]
 ],
 [
 "Magneto",
-38
+38,
+[
+"Erik Lehnsherr",
+"Henryk Gurzsky",
+"Magnus",
+"Max Eisenhardt"
+]
 ],
 [
 "Silver Surfer",
-38
+38,
+[
+"Norrin Radd"
+]
 ],
 [
 "Poison Ivy",
-37
+37,
+[
+"Dr. Pamela Isley",
+"Pamela Isley",
+"Pamela Lillian Isley",
+"Pamela Lillian Isley, PhD"
+]
 ],
 [
 "Ra's al Ghul",
-36
+36,
+[
+"Demon's Head",
+"Henri Ducard",
+"Terry Gene Kase",
+"The Demon"
+]
 ],
 [
 "Bane",
-36
+36,
+[
+"Eduardo Dorrance"
+]
 ],
 [
 "Doctor Octopus",
-36
+36,
+[
+"Doc Ock"
+]
 ],
 [
 "The Penguin",
-35
+35,
+[
+"DC Penguin",
+"Oswald Chesterfield Cobblepot",
+"Oswald Cobblepot",
+"Oz Cobb",
+"Penguin"
+]
 ],
 [
 "Kingpin",
-34
+34,
+[
+"White King",
+"Wilson Fisk",
+"Wilson Grant Fisk"
+]
 ],
 [
 "Loki",
-33
+33,
+[
+"Loki Laufeyson",
+"Loki Odinson"
+]
 ],
 [
 "Galactus",
-33
+33,
+[
+"Devourer of Worlds",
+"Galan",
+"Galen"
+]
 ],
 [
 "Darkseid",
-33
+33,
+[
+"Uxas"
+]
 ],
 [
 "Mystique",
-33
+33,
+[
+"Raven Darkholme",
+"Raven Darkhölme"
+]
 ],
 [
 "Lizard",
-32
+32,
+[
+"Curt Connors",
+"Curtis Connors",
+"The Lizard"
+]
 ],
 [
 "Scarecrow",
-32
+32,
+[
+"Dr. Jonathan Crane",
+"Ebenezer Laughton",
+"Jonathan Crane",
+"The Scarecrow"
+]
 ],
 [
 "Megatron",
-32
+32,
+[
+"D-16",
+"D16",
+"Galvatron"
+]
 ],
 [
 "Quicksilver",
-32
+32,
+[]
 ],
 [
 "Gellert Grindelwald",
-31
+31,
+[
+"Grindelwald",
+"Percival Graves"
+]
 ],
 [
 "Red Skull",
-31
+31,
+[]
 ],
 [
 "Groot",
-31
+31,
+[]
 ],
 [
 "Sabretooth",
-30
+30,
+[]
 ],
 [
 "Deadshot",
-29
+29,
+[
+"Floyd Lawton"
+]
 ],
 [
 "Warren Worthington III",
-29
+29,
+[
+"Angel",
+"Archangel",
+"Avenging Angel",
+"Dark Angel",
+"Warren Kenneth Worthington III"
+]
 ],
 [
 "Rogue",
-29
+29,
+[
+"Anna Marie",
+"Anna Marie LeBeau",
+"Anna Raven",
+"Mrs. Lebeau"
+]
 ],
 [
 "Black Cat",
-29
+29,
+[
+"Cat",
+"Felicia Hardy"
+]
 ],
 [
 "Ernst Stavro Blofeld",
-28
+28,
+[
+"Ernst Blofeld"
+]
 ],
 [
 "Carnage",
-28
+28,
+[
+"Cletus Kasady"
+]
 ],
 [
 "Electro",
-28
+28,
+[
+"Max Dillon",
+"Maxwell Dillon"
+]
 ],
 [
 "Deathstroke",
-27
+27,
+[
+"Deathstroke the Terminator",
+"Slade Wilson",
+"The Terminator"
+]
 ],
 [
 "Ultron",
-27
+27,
+[]
 ],
 [
 "Rhino",
-27
+27,
+[
+"Aleksei Mikhailovich Sytsevich",
+"Aleksei Sytsevich",
+"Alex O'Hirn"
+]
 ],
 [
 "Sandman",
-26
+26,
+[
+"Flint Marko",
+"William Baker"
+]
 ],
 [
 "Morbius",
-26
+26,
+[
+"Doctor Michael Morbius",
+"Dr. Michael Morbius",
+"Michael Morbius",
+"Morbius, the Living Vampire"
+]
 ],
 [
 "Mysterio",
-26
+26,
+[]
 ],
 [
 "Juggernaut",
-26
-],
+26,
 [
-"Kraven the Hunter",
-25
+"Crimson Gem of Cyttorak"
+]
 ],
 [
 "Killer Croc",
-25
+25,
+[
+"Croc",
+"King Croc",
+"Waylon Jones"
+]
+],
+[
+"Kraven the Hunter",
+25,
+[
+"Kraven",
+"Sergei Kravinoff",
+"Sergei Nikolaevich Kravinoff",
+"Sergei Nikolaevich Kravinov"
+]
 ],
 [
 "Harry Osborn",
-24
+24,
+[
+"Goblin Prince",
+"Green Goblin",
+"Harold Osborn",
+"New Goblin"
+]
 ],
 [
 "Kang the Conqueror",
-24
+24,
+[
+"Blue Man",
+"Blue Totem",
+"Kang",
+"King of Kings",
+"Lord of the Seven Suns",
+"Master of Men",
+"Nathaniel Richards",
+"Rama-Tut",
+"Scarlet Centurion",
+"Victor Timely"
+]
 ],
 [
 "Shocker",
-24
+24,
+[
+"Herman Schultz"
+]
 ],
 [
 "Vulture",
-24
+24,
+[]
 ],
 [
 "Hela",
-24
+24,
+[]
 ],
 [
 "Clayface",
-24
-],
+24,
 [
-"Nebula",
-23
-],
-[
-"Black Adam",
-23
+"Basil Karlo",
+"Cassius \"Clay\" Payne",
+"Clayface-Prime",
+"Claything",
+"Dr. Peter Malley",
+"Johnny Williams",
+"Lady Clay",
+"Matt Hagen",
+"Preston Payne",
+"Sondra Fuller",
+"The Clayface of Japan",
+"Todd Russell"
+]
 ],
 [
 "Brainiac",
-23
+23,
+[
+"Brain InterActive Construct",
+"Brainiac (Smallville)",
+"Brainiac 5",
+"Milton Fine",
+"Vril Dox"
+]
 ],
 [
-"Fu Manchu",
-22
+"Nebula",
+23,
+[
+"Infinity Union"
+]
 ],
 [
-"Apocalypse",
-22
+"Black Adam",
+23,
+[
+"Teth-Adam",
+"Theo Adam"
+]
 ],
 [
 "General Zod",
-22
+22,
+[
+"Dru-Zod",
+"Zod"
+]
+],
+[
+"Fu Manchu",
+22,
+[
+"Dr. Fu Manchu"
+]
+],
+[
+"Apocalypse",
+22,
+[
+"En Sabah Nur",
+"Genesis",
+"The First One"
+]
 ],
 [
 "Shredder",
-22
+22,
+[
+"Oroku Saki",
+"אורי עפרי"
+]
 ],
 [
 "Abomination",
-22
+22,
+[
+"Emil Blonsky"
+]
 ],
 [
 "Captain Cold",
-22
+22,
+[
+"Leonard Snart"
+]
 ],
 [
 "Mad Hatter",
-22
+22,
+[
+"Jervis Tetch"
+]
 ],
 [
 "Hobgoblin",
-22
+22,
+[]
 ],
 [
 "Emma Frost",
-21
+21,
+[
+"Emma Grace Frost",
+"Sleeping Beauty",
+"The Lady of Lies",
+"The Lady of the Night",
+"The Queen of Diamonds",
+"The Queen of Hellfire club",
+"The White Rose",
+"White Queen"
+]
 ],
 [
 "Jason Todd",
-20
+20,
+[
+"Arkham Knight",
+"Jason Peter Todd",
+"Red Hood",
+"Robin"
+]
 ],
 [
 "Thunderbolt Ross",
-20
+20,
+[
+"General Ross",
+"Red Hulk",
+"Rulk",
+"Thaddeus E. Ross",
+"Thaddeus Ross"
+]
 ],
 [
 "Bullseye",
-20
+20,
+[
+"Benjamin Poindexter",
+"Hawkeye",
+"Lester"
+]
 ],
 [
 "Lobo",
-20
+20,
+[
+"Lobo the Main Man"
+]
 ],
 [
 "Doomsday",
-19
+19,
+[]
 ],
 [
 "Norman Osborn",
-19
+19,
+[
+"Goblin King",
+"Gold Goblin",
+"Green Goblin",
+"Iron Patriot",
+"Mason Banks",
+"Norman Virgil Osborn",
+"Red Goblin"
+]
 ],
 [
 "Hugo Strange",
-19
+19,
+[
+"Doctor Hugo Strange",
+"Dr. Hugo Strange"
+]
 ],
 [
 "Mephisto",
-19
+19,
+[
+"Beelzebub",
+"Lord of Evil",
+"Lucifer",
+"Maya",
+"Mephistopheles",
+"Prince of Devils",
+"Prince of Lies",
+"Satan",
+"The Devil"
+]
 ],
 [
 "Taskmaster",
-19
+19,
+[
+"Anthony Masters",
+"Tony Masters"
+]
 ],
 [
 "Mister Sinister",
-19
+19,
+[
+"Mr Sinister",
+"Mr. Sinister",
+"Nathaniel Essex"
+]
 ],
 [
 "Chameleon",
-19
+19,
+[
+"Dmitri Anatoly Smerdyakov Kravinoff",
+"Dmitri Smerdyakov"
+]
 ],
 [
 "Dormammu",
-18
+18,
+[]
 ],
 [
 "Mandarin",
-18
+18,
+[
+"Chu",
+"Gene Kahn",
+"Zhang Tong"
+]
 ],
 [
 "Cheetah",
-18
+18,
+[
+"Barbara Ann Minerva",
+"Deborah Domaine",
+"Priscilla Rich",
+"Sebastian Ballesteros"
+]
 ],
 [
 "Ronan the Accuser",
-17
+17,
+[
+"Ronan"
+]
 ],
 [
 "Hydro-Man",
-17
+17,
+[
+"Morris Bench"
+]
 ],
 [
 "The Leader",
-17
+17,
+[
+"Leader",
+"Samuel Sterns"
+]
 ],
 [
 "Black Manta",
-17
+17,
+[
+"David Hyde",
+"David Kane"
+]
 ],
 [
 "Eddie Brock",
-17
+17,
+[
+"Anti-Venom",
+"Edward Brock",
+"Edward Charles Brock",
+"King in Black",
+"Toxin",
+"Venom"
+]
 ],
 [
 "Carmine Falcone",
-17
+17,
+[
+"Don Falcone",
+"Falcone",
+"The Roman"
+]
 ],
 [
 "Victor Zsasz",
-17
+17,
+[]
 ],
 [
 "Talia al Ghul",
-17
+17,
+[
+"Daughter of the Demon's Head",
+"Leviathan",
+"Miranda Tate",
+"Talia Head"
+]
 ],
 [
 "Collector",
-17
+17,
+[
+"Taneleer Tivan",
+"The Collector"
+]
 ],
 [
 "Steppenwolf",
-17
+17,
+[
+"Steppenwolf (DC Extended Universe)",
+"Steppenwolf (DCEU)"
+]
 ],
 [
 "Bizarro",
-17
+17,
+[]
 ],
 [
 "Ocean Master",
-16
+16,
+[
+"Orm Marius"
+]
 ],
 [
 "Black Mask",
-16
+16,
+[
+"Roman Sionis"
+]
 ],
 [
 "Ben Reilly",
-16
+16,
+[
+"Benjamin Reilly",
+"Jackal",
+"Peter Parker",
+"Scarlet Spider",
+"Spider-Carnage",
+"Spider-Man"
+]
 ],
 [
 "Baron Mordo",
-16
+16,
+[
+"Baron Karl Amadeus Mordo",
+"Karl Amadeus Mordo",
+"Karl Mordo"
+]
 ],
 [
 "Eobard Thawne",
-16
+16,
+[
+"Black Flash",
+"Professor Zoom",
+"Reverse-Flash"
+]
 ],
 [
 "Killer Frost",
-16
+16,
+[
+"Caitlin Snow",
+"Crystal Frost",
+"Louise Lincoln"
+]
 ],
 [
 "Ventriloquist",
-16
+16,
+[]
 ],
 [
 "Enchantress",
-16
+16,
+[
+"June Moone"
+]
 ],
 [
 "Gorilla Grodd",
-16
+16,
+[
+"Grodd"
+]
 ],
 [
 "Mister Mxyzptlk",
-15
+15,
+[
+"Mr. Mxyzptlk",
+"Mxyzptlk"
+]
 ],
 [
 "Metallo",
-15
+15,
+[
+"John Corben",
+"Roger Corben"
+]
 ],
 [
 "Sinestro",
-15
+15,
+[
+"Thaal Sinestro"
+]
 ],
 [
 "Hush",
-15
+15,
+[
+"Dr. Thomas Elliot",
+"Thomas Elliot",
+"Tommy Elliot"
+]
 ],
 [
 "Pyro",
-15
+15,
+[
+"John Allerdyce",
+"Saint-John Allerdyce",
+"St. John Allerdyce"
+]
 ],
 [
 "Vandal Savage",
-15
+15,
+[
+"Blackbeard",
+"Genghis Khan",
+"Jack the Ripper",
+"Khafre",
+"Vandar Adg"
+]
 ],
 [
 "William Stryker",
-15
+15,
+[]
 ],
 [
 "Captain Boomerang",
-15
+15,
+[
+"Boomerang",
+"Digger Harkness",
+"George \"Digger\" Harkness",
+"George Harkness"
+]
 ],
 [
 "Krang",
-15
+15,
+[
+"1987 Krang"
+]
 ],
 [
 "Zoom",
-14
+14,
+[
+"Hunter Zolomon",
+"Reverse-Flash"
+]
 ],
 [
 "Batroc the Leaper",
-14
+14,
+[
+"Batroc",
+"Georges Batroc"
+]
 ],
 [
 "Toad",
-14
+14,
+[
+"Mortimer Toynbee"
+]
 ],
 [
 "Baron Zemo",
-14
+14,
+[]
 ],
 [
 "Firefly",
-14
+14,
+[
+"Garfield Lynns"
+]
 ],
 [
 "Arnim Zola",
-14
+14,
+[]
 ],
 [
 "Justin Hammer",
-14
+14,
+[]
 ],
 [
 "Klaw",
-14
+14,
+[
+"Ulysses Klaue",
+"Ulysses Klaw"
+]
 ],
 [
 "Purple Man",
-14
+14,
+[
+"Zebediah Kilgrave"
+]
 ],
 [
 "Tombstone",
-14
+14,
+[
+"Lonnie Thompson Lincoln"
+]
 ],
 [
 "Crossbones",
-14
+14,
+[
+"Brock Rumlow"
+]
 ],
 [
 "Clock King",
-14
+14,
+[
+"Tem",
+"Temple Fugate",
+"William Tockman"
+]
 ],
 [
 "Annihilus",
-14
+14,
+[]
 ],
 [
 "Super-Skrull",
-13
+13,
+[
+"Kl'rt"
+]
 ],
 [
 "Skeletor",
-13
+13,
+[
+"Keldor"
+]
 ],
 [
 "Beyonder",
-13
+13,
+[]
 ],
 [
 "Solomon Grundy",
-13
+13,
+[
+"Cyrus Gold"
+]
 ],
 [
 "Lady Deathstrike",
-13
+13,
+[
+"Yuriko Oyama"
+]
 ],
 [
 "Iron Monger",
-13
+13,
+[]
 ],
 [
 "High Evolutionary",
-13
+13,
+[
+"Herbert Edgar Wyndham",
+"Herbert Wyndham"
+]
 ],
 [
 "Tinkerer",
-13
+13,
+[
+"Phineas Mason",
+"Phineas T. Mason"
+]
 ],
 [
 "Hammerhead",
-13
+13,
+[]
 ],
 [
 "Ghost",
-13
+13,
+[]
 ],
 [
 "Dr. Evil",
-13
+13,
+[
+"Doctor Evil",
+"Dr Evil"
+]
 ],
 [
 "Captain Atom",
-13
+13,
+[
+"Allen Adam",
+"Nathaniel Adam",
+"Nathaniel C Adam",
+"Nathaniel C. Adam",
+"Nathaniel Christopher Adam"
+]
 ],
 [
 "Etrigan the Demon",
-13
+13,
+[
+"Jason Blood",
+"The Demon"
+]
 ],
 [
 "Molecule Man",
-13
+13,
+[
+"Owen Reece"
+]
 ],
 [
 "Ares",
-12
+12,
+[
+"Ares Buchanan",
+"Mars",
+"War"
+]
 ],
 [
 "Killer Moth",
-12
+12,
+[]
 ],
 [
 "Giganta",
-12
+12,
+[
+"Dr. Doris Zeul"
+]
 ],
 [
 "Mongul",
-12
+12,
+[]
 ],
 [
 "Jackal",
-12
+12,
+[
+"Miles Warren"
+]
 ],
 [
 "Calendar Man",
-12
+12,
+[
+"Julian Day",
+"Julian Gregory Day"
+]
 ],
 [
 "Fin Fang Foom",
-12
+12,
+[]
 ],
 [
 "Shuma-Gorath",
-12
+12,
+[]
 ],
 [
 "Parallax",
-12
+12,
+[]
 ],
 [
 "King Shark",
-12
+12,
+[
+"Nanaue"
+]
 ],
 [
 "Executioner",
-12
+12,
+[
+"Skurge"
+]
 ],
 [
 "Malekith the Accursed",
-12
+12,
+[
+"Malekith"
+]
 ],
 [
 "Mister Negative",
-12
+12,
+[
+"Martin Li"
+]
 ],
 [
 "Omni-Man",
-12
+12,
+[
+"Nolan Grayson",
+"Omniman",
+"Omni Man"
+]
 ],
 [
 "Doctor Sivana",
-12
+12,
+[
+"Thaddeus Bodog Sivana",
+"Thaddeus Sivana"
+]
 ],
 [
 "Viper",
-12
+12,
+[
+"Madame Hydra",
+"Ophelia Sarkissian"
+]
 ],
 [
 "Baron Strucker",
-12
+12,
+[
+"Wolfgang von Strucker"
+]
 ],
 [
 "Knull",
-12
+12,
+[]
 ],
 [
 "Sunfire",
-12
+12,
+[
+"Shiro Yoshida"
+]
 ],
 [
 "Dracula",
-11
+11,
+[
+"Count Dracula",
+"Dragon",
+"Drake",
+"Dr. Vlad",
+"Father Death",
+"Justin Drake",
+"Kaziglu Bey/Impaler Prince",
+"Lord of the Damned, Undead and Vampires",
+"Prince of Darkness",
+"The Devi",
+"The Impaler",
+"Vladimir Tepesch",
+"Vlad Tepes Dracula"
+]
 ],
 [
 "Parasite",
-11
+11,
+[]
 ],
 [
 "Rupert Thorne",
-11
+11,
+[]
 ],
 [
 "Absorbing Man",
-11
+11,
+[
+"Carl Creel",
+"Crusher Creel"
+]
 ],
 [
 "Joe Chill",
-11
+11,
+[
+"Joseph Chilton"
+]
 ],
 [
 "Molten Man",
-11
+11,
+[
+"Mark Raxton"
+]
 ],
 [
 "Ratcatcher",
-11
+11,
+[
+"Otis Flannegan"
+]
 ],
 [
 "Blob",
-11
+11,
+[
+"Fred Dukes",
+"Frederick Dukes",
+"Frederick J. Dukes",
+"The Blob"
+]
 ],
 [
 "Phoenix Force",
-11
+11,
+[
+"Dark Phoenix",
+"Phoenix"
+]
 ],
 [
 "Cassandra Nova",
-11
+11,
+[]
 ],
 [
 "Silver Samurai",
-11
+11,
+[
+"Kenuichio Harada"
+]
 ],
 [
 "Shego",
-10
+10,
+[]
 ],
 [
 "Karla Sofen",
-10
+10,
+[
+"Meteorite",
+"Moonstone",
+"Ms. Marvel"
+]
 ],
 [
 "Flag-Smasher",
-10
+10,
+[]
 ],
 [
 "Legion",
-10
+10,
+[
+"David Charles Haller",
+"David Haller",
+"ketshop al hapizza"
+]
 ],
 [
 "Mister Hyde",
-10
+10,
+[
+"Mr. Hyde"
+]
 ],
 [
 "Maxwell Lord",
-10
+10,
+[]
 ],
 [
 "Blackheart",
-10
+10,
+[]
 ],
 [
 "Ebony Maw",
-10
+10,
+[]
 ],
 [
 "Bat-Mite",
-10
+10,
+[]
 ],
 [
 "Sebastian Shaw",
-10
+10,
+[
+"Black King",
+"Klaus Schmidt",
+"Lord Imperial",
+"Sebastian Hiram Shaw"
+]
 ],
 [
 "Avalanche",
-10
+10,
+[
+"Dominic Petros",
+"Dominic Szilard Janos Petros",
+"Dominikos Petrakis"
+]
 ],
 [
 "Ultraman",
-10
+10,
+[
+"Clark Kent",
+"Kal-El",
+"Kal-Il",
+"Ultraman (DC comics)"
+]
 ],
 [
 "Destroyer",
-10
+10,
+[]
 ],
 [
 "Hood",
-10
+10,
+[
+"Parker Robbins"
+]
 ],
 [
 "Typhoid Mary",
-10
+10,
+[
+"Bloody Mary",
+"Mary Walker",
+"Mutant Zero",
+"Typhoid",
+"Walker"
+]
 ],
 [
 "Amazo",
-10
+10,
+[]
 ],
 [
 "Superboy-Prime",
-10
+10,
+[
+"Clark Kent",
+"Kal-El",
+"Prime",
+"Superboy",
+"Superman",
+"Superman-Prime",
+"Time Trapper"
+]
 ],
 [
 "Terra",
-10
+10,
+[
+"Princess Tara Markov",
+"Tara",
+"Tara Markov"
+]
 ],
 [
 "Mac Gargan",
-10
+10,
+[
+"MacDonald Gargan",
+"Scorpion",
+"Spider-Man",
+"Venom",
+"Virus"
+]
 ],
 [
 "Korath the Pursuer",
-10
+10,
+[]
 ],
 [
 "Circe",
-10
+10,
+[
+"Donna Milton"
+]
 ],
 [
 "The Batman Who Laughs",
-10
+10,
+[
+"Bruce Wayne"
+]
 ],
 [
 "Professor Pyg",
-10
+10,
+[
+"Lazlo Valentin"
+]
 ],
 [
 "Callisto",
-10
+10,
+[
+"White Knight"
+]
 ],
 [
 "Gru",
-9
+9,
+[
+"Felonious Gru"
+]
 ],
 [
 "Beetle",
-9
+9,
+[]
 ],
 [
 "Shadow King",
-9
+9,
+[
+"Amahl Farouk"
+]
 ],
 [
 "Owlman",
-9
+9,
+[
+"Lincoln March",
+"Thomas Wayne II",
+"Thomas Wayne Jr"
+]
 ],
 [
 "Doctor Alchemy",
-9
+9,
+[]
 ],
 [
 "Demogoblin",
-9
+9,
+[]
 ],
 [
 "Terrax",
-9
+9,
+[]
 ],
 [
 "Owl",
-9
+9,
+[
+"Leland Owlsley"
+]
 ],
 [
 "Shriek",
-9
+9,
+[]
 ],
 [
 "Atrocitus",
-9
+9,
+[
+"Atros"
+]
 ],
 [
 "Weather Wizard",
-9
+9,
+[
+"Marco Mardon",
+"Mark Mardon"
+]
 ],
 [
 "Silvermane",
-9
+9,
+[
+"Silvio Manfredi"
+]
 ],
 [
 "Ozymandias",
-9
+9,
+[
+"Adrian Alexander Veidt",
+"Adrian Veidt"
+]
 ],
 [
 "Vulcan",
-9
+9,
+[
+"Gabriel Summers"
+]
 ],
 [
 "Boomerang",
-9
+9,
+[
+"Frederick Myers",
+"Fred Myers"
+]
 ],
 [
 "Eradicator",
-9
+9,
+[
+"Dr. David Connor",
+"The Last Son of Krypton"
+]
 ],
 [
 "Daken",
-9
+9,
+[
+"Akihiro",
+"Dark Wolverine"
+]
 ],
 [
 "Jack O'Lantern",
-9
+9,
+[]
 ],
 [
 "Sal Maroni",
-9
+9,
+[
+"Salvatore Maroni"
+]
 ],
 [
 "Krona",
-9
+9,
+[]
 ],
 [
 "Merlyn",
-9
+9,
+[
+"Arthur King",
+"Dark Archer",
+"Malcolm Merlyn",
+"The Dark Archer",
+"Vordigan"
+]
 ],
 [
 "Count Nefaria",
-9
+9,
+[
+"Count Luchino Nefaria",
+"Luchino Nefaria"
+]
 ],
 [
 "Bronze Tiger",
-9
+9,
+[
+"Benjamin Turner",
+"Ben Turner"
+]
 ],
 [
 "Ajax",
-9
+9,
+[
+"Francis Freeman"
+]
 ],
 [
 "Titania",
-9
+9,
+[
+"Mary MacPherran"
+]
 ],
 [
 "The Creeper",
-9
+9,
+[
+"Jack Ryder"
+]
 ],
 [
 "Mojo",
-9
+9,
+[]
 ],
 [
 "Silver Banshee",
-9
+9,
+[]
 ],
 [
 "Madelyne Pryor",
-9
+9,
+[
+"Anodyne",
+"Goblin Queen",
+"Maddie Pryor",
+"Madelyne Jennifer Pryor-Summers",
+"Madelyne Summers",
+"Red Queen"
+]
 ],
 [
 "Jigsaw",
-9
+9,
+[
+"Billy Russo",
+"William Russo"
+]
 ],
 [
 "Catman",
-8
+8,
+[
+"Thomas Blake"
+]
 ],
 [
 "Mastermind",
-8
+8,
+[
+"Jason Wyngarde",
+"Martinique Jason"
+]
 ],
 [
 "Eclipso",
-8
+8,
+[
+"Galid",
+"Kaala"
+]
 ],
 [
 "Anne Weying",
-8
+8,
+[
+"She-Venom"
+]
 ],
 [
 "Felix Faust",
-8
+8,
+[]
 ],
 [
 "Onslaught",
-8
+8,
+[]
 ],
 [
 "Black Tom Cassidy",
-8
+8,
+[
+"Thomas Cassidy",
+"Thomas Samuel Eamon Cassidy",
+"Tom Cassidy"
+]
 ],
 [
 "Madame Masque",
-8
+8,
+[
+"Big M",
+"Giuletta Nefaria",
+"Whitney Frost"
+]
 ],
 [
 "Anti-Monitor",
-8
+8,
+[
+"Mobius"
+]
 ],
 [
 "Mole Man",
-8
+8,
+[
+"Harvey Elder",
+"Harvey Rupert Elder"
+]
 ],
 [
 "Karl Ruprect Kroenen",
-8
+8,
+[
+"Karl Ruprecht Kroenen"
+]
 ],
 [
 "Ultra-Humanite",
-8
+8,
+[
+"Gerard Shugel"
+]
 ],
 [
 "Zarathos",
-8
+8,
+[
+"Ghost Ride"
+]
 ],
 [
 "Silver Fox",
-8
+8,
+[
+"Kayla Silverfox"
+]
 ],
 [
 "Azazel",
-8
+8,
+[]
 ],
 [
 "Ulik",
-8
+8,
+[]
 ],
 [
 "Helmut Zemo",
-8
+8,
+[
+"Baron Zemo"
+]
 ],
 [
 "Alistair Smythe",
-8
+8,
+[
+"Spider-Slayer",
+"Ultimate Spider Slayer"
+]
 ],
 [
 "Grey Gargoyle",
-8
+8,
+[
+"Paul Duval",
+"Paul Pierre Duval"
+]
 ],
 [
 "Copycat",
-8
+8,
+[
+"Vanessa Carlysle",
+"Vanessa Geraldine Carlysle"
+]
 ],
 [
 "Despero",
-8
+8,
+[]
 ],
 [
 "Spot",
-8
+8,
+[
+"Dr. Jonathan Ohnn",
+"Jonathan Ohnn"
+]
 ],
 [
 "Korvac",
-8
+8,
+[
+"Michael Korvac"
+]
 ],
 [
 "Lena Luthor",
-8
+8,
+[
+"Lena Thorul",
+"Lena Thorul-Colby",
+"Tess Mercer",
+"Ultrawoman"
+]
 ],
 [
 "Mangog",
-8
+8,
+[]
 ],
 [
 "KGBeast",
-8
+8,
+[
+"Anatoly Knyazev",
+"The Beast"
+]
 ],
 [
 "Golden Glider",
-8
+8,
+[
+"Lisa Snart"
+]
 ],
 [
 "Wizard",
-8
+8,
+[
+"Bentley Wittman",
+"The Wizard",
+"William A. Zard",
+"Wingless Wizard"
+]
 ],
 [
 "Savitar",
-8
+8,
+[
+"Barry Allen",
+"God of Speed"
+]
 ],
 [
 "Duela Dent",
-8
+8,
+[
+"Card Queen",
+"Catgirl",
+"Harlequin",
+"Joker's Daughter",
+"Penguin's Daughter",
+"Riddler's Daughter",
+"Scarecrone"
+]
 ],
 [
 "Bolivar Trask",
-8
+8,
+[]
 ],
 [
 "Lady Shiva",
-8
+8,
+[
+"Sandra Woosan",
+"Sandra Wu-San"
+]
 ],
 [
 "Trickster",
-8
+8,
+[
+"Axel Walker",
+"Giovanni Giuseppe",
+"James Jesse"
+]
 ],
 [
 "Rose Wilson",
-8
+8,
+[
+"Ravager"
+]
 ],
 [
 "Blackfire",
-8
+8,
+[
+"Komand'r"
+]
 ],
 [
 "Kalibak",
-8
+8,
+[]
 ],
 [
 "Genis-Vell",
-8
+8,
+[
+"Captain Marvel",
+"Legacy",
+"Photon"
+]
 ],
 [
 "Count Vertigo",
-8
+8,
+[
+"Werner Vertigo",
+"Werner Zytle"
+]
 ],
 [
 "Red Ghost",
-8
+8,
+[
+"Ivan Kragoff"
+]
 ],
 [
 "Kite Man",
-8
+8,
+[
+"Charles \"Chuck\" Brown"
+]
 ],
 [
 "Destiny",
-7
+7,
+[
+"Irene Adler"
+]
 ],
 [
 "Lucy Lane",
-7
+7,
+[
+"Superwoman"
+]
 ],
 [
 "Puppet Master",
-7
+7,
+[
+"Phillip Masters"
+]
 ],
 [
 "Jinx",
-7
+7,
+[]
 ],
 [
 "Dr. Drakken",
-7
+7,
+[
+"Drew Theodore P. Lipsky"
+]
 ],
 [
 "Diablo",
-7
+7,
+[
+"Esteban Corazon de Ablo",
+"Esteban Corazón de Ablo"
+]
 ],
 [
 "Doctor Poison",
-7
+7,
+[]
 ],
 [
 "Songbird",
-7
+7,
+[
+"Melissa Gold",
+"Melissa Joan Gold",
+"Screaming Mimi"
+]
 ],
 [
 "Mad Thinker",
-7
+7,
+[
+"Julius Mars"
+]
 ],
 [
 "Desaad",
-7
+7,
+[]
 ],
 [
 "Menace",
-7
+7,
+[
+"Grey Goblin",
+"Lily Hollister",
+"Menace of Manhattan",
+"Queen Cat"
+]
 ],
 [
 "Volcana",
-7
+7,
+[
+"Claire Selton",
+"Marsha Rosenberg"
+]
 ],
 [
 "Zzzax",
-7
+7,
+[]
 ],
 [
 "Toyman",
-7
+7,
+[
+"Hiro Okamura",
+"Jack Nimball",
+"Toyman Robot",
+"Winslow Percival Schott"
+]
 ],
 [
 "Attuma",
-7
+7,
+[]
 ],
 [
 "Larfleeze",
-7
+7,
+[
+"Agent Orange"
+]
 ],
 [
 "Firelord",
-7
+7,
+[
+"Pyreus Kril"
+]
 ],
 [
 "Russian",
-7
-],
-[
-"Carol Ferris",
-7
-],
-[
-"Puma",
-7
-],
-[
-"Hector Hammond",
-7
-],
-[
-"Gladiator",
-7
-],
-[
-"Hank Henshaw",
-7
-],
-[
-"Captain Nazi",
-7
-],
-[
-"Lady Octopus",
-7
-],
-[
-"Doctor Light",
-7
-],
-[
-"Calypso",
-7
-],
-[
-"Prometheus",
-7
-],
-[
-"Floronic Man",
-7
-],
-[
-"Cheshire",
-7
-],
-[
-"Aleksander Lukin",
-7
-],
-[
-"Selene",
-7
-],
-[
-"Stilt-Man",
-7
-],
-[
-"Trapster",
-7
-],
-[
-"Jericho",
-7
-],
-[
-"Sin",
-7
-],
-[
-"David North",
-7
-],
-[
-"Blastaar",
-7
-],
-[
-"Granny Goodness",
-7
-],
-[
-"Trigon",
-7
+7,
+[]
 ],
 [
 "Proteus",
-7
+7,
+[
+"Kevin MacTaggert",
+"Mutant X",
+"Remington Percival Cord"
+]
+],
+[
+"Carol Ferris",
+7,
+[
+"Star Sapphire"
+]
+],
+[
+"Puma",
+7,
+[
+"Thomas Fireheart"
+]
+],
+[
+"Hector Hammond",
+7,
+[]
+],
+[
+"Gladiator",
+7,
+[
+"Melvin Potter"
+]
+],
+[
+"Hank Henshaw",
+7,
+[
+"Cyborg Superman",
+"Henry Henshaw",
+"The Cyborg"
+]
+],
+[
+"Captain Nazi",
+7,
+[
+"Albrecht Krieger"
+]
+],
+[
+"Lady Octopus",
+7,
+[]
+],
+[
+"Doctor Light",
+7,
+[
+"Arthur Light"
+]
+],
+[
+"Calypso",
+7,
+[
+"Calypso Ezili"
+]
+],
+[
+"Prometheus",
+7,
+[
+"Chad Graham",
+"Curt Calhoun"
+]
+],
+[
+"Floronic Man",
+7,
+[
+"Dr. Jason Woodrue",
+"Floro",
+"Plant Master"
+]
+],
+[
+"Cheshire",
+7,
+[
+"Jade Nguyen"
+]
+],
+[
+"Aleksander Lukin",
+7,
+[]
+],
+[
+"Selene",
+7,
+[
+"Black Priestess",
+"Black Queen",
+"Selene Gallio"
+]
+],
+[
+"Stilt-Man",
+7,
+[
+"Stiltman"
+]
+],
+[
+"Trapster",
+7,
+[]
+],
+[
+"Jericho",
+7,
+[
+"Joseph William Wilson",
+"Joseph W. Wilson"
+]
+],
+[
+"Sin",
+7,
+[
+"Avatar of Evil",
+"Beast Goddess",
+"Erica Holstein",
+"Heir of the Devil",
+"Mother Superior",
+"Sinthea Schmidt",
+"Skadi"
+]
+],
+[
+"David North",
+7,
+[
+"Agent Zero",
+"Christoph Nord",
+"Maverick"
+]
+],
+[
+"Blastaar",
+7,
+[
+"Living Bomb-Burst"
+]
+],
+[
+"Granny Goodness",
+7,
+[]
+],
+[
+"Trigon",
+7,
+[]
 ],
 [
 "Tobias Whale",
-7
+7,
+[
+"Great White Whale"
+]
 ],
 [
 "Faora",
-7
+7,
+[
+"Faora Hu-Ul",
+"Faora Ul",
+"Zaora"
+]
 ],
 [
 "Baron Blood",
-6
+6,
+[
+"Victor Strange"
+]
 ],
 [
 "Ming the Merciless",
-6
+6,
+[]
 ],
 [
 "Mikhail Rasputin",
-6
+6,
+[
+"Mikhail Nikolaievitch Rasputin"
+]
 ],
 [
 "Morlun",
-6
+6,
+[]
 ],
 [
 "Black Flash",
-6
+6,
+[]
 ],
 [
 "Rita Repulsa",
-6
+6,
+[]
 ],
 [
 "Ursa",
-6
+6,
+[]
 ],
 [
 "Power Ring",
-6
+6,
+[
+"Harold Jordan",
+"Joseph Harrolds"
+]
 ],
 [
 "Deacon Frost",
-6
+6,
+[]
 ],
 [
 "Sportsmaster",
-6
+6,
+[
+"Lawrence Crock",
+"Lawrence \"Crusher\" Crock"
+]
 ],
 [
 "Plastique",
-6
+6,
+[
+"Bette Sans Souci"
+]
 ],
 [
 "Starro",
-6
+6,
+[]
 ],
 [
 "Abra Kadabra",
-6
+6,
+[]
 ],
 [
 "Shade",
-6
+6,
+[
+"Dicky",
+"Immortal Wielder of Shadows",
+"Louie",
+"Mr. Black",
+"Richard Swift"
+]
 ],
 [
 "Scream",
-6
+6,
+[
+"Donna Diego"
+]
 ],
 [
 "Lady Bullseye",
-6
+6,
+[
+"Maki Matsumoto"
+]
 ],
 [
 "Tiger Shark",
-6
+6,
+[
+"Todd Arliss"
+]
 ],
 [
 "Johnny Quick",
-6
+6,
+[]
 ],
 [
 "Constrictor",
-6
+6,
+[]
 ],
 [
 "Copperhead",
-6
+6,
+[
+"Nathan Prince"
+]
 ],
 [
 "Richard Fisk",
-6
+6,
+[
+"Blood Rose",
+"Supreme Hydra",
+"The Rose",
+"The Schemer"
+]
 ],
 [
 "Imperiex",
-6
+6,
+[]
 ],
 [
 "Carrion",
-6
+6,
+[]
 ],
 [
 "Mendel Stromm",
-6
+6,
+[
+"Dr. Mendel Stromm",
+"Gaunt",
+"Professor Mendel Stromm",
+"Robot Master"
+]
 ],
 [
 "Wild Child",
-6
+6,
+[
+"Kyle Gibney",
+"Weapon Omega",
+"Wildchild",
+"Wildheart"
+]
 ],
 [
 "Adversary",
-6
+6,
+[
+"Sefako",
+"Sefako the Twice-Risen God"
+]
 ],
 [
 "Doctor Destiny",
-6
+6,
+[
+"John Dee",
+"John Deegan"
+]
 ],
 [
 "Bushwacker",
-6
+6,
+[
+"Carl Burbank"
+]
 ],
 [
 "Malebolgia",
-6
+6,
+[]
 ],
 [
 "Dragon Man",
-6
+6,
+[]
 ],
 [
 "Bastion",
-6
+6,
+[
+"Master Mold",
+"Nimrod",
+"Sebastion Gilberti",
+"Template"
+]
 ],
 [
 "Donald Pierce",
-6
+6,
+[
+"White Bishop",
+"White King"
+]
 ],
 [
 "Marrow",
-6
+6,
+[
+"Sarah Knuckey",
+"Sarah Rushman"
+]
 ],
 [
 "Egghead",
-6
+6,
+[
+"Elihas Starr"
+]
 ],
 [
 "Titanium Man",
-6
+6,
+[]
 ],
 [
 "Sauron",
-6
+6,
+[
+"Karl Lykos"
+]
 ],
 [
 "Daimon Hellstrom",
-6
+6,
+[
+"Daimon Hellstorm",
+"Hellstorm",
+"Son of Satan"
+]
 ],
 [
 "Druig",
-6
+6,
+[
+"Ivan Druig"
+]
 ],
 [
 "Maxie Zeus",
-6
+6,
+[]
 ],
 [
 "Garokk",
-6
+6,
+[
+"The Petrified Man"
+]
 ],
 [
 "Madame Rouge",
-6
+6,
+[
+"Laura De Mille"
+]
 ],
 [
 "Grim Reaper",
-6
+6,
+[
+"Eric Williams"
+]
 ],
 [
 "Gorgon",
-6
+6,
+[
+"Dr. Mortimer",
+"The Gorgon",
+"Tomi Shishido"
+]
 ],
 [
 "Blizzard",
-6
+6,
+[
+"Gregor Shapanka",
+"Jack Frost"
+]
 ],
 [
 "The Calculator",
-6
+6,
+[
+"Calculator",
+"Noah Kuttler"
+]
 ],
 [
 "Livewire",
-6
+6,
+[
+"Leslie Willis"
+]
 ],
 [
 "Satana",
-6
+6,
+[]
 ],
 [
 "Immortus",
-6
+6,
+[
+"Nathaniel Richards"
+]
 ],
 [
 "Monitor",
-6
+6,
+[
+"Mar Novu"
+]
 ],
 [
 "Blockbuster",
-6
+6,
+[]
 ],
 [
 "Hyperion",
-6
+6,
+[]
 ],
 [
 "Titano",
-6
+6,
+[
+"Titano the Super-Ape"
+]
 ],
 [
 "Maxima",
-6
+6,
+[]
 ],
 [
 "Brotherhood of Evil",
-6
+6,
+[]
 ],
 [
 "David Cain",
-6
+6,
+[
+"The Orphan"
+]
 ],
 [
 "Jerome and Jeremiah Valeska",
-6
+6,
+[]
 ],
 [
 "Cletus Kasady",
-6
+6,
+[
+"Carnage",
+"Dark Carnage"
+]
 ],
 [
 "Sofia Falcone",
-6
+6,
+[
+"Sofia Falcone Gigante",
+"Sofia Gigante",
+"The Hangman"
+]
 ],
 [
 "Wrecker",
-6
+6,
+[
+"Dirk Garthwaite"
+]
 ],
 [
 "Mazikeen",
-6
+6,
+[
+"Maze"
+]
 ],
 [
 "Lex Lutor",
-6
+6,
+[
+"Alexander Luthor",
+"Lex Luthor (Smallville)"
+]
 ],
 [
 "Punchline",
-6
+6,
+[
+"Alexis Kaye"
+]
 ],
 [
 "Living Laser",
-6
+6,
+[
+"Arthur Parks"
+]
 ],
 [
 "Mister Fear",
-6
+6,
+[]
 ],
 [
 "Rag Doll",
-5
+5,
+[
+"Peter Merkel",
+"Peter Merkel Jr."
+]
 ],
 [
 "Impossible Man",
-5
+5,
+[]
 ],
 [
 "Stranger",
-5
+5,
+[
+"Beyonder",
+"The Beyonder",
+"The Stranger"
+]
 ],
 [
 "Vanisher",
-5
+5,
+[]
 ],
 [
 "Adam Monroe",
-5
+5,
+[
+"Takezo Kensei"
+]
 ],
 [
 "Roulette",
-5
+5,
+[
+"Jennifer Stavros",
+"Jenny Stavros",
+"Roulette/Veronica Sinclair",
+"Veronica Sinclair"
+]
 ],
 [
 "Super-Adaptoid",
-5
+5,
+[]
 ],
 [
 "Joanna Cargill",
-5
+5,
+[
+"Frenzy"
+]
 ],
 [
 "Doctor Faustus",
-5
+5,
+[
+"Johann Fennhoff"
+]
 ],
 [
 "Romulus",
-5
+5,
+[
+"Tyranus"
+]
 ],
 [
 "Steel Serpent",
-5
+5,
+[
+"Davos"
+]
 ],
 [
 "Sebastian Faust",
-5
+5,
+[
+"Faust"
+]
 ],
 [
 "Top",
-5
+5,
+[
+"Roscoe Dillon"
+]
 ],
 [
 "Will o' the Wisp",
-5
+5,
+[
+"Dr. Jackson Arvad",
+"Jackson Arvad",
+"The Wisp",
+"Wisp"
+]
 ],
 [
 "Cluemaster",
-5
+5,
+[
+"Arthur Brown"
+]
 ],
 [
 "Lady Mastermind",
-5
+5,
+[
+"Regan Wyngarde"
+]
 ],
 [
 "Non",
-5
+5,
+[]
 ],
 [
 "Stryfe",
-5
+5,
+[
+"Nathan Summers"
+]
 ],
 [
 "Violator",
-5
+5,
+[]
 ],
 [
 "Michael Pointer",
-5
+5,
+[
+"Omega"
+]
 ],
 [
 "Time Trapper",
-5
+5,
+[]
 ],
 [
 "Kanjar Ro",
-5
+5,
+[]
 ],
 [
 "Godspeed",
-5
+5,
+[
+"August Heart"
+]
 ],
 [
 "Angel Salvadore",
-5
+5,
+[
+"Tempest"
+]
 ],
 [
 "Arclight",
-5
+5,
+[
+"Noah Pastenetti",
+"Philippa Sontag"
+]
 ],
 [
 "Batzarro",
-5
+5,
+[
+"Bizarro Batman",
+"Wayne Bruce"
+]
 ],
 [
 "Dark Beast",
-5
+5,
+[
+"Beast",
+"Black Beast",
+"Hank McCoy",
+"Henry \"Hank\" McCoy"
+]
 ],
 [
 "Mimic",
-5
+5,
+[
+"Calvin Montgomery Rankin",
+"Calvin Rankin"
+]
 ],
 [
 "Ravager",
-5
+5,
+[]
 ],
 [
 "Zeke Stane",
-5
+5,
+[
+"Ezekiel Stane"
+]
 ],
 [
 "Bi-Beast",
-5
+5,
+[]
 ],
 [
 "Big Wheel",
-5
+5,
+[
+"Jackson Weele"
+]
 ],
 [
 "Controller",
-5
+5,
+[
+"Basil Sandhurst"
+]
 ],
 [
 "Deathbird",
-5
+5,
+[
+"Cal'syee Neramani"
+]
 ],
 [
 "Glenn Talbot",
-5
+5,
+[]
 ],
 [
 "Plantman",
-5
+5,
+[]
 ],
 [
 "Man-Bull",
-5
+5,
+[
+"Bill Taurens",
+"Bull Taurus",
+"William Taurens"
+]
 ],
 [
 "Jax-Ur",
-5
+5,
+[]
 ],
 [
 "Lilith",
-5
+5,
+[]
 ],
 [
 "Lorelei",
-5
+5,
+[]
 ],
 [
 "Prankster",
-5
+5,
+[
+"Oswald Hubert Loomis",
+"Oswald Loomis"
+]
 ],
 [
 "Power Broker",
-5
+5,
+[]
 ],
 [
 "Rocket Racer",
-5
+5,
+[
+"Robert Farrell"
+]
 ],
 [
 "Satannish",
-5
+5,
+[]
 ],
 [
 "Stegron",
-5
+5,
+[]
 ],
 [
 "Atomic Skull",
-5
+5,
+[]
 ],
 [
 "Hercules",
-5
+5,
+[
+"Heracles",
+"Herakles"
+]
 ],
 [
 "Icicle",
-5
+5,
+[]
 ],
 [
 "Manchester Black",
-5
+5,
+[]
 ],
 [
 "Whirlwind",
-5
+5,
+[
+"David Cannon"
+]
 ],
 [
 "Paula Brooks",
-5
+5,
+[
+"Huntress",
+"Tigress"
+]
 ],
 [
 "Black Spider",
-5
+5,
+[
+"Derrick Coe",
+"Eric Needham",
+"Johnny LaMonica"
+]
 ],
 [
 "Vartox",
-5
+5,
+[]
 ],
 [
 "Riot",
-5
+5,
+[]
 ],
 [
 "Cupid",
-5
+5,
+[
+"Carrie Cutter"
+]
 ],
 [
 "Jason Macendale",
-5
+5,
+[
+"Hobgoblin",
+"Jack O'Lantern",
+"Jason Philip Macendale Jr."
+]
 ],
 [
 "Morgan le Fay",
-5
+5,
+[]
 ],
 [
 "Alyosha Kravinoff",
-5
+5,
+[
+"Al Kraven",
+"Kraven the Hunter"
+]
 ],
 [
 "Nitro",
-5
+5,
+[]
 ],
 [
 "Slipknot",
-5
+5,
+[
+"Christopher Weiss"
+]
 ],
 [
 "Shado",
-5
+5,
+[
+"Shado Tomonaga"
+]
 ],
 [
 "Captain Comet",
-5
+5,
+[
+"Adam Blake"
+]
 ],
 [
 "Nimrod",
-5
+5,
+[
+"Bastion",
+"Nicholas Hunter"
+]
 ],
 [
 "Zor-El",
-5
+5,
+[
+"Cyborg Superman",
+"Zor-L"
+]
 ],
 [
 "Nuke",
-5
+5,
+[
+"Agent Simpson",
+"Frank Simpson",
+"Scourge",
+"Will Simpson"
+]
 ],
 [
 "Spiral",
-5
+5,
+[
+"Rita Wayword"
+]
 ],
 [
 "Deacon Blackfire",
-4
+4,
+[]
 ],
 [
 "Psycho-Pirate",
-4
+4,
+[]
 ],
 [
 "King Kull",
-4
+4,
+[
+"Beastman",
+"Beast Man"
+]
 ],
 [
 "Air-Walker",
-4
-],
+4,
 [
-"Derek Powers",
-4
-],
-[
-"Grayven",
-4
-],
-[
-"David Xanatos",
-4
-],
-[
-"Anaconda",
-4
-],
-[
-"Lyssa Drak",
-4
-],
-[
-"Joseph",
-4
-],
-[
-"Baronesa Paula von Gunther",
-4
-],
-[
-"Siren",
-4
-],
-[
-"Fatality",
-4
-],
-[
-"Alexander Luthor Jr.",
-4
-],
-[
-"Arkham Knight",
-4
-],
-[
-"Grim Hunter",
-4
-],
-[
-"Adrienne Frost",
-4
-],
-[
-"Computo",
-4
-],
-[
-"Multi-Man",
-4
-],
-[
-"Exodus",
-4
-],
-[
-"Per Degaton",
-4
-],
-[
-"Serpent",
-4
-],
-[
-"Ibac",
-4
-],
-[
-"8-Ball",
-4
-],
-[
-"Inertia",
-4
-],
-[
-"Empath",
-4
-],
-[
-"Equinox",
-4
-],
-[
-"Astronomer",
-4
-],
-[
-"Amygdala",
-4
-],
-[
-"Brother Blood",
-4
-],
-[
-"Neron",
-4
-],
-[
-"Virman Vundabar",
-4
-],
-[
-"Diamondback",
-4
-],
-[
-"Morgan Edge",
-4
-],
-[
-"Feral",
-4
-],
-[
-"Shaggy Man",
-4
-],
-[
-"Amelia Voght",
-4
-],
-[
-"Bengal",
-4
-],
-[
-"Blackout",
-4
-],
-[
-"Blackwing",
-4
-],
-[
-"Brain",
-4
-],
-[
-"Cyclone",
-4
-],
-[
-"Cyttorak",
-4
-],
-[
-"Master Man",
-4
-],
-[
-"Dreadknight",
-4
-],
-[
-"Fabian Cortez",
-4
+"Gabriel Lan"
+]
 ],
 [
 "Holocaust",
-4
+4,
+[
+"Genocide",
+"Leonard Smalls",
+"Nemesis",
+"William Rolfson"
+]
+],
+[
+"Derek Powers",
+4,
+[
+"Blight"
+]
+],
+[
+"Grayven",
+4,
+[]
+],
+[
+"David Xanatos",
+4,
+[]
+],
+[
+"Anaconda",
+4,
+[
+"Blanche Sitznski"
+]
+],
+[
+"Lyssa Drak",
+4,
+[]
+],
+[
+"Joseph",
+4,
+[
+"Joseph Lensherr"
+]
+],
+[
+"Baronesa Paula von Gunther",
+4,
+[
+"Paula von Gunther"
+]
+],
+[
+"Siren",
+4,
+[]
+],
+[
+"Fatality",
+4,
+[
+"Yrra Cynril"
+]
+],
+[
+"Alexander Luthor Jr.",
+4,
+[
+"Alexander Luthor",
+"Alex Luthor"
+]
+],
+[
+"Arkham Knight",
+4,
+[
+"Astrid Arkham",
+"Jason Todd",
+"Red Hood",
+"Robin"
+]
+],
+[
+"Grim Hunter",
+4,
+[
+"Vladimir Kravinoff"
+]
+],
+[
+"Adrienne Frost",
+4,
+[
+"White Queen"
+]
+],
+[
+"Computo",
+4,
+[]
+],
+[
+"Multi-Man",
+4,
+[
+"Duncan Pramble"
+]
+],
+[
+"Exodus",
+4,
+[
+"Bennet du Paris",
+"Paris Bennet"
+]
+],
+[
+"Per Degaton",
+4,
+[]
+],
+[
+"Serpent",
+4,
+[
+"Cul Borson"
+]
+],
+[
+"Ibac",
+4,
+[
+"Stanley \"Stinky\" Printwhistle"
+]
+],
+[
+"8-Ball",
+4,
+[]
+],
+[
+"Inertia",
+4,
+[
+"Kid Zoom",
+"Thaddeus Thawne"
+]
+],
+[
+"Empath",
+4,
+[
+"Manuel Alfonso Rodrigo de la Rocha"
+]
+],
+[
+"Equinox",
+4,
+[]
+],
+[
+"Astronomer",
+4,
+[]
+],
+[
+"Amygdala",
+4,
+[
+"Aaron Helzinger"
+]
+],
+[
+"Brother Blood",
+4,
+[
+"Sebastian Blood"
+]
+],
+[
+"Neron",
+4,
+[]
+],
+[
+"Virman Vundabar",
+4,
+[]
+],
+[
+"Diamondback",
+4,
+[
+"Rachel Leighton"
+]
+],
+[
+"Morgan Edge",
+4,
+[]
+],
+[
+"Feral",
+4,
+[
+"Maria Callasantos"
+]
+],
+[
+"Shaggy Man",
+4,
+[]
+],
+[
+"Amelia Voght",
+4,
+[]
+],
+[
+"Bengal",
+4,
+[]
+],
+[
+"Blackout",
+4,
+[
+"Marcus Daniels"
+]
+],
+[
+"Blackwing",
+4,
+[]
+],
+[
+"Brain",
+4,
+[]
+],
+[
+"Cyclone",
+4,
+[]
+],
+[
+"Cyttorak",
+4,
+[]
+],
+[
+"Master Man",
+4,
+[]
+],
+[
+"Dreadknight",
+4,
+[
+"Bram Velsing"
+]
+],
+[
+"Fabian Cortez",
+4,
+[]
 ],
 [
 "Graydon Creed",
-4
+4,
+[]
 ],
 [
 "Great White Shark",
-4
+4,
+[
+"Warren White"
+]
 ],
 [
 "Grizzly",
-4
+4,
+[]
 ],
 [
 "General Immortus",
-4
+4,
+[
+"The Baron"
+]
 ],
 [
 "Henri Ducard",
-4
+4,
+[]
 ],
 [
 "Kangaroo",
-4
+4,
+[]
 ],
 [
 "Kimura",
-4
+4,
+[]
 ],
 [
 "Kronos",
-4
+4,
+[]
 ],
 [
 "Lightmaster",
-4
+4,
+[
+"Edward Lansky"
+]
 ],
 [
 "Cobalt Man",
-4
+4,
+[
+"Ralph Roberts"
+]
 ],
 [
 "Maelstrom",
-4
+4,
+[]
 ],
 [
 "Masked Marauder",
-4
+4,
+[]
 ],
 [
 "Scandal Savage",
-4
+4,
+[]
 ],
 [
 "Mauler",
-4
+4,
+[]
 ],
 [
 "Orka",
-4
+4,
+[]
 ],
 [
 "Paladin",
-4
+4,
+[]
 ],
 [
 "Predator X",
-4
+4,
+[]
 ],
 [
 "Razor Fist",
-4
+4,
+[]
 ],
 [
 "Simon Hurt",
-4
+4,
+[
+"Doctor Hurt",
+"Thomas Wayne"
+]
 ],
 [
 "Slyde",
-4
+4,
+[
+"Jalome Beacher"
+]
 ],
 [
 "Spymaster",
-4
+4,
+[]
 ],
 [
 "Sunset Bain",
-4
+4,
+[]
 ],
 [
 "Trevor Fitzroy",
-4
+4,
+[
+"Fitzroy",
+"The Chronomancer",
+"White Rook"
+]
 ],
 [
 "Trick Shot",
-4
+4,
+[]
 ],
 [
 "Tala",
-4
+4,
+[]
 ],
 [
 "Dark Angel",
-4
+4,
+[]
 ],
 [
 "Girder",
-4
+4,
+[
+"Anthony Woodward",
+"Tony Woodward"
+]
 ],
 [
 "Hath-Set",
-4
+4,
+[]
 ],
 [
 "Foreigner",
-4
+4,
+[]
 ],
 [
 "Magenta",
-4
+4,
+[
+"Frances Kane",
+"Francine Kane",
+"Frankie Kane"
+]
 ],
 [
 "Ultimo",
-4
+4,
+[]
 ],
 [
 "Bombshell",
-4
+4,
+[
+"Amy Allen"
+]
 ],
 [
 "Monsieur Mallah",
-4
+4,
+[]
 ],
 [
 "Mammoth",
-4
+4,
+[
+"Baran Flinders"
+]
 ],
 [
 "Vilgax",
-4
+4,
+[]
 ],
 [
 "Wraith",
-4
+4,
+[]
 ],
 [
 "Demona",
-4
+4,
+[
+"Dominique Destine"
+]
 ],
 [
 "Gentleman Ghost",
-4
+4,
+[
+"James Craddock"
+]
 ],
 [
 "Kanto",
-4
+4,
+[
+"Iluthin"
+]
 ],
 [
 "Mordru",
-4
+4,
+[
+"Mordru the Merciless",
+"Wrynn"
+]
 ],
 [
 "Maker",
-4
+4,
+[
+"Mister Fantastic",
+"Reed Richards",
+"Ultimate Mister Fantastic"
+]
 ],
 [
 "Richard Dragon",
-4
+4,
+[
+"Ricardo Diaz, Jr",
+"Richard Drakunovski"
+]
 ],
 [
 "Bernadeth",
-4
+4,
+[]
 ],
 [
 "Apollo",
-4
+4,
+[
+"Andrew Pulaski",
+"Phoebus Apollo",
+"Sun God"
+]
 ],
 [
 "Ultimate Green Goblin",
-4
+4,
+[
+"Green Goblin",
+"Norman Osborn"
+]
 ],
 [
 "Black Alice",
-4
+4,
+[
+"Lori Zechlin"
+]
 ],
 [
 "Bleez",
-4
+4,
+[]
 ],
 [
 "Bruno Mannheim",
-4
+4,
+[]
 ],
 [
 "Devil Hulk",
-4
+4,
+[]
 ],
 [
 "Doctor Psycho",
-4
+4,
+[
+"Edgar Cizko"
+]
 ],
 [
 "Lashina",
-4
+4,
+[]
 ],
 [
 "Ma'alefa'ak",
-4
+4,
+[
+"Ma'alefa'ak J'onnz",
+"Malefic"
+]
 ],
 [
 "Oggar",
-4
+4,
+[]
 ],
 [
 "Ord",
-4
+4,
+[]
 ],
 [
 "Pluto",
-4
+4,
+[
+"Hades"
+]
 ],
 [
 "Queen of Fables",
-4
+4,
+[
+"Tsaritsa"
+]
 ],
 [
 "Belasco",
-4
+4,
+[
+"Belasco of the Corrupted"
+]
 ],
 [
 "Commander Kraken",
-4
+4,
+[]
 ],
 [
 "Roderick Kingsley",
-4
+4,
+[
+"Hobgoblin"
+]
 ],
 [
 "John Steele",
-4
+4,
+[]
 ],
 [
 "Onimar Synn",
-4
+4,
+[
+"Sin-Eater"
+]
 ],
 [
 "Jeremiah Arkham",
-4
+4,
+[
+"Black Mask"
+]
 ],
 [
 "Dabi",
-3
+3,
+[
+"Todoroki Touya",
+"Todoroki Toya",
+"Todoroki Tōya",
+"Touya Todoroki",
+"Toya Todoroki",
+"Tōya Todoroki"
+]
 ],
 [
 "Inque",
-3
+3,
+[]
 ],
 [
 "Unus the Untouchable",
-3
+3,
+[
+"Angelo Unuscione",
+"Bain, Gunther",
+"Gunther Bain",
+"Unus",
+"Unuscione, Angelo"
+]
 ],
 [
 "Moloch",
-3
+3,
+[
+"Edgar Jacobi",
+"Moloch the Mystic"
+]
 ],
 [
 "Humpty Dumpty",
-3
+3,
+[
+"Humphry Dumpler"
+]
 ],
 [
 "Mr. Nobody",
-3
+3,
+[]
 ],
 [
 "Monkey Fist",
-3
+3,
+[]
 ],
 [
 "China White",
-3
+3,
+[
+"Chien Na Wei"
+]
 ],
 [
 "Sublime",
-3
+3,
+[
+"John Sublime",
+"Rachel Goldman"
+]
 ],
 [
 "Armadillo",
-3
+3,
+[
+"Antonio Rodriguez"
+]
 ],
 [
 "Lord Zedd",
-3
+3,
+[]
 ],
 [
 "Tefé Holland",
-3
+3,
+[]
 ],
 [
 "Outsider",
-3
+3,
+[
+"Alfred Pennyworth"
+]
 ],
 [
 "Rose and Thorn",
-3
+3,
+[
+"Alyx Florin",
+"Rhosyn Lynne Forrest",
+"Rose Canton"
+]
 ],
 [
 "Amon Sur",
-3
+3,
+[]
 ],
 [
 "Fiddler",
-3
+3,
+[
+"Isaac Bowin"
+]
 ],
 [
 "Match",
-3
+3,
+[
+"Kent Conner"
+]
 ],
 [
 "Matter Master",
-3
+3,
+[
+"Mark Mandrill"
+]
 ],
 [
 "Professor Dementor",
-3
+3,
+[]
 ],
 [
 "Angle Man",
-3
+3,
+[
+"Angelo Bend"
+]
 ],
 [
 "Yandroth",
-3
+3,
+[]
 ],
 [
 "Dev-Em",
-3
+3,
+[]
 ],
 [
 "Wunda",
-3
+3,
+[]
 ],
 [
 "Killer Shrike",
-3
+3,
+[]
 ],
 [
 "Orrgo",
-3
+3,
+[
+"Orrgo the Unconquerable"
+]
 ],
 [
 "Paibok",
-3
+3,
+[
+"Power Skrull",
+"Power-Skrull"
+]
 ],
 [
 "Major Force",
-3
+3,
+[
+"Clifford Zmeck"
+]
 ],
 [
 "Goldface",
-3
+3,
+[
+"Keith Kenyon"
+]
 ],
 [
 "Cyborg Superman",
-3
+3,
+[]
 ],
 [
 "Bushmaster",
-3
+3,
+[
+"Quincy McIver"
+]
 ],
 [
 "Harry Leland",
-3
+3,
+[
+"Black Bishop",
+"Harold Leland"
+]
 ],
 [
 "Medusa",
-3
+3,
+[
+"Medousa"
+]
 ],
 [
 "Agony",
-3
+3,
+[]
 ],
 [
 "Artemis Crock",
-3
+3,
+[
+"Artemis",
+"Artemis Lian Crock",
+"Tigress"
+]
 ],
 [
 "Chthon",
-3
+3,
+[]
 ],
 [
 "Cyber",
-3
+3,
+[
+"Hornet",
+"Milo Gunderson",
+"Silas Burr"
+]
 ],
 [
 "Alberto Falcone",
-3
+3,
+[
+"The Holiday Killer"
+]
 ],
 [
 "Gremlin",
-3
+3,
+[]
 ],
 [
 "Flux",
-3
+3,
+[
+"Benjamin Tibbetts"
+]
 ],
 [
 "Cobra",
-3
+3,
+[
+"King Cobra",
+"Klaus Voorhees"
+]
 ],
 [
 "Daniel West",
-3
+3,
+[
+"Reverse-Flash"
+]
 ],
 [
 "Griffin",
-3
+3,
+[]
 ],
 [
 "Hera",
-3
+3,
+[
+"Hera Argeia"
+]
 ],
 [
 "Mesmero",
-3
+3,
+[
+"Vincent"
+]
 ],
 [
 "Mojo Jojo",
-3
+3,
+[
+"Jojo"
+]
 ],
 [
 "Black Mamba",
-3
+3,
+[
+"Tanya Sealy",
+"Tanya Sweet"
+]
 ],
 [
 "Mandrill",
-3
+3,
+[]
 ],
 [
 "Mongoose",
-3
+3,
+[]
 ],
 [
 "Masque",
-3
+3,
+[]
 ],
 [
 "Midas",
-3
+3,
+[]
 ],
 [
 "Lois London",
-3
+3,
+[]
 ],
 [
 "Mister X",
-3
+3,
+[]
 ],
 [
 "Nekra",
-3
+3,
+[]
 ],
 [
 "Libra",
-3
+3,
+[
+"Equinox",
+"Justin Ballantine"
+]
 ],
 [
 "Piranha",
-3
+3,
+[]
 ],
 [
 "Roughouse",
-3
+3,
+[]
 ],
 [
 "Rusty Collins",
-3
+3,
+[
+"Firefist",
+"Russell Collins"
+]
 ],
 [
 "Senyaka",
-3
+3,
+[]
 ],
 [
 "Shockwave",
-3
+3,
+[
+"Lancaster Sneed"
+]
 ],
 [
 "Slug",
-3
+3,
+[
+"The Slug",
+"Ulysses Lugman",
+"Ulysses X. Lugman"
+]
 ],
 [
 "Stardust",
-3
+3,
+[
+"Lambda-Zero"
+]
 ],
 [
 "Javelin",
-3
+3,
+[]
 ],
 [
 "Hawkman",
-3
+3,
+[
+"Fel Andar"
+]
 ],
 [
 "Abattoir",
-3
+3,
+[
+"Arnold Etchinson"
+]
 ],
 [
 "Roxy Rocket",
-3
+3,
+[
+"Roxanne Sutton"
+]
 ],
 [
 "Wrath",
-3
+3,
+[]
 ],
 [
 "Conduit",
-3
+3,
+[
+"Kenny Braverman"
+]
 ],
 [
 "Karu-Sil",
-3
+3,
+[]
 ],
 [
 "Kristoff Vernard",
-3
+3,
+[
+"Inhuman Torch"
+]
 ],
 [
 "Fallen One",
-3
+3,
+[]
 ],
 [
 "Albert",
-3
+3,
+[]
 ],
 [
 "Klarion the Witch Boy",
-3
+3,
+[]
 ],
 [
 "Typhon",
-3
+3,
+[]
 ],
 [
 "Dreamslayer",
-3
+3,
+[]
 ],
 [
 "Major Disaster",
-3
+3,
+[
+"Paul Booker"
+]
 ],
 [
 "Andrea Beaumont",
-3
+3,
+[
+"Phantasm"
+]
 ],
 [
 "Minister Blizzard",
-3
+3,
+[]
 ],
 [
 "Emerald Empress",
-3
+3,
+[]
 ],
 [
 "Mongal",
-3
+3,
+[]
 ],
 [
 "Nebula Man",
-3
+3,
+[]
 ],
 [
 "Esper Lass",
-3
+3,
+[
+"Meta Ulnoor"
+]
 ],
 [
 "Mister Atom",
-3
+3,
+[]
 ],
 [
 "Morgaine le Fey",
-3
+3,
+[
+"Morgana le Fey"
+]
 ],
 [
 "Nero",
-3
+3,
+[
+"Alexander Nero"
+]
 ],
 [
 "Death-Stalker",
-3
+3,
+[
+"Philip Wallace Sterling",
+"Phillip Sterling"
+]
 ],
 [
 "Nemesis Kid",
-3
+3,
+[
+"Hart Druiter"
+]
 ],
 [
 "Overmaster",
-3
+3,
+[]
 ],
 [
 "Vertigo",
-3
+3,
+[]
 ],
 [
 "Jason Wynn",
-3
+3,
+[]
 ],
 [
 "Atlas (DC Comics)",
-3
+3,
+[]
 ],
 [
 "Bizarra",
-3
+3,
+[
+"Bizarro Wonder Woman"
+]
 ],
 [
 "Devilance",
-3
+3,
+[]
 ],
 [
 "Doctor Bedlam",
-3
+3,
+[]
 ],
 [
 "Glorious Godfrey",
-3
+3,
+[
+"G. Gordon Godfrey",
+"Glorious Gordon Godfrey"
+]
 ],
 [
 "Glorith",
-3
+3,
+[]
 ],
 [
 "Red Lotus",
-3
+3,
+[]
 ],
 [
 "Vermin",
-3
+3,
+[
+"Edward Whelan"
+]
 ],
 [
 "Phil Urich",
-3
+3,
+[
+"Goblin King",
+"Goblin Knight",
+"Green Goblin",
+"Hobgoblin",
+"Philip Benjamin Urich"
+]
 ],
 [
 "Bella Donna",
-3
+3,
+[
+"Belladonna",
+"Bella Donna Boudreaux",
+"Narda Ravanna",
+"Narda Ravanna (Earth-616)"
+]
 ],
 [
 "Bloody Mary",
-3
+3,
+[]
 ],
 [
 "Chris Kent",
-3
+3,
+[
+"Christopher Kent",
+"Lor-Zod",
+"Nightwing"
+]
 ],
 [
 "Prester John",
-3
+3,
+[
+"Johann"
+]
 ],
 [
 "Psimon",
-3
+3,
+[
+"Dr. Simon Jones",
+"Simon Jones"
+]
 ],
 [
 "Plasmus",
-3
+3,
+[
+"Otto Von Furth"
+]
 ],
 [
 "Ms. Gsptlsnz",
-3
+3,
+[]
 ],
 [
 "Doctor Cyber",
-3
+3,
+[]
 ],
 [
 "Duke of Deception",
-3
+3,
+[
+"Dolos"
+]
 ],
 [
 "Eli Bard",
-3
+3,
+[
+"Eliphas"
+]
 ],
 [
 "Riptide",
-3
+3,
+[
+"Janos Quested"
+]
 ],
 [
 "King Tut",
-3
+3,
+[]
 ],
 [
 "Hades",
-3
+3,
+[
+"Hell",
+"Pluto"
+]
 ],
 [
 "Hank Hall",
-3
+3,
+[
+"Extant",
+"Hawk",
+"Henry Hall",
+"Monarch"
+]
 ],
 [
 "Herman von Klempt",
-3
+3,
+[]
 ],
 [
 "Max Shreck",
-3
+3,
+[]
 ],
 [
 "Nuclear Man",
-3
+3,
+[]
 ],
 [
 "Beth Kane",
-3
+3,
+[
+"Alice",
+"Elizabeth Kane",
+"Red Alice"
+]
 ],
 [
 "Lady Styx",
-3
+3,
+[]
 ],
 [
 "Baba Yaga",
-3
+3,
+[]
 ],
 [
 "Zigomar",
-3
+3,
+[]
 ],
 [
 "Mad Harriet",
-3
+3,
+[]
 ],
 [
 "Magpie",
-3
+3,
+[
+"Margaret Pye"
+]
 ],
 [
 "Normie Osborn",
-3
+3,
+[
+"Green Goblin",
+"Norman Harold Osborn",
+"Norman Osborn II",
+"Venom"
+]
 ],
 [
 "Nyssa Raatko",
-3
+3,
+[
+"Nyssa al Ghul"
+]
 ],
 [
 "Quex-Ul",
-3
+3,
+[]
 ],
 [
 "Ravan",
-3
+3,
+[]
 ],
 [
 "Sensei",
-3
+3,
+[]
 ],
 [
 "Shimmer",
-3
+3,
+[
+"Selinda Flinders"
+]
 ],
 [
 "Shingen Yashida",
-3
+3,
+[
+"Lord Shingen",
+"Shingen Harada",
+"Shingen Yoshida"
+]
 ],
 [
 "Simon Stagg",
-3
+3,
+[]
 ],
 [
 "Stompa",
-3
+3,
+[]
 ],
 [
 "Scorcher",
-3
+3,
+[
+"Steven Hudak"
+]
 ],
 [
 "Gizmo",
-3
+3,
+[]
 ],
 [
 "Werner von Strucker",
-3
+3,
+[]
 ],
 [
 "Hellgrammite",
-3
+3,
+[
+"Roderick Rose"
+]
 ],
 [
 "Henry King Jr.",
-3
+3,
+[
+"Brainwave",
+"Brainwave Jr."
+]
+],
+[
+"Jamie Braddock",
+2,
+[
+"James Braddock, Jr.",
+"Monarch"
+]
+],
+[
+"Rival",
+2,
+[
+"Edward Clariss"
+]
+],
+[
+"Oswald Cobblepot",
+2,
+[
+"Penguin",
+"The Penguin"
+]
+],
+[
+"Margali Szardos",
+2,
+[]
+],
+[
+"Melter",
+2,
+[
+"Bruno Horgan"
+]
+],
+[
+"Doctor Colossus",
+2,
+[]
+],
+[
+"Professor Milo",
+2,
+[
+"Achilles Milo"
+]
+],
+[
+"Red X",
+2,
+[]
+],
+[
+"Kirt Niedrigh",
+2,
+[
+"Absorbency Boy",
+"Earth-Man"
+]
+],
+[
+"Dick Dastardly",
+2,
+[
+"Fred Jones",
+"Officer Jaffe",
+"Simon Cowell"
+]
+],
+[
+"Black Box",
+2,
+[
+"Commcast",
+"Garabed Bashur"
+]
+],
+[
+"The Underminer",
+2,
+[]
+],
+[
+"Rito Revolto",
+2,
+[]
+],
+[
+"Jon Lane Kent",
+2,
+[
+"Jonathan Lane Kent",
+"Superboy"
+]
+],
+[
+"Chimera",
+2,
+[]
+],
+[
+"Helspont",
+2,
+[]
+],
+[
+"Black Talon",
+2,
+[
+"Samuel David Barone"
+]
+],
+[
+"Nightslayer",
+2,
+[
+"Anton Knight"
+]
+],
+[
+"Goldar",
+2,
+[]
+],
+[
+"Magog",
+2,
+[
+"David Reid",
+"Lance"
+]
+],
+[
+"Appa Ali Apsa",
+2,
+[]
+],
+[
+"Ranx the Sentient City",
+2,
+[]
+],
+[
+"Doctor Doomsday",
+2,
+[
+"Victor von Doom"
+]
+],
+[
+"Grid",
+2,
+[]
+],
+[
+"Karone",
+2,
+[
+"Astronema"
+]
+],
+[
+"Owen Mercer",
+2,
+[
+"Captain Boomerang",
+"Captain Boomerang Jr."
+]
+],
+[
+"Ana Kravinoff",
+2,
+[
+"Anastasia Tatiana Kravinoff",
+"Kraven the Hunter"
+]
+],
+[
+"Jason Stryker",
+2,
+[]
+],
+[
+"Gazer",
+2,
+[]
+],
+[
+"Alkhema",
+2,
+[]
+],
+[
+"Universo",
+2,
+[]
+],
+[
+"Lord Satanis",
+2,
+[]
+],
+[
+"Abyss",
+2,
+[
+"Nils Styger"
+]
+],
+[
+"Lasher",
+2,
+[]
+],
+[
+"Infectia",
+2,
+[
+"Josephine"
+]
+],
+[
+"Basilisk",
+2,
+[]
+],
+[
+"Achebe",
+2,
+[]
+],
+[
+"Asp",
+2,
+[
+"Cleo Nefertiti",
+"Cleopatra Nefertiti",
+"The Asp"
+]
+],
+[
+"Death Adder",
+2,
+[]
+],
+[
+"Carl Mach",
+2,
+[]
+],
+[
+"Constantine Drakon",
+2,
+[]
+],
+[
+"Bloodscream",
+2,
+[]
+],
+[
+"Bullet",
+2,
+[
+"Buck Cashman"
+]
+],
+[
+"Centurius",
+2,
+[
+"Noah Black"
+]
+],
+[
+"Coldheart",
+2,
+[
+"Kateri Deseronto"
+]
+],
+[
+"Crimson Commando",
+2,
+[
+"Frank Bohannan"
+]
+],
+[
+"Corruptor",
+2,
+[
+"Jackson Day"
+]
+],
+[
+"Roland Daggett",
+2,
+[
+"John Daggett"
+]
+],
+[
+"Devos the Devastator",
+2,
+[]
+],
+[
+"Diamond Lil",
+2,
+[]
+],
+[
+"Elias Bogan",
+2,
+[]
+],
+[
+"Overmind",
+2,
+[
+"Over-Mind"
+]
+],
+[
+"Quicksand",
+2,
+[]
+],
+[
+"Flying Tiger",
+2,
+[]
+],
+[
+"Forearm",
+2,
+[
+"Michael McCain"
+]
+],
+[
+"Gibbon",
+2,
+[]
+],
+[
+"Goldbug",
+2,
+[]
+],
+[
+"Hurricane",
+2,
+[]
+],
+[
+"Jackhammer",
+2,
+[]
+],
+[
+"Letha",
+2,
+[]
+],
+[
+"Locus",
+2,
+[]
+],
+[
+"Scalphunter",
+2,
+[
+"Greycrow",
+"John Greycrow"
+]
+],
+[
+"Lunatik",
+2,
+[]
+],
+[
+"Manslaughter",
+2,
+[]
+],
+[
+"King Snake",
+2,
+[
+"Edmund Dorrance",
+"Sir Edmund Dorrance"
+]
+],
+[
+"Matador",
+2,
+[]
+],
+[
+"Morg",
+2,
+[]
+],
+[
+"Human Fly",
+2,
+[]
+],
+[
+"Nox",
+2,
+[]
+],
+[
+"Nebulon",
+2,
+[]
+],
+[
+"Skein",
+2,
+[]
+],
+[
+"Puff Adder",
+2,
+[]
+],
+[
+"Red Shift",
+2,
+[]
+],
+[
+"Reignfire",
+2,
+[]
+],
+[
+"Ruby Thursday",
+2,
+[]
+],
+[
+"Samuel Sullivan",
+2,
+[]
+],
+[
+"Silver Dagger",
+2,
+[
+"Isaiah Curwen"
+]
+],
+[
+"Smart Alec",
+2,
+[]
+],
+[
+"Spore",
+2,
+[]
+],
+[
+"Stunner",
+2,
+[
+"Angelina Brancale"
+]
+],
+[
+"Superia",
+2,
+[
+"Deidre Wentworth"
+]
+],
+[
+"Tatterdemalion",
+2,
+[
+"Arnold Paffenroth"
+]
+],
+[
+"Threnody",
+2,
+[
+"Melody Jacobs"
+]
+],
+[
+"Tracer",
+2,
+[
+"Vincent Cade"
+]
+],
+[
+"Byth",
+2,
+[
+"Byth Rok"
+]
+],
+[
+"Peek-a-Boo",
+2,
+[]
+],
+[
+"Carl Draper",
+2,
+[
+"Deathtrap",
+"Kator",
+"Locksmith",
+"Master Jailer"
+]
+],
+[
+"Validus",
+2,
+[]
+],
+[
+"Cosmic King",
+2,
+[
+"Laevar Bolto"
+]
+],
+[
+"Cobalt Blue",
+2,
+[
+"Malcolm Thawne"
+]
+],
+[
+"Cicada",
+2,
+[
+"David Hersch"
+]
+],
+[
+"Saturn Queen",
+2,
+[
+"Eve Aries"
+]
+],
+[
+"Lightning Lord",
+2,
+[
+"Mekt Ranzz"
+]
+],
+[
+"Ahab",
+2,
+[
+"Roderick Campbell",
+"Rory Campbell"
+]
+],
+[
+"Cornelius Stirk",
+2,
+[]
+],
+[
+"Mala",
+2,
+[]
+],
+[
+"Lord Havok",
+2,
+[
+"Alexi Nikolai"
+]
+],
+[
+"Signalman",
+2,
+[
+"Blue Bowman",
+"Phillip \"Phil\" Cobb"
+]
+],
+[
+"Starbreaker",
+2,
+[]
+],
+[
+"Manfred Mota",
+2,
+[
+"Atom Smasher",
+"Fusionn",
+"Professor Fallout"
+]
+],
+[
+"Spider Girl",
+2,
+[
+"Sussa Paka",
+"Wave"
+]
+],
+[
+"Mano",
+2,
+[]
+],
+[
+"Double Down",
+2,
+[
+"Jeremy Tell"
+]
+],
+[
+"Grand Director",
+2,
+[
+"Captain America",
+"Steven Rogers",
+"Steve Rogers",
+"William Burnside"
+]
+],
+[
+"Effigy",
+2,
+[
+"Martyn Van Wyck"
+]
+],
+[
+"Asmodel",
+2,
+[]
+],
+[
+"Ten-Eyed Man",
+2,
+[
+"Philip Reardon"
+]
+],
+[
+"Monocle",
+2,
+[
+"Jonathan Cheval"
+]
+],
+[
+"Tar Pit",
+2,
+[
+"Joey Monteleone"
+]
+],
+[
+"Bolt",
+2,
+[]
+],
+[
+"Everyman",
+2,
+[
+"Hannibal Bates"
+]
+],
+[
+"Tharok",
+2,
+[]
+],
+[
+"Blacksmith",
+2,
+[
+"Amunet Black"
+]
+],
+[
+"Darkoth",
+2,
+[]
+],
+[
+"Equus",
+2,
+[]
+],
+[
+"Father Time",
+2,
+[]
+],
+[
+"Warrior Woman",
+2,
+[
+"Julia Frieda Koenig Lohmer",
+"Julia Koenig"
+]
+],
+[
+"Xandu",
+2,
+[]
+],
+[
+"Xemnu",
+2,
+[]
+],
+[
+"D.A.V.E.",
+2,
+[
+"Digitally Advanced Villain Emulator"
+]
+],
+[
+"Doctor Impossible",
+2,
+[]
+],
+[
+"Grimbor the Chainsman",
+2,
+[
+"Markx Grimbor"
+]
+],
+[
+"I.Q.",
+2,
+[
+"Ira Quimby"
+]
+],
+[
+"Jemm",
+2,
+[]
+],
+[
+"Jeremy Karne",
+2,
+[
+"Karnevil"
+]
+],
+[
+"Macbeth",
+2,
+[
+"Macbeth mac Findlaech"
+]
+],
+[
+"Mantis",
+2,
+[]
+],
+[
+"Codename: Assassin",
+2,
+[
+"Jonathan Drew"
+]
+],
+[
+"Ol-Vir",
+2,
+[]
+],
+[
+"Penny Plunderer",
+2,
+[
+"Joe Coyne"
+]
+],
+[
+"Prism",
+2,
+[
+"Robbie"
+]
+],
+[
+"Radiation Roy",
+2,
+[
+"Roy Travich"
+]
+],
+[
+"Snowman",
+2,
+[
+"Klaus Kristin"
+]
+],
+[
+"Wotan",
+2,
+[]
+],
+[
+"Xabaras",
+2,
+[]
+],
+[
+"Kevin Wendell Crumb",
+2,
+[
+"The Horde"
+]
+],
+[
+"Abraham Cornelius",
+2,
+[]
+],
+[
+"Agamemno",
+2,
+[]
+],
+[
+"Andreas von Strucker",
+2,
+[
+"Andreas Strucker",
+"Swordsman"
+]
+],
+[
+"André LeBlanc",
+2,
+[
+"Andre LeBlanc"
+]
+],
+[
+"Artemiz",
+2,
+[]
+],
+[
+"Ultimate Magneto",
+2,
+[
+"Erik Lensherr",
+"Magneto"
+]
+],
+[
+"Johnny Sorrow",
+2,
+[]
+],
+[
+"Baron Bedlam",
+2,
+[
+"Frederick DeLamb"
+]
+],
+[
+"Black Beetle",
+2,
+[]
+],
+[
+"Black Mass",
+2,
+[
+"Geoffrey Thibodeux"
+]
+],
+[
+"Brutale",
+2,
+[
+"Guillermo Barrera"
+]
+],
+[
+"Cameron Hodge",
+2,
+[]
+],
+[
+"Captain Wonder",
+2,
+[]
+],
+[
+"Chessure",
+2,
+[]
+],
+[
+"Syndrome",
+2,
+[
+"Buddy Pine",
+"Incrediboy"
+]
+],
+[
+"Deadline",
+2,
+[]
+],
+[
+"Deathbolt",
+2,
+[
+"Jake Simmons"
+]
+],
+[
+"Ding Dong Daddy",
+2,
+[]
+],
+[
+"Dog Logan",
+2,
+[
+"Dog"
+]
+],
+[
+"Egg Fu",
+2,
+[]
+],
+[
+"Enigma",
+2,
+[]
+],
+[
+"Epoch",
+2,
+[]
+],
+[
+"Ereshkigal",
+2,
+[]
+],
+[
+"Flamingo",
+2,
+[
+"Eduardo Flamingo"
+]
+],
+[
+"Eviless",
+2,
+[]
+],
+[
+"Fastball",
+2,
+[
+"John Malone"
+]
+],
+[
+"Carlton Drake",
+2,
+[]
+],
+[
+"Gamemnae",
+2,
+[]
+],
+[
+"General Wade Eiling",
+2,
+[
+"Shaggy Man",
+"The General",
+"Wade Eiling"
+]
+],
+[
+"Genocide",
+2,
+[]
+],
+[
+"Gilotina",
+2,
+[]
+],
+[
+"Grigori Rasputin",
+2,
+[
+"Grigori Efimovich Rasputin"
+]
+],
+[
+"Human Flame",
+2,
+[
+"Michael Miller"
+]
+],
+[
+"Hypnota",
+2,
+[
+"Hypnotic Woman"
+]
+],
+[
+"Ian Karkull",
+2,
+[]
+],
+[
+"Indigo",
+2,
+[
+"Brainiac 8"
+]
+],
+[
+"Shinobi Shaw",
+2,
+[
+"Black Bishop",
+"Black King"
+]
+],
+[
+"Atom-Smasher",
+2,
+[]
+],
+[
+"Multiplex",
+2,
+[
+"Danton Black"
+]
+],
+[
+"James Gordon, Jr.",
+2,
+[]
+],
+[
+"Jessica Priest",
+2,
+[]
+],
+[
+"Jetstream",
+2,
+[]
+],
+[
+"Terra-Man",
+2,
+[
+"Toby Manning"
+]
+],
+[
+"Man Ray",
+2,
+[]
+],
+[
+"Dirty Bubble",
+2,
+[]
+],
+[
+"Luminus",
+2,
+[
+"Edward Lytener"
+]
+],
+[
+"Mad Mod",
+2,
+[
+"Neil Richards"
+]
+],
+[
+"Zod",
+2,
+[
+"General Zod",
+"Major Zod",
+"Zod (Smallville)"
+]
+],
+[
+"Malice Vundabar",
+2,
+[]
+],
+[
+"Matsu'o Tsurayaba",
+2,
+[]
+],
+[
+"Monk",
+2,
+[
+"Niccolai Tepes",
+"The Mad Monk"
+]
+],
+[
+"Nite-Wing",
+2,
+[
+"Tad Ryerstad"
+]
+],
+[
+"Nocturna",
+2,
+[
+"Natalia Knight",
+"Natalia Mitternacht",
+"Natalie Metternich",
+"Natasha Natalia Knight"
+]
+],
+[
+"Olivier",
+2,
+[]
+],
+[
+"Cedric",
+2,
+[
+"Cedric Hoffman",
+"Lord Cedric"
+]
+],
+[
+"Professor Ojo",
+2,
+[]
+],
+[
+"Professor Thorton",
+2,
+[
+"Andre Thorton",
+"Truett Hudson"
+]
+],
+[
+"Psi",
+2,
+[
+"Gayle Marsh"
+]
+],
+[
+"Rainbow Raider",
+2,
+[
+"Chroma",
+"Roy G. Bivolo"
+]
+],
+[
+"Red King",
+2,
+[
+"Darrin Profitt"
+]
+],
+[
+"Shathra",
+2,
+[]
+],
+[
+"Sobek",
+2,
+[
+"Yurrd the Unknown"
+]
+],
+[
+"Speed Queen",
+2,
+[]
+],
+[
+"Sputnik",
+2,
+[]
+],
+[
+"Larry Trask",
+2,
+[
+"Lawrence Trask"
+]
+],
+[
+"Amos Fortune",
+2,
+[]
+],
+[
+"Torque",
+2,
+[
+"Dudley Soames"
+]
+],
+[
+"Twilight",
+2,
+[]
+],
+[
+"Veranke",
+2,
+[
+"Jessica Drew",
+"Silver Scorpion",
+"Spider-Woman"
+]
+],
+[
+"Veronica Cale",
+2,
+[]
+],
+[
+"Mark Shaw",
+2,
+[
+"Dumas",
+"Leviathan",
+"Manhunter",
+"Privateer",
+"Star-Tsar"
+]
+],
+[
+"Green Skull",
+2,
+[
+"Alexander Luthor",
+"Lex Luthor"
+]
+],
+[
+"Mammon",
+2,
+[]
+],
+[
+"Warhawk",
+2,
+[
+"Mitchell Tanner"
+]
+],
+[
+"Henry King Sr.",
+2,
+[
+"Brainwave",
+"Brain Wave"
+]
+],
+[
+"Speed Demon",
+1,
+[
+"Jerry McGee"
+]
+],
+[
+"John Corben",
+1,
+[
+"Metallo"
+]
+],
+[
+"Nam-Ek",
+1,
+[]
+],
+[
+"Sam Scudder",
+1,
+[
+"Mirror Master",
+"Samuel Joseph Scudder"
+]
+],
+[
+"Zobar Zodiak",
+1,
+[
+"Alchemist"
+]
+],
+[
+"Pamela Isley",
+1,
+[
+"Poison Ivy"
+]
+],
+[
+"Edward Nygma",
+1,
+[
+"Riddler"
+]
+],
+[
+"Harvey Dent",
+1,
+[
+"Two-Face"
+]
+],
+[
+"Tommy Merlyn",
+1,
+[
+"Dark Archer",
+"Merlyn",
+"Prometheus",
+"Thomas Merlyn"
+]
+],
+[
+"Moro",
+1,
+[
+"Moro, Consumer of Worlds",
+"Moro (Dragon Ball)",
+"Planet-Eater Moro"
+]
+],
+[
+"Snowflame",
+1,
+[]
+],
+[
+"Sebastian Ballesteros",
+1,
+[
+"Cheetah"
+]
+],
+[
+"Ethan Bennett",
+1,
+[
+"Clayface",
+"Solomon Grundy"
+]
+],
+[
+"Jonathan Crane",
+1,
+[
+"Scarecrow"
+]
+],
+[
+"Hyathis",
+1,
+[]
+],
+[
+"Queen Clea",
+1,
+[]
+],
+[
+"Leslie Gesneria",
+1,
+[]
+],
+[
+"Manami Aiba",
+1,
+[
+"Aiba Manami",
+"La Brava",
+"Manami “La Brava” Aiba"
+]
+],
+[
+"Duke Dazam",
+1,
+[]
+],
+[
+"Killer Wasp",
+1,
+[]
+],
+[
+"Mekanique",
+1,
+[]
+],
+[
+"All For One",
+1,
+[
+"Zen Shigaraki"
+]
+],
+[
+"Torment",
+1,
+[
+"Torment (Graham)"
+]
+],
+[
+"Absalom",
+1,
+[]
+],
+[
+"Kulak",
+1,
+[]
+],
+[
+"Ian Nottingham",
+1,
+[]
+],
+[
+"Swagman",
+1,
+[]
+],
+[
+"Doctor Darrk",
+1,
+[
+"Dr. Darrk",
+"Ebenezer Darrk"
+]
+],
+[
+"Cypher",
+1,
+[
+"Avery Twombey"
+]
+],
+[
+"Lord Chaos",
+1,
+[
+"Robert Long"
+]
+],
+[
+"Milan",
+1,
+[
+"Francisco Milan"
+]
+],
+[
+"Ultimate Doctor Doom",
+1,
+[
+"Doctor Doom",
+"Victor Van Damme"
+]
+],
+[
+"Emperor Blackgate",
+1,
+[
+"Emperor Penguin",
+"Ignatius Ogilvy"
+]
+],
+[
+"Blackbriar Thorn",
+1,
+[]
+],
+[
+"Golden Boy",
+1,
+[
+"Klint Stewirt"
+]
+],
+[
+"Madame Zodiac",
+1,
+[
+"Marissa"
+]
+],
+[
+"Vyndktvx",
+1,
+[]
+],
+[
+"Anton Miguel Rodriguez",
+1,
+[
+"Tarantula"
+]
+],
+[
+"Deathstorm",
+1,
+[
+"Martin Stein"
+]
+],
+[
+"H'El",
+1,
+[]
+],
+[
+"Knightfall",
+1,
+[
+"Charise Carnes"
+]
+],
+[
+"Damage",
+1,
+[]
+],
+[
+"Jack",
+1,
+[]
+],
+[
+"Thorn",
+1,
+[
+"T-Ray"
+]
+],
+[
+"Volthoom",
+1,
+[]
+],
+[
+"Bonk",
+1,
+[
+"Benjamin Knox"
+]
+],
+[
+"Ghoul",
+1,
+[
+"Stewart Carter Winthrop III"
+]
+],
+[
+"Theo Galavan",
+1,
+[
+"Azrael"
+]
+],
+[
+"Anelle",
+1,
+[
+"Princess Anelle"
+]
+],
+[
+"Dorrek VII",
+1,
+[
+"Emperor Dorrek VII"
+]
+],
+[
+"Boomslang",
+1,
+[]
+],
+[
+"Rock Python",
+1,
+[]
+],
+[
+"Angel Devlin",
+1,
+[]
+],
+[
+"Saiko",
+1,
+[
+"Raymond McCreary"
+]
+],
+[
+"Aggregor",
+1,
+[]
+],
+[
+"Needle",
+1,
+[]
+],
+[
+"Lady Flash",
+1,
+[
+"Christina Alexandrova",
+"Ivana Christina Borodin Molotova",
+"Lady Kobra",
+"Lady Savage"
+]
+],
+[
+"Papa Midnite",
+1,
+[]
+],
+[
+"Baron Brimstone",
+1,
+[]
+],
+[
+"Bloodaxe",
+1,
+[]
+],
+[
+"Brent Jackson",
+1,
+[
+"Brent Montgomery Jackson"
+]
+],
+[
+"Capricorn",
+1,
+[]
+],
+[
+"Cardinal",
+1,
+[
+"Harrier"
+]
+],
+[
+"Charmcaster",
+1,
+[]
+],
+[
+"Condor",
+1,
+[]
+],
+[
+"Discus",
+1,
+[]
+],
+[
+"Dragonfly",
+1,
+[
+"Veronica Dultry"
+]
+],
+[
+"Ecstasy",
+1,
+[
+"Renee Deladier"
+]
+],
+[
+"Elektro",
+1,
+[]
+],
+[
+"Titan",
+1,
+[]
+],
+[
+"Adrian Chase",
+1,
+[
+"Prometheus",
+"Simon Morrison"
+]
+],
+[
+"Phosphorus Rex",
+1,
+[]
+],
+[
+"Fever Pitch",
+1,
+[]
+],
+[
+"Garguax",
+1,
+[]
+],
+[
+"Garrison Kane",
+1,
+[]
+],
+[
+"Geirrodur",
+1,
+[]
+],
+[
+"Geist",
+1,
+[]
+],
+[
+"Gorgilla",
+1,
+[]
+],
+[
+"Grog",
+1,
+[]
+],
+[
+"Halflife",
+1,
+[]
+],
+[
+"Headlok",
+1,
+[]
+],
+[
+"Headsman",
+1,
+[
+"Cleavon Twain"
+]
+],
+[
+"Hyperstorm",
+1,
+[
+"Jonathan Reed Richards"
+]
+],
+[
+"Icemaster",
+1,
+[]
+],
+[
+"Joystick",
+1,
+[
+"Janice Olivia Yanizeski"
+]
+],
+[
+"Stonewall",
+1,
+[]
+],
+[
+"Malcolm Colcord",
+1,
+[
+"The Director"
+]
+],
+[
+"Moses Magnum",
+1,
+[
+"Magnum Force"
+]
+],
+[
+"Naga",
+1,
+[]
+],
+[
+"Ningal",
+1,
+[]
+],
+[
+"Occulus",
+1,
+[]
+],
+[
+"Phaeder",
+1,
+[]
+],
+[
+"Possessor",
+1,
+[]
+],
+[
+"Post",
+1,
+[]
+],
+[
+"Protocide",
+1,
+[
+"Clinton McIntyre"
+]
+],
+[
+"Presence",
+1,
+[]
+],
+[
+"Random",
+1,
+[]
+],
+[
+"Reptyl",
+1,
+[]
+],
+[
+"Risque",
+1,
+[]
+],
+[
+"Set",
+1,
+[]
+],
+[
+"Solarr",
+1,
+[]
+],
+[
+"Speedfreek",
+1,
+[]
+],
+[
+"Spoor",
+1,
+[]
+],
+[
+"Steel Wind",
+1,
+[]
+],
+[
+"Styx and Stone",
+1,
+[]
+],
+[
+"Folded Man",
+1,
+[
+"Edwin Gauss"
+]
+],
+[
+"Tyr",
+1,
+[]
+],
+[
+"Roxxas",
+1,
+[]
+],
+[
+"Infinite Man",
+1,
+[
+"Jaxon Rugarth"
+]
+],
+[
+"Scarlet Skier",
+1,
+[
+"Dren Keeg"
+]
+],
+[
+"Emplate",
+1,
+[
+"Marius St. Croix"
+]
+],
+[
+"Cyborgirl",
+1,
+[
+"LeTonya Charles"
+]
+],
+[
+"Harm",
+1,
+[
+"William Hayes"
+]
+],
+[
+"Mageddon",
+1,
+[]
+],
+[
+"Dabney Donovan",
+1,
+[]
+],
+[
+"Devastation",
+1,
+[]
+],
+[
+"Tyrant",
+1,
+[]
+],
+[
+"Blue Streak",
+1,
+[
+"Bluestreak"
+]
+],
+[
+"Doctor Moon",
+1,
+[]
+],
+[
+"Nebiros",
+1,
+[]
+],
+[
+"Fadeaway Man",
+1,
+[
+"Anton Lamont"
+]
+],
+[
+"Omega",
+1,
+[]
+],
+[
+"Brother Grimm",
+1,
+[
+"Clifford Grimm"
+]
+],
+[
+"Wildside",
+1,
+[]
+],
+[
+"Wyre",
+1,
+[]
+],
+[
+"Zero",
+1,
+[]
+],
+[
+"Thailog",
+1,
+[
+"Alexander Thailog"
+]
+],
+[
+"Lord Conquest",
+1,
+[]
+],
+[
+"Curaré",
+1,
+[]
+],
+[
+"Pulsar Stargrave",
+1,
+[
+"Brainiac",
+"Brainiac 4"
+]
+],
+[
+"Ivana Baiul",
+1,
+[]
+],
+[
+"Jared Nomak",
+1,
+[]
+],
+[
+"Jaxon Xavier",
+1,
+[
+"X"
+]
+],
+[
+"Lex Luthor, Jr.",
+1,
+[]
+],
+[
+"Lock-Up",
+1,
+[
+"Lyle Bolton"
+]
+],
+[
+"Mad Stan",
+1,
+[
+"Stanley Labowski"
+]
+],
+[
+"Melanie Walker",
+1,
+[
+"Ten"
+]
+],
+[
+"Yggardis, the Living Planet",
+1,
+[]
+],
+[
+"First Born",
+1,
+[]
+],
+[
+"Ice King",
+1,
+[]
+],
+[
+"White Magician",
+1,
+[]
+],
+[
+"Aegeus",
+1,
+[
+"Nikos Aegeus"
+]
+],
+[
+"Alexandre LeRoi",
+1,
+[]
+],
+[
+"Alpha",
+1,
+[]
+],
+[
+"Angstrom Levy",
+1,
+[]
+],
+[
+"Anthony Lupus",
+1,
+[
+"Werewolf"
+]
+],
+[
+"Anton Arcane",
+1,
+[]
+],
+[
+"Aquarius",
+1,
+[]
+],
+[
+"Arkillo",
+1,
+[]
+],
+[
+"Asmodeus",
+1,
+[]
+],
+[
+"Auctioneer",
+1,
+[]
+],
+[
+"Baron Blitzkrieg",
+1,
+[]
+],
+[
+"Belyllioth",
+1,
+[]
+],
+[
+"Billy Kincaid",
+1,
+[]
+],
+[
+"Bliss",
+1,
+[
+"Morlocks",
+"Nicole Callahan"
+]
+],
+[
+"Bork",
+1,
+[
+"Carl Andrew Bork",
+"Carl Bork"
+]
+],
+[
+"Brainiac 4",
+1,
+[
+"Kajz Dox"
+]
+],
+[
+"Brick",
+1,
+[
+"Daniel Brickwell",
+"Danny Brickwell"
+]
+],
+[
+"Carapax",
+1,
+[
+"Conrad Carapax"
+]
+],
+[
+"Sedusa",
+1,
+[
+"Ima Goodelady"
+]
+],
+[
+"Chapel",
+1,
+[
+"Bruce Stinson"
+]
+],
+[
+"Squid",
+1,
+[]
+],
+[
+"Tighten",
+1,
+[
+"Hal Stewart",
+"Titan"
+]
+],
+[
+"Elijah Price",
+1,
+[
+"Mister Glass",
+"Mr. Glass"
+]
+],
+[
+"Curse",
+1,
+[
+"Phillip Krahn"
+]
+],
+[
+"Cy-Gor",
+1,
+[]
+],
+[
+"Cyberface",
+1,
+[
+"Sebastian Khan"
+]
+],
+[
+"D'Ken",
+1,
+[
+"D'Ken Neramani",
+"Emperor D'ken"
+]
+],
+[
+"Cronus",
+1,
+[]
+],
+[
+"Damien Darklord",
+1,
+[
+"Damien Armstrong",
+"Damien Farrell"
+]
+],
+[
+"Mordred",
+1,
+[]
+],
+[
+"David Graves",
+1,
+[
+"Graves"
+]
+],
+[
+"Deimos",
+1,
+[]
+],
+[
+"Doctor Double X",
+1,
+[]
+],
+[
+"Doctor Eclipse",
+1,
+[]
+],
+[
+"Doctor Spectro",
+1,
+[
+"Tom Emery"
+]
+],
+[
+"Dominus",
+1,
+[
+"Tuoni"
+]
+],
+[
+"Dragon King",
+1,
+[]
+],
+[
+"Dwarfstar",
+1,
+[
+"Sylbert Rundine"
+]
+],
+[
+"Effron the Sorcerer",
+1,
+[]
+],
+[
+"Paragon",
+1,
+[
+"Dr. Joel Baines Cochin",
+"Joel Cochin"
+]
+],
+[
+"Zombozo",
+1,
+[
+"Herbert J. Zomboni"
+]
+],
+[
+"First of the Fallen",
+1,
+[
+"Satan"
+]
+],
+[
+"Flattop",
+1,
+[]
+],
+[
+"Nereus",
+1,
+[]
+],
+[
+"Francine Langstrom",
+1,
+[
+"She-Bat"
+]
+],
+[
+"Freak",
+1,
+[]
+],
+[
+"Funky Flashman",
+1,
+[]
+],
+[
+"Gemini",
+1,
+[
+"Gemini De Mille"
+]
+],
+[
+"General",
+1,
+[
+"Anarky",
+"Red Robin",
+"Ulysses Hadrian Armstrong"
+]
+],
+[
+"Genesis",
+1,
+[
+"Tolliver",
+"Tyler Dayspring"
+]
+],
+[
+"Professor Poopypants",
+1,
+[
+"Prof. Pee-Pee Diarrheastien Poopypants Esq."
+]
+],
+[
+"Gorilla Boss",
+1,
+[
+"George Dyke"
+]
+],
+[
+"Hazard",
+1,
+[
+"Becky Sharpe",
+"Rebecca Sharpe"
+]
+],
+[
+"Heggra",
+1,
+[]
+],
+[
+"Belthazor",
+1,
+[]
+],
+[
+"Hfuhruhurr",
+1,
+[]
+],
+[
+"Grail",
+1,
+[
+"Grail (DC Comics)"
+]
+],
+[
+"Harpy",
+1,
+[
+"Denise de Sevigne",
+"Iris Phelios"
+]
+],
+[
+"Tempest",
+1,
+[
+"Fritz Drizzle",
+"The Tempest"
+]
+],
+[
+"Painkiller",
+1,
+[]
+],
+[
+"Jeannette",
+1,
+[]
+],
+[
+"Jane Doe",
+1,
+[]
+],
+[
+"Kenneth Irons",
+1,
+[]
+],
+[
+"Kid Amazo",
+1,
+[]
+],
+[
+"Kratha",
+1,
+[]
+],
+[
+"La Encantadora",
+1,
+[
+"Encantadora",
+"Lourdes Lucero"
+]
+],
+[
+"Lady Vic",
+1,
+[]
+],
+[
+"Law",
+1,
+[]
+],
+[
+"Lesla-Lar",
+1,
+[]
+],
+[
+"Lew Moxon",
+1,
+[]
+],
+[
+"Mask",
+1,
+[
+"Nina Close"
+]
+],
+[
+"Master Darque",
+1,
+[]
+],
+[
+"Mercy",
+1,
+[
+"Abigail Mercy Wright"
+]
+],
+[
+"Mindgrabber Kid",
+1,
+[
+"Lucian Crawley",
+"Mind-Eater"
+]
+],
+[
+"Nimue",
+1,
+[
+"The Queen of Blood",
+"Vivienne"
+]
+],
+[
+"Mister Gone",
+1,
+[
+"Artemus Pender"
+]
+],
+[
+"Mnemoth",
+1,
+[]
+],
+[
+"Mothergod",
+1,
+[
+"Erica Pierce"
+]
+],
+[
+"Naiad",
+1,
+[
+"Mai Miyazaki"
+]
+],
+[
+"Natas",
+1,
+[]
+],
+[
+"Neophyte",
+1,
+[]
+],
+[
+"Nightfall",
+1,
+[]
+],
+[
+"Octopus",
+1,
+[
+"Zitzbath Zark"
+]
+],
+[
+"Ogre",
+1,
+[
+"Michael Adams"
+]
+],
+[
+"Osira",
+1,
+[]
+],
+[
+"Overthrow",
+1,
+[
+"Arnold Daniel Beck"
+]
+],
+[
+"Nerissa",
+1,
+[
+"Nerissa Crossnic"
+]
+],
+[
+"Purgatory",
+1,
+[
+"Paul Christian"
+]
+],
+[
+"Quentin Turnbull",
+1,
+[]
+],
+[
+"Rad",
+1,
+[
+"Jennifer Burke",
+"Miss Victory",
+"Paragon"
+]
+],
+[
+"Rainbow Archer",
+1,
+[
+"Albrecht Raines"
+]
+],
+[
+"Reactron",
+1,
+[
+"Benjamin Martin Krull",
+"Ben Krullen"
+]
+],
+[
+"Red Volcano",
+1,
+[]
+],
+[
+"Risk",
+1,
+[
+"Cody Driscoll"
+]
+],
+[
+"Rock",
+1,
+[
+"Micah Flint"
+]
+],
+[
+"Sasha Hammer",
+1,
+[
+"Detroit Steel"
+]
+],
+[
+"Satan Girl",
+1,
+[]
+],
+[
+"Scanner",
+1,
+[]
+],
+[
+"Scorch",
+1,
+[
+"Aubrey Sparks"
+]
+],
+[
+"Scribe",
+1,
+[]
+],
+[
+"Diamondhead",
+1,
+[]
+],
+[
+"Shrapnel",
+1,
+[
+"General Kafka",
+"Mark Scheffer"
+]
+],
+[
+"Solaris",
+1,
+[]
+],
+[
+"Spidercide",
+1,
+[]
+],
+[
+"Spirit King",
+1,
+[
+"Roger Romaine"
+]
+],
+[
+"Steven Lang",
+1,
+[
+"Stephen Lang"
+]
+],
+[
+"Tiffany",
+1,
+[]
+],
+[
+"Time Commander",
+1,
+[]
+],
+[
+"Toyo Harada",
+1,
+[]
+],
+[
+"Tremor",
+1,
+[
+"Richard Masullo"
+]
+],
+[
+"Tyrone Cash",
+1,
+[
+"Hulk",
+"Leonard Williams"
+]
+],
+[
+"Warp",
+1,
+[
+"Emil LaSalle"
+]
+],
+[
+"Whisper A'Daire",
+1,
+[]
+],
+[
+"Widowmaker",
+1,
+[]
+],
+[
+"Yuga Khan",
+1,
+[
+"Zonuz"
+]
+],
+[
+"Zara",
+1,
+[
+"Zara, Priestess of the Crimson Flame"
+]
+],
+[
+"Zeiss",
+1,
+[
+"Philo Zeiss"
+]
+],
+[
+"Zera",
+1,
+[]
+],
+[
+"Zookeeper",
+1,
+[
+"Dr. Samuel Register",
+"Samuel Register"
+]
+],
+[
+"Zyklon",
+1,
+[]
+],
+[
+"Duke Nukem",
+1,
+[
+"Captain Planet Duke Nukem"
+]
+],
+[
+"Everywhere Man",
+1,
+[
+"John Marlowe"
+]
+],
+[
+"Mister Nebula",
+1,
+[
+"Kirtan-Rodd"
+]
+],
+[
+"Jean-Paul Valley",
+1,
+[
+"Azrael",
+"Batman"
+]
+],
+[
+"Michael Lane",
+1,
+[
+"Azrael",
+"Bat-Devil",
+"Michael Washington Lane"
+]
+],
+[
+"Galactiac",
+1,
+[]
+],
+[
+"Reaper",
+1,
+[
+"Pantu Hurageb"
+]
+],
+[
+"Dansen Macabre",
+1,
+[]
+],
+[
+"Cameron Mahkent",
+1,
+[
+"Icicle",
+"Icicle Jr."
+]
+],
+[
+"Shiv",
+1,
+[
+"Cindy Burman"
+]
+],
+[
+"Alicia Baker",
+1,
+[]
+],
+[
+"Manhunter",
+1,
+[
+"Paul Kirk"
+]
+],
+[
+"Roku",
+1,
+[
+"Angelina Alcott"
+]
+],
+[
+"Reign",
+0,
+[
+"Worldkiller"
+]
+],
+[
+"Overgirl",
+0,
+[
+"Kara"
+]
+],
+[
+"Dark Arrow",
+0,
+[
+"Oliver"
+]
+],
+[
+"Purity",
+0,
+[]
+],
+[
+"Amazing Grace",
+0,
+[]
+],
+[
+"Arrakhat",
+0,
+[]
+],
+[
+"The Lich",
+0,
+[
+"The Lich King"
+]
+],
+[
+"The Lord",
+0,
+[
+"Ethan Grant"
+]
+],
+[
+"Jane",
+0,
+[]
+],
+[
+"Eraste",
+0,
+[]
+],
+[
+"Isotope",
+0,
+[]
+],
+[
+"Charles \"Big Time\" Bigelow",
+0,
+[]
+],
+[
+"Monsieur Stigmonus",
+0,
+[]
+],
+[
+"Scarlet Overkill",
+0,
+[]
+],
+[
+"Sungirl",
+0,
+[
+"Deborah Morgna"
+]
+],
+[
+"Maxime Le Mal",
+0,
+[]
+],
+[
+"Gabriel Agreste",
+0,
+[
+"Hawk Moth"
+]
+],
+[
+"Mister Toad",
+0,
+[]
+],
+[
+"Sleez",
+0,
+[]
+],
+[
+"Chantinelle",
+0,
+[
+"Ellie"
+]
+],
+[
+"Skorpio",
+0,
+[
+"Dennis Ellis",
+"Dennis Samuel Ellis"
+]
+],
+[
+"Caitlin Snow",
+0,
+[
+"Frost",
+"Killer Frost"
+]
+],
+[
+"Johann Schmidt",
+0,
+[
+"Red Skull",
+"Stonekeeper"
+]
+],
+[
+"Wingy Ames",
+0,
+[]
+],
+[
+"Terror",
+0,
+[
+"Baxter Forbes"
+]
+],
+[
+"Black Bison",
+0,
+[
+"Black-Cloud-In-Morning",
+"John Ravenhair"
+]
+],
+[
+"Kyodai Ken",
+0,
+[
+"Ninja"
+]
+],
+[
+"Stalker",
+0,
+[]
+],
+[
+"Nikolai",
+0,
+[]
+],
+[
+"Steven Cooper",
+0,
+[
+"Steven",
+"Stevie Coops"
+]
+],
+[
+"Tapestry",
+0,
+[]
+],
+[
+"Sarah Stacy",
+0,
+[
+"Kindred"
+]
+],
+[
+"Gabriel Stacy",
+0,
+[
+"American Son",
+"Gabe Stacy",
+"Gray Goblin",
+"Kindred"
+]
+],
+[
+"Psycho Delic",
+0,
+[]
+],
+[
+"Fasaud",
+0,
+[]
+],
+[
+"Ferocia",
+0,
+[]
+],
+[
+"Preus",
+0,
+[]
+],
+[
+"Googam",
+0,
+[]
+],
+[
+"Sewer King",
+0,
+[]
+],
+[
+"Isolationist",
+0,
+[]
+],
+[
+"Nagala",
+0,
+[]
+],
+[
+"Ranark",
+0,
+[]
+],
+[
+"Ravenous",
+0,
+[]
+],
+[
+"Savage Steel",
+0,
+[]
+],
+[
+"Roco-Bai",
+0,
+[
+"Shatterax"
+]
+],
+[
+"Silk Fever",
+0,
+[
+"Min Li Ng"
+]
+],
+[
+"Sledge",
+0,
+[]
+],
+[
+"Zs'Skayr",
+0,
+[
+"Ghostfreak"
+]
+],
+[
+"Atum",
+0,
+[]
+],
+[
+"Balor",
+0,
+[]
+],
+[
+"Gonzo the Mechanical Bastard",
+0,
+[]
+],
+[
+"Airstryke",
+0,
+[
+"William Kavanagh"
+]
+],
+[
+"Ultimaton",
+0,
+[]
+],
+[
+"Alex Mercer",
+0,
+[]
+],
+[
+"She-Cat",
+0,
+[
+"Cassandra Cartland"
+]
+],
+[
+"Ultimate Kraven",
+0,
+[
+"Kraven",
+"Sergei Kravinoff"
+]
+],
+[
+"Eye-Scream",
+0,
+[]
+],
+[
+"Dancing Water",
+0,
+[]
+],
+[
+"Theodore Slaght",
+0,
+[
+"Slag",
+"The Slaght"
+]
+],
+[
+"Moira Queen",
+0,
+[]
+],
+[
+"Gilded Arches",
+0,
+[
+"The Gilded Arches"
+]
+],
+[
+"Bad Samaritan",
+0,
+[
+"Zviad Baazovi"
+]
+],
+[
+"Grant Wilson",
+0,
+[
+"Legacy",
+"Ravager"
+]
+],
+[
+"Davis Bloome",
+0,
+[
+"Doomsday"
+]
+],
+[
+"Celestine",
+0,
+[]
+],
+[
+"X-24",
+0,
+[
+"24"
+]
+],
+[
+"Megamind",
+0,
+[
+"Bernard",
+"Space Dad"
+]
+],
+[
+"David Banner",
+0,
+[
+"The Father"
+]
+],
+[
+"Chroma",
+0,
+[]
+],
+[
+"Bronze Kneecap",
+0,
+[
+"The Bronze Kneecap, Ron Hambone"
+]
+],
+[
+"Clawster",
+0,
+[]
+],
+[
+"Construct",
+0,
+[]
+],
+[
+"Awful Alvin",
+0,
+[]
+],
+[
+"Zander Rice",
+0,
+[]
+],
+[
+"Demongo",
+0,
+[
+"Merchant of Doom"
+]
+],
+[
+"Bomb Voyage",
+0,
+[]
+],
+[
+"Lady Lightbug",
+0,
+[]
+],
+[
+"Doctor Diehard",
+0,
+[
+"Dr. Diehard",
+"Hans Leckter"
+]
+],
+[
+"Earl of Greed",
+0,
+[]
+],
+[
+"Andrea von Strucker",
+0,
+[
+"Andrea Strucker"
+]
+],
+[
+"Frederic Vaux",
+0,
+[
+"Soul Thief"
+]
+],
+[
+"Freestyle",
+0,
+[
+"Jocelyn Davis"
+]
+],
+[
+"Frostbite",
+0,
+[
+"Leon Carver"
+]
+],
+[
+"Geomancer",
+0,
+[
+"Adam Fells"
+]
+],
+[
+"Dieter Reinhardt",
+0,
+[
+"Reinhardt"
+]
+],
+[
+"Danica Talos",
+0,
+[]
+],
+[
+"Eli Damaskinos",
+0,
+[]
+],
+[
+"Asher Talos",
+0,
+[]
+],
+[
+"Spatula Woman",
+0,
+[]
+],
+[
+"Copper Cranium",
+0,
+[]
+],
+[
+"Iron Lung",
+0,
+[
+"The Iron Lung"
+]
+],
+[
+"Brass Knuckles",
+0,
+[
+"Oslo Punchlowski"
+]
+],
+[
+"The Insect",
+0,
+[
+"Tsar Sultan"
+]
+],
+[
+"Mzee",
+0,
+[]
+],
+[
+"Honest John",
+0,
+[
+"The Living Propaganda"
+]
+],
+[
+"Fei Lian",
+0,
+[
+"Living Wind"
+]
+],
+[
+"Dangerous Jinn",
+0,
+[]
+],
+[
+"Henry Bendix",
+0,
+[]
+],
+[
+"Herr Kleiser",
+0,
+[]
+],
+[
+"Blaze",
+0,
+[
+"Angelica Blaze",
+"Lady Blaze"
+]
+],
+[
+"Satanus",
+0,
+[
+"Colin Thornton",
+"Lord Satanus"
+]
+],
+[
+"Kaizen Gamorra",
+0,
+[]
+],
+[
+"Kev Hawkins",
+0,
+[]
+],
+[
+"King Bedlam",
+0,
+[]
+],
+[
+"Kyle Abbot",
+0,
+[]
+],
+[
+"Lucas Brand",
+0,
+[]
+],
+[
+"Laurel Hedare",
+0,
+[]
+],
+[
+"Miss Misery",
+0,
+[
+"Gretchen McDonald"
+]
+],
+[
+"Moonbow",
+0,
+[
+"Brittany Brandon"
+]
+],
+[
+"Mortalla",
+0,
+[]
+],
+[
+"Moxie Mannheim",
+0,
+[
+"Moxie \"Boss\" Mannheim"
+]
+],
+[
+"Myrwhydden",
+0,
+[]
+],
+[
+"NKVDemon",
+0,
+[]
+],
+[
+"Panara",
+0,
+[
+"Leona Dorsey"
+]
+],
+[
+"Paradigm",
+0,
+[]
+],
+[
+"Sin Tzu",
+0,
+[]
+],
+[
+"Pistolera",
+0,
+[
+"Gunbunny"
+]
+],
+[
+"Red Claw",
+0,
+[]
+],
+[
+"Dregg",
+0,
+[
+"1987 Dregg"
+]
+],
+[
+"Robot",
+0,
+[
+"Rex Conners",
+"Rudy Conners"
+]
+],
+[
+"Ron-Karr",
+0,
+[]
+],
+[
+"Sideways Bob",
+0,
+[
+"Robert Thompson"
+]
+],
+[
+"Tao",
+0,
+[]
+],
+[
+"Cyber Shredder",
+0,
+[
+"2003 Cyber Shredder"
+]
+],
+[
+"Threshold",
+0,
+[
+"Matthew Callahan"
+]
+],
+[
+"Tyler Stone",
+0,
+[]
+],
+[
+"Looten Plunder",
+0,
+[]
+],
+[
+"Barbara Blight",
+0,
+[
+"Doctor Blight"
+]
+],
+[
+"Verminous Skumm",
+0,
+[]
+],
+[
+"Hoggish Greedly",
+0,
+[]
+],
+[
+"Zarm",
+0,
+[
+"Captain Planet Zarm"
+]
+],
+[
+"Captain Pollution",
+0,
+[]
+],
+[
+"Damien Darhk",
+0,
+[]
+],
+[
+"Malcolm Merlyn",
+0,
+[
+"Al Sa-Her",
+"Dark Archer",
+"Ra's al Ghul",
+"The Magician"
+]
+],
+[
+"Leonard Snart",
+0,
+[
+"Captain Cold"
+]
+],
+[
+"Mick Rory",
+0,
+[
+"Chronos",
+"Heat Wave",
+"Rebecca Silver"
+]
+],
+[
+"Nora Darhk",
+0,
+[]
+],
+[
+"Joss Jackam",
+0,
+[
+"Joslyn Jackam",
+"Weather Witch"
+]
+],
+[
+"Laurel Lance",
+0,
+[
+"Black Canary",
+"Black Siren"
+]
+],
+[
+"John Diggle Jr.",
+0,
+[
+"Deathstroke",
+"JJ Diggle"
+]
+],
+[
+"Frost",
+0,
+[
+"Killer Frost"
+]
+],
+[
+"Amunet Black",
+0,
+[
+"Leslie Jocoy"
+]
+],
+[
+"Esperanza Garcia",
+0,
+[
+"Ultraviolet"
+]
+],
+[
+"Rama Khan",
+0,
+[]
+],
+[
+"Isabel Rochev",
+0,
+[
+"The Queen"
+]
+],
+[
+"Eva McCulloch",
+0,
+[]
+],
+[
+"Joar Mahkent",
+0,
+[
+"Icicle",
+"Jordan Mahkent"
+]
+],
+[
+"Astra",
+0,
+[
+"General Astra"
+]
+],
+[
+"Siobhan Smythe",
+0,
+[
+"Silver Banshee"
+]
 ]
 ]

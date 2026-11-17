@@ -1,526 +1,10493 @@
 [
 [
 "Wii",
-87
+87,
+[
+"Nintendo Wii",
+"Revolution"
+]
 ],
 [
 "PlayStation 3",
-82
+82,
+[
+"PS3",
+"Sony PlayStation 3",
+"Sony PS3"
+]
 ],
 [
 "PlayStation Portable",
-71
+71,
+[
+"Playstation Portable",
+"Play Station Portable",
+"PSP",
+"PSP-1000",
+"PSP-1006",
+"PSP-2006",
+"PSP-3000",
+"PS Portable",
+"Sony PSP"
+]
 ],
 [
 "Nintendo Entertainment System",
-71
+71,
+[
+"Comboy",
+"Famicom",
+"Family Computer",
+"Hyundai Comboy",
+"NES",
+"Nintendo 8-bit",
+"Nintendo 8 Bit",
+"Nintendo Famicom",
+"Nintendo Family Computer",
+"Tata Famicom"
+]
 ],
 [
 "Nintendo DS",
-68
+68,
+[
+"Developers' System",
+"Double Screen",
+"Dual Screen",
+"IiQue DS",
+"iQue Dual Screen",
+"N DS",
+"Nintendo Developers' System",
+"Nintendo Double Screen",
+"Nintendo Dual Screen",
+"Project Nitro"
+]
 ],
 [
 "Nintendo GameCube",
-66
+66,
+[
+"Dolphin",
+"Gamecube",
+"Game Cube",
+"GameCube",
+"GC",
+"GCN",
+"NGC"
+]
 ],
 [
 "Nintendo 64",
-65
+65,
+[
+"Famicom 64",
+"Family Computer 64",
+"FC 64",
+"FC-64",
+"FC64",
+"N 64",
+"N-64",
+"N64",
+"NINTENDO64",
+"Nintendo Ultra 64",
+"Project Reality",
+"Ultra 64",
+"Ultra-64"
+]
 ],
 [
 "Super Nintendo Entertainment System",
-62
+62,
+[
+"Nintendo 16-bit",
+"Nintendo SNES",
+"Nintendo Super-NES",
+"SFC",
+"SNES",
+"SNES 16-bit",
+"Super Comboy",
+"Super Famicom",
+"Super Family Computer",
+"Super NES",
+"Super Nintendo",
+"Super Nintendo 16-bit"
+]
 ],
 [
 "PlayStation Vita",
-62
+62,
+[
+"Playstation Vita",
+"PSV",
+"Psvita",
+"PSVita",
+"PSVITA",
+"Vita"
+]
 ],
 [
 "Wii U",
-62
+62,
+[
+"Nintendo Wii U",
+"Nintendo WiiU",
+"Project Café",
+"WiiU"
+]
 ],
 [
 "Game Boy",
-61
+61,
+[
+"1989 Gameboy",
+"1989 Game Boy",
+"Gameboy",
+"Gameboy Classic",
+"Game Boy Classic",
+"GB",
+"GB Classic",
+"Nintendo Gameboy",
+"Nintendo Game Boy",
+"Nintendo GB"
+]
 ],
 [
 "Nintendo 3DS",
-55
+55,
+[
+"3DS",
+"iQue 3DS",
+"N 3DS",
+"N3DS"
+]
 ],
 [
 "Game Boy Color",
-53
+53,
+[]
 ],
 [
 "Atari 2600",
-52
+52,
+[
+"1977 Atari VCS",
+"Sears Tele-Games Video Arcade",
+"Sears Video Arcade",
+"Video Computer System"
+]
 ],
 [
 "Xbox Series X and Series S",
-51
+51,
+[]
 ],
 [
 "Odyssey",
-49
+49,
+[
+"Magnavox Odyssey",
+"Odyssee"
+]
 ],
 [
 "Game & Watch series",
-43
+43,
+[
+"Game and Watch",
+"Game and Watch series",
+"Game & Watch",
+"Game Watch",
+"Game & Watch line",
+"Game & Watch (series)",
+"G and W",
+"G and W line",
+"G and W series",
+"G & W",
+"G&W",
+"G & W line",
+"G&W line",
+"G & W series",
+"G&W series",
+"Nintendo Game and Watch",
+"Nintendo Game and Watch series",
+"Nintendo Game & Watch",
+"Nintendo Game & Watch line",
+"Nintendo Game & Watch series",
+"Nintendo G and W",
+"Nintendo G and W series",
+"Nintendo G & W",
+"Nintendo G&W",
+"Nintendo G & W line",
+"Nintendo G&W line",
+"Nintendo G & W series",
+"Nintendo G&W series"
+]
 ],
 [
 "Atari Jaguar",
-42
+42,
+[
+"Jaguar",
+"Jaguar 64",
+"Jaguar64"
+]
 ],
 [
 "Atari 5200",
-40
+40,
+[]
 ],
 [
 "Nintendo DSi",
-39
+39,
+[
+"DSi",
+"iQue DSi",
+"NDSi"
+]
 ],
 [
 "Atari 7800",
-38
+38,
+[]
 ],
 [
 "handheld game console",
-38
+38,
+[
+"handheld game device",
+"handheld game system",
+"handheld gaming console",
+"handheld gaming device",
+"handheld gaming system",
+"handheld video game console",
+"handheld video gaming console",
+"pocket console",
+"pocket game console",
+"pocket gaming console",
+"pocket video game console",
+"pocket video gaming console",
+"portable console",
+"portable game console",
+"portable gaming console",
+"portable video game console",
+"portable video gaming console"
+]
 ],
 [
 "3DO",
-36
+36,
+[
+"3DO Interactive Multiplayer"
+]
 ],
 [
 "N-Gage",
-36
+36,
+[]
 ],
 [
 "Game Boy Advance SP",
-36
+36,
+[
+"Game Boy Advance Special",
+"GBA SP",
+"GBASP",
+"GBA Special"
+]
 ],
 [
 "Virtual Boy",
-35
+35,
+[
+"Nintendo Virtual Boy",
+"VR 32",
+"VR32"
+]
 ],
 [
 "Atari Lynx",
-34
+34,
+[
+"Lynx"
+]
 ],
 [
 "ColecoVision",
-33
+33,
+[
+"CBS ColecoVision"
+]
 ],
 [
 "TurboGrafx-16",
-33
+33,
+[
+"PCE",
+"PC Engine",
+"PC-Engine",
+"TG16",
+"TurboGrafx 16",
+"TurboGrafx-16 Entertainment SuperSystem"
+]
 ],
 [
 "Intellivision",
-33
+33,
+[
+"Mattel Electronic's Intellivision"
+]
 ],
 [
 "SG-1000",
-33
+33,
+[
+"Sega Computer Videogame SG-1000",
+"Sega Game 1000"
+]
 ],
 [
 "Amiga CD32",
-33
+33,
+[
+"CD32"
+]
 ],
 [
 "Nintendo DS Lite",
-33
+33,
+[]
 ],
 [
 "Color TV-Game",
-32
+32,
+[
+"Color TV Game",
+"Color TV-Game series"
+]
 ],
 [
 "Neo Geo",
-30
+30,
+[
+"MULTI VIDEO SYSTEM",
+"MVS",
+"Neo Geo AES",
+"Neo Geo MVS"
+]
 ],
 [
 "Ouya",
-30
+30,
+[
+"OUYA"
+]
 ],
 [
 "Nintendo 2DS",
-30
+30,
+[
+"2DS",
+"N 2DS",
+"N2DS"
+]
 ],
 [
 "Game Boy Micro",
-30
+30,
+[
+"GBM",
+"GB micro",
+"GB Micro",
+"Nintendo Game Boy Micro",
+"Oxy"
+]
 ],
 [
 "Philips CD-i",
-29
+29,
+[
+"CD-i",
+"CD-I",
+"CDI",
+"Compact Disc Interactive",
+"Philips Compact Disc Interactive"
+]
 ],
 [
 "WonderSwan",
-29
+29,
+[]
 ],
 [
 "Apple Pippin",
-29
+29,
+[
+"Apple Pippin platform",
+"PiPP!N"
+]
 ],
 [
 "Vectrex",
-29
+29,
+[
+"GCE Vectrex"
+]
 ],
 [
 "Fairchild Channel F",
-28
+28,
+[
+"Channel F"
+]
 ],
 [
 "CDTV",
-28
+28,
+[
+"Commodore Dynamic Total Vision"
+]
 ],
 [
 "Famicom Disk System",
-27
+27,
+[
+"FCDS",
+"FDS",
+"NFCDS",
+"NFDS",
+"Nintendo Famicom Disk System",
+"Nintendo Family Computer Disk System",
+"Nintendo FCDS",
+"Nintendo FDS"
+]
 ],
 [
 "Nintendo Switch Lite",
-27
+27,
+[
+"NSL",
+"NS Lite",
+"SL",
+"Switch Lite"
+]
 ],
 [
 "Pokémon Mini",
-26
+26,
+[
+"Nintendo Pokémon Mini",
+"Pokemon mini",
+"Pokemon Mini",
+"Pokémon mini"
+]
 ],
 [
 "Gizmondo",
-26
+26,
+[
+"Gametraq"
+]
 ],
 [
 "PC-FX",
-25
+25,
+[]
 ],
 [
 "PocketStation",
-25
+25,
+[]
 ],
 [
 "Microvision",
-25
+25,
+[
+"MB Microvision",
+"Milton Bradley Microvision"
+]
 ],
 [
 "NES Classic Edition",
-25
+25,
+[
+"Famicom Classic",
+"Famicom Classic Edition",
+"Famicom Mini",
+"Family Computer Classic",
+"Family Computer Classic Edition",
+"Family Computer Mini",
+"Mini NES",
+"NES Classic",
+"NES Classic Mini",
+"NES Mini",
+"Nintendo Classic Mini: Family Computer",
+"Nintendo Classic Mini: NES",
+"Nintendo Classic Mini: Nintendo Entertainment System",
+"Nintendo Entertainment System Classic",
+"Nintendo Entertainment System Classic Edition",
+"Nintendo Entertainment System: NES Classic Edition"
+]
 ],
 [
 "Magnavox Odyssey 2",
-25
+25,
+[
+"Magnavox Odyssey²",
+"Odyssey 2",
+"Odyssey2",
+"Philips Odyssey 2",
+"Philips Odyssey²",
+"Philips Videopac G7000",
+"Videopac",
+"Videopac G7000"
+]
 ],
 [
 "Coleco Telstar series",
-24
+24,
+[]
 ],
 [
 "Super Game Boy",
-24
+24,
+[]
 ],
 [
 "Arcadia 2001",
-24
+24,
+[
+"Emerson Arcadia 2001"
+]
 ],
 [
 "Amazon Fire TV",
-24
+24,
+[
+"fireTV",
+"Fire TV",
+"Fire TV Cube",
+"Fire TV Stick",
+"Fire TV Stick 4K",
+"Fire TV Stick 4K Max"
+]
 ],
 [
 "Zeebo",
-24
+24,
+[]
 ],
 [
 "Super NES Classic Edition",
-24
+24,
+[
+"Nintendo Classic Mini: Super Famicom",
+"Nintendo Classic Mini: Super Nintendo Entertainment System",
+"SNES Classic",
+"SNES Classic Mini",
+"SNES Mini",
+"Super Nintendo Entertainment System: SNES Classic Edition",
+"Super Nintendo Entertainment System: Super NES Classic Edition"
+]
 ],
 [
 "GP2X",
-24
+24,
+[
+"GPX2"
+]
 ],
 [
 "Neo Geo Pocket",
-24
+24,
+[]
 ],
 [
 "Playdia",
-23
+23,
+[
+"Bandai Playdia",
+"BA-X",
+"Playdia QIS",
+"Playdia Quick Interactive System",
+"プレイディア"
+]
 ],
 [
 "Casio Loopy",
-23
+23,
+[
+"Loopy",
+"My Seal Computer",
+"SV-100"
+]
 ],
 [
 "Xperia Play",
-23
+23,
+[]
 ],
 [
 "FM Towns Marty",
-23
+23,
+[
+"Fujitsu FM Towns Marty"
+]
 ],
 [
 "Amstrad GX4000",
-23
+23,
+[
+"GX4000"
+]
 ],
 [
 "RCA Studio II",
-22
+22,
+[
+"RCA Studio 2",
+"Studio 2",
+"Studio II"
+]
 ],
 [
 "iQue Player",
-22
+22,
+[]
 ],
 [
 "PV-1000",
-22
+22,
+[
+"Casio PV-1000"
+]
 ],
 [
 "Xbox Series X",
-22
+22,
+[
+"SX",
+"XSX"
+]
 ],
 [
 "Commodore 64 Games System",
-21
+21,
+[
+"C64GS"
+]
 ],
 [
 "PSP Go",
-20
+20,
+[]
 ],
 [
 "Cassette Vision",
-19
+19,
+[
+"Epoch Cassette Vision"
+]
 ],
 [
 "home video game console",
-19
+19,
+[
+"home console",
+"home game console",
+"stationary console",
+"stationary game console",
+"stationary video game console"
+]
 ],
 [
 "Pandora",
-19
+19,
+[
+"4=Pandora",
+"OpenPandora Pandora"
+]
 ],
 [
 "Game Boy family",
-19
+19,
+[
+"Game Boy line",
+"Game Boy product family",
+"Game Boy product line",
+"Game Boy product series",
+"Game Boy series"
+]
 ],
 [
 "Bally Astrocade",
-19
+19,
+[
+"Astrocade",
+"Bally ABA-1000[",
+"Bally Arcade",
+"Bally Computer System",
+"The Professional Arcade"
+]
 ],
 [
 "PSX",
-18
+18,
+[
+"Sony PSX"
+]
 ],
 [
 "HyperScan",
-18
+18,
+[
+"Mattel HyperScan"
+]
 ],
 [
 "Entex Adventure Vision",
-18
+18,
+[
+"Adventure Vision",
+"AVIS",
+"Entex Electronic Arcade"
+]
 ],
 [
 "Atari VCS",
-18
+18,
+[
+"2021 Atari VCS",
+"Project Ataribox"
+]
 ],
 [
 "GP32",
-18
+18,
+[]
 ],
 [
 "Intellivision Amico",
-18
+18,
+[]
 ],
 [
 "GP2X Wiz",
-18
+18,
+[
+"GP3X",
+"Myungtendo"
+]
 ],
 [
 "VMU",
-17
+17,
+[
+"Dreamcast VMS",
+"Dreamcast VMU",
+"Visual Memory System",
+"Visual Memory Unit"
+]
 ],
 [
 "handheld electronic game",
-17
+17,
+[
+"dedicated handheld",
+"Handheld Electronic LCD",
+"LCD game"
+]
 ],
 [
 "Atari XEGS",
-17
+17,
+[
+"Atari XE Video Game System"
+]
 ],
 [
 "Nvidia Shield TV",
-17
+17,
+[
+"Nvidia Shield",
+"Shield Android TV",
+"Shield Console"
+]
 ],
 [
 "Game Boy Pocket",
-17
+17,
+[
+"Gameboy Pocket"
+]
 ],
 [
 "Game.com",
-17
+17,
+[
+"game.com",
+"GCOM",
+"Tiger Game.com"
+]
 ],
 [
 "Neo Geo CD",
-17
+17,
+[]
 ],
 [
 "Interton Video Computer 4000",
-17
+17,
+[
+"INTERTON ELECTRONIC VC 4000 VIDEO COMPUTER",
+"Interton VC 4000",
+"VC 4000",
+"Video Computer 4000",
+"VIDEO COMPUTER VC 4000"
+]
 ],
 [
 "Pioneer LaserActive",
-17
+17,
+[
+"CLD-A100",
+"LD-ROM² System"
+]
 ],
 [
 "Tapwave Zodiac",
-17
+17,
+[
+"Tapwave Zodiac 1",
+"Tapwave Zodiac 2",
+"Zodiac 1",
+"Zodiac 2"
+]
 ],
 [
 "Mega Drive Mini",
-17
+17,
+[
+"Sega Genesis/Mega Drive Mini",
+"Sega Genesis Mini",
+"Sega Mega Drive Mini"
+]
 ],
 [
 "Watara Supervision",
-17
+17,
+[
+"Hartung SV-100",
+"QuickShot Supervision",
+"Supervision",
+"Tiger Boy"
+]
 ],
 [
 "New Nintendo 2DS XL",
-16
+16,
+[
+"N2DS XL",
+"New 2DS XL",
+"NN2DS XL"
+]
 ],
 [
 "APF TV Fun series",
-16
+16,
+[]
 ],
 [
 "Dingoo A320",
-16
+16,
+[]
 ],
 [
 "TurboExpress",
-16
+16,
+[
+"PC Engine GT"
+]
 ],
 [
 "APF-M1000",
-15
+15,
+[]
 ],
 [
 "Super A'Can",
-15
+15,
+[
+"Funtech Super Acan",
+"Super Acan"
+]
 ],
 [
 "Nintendo DSi XL",
-15
+15,
+[
+"DSi XL"
+]
 ],
 [
 "TV Tennis Electrotennis",
-14
+14,
+[
+"Electrotennis",
+"Epoch Electrotennis",
+"Epoch TV Tennis",
+"Epoch TV Tennis Electrotennis",
+"first Japanese video game console",
+"TV Tennis",
+"video game console (gray case)"
+]
 ],
 [
 "PolyStation",
-14
+14,
+[
+"Game Player",
+"PS Kid",
+"PSMan"
+]
 ],
 [
 "Video Pinball series",
-14
+14,
+[
+"Atari Video Pinball",
+"Atari Video Pinball series",
+"Video Pinball"
+]
 ],
 [
 "PC Engine SuperGrafx",
-14
+14,
+[
+"SuperGrafx"
+]
 ],
 [
 "N-Gage QD",
-14
+14,
+[]
 ],
 [
 "Nintendo Entertainment System hardware clone",
-14
+14,
+[
+"Famiclone"
+]
 ],
 [
 "Odyssey series",
-14
+14,
+[
+"versions of the Odyssey"
+]
 ],
 [
 "Xbox Series S",
-14
+14,
+[
+"Microsoft Xbox Series S",
+"XBSS"
+]
 ],
 [
 "Flipper Zero",
-13
+13,
+[]
 ],
 [
 "GameStick",
-13
+13,
+[
+"Game Stick"
+]
 ],
 [
 "Barcode Battler",
-13
+13,
+[
+"BB",
+"CARD BATTLE SYSTEM",
+"バーコードバトラー"
+]
 ],
 [
 "Super Cassette Vision",
-13
+13,
+[
+"Epoch Super Cassette Vision"
+]
 ],
 [
 "Epoch Game Pocket Computer",
-13
+13,
+[
+"Epoch GPC",
+"Game Pocket Computer",
+"Gēmupokekon",
+"GPC",
+"Pokekon",
+"ゲームポケコン"
+]
 ],
 [
 "Vii",
-12
+12,
+[
+"Sport Vii",
+"Vii Sports"
+]
 ],
 [
 "Sega TeraDrive",
-12
+12,
+[
+"STT",
+"TeraDrive",
+"TT"
+]
 ],
 [
 "microconsole",
-12
+12,
+[]
 ],
 [
 "NES-101",
-12
+12,
+[
+"NES 2",
+"NES Control Deck",
+"NES Top Loader",
+"New NES",
+"New-style NES",
+"Nintendo Entertainment System Control Deck"
+]
 ],
 [
 "Bandai Super Vision 8000",
-12
+12,
+[
+"Super Vision 8000",
+"SV8000",
+"TV Jack 8000"
+]
 ],
 [
 "Action Max",
-12
+12,
+[
+"WoW Action Max"
+]
 ],
 [
 "Atari Panther",
-12
+12,
+[]
 ],
 [
 "dedicated console",
-12
+12,
+[
+"dedicated game console",
+"dedicated gaming console",
+"dedicated home console",
+"dedicated home game console",
+"dedicated home video game console",
+"dedicated video game console",
+"early console"
+]
 ],
 [
 "Entex Select-A-Game",
-12
+12,
+[
+"S-A-G",
+"SAG"
+]
 ],
 [
 "WowCube",
-12
+12,
+[]
 ],
 [
 "Halcyon",
-12
+12,
+[]
 ],
 [
 "C64 Direct-to-TV",
-12
+12,
+[
+"C64DTV"
+]
 ],
 [
 "R-Zone",
-12
+12,
+[
+"Tiger R-Zone"
+]
 ],
 [
 "Super NES CD-ROM",
-12
+12,
+[
+"Nintendo Play Station",
+"Nintendo PlayStation",
+"PlayStation (Super Nintendo)",
+"SFC-CD",
+"SFDS",
+"SNES CD",
+"SNES-CD",
+"SNES Disk System",
+"SNES PlayStation",
+"Sony/Nintendo Play Station",
+"Super Disc",
+"Super Famicom CD",
+"Super Famicom CD-ROM",
+"Super Famicom Disk System",
+"Super Famicom Play Station",
+"Super Famicom PlayStation",
+"Super Family Computer Disk System",
+"Super FDS",
+"Super NES CD",
+"Super NES Disk System",
+"Super Nintendo Play Station",
+"Super Nintendo PlayStation"
+]
 ],
 [
 "Atari Flashback series",
-12
+12,
+[
+"Atari FB",
+"Atari FB series",
+"Atari Flashback",
+"FB",
+"FB series",
+"Flashback"
+]
+],
+[
+"V.Smile",
+11,
+[
+"Vsmile",
+"VSmile",
+"V.SMILE",
+"V.SMILE TV LEARNING SYSTEM",
+"VTech Vsmile",
+"VTech VSmile"
+]
+],
+[
+"CAANOO",
+11,
+[
+"GP2X CAANOO"
+]
+],
+[
+"Neo-Geo X",
+11,
+[]
+],
+[
+"Gamate",
+11,
+[
+"Bitcorp Gamate",
+"Bit Corporation Gamate"
+]
+],
+[
+"VTech CreatiVision",
+11,
+[
+"Dick Smith Wizzard"
+]
+],
+[
+"V.Flash",
+11,
+[
+"V.FLASH HOME EDUTAINMENT SYSTEM",
+"V.Smile Pro",
+"VTech V.Flash"
+]
+],
+[
+"Philips Tele-Game series",
+11,
+[
+"Philips Tele-Game",
+"Philips Tele-Spiel",
+"Philips Tele-Spiel series"
+]
+],
+[
+"Mega Duck",
+11,
+[
+"Cougar Boy",
+"Mega Duck WG-108",
+"Timlex Mega Duck"
+]
+],
+[
+"Tomy Tutor",
+11,
+[
+"Grandstand Tutor",
+"Pyuta",
+"Pyūta"
+]
+],
+[
+"XGP",
+10,
+[
+"Extreme Game Player"
+]
+],
+[
+"Sharp Nintendo Television",
+10,
+[
+"C1",
+"C1 NES TV",
+"Game Television",
+"My Computer TV C1"
+]
+],
+[
+"1292 Advanced Programmable Video System",
+10,
+[
+"1292 APVS",
+"APVS"
+]
+],
+[
+"Game Wave Family Entertainment System",
+10,
+[
+"Game Wave",
+"GW",
+"GWFES"
+]
+],
+[
+"mylo",
+10,
+[
+"My Life Online",
+"Sony My Life Online",
+"Sony mylo"
+]
+],
+[
+"Pokémon Pikachu",
+10,
+[
+"Pocket Pikachu",
+"Pokemon Pikachu"
+]
+],
+[
+"EVO Smart Console",
+10,
+[
+"EVO",
+"Evo: Phase One"
+]
+],
+[
+"BSS 01",
+10,
+[
+"Bildschirmspiel 01",
+"BSS01",
+"RFT TV-Spiel",
+"TV-Spiel"
+]
+],
+[
+"XaviXPort consoles",
+10,
+[
+"DIS",
+"Domyos Interactive System",
+"XaviX"
+]
+],
+[
+"Twin Famicom",
+10,
+[]
+],
+[
+"Nintendo DS family",
+9,
+[
+"DS family",
+"DS line",
+"DS series",
+"Nintendo DS line",
+"Nintendo DS series"
+]
+],
+[
+"TV VADER",
+9,
+[
+"Epoch TV Vader",
+"Epoch TV-Vader",
+"Epoch TV VADER",
+"EPOCH TV VADER",
+"TV Vader"
+]
+],
+[
+"Sega Mark III",
+9,
+[]
+],
+[
+"Sega Mega Jet",
+9,
+[]
+],
+[
+"Shield Tablet",
+9,
+[
+"Shield Tablet K1"
+]
+],
+[
+"Wii Mini",
+9,
+[]
+],
+[
+"1chipMSX",
+9,
+[]
+],
+[
+"GameKing",
+9,
+[
+"Timetop GameKing"
+]
+],
+[
+"Micro Genius",
+9,
+[]
+],
+[
+"Coleco Gemini",
+9,
+[]
+],
+[
+"PC-50X Family",
+9,
+[
+"9015",
+"SD-050",
+"SD-070",
+"SD-090"
+]
+],
+[
+"TurboGrafx-16 Mini",
+9,
+[
+"PC Engine Core Grafx Mini",
+"PC Engine Mini"
+]
+],
+[
+"APF Imagination Machine",
+9,
+[]
+],
+[
+"Panasonic M2",
+9,
+[
+"3DO M2"
+]
+],
+[
+"VTech Socrates",
+9,
+[]
+],
+[
+"TurboDuo",
+9,
+[
+"PC Engine Duo"
+]
+],
+[
+"Telejogo II",
+8,
+[
+"Telejogo 2"
+]
+],
+[
+"Cybiko",
+8,
+[]
+],
+[
+"Minimig",
+8,
+[
+"Mini Amiga"
+]
+],
+[
+"PSP 3000",
+8,
+[
+"PlayStation Portable 3000"
+]
+],
+[
+"GPD Win",
+8,
+[]
+],
+[
+"GPD XD",
+8,
+[]
+],
+[
+"Ping-O-Tronic",
+8,
+[
+"ping • o • tronic",
+"Sèleco Ping-O-Tronic",
+"Zanussi Ping-O-Tronic"
+]
+],
+[
+"Ameprod Television Game 10",
+8,
+[
+"Ameprod TVG-10",
+"Television Game 10",
+"TVG-10"
+]
+],
+[
+"Merlin",
+8,
+[
+"Merlin – the Electronic Wizard",
+"Merlin, the Electronic Wizard"
+]
+],
+[
+"Uzebox",
+8,
+[]
+],
+[
+"Gakken Compact Vision TV Boy",
+8,
+[
+"Compact Vision TV Boy",
+"Gakken COMPACT VISION"
+]
+],
+[
+"Philips Videopac+ G7400",
+8,
+[
+"Videopac+ G7400"
+]
+],
+[
+"Analogue Pocket",
+8,
+[]
+],
+[
+"Zemmix",
+8,
+[
+"Daewoo Electronics Zemmix",
+"Daewoo Zemmix"
+]
+],
+[
+"Telejogo",
+8,
+[]
+],
+[
+"GCW Zero",
+7,
+[]
+],
+[
+"Telescore 750",
+7,
+[
+"Telescore SEB 750"
+]
+],
+[
+"Turnir",
+7,
+[
+"Teleigra"
+]
+],
+[
+"Telstar Arcade",
+7,
+[
+"Cleco Telstar Arcade"
+]
+],
+[
+"ZX Spectrum Vega",
+7,
+[]
+],
+[
+"Arduboy",
+7,
+[
+"Bateske Arduboy"
+]
+],
+[
+"PSP Slim",
+7,
+[
+"PlayStation Portable Slim",
+"PlayStation Portable Slim and Lite",
+"PSP-2000",
+"PSP S&L",
+"PSP Slim and Lite",
+"PSP Slim & Lite"
+]
+],
+[
+"DigiBLAST",
+7,
+[
+"digiBLAST personal media center"
+]
+],
+[
+"VideoSport MK2",
+7,
+[
+"MK2",
+"Videosport MK2"
+]
+],
+[
+"fantasy console",
+7,
+[
+"fantasy computer",
+"fantasy video game console"
+]
+],
+[
+"Amstrad Mega PC",
+7,
+[
+"Mega PC"
+]
+],
+[
+"BBC Bridge Companion",
+7,
+[]
+],
+[
+"Hartung Game Master",
+7,
+[
+"Game Tronic",
+"Super Game",
+"Systema 2000"
+]
+],
+[
+"Palmtex Portable Videogame System",
+7,
+[
+"Palmsized Videogame System",
+"PVS",
+"PVS Command Console",
+"Super Micro"
+]
+],
+[
+"Zone",
+7,
+[
+"AtGames Reactor",
+"Sega Reactor",
+"Sega Zone"
+]
+],
+[
+"Atari Home Pong series",
+7,
+[
+"Ataril Home Pong",
+"Home Pong",
+"Sears Tele-Games",
+"Sears Tele-Games series",
+"Tele-Games"
+]
+],
+[
+"TV Boy",
+7,
+[]
+],
+[
+"Mega Drive Mini 2",
+6,
+[
+"Mega Drive Mini II",
+"SEGA Genesis Mini 2",
+"SEGA Mega Drive Mini 2"
+]
+],
+[
+"Brick Game",
+6,
+[]
+],
+[
+"MOJO",
+6,
+[
+"M.O.J.O.",
+"Project Mojo"
+]
+],
+[
+"Game Brain (C-700)",
+6,
+[
+"Atari C-700",
+"Atari Game Brain",
+"C-700"
+]
+],
+[
+"Mi2",
+6,
+[
+"Pocket Dream Console Touch"
+]
+],
+[
+"Pocket Dream Console",
+6,
+[]
+],
+[
+"RetroN",
+6,
+[
+"Retron",
+"RetroN 3"
+]
+],
+[
+"Atari Flashback 2",
+6,
+[
+"Atari Flashback Two",
+"Flashback 2",
+"Flashback Two"
+]
+],
+[
+"Terebikko",
+6,
+[
+"See 'n Say",
+"Terebikko Video Communication System"
+]
+],
+[
+"Konix Multisystem",
+6,
+[]
+],
+[
+"Children's Discovery System",
+6,
+[
+"CDS"
+]
+],
+[
+"Telstar Marksman",
+6,
+[]
+],
+[
+"Leapfrog Didj",
+6,
+[]
+],
+[
+"View-Master Interactive Vision",
+6,
+[
+"VMIV"
+]
+],
+[
+"MoMA Eve",
+5,
+[]
+],
+[
+"Design Master Senshi Mangajukuu",
+5,
+[
+"Denshi Mangajuku",
+"Denshi Manga Juku",
+"Design Master"
+]
+],
+[
+"handheld TV game",
+5,
+[
+"Platform / Plug 'n' Play Game",
+"plug and play game",
+"plug-'n'-play game",
+"TV game"
+]
+],
+[
+"Famicom Titler",
+5,
+[
+"AN-510",
+"Famicom Editor"
+]
+],
+[
+"Pelican VG Pocket",
+5,
+[]
+],
+[
+"Xbox One X",
+5,
+[
+"One X",
+"Project Scorpio",
+"X One X",
+"XOne X"
+]
+],
+[
+"Panasonic Jungle",
+5,
+[
+"Jungle"
+]
+],
+[
+"Coleco Sonic",
+5,
+[
+"PlayPal",
+"Pocket Gear"
+]
+],
+[
+"Power Player Super Joy III",
+5,
+[
+"Power Games",
+"Power Joy",
+"Power Player",
+"XA-76-1E"
+]
+],
+[
+"Elektronika IM",
+5,
+[]
+],
+[
+"ApeXtreme",
+5,
+[
+"Apex Extreme"
+]
+],
+[
+"Atari 2700",
+5,
+[
+"Atari Remote Control VCS"
+]
+],
+[
+"Bandai LCD Solarpower",
+5,
+[
+"LCD Solarpower"
+]
+],
+[
+"Bandai RX-78",
+5,
+[
+"RX-78"
+]
+],
+[
+"TV Scoreboard",
+5,
+[
+"Radioshack TV Scoreboard",
+"RadioShack TV Scoreboard",
+"Tandy TV Scoreboard"
+]
+],
+[
+"Gameroom Tele-Pong (3047)",
+5,
+[
+"Entex Gameroom Tele-Pong",
+"ENTEX Gameroom Tele-Pong"
+]
+],
+[
+"Romtec Colorvision",
+5,
+[
+"Colorvision"
+]
+],
+[
+"Digi Casse",
+5,
+[]
+],
+[
+"Leapster",
+5,
+[]
+],
+[
+"Interton Video 2800",
+5,
+[
+"Video 2800"
+]
+],
+[
+"Xbox One S",
+5,
+[
+"X One S",
+"XOne S"
+]
+],
+[
+"Tandy Video Information System",
+5,
+[
+"Tandy VIS",
+"T VIS",
+"TVIS",
+"VIS"
+]
+],
+[
+"Tomytronic 3D",
+5,
+[]
+],
+[
+"PC-FXGA",
+4,
+[]
+],
+[
+"Anbernic RG351",
+4,
+[]
+],
+[
+"Indi One",
+4,
+[]
+],
+[
+"Cube World",
+4,
+[]
+],
+[
+"Thumby",
+4,
+[]
+],
+[
+"Video Challenger",
+4,
+[
+"Takara Video Challenger"
+]
+],
+[
+"Blip",
+4,
+[
+"Blip-o-Mat",
+"Blip-o-Matic",
+"Blip. THE DIGITAL GAME",
+"World Tennis"
+]
+],
+[
+"OneXPlayer",
+4,
+[]
+],
+[
+"Lenovo Legion Go",
+4,
+[]
+],
+[
+"MSI Claw A1M",
+4,
+[]
+],
+[
+"PS Vita Slim",
+4,
+[
+"PCH-2000 series",
+"PlayStation Vita 2000",
+"PS Vita PCH-2000",
+"PS Vita PCH-2000 series",
+"PS Vita slim"
+]
+],
+[
+"SNES-101",
+4,
+[
+"New-Style Super NES",
+"SNES 2",
+"SNES Jr.",
+"SNES Mini",
+"Super Famicom Jr."
+]
+],
+[
+"Nintendo 3DS family",
+4,
+[
+"N3DS family",
+"Nintendo 3DS line"
+]
+],
+[
+"Home video game console generations",
+4,
+[]
+],
+[
+"AirConsole",
+4,
+[]
+],
+[
+"CP System Changer",
+4,
+[
+"Capcom CPS Changer"
+]
+],
+[
+"PC-Engine Shuttle",
+4,
+[]
+],
+[
+"PC-Engine LT",
+4,
+[]
+],
+[
+"Super Famicom Naizou TV SF1",
+4,
+[
+"SF1",
+"SF1 SNES TV"
+]
+],
+[
+"ALF TV Game",
+4,
+[]
+],
+[
+"PlayStation Portable E1000",
+4,
+[
+"PlayStation Portable Street",
+"PSP-E1000"
+]
+],
+[
+"Atari Joystick Controller TV Video Game System",
+4,
+[
+"Atari Plug & Play TV Games 10-in-1"
+]
+],
+[
+"GPD Win 2",
+4,
+[]
+],
+[
+"Famicom Data Recorder",
+4,
+[]
+],
+[
+"NEO-GEO mini",
+4,
+[
+"NEO GEO mini",
+"NEOGEO mini"
+]
+],
+[
+"VTech Variety",
+4,
+[
+"Variety"
+]
+],
+[
+"Interton Video 2000",
+4,
+[
+"Video 2000"
+]
+],
+[
+"Magic table",
+4,
+[
+"Active Cues",
+"Tover tafel",
+"Tovertafel"
+]
+],
+[
+"Analogue Mega Sg",
+4,
+[
+"Analogue Mega SG",
+"Mega Sg",
+"Mega SG"
+]
+],
+[
+"VTech 3D Gamate",
+4,
+[]
+],
+[
+"Interton Video 3000",
+4,
+[
+"Video 3000"
+]
+],
+[
+"Interton Video 3001",
+4,
+[
+"Video 3001"
+]
+],
+[
+"Palladium Tele-Cassetten-Game",
+4,
+[
+"Tele-Cassetten-Game"
+]
+],
+[
+"Video 2400",
+4,
+[
+"Aureac videojuego color",
+"Interton Video 2400"
+]
+],
+[
+"Interton Video 2501",
+4,
+[
+"Video 2501"
+]
+],
+[
+"Wonder Wizard (7702)",
+4,
+[
+"7702",
+"FOR FAMILY TELEVISION SPORTS GAMES FUN!",
+"FOR FAMILY TELEVISION SPORTS GAMES FUN! Made in U.S.A."
+]
+],
+[
+"My Vision",
+4,
+[
+"Game System My Vision",
+"KH-1000"
+]
+],
+[
+"Pegasus",
+4,
+[]
+],
+[
+"Pixter",
+4,
+[]
+],
+[
+"SuFami Turbo",
+4,
+[]
+],
+[
+"CoreGrafX",
+4,
+[]
+],
+[
+"GPD Win Max",
+4,
+[]
+],
+[
+"Phantom system",
+3,
+[]
+],
+[
+"Evercade VS",
+3,
+[]
+],
+[
+"Ending-Man Terminator",
+3,
+[
+"Jippy",
+"Top Console"
+]
+],
+[
+"TRDR Pocket",
+3,
+[]
+],
+[
+"Retroid Pocket 2",
+3,
+[]
+],
+[
+"Etch A Sketch Animator 2000",
+3,
+[
+"Animator 2000"
+]
+],
+[
+"Ayn Odin",
+3,
+[
+"AYN Odin"
+]
+],
+[
+"Wikipad",
+3,
+[]
+],
+[
+"PV-2000",
+3,
+[
+"Casio PV-2000",
+"RakuGaki"
+]
+],
+[
+"Nintendo Entertainment System models",
+3,
+[]
+],
+[
+"GPD Win 4",
+3,
+[]
+],
+[
+"Red Jade",
+3,
+[]
+],
+[
+"Atari Flashback Portable",
+3,
+[]
+],
+[
+"Analogue 3D",
+3,
+[]
+],
+[
+"Nintendo Switch family",
+3,
+[
+"Nintendo Switch line",
+"Nintendo Switch series",
+"Switch family",
+"Switch line",
+"Switch series"
+]
+],
+[
+"Nex Playground",
+3,
+[]
+],
+[
+"JXD S5100",
+3,
+[]
+],
+[
+"DragonBox Pyra",
+3,
+[]
+],
+[
+"PlayStation 2 models",
+3,
+[
+"PS2 models",
+"Sony PlayStation 2 models",
+"Sony PS2 models"
+]
+],
+[
+"SG-1000 II",
+3,
+[]
+],
+[
+"Game Boy Advance family",
+3,
+[
+"Game Boy Advance line",
+"Game Boy Advance product family",
+"Game Boy Advance product line",
+"Game Boy Advance product series",
+"Game Boy Advance series",
+"GBA family",
+"GBA line",
+"GBA product family",
+"GBA product line",
+"GBA product series",
+"GBA series"
+]
+],
+[
+"Gemei X760+",
+3,
+[]
+],
+[
+"Playmaster",
+3,
+[]
+],
+[
+"ZX Spectrum Vega+",
+3,
+[
+"ZX Spectrum Vega plus",
+"ZX Spectrum Vega Plus"
+]
+],
+[
+"Swinxs",
+3,
+[]
+],
+[
+"Analogue NT",
+3,
+[]
+],
+[
+"Analogue Nt mini",
+3,
+[
+"Nt mini",
+"Nt mini Noir"
+]
+],
+[
+"Color TV-Game 15",
+3,
+[
+"Color TV Game 15",
+"CTG-15S",
+"CTG-15V",
+"TV Game 15",
+"TV-Game 15"
+]
+],
+[
+"Color TV-Game 6",
+3,
+[
+"Color TV Game",
+"Color TV-Game",
+"Color TV Game 6",
+"CTG-6S",
+"CTG-6V",
+"TV Game 6",
+"TV-Game 6",
+"XG-106",
+"XG-106V"
+]
+],
+[
+"Color TV Game Block Breaker",
+3,
+[
+"Block Breaker",
+"Block Kuzushi",
+"Color TVgame Block Breaker",
+"Color TV-Game Block Breaker",
+"Color TVgame Block Kuzushi",
+"Color TV Game Block Kuzushi",
+"Color TV-Game Block Kuzushi",
+"CTG-BK 6",
+"CTG-BK6",
+"TVgame Block Breaker",
+"TV Game Block Breaker",
+"TV-Game Block Breaker"
+]
+],
+[
+"Color TV-Game Racing 112",
+3,
+[
+"Color TVgame Racing 112",
+"Color TV Game Racing 112",
+"CTG-CR112",
+"Racing 112",
+"TVgame Racing 112",
+"TV Game Racing 112",
+"TV-Game Racing 112"
+]
+],
+[
+"Computer TV-Game",
+3,
+[]
+],
+[
+"Nintendo M82",
+3,
+[]
+],
+[
+"Taito WoWoW",
+3,
+[]
+],
+[
+"FC Twin",
+3,
+[
+"FC X2"
+]
+],
+[
+"Hanimex HMG-7900",
+3,
+[
+"Soundic SD-200"
+]
+],
+[
+"Xbox 360 S",
+3,
+[]
+],
+[
+"Analogue Super Nt",
+3,
+[
+"Super Nt"
+]
+],
+[
+"Family Computer",
+3,
+[
+"Famicom",
+"FC"
+]
+],
+[
+"Control-Vision",
+3,
+[
+"NEMO"
+]
+],
+[
+"Dina",
+3,
+[
+"Chuang Zao Zhe 50",
+"Telegames Personal Arcade"
+]
+],
+[
+"Archos GamePad",
+3,
+[]
+],
+[
+"Game Gadget",
+3,
+[
+"GameGadget",
+"GG"
+]
+],
+[
+"Sega Master System II",
+3,
+[]
+],
+[
+"HYDRA Game Development Kit",
+3,
+[]
+],
+[
+"LeapTV",
+3,
+[
+"LeapTV VCD"
+]
+],
+[
+"LJN Video Art",
+3,
+[]
+],
+[
+"Leapster Explorer",
+3,
+[
+"LeadPad Explorer"
+]
+],
+[
+"Leisure Vision",
+3,
+[
+"Leisure-Vision"
+]
+],
+[
+"Sifteo cubes",
+3,
+[]
+],
+[
+"Visteon Dockable Entertainment",
+3,
+[]
+],
+[
+"Toio",
+3,
+[]
+],
+[
+"PlayStation 4 Slim",
+3,
+[
+"PS4 Slim",
+"Sony PlayStation 4 Slim",
+"Sony PS4 Slim"
+]
+],
+[
+"PlayStation 3 Slim",
+3,
+[
+"PS3 Slim",
+"Sony PlayStation 3 Slim",
+"Sony PS3 Slim"
+]
+],
+[
+"Tele-Fever",
+3,
+[
+"Tchibo tele-fever",
+"Tchibo Tele-Fever",
+"tele-fever"
+]
+],
+[
+"Gamebuino",
+3,
+[
+"Gamebuino Classic",
+"GB"
+]
+],
+[
+"Dynavision",
+2,
+[]
+],
+[
+"ODROID-GO",
+2,
+[]
+],
+[
+"PoGa",
+2,
+[
+"Portable Game Development Console Kit"
+]
+],
+[
+"Sportronic",
+2,
+[
+"Sportronic - Electronic TV Sport"
+]
+],
+[
+"Egret II Mini",
+2,
+[
+"EgretII Mini"
+]
+],
+[
+"Retro Freak",
+2,
+[]
+],
+[
+"MiSTer",
+2,
+[
+"MiST on Terasic board"
+]
+],
+[
+"Nintendo Advanced Video System",
+2,
+[
+"Advanced Video System",
+"AVS",
+"Nintendo AVS"
+]
+],
+[
+"Pokitto",
+2,
+[]
+],
+[
+"Polymega",
+2,
+[
+"RetroBlox"
+]
+],
+[
+"PIECE",
+2,
+[
+"P/ECE"
+]
+],
+[
+"TV JACK",
+2,
+[
+"Bandai TV Jack"
+]
+],
+[
+"Computerized Ping Pong kit",
+2,
+[
+"Visulex Electronic Game Kit"
+]
+],
+[
+"Indrema L600",
+2,
+[
+"IES",
+"Indrema Entertainment System",
+"L600"
+]
+],
+[
+"Meggy Jr RGB",
+2,
+[]
+],
+[
+"Othello Multivision",
+2,
+[
+"FG-1000"
+]
+],
+[
+"TV Block",
+2,
+[]
+],
+[
+"Logitech G CLOUD gaming handheld",
+2,
+[
+"Logitech G CLOUD"
+]
+],
+[
+"Creoqode 2048",
+2,
+[]
+],
+[
+"Evercade EXP",
+2,
+[]
+],
+[
+"CircuitMess Nibble",
+2,
+[]
+],
+[
+"ESPboy",
+2,
+[]
+],
+[
+"Spartan",
+2,
+[]
+],
+[
+"THEC64 Mini",
+2,
+[
+"C64 Mini"
+]
+],
+[
+"nD",
+2,
+[]
+],
+[
+"Kitronik GameZip 64",
+2,
+[]
+],
+[
+"Clockwork GameShell",
+2,
+[]
+],
+[
+"Razer Forge TV",
+2,
+[]
+],
+[
+"Retro Duo",
+2,
+[]
+],
+[
+"OneXPlayer 2",
+2,
+[]
+],
+[
+"Atari 2600+",
+2,
+[
+"Atari 2600 Plus"
+]
+],
+[
+"AYANEO Slide",
+2,
+[]
+],
+[
+"Tassei Denki Project Nadeshiko",
+2,
+[]
+],
+[
+"Super Pocket",
+2,
+[]
+],
+[
+"Zuiki X68000 Z",
+2,
+[]
+],
+[
+"TV-18 (Mega 52080-3)",
+2,
+[
+"TV Color 18 spannende Fernsehspiele"
+]
+],
+[
+"Telstar Alpha",
+2,
+[
+"Coleco Telstar Alpha"
+]
+],
+[
+"Combat!",
+2,
+[
+"Coleco Combat!",
+"Coleco Telstar Combat!",
+"Telstar Combat!"
+]
+],
+[
+"Telstar Classic",
+2,
+[
+"Coleco Telstar Classic",
+"Telstar Classic (Model 6045)"
+]
+],
+[
+"Telstar Colortron",
+2,
+[
+"Coleco Telstar Colortron"
+]
+],
+[
+"Telstar Ranger",
+2,
+[
+"Coleco Telstar Ranger"
+]
+],
+[
+"Telstar Colormatic",
+2,
+[
+"Coleco Telstar Colormatic"
+]
+],
+[
+"T-338",
+2,
+[
+"Jeu T.V. T-338"
+]
+],
+[
+"Hanimex 666",
+2,
+[
+"666",
+"666p",
+"666s",
+"666s-n",
+"666s-p"
+]
+],
+[
+"677",
+2,
+[
+"677CG",
+"677CP",
+"Hanimex 677"
+]
+],
+[
+"Commodore TV Game 2000K",
+2,
+[]
+],
+[
+"XGP Kids",
+2,
+[
+"GP Kids"
+]
+],
+[
+"GamePop",
+2,
+[]
+],
+[
+"Net Jet",
+2,
+[]
+],
+[
+"Super Retro Trio",
+2,
+[]
+],
+[
+"Magic Computer",
+2,
+[
+"Magic Computer PC 95"
+]
+],
+[
+"Philips Videopac G7200",
+2,
+[]
+],
+[
+"Retro VGS",
+2,
+[
+"Chameleon",
+"Chameleon (video game console)",
+"Coleco Chameleon",
+"Retro Chameleon"
+]
+],
+[
+"Gemei A330",
+2,
+[]
+],
+[
+"Konami Picno",
+2,
+[]
+],
+[
+"Natami",
+2,
+[]
+],
+[
+"hybrid video game console",
+2,
+[
+"hybrid console",
+"hybrid game console"
+]
+],
+[
+"Playervision",
+2,
+[
+"Game Stick",
+"Play Stick"
+]
+],
+[
+"PocketFami",
+2,
+[
+"Pocket Famicom"
+]
+],
+[
+"Commodore TV Game 2000K and Commodore TV Game 3000H",
+2,
+[]
+],
+[
+"Neo Geo CDZ",
+2,
+[]
+],
+[
+"Brown Box",
+2,
+[]
+],
+[
+"QUMO gamebox",
+2,
+[]
+],
+[
+"Ritmix RZX-50",
+2,
+[]
+],
+[
+"Auto Slalom",
+2,
+[
+"Elektronika IM-23"
+]
+],
+[
+"Electronika IM-26",
+2,
+[
+"Электроника ИМ-26"
+]
+],
+[
+"Action Gamemaster",
+2,
+[]
+],
+[
+"Atari",
+2,
+[]
+],
+[
+"MegaVision",
+2,
+[
+"Mega Master"
+]
+],
+[
+"CT310",
+2,
+[
+"eBox",
+"iSec"
+]
+],
+[
+"Family game",
+2,
+[]
+],
+[
+"Tomahawk F1",
+2,
+[
+"Fuse Tomahawk F1",
+"Fuze Tomahawk F1"
+]
+],
+[
+"Dingoo A330",
+2,
+[]
+],
+[
+"PreComputer 1000",
+2,
+[
+"VTech PreComputer 1000"
+]
+],
+[
+"Pong (model C-100)",
+2,
+[
+"HOME-PONG"
+]
+],
+[
+"JXD 1000",
+2,
+[
+"JXD1000"
+]
+],
+[
+"XGP Mini",
+2,
+[]
+],
+[
+"Stunt Cycle (C-450)",
+2,
+[
+"C-450",
+"MODEL SC-450",
+"SC-450"
+]
+],
+[
+"Apple Bandai Pippin",
+2,
+[
+"Apple Pippin",
+"PiP P!N"
+]
+],
+[
+"Neo Geo AES",
+2,
+[
+"Advanced Entertainment System",
+"Neo Geo Advanced Entertainment System"
+]
+],
+[
+"Tele-Spiel ES 2201",
+2,
+[
+"Philips Tele-Spiel ES 2201"
+]
+],
+[
+"TV JACK 5000",
+2,
+[]
+],
+[
+"N-Joypad",
+2,
+[]
+],
+[
+"Teletenis Multijuegos",
+2,
+[]
+],
+[
+"Razer Switchblade",
+2,
+[]
+],
+[
+"Capcom Home Arcade",
+2,
+[]
+],
+[
+"Terminator",
+2,
+[]
+],
+[
+"VTech PreComputer 2000",
+2,
+[
+"Genius Leader 2000",
+"Genius Leader 2000 Plus"
+]
+],
+[
+"Neo Geo Arcade Stick Pro",
+2,
+[]
+],
+[
+"PlayStation 3 Super Slim",
+2,
+[
+"PS3 Super Slim",
+"Sony PlayStation 3 Super Slim",
+"Sony PS3 Super Slim"
+]
+],
+[
+"Super TV-Boy",
+2,
+[
+"Super TV Boy",
+"TV-Boy III"
+]
+],
+[
+"PlayStation 5 Digital Edition",
+2,
+[
+"PS5 Digital Edition",
+"Sony PlayStation 5 Digital Edition",
+"Sony PS5 Digital Edition"
+]
+],
+[
+"PlayJam OTT",
+2,
+[
+"Play Jam OTT",
+"PlayJam Portable Media Console"
+]
+],
+[
+"ProScreen",
+2,
+[]
+],
+[
+"Sega Astro City Mini",
+2,
+[]
+],
+[
+"TV Sport (SD-03-3)",
+1,
+[]
+],
+[
+"Star Chess",
+1,
+[]
+],
+[
+"TVG 201-4",
+1,
+[]
+],
+[
+"Colour Programagame",
+1,
+[]
+],
+[
+"Color TV Sports TVG-406-6",
+1,
+[
+"Color TV Sports 406",
+"Color video spiel (on the box)"
+]
+],
+[
+"PlayStation 4",
+1,
+[
+"PS4",
+"PS4 (original)"
+]
+],
+[
+"POP Station",
+1,
+[]
+],
+[
+"TGP Box",
+1,
+[
+"Tencent Games Platform Box"
+]
+],
+[
+"Hyperkin RetroN 77",
+1,
+[
+"RetroN 77"
+]
+],
+[
+"Hyperkin RetroN 5",
+1,
+[]
+],
+[
+"Hyperkin Retron 1",
+1,
+[
+"Hyperkin FC Loader"
+]
+],
+[
+"Razer Edge",
+1,
+[
+"Razer Edge (2013)",
+"Razer Edge (2022)"
+]
+],
+[
+"Casio MG-880",
+1,
+[]
+],
+[
+"PlayStation 6",
+1,
+[
+"PS6",
+"Sony PlayStation 6",
+"Sony PS6"
+]
+],
+[
+"Atari Lynx II",
+1,
+[
+"Atari Lynx 2",
+"Lynx 2",
+"Lynx II"
+]
+],
+[
+"Sega Wondermega",
+1,
+[
+"Wondermega"
+]
+],
+[
+"Luxor Video Entertainment Computer",
+1,
+[]
+],
+[
+"Splice Vision",
+1,
+[
+"Splicevision"
+]
+],
+[
+"Cyber Arcade TV Barbie",
+1,
+[
+"JL2500BB",
+"Lexibook Cyber Arcade TV Barbie"
+]
+],
+[
+"Famikonyarou",
+1,
+[]
+],
+[
+"Tomy Kiss Site",
+1,
+[]
+],
+[
+"Maikon Mahjong",
+1,
+[
+"eMuCom Mahjong"
+]
+],
+[
+"Pyūta Jr",
+1,
+[
+"Pyuta Jr"
+]
+],
+[
+"Connor Videosmarts",
+1,
+[]
+],
+[
+"Otoko Attack System",
+1,
+[]
+],
+[
+"Atari Mirai",
+1,
+[]
+],
+[
+"Кроха",
+1,
+[]
+],
+[
+"New Wave Z400S",
+1,
+[
+"J.Cock New Wave Z400S"
+]
+],
+[
+"Toaster VR",
+1,
+[
+"Hasbro Toaster VR",
+"Rush",
+"Sliced Bread Project",
+"Xscape"
+]
+],
+[
+"SNK NeoStar",
+1,
+[]
+],
+[
+"Pocket Neopet",
+1,
+[]
+],
+[
+"iQuest",
+1,
+[]
+],
+[
+"ODROID",
+1,
+[]
+],
+[
+"Mignon",
+1,
+[]
+],
+[
+"Mignonette",
+1,
+[]
+],
+[
+"DIFRNCE MGC01",
+1,
+[
+"MGC01"
+]
+],
+[
+"Teachermate",
+1,
+[]
+],
+[
+"Ocelot Arcade System",
+1,
+[]
+],
+[
+"Polium One",
+1,
+[]
+],
+[
+"TV Game System 10",
+1,
+[
+"TV Game System 10 - M2"
+]
+],
+[
+"TV Baseball",
+1,
+[
+"Epoch TV-Baseball"
+]
+],
+[
+"VISICOM",
+1,
+[
+"VISICOM C-100"
+]
+],
+[
+"Video Driver",
+1,
+[
+"Family Driver"
+]
+],
+[
+"Arcade Legends Sega Genesis",
+1,
+[
+"Arcade Legends Sega Mega Drive"
+]
+],
+[
+"Playpulse One",
+1,
+[
+"Playpulse 1"
+]
+],
+[
+"Gameboard",
+1,
+[]
+],
+[
+"Tovertafel 2",
+1,
+[
+"Magic Table 2"
+]
+],
+[
+"Play! Remote",
+1,
+[]
+],
+[
+"Light Pong",
+1,
+[]
+],
+[
+"InWin 309 Gaming Edition",
+1,
+[
+"InWin 306 GE"
+]
+],
+[
+"LaserCube",
+1,
+[]
+],
+[
+"Bud Light BL6",
+1,
+[
+"BL6",
+"Bud-Light BL6"
+]
+],
+[
+"Kittenbot MeowBit",
+1,
+[]
+],
+[
+"Gem Boy Zero",
+1,
+[]
+],
+[
+"Circuit Gem",
+1,
+[]
+],
+[
+"microByte",
+1,
+[]
+],
+[
+"Kitronik Arcade",
+1,
+[]
+],
+[
+"AYA Neo 2021 Pro",
+1,
+[]
+],
+[
+"GPD XP",
+1,
+[]
+],
+[
+"Creoqode LYRA",
+1,
+[]
+],
+[
+"Creoqode PYXA",
+1,
+[]
+],
+[
+"Miyoo Mini",
+1,
+[]
+],
+[
+"Atari Flashback 9 Gold",
+1,
+[]
+],
+[
+"Monon Color",
+1,
+[]
+],
+[
+"Gamebuino Meta",
+1,
+[]
+],
+[
+"MAKERbuino",
+1,
+[]
+],
+[
+"Retroid Pocket 2+",
+1,
+[]
+],
+[
+"Retroid Pocket 3",
+1,
+[]
+],
+[
+"PocketStar",
+1,
+[]
+],
+[
+"Asterisk",
+1,
+[]
+],
+[
+"TinyPi",
+1,
+[]
+],
+[
+"TinyTan BTS Tamagotchi",
+1,
+[]
+],
+[
+"GameForce CHI",
+1,
+[]
+],
+[
+"FunKey S",
+1,
+[]
+],
+[
+"32blit",
+1,
+[
+"PIM535"
+]
+],
+[
+"Pimoroni PicoSystem",
+1,
+[
+"PicoSystem",
+"PIM559"
+]
+],
+[
+"Subor Z+",
+1,
+[]
+],
+[
+"Open Game Station",
+1,
+[]
+],
+[
+"Sega Astro City Mini V",
+1,
+[
+"Astro City Mini 5",
+"Astro City Mini V"
+]
+],
+[
+"Mad Box",
+1,
+[]
+],
+[
+"Warrior 64",
+1,
+[]
+],
+[
+"weecee",
+1,
+[]
+],
+[
+"Hyperkin RetroN Sq",
+1,
+[
+"Hyperkin RetroN Jr",
+"Hyperkin RetroN Jr.",
+"RetroN Jr",
+"RetroN Jr.",
+"RetroN Sq"
+]
+],
+[
+"PiCade",
+1,
+[]
+],
+[
+"Bootleg",
+1,
+[]
+],
+[
+"Roshambo Retro Gaming Kit",
+1,
+[]
+],
+[
+"unnamed SNK console",
+1,
+[]
+],
+[
+"GameBlender",
+1,
+[]
+],
+[
+"Moranbong",
+1,
+[]
+],
+[
+"Unu",
+1,
+[
+"Snakebyte Gamepad"
+]
+],
+[
+"Yinlips YDP-G18",
+1,
+[]
+],
+[
+"Namco Museum Mini Player",
+1,
+[]
+],
+[
+"MintyPi",
+1,
+[]
+],
+[
+"Adafruit PyGamer",
+1,
+[
+"PyGamer"
+]
+],
+[
+"unnamed Amazon console",
+1,
+[]
+],
+[
+"Asus Gamebox",
+1,
+[]
+],
+[
+"OUYE",
+1,
+[]
+],
+[
+"Huawei Tron",
+1,
+[]
+],
+[
+"Analogue CMVS",
+1,
+[
+"A CMVS"
+]
+],
+[
+"Cary42",
+1,
+[]
+],
+[
+"Slow Games",
+1,
+[]
+],
+[
+"InnoTV",
+1,
+[]
+],
+[
+"ZRRO",
+1,
+[]
+],
+[
+"SlimPort Nano Console",
+1,
+[
+"SlimPort NANO.CONSOLE"
+]
+],
+[
+"Xtreamer Multi-Console",
+1,
+[]
+],
+[
+"miniStation",
+1,
+[]
+],
+[
+"ZTE Fun Box",
+1,
+[]
+],
+[
+"PasocomMini PC-8001",
+1,
+[]
+],
+[
+"Intellivision TV Play Power",
+1,
+[]
+],
+[
+"PasocomMini MZ-80C",
+1,
+[]
+],
+[
+"Retro-Bit Generations",
+1,
+[]
+],
+[
+"PC Classic",
+1,
+[]
+],
+[
+"THEC64",
+1,
+[]
+],
+[
+"GP2X F100",
+1,
+[]
+],
+[
+"GP2X F200",
+1,
+[]
+],
+[
+"RetroUSB-AVS",
+1,
+[
+"retroUSB AVS"
+]
+],
+[
+"Analogue Duo",
+1,
+[]
+],
+[
+"Amazon Glow",
+1,
+[]
+],
+[
+"Giocattolo TV Colour Game T-106C",
+1,
+[]
+],
+[
+"T-338 TV game",
+1,
+[]
+],
+[
+"T-800",
+1,
+[]
+],
+[
+"10 Exciting Games (T-110 C)",
+1,
+[]
+],
+[
+"Colour TV Game, T-338C",
+1,
+[
+"Colour TV Game",
+"T-338C"
+]
+],
+[
+"Hammerstein TV Games (Model no 702)",
+1,
+[
+"Teleplay Model no 710",
+"Teleplay TV Games"
+]
+],
+[
+"AllOrgan 3000",
+1,
+[
+"Sands 2200"
+]
+],
+[
+"Video Game (D5614)",
+1,
+[
+"Sharleen D5614"
+]
+],
+[
+"Nintendo Switch – OLED Model The Legend of Zelda™: Tears of the Kingdom Edition",
+1,
+[]
+],
+[
+"Tele-Match Cassette B",
+1,
+[]
+],
+[
+"Tele-Match Cassette (French, SECAM)",
+1,
+[]
+],
+[
+"Tele-Match (paddle)",
+1,
+[
+"Tele-Match Cassette A"
+]
+],
+[
+"Teletenis Compact Color Video Game",
+1,
+[]
+],
+[
+"Teletenis Mini",
+1,
+[]
+],
+[
+"Teletenis compact",
+1,
+[]
+],
+[
+"Hobby-Kit Video-Sport",
+1,
+[]
+],
+[
+"NovoKit 2015",
+1,
+[]
+],
+[
+"Video Play",
+1,
+[]
+],
+[
+"Mini 300",
+1,
+[]
+],
+[
+"Odyssey 2000",
+1,
+[
+"Philips Odyssey 2000"
+]
+],
+[
+"Color (model TVG 57253)",
+1,
+[]
+],
+[
+"TV Game-programmable SD-070",
+1,
+[]
+],
+[
+"History of Wii",
+1,
+[]
+],
+[
+"Secam Systeme Vidéo Cassettes",
+1,
+[]
+],
+[
+"(V) Difa",
+1,
+[
+"Difa"
+]
+],
+[
+"Lenovo Legion Play",
+1,
+[]
+],
+[
+"LaVie Mini",
+1,
+[]
+],
+[
+"AOKZOE A1 Pro",
+1,
+[
+"AOKZOE A1Pro"
+]
+],
+[
+"Telemaster T-1200",
+1,
+[]
+],
+[
+"Telemaster T-1000",
+1,
+[]
+],
+[
+"TV Colour Game T-104C",
+1,
+[]
+],
+[
+"Video game SD-01 (TV sport) (4 games model)",
+1,
+[]
+],
+[
+"TV Game (TVG901 4 games)",
+1,
+[]
+],
+[
+"Multi-TV-Game HF344",
+1,
+[]
+],
+[
+"Pong & Tank (T-5081A)",
+1,
+[]
+],
+[
+"Tassei Denki Saturn display model",
+1,
+[]
+],
+[
+"AYANEO Flip",
+1,
+[]
+],
+[
+"Retroid Pocket Flip",
+1,
+[]
+],
+[
+"Retroid Pocket 3+",
+1,
+[]
+],
+[
+"Tele-Sports (6 games model)",
+1,
+[]
+],
+[
+"Telesport Color 6 juegos",
+1,
+[]
+],
+[
+"MARS FPGA",
+1,
+[]
+],
+[
+"M17",
+1,
+[]
+],
+[
+"Anbernic RG ARC",
+1,
+[]
+],
+[
+"Pimoroni PicoVison",
+1,
+[
+"Pimoroni DV Stick"
+]
+],
+[
+"Tassei Denki Project RadaR",
+1,
+[
+"Project Radar"
+]
+],
+[
+"Telemaster T-800",
+1,
+[]
+],
+[
+"TVG-868 - Video Sports - Programmable TV Game",
+1,
+[]
+],
+[
+"TV Sport EP-800",
+1,
+[
+"Topaz TV Sport EP-800"
+]
+],
+[
+"Parat TV Sport (XY 11)",
+1,
+[
+"TV sport",
+"TV Sport by technigraph"
+]
+],
+[
+"Sega CD 32X",
+1,
+[
+"Sega 32X CD"
+]
+],
+[
+"Philips CD-i 210",
+1,
+[]
+],
+[
+"Master System III",
+1,
+[]
+],
+[
+"TVG 268-8 (B&W)",
+1,
+[]
+],
+[
+"TVG 468-10",
+1,
+[]
+],
+[
+"Telegioca match 1",
+1,
+[
+"Video Play 707"
+]
+],
+[
+"Alex Video Spiel TG-621",
+1,
+[]
+],
+[
+"Asaflex 6",
+1,
+[
+"6"
+]
+],
+[
+"TV Sports TG-621",
+1,
+[]
+],
+[
+"PP-800",
+1,
+[]
+],
+[
+"Jeu-Tele Electronique Modèle 7771",
+1,
+[
+"7771"
+]
+],
+[
+"The 400 Mini",
+1,
+[
+"The400 Mini",
+"THE400 Mini"
+]
+],
+[
+"OneStation",
+1,
+[]
+],
+[
+"Colour Video Sport",
+1,
+[]
+],
+[
+"Nicole 4A8",
+1,
+[]
+],
+[
+"MyArcade Gamer V",
+1,
+[]
+],
+[
+"SD-05 Programmable TV-game",
+1,
+[]
+],
+[
+"TVG-846CP",
+1,
+[]
+],
+[
+"Home Video Game (TP-1000E)",
+1,
+[]
+],
+[
+"Inno Hit (TTL7400 series) Pong console",
+1,
+[]
+],
+[
+"PP-820 (208-8 C)",
+1,
+[
+"208-8 C",
+"PP-820"
+]
+],
+[
+"Juegos TV color",
+1,
+[
+"DESAL J-3 Color"
+]
+],
+[
+"Strong Sport TV Game",
+1,
+[]
+],
+[
+"Telesport 5 juegos",
+1,
+[]
+],
+[
+"TV Multi-Spiel (Mod. PT 1/Q)",
+1,
+[]
+],
+[
+"TV Sports SD-045",
+1,
+[]
+],
+[
+"TV Sports SD-04 46",
+1,
+[
+"SD-04  (bike-pong-target)"
+]
+],
+[
+"PlayStation 3 60GB",
+1,
+[
+"CECHAxx"
+]
+],
+[
+"TV Jogo 3",
+1,
+[]
+],
+[
+"Telegame 4002",
+1,
+[]
+],
+[
+"Xbox 360 Elite",
+1,
+[]
+],
+[
+"TVG 4711-5",
+1,
+[
+"TVG 4711-5 (Pong&Tank)"
+]
+],
+[
+"Video Game TVG 204-4",
+1,
+[]
+],
+[
+"Telegioco Color",
+1,
+[]
+],
+[
+"Xbox handheld",
+1,
+[
+"Xbox Ally"
+]
+],
+[
+"Xbox Ally series",
+1,
+[
+"Xbox Ally",
+"Xbox Ally X"
+]
+],
+[
+"handheld console",
+1,
+[
+"Gaming handheld",
+"Mobile console",
+"Portable console"
+]
+],
+[
+"Olympic Home TV Game (VM 3 MK II)",
+1,
+[]
+],
+[
+"Sup Game Box",
+1,
+[
+"Sup Game-Box"
+]
+],
+[
+"Telejuego Color (Valkit 108)",
+1,
+[]
+],
+[
+"V.Smile Pocket",
+1,
+[]
+],
+[
+"Telstar Gemini",
+1,
+[
+"Coleco Telstar Gemini"
+]
+],
+[
+"NEOFAMI",
+1,
+[]
+],
+[
+"game calculator",
+1,
+[
+"calculator game"
+]
+],
+[
+"Shield",
+1,
+[]
+],
+[
+"JXD 3000",
+1,
+[]
+],
+[
+"MPT-05",
+1,
+[]
+],
+[
+"Handy FamiEight",
+1,
+[]
+],
+[
+"SD-070 (programmable TV-game console)",
+1,
+[]
+],
+[
+"Home Vision Computer System",
+1,
+[]
+],
+[
+"Neo Geo MVS",
+1,
+[
+"Multi Video System",
+"Multi-Video System",
+"MVS",
+"Neo-Geo MVS",
+"SNK Neo Geo MVS"
+]
+],
+[
+"Hyperkin SupaBoy",
+1,
+[
+"SupaBoy"
+]
+],
+[
+"Super Famicom Box",
+1,
+[]
+],
+[
+"Odyssey 2100",
+1,
+[
+"Philips Odyssey 2100"
+]
+],
+[
+"Megadrive Portable",
+1,
+[]
+],
+[
+"Ritmix RZX-40",
+1,
+[]
+],
+[
+"Pong-style video games",
+1,
+[]
+],
+[
+"Mickey Mouse",
+1,
+[
+"Elektronika 24-01"
+]
+],
+[
+"Cheerful Cook",
+1,
+[
+"Elektronika IM-04"
+]
+],
+[
+"Hockey",
+1,
+[
+"Elektronika IM-10"
+]
+],
+[
+"Colorsport VIII (CS1818)",
+1,
+[]
+],
+[
+"Dream Life",
+1,
+[]
+],
+[
+"Yinlips YDP-G19",
+1,
+[
+"YDP-G19"
+]
+],
+[
+"Super Game Boy 2",
+1,
+[
+"Super Game Boy II"
+]
+],
+[
+"Grandstand Light Games",
+1,
+[
+"Light Games"
+]
+],
+[
+"PasoGo",
+1,
+[]
+],
+[
+"K's Kids K-Magic",
+1,
+[
+"K-Magic"
+]
+],
+[
+"Fisher Price iXL",
+1,
+[]
+],
+[
+"Odyssey 200",
+1,
+[]
+],
+[
+"Odyssey 400",
+1,
+[]
+],
+[
+"Odyssey 500",
+1,
+[
+"Model 7520"
+]
+],
+[
+"Odyssey 3000",
+1,
+[
+"Model 7508"
+]
+],
+[
+"Odyssey 4000",
+1,
+[
+"Model 7511"
+]
+],
+[
+"Telstar",
+1,
+[
+"Telstar (model 6040)"
+]
+],
+[
+"Tele-Games Pong (model 25796)",
+1,
+[]
+],
+[
+"Super Pong (C-140)",
+1,
+[
+"Atari Super Pong",
+"C-140",
+"Super Pong"
+]
+],
+[
+"Super Pong Ten (C-180)",
+1,
+[]
+],
+[
+"Zelda",
+1,
+[
+"1989 Game & Watch Zelda",
+"1989 Zelda"
+]
+],
+[
+"Tele-Ball VII",
+1,
+[
+"MBO Tele Ball 7",
+"MBO tele-ball VII"
+]
+],
+[
+"Tele-Games Pinball Breakaway (99713)",
+1,
+[
+"(99704)"
+]
+],
+[
+"Tele-Spiel ES 2204",
+1,
+[]
+],
+[
+"Tele-Spiel ES 2207 Travemünde",
+1,
+[]
+],
+[
+"Tele-Spiel ES 2208 Las Vegas super color",
+1,
+[]
+],
+[
+"Tele-Spiel ES 2218 Las Vegas",
+1,
+[]
+],
+[
+"Videojeu N20",
+1,
+[]
+],
+[
+"Videojeu N30",
+1,
+[]
+],
+[
+"Video Games V.G.2",
+1,
+[]
+],
+[
+"PG-7 Programmable TV Games",
+1,
+[]
+],
+[
+"C4003 (52078-02 MEGA, 52044)",
+1,
+[
+"4003 (B/W)",
+"C4003 (52044)",
+"C4003 (52078-02 MEGA)",
+"C4003 (colors)"
+]
+],
+[
+"C-4016 (52074  MEGA)",
+1,
+[]
+],
+[
+"C-4010",
+1,
+[]
+],
+[
+"Jeu electronic televise TO 2",
+1,
+[]
+],
+[
+"Jeu electronic televise TO 3",
+1,
+[]
+],
+[
+"Commodore TV Game 3000H",
+1,
+[]
+],
+[
+"TVG-3600 1/MKII/MKIII",
+1,
+[]
+],
+[
+"TV Game Adman 2000",
+1,
+[
+"Adman 2000",
+"TV Game 2000"
+]
+],
+[
+"TV-Multi-spiel 2006",
+1,
+[]
+],
+[
+"TV-Multi Spiel 2004",
+1,
+[]
+],
+[
+"Micro 14 14NT320",
+1,
+[]
+],
+[
+"Color-Multi-Spiel 4004",
+1,
+[]
+],
+[
+"Multi-Spiel Color",
+1,
+[
+"Color Multispiel (on the box)",
+"Multi-Spiel Color (012.4511)"
+]
+],
+[
+"Visiomatic 101",
+1,
+[
+"Visiomat 11"
+]
+],
+[
+"OC 5000",
+1,
+[]
+],
+[
+"Match Junior/Robot - Occitel 2",
+1,
+[
+"Match Junior",
+"Match Robot"
+]
+],
+[
+"OC 6000",
+1,
+[]
+],
+[
+"OC 7000 Bataille de Tanks",
+1,
+[]
+],
+[
+"Video game SD-01 (TV sport) (6 games model)",
+1,
+[
+"Soundic  TV Sports (6 games)",
+"TVG SD-01 (6 games)",
+"TV Sports (6 games)"
+]
+],
+[
+"Programmable TV-Game Console SD-050 / SD-05 / SD-050S",
+1,
+[
+"SD-05",
+"SD-050",
+"SD-050S"
+]
+],
+[
+"TV Scoreboard 60-3056",
+1,
+[]
+],
+[
+"TV Scoreboard 60-3061",
+1,
+[]
+],
+[
+"tele-sports III",
+1,
+[]
+],
+[
+"Tele-sports mini",
+1,
+[
+"Television Game 513"
+]
+],
+[
+"TV Game TVG-621",
+1,
+[]
+],
+[
+"Xbox One S All-Digital Edition",
+1,
+[
+"One S All-Digital Edition",
+"Xbox One S ADE",
+"X One S All-Digital Edition",
+"XOne S All-Digital Edition"
+]
+],
+[
+"Xbox One",
+1,
+[
+"Xbox One (original)",
+"Xbox One VCR"
+]
+],
+[
+"Video Cassette Rock",
+1,
+[
+"CTV-8600",
+"TG-95-01",
+"ビデオカセッティ・ロック"
+]
+],
+[
+"TV Master Mark II",
+1,
+[]
+],
+[
+"Videosport",
+1,
+[
+"ВИДЕО СПОРТ"
+]
+],
+[
+"TVG-203",
+1,
+[]
+],
+[
+"Elektronikus TV játék",
+1,
+[
+"TV Game"
+]
+],
+[
+"Gamatic 7706 (model with reset and serve on the controllers)",
+1,
+[]
+],
+[
+"Télélude",
+1,
+[]
+],
+[
+"IC VG-8-C",
+1,
+[]
+],
+[
+"Paris Video Sport FY 707",
+1,
+[]
+],
+[
+"Varius~Play (Mod.100)",
+1,
+[]
+],
+[
+"Video Pinball",
+1,
+[]
+],
+[
+"TV Master 4 plus 2 (01-4869)",
+1,
+[]
+],
+[
+"TV Master MK 6 (01-4907)",
+1,
+[]
+],
+[
+"Colour TV Game (01-4931)",
+1,
+[]
+],
+[
+"Colour TV Game MK 6 (01-4761)",
+1,
+[]
+],
+[
+"Colour TV Game MK 10 (01-4842)",
+1,
+[]
+],
+[
+"TVG 202-4",
+1,
+[]
+],
+[
+"Color TV Sports TVG 406",
+1,
+[
+"TVG 406-6"
+]
+],
+[
+"TVG 4010-6",
+1,
+[
+"6 game TV game - TVG 4010-6"
+]
+],
+[
+"Programmable TV Game (MPC-862C)",
+1,
+[
+"Programmable TV Game (MPC-862)"
+]
+],
+[
+"4A-8 (9015)",
+1,
+[]
+],
+[
+"TV Sports DX-702",
+1,
+[
+"DX-702"
+]
+],
+[
+"TVG 070C",
+1,
+[
+"TVG 070C Programmierbares",
+"TVG 070C TV Game-Programmable"
+]
+],
+[
+"7771-P",
+1,
+[]
+],
+[
+"TVG-8610",
+1,
+[]
+],
+[
+"H-5 Mini Color TV Game",
+1,
+[]
+],
+[
+"Color TV game (H-11)",
+1,
+[]
+],
+[
+"TV Sport 1004 (D-670/37)",
+1,
+[
+"Intel TV-Sport 1004"
+]
+],
+[
+"TV Sport 2004",
+1,
+[
+"TV-Sport 2004"
+]
+],
+[
+"Multisport TV Game (1110)",
+1,
+[]
+],
+[
+"Telejeu 6 jeux SD 017F",
+1,
+[]
+],
+[
+"SD-040F",
+1,
+[]
+],
+[
+"SD 90",
+1,
+[
+"SD 060?"
+]
+],
+[
+"Tele-Match Cassette 1",
+1,
+[]
+],
+[
+"Tele-Match Cassette 2",
+1,
+[]
+],
+[
+"Tele-Match Cassette 3",
+1,
+[
+"Panzerspiel"
+]
+],
+[
+"Tele-Match Cassette 4",
+1,
+[]
+],
+[
+"Tele-Multiplay 6000 (825-328)",
+1,
+[
+"Tele-Match 6000"
+]
+],
+[
+"Micro 10 (\"Micro Ten\" on box)",
+1,
+[]
+],
+[
+"Videosport 600 - Electronic TV Game",
+1,
+[]
+],
+[
+"Tournament Colour Programmable TV Game 2000",
+1,
+[]
+],
+[
+"Tournament VC 6000",
+1,
+[]
+],
+[
+"Giochi TV6 403",
+1,
+[
+"ART. 403 3+3 GIOCHI A COLORI",
+"ART. 403 6 GIOCHI A COLORI",
+"Giochi TV 403 Color"
+]
+],
+[
+"Giochi TV 402",
+1,
+[]
+],
+[
+"Giochi TV ART.0400/0412",
+1,
+[
+"Giochi TV 0400",
+"Giochi TV 0412",
+"Videogiochi A Cassette 0400"
+]
+],
+[
+"Electronic Color TV Game Center (MT-1A)",
+1,
+[]
+],
+[
+"Programmable TV-Game Console SD-090",
+1,
+[]
+],
+[
+"SD-062 TV-18",
+1,
+[
+"SD-062C Action TV Games"
+]
+],
+[
+"SD-04 (SD-042) TV Sports",
+1,
+[
+"SD-04 SD-042 (Color)",
+"TVG SD-04 BN (B/W)"
+]
+],
+[
+"TV-game programmable SD-070C Sport",
+1,
+[]
+],
+[
+"К145ИК17",
+1,
+[
+"K145IK17"
+]
+],
+[
+"Videosport 3",
+1,
+[
+"ВИДЕО СПОРТ 3"
+]
+],
+[
+"Eksi-Video 01",
+1,
+[
+"Экси Видео 01"
+]
+],
+[
+"T-800C colour TV game",
+1,
+[]
+],
+[
+"T-106C",
+1,
+[
+"T-106"
+]
+],
+[
+"T-900 TV. GAME",
+1,
+[]
+],
+[
+"Colourscore II (VMV6)",
+1,
+[]
+],
+[
+"Olympic Home T.V. Game (VM3-D)",
+1,
+[
+"Olympic (VM III-D)",
+"Videolympic  (in Australia)"
+]
+],
+[
+"Strika 2 (VMV8)",
+1,
+[]
+],
+[
+"Superscore (VM-8)",
+1,
+[]
+],
+[
+"Colour Cartridge (VMV12)",
+1,
+[]
+],
+[
+"TV games",
+1,
+[]
+],
+[
+"Home's TV Set PP-600",
+1,
+[]
+],
+[
+"Videosport 4000",
+1,
+[]
+],
+[
+"Videosport Junior",
+1,
+[]
+],
+[
+"Videosport 4000 Color",
+1,
+[]
+],
+[
+"Overkal",
+1,
+[]
+],
+[
+"CX-303",
+1,
+[]
+],
+[
+"CX.306 Super 10 Color",
+1,
+[]
+],
+[
+"CX.340",
+1,
+[
+"Strong sport"
+]
+],
+[
+"CX-336 Game Cassette System",
+1,
+[]
+],
+[
+"Color Video Game TVG-432",
+1,
+[]
+],
+[
+"Video Pinball-10",
+1,
+[]
+],
+[
+"Apollo 2001 Color Home Video Game",
+1,
+[]
+],
+[
+"Tele Spiel 1",
+1,
+[]
+],
+[
+"Telesport",
+1,
+[
+"Telesport ( Model 4)"
+]
+],
+[
+"XK 410C Multi-Coloursport",
+1,
+[
+"XK 410C Multi-Coloursport (52071-4 MEGA)"
+]
+],
+[
+"Tele-Ball V",
+1,
+[]
+],
+[
+"Tele-Ball VIII (0443)",
+1,
+[]
+],
+[
+"Teleball-Cassetten-System",
+1,
+[
+"Teleball-Cassette I"
+]
+],
+[
+"Computerized Electronic Programmable Video Game 1010",
+1,
+[]
+],
+[
+"Tele-Cassetten-Game Color (825-581)",
+1,
+[]
+],
+[
+"Tele-Match (825-468)",
+1,
+[]
+],
+[
+"Video Sport 104",
+1,
+[
+"104 Video Sport"
+]
+],
+[
+"Colourstars TV game",
+1,
+[]
+],
+[
+"TV-10 Color (Mark IX)",
+1,
+[
+"Mark IX"
+]
+],
+[
+"Tele-Games Hockey-Tennis II (99733)",
+1,
+[]
+],
+[
+"Gamatic 7600",
+1,
+[]
+],
+[
+"Compu-Vision 440",
+1,
+[
+"Bentley Compu-Vision 440",
+"Bentley CompuVision 440",
+"CompuVision 440"
+]
+],
+[
+"TV Action",
+1,
+[
+"TV Action (for TV FM Color 100)"
+]
+],
+[
+"Video-Sports Color (Honeybell-55)",
+1,
+[]
+],
+[
+"Video Computer Games - TV 003",
+1,
+[
+"re-118 fb"
+]
+],
+[
+"Teleclick",
+1,
+[]
+],
+[
+"Color TelePlay",
+1,
+[]
+],
+[
+"Telematch (J5)",
+1,
+[]
+],
+[
+"Teleflipper",
+1,
+[]
+],
+[
+"Black Point FS 1003",
+1,
+[
+"FS 1003"
+]
+],
+[
+"Black Point FS 2000",
+1,
+[
+"FS 2000"
+]
+],
+[
+"Hide-away TV Game",
+1,
+[]
+],
+[
+"Giochi Televisivi (Mod. G)",
+1,
+[
+"1014P",
+"BN-10m",
+"CL-10M4P",
+"TVG-SD19"
+]
+],
+[
+"FS-404",
+1,
+[]
+],
+[
+"Video Game Tank-Battle - SD-02-3",
+1,
+[
+"TV-Tank-Battle"
+]
+],
+[
+"Tele-Juego - B/N 4",
+1,
+[]
+],
+[
+"Tele-Juego Color-4",
+1,
+[]
+],
+[
+"Tele-Juego Color-10",
+1,
+[]
+],
+[
+"Video Sports VS-7",
+1,
+[]
+],
+[
+"Visicom Video Computer System Model COM-100",
+1,
+[
+"Visicom 100",
+"Visicom COM-100"
+]
+],
+[
+"TV-Jogo Canal 14",
+1,
+[]
+],
+[
+"GT-66C",
+1,
+[]
+],
+[
+"TV Fun Color Model 602",
+1,
+[]
+],
+[
+"Eureka (Эврика)",
+1,
+[
+"Эврика"
+]
+],
+[
+"Leader",
+1,
+[
+"Лидер"
+]
+],
+[
+"Sportstron TV-Game (Coca-Cola edition)",
+1,
+[]
+],
+[
+"Telelude NB2",
+1,
+[]
+],
+[
+"4200N",
+1,
+[]
+],
+[
+"Tele-Sports 6",
+1,
+[
+"can't use the MM-57105N, because doesn't support rifle games"
+]
+],
+[
+"Jeu Video Cassette Interchangeables Tele-sports III",
+1,
+[]
+],
+[
+"Home T.V. Video Game TG-101",
+1,
+[
+"Home T.V. Game TG-101",
+"Video Games"
+]
+],
+[
+"Colour Video Sports Centre 4600",
+1,
+[
+"Adman Model 4600",
+"Colour Video Sports Centre 4600 DeLuxe"
+]
+],
+[
+"T-802",
+1,
+[]
+],
+[
+"Retro Duo Portable",
+1,
+[]
+],
+[
+"Furtec 4 (TVG-30)",
+1,
+[]
+],
+[
+"Furtec 6 (TVG-10)",
+1,
+[]
+],
+[
+"Deportel",
+1,
+[]
+],
+[
+"Lem 2000",
+1,
+[]
+],
+[
+"Odyssey 4305",
+1,
+[
+"Magnavox Odyssey 4305"
+]
+],
+[
+"Colour Programmable SD070",
+1,
+[
+"Video Sports Centre SD070"
+]
+],
+[
+"New Neo Geo Pocket Color",
+1,
+[]
+],
+[
+"SNES",
+1,
+[
+"Super Nintendo Entertainment System"
+]
+],
+[
+"Atari Flashback 3",
+1,
+[
+"Flashback 3"
+]
+],
+[
+"Atari Flashback 5",
+1,
+[]
+],
+[
+"Atari Flashback 4",
+1,
+[]
+],
+[
+"Atari Flashback 8",
+1,
+[
+"Atari FB 8",
+"Atari FB8",
+"FB 8",
+"FB8",
+"Flashback 8"
+]
+],
+[
+"Automático",
+0,
+[]
+],
+[
+"TV Game AU-807",
+0,
+[]
+],
+[
+"TVG-406-6",
+0,
+[]
+],
+[
+"TV-Sport GX4",
+0,
+[]
+],
+[
+"Sport King Model-101",
+0,
+[]
+],
+[
+"Sport King Model-103",
+0,
+[]
+],
+[
+"TV Sports Star Model-105",
+0,
+[
+"ＴＶスポーツスター 105"
+]
+],
+[
+"Grand Prix",
+0,
+[]
+],
+[
+"TV Games",
+0,
+[
+"TV Games B"
+]
+],
+[
+"Video Entertainment Unit",
+0,
+[]
+],
+[
+"Colour 6",
+0,
+[]
+],
+[
+"Nintendo Switch supply issues",
+0,
+[]
+],
+[
+"handheld personal computer",
+0,
+[]
+],
+[
+"handheld gaming PC",
+0,
+[
+"handheld gaming computer",
+"handheld personal gaming computer",
+"portable gaming computer"
+]
+],
+[
+"POC-POC 2007",
+0,
+[]
+],
+[
+"The Ledend of Zelda",
+0,
+[
+"1989 The Ledend of Zelda",
+"Game & Watch The Ledend of Zelda"
+]
+],
+[
+"Sega Pluto",
+0,
+[]
+],
+[
+"Sega Neptune",
+0,
+[]
+],
+[
+"gaming tablet",
+0,
+[
+"gaming computer tablet",
+"gaming tablet computer",
+"handheld gaming tablet"
+]
+],
+[
+"G3x",
+0,
+[
+"Snapdragon G3x"
+]
+],
+[
+"AYANEO NEXT",
+0,
+[]
+],
+[
+"AYANEO NEXT Advance",
+0,
+[]
+],
+[
+"AYANEO NEXT Pro",
+0,
+[]
+],
+[
+"AYA Neo 2021",
+0,
+[]
+],
+[
+"AYN Loki",
+0,
+[]
+],
+[
+"GPD XP Plus",
+0,
+[]
+],
+[
+"Creoqode LYRA+",
+0,
+[]
+],
+[
+"Miyoo Mini V2",
+0,
+[]
+],
+[
+"Leapster Explorer GS",
+0,
+[]
+],
+[
+"Atari Flashback",
+0,
+[
+"Atari Flashback 1",
+"Flashback 1"
+]
+],
+[
+"Atari Flashback 6",
+0,
+[]
+],
+[
+"Atari Flashback 7",
+0,
+[]
+],
+[
+"Atari Flashback 7 Deluxe",
+0,
+[]
+],
+[
+"Atari Flashback 8 Deluxe",
+0,
+[]
+],
+[
+"Atari Flashback 8 Gold",
+0,
+[]
+],
+[
+"Atari Flashback 8 Gold Deluxe",
+0,
+[]
+],
+[
+"Atari Flashback 9",
+0,
+[]
+],
+[
+"Atari Flashback X",
+0,
+[]
+],
+[
+"Atari Flashback X Deluxe",
+0,
+[]
+],
+[
+"The Phantom",
+0,
+[
+"Phantom",
+"Phantom Game Console",
+"Phantom Games Console",
+"The Phantom Game Console",
+"The Phantom Game Receiver",
+"The Phantom Games Console"
+]
+],
+[
+"Picoo Zero",
+0,
+[]
+],
+[
+"Picoo One",
+0,
+[]
+],
+[
+"Anbernic RG351MP",
+0,
+[]
+],
+[
+"Anbernic PAP Ⅱ",
+0,
+[]
+],
+[
+"Null 2",
+0,
+[]
+],
+[
+"Peanut",
+0,
+[]
+],
+[
+"PocketGo S30",
+0,
+[]
+],
+[
+"New Pocket Go",
+0,
+[]
+],
+[
+"Pocket Go",
+0,
+[]
+],
+[
+"Tiny GamePi15",
+0,
+[]
+],
+[
+"uChip Simple VGA Console",
+0,
+[
+"uSVC"
+]
+],
+[
+"Project Fiona",
+0,
+[]
+],
+[
+"Archos GamePad 2",
+0,
+[]
+],
+[
+"WinkPax G1",
+0,
+[]
+],
+[
+"Droid X360",
+0,
+[
+"Shenzhen XunLong Droid X360"
+]
+],
+[
+"JXD S192",
+0,
+[
+"JXD Singularity S192"
+]
+],
+[
+"JXD S192K",
+0,
+[
+"JXD S192k"
+]
+],
+[
+"Atari Retro Handheld",
+0,
+[
+"Blaze Atari Handheld",
+"Retro Atari Handheld"
+]
+],
+[
+"Super Retro Boy",
+0,
+[]
+],
+[
+"Gameband",
+0,
+[
+"Atari Gameband"
+]
+],
+[
+"Activision Family Game",
+0,
+[]
+],
+[
+"Powkiddy Max 2",
+0,
+[]
+],
+[
+"AYN Loki Mini",
+0,
+[]
+],
+[
+"GKD Mini",
+0,
+[]
+],
+[
+"ZPG Pro",
+0,
+[
+"Z-Pocket Game Pro"
+]
+],
+[
+"Z-Pocket Game",
+0,
+[]
+],
+[
+"Sega Genesis Flashback",
+0,
+[]
+],
+[
+"Sega Genesis Ultimate Portable",
+0,
+[]
+],
+[
+"Zilliqa game console",
+0,
+[]
+],
+[
+"ODROID-GO Advance",
+0,
+[]
+],
+[
+"ODROID-GO Advance Black Edition",
+0,
+[]
+],
+[
+"Hyperkin Retron Ult",
+0,
+[]
+],
+[
+"Xueebaoy 180 In 1 Rertro Mini Arcade Game Console",
+0,
+[
+"SGDA0352"
+]
+],
+[
+"MobiGo",
+0,
+[]
+],
+[
+"MobiGo 2",
+0,
+[]
+],
+[
+"Tiny Arcade",
+0,
+[]
+],
+[
+"Pocket Arcade",
+0,
+[]
+],
+[
+"TCL T2",
+0,
+[]
+],
+[
+"R-Kaid-6",
+0,
+[]
+],
+[
+"BlueStacks GamePop",
+0,
+[]
+],
+[
+"BlueStacks GamePop Mini",
+0,
+[]
+],
+[
+"FlarePlay microconsole",
+0,
+[]
+],
+[
+"Super Retro Trio Plus",
+0,
+[
+"Super Retro Trio +"
+]
+],
+[
+"nXGP",
+0,
+[]
+],
+[
+"Dinkii",
+0,
+[]
+],
+[
+"THEVIC20",
+0,
+[]
+],
+[
+"LeapFrog LeapPad 2",
+0,
+[
+"LeapPad 2"
+]
+],
+[
+"VHS console",
+0,
+[]
+],
+[
+"Gizmondo 2",
+0,
+[
+"Giz 2"
+]
+],
+[
+"Pandora Classic",
+0,
+[
+"Pandora"
+]
+],
+[
+"Pandora Rebirth",
+0,
+[
+"Pandora"
+]
+],
+[
+"Pandora 1 GHz",
+0,
+[
+"Pandora 1GHz"
+]
+],
+[
+"Arctic GC Pro",
+0,
+[]
+],
+[
+"GP32 NLU",
+0,
+[
+"GP32",
+"GP32 No Light Unit"
+]
+],
+[
+"GP32 FLU",
+0,
+[
+"GP32 Front Light Unit"
+]
+],
+[
+"GP32 BLU",
+0,
+[
+"GP32 Back Light Unit"
+]
+],
+[
+"GP32 BLU+",
+0,
+[
+"GP32 Back Light Unit Plus"
+]
+],
+[
+"JXD S7100",
+0,
+[]
+],
+[
+"EVO 2",
+0,
+[]
+],
+[
+"PiGRRL",
+0,
+[
+"PiGRRL 2015"
+]
+],
+[
+"PiGRRL 2.0",
+0,
+[
+"PiGRRL 2"
+]
+],
+[
+"PiGRRL Zero",
+0,
+[
+"PiGRRL 0"
+]
+],
+[
+"Pocket PiGRRL",
+0,
+[]
+],
+[
+"PiGRRL Zero Advance",
+0,
+[]
+],
+[
+"Pirakeet",
+0,
+[]
+],
+[
+"Game Boy Null",
+0,
+[]
+],
+[
+"Game Grrl",
+0,
+[]
+],
+[
+"OTON",
+0,
+[
+"Genesis Project",
+"Oton X"
+]
+],
+[
+"EVO 2 DX",
+0,
+[]
+],
+[
+"EVO 2 DX Pocket",
+0,
+[]
+],
+[
+"Pac-Man Connect-and-Play",
+0,
+[
+"Pac-Man Connect and Play",
+"Pac-Man Connect & Play"
+]
+],
+[
+"Dr. Boy",
+0,
+[]
+],
+[
+"Yobo FC-16 Go",
+0,
+[
+"Yobo Gameware FC-16 Go"
+]
+],
+[
+"Hyperkin SupaBoy S",
+0,
+[]
+],
+[
+"Hyperkin SupaBoy SFC",
+0,
+[]
+],
+[
+"Hyperkin SmartBoy",
+0,
+[]
+],
+[
+"Hyperkin Supa Retron HD",
+0,
+[]
+],
+[
+"Hamy NES and SNES HD Classic",
+0,
+[]
+],
+[
+"Gamerz Tek 8-bit entertainment system",
+0,
+[]
+],
+[
+"Gamerz Tek 16-Bit HD Entertainment System",
+0,
+[]
+],
+[
+"Gamerz Tek 16-Bit Entertainment System",
+0,
+[]
+],
+[
+"FPGA based video game console",
+0,
+[]
+],
+[
+"CollectorVision Phoenix",
+0,
+[]
+],
+[
+"PocketPi",
+0,
+[]
+],
+[
+"Tetripidation",
+0,
+[]
+],
+[
+"Tetris Microcard",
+0,
+[]
+],
+[
+"Super Impulse Micro Arcade",
+0,
+[
+"SIMA"
+]
+],
+[
+"Hyperkin RetronGX",
+0,
+[
+"RetronGX"
+]
+],
+[
+"Retro-Bit Super Retro-Cade",
+0,
+[
+"Retro-Bit Super Retro Cade",
+"Retro-Bit Super RetroCade",
+"Super Retro Cade",
+"Super Retro-Cade",
+"Super RetroCade"
+]
+],
+[
+"Hyperkin FC Super Loader",
+0,
+[]
+],
+[
+"Hyperkin RetroN DIY",
+0,
+[]
+],
+[
+"Hyperkin RetroN 3",
+0,
+[
+"RetroN 3"
+]
+],
+[
+"Hyperkin RetroN 3 HD",
+0,
+[
+"RetroN 3 HD"
+]
+],
+[
+"Hyperkin RetroN 1 HD",
+0,
+[
+"Hyperkin RetroN HD",
+"RetroN 1 HD",
+"RetroN HD"
+]
+],
+[
+"Hyperkin RetroN 1 AV",
+0,
+[
+"RetroN 1 AV"
+]
+],
+[
+"Hyperkin RetroN 2",
+0,
+[
+"RetroN 2"
+]
+],
+[
+"Hyperkin RetroN 2 HD",
+0,
+[
+"RetroN 2 HD"
+]
+],
+[
+"Hyperkin Mega RetroN HD",
+0,
+[
+"Mega RetroN HD"
+]
+],
+[
+"Joipaw console",
+0,
+[]
+],
+[
+"Pocket Sprite",
+0,
+[]
+],
+[
+"The Express",
+0,
+[
+"Camerica Express"
+]
+],
+[
+"PiBoy DMG",
+0,
+[]
+],
+[
+"PiBoy XRS",
+0,
+[]
+],
+[
+"PiBoy CM4x",
+0,
+[]
+],
+[
+"PiBoy Arcade",
+0,
+[]
+],
+[
+"R-Kaid-R",
+0,
+[
+"Arcader"
+]
+],
+[
+"R-Kaid-R SK-4",
+0,
+[
+"Arcader SK4"
+]
+],
+[
+"BOB180",
+0,
+[]
+],
+[
+"Geoboi",
+0,
+[]
+],
+[
+"PALPi V5",
+0,
+[]
+],
+[
+"SNES-PVM",
+0,
+[
+"FC-PVM"
+]
+],
+[
+"Pixel Vision",
+0,
+[]
+],
+[
+"PYUA",
+0,
+[]
+],
+[
+"Pocket Spin",
+0,
+[
+"iSpin"
+]
+],
+[
+"Coolbaby Retro Mini 2 RS-6A",
+0,
+[
+"RS-6A"
+]
+],
+[
+"Fei Hao HD Retro Game",
+0,
+[
+"Fei Hao Mega Drive"
+]
+],
+[
+"Orb Gaming Mini Arcade Machine",
+0,
+[
+"OR-240IN1ARC"
+]
+],
+[
+"NES Deluxe Set",
+0,
+[]
+],
+[
+"NES Challenge Set",
+0,
+[
+"Nintendo Challenge Set"
+]
+],
+[
+"Anbernic RG505",
+0,
+[]
+],
+[
+"TV Sport",
+0,
+[]
+],
+[
+"TV Game T-800",
+0,
+[
+"TV Game T-800c (color)"
+]
+],
+[
+"TV Game",
+0,
+[]
+],
+[
+"Hide Away Colour TV game (model 5229)",
+0,
+[]
+],
+[
+"TV Colour Game PP-150C Giocattolo",
+0,
+[]
+],
+[
+"R-250 Color TV game",
+0,
+[]
+],
+[
+"R-1800",
+0,
+[]
+],
+[
+"Allorgan 5000",
+0,
+[]
+],
+[
+"TV Game T-338",
+0,
+[]
+],
+[
+"Hobby Kit Video-Sport Super Master",
+0,
+[]
+],
+[
+"Telespo (テレスポ)",
+0,
+[
+"テレスポ"
+]
+],
+[
+"Telespo Junior (テレスポジュニア)",
+0,
+[
+"テレスポジュニア"
+]
+],
+[
+"Kanal 34",
+0,
+[]
+],
+[
+"Modell 64562",
+0,
+[]
+],
+[
+"SD-050",
+0,
+[]
+],
+[
+"Xbox Series S – 1TB",
+0,
+[
+"Xbox Series S - 1TB",
+"Xbox Series S Carbon Black"
+]
+],
+[
+"Jeu Video SD-050S",
+0,
+[]
+],
+[
+"Coloursports Programmable",
+0,
+[]
+],
+[
+"Coloursports",
+0,
+[]
+],
+[
+"Supersports TV game",
+0,
+[]
+],
+[
+"Asder PC-95",
+0,
+[
+"Asder PC95"
+]
+],
+[
+"Telsport 302",
+0,
+[]
+],
+[
+"XD 8001",
+0,
+[
+"Tesla XD 8001"
+]
+],
+[
+"Super Engine II",
+0,
+[
+"Super Engine 2"
+]
+],
+[
+"GameKing III",
+0,
+[
+"GameKing 3"
+]
+],
+[
+"Nanoarcade",
+0,
+[]
+],
+[
+"Bandai HET",
+0,
+[]
+],
+[
+"TV Game (TVG901 6 games)",
+0,
+[]
+],
+[
+"barcode game console",
+0,
+[
+"barcode game",
+"barcode scanning game console"
+]
+],
+[
+"SD-050F",
+0,
+[]
+],
+[
+"AYANEO Slide DS",
+0,
+[]
+],
+[
+"AYANEO Slide KB",
+0,
+[]
+],
+[
+"Nintendo Switch",
+0,
+[]
+],
+[
+"Sony Bravia KDL-22PX300",
+0,
+[
+"Sony KDL-22PX300"
+]
+],
+[
+"Anbernic Win701",
+0,
+[]
+],
+[
+"Anbernic RG405V",
+0,
+[]
+],
+[
+"SD-019",
+0,
+[]
+],
+[
+"My Arcade Retro Champ",
+0,
+[
+"MyArcade RetroChamp"
+]
+],
+[
+"My Arcade Nano Player Pro",
+0,
+[]
+],
+[
+"My Arcade Game Station",
+0,
+[
+"dreamGEAR Game Station"
+]
+],
+[
+"My Arcade Micro Player",
+0,
+[
+"MyArcade MicroPlayer"
+]
+],
+[
+"My Arcade Pocket Player Pro",
+0,
+[
+"MyArcade PocketPlayer"
+]
+],
+[
+"My Arcade Pixel Classic",
+0,
+[]
+],
+[
+"TV-G",
+0,
+[]
+],
+[
+"Hyperkin Mega 95",
+0,
+[]
+],
+[
+"Video Sport Game",
+0,
+[
+"TV Sport EP-800"
+]
+],
+[
+"4 Sport EP-800",
+0,
+[]
+],
+[
+"Programaster 1125",
+0,
+[]
+],
+[
+"TV Sports",
+0,
+[]
+],
+[
+"JVC X'Eye",
+0,
+[
+"X'Eye"
+]
+],
+[
+"TV Sport - 6 game",
+0,
+[]
+],
+[
+"Richin Pong",
+0,
+[]
+],
+[
+"TVG 2006 TV Games",
+0,
+[
+"Richin TVG-2001"
+]
+],
+[
+"TV game T-338",
+0,
+[]
+],
+[
+"BTVG-JM888",
+0,
+[
+"CTVG-JM777"
+]
+],
+[
+"106C Colour Video Sport",
+0,
+[
+"106C"
+]
+],
+[
+"Parat XY-4",
+0,
+[]
+],
+[
+"GoGo TV",
+0,
+[
+"GoGo TV Video Vision"
+]
+],
+[
+"Tele-Match Cassette C",
+0,
+[]
+],
+[
+"LCD handheld",
+0,
+[]
+],
+[
+"TV Game TVG-901",
+0,
+[]
+],
+[
+"TV hra XD 8001",
+0,
+[]
+],
+[
+"Televízny tenis - XD 8000A",
+0,
+[
+"Televízny tenis",
+"XD 8000A"
+]
+],
+[
+"Standard TV game (TV6)",
+0,
+[
+"Televizna HRA TV6",
+"TV6"
+]
+],
+[
+"Video Match",
+0,
+[
+"Betron Video Match",
+"Video Match Black"
+]
+],
+[
+"Video Gun",
+0,
+[
+"Betron Video Gun",
+"Video Match (6 games)"
+]
+],
+[
+"Telegun",
+0,
+[]
+],
+[
+"Universal Game Computer",
+0,
+[]
+],
+[
+"Teletrans TV Sport",
+0,
+[]
+],
+[
+"TVG 846CP",
+0,
+[]
+],
+[
+"T.V. Games TVG-821",
+0,
+[]
+],
+[
+"TV Boy II",
+0,
+[]
+],
+[
+"СУ-А",
+0,
+[]
+],
+[
+"YQ-1",
+0,
+[]
+],
+[
+"Color Multi-Spiel 4006",
+0,
+[]
+],
+[
+"TVG-288A",
+0,
+[]
+],
+[
+"TV with Pong console",
+0,
+[]
+],
+[
+"TC 4000 Programmable video computer system",
+0,
+[]
+],
+[
+"Jeu Video JV 2T",
+0,
+[]
+],
+[
+"Color TV sports 406",
+0,
+[
+"color video game 406-6"
+]
+],
+[
+"ROG Xbox Ally handheld",
+0,
+[
+"ROG Xbox Ally handhelds"
+]
+],
+[
+"TV Jogo 4",
+0,
+[]
+],
+[
+"TV Jogo Formula 1",
+0,
+[]
+],
+[
+"Telejogo Super Motocross",
+0,
+[
+"TV Jogo Motocross"
+]
+],
+[
+"TVG 101-4",
+0,
+[]
+],
+[
+"Optim Sport \"T\" TV Sport",
+0,
+[
+"Optim TV Sport Otro"
+]
+],
+[
+"VG-6512 BW",
+0,
+[
+"VG-6512"
+]
+],
+[
+"12B 615-22",
+0,
+[]
+],
+[
+"Home Video Game",
+0,
+[]
+],
+[
+"The Slammer (TVC-3000)",
+0,
+[]
+],
+[
+"The Charger",
+0,
+[]
+],
+[
+"Project Helix",
+0,
+[
+"Xbox Magnus",
+"Xbox Project Helix"
+]
+],
+[
+"SD-050 Programmable Video Game",
+0,
+[]
+],
+[
+"Board (game console)",
+0,
+[
+"Board console",
+"Board.fun console",
+"Board game console",
+"Board tabletop console",
+"The Board"
+]
+],
+[
+"Velora",
+0,
+[
+"Velora Console, VeloraOS, Buildvelora, Velora, Console"
+]
+],
+[
+"Programaster (1125)",
+0,
+[
+"1125 Programaster"
+]
+],
+[
+"Color TV Game",
+0,
+[]
+],
+[
+"Sportsman",
+0,
+[]
+],
+[
+"Video Juego Color",
+0,
+[]
+],
+[
+"Wiz-a-Tron",
+0,
+[]
+],
+[
+"Casio MG-885 Eight Attack",
+0,
+[]
+],
+[
+"Casio BG-15 Boxing Game",
+0,
+[]
+],
+[
+"Casio WN-100",
+0,
+[]
+],
+[
+"Sharp WN-100",
+0,
+[]
+],
+[
+"Sharp WN-102",
+0,
+[]
+],
+[
+"Casio AG-130",
+0,
+[]
+],
+[
+"Gamate 3D",
+0,
+[]
+],
+[
+"VTech ProScreen",
+0,
+[]
+],
+[
+"Game Wizard",
+0,
+[
+"Game Player",
+"Triple-In"
+]
+],
+[
+"VideoNow XP",
+0,
+[]
+],
+[
+"LG Kids Pad",
+0,
+[]
+],
+[
+"Odyssey 100",
+0,
+[]
+],
+[
+"Odyssey 300",
+0,
+[]
+],
+[
+"Fairchild Channel F System II",
+0,
+[
+"Channel F 2",
+"Channel F II",
+"Channel F System 2",
+"Channel F System II",
+"Fairchild Channel F 2",
+"Fairchild Channel F II",
+"Fairchild Channel F System 2"
+]
+],
+[
+"Video Pinball C-380 (woodgrain)",
+0,
+[]
+],
+[
+"Video Pinball C-380 (white)",
+0,
+[
+"C-380"
+]
+],
+[
+"Super Pong PRO-AM (C-200)",
+0,
+[]
+],
+[
+"Super Pong PRO-AM Ten (C-202)",
+0,
+[]
+],
+[
+"Telstar Deluxe",
+0,
+[]
+],
+[
+"Telstar Regent",
+0,
+[]
+],
+[
+"Telstar Sportsman",
+0,
+[]
+],
+[
+"Telstar Galaxy",
+0,
+[]
+],
+[
+"Video World Of Sports",
+0,
+[]
+],
+[
+"Tele-Sports IV",
+0,
+[]
+],
+[
+"TV game color Adman 3000",
+0,
+[
+"Adman 3000"
+]
+],
+[
+"Sports Centre 5000 Colour",
+0,
+[
+"5000 Colour"
+]
+],
+[
+"Odyssey 2001",
+0,
+[]
+],
+[
+"Tele-Spiel ES 2203 Las Vegas",
+0,
+[]
+],
+[
+"C4002",
+0,
+[
+"4002 (B/W)",
+"C4002 (color)"
+]
+],
+[
+"9010 Video Game",
+0,
+[]
+],
+[
+"Sports Centre 6000",
+0,
+[]
+],
+[
+"Adman TVG-2600 MK II",
+0,
+[]
+],
+[
+"Match of the Day 2000",
+0,
+[]
+],
+[
+"TV-Multi-Spiel 4014",
+0,
+[]
+],
+[
+"NTL-600 Video T.V. Game",
+0,
+[]
+],
+[
+"XY-4",
+0,
+[]
+],
+[
+"Paddle IV",
+0,
+[]
+],
+[
+"Tele Match 4 (model 7700)",
+0,
+[]
+],
+[
+"Tele-Match 4 (model 4400)",
+0,
+[]
+],
+[
+"Tele-Match Concert Hall IV (model 8800)",
+0,
+[]
+],
+[
+"Color-Multi-Spiel 4010",
+0,
+[]
+],
+[
+"Color Multi-Spiel 4106",
+0,
+[]
+],
+[
+"TV-Spiel 1004",
+0,
+[]
+],
+[
+"Colour TV Game",
+0,
+[]
+],
+[
+"Sports-Action TV Game 922",
+0,
+[]
+],
+[
+"Name Of The Game (A-100)",
+0,
+[]
+],
+[
+"Name of the Game II (A-300)",
+0,
+[]
+],
+[
+"TV Fun 401",
+0,
+[]
+],
+[
+"TV Fun 401A",
+0,
+[]
+],
+[
+"TV Fun Sportsarama 402 - 402C",
+0,
+[
+"TV Fun 402C",
+"TV Fun 402 Sportsarama"
+]
+],
+[
+"TV Fun Match 405",
+0,
+[
+"TV Fun  405"
+]
+],
+[
+"TV Fun 405a",
+0,
+[]
+],
+[
+"TV Fun 406",
+0,
+[]
+],
+[
+"TV Fun 442",
+0,
+[]
+],
+[
+"TV Fun 444",
+0,
+[]
+],
+[
+"Tele-spiel 9009",
+0,
+[
+"Video Game 9009"
+]
+],
+[
+"Colour Video Game 9012",
+0,
+[]
+],
+[
+"TVG-10",
+0,
+[]
+],
+[
+"9017 Colour TV Game",
+0,
+[]
+],
+[
+"TVG-3",
+0,
+[]
+],
+[
+"TV-Game Fernseh Spiel TVG-4",
+0,
+[
+"TVG-4"
+]
+],
+[
+"Poppy 9015",
+0,
+[]
+],
+[
+"Tournament 2000",
+0,
+[]
+],
+[
+"Tournament 100",
+0,
+[
+"T100"
+]
+],
+[
+"Sportsman T101",
+0,
+[
+"Sportsman Tournament 101"
+]
+],
+[
+"Tournament 102",
+0,
+[]
+],
+[
+"Tournament 150",
+0,
+[]
+],
+[
+"Tournament 200",
+0,
+[
+"model 2200?"
+]
+],
+[
+"Tournament 1000",
+0,
+[]
+],
+[
+"Tournament 2501",
+0,
+[]
+],
+[
+"Olympian 2600",
+0,
+[]
+],
+[
+"Video Action VA-II",
+0,
+[
+"Video Action 2"
+]
+],
+[
+"Video Action VA-III",
+0,
+[
+"VA3"
+]
+],
+[
+"Video Action TV Game 1000",
+0,
+[]
+],
+[
+"Occitel",
+0,
+[
+"Occitel Game System"
+]
+],
+[
+"OC4",
+0,
+[]
+],
+[
+"Occitel 003 Jeu Video Modulaire",
+0,
+[
+"jeu vidéo modulaire"
+]
+],
+[
+"SD-061",
+0,
+[]
+],
+[
+"TV JACK 3000",
+0,
+[]
+],
+[
+"TV JACK 1500",
+0,
+[]
+],
+[
+"TV JACK 1000",
+0,
+[]
+],
+[
+"TV Fun Color Model 601",
+0,
+[]
+],
+[
+"TV Fun Color Model 902",
+0,
+[]
+],
+[
+"TV Scoreboard 60-3051",
+0,
+[
+"60-8051 (canada)"
+]
+],
+[
+"TV Scoreboard 60-3052",
+0,
+[]
+],
+[
+"TV Scoreboard 60-3055",
+0,
+[]
+],
+[
+"TV Scoreboard 60-3057",
+0,
+[]
+],
+[
+"TV Scoreboard 60-3060",
+0,
+[]
+],
+[
+"Tele-sports IV",
+0,
+[]
+],
+[
+"K-Mart SC Eight Thousand (SC8000)",
+0,
+[]
+],
+[
+"Tele-Sports (4 games model)",
+0,
+[]
+],
+[
+"Colour TV Game (Telesports)",
+0,
+[]
+],
+[
+"K-Mart TV Electronic S Four Thousand S4000",
+0,
+[]
+],
+[
+"Electronic TV Game Tele-sport 10 (color)",
+0,
+[]
+],
+[
+"Jeux video 3011",
+0,
+[]
+],
+[
+"Sport-Action TV Game",
+0,
+[]
+],
+[
+"Color Video Game BM-1000",
+0,
+[]
+],
+[
+"TV Game (TVG-406-6)",
+0,
+[]
+],
+[
+"Video Sports 2000",
+0,
+[]
+],
+[
+"Video Sports",
+0,
+[]
+],
+[
+"Tele-Games Super Pong (99736)",
+0,
+[]
+],
+[
+"TV-Games 007",
+0,
+[
+"TV-Games M-020-5"
+]
+],
+[
+"TV Sport 825",
+0,
+[]
+],
+[
+"Colour 4",
+0,
+[
+"Colour 8",
+"Colour TV Game"
+]
+],
+[
+"Colour 10",
+0,
+[]
+],
+[
+"TV Gaming Unit (01-4990)",
+0,
+[]
+],
+[
+"Cablestar (01-4362)",
+0,
+[]
+],
+[
+"TV-Tron (01-4982)",
+0,
+[]
+],
+[
+"TV Master Mk IV (01-4974)",
+0,
+[]
+],
+[
+"TV Master MK 8 (01-4823)",
+0,
+[
+"TV Master MK 8 (01-4923)"
+]
+],
+[
+"TV Master MK 10 (01-4834)",
+0,
+[]
+],
+[
+"Colour TV Game 4 plus 2 (01-4850)",
+0,
+[]
+],
+[
+"Superstar (01-4354)",
+0,
+[]
+],
+[
+"304",
+0,
+[]
+],
+[
+"TV Sports TG-721",
+0,
+[]
+],
+[
+"TVG 102-4",
+0,
+[]
+],
+[
+"TVG 204-4",
+0,
+[]
+],
+[
+"Heroic Tank",
+0,
+[]
+],
+[
+"TVG 209",
+0,
+[]
+],
+[
+"M-1200 Colour",
+0,
+[]
+],
+[
+"TVG-SD-01",
+0,
+[]
+],
+[
+"Colour Video Game",
+0,
+[
+"Colour TV Game",
+"colour video game"
+]
+],
+[
+"Electronic TV Game 777",
+0,
+[
+"777"
+]
+],
+[
+"7771-G",
+0,
+[]
+],
+[
+"888",
+0,
+[]
+],
+[
+"TV Scoreboard 888G",
+0,
+[]
+],
+[
+"TVG-801",
+0,
+[]
+],
+[
+"Programmable TV-game TVG-050C",
+0,
+[
+"TVG-050C"
+]
+],
+[
+"TVG-8610C",
+0,
+[]
+],
+[
+"H-1",
+0,
+[]
+],
+[
+"Tank Battle TV Game H-7",
+0,
+[]
+],
+[
+"TV-Super Sport 1006",
+0,
+[]
+],
+[
+"TV Sport 3006 (D-713/36)",
+0,
+[]
+],
+[
+"TV Sport 4010",
+0,
+[]
+],
+[
+"TV Sport 5010 (Art.D759/36)",
+0,
+[]
+],
+[
+"Super Tele-sport (D-688/36)",
+0,
+[]
+],
+[
+"Monza (D-719/00)",
+0,
+[]
+],
+[
+"Grand Prix (D-731/07)",
+0,
+[]
+],
+[
+"Universal Tele-Play (D-744/34)",
+0,
+[]
+],
+[
+"TV Games TVS-5",
+0,
+[]
+],
+[
+"Telespiel TVS-6",
+0,
+[]
+],
+[
+"Color Tank-TV-Spiel (CTVS 11)",
+0,
+[]
+],
+[
+"Tele-Computer XL-2000",
+0,
+[]
+],
+[
+"TVS-4 Electronic",
+0,
+[]
+],
+[
+"Colour Pistol TV Game (1165)",
+0,
+[]
+],
+[
+"Mini TV Game (1102)",
+0,
+[]
+],
+[
+"Mini TV Game (1104)",
+0,
+[]
+],
+[
+"TVG-1199",
+0,
+[]
+],
+[
+"Pistol TV Game-1160",
+0,
+[]
+],
+[
+"Telejeu SD-043",
+0,
+[]
+],
+[
+"Odyssee",
+0,
+[]
+],
+[
+"Tele-Multiplay 4000 (825-301)",
+0,
+[]
+],
+[
+"Tele-Multiplay 8000 (825-336)",
+0,
+[]
+],
+[
+"Tele-Multi Play (825/042)",
+0,
+[]
+],
+[
+"Tele-Multiplay L (825-050)",
+0,
+[]
+],
+[
+"Tele-Video-Computer TVC 4000",
+0,
+[]
+],
+[
+"TV Sport 2002",
+0,
+[]
+],
+[
+"304 Video Game",
+0,
+[]
+],
+[
+"T1 Tank Heroique",
+0,
+[]
+],
+[
+"TV-Sport 2001",
+0,
+[]
+],
+[
+"TV-Sport 6002",
+0,
+[]
+],
+[
+"Tele-Sports",
+0,
+[]
+],
+[
+"4A Video Game",
+0,
+[]
+],
+[
+"6 (96)",
+0,
+[
+"696"
+]
+],
+[
+"Sport TG 20",
+0,
+[]
+],
+[
+"Colour 6 TV Game",
+0,
+[]
+],
+[
+"Colour 10 TV Game",
+0,
+[]
+],
+[
+"Tournament TV Game Electronic (VM8)",
+0,
+[
+"Tournament VM8"
+]
+],
+[
+"Videosport 800 - colour electronic TV game",
+0,
+[]
+],
+[
+"Tournament IV",
+0,
+[]
+],
+[
+"Micro 5500",
+0,
+[]
+],
+[
+"Grandprix",
+0,
+[]
+],
+[
+"Tournament 6 Colour TV Game",
+0,
+[]
+],
+[
+"Tournament Colour Programmable 5000",
+0,
+[]
+],
+[
+"Tournament II De Luxe",
+0,
+[]
+],
+[
+"Tournament III (de luxe) - colour electronic TV game",
+0,
+[]
+],
+[
+"Tournament Mini",
+0,
+[]
+],
+[
+"Tournament Ten - Colour de luxe video TV game",
+0,
+[]
+],
+[
+"Giochi TV4 401",
+0,
+[
+"Giochi 401"
+]
+],
+[
+"8 Electronic TV Game (MT-1A8)",
+0,
+[]
+],
+[
+"Formula 500 (MT-5A)",
+0,
+[]
+],
+[
+"Super Pro (MT-4A)",
+0,
+[]
+],
+[
+"Paddle VI",
+0,
+[]
+],
+[
+"Rally IV",
+0,
+[]
+],
+[
+"Rally X",
+0,
+[]
+],
+[
+"Volley VI",
+0,
+[]
+],
+[
+"Sportrama 8 (36)",
+0,
+[]
+],
+[
+"Super Color Volley X",
+0,
+[]
+],
+[
+"Super Color Video X",
+0,
+[]
+],
+[
+"9015 Color-Cassetten",
+0,
+[]
+],
+[
+"9012 Color Video Game",
+0,
+[]
+],
+[
+"Telescore 751",
+0,
+[]
+],
+[
+"Telescore 752",
+0,
+[]
+],
+[
+"SD-023C Tank Battle",
+0,
+[
+"SD-023 Rev.C"
+]
+],
+[
+"Video Raceway",
+0,
+[]
+],
+[
+"Tele-Match 4 (6600)",
+0,
+[]
+],
+[
+"Television Computer Game 3300R",
+0,
+[]
+],
+[
+"Palestra 02",
+0,
+[
+"Палестра-02"
+]
+],
+[
+"Rally (VM4 MK1)",
+0,
+[
+"Rally Home T.V. Game"
+]
+],
+[
+"All Star (VMV9)",
+0,
+[]
+],
+[
+"Colourscore  (VM11)",
+0,
+[]
+],
+[
+"Colourshot (VMV2)",
+0,
+[]
+],
+[
+"Home TV Game (VM 577)",
+0,
+[]
+],
+[
+"Home TV Game MK2 (VM 577)",
+0,
+[]
+],
+[
+"Home TV Game MK3 (VM3)",
+0,
+[]
+],
+[
+"Sportsworld (VMV5)",
+0,
+[]
+],
+[
+"Strika (VM-13)",
+0,
+[]
+],
+[
+"Visionscore (VMV1)",
+0,
+[]
+],
+[
+"TV Game EP500",
+0,
+[]
+],
+[
+"TV Game EP800",
+0,
+[]
+],
+[
+"Video Olympiad",
+0,
+[]
+],
+[
+"Color TV Game PP-160",
+0,
+[]
+],
+[
+"CX.302",
+0,
+[]
+],
+[
+"TV Game R-1800",
+0,
+[]
+],
+[
+"Video Game HI-1012",
+0,
+[]
+],
+[
+"TVG-204",
+0,
+[]
+],
+[
+"TVG-205",
+0,
+[]
+],
+[
+"Spectrum 6 (1025)",
+0,
+[]
+],
+[
+"Nose T' Nose, 4-way videogame",
+0,
+[]
+],
+[
+"TV4+ Four-Way Video Game",
+0,
+[]
+],
+[
+"Jeux Video JV-2703",
+0,
+[]
+],
+[
+"Jeux Video JV-2701",
+0,
+[]
+],
+[
+"Jeux Video JV-2705",
+0,
+[]
+],
+[
+"Jeux Video JV-2707",
+0,
+[]
+],
+[
+"Bi.Bip 4",
+0,
+[]
+],
+[
+"Bi.Bip 8",
+0,
+[]
+],
+[
+"Bi.Bip 6",
+0,
+[]
+],
+[
+"Bi.Bip 100",
+0,
+[]
+],
+[
+"Program 2000 SD-05",
+0,
+[
+"Program 2000 SD-050"
+]
+],
+[
+"Marumé 2000 (VM-90C)",
+0,
+[]
+],
+[
+"Tele-Action mini GMT513",
+0,
+[]
+],
+[
+"Tele-Sports Mini",
+0,
+[]
+],
+[
+"Apollo 2004 Color Home Video Game",
+0,
+[]
+],
+[
+"TV-Spiel Color 1",
+0,
+[]
+],
+[
+"TV-Spiel Color 2",
+0,
+[]
+],
+[
+"Wonder Wizard, Bulls Eye (7704)",
+0,
+[]
+],
+[
+"Wonder Wizard, Sharp Shooter (7705)",
+0,
+[]
+],
+[
+"Wonder Wizard, Scoreboard (7706)",
+0,
+[]
+],
+[
+"Triple Challenge 7701",
+0,
+[
+"BG7701"
+]
+],
+[
+"WonderWizard (7709)",
+0,
+[
+"Davitronix 7N"
+]
+],
+[
+"Tank Battle",
+0,
+[]
+],
+[
+"Telematch TV Sports Color video game",
+0,
+[]
+],
+[
+"Tele-sports mini TV Game (XK 400)",
+0,
+[]
+],
+[
+"XK 600B screenplay",
+0,
+[
+"XK 600B screen"
+]
+],
+[
+"TV Game R-1800, Home TV Set",
+0,
+[]
+],
+[
+"Colour Match XK-500C",
+0,
+[]
+],
+[
+"Battle Command XK-1010",
+0,
+[]
+],
+[
+"Programmable Video Console XK-4000",
+0,
+[]
+],
+[
+"TV-Sports 801 (mod.E801)",
+0,
+[]
+],
+[
+"TV-Sports 802 (mod.802)",
+0,
+[]
+],
+[
+"TV-Sports 813 (mod.813)",
+0,
+[]
+],
+[
+"TV Sports 812",
+0,
+[]
+],
+[
+"Spectrum 6, Color-fernsehspiel",
+0,
+[]
+],
+[
+"SD-01",
+0,
+[
+"SD-01C"
+]
+],
+[
+"Match Color (AY-3-8610)",
+0,
+[]
+],
+[
+"Match Color (NTL 600)",
+0,
+[]
+],
+[
+"TG-621",
+0,
+[]
+],
+[
+"Tele-Ball",
+0,
+[]
+],
+[
+"Tele-Ball II",
+0,
+[]
+],
+[
+"Tele-Ball III",
+0,
+[]
+],
+[
+"Tele-Ball IV",
+0,
+[]
+],
+[
+"Tele-Ball VI",
+0,
+[]
+],
+[
+"Tele-Ball IX",
+0,
+[]
+],
+[
+"Teleball-Cassetten-System II",
+0,
+[]
+],
+[
+"Video Sporter GXL-4",
+0,
+[]
+],
+[
+"Video Sporter XTL-4",
+0,
+[]
+],
+[
+"Video Sporter CTX-4 Color",
+0,
+[]
+],
+[
+"CTX-2000 programmable video computer",
+0,
+[]
+],
+[
+"Video Sporter",
+0,
+[
+"Sensor 10 Sensormatic?"
+]
+],
+[
+"9012 Color video game",
+0,
+[]
+],
+[
+"9009 Video game",
+0,
+[]
+],
+[
+"9008",
+0,
+[]
+],
+[
+"9014 Panzerschlacht",
+0,
+[]
+],
+[
+"9015",
+0,
+[]
+],
+[
+"9016 Telespiel Computer",
+0,
+[]
+],
+[
+"Adversary 370",
+0,
+[
+"Adversary Pong"
+]
+],
+[
+"Colour TV Game H-906",
+0,
+[]
+],
+[
+"TV Game H-915",
+0,
+[]
+],
+[
+"TV Game H-925",
+0,
+[]
+],
+[
+"TV Game TG-621",
+0,
+[]
+],
+[
+"Colour Video Sports Game TV 9006",
+0,
+[
+"I am a hero of these games"
+]
+],
+[
+"TV-9005",
+0,
+[]
+],
+[
+"TV game TV-9010-C",
+0,
+[]
+],
+[
+"video sports (TJ-142)",
+0,
+[
+"Tele Jeux TJ-142",
+"TJ-142",
+"video sports"
+]
+],
+[
+"TJ-141",
+0,
+[]
+],
+[
+"Tele-Match 4000 (825-131)",
+0,
+[]
+],
+[
+"Tele-Match 6000 (825-166)",
+0,
+[]
+],
+[
+"Tele-Cassetten-Game Color (825-530)",
+0,
+[
+"Tele-Match R 825-530"
+]
+],
+[
+"Tele-Match (825-182)",
+0,
+[]
+],
+[
+"Tele-Match (825-425)",
+0,
+[
+"Tele-Match color (825-425)"
+]
+],
+[
+"Tele-Match Color (825-344)",
+0,
+[]
+],
+[
+"Tele-Match Color (825-452)",
+0,
+[]
+],
+[
+"Tele-Match Color (825-484)",
+0,
+[]
+],
+[
+"Tele-Multiplay SR (825-417)",
+0,
+[
+"Tele-Match R 825-417",
+"Tele Play SR (old-computers site)"
+]
+],
+[
+"Polygame Tele-Match",
+0,
+[]
+],
+[
+"Tele-Match Color R (825-352)",
+0,
+[]
+],
+[
+"Tele-Multiplay R (825-387)",
+0,
+[]
+],
+[
+"Robot or Robot OC 5000",
+0,
+[]
+],
+[
+"Robot 4302",
+0,
+[
+"Robot 6"
+]
+],
+[
+"Video Secam System 4-303",
+0,
+[
+"Secam Video System"
+]
+],
+[
+"Color TV Game C-2600",
+0,
+[]
+],
+[
+"TV Game C-2200",
+0,
+[]
+],
+[
+"Colour TV Game C-2300",
+0,
+[]
+],
+[
+"Color TV Game C-2500 UHF",
+0,
+[]
+],
+[
+"TV Game C-3000",
+0,
+[]
+],
+[
+"4711 Most Exciting Tank Battle",
+0,
+[]
+],
+[
+"Colour Video Sport 106C",
+0,
+[]
+],
+[
+"TVG-201",
+0,
+[]
+],
+[
+"Video Game TVG-202",
+0,
+[]
+],
+[
+"TVG-468-10",
+0,
+[]
+],
+[
+"Video-Sport 100",
+0,
+[]
+],
+[
+"101",
+0,
+[]
+],
+[
+"105",
+0,
+[]
+],
+[
+"201",
+0,
+[]
+],
+[
+"Programaster",
+0,
+[]
+],
+[
+"TV Scoreboard 60-9001",
+0,
+[]
+],
+[
+"TV Scoreboard 60-9005",
+0,
+[]
+],
+[
+"Video Sport 600",
+0,
+[]
+],
+[
+"Video Sport 7705",
+0,
+[]
+],
+[
+"Video Sport 7801 (104)",
+0,
+[]
+],
+[
+"Video Sport 900 Programmable Cartridge game in color",
+0,
+[
+"900pc series programmable cartridge color tv game"
+]
+],
+[
+"Video Sport 7701",
+0,
+[]
+],
+[
+"Colourstars",
+0,
+[]
+],
+[
+"Telestars",
+0,
+[]
+],
+[
+"Mark V",
+0,
+[
+"Mark V-B",
+"Mark V-C"
+]
+],
+[
+"Mark IV",
+0,
+[]
+],
+[
+"Mark III",
+0,
+[]
+],
+[
+"Mark VI",
+0,
+[]
+],
+[
+"Mark VII",
+0,
+[]
+],
+[
+"Mark VIII",
+0,
+[]
+],
+[
+"Video Action IV Indy 500 (S-100)",
+0,
+[]
+],
+[
+"Videotronic II (3338)",
+0,
+[
+"Videotronic Rotes II"
+]
+],
+[
+"Videotronic II (8550C)",
+0,
+[
+"Videotronic Colour Rotes II"
+]
+],
+[
+"T-800C",
+0,
+[]
+],
+[
+"Video Game (D-5654)",
+0,
+[]
+],
+[
+"Most Exciting Home Video Game (D-5614)",
+0,
+[]
+],
+[
+"Tele-Games Motocross Sports Center IV (99729)",
+0,
+[]
+],
+[
+"Ultra Pong (C-402 S)",
+0,
+[]
+],
+[
+"Pong Doubles (C-160)",
+0,
+[
+"C-160"
+]
+],
+[
+"Tele-Games Gunslinger II",
+0,
+[
+"Coleco Gunslinger II"
+]
+],
+[
+"Tele-Games 80007",
+0,
+[]
+],
+[
+"Tele-Games Hockey-Jokari",
+0,
+[]
+],
+[
+"Tele-Games Hockey-Pong (99721)",
+0,
+[]
+],
+[
+"Tele-Games Hockey-Tennis (99722)",
+0,
+[]
+],
+[
+"Tele-Games Hockey-Tennis III (99734)",
+0,
+[]
+],
+[
+"Tele-Games Speedway S-100 (99747)",
+0,
+[]
+],
+[
+"Tele-Games Speedway (80017)",
+0,
+[]
+],
+[
+"Tele-Games Speedway IV (99748)",
+0,
+[]
+],
+[
+"Tele-Games Pong Sports II (99707)",
+0,
+[]
+],
+[
+"Tele-Games Pong Sports IV (99708)",
+0,
+[]
+],
+[
+"Tele-Games Pong IV (99717)",
+0,
+[]
+],
+[
+"Tele-Games Super Pong IV (99737)",
+0,
+[]
+],
+[
+"Tele-Games Super Pong IV (99789)",
+0,
+[]
+],
+[
+"Video Game (D-5715)",
+0,
+[]
+],
+[
+"D-5996 Programmable TV Game Console",
+0,
+[]
+],
+[
+"Most Exciting Home Video Game",
+0,
+[]
+],
+[
+"Videotronic",
+0,
+[]
+],
+[
+"TVG-209-4",
+0,
+[]
+],
+[
+"TVG 200",
+0,
+[]
+],
+[
+"TV Action Color 200",
+0,
+[]
+],
+[
+"Telejuego",
+0,
+[
+"Blaupunkt Telejuego"
+]
+],
+[
+"Video Game TVG-8000 Champion 77",
+0,
+[]
+],
+[
+"Video Game TVG-5000",
+0,
+[]
+],
+[
+"Video Action TVG-9000 Grand Prix 77",
+0,
+[]
+],
+[
+"TG100",
+0,
+[]
+],
+[
+"Bang 1000",
+0,
+[]
+],
+[
+"Bag-A-Tel Ep-800",
+0,
+[]
+],
+[
+"Video Sports 84-6072",
+0,
+[]
+],
+[
+"Color TV game 4000c",
+0,
+[]
+],
+[
+"Sport TV Game Colour TG-0062",
+0,
+[]
+],
+[
+"Sport TV Game monochrome",
+0,
+[]
+],
+[
+"Programmable Video Game System",
+0,
+[]
+],
+[
+"Delta III Videogame",
+0,
+[]
+],
+[
+"Multi Color 777 (777-JS)",
+0,
+[
+"Derby Master (777-JS)"
+]
+],
+[
+"TV Game HVG-220",
+0,
+[]
+],
+[
+"TV Game Y-1170",
+0,
+[]
+],
+[
+"TV Game 2001",
+0,
+[]
+],
+[
+"DS-2",
+0,
+[]
+],
+[
+"TV Sport Games EP800",
+0,
+[]
+],
+[
+"TV Game EP 460",
+0,
+[]
+],
+[
+"Hide-Away TV Game",
+0,
+[]
+],
+[
+"Television Tennis (035)",
+0,
+[]
+],
+[
+"Face Off",
+0,
+[]
+],
+[
+"Video Sports 76",
+0,
+[]
+],
+[
+"Video Sports 76c",
+0,
+[]
+],
+[
+"Video System FD-3000W",
+0,
+[
+"tele sports"
+]
+],
+[
+"TV Games Model 100 TV Spiel",
+0,
+[
+"FKF Lasonic 76",
+"Lasonic 76"
+]
+],
+[
+"7640",
+0,
+[]
+],
+[
+"Colorgame",
+0,
+[
+"Colorgame Action Games"
+]
+],
+[
+"SD-290",
+0,
+[]
+],
+[
+"TVG-621",
+0,
+[]
+],
+[
+"Jeu TV - TVG-6",
+0,
+[]
+],
+[
+"TV Sports - TVG SD-04",
+0,
+[]
+],
+[
+"SD-050S color",
+0,
+[]
+],
+[
+"Tele-Jeux TJ-140",
+0,
+[]
+],
+[
+"Sportsman 2001",
+0,
+[]
+],
+[
+"EP-460",
+0,
+[]
+],
+[
+"EP-500",
+0,
+[]
+],
+[
+"Commander",
+0,
+[]
+],
+[
+"Commander Mark III",
+0,
+[]
+],
+[
+"Mec TV Games TVG 1000",
+0,
+[]
+],
+[
+"Fernseh Spiel TVG 2006",
+0,
+[
+"Mec TV Games TVG 2006"
+]
+],
+[
+"Color Game GMC-802",
+0,
+[]
+],
+[
+"GM-402",
+0,
+[]
+],
+[
+"Multi-Play 3300",
+0,
+[]
+],
+[
+"TVG-888",
+0,
+[]
+],
+[
+"NV1001",
+0,
+[
+"sensormatic video sporter"
+]
+],
+[
+"NV404 video game",
+0,
+[]
+],
+[
+"Gamatic 7706 (model with reset and serve on the console body)",
+0,
+[]
+],
+[
+"PP-2000",
+0,
+[]
+],
+[
+"Gamatic 7704",
+0,
+[]
+],
+[
+"Gamatic 8600 Programmable Video Game",
+0,
+[]
+],
+[
+"Telematch Junior",
+0,
+[]
+],
+[
+"Telematch Nuclear",
+0,
+[]
+],
+[
+"Zonk",
+0,
+[]
+],
+[
+"Jeux TV",
+0,
+[]
+],
+[
+"Electronic Color TV Game Q-376",
+0,
+[]
+],
+[
+"Electronic Color TV Game Q-476",
+0,
+[]
+],
+[
+"TV game (t-338/au-807)",
+0,
+[]
+],
+[
+"TV Game Centre (15)",
+0,
+[]
+],
+[
+"TV-Spill - 2 pistols Colour",
+0,
+[]
+],
+[
+"TV8 Sports",
+0,
+[]
+],
+[
+"4 Sports Tele",
+0,
+[]
+],
+[
+"8 Sports Tele",
+0,
+[]
+],
+[
+"10 Sports Tele",
+0,
+[]
+],
+[
+"jeu TV TVG-6",
+0,
+[]
+],
+[
+"Black Point Multicolor FS 1001",
+0,
+[
+"Multicolor FS 1001"
+]
+],
+[
+"Black Point 10 - Tele Sports FS 1002",
+0,
+[
+"10 - Tele Sports FS 1002"
+]
+],
+[
+"Bildmeister Turnier FZ 2001",
+0,
+[]
+],
+[
+"video-sports 124",
+0,
+[]
+],
+[
+"Telematch",
+0,
+[]
+],
+[
+"Starex 502 Jeux video",
+0,
+[]
+],
+[
+"Starex 501 Jeux video",
+0,
+[]
+],
+[
+"Videoshoot",
+0,
+[]
+],
+[
+"Videoshoot 2",
+0,
+[]
+],
+[
+"FS4 Fernsehspiel",
+0,
+[]
+],
+[
+"FS-204 Fernsehspiel",
+0,
+[]
+],
+[
+"TV Sport mark I",
+0,
+[]
+],
+[
+"TVG SD-1",
+0,
+[]
+],
+[
+"TV Game Programmable (CL-2002)",
+0,
+[
+"SD-70?"
+]
+],
+[
+"BN/CL-1010 (TVG-SD-04)",
+0,
+[
+"BN-1010 (black and white)",
+"CL-1010 (color)"
+]
+],
+[
+"Giochi Televisivi (BN-606P)",
+0,
+[]
+],
+[
+"Video Game TVG-204",
+0,
+[]
+],
+[
+"M-1200 Micro Computer",
+0,
+[]
+],
+[
+"Color TV Sport 406-6",
+0,
+[]
+],
+[
+"TV-9010",
+0,
+[]
+],
+[
+"TV-9010-C",
+0,
+[]
+],
+[
+"F-8 (703 SE)",
+0,
+[]
+],
+[
+"Video Sports VS-1",
+0,
+[]
+],
+[
+"Video Sports VS-5",
+0,
+[]
+],
+[
+"TV Spel T-338",
+0,
+[]
+],
+[
+"DX-503",
+0,
+[]
+],
+[
+"5 Jeux - 2002",
+0,
+[]
+],
+[
+"Combat Lunaire",
+0,
+[]
+],
+[
+"TV Challenger Series 3000 (TVC-3000)",
+0,
+[]
+],
+[
+"TV Challenger Series 2000",
+0,
+[]
+],
+[
+"Video Volley",
+0,
+[]
+],
+[
+"Sportron 101",
+0,
+[]
+],
+[
+"W TV 4",
+0,
+[]
+],
+[
+"WG-015",
+0,
+[]
+],
+[
+"TV Game EP460",
+0,
+[]
+],
+[
+"Video Game D-5614",
+0,
+[]
+],
+[
+"Zhoushi TV",
+0,
+[
+"周氏牌電視遊樂器 周氏電子企樂社出品"
+]
+],
+[
+"TVG-872",
+0,
+[]
+],
+[
+"Color C4016 Video Games",
+0,
+[]
+],
+[
+"T.V. Sport / Video Action",
+0,
+[]
+],
+[
+"GD-1380",
+0,
+[]
+],
+[
+"GD-1999",
+0,
+[]
+],
+[
+"GT-10C",
+0,
+[
+"Sportron   GT-10C"
+]
+],
+[
+"GT-16C",
+0,
+[]
+],
+[
+"GT-20C",
+0,
+[]
+],
+[
+"GT-4N (Sportron)",
+0,
+[]
+],
+[
+"GT-6N",
+0,
+[]
+],
+[
+"Home Entertainment Centre Ch-50",
+0,
+[]
+],
+[
+"Optim Sport T-338",
+0,
+[]
+],
+[
+"Optim Sport (Mark I)",
+0,
+[
+"Optim TV Sport"
+]
+],
+[
+"Optim TV Sport TVG-203",
+0,
+[]
+],
+[
+"Optim TV4+ Four-Way Video Game",
+0,
+[
+"Optim TVG-4"
+]
+],
+[
+"Telegame 2001",
+0,
+[]
+],
+[
+"C-2600 Colour",
+0,
+[]
+],
+[
+"TV Spiel Color SD-050",
+0,
+[]
+],
+[
+"TV Game PP-150 Giocattolo",
+0,
+[]
+],
+[
+"JV 1002",
+0,
+[]
+],
+[
+"Jeu Video - JV 402T",
+0,
+[]
+],
+[
+"Jeu Video JV 1T",
+0,
+[]
+],
+[
+"TV Fun 301",
+0,
+[]
+],
+[
+"TV Fun Color Model 501",
+0,
+[]
+],
+[
+"TV Fun Color Model 701",
+0,
+[]
+],
+[
+"TV Fun 801",
+0,
+[]
+],
+[
+"TV Fun 901",
+0,
+[]
+],
+[
+"Video Game TVG-610",
+0,
+[]
+],
+[
+"Videosport-M",
+0,
+[
+"Видеоспорт-М"
+]
+],
+[
+"Eksi-Video 02",
+0,
+[
+"Экси Видео 02"
+]
+],
+[
+"BTSTI + Rubin Ts1-205",
+0,
+[
+"БЦТИ + Рубин Ц1-205"
+]
+],
+[
+"Videosport-2",
+0,
+[
+"ВИДЕО СПОРТ 2"
+]
+],
+[
+"TV-Ping-Pong (DN76)",
+0,
+[]
+],
+[
+"Most Exciting Home Video Game PP-420",
+0,
+[]
+],
+[
+"PP-150",
+0,
+[]
+],
+[
+"PP-790",
+0,
+[]
+],
+[
+"PP-795",
+0,
+[]
+],
+[
+"PP-900",
+0,
+[]
+],
+[
+"Programmable tele-sports III",
+0,
+[]
+],
+[
+"PP-920 (920B)",
+0,
+[]
+],
+[
+"PP-920C",
+0,
+[]
+],
+[
+"PP-920D",
+0,
+[]
+],
+[
+"PP-930",
+0,
+[]
+],
+[
+"PP-940",
+0,
+[
+"Audio Sonic PP-940"
+]
+],
+[
+"Most Exciting Home Video Game TVG-201 (TVG 201-4)",
+0,
+[]
+],
+[
+"TVG-4",
+0,
+[]
+],
+[
+"TVG-6 Color TV game",
+0,
+[]
+],
+[
+"Geti-3220",
+0,
+[]
+],
+[
+"Telesport TV Games",
+0,
+[]
+],
+[
+"Sixplay",
+0,
+[]
+],
+[
+"406-6 Color TV Sports Video Game",
+0,
+[]
+],
+[
+"TV-Multi-Spiel",
+0,
+[]
+],
+[
+"41N",
+0,
+[
+"4IN",
+"Gamatic 7600"
+]
+],
+[
+"6IN",
+0,
+[]
+],
+[
+"Telesport 10",
+0,
+[]
+],
+[
+"Pro-Sports TVG-1001",
+0,
+[]
+],
+[
+"Colour T.V. Games TV 01",
+0,
+[]
+],
+[
+"Videoalvo (VD-850 A)",
+0,
+[
+"Videoalvo"
+]
+],
+[
+"Telecourt HVG-110",
+0,
+[]
+],
+[
+"Telecourt HVG-220",
+0,
+[]
+],
+[
+"Tele-Tainment",
+0,
+[]
+],
+[
+"Tele-Tainment II",
+0,
+[]
+],
+[
+"TV Game TVG-96 Coleur",
+0,
+[]
+],
+[
+"T.V. Game",
+0,
+[]
+],
+[
+"Programmable TVGame SD-050C",
+0,
+[]
+],
+[
+"TV 18 Color (C-4016)",
+0,
+[
+"18 Spannende Videospiele"
+]
+],
+[
+"TV 2018 Color (20 441/2)",
+0,
+[
+"18 Spannende Videospiele"
+]
+],
+[
+"Adman Sportsvision TV Game Model 1000",
+0,
+[]
+],
+[
+"TVG-500",
+0,
+[]
+],
+[
+"TVG 3000",
+0,
+[]
+],
+[
+"Colour TV Game 8881",
+0,
+[]
+],
+[
+"Optim 600 colour",
+0,
+[]
+],
+[
+"108",
+0,
+[]
+],
+[
+"T-802C colour TV game",
+0,
+[]
+],
+[
+"Videorama",
+0,
+[
+"Poli Tron Videorama"
+]
+],
+[
+"TV-Player 1",
+0,
+[]
+],
+[
+"TV-Player II",
+0,
+[]
+],
+[
+"9012  Color TV sports",
+0,
+[]
+],
+[
+"Video Olympiad Colorama (7701)",
+0,
+[]
+],
+[
+"T.U.G.",
+0,
+[]
+],
+[
+"Paris Video Couleur CB-812",
+0,
+[]
+],
+[
+"Telegioco",
+0,
+[]
+],
+[
+"Match I",
+0,
+[
+"Macth"
+]
+],
+[
+"Breamcolor",
+0,
+[]
+],
+[
+"Breamcross",
+0,
+[]
+],
+[
+"Teleplay (Bream Player Special)",
+0,
+[
+"Bream Player Special"
+]
+],
+[
+"Video Sports - Electronic 4-in-1",
+0,
+[]
+],
+[
+"Color Video Attack S-560C",
+0,
+[]
+],
+[
+"Color Video Game (CS? 700)",
+0,
+[]
+],
+[
+"Electronic Action TV Game Model 200",
+0,
+[]
+],
+[
+"Kodak Color Film",
+0,
+[]
+],
+[
+"Video Attack 7",
+0,
+[]
+],
+[
+"Video Attack TG-7800",
+0,
+[]
+],
+[
+"Video Sports (SG-1000)",
+0,
+[]
+],
+[
+"Sportfun TV game",
+0,
+[]
+],
+[
+"TV game AU-708",
+0,
+[]
+],
+[
+"TELE-SET GTV 881",
+0,
+[
+"TELE-SET GTV 881 (Unitra)"
+]
+],
+[
+"Video Action",
+0,
+[]
+],
+[
+"Video-Pro",
+0,
+[]
+],
+[
+"Video-Pro II",
+0,
+[]
+],
+[
+"TV Sport (T-338)",
+0,
+[]
+],
+[
+"Video Game VG-104",
+0,
+[]
+],
+[
+"Electrosport Colour",
+0,
+[]
+],
+[
+"Tele Pong IV",
+0,
+[]
+],
+[
+"Tele Pong",
+0,
+[]
+],
+[
+"Federal 7620",
+0,
+[]
+],
+[
+"Furtec 5",
+0,
+[]
+],
+[
+"TV-Games LU-009",
+0,
+[]
+],
+[
+"Programmable 2003",
+0,
+[]
+],
+[
+"TV Bol",
+0,
+[]
+],
+[
+"D-5614",
+0,
+[]
+],
+[
+"El-tvg-01",
+0,
+[]
+],
+[
+"El-tvg-02c",
+0,
+[]
+],
+[
+"Mod.2",
+0,
+[]
+],
+[
+"FS-Spiel TVG-204 - 4/8",
+0,
+[]
+],
+[
+"TVG-209 - 4",
+0,
+[]
+],
+[
+"Color TVG-409 - 4/8",
+0,
+[]
+],
+[
+"TV-Sports 77",
+0,
+[]
+],
+[
+"Video Sport",
+0,
+[]
+],
+[
+"7N TV game",
+0,
+[]
+],
+[
+"Y-1170 TV Game",
+0,
+[]
+],
+[
+"Video Ball Game Kit",
+0,
+[]
+],
+[
+"Programmable TV Game Console Y-1160",
+0,
+[]
+],
+[
+"Color TV sports TVG-406-6",
+0,
+[]
+],
+[
+"SD-081",
+0,
+[]
+],
+[
+"Colormate de Luxe",
+0,
+[]
+],
+[
+"TVG-205 colour",
+0,
+[]
+],
+[
+"Tele jeu 6000",
+0,
+[
+"Telejeu"
+]
+],
+[
+"Video Game TVG-203",
+0,
+[]
+],
+[
+"Programmable TV Game 501",
+0,
+[
+"Programmable TV Game"
+]
+],
+[
+"Video Esport",
+0,
+[]
+],
+[
+"Convoy 7600",
+0,
+[]
+],
+[
+"Convoy 7706",
+0,
+[]
+],
+[
+"Jeu Video JT 321",
+0,
+[]
+],
+[
+"TV Spel AU-807",
+0,
+[]
+],
+[
+"Ags TVG 101-4",
+0,
+[]
+],
+[
+"TVG-SD-01-8 Color",
+0,
+[]
+],
+[
+"Video SD-050",
+0,
+[]
+],
+[
+"Video Spiel TG-621",
+0,
+[]
+],
+[
+"Electronic TV Game Centre Model 15",
+0,
+[]
+],
+[
+"HK 1350",
+0,
+[]
+],
+[
+"7000 Color",
+0,
+[]
+],
+[
+"Stadium 4002",
+0,
+[
+"Ameltone Stadium 4002"
+]
+],
+[
+"Stadium BW-11",
+0,
+[]
+],
+[
+"Stadium Colour C-22",
+0,
+[]
+],
+[
+"Stadium C-4003",
+0,
+[]
+],
+[
+"Most Exciting Home Video Game D-5614",
+0,
+[]
+],
+[
+"Programmable TV Game - TVG-868",
+0,
+[
+"Programmable TV Game",
+"TVG-868"
+]
+],
+[
+"2000 T.V. Game",
+0,
+[
+"2000 T.V. Game Electronic Solid State"
+]
+],
+[
+"Color TV Game CT-7600CG",
+0,
+[
+"Color TV Game CT-7600C"
+]
+],
+[
+"Nesa Pong",
+0,
+[]
+],
+[
+"SD-05",
+0,
+[]
+],
+[
+"TV Jogo 10",
+0,
+[]
+],
+[
+"HIT-10",
+0,
+[]
+],
+[
+"Ultra Pong Doubles (C-402 D)",
+0,
+[
+"C-402 D"
+]
+],
+[
+"Talent TV & Pong set",
+0,
+[]
+],
+[
+"Telegol",
+0,
+[]
+],
+[
+"Telegol 2",
+0,
+[]
+],
+[
+"Videojuel",
+0,
+[]
+],
+[
+"OC 2000",
+0,
+[]
+],
+[
+"Colour Cartridge SD050",
+0,
+[]
+],
+[
+"Jeu Video JV1V",
+0,
+[]
+],
+[
+"Jeu Video JV2V",
+0,
+[]
+],
+[
+"Jeu Video JV402V",
+0,
+[]
+],
+[
+"Jeu Video JV602V",
+0,
+[]
+],
+[
+"NES Action Set",
+0,
+[]
+],
+[
+"Teenage Mutant Ninja Turtles II: Splinter Speaks",
+0,
+[]
+],
+[
+"Teenage Mutant Ninja Turtles: Dimension X Assault",
+0,
+[]
+],
+[
+"Teenage Mutant Ninja Turtles: Shredder Gets Shelled",
+0,
+[
+"TMNT: Shredder Gets Shelled"
+]
+],
+[
+"Teenage Mutant Ninja Turtles: Mutant and Monster Mayhem",
+0,
+[]
+],
+[
+"Teenage Mutant Ninja Turtles: Battle for the City",
+0,
+[]
+],
+[
+"Game Child",
+0,
+[]
 ]
 ]

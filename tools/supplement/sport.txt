@@ -1,0 +1,150 @@
+Pelota
+Basque Pelota
+Lawn Bowls=bowls
+Shooting
+Sport Shooting
+Clay Pigeon Shooting
+Trap Shooting
+Skeet Shooting
+Sambo
+Speed Skating
+Short Track Speed Skating
+Trampoline
+Trampolining
+Equestrian
+Eventing
+Endurance Riding
+Vaulting
+Polo
+Polocrosse
+Horseball
+NASCAR=stock car racing
+Rally=rallying
+Rallycross
+Chess
+Checkers
+Go
+Bridge
+Poker
+Esports
+Speedcubing
+Orienteering
+Rogaining
+Geocaching
+Cross-country Running
+Trail Running
+Ultramarathon
+Race Walking
+Steeplechase
+Hurdles
+Sprinting
+Relay
+Decathlon
+Pentathlon
+Modern Pentathlon
+Heptathlon
+Duathlon
+Aquathlon
+Ironman
+Sky Running
+Fell Running
+Mountaineering
+Ice Climbing
+Canyoning
+Caving
+Skydiving
+BASE Jumping
+Paragliding
+Hang Gliding
+Gliding
+Ballooning
+Air Racing
+Aerobatics
+Wingsuit Flying
+Bungee Jumping
+Zorbing
+Sandboarding
+Snowkiting
+Ice Yachting
+Land Sailing
+Dragon Boat Racing
+Outrigger Canoeing
+Stand-up Paddleboarding=sup
+Rafting
+White Water Rafting
+Freediving
+Spearfishing
+Scuba Diving
+Underwater Hockey
+Underwater Rugby
+Canoe Polo
+Finswimming
+Open Water Swimming
+Cliff Diving
+High Diving
+Fishing
+Angling
+Fly Fishing
+Hunting
+Falconry
+Dog Sledding
+Mushing
+Skijoring
+Barrel Racing
+Bull Riding
+Team Roping
+Steer Wrestling
+Calf Roping
+Arm Wrestling
+Tug of War
+Strongman
+Bodybuilding
+Powerlifting
+CrossFit
+Calisthenics
+Cheerleading
+Dance Sport
+Pole Sports
+Jump Rope
+Double Dutch
+Footbag
+Hacky Sack
+Spikeball
+Roundnet
+Kickball
+Dodgeball
+Wiffle Ball
+Stickball
+Stoolball
+Rounders
+Baseball5
+Teqball
+Padbol
+Sepak Takraw
+Jianzi
+Chinlone
+Kabaddi
+Kho Kho
+Gilli Danda
+Mallakhamb
+Kalaripayattu
+Silat
+Pencak Silat
+Krav Maga
+Aikido
+Hapkido
+Kung Fu
+Wushu
+Tai Chi
+Savate
+Lethwei
+Bokator
+Glima
+Schwingen
+Yağlı Güreş
+Oil Wrestling
+Pehlwani
+Kushti
+Mongolian Wrestling
+Ssireum
+Sumo

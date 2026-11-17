@@ -1,790 +1,2011 @@
 [
 [
 "Turkey",
-430
+430,
+[
+"Republic of Turkey",
+"Republic of Türkiye"
+]
 ],
 [
 "France",
-428
+428,
+[
+"French Republic"
+]
 ],
 [
 "United States",
-427
+427,
+[
+"Merica",
+"'Murica",
+"Murica",
+"the States",
+"the United States",
+"the United States of America",
+"the U.S.",
+"the US",
+"the U.S.A.",
+"the USA",
+"the U.S. of A",
+"the US of A",
+"the U.S. of America",
+"the US of America",
+"United States of America",
+"U. S.",
+"U. S. A.",
+"US of A",
+"U.S. of America",
+"US of America"
+]
 ],
 [
 "Russia",
-421
+421,
+[
+"Russian Federation"
+]
 ],
 [
 "Japan",
-419
+419,
+[
+"Iapan",
+"Iapon",
+"Land of Rising Sun",
+"Land of the Rising Sun",
+"Nihon-koku",
+"Nippon-koku",
+"State of Japan"
+]
 ],
 [
 "Italy",
-409
+409,
+[
+"Italian Republic",
+"Republic of Italy"
+]
 ],
 [
 "Germany",
-405
+405,
+[
+"BRD",
+"DE",
+"DEU",
+"Federal Republic of Germany",
+"FRG"
+]
 ],
 [
 "India",
-404
+404,
+[
+"Al Hind",
+"Bharata",
+"Bharat Ganarajya",
+"Bharatvarsh",
+"Hindoostan",
+"Hindustan",
+"Indostan",
+"Republic of India",
+"Tenjiku",
+"Tianzhu"
+]
 ],
 [
 "Finland",
-403
+403,
+[
+"fi",
+"Finnia",
+"Land of Thousand Lakes",
+"Republic of Finland",
+"Republiken Finland",
+"Suomen tasavalta"
+]
 ],
 [
 "Mexico",
-402
+402,
+[
+"Mexican Republic",
+"Mexican United States",
+"mx",
+"MXN",
+"United Mexican States",
+"United States of Mexico",
+"US of M"
+]
 ],
 [
 "People's Republic of China",
-401
+401,
+[
+"China PR",
+"cn",
+"Communist China",
+"P.R.C.",
+"PR China",
+"Red China",
+"the People's Republic of China",
+"The PRC"
+]
 ],
 [
 "Australia",
-400
+400,
+[
+"Aussieland",
+"Commonwealth of Australia",
+"Down Under",
+"New Holland",
+"New Hollandia",
+"Nova Hollandia",
+"Oz",
+"Stralia",
+"'Straya",
+"Straya",
+"Stria",
+"The Commonwealth of Australia"
+]
 ],
 [
 "Canada",
-398
+398,
+[
+"CA",
+"CAN"
+]
 ],
 [
 "Spain",
-397
+397,
+[
+"Kingdom of Spain"
+]
 ],
 [
 "United Kingdom",
-396
+396,
+[
+"G B",
+"Great Britain",
+"Great Britain and Northern Ireland",
+"the UK",
+"the United Kingdom",
+"the United Kingdom of Great Britain and Northern Ireland",
+"U K",
+"United Kingdom of Great Britain and Northern Ireland"
+]
 ],
 [
 "Norway",
-394
+394,
+[
+"Kingdom of Norway"
+]
 ],
 [
 "Egypt",
-392
+392,
+[
+"Arab Rep. Egypt",
+"Arab Republic of Egypt",
+"Misr",
+"Rep. Egypt",
+"Republic of Egypt"
+]
 ],
 [
 "Poland",
-391
+391,
+[
+"Republic of Poland"
+]
 ],
 [
 "Ukraine",
-390
+390,
+[
+"Ukr.",
+"Ukraïna",
+"Ukrainia"
+]
 ],
 [
 "Brazil",
-387
+387,
+[
+"Federative Republic of Brazil"
+]
 ],
 [
 "Albania",
-387
+387,
+[
+"People's Republic of Albania",
+"People's Socialist Republic of Albania",
+"Republic of Albania",
+"Republika Popullore e Shqiperise",
+"Republika Popullore Socialiste e Shqiperise",
+"Shqipërisë"
+]
 ],
 [
 "Switzerland",
-387
+387,
+[
+"Confoederatio Helvetica",
+"Swiss",
+"Swiss Confederation"
+]
 ],
 [
 "Belgium",
-384
+384,
+[
+"Kingdom of Belgium"
+]
 ],
 [
 "Chile",
-383
+383,
+[
+"CHI",
+"Republic of Chile"
+]
 ],
 [
 "Israel",
-379
+379,
+[
+"il",
+"ISR",
+"State of Israel",
+"Yisrael"
+]
 ],
 [
 "Greece",
-378
+378,
+[
+"el",
+"gr",
+"Greek Republic",
+"Hellas, Greece",
+"Hellenic Republic"
+]
 ],
 [
 "Iran",
-377
+377,
+[
+"ir",
+"IRI",
+"Islamic Rep. Iran",
+"Islamic Republic of Iran"
+]
 ],
 [
 "Algeria",
-374
+374,
+[
+"Djazaïr",
+"Dzayer",
+"People's Democratic Republic of Algeria"
+]
 ],
 [
 "Austria",
-372
+372,
+[
+"Republic of Austria"
+]
 ],
 [
 "Argentina",
-372
+372,
+[
+"Argentine Republic",
+"Republica Argentina",
+"Republic of Argentina"
+]
 ],
 [
 "Portugal",
-372
+372,
+[
+"POR",
+"Portuguese Republic"
+]
 ],
 [
 "Sweden",
-370
+370,
+[
+"Kingdom of Sweden",
+"se",
+"Swedish Kingdom"
+]
 ],
 [
 "Vietnam",
-370
+370,
+[
+"Socialist Republic of Viet Nam",
+"SRV",
+"VIE",
+"VNM"
+]
 ],
 [
 "South Africa",
-368
+368,
+[
+"Republic of South Africa",
+"R.S.A.",
+"RSA",
+"SA",
+"zaf"
+]
 ],
 [
 "Colombia",
-367
+367,
+[
+"Colombiá",
+"Republic of Colombia",
+"The Republic of Colombia"
+]
 ],
 [
 "Indonesia",
-366
+366,
+[
+"id",
+"Republic of Indonesia"
+]
 ],
 [
 "Azerbaijan",
-364
+364,
+[
+"Republic of Azerbaijan"
+]
 ],
 [
 "Afghanistan",
-364
+364,
+[
+"Affghanistan",
+"Affghanisthan",
+"Affghaunistan",
+"Afghania",
+"Afghanisthan",
+"Afghaunistan",
+"Afghaunistaun"
+]
 ],
 [
 "Bulgaria",
-361
+361,
+[
+"Bulgarian Republic",
+"Republic of Bulgaria"
+]
 ],
 [
 "Belarus",
-360
+360,
+[
+"Belorussia",
+"Bielaruś",
+"Bielorussia",
+"by",
+"Byeloruss",
+"Byelorussia",
+"Republic of Belarus",
+"Respublika Belarus'",
+"Respublika Bielaruś",
+"White Russia",
+"White Ruthenia"
+]
 ],
 [
 "Hungary",
-359
+359,
+[]
 ],
 [
 "Pakistan",
-357
+357,
+[
+"Hồi Quốc",
+"Islamic Republic of Pakistan",
+"pk",
+"Republic of Pakistan",
+"Tây Hồi"
+]
 ],
 [
 "Iceland",
-356
+356,
+[
+"Icelandic republic",
+"Isl.",
+"Republic of Iceland",
+"Ysland"
+]
 ],
 [
 "Croatia",
-356
+356,
+[
+"Republic of Croatia",
+"RH"
+]
 ],
 [
 "Thailand",
-356
+356,
+[
+"Kingdom of Siam",
+"Kingdom of Thailand",
+"Prathet Thai",
+"Ratcha-anachak Thai",
+"th",
+"Thai",
+"The Kingdom of Siam",
+"The Kingdom of Thailand"
+]
 ],
 [
 "South Korea",
-356
+356,
+[
+"Choson",
+"Daehanminguk",
+"Daehan Minguk",
+"Hanguk",
+"Korea Republic",
+"Korea (South)",
+"Rep. Korea",
+"Republic of Korea",
+"Silla",
+"S. Korea"
+]
 ],
 [
 "Czech Republic",
-355
+355,
+[
+"Czechia",
+"the Czech Republic"
+]
 ],
 [
 "Armenia",
-355
+355,
+[
+"Hayastani Hanrapetut’yun",
+"Republic of Armenia",
+"Հայաստան"
+]
 ],
 [
 "Estonia",
-354
+354,
+[
+"ee",
+"Eesti Vabariik",
+"Estland",
+"Republic of Estonia"
+]
 ],
 [
 "Lithuania",
-352
+352,
+[
+"Republic of Lithuania"
+]
 ],
 [
 "Serbia",
-352
+352,
+[
+"Republic of Serbia",
+"RS"
+]
 ],
 [
 "New Zealand",
-352
+352,
+[
+"Aotearoa New Zealand",
+"Dominion of New Zealand",
+"nz"
+]
 ],
 [
 "Georgia",
-351
+351,
+[
+"Georgia (country)",
+"Georgia (Sakartvelo)",
+"Republic of Georgia",
+"Sakartvelo"
+]
 ],
 [
 "Saudi Arabia",
-351
+351,
+[
+"Kingdom of Saudi Arabia",
+"Saudi"
+]
 ],
 [
 "Kazakhstan",
-350
+350,
+[
+"kz",
+"Republic of Kazakhstan",
+"Republic of Qazaqstan"
+]
 ],
 [
 "Iraq",
-350
+350,
+[
+"iq",
+"Republic of Iraq"
+]
 ],
 [
 "Nigeria",
-349
+349,
+[
+"Federal Republic of Nigeria",
+"Naija"
+]
 ],
 [
 "Romania",
-349
+349,
+[
+"Roumania",
+"Rumania"
+]
 ],
 [
 "Bangladesh",
-349
+349,
+[
+"Bangla Desh",
+"bd",
+"Country of Bengal",
+"Land of Bengal",
+"People's Republic of Bangladesh"
+]
 ],
 [
 "Ethiopia",
-348
+348,
+[
+"et",
+"Federal Democratic Republic of Ethiopia"
+]
 ],
 [
 "Venezuela",
-347
+347,
+[
+"Bolivarian Republic of Venezuela",
+"BR Venezuela",
+"Republic of Venezuela"
+]
 ],
 [
 "Vatican City",
-343
+343,
+[
+"Città del Vaticano",
+"Holy See",
+"Papal State",
+"State of Vatican City",
+"Stato della Città del Vaticano",
+"Status Civitatis Vaticanae",
+"The Vatican",
+"Vatican",
+"Vatican City State"
+]
 ],
 [
 "Ireland",
-343
+343,
+[
+"Irish Republic",
+"Republic of Ireland",
+"Southern Ireland"
+]
 ],
 [
 "Bosnia and Herzegovina",
-342
+342,
+[
+"ba",
+"B&H",
+"Bosnia and Hercegovina",
+"Bosnia & Herzegovina",
+"Bosnia-Herzegovina"
+]
 ],
 [
 "Malaysia",
-342
+342,
+[
+"Federation of Malaysia",
+"Malaysia Federation"
+]
 ],
 [
 "Slovakia",
-341
+341,
+[
+"SK",
+"Slovak Republic",
+"SVK"
+]
 ],
 [
 "Kenya",
-338
+338,
+[
+"ke",
+"Republic of Kenya"
+]
 ],
 [
 "Syria",
-338
+338,
+[
+"Surya",
+"Syrian Arab Republic"
+]
 ],
 [
 "Latvia",
-336
+336,
+[
+"Latveja",
+"Latvejas Republika",
+"Latvian Republic",
+"Latvija",
+"Latvijas Republika",
+"Leţmо̄",
+"Leţmо̄ Vabāmо̄",
+"lv",
+"Republic of Latvia"
+]
 ],
 [
 "Morocco",
-335
+335,
+[
+"al-Maġrib",
+"Kingdom of Morocco",
+"Lmaġrib",
+"Maroc",
+"Marocco"
+]
 ],
 [
 "Sudan",
-335
+335,
+[
+"al-Sudan",
+"as-Sudan",
+"as-Sūdān",
+"North Sudan",
+"Republic of Sudan",
+"Republic of the Sudan",
+"sd",
+"Soudan",
+"SUD",
+"the Sudan"
+]
 ],
 [
 "Luxembourg",
-335
+335,
+[
+"Grand Duchy of Luxembourg"
+]
 ],
 [
 "Philippines",
-335
+335,
+[
+"Philippine Islands",
+"Republic of the Philippines",
+"RP",
+"The Philippines"
+]
 ],
 [
 "Democratic Republic of the Congo",
-335
+335,
+[
+"cd",
+"COD",
+"Congo (Kinshasa)",
+"Democratic Republic of Congo",
+"Dem. Rep. Congo",
+"Dem. Republic of Congo",
+"Dem. Republic of the Congo",
+"D.R.C.",
+"DRC",
+"DR Congo"
+]
 ],
 [
 "Libya",
-334
+334,
+[
+"LBA",
+"ly",
+"State of Libya"
+]
 ],
 [
 "Andorra",
-333
+333,
+[
+"Principality of Andorra",
+"Principality of the Valleys of Andorra"
+]
 ],
 [
 "Singapore",
-333
+333,
+[
+"Garden City",
+"Lion City",
+"Republic of Singapore",
+"sg",
+"Singapore City",
+"S'pore"
+]
 ],
 [
 "Peru",
-333
+333,
+[
+"pe",
+"per",
+"Republica del Peru",
+"Republic of Peru"
+]
 ],
 [
 "Slovenia",
-332
+332,
+[
+"Republic of Slovenia",
+"si",
+"slo",
+"Slovenija",
+"svn"
+]
 ],
 [
 "Cambodia",
-332
+332,
+[
+"Camboya",
+"Campuchia",
+"Kambodzha",
+"Kamboja",
+"Kampuchea",
+"kh",
+"Kingdom of Cambodia"
+]
 ],
 [
 "Moldova",
-331
+331,
+[
+"Moldavia",
+"Republica Moldova",
+"Republic of Moldova"
+]
 ],
 [
 "Lebanon",
-330
+330,
+[
+"lb",
+"Lebanese Republic",
+"Lubnan",
+"Republic of Lebanon",
+"State of Lebanon"
+]
 ],
 [
 "Tunisia",
-329
+329,
+[
+"Republic of Tunisia",
+"tn",
+"Tunisian Republic"
+]
 ],
 [
 "North Macedonia",
-327
+327,
+[
+"Former Yugoslav Republic of Macedonia",
+"FYR Macedonia",
+"Macedonia",
+"Makedonia",
+"MK",
+"MKD",
+"NM",
+"Republic of Macedonia",
+"Republic of North Macedonia"
+]
 ],
 [
 "Cyprus",
-327
+327,
+[
+"Greek Administration of Southern Cyprus",
+"Greek Cypriot State",
+"Republic of Cyprus"
+]
 ],
 [
 "Malta",
-327
+327,
+[
+"Republic of Malta"
+]
 ],
 [
 "Somalia",
-326
+326,
+[
+"Federal Republic of Somalia"
+]
 ],
 [
 "Ghana",
-326
+326,
+[]
 ],
 [
 "Uruguay",
-325
+325,
+[
+"Eastern Republic of Uruguay",
+"Oriental Republic of Uruguay",
+"URU",
+"uy"
+]
 ],
 [
 "Nepal",
-325
+325,
+[
+"Bal-bo",
+"Balbo",
+"Balpo",
+"Bal-po'i yul",
+"Balpo-yul",
+"Bal-yul",
+"Federal Democratic Republic of Nepal",
+"Naipál",
+"Naipala",
+"Naipála",
+"Necbal",
+"Nehpal",
+"Nei-pal",
+"Nekbal",
+"Nekpal",
+"Népaal",
+"Nepál",
+"Népál",
+"Nepall",
+"Nepaul",
+"Ne-pel",
+"Nercerri",
+"Niepal",
+"Nipal",
+"Ni-po-lo",
+"Ni-po-louo",
+"Pa-eul-pou",
+"Pai-pou",
+"Paï-pou",
+"Pa-le-pou",
+"Pa-lo-pou",
+"Palpa",
+"Palpou"
+]
 ],
 [
 "Montenegro",
-323
+323,
+[
+"Republic of Montenegro"
+]
 ],
 [
 "Mongolia",
-323
+323,
+[
+"Mongol State",
+"State of Mongolia"
+]
 ],
 [
 "Angola",
-323
+323,
+[
+"ao",
+"Ngola",
+"Republic of Angola"
+]
 ],
 [
 "Monaco",
-322
+322,
+[
+"Fort-Hercule",
+"mc",
+"Mùnegu",
+"Principality and Diocese of Monaco",
+"Principality of Monaco",
+"Principato di Monaco",
+"Principatu de Mu̍negu",
+"Prinçipatu de Mùnegu",
+"Principauté de Monaco"
+]
 ],
 [
 "Madagascar",
-321
+321,
+[
+"Malagascar",
+"Malagaskar",
+"mg",
+"Republic of Madagascar"
+]
 ],
 [
 "Kyrgyzstan",
-321
+321,
+[
+"kg",
+"Kyrgyz Republic"
+]
 ],
 [
 "Tanzania",
-321
+321,
+[
+"Tanzania, United Republic of",
+"tz",
+"tza",
+"United Republic of Tanganyika and Zanzibar",
+"United Republic of Tanzania"
+]
 ],
 [
 "United Arab Emirates",
-320
+320,
+[
+"ae",
+"Emirates",
+"the Emirates",
+"the U.A.E.",
+"the UAE",
+"the United Arab Emirates",
+"U.A.E."
+]
 ],
 [
 "Zimbabwe",
-320
+320,
+[
+"Republic of Zimbabwe",
+"Rhodesia",
+"Southern Rhodesia",
+"Zimbabwe Rhodesia"
+]
 ],
 [
 "Chad",
-319
+319,
+[
+"CHA",
+"GUM",
+"Republic of Chad",
+"td"
+]
 ],
 [
 "Yemen",
-318
+318,
+[
+"Republic of Yemen",
+"Rep. Yemen",
+"ye"
+]
 ],
 [
 "Myanmar",
-318
+318,
+[
+"Republic of the Union of Myanmar",
+"Union of Burma"
+]
 ],
 [
 "Namibia",
-317
+317,
+[
+"na",
+"Republic of Namibia"
+]
 ],
 [
 "Ecuador",
-317
+317,
+[
+"Republic of Ecuador",
+"Republic of Equator",
+"Republic of the Equator",
+"The Ecuadorian State"
+]
 ],
 [
 "Laos",
-317
+317,
+[
+"la",
+"Lao PDR",
+"Lao People's Democratic Republic"
+]
 ],
 [
 "Liechtenstein",
-316
+316,
+[
+"FL",
+"li",
+"Principality of Liechtenstein"
+]
 ],
 [
 "Taiwan",
-316
+316,
+[
+"China, Republic of",
+"Chinese Republic",
+"Chinese Taipei",
+"Chunghwa Minkuo",
+"Chunghwa Minkwo",
+"Free China",
+"Nationalist China",
+"Republic of China",
+"Republic of China (Taiwan)",
+"ROC",
+"Taiwan ROC",
+"The ROC",
+"TW",
+"TWN"
+]
 ],
 [
 "Botswana",
-315
+315,
+[
+"bw",
+"Lefatshe la Botswana",
+"Republic of Botswana"
+]
 ],
 [
 "Ivory Coast",
-314
+314,
+[
+"ci",
+"Cote d'Ivoire",
+"Cote-d'Ivoire",
+"Côte-d'Ivoire",
+"Cote d'lvoire",
+"Cote Ivoire",
+"Republic of Cote d'Ivoire",
+"Republic of Côte d'Ivoire",
+"Republic of Ivory Coast",
+"Republic of the Ivory Coast",
+"The Ivory Coast"
+]
 ],
 [
 "Cameroon",
-314
+314,
+[
+"Republic of Cameroon"
+]
 ],
 [
 "San Marino",
-314
+314,
+[
+"Most Serene Republic of San Marino",
+"sm"
+]
 ],
 [
 "Bolivia",
-314
+314,
+[
+"Bolivia (Plurinational State of)",
+"Plurinational State of Bolivia",
+"Republic of Bolivia"
+]
 ],
 [
 "Jordan",
-314
+314,
+[
+"Giordania",
+"Hashemite Kingdom of Jordan",
+"HKJ",
+"ISO 3166-1:JO",
+"Kingdom of Jordan",
+"State of Jordan",
+"Yarden"
+]
 ],
 [
 "North Korea",
-313
+313,
+[
+"Democratic People's Republic of Korea",
+"DPRK",
+"DPR Korea",
+"kp",
+"N. Korea"
+]
 ],
 [
 "Uganda",
-312
+312,
+[
+"+256",
+"Ouganda",
+"Pearl of Africa",
+"Republic of Uganda",
+"The Republic of Uganda",
+"ug",
+"Ugandah"
+]
 ],
 [
 "Cuba",
-312
+312,
+[
+"cu",
+"Republic of Cuba"
+]
 ],
 [
 "Paraguay",
-312
+312,
+[
+"Heart of South America",
+"Republic of Paraguay"
+]
 ],
 [
 "Mali",
-312
+312,
+[
+"ml",
+"Republic of Mali"
+]
 ],
 [
 "Sri Lanka",
-311
+311,
+[
+"ce",
+"Ceylan",
+"Democratic Socialist Republic of Sri Lanka",
+"Lanka, Sri",
+"lk",
+"lke",
+"Serendib",
+"sri",
+"SRI",
+"Srilanka",
+"Taprobane"
+]
 ],
 [
 "Uzbekistan",
-310
+310,
+[
+"Republic of Uzbekistan"
+]
 ],
 [
 "Senegal",
-309
+309,
+[
+"Republic of Senegal"
+]
 ],
 [
 "Zambia",
-309
+309,
+[
+"Republic of Zambia",
+"Zed"
+]
 ],
 [
 "Burkina Faso",
-309
+309,
+[
+"bf",
+"Republic of Burkina Faso",
+"Republic of Upper Volta (-1984)"
+]
 ],
 [
 "Eritrea",
-309
+309,
+[
+"er",
+"Ertrā",
+"Iritriyā",
+"State of Eritrea"
+]
 ],
 [
 "Tajikistan",
-308
+308,
+[
+"Republic of Tajikistan",
+"tj"
+]
 ],
 [
 "Benin",
-308
+308,
+[
+"Republic of Benin"
+]
 ],
 [
 "Mauritania",
-306
+306,
+[
+"Agawej",
+"Gannaar",
+"Gànnaar",
+"Islamic Republic of Mauritania",
+"Mauretania",
+"Moritani",
+"mr",
+"Muritanya",
+"Murutaane"
+]
 ],
 [
 "Bahrain",
-306
+306,
+[
+"Bahrein Islands",
+"bh",
+"Dawlat al-Bahrain",
+"ISO 3166-1:BH",
+"Kingdom of Bahrain",
+"Mamlakat al-Baḥrayn"
+]
 ],
 [
 "Kuwait",
-306
+306,
+[
+"kw",
+"State of Kuwait"
+]
 ],
 [
 "Bhutan",
-306
+306,
+[
+"BHU",
+"Kingdom of Bhutan"
+]
 ],
 [
 "Panama",
-304
+304,
+[
+"pa",
+"Republic of Panama"
+]
 ],
 [
 "Burundi",
-304
+304,
+[
+"bi",
+"Gouvernement du Burundi",
+"Republic of Burundi",
+"Republika y'Uburundi"
+]
 ],
 [
 "Mozambique",
-303
+303,
+[
+"Moçambique",
+"mz",
+"República de Moçambique",
+"Republic of Mozambique"
+]
 ],
 [
 "Rwanda",
-303
+303,
+[
+"Republic of Rwanda",
+"The Land of a Thousand Hills"
+]
 ],
 [
 "Niger",
-302
+302,
+[
+"ne",
+"Republic Niger",
+"Republic of Niger",
+"Republic of the Niger",
+"The Niger"
+]
 ],
 [
 "Costa Rica",
-302
+302,
+[
+"cr",
+"Republic of Costa Rica"
+]
 ],
 [
 "Central African Republic",
-302
+302,
+[
+"Central Africa",
+"cf"
+]
 ],
 [
 "Togo",
-302
+302,
+[
+"tg",
+"Togolese Republic"
+]
 ],
 [
 "The Gambia",
-301
+301,
+[
+"Gambia",
+"Islamic Republic of the Gambia",
+"Republic of the Gambia"
+]
 ],
 [
 "Guinea",
-301
+301,
+[
+"gn",
+"GUI",
+"Guinea-Conakry",
+"Republic of Guinea"
+]
 ],
 [
 "Honduras",
-301
+301,
+[
+"hn",
+"HON",
+"Honduran Republic",
+"Republic of Honduras"
+]
 ],
 [
 "Guinea-Bissau",
-300
+300,
+[
+"GBS",
+"gw",
+"Republic of Guinea-Bissau"
+]
 ],
 [
 "Republic of the Congo",
-300
+300,
+[
+"cg",
+"Congo (Brazzaville)",
+"Congo Republic",
+"Rep. Congo",
+"Republic of Congo",
+"Republique du Congo",
+"République du Congo"
+]
 ],
 [
 "Djibouti",
-300
+300,
+[
+"dj",
+"Gabuuti",
+"Jabuuti",
+"Jībūtī",
+"Republic of Djibouti"
+]
 ],
 [
 "Turkmenistan",
-299
+299,
+[
+"tm",
+"Turkmenia"
+]
 ],
 [
 "Malawi",
-298
+298,
+[
+"MAW",
+"mw",
+"Republic of Malawi"
+]
 ],
 [
 "Oman",
-298
+298,
+[
+"om",
+"omn",
+"Sultanate of Oman",
+"Uman"
+]
 ],
 [
 "Brunei",
-298
+298,
+[
+"bn",
+"Nation of Brunei, the Abode of Peace",
+"Negara Brunei Darussalam"
+]
 ],
 [
 "Gabon",
-296
+296,
+[
+"ga",
+"GAB",
+"Gabonese Republic",
+"Republique Gabonaise",
+"République Gabonaise"
+]
 ],
 [
 "Sierra Leone",
-294
+294,
+[
+"Republic of Sierra Leone",
+"sl",
+"SLE"
+]
 ],
 [
 "Haiti",
-294
+294,
+[
+"Ayiti",
+"HAI",
+"Haitian Republic",
+"Hayti",
+"ht",
+"Republic of Haiti"
+]
 ],
 [
 "Cape Verde",
-292
+292,
+[
+"Cape Verde Islands",
+"Republic of Cabo Verde",
+"Republic of Cape Verde"
+]
 ],
 [
 "Liberia",
-292
+292,
+[
+"Liber",
+"lr",
+"Republic of Liberia"
+]
 ],
 [
 "Timor-Leste",
-292
+292,
+[
+"Democratic Republic of Timor-Leste",
+"East Timor"
+]
 ],
 [
 "Maldives",
-291
+291,
+[
+"MDV",
+"mv",
+"Republic of Maldives"
+]
 ],
 [
 "Qatar",
-291
+291,
+[
+"qa",
+"qat",
+"State of Qatar"
+]
 ],
 [
 "Papua New Guinea",
-289
+289,
+[
+"Independent State of Papua New Guinea"
+]
 ],
 [
 "El Salvador",
-289
+289,
+[
+"ESA",
+"Republic of El Salvador",
+"Salvador",
+"sv"
+]
 ],
 [
 "Suriname",
-288
+288,
+[
+"Dutch Guiana",
+"Republic of Surinam",
+"Republic of Suriname",
+"sr",
+"Surinam",
+"Surrinam"
+]
 ],
 [
 "Eswatini",
-287
+287,
+[
+"eSwatini",
+"Kingdom of Swaziland",
+"sz",
+"Umbuso weSwatini"
+]
 ],
 [
 "Guyana",
-287
+287,
+[
+"Co-operative Republic of Guyana",
+"gy",
+"Republic of Guyana"
+]
 ],
 [
 "Mauritius",
-285
+285,
+[
+"Maurice",
+"Moris",
+"MRI",
+"MU",
+"Republic of Mauritius"
+]
 ],
 [
 "Kosovo",
-285
+285,
+[
+"Republic of Kosovo",
+"RKS"
+]
 ],
 [
 "Equatorial Guinea",
-285
+285,
+[
+"GEQ",
+"gq",
+"Republic of Equatorial Guinea"
+]
 ],
 [
 "Nicaragua",
-284
+284,
+[
+"NCA",
+"ni",
+"NI",
+"NIC",
+"Republic of Nicaragua"
+]
 ],
 [
 "Comoros",
-284
+284,
+[
+"al-Ittiḥād al-Qumurī",
+"Juzur al-Qamar",
+"Juzur al-Qumur",
+"km",
+"Massiwa ya komori",
+"ouvoimoja wakomori",
+"the Comoros",
+"Udzima wa Komori",
+"Union des Comores",
+"Union of the Comoros"
+]
 ],
 [
 "Jamaica",
-283
+283,
+[
+"Commonwealth of Jamaica",
+"JA"
+]
 ],
 [
 "Guatemala",
-283
+283,
+[
+"gt",
+"GT",
+"GTM",
+"Republic of Guatemala"
+]
 ],
 [
 "South Sudan",
-283
+283,
+[
+"Republic of South Sudan",
+"Southern Sudan",
+"ss"
+]
 ],
 [
 "Lesotho",
-282
+282,
+[
+"Kingdom of Lesotho",
+"LES",
+"ls",
+"The Mountain Kingdom"
+]
 ],
 [
 "Belize",
-282
+282,
+[
+"bz"
+]
 ],
 [
 "Fiji",
-282
+282,
+[
+"Fijī",
+"Fijī Gaṇarājya",
+"fj",
+"Matanitu Tugalala o Viti",
+"Republic of Fiji",
+"Republic of the Fiji Islands",
+"Viti"
+]
 ],
 [
 "Dominican Republic",
-282
+282,
+[
+"Dominicana",
+"DomRep",
+"RD",
+"Republica Dominicana",
+"República Dominicana"
+]
 ],
 [
 "The Bahamas",
-281
+281,
+[
+"Bahama Islands",
+"Bahamas",
+"Bahamas, The",
+"bs",
+"Commonwealth of the Bahamas",
+"Commonwealth of The Bahamas"
+]
 ],
 [
 "Seychelles",
-278
+278,
+[
+"Republic of Seychelles",
+"sc",
+"SEY"
+]
 ],
 [
 "Barbados",
-277
+277,
+[
+"BAR",
+"Barbadoes",
+"bb"
+]
 ],
 [
 "São Tomé and Príncipe",
-274
+274,
+[
+"Democratic Republic of São Tomé and Príncipe",
+"Sao Tome and Principe",
+"São Tomé og Príncipe",
+"Sao Tome & Principe",
+"st"
+]
 ],
 [
 "Dominica",
-268
+268,
+[
+"Commonwealth of Dominica",
+"dm",
+"DOM",
+"Island of Dominica",
+"The Commonwealth of Dominica",
+"Wai'tu kubuli",
+"Wai‘tu kubuli"
+]
 ],
 [
 "Vanuatu",
-266
+266,
+[
+"Republic of Vanuatu",
+"van",
+"VAN",
+"vu",
+"vut"
+]
 ],
 [
 "Nauru",
-266
+266,
+[
+"Naoero",
+"nr",
+"Pleasant Island",
+"Republic of Naoero",
+"Republic of Nauru"
+]
 ],
 [
 "Antigua and Barbuda",
-266
+266,
+[
+"Antigua & Barbuda",
+"Antigua-Barbuda",
+"Antigua–Barbuda"
+]
 ],
 [
 "Tonga",
-263
+263,
+[
+"Friendly Islands",
+"Kingdom of Tonga",
+"to",
+"Tonga Islands"
+]
 ],
 [
 "Samoa",
-263
+263,
+[
+"Independent State of Samoa",
+"SAM",
+"Western Samoa",
+"ws"
+]
 ],
 [
 "Palau",
-259
+259,
+[
+"Belau",
+"Peeloo",
+"Pelew",
+"Pelew islands",
+"Pellew",
+"pw",
+"Republic of Belau",
+"Republic of Palau"
+]
 ],
 [
 "Tuvalu",
-255
+255,
+[
+"Ellice Islands",
+"TUV",
+"tv"
+]
 ],
 [
 "Grenada",
-253
+253,
+[
+"gd",
+"GRN"
+]
 ],
 [
 "Kiribati",
-251
+251,
+[
+"ki",
+"Republic of Kiribati"
+]
 ],
 [
 "Trinidad and Tobago",
-251
+251,
+[
+"Republic of Trinidad and Tobago",
+"Trinidad & Tobago",
+"tt"
+]
 ],
 [
 "Solomon Islands",
-245
+245,
+[
+"sb",
+"SOL",
+"the Solomon Islands"
+]
 ],
 [
 "Saint Kitts and Nevis",
-239
+239,
+[
+"Federation of Saint Christopher and Nevis",
+"Federation of Saint Kitts and Nevis",
+"Kitts and Nevis",
+"Kitts & Nevis",
+"Saint Christopher and Nevis",
+"St Kitts and Nevis",
+"St. Kitts and Nevis",
+"St Kitts & Nevis",
+"St. Kitts & Nevis"
+]
 ],
 [
 "Marshall Islands",
-238
+238,
+[
+"mh",
+"Republic of the Marshall Islands"
+]
 ],
 [
 "Saint Vincent and the Grenadines",
-238
+238,
+[
+"Saint Vincent",
+"St Vincent",
+"St. Vincent",
+"St Vincent and the Grenadines",
+"St. Vincent and the Grenadines",
+"vc",
+"vct"
+]
 ],
 [
 "Saint Lucia",
-236
+236,
+[
+"Hewanorra",
+"Iyonola",
+"lc",
+"lca",
+"St Lucia",
+"St. Lucia"
+]
 ],
 [
 "Palestine",
-226
+226,
+[
+"PSE",
+"State of Palestine"
+]
 ],
 [
 "Federated States of Micronesia",
-225
+225,
+[
+"Federated States of Micronesia, FSM",
+"Fed. Sts. Micronesia",
+"Fed. Sts. of Micronesia",
+"fm",
+"FSM",
+"Micronesia"
+]
 ],
 [
 "Kingdom of the Netherlands",
-108
+108,
+[
+"Kingdom of Netherlands",
+"Nederlanden",
+"Netherlands",
+"the Netherlands"
+]
 ],
 [
 "Kingdom of Denmark",
-56
+56,
+[
+"Danish Commonwealth",
+"Danish Realm",
+"Danmarkar Ríki",
+"Danmarkip Naalagaaffik",
+"Danmarks Rige",
+"Denmark",
+"Kongeriget Danmark",
+"Kongsríki Danmarkar",
+"Kunngeqarfik Danmarki",
+"Realm of Denmark"
+]
 ]
 ]

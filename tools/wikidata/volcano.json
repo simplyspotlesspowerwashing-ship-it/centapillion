@@ -1,3242 +1,15120 @@
 [
 [
 "Mount Kilimanjaro",
-188
+188,
+[
+"Kilimanjaro",
+"Kilima-Njaro",
+"Mount Kilimawn",
+"Mt Kilimanjaro",
+"Mt. Kilimanjaro"
+]
 ],
 [
 "Mount Fuji",
-146
+146,
+[
+"🗻",
+"Fuji Mountain",
+"Fuji-san",
+"Fujisan",
+"Fuji-yama",
+"Fujiyama",
+"Mt Fuji",
+"Mt. Fuji"
+]
 ],
 [
 "Mount Vesuvius",
-136
+136,
+[
+"Vesuvius"
+]
 ],
 [
 "Mount Etna",
-125
+125,
+[
+"Aetna",
+"Etna",
+"Èttena",
+"Èttina",
+"Mount Aetna"
+]
 ],
 [
 "Mount Ararat",
-112
+112,
+[
+"Agri Dagi",
+"Ararat",
+"Greater Ararat",
+"Mount Aghri",
+"Mount Agri"
+]
 ],
 [
 "Teide",
-105
+105,
+[
+"El Teide",
+"Mount Teide"
+]
 ],
 [
 "Mauna Kea",
-87
+87,
+[
+"Mount Mauna Kea"
+]
 ],
 [
 "Chimborazo",
-84
+84,
+[
+"Mount Chimborazo"
+]
 ],
 [
 "Merapi",
-80
+80,
+[
+"Mount Merapi"
+]
 ],
 [
 "Damavand",
-79
+79,
+[
+"Demavend",
+"Mount Damavand",
+"Mount Damāvand",
+"Mount Demavend"
+]
 ],
 [
 "Mauna Loa",
-78
+78,
+[
+"Mauna Loa Volcano"
+]
 ],
 [
 "Baekdu Mountain",
-77
+77,
+[
+"Baekdu",
+"Baekdu Mountains",
+"Changbai Mountain",
+"Mount Paektu",
+"Paektu",
+"Paektu Mountain"
+]
 ],
 [
 "Tambora",
-73
+73,
+[
+"Mount Tambora",
+"Tamboro"
+]
 ],
 [
 "Popocatépetl",
-72
+72,
+[
+"Volcan Popocatepetl"
+]
 ],
 [
 "Mayon Volcano",
-71
+71,
+[
+"Mayon",
+"mount Mayon",
+"Mt. Mayon"
+]
 ],
 [
 "Pinatubo",
-70
+70,
+[
+"Mount Pinatubo"
+]
 ],
 [
 "Mount Erebus",
-69
+69,
+[]
 ],
 [
 "Mount Rainier",
-69
+69,
+[
+"Mt Rainier",
+"Mt. Rainier",
+"Mt. Regnier",
+"Rainier",
+"Tacoma",
+"Tahoma"
+]
 ],
 [
 "Cotopaxi volcano",
-65
+65,
+[
+"Cotopaxi"
+]
 ],
 [
 "Kīlauea",
-65
+65,
+[
+"Kilauea (Havaj, Havajské ostrovy : sopka)",
+"Vulcão Kilauea"
+]
 ],
 [
 "Île Amsterdam",
-65
+65,
+[
+"Amsterdam Island",
+"Amsterdam Islands",
+"Ile Amsterdam",
+"New Amsterdam",
+"Nouvelle Amsterdam"
+]
 ],
 [
 "Mount Kazbek",
-63
+63,
+[
+"Kazbegi",
+"Kazbek"
+]
 ],
 [
 "Hekla",
-62
+62,
+[
+"Hecla"
+]
 ],
 [
 "Klyuchevskaya Sopka",
-62
+62,
+[
+"Klyuchevskoi"
+]
 ],
 [
 "Mount Pelée",
-62
+62,
+[
+"Mount Pelee"
+]
 ],
 [
 "Mount Cameroon",
-60
+60,
+[
+"Cameroon"
+]
 ],
 [
 "Vulcano",
-59
+59,
+[
+"Hiera",
+"Isola di Vulcano",
+"Therasía",
+"Thérmessa"
+]
 ],
 [
 "Mount Agung",
-58
+58,
+[
+"Gunung Agung",
+"Mt. Agung"
+]
 ],
 [
 "Mount Nyiragongo",
-58
+58,
+[
+"Mt. Nyiragongo",
+"Nyiragongo"
+]
 ],
 [
 "Semeru",
-58
+58,
+[
+"Gunung Semeru",
+"Mount Semeru",
+"Mt. Semeru"
+]
 ],
 [
 "Parícutin",
-57
+57,
+[
+"Paricutin",
+"Volcán de Parícutin"
+]
 ],
 [
 "Llullaillaco",
-56
+56,
+[
+"Llullaillaco Volcano",
+"Mount Llullaillaco",
+"Volcan Llullaillaco",
+"Volcán Llullaillaco"
+]
 ],
 [
 "Mount Apo",
-56
+56,
+[
+"Mt. Apo"
+]
 ],
 [
 "Île Saint-Paul",
-55
+55,
+[
+"Ile Saint-Paul",
+"Saint Paul Island",
+"St. Paul Island"
+]
 ],
 [
 "Nevado del Ruiz",
-54
+54,
+[
+"Glaciar Nevado del Ruiz",
+"La Mesa de Herveo"
+]
 ],
 [
 "Laki",
-52
+52,
+[
+"Lakagigar",
+"Lakagígar"
+]
 ],
 [
 "Mount Ruapehu",
-52
+52,
+[
+"Ruapehu",
+"Ruapehu volcano"
+]
 ],
 [
 "Mount Asama",
-52
+52,
+[]
 ],
 [
 "Taal Volcano",
-52
+52,
+[
+"Mount Taal"
+]
 ],
 [
 "Mount Sinabung",
-51
+51,
+[
+"Sinabung Mount"
+]
 ],
 [
 "Sakurajima",
-50
+50,
+[
+"Mount Sakurajima",
+"Sakura Island"
+]
 ],
 [
 "Grímsvötn",
-50
+50,
+[]
 ],
 [
 "Mount Erciyes",
-49
+49,
+[
+"Erciyes"
+]
 ],
 [
 "Ball's Pyramid",
-49
+49,
+[]
 ],
 [
 "Mount Aso",
-49
+49,
+[
+"Aso-san"
+]
 ],
 [
 "Volcán de Fuego",
-49
+49,
+[
+"Volcan de Fuego"
+]
 ],
 [
 "Katla",
-48
+48,
+[]
 ],
 [
 "Erta Ale",
-48
+48,
+[]
 ],
 [
 "Snæfellsjökull",
-47
+47,
+[]
 ],
 [
 "Tungurahua volcano",
-47
+47,
+[
+"Tungurahua"
+]
 ],
 [
 "Hallasan",
-47
+47,
+[
+"Halla Mountain"
+]
 ],
 [
 "Mount Kerinci",
-47
+47,
+[]
 ],
 [
 "Galeras",
-46
+46,
+[
+"Galeras Volcano",
+"Volcan Galeras"
+]
 ],
 [
 "Iztaccihuatl",
-46
+46,
+[
+"Ixtaccihuatl",
+"Ixtaccíhuatl"
+]
 ],
 [
 "Mount Bromo",
-46
+46,
+[
+"Gunung Bromo"
+]
 ],
 [
 "Avachinsky",
-46
+46,
+[
+"Avacha volcano",
+"Avachinskaya Sopka",
+"Vulkan Avachinskaya Sopka"
+]
 ],
 [
 "Rinjani",
-46
+46,
+[]
 ],
 [
 "Pico do Fogo",
-45
+45,
+[]
 ],
 [
 "Nyamuragira",
-45
+45,
+[
+"Mount Nyamuragira"
+]
 ],
 [
 "Beerenberg",
-45
+45,
+[]
 ],
 [
 "Mount Elgon",
-44
+44,
+[
+"Mt. Elgon"
+]
 ],
 [
 "Inaccessible Island",
-44
+44,
+[]
 ],
 [
 "Emi Koussi",
-43
+43,
+[]
 ],
 [
 "Mount Hood",
-43
+43,
+[
+"Wy'east"
+]
 ],
 [
 "Copahue",
-43
+43,
+[
+"Volcan Copahue"
+]
 ],
 [
 "Mount Unzen",
-43
+43,
+[
+"Unzen-dake"
+]
 ],
 [
 "Mount Shasta",
-43
+43,
+[
+"Bo-lem-poi'-yok",
+"Bo-Lem-Poi'-Yok",
+"Chasta Butte",
+"I-eka",
+"Mont Saste",
+"Mont Saste'",
+"Mount Chasta",
+"Mount Chasty",
+"Mount Jackson",
+"Mount Sastine",
+"Mount Sastise",
+"Mount Sasty",
+"Mount Shaste",
+"Mount Simpson",
+"Mount Tsashti",
+"Mount Tsashtl",
+"Pit Mountain",
+"Sasty Peak",
+"Shasta Butte",
+"Shaste Peak",
+"Shatasia",
+"Snowy Butte",
+"Wi'ke",
+"Wy-e-kah",
+"Wy-E-Kah"
+]
 ],
 [
 "Mount Ontake",
-42
+42,
+[
+"Kiso Ontake",
+"Mount Kiso Ontake"
+]
 ],
 [
 "Parinacota",
-42
+42,
+[
+"Nevado Parinacota"
+]
 ],
 [
 "Shiveluch",
-42
+42,
+[]
 ],
 [
 "Haleakalā",
-42
+42,
+[
+"East Maui Volcano"
+]
 ],
 [
 "Puy de Dôme",
-42
+42,
+[
+"Puy de Dome"
+]
 ],
 [
 "Mount Karisimbi",
-42
+42,
+[
+"Mont Karisimbi"
+]
 ],
 [
 "Koryaksky",
-42
+42,
+[
+"Vulkan Koryakskaya Sopka"
+]
 ],
 [
 "Mount Pico",
-42
+42,
+[
+"Montanha do Pico"
+]
 ],
 [
 "Sangay volcano",
-41
+41,
+[
+"Sangay"
+]
 ],
 [
 "Bárðarbunga",
-40
+40,
+[
+"Bardarbunga"
+]
 ],
 [
 "Askja",
-40
+40,
+[]
 ],
 [
 "Hunga Tonga–Hunga Haʻapai",
-40
+40,
+[
+"Hunga Tonga-Hunga Ha'apai",
+"Hunga Tonga-Hunga Haʻapai"
+]
 ],
 [
 "Mount Baker",
-40
+40,
+[
+"Koma Kulshan",
+"Kulshan",
+"Kwelshán",
+"Kw’eq Smaenit",
+"Mt. Baker",
+"Qwú’mə Kwəlshéːn"
+]
 ],
 [
 "Novarupta",
-40
+40,
+[]
 ],
 [
 "Taranaki Maunga",
-40
+40,
+[
+"Mount Egmont",
+"Mount Taranaki",
+"Taranaki"
+]
 ],
 [
 "La Soufrière",
-39
+39,
+[
+"La Soufriere"
+]
 ],
 [
 "Kelut",
-39
+39,
+[
+"Gunung Kelut",
+"Keloed"
+]
 ],
 [
 "Osorno",
-39
+39,
+[
+"Osorno Volcano"
+]
 ],
 [
 "Villarrica Volcano",
-38
+38,
+[]
 ],
 [
 "Piton de la Fournaise",
-38
+38,
+[
+"Piton de la fournaise inlanguage:simple"
+]
 ],
 [
 "Acotango",
-38
+38,
+[]
 ],
 [
 "Irazú Volcano",
-38
+38,
+[
+"Irazu Volcano"
+]
 ],
 [
 "Eldfell",
-38
+38,
+[]
 ],
 [
 "Vogelsberg",
-38
+38,
+[
+"Vogelsberg Mountains"
+]
 ],
 [
 "Licancabur",
-38
+38,
+[
+"Licancabur Volcano",
+"Licancábur Volcano",
+"Licancaur Volcano"
+]
 ],
 [
 "Volcan Baru",
-38
+38,
+[]
 ],
 [
 "Cayambe",
-38
+38,
+[
+"Cayambe volcano",
+"Volcán Cayambe"
+]
 ],
 [
 "Tupungato Volcano",
-38
+38,
+[
+"Cerro Tupungato"
+]
 ],
 [
 "Atlasov Island",
-38
+38,
+[
+"Araido Island"
+]
 ],
 [
 "Volcán Tajumulco",
-38
+38,
+[
+"Volcan Tajumulco"
+]
 ],
 [
 "Mount Terror",
-37
+37,
+[]
 ],
 [
 "Mount Hasan",
-37
+37,
+[]
 ],
 [
 "Santa María",
-37
+37,
+[
+"Gagxanul",
+"Santa Maria"
+]
 ],
 [
 "Öræfajökull",
-37
+37,
+[
+"Mount Oraeka",
+"Oraefajokull",
+"Oraefajökull",
+"Oræfajökull",
+"Öraefajökull",
+"Oraeka"
+]
 ],
 [
 "Mount Karthala",
-37
+37,
+[
+"Karthala",
+"Le Kartala",
+"Le Karthala"
+]
 ],
 [
 "Misti",
-37
+37,
+[
+"Misti Volcano",
+"Volcan Misti",
+"Volcán Misti"
+]
 ],
 [
 "Yellowstone volcano",
-37
+37,
+[
+"Yellowstone Caldera",
+"Yellowstone Supervolcano"
+]
 ],
 [
 "Soufrière Hills",
-37
+37,
+[
+"Soufriere Hills",
+"Soufriere Hills volcano",
+"Soufrière Hills volcano",
+"Soufrière Hills Volcano (Montserrat)"
+]
 ],
 [
 "Huaynaputina",
-37
+37,
+[]
 ],
 [
 "Tamu Massif",
-36
+36,
+[]
 ],
 [
 "Chaitén",
-36
+36,
+[
+"Chaite",
+"Chaité"
+]
 ],
 [
 "Puyehue-Cordón Caulle",
-36
+36,
+[
+"Puyehue-Cordon Caulle"
+]
 ],
 [
 "Pacaya",
-36
+36,
+[
+"Pacaya Volcano",
+"Volcano Pacaya"
+]
 ],
 [
 "Mehetia",
-35
+35,
+[]
 ],
 [
 "Hanish Islands",
-35
+35,
+[]
 ],
 [
 "Keli Mutubuurai",
-35
+35,
+[]
 ],
 [
 "Marapi",
-35
+35,
+[
+"Marapi, Indonesia",
+"Marapi, Sumatra",
+"Mount Marapi",
+"Mount Marapi, Indonesia",
+"Mount Marapi, Sumatra"
+]
 ],
 [
 "Ijen",
-35
+35,
+[
+"Gunung Ijen",
+"Ijen Mountain",
+"Kawah Ijen"
+]
 ],
 [
 "Momotombo",
-35
+35,
+[
+"Mamea",
+"Momotombo volcano",
+"Volcán Momotombo"
+]
 ],
 [
 "Pichincha Volcano",
-35
+35,
+[
+"Guagua Pichincha",
+"Pichincha",
+"Rucu Pichincha"
+]
 ],
 [
 "El Chichón",
-35
+35,
+[
+"Chichonal",
+"El Chichon",
+"El Chichón Volcano"
+]
 ],
 [
 "Calbuco",
-34
+34,
+[]
 ],
 [
 "Cumbre Vieja",
-34
+34,
+[]
 ],
 [
 "Incahuasi",
-34
+34,
+[
+"Nevado de Incahuasi"
+]
 ],
 [
 "Llaima",
-34
+34,
+[]
 ],
 [
 "Mawson Peak",
-34
+34,
+[]
 ],
 [
 "Krafla",
-34
+34,
+[]
 ],
 [
 "Puy de Sancy",
-34
+34,
+[]
 ],
 [
 "Mount Redoubt",
-34
+34,
+[
+"Mt. Redoubt",
+"Redoubt Volcano"
+]
 ],
 [
 "Floreana Island",
-33
+33,
+[
+"Charles",
+"Charles I.",
+"Charles Is.",
+"Charles Island",
+"Charles's I.",
+"Charles's Is.",
+"Charles's Island",
+"Floreana",
+"Floreana I.",
+"Floreana Is.",
+"Floriana",
+"Floriana I.",
+"Floriana Is.",
+"Floriana Island",
+"I. Charles",
+"I. de Santa Maria",
+"I. de Sta. Maria",
+"I. Floreana",
+"I. Floriana",
+"I. King Charles",
+"I. Mascarenas",
+"I. Mercedes",
+"I. Santa Maria",
+"I. Santa Maria de la Aguada",
+"Isla Floreana",
+"Isla Floriana",
+"Isla Mascarenas",
+"Isla Mercedes",
+"Isla Santa Maria",
+"Isla Santa Maria de la Aguada",
+"I. Sta. Maria",
+"King Charles",
+"King Charles I.",
+"King Charles Is.",
+"King Charles Island",
+"King Charles's I.",
+"King Charles's Is.",
+"King Charles's Island",
+"Mascarenas",
+"Mascarenas I.",
+"Mascarenas Is.",
+"Mascarenas Island",
+"Mercedes",
+"Mercedes I.",
+"Mercedes Is.",
+"Mercedes Island",
+"Santa Maria",
+"Santa Maria de la Aguada",
+"Santa Maria I.",
+"Santa Maria Is.",
+"Santa Maria Island",
+"Sta. Maria",
+"Sta. Maria de la Aguada",
+"Sta. Maria I.",
+"Sta. Maria Is.",
+"Sta. Maria Island"
+]
 ],
 [
 "Barren Island",
-33
+33,
+[]
 ],
 [
 "Mount Adams",
-33
+33,
+[
+"Klickitat",
+"Mt. Adams"
+]
 ],
 [
 "Ascraeus Mons",
-33
+33,
+[]
 ],
 [
 "Arsia Mons",
-33
+33,
+[
+"Nodus Gordii"
+]
 ],
 [
 "Mount Bandai",
-33
+33,
+[
+"Bandai San"
+]
 ],
 [
 "Lassen Peak",
-33
+33,
+[
+"Mt. Lassen"
+]
 ],
 [
 "Gunung Galunggung",
-33
+33,
+[]
 ],
 [
 "Nemrut",
-33
+33,
+[]
 ],
 [
 "Pinta Island",
-32
+32,
+[
+"Abingdon",
+"Abingdon I.",
+"Abingdon Is.",
+"Abingdon Island",
+"Abington",
+"Abington I.",
+"Abington Is.",
+"Abington Island",
+"I. Abingdon",
+"I. Pinta",
+"Pinta",
+"Pinta I.",
+"Pinta Is."
+]
 ],
 [
 "Mount Scenery",
-32
+32,
+[]
 ],
 [
 "Volcán Wolf",
-32
+32,
+[
+"Volcan Wolf"
+]
 ],
 [
 "Poás Volcano",
-32
+32,
+[
+"Poas Volcano"
+]
 ],
 [
 "Gunung Raung",
-32
+32,
+[]
 ],
 [
 "Mount Haku",
-32
+32,
+[
+"Haku-san",
+"Hakusan"
+]
 ],
 [
 "Santiago Island",
-32
+32,
+[
+"Duke of York",
+"Duke of York I.",
+"Duke of York Is.",
+"Duke of York Island",
+"Duke of York's I.",
+"Duke of York's Is.",
+"Duke of York's Island",
+"I. James",
+"I. Salvador",
+"I. San Marcos",
+"I. San Salvador",
+"I. Santiago",
+"Isla Salvador",
+"Isla San Marcos",
+"Isla San Salvador",
+"Isla Santiago",
+"I. S. Marcos",
+"James",
+"James I.",
+"James Is.",
+"James Island",
+"King James",
+"King James I.",
+"King James Is.",
+"King James Island",
+"King James's I.",
+"King James's Is.",
+"King James's Island",
+"King James's Islands",
+"Salvador",
+"Salvador I.",
+"Salvador Is.",
+"Salvador Island",
+"San Marcos",
+"San Marcos I.",
+"San Marcos Is.",
+"San Marcos Island",
+"San Salvador",
+"San Salvador I.",
+"San Salvador Is.",
+"San Salvador Island",
+"Santiago",
+"Santiago I.",
+"Santiago Is.",
+"S. Marcos",
+"S. Marcos I.",
+"S. Marcos Is.",
+"S. Marcos Island"
+]
 ],
 [
 "Mountain Slamet",
-32
+32,
+[
+"Mount Slamet"
+]
 ],
 [
 "Antsiferov Island",
-32
+32,
+[
+"Dilkov",
+"Shirinki"
+]
 ],
 [
 "Pavonis Mons",
-32
+32,
+[]
 ],
 [
 "Ferdinandea",
-32
+32,
+[]
 ],
 [
 "Concepción",
-31
+31,
+[
+"Volcán Concepción",
+"Vulcano Concepción"
+]
 ],
 [
 "Soufrière",
-31
+31,
+[
+"La Grande Soufrière"
+]
 ],
 [
 "Socorro Island",
-31
+31,
+[
+"Isle of Saint Thomas",
+"Isle of St Thomas",
+"Isle Saint Thomas",
+"Isle St Thomas",
+"Saint Thomas",
+"Saint Thomas Island",
+"St Thomas",
+"St Thomas Island"
+]
 ],
 [
 "Antisana volcano",
-31
+31,
+[
+"Antisana"
+]
 ],
 [
 "Mount Longonot",
-31
+31,
+[]
 ],
 [
 "Piton des Neiges",
-31
+31,
+[
+"Snow Peak"
+]
 ],
 [
 "Zavodovski Island",
-31
+31,
+[]
 ],
 [
 "Kanlaon Volcano",
-31
+31,
+[
+"Canlaón",
+"Canlaón Mountain",
+"Canlaón Volcano",
+"Kanla-on",
+"Kanlaon"
+]
 ],
 [
 "Volcán Tacaná",
-31
+31,
+[
+"Volcan Tacana"
+]
 ],
 [
 "Acatenango",
-31
+31,
+[]
 ],
 [
 "Lanín",
-31
+31,
+[
+"Lanin",
+"Volcan Lanin"
+]
 ],
 [
 "Mount Batur",
-31
+31,
+[
+"Gunung Batur"
+]
 ],
 [
 "Nevado Mismi",
-31
+31,
+[]
 ],
 [
 "Nevado de Toluca",
-31
+31,
+[
+"Xinantecatl"
+]
 ],
 [
 "Mount Cleveland",
-31
+31,
+[
+"Cleveland Volcano",
+"Cleveland Volcano (Alaska)",
+"Mount Cleveland (Alaska)",
+"Mount Cleveland Volcano",
+"Mt. Cleveland"
+]
 ],
 [
 "Coropuna",
-31
+31,
+[]
 ],
 [
 "Syrtis Major Planum",
-31
+31,
+[]
 ],
 [
 "Izalco",
-30
+30,
+[
+"Izalio"
+]
 ],
 [
 "Mount Katmai",
-30
+30,
+[]
 ],
 [
 "Mount Suribachi",
-30
+30,
+[
+"Paipu Yama",
+"Suribachi-yama",
+"Suribachi Yama"
+]
 ],
 [
 "Mount Süphan",
-30
+30,
+[
+"Süphan"
+]
 ],
 [
 "Quilotoa",
-30
+30,
+[
+"Laguna de Quillota"
+]
 ],
 [
 "Guallatiri, Chile",
-30
+30,
+[
+"Wallatiri"
+]
 ],
 [
 "Antofalla",
-30
+30,
+[]
 ],
 [
 "Mount Taftan",
-30
+30,
+[
+"Kuh-e Taftan",
+"Kūh-e Taftān"
+]
 ],
 [
 "Mountain Merbabu",
-30
+30,
+[]
 ],
 [
 "Mount Shishaldin",
-30
+30,
+[
+"Mt. Shishaldin"
+]
 ],
 [
 "Illinizas",
-30
+30,
+[
+"Illiniza",
+"Illiniza volcano"
+]
 ],
 [
 "Santa Ana Volcano",
-29
+29,
+[
+"Ilamatepec Volcano",
+"Lamatepec Volcano",
+"Santa Ana"
+]
 ],
 [
 "Mount Hudson",
-29
+29,
+[]
 ],
 [
 "Hayli Gubbi",
-29
+29,
+[]
 ],
 [
 "Kama‘ehuakanaloa Seamount",
-29
+29,
+[
+"Kama'ehuakanaloa Seamount",
+"Lō'ihi Seamount"
+]
 ],
 [
 "Maderas",
-29
+29,
+[
+"Maderas Volcano"
+]
 ],
 [
 "Dempo",
-29
+29,
+[
+"Mount Dempo"
+]
 ],
 [
 "Volcán de Agua",
-29
+29,
+[
+"Volcan de Agua"
+]
 ],
 [
 "Hengill",
-29
+29,
+[]
 ],
 [
 "Pico de São Tomé",
-29
+29,
+[]
 ],
 [
 "Reventador",
-29
+29,
+[]
 ],
 [
 "Eldgjá",
-29
+29,
+[
+"Eldgja"
+]
 ],
 [
 "Mount Yasur",
-29
+29,
+[
+"Yahul",
+"Yasur",
+"Yasur Volcano"
+]
 ],
 [
 "Uturuncu",
-29
+29,
+[]
 ],
 [
 "Mount Salak",
-29
+29,
+[
+"Salak volcano"
+]
 ],
 [
 "Mount Yōtei",
-29
+29,
+[
+"Ezo Fuji",
+"Mount Shiribeshi",
+"Mount Yōteizan",
+"Yōtei-zan"
+]
 ],
 [
 "Kronotsky",
-29
+29,
+[
+"Vulkan Kronotskaya Sopka"
+]
 ],
 [
 "Volcán Maipo",
-29
+29,
+[
+"Volcan Maipo"
+]
 ],
 [
 "Española Island",
-28
+28,
+[
+"Charles I.",
+"Charles Is.",
+"Charles Island",
+"Charles's I.",
+"Charles's Is.",
+"Charles's Island",
+"Espanola",
+"Española",
+"Espanola I.",
+"Española I.",
+"Espanola Is.",
+"Española Is.",
+"Espanola Island",
+"Hood I.",
+"Hood Is.",
+"Hood Island",
+"I. Espanola",
+"I. Española",
+"I. Hood",
+"Isla Espanola",
+"Isla Española",
+"Isla Hood",
+"King Charles I.",
+"King Charles Is.",
+"King Charles Island",
+"King Charles's I.",
+"King Charles's Is.",
+"King Charles's Island"
+]
 ],
 [
 "Ubinas",
-28
+28,
+[]
 ],
 [
 "Mount Liamuiga",
-28
+28,
+[
+"Mount Misery"
+]
 ],
 [
 "Maat Mons",
-28
+28,
+[]
 ],
 [
 "Pico Basilé",
-28
+28,
+[
+"Mount Santa Isabel",
+"Pico Basile",
+"Pico de Santa Isabel"
+]
 ],
 [
 "Morne Diablotins",
-28
+28,
+[]
 ],
 [
 "Asahi-dake",
-28
+28,
+[
+"Mount Asahi",
+"Mount Asahidake"
+]
 ],
 [
 "Porak",
-28
+28,
+[
+"Axarbaxar"
+]
 ],
 [
 "Krasheninnikov",
-28
+28,
+[]
 ],
 [
 "Fagradalsfjall",
-28
+28,
+[
+"Fagradalsfjall á Reykjanesi",
+"Langhóll",
+"Mount Fagradalsfjall"
+]
 ],
 [
 "Lewotobi",
-28
+28,
+[
+"Lewotobi Laki-laki",
+"Lewotobi Perempuan"
+]
 ],
 [
 "Pomerape",
-28
+28,
+[]
 ],
 [
 "Tolbachik",
-28
+28,
+[
+"Tolbachik volcano",
+"Vulkan Tolbachikskiy"
+]
 ],
 [
 "Mount Sabyinyo",
-28
+28,
+[
+"Sabyinyo"
+]
 ],
 [
 "Shinmoedake",
-28
+28,
+[
+"Mount Shinmoe",
+"Shimmoedake"
+]
 ],
 [
 "Turrialba",
-28
+28,
+[]
 ],
 [
 "Volcán San Cristóbal",
-28
+28,
+[
+"San Cristóbal Volcano"
+]
 ],
 [
 "Herðubreið",
-28
+28,
+[]
 ],
 [
 "Rangitoto Island",
-27
+27,
+[]
 ],
 [
 "Gamalama",
-27
+27,
+[
+"Mount Gamalama"
+]
 ],
 [
 "Kao",
-27
+27,
+[]
 ],
 [
 "Ofu-Olosega",
-27
+27,
+[]
 ],
 [
 "Ichinsky",
-27
+27,
+[
+"Vulkan Ichinskaya Sopka"
+]
 ],
 [
 "Sarychev Peak",
-27
+27,
+[
+"Matsuwa Fuji",
+"Vulkan Sarycheva"
+]
 ],
 [
 "Socompa",
-27
+27,
+[
+"Volcan Socompa"
+]
 ],
 [
 "Ampato",
-27
+27,
+[]
 ],
 [
 "Rano Raraku",
-27
+27,
+[
+"Rano Raraku (volcano)"
+]
 ],
 [
 "Central Island",
-26
+26,
+[
+"Crocodile Island"
+]
 ],
 [
 "Mount Papandayan",
-26
+26,
+[
+"Mountain Papandayan"
+]
 ],
 [
 "Tangkuban Perahu",
-26
+26,
+[
+"Gunung Tangkuban Parahu",
+"Gunung Tangkubanperahu"
+]
 ],
 [
 "Augustine Volcano",
-26
+26,
+[
+"Chernabura",
+"Mount Augustine",
+"Mt. St. Augustine"
+]
 ],
 [
 "Uzon",
-26
+26,
+[
+"Uzon caldera",
+"Vulkan Uzon"
+]
 ],
 [
 "Kentur Lokon",
-26
+26,
+[]
 ],
 [
 "Acamarachi",
-26
+26,
+[]
 ],
 [
 "Volcán Azufral",
-26
+26,
+[
+"Volcan Azufral"
+]
 ],
 [
 "Broutona",
-26
+26,
+[
+"Buroton"
+]
 ],
 [
 "Rincón de la Vieja Volcano",
-25
+25,
+[
+"Rincon de la Vieja Volcano"
+]
 ],
 [
 "Mount Gede",
-25
+25,
+[]
 ],
 [
 "Marchena Island",
-25
+25,
+[
+"Bindloe",
+"Bindloe I.",
+"Bindloe Is.",
+"Bindloe Island",
+"Bindlos",
+"Bindlos I.",
+"Bindlos Is.",
+"Bindlos Island",
+"Bindlos's I.",
+"Bindlos's Is.",
+"Bindlos's Island",
+"I. Bindloe",
+"I. Bindlos",
+"I. Marchena",
+"Marchena",
+"Marchena I.",
+"Marchena Is."
+]
 ],
 [
 "Albor Tholus",
-25
+25,
+[]
 ],
 [
 "Daisetsuzan Volcanic Group",
-25
+25,
+[
+"Daisetsu",
+"Daisetsu Mountains",
+"Daisetsuzan",
+"Taisetsuzan"
+]
 ],
 [
 "Cofre de Peru en tanga",
-25
+25,
+[]
 ],
 [
 "Puracé",
-25
+25,
+[
+"Purace"
+]
 ],
 [
 "Ollagüe",
-25
+25,
+[]
 ],
 [
 "Tindfjallajökull",
-25
+25,
+[]
 ],
 [
 "Kverkfjöll",
-25
+25,
+[]
 ],
 [
 "Nea Kameni",
-25
+25,
+[]
 ],
 [
 "Mount Okmok",
-25
+25,
+[
+"Mt. Okmok",
+"Okmok Caldera"
+]
 ],
 [
 "Mount Nantai",
-25
+25,
+[
+"Mount Futara",
+"Mount Nantaisan",
+"Nantaisan",
+"Nantai San"
+]
 ],
 [
 "Mount Tokachi",
-25
+25,
+[
+"Tokachi-dake"
+]
 ],
 [
 "Mount Adatara",
-25
+25,
+[
+"Adatarayama",
+"Mount Adatarayama"
+]
 ],
 [
 "Akademia Nauk",
-25
+25,
+[
+"Mount Science Academy"
+]
 ],
 [
 "Lascar",
-25
+25,
+[
+"Mt. Lascar"
+]
 ],
 [
 "Ulawun",
-25
+25,
+[
+"Ulawun Volcano"
+]
 ],
 [
 "Elysium Mons",
-25
+25,
+[]
 ],
 [
 "El Altar volcano",
-25
+25,
+[
+"Altar",
+"Altar, Ecuador",
+"El altar",
+"El Altar"
+]
 ],
 [
 "Karangetang",
-24
+24,
+[
+"Awu Karangetang"
+]
 ],
 [
 "Cerro Azul",
-24
+24,
+[
+"Quizapú"
+]
 ],
 [
 "Torfajökull",
-24
+24,
+[]
 ],
 [
 "Mount Gamkonora",
-24
+24,
+[
+"Gunung Gamkonora"
+]
 ],
 [
 "Myōjin-shō",
-24
+24,
+[]
 ],
 [
 "Hualālai",
-24
+24,
+[
+"Hualalai Mountain"
+]
 ],
 [
 "Mount Wrangell",
-24
+24,
+[
+"Mt. Wrangell"
+]
 ],
 [
 "Cumbal",
-24
+24,
+[
+"Volcan Cumbal"
+]
 ],
 [
 "Mount Sibayak",
-24
+24,
+[
+"Gunung Sibayak"
+]
 ],
 [
 "Dukono",
-24
+24,
+[
+"Mount Dukono"
+]
 ],
 [
 "San Pedro",
-24
+24,
+[]
 ],
 [
 "Brennisteinsalda",
-24
+24,
+[]
 ],
 [
 "Aracar",
-24
+24,
+[
+"Volcan Aracar"
+]
 ],
 [
 "Irruputuncu",
-24
+24,
+[]
 ],
 [
 "Mount Bona",
-24
+24,
+[]
 ],
 [
 "Terevaka",
-24
+24,
+[]
 ],
 [
 "Antuco",
-24
+24,
+[]
 ],
 [
 "La Garita Caldera",
-24
+24,
+[]
 ],
 [
 "Arjuno-Welirang",
-24
+24,
+[
+"Gunung Arjuna",
+"Gunung Arjuno"
+]
 ],
 [
 "Mount Pavlof",
-24
+24,
+[
+"Mt. Pavlof",
+"Pavlof Volcano"
+]
 ],
 [
 "Mount Popomanaseu",
-24
+24,
+[]
 ],
 [
 "Gunung Soputanpatepangan",
-24
+24,
+[]
 ],
 [
 "Mount Awu",
-24
+24,
+[
+"Gunung Awu"
+]
 ],
 [
 "Falso Azufre",
-24
+24,
+[
+"Cerro Falso Azufre",
+"Volcan Falso Azufre"
+]
 ],
 [
 "Eiríksjökull",
-23
+23,
+[]
 ],
 [
 "Cerro El Muerto",
-23
+23,
+[]
 ],
 [
 "Rano Kau",
-23
+23,
+[]
 ],
 [
 "Telica",
-23
+23,
+[]
 ],
 [
 "Kolumbo",
-23
+23,
+[
+"Kolumbos"
+]
 ],
 [
 "Mount Blackburn",
-23
+23,
+[
+"Mt. Blackburn"
+]
 ],
 [
 "Tacora",
-23
+23,
+[]
 ],
 [
 "Menengai",
-23
+23,
+[
+"Menengai, Kenya"
+]
 ],
 [
 "Mount Iliamna",
-23
+23,
+[
+"Iliamna Volcano",
+"Mt. Iliamna"
+]
 ],
 [
 "Mount Rishiri",
-23
+23,
+[
+"Rishiri Dake",
+"Rishiri Fuji"
+]
 ],
 [
 "Ebeko",
-23
+23,
+[
+"Monte ebeko"
+]
 ],
 [
 "Cerro El Cóndor",
-23
+23,
+[
+"Cerro El Condor"
+]
 ],
 [
 "Mount Akagi",
-23
+23,
+[
+"Akagisan",
+"Akagi-yama",
+"Akagiyama",
+"Mount Akagisan",
+"Mount Akagiyama"
+]
 ],
 [
 "Mount Usu",
-23
+23,
+[]
 ],
 [
 "Volcán Cerro Negro",
-23
+23,
+[
+"Cerro Negro",
+"Volcano Cerro Negro"
+]
 ],
 [
 "Kaiserstuhl",
-23
+23,
+[]
 ],
 [
 "Mount Iwate",
-23
+23,
+[
+"Iwate san"
+]
 ],
 [
 "Aucanquilcha",
-23
+23,
+[]
 ],
 [
 "Mount Bisoke",
-23
+23,
+[]
 ],
 [
 "Jabal al-Tair Island",
-23
+23,
+[]
 ],
 [
 "Říp Mountain",
-22
+22,
+[
+"Georgsbert",
+"Rip",
+"Sankt Georgsberg"
+]
 ],
 [
 "Chachani",
-22
+22,
+[]
 ],
 [
 "Pinzón Island",
-22
+22,
+[
+"Dean",
+"Deane",
+"Deane I.",
+"Deane Is.",
+"Deane Island",
+"Dean I.",
+"Dean Is.",
+"Dean Island",
+"Dean's Island",
+"Duncan",
+"Duncan I.",
+"Duncan Is.",
+"Duncan Island",
+"I. Pinzon",
+"I. Pinzón",
+"Isla Pinzon",
+"Isla Pinzón",
+"Pinzon",
+"Pinzón",
+"Pinzon I.",
+"Pinzón I.",
+"Pinzon Is.",
+"Pinzón Is.",
+"Pinzon Island"
+]
 ],
 [
 "Mount Osore",
-22
+22,
+[]
 ],
 [
 "Tharsis Montes",
-22
+22,
+[]
 ],
 [
 "Alcedo Volcano",
-22
+22,
+[]
 ],
 [
 "Marmolejo",
-22
+22,
+[
+"Cerro El Marmolejo"
+]
 ],
 [
 "Pichu Pichu",
-22
+22,
+[]
 ],
 [
 "Mountain Sumbing",
-22
+22,
+[
+"Soembing volcano, Java"
+]
 ],
 [
 "Volcán Tolimán",
-22
+22,
+[
+"Volcan Toliman"
+]
 ],
 [
 "Mount Talang",
-22
+22,
+[]
 ],
 [
 "Zuqar Island",
-22
+22,
+[
+"Jabal Zuqar",
+"Jebel Zukur"
+]
 ],
 [
 "Domuyo",
-22
+22,
+[]
 ],
 [
 "Lawu Mountain",
-22
+22,
+[]
 ],
 [
 "Tipas",
-22
+22,
+[]
 ],
 [
 "Mount Cereme",
-22
+22,
+[
+"Gunung Ceremai",
+"Gunung Cereme",
+"Mount Ceremai",
+"Mount Ciremai",
+"Mt. Ciremai"
+]
 ],
 [
 "Mount Saint Catherine",
-22
+22,
+[
+"Saint Catherine, mount"
+]
 ],
 [
 "Malinche",
-22
+22,
+[
+"Matlalcueye"
+]
 ],
 [
 "Rábida Island",
-22
+22,
+[
+"I. Rabida",
+"I. Rábida",
+"Jarvis",
+"Jarvis I.",
+"Jarvis Is.",
+"Jarvis Island",
+"Jervis",
+"Jervis I.",
+"Jervis Is.",
+"Jervis Island",
+"Rabida",
+"Rábida",
+"Rabida I.",
+"Rábida I.",
+"Rabida Is.",
+"Rábida Is.",
+"Rabida Island"
+]
 ],
 [
 "Hecates Tholus",
-22
+22,
+[]
 ],
 [
 "Mount Iwaki",
-22
+22,
+[
+"Oiwaki",
+"Oiwaki Sama",
+"Okufuji",
+"Peak Tilesius",
+"Tsugaru Fuji"
+]
 ],
 [
 "Mount Rausu",
-22
+22,
+[
+"Rausu-dake"
+]
 ],
 [
 "Corazón volcano",
-22
+22,
+[
+"Corazon",
+"Corazón"
+]
 ],
 [
 "Mutnovsky",
-22
+22,
+[
+"Mutnovsky volcano"
+]
 ],
 [
 "Tupungatito",
-22
+22,
+[
+"Volcan Tupungatito"
+]
 ],
 [
 "Helgafell",
-21
+21,
+[]
 ],
 [
 "Mount Hibok-Hibok",
-21
+21,
+[
+"Catarman Volcano",
+"Hibok-Hibok Volcano"
+]
 ],
 [
 "Rokatenda",
-21
+21,
+[]
 ],
 [
 "The Quill",
-21
+21,
+[
+"Mount Mazinga"
+]
 ],
 [
 "Imbabura Volcano",
-21
+21,
+[
+"Imbabura",
+"Imbabura (Ecuador)"
+]
 ],
 [
 "Karaca Dağ",
-21
+21,
+[]
 ],
 [
 "Mount Akutan",
-21
+21,
+[]
 ],
 [
 "Mount Ruang",
-21
+21,
+[
+"Awu Ruang"
+]
 ],
 [
 "Azhdahak",
-21
+21,
+[]
 ],
 [
 "Chikurachki",
-21
+21,
+[
+"Vulkan Chikurachki"
+]
 ],
 [
 "Corcovado Volcano",
-21
+21,
+[]
 ],
 [
 "Michinmahuida",
-21
+21,
+[]
 ],
 [
 "Mount Kusatsu-Shirane",
-21
+21,
+[
+"Mount Shirane"
+]
 ],
 [
 "Isluga",
-21
+21,
+[]
 ],
 [
 "Tyatya",
-21
+21,
+[
+"Vulkan Tyatya"
+]
 ],
 [
 "Mount Arayat",
-21
+21,
+[
+"Arayat"
+]
 ],
 [
 "Lastarria",
-21
+21,
+[
+"Volcan Lastarria"
+]
 ],
 [
 "Mount Chōkai",
-21
+21,
+[
+"Chokai-san",
+"Chōkai-san",
+"Mount Chokai"
+]
 ],
 [
 "volcano Atacazo",
-21
+21,
+[
+"Atacazo"
+]
 ],
 [
 "Mount Bachelor",
-21
+21,
+[]
 ],
 [
 "Cabaray",
-21
+21,
+[]
 ],
 [
 "Bogoslof Island",
-21
+21,
+[]
 ],
 [
 "Taapaca",
-21
+21,
+[]
 ],
 [
 "Mount Kanaga",
-21
+21,
+[
+"Mt. Kanaga"
+]
 ],
 [
 "Kamen",
-21
+21,
+[
+"Vulkan Kamen"
+]
 ],
 [
 "Buckle Island",
-21
+21,
+[]
 ],
 [
 "Capelinhos",
-20
+20,
+[
+"Capelinhos Mountain",
+"Capelinhos Volcano",
+"Volcano of Capelinhos"
+]
 ],
 [
 "Carihuairazo volcano",
-20
+20,
+[
+"Carihuairazo",
+"Carihuayrazo"
+]
 ],
 [
 "Mount Tendürek",
-20
+20,
+[
+"Tendürek Dağı"
+]
 ],
 [
 "Descabezado Grande",
-20
+20,
+[]
 ],
 [
 "Mount Balbi",
-20
+20,
+[]
 ],
 [
 "Teneguía",
-20
+20,
+[
+"Teneguia"
+]
 ],
 [
 "Tutupaca",
-20
+20,
+[]
 ],
 [
 "Tharsis Tholus",
-20
+20,
+[]
 ],
 [
 "Marsili",
-20
+20,
+[
+"Marsili Seamount"
+]
 ],
 [
 "Volcán San Pedro",
-20
+20,
+[
+"Volcan San Pedro"
+]
 ],
 [
 "Mount Mikeno",
-20
+20,
+[]
 ],
 [
 "Mount Isarog",
-20
+20,
+[]
 ],
 [
 "Mount Garibaldi",
-20
+20,
+[]
 ],
 [
 "San Félix Island",
-20
+20,
+[
+"Saint Felix",
+"San Felice",
+"San Felix Island"
+]
 ],
 [
 "Mont Ross",
-20
+20,
+[]
 ],
 [
 "Trölladyngja",
-20
+20,
+[]
 ],
 [
 "Mount Sindoro",
-20
+20,
+[
+"Mount Sundoro"
+]
 ],
 [
 "Golovnin",
-20
+20,
+[]
 ],
 [
 "Tinguiririca Volcano",
-20
+20,
+[
+"Volcan Tinguiririca"
+]
 ],
 [
 "Mount Amagi",
-20
+20,
+[
+"Amagi Mounatains",
+"Amagi Volcano"
+]
 ],
 [
 "Sabancaya",
-20
+20,
+[]
 ],
 [
 "Mount Kaimon",
-20
+20,
+[
+"Kaimondake",
+"Mount Kaimondake",
+"Satsuma Fuji"
+]
 ],
 [
 "Tarso Toussidé",
-20
+20,
+[]
 ],
 [
 "Bláhnjúkur",
-20
+20,
+[
+"Blahnjukur"
+]
 ],
 [
 "Mount Tarumae",
-19
+19,
+[
+"Mount Tarumai",
+"Tarumae-san"
+]
 ],
 [
 "Zhupanovsky",
-19
+19,
+[
+"Sopka Zhupanovskaya"
+]
 ],
 [
 "Cotacachi",
-19
+19,
+[
+"Cotacachi Volcano"
+]
 ],
 [
 "Tvashtar Paterae",
-19
+19,
+[]
 ],
 [
 "Mount Klabat",
-19
+19,
+[
+"Gunung Klabat"
+]
 ],
 [
 "Lökbatan Mud Volcano",
-19
+19,
+[
+"Lok-Batan Mud Cone"
+]
 ],
 [
 "Tiger Island",
-19
+19,
+[]
 ],
 [
 "Volcán Zapatera",
-19
+19,
+[
+"Zapatera Vulcano"
+]
 ],
 [
 "Skjaldbreiður",
-19
+19,
+[]
 ],
 [
 "Three Sisters",
-19
+19,
+[]
 ],
 [
 "Cerro Bayo Complex",
-19
+19,
+[]
 ],
 [
 "Amak Volcano",
-19
+19,
+[]
 ],
 [
 "Mount Vsevidof",
-19
+19,
+[
+"Mt. Vsevidof"
+]
 ],
 [
 "Pico viejo",
-19
+19,
+[]
 ],
 [
 "Marion Island",
-19
+19,
+[]
 ],
 [
 "Santa Isabel",
-19
+19,
+[
+"Nevado Santa Isabel",
+"Santa Isabel Glacier",
+"Santa Isabel volcano"
+]
 ],
 [
 "Tanaga",
-19
+19,
+[]
 ],
 [
 "Taupō Volcano",
-19
+19,
+[
+"Taupo Volcano"
+]
 ],
 [
 "Mount Ara",
-19
+19,
+[]
 ],
 [
 "Mount Churchill",
-19
+19,
+[]
 ],
 [
 "Ankaratra",
-19
+19,
+[]
 ],
 [
 "Cerro Solo",
-19
+19,
+[]
 ],
 [
 "Bridgeman Island",
-19
+19,
+[]
 ],
 [
 "Kavachi",
-19
+19,
+[
+"Kavachi's oven",
+"Kavachi volcano",
+"Sharkcano",
+"The Kavachi Volcano"
+]
 ],
 [
 "Sairecabur",
-19
+19,
+[]
 ],
 [
 "Cerro del Azufre",
-18
+18,
+[]
 ],
 [
 "Fourpeaked Mountain",
-18
+18,
+[]
 ],
 [
 "Mount Hakone",
-18
+18,
+[
+"Hakone Mountains",
+"Hakone Volcano",
+"Hakoneyama",
+"Hakone Yama"
+]
 ],
 [
 "Dzenzursky",
-18
+18,
+[]
 ],
 [
 "Mount Mihara",
-18
+18,
+[
+"Mihara Yama"
+]
 ],
 [
 "Mount Haruna",
-18
+18,
+[
+"Haruna Sa",
+"Harunasan",
+"Mount Harunasan"
+]
 ],
 [
 "Aira Caldera",
-18
+18,
+[]
 ],
 [
 "Merelava",
-18
+18,
+[]
 ],
 [
 "Mountain Patuha",
-18
+18,
+[]
 ],
 [
 "Jabuka",
-18
+18,
+[]
 ],
 [
 "Nevado San Francisco",
-18
+18,
+[]
 ],
 [
 "Mount Carlisle",
-18
+18,
+[
+"Mt. Carlisle"
+]
 ],
 [
 "Alaid",
-18
+18,
+[
+"Vulkan Alaid"
+]
 ],
 [
 "Ok",
-18
+18,
+[]
 ],
 [
 "Lonquimay",
-18
+18,
+[]
 ],
 [
 "San José",
-18
+18,
+[
+"Volcan San Jose",
+"Volcán San José"
+]
 ],
 [
 "Chiles volcano",
-18
+18,
+[
+"Chiles"
+]
 ],
 [
 "Callaqui",
-18
+18,
+[]
 ],
 [
 "Cot Seulawah Agam",
-18
+18,
+[
+"Goldberg",
+"Selawadjanten",
+"Seulawaih Agam",
+"Seulawain Agam",
+"Solawa Agam",
+"Solawaik Agam"
+]
 ],
 [
 "Viedma",
-18
+18,
+[
+"Viedma Volcano",
+"Volcán Viedma"
+]
 ],
 [
 "Miñiques Volcano",
-18
+18,
+[]
 ],
 [
 "Mount Norikura",
-18
+18,
+[
+"Mount Norikuradake",
+"Norikuradake"
+]
 ],
 [
 "Mount Gassan",
-18
+18,
+[
+"Gassan",
+"Ga Ssan",
+"Mount Kuroushi"
+]
 ],
 [
 "Gunung Muria",
-18
+18,
+[]
 ],
 [
 "Arintica",
-18
+18,
+[]
 ],
 [
 "Adwa",
-18
+18,
+[
+"Dabita"
+]
 ],
 [
 "Mount Tandikat",
-18
+18,
+[
+"Gunung Tandikat",
+"Tandikat"
+]
 ],
 [
 "Geureudong",
-18
+18,
+[
+"Bur ni Geureudong",
+"Bur ni Telong",
+"Gunung Geureudong"
+]
 ],
 [
 "Tromen",
-18
+18,
+[
+"Volcan Tromen"
+]
 ],
 [
 "Kohala",
-18
+18,
+[
+"Kohala Mountains"
+]
 ],
 [
 "Atsonupuri",
-18
+18,
+[
+"Atosanupuri",
+"Etorofu-Atosanupuri",
+"Gora Atsonupuri"
+]
 ],
 [
 "Mount Aniakchak",
-18
+18,
+[
+"Aniakchak Crater",
+"Aniakchak I",
+"Aniakchak II",
+"Aniakchak II volcano",
+"Aniakchak I volcano",
+"Aniakchak volcano"
+]
 ],
 [
 "Baluran",
-18
+18,
+[
+"Gunung Baluran"
+]
 ],
 [
 "Gunung Malabar",
-18
+18,
+[]
 ],
 [
 "Mount Shari",
-18
+18,
+[
+"Shari-dake"
+]
 ],
 [
 "Hokkaidō Koma-ga-take",
-18
+18,
+[
+"Komaga-dake",
+"Oshima Fuji",
+"Uchiura-dake"
+]
 ],
 [
 "Daisen",
-18
+18,
+[
+"Hōki Daisen",
+"Hōki Fuji",
+"Izumo Fuji"
+]
 ],
 [
 "Asacha",
-18
+18,
+[]
 ],
 [
 "Loki Patera",
-18
+18,
+[]
 ],
 [
 "Baluan Island",
-18
+18,
+[]
 ],
 [
 "Batu Tara",
-18
+18,
+[]
 ],
 [
 "Mount Gahinga",
-18
+18,
+[
+"Gahinga"
+]
 ],
 [
 "Kambalny",
-17
+17,
+[
+"Kambalnaya Sopka"
+]
 ],
 [
 "Cuicocha",
-17
+17,
+[
+"Cuicocha Lake",
+"Laguna Cuicocha",
+"Laguna de Cuicocha"
+]
 ],
 [
 "Mount Bosavi",
-17
+17,
+[]
 ],
 [
 "Mount Kirishima",
-17
+17,
+[
+"Kirishima Mounatains",
+"Kirishima Volcanoes",
+"Kirisima"
+]
 ],
 [
 "Gorely",
-17
+17,
+[]
 ],
 [
 "Puʻu ʻŌʻō",
-17
+17,
+[
+"Puu Oo"
+]
 ],
 [
 "Horns of Hattin",
-17
+17,
+[]
 ],
 [
 "Palea Kameni",
-17
+17,
+[
+"Palaia Kameni",
+"Palia Kameni"
+]
 ],
 [
 "Kerlingarfjöll",
-17
+17,
+[]
 ],
 [
 "Kick-'em-Jenny",
-17
+17,
+[
+"Kick'Em-Jenny",
+"Mt. Kick-'Em-Jenny",
+"Mt. Kick'Em-Jenny"
+]
 ],
 [
 "Rumiñahui",
-17
+17,
+[
+"Ruminahui",
+"Rumiñahui volcano"
+]
 ],
 [
 "Mount Adagdak",
-17
+17,
+[
+"Mt. Adagdak"
+]
 ],
 [
 "Sotará",
-17
+17,
+[
+"Sotara",
+"Volcan Sotara"
+]
 ],
 [
 "Mount Penanggungan",
-17
+17,
+[
+"Gunung Penanggungan"
+]
 ],
 [
 "Monte Burney",
-17
+17,
+[
+"Mount Burney",
+"Mt. Burney"
+]
 ],
 [
 "Mountain Karang",
-17
+17,
+[]
 ],
 [
 "Sara Sara",
-17
+17,
+[]
 ],
 [
 "Doña Juana",
-17
+17,
+[]
 ],
 [
 "Tecuamburro",
-17
+17,
+[]
 ],
 [
 "Eyjafjallajökull",
-17
+17,
+[
+"Eyjafjallajökull volcano"
+]
 ],
 [
 "Gunung Guntur",
-17
+17,
+[]
 ],
 [
 "Mount Talamau",
-17
+17,
+[]
 ],
 [
 "Cerro Negro de Mayasquer",
-17
+17,
+[]
 ],
 [
 "Sarik Merapi",
-17
+17,
+[
+"Sorik Marapi"
+]
 ],
 [
 "Antofagasta de la Sierra",
-17
+17,
+[
+"Antofagasta de la Sierra Volcanic Field"
+]
 ],
 [
 "Tocorpuri",
-17
+17,
+[]
 ],
 [
 "Mount Manengouba",
-17
+17,
+[
+"Mont Manengouba"
+]
 ],
 [
 "Putana",
-17
+17,
+[
+"Jorqencal",
+"Machuca"
+]
 ],
 [
 "Fuss Peak",
-17
+17,
+[]
 ],
 [
 "Aguilera",
-17
+17,
+[]
 ],
 [
 "Akita-Komagatake",
-17
+17,
+[
+"Komaga Dake",
+"Mount Akita-Koma",
+"Mount Akita-Komagatake"
+]
 ],
 [
 "Mount Eniwa",
-17
+17,
+[
+"Eniwa-dake"
+]
 ],
 [
 "Kuju Mountains",
-17
+17,
+[
+"Kuju renzan",
+"Mount Kujū"
+]
 ],
 [
 "Mount Azuma-kofuji",
-17
+17,
+[
+"Azuma-kofuji"
+]
 ],
 [
 "Mount Ayalu",
-17
+17,
+[]
 ],
 [
 "Brennisteinsfjöll",
-17
+17,
+[
+"Brennisteinsgígar"
+]
 ],
 [
 "Mammoth Mountain",
-17
+17,
+[]
 ],
 [
 "Makushin Volcano",
-16
+16,
+[]
 ],
 [
 "Colo",
-16
+16,
+[
+"Gunung Colo",
+"Gunung Una",
+"Mount Colo"
+]
 ],
 [
 "Mount Spurr",
-16
+16,
+[
+"Mount Spurr (Aljaška : sopka)",
+"Mt. Spurr"
+]
 ],
 [
 "Quetrupillán",
-16
+16,
+[
+"Quetrupillan"
+]
 ],
 [
 "Pantelleria Island",
-16
+16,
+[
+"Isola di Pantelleria"
+]
 ],
 [
 "Mount Makiling",
-16
+16,
+[
+"Mount Maquiling"
+]
 ],
 [
 "Yate",
-16
+16,
+[
+"Monte Yate"
+]
 ],
 [
 "Yunaska Island",
-16
+16,
+[
+"Younaska"
+]
 ],
 [
 "Kuwae",
-16
+16,
+[]
 ],
 [
 "Herbert Island",
-16
+16,
+[]
 ],
 [
 "Santa Margarida Volcano",
-16
+16,
+[
+"Volcà de Santa Margarida"
+]
 ],
 [
 "Mountain Tampomas",
-16
+16,
+[]
 ],
 [
 "Volcán Tenorio",
-16
+16,
+[
+"Volcan Tenorio"
+]
 ],
 [
 "Hualca Hualca",
-16
+16,
+[]
 ],
 [
 "Mount Nikkō-Shirane",
-16
+16,
+[
+"Mount Oku-Shirane",
+"Mount Shirane",
+"Oku-Shirane San",
+"Shirane San"
+]
 ],
 [
 "Yucamane",
-16
+16,
+[
+"Yucamani"
+]
 ],
 [
 "Keli Ebulobo",
-16
+16,
+[]
 ],
 [
 "Udina",
-16
+16,
+[]
 ],
 [
 "Ilyinsky",
-16
+16,
+[
+"Ilyinskaya Sopka"
+]
 ],
 [
 "Khodutka",
-16
+16,
+[]
 ],
 [
 "Volcán Darwin",
-16
+16,
+[
+"Volcan Darwin"
+]
 ],
 [
 "Payun Matru",
-16
+16,
+[]
 ],
 [
 "Caichinque",
-16
+16,
+[]
 ],
 [
 "Copiapó volcano",
-16
+16,
+[
+"Azufre",
+"Cerro Azufre",
+"Copiapo"
+]
 ],
 [
 "Mount Belinda",
-16
+16,
+[]
 ],
 [
 "Lautaro",
-16
+16,
+[]
 ],
 [
 "Mojanda",
-16
+16,
+[]
 ],
 [
 "Hachimantai",
-16
+16,
+[
+"Hachiman Tai"
+]
 ],
 [
 "Linzor",
-16
+16,
+[]
 ],
 [
 "Cerro Macá",
-16
+16,
+[
+"Cerro Maca"
+]
 ],
 [
 "Sumaco",
-16
+16,
+[
+"Volcán Sumaco"
+]
 ],
 [
 "Cerro Tuzgle",
-16
+16,
+[]
 ],
 [
 "Mount Kupe",
-16
+16,
+[
+"Mont Koupé"
+]
 ],
 [
 "Ajusco",
-16
+16,
+[]
 ],
 [
 "Mount Suswa",
-16
-],
+16,
 [
-"Cerro Paniri",
-16
-],
-[
-"Ambitle",
-16
-],
-[
-"Mount Meakan",
-16
-],
-[
-"Cerro del Nacimiento",
-16
-],
-[
-"Makian",
-16
-],
-[
-"Apollinaris Mons",
-16
-],
-[
-"Ardoukoba",
-16
-],
-[
-"Krýsuvík",
-16
+"Suswa crater"
+]
 ],
 [
 "Borawli",
-16
+16,
+[]
+],
+[
+"Cerro Paniri",
+16,
+[]
+],
+[
+"Ambitle",
+16,
+[]
+],
+[
+"Mount Meakan",
+16,
+[
+"Me-akan-dake",
+"Mount Akan"
+]
+],
+[
+"Cerro del Nacimiento",
+16,
+[]
+],
+[
+"Makian",
+16,
+[]
+],
+[
+"Apollinaris Mons",
+16,
+[
+"Apollinaris Patera"
+]
+],
+[
+"Ardoukoba",
+16,
+[]
+],
+[
+"Krýsuvík",
+16,
+[]
 ],
 [
 "Lars Christensen Peak",
-16
+16,
+[]
 ],
 [
 "Mount Bental",
-15
+15,
+[
+"Tal Al-Gharam"
+]
 ],
 [
 "Ceraunius Tholus",
-15
+15,
+[]
 ],
 [
 "Chagulak Island",
-15
+15,
+[]
 ],
 [
 "Zheltovsky",
-15
+15,
+[
+"Zheltovskaya Sopka"
+]
 ],
 [
 "Mount Pangrango",
-15
+15,
+[
+"Gunung Pangrango",
+"Pangrango"
+]
 ],
 [
 "Sierra Negra",
-15
+15,
+[]
 ],
 [
 "Mount Gharat",
-15
+15,
+[]
 ],
 [
 "Las Cumbres",
-15
+15,
+[
+"Uziel"
+]
 ],
 [
 "Mountain Telomoyo",
-15
+15,
+[]
 ],
 [
 "Mountain Telagabodas",
-15
+15,
+[
+"Gunung Talagabodas"
+]
 ],
 [
 "Mount Sirung",
-15
+15,
+[]
 ],
 [
 "Empedocles",
-15
+15,
+[]
 ],
 [
 "Esjufjöll",
-15
+15,
+[]
 ],
 [
 "Fonualei",
-15
+15,
+[]
 ],
 [
 "Tyrrhenus Mons",
-15
+15,
+[
+"Tyrrhena Patera"
+]
 ],
 [
 "Sapas Mons",
-15
+15,
+[]
 ],
 [
 "Morne Watt",
-15
+15,
+[]
 ],
 [
 "Mount Iraya",
-15
+15,
+[]
 ],
 [
 "Kasatochi Island",
-15
+15,
+[]
 ],
 [
 "Mount Alayta",
-15
+15,
+[]
 ],
 [
 "Lopevi",
-15
+15,
+[]
 ],
 [
 "Singgalang",
-15
+15,
+[
+"Gunung Singgalang",
+"Mount Singgalang"
+]
 ],
 [
 "Mount Fentale",
-15
+15,
+[]
 ],
 [
 "Korovin Volcano",
-15
+15,
+[]
 ],
 [
 "Khangar",
-15
+15,
+[]
 ],
 [
 "Los Patos",
-15
+15,
+[
+"Tres Quebradas"
+]
 ],
 [
 "Tunka valley",
-15
+15,
+[
+"Tunkin Depression",
+"Tunkinskaya kotlovina",
+"Tunkinskaya Vpadina"
+]
 ],
 [
 "Mount Kawi",
-15
+15,
+[
+"Gunung Kawi",
+"Gunung Kawi-Butak"
+]
 ],
 [
 "Mountain Ungaran",
-15
+15,
+[]
 ],
 [
 "Mount Edgecumbe",
-15
+15,
+[
+"Mt. Edgecumbe"
+]
 ],
 [
 "Mount Mahawu",
-15
+15,
+[]
 ],
 [
 "Planchón-Peteroa",
-15
+15,
+[
+"Planchon-Peteroa",
+"Planchon-Peteroa Volcano"
+]
 ],
 [
 "Pular",
-15
+15,
+[]
 ],
 [
 "Mount Tomuraushi",
-15
+15,
+[
+"Tomuraushi-yama"
+]
 ],
 [
 "Mount Oku",
-15
+15,
+[]
 ],
 [
 "Abu",
-15
+15,
+[]
 ],
 [
 "Akhtang",
-15
+15,
+[]
 ],
 [
 "Tolhuaca",
-15
+15,
+[]
 ],
 [
 "Mount Egon",
-15
+15,
+[]
 ],
 [
 "Gunung Rajabasa",
-15
+15,
+[]
 ],
 [
 "Mascarin Peak",
-15
+15,
+[]
 ],
 [
 "Ambang",
-15
+15,
+[]
 ],
 [
 "Cerro Bravo",
-15
+15,
+[]
 ],
 [
 "Namarunu",
-15
+15,
+[
+"Namarunu, Kenya"
+]
 ],
 [
 "Babuyan Claro",
-15
+15,
+[
+"Mount Pangasun"
+]
 ],
 [
 "Bagabag",
-15
+15,
+[]
 ],
 [
 "Bakening",
-15
+15,
+[]
 ],
 [
 "Mount Griggs",
-15
+15,
+[
+"Mt. Griggs"
+]
 ],
 [
 "Mount Besar",
-15
+15,
+[]
 ],
 [
 "Mount Wilis",
-15
+15,
+[
+"Gunung Wilis"
+]
 ],
 [
 "Cagua Volcano",
-14
+14,
+[]
 ],
 [
 "Croscat volcano",
-14
+14,
+[]
 ],
 [
 "Pele",
-14
+14,
+[]
 ],
 [
 "Juriques",
-14
+14,
+[]
 ],
 [
 "Late",
-14
+14,
+[]
 ],
 [
 "Prestahnúkur",
-14
+14,
+[
+"Prestahnukur"
+]
 ],
 [
 "Poike",
-14
+14,
+[]
 ],
 [
 "Bratan",
-14
+14,
+[]
 ],
 [
 "Sinarka",
-14
+14,
+[]
 ],
 [
 "Nevados de Chillán",
-14
+14,
+[
+"Nevados de Chillan"
+]
 ],
 [
 "Valles Caldera",
-14
+14,
+[
+"Jamez Caldera",
+"Jamez eruption",
+"Jamez supervolcano",
+"Jemez Caldera",
+"Jemez eruption",
+"Jemez supervolcano"
+]
 ],
 [
 "Uratman",
-14
+14,
+[]
 ],
 [
 "Opala",
-14
+14,
+[]
 ],
 [
 "Medvezhya",
-14
+14,
+[
+"Medvezh'ya Gora"
+]
 ],
 [
 "Aguas Calientes",
-14
+14,
+[
+"Cerro Aguas Calientes",
+"Simba"
+]
 ],
 [
 "Wayang-Windu",
-14
+14,
+[]
 ],
 [
 "Fukutoku-Okanoba",
-14
+14,
+[
+"Fukutoku-Oka-no-Ba"
+]
 ],
 [
 "Mount Tongkoko",
-14
+14,
+[
+"Gunung Tangkoko"
+]
 ],
 [
 "Mount Cayley",
-14
+14,
+[]
 ],
 [
 "Mount Yake",
-14
+14,
+[
+"Mount Yakedake",
+"Yake-dake",
+"Yakedake"
+]
 ],
 [
 "Trident Volcano",
-14
+14,
+[
+"Mount Trident"
+]
 ],
 [
 "Mount Douglas",
-14
+14,
+[
+"Mt. Douglas"
+]
 ],
 [
 "Cerro del León",
-14
+14,
+[
+"Cerro del Leon"
+]
 ],
 [
 "Tskhouk-Karckar",
-14
+14,
+[
+"Qarqar"
+]
 ],
 [
 "Isla Zacate Grande",
-14
+14,
+[]
 ],
 [
 "Mount Amukta",
-14
+14,
+[
+"Mt. Amukta"
+]
 ],
 [
 "Mount Hodson",
-14
+14,
+[]
 ],
 [
 "Mount Epomeo",
-14
+14,
+[
+"Monte Epomeo"
+]
 ],
 [
 "Mount Somma",
-14
+14,
+[]
 ],
 [
 "Baransky",
-14
+14,
+[
+"Baransky Volcano",
+"Mount Sashiusu",
+"Sashiusu-dake"
+]
 ],
 [
 "Bely",
-14
+14,
+[]
 ],
 [
 "Tunupa volcano",
-14
+14,
+[]
 ],
 [
 "Mount Chiginagak",
-14
+14,
+[]
 ],
 [
 "Mount Oakan",
-14
+14,
+[
+"Mount Oakandake",
+"Oakandake"
+]
 ],
 [
 "Big Ben",
-14
+14,
+[]
 ],
 [
 "Camiguin de Babuyanes",
-13
+13,
+[
+"Mount Camiguin"
+]
 ],
 [
 "Chupiquiña",
-13
+13,
+[
+"Chupikiña"
+]
 ],
 [
 "Chiliques",
-13
+13,
+[]
 ],
 [
 "Karpinsky Group",
-13
+13,
+[
+"Vulkan Karpinskogo"
+]
 ],
 [
 "Jovis Tholus",
-13
+13,
+[]
 ],
 [
 "Uranius Mons",
-13
+13,
+[]
 ],
 [
 "Mount Ragang",
-13
+13,
+[]
 ],
 [
 "Gula Mons",
-13
+13,
+[]
 ],
 [
 "Hadriacus Mons",
-13
+13,
+[]
 ],
 [
 "Helgrindur",
-13
+13,
+[]
 ],
 [
 "Hornopirén",
-13
+13,
+[
+"Hornopiren"
+]
 ],
 [
 "Keilir",
-13
+13,
+[]
 ],
 [
 "Prometheus",
-13
+13,
+[]
 ],
 [
 "Nuevo Mundo volcano",
-13
+13,
+[]
 ],
 [
 "Gunungapi Wetar",
-13
+13,
+[]
 ],
 [
 "Jbel Hebri",
-13
+13,
+[
+"Jebel Hebri"
+]
 ],
 [
 "Alngey",
-13
+13,
+[]
 ],
 [
 "Mount Sempu",
-13
+13,
+[]
 ],
 [
 "Água de Pau",
-13
+13,
+[
+"Agua de Pau",
+"Agua de Pau volcano",
+"Água de Pau volcano",
+"Fogo volcano"
+]
 ],
 [
 "Wolo Inelika",
-13
+13,
+[]
 ],
 [
 "El Totumo",
-13
-],
+13,
 [
-"Tristan da Cunha",
-13
-],
-[
-"Iliwerung",
-13
-],
-[
-"Michincha",
-13
-],
-[
-"Iyang-Argapura",
-13
-],
-[
-"Kuntomintar",
-13
-],
-[
-"Mendeleyeva",
-13
+"El Totumo Mud Volcano"
+]
 ],
 [
 "Volcán Santo Tomás",
-13
+13,
+[
+"Volcan Santo Tomas"
+]
+],
+[
+"Tristan da Cunha",
+13,
+[
+"Tristan da Cunha Island",
+"Tristan Island"
+]
+],
+[
+"Iliwerung",
+13,
+[
+"Ile Adowajo"
+]
+],
+[
+"Michincha",
+13,
+[]
+],
+[
+"Iyang-Argapura",
+13,
+[]
+],
+[
+"Kuntomintar",
+13,
+[]
+],
+[
+"Mendeleyeva",
+13,
+[]
 ],
 [
 "Solimana",
-13
+13,
+[]
 ],
 [
 "Ticsani",
-13
+13,
+[]
 ],
 [
 "Poco Ranaka",
-13
+13,
+[]
 ],
 [
 "Peak Pantojo",
-13
+13,
+[]
 ],
 [
 "Nevado de Longaví",
-13
+13,
+[
+"Nevado de Longavi"
+]
 ],
 [
 "Mocho-Choshuenco",
-13
+13,
+[]
 ],
 [
 "Hohe Acht",
-13
+13,
+[]
 ],
 [
 "Þeistareykjarbunga",
-13
+13,
+[]
 ],
 [
 "Þórólfsfell",
-13
+13,
+[]
 ],
 [
 "Qualibou",
-13
+13,
+[]
 ],
 [
 "Yantarni Volcano",
-13
+13,
+[]
 ],
 [
 "Anaun",
-13
+13,
+[]
 ],
 [
 "Casablanca",
-13
+13,
+[]
 ],
 [
 "Mallahle",
-13
+13,
+[]
 ],
 [
 "Sierra Nevada",
-13
+13,
+[]
 ],
 [
 "Tatun Volcano Group",
-13
+13,
+[
+"Ta-tun"
+]
 ],
 [
 "Mount Moffett",
-13
+13,
+[
+"Mt. Moffett"
+]
 ],
 [
 "Mount Tateshina",
-13
+13,
+[
+"Suwa Fuji",
+"Tateshinayama",
+"Tateshina Yama"
+]
 ],
 [
 "Mount Myōkō",
-13
+13,
+[]
 ],
 [
 "Berutarube",
-13
+13,
+[
+"Mount Berutarube"
+]
 ],
 [
 "Fremrinámar",
-13
+13,
+[
+"Fremrinamar"
+]
 ],
 [
 "Ciomadul",
-13
+13,
+[
+"Csomád"
+]
 ],
 [
 "Sollipulli",
-13
+13,
+[]
 ],
 [
 "Quetena Volcano",
-12
-],
-[
-"Shōwa-shinzan",
-12
-],
-[
-"Ugashik-Peulik",
-12
-],
-[
-"Moti Island",
-12
-],
-[
-"Sif Mons",
-12
-],
-[
-"Mount Kaba",
-12
-],
-[
-"Mount Recheshnoi",
-12
-],
-[
-"Sete Cidades Massif",
-12
-],
-[
-"Grímsnes",
-12
-],
-[
-"Ulysses Tholus",
-12
-],
-[
-"Patomskiy crater",
-12
-],
-[
-"Mount Kalatungan",
-12
-],
-[
-"Kollóttadyngja",
-12
-],
-[
-"Mount Khabarjina",
-12
-],
-[
-"Mount Matutum",
-12
-],
-[
-"Wurlali",
-12
-],
-[
-"Uranius Tholus",
-12
-],
-[
-"Zavaritski Caldera",
-12
-],
-[
-"Ra Patera",
-12
-],
-[
-"Mount Naeba",
-12
-],
-[
-"Theia Mons",
-12
-],
-[
-"Sangeang Api",
-12
-],
-[
-"Taunshits",
-12
-],
-[
-"Chirip",
-12
-],
-[
-"Yelovsky Volcano",
-12
-],
-[
-"The Volcano",
-12
-],
-[
-"Mount Dutton",
-12
-],
-[
-"Amirani",
-12
-],
-[
-"White Chuck Cinder Cone",
-12
-],
-[
-"Newberry Volcano",
-12
-],
-[
-"Tahual",
-12
-],
-[
-"Taburete",
-12
-],
-[
-"Mount Kialagvik",
-12
-],
-[
-"Montsacopa volcano",
-12
-],
-[
-"Mount Hiuchigatake",
-12
-],
-[
-"Mount Overlord",
-12
-],
-[
-"Gutanasar",
-12
+12,
+[]
 ],
 [
 "Mount Io",
-12
+12,
+[
+"Io-zan",
+"Iozan",
+"Mount Shiretoko-Io"
+]
 ],
 [
-"San Martín Tuxtla",
-12
+"Shōwa-shinzan",
+12,
+[
+"Showa-shinzan"
+]
 ],
 [
-"Andagua volcanic field",
-12
+"Ugashik-Peulik",
+12,
+[]
 ],
 [
-"Cerro Colorado",
-12
+"Moti Island",
+12,
+[]
 ],
 [
-"Mount Lamongan",
-12
+"Sif Mons",
+12,
+[]
+],
+[
+"Mount Kaba",
+12,
+[
+"Malang Kaba"
+]
+],
+[
+"Mount Recheshnoi",
+12,
+[
+"Mt. Recheshnoi"
+]
+],
+[
+"Sete Cidades Massif",
+12,
+[
+"Caldeira das Sete Cidades",
+"Sete Cidades"
+]
+],
+[
+"Grímsnes",
+12,
+[
+"Grimsnes"
+]
+],
+[
+"Ulysses Tholus",
+12,
+[
+"Ulysses Tholis"
+]
+],
+[
+"Patomskiy crater",
+12,
+[]
+],
+[
+"Mount Kalatungan",
+12,
+[
+"Catatungan"
+]
+],
+[
+"Kollóttadyngja",
+12,
+[
+"Kollottadyngja"
+]
+],
+[
+"Mount Khabarjina",
+12,
+[]
+],
+[
+"Mount Matutum",
+12,
+[]
+],
+[
+"Wurlali",
+12,
+[
+"Mount Wurlali"
+]
+],
+[
+"Uranius Tholus",
+12,
+[]
+],
+[
+"Zavaritski Caldera",
+12,
+[
+"Vulkan Zavaritskogo"
+]
+],
+[
+"Ra Patera",
+12,
+[]
+],
+[
+"Mount Naeba",
+12,
+[]
 ],
 [
 "Volcán Cerro Machín",
-12
+12,
+[
+"Cerro Machin"
+]
+],
+[
+"Theia Mons",
+12,
+[]
+],
+[
+"Sangeang Api",
+12,
+[]
+],
+[
+"Taunshits",
+12,
+[
+"Taunshitz"
+]
+],
+[
+"Chirip",
+12,
+[]
+],
+[
+"Yelovsky Volcano",
+12,
+[]
+],
+[
+"The Volcano",
+12,
+[
+"lava fork volcano"
+]
+],
+[
+"Cerro Colorado",
+12,
+[]
+],
+[
+"Mount Dutton",
+12,
+[
+"Mt. Dutton"
+]
+],
+[
+"Amirani",
+12,
+[]
+],
+[
+"White Chuck Cinder Cone",
+12,
+[]
+],
+[
+"Newberry Volcano",
+12,
+[]
+],
+[
+"Tahual",
+12,
+[]
+],
+[
+"Taburete",
+12,
+[]
+],
+[
+"Mount Kialagvik",
+12,
+[
+"Mt. Kialagvik"
+]
+],
+[
+"Montsacopa volcano",
+12,
+[
+"Volca del Montsacopa"
+]
+],
+[
+"Mount Hiuchigatake",
+12,
+[
+"Hiuchiga Take"
+]
+],
+[
+"Mount Overlord",
+12,
+[]
+],
+[
+"Gutanasar",
+12,
+[]
+],
+[
+"San Martín Tuxtla",
+12,
+[
+"Volcan de San Martin"
+]
+],
+[
+"Andagua volcanic field",
+12,
+[
+"Valle de los Volcanes",
+"Valley of the Volcanoes"
+]
+],
+[
+"Mount Lamongan",
+12,
+[]
 ],
 [
 "Reclus",
-12
+12,
+[]
 ],
 [
 "Mount Mageik",
-12
+12,
+[
+"Mt. Mageik"
+]
 ],
 [
 "Antillanca Group",
-12
+12,
+[]
 ],
 [
 "Ushas Mons",
-12
+12,
+[]
 ],
 [
 "Atosa Nupuri",
-12
+12,
+[
+"Mount Io"
+]
 ],
 [
 "Mount Yufu",
-12
+12,
+[
+"Bungo Fuji",
+"Yufu Dake"
+]
 ],
 [
 "Tavkvetili",
-12
+12,
+[]
 ],
 [
 "Korosi",
-12
+12,
+[]
 ],
 [
 "Mount Westdahl",
-12
+12,
+[
+"Mt. Westdahl",
+"Westdahl Peak",
+"Westdahl Volcano"
+]
 ],
 [
 "Mount Seguam",
-12
+12,
+[
+"Mt. Seguam",
+"Pyre Peak",
+"Seguan Volcano"
+]
 ],
 [
 "Isanotski Peaks",
-12
+12,
+[
+"Ragged Jack"
+]
 ],
 [
 "Búrfell",
-11
+11,
+[
+"Burfell"
+]
 ],
 [
 "Cabalian Volcano",
-11
+11,
+[]
 ],
 [
 "Dolok Sibualbuali",
-11
+11,
+[]
 ],
 [
 "Gareloi Volcano",
-11
+11,
+[]
 ],
 [
 "Mount Masaraga",
-11
+11,
+[]
 ],
 [
 "Snæfell",
-11
+11,
+[]
 ],
 [
 "Mount Parker",
-11
+11,
+[
+"Mount Melibengoy"
+]
 ],
 [
 "Hoher Hagen",
-11
+11,
+[]
 ],
 [
 "Hrómundartindur",
-11
+11,
+[
+"Hromundartindur"
+]
 ],
 [
 "Kaʻala",
-11
+11,
+[
+"Mount Ka'ala",
+"Mt. Ka'ala"
+]
 ],
 [
 "Manuk",
-11
+11,
+[
+"Manoek",
+"Manuk Island",
+"Mount Manuk"
+]
 ],
 [
 "Uksichan",
-11
+11,
+[]
 ],
 [
 "Lewotolo",
-11
+11,
+[]
 ],
 [
 "Bolshoy Semyachik",
-11
+11,
+[]
 ],
 [
 "Ozza Mons",
-11
+11,
+[]
 ],
 [
 "Mount Kamojang",
-11
+11,
+[
+"Kamojang Crater",
+"Kawah Kamojang"
+]
 ],
 [
 "Tres Vírgenes",
-11
+11,
+[
+"Tres Virgenes"
+]
 ],
 [
 "Milna",
-11
+11,
+[]
 ],
 [
 "Smirnov",
-11
+11,
+[
+"Iwayama"
+]
 ],
 [
 "Kebeney",
-11
+11,
+[]
 ],
 [
 "Koʻolau Range",
-11
+11,
+[]
 ],
 [
 "Cordón de Puntas Negras",
-11
+11,
+[
+"Cordon de Puntas Negras"
+]
 ],
 [
 "Mount Empung",
-11
+11,
+[
+"Gunung Empong"
+]
 ],
 [
 "Suchitan",
-11
+11,
+[]
 ],
 [
 "Volcán Huequi",
-11
+11,
+[]
 ],
 [
 "Gish Bar Patera",
-11
+11,
+[]
 ],
 [
 "Boyuk Ishigly",
-11
+11,
+[
+"Böyük İşıqlı",
+"Mets Ishkhanasar",
+"Mets Ishkhanasar Lerr"
+]
 ],
 [
 "Mount Barbaro",
-11
+11,
+[]
 ],
 [
 "Pico do Cabugi",
-11
+11,
+[]
 ],
 [
 "Buldir Volcano",
-11
+11,
+[]
 ],
 [
 "Mount Gilbert",
-11
+11,
+[
+"Mt. Gilbert"
+]
 ],
 [
 "Mount Gordon",
-11
+11,
+[
+"Mt. Gordon"
+]
 ],
 [
 "Hayes Volcano",
-11
+11,
+[]
 ],
 [
 "Mount Kukak",
-11
+11,
+[
+"Kukak Volcano",
+"Mt. Kukak"
+]
 ],
 [
 "Gunung Patah",
-11
+11,
+[]
 ],
 [
 "Mount Azumaya",
-11
+11,
+[
+"Azumaya San"
+]
 ],
 [
 "Mount Lurus",
-11
+11,
+[
+"Gunung Lurus"
+]
 ],
 [
 "Mount Jarvis",
-11
+11,
+[
+"Mt. Jarvis"
+]
 ],
 [
 "Biu Plateau",
-11
+11,
+[]
 ],
 [
 "Bukit Daun",
-11
+11,
+[]
 ],
 [
 "Akita-Yakeyama",
-11
+11,
+[
+"Mount Akita-Yake",
+"Mount Akita-Yakeyama"
+]
 ],
 [
 "Mount Pulosari",
-11
+11,
+[
+"Mount Pulasari",
+"Poelasari",
+"Pulasari"
+]
 ],
 [
 "Robledo",
-11
+11,
+[
+"Cerro Blanco",
+"Volcán Nevado"
+]
 ],
 [
 "Milešovka",
-11
+11,
+[]
 ],
 [
 "Casiri",
-11
+11,
+[]
 ],
 [
 "Mountain Kendang",
-11
+11,
+[]
 ],
 [
 "Miño Volcano",
-11
+11,
+[]
 ],
 [
 "Palpana",
-11
+11,
+[
+"Cerro Palpana"
+]
 ],
 [
 "Ccarhuarazo",
-11
+11,
+[
+"Qarwarasu"
+]
 ],
 [
 "San Pablo",
-11
+11,
+[]
 ],
 [
 "Didica Volcano",
-11
+11,
+[]
 ],
 [
 "Barkhatnaya",
-11
+11,
+[
+"Sopka Barkhatnaya"
+]
 ],
 [
 "Mount Shiretoko",
-11
+11,
+[
+"Shiretoko-dake"
+]
 ],
 [
 "Cerro Rota",
-11
+11,
+[
+"Volcán Rota"
+]
 ],
 [
 "Uliaga Island",
-11
+11,
+[]
 ],
 [
 "Kell",
-10
+10,
+[]
 ],
 [
 "Mount Shiribetsu",
-10
+10,
+[
+"Shiribetsu-dake"
+]
 ],
 [
 "Mount Hagen",
-10
+10,
+[]
 ],
 [
 "Tupan Patera",
-10
+10,
+[]
 ],
 [
 "Hoher List",
-10
+10,
+[]
 ],
 [
 "Sincholagua Volcano",
-10
+10,
+[
+"Cerro Sincholagua"
+]
 ],
 [
 "Mount Martin",
-10
+10,
+[
+"Mt. Martin"
+]
 ],
 [
 "Ljósufjöll",
-10
+10,
+[]
 ],
 [
 "Shishel",
-10
+10,
+[]
 ],
 [
 "Torağay",
-10
+10,
+[
+"Toragay Mud Volcano"
+]
 ],
 [
 "Schmidt",
-10
+10,
+[]
 ],
 [
 "Prevo Peak",
-10
-],
-[
-"Tshibinda",
-10
-],
-[
-"Sutter Buttes",
-10
-],
-[
-"Leroboleng",
-10
-],
-[
-"Mount Nila",
-10
-],
-[
-"Wai Sano",
-10
-],
-[
-"Mount Kunyit",
-10
-],
-[
-"Amaterasu Patera",
-10
-],
-[
-"Hermonit Mountain",
-10
+10,
+[]
 ],
 [
 "Mount Teon",
-10
+10,
+[]
+],
+[
+"Tshibinda",
+10,
+[]
+],
+[
+"Sutter Buttes",
+10,
+[]
+],
+[
+"Leroboleng",
+10,
+[]
+],
+[
+"Mount Nila",
+10,
+[
+"Gunung Nila",
+"Gunung Nila Island",
+"Pulau Gunung Nila"
+]
+],
+[
+"Wai Sano",
+10,
+[]
+],
+[
+"Mount Kunyit",
+10,
+[
+"Belirang"
+]
+],
+[
+"Amaterasu Patera",
+10,
+[]
+],
+[
+"Hermonit Mountain",
+10,
+[
+"Mount Hermonit"
+]
 ],
 [
 "Carrán-Los Venados",
-10
+10,
+[
+"Carran-Los Venados"
+]
 ],
 [
 "Colachi",
-10
+10,
+[]
 ],
 [
 "Dazhbog Patera",
-10
+10,
+[]
 ],
 [
 "Sacabaya",
-10
+10,
+[]
 ],
 [
 "Masubi",
-10
+10,
+[]
 ],
 [
 "Fueguino",
-10
+10,
+[]
 ],
 [
 "Mount Ashitaka",
-10
+10,
+[
+"Ashitaka-yama"
+]
 ],
 [
 "Mount Karakuni",
-10
+10,
+[
+"Karakuni-dake",
+"Karakunidake",
+"Karakuni Dake"
+]
 ],
 [
 "Platanar",
-10
+10,
+[]
 ],
 [
 "Mount Kaguyak",
-10
+10,
+[
+"Mt. Kaguyak"
+]
 ],
 [
 "Puna Pau",
-10
+10,
+[
+"pukao factory"
+]
 ],
 [
 "Mount Dajo",
-10
+10,
+[
+"Bud Dajo"
+]
 ],
 [
 "Brothers Seamount",
-10
+10,
+[
+"Brothers Volcano"
+]
 ],
 [
 "Inerie",
-10
+10,
+[]
 ],
 [
 "Emperor of China",
-10
+10,
+[]
 ],
 [
 "Amasing Hill",
-10
+10,
+[]
 ],
 [
 "Amorong",
-10
+10,
+[]
 ],
 [
 "Cerro Prieto",
-10
+10,
+[]
 ],
 [
 "Jocotitlán",
-10
+10,
+[
+"Jocotitlan",
+"Xocotepetl",
+"Xocotépetl"
+]
 ],
 [
 "Volcán Apoyeque",
-10
+10,
+[
+"Apoyeque",
+"Apoyeque Volcano"
+]
 ],
 [
 "Mount Andromeda",
-10
+10,
+[]
 ],
 [
 "Mount Darnley",
-10
+10,
+[]
 ],
 [
 "Bořeň",
-10
+10,
+[]
 ],
 [
 "Quadrant Peak",
-10
+10,
+[]
 ],
 [
 "San Carlos",
-10
+10,
+[]
 ],
 [
 "Bam",
-10
+10,
+[]
 ],
 [
 "Bibinoi Hill",
-10
+10,
+[]
 ],
 [
 "Billy Mitchell",
-10
+10,
+[]
 ],
 [
 "Mount Algidus",
-10
+10,
+[
+"Algidus Mons"
+]
+],
+[
+"Agnano",
+9,
+[]
+],
+[
+"Dolok Lubuk Raya",
+9,
+[
+"Mount Lubukraya",
+"Mount Lubuk Raya"
+]
+],
+[
+"Puntiagudo-Cordón Cenizos",
+9,
+[
+"Puntiagudo-Cordon Cenizos"
+]
+],
+[
+"Krakatau Island",
+9,
+[
+"Krakata Island",
+"Krakatoa",
+"Kratau",
+"Pulau Krakata",
+"Pulau Krakatau",
+"Rakata",
+"Rakata Eiland"
+]
+],
+[
+"Quimsachata",
+9,
+[]
+],
+[
+"Morne aux Diables",
+9,
+[]
+],
+[
+"Svartsengi",
+9,
+[]
+],
+[
+"Morne Plat Pays",
+9,
+[]
+],
+[
+"Fuchskaute",
+9,
+[]
+],
+[
+"Malinao Volcano",
+9,
+[]
+],
+[
+"Har Bnei Rasan",
+9,
+[]
+],
+[
+"Hochsimmer",
+9,
+[]
+],
+[
+"Krenitsyn Volcano",
+9,
+[
+"Vulkan Krenitsyna"
+]
+],
+[
+"Goryashchaya Sopka",
+9,
+[]
+],
+[
+"Lvinaya Past",
+9,
+[]
+],
+[
+"Mount Sukaria",
+9,
+[
+"Sukaria"
+]
+],
+[
+"Komarov",
+9,
+[
+"Volcano Komarov",
+"Vulkan Komarova"
+]
+],
+[
+"Poco Leok",
+9,
+[]
+],
+[
+"Axial Seamount",
+9,
+[
+"Axial Volcano",
+"Coaxial Seamount"
+]
+],
+[
+"Iliboleng",
+9,
+[]
+],
+[
+"Udokan Plateau",
+9,
+[
+"Udokan"
+]
+],
+[
+"Ilimuda",
+9,
+[]
+],
+[
+"Demon",
+9,
+[
+"Gora Demon"
+]
+],
+[
+"Eggella",
+9,
+[]
+],
+[
+"May-Ya-Moto",
+9,
+[
+"Maji ja moto"
+]
+],
+[
+"Yakeyama",
+9,
+[
+"Etorofu Yakeyama",
+"Ivan Grozny",
+"Vulkan Ivan Groznyy"
+]
+],
+[
+"Mount Warning",
+9,
+[
+"Wollumbin"
+]
+],
+[
+"Mont de la Dives",
+9,
+[]
+],
+[
+"Puy de Lassolas",
+9,
+[]
+],
+[
+"Mount Denison",
+9,
+[
+"Mt. Denison"
+]
+],
+[
+"Mount Steller",
+9,
+[
+"Mt. Steller"
+]
+],
+[
+"San Pedro de Tarara",
+9,
+[
+"San Pedro-Pellado"
+]
+],
+[
+"Tilocálar",
+9,
+[
+"Tilocalar"
+]
+],
+[
+"La Garrinada vulcano",
+9,
+[
+"Garrinada volcano"
+]
+],
+[
+"Mount Sukai",
+9,
+[
+"Kōgai San",
+"Mount Kōgai",
+"Sukai San"
+]
+],
+[
+"Mount Kirigamine",
+9,
+[
+"Kirigamine"
+]
+],
+[
+"Balagan-Tas",
+9,
+[
+"Balaghan Taas"
+]
+],
+[
+"Dariganga Volcanic Field",
+9,
+[]
+],
+[
+"Kula volcano",
+9,
+[]
+],
+[
+"Mount Tigalalu",
+9,
+[
+"Gunung Tigalalu"
+]
+],
+[
+"Niigata-Yake-Yama",
+9,
+[
+"Mount Niigata-Yake",
+"Mount Yake",
+"Yake Yama"
+]
+],
+[
+"Mount Sanbe",
+9,
+[
+"Sanbesan",
+"Sanbe San"
+]
+],
+[
+"Ruruidake",
+9,
+[
+"Gora Ruruy",
+"Rurui",
+"Rurui dake",
+"Rurui-dake",
+"Ruruy"
+]
+],
+[
+"Zendan-e Soleyman",
+9,
+[
+"Kūh-e Zendān-e Soleymān"
+]
+],
+[
+"Koh-i-Sultan",
+9,
+[]
+],
+[
+"Mount Fuppushi",
+9,
+[
+"Fuppushi-dake"
+]
+],
+[
+"Mount Perseus",
+9,
+[]
+],
+[
+"Pavlof Sister",
+9,
+[]
+],
+[
+"Serra de Santa Bárbara",
+9,
+[
+"Serra de Santa Barbara"
+]
+],
+[
+"Macizo de Teno",
+9,
+[
+"Teno massif"
+]
+],
+[
+"Shatsky Rise",
+9,
+[]
+],
+[
+"Sierra Velluda",
+9,
+[]
+],
+[
+"Thordarhyrna",
+9,
+[]
+],
+[
+"Tobaru",
+9,
+[
+"Gunúng Tobaru",
+"Mount Tobaru"
+]
+],
+[
+"Taufstein",
+9,
+[]
+],
+[
+"Katzenbuckel",
+9,
+[]
+],
+[
+"Mentolat",
+9,
+[]
+],
+[
+"Cerro Verde",
+8,
+[
+"Cuntetepeque"
+]
+],
+[
+"Mount Sumbing",
+8,
+[
+"Gunung Sumbing"
+]
+],
+[
+"Gunung Perbakti",
+8,
+[]
+],
+[
+"Červená hora",
+8,
+[
+"Červená"
+]
+],
+[
+"Mount Kurikoma",
+8,
+[
+"Kurikomayama",
+"Kurikoma Yama",
+"Mount Kurikomayama"
+]
+],
+[
+"Mount Kinbo",
+8,
+[
+"Kinbo-zan",
+"Kinpo-zan",
+"Mount Kinpo"
+]
+],
+[
+"Mount Iizuna",
+8,
+[
+"Iizuna Yama"
+]
+],
+[
+"Mount Takahara",
+8,
+[
+"Mount Takaharayama",
+"Takahara-yama",
+"Takaharayama"
+]
+],
+[
+"Cerro Congo",
+8,
+[
+"Cerro Cariblanco, Cerro María Aguilar",
+"Volcán Congo"
+]
+],
+[
+"Alutu",
+8,
+[]
+],
+[
+"Sanbangsan",
+8,
+[]
+],
+[
+"Mount Butak",
+8,
+[]
+],
+[
+"Mount Mézenc",
+8,
+[
+"Mount Mezenc"
+]
+],
+[
+"Kaitoku Seamount",
+8,
+[]
+],
+[
+"South Island",
+8,
+[]
+],
+[
+"Grensdalur",
+8,
+[]
+],
+[
+"Mount Canobolas",
+8,
+[
+"Gaanha bula"
+]
+],
+[
+"Biliran",
+8,
+[]
+],
+[
+"Karmelenberg",
+8,
+[
+"Karmelen-Berg"
+]
+],
+[
+"Ndete Napu",
+8,
+[]
+],
+[
+"Ettringer Bell-Berg",
+8,
+[]
+],
+[
+"Maungawhau / Mount Eden",
+8,
+[
+"Maungawhau",
+"Mount Eden",
+"Mount Eden Domain",
+"Mt. Eden"
+]
+],
+[
+"Mount Hōei",
+8,
+[
+"Hōeizan",
+"Hōei Zan"
+]
+],
+[
+"Greater Ararat",
+8,
+[]
+],
+[
+"Curacoa volcano",
+8,
+[]
+],
+[
+"Riang Kotang",
+8,
+[]
+],
+[
+"Volcán Azul",
+8,
+[
+"Blue Volcán",
+"Blue Vulcan"
+]
+],
+[
+"Bolshoy Kekuknaysky Volcano",
+8,
+[]
+],
+[
+"Zuidwal volcano",
+8,
+[]
+],
+[
+"Grábrók",
+8,
+[]
+],
+[
+"Chaos Crags",
+8,
+[]
+],
+[
+"Fort Rock",
+8,
+[]
+],
+[
+"Northwest Rota",
+8,
+[]
+],
+[
+"Mount Madia-as",
+8,
+[
+"Mount Madja-as"
+]
+],
+[
+"Wonchi",
+8,
+[]
+],
+[
+"Kami-Nari Patera",
+8,
+[]
+],
+[
+"Mount Rittmann",
+8,
+[]
+],
+[
+"Morne Trois Pitons",
+8,
+[]
+],
+[
+"Cold Bay Volcano",
+8,
+[
+"Frosty Peak"
+]
+],
+[
+"Þríhnúkagígur",
+8,
+[]
+],
+[
+"Thor",
+8,
+[]
+],
+[
+"Puy Pariou",
+8,
+[]
+],
+[
+"Pogromni Volcano",
+8,
+[]
+],
+[
+"Mount Emmons",
+8,
+[]
+],
+[
+"Tarso Yega",
+8,
+[
+"Tarso Yéga"
+]
+],
+[
+"Volcan du Diable",
+8,
+[]
+],
+[
+"Volcà de Montolivet",
+8,
+[]
+],
+[
+"Yanteles",
+8,
+[]
+],
+[
+"Great Sitkin Volcano",
+8,
+[]
+],
+[
+"Ahyi",
+8,
+[
+"Ahyi Seamount - Active Hydrothermal Discharge"
+]
+],
+[
+"Ililabalekan",
+8,
+[]
+],
+[
+"Methana Volcano",
+8,
+[]
+],
+[
+"Tal Saki",
+8,
+[]
+],
+[
+"Spokoyny",
+8,
+[]
+],
+[
+"Volcán Ecuador",
+8,
+[
+"Volcan Ecuador"
+]
+],
+[
+"Mount Taylor",
+8,
+[
+"Mount Taylor, New Mexico",
+"Mt. Taylor"
+]
+],
+[
+"Compton–Belkovich Thorium Anomaly",
+8,
+[
+"CBHRF",
+"CBTA",
+"Compton-Belkovich Anomaly",
+"Compton–Belkovich Anomaly",
+"Compton-Belkovich High-Reflectance Feature",
+"Compton-Belkovich Thorium Anomaly"
+]
+],
+[
+"Puy Griou",
+8,
+[]
+],
+[
+"Little Mount Cameroon",
+8,
+[
+"Etinde"
+]
+],
+[
+"Cay",
+8,
+[]
+],
+[
+"Mount Boucherie",
+8,
+[]
+],
+[
+"Mount Dana",
+8,
+[
+"Mt. Dana"
+]
+],
+[
+"Mount Raiden",
+8,
+[
+"Raiden-yama"
+]
+],
+[
+"Mount Sourabaya",
+8,
+[]
+],
+[
+"Oku Volcanic Field",
+8,
+[]
+],
+[
+"Seonginbong",
+8,
+[]
+],
+[
+"Snowy Mountain",
+8,
+[]
+],
+[
+"Rumoka volcano",
+8,
+[]
+],
+[
+"Urzelina",
+8,
+[]
+],
+[
+"Mount Unabetsu",
+8,
+[
+"Unabetsu-dake"
+]
+],
+[
+"Medicine Lake Volcano",
+8,
+[]
+],
+[
+"Silay",
+8,
+[
+"Mount Silay"
+]
+],
+[
+"Mount Serua",
+7,
+[
+"Serua"
+]
+],
+[
+"Mount Manaia",
+7,
+[
+"Manaia",
+"Manaia Peaks"
+]
+],
+[
+"Nisekoan Nupuri",
+7,
+[
+"Mount Nisekoan"
+]
+],
+[
+"Mount Horohoro",
+7,
+[
+"Horohoro-yama"
+]
+],
+[
+"Mount Hotaka",
+7,
+[
+"Hotakayama",
+"Joshu-Hotakayama",
+"Mount Hotakayama",
+"Mount Joshu-Hotaka",
+"Mount Joshu-Hotakayama"
+]
+],
+[
+"Mount Mekunnai",
+7,
+[]
+],
+[
+"Mount Kurohime",
+7,
+[
+"Kurohimeyama",
+"Kurohime Yama",
+"Mount Kurohimeyama"
+]
+],
+[
+"Nikkō Seamount",
+7,
+[
+"Nikkō Kaizan",
+"Nikkō Volcano"
+]
+],
+[
+"Mawenzi",
+7,
+[]
+],
+[
+"Hoherodskopf",
+7,
+[]
+],
+[
+"Vayots sar",
+7,
+[]
+],
+[
+"Vulcanello",
+7,
+[]
+],
+[
+"Ernstberg",
+7,
+[
+"Ernst-Berg"
+]
+],
+[
+"Scharteberg",
+7,
+[]
+],
+[
+"Mount Kibo",
+7,
+[
+"Kibo",
+"Mt. Kibo"
+]
+],
+[
+"San Cristobal",
+7,
+[
+"Mount San Cristobal"
+]
+],
+[
+"El Escondido volcano",
+7,
+[]
+],
+[
+"Pūtauaki",
+7,
+[
+"Mount Edgecumbe",
+"Putauaki"
+]
+],
+[
+"Dieng Volcanic Complex",
+7,
+[
+"Mount Batur"
+]
+],
+[
+"Neuhewen",
+7,
+[]
+],
+[
+"Mountain Welirang",
+7,
+[]
+],
+[
+"Eldborg",
+7,
+[]
+],
+[
+"Rodderberg",
+7,
+[
+"Rodder-Berg"
+]
+],
+[
+"Roden Crater",
+7,
+[]
+],
+[
+"Kudriavy volcano",
+7,
+[
+"Kudriavy",
+"Vulkan Kudryavyy"
+]
+],
+[
+"Nieuwerkerk",
+7,
+[
+"Mount Sempu"
+]
+],
+[
+"Maelifell",
+7,
+[]
+],
+[
+"Biblis Patera",
+7,
+[]
+],
+[
+"Purupuruni",
+7,
+[]
+],
+[
+"Piip",
+7,
+[
+"Piip Volcano"
+]
+],
+[
+"Los Atlixcos",
+7,
+[]
+],
+[
+"Bolshaya Ipelka",
+7,
+[
+"Gora Bol'shaya Ipel'ka"
+]
+],
+[
+"Bledug Kuwu Mud Volcano",
+7,
+[
+"Bledug Kuw",
+"Bledug Kuwu"
+]
+],
+[
+"Malang Plain",
+7,
+[]
+],
+[
+"Ah Peku Patera",
+7,
+[]
+],
+[
+"Salín",
+7,
+[
+"Salin"
+]
+],
+[
+"mount Avital",
+7,
+[]
+],
+[
+"Casita Volcano",
+7,
+[
+"Volcán Casita",
+"Volcan Casitas",
+"Volcán Casitas"
+]
+],
+[
+"Samalas",
+7,
+[]
+],
+[
+"Citerne",
+7,
+[
+"La Citerne"
+]
+],
+[
+"Dofan",
+7,
+[]
+],
+[
+"Gedamsa",
+7,
+[]
+],
+[
+"Kinich Ahau Patera",
+7,
+[]
+],
+[
+"Korath",
+7,
+[
+"Korath Range"
+]
+],
+[
+"Manua Patera",
+7,
+[]
+],
+[
+"Kitumbeine Volcano",
+7,
+[]
+],
+[
+"Mælifellshnjúkur",
+7,
+[]
+],
+[
+"Þorbjörn",
+7,
+[]
+],
+[
+"Tri Sestry",
+7,
+[]
+],
+[
+"Puy de Côme",
+7,
+[]
+],
+[
+"Puy de la Vache",
+7,
+[]
+],
+[
+"Puy des Goules",
+7,
+[]
+],
+[
+"Mount Takachiho",
+7,
+[
+"Takachiho no Mine"
+]
+],
+[
+"Collina dei Camaldoli",
+7,
+[
+"Camaldoli",
+"Camaldoli Hill"
+]
+],
+[
+"Mount Shiga",
+7,
+[
+"Shiga Yama"
+]
+],
+[
+"Železná hůrka",
+7,
+[]
+],
+[
+"Aag",
+7,
+[]
+],
+[
+"Arteni",
+7,
+[]
+],
+[
+"Bogdan Khmelnitsky",
+7,
+[
+"Bogdan-Khmel'nitskiy",
+"Chirip",
+"Chirippusan",
+"Vulkan Chirip"
+]
+],
+[
+"Mount Hutapanjang",
+7,
+[]
+],
+[
+"Supply Reef",
+7,
+[]
+],
+[
+"Mount Yosifon",
+7,
+[]
+],
+[
+"Harra of Arhab",
+7,
+[]
+],
+[
+"Amboy Crater",
+7,
+[]
+],
+[
+"Coffee Crater",
+7,
+[]
+],
+[
+"Devils Desk",
+7,
+[]
+],
+[
+"El Ermitaño",
+7,
+[]
+],
+[
+"Harras of Dhamar",
+7,
+[]
+],
+[
+"Ilaló",
+7,
+[
+"Ilalo"
+]
+],
+[
+"Inacaliri",
+7,
+[
+"Cerro Inacaliri"
+]
+],
+[
+"Volcán Momotombito",
+7,
+[
+"Momotombito"
+]
+],
+[
+"Aluto",
+7,
+[]
+],
+[
+"Mount Maria, Malaysia",
+7,
+[]
+],
+[
+"Little Matterhorn",
+7,
+[]
+],
+[
+"Monte Muambe",
+7,
+[]
+],
+[
+"Mount Chubetsu",
+7,
+[
+"Chubetsu-dake"
+]
+],
+[
+"Mount Onnebetsu",
+7,
+[
+"Onnebetsu-dake"
+]
+],
+[
+"Nabukelevu",
+7,
+[]
+],
+[
+"Sousaki volcano",
+7,
+[]
+],
+[
+"Mount Furano",
+7,
+[
+"Furano-dake"
+]
+],
+[
+"Harra es-Sawad",
+7,
+[]
+],
+[
+"West Mata",
+7,
+[]
+],
+[
+"Mate Grande",
+6,
+[
+"Gran Mate"
+]
+],
+[
+"Romanovka stratovolcano",
+6,
+[]
+],
+[
+"Minami-Hiyoshi Seamount",
+6,
+[
+"Minami-Hiyoshi",
+"Minamihiyoshi Seamount"
+]
+],
+[
+"Mount Nyohō",
+6,
+[
+"Nyohō-zan"
+]
+],
+[
+"Mount Moriyoshi",
+6,
+[
+"Moriyoshi Yama",
+"Moriyoshizan",
+"Mount Moriyoshizan"
+]
+],
+[
+"Iriomote Submarine Volcano",
+6,
+[
+"Submarine Volcano NNE of Iriomotejima"
+]
+],
+[
+"Desenberg",
+6,
+[]
+],
+[
+"Mountain Masurai",
+6,
+[
+"Mount Masurai",
+"Mount Masurai, Indonesia"
+]
+],
+[
+"Palinuro Seamount",
+6,
+[
+"Palinuro",
+"Palinuro Volcano"
+]
+],
+[
+"Cerro Nicholson",
+6,
+[]
+],
+[
+"Eifuku Seamount",
+6,
+[]
+],
+[
+"Nerother Kopf",
+6,
+[]
+],
+[
+"Rauher Kulm",
+6,
+[]
+],
+[
+"Knüllköpfchen",
+6,
+[]
+],
+[
+"Hrafnabjörg",
+6,
+[]
+],
+[
+"Zhuzi Mountain",
+6,
+[
+"Mount Zhuzi",
+"Mt. Zhuzi"
+]
+],
+[
+"Rhea Mons",
+6,
+[]
+],
+[
+"Vrabinec",
+6,
+[]
+],
+[
+"Monte Gordo",
+6,
+[]
+],
+[
+"Laguna Aramuaca",
+6,
+[]
+],
+[
+"Takarunga / Mount Victoria",
+6,
+[
+"Mount Victoria",
+"Takarunga"
+]
+],
+[
+"Maungarei / Mount Wellington",
+6,
+[
+"Maungarei",
+"Mount Wellington"
+]
+],
+[
+"Ōkataina Caldera",
+6,
+[
+"Okataina",
+"Okataina caldera",
+"Okataina Caldera",
+"Okataina Volcanic Centre",
+"Ōkataina Volcanic Centre"
+]
+],
+[
+"Tatarinov Volcano",
+6,
+[
+"Vulcan Tatarinova"
+]
+],
+[
+"Mount Tehama",
+6,
+[
+"Brokeoff Mountain",
+"Brokeoff Volcano"
+]
+],
+[
+"Rockeskyllerkopf",
+6,
+[]
+],
+[
+"Volcán de la Deseada",
+6,
+[
+"Deseada (volcano)",
+"La Deseada"
+]
+],
+[
+"West Maui Mountains",
+6,
+[
+"Mauna Kahalawai"
+]
+],
+[
+"Mbetpit",
+6,
+[
+"Mont Mbapit"
+]
+],
+[
+"Yersey",
+6,
+[]
+],
+[
+"Ármannsfell",
+6,
+[
+"Armannsfell"
+]
+],
+[
+"Isolation Point",
+6,
+[]
+],
+[
+"Nagy-Eged Hill",
+6,
+[
+"Great Eged  Hill"
+]
+],
+[
+"Karaha Crater",
+6,
+[
+"Kawah Karaha"
+]
+],
+[
+"Peretolchin",
+6,
+[]
+],
+[
+"Ata volcano",
+6,
+[]
+],
+[
+"Nevado Tres Cruces Central",
+6,
+[]
+],
+[
+"Le Grand Suchet",
+6,
+[]
+],
+[
+"Uranius group of volcanoes",
+6,
+[]
+],
+[
+"Mount Stromboli",
+6,
+[
+"Stromboli",
+"Stromboli Volcano"
+]
+],
+[
+"Ketildyngja",
+6,
+[]
+],
+[
+"La Negrillar",
+6,
+[]
+],
+[
+"Petit Suchet",
+6,
+[]
+],
+[
+"Puy de Louchadière",
+6,
+[]
+],
+[
+"Puy de Mercœur",
+6,
+[
+"Puy de Mercoeur"
+]
+],
+[
+"Frosty Volcano",
+6,
+[]
+],
+[
+"Cerro Tatajachura",
+6,
+[
+"Tatajachura"
+]
+],
+[
+"Itasy Volcanic Field",
+6,
+[]
+],
+[
+"Coronado (volcano)",
+6,
+[
+"Coronado volcano"
+]
+],
+[
+"Puebla",
+6,
+[]
+],
+[
+"Lamanon",
+6,
+[]
+],
+[
+"Mount Keramim",
+6,
+[]
+],
+[
+"Mount Odem",
+6,
+[]
+],
+[
+"Tel Juhader",
+6,
+[
+"تل الجوخدار"
+]
+],
+[
+"Titovskaya Sopka",
+6,
+[
+"Gora Titovskaya Sopka"
+]
+],
+[
+"Furi",
+6,
+[
+"Mount Furi"
+]
+],
+[
+"Benham Plateau",
+6,
+[
+"Benham Rise",
+"Luzon Plateau",
+"Philippine Rise"
+]
+],
+[
+"Bukit Lumut Balai",
+6,
+[]
+],
+[
+"Chandragup",
+6,
+[
+"Chandra Gup mud volcano",
+"Chandrakup"
+]
+],
+[
+"Cocoa Crater",
+6,
+[]
+],
+[
+"Crow Lagoon",
+6,
+[]
+],
+[
+"Dakataua",
+6,
+[]
+],
+[
+"Emuruangogolak",
+6,
+[
+"Emuruangogolak, Kenya"
+]
+],
+[
+"Kozákov",
+6,
+[
+"Kozakov"
+]
+],
+[
+"Kyle Cone",
+6,
+[]
+],
+[
+"Laguna Verde",
+6,
+[]
+],
+[
+"Alagogshak",
+6,
+[]
+],
+[
+"Level Mountain",
+6,
+[]
+],
+[
+"Lucifer Hill",
+6,
+[]
+],
+[
+"Pyroclastic Peak",
+6,
+[]
+],
+[
+"Ōtāhuhu / Mount Richmond",
+6,
+[
+"Mount Richmond",
+"Otahuhu"
+]
+],
+[
+"Mount Samakkenupuri",
+6,
+[
+"Samakkenupuri-yama"
+]
+],
+[
+"Tauhara",
+6,
+[
+"Mount Tauhara"
+]
+],
+[
+"Mount Tsurumi",
+6,
+[
+"Tsurumidake",
+"Tsurumi Dake"
+]
+],
+[
+"Reiden Patera",
+6,
+[]
+],
+[
+"Sarik-Gajah",
+6,
+[]
+],
+[
+"Suiyō Seamount",
+6,
+[]
+],
+[
+"Tanganasoga",
+6,
+[
+"Tanganasoga volcano"
+]
+],
+[
+"Tawhaki Patera",
+6,
+[]
+],
+[
+"Höwenegg",
+6,
+[]
+],
+[
+"Beru",
+6,
+[]
+],
+[
+"Hochkelberg",
+6,
+[]
+],
+[
+"Imun",
+6,
+[]
+],
+[
+"Volcán Cacho Negro",
+6,
+[]
+],
+[
+"Pico Matias Simão",
+5,
+[]
+],
+[
+"Mount Iwao",
+5,
+[
+"Iwao Nupuri"
+]
+],
+[
+"Tajogaite volcano",
+5,
+[]
+],
+[
+"Mount Futago",
+5,
+[]
+],
+[
+"Mount Ōmuro",
+5,
+[
+"Mount Omuroyama",
+"Omuroyama",
+"Ōmuro-yama"
+]
+],
+[
+"Mount Tarō",
+5,
+[
+"Tarō San"
+]
+],
+[
+"Mount Komochi",
+5,
+[]
+],
+[
+"Mount Kampu",
+5,
+[]
+],
+[
+"Mount Madarao",
+5,
+[
+"Madarao Yama"
+]
+],
+[
+"Mount Shirataka",
+5,
+[
+"Shiratakayama",
+"Shirataka Yama"
+]
+],
+[
+"Fukujin Seamount",
+5,
+[
+"Fukujin Okanoba"
+]
+],
+[
+"Utsukushigahara",
+5,
+[]
+],
+[
+"East Epi",
+5,
+[]
+],
+[
+"Mount Nishiazuma",
+5,
+[
+"Mount Nishi-Azuma",
+"Nishiazuma Yama"
+]
+],
+[
+"Akan Fuji",
+5,
+[
+"Mount Akan Fuji"
+]
+],
+[
+"Mount Takasaki",
+5,
+[
+"Mount Takasakiyama",
+"Takasakiyama",
+"Takasaki Yama"
+]
+],
+[
+"Valy",
+5,
+[]
+],
+[
+"Mužský",
+5,
+[]
+],
+[
+"Ovčácký vrch",
+5,
+[
+"Schäferberg"
+]
+],
+[
+"Pustý Zámek",
+5,
+[]
+],
+[
+"Litli-Hrútur",
+5,
+[]
+],
+[
+"Olca-Paruma",
+5,
+[]
+],
+[
+"Dietzenley",
+5,
+[]
+],
+[
+"Bobrof Volcano",
+5,
+[]
+],
+[
+"Monte Roja",
+5,
+[
+"Montaña Roja (Lanzarote)"
+]
+],
+[
+"Otzberg",
+5,
+[]
+],
+[
+"Daikoku Seamount",
+5,
+[]
+],
+[
+"Esmeralda Bank",
+5,
+[]
+],
+[
+"Gunung Halimun",
+5,
+[]
+],
+[
+"Mount Balungao",
+5,
+[]
+],
+[
+"Vladař",
+5,
+[]
+],
+[
+"Tana",
+5,
+[]
+],
+[
+"Mont Lokobe",
+5,
+[]
+],
+[
+"Saebyeororeum",
+5,
+[]
+],
+[
+"Eden Patera",
+5,
+[]
+],
+[
+"Randecker Maar",
+5,
+[]
+],
+[
+"Antaninaomby",
+5,
+[]
+],
+[
+"Mont Marion-Dufresne",
+5,
+[]
+],
+[
+"Longgang volcano group",
+5,
+[]
+],
+[
+"Mount Shindake",
+5,
+[
+"Shin-dake",
+"Shindake"
+]
+],
+[
+"Mount Takawangha",
+5,
+[
+"Takawangha"
+]
+],
+[
+"Jbel El Koudiate",
+5,
+[]
+],
+[
+"Jbel Outgui",
+5,
+[]
+],
+[
+"Jbel Tamarrakoit",
+5,
+[]
+],
+[
+"Iettunup",
+5,
+[]
+],
+[
+"Ravensberg",
+5,
+[
+"Ravenskopf"
+]
+],
+[
+"Cerro Morazurco",
+5,
+[]
+],
+[
+"Cerro Toloncha",
+5,
+[]
+],
+[
+"Cerro Tumisa",
+5,
+[
+"Tumisa"
+]
+],
+[
+"Montaña Tamia",
+5,
+[]
+],
+[
+"Veitskopf",
+5,
+[]
+],
+[
+"Wright Seamounts",
+5,
+[
+"Volcano W",
+"Wright Volcanic Centre",
+"Wright volcano"
+]
+],
+[
+"Pico Birigoyo",
+5,
+[
+"Pico Berigoyo"
+]
+],
+[
+"Las Derrumbadas",
+5,
+[]
+],
+[
+"Aluchin",
+5,
+[]
+],
+[
+"Amphitrites Patera",
+5,
+[]
+],
+[
+"Chonco",
+5,
+[
+"Chonco Volcano",
+"Volcán Chonco"
+]
+],
+[
+"Crête de la Novara",
+5,
+[
+"Crete de la Novara"
+]
+],
+[
+"Pirgel Mud Volcano",
+5,
+[
+"Pirgel"
+]
+],
+[
+"Formica Leo",
+5,
+[]
+],
+[
+"Grand Sarcoui",
+5,
+[]
+],
+[
+"Havre Seamount",
+5,
+[
+"Havre Volcano"
+]
+],
+[
+"Puy de Lemptégy",
+5,
+[]
+],
+[
+"Þeistareykir",
+5,
+[]
+],
+[
+"Pic du Mascarin",
+5,
+[]
+],
+[
+"Surt",
+5,
+[]
+],
+[
+"Puy de Chalard",
+5,
+[]
+],
+[
+"Puy de Gravenoire",
+5,
+[
+"Puy de Grave Noire"
+]
+],
+[
+"Puy de Montiroir",
+5,
+[]
+],
+[
+"Puy de la Nugère",
+5,
+[]
+],
+[
+"Davidof Volcano",
+5,
+[]
+],
+[
+"Seoritsu Farra",
+5,
+[]
+],
+[
+"Mount Roundtop",
+5,
+[
+"Roundtop"
+]
+],
+[
+"Aliso",
+5,
+[]
+],
+[
+"Boomerang Seamount",
+5,
+[]
+],
+[
+"Bus-Obo",
+5,
+[]
+],
+[
+"Severgin Volcano",
+5,
+[
+"Vulkan Severgina"
+]
+],
+[
+"Severny",
+5,
+[
+"Mount Severny",
+"Mt Severny",
+"Mt. Severny",
+"Severnyj",
+"Severny Volcano",
+"Volcano Severny",
+"Vulkan Severnyj"
+]
+],
+[
+"Zaoziorny",
+5,
+[]
+],
+[
+"Mohabi",
+5,
+[]
+],
+[
+"Menshoy Brat",
+5,
+[
+"Little Brother Volcano",
+"Vulkan Men'shiy Brat"
+]
+],
+[
+"Har Hozek",
+5,
+[]
+],
+[
+"Mount Shifon",
+5,
+[]
+],
+[
+"Gora Stokap",
+5,
+[]
+],
+[
+"Tizdar",
+5,
+[
+"Gora Tizdar"
+]
+],
+[
+"Ekarma",
+5,
+[
+"Vulkan Ekarma"
+]
+],
+[
+"Girekol",
+5,
+[]
+],
+[
+"Pānīʻau",
+5,
+[
+"Mount Pānīʻau"
+]
+],
+[
+"Pitón Volcánico de Cancarix",
+5,
+[]
+],
+[
+"Cabezo Beaza",
+5,
+[]
+],
+[
+"La Caldereta",
+5,
+[]
+],
+[
+"Santiaguito",
+5,
+[]
+],
+[
+"Michoacán-Guanajuato volcanic field",
+5,
+[
+"Michoacan-Guanajuato Volcanic Field"
+]
+],
+[
+"Mount Mitoku",
+5,
+[]
+],
+[
+"Nova Iguaçu Volcano",
+5,
+[]
+],
+[
+"Otake",
+5,
+[
+"Tokara Fuji"
+]
+],
+[
+"S P Crater",
+5,
+[]
+],
+[
+"Thomagata Patera",
+5,
+[]
+],
+[
+"Bal Haf",
+5,
+[]
+],
+[
+"Itcha Mountain",
+5,
+[]
+],
+[
+"Mount Iō",
+5,
+[
+"Iō Dake"
+]
+],
+[
+"Hiruzen",
+5,
+[
+"Hiru-zen",
+"Mount Hiruzen"
+]
+],
+[
+"Batea Mahuida Volcano",
+5,
+[]
+],
+[
+"Bilstein",
+5,
+[]
+],
+[
+"Tortuguero Volcano",
+5,
+[
+"Tortuguero Hill"
+]
+],
+[
+"Mulciber",
+5,
+[]
+],
+[
+"San Antonio",
+5,
+[]
+],
+[
+"Cerro Silala",
+4,
+[]
+],
+[
+"Velký Roudný",
+4,
+[]
+],
+[
+"Mount Tenjō",
+4,
+[]
+],
+[
+"Chise Nupuri",
+4,
+[
+"Mount Chise"
+]
+],
+[
+"Mount Ophir",
+4,
+[
+"Mt. Ophir"
+]
+],
+[
+"Mount Kanmuri",
+4,
+[
+"Kanmuriga Take"
+]
+],
+[
+"Mount Daigatake",
+4,
+[]
+],
+[
+"Ōno Dake",
+4,
+[]
+],
+[
+"Mount Korei",
+4,
+[
+"Kōrei Zan"
+]
+],
+[
+"Mount Sapporo",
+4,
+[
+"Sapporo-dake"
+]
+],
+[
+"Mount Yokotsu",
+4,
+[
+"Yokotsu-dake"
+]
+],
+[
+"Nigorikawa",
+4,
+[]
+],
+[
+"Mount Yakeishi",
+4,
+[
+"Mount Yakeishidake",
+"Yakeishidake"
+]
+],
+[
+"Tateyama Volcano",
+4,
+[
+"Midagahara",
+"Midagahara Volcano"
+]
+],
+[
+"Ha Yama",
+4,
+[
+"Murayama Hayama"
+]
+],
+[
+"Mount Daruma",
+4,
+[
+"Darumayama",
+"Mount Darumayama"
+]
+],
+[
+"Mount Kōsha",
+4,
+[
+"Kōsha San",
+"Mount Takayashiro",
+"Takaifuji"
+]
+],
+[
+"Mount Kurofu",
+4,
+[
+"Kurofuyama",
+"Kurofu Yama"
+]
+],
+[
+"Venušina sopka",
+4,
+[]
+],
+[
+"Volcà de Pujalós",
+4,
+[]
+],
+[
+"Rocanegra volcano",
+4,
+[]
+],
+[
+"Bisaroques volcano",
+4,
+[]
+],
+[
+"Malý Roudný",
+4,
+[]
+],
+[
+"Kiska",
+4,
+[
+"Kiska Volcano",
+"Mount Kiska"
+]
+],
+[
+"Durango volcanic field",
+4,
+[
+"Durango Volcanic Field"
+]
+],
+[
+"Gleiberg",
+4,
+[]
+],
+[
+"Waitomokia",
+4,
+[]
+],
+[
+"Kasuga Seamount",
+4,
+[]
+],
+[
+"Nyambeni Hills",
+4,
+[]
+],
+[
+"Sierra la Primavera",
+4,
+[]
+],
+[
+"Gänsehals",
+4,
+[
+"Goose Neck"
+]
+],
+[
+"Espíritu Santo (volcano)",
+4,
+[]
+],
+[
+"North Head",
+4,
+[
+"Maungauika",
+"North Head / Maungauika"
+]
+],
+[
+"Puʻu Huluhulu",
+4,
+[]
+],
+[
+"Tau",
+4,
+[
+"Ta’u",
+"Tau, American Samoa",
+"Tau Mountain"
+]
+],
+[
+"Hochstein",
+4,
+[]
+],
+[
+"Hohenseelbachs-Kopf",
+4,
+[]
+],
+[
+"Hummelsberg",
+4,
+[]
+],
+[
+"Nanook Dome",
+4,
+[]
+],
+[
+"Mont d'Alambre",
+4,
+[]
+],
+[
+"Keluo",
+4,
+[]
+],
+[
+"Volcano of San Juan",
+4,
+[
+"volcano San Juan"
+]
+],
+[
+"Vetzberg",
+4,
+[]
+],
+[
+"Backenberg",
+4,
+[
+"Backen-Berg"
+]
+],
+[
+"Gros Piton Rond",
+4,
+[]
+],
+[
+"Piton de Bébour",
+4,
+[
+"Piton de Bebour"
+]
+],
+[
+"Kekurny",
+4,
+[]
+],
+[
+"Bellerberg volcano",
+4,
+[]
+],
+[
+"Zamama",
+4,
+[]
+],
+[
+"Vasov Grad",
+4,
+[]
+],
+[
+"Pilav Tepe",
+4,
+[]
+],
+[
+"Pilot Butte",
+4,
+[]
+],
+[
+"Sainte-Blanche",
+4,
+[]
+],
+[
+"Puy de Jume",
+4,
+[]
+],
+[
+"Pabellón de Inca",
+4,
+[]
+],
+[
+"Fedotych",
+4,
+[]
+],
+[
+"Bolshoi Payalpan",
+4,
+[]
+],
+[
+"Prümscheid",
+4,
+[]
+],
+[
+"Kaileney",
+4,
+[]
+],
+[
+"El Viejo Volcano",
+4,
+[]
+],
+[
+"Montaña de Ajódar",
+4,
+[]
+],
+[
+"Montaña Amarilla",
+4,
+[
+"Yellow Mountain"
+]
+],
+[
+"Piton Grande Anse",
+4,
+[]
+],
+[
+"Iktunup",
+4,
+[]
+],
+[
+"Tchabal Nganha",
+4,
+[]
+],
+[
+"Volcano Kropotkin",
+4,
+[]
+],
+[
+"Wudalianchi",
+4,
+[]
+],
+[
+"Surveyors volcano",
+4,
+[]
+],
+[
+"Mount Balut",
+4,
+[]
+],
+[
+"Búrfell á Mývatnsöræfum",
+4,
+[]
+],
+[
+"Telekis Volcano",
+4,
+[
+"Teleki's Volcano",
+"Teleki Volcano"
+]
+],
+[
+"Oldoinyo Sapuk",
+4,
+[
+"Ol Donyo Sabuk"
+]
+],
+[
+"Cerro Pizarro",
+4,
+[]
+],
+[
+"Lesnovo Cone",
+4,
+[]
+],
+[
+"puy de Clierzou",
+4,
+[]
+],
+[
+"Volcà de la Crosa",
+4,
+[]
+],
+[
+"Banne d'Ordanche",
+4,
+[]
+],
+[
+"Öchsen",
+4,
+[]
+],
+[
+"Carmenta Farra",
+4,
+[]
+],
+[
+"Cayutue-La Vigueria",
+4,
+[]
+],
+[
+"Cerro Tujle",
+4,
+[]
+],
+[
+"Volcán El Ciguatepe",
+4,
+[
+"Volcán Ciguatepe"
+]
+],
+[
+"Hobicha",
+4,
+[]
+],
+[
+"Mount Koma",
+4,
+[
+"Hakone Komagatake",
+"Mount Hakone Komagatake",
+"Mount Komagatake",
+"Mount Koma (Hakone)"
+]
+],
+[
+"Goat Mountain",
+4,
+[]
+],
+[
+"Mount Mokoto",
+4,
+[
+"Mokoto-yama",
+"Mokotoyama"
+]
+],
+[
+"Maku Yama",
+4,
+[
+"Makuyama",
+"Mount Maku",
+"Mount Makuyama"
+]
+],
+[
+"Kamoamoa",
+4,
+[]
+],
+[
+"Mauna Ulu",
+4,
+[]
+],
+[
+"Piton Babet",
+4,
+[]
+],
+[
+"Piton Chisny",
+4,
+[]
+],
+[
+"Piton Hyacinthe",
+4,
+[]
+],
+[
+"Piton Rouge",
+4,
+[]
+],
+[
+"Piton Textor",
+4,
+[]
+],
+[
+"Piton de Bert",
+4,
+[]
+],
+[
+"Piton de Takamaka",
+4,
+[
+"Piton Takamaka"
+]
+],
+[
+"Piton de Villers",
+4,
+[]
+],
+[
+"Puy de Paugnat",
+4,
+[]
+],
+[
+"Teahitia",
+4,
+[]
+],
+[
+"Kagamil Volcano",
+4,
+[]
+],
+[
+"Buzzard Creek",
+4,
+[]
+],
+[
+"Baranovsky Volcano (Primorsky Krai)",
+4,
+[
+"Baranovsky Vulkan"
+]
+],
+[
+"Berg Volcano",
+4,
+[]
+],
+[
+"Pallas Volcano",
+4,
+[]
+],
+[
+"Snou",
+4,
+[]
+],
+[
+"Chernogo",
+4,
+[
+"Vulkan Chernogo"
+]
+],
+[
+"Bell",
+4,
+[]
+],
+[
+"Kiaraberes-Gagak",
+4,
+[
+"Mount Kiaraberes-Gagak"
+]
+],
+[
+"Volcano of Milos",
+4,
+[]
+],
+[
+"Piratkovsky",
+4,
+[]
+],
+[
+"Raikoke",
+4,
+[
+"Vulkan Raykoke"
+]
+],
+[
+"Unana",
+4,
+[
+"Unana Hill"
+]
+],
+[
+"Ushishir",
+4,
+[]
+],
+[
+"Chirinkotan",
+4,
+[
+"Vulkan Chirinkotan"
+]
+],
+[
+"Anvil Peak",
+4,
+[]
+],
+[
+"Eickelberg Peak",
+4,
+[]
+],
+[
+"Devil's Woodyard",
+4,
+[]
+],
+[
+"Dotsero",
+4,
+[]
+],
+[
+"Flourmill Volcanoes",
+4,
+[]
+],
+[
+"Volcán Santa Clara",
+4,
+[]
+],
+[
+"Aiguanegra volcano",
+4,
+[]
+],
+[
+"Cabezo Negro de Zeneta",
+4,
+[]
+],
+[
+"Monumento Natural de Los Ajaches",
+4,
+[]
+],
+[
+"Volcán  Evermakk",
+4,
+[
+"Volcan  Everman"
+]
+],
+[
+"Arens-Berg",
+4,
+[]
+],
+[
+"Didi Mepiskalo",
+4,
+[
+"Sherkhota",
+"Syrxyty xox"
+]
+],
+[
+"Loloru",
+4,
+[]
+],
+[
+"Māngere Mountain",
+4,
+[
+"Mount Mangere",
+"Mount Māngere",
+"Te Ara Pueru",
+"Te Pane-o-Mataoho"
+]
+],
+[
+"Monaco Bank",
+4,
+[]
+],
+[
+"Mount Tabor",
+4,
+[
+"Mt. Tabor"
+]
+],
+[
+"Māhukona",
+4,
+[
+"Mahukona",
+"Mahukona Volcano"
+]
+],
+[
+"Santa Clara Volcano",
+4,
+[
+"North Cinder Cone"
+]
+],
+[
+"Submarine 1922",
+4,
+[]
+],
+[
+"Harrat Lunayyir",
+4,
+[]
+],
+[
+"Chopo Volcano",
+4,
+[]
+],
+[
+"Puy de la Mey",
+4,
+[]
+],
+[
+"Trosky",
+3,
+[]
+],
+[
+"Camp dels Ninots",
+3,
+[]
+],
+[
+"The priest's Bath",
+3,
+[]
+],
+[
+"Volcán de Cerro Gordo",
+3,
+[
+"Cerro Gordo"
+]
+],
+[
+"Niland Geyser",
+3,
+[
+"Mundo mud pot",
+"Slow One",
+"W9"
+]
+],
+[
+"Central Skåne Volcanic Province",
+3,
+[]
+],
+[
+"Montaña de Todoque",
+3,
+[]
+],
+[
+"Heidarspordar",
+3,
+[]
+],
+[
+"Nito Nupuri",
+3,
+[
+"Mount Nito"
+]
+],
+[
+"Mount Garan",
+3,
+[
+"Garandake",
+"Mount Garandake"
+]
+],
+[
+"Ōmurodashi",
+3,
+[
+"Oomurodashi",
+"Oumurodashi"
+]
+],
+[
+"Mount Dainichi",
+3,
+[]
+],
+[
+"Mount Ōbora",
+3,
+[]
+],
+[
+"Mount Ōgi",
+3,
+[
+"Mount Ōginosen",
+"Ōginosen"
+]
+],
+[
+"Mount Motoshirane",
+3,
+[
+"Mount Moto-Shirane"
+]
+],
+[
+"Mount Kurino",
+3,
+[]
+],
+[
+"Mount Neko",
+3,
+[
+"Mt. Neko",
+"Neko-dake",
+"Nekodake",
+"Neko Dake"
+]
+],
+[
+"Kushigamine",
+3,
+[
+"Mount Kushi"
+]
+],
+[
+"Mount Hōonji",
+3,
+[]
+],
+[
+"Mount Asakuksa",
+3,
+[
+"Asakuksadake",
+"Mount Asakuksadake"
+]
+],
+[
+"Karasugasen",
+3,
+[
+"Mount Karasu"
+]
+],
+[
+"Eboshi-dake",
+3,
+[
+"Eboshi Dake",
+"Mount Eboshi"
+]
+],
+[
+"Mount Tashiro",
+3,
+[]
+],
+[
+"Shiratori Yama",
+3,
+[]
+],
+[
+"Mount Mayu",
+3,
+[]
+],
+[
+"Mount Kamafuse",
+3,
+[
+"Kamabuseyama",
+"Kamafuseyama",
+"Mount Kamabuse",
+"Mount Kamabuseyama",
+"Mount Kamafuseyama"
+]
+],
+[
+"Ata Caldera",
+3,
+[]
+],
+[
+"Mount Iiji",
+3,
+[
+"Iiji San"
+]
+],
+[
+"Kawi-Butak",
+3,
+[]
+],
+[
+"Puig Subià volcano",
+3,
+[]
+],
+[
+"Puig de la Costa volcano",
+3,
+[]
+],
+[
+"Puig de Martinyà volcano",
+3,
+[]
+],
+[
+"Tumble Buttes",
+3,
+[]
+],
+[
+"Doyō Seamount",
+3,
+[]
+],
+[
+"Liado Hayk",
+3,
+[]
+],
+[
+"Kasuga 2 Seamount",
+3,
+[
+"Minamikasuga Seamount",
+"Minami-Kasuga Seamount"
+]
+],
+[
+"Mokuyō Seamount",
+3,
+[]
+],
+[
+"Papayo",
+3,
+[]
+],
+[
+"Río Murta",
+3,
+[]
+],
+[
+"Vestmannaeyjar",
+3,
+[]
+],
+[
+"Ilopango",
+3,
+[]
+],
+[
+"San Marcelino",
+3,
+[
+"Volcán San Marcelino"
+]
+],
+[
+"Karymshina",
+3,
+[]
+],
+[
+"Morne Anglais",
+3,
+[
+"Couliabourne"
+]
+],
+[
+"Roß-Berg",
+3,
+[]
+],
+[
+"Kana Cone",
+3,
+[]
+],
+[
+"Doon Hill",
+3,
+[]
+],
+[
+"Volcán Porvenir",
+3,
+[]
+],
+[
+"Zephyria Tholus",
+3,
+[]
+],
+[
+"Rarotonga / Mount Smart",
+3,
+[
+"Mount Smart"
+]
+],
+[
+"Krainy",
+3,
+[]
+],
+[
+"Mount Ondake",
+3,
+[
+"Mount On",
+"Ondake"
+]
+],
+[
+"Bulganak field of mud volcanoes",
+3,
+[]
+],
+[
+"Kozyrevsky",
+3,
+[]
+],
+[
+"Bukovik",
+3,
+[]
+],
+[
+"Seahorse",
+3,
+[]
+],
+[
+"Puy de la Coquille",
+3,
+[
+"Puy de la Coquille Nord"
+]
+],
+[
+"Puy de Chaumont",
+3,
+[]
+],
+[
+"Cerro Volcán Overo",
+3,
+[]
+],
+[
+"Kinrara Crater",
+3,
+[
+"Kinrara"
+]
+],
+[
+"Choquelimpie",
+3,
+[]
+],
+[
+"Cerro Chaxas",
+3,
+[
+"Chaxas"
+]
+],
+[
+"Batcha",
+3,
+[]
+],
+[
+"Bana",
+3,
+[
+"Mount Bana"
+]
+],
+[
+"Brava",
+3,
+[]
+],
+[
+"Tebenkova",
+3,
+[
+"Odamoisan",
+"Tebenkov",
+"Vulkan Teben'kova"
+]
+],
+[
+"Nonda",
+3,
+[]
+],
+[
+"Hydrographers Range",
+3,
+[
+"Hydrographers Range, New Guinea"
+]
+],
+[
+"Aegina Farrum",
+3,
+[]
+],
+[
+"Egeria Farrum",
+3,
+[]
+],
+[
+"Tweed Volcano",
+3,
+[]
+],
+[
+"Chusmiza",
+3,
+[]
+],
+[
+"Argo Point",
+3,
+[]
+],
+[
+"Castle Hill of Verpelét",
+3,
+[]
+],
+[
+"Puy Giroux",
+3,
+[]
+],
+[
+"Albert Park Volcano",
+3,
+[]
+],
+[
+"Vaðalda",
+3,
+[]
+],
+[
+"Laufafell",
+3,
+[]
+],
+[
+"Andrews Volcano",
+3,
+[]
+],
+[
+"Dodubong",
+3,
+[]
+],
+[
+"Jeojioreum",
+3,
+[]
+],
+[
+"Volcán Cacadeperro",
+3,
+[
+"Ninguna"
+]
+],
+[
+"Volcán San Juan",
+3,
+[
+"Cerro de San Juan"
+]
+],
+[
+"Montaña Quemada",
+3,
+[]
+],
+[
+"Lexone",
+3,
+[]
+],
+[
+"Puy de Monchier",
+3,
+[]
+],
+[
+"Cerro Singüil",
+3,
+[]
+],
+[
+"Colette Patera",
+3,
+[]
+],
+[
+"Cova",
+3,
+[]
+],
+[
+"Pastos Grandes",
+3,
+[]
+],
+[
+"Blaue Kuppe",
+3,
+[]
+],
+[
+"Fort Portal",
+3,
+[]
+],
+[
+"Mount Aono",
+3,
+[
+"Aonoyama",
+"Aono Yama",
+"Mount Aonoyama"
+]
+],
+[
+"L'Échelle",
+3,
+[]
+],
+[
+"Puy de Laschamps",
+3,
+[]
+],
+[
+"Puy de Tressous",
+3,
+[]
+],
+[
+"Puy de Fraisse",
+3,
+[]
+],
+[
+"Monduli",
+3,
+[]
+],
+[
+"Mont Richard-Foy",
+3,
+[]
+],
+[
+"Puy de Pourcharet",
+3,
+[]
+],
+[
+"Puy de Montchal, Aydat",
+3,
+[]
+],
+[
+"Puy de Charmont",
+3,
+[]
+],
+[
+"Puy de Vichatel",
+3,
+[]
+],
+[
+"Tafua-upolu",
+3,
+[
+"Mount Tafua Upolu"
+]
+],
+[
+"Puy de Montjuger",
+3,
+[]
+],
+[
+"Puy de Montgy",
+3,
+[]
+],
+[
+"Mount Tomuro",
+3,
+[]
+],
+[
+"Mount Likuruanga",
+3,
+[
+"Likuruanga"
+]
+],
+[
+"Piton du Rond de Langevin",
+3,
+[]
+],
+[
+"Piton Lacroix",
+3,
+[]
+],
+[
+"Kyatwa",
+3,
+[]
+],
+[
+"Puy de la Moréno",
+3,
+[]
+],
+[
+"Liado",
+3,
+[]
+],
+[
+"Mont Denise",
+3,
+[]
+],
+[
+"Rocard",
+3,
+[]
+],
+[
+"Moua Pihaa",
+3,
+[]
+],
+[
+"Piton de l'Eau",
+3,
+[]
+],
+[
+"Puy de la Bannière",
+3,
+[]
+],
+[
+"Puy du Pas des Sables",
+3,
+[]
+],
+[
+"Roc d'Hozières",
+3,
+[]
+],
+[
+"San Peyre",
+3,
+[]
+],
+[
+"Timi",
+3,
+[
+"Ehi Timi"
+]
+],
+[
+"Volcan d'Agde",
+3,
+[]
+],
+[
+"Volcano Island",
+3,
+[
+"Taal Volcano Island"
+]
+],
+[
+"Aku Volcano",
+3,
+[]
+],
+[
+"Amsterdam Volcano",
+3,
+[]
+],
+[
+"Arik volcano",
+3,
+[]
+],
+[
+"Blue Lake Crater",
+3,
+[]
+],
+[
+"Black Rock Desert volcanic field",
+3,
+[]
+],
+[
+"Bolshe-Bannaya",
+3,
+[]
+],
+[
+"Victory",
+3,
+[]
+],
+[
+"Kulka",
+3,
+[]
+],
+[
+"Zavaritsky",
+3,
+[]
+],
+[
+"Kimitina",
+3,
+[]
+],
+[
+"Koshkulak",
+3,
+[]
+],
+[
+"Malaya Udina",
+3,
+[
+"Vulkan Malaya Udina"
+]
+],
+[
+"Nachikinskaya",
+3,
+[
+"Nachikinsky"
+]
+],
+[
+"Ostanets",
+3,
+[]
+],
+[
+"Plosky",
+3,
+[]
+],
+[
+"Rasshua",
+3,
+[]
+],
+[
+"Snezhniy",
+3,
+[]
+],
+[
+"Tilmyg",
+3,
+[]
+],
+[
+"Chyornaya Sopka",
+3,
+[
+"Gora Chërnaya Sopka"
+]
+],
+[
+"Shish",
+3,
+[]
+],
+[
+"Shisheika",
+3,
+[]
+],
+[
+"Odell Butte",
+3,
+[]
+],
+[
+"Malvizza Bubbles",
+3,
+[]
+],
+[
+"Ben Lomond",
+3,
+[]
+],
+[
+"Camp Hill",
+3,
+[]
+],
+[
+"Cancajanag",
+3,
+[]
+],
+[
+"Casitahua",
+3,
+[
+"Casitagua"
+]
+],
+[
+"Crack in the Ground",
+3,
+[]
+],
+[
+"Giggenbach Seamount",
+3,
+[
+"Giggenbach",
+"Giggenbach Volcano"
+]
+],
+[
+"Fumarole Butte",
+3,
+[]
+],
+[
+"Jackson Volcano",
+3,
+[]
+],
+[
+"Peña Blanca",
+3,
+[]
+],
+[
+"Keda Cone",
+3,
+[
+"Kena Cone"
+]
+],
+[
+"Kurose Hole",
+3,
+[]
+],
+[
+"Singu Plateau",
+3,
+[]
+],
+[
+"Pahvant Butte",
+3,
+[
+"Pahvan Butte",
+"Pah Vant Butte",
+"Pahvent Butte",
+"Pavant Butte"
+]
+],
+[
+"Grodczyn",
+3,
+[]
+],
+[
+"Taurere / Taylor Hill",
+3,
+[
+"Flat Hill",
+"Mount Taylor",
+"Mt Taylor",
+"Taylor Hill",
+"Taylor's Hill",
+"Taylors Hill",
+"Te Taurere"
+]
+],
+[
+"Tuzo Wilson Seamounts",
+3,
+[]
+],
+[
+"East Molokai Volcano",
+3,
+[
+"Wailau"
+]
+],
+[
+"Waiowa",
+3,
+[]
+],
+[
+"Yellowstone Plateau Volcanic Field",
+3,
+[
+"Yellowstone Plateau"
+]
+],
+[
+"Culma",
+3,
+[]
+],
+[
+"San Joaquin",
+3,
+[]
+],
+[
+"Kaikata Seamount",
+3,
+[]
+],
+[
+"Danan",
+3,
+[]
+],
+[
+"Puy de Montchal, Besse-et-Saint-Anastaise",
+3,
+[]
+],
+[
+"Mount Ozukushi",
+3,
+[
+"Ozukushi-yama"
+]
+],
+[
+"Salse di Puianello",
+2,
+[]
+],
+[
+"Gunung Barujari",
+2,
+[]
+],
+[
+"Tungnafellsjökull",
+2,
+[]
+],
+[
+"Volcano F",
+2,
+[]
+],
+[
+"Mount Akandana",
+2,
+[
+"Akandanayama",
+"Mount Akandanayama"
+]
+],
+[
+"Siete Luminarias",
+2,
+[
+"Seven Luminaries",
+"Siete Luminarias Natural Monument"
+]
+],
+[
+"Puy de Boursoux",
+2,
+[]
+],
+[
+"Culann Patera",
+2,
+[]
+],
+[
+"Mount Tencho",
+2,
+[
+"Tencho-zan"
+]
+],
+[
+"Mount Onoko",
+2,
+[
+"Mount Onokoyama",
+"Onokoyama",
+"Onoko Yama"
+]
+],
+[
+"Mount Sukumo",
+2,
+[
+"Mount Sukumoyama",
+"Sukumoyama"
+]
+],
+[
+"Ohachi",
+2,
+[]
+],
+[
+"Teishi Knoll",
+2,
+[]
+],
+[
+"Mount Nakitsura",
+2,
+[
+"Nakitsura-yama"
+]
+],
+[
+"Mount Koshiki",
+2,
+[]
+],
+[
+"Mount Young",
+2,
+[]
+],
+[
+"Mount Hanare",
+2,
+[
+"Hanareyama",
+"Mount Hanareyama"
+]
+],
+[
+"Mount Maemori",
+2,
+[
+"Maemori-yama"
+]
+],
+[
+"el Puig",
+2,
+[
+"Puig d’Àdri volcano"
+]
+],
+[
+"El Rocàs",
+2,
+[]
+],
+[
+"Can Tià vulcano",
+2,
+[]
+],
+[
+"Puig Jordà volcano",
+2,
+[]
+],
+[
+"Puig Astrol volcano",
+2,
+[]
+],
+[
+"Volcà del Puig de la Garsa",
+2,
+[]
+],
+[
+"The Devil's Swamp",
+2,
+[]
+],
+[
+"Geomunoreum",
+2,
+[
+"Geomun Oreum",
+"Jeju Seonheul-ri Geomun Oreum"
+]
+],
+[
+"Hofsjökull volcanic system",
+2,
+[]
+],
+[
+"Clark Seamount",
+2,
+[]
+],
+[
+"East Diamante",
+2,
+[]
+],
+[
+"Fuerteventura",
+2,
+[]
+],
+[
+"Hijiori",
+2,
+[]
+],
+[
+"Huambo",
+2,
+[]
+],
+[
+"Kita-Fukutokutai",
+2,
+[
+"Kaisenoba",
+"Kita Fukutokutai"
+]
+],
+[
+"Los Humeros",
+2,
+[]
+],
+[
+"Maroa",
+2,
+[
+"Maroa Caldera"
+]
+],
+[
+"Mutsu-Hiuchi-dake",
+2,
+[]
+],
+[
+"Numazawa",
+2,
+[]
+],
+[
+"Perbakti-Gagak",
+2,
+[]
+],
+[
+"Rumble III Seamount",
+2,
+[
+"Rumble III"
+]
+],
+[
+"Washiba-Kumonotaira",
+2,
+[]
+],
+[
+"Mount Rowan",
+2,
+[]
+],
+[
+"El Tigre",
+2,
+[]
+],
+[
+"Kuttara",
+2,
+[]
+],
+[
+"Tang Mud Volcano",
+2,
+[
+"Kahir Mud Volcano"
+]
+],
+[
+"Montaña Bermeja, La Graciosa",
+2,
+[]
+],
+[
+"Wondangbong",
+2,
+[
+"Mangoreum",
+"Mang Oreum",
+"Samyangbong",
+"Samyangbong Peak",
+"Samyang Peak",
+"Wendangoreum",
+"Wendang Oreum",
+"Wondangbong Peak",
+"Wondang Peak"
+]
+],
+[
+"High Island Supervolcano",
+2,
+[]
+],
+[
+"McLennan Hills",
+2,
+[]
+],
+[
+"Shira",
+2,
+[]
+],
+[
+"Cobb Seamount",
+2,
+[]
+],
+[
+"Cerro Asososca",
+2,
+[]
+],
+[
+"Abu Oreum",
+2,
+[]
+],
+[
+"Leitin",
+2,
+[]
+],
+[
+"Prackovský vulkán",
+2,
+[]
+],
+[
+"Čertí kopeček",
+2,
+[
+"Devil´s hill"
+]
+],
+[
+"San Quintín Volcanic Field",
+2,
+[]
+],
+[
+"Mount Yunomaru",
+2,
+[
+"Yunomaru Yama"
+]
+],
+[
+"Mount Ōbuka",
+2,
+[
+"Ōbuka Dake"
+]
+],
+[
+"Traiter volcano",
+2,
+[
+"Traiter"
+]
+],
+[
+"Banc Capel",
+2,
+[]
+],
+[
+"Agrigan Island",
+2,
+[]
+],
+[
+"Eppelsberg",
+2,
+[]
+],
+[
+"Marduk",
+2,
+[]
+],
+[
+"Nast-Berg",
+2,
+[]
+],
+[
+"Koniuji Volcano",
+2,
+[
+"Koniuji",
+"Mount Koniuji"
+]
+],
+[
+"Shadil-Khokh volcano",
+2,
+[]
+],
+[
+"Dos Crateres",
+2,
+[]
+],
+[
+"Volcán del Hoyo",
+2,
+[]
+],
+[
+"Purchas Hill",
+2,
+[]
+],
+[
+"Hargy",
+2,
+[]
+],
+[
+"Nisyros",
+2,
+[]
+],
+[
+"Aknasar",
+2,
+[]
+],
+[
+"Volcan Karibumba",
+2,
+[]
+],
+[
+"Condor seamount",
+2,
+[
+"Condor-Terra"
+]
+],
+[
+"Grande Soufrière Hills",
+2,
+[]
+],
+[
+"Slánská hora",
+2,
+[]
+],
+[
+"Niuatahi",
+2,
+[
+"Volcano O"
+]
+],
+[
+"Reykjanes (volcanic system)",
+2,
+[]
+],
+[
+"Montaña Rajada",
+2,
+[]
+],
+[
+"Caldera de las Cañadas",
+2,
+[]
+],
+[
+"Montaña Blanca",
+2,
+[]
+],
+[
+"Racó volcano",
+2,
+[]
+],
+[
+"Simon volcano",
+2,
+[]
+],
+[
+"Comadega volcano",
+2,
+[]
+],
+[
+"Wechecha",
+2,
+[
+"Wochecha"
+]
+],
+[
+"Unnamed submarine volcano",
+2,
+[]
+],
+[
+"Anqet Farra",
+2,
+[]
+],
+[
+"Flosshilde Farra",
+2,
+[]
+],
+[
+"Liban Farra",
+2,
+[]
+],
+[
+"Nammu Farra",
+2,
+[]
+],
+[
+"Oshun Farra",
+2,
+[]
+],
+[
+"Tönches-Berg",
+2,
+[]
+],
+[
+"Dillon Cone",
+2,
+[]
+],
+[
+"Volcán de Sanaré",
+2,
+[]
+],
+[
+"Alamagan Stratovolcano - Permanent Geothermic Activity",
+2,
+[]
+],
+[
+"Volcan Cerro Blanco",
+2,
+[]
+],
+[
+"Cerro El Molcajete",
+2,
+[]
+],
+[
+"Volcan Ceniza",
+2,
+[]
+],
+[
+"Volcan Prieto",
+2,
+[]
+],
+[
+"Montaña Tinache",
+2,
+[]
+],
+[
+"Dzau",
+2,
+[]
+],
+[
+"Montaña Timbaiba",
+2,
+[]
+],
+[
+"Hoyazo de Níjar",
+2,
+[]
+],
+[
+"Little Sitkin Volcano",
+2,
+[]
+],
+[
+"Château Fort",
+2,
+[]
+],
+[
+"Mount  Spina",
+2,
+[]
+],
+[
+"Wilsberg",
+2,
+[]
+],
+[
+"Kozelka",
+2,
+[]
+],
+[
+"Forst Berg",
+2,
+[]
+],
+[
+"Great Crack",
+2,
+[]
+],
+[
+"Mrkonjski vis",
+2,
+[]
+],
+[
+"Puy des Gouttes",
+2,
+[
+"Puy des Gouttes Est"
+]
+],
+[
+"Puy de Beaune",
+2,
+[]
+],
+[
+"Puy Pelat",
+2,
+[]
+],
+[
+"Puy de Montchar",
+2,
+[]
+],
+[
+"Puy de Barme",
+2,
+[]
+],
+[
+"Mount Lolobau",
+2,
+[]
+],
+[
+"Phu Khao Fai Doi Pha Khok Hin Fu",
+2,
+[]
+],
+[
+"Tarosero",
+2,
+[]
+],
+[
+"Lossirwa",
+2,
+[]
+],
+[
+"Mount Longido",
+2,
+[]
+],
+[
+"Lemagrut",
+2,
+[]
+],
+[
+"Kerimassi",
+2,
+[]
+],
+[
+"Burko",
+2,
+[]
+],
+[
+"Mount Kurobi",
+2,
+[]
+],
+[
+"Mount Haruna Fuji",
+2,
+[]
+],
+[
+"Komezuka",
+2,
+[]
+],
+[
+"Mount Kamon",
+2,
+[]
+],
+[
+"Benbow",
+2,
+[]
+],
+[
+"Nishi Nupukaushi Nupuri",
+2,
+[
+"Mount Nishi Nupukaushi"
+]
+],
+[
+"Mount Birao",
+2,
+[
+"Birao-san"
+]
+],
+[
+"Nancao Shan",
+2,
+[]
+],
+[
+"Mudan Shan",
+2,
+[]
+],
+[
+"Puy Chopine",
+2,
+[]
+],
+[
+"Mount Kishima",
+2,
+[]
+],
+[
+"Piton Moka",
+2,
+[]
+],
+[
+"Piton Doret",
+2,
+[]
+],
+[
+"Piton du Calvaire",
+2,
+[]
+],
+[
+"South Sister",
+2,
+[
+"Mount Charity",
+"South Sister Volcano"
+]
+],
+[
+"Mount Redon",
+2,
+[
+"Mont Redon"
+]
+],
+[
+"Mount Temehani",
+2,
+[]
+],
+[
+"Chopine and Gouttes puys",
+2,
+[]
+],
+[
+"Tafu-Maka",
+2,
+[]
+],
+[
+"Sabatini volcanic complex",
+2,
+[]
+],
+[
+"Enmedio Volcano",
+2,
+[]
+],
+[
+"Aynelkan",
+2,
+[]
+],
+[
+"Alney",
+2,
+[]
+],
+[
+"Bliznetsy",
+2,
+[]
+],
+[
+"Bongabti",
+2,
+[]
+],
+[
+"Burlyaschy",
+2,
+[
+"Burlyashchiy"
+]
+],
+[
+"Veer",
+2,
+[]
+],
+[
+"Antsiferov Volcano",
+2,
+[
+"Shirinki"
+]
+],
+[
+"Tolmachev Volcano",
+2,
+[]
+],
+[
+"Golubitsky mud volcano",
+2,
+[]
+],
+[
+"Dvor",
+2,
+[
+"Vulkan Dvor"
+]
+],
+[
+"Zhirovskoy",
+2,
+[
+"Sopka Zhirovaya"
+]
+],
+[
+"Western Baraniy",
+2,
+[]
+],
+[
+"Kinenin",
+2,
+[]
+],
+[
+"Klyuchevaya (mountain)",
+2,
+[]
+],
+[
+"Conradi",
+2,
+[
+"Konradi",
+"Vulkan Konradi"
+]
+],
+[
+"Kopkan",
+2,
+[]
+],
+[
+"Lamutsky",
+2,
+[]
+],
+[
+"Opuahau",
+2,
+[]
+],
+[
+"Novograblenova (volcano)",
+2,
+[]
+],
+[
+"Oval (volcano)",
+2,
+[]
+],
+[
+"Peak MNR",
+2,
+[]
+],
+[
+"Rikorda underwater volcano",
+2,
+[]
+],
+[
+"Sedankinsky",
+2,
+[]
+],
+[
+"Goryachaya",
+2,
+[]
+],
+[
+"Sredny",
+2,
+[
+"Vulkan Sredniy"
+]
+],
+[
+"Srednyaya Sopka",
+2,
+[]
+],
+[
+"Terpuk",
+2,
+[]
+],
+[
+"Trident",
+2,
+[
+"Trident (volcano)"
+]
+],
+[
+"Tumrok",
+2,
+[]
+],
+[
+"Tunupilyanum",
+2,
+[]
+],
+[
+"Central Semyachik",
+2,
+[]
+],
+[
+"Black Rock Butte",
+2,
+[]
+],
+[
+"Los Frailes ignimbrite plateau",
+2,
+[]
+],
+[
+"Olokui",
+2,
+[
+"Olokuʻi"
+]
+],
+[
+"Lenox Crater",
+2,
+[]
+],
+[
+"Old Caves Crater",
+2,
+[]
+],
+[
+"East Cape Volcano",
+2,
+[]
+],
+[
+"Spiral Butte",
+2,
+[]
+],
+[
+"Tanada Peak",
+2,
+[]
+],
+[
+"Crater Hill",
+2,
+[]
+],
+[
+"Bordeira (Fogo)",
+2,
+[]
+],
+[
+"Montaña de Guaza",
+2,
+[]
+],
+[
+"Cruz Quemada",
+2,
+[]
+],
+[
+"Jebel e Ghurab",
+2,
+[]
+],
+[
+"Mount Saint-Loup",
+2,
+[]
+],
+[
+"Chabahar Mud Volcano",
+2,
+[]
+],
+[
+"Volcán del Alhorín",
+2,
+[]
+],
+[
+"Yuhualixqui",
+2,
+[]
+],
+[
+"Raitahu",
+2,
+[]
+],
+[
+"Lone Butte",
+2,
+[]
+],
+[
+"Fani Maoré",
+2,
+[]
+],
+[
+"West Molokai Volcano",
+2,
+[
+"Maunaloa",
+"Mauna Loa"
+]
+],
+[
+"Maungataketake",
+2,
+[]
+],
+[
+"Maungaturoto",
+2,
+[]
+],
+[
+"Milbanke Sound Group",
+2,
+[]
+],
+[
+"Mulyeongari-Oreum",
+2,
+[
+"Mulyeongari-oreum"
+]
+],
+[
+"Arshan",
+2,
+[]
+],
+[
+"Ōrākei Basin",
+2,
+[
+"Orakei Basin"
+]
+],
+[
+"Prindle Volcano",
+2,
+[]
+],
+[
+"Zarechny",
+2,
+[]
+],
+[
+"Snippaker Creek Cone",
+2,
+[]
+],
+[
+"Tarahi",
+2,
+[]
+],
+[
+"Te Pou Hawaiki",
+2,
+[]
+],
+[
+"Te Puke",
+2,
+[]
+],
+[
+"Tore",
+2,
+[]
+],
+[
+"Tower Hill",
+2,
+[]
+],
+[
+"Volcanoes in the Philippines",
+2,
+[]
+],
+[
+"Bas Dong Nai",
+2,
+[]
+],
+[
+"Syni",
+2,
+[]
+],
+[
+"Tshepe",
+2,
+[]
+],
+[
+"Puy de la Combregrasse",
+2,
+[]
+],
+[
+"puy de la Toupe",
+2,
+[]
+],
+[
+"Puy de la Rodde",
+2,
+[]
+],
+[
+"Mount Nishibetsu",
+2,
+[
+"Nishibetsu-dake"
+]
+],
+[
+"Higashi Nupukaushi Nupuri",
+2,
+[
+"Mount Higashi Nupukaushi"
+]
+],
+[
+"Mount Tenbo",
+2,
+[
+"Tenbo-zan"
+]
+],
+[
+"Stóra-Eldborg undir Geitahlíð",
+2,
+[]
+],
+[
+"Mount Hakuun",
+2,
+[
+"Hakuun-zan"
+]
+],
+[
+"Tagoro",
+2,
+[]
+],
+[
+"Mount Ganseki",
+2,
+[]
+],
+[
+"Inaritsji",
+1,
+[]
+],
+[
+"Hofsjökull",
+1,
+[]
+],
+[
+"Morro da Piedade",
+1,
+[]
+],
+[
+"Akyarlar",
+1,
+[]
+],
+[
+"L’Estany volcano",
+1,
+[]
+],
+[
+"Bac de les Tries volcano",
+1,
+[]
+],
+[
+"Barraca volcano",
+1,
+[]
+],
+[
+"Pla sa Ribera volcano",
+1,
+[]
+],
+[
+"Sant Jordi volcano",
+1,
+[
+"Volcà de Sant Jordi"
+]
+],
+[
+"Fontpobra volcano",
+1,
+[]
+],
+[
+"Tuta de Colltort volcano",
+1,
+[]
+],
+[
+"Puig Roig volcano",
+1,
+[]
+],
+[
+"Puig de les Medes volcano",
+1,
+[]
+],
+[
+"Bijoutier island",
+1,
+[]
+],
+[
+"Moe island",
+1,
+[]
+],
+[
+"Whakatāne Seamount",
+1,
+[
+"Whakatāne Volcano"
+]
+],
+[
+"Cerro Torta",
+1,
+[]
+],
+[
+"Mount Kōshin",
+1,
+[
+"Kōshin Zan",
+"Koushin Zan",
+"Mount Koshin"
+]
+],
+[
+"Gamou mud volcano",
+1,
+[
+"Gamo Mud Volcano"
+]
+],
+[
+"Turó d'en Guilana",
+1,
+[]
+],
+[
+"Clot de l'Omera volcano",
+1,
+[]
+],
+[
+"Sotskjær",
+1,
+[]
+],
+[
+"Mount Kamui",
+1,
+[
+"Kamui Nupuri"
+]
+],
+[
+"Puy de Monteillet",
+1,
+[]
+],
+[
+"Tonoshike Nupuri",
+1,
+[
+"Mount Tonoshike"
+]
+],
+[
+"Puig del Roser volcano",
+1,
+[]
+],
+[
+"Llacunagra volcano",
+1,
+[]
+],
+[
+"Puig Safont volcano",
+1,
+[]
+],
+[
+"Puy de Montrodeix",
+1,
+[]
+],
+[
+"Oddnýjarhnjúkur-Langjökull",
+1,
+[]
+],
+[
+"Mount Yosomi",
+1,
+[
+"Meiji-shinzan"
+]
+],
+[
+"Pukekiwiriki",
+1,
+[
+"Red Hill"
+]
+],
+[
+"Piton Iris",
+1,
+[]
+],
+[
+"Niikappu mud volcano",
+1,
+[]
+],
+[
+"Ikeda and Yamagawa",
+1,
+[
+"Ikeda-Yamagawa",
+"Ikeda-Yamakawa"
+]
+],
+[
+"Wakamiko",
+1,
+[]
+],
+[
+"Hatoma Knoll",
+1,
+[]
+],
+[
+"Lazufre",
+1,
+[]
+],
+[
+"Āliamanu Crater",
+1,
+[
+"Leilono Crater",
+"North Crater"
+]
+],
+[
+"Volcans de Cabrioler",
+1,
+[]
+],
+[
+"Volcà de Claperols",
+1,
+[]
+],
+[
+"Volcà de Repàs",
+1,
+[]
+],
+[
+"Volcà del Cairat",
+1,
+[]
+],
+[
+"Nulla",
+1,
+[]
+],
+[
+"Mosonic",
+1,
+[]
+],
+[
+"North Vate",
+1,
+[]
+],
+[
+"Lágafell",
+1,
+[]
+],
+[
+"Maråsskjeret",
+1,
+[]
+],
+[
+"Båarskjeret",
+1,
+[]
+],
+[
+"Horsøyskjeret",
+1,
+[]
+],
+[
+"Madagh islet",
+1,
+[]
+],
+[
+"Eagle Lake Field",
+1,
+[]
+],
+[
+"Kršja Satuluj",
+1,
+[
+"Krše Satuli",
+"Krše Satuluj",
+"Kršte Satuli"
+]
+],
+[
+"Comondu-La Purisima",
+1,
+[]
+],
+[
+"Kutum Volcanic Field",
+1,
+[]
+],
+[
+"La Gloria",
+1,
+[]
+],
+[
+"Mascota Volcanic Field",
+1,
+[]
+],
+[
+"Naolinco Volcanic Field",
+1,
+[]
+],
+[
+"North Island",
+1,
+[]
+],
+[
+"Ol Kokwe",
+1,
+[]
+],
+[
+"Punta Púlpito",
+1,
+[]
+],
+[
+"Rumble IV Seamount",
+1,
+[
+"Rumble IV",
+"Rumble IV Volcano"
+]
+],
+[
+"Rumble II West Seamount",
+1,
+[
+"Rumble II West",
+"Rumble II West Volcano"
+]
+],
+[
+"Rumble V Seamount",
+1,
+[
+"Rumble V",
+"Rumble V Volcano"
+]
+],
+[
+"San Borja Volcanic Field",
+1,
+[]
+],
+[
+"Serdán-Oriental",
+1,
+[]
+],
+[
+"Xianjindao",
+1,
+[]
+],
+[
+"Tahalra Volcanic Field",
+1,
+[]
+],
+[
+"Tangaroa Seamount",
+1,
+[
+"Tangaroa Volcano"
+]
+],
+[
+"Taryatu-Chulutu",
+1,
+[]
+],
+[
+"Tombel Graben",
+1,
+[]
+],
+[
+"Tin Zaouatene volcanic field",
+1,
+[]
+],
+[
+"Ch'uga-ryong",
+1,
+[]
+],
+[
+"Psaronas",
+1,
+[]
+],
+[
+"Hoya de Fileba",
+1,
+[]
+],
+[
+"El Golfo",
+1,
+[]
+],
+[
+"Tarpai-Nagyhegy",
+1,
+[]
+],
+[
+"Oputateshike Nupuri",
+1,
+[
+"Mount Oputateshike"
+]
+],
+[
+"Tosamoshibe",
+1,
+[]
+],
+[
+"Storholmen",
+1,
+[]
+],
+[
+"Svartskjeret",
+1,
+[]
+],
+[
+"Jingbo",
+1,
+[]
+],
+[
+"Zitácuaro-Valle de Bravo",
+1,
+[]
+],
+[
+"Jaraguay Volcanic Field",
+1,
+[]
+],
+[
+"Gráakúla",
+1,
+[]
+],
+[
+"Palena Volcanic Group",
+1,
+[]
+],
+[
+"Segererua Plateau",
+1,
+[]
+],
+[
+"Montaña de Tejina",
+1,
+[]
+],
+[
+"Las Arenas",
+1,
+[
+"Las Arenas, Puerto de la Cruz"
+]
+],
+[
+"Montaña los Frailes",
+1,
+[]
+],
+[
+"Montaña Centinela",
+1,
+[]
+],
+[
+"Montaña Cascajo",
+1,
+[]
+],
+[
+"Montaña de Sámara",
+1,
+[]
+],
+[
+"Montaña de Guamaso",
+1,
+[]
+],
+[
+"Whakamuhu / Glover Park",
+1,
+[]
+],
+[
+"Montaña del Mojón, La Graciosa",
+1,
+[]
+],
+[
+"Mitsudake",
+1,
+[]
+],
+[
+"Truc of Redounel",
+1,
+[]
+],
+[
+"Montaña del Cerrillar",
+1,
+[]
+],
+[
+"Montaña del Caramujo",
+1,
+[
+"Roque de Caramujo"
+]
+],
+[
+"Titan Ridge Volcano",
+1,
+[
+"Central Bismarck Sea Volcano"
+]
+],
+[
+"Eastern Cone",
+1,
+[]
+],
+[
+"Cerro Cachio",
+1,
+[]
+],
+[
+"Cerro el Aguila",
+1,
+[]
+],
+[
+"Cerro de Apaneca",
+1,
+[]
+],
+[
+"Akhtanizovskaya vomit",
+1,
+[]
+],
+[
+"Mount Verzella",
+1,
+[]
+],
+[
+"La Canya volcano",
+1,
+[]
+],
+[
+"Puig de l'Ós volcano",
+1,
+[]
+],
+[
+"Volcà del Puig de Mar",
+1,
+[]
+],
+[
+"Volcà de Repassot",
+1,
+[]
+],
+[
+"Volcà de Sant Marc",
+1,
+[]
+],
+[
+"Pukekawa",
+1,
+[
+"Domain",
+"The Domain"
+]
+],
+[
+"Glabro",
+1,
+[]
+],
+[
+"McBride Volcanic Province",
+1,
+[]
+],
+[
+"Mount Oyama",
+1,
+[
+"Miyake"
+]
+],
+[
+"San Diego",
+1,
+[]
+],
+[
+"Laguna Seca",
+1,
+[]
+],
+[
+"Volcán Chiltepe",
+1,
+[
+"Cerro Chiltepe",
+"Chiltepe"
+]
+],
+[
+"Volcán Las Pilas",
+1,
+[]
+],
+[
+"Volcán San Jacinto",
+1,
+[]
+],
+[
+"Volcán Santiago",
+1,
+[
+"Cráter Santiago"
+]
+],
+[
+"Coleman Seamount",
+1,
+[]
+],
+[
+"Tall al Jaynah",
+1,
+[]
+],
+[
+"Mount Mesanbe",
+1,
+[]
+],
+[
+"Cerro Volcán",
+1,
+[]
+],
+[
+"Crater Jiskha Phia",
+1,
+[]
+],
+[
+"Crater Jachcha Phia",
+1,
+[]
+],
+[
+"Cerro Tolar",
+1,
+[]
+],
+[
+"Volcán Tres Picos",
+1,
+[]
+],
+[
+"Cono Truncado",
+1,
+[]
+],
+[
+"Morro de los Volcanes",
+1,
+[]
+],
+[
+"Cerro Volcán Grande",
+1,
+[]
+],
+[
+"Volcán Rojo",
+1,
+[]
+],
+[
+"Volcán Santa María",
+1,
+[]
+],
+[
+"Segundo Cono Truncado",
+1,
+[]
+],
+[
+"Volcán Pihuel",
+1,
+[]
+],
+[
+"Volcán El Planchon",
+1,
+[]
+],
+[
+"Volcán Negro",
+1,
+[]
+],
+[
+"Escorial de la Media Luna",
+1,
+[]
+],
+[
+"Cerro Morado",
+1,
+[]
+],
+[
+"Cerro Negro",
+1,
+[]
+],
+[
+"Volcanes Los Callos",
+1,
+[]
+],
+[
+"Los Volcanes",
+1,
+[]
+],
+[
+"Volcán del Manantial",
+1,
+[]
+],
+[
+"Volcán Juncal",
+1,
+[]
+],
+[
+"Pico Cónico Truncado",
+1,
+[]
+],
+[
+"Cerro Cono Fontana",
+1,
+[]
+],
+[
+"Volcán Dolo",
+1,
+[]
+],
+[
+"Volcán Elisabeth",
+1,
+[]
+],
+[
+"Volcán El Jinete",
+1,
+[]
+],
+[
+"Volcán de Cochiquito",
+1,
+[]
+],
+[
+"Cerro Alto del Volcán",
+1,
+[]
+],
+[
+"Cerro Alumbrera",
+1,
+[]
+],
+[
+"Volcán Auvernia",
+1,
+[]
+],
+[
+"Volcan Puntas Negras",
+1,
+[]
+],
+[
+"Volcán Tatio",
+1,
+[]
+],
+[
+"Cerro Mirador",
+1,
+[]
+],
+[
+"Cerro Tralihue",
+1,
+[]
+],
+[
+"Cerros de Punguichay",
+1,
+[]
+],
+[
+"Merewether Crater",
+1,
+[]
+],
+[
+"Volcán Quizapú",
+1,
+[
+"Cerro Azul"
+]
+],
+[
+"Cerro Marquéz",
+1,
+[]
+],
+[
+"Volcán Callaqui",
+1,
+[
+"Callaquén Volcano",
+"Callaqui Volcano",
+"Volcán Callaquén",
+"Volcán de Callaqui"
+]
+],
+[
+"Cerro Santa María",
+1,
+[]
+],
+[
+"Volcán Reventador",
+1,
+[]
+],
+[
+"Volcán La Cumbre",
+1,
+[]
+],
+[
+"Volcán Tungurahua",
+1,
+[]
+],
+[
+"Malintang",
+1,
+[]
+],
+[
+"Sand Mountain Field",
+1,
+[]
+],
+[
+"Ruby",
+1,
+[]
+],
+[
+"West Eifel Volcanic Field",
+1,
+[]
+],
+[
+"Suretamatai",
+1,
+[]
+],
+[
+"Ithnayn, Harrat",
+1,
+[]
+],
+[
+"Chiles-Cerro Negro",
+1,
+[]
+],
+[
+"Daghil Liddola",
+1,
+[]
+],
+[
+"Fafah Le",
+1,
+[]
+],
+[
+"Gobbay Garo",
+1,
+[]
+],
+[
+"Ambano",
+1,
+[]
+],
+[
+"Audili",
+1,
+[]
+],
+[
+"Lubak Garo",
+1,
+[]
+],
+[
+"Darkot",
+1,
+[]
+],
+[
+"Kara Allumta",
+1,
+[]
+],
+[
+"Dola",
+1,
+[]
+],
+[
+"Montaña Bermeja, Tías",
+1,
+[]
+],
+[
+"Montañón Negro",
+1,
+[
+"Monumento Natural del Montañón Negro"
+]
+],
+[
+"Gabuli",
+1,
+[]
+],
+[
+"Egreri",
+1,
+[]
+],
+[
+"Chebrit Ale",
+1,
+[]
+],
+[
+"Mount Satarua",
+1,
+[]
+],
+[
+"Mount Lelepo",
+1,
+[]
+],
+[
+"Monte Batete",
+1,
+[]
+],
+[
+"Monte Laja",
+1,
+[]
+],
+[
+"Cerro La Mariposa",
+1,
+[]
+],
+[
+"Casa Colorada",
+1,
+[]
+],
+[
+"Lauca",
+1,
+[]
+],
+[
+"Sugarloaf",
+1,
+[]
+],
+[
+"volcanoes of the Leizhou Peninsula",
+1,
+[]
+],
+[
+"Pausanias volcano",
+1,
+[]
+],
+[
+"Williams Crater",
+1,
+[]
+],
+[
+"Cerberus",
+1,
+[]
+],
+[
+"Kanehekili",
+1,
+[]
+],
+[
+"Loki",
+1,
+[]
+],
+[
+"Maui",
+1,
+[]
+],
+[
+"Volund",
+1,
+[]
+],
+[
+"Somma-Vesuvius complex",
+1,
+[
+"Somma–Vesuvius volcanic complex"
+]
+],
+[
+"Urðarháls",
+1,
+[]
+],
+[
+"Seongneororeum",
+1,
+[]
+],
+[
+"Saraoreum",
+1,
+[]
+],
+[
+"Norooreum",
+1,
+[]
+],
+[
+"Gwaoreum",
+1,
+[]
+],
+[
+"Gwemioreum",
+1,
+[]
+],
+[
+"Mulchanoreum",
+1,
+[]
+],
+[
+"Moseulbong",
+1,
+[]
+],
+[
+"Gwangioreum",
+1,
+[]
+],
+[
+"Sangyeooreum",
+1,
+[]
+],
+[
+"Nunoreum",
+1,
+[]
+],
+[
+"Geomeunoreum",
+1,
+[]
+],
+[
+"Norusonioreum",
+1,
+[]
+],
+[
+"Sansemioreum",
+1,
+[]
+],
+[
+"Geungnagoreum",
+1,
+[]
+],
+[
+"Eodooreum",
+1,
+[]
+],
+[
+"Cheonaoreum",
+1,
+[]
+],
+[
+"Chilgoreum",
+1,
+[]
+],
+[
+"Goioreum",
+1,
+[]
+],
+[
+"Ssaroreum",
+1,
+[]
+],
+[
+"Gwepenioreum",
+1,
+[]
+],
+[
+"Muroreum",
+1,
+[]
+],
+[
+"Iseungioreum",
+1,
+[]
+],
+[
+"Bulgeunoreum",
+1,
+[]
+],
+[
+"Sosoreum",
+1,
+[]
+],
+[
+"Minoreum",
+1,
+[]
+],
+[
+"Yeongari",
+1,
+[]
+],
+[
+"Muryeongari",
+1,
+[]
+],
+[
+"Gapseonioreum",
+1,
+[]
+],
+[
+"Byeonggosoreum",
+1,
+[]
+],
+[
+"Seororeum",
+1,
+[]
+],
+[
+"Jangjaoreum",
+1,
+[]
+],
+[
+"Mojioreum",
+1,
+[]
+],
+[
+"Beonneororeum",
+1,
+[]
+],
+[
+"Saekkioreum",
+1,
+[]
+],
+[
+"Chenmangoreum",
+1,
+[]
+],
+[
+"Majungoreum",
+1,
+[]
+],
+[
+"Doraeoreum",
+1,
+[]
+],
+[
+"Dongmuroreum",
+1,
+[]
+],
+[
+"Idaroreum",
+1,
+[]
+],
+[
+"Nuunoreum",
+1,
+[]
+],
+[
+"Gatgeurioreum",
+1,
+[]
+],
+[
+"Mangoreum",
+1,
+[]
+],
+[
+"Saesinoreum",
+1,
+[]
+],
+[
+"Panpooreum",
+1,
+[]
+],
+[
+"Geolsoeoreum",
+1,
+[]
+],
+[
+"Golmeorioreum",
+1,
+[]
+],
+[
+"Georinjogeunoreum",
+1,
+[]
+],
+[
+"Jejigioreum",
+1,
+[]
+],
+[
+"Injeongoreum",
+1,
+[]
+],
+[
+"Saenggiroreum",
+1,
+[]
+],
+[
+"Albangaeoreum",
+1,
+[]
+],
+[
+"Neopgeorioreum",
+1,
+[]
+],
+[
+"Heukbulgeunoreum",
+1,
+[]
+],
+[
+"Bangaeoreum",
+1,
+[]
+],
+[
+"Boreumioreum",
+1,
+[]
+],
+[
+"Songaoreum",
+1,
+[]
+],
+[
+"Seonsooreum",
+1,
+[]
+],
+[
+"Myeongwororeum",
+1,
+[]
+],
+[
+"Aogashima",
+1,
+[]
+],
+[
+"Old South Volcano Caldera Rim NorthEast",
+1,
+[]
+],
+[
+"Cerro Neptuno",
+1,
+[]
+],
+[
+"Cerro Copitiro",
+1,
+[]
+],
+[
+"Cerro La Pastoria",
+1,
+[]
+],
+[
+"Volcán Seco",
+1,
+[]
+],
+[
+"Chato Aislado",
+1,
+[]
+],
+[
+"Khulugayshi",
+1,
+[]
+],
+[
+"Kerimasi volcano",
+1,
+[]
+],
+[
+"Jibāl al Abyaḑ",
+1,
+[
+"ar-Rās al-Abyaḑ"
+]
+],
+[
+"Farallon Negro",
+1,
+[]
+],
+[
+"Grefenburg",
+1,
+[]
+],
+[
+"Daiichi-Amami Knoll",
+1,
+[]
+],
+[
+"Takurayama",
+1,
+[
+"Mount Takara",
+"Mount Takarayama",
+"Mount Takura",
+"Mount Takurayama",
+"Takarayama"
+]
+],
+[
+"Niveligs-Berg",
+1,
+[]
+],
+[
+"Parker Volcano",
+1,
+[]
+],
+[
+"Mount Pangasun",
+1,
+[]
+],
+[
+"Hibochiboc Volcano",
+1,
+[]
+],
+[
+"Camiguin Volcano",
+1,
+[]
+],
+[
+"Minokol",
+1,
+[]
+],
+[
+"Mount Carling",
+1,
+[]
+],
+[
+"Campana",
+1,
+[]
+],
+[
+"Butay",
+1,
+[]
+],
+[
+"Kalem",
+1,
+[]
+],
+[
+"Gran Cratere",
+1,
+[]
+],
+[
+"Monte Barbaro",
+1,
+[]
+],
+[
+"Cerro La Tinaja",
+1,
+[]
+],
+[
+"Volcán El Molcajete",
+1,
+[]
+],
+[
+"Volcán El Tepalcate",
+1,
+[]
+],
+[
+"Volcán El Tezontle",
+1,
+[]
+],
+[
+"Volcán Sapicho",
+1,
+[]
+],
+[
+"Cerro La Perita",
+1,
+[]
+],
+[
+"Cerro El Llahuacuaro",
+1,
+[]
+],
+[
+"Cerro La Alberca",
+1,
+[]
+],
+[
+"Cerro El Costillón",
+1,
+[]
+],
+[
+"Cerro El Chupadero",
+1,
+[]
+],
+[
+"Cerro El Cohetero",
+1,
+[]
+],
+[
+"Cerro de Afuera",
+1,
+[]
+],
+[
+"Cerro Jicalmi",
+1,
+[]
+],
+[
+"Cerro Ciricuti",
+1,
+[]
+],
+[
+"Cerro El Rosario",
+1,
+[]
+],
+[
+"Vulkan Taketomi",
+1,
+[]
+],
+[
+"Cerro El Colorado",
+1,
+[]
+],
+[
+"Cerro Chino",
+1,
+[]
+],
+[
+"Cerro Las Varas",
+1,
+[]
+],
+[
+"Cerro El Jabalí",
+1,
+[]
+],
+[
+"Cerro Sapién",
+1,
+[]
+],
+[
+"Cerro Tumbiscatillo",
+1,
+[]
+],
+[
+"Cerro Pario",
+1,
+[]
+],
+[
+"Cerro El Puerto",
+1,
+[]
+],
+[
+"Cerro El Cajete",
+1,
+[]
+],
+[
+"Cerro Las Vueltas",
+1,
+[]
+],
+[
+"Cerro Estiladero",
+1,
+[]
+],
+[
+"Sopka Obor",
+1,
+[]
+],
+[
+"Cerro La Batea",
+1,
+[]
+],
+[
+"Sopka Ryadaya",
+1,
+[]
+],
+[
+"Cerro Escalerilla",
+1,
+[]
+],
+[
+"Sopka Krasnaya",
+1,
+[]
+],
+[
+"Cerro Mancira",
+1,
+[]
+],
+[
+"Sopka Mayak",
+1,
+[]
+],
+[
+"Volcán Tepetzingo",
+1,
+[]
+],
+[
+"Sopka Boran",
+1,
+[]
+],
+[
+"Volcán Tres Cruces",
+1,
+[]
+],
+[
+"Sopka Obrublennaya",
+1,
+[]
+],
+[
+"Volcán Tuxtepec",
+1,
+[]
+],
+[
+"Sopka Ryzhaya",
+1,
+[]
+],
+[
+"Sopka Mit'kina",
+1,
+[]
+],
+[
+"Volcán Cuautl",
+1,
+[]
+],
+[
+"Volcánes Cuates",
+1,
+[]
+],
+[
+"Volcán El Quilotzi",
+1,
+[]
+],
+[
+"Volcán Texontepec",
+1,
+[]
+],
+[
+"Volcán Emerenciano",
+1,
+[]
+],
+[
+"Volcán Tehualtepec",
+1,
+[]
+],
+[
+"Volcán Teconto",
+1,
+[]
+],
+[
+"Volcán La Silva",
+1,
+[]
+],
+[
+"Volcán Tomasquillo",
+1,
+[]
+],
+[
+"Volcán Santa de Mezapa",
+1,
+[]
+],
+[
+"Volcán Jumento",
+1,
+[]
+],
+[
+"Volcán Chalchihuites",
+1,
+[]
+],
+[
+"Volcán Tezontle",
+1,
+[]
+],
+[
+"Volcán Cajete",
+1,
+[]
+],
+[
+"Volcán Texoxocol",
+1,
+[]
+],
+[
+"Volcán Xictontle",
+1,
+[]
+],
+[
+"Volcán Xictle",
+1,
+[]
+],
+[
+"Volcán Cuatzontle",
+1,
+[]
+],
+[
+"Volcán Man Nal",
+1,
+[]
+],
+[
+"Volcán El Caballito",
+1,
+[]
+],
+[
+"Volcán Manteca",
+1,
+[]
+],
+[
+"Volcán Quimixtepec",
+1,
+[]
+],
+[
+"Volcán El Hoyo",
+1,
+[]
+],
+[
+"Volcán Tetzacoatl",
+1,
+[]
+],
+[
+"Volcán Toxtepec",
+1,
+[]
+],
+[
+"Volcán Yololica",
+1,
+[]
+],
+[
+"Volcán Zompole",
+1,
+[]
+],
+[
+"Volcán Tulmiac",
+1,
+[]
+],
+[
+"Volcán Piripitillo",
+1,
+[]
+],
+[
+"Volcán La Comalera",
+1,
+[]
+],
+[
+"Volcán Yecahuazac",
+1,
+[]
+],
+[
+"Volcanes los Otates",
+1,
+[]
+],
+[
+"Volcán Pajonal",
+1,
+[]
+],
+[
+"Volcán Ocusacayo",
+1,
+[]
+],
+[
+"Volcán Tioca",
+1,
+[]
+],
+[
+"Volcán Xistune",
+1,
+[]
+],
+[
+"Volcán San Miguel",
+1,
+[]
+],
+[
+"Volcán Malacatepetl",
+1,
+[]
+],
+[
+"Volcán El Jorullo",
+1,
+[]
+],
+[
+"Cerro Volcán el Molcajete",
+1,
+[]
+],
+[
+"Volcán Gordo",
+1,
+[]
+],
+[
+"Volcán La Tinaja",
+1,
+[]
+],
+[
+"Cerro Subida El Caracol",
+1,
+[]
+],
+[
+"Cerro Itzhuitz",
+1,
+[]
+],
+[
+"Cerro Volado",
+1,
+[]
+],
+[
+"Cerro Grande",
+1,
+[]
+],
+[
+"Volcán El Comal Chico",
+1,
+[]
+],
+[
+"Volcán La Erita",
+1,
+[]
+],
+[
+"Volcán San Isidro",
+1,
+[]
+],
+[
+"Cerro Antzitacuaro",
+1,
+[]
+],
+[
+"Cerro Huahuarua",
+1,
+[]
+],
+[
+"Cerro Catzicapacuaritiro",
+1,
+[]
+],
+[
+"Cerro Ordáz",
+1,
+[]
+],
+[
+"Cerro Los Pozos",
+1,
+[]
+],
+[
+"Cerro El Derrumbadero",
+1,
+[]
+],
+[
+"Cerro Las Yerbas",
+1,
+[]
+],
+[
+"Volcán El Comalito",
+1,
+[]
+],
+[
+"Volcán Mazcuta",
+1,
+[]
+],
+[
+"Volcán El Estribo",
+1,
+[]
+],
+[
+"Volcán Rancho Seco",
+1,
+[]
+],
+[
+"Volcán Sajo",
+1,
+[]
+],
+[
+"Volcán El Malacate",
+1,
+[]
+],
+[
+"Volacn Cohuazalo",
+1,
+[]
+],
+[
+"Volcán Tlapexcua",
+1,
+[]
+],
+[
+"Volcán Ahuazatepel",
+1,
+[]
+],
+[
+"Volcán Atlalcorra",
+1,
+[]
+],
+[
+"Volcán Moyocalco",
+1,
+[]
+],
+[
+"Volcán Huehuelcon",
+1,
+[]
+],
+[
+"Volcán Huehuel",
+1,
+[]
+],
+[
+"Volcán Ocoxusco",
+1,
+[]
+],
+[
+"Volcán Zoyazal",
+1,
+[
+"Zoceyuca volcano",
+"Zoyazal"
+]
+],
+[
+"Volcán Huipilo",
+1,
+[]
+],
+[
+"Volcán del Aire",
+1,
+[]
+],
+[
+"Volcán Cuatepel",
+1,
+[]
+],
+[
+"Volcán Aholo",
+1,
+[]
+],
+[
+"Volcán Amoloc",
+1,
+[]
+],
+[
+"Volcán La Caldera",
+1,
+[]
+],
+[
+"Volcán Marhuas",
+1,
+[]
+],
+[
+"Volcán Yana Mauras",
+1,
+[]
+],
+[
+"Volcán Misahuana Mauras",
+1,
+[]
+],
+[
+"Volcán Pabellón Mauras",
+1,
+[]
+],
+[
+"Volcán Challhue Mauras",
+1,
+[]
+],
+[
+"Volcán Quinsachata",
+1,
+[]
+],
+[
+"Volcán Jenchaña",
+1,
+[]
+],
+[
+"Volcanes Chilcayoc",
+1,
+[]
+],
+[
+"Volcán Jechapita",
+1,
+[]
+],
+[
+"Volcán Chilcayoc Grande",
+1,
+[]
+],
+[
+"Mount Uluman",
+1,
+[]
+],
+[
+"Mount Malala",
+1,
+[]
+],
+[
+"Batapona Mountain",
+1,
+[]
+],
+[
+"Vulkan Blesaka",
+1,
+[]
+],
+[
+"Solyanaya Sopka",
+1,
+[]
+],
+[
+"Sopka Dondur",
+1,
+[]
+],
+[
+"Sopka Shagayevskaya",
+1,
+[]
+],
+[
+"Vulcan Neozhidannyy",
+1,
+[]
+],
+[
+"Sopka Dvugorbaya",
+1,
+[]
+],
+[
+"Sopka Skalistaya",
+1,
+[]
+],
+[
+"Sopka Dlinnaya",
+1,
+[]
+],
+[
+"Sopka Kamennaya",
+1,
+[]
+],
+[
+"Sopka Mezhdurech'ye",
+1,
+[]
+],
+[
+"Sopka Paratunka",
+1,
+[]
+],
+[
+"Vulkan Zhupanovskaya Sopka",
+1,
+[]
+],
+[
+"Vulkan Trezubets",
+1,
+[]
+],
+[
+"Gora Shishel'",
+1,
+[]
+],
+[
+"Vulkan Poputnyy",
+1,
+[]
+],
+[
+"Vulkan Ushkovskiy",
+1,
+[]
+],
+[
+"Sopka Ostraya",
+1,
+[]
+],
+[
+"Vulkan Massa",
+1,
+[]
+],
+[
+"Sopka Kinchoklok",
+1,
+[]
+],
+[
+"Vulkan Ketoy",
+1,
+[]
+],
+[
+"Sopka Ded",
+1,
+[]
+],
+[
+"Sopka Baydara",
+1,
+[]
+],
+[
+"Sopka Aligey",
+1,
+[]
+],
+[
+"Sopka Figurnaya",
+1,
+[]
+],
+[
+"Sopka Kyamenistaya",
+1,
+[]
+],
+[
+"Sopka Shapka",
+1,
+[]
+],
+[
+"Sopka Khar'kovka",
+1,
+[]
+],
+[
+"Sopka Golaya",
+1,
+[]
+],
+[
+"Sopka Merkur'yevskaya",
+1,
+[]
+],
+[
+"Sopka Klepochnaya",
+1,
+[]
+],
+[
+"Sopka Sarovskiye Dachi",
+1,
+[]
+],
+[
+"Sopka Bol'shoy Solntsepek",
+1,
+[]
+],
+[
+"Sopka Uglevaya",
+1,
+[]
+],
+[
+"Sopka Vysokaya",
+1,
+[]
+],
+[
+"Sopka Pasechnaya",
+1,
+[]
+],
+[
+"Sopka Alban",
+1,
+[]
+],
+[
+"Sopka Koz'ya",
+1,
+[]
+],
+[
+"Sopka Mayachnaya",
+1,
+[]
+],
+[
+"Sopka Uglovaya",
+1,
+[]
+],
+[
+"Sopka Granichnaya",
+1,
+[]
+],
+[
+"Sopka Vostrushna",
+1,
+[]
+],
+[
+"Sopka Lysaya",
+1,
+[]
+],
+[
+"Sopka Bol'shaya Griva",
+1,
+[]
+],
+[
+"Sopka Kamenistaya Griva",
+1,
+[]
+],
+[
+"Sopka Zaikina",
+1,
+[]
+],
+[
+"Sopka Vostryaki",
+1,
+[]
+],
+[
+"Sopka Vasil'yeva",
+1,
+[]
+],
+[
+"Sopka Vidnaya",
+1,
+[]
+],
+[
+"Sopka Kamenistaya",
+1,
+[]
+],
+[
+"Sopka Maloguminskaya",
+1,
+[]
+],
+[
+"Sopka Dom",
+1,
+[]
+],
+[
+"Sopka Yerëmina",
+1,
+[]
+],
+[
+"Sopka Bol'shaya",
+1,
+[]
+],
+[
+"Sopka Koftuna",
+1,
+[]
+],
+[
+"Sopka Talitskaya",
+1,
+[]
+],
+[
+"Sopka Karasukskaya",
+1,
+[]
+],
+[
+"Sopka Khutorskaya",
+1,
+[]
+],
+[
+"Vulkan Novo-Bakening",
+1,
+[]
+],
+[
+"Sopka Sinyaya",
+1,
+[]
+],
+[
+"The Peak",
+1,
+[]
+],
+[
+"Vøringen",
+1,
+[]
+],
+[
+"Scottkrateret",
+1,
+[]
+],
+[
+"Richterkrateret",
+1,
+[]
+],
+[
+"Pöckkrateret",
+1,
+[]
+],
+[
+"Lunckekjegla",
+1,
+[]
+],
+[
+"Eskkrateret",
+1,
+[]
+],
+[
+"Cerro El Taburete",
+1,
+[]
+],
+[
+"Cerro El Pacayal",
+1,
+[]
+],
+[
+"Losimingur",
+1,
+[]
+],
+[
+"Kitumbeine",
+1,
+[]
+],
+[
+"Suzuga Take",
+1,
+[]
+],
+[
+"Sōma Yama",
+1,
+[]
+],
+[
+"Mount Otake",
+1,
+[
+"Odake"
+]
+],
+[
+"Vulkan Yermak",
+1,
+[]
+],
+[
+"Drakon",
+1,
+[
+"Vulkan Drakon"
+]
+],
+[
+"Hachi Yama",
+1,
+[]
+],
+[
+"Bingushi Yama",
+1,
+[]
+],
+[
+"Eboshiga Dake",
+1,
+[]
+],
+[
+"Futatsu Dake",
+1,
+[]
+],
+[
+"Asama Yama",
+1,
+[]
+],
+[
+"Takanosu Yama",
+1,
+[]
+],
+[
+"Mitsumine San",
+1,
+[]
+],
+[
+"Maekake Yama",
+1,
+[]
+],
+[
+"Komaga Take",
+1,
+[]
+],
+[
+"Maru Yama",
+1,
+[]
+],
+[
+"Mount Ōtaira",
+1,
+[]
+],
+[
+"Ko-Fuji",
+1,
+[
+"Mount Kofuji",
+"Mount Ko-Fuji"
+]
+],
+[
+"Mount Fiamoe",
+1,
+[]
+],
+[
+"Mount Savai'i",
+1,
+[]
+],
+[
+"Mount Mu",
+1,
+[]
+],
+[
+"Mount Mata o le Afi",
+1,
+[]
+],
+[
+"Mount Talomo",
+1,
+[
+"Mount Kolelan"
+]
+],
+[
+"Mount Salimbal",
+1,
+[
+"Salimbal Volcano"
+]
+],
+[
+"Wachenberg",
+1,
+[]
+],
+[
+"Cerro Auquihuato",
+1,
+[]
+],
+[
+"Sopka Baba",
+1,
+[]
+],
+[
+"Monte Gibele",
+1,
+[]
+],
+[
+"I Vancori",
+1,
+[]
+],
+[
+"Volcán San Bartolo",
+1,
+[]
+],
+[
+"Kone",
+1,
+[]
+],
+[
+"Kulo Lasi",
+1,
+[]
+],
+[
+"Petit Puy de Dôme",
+1,
+[]
+],
+[
+"Jaude maar",
+1,
+[]
+],
+[
+"Mount Pierre",
+1,
+[]
+],
+[
+"Mont des Manchots",
+1,
+[]
+],
+[
+"Volcán Tutupaca",
+1,
+[]
+],
+[
+"Deer Mountain",
+1,
+[]
+],
+[
+"San Jerónimo volcano",
+1,
+[]
+],
+[
+"Magnaghi",
+1,
+[]
+],
+[
+"Aneityum",
+1,
+[]
+],
+[
+"Aoba",
+1,
+[]
+],
+[
+"Ascension",
+1,
+[]
+],
+[
+"Bayonnaise Rocks",
+1,
+[]
+],
+[
+"Baranovsky volcano (Krasnoyarsk region)",
+1,
+[]
+],
+[
+"Bem Canal Radyard Bay",
+1,
+[]
+],
+[
+"Bir Borhut",
+1,
+[]
+],
+[
+"Blup Blup",
+1,
+[]
+],
+[
+"Bogachevsky",
+1,
+[]
+],
+[
+"Bogoria",
+1,
+[]
+],
+[
+"Bogoslof Volcano",
+1,
+[]
+],
+[
+"Big Kytepana",
+1,
+[]
+],
+[
+"Big (volcano)",
+1,
+[]
+],
+[
+"Bolshoi Chekchebonai",
+1,
+[]
+],
+[
+"Bongapchi",
+1,
+[]
+],
+[
+"Buduli",
+1,
+[]
+],
+[
+"Bunanya",
+1,
+[]
+],
+[
+"Vetrovyi Volcano",
+1,
+[]
+],
+[
+"Vodorazdelny Volcano",
+1,
+[]
+],
+[
+"Eastern Baraniy",
+1,
+[]
+],
+[
+"Tarya Volcano",
+1,
+[]
+],
+[
+"Grechishkina (volcano)",
+1,
+[]
+],
+[
+"Yellow (volcano)",
+1,
+[]
+],
+[
+"Iult",
+1,
+[]
+],
+[
+"Kalgauch",
+1,
+[]
+],
+[
+"Kalgnitunup",
+1,
+[]
+],
+[
+"Kamenisty (volcano)",
+1,
+[]
+],
+[
+"Karatag (mountain)",
+1,
+[]
+],
+[
+"Pan (volcano)",
+1,
+[]
+],
+[
+"Qakhtana",
+1,
+[]
+],
+[
+"Kevenateunup",
+1,
+[]
+],
+[
+"Kireunsky",
+1,
+[]
+],
+[
+"Kobalan",
+1,
+[]
+],
+[
+"Krestovsky (Near Flat Hill)",
+1,
+[]
+],
+[
+"Kruglenky",
+1,
+[]
+],
+[
+"Kunhilok (volcano)",
+1,
+[]
+],
+[
+"Kuyul (volcano)",
+1,
+[]
+],
+[
+"Lagerny (volcano)",
+1,
+[]
+],
+[
+"Langtutkin",
+1,
+[]
+],
+[
+"Lauchachan",
+1,
+[]
+],
+[
+"Lauchan",
+1,
+[]
+],
+[
+"Lelyakina",
+1,
+[]
+],
+[
+"Malaya Ipelka",
+1,
+[]
+],
+[
+"Malaya Ketepana",
+1,
+[]
+],
+[
+"Maly Alney",
+1,
+[]
+],
+[
+"Small Chekchebonai",
+1,
+[]
+],
+[
+"Bear (volcano in Kamchatka)",
+1,
+[]
+],
+[
+"Mutny",
+1,
+[]
+],
+[
+"Nikolka",
+1,
+[]
+],
+[
+"Nosichan",
+1,
+[]
+],
+[
+"Nubalykich",
+1,
+[]
+],
+[
+"Nyulkandya",
+1,
+[]
+],
+[
+"Oleniy (volcano)",
+1,
+[]
+],
+[
+"Olka (volcano in Kamchatka)",
+1,
+[]
+],
+[
+"Ochchamo",
+1,
+[]
+],
+[
+"Payalpan",
+1,
+[]
+],
+[
+"Perevalovy",
+1,
+[]
+],
+[
+"Pirozhnikova (volcano)",
+1,
+[]
+],
+[
+"Polovinny (volcano)",
+1,
+[]
+],
+[
+"Prodolny",
+1,
+[]
+],
+[
+"Rassoshina (volcano)",
+1,
+[]
+],
+[
+"Sergeeva (volcano)",
+1,
+[]
+],
+[
+"Slyunina (volcano)",
+1,
+[]
+],
+[
+"Soboliny (volcano)",
+1,
+[]
+],
+[
+"Solontsovsky (paleovolcano)",
+1,
+[]
+],
+[
+"Twitunup",
+1,
+[]
+],
+[
+"Tekletunup",
+1,
+[]
+],
+[
+"Tigilsky",
+1,
+[]
+],
+[
+"Uvo-Bukovec",
+1,
+[
+"Bukovec",
+"Bukovec-Uvo",
+"Uvo"
+]
+],
+[
+"Tobeltsen",
+1,
+[]
+],
+[
+"Rajčani Cone",
+1,
+[]
+],
+[
+"Tynua",
+1,
+[]
+],
+[
+"Ulvaney",
+1,
+[]
+],
+[
+"Ureparapara",
+1,
+[]
+],
+[
+"Khailyulya",
+1,
+[]
+],
+[
+"Kharchinsky",
+1,
+[]
+],
+[
+"Central (volcano)",
+1,
+[]
+],
+[
+"Chavycha Volcano",
+1,
+[]
+],
+[
+"Chashakondzha",
+1,
+[]
+],
+[
+"Cherpuk Severny",
+1,
+[]
+],
+[
+"Chineinane",
+1,
+[
+"Chickeingane"
+]
+],
+[
+"Shlen",
+1,
+[]
+],
+[
+"Ebev-Bunanya",
+1,
+[]
+],
+[
+"Etopan",
+1,
+[]
+],
+[
+"Yavinsky ridge",
+1,
+[]
+],
+[
+"Yanpat",
+1,
+[]
+],
+[
+"Shichiyō Seamount Chain",
+1,
+[
+"Shichiyō Seamounts"
+]
+],
+[
+"Red Rock",
+1,
+[]
+],
+[
+"Rainbow Mountain",
+1,
+[]
+],
+[
+"China Hat",
+1,
+[]
+],
+[
+"East Crater",
+1,
+[]
+],
+[
+"Baker Butte",
+1,
+[
+"Baker's Butte"
+]
+],
+[
+"Earthquake Dome",
+1,
+[]
+],
+[
+"Lakeshore Cone",
+1,
+[]
+],
+[
+"Lookout Mountain",
+1,
+[]
+],
+[
+"Middle Sister",
+1,
+[
+"Mount Hope"
+]
+],
+[
+"Monache Mountain",
+1,
+[]
+],
+[
+"North Sister",
+1,
+[
+"Mount Faith"
+]
+],
+[
+"Obsidian Dome",
+1,
+[]
+],
+[
+"Potato Hill",
+1,
+[]
+],
+[
+"Puʻu Koaʻe",
+1,
+[]
+],
+[
+"Red Butte",
+1,
+[]
+],
+[
+"Red Hill",
+1,
+[
+"South Fork Cone"
+]
+],
+[
+"Red Mountain",
+1,
+[]
+],
+[
+"Sugarloaf Peak",
+1,
+[]
+],
+[
+"Templeton Mountain",
+1,
+[]
+],
+[
+"The Wart",
+1,
+[]
+],
+[
+"Carrizozo Malpais",
+1,
+[]
+],
+[
+"Cinder Cliff",
+1,
+[]
+],
+[
+"Cone Glacier Volcano",
+1,
+[]
+],
+[
+"Davis Lake volcanic field",
+1,
+[]
+],
+[
+"Dunedin Volcano",
+1,
+[]
+],
+[
+"Pipkin",
+1,
+[
+"Malpais Crate"
+]
+],
+[
+"Puig de Bellaire volcano",
+1,
+[]
+],
+[
+"Melimoyu Volcano",
+1,
+[
+"Melimoyu"
+]
+],
+[
+"Cerro Tilarán",
+1,
+[]
+],
+[
+"Grafton Volcano",
+1,
+[]
+],
+[
+"Volcán de La Mesnera",
+1,
+[]
+],
+[
+"Hampton Park",
+1,
+[]
+],
+[
+"Auch",
+1,
+[]
+],
+[
+"Icefall Cone",
+1,
+[]
+],
+[
+"Black Butte",
+1,
+[
+"Shoshone Lava Field"
+]
+],
+[
+"Iskut Canyon Cone",
+1,
+[]
+],
+[
+"Jasper Seamount",
+1,
+[]
+],
+[
+"Tetlalmanche Volcano",
+1,
+[]
+],
+[
+"Furnas",
+1,
+[]
+],
+[
+"Klastline Cone",
+1,
+[]
+],
+[
+"Lavic Lake volcanic field",
+1,
+[]
+],
+[
+"Little Eagle Cone",
+1,
+[]
+],
+[
+"Machmell River Cone",
+1,
+[]
+],
+[
+"Moraine Cone",
+1,
+[]
+],
+[
+"Ngualla",
+1,
+[]
+],
+[
+"Sleet Cone",
+1,
+[]
+],
+[
+"Source Hill",
+1,
+[]
+],
+[
+"Spectrum Dome",
+1,
+[]
+],
+[
+"Storm Cone",
+1,
+[]
+],
+[
+"The Saucer",
+1,
+[]
+],
+[
+"Triplex Cone",
+1,
+[]
+],
+[
+"Twin Cone",
+1,
+[]
+],
+[
+"Upper Becker Creek Cone",
+1,
+[]
+],
+[
+"Vance Seamounts",
+1,
+[]
+],
+[
+"Walkout Creek Cone",
+1,
+[]
+],
+[
+"Volcán de Siete Fuentes",
+1,
+[]
+],
+[
+"Rungapapa Knoll",
+1,
+[]
+],
+[
+"Quilty Cone",
+1,
+[]
+],
+[
+"Volcán de La Atalaya",
+1,
+[]
+],
+[
+"Iulia Mud Volcano",
+0,
+[]
+],
+[
+"Volcà de Gengí",
+0,
+[]
+],
+[
+"Cabriolers volcanoes",
+0,
+[]
+],
+[
+"Volcà de la Banya del Boc",
+0,
+[]
+],
+[
+"Gaja-jima",
+0,
+[]
+],
+[
+"Evlanov Seamount",
+0,
+[]
+],
+[
+"Puesto Cortaderas",
+0,
+[]
+],
+[
+"Northern Lake Abaya Volcanic Field",
+0,
+[]
+],
+[
+"Stepovak Bay Group",
+0,
+[]
+],
+[
+"Pico das Romeiras",
+0,
+[]
+],
+[
+"Pico do Cardo",
+0,
+[]
+],
+[
+"Rotomā volcanic complex",
+0,
+[
+"Rotomā complex"
+]
+],
+[
+"Puig Montner volcano",
+0,
+[]
+],
+[
+"Granollers de Rocacorba volcano",
+0,
+[
+"Puig de Granollers volcano"
+]
+],
+[
+"Puig Rodó volcano",
+0,
+[]
+],
+[
+"Pomereda volcano",
+0,
+[
+"Turó de la Pomareda"
+]
+],
+[
+"Ca l’Isidret volcano",
+0,
+[]
+],
+[
+"Puig s'Agonia volcano",
+0,
+[]
+],
+[
+"Pla del Torn",
+0,
+[]
+],
+[
+"Thera",
+0,
+[
+"Tera"
+]
+],
+[
+"the mountain Rudnik",
+0,
+[]
+],
+[
+"Rumble II East Seamount",
+0,
+[
+"Rumble II East",
+"Rumble II East Volcano"
+]
+],
+[
+"Tilva Nyagra",
+0,
+[]
+],
+[
+"Miðahóll",
+0,
+[]
+],
+[
+"Stampar Crater",
+0,
+[]
+],
+[
+"Rauðhóll",
+0,
+[]
+],
+[
+"Reykjanes",
+0,
+[]
+],
+[
+"Sandfellshæð",
+0,
+[]
+],
+[
+"Litla-Skógfell",
+0,
+[]
+],
+[
+"Innri-Sandhóll",
+0,
+[]
+],
+[
+"Laach volcano",
+0,
+[]
+],
+[
+"Bühl",
+0,
+[]
+],
+[
+"Nocis volcano",
+0,
+[]
+],
+[
+"Caldera Volcano",
+0,
+[]
+],
+[
+"Kibblewhite Seamount",
+0,
+[
+"Kibblewhite Volcano"
+]
+],
+[
+"Haradha",
+0,
+[
+"Hammam Damt"
+]
+],
+[
+"Giljanes Seamount",
+0,
+[
+"Giljanes Volcano"
+]
+],
+[
+"Cole Seamount",
+0,
+[
+"Cole Volcano"
+]
+],
+[
+"Mount Biega",
+0,
+[]
+],
+[
+"Montaña de la Botija",
+0,
+[]
+],
+[
+"Stupdalstrekta",
+0,
+[]
+],
+[
+"Arnethkrateret",
+0,
+[]
+],
+[
+"Hoyberg",
+0,
+[]
+],
+[
+"Kubbestolen",
+0,
+[]
+],
+[
+"Bernakrateret",
+0,
+[]
+],
+[
+"Bouillante Chain",
+0,
+[]
+],
+[
+"Dutton",
+0,
+[]
+],
+[
+"Iamalele",
+0,
+[]
+],
+[
+"Naboko cinder cone",
+0,
+[]
+],
+[
+"First scoria cone",
+0,
+[
+"first cinder cone"
+]
+],
+[
+"Second scoria cone",
+0,
+[
+"second cinder cone"
+]
+],
+[
+"Komorní Hůrka",
+0,
+[]
+],
+[
+"Endeavour Segment",
+0,
+[]
+],
+[
+"Forecast Seamount",
+0,
+[]
+],
+[
+"Haut Dong Nai",
+0,
+[]
+],
+[
+"Inyo Craters",
+0,
+[]
+],
+[
+"Kita-Bayonnaise",
+0,
+[]
+],
+[
+"Lassen Volcanic Center",
+0,
+[]
+],
+[
+"Middle Gobi",
+0,
+[]
+],
+[
+"Behm Canal-Rudyerd Bay",
+0,
+[]
+],
+[
+"Black Butte Crater Lava Field",
+0,
+[]
+],
+[
+"Craters of the Moon",
+0,
+[]
+],
+[
+"Toroeng Prong",
+0,
+[]
+],
+[
+"Tlevak Strait-Suemez Is.",
+0,
+[]
+],
+[
+"Srednii",
+0,
+[]
+],
+[
+"Stepovak Bay 2",
+0,
+[]
+],
+[
+"Stepovak Bay 3",
+0,
+[]
+],
+[
+"Stepovak Bay 4",
+0,
+[]
+],
+[
+"South Sarigan Seamount",
+0,
+[]
+],
+[
+"Silver Lake",
+0,
+[]
+],
+[
+"Seamount X",
+0,
+[]
+],
+[
+"North Norfolk Plateau",
+0,
+[]
+],
+[
+"NW Eifuku",
+0,
+[]
+],
+[
+"Mono Lake Volcanic Field",
+0,
+[]
+],
+[
+"Yomba",
+0,
+[]
+],
+[
+"Yelia",
+0,
+[]
+],
+[
+"Witori",
+0,
+[]
+],
+[
+"Uwayrid, Harrat",
+0,
+[]
+],
+[
+"Traitor's Head",
+0,
+[]
+],
+[
+"Tavui",
+0,
+[]
+],
+[
+"Sessagara",
+0,
+[]
+],
+[
+"Samsari Volcanic Center",
+0,
+[]
+],
+[
+"Rahah, Harrat ar",
+0,
+[]
+],
+[
+"Marha, Jabal el-",
+0,
+[]
+],
+[
+"Managlase Plateau",
+0,
+[]
+],
+[
+"Madilogo",
+0,
+[]
+],
+[
+"Lolo",
+0,
+[]
+],
+[
+"Doma Peaks",
+0,
+[]
+],
+[
+"Dugong",
+0,
+[]
+],
+[
+"Gallego",
+0,
+[]
+],
+[
+"Garua Harbour",
+0,
+[]
+],
+[
+"Haylan, Jabal",
+0,
+[]
+],
+[
+"Kana Keoki",
+0,
+[]
+],
+[
+"Koranga",
+0,
+[]
+],
+[
+"Lobster",
+0,
+[]
+],
+[
+"Crater Mountain",
+0,
+[]
+],
+[
+"Dawson Strait Group",
+0,
+[]
+],
+[
+"Cleft Segment",
+0,
+[]
+],
+[
+"CoAxial Segment",
+0,
+[]
+],
+[
+"Cobb Segment",
+0,
+[]
+],
+[
+"East Blanco Depression",
+0,
+[]
+],
+[
+"Escanaba Segment",
+0,
+[]
+],
+[
+"Jackson Segment",
+0,
+[]
+],
+[
+"Kaena",
+0,
+[]
+],
+[
+"Northern EPR-Segment RO2",
+0,
+[]
+],
+[
+"North Gorda Ridge Segment",
+0,
+[]
+],
+[
+"Macdonald",
+0,
+[]
+],
+[
+"Yufu-Tsurumi",
+0,
+[]
+],
+[
+"Yavinsky",
+0,
+[]
+],
+[
+"Wapi Lava Field",
+0,
+[]
+],
+[
+"West Valley Segment",
+0,
+[]
+],
+[
+"Veteran",
+0,
+[]
+],
+[
+"Unnamed",
+0,
+[]
+],
+[
+"East Gakkel Ridge at 85 E",
+0,
+[]
+],
+[
+"Pico Fracture Zone",
+0,
+[]
+],
+[
+"Romanche Fracture Zone",
+0,
+[]
+],
+[
+"Tjornes Fracture Zone",
+0,
+[]
+],
+[
+"Blanca, Laguna",
+0,
+[]
+],
+[
+"Crater Basalt Volcanic Field",
+0,
+[]
+],
+[
+"Galapagos Rift",
+0,
+[]
+],
+[
+"Yonemaru-Sumiyoshiike",
+0,
+[]
+],
+[
+"Udintsev Transform",
+0,
+[]
+],
+[
+"Southern EPR-Segment K",
+0,
+[]
+],
+[
+"Southern EPR-Segment J",
+0,
+[]
+],
+[
+"Southern EPR-Segment I",
+0,
+[]
+],
+[
+"Northern EPR-Segment RO3",
+0,
+[]
+],
+[
+"Meullin",
+0,
+[
+"Mallin, meillin"
+]
+],
+[
+"Infiernillo",
+0,
+[]
+],
+[
+"Unnamed volcano",
+0,
+[]
+],
+[
+"Unnamed volcanic shield",
+0,
+[]
+],
+[
+"Unnamed pyroclastic cone",
+0,
+[]
+],
+[
+"Unnamed submarine volcano in the Pacific Ocean",
+0,
+[]
+],
+[
+"Unnamed lava dome",
+0,
+[]
+],
+[
+"Unnamed submarine volcano in the eastern Pacific Ocean",
+0,
+[]
+],
+[
+"Sacrofano caldera",
+0,
+[]
+],
+[
+"Vinařická hora Vinařice u Kladna",
+0,
+[]
+],
+[
+"Volcán Yucamane",
+0,
+[]
+],
+[
+"Verkhne-Paratunsky thermal springs",
+0,
+[]
+],
+[
+"Pauzhetka (volcano)",
+0,
+[]
+],
+[
+"Stolbovoy (volcano)",
+0,
+[]
+],
+[
+"Tundra (volcano)",
+0,
+[]
+],
+[
+"Tsubouchi Knolls",
+0,
+[]
+],
+[
+"Pisseogan Knoll",
+0,
+[]
+],
+[
+"Kamiarizuki Knoll",
+0,
+[]
+],
+[
+"South Harghita Mountains",
+0,
+[]
+],
+[
+"Brontona Island",
+0,
+[]
+],
+[
+"Cariliao",
+0,
+[]
+],
+[
+"Chalpatan",
+0,
+[]
+],
+[
+"Haut Song Be",
+0,
+[]
+],
+[
+"Mukaimachi",
+0,
+[]
+],
+[
+"Caldeirão do Corvo",
+0,
+[]
+],
+[
+"Calypso Vents",
+0,
+[]
+],
+[
+"Tergeste Mud Volcano",
+0,
+[]
 ]
 ]

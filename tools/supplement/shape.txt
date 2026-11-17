@@ -60,3 +60,5 @@ Icosagon
 Chiliagon
 Megagon
 Googolgon
+Enneagon=nonagon
+Dart

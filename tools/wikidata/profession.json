@@ -1,1666 +1,16466 @@
 [
 [
 "actor",
-190
+190,
+[
+"actors",
+"actress",
+"actresses",
+"movie actress",
+"movie actresses"
+]
 ],
 [
 "teacher",
-179
+179,
+[
+"educator",
+"professor",
+"schoolmaster",
+"schoolmistress"
+]
 ],
 [
 "writer",
-176
+176,
+[
+"author",
+"authors",
+"writers"
+]
 ],
 [
 "poet",
-173
+173,
+[
+"bard",
+"poetess",
+"poetry author",
+"poetry writer"
+]
 ],
 [
 "politician",
-154
+154,
+[
+"pol",
+"polit.",
+"political figure",
+"political leader"
+]
 ],
 [
 "journalist",
-146
+146,
+[
+"journo"
+]
 ],
 [
 "king",
-143
+143,
+[]
 ],
 [
 "scientist",
-137
+137,
+[
+"natural philosopher"
+]
 ],
 [
 "prophet",
-129
+129,
+[]
 ],
 [
 "mathematician",
-124
+124,
+[]
 ],
 [
 "singer",
-124
+124,
+[
+"songster",
+"songstress",
+"vocalist"
+]
 ],
 [
 "emperor",
-124
+124,
+[
+"imperator"
+]
 ],
 [
 "samurai",
-115
+115,
+[
+"buke",
+"bushi"
+]
 ],
 [
 "governor",
-111
+111,
+[
+"gov",
+"governors",
+"gov'r",
+"govs",
+"guv",
+"guvs",
+"provincial governor"
+]
 ],
 [
 "architect",
-110
+110,
+[
+"building architects"
+]
 ],
 [
 "engineer",
-110
+110,
+[]
 ],
 [
 "historian",
-109
+109,
+[
+"historians",
+"historiographer"
+]
 ],
 [
 "knight",
-101
+101,
+[]
 ],
 [
 "astronomer",
-98
+98,
+[]
 ],
 [
 "rabbi",
-95
+95,
+[
+"Rav"
+]
 ],
 [
 "cook",
-95
+95,
+[
+"chef",
+"professional cook"
+]
 ],
 [
 "model",
-95
+95,
+[
+"poser",
+"sitter"
+]
 ],
 [
 "physicist",
-93
+93,
+[]
 ],
 [
 "firefighter",
-87
+87,
+[
+"fire fighter",
+"firefighters",
+"fireman",
+"fireofficer",
+"firewoman"
+]
 ],
 [
 "entrepreneur",
-87
+87,
+[
+"entrepreneurs"
+]
 ],
 [
 "aircraft pilot",
-86
+86,
+[
+"aviator",
+"aviatrix",
+"pilot"
+]
 ],
 [
 "fisher",
-86
+86,
+[
+"fisherman",
+"fisherwoman"
+]
 ],
 [
 "geisha",
-85
+85,
+[
+"geigi",
+"geiko"
+]
 ],
 [
 "diplomat",
-83
+83,
+[]
 ],
 [
 "athlete",
-83
+83,
+[
+"athletes",
+"sports competitor",
+"sportsman",
+"sportsperson",
+"sportswoman"
+]
 ],
 [
 "tailor",
-83
+83,
+[
+"tailoress"
+]
 ],
 [
 "ninja",
-82
+82,
+[
+"shinobi"
+]
 ],
 [
 "missionary",
-81
+81,
+[
+"proselytizer"
+]
 ],
 [
 "mercenary",
-79
+79,
+[
+"freelance",
+"hired gun",
+"merc",
+"mercenaries",
+"sellsword",
+"soldier of fortune"
+]
 ],
 [
 "economist",
-79
+79,
+[
+"economists"
+]
 ],
 [
 "sniper",
-79
+79,
+[]
 ],
 [
 "chief executive officer",
-79
+79,
+[
+"CE",
+"CEO",
+"CEx",
+"chief executive"
+]
 ],
 [
 "comedian",
-78
+78,
+[
+"comedienne",
+"comic",
+"comic actor"
+]
 ],
 [
 "programmer",
-78
+78,
+[
+"coder",
+"computer programmer",
+"dev",
+"developer",
+"software developer",
+"software programmer"
+]
 ],
 [
 "psychologist",
-75
+75,
+[
+"psychologists"
+]
 ],
 [
 "sailor",
-75
+75,
+[
+"mariner",
+"merchant mariner",
+"merchant sailor",
+"merchant seaman",
+"sailor (sport)",
+"seafarer",
+"seaman",
+"sport sailor",
+"sports sailor",
+"yachtsman",
+"yachtswoman"
+]
 ],
 [
 "intellectual",
-75
+75,
+[
+"intellectuals",
+"intelligentsia",
+"polymath"
+]
 ],
 [
 "coach",
-73
+73,
+[
+"athletic coach",
+"coaches",
+"coaching professional",
+"sport coach",
+"sports coach",
+"trainer"
+]
 ],
 [
 "barber",
-71
+71,
+[
+"barbers"
+]
 ],
 [
 "conductor",
-71
+71,
+[
+"guard",
+"musical conductor",
+"musical director",
+"transportation conductor",
+"transportation guard"
+]
 ],
 [
 "merchant",
-71
+71,
+[]
 ],
 [
 "chemist",
-70
+70,
+[
+"chemistryan",
+"chemists"
+]
 ],
 [
 "muezzin",
-69
+69,
+[
+"muazzin",
+"Mu'azzin",
+"muazzins",
+"muezzins"
+]
 ],
 [
 "cowboy",
-68
+68,
+[
+"🤠"
+]
 ],
 [
 "librarian",
-68
+68,
+[]
 ],
 [
 "inventor",
-68
+68,
+[]
 ],
 [
 "tenor",
-68
+68,
+[
+"tenor (singer)",
+"tenor voice"
+]
 ],
 [
 "butcher",
-68
+68,
+[
+"butchers",
+"meat cutter"
+]
 ],
 [
 "executioner",
-66
+66,
+[
+"hangman"
+]
 ],
 [
 "pastor",
-65
+65,
+[
+"Christian pastor",
+"church pastor"
+]
 ],
 [
 "businessperson",
-65
+65,
+[
+"business man",
+"businessman",
+"businessmen",
+"business people",
+"businesspeople",
+"business person",
+"business woman",
+"businesswoman",
+"business women",
+"businesswomen",
+"dealer"
+]
 ],
 [
 "domestic worker",
-65
+65,
+[
+"domestic employee",
+"domestic helper",
+"domestic staff",
+"household employee",
+"household worker",
+"servant",
+"the help"
+]
 ],
 [
 "director",
-64
+64,
+[
+"boss",
+"chief",
+"company director",
+"corporate director",
+"head",
+"regisseur"
+]
 ],
 [
 "baker",
-64
+64,
+[]
 ],
 [
 "mangaka",
-64
+64,
+[
+"Japanese comics artist",
+"manga artist"
+]
 ],
 [
 "video assistant referee",
-64
+64,
+[
+"VAR",
+"video assistant referees"
+]
 ],
 [
 "songwriter",
-64
+64,
+[
+"song writer"
+]
 ],
 [
 "association football player",
-63
+63,
+[
+"association footballer",
+"association soccer player",
+"footballer",
+"football player",
+"player",
+"soccer player"
+]
 ],
 [
 "waiter",
-62
+62,
+[
+"foki",
+"server",
+"serving staff",
+"table waiter",
+"waiter boy",
+"waiters",
+"waitperson",
+"waitress",
+"waitress girl",
+"waitron",
+"waitstaff"
+]
 ],
 [
 "qadi",
-62
+62,
+[
+"qadhi",
+"qāḍī"
+]
 ],
 [
 "detective",
-62
+62,
+[
+"criminal investigator"
+]
 ],
 [
 "association football referee",
-62
+62,
+[
+"association soccer referee",
+"football referee",
+"soccer referee"
+]
 ],
 [
 "accountant",
-60
+60,
+[
+"accountants",
+"accountant technician"
+]
 ],
 [
 "regent",
-60
+60,
+[
+"regentess"
+]
 ],
 [
 "flight attendant",
-59
+59,
+[
+"air host",
+"air hostess",
+"cabin crew member",
+"steward",
+"stewardess"
+]
 ],
 [
 "paparazzi",
-59
+59,
+[
+"paparazza",
+"paparazzis",
+"paparazzo"
+]
 ],
 [
 "psychiatrist",
-58
+58,
+[
+"alienist",
+"head-shrinker",
+"psychiatrists",
+"shrink",
+"shrinker"
+]
 ],
 [
 "referee",
-57
+57,
+[
+"umpire"
+]
 ],
 [
 "wet nurse",
-57
+57,
+[
+"milk mother",
+"milkmother",
+"wetnurse"
+]
 ],
 [
 "shepherd",
-57
+57,
+[
+"sheepherder",
+"shepherdess"
+]
 ],
 [
 "civil servant",
-56
+56,
+[
+"public servant"
+]
 ],
 [
 "hairdresser",
-56
+56,
+[
+"beautician",
+"hair dresser",
+"hairdressers",
+"hair stylist",
+"hairstylist"
+]
 ],
 [
 "broker",
-55
+55,
+[]
 ],
 [
 "police officer",
-55
+55,
+[
+"cop",
+"officer",
+"Old Bill",
+"police agent",
+"policeman",
+"policewoman",
+"woodentop"
+]
 ],
 [
 "critic",
-55
+55,
+[]
 ],
 [
 "actuary",
-54
+54,
+[]
 ],
 [
 "scribe",
-54
+54,
+[]
 ],
 [
 "warrior",
-53
+53,
+[
+"fighter"
+]
 ],
 [
 "artisan",
-53
+53,
+[
+"craftsman",
+"craftsperson",
+"maker"
+]
 ],
 [
 "privateer",
-53
+53,
+[
+"corsair"
+]
 ],
 [
 "secretary",
-53
+53,
+[
+"administrative assistant",
+"clerical secretary",
+"office assistant",
+"personal assistant"
+]
 ],
 [
 "biologist",
-53
+53,
+[]
 ],
 [
 "geographer",
-53
+53,
+[]
 ],
 [
 "pawnbroker",
-52
+52,
+[
+"hockshop",
+"pawnbrokers shop",
+"pawn shop",
+"pawnshop",
+"pawn store"
+]
 ],
 [
 "goldsmith",
-52
+52,
+[]
 ],
 [
 "mail carrier",
-51
+51,
+[
+"letter carrier",
+"mailman",
+"mailwoman",
+"postal carrier",
+"postie",
+"postman",
+"postwoman"
+]
 ],
 [
 "plumber",
-51
+51,
+[]
 ],
 [
 "bricklayer",
-51
+51,
+[
+"mason",
+"stonemason"
+]
 ],
 [
 "geologist",
-51
+51,
+[
+"geologists"
+]
 ],
 [
 "gardener",
-51
+51,
+[
+"gardening assistant",
+"gardening worker",
+"garden labourer",
+"garden maintenance trainee",
+"garden worker",
+"landscape labourer",
+"landscaping labourer",
+"landscaping operative",
+"manual garden labourer"
+]
 ],
 [
 "association football assistant referee",
-50
+50,
+[
+"6th Law of association football",
+"assistant referee",
+"Assistant referee",
+"linesman",
+"lineswoman",
+"The Other Match Officials"
+]
 ],
 [
 "sheriff",
-50
+50,
+[
+"shire reeve"
+]
 ],
 [
 "electrician",
-49
+49,
+[]
 ],
 [
 "maritime pilot",
-49
+49,
+[
+"harbor pilot",
+"marine pilot",
+"pilot",
+"pilot of a ship",
+"port pilot",
+"ship pilot",
+"ship's pilot"
+]
 ],
 [
 "security guard",
-49
+49,
+[
+"guard",
+"security agent",
+"security guards",
+"security officer",
+"watchman"
+]
 ],
 [
 "condottiero",
-48
+48,
+[
+"condottiere",
+"condottieri",
+"venture captain",
+"venture captains"
+]
 ],
 [
 "webmaster",
-48
+48,
+[
+"site author",
+"web architect",
+"web developer",
+"webmistress",
+"webops",
+"website administrator",
+"website coordinator",
+"website operator"
+]
 ],
 [
 "extra",
-48
+48,
+[
+"background actor",
+"background character"
+]
 ],
 [
 "tour guide",
-47
+47,
+[]
 ],
 [
 "vicar",
-47
+47,
+[
+"kyrkoherde",
+"parish minister",
+"vikářky"
+]
 ],
 [
 "system administrator",
-47
+47,
+[
+"sysadmin",
+"System Administrator",
+"systems administrators",
+"webadmin",
+"web administrator",
+"web administrators"
+]
 ],
 [
 "military personnel",
-47
+47,
+[
+"military employee",
+"military forces",
+"military man",
+"military members",
+"military people",
+"military woman"
+]
 ],
 [
 "general practitioner",
-47
+47,
+[
+"family and general practitioner",
+"family doctor",
+"family physician",
+"generalist medical practitioners",
+"General Practice Doctor",
+"GP",
+"primary care physician"
+]
 ],
 [
 "sea captain",
-47
+47,
+[
+"captain",
+"captain of a ship",
+"maritime captain",
+"master",
+"nautical captain",
+"ship captain",
+"ship's captain",
+"ship's master"
+]
 ],
 [
 "influencer",
-46
+46,
+[
+"influence marketer",
+"influencer marketer",
+"internet influencer",
+"media influencer",
+"social media influencer"
+]
 ],
 [
 "mechanic",
-46
+46,
+[
+"grease monkey"
+]
 ],
 [
 "chef",
-46
+46,
+[
+"chef de cuisine"
+]
 ],
 [
 "designer",
-46
+46,
+[
+"design expert"
+]
 ],
 [
 "King of the Romans",
-46
+46,
+[
+"elected monarch of the Holy Roman Empire",
+"king of Germany"
+]
 ],
 [
 "bodyguard",
-46
+46,
+[
+"close protection officer",
+"close protection operative",
+"close protection specialist"
+]
 ],
 [
 "orator",
-45
+45,
+[
+"oratist",
+"oratorian",
+"public speaker",
+"speaker"
+]
 ],
 [
 "barista",
-45
+45,
+[]
 ],
 [
 "flying ace",
-45
+45,
+[
+"air ace",
+"fighter ace"
+]
 ],
 [
 "Japanese idol",
-45
+45,
+[
+"aidoru",
+"idol",
+"J-pop idol"
+]
 ],
 [
 "audio engineer",
-44
+44,
+[
+"first engineer",
+"musical engineer",
+"music engineer",
+"recording engineer",
+"sound director",
+"sound engineer",
+"sound producer"
+]
 ],
 [
 "pin-up model",
-44
+44,
+[
+"cheesecake",
+"female pin-up",
+"male pin-up",
+"pin-up boy",
+"pin-up girl"
+]
 ],
 [
 "sommelier",
-44
+44,
+[
+"degustateur de vin",
+"dégustateur de vin",
+"wine steward"
+]
 ],
 [
 "reporter",
-44
+44,
+[
+"news reporter"
+]
 ],
 [
 "software developer",
-43
+43,
+[
+"software developers",
+"software development engineer",
+"software studio"
+]
 ],
 [
 "white-collar worker",
-43
+43,
+[
+"nonmanual worker",
+"white collar workers"
+]
 ],
 [
 "animator",
-43
+43,
+[
+"animation artist",
+"cartoonist",
+"graphic artist"
+]
 ],
 [
 "bureaucrat",
-43
-],
-[
-"clockmaker",
-42
-],
-[
-"curator",
-42
-],
-[
-"lady-in-waiting",
-42
-],
-[
-"bartender",
-42
+43,
+[]
 ],
 [
 "miner",
-42
+42,
+[
+"military miner",
+"mine sapper",
+"miners"
+]
+],
+[
+"clockmaker",
+42,
+[
+"clock maker"
+]
+],
+[
+"curator",
+42,
+[
+"museum conservator",
+"museum curator"
+]
+],
+[
+"lady-in-waiting",
+42,
+[]
+],
+[
+"bartender",
+42,
+[
+"bar attendant",
+"barkeep",
+"barkeeper",
+"barmaid",
+"barman",
+"barperson",
+"bartenders",
+"barwoman",
+"drinks counter service worker"
+]
 ],
 [
 "computer scientist",
-42
+42,
+[]
 ],
 [
 "nanny",
-42
+42,
+[
+"manny",
+"nanny girl",
+"nannygirl"
+]
 ],
 [
 "spokesperson",
-41
+41,
+[
+"Press Officer",
+"spokesman",
+"spokesmen",
+"spokespeople",
+"spokespersons",
+"spokeswoman",
+"spokeswomen"
+]
 ],
 [
 "manager",
-41
+41,
+[
+"MG",
+"Mgr",
+"manager (professional wrestling)",
+"pro wrestling manager",
+"professional wrestling manager",
+"wrestling manager"
+]
 ],
 [
 "real estate agent",
-41
+41,
+[
+"real-estate agent",
+"real estate broker",
+"real-estate broker",
+"realtor"
+]
 ],
 [
 "illustrator",
-41
+41,
+[
+"book illustrator"
+]
 ],
 [
 "presenter",
-40
+40,
+[
+"host",
+"hostess"
+]
 ],
 [
 "devadasi",
-40
+40,
+[
+"Bayadere"
+]
 ],
 [
 "political commissar",
-40
+40,
+[
+"political officer"
+]
 ],
 [
 "agronomist",
-39
+39,
+[
+"agriculturalist",
+"agriculturist",
+"agronomists"
+]
 ],
 [
 "Khatun",
-39
+39,
+[
+"consort",
+"hatun",
+"kadin",
+"khaness",
+"khatan",
+"khātūn",
+"queen",
+"queen consort"
+]
 ],
 [
 "employer",
-39
+39,
+[]
 ],
 [
 "chimney sweep",
-39
+39,
+[
+"kominice",
+"kominíci"
+]
 ],
 [
 "graphic designer",
-39
+39,
+[]
 ],
 [
 "mime artist",
-39
+39,
+[
+"mime",
+"mimer",
+"pantomime",
+"pantomime artist",
+"pantomimist"
+]
 ],
 [
 "call girl",
-39
+39,
+[
+"female escort"
+]
 ],
 [
 "lumberjack",
-38
+38,
+[
+"bucker",
+"busheler",
+"chopper",
+"faller",
+"forestry technician",
+"jack",
+"jacking lumber",
+"logger",
+"logjammer",
+"lumberer",
+"lumber harvester",
+"lumberjacker",
+"lumberjill",
+"riverhog",
+"riverjack",
+"riverjill",
+"sawyer",
+"stumper-feller",
+"timber bucker",
+"timber faller",
+"woodcutter"
+]
 ],
 [
 "pedagogue",
-38
+38,
+[
+"educationalist",
+"educator",
+"paedagogue",
+"pedagogist"
+]
 ],
 [
 "white hat",
-38
+38,
+[
+"ethical hacker",
+"whitehat",
+"white hat hacker",
+"white-hat hacker"
+]
 ],
 [
 "apprentice",
-38
+38,
+[]
 ],
 [
 "archivist",
-38
+38,
+[]
 ],
 [
 "novelist",
-38
+38,
+[
+"novel author",
+"novel creator",
+"novel writer"
+]
 ],
 [
 "maid",
-38
+38,
+[
+"home cleaner",
+"house cleaner",
+"household assistant",
+"housemaid",
+"house maid girl",
+"housemaid girl",
+"housemaidgirl",
+"maidservant",
+"servant girl"
+]
 ],
 [
 "business magnate",
-38
+38,
+[
+"magnate",
+"tycoon"
+]
 ],
 [
 "correspondent",
-37
+37,
+[
+"on-the-scene reporter"
+]
 ],
 [
 "archaeologist",
-37
+37,
+[
+"archeologist",
+"arky"
+]
 ],
 [
 "stockbroker",
-37
+37,
+[
+"broker-dealer",
+"financial adviser",
+"investment adviser",
+"investment advisor",
+"investment broker",
+"investment professional",
+"registered investment adviser",
+"regulated broker",
+"sharebroker",
+"share holder registered representative",
+"stock broker",
+"trading representative",
+"wealth manager"
+]
 ],
 [
 "chief financial officer",
-37
+37,
+[
+"CFO",
+"CFOO",
+"chief financial and operating officer",
+"Chief Financial Officer",
+"chief financial officer (CFO)",
+"FD",
+"finance director",
+"Finance Director"
+]
 ],
 [
 "association football coach",
-37
+37,
+[
+"coach",
+"football coach",
+"football manager",
+"manager",
+"soccer coach",
+"soccer manager"
+]
 ],
 [
 "kaymakam",
-36
+36,
+[
+"Title for a district governor in Turkey, Northern Cyprus, Lebanon and the Ottoman Empire"
+]
 ],
 [
 "military attaché",
-36
+36,
+[
+"military attache"
+]
 ],
 [
 "seiyū",
-36
+36,
+[
+"character voice",
+"CV",
+"Japanese vocal actor/actress",
+"Japanese voice actor/actress",
+"seiyu",
+"seiyuu",
+"voice idol"
+]
 ],
 [
 "encyclopédistes",
-36
+36,
+[
+"encyclopedistes"
+]
 ],
 [
 "beekeeper",
-36
+36,
+[
+"apiarist",
+"apiculturist",
+"beekper",
+"honey farmer",
+"mesilastepidamine"
+]
 ],
 [
 "supermodel",
-36
+36,
+[
+"top model"
+]
 ],
 [
 "make-up artist",
-36
+36,
+[
+"celebrity make-up artist",
+"cinema make-up artist",
+"film make-up artist",
+"hair and make-up artist",
+"hair and make-up designer",
+"make-up and hair designer",
+"makeup artist",
+"make-up designer",
+"media make-up artist",
+"movie and stage make-up artist",
+"movie make-up artist",
+"MUA",
+"professional make-up artist",
+"SFX make-up artist",
+"special effects make-up artist",
+"theatrical make-up artist"
+]
 ],
 [
 "navigator",
-35
+35,
+[
+"naval navigator",
+"pilot"
+]
 ],
 [
 "farmworker",
-35
+35,
+[
+"agricultural worker",
+"agriculture worker",
+"farm hand",
+"farm worker",
+"field hand",
+"field laborer",
+"land worker",
+"menial",
+"ranch worker",
+"rural worker"
+]
 ],
 [
 "television producer",
-35
+35,
+[
+"producer",
+"producer (television)",
+"series producer",
+"television executive producer",
+"TV producer"
+]
 ],
 [
 "miller",
-35
+35,
+[]
 ],
 [
 "ballet dancer",
-35
+35,
+[
+"ballerina",
+"ballet performer"
+]
 ],
 [
 "jockey",
-35
+35,
+[]
 ],
 [
 "skald",
-35
+35,
+[]
 ],
 [
 "columnist",
-34
+34,
+[
+"newspaper columnist",
+"syndicated columnist"
+]
 ],
 [
 "seneschal",
-34
+34,
+[
+"Dapifer",
+"senechal",
+"steward"
+]
 ],
 [
 "linguist",
-34
-],
+34,
 [
-"joiner",
-34
-],
-[
-"street vendor",
-34
-],
-[
-"treasurer",
-34
-],
-[
-"preacher",
-34
-],
-[
-"griot",
-34
+"linguistic scholar"
+]
 ],
 [
 "art director",
-34
+34,
+[
+"art manager",
+"artistic coordinator"
+]
+],
+[
+"joiner",
+34,
+[]
+],
+[
+"street vendor",
+34,
+[
+"bazaar",
+"fairs",
+"farmers' market",
+"flea market",
+"hawker",
+"hawking",
+"mobile seller",
+"road show",
+"rural market",
+"street hawker",
+"street traders",
+"street vending"
+]
+],
+[
+"treasurer",
+34,
+[]
+],
+[
+"preacher",
+34,
+[
+"homilist"
+]
+],
+[
+"griot",
+34,
+[
+"jali",
+"jeli"
+]
 ],
 [
 "test pilot",
-34
+34,
+[]
 ],
 [
 "envoy extraordinary and minister plenipotentiary",
-33
+33,
+[
+"envoy",
+"minister",
+"minister plenipotentiary"
+]
 ],
 [
 "mandarin",
-33
+33,
+[]
 ],
 [
 "costume designer",
-33
+33,
+[
+"costume coordinator",
+"costume maker",
+"costumer",
+"costumier"
+]
 ],
 [
 "consultant",
-33
+33,
+[
+"consultant physician",
+"consultant surgeon",
+"medical consultant"
+]
 ],
 [
 "voice actor",
-33
+33,
+[
+"V A",
+"V.A.",
+"VA",
+"vocal actor",
+"vocal actress",
+"vocal artist",
+"voice actress",
+"voice artist",
+"voice-over artist",
+"voiceover artist",
+"voice-over performer"
+]
 ],
 [
 "lifeguard",
-33
+33,
+[]
 ],
 [
 "news presenter",
-33
+33,
+[
+"anchor",
+"anchorman",
+"anchor person",
+"anchorperson",
+"anchorwoman",
+"news anchor",
+"newscaster",
+"newsreader",
+"television anchor",
+"television news anchor",
+"tv anchor"
+]
 ],
 [
 "yogi",
-33
+33,
+[
+"male yogi",
+"yogin"
+]
 ],
 [
 "cantor",
-33
+33,
+[
+"precentor",
+"protopsaltes"
+]
 ],
 [
 "prefect",
-33
+33,
+[]
 ],
 [
 "journeyman",
-33
+33,
+[
+"journeyperson",
+"journeywoman"
+]
 ],
 [
 "bounty hunter",
-33
+33,
+[
+"bounty huntress"
+]
 ],
 [
 "chief operating officer",
-33
+33,
+[
+"Chief of operations",
+"chief operations officier",
+"COO",
+"Operations officer"
+]
 ],
 [
 "ama",
-32
+32,
+[]
 ],
 [
 "war correspondent",
-32
+32,
+[
+"milblogger",
+"military journalist",
+"war journalist",
+"war reporter"
+]
 ],
 [
 "doorkeeper",
-32
+32,
+[
+"doorkeepers",
+"doorman",
+"doormen",
+"doorperson",
+"doorpersons",
+"doorwoman",
+"doorwomen",
+"porter",
+"porters"
+]
 ],
 [
 "cashier",
-32
+32,
+[]
 ],
 [
 "Islamic jurist",
-32
+32,
+[
+"Faqih",
+"Muslim jurist"
+]
 ],
 [
 "truck driver",
-32
+32,
+[
+"driver",
+"lorry driver",
+"truck drivers",
+"trucker",
+"truckie"
+]
 ],
 [
 "chief technology officer",
-32
+32,
+[
+"chief technical officer",
+"CTO"
+]
 ],
 [
 "doula",
-32
+32,
+[]
 ],
 [
 "Egyptologist",
-31
+31,
+[]
 ],
 [
 "showrunner",
-31
+31,
+[
+"television show creator"
+]
 ],
 [
 "chamberlain",
-31
+31,
+[]
 ],
 [
 "technician",
-31
+31,
+[
+"worker in technology"
+]
 ],
 [
 "dancer",
-31
+31,
+[]
 ],
 [
 "peddler",
-31
+31,
+[
+"canvasser",
+"cheapjack",
+"colporteur",
+"door-to-door salespersons",
+"door-to-door seller",
+"higler",
+"huckster",
+"monger",
+"pedlar",
+"solicitor",
+"travelling salesman"
+]
 ],
 [
 "bookmaker",
-31
+31,
+[
+"bookie",
+"turf accountant"
+]
 ],
 [
 "web developer",
-31
+31,
+[
+"webdev",
+"Web developer",
+"Website developer"
+]
 ],
 [
 "project manager",
-31
+31,
+[
+"project coordinator",
+"project lead"
+]
 ],
 [
 "air traffic controller",
-31
+31,
+[
+"Air Traffic Controller",
+"Air Traffic Controller, ATC",
+"ATCo"
+]
 ],
 [
 "double agent",
-30
+30,
+[
+"double secret agent"
+]
 ],
 [
 "health professional",
-30
+30,
+[
+"health care personnel",
+"healthcare personnel",
+"health care provider",
+"health care worker",
+"health-care worker",
+"healthcare worker",
+"health professionals",
+"health worker",
+"medical personnel",
+"medical practitioner",
+"medical professional"
+]
 ],
 [
 "theologian",
-30
+30,
+[
+"theologist"
+]
 ],
 [
 "supervisor",
-30
+30,
+[
+"area coordinator",
+"boss",
+"cell coach",
+"facilitator",
+"foreman",
+"foreperson",
+"manager",
+"overseer",
+"straw boss",
+"supervisors"
+]
 ],
 [
 "train driver",
-30
+30,
+[
+"engine driver",
+"loco pilot",
+"railroad engineer",
+"railway driver",
+"train operator"
+]
 ],
 [
 "Financa negocisto",
-30
+30,
+[
+"financial trader",
+"securities trader",
+"Trader"
+]
 ],
 [
 "castellan",
-30
+30,
+[
+"Warden"
+]
 ],
 [
 "sports commentator",
-30
-],
+30,
 [
-"professional dominatrix",
-30
-],
-[
-"bullfighter",
-30
+"Football commentary",
+"Football commentator",
+"play by play announcer",
+"play-by-play announcer",
+"shoutcaster",
+"sport commentator",
+"sport commentators",
+"sports anchor",
+"sports announcer",
+"sports broadcaster",
+"sportscaster",
+"sports commentators",
+"sports narrator"
+]
 ],
 [
 "clerk",
-30
+30,
+[
+"chief clerk",
+"clerical worker",
+"secretary"
+]
+],
+[
+"professional dominatrix",
+30,
+[
+"domme",
+"mistress",
+"pro-dom",
+"pro-domme",
+"professional dominant"
+]
+],
+[
+"bullfighter",
+30,
+[
+"toreador",
+"torero"
+]
 ],
 [
 "construction worker",
-30
+30,
+[
+"builder",
+"building construction worker"
+]
 ],
 [
 "tutor",
-30
+30,
+[
+"private teacher",
+"private tutor"
+]
 ],
 [
 "character actor",
-30
+30,
+[
+"character actress"
+]
 ],
 [
 "child actor",
-30
+30,
+[
+"child actress",
+"juvenile actor",
+"teen actor"
+]
 ],
 [
 "postdoctoral researcher",
-29
+29,
+[
+"post-doc",
+"postdoc",
+"PostDoc",
+"PostDoc researcher",
+"postdoc research fellow",
+"post-doctoral associate",
+"postdoctoral associate",
+"postdoctoral fellow",
+"Post Doctoral fellow",
+"post-doctoral research associate",
+"postdoctoral research associate",
+"post-doctoral researcher",
+"post-doctoral scholar",
+"postdoctoral scholar",
+"Post-Doctorate",
+"post-doctorate fellow",
+"postdoctorate fellow"
+]
 ],
 [
 "silovik",
-29
+29,
+[
+"securocrat"
+]
 ],
 [
 "playback singer",
-29
+29,
+[
+"ghosting",
+"ghost singing",
+"playback singing in film",
+"playback vocalist"
+]
 ],
 [
 "television director",
-29
+29,
+[
+"TV director"
+]
 ],
 [
 "meteorologist",
-29
+29,
+[
+"meteorologists",
+"weatherologist"
+]
 ],
 [
 "concierge",
-29
+29,
+[
+"property caretaker"
+]
 ],
 [
 "prison officer",
-29
+29,
+[
+"correctional officer",
+"corrections officer",
+"detention officer",
+"gaoler",
+"jailer",
+"penal officer",
+"prison guard",
+"prison guards"
+]
 ],
 [
 "onna-musha",
-29
+29,
+[
+"female samurai",
+"samurai women"
+]
 ],
 [
 "salesperson",
-29
+29,
+[
+"sales agent",
+"sales associate",
+"salesman",
+"salespeople",
+"sales personnel",
+"saleswoman",
+"seller"
+]
 ],
 [
 "aoidos",
-29
+29,
+[]
 ],
 [
 "spy",
-29
+29,
+[
+"clandestine officer",
+"intelligence agent",
+"secret agent"
+]
 ],
 [
 "keyboardist",
-28
+28,
+[
+"clavierist",
+"keyboard instrumentalist",
+"keyboard player"
+]
 ],
 [
 "stripper",
-28
+28,
+[
+"feature dancer",
+"show dancer",
+"striptease artist",
+"striptease dancer",
+"striptease performer",
+"stripteaser"
+]
 ],
 [
 "Dabbawala",
-28
+28,
+[
+"Tiffin Wallah"
+]
 ],
 [
 "novice",
-28
+28,
+[
+"greenhorn",
+"newcomer"
+]
 ],
 [
 "black hat",
-28
+28,
+[
+"blackhat",
+"black hat hacker",
+"black-hat hacker",
+"criminal hacker",
+"malicious hacker"
+]
 ],
 [
 "mohel",
-28
+28,
+[
+"Jewish circumciser",
+"ritual circumciser",
+"Моэль (профессия)"
+]
 ],
 [
 "chief information officer",
-28
+28,
+[
+"Chief Information Officer",
+"CIO"
+]
 ],
 [
 "biochemist",
-28
+28,
+[
+"biological chemist"
+]
 ],
 [
 "justice of the peace",
-28
+28,
+[
+"commissioner of the peace",
+"J.P.",
+"JP",
+"KP"
+]
 ],
 [
 "contract killer",
-28
+28,
+[
+"hitman"
+]
 ],
 [
 "anthropologist",
-28
+28,
+[]
 ],
 [
 "bailiff",
-28
+28,
+[
+"baile",
+"bailli",
+"batle",
+"bayle",
+"court officer"
+]
 ],
 [
 "ship-owner",
-28
+28,
+[
+"ship owner",
+"shipowner"
+]
 ],
 [
 "mahout",
-28
+28,
+[]
 ],
 [
 "video jockey",
-28
+28,
+[
+"veejay",
+"visual jockey",
+"VJ"
+]
 ],
 [
 "network administrator",
-28
+28,
+[]
 ],
 [
 "ballet master",
-28
+28,
+[
+"balletmaster"
+]
 ],
 [
 "banker",
-28
+28,
+[
+"Private Banker",
+"private sector banker"
+]
 ],
 [
 "welder",
-28
+28,
+[]
 ],
 [
 "editing staff",
-28
+28,
+[
+"redactor"
+]
 ],
 [
 "fedayeen",
-28
+28,
+[
+"fedayân",
+"fidāʻiyy",
+"fidāʻiyyūn",
+"fidayun"
+]
 ],
 [
 "database administrator",
-27
+27,
+[
+"data base administrator",
+"DBA"
+]
 ],
 [
 "dragoman",
-27
+27,
+[]
 ],
 [
 "instrumentalist",
-27
+27,
+[]
 ],
 [
 "barracks emperor",
-27
+27,
+[
+"barrack emperor",
+"military anarchy",
+"soldier emperor"
+]
 ],
 [
 "announcer",
-27
+27,
+[
+"radio announcer",
+"radio broadcaster"
+]
 ],
 [
 "coppersmith",
-27
+27,
+[
+"redsmith"
+]
 ],
 [
 "teaching assistant",
-27
+27,
+[
+"assistant teacher",
+"EA",
+"education assistant",
+"TA",
+"teacher's aide"
+]
 ],
 [
 "puppeteer",
-27
+27,
+[
+"marionettist",
+"puppet artist"
+]
 ],
 [
 "statistician",
-27
+27,
+[
+"statisticians"
+]
 ],
 [
 "painter and varnisher",
-27
+27,
+[
+"decorator",
+"house decorator",
+"house painter",
+"painter"
+]
 ],
 [
 "qāriʾ",
-27
+27,
+[
+"Quran reciter"
+]
 ],
 [
 "antiquarian",
-27
+27,
+[
+"antiquary"
+]
 ],
 [
 "expert witness",
-27
+27,
+[
+"expert testimony",
+"forensic expert",
+"judicial expert",
+"professional advisers",
+"professional witness"
+]
 ],
 [
 "butler",
-27
+27,
+[
+"butler boy",
+"manservant"
+]
 ],
 [
 "pastry chef",
-26
+26,
+[
+"patissier",
+"pâtissier"
+]
 ],
 [
 "first officer",
-26
+26,
+[
+"co-pilot",
+"copilot"
+]
 ],
 [
 "professional mourning",
-26
+26,
+[]
 ],
 [
 "urban planner",
-26
+26,
+[
+"city planner",
+"municipal planner",
+"town planner",
+"urbanist"
+]
 ],
 [
 "stevedore",
-26
+26,
+[
+"docker",
+"dock laborer",
+"dockworker",
+"longshoreman",
+"lumper",
+"waterfront labourer",
+"waterside labourer",
+"waterside worker",
+"wharfie",
+"wharf labourer",
+"wharf rat"
+]
 ],
 [
 "governess",
-26
+26,
+[]
 ],
 [
 "astrologer",
-26
+26,
+[
+"astrologist"
+]
 ],
 [
 "rag-and-bone man",
-26
+26,
+[
+"junkman"
+]
 ],
 [
 "receptionist",
-26
+26,
+[]
 ],
 [
 "forester",
-26
-],
+26,
 [
-"sociologist",
-26
+"woodward"
+]
 ],
 [
 "helmsman",
-26
+26,
+[
+"driver",
+"helms",
+"helmsperson"
+]
+],
+[
+"sociologist",
+26,
+[]
 ],
 [
 "radio personality",
-26
+26,
+[
+"host",
+"radio host",
+"radio jockey",
+"radio people",
+"radio presenter",
+"radio program boss",
+"RJ"
+]
 ],
 [
 "milk deliverer",
-26
+26,
+[
+"milk delivery",
+"milk man",
+"milkman",
+"milk men",
+"milk peddler",
+"milkwoman"
+]
 ],
 [
 "general contractor",
-26
+26,
+[
+"main contractor",
+"master builder",
+"MOE",
+"prime contractor"
+]
 ],
 [
 "funeral director",
-26
+26,
+[
+"funeral home director",
+"mortician",
+"undertaker"
+]
 ],
 [
 "adjunct professor",
-26
+26,
+[
+"accredited professor",
+"voluntary professor",
+"volunteer professor"
+]
 ],
 [
 "luthier",
-26
+26,
+[
+"string instrument maker"
+]
 ],
 [
 "glossator",
-25
+25,
+[]
 ],
 [
 "muhaddith",
-25
+25,
+[
+"hadith scholar",
+"Muhadit"
+]
 ],
 [
 "political scientist",
-25
+25,
+[
+"political scientists",
+"politologist"
+]
 ],
 [
 "hospodar",
-25
+25,
+[]
 ],
 [
 "dental technician",
-25
+25,
+[
+"Dental Technicians"
+]
 ],
 [
 "porter",
-25
+25,
+[
+"bearer",
+"gatekeeper"
+]
 ],
 [
 "pundit",
-25
+25,
+[
+"commentator",
+"famous pundit",
+"pandit",
+"pandits",
+"pundits",
+"talking head"
+]
 ],
 [
 "software engineer",
-25
+25,
+[
+"coder",
+"dev",
+"developer",
+"programmer"
+]
 ],
 [
 "theoretical physicist",
-25
+25,
+[]
 ],
 [
 "croupier",
-25
+25,
+[
+"dealer"
+]
 ],
 [
 "stonemason",
-25
+25,
+[
+"master mason",
+"stone cutter",
+"stonecutter",
+"stone mason"
+]
 ],
 [
 "environmentalist",
-25
+25,
+[
+"conservationist",
+"environmental activist"
+]
 ],
 [
 "meddah",
-25
+25,
+[]
 ],
 [
 "master of ceremonies",
-25
+25,
+[
+"compere",
+"compère",
+"mc"
+]
 ],
 [
 "knife grinder",
-25
+25,
+[
+"knife sharpener",
+"Sharpeners"
+]
 ],
 [
 "sofer",
-25
+25,
+[
+"Scribes",
+"sopherim",
+"The Scribes",
+"the sopherim"
+]
 ],
 [
 "gravedigger",
-25
+25,
+[
+"grave digger"
+]
 ],
 [
 "mountain guide",
-25
+25,
+[]
 ],
 [
 "business broker",
-25
+25,
+[
+"business transfer agent"
+]
 ],
 [
 "computer",
-24
+24,
+[
+"human computer",
+"reckoner"
+]
 ],
 [
 "logothete",
-24
+24,
+[]
 ],
 [
 "civil engineer",
-24
+24,
+[
+"civil engineers"
+]
 ],
 [
 "snake charmer",
-24
+24,
+[]
 ],
 [
 "draftsperson",
-24
+24,
+[
+"author of the drawing",
+"drafter",
+"draftsman",
+"draftswoman",
+"draughtsman",
+"draughtsperson",
+"draughtswoman",
+"drawer",
+"drawer (artist)",
+"illustrator",
+"master draughtsman",
+"sketch artist",
+"sketcher"
+]
 ],
 [
 "art model",
-24
+24,
+[
+"artist's model",
+"artists' model",
+"model",
+"painter's model",
+"poser",
+"sculptor's model",
+"sitter"
+]
 ],
 [
 "hunter",
-24
+24,
+[
+"huntress",
+"huntsman",
+"huntswoman"
+]
 ],
 [
 "assistant director",
-24
+24,
+[
+"AD",
+"Assistant Director",
+"associate director"
+]
 ],
 [
 "cleaner",
-24
+24,
+[
+"janitor"
+]
 ],
 [
 "optician",
-24
+24,
+[]
 ],
 [
 "prorector",
-24
+24,
+[
+"assistant principal.",
+"deputy principal",
+"vice principal",
+"vice-principal",
+"vice-rector"
+]
 ],
 [
 "botanist",
-24
+24,
+[
+"phytologist",
+"plant biologist",
+"plant scientist"
+]
 ],
 [
 "Nazis hunter",
-24
+24,
+[
+"Nazi hunter"
+]
 ],
 [
 "akhoond",
-24
+24,
+[
+"akhund",
+"akhwand"
+]
 ],
 [
 "scenographer",
-24
+24,
+[
+"scenic designer",
+"set designer",
+"stage designer"
+]
 ],
 [
 "literary agent",
-24
+24,
+[
+"publishing agent",
+"writer's representative"
+]
 ],
 [
 "landscape architect",
-24
+24,
+[
+"landscape architects",
+"landscape designer"
+]
 ],
 [
 "surveyor",
-24
+24,
+[
+"geodetic surveyor",
+"geomatics surveyor",
+"surveyors",
+"women surveyor"
+]
 ],
 [
 "locksmith",
-24
+24,
+[]
 ],
 [
 "game designer",
-24
+24,
+[
+"game creator",
+"puzzle creator"
+]
 ],
 [
 "apparatchik",
-24
+24,
+[]
 ],
 [
 "art critic",
-24
+24,
+[
+"art criticism"
+]
 ],
 [
 "dramaturge",
-24
+24,
+[
+"dramatic adviser",
+"dramaturg",
+"outside eye"
+]
 ],
 [
 "perfumer",
-24
+24,
+[
+"fragrance designer",
+"fragrance maker",
+"master perfumer",
+"nose",
+"perfume designer",
+"perfume maker",
+"perfumist"
+]
 ],
 [
 "opinion journalist",
-24
+24,
+[
+"opinion writer",
+"publicist"
+]
 ],
 [
 "creative director",
-24
+24,
+[
+"CD",
+"creative"
+]
 ],
 [
 "auto mechanic",
-24
+24,
+[
+"automobile mechanic",
+"automotive mechanic",
+"car mechanic"
+]
 ],
 [
 "personal trainer",
-24
+24,
+[
+"fitness instructor",
+"fitness trainer",
+"physical fitness instructor",
+"physical fitness trainer"
+]
 ],
 [
 "bus driver",
-24
+24,
+[
+"bus conductor",
+"bus operator",
+"omnibus driver"
+]
 ],
 [
 "day labourer",
-24
+24,
+[]
 ],
 [
 "statutory auditor",
-23
+23,
+[]
 ],
 [
 "cartoonist",
-23
+23,
+[
+"animator",
+"cartoon artist",
+"graphic artist",
+"illustrator"
+]
 ],
 [
 "tax collector",
-23
+23,
+[
+"revenue collector"
+]
 ],
 [
 "virologist",
-23
+23,
+[
+"virologists"
+]
 ],
 [
 "intermediary",
-23
+23,
+[
+"go-between",
+"mediator",
+"middle-man",
+"middleman"
+]
 ],
 [
 "research fellow",
-23
+23,
+[
+"teacher-researcher"
+]
 ],
 [
 "saddler",
-23
+23,
+[
+"harness maker",
+"horse harness maker",
+"leather harness maker",
+"saddle maker",
+"saddle-maker",
+"saddlemaker"
+]
 ],
 [
 "milkmaid",
-23
+23,
+[
+"milk maid"
+]
 ],
 [
 "silversmith",
-23
+23,
+[]
 ],
 [
 "production designer",
-23
+23,
+[]
 ],
 [
 "filibuster",
-23
+23,
+[
+"Filibuster (military)"
+]
 ],
 [
 "money changer",
-23
-],
-[
-"essayist",
-22
-],
-[
-"general manager",
-22
-],
-[
-"soloist",
-22
-],
-[
-"military leader",
-22
-],
-[
-"sports agent",
-22
-],
-[
-"park ranger",
-22
-],
-[
-"prostitute",
-22
-],
-[
-"loan shark",
-22
-],
-[
-"hydronaut",
-22
-],
-[
-"inspector",
-22
+23,
+[]
 ],
 [
 "social worker",
-22
+22,
+[
+"social assistant",
+"social welfare officer",
+"social workers",
+"welfare worker"
+]
+],
+[
+"essayist",
+22,
+[
+"essayists",
+"essay writer"
+]
+],
+[
+"inspector",
+22,
+[
+"police inspector",
+"police lieutenant"
+]
+],
+[
+"general manager",
+22,
+[
+"corporate general manager"
+]
+],
+[
+"soloist",
+22,
+[
+"solo artist"
+]
+],
+[
+"military leader",
+22,
+[]
+],
+[
+"sports agent",
+22,
+[]
+],
+[
+"park ranger",
+22,
+[
+"forest ranger",
+"park warden",
+"ranger"
+]
+],
+[
+"prostitute",
+22,
+[
+"call boy",
+"call boys",
+"call girl",
+"call girls",
+"gentleman of the night",
+"gentlemen of the night",
+"ladies of the night",
+"lady of the night",
+"prostitutes",
+"sex worker",
+"sex workers",
+"streetwalker",
+"streetwalkers",
+"whore",
+"whores",
+"working boy",
+"working boys",
+"working girl",
+"working girls"
+]
+],
+[
+"loan shark",
+22,
+[
+"Loan shark",
+"usurer"
+]
+],
+[
+"hydronaut",
+22,
+[
+"aquanaut"
+]
 ],
 [
 "night watchman",
-22
+22,
+[]
 ],
 [
 "educator",
-22
+22,
+[
+"teacher"
+]
 ],
 [
 "chief physician",
-21
+21,
+[
+"chief of medicine",
+"head of clinical department",
+"head physician",
+"physician in chief",
+"senior consultant"
+]
 ],
 [
 "janitor",
-21
+21,
+[
+"building manager",
+"building superintendent",
+"caretaker",
+"custodian",
+"custodian-engineer",
+"facility manager",
+"superintendent of buildings and grounds"
+]
 ],
 [
 "pilot in command",
-21
+21,
+[
+"aircraft captain",
+"airplane captain",
+"captain",
+"captain of an aircraft",
+"captain of an airplane",
+"PIC",
+"pilots in command"
+]
 ],
 [
 "impressionist",
-21
+21,
+[
+"imitator",
+"impersonator",
+"mimic",
+"mimicry artist",
+"Monomane Geinin",
+"parodist"
+]
 ],
 [
 "kunoichi",
-21
+21,
+[]
 ],
 [
 "broker-dealer",
-21
+21,
+[
+"broker",
+"brokerage",
+"online broker",
+"stock broker"
+]
 ],
 [
 "script",
-21
+21,
+[
+"continuity clerk",
+"continuity supervisor",
+"scriptgirl",
+"script supervisor"
+]
 ],
 [
 "carabinier",
-21
+21,
+[
+"Carabineer",
+"Carbineer"
+]
 ],
 [
 "harbormaster",
-21
+21,
+[
+"harbor master",
+"harbour master",
+"harbourmaster",
+"port authorities",
+"port master",
+"portmaster"
+]
 ],
 [
 "motivational speaker",
-21
+21,
+[
+"inspirational speaker"
+]
 ],
 [
 "paleontologist",
-21
+21,
+[
+"palaeontologist"
+]
 ],
 [
 "naturalist",
-21
+21,
+[
+"natural historian",
+"natural scientist"
+]
 ],
 [
 "psychotherapist",
-21
+21,
+[
+"psycotherapist"
+]
 ],
 [
 "organ builder",
-21
+21,
+[
+"organ constructor",
+"organ maker"
+]
 ],
 [
 "deaconess",
-21
+21,
+[
+"deaconesses"
+]
 ],
 [
 "mountain man",
-21
+21,
+[]
 ],
 [
 "murshid",
-21
+21,
+[
+"murshidah"
+]
 ],
 [
 "publisher",
-21
+21,
+[
+"publishing director",
+"publishing executive"
+]
 ],
 [
 "station master",
-21
+21,
+[
+"railway station manager",
+"station agent",
+"station manager",
+"stationmaster"
+]
 ],
 [
 "geneticist",
-21
+21,
+[]
 ],
 [
 "potter",
-21
+21,
+[
+"pottery maker"
+]
 ],
 [
 "fashion designer",
-21
+21,
+[
+"clothing designer",
+"couturier"
+]
 ],
 [
 "microbiologist",
-21
+21,
+[]
 ],
 [
 "somatophylakes",
-21
+21,
+[]
 ],
 [
 "arabist",
-21
+21,
+[]
 ],
 [
 "executor",
-21
+21,
+[]
 ],
 [
 "tax advisor",
-21
+21,
+[
+"fiscal consultant",
+"tax consultant"
+]
 ],
 [
 "film editor",
-21
+21,
+[
+"editing director",
+"editor",
+"motion picture editor",
+"video editor"
+]
 ],
 [
 "chemical engineer",
-21
+21,
+[
+"chemical engineers"
+]
 ],
 [
 "Posek",
-21
+21,
+[
+"פוסק"
+]
 ],
 [
 "choir director",
-20
+20,
+[
+"choir conductor",
+"Choir Leader",
+"choirmaster",
+"choral conductor",
+"chorister",
+"chorist-master",
+"chorus conductor",
+"chorus director",
+"regens chori",
+"regenschorové"
+]
 ],
 [
 "grey hat",
-20
+20,
+[]
 ],
 [
 "talent agent",
-20
+20,
+[
+"agent",
+"booking agent",
+"theatrical agent"
+]
 ],
 [
 "lackey",
-20
+20,
+[]
 ],
 [
 "magician",
-20
+20,
+[
+"conjurer",
+"illusionist",
+"prestidigitateur",
+"stage magician",
+"street magician"
+]
 ],
 [
 "maître d'hôtel",
-20
+20,
+[
+"maître d'"
+]
 ],
 [
 "bellhop",
-20
+20,
+[
+"bellboy",
+"bellman",
+"hotel porter"
+]
 ],
 [
 "matador",
-20
+20,
+[]
 ],
 [
 "co-driver",
-20
+20,
+[
+"navegador"
+]
 ],
 [
 "virtual assistant",
-20
+20,
+[
+"online assistant",
+"remote worker",
+"virtual staff member"
+]
 ],
 [
 "video game producer",
-20
+20,
+[
+"game producer"
+]
 ],
 [
 "yogini",
-20
+20,
+[
+"female yogi",
+"woman yogi"
+]
 ],
 [
 "natural resource management",
-20
+20,
+[
+"management of natural resources",
+"natural resources management"
+]
 ],
 [
 "Korean idol",
-20
+20,
+[]
 ],
 [
 "apologist",
-20
+20,
+[
+"Christian apologist",
+"Christian apologists"
+]
 ],
 [
 "arborist",
-20
+20,
+[
+"arboriculturist",
+"tree doctor",
+"tree surgeon",
+"tree technican",
+"tree worker"
+]
 ],
 [
 "winegrower",
-20
+20,
+[
+"grape grower",
+"Vigneron",
+"viticulturist",
+"winemaker"
+]
+],
+[
+"certified public accountant",
+19,
+[
+"CPA"
+]
+],
+[
+"race queen",
+19,
+[
+"grid girl",
+"grid-girl",
+"Paddock girl"
+]
+],
+[
+"connoisseur",
+19,
+[
+"connaisseur"
+]
+],
+[
+"sporting director",
+19,
+[
+"directeur sportif",
+"sporting director (cycling)"
+]
+],
+[
+"switchboard operator",
+19,
+[
+"telephone operator",
+"telephonist"
+]
+],
+[
+"office lady",
+19,
+[
+"OL"
+]
+],
+[
+"supporting actor",
+19,
+[
+"day player",
+"supporting actress"
+]
+],
+[
+"laboratory technician",
+19,
+[
+"laboratorian",
+"laboratory assistant",
+"Laboratory technician",
+"laboratory worker",
+"lab technician",
+"research assistant",
+"research technician",
+"research technologist"
+]
+],
+[
+"technical writer",
+19,
+[
+"documentarian",
+"documenter",
+"technical author"
+]
+],
+[
+"bacteriologist",
+19,
+[]
+],
+[
+"lighthouse keeper",
+19,
+[
+"lighthouse keepers",
+"light keeper"
+]
+],
+[
+"art historian",
+19,
+[
+"historian of art"
+]
+],
+[
+"paperboy",
+19,
+[
+"newspaper boy",
+"newspaper carrier",
+"newspaper deliverer",
+"paper boy"
+]
+],
+[
+"machinist",
+19,
+[
+"fitter",
+"fitter and turner"
+]
+],
+[
+"financier",
+19,
+[]
+],
+[
+"street artist",
+19,
+[
+"busker",
+"street artists",
+"street performer",
+"urban artist"
+]
+],
+[
+"taxi driver",
+19,
+[
+"cabbie",
+"cab driver",
+"taxicab driver",
+"taxi drivers"
+]
+],
+[
+"chocolatier",
+19,
+[]
+],
+[
+"marksman",
+19,
+[
+"sharpshooter",
+"sniper"
+]
+],
+[
+"basketball player",
+19,
+[
+"basketballer",
+"basketeer",
+"cager",
+"hoopster",
+"professional basketball player"
+]
+],
+[
+"literary critic",
+19,
+[
+"book critic",
+"critic of literature",
+"literary critique",
+"literature critic"
+]
+],
+[
+"oblate",
+19,
+[]
+],
+[
+"promotional model",
+18,
+[
+"booth babe",
+"spokesmodel"
+]
+],
+[
+"humorist",
+18,
+[
+"raconteur"
+]
+],
+[
+"financial analyst",
+18,
+[
+"equity analyst",
+"financial analysts",
+"investment analyst",
+"rating analyst",
+"securities analyst"
+]
+],
+[
+"town crier",
+18,
+[
+"bellman"
+]
+],
+[
+"cartographer",
+18,
+[
+"cartographic scientist"
+]
+],
+[
+"répétiteur",
+18,
+[
+"ballet repetiteur",
+"opera repetiteur",
+"rehearsal director",
+"repetiteur"
+]
+],
+[
+"strongman",
+18,
+[]
+],
+[
+"Muhtasib",
+18,
+[
+"Muhtesip"
+]
+],
+[
+"philosopher king",
+18,
+[]
+],
+[
+"cricket umpire",
+18,
+[
+"umpire",
+"Umpire"
+]
+],
+[
+"choreographer",
+18,
+[
+"choregrapher",
+"choreographist"
+]
+],
+[
+"liaison officer",
+18,
+[
+"LNO"
+]
+],
+[
+"healer",
+18,
+[
+"folk healer"
+]
+],
+[
+"counsel",
+18,
+[
+"counsellor at law",
+"juris-consultant",
+"legal adviser",
+"legal advisor",
+"legal consultant",
+"legal counsel"
+]
+],
+[
+"medicine man",
+18,
+[
+"healer",
+"medicine-man",
+"medicine woman",
+"physician"
+]
+],
+[
+"rikishi",
+18,
+[
+"Rikishi",
+"sumotori",
+"sumōtori",
+"sumo wrestler"
+]
+],
+[
+"train manager",
+18,
+[
+"conductor",
+"conductor in chief",
+"conductor-in-chief",
+"guard",
+"rail guard",
+"railway guard",
+"senior conductor",
+"train conductor"
+]
+],
+[
+"adviser",
+18,
+[
+"advisor",
+"counsel",
+"of counsel"
+]
+],
+[
+"chronicler",
+18,
+[
+"annalist",
+"Cronista"
+]
+],
+[
+"tinker",
+18,
+[
+"Tinker"
+]
+],
+[
+"zoologist",
+18,
+[]
+],
+[
+"producer",
+18,
+[]
+],
+[
+"Benshi",
+18,
+[
+"katsuben"
+]
+],
+[
+"paraveterinary worker",
+18,
+[
+"veterinary assistant",
+"veterinary nurse",
+"veterinary technician"
+]
+],
+[
+"occupational therapist",
+18,
+[
+"Occupational Therapist"
+]
+],
+[
+"performing artist",
+18,
+[
+"artist",
+"music hall performer",
+"performer",
+"performers",
+"scenic artist"
+]
+],
+[
+"conferencier",
+18,
+[
+"compere",
+"compère"
+]
+],
+[
+"legal agent",
+18,
+[
+"agency",
+"agent",
+"law of agency",
+"legal representation"
+]
+],
+[
+"mountaineer",
+18,
+[
+"alpinist",
+"mountain climber"
+]
+],
+[
+"gig worker",
+18,
+[]
+],
+[
+"court painter",
+18,
+[]
+],
+[
+"moralist",
+17,
+[
+"French moralist"
+]
+],
+[
+"Geji",
+17,
+[
+"female musician",
+"singing girl",
+"Yiji"
+]
+],
+[
+"buyer",
+17,
+[
+"buyers",
+"customer",
+"paid customer",
+"payer",
+"paying customer",
+"purchaser"
+]
+],
+[
+"scout",
+17,
+[
+"scouts",
+"sport scout",
+"talent scout"
+]
+],
+[
+"train dispatcher",
+17,
+[
+"rail traffic controller",
+"train controller"
+]
+],
+[
+"media proprietor",
+17,
+[
+"media expert",
+"media magnate",
+"media mogul",
+"press magnate"
+]
+],
+[
+"copywriter",
+17,
+[
+"copy writer"
+]
+],
+[
+"evolutionary biologist",
+17,
+[]
+],
+[
+"hotel manager",
+17,
+[
+"hotelier",
+"Hotelier",
+"Hoteliers",
+"hotel keeper",
+"hotelkeeper",
+"Hotel Manager",
+"hotel managers",
+"hotel operator",
+"lodging manager"
+]
+],
+[
+"literary scholar",
+17,
+[
+"letterist",
+"literator",
+"literature scholar",
+"literatus",
+"litterateur",
+"littérateur",
+"man of letters",
+"person of letters",
+"specialist in literature",
+"woman of letters"
+]
+],
+[
+"art dealer",
+17,
+[
+"picture dealer"
+]
+],
+[
+"military advisor",
+17,
+[
+"combat advisor",
+"military adviser"
+]
+],
+[
+"actress",
+17,
+[]
+],
+[
+"female guards in Nazi concentration camps",
+17,
+[]
+],
+[
+"superintendent",
+17,
+[]
+],
+[
+"product manager",
+17,
+[
+"PM",
+"program manager",
+"project manager",
+"technical program manager"
+]
+],
+[
+"tarento",
+17,
+[
+"Japanese talent",
+"talento",
+"television personality in Japan"
+]
+],
+[
+"man-at-arms",
+17,
+[
+"Gleve",
+"Helm"
+]
+],
+[
+"preschool teacher",
+17,
+[
+"nursery school teacher"
+]
+],
+[
+"restaurateur",
+17,
+[
+"gastronomist",
+"restauranteur"
+]
+],
+[
+"woman of letters",
+17,
+[
+"female authors",
+"women authors",
+"women writers"
+]
+],
+[
+"weaver",
+17,
+[]
+],
+[
+"harpsichordist",
+17,
+[]
+],
+[
+"industrialist",
+17,
+[
+"industrial"
+]
+],
+[
+"glazier",
+17,
+[
+"glassmith",
+"glassworker",
+"glaziers"
+]
+],
+[
+"comics artist",
+17,
+[
+"comic artist",
+"comic book artist",
+"comic book creator",
+"comic illustrator",
+"comic strip artist",
+"graphic novel artist"
+]
+],
+[
+"shipping agent",
+17,
+[
+"cargo broker",
+"cargo brokers",
+"liner agent",
+"liner agents",
+"own agencies",
+"port agent",
+"port agents",
+"ship agent",
+"ship agents",
+"shipping agencies",
+"shipping agency",
+"shipping agents"
+]
+],
+[
+"tennis player",
+16,
+[]
+],
+[
+"boxer",
+16,
+[
+"pugilist"
+]
+],
+[
+"diocesan administrator",
+16,
+[
+"archdiocesan administrator",
+"provisor"
+]
+],
+[
+"gravure idol",
+16,
+[
+"Gurabia aidoru",
+"guradoru"
+]
+],
+[
+"music critic",
+16,
+[
+"music reviewer"
+]
+],
+[
+"interim management",
+16,
+[
+"interim executive"
+]
+],
+[
+"road crew",
+16,
+[
+"roadie"
+]
+],
+[
+"aircraft mechanic",
+16,
+[
+"aircraft maintenance technician",
+"aircraft technician",
+"airplane mechanic"
+]
+],
+[
+"teamster",
+16,
+[
+"carter",
+"wagoner"
+]
+],
+[
+"lexicographer",
+16,
+[
+"dictionarist",
+"dictionary compiler",
+"dictionary editor",
+"dictionary writer"
+]
+],
+[
+"crossing keeper",
+16,
+[
+"Flagman",
+"level crossing guard"
+]
+],
+[
+"plasterer",
+16,
+[
+"plasterers",
+"plasterworker",
+"stuccoist"
+]
+],
+[
+"notary public",
+16,
+[
+"public notary"
+]
+],
+[
+"lector",
+16,
+[
+"lecturer",
+"reader"
+]
+],
+[
+"housekeeper",
+16,
+[]
+],
+[
+"medalist",
+16,
+[
+"medallist",
+"сoin designer"
+]
+],
+[
+"design engineer",
+16,
+[
+"construction engineer",
+"designing engineer"
+]
+],
+[
+"modiste",
+16,
+[
+"milliner"
+]
+],
+[
+"mechanical engineer",
+16,
+[
+"mechanical engineers"
+]
+],
+[
+"furrier",
+16,
+[
+"Furrier"
+]
+],
+[
+"gynecologist",
+16,
+[
+"gynaecologist",
+"women's doctor"
+]
+],
+[
+"entomologist",
+16,
+[]
+],
+[
+"folklorist",
+16,
+[
+"folklorologist"
+]
+],
+[
+"vigilante",
+16,
+[
+"vigilante justice",
+"vigilantes"
+]
+],
+[
+"psychoanalyst",
+16,
+[
+"analyst",
+"psycho-analyst"
+]
+],
+[
+"debunker",
+16,
+[]
+],
+[
+"mukhtar",
+16,
+[]
+],
+[
+"conservator",
+16,
+[
+"art conservator",
+"conservator-restorer",
+"restorer"
+]
+],
+[
+"tenant farmer",
+16,
+[
+"farm tenant"
+]
+],
+[
+"dispatcher",
+16,
+[]
+],
+[
+"intimacy coordinator",
+16,
+[
+"intimacy director"
+]
+],
+[
+"drafter",
+16,
+[
+"draftsman",
+"draftsperson",
+"draughtsman",
+"draughtsperson"
+]
+],
+[
+"ceramicist",
+16,
+[
+"ceramic artist",
+"ceramist",
+"craft potter"
+]
+],
+[
+"librettist",
+16,
+[
+"opera librettist"
+]
+],
+[
+"futurist",
+16,
+[
+"foresight practitioner",
+"futurologist",
+"horizon scanner",
+"prospectivist"
+]
+],
+[
+"da'i",
+16,
+[]
+],
+[
+"middle management",
+16,
+[]
+],
+[
+"business analyst",
+15,
+[
+"BA"
+]
+],
+[
+"bibliographer",
+15,
+[]
+],
+[
+"television actor",
+15,
+[
+"actor",
+"actress",
+"television actress",
+"TV actor",
+"TV actress"
+]
+],
+[
+"appraiser",
+15,
+[]
+],
+[
+"financial planner",
+15,
+[]
+],
+[
+"dub actor",
+15,
+[
+"dub actress",
+"dubbing actor",
+"dubbing actress",
+"voice dubber"
+]
+],
+[
+"weather presenter",
+15,
+[
+"television weather broadcaster",
+"television weathercaster",
+"television weatherman",
+"television weatherperson",
+"weather anchor",
+"weather broadcaster",
+"weathercaster",
+"weatherman",
+"weatherperson",
+"weather reporter"
+]
+],
+[
+"flatulist",
+15,
+[
+"professional farter"
+]
+],
+[
+"Primicerius",
+15,
+[
+"primikērios"
+]
+],
+[
+"electrical engineer",
+15,
+[
+"electrical engineers"
+]
+],
+[
+"syndic",
+15,
+[]
+],
+[
+"property master",
+15,
+[
+"property manager",
+"prop man",
+"prop master",
+"propmaster",
+"props master"
+]
+],
+[
+"handyman",
+15,
+[
+"building maintenance worker",
+"handyperson",
+"handywoman"
+]
+],
+[
+"almoner",
+15,
+[
+"Almoner"
+]
+],
+[
+"palaeographer",
+15,
+[
+"palaeographist",
+"paleographer",
+"paleographists"
+]
+],
+[
+"medical examiner",
+15,
+[
+"forensic doctor",
+"forensic physician"
+]
+],
+[
+"orientalist",
+15,
+[
+"Asianist",
+"Asian studies scholar",
+"Asian studies specialist",
+"Asia scholar",
+"Asia specialist",
+"Asia studies scholar",
+"Asia studies specialist",
+"Orientalist",
+"orientalists",
+"oriental scholar",
+"oriental scholars"
+]
+],
+[
+"trobairitz",
+15,
+[]
+],
+[
+"speechwriter",
+15,
+[]
+],
+[
+"theatrical producer",
+15,
+[
+"producer",
+"stage producer",
+"theater producer",
+"theatre producer"
+]
+],
+[
+"dressmaker",
+15,
+[
+"couturier",
+"mantua maker",
+"modiste"
+]
+],
+[
+"quantity surveyor",
+15,
+[]
+],
+[
+"customs broker",
+15,
+[
+"customs agent",
+"Tullkonsult"
+]
+],
+[
+"prosector",
+15,
+[]
+],
+[
+"purser",
+15,
+[]
+],
+[
+"Schout-bij-nacht",
+15,
+[]
+],
+[
+"vocalist",
+15,
+[
+"munashid"
+]
+],
+[
+"sexologist",
+15,
+[
+"sexologists",
+"sexuologist"
+]
+],
+[
+"jeweler",
+15,
+[
+"jeweller"
+]
+],
+[
+"personal stylist",
+15,
+[
+"stylist"
+]
+],
+[
+"racing driver",
+15,
+[
+"auto racer",
+"car racer",
+"driver of racing vehicles",
+"race driver"
+]
+],
+[
+"intelligence officer",
+15,
+[]
+],
+[
+"parking enforcement officer",
+15,
+[
+"meter maid",
+"metermaid",
+"meter man",
+"meterman",
+"meter woman",
+"meterwoman",
+"parking inspector",
+"traffic warden"
+]
+],
+[
+"pharmacy technician",
+15,
+[]
+],
+[
+"cabinetmaker",
+15,
+[
+"cabinet maker",
+"cabinet-maker",
+"ebeniste",
+"ébéniste",
+"ebonist",
+"shriner",
+"woodworker"
+]
+],
+[
+"paralegal",
+15,
+[
+"legal assistants",
+"paralegal (Portugal)"
+]
+],
+[
+"Tawananna",
+15,
+[]
+],
+[
+"Matagi",
+15,
+[]
+],
+[
+"claims adjuster",
+15,
+[
+"adjuster of claims",
+"claim adjuster",
+"claim handler",
+"claims handler",
+"insurance adjuster",
+"loss adjuster"
+]
+],
+[
+"munshi",
+15,
+[
+"moonshee",
+"Teacher",
+"Tutor"
+]
+],
+[
+"scholar-official",
+15,
+[]
+],
+[
+"Protestant reformer",
+15,
+[]
+],
+[
+"game programmer",
+15,
+[
+"video game programmer"
+]
+],
+[
+"bladesmith",
+15,
+[
+"scythesmith",
+"sword cutler",
+"sword maker",
+"sword smith",
+"swordsmith",
+"weaponsmith"
+]
+],
+[
+"gyōji",
+15,
+[
+"gyoji"
+]
+],
+[
+"delegate",
+15,
+[
+"political representative"
+]
+],
+[
+"racing automobile driver",
+14,
+[
+"automobile racing driver",
+"auto racing driver",
+"driver of racing automobiles",
+"race car driver",
+"racecar driver",
+"racing car driver",
+"racing driver"
+]
+],
+[
+"chess player",
+14,
+[]
+],
+[
+"able seaman",
+14,
+[]
+],
+[
+"chartered accountant",
+14,
+[]
+],
+[
+"colorist",
+14,
+[
+"coloring artist",
+"colourist",
+"comic book colourist"
+]
+],
+[
+"prose writer",
+14,
+[
+"prosaist",
+"prosaists",
+"proser",
+"prose writers"
+]
+],
+[
+"ornithologist",
+14,
+[]
+],
+[
+"entertainer",
+14,
+[]
+],
+[
+"gabbai",
+14,
+[]
+],
+[
+"wedding planner",
+14,
+[]
+],
+[
+"music theorist",
+14,
+[
+"musical theoretician",
+"musical theorist",
+"music theoretician"
+]
+],
+[
+"business consultant",
+14,
+[
+"business adviser",
+"business advisor",
+"corporate consultant",
+"management consultant"
+]
+],
+[
+"valet de chambre",
+14,
+[
+"groom of the bedchamber",
+"Kammerjunker"
+]
+],
+[
+"elevator operator",
+14,
+[
+"elevator girl",
+"liftboy"
+]
+],
+[
+"physiologist",
+14,
+[]
+],
+[
+"school teacher",
+14,
+[
+"schoolteacher"
+]
+],
+[
+"sport cyclist",
+14,
+[
+"competitive biker",
+"competitive cyclist",
+"racing cyclist",
+"sport bicyclist",
+"sport biker",
+"sports cyclist"
+]
+],
+[
+"music video director",
+14,
+[
+"videoclip director"
+]
+],
+[
+"customs officer",
+14,
+[
+"customer"
+]
+],
+[
+"Oprichnik",
+14,
+[]
+],
+[
+"majordomo",
+14,
+[]
+],
+[
+"showgirl",
+14,
+[
+"chorus girl",
+"show girl"
+]
+],
+[
+"showman",
+14,
+[
+"fairground artists",
+"světští"
+]
+],
+[
+"detection dog",
+14,
+[
+"sniffer dog",
+"track dog"
+]
+],
+[
+"vlogger",
+14,
+[
+"video blogger"
+]
+],
+[
+"spiritual director",
+14,
+[
+"spiritual advisor",
+"spiritual direction"
+]
+],
+[
+"Coureur des bois",
+14,
+[]
+],
+[
+"carrier",
+14,
+[
+"common carrier",
+"public carrier"
+]
+],
+[
+"hofmeister",
+14,
+[
+"court-master",
+"house-master"
+]
+],
+[
+"sky marshal",
+14,
+[
+"air marshal",
+"flight marshal"
+]
+],
+[
+"war artist",
+14,
+[]
+],
+[
+"neuroscientist",
+14,
+[]
+],
+[
+"railway worker",
+14,
+[
+"railman",
+"railroad worker",
+"railway employee",
+"railway man"
+]
+],
+[
+"shopkeeper",
+14,
+[
+"depot master",
+"retailer",
+"shopkeepers",
+"shop manager",
+"shop worker",
+"store keeper",
+"storekeeper",
+"store manager",
+"storeperson",
+"store worker",
+"vendor",
+"warehouse keeper"
+]
+],
+[
+"narrator",
+14,
+[
+"narrators",
+"storyteller"
+]
+],
+[
+"biographer",
+14,
+[]
+],
+[
+"Traditional genealogist",
+14,
+[
+"family historian"
+]
+],
+[
+"documentalist",
+13,
+[]
+],
+[
+"fili",
+13,
+[]
+],
+[
+"spin doctor",
+13,
+[
+"cabinet minister advisor",
+"ministerial advisor",
+"ministerial councilor",
+"political advisor"
+]
+],
+[
+"storyteller",
+13,
+[
+"Hakawati",
+"story-teller"
+]
+],
+[
+"pioneer",
+13,
+[
+"combat engineer"
+]
+],
+[
+"technology evangelist",
+13,
+[
+"technical evangelist"
+]
+],
+[
+"food critic",
+13,
+[
+"food writer",
+"restaurant critic"
+]
+],
+[
+"ecologist",
+13,
+[]
+],
+[
+"washerwoman",
+13,
+[
+"launderer",
+"laundress",
+"laundrywoman",
+"lavander",
+"washwoman"
+]
+],
+[
+"coachbuilder",
+13,
+[]
+],
+[
+"pusher",
+13,
+[]
+],
+[
+"equerry",
+13,
+[]
+],
+[
+"artistic director",
+13,
+[]
+],
+[
+"picador",
+13,
+[]
+],
+[
+"school counselor",
+13,
+[
+"counselor",
+"guidance counselor"
+]
+],
+[
+"shipbroker",
+13,
+[
+"broker maritime",
+"Ship broker",
+"shipping agent",
+"transporteur marin"
+]
+],
+[
+"heresiarch",
+13,
+[
+"arch-heretic",
+"archheretic",
+"haeresiarch",
+"hæresiarch"
+]
+],
+[
+"audio technician",
+13,
+[
+"sound engineer",
+"sound technician",
+"studio technician"
+]
+],
+[
+"atomic spies",
+13,
+[
+"atom spies"
+]
+],
+[
+"cultural manager",
+13,
+[
+"cultural management",
+"cultural producer",
+"cultural programs manager",
+"manager of culture"
+]
+],
+[
+"erotic photography model",
+13,
+[
+"adult model",
+"erotic model",
+"glamour model",
+"softcore model"
+]
+],
+[
+"pathologist",
+13,
+[]
+],
+[
+"abbé",
+13,
+[
+"abbe",
+"abbot"
+]
+],
+[
+"proofreader",
+13,
+[
+"copy editor",
+"copy-editor",
+"copyeditor",
+"copy reader",
+"manuscript editor"
+]
+],
+[
+"money mule",
+13,
+[
+"drop",
+"dropper",
+"smurfer"
+]
+],
+[
+"endocrinologist",
+13,
+[]
+],
+[
+"subject-matter expert",
+13,
+[
+"domain expert"
+]
+],
+[
+"lepidopterist",
+13,
+[
+"lepidopteran biologist",
+"lepidopterologist"
+]
+],
+[
+"basketball coach",
+13,
+[
+"basketball trainer"
+]
+],
+[
+"melamed",
+13,
+[
+"melammed"
+]
+],
+[
+"guard",
+13,
+[
+"custodian",
+"watchman"
+]
+],
+[
+"city manager",
+13,
+[]
+],
+[
+"commercial agent",
+13,
+[]
+],
+[
+"Chief of Staff",
+13,
+[]
+],
+[
+"astrophysicist",
+13,
+[
+"astro-physicist"
+]
+],
+[
+"strategist",
+13,
+[]
+],
+[
+"systems analyst",
+13,
+[
+"computer systems analyst",
+"systems analysts"
+]
+],
+[
+"photojournalist",
+13,
+[
+"news photographer",
+"newsreel photographer",
+"photo journalist",
+"photo-journalist",
+"photo-reporter"
+]
+],
+[
+"basket weaver",
+13,
+[
+"baskermaker",
+"basket maker",
+"basketweaver",
+"cestaio"
+]
+],
+[
+"agricultural engineer",
+12,
+[]
+],
+[
+"sexual assistance",
+12,
+[
+"sexual accompaniment"
+]
+],
+[
+"managing editor",
+12,
+[
+"editorial director"
+]
+],
+[
+"chief information security officer",
+12,
+[
+"CISO"
+]
+],
+[
+"baseball player",
+12,
+[
+"baseballer"
+]
+],
+[
+"Knocker-up",
+12,
+[
+"knocker-upper"
+]
+],
+[
+"food taster",
+12,
+[]
+],
+[
+"speech and language therapist",
+12,
+[
+"speech-language pathologist",
+"speech pathologist",
+"speech therapist"
+]
+],
+[
+"typographer",
+12,
+[
+"typographers",
+"typography worker",
+"typography workers"
+]
+],
+[
+"ethnographer",
+12,
+[
+"ethnographist"
+]
+],
+[
+"traveler",
+12,
+[
+"passenger",
+"travelers",
+"traveller",
+"voyager"
+]
+],
+[
+"personal physician",
+12,
+[
+"Private Physician"
+]
+],
+[
+"radio operator",
+12,
+[
+"radiotelegraphist",
+"radio telephone operator",
+"wireless operator"
+]
+],
+[
+"valet",
+12,
+[
+"valet boy"
+]
+],
+[
+"podcaster",
+12,
+[
+"caster of the pod",
+"podcast host",
+"podcasthost",
+"podcast presenter"
+]
+],
+[
+"software architect",
+12,
+[]
+],
+[
+"local historian",
+12,
+[
+"historian of local history",
+"regional historian"
+]
+],
+[
+"focus puller",
+12,
+[
+"assistant camera",
+"camera assistant"
+]
+],
+[
+"physical chemist",
+12,
+[
+"chemical physicist",
+"physicochemist"
+]
+],
+[
+"armourer",
+12,
+[
+"armorer",
+"armor maker",
+"armour maker"
+]
+],
+[
+"sleeper agent",
+12,
+[
+"dormant agent",
+"sleeper",
+"sleeper spy"
+]
+],
+[
+"penciller",
+12,
+[
+"penciler"
+]
+],
+[
+"impersonator",
+12,
+[]
+],
+[
+"real estate developer",
+12,
+[
+"property developer"
+]
+],
+[
+"lord of the manor",
+12,
+[
+"Lady of the Manor",
+"Lord of the Manor"
+]
+],
+[
+"aircraft marshalling",
+12,
+[]
+],
+[
+"bushi",
+12,
+[]
+],
+[
+"numismatist",
+12,
+[
+"coin collector"
+]
+],
+[
+"basketball official",
+12,
+[
+"basketball ref",
+"basketball referee",
+"basketball umpire"
+]
+],
+[
+"Meister",
+12,
+[]
+],
+[
+"ringmaster",
+12,
+[
+"ringleader"
+]
+],
+[
+"literary editor",
+12,
+[
+"book editor",
+"copy editor",
+"production editor"
+]
+],
+[
+"soap maker",
+12,
+[
+"soaper",
+"soap-maker",
+"soapmaker",
+"soap manufacturer"
+]
+],
+[
+"fixer",
+12,
+[
+"cleaner"
+]
+],
+[
+"Tirailleur",
+12,
+[]
+],
+[
+"engraver",
+12,
+[]
+],
+[
+"sous-chef",
+12,
+[
+"sous chef"
+]
+],
+[
+"emergency physician",
+12,
+[
+"emergency doctor",
+"emergency medical physician",
+"emergency medicine doctor",
+"emergency medicine physician",
+"emergency room physician",
+"EP",
+"ER doctor",
+"ER physician"
+]
+],
+[
+"Educational robotics",
+12,
+[]
+],
+[
+"ichthyologist",
+12,
+[
+"fish biologist",
+"fish scientist"
+]
+],
+[
+"student teacher",
+12,
+[
+"preservice teacher",
+"trainee teacher"
+]
+],
+[
+"babysitter",
+12,
+[
+"baby-sitter",
+"babysitters"
+]
+],
+[
+"children's writer",
+12,
+[
+"children literature writer",
+"children's author",
+"children's book author",
+"children's book writer",
+"children's literature writer"
+]
+],
+[
+"dental assistant",
+12,
+[
+"dental assistants"
+]
+],
+[
+"sailmaker",
+12,
+[]
+],
+[
+"Croatian studies",
+12,
+[
+"croatistique",
+"hrvatistika",
+"hrvatski studiji",
+"Kroatistik",
+"kroatistika"
+]
+],
+[
+"officer",
+12,
+[]
+],
+[
+"Kotwal",
+12,
+[
+"Cotwal"
+]
+],
+[
+"judoka",
+12,
+[
+"judoist"
+]
+],
+[
+"comptroller",
+12,
+[
+"financial controller"
+]
+],
+[
+"exhibition curator",
+12,
+[
+"art curator",
+"art exhibition curator",
+"curator of an exhibition",
+"curator of the exhibition"
+]
+],
+[
+"traditional birth attendant",
+12,
+[
+"doula",
+"midwife (wise woman)",
+"traditional midwife"
+]
+],
+[
+"land defender",
+12,
+[
+"defender of the territory",
+"environmental defender",
+"land protector"
+]
+],
+[
+"flight controller",
+12,
+[
+"flight operator"
+]
+],
+[
+"supervision",
+12,
+[
+"clinical supervision"
+]
+],
+[
+"Mistress of the Robes",
+12,
+[]
+],
+[
+"museologist",
+11,
+[
+"museum studies scholar",
+"scholar of museum studies"
+]
+],
+[
+"lighting technician",
+11,
+[
+"electrical lighting technician",
+"lighting tech",
+"lighting tech.",
+"light tech"
+]
+],
+[
+"naval officer",
+11,
+[
+"navy officer"
+]
+],
+[
+"auditor",
+11,
+[]
+],
+[
+"Roman usurper",
+11,
+[]
+],
+[
+"blacksmithing",
+11,
+[]
+],
+[
+"minister plenipotentiary",
+11,
+[
+"legate",
+"M.P."
+]
+],
+[
+"systems integrator",
+11,
+[
+"system integrator"
+]
+],
+[
+"licensed practical nurse",
+11,
+[
+"licensed vocational nurse",
+"LPN",
+"LVN",
+"PN",
+"practical nurse",
+"VN",
+"vocational nurse"
+]
+],
+[
+"baseball manager",
+11,
+[
+"baseball coach",
+"field manager",
+"manager"
+]
+],
+[
+"acrobat",
+11,
+[]
+],
+[
+"lobbyist",
+11,
+[]
+],
+[
+"hospital clown",
+11,
+[
+"clinic clown",
+"doctor clown",
+"medical clown",
+"zdravotní klaunky"
+]
+],
+[
+"table tennis player",
+11,
+[
+"ping-pong player",
+"table tennis athlete"
+]
+],
+[
+"obstetrician",
+11,
+[
+"OB",
+"obstetricians",
+"obstretist"
+]
+],
+[
+"animal breeder",
+11,
+[]
+],
+[
+"evangelist",
+11,
+[
+"evangelistic worker"
+]
+],
+[
+"skilled worker",
+11,
+[
+"skilled laborer",
+"skilled labourer"
+]
+],
+[
+"guide",
+11,
+[]
+],
+[
+"Riksråd",
+11,
+[
+"Council of the Realm",
+"Council of the States",
+"Rigsraadet",
+"Riksrådet"
+]
+],
+[
+"union representative",
+11,
+[
+"trade union rep",
+"trade union representative",
+"union rep"
+]
+],
+[
+"ventriloquist",
+11,
+[]
+],
+[
+"short story writer",
+11,
+[
+"short story author",
+"short-story writer"
+]
+],
+[
+"hatter",
+11,
+[
+"hat maker",
+"hatmaker",
+"milliner"
+]
+],
+[
+"bedel",
+11,
+[]
+],
+[
+"florist",
+11,
+[
+"flower arranger",
+"flower vendor"
+]
+],
+[
+"second unit",
+11,
+[]
+],
+[
+"voyageurs",
+11,
+[]
+],
+[
+"stand-up comedian",
+11,
+[
+"stand-up",
+"standup",
+"standup comedian",
+"stand-up comic",
+"standup comic"
+]
+],
+[
+"tattoo artist",
+11,
+[
+"tattooer",
+"tattooist"
+]
+],
+[
+"graphic artist",
+11,
+[
+"graphical artist"
+]
+],
+[
+"mayanist",
+11,
+[]
+],
+[
+"broadcast engineering",
+11,
+[]
+],
+[
+"engineering officer",
+11,
+[]
+],
+[
+"ship chandler",
+11,
+[
+"ship's chandler",
+"ship's stores"
+]
+],
+[
+"structural engineer",
+11,
+[]
+],
+[
+"rosh yeshiva",
+11,
+[]
+],
+[
+"promoter",
+11,
+[
+"event promoter",
+"host"
+]
+],
+[
+"online community manager",
+11,
+[
+"CM",
+"community manager"
+]
+],
+[
+"punch cutting",
+11,
+[
+"punchcutting"
+]
+],
+[
+"law clerk",
+11,
+[
+"judge clerk",
+"judicial clerk",
+"judicial law clerk"
+]
+],
+[
+"naval surgeon",
+11,
+[
+"naval doctor",
+"naval physician",
+"navy surgeon",
+"ship's doctor",
+"ship's surgeon"
+]
+],
+[
+"fashion model",
+11,
+[
+"photo model"
+]
+],
+[
+"account manager",
+11,
+[]
+],
+[
+"caricaturist",
+11,
+[
+"cartoonist"
+]
+],
+[
+"boom operator",
+11,
+[
+"fishpole operator",
+"tape operator"
+]
+],
+[
+"prosthetist/orthotist",
+11,
+[
+"PO"
+]
+],
+[
+"stock trader",
+11,
+[]
+],
+[
+"chief executive",
+11,
+[
+"CE"
+]
+],
+[
+"bargirl",
+11,
+[
+"B-girl",
+"hostess",
+"juicy girl"
+]
+],
+[
+"fishmonger",
+11,
+[
+"fish seller",
+"fish trader",
+"fishwife"
+]
+],
+[
+"Gruppenkommandeur",
+11,
+[]
+],
+[
+"Worker-Priest",
+11,
+[]
+],
+[
+"driving instructor",
+11,
+[
+"driving instructors"
+]
+],
+[
+"engineering technologist",
+11,
+[]
+],
+[
+"laic",
+11,
+[
+"Laico",
+"Laik",
+"Lâik",
+"Non-religious Adjective term",
+"Secular Person"
+]
+],
+[
+"rat-catcher",
+11,
+[]
+],
+[
+"Youxia",
+11,
+[
+"Jau4haap6",
+"Jau4 Haap6",
+"Jau Haap",
+"wandering vigilante",
+"You Xia",
+"Yóuxiá",
+"Yóu Xiá"
+]
+],
+[
+"platelayer",
+11,
+[
+"fettler",
+"ganger",
+"plate-layer",
+"rail transport maintenance workers",
+"track foreman",
+"track inspector",
+"trackman",
+"trackwoman",
+"trackwomen",
+"track worker"
+]
+],
+[
+"volcanologist",
+11,
+[
+"volcano researcher",
+"vulcanologist"
+]
+],
+[
+"criminologist",
+11,
+[]
+],
+[
+"business manager",
+11,
+[
+"company manager",
+"manager"
+]
+],
+[
+"violist",
+11,
+[
+"viola player"
+]
+],
+[
+"bookseller",
+11,
+[
+"book dealer",
+"bookman",
+"book seller",
+"bookseller and publisher",
+"publishing bookseller"
+]
+],
+[
+"executive chef",
+10,
+[
+"chef de cuisine",
+"head chef"
+]
+],
+[
+"sign language interpreter",
+10,
+[
+"deaf interpreter",
+"deaf translator",
+"interpreter for the deaf",
+"sign language translator",
+"translator for the deaf"
+]
+],
+[
+"state's attorney",
+10,
+[
+"state attorney"
+]
+],
+[
+"climatologist",
+10,
+[
+"climate researcher",
+"climate scientist",
+"climatologe"
+]
+],
+[
+"clinical psychologist",
+10,
+[]
+],
+[
+"Taikomochi",
+10,
+[]
+],
+[
+"piano tuner",
+10,
+[
+"pianostemmer"
+]
+],
+[
+"superstar",
+10,
+[
+"effet superstar"
+]
+],
+[
+"muwaqqit",
+10,
+[
+"miqati",
+"muwakkit"
+]
+],
+[
+"page-turner",
+10,
+[]
+],
+[
+"manufacturer",
+10,
+[
+"builder",
+"maker",
+"producer"
+]
+],
+[
+"jizamurai",
+10,
+[]
+],
+[
+"ethnologist",
+10,
+[]
+],
+[
+"press secretary",
+10,
+[
+"head of press relations",
+"press officer",
+"press relations manager",
+"press relations officer"
+]
+],
+[
+"Feuerwerker",
+10,
+[
+"pyrotechnist"
+]
+],
+[
+"street musician",
+10,
+[
+"busker musician"
+]
+],
+[
+"nude model",
+10,
+[]
+],
+[
+"lady's maid",
+10,
+[
+"handmaiden"
+]
+],
+[
+"innkeeper",
+10,
+[
+"innkeep",
+"inn keeper",
+"inn-keeper"
+]
+],
+[
+"woman photographer",
+10,
+[
+"women in photography",
+"women photographers"
+]
+],
+[
+"media relations",
+10,
+[]
+],
+[
+"office management",
+10,
+[
+"office manager"
+]
+],
+[
+"operator",
+10,
+[]
+],
+[
+"provost",
+10,
+[]
+],
+[
+"pharmacologist",
+10,
+[
+"drug researcher",
+"pharmaceutical researcher"
+]
+],
+[
+"physical education teacher",
+10,
+[
+"athletics instructor",
+"gym teacher",
+"P.E. teacher",
+"PE teacher",
+"physical education instructor",
+"Physical Education Professional",
+"physical educator",
+"sports educator",
+"sports teacher"
+]
+],
+[
+"topographer",
+10,
+[]
+],
+[
+"special agent",
+10,
+[]
+],
+[
+"stunt coordinator",
+10,
+[
+"action co-ordinator",
+"action coordinator",
+"fight co-ordinator",
+"fight coordinator",
+"stunt co-ordinator"
+]
+],
+[
+"loadmaster",
+10,
+[
+"cargo handler"
+]
+],
+[
+"Certified Management Accountant",
+10,
+[
+"CMA"
+]
+],
+[
+"cosmologist",
+10,
+[
+"cosmologists"
+]
+],
+[
+"music executive",
+10,
+[
+"record executive"
+]
+],
+[
+"video game artist",
+10,
+[
+"game artist"
+]
+],
+[
+"emissary",
+10,
+[]
+],
+[
+"zookeeper",
+10,
+[
+"animal keeper",
+"zoo keeper"
+]
+],
+[
+"plus-size model",
+10,
+[]
+],
+[
+"churchwarden",
+10,
+[
+"church warden",
+"church-warden",
+"lay warden"
+]
+],
+[
+"sub-prefect",
+10,
+[
+"subprefect"
+]
+],
+[
+"academic",
+10,
+[
+"academics",
+"don"
+]
+],
+[
+"pyrotechnician",
+10,
+[]
+],
+[
+"innovator",
+10,
+[
+"game changer"
+]
+],
+[
+"tennis umpire",
+10,
+[
+"official",
+"tennis official",
+"tennis referee",
+"umpire"
+]
+],
+[
+"type designer",
+10,
+[
+"font designer",
+"font designers",
+"font maker",
+"fontmaker",
+"font makers",
+"fontmakers",
+"typeface designer",
+"typeface designers",
+"typographer",
+"typographers",
+"typography designer",
+"typography designers"
+]
+],
+[
+"oceanographer",
+10,
+[
+"oceanologist"
+]
+],
+[
+"smokejumper",
+10,
+[
+"firefighter"
+]
+],
+[
+"publicist",
+10,
+[
+"imagemaker"
+]
+],
+[
+"garde manger",
+10,
+[
+"chef garde manger",
+"garde-manger",
+"pantry chef"
+]
+],
+[
+"horse trainer",
+10,
+[
+"horsebreaker",
+"racehorse trainer"
+]
+],
+[
+"mediator",
+10,
+[]
+],
+[
+"Navajo Code Talker",
+10,
+[]
+],
+[
+"campaign manager",
+10,
+[
+"campaign chair",
+"campaign chairman",
+"campaign consultant",
+"campaign director"
+]
+],
+[
+"animalier",
+10,
+[
+"animal artist",
+"animalist",
+"animal sculptor",
+"Sculpteur animalier"
+]
+],
+[
+"dalang",
+10,
+[
+"dhalang"
+]
+],
+[
+"head writer",
+10,
+[
+"chief writer",
+"headwriter",
+"lead writer",
+"leadwriter",
+"series writer"
+]
+],
+[
+"müderris",
+10,
+[
+"mudarris"
+]
+],
+[
+"lineworker",
+10,
+[
+"communications linespersons",
+"lineman",
+"line mechanic",
+"linesman",
+"PLT",
+"powerline technician",
+"powerline worker"
+]
+],
+[
+"betel nut beauty",
+10,
+[]
+],
+[
+"personal shopper",
+10,
+[]
+],
+[
+"construction manager",
+10,
+[
+"building manager",
+"site agent",
+"site manager"
+]
+],
+[
+"fetish model",
+10,
+[
+"bondage model"
+]
+],
+[
+"visual effects supervisor",
+10,
+[
+"VFX supervisor"
+]
+],
+[
+"brewer",
+10,
+[
+"beer brewer"
+]
+],
+[
+"script doctor",
+10,
+[
+"script consultant"
+]
+],
+[
+"beer critic",
+10,
+[
+"beer connoisseur",
+"beerologist",
+"beer sommelier",
+"cicerone"
+]
+],
+[
+"karateka",
+10,
+[
+"karate fighter"
+]
+],
+[
+"Meshimori onna",
+9,
+[]
+],
+[
+"buttero",
+9,
+[]
+],
+[
+"absentee landlord",
+9,
+[]
+],
+[
+"interior architect",
+9,
+[]
+],
+[
+"anatomist",
+9,
+[]
+],
+[
+"content creator",
+9,
+[
+"cc"
+]
+],
+[
+"golfer",
+9,
+[
+"golf player",
+"golfplayer"
+]
+],
+[
+"nail technician",
+9,
+[
+"manicurist",
+"nail artist"
+]
+],
+[
+"real-life superhero",
+9,
+[]
+],
+[
+"political pundit",
+9,
+[
+"political commentator",
+"political critic"
+]
+],
+[
+"hikeshi",
+9,
+[
+"bikeshi"
+]
+],
+[
+"printmaker",
+9,
+[]
+],
+[
+"theatre designer",
+9,
+[
+"διακοσμητής θεάτρου",
+"θεατρικός σχεδιαστής",
+"καλλιτέχνης σκηνής",
+"σκηνογράφος",
+"σχεδιαστής θεάτρου"
+]
+],
+[
+"ice hockey player",
+9,
+[
+"hockey player",
+"men's ice hockey player",
+"women's ice hockey player"
+]
+],
+[
+"cricketer",
+9,
+[
+"cricket player"
+]
+],
+[
+"information scientist",
+9,
+[
+"information professional",
+"information specialist"
+]
+],
+[
+"senior lecturer",
+9,
+[
+"maître de conférences",
+"Sr. Lecturer"
+]
+],
+[
+"Bhagat",
+9,
+[]
+],
+[
+"iceman",
+9,
+[]
+],
+[
+"electronics technician",
+9,
+[]
+],
+[
+"marathon runner",
+9,
+[
+"marathoner"
+]
+],
+[
+"master builder",
+9,
+[
+"architect",
+"builder",
+"magister operum",
+"master mason",
+"master of the works"
+]
+],
+[
+"surgical nurse",
+9,
+[
+"Operating Room Nursing"
+]
+],
+[
+"vaquero",
+9,
+[
+"vaqueiro",
+"vaqueros"
+]
+],
+[
+"alta cappella",
+9,
+[
+"alta",
+"alta musica",
+"haute musique"
+]
+],
+[
+"clinical research associate",
+9,
+[
+"clinical trial monitor",
+"CRA"
+]
+],
+[
+"corsetmaker",
+9,
+[]
+],
+[
+"dishwasher",
+9,
+[
+"kitchen porter"
+]
+],
+[
+"fencing master",
+9,
+[
+"fencing teacher"
+]
+],
+[
+"clogmaker",
+9,
+[]
+],
+[
+"garden designer",
+9,
+[]
+],
+[
+"sheep shearer",
+9,
+[
+"shearer"
+]
+],
+[
+"biathlete",
+9,
+[]
+],
+[
+"papyrologist",
+9,
+[]
+],
+[
+"herpetologist",
+9,
+[]
+],
+[
+"illusionist",
+9,
+[
+"illusion maker"
+]
+],
+[
+"production manager",
+9,
+[
+"director of production",
+"film production manager",
+"production manager (theatre)",
+"production supervisor",
+"television production manager",
+"theatre production manager",
+"theatrical production manager"
+]
+],
+[
+"mining engineer",
+9,
+[
+"Markscheider",
+"mine engineer"
+]
+],
+[
+"printer",
+9,
+[]
+],
+[
+"ice hockey official",
+9,
+[
+"ice hockey linesman",
+"ice hockey referee",
+"linesman",
+"linesman (ice hockey)",
+"official",
+"official (ice hockey)",
+"referee",
+"referee (ice hockey)"
+]
+],
+[
+"radiologist",
+9,
+[
+"radiologists",
+"roentgenologist"
+]
+],
+[
+"baseball umpire",
+9,
+[
+"umpire"
+]
+],
+[
+"metallurgist",
+9,
+[]
+],
+[
+"antiquarian seller",
+9,
+[
+"antique dealer",
+"antiques dealer",
+"antique shop keeper",
+"antique trader"
+]
+],
+[
+"skipper",
+9,
+[]
+],
+[
+"medical physicist",
+9,
+[]
+],
+[
+"cultural critic",
+9,
+[
+"culture critic"
+]
+],
+[
+"trustee",
+9,
+[
+"fiduciary",
+"trust fund manager"
+]
+],
+[
+"software analyst",
+9,
+[]
+],
+[
+"junior idol",
+9,
+[
+"chidol"
+]
+],
+[
+"landscape painter",
+9,
+[
+"landscape artist",
+"landscapist"
+]
+],
+[
+"steel fixer",
+9,
+[]
+],
+[
+"polygraph",
+9,
+[]
+],
+[
+"Zabbaleen",
+9,
+[]
+],
+[
+"Germanist",
+9,
+[
+"German scholar",
+"German studies scholar",
+"German studies specialist"
+]
+],
+[
+"serjeant-at-arms",
+9,
+[
+"sergeant at arms",
+"sergeant-at-arms",
+"serjeant at arms"
+]
+],
+[
+"tetrarch",
+9,
+[]
+],
+[
+"videographer",
+9,
+[]
+],
+[
+"kosher slaughterer",
+9,
+[
+"kosher butcher",
+"shochet"
+]
+],
+[
+"traveling salesperson",
+9,
+[
+"commercial traveller",
+"door-to-door salesman",
+"door-to-door salesperson",
+"door-to-door saleswoman",
+"traveling salesman",
+"traveling saleswoman",
+"travelling salesman"
+]
+],
+[
+"herbalist",
+9,
+[]
+],
+[
+"intendant",
+9,
+[]
+],
+[
+"officer of arms",
+9,
+[
+"heraldic officer"
+]
+],
+[
+"cardiologist",
+9,
+[
+"cardiologists"
+]
+],
+[
+"scrutineer",
+9,
+[]
+],
+[
+"Heilpraktiker",
+9,
+[
+"complementary therapist",
+"naturopath",
+"neuropathic doctor"
+]
+],
+[
+"tanner",
+9,
+[]
+],
+[
+"Shahbandar",
+9,
+[]
+],
+[
+"orthodontist",
+9,
+[]
+],
+[
+"ticket controller",
+9,
+[
+"přepravní kontroloři",
+"railway ticket officer",
+"ticket inspector",
+"ticket officer"
+]
+],
+[
+"personal care assistant",
+9,
+[
+"home carer",
+"home helper",
+"personal care worker"
+]
+],
+[
+"sesen",
+9,
+[
+"sæsæn",
+"säsän",
+"Sėsėn"
+]
+],
+[
+"air observer",
+9,
+[]
+],
+[
+"dōshu",
+9,
+[]
+],
+[
+"professional golfer",
+9,
+[
+"pro golfer"
+]
+],
+[
+"Hebraist",
+9,
+[
+"Hebrew studies scholar"
+]
+],
+[
+"cotter",
+9,
+[
+"cottar",
+"crofter"
+]
+],
+[
+"planter class",
+9,
+[
+"plantationer",
+"plantation manager",
+"plantation owner",
+"planter"
+]
+],
+[
+"grocer",
+9,
+[]
+],
+[
+"rheumatologist",
+9,
+[]
+],
+[
+"traffic guard",
+9,
+[
+"flagger",
+"flagman",
+"traffic controller"
+]
+],
+[
+"letterer",
+9,
+[
+"comic book letterer",
+"comic letterer"
+]
+],
+[
+"gamekeeper",
+9,
+[
+"game keeper",
+"game manager",
+"game warden"
+]
+],
+[
+"radio officer",
+9,
+[]
+],
+[
+"assistant physician",
+9,
+[
+"A.P.",
+"resident physician"
+]
+],
+[
+"brewmaster",
+9,
+[
+"master brewer"
+]
+],
+[
+"bank teller",
+9,
+[
+"bank clerk",
+"bank tellers and related clerks",
+"teller"
+]
+],
+[
+"tricoteuse",
+9,
+[]
+],
+[
+"municipal clerk",
+9,
+[
+"board secretary",
+"borough clerk",
+"city clerk",
+"town clerk",
+"township clerk",
+"village clerk"
+]
+],
+[
+"data entry clerk",
+9,
+[
+"data contributor",
+"data entry",
+"data entry clerks"
+]
+],
+[
+"carder",
+9,
+[
+"comber",
+"cotton carder",
+"hand carder",
+"wool carder",
+"wool comber",
+"woolcomber"
+]
+],
+[
+"motorcycle courier",
+8,
+[
+"despatch rider",
+"motorcycle messenger"
+]
+],
+[
+"juggler",
+8,
+[]
+],
+[
+"performance artist",
+8,
+[]
+],
+[
+"csikós",
+8,
+[]
+],
+[
+"game warden",
+8,
+[]
+],
+[
+"memoirist",
+8,
+[]
+],
+[
+"continuity announcer",
+8,
+[]
+],
+[
+"seismologist",
+8,
+[]
+],
+[
+"language inventor",
+8,
+[
+"conlanger",
+"language constructor",
+"language creator"
+]
+],
+[
+"arriero",
+8,
+[
+"drover",
+"muleskinner",
+"muleteer in South America"
+]
+],
+[
+"musahharati",
+8,
+[
+"Ramadan drummer"
+]
+],
+[
+"advanced practice nurse",
+8,
+[
+"advanced practice registered nurse",
+"APN",
+"APRN"
+]
+],
+[
+"epidemiologist",
+8,
+[
+"epidemiologists",
+"epidemologist"
+]
+],
+[
+"mortgage broker",
+8,
+[]
+],
+[
+"fullo",
+8,
+[]
+],
+[
+"figure skater",
+8,
+[]
+],
+[
+"prison warden",
+8,
+[
+"prison governor",
+"warden"
+]
+],
+[
+"professional wrestler",
+8,
+[
+"luchador",
+"pro wrestler",
+"wrestler"
+]
+],
+[
+"literary historian",
+8,
+[]
+],
+[
+"jinete",
+8,
+[]
+],
+[
+"fangshi",
+8,
+[]
+],
+[
+"matron",
+8,
+[]
+],
+[
+"gardian",
+8,
+[]
+],
+[
+"fourth official",
+8,
+[
+"replacement referee",
+"reserve referee",
+"RR"
+]
+],
+[
+"in-house lawyer",
+8,
+[
+"in-house counsel",
+"in-house counsels",
+"In-house lawyer",
+"in-house lawyers"
+]
+],
+[
+"volleyball player",
+8,
+[
+"volleyball athlete",
+"volleyballer"
+]
+],
+[
+"science communicator",
+8,
+[
+"populariser of science",
+"popularizer of science",
+"SciComm'er",
+"science popularizer",
+"scientific popularizer"
+]
+],
+[
+"sinologist",
+8,
+[
+"sinologists"
+]
+],
+[
+"watchmaker",
+8,
+[
+"watchmender"
+]
+],
+[
+"malacologist",
+8,
+[]
+],
+[
+"nuclear physicist",
+8,
+[]
+],
+[
+"lithographer",
+8,
+[]
+],
+[
+"Sugar painting",
+8,
+[]
+],
+[
+"rescuer",
+8,
+[
+"rescue worker"
+]
+],
+[
+"lapidary",
+8,
+[]
+],
+[
+"tokoyama",
+8,
+[]
+],
+[
+"theatre critic",
+8,
+[
+"drama critic",
+"dramatic critic",
+"stage critic",
+"theater critic",
+"theatrical critic"
+]
+],
+[
+"Ganadhara",
+8,
+[]
+],
+[
+"line producer",
+8,
+[
+"film line producer"
+]
+],
+[
+"Bakuto",
+8,
+[]
+],
+[
+"assyriologist",
+8,
+[]
+],
+[
+"hip hop producer",
+8,
+[
+"beat maker",
+"beatmaker",
+"beat producer",
+"hip-hop producer",
+"hip hop record producer",
+"producer"
+]
+],
+[
+"cultural studies scholar",
+8,
+[
+"cultural academic",
+"cultural scientist",
+"culturologist"
+]
+],
+[
+"cheesemaker",
+8,
+[
+"cheese maker"
+]
+],
+[
+"orthoptist",
+8,
+[]
+],
+[
+"travel guide",
+8,
+[
+"tour guide",
+"tour leader",
+"travel guides"
+]
+],
+[
+"medical representative",
+8,
+[
+"medical sales representative",
+"pharmaceutical sales representative"
+]
+],
+[
+"interior designer",
+8,
+[
+"interior decorator",
+"internal design"
+]
+],
+[
+"restorer",
+8,
+[
+"art restorer"
+]
+],
+[
+"talmudist",
+8,
+[
+"Talmudic scholar"
+]
+],
+[
+"visagiste",
+8,
+[
+"make-up artist"
+]
+],
+[
+"chess arbiter",
+8,
+[
+"chess referee"
+]
+],
+[
+"conservation officer",
+8,
+[]
+],
+[
+"bicycle mechanic",
+8,
+[
+"bicycle technician"
+]
+],
+[
+"upholsterer",
+8,
+[]
+],
+[
+"technical director",
+8,
+[]
+],
+[
+"classical scholar",
+8,
+[
+"classicist",
+"classics scholar"
+]
+],
+[
+"mycologist",
+8,
+[]
+],
+[
+"khananda",
+8,
+[]
+],
+[
+"Lady's maid",
+8,
+[]
+],
+[
+"wedding officiant",
+8,
+[
+"celebrant",
+"marriage celebrant",
+"marriage officiant",
+"officiant",
+"solemnizer",
+"vow master",
+"wedding celebrant"
+]
+],
+[
+"banderillero",
+8,
+[]
+],
+[
+"auctioneer",
+8,
+[
+"bid caller",
+"commissaire priseur"
+]
+],
+[
+"FAO Goodwill Ambassador",
+8,
+[
+"Food and Agriculture Organization Goodwill Ambassador"
+]
+],
+[
+"commercial astronaut",
+8,
+[
+"astronaut"
+]
+],
+[
+"cheerleader",
+8,
+[
+"cheerleaders"
+]
+],
+[
+"kibbutz volunteer",
+8,
+[]
+],
+[
+"Master of Science in Engineering",
+8,
+[
+"Masters of Science in Engineering",
+"M.Eng.Sci.",
+"MSE"
+]
+],
+[
+"business executive",
+8,
+[
+"business owner",
+"company director",
+"company head",
+"corporate executive",
+"head of a company"
+]
+],
+[
+"eurocrat",
+8,
+[
+"eurocrats"
+]
+],
+[
+"yoriki",
+8,
+[]
+],
+[
+"horticulturist",
+8,
+[
+"horticulturalist",
+"hortist",
+"nurseryman"
+]
+],
+[
+"sound editor",
+8,
+[]
+],
+[
+"factor",
+8,
+[
+"agent",
+"commercial agent"
+]
+],
+[
+"wardrobe stylist",
+8,
+[
+"fashion stylist",
+"stylist"
+]
+],
+[
+"pizzaiolo",
+8,
+[
+"Art of Neapolitan ‘Pizzaiuolo’",
+"chef of pizza",
+"cook of pizza",
+"pizza chef",
+"pizza-chef",
+"pizza cook",
+"pizza-cook",
+"pizza maker",
+"pizza-maker",
+"pizzaria chef",
+"pizzaria cook",
+"pizzeria chef",
+"pizzeria cook"
+]
+],
+[
+"radio producer",
+8,
+[]
+],
+[
+"seignory",
+8,
+[]
+],
+[
+"reader",
+8,
+[]
+],
+[
+"trader",
+8,
+[
+"dealer",
+"merchant"
+]
+],
+[
+"military nurse",
+8,
+[]
+],
+[
+"master of novices",
+8,
+[
+"Magister novitiorum",
+"mistress of novices",
+"novice master",
+"novice mistress"
+]
+],
+[
+"Amah",
+8,
+[]
+],
+[
+"Schützen",
+8,
+[]
+],
+[
+"guitar maker",
+8,
+[
+"classical guitar making"
+]
+],
+[
+"Brehon",
+8,
+[]
+],
+[
+"garde champêtre",
+8,
+[
+"veldwachter"
+]
+],
+[
+"Fusiliers Marins",
+8,
+[
+"fusilier marin"
+]
+],
+[
+"clinician",
+8,
+[]
+],
+[
+"computer repair technician",
+8,
+[]
+],
+[
+"cattle rancher",
+8,
+[
+"Cattle herder",
+"cattle man",
+"cattleman",
+"cattle men",
+"cattlemen",
+"cattlerancher",
+"cattle ranchers",
+"cattleranchers",
+"cattle woman",
+"cattlewoman",
+"cattle women",
+"cattlewomen",
+"cow hand",
+"cowhand",
+"cowherd",
+"cow man",
+"cowman",
+"cow men",
+"cowmen",
+"cow woman",
+"cowwoman",
+"cow women",
+"cowwomen",
+"grazier",
+"graziers",
+"rancher",
+"ranchers",
+"stock man",
+"stockman",
+"stock men",
+"stockmen",
+"stock woman",
+"stockwoman",
+"stock women",
+"stockwomen"
+]
+],
+[
+"boilermaker",
+8,
+[
+"boiler maker",
+"boiler-maker"
+]
+],
+[
+"flight dispatcher",
+8,
+[
+"airline dispatcher",
+"flight follower",
+"flight operations officer",
+"flight planner"
+]
+],
+[
+"gatekeeper",
+8,
+[]
+],
+[
+"director of programming",
+8,
+[
+"broadcasting program director",
+"broadcast programming director",
+"director of programs",
+"program coordinator",
+"program director",
+"program manager",
+"programme director",
+"programme manager",
+"programming director"
+]
+],
+[
+"Latvian diplomatic service",
+8,
+[]
+],
+[
+"law enforcement officer",
+8,
+[
+"law enforcement agent",
+"law enforcement official",
+"LEO",
+"peace officer"
+]
+],
+[
+"independent financial adviser",
+8,
+[]
+],
+[
+"street painter",
+8,
+[
+"chalk artist",
+"madonnaro",
+"pavement artist",
+"sidewalk artist"
+]
+],
+[
+"poster artist",
+8,
+[
+"poster designer",
+"poster painter"
+]
+],
+[
+"ship's company",
+8,
+[
+"boat crew",
+"complement",
+"crew of a ship",
+"navy boat crew",
+"navy ship crew",
+"ship's crew",
+"ship’s crew"
+]
+],
+[
+"school superintendent",
+8,
+[
+"chief education officer",
+"school chancellor",
+"superintendent",
+"superintendent of schools"
+]
+],
+[
+"window dresser",
+8,
+[]
+],
+[
+"consignor",
+8,
+[
+"forwarder",
+"hauler",
+"logistics professional",
+"sender",
+"shipper",
+"shipping agent"
+]
+],
+[
+"Confucian scholar",
+8,
+[
+"confucianist",
+"Ru (Confucian scholar)"
+]
+],
+[
+"Shirabyōshi",
+8,
+[
+"shira-byōshi"
+]
+],
+[
+"rapporteur",
+8,
+[]
+],
+[
+"illuminator",
+8,
+[
+"limner",
+"manuscript illuminator"
+]
+],
+[
+"special education teacher",
+7,
+[
+"SEN teacher",
+"special ed teacher",
+"special educational needs teacher",
+"special educator",
+"special needs teacher",
+"special needs teachers"
+]
+],
+[
+"net idol",
+7,
+[]
+],
+[
+"primary school teacher",
+7,
+[
+"elementary school teacher"
+]
+],
+[
+"woman poet",
+7,
+[
+"female poet",
+"poetess"
+]
+],
+[
+"etcher",
+7,
+[]
+],
+[
+"personal assistant",
+7,
+[
+"PA",
+"personal aide",
+"personal secretary",
+"PS"
+]
+],
+[
+"industrial designer",
+7,
+[
+"applied designer",
+"industrial artist"
+]
+],
+[
+"sports journalist",
+7,
+[
+"sports columnist",
+"sports reporter",
+"sports writer",
+"sportswriter"
+]
+],
+[
+"architectural historian",
+7,
+[
+"architecture historian",
+"Architecture historian",
+"building archaeologist",
+"buildings archaeologist",
+"historian of architecture",
+"historici architektury",
+"historičky architektury"
+]
+],
+[
+"inker",
+7,
+[
+"comic inker",
+"embellisher",
+"finisher",
+"Inking (drawing technique)"
+]
+],
+[
+"geodesist",
+7,
+[
+"geodecist",
+"geodesian",
+"geodetic scientist",
+"geodetic surveyor"
+]
+],
+[
+"coleopterist",
+7,
+[
+"coleopterologist"
+]
+],
+[
+"social and health care assistant",
+7,
+[]
+],
+[
+"geophysicist",
+7,
+[]
+],
+[
+"wholesaler",
+7,
+[]
+],
+[
+"forestry worker",
+7,
+[
+"forestry assistant",
+"forestry labourers",
+"forestry workers",
+"forest worker",
+"forest workers",
+"silviculture worker",
+"woodland assistant",
+"woodland worker"
+]
+],
+[
+"parasitologist",
+7,
+[]
+],
+[
+"handball player",
+7,
+[
+"handballer"
+]
+],
+[
+"floor trader",
+7,
+[]
+],
+[
+"taikonaut",
+7,
+[
+"Chinese astronaut",
+"taikongren"
+]
+],
+[
+"functionary",
+7,
+[]
+],
+[
+"forward-deployed engineer",
+7,
+[
+"FDE",
+"forward deployed engineer",
+"Forward Deployed Engineer",
+"Forward-Deployed Engineer"
+]
+],
+[
+"glassblower",
+7,
+[
+"glass-blower",
+"glassworker"
+]
+],
+[
+"youth worker",
+7,
+[]
+],
+[
+"bail bondsman",
+7,
+[
+"bail bond agent",
+"bond dealer"
+]
+],
+[
+"schoolmaster",
+7,
+[
+"master",
+"school master"
+]
+],
+[
+"engineer's degree",
+7,
+[
+"engineering degree",
+"INGEN",
+"M.Sc.",
+"MSc."
+]
+],
+[
+"social scientist",
+7,
+[
+"social science researcher"
+]
+],
+[
+"cryptographer",
+7,
+[]
+],
+[
+"oidor",
+7,
+[]
+],
+[
+"steiger",
+7,
+[]
+],
+[
+"molecular biologist",
+7,
+[
+"molecular medician"
+]
+],
+[
+"aerospace engineer",
+7,
+[
+"aeronautical engineer",
+"aircraft engineer",
+"aviation engineer"
+]
+],
+[
+"competitive diver",
+7,
+[
+"diver",
+"diver (competitive)",
+"diver (sport)",
+"sport diver",
+"sports diver"
+]
+],
+[
+"oncologist",
+7,
+[
+"Oncologist Doctor",
+"oncologists"
+]
+],
+[
+"classical philologist",
+7,
+[]
+],
+[
+"semiotician",
+7,
+[
+"semiologist",
+"sémiotici"
+]
+],
+[
+"shammes",
+7,
+[
+"shamash"
+]
+],
+[
+"propagandist",
+7,
+[]
+],
+[
+"animal painter",
+7,
+[]
+],
+[
+"haberdasher",
+7,
+[
+"haberdashery"
+]
+],
+[
+"ornamental brassworker",
+7,
+[
+"brass founder",
+"brassworker",
+"girdler",
+"metal gürtler"
+]
+],
+[
+"arachnologist",
+7,
+[]
+],
+[
+"art theorist",
+7,
+[]
+],
+[
+"homeroom teacher",
+7,
+[
+"form teacher",
+"homeroom"
+]
+],
+[
+"sport shooter",
+7,
+[
+"shooter",
+"sports shooter"
+]
+],
+[
+"runemaster",
+7,
+[
+"runecarver"
+]
+],
+[
+"nailer",
+7,
+[
+"nail-maker",
+"nailmaker",
+"nailsmith"
+]
+],
+[
+"rawi",
+7,
+[
+"narrator of hadith",
+"Poetry Narrators",
+"Rāwī",
+"ruwat"
+]
+],
+[
+"theatre manager",
+7,
+[
+"theater director",
+"theater manager",
+"theatre director",
+"theatrical manager"
+]
+],
+[
+"theatre entrepreneur",
+7,
+[
+"impresario"
+]
+],
+[
+"Legist",
+7,
+[]
+],
+[
+"topologist",
+7,
+[]
+],
+[
+"stenographer",
+7,
+[
+"communication access real-time translation provider",
+"real-time captioner",
+"shorthand writer",
+"simultaneous captioner",
+"stenotype operator",
+"tachygrapher"
+]
+],
+[
+"marketer",
+7,
+[
+"marketeer",
+"marketing specialist"
+]
+],
+[
+"Companies law",
+7,
+[]
+],
+[
+"recruiter",
+7,
+[
+"headhunter",
+"recruitment consultant",
+"recruitment specialist",
+"talent acquisition specialist"
+]
+],
+[
+"gallerist",
+7,
+[
+"gallery owner"
+]
+],
+[
+"legal counselor",
+7,
+[]
+],
+[
+"legal historian",
+7,
+[]
+],
+[
+"race engineer",
+7,
+[]
+],
+[
+"industrial engineer",
+7,
+[
+"Industrial Engineer"
+]
+],
+[
+"territorial lord",
+7,
+[]
+],
+[
+"onmyōji",
+7,
+[
+"Onmyōji",
+"オンヨウジ",
+"陰陽師"
+]
+],
+[
+"literary executor",
+7,
+[]
+],
+[
+"program maker",
+7,
+[
+"television program creator",
+"television show creator"
+]
+],
+[
+"UNESCO Artist for Peace",
+7,
+[]
+],
+[
+"tool and die maker",
+7,
+[]
+],
+[
+"geriatrician",
+7,
+[
+"geriatric physician"
+]
+],
+[
+"intensivist",
+7,
+[]
+],
+[
+"independent scholar",
+7,
+[
+"amateur researcher"
+]
+],
+[
+"death midwife",
+7,
+[
+"death doula",
+"death midwife,"
+]
+],
+[
+"fire eater",
+7,
+[
+"fire-eater"
+]
+],
+[
+"engineering technician",
+7,
+[]
+],
+[
+"chef de partie",
+7,
+[
+"line cook",
+"station chef"
+]
+],
+[
+"sound designer",
+7,
+[]
+],
+[
+"editorial cartoonist",
+7,
+[
+"political cartoonist"
+]
+],
+[
+"dialogue writer",
+7,
+[
+"dialog writer"
+]
+],
+[
+"Chief Happiness Officer",
+7,
+[
+"Jolly Good Fellow"
+]
+],
+[
+"hematologist",
+7,
+[
+"blood doctor",
+"haematologist"
+]
+],
+[
+"authorized dealer",
+7,
+[
+"authorized dealership",
+"authorized distributor",
+"distributor",
+"jobber"
+]
+],
+[
+"calligrapher",
+7,
+[
+"penman",
+"writing artist"
+]
+],
+[
+"medievalist",
+7,
+[
+"historian of the Middle Ages",
+"mediaevalist"
+]
+],
+[
+"flight navigator",
+7,
+[
+"air navigator"
+]
+],
+[
+"war poet",
+7,
+[]
+],
+[
+"motorman",
+7,
+[
+"tram driver"
+]
+],
+[
+"rhetorician",
+7,
+[
+"rhetor"
+]
+],
+[
+"marine biologist",
+7,
+[]
+],
+[
+"hydrologist",
+7,
+[
+"hydroloog"
+]
+],
+[
+"employment counsellor",
+7,
+[]
+],
+[
+"test driver",
+7,
+[]
+],
+[
+"chief knowledge officer",
+7,
+[
+"CKO"
+]
+],
+[
+"ferryman",
+7,
+[]
+],
+[
+"traiteur",
+7,
+[
+"caterer",
+"cateress"
+]
+],
+[
+"flight instructor",
+7,
+[
+"aircraft instructor",
+"aviation instructor",
+"flight instructors",
+"flying instructor",
+"flying instructors"
+]
+],
+[
+"Thai boxer",
+7,
+[
+"Muay Thai boxer",
+"Muay Thai fighter",
+"Muay Thai practitioner"
+]
+],
+[
+"Sediari",
+7,
+[]
+],
+[
+"museum registrar",
+7,
+[
+"art collection registrar",
+"collection registrar"
+]
+],
+[
+"beta reader",
+7,
+[
+"beta-reader",
+"betareader"
+]
+],
+[
+"book printer",
+7,
+[]
+],
+[
+"air force pilot",
+7,
+[
+"aircraftman",
+"aircraftwoman",
+"air force aviator",
+"airman",
+"airwoman",
+"military aviator",
+"military pilot"
+]
+],
+[
+"alpine skier",
+7,
+[]
+],
+[
+"iconographer",
+7,
+[
+"icon painter"
+]
+],
+[
+"professional gamer",
+7,
+[
+"e-gamer",
+"esport player",
+"e-sports player",
+"esports player",
+"gamer",
+"pro gamer",
+"video gamer"
+]
+],
+[
+"long-distance runner",
+7,
+[
+"distance runner",
+"long distance runner"
+]
+],
+[
+"marine surveyor",
+7,
+[
+"cargo surveyor",
+"yacht surveyor"
+]
+],
+[
+"municipal executive",
+7,
+[
+"alderman"
+]
+],
+[
+"aikidoka",
+7,
+[
+"aikidōka"
+]
+],
+[
+"bell founder",
+7,
+[
+"bell caster",
+"bell-founder",
+"bellfounder",
+"bell maker",
+"bellmaker",
+"bellsmith"
+]
+],
+[
+"Bendahara",
+7,
+[]
+],
+[
+"busser",
+7,
+[
+"busboy",
+"bus girl",
+"bus person"
+]
+],
+[
+"child advocacy",
+7,
+[]
+],
+[
+"crew member",
+7,
+[
+"crewman",
+"crewmate",
+"crewmember",
+"crewperson",
+"vehicle crew member"
+]
+],
+[
+"dating coach",
+7,
+[]
+],
+[
+"electrical technologist",
+7,
+[]
+],
+[
+"ethicist",
+7,
+[
+"ethicists"
+]
+],
+[
+"deputy head teacher",
+7,
+[
+"assistant headmaster",
+"assistant headmistress",
+"assistant head teacher",
+"assistant principal",
+"deputy head",
+"deputy headmaster",
+"deputy headmistress",
+"deputy principal",
+"vice principal"
+]
+],
+[
+"storyboard artist",
+7,
+[
+"story artist",
+"storyboarder",
+"storyboardist",
+"visualizer"
+]
+],
+[
+"draper",
+7,
+[
+"linen draper"
+]
+],
+[
+"pump attendant",
+7,
+[
+"filling jockey",
+"filling station attendant",
+"gas jockey",
+"gas pump attendant",
+"gas pump jockey",
+"gas station attendant"
+]
+],
+[
+"cathedral provost",
+7,
+[]
+],
+[
+"Financial Secretary",
+7,
+[
+"FS"
+]
+],
+[
+"media consultant",
+7,
+[
+"media advisor شرموطة"
+]
+],
+[
+"mental health counselor",
+7,
+[
+"counsellor",
+"counselor",
+"MHC"
+]
+],
+[
+"mixing engineer",
+7,
+[
+"audio mixer",
+"mix engineer",
+"mixer",
+"music mixer"
+]
+],
+[
+"müneccimbaşı",
+7,
+[
+"chief astrologer"
+]
+],
+[
+"pendekar",
+7,
+[
+"Pandeka"
+]
+],
+[
+"American football official",
+7,
+[
+"head linesman",
+"NFL official",
+"official"
+]
+],
+[
+"ring announcer",
+7,
+[]
+],
+[
+"football scout",
+7,
+[
+"scout"
+]
+],
+[
+"respiratory therapist",
+7,
+[]
+],
+[
+"technical advisor",
+7,
+[
+"technical adviser"
+]
+],
+[
+"school social work",
+7,
+[
+"school social worker"
+]
+],
+[
+"bergmeister",
+7,
+[]
+],
+[
+"day trader",
+7,
+[]
+],
+[
+"baseball coach",
+7,
+[
+"coach"
+]
+],
+[
+"executive",
+7,
+[
+"executive officer",
+"leader"
+]
+],
+[
+"director of audiography",
+7,
+[
+"audio director",
+"sound director"
+]
+],
+[
+"master of the works",
+7,
+[
+"foreman (MA)",
+"magister operis",
+"magister operum",
+"works, master of the"
+]
+],
+[
+"bridge tender",
+7,
+[
+"bridge keeper"
+]
+],
+[
+"social psychologist",
+6,
+[]
+],
+[
+"rally driver",
+6,
+[
+"race car driver",
+"racing automobile driver",
+"rallye driver"
+]
+],
+[
+"comics creator",
+6,
+[
+"comic author",
+"comic book creator",
+"comic creator"
+]
+],
+[
+"drug detection dog",
+6,
+[]
+],
+[
+"gastronomist",
+6,
+[]
+],
+[
+"criminal investigator",
+6,
+[
+"detective",
+"investigator"
+]
+],
+[
+"earth scientist",
+6,
+[
+"Earth scientist",
+"Earth scientists",
+"geoscientist",
+"geoscientists"
+]
+],
+[
+"infectious disease physician",
+6,
+[
+"infectiologist",
+"Infectious Disease Science",
+"infectious disease specialist",
+"infectious diseases physician"
+]
+],
+[
+"data steward",
+6,
+[]
+],
+[
+"homeopath",
+6,
+[
+"homeopath and physician",
+"homeopathic practitioner",
+"homoeopath"
+]
+],
+[
+"nurse scientist",
+6,
+[
+"nursing researcher",
+"nursing scholar",
+"nursing scientist"
+]
+],
+[
+"diamond cutter",
+6,
+[
+"diamantaire"
+]
+],
+[
+"controller",
+6,
+[]
+],
+[
+"social entrepreneur",
+6,
+[]
+],
+[
+"documentary filmmaker",
+6,
+[
+"director of documentary films",
+"documentarian",
+"documentarist",
+"documentary film director",
+"documentary film maker",
+"documentary film producer",
+"documentary movie maker"
+]
+],
+[
+"censor",
+6,
+[]
+],
+[
+"venereologist",
+6,
+[]
+],
+[
+"currier",
+6,
+[
+"leather currier",
+"whittawer"
+]
+],
+[
+"artistic gymnast",
+6,
+[
+"gymnast"
+]
+],
+[
+"mineralogist",
+6,
+[]
+],
+[
+"hammer thrower",
+6,
+[
+"hammer throwers"
+]
+],
+[
+"warehouseman",
+6,
+[
+"storeman"
+]
+],
+[
+"probation officer",
+6,
+[
+"parole officer"
+]
+],
+[
+"professional hunter",
+6,
+[
+"commercial hunter",
+"gamekeeper",
+"market hunter",
+"professional stalker"
+]
+],
+[
+"engine tuning",
+6,
+[
+"remapping"
+]
+],
+[
+"aviation medical examiner",
+6,
+[
+"aeromedical examiner",
+"aerospace physician",
+"AME",
+"aviation medicine physician",
+"flight surgeon"
+]
+],
+[
+"legislative assistant",
+6,
+[
+"legislative aide"
+]
+],
+[
+"logician",
+6,
+[]
+],
+[
+"military historian",
+6,
+[]
+],
+[
+"road mender",
+6,
+[
+"roadman",
+"roadman worker"
+]
+],
+[
+"crystallographer",
+6,
+[
+"crystallographer-physicist"
+]
+],
+[
+"farmhands",
+6,
+[
+"domestic servant",
+"household servant",
+"servant"
+]
+],
+[
+"cabaret performer",
+6,
+[
+"cabaret artist",
+"cabaretist",
+"cabaret show performer"
+]
+],
+[
+"cetologist",
+6,
+[]
+],
+[
+"coxswain",
+6,
+[
+"helmsman",
+"steersman"
+]
+],
+[
+"slavist",
+6,
+[
+"slavicist",
+"Slavic studies scholar"
+]
+],
+[
+"non-fiction writer",
+6,
+[
+"non-fiction author",
+"nonfiction author",
+"nonfiction writer"
+]
+],
+[
+"metalworker",
+6,
+[
+"metal worker",
+"Metalworker",
+"metal workers",
+"metalworkers"
+]
+],
+[
+"contractor",
+6,
+[]
+],
+[
+"youth leader",
+6,
+[]
+],
+[
+"embryologist",
+6,
+[
+"embriologist"
+]
+],
+[
+"costume design",
+6,
+[]
+],
+[
+"bryologist",
+6,
+[
+"bryologové",
+"bryology specialist",
+"bryophyte biologist"
+]
+],
+[
+"plant dyeing",
+6,
+[
+"natural dyeing",
+"vegetable dyeing"
+]
+],
+[
+"cryptanalyst",
+6,
+[
+"code breaker",
+"codebreaker",
+"cryptoanalyst"
+]
+],
+[
+"environmental scientist",
+6,
+[
+"environmentalist",
+"environmental researcher",
+"environmental scholar"
+]
+],
+[
+"importer",
+6,
+[]
+],
+[
+"primatologist",
+6,
+[]
+],
+[
+"ethologist",
+6,
+[
+"animal behavioral scientist",
+"animal behavior scientist",
+"animal behavioural scientist",
+"animal behaviour scientist"
+]
+],
+[
+"gymnast",
+6,
+[]
+],
+[
+"trip sitter",
+6,
+[]
+],
+[
+"Yobidashi",
+6,
+[
+"ring announcer",
+"usher"
+]
+],
+[
+"candle-maker",
+6,
+[
+"candle maker",
+"candlemaker",
+"chandler",
+"tallow-chandler"
+]
+],
+[
+"goldbeater",
+6,
+[]
+],
+[
+"Chief steward",
+6,
+[]
+],
+[
+"Indologist",
+6,
+[
+"Indianist",
+"Indologists"
+]
+],
+[
+"shot putter",
+6,
+[
+"shotputter",
+"weight thrower"
+]
+],
+[
+"science fiction writer",
+6,
+[
+"science fiction author",
+"sci-fi author",
+"sci-fi writer"
+]
+],
+[
+"video game designer",
+6,
+[
+"computer game designer",
+"computer games designer",
+"digital games designer",
+"videogame designer",
+"video games designer",
+"virtual games designer"
+]
+],
+[
+"educational technologist",
+6,
+[]
+],
+[
+"monogrammist",
+6,
+[]
+],
+[
+"gold miner",
+6,
+[
+"gold digger",
+"golddigger",
+"goldminer",
+"gold prospector",
+"gold seeker",
+"goldseeker",
+"zlatokopky"
+]
+],
+[
+"cardiac surgeon",
+6,
+[
+"cardiovascular surgeon",
+"heart surgeon"
+]
+],
+[
+"UNICEF Goodwill Ambassador",
+6,
+[
+"United Nations International Children's Emergency Fund Goodwill Ambassador"
+]
+],
+[
+"lay ecclesial minister",
+6,
+[
+"Lay ecclesial ministry"
+]
+],
+[
+"greenskeeper",
+6,
+[]
+],
+[
+"music journalist",
+6,
+[
+"music writer"
+]
+],
+[
+"architectural drafter",
+6,
+[
+"architectural draftsman",
+"architectural draftsperson",
+"architectural draughtsman",
+"architectural draughtsperson",
+"architecture drawer",
+"civil drafter",
+"drafter",
+"draftsman",
+"draftspeople",
+"draftswoman"
+]
+],
+[
+"surveying engineer",
+6,
+[]
+],
+[
+"travel agent",
+6,
+[
+"tourism agency",
+"tourist agency",
+"tourist broker",
+"travel advisor",
+"travel consultant"
+]
+],
+[
+"conceptual artist",
+6,
+[]
+],
+[
+"stained-glass artist",
+6,
+[
+"stained glass artist",
+"stained-glass designer",
+"stained glass maker",
+"stained glass window designer"
+]
+],
+[
+"music publisher",
+6,
+[]
+],
+[
+"reaper",
+6,
+[]
+],
+[
+"domestic worker cook",
+6,
+[
+"private chef"
+]
+],
+[
+"philosophy historian",
+6,
+[
+"historian of philosophy"
+]
+],
+[
+"tonmeister",
+6,
+[
+"balance engineer",
+"recording producer"
+]
+],
+[
+"romanist",
+6,
+[
+"Italianizers",
+"Romance philologist",
+"Romance studies scholar",
+"romanicist",
+"romanists"
+]
+],
+[
+"hispanist",
+6,
+[]
+],
+[
+"jewelry designer",
+6,
+[
+"jeweler",
+"jeweller",
+"jewellery artist",
+"jewellery designer",
+"jewellery maker",
+"jewelry artist",
+"jewelry maker"
+]
+],
+[
+"registrar",
+6,
+[
+"court registrar",
+"register"
+]
+],
+[
+"rescue swimmer",
+6,
+[]
+],
+[
+"certified translator",
+6,
+[
+"public translator",
+"sworn translator"
+]
+],
+[
+"medical director",
+6,
+[
+"director"
+]
+],
+[
+"traumatologist",
+6,
+[]
+],
+[
+"conscript soldier",
+6,
+[]
+],
+[
+"Chief Court Mistress",
+6,
+[]
+],
+[
+"cosmetologist",
+6,
+[]
+],
+[
+"sharpshooter",
+6,
+[
+"sniper"
+]
+],
+[
+"gilder",
+6,
+[
+"gilders"
+]
+],
+[
+"otolaryngologist",
+6,
+[
+"ear, nose, and throat doctor",
+"ear, nose and throat specialist",
+"ENT doctor",
+"ORL",
+"otorhinolaryngologist"
+]
+],
+[
+"boxing referee",
+6,
+[
+"referee"
+]
+],
+[
+"audioprothesist",
+6,
+[
+"audioprosthologist"
+]
+],
+[
+"turner",
+6,
+[
+"CNC turner",
+"lathe operator"
+]
+],
+[
+"Postelnic",
+6,
+[]
+],
+[
+"data scientist",
+6,
+[
+"data science professional",
+"researcher of data science"
+]
+],
+[
+"canut",
+6,
+[]
+],
+[
+"Capitoul",
+6,
+[]
+],
+[
+"confectioner",
+6,
+[
+"candy maker"
+]
+],
+[
+"flight nurse",
+6,
+[]
+],
+[
+"andrologist",
+6,
+[]
+],
+[
+"ski teacher",
+6,
+[
+"ski instructor",
+"snowsports instructor"
+]
+],
+[
+"ski patroller",
+6,
+[]
+],
+[
+"collection manager",
+6,
+[
+"collections manager"
+]
+],
+[
+"salonnière",
+6,
+[
+"literary host",
+"literary hostess",
+"salon-holder",
+"salon host",
+"salon hostess",
+"saloniere",
+"salonière",
+"salonist",
+"salonnier",
+"salonniere"
+]
+],
+[
+"public information officer",
+6,
+[
+"PIOs"
+]
+],
+[
+"Islamicist",
+6,
+[
+"Islamic scholar",
+"Islamic studies scholar",
+"islamologist",
+"scholar of Islamic cultures"
+]
+],
+[
+"child model",
+6,
+[]
+],
+[
+"manual worker",
+6,
+[]
+],
+[
+"plant breeder",
+6,
+[]
+],
+[
+"onsen geisha",
+6,
+[]
+],
+[
+"muralist",
+6,
+[
+"mural artist",
+"mural painter"
+]
+],
+[
+"tropeiro",
+6,
+[
+"tropeiro drover"
+]
+],
+[
+"church musician",
+6,
+[]
+],
+[
+"travel writer",
+6,
+[
+"travel book writer",
+"travel columnist"
+]
+],
+[
+"hostess",
+6,
+[
+"welcoming staff"
+]
+],
+[
+"retail manager",
+6,
+[
+"store manager"
+]
+],
+[
+"eclipse chasing",
+6,
+[]
+],
+[
+"rock climber",
+6,
+[
+"climber"
+]
+],
+[
+"sprinter",
+6,
+[
+"short distance runner",
+"short-distance runner"
+]
+],
+[
+"environmental health officer",
+6,
+[
+"environmental health practitioner",
+"public health inspector",
+"public health officer",
+"sanitarian"
+]
+],
+[
+"film scholar",
+6,
+[
+"cinema scholar",
+"cinema studies scholar",
+"film studies scholar",
+"movie scholar",
+"scholar of cinema studies",
+"scholar of film studies"
+]
+],
+[
+"landscaper",
+6,
+[
+"groundskeeper",
+"lawnmower man",
+"lawnmower woman"
+]
+],
+[
+"expeditor",
+6,
+[]
+],
+[
+"rigger",
+6,
+[]
+],
+[
+"toxicologist",
+6,
+[]
+],
+[
+"administrative assistant",
+6,
+[
+"administration technician"
+]
+],
+[
+"French corsairs",
+6,
+[]
+],
+[
+"apparitor",
+6,
+[
+"apparitores",
+"summoner"
+]
+],
+[
+"manaschy",
+6,
+[]
+],
+[
+"Bazaari",
+6,
+[]
+],
+[
+"credit broker",
+6,
+[]
+],
+[
+"car finance",
+6,
+[]
+],
+[
+"Certified management consultant",
+6,
+[
+"CMC"
+]
+],
+[
+"ice hockey coach",
+6,
+[
+"coach (ice hockey)",
+"hockey coach",
+"hockey trainer",
+"ice hockey trainer"
+]
+],
+[
+"commander",
+6,
+[
+"Cdr",
+"commander (Royal Navy)",
+"master and commander"
+]
+],
+[
+"community health worker",
+6,
+[
+"community health workers"
+]
+],
+[
+"community interpreting",
+6,
+[]
+],
+[
+"heraldist",
+6,
+[]
+],
+[
+"director of communications",
+6,
+[
+"communications director"
+]
+],
+[
+"educational psychologist",
+6,
+[]
+],
+[
+"equipment manager",
+6,
+[]
+],
+[
+"illegal prospectors",
+6,
+[]
+],
+[
+"corrector",
+6,
+[]
+],
+[
+"first assistant engineer",
+6,
+[
+"second engineer"
+]
+],
+[
+"Granthi",
+6,
+[]
+],
+[
+"historiographer",
+6,
+[]
+],
+[
+"chestnuts vendor",
+6,
+[
+"roasted chestnuts vendor"
+]
+],
+[
+"shop assistant",
+6,
+[
+"retail assistant",
+"retail associate",
+"retail clerk",
+"sales assistant",
+"sales clerk",
+"salesclerk",
+"shop associate",
+"shop clerk",
+"store clerk"
+]
+],
+[
+"Kulbar",
+6,
+[]
+],
+[
+"vaticanist",
+6,
+[
+"vaticanologist"
+]
+],
+[
+"dyer",
+6,
+[
+"Dyer",
+"lister",
+"litster"
+]
+],
+[
+"video journalist",
+6,
+[]
+],
+[
+"succentor",
+6,
+[]
+],
+[
+"mental health professional",
+6,
+[]
+],
+[
+"stamp dealer",
+6,
+[]
+],
+[
+"Av Beit Din",
+6,
+[]
+],
+[
+"principal investigator",
+6,
+[
+"chief investigator",
+"head investigator",
+"lead researcher",
+"PI",
+"principal researcher",
+"principal research fellow",
+"research director",
+"research leader",
+"theme lead"
+]
+],
+[
+"Quaestor",
+6,
+[]
+],
+[
+"Rower woman",
+6,
+[]
+],
+[
+"strength and conditioning coach",
+6,
+[
+"S&C coach",
+"strength & conditioning coach"
+]
+],
+[
+"systems architect",
+6,
+[
+"system Architect"
+]
+],
+[
+"numerologist",
+6,
+[]
+],
+[
+"warrior monk",
+6,
+[
+"monk",
+"monk soldier"
+]
+],
+[
+"ocularist",
+6,
+[]
+],
+[
+"broomsquire",
+6,
+[]
+],
+[
+"occupational physician",
+6,
+[
+"occupational health care",
+"occupational medicine physician",
+"plant physician",
+"work physician",
+"worksite clinician"
+]
+],
+[
+"Vocaloid producer",
+6,
+[
+"Vocaloid-P",
+"VocaloidP",
+"Vocalo-P"
+]
+],
+[
+"picture editor",
+6,
+[
+"photo editor"
+]
+],
+[
+"aquarist",
+6,
+[
+"fishkeeper"
+]
+],
+[
+"lecturer",
+6,
+[
+"visiting lecturer"
+]
+],
+[
+"sanitation worker",
+6,
+[
+"sanitary worker"
+]
+],
+[
+"grandmaster",
+6,
+[
+"martial arts master"
+]
+],
+[
+"computer engineer",
+5,
+[
+"IT engineer"
+]
+],
+[
+"music therapist",
+5,
+[]
+],
+[
+"Electro-technical officer",
+5,
+[]
+],
+[
+"theatrologist",
+5,
+[
+"theater scholar",
+"theater studies scholar",
+"theatre scholar",
+"theatre studies scholar"
+]
+],
+[
+"accompanist",
+5,
+[]
+],
+[
+"meteorological observer",
+5,
+[
+"observer",
+"weather observer"
+]
+],
+[
+"digital creator",
+5,
+[
+"content creator",
+"digital content creator",
+"digital content producer",
+"digital influencer"
+]
+],
+[
+"server administrator",
+5,
+[
+"Linux administrator",
+"systems administration",
+"systems information specialist",
+"Windows administrator"
+]
+],
+[
+"kickboxer",
+5,
+[
+"kick boxer",
+"kick-boxer"
+]
+],
+[
+"dowser",
+5,
+[
+"dowsers",
+"water diviner"
+]
+],
+[
+"handicrafter",
+5,
+[
+"craftsman",
+"craftswoman"
+]
+],
+[
+"professional shogi player",
+5,
+[
+"professional shōgi player",
+"shogi player"
+]
+],
+[
+"military commander",
+5,
+[
+"military officers"
+]
+],
+[
+"hydrobiologist",
+5,
+[]
+],
+[
+"documentarian",
+5,
+[]
+],
+[
+"pewterer",
+5,
+[
+"pewter caster",
+"pewter smith",
+"pewtersmith"
+]
+],
+[
+"mental health nurse",
+5,
+[
+"psychiatric nurse",
+"psychiatric nurses"
+]
+],
+[
+"news analyst",
+5,
+[
+"broadcast news analyst"
+]
+],
+[
+"humorous cartoonist",
+5,
+[
+"карикатурист",
+"сатирический карикатурист",
+"юморист карикатурист"
+]
+],
+[
+"penn",
+5,
+[]
+],
+[
+"thatcher",
+5,
+[]
+],
+[
+"prímás",
+5,
+[]
+],
+[
+"handball coach",
+5,
+[]
+],
+[
+"middle-distance runner",
+5,
+[
+"middle distance runner"
+]
+],
+[
+"high jumper",
+5,
+[]
+],
+[
+"archer",
+5,
+[]
+],
+[
+"canoeist",
+5,
+[
+"canoer",
+"paddler",
+"sprint canoer"
+]
+],
+[
+"pole vaulter",
+5,
+[]
+],
+[
+"hurdler",
+5,
+[]
+],
+[
+"rugby union player",
+5,
+[
+"rugby union footballer",
+"rugger"
+]
+],
+[
+"xylographer",
+5,
+[
+"block-cutter",
+"form cutter",
+"woodblock cutter",
+"wood carver",
+"woodcutter"
+]
+],
+[
+"health visitor",
+5,
+[
+"child and family health nurse"
+]
+],
+[
+"case officer",
+5,
+[
+"agent handler"
+]
+],
+[
+"biophysicist",
+5,
+[
+"biological physicist"
+]
+],
+[
+"chartered surveyor",
+5,
+[
+"CS"
+]
+],
+[
+"court interpreter",
+5,
+[]
+],
+[
+"rancher",
+5,
+[
+"breeder",
+"husbandry worker",
+"ranchman",
+"stockman"
+]
+],
+[
+"Agatheorgi",
+5,
+[]
+],
+[
+"ragi",
+5,
+[]
+],
+[
+"epigrapher",
+5,
+[
+"epigraphist"
+]
+],
+[
+"internist",
+5,
+[
+"general internal medicine physician",
+"general internist",
+"physician"
+]
+],
+[
+"medical historian",
+5,
+[
+"historian of medicine"
+]
+],
+[
+"japanologist",
+5,
+[
+"japanologists"
+]
+],
+[
+"horse breeder",
+5,
+[]
+],
+[
+"magistrate",
+5,
+[
+"magistrat",
+"magistrate in France",
+"magistrats"
+]
+],
+[
+"pamphleteer",
+5,
+[]
+],
+[
+"brushmaker",
+5,
+[
+"brush maker",
+"brush-maker",
+"brushmaker's"
+]
+],
+[
+"mate",
+5,
+[
+"first mate"
+]
+],
+[
+"scholar of English",
+5,
+[
+"anglicist",
+"anglist",
+"English language scholar",
+"English literary scholar",
+"English literature scholar",
+"English professor",
+"English scholar",
+"English studies scholar",
+"professor of English",
+"scholar of English literature"
+]
+],
+[
+"lexicologist",
+5,
+[]
+],
+[
+"dog handler",
+5,
+[
+"canine handler",
+"dog leader",
+"K9 handler"
+]
+],
+[
+"philosopher of science",
+5,
+[]
+],
+[
+"hydraulic engineer",
+5,
+[
+"hydraulics engineer",
+"Hydraulist",
+"hydro engineer",
+"water engineer"
+]
+],
+[
+"speleologist",
+5,
+[
+"spelunker"
+]
+],
+[
+"hypnotist",
+5,
+[
+"tist"
+]
+],
+[
+"carcinologist",
+5,
+[]
+],
+[
+"conservation technician",
+5,
+[]
+],
+[
+"conservation scientist",
+5,
+[]
+],
+[
+"Digital Champions",
+5,
+[]
+],
+[
+"japanning",
+5,
+[]
+],
+[
+"limnologist",
+5,
+[]
+],
+[
+"church historian",
+5,
+[
+"historian of Christianism",
+"historian of Christianity"
+]
+],
+[
+"historian of religion",
+5,
+[
+"religious historian"
+]
+],
+[
+"economic historian",
+5,
+[]
+],
+[
+"skateboarder",
+5,
+[]
+],
+[
+"latinist",
+5,
+[
+"Latin scholar"
+]
+],
+[
+"navvy",
+5,
+[
+"navigational engineer"
+]
+],
+[
+"installation artist",
+5,
+[]
+],
+[
+"foreign correspondent",
+5,
+[
+"foreign editor",
+"international correspondent"
+]
+],
+[
+"video artist",
+5,
+[]
+],
+[
+"certified teacher",
+5,
+[]
+],
+[
+"newspaper hawker",
+5,
+[
+"newsboy",
+"news butcher",
+"newsie",
+"Newspaper vendor"
+]
+],
+[
+"Tibetologist",
+5,
+[
+"Tibetan studies scholar",
+"Tibetan studies specialist"
+]
+],
+[
+"ufologist",
+5,
+[]
+],
+[
+"theorist",
+5,
+[
+"theoretician"
+]
+],
+[
+"agricultural worker",
+5,
+[
+"agricultural laborer",
+"agricultural labourer",
+"agricultural workers",
+"farmhand",
+"farm worker"
+]
+],
+[
+"Semitist",
+5,
+[
+"Semitic scholar",
+"Semitics scholar",
+"Semitologist"
+]
+],
+[
+"furniture maker",
+5,
+[
+"furnisher"
+]
+],
+[
+"musical instrument maker",
+5,
+[
+"instrument builder",
+"instrument craft",
+"instrument maker"
+]
+],
+[
+"periodontist",
+5,
+[
+"periodontal dentists"
+]
+],
+[
+"school inspector",
+5,
+[
+"government inspector of schools",
+"gymnasium inspector",
+"inspector of educational institution",
+"inspector of schools",
+"schools inspector"
+]
+],
+[
+"biblical scholar",
+5,
+[
+"Bible scholar"
+]
+],
+[
+"undertaker’s man",
+5,
+[
+"notifier"
+]
+],
+[
+"radiation therapist",
+5,
+[
+"radiotherapist",
+"therapeutic radiographer"
+]
+],
+[
+"coordinator",
+5,
+[
+"leader and referent"
+]
+],
+[
+"civilian employee of the military",
+5,
+[]
+],
+[
+"taxidermist",
+5,
+[]
+],
+[
+"shunter",
+5,
+[]
+],
+[
+"rose breeder",
+5,
+[
+"rhodologist",
+"rosarian"
+]
+],
+[
+"television journalist",
+5,
+[
+"telejournalist",
+"television reporter",
+"tv journalist"
+]
+],
+[
+"patternmaker",
+5,
+[
+"cutter",
+"pattern cutter",
+"pattern-maker",
+"Pattern maker"
+]
+],
+[
+"quarryman",
+5,
+[
+"stone breaker"
+]
+],
+[
+"instrument maker",
+5,
+[]
+],
+[
+"neurophysiologist",
+5,
+[]
+],
+[
+"seculary canon",
+5,
+[]
+],
+[
+"dance teacher",
+5,
+[
+"dance coach",
+"dance educator",
+"dance instructor",
+"dance master",
+"dance pedagogue",
+"dancing master"
+]
+],
+[
+"worship leader",
+5,
+[]
+],
+[
+"lock keeper",
+5,
+[
+"lock operator",
+"lock tender"
+]
+],
+[
+"Tipster",
+5,
+[]
+],
+[
+"drama teacher",
+5,
+[
+"drama professor",
+"theater arts teacher",
+"theater professor",
+"theater teacher",
+"theatre arts teacher",
+"theatre pedagogue",
+"theatre professor",
+"theatre teacher"
+]
+],
+[
+"corporate travel management",
+5,
+[]
+],
+[
+"histologist",
+5,
+[]
+],
+[
+"cardiac nursing",
+5,
+[
+"cardiovascular nursing"
+]
+],
+[
+"wine critic",
+5,
+[]
+],
+[
+"Mirab",
+5,
+[]
+],
+[
+"dievdirbys",
+5,
+[]
+],
+[
+"Governor of the Bank of Canada",
+5,
+[]
+],
+[
+"lobster fishing",
+5,
+[]
+],
+[
+"forcado",
+5,
+[]
+],
+[
+"professional athlete",
+5,
+[
+"professional sportsperson"
+]
+],
+[
+"mosaicist",
+5,
+[
+"mosaic artist"
+]
+],
+[
+"pomologist",
+5,
+[]
+],
+[
+"archchaplain",
+5,
+[]
+],
+[
+"glass artist",
+5,
+[]
+],
+[
+"patent examiner",
+5,
+[
+"patent clerk"
+]
+],
+[
+"Meshulach",
+5,
+[]
+],
+[
+"stretcher bearer",
+5,
+[]
+],
+[
+"communications manager",
+5,
+[
+"communications executive",
+"press relations officer",
+"pr manager",
+"public relations manager"
+]
+],
+[
+"Kommerkiarios",
+5,
+[]
+],
+[
+"drug dealer",
+5,
+[]
+],
+[
+"knowledge engineer",
+5,
+[]
+],
+[
+"research associate",
+5,
+[
+"Associate Researcher",
+"research engineer",
+"scientific collaborator",
+"Senior research associate"
+]
+],
+[
+"Go professional",
+5,
+[
+"Go player professional",
+"professional Go player",
+"professional Go players"
+]
+],
+[
+"color commentator",
+5,
+[
+"color analyst",
+"expert commentator",
+"sport consultant",
+"sports consultant",
+"summariser"
+]
+],
+[
+"chair maker",
+5,
+[
+"joiner in seats"
+]
+],
+[
+"celebrity chef",
+5,
+[]
+],
+[
+"diving instructor",
+5,
+[
+"underwater diving instructor"
+]
+],
+[
+"external auditor",
+5,
+[]
+],
+[
+"art photographer",
+5,
+[
+"artist photographer",
+"fine-art photographer",
+"photo artist",
+"photographic artist",
+"photography artist"
+]
+],
+[
+"sandal-bearer",
+5,
+[]
+],
+[
+"epileptologist",
+5,
+[]
+],
+[
+"road manager",
+5,
+[
+"band tour manager",
+"concert tour manager",
+"tour manager"
+]
+],
+[
+"video game writer",
+5,
+[
+"game scenario writer",
+"game screenwriter",
+"game writer",
+"video game screenwriter",
+"videogame screenwriter",
+"videogame writer"
+]
+],
+[
+"dog groomer",
+5,
+[]
+],
+[
+"tour manager",
+5,
+[
+"concert tour manager"
+]
+],
+[
+"Dayan",
+5,
+[
+"Jewish judge"
+]
+],
+[
+"anatomical pathologist",
+5,
+[
+"anatomic pathologist",
+"pathologist",
+"pathologist-anatomist"
+]
+],
+[
+"Barbapedana",
+5,
+[]
+],
+[
+"content manager",
+5,
+[]
+],
+[
+"counterfeiter",
+5,
+[
+"forger"
+]
+],
+[
+"phytopathologist",
+5,
+[
+"plant pathologist"
+]
+],
+[
+"Recorte",
+5,
+[]
+],
+[
+"dance choreography",
+5,
+[
+"choreographic composition",
+"dance composition"
+]
+],
+[
+"protistologist",
+5,
+[
+"eukaryote microbiologist",
+"eukaryotic microbiologist",
+"protist biologist"
+]
+],
+[
+"trapeze artist",
+5,
+[
+"trapeze performer"
+]
+],
+[
+"ballerina",
+5,
+[]
+],
+[
+"Officer of the deck",
+5,
+[]
+],
+[
+"Hello Girls",
+5,
+[
+"Signal Corps Female Telephone Operators Unit"
+]
+],
+[
+"naturopath",
+5,
+[
+"naturopathic practitioner"
+]
+],
+[
+"conchologist",
+5,
+[
+"shell collector"
+]
+],
+[
+"Secondman",
+5,
+[
+"driver's assistant"
+]
+],
+[
+"tractor driver",
+5,
+[
+"tractorist",
+"tractor operator"
+]
+],
+[
+"Kholmogory bone carving",
+5,
+[]
+],
+[
+"Hittitologist",
+5,
+[]
+],
+[
+"yamshik",
+5,
+[]
+],
+[
+"architectural designer",
+5,
+[]
+],
+[
+"architectural illustrator",
+5,
+[]
+],
+[
+"bikini barista",
+5,
+[]
+],
+[
+"biomedical scientist",
+5,
+[
+"biomedical researcher"
+]
+],
+[
+"dogsled musher",
+5,
+[
+"dog musher",
+"dog-sledder",
+"dogsledder",
+"dog sled driver",
+"dogsled driver",
+"dog sledge driver",
+"dog sled musher",
+"dog sled racer",
+"dogsled racer",
+"mushers",
+"sled dog driver",
+"sled dog musher",
+"sled dog racer"
+]
+],
+[
+"chief content officer",
+5,
+[
+"CCO"
+]
+],
+[
+"technology specialist",
+5,
+[
+"computer professional",
+"computer-related occupation",
+"IT profession",
+"IT professional",
+"IT specialist",
+"technology professional"
+]
+],
+[
+"court reporter",
+5,
+[
+"court stenographer",
+"guardian of the record",
+"guardians of the record",
+"law reporter",
+"shorthand reporter"
+]
+],
+[
+"Dean of women",
+5,
+[]
+],
+[
+"Méhariste",
+5,
+[]
+],
+[
+"educational consultant",
+5,
+[
+"education consultant"
+]
+],
+[
+"fitting model",
+5,
+[
+"fit model"
+]
+],
+[
+"engineering geologist",
+5,
+[]
+],
+[
+"faux queen",
+5,
+[
+"bio queen",
+"diva queen",
+"female queen",
+"hyper queen"
+]
+],
+[
+"boat builder",
+5,
+[
+"boatbuilder",
+"boatwright"
+]
+],
+[
+"fashion influencer",
+5,
+[]
+],
+[
+"secondary school teacher",
+5,
+[
+"high school teacher",
+"high-school teacher",
+"secondary education teachers",
+"secondary teacher"
+]
+],
+[
+"massage therapist",
+5,
+[
+"massager",
+"massagist",
+"masseur",
+"masseuse",
+"massotherapeutist",
+"massotherapist"
+]
+],
+[
+"skydiver",
+5,
+[
+"parachutist"
+]
+],
+[
+"itamae",
+5,
+[
+"sushi chef"
+]
+],
+[
+"Huissier de justice",
+5,
+[]
+],
+[
+"Otin",
+5,
+[]
+],
+[
+"educational theorist",
+5,
+[
+"educationalist",
+"educationist"
+]
+],
+[
+"lady's companion",
+5,
+[]
+],
+[
+"hygienist",
+5,
+[
+"hospital hygienist",
+"sanitarian"
+]
+],
+[
+"student affairs",
+5,
+[
+"student life office",
+"student services",
+"student support"
+]
+],
+[
+"personal development consultant",
+5,
+[
+"life coach",
+"life coaching",
+"lifestyle coach",
+"lifestyle consultant",
+"lifestyle trainer",
+"personal development adviser",
+"personal development guru",
+"self-help guru",
+"wellness coach"
+]
+],
+[
+"social anthropologist",
+5,
+[
+"socio-anthropologist"
+]
+],
+[
+"mechanician",
+5,
+[
+"mechanicist",
+"mechaniker"
+]
+],
+[
+"metrologist",
+5,
+[]
+],
+[
+"chief scientific officer",
+5,
+[
+"chief researcher",
+"chief science officer",
+"chief scientific adviser",
+"CSO",
+"principal scientific officer",
+"science officer",
+"scientific director"
+]
+],
+[
+"automatician",
+5,
+[
+"automation technician",
+"PLC Technician"
+]
+],
+[
+"narrative designer",
+5,
+[]
+],
+[
+"pilot major",
+5,
+[]
+],
+[
+"professional wrestling referee",
+5,
+[
+"pro wrestling referee",
+"pw referee"
+]
+],
+[
+"portfolio manager",
+5,
+[
+"PM"
+]
+],
+[
+"predikant",
+5,
+[]
+],
+[
+"private secretary",
+5,
+[]
+],
+[
+"balloonist",
+5,
+[
+"aeronaut",
+"ballooner",
+"balloon pilot"
+]
+],
+[
+"special constable",
+5,
+[]
+],
+[
+"spymaster",
+5,
+[]
+],
+[
+"Kira",
+5,
+[
+"Chiera",
+"Kiera",
+"Kyra"
+]
+],
+[
+"stunt double",
+5,
+[]
+],
+[
+"television floor manager",
+5,
+[
+"floor manager"
+]
+],
+[
+"instructor",
+5,
+[
+"trainer"
+]
+],
+[
+"veterinary specialist",
+5,
+[]
+],
+[
+"WHO Goodwill Ambassador",
+5,
+[
+"World Health Organization Goodwill Ambassador"
+]
+],
+[
+"nursery gardener",
+5,
+[]
+],
+[
+"career soldier",
+5,
+[
+"professional soldier"
+]
+],
+[
+"V-Mann",
+5,
+[]
+],
+[
+"tiler",
+5,
+[]
+],
+[
+"piano maker",
+5,
+[
+"piano builder",
+"piano manufacturer"
+]
+],
+[
+"bottelier",
+5,
+[]
+],
+[
+"suit actor",
+5,
+[]
+],
+[
+"Bachelor of Social Work",
+5,
+[
+"Bachelor of Social Services",
+"Bachelor's of Social Work",
+"B.S.W.",
+"BSW",
+"socionom",
+"socionomist"
+]
+],
+[
+"clinical nurse specialist",
+5,
+[]
+],
+[
+"gambler",
+5,
+[
+"professional gambler"
+]
+],
+[
+"literary translator",
+5,
+[
+"literature translator",
+"poetic translator",
+"translator of literary works",
+"translator of literature"
+]
+],
+[
+"office manager",
+4,
+[]
+],
+[
+"caller",
+4,
+[
+"caller (dancing)",
+"dance caller"
+]
+],
+[
+"street photographer",
+4,
+[]
+],
+[
+"professional handler",
+4,
+[
+"handler",
+"professional dog handler"
+]
+],
+[
+"hydrographer",
+4,
+[
+"hydrographic surveyor",
+"marine surveyor",
+"ocean surveyor",
+"waterway surveyor"
+]
+],
+[
+"model maker",
+4,
+[
+"character sculptor",
+"model builder",
+"modelmaker",
+"scale modeler"
+]
+],
+[
+"advertising person",
+4,
+[
+"ad man",
+"adman",
+"admen",
+"advertiser",
+"advertising executive",
+"advertising professional",
+"advertising specialist",
+"marketing/advertising person"
+]
+],
+[
+"forensic pathologist",
+4,
+[
+"forensic medical examiner"
+]
+],
+[
+"angelologist",
+4,
+[]
+],
+[
+"chief officer",
+4,
+[
+"C-level"
+]
+],
+[
+"field hockey player",
+4,
+[
+"hockey player"
+]
+],
+[
+"explicator",
+4,
+[]
+],
+[
+"steeplejack",
+4,
+[
+"worker at elevated heights",
+"worker at heights"
+]
+],
+[
+"digital artist",
+4,
+[]
+],
+[
+"waka poet",
+4,
+[
+"tanka poet"
+]
+],
+[
+"website designer",
+4,
+[
+"web designer"
+]
+],
+[
+"car designer",
+4,
+[
+"automobile designer",
+"automotive designer"
+]
+],
+[
+"Tagarrabt",
+4,
+[]
+],
+[
+"furniture designer",
+4,
+[]
+],
+[
+"war photographer",
+4,
+[
+"photographer"
+]
+],
+[
+"mixed martial arts fighter",
+4,
+[
+"martial artist",
+"mixed martial artist",
+"MMA fighter"
+]
+],
+[
+"French Civil Service",
+4,
+[
+"civil service in France"
+]
+],
+[
+"hanshi",
+4,
+[
+"domain retainer",
+"domain vassal",
+"han retainer"
+]
+],
+[
+"decorative painter",
+4,
+[
+"decoration painter",
+"decorative painting artist"
+]
+],
+[
+"toastmaster",
+4,
+[]
+],
+[
+"comics writer",
+4,
+[
+"comic book writer",
+"comic writer"
+]
+],
+[
+"seafarer",
+4,
+[]
+],
+[
+"poet lawyer",
+4,
+[]
+],
+[
+"mutakallim",
+4,
+[]
+],
+[
+"social pedagogue",
+4,
+[
+"educational social worker"
+]
+],
+[
+"forensic technician",
+4,
+[]
+],
+[
+"weather forecaster",
+4,
+[]
+],
+[
+"vice-chancellor",
+4,
+[
+"VC",
+"vice chancellor",
+"vice-chancellors"
+]
+],
+[
+"tapissier",
+4,
+[
+"paper hanger",
+"paperhanger"
+]
+],
+[
+"dub director",
+4,
+[
+"adr director",
+"dubbing director",
+"voice director"
+]
+],
+[
+"badminton player",
+4,
+[
+"badmintonist"
+]
+],
+[
+"Turkologist",
+4,
+[
+"Turcologist",
+"Turcology scholar",
+"Turkic studies scholar",
+"Turkic studies specialist",
+"Turkish studies scholar",
+"Turkish studies specialist",
+"Turkology scholar"
+]
+],
+[
+"polo player",
+4,
+[
+"poloist"
+]
+],
+[
+"electronician",
+4,
+[]
+],
+[
+"copper engraver",
+4,
+[
+"chalcographer",
+"copperplate engraver",
+"engraver"
+]
+],
+[
+"long jumper",
+4,
+[]
+],
+[
+"barker",
+4,
+[
+"carnival barker"
+]
+],
+[
+"discus thrower",
+4,
+[]
+],
+[
+"windsurfer",
+4,
+[]
+],
+[
+"taekwondo athlete",
+4,
+[
+"taekwondo fighter",
+"taekwondoin",
+"taekwondo player",
+"taekwondo practitioner"
+]
+],
+[
+"luger",
+4,
+[]
+],
+[
+"bobsledder",
+4,
+[]
+],
+[
+"broadcaster",
+4,
+[
+"newsman",
+"online broadcaster"
+]
+],
+[
+"Chief of the General Staff (Slovakia)",
+4,
+[]
+],
+[
+"event producer",
+4,
+[
+"convention organizer",
+"event organizer",
+"event planner",
+"event promoter",
+"exhibition organizer",
+"meeting organizer",
+"organiser",
+"organizer",
+"party planner",
+"planner"
+]
+],
+[
+"flavorist",
+4,
+[
+"flavor chemist",
+"flavour chemist",
+"flavourist"
+]
+],
+[
+"triathlete",
+4,
+[]
+],
+[
+"medical researcher",
+4,
+[
+"medical scientist"
+]
+],
+[
+"Certified Diabetes Educator",
+4,
+[]
+],
+[
+"board game designer",
+4,
+[
+"author of board games"
+]
+],
+[
+"glaciologist",
+4,
+[]
+],
+[
+"children’s nurse",
+4,
+[
+"paediatric nurse",
+"pediatric nurse",
+"pediatric nurse practitioner",
+"pediatric nurse practitioners"
+]
+],
+[
+"Ramp Agent",
+4,
+[
+"Ops Agent"
+]
+],
+[
+"glover",
+4,
+[
+"glove maker",
+"glovemaker"
+]
+],
+[
+"cell biologist",
+4,
+[
+"cellular biologist",
+"cytologist"
+]
+],
+[
+"lichenologist",
+4,
+[]
+],
+[
+"investigative journalist",
+4,
+[
+"fact-finding journalist",
+"investigative editor",
+"investigative reporter"
+]
+],
+[
+"coptologist",
+4,
+[]
+],
+[
+"art educator",
+4,
+[
+"art instructor",
+"art professor",
+"arts educator",
+"arts teacher",
+"art teacher"
+]
+],
+[
+"bodybuilder",
+4,
+[
+"body builder",
+"fitness competitor",
+"physical culturist"
+]
+],
+[
+"forestry engineer",
+4,
+[
+"forest engineer"
+]
+],
+[
+"historian of science",
+4,
+[
+"science historian"
+]
+],
+[
+"crossword creator",
+4,
+[
+"crossword compiler",
+"crossword constructor",
+"crossword designer",
+"crossword maker",
+"crossword puzzle constructor",
+"crossword-puzzle creator",
+"crossword puzzle designer",
+"crossword-puzzle maker",
+"crossword-puzzle writer",
+"crossword setter",
+"crossword writer",
+"cruciverbalist"
+]
+],
+[
+"beamter",
+4,
+[
+"Beamte"
+]
+],
+[
+"etymologist",
+4,
+[
+"language researcher",
+"word historian"
+]
+],
+[
+"geochemist",
+4,
+[]
+],
+[
+"dog trainer",
+4,
+[]
+],
+[
+"cryptologist",
+4,
+[]
+],
+[
+"draughts player",
+4,
+[
+"checkerist",
+"checker player",
+"checkers player"
+]
+],
+[
+"skinner",
+4,
+[
+"Skinner (profession)"
+]
+],
+[
+"kinesiologist",
+4,
+[]
+],
+[
+"sex therapist",
+4,
+[
+"clinical sexologist"
+]
+],
+[
+"information professional",
+4,
+[
+"information specialist"
+]
+],
+[
+"runologist",
+4,
+[]
+],
+[
+"planetary scientist",
+4,
+[
+"planetary astronomer",
+"planetologist"
+]
+],
+[
+"econometrician",
+4,
+[]
+],
+[
+"mammalogist",
+4,
+[
+"mammal biologist",
+"mammalian biologist",
+"mammal specialist",
+"mammologist",
+"teriologist"
+]
+],
+[
+"iranologist",
+4,
+[
+"iranist"
+]
+],
+[
+"Hwawon",
+4,
+[]
+],
+[
+"geopolitical analyst",
+4,
+[
+"geopolitical scientist",
+"geopolitician"
+]
+],
+[
+"art handler",
+4,
+[
+"Art handler",
+"art preparator"
+]
+],
+[
+"Station House Officer",
+4,
+[
+"Inspector SHO",
+"IPSHO",
+"ISHO",
+"S.H.O",
+"SHO"
+]
+],
+[
+"beach volleyball player",
+4,
+[]
+],
+[
+"Meier",
+4,
+[]
+],
+[
+"historian of mathematics",
+4,
+[]
+],
+[
+"prehistorian",
+4,
+[]
+],
+[
+"hospital chaplaincy",
+4,
+[
+"Hospital chaplain"
+]
+],
+[
+"Schillenboer",
+4,
+[]
+],
+[
+"paintings conservator",
+4,
+[
+"art conservator",
+"conservator",
+"picture conservator"
+]
+],
+[
+"carver",
+4,
+[]
+],
+[
+"cynologist",
+4,
+[]
+],
+[
+"oncology nursing",
+4,
+[]
+],
+[
+"hellenist",
+4,
+[
+"Hellenist"
+]
+],
+[
+"American football player",
+4,
+[
+"American footballer",
+"footballer",
+"football player",
+"player of American football"
+]
+],
+[
+"maker-up",
+4,
+[
+"maker-up (printing)"
+]
+],
+[
+"personal chef",
+4,
+[]
+],
+[
+"petrologist",
+4,
+[]
+],
+[
+"consulting engineer",
+4,
+[
+"engineer consultant"
+]
+],
+[
+"Chartered Certified Accountant",
+4,
+[]
+],
+[
+"musical theatre actor",
+4,
+[
+"musical actor",
+"musical actress",
+"musical theater actor",
+"musical theater actress",
+"musical theater singer",
+"musical theatre actress",
+"musical theatre performer",
+"musical theatre singer"
+]
+],
+[
+"fashion photographer",
+4,
+[]
+],
+[
+"internal auditor",
+4,
+[
+"internal audit body member"
+]
+],
+[
+"acarologist",
+4,
+[]
+],
+[
+"gendarme",
+4,
+[]
+],
+[
+"Marxologist",
+4,
+[]
+],
+[
+"religious studies scholar",
+4,
+[
+"religion academic",
+"religion scholar",
+"religious scholar",
+"scholar of religion",
+"scholar of religious studies"
+]
+],
+[
+"postage stamp designer",
+4,
+[
+"stamp designer"
+]
+],
+[
+"Anagrapheus",
+4,
+[]
+],
+[
+"gerontologist",
+4,
+[]
+],
+[
+"Combat Medic Specialist",
+4,
+[
+"68W",
+"Combat Medic"
+]
+],
+[
+"caravan dweller",
+4,
+[]
+],
+[
+"helicopter pilot",
+4,
+[
+"helicopter captain"
+]
+],
+[
+"nephrologist",
+4,
+[]
+],
+[
+"pavior",
+4,
+[
+"paver"
+]
+],
+[
+"nursing manager",
+4,
+[]
+],
+[
+"senior accountant",
+4,
+[]
+],
+[
+"violin maker",
+4,
+[]
+],
+[
+"chess coach",
+4,
+[
+"chess trainer"
+]
+],
+[
+"contemporary artist",
+4,
+[]
+],
+[
+"building engineer",
+4,
+[
+"construction engineer",
+"construction manager",
+"construction managers",
+"construction project engineer",
+"construction project manager"
+]
+],
+[
+"portrait painter",
+4,
+[]
+],
+[
+"Steward's assistant",
+4,
+[
+"steward"
+]
+],
+[
+"puppet designer",
+4,
+[
+"doll maker"
+]
+],
+[
+"agricultural chemist",
+4,
+[]
+],
+[
+"streetworker",
+4,
+[]
+],
+[
+"press agent",
+4,
+[
+"flack",
+"press representative",
+"publicity agent"
+]
+],
+[
+"philosopher of law",
+4,
+[
+"legal philosopher"
+]
+],
+[
+"swimming instructor",
+4,
+[
+"swimming teacher"
+]
+],
+[
+"slater",
+4,
+[
+"slate mason"
+]
+],
+[
+"terminologist",
+4,
+[]
+],
+[
+"ornamentist",
+4,
+[
+"ornamentalist"
+]
+],
+[
+"TV debater",
+4,
+[]
+],
+[
+"Kancho (Zen)",
+4,
+[]
+],
+[
+"Bus conductor",
+4,
+[
+"clippie"
+]
+],
+[
+"strongwoman",
+4,
+[]
+],
+[
+"marine painter",
+4,
+[
+"sea painter"
+]
+],
+[
+"receivership",
+4,
+[
+"administrative receivership",
+"receiver"
+]
+],
+[
+"communication scholar",
+4,
+[
+"communication scientist",
+"communications researcher",
+"communications scholar",
+"communications scientist",
+"communication studies scholar",
+"communicologist"
+]
+],
+[
+"ordinary seaman",
+4,
+[]
+],
+[
+"equestrian",
+4,
+[
+"equestrienne",
+"horseman",
+"horsewoman"
+]
+],
+[
+"helminthologist",
+4,
+[]
+],
+[
+"cannon maker",
+4,
+[]
+],
+[
+"pedologue",
+4,
+[
+"pedologist"
+]
+],
+[
+"neonatologist",
+4,
+[]
+],
+[
+"rugby union match official",
+4,
+[
+"rugby union referee"
+]
+],
+[
+"data architect",
+4,
+[]
+],
+[
+"artificer",
+4,
+[
+"Armed-forces artificer"
+]
+],
+[
+"Barbouze",
+4,
+[]
+],
+[
+"professional organizer",
+4,
+[
+"organizer"
+]
+],
+[
+"bioinformatician",
+4,
+[
+"bioinformaticist",
+"bioinformatics scientist",
+"computational biologist"
+]
+],
+[
+"psychopedagogue",
+4,
+[
+"psychopedagogist"
+]
+],
+[
+"slave hunter",
+4,
+[
+"fugitive slave catcher",
+"slave catcher"
+]
+],
+[
+"televangelist",
+4,
+[
+"television evangelist"
+]
+],
+[
+"cultural anthropologist",
+4,
+[]
+],
+[
+"motorcycle racer",
+4,
+[
+"motorbike racer"
+]
+],
+[
+"publication manager",
+4,
+[
+"director of publication",
+"publishing director",
+"publishing head"
+]
+],
+[
+"set dresser",
+4,
+[]
+],
+[
+"assayer",
+4,
+[]
+],
+[
+"fabulist",
+4,
+[
+"fabler"
+]
+],
+[
+"ironworker",
+4,
+[
+"artisan blacksmith",
+"iron worker",
+"master metal smith"
+]
+],
+[
+"botanical illustrator",
+4,
+[
+"botanical artist"
+]
+],
+[
+"improviser",
+4,
+[
+"improvisational performer"
+]
+],
+[
+"military interpreter",
+4,
+[]
+],
+[
+"barback",
+4,
+[]
+],
+[
+"executive magistrate of the Roman Republic",
+4,
+[
+"executive magistrates of the Roman Republic",
+"magistrate of the Roman Republic"
+]
+],
+[
+"middle office",
+4,
+[]
+],
+[
+"information systems technician",
+4,
+[
+"IT technician"
+]
+],
+[
+"Mozo de espadas",
+4,
+[]
+],
+[
+"Parlevinker",
+4,
+[]
+],
+[
+"merino",
+4,
+[
+"meirinho",
+"meiriño",
+"merino/meirinho",
+"merio"
+]
+],
+[
+"Cunning folk in Britain",
+4,
+[]
+],
+[
+"roboticist",
+4,
+[
+"robotician",
+"robotocist"
+]
+],
+[
+"volapükologist",
+4,
+[
+"volapukologist"
+]
+],
+[
+"records manager",
+4,
+[
+"records administrator",
+"records analyst",
+"records officer"
+]
+],
+[
+"aphorist",
+4,
+[]
+],
+[
+"science writer",
+4,
+[]
+],
+[
+"panel beater",
+4,
+[
+"auto body mechanic"
+]
+],
+[
+"geomorphologist",
+4,
+[]
+],
+[
+"soubrette",
+4,
+[]
+],
+[
+"copyist",
+4,
+[
+"transcriber"
+]
+],
+[
+"data administration",
+4,
+[
+"data resource management"
+]
+],
+[
+"bryde",
+4,
+[]
+],
+[
+"Jägermeister",
+4,
+[]
+],
+[
+"merchandiser",
+4,
+[]
+],
+[
+"expert pharmacist",
+4,
+[]
+],
+[
+"professiogram",
+4,
+[]
+],
+[
+"judicial scrivener",
+4,
+[]
+],
+[
+"Parachute rigger",
+4,
+[]
+],
+[
+"insurance investigator",
+4,
+[]
+],
+[
+"Msakhurtukhutsesi",
+4,
+[
+"Master of Servants"
+]
+],
+[
+"floral designer",
+4,
+[
+"floral arranger",
+"flower arranger",
+"flower designer",
+"flower master"
+]
+],
+[
+"prescriptionist",
+4,
+[]
+],
+[
+"aerialist",
+4,
+[
+"aerial performer"
+]
+],
+[
+"wood engraver",
+4,
+[
+"engraver on wood"
+]
+],
+[
+"diplomatician",
+4,
+[
+"diplomatist",
+"diplomatists"
+]
+],
+[
+"architectural technologist",
+4,
+[
+"building technologist"
+]
+],
+[
+"assistant pastor",
+4,
+[]
+],
+[
+"barefoot lawyer",
+4,
+[]
+],
+[
+"intelligence analyst",
+4,
+[]
+],
+[
+"general music director",
+4,
+[
+"Generalmusikdirektor",
+"GMD"
+]
+],
+[
+"book peddler",
+4,
+[
+"book canvasser"
+]
+],
+[
+"Brazilianist",
+4,
+[]
+],
+[
+"Pai-de-santo",
+4,
+[]
+],
+[
+"political editor",
+4,
+[]
+],
+[
+"Chargé de mission",
+4,
+[
+"Charge de mission"
+]
+],
+[
+"chief mechanical engineer",
+4,
+[]
+],
+[
+"Child and Youth Worker",
+4,
+[]
+],
+[
+"Judaic scholar",
+4,
+[
+"Jewish scholar",
+"Jewish studies scholar",
+"Judaist",
+"scholar of Judaic studies",
+"scholar of Judaism"
+]
+],
+[
+"circuit rider",
+4,
+[]
+],
+[
+"Clinic escort",
+4,
+[]
+],
+[
+"professor of practice",
+4,
+[
+"clinical professor",
+"practice professors",
+"professor of professional practice",
+"Professor of (the) practice",
+"professors of professional practice",
+"professors of the practice"
+]
+],
+[
+"Coarb",
+4,
+[]
+],
+[
+"Crime scene cleanup",
+4,
+[]
+],
+[
+"cunning folk",
+4,
+[
+"folk healers",
+"wise folk"
+]
+],
+[
+"customer engineer",
+4,
+[]
+],
+[
+"Dangerous Goods Safety Advisor",
+4,
+[
+"DGSA"
+]
+],
+[
+"Danseur noble",
+4,
+[]
+],
+[
+"dental therapist",
+4,
+[]
+],
+[
+"dialect coach",
+4,
+[]
+],
+[
+"biostatistician",
+4,
+[
+"medical statistician"
+]
+],
+[
+"educational specialist",
+4,
+[
+"Ed.S.",
+"education specialist",
+"S.Ed.",
+"specialist in education"
+]
+],
+[
+"co-minister",
+4,
+[
+"assistant minister",
+"assistant-minister",
+"assistant  reverend",
+"associate minister",
+"comminister",
+"co-reverend",
+"secondary minister",
+"second minister"
+]
+],
+[
+"Erenagh",
+4,
+[]
+],
+[
+"feeder of lice",
+4,
+[]
+],
+[
+"goatherd",
+4,
+[
+"goatherder"
+]
+],
+[
+"electronic engineer",
+4,
+[
+"electronics engineer"
+]
+],
+[
+"heavy equipment operator",
+4,
+[]
+],
+[
+"stockperson",
+4,
+[
+"stockman (Australia)",
+"stockwoman (Australia)"
+]
+],
+[
+"vexillologist",
+4,
+[
+"flag specialist",
+"vexillologi"
+]
+],
+[
+"social educator",
+4,
+[]
+],
+[
+"typist",
+4,
+[
+"minutes-taker",
+"official reporter"
+]
+],
+[
+"Hong Kong civil servant",
+4,
+[
+"Hong Kong Civil Service"
+]
+],
+[
+"Special Investigations Officer (The Netherlands)",
+4,
+[]
+],
+[
+"neuropsychologist",
+4,
+[]
+],
+[
+"jazz pianist",
+4,
+[]
+],
+[
+"kitchen maid",
+4,
+[
+"kitchen girl"
+]
+],
+[
+"Landing Signal Officer",
+4,
+[
+"Batman",
+"marshaller"
+]
+],
+[
+"magician's assistant",
+4,
+[]
+],
+[
+"Makhdoom",
+4,
+[
+"Maxdum"
+]
+],
+[
+"music editor",
+4,
+[
+"musical editor"
+]
+],
+[
+"Naat Khawan",
+4,
+[]
+],
+[
+"Ollam",
+4,
+[]
+],
+[
+"peer support specialist",
+4,
+[
+"peer-recovery specialist"
+]
+],
+[
+"Police community support officer",
+4,
+[]
+],
+[
+"preservationist",
+4,
+[
+"historic preservationist"
+]
+],
+[
+"professional submissive",
+4,
+[]
+],
+[
+"property manager",
+4,
+[]
+],
+[
+"psycholinguist",
+4,
+[]
+],
+[
+"safety engineer",
+4,
+[
+"system safety engineer",
+"systems safety engineer",
+"work safety engineer"
+]
+],
+[
+"UNESCO Champion for Sport",
+4,
+[]
+],
+[
+"automobile salesperson",
+4,
+[
+"automobile salesman",
+"auto salesman",
+"car salesman",
+"car salesperson",
+"used car salesperson"
+]
+],
+[
+"veterinary pharmacist",
+4,
+[]
+],
+[
+"Vārttikakāra",
+4,
+[]
+],
+[
+"Warraq",
+4,
+[]
+],
+[
+"wildlife biologist",
+4,
+[]
+],
+[
+"animal trainer",
+4,
+[]
+],
+[
+"wrangler",
+4,
+[
+"horseman",
+"horsewoman"
+]
+],
+[
+"special effects supervisor",
+4,
+[
+"SFX Supervisor",
+"special effects coordinator"
+]
+],
+[
+"professional fitness coach",
+4,
+[
+"exercise instructor",
+"fitness instructor",
+"fitness professional"
+]
+],
+[
+"school psychologist",
+4,
+[]
+],
+[
+"Buddhologist",
+3,
+[
+"Buddhist studies scholar",
+"Buddhist studies specialist"
+]
+],
+[
+"collembologist",
+3,
+[]
+],
+[
+"compliance officer",
+3,
+[]
+],
+[
+"Calator",
+3,
+[
+"Calatores"
+]
+],
+[
+"riding master",
+3,
+[]
+],
+[
+"vision engineer",
+3,
+[
+"video engineer",
+"Video FX console",
+"video mixer",
+"video technician"
+]
+],
+[
+"drawing teacher",
+3,
+[]
+],
+[
+"Director of network programming",
+3,
+[
+"Director General and Head of Programming",
+"head of programming and broadcasting"
+]
+],
+[
+"groundskeeper",
+3,
+[
+"grounds maintenance worker"
+]
+],
+[
+"merkonom",
+3,
+[]
+],
+[
+"chronographer",
+3,
+[]
+],
+[
+"character designer",
+3,
+[
+"character modeler"
+]
+],
+[
+"veejay",
+3,
+[
+"video jockey",
+"visual jockey"
+]
+],
+[
+"textile artist",
+3,
+[
+"fiber artist",
+"fibre artist"
+]
+],
+[
+"Thyle",
+3,
+[]
+],
+[
+"excurrendo",
+3,
+[]
+],
+[
+"academic painter",
+3,
+[]
+],
+[
+"principal lecturer",
+3,
+[]
+],
+[
+"alarife",
+3,
+[]
+],
+[
+"medical officer",
+3,
+[]
+],
+[
+"speculative fiction author",
+3,
+[
+"fantasist",
+"fantastic fiction author",
+"fantastician",
+"speculative/fantastic fiction author"
+]
+],
+[
+"mariologist",
+3,
+[]
+],
+[
+"congressional page",
+3,
+[]
+],
+[
+"payyetan",
+3,
+[
+"paytan"
+]
+],
+[
+"gossip columnist",
+3,
+[]
+],
+[
+"private investor",
+3,
+[]
+],
+[
+"geomatician",
+3,
+[
+"geomatic scientist",
+"geomatist"
+]
+],
+[
+"racehorse owner and breeder",
+3,
+[
+"Thoroughbred breeder"
+]
+],
+[
+"sonographer",
+3,
+[
+"ultrasonographer"
+]
+],
+[
+"acupuncturist",
+3,
+[]
+],
+[
+"live idol",
+3,
+[
+"indie idol",
+"reality idol",
+"underground idol"
+]
+],
+[
+"landscape project manager",
+3,
+[]
+],
+[
+"assistant teacher",
+3,
+[]
+],
+[
+"historian of ideas",
+3,
+[
+"intellectual historian"
+]
+],
+[
+"keirin cyclist",
+3,
+[]
+],
+[
+"office boy",
+3,
+[]
+],
+[
+"rakugoka",
+3,
+[
+"hanashika",
+"Rakugoka"
+]
+],
+[
+"ergonomist",
+3,
+[]
+],
+[
+"cosmographer",
+3,
+[]
+],
+[
+"orchidologist",
+3,
+[]
+],
+[
+"osteopath",
+3,
+[
+"osteopathic physician"
+]
+],
+[
+"druggist",
+3,
+[]
+],
+[
+"comedy writer",
+3,
+[]
+],
+[
+"shot-firer",
+3,
+[
+"blaster",
+"chargeman",
+"charger",
+"collier",
+"construction blaster",
+"shotfirer"
+]
+],
+[
+"women racquet player",
+3,
+[]
+],
+[
+"pharmacy assistant",
+3,
+[]
+],
+[
+"diocesan priest",
+3,
+[
+"secular priest",
+"Secular Priests"
+]
+],
+[
+"owarai tarento",
+3,
+[
+"owarai geinin"
+]
+],
+[
+"phycologist",
+3,
+[
+"algae biologist",
+"algal biologist",
+"algist",
+"algologist"
+]
+],
+[
+"demographer",
+3,
+[]
+],
+[
+"nature photographer",
+3,
+[
+"photographer"
+]
+],
+[
+"soil scientist",
+3,
+[]
+],
+[
+"technologist",
+3,
+[
+"technologue",
+"technology expert"
+]
+],
+[
+"graphologist",
+3,
+[]
+],
+[
+"donkeyman",
+3,
+[]
+],
+[
+"fitness model",
+3,
+[]
+],
+[
+"cosmonaut",
+3,
+[
+"Russian astronaut"
+]
+],
+[
+"military theorist",
+3,
+[]
+],
+[
+"Scriptor",
+3,
+[]
+],
+[
+"director of studies",
+3,
+[
+"head of studies",
+"study leader"
+]
+],
+[
+"string player",
+3,
+[
+"string instrumentalist",
+"string musician"
+]
+],
+[
+"teacher at a Gymnasium",
+3,
+[
+"gymnasial teacher",
+"high school teacher",
+"teacher at a ‘Gymnasium’"
+]
+],
+[
+"electrotechnician",
+3,
+[]
+],
+[
+"dressage rider",
+3,
+[]
+],
+[
+"polar explorer",
+3,
+[
+"Polar Explorer",
+"polar researcher"
+]
+],
+[
+"softball player",
+3,
+[]
+],
+[
+"rugby player",
+3,
+[
+"rugbyman"
+]
+],
+[
+"shishō",
+3,
+[]
+],
+[
+"orienteer",
+3,
+[
+"orienteerer"
+]
+],
+[
+"Finno-Ugrist",
+3,
+[]
+],
+[
+"moldmaker",
+3,
+[]
+],
+[
+"fund manager",
+3,
+[
+"investment fund manager",
+"portfolio manager"
+]
+],
+[
+"Foreign Language Assistant",
+3,
+[]
+],
+[
+"international sportsperson",
+3,
+[
+"international",
+"international player"
+]
+],
+[
+"Periodeutes",
+3,
+[]
+],
+[
+"museum docent",
+3,
+[
+"exhibition guide",
+"museum guide",
+"museum tour guide"
+]
+],
+[
+"jester",
+3,
+[
+"court jester",
+"court jesters",
+"jesters"
+]
+],
+[
+"embroiderer",
+3,
+[
+"broderer",
+"embroideress",
+"stitch maker"
+]
+],
+[
+"scaffolder",
+3,
+[]
+],
+[
+"product owner",
+3,
+[
+"PO"
+]
+],
+[
+"women's health nurse practitioner",
+3,
+[
+"WHNP"
+]
+],
+[
+"Polier",
+3,
+[]
+],
+[
+"runway model",
+3,
+[
+"fashion show model"
+]
+],
+[
+"neuropathologist",
+3,
+[]
+],
+[
+"hewer",
+3,
+[]
+],
+[
+"Africanist",
+3,
+[
+"Africa expert",
+"African scholar",
+"African studies scholar"
+]
+],
+[
+"literary theorist",
+3,
+[]
+],
+[
+"modern pentathlete",
+3,
+[]
+],
+[
+"sociolinguist",
+3,
+[]
+],
+[
+"classical archaeologist",
+3,
+[]
+],
+[
+"political theorist",
+3,
+[]
+],
+[
+"esotericist",
+3,
+[]
+],
+[
+"Procureur de la République",
+3,
+[
+"Procurator of the Republic",
+"Public Prosecution of the French Republic",
+"public prosecutor in France"
+]
+],
+[
+"Stavilac",
+3,
+[]
+],
+[
+"mediamatician",
+3,
+[]
+],
+[
+"estate agent",
+3,
+[]
+],
+[
+"labor social insurance attorney",
+3,
+[]
+],
+[
+"siviløkonom",
+3,
+[]
+],
+[
+"peace and conflict researcher",
+3,
+[
+"peace and conflict studies researcher",
+"peace studies researcher",
+"peace studies scholar"
+]
+],
+[
+"Indo-Europeanist",
+3,
+[]
+],
+[
+"americanist",
+3,
+[]
+],
+[
+"pteridologist",
+3,
+[]
+],
+[
+"anthologist",
+3,
+[]
+],
+[
+"leatherworker",
+3,
+[
+"leathersmith",
+"leatherwork artist",
+"leather-worker"
+]
+],
+[
+"master",
+3,
+[]
+],
+[
+"Cellar Master",
+3,
+[]
+],
+[
+"honer",
+3,
+[
+"grinder",
+"sharpener"
+]
+],
+[
+"Polovoy",
+3,
+[]
+],
+[
+"livestock dealer",
+3,
+[
+"cattle dealer",
+"Livestock dealer"
+]
+],
+[
+"gemologist",
+3,
+[]
+],
+[
+"ontologist",
+3,
+[]
+],
+[
+"greffier",
+3,
+[]
+],
+[
+"signalman",
+3,
+[]
+],
+[
+"civilian official",
+3,
+[
+"non-military official"
+]
+],
+[
+"museum attendant",
+3,
+[
+"gallery attendant",
+"museum guard"
+]
+],
+[
+"immigration consultant",
+3,
+[]
+],
+[
+"wiper",
+3,
+[]
+],
+[
+"schout",
+3,
+[]
+],
+[
+"UNFPA Goodwill Ambassador",
+3,
+[
+"United Nations Population Fund Goodwill Ambassador"
+]
+],
+[
+"Pork-knocker",
+3,
+[]
+],
+[
+"student leader",
+3,
+[]
+],
+[
+"neonatal nurse practitioner",
+3,
+[]
+],
+[
+"family nurse practitioner",
+3,
+[
+"FNP"
+]
+],
+[
+"mount maker",
+3,
+[]
+],
+[
+"hagiographer",
+3,
+[]
+],
+[
+"Hamburger Schiffsbefestiger",
+3,
+[]
+],
+[
+"editorial columnist",
+3,
+[
+"editorialist",
+"editorial opinion columnist",
+"editorial writer"
+]
+],
+[
+"newspaper editor",
+3,
+[
+"news editor",
+"newspaper redactor",
+"news redactor"
+]
+],
+[
+"film theorist",
+3,
+[]
+],
+[
+"key account manager",
+3,
+[
+"КАМ"
+]
+],
+[
+"ecclesiastical guard",
+3,
+[]
+],
+[
+"water polo player",
+3,
+[]
+],
+[
+"conrector",
+3,
+[
+"assistant headmaster"
+]
+],
+[
+"lagmann",
+3,
+[]
+],
+[
+"Kreuzkantor",
+3,
+[]
+],
+[
+"translator-interpreter",
+3,
+[
+"translators and interpreters"
+]
+],
+[
+"whistle artist",
+3,
+[
+"professional whistler",
+"whistler"
+]
+],
+[
+"Kämmerer",
+3,
+[
+"town treasurer"
+]
+],
+[
+"reactor operator",
+3,
+[]
+],
+[
+"Donaudampfschiffahrtsgesellschaftskapitän",
+3,
+[]
+],
+[
+"Maid of the Bedchamber",
+3,
+[]
+],
+[
+"Lohgerber",
+3,
+[]
+],
+[
+"political philosopher",
+3,
+[]
+],
+[
+"public entertainer",
+3,
+[
+"entertainer",
+"geinōjin"
+]
+],
+[
+"taxonomist",
+3,
+[
+"systematist",
+"taxon authority",
+"taxonomer",
+"taxonomic authority"
+]
+],
+[
+"coal delivery man",
+3,
+[
+"coal man",
+"coalman",
+"coal merchant",
+"Coal merchant"
+]
+],
+[
+"medical technologist",
+3,
+[]
+],
+[
+"sociobiologist",
+3,
+[]
+],
+[
+"world traveler",
+3,
+[
+"globetrotter"
+]
+],
+[
+"millwright",
+3,
+[]
+],
+[
+"viol player",
+3,
+[
+"gambist",
+"violist da gamba"
+]
+],
+[
+"network engineer",
+3,
+[
+"network admin"
+]
+],
+[
+"Canadian football player",
+3,
+[]
+],
+[
+"spinner",
+3,
+[
+"spinster"
+]
+],
+[
+"officiant",
+3,
+[]
+],
+[
+"music historian",
+3,
+[]
+],
+[
+"sauna master",
+3,
+[]
+],
+[
+"Animation Department",
+3,
+[]
+],
+[
+"patent engineer",
+3,
+[]
+],
+[
+"rosary maker",
+3,
+[]
+],
+[
+"slam poet",
+3,
+[
+"slammer"
+]
+],
+[
+"myrmecologist",
+3,
+[
+"ant researcher"
+]
+],
+[
+"Himalayan mountaineer",
+3,
+[]
+],
+[
+"diabetologist",
+3,
+[]
+],
+[
+"wine merchant",
+3,
+[
+"caviste",
+"vintner"
+]
+],
+[
+"kinetic artist",
+3,
+[
+"kinetic art sculptor"
+]
+],
+[
+"petroleum engineer",
+3,
+[]
+],
+[
+"obstetrician-gynecologist",
+3,
+[
+"OBG",
+"OB / GYN",
+"OB/GYN",
+"OBGYN",
+"Obs & Gynae",
+"obstetrician and gynaecologist",
+"obstetrician and gynecologist",
+"obstetrician-gynaecologist",
+"obstetric physician",
+"O&G"
+]
+],
+[
+"salt worker",
+3,
+[]
+],
+[
+"enameler",
+3,
+[
+"enamel artist",
+"enamelist",
+"enameller",
+"enamellist"
+]
+],
+[
+"portraitist",
+3,
+[
+"portrait artist",
+"portrayer"
+]
+],
+[
+"comics critic",
+3,
+[]
+],
+[
+"radio director",
+3,
+[
+"director of radio program",
+"radio program director"
+]
+],
+[
+"paleoanthropologist",
+3,
+[
+"palaeanthropologist",
+"palaeoanthropologist",
+"paleanthropologist"
+]
+],
+[
+"academic administrator",
+3,
+[
+"college administrator",
+"education administrator",
+"educational administrator",
+"school administrator",
+"university administrator"
+]
+],
+[
+"government governor",
+3,
+[
+"Regierungsstatthalter"
+]
+],
+[
+"repetitor",
+3,
+[]
+],
+[
+"aesthetician",
+3,
+[
+"αισθητικός",
+"αισθητιστές",
+"φιλόσοφος τέχνης",
+"φιλόσοφος της τέχνης",
+"ωραιολάτρης"
+]
+],
+[
+"special effects artist",
+3,
+[
+"FX artist",
+"special effects technician",
+"VFX artist",
+"visual effects artist"
+]
+],
+[
+"winemaker",
+3,
+[
+"vigneron",
+"vintner",
+"wine maker"
+]
+],
+[
+"mint lord",
+3,
+[
+"Authority (coiin)",
+"Münzherr"
+]
+],
+[
+"zootechnician",
+3,
+[]
+],
+[
+"umbrella maker",
+3,
+[]
+],
+[
+"school photographer",
+3,
+[]
+],
+[
+"scorer",
+3,
+[]
+],
+[
+"tinsmith",
+3,
+[]
+],
+[
+"serial entrepreneur",
+3,
+[]
+],
+[
+"silver surfer",
+3,
+[]
+],
+[
+"information manager",
+3,
+[]
+],
+[
+"insurer",
+3,
+[]
+],
+[
+"house servant",
+3,
+[
+"man servant",
+"menial"
+]
+],
+[
+"race director",
+3,
+[]
+],
+[
+"titular organist",
+3,
+[]
+],
+[
+"beauty YouTuber",
+3,
+[
+"Beautuber",
+"beauty guru",
+"beauty influencer",
+"BeautyTuber",
+"beauty vlogger"
+]
+],
+[
+"civil law notary",
+3,
+[
+"Latin notary"
+]
+],
+[
+"floorball player",
+3,
+[]
+],
+[
+"aapjeskoetsier",
+3,
+[]
+],
+[
+"photograph conservator",
+3,
+[]
+],
+[
+"printseller",
+3,
+[
+"print dealer",
+"print merchant",
+"print seller"
+]
+],
+[
+"comet hunter",
+3,
+[]
+],
+[
+"guards",
+3,
+[]
+],
+[
+"broadcast journalist",
+3,
+[
+"radio and television journalist",
+"radio journalist",
+"television journalist"
+]
+],
+[
+"pipelayer",
+3,
+[
+"drainage groundworker",
+"drainage operative",
+"drainage pipe layer",
+"drainage worker"
+]
+],
+[
+"Chief services officer",
+3,
+[]
+],
+[
+"insurance intermediary",
+3,
+[]
+],
+[
+"wine measurer",
+3,
+[
+"wine gauger"
+]
+],
+[
+"communications adviser",
+3,
+[
+"communication adviser",
+"communications advisor"
+]
+],
+[
+"stampcutter",
+3,
+[
+"die maker",
+"die-maker",
+"diemaker",
+"die sinker",
+"stamp carver",
+"stamp cutter",
+"stamp-cutter",
+"stempelsnijder"
+]
+],
+[
+"crane driver",
+3,
+[]
+],
+[
+"block breaker",
+3,
+[]
+],
+[
+"yoga instructor",
+3,
+[
+"yoga teacher"
+]
+],
+[
+"cross country runner",
+3,
+[]
+],
+[
+"sports executive",
+3,
+[
+"sport executive",
+"sports administrator",
+"sports manager"
+]
+],
+[
+"life coach",
+3,
+[
+"personal coach"
+]
+],
+[
+"military observer",
+3,
+[]
+],
+[
+"DVJ",
+3,
+[]
+],
+[
+"elementary physician",
+3,
+[]
+],
+[
+"certified weather forecaster",
+3,
+[
+"certified and accredited meteorologist",
+"weather forecaster"
+]
+],
+[
+"insolvency practitioner",
+3,
+[
+"IP"
+]
+],
+[
+"charterer",
+3,
+[
+"disponent owner",
+"ship operator",
+"vessel operator"
+]
+],
+[
+"fitter",
+3,
+[
+"metalworker"
+]
+],
+[
+"Rogue trader",
+3,
+[]
+],
+[
+"production assistant",
+3,
+[
+"PA"
+]
+],
+[
+"defense attorney",
+3,
+[
+"attorney",
+"defense counsel",
+"defense lawyer",
+"lawyer"
+]
+],
+[
+"investment banker",
+3,
+[]
+],
+[
+"boater",
+3,
+[
+"boatman",
+"boatmaster",
+"boat operator",
+"boatwoman",
+"riverboatman"
+]
+],
+[
+"miniature painter",
+3,
+[
+"miniaturist painter"
+]
+],
+[
+"clinical biologist",
+3,
+[]
+],
+[
+"Cantore al liuto",
+3,
+[]
+],
+[
+"Commissaire de police",
+3,
+[]
+],
+[
+"experimental physicist",
+3,
+[]
+],
+[
+"paleobotanist",
+3,
+[
+"palaeobotanist",
+"paleoethnobotanist"
+]
+],
+[
+"angiologist",
+3,
+[]
+],
+[
+"lace maker",
+3,
+[
+"lacemaker",
+"lace worker",
+"laceworker"
+]
+],
+[
+"commercial director",
+3,
+[
+"television commercial director",
+"TV advertisement director",
+"TV commercial director"
+]
+],
+[
+"business person",
+3,
+[]
+],
+[
+"astrobiologist",
+3,
+[
+"astro-biologist",
+"exobiologist"
+]
+],
+[
+"fountain engineer",
+3,
+[
+"fountaineer"
+]
+],
+[
+"trainer",
+3,
+[
+"instructor"
+]
+],
+[
+"Forts of Les Halles",
+3,
+[]
+],
+[
+"hyperpolyglot",
+3,
+[]
+],
+[
+"architectural engineer",
+3,
+[]
+],
+[
+"Ingénieur des études et de l'exploitation de l'aviation civile",
+3,
+[]
+],
+[
+"Statsepidemiolog",
+3,
+[]
+],
+[
+"notary's assistant",
+3,
+[]
+],
+[
+"klezmer musician",
+3,
+[
+"klezmer"
+]
+],
+[
+"sick comforter",
+3,
+[]
+],
+[
+"Technicien aéronautique d'exploitation",
+3,
+[
+"Aeronautical operations technician"
+]
+],
+[
+"Technicien supérieur des études et de l'exploitation de l'aviation civile",
+3,
+[]
+],
+[
+"Technicien supérieur de l'aviation",
+3,
+[]
+],
+[
+"cast member",
+3,
+[]
+],
+[
+"ukiyo-e artist",
+3,
+[
+"Eshi painter",
+"ukiyoeshi"
+]
+],
+[
+"racing car mechanic",
+3,
+[
+"mechanician",
+"racecar mechanic",
+"racing mechanic",
+"Riding mechanic"
+]
+],
+[
+"papermaker",
+3,
+[
+"paper-maker"
+]
+],
+[
+"parapsychologist",
+3,
+[]
+],
+[
+"biological pharmacist",
+3,
+[]
+],
+[
+"pedorthist",
+3,
+[]
+],
+[
+"Rigsmarsk",
+3,
+[
+"Marsk"
+]
+],
+[
+"chief district judge",
+3,
+[]
+],
+[
+"notary's clerk",
+3,
+[]
+],
+[
+"submariner",
+3,
+[]
+],
+[
+"silviculturist",
+3,
+[
+"silviculturalist",
+"sylviculturist"
+]
+],
+[
+"forestry technicians",
+3,
+[]
+],
+[
+"oenologist",
+3,
+[
+"enologist",
+"winemaking expert",
+"winemaking researcher",
+"winemaking scholar",
+"wine production consultant",
+"wine production expert"
+]
+],
+[
+"retractor",
+3,
+[]
+],
+[
+"Camallo",
+3,
+[
+"stevedore"
+]
+],
+[
+"Conqueror",
+3,
+[
+"conquistador"
+]
+],
+[
+"harness racer",
+3,
+[
+"harness driver",
+"harness racing driver"
+]
+],
+[
+"osteologist",
+3,
+[]
+],
+[
+"Guitto",
+3,
+[]
+],
+[
+"solutions architect",
+3,
+[
+"solution architect"
+]
+],
+[
+"protozoologist",
+3,
+[]
+],
+[
+"genre painter",
+3,
+[]
+],
+[
+"rope access technician",
+3,
+[
+"rope technician"
+]
+],
+[
+"SEO specialist",
+3,
+[
+"Organic Search Consultant",
+"Search Engine Optimization Consultant",
+"Search Engine Optimizer",
+"SEO Advisor",
+"SEO consultant",
+"SEO Consultant",
+"SEO Expert",
+"SEO Specialist"
+]
+],
+[
+"courtier",
+3,
+[
+"Hovjunkare"
+]
+],
+[
+"dendrologist",
+3,
+[]
+],
+[
+"gymnastics coach",
+3,
+[
+"artistic gymnastics coach"
+]
+],
+[
+"milking machine operator",
+3,
+[]
+],
+[
+"tank ace",
+3,
+[
+"tanker ace"
+]
+],
+[
+"milling machine operator",
+3,
+[]
+],
+[
+"vigneron",
+3,
+[
+"winemaker"
+]
+],
+[
+"government scholar",
+3,
+[]
+],
+[
+"academic advising",
+3,
+[
+"academic adviser",
+"academic advisor"
+]
+],
+[
+"acting instructor",
+3,
+[
+"acting coach",
+"acting professor",
+"acting teacher",
+"drama coach"
+]
+],
+[
+"Alanorarius",
+3,
+[]
+],
+[
+"garden architect",
+3,
+[]
+],
+[
+"ensurance agent",
+3,
+[]
+],
+[
+"animal nutritionist",
+3,
+[]
+],
+[
+"application analyst",
+3,
+[]
+],
+[
+"arabber",
+3,
+[]
+],
+[
+"aromachologist",
+3,
+[]
+],
+[
+"articled clerk",
+3,
+[
+"articling student",
+"legal trainee",
+"student-at-law",
+"trainee lawyer"
+]
+],
+[
+"analyst",
+3,
+[]
+],
+[
+"bandmaster",
+3,
+[]
+],
+[
+"bank examiner",
+3,
+[]
+],
+[
+"Rosh mesivta",
+3,
+[]
+],
+[
+"Befriender",
+3,
+[]
+],
+[
+"building estimator",
+3,
+[]
+],
+[
+"stage carpenter",
+3,
+[
+"carpenter",
+"prop maker",
+"propmaker",
+"set carpenter",
+"set constructor",
+"stage constructor",
+"theatre carpenter"
+]
+],
+[
+"Celebrant",
+3,
+[
+"celebrant"
+]
+],
+[
+"Certified Property Manager",
+3,
+[]
+],
+[
+"charwoman",
+3,
+[]
+],
+[
+"chemical technologist",
+3,
+[
+"chemical technician",
+"chem tech",
+"chem techs"
+]
+],
+[
+"religion sociologist",
+3,
+[
+"sociologist of religion"
+]
+],
+[
+"Chief Scientist of the U.S. Air Force",
+3,
+[]
+],
+[
+"child life specialist",
+3,
+[]
+],
+[
+"China watcher",
+3,
+[
+"Pekingologist"
+]
+],
+[
+"clinical research coordinator",
+3,
+[]
+],
+[
+"cloth merchant",
+3,
+[
+"clothier"
+]
+],
+[
+"cocktail a",
+3,
+[]
+],
+[
+"commodity broker",
+3,
+[]
+],
+[
+"computational scientist",
+3,
+[
+"computational scientists",
+"scientific computing researcher"
+]
+],
+[
+"computer operator",
+3,
+[
+"op"
+]
+],
+[
+"copy typist",
+3,
+[]
+],
+[
+"culinary specialist",
+3,
+[
+"CS"
+]
+],
+[
+"Daeryeong Suksu",
+3,
+[]
+],
+[
+"road cyclist",
+3,
+[]
+],
+[
+"diener",
+3,
+[
+"corpse washer"
+]
+],
+[
+"dog writer",
+3,
+[]
+],
+[
+"drover",
+3,
+[
+"cattle driver",
+"cattle drover",
+"donkey driver",
+"donkey drover",
+"driver of livestock",
+"horse driver",
+"horse drover",
+"mule driver",
+"mule drover",
+"sheep driver",
+"sheep drover"
+]
+],
+[
+"drysalter",
+3,
+[]
+],
+[
+"Drywall mechanic",
+3,
+[]
+],
+[
+"ecclesiastical judge",
+3,
+[]
+],
+[
+"election agent",
+3,
+[
+"political agent"
+]
+],
+[
+"equine dentist",
+3,
+[]
+],
+[
+"freelance journalist",
+3,
+[]
+],
+[
+"externship",
+3,
+[
+"externships",
+"internship"
+]
+],
+[
+"Fabergé workmaster",
+3,
+[
+"Faberge workmaster"
+]
+],
+[
+"Fendersmith",
+3,
+[]
+],
+[
+"Fire boss",
+3,
+[]
+],
+[
+"fishwife",
+3,
+[
+"fish-fag",
+"fishlass"
+]
+],
+[
+"role-playing game designer",
+3,
+[
+"role-playing game author",
+"role-playing game creator",
+"RPG designer",
+"RPG game designer",
+"TTRPG designer",
+"TTRPG game designer"
+]
+],
+[
+"Gentilhombre de cámara con ejercicio",
+3,
+[
+"Gentilhombres de camara con ejercicio"
+]
+],
+[
+"biomedical equipment technician",
+3,
+[]
+],
+[
+"graphic design occupations",
+3,
+[]
+],
+[
+"origamist",
+3,
+[
+"origamian",
+"origami artist"
+]
+],
+[
+"hand model",
+3,
+[]
+],
+[
+"gestor",
+3,
+[
+"Gestor",
+"manager"
+]
+],
+[
+"esperantologist",
+3,
+[]
+],
+[
+"marine carpenter",
+3,
+[]
+],
+[
+"video game developer",
+3,
+[
+"game dev",
+"game developer",
+"video game creator"
+]
+],
+[
+"Housemaster",
+3,
+[]
+],
+[
+"photography historian",
+3,
+[
+"historian of photography",
+"photographic historian",
+"photo historian",
+"photohistorian"
+]
+],
+[
+"IT assistant",
+3,
+[
+"IT assistent"
+]
+],
+[
+"political historian",
+3,
+[]
+],
+[
+"plant physiologist",
+3,
+[]
+],
+[
+"Resident engineer",
+3,
+[]
+],
+[
+"inspektor",
+3,
+[]
+],
+[
+"adel",
+3,
+[]
+],
+[
+"itinerant teacher",
+3,
+[
+"peripatetic teacher",
+"visiting teacher"
+]
+],
+[
+"itinerant minister",
+3,
+[
+"circuit rider",
+"evangelist",
+"itinerant preacher"
+]
+],
+[
+"Urinatores",
+3,
+[]
+],
+[
+"pharmacy personal",
+3,
+[]
+],
+[
+"dipterologist",
+3,
+[
+"dipterist"
+]
+],
+[
+"campanologist",
+3,
+[]
+],
+[
+"video game director",
+3,
+[
+"game director"
+]
+],
+[
+"media scholar",
+3,
+[
+"media expert",
+"media researcher",
+"media scientist",
+"media studies scholar",
+"scholar of media studies"
+]
+],
+[
+"paleoecologist",
+3,
+[
+"palaeoecologist"
+]
+],
+[
+"light board operator",
+3,
+[
+"board op",
+"light op",
+"moving light programmer"
+]
+],
+[
+"hattat",
+3,
+[]
+],
+[
+"arcanist",
+3,
+[]
+],
+[
+"medical ghostwriter",
+3,
+[]
+],
+[
+"medical science liaison",
+3,
+[
+"medical scientific liaison",
+"MSL"
+]
+],
+[
+"qualified person",
+3,
+[
+"QP",
+"responsible person",
+"RP"
+]
+],
+[
+"Monthly nurse",
+3,
+[]
+],
+[
+"nawashi",
+3,
+[
+"kinbakushi"
+]
+],
+[
+"nurse midwife",
+3,
+[
+"nurse midwives"
+]
+],
+[
+"oiler",
+3,
+[
+"greaser"
+]
+],
+[
+"online producer",
+3,
+[]
+],
+[
+"paymaster",
+3,
+[]
+],
+[
+"petroleum geologist",
+3,
+[]
+],
+[
+"plant operator",
+3,
+[]
+],
+[
+"Finance influencer",
+3,
+[]
+],
+[
+"agricultural producer",
+3,
+[]
+],
+[
+"professional audio",
+3,
+[
+"pro audio"
+]
+],
+[
+"psychiatric and mental health nurse practitioner",
+3,
+[]
+],
+[
+"public historian",
+3,
+[]
+],
+[
+"television writer",
+3,
+[
+"television screenwriter",
+"Television writers",
+"TV screenwriter",
+"TV writer"
+]
+],
+[
+"asphalt constructor",
+3,
+[]
+],
+[
+"Secretary of the Government",
+3,
+[]
+],
+[
+"Shayar",
+3,
+[]
+],
+[
+"sideline reporter",
+3,
+[]
+],
+[
+"song plugger",
+3,
+[]
+],
+[
+"deputy commissioner",
+3,
+[
+"DCP",
+"Deputy Commissioner of Police"
+]
+],
+[
+"sports chaplain",
+3,
+[]
+],
+[
+"elevator mechanic",
+3,
+[
+"elevator maintenance worker",
+"elevator repairman",
+"Elevator service technician",
+"elevator technician",
+"lift mechanic"
+]
+],
+[
+"strength athlete",
+3,
+[]
+],
+[
+"table steward",
+3,
+[
+"banquet table steward",
+"ceremonial table steward",
+"table set‑up steward"
+]
+],
+[
+"breakdancer",
+3,
+[
+"B-boy",
+"B-girl",
+"break dancer"
+]
+],
+[
+"tea attendant",
+3,
+[
+"tea lady"
+]
+],
+[
+"theatre practitioner",
+3,
+[]
+],
+[
+"thermodynamicist",
+3,
+[]
+],
+[
+"thief-taker",
+3,
+[
+"thieftaker"
+]
+],
+[
+"constitutionalist",
+3,
+[]
+],
+[
+"UNIDO Goodwill Ambassador",
+3,
+[
+"United Nations Industrial Development Organization Goodwill Ambassador"
+]
+],
+[
+"United States Navy Diver",
+3,
+[]
+],
+[
+"video editor",
+3,
+[]
+],
+[
+"website content writer",
+3,
+[
+"content writer",
+"web content writer"
+]
+],
+[
+"online writer",
+3,
+[
+"internet author",
+"Internet novelist",
+"internet writer",
+"net author",
+"net novelist",
+"net writer",
+"online author",
+"online novel author",
+"online novelist",
+"online novel writer",
+"web author",
+"web novel author",
+"web novelist",
+"web novel writer",
+"web writer"
+]
+],
+[
+"bank officer",
+3,
+[]
+],
+[
+"political analyst",
+3,
+[]
+],
+[
+"Chinese idol",
+3,
+[]
+],
+[
+"bululu",
+3,
+[]
+],
+[
+"theoretical chemist",
+3,
+[]
+],
+[
+"framer",
+3,
+[
+"frame maker",
+"picture frame maker"
+]
+],
+[
+"biotechnologist",
+3,
+[
+"Biotechnologists"
+]
+],
+[
+"whitesmith",
+3,
+[
+"tinsmith"
+]
+],
+[
+"art writer",
+3,
+[
+"arts writer",
+"culture writer"
+]
+],
+[
+"socio-cultural animator",
+3,
+[
+"animator of cultural events",
+"cultural manager",
+"cultural organizer",
+"culture animator"
+]
+],
+[
+"forensic psychologist",
+3,
+[]
+],
+[
+"military drummer",
+3,
+[
+"Corps of drums"
+]
+],
+[
+"film accompanist",
+3,
+[]
+],
+[
+"thoracic surgeon",
+3,
+[]
+],
+[
+"manga gensakusha",
+3,
+[
+"gensakusha",
+"manga story writer",
+"manga writer"
+]
+],
+[
+"Lutheran pastor",
+3,
+[
+"Lutheran priest",
+"pastor",
+"priest"
+]
+],
+[
+"Slave catcher",
+3,
+[]
+],
+[
+"cognitive psychologist",
+3,
+[]
+],
+[
+"Catholic theologian",
+3,
+[]
+],
+[
+"well builder",
+3,
+[]
 ]
 ]

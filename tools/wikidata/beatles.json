@@ -1,1154 +1,1703 @@
 [
 [
 "Yesterday",
-48
+48,
+[]
 ],
 [
 "Hey Jude",
-44
+44,
+[]
 ],
 [
 "Let It Be",
-40
+40,
+[]
 ],
 [
 "Strawberry Fields Forever",
-39
+39,
+[]
 ],
 [
 "All You Need Is Love",
-37
+37,
+[]
 ],
 [
 "Eleanor Rigby",
-36
+36,
+[]
 ],
 [
 "Love Me Do",
-35
+35,
+[]
 ],
 [
 "Come Together",
-34
+34,
+[]
 ],
 [
 "Something",
-33
+33,
+[]
 ],
 [
 "A Day in the Life",
-32
+32,
+[
+"Day in the Life, A"
+]
 ],
 [
 "Now and Then",
-32
+32,
+[]
 ],
 [
 "Help!",
-32
+32,
+[]
 ],
 [
 "Lucy in the Sky with Diamonds",
-32
+32,
+[
+"looking glass ties",
+"LSD",
+"plasticine porters",
+"rocking horse people"
+]
 ],
 [
 "Norwegian Wood",
-32
+32,
+[]
 ],
 [
 "While My Guitar Gently Weeps",
-31
+31,
+[
+"WMGGW"
+]
 ],
 [
 "I Want to Hold Your Hand",
-31
+31,
+[]
 ],
 [
 "Yellow Submarine",
-31
+31,
+[]
 ],
 [
 "Please Please Me",
-30
+30,
+[]
 ],
 [
 "Penny Lane",
-30
+30,
+[]
 ],
 [
 "A Hard Day's Night",
-29
+29,
+[]
 ],
 [
 "Can't Buy Me Love",
-29
+29,
+[
+"Can't Buy My Love"
+]
 ],
 [
 "She Loves You",
-29
+29,
+[]
 ],
 [
 "Helter Skelter",
-28
+28,
+[]
 ],
 [
 "In My Life",
-28
+28,
+[]
 ],
 [
 "I Saw Her Standing There",
-28
+28,
+[]
 ],
 [
 "Hello, Goodbye",
-28
+28,
+[
+"Hello Goodbye"
+]
 ],
 [
 "Ob-La-Di, Ob-La-Da",
-27
+27,
+[
+"Ob-La-Di Ob-La-Da"
+]
 ],
 [
 "Taxman",
-27
+27,
+[
+"Tax Man"
+]
 ],
 [
 "Here Comes the Sun",
-27
+27,
+[]
 ],
 [
 "Across the Universe",
-27
+27,
+[]
 ],
 [
 "Free as a Bird",
-26
+26,
+[]
 ],
 [
 "Michelle",
-26
+26,
+[]
 ],
 [
 "Get Back",
-26
+26,
+[]
 ],
 [
 "With a Little Help from My Friends",
-26
+26,
+[]
 ],
 [
 "Ticket to Ride",
-26
+26,
+[]
 ],
 [
 "I Am the Walrus",
-25
+25,
+[]
 ],
 [
 "All My Loving",
-25
+25,
+[]
 ],
 [
 "Tomorrow Never Knows",
-25
+25,
+[]
 ],
 [
 "Blackbird",
-25
+25,
+[
+"blackbird"
+]
 ],
 [
 "Nowhere Man",
-24
+24,
+[]
 ],
 [
 "P.S. I Love You",
-24
+24,
+[]
 ],
 [
 "Ask Me Why",
-24
+24,
+[]
 ],
 [
 "Octopus's Garden",
-24
+24,
+[]
 ],
 [
 "Revolution",
-24
+24,
+[
+"Revolution 1"
+]
 ],
 [
 "The Long and Winding Road",
-24
+24,
+[]
 ],
 [
 "Sgt. Pepper's Lonely Hearts Club Band",
-23
+23,
+[]
 ],
 [
 "From Me to You",
-23
+23,
+[]
 ],
 [
 "And I Love Her",
-23
+23,
+[]
 ],
 [
 "Misery",
-23
+23,
+[]
 ],
 [
 "Paperback Writer",
-23
+23,
+[]
 ],
 [
 "When I'm Sixty-four",
-22
+22,
+[]
 ],
 [
 "Here, There and Everywhere",
-22
+22,
+[]
 ],
 [
 "Because",
-22
+22,
+[]
 ],
 [
 "Oh! Darling",
-22
+22,
+[]
 ],
 [
 "Golden Slumbers",
-22
+22,
+[]
 ],
 [
 "I Want You (She's So Heavy)",
-22
+22,
+[
+"I Want You"
+]
 ],
 [
 "Her Majesty",
-22
+22,
+[]
 ],
 [
 "Being for the Benefit of Mr. Kite!",
-22
+22,
+[]
 ],
 [
 "Day Tripper",
-22
+22,
+[]
 ],
 [
 "We Can Work It Out",
-21
+21,
+[]
 ],
 [
 "Eight Days a Week",
-21
+21,
+[]
 ],
 [
 "Lady Madonna",
-21
+21,
+[]
 ],
 [
 "Happiness Is a Warm Gun",
-21
+21,
+[]
 ],
 [
 "Back in the U.S.S.R.",
-21
+21,
+[]
 ],
 [
 "Do You Want to Know a Secret",
-21
+21,
+[]
 ],
 [
 "I'm Only Sleeping",
-21
+21,
+[]
 ],
 [
 "Don't Let Me Down",
-21
+21,
+[]
 ],
 [
 "The End",
-21
+21,
+[]
 ],
 [
 "Sun King",
-21
+21,
+[]
 ],
 [
 "Don't Bother Me",
-21
+21,
+[]
 ],
 [
 "Rain",
-21
+21,
+[]
 ],
 [
 "I Should Have Known Better",
-21
+21,
+[]
 ],
 [
 "Drive My Car",
-21
+21,
+[]
 ],
 [
 "Revolution 9",
-20
+20,
+[
+"Revolution #9",
+"Revolution No. 9"
+]
 ],
 [
 "Glass Onion",
-20
+20,
+[]
 ],
 [
 "If I Fell",
-20
+20,
+[]
 ],
 [
 "Martha My Dear",
-20
+20,
+[]
 ],
 [
 "She Came In Through the Bathroom Window",
-20
+20,
+[]
 ],
 [
 "Maxwell's Silver Hammer",
-20
+20,
+[]
 ],
 [
 "Got to Get You into My Life",
-20
+20,
+[]
 ],
 [
 "Girl",
-20
+20,
+[]
 ],
 [
 "Rocky Raccoon",
-20
+20,
+[]
 ],
 [
 "I Feel Fine",
-20
+20,
+[]
 ],
 [
 "Getting Better",
-20
+20,
+[]
 ],
 [
 "Within You Without You",
-20
+20,
+[
+"Within You, Without You"
+]
 ],
 [
 "Magical Mystery Tour",
-20
+20,
+[]
 ],
 [
 "Dear Prudence",
-20
+20,
+[]
 ],
 [
 "Carry That Weight",
-19
+19,
+[]
 ],
 [
 "Lovely Rita",
-19
+19,
+[]
 ],
 [
 "The Ballad of John and Yoko",
-19
+19,
+[]
 ],
 [
 "Real Love",
-19
+19,
+[]
 ],
 [
 "Wild Honey Pie",
-19
+19,
+[]
 ],
 [
 "Love You To",
-19
+19,
+[]
 ],
 [
 "This Boy",
-19
+19,
+[]
 ],
 [
 "Mean Mr. Mustard",
-19
+19,
+[
+"\"a bit of crap I wrote in India\" - John Lennon"
+]
 ],
 [
 "You Never Give Me Your Money",
-19
+19,
+[]
 ],
 [
 "Polythene Pam",
-19
+19,
+[]
 ],
 [
 "Don't Pass Me By",
-19
+19,
+[]
 ],
 [
 "Piggies",
-19
+19,
+[]
 ],
 [
 "A Taste of Honey",
-19
+19,
+[
+"A Taste Of Honey (song)"
+]
 ],
 [
 "She's Leaving Home",
-19
+19,
+[]
 ],
 [
 "Fixing a Hole",
-18
+18,
+[
+"fixin' a hole",
+"I'm fixing a hole"
+]
 ],
 [
 "Julia",
-18
+18,
+[]
 ],
 [
 "I'm So Tired",
-18
+18,
+[]
 ],
 [
 "Hey Bulldog",
-18
+18,
+[
+"Hey Bullfrog",
+"She Can Talk to Me"
+]
 ],
 [
 "Everybody's Got Something to Hide Except Me and My Monkey",
-18
+18,
+[]
 ],
 [
 "The Continuing Story of Bungalow Bill",
-18
+18,
+[]
 ],
 [
 "And Your Bird Can Sing",
-18
+18,
+[]
 ],
 [
 "Dig a Pony",
-18
+18,
+[]
 ],
 [
 "For No One",
-18
+18,
+[]
 ],
 [
 "If I Needed Someone",
-18
+18,
+[]
 ],
 [
 "It Won't Be Long",
-18
+18,
+[]
 ],
 [
 "You've Got to Hide Your Love Away",
-18
+18,
+[]
 ],
 [
 "Things We Said Today",
-18
+18,
+[]
 ],
 [
 "She Said She Said",
-18
+18,
+[]
 ],
 [
 "I'll Get You",
-18
+18,
+[
+"Get You in the End"
+]
 ],
 [
 "Honey Pie",
-18
+18,
+[]
 ],
 [
 "I'll Follow the Sun",
-18
+18,
+[]
 ],
 [
 "I'll Cry Instead",
-18
+18,
+[]
 ],
 [
 "Doctor Robert",
-18
+18,
+[]
 ],
 [
 "I Want to Tell You",
-18
+18,
+[]
 ],
 [
 "Thank You Girl",
-18
+18,
+[]
 ],
 [
 "All I've Got to Do",
-18
+18,
+[]
 ],
 [
 "I've Just Seen a Face",
-18
+18,
+[]
 ],
 [
 "I'm Happy Just to Dance with You",
-18
+18,
+[]
 ],
 [
 "Good Day Sunshine",
-18
+18,
+[]
 ],
 [
 "Good Morning Good Morning",
-18
+18,
+[]
 ],
 [
 "The Inner Light",
-18
+18,
+[]
 ],
 [
 "I Wanna Be Your Man",
-18
+18,
+[]
 ],
 [
 "Two of Us",
-18
+18,
+[]
 ],
 [
 "Cry Baby Cry",
-17
+17,
+[]
 ],
 [
 "Savoy Truffle",
-17
+17,
+[]
 ],
 [
 "The Fool on the Hill",
-17
+17,
+[]
 ],
 [
 "When the Levee Breaks",
-17
+17,
+[]
 ],
 [
 "Your Mother Should Know",
-17
+17,
+[
+"\"Your Mother Should Know\""
+]
 ],
 [
 "I Will",
-17
+17,
+[]
 ],
 [
 "She's a Woman",
-17
+17,
+[]
 ],
 [
 "Why Don't We Do It in the Road?",
-17
+17,
+[]
 ],
 [
 "I've Got a Feeling",
-17
+17,
+[]
 ],
 [
 "You Can't Do That",
-17
+17,
+[]
 ],
 [
 "I Need You",
-17
+17,
+[]
 ],
 [
 "What Goes On",
-17
+17,
+[]
 ],
 [
 "You Won't See Me",
-17
+17,
+[]
 ],
 [
 "For You Blue",
-17
+17,
+[]
 ],
 [
 "Baby, You're a Rich Man",
-17
+17,
+[
+"Baby You're a Rich Man"
+]
 ],
 [
 "The Word",
-17
+17,
+[]
 ],
 [
 "I'm Looking Through You",
-17
+17,
+[]
 ],
 [
 "It's Only Love",
-17
+17,
+[]
 ],
 [
 "Hold Me Tight",
-17
+17,
+[]
 ],
 [
 "I Me Mine",
-17
+17,
+[]
 ],
 [
 "Little Child",
-17
+17,
+[]
 ],
 [
 "The Night Before",
-17
+17,
+[]
 ],
 [
 "Blue Jay Way",
-17
+17,
+[]
 ],
 [
 "I'm a Loser",
-17
+17,
+[]
 ],
 [
 "I'm Down",
-16
+16,
+[]
 ],
 [
 "Mother Nature's Son",
-16
+16,
+[]
 ],
 [
 "No Reply",
-16
+16,
+[]
 ],
 [
 "Maggie May",
-16
+16,
+[
+"Roud 1757"
+]
 ],
 [
 "Good Night",
-16
+16,
+[]
 ],
 [
 "Sexy Sadie",
-16
+16,
+[]
 ],
 [
 "Birthday",
-16
+16,
+[]
 ],
 [
 "Dig It",
-16
+16,
+[
+"1970 song by The Beatles"
+]
 ],
 [
 "You're Going to Lose That Girl",
-16
+16,
+[]
 ],
 [
 "Yes It Is",
-16
+16,
+[]
 ],
 [
 "One After 909",
-16
+16,
+[
+"The One After 909"
+]
 ],
 [
 "There's a Place",
-16
+16,
+[]
 ],
 [
 "Think for Yourself",
-16
+16,
+[]
 ],
 [
 "You Like Me Too Much",
-16
+16,
+[]
 ],
 [
 "Run for Your Life",
-16
+16,
+[]
 ],
 [
 "I Don't Want to Spoil the Party",
-16
+16,
+[]
 ],
 [
 "Wait",
-16
+16,
+[]
 ],
 [
 "Only a Northern Song",
-15
+15,
+[]
 ],
 [
 "You Know My Name (Look Up the Number)",
-15
+15,
+[
+"333"
+]
 ],
 [
 "Any Time at All",
-15
+15,
+[]
 ],
 [
 "Baby's in Black",
-15
+15,
+[]
 ],
 [
 "Yer Blues",
-15
+15,
+[]
 ],
 [
 "Not a Second Time",
-15
+15,
+[]
 ],
 [
 "What You're Doing",
-15
+15,
+[]
 ],
 [
 "Tell Me Why",
-15
+15,
+[]
 ],
 [
 "Old Brown Shoe",
-15
+15,
+[]
 ],
 [
 "Long, Long, Long",
-15
+15,
+[
+"Long Long Long"
+]
 ],
 [
 "Flying",
-14
+14,
+[]
 ],
 [
 "Another Girl",
-14
+14,
+[]
 ],
 [
 "Tell Me What You See",
-14
+14,
+[]
 ],
 [
 "I'll Be Back",
-14
+14,
+[]
 ],
 [
 "When I Get Home",
-14
+14,
+[]
 ],
 [
 "Every Little Thing",
-14
+14,
+[]
 ],
 [
 "Christmas Time (Is Here Again)",
-14
+14,
+[
+"Christmas Time Is Here Again"
+]
 ],
 [
 "I Call Your Name",
-14
+14,
+[]
 ],
 [
 "All Together Now",
-14
+14,
+[]
 ],
 [
 "It's All Too Much",
-13
+13,
+[]
 ],
 [
 "Carnival of Light",
-12
+12,
+[]
 ],
 [
 "12-Bar Original",
-12
+12,
+[]
 ],
 [
 "The Beatles' Movie Medley",
-10
+10,
+[
+"Beatles' Movie Medley",
+"Movie Medley"
+]
 ],
 [
 "That Means a Lot",
-10
+10,
+[]
 ],
 [
 "If You've Got Trouble",
-10
+10,
+[]
 ],
 [
 "A Beginning",
-10
+10,
+[]
 ],
 [
 "You Know What to Do",
-10
+10,
+[]
 ],
 [
 "What's the New Mary Jane",
-9
+9,
+[]
 ],
 [
 "Komm, gib mir deine Hand / Sie liebt dich",
-9
+9,
+[
+"Komm, gib mir deine Hand",
+"Sie liebt dich"
+]
 ],
 [
 "If You Love Me",
-8
+8,
+[
+"Take Out Some Insurance on Me, Baby (If You Love Me, Baby)"
+]
 ],
 [
 "Lend Me Your Comb",
-8
+8,
+[]
 ],
 [
 "You'll Be Mine",
-7
+7,
+[]
 ],
 [
 "Cayenne",
-7
+7,
+[]
 ],
 [
 "I Got to Find My Baby",
-6
+6,
+[]
 ],
 [
 "Lonesome Tears in My Eyes",
-6
+6,
+[]
 ],
 [
 "So How Come",
-5
+5,
+[]
 ],
 [
 "The Beatles, The Palace of the King of the Birds",
-4
+4,
+[]
 ],
 [
 "Watching Rainbows",
-4
+4,
+[]
 ],
 [
 "Peace of Mind/The Candle Burns",
-4
+4,
+[]
 ],
 [
 "Love Me Do / P.S. I Love You",
-3
+3,
+[
+"45-R 4949",
+"Love Me Do",
+"P.S. I Love You"
+]
 ],
 [
 "Etcetera",
-3
+3,
+[]
 ],
 [
 "Your Feet's Too Big",
-3
+3,
+[]
 ],
 [
 "Can You Take Me Back?",
-2
+2,
+[]
 ],
 [
 "Heather",
-2
+2,
+[]
 ],
 [
 "Shirley's Wild Accordion",
-2
+2,
+[]
 ],
 [
 "Commonwealth",
-2
+2,
+[]
 ],
 [
 "Please Please Me / Ask Me Why",
-2
+2,
+[
+"Ask Me Why",
+"Please Please Me",
+"R 4983"
+]
 ],
 [
 "A Hard Day's Night / Things We Said Today",
-2
+2,
+[
+"A Hard Day's Night",
+"Things We Said Today"
+]
 ],
 [
 "Madman",
-2
+2,
+[]
 ],
 [
 "Song of Love",
-2
+2,
+[]
 ],
 [
 "Thinking of Linking",
-2
+2,
+[]
 ],
 [
 "Yesterday / I Should Have Known Better",
-1
+1,
+[
+"I Should Have Known Better",
+"Yesterday",
+"Yesterday c/w I Should Have Known Better"
+]
 ],
 [
 "Sgt. Pepper's Lonely Hearts Club Band / With a Little Help from My Friends c/w A Day in the Life",
-1
+1,
+[
+"A Day in the Life",
+"Sgt. Pepper's Lonely Hearts Club Band",
+"With a Little Help from My Friends"
+]
 ],
 [
 "Let It Be / You Know My Name (Look Up the Number)",
-1
+1,
+[]
 ],
 [
 "Can You Dig It?",
-1
+1,
+[
+"Can You Dig It ?"
+]
 ],
 [
 "Gnik Nus",
-1
+1,
+[]
 ],
 [
 "Sgt. Pepper Inner Groove",
-1
+1,
+[]
 ],
 [
 "Help! / I'm Down",
-1
+1,
+[
+"Help!",
+"I'm Down"
+]
 ],
 [
 "The Beatles Third Christmas Record",
-1
+1,
+[
+"LYN 948"
+]
 ],
 [
 "All You Need Is Love / Baby You're a Rich Man",
-1
+1,
+[]
 ],
 [
 "From Me to You/Devil in Her Heart",
-1
+1,
+[]
 ],
 [
 "Girl/Nowhere Man",
-1
+1,
+[]
 ],
 [
 "I Need You/Dizzy Miss Lizzy",
-1
+1,
+[]
 ],
 [
 "Yesterday/The Night Before",
-1
+1,
+[]
 ],
 [
 "Something / Come Together",
-1
+1,
+[
+"Come Together",
+"Come Together / Something",
+"Something"
+]
 ],
 [
 "The Beatles’ Christmas Record",
-1
+1,
+[
+"LYN 492"
+]
 ],
 [
 "Medley : Rip It Up / Shake, Rattle and Roll / Blue Suede Shoes",
-1
+1,
+[]
 ],
 [
 "Another Beatles Christmas Record",
-1
+1,
+[
+"LYN 757"
+]
 ],
 [
 "Jazz Piano Song",
-1
+1,
+[]
 ],
 [
 "I Want To Hold Your Hand / This Boy",
-1
+1,
+[
+"I Want To Hold Your Hand",
+"R 5084",
+"This Boy"
+]
 ],
 [
 "From Me to You / Thank You Girl",
-1
+1,
+[
+"From Me To You",
+"R 5015",
+"Thank You Girl"
+]
 ],
 [
 "She Loves You / I'll Get You",
-1
+1,
+[
+"I'll Get You",
+"R 5055",
+"S-4152",
+"She Loves You"
+]
 ],
 [
 "Can't Buy Me Love / You Can't Do That",
-1
+1,
+[
+"Can't Buy Me Love",
+"R 5114",
+"You Can't Do That"
+]
 ],
 [
 "Ticket To Ride / Yes It Is",
-1
+1,
+[
+"Ticket To Ride",
+"Yes It Is"
+]
 ],
 [
 "Yesterday / Act Naturally",
-1
+1,
+[
+"Act Naturally",
+"Act Naturally / Yesterday",
+"Yesterday"
+]
 ],
 [
 "We Can Work It Out / Day Tripper",
-1
+1,
+[
+"Day Tripper",
+"Day Tripper / We Can Work It Out",
+"We Can Work It Out"
+]
 ],
 [
 "Eleanor Rigby / Yellow Submarine",
-1
+1,
+[
+"Eleanor Rigby",
+"Yellow Submarine",
+"Yellow Submarine / Eleanor Rigby"
+]
 ],
 [
 "Strawberry Fields Forever / Penny Lane",
-1
+1,
+[
+"Penny Lane",
+"Penny Lane / Strawberry Fields Forever",
+"Strawberry Fields Forever"
+]
 ],
 [
 "Hello, Goodbye / I Am the Walrus",
-1
+1,
+[
+"Hello, Goodbye",
+"I Am the Walrus",
+"R 5655"
+]
 ],
 [
 "Get Back / Don't Let Me Down",
-1
+1,
+[
+"Don't Let Me Down",
+"Get Back"
+]
 ],
 [
 "Pantomime – Everywhere it's Christmas",
-1
+1,
+[
+"LYN 1145",
+"Pantomime - Everywhere it's Christmas",
+"The Beatles Fourth Christmas Record"
+]
 ],
 [
 "The Beatles Sixth Christmas Record",
-1
+1,
+[
+"LYN 1743",
+"LYN 1744",
+"Sixth Christmas Record"
+]
 ],
 [
 "Lady Madonna / The Inner Light",
-1
+1,
+[
+"Lady Madonna",
+"R 5675",
+"The Inner Light"
+]
 ],
 [
 "The Ballad of John and Yoko / Old Brown Shoe",
-1
+1,
+[
+"Old Brown Shoe",
+"The Ballad of John and Yoko"
+]
 ],
 [
 "Suzy Parker",
-1
+1,
+[]
 ],
 [
 "No Other Love",
-1
+1,
+[]
 ],
 [
 "Hey Jude / Revolution",
-1
+1,
+[]
 ],
 [
 "Please Please Me / From Me To You",
-0
+0,
+[
+"From Me To You",
+"Please Please Me",
+"VJ 581"
+]
 ],
 [
 "Lucy in the Sky with Diamonds / With a Little Help from My Friends",
-0
+0,
+[
+"Lucy in the Sky with Diamonds",
+"With a Little Help from My Friends"
+]
 ],
 [
 "Got to Get You into My Life / Helter Skelter",
-0
+0,
+[
+"Got to Get You into My Life",
+"Helter Skelter"
+]
 ],
 [
 "Roll Over Beethoven / Please Mister Postman",
-0
+0,
+[
+"Please Mister Postman",
+"Roll Over Beethoven"
+]
 ],
 [
 "Michelle / Girl",
-0
+0,
+[
+"Girl",
+"Michelle"
+]
 ],
 [
 "A Hard Day's Night / I Should Have Known Better",
-0
+0,
+[
+"A Hard Day's Night",
+"I Should Have Known Better"
+]
 ],
 [
 "Christmas Time (Is Here Again) – The Beatles Fifth Christmas Record",
-0
+0,
+[
+"Christmas Time (Is Here Again) - The Beatles Fifth Christmas Record",
+"LYN 1360",
+"The Beatles Fifth Christmas Record"
+]
 ],
 [
 "Komm, gib mir deine Hand",
-0
+0,
+[]
 ],
 [
 "Ob-La-Di Ob-La-Da / While My Guitar Gently Weeps",
-0
+0,
+[
+"FO 148",
+"Ob-La-Di Ob-La-Da",
+"While My Guitar Gently Weeps"
+]
 ],
 [
 "Ob-La-Di, Ob-La-Da / Julia",
-0
+0,
+[
+"4347",
+"Julia",
+"Ob-La-Di, Ob-La-Da"
+]
 ],
 [
 "I Want To Hold Your Hand / I Saw Her Standing There",
-0
+0,
+[
+"5112",
+"I Saw Her Standing There",
+"I Want To Hold Your Hand"
+]
 ],
 [
 "All My Loving / This Boy",
-0
+0,
+[
+"72144",
+"All My Loving",
+"This Boy"
+]
 ],
 [
 "Misery / Ask Me Why",
-0
+0,
+[
+"45-O-29 501",
+"Ask Me Why",
+"Misery",
+"O 22 663"
+]
 ],
 [
 "From Me To You / Thank You Girl",
-0
+0,
+[
+"From Me To You",
+"Thank You Girl",
+"VJ 522"
+]
 ],
 [
 "Do You Want to Know a Secret / Thank You Girl",
-0
+0,
+[
+"Do You Want to Know a Secret",
+"Thank You Girl",
+"VJ 587"
+]
 ],
 [
 "Twist And Shout / There's a Place",
-0
+0,
+[
+"9001",
+"There's a Place",
+"Twist And Shout"
+]
 ],
 [
 "I'll Cry Instead / I'm Happy Just To Dance With You",
-0
+0,
+[
+"5234",
+"I'll Cry Instead",
+"I`m Happy Just To Dance With You"
+]
 ],
 [
 "And I Love Her / If I Fell",
-0
+0,
+[
+"5235",
+"And I Love Her",
+"If I Fell"
+]
 ],
 [
 "I Feel Fine / She's a Woman",
-0
+0,
+[
+"5327",
+"I Feel Fine",
+"R 5200",
+"She's a Woman"
+]
 ],
 [
 "Sie liebt dich",
-0
+0,
+[]
 ],
 [
 "Nowhere Man / What Goes On",
-0
+0,
+[
+"5587",
+"Nowhere Man",
+"What Goes On"
+]
 ],
 [
 "Paperback Writer / Rain",
-0
+0,
+[
+"5651",
+"Paperback Writer",
+"R 5452",
+"Rain"
+]
 ],
 [
 "Matchbox / Slow Down",
-0
+0,
+[
+"5255",
+"Matchbox",
+"Slow Down",
+"Slow Down / Matchbox"
+]
 ],
 [
 "Hello Goodbye / I Am the Walrus",
-0
+0,
+[
+"2056",
+"Hello Goodbye",
+"I Am the Walrus"
+]
 ],
 [
 "Maggie Mae",
-0
+0,
+[]
 ],
 [
 "The Long And Winding Road / For You Blue",
-0
+0,
+[
+"2832",
+"For You Blue",
+"The Long And Winding Road"
+]
 ],
 [
 "Free As a Bird / Christmas Time (Is Here Again)",
-0
+0,
+[
+"Christmas Time (Is Here Again)",
+"Free As a Bird",
+"R 6422"
+]
 ],
 [
 "The Beatles Seventh Christmas Record",
-0
+0,
+[
+"LYN 1970",
+"LYN 1971",
+"The Beatles' Seventh Christmas Record"
+]
 ],
 [
 "Real Love / Baby's in Black",
-0
+0,
+[
+"Baby's in Black (live)",
+"Real Love"
+]
 ],
 [
 "Cry for a Shadow / Why",
-0
+0,
+[
+"Cry for a Shadow",
+"Why"
+]
 ]
 ]

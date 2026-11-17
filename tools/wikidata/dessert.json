@@ -1,1286 +1,3732 @@
 [
 [
 "baklava",
-89
+89,
+[
+"pakhlava"
+]
 ],
 [
 "doughnut",
-86
+86,
+[
+"donut",
+"donuts",
+"doughnuts"
+]
 ],
 [
 "cookie",
-72
+72,
+[
+"biscuit",
+"cookies",
+"cracker"
+]
 ],
 [
 "French toast",
-72
+72,
+[
+"eggy bread",
+"fried bread",
+"gypsy toast",
+"omelette bread"
+]
 ],
 [
 "pudding",
-65
+65,
+[]
 ],
 [
 "rice pudding",
-63
+63,
+[
+"milk rice"
+]
 ],
 [
 "apple pie",
-54
+54,
+[]
 ],
 [
 "congee",
-48
+48,
+[
+"conjee",
+"juk",
+"rice porridge"
+]
 ],
 [
 "chocolate cake",
-47
+47,
+[
+"cake flavored with chocolate"
+]
 ],
 [
 "laddu",
-45
+45,
+[
+"laddoo"
+]
 ],
 [
 "knafeh",
-45
+45,
+[
+"kanafeh"
+]
 ],
 [
 "compote",
-43
+43,
+[
+"compôte"
+]
 ],
 [
 "falooda",
-40
+40,
+[]
 ],
 [
 "tulumba",
-39
+39,
+[
+"bamiyeh",
+"tulumba tatlısı"
+]
 ],
 [
 "profiterole",
-38
+38,
+[
+"cream puff"
+]
 ],
 [
 "zabaione",
-38
+38,
+[
+"sabayon",
+"zabaglione",
+"zabajone"
+]
 ],
 [
 "pavlova",
-38
+38,
+[
+"pavlova cake"
+]
 ],
 [
 "affogato",
-38
+38,
+[]
 ],
 [
 "tarte Tatin",
-35
+35,
+[]
 ],
 [
 "charlotte",
-33
+33,
+[]
 ],
 [
 "aşure",
-33
+33,
+[
+"ashura porridge",
+"Aşure",
+"Barbara",
+"Noah's pudding",
+"Varvara"
+]
 ],
 [
 "rosogolla",
-33
+33,
+[
+"Rasagola",
+"rasgulla",
+"rasgullah",
+"roshogolla"
+]
 ],
 [
 "clafoutis",
-32
+32,
+[]
 ],
 [
 "turrón",
-31
+31,
+[
+"torró",
+"torrone",
+"turron"
+]
 ],
 [
 "samanu",
-31
+31,
+[
+"sumanak"
+]
 ],
 [
 "Baked Alaska",
-31
+31,
+[
+"glace au four",
+"Norwegian omelette",
+"omelette a la norvegienne",
+"omelette à la norvégienne",
+"omelette surprise"
+]
 ],
 [
 "fried ice cream",
-30
+30,
+[
+"Fried ice cream"
+]
 ],
 [
 "qatayef",
-30
+30,
+[
+"qatayef dumplings"
+]
 ],
 [
 "rum baba",
-30
+30,
+[]
 ],
 [
 "mämmi",
-29
+29,
+[
+"mämmä",
+"mämy"
+]
 ],
 [
 "Kadayif",
-28
+28,
+[
+"Engelshaar",
+"Kadayifi",
+"Kadayıf"
+]
 ],
 [
 "Ras malai",
-28
+28,
+[]
 ],
 [
 "Cendol",
-28
+28,
+[
+"Cendoi"
+]
 ],
 [
 "floating island",
-28
+28,
+[
+"œufs à la neige"
+]
 ],
 [
 "Crêpe Suzette",
-27
+27,
+[
+"Crepe Suzette"
+]
 ],
 [
 "Ma'amoul",
-27
+27,
+[]
 ],
 [
 "mango sticky rice",
-26
+26,
+[]
 ],
 [
 "Halo-halo",
-26
+26,
+[]
 ],
 [
 "youtiao",
-26
+26,
+[
+"Yau Char Kwai"
+]
 ],
 [
 "crumble",
-23
+23,
+[]
 ],
 [
 "palmier",
-23
+23,
+[]
 ],
 [
 "kogel mogel",
-23
+23,
+[]
 ],
 [
 "powidl",
-23
+23,
+[]
 ],
 [
 "Soan papdi",
-23
+23,
+[
+"Sohan papdi"
+]
 ],
 [
 "apple cake",
-22
+22,
+[]
 ],
 [
 "cranachan",
-21
+21,
+[]
 ],
 [
 "Umm Ali",
-20
+20,
+[]
 ],
 [
 "Zuccotto",
-20
+20,
+[]
 ],
 [
 "bananas Foster",
-20
+20,
+[]
 ],
 [
 "Ensaïmada",
-19
+19,
+[]
 ],
 [
 "Hedgehog slice",
-19
+19,
+[
+"Arretjescake",
+"batik cake",
+"Kek Batik"
+]
 ],
 [
 "Tufahije",
-19
+19,
+[]
 ],
 [
 "kazandibi",
-19
+19,
+[]
 ],
 [
 "douhua",
-19
+19,
+[
+"doufuhua",
+"soybean pudding",
+"tahwa",
+"taufufa",
+"tāu-hoa",
+"tāu-hoe",
+"teu faˇ",
+"tofu brains",
+"tofu flower",
+"tofu pudding"
+]
 ],
 [
 "pişmaniye",
-19
+19,
+[
+"saray helvası (variant)"
+]
 ],
 [
 "Miguelitos",
-19
+19,
+[]
 ],
 [
 "Frittelle",
-19
+19,
+[
+"fritole",
+"Frittole",
+"fritule"
+]
 ],
 [
 "Cuajada",
-18
+18,
+[]
 ],
 [
 "Salame turco PAT",
-18
+18,
+[]
 ],
 [
 "Struffoli",
-18
+18,
+[]
 ],
 [
 "Eton mess",
-18
+18,
+[
+"Harrow mess"
+]
 ],
 [
 "cobbler",
-18
+18,
+[]
 ],
 [
 "molten chocolate cake",
-17
+17,
+[
+"chocolate lava cake",
+"lava cake"
+]
 ],
 [
 "fios de ovos",
-17
+17,
+[
+"angel hair"
+]
 ],
 [
 "şekerpare",
-17
+17,
+[
+"Şekerpare"
+]
 ],
 [
 "Poire belle Hélène",
-17
+17,
+[
+"Poire belle Helene"
+]
 ],
 [
 "almond tofu",
-17
+17,
+[
+"almond float",
+"almond jelly",
+"annin dofu",
+"xingren doufu"
+]
 ],
 [
 "Chocolate pizza",
-16
+16,
+[
+"chocolate pizza",
+"Chocolate pizza (dish)",
+"Chocolate pizza dish"
+]
 ],
 [
 "Thirteen desserts",
-16
+16,
+[]
 ],
 [
 "Makówki",
-16
+16,
+[
+"Makowki"
+]
 ],
 [
 "kalburabastı",
-16
+16,
+[
+"hurmašica",
+"kalbura bastı",
+"ormašica",
+"urmašica"
+]
 ],
 [
 "syllabub",
-15
+15,
+[]
 ],
 [
 "güllaç",
-15
+15,
+[]
 ],
 [
 "Flaugnarde",
-15
+15,
+[]
 ],
 [
 "Dadiah",
-15
+15,
+[
+"yogurt"
+]
 ],
 [
 "Malasada",
-15
+15,
+[]
 ],
 [
 "strucchi",
-15
+15,
+[
+"struccoletti",
+"struchi",
+"strucoli",
+"struki",
+"Štruklji"
+]
 ],
 [
 "Bika Ambon",
-15
+15,
+[]
 ],
 [
 "kaju katli",
-15
+15,
+[]
 ],
 [
 "Teh Talua",
-15
+15,
+[
+"Teh Telur"
+]
 ],
 [
 "momiji manjū",
-14
+14,
+[
+"momiji manju"
+]
 ],
 [
 "café liégeois",
-14
+14,
+[
+"cafe liegeois"
+]
 ],
 [
 "picarón",
-14
+14,
+[
+"picarones"
+]
 ],
 [
 "natillas",
-14
+14,
+[
+"custard"
+]
 ],
 [
 "Bubur cha cha",
-14
+14,
+[]
 ],
 [
 "mote con huesillo",
-14
+14,
+[
+"mote con huesillos"
+]
 ],
 [
 "Panellets",
-14
+14,
+[]
 ],
 [
 "castagnaccio",
-14
+14,
+[]
 ],
 [
 "diples",
-14
+14,
+[
+"thiples"
+]
 ],
 [
 "slatko",
-14
+14,
+[]
 ],
 [
 "hong dou tang",
-14
+14,
+[
+"hong dou sha",
+"red bean soup"
+]
 ],
 [
 "bombe glacée",
-14
+14,
+[
+"ボンベグラッセ"
+]
 ],
 [
 "kolak",
-14
+14,
+[]
 ],
 [
 "Keşkül",
-14
+14,
+[]
 ],
 [
 "Malva pudding",
-14
+14,
+[]
 ],
 [
 "coconut bar",
-13
+13,
+[
+"coconut pudding"
+]
 ],
 [
 "Mazamorra",
-13
+13,
+[
+"masamorra"
+]
 ],
 [
 "Frutti di Martorana PAT",
-13
+13,
+[]
 ],
 [
 "sholezard",
-13
+13,
+[]
 ],
 [
 "basundi",
-13
+13,
+[]
 ],
 [
 "Quindim",
-13
+13,
+[]
 ],
 [
 "Sellu",
-13
+13,
+[
+"Sellu, Sel•lu, Sfuf, Sellou, Sfouf",
+"zemmita, zemita"
+]
 ],
 [
 "snow skin mooncake",
-13
+13,
+[
+"crystal mooncake",
+"ice skin mooncake",
+"snowy mooncake"
+]
 ],
 [
 "nun's puffs",
-13
+13,
+[
+"nun's farts"
+]
 ],
 [
 "pastafrola",
-13
+13,
+[]
 ],
 [
 "cold sweet soup",
-12
+12,
+[
+"cold soup"
+]
 ],
 [
 "hoşaf",
-12
+12,
+[
+"hosaf",
+"hoshaf"
+]
 ],
 [
 "Apfelküchle",
-12
+12,
+[]
 ],
 [
 "bülbülyuvası",
-12
+12,
+[
+"bülbül yuvası"
+]
 ],
 [
 "Getuk",
-12
+12,
+[
+"gêthuk",
+"ꦒꦼꦛꦸꦏ"
+]
 ],
 [
 "roti tissue",
-12
+12,
+[
+"roti helikopter",
+"roti tisu",
+"tissue prata"
+]
 ],
 [
 "fruit fool",
-12
+12,
+[
+"fool"
+]
 ],
 [
 "Dame blanche",
-11
+11,
+[
+"coupe Dänemark"
+]
 ],
 [
 "fried Coke",
-11
+11,
+[]
 ],
 [
 "pestil",
-11
+11,
+[
+"fruit leather"
+]
 ],
 [
 "Kemalpaşa dessert",
-11
+11,
+[
+"Kemal Pasha dessert"
+]
 ],
 [
 "Assidat zgougou",
-11
+11,
+[]
 ],
 [
 "Xuixo",
-11
+11,
+[]
 ],
 [
 "vispipuuro",
-11
+11,
+[
+"klappgröt",
+"klappkräm",
+"mannavaht",
+"Russedessert",
+"vispgröt"
+]
 ],
 [
 "Cassatella di Sant'Agata",
-11
+11,
+[]
 ],
 [
 "Zelten",
-11
+11,
+[]
 ],
 [
 "Cherries jubilee",
-11
+11,
+[]
 ],
 [
 "Kalb-el-louz",
-11
+11,
+[
+"qalb el louz"
+]
 ],
 [
 "şambali",
-11
+11,
+[
+"sambali",
+"şambalı",
+"Şam tatlısı"
+]
 ],
 [
 "quince dessert",
-11
+11,
+[
+"ayva tatlısı"
+]
 ],
 [
 "Sütlü Nuriye",
-11
+11,
+[
+"Nuriye dessert"
+]
 ],
 [
 "frozen dessert",
-11
+11,
+[
+"Frozen Desserts & Novelties",
+"ice confection"
+]
 ],
 [
 "Tocino de cielo",
-11
+11,
+[]
 ],
 [
 "supangle",
-10
+10,
+[
+"Supanglez"
+]
 ],
 [
 "Shemai",
-10
+10,
+[]
 ],
 [
 "sale pisang",
-10
+10,
+[]
 ],
 [
 "Tilslørte bondepiker",
-10
+10,
+[]
 ],
 [
 "Bilo-bilo",
-10
+10,
+[]
 ],
 [
 "dulce de batata",
-10
+10,
+[
+"doce de batata doce"
+]
 ],
 [
 "Afikoman",
-10
+10,
+[]
 ],
 [
 "Pumpkin-coconut custard",
-10
+10,
+[]
 ],
 [
 "somlói galuska",
-9
+9,
+[]
 ],
 [
 "Filloas",
-9
+9,
+[]
 ],
 [
 "chocolate covered fruit",
-9
+9,
+[]
 ],
 [
 "Yemas de Santa Teresa",
-9
+9,
+[]
 ],
 [
 "Arctic roll",
-9
+9,
+[]
 ],
 [
 "Mantecadas de Astorga",
-9
+9,
+[
+"mantecadas de Astorga"
+]
 ],
 [
 "Torta setteveli",
-9
+9,
+[]
 ],
 [
 "Sheki halva",
-9
+9,
+[]
 ],
 [
 "Quesada Pasiega",
-9
+9,
+[]
 ],
 [
 "pumpkin dessert",
-9
+9,
+[
+"kabak tatlısı"
+]
 ],
 [
 "mango float",
-9
+9,
+[
+"crema de mangga",
+"mango graham float",
+"mango icebox cake",
+"mango refrigerator cake",
+"mango royale"
+]
 ],
 [
 "hoşmerim",
-9
+9,
+[]
 ],
 [
 "bici bici",
-9
+9,
+[
+"Bici bici dessert"
+]
 ],
 [
 "Kalathappam",
-9
+9,
+[]
 ],
 [
 "Khanom chan",
-9
+9,
+[
+"Steamed layer cake"
+]
 ],
 [
 "Kirschenmichel",
-9
+9,
+[
+"Kerschemischel",
+"Kirschenmännla",
+"Kirschenplotzer",
+"Kirschpfanne"
+]
 ],
 [
 "pavê",
-8
+8,
+[]
 ],
 [
 "Intxaursaltsa",
-8
+8,
+[]
 ],
 [
 "strawberry pasta",
-8
+8,
+[
+"strawberry spaghetti"
+]
 ],
 [
 "merveilleux",
-8
+8,
+[]
 ],
 [
 "Mantecol",
-8
+8,
+[]
 ],
 [
 "Khanom bua loi",
-8
+8,
+[]
 ],
 [
 "Thua khiao tom namtan",
-8
+8,
+[]
 ],
 [
 "Café gourmand",
-8
+8,
+[
+"Cafe gourmand"
+]
 ],
 [
 "Poire à la Beaujolaise",
-8
+8,
+[
+"Poire a la Beaujolaise"
+]
 ],
 [
 "Neccio",
-8
+8,
+[]
 ],
 [
 "butter tart",
-8
+8,
+[]
 ],
 [
 "bienmesabe",
-8
+8,
+[]
 ],
 [
 "Burgo",
-8
+8,
+[]
 ],
 [
 "sweet potato haupia pie",
-8
+8,
+[]
 ],
 [
 "Moustalevria",
-8
+8,
+[]
 ],
 [
 "mantecado",
-8
+8,
+[]
 ],
 [
 "Jiuniang",
-8
+8,
+[
+"láozāo"
+]
 ],
 [
 "honey toast",
-7
+7,
+[]
 ],
 [
 "Barazek",
-7
+7,
+[
+"barazeq",
+"برازق"
+]
 ],
 [
 "coca de San Juan",
-7
+7,
+[]
 ],
 [
 "torpedo dessert",
-7
+7,
+[]
 ],
 [
 "Roti sai mai",
-7
+7,
+[
+"Ayutthaya's cotton candy",
+"roti-wrapped candy floss"
+]
 ],
 [
 "thong yot",
-7
+7,
+[
+"buah tanjung",
+"thong yod",
+"tong yod"
+]
 ],
 [
 "şöbiyet",
-7
+7,
+[]
 ],
 [
 "moczka",
-7
+7,
+[]
 ],
 [
 "kluai buat chi",
-7
+7,
+[
+"banana in coconut milk",
+"kluay buat chee"
+]
 ],
 [
 "Pinni",
-7
+7,
+[]
 ],
 [
 "krentjebrij",
-7
+7,
+[]
 ],
 [
 "Abbamele",
-7
+7,
+[]
 ],
 [
 "baci di dama",
-7
+7,
+[]
 ],
 [
 "Brutti e buoni",
-7
+7,
+[
+"Bruttiboni",
+"Brutti ma buoni",
+"Mandorlati di San Clemente"
+]
 ],
 [
 "Giurgiulena",
-7
+7,
+[]
 ],
 [
 "Bustrengo",
-7
+7,
+[]
 ],
 [
 "Mango pomelo sago",
-7
+7,
+[]
 ],
 [
 "Chandrakala",
-7
+7,
+[]
 ],
 [
 "Jaynagarer Moa",
-7
+7,
+[
+"Jaynagarer Moya",
+"Joynagarer Moa",
+"Joynagarer Moya",
+"Moa",
+"Moya"
+]
 ],
 [
 "Pootharekulu",
-7
+7,
+[
+"paper sweet"
+]
 ],
 [
 "Paparajotes",
-7
+7,
+[]
 ],
 [
 "Rice pudding cake",
-7
+7,
+[]
 ],
 [
 "Sharots",
-7
+7,
+[
+"Armenian snickers",
+"Kaghtsr sujukh",
+"Sujukh",
+"Sweet sujukh"
+]
 ],
 [
 "Khoresht mast",
-6
+6,
+[]
 ],
 [
 "Bingfen",
-6
+6,
+[]
 ],
 [
 "Tigelada",
-6
+6,
+[]
 ],
 [
 "fruit pizza",
-6
+6,
+[]
 ],
 [
 "saffron pancake",
-6
+6,
+[
+"Gotland pancake",
+"Gotlandspannkaka",
+"saffranspannkaka"
+]
 ],
 [
 "timphan",
-6
+6,
+[]
 ],
 [
 "Polvorosa",
-6
+6,
+[
+"Panderito",
+"Pandero",
+"Polvorosas"
+]
 ],
 [
 "layali lubnan",
-6
+6,
+[]
 ],
 [
 "Carolina",
-6
+6,
+[]
 ],
 [
 "Ducat buns",
-6
+6,
+[
+"buchtičky s krémem",
+"dukátové buchtičky"
+]
 ],
 [
 "Sì",
-6
+6,
+[]
 ],
 [
 "Crocetta of Caltanissetta",
-6
+6,
+[]
 ],
 [
 "Tahini cookie",
-6
+6,
+[]
 ],
 [
 "Peanut pie",
-6
+6,
+[]
 ],
 [
 "Turkish style semolina dessert",
-6
+6,
+[
+"Irmik helva"
+]
 ],
 [
 "Tamina",
-6
+6,
+[
+"Takneta",
+"Tamena",
+"Taqnata"
+]
 ],
 [
 "Laz böreği",
-6
+6,
+[]
 ],
 [
 "'Mpanatigghi",
-6
+6,
+[]
 ],
 [
 "suspiro de limeña",
-6
+6,
+[]
 ],
 [
 "Cartellate",
-6
+6,
+[]
 ],
 [
 "Death by Chocolate",
-6
+6,
+[]
 ],
 [
 "sugolo",
-6
+6,
+[]
 ],
 [
 "Kulolo",
-6
+6,
+[
+"Hawaiʻi"
+]
 ],
 [
 "Aam papad",
-6
+6,
+[]
 ],
 [
 "Pane coi santi",
-6
+6,
+[
+"pan coi santi",
+"pan co' santi",
+"pan dei santi"
+]
 ],
 [
 "Chajá",
-6
+6,
+[]
 ],
 [
 "Molotof",
-6
+6,
+[]
 ],
 [
 "caramel nougat",
-6
+6,
+[]
 ],
 [
 "icebox cake",
-6
+6,
+[
+"chocolate ripple cake",
+"log"
+]
 ],
 [
 "Sweet coal",
-6
+6,
+[
+"Coal candy"
+]
 ],
 [
 "Putu piring",
-6
+6,
+[
+"Kueh tutu"
+]
 ],
 [
 "Sagu",
-6
+6,
+[]
 ],
 [
 "Vermicelles",
-6
+6,
+[]
 ],
 [
 "taro ball",
-6
+6,
+[
+"ōo-înn"
+]
 ],
 [
 "Berliner Luft",
-6
+6,
+[]
 ],
 [
 "Romeu and Julieta",
-6
+6,
+[]
 ],
 [
 "aletria",
-6
+6,
+[
+"Aletria"
+]
 ],
 [
 "Ice Kenkey",
-5
+5,
+[]
 ],
 [
 "dump cake",
-5
+5,
+[]
 ],
 [
 "Daheen",
-5
+5,
+[]
 ],
 [
 "Sili ice cream",
-5
+5,
+[]
 ],
 [
 "Piada dei morti",
-5
+5,
+[]
 ],
 [
 "Galamai",
-5
+5,
+[]
 ],
 [
 "Izmir bomb",
-5
+5,
+[
+"İzmir bombası",
+"praline stuffed cookies"
+]
 ],
 [
 "Torcetti",
-5
+5,
+[]
 ],
 [
 "diplomat pudding",
-5
+5,
+[]
 ],
 [
 "es buah",
-5
+5,
+[]
 ],
 [
 "pichi-pichi",
-5
+5,
+[
+"pitsi-pitsi",
+"pitsi-pitsî"
+]
 ],
 [
 "Mohnkuchen",
-5
+5,
+[]
 ],
 [
 "Meuseukat",
-5
+5,
+[]
 ],
 [
 "brisas do lis",
-5
+5,
+[]
 ],
 [
 "Chocolate salo",
-5
+5,
+[]
 ],
 [
 "Natas do Céu",
-5
+5,
+[]
 ],
 [
 "Huevos moles",
-5
+5,
+[]
 ],
 [
 "Deep fried Oreo",
-5
+5,
+[]
 ],
 [
 "cookie cake",
-5
+5,
+[]
 ],
 [
 "Osmanthus cake",
-5
+5,
+[
+"Osmanthus jelly"
+]
 ],
 [
 "orelletes",
-5
+5,
+[]
 ],
 [
 "vacherin",
-5
+5,
+[]
 ],
 [
 "Certosino",
-5
+5,
+[]
 ],
 [
 "Cupeta",
-5
+5,
+[]
 ],
 [
 "'Nzuddi",
-5
+5,
+[]
 ],
 [
 "Sfinci di San Giuseppe",
-5
+5,
+[
+"Sicilian doughnut",
+"St Joseph doughnut"
+]
 ],
 [
 "bubert",
-5
+5,
+[
+"semolina dessert"
+]
 ],
 [
 "Creme de papaya",
-5
+5,
+[
+"Creme de mamão",
+"Papaya cream"
+]
 ],
 [
 "Fánk",
-5
+5,
+[
+"Fank"
+]
 ],
 [
 "Phu Thê Cake",
-5
+5,
+[]
 ],
 [
 "Dilber dudağı",
-5
+5,
+[]
 ],
 [
 "Şıllık",
-5
+5,
+[]
 ],
 [
 "Stuffed cookie",
-5
+5,
+[]
 ],
 [
 "tinginys",
-5
+5,
+[]
 ],
 [
 "Kitchener bun",
-5
+5,
+[]
 ],
 [
 "Karsambaç",
-5
+5,
+[]
 ],
 [
 "Persimmon pudding",
-5
+5,
+[]
 ],
 [
 "pistachio pudding",
-5
+5,
+[]
 ],
 [
 "Layered Rye Bread",
-5
+5,
+[]
 ],
 [
 "Unnakai",
-5
+5,
+[
+"Kaayada",
+"Unnakkaay"
+]
 ],
 [
 "torta 900",
-5
+5,
+[
+"cake 900",
+"torta Novecento"
+]
 ],
 [
 "Dom Rodrigo",
-4
+4,
+[
+"Bolo de Dom Rodrigos",
+"Dom Rodrigos"
+]
 ],
 [
 "Fatias de Tomar",
-4
+4,
+[]
 ],
 [
 "sericaia",
-4
+4,
+[]
 ],
 [
 "Cosi di ficu PAT",
-4
+4,
+[
+"Cosi duci"
+]
 ],
 [
 "taro purée",
-4
+4,
+[]
 ],
 [
 "Samsa dessert",
-4
+4,
+[
+"samsa"
+]
 ],
 [
 "mazapán de Toledo",
-4
+4,
+[]
 ],
 [
 "Jam tart",
-4
+4,
+[]
 ],
 [
 "Khanom tan",
-4
+4,
+[]
 ],
 [
 "Khanom tom",
-4
+4,
+[
+"Khanom kho"
+]
 ],
 [
 "kalitsounia",
-4
+4,
+[]
 ],
 [
 "moong dal halwa",
-4
+4,
+[]
 ],
 [
 "Pastel de Gloria",
-4
+4,
+[]
 ],
 [
 "Sarim (dessert)",
-4
+4,
+[]
 ],
 [
 "riz à l'impératrice",
-4
+4,
+[]
 ],
 [
 "fırın sütlaç",
-4
+4,
+[
+"baked rice pudding"
+]
 ],
 [
 "barongko pisang",
-4
+4,
+[]
 ],
 [
 "Nevzine dessert",
-4
+4,
+[]
 ],
 [
 "list of apple dishes",
-4
+4,
+[]
 ],
 [
 "Rollò",
-4
+4,
+[]
 ],
 [
 "Cuddura",
-4
+4,
+[]
 ],
 [
 "alani",
-4
+4,
+[]
 ],
 [
 "pijama",
-4
+4,
+[]
 ],
 [
 "arrop i talladetes",
-4
+4,
+[
+"arrop i tallaetes"
+]
 ],
 [
 "Pan meino",
-4
+4,
+[]
 ],
 [
 "Strawberries and cream",
-4
+4,
+[]
 ],
 [
 "Echaude",
-4
+4,
+[]
 ],
 [
 "brigidino di Lamporecchio",
-4
+4,
+[]
 ],
 [
 "cassatelle",
-4
+4,
+[
+"cappidduzzi",
+"casateddi",
+"ravioli dolci",
+"Ravioli dolci siciliani"
+]
 ],
 [
 "Ciambellino",
-4
+4,
+[]
 ],
 [
 "Vyazma pryanik",
-4
+4,
+[]
 ],
 [
 "kheer",
-4
+4,
+[]
 ],
 [
 "Champús",
-4
+4,
+[
+"champús"
+]
 ],
 [
 "crisp",
-4
+4,
+[]
 ],
 [
 "mazamorra morada",
-4
+4,
+[]
 ],
 [
 "duckanoo",
-4
+4,
+[
+"blue drawers",
+"duckunoo",
+"ducunu",
+"tie-a-leaf"
+]
 ],
 [
 "Prinjolata",
-4
+4,
+[]
 ],
 [
 "Alajú",
-4
+4,
+[]
 ],
 [
 "Borracho (cake)",
-4
+4,
+[]
 ],
 [
 "Erzurum kadaifi dolması",
-4
+4,
+[
+"Kadayıf"
+]
 ],
 [
 "queso helado",
-4
+4,
+[]
 ],
 [
 "Pastissets de moniato",
-4
+4,
+[]
 ],
 [
 "arroz zambito",
-4
+4,
+[]
 ],
 [
 "hanımgöbeği",
-4
+4,
+[
+"Lady's navel"
+]
 ],
 [
 "Khanom khuai ling",
-4
+4,
+[]
 ],
 [
 "buko salad",
-4
+4,
+[
+"young coconut salad"
+]
 ],
 [
 "yassı kadayıf",
-4
+4,
+[]
 ],
 [
 "biscuits of Saint Martin",
-4
+4,
+[
+"San Martino (cookie)"
+]
 ],
 [
 "shirokuma",
-4
+4,
+[]
 ],
 [
 "Biscuit cake",
-4
+4,
+[]
 ],
 [
 "Almond soup",
-4
+4,
+[]
+],
+[
+"javanais",
+3,
+[]
+],
+[
+"ölsupa",
+3,
+[
+"ale soup",
+"beer soup"
+]
+],
+[
+"Nocciolini di Chivasso",
+3,
+[]
+],
+[
+"Trollkrem",
+3,
+[]
+],
+[
+"Termix",
+3,
+[]
+],
+[
+"Knafeh Nabulsiyeh",
+3,
+[]
+],
+[
+"Espumilla",
+3,
+[]
+],
+[
+"Nesselrode pudding",
+3,
+[
+"pouding Nesselrode"
+]
+],
+[
+"khanfaroosh",
+3,
+[
+"khanfaroush"
+]
+],
+[
+"Hoppelpoppel",
+3,
+[
+"Hoppel poppel"
+]
+],
+[
+"brioscia",
+3,
+[]
+],
+[
+"Duff",
+3,
+[]
+],
+[
+"Pio Quinto",
+3,
+[]
+],
+[
+"Cochinito de Piloncillo",
+3,
+[]
+],
+[
+"Schmoo torte",
+3,
+[]
+],
+[
+"Piparelle PAT",
+3,
+[]
+],
+[
+"Keukarah",
+3,
+[]
+],
+[
+"raviola di ricotta of Caltanissetta",
+3,
+[
+"raviola di ricotta nissena"
+]
+],
+[
+"Holy Spina",
+3,
+[]
+],
+[
+"solozhenyk",
+3,
+[]
+],
+[
+"Metro",
+3,
+[]
+],
+[
+"Torta delle rose",
+3,
+[]
+],
+[
+"uyutma",
+3,
+[
+"incir uyutması"
+]
+],
+[
+"vlaflip",
+3,
+[]
+],
+[
+"Croquignoles",
+3,
+[
+"Croxignoles"
+]
+],
+[
+"Indian ice cream",
+3,
+[
+"sxusem"
+]
+],
+[
+"Khanom babin",
+3,
+[]
+],
+[
+"Dole Whip",
+3,
+[
+"Dole Soft Serve",
+"Pineapple whip"
+]
+],
+[
+"Abisinios",
+3,
+[]
+],
+[
+"Pets de sœurs",
+3,
+[
+"brown sugar rolls"
+]
+],
+[
+"Bicciolani di Vercelli",
+3,
+[]
+],
+[
+"Biscotti del Lagaccio",
+3,
+[]
+],
+[
+"Ceglie biscuit",
+3,
+[]
+],
+[
+"Bossolà bresciano",
+3,
+[]
+],
+[
+"cassatella di Agira",
+3,
+[]
+],
+[
+"dessert with spoon",
+3,
+[
+"creamy dessert"
+]
+],
+[
+"Pistiddu",
+3,
+[]
+],
+[
+"Rame di Napoli",
+3,
+[]
+],
+[
+"roccocò",
+3,
+[]
+],
+[
+"Schiaccia briaca",
+3,
+[]
+],
+[
+"Dragon's Breath",
+3,
+[
+"Dragon's breath"
+]
+],
+[
+"Cottage Pudding",
+3,
+[]
+],
+[
+"dessert bar",
+3,
+[]
+],
+[
+"dal badam chakki",
+3,
+[
+"dal suphal chakki"
+]
+],
+[
+"Puding Diraja",
+3,
+[]
+],
+[
+"Nucrem",
+3,
+[]
+],
+[
+"es tebak",
+3,
+[]
+],
+[
+"Acitrón",
+3,
+[]
+],
+[
+"alfajor",
+3,
+[
+"alfajores"
+]
+],
+[
+"Frejol colado",
+3,
+[]
+],
+[
+"Imperial ruso",
+3,
+[]
+],
+[
+"Un helvası",
+3,
+[
+"Flour helva"
+]
+],
+[
+"kaysefe",
+3,
+[]
+],
+[
+"postre Balcarce",
+3,
+[]
+],
+[
+"Torrija",
+3,
+[]
+],
+[
+"Kabuni",
+3,
+[]
+],
+[
+"Chongos zamoranos",
+3,
+[]
+],
+[
+"Revani",
+3,
+[]
+],
+[
+"Marquesita",
+3,
+[]
+],
+[
+"Frutas de Aragón",
+3,
+[]
+],
+[
+"Hořické roll",
+3,
+[]
+],
+[
+"Mazapán de la Rosa",
+3,
+[]
+],
+[
+"arnadí",
+3,
+[]
+],
+[
+"Pera Sandesh",
+3,
+[]
+],
+[
+"Bada reuteuk",
+2,
+[]
+],
+[
+"Muyuchi",
+2,
+[]
+],
+[
+"besan laddu",
+2,
+[
+"gram flour laddu"
+]
+],
+[
+"doce de caju",
+2,
+[]
+],
+[
+"wine cream",
+2,
+[]
+],
+[
+"nân-e panjere",
+2,
+[
+"khâtun-e panjere",
+"shirini-e panjere"
+]
+],
+[
+"äggost",
+2,
+[
+"Bohuslänsk äggost"
+]
+],
+[
+"bánh gai",
+2,
+[]
+],
+[
+"Sandapao",
+2,
+[]
+],
+[
+"Turkish ring dessert",
+2,
+[
+"Ring sweet"
+]
+],
+[
+"apple crumble",
+2,
+[]
+],
+[
+"ichigo daifuku",
+2,
+[
+"strawberry daifuku",
+"strawberry mochi"
+]
+],
+[
+"uroko dango",
+2,
+[
+"fish scale dumplings",
+"tsubaki dango"
+]
+],
+[
+"Torrone di Caltanissetta PAT",
+2,
+[
+"Turruni"
+]
+],
+[
+"legumina",
+2,
+[]
+],
+[
+"Dolceriso del Moro",
+2,
+[]
+],
+[
+"Buzynnyk",
+2,
+[]
+],
+[
+"mel i mató",
+2,
+[
+"mel i mato",
+"mel y mató"
+]
+],
+[
+"Lomnice Biscuits",
+2,
+[]
+],
+[
+"Mawlid sweets",
+2,
+[]
+],
+[
+"'Arikah",
+2,
+[]
+],
+[
+"Meascia",
+2,
+[]
+],
+[
+"Encharcada",
+2,
+[]
+],
+[
+"Sfoglio PAT",
+2,
+[
+"sfogghiu"
+]
+],
+[
+"Khanom phra phai",
+2,
+[]
+],
+[
+"Chestnut hearts",
+2,
+[
+"South Tyrolean chestnut hearts"
+]
+],
+[
+"Zlijevka",
+2,
+[]
+],
+[
+"ballorieh",
+2,
+[
+"ballourieh",
+"balourieh",
+"bellawrieh",
+"belloria"
+]
+],
+[
+"Pražský koláč",
+2,
+[]
+],
+[
+"Rhubarb Fool",
+2,
+[]
+],
+[
+"Madlouqa",
+2,
+[
+"Madlouah",
+"Madlouka",
+"Madluqa"
+]
+],
+[
+"Vinegar pie",
+2,
+[]
+],
+[
+"Zaunerstollen",
+2,
+[]
+],
+[
+"church window",
+2,
+[]
+],
+[
+"Muhallabia",
+2,
+[]
+],
+[
+"Biscotto salute",
+2,
+[]
+],
+[
+"nochebueno",
+2,
+[]
+],
+[
+"Dre-si",
+2,
+[]
+],
+[
+"pea flour cake",
+2,
+[]
+],
+[
+"Costrada de Alcalá",
+2,
+[
+"Costrada de Alcala"
+]
+],
+[
+"Finocchini",
+2,
+[]
+],
+[
+"Cennet çamuru",
+2,
+[
+"Mud of the Eden"
+]
+],
+[
+"San Antón rolls",
+2,
+[]
+],
+[
+"Battalia pie",
+2,
+[
+"battaglia pye"
+]
+],
+[
+"Palua ladu",
+2,
+[
+"Palua laddu",
+"Palua ladoo",
+"Paluo laddu",
+"Paluo ladoo",
+"Paluo ladu"
+]
+],
+[
+"Fraises Wilhelmine",
+2,
+[]
+],
+[
+"chocolat liégeois",
+2,
+[]
+],
+[
+"tarte aux pralines",
+2,
+[]
+],
+[
+"Tarte au sucre de Pérouges",
+2,
+[]
+],
+[
+"Jagannath Ballabha",
+2,
+[
+"Jagannath Ballav",
+"Jagannath Ballava"
+]
+],
+[
+"Chhena Tadia",
+2,
+[]
+],
+[
+"Tarte à la gomme",
+2,
+[]
+],
+[
+"agnello pasquale",
+2,
+[]
+],
+[
+"crema bruciata",
+2,
+[]
+],
+[
+"Mille-feuille Carsolina",
+2,
+[]
+],
+[
+"Rice crispies",
+2,
+[]
+],
+[
+"delizia al limone",
+2,
+[
+"delizia di Sorrento"
+]
+],
+[
+"Frustingo",
+2,
+[
+"Fristingo"
+]
+],
+[
+"Torta nera di San Secondo",
+2,
+[]
+],
+[
+"Minna di Virgini PAT",
+2,
+[]
+],
+[
+"Nucàtuli PAT",
+2,
+[]
+],
+[
+"ravioli dolci",
+2,
+[]
+],
+[
+"Sguta",
+2,
+[]
+],
+[
+"Testa di moro",
+2,
+[]
+],
+[
+"Pan della Marchesa",
+2,
+[]
+],
+[
+"Bica",
+2,
+[]
+],
+[
+"Frozie cup",
+2,
+[]
+],
+[
+"Westfälische Götterspeise",
+2,
+[]
+],
+[
+"Timus",
+2,
+[]
+],
+[
+"loukoumades",
+2,
+[]
+],
+[
+"Hojaldres de Astorga",
+2,
+[]
+],
+[
+"Corico",
+2,
+[]
+],
+[
+"culeca",
+2,
+[]
+],
+[
+"Poleá",
+2,
+[
+"Polea"
+]
+],
+[
+"şambaba dessert",
+2,
+[]
+],
+[
+"Kerebiç",
+2,
+[
+"Karabij"
+]
+],
+[
+"Chhena Mudki",
+2,
+[
+"Chhena Murki"
+]
+],
+[
+"kamby arro",
+2,
+[
+"kamby arró"
+]
+],
+[
+"Piñonate",
+2,
+[]
+],
+[
+"ingberlach",
+2,
+[]
+],
+[
+"Salčići",
+2,
+[
+"salnjaci"
+]
+],
+[
+"Torta Imperial",
+2,
+[]
+],
+[
+"Torta loca",
+2,
+[]
+],
+[
+"Torta parda",
+2,
+[]
+],
+[
+"Cuddrireddra PAT",
+2,
+[]
+],
+[
+"Kesaria Peda",
+2,
+[]
+],
+[
+"Poi",
+2,
+[]
+],
+[
+"Khanom khai pla",
+2,
+[]
+],
+[
+"Pinasugbo",
+2,
+[]
+],
+[
+"guargüero",
+2,
+[]
+],
+[
+"Crespillos",
+2,
+[]
+],
+[
+"Aboukir",
+2,
+[]
+],
+[
+"sherbet",
+2,
+[]
+],
+[
+"Sospiro",
+2,
+[]
+],
+[
+"Sulu muhallebi",
+2,
+[]
+],
+[
+"Givré",
+2,
+[
+"Givre"
+]
+],
+[
+"Kamalabhog",
+1,
+[
+"Kamala bhog"
+]
+],
+[
+"King's Hand",
+1,
+[
+"handwich",
+"kings hand",
+"kings handwich"
+]
+],
+[
+"Boondi laddu",
+1,
+[
+"Bonde laddu"
+]
+],
+[
+"Mylta",
+1,
+[]
+],
+[
+"Ube",
+1,
+[
+"Purple Yam"
+]
+],
+[
+"Yogurt Cream (Sugakiya)",
+1,
+[]
+],
+[
+"Kheer Kamala",
+1,
+[
+"Kheer komola"
+]
+],
+[
+"Xohol",
+1,
+[]
+],
+[
+"Fruta de horno",
+1,
+[]
+],
+[
+"Bungong Kayee",
+1,
+[]
+],
+[
+"Torta de pellizco",
+1,
+[]
+],
+[
+"denpun dango",
+1,
+[]
+],
+[
+"Torta de leche",
+1,
+[]
+],
+[
+"Halawat Nahar Khuz",
+1,
+[
+"Halva Nahar Khuz"
+]
+],
+[
+"pane dell'Assedio",
+1,
+[]
+],
+[
+"white chocolate cake",
+1,
+[]
+],
+[
+"Gülüt cake",
+1,
+[
+"Gülüt keki"
+]
+],
+[
+"Helatiye",
+1,
+[]
+],
+[
+"yum yum",
+1,
+[
+"yum-yum",
+"yumyum"
+]
+],
+[
+"Gaja",
+1,
+[
+"Gajaa"
+]
+],
+[
+"massini",
+1,
+[]
+],
+[
+"brioche con gelato",
+1,
+[]
+],
+[
+"Turrón de vino",
+1,
+[]
+],
+[
+"mafroukeh",
+1,
+[]
+],
+[
+"Cuore d'Abruzzo",
+1,
+[]
+],
+[
+"Pagnotta di San Martino",
+1,
+[]
+],
+[
+"Leche nevada",
+1,
+[]
+],
+[
+"Macho ruso",
+1,
+[]
+],
+[
+"Viennese",
+1,
+[]
+],
+[
+"Hib",
+1,
+[]
+],
+[
+"Chhena Mandua",
+1,
+[]
+],
+[
+"Jenamani",
+1,
+[]
+],
+[
+"Khuruma",
+1,
+[
+"Khuduma"
+]
+],
+[
+"Radhaballav",
+1,
+[
+"Radhaballabha",
+"Radha Ballabha",
+"Radha Ballav",
+"Radhaballava",
+"Radha Ballava",
+"Radha Vallabha",
+"Radha Vallav",
+"Radhavallava",
+"Radha Vallava"
+]
+],
+[
+"Hansakeli",
+1,
+[]
+],
+[
+"Miyoncha",
+1,
+[]
+],
+[
+"Mahalepi",
+1,
+[]
+],
+[
+"ngiu vun sui",
+1,
+[
+"lug tong ci",
+"ngiu vun shui"
+]
+],
+[
+"Hesîde",
+1,
+[]
+],
+[
+"Xîlok",
+1,
+[]
+],
+[
+"Sbatudin",
+1,
+[]
+],
+[
+"Dulcia domestica",
+1,
+[]
+],
+[
+"8 desserts in 1 pan",
+1,
+[]
+],
+[
+"Kanjuku Melon Cream (Sugakiya)",
+1,
+[]
+],
+[
+"Payesh with date palm jaggery",
+1,
+[]
+],
+[
+"grybukai",
+1,
+[]
+],
+[
+"khailmag",
+1,
+[
+"khailmag tos",
+"kholson tos"
+]
+],
+[
+"maribruni",
+1,
+[
+"marybruni"
+]
+],
+[
+"Torta ortigara PAT",
+1,
+[]
+],
+[
+"Smegiassa PAT",
+1,
+[]
+],
+[
+"Baked fruit dessert",
+1,
+[]
+],
+[
+"café helado",
+1,
+[]
+],
+[
+"pull-apart doughnut",
+1,
+[
+"pull apart donut",
+"pull-apart donut",
+"pull apart doughnut"
+]
+],
+[
+"Granny's Apple Fries",
+1,
+[]
+],
+[
+"Gueffus",
+1,
+[
+"Guelfos"
+]
+],
+[
+"Coconut drop",
+1,
+[]
+],
+[
+"tea dessert",
+1,
+[]
+],
+[
+"Ansom chek",
+1,
+[]
+],
+[
+"chipolata pudding",
+1,
+[]
+],
+[
+"Haagse bluf",
+1,
+[
+"The Hague bluff"
+]
+],
+[
+"Easter flatbread",
+1,
+[]
+],
+[
+"sardinhas doces de Trancoso",
+1,
+[]
+],
+[
+"fruit whip",
+1,
+[]
+],
+[
+"Poke",
+1,
+[
+"Poʻe"
+]
+],
+[
+"Leum Kleun",
+1,
+[
+"Forgot Swallowed",
+"Leum Gleun",
+"Mung Bean Flour & Coconut Dessert"
+]
+],
+[
+"lingonberry pie",
+1,
+[
+"partridgeberry pie"
+]
+],
+[
+"tavioka",
+1,
+[]
+],
+[
+"sugared cranberries",
+1,
+[
+"Cranberries in powdered sugar"
+]
+],
+[
+"table cream",
+1,
+[]
+],
+[
+"Nozza",
+1,
+[]
+],
+[
+"Chrik",
+1,
+[]
+],
+[
+"Bhoi",
+1,
+[]
+],
+[
+"Sohlob",
+1,
+[
+"sahlab"
+]
+],
+[
+"Christmas dessert",
+1,
+[]
+],
+[
+"Migliaccio",
+1,
+[
+"Migliaccio di Romagna"
+]
+],
+[
+"Papassino",
+1,
+[
+"Pabassinas",
+"Papassìno"
+]
+],
+[
+"Paradello",
+1,
+[]
+],
+[
+"Petrafennula PAT",
+1,
+[]
+],
+[
+"Pignoccata PAT",
+1,
+[
+"mpagnuccata",
+"pagnuccata",
+"pignolata"
+]
+],
+[
+"Quaresimali",
+1,
+[]
+],
+[
+"schiacciata con l'uva",
+1,
+[
+"ciaccia con uva",
+"stiaccia con uva"
+]
+],
+[
+"susamielli",
+1,
+[]
+],
+[
+"Poutine à trou",
+1,
+[]
+],
+[
+"Cocktion",
+1,
+[]
+],
+[
+"Lapek bugih",
+1,
+[]
+],
+[
+"Kharvas",
+1,
+[]
+],
+[
+"Bienmesabe",
+1,
+[]
+],
+[
+"Bolla de chicharrones",
+1,
+[]
+],
+[
+"Bollo maimón",
+1,
+[]
+],
+[
+"Chula",
+1,
+[]
+],
+[
+"Merengon",
+1,
+[]
+],
+[
+"Ponderaciones",
+1,
+[]
+],
+[
+"Ice cheeses",
+1,
+[]
+],
+[
+"ranfañote",
+1,
+[]
+],
+[
+"Gorditas de nata",
+1,
+[]
+],
+[
+"Colombe pasquali PAT",
+1,
+[
+"i Palummeddi",
+"Pastifuorti"
+]
+],
+[
+"Pupi cull'ova PAT",
+1,
+[]
+],
+[
+"Cuddureddi PAT",
+1,
+[]
+],
+[
+"Pepitos de crema",
+1,
+[]
+],
+[
+"Applebee's Butter Pecan Blondie",
+1,
+[]
+],
+[
+"Applebee's Triple Chocolate Meltdown",
+1,
+[]
+],
+[
+"Creamed Turkish Delights",
+1,
+[]
+],
+[
+"Muhallebi with kadayıf",
+1,
+[]
+],
+[
+"Chef Cookie's Deep Dish",
+1,
+[]
+],
+[
+"S'mores Bake",
+1,
+[]
+],
+[
+"alkaseba",
+1,
+[]
+],
+[
+"Camotillo",
+1,
+[]
+],
+[
+"raspberry tart",
+1,
+[]
+],
+[
+"murta con membrillo",
+1,
+[]
+],
+[
+"Pasta marquesa",
+1,
+[]
+],
+[
+"Barzón (postre)",
+1,
+[]
+],
+[
+"vargabéles",
+1,
+[
+"varga béles"
+]
+],
+[
+"Royal Street Bananas Foster Crepe",
+1,
+[]
+],
+[
+"Bananas Foster ice cream",
+1,
+[]
+],
+[
+"Bananas Foster bread pudding",
+1,
+[]
+],
+[
+"'Ohana Bread Pudding",
+1,
+[]
+],
+[
+"Bananas Foster cheesecake",
+1,
+[]
+],
+[
+"Mohnmingilan",
+1,
+[]
+],
+[
+"Squiccia",
+1,
+[]
+],
+[
+"Madhubhat",
+1,
+[]
+],
+[
+"Benne ball",
+1,
+[]
+],
+[
+"Mostillo de mel",
+1,
+[]
+],
+[
+"Havannets",
+1,
+[
+"Havanna Havannet",
+"Havannet"
+]
+],
+[
+"Rosbora",
+0,
+[]
+],
+[
+"kıvratma",
+0,
+[]
+],
+[
+"Guguta's hat",
+0,
+[
+"Guguță's hat"
+]
+],
+[
+"kabissé",
+0,
+[]
+],
+[
+"Louhouré noun coco",
+0,
+[]
+],
+[
+"cakes and dessert bar",
+0,
+[
+"Cakes & Dessert Bars"
+]
+],
+[
+"candy covered fruit",
+0,
+[
+"Candied & Chocolate Covered Fruit"
+]
+],
+[
+"ice cream novelty",
+0,
+[
+"Ice Cream Novelties"
+]
+],
+[
+"Sandnøtter",
+0,
+[]
+],
+[
+"Zuccoto",
+0,
+[]
+],
+[
+"Puddis",
+0,
+[]
+],
+[
+"mađarica",
+0,
+[]
+],
+[
+"sémola con leche",
+0,
+[]
+],
+[
+"Manjarate",
+0,
+[]
+],
+[
+"Torta merengada de frambuesa",
+0,
+[
+"Torta de merengue con frambuesas",
+"Torta de merengue frambuesa",
+"Torta merengue frambuesa"
+]
+],
+[
+"custard dessert",
+0,
+[]
+],
+[
+"stuffed dessert",
+0,
+[]
+],
+[
+"semolina halva",
+0,
+[]
+],
+[
+"Lontar cake",
+0,
+[]
+],
+[
+"Taiwanese mini croissant brand",
+0,
+[]
+],
+[
+"snounieh",
+0,
+[]
+],
+[
+"Cato's Globi",
+0,
+[]
+],
+[
+"hurmašica",
+0,
+[
+"hurmašice",
+"ormašica",
+"ormašice",
+"urmašica",
+"urmašice"
+]
+],
+[
+"Narkel Naru",
+0,
+[
+"chinnir naru",
+"gurer naru",
+"Narkel laddoo",
+"tillar naru"
+]
+],
+[
+"goan nevri",
+0,
+[]
+],
+[
+"chocolate dessert",
+0,
+[]
+],
+[
+"jenang grendul",
+0,
+[]
+],
+[
+"Sikomaida",
+0,
+[]
+],
+[
+"Plombières",
+0,
+[]
 ]
 ]

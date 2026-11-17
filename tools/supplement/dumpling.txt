@@ -51,3 +51,7 @@ Buuz
 Khuushuur
 Bansh
 Modak
+Baozi=bao=steamed bun
+Mantou
+Char Siu Bao=cha siu bao
+Tangbao

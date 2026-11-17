@@ -1,0 +1,63 @@
+Ankle Bone=talus
+Anvil=incus
+Atlas
+Axis
+Backbone=spine=spinal column
+Breastbone=sternum
+Capitate
+Cheekbone=zygomatic bone
+Collarbone=clavicle
+Cuboid
+Cuneiform
+Ethmoid
+Fabella
+Femur
+Fibula
+Finger Bones=phalanges
+Frontal Bone
+Funny Bone=humerus
+Hamate
+Hammer=malleus
+Heel Bone=calcaneus
+Hip Bone=hipbone
+Hyoid
+Ilium
+Ischium
+Jawbone=mandible
+Kneecap=patella
+Lacrimal
+Lunate
+Maxilla
+Metacarpals
+Metatarsals
+Nasal Bone
+Navicular
+Occipital Bone
+Palatine
+Parietal Bone
+Pelvis
+Pisiform
+Pubis
+Radius
+Ribs=rib=rib cage
+Sacrum
+Scaphoid
+Sesamoid
+Shin Bone=shinbone=tibia
+Shoulder Blade=scapula
+Skull=cranium
+Sphenoid
+Stirrup=stapes
+Tailbone=coccyx
+Temporal Bone
+Thigh Bone=thighbone=femur
+Tibia
+Toe Bones
+Trapezium
+Trapezoid
+Triquetrum
+Ulna
+Vertebrae=vertebra
+Vomer
+Wishbone
+Wrist Bones=carpals

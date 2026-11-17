@@ -1,0 +1,103 @@
+Andromeda
+Antlia
+Apus
+Aquarius
+Aquila=the eagle
+Ara
+Argo Navis
+Aries
+Auriga
+Big Dipper
+Bootes
+Caelum
+Camelopardalis
+Cancer=the crab
+Canes Venatici
+Canis Major
+Canis Minor
+Capricornus=capricorn
+Carina
+Cassiopeia=the w
+Centaurus
+Cepheus
+Cetus
+Chamaeleon
+Circinus
+Coathanger
+Columba
+Coma Berenices
+Corona Australis
+Corona Borealis
+Corvus
+Crater
+Crux=southern cross
+Cygnus=northern cross=the swan
+Delphinus
+Dorado
+Draco=the dragon
+Equuleus
+Eridanus
+Fornax
+Gemini=the twins
+Great Square of Pegasus
+Grus
+Hercules
+Horologium
+Hyades
+Hydra
+Hydrus
+Indus
+Keystone
+Kite
+Lacerta
+Leo Minor
+Leo=the lion
+Lepus
+Libra
+Little Dipper
+Lupus
+Lynx
+Lyra=the lyre
+Mensa
+Microscopium
+Monoceros
+Musca
+Norma
+Octans
+Ophiuchus
+Orion Nebula
+Orion's Belt
+Orion=the hunter=orion's belt
+Pavo
+Pegasus
+Perseus
+Phoenix
+Pictor
+Pisces
+Piscis Austrinus
+Pleiades=seven sisters
+Puppis
+Pyxis
+Reticulum
+Sagitta
+Sagittarius=the teapot
+Scorpius=scorpio=the scorpion
+Sculptor
+Scutum
+Serpens
+Sextans
+Summer Triangle
+Taurus=the bull
+Teapot
+Telescopium
+Triangulum
+Triangulum Australe
+Tucana
+Ursa Major=big dipper=great bear=the plough=plough
+Ursa Minor=little dipper=little bear
+Vela
+Virgo
+Volans
+Vulpecula
+Winter Hexagon
+Winter Triangle

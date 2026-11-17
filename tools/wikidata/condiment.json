@@ -1,1178 +1,2788 @@
 [
 [
 "chocolate",
-190
+190,
+[]
 ],
 [
 "spice",
-141
+141,
+[
+"spices"
+]
 ],
 [
 "chili pepper",
-125
+125,
+[
+"chile",
+"chile pepper",
+"chili",
+"chilli",
+"chilli pepper",
+"hot pepper",
+"spicy chili pepper",
+"spicy pepper"
+]
 ],
 [
 "vinegar",
-124
+124,
+[
+"acetic acid",
+"spirit of vinegar",
+"spirits of vinegar"
+]
 ],
 [
 "mayonnaise",
-111
+111,
+[
+"mayo"
+]
 ],
 [
 "sauce",
-99
+99,
+[]
 ],
 [
 "ketchup",
-92
+92,
+[
+"Catchup",
+"catsup",
+"Sos Coch",
+"tomato ketchup"
+]
 ],
 [
 "mustard",
-80
+80,
+[
+"culinary mustard",
+"mustard condiment"
+]
 ],
 [
 "hummus",
-75
+75,
+[
+"houmous"
+]
 ],
 [
 "cardamom",
-74
+74,
+[
+"cardamom seeds",
+"cardamon",
+"cardamum",
+"ground cadamom"
+]
 ],
 [
 "syrup",
-74
+74,
+[
+"bartender's syrup",
+"simple syrup",
+"sirup"
+]
 ],
 [
 "soy sauce",
-72
+72,
+[
+"ganjang",
+"jiangyou",
+"shoyu",
+"soy",
+"soya sauce"
+]
 ],
 [
 "chutney",
-72
+72,
+[
+"chatney",
+"chatni",
+"Chutney"
+]
 ],
 [
 "béchamel",
-68
+68,
+[
+"bechamel sauce",
+"white sauce"
+]
 ],
 [
 "tehina",
-59
+59,
+[
+"sesame paste",
+"tahina",
+"tahiné",
+"tahini",
+"téhina"
+]
 ],
 [
 "tzatziki",
-59
+59,
+[
+"tzatzíki"
+]
 ],
 [
 "miso",
-53
+53,
+[
+"Soya paste",
+"Soybean paste"
+]
 ],
 [
 "aioli",
-53
+53,
+[
+"Ajoaceite"
+]
 ],
 [
 "fish sauce",
-53
+53,
+[
+"yúlù"
+]
 ],
 [
 "béarnaise sauce",
-53
+53,
+[
+"bearnaise sauce"
+]
 ],
 [
 "tartar sauce",
-52
+52,
+[
+"tartar",
+"tartare sauce"
+]
 ],
 [
 "ajvar",
-51
+51,
+[]
 ],
 [
 "bolognese sauce",
-49
+49,
+[
+"ragù bolognese"
+]
 ],
 [
 "hollandaise sauce",
-46
+46,
+[
+"Dutch sauce",
+"hollandaise"
+]
 ],
 [
 "tomato sauce",
-44
+44,
+[
+"pasta sauce",
+"spaghetti sauce",
+"Sunday gravy"
+]
 ],
 [
 "gravy",
-44
+44,
+[
+"gravies",
+"UBS",
+"Universal brown sauce"
+]
 ],
 [
 "salsa (food)",
-43
+43,
+[
+"sauce"
+]
 ],
 [
 "mirin",
-42
+42,
+[]
 ],
 [
 "vinaigrette",
-42
+42,
+[]
 ],
 [
 "roux",
-41
+41,
+[]
 ],
 [
 "shrimp paste",
-39
+39,
+[
+"shrimp sauce"
+]
 ],
 [
 "acıka",
-39
+39,
+[
+"ajika"
+]
 ],
 [
 "clarified butter",
-38
+38,
+[]
 ],
 [
 "sriracha sauce",
-37
+37,
+[
+"sriracha"
+]
 ],
 [
 "balsamic vinegar",
-37
+37,
+[
+"balsamic"
+]
 ],
 [
 "dip",
-37
+37,
+[
+"dipping sauce"
+]
 ],
 [
 "chimichurri",
-36
+36,
+[]
 ],
 [
 "gochujang",
-36
+36,
+[]
 ],
 [
 "oyster sauce",
-35
+35,
+[
+"oyster ketchup"
+]
 ],
 [
 "bouquet garni",
-32
+32,
+[
+"Cookbook:Bouquet Garni"
+]
 ],
 [
 "verjuice",
-31
+31,
+[]
 ],
 [
 "Tkemali",
-31
+31,
+[]
 ],
 [
 "remoulade",
-30
+30,
+[
+"rémoulade"
+]
 ],
 [
 "apple cider vinegar",
-30
+30,
+[
+"ACV",
+"cider vinegar"
+]
 ],
 [
 "hoisin sauce",
-29
+29,
+[]
 ],
 [
 "barbecue sauce",
-29
+29,
+[
+"barbeque sauce",
+"BBQ sauce"
+]
 ],
 [
 "Chateaubriand steak",
-28
+28,
+[]
 ],
 [
 "pico de gallo",
-28
+28,
+[
+"encebollado",
+"salsa cruda",
+"salsa fresca"
+]
 ],
 [
 "espagnole sauce",
-28
+28,
+[
+"spanish sauce"
+]
 ],
 [
 "Satsivi",
-28
+28,
+[
+"chicken in walnut sauce"
+]
 ],
 [
 "sweetener",
-28
+28,
+[
+"sweeteners",
+"sweetening agents"
+]
 ],
 [
 "banana ketchup",
-28
+28,
+[
+"banana sauce"
+]
 ],
 [
 "Thousand Island dressing",
-27
+27,
+[
+"Sophia LaLonde"
+]
 ],
 [
 "ljutenica",
-27
+27,
+[]
 ],
 [
 "sofrito",
-26
+26,
+[]
 ],
 [
 "salad dressing",
-26
+26,
+[
+"Salad dressings"
+]
 ],
 [
 "green sauce",
-26
+26,
+[]
 ],
 [
 "skordalia",
-25
+25,
+[]
 ],
 [
 "Mornay sauce",
-24
+24,
+[]
 ],
 [
 "cocktail sauce",
-23
+23,
+[]
 ],
 [
 "mole",
-23
+23,
+[
+"Molli"
+]
 ],
 [
 "garlic sauce",
-23
+23,
+[]
 ],
 [
 "relish",
-22
+22,
+[
+"Kurkkusalaatti"
+]
 ],
 [
 "skhug",
-22
+22,
+[
+"sahawiq",
+"zhug"
+]
 ],
 [
 "chili sauce",
-21
+21,
+[
+"chili paste"
+]
 ],
 [
 "demi-glace",
-21
+21,
+[
+"brown sauce",
+"demi-glace sauce"
+]
 ],
 [
 "mace",
-20
+20,
+[]
 ],
 [
 "rouille",
-20
+20,
+[]
 ],
 [
 "sweet and sour sauce",
-20
+20,
+[
+"Sweet and Sour Sauces"
+]
 ],
 [
 "ponzu",
-20
+20,
+[
+"ponzu sauce"
+]
 ],
 [
 "yuxiang",
-20
+20,
+[
+"yu xiang",
+"yuxiang dishes"
+]
 ],
 [
 "gremolata",
-20
+20,
+[]
 ],
 [
 "romesco",
-20
+20,
+[
+"romesco sauce"
+]
 ],
 [
 "toum",
-19
+19,
+[
+"salsat toum",
+"sauce toum",
+"toumya"
+]
 ],
 [
 "Agliata",
-19
+19,
+[]
 ],
 [
 "pecel",
-19
+19,
+[]
 ],
 [
 "coulis",
-18
+18,
+[]
 ],
 [
 "sauce ravigote",
-18
+18,
+[]
 ],
 [
 "beurre blanc",
-18
+18,
+[]
 ],
 [
 "chili oil",
-17
+17,
+[]
 ],
 [
 "kecap",
-17
+17,
+[]
 ],
 [
 "andalouse sauce",
-17
+17,
+[
+"andalouse",
+"sauce andalouse"
+]
 ],
 [
 "cranberry sauce",
-17
+17,
+[
+"cranberry jam"
+]
 ],
 [
 "tare sauce",
-17
+17,
+[]
 ],
 [
 "celery salt",
-17
+17,
+[]
 ],
 [
 "gomashio",
-17
+17,
+[
+"gomasio"
+]
 ],
 [
 "ssamjang",
-17
+17,
+[]
 ],
 [
 "XO sauce",
-16
+16,
+[]
 ],
 [
 "Cumberland sauce",
-16
+16,
+[]
 ],
 [
 "Mostarda",
-16
+16,
+[]
 ],
 [
 "bread sauce",
-16
+16,
+[]
 ],
 [
 "mala",
-16
+16,
+[]
 ],
 [
 "cacık",
-16
+16,
+[]
 ],
 [
 "mint sauce",
-16
+16,
+[]
 ],
 [
 "mushroom sauce",
-15
+15,
+[]
 ],
 [
 "nước chấm",
-15
+15,
+[
+"nước mắm pha"
+]
 ],
 [
 "mojo",
-15
+15,
+[]
 ],
 [
 "tianmianjiang",
-14
+14,
+[
+"sweet bean sauce",
+"sweet flour sauce",
+"sweet wheat paste",
+"tianmian sauce"
+]
 ],
 [
 "Allemande sauce",
-14
+14,
+[]
 ],
 [
 "Bordelaise sauce",
-14
+14,
+[
+"Sauce bordelaise"
+]
 ],
 [
 "yuzukoshō",
-14
+14,
+[
+"yuzugoshō"
+]
 ],
 [
 "sauce gribiche",
-14
+14,
+[]
 ],
 [
 "caper",
-14
+14,
+[]
 ],
 [
 "chrain",
-14
+14,
+[]
 ],
 [
 "Lao Gan Ma",
-14
+14,
+[
+"lao gan ma",
+"laoganma",
+"Laoganma",
+"老干妈"
+]
 ],
 [
 "aji",
-14
+14,
+[]
 ],
 [
 "bagoong",
-14
+14,
+[
+"bagoóng",
+"bagoóng isdâ"
+]
 ],
 [
 "Caruso sauce",
-14
+14,
+[]
 ],
 [
 "shacha sauce",
-14
+14,
+[
+"sa cha sauce",
+"Sa-te sauce",
+"shacha paste"
+]
 ],
 [
 "bumbu",
-14
+14,
+[]
 ],
 [
 "Kashk e badamjan",
-13
+13,
+[
+"kashk bademjan",
+"kashk-e bademjan",
+"kashk-o bademjan"
+]
 ],
 [
 "plum sauce",
-13
+13,
+[]
 ],
 [
 "Kyopolou",
-13
+13,
+[]
 ],
 [
 "salsa criolla",
-13
+13,
+[]
 ],
 [
 "meunière sauce",
-13
+13,
+[
+"à la Meunière",
+"beurre meunière",
+"meunière",
+"meuniere sauce"
+]
 ],
 [
 "suprême sauce",
-13
+13,
+[
+"Supreme sauce"
+]
 ],
 [
 "salmis",
-12
+12,
+[]
 ],
 [
 "mujdei",
-12
+12,
+[]
 ],
 [
 "Sauce Robert",
-12
+12,
+[]
 ],
 [
 "pistou",
-12
+12,
+[]
 ],
 [
 "sauce lyonnaise",
-11
+11,
+[]
 ],
 [
 "brown sauce",
-11
+11,
+[
+"British brown sauce",
+"brun sovs"
+]
 ],
 [
 "Sumbala",
-11
+11,
+[
+"Dawadawa",
+"Soumbala"
+]
 ],
 [
 "salsa verde",
-11
+11,
+[]
 ],
 [
 "Giardiniera",
-11
+11,
+[]
 ],
 [
 "tucupi",
-11
+11,
+[]
 ],
 [
 "mustard sauce",
-11
+11,
+[]
 ],
 [
 "Cheez Whiz",
-11
+11,
+[]
 ],
 [
 "Salsa golf",
-11
+11,
+[]
 ],
 [
 "Madeira sauce",
-11
+11,
+[]
 ],
 [
 "Krecek",
-10
+10,
+[]
 ],
 [
 "beurre noisette",
-10
+10,
+[
+"brown butter"
+]
 ],
 [
 "coffee sauce",
-10
+10,
+[
+"Coffee sauce"
+]
 ],
 [
 "salt substitute",
-10
+10,
+[]
 ],
 [
 "onion sauce",
-10
+10,
+[]
 ],
 [
 "Satsebeli",
-10
+10,
+[]
 ],
 [
 "sauce chasseur",
-10
+10,
+[
+"hunter's sauce"
+]
 ],
 [
 "Albufera Sauce",
-10
+10,
+[]
 ],
 [
 "Budu",
-10
+10,
+[]
 ],
 [
 "chamoy",
-10
+10,
+[]
 ],
 [
 "sauce mousseline",
-9
+9,
+[
+"muslin sauce",
+"sauce Mousseline"
+]
 ],
 [
 "tarator",
-9
+9,
+[
+"tarator sauce"
+]
 ],
 [
 "merkén",
-9
+9,
+[
+"merken"
+]
 ],
 [
 "apple horseradish",
-9
+9,
+[
+"apfelkren",
+"Apple Horseradish"
+]
 ],
 [
 "duck sauce",
-9
+9,
+[]
 ],
 [
 "picada",
-9
+9,
+[]
 ],
 [
 "persillade",
-9
+9,
+[]
 ],
 [
 "peppercorn sauce",
-9
+9,
+[
+"black pepper gravy",
+"black pepper sauce"
+]
 ],
 [
 "tonkatsu sauce",
-9
+9,
+[]
 ],
 [
 "Corn sauce",
-9
+9,
+[]
 ],
 [
 "Café de Paris sauce",
-9
+9,
+[
+"Cafe de Paris sauce"
+]
 ],
 [
 "steak sauce",
-9
+9,
+[]
 ],
 [
 "master stock",
-9
+9,
+[
+"master sauce"
+]
 ],
 [
 "matapa",
-9
+9,
+[]
 ],
 [
 "white sauce",
-8
+8,
+[
+"roux blanc",
+"sauce blanche"
+]
 ],
 [
 "sauce bercy",
-8
+8,
+[
+"bercy"
+]
 ],
 [
 "Polonaise",
-8
+8,
+[]
 ],
 [
 "Salsa de calçots",
-8
+8,
+[]
 ],
 [
 "curry ketchup",
-8
+8,
+[]
 ],
 [
 "Guasacaca",
-8
+8,
+[
+"Wasakaka"
+]
 ],
 [
 "sauce Bourguignonne",
-8
+8,
+[]
 ],
 [
 "Pebre",
-8
+8,
+[]
 ],
 [
 "anchovy paste",
-8
+8,
+[]
 ],
 [
 "américaine sauce",
-8
+8,
+[]
 ],
 [
 "salad cream",
-8
+8,
+[]
 ],
 [
 "latik",
-7
+7,
+[]
 ],
 [
 "white vinegar",
-7
+7,
+[
+"distilled vinegar",
+"virgin vinegar"
+]
 ],
 [
 "sauce poivrade",
-7
+7,
+[
+"sauce au poivre"
+]
 ],
 [
 "Normande sauce",
-7
+7,
+[
+"Normandy sauce",
+"sauce Normande"
+]
 ],
 [
 "Ezme",
-7
+7,
+[
+"Acılı ezme"
+]
 ],
 [
 "blueberry sauce",
-7
+7,
+[]
 ],
 [
 "beurre noir",
-7
+7,
+[]
 ],
 [
 "Ajoarriero",
-7
+7,
+[]
 ],
 [
 "Biscayan sauce",
-7
+7,
+[]
 ],
 [
 "xató",
-7
+7,
+[
+"xato"
+]
 ],
 [
 "avocado sauce",
-7
+7,
+[]
 ],
 [
 "au jus",
-7
+7,
+[]
 ],
 [
 "marinade",
-7
+7,
+[]
 ],
 [
 "Almodrote",
-7
+7,
+[]
 ],
 [
 "joppie sauce",
-7
+7,
+[]
 ],
 [
 "mentsuyu",
-7
+7,
+[
+"men-tsuyu"
+]
 ],
 [
 "Marie Rose sauce",
-7
+7,
+[]
 ],
 [
 "cream sauce",
-6
+6,
+[]
 ],
 [
 "Pipián",
-6
+6,
+[]
 ],
 [
 "sugar syrup",
-6
+6,
+[
+"bar syrup",
+"classic simple syrup",
+"simple syrup"
+]
 ],
 [
 "nước mắm",
-6
+6,
+[
+"Vietnamese fish sauce"
+]
 ],
 [
 "haydari",
-6
+6,
+[]
 ],
 [
 "Valentina",
-6
+6,
+[]
 ],
 [
 "Cucumber raita",
-6
+6,
+[
+"Kheera raita"
+]
 ],
 [
 "dessert sauce",
-6
+6,
+[]
 ],
 [
 "Miracle Whip",
-6
+6,
+[]
 ],
 [
 "Sauce Périgueux",
-6
+6,
+[]
 ],
 [
 "Capuliata",
-6
+6,
+[]
 ],
 [
 "Salmoriglio",
-6
+6,
+[]
 ],
 [
 "black vinegar",
-6
+6,
+[]
 ],
 [
 "Chammanthi podi",
-6
+6,
+[
+"chattni podi"
+]
 ],
 [
 "Devilled sauce",
-6
+6,
+[]
 ],
 [
 "Madras curry",
-6
+6,
+[
+"Madras sauce"
+]
 ],
 [
 "Idli podi",
-6
+6,
+[]
 ],
 [
 "Venetian sauce",
-6
+6,
+[]
 ],
 [
 "hard sauce",
-6
+6,
+[]
 ],
 [
 "chaudfroid sauce",
-5
+5,
+[
+"chaud-froid sauce"
+]
 ],
 [
 "Algerian Sauce",
-5
+5,
+[]
 ],
 [
 "Jang",
-5
+5,
+[
+"Jiàng",
+"Shō",
+"醬"
+]
 ],
 [
 "Dek Ngor",
-5
+5,
+[
+"Ddek Ngoo",
+"Dek agira apena",
+"Dek-Ngor",
+"Dek Ngor Lapena"
+]
 ],
 [
 "lobster sauce",
-5
+5,
+[]
 ],
 [
 "Cameline sauce",
-5
+5,
+[
+"galandine sauce",
+"galantine sauce",
+"sauce cameline"
+]
 ],
 [
 "Maggi seasoning",
-5
+5,
+[]
 ],
 [
 "samurai sauce",
-5
+5,
+[]
 ],
 [
 "fruit ketchup",
-5
+5,
+[]
 ],
 [
 "nam pla",
-5
+5,
+[]
 ],
 [
 "Henderson's Relish",
-5
+5,
+[]
 ],
 [
 "Albert sauce",
-5
+5,
+[]
 ],
 [
 "Kasundi",
-5
+5,
+[
+"Kashondi",
+"Kashundi"
+]
 ],
 [
 "comeback sauce",
-5
+5,
+[]
 ],
 [
 "Nam pla phrik",
-5
+5,
+[
+"phrik nam pla"
+]
 ],
 [
 "Palapa",
-5
+5,
+[]
 ],
 [
 "fritessaus",
-5
+5,
+[]
 ],
 [
 "onion gravy",
-5
+5,
+[]
 ],
 [
 "mignonette sauce",
-5
+5,
+[]
 ],
 [
 "salt and pepper",
-5
+5,
+[
+"pepper and salt",
+"salt, pepper"
+]
 ],
 [
 "tuhau",
-5
+5,
+[]
 ],
 [
 "Tripas",
-5
+5,
+[]
 ],
 [
 "skagenröra",
-4
+4,
+[
+"Swedish shrimp salad"
+]
 ],
 [
 "Tagalia",
-4
+4,
+[]
 ],
 [
 "daikon oroshi",
-4
+4,
+[
+"grated daikon"
+]
 ],
 [
 "Firinda",
-4
+4,
+[
+"Madakwa",
+"Mashed beans sauce"
+]
 ],
 [
 "bagnet verd",
-4
+4,
+[
+"bagnetto verde"
+]
 ],
 [
 "Scorcolga",
-4
+4,
+[
+"scordolea"
+]
 ],
 [
 "malt vinegar",
-4
+4,
+[
+"Alegar"
+]
 ],
 [
 "Gypsy sauce",
-4
+4,
+[]
 ],
 [
 "fry sauce",
-4
+4,
+[]
 ],
 [
 "wine sauce",
-4
+4,
+[]
 ],
 [
 "mash",
-4
+4,
+[]
 ],
 [
 "Spreewaldsauce",
-4
+4,
+[]
 ],
 [
 "Rouennaise sauce",
-4
+4,
+[]
 ],
 [
 "Chicken Tonight",
-4
+4,
+[]
 ],
 [
 "Sauce Africaine",
-4
+4,
+[]
 ],
 [
 "cardinal sauce",
-4
+4,
+[]
 ],
 [
 "Viandox",
-4
+4,
+[]
 ],
 [
 "Baconnaise",
-4
+4,
+[]
 ],
 [
 "Carolina style",
-4
+4,
+[]
 ],
 [
 "chirmol",
-4
+4,
+[]
 ],
 [
 "horseradish sauce",
-4
+4,
+[
+"Horseradish Sauce"
+]
 ],
 [
 "honey garlic sauce",
-4
+4,
+[]
 ],
 [
 "sugo alla puttanesca",
-4
+4,
+[
+"puttanesca"
+]
 ],
 [
 "Murri",
-4
+4,
+[]
 ],
 [
 "mushroom gravy",
-4
+4,
+[]
 ],
 [
 "tekka",
-4
+4,
+[]
 ],
 [
 "tomate frito",
-4
+4,
+[]
 ],
 [
 "vinagrete",
-4
+4,
+[]
 ],
 [
 "spur chili",
-3
+3,
+[
+"chifa chili",
+"phrik chifa"
+]
 ],
 [
 "chili crisp",
-3
+3,
+[
+"chile crisp"
+]
 ],
 [
 "sanbaizu",
-3
+3,
+[
+"sanbaizu sauce"
+]
 ],
 [
 "Sashisuseso",
-3
+3,
+[]
 ],
 [
 "Yangnyeom",
-3
+3,
+[]
 ],
 [
 "shio koji",
-3
+3,
+[
+"shio kōji"
+]
 ],
 [
 "dill sauce",
-3
+3,
+[]
 ],
 [
 "MasterFoods",
-3
+3,
+[]
 ],
 [
 "Yum yum sauce",
-3
+3,
+[
+"shrimp sauce",
+"white sauce",
+"yummy sauce"
+]
 ],
 [
 "Trapani salt ponds",
-3
+3,
+[]
 ],
 [
 "siu haau sauce",
-3
+3,
+[]
 ],
 [
 "sauce chien",
-3
+3,
+[
+"Creole sauce"
+]
 ],
 [
 "umezu",
-3
+3,
+[
+"plum vinegar",
+"umeboshi vinegar",
+"ume vinegar",
+"ume-zu"
+]
 ],
 [
 "Agrodolce",
-3
+3,
+[]
 ],
 [
 "Louisiana Hot Sauce",
-3
+3,
+[]
 ],
 [
 "whisky sauce",
-3
+3,
+[]
 ],
 [
 "Eshabwe",
-3
+3,
+[]
 ],
 [
 "Egusi sauce",
-3
+3,
+[]
 ],
 [
 "à la zingara",
-3
+3,
+[
+"A la zingara"
+]
 ],
 [
 "Fujian red wine chicken",
-3
+3,
+[]
 ],
 [
 "Salsa brava",
-3
+3,
+[]
 ],
 [
 "parsley sauce",
-3
+3,
+[]
 ],
 [
 "Blair's 16 Million Reserve",
-3
+3,
+[]
 ],
 [
 "Breton sauce",
-3
+3,
+[
+"sauce Bretonne"
+]
 ],
 [
 "naz khatun",
-3
+3,
+[
+"naz khatoon"
+]
 ],
 [
 "chilli vinegar",
-3
+3,
+[]
 ],
 [
 "drawn butter",
-3
+3,
+[]
 ],
 [
 "Fra diavolo",
-3
+3,
+[]
 ],
 [
 "French's",
-3
+3,
+[]
 ],
 [
 "Taba ng talangka",
-3
+3,
+[
+"Aligi",
+"Aligué"
+]
 ],
 [
 "Thermidor sauce",
-3
+3,
+[]
 ],
 [
 "Louis dressing",
-3
+3,
+[]
 ],
 [
 "Mrs. Dash",
-3
+3,
+[]
 ],
 [
 "mumbo sauce",
-3
+3,
+[
+"mambo sauce"
+]
 ],
 [
 "peach sauce",
-3
+3,
+[]
 ],
 [
 "Picada",
-3
+3,
+[]
 ],
 [
 "Pickapeppa sauce",
-3
+3,
+[]
 ],
 [
 "red-eye gravy",
-3
+3,
+[]
 ],
 [
 "seasoned rice vinegar",
-3
+3,
+[
+"awasezu"
+]
 ],
 [
 "vodka sauce",
-3
+3,
+[]
 ],
 [
 "Wow-Wow sauce",
-3
+3,
+[]
 ],
 [
 "bigarade sauce",
-3
+3,
+[
+"orange sauce",
+"sauce bigarade"
+]
 ],
 [
 "rosé sauce",
-3
+3,
+[
+"rose",
+"rosé",
+"rose sauce"
+]
+],
+[
+"Boiled dressing",
+2,
+[]
+],
+[
+"monyo",
+2,
+[]
+],
+[
+"Mole rosa",
+2,
+[
+"Pink mole"
+]
+],
+[
+"Milmake",
+2,
+[]
+],
+[
+"Irizake",
+2,
+[]
+],
+[
+"table syrup",
+2,
+[
+"pancake syrup",
+"waffle syrup"
+]
+],
+[
+"Kielecki Mayonnaise",
+2,
+[
+"Majonez Kielecki",
+"Mayonnaise Kielecki"
+]
+],
+[
+"emulsion sauce",
+2,
+[]
+],
+[
+"Big Mac Sauce",
+2,
+[]
+],
+[
+"egg-lemon sauce",
+2,
+[]
+],
+[
+"Swiss sauce",
+2,
+[]
+],
+[
+"sugo",
+2,
+[]
+],
+[
+"dadaegi",
+2,
+[]
+],
+[
+"Duckefett",
+2,
+[]
+],
+[
+"Harvey's sauce",
+2,
+[]
+],
+[
+"duppe",
+2,
+[]
+],
+[
+"Red Ant Chutney",
+2,
+[
+"Chapda Chutney",
+"Chapura",
+"Chhapra Chutney",
+"Hao Rit",
+"Kai Chutney"
+]
+],
+[
+"Dasida",
+2,
+[
+"Dashida"
+]
+],
+[
+"Iru",
+2,
+[]
+],
+[
+"Adreze n'taguela",
+2,
+[]
+],
+[
+"Belacan",
+2,
+[]
+],
+[
+"Old Sour",
+2,
+[]
+],
+[
+"redcurrant sauce",
+2,
+[
+"red currant jelly",
+"redcurrant jelly",
+"red currant sauce"
+]
+],
+[
+"rainbow sauce",
+2,
+[]
+],
+[
+"Hondashi",
+2,
+[]
+],
+[
+"Vinaigre d'Orléans",
+2,
+[]
+],
+[
+"turtle sauce",
+2,
+[
+"sauce tortue"
+]
+],
+[
+"Crema de huacatay",
+2,
+[
+"Huacatay crem"
+]
+],
+[
+"Meurette",
+2,
+[]
+],
+[
+"anise seed",
+2,
+[
+"aniseed",
+"aniseseed"
+]
+],
+[
+"sauce claire",
+2,
+[]
+],
+[
+"Duchambais Sauce",
+2,
+[]
+],
+[
+"okro soup",
+2,
+[]
+],
+[
+"muscat wine sauce",
+2,
+[]
+],
+[
+"red wine sauce",
+2,
+[]
+],
+[
+"sauce paloise",
+2,
+[]
+],
+[
+"clam sauce",
+2,
+[]
+],
+[
+"Duke's Mayonnaise",
+2,
+[]
+],
+[
+"Finadene",
+2,
+[
+"fina dene",
+"fina deni"
+]
+],
+[
+"chunjang",
+2,
+[
+"black bean paste"
+]
+],
+[
+"katara",
+2,
+[]
+],
+[
+"OK Sauce",
+2,
+[
+"O.K. Sauce"
+]
+],
+[
+"Prego",
+2,
+[
+"Prego sauce"
+]
+],
+[
+"Thumbuli",
+2,
+[]
+],
+[
+"Garos",
+1,
+[]
+],
+[
+"cucumber mayonnaise",
+1,
+[]
+],
+[
+"okonomiyaki sauce",
+1,
+[
+"okonomi sauce"
+]
+],
+[
+"instant sauce",
+1,
+[]
+],
+[
+"kiri hodi",
+1,
+[
+"milk curry"
+]
+],
+[
+"peanut sauces",
+1,
+[]
+],
+[
+"game sauce",
+1,
+[]
+],
+[
+"balichão tamarindo",
+1,
+[]
+],
+[
+"crispy shallot",
+1,
+[]
+],
+[
+"Cook Do",
+1,
+[
+"CookDo"
+]
+],
+[
+"tadai bontai",
+1,
+[]
+],
+[
+"Ichimi tougarashi",
+1,
+[
+"ichimi"
+]
+],
+[
+"Green chutney",
+1,
+[
+"Coriander chutney",
+"Mint chutney",
+"Pudina chutney"
+]
+],
+[
+"Babenda",
+1,
+[]
+],
+[
+"Garo",
+1,
+[]
+],
+[
+"moel",
+1,
+[]
+],
+[
+"Chilmol",
+1,
+[]
+],
+[
+"sambal hitam ikan bilis",
+1,
+[]
+],
+[
+"Legendar",
+1,
+[]
+],
+[
+"Colloni",
+1,
+[]
+],
+[
+"pasta sauce",
+1,
+[]
+],
+[
+"tarragon sauce",
+1,
+[]
+],
+[
+"Hakka citrus sauce",
+1,
+[
+"kumquat sauce"
+]
+],
+[
+"Ugba sauce",
+1,
+[]
+],
+[
+"seasoning sauce",
+1,
+[]
+],
+[
+"Yondu",
+1,
+[]
+],
+[
+"kimizu",
+1,
+[
+"kimi-zu"
+]
+],
+[
+"Bandrélé Ecomuseum",
+1,
+[]
+],
+[
+"Footi",
+1,
+[]
+],
+[
+"sepen",
+1,
+[
+"seben"
+]
+],
+[
+"Chef Brown Sauce",
+1,
+[]
+],
+[
+"Just Mayo",
+1,
+[]
+],
+[
+"spice ingredient",
+1,
+[]
+],
+[
+"Thasian sauce",
+1,
+[
+"sauce of Thasos",
+"Thasian fish-sauce"
+]
+],
+[
+"žahour",
+1,
+[]
+],
+[
+"red butter sauce",
+1,
+[]
+],
+[
+"Alfredo sauce",
+1,
+[]
+],
+[
+"Shrewsbury sauce",
+1,
+[]
+],
+[
+"Molly McButter",
+1,
+[
+"Molly McButter Natural Butter Flavor Sprinkles"
+]
+],
+[
+"kebab sauce",
+1,
+[]
+],
+[
+"Hannibal sauce",
+1,
+[]
+],
+[
+"šimlena",
+1,
+[]
+],
+[
+"teriyaki sauce",
+1,
+[
+"Cookbook:Teriyaki Sauce"
+]
+],
+[
+"Raïto",
+1,
+[]
+],
+[
+"sauce tyrolienne",
+1,
+[
+"Tyrolian sauce"
+]
+],
+[
+"Savora",
+1,
+[]
+],
+[
+"Aceto balsamico tradizionale di Reggio Emilia PDO",
+1,
+[
+"Aceto Balsamico Tradizionale di Reggio Emilia"
+]
+],
+[
+"cocoa",
+1,
+[
+"chocolate ingredient",
+"cocoa flavor",
+"natural cocoa"
+]
+],
+[
+"Ah-So",
+1,
+[]
+],
+[
+"Delal sauce",
+1,
+[]
+],
+[
+"Colline Pontine PDO",
+1,
+[]
+],
+[
+"kōmi abura",
+1,
+[
+"komi abura",
+"komi yu",
+"kōmi yu"
+]
+],
+[
+"Henry Bain sauce",
+1,
+[]
+],
+[
+"Miwon",
+1,
+[]
+],
+[
+"Tuco",
+1,
+[]
+],
+[
+"Halford Leicestershire Table Sauce",
+1,
+[
+"Halford sauce",
+"Leicestershire sauce"
+]
+],
+[
+"sos pwa",
+1,
+[
+"sauce pwa"
+]
+],
+[
+"poultry broth",
+1,
+[]
+],
+[
+"Sîrmastok",
+1,
+[]
+],
+[
+"asam rong",
+1,
+[]
+],
+[
+"salad dressing spread",
+1,
+[
+"Miracle Whip"
+]
+],
+[
+"Pelara",
+1,
+[]
+],
+[
+"Savore Sanguino",
+1,
+[]
+],
+[
+"Secret Stadium Sauce",
+1,
+[]
+],
+[
+"Skyronnes",
+1,
+[]
+],
+[
+"Tewkesbury mustard",
+1,
+[]
+],
+[
+"agre dulce",
+1,
+[
+"Filipino sweet and sour sauce"
+]
+],
+[
+"meat sauce",
+1,
+[]
+],
+[
+"mother sauce",
+1,
+[]
+],
+[
+"mammoth sauce",
+1,
+[]
+],
+[
+"Genovese sauce",
+1,
+[]
+],
+[
+"honey dijon dressing",
+0,
+[]
+],
+[
+"sport pepper",
+0,
+[]
+],
+[
+"Auran",
+0,
+[]
+],
+[
+"peri-peri sauce",
+0,
+[]
+],
+[
+"special sauce",
+0,
+[
+"burger sauce"
+]
+],
+[
+"sour cherry sauce",
+0,
+[]
+],
+[
+"grape sauce",
+0,
+[]
+],
+[
+"Sauce Gombo Guinea",
+0,
+[]
+],
+[
+"Salade boré",
+0,
+[]
+],
+[
+"curry sauce",
+0,
+[
+"Curry Sauce"
+]
+],
+[
+"marinades & grilling sauce",
+0,
+[
+"Marinades & Grilling Sauces"
+]
+],
+[
+"pizza sauce",
+0,
+[]
+],
+[
+"cream and white sauce",
+0,
+[]
+],
+[
+"fruit sauce",
+0,
+[]
+],
+[
+"mayochup",
+0,
+[
+"ketchunaise",
+"ketchunnaise",
+"mayoketchup"
+]
+],
+[
+"Leeds Sauce",
+0,
+[]
+],
+[
+"EZ Squirt",
+0,
+[
+"E-Zee Squirt",
+"Heinz Colored Ketchup",
+"Heinz EZ Squirt"
+]
+],
+[
+"57 Sauce",
+0,
+[
+"Heinz 57 Sauce",
+"Heinz 57 Steak Sauce",
+"Heinz Beefsteak Sauce"
+]
+],
+[
+"Heinz Chili Sauce",
+0,
+[]
+],
+[
+"mayomust",
+0,
+[
+"mayostard",
+"mustardayonnaise",
+"mustmayostardayonnaise"
+]
+],
+[
+"Seahorse Radish",
+0,
+[]
+],
+[
+"Astro Elixir",
+0,
+[]
+],
+[
+"Cheezy Whip",
+0,
+[]
+],
+[
+"Sarge's Revenge Sauce",
+0,
+[]
+],
+[
+"Vieux Carré Sauce",
+0,
+[]
+],
+[
+"Loco Mystery Sauce",
+0,
+[
+"Loco Sauce"
+]
+],
+[
+"Mild Bobby Sauce",
+0,
+[]
+],
+[
+"Blockbuster Butter",
+0,
+[]
+],
+[
+"La Catrina Sauce",
+0,
+[]
+],
+[
+"Würzig Sauce",
+0,
+[]
+],
+[
+"Krampus Sauce",
+0,
+[]
+],
+[
+"Ecto Sauce",
+0,
+[]
+],
+[
+"Rainbow-livian Sauce",
+0,
+[]
+],
+[
+"Sunrise Sauce",
+0,
+[]
+],
+[
+"PastariO's Sauce",
+0,
+[]
+],
+[
+"Awesome Sauce",
+0,
+[]
+],
+[
+"Sweet Sakura Sauce",
+0,
+[]
+],
+[
+"Cathedral Carbonara",
+0,
+[]
+],
+[
+"sambal gesek ikan bilis",
+0,
+[]
+],
+[
+"nonsom bambangan",
+0,
+[]
+],
+[
+"Scallop Chowder Style Sauce",
+0,
+[
+"Scallop chowder style sauce"
+]
+],
+[
+"Ground nuts paste",
+0,
+[]
+],
+[
+"pesto variants",
+0,
+[
+"pesto",
+"pestos"
+]
+],
+[
+"Violet dust",
+0,
+[]
+],
+[
+"currant sauce",
+0,
+[]
+],
+[
+"instant stock",
+0,
+[
+"instant bouillon"
+]
+],
+[
+"Zafferano PAT",
+0,
+[
+"Tafferànu",
+"Tafferànu tanfarànu",
+"Tanforànu",
+"Thaffarànu",
+"Thamfarànu",
+"Toffarànu",
+"Tonfarànu",
+"Tsanfarànu",
+"Zanfarànu"
+]
+],
+[
+"Cheese Curry Sauce",
+0,
+[]
+],
+[
+"Savory Garlic Sauce",
+0,
+[]
+],
+[
+"fermented seafood",
+0,
+[]
+],
+[
+"tai pla",
+0,
+[]
+],
+[
+"vegetable sauce",
+0,
+[]
+],
+[
+"Smoked Roa Fish Sauce",
+0,
+[]
+],
+[
+"sriracha mayonnaise",
+0,
+[
+"mayoracha"
+]
+],
+[
+"herbadox",
+0,
+[]
+],
+[
+"instant chicken broth",
+0,
+[]
+],
+[
+"coconut crème",
+0,
+[]
 ]
 ]

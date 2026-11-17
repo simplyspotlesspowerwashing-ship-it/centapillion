@@ -1,886 +1,2066 @@
 [
 [
 "hat",
-152
+152,
+[]
 ],
 [
 "turban",
-79
+79,
+[]
 ],
 [
 "wig",
-67
+67,
+[]
 ],
 [
 "mitre",
-55
+55,
+[
+"miter"
+]
 ],
 [
 "beret",
-55
+55,
+[
+"berets"
+]
 ],
 [
 "cap",
-54
+54,
+[]
 ],
 [
 "balaclava",
-51
+51,
+[
+"Balaclava (clothing)",
+"balaclava helmet",
+"balaclava helmets",
+"balaclavas",
+"monkey cap",
+"shiesty",
+"shiesty masks",
+"ski mask"
+]
 ],
 [
 "top hat",
-49
+49,
+[
+"🎩",
+"chimney pot hat",
+"high hat",
+"silk hat",
+"stovepipe",
+"stovepipe hat",
+"topper"
+]
 ],
 [
 "tefillin",
-46
+46,
+[
+"phylacteries",
+"phylactery",
+"tefilan",
+"tefilhn",
+"tefilin",
+"t'filin",
+"tfilin",
+"t'fillin",
+"tfillin"
+]
 ],
 [
 "sombrero",
-44
+44,
+[
+"sombrero de charro"
+]
 ],
 [
 "ushanka",
-44
+44,
+[]
 ],
 [
 "papal tiara",
-43
+43,
+[
+"triple crown",
+"triple tiara",
+"triregnum"
+]
 ],
 [
 "hood",
-41
+41,
+[]
 ],
 [
 "panama hat",
-40
+40,
+[
+"jipijapa"
+]
 ],
 [
 "fedora",
-39
+39,
+[]
 ],
 [
 "bowler hat",
-39
+39,
+[
+"billycock",
+"bowler",
+"derby"
+]
 ],
 [
 "biretta",
-37
+37,
+[]
 ],
 [
 "straw hat",
-34
+34,
+[]
 ],
 [
 "nemes",
-33
+33,
+[
+"nemyss"
+]
 ],
 [
 "papakhi",
-32
+32,
+[]
 ],
 [
 "halter",
-30
+30,
+[
+"Cabasson",
+"headcollar",
+"head halter"
+]
 ],
 [
 "conical Asian hat",
-30
+30,
+[
+"Asian conical hat",
+"bamboo hat",
+"douli"
+]
 ],
 [
 "cowboy hat",
-28
+28,
+[
+"cowboy hats"
+]
 ],
 [
 "barretina",
-28
+28,
+[]
 ],
 [
 "petasos",
-28
+28,
+[
+"petasus"
+]
 ],
 [
 "bonnet",
-27
+27,
+[]
 ],
 [
 "shtreimel",
-27
+27,
+[]
 ],
 [
 "Tyrolean hat",
-27
+27,
+[
+"Alpine hat",
+"Bavarian hat"
+]
 ],
 [
 "tricorne",
-27
+27,
+[
+"cocked hat",
+"three-cornered hat",
+"tricorn"
+]
 ],
 [
 "taqiyah",
-26
+26,
+[
+"аракчин",
+"тагия",
+"топи"
+]
 ],
 [
 "earmuffs",
-26
+26,
+[
+"ear covers",
+"ear defenders",
+"ear flaps",
+"ear muffs"
+]
 ],
 [
 "tin foil hat",
-25
+25,
+[
+"tinfoil hat"
+]
 ],
 [
 "aqal",
-25
+25,
+[
+"agal",
+"aggal",
+"agghal",
+"Breem",
+"Eqal",
+"Iqal"
+]
 ],
 [
 "camauro",
-25
+25,
+[]
 ],
 [
 "bashlyk",
-23
+23,
+[
+"bashlik",
+"Shkharkhon"
+]
 ],
 [
 "bicorne",
-22
+22,
+[
+"bicorn",
+"cocked hat"
+]
 ],
 [
 "facekini",
-22
+22,
+[]
 ],
 [
 "Dhaka topi",
-22
+22,
+[
+"Nepali topi"
+]
 ],
 [
 "headband",
-22
+22,
+[
+"bandeau"
+]
 ],
 [
 "academic cap",
-20
+20,
+[
+"catercap",
+"caterhat",
+"corner-cap",
+"corner-hat",
+"graduate cap",
+"graduate hat",
+"graduation cap",
+"graduation hat",
+"mortar board",
+"mortarboard",
+"mortarboard-topped hat",
+"square academic hat",
+"trencher"
+]
 ],
 [
 "karakul",
-19
+19,
+[
+"qaraqul",
+"Uzbek hat"
+]
 ],
 [
 "boater",
-19
+19,
+[
+"basher",
+"Boater Hat",
+"cady",
+"can-can hat",
+"katie",
+"sennit hat",
+"skimmer",
+"somer",
+"straw boater"
+]
 ],
 [
 "bearskin cap",
-18
+18,
+[]
 ],
 [
 "flat cap",
-18
+18,
+[
+"bicycle cap",
+"cabbie hat",
+"casket",
+"cloth cap",
+"crook cap",
+"driving cap",
+"flatcap",
+"gatsby cap",
+"golf cap",
+"hunting cap",
+"Hunting cap, Flat cap",
+"paddy cap",
+"Windsor cap"
+]
 ],
 [
 "trilby",
-18
+18,
+[]
 ],
 [
 "chaperon",
-18
+18,
+[
+"Chaperon",
+"Chaperon (headgear)"
+]
 ],
 [
 "homburg",
-18
+18,
+[]
 ],
 [
 "cloche",
-18
+18,
+[
+"cloche hat"
+]
 ],
 [
 "cappello romano",
-17
+17,
+[]
 ],
 [
 "gat",
-17
+17,
+[]
 ],
 [
 "opera hat",
-16
+16,
+[
+"chapeau claque",
+"collapsible hat",
+"gibus",
+"opera-hat"
+]
 ],
 [
 "sou'wester",
-16
+16,
+[
+"rain hat",
+"rainhat",
+"southwester",
+"sow wester"
+]
 ],
 [
 "Jewish hat",
-16
+16,
+[
+"judenhut"
+]
 ],
 [
 "pillbox hat",
-16
+16,
+[
+"Montenegrin cap"
+]
 ],
 [
 "sailor cap",
-16
+16,
+[
+"sailor hat",
+"seaman's cap",
+"white hat"
+]
 ],
 [
 "bucket hat",
-15
+15,
+[]
 ],
 [
 "hackamore",
-14
+14,
+[]
 ],
 [
 "koukoulion",
-13
+13,
+[]
 ],
 [
 "mokorotlo",
-13
+13,
+[]
 ],
 [
 "doctoral hat",
-13
+13,
+[]
 ],
 [
 "kasa",
-13
+13,
+[]
 ],
 [
 "neck gaiter",
-13
+13,
+[
+"buff",
+"neck warmer",
+"neckwarmer",
+"tube scarf"
+]
 ],
 [
 "Doge's hat",
-12
+12,
+[
+"Corno dogale",
+"Doge's cap"
+]
 ],
 [
 "hairnet",
-12
+12,
+[
+"hair net",
+"head net"
+]
 ],
 [
 "pork pie hat",
-12
+12,
+[
+"porkpie hat"
+]
 ],
 [
 "boonie hat",
-12
+12,
+[
+"booney hat"
+]
 ],
 [
 "malahai",
-11
+11,
+[]
 ],
 [
 "dunce cap",
-11
+11,
+[
+"donkey hat",
+"dunce hat"
+]
 ],
 [
 "montera",
-10
+10,
+[
+"matador hat"
+]
 ],
 [
 "sombrero vueltiao",
-10
+10,
+[]
 ],
 [
 "blangkon",
-10
+10,
+[
+"belangkon"
+]
 ],
 [
 "spodik",
-10
+10,
+[]
 ],
 [
 "makuṭa",
-10
+10,
+[
+"chada",
+"magaik",
+"makuta",
+"mokot",
+"mongkut"
+]
 ],
 [
 "nón lá",
-10
+10,
+[
+"conical hat",
+"Vietnamese hat"
+]
 ],
 [
 "poke bonnet",
-10
+10,
+[]
 ],
 [
 "Sudra",
-9
+9,
+[]
 ],
 [
 "witch hat",
-9
+9,
+[
+"witch’s hat"
+]
 ],
 [
 "Water polo cap",
-9
+9,
+[
+"Water Polo Caps"
+]
 ],
 [
 "slouch hat",
-9
+9,
+[
+"Akubra",
+"Hungarian hat",
+"Kossuth",
+"smasher"
+]
 ],
 [
 "campaign hat",
-9
+9,
+[
+"campaign cover",
+"Mountie hat",
+"park ranger hat",
+"ranger hat",
+"scouting hat"
+]
 ],
 [
 "smoking cap",
-9
+9,
+[
+"lounging cap"
+]
 ],
 [
 "modius",
-8
+8,
+[]
 ],
 [
 "wreath",
-8
+8,
+[]
 ],
 [
 "salakot",
-8
+8,
+[
+"salacot"
+]
 ],
 [
 "Beonggeoji",
-8
+8,
+[]
 ],
 [
 "jaapi",
-8
+8,
+[
+"japi"
+]
 ],
 [
 "apex",
-8
+8,
+[
+"apices"
+]
 ],
 [
 "beaver hat",
-8
+8,
+[
+"beaverkins",
+"beavot",
+"castor"
+]
 ],
 [
 "chupalla",
-7
+7,
+[]
 ],
 [
 "electoral hat",
-7
+7,
+[
+"kurhut"
+]
 ],
 [
 "Wushamao",
-7
+7,
+[
+"futou",
+"Ming official headwear",
+"Phốc Đầu",
+"putou"
+]
 ],
 [
 "Umbrella Hat",
-7
+7,
+[]
 ],
 [
 "nambawi",
-7
+7,
+[]
 ],
 [
 "Four Winds hat",
-7
+7,
+[]
 ],
 [
 "chef's hat",
-7
+7,
+[
+"chef cap",
+"chef hat",
+"chef's cap",
+"chef's toque",
+"chef toque",
+"toque blanche"
+]
 ],
 [
 "eboshi",
-7
+7,
+[
+"Eboshi"
+]
 ],
 [
 "ayam",
-7
+7,
+[
+"aegeom"
+]
 ],
 [
 "circlet",
-7
+7,
+[]
 ],
 [
 "picture hat",
-7
+7,
+[
+"Gainsborough hat",
+"pamela"
+]
 ],
 [
 "Telpek",
-7
+7,
+[]
 ],
 [
 "chengziguan",
-7
+7,
+[
+"Fangshanjin"
+]
 ],
 [
 "cordovan hat",
-7
+7,
+[
+"sombrero cordobes",
+"sombrero cordobés"
+]
 ],
 [
 "Bryl",
-6
+6,
+[]
 ],
 [
 "kybalka",
-6
+6,
+[]
 ],
 [
 "Sharbūsh",
-6
+6,
+[]
 ],
 [
 "Aiyr-kalpak",
-6
+6,
+[]
 ],
 [
 "ngob",
-6
+6,
+[
+"Thai farmer's hat"
+]
 ],
 [
 "beanie",
-6
+6,
+[]
 ],
 [
 "Kolpik",
-6
+6,
+[]
 ],
 [
 "shaguma",
-6
+6,
+[]
 ],
 [
 "capotain",
-6
+6,
+[
+"capatain",
+"copotain",
+"sugar-loaf",
+"sugarloaf hat"
+]
 ],
 [
 "montera picona",
-6
+6,
+[]
 ],
 [
 "cachirulo",
-6
+6,
+[]
 ],
 [
 "pussyhat",
-6
+6,
+[
+"pink hat",
+"pussy hat"
+]
 ],
 [
 "pointed hat",
-6
+6,
+[
+"conical hat"
+]
 ],
 [
 "sun hat",
-6
+6,
+[
+"field hat",
+"floppy hat",
+"harvest hat",
+"sun-hat"
+]
 ],
 [
 "magierka",
-6
+6,
+[]
 ],
 [
 "Birke topi",
-5
+5,
+[
+"Birkhe topi"
+]
 ],
 [
 "Maciejówka",
-5
+5,
+[]
 ],
 [
 "Jewish headcovering",
-5
+5,
+[
+"Headcovering",
+"Head covering for Jewish women",
+"Kisui HaRosh",
+"kisui rosh"
+]
 ],
 [
 "Guapi mao",
-5
+5,
+[]
 ],
 [
 "tokin",
-5
+5,
+[]
 ],
 [
 "Bhaad-gaaule topi",
-5
+5,
+[
+"Black cap"
+]
 ],
 [
 "Fulani hat",
-5
+5,
+[]
 ],
 [
 "Chapeau de Napoléon",
-5
+5,
+[]
 ],
 [
 "boyar hat",
-5
+5,
+[]
 ],
 [
 "phawlone",
-5
+5,
+[]
 ],
 [
 "bergère hat",
-5
+5,
+[
+"bergere",
+"bergère",
+"bergere hat",
+"shepherdess hat"
+]
 ],
 [
 "fujin",
-5
+5,
+[]
 ],
 [
 "bycocket",
-5
+5,
+[
+"bycoket",
+"feluca"
+]
 ],
 [
 "cocktail hat",
-5
+5,
+[]
 ],
 [
 "party hat",
-5
+5,
+[
+"paper party hat"
+]
 ],
 [
 "tembel hat",
-5
+5,
+[
+"kova tembel"
+]
 ],
 [
 "Welsh hat",
-5
+5,
+[]
 ],
 [
 "Wales bucket hat",
-4
+4,
+[]
 ],
 [
 "Ecclesiastical doctoral birettas",
-4
+4,
+[]
 ],
 [
 "sombrero pintao",
-4
+4,
+[
+"sombrero pintado"
+]
 ],
 [
 "pilgrim's hat",
-4
+4,
+[
+"cockel hat",
+"traveller's hat"
+]
 ],
 [
 "tsikin",
-4
+4,
+[
+"jijin"
+]
 ],
 [
 "leghorn",
-4
+4,
+[]
 ],
 [
 "colback",
-4
+4,
+[]
 ],
 [
 "Hardee hat",
-4
+4,
+[]
 ],
 [
 "cavalier hat",
-4
+4,
+[]
 ],
 [
 "Easter bonnet",
-4
+4,
+[]
 ],
 [
 "angisa",
-4
+4,
+[]
 ],
 [
 "šaamšiǩ",
-4
+4,
+[
+"Saamsik"
+]
 ],
 [
 "Tanggeon",
-4
+4,
+[]
 ],
 [
 "yanggwan",
-4
+4,
+[]
 ],
 [
 "sidara",
-3
+3,
+[]
 ],
 [
 "Meitei headgears",
-3
+3,
+[]
 ],
 [
 "murmolka",
-3
+3,
+[]
 ],
 [
 "hat veil",
-3
+3,
+[
+"birdcage veil",
+"fishnet veil"
+]
 ],
 [
 "Đinh Tự",
-3
+3,
+[]
 ],
 [
 "Breton",
-3
+3,
+[
+"Bretonne"
+]
 ],
 [
 "cartwheel hat",
-3
+3,
+[]
 ],
 [
 "Eugénie hat",
-3
+3,
+[
+"Empress Eugenie hat",
+"empress hat",
+"eugenie hat"
+]
 ],
 [
 "poffer",
-3
+3,
+[
+"North Brabantian hat",
+"toer"
+]
 ],
 [
 "watabōshi",
-3
+3,
+[]
 ],
 [
 "Pamela hat",
-3
+3,
+[
+"Chapeau à la Paméla",
+"Chapeau Paméla",
+"pamela",
+"pamela bonnet",
+"Pamela bonnet",
+"pamela hat"
+]
 ],
 [
 "Borsalino",
-3
+3,
+[]
 ],
 [
 "Tumaq",
-3
+3,
+[]
 ],
 [
 "shovel hat",
-3
+3,
+[]
 ],
 [
 "Ballon",
-3
+3,
+[]
 ],
 [
 "Snoopy cap",
-3
+3,
+[
+"communication cap",
+"communications cap",
+"Communications Carrier Assembly"
+]
 ],
 [
 "headdress",
-3
+3,
+[]
 ],
 [
 "Madhalla",
-3
+3,
+[]
 ],
 [
 "salako",
-3
+3,
+[]
 ],
 [
 "bolivar",
-3
+3,
+[]
 ],
 [
 "strude",
-3
+3,
+[
+"strud"
+]
 ],
 [
 "Ascot cap",
-3
+3,
+[
+"Cuffley cap",
+"Lippincott cap"
+]
 ],
 [
 "Pibianguan",
-3
+3,
+[]
 ],
 [
 "Energy dome",
-3
+3,
+[
+"Energy Dome"
+]
 ],
 [
 "fruit hat",
-3
+3,
+[]
 ],
 [
 "chaplet",
-3
+3,
+[]
 ],
 [
 "peeʹrvesǩ",
-3
+3,
+[]
 ],
 [
 "pooʹvdneǩ",
-3
+3,
+[
+"poʹvdneǩ"
+]
 ],
 [
 "Qing official headwear",
-3
+3,
+[
+"guanmao",
+"kuan-mao"
+]
 ],
 [
 "Sombrero calañés",
-3
+3,
+[]
 ],
 [
 "buntal hat",
-3
+3,
+[
+"balibuntal hat"
+]
 ],
 [
 "Iraghi",
-2
+2,
+[
+"Phartsun",
+"Sekeed"
+]
 ],
 [
 "sandogasa",
-2
+2,
+[
+"sando-gasa"
+]
 ],
 [
 "Chapeau de Saponé",
-2
+2,
+[]
 ],
 [
 "pekhtim",
-2
+2,
+[]
 ],
 [
 "Kallawtah",
-2
+2,
+[]
 ],
 [
 "Tingandé",
-2
+2,
+[
+"Tengade",
+"Tingado"
+]
 ],
 [
 "Chola hat",
-2
+2,
+[]
 ],
 [
 "Treukh",
-2
+2,
+[]
 ],
 [
 "legionnaire hat",
-2
+2,
+[
+"legionnaires hat"
+]
 ],
 [
 "ten-gallon hat",
-2
+2,
+[]
 ],
 [
 "barbette",
-2
+2,
+[
+"barbet"
+]
 ],
 [
 "wide-brimmed hat",
-2
+2,
+[
+"broad-brimmed hat"
+]
 ],
 [
 "Sifang jin",
-2
+2,
+[]
 ],
 [
 "sangmo",
-2
+2,
+[]
 ],
 [
 "ubrus",
-2
+2,
+[
+"headscarf",
+"wimple"
+]
 ],
 [
 "heukrip",
-2
+2,
+[]
 ],
 [
 "jungrip",
-2
+2,
+[]
 ],
 [
 "gaomao",
-2
+2,
+[]
 ],
 [
 "toca",
-2
+2,
+[]
 ],
 [
 "mushroom hat",
-2
+2,
+[
+"mushroom brim hat"
+]
 ],
 [
 "peach basket hat",
-2
+2,
+[
+"fruit basket hat"
+]
 ],
 [
 "bicycle clip hat",
-2
+2,
+[
+"bicycle clip"
+]
 ],
 [
 "halo hat",
-2
+2,
+[
+"aureole hat",
+"halo-brim hat"
+]
 ],
 [
 "Pava",
-2
+2,
+[]
 ],
 [
 "Panamka",
-2
+2,
+[
+"M-38 Field Hat",
+"Panamanka"
+]
 ],
 [
 "Sancosmeiro",
-2
+2,
+[]
 ],
 [
 "Ghutra",
-2
+2,
+[
+"AlGhutra",
+"Gutra",
+"Saudi Ghutra",
+"Saudi scarf"
+]
 ],
 [
 "loslue",
-2
+2,
+[]
 ],
 [
 "cardinal's headgear",
-2
+2,
+[
+"cardinal's hat"
+]
 ],
 [
 "Russian folk headdress",
-2
+2,
+[]
 ],
 [
 "bern",
-2
+2,
+[]
 ],
 [
 "Anthony Eden hat",
-2
+2,
+[]
 ],
 [
 "cabbage-tree hat",
-2
+2,
+[
+"cabbage palm hat",
+"cabbage tree hat"
+]
 ],
 [
 "Casquette d'Afrique",
-2
+2,
+[]
 ],
 [
 "cork hat",
-2
+2,
+[]
 ],
 [
 "Pashteen hat",
-2
+2,
+[
+"Mazari cap"
+]
 ],
 [
 "Unangan hunting headgear",
-2
+2,
+[]
 ],
 [
 "Kashket",
-2
+2,
+[]
 ],
 [
 "four-cornered hat",
-2
+2,
+[]
 ],
 [
 "official hat",
-2
+2,
+[
+"guangmao",
+"guangmo"
+]
 ],
 [
 "rally cap",
-2
+2,
+[]
 ],
 [
 "sombrero de catite",
-2
+2,
+[
+"catite"
+]
+],
+[
+"ear net",
+1,
+[
+"ear bonnet",
+"fly bonnet",
+"horse ear bonnet",
+"horse ear net"
+]
+],
+[
+"riding hat",
+1,
+[]
+],
+[
+"Abiturientmössa",
+1,
+[]
+],
+[
+"karpus",
+1,
+[]
+],
+[
+"Terai hat",
+1,
+[]
+],
+[
+"Merry Widow hat",
+1,
+[
+"Merry Widow"
+]
+],
+[
+"Maiwa Khohum",
+1,
+[]
+],
+[
+"podum",
+1,
+[]
+],
+[
+"shepherd's hat",
+1,
+[]
+],
+[
+"guan",
+1,
+[]
+],
+[
+"Indiana Jones hat",
+1,
+[]
+],
+[
+"Haida hat",
+1,
+[]
+],
+[
+"head dress",
+1,
+[]
+],
+[
+"Grechnevik",
+1,
+[]
+],
+[
+"daigasa",
+1,
+[]
+],
+[
+"Bersaglieri headgear",
+1,
+[]
+],
+[
+"hanagasa",
+1,
+[
+"Hanagasa"
+]
+],
+[
+"Hairband made with the “sprang” technique",
+1,
+[]
+],
+[
+"Q60 cap (orange)",
+1,
+[
+"2023 Q60 cap (orange)",
+"Q60 cap orange"
+]
+],
+[
+"Q60 cap (blue)",
+1,
+[
+"2018 Q60 cap (blue)"
+]
+],
+[
+"Hats of J.S. Meuwsen",
+1,
+[]
+],
+[
+"monteira",
+1,
+[]
+],
+[
+"sərpuş",
+1,
+[]
+],
+[
+"caputium",
+1,
+[]
+],
+[
+"Q60 cap (black)",
+1,
+[
+"2024 Q60 cap (black)"
+]
+],
+[
+"Macabre Hat",
+1,
+[]
+],
+[
+"pointed wizard hat",
+1,
+[
+"cornuthaum",
+"wizard hat"
+]
+],
+[
+"Tuxedo hat",
+1,
+[]
+],
+[
+"Mitra simplex",
+1,
+[]
+],
+[
+"paper hat",
+1,
+[
+"paper cap"
+]
+],
+[
+"animal hat",
+1,
+[]
+],
+[
+"venets",
+1,
+[
+"venec",
+"venetz"
+]
+],
+[
+"kabuss",
+1,
+[]
+],
+[
+"capote",
+1,
+[
+"capote bonnet"
+]
+],
+[
+"mitra preciosa",
+1,
+[]
+],
+[
+"Sailor hat",
+1,
+[]
+],
+[
+"coal scuttle bonnet",
+1,
+[]
+],
+[
+"Red Hat",
+1,
+[]
+],
+[
+"fanchon bonnet",
+1,
+[
+"fanchon"
+]
+],
+[
+"shurka",
+1,
+[]
+],
+[
+"Motsch",
+1,
+[]
+],
+[
+"toquet",
+1,
+[]
+],
+[
+"tengai",
+1,
+[
+"komusō-gasa"
+]
+],
+[
+"Deep Blue Sea",
+1,
+[]
+],
+[
+"shatweh",
+1,
+[
+"shatwah"
+]
+],
+[
+"Shemagh",
+1,
+[
+"Arab scarf",
+"Arab Shemagh",
+"ghutra",
+"Saudi Shemagh",
+"shamagh",
+"Shamagh",
+"Shemag",
+"shmagh",
+"Shmagh"
+]
+],
+[
+"akul-tooth headdress",
+1,
+[]
+],
+[
+"pavero",
+1,
+[]
+],
+[
+"sunbonnet",
+1,
+[
+"sun bonnet"
+]
+],
+[
+"amigasa",
+1,
+[]
+],
+[
+"Stormy Kromer cap",
+1,
+[]
+],
+[
+"budka",
+1,
+[]
+],
+[
+"duchenka",
+1,
+[]
+],
+[
+"headpiece",
+1,
+[]
+],
+[
+"baby bonnet",
+1,
+[
+"baby's bonnet"
+]
+],
+[
+"Hat",
+0,
+[]
+],
+[
+"Evening hat",
+0,
+[]
+],
+[
+"snap-brim hat",
+0,
+[]
+],
+[
+"conductor hat",
+0,
+[
+"conductor cap",
+"conductor's cap"
+]
+],
+[
+"tholia",
+0,
+[]
+],
+[
+"indoor bonnet",
+0,
+[
+"coif",
+"day bonnet",
+"day cap",
+"housemaid's bonnet",
+"maid's bonnet",
+"tea cap"
+]
+],
+[
+"Casquete",
+0,
+[]
+],
+[
+"Chapéu Bicórnio",
+0,
+[]
+],
+[
+"Khoyi",
+0,
+[
+"Gilgiti cap",
+"Khoi"
+]
+],
+[
+"coif",
+0,
+[]
+],
+[
+"without visor cap",
+0,
+[]
+],
+[
+"kitchen cap",
+0,
+[]
+],
+[
+"Chamberlain's Hat",
+0,
+[]
+],
+[
+"Coiled basketry hat",
+0,
+[]
+],
+[
+"head ornament",
+0,
+[]
+],
+[
+"Apotolo-zuhi",
+0,
+[]
+],
+[
+"bolup",
+0,
+[]
+],
+[
+"byopa",
+0,
+[]
+],
+[
+"Greyendu",
+0,
+[]
+],
+[
+"Hat stand",
+0,
+[]
+],
+[
+"baby & toddler hat",
+0,
+[]
+],
+[
+"costume hat",
+0,
+[]
+],
+[
+"Finely woven cap or hat.",
+0,
+[]
+],
+[
+"castoreno",
+0,
+[]
+],
+[
+"female headgear",
+0,
+[]
+],
+[
+"propeller hat",
+0,
+[]
+],
+[
+"Ballet (coif)",
+0,
+[]
+],
+[
+"Quichenotte",
+0,
+[
+"kissenot"
+]
+],
+[
+"Soufflé, 2021",
+0,
+[]
+],
+[
+"klapmuts",
+0,
+[]
+],
+[
+"Pilgrim's Hat of Stephan III. Praun",
+0,
+[
+"Pilgrim's Hat of Stephan III. Praun  (1544-1591)"
+]
+],
+[
+"male headgear",
+0,
+[]
+],
+[
+"unisex headgear",
+0,
+[]
+],
+[
+"Augsburg Hood",
+0,
+[]
+],
+[
+"Taraza",
+0,
+[]
+],
+[
+"headcloth",
+0,
+[]
+],
+[
+"cocked hat",
+0,
+[]
+],
+[
+"Westerner hat",
+0,
+[
+"Jimi Hendrix hat",
+"open crown cowboy hat"
+]
+],
+[
+"saccos",
+0,
+[]
+],
+[
+"chapeau-bras",
+0,
+[
+"arm hat",
+"chapeau bras",
+"chapeau-de-bras",
+"opera hat"
+]
+],
+[
+"Hat (laket) with Pin",
+0,
+[]
+],
+[
+"lepanto",
+0,
+[]
+],
+[
+"kalansoah",
+0,
+[
+"kalansawa",
+"kalansowa",
+"qalansuwah"
+]
+],
+[
+"sagharvart",
+0,
+[]
+],
+[
+"tricorne of spanish Guardia Civil",
+0,
+[
+"tricorne"
+]
+],
+[
+"furajka",
+0,
+[]
+],
+[
+"chaoguan",
+0,
+[
+"court hat"
+]
 ]
 ]

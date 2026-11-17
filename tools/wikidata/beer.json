@@ -1,394 +1,1119 @@
 [
 [
 "ale",
-52
+52,
+[]
 ],
 [
 "pilsner",
-48
+48,
+[
+"pils",
+"pilsen",
+"pilsener"
+]
 ],
 [
 "lager",
-48
+48,
+[]
 ],
 [
 "wheat beer",
-44
+44,
+[
+"Kiihle blonde",
+"Weiss Bier"
+]
 ],
 [
 "stout",
-40
+40,
+[]
 ],
 [
 "porter",
-34
+34,
+[
+"porter beer"
+]
 ],
 [
 "India Pale Ale",
-32
+32,
+[
+"Indian Pale Ale",
+"IPA",
+"IPA Beer"
+]
 ],
 [
 "Bock",
-32
+32,
+[]
 ],
 [
 "Trappist beer",
-30
+30,
+[]
 ],
 [
 "smoked beer",
-29
+29,
+[
+"Rauchbier"
+]
 ],
 [
 "Kölsch",
-28
+28,
+[]
 ],
 [
 "lambic",
-28
+28,
+[
+"lambiek",
+"lambik"
+]
 ],
 [
 "low-alcohol beer",
-27
+27,
+[
+"light beer",
+"near beer",
+"near-beer",
+"non-alcoholic beer",
+"small ale",
+"small beer",
+"zero-alcohol beer"
+]
 ],
 [
 "Altbier",
-26
+26,
+[]
 ],
 [
 "pale ale",
-25
+25,
+[]
 ],
 [
 "kriek",
-23
+23,
+[]
 ],
 [
 "banana beer",
-23
+23,
+[
+"Banana beer",
+"Omubisi"
+]
 ],
 [
 "rye beer",
-23
+23,
+[]
 ],
 [
 "schwarzbier",
-21
+21,
+[]
 ],
 [
 "bitter",
-21
+21,
+[
+"best bitter",
+"English bitter"
+]
 ],
 [
 "Märzen",
-20
+20,
+[]
 ],
 [
 "helles",
-20
+20,
+[
+"hell"
+]
 ],
 [
 "Dunkel",
-19
+19,
+[]
 ],
 [
 "Gose",
-19
+19,
+[]
 ],
 [
 "barley wine",
-19
+19,
+[
+"barleywine"
+]
 ],
 [
 "Dortmunder Export",
-17
+17,
+[]
 ],
 [
 "gueuze",
-17
+17,
+[
+"Brussels champagne",
+"geuze"
+]
 ],
 [
 "saison",
-16
+16,
+[]
 ],
 [
 "Grodziskie",
-16
+16,
+[
+"Grätzer"
+]
 ],
 [
 "gruit",
-16
+16,
+[
+"gruyt"
+]
 ],
 [
 "brown ale",
-16
+16,
+[]
 ],
 [
 "Umqombothi",
-16
+16,
+[]
 ],
 [
 "pale lager",
-15
+15,
+[]
 ],
 [
 "Tella",
-15
+15,
+[
+"Talla"
+]
 ],
 [
 "zwickelbier",
-15
+15,
+[
+"Kellerbier"
+]
 ],
 [
 "bière de garde",
-13
+13,
+[
+"biere de garde"
+]
 ],
 [
 "Zhigulevskoye",
-13
+13,
+[
+"Žiguli"
+]
 ],
 [
 "dubbel",
-13
+13,
+[]
 ],
 [
 "tripel",
-13
+13,
+[
+"tripel beer"
+]
 ],
 [
 "Steinbier",
-12
+12,
+[]
 ],
 [
 "Zoigl",
-12
+12,
+[]
 ],
 [
 "abbey beer",
-11
+11,
+[]
 ],
 [
 "malt liquor",
-11
+11,
+[]
 ],
 [
 "ice beer",
-11
+11,
+[]
 ],
 [
 "Desperados",
-11
+11,
+[]
 ],
 [
 "Flanders Oud Bruin",
-11
+11,
+[
+"Oudenaards bruin"
+]
 ],
 [
 "Flanders red ale",
-11
+11,
+[]
 ],
 [
 "Brunswick Mum",
-11
+11,
+[]
 ],
 [
 "Old ale",
-10
+10,
+[]
 ],
 [
 "happoshu",
-9
+9,
+[
+"low-malt beer"
+]
 ],
 [
 "fruit beer",
-9
+9,
+[]
 ],
 [
 "corn beer",
-9
+9,
+[]
 ],
 [
 "American pale ale",
-8
+8,
+[
+"APA"
+]
 ],
 [
 "pumpkin ale",
-8
+8,
+[
+"pumpkin beer"
+]
 ],
 [
 "Vienna Lager",
-8
+8,
+[]
 ],
 [
 "export",
-8
+8,
+[]
 ],
 [
 "svagdricka",
-8
+8,
+[
+"light drink",
+"low drink",
+"soft drink",
+"weak drink"
+]
 ],
 [
 "Scotch ale",
-7
+7,
+[]
 ],
 [
 "Irish Red Ale",
-7
+7,
+[
+"Red Ale"
+]
 ],
 [
 "Dinkelbier",
-6
+6,
+[]
 ],
 [
 "light beer",
-6
+6,
+[]
 ],
 [
 "quadrupel",
-6
+6,
+[
+"quadrupel beer"
+]
 ],
 [
 "Jopenbier",
-5
+5,
+[]
 ],
 [
 "maibock",
-5
+5,
+[]
 ],
 [
 "cream ale",
-5
+5,
+[]
 ],
 [
 "doppelbock",
-4
+4,
+[]
 ],
 [
 "high fermentation beer",
-4
+4,
+[
+"top fermentation beer",
+"top-fermented beer"
+]
 ],
 [
 "low fermentation beer",
-4
+4,
+[
+"bottom fermentation beer",
+"bottom-fermented beer"
+]
 ],
 [
 "witbier",
-4
+4,
+[]
 ],
 [
 "eisbock",
-4
+4,
+[]
 ],
 [
 "Kveik",
-4
+4,
+[]
 ],
 [
 "American lager",
-3
+3,
+[]
 ],
 [
 "red beer",
-3
+3,
+[]
 ],
 [
 "Adambier",
-3
+3,
+[]
 ],
 [
 "Keut",
-3
+3,
+[]
 ],
 [
 "blond",
-3
+3,
+[
+"Belgian blond ale",
+"Belgian blonde ale",
+"blond beer"
+]
 ],
 [
 "dark beer",
-3
+3,
+[]
 ],
 [
 "black beer",
-3
+3,
+[]
 ],
 [
 "Strong ale",
-3
+3,
+[]
 ],
 [
 "Amber Ale",
-3
+3,
+[]
 ],
 [
 "Karmi beer",
-3
+3,
+[]
 ],
 [
 "Cock ale",
-3
+3,
+[
+"cock-ale"
+]
 ],
 [
 "dry beer",
-2
+2,
+[]
 ],
 [
 "Ukrainian golden ale",
-2
+2,
+[]
 ],
 [
 "Dolo",
-2
+2,
+[]
 ],
 [
 "Russian Imperial Stout",
-2
+2,
+[]
 ],
 [
 "schankbier",
-2
+2,
+[]
 ],
 [
 "hemp beer",
-2
+2,
+[]
 ],
 [
 "copper ale",
-2
+2,
+[]
 ],
 [
 "amber ale",
-2
+2,
+[
+"American amber ale",
+"red ale"
+]
 ],
 [
 "whey beer",
-2
+2,
+[]
 ],
 [
 "seasonal beer",
-2
+2,
+[]
 ],
 [
 "Near beer",
-2
+2,
+[
+"Near-beer"
+]
 ],
 [
 "flavoured beer",
-2
+2,
+[]
 ],
 [
 "champagne-style beer",
-2
+2,
+[]
 ],
 [
 "Bière de Mars",
-2
+2,
+[
+"Biere de Mars"
+]
 ],
 [
 "spéciale belge",
-2
+2,
+[]
 ],
 [
 "Siwa",
-2
+2,
+[]
+],
+[
+"Double India Pale Ale",
+1,
+[
+"Double IPA",
+"Imperial India Pale Ale",
+"Imperial IPA"
+]
+],
+[
+"New England India Pale Ale",
+1,
+[
+"Hazy India Pale Ale",
+"Hazy IPA",
+"Juicy India Pale Ale",
+"Juicy IPA",
+"NEIPA"
+]
+],
+[
+"Bryhane",
+1,
+[]
+],
+[
+"American Stout",
+1,
+[]
+],
+[
+"Zurito",
+1,
+[]
+],
+[
+"Juleøl",
+1,
+[
+"nisseøl"
+]
+],
+[
+"English India Pale Ale",
+1,
+[
+"English IPA"
+]
+],
+[
+"American India Pale Ale",
+1,
+[
+"American IPA"
+]
+],
+[
+"Oud bruin",
+1,
+[]
+],
+[
+"coffee beer",
+1,
+[]
+],
+[
+"farmhouse ale",
+1,
+[]
+],
+[
+"rye India Pale Ale",
+1,
+[
+"rye IPA"
+]
+],
+[
+"bouza",
+1,
+[]
+],
+[
+"oatmeal stout",
+1,
+[]
+],
+[
+"Belgian beer",
+1,
+[]
+],
+[
+"local beer",
+1,
+[]
+],
+[
+"American wild ale",
+1,
+[
+"wild ale"
+]
+],
+[
+"Klotzmilch",
+1,
+[]
+],
+[
+"Peeterman Artois",
+1,
+[]
+],
+[
+"Black India Pale Ale",
+0,
+[
+"American Black Ale",
+"Black IPA",
+"Cascadian Dark Ale",
+"CDA"
+]
+],
+[
+"Brut India Pale Ale",
+0,
+[
+"Brut IPA"
+]
+],
+[
+"Milkshake India Pale Ale",
+0,
+[
+"Milkshake IPA"
+]
+],
+[
+"Triple India Pale Ale",
+0,
+[
+"TIPA",
+"Triple IPA"
+]
+],
+[
+"West Coast India Pale Ale",
+0,
+[
+"West Coast IPA"
+]
+],
+[
+"Baltic porter",
+0,
+[]
+],
+[
+"non-alcoholic IPA",
+0,
+[
+"low-alcohol IPA",
+"non-alcoholic India Pale Ale"
+]
+],
+[
+"blended beer",
+0,
+[]
+],
+[
+"session India Pale Ale",
+0,
+[
+"session IPA"
+]
+],
+[
+"Mexican-style lager",
+0,
+[
+"Mexican lager",
+"Mexican style lager"
+]
+],
+[
+"Cold IPA",
+0,
+[]
+],
+[
+"India Pale Lager",
+0,
+[
+"IPL"
+]
+],
+[
+"winter warmer",
+0,
+[
+"winter ale"
+]
+],
+[
+"New England Pale Ale",
+0,
+[
+"Hazy Pale Ale",
+"NEPA"
+]
+],
+[
+"Double Black India Pale Ale",
+0,
+[
+"Double Black IPA"
+]
+],
+[
+"Quadruple India Pale Ale",
+0,
+[
+"QIPA"
+]
+],
+[
+"koji beer",
+0,
+[]
+],
+[
+"Farmhouse India Pale Ale",
+0,
+[]
+],
+[
+"white India Pale Ale",
+0,
+[
+"wheat India Pale Ale",
+"wheat IPA",
+"white IPA"
+]
+],
+[
+"wheat wine",
+0,
+[
+"wheatwine"
+]
+],
+[
+"pastry stout",
+0,
+[
+"dessert stout",
+"pastry imperial stout"
+]
+],
+[
+"Milkshake Pale Ale",
+0,
+[]
+],
+[
+"oyster stout",
+0,
+[]
+],
+[
+"English barley wine",
+0,
+[
+"English barleywine"
+]
+],
+[
+"American barley wine",
+0,
+[
+"American barleywine"
+]
+],
+[
+"smoked lager",
+0,
+[]
+],
+[
+"English pale ale",
+0,
+[]
+],
+[
+"coffee stout",
+0,
+[]
+],
+[
+"Imperial red ale",
+0,
+[]
+],
+[
+"Dunkelweizen",
+0,
+[]
+],
+[
+"Extra Pale Ale",
+0,
+[
+"XPA"
+]
+],
+[
+"American pale wheat",
+0,
+[
+"American pale wheat beer"
+]
+],
+[
+"session New England India Pale Ale",
+0,
+[
+"session hazy IPA",
+"session NEIPA"
+]
+],
+[
+"American blonde ale",
+0,
+[
+"Golden ale"
+]
+],
+[
+"English stout",
+0,
+[]
+],
+[
+"English blonde ale",
+0,
+[
+"British golden ale",
+"English golden ale"
+]
+],
+[
+"Double New England India Pale Ale",
+0,
+[
+"Double Hazy IPA",
+"Double NEIPA",
+"Double New England IPA",
+"Imperial NEIPA"
+]
+],
+[
+"New Zealand Pale Ale",
+0,
+[]
+],
+[
+"New Zealand pilsner",
+0,
+[]
+],
+[
+"chili beer",
+0,
+[
+"chile beer",
+"chilli beer"
+]
+],
+[
+"sour IPA",
+0,
+[]
+],
+[
+"Dark Strong Ale",
+0,
+[
+"Belgian Dark Strong Ale",
+"Belgian Strong Dark Ale",
+"Strong Dark Ale"
+]
+],
+[
+"Brett beer",
+0,
+[]
+],
+[
+"Belgian pale ale",
+0,
+[]
+],
+[
+"sweet stout",
+0,
+[
+"cream stout",
+"milk stout"
+]
+],
+[
+"Czech pale lager",
+0,
+[
+"Světlé"
+]
+],
+[
+"Fruited Berliner Weisse",
+0,
+[]
+],
+[
+"Smoothie Sour",
+0,
+[
+"Pastry Sour",
+"Smoothie Sour Ale"
+]
+],
+[
+"American Porter",
+0,
+[]
+],
+[
+"hard ginger beer",
+0,
+[
+"alcoholic ginger beer"
+]
+],
+[
+"double coffee stout",
+0,
+[
+"imperial coffee stout"
+]
+],
+[
+"Triple New England India Pale Ale",
+0,
+[
+"Triple Hazy India Pale Ale",
+"Triple Hazy IPA",
+"Triple NEIPA"
+]
+],
+[
+"dark lager",
+0,
+[
+"European dark lager"
+]
+],
+[
+"Double Milkshake India Pale Ale",
+0,
+[
+"Double Milkshake IPA",
+"Imperial Milkshake India Pale Ale",
+"Imperial Milkshake IPA"
+]
+],
+[
+"strong lager",
+0,
+[
+"European strong lager"
+]
+],
+[
+"amber lager",
+0,
+[
+"red lager"
+]
+],
+[
+"SWAF",
+0,
+[]
+],
+[
+"grisette",
+0,
+[]
+],
+[
+"New Zealand India Pale Ale",
+0,
+[
+"New Zealand IPA",
+"New Zealand-Style IPA",
+"NZIPA"
+]
+],
+[
+"winter beer",
+0,
+[]
+],
+[
+"Rastrum",
+0,
+[]
+],
+[
+"Red IPA",
+0,
+[
+"Northwest IPA",
+"West Coast Red ale"
+]
+],
+[
+"rouge",
+0,
+[]
+],
+[
+"non-alcoholic wheat beer",
+0,
+[]
 ]
 ]

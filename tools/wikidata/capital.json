@@ -1,202 +1,537 @@
 [
 [
 "Paris",
-367
+367,
+[
+"City of Light",
+"City of Love",
+"Lutetia"
+]
 ],
 [
 "London",
-357
+357,
+[
+"Augusta",
+"Big Smoke",
+"Kaerlud",
+"Karelundein",
+"LDN",
+"Llan Dian",
+"Llyn Dain",
+"Lon.",
+"Loñ",
+"Loñ.",
+"Lond.",
+"Londini",
+"Londiniensium",
+"Londinio",
+"Londinion",
+"Londinium",
+"London, England",
+"London U.K.",
+"London UK",
+"London, UK",
+"London, United Kingdom",
+"Loniniensi",
+"Lunden",
+"Lundenburgh",
+"Lundenburh",
+"Lundenwic",
+"the Big Smoke",
+"Trinovantum"
+]
 ],
 [
 "Rome",
-344
+344,
+[
+"Capital of the World",
+"City of Marble",
+"City of Seven Hills",
+"Eternal City",
+"Rome, Italy",
+"The Capital of the World",
+"The City of Marble",
+"The Eternal City"
+]
 ],
 [
 "Vatican City",
-343
+343,
+[
+"Città del Vaticano",
+"Holy See",
+"Papal State",
+"State of Vatican City",
+"Stato della Città del Vaticano",
+"Status Civitatis Vaticanae",
+"The Vatican",
+"Vatican",
+"Vatican City State"
+]
 ],
 [
 "Moscow",
-338
+338,
+[
+"City of Moscow",
+"Moscow, Russia",
+"Moscow, Russian Federation",
+"Moscow, Russian SFSR",
+"Moscow, Soviet Union",
+"Moscow, USSR",
+"Moskovĭ",
+"Moskva Federal City, Russia",
+"Moskva, Rossiya",
+"Moskva, Russia",
+"Moskve",
+"Moskvë",
+"Moskvi",
+"Mosky",
+"Москва"
+]
 ],
 [
 "Berlin",
-335
+335,
+[
+"Berlin, Germany",
+"DE-BE"
+]
 ],
 [
 "Monaco",
-322
+322,
+[
+"Fort-Hercule",
+"mc",
+"Mùnegu",
+"Principality and Diocese of Monaco",
+"Principality of Monaco",
+"Principato di Monaco",
+"Principatu de Mu̍negu",
+"Prinçipatu de Mùnegu",
+"Principauté de Monaco"
+]
 ],
 [
 "Madrid",
-306
+306,
+[]
 ],
 [
 "Vienna",
-294
+294,
+[
+"Vienna, Austria"
+]
 ],
 [
 "Helsinki",
-293
+293,
+[
+"Helsingia",
+"Helsingin kaupunki",
+"Hesa",
+"Stadi"
+]
 ],
 [
 "Athens",
-289
+289,
+[
+"Athenae",
+"Athens city"
+]
 ],
 [
 "Warsaw",
-288
+288,
+[]
 ],
 [
 "Amsterdam",
-285
+285,
+[
+"A'dam",
+"Amsterdam, Netherlands",
+"Amsterdam, NL",
+"Amsterdam, North Holland",
+"Mokum"
+]
 ],
 [
 "Tirana",
-280
+280,
+[]
 ],
 [
 "Stockholm",
-279
+279,
+[
+"Sthlm",
+"STHLM"
+]
 ],
 [
 "Kyiv",
-277
+277,
+[
+"Kief",
+"Kieff",
+"Kiew",
+"Kiof",
+"Kioff",
+"Kiou",
+"Kiovia",
+"Kiow",
+"Kiowia",
+"Kiyev",
+"Kyïv",
+"Kyiw",
+"Kyjiw",
+"Kyїv"
+]
 ],
 [
 "Prague",
-270
+270,
+[
+"City of Prague",
+"Hlavní město Praha"
+]
 ],
 [
 "Lisbon",
-267
+267,
+[]
 ],
 [
 "Budapest",
-260
+260,
+[
+"Alt-Ofen",
+"Buda",
+"Buda Pest",
+"Buda-Pest",
+"Budapešť",
+"Budapesta",
+"Buda-Pesth",
+"Budapest, Hungary",
+"Budapeszt",
+"Budim",
+"Budín",
+"Budon",
+"Ofen",
+"Pest",
+"Pešť",
+"Pešta"
+]
 ],
 [
 "Copenhagen",
-245
+245,
+[
+"Copenhagen, Denmark",
+"CPH",
+"Hafn",
+"Kbh.",
+"KBH",
+"Kobenhavn",
+"Köbenhavn",
+"Kopenhagen"
+]
 ],
 [
 "Oslo",
-245
+245,
+[
+"NOOSL",
+"Oslo, Norway"
+]
 ],
 [
 "Ankara",
-243
+243,
+[]
 ],
 [
 "Brussels",
-240
+240,
+[
+"Brussels City",
+"Brussels (municipality)",
+"City of Brussels"
+]
 ],
 [
 "Dublin",
-238
+238,
+[
+"City of Dublin",
+"Dublin city",
+"Dublin, Ireland"
+]
 ],
 [
 "Bucharest",
-238
+238,
+[
+"Bucharest, Romania",
+"Bucuresti",
+"Bucureşti",
+"București",
+"Little Paris",
+"Paris of the East"
+]
 ],
 [
 "Minsk",
-232
+232,
+[
+"Mensk",
+"Miensk",
+"Mińsk",
+"Minskas",
+"Менск",
+"Минск",
+"Мінск"
+]
 ],
 [
 "Tallinn",
-230
+230,
+[
+"Kolywan",
+"Lindanäs",
+"Lyndanisse",
+"Reuel",
+"Revel",
+"Rewel",
+"Tallinn, Estonia"
+]
 ],
 [
 "Vilnius",
-230
+230,
+[
+"Viļņa",
+"Vilnė",
+"Vilnia",
+"Viĺnia",
+"Vilno",
+"Vilnyus"
+]
 ],
 [
 "Belgrade",
-230
+230,
+[
+"Belgrade, Serbia",
+"City of Belgrade"
+]
 ],
 [
 "Sofia",
-228
+228,
+[
+"Serdica",
+"Sofija",
+"Sredets",
+"Sredez"
+]
 ],
 [
 "Tbilisi",
-228
+228,
+[
+"Tbilisi, Georgia",
+"Tbilissi",
+"Tiflis",
+"Tpilisi",
+"Tpilissi"
+]
 ],
 [
 "Bratislava",
-226
+226,
+[]
 ],
 [
 "Riga",
-225
+225,
+[
+"Rige",
+"Rīgõ",
+"Riia",
+"Rija"
+]
 ],
 [
 "Sarajevo",
-218
+218,
+[
+"Bosna-Serai",
+"City of Sarajevo"
+]
 ],
 [
 "Zagreb",
-218
+218,
+[]
 ],
 [
 "Astana",
-218
+218,
+[
+"Akmola",
+"Akmolinsk",
+"Aqmola",
+"Nur-Sultan",
+"Tselinograd"
+]
 ],
 [
 "Reykjavík",
-218
+218,
+[
+"Reykjavik",
+"Reykjavikurborg",
+"Reykjavíkurborg"
+]
 ],
 [
 "Bern",
-207
+207,
+[
+"Berna",
+"Berne",
+"city of Bern"
+]
 ],
 [
 "Ljubljana",
-206
+206,
+[
+"Labacum",
+"Ljubljana, Slovenia",
+"Lublana"
+]
 ],
 [
 "Nicosia",
-204
+204,
+[
+"Ledra",
+"Ledrae",
+"Ledroi",
+"Ledron",
+"Lefkosa",
+"Lefkosia",
+"Leucopolis",
+"Leucosia",
+"Leucotheon",
+"Leukoi Theoi",
+"Leuteon",
+"Nicosie"
+]
 ],
 [
 "Skopje",
-197
+197,
+[
+"Escópia",
+"Shkup",
+"Shkupi",
+"Skoplje",
+"Üsküb"
+]
 ],
 [
 "Chișinău",
-195
+195,
+[
+"Chisinau",
+"Chişinău",
+"Chisnau",
+"Keshenev",
+"Keshinov",
+"Khisinau",
+"Kischinew",
+"Kischiniov",
+"Kiscinev",
+"Kishinef",
+"Kishinev",
+"Kishinëv",
+"Kişinev",
+"Kišinìv",
+"Kiszyniów",
+"Kyshyniv"
+]
 ],
 [
 "Andorra la Vella",
-194
+194,
+[]
 ],
 [
 "Podgorica",
-192
+192,
+[
+"Burguriçe",
+"Capital of Montenegro"
+]
 ],
 [
 "Vaduz",
-188
+188,
+[
+"Vaduz, Liechtenstein"
+]
 ],
 [
 "The Hague",
-183
+183,
+[
+"Den Haag"
+]
 ],
 [
 "Valletta",
-181
+181,
+[
+"Capital of Malta",
+"Citta Umilissima",
+"Città Umilissima",
+"Il-Belt Valletta",
+"La Valleta"
+]
 ],
 [
 "Luxembourg",
-176
+176,
+[
+"City of Luxembourg",
+"Luxembourg City",
+"Luxemburg"
+]
 ],
 [
 "Pristina",
-158
+158,
+[
+"Prishtina",
+"Prishtinë",
+"Priština",
+"Priştina"
+]
 ],
 [
 "San Marino",
-143
+143,
+[
+"City of San Marino"
+]
 ]
 ]

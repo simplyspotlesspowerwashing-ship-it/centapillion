@@ -1,3142 +1,7840 @@
 [
 [
 "Vatican City",
-343
+343,
+[
+"Città del Vaticano",
+"Holy See",
+"Papal State",
+"State of Vatican City",
+"Stato della Città del Vaticano",
+"Status Civitatis Vaticanae",
+"The Vatican",
+"Vatican",
+"Vatican City State"
+]
 ],
 [
 "Brasília",
-226
+226,
+[]
 ],
 [
 "Rabat",
-191
+191,
+[
+"Rabbat"
+]
 ],
 [
 "Taj Mahal",
-186
+186,
+[
+"Crown of the Palace",
+"the Taj Mahal"
+]
 ],
 [
 "Lake Baikal",
-185
+185,
+[
+"Baikal",
+"Baikal Sea",
+"Bajkal",
+"Baykal",
+"Ozero Bajkal"
+]
 ],
 [
 "Valletta",
-181
+181,
+[
+"Capital of Malta",
+"Citta Umilissima",
+"Città Umilissima",
+"Il-Belt Valletta",
+"La Valleta"
+]
 ],
 [
 "Quito",
-181
+181,
+[
+"Kitu",
+"Quito, Ecuador"
+]
 ],
 [
 "Statue of Liberty",
-159
+159,
+[]
 ],
 [
 "Great Barrier Reef",
-158
+158,
+[
+"Great Barrier Reef World Heritage Site (natural or mixed)",
+"La Grande Barrière",
+"The Great Barrier Reef"
+]
 ],
 [
 "Jaipur",
-146
+146,
+[
+"Pink City"
+]
 ],
 [
 "Verona",
-142
+142,
+[]
 ],
 [
 "Salvador",
-138
+138,
+[
+"Bahia",
+"São Salvador da Bahia de Todos os Santos"
+]
 ],
 [
 "Stonehenge",
-136
+136,
+[
+"Stonehenge, the Avenue, and Three Barrows Adjacent to the Avenue Forming Part of a Round Barrow Cemetery on Countess Farm"
+]
 ],
 [
 "Galapagos Islands",
-134
+134,
+[
+"Archipelago of Colon",
+"Archipelago of Columbus",
+"Archipelago of Ecuador",
+"Archipelago of the Equator",
+"Bewitched Islands",
+"Colon Archipelago",
+"Colon Islands",
+"Colons",
+"Columbus Archipelago",
+"Columbus Islands",
+"Ecuador Archipelago",
+"Enchanted Islands",
+"Enchanted Isles",
+"Enchanteds",
+"Galapagos Archipelago",
+"Galápagos Archipelago",
+"Galapagoses",
+"Galápagoses",
+"Gallapagos",
+"Gallapagos I.",
+"Gallapagos Isl.",
+"Gallapagos Islands",
+"I. Gallapagos",
+"Inchanted Islands",
+"Inchanteds",
+"Insular Region",
+"Insular Region of Ecuador",
+"Islands of the Equator",
+"Isles of Gallapagos",
+"Las Encantadas",
+"the Galapagos",
+"the Galapagoses"
+]
 ],
 [
 "Timbuktu",
-130
+130,
+[
+"Timbuctoo",
+"Timbuktoo",
+"Tombouctou",
+"Tumbutu"
+]
 ],
 [
 "Auschwitz",
-129
+129,
+[
+"Au.",
+"Auschwitz-Birkenau",
+"Auschwitz Birkenau Concentration and Extermination Camp",
+"Auschwitz concentration camp",
+"Auschwitz death camp",
+"Birkenau",
+"KZ Auschwitz",
+"Oświęcim"
+]
 ],
 [
 "Phong Nha – Ke Bang National Park",
-125
+125,
+[
+"Phong Nha – Ke Bang"
+]
 ],
 [
 "Troy",
-123
+123,
+[
+"Ancient Troy",
+"City of Troy",
+"Ilion",
+"Ilium",
+"Mint of Ilium",
+"Teukroi"
+]
 ],
 [
 "Cusco",
-117
+117,
+[
+"Capital of the Inca empire",
+"City of Cusco",
+"City of Cuzco",
+"Cultural heritage city of Peru",
+"Cusco World Heritage Site",
+"Cuzco World Heritage Site",
+"Empire city of Cusco",
+"Empire city of Cuzco",
+"Imperial city of Cusco",
+"Imperial city of Cuzco",
+"Imperial City of the Cusco",
+"Imperial City of the Cuzco",
+"Rome of America",
+"Rome of the Americas"
+]
 ],
 [
 "Petra",
-117
+117,
+[
+"Mint of Petra",
+"Petra, Jordan"
+]
 ],
 [
 "Yellowstone National Park",
-116
+116,
+[
+"YELL",
+"Yellow Stone",
+"Yellowstone National Parc",
+"Yellowstone National park",
+"Yellow Stone National Park",
+"Yellowstone National Park, Montana",
+"Yellowstone National Park, WY",
+"Yellowstone NP",
+"Yellowstone N. Park",
+"Yellowstone park",
+"Yellowstone Park"
+]
 ],
 [
 "Bath",
-112
+112,
+[
+"Bath, Somerset",
+"City of Bath"
+]
 ],
 [
 "Victoria Falls",
-111
+111,
+[
+"Mosi-oa-Tunya",
+"Mosi-oa-Tunya / Victoria Falls"
+]
 ],
 [
 "Basilica and Expiatory Church of the Holy Family",
-110
+110,
+[
+"Expiatory Temple of the Holy Family",
+"Holy Family",
+"La Sagrada Familia",
+"Sagrada Familia",
+"Sagrada Família",
+"Temple Expiatori de la Sagrada Família",
+"Temple of the Holy Family"
+]
 ],
 [
 "Chichen Itza",
-110
+110,
+[
+"Chichén Itzá"
+]
 ],
 [
 "Mount Olympus",
-110
+110,
+[
+"Olympus",
+"Oros Olympos"
+]
 ],
 [
 "Palace of Versailles",
-109
+109,
+[
+"Chateau de Versailles",
+"Château de Versailles",
+"France. Chateau Versailles",
+"Palais de Versailles",
+"Versailles",
+"Versailles Castle",
+"Versailles. Chateau",
+"Versailles. Château",
+"Versailles Palace",
+"Versailles. Palais"
+]
 ],
 [
 "Palmyra",
-108
+108,
+[
+"Mint of Palmyra",
+"Palmira",
+"Tadmor"
+]
 ],
 [
 "Kyoto Prefecture",
-106
+106,
+[
+"Kyoto",
+"Kyoto-fu",
+"Kyōto-fu",
+"Kyōto Prefecture",
+"Kyouto-fu"
+]
 ],
 [
 "Al-Aqsa Mosque",
-103
+103,
+[
+"Al Aqsa Mosque",
+"Al-Aqṣā mosque",
+"Al-Qibli Chapel",
+"Al-Qibli Mosque",
+"Jami'a Al-Aqsa",
+"Masjid Aqsa",
+"Masjid-e-Aqsa"
+]
 ],
 [
 "Acre",
-103
+103,
+[
+"Akka",
+"‘Akká",
+"Akko",
+"St. Jean d'Acre"
+]
 ],
 [
 "Persepolis",
-103
+103,
+[
+"Chehel Menar",
+"Chelmenar",
+"Chel Menar",
+"Chihil Minar",
+"Chilminar",
+"Chil Minar",
+"Mint of Persepolis",
+"Takht-e Jamshid",
+"Takht-e-Jamshid"
+]
 ],
 [
 "Derbent",
-101
+101,
+[
+"Darband",
+"Derbend"
+]
 ],
 [
 "Sydney Opera House",
-99
+99,
+[
+"Opera House",
+"Sydney Opera"
+]
 ],
 [
 "Mohenjo-daro",
-99
+99,
+[
+"Mohenjo Daro",
+"Mound of dead",
+"Mound of Dead Men",
+"Mound of the Dead"
+]
 ],
 [
 "Acropolis of Athens",
-97
+97,
+[
+"Acropolis (Athens)"
+]
 ],
 [
 "Heard Island and McDonald Islands",
-97
+97,
+[
+"Heard and Macdonald Islands",
+"Heard and McDonald Islands",
+"HIMI",
+"hm",
+"Territory of Heard Island and McDonald Islands"
+]
 ],
 [
 "Samarra",
-92
+92,
+[]
 ],
 [
 "Olympia",
-90
+90,
+[
+"Lagganico Sauro",
+"Longanico",
+"Longavico",
+"Olimpia",
+"Olympia, Greece",
+"Olympia Pisa",
+"Olympia Pissa"
+]
 ],
 [
 "Luang Prabang",
-88
+88,
+[
+"Luang Phabang",
+"Լուանգպրաբանգ"
+]
 ],
 [
 "Kandy",
-88
+88,
+[
+"Mahanuwara"
+]
 ],
 [
 "Axum",
-88
+88,
+[
+"Aksum",
+"Axum town",
+"Mint of Axum",
+"ኣኽሱም?"
+]
 ],
 [
 "Tower of London",
-88
+88,
+[
+"Her Majesty's Royal Palace and Fortress",
+"His Majesty's Royal Palace and Fortress",
+"The Tower",
+"The Tower of London",
+"Tower of London (London, England)"
+]
 ],
 [
 "Dome of the Rock",
-87
+87,
+[]
 ],
 [
 "Baalbek",
-87
+87,
+[
+"Baalbec",
+"Baalbeck",
+"Balbec",
+"Heliopolis",
+"Mint of Heliopolis"
+]
 ],
 [
 "Yosemite National Park",
-87
+87,
+[
+"YOSE",
+"Yosemite NP"
+]
 ],
 [
 "San Cristóbal de La Laguna",
-87
+87,
+[
+"La Laguna",
+"La Laguna, Spain"
+]
 ],
 [
 "Marquesas Islands",
-86
+86,
+[
+"Marquesas",
+"Tefenuaenata"
+]
 ],
 [
 "Fatehpur Sikri",
-86
+86,
+[
+"Fatehpur Sikri Old",
+"Fatepur Sikri",
+"Fathpur Sikri",
+"Futtehpore Sikri",
+"Futtipoor Seehnee",
+"Futtipoor Sicri",
+"Futty Poor Sicri",
+"Futtypore Sicri",
+"Old Fatehpur Sikri"
+]
 ],
 [
 "Cologne Cathedral",
-86
+86,
+[
+"High Cathedral of St. Peter"
+]
 ],
 [
 "Potosí",
-85
+85,
+[
+"Potosi",
+"Villa Imperial de Potosi",
+"Villa Imperial de Potosí"
+]
 ],
 [
 "Ha Long Bay",
-84
+84,
+[]
 ],
 [
 "Byblos",
-83
+83,
+[
+"Byblus",
+"Geval",
+"Gubla",
+"Gval",
+"Jubayl",
+"Mint of Byblus"
+]
 ],
 [
 "Ajanta Caves",
-83
+83,
+[]
 ],
 [
 "Western Ghats",
-83
+83,
+[
+"Sahayadri",
+"Sahayadri Hills",
+"Sahyadri",
+"Sahyadri mountain range",
+"Sahyadri mountain ranges",
+"Sahyadri Mountains",
+"Sahyadris",
+"Sahya Mountains",
+"Sahya Parvat",
+"Sahya Parvatam",
+"Sahya Parvatham",
+"Tamhini Ghat",
+"The Western Ghats",
+"West coast mountain range of India",
+"Western coast mountain range of india",
+"Western Ghat mountain range",
+"Western Ghat mountain ranges",
+"Western Ghat mountains",
+"Western Ghâts",
+"Western Ghāts",
+"Western Ghats of Maharashtra",
+"Western Ghauts"
+]
 ],
 [
 "Hadrian's Wall",
-82
+82,
+[
+"Hadrians Wall",
+"Picts' Wall",
+"Roman Wall",
+"Vallum Aelium"
+]
 ],
 [
 "Kairouan",
-81
+81,
+[
+"Al-Qayrawan",
+"Kairwan",
+"Kirwan"
+]
 ],
 [
 "Shahrisabz",
-81
+81,
+[
+"Kesh",
+"Kish",
+"Shakhrisyabz"
+]
 ],
 [
 "Anuradhapura",
-81
+81,
+[]
 ],
 [
 "Delos",
-80
+80,
+[
+"Mint of Delos"
+]
 ],
 [
 "Teotihuacan",
-79
+79,
+[
+"archeological site of Teotihuacan",
+"City of the Gods",
+"City of the Sun",
+"Place of Reeds",
+"Teotihuacán"
+]
 ],
 [
 "Susa",
-79
+79,
+[
+"Mint of Susa",
+"Shushan",
+"Susa archaeological complex"
+]
 ],
 [
 "Assur",
-79
+79,
+[
+"Ashur",
+"Āshūr",
+"Asshur",
+"Aššur",
+"Aššûr",
+"Qal'at Sherqat"
+]
 ],
 [
 "Virunga National Park",
-79
+79,
+[
+"Albert National Park"
+]
 ],
 [
 "Bagan",
-79
+79,
+[
+"Pagan"
+]
 ],
 [
 "Agra Fort",
-78
+78,
+[
+"Agra's Red Fort",
+"Red Fort"
+]
 ],
 [
 "Göbekli Tepe",
-78
+78,
+[
+"Portasar",
+"Potbelly Hill"
+]
 ],
 [
 "Serengeti National Park",
-77
+77,
+[]
 ],
 [
 "Cave of Altamira",
-76
+76,
+[
+"Cave Paintings, Altamira Cave",
+"Cuevas de Altamira"
+]
 ],
 [
 "Himeji Castle",
-76
+76,
+[
+"Hakuro Castle",
+"Shirasagi Castle",
+"White Egret Castle",
+"White Heron Castle"
+]
 ],
 [
 "Ellora Caves",
-76
+76,
+[
+"Elora"
+]
 ],
 [
 "Kaziranga National Park",
-76
+76,
+[]
 ],
 [
 "Red Fort",
-76
+76,
+[
+"Lal Qila"
+]
 ],
 [
 "Lumbini",
-76
+76,
+[
+"Lumbini sal park lumbini sal park"
+]
 ],
 [
 "Giant's Causeway",
-75
+75,
+[
+"Giants Causeway",
+"Giants' Causeway",
+"Gyants Causey",
+"Gyants Cawsway"
+]
 ],
 [
 "Aeolian Islands",
-75
+75,
+[
+"Æolian Islands",
+"Lipari Islands"
+]
 ],
 [
 "Porto Venere",
-75
+75,
+[
+"Portovenere"
+]
 ],
 [
 "Great Zimbabwe",
-75
+75,
+[
+"Zimbabye"
+]
 ],
 [
 "Cyrene",
-75
+75,
+[
+"Cyrene, Libya",
+"Mint of Cyrene"
+]
 ],
 [
 "Taxila",
-74
+74,
+[
+"Mint of Taxila"
+]
 ],
 [
 "Notre-Dame de Chartres",
-73
+73,
+[
+"Chartres Cathedral",
+"Our Lady of Chartres"
+]
 ],
 [
 "Qutb Minar",
-73
+73,
+[
+"Dhruv Stambh",
+"Dhurva Stambha",
+"Qutab Minar",
+"Qutub Minar"
+]
 ],
 [
 "Robben Island",
-72
+72,
+[
+"Robbeneiland"
+]
 ],
 [
 "Nalanda Mahavihara",
-72
+72,
+[
+"Mahavihara of Nalanda",
+"Nālandā Mahāvihāra"
+]
 ],
 [
 "Hiroshima Peace Memorial",
-72
+72,
+[
+"A-Bomb Dome",
+"Atomic Bomb Dome",
+"Genbaku Dome"
+]
 ],
 [
 "Prambanan Temple",
-72
+72,
+[]
 ],
 [
 "Masada",
-71
+71,
+[]
 ],
 [
 "Plitvice Lakes National Park",
-71
+71,
+[
+"Plitvice",
+"Plitvice Lakes",
+"Plitvice National Park",
+"Plitvicka Jezera National Park"
+]
 ],
 [
 "Çatalhöyük",
-71
+71,
+[
+"Bienvenue dans le presse-papiers Gboard. Le texte que vous copiez est enregistré ici.",
+"Catal Höyük",
+"Catal hüyük",
+"Catal Hüyük"
+]
 ],
 [
 "Mount Tai",
-71
+71,
+[
+"Tai Mountain",
+"Taishan",
+"Tai Shan"
+]
 ],
 [
 "Meteora",
-71
+71,
+[
+"Meteora monasteries"
+]
 ],
 [
 "Dessau",
-71
+71,
+[]
 ],
 [
 "Temple of Heaven",
-70
+70,
+[
+"Imperial temple of heaven",
+"Temple of Heaven, Bejing"
+]
 ],
 [
 "Djerba",
-70
+70,
+[
+"Djerba Island",
+"Jarbah"
+]
 ],
 [
 "Humayun's Tomb",
-70
+70,
+[
+"Maqbara e Humayun"
+]
 ],
 [
 "Tassili n'Ajjer",
-70
+70,
+[]
 ],
 [
 "Itsukushima Shrine",
-70
+70,
+[
+"Aki Ichinomiya",
+"Itsukushima Shinto Shrine",
+"Itsukushima Shrine (Aizuwakamatsu)",
+"Itsukushima Shrine (Sumoto City)"
+]
 ],
 [
 "Merv",
-70
+70,
+[
+"Margush",
+"Marv",
+"Marw",
+"Merve Oasis",
+"Merw"
+]
 ],
 [
 "Hampi",
-70
+70,
+[
+"Bhaskara-kshetra",
+"Group of Monuments at Hampi",
+"Hampe",
+"Hampi Group of Monuments",
+"Hampi group of monuments (except those under ASI)",
+"Kishkindha-kshetra",
+"Pampa-kshetra",
+"Vijayanagara ruins"
+]
 ],
 [
 "Everglades National Park",
-70
+70,
+[
+"EVER"
+]
 ],
 [
 "Grand Canal",
-70
+70,
+[
+"Beijing-Hangzhou Grand Canal",
+"The Grand Canal"
+]
 ],
 [
 "Mahabodhi Temple",
-70
+70,
+[
+"Mahabodhi",
+"Maha Bodhi Temple",
+"Mahabodhi Temple Complex",
+"Mahabodhi Temple Complex at Bodh Gaya",
+"Mahabodi"
+]
 ],
 [
 "Tiwanaku",
-70
+70,
+[
+"Tiahuanaco",
+"Tiahuanacu"
+]
 ],
 [
 "Leptis Magna",
-69
+69,
+[
+"Labdah",
+"Mint of Leptis Magna",
+"Ulpia Traiana"
+]
 ],
 [
 "Shibam",
-69
+69,
+[
+"Old Walled City of Shibam",
+"the Chicago of the desert",
+"the Manhattan of the Middle East",
+"the oldest skyscraper city in the world"
+]
 ],
 [
 "Ngorongoro Conservation Area",
-68
+68,
+[]
 ],
 [
 "Danube Delta",
-68
+68,
+[
+"Danube River Delta"
+]
 ],
 [
 "Nazca Lines",
-68
+68,
+[
+"Nasca lines",
+"ray roads (Nazca)"
+]
 ],
 [
 "Aït Benhaddou",
-68
+68,
+[
+"Ksar of Aït Benhaddou"
+]
 ],
 [
 "Kathmandu Valley",
-68
+68,
+[
+"Nepal Valley",
+"Nepa valley"
+]
 ],
 [
 "Bam",
-67
+67,
+[
+"Bam, Iran"
+]
 ],
 [
 "Palenque",
-67
+67,
+[]
 ],
 [
 "Selimiye Mosque",
-67
+67,
+[]
 ],
 [
 "Huangshan",
-67
+67,
+[
+"Huángshān",
+"Yellow Mountain",
+"Yellow Mountains"
+]
 ],
 [
 "Naqsh-e Jahan Square",
-67
+67,
+[
+"Emam Sq.",
+"Imam Square",
+"Meidan Emam",
+"Naghsh-e jahan",
+"Naghsh-e Jahan Square",
+"Naghsh-i Jahan",
+"Naghsh-i Jahan Square",
+"Naqsh-e Jahan",
+"Naqsh-i Jahan Square",
+"Royal Square of Esfahan",
+"Shah square",
+"The Royal Square of Esfahan"
+]
 ],
 [
 "Macquarie Island",
-67
+67,
+[
+"Île Macquarie"
+]
 ],
 [
 "Curonian Spit",
-67
+67,
+[
+"Courish Split",
+"Courland Spit",
+"Curonian Spit Kaliningrad"
+]
 ],
 [
 "Okavango Delta",
-67
+67,
+[
+"Okavango Grassland"
+]
 ],
 [
 "Bikini Atoll",
-66
+66,
+[
+"Bikini Atoll, Marshall Islands",
+"Eschscholtz Atoll",
+"Pikinni"
+]
 ],
 [
 "Kakadu National Park",
-66
+66,
+[
+"Kakadu",
+"Kakadu National Park (Commonwealth)",
+"Kakadu National Park Wetland of International Importance (Ramsar Site)"
+]
 ],
 [
 "Pasargadae",
-66
+66,
+[]
 ],
 [
 "Chogha Zanbil",
-66
+66,
+[
+"Choghazanbil",
+"Choqazanbil",
+"Choqa Zanbil",
+"Dur Untash",
+"Dur-Untash",
+"Tchogha Zanbil"
+]
 ],
 [
 "Struve Geodetic Arc",
-65
+65,
+[]
 ],
 [
 "Mogao Caves",
-65
+65,
+[
+"Mogao ku"
+]
 ],
 [
 "Komodo National Park",
-65
+65,
+[]
 ],
 [
 "Aachen Cathedral",
-64
+64,
+[
+"Imperial Cathedral"
+]
 ],
 [
 "Dasht-e Lut",
-64
+64,
+[
+"Lut Desert"
+]
 ],
 [
 "Saint Sophia Cathedral",
-64
+64,
+[
+"Saint Sophia's Cathedral",
+"Sofiiskyi sobor",
+"St Sophia Cathedral",
+"St. Sophia Cathedral",
+"St Sophia's Cathedral",
+"St. Sophia's Cathedral"
+]
 ],
 [
 "Surtsey",
-63
+63,
+[]
 ],
 [
 "Appian Way",
-63
+63,
+[
+"Via Appia"
+]
 ],
 [
 "Białowieża Forest",
-63
+63,
+[
+"Bialowieza Forest",
+"Bialowieza Primeval Forest",
+"Bilovezha Forest"
+]
 ],
 [
 "Sigiriya",
-63
+63,
+[
+"Lion Rock",
+"Sigiri",
+"Sigiri, Ceylon"
+]
 ],
 [
 "Hội An",
-63
+63,
+[
+"Hoi An"
+]
 ],
 [
 "Neusiedl Lake",
-63
+63,
+[
+"Lake Neusiedl"
+]
 ],
 [
 "Abu Mena",
-63
+63,
+[
+"Abu Mina"
+]
 ],
 [
 "Thingvellir National Park",
-62
+62,
+[
+"Thingvellir",
+"Þingvellir National Park"
+]
 ],
 [
 "K'gari",
-62
+62,
+[
+"Fraser",
+"Fraser Island",
+"Fraser Island (Gari)",
+"Fraser Island, Queensland",
+"Fraser Island, Queensland, Australia",
+"Gari",
+"Great Sandy Island",
+"Île Fraser",
+"K'gari (Fraser Island)",
+"K'gari / Fraser Island",
+"K'gari (Fraser Island) World Heritage Site (natural or mixed)"
+]
 ],
 [
 "Butrint",
-62
+62,
+[
+"Bouthroton",
+"Buthrotum",
+"Mint of Buthrotum"
+]
 ],
 [
 "Nesebar",
-62
+62,
+[
+"Nesebur",
+"Nessebar"
+]
 ],
 [
 "Church of the Nativity",
-62
+62,
+[
+"Basilica of the Nativity",
+"Church of the Holy Cradle"
+]
 ],
 [
 "Grand Canyon National Park",
-62
+62,
+[
+"GRCA",
+"Marble Canyon National Monument"
+]
 ],
 [
 "Bosra",
-62
+62,
+[
+"Bostra"
+]
 ],
 [
 "Mosque-Cathedral of Cordoba",
-62
+62,
+[]
 ],
 [
 "Summer Palace",
-62
+62,
+[
+"New Summer Palace",
+"Yiheyuan",
+"Yi He Yuan"
+]
 ],
 [
 "Lorentz National Park",
-62
+62,
+[
+"Taman Nasional Loretz"
+]
 ],
 [
 "Okapi Wildlife Reserve",
-62
+62,
+[
+"Reserve de faune a okapis"
+]
 ],
 [
 "Hatra",
-62
+62,
+[]
 ],
 [
 "Mount Nemrut",
-61
+61,
+[
+"Nemrud Dagh"
+]
 ],
 [
 "Los Glaciares National Park",
-61
+61,
+[]
 ],
 [
 "Yakushima",
-61
+61,
+[
+"Yaku Island",
+"Yaku-shima"
+]
 ],
 [
 "Omo River",
-61
+61,
+[
+"Umaa River"
+]
 ],
 [
 "Sarnath",
-61
+61,
+[]
 ],
 [
 "Wadi Rum",
-61
+61,
+[
+"The Valley of the Moon",
+"Wadi Rum Protected Area"
+]
 ],
 [
 "Köneürgenç",
-61
+61,
+[
+"Köneürgench",
+"Konya-Urgench",
+"Konye Urgench",
+"Konye-Urgench",
+"Old Urgench",
+"ounya-Ourguentch",
+"Urganj"
+]
 ],
 [
 "Teide National Park",
-61
+61,
+[]
 ],
 [
 "Chitwan National Park",
-60
+60,
+[]
 ],
 [
 "Mesa Verde National Park",
-60
+60,
+[
+"MEVE"
+]
 ],
 [
 "M'banza-Kongo",
-60
+60,
+[
+"Mabanza Congo",
+"Mabanza-Congo",
+"Mabanza Kongo",
+"Mabanza-Kongo",
+"M'banza Congo",
+"M'banza-Congo",
+"Mbanza Congo",
+"Mbanza-Congo",
+"M'Banza Congo",
+"M'Banza-Congo",
+"M'banza Kongo",
+"Mbanza Kongo",
+"Mbanza-Kongo",
+"M'Banza Kongo",
+"M'Banza-Kongo",
+"San Salvador",
+"San Salvador, Angola",
+"San Salvador de Congo",
+"San Salvador del Congo",
+"Sao Salvador",
+"São Salvador",
+"Sao Salvador, Angola",
+"São Salvador, Angola",
+"Sao Salvador do Congo",
+"São Salvador do Congo",
+"S. Salvador",
+"S. Salvador, Angola",
+"S. Salvador de Congo",
+"S. Salvador del Congo",
+"S. Salvador do Congo"
+]
 ],
 [
 "Niokolo-Koba National Park",
-60
+60,
+[
+"Parc National du Niokolo Koba",
+"PNNK"
+]
 ],
 [
 "Pont du Gard",
-59
+59,
+[]
 ],
 [
 "Drottningholm Palace",
-59
+59,
+[
+"Drottningholms slott"
+]
 ],
 [
 "Golestan Palace",
-59
+59,
+[]
 ],
 [
 "Lake District",
-59
+59,
+[
+"English Lake District",
+"Lakeland",
+"The English Lake District",
+"The Lakes"
+]
 ],
 [
 "Sagarmatha National Park",
-59
+59,
+[
+"Sagarmatha rastriya nikunja"
+]
 ],
 [
 "Gorée",
-59
+59,
+[
+"Goree",
+"Gorée Island",
+"Île de Gorée",
+"Island of Gorée"
+]
 ],
 [
 "Hegra",
-59
+59,
+[
+"Al-Hijr",
+"Al-Hijr Archaeological Site",
+"el Hijr",
+"Mada'in Salih",
+"Mint of Hegra",
+"Nabataean ruins of Hegra"
+]
 ],
 [
 "Garamba National Park",
-59
+59,
+[
+"Parc National de la Garamba"
+]
 ],
 [
 "Island of Mozambique",
-59
+59,
+[
+"Ilha de Moçambique"
+]
 ],
 [
 "Bhimbetka rock shelters",
-59
+59,
+[
+"Auditorium cave",
+"Bhonrawali shelters",
+"Jhondra Pahari",
+"Lakha Juar",
+"Muni Babaki Pahari",
+"Pre – historic rock shelters",
+"Vinayaka Pahari"
+]
 ],
 [
 "Chauvet Cave",
-59
+59,
+[]
 ],
 [
 "Timgad",
-59
+59,
+[]
 ],
 [
 "Comoé National Park",
-59
+59,
+[
+"Comoe National Park"
+]
 ],
 [
 "Ani",
-59
+59,
+[
+"Abnicum"
+]
 ],
 [
 "Zabid",
-58
+58,
+[
+"Zabeed",
+"Zabīd",
+"Zebid"
+]
 ],
 [
 "Wartburg",
-58
+58,
+[
+"Schloss Wartburg",
+"Wartburg Castle"
+]
 ],
 [
 "Museum Island",
-58
+58,
+[]
 ],
 [
 "Canal du Midi",
-58
+58,
+[
+"Canal de las Doas Mars",
+"canal of the two seas",
+"Canal Royal en Languedoc"
+]
 ],
 [
 "Solovetsky Islands",
-58
+58,
+[]
 ],
 [
 "Amalfi Coast",
-58
+58,
+[
+"Costa d'Amalfi",
+"Costiera amalfitana"
+]
 ],
 [
 "Valdes Peninsula",
-58
+58,
+[]
 ],
 [
 "Castel del Monte",
-58
+58,
+[]
 ],
 [
 "Salonga National Park",
-58
+58,
+[]
 ],
 [
 "Sundarbans National Park",
-58
+58,
+[
+"Sundarban National Park",
+"Sunderban National Park",
+"Sunderbans National Park"
+]
 ],
 [
 "Malbork Castle",
-58
+58,
+[
+"Castle of the Teutonic Order in Malbork"
+]
 ],
 [
 "Beemster",
-58
+58,
+[
+"Beemster polder"
+]
 ],
 [
 "Notre-Dame d'Amiens",
-57
+57,
+[
+"Amiens Cathedral"
+]
 ],
 [
 "Canaima National Park",
-57
+57,
+[]
 ],
 [
 "Wachau",
-57
+57,
+[]
 ],
 [
 "Copán",
-57
+57,
+[]
 ],
 [
 "Speyer Cathedral",
-57
+57,
+[
+"Cathedral of Speyer",
+"Imperial Cathedral of Speyer",
+"Mariendom",
+"Speyerer Dom"
+]
 ],
 [
 "Kevladev National Park",
-57
+57,
+[
+"Bharatpur Bird Sanctuary",
+"Bharatpur National Park",
+"Bharatpur NP",
+"Keoladeo Ghana National Park",
+"Kevladev Bird Sanctuary"
+]
 ],
 [
 "Kasubi Tombs",
-57
+57,
+[
+"Kampala Kasubi Tombs",
+"Kasubi Royal Tombs",
+"The Tombs of Buganda Kings at Kasubi"
+]
 ],
 [
 "Liberty Island",
-57
+57,
+[
+"Bedloe Island",
+"Bedloes Island",
+"Bedlow Island",
+"Bedlow's Island",
+"Great Oyster Island",
+"Minissais",
+"Min-ne-ais",
+"Minnisais",
+"Statue of Liberty World Heritage Site"
+]
 ],
 [
 "Jiuzhaigou Valley",
-57
+57,
+[
+"Jiu zhai gou",
+"Jiuzhaigou",
+"Jiuzhaigou Valley Scenic and Historic Interest Area"
+]
 ],
 [
 "Elephanta Caves",
-57
+57,
+[
+"Gharapuri Caves"
+]
 ],
 [
 "Kinabalu Park",
-57
+57,
+[
+"Kinabalu National Park"
+]
 ],
 [
 "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
-56
+56,
+[
+"Primeval Beech Forests of the Carpathians and Other Regions of Europe"
+]
 ],
 [
 "Palace of Fontainebleau",
-56
+56,
+[
+"castle of Fontainebleau",
+"chateau de Fontainebleau",
+"château de Fontainebleau",
+"musée de Fontainebleau"
+]
 ],
 [
 "Grand-Place",
-56
+56,
+[
+"Grand Place Brussels",
+"Grote Markt",
+"Nedermerckt"
+]
 ],
 [
 "Cueva de las Manos",
-56
+56,
+[
+"Cave of Hands",
+"Cave of the Hands",
+"Cdlm",
+"Cueva de las manos",
+"Cueva de las Manos (Argentina)",
+"Cueva de las Manos, Río Pinturas",
+"Las Manos",
+"Manos Cave",
+"Manos Cave (Argentina)"
+]
 ],
 [
 "Selous Game Reserve",
-56
+56,
+[]
 ],
 [
 "Chhatrapati Shivaji Maharaj Terminus",
-56
+56,
+[
+"Bombay VT",
+"Chhatrapati Shivaji Terminus railway station",
+"Mumbai CSMT",
+"Victoria Terminus"
+]
 ],
 [
 "Polonnaruwa",
-56
+56,
+[]
 ],
 [
 "Kahuzi-Biéga National Park",
-56
+56,
+[
+"Kahuzi-Biega National Park"
+]
 ],
 [
 "Djemila",
-56
+56,
+[
+"Cuicul",
+"Roman ruins of Djémila"
+]
 ],
 [
 "Konark Sun Temple",
-56
+56,
+[
+"Good Black Pagoda",
+"Konarak Temple",
+"Konarka Temple",
+"Sun Temple",
+"Surya Deula",
+"Surya Temple",
+"Temple of the Sun"
+]
 ],
 [
 "Sanchi",
-55
+55,
+[
+"Buddhist monuments at Sanchi",
+"Great Sanchi Stupa",
+"Sanchi Stupa",
+"Sanchi Tope"
+]
 ],
 [
 "L'Anse aux Meadows",
-55
+55,
+[]
 ],
 [
 "Kronborg Castle",
-55
+55,
+[
+"Elsinore",
+"Kronborg"
+]
 ],
 [
 "Château de Chambord",
-55
+55,
+[
+"castle of Chambord",
+"Chambord",
+"Chambord Castle",
+"château de Chambord"
+]
 ],
 [
 "Hawaiʻi Volcanoes National Park",
-55
+55,
+[
+"HAVO",
+"Hawai'i Volcanoes National Park",
+"Hawaii Volcanoes National Park",
+"HVNP",
+"Volcanoes National Park"
+]
 ],
 [
 "Wuyi Mountains",
-55
+55,
+[
+"Bohea Hills",
+"Mount Wuyi",
+"Wuyishan",
+"Wuyi Shan"
+]
 ],
 [
 "Santa Maria delle Grazie",
-55
+55,
+[
+"Basilica of Santa Maria Grazie",
+"Refectorio Convento dominico de Santa Maria delle Grazie (Milan)",
+"Santa Maria delle Grazie Church",
+"Santa Maria delle Grazie, Milan"
+]
 ],
 [
 "Forth Bridge",
-55
+55,
+[
+"Forth Rail Bridge",
+"The Forth Bridge"
+]
 ],
 [
 "Tadrart Acacus",
-55
+55,
+[
+"Acacus mountains",
+"Tadrart Akakus"
+]
 ],
 [
 "Olympic National Park",
-55
+55,
+[
+"OLYM",
+"Olympic NP",
+"ONP"
+]
 ],
 [
 "Wulingyuan",
-55
+55,
+[
+"Wulingyuan National Park",
+"Wulingyuan Scenic and Historic Interest Area",
+"Wulingyuan Scenic Reserve"
+]
 ],
 [
 "Tomb of Askia",
-55
+55,
+[]
 ],
 [
 "Manovo-Gounda St. Floris National Park",
-55
+55,
+[]
 ],
 [
 "Simien Mountains National Park",
-55
+55,
+[]
 ],
 [
 "Burgos Cathedral",
-55
+55,
+[
+"Cathedral of kdcsk",
+"Cathedral of St Mary, Burgos",
+"Diocesan Cathedral of Burgos"
+]
 ],
 [
 "Stone Town",
-55
+55,
+[
+"Mji Mkongwe",
+"Stone Town of Zanzibar"
+]
 ],
 [
 "Suomenlinna",
-54
+54,
+[
+"Sveaborg"
+]
 ],
 [
 "Mystras",
-54
+54,
+[
+"Mistra",
+"Mistras"
+]
 ],
 [
 "Mammoth Cave National Park",
-54
+54,
+[
+"MACA",
+"Mammoth Cave Biosphere Reserve"
+]
 ],
 [
 "Cahokia",
-54
+54,
+[
+"Cahokia Mounds State Historic Site",
+"Cahokia Mounds State Park"
+]
 ],
 [
 "My Son Sanctuary",
-54
+54,
+[
+"My Son sanctuary"
+]
 ],
 [
 "Tropical Rainforest Heritage of Sumatra",
-54
+54,
+[]
 ],
 [
 "Cidade Velha",
-54
+54,
+[]
 ],
 [
 "Garajonay National Park",
-54
+54,
+[]
 ],
 [
 "Hortobágy National Park",
-54
+54,
+[
+"Hortobágyi Nemzeti Park Igazgatóság",
+"Hortobagy National Park"
+]
 ],
 [
 "Jameh Mosque of Isfahan",
-53
+53,
+[
+"Friday Mosque of Isfahan",
+"Jame Atiq Mosque  of Isfahan"
+]
 ],
 [
 "St Kilda",
-53
+53,
+[
+"St. Kilda"
+]
 ],
 [
 "Blenheim Palace",
-53
+53,
+[
+"Blenheim Park"
+]
 ],
 [
 "Tsodilo",
-53
+53,
+[
+"Tsodilo Hill",
+"Tsodilo Hills"
+]
 ],
 [
 "Tower of Hercules",
-53
+53,
+[
+"Herkulesen Dorrea",
+"Torre de Hércules"
+]
 ],
 [
 "Calakmul",
-53
+53,
+[]
 ],
 [
 "Jerónimos Monastery",
-53
+53,
+[
+"Jeronimos Monastery"
+]
 ],
 [
 "Volubilis",
-53
+53,
+[
+"Mint of Volubilis"
+]
 ],
 [
 "Wood Buffalo National Park",
-53
+53,
+[
+"Вуд Бафало"
+]
 ],
 [
 "Soltaniyeh",
-53
+53,
+[
+"Sa'idiyeh",
+"Saidiyeh",
+"Soltaneyyeh",
+"Soltanieh",
+"Sultanieh",
+"Sultaniya",
+"Sultaniye",
+"Sultaniyeh"
+]
 ],
 [
 "prehistoric pile dwellings around the Alps",
-53
+53,
+[
+"Prehistoric pile dwellings around the Alps World Heritage Sites in Germany"
+]
 ],
 [
 "Shirakami-Sanchi",
-53
+53,
+[
+"Kōsei Mountains",
+"Shirakami Mountains"
+]
 ],
 [
 "Anjar",
-53
+53,
+[]
 ],
 [
 "Gelati Monastery",
-53
+53,
+[]
 ],
 [
 "Nan Madol",
-53
+53,
+[]
 ],
 [
 "Reichenau Island",
-52
+52,
+[
+"Insel Reichenau"
+]
 ],
 [
 "Kew Gardens",
-52
+52,
+[
+"Kew Royal Botanic Gardens",
+"Royal Botanic Gardens",
+"Royal Botanic Gardens Kew"
+]
 ],
 [
 "Citadel of the Hồ Dynasty",
-52
+52,
+[
+"Citadel of Ho Dynasty"
+]
 ],
 [
 "Skellig Michael",
-52
+52,
+[
+"Great Skellig"
+]
 ],
 [
 "Mehmed Paša Sokolović Bridge",
-52
+52,
+[
+"Sokollu Mehmed Paşa Köprüsü"
+]
 ],
 [
 "Antonine Wall",
-52
+52,
+[
+"Graham's Dyke",
+"Severan Wall",
+"Wall of Antoninus"
+]
 ],
 [
 "Rocas Atoll",
-52
+52,
+[
+"Atol das Rocas"
+]
 ],
 [
 "Aldabra",
-52
+52,
+[]
 ],
 [
 "Hadrian's Villa",
-52
+52,
+[
+"Villa Adriana"
+]
 ],
 [
 "Longmen Grottoes",
-52
+52,
+[
+"Longmen Caves",
+"Longmen National Park",
+"Long-men shih kʻu",
+"Longmen Shiku",
+"Lung-men Caves",
+"Lung-men Grottoes",
+"Lung-men shih kʻu",
+"Lung-men Shiku"
+]
 ],
 [
 "Chan Chan",
-52
+52,
+[]
 ],
 [
 "Taï National Park",
-52
+52,
+[]
 ],
 [
 "Vredefort crater",
-52
+52,
+[
+"Vredefort dome",
+"Vredefort Dome",
+"Vredefort impact structure"
+]
 ],
 [
 "Jaú National Park",
-52
+52,
+[
+"Jau National Park"
+]
 ],
 [
 "Henderson Island",
-52
+52,
+[
+"Elizabeth Island",
+"San João Baptista"
+]
 ],
 [
 "Ujung Kulon National Park",
-52
+52,
+[
+"Suaka Margasatwa Ujungkulon",
+"Ujong Kulon Wildlife Reserve",
+"Ujung Kulon",
+"Ujung-Kulon National Park"
+]
 ],
 [
 "Preah Vihear Temple",
-52
+52,
+[]
 ],
 [
 "Doñana National Park",
-52
+52,
+[
+"Doñana"
+]
 ],
 [
 "Hollókő",
-52
+52,
+[]
 ],
 [
 "Pirin National Park",
-52
+52,
+[]
 ],
 [
 "Salt",
-52
+52,
+[
+"As Salt",
+"Saltus"
+]
 ],
 [
 "Bourges Cathedral",
-51
+51,
+[
+"Cathédrale Saint-Étienne de Bourges"
+]
 ],
 [
 "Carlsbad Caverns National Park",
-51
+51,
+[
+"CAVE"
+]
 ],
 [
 "Yungang Grottoes",
-51
+51,
+[]
 ],
 [
 "Gobustan State Historical and Cultural Reserve",
-51
+51,
+[]
 ],
 [
 "Quiriguá",
-51
+51,
+[
+"Quirigua"
+]
 ],
 [
 "Philippi",
-51
+51,
+[
+"Mint of Philippi"
+]
 ],
 [
 "Great Smoky Mountains National Park",
-51
+51,
+[
+"Great Smoky Mt National Park",
+"Great Smoky Mts National Park",
+"GRSM",
+"GSMNP"
+]
 ],
 [
 "Iguazú National Park",
-51
+51,
+[
+"Iguazu National Park",
+"Parque Nacional del Iguazú"
+]
 ],
 [
 "Changdeokgung",
-51
+51,
+[
+"Changdeokgung Palace",
+"Changdeok Palace",
+"Ch'angdŏkkung",
+"Changdok-kung Palace",
+"Chʻangdŏkkung Palace"
+]
 ],
 [
 "Qal'at Bani Hammad",
-51
+51,
+[
+"Al Qal'a of Beni Hammad",
+"बेनी हम्माद का अल क़ला"
+]
 ],
 [
 "Manas National Park",
-51
+51,
+[]
 ],
 [
 "Old Town",
-51
+51,
+[
+"Old Town of Prague",
+"Old Town, Prague",
+"Staré Město"
+]
 ],
 [
 "Mosque City of Bagerhat",
-51
+51,
+[]
 ],
 [
 "Inca road system",
-51
+51,
+[
+"Qhapaq Ñan"
+]
 ],
 [
 "Shahr-e Sukhteh",
-50
+50,
+[]
 ],
 [
 "Takht-e Soleyman",
-50
+50,
+[
+"Takht-e Soleiman",
+"Takht-e Soleymān",
+"Takht-e Suleiman",
+"Takht-i-Suleiman"
+]
 ],
 [
 "Semmering railway",
-50
+50,
+[]
 ],
 [
 "Boyana Church",
-50
+50,
+[
+"Church of St. Nicholas and St. Panteleimon in Boyana district"
+]
 ],
 [
 "Quebrada de Humahuaca",
-50
+50,
+[]
 ],
 [
 "Vlkolínec",
-50
+50,
+[
+"Vlkolinec"
+]
 ],
 [
 "Itchan Kala",
-50
+50,
+[
+"Ichan Kala"
+]
 ],
 [
 "Banc d'Arguin National Park",
-50
+50,
+[
+"Parc national du banc d'Arguin",
+"Parc national du Banc d'Arguin"
+]
 ],
 [
 "Virgin Komi Forests",
-50
+50,
+[]
 ],
 [
 "Ecbatana",
-50
+50,
+[
+"Ekbatana",
+"Mint of Ecbatana"
+]
 ],
 [
 "Qal’at al Bahrain",
-50
+50,
+[]
 ],
 [
 "Piazza del Duomo, Pisa",
-50
+50,
+[
+"piazza dei Miracoli",
+"Piazza del Duomo"
+]
 ],
 [
 "Puerto Princesa Subterranean River National Park",
-50
+50,
+[]
 ],
 [
 "Cradle of Humankind",
-49
+49,
+[
+"Fossil Hominid Sites of South Africa"
+]
 ],
 [
 "Mount Wutai",
-49
+49,
+[
+"Wutai Mountain",
+"Wu-tai-shan",
+"Wutaishan",
+"Wutai Shan"
+]
 ],
 [
 "Spiš Castle",
-49
+49,
+[
+"Arx Scepusiensis",
+"Spišský Hrad",
+"Szepesi vár",
+"Zipser Burg"
+]
 ],
 [
 "Mir Castle Complex",
-49
+49,
+[]
 ],
 [
 "Roskilde Cathedral",
-49
+49,
+[]
 ],
 [
 "Urnes Stave Church",
-49
+49,
+[]
 ],
 [
 "Trinity Lavra of St. Sergius",
-49
+49,
+[]
 ],
 [
 "Madara Rider",
-49
+49,
+[
+"Madara Horseman"
+]
 ],
 [
 "Khirokitia",
-49
+49,
+[
+"Choirokoitia Neolithic Site"
+]
 ],
 [
 "Tournai Cathedral",
-49
+49,
+[]
 ],
 [
 "Fasil Ghebbi",
-49
+49,
+[]
 ],
 [
 "Gunung Mulu National Park",
-49
+49,
+[
+"Mulu National Park"
+]
 ],
 [
 "Pattadakal Group of Monuments",
-49
+49,
+[
+"Group of Monuments at Pattadakal",
+"Pattada-Kisuvolal",
+"Petirgal",
+"Raktapur"
+]
 ],
 [
 "Nisa",
-49
+49,
+[
+"Mint of Nisa Mithradatkart",
+"Mitridatkirt",
+"Nisa Mithradatkart"
+]
 ],
 [
 "Vatnajökull National Park",
-48
+48,
+[]
 ],
 [
 "Tsingy de Bemaraha Strict Nature Reserve",
-48
+48,
+[]
 ],
 [
 "Centennial Hall",
-48
+48,
+[]
 ],
 [
 "Tongariro National Park",
-48
-],
-[
-"Putorana Plateau",
-48
-],
-[
-"Fort Jesus Museum",
-48
-],
-[
-"Mountain Railways of India",
-48
-],
-[
-"Mausoleum of Khoja Ahmed Yasawi",
-48
-],
-[
-"Buda Castle",
-48
-],
-[
-"Yinxu",
-48
-],
-[
-"Xanadu",
-48
-],
-[
-"Škocjan Caves",
-48
-],
-[
-"Bwindi Impenetrable National Park",
-48
-],
-[
-"Wadi Al-Hitan",
-48
-],
-[
-"Villa Romana del Casale",
-48
+48,
+[]
 ],
 [
 "Jantar Mantar",
-48
+48,
+[
+"Jyotish Yantralaya"
+]
+],
+[
+"Putorana Plateau",
+48,
+[]
+],
+[
+"Fort Jesus Museum",
+48,
+[
+"Fort Jesus, Mombasa",
+"Fort Jesus National Monument"
+]
+],
+[
+"Mountain Railways of India",
+48,
+[]
+],
+[
+"Mausoleum of Khoja Ahmed Yasawi",
+48,
+[]
+],
+[
+"Buda Castle",
+48,
+[]
+],
+[
+"Yinxu",
+48,
+[
+"archaeological site of Yin Xu",
+"Ruins of Yin",
+"Yin Ruins",
+"Yin Xu"
+]
+],
+[
+"Xanadu",
+48,
+[
+"K'ai-p'ing",
+"Kai-ping",
+"Kaiping",
+"Shangdu",
+"Shang-tu",
+"Site of Xanadu",
+"Yuan Shangdu"
+]
+],
+[
+"Škocjan Caves",
+48,
+[
+"Škocjanske Jame",
+"Škocjanské jeskyně (Slovinsko)"
+]
+],
+[
+"Bwindi Impenetrable National Park",
+48,
+[
+"Bwindi Impenetrable Forest National Park",
+"Bwindi National Park",
+"Bwindi Park"
+]
+],
+[
+"Wadi Al-Hitan",
+48,
+[
+"Whale Valley"
+]
+],
+[
+"Villa Romana del Casale",
+48,
+[]
 ],
 [
 "Qazan Kremlin",
-48
+48,
+[
+"Kazan Kremlin"
+]
 ],
 [
 "Valley of Flowers National Park",
-48
+48,
+[]
 ],
 [
 "Poblet Monastery",
-48
+48,
+[]
 ],
 [
 "Lençóis Maranhenses National Park",
-48
+48,
+[
+"Lençóis Maranhenses"
+]
 ],
 [
 "Purnululu National Park",
-48
+48,
+[
+"Parc national de Purnululu",
+"Purnululu",
+"Purnululu National Park, Western Australia",
+"Purnululu National Park World Heritage Site (natural or mixed)",
+"Purnululu N.P."
+]
 ],
 [
 "Kilimanjaro National Park",
-48
+48,
+[]
 ],
 [
 "Plain of Jars",
-48
+48,
+[]
 ],
 [
 "Dengfeng",
-48
+48,
+[
+"Dengfeng Shi"
+]
 ],
 [
 "Mount Nimba Strict Nature Reserve",
-48
+48,
+[
+"Mount Nimba"
+]
 ],
 [
 "Islamic Cairo",
-47
+47,
+[
+"Historic Cairo"
+]
 ],
 [
 "Srebarna Nature Reserve",
-47
+47,
+[
+"Srebarna",
+"Srébarna Biosphere Reserve"
+]
 ],
 [
 "Richtersveld",
-47
+47,
+[]
 ],
 [
 "Bryggen",
-47
+47,
+[
+"Bryggen i Bergen"
+]
 ],
 [
 "Rohtas Fort",
-47
+47,
+[
+"Rotas Ghur"
+]
 ],
 [
 "Monte San Giorgio",
-47
+47,
+[]
 ],
 [
 "Cape Floristic Kingdom",
-47
+47,
+[
+"Cape Floristic Province",
+"Cape Floristic Region",
+"Cape Kingdom",
+"Capensis",
+"South African Floristic Kingdom",
+"South African Kingdom"
+]
 ],
 [
 "Val d'Orcia",
-47
+47,
+[]
 ],
 [
 "Uluṟu-Kata Tjuṯa National Park",
-47
+47,
+[
+"Parc national d'Uluru-Kata Tjuta",
+"Uluru (Ayers Rock - Mt Olga) National Park",
+"Uluru-Kata Tjuta",
+"Uluru - Kata Tjuta National Park",
+"Uluru-Kata Tjuta National Park",
+"Uluru-Kata Tjuta National Park (Commonwealth)",
+"Uluru-Kata Tjuta National Park World Heritage Site (natural or mixed)"
+]
 ],
 [
 "Serra da Capivara National Park",
-47
+47,
+[]
 ],
 [
 "Novodevichy Convent",
-47
+47,
+[
+"Bogoroditse-Smolensky Monastery"
+]
 ],
 [
 "Belize Barrier Reef",
-47
+47,
+[]
 ],
 [
 "Singapore Botanic Gardens",
-47
+47,
+[
+"Herbarium, Singapore Botanic Gardens, Singapore",
+"SING",
+"Singapore Botanical Gardens"
+]
 ],
 [
 "Vizcaya Bridge",
-47
+47,
+[
+"Portugalete Suspension Bridge"
+]
 ],
 [
 "Independence Hall",
-47
+47,
+[]
 ],
 [
 "Nahanni National Park Reserve",
-47
+47,
+[]
 ],
 [
 "Dead Cities",
-47
+47,
+[
+"Ancient Villages of Northern Syria",
+"Forgotten Cities"
+]
 ],
 [
 "Bam Citadel",
-47
+47,
+[
+"Arg-e Bam",
+"Arg-é Bam"
+]
 ],
 [
 "Villa Tugendhat",
-47
+47,
+[
+"Tugendhat house"
+]
 ],
 [
 "Nesvizh Castle",
-47
+47,
+[
+"Niasviž Castle"
+]
 ],
 [
 "M'zab",
-47
+47,
+[
+"Aghlan",
+"Msab",
+"Mzab",
+"Mzab valley"
+]
 ],
 [
 "Djoudj National Bird Sanctuary",
-47
+47,
+[]
 ],
 [
 "Villa d'Este",
-47
+47,
+[]
 ],
 [
 "Hypogeum of Ħal Saflieni",
-47
+47,
+[
+"Saflieni Hypogeum"
+]
 ],
 [
 "Rwenzori Mountains National Park",
-47
+47,
+[
+"Rwenzori National Park"
+]
 ],
 [
 "Mount Sanqing",
-47
+47,
+[]
 ],
 [
 "Dholavira",
-47
+47,
+[
+"Kotda Timba"
+]
 ],
 [
 "Hill Forts of Rajasthan",
-46
+46,
+[]
 ],
 [
 "Tasmanian Wilderness",
-46
+46,
+[
+"Tasmanian Wilderness World Heritage Area",
+"Tasmanian Wilderness World Heritage Site (natural or mixed)",
+"The Tasmanian Wilderness",
+"Zone de nature sauvage de Tasmanie"
+]
 ],
 [
 "Gros Morne National Park",
-46
+46,
+[]
 ],
 [
 "Joya de Cerén",
-46
+46,
+[
+"Joya de Ceren"
+]
 ],
 [
 "Dougga",
-46
+46,
+[
+"Thugga"
+]
 ],
 [
 "Manu National Park",
-46
+46,
+[]
 ],
 [
 "Jongmyo",
-46
+46,
+[]
 ],
 [
 "Qasr Amra",
-46
+46,
+[]
 ],
 [
 "Bandiagara Escarpment",
-46
+46,
+[
+"Falaise de Bandiagara"
+]
 ],
 [
 "Great Living Chola Temples",
-46
+46,
+[
+"Chola Temples",
+"Tanjavur temples",
+"Thanjavur temples"
+]
 ],
 [
 "Santa Cruz de Mompós",
-46
+46,
+[
+"Mompox"
+]
 ],
 [
 "Sulaiman-Too",
-46
+46,
+[
+"Sulamain-Too",
+"Sulayman Mountain"
+]
 ],
 [
 "Río Plátano Biosphere Reserve",
-46
+46,
+[
+"Rio Platano Biosphere",
+"Rio Platano Biosphere Reserve"
+]
 ],
 [
 "Megalithic Temples of Malta",
-46
+46,
+[
+"Megalithic Temples of Malta and Gozo"
+]
 ],
 [
 "Wooden tserkvas of Carpathian region in Poland and Ukraine",
-46
+46,
+[]
 ],
 [
 "Holašovice",
-46
+46,
+[
+"Holschowitz"
+]
 ],
 [
 "Sangay National Park",
-46
+46,
+[]
 ],
 [
 "Sidi Bou Said",
-46
+46,
+[
+"Jabal el-Menar",
+"Village of Sidi Bou Saïd"
+]
 ],
 [
 "Burkhan Khaldun",
-45
+45,
+[
+"God Mountain",
+"Khentii Khan (The King of the Khentii Mountain range)"
+]
 ],
 [
 "Augustusburg and Falkenlust Palaces",
-45
+45,
+[
+"Castles of Augustusburg and Falkenlust at Brühl"
+]
 ],
 [
 "Muskau Park",
-45
+45,
+[
+"parc Muzakowski"
+]
 ],
 [
 "Wieskirche",
-45
+45,
+[
+"Pilgrimage Church of Wies"
+]
 ],
 [
 "Maulbronn Monastery",
-45
+45,
+[
+"Imperial Monastery of Maulbronn"
+]
 ],
 [
 "Mount Kenya National Park",
-45
+45,
+[]
 ],
 [
 "Stoclet Palace",
-45
+45,
+[
+"Stoclet House"
+]
 ],
 [
 "Lena Pillars",
-45
+45,
+[]
 ],
 [
 "Sinharaja Forest Reserve",
-45
+45,
+[]
 ],
 [
 "Tabriz Bazaar",
-45
+45,
+[
+"Bazaar of Tabriz",
+"Tabriz Bazaar Complex",
+"Tabriz Bazar",
+"Tabriz Grand Bazaar"
+]
 ],
 [
 "Ambohimanga",
-45
+45,
+[]
 ],
 [
 "Zhoukoudian site",
-45
+45,
+[
+"Zhoukoudian Site"
+]
 ],
 [
 "Noel Kempff Mercado National Park",
-45
+45,
+[]
 ],
 [
 "Dazu Rock Carvings",
-45
+45,
+[]
 ],
 [
 "Port Royal",
-45
+45,
+[]
 ],
 [
 "Rani ki vav",
-45
+45,
+[
+"Rani Ki Vav Queen's Stepwell",
+"Rani Ki Vav Stepwell"
+]
 ],
 [
 "Bahla Fort",
-44
+44,
+[]
 ],
 [
 "Studenica monastery",
-44
+44,
+[]
 ],
 [
 "Abbey of Saint Gall",
-44
+44,
+[
+"Stift St. Gallen"
+]
 ],
 [
 "Altes Museum",
-44
+44,
+[]
 ],
 [
 "Abbey and Altenmünster of Lorsch",
-44
+44,
+[
+"Lorsch Abbey"
+]
 ],
 [
 "Skogskyrkogården",
-44
+44,
+[
+"Forest cemetery"
+]
 ],
 [
 "Dinosaur Provincial Park",
-44
+44,
+[]
 ],
 [
 "Brú na Bóinne",
-44
+44,
+[
+"Bru na Boinne"
+]
 ],
 [
 "Rock-hewn Churches of Ivanovo",
-44
+44,
+[]
 ],
 [
 "iron pillar of Delhi",
-44
+44,
+[]
 ],
 [
 "Three Parallel Rivers National Park",
-44
+44,
+[]
 ],
 [
 "Jurassic Coast",
-44
+44,
+[
+"Dorset and East Devon Coast"
+]
 ],
 [
 "Casbah of Algiers",
-44
+44,
+[
+"Kasbah of Algiers"
+]
 ],
 [
 "Crespi d'Adda",
-44
+44,
+[]
 ],
 [
 "Coiba",
-44
+44,
+[
+"Coiba Island",
+"Coiba National Marine Park",
+"Quibo",
+"Quibo Island"
+]
 ],
 [
 "Tubbataha Reef",
-44
+44,
+[
+"Tubbataha Natural Park",
+"Tubbataha Reefs Natural Park"
+]
 ],
 [
 "Ayutthaya Historical Park",
-43
+43,
+[
+"Historic City of Ayutthaya"
+]
 ],
 [
 "Santiniketan",
-43
+43,
+[
+"Shantiniketan"
+]
 ],
 [
 "Warsaw Old Town",
-43
+43,
+[
+"Old and New Town of Warsaw",
+"Old Town (Warsaw, Poland)"
+]
 ],
 [
 "Batalha Monastery",
-43
+43,
+[
+"Monastery of Batalha",
+"Monastery of Saint Mary of the Victory",
+"Mosteiro da Batalha",
+"Mosteiro de Santa Maria da Vitória"
+]
 ],
 [
 "Taos Pueblo",
-43
+43,
+[
+"Taos Pueblo, NM"
+]
 ],
 [
 "Old Town of Lviv",
-43
+43,
+[
+"Lviv's Old Town"
+]
 ],
 [
 "Cerrado",
-43
+43,
+[]
 ],
 [
 "Thracian Tomb of Kazanlak",
-43
+43,
+[
+"Kazanlak tomb",
+"vaulted-brickwork tomb Kazanlak"
+]
 ],
 [
 "Alexander von Humboldt National Park",
-43
+43,
+[
+"Parque Nacional Alejandro de Humboldt"
+]
 ],
 [
 "The Architectural Work of Le Corbusier",
-43
+43,
+[
+"Le Corbusier World Heritage",
+"The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement"
+]
 ],
 [
 "Rainforests of the Atsinanana",
-43
+43,
+[]
 ],
 [
 "Schwerin Castle",
-43
+43,
+[
+"Schwerin Palace"
+]
 ],
 [
 "Ban Chiang",
-43
+43,
+[]
 ],
 [
 "Gondwana Rainforests of Australia",
-43
+43,
+[
+"Forêts humides Gondwana de l’Australie",
+"Gondwana Rainforests of Australia World Heritage Site (natural or mixed)"
+]
 ],
 [
 "Thracian Tomb of Sveshtari",
-43
+43,
+[]
 ],
 [
 "Lavaux",
-43
+43,
+[
+"Lavaux vineyards"
+]
 ],
 [
 "Chavin de Huantar",
-43
+43,
+[
+"Cultura chavin"
+]
 ],
 [
 "Horezu monastery",
-43
+43,
+[]
 ],
 [
 "Belfries of Belgium and France",
-43
+43,
+[]
 ],
 [
 "Huascarán National Park",
-43
+43,
+[
+"Huascaran National Park"
+]
 ],
 [
 "Engelsberg Ironworks",
-43
+43,
+[]
 ],
 [
 "Tamgaly",
-43
+43,
+[
+"Tanbaly"
+]
 ],
 [
 "rock drawings in Valcamonica",
-43
+43,
+[]
 ],
 [
 "Pontcysyllte Aqueduct",
-42
+42,
+[
+"Pontcysyllte Aqueduct and Canal"
+]
 ],
 [
 "The Great Spa Towns of Europe",
-42
+42,
+[
+"Great spas of Europe",
+"Great Spa Towns of Europe"
+]
 ],
 [
 "Imperial Citadel of Thang Long",
-42
+42,
+[
+"Hoàng thành Thăng Long",
+"Imperial Citadel of Thăng Long",
+"Imperial Citadel of Thang Long-Hanoi",
+"Kinh thành",
+"Thăng Long Imperial Citadel"
+]
 ],
 [
 "Zubarah",
-42
+42,
+[
+"Al Zubarah",
+"Az Zubarah"
+]
 ],
 [
 "Stone spheres of Costa Rica",
-42
+42,
+[]
 ],
 [
 "Los Katíos National Park",
-42
+42,
+[
+"Los Katios National Park"
+]
 ],
 [
 "iSimangaliso Wetland Park",
-42
+42,
+[
+"Greater St. Lucia Wetland Park",
+"ISimangaliso Wetland Park"
+]
 ],
 [
 "Al-Ahsa Oasis",
-42
+42,
+[]
 ],
 [
 "Madriu-Perafita-Claror Valley",
-42
+42,
+[
+"Madriu-Perafita-Claror-Tal"
+]
 ],
 [
 "Huanglong",
-42
+42,
+[
+"Huánglóng",
+"Huanglong Scenic and Historic Interest Area",
+"黃龍",
+"黄龙"
+]
 ],
 [
 "Sheikh Safi al-Din Khānegāh and Shrine Ensemble",
-42
+42,
+[
+"Ardabil Shrine",
+"Ardebil Shrine",
+"Sheikh Safi al-Din Khanegah and Shrine Ensemble",
+"Sheikh Safi's Tomb"
+]
 ],
 [
 "Petäjävesi Old Church",
-42
+42,
+[]
 ],
 [
 "Viñales Valley",
-42
+42,
+[]
 ],
 [
 "Llotja de la Seda",
-42
+42,
+[
+"Lonja de la Seda"
+]
 ],
 [
 "Maison Carrée",
-42
+42,
+[
+"Maison Carree"
+]
 ],
 [
 "Iguaçu National Park",
-42
+42,
+[
+"Parque Nacional do Iguaçu"
+]
 ],
 [
 "New Lanark",
-42
+42,
+[]
 ],
 [
 "Willandra Lakes Region",
-42
+42,
+[
+"Région des lacs Willandra",
+"Willandra Lakes Region World Heritage Site (natural or mixed)"
+]
 ],
 [
 "wooden churches of Maramureș",
-42
+42,
+[
+"wooden churches of Maramures"
+]
 ],
 [
 "Champaner-Pavagadh Archaeological Park",
-42
+42,
+[]
 ],
 [
 "Paraty",
-42
+42,
+[
+"Parati"
+]
 ],
 [
 "Lake Malawi National Park",
-41
+41,
+[]
 ],
 [
 "Al Maghtas",
-41
+41,
+[]
 ],
 [
 "Golden Mountains of Altai",
-41
+41,
+[]
 ],
 [
 "Linderhof Palace",
-41
+41,
+[]
 ],
 [
 "Khangchendzonga National Park",
-41
+41,
+[]
 ],
 [
 "Roman amphitheatre of El Jem",
-41
+41,
+[
+"amphitheatre in El Jem"
+]
 ],
 [
 "New Zealand Subantarctic Islands",
-41
+41,
+[]
 ],
 [
 "wooden churches of the Slovak Carpathians",
-41
+41,
+[]
 ],
 [
 "Hwaseong Fortress",
-41
+41,
+[]
 ],
 [
 "Royal Tombs of the Joseon Dynasty",
-41
+41,
+[]
 ],
 [
 "Mount Kumgang",
-41
+41,
+[
+"Diamond Mountain",
+"Kumgang Mountains",
+"Mount Geungang",
+"Mount Kŭmgang",
+"Mt. Geumgang",
+"Mt. Kŭmgang"
+]
 ],
 [
 "Te Wahipounamu",
-41
+41,
+[
+"Te Wahipounamu South West New Zealand World Heritage Area",
+"Te Wahipounamu – South West New Zealand World Heritage Site"
+]
 ],
 [
 "Alcobaça Monastery",
-41
+41,
+[
+"Alcobaça (klášter)"
+]
 ],
 [
 "Tajín Veracruz",
-41
+41,
+[
+"El Tajín"
+]
 ],
 [
 "Mudéjar architecture of Aragon",
-41
+41,
+[
+"Mudejar Architecture of Aragon"
+]
 ],
 [
 "Papahānaumokuākea Marine National Monument",
-41
+41,
+[
+"Northwestern Hawaiian Islands Marine National Monument",
+"Papahanaumokuakea Marine National Monument",
+"PMNM"
+]
 ],
 [
 "Xochicalco",
-41
+41,
+[]
 ],
 [
 "Castles and Town Walls of King Edward in Gwynedd",
-41
+41,
+[
+"The Castles and Town Walls of Edward I in Gwynedd"
+]
 ],
 [
 "Sangiran",
-41
+41,
+[]
 ],
 [
 "Revillagigedo Islands",
-41
+41,
+[]
 ],
 [
 "Historic Monuments of Ancient Kyoto",
-41
+41,
+[]
 ],
 [
 "Historic Villages of Shirakawa-gō and Gokayama",
-41
+41,
+[
+"Historic Villages of Shirakawa-go and Gokayama"
+]
 ],
 [
 "Gulangyu",
-40
+40,
+[
+"Kou-lang-se"
+]
 ],
 [
 "Chengde Mountain Resort and its outlying temples",
-40
+40,
+[
+"Bi shu shan zhuang",
+"Bishushanzhuang",
+"Chengde Mountain Resort",
+"Imperial Summer Resort",
+"Mountain Manor for Escaping the Summer Heat"
+]
 ],
 [
 "Temple of Kukulcan",
-40
+40,
+[
+"La Pirámide",
+"Pyramid of Kukulcan",
+"Structure 5B18",
+"Temple of Kukulcán"
+]
 ],
 [
 "Honghe Hani Rice Terraces",
-40
+40,
+[
+"Hani Terraces",
+"Yuanyang Rice Terraces"
+]
 ],
 [
 "Ichkeul National Park",
-40
+40,
+[]
 ],
 [
 "Mulanje Massif",
-40
+40,
+[]
 ],
 [
 "Lake Turkana National Parks",
-40
+40,
+[]
 ],
 [
 "Sammallahdenmäki",
-40
+40,
+[]
 ],
 [
 "Aflaj Irrigation System of Oman",
-40
+40,
+[
+"Aflaj",
+"Falaj"
+]
 ],
 [
 "churches of Moldavia",
-40
+40,
+[
+"Moldavian monasteries",
+"Painted Monasteries"
+]
 ],
 [
 "Šibenik Cathedral",
-40
+40,
+[
+"Cathedral of St. James in Šibenik"
+]
 ],
 [
 "Abbey of Fontenay",
-40
+40,
+[]
 ],
 [
 "Darién National Park",
-40
+40,
+[
+"Darien National Park"
+]
 ],
 [
 "Gordion",
-40
+40,
+[
+"Gordium",
+"Mint of Gordion"
+]
 ],
 [
 "Vallée de Mai",
-40
+40,
+[
+"Vallee de Mai"
+]
 ],
 [
 "Divriği Great Mosque and Hospital",
-40
+40,
+[
+"Great Mosque and Hospital of Divriği"
+]
 ],
 [
 "Churches of Peace",
-40
+40,
+[]
 ],
 [
 "Padova botanical garden",
-40
+40,
+[
+"Botanical Garden (Padova)",
+"Orto botanico di Padova"
+]
 ],
 [
 "Gonbad-e Qabus",
-40
+40,
+[
+"Gonbad-e Qabus (tower)",
+"Qabus Dome"
+]
 ],
 [
 "Euphrasian Basilica",
-40
+40,
+[
+"Cathedral Basilica of the Assumption of Mary"
+]
 ],
 [
 "Holy Trinity Column in Olomouc",
-40
+40,
+[]
 ],
 [
 "Umm ar-Rasas",
-40
+40,
+[
+"Kastron Mefa'a"
+]
 ],
 [
 "Vega Archipelago",
-40
+40,
+[
+"Vega Islands"
+]
 ],
 [
 "Dja Faunal Reserve",
-40
+40,
+[]
 ],
 [
 "Gamzigrad",
-40
+40,
+[
+"Felix Romuliana"
+]
 ],
 [
 "Pannonhalma Archabbey",
-40
+40,
+[
+"Benedictine Archabbey at Pannonhalma",
+"Millenary Benedictine Abbey of Pannonhalma"
+]
 ],
 [
 "Great Himalayan National Park",
-39
+39,
+[
+"Great Himalayan National Park Conservation Area"
+]
 ],
 [
 "Rapa Nui National Park",
-39
+39,
+[]
 ],
 [
 "Madinat Al-Zahra",
-39
+39,
+[
+"Caliphate City of Medina Azaharaa",
+"Delimitación de Madinat al-Zahra",
+"Medina Azahara"
+]
 ],
 [
 "Royal Palaces of Abomey",
-39
+39,
+[]
 ],
 [
 "Pamir National Park",
-39
+39,
+[]
 ],
 [
 "Australian Convict Sites",
-39
+39,
+[]
 ],
 [
 "Dambulla cave temple",
-39
+39,
+[]
 ],
 [
 "Koutammakou",
-39
+39,
+[]
 ],
 [
 "Sian Ka'an",
-39
+39,
+[]
 ],
 [
 "Princely Abbey of Corvey",
-39
+39,
+[
+"Corvey",
+"Corvey Abbey"
+]
 ],
 [
 "Medici Villas and Gardens in Tuscany",
-39
+39,
+[
+"Medici Villas"
+]
 ],
 [
 "Museum Plantin-Moretus",
-39
+39,
+[
+"Museum Plantin-Moretus Antwerp",
+"Museum Plantin-Moretus in Antwerp"
+]
 ],
 [
 "Convent of Christ",
-39
+39,
+[
+"Convento de Cristo",
+"Mosteiro de Cristo"
+]
 ],
 [
 "Waterton-Glacier International Peace Park",
-39
+39,
+[]
 ],
 [
 "Ferapontov Monastery",
-39
+39,
+[]
 ],
 [
 "Visoki Dečani",
-39
+39,
+[]
 ],
 [
 "Wooden churches of Southern Lesser Poland",
-39
+39,
+[]
 ],
 [
 "Villages with fortified churches in Transylvania",
-39
+39,
+[
+"villages with fortified churches in Transylvania"
+]
 ],
 [
 "Khami",
-39
+39,
+[]
 ],
 [
 "Vecrīga",
-38
+38,
+[
+"Historic Centre of Riga",
+"Old Riga",
+"Vecpilsēta"
+]
 ],
 [
 "Classical Gardens of Suzhou",
-38
+38,
+[]
 ],
 [
 "Residence of Bukovinian and Dalmatian Metropolitans",
-38
+38,
+[]
 ],
 [
 "Jodrell Bank Observatory",
-38
+38,
+[
+"Jodrell Bank Experimental Station",
+"Nuffield Radio Astronomy Laboratories"
+]
 ],
 [
 "Kapova Cave",
-38
+38,
+[
+"Shulgantash Cave"
+]
 ],
 [
 "Iwami Ginzan Silver Mine",
-38
+38,
+[
+"Ōmori Ginzan",
+"Sama Ginzan"
+]
 ],
 [
 "Berlin Modernism Housing Estates",
-38
+38,
+[
+"Siedlungen der Berliner Moderne"
+]
 ],
 [
 "Verla",
-38
+38,
+[]
 ],
 [
 "Su Nuraxi di Barumini",
-38
+38,
+[]
 ],
 [
 "Goguryeo tombs",
-38
+38,
+[
+"complex of Goguryeo tombs",
+"Koguryo tombs"
+]
 ],
 [
 "Cité de Carcassonne",
-38
+38,
+[
+"Historic Fortified City of Carcassonne"
+]
 ],
 [
 "Sarazm",
-38
+38,
+[
+"Sarazm Archaeological Site"
+]
 ],
 [
 "Rock carvings at Alta",
-38
+38,
+[
+"Alta petroglyphs",
+"Petroglyphs in Alta",
+"Rock art of Alta"
+]
 ],
 [
 "Royal Alcázar of Segovia",
-38
+38,
+[
+"Alcazar of Segovia",
+"Royal Palace of Segovia",
+"Segovia Alcazar",
+"Segovia Castle"
+]
 ],
 [
 "Valle dei Templi",
-38
+38,
+[
+"Archaeological Area of Agrigento"
+]
 ],
 [
 "Fujian Tulou sites",
-38
+38,
+[
+"Fujian Tulou",
+"Fujian Tulou world heritage site",
+"Pinghe Tulou"
+]
 ],
 [
 "Royal Monastery of Saint Mary of Guadalupe",
-38
+38,
+[
+"Monastery of Santa María de Guadalupe",
+"Our Lady of Guadalupe",
+"Real Monasterio de Santa María de Guadalupe",
+"Royal Monastery of Our Lady of Guadalupe",
+"Royal Monastery of St Mary of Guadalupe",
+"Santa Maria de Guadalupe",
+"Santa María de Guadalupe"
+]
 ],
 [
 "Pilgrimage Church of Saint John of Nepomuk",
-38
+38,
+[]
 ],
 [
 "Sacri Monti of Piedmont and Lombardy",
-38
+38,
+[]
 ],
 [
 "Modena Cathedral",
-38
+38,
+[]
 ],
 [
 "Twyfelfontein",
-38
+38,
+[]
 ],
 [
 "Imperial Tombs of the Ming and Qing Dynasties",
-38
+38,
+[]
 ],
 [
 "Ilulissat Icefjord",
-38
+38,
+[
+"Ilulissat Isfjord"
+]
 ],
 [
 "Burana Tower",
-38
+38,
+[]
 ],
 [
 "East Rennell",
-38
+38,
+[]
 ],
 [
 "El Fuerte de Samaipata",
-38
+38,
+[
+"Fuerte de Samaipata",
+"Samaipata",
+"Samipata Fort"
+]
 ],
 [
 "Tlacotalpan",
-38
+38,
+[]
 ],
 [
 "Desembarco del Granma National Park",
-38
+38,
+[]
 ],
 [
 "Mausoleum of the First Qin Emperor",
-38
+38,
+[
+"Mausoleum of Qin Chi Huang",
+"Qinshihuang Ling"
+]
 ],
 [
 "Badain Jaran Desert",
-38
+38,
+[
+"Badain Jaran Shamo"
+]
 ],
 [
 "Maymand",
-37
+37,
+[]
 ],
 [
 "Historic Monuments of Ancient Nara",
-37
+37,
+[]
 ],
 [
 "Ningaloo Reef",
-37
+37,
+[
+"Côte de Ningaloo",
+"Ningaloo",
+"Ningaloo Coast World Heritage Site (natural or mixed)",
+"Ningaloo Marine Park",
+"The Ningaloo Coast"
+]
 ],
 [
 "Dessau-Wörlitz Garden Realm",
-37
+37,
+[]
 ],
 [
 "Nanda Devi National Park",
-37
+37,
+[
+"Nanda Devi Biosphere Reserve"
+]
 ],
 [
 "Town Hall of Bremen",
-37
+37,
+[]
 ],
 [
 "Brimstone Hill Fortress National Park",
-37
+37,
+[]
 ],
 [
 "Residences of the Royal House of Savoy",
-37
+37,
+[]
 ],
 [
 "General Archive of the Indies",
-37
+37,
+[]
 ],
 [
 "Namhansanseong",
-37
+37,
+[]
 ],
 [
 "Kluane / Wrangell – St. Elias / Glacier Bay / Tatshenshini-Alsek",
-37
+37,
+[]
 ],
 [
 "Messel pit",
-37
+37,
+[]
 ],
 [
 "Danevirke",
-37
+37,
+[
+"Danewerk",
+"Dannevirke"
+]
 ],
 [
 "Bale Mountains National Park",
-37
+37,
+[
+"Bale Mountain National Park"
+]
 ],
 [
 "Old Rauma",
-37
+37,
+[]
 ],
 [
 "Saltaire",
-37
+37,
+[]
 ],
 [
 "Grimeton VLF transmitter",
-37
+37,
+[
+"Radiostationen i Varberg"
+]
 ],
 [
 "Río Abiseo National Park",
-37
+37,
+[
+"Rio Abiseo National Park"
+]
 ],
 [
 "Le Morne Brabant",
-36
+36,
+[]
 ],
 [
 "Wet Tropics of Queensland",
-36
+36,
+[
+"Tropiques humides de Queensland",
+"Wet Tropics of Queensland World Heritage Site (natural or mixed)"
+]
 ],
 [
 "Laponian National Park",
-36
+36,
+[
+"Laponia Världsarvsområde"
+]
 ],
 [
 "Orkhon Valley",
-36
+36,
+[]
 ],
 [
 "White City",
-36
+36,
+[
+"White City (Tel Aviv)"
+]
 ],
 [
 "Sangha Trinational",
-36
+36,
+[]
 ],
 [
 "Vilnius Old Town",
-36
+36,
+[
+"Vilnius Historic Center",
+"Vilnius Historic Centre"
+]
 ],
 [
 "Naumburg Cathedral",
-36
+36,
+[]
 ],
 [
 "Morne Trois Pitons National Park",
-36
+36,
+[]
 ],
 [
 "Monolithic churches in Lalibela",
-36
+36,
+[]
 ],
 [
 "Head-Smashed-In Buffalo Jump",
-36
+36,
+[]
 ],
 [
 "Canadian Rocky Mountain Parks World Heritage Site",
-36
+36,
+[
+"Canadian Rocky Mountain Parks"
+]
 ],
 [
 "Saint John Abbey",
-36
+36,
+[
+"Monastery Church of St John, Müstair"
+]
 ],
 [
 "Aïr and Ténéré National Nature Reserve",
-36
+36,
+[]
 ],
 [
 "Chongoni Rock Art Area",
-36
+36,
+[]
 ],
 [
 "Castillo de San Pedro de la Roca",
-36
+36,
+[
+"El Morro (Santiago de Cuba)"
+]
 ],
 [
 "Rietveld Schröder House",
-36
+36,
+[
+"Rietveld house",
+"Rietveldhouse",
+"Rietveld Schroederhouse",
+"Schröderhouse"
+]
 ],
 [
 "Aapravasi Ghat",
-36
+36,
+[
+"The Immigration Depot"
+]
 ],
 [
 "Sukur",
-35
+35,
+[
+"Sukur Cultural Landscape"
+]
 ],
 [
 "Land of Frankincense",
-35
+35,
+[
+"Frankincense Trail"
+]
 ],
 [
 "Herrenchiemsee",
-35
+35,
+[]
 ],
 [
 "Longobards in Italy, Places of Power",
-35
+35,
+[
+"Longobard sites"
+]
 ],
 [
 "Zollverein Coal Mine Industrial Complex",
-35
+35,
+[
+"Zeche Zollverein"
+]
 ],
 [
 "Ennedi Plateau",
-35
+35,
+[
+"Ennedi"
+]
 ],
 [
 "Nyungwe Forest",
-35
+35,
+[
+"Nyungwe",
+"Nyungwe Forest National Park",
+"Rugege",
+"Rugege Forest"
+]
 ],
 [
 "Abbey Church of Saint-Savin-sur-Gartempe",
-35
+35,
+[]
 ],
 [
 "Central Suriname Nature Reserve",
-35
+35,
+[
+"CSNR"
+]
 ],
 [
 "Rock Art of the Mediterranean Basin on the Iberian Peninsula",
-35
+35,
+[
+"Levantine art",
+"Rock art of the Iberian Mediterranean Basin",
+"Spanish Levantine art"
+]
 ],
 [
 "Medieval Monuments in Kosovo",
-35
+35,
+[]
 ],
 [
 "Citadel of Erbil",
-35
+35,
+[
+"Citadel of Arbil",
+"Citadel of Hawler",
+"Erbil Citadel",
+"Qalay Hawler"
+]
 ],
 [
 "Chiribiquete National Park",
-35
+35,
+[
+"Parque Nacional Natural Chiribiquete",
+"Parque Nacional Natural Serranía de Chiribiquete",
+"Serranía de Chiribiquete"
+]
 ],
 [
 "The Venetian Works of defence between 15th and 17th centuries",
-35
+35,
+[]
 ],
 [
 "Bergpark Wilhelmshöhe",
-35
+35,
+[
+"Bergpark und Schloss Wilhelmshöhe",
+"Park Wilhelmshöhe"
+]
 ],
 [
 "Painted Churches in the Troödos Region",
-35
+35,
+[]
 ],
 [
 "Caves of Aggtelek Karst and Slovak Karst",
-35
+35,
+[]
 ],
 [
 "Sichuan Giant Panda Sanctuaries",
-35
+35,
+[]
 ],
 [
 "Miguasha National Park",
-35
+35,
+[
+"Miguasha Provincial Park"
+]
 ],
 [
 "Fagus Factory",
-35
+35,
+[
+"Faguswerk"
+]
 ],
 [
 "Baroque Churches of the Philippines",
-35
+35,
+[]
 ],
 [
 "Fortifications of Vauban",
-35
+35,
+[]
 ],
 [
 "White Monuments of Vladimir and Suzdal",
-35
+35,
+[]
 ],
 [
 "Palmeral of Elche",
-35
+35,
+[
+"Elche Palm Grove",
+"Palmeral de Elche"
+]
 ],
 [
 "Tràng An Landscape Complex",
-34
+34,
+[
+"Trang An Landscape Complex",
+"Trang An – Ninh Binh",
+"Trang An Scenic Landscape Complex",
+"Trang An Vietnam"
+]
 ],
 [
 "Asante Traditional Buildings",
-34
+34,
+[]
 ],
 [
 "Kondoa Rock Art Sites",
-34
+34,
+[
+"Kondoa Irangi Rock Paintings"
+]
 ],
 [
 "Margravial Opera House",
-34
+34,
+[]
 ],
 [
 "Christiansfeld",
-34
+34,
+[]
 ],
 [
 "Ramappa Temple",
-34
+34,
+[
+"Gaurisa temple",
+"Ramalingeswara temple",
+"Ramappa temples complex",
+"Rudresvara temple"
+]
 ],
 [
 "Ancient City of Aleppo",
-34
+34,
+[]
 ],
 [
 "Kizhi Pogost",
-34
+34,
+[]
 ],
 [
 "León Cathedral",
-34
+34,
+[
+"Insigne y Real Basílica Catedral de la Asunción de la Bienaventurada Virgen María"
+]
 ],
 [
 "Lakes of Ounianga",
-34
+34,
+[]
 ],
 [
 "Sewell",
-34
+34,
+[
+"Sewell, Chile",
+"Sewell Mining Town"
+]
 ],
 [
 "Osun-Osogbo Grove",
-34
+34,
+[
+"Osun Osogbo Grove",
+"Osun-Osogbo Sacred Grove",
+"Temple of Osun"
+]
 ],
 [
 "Tallinn Old Town",
-34
+34,
+[]
 ],
 [
 "Los Alerces National Park",
-34
+34,
+[]
 ],
 [
 "Palaces and Parks of Potsdam and Berlin",
-34
+34,
+[]
 ],
 [
 "Shrines and Temples of Nikkō",
-33
+33,
+[]
 ],
 [
 "Qutb complex",
-33
+33,
+[
+"Kootub",
+"Kutub",
+"Qutub"
+]
 ],
 [
 "Kuk Swamp",
-33
+33,
+[]
 ],
 [
 "New Caledonia Barrier Reef",
-33
+33,
+[]
 ],
 [
 "Heart of Neolithic Orkney",
-33
+33,
+[]
 ],
 [
 "Aljafería",
-33
+33,
+[
+"Aljaferia",
+"Aljafería Palace"
+]
 ],
 [
 "Sacred Mijikenda Kaya Forests",
-33
+33,
+[]
 ],
 [
 "Takalik Abaj",
-33
+33,
+[]
 ],
 [
 "Stevns Klint",
-33
+33,
+[]
 ],
 [
 "Rock Paintings of Hua Mountain",
-33
+33,
+[
+"Huashan Petroglyph",
+"Huashan Pictographs",
+"Huashan Rock Art"
+]
 ],
 [
 "Decorated Farmhouses of Hälsingland",
-33
+33,
+[]
 ],
 [
 "Rhine Gorge",
-33
+33,
+[]
 ],
 [
 "Churches of Chiloé",
-33
+33,
+[
+"Churches of Chiloe"
+]
 ],
 [
 "Fountains Abbey",
-33
+33,
+[
+"Fountains Cistercian Abbey"
+]
 ],
 [
 "Prehistoric Rock Art Sites in the Côa Valley",
-33
+33,
+[
+"Prehistoric Rock-Art Site of the Côa Valley",
+"Prehistoric Rock-Art Site of the Coa Valley and Siega Verde"
+]
 ],
 [
 "Humberstone and Santa Laura Saltpeter Works",
-33
+33,
+[]
 ],
 [
 "Sacred Sites and Pilgrimage Routes in the Kii Mountain Range",
-33
+33,
+[]
 ],
 [
 "Falun Mine",
-33
+33,
+[]
 ],
 [
 "Archaeological Landscape of the First Coffee Plantations in the South-East of Cuba",
-33
+33,
+[]
 ],
 [
 "Derwent Valley Mills",
-33
+33,
+[]
 ],
 [
 "Sawahlunto",
-33
+33,
+[
+"Kota Sawah Lunto",
+"Sawahlunto City"
+]
 ],
 [
 "Monarch Butterfly Biosphere Reserve",
-33
+33,
+[
+"Mountain of Butterflies"
+]
 ],
 [
 "South China Karst",
-33
+33,
+[]
 ],
 [
 "Colonia Iulia Urbs Triumphalis Tarraco",
-32
+32,
+[
+"Archaeological Ensemble of Tarraco",
+"Archaeological Ensemble of Tárraco",
+"Tarraco"
+]
 ],
 [
 "Rock Carvings in Tanum",
-32
+32,
+[]
 ],
 [
 "Hoh Xil",
-32
+32,
+[]
 ],
 [
 "Cordouan Lighthouse",
-32
+32,
+[]
 ],
 [
 "Citadelle Laferrière",
-32
+32,
+[
+"Citadelle",
+"Citadelle Henri Christophe",
+"la Citadelle"
+]
 ],
 [
 "Jesuit Missions of Chiquitos",
-32
+32,
+[]
 ],
 [
 "Cornwall and West Devon Mining Landscape",
-32
+32,
+[
+"Cornish Mining World Heritage Site",
+"Cornwall and West Devon Mining Landscape World Heritage Site"
+]
 ],
 [
 "Ironbridge Gorge",
-32
+32,
+[]
 ],
 [
 "Kraków Old Town",
-32
+32,
+[
+"Krakow Old Town",
+"Stare Miasto"
+]
 ],
 [
 "Qalhat",
-32
+32,
+[]
 ],
 [
 "Arslantepe",
-32
+32,
+[
+"Melid"
+]
 ],
 [
 "Dacian Fortresses of the Orăștie Mountains",
-32
+32,
+[]
 ],
 [
 "Lednice-Valtice Cultural Landscape",
-32
+32,
+[
+"Lednice-Valtice Area",
+"Lednice–Valtice Complex",
+"LVA"
+]
 ],
 [
 "Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining",
-32
+32,
+[
+"Sites of Japan’s Meiji Industrial Revolution"
+]
 ],
 [
 "Ivindo National Park",
-32
+32,
+[]
 ],
 [
 "El Camino Real de Tierra Adentro",
-32
+32,
+[]
 ],
 [
 "University City of Caracas",
-31
+31,
+[
+"Ciudad Universitaria de Caracas",
+"CUC"
+]
 ],
 [
 "Völklingen Ironworks",
-31
+31,
+[]
 ],
 [
 "historical city centre of Odesa",
-31
+31,
+[
+"center of Odesa",
+"centre of Odesa",
+"Old Odesa"
+]
 ],
 [
 "Ruins of St. Paul's",
-31
+31,
+[]
 ],
 [
 "Trans-Iranian Railway",
-31
+31,
+[]
 ],
 [
 "Khajuraho Group of Monuments",
-31
+31,
+[
+"Khajuraho Hindu temples",
+"Khajuraho Jain temples",
+"Khajuraho temples",
+"Kharjuravahaka"
+]
 ],
 [
 "Koh Ker",
-31
+31,
+[]
 ],
 [
 "Tierradentro",
-31
+31,
+[
+"Tierradentroo"
+]
 ],
 [
 "Sambor Prei Kuk",
-31
+31,
+[
+"Isanapur Khmer",
+"Ishanapura",
+"Sambour Group of temples"
+]
 ],
 [
 "Royal Botanic Gardens, Kew",
-31
+31,
+[
+"Kew",
+"Kew Gardens",
+"Kew Royal Botanic Gardens",
+"Royal Botanic Gardens"
+]
 ],
 [
 "Bat, Al-Khutm and Al-Ayn archaeological sites",
-31
+31,
+[]
 ],
 [
 "Saryarka – Steppe and Lakes of Northern Kazakhstan",
-31
+31,
+[
+"Saryarka: Steppe and Lakes of Northern Kazakhstan"
+]
 ],
 [
 "Hospicio Cabañas",
-31
+31,
+[]
 ],
 [
 "Central Highlands of Sri Lanka",
-31
+31,
+[]
 ],
 [
 "Gochang, Hwasun and Ganghwa Dolmen Sites",
-31
+31,
+[]
 ],
 [
 "Palace of Mafra",
-31
+31,
+[
+"Mafra National Palace"
+]
 ],
 [
 "Stari Grad Plain",
-31
+31,
+[]
 ],
 [
 "Historic Centre of Saint Petersburg and Related Groups of Monuments",
-31
+31,
+[
+"Historic Centre of Saint Petersburg"
+]
 ],
 [
 "Pitons",
-31
+31,
+[]
 ],
 [
 "Alto Douro Wine Region",
-31
+31,
+[
+"Douro Wine Region"
+]
 ],
 [
 "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
-30
+30,
+[]
 ],
 [
 "Gammelstad Church Town",
-30
+30,
+[
+"Church Village of Gammelstad, Luleå",
+"Gammelstads kyrkstad"
+]
 ],
 [
 "Niah National Park",
-30
+30,
+[]
 ],
 [
 "Tusi Sites",
-30
+30,
+[]
 ],
 [
 "Old Quebec",
-30
+30,
+[
+"Haute-Ville",
+"Historic District of Old Quebec",
+"Historic District of Old Québec",
+"Old Quebec Heritage Site",
+"site patrimonial du Vieux-Québec",
+"Vieux Quebec",
+"Vieux-Quebec",
+"Vieux-Québec"
+]
 ],
 [
 "Shushtar Historical Hydraulic System",
-30
+30,
+[]
 ],
 [
 "Historic Centre of Macau",
-30
+30,
+[]
 ],
 [
 "Walls of Jerusalem",
-30
+30,
+[]
 ],
 [
 "Kujataa",
-30
+30,
+[
+"Kujataa Greenland: Norse and Inuit Farming at the Edge of the Ice Cap"
+]
 ],
 [
 "Dilmun Burial Mounds",
-30
+30,
+[]
 ],
 [
 "Redwood National and State Parks",
-30
+30,
+[
+"RNSP",
+"The Redwood National and State Parks"
+]
 ],
 [
 "Paleochristian and Byzantine monuments of Thessaloniki",
-30
+30,
+[]
 ],
 [
 "Burgess Shale",
-30
+30,
+[]
 ],
 [
 "Casas Grandes",
-30
+30,
+[
+"Paquime",
+"Paquimé"
+]
 ],
 [
 "Cát Bà Island",
-30
+30,
+[
+"Cat Ba Island"
+]
 ],
 [
 "lifts on the old Canal du Centre",
-30
+30,
+[
+"Canal du Centre boat lifts",
+"lifts on the Canal du Centre",
+"the Four Lifts on the Canal du Centre and their Environs, La Louvière and Le Roeulx (Hainaut)"
+]
 ],
 [
 "Ir.D.F. Woudagemaal",
-29
+29,
+[]
 ],
 [
 "Ruínas de León Viejo",
-29
+29,
+[
+"León Viejo",
+"Ruins of León Viejo"
+]
 ],
 [
 "Silk Roads: the Routes Network of Chang'an-Tianshan Corridor",
-29
+29,
+[]
 ],
 [
 "Bahrain Pearling Trail",
-29
+29,
+[]
 ],
 [
 "Odzala National Park",
-29
+29,
+[
+"Parc National d'Odzala"
+]
 ],
 [
 "Roman Walls of Lugo",
-29
+29,
+[
+"Lugo"
+]
 ],
 [
 "Vjetrenica",
-29
+29,
+[]
 ],
 [
 "San Agustin archeological park",
-29
+29,
+[]
 ],
 [
 "Bassari Country",
-29
+29,
+[]
 ],
 [
 "Glarus thrust",
-29
+29,
+[
+"Glarus overthrust",
+"Segnas Group",
+"Swiss Tectonic Arena Sardona"
+]
 ],
 [
 "Incense Route – Desert Cities in the Negev",
-29
+29,
+[]
 ],
 [
 "Eise Eisinga Planetarium",
-29
+29,
+[
+"Koninklijk Eise Eisinga Planetarium",
+"Royal Eise Eisinga Planetarium"
+]
 ],
 [
 "Beit She'arim National Park",
-29
+29,
+[
+"Beit She'arim Necropolis"
+]
 ],
 [
 "Jesuit Block and Estancias of Córdoba",
-29
+29,
+[
+"Jesuit Block and Estancias of Cordoba"
+]
 ],
 [
 "Our Lady of Promise",
-29
+29,
+[
+"Metera Eleousa",
+"Our Lady of Ljeviš"
+]
 ],
 [
 "Atapuerca",
-29
+29,
+[
+"Archaeological site of Atapuerca",
+"Atapuerca archaeopaleontological sites",
+"Atapuerca site"
+]
 ],
 [
 "Par force hunting landscape in North Zealand",
-28
+28,
+[
+"The par force hunting landscape in North Zealand"
+]
 ],
 [
 "Monasteries on the slopes of Popocatépetl",
-28
+28,
+[
+"Monasteries on the slopes of Popocatepetl"
+]
 ],
 [
 "domus de janas",
-28
+28,
+[]
 ],
 [
 "Gusuku Sites and Related Properties of the Kingdom of Ryukyu",
-28
+28,
+[]
 ],
 [
 "Rice Terraces of the Philippine Cordilleras",
-28
+28,
+[]
 ],
 [
 "Victorian Gothic and Art Deco Ensembles of Mumbai",
-28
+28,
+[]
 ],
 [
 "Litomyšl Chateau",
-28
+28,
+[
+"Litomyšl Castle",
+"Litomyšl Palace"
+]
 ],
 [
 "Van Nelle Factory",
-28
+28,
+[
+"Van Nellefabriek"
+]
 ],
 [
 "Bom Jesus do Monte",
-28
+28,
+[]
 ],
 [
 "Aqueduct of Padre Tembleque",
-28
+28,
+[]
 ],
 [
 "Natural and Culturo-Historical Region of Kotor",
-28
+28,
+[]
 ],
 [
 "Thimlich Ohinga",
-28
+28,
+[]
 ],
 [
 "northern French coal mining region",
-28
+28,
+[
+"bassin minier du Nord-Pas-de-Calais",
+"Nord-Pas de Calais Mining Basin"
+]
 ],
 [
 "Gyeongju Historic Areas",
-28
+28,
+[]
 ],
 [
 "Jeju Volcanic Island and Lava Tubes",
-28
+28,
+[]
 ],
 [
 "Shiretoko Peninsula",
-28
+28,
+[
+"Shiretoko-hantō"
+]
 ],
 [
 "Armenian Monastic Ensembles of Iran",
-28
+28,
+[]
 ],
 [
 "Greater Blue Mountains Area",
-28
+28,
+[
+"Greater Blue Mountains Area World Heritage Site (natural or mixed)",
+"Région des montagnes Bleues"
+]
 ],
 [
 "Western Xia Mausoleums",
-27
+27,
+[
+"Western Xia Imperial Tombs"
+]
 ],
 [
 "China Danxia",
-27
+27,
+[]
 ],
 [
 "Ciudad Universitaria",
-27
+27,
+[]
 ],
 [
 "Stora Sjöfallet National Park",
-27
+27,
+[
+"Stora Sjöfallet"
+]
 ],
 [
 "Valongo Wharf",
-27
+27,
+[
+"Muelle de la Emperatriz",
+"Muelle de Valongo"
+]
 ],
 [
 "Kenya Lake System in the Great Rift Valley",
-27
+27,
+[
+"Great Rift Valley",
+"Great Rift Valley, Kenya"
+]
 ],
 [
 "Zagori",
-27
+27,
+[]
 ],
 [
 "Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land",
-27
+27,
+[
+"Historic Monuments and Sites of Hiraizumi"
+]
 ],
 [
 "Group of monuments at Mahabalipuram",
-27
+27,
+[
+"Group of Monuments at Mahabalipuram",
+"Mamallapuram temples",
+"Seven Pagodas"
+]
 ],
 [
 "Ancient City of Damascus",
-27
+27,
+[]
 ],
 [
 "Temple of Apollo Epicurius in Bassae",
-27
+27,
+[
+"Apollo Epicurius temple",
+"Temple of Apollo Epicurius at Bassae",
+"Temple of Apollo Epikourios",
+"Temple of Apollo in Bassai"
+]
 ],
 [
 "Jesuit missions among the Guaraní",
-27
+27,
+[
+"Jesuit missions among the Guarani",
+"Jesuit Missions of the Guarani",
+"Jesuit Missions of the Guaranis",
+"Jesuit reduction among the Guarani",
+"Jesuit reduction among the Guaraní"
+]
 ],
 [
 "Beaufort Castle",
-27
+27,
+[
+"Beaufort Castle, Lebanon",
+"Belfort",
+"Shaqif Arnun"
+]
 ],
 [
 "Rock Paintings of Sierra de San Francisco",
-27
+27,
+[]
 ],
 [
 "Jungfrau-Aletsch protected area",
-27
+27,
+[]
 ],
 [
 "Franciscan Missions in the Sierra Gorda",
-27
+27,
+[]
 ],
 [
 "Area de Conservación Guanacaste World Heritage Site",
-27
+27,
+[
+"Area de Conservacion Guanacaste World Heritage Site"
+]
 ],
 [
 "Cave of Altamira and Paleolithic Cave Art of Northern Spain",
-27
+27,
+[]
 ],
 [
 "Hidden Christian Sites in the Nagasaki Region",
-27
+27,
+[
+"Churches and Christian Sites in Nagasaki"
+]
 ],
 [
 "Luis Barragán House and Studio",
-26
+26,
+[
+"Casa Barragán",
+"Casa Luis Barragán",
+"Luis Barragan House and Studio"
+]
 ],
 [
 "historic centre of Córdoba",
-26
+26,
+[]
 ],
 [
 "Navy Petty-Officers School of Mechanics",
-26
+26,
+[
+"ESMA"
+]
 ],
 [
 "Major Town Houses of the Architect Victor Horta",
-26
+26,
+[]
 ],
 [
 "Nahal Me'arot Nature Reserve",
-26
+26,
+[
+"Naẖal Me‘arot"
+]
 ],
 [
 "Ombilin coal mine",
-26
+26,
+[]
 ],
 [
 "Baekje Historic Areas",
-26
+26,
+[]
 ],
 [
 "Cathedral of the Savior in his Epiphany of Zaragoza",
-26
+26,
+[
+"Cathedral of the Savior in his Epiphany",
+"Cathedral of the Savior of Zaragoza",
+"cathedral of Zaragoza",
+"La Seo Cathedral",
+"Zaragoza cathedral"
+]
 ],
 [
 "Ninstints",
-26
+26,
+[
+"Nan Sdins",
+"SGang Gwaay",
+"SG̱ang Gwaay Llnaagay"
+]
 ],
 [
 "Saint Sophia Cathedral in Polotsk",
-26
+26,
+[]
 ],
 [
 "Umm el-Jimal",
-26
+26,
+[]
 ],
 [
 "Mistaken Point Ecological Reserve",
-26
+26,
+[]
 ],
 [
 "Thungyai Naresuan Wildlife Sanctuary",
-26
+26,
+[
+"Thung Yai Naresuan East Wildlife Sanctuary"
+]
 ],
 [
 "Old City of Bern",
-26
+26,
+[]
 ],
 [
 "Matobo Hills",
-26
+26,
+[
+"Matopos"
+]
 ],
 [
 "Poverty Point",
-26
+26,
+[
+"POPO",
+"Poverty Point National Monument"
+]
 ],
 [
 "Windmills at Kinderdijk",
-25
+25,
+[]
 ],
 [
 "Buddhist Monuments in the Hōryū-ji Area",
-25
+25,
+[]
 ],
 [
 "The Vineyard Landscape of Piedmont: Langhe-Roero and Monferrato",
-25
+25,
+[]
 ],
 [
 "Major Mining Sites of Wallonia",
-25
+25,
+[]
 ],
 [
 "Arabian Oryx Sanctuary",
-25
+25,
+[]
 ],
 [
 "port of the Moon",
-25
+25,
+[
+"Bordeaux, Port of the Moon",
+"Port de la Lune"
+]
 ],
 [
 "W-Arly-Pendjari Complex",
-25
+25,
+[
+"WAP complex"
+]
 ],
 [
 "Ahwar of Southern Iraq",
-25
+25,
+[]
 ],
 [
 "Heritage of Mercury. Almadén and Idrija",
-25
+25,
+[
+"Heritage of Mercury. Almaden and Idrija"
+]
 ],
 [
 "El Pinacate y Gran Desierto de Altar Biosphere Reserve",
-25
+25,
+[
+"El Pinacate and Gran Desierto de Altar Biosphere Reserve",
+"El Pinacate y Gran Desierto de Altar",
+"Pinacate and Grand Desert Biosphere Reserve",
+"Pinacate Biosphere Reserve",
+"Pinacate Reserve",
+"Reserva de La Biosfera de El Pinacate y Gran Desierto de Altar",
+"Reserva de la Biosfera El Pinacate",
+"Reserva de la Biósfera El Pinacate",
+"Reserva de la Biosfera El Pinacate y Gran Desierto de Altar",
+"Reserva de la Biósfera El Pinacate y Gran Desierto de Altar"
+]
 ],
 [
 "Prehistoric Sites and Decorated Caves of the Vézère Valley",
-25
+25,
+[
+"prehistoric sites and decorated caves of the Vezere Valley"
+]
 ],
 [
 "Teruel Cathedral",
-25
+25,
+[]
 ],
 [
 "Sassanid Archaeological Landscape of Fars Region",
-25
+25,
+[]
 ],
 [
 "Neolithic flint mines of Spiennes",
-25
+25,
+[]
 ],
 [
 "Sans-Souci Palace",
-25
+25,
+[
+"Palace of Sans-Souci",
+"Sans-Souci Palace, Haiti"
+]
+],
+[
+"Spišská Kapitula",
+24,
+[]
+],
+[
+"Cavernas do Peruaçu National Park",
+24,
+[]
+],
+[
+"Catalan Romanesque Churches of the Vall de Boí",
+24,
+[
+"Catalan Romanesque Churches of the Vall de Boi"
+]
+],
+[
+"Nelson's Dockyard",
+24,
+[]
+],
+[
+"Sanctuary of Bom Jesus de Matosinhos",
+24,
+[]
+],
+[
+"Palazzo Rosso",
+24,
+[]
+],
+[
+"Rock Art in the Hail Region of Saudi Arabia",
+24,
+[]
+],
+[
+"Rjukan–Notodden Industrial Heritage Site",
+24,
+[
+"Rjukan-Notodden Industrial Heritage Site"
+]
+],
+[
+"Arab-Norman Palermo and the Cathedral Churches of Cefalú and Monreale",
+24,
+[
+"Arab-Norman Palermo and the Cathedral Churches of Cefalù and Monreale"
+]
+],
+[
+"A-Ma Temple",
+24,
+[]
+],
+[
+"Monasteries of San Millán de la Cogolla",
+24,
+[
+"Monasteries of San Millan de la Cogolla",
+"San Millán Yuso and Suso Monasteries"
+]
+],
+[
+"Tell es-Sultan",
+24,
+[
+"Jericho",
+"Tel Jericho"
+]
+],
+[
+"Beit Guvrin National Park",
+24,
+[]
+],
+[
+"Béguinages in Flanders",
+24,
+[
+"Beguinages in Flanders",
+"Flemish Béguinages"
+]
+],
+[
+"Socotra Archipelago",
+24,
+[
+"Socotra"
+]
+],
+[
+"City of Vicenza and the Palladian Villas of the Veneto",
+24,
+[]
+],
+[
+"Ruins of Gedi",
+24,
+[
+"Gede Ruins National Monument"
+]
+],
+[
+"Three Castles of Bellinzona",
+24,
+[
+"castles of Bellinzona",
+"Three Castles, Defensive Wall and Ramparts of the Market-Town of Bellinzona"
+]
+],
+[
+"Saloum Delta",
+24,
+[
+"Delta of the Sine-Saloum",
+"Saloum River Delta",
+"Sine-Saloum Delta"
+]
+],
+[
+"Historic Areas of Istanbul",
+24,
+[]
+],
+[
+"The works of Jože Plečnik in Ljubljana – Human Centred Urban Design",
+24,
+[
+"The timeless, humanistic architecture of Joee Plecnik",
+"The timeless, humanistic architecture of Jože Plečnik"
+]
+],
+[
+"Jodensavanne",
+24,
+[
+"Joden Savana"
+]
+],
+[
+"Churches of the Pskov School of Architecture",
+24,
+[]
+],
+[
+"Historic Centre of Sighișoara",
+23,
+[]
+],
+[
+"Tigrovaya Balka Nature Reserve",
+23,
+[]
+],
+[
+"Masjid Al-Aqsa",
+23,
+[
+"Haram eş-Şerif",
+"Haram-ı Şerif",
+"Mescid-i Aksa",
+"Tapınak Dağı"
+]
+],
+[
+"Historic Monuments of Novgorod and Surroundings",
+23,
+[]
+],
+[
+"Ruins of Loropéni",
+23,
+[
+"Ruins of Loropeni"
+]
+],
+[
+"Upper German-Raetian Limes",
+23,
+[]
+],
+[
+"Makhonjwa Mountains",
+23,
+[]
+],
+[
+"King's House on Schachen",
+23,
+[]
+],
+[
+"Roman Monuments, Cathedral of St. Peter and Church of Our Lady in Trier UNESCO World Heritage Site",
+23,
+[
+"Roman Monuments, Cathedral of St Peter and Church of Our Lady in Trier"
+]
+],
+[
+"porticoes of Bologna",
+23,
+[
+"Bologna Arcades",
+"The Porticoes of Bologna"
+]
+],
+[
+"Petroglyphic Complexes of the Mongolian Altai",
+23,
+[]
+],
+[
+"Maidam",
+23,
+[
+"Moidams – the Mound-Burial system of the Ahom Dynasty"
+]
+],
+[
+"Maloti-Drakensberg Park",
+23,
+[]
+],
+[
+"Chinchorro culture",
+23,
+[]
+],
+[
+"Phoenix Islands Protected Area",
+23,
+[
+"PIPA"
+]
+],
+[
+"The 20th-Century Architecture of Frank Lloyd Wright",
+22,
+[]
+],
+[
+"Mapungubwe Cultural Landscape",
+22,
+[]
+],
+[
+"Markovi Kuli",
+22,
+[
+"Marko's Towers"
+]
+],
+[
+"Aasivissuit–Nipisat",
+22,
+[
+"Aasivissuit – Nipisat: Inuit Hunting Ground between Ice and Sea",
+"Aasivissuit – Nipisat. Inuit Hunting Ground between Ice and Sea"
+]
+],
+[
+"Tower of Kamianiec",
+22,
+[
+"Tower of Kamyanyets"
+]
+],
+[
+"Caves and Ice Age Art in the Swabian Jura",
+22,
+[]
+],
+[
+"Landscape of the Pico Island Vineyard Culture",
+22,
+[]
+],
+[
+"Historic Centre of Florence",
+22,
+[
+"Historic Center of Florence"
+]
+],
+[
+"Qaryat al-Faw",
+22,
+[]
+],
+[
+"Medina of Tunis",
+22,
+[]
+],
+[
+"fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo",
+22,
+[]
+],
+[
+"Tipasa",
+22,
+[
+"Mint of Tipasa",
+"Tipasa in Mauretania"
+]
+],
+[
+"Southern Öland cultural landscape",
+22,
+[]
+],
+[
+"Via Traiana",
+22,
+[]
+],
+[
+"Tehuacán-Cuicatlán Biosphere Reserve",
+22,
+[
+"Tehuacan-Cuicatlan Biosphere Reserve"
+]
+],
+[
+"Medina of Sousse",
+22,
+[]
+],
+[
+"Royal Abbey of Hautecombe",
+22,
+[]
+],
+[
+"Sacred Ensembles of the Hoysalas",
+22,
+[]
+],
+[
+"Abbey of Reichenau",
+22,
+[]
+],
+[
+"Pampulha Modern Ensemble",
+22,
+[]
+],
+[
+"Historic Centre of the City of Salzburg",
+21,
+[
+"Altstadt Salzburg"
+]
+],
+[
+"Malia",
+21,
+[
+"Malia archaeological site"
+]
+],
+[
+"Church of Cristo Obrero y Nuestra Señora de Lourdes",
+21,
+[
+"Atlantida Church",
+"Church of Christ the Worker and Our Lady of Lourdes"
+]
+],
+[
+"Sebastia",
+21,
+[]
+],
+[
+"Melka Kunture",
+21,
+[]
+],
+[
+"Bir Hima Rock Petroglyphs and Inscriptions",
+21,
+[
+"Hima Cultural Area",
+"Ḥimā Cultural Area"
+]
+],
+[
+"Sansa, Buddhist Mountain Monasteries in Korea",
+21,
+[]
+],
+[
+"Early Christian Necropolis of Pécs",
+21,
+[
+"Early Christian Necropolis of Pecs"
+]
+],
+[
+"Antequera Dolmens Site",
+21,
+[]
+],
+[
+"Humble Administrator's Garden",
+20,
+[
+"The Humble Administrator's Garden"
+]
+],
+[
+"Getbol, Korean Tidal Flats",
+20,
+[
+"Getbol"
+]
+],
+[
+"Jōmon Prehistoric Sites in Northern Japan",
+20,
+[
+"Jomon Prehistoric Sites in Northern Japan"
+]
+],
+[
+"Arles, Roman and Romanesque Monuments",
+20,
+[]
+],
+[
+"Maratha Military Landscapes of India",
+20,
+[
+"Maratha Military Architecture in Maharashtra"
+]
+],
+[
+"Si Thep historical park",
+20,
+[]
+],
+[
+"Churches and Convents of Goa",
+20,
+[]
+],
+[
+"Dong Phayayen-Khao Yai Forest Complex",
+20,
+[
+"Dong Phayayen–Khao Yai Forest Complex"
+]
+],
+[
+"Colonial City of Santo Domingo",
+20,
+[
+"Colonial zone"
+]
+],
+[
+"Budj Bim",
+20,
+[]
+],
+[
+"Lugo Cathedral",
+20,
+[]
+],
+[
+"Duchess Anna Amalia Library",
+20,
+[
+"HAAB"
+]
+],
+[
+"Jabal Al Fayah",
+20,
+[
+"Al-Fayah",
+"Al-Fayāh",
+"Jabal al Fayah",
+"Jabal al Fāyah",
+"Jabal Al Fāyah",
+"Jabal Fairah",
+"Jabal Faiya",
+"Jabal Fāiya",
+"Jabal Fa'iyah",
+"Jabal Fā’iyah"
+]
+],
+[
+"Babelsberg Palace",
+20,
+[]
+],
+[
+"Pimachiowin Aki",
+20,
+[]
+],
+[
+"The Causses and the Cévennes, Mediterranean agro-pastoral Cultural Landscape",
+19,
+[]
+],
+[
+"Colchic Rainforests and Wetlands",
+19,
+[]
+],
+[
+"Laurisilva of Madeira",
+19,
+[]
+],
+[
+"National History Park",
+19,
+[]
+],
+[
+"Kokino",
+19,
+[]
+],
+[
+"Archaeological Site of Sabratha",
+19,
+[]
+],
+[
+"Menin Gate",
+19,
+[
+"Menin Gate Memorial to the Missing"
+]
+],
+[
+"Sanctuary of the Madonna di San Luca",
+19,
+[
+"Basilica della Madonna di San Luca",
+"Santuario della Madonna di San Luca",
+"The Madonna of San Luca"
+]
+],
+[
+"Church of the Saviour at Berestove",
+19,
+[]
+],
+[
+"Wat Phra Mahathat",
+19,
+[
+"Wat Phra Mahathat Woramahawihan",
+"Wat Phra Mahathat Woramahawihan, Nakhon Si Thammarat"
+]
+],
+[
+"Chinchorro mummies",
+19,
+[]
+],
+[
+"Glienicke Palace",
+19,
+[
+"Schloß Glienicke"
+]
+],
+[
+"Artists' Colony in Darmstadt",
+19,
+[
+"Mathildenhöhe"
+]
+],
+[
+"Durmitor National Park",
+19,
+[]
+],
+[
+"Old City of Hebron",
+19,
+[
+"Al-Khalil Old Town",
+"Hebron/Al-Khalil Old Town",
+"Hebron Old Town"
+]
+],
+[
+"Old City of Zamość",
+19,
+[
+"Old City of Zamosc"
+]
+],
+[
+"Astronomical Observatory of the University of Kazan",
+19,
+[
+"Kasan observatory"
+]
+],
+[
+"Murambi Genocide Memorial",
+19,
+[
+"Murambi Technical School"
+]
+],
+[
+"Gaya Tumuli",
+19,
+[]
+],
+[
+"Forts and Castles, Volta, Greater Accra, Central and Western Regions",
+19,
+[
+"List of castles in Ghana"
+]
+],
+[
+"Vieux Lyon",
+19,
+[
+"Lyon old town"
+]
+],
+[
+"Medieval Town of Toruń",
+19,
+[
+"Medieval Town of Torun"
+]
+],
+[
+"Grand-Pré",
+18,
+[
+"Grand-Pre",
+"Grand Pré Heritage Conservation District",
+"Grand-Pré, Nova Scotia"
+]
+],
+[
+"Sado Mine",
+18,
+[]
+],
+[
+"Landmarks of the Ancient Kingdom of Saba",
+18,
+[
+"Landmarks of Ancient Kingdom of Saba, Marib",
+"Landmarks of the Ancient Kingdom of Saba (Marib)"
+]
+],
+[
+"Silk Roads: Zarafshan-Karakum Corridor",
+18,
+[]
+],
+[
+"Aalto Works",
+18,
+[
+"The Architectural Works of Alvar Aalto - a Human Dimension to the Modern Movement"
+]
+],
+[
+"Kalwaria Zebrzydowska park",
+18,
+[]
+],
+[
+"Ecosystem and Relict Cultural Landscape of Lopé-Okanda",
+18,
+[]
+],
+[
+"Gola National Park",
+18,
+[
+"Gola Rainforest National Park"
+]
+],
+[
+"Old Towns of Djenné",
+18,
+[]
+],
+[
+"Nanda Devi and Valley of Flowers National Parks",
+18,
+[]
+],
+[
+"Bahá'í World Centre buildings",
+18,
+[]
+],
+[
+"Wadi Wurayah",
+18,
+[
+"Wādī Al Wirе̄'ah",
+"Wadi Al Wurai‘ah",
+"Wādī Al-Wurayʿah",
+"Wadi Waraiya",
+"Wādī Waraiya",
+"Wadi Wuray'ah",
+"Wadi Wurayyah",
+"Wādī Wurayyah",
+"Wadi Wurrayah"
+]
+],
+[
+"Way of Saint James UNESCO World Heritage Sites in France",
+18,
+[
+"route of Santiago de Compostela in France",
+"way of St. James in France",
+"World Heritage Sites of the Routes of Santiago de Compostela in France"
+]
+],
+[
+"Historic Centre of Lima",
+18,
+[
+"Lima Monumental Zone",
+"Monumental Zone of Lima"
+]
+],
+[
+"Sviyazhsk Assumption Monastery",
+18,
+[]
+],
+[
+"Classical Weimar",
+18,
+[]
+],
+[
+"Risco Caido",
+18,
+[
+"Risco Caído and the sacred mountains of Gran Canaria Cultural Landscape"
+]
+],
+[
+"Hin Nam No National Protected Area",
+18,
+[]
+],
+[
+"Royal Court of Tiébélé",
+18,
+[
+"Tiébélé Royal Court"
+]
+],
+[
+"Persian Caravanserai",
+18,
+[
+"The Persian Caravanserai"
+]
+],
+[
+"Château de Quéribus",
+18,
+[
+"Chateau de Queribus"
+]
+],
+[
+"Writing-on-Stone Provincial Park",
+18,
+[
+"Áísínai’pi",
+"Writing-on-Stone / Áísínai’pi",
+"Writing-On-Stone Provincial Park"
+]
+],
+[
+"Historic Centre of Naples",
+18,
+[]
+],
+[
+"Bruges City Hall",
+18,
+[
+"Bruges Town Hall",
+"Stadhuis Brugge",
+"Stadhuis (Town Hall)"
+]
+],
+[
+"Lower German Limes",
+17,
+[
+"Frontiers of the Roman Empire – The Lower German Limes",
+"Frontiers of the Roman Empire – The Lower German Limes (Germany)",
+"Inferior German Limes",
+"Lower Germanic Limes"
+]
+],
+[
+"Maputo National Park",
+17,
+[]
+],
+[
+"Ogasawara Archipelago",
+17,
+[
+"Bonin Archipelago",
+"Bonin Islands",
+"Ogasawara",
+"Ogasawara Islands",
+"Ogasawara Shoto",
+"Ogasawara-shotō",
+"Ogasawara Shotō",
+"Ogasawara-Shotō"
+]
+],
+[
+"Kaiping Diaolou and Villages",
+17,
+[
+"Diaolou and folk dwellings in Kaiping",
+"Kaiping Diaolou",
+"Kaiping diaolou yu minju"
+]
+],
+[
+"Agave Landscape and Ancient Industrial Facilities of Tequila",
+17,
+[]
+],
+[
+"Church of the Ascension, Kolomenskoye",
+17,
+[]
+],
+[
+"Royal abbey of Saint-Remi",
+17,
+[]
+],
+[
+"Borobudur Temple Compounds",
+17,
+[]
+],
+[
+"Sacred Island of Okinoshima and Associated Sites in the Munakata Region",
+17,
+[]
+],
+[
+"Historic Centres of Berat and Gjirokastër",
+17,
+[
+"Historic Centres of Berat and Gjirokastra"
+]
+],
+[
+"St. Dominic's Church",
+17,
+[]
+],
+[
+"Gobustan Rock Art",
+17,
+[]
+],
+[
+"Grachtengordel",
+17,
+[
+"Amsterdam Canal district",
+"Canal belt of Amsterdam",
+"Canals of Amsterdam, World Heritage Site",
+"World Heritage Site Canals of Amsterdam"
+]
+],
+[
+"Stonehenge, Avebury and Associated Sites",
+17,
+[]
+],
+[
+"Central Axis of Beijing",
+17,
+[
+"Beijing Central Axis",
+"Beijing Central Axis: A Building Ensemble Exhibiting the Ideal Order of the Chinese Capital",
+"Zhongzhou Road"
+]
+],
+[
+"John Crow Mountains",
+17,
+[]
+],
+[
+"Kigali Genocide Memorial",
+17,
+[
+"Kigali Memorial Centre",
+"Tutsi Genocide Memorial site"
+]
+],
+[
+"Ancient ferrous metallurgy sites of Burkina Faso",
+17,
+[]
+],
+[
+"Pfaueninsel",
+17,
+[
+"Peacock Island"
+]
+],
+[
+"San Basilio de Palenque",
+17,
+[]
+],
+[
+"Douaumont ossuary",
+17,
+[]
+],
+[
+"São Francisco Square",
+17,
+[
+"São Francisco Square in the Town of São Cristóvão"
+]
+],
+[
+"Temple and Cemetery of Confucius and the Kong Family Mansion in Qufu",
+16,
+[
+"Qufu Temple of Confucius and Kong Family Mansion"
+]
+],
+[
+"Fort Douaumont",
+16,
+[]
+],
+[
+"Champagne hillsides, houses and cellars",
+16,
+[]
+],
+[
+"'Uruq Bani Ma'arid",
+16,
+[
+"‘Uruq Bani Ma’arid"
+]
+],
+[
+"Ancient Ksour of Ouadane, Chinguetti, Tichitt and Oualata",
+16,
+[]
+],
+[
+"Gardens of Versailles",
+16,
+[]
+],
+[
+"Varlaam monastery",
+16,
+[
+"Moni Varlaam"
+]
+],
+[
+"Lushan Quaternary Glaciation National Geopark",
+16,
+[
+"Lushan GeoPark",
+"Lushan National Geological Park",
+"Lushan Quarternary Glaciation National Geopark"
+]
+],
+[
+"Sculptural Ensemble of Constantin Brâncuși at Târgu Jiu",
+16,
+[
+"Sculptural Ensemble of Constantin Brancuși at Targu Jiu"
+]
+],
+[
+"Tiya archaeological site",
+16,
+[
+"Tiya",
+"Tiya Stelae",
+"Tiya Steles"
+]
+],
+[
+"Funerary and memory sites of the First World War (Western Front)",
+16,
+[]
+],
+[
+"Historic Town of Sukhothai and Associated Historic Towns",
+16,
+[]
+],
+[
+"Medieval City of Rhodes",
+16,
+[
+"Medieval town of Rhodes"
+]
+],
+[
+"Old Town of Ghadamès",
+15,
+[]
+],
+[
+"Padua's fourteenth-century fresco cycles",
+15,
+[
+"Padova Urbs picta",
+"Padua’s fourteenth-century fresco cycles"
+]
+],
+[
+"Complex of Huế Monuments",
+15,
+[
+"Complex of Hué Monuments"
+]
+],
+[
+"Amami-Ōshima Island, Tokunoshima Island, northern part of Okinawa Island, and Iriomote Island",
+15,
+[
+"Amami-Oshima Island, Tokunoshima Island, northern part of Okinawa Island, and Iriomote Island"
+]
+],
+[
+"Ancient City of Bosra",
+15,
+[]
+],
+[
+"Ore Mountain Mining Region",
+15,
+[
+"Mining Cultural Landscape Erzgebirge/Krusnohori",
+"Mining Cultural Landscape Erzgebirge/Krušnohoří"
+]
+],
+[
+"Medina of Fez",
+15,
+[]
+],
+[
+"banks of the Seine",
+15,
+[]
+],
+[
+"Naryn Castle",
+15,
+[
+"Naryn-Kala"
+]
+],
+[
+"Islands and Protected Areas of the Gulf of California",
+15,
+[]
+],
+[
+"Cathedral of the Nativity in Suzdal",
+15,
+[]
+],
+[
+"Temple of the Inscriptions",
+15,
+[]
+],
+[
+"Yanbaru National Park",
+15,
+[
+"Yambaru National Park"
+]
+],
+[
+"Drottningholm Palace Theatre",
+15,
+[]
+],
+[
+"Taputapuatea marae",
+15,
+[]
+],
+[
+"Chengjiang Fossil Site",
+15,
+[
+"Chengjiangdongwuhuashiqun Provincial Natural Reserve"
+]
+],
+[
+"Al-Balad, Jeddah",
+15,
+[]
+],
+[
+"Historic City of Ahmadabad",
+15,
+[
+"Fort and Gates of Ahmedabad",
+"Old Ahmedabad",
+"Walled City of Ahmedabad"
+]
+],
+[
+"Sudanese style mosques in northern Côte d'Ivoire",
+15,
+[
+"Sudanese style mosques in northern Côte d’Ivoire"
+]
+],
+[
+"Cultural Landscape of Hawraman/Uramanat",
+15,
+[
+"Uramanat Villages"
+]
+],
+[
+"Fortaleza do Monte",
+15,
+[]
+],
+[
+"Genoa: Le Strade Nuove and the system of the Palazzi dei Rolli",
+14,
+[
+"Palazzi dei Rolli World Heritage Site"
+]
+],
+[
+"Igreja da Sé",
+14,
+[]
+],
+[
+"Medina of Essaouira",
+14,
+[]
+],
+[
+"Bauhaus and its Sites in Weimar, Dessau and Bernau",
+14,
+[
+"Bauhaus World Heritage Site"
+]
+],
+[
+"Historic Monuments and Sites in Kaesong",
+14,
+[]
+],
+[
+"Aigai",
+14,
+[
+"Aegae",
+"Aegaea",
+"Aegeae",
+"Aigaia",
+"Aigeai",
+"Vergina"
+]
+],
+[
+"Yser Tower",
+14,
+[
+"Yser Towers"
+]
+],
+[
+"Temple of Jupiter",
+14,
+[
+"Baalbek Temple of Jupiter",
+"Temple of Jupiter Heliopolitanus",
+"Temple of Jupiter Helipolitanus"
+]
+],
+[
+"Chinese Pavilion at Drottningholm",
+14,
+[]
+],
+[
+"Discovery Coast Atlantic Forest Reserves",
+14,
+[]
+],
+[
+"Canadian National Vimy Memorial",
+14,
+[
+"Vimy Memorial",
+"Vimy Ridge Memorial"
+]
+],
+[
+"Church of St. Michael in Synkavičy",
+14,
+[]
+],
+[
+"Cusco Cathedral",
+14,
+[
+"Cathedral Basilica of Our Lady of the Assumption",
+"Cathedral Basilica of the Assumption of the Virgin",
+"Cathedral of Cusco",
+"Cathedral of Cuzco",
+"Cuzco Cathedral"
+]
+],
+[
+"Medina of Tétouan",
+14,
+[
+"Medina of Tetouan",
+"Titawin"
+]
+],
+[
+"borders of the Roman Empire",
+14,
+[
+"Frontiers of the Roman Empire"
+]
+],
+[
+"Garrison Border Town of Elvas and its Fortifications",
+14,
+[]
+],
+[
+"Church of the Redeemer",
+14,
+[
+"Church of the Redeemer, Sacrow"
+]
+],
+[
+"Petroglyphs of Lake Onega and the White Sea",
+14,
+[]
+],
+[
+"Levoča, Spiš Castle and the associated cultural monuments",
+14,
+[]
+],
+[
+"Okefenokee National Wildlife Refuge",
+14,
+[
+"Richard S Bolt Visitor Center"
+]
+],
+[
+"Tell Umm el-'Amr",
+14,
+[
+"Saint Hilarion monastery",
+"Tell Umm Amer"
+]
+],
+[
+"Sanctuary of Asclepius, Epidaurus",
+14,
+[
+"Epidaurus Asklepieion",
+"Sanctuary of Asklepios",
+"Sanctuary of Asklepios at Epidaurus"
+]
+],
+[
+"Church of Our Lady of the Spasm, Jerusalem",
+14,
+[
+"Church of Our Lady of Sorrows"
+]
+],
+[
+"Transfiguration Church in Polack",
+13,
+[]
+],
+[
+"Descent of the Ganges",
+13,
+[
+"Arjuna’s Penance",
+"Descent of the Ganges (Arjuna’s Penance)"
+]
+],
+[
+"Natural and Cultural Heritage of the Ohrid region",
+13,
+[
+"Natural and Cultural Heritage of the Ohrid Region"
+]
+],
+[
+"Historic Centre of Guimarães and Couros Zone",
+13,
+[
+"Historic Centre of Guimarães and Couros Zone (extension)"
+]
+],
+[
+"Leal Senado Building",
+13,
+[]
+],
+[
+"Aqaba Marine Reserve",
+13,
+[]
+],
+[
+"Engelhardt Observatory",
+13,
+[
+"V. P. Engel'gardt Astronomical Observatory"
+]
+],
+[
+"Derbent Mosque",
+13,
+[
+"Juma Mosque of Derbent"
+]
+],
+[
+"Derbent Wall",
+13,
+[]
+],
+[
+"Belvedere on the Pfingstberg",
+13,
+[]
+],
+[
+"Historic Centre of Salvador da Bahia",
+13,
+[
+"Centro Histórico de Salvador",
+"Conjunto Arquitetônico, Paisagístico e Urbanístico Centro Histórico da Cidade de Salvador",
+"Historic Center of Salvador da Bahia"
+]
+],
+[
+"Sítio Roberto Burle Marx",
+13,
+[]
+],
+[
+"Huichol route to Huiricuta",
+13,
+[
+"Huichol route through the sacred sites to Huiricuta",
+"Tatehuari Huajuye"
+]
+],
+[
+"The Gedeo Cultural Landscape",
+13,
+[
+"Gedeo Cultural Landscape"
+]
+],
+[
+"Senado Square",
+13,
+[]
+],
+[
+"Medina of Marrakech",
+13,
+[]
+],
+[
+"Island of Saint-Louis",
+12,
+[]
+],
+[
+"Cold Winter Deserts of Turan",
+12,
+[]
+],
+[
+"Tijuca Forest",
+12,
+[
+"Floresta da Tijuca"
+]
+],
+[
+"Hierapolis-Pamukkale",
+12,
+[]
+],
+[
+"Palazzo Doria Tursi",
+12,
+[]
+],
+[
+"Palazzo Bianco",
+12,
+[
+"White Palace"
+]
+],
+[
+"Thiepval Memorial",
+12,
+[
+"Thiepval Memorial to the Missing of the Somme"
+]
+],
+[
+"Luther Memorials in Eisleben and Wittenberg",
+12,
+[]
+],
+[
+"Tyne Cot Cemetery",
+12,
+[
+"Tyne Cot"
+]
+],
+[
+"Blaenavon Industrial Landscape",
+12,
+[]
+],
+[
+"Dom Pedro V Theatre",
+12,
+[
+"Cinema Macau",
+"Teatro Dom Pedro V",
+"Teatro Ma Gau"
+]
+],
+[
+"St Lawrence's Church",
+12,
+[]
+],
+[
+"Calakmul Biosphere Reserve",
+12,
+[]
+],
+[
+"Old Protestant Cemetery",
+12,
+[
+"Protestant Cemetery"
+]
+],
+[
+"Church of Nativity of Virgin Mary in Muravanka",
+12,
+[]
+],
+[
+"Diy-Gid-Biy",
+12,
+[
+"Diy-Gid-Biy Cultural Landscape of the Mandara Mountains"
+]
+],
+[
+"Landscapes of Dauria",
+12,
+[]
+],
+[
+"Śródmieście",
+12,
+[
+"Central Gdynia",
+"Gdynia Modernist Center",
+"Gdynia Śródmieście",
+"Modernist Center of Gdynia",
+"Modernist Centre of Gdynia",
+"Modernist Gdynia",
+"Srodmiescie"
+]
+],
+[
+"Monuments of Oviedo and the Kingdom of the Asturias",
+11,
+[]
+],
+[
+"Chief Roi Mata’s Domain",
+11,
+[]
+],
+[
+"Jewish-Medieval Heritage of Erfurt",
+11,
+[]
+],
+[
+"Liangzhu site",
+11,
+[
+"良渚遗址"
+]
+],
+[
+"Flow Country",
+11,
+[]
+],
+[
+"Climats, terroirs of Burgundy",
+11,
+[]
+],
+[
+"At-Turaif District",
+11,
+[
+"At-Turaif District in ad-Dir'iyah"
+]
+],
+[
+"Park of Versailles",
+11,
+[]
+],
+[
+"Atlantic Forest South-East Reserves",
+11,
+[]
+],
+[
+"Khomani Cultural Landscape",
+11,
+[
+"ǂKhomani Cultural Landscape"
+]
+],
+[
+"Pyrénées – Mont Perdu World Heritage Site",
+11,
+[]
+],
+[
+"Nubian Monuments from Abu Simbel to Philae",
+11,
+[]
+],
+[
+"Water Management System of Augsburg",
+11,
+[
+"Historic Water Resource Management in Augsburg"
+]
+],
+[
+"Garrison Historic Area",
+11,
+[]
+],
+[
+"Wooden Hypostyle Mosques of Medieval Anatolia",
+11,
+[
+"Medieval Mosques of Anatolia with Wooden Posts and Upper Structure",
+"Wooden Roofed and Wooden Columned Mosques in Anatolia"
+]
+],
+[
+"Migratory Bird Sanctuaries along the Coast of Yellow Sea-Bohai Gulf of China (Phase I)",
+11,
+[]
+],
+[
+"Secretariat Building",
+11,
+[]
+],
+[
+"Torre de San Martín",
+11,
+[
+"Torre de San Martin"
+]
+],
+[
+"Historic Centre of Cienfuegos",
+11,
+[]
+],
+[
+"Church of St. George",
+11,
+[
+"Church of St. George, Oberzell, Reichenau"
+]
+],
+[
+"Hopewell Ceremonial Earthworks",
+10,
+[]
+],
+[
+"Rachid Karami International Fair",
+10,
+[
+"Rachid Karameh International Fair",
+"RKIF"
+]
+],
+[
+"West Norwegian Fjords – Geirangerfjord and Nærøyfjord",
+10,
+[
+"Vestnorsk fjordlandskap"
+]
+],
+[
+"Joggins Fossil Cliffs",
+10,
+[]
+],
+[
+"Archaeological Ensemble of Mérida",
+10,
+[]
+],
+[
+"Melaka and George Town, Historic Cities of the Straits of Malacca",
+10,
+[
+"Historic Cities of the Straits of Malacca"
+]
+],
+[
+"Thungyai-Huai Kha Khaeng Wildlife Sanctuaries",
+10,
+[
+"Thungyai–Huai Kha Khaeng Wildlife Sanctuaries"
+]
+],
+[
+"Persian Qanat",
+10,
+[
+"The Persian Qanat"
+]
+],
+[
+"Plaza de toros de Acho",
+10,
+[]
+],
+[
+"Birka and Hovgården",
+10,
+[
+"Birka och Hovgården"
+]
+],
+[
+"Babelsberg Park",
+10,
+[]
+],
+[
+"Palais de la Berbie",
+10,
+[]
+],
+[
+"Archaeological Heritage of the Lenggong Valley",
+10,
+[]
+],
+[
+"Kaeng Krachan Forest Complex",
+10,
+[]
+],
+[
+"New Dutch Waterline",
+10,
+[
+"NHW",
+"Nieuwe Hollandse Waterlinie"
+]
+],
+[
+"Santa Casa da Misericórdia",
+10,
+[
+"Holy House of Mercy of Macau",
+"Santa Casa da Misericordia"
+]
+],
+[
+"St. Joseph's Seminary and Church",
+10,
+[]
+],
+[
+"Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang",
+10,
+[]
+],
+[
+"Historic Monuments of Dengfeng in “The Centre of Heaven and Earth”",
+10,
+[]
+],
+[
+"Tikal National Park",
+10,
+[]
+],
+[
+"Lower Valley of the Awash",
+10,
+[]
+],
+[
+"Colonies of Benevolence",
+10,
+[]
+],
+[
+"Le Colline del Prosecco di Conegliano e Valdobbiadene",
+10,
+[
+"Prosecco Hills of Conegliano and Valdobbiadene",
+"The Prosecco Hills of Conegliano and Valdobbiadene"
+]
+],
+[
+"Tomb of Isa Khan",
+10,
+[
+"Isa Khan Niyazi's Tomb",
+"Isa Khan's Tomb",
+"Tomb of Isa Khan Niazi"
+]
+],
+[
+"Coro and its Port",
+10,
+[]
+],
+[
+"Human Rights, Liberation and Reconciliation: Nelson Mandela Legacy Sites",
+10,
+[]
+],
+[
+"Historic Centre of Arequipa",
+10,
+[]
+],
+[
+"Zapovednik Wrangel Island",
+10,
+[
+"Остров Врангеля заповедник"
+]
+],
+[
+"San Antonio Missions",
+9,
+[]
+],
+[
+"Evaporitic Karst and Caves of Northern Apennines",
+9,
+[]
+],
+[
+"The system of Italian-style condominio theatres of the 18th and 19th centuries in Central Italy",
+9,
+[
+"System of Italian-style condominio theatres of the 18th and 19th centuries in Central Italy"
+]
+],
+[
+"Moravian Church Settlements",
+9,
+[]
+],
+[
+"Cambodian Memorial Sites: From centres of repression to places of peace and reflection",
+9,
+[]
+],
+[
+"Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangüé",
+9,
+[
+"Jesuit Missions of La Santisima Trinidad de Parana and Jesus de Tavarangue"
+]
+],
+[
+"Western Tian Shan",
+9,
+[
+"Western Tien-Shan"
+]
+],
+[
+"Cathedral and Churches of Echmiatsin and the Archaeological Site of Zvartnots",
+9,
+[]
+],
+[
+"Monastery of San Francisco",
+9,
+[]
+],
+[
+"Murujuga National Park",
+9,
+[
+"Murujuga",
+"Murujuga N.P."
+]
+],
+[
+"Royal Palace Museum",
+9,
+[
+"King Toffa's Palace"
+]
+],
+[
+"Centro Histórico de Angra do Heroísmo",
+9,
+[
+"Centro Historico de Angra do Heroismo"
+]
+],
+[
+"Étaples Military Cemetery",
+9,
+[
+"Etaples Military Cemetery"
+]
+],
+[
+"Archaeological Ensemble of Tárraco",
+9,
+[
+"Archaeological Ensemble of Tarraco",
+"Archaeological Ensemble of Tarragona"
+]
+],
+[
+"St. Peter's Church",
+9,
+[]
+],
+[
+"Sir Robert Ho Tung Library",
+9,
+[]
+],
+[
+"Beaches of the D-Day Landings, Normandy, 1944",
+9,
+[
+"D-Day beaches",
+"D-Day landing beaches",
+"D-Day Normandy beaches",
+"Normandy battle beaches",
+"Normandy beaches"
+]
+],
+[
+"Ancient Capitals of Asuka and Fujiwara",
+9,
+[
+"Asuka-Fujiwara",
+"Asuka-Fujiwara: Archaeological sites of Japan’s Ancient Capitals and Related Properties"
+]
+],
+[
+"Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er",
+9,
+[
+"Ancient Tea Plantations of Jingmai"
+]
+],
+[
+"Mazagan",
+9,
+[
+"El Jadida",
+"Fortress of El Jadida",
+"magazazan españa",
+"Mazagan, Jadida, El Jadida",
+"Mazagão",
+"Portuguese City of Mazagan (El Jadida)",
+"Praça de Mazagão"
+]
+],
+[
+"Vladslo German war cemetery",
+9,
+[]
+],
+[
+"Zendan-e Soleyman",
+9,
+[
+"Kūh-e Zendān-e Soleymān"
+]
+],
+[
+"Hoi An Ancient Town",
+9,
+[
+"Hoi An Old Town"
+]
+],
+[
+"Boma-Badingilo Migratory Landscape",
+9,
+[
+"Boma–Badingilo Migratory Landscape"
+]
+],
+[
+"Konso Cultural Landscape",
+9,
+[]
+],
+[
+"Wörlitzer Park",
+9,
+[
+"Wörlitz Park"
+]
+],
+[
+"Adur Gushnasp",
+9,
+[
+"Adur Gushnasp Fire Temple",
+"Adur Gushnasp Temple",
+"Athur Gushnasp",
+"Athur-Gushnasp",
+"Azargoshnasp"
+]
+],
+[
+"The Tomioka Silk Mill and Related Industrial Heritage",
+9,
+[
+"Tomioka Silk Mill and Related Sites"
+]
+],
+[
+"old town of Cáceres",
+9,
+[
+"old town of Caceres"
+]
+],
+[
+"Old Sana'a",
+8,
+[
+"Old City of Sana"
+]
+],
+[
+"Petroglyphs along the Bangucheon Stream",
+8,
+[]
+],
+[
+"Limes Dacicus",
+8,
+[
+"Dacian limes",
+"Frontiers of the Roman Empire - Dacia",
+"Limes Daciae"
+]
+],
+[
+"Aachen Cathedral Treasury",
+8,
+[]
+],
+[
+"The Complex of Yen Tu Monuments and Landscape",
+8,
+[
+"Yen Tu-Vinh Nghiem-Con Son, Kiep Bac Complex of Monuments and Landscapes"
+]
+],
+[
+"Coffee Cultural Landscape of Colombia",
+8,
+[]
+],
+[
+"Neuville-St Vaast German war cemetery",
+8,
+[]
+],
+[
+"Late Baroque Towns of the Val di Noto",
+8,
+[]
+],
+[
+"Park an der Ilm",
+8,
+[]
+],
+[
+"Sam Kai Vui Kun",
+8,
+[
+"Kuan Tai Temple"
+]
+],
+[
+"Pitons, cirques and remparts of Reunion Island",
+8,
+[]
+],
+[
+"Notre Dame de Lorette National Cemetery",
+8,
+[]
+],
+[
+"Central Amazon Conservation Complex",
+8,
+[]
+],
+[
+"National Archaeological Museum of Paestum",
+8,
+[
+"National Archaeological Museum Paestum"
+]
+],
+[
+"Historic Sanctuary of Machu Picchu",
+8,
+[]
+],
+[
+"Pilot Plan of Brasília",
+8,
+[]
+],
+[
+"Historic Centre of Puebla",
+8,
+[]
+],
+[
+"Tower of Iglesia de San Salvador",
+8,
+[]
+],
+[
+"Collegiate church of Santa María",
+8,
+[
+"Collegiate church of Santa Maria",
+"Collegiate Church of the Assumption of Our Lady"
+]
+],
+[
+"Routes of Santiago de Compostela: Camino Francés and Routes of Northern Spain",
+8,
+[]
+],
+[
+"Saint Julien Memorial",
+8,
+[
+"St. Julien Memorial",
+"The Brooding Soldier"
+]
+],
+[
+"Casa Garden",
+8,
+[]
+],
+[
+"St. Louis the King Cathedral, San Luis Potosí",
+8,
+[]
+],
+[
+"Kaas Plateau",
+8,
+[]
+],
+[
+"Modernist Kaunas: Architecture of Optimism, 1919-1939",
+8,
+[
+"Kaunas 1919-1939: The Capital Inspired by the Modern Movement",
+"Modernist architecture in Kaunas"
+]
+],
+[
+"Dutch Water Defence Lines",
+8,
+[]
+],
+[
+"The Colonial Transisthmian Route of Panamá",
+8,
+[]
+],
+[
+"St. Anthony's Church",
+8,
+[]
+],
+[
+"Historic Center of Quito",
+8,
+[
+"City of Quito"
+]
+],
+[
+"Old city (Dubrovnik)",
+8,
+[
+"Old City of Dubrovnik"
+]
+],
+[
+"Cadeia da Relação",
+8,
+[]
 ]
 ]

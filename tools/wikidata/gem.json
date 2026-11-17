@@ -1,310 +1,675 @@
 [
 [
 "diamond",
-167
+167,
+[
+"cut diamond"
+]
 ],
 [
 "pearl",
-121
+121,
+[]
 ],
 [
 "emerald",
-109
+109,
+[]
 ],
 [
 "ruby",
-106
+106,
+[]
 ],
 [
 "sapphire",
-100
+100,
+[]
 ],
 [
 "amethyst",
-94
+94,
+[
+"Brazilian amethyst"
+]
 ],
 [
 "agate",
-88
+88,
+[
+"SiO2",
+"SiO₂"
+]
 ],
 [
 "lapis lazuli",
-80
+80,
+[
+"lapis"
+]
 ],
 [
 "jade",
-74
+74,
+[]
 ],
 [
 "carnelian",
-60
+60,
+[
+"cornelian"
+]
 ],
 [
 "jet",
-46
+46,
+[]
 ],
 [
 "peridot",
-43
+43,
+[
+"chrysolite",
+"olvine",
+"topaz of Theophrastus"
+]
 ],
 [
 "nephrite",
-41
+41,
+[]
 ],
 [
 "brilliant",
-40
+40,
+[
+"brilliant diamond"
+]
 ],
 [
 "blood diamond",
-38
+38,
+[
+"conflict diamond",
+"converted diamond",
+"hot diamond",
+"war diamond"
+]
 ],
 [
 "synthetic diamond",
-37
+37,
+[
+"artificial diamond",
+"berlian artifisial",
+"berlian budidaya",
+"berlian hasil lab",
+"berlian hasil laboratorium",
+"berlian imitasi",
+"berlian sintesis",
+"berlian tiruan",
+"BHL",
+"cultivated diamond",
+"cultured diamond",
+"lab-grown diamond",
+"lab-grown diamonds",
+"LGD",
+"LGDs"
+]
 ],
 [
 "Cintāmaṇi",
-29
+29,
+[]
 ],
 [
 "afghanite",
-24
+24,
+[
+"IMA1967-041"
+]
 ],
 [
 "engraved gem",
-22
+22,
+[
+"intaglio"
+]
 ],
 [
 "carbonado",
-21
+21,
+[
+"black diamond"
+]
 ],
 [
 "cabochon",
-20
+20,
+[]
 ],
 [
 "yttrium aluminium garnet",
-19
+19,
+[
+"YAG"
+]
 ],
 [
 "sardonyx",
-18
+18,
+[]
 ],
 [
 "Aggregated diamond nanorod",
-18
+18,
+[
+"ADNRs"
+]
 ],
 [
 "heliodor",
-16
+16,
+[]
 ],
 [
 "bort",
-15
+15,
+[
+"boart",
+"boort",
+"diamond grains",
+"diamond partikels",
+"diamond powder",
+"diamond waste"
+]
 ],
 [
 "birthstone",
-14
+14,
+[]
 ],
 [
 "moss agate",
-14
+14,
+[]
 ],
 [
 "ammolite",
-14
+14,
+[]
 ],
 [
 "precious stone",
-13
+13,
+[]
 ],
 [
 "Chinese jade",
-10
+10,
+[]
 ],
 [
 "semiprecious stone",
-8
+8,
+[
+"semi-precious gem",
+"semi-precious gemstone",
+"semiprecious gemstone"
+]
 ],
 [
 "carbuncle",
-7
+7,
+[]
 ],
 [
 "Golconda Diamonds",
-7
+7,
+[]
 ],
 [
 "Eilat stone",
-7
+7,
+[]
 ],
 [
 "cymophane",
-7
+7,
+[
+"cat's eye chrysoberyl",
+"chrysoberyl cat's eye"
+]
 ],
 [
 "opalite",
-7
+7,
+[
+"Opalite"
+]
 ],
 [
 "ballas",
-7
+7,
+[
+"shot bort"
+]
 ],
 [
 "rough diamond",
-6
+6,
+[]
 ],
 [
 "padparadscha",
-6
+6,
+[
+"padparadscha sapphire"
+]
 ],
 [
 "diamond simulant",
-6
+6,
+[
+"diamond imitation",
+"diamond substitute",
+"imitation diamond",
+"simulated diamond",
+"substitute diamond"
+]
 ],
 [
 "maw sit sit",
-6
+6,
+[
+"jade-albite"
+]
 ],
 [
 "Minoan sealstone",
-6
+6,
+[
+"Minoan seal"
+]
 ],
 [
 "pink diamond",
-5
+5,
+[]
 ],
 [
 "nanodiamonds",
-5
+5,
+[
+"nanodiamond"
+]
 ],
 [
 "trapiche emerald",
-5
+5,
+[]
 ],
 [
 "blue diamond",
-5
+5,
+[]
 ],
 [
 "brown diamond",
-5
+5,
+[
+"chocolate diamond",
+"coffee diamond",
+"cognac diamond"
+]
 ],
 [
 "plasma agate",
-4
+4,
+[]
 ],
 [
 "Colombian emerald",
-4
+4,
+[]
 ],
 [
 "lyngurium",
-4
+4,
+[
+"ligure",
+"ligurium"
+]
 ],
 [
 "cat's eye quartz",
-4
+4,
+[
+"quartz cat's eye"
+]
 ],
 [
 "blue lace agate",
-4
+4,
+[]
 ],
 [
 "red diamond",
-4
+4,
+[]
 ],
 [
 "trapiche crystal",
-4
+4,
+[
+"trapiche mineral"
+]
 ],
 [
 "Cardinal gem",
-4
+4,
+[]
 ],
 [
 "Isotopically pure diamond",
-4
+4,
+[]
 ],
 [
 "Lake Superior agate",
-4
+4,
+[]
 ],
 [
 "Lapis armenus",
-4
+4,
+[
+"Armenian stone",
+"lapis stellatus"
+]
 ],
 [
 "gem",
-3
+3,
+[
+"semiprecious stone"
+]
 ],
 [
 "rose diamond",
-3
+3,
+[]
 ],
 [
 "color diamond",
-3
+3,
+[
+"colored diamond",
+"colorful diamond"
+]
 ],
 [
 "sapphire glass",
-3
+3,
+[]
 ],
 [
 "aetites",
-3
+3,
+[
+"eagle-stone"
+]
 ],
 [
 "sardine",
-3
+3,
+[]
 ],
 [
 "Derbyshire Blue John",
-3
+3,
+[
+"Blue John",
+"Derbyshire Spar"
+]
 ],
 [
 "Umba sapphire",
-3
+3,
+[]
 ],
 [
 "Taiwan Black Jade",
-2
+2,
+[]
 ],
 [
 "Taiwan Jade",
-2
+2,
+[]
 ],
 [
 "tumble-polished stones",
-2
+2,
+[]
 ],
 [
 "synthetic gemstone",
-2
+2,
+[
+"artificial gemstone",
+"lab-grown gemstone",
+"synthetic gem"
+]
 ],
 [
 "industrial diamond",
-2
+2,
+[]
 ],
 [
 "cat's eye",
-2
+2,
+[]
 ],
 [
 "Akik",
-2
+2,
+[
+"Aqiq"
+]
 ],
 [
 "assembled gem",
-2
+2,
+[
+"composite gem",
+"mosaic gem"
+]
 ],
 [
 "doublet (lapidary)",
-2
+2,
+[]
 ],
 [
 "Enhydro agate",
-2
+2,
+[]
+],
+[
+"golden aura",
+1,
+[]
+],
+[
+"black opal",
+1,
+[]
+],
+[
+"Dur",
+1,
+[
+"Durri"
+]
+],
+[
+"Jewels of James III of Scotland",
+1,
+[]
+],
+[
+"Condor agate",
+1,
+[]
+],
+[
+"Botswana agate",
+1,
+[]
+],
+[
+"scolecite agate",
+1,
+[]
+],
+[
+"boomagate",
+1,
+[]
+],
+[
+"Fairburn Agate",
+1,
+[]
+],
+[
+"rose",
+1,
+[]
+],
+[
+"Patuxent River stone",
+1,
+[]
+],
+[
+"Tide jewels",
+1,
+[]
+],
+[
+"Jade of Itoigawa",
+1,
+[]
+],
+[
+"precious opal",
+0,
+[]
+],
+[
+"organic gem",
+0,
+[
+"organic gemstone"
+]
+],
+[
+"synthetic emerald",
+0,
+[]
+],
+[
+"agate-jasper",
+0,
+[
+"jasp-agate"
+]
+],
+[
+"boron-doped diamond",
+0,
+[
+"BDD"
+]
+],
+[
+"azurite-malachite",
+0,
+[
+"azure-malachite",
+"azurmalachite",
+"bluebird"
+]
+],
+[
+"star garnet",
+0,
+[]
+],
+[
+"golden beryl",
+0,
+[]
+],
+[
+"iolite",
+0,
+[]
+],
+[
+"spinach-green jade",
+0,
+[
+"spinach green jade"
+]
+],
+[
+"white jade",
+0,
+[]
+],
+[
+"green jade",
+0,
+[]
+],
+[
+"celadon-white jade",
+0,
+[
+"green white jade"
+]
+],
+[
+"purple gemstone",
+0,
+[
+"lavender gemstone",
+"purple mineral",
+"purple precious stone",
+"violet gemstone"
+]
+],
+[
+"precious stones",
+0,
+[]
+],
+[
+"coral",
+0,
+[
+"precious coral"
+]
+],
+[
+"Mycenaean sealstone",
+0,
+[
+"Mycenaean seal"
+]
 ]
 ]

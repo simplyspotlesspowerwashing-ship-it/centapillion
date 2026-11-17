@@ -83,3 +83,139 @@ Vodyanoy
 Firebird
 Zmey
 Koschei
+Yuki-onna
+Apsara
+Ifrit
+Pooka=puca
+Dybbuk
+Lilith
+Ziz
+Bahamut
+Behemoth
+Leviathan
+Tarasque
+Questing Beast
+Bonnacon
+Catoblepas
+Amphisbaena
+Peryton
+Wolpertinger
+Rasselbock
+Skvader
+Hodag
+Snallygaster
+Squonk
+Fearsome Critters
+Wampus Cat
+Tikbalang
+Aswang
+Manananggal
+Kapre
+Duwende
+Pontianak
+Penanggalan
+Toyol
+Orang Bunian
+Barong
+Rangda
+Leyak
+Bakeneko
+Nekomata
+Nurikabe
+Rokurokubi
+Kuchisake-onna
+Tsuchinoko
+Umibozu
+Kasa-obake
+Ittan-momen
+Futakuchi-onna
+Hitotsume-kozo
+Zashiki-warashi
+Gumiho
+Haetae
+Bulgasari
+Dokkaebi
+Bai Ze
+Xiezhi
+Taotie
+Hundun
+Fenghuang
+Long
+Kirin
+Kun
+Peng
+Jingwei
+Bixi
+Yazi
+Chiwen
+Mo
+Shenlong
+Ammit
+Bennu
+Sphinx
+Apep
+Serpopard
+Griffin
+Lamassu
+Shedu
+Anzu
+Pazuzu
+Humbaba
+Mushussu
+Tiamat
+Kur
+Bunyip
+Yara-ma-yha-who
+Muldjewangk
+Drop Bear
+Hoop Snake
+Mokele-mbembe
+Grootslang
+Tokoloshe
+Impundulu
+Popobawa
+Adze
+Anansi
+Mami Wata
+Ninki Nanka
+Camahueto
+Trauco
+Basilisco Chilote
+Caleuche
+Curupira
+Saci
+Boitata
+Mapinguari
+Encantado
+Boto
+Lobisomem
+Chupacabra
+La Llorona
+Cadejo
+Nahual
+Tlaloc
+Quetzalcoatl
+Ahuizotl
+Cipactli
+Camazotz
+Ogopogo
+Champ
+Memphre
+Bessie
+Flathead Lake Monster
+Thunderbird
+Uktena
+Piasa
+Horned Serpent
+Mishipeshu
+Underwater Panther
+Wechuge
+Qalupalik
+Adlet
+Akhlut
+Amarok
+Tizheruk
+Sedna
+Raven
+Coyote
+Trickster

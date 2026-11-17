@@ -1,1490 +1,3259 @@
 [
 [
 "ramen",
-81
+81,
+[]
 ],
 [
 "goulash",
-74
+74,
+[
+"Hungarian goulash"
+]
 ],
 [
 "miso soup",
-53
+53,
+[
+"miso shiru"
+]
 ],
 [
 "chicken soup",
-45
+45,
+[
+"chicken noodle soup"
+]
 ],
 [
 "shchi",
-44
+44,
+[]
 ],
 [
 "bouillabaisse",
-43
+43,
+[]
 ],
 [
 "tomato soup",
-42
+42,
+[]
 ],
 [
 "lentil soup",
-42
+42,
+[
+"Mercimek çorba",
+"Mercimek çorbası",
+"Mercimek soup"
+]
 ],
 [
 "Harira",
-41
+41,
+[]
 ],
 [
 "solyanka",
-38
+38,
+[]
 ],
 [
 "pot-au-feu",
-34
+34,
+[]
 ],
 [
 "Consommé",
-33
+33,
+[
+"Consomme"
+]
 ],
 [
 "hot pot",
-33
+33,
+[
+"huo guo",
+"huoguo",
+"steamboat"
+]
 ],
 [
 "chorba",
-33
+33,
+[
+"shorba"
+]
 ],
 [
 "Shark Fin Soup",
-32
+32,
+[]
 ],
 [
 "kharcho",
-31
+31,
+[]
 ],
 [
 "Rasam",
-30
+30,
+[]
 ],
 [
 "sorrel soup",
-30
+30,
+[
+"green borscht",
+"green shchi",
+"green soup",
+"schav",
+"shav",
+"shchav",
+"shtshav"
+]
 ],
 [
 "Vichyssoise",
-29
+29,
+[]
 ],
 [
 "avgolemono",
-28
+28,
+[]
 ],
 [
 "sour rye soup",
-28
+28,
+[
+"kyselo",
+"West Slavic fermented cereal soups",
+"zur",
+"żur",
+"zurek",
+"żurek"
+]
 ],
 [
 "rassolnik",
-27
+27,
+[]
 ],
 [
 "chowder",
-27
+27,
+[
+"Chowder"
+]
 ],
 [
 "Haleem",
-27
+27,
+[
+"Halim"
+]
 ],
 [
 "fish soup",
-27
+27,
+[]
 ],
 [
 "ribollita",
-25
+25,
+[]
 ],
 [
 "rawon",
-25
+25,
+[]
 ],
 [
 "Aush",
-25
+25,
+[
+"aash",
+"ash",
+"āsh",
+"āshe"
+]
 ],
 [
 "bosintang",
-25
+25,
+[
+"Posintang"
+]
 ],
 [
 "nihari",
-24
-],
-[
-"egg drop soup",
-23
-],
-[
-"noodle soup",
-23
-],
-[
-"pozole",
-23
-],
-[
-"turtle soup",
-23
-],
-[
-"nettle soup",
-23
+24,
+[]
 ],
 [
 "Caldo verde",
-23
+23,
+[]
+],
+[
+"egg drop soup",
+23,
+[]
+],
+[
+"noodle soup",
+23,
+[]
+],
+[
+"pozole",
+23,
+[
+"pozoluquis"
+]
+],
+[
+"turtle soup",
+23,
+[]
+],
+[
+"nettle soup",
+23,
+[
+"utrica soup"
+]
 ],
 [
 "ajoblanco",
-22
+22,
+[
+"ajo blanco"
+]
 ],
 [
 "Thukpa",
-22
+22,
+[]
 ],
 [
 "tteokguk",
-22
+22,
+[]
 ],
 [
 "pasta e fagioli",
-21
+21,
+[
+"pasta fagioli",
+"pasta fasul",
+"pasta fazool"
+]
 ],
 [
 "beer soup",
-21
+21,
+[]
 ],
 [
 "budae-jjigae",
-21
+21,
+[
+"army base stew",
+"sausage stew"
+]
 ],
 [
 "soup joumou",
-21
+21,
+[
+"Freedom soup",
+"Freedom Soup",
+"Haitian pumpkin soup",
+"Independence Soup",
+"Joumou soup",
+"soupe au giraumon",
+"Soup jouwoumou"
+]
 ],
 [
 "Tonjiru",
-20
+20,
+[
+"Butajiru"
+]
 ],
 [
 "vegetable soup",
-20
+20,
+[]
 ],
 [
 "peanut soup",
-20
+20,
+[
+"groundnut soup",
+"Ground nut soup"
+]
 ],
 [
 "soto",
-20
+20,
+[
+"coto",
+"sroto",
+"tauto"
+]
 ],
 [
 "magiritsa",
-20
+20,
+[]
 ],
 [
 "potato soup",
-20
+20,
+[]
 ],
 [
 "Bissara",
-20
+20,
+[
+"Besara",
+"Beyssar",
+"Beyssara"
+]
 ],
 [
 "Miyeok-guk",
-20
+20,
+[
+"Korean birthday soup"
+]
 ],
 [
 "bún bò Huế",
-19
+19,
+[
+"Bun bo Hue",
+"rice noodle and beef soup of Hue"
+]
 ],
 [
 "Piperade",
-19
+19,
+[
+"Piperrada"
+]
 ],
 [
 "Acquacotta",
-19
+19,
+[]
 ],
 [
 "potage",
-19
+19,
+[
+"pottage",
+"Pottage"
+]
 ],
 [
 "mushroom soup",
-18
+18,
+[]
 ],
 [
 "escudella",
-18
+18,
+[
+"escudella i carn d'olla"
+]
 ],
 [
 "instant soup",
-18
+18,
+[]
 ],
 [
 "rose hip soup",
-18
+18,
+[]
 ],
 [
 "Zosui",
-17
+17,
+[]
 ],
 [
 "sancoche",
-17
+17,
+[
+"sancocho",
+"sangkochie"
+]
 ],
 [
 "Kadhi",
-17
+17,
+[
+"Curry",
+"Kadi (food)",
+"Karhi",
+"Khaddi"
+]
 ],
 [
 "jeongol",
-16
+16,
+[
+"hot pot"
+]
 ],
 [
 "Buddha Jumps Over the Wall",
-16
+16,
+[
+"Buddha's Temptation"
+]
 ],
 [
 "Pisto",
-16
+16,
+[]
 ],
 [
 "pancake soup",
-16
+16,
+[]
 ],
 [
 "tong sui",
-16
+16,
+[]
 ],
 [
 "sour cherry soup",
-16
+16,
+[]
 ],
 [
 "Garbure",
-16
+16,
+[]
 ],
 [
 "Rumford's Soup",
-16
+16,
+[
+"economy soup"
+]
 ],
 [
 "Chikhirtma",
-16
+16,
+[]
 ],
 [
 "oxtail soup",
-16
+16,
+[]
 ],
 [
 "cullen skink",
-16
+16,
+[]
 ],
 [
 "guk",
-16
+16,
+[
+"tang"
+]
 ],
 [
 "stracciatella",
-15
+15,
+[]
 ],
 [
 "garlic soup",
-15
+15,
+[]
 ],
 [
 "bird's nest soup",
-15
+15,
+[]
 ],
 [
 "hōtō",
-15
+15,
+[]
 ],
 [
 "Afang",
-15
+15,
+[
+"Afang soup",
+"Spinach And Okazi Leaves (Afang)"
+]
 ],
 [
 "yong tau foo",
-15
+15,
+[
+"ngiòng theu fú",
+"stuffed bean curd",
+"yen ta fo",
+"yen tafo",
+"yentafo",
+"yin ta fo",
+"yin tafo",
+"yong tao foo",
+"yong tau fu",
+"yong tau hu",
+"yong theu fu",
+"yong tofu"
+]
 ],
 [
 "yukgaejang",
-14
+14,
+[]
 ],
 [
 "bread soup",
-14
+14,
+[]
 ],
 [
 "krupnik",
-14
+14,
+[]
 ],
 [
 "olla podrida",
-14
+14,
+[]
 ],
 [
 "bubur kacang hijau",
-14
+14,
+[]
 ],
 [
 "Ash Reshteh",
-14
+14,
+[
+"ash e-reshteh",
+"āsh e reshteh",
+"Aush reshteh"
+]
 ],
 [
 "seolleongtang",
-14
+14,
+[]
 ],
 [
 "sinseollo",
-14
+14,
+[
+"royal hot pot",
+"sinseonlo",
+"sinseonro"
+]
 ],
 [
 "Cocido madrileño",
-13
+13,
+[]
 ],
 [
 "sujebi",
-13
+13,
+[
+"hand-pulled dough soup",
+"Suiton",
+"ttŭdŏ-guk"
+]
 ],
 [
 "spinach soup",
-13
+13,
+[
+"Spinach soup"
+]
 ],
 [
 "Nam ngiao",
-13
+13,
+[]
 ],
 [
 "snake soup",
-13
+13,
+[
+"Cantonese snake soup",
+"Chinese snake soup"
+]
 ],
 [
 "sayur asem",
-13
+13,
+[]
 ],
 [
 "mock turtle soup",
-13
+13,
+[]
 ],
 [
 "Ezogelin soup",
-13
+13,
+[
+"Ezo Gelin",
+"Ezogelin çorba",
+"Ezogelin çorbası"
+]
 ],
 [
 "Açorda",
-13
+13,
+[
+"açorda à Alentejana"
+]
 ],
 [
 "Suaasat",
-13
+13,
+[]
 ],
 [
 "soto mie",
-12
+12,
+[]
 ],
 [
 "Nauryz kozhe",
-12
+12,
+[
+"March soup",
+"Nauryz koje",
+"Nooruz kozhe"
+]
 ],
 [
 "cold sweet soup",
-12
+12,
+[
+"cold soup"
+]
 ],
 [
 "Rosół",
-12
+12,
+[]
 ],
 [
 "peppersoup",
-12
+12,
+[
+"pepper soup"
+]
 ],
 [
 "cream soup",
-12
+12,
+[
+"puréed soup"
+]
 ],
 [
 "malatang",
-12
+12,
+[
+"spicy hot pot",
+"spicy numbing hot pot",
+"spicy numbing hot soup"
+]
 ],
 [
 "Pappa",
-12
+12,
+[]
 ],
 [
 "sayur lodeh",
-12
+12,
+[]
 ],
 [
 "cheese soup",
-12
+12,
+[]
 ],
 [
 "corn soup",
-12
+12,
+[]
 ],
 [
 "yayla çorbası",
-12
+12,
+[
+"yayla soup",
+"yoğurt çorbası"
+]
 ],
 [
 "Pasulj",
-11
+11,
+[
+"Serbian bean soup"
+]
 ],
 [
 "Cazuela",
-11
+11,
+[]
 ],
 [
 "gulyásleves",
-11
+11,
+[
+"goulash soup"
+]
 ],
 [
 "wedding soup",
-11
+11,
+[
+"Italian wedding soup"
+]
 ],
 [
 "tongseng",
-11
+11,
+[]
 ],
 [
 "borș",
-11
+11,
+[]
 ],
 [
 "Batchoy",
-11
+11,
+[]
 ],
 [
 "Kalehjoosh",
-11
+11,
+[
+"Eshkaneh Kashk",
+"Keledoş"
+]
 ],
 [
 "nimono",
-11
+11,
+[]
 ],
 [
 "ogbono soup",
-11
+11,
+[
+"draw soup"
+]
 ],
 [
 "paya",
-11
+11,
+[
+"siri paya"
+]
 ],
 [
 "sundubu-jjigae",
-11
+11,
+[]
 ],
 [
 "sweet potato soup",
-10
+10,
+[]
 ],
 [
 "fruit soup",
-10
+10,
+[]
 ],
 [
 "cockchafer soup",
-10
+10,
+[]
 ],
 [
 "chicken and dumplings",
-10
+10,
+[]
 ],
 [
 "Lime soup",
-10
+10,
+[
+"sopa de lima"
+]
 ],
 [
 "changua",
-10
+10,
+[]
 ],
 [
 "Scotch broth",
-10
+10,
+[]
 ],
 [
 "cock-a-leekie soup",
-10
+10,
+[]
 ],
 [
 "Encebollado nació en Guayaquil, en los astilleros y puertos de la ciudad de Guayaquil.",
-10
+10,
+[
+"Cebolla"
+]
 ],
 [
 "tom yum kung",
-10
+10,
+[
+"Tom yam kung",
+"Tom yum goong"
+]
 ],
 [
 "Cozido à portuguesa",
-10
+10,
+[
+"Cozido a portuguesa"
+]
 ],
 [
 "Sopa de mondongo",
-10
+10,
+[]
 ],
 [
 "tinola",
-10
+10,
+[]
 ],
 [
 "Buridda",
-10
+10,
+[]
 ],
 [
 "bun rieu",
-10
+10,
+[
+"bún riêu"
+]
 ],
 [
 "Guoqiao Mixian",
-10
+10,
+[]
 ],
 [
 "suimono",
-10
+10,
+[]
 ],
 [
 "sup kambing",
-10
+10,
+[]
 ],
 [
 "Achu soup",
-10
+10,
+[
+"Achu (soup)",
+"Yellow soup"
+]
 ],
 [
 "Caldo galego",
-9
+9,
+[
+"бульон по-галисийски",
+"кальдо гальего"
+]
 ],
 [
 "Summer soup",
-9
+9,
+[
+"Kesäkeitto"
+]
 ],
 [
 "galbi-tang",
-9
+9,
+[]
 ],
 [
 "Bob chorba",
-9
+9,
+[]
 ],
 [
 "macaroni soup",
-9
+9,
+[]
 ],
 [
 "okra soup",
-9
+9,
+[
+"Okro soup"
+]
 ],
 [
 "ash-e doogh",
-9
+9,
+[
+"ashe doogh"
+]
 ],
 [
 "Bouneschlupp",
-9
+9,
+[]
 ],
 [
 "vorí vorí de pollo",
-9
+9,
+[
+"bori-bori"
+]
 ],
 [
 "bánh canh",
-9
+9,
+[
+"banh canh"
+]
 ],
 [
 "Ching bo leung",
-9
+9,
+[]
 ],
 [
 "frejon",
-9
+9,
+[]
 ],
 [
 "tortilla soup",
-9
+9,
+[]
 ],
 [
 "Tacacá",
-9
+9,
+[
+"Tacaca"
+]
 ],
 [
 "Tekwan",
-9
+9,
+[]
 ],
 [
 "Imoni",
-9
+9,
+[]
 ],
 [
 "Kulajda",
-9
+9,
+[]
 ],
 [
 "gukbap",
-8
+8,
+[
+"rice soup"
+]
 ],
 [
 "soup",
-8
+8,
+[]
 ],
 [
 "Egusi soup",
-8
+8,
+[
+"egwusi",
+"Melon soup",
+"ofe egusi"
+]
 ],
 [
 "ciorbă de perișoare",
-8
+8,
+[]
 ],
 [
 "Kenchinjiru",
-8
+8,
+[]
 ],
 [
 "chorba frik",
-8
+8,
+[]
 ],
 [
 "kololak",
-8
+8,
+[]
 ],
 [
 "Kwati",
-8
+8,
+[]
 ],
 [
 "Milk soup",
-8
+8,
+[]
 ],
 [
 "Soupou Kandja",
-8
+8,
+[
+"Soup Kandia"
+]
 ],
 [
 "Chupe",
-8
+8,
+[]
 ],
 [
 "Cotriade",
-8
+8,
+[]
 ],
 [
 "black sesame soup",
-8
+8,
+[
+"black sesame paste"
+]
 ],
 [
 "ragout fin",
-8
+8,
+[
+"fine ragout"
+]
 ],
 [
 "Jókai Bean Soup",
-8
+8,
+[
+"Jokai Bean Soup"
+]
 ],
 [
 "elderberry soup",
-8
+8,
+[]
 ],
 [
 "Kapustnica",
-8
+8,
+[]
 ],
 [
 "Bagnun",
-8
+8,
+[]
 ],
 [
 "Maccu",
-8
+8,
+[]
 ],
 [
 "Aguadito de pollo",
-8
+8,
+[
+"Aguadito"
+]
 ],
 [
 "baeksuk",
-8
+8,
+[]
 ],
 [
 "blood soup",
-8
+8,
+[]
 ],
 [
 "empal gentong",
-8
+8,
+[]
 ],
 [
 "toyga soup",
-8
+8,
+[]
 ],
 [
 "Konro Soup",
-8
+8,
+[]
 ],
 [
 "Abunuabunu",
-8
+8,
+[
+"Abubunabunu"
+]
 ],
 [
 "Abula",
-8
+8,
+[]
 ],
 [
 "Manchow soup",
-8
+8,
+[]
 ],
 [
 "Caldo tlalpeño",
-8
+8,
+[]
 ],
 [
 "tomato and egg soup",
-8
+8,
+[]
 ],
 [
 "Jiuniang",
-8
+8,
+[
+"láozāo"
+]
 ],
 [
 "Geng",
-8
+8,
+[]
 ],
 [
 "Sopa de lacassá",
-7
+7,
+[]
 ],
 [
 "Zuppa pavese",
-7
+7,
+[]
 ],
 [
 "onion soup",
-7
+7,
+[]
 ],
 [
 "Ofe Achara",
-7
+7,
+[]
 ],
 [
 "Tourin",
-7
+7,
+[]
 ],
 [
 "potée",
-7
+7,
+[]
 ],
 [
 "kaledo",
-7
+7,
+[]
 ],
 [
 "Palóc soup",
-7
+7,
+[]
 ],
 [
 "Spas",
-7
+7,
+[]
 ],
 [
 "Watercress soup",
-7
+7,
+[]
 ],
 [
 "ričet",
-7
+7,
+[]
 ],
 [
 "Alicot",
-7
+7,
+[]
 ],
 [
 "panada",
-7
+7,
+[]
 ],
 [
 "Cantonese seafood soup",
-7
+7,
+[]
 ],
 [
 "cream stew",
-7
+7,
+[]
 ],
 [
 "Fabes con almejas",
-7
+7,
+[]
 ],
 [
 "maraq",
-7
+7,
+[]
 ],
 [
 "pantruca",
-7
+7,
+[
+"pancucha",
+"pancutra"
+]
 ],
 [
 "hulatang",
-7
+7,
+[
+"hula soup",
+"hu la tang",
+"hula tang"
+]
 ],
 [
 "Kakavia",
-7
+7,
+[]
 ],
 [
 "Ollada",
-7
+7,
+[]
 ],
 [
 "Pig's organ soup",
-7
+7,
+[]
 ],
 [
 "piracaldo",
-7
+7,
+[]
 ],
 [
 "Svartsoppa",
-7
+7,
+[]
 ],
 [
 "Theeyal",
-7
+7,
+[]
 ],
 [
 "Analı kızlı soup",
-7
+7,
+[]
 ],
 [
 "Ofe Oha",
-6
+6,
+[
+"Oha soup"
+]
 ],
 [
 "Eka soup",
-6
+6,
+[
+"Beniseed soup"
+]
 ],
 [
 "miyan taushe",
-6
+6,
+[]
 ],
 [
 "Pawpaw soup",
-6
+6,
+[]
 ],
 [
 "Otong soup",
-6
+6,
+[]
 ],
 [
 "meatball soup",
-6
+6,
+[]
 ],
 [
 "papaitan",
-6
+6,
+[
+"pinapaitan"
+]
 ],
 [
 "sago soup",
-6
+6,
+[]
 ],
 [
 "Mami soup",
-6
+6,
+[]
 ],
 [
 "binte biluhuta",
-6
+6,
+[]
 ],
 [
 "bean soup",
-6
+6,
+[]
 ],
 [
 "she-crab soup",
-6
+6,
+[
+"crab soup"
+]
 ],
 [
 "pasta e ceci",
-6
+6,
+[]
 ],
 [
 "Cuchuco",
-6
+6,
+[]
 ],
 [
 "Alu tama",
-6
+6,
+[]
 ],
 [
 "zuppa toscana",
-6
+6,
+[]
 ],
 [
 "Kullama",
-6
+6,
+[]
 ],
 [
 "Soto Bandung",
-6
+6,
+[]
 ],
 [
 "Bún ốc",
-6
+6,
+[
+"snail vermicelli soup"
+]
 ],
 [
 "Caldo de siete mares",
-6
+6,
+[]
 ],
 [
 "imitation shark's fin soup",
-6
+6,
+[
+"street's shark's fin soup",
+"vegetarian shark fin soup"
+]
 ],
 [
 "Cocido lebaniego",
-6
+6,
+[]
 ],
 [
 "Nilaga",
-5
+5,
+[]
 ],
 [
 "wintermelon soup",
-5
+5,
+[]
 ],
 [
 "Afia Efere",
-5
+5,
+[
+"White soup"
+]
 ],
 [
 "Ofe Ujuju",
-5
+5,
+[]
 ],
 [
 "Snail pepper soup",
-5
+5,
+[]
 ],
 [
 "Soupe au pistou",
-5
+5,
+[]
 ],
 [
 "Brenebon",
-5
+5,
+[]
 ],
 [
 "Újházi",
-5
+5,
+[
+"Újházi chicken soup"
+]
 ],
 [
 "Juka",
-5
+5,
+[]
 ],
 [
 "Molagoottal",
-5
+5,
+[]
 ],
 [
 "Owo soup",
-5
+5,
+[
+"ofe owo",
+"ogh",
+"oghwevwri",
+"oghwo",
+"oghwo evwri",
+"oghwoevwri",
+"oghwo ofigbo",
+"ogwofibo",
+"owo",
+"owo soup",
+"Urhobo owho soup"
+]
 ],
 [
 "kak'ik",
-5
+5,
+[
+"kakik",
+"kaq-ik",
+"kaq'ik"
+]
 ],
 [
 "samlar kako",
-5
+5,
+[
+"samlar korko",
+"samlor kako",
+"samlor koko",
+"samlor korko",
+"somlaw koko"
+]
 ],
 [
 "Ming'oko",
-5
+5,
+[
+"Mingoko"
+]
 ],
 [
 "Sop saudara",
-5
+5,
+[]
 ],
 [
 "beyran",
-5
+5,
+[
+"Beyran soup"
+]
 ],
 [
 "Cup-a-Soup",
-5
+5,
+[]
 ],
 [
 "Atama soup",
-5
+5,
+[
+"Banga soup"
+]
 ],
 [
 "vegetable stock",
-5
+5,
+[
+"clear vegetable broth",
+"vegetable broth"
+]
 ],
 [
 "Okoho",
-5
+5,
+[]
 ],
 [
 "Bacon soup",
-5
+5,
+[]
 ],
 [
 "lobster stew",
-5
+5,
+[
+"Caldereta de langosta"
+]
 ],
 [
 "Binignit",
-5
+5,
+[]
 ],
 [
 "Khao poon",
-5
+5,
+[]
 ],
 [
 "brown Windsor soup",
-5
+5,
+[]
 ],
 [
 "bún mắm",
-5
+5,
+[
+"Vietnamese gumbo"
+]
 ],
 [
 "Chakna",
-5
+5,
+[]
 ],
 [
 "corn crab soup",
-5
+5,
+[]
 ],
 [
 "naengguk",
-5
+5,
+[
+"changuk"
+]
 ],
 [
 "Gazpachuelo",
-5
+5,
+[]
 ],
 [
 "mun tahu",
-5
+5,
+[]
 ],
 [
 "Sopa de pata",
-5
+5,
+[]
 ],
 [
 "Empanada",
-5
+5,
+[]
 ],
 [
 "Kiszczonka",
-5
+5,
+[]
 ],
 [
 "Porra antequerana",
-5
+5,
+[]
 ],
 [
 "prawn soup",
-5
+5,
+[
+"shrimp soup"
+]
 ],
 [
 "psarosoupa",
-5
+5,
+[]
 ],
 [
 "Sungeoguk",
-5
+5,
+[]
 ],
 [
 "taco soup",
-5
+5,
+[]
 ],
 [
 "Gopchang jeongol",
-5
+5,
+[]
 ],
 [
 "Siemieniotka",
-5
+5,
+[
+"Konopiotka"
+]
 ],
 [
 "Steckrübeneintopf",
-5
+5,
+[]
 ],
 [
 "suiton",
-5
+5,
+[]
 ],
 [
 "barley soup",
-4
+4,
+[]
 ],
 [
 "Margi special",
-4
+4,
+[
+"Margi cuisine"
+]
 ],
 [
 "Yam pepper soup",
-4
+4,
+[]
 ],
 [
 "soup curry",
-4
+4,
+[
+"supu kare",
+"sūpu karē"
+]
 ],
 [
 "kwaśnica",
-4
+4,
+[]
 ],
 [
 "ant egg soup",
-4
+4,
+[]
 ],
 [
 "Kapurung",
-4
+4,
+[]
 ],
 [
 "Soto Sokaraja",
-4
+4,
+[]
 ],
 [
 "Ila Alasepo",
-4
+4,
+[
+"ila asepo"
+]
 ],
 [
 "patsas",
-4
+4,
+[]
 ],
 [
 "Guthuk",
-4
+4,
+[]
 ],
 [
 "Plantain soup",
-4
+4,
+[]
 ],
 [
 "Utan",
-4
+4,
+[
+"Sinabawang gulay"
+]
 ],
 [
 "Talabaw",
-4
+4,
+[
+"talapaw"
+]
 ],
 [
 "Grießnockerlsuppe",
-4
+4,
+[]
 ],
 [
 "Pate acha",
-4
+4,
+[
+"gote",
+"pete acha",
+"tere"
+]
 ],
 [
 "miyar kuka",
-4
+4,
+[
+"baobab leaf soup",
+"baobab leaves soup",
+"baobab soup",
+"Luru soup",
+"miyan kuka"
+]
 ],
 [
 "Tom khlong",
-4
+4,
+[]
 ],
 [
 "Kawlata",
-4
+4,
+[]
 ],
 [
 "Clam soup",
-4
+4,
+[]
 ],
 [
 "dchicha",
-4
+4,
+[]
 ],
 [
 "Editan",
-4
+4,
+[]
 ],
 [
 "Shambar",
-4
+4,
+[]
 ],
 [
 "Asian soup",
-4
+4,
+[]
 ],
 [
 "Caldo de costilla",
-4
+4,
+[]
 ],
 [
 "Caparrones",
-4
+4,
+[]
 ],
 [
 "Chè bà ba",
-4
+4,
+[
+"Che ba ba"
+]
 ],
 [
 "Crème Ninon",
-4
+4,
+[
+"Creme Ninon"
+]
 ],
 [
 "egg tong sui",
-4
+4,
+[]
 ],
 [
 "Noppe",
-4
+4,
+[]
 ],
 [
 "Yeonpotang",
-4
+4,
+[]
 ],
 [
 "carne en su jugo",
-4
+4,
+[]
 ],
 [
 "Eshkeneh",
-4
+4,
+[]
 ],
 [
 "Tapado",
-4
+4,
+[]
 ],
 [
 "ajiaco",
-4
+4,
+[
+"ajiaco bogotano",
+"ajiaco santafereño"
+]
 ],
 [
 "Sopa de Gato",
-4
+4,
+[]
 ],
 [
 "soyo",
-4
+4,
+[
+"Soyo"
+]
 ],
 [
 "tutmaç soup",
-4
+4,
+[
+"tutmaç",
+"tutmaç çorbası"
+]
 ],
 [
 "ohaw",
-4
+4,
+[
+"rur"
+]
 ],
 [
 "Oille",
-4
+4,
+[]
 ],
 [
 "rössypottu",
-4
+4,
+[
+"rössypotut"
+]
 ],
 [
 "Sopa teologa",
-4
+4,
+[]
 ],
 [
 "Zuppa alla modenese",
-4
+4,
+[]
 ],
 [
 "Majorcan dry soup",
-4
+4,
+[
+"Mallorcan dry soup",
+"Mallorcan soup"
+]
 ],
 [
 "shirumono",
-4
+4,
+[]
 ],
 [
 "Canja de Goa",
-4
+4,
+[
+"Goan soup"
+]
 ],
 [
 "hotch pot",
-3
+3,
+[
+"hodge-podge"
+]
 ],
 [
 "Lyvzæ",
-3
+3,
+[
+"Lyvzа"
+]
 ],
 [
 "Tbikha",
-3
+3,
+[]
 ],
 [
 "Model (food)",
-3
+3,
+[]
 ],
 [
 "Soto Kediri",
-3
+3,
+[]
 ],
 [
 "timlo",
-3
+3,
+[
+"kimlo"
+]
 ],
 [
 "Ginseng chicken soup",
-3
+3,
+[]
 ],
 [
 "Aleluja",
-3
+3,
+[]
 ],
 [
 "húsleves",
-3
+3,
+[]
 ],
 [
 "Ofe akwụ",
-3
+3,
+[
+"Ofe akwu",
+"Ofe rice"
+]
 ],
 [
 "xian doujiang",
-3
+3,
+[
+"salty soy milk",
+"savory soy milk soup",
+"soy milk soup",
+"Xián dòujiāng"
+]
 ],
 [
 "Mole de olla",
-3
+3,
+[]
 ],
 [
 "Yüksük soup",
-3
+3,
+[]
 ],
 [
 "Clemole",
-3
+3,
+[]
 ],
 [
 "mint soup",
-3
+3,
+[]
 ],
 [
 "goat meat pepper soup",
-3
+3,
+[
+"Pepper soup"
+]
 ],
 [
 "bantan",
-3
+3,
+[]
 ],
 [
 "Scattone",
-3
+3,
+[]
 ],
 [
 "coconut soup",
-3
+3,
+[]
 ],
 [
 "demikát",
-3
+3,
+[]
 ],
 [
 "Diyabath",
-3
+3,
+[]
 ],
 [
 "sancochado",
-3
+3,
+[]
 ],
 [
 "15 bean soup",
-3
+3,
+[]
 ],
 [
 "Borş de burechiuşe",
-3
+3,
+[
+"borș de burechițe",
+"supă de găluște"
+]
 ],
 [
 "Caldo de pollo",
-3
+3,
+[]
 ],
 [
 "Sopa wantan",
-3
+3,
+[]
 ],
 [
 "Oritang",
-3
+3,
+[]
 ],
 [
 "kongnamul gukbap",
-3
+3,
+[]
 ],
 [
 "mutton soup",
-3
+3,
+[
+"lamb soup"
+]
 ],
 [
 "Caldillo de perro",
-3
+3,
+[]
 ],
 [
 "Hyderabadi Marag",
-3
+3,
+[]
 ],
 [
 "yuvalama",
-3
+3,
+[
+"yuvalama soup"
+]
 ],
 [
 "Arabaşı soup",
-3
+3,
+[
+"Arabaşı"
+]
 ],
 [
 "sopa Juliana",
-3
+3,
+[]
 ],
 [
 "Zoque",
-3
+3,
+[]
 ],
 [
 "Khichra",
-3
+3,
+[
+"Khichda"
+]
 ],
 [
 "Satang",
-3
+3,
+[]
 ],
 [
 "Partan bree",
-3
+3,
+[]
 ],
 [
 "Philadelphia pepper pot",
-3
+3,
+[
+"pepper pot",
+"pepperpot",
+"pepper pot soup",
+"pepperpot soup"
+]
 ],
 [
 "Cantonese slow-cooked soup",
-3
+3,
+[
+"Lou fo tong"
+]
 ],
 [
 "Purée Mongole",
-3
+3,
+[
+"Puree Mongole"
+]
 ],
 [
 "semolina soup",
-3
+3,
+[]
 ],
 [
 "Cansi",
-3
+3,
+[
+"Kansi"
+]
 ],
 [
 "Inchicapi",
-3
+3,
+[]
 ],
 [
 "mustard soup",
-3
+3,
+[]
+],
+[
+"sopa de cação",
+2,
+[
+"dogfish soup"
+]
+],
+[
+"beef stew",
+2,
+[]
+],
+[
+"Tounao",
+2,
+[
+"Fu Shan mutton soup"
+]
+],
+[
+"Gatatan",
+2,
+[]
+],
+[
+"Jhol",
+2,
+[]
+],
+[
+"minestra",
+2,
+[]
+],
+[
+"al-rashoof",
+2,
+[]
+],
+[
+"Sobá",
+2,
+[]
+],
+[
+"kuah beulangong",
+2,
+[]
+],
+[
+"masam keueueng",
+2,
+[]
+],
+[
+"Soto Jepara",
+2,
+[]
+],
+[
+"Soup manggala",
+2,
+[]
+],
+[
+"soyutma",
+2,
+[]
+],
+[
+"Mutton intestine soup",
+2,
+[]
+],
+[
+"celeriac soup",
+2,
+[]
+],
+[
+"sauerkraut soup",
+2,
+[]
+],
+[
+"white bean soup",
+2,
+[]
+],
+[
+"curry soup",
+2,
+[]
+],
+[
+"Maryland crab soup",
+2,
+[]
+],
+[
+"Sopa de calducho",
+2,
+[]
+],
+[
+"Soupe aux truffes noires VGE",
+2,
+[]
+],
+[
+"Conch soup",
+2,
+[]
+],
+[
+"Sheep's sorrel soup",
+2,
+[]
+],
+[
+"Bookbinder Soup",
+2,
+[]
+],
+[
+"tiger penis soup",
+2,
+[]
+],
+[
+"Thukpa bhatuk",
+2,
+[]
+],
+[
+"Fish soup bee hoon",
+2,
+[]
+],
+[
+"Nam kaeng hua chai thao",
+2,
+[]
+],
+[
+"Garmugia",
+2,
+[]
+],
+[
+"Ginestrata",
+2,
+[]
+],
+[
+"widow's soup",
+2,
+[]
+],
+[
+"meal soup",
+2,
+[]
+],
+[
+"Surinagashi",
+2,
+[]
+],
+[
+"sausage soup broth",
+2,
+[]
+],
+[
+"white soup",
+2,
+[
+"Potage a la Reine",
+"Queen's soup"
+]
+],
+[
+"Urojo",
+2,
+[]
+],
+[
+"Chupe Andino",
+2,
+[]
+],
+[
+"Gabus pucung",
+2,
+[]
+],
+[
+"soupe aux gourganes",
+2,
+[]
+],
+[
+"Amish preaching soup",
+2,
+[]
+],
+[
+"Chai Boay Soup",
+2,
+[
+"Chhsi-boe Soup",
+"Tshsi-bue Soup"
+]
+],
+[
+"stuffed bitter melon soup",
+2,
+[
+"sngaor mreah"
+]
+],
+[
+"patasca",
+2,
+[]
+],
+[
+"rice soup",
+2,
+[]
+],
+[
+"sop senerek",
+2,
+[
+"senerek soup"
+]
+],
+[
+"wine soup",
+2,
+[]
+],
+[
+"sayur besan",
+2,
+[]
+],
+[
+"Caldo de bolas",
+2,
+[]
+],
+[
+"Caldosa",
+2,
+[]
+],
+[
+"mute",
+2,
+[
+"Mute (soup)"
+]
+],
+[
+"Rastrojo soup",
+2,
+[]
+],
+[
+"Shuipen yangrou",
+2,
+[]
+],
+[
+"beetroot soup",
+2,
+[]
+],
+[
+"Pisca Andina",
+2,
+[]
+],
+[
+"Prežganka",
+2,
+[]
+],
+[
+"Red Peas Soup",
+2,
+[]
+],
+[
+"chestnut soup",
+2,
+[]
+],
+[
+"Soup Number Five",
+2,
+[]
+],
+[
+"Soup with risotto",
+2,
+[]
+],
+[
+"Talunan",
+2,
+[]
+],
+[
+"Tian mo",
+2,
+[]
+],
+[
+"Gbegiri",
+2,
+[
+"Gbegiri Soup",
+"soup, amala, buka, ewedu, Nigerian, cuisine"
+]
+],
+[
+"Zuppa mitonata",
+2,
+[]
+],
+[
+"Pepeto",
+1,
+[]
+],
+[
+"Efó",
+1,
+[]
+],
+[
+"Gulai tauco",
+1,
+[]
+],
+[
+"Kadyos, baboy, kag langka",
+1,
+[]
+],
+[
+"stone soup",
+1,
+[]
+],
+[
+"Escarole soup",
+1,
+[]
+],
+[
+"lobster bisque",
+1,
+[]
+],
+[
+"Toheroa soup",
+1,
+[]
+],
+[
+"Stewed dog meat with soft-shelled turtle",
+1,
+[]
+],
+[
+"tiánn-pinn-sô",
+1,
+[
+"diāng-biĕng-gù",
+"ding bian cuo",
+"dǐng biān cuò",
+"ting pien tso"
+]
+],
+[
+"kenoshiru",
+1,
+[]
+],
+[
+"irabū-jiru",
+1,
+[]
+],
+[
+"kachūyū",
+1,
+[
+"kachū-yū"
+]
+],
+[
+"mayā no ushiru",
+1,
+[]
+],
+[
+"nakami soup",
+1,
+[
+"nakami-jiru",
+"nakamijiru"
+]
+],
+[
+"taipien",
+1,
+[]
+],
+[
+"meat soup",
+1,
+[]
+],
+[
+"Mokthuk",
+1,
+[]
+],
+[
+"tappaiskeitto",
+1,
+[]
+],
+[
+"Storceag la cuptor",
+1,
+[]
+],
+[
+"Biliaivka fish yushka",
+1,
+[]
+],
+[
+"sharba Libiya",
+1,
+[
+"Libyan soup",
+"shorba Libiya"
+]
+],
+[
+"Vapora",
+1,
+[]
+],
+[
+"samlor prahal",
+1,
+[
+"samlor broheu",
+"samlor proher",
+"samlor proheur",
+"somlar prahal",
+"somlar proher",
+"somlar proheur",
+"somlor broheu",
+"somlor proher",
+"somlor proheur"
+]
+],
+[
+"Lagua de choclo",
+1,
+[
+"Jankaquipa",
+"Lawa de choclo"
+]
+],
+[
+"celimpungan",
+1,
+[]
+],
+[
+"Laksan",
+1,
+[]
+],
+[
+"Yerma",
+1,
+[]
+],
+[
+"Three Sisters Soup",
+1,
+[]
+],
+[
+"Ofé Ọgbọnọ",
+1,
+[
+"Draw soup",
+"Ogbono soup"
+]
+],
+[
+"Leg soup",
+1,
+[]
+],
+[
+"Ovdukh",
+1,
+[]
+],
+[
+"pretepena juha",
+1,
+[]
+],
+[
+"fruit bat soup",
+1,
+[]
+],
+[
+"sayur rebung",
+1,
+[]
+],
+[
+"horseradish soup",
+1,
+[]
+],
+[
+"Okra Soup",
+1,
+[]
+],
+[
+"dough-sealed soup",
+1,
+[]
+],
+[
+"humkessoep",
+1,
+[
+"stompesoep"
+]
+],
+[
+"Cream of crab soup",
+1,
+[]
+],
+[
+"crayfish soup",
+1,
+[]
+],
+[
+"lobster soup",
+1,
+[]
+],
+[
+"sopa de picadillo",
+1,
+[]
+],
+[
+"Bogeo",
+1,
+[
+"fugu"
+]
+],
+[
+"Fugu chiri",
+1,
+[]
+],
+[
+"De-Thuk",
+1,
+[]
+],
+[
+"Tsam-thuk",
+1,
+[]
+],
+[
+"Tong Sui Shop",
+1,
+[]
+],
+[
+"herring soup",
+1,
+[]
+],
+[
+"Jenny Lind Soup",
+1,
+[
+"Jenny Lind's soup"
+]
+],
+[
+"Amiedi",
+1,
+[]
+],
+[
+"Lung fung soup",
+1,
+[]
+],
+[
+"Pig fallopian tubes",
+1,
+[]
+],
+[
+"Shorwa",
+1,
+[
+"shorba",
+"shurwa",
+"surwa"
+]
+],
+[
+"Rosolnyk",
+1,
+[]
+],
+[
+"Yarma çorbası",
+1,
+[
+"Yarma soup"
+]
+],
+[
+"Turkish soups",
+1,
+[
+"soups of Turkey"
+]
+],
+[
+"cherry soup of Sint-Truiden",
+1,
+[]
+],
+[
+"Muboora",
+1,
+[]
+],
+[
+"Wenzhou pig powder",
+1,
+[]
+],
+[
+"Tsilihourda",
+1,
+[]
+],
+[
+"tauto Pekalongan",
+1,
+[]
+],
+[
+"zelňačka",
+1,
+[]
+],
+[
+"2007 Vietnam food scare",
+1,
+[]
+],
+[
+"Bouillon",
+1,
+[]
+],
+[
+"Collard liquor",
+1,
+[]
+],
+[
+"Cow cod soup",
+1,
+[]
+],
+[
+"Mallorcan soup",
+1,
+[]
+],
+[
+"escudella de pagés",
+1,
+[]
+],
+[
+"sancocho",
+1,
+[]
+],
+[
+"Soup du Barry",
+1,
+[]
+],
+[
+"artichoke creme",
+1,
+[]
+],
+[
+"Menestron",
+1,
+[]
+],
+[
+"Mannish water",
+1,
+[]
+],
+[
+"Lêvenî",
+1,
+[]
+],
+[
+"Petite marmite",
+1,
+[]
+],
+[
+"Pho Ta",
+1,
+[]
+],
+[
+"Revithia",
+1,
+[]
+],
+[
+"Lontong Mi",
+1,
+[]
+],
+[
+"kinoring bakas",
+1,
+[]
+],
+[
+"Soup alla Canavese",
+1,
+[]
+],
+[
+"Southern Illinois chowder",
+1,
+[]
+],
+[
+"Spring soup",
+1,
+[]
+],
+[
+"pho ga",
+1,
+[]
+],
+[
+"turkey soup",
+1,
+[]
+],
+[
+"Huatape",
+1,
+[]
+],
+[
+"Arjamolho",
+1,
+[]
+],
+[
+"Bazzoffia",
+1,
+[]
+],
+[
+"Korean egg drop soup",
+1,
+[]
+],
+[
+"vegan chicken noodle soup",
+0,
+[]
+],
+[
+"sengkuang",
+0,
+[
+"soup"
+]
+],
+[
+"ofe achi",
+0,
+[
+"achi soup"
+]
+],
+[
+"miyan zogale",
+0,
+[
+"moringa soup",
+"zogale soup"
+]
+],
+[
+"Frikadellisupp",
+0,
+[]
+],
+[
+"Okazi soup",
+0,
+[]
+],
+[
+"Chupe de centolla",
+0,
+[]
+],
+[
+"Ofe Uda",
+0,
+[]
+],
+[
+"Ofe Ujuju (Anima)",
+0,
+[]
+],
+[
+"Wow! Soup",
+0,
+[]
+],
+[
+"mango soup",
+0,
+[]
+],
+[
+"hot soup",
+0,
+[]
+],
+[
+"sour soup",
+0,
+[]
+],
+[
+"sup tulang",
+0,
+[]
+],
+[
+"Obo Ẹgwa",
+0,
+[
+"Beans soup"
+]
+],
+[
+"Gangan Susupan",
+0,
+[]
+],
+[
+"Rivers state native soup",
+0,
+[
+"rivers soup",
+"rivers state soup"
+]
+],
+[
+"Gangan Tatanding",
+0,
+[]
+],
+[
+"Tumis Kalakai",
+0,
+[]
+],
+[
+"ärter med fläsk",
+0,
+[
+"ärtor med fläsk"
+]
+],
+[
+"Kawari Sudanese food",
+0,
+[]
+],
+[
+"Abekatekonto soup",
+0,
+[]
+],
+[
+"Calulu and Funge",
+0,
+[]
+],
+[
+"Omebe",
+0,
+[
+"Omabe",
+"Omabhe",
+"Omaebe"
+]
+],
+[
+"Pumpum soup",
+0,
+[]
+],
+[
+"Lendot",
+0,
+[]
+],
+[
+"four spoon soup",
+0,
+[
+"4 kaşık çorbası",
+"4 spoon soup",
+"dört kaşık çorbası",
+"four spoons soup"
+]
+],
+[
+"feet tripe soup",
+0,
+[]
+],
+[
+"Grouta",
+0,
+[]
+],
+[
+"aukstā zupa",
+0,
+[
+"cold soup",
+"Latvian beet soup"
+]
+],
+[
+"pallu kacci",
+0,
+[]
+],
+[
+"Soto Bogor",
+0,
+[]
+],
+[
+"sop ayam",
+0,
+[]
+],
+[
+"canned soup",
+0,
+[]
+],
+[
+"Potage à la Marcus Hill",
+0,
+[]
+],
+[
+"Liver soup",
+0,
+[]
 ]
 ]

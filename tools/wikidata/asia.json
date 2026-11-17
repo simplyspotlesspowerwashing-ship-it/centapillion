@@ -1,194 +1,525 @@
 [
 [
 "Turkey",
-430
+430,
+[
+"Republic of Turkey",
+"Republic of Türkiye"
+]
 ],
 [
 "Russia",
-421
+421,
+[
+"Russian Federation"
+]
 ],
 [
 "Japan",
-419
+419,
+[
+"Iapan",
+"Iapon",
+"Land of Rising Sun",
+"Land of the Rising Sun",
+"Nihon-koku",
+"Nippon-koku",
+"State of Japan"
+]
 ],
 [
 "India",
-404
+404,
+[
+"Al Hind",
+"Bharata",
+"Bharat Ganarajya",
+"Bharatvarsh",
+"Hindoostan",
+"Hindustan",
+"Indostan",
+"Republic of India",
+"Tenjiku",
+"Tianzhu"
+]
 ],
 [
 "People's Republic of China",
-401
+401,
+[
+"China PR",
+"cn",
+"Communist China",
+"P.R.C.",
+"PR China",
+"Red China",
+"the People's Republic of China",
+"The PRC"
+]
 ],
 [
 "Israel",
-379
+379,
+[
+"il",
+"ISR",
+"State of Israel",
+"Yisrael"
+]
 ],
 [
 "Iran",
-377
+377,
+[
+"ir",
+"IRI",
+"Islamic Rep. Iran",
+"Islamic Republic of Iran"
+]
 ],
 [
 "Vietnam",
-370
+370,
+[
+"Socialist Republic of Viet Nam",
+"SRV",
+"VIE",
+"VNM"
+]
 ],
 [
 "Indonesia",
-366
+366,
+[
+"id",
+"Republic of Indonesia"
+]
 ],
 [
 "Azerbaijan",
-364
+364,
+[
+"Republic of Azerbaijan"
+]
 ],
 [
 "Afghanistan",
-364
+364,
+[
+"Affghanistan",
+"Affghanisthan",
+"Affghaunistan",
+"Afghania",
+"Afghanisthan",
+"Afghaunistan",
+"Afghaunistaun"
+]
 ],
 [
 "Pakistan",
-357
+357,
+[
+"Hồi Quốc",
+"Islamic Republic of Pakistan",
+"pk",
+"Republic of Pakistan",
+"Tây Hồi"
+]
 ],
 [
 "Thailand",
-356
+356,
+[
+"Kingdom of Siam",
+"Kingdom of Thailand",
+"Prathet Thai",
+"Ratcha-anachak Thai",
+"th",
+"Thai",
+"The Kingdom of Siam",
+"The Kingdom of Thailand"
+]
 ],
 [
 "South Korea",
-356
+356,
+[
+"Choson",
+"Daehanminguk",
+"Daehan Minguk",
+"Hanguk",
+"Korea Republic",
+"Korea (South)",
+"Rep. Korea",
+"Republic of Korea",
+"Silla",
+"S. Korea"
+]
 ],
 [
 "Armenia",
-355
+355,
+[
+"Hayastani Hanrapetut’yun",
+"Republic of Armenia",
+"Հայաստան"
+]
 ],
 [
 "Saudi Arabia",
-351
+351,
+[
+"Kingdom of Saudi Arabia",
+"Saudi"
+]
 ],
 [
 "Kazakhstan",
-350
+350,
+[
+"kz",
+"Republic of Kazakhstan",
+"Republic of Qazaqstan"
+]
 ],
 [
 "Iraq",
-350
+350,
+[
+"iq",
+"Republic of Iraq"
+]
 ],
 [
 "Bangladesh",
-349
+349,
+[
+"Bangla Desh",
+"bd",
+"Country of Bengal",
+"Land of Bengal",
+"People's Republic of Bangladesh"
+]
 ],
 [
 "Malaysia",
-342
+342,
+[
+"Federation of Malaysia",
+"Malaysia Federation"
+]
 ],
 [
 "Syria",
-338
+338,
+[
+"Surya",
+"Syrian Arab Republic"
+]
 ],
 [
 "Philippines",
-335
+335,
+[
+"Philippine Islands",
+"Republic of the Philippines",
+"RP",
+"The Philippines"
+]
 ],
 [
 "Singapore",
-333
+333,
+[
+"Garden City",
+"Lion City",
+"Republic of Singapore",
+"sg",
+"Singapore City",
+"S'pore"
+]
 ],
 [
 "Cambodia",
-332
+332,
+[
+"Camboya",
+"Campuchia",
+"Kambodzha",
+"Kamboja",
+"Kampuchea",
+"kh",
+"Kingdom of Cambodia"
+]
 ],
 [
 "Lebanon",
-330
+330,
+[
+"lb",
+"Lebanese Republic",
+"Lubnan",
+"Republic of Lebanon",
+"State of Lebanon"
+]
 ],
 [
 "Nepal",
-325
+325,
+[
+"Bal-bo",
+"Balbo",
+"Balpo",
+"Bal-po'i yul",
+"Balpo-yul",
+"Bal-yul",
+"Federal Democratic Republic of Nepal",
+"Naipál",
+"Naipala",
+"Naipála",
+"Necbal",
+"Nehpal",
+"Nei-pal",
+"Nekbal",
+"Nekpal",
+"Népaal",
+"Nepál",
+"Népál",
+"Nepall",
+"Nepaul",
+"Ne-pel",
+"Nercerri",
+"Niepal",
+"Nipal",
+"Ni-po-lo",
+"Ni-po-louo",
+"Pa-eul-pou",
+"Pai-pou",
+"Paï-pou",
+"Pa-le-pou",
+"Pa-lo-pou",
+"Palpa",
+"Palpou"
+]
 ],
 [
 "Mongolia",
-323
+323,
+[
+"Mongol State",
+"State of Mongolia"
+]
 ],
 [
 "Kyrgyzstan",
-321
+321,
+[
+"kg",
+"Kyrgyz Republic"
+]
 ],
 [
 "United Arab Emirates",
-320
+320,
+[
+"ae",
+"Emirates",
+"the Emirates",
+"the U.A.E.",
+"the UAE",
+"the United Arab Emirates",
+"U.A.E."
+]
 ],
 [
 "Yemen",
-318
+318,
+[
+"Republic of Yemen",
+"Rep. Yemen",
+"ye"
+]
 ],
 [
 "Myanmar",
-318
+318,
+[
+"Republic of the Union of Myanmar",
+"Union of Burma"
+]
 ],
 [
 "Laos",
-317
+317,
+[
+"la",
+"Lao PDR",
+"Lao People's Democratic Republic"
+]
 ],
 [
 "Taiwan",
-316
+316,
+[
+"China, Republic of",
+"Chinese Republic",
+"Chinese Taipei",
+"Chunghwa Minkuo",
+"Chunghwa Minkwo",
+"Free China",
+"Nationalist China",
+"Republic of China",
+"Republic of China (Taiwan)",
+"ROC",
+"Taiwan ROC",
+"The ROC",
+"TW",
+"TWN"
+]
 ],
 [
 "Jordan",
-314
+314,
+[
+"Giordania",
+"Hashemite Kingdom of Jordan",
+"HKJ",
+"ISO 3166-1:JO",
+"Kingdom of Jordan",
+"State of Jordan",
+"Yarden"
+]
 ],
 [
 "North Korea",
-313
+313,
+[
+"Democratic People's Republic of Korea",
+"DPRK",
+"DPR Korea",
+"kp",
+"N. Korea"
+]
 ],
 [
 "Sri Lanka",
-311
+311,
+[
+"ce",
+"Ceylan",
+"Democratic Socialist Republic of Sri Lanka",
+"Lanka, Sri",
+"lk",
+"lke",
+"Serendib",
+"sri",
+"SRI",
+"Srilanka",
+"Taprobane"
+]
 ],
 [
 "Uzbekistan",
-310
+310,
+[
+"Republic of Uzbekistan"
+]
 ],
 [
 "Tajikistan",
-308
+308,
+[
+"Republic of Tajikistan",
+"tj"
+]
 ],
 [
 "Bahrain",
-306
+306,
+[
+"Bahrein Islands",
+"bh",
+"Dawlat al-Bahrain",
+"ISO 3166-1:BH",
+"Kingdom of Bahrain",
+"Mamlakat al-Baḥrayn"
+]
 ],
 [
 "Kuwait",
-306
+306,
+[
+"kw",
+"State of Kuwait"
+]
 ],
 [
 "Bhutan",
-306
+306,
+[
+"BHU",
+"Kingdom of Bhutan"
+]
 ],
 [
 "Turkmenistan",
-299
+299,
+[
+"tm",
+"Turkmenia"
+]
 ],
 [
 "Oman",
-298
+298,
+[
+"om",
+"omn",
+"Sultanate of Oman",
+"Uman"
+]
 ],
 [
 "Brunei",
-298
+298,
+[
+"bn",
+"Nation of Brunei, the Abode of Peace",
+"Negara Brunei Darussalam"
+]
 ],
 [
 "Timor-Leste",
-292
+292,
+[
+"Democratic Republic of Timor-Leste",
+"East Timor"
+]
 ],
 [
 "Maldives",
-291
+291,
+[
+"MDV",
+"mv",
+"Republic of Maldives"
+]
 ],
 [
 "Qatar",
-291
+291,
+[
+"qa",
+"qat",
+"State of Qatar"
+]
 ],
 [
 "Palestine",
-226
+226,
+[
+"PSE",
+"State of Palestine"
+]
 ]
 ]

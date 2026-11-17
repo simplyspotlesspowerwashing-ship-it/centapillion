@@ -1,0 +1,159 @@
+Acre
+Ampere=amp=amps
+Angstrom
+Are
+Arshin
+Astronomical Unit=au
+Atmosphere=atm
+BTU
+Bar
+Barrel
+Baud
+Becquerel
+Bel
+Bit
+Board Foot
+Bushel
+Byte
+Calorie=cal
+Candela
+Carat
+Catty
+Celsius=degrees celsius=centigrade
+Centilitre
+Centimetre=cm=centimeter
+Century
+Chain
+Cord
+Coulomb
+Cubic Centimetre=cc
+Cubic Metre
+Cubit
+Cup
+Curie
+Day
+Decade
+Decibel=db
+Degree
+Dozen
+Dyne
+Electronvolt=ev
+Em
+Erg
+Fahrenheit
+Farad
+Fathom
+Fluid Ounce=fl oz
+Foot=ft=feet
+Fortnight
+Furlong
+Gallon=gal
+Gauss
+Gigabyte=gb
+Gigahertz=ghz
+Grain
+Gram=g=gramme
+Gray
+Gross
+Hand
+Hectare=ha
+Henry
+Hertz=hz
+Horsepower=hp
+Hour=hr
+Inch=in=inches
+Jin
+Joule=j
+Kelvin
+Kilobyte=kb
+Kilocalorie=kcal
+Kilogram=kg=kilo
+Kilohertz
+Kilometre=km=kilometer
+Kilometres per Hour=kph=km/h
+Kilowatt-hour=kwh
+Kilowatt=kw
+Knot=knots
+League
+Li
+Light-year=light year
+Litre=liter=l
+Lumen
+Lux
+Mach
+Megabyte=mb
+Megahertz=mhz
+Megawatt
+Metre=m=meter
+Microgram
+Micrometre=micron
+Microsecond
+Mile=mi
+Miles per Hour=mph
+Millennium
+Milligram=mg
+Millilitre=ml=milliliter
+Millimetre of Mercury=mmhg
+Millimetre=mm=millimeter
+Millisecond=ms
+Minute=min
+Mole=mol
+Month
+Nanometre=nm=nanometer
+Nanosecond
+Nautical Mile
+Newton=n
+Ohm
+Ounce=oz
+PSI
+Parsec
+Pascal=pa
+Peck
+Petabyte
+Pica
+Picul
+Pint=pt
+Pixel
+Point
+Pood
+Pound=lb=lbs
+Quart=qt
+RPM
+Rad
+Radian
+Rankine
+Ream
+Rem
+Rod
+Sazhen
+Score
+Second=sec=s
+Shaku
+Siemens
+Sievert
+Square Foot
+Square Kilometre
+Square Mile
+Steradian
+Stone
+Tablespoon=tbsp
+Tael
+Teaspoon=tsp
+Terabyte=tb
+Tesla
+Ton=tons
+Tonne=metric ton
+Torr
+Troy Ounce
+Verst
+Volt
+Watt=w
+Weber
+Week
+Yard=yd
+Year
+Minim
+Dram
+Gill
+Scruple
+Pennyweight

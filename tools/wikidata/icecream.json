@@ -1,382 +1,821 @@
 [
 [
 "ice pop",
-48
+48,
+[
+"freezer pop",
+"Ice Block",
+"Ice Drop",
+"Ice Lolly",
+"Ice Pops",
+"Icy Pole",
+"popsicle"
+]
 ],
 [
 "Kulfi",
-46
+46,
+[
+"Cookbook:Kulfi",
+"kulfis",
+"qulfi"
+]
 ],
 [
 "gelato",
-41
+41,
+[
+"Italian ice cream"
+]
 ],
 [
 "dondurma",
-39
+39,
+[
+"Dövme dondurma",
+"Maraş dondurması",
+"Turkish ice cream"
+]
 ],
 [
 "soft serve",
-30
+30,
+[
+"Mr. Whippy",
+"soft ice cream",
+"soft serve ice cream"
+]
 ],
 [
 "fried ice cream",
-30
+30,
+[
+"Fried ice cream"
+]
 ],
 [
 "Neapolitan ice cream",
-26
+26,
+[
+"Harlequin ice cream",
+"neapolitan ice"
+]
 ],
 [
 "chocolate ice cream",
-25
+25,
+[]
 ],
 [
 "mochi ice cream",
-25
+25,
+[]
 ],
 [
 "Spaghettieis",
-23
+23,
+[]
 ],
 [
 "vanilla ice cream",
-22
+22,
+[]
 ],
 [
 "Stracciatella",
-22
+22,
+[
+"stracciatella gelato",
+"stracciatella ice cream"
+]
 ],
 [
 "Bastani",
-22
+22,
+[
+"Bastani Sonnati",
+"Bastani Sonnati Zaferani",
+"Iranian ice cream",
+"Persian ice cream",
+"Saffron ice cream"
+]
 ],
 [
 "ice cream sandwich",
-21
+21,
+[]
 ],
 [
 "green tea ice cream",
-20
+20,
+[
+"green-tea ice cream",
+"green tea iced cream",
+"green-tea iced cream",
+"matcha ice cream"
+]
 ],
 [
 "tutti frutti",
-19
+19,
+[
+"tutti-frutti"
+]
 ],
 [
 "Cornetto",
-18
+18,
+[
+"Drumstick (ice cream)"
+]
 ],
 [
 "ice cream bar",
-17
+17,
+[]
 ],
 [
 "strawberry ice cream",
-17
+17,
+[]
 ],
 [
 "pistachio ice cream",
-16
+16,
+[]
 ],
 [
 "booza",
-16
+16,
+[]
 ],
 [
 "Spumoni",
-14
+14,
+[]
 ],
 [
 "Plombières",
-14
+14,
+[]
 ],
 [
 "rocky road ice cream",
-14
+14,
+[
+"rocky road"
+]
 ],
 [
 "stir-fried ice cream",
-13
+13,
+[
+"ice cream roll",
+"ice pan ice cream",
+"rolled ice cream"
+]
 ],
 [
 "garlic ice cream",
-13
+13,
+[]
 ],
 [
 "Cookies and Cream",
-13
+13,
+[]
 ],
 [
 "beer ice cream",
-13
+13,
+[]
 ],
 [
 "Tartufo",
-12
+12,
+[]
 ],
 [
 "bacon ice cream",
-12
+12,
+[]
 ],
 [
 "Plombir",
-12
+12,
+[]
 ],
 [
 "frozen custard",
-12
+12,
+[]
 ],
 [
 "cherry ice cream",
-11
+11,
+[]
 ],
 [
 "crab ice cream",
-10
+10,
+[]
 ],
 [
 "grape ice cream",
-10
+10,
+[]
 ],
 [
 "Solero",
-10
+10,
+[]
 ],
 [
 "freeze-dried ice cream",
-10
+10,
+[
+"astronaut ice cream",
+"space ice cream"
+]
 ],
 [
 "Chocolate chip cookie dough ice cream",
-10
+10,
+[]
 ],
 [
 "Mint chocolate chip",
-10
+10,
+[]
 ],
 [
 "Popsicle",
-9
+9,
+[]
 ],
 [
 "Coffee ice cream",
-8
+8,
+[]
 ],
 [
 "Edy's Pie",
-8
+8,
+[
+"Eskimo Pie"
+]
 ],
 [
 "blue moon",
-8
+8,
+[]
 ],
 [
 "Butter Pecan",
-8
+8,
+[
+"Butter pecan"
+]
 ],
 [
 "ube ice cream",
-8
+8,
+[]
 ],
 [
 "Yukimi Daifuku",
-8
+8,
+[]
 ],
 [
 "sorbetes",
-7
+7,
+[]
 ],
 [
 "Maxibon",
-7
+7,
+[]
 ],
 [
 "Mövenpick Ice Cream",
-7
+7,
+[]
 ],
 [
 "Biscuit Tortoni",
-7
+7,
+[]
 ],
 [
 "Raspberry Ripple",
-7
+7,
+[]
 ],
 [
 "Queso ice cream",
-6
+6,
+[]
 ],
 [
 "Malaga ice cream",
-6
+6,
+[]
 ],
 [
 "Chipwich",
-6
+6,
+[]
 ],
 [
 "Hokey pokey",
-6
+6,
+[]
 ],
 [
 "Good Humor",
-6
+6,
+[]
 ],
 [
 "oyster ice cream",
-5
+5,
+[]
 ],
 [
 "Paila ice cream",
-5
+5,
+[]
 ],
 [
 "Superman",
-5
+5,
+[
+"Superman ice cream"
+]
 ],
 [
 "caramel ice cream",
-5
+5,
+[]
 ],
 [
 "Hydrox Corporation",
-4
+4,
+[
+"Hydrox Company"
+]
 ],
 [
 "Tiger tail ice cream",
-4
+4,
+[]
 ],
 [
 "Halva ice cream",
-4
+4,
+[]
 ],
 [
 "Twister",
-4
+4,
+[]
 ],
 [
 "Drumstick",
-4
+4,
+[]
 ],
 [
 "Míša",
-4
+4,
+[]
 ],
 [
 "Sujahta Super Premium Ice Cream",
-3
+3,
+[]
 ],
 [
 "Thayacha",
-3
+3,
+[]
 ],
 [
 "dulce de leche ice cream",
-3
+3,
+[]
 ],
 [
 "moon mist",
-3
+3,
+[]
 ],
 [
 "Rum raisin",
-3
+3,
+[]
 ],
 [
 "Watermelon Bar",
-3
+3,
+[
+"Suika bar"
+]
 ],
 [
 "Russian ice cream",
-3
+3,
+[
+"ukrainian ice cream"
+]
 ],
 [
 "Teaberry ice cream",
-3
+3,
+[]
 ],
 [
 "Frosty Paws",
-3
+3,
+[
+"Fido Freeze",
+"Pet79"
+]
 ],
 [
 "Es puter",
-3
+3,
+[]
 ],
 [
 "Talenti",
-3
+3,
+[]
 ],
 [
 "Dole Whip",
-3
+3,
+[
+"Dole Soft Serve",
+"Pineapple whip"
+]
 ],
 [
 "Butter Brickle",
-3
+3,
+[]
 ],
 [
 "Dove Bar",
-3
+3,
+[]
 ],
 [
 "Cornish ice cream",
-3
+3,
+[]
 ],
 [
 "mango ice cream",
-3
+3,
+[]
 ],
 [
 "screwball",
-3
+3,
+[]
 ],
 [
 "popsicle stick",
-2
+2,
+[
+"ice cream stick"
+]
 ],
 [
 "Mr. Whippy",
-2
+2,
+[
+"Mister Whippy"
+]
 ],
 [
 "PaPiCO",
-2
+2,
+[]
 ],
 [
 "Seventeen Ice",
-2
+2,
+[]
 ],
 [
 "Goody good gum drops",
-2
+2,
+[
+"GGGD",
+"Goody goody gumdrop",
+"Goodygoodygumdrops"
+]
 ],
 [
 "push-up ice cream",
-2
+2,
+[
+"push-up",
+"push-up pop"
+]
 ],
 [
 "Tramontana",
-2
+2,
+[]
 ],
 [
 "Sou",
-2
+2,
+[
+"Sō"
+]
 ],
 [
 "Frosty Boy",
-2
+2,
+[]
 ],
 [
 "Nieve",
-2
+2,
+[]
 ],
 [
 "Shikashika",
-2
+2,
+[]
 ],
 [
 "Splice",
-2
+2,
+[]
+],
+[
+"Max",
+1,
+[]
+],
+[
+"Piggelin",
+1,
+[]
+],
+[
+"pino",
+1,
+[]
+],
+[
+"Giant Cone",
+1,
+[]
+],
+[
+"Japanese Turkish ice cream",
+1,
+[
+"Turkish-style ice cream"
+]
+],
+[
+"Panapp",
+1,
+[]
+],
+[
+"mona ou",
+1,
+[
+"mona oh"
+]
+],
+[
+"Meiji Essel Super Cup",
+1,
+[]
+],
+[
+"Krone-is",
+1,
+[]
+],
+[
+"Tokyo Dome Monaka Ice",
+1,
+[]
+],
+[
+"Skinny Cow",
+1,
+[
+"SkinnyCow"
+]
+],
+[
+"scooped ice cream",
+1,
+[]
+],
+[
+"Coolish",
+1,
+[]
+],
+[
+"Pinup",
+1,
+[
+"Pin-up",
+"Pin Up"
+]
+],
+[
+"MOW",
+1,
+[]
+],
+[
+"Baby Gaga",
+1,
+[]
+],
+[
+"Sky",
+1,
+[]
+],
+[
+"Choco Panda",
+1,
+[
+"chocolito"
+]
+],
+[
+"Achilata",
+1,
+[]
+],
+[
+"Stephen Colbert's AmeriCone Dream",
+1,
+[]
+],
+[
+"bubblegum ice cream",
+1,
+[]
+],
+[
+"azuki bean ice cream",
+1,
+[]
+],
+[
+"blackberry ice cream",
+1,
+[]
+],
+[
+"blueberry ice cream",
+1,
+[]
+],
+[
+"Bananas Foster ice cream",
+1,
+[]
+],
+[
+"Eat The Rich Popsicles",
+0,
+[]
+],
+[
+"boldo ice cream",
+0,
+[]
+],
+[
+"Onion Overdrive Ice Cream",
+0,
+[]
+],
+[
+"Curveball Crunch",
+0,
+[]
+],
+[
+"lacto ice",
+0,
+[]
+],
+[
+"Cobweb Ripple",
+0,
+[]
+],
+[
+"SpongeBob SquarePants Popsicle",
+0,
+[]
+],
+[
+"Squidward the Ice Cream Cone",
+0,
+[]
+],
+[
+"Cicada ice cream",
+0,
+[]
+],
+[
+"ice cream flavor",
+0,
+[]
+],
+[
+"The William Mitchell",
+0,
+[]
+],
+[
+"The One With All the Colour",
+0,
+[]
+],
+[
+"In Search of the Pineapple",
+0,
+[]
+],
+[
+"King Fusion Pineapple&Waffle Sundae",
+0,
+[
+"King Fusion Pineapple & Waffle Sundae"
+]
+],
+[
+"Loop the Loop",
+0,
+[]
+],
+[
+"Strawberry Shortcake Bar",
+0,
+[
+"Brunch"
+]
+],
+[
+"Giant Vanilla Sandwich",
+0,
+[
+"Iceberger"
+]
+],
+[
+"Feast",
+0,
+[]
+],
+[
+"goat milk ice cream",
+0,
+[]
+],
+[
+"es Goyang",
+0,
+[]
+],
+[
+"Paleta",
+0,
+[]
+],
+[
+"ice cream",
+0,
+[]
+],
+[
+"Blue Bunny",
+0,
+[
+"Blue Bunny Ice Cream"
+]
 ]
 ]

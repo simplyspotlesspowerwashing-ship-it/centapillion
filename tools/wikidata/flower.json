@@ -1,158 +1,474 @@
 [
 [
 "saffron",
-93
+93,
+[]
 ],
 [
 "cherry blossom",
-68
+68,
+[
+"sakura"
+]
 ],
 [
 "Tropaeolum majus",
-55
+55,
+[
+"Cardamindum majus Moench",
+"Nasturtium indicum Garsault",
+"Tropaeolum pinnatum Andrews",
+"Tropaeolum quinquelobum Bergius",
+"Trophaeum majus (L.) Kuntze"
+]
 ],
 [
 "Hemerocallis",
-46
+46,
+[
+"day lilies",
+"daylilies",
+"day lily",
+"daylily"
+]
 ],
 [
 "Fritillaria imperialis",
-38
+38,
+[]
 ],
 [
 "orange blossom",
-21
+21,
+[
+"orange flower"
+]
 ],
 [
 "cut flowers",
-21
+21,
+[]
 ],
 [
 "double-flowered",
-18
+18,
+[
+"double flower",
+"fl. pl."
+]
 ],
 [
 "blossom",
-17
+17,
+[
+"blossoms"
+]
 ],
 [
 "edible flower",
-17
+17,
+[
+"eatable flower"
+]
 ],
 [
 "flowering tea",
-14
+14,
+[]
 ],
 [
 "squash blossom",
-12
+12,
+[
+"courgette flower",
+"squash flower",
+"squash petal"
+]
 ],
 [
 "Adenophora triphylla",
-10
+10,
+[]
 ],
 [
 "disk flowers",
-9
+9,
+[
+"disk florets"
+]
 ],
 [
 "Tulipa gesneriana var. dracontia",
-4
+4,
+[
+"parrot tulip",
+"Tulipa Parrot Group"
+]
 ],
 [
 "Prunus 'Hanagasa'",
-3
+3,
+[
+"Cerasus serrulata 'Hanagasa'"
+]
 ],
 [
 "yaezakura",
-3
+3,
+[
+"yae-zakura"
+]
 ],
 [
 "zygomorphic flower",
-3
+3,
+[]
 ],
 [
 "Prunus × subhirtella 'Ujou-shidare'",
-3
+3,
+[
+"Cerasus spachiana 'Ujou-shidare'",
+"Cerasus × subhirtella 'Ujou-shidare'"
+]
 ],
 [
 "Prunus 'Eigenji'",
-2
+2,
+[
+"Cerasus serrulata 'Eigenji'",
+"Prunus serrulata 'Eigenji'"
+]
 ],
 [
 "Prunus 'Sendaiya'",
-2
+2,
+[
+"Cerasus jamasakura 'Sendaiya'"
+]
 ],
 [
 "Prunus 'Chihara-zakura'",
-2
+2,
+[
+"Cerasus serrulata 'Chihara-zakura'",
+"Prunus serrulata 'Chihara-zakura'"
+]
 ],
 [
 "white flower",
-2
+2,
+[
+"white blossom"
+]
 ],
 [
 "actinomorphic flower",
-2
+2,
+[]
 ],
 [
 "cherry blossoms in Seattle",
-2
+2,
+[]
 ],
 [
 "cherry blossoms in Portland, Oregon",
-2
+2,
+[]
 ],
 [
 "unisexual flower",
-2
+2,
+[]
 ],
 [
 "Prunus 'Haruka'",
-1
+1,
+[
+"Cerasus serrulata ‘Haruka’"
+]
 ],
 [
 "rosebuds",
-1
+1,
+[
+"rose bud"
+]
 ],
 [
 "flowers in art",
-1
+1,
+[]
 ],
 [
 "Prunus 'Izutoi'",
-1
+1,
+[]
 ],
 [
 "hazakura",
-1
+1,
+[]
 ],
 [
 "edible chrysanthemum",
-1
+1,
+[]
 ],
 [
 "female flower",
-1
+1,
+[
+"pistillate flower"
+]
 ],
 [
 "apple blossom",
-1
+1,
+[
+"apple blossoms",
+"apple flower",
+"apple flowers"
+]
 ],
 [
 "white jasmine",
-1
+1,
+[]
 ],
 [
 "male flower",
-1
+1,
+[
+"staminate flower"
+]
 ],
 [
 "Orchids of the Philippines",
-1
+1,
+[]
 ],
 [
 "White Lilies in heraldry",
-1
+1,
+[]
+],
+[
+"Bigleaf maple flower cluster",
+0,
+[]
+],
+[
+"fresh cut flower",
+0,
+[]
+],
+[
+"Hibiscus flower",
+0,
+[]
+],
+[
+"cymule flower",
+0,
+[]
+],
+[
+"basal cymule flower",
+0,
+[]
+],
+[
+"Dok ngio",
+0,
+[]
+],
+[
+"grapefruit blossom",
+0,
+[
+"grapefruit flower"
+]
+],
+[
+"peach blossom",
+0,
+[
+"peach flower"
+]
+],
+[
+"hyacinth flower",
+0,
+[
+"hyacinth",
+"hyacinth bloom",
+"hyacinth blossom",
+"hyacinth flowers",
+"Hyacinthus orientalis flower",
+"Hyacinthus orientalis flowers"
+]
+],
+[
+"tuberose flower",
+0,
+[
+"Polianthes tuberosa blossom",
+"Polianthes tuberosa blossoms",
+"Polianthes tuberosa flower",
+"Polianthes tuberosa flowers",
+"tuberose blossom",
+"tuberose blossoms",
+"tuberose flowers"
+]
+],
+[
+"honeysuckle flower",
+0,
+[
+"honeysuckle",
+"honeysuckle blossom",
+"woodbine",
+"woodbine flower"
+]
+],
+[
+"magnolia flower",
+0,
+[
+"magnolia blossom"
+]
+],
+[
+"almond blossom",
+0,
+[
+"almond flower"
+]
+],
+[
+"pear blossom",
+0,
+[
+"pear blossoms",
+"pear flower",
+"pear flowers"
+]
+],
+[
+"peony flower",
+0,
+[
+"peony blossom"
+]
+],
+[
+"heliotrope flower",
+0,
+[
+"heliotrope blossom",
+"Heliotropium arborescens blossom",
+"Heliotropium arborescens flower"
+]
+],
+[
+"orchid flower",
+0,
+[
+"orchid blossom"
+]
+],
+[
+"mimosa flower",
+0,
+[
+"Acacia dealbata blossom",
+"Acacia dealbata flower",
+"mimosa blossom"
+]
+],
+[
+"carnation",
+0,
+[
+"carnation blossom",
+"carnation flower"
+]
+],
+[
+"melilot flowers",
+0,
+[]
+],
+[
+"borage flower",
+0,
+[
+"starflower"
+]
+],
+[
+"foxglove flower",
+0,
+[]
+],
+[
+"rosemary flowers",
+0,
+[
+"Rosmarinus officinalis flowers",
+"Salvia rosmarinus flower"
+]
+],
+[
+"chamomile flowers",
+0,
+[
+"camomile flowers"
+]
+],
+[
+"spiklet floret",
+0,
+[]
+],
+[
+"tulip",
+0,
+[]
+],
+[
+"rose petals",
+0,
+[
+"Rosae flos",
+"rose flower"
+]
+],
+[
+"elderflower",
+0,
+[
+"elderberry flower",
+"elderberry flowers",
+"elder flower",
+"Sambuci flos"
+]
+],
+[
+"zucchini flower",
+0,
+[]
+],
+[
+"dahlia",
+0,
+[]
+],
+[
+"iris",
+0,
+[]
 ]
 ]

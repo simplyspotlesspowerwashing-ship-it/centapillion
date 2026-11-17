@@ -1,0 +1,498 @@
+AMC Eagle
+AMC Gremlin=gremlin
+AMC Javelin=javelin
+AMC Pacer=pacer
+Acura Integra=integra
+Acura Legend=legend
+Acura MDX=mdx
+Acura RDX=rdx
+Acura TL
+Acura TSX
+Alfa Romeo Giulia=giulia
+Alfa Romeo Spider=spider
+Alfa Romeo Stelvio=stelvio
+Aston Martin DB11=db11
+Aston Martin DB5=db5
+Aston Martin DB9=db9
+Aston Martin DBS=dbs
+Aston Martin Valkyrie=valkyrie
+Aston Martin Vantage=vantage
+Audi A3=a3
+Audi A4=a4
+Audi A6=a6
+Audi A8=a8
+Audi Q5=q5
+Audi Q7=q7
+Audi Quattro=quattro
+Audi R8=r8
+Audi RS6=rs6
+Audi TT=tt
+Audi e-tron=etron
+BMW 2002
+BMW 3 Series=3 series
+BMW 5 Series=5 series
+BMW 7 Series=7 series
+BMW E30=e30
+BMW E46=e46
+BMW M3=m3
+BMW M5=m5
+BMW X3=x3
+BMW X5=x5
+BMW Z3=z3
+BMW Z4=z4
+BMW i3=i3
+BMW i8=i8
+Beetle=bug=vw bug=volkswagen beetle
+Bentley Bentayga=bentayga
+Bentley Continental GT=continental gt
+Bugatti Chiron=chiron
+Bugatti Divo
+Bugatti Veyron=veyron
+Buick Enclave=enclave
+Buick Encore=encore
+Buick Grand National=grand national
+Buick LeSabre=lesabre
+Buick Regal=regal
+Buick Riviera=riviera
+Buick Skylark=skylark
+Cadillac CTS=cts
+Cadillac DeVille=deville
+Cadillac Eldorado=eldorado
+Cadillac Escalade=escalade=slade
+Cadillac Fleetwood=fleetwood
+Cadillac Lyriq=lyriq
+Cadillac Seville=seville
+Camaro
+Chevy Astro=astro van
+Chevy Avalanche=avalanche
+Chevy Bel Air=bel air
+Chevy Blazer=blazer
+Chevy Bolt=bolt
+Chevy Camaro=camaro
+Chevy Caprice=caprice
+Chevy Cavalier=cavalier
+Chevy Chevelle=chevelle
+Chevy Cobalt=cobalt
+Chevy Colorado=colorado
+Chevy Corvair=corvair
+Chevy Corvette=corvette
+Chevy Cruze=cruze
+Chevy El Camino=el camino
+Chevy Equinox=equinox
+Chevy Impala=impala
+Chevy Malibu=malibu
+Chevy Monte Carlo=monte carlo
+Chevy Nova=nova
+Chevy S-10=s10
+Chevy Silverado=silverado
+Chevy Sonic=sonic
+Chevy Spark=spark
+Chevy Suburban=suburban
+Chevy Tahoe=tahoe
+Chevy Trailblazer=trailblazer
+Chevy Traverse=traverse
+Chevy Volt=volt
+Chrysler 300=300c
+Chrysler Crossfire=crossfire
+Chrysler Imperial=imperial
+Chrysler LeBaron=lebaron
+Chrysler New Yorker=new yorker
+Chrysler PT Cruiser=pt cruiser
+Chrysler Pacifica=pacifica
+Chrysler Sebring=sebring
+Chrysler Town & Country=town and country
+Citroën 2CV=2cv=deux chevaux
+Citroën C4=c4
+Citroën DS=ds
+Cybertruck=tesla cybertruck
+Dacia Duster
+Dacia Sandero=sandero
+Daihatsu Copen=copen
+Datsun 240Z=240z
+DeLorean DMC-12=delorean
+Dodge Caravan=caravan=grand caravan
+Dodge Challenger=challenger
+Dodge Charger=charger
+Dodge Coronet=coronet
+Dodge Dakota=dakota
+Dodge Dart=dart
+Dodge Demon=demon
+Dodge Durango=durango
+Dodge Journey=journey
+Dodge Magnum=magnum
+Dodge Neon=neon
+Dodge Ram=ram
+Dodge Stealth=stealth
+Dodge Viper=viper
+Edsel
+Ferrari 250 GTO=250 gto
+Ferrari 458=458
+Ferrari 488=488
+Ferrari California
+Ferrari Dino=dino
+Ferrari Enzo=enzo
+Ferrari F40=f40
+Ferrari F50=f50
+Ferrari F8
+Ferrari Purosangue
+Ferrari Roma
+Ferrari SF90
+Ferrari Testarossa=testarossa
+Fiat 500=fiat cinquecento=cinquecento
+Fiat Multipla=multipla
+Fiat Panda=panda
+Fiat Punto=punto
+Fiat Uno=uno
+Ford Bronco=bronco
+Ford Contour
+Ford Crown Victoria=crown vic=crown victoria
+Ford Edge=edge
+Ford Escape=escape
+Ford Escort=escort
+Ford Excursion
+Ford Expedition=expedition
+Ford Explorer=explorer
+Ford F-150=f150=f-150
+Ford F-250=f250
+Ford Fairlane=fairlane
+Ford Falcon=falcon
+Ford Fiesta=fiesta
+Ford Flex
+Ford Focus=focus
+Ford Fusion=fusion
+Ford GT40=gt40
+Ford Galaxie=galaxie
+Ford Maverick=maverick
+Ford Model A=model a
+Ford Model T=model t
+Ford Pinto=pinto
+Ford Probe
+Ford Ranger=ranger
+Ford Super Duty
+Ford Taurus=taurus
+Ford Transit=transit
+Ford Windstar
+GMC Acadia=acadia
+GMC Canyon=canyon
+GMC Hummer EV
+GMC Sierra=sierra
+GMC Yukon=yukon
+Genesis G70=g70
+Genesis G80=g80
+Genesis GV80=gv80
+Golf GTI=gti
+Hellcat=challenger hellcat
+Hindustan Ambassador=ambassador
+Honda Accord=accord
+Honda CR-V=crv=cr-v
+Honda CRX=crx
+Honda Civic=civic
+Honda Del Sol=del sol
+Honda Element=element
+Honda Fit=fit=jazz
+Honda HR-V=hrv
+Honda Insight=insight
+Honda NSX=nsx
+Honda Odyssey=odyssey
+Honda Passport=passport
+Honda Pilot=pilot
+Honda Prelude=prelude
+Honda Ridgeline=ridgeline
+Honda S2000=s2000
+Hummer EV
+Hummer H1=h1
+Hummer H2=h2
+Hyundai Accent=accent
+Hyundai Elantra=elantra
+Hyundai Genesis Coupe
+Hyundai Ioniq 5=ioniq
+Hyundai Kona=kona
+Hyundai Palisade=palisade
+Hyundai Santa Fe=santa fe
+Hyundai Sonata=sonata
+Hyundai Tucson=tucson
+Hyundai Veloster=veloster
+Infiniti G35=g35
+Isetta=bmw isetta
+Jaguar E-Type=e-type=etype
+Jaguar F-Type=f-type
+Jaguar XJ=xj
+Jaguar XK=xk
+Jeep CJ=cj7
+Jeep Cherokee=cherokee
+Jeep Compass=compass
+Jeep Gladiator=gladiator
+Jeep Grand Cherokee=grand cherokee
+Jeep Liberty=liberty
+Jeep Renegade=renegade
+Jeep Wagoneer=wagoneer
+Jeep Wrangler=wrangler
+Kia Carnival=carnival
+Kia EV6=ev6
+Kia Forte=forte
+Kia K5=k5
+Kia Optima=optima
+Kia Rio=rio
+Kia Sedona=sedona
+Kia Sorento=sorento
+Kia Soul=soul
+Kia Sportage=sportage
+Kia Stinger=stinger
+Kia Telluride=telluride
+Koenigsegg Agera=agera
+Koenigsegg Jesko=jesko
+Koenigsegg Regera=regera
+LaFerrari
+Lada Niva=niva
+Lada Riva
+Lamborghini Aventador=aventador
+Lamborghini Countach=countach
+Lamborghini Diablo=diablo
+Lamborghini Gallardo=gallardo
+Lamborghini Huracán=huracan
+Lamborghini Miura=miura
+Lamborghini Murciélago=murcielago
+Lamborghini Revuelto=revuelto
+Lamborghini Urus=urus
+Lancer Evolution=evo=lancer evo
+Lancia Delta=delta
+Lancia Stratos=stratos
+Land Rover Defender=defender
+Land Rover Discovery=discovery
+Lexus ES=es350
+Lexus GX
+Lexus IS=is300
+Lexus LFA=lfa
+Lexus LS=ls400
+Lexus LX
+Lexus RX=rx350
+Lincoln Continental=continental
+Lincoln MKZ
+Lincoln Navigator=navigator
+Lincoln Town Car=town car
+Lotus Elise=elise
+Lotus Esprit=esprit
+Lotus Evora=evora
+Lotus Exige=exige
+Lucid Air=lucid air
+Maserati GranTurismo=granturismo
+Maserati MC20
+Maserati Quattroporte=quattroporte
+Mazda CX-30
+Mazda CX-5=cx5
+Mazda CX-9=cx9
+Mazda Miata=miata=mx-5=mx5
+Mazda Protege=protege
+Mazda RX-7=rx7
+Mazda RX-8=rx8
+Mazda Tribute
+Mazda3=mazda 3
+Mazda6=mazda 6
+McLaren 720S=720s
+McLaren F1
+McLaren P1=p1
+McLaren Senna=senna
+Mercedes 300SL=300sl=gullwing
+Mercedes AMG GT=amg gt
+Mercedes C-Class=c-class=c class
+Mercedes CLA=cla
+Mercedes E-Class=e-class
+Mercedes G-Class=g-class=g wagon=g-wagon=gelandewagen
+Mercedes GLE=gle
+Mercedes S-Class=s-class
+Mercedes SL=sl
+Mercedes SLK=slk
+Mercedes Sprinter=sprinter
+Mercury Cougar=cougar
+Mercury Grand Marquis=grand marquis
+Mercury Sable=sable
+Messerschmitt
+Microbus=vw bus=kombi=volkswagen type 2
+Mini Cooper=mini
+Mitsubishi 3000GT=3000gt
+Mitsubishi Eclipse=eclipse
+Mitsubishi Galant=galant
+Mitsubishi Lancer=lancer
+Mitsubishi Mirage=mirage
+Mitsubishi Outlander=outlander
+Mitsubishi Pajero=pajero=montero
+Nissan 240SX=240sx
+Nissan 300ZX=300zx
+Nissan 350Z=350z
+Nissan 370Z=370z
+Nissan Altima=altima
+Nissan Armada=armada
+Nissan Cube=cube
+Nissan Frontier=frontier
+Nissan GT-R=gtr=godzilla
+Nissan Juke=juke
+Nissan Kicks=kicks
+Nissan Leaf=leaf
+Nissan Maxima=maxima
+Nissan Murano=murano
+Nissan Pathfinder=pathfinder
+Nissan Quest=quest
+Nissan Rogue=rogue
+Nissan Sentra=sentra
+Nissan Silvia=silvia
+Nissan Skyline=skyline
+Nissan Titan=titan
+Nissan Versa=versa
+Nissan Xterra=xterra
+Oldsmobile 442=442
+Oldsmobile Alero=alero
+Oldsmobile Cutlass=cutlass
+Oldsmobile Toronado=toronado
+Opel Astra=astra
+Opel Corsa=corsa
+Opel Manta=manta
+Pagani Huayra=huayra
+Pagani Zonda=zonda
+Peel P50
+Peugeot 205=205
+Peugeot 206=206
+Peugeot 306
+Peugeot 405
+Peugeot 504
+Plymouth Barracuda=barracuda=cuda
+Plymouth Duster=duster
+Plymouth Fury=fury
+Plymouth Prowler=prowler
+Plymouth Road Runner=road runner
+Plymouth Superbird=superbird
+Plymouth Voyager=voyager
+Polestar 2
+Pontiac Aztek=aztek
+Pontiac Bonneville=bonneville
+Pontiac Fiero=fiero
+Pontiac Firebird=firebird
+Pontiac G8
+Pontiac GTO=gto=goat
+Pontiac Grand Prix=grand prix
+Pontiac Solstice=solstice
+Pontiac Sunfire=sunfire
+Pontiac Trans Am=trans am
+Pontiac Vibe=vibe
+Porsche 356=356
+Porsche 911=911
+Porsche 918=918
+Porsche 928=928
+Porsche 944=944
+Porsche Boxster=boxster
+Porsche Carrera GT=carrera gt
+Porsche Cayenne=cayenne
+Porsche Cayman=cayman
+Porsche Macan=macan
+Porsche Panamera=panamera
+Porsche Taycan=taycan
+Rabbit=vw rabbit
+Ram 1500=ram truck
+Range Rover=range rover sport=range rover evoque=evoque
+Reliant Robin
+Renault 4=r4
+Renault 5=r5=renault le car
+Renault Clio=clio
+Renault Mégane=megane
+Renault Twingo=twingo
+Rivian R1S=r1s
+Rivian R1T=r1t
+Rolls-Royce Cullinan=cullinan
+Rolls-Royce Ghost=ghost
+Rolls-Royce Phantom=phantom
+Rolls-Royce Silver Ghost=silver ghost
+Rolls-Royce Silver Shadow=silver shadow
+SEAT Ibiza=ibiza
+SEAT Leon=leon
+Saab 9-3=9-3
+Saab 900=900
+Saturn Ion
+Saturn Sky
+Scion FR-S=frs
+Scion tC=tc
+Scion xB=xb
+Shelby Cobra=cobra
+Shelby GT350=gt350
+Shelby GT500=gt500
+Smart Fortwo=smart car=fortwo
+Stang=mustang
+Studebaker Avanti=avanti
+Subaru Ascent=ascent
+Subaru BRAT=brat
+Subaru BRZ=brz
+Subaru Baja=baja
+Subaru Crosstrek=crosstrek
+Subaru Forester=forester
+Subaru Impreza=impreza
+Subaru Legacy=legacy
+Subaru Outback=outback
+Subaru WRX=wrx=wrx sti=sti
+Suzuki Hayabusa
+Suzuki Jimny=jimny
+Suzuki Samurai=samurai
+Suzuki Swift=swift
+Suzuki Vitara=vitara
+T-Bird=thunderbird=ford thunderbird
+Tata Nano=nano
+Tesla Model 3=model 3
+Tesla Model S=model s
+Tesla Model X=model x
+Tesla Model Y=model y
+Tesla Roadster
+Toyota 4Runner=4runner=4 runner
+Toyota 86=gt86=86
+Toyota AE86=ae86=hachiroku
+Toyota Avalon=avalon
+Toyota C-HR=chr
+Toyota Camry=camry
+Toyota Celica=celica
+Toyota Century=century
+Toyota Corolla=corolla
+Toyota Crown=crown
+Toyota Echo=echo
+Toyota FJ Cruiser=fj cruiser
+Toyota Highlander=highlander
+Toyota Hilux=hilux
+Toyota Land Cruiser=land cruiser
+Toyota MR2=mr2
+Toyota Previa=previa
+Toyota Prius=prius
+Toyota RAV4=rav4=rav 4
+Toyota Sequoia=sequoia
+Toyota Sienna=sienna
+Toyota Supra=supra
+Toyota Tacoma=tacoma
+Toyota Tercel=tercel
+Toyota Tundra=tundra
+Toyota Venza=venza
+Toyota Yaris=yaris
+Toyota bZ4X
+Trabant
+Tucker 48=tucker torpedo
+Vauxhall Astra
+Vauxhall Corsa
+Vette=corvette
+Volkswagen Atlas=atlas
+Volkswagen Corrado=corrado
+Volkswagen Golf=golf
+Volkswagen ID. Buzz=id buzz
+Volkswagen ID.4=id4
+Volkswagen Jetta=jetta
+Volkswagen Karmann Ghia=karmann ghia
+Volkswagen Passat=passat
+Volkswagen Polo=polo
+Volkswagen Scirocco=scirocco
+Volkswagen Thing=thing=vw thing
+Volkswagen Tiguan=tiguan
+Volkswagen Touareg=touareg
+Volvo 240=240
+Volvo P1800=p1800
+Volvo V70=v70
+Volvo XC60=xc60
+Volvo XC90=xc90
+Willys Jeep=willys
+Yugo
+Škoda Fabia=fabia
+Škoda Octavia=octavia
+Hyundai Ioniq 5=ioniq 5
+Hyundai Ioniq 6=ioniq 6
+Kia EV9=ev9

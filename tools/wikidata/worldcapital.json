@@ -1,834 +1,1891 @@
 [
 [
 "Paris",
-367
+367,
+[
+"City of Light",
+"City of Love",
+"Lutetia"
+]
 ],
 [
 "London",
-357
+357,
+[
+"Augusta",
+"Big Smoke",
+"Kaerlud",
+"Karelundein",
+"LDN",
+"Llan Dian",
+"Llyn Dain",
+"Lon.",
+"Loñ",
+"Loñ.",
+"Lond.",
+"Londini",
+"Londiniensium",
+"Londinio",
+"Londinion",
+"Londinium",
+"London, England",
+"London U.K.",
+"London UK",
+"London, UK",
+"London, United Kingdom",
+"Loniniensi",
+"Lunden",
+"Lundenburgh",
+"Lundenburh",
+"Lundenwic",
+"the Big Smoke",
+"Trinovantum"
+]
 ],
 [
 "Rome",
-344
+344,
+[
+"Capital of the World",
+"City of Marble",
+"City of Seven Hills",
+"Eternal City",
+"Rome, Italy",
+"The Capital of the World",
+"The City of Marble",
+"The Eternal City"
+]
 ],
 [
 "Vatican City",
-343
+343,
+[
+"Città del Vaticano",
+"Holy See",
+"Papal State",
+"State of Vatican City",
+"Stato della Città del Vaticano",
+"Status Civitatis Vaticanae",
+"The Vatican",
+"Vatican",
+"Vatican City State"
+]
 ],
 [
 "Moscow",
-338
+338,
+[
+"City of Moscow",
+"Moscow, Russia",
+"Moscow, Russian Federation",
+"Moscow, Russian SFSR",
+"Moscow, Soviet Union",
+"Moscow, USSR",
+"Moskovĭ",
+"Moskva Federal City, Russia",
+"Moskva, Rossiya",
+"Moskva, Russia",
+"Moskve",
+"Moskvë",
+"Moskvi",
+"Mosky",
+"Москва"
+]
 ],
 [
 "Berlin",
-335
+335,
+[
+"Berlin, Germany",
+"DE-BE"
+]
 ],
 [
 "Singapore",
-333
+333,
+[
+"Garden City",
+"Lion City",
+"Republic of Singapore",
+"sg",
+"Singapore City",
+"S'pore"
+]
 ],
 [
 "Monaco",
-322
+322,
+[
+"Fort-Hercule",
+"mc",
+"Mùnegu",
+"Principality and Diocese of Monaco",
+"Principality of Monaco",
+"Principato di Monaco",
+"Principatu de Mu̍negu",
+"Prinçipatu de Mùnegu",
+"Principauté de Monaco"
+]
 ],
 [
 "Madrid",
-306
+306,
+[]
 ],
 [
 "Beijing",
-306
+306,
+[
+"Bākgīng",
+"Beeijing",
+"Beijing Shi",
+"Bei Jing Shi",
+"Beiping",
+"BJ",
+"Chi",
+"Chi-ch'eng",
+"Chi-cheng",
+"Chi-ch’êng",
+"Chung-tu",
+"Chungtu",
+"Ji",
+"Jicheng",
+"Khanbalik",
+"Khanbaliq",
+"Pak-kiann",
+"Pei-ching",
+"Pei-p'ing",
+"Pei-ping",
+"Peip'ing",
+"Peiping",
+"Pekin",
+"Pe-king",
+"Peking Shi",
+"Poh-cin",
+"Shuntian",
+"Shuntianfu",
+"Shuntian Fu",
+"Shun-t'ien",
+"Shun-tien",
+"Yan-ching",
+"Yanjing",
+"Yanking",
+"Zhongdu"
+]
 ],
 [
 "Tokyo",
-303
+303,
+[
+"Edo",
+"Jedo",
+"Tokei",
+"Tokio",
+"Tôkyô",
+"Tokyo (Japan)",
+"Tokyo, Japan",
+"Tokyo Metropolis",
+"Tokyo Metropolitan prefecture",
+"Tokyo Prefecture",
+"Tokyo-to",
+"Tôkyô-to",
+"Tōkyō-to",
+"Yedo"
+]
 ],
 [
 "Jerusalem",
-299
+299,
+[
+"Aelia Capitolina",
+"J'lem",
+"Mint of Aelia Capitolina"
+]
 ],
 [
 "Washington, D.C.",
-299
+299,
+[
+"City of Washington, D.C.",
+"D.C.",
+"D.C. Washington",
+"District of Columbia",
+"Federal City (D.C.)",
+"Nation's Capital (D.C.)",
+"The District",
+"Washington City, D.C.",
+"Washington, District of Columbia"
+]
 ],
 [
 "Vienna",
-294
+294,
+[
+"Vienna, Austria"
+]
 ],
 [
 "Helsinki",
-293
+293,
+[
+"Helsingia",
+"Helsingin kaupunki",
+"Hesa",
+"Stadi"
+]
 ],
 [
 "Athens",
-289
+289,
+[
+"Athenae",
+"Athens city"
+]
 ],
 [
 "Warsaw",
-288
+288,
+[]
 ],
 [
 "Amsterdam",
-285
+285,
+[
+"A'dam",
+"Amsterdam, Netherlands",
+"Amsterdam, NL",
+"Amsterdam, North Holland",
+"Mokum"
+]
 ],
 [
 "Bogotá",
-284
+284,
+[
+"Bogota, Colombia",
+"Bogotá, D.C.",
+"Santafé de Bogotá"
+]
 ],
 [
 "Tirana",
-280
+280,
+[]
 ],
 [
 "Stockholm",
-279
+279,
+[
+"Sthlm",
+"STHLM"
+]
 ],
 [
 "Kyiv",
-277
+277,
+[
+"Kief",
+"Kieff",
+"Kiew",
+"Kiof",
+"Kioff",
+"Kiou",
+"Kiovia",
+"Kiow",
+"Kiowia",
+"Kiyev",
+"Kyïv",
+"Kyiw",
+"Kyjiw",
+"Kyїv"
+]
 ],
 [
 "Buenos Aires",
-276
+276,
+[
+"Ciudad Autonoma de Buenos Aires",
+"Ciudad de Buenos Aires"
+]
 ],
 [
 "Santiago",
-276
+276,
+[
+"Greater Santiago",
+"Santiago, Chile"
+]
 ],
 [
 "Prague",
-270
+270,
+[
+"City of Prague",
+"Hlavní město Praha"
+]
 ],
 [
 "Lisbon",
-267
+267,
+[]
 ],
 [
 "Bangkok",
-263
+263,
+[
+"Bangkok, Thailand",
+"Krung Thep",
+"Krungthepmahanakhon Amonrattanakosin Mahintharayutthaya Mahadilokphop Noppharatratchathaniburirom Udomratchaniwetmahasathan Amonphimanawatansathit Sakkathattiyawitsanukamprasit",
+"Sia-Yut'hia"
+]
 ],
 [
 "Cairo",
-262
+262,
+[
+"Cairo, Egypt",
+"ghahere",
+"Qahira"
+]
 ],
 [
 "Mexico City",
-260
+260,
+[
+"City of Mexico",
+"Mexico",
+"Mexico City, Mexico",
+"Mexico D.F."
+]
 ],
 [
 "Budapest",
-260
+260,
+[
+"Alt-Ofen",
+"Buda",
+"Buda Pest",
+"Buda-Pest",
+"Budapešť",
+"Budapesta",
+"Buda-Pesth",
+"Budapest, Hungary",
+"Budapeszt",
+"Budim",
+"Budín",
+"Budon",
+"Ofen",
+"Pest",
+"Pešť",
+"Pešta"
+]
 ],
 [
 "Seoul",
-260
+260,
+[
+"Gyeongseong",
+"Hanseong",
+"Hanyang",
+"Keijō",
+"Keijou",
+"Namgyeong",
+"Seoul Special City",
+"Sŏul T'ŭkpyŏlsi",
+"Wiryeseong"
+]
 ],
 [
 "Jakarta",
-252
+252,
+[
+"Djakarta",
+"DKI Jakarta",
+"Jakarta, Indonesia",
+"Jakarta Province",
+"Jakarta Specific Region",
+"Specific Capital Region of Jakarta",
+"Specific Region of Jakarta"
+]
 ],
 [
 "Baghdad",
-251
+251,
+[
+"Bagdat",
+"Baghdād"
+]
 ],
 [
 "Baku",
-249
+249,
+[
+"Baki",
+"Baky",
+"City of Winds"
+]
 ],
 [
 "Copenhagen",
-245
+245,
+[
+"Copenhagen, Denmark",
+"CPH",
+"Hafn",
+"Kbh.",
+"KBH",
+"Kobenhavn",
+"Köbenhavn",
+"Kopenhagen"
+]
 ],
 [
 "Oslo",
-245
+245,
+[
+"NOOSL",
+"Oslo, Norway"
+]
 ],
 [
 "Ankara",
-243
+243,
+[]
 ],
 [
 "Damascus",
-243
+243,
+[
+"Jasmine city",
+"Mint of Damascus",
+"Sham city"
+]
 ],
 [
 "Tehran",
-242
+242,
+[
+"Ṭihrán"
+]
 ],
 [
 "Brussels",
-240
+240,
+[
+"Brussels City",
+"Brussels (municipality)",
+"City of Brussels"
+]
 ],
 [
 "Nairobi",
-239
+239,
+[
+"Kenya capital",
+"Kenya capital city",
+"Kenyan capital",
+"Kenya's capital",
+"Nairobi, Kenya"
+]
 ],
 [
 "Dublin",
-238
+238,
+[
+"City of Dublin",
+"Dublin city",
+"Dublin, Ireland"
+]
 ],
 [
 "Bucharest",
-238
+238,
+[
+"Bucharest, Romania",
+"Bucuresti",
+"Bucureşti",
+"București",
+"Little Paris",
+"Paris of the East"
+]
 ],
 [
 "Ottawa",
-233
+233,
+[
+"City of Ottawa",
+"Ottawa, ON",
+"Ottawa, Ontario"
+]
 ],
 [
 "Minsk",
-232
+232,
+[
+"Mensk",
+"Miensk",
+"Mińsk",
+"Minskas",
+"Менск",
+"Минск",
+"Мінск"
+]
 ],
 [
 "Tallinn",
-230
+230,
+[
+"Kolywan",
+"Lindanäs",
+"Lyndanisse",
+"Reuel",
+"Revel",
+"Rewel",
+"Tallinn, Estonia"
+]
 ],
 [
 "Vilnius",
-230
+230,
+[
+"Viļņa",
+"Vilnė",
+"Vilnia",
+"Viĺnia",
+"Vilno",
+"Vilnyus"
+]
 ],
 [
 "Belgrade",
-230
+230,
+[
+"Belgrade, Serbia",
+"City of Belgrade"
+]
 ],
 [
 "Sofia",
-228
+228,
+[
+"Serdica",
+"Sofija",
+"Sredets",
+"Sredez"
+]
 ],
 [
 "Tbilisi",
-228
+228,
+[
+"Tbilisi, Georgia",
+"Tbilissi",
+"Tiflis",
+"Tpilisi",
+"Tpilissi"
+]
 ],
 [
 "Bratislava",
-226
+226,
+[]
 ],
 [
 "Brasília",
-226
+226,
+[]
 ],
 [
 "Kabul",
-226
+226,
+[
+"Cabool",
+"Cabul",
+"Caubul",
+"Kabol",
+"Kaboul"
+]
 ],
 [
 "Riga",
-225
+225,
+[
+"Rige",
+"Rīgõ",
+"Riia",
+"Rija"
+]
 ],
 [
 "Dhaka",
-223
+223,
+[
+"Dacca",
+"Dhaka City"
+]
 ],
 [
 "New Delhi",
-222
+222,
+[
+"Nai Dilli",
+"Nayi Dilli",
+"NDMC area",
+"New Delhi Municipal Council Area"
+]
 ],
 [
 "Lima",
-220
+220,
+[
+"City of the Kings"
+]
 ],
 [
 "Cape Town",
-219
+219,
+[
+"Cape",
+"Cape Town, South Africa",
+"iKapa",
+"Kaap",
+"Mother City",
+"Tavern of the Seas",
+"West side"
+]
 ],
 [
 "Sarajevo",
-218
+218,
+[
+"Bosna-Serai",
+"City of Sarajevo"
+]
 ],
 [
 "Zagreb",
-218
+218,
+[]
 ],
 [
 "Astana",
-218
+218,
+[
+"Akmola",
+"Akmolinsk",
+"Aqmola",
+"Nur-Sultan",
+"Tselinograd"
+]
 ],
 [
 "Reykjavík",
-218
+218,
+[
+"Reykjavik",
+"Reykjavikurborg",
+"Reykjavíkurborg"
+]
 ],
 [
 "Caracas",
-216
+216,
+[
+"Carracas",
+"CCS",
+"Santiago de León de Caracas"
+]
 ],
 [
 "Algiers",
-216
+216,
+[]
 ],
 [
 "Kuala Lumpur",
-214
+214,
+[
+"Federal Territory of Kuala Lumpur",
+"K.L.",
+"KL"
+]
 ],
 [
 "Yerevan",
-214
+214,
+[
+"Erivan",
+"Iravan",
+"Irevan",
+"Ravan",
+"Revan",
+"The Pink City"
+]
 ],
 [
 "Canberra",
-213
+213,
+[
+"Canberra, Australia",
+"Canberra, Australian Capital Territory"
+]
 ],
 [
 "Beirut",
-213
+213,
+[
+"Beyrout"
+]
 ],
 [
 "Manila",
-208
+208,
+[
+"City of Manila",
+"Pearl of the Orient",
+"Queen City of the Pacific and others"
+]
 ],
 [
 "Kinshasa",
-208
+208,
+[
+"Leopoldstad"
+]
 ],
 [
 "Bern",
-207
+207,
+[
+"Berna",
+"Berne",
+"city of Bern"
+]
 ],
 [
 "Montevideo",
-206
+206,
+[
+"Montevideo, Uruguay"
+]
 ],
 [
 "Ljubljana",
-206
+206,
+[
+"Labacum",
+"Ljubljana, Slovenia",
+"Lublana"
+]
 ],
 [
 "Nicosia",
-204
+204,
+[
+"Ledra",
+"Ledrae",
+"Ledroi",
+"Ledron",
+"Lefkosa",
+"Lefkosia",
+"Leucopolis",
+"Leucosia",
+"Leucotheon",
+"Leukoi Theoi",
+"Leuteon",
+"Nicosie"
+]
 ],
 [
 "Hanoi",
-203
+203,
+[
+"Đại La",
+"Dong Do",
+"Ha Noi",
+"Hà Nội",
+"Thang Long",
+"Tonkin"
+]
 ],
 [
 "Pyongyang",
-202
+202,
+[
+"Capital of Revolution",
+"Pyeongyang",
+"P’yŏng-yang",
+"Ryugyong"
+]
 ],
 [
 "Accra",
-202
+202,
+[]
 ],
 [
 "Abuja",
-201
+201,
+[]
 ],
 [
 "Taipei",
-200
+200,
+[
+"City of Taipei",
+"Taibei",
+"Taihoku",
+"Taipak",
+"Tâi-pak",
+"Tai Pei",
+"Taipei City",
+"Tanshoui",
+"The City of Azaleas",
+"Thoipet",
+"Thòi-pet"
+]
 ],
 [
 "Addis Ababa",
-200
+200,
+[
+"Addis Abäba",
+"Finfinne"
+]
 ],
 [
 "Havana",
-199
+199,
+[
+"Habana",
+"Havana, Cuba",
+"La Habana"
+]
 ],
 [
 "Kathmandu",
-199
+199,
+[
+"Cadmendu",
+"Catmandir",
+"Catmeduour",
+"City of Temples",
+"Kadmendu",
+"Kantipur",
+"Kasthamandap",
+"Káthmándú",
+"Kathmandu Metropolitan City",
+"Kathmandu Valley",
+"Katmandir",
+"Katmandou",
+"Katmandu",
+"Khatmandu",
+"Yambu",
+"Yen"
+]
 ],
 [
 "Skopje",
-197
+197,
+[
+"Escópia",
+"Shkup",
+"Shkupi",
+"Skoplje",
+"Üsküb"
+]
 ],
 [
 "Islamabad",
-196
+196,
+[]
 ],
 [
 "Riyadh",
-196
+196,
+[
+"Al Riyadh",
+"Al-Riyadh",
+"AlRiyadh",
+"Ar-Riyadh",
+"Reyadh"
+]
 ],
 [
 "Chișinău",
-195
+195,
+[
+"Chisinau",
+"Chişinău",
+"Chisnau",
+"Keshenev",
+"Keshinov",
+"Khisinau",
+"Kischinew",
+"Kischiniov",
+"Kiscinev",
+"Kishinef",
+"Kishinev",
+"Kishinëv",
+"Kişinev",
+"Kišinìv",
+"Kiszyniów",
+"Kyshyniv"
+]
 ],
 [
 "Tashkent",
-195
+195,
+[
+"Binkath",
+"Chach",
+"Choch",
+"Shash",
+"Shosh",
+"Tashkand",
+"Toshkent"
+]
 ],
 [
 "Andorra la Vella",
-194
+194,
+[]
 ],
 [
 "Amman",
-194
+194,
+[
+"Aman",
+"Amman, Jordan",
+"Ammon",
+"Mint of Philadelphia",
+"Philadelphia",
+"ʿAmmān"
+]
 ],
 [
 "Pretoria",
-194
+194,
+[
+"Pretoria, Gauteng",
+"Pretoria, Gauteng, South Africa",
+"Pretoria, S Africa",
+"Pretoria, S. Africa",
+"Pretoria, South Africa"
+]
 ],
 [
 "Podgorica",
-192
+192,
+[
+"Burguriçe",
+"Capital of Montenegro"
+]
 ],
 [
 "Ulaanbaatar",
-191
+191,
+[
+"East Hüree",
+"Hüree",
+"Ih Huree",
+"Ikh Khüree",
+"Khan of Urga",
+"Khüree",
+"Kulun",
+"Niislel Hüree",
+"Örgöö",
+"Wulan Batuo"
+]
 ],
 [
 "Tel Aviv",
-191
+191,
+[
+"Tel aviv",
+"Tel-aviv",
+"Tel-Aviv",
+"Tel Aviv City",
+"Tel Aviv, Israel",
+"Tel Aviv Jaffa",
+"Tel Aviv-Jaffa",
+"Tel-Aviv Jaffa",
+"Tel Aviv-Jafo",
+"Tel Aviv-Yaffo",
+"Tel Aviv-Yafo",
+"Tel-Aviv Yafo",
+"TLV"
+]
 ],
 [
 "Rabat",
-191
+191,
+[
+"Rabbat"
+]
 ],
 [
 "Tripoli",
-189
+189,
+[
+"Tarabulus"
+]
 ],
 [
 "Vaduz",
-188
+188,
+[
+"Vaduz, Liechtenstein"
+]
 ],
 [
 "Doha",
-188
+188,
+[]
 ],
 [
 "Abu Dhabi",
-187
+187,
+[
+"Abudhabi",
+"Abū Dhabi"
+]
 ],
 [
 "Ashgabat",
-187
+187,
+[
+"Ak-Gaudan",
+"Aschchabad",
+"Ashabad",
+"Ashkabad",
+"Ashkabat",
+"Ashqabad",
+"Askabad",
+"Askhabad",
+"'Ishqabad",
+"`Ishqabad",
+"Ishqabad",
+"`Ishqábád",
+"Ishqabat",
+"Konjikala"
+]
 ],
 [
 "Wellington",
-187
+187,
+[
+"Pōneke",
+"Port Nicholson",
+"Port Nick",
+"Te Whanga-nui-a-Tara",
+"Te Whanganui-a-Tara",
+"Wellington metropolitan area",
+"Wellington, New Zealand",
+"Wellington, NZ"
+]
 ],
 [
 "Luanda",
-187
+187,
+[
+"Loanda",
+"Loanda, Angola",
+"Luanda, Angola",
+"Saint Paul of Loanda",
+"Saint Paul of Luanda",
+"Sao Paulo, Angola",
+"São Paulo, Angola",
+"São Paulo da Assunção de Loanda",
+"Sao Paulo de Loanda",
+"São Paulo de Loanda",
+"St Paul of Loanda",
+"St. Paul of Loanda",
+"St Paul of Luanda",
+"St. Paul of Luanda"
+]
 ],
 [
 "Bishkek",
-187
+187,
+[
+"Pishpek"
+]
 ],
 [
 "Khartoum",
-185
+185,
+[
+"Khartum"
+]
 ],
 [
 "Tunis",
-184
+184,
+[]
 ],
 [
 "Kampala",
-184
+184,
+[
+"uganda's Capital city"
+]
 ],
 [
 "The Hague",
-183
+183,
+[
+"Den Haag"
+]
 ],
 [
 "Phnom Penh",
-181
+181,
+[]
 ],
 [
 "Valletta",
-181
+181,
+[
+"Capital of Malta",
+"Citta Umilissima",
+"Città Umilissima",
+"Il-Belt Valletta",
+"La Valleta"
+]
 ],
 [
 "Quito",
-181
+181,
+[
+"Kitu",
+"Quito, Ecuador"
+]
 ],
 [
 "Dushanbe",
-179
+179,
+[
+"Dyushambe",
+"Stalinabad"
+]
 ],
 [
 "Asunción",
-177
+177,
+[
+"Assumption",
+"Asu",
+"Asuncion"
+]
 ],
 [
 "Bamako",
-177
+177,
+[]
 ],
 [
 "Dakar",
-177
+177,
+[]
 ],
 [
 "Luxembourg",
-176
+176,
+[
+"City of Luxembourg",
+"Luxembourg City",
+"Luxemburg"
+]
 ],
 [
 "Harare",
-175
+175,
+[
+"Fort Salisbury",
+"Salisbury, Rhodesia",
+"Salisbury, Zimbabwe"
+]
 ],
 [
 "Vientiane",
-175
+175,
+[
+"Bientani",
+"Nakhon Viangchan",
+"urban Vientiane",
+"Viang chan",
+"Viangchan",
+"Vieṅ Čan",
+"Vienchan",
+"Vien Chang",
+"Vieng-Cæn",
+"Vieṅg-Čăn",
+"Viengchan",
+"Vientane",
+"Vyentyan",
+"Wei-t'ien",
+"Wiangcan",
+"Wīangčhan"
+]
 ],
 [
 "Windhoek",
-174
+174,
+[
+"Otjomuise",
+"Windhök",
+"Windhuk",
+"ǀAi-ǁGams"
+]
 ],
 [
 "Sanaa",
-173
+173,
+[
+"San'a'",
+"Sana",
+"Sana'a",
+"Ṣanʻāʼ",
+"Ṣanʿāʾ"
+]
 ],
 [
 "Brazzaville",
-172
+172,
+[]
 ],
 [
 "Mogadishu",
-171
+171,
+[
+"Hamar",
+"Maqadīshū",
+"Mogadishu, Somalia",
+"The Seat of the Shah",
+"Xamar"
+]
 ],
 [
 "Ouagadougou",
-170
+170,
+[
+"Kumbee-Tenga",
+"Ouaga",
+"Wagadugu"
+]
 ],
 [
 "Thimphu",
-170
+170,
+[
+"Thimpu",
+"ཐིམ་ཕུ་"
+]
 ],
 [
 "Kuwait City",
-169
+169,
+[
+"al-Kuwait",
+"Al Kuwait",
+"Kuwait"
+]
 ],
 [
 "Bissau",
-169
+169,
+[]
 ],
 [
 "Manama",
-169
+169,
+[
+"al-Manāmah"
+]
 ],
 [
 "Asmara",
-167
+167,
+[
+"Asmera"
+]
 ],
 [
 "N'Djamena",
-166
+166,
+[
+"NDjamena",
+"N'Djaména"
+]
 ],
 [
 "Yaoundé",
-166
+166,
+[
+"Ongola",
+"Yaounde",
+"Yaounde, Cameroon",
+"Yaoundé, Cameroon"
+]
 ],
 [
 "Lusaka",
-166
+166,
+[]
 ],
 [
 "Maputo",
-166
+166,
+[
+"Cam Phumo",
+"Lourenço Marques"
+]
 ],
 [
 "Lomé",
-165
+165,
+[
+"Lome",
+"Lome, Togo",
+"Lomé, Togo"
+]
 ],
 [
 "Banjul",
-164
+164,
+[
+"Bathurst",
+"City of Banjul"
+]
 ],
 [
 "Monrovia",
-164
+164,
+[]
 ],
 [
 "Kigali",
-164
+164,
+[
+"City of Kigali",
+"Kigali City"
+]
 ],
 [
 "Antananarivo",
-164
+164,
+[
+"Analamanga",
+"Iarivo",
+"Tananarive"
+]
 ],
 [
 "Gaborone",
-164
+164,
+[
+"Gaberones",
+"Gabs",
+"Motse-Mshate"
+]
 ],
 [
 "Bandar Seri Begawan",
-164
+164,
+[
+"Bandar",
+"Bandar Brunei",
+"Brunei Town",
+"BSB",
+"Seri Begawan"
+]
 ],
 [
 "Niamey",
-163
+163,
+[
+"Niamey Urban Community"
+]
 ],
 [
 "Conakry",
-163
+163,
+[]
 ],
 [
 "Libreville",
-162
+162,
+[
+"Libreville, Gabon"
+]
 ],
 [
 "Paramaribo",
-161
+161,
+[
+"Parbo"
+]
 ],
 [
 "Panama City",
-160
+160,
+[
+"Ciudad de Panama",
+"Ciudad de Panamá",
+"Panama",
+"Panamá"
+]
 ],
 [
 "Kingston",
-160
+160,
+[
+"Kingston, Jamaica",
+"Kingston, Surrey"
+]
 ],
 [
 "Porto-Novo",
-160
+160,
+[
+"Ajashe",
+"Hogbonu"
+]
 ],
 [
 "Tegucigalpa",
-159
+159,
+[]
 ],
 [
 "Muscat",
-159
+159,
+[
+"Maskat",
+"Muskat"
+]
 ],
 [
 "Bangui",
-159
+159,
+[]
 ],
 [
 "Dodoma",
-159
+159,
+[
+"Dodoma City"
+]
 ],
 [
 "Dili",
-159
+159,
+[
+"City of Dili"
+]
 ],
 [
 "La Paz",
-158
+158,
+[
+"Chuqiyapu",
+"Chuqi Yapu",
+"Nuestra Señora de La Paz"
+]
 ],
 [
 "Pristina",
-158
+158,
+[
+"Prishtina",
+"Prishtinë",
+"Priština",
+"Priştina"
+]
 ],
 [
 "Port-au-Prince",
-158
+158,
+[
+"Port au Prince"
+]
 ],
 [
 "Naypyidaw",
-158
+158,
+[
+"Naypyitaw",
+"Nay Pyi Taw"
+]
 ],
 [
 "Praia",
-158
+158,
+[]
 ],
 [
 "Freetown",
-157
+157,
+[]
 ],
 [
 "Guatemala City",
-156
+156,
+[
+"City of Guatemala",
+"Guate",
+"Guatemala",
+"Guatemala (Guatemala)",
+"New Guatemala of Assumption",
+"Nueva Guatemala de la Asunción"
+]
 ],
 [
 "Nouakchott",
-156
+156,
+[
+"Capital of Mauritania",
+"Nawakshut",
+"Nawākshūṭ",
+"Nouakchot",
+"Nouakchott, Mauritania",
+"Noukchott",
+"Nuwākshūṭ"
+]
 ],
 [
 "Yamoussoukro",
-156
+156,
+[]
 ],
 [
 "Lilongwe",
-155
+155,
+[]
 ],
 [
 "Port Louis",
-155
+155,
+[
+"Polwi",
+"Porlwi",
+"Port-Louis"
+]
 ],
 [
 "Malé",
-155
+155,
+[
+"Malé City"
+]
 ],
 [
 "Port Moresby",
-154
+154,
+[]
 ],
 [
 "Maseru",
-154
+154,
+[]
 ],
 [
 "Santo Domingo",
-153
+153,
+[
+"San Domingo",
+"Santo Domingo de Guzman",
+"Santo Domingo, Dominican Republic"
+]
 ],
 [
 "Colombo",
-153
+153,
+[]
 ],
 [
 "Sucre",
-152
+152,
+[
+"Charcas",
+"Chuquisaca",
+"La Plata",
+"The Illustrious and Heroic Sucre"
+]
 ],
 [
 "Juba",
-151
+151,
+[]
 ],
 [
 "San José",
-151
+151,
+[]
 ],
 [
 "San Salvador",
-150
+150,
+[]
 ],
 [
 "Djibouti",
-149
+149,
+[
+"Djibouti (city)",
+"Djibouti City"
+]
 ],
 [
 "Belmopan",
-147
+147,
+[
+"City of Promise",
+"The Garden City",
+"The Planned City"
+]
 ],
 [
 "Victoria",
-147
+147,
+[
+"Port Victoria",
+"Victoria, Seychelles"
+]
 ],
 [
 "Georgetown",
-146
+146,
+[
+"Garden City of the Caribbean",
+"Georgetown, British Guiana"
+]
 ],
 [
 "Bridgetown",
-146
+146,
+[]
 ],
 [
 "Moroni",
-145
+145,
+[
+"Moroni, Comoros"
+]
 ],
 [
 "Bloemfontein",
-144
+144,
+[]
 ],
 [
 "Mbabane",
-144
+144,
+[
+"Mbabané"
+]
 ],
 [
 "San Marino",
-143
+143,
+[
+"City of San Marino"
+]
 ],
 [
 "Nassau",
-143
+143,
+[
+"City of Nassau"
+]
 ],
 [
 "Apia",
-142
+142,
+[]
 ],
 [
 "Suva",
-141
+141,
+[]
 ],
 [
 "São Tomé",
-141
+141,
+[]
 ],
 [
 "Port of Spain",
-140
+140,
+[
+"Cumucurapo",
+"Port-of-Spain",
+"Puerto España"
+]
 ],
 [
 "Port Vila",
-137
+137,
+[]
 ],
 [
 "Castries",
-133
+133,
+[]
 ],
 [
 "Ramallah",
-130
+130,
+[]
 ],
 [
 "St. George's",
-130
+130,
+[
+"Saint George's",
+"Saint Georges",
+"Saint Georges, Granada",
+"Saint George's, Grenada",
+"St Georges, Granada",
+"St. George's, Grenada"
+]
 ],
 [
 "Honiara",
-129
+129,
+[]
 ],
 [
 "Roseau",
-126
+126,
+[]
 ],
 [
 "Nukuʻalofa",
-126
+126,
+[
+"Nuku'alofa"
+]
 ],
 [
 "Sri Jayawardenepura Kotte",
-125
+125,
+[]
 ],
 [
 "Majuro",
-124
+124,
+[
+"Mājro",
+"Majuro, Marshall Islands"
+]
 ],
 [
 "Funafuti",
-124
+124,
+[
+"Funafuti Island"
+]
 ],
 [
 "Basseterre",
-124
+124,
+[]
 ],
 [
 "Palikir",
-120
+120,
+[]
 ],
 [
 "Kingstown",
-119
+119,
+[]
 ],
 [
 "Yaren District",
-115
+115,
+[
+"Makwa",
+"Moqua",
+"Yaren"
+]
 ],
 [
 "Cotonou",
-113
+113,
+[
+"Kútɔ̀nú"
+]
 ],
 [
 "Aden",
-110
+110,
+[]
 ],
 [
 "Putrajaya",
-101
+101,
+[
+"Federal Territory of Purajaya"
+]
 ],
 [
 "South Tarawa",
-99
+99,
+[]
 ],
 [
 "Lobamba",
-98
+98,
+[]
 ],
 [
 "Gitega",
-97
+97,
+[
+"Kitega"
+]
 ],
 [
 "Nusantara",
-90
+90,
+[
+"Ibu Kota Nusantara",
+"IKN",
+"Nusantara Capital City"
+]
 ],
 [
 "Ngerulmud",
-88
+88,
+[]
 ],
 [
 "East Jerusalem",
-82
+82,
+[
+"Arab Jerusalem",
+"Eastern Jerusalem"
+]
 ],
 [
 "Ciudad de la Paz",
-66
+66,
+[
+"Oyala"
+]
 ],
 [
 "Managua",
-1
+1,
+[
+"City of Managua",
+"City of Managua (City)",
+"Managua (City)",
+"Managua City",
+"Santiago de Managua"
+]
 ]
 ]

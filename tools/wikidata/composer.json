@@ -1,1710 +1,16752 @@
 [
 [
 "Johann Wolfgang von Goethe",
-280
+280,
+[]
 ],
 [
 "Wolfgang Amadeus Mozart",
-275
+275,
+[
+"Apollo Mozzart",
+"Joannes Chrysostomus Wolfgangus Amadeus Mozart",
+"Johann Chrysostomos Wolfgang Gottlieb Mozart",
+"Mozhate",
+"V. A. Mocartas",
+"Volphnkank Amedaios Motsart",
+"Wolfgang Amadè Mozart",
+"Wolfgang Amadeus Chrysostom Mozart",
+"Wolfgango Amadeo Mozart"
+]
 ],
 [
 "Ludwig van Beethoven",
-274
+274,
+[
+"L. Bethovenas",
+"Louis van Beethoven",
+"Ludvig van Beethoven",
+"Ludwig von Beethoven",
+"Ludwik van Beethoven",
+"L. van Betkhoven",
+"L. v. Beethoven"
+]
 ],
 [
 "Martin Luther",
-260
+260,
+[
+"Junker Jörg"
+]
 ],
 [
 "Johann Sebastian Bach",
-259
+259,
+[
+"J S Bach"
+]
 ],
 [
 "Friedrich Nietzsche",
-256
+256,
+[
+"Friedrich Wilhelm Nietzsche"
+]
 ],
 [
 "Jean-Jacques Rousseau",
-236
+236,
+[
+"Citizen of Geneva"
+]
 ],
 [
 "Richard Wagner",
-207
+207,
+[]
 ],
 [
 "Frédéric Chopin",
-200
+200,
+[]
 ],
 [
 "Pyotr Ilyich Tchaikovsky",
-192
+192,
+[
+"Chaikovsky",
+"Chajkovskij",
+"Peter Ilich Tchaikovsky",
+"Peter Tchaikovsky",
+"Piotr Ilyitch Tchaikovsky",
+"Pyotr Il'ich Chaikovskiy",
+"Pyotr Il'yich Tchaikovsky",
+"Pyotr Tchaikovsky",
+"Tschaikowski",
+"Tschaikowsky"
+]
 ],
 [
 "Giuseppe Verdi",
-180
+180,
+[
+"Giuseppe Fortunino Francesco Verdi",
+"Verdi"
+]
 ],
 [
 "Franz Schubert",
-174
+174,
+[
+"François Schubert",
+"Schubert"
+]
 ],
 [
 "Antonio Vivaldi",
-169
+169,
+[
+"Antonio Luciano Vivaldi",
+"Antonio Vivarudi",
+"A. Vivaldis"
+]
 ],
 [
 "Igor Stravinsky",
-168
+168,
+[
+"Igor Fedorovich Stravinsky",
+"Igor Feodorovich Stravinsky",
+"Igor Fyodorovich Stravinsky",
+"Igor Stravinski",
+"Igor Stravinskii",
+"Igor Strawinski",
+"Igor Strawinskij",
+"Igor Strawinsky",
+"I. Strawinsky",
+"Jgor Strawinsky",
+"Stravinsky"
+]
 ],
 [
 "Johannes Brahms",
-162
+162,
+[
+"Brahms",
+"J. Brahms",
+"Marks, G. W."
+]
 ],
 [
 "George Frideric Handel",
-162
+162,
+[
+"George Frederick Handel",
+"George Frideric",
+"G. F. Handel",
+"G. F. Händel",
+"Handel",
+"Händel"
+]
 ],
 [
 "Joseph Haydn",
-159
+159,
+[
+"Franciscus Joseph Haydn",
+"Franciscus Josephus Haydn"
+]
 ],
 [
 "Gustav Mahler",
-153
+153,
+[
+"Gustave Mahler"
+]
 ],
 [
 "Antonín Dvořák",
-152
+152,
+[
+"Antonin Dvorák",
+"Antonín Dvorák",
+"Dvořák"
+]
 ],
 [
 "Giacomo Puccini",
-147
+147,
+[
+"Giaccomo Puccini",
+"Giacomo Puccini (1858 - 1924)",
+"Giacomo Puccini (1858-1924)",
+"Puccini"
+]
 ],
 [
 "Federico García Lorca",
-143
+143,
+[
+"Federico Carcia Lorca",
+"Federico Carcía Lorca",
+"Federico del Sagrado Corazon de Jesus Garcia Lorca",
+"Federico del Sagrado Corazón de Jesús García Lorca",
+"Federico Garcia Lorca",
+"Federico Garciá Lorca",
+"Federiko Garsia Lorka",
+"Federiko Garsii︠a︡ Lorka",
+"Federiḳo Garsiyah Lorḳah",
+"F. Garcia Lorca",
+"F. García Lorca",
+"F. G. Lorca",
+"Frederico Garcia Lorca",
+"Garcia Lorca",
+"García Lorca",
+"García Lorca, Federico",
+"G. F. Lorca",
+"Lorca",
+"Lorka",
+"Phederiko Gkarthia Lorka",
+"Phenteriko Gkarthia Lorka"
+]
 ],
 [
 "Hector Berlioz",
-135
+135,
+[]
 ],
 [
 "Claude Debussy",
-132
+132,
+[
+"Achille-Claude",
+"Achille Claude Debussy",
+"Achille-Claude Debussy",
+"A. Cl. Debussy",
+"C. Debussy",
+"Claude-Achille Debussy",
+"Debussy"
+]
 ],
 [
 "Robert Schumann",
-131
+131,
+[]
 ],
 [
 "Zhu Xi",
-131
+131,
+[
+"Cangzhou Bingsou",
+"Chi-yen",
+"Chucius",
+"Chu Hsi",
+"Chu Hui-an",
+"Chu K'ao-t'ing",
+"Chu Kao-ting",
+"Chung-hui",
+"Chu Tun-weng",
+"Chu-tzu",
+"Chu Tzu",
+"Chu Tzu-yang",
+"Chu Wen-kung",
+"Chu Yuan-hui",
+"Chu Yüan-hui",
+"Diwuyi",
+"Di Wuyi",
+"Dunweng",
+"Hui-an",
+"Hui'an",
+"Hui-weng",
+"Huiweng",
+"Jiyan",
+"K'ao-t'ing",
+"Kao-ting",
+"Kaoting",
+"Shen-lang",
+"Shenlang",
+"Tchu-hi",
+"Tchu Hi",
+"Tchu-wen-kong",
+"Tchu Wen-kong",
+"Ti-wu-i",
+"Ti Wu-i",
+"Ts'ang-chou Ping-sou",
+"Tsang-chou Ping-sou",
+"Tun-weng",
+"Tzu-yang",
+"Wen",
+"Wengong",
+"Wen-kong",
+"Wen-kung",
+"You-lang",
+"Youlang",
+"Yuan-hui",
+"Yuanhui",
+"Yüan-hui",
+"Yungu Laoren",
+"Yun-ku Lao-jen",
+"Yün-ku Lao-jen",
+"Zhonghui",
+"Zhu Dunweng",
+"Zhu Hui'an",
+"Zhu Kaoting",
+"Zhu Wengong",
+"Zhu Yuanhui",
+"Zhuzi",
+"Zhu Ziyang",
+"Ziyang"
+]
 ],
 [
 "Franz Liszt",
-127
+127,
+[
+"Abbé Franz Liszt",
+"Abbé Liszt",
+"Ferenc List",
+"Ferenc Liszt",
+"Ferencz Liszt",
+"F. Lists",
+"F. Liszt",
+"Francesco Liszt",
+"Franciscus List",
+"Franciszek Liszt",
+"François Liszt",
+"Frant︠s︡ List",
+"Franz List",
+"Franz von Liszt",
+"Franz Von Liszt",
+"Liszt-Brugnoli",
+"Liszt Ferencz"
+]
 ],
 [
 "Frederick II of Prussia",
-124
+124,
+[
+"Father Fritz",
+"Frederick II",
+"Frederick the Great",
+"The Old Fritz"
+]
 ],
 [
 "Felix Mendelssohn",
-124
+124,
+[
+"Felix Mendelssohn Bartholdy",
+"Felix Mendelssohn-Bartholdy",
+"Jakob Ludwig Felix Mendelssohn Bartholdy",
+"Mendelssohn",
+"Mendelssohn-Bartholdy"
+]
 ],
 [
 "Henry VIII of England",
-120
+120,
+[
+"Henry the Eighth",
+"Henry Tudor"
+]
 ],
 [
 "Hildegard of Bingen",
-114
+114,
+[
+"Abbess Hildegard of Bingen",
+"Hildegardis",
+"Hildegard von Bingen",
+"Saint Hildegard",
+"Saint Hildegarde de Bingen",
+"Saint Hildegard of Bingen",
+"Saint Hildegard von Bingen",
+"Saint Ildegarda di Bingen",
+"St. Hildegard"
+]
 ],
 [
 "Edvard Grieg",
-112
+112,
+[
+"Edoard Grieg"
+]
 ],
 [
 "Ezra Pound",
-110
+110,
+[
+"Ezra Loomis Pound",
+"Ezra Weston Loomis Pound"
+]
 ],
 [
 "Gioachino Rossini",
-108
+108,
+[
+"Dzhoakino Antonio Rosini",
+"Dzhoakkino Rossini",
+"Gioacchino Antonio Rossini",
+"Gioacchino Rossini",
+"Giovacchino Antonio Rossini",
+"Joachim Rossini",
+"Joakkīno A. Rosshīni",
+"Rossini"
+]
 ],
 [
 "Maurice Ravel",
-107
+107,
+[
+"Maurice Joseph Ravel"
+]
 ],
 [
 "Dmitri Shostakovich",
-106
+106,
+[
+"Dimitri Shostakovich",
+"Dmitri Dmitrievitch Chostakovitch",
+"Dmitri Dmitriyevich Shostakovich",
+"Dmitrii Dmitrievich Shostakovich",
+"Dmitriii Dmitrievich Shostakovich",
+"Dmitrij Šostakovič",
+"Shostakovich",
+"Shosty"
+]
 ],
 [
 "Jacques Offenbach",
-105
+105,
+[
+"Jacques Offenback",
+"Jakob Eberscht",
+"Jaques Offenbach"
+]
 ],
 [
 "Jean Sibelius",
-105
+105,
+[
+"Jan Sibelius",
+"Johan Julius Christian Sibelius",
+"Sibelius"
+]
 ],
 [
 "Georges Bizet",
-105
+105,
+[]
 ],
 [
 "Niccolò Paganini",
-105
+105,
+[
+"Niccolo Paganini",
+"Nicolo Paganini",
+"Paganini"
+]
 ],
 [
 "Béla Bartók",
-105
+105,
+[]
 ],
 [
 "Theodor W. Adorno",
-104
+104,
+[
+"Teodor V. Adorno",
+"Theodor Adorno",
+"Theodore W. Adorno",
+"Theodor Ludwig Adorno-Wellington",
+"Theodor Ludwig Adorno-Wiesengrund",
+"Theodor Ludwig Wiesengrund",
+"Theodor Wiesengrund",
+"Theodor Wiesengrund Adorno",
+"Theodor Wiesengrund-Adorno"
+]
 ],
 [
 "Stefania Turkevych-Lukiianovych",
-103
+103,
+[
+"Stefania Turkevycz-Lukianovycz",
+"Stefania Turkewich"
+]
 ],
 [
 "Huldrych Zwingli",
-100
+100,
+[
+"Ulricus Zurlinglius"
+]
 ],
 [
 "Sergei Prokofiev",
-95
+95,
+[
+"Sergei Sergeyevich Prokofiev",
+"Sergej Prokofjev",
+"Sergej Sergeevič Prokofʹev",
+"Serge Prokofieff",
+"Serge Prokofiev",
+"Serge Sergevitch Prokofieff",
+"Sergey Prokofiev",
+"Sergiusz Prokofiew"
+]
 ],
 [
 "Ennio Morricone",
-94
+94,
+[
+"Dan Savio",
+"Leo Nichols"
+]
 ],
 [
 "Richard Strauss",
-93
+93,
+[
+"Richard Georg Strauss"
+]
 ],
 [
 "Bedřich Smetana",
-93
+93,
+[
+"Bedrich Smetana"
+]
 ],
 [
 "Nikolai Rimsky-Korsakov",
-93
+93,
+[
+"Nikolai Andreyevich Rimsky-Korsakoff",
+"Nikolai Rimsky-Korsakoff",
+"Nikolay Rimskiy-Korsakov",
+"N. Rimsky-Korsakoff",
+"Rimsky-Korsakoff",
+"Rimsky-Korsakow"
+]
 ],
 [
 "Sergei Rachmaninoff",
-92
+92,
+[
+"Rach",
+"Rachmaninoff",
+"Rachmaninov",
+"Sergei Vasilievich Rachmaninoff",
+"Sergei Vasilyevich Rachmaninoff"
+]
 ],
 [
 "E. T. A. Hoffmann",
-92
+92,
+[
+"Amadeus Hoffman",
+"Amadeus Hoffmann",
+"Ernst T. A. Hoffmann",
+"ernst theodor amadeus hoffmann",
+"Ernst Theodor Amedeus Hoffmann",
+"Ernst Theodore Wilhelm Hoffmann",
+"Ernst Theodor Hoffmann",
+"Ernst Theodor Wilhelm Hoffman",
+"Ernst Theodor Wilhelm. Hoffman",
+"e. th. a. hoffmann",
+"E. T. Hoffmann"
+]
 ],
 [
 "Alexander Borodin",
-92
+92,
+[
+"Aleksandr Porfir'evič Borodin",
+"Aleksandr Porfir'evich Borodin",
+"Aleksandr Porfir'yevich Borodin",
+"Alexander Porfiryevich Borodin",
+"Alexandre Borodine",
+"Alexandre Porfirievitch Borodine"
+]
 ],
 [
 "Anton Bruckner",
-92
+92,
+[
+"Josef Anton Bruckner",
+"Joseph Anton Bruckner"
+]
 ],
 [
 "Johann Strauss II",
-90
+90,
+[
+"Johann Baptist Strauß",
+"Johann Baptist Strauss II",
+"Johann Strauss Jr",
+"Johann Strauss, Jr",
+"Johann Strauss, Jr.",
+"Johann Strauss, Junior",
+"Johann Strauss, the Son",
+"Johann Strauss, the Younger",
+"The Waltz King",
+"Waltz King alvarado",
+"Walzerkönig"
+]
 ],
 [
 "Modest Petrovich Mussorgsky",
-89
+89,
+[
+"Modest Petrovich Moussorgski",
+"Modest Petrovitsj Moesorgski",
+"Mussorgsky"
+]
 ],
 [
 "Arnold Schoenberg",
-85
+85,
+[
+"Arnold Franz Walter Schoenberg",
+"Arnold Schonberg",
+"Arnold Schönberg",
+"Arnolʹd Shenberg",
+"A. Schenberg",
+"A. Shenberg"
+]
 ],
 [
 "Erik Satie",
-84
+84,
+[
+"Alfred Erik Leslie Satie",
+"Eric Alfred Leslie Satie",
+"Éric Alfred Leslie Satie",
+"Eric Satie",
+"Éric Satie",
+"Erik Alfred Leslie Satie",
+"Ėrik Sati",
+"Ė. Sati"
+]
 ],
 [
 "Pedro I of Brazil",
-83
+83,
+[
+"Pedro I",
+"Pedro IV",
+"Pedro IV of Portugal",
+"Pedro IV of Portugal and I of Brazil",
+"Peter I of Brazil",
+"Peter IV of Portugal"
+]
 ],
 [
 "Christoph Willibald von Gluck",
-82
+82,
+[
+"Christoph von Glück",
+"Christoph Willibald",
+"Christoph Willibald Gluck",
+"Christoph Willibald Gluck, Ritter von"
+]
 ],
 [
 "Clara Schumann",
-82
+82,
+[
+"Clara Josephine Schumann",
+"Clara Wieck",
+"Clara Wieck Schumann"
+]
 ],
 [
 "Leonard Bernstein",
-82
+82,
+[]
 ],
 [
 "Carl Maria von Weber",
-82
+82,
+[]
 ],
 [
 "Ram Narayan",
-81
+81,
+[
+"Pandit Ramnarayan"
+]
 ],
 [
 "Camille Saint-Saëns",
-80
+80,
+[
+"Camille Saint-Saens",
+"C. Camille Saint-Saens",
+"Charles Camille Saint-Saens",
+"Charles-Camille Saint-Saëns",
+"Saint-Saens",
+"Saint-Saëns"
+]
 ],
 [
 "Aram Khachaturian",
-80
+80,
+[
+"Aram E. Khachaturyan",
+"Aram Ilich Khachaturian",
+"Aram Ilyich Khachaturian"
+]
 ],
 [
 "Charles Gounod",
-79
+79,
+[
+"Charles François Gounod",
+"Ch. Gounod"
+]
 ],
 [
 "Alexander Scriabin",
-79
+79,
+[
+"Aleksandr Nikolaevich Skryabin",
+"Aleksandr Nikolayevich Skryabin",
+"Alexander Skryabin",
+"Scriabin"
+]
 ],
 [
 "Gaetano Donizetti",
-78
+78,
+[
+"Domenico Gaetano Maria Donizetti",
+"Donizetti"
+]
 ],
 [
 "John Williams",
-78
+78,
+[]
 ],
 [
 "Anthony Burgess",
-77
+77,
+[
+"John Anthony Burgess Wilson",
+"John Burgess Wilson",
+"Joseph Kell"
+]
 ],
 [
 "John Cage",
-76
+76,
+[
+"J. C.",
+"John Milton Cage Jr.",
+"John Milton Cage, Jr.",
+"John Milton, Jr. Cage"
+]
 ],
 [
 "Michael Glinka",
-76
+76,
+[
+"M.I. Glinka",
+"Mikhail Ivanovich Glinka"
+]
 ],
 [
 "Edward Elgar",
-75
+75,
+[
+"Edward William Elgar"
+]
 ],
 [
 "Charles G. Dawes",
-75
+75,
+[
+"C. G. Dawes",
+"Charles Dawes",
+"Charles Gates Dawes",
+"Chas. G. Dawes"
+]
 ],
 [
 "Georg Philipp Telemann",
-75
+75,
+[
+"G. P. Telemann",
+"Telemann"
+]
 ],
 [
 "Antonio Salieri",
-74
+74,
+[
+"Salieri"
+]
 ],
 [
 "Irving Berlin",
-73
+73,
+[
+"I. Berlin",
+"Israel Balin",
+"Israel Baline",
+"Israel Isidore Baline"
+]
 ],
 [
 "Carl Philipp Emanuel Bach",
-73
+73,
+[
+"C. P. E. Bach",
+"Philipp Emanuel Bach"
+]
 ],
 [
 "Rouget de Lisle",
-72
+72,
+[]
 ],
 [
 "Liliʻuokalani",
-71
+71,
+[
+"Liliuokalani",
+"Lydia Kamakaʻeha Pākī",
+"Lydia K. Dominis",
+"Lydia Liliʻu Loloku Walania Wewehi Kamakaʻeha",
+"Queen Liliʻuokalani",
+"Queen Liliuokalani",
+"Queen Lydia Liliuokalani",
+"Queen of Hawaii Lili‘uokalani"
+]
 ],
 [
 "Jean-Philippe Rameau",
-71
+71,
+[
+"Jean Philippe Rameau"
+]
 ],
 [
 "Arthur Rubinstein",
-71
+71,
+[]
 ],
 [
 "Jean-Baptiste Lully",
-70
+70,
+[
+"Giovanni Battista Lulli",
+"Lulli"
+]
 ],
 [
 "Domenico Scarlatti",
-70
+70,
+[
+"D. Scarlatti",
+"Scarlatti"
+]
 ],
 [
 "Pietro Mascagni",
-70
+70,
+[
+"Mascagni"
+]
 ],
 [
 "Vincenzo Bellini",
-69
+69,
+[
+"Bellini",
+"Vincenzo Salvatore Carmelo Francesco Bellini"
+]
 ],
 [
 "Gabriel Fauré",
-68
+68,
+[
+"Gabriel Urbain Fauré"
+]
 ],
 [
 "Arturo Toscanini",
-68
+68,
+[]
 ],
 [
 "Benjamin Britten",
-68
+68,
+[
+"Edward Benjamin Britten",
+"Edward Benjamin Britten, Baron Britten of Aldeburgh OM CH"
+]
 ],
 [
 "Henry Purcell",
-68
+68,
+[]
 ],
 [
 "Leopold Mozart",
-67
+67,
+[
+"Johann Georg Leopold Mozart"
+]
 ],
 [
 "Mily Alexeyevich Balakirev",
-67
+67,
+[]
 ],
 [
 "Ruggero Leoncavallo",
-67
+67,
+[
+"R. Léoncavallo",
+"Ruggiero Giacomo Maria Giuseppe Emmanuele Raffaele Domenico Vincenzo Francesco Donato Leoncavallo",
+"Ruggiero Leoncavallo"
+]
 ],
 [
 "Johann Christian Bach",
-66
+66,
+[]
 ],
 [
 "Olivier Messiaen",
-66
+66,
+[
+"Oliver Messiaen"
+]
 ],
 [
 "Arcangelo Corelli",
-66
+66,
+[
+"Corelli",
+"Korelli Arkanjello"
+]
 ],
 [
 "Leoš Janáček",
-65
+65,
+[
+"Leo Eugen Janáček",
+"Leosh I︠A︡nachek",
+"Leos Janacek",
+"Leos Janácek",
+"L. I︠A︡nachek",
+"L. Janáček"
+]
 ],
 [
 "Scott Joplin",
-65
+65,
+[
+"The king of Ragtime"
+]
 ],
 [
 "Pau Casals",
-64
+64,
+[]
 ],
 [
 "Maurice Jarre",
-63
+63,
+[
+"Maurice-Alexis Jarre"
+]
 ],
 [
 "Mikis Theodorakis",
-63
+63,
+[
+"Michael \"Mikis\" Theodorakis",
+"Michael Theodorakis",
+"Mikis Michel Theodorakis"
+]
 ],
 [
 "Dietrich Buxtehude",
-63
+63,
+[
+"Buxtehude",
+"Diderich Buxtehude",
+"Dieterich Buxtehude"
+]
 ],
 [
 "Karlheinz Stockhausen",
-63
+63,
+[
+"Karl-Heinz Stockhausen"
+]
 ],
 [
 "Pierre Boulez",
-63
+63,
+[]
 ],
 [
 "Carl Orff",
-63
+63,
+[
+"Karl Orff"
+]
 ],
 [
 "Aaron Copland",
-62
+62,
+[]
 ],
 [
 "John Barry",
-61
+61,
+[
+"John Prendergast"
+]
 ],
 [
 "Astor Piazzolla",
-61
+61,
+[
+"Ástor Piazzolla",
+"Piazzolla"
+]
 ],
 [
 "Tomaso Albinoni",
-61
+61,
+[
+"Tomaso Giovanni Albinoni"
+]
 ],
 [
 "Jules Massenet",
-61
+61,
+[
+"Jules Emile Frederic Massenet",
+"Jules Émile Frédéric Massenet"
+]
 ],
 [
 "Gustav Holst",
-61
+61,
+[
+"Gustav Theodore Holst",
+"Gustavus Theodore von Holst"
+]
 ],
 [
 "Tomás Luis de Victoria",
-61
+61,
+[
+"Tomas Luis de Victoria"
+]
 ],
 [
 "Frederick William III of Prussia",
-61
+61,
+[
+"Frederick William III",
+"Frederick-William III",
+"Friedrich Wilhelm III.",
+"Friedrich Wilhelm III of Prussia"
+]
 ],
 [
 "Giacomo Meyerbeer",
-60
+60,
+[
+"Jakob Liebmann Beer",
+"Jakob Meyer Beer",
+"Meyerbeer",
+"Meyer Beer"
+]
 ],
 [
 "Krzysztof Penderecki",
-60
+60,
+[]
 ],
 [
 "Anton Webern",
-60
+60,
+[
+"Anton Friedrich Wilhelm von Webern",
+"Webern"
+]
 ],
 [
 "Ignacy Jan Paderewski",
-60
+60,
+[
+"Ignace Jan Paderewski",
+"Ignacy Paderewski"
+]
 ],
 [
 "Pierre-Jean de Béranger",
-60
+60,
+[
+"Pierre-Jean de Beranger",
+"Pierre Jean de Béranger"
+]
 ],
 [
 "Johann Pachelbel",
-60
+60,
+[
+"Johan Chrispontius Pechbel"
+]
 ],
 [
 "Alban Berg",
-60
+60,
+[
+"Alban Maria Johannes Berg"
+]
 ],
 [
 "Alessandro Scarlatti",
-59
+59,
+[
+"Alessandro Scarlati",
+"Pietro Alessandro Gaspare Scarlatti"
+]
 ],
 [
 "Giovanni Battista Pergolesi",
-59
+59,
+[
+"G. B. Pergolesi",
+"Giovanni Battista Draghi"
+]
 ],
 [
 "Isaac Albéniz",
-59
+59,
+[
+"Isaac Albeniz"
+]
 ],
 [
 "Cole Porter",
-59
+59,
+[
+"Cole Albert Porter"
+]
 ],
 [
 "Arthur Honegger",
-58
+58,
+[
+"Arthur Honneger"
+]
 ],
 [
 "Orlande de Lassus",
-58
+58,
+[
+"Orlande de Lattre",
+"Roland de Lattre"
+]
 ],
 [
 "Henry Mancini",
-58
+58,
+[
+"Enrico Nicola Mancini",
+"Henry Nicola Mancini"
+]
 ],
 [
 "Robert Johnson",
-58
+58,
+[
+"Robert Leroy Johnson"
+]
 ],
 [
 "Jerry Goldsmith",
-58
+58,
+[]
 ],
 [
 "Max Brod",
-58
+58,
+[
+"Martin Salvat",
+"Prokop"
+]
 ],
 [
 "François Couperin",
-58
+58,
+[
+"Couperin",
+"Francois Couperin"
+]
 ],
 [
 "César Franck",
-58
+58,
+[
+"Cesar-Auguste-Jean-Guillaume-Hubert Franck",
+"César Auguste Jean Guillaume Hubert Franck",
+"César-Auguste-Jean-Guillaume-Hubert Franck",
+"Cesar Franck"
+]
 ],
 [
 "Paul Hindemith",
-58
+58,
+[]
 ],
 [
 "Anton Rubinstein",
-58
+58,
+[
+"Anton Gregorovich Rubinstein",
+"Anton Grigorevich Rubinstein",
+"Anton Grigoryevich Rubinstein",
+"Anton G. Rubinštejn"
+]
 ],
 [
 "Francis Poulenc",
-57
+57,
+[
+"Francis Jean Marcel Poulenc"
+]
 ],
 [
 "Guillaume de Machaut",
-57
+57,
+[]
 ],
 [
 "Guillaume Dufay",
-57
+57,
+[
+"Guillaume Du Fay"
+]
 ],
 [
 "Alexander Glazounov",
-57
+57,
+[
+"A. Glazounow",
+"Aleksandr Konstantinovich Glazunov",
+"Alexander Konstantinovich Glazunov"
+]
 ],
 [
 "Giuseppe Tartini",
-56
+56,
+[]
 ],
 [
 "Nadia Boulanger",
-56
+56,
+[]
 ],
 [
 "György Ligeti",
-56
+56,
+[]
 ],
 [
 "Johann Strauss I",
-56
+56,
+[
+"Johann Baptist Strauß",
+"Johann Baptist Strauss I",
+"Johann Strauss Sr.",
+"Johann Strauss, Sr.",
+"Johann Strauss, the Elder",
+"Johann Strauss, the Father"
+]
 ],
 [
 "Luigi Boccherini",
-56
+56,
+[
+"Luigi Bocherini",
+"Luigi Rodolfo Boccherini",
+"Ridolfo Luigi Boccherini"
+]
 ],
 [
 "Glenn Gould",
-56
+56,
+[
+"Glenn Herbert Gould"
+]
 ],
 [
 "Manuel de Falla",
-55
+55,
+[]
 ],
 [
 "François-André Danican Philidor",
-55
+55,
+[
+"Andre Danican Philidor",
+"André Danican Philidor",
+"F.D. Philidor",
+"François André Philador",
+"Philidor"
+]
 ],
 [
 "Luigi Cherubini",
-55
+55,
+[
+"Cherubini",
+"Louis-Charles-Zenobi-Salvador-Marie Cherubini",
+"Luigi Maria Cherubini",
+"Maria Luigi Carlo Zenobio Salvatore Cherubini",
+"Marie Louis Charles Zanobi Salvador Cherubini"
+]
 ],
 [
 "Ferruccio Busoni",
-55
+55,
+[
+"Busoni",
+"Ferruccio Dante Michelangelo Benvenuto Busoni",
+"Ferruccio Dante Michelangiolo Benvenuto Busoni"
+]
 ],
 [
 "Adolphe Adam",
-54
+54,
+[
+"Adolphe C. Adam",
+"Adolphe Charles Adam",
+"Adolphe-Charles Adam"
+]
 ],
 [
 "Franz Lehár",
-54
+54,
+[
+"Franz Lehar"
+]
 ],
 [
 "Léo Delibes",
-54
+54,
+[
+"Clément Philibert Léo Delibes",
+"Delibes, Léo"
+]
 ],
 [
 "César Cui",
-54
+54,
+[
+"César Antonovich Cui",
+"César Antonovitch Cui",
+"Cesar Cui",
+"Cézar Antonovic Cui",
+"Tsezar Antonovich Kyui",
+"Tsezar Kyui",
+"Zesar Kjui"
+]
 ],
 [
 "Georges Enescou",
-54
+54,
+[
+"Georges Enesco",
+"Georges Enescu",
+"Gheorghe Enescu"
+]
 ],
 [
 "Władysław Szpilman",
-53
+53,
+[
+"Al Legro",
+"Władek Szpilman"
+]
 ],
 [
 "Daniel François Esprit Auber",
-53
+53,
+[
+"Auber",
+"Daniel-François-Esprit Auber",
+"François Auber"
+]
 ],
 [
 "George Martin",
-53
+53,
+[
+"Sir George Henry Martin",
+"Sir George Martin"
+]
 ],
 [
 "Heitor Villa-Lobos",
-53
+53,
+[]
 ],
 [
 "Paul Dukas",
-53
+53,
+[]
 ],
 [
 "Alphonsus Maria de Liguori",
-53
+53,
+[
+"Alfonso Maria de' Liguori",
+"Alfonso Maria de', saint Liguori",
+"Alphonsus Liguori",
+"Alphonsus Mary Antony John Cosmas Damian Michael Gaspard de' Liguori Liguori",
+"St. Alphonse Maria di Liguori"
+]
 ],
 [
 "Josquin des Prez",
-52
+52,
+[
+"Des Pres, Josquin",
+"Des Préz, Josquin",
+"Iodocus a Prato",
+"Iosquinus Pratensis",
+"Josquin",
+"Josquin Despres",
+"Josquin Desprez",
+"Josquin Lebloitte"
+]
 ],
 [
 "Nino Rota",
-52
+52,
+[]
 ],
 [
 "Carl Czerny",
-52
+52,
+[
+"Charles Czerny",
+"Karl Czerny"
+]
 ],
 [
 "Stanisław Moniuszko",
-52
+52,
+[]
 ],
 [
 "Charles Maurras",
-52
+52,
+[
+"Le Maître de Martigues",
+"Le Martégal",
+"Léon Rameau",
+"maître de Martigues",
+"Octave Martin",
+"Pellisson",
+"Pierre Garnier"
+]
 ],
 [
 "Uzeyir Hajibeyov",
-52
+52,
+[
+"Uzeyir bey Abdulhuseyn bey oghlu Hajibeyli",
+"Uzeyir bey Abdulhuseyn bey oghlu Hajibeyov",
+"Uzeyir bey Abdul Huseyn oglu Hajibeyov"
+]
 ],
 [
 "Iannis Xenakis",
-51
+51,
+[
+"Giannēs Xenakēs",
+"Giannis Klearchou Xenakis",
+"Ianisu Kusenakisu",
+"Iannēs Xenakēs",
+"IAnnis Ksenakis",
+"Jannis Xenakis",
+"Yannis Xenakis"
+]
 ],
 [
 "Heinrich Schütz",
-51
+51,
+[
+"Henrich Schütz"
+]
 ],
 [
 "Dmitry Borisovich Kabalevsky",
-51
+51,
+[
+"Dimitri Kabalevski",
+"Dimitri Kabalevsky",
+"Dimitri Kabalewski",
+"Dimitry Kabalevsky",
+"D. Kabalevskiĭ",
+"D. Kabalevsky",
+"D. Kabalewsky",
+"Dmitri Borísovich Kabalievski",
+"Dmitriĭ Borisovich Kabalevskiĭ",
+"Dmitrij Borissovic Kabalevskij",
+"Dmitrij Kabalevskij",
+"Dmitri Kabalevski",
+"Dmitri Kabalewski",
+"Dmitri Kabalewsky",
+"Dmitri M. Kabalewskij",
+"Dmitri M. Kabelevsky",
+"Dmitry Kabalevsky",
+"Dm. Kabalevskiĭ",
+"Dm. Kabalevsky",
+"Domitorī Kabarefusukī",
+"Kabalevsky"
+]
 ],
 [
 "Sofia Gubaidulina",
-51
+51,
+[
+"Sofiya Asgatovna Gubaydulina"
+]
 ],
 [
 "Max Reger",
-51
+51,
+[
+"Johann Baptist Joseph Maximilian Reger",
+"Maximilian Reger",
+"Reger"
+]
 ],
 [
 "Yves Klein",
-50
+50,
+[]
 ],
 [
 "Alma Mahler",
-50
+50,
+[
+"Alma Gropius",
+"Alma Mahlerová",
+"Alma Mahler Welfer",
+"Alma Mahler Werfel",
+"Alma Mahler-Werfel",
+"Alma Maria Gropius",
+"Alma Maria Groupius",
+"Alma Maria Mahler",
+"Alma Maria Mahler Gropius Werfel",
+"Alma Maria Mahler-Werfel",
+"Alma Schindler-Mahler",
+"Alma Schindler Mahler Werfel",
+"Alma Werfel",
+"Anna Mahlerová-Werfelová",
+"Anna Maria Schindler"
+]
 ],
 [
 "Carl Nielsen",
-50
+50,
+[
+"Carl August Nielsen"
+]
 ],
 [
 "Ralph Vaughan Williams",
-50
+50,
+[]
 ],
 [
 "Girolamo Frescobaldi",
-50
+50,
+[
+"Girolamo Alessandro Frescobaldi"
+]
 ],
 [
 "Kurt Weill",
-50
+50,
+[]
 ],
 [
 "Wilhelm Friedemann Bach",
-49
+49,
+[]
 ],
 [
 "Domenico Cimarosa",
-49
+49,
+[]
 ],
 [
 "Muzio Clementi",
-49
+49,
+[
+"Clementi",
+"Muzio Filippo Vincenzo Francesco Saverio Clementi"
+]
 ],
 [
 "Samuel Barber",
-49
+49,
+[
+"Samuel Osborne Barber",
+"Samuel Osborne Barber II"
+]
 ],
 [
 "Mikalojus Konstantinas Čiurlionis",
-49
+49,
+[
+"Mikalojus Konstantinas Churlyonis",
+"Mikalojus Konstantinas Ciurlionis",
+"Mikołaj Konstanty Czurlanis",
+"Mikolajus Čiurlionis",
+"M K. Churlyonis",
+"M K. Čiurlionis",
+"M. K. Čiurlionis",
+"Mykolas Chiurlionis",
+"Mykolas Churlyonis",
+"Mykolas Čiurlionis",
+"Mykolas Konstantas Čiurlionis",
+"Mykolas Konstantinas Čiurlionis"
+]
 ],
 [
 "Wilhelm Furtwängler",
-49
+49,
+[
+"Furtwängler",
+"Gustav Heinrich Ernst Martin Wilhelm Furtwängler"
+]
 ],
 [
 "Joaquín Rodrigo",
-48
+48,
+[
+"Joaquin Rodrigó"
+]
 ],
 [
 "Johann Nepomuk Hummel",
-48
+48,
+[
+"Jan Nepomuk Hummel",
+"J. N. Hummel"
+]
 ],
 [
 "Witold Lutosławski",
-48
+48,
+[]
 ],
 [
 "Carlo Gesualdo",
-48
+48,
+[
+"Carlo Gesualdo da Venosa",
+"Gesualdo",
+"Gesualdo da Venosa"
+]
 ],
 [
 "Giovanni Paisiello",
-48
+48,
+[]
 ],
 [
 "Pablo de Sarasate",
-48
+48,
+[
+"Martin Meliton Sarasate",
+"Pablo Martin Meliton de Sarasate y Navascues",
+"Pablo Martín Melitón Sarasate y Navascuéz"
+]
 ],
 [
 "Jacopo Peri",
-48
+48,
+[]
 ],
 [
 "William Byrd",
-48
+48,
+[
+"William Bird"
+]
 ],
 [
 "Hugo Wolf",
-48
+48,
+[
+"Hugo Philipp Jacob Wolf"
+]
 ],
 [
 "Charles Ives",
-48
+48,
+[
+"Charles Edward Ives"
+]
 ],
 [
 "Francisco Tárrega",
-48
+48,
+[
+"Francisco de Asís Tárrega y Eixea",
+"Francisco Tarrega"
+]
 ],
 [
 "Miklós Rózsa",
-48
+48,
+[
+"Miklos Rozsa"
+]
 ],
 [
 "Max Bruch",
-47
+47,
+[
+"Max Christian Friedrich Bruch"
+]
 ],
 [
 "Thomas Tallis",
-47
+47,
+[]
 ],
 [
 "Arrigo Boito",
-47
+47,
+[
+"Arrigo Enrico Boito",
+"Enrico Giuseppe Giovanni Boito",
+"Tobia Gorrio"
+]
 ],
 [
 "Luciano Berio",
-47
+47,
+[]
 ],
 [
 "Richard Rodgers",
-47
+47,
+[]
 ],
 [
 "Henryk Mikolaj Górecki",
-47
+47,
+[
+"Henryk Gorecki",
+"Henryk-Mikolaj Górecki",
+"Henryk Mikołaj Górecki"
+]
 ],
 [
 "Stephen Sondheim",
-46
+46,
+[]
 ],
 [
 "Pérotin",
-46
+46,
+[
+"Perotin"
+]
 ],
 [
 "Bohuslav Martinů",
-46
+46,
+[
+"Bohuslav Martinu"
+]
 ],
 [
 "John Philip Sousa",
-46
+46,
+[
+"John Philip Sousa I",
+"John Phillip Sousa",
+"Philip Sousa"
+]
 ],
 [
 "Alexander Alexandrov",
-46
+46,
+[
+"Alexander Vasilyevich Alexandrov"
+]
 ],
 [
 "Fanny Mendelssohn",
-46
+46,
+[
+"Fanny Hensel",
+"Fanny Mendelssohn-Hensel"
+]
 ],
 [
 "Annette von Droste-Hülshoff",
-46
+46,
+[
+"Annette von Droste-Hulshoff",
+"Fraulein von Droste-Hülshoff"
+]
 ],
 [
 "Johannes Ockeghem",
-45
+45,
+[
+"Jean de Ockeghem"
+]
 ],
 [
 "Darius Milhaud",
-45
+45,
+[]
 ],
 [
 "Amilcare Ponchielli",
-45
+45,
+[]
 ],
 [
 "Arthur Sullivan",
-45
+45,
+[
+"Arthur Seymour Sullivan",
+"Arthur S. Sullivan",
+"Sir Arthur Seymour Sullivan",
+"Sir Arthur Seymour Sullivan MVO",
+"Sir Arthur Sullivan"
+]
 ],
 [
 "Karol Szymanowski",
-45
+45,
+[
+"Karol Maciej Szymanowski",
+"Karol Szymanovski"
+]
 ],
 [
 "Bernard Herrmann",
-45
+45,
+[]
 ],
 [
 "John Newton",
-45
+45,
+[]
 ],
 [
 "Edgard Varèse",
-45
+45,
+[
+"Edgard Varese",
+"Edgard Victor Achille Charles Varèse",
+"Edgar Varèse",
+"Varèse"
+]
 ],
 [
 "Mykola Lysenko",
-44
+44,
+[
+"Mykola Vitaliiovych Lysenko",
+"Mykola Vitaliyovych Lysenko"
+]
 ],
 [
 "Stéphane Grappelli",
-44
+44,
+[
+"Stephane Grappelli",
+"Stephane Grappelly",
+"Stéphane Grappelly"
+]
 ],
 [
 "Charles-Valentin Alkan",
-44
+44,
+[]
 ],
 [
 "Ottorino Respighi",
-44
+44,
+[]
 ],
 [
 "Enrique Granados",
-44
+44,
+[
+"Enrique Granados Campiña"
+]
 ],
 [
 "Jerome Kern",
-44
+44,
+[
+"Jerome David Kern"
+]
 ],
 [
 "Giovanni Gabrieli",
-44
+44,
+[]
 ],
 [
 "Max Steiner",
-44
+44,
+[
+"Maximilian Raoul Steiner"
+]
 ],
 [
 "Alfred Newman",
-44
+44,
+[]
 ],
 [
 "Borys Liatoshynsky",
-44
+44,
+[
+"Boris Lyatoshinsky",
+"Borys Liatoshynskyi",
+"Borys Lyatoshyns′ky",
+"Borys Mykolayovych Lyatoshynsky",
+"Borys Nikolayevich Lyatoshynsky"
+]
 ],
 [
 "Lorin Maazel",
-43
+43,
+[
+"Lorin Varencove Maazel"
+]
 ],
 [
 "Georg Solti",
-43
+43,
+[
+"Sir Georg Solti"
+]
 ],
 [
 "Philippe II, Duke of Orléans",
-43
+43,
+[
+"Philippe d' Orleans",
+"Philippe d'Orleans",
+"Philippe D' Orleans",
+"Philippe d'Orléans",
+"Philippe, Duke of Orléans",
+"Philippe II",
+"Philippe II, Duke of Orleans",
+"Philippe von Orleans",
+"Philippe von Orléans",
+"Regent of the Kingdom"
+]
 ],
 [
 "Alfred Schnittke",
-43
+43,
+[
+"Alfred Garievich Shnitke",
+"Alfred Garrievich Schnittke",
+"Alfred Schmittke",
+"Alfred Schnitke",
+"Alfres Schnittke",
+"Arthur Schnittke",
+"A. Shnitke",
+"A. Shnittke"
+]
 ],
 [
 "Giuseppe Torelli",
-43
+43,
+[]
 ],
 [
 "Baldassare Galuppi",
-43
+43,
+[
+"Baldassarre, detto il Buranello Galuppi",
+"Buranello"
+]
 ],
 [
 "Leopold Stokowski",
-43
+43,
+[
+"Antoni Stanisław Bolesławowicz"
+]
 ],
 [
 "Alexander Dargomyzhsky",
-43
+43,
+[
+"Alexander Sergeyevich Dargomyzhsky"
+]
 ],
 [
 "Fritz Kreisler",
-43
+43,
+[]
 ],
 [
 "Emmerich Kálmán",
-42
+42,
+[
+"Emerich Kalman",
+"Emmerich Kalman",
+"Emmerich Kálman",
+"Imre Kalman",
+"Imre Koppstein"
+]
 ],
 [
 "Hans von Bülow",
-42
+42,
+[
+"Guido von Bülow",
+"Hans Guido Freiherr von Bülow"
+]
 ],
 [
 "Hortense de Beauharnais",
-42
+42,
+[
+"Eugenie-Hortense de Beauharnais",
+"Eugénie-Hortense de Beauharnais",
+"Hortense",
+"Hortense Eugenie Beauharnais",
+"Hortense Eugenie de Beauharnais",
+"Hortense Eugénie de Beauharnais"
+]
 ],
 [
 "Elmer Bernstein",
-41
+41,
+[]
 ],
 [
 "Rodion Shchedrin",
-41
+41,
+[
+"Rodion Konstantinovich Shchedrin"
+]
 ],
 [
 "André Grétry",
-41
+41,
+[
+"André Ernest Modeste Grétry",
+"André-Ernest-Modeste Grétry",
+"Andre Gretry",
+"Grétry"
+]
 ],
 [
 "Marin Marais",
-41
+41,
+[]
 ],
 [
 "Lili Boulanger",
-41
+41,
+[
+"Marie-Juliette Olga Boulanger"
+]
 ],
 [
 "Henri Wieniawski",
-41
+41,
+[]
 ],
 [
 "Umberto Giordano",
-41
+41,
+[
+"Umberto Menotti Maria Giordano"
+]
 ],
 [
 "Erich Wolfgang Korngold",
-41
+41,
+[]
 ],
 [
 "Carl Jonas Love Almqvist",
-41
+41,
+[
+"Carl Jonas Love Ludvig Almqvist",
+"C. J. L. Almqvist"
+]
 ],
 [
 "Michael Haydn",
-41
+41,
+[
+"Johann Michael Haydn",
+"Salzburger Haydn"
+]
 ],
 [
 "Hermann of Reichenau",
-41
+41,
+[
+"Blessed Hermann",
+"Blessed Hermann of Reichenau",
+"Blessed Hermann the Cripple",
+"Bl. Hermann",
+"Herimann of Reichenau",
+"Hermann of Vöhringen",
+"Hermann the Cripple",
+"Hermann the Lame",
+"Hermannus Augiensis",
+"Hermannus Contractus von Veringen",
+"Hermannus von Reichenau",
+"Hermann von Reichenau",
+"Herman of Reichenau"
+]
 ],
 [
 "John Field",
-40
+40,
+[]
 ],
 [
 "Carl Michael Bellman",
-40
+40,
+[
+"Bellmann"
+]
 ],
 [
 "Engelbert Humperdinck",
-40
+40,
+[]
 ],
 [
 "Louis Spohr",
-40
+40,
+[
+"Ludwig Spohr"
+]
 ],
 [
 "Michael Praetorius",
-39
+39,
+[]
 ],
 [
 "Jan Pieterszoon Sweelinck",
-39
+39,
+[]
 ],
 [
 "Tōru Takemitsu",
-39
+39,
+[
+"Takemitsu Toru",
+"Takemitsu Tōru",
+"Toru Takemitsu"
+]
 ],
 [
 "Carl Friedrich Abel",
-39
+39,
+[
+"C. F. Abel",
+"Charles Frederick Abel"
+]
 ],
 [
 "Edouard Lalo",
-39
+39,
+[
+"Édouard Lalo"
+]
 ],
 [
 "Franz von Suppè",
-39
+39,
+[
+"Franz von Suppe"
+]
 ],
 [
 "Eugène Ysaÿe",
-39
+39,
+[
+"Eugène Ysaye"
+]
 ],
 [
 "Vincent d'Indy",
-39
+39,
+[
+"Paul Marie Théodore Vincent d'Indy",
+"Vincent d' Indy"
+]
 ],
 [
 "Tito Puente",
-39
+39,
+[
+"Ernesto Antonio Puente",
+"Ernesto Antonio \"Tito\" Puente"
+]
 ],
 [
 "Wojciech Kilar",
-39
+39,
+[
+"Kilar"
+]
 ],
 [
 "Sergei Ivanovich Taneyev",
-39
+39,
+[
+"Sergeĭ Ivanovich Taneev",
+"Sergei Taneyev",
+"Sergey Ivanovich Taneyev",
+"Sergey Taneyev"
+]
 ],
 [
 "Georgy Sviridov",
-39
+39,
+[
+"Georgiĭ Sviridov",
+"Georgiĭ Vasilʹevich Sviridov",
+"Georgy Vasilyevich Sviridov"
+]
 ],
 [
 "Mykola Leontovych",
-39
+39,
+[
+"Leontovich, Mikola Dmitrovich, 1877-1921",
+"Leontovich, M. (Mikola), 1877-1921",
+"Leontovich, Nikolaĭ Dmitrievich, 1877-1921",
+"Leontovich, N. (Nikolaĭ), 1877-1921",
+"Leontovych, M. D. (Mykola Dmytrovych), 1877-1921",
+"Leontovych, Mykola, 1877-1921",
+"Leontovych, Mykola Dmytrovych, 1877-1921",
+"Leontowitsch, Mikola, 1877-1921",
+"Mykola Dmytrovych Leontovych"
+]
 ],
 [
 "Johann Christoph Friedrich Bach",
-39
+39,
+[]
 ],
 [
 "Heinrich Biber",
-38
+38,
+[
+"Heinrich Ignaz Franz Biber"
+]
 ],
 [
 "Johann Stamitz",
-38
+38,
+[
+"Johann Wenzel Anton Stamitz",
+"Johann Wenzel Stamitz"
+]
 ],
 [
 "Joseph Joachim",
-38
+38,
+[
+"Joseph Georg Maria Joachim",
+"József Joachim"
+]
 ],
 [
 "Luigi Nono",
-38
+38,
+[]
 ],
 [
 "Georges Auric",
-38
+38,
+[
+"Georges Abel Auric",
+"Georges Abel Louis Auric"
+]
 ],
 [
 "Aleksandra Pakhmutova",
-38
+38,
+[
+"Aleksandra Nikolayevna Pakhmutova"
+]
 ],
 [
 "Thomas Arne",
-38
+38,
+[
+"Thomas Augustine Arne",
+"Thomas Augustus Arne"
+]
 ],
 [
 "William Walton",
-38
+38,
+[
+"Sir William Turner Walton"
+]
 ],
 [
 "Frederick Delius",
-38
+38,
+[
+"Frederick Theodore Albert Delius",
+"Fritz Theodore Albert Delius"
+]
 ],
 [
 "Josef Suk",
-38
+38,
+[]
 ],
 [
 "Lionel Hampton",
-38
+38,
+[
+"Lionel Leo Hampton"
+]
 ],
 [
 "Anton Arensky",
-38
+38,
+[
+"Anton Stepanovich Arensky"
+]
 ],
 [
 "Reinhold Glière",
-38
+38,
+[
+"Reinhold Glier",
+"Reinhold Gliere",
+"Reinhold Moritzevich Glière"
+]
 ],
 [
 "Paul Bowles",
-38
+38,
+[
+"Paul Frederic Bowles"
+]
 ],
 [
 "Paul Mauriat",
-38
+38,
+[]
 ],
 [
 "Pancho Vladigerov",
-38
+38,
+[
+"Pancho Haralanov Vladigerov"
+]
 ],
 [
 "Gara Garayev",
-38
+38,
+[
+"Gara Abulfaz oghlu Garayev",
+"Kara Karaev",
+"Kara Karayev"
+]
 ],
 [
 "Hanns Eisler",
-38
+38,
+[]
 ],
 [
 "Francesco Cavalli",
-37
+37,
+[
+"Pier Francesco Caletti-Bruni",
+"Pier Francesco Cavalli"
+]
 ],
 [
 "Pietro Locatelli",
-37
+37,
+[
+"Pietro Antonio Locatelli"
+]
 ],
 [
 "Franz Berwald",
-37
+37,
+[
+"Franz Adolf Berwald"
+]
 ],
 [
 "Ethel Smyth",
-37
+37,
+[
+"Dame Ethel Mary Smyth",
+"Dame Ethel Smyth",
+"Ethel Smith"
+]
 ],
 [
 "Ernest Chausson",
-37
+37,
+[]
 ],
 [
 "Adrian Willaert",
-37
+37,
+[
+"Adriaan Willaert"
+]
 ],
 [
 "Nikolai Myaskovsky",
-37
+37,
+[
+"Miaskovsky",
+"Nikolai Yakovlevich Myaskovsky",
+"Nikolaj Jakovlevic Miaskovskij"
+]
 ],
 [
 "Henri Vieuxtemps",
-37
+37,
+[
+"Henri François Joseph Vieuxtemps",
+"Vieuxtemps"
+]
 ],
 [
 "Emmanuel Chabrier",
-37
+37,
+[
+"Alexis Emmanuel Chabrier",
+"Alexis-Emmanuel Chabrier",
+"Emmanuel Claude Alexis Chabrier"
+]
 ],
 [
 "Felix von Weingartner",
-37
+37,
+[
+"Paul Felix Weingartner"
+]
 ],
 [
 "Luigi Russolo",
-37
+37,
+[
+"Luigi Carlo Filippo Russolo"
+]
 ],
 [
 "Eugen d'Albert",
-37
+37,
+[
+"Eugene d`Albert",
+"Eugen Francis Charles d'Albert"
+]
 ],
 [
 "Ira Gershwin",
-37
+37,
+[]
 ],
 [
 "Harry Partch",
-36
+36,
+[]
 ],
 [
 "Giovanni Battista Sammartini",
-36
+36,
+[
+"G. B. Sammartini",
+"Giovanni Sammartini"
+]
 ],
 [
 "Fernando Sor",
-36
+36,
+[
+"Ferdinando Sor",
+"Ferdinand Sor",
+"Ferran Sor",
+"José Fernando Macario Sors",
+"Sor"
+]
 ],
 [
 "Alberto Ginastera",
-36
+36,
+[
+"Alberto Evaristo Ginastera"
+]
 ],
 [
 "Giovanni Battista Viotti",
-36
+36,
+[
+"G. B. Viotti",
+"Gian Battista Viotti",
+"Giovan Battista Viotti"
+]
 ],
 [
 "Ferenc Erkel",
-36
+36,
+[]
 ],
 [
 "Fikret Amirov",
-36
+36,
+[
+"Fikret Mashadi Jamil oghlu Amirov"
+]
 ],
 [
 "Wilhelm Kempff",
-35
+35,
+[
+"Wilhelm Walter Friedrich Kempff"
+]
 ],
 [
 "Gaspare Spontini",
-35
+35,
+[
+"Gaspare Luigi Pacifico",
+"Gasparo Spontini"
+]
 ],
 [
 "Leonardo Vinci",
-35
+35,
+[]
 ],
 [
 "Niccolò Piccinni",
-35
+35,
+[
+"Niccolò Piccini",
+"Niccolo Piccinni"
+]
 ],
 [
 "Franco Alfano",
-35
+35,
+[]
 ],
 [
 "Nicola Porpora",
-35
+35,
+[]
 ],
 [
 "Joseph Strauss",
-35
+35,
+[]
 ],
 [
 "Albert Roussel",
-35
+35,
+[
+"Albert Charles Paul Marie Roussel"
+]
 ],
 [
 "François Joseph Gossec",
-35
+35,
+[
+"François-Joseph Gossec"
+]
 ],
 [
 "Fromental Halévy",
-35
+35,
+[
+"Fromental Halevy",
+"Jacques François Elias Halévy"
+]
 ],
 [
 "Marcel Dupré",
-35
+35,
+[
+"Marcel Dupre",
+"Marcel Jean-Jules Dupré"
+]
 ],
 [
 "Morton Feldman",
-35
+35,
+[]
 ],
 [
 "Henri Dutilleux",
-35
+35,
+[
+"Henri Paul Julien Dutilleux"
+]
 ],
 [
 "W. C. Handy",
-35
+35,
+[
+"Father of the Blues",
+"W C Handy",
+"W.C. Handy",
+"WC Handy",
+"William C. Handy",
+"William Christopher Handy"
+]
 ],
 [
 "Tikhon Khrennikov",
-35
+35,
+[
+"Tikhon Nikolayevich Khrennikov"
+]
 ],
 [
 "Isaak Dunayevsky",
-35
+35,
+[
+"Isaac Dunaevsky",
+"Isaak Osipovich Dunaevskiy",
+"Isaak Osipovich Dunayevsky"
+]
 ],
 [
 "Ernő Dohnányi",
-35
+35,
+[
+"Ernst Dohnanyi",
+"Ernst Dohnányi",
+"Ernst von Dohnányi"
+]
 ],
 [
 "Karl Böhm",
-35
+35,
+[]
 ],
 [
 "François Adrien Boieldieu",
-34
+34,
+[
+"Adrien François Boieldieu",
+"François-Adrien Boieldieu"
+]
 ],
 [
 "Ernest Bloch",
-34
+34,
+[]
 ],
 [
 "Niels Gade",
-34
+34,
+[
+"Niels W. Gade"
+]
 ],
 [
 "Carl Reinecke",
-34
+34,
+[
+"Carl Heinrich Carsten Reinecke",
+"Heinrich Carsten"
+]
 ],
 [
 "Anton Diabelli",
-34
+34,
+[]
 ],
 [
 "Luigi Dallapiccola",
-34
+34,
+[]
 ],
 [
 "Cécile Chaminade",
-34
+34,
+[]
 ],
 [
 "Jacques Ibert",
-34
+34,
+[]
 ],
 [
 "Louis Vierne",
-34
+34,
+[
+"Louis Victor Jules Vierne"
+]
 ],
 [
 "Anton Reicha",
-34
+34,
+[]
 ],
 [
 "Gustave Charpentier",
-34
+34,
+[]
 ],
 [
 "Orlando Gibbons",
-34
+34,
+[]
 ],
 [
 "Malcolm Arnold",
-34
+34,
+[
+"Malcolm Henry Arnold",
+"Sir Malcolm Arnold",
+"Sir Malcolm Henry Arnold"
+]
 ],
 [
 "Pierre Schaeffer",
-34
+34,
+[
+"Pierre Henri Marie Schaeffer"
+]
 ],
 [
 "Dimitri Tiomkin",
-34
+34,
+[
+"Dimitri Zinovievich Tiomkin"
+]
 ],
 [
 "Son House",
-34
+34,
+[
+"Eddie James House",
+"Eddie J. House, Jr.",
+"Edward James House Jr.",
+"Edward James \"Son\" House Jr.",
+"Sonhouse",
+"Sun House"
+]
 ],
 [
 "Einojuhani Rautavaara",
-34
+34,
+[
+"Eino-Juhani Rautavaara"
+]
 ],
 [
 "Georges Delerue",
-34
+34,
+[]
 ],
 [
 "Franz Xaver Gruber",
-34
+34,
+[
+"El Grube",
+"Franz Gruber",
+"Franz Xaver Huber"
+]
 ],
 [
 "Maria Antonia Walpurgis of Bavaria",
-34
+34,
+[
+"Ermelinda Talea",
+"Ermelinda Talea Pastorella Arcadia",
+"E. T. P. A.",
+"Maria Antonia of Bavaria",
+"Maria Antonia Walpurgis",
+"Maria Antonia Walpurgis, Electress of Saxony"
+]
 ],
 [
 "Alexander von Zemlinsky",
-34
+34,
+[
+"Alexander Zemlinsky"
+]
 ],
 [
 "George Antheil",
-33
+33,
+[]
 ],
 [
 "Peter Maxwell Davies",
-33
+33,
+[
+"Sir Peter Maxwell Davies"
+]
 ],
 [
 "Franz Xaver Wolfgang Mozart",
-33
+33,
+[
+"Franz Xaver Mozart",
+"Franz Xavier Mozart",
+"Franz Xavier Wolfgang Mozart",
+"F. X. Mozart",
+"Wolfgang Amade Mozart, Jr.",
+"Wolfgang Amadeus Mozart, Jr."
+]
 ],
 [
 "Johann Crüger",
-33
+33,
+[]
 ],
 [
 "Andrea Gabrieli",
-33
+33,
+[]
 ],
 [
 "Consuelo Velázquez",
-33
+33,
+[
+"Consuelito Velázquez",
+"Consuelo Velazquez",
+"Consuelo Velázquez Torres",
+"Consuelo Velázquez Torres Ortiz"
+]
 ],
 [
 "Wilhelmine of Prussia, Margravine of Brandenburg-Bayreuth",
-33
+33,
+[
+"Wilhelmina, Margravine of Baireuth",
+"Wilhelmina, Princess of Prussia",
+"Wilhelmine",
+"Wilhelmine von Bayreuth"
+]
 ],
 [
 "Ambroise Thomas",
-33
+33,
+[
+"Charles Louis Ambroise Thomas"
+]
 ],
 [
 "Antoine Busnois",
-33
+33,
+[]
 ],
 [
 "Percy Grainger",
-33
+33,
+[
+"George Percy Grainger",
+"Percy Aldridge Grainger"
+]
 ],
 [
 "Dimitri Mitropoulos",
-33
+33,
+[
+"Dimitris Mitropoulos"
+]
 ],
 [
 "Boris Asafyev",
-33
+33,
+[
+"Boris Vladimirovich Asafyev"
+]
 ],
 [
 "Alfredo Casella",
-33
+33,
+[]
 ],
 [
 "Vincas Kudirka",
-33
+33,
+[]
 ],
 [
 "Anatoly Lyadov",
-33
+33,
+[
+"Anatolij Konstantinovich Lyadov",
+"Anatolij Konstantinovič Ljadov",
+"Anatoly Konstantinovich Lyadov"
+]
 ],
 [
 "Djivan Gasparyan",
-33
+33,
+[
+"Gasparyan, Djivan"
+]
 ],
 [
 "Princess Eugénie of Sweden",
-33
+33,
+[
+"Charlotta Eugenia Augusta Amalia Albertina of Sweden and Norway",
+"Eugénie Bernadotte",
+"Eugénie of Sweden and Norway",
+"Princess Charlotta Eugenia Augusta Amalia Albertina of Sweden and Norway",
+"Princess Eugenie of Sweden",
+"Princess Eugénie of Sweden and Norway"
+]
 ],
 [
 "Kaikhosru Shapurji Sorabji",
-33
+33,
+[]
 ],
 [
 "Arnold Bax",
-32
+32,
+[
+"Sir Arnold Bax",
+"Sir Arnold Edward Trevor Bax"
+]
 ],
 [
 "Jan Dismas Zelenka",
-32
+32,
+[]
 ],
 [
 "Paul Abraham",
-32
+32,
+[]
 ],
 [
 "Heinrich August Marschner",
-32
+32,
+[
+"Heinrich Marschner"
+]
 ],
 [
 "Hans Leo Hassler",
-32
+32,
+[]
 ],
 [
 "Francesco Geminiani",
-32
+32,
+[
+"Francesco Saverio Geminiani",
+"Francesco Xaverio Geminiani"
+]
 ],
 [
 "Jacob Obrecht",
-32
+32,
+[]
 ],
 [
 "Giacomo Carissimi",
-32
+32,
+[]
 ],
 [
 "Benedetto Marcello",
-32
+32,
+[
+"Benedetto Giacomo Marcello"
+]
 ],
 [
 "Giovanni Bononcini",
-32
+32,
+[]
 ],
 [
 "Milton Babbitt",
-32
+32,
+[
+"Milton Byron Babbitt"
+]
 ],
 [
 "Hugo Alfvén",
-32
+32,
+[
+"Hugo Emil Alfven"
+]
 ],
 [
 "Eduard Strauss",
-32
+32,
+[]
 ],
 [
 "Erik Gustaf Geijer",
-32
+32,
+[
+"Erik Gustav Geijer"
+]
 ],
 [
 "Jaufré Rudel",
-32
+32,
+[
+"Jaufré",
+"Jaufré Rudel de Blaia"
+]
 ],
 [
 "Peter Cornelius",
-32
+32,
+[
+"Carl August Peter Cornelius"
+]
 ],
 [
 "Carl Stamitz",
-31
+31,
+[]
 ],
 [
 "Ignaz Moscheles",
-31
+31,
+[
+"Ignatz Moscheles",
+"Isaac Ignaz Moscheles"
+]
 ],
 [
 "Ferdinand Hiller",
-31
+31,
+[
+"Ferdinand von Hiller"
+]
 ],
 [
 "Grażyna Bacewicz",
-31
+31,
+[
+"Grazyna Bacewicz",
+"Grażyna Bacewicz Biernacka"
+]
 ],
 [
 "Duchess Anna Amalia of Brunswick-Wolfenbüttel",
-31
+31,
+[
+"Amalia, Duchess of Saxe-Weimar",
+"Anna Amalia",
+"Anna Amalia of Brunswick-Wolfenbüttel",
+"Anna Amalia von Braunschweig-Wolfenbüttel",
+"Anna Amalia von Sachsen-Weimar und Eisenach",
+"Duchess of Saxe-Weimar and Eisenach"
+]
 ],
 [
 "Saverio Mercadante",
-31
+31,
+[
+"Giuseppe Saverio Raffaele Mercadante"
+]
 ],
 [
 "Johan Svendsen",
-31
+31,
+[
+"Johan Severin Svendsen"
+]
 ],
 [
 "Willem Mengelberg",
-31
+31,
+[
+"J. Mangelberg",
+"Joseph Wilhelm Mengelberg",
+"Jozef Willem Mengelberg",
+"J. W. Mengelberg"
+]
 ],
 [
 "Vítězslav Novák",
-31
+31,
+[
+"Vitezslav Novak"
+]
 ],
 [
 "Sigismond Thalberg",
-31
+31,
+[
+"Sigismund Thalberg"
+]
 ],
 [
 "Alfredo Catalani",
-31
+31,
+[]
 ],
 [
 "Serge Koussevitzky",
-31
+31,
+[]
 ],
 [
 "Hubert Parry",
-31
+31,
+[
+"Charles Hubert Parry",
+"C. Hubert H. Parry",
+"Sir Charles Hubert Hastings Parry",
+"Sir Charles Hubert Hastings Parry, 1st Bt."
+]
 ],
 [
 "Evald Aav",
-31
+31,
+[]
 ],
 [
 "Rikard Nordraak",
-31
+31,
+[]
 ],
 [
 "Ludwig Minkus",
-31
+31,
+[]
 ],
 [
 "Joseph Lanner",
-31
+31,
+[
+"Joseph Franz Karl Lanner"
+]
 ],
 [
 "Edward MacDowell",
-31
+31,
+[
+"Edward Alexander MacDowell",
+"Edward Mac Dowell",
+"Mac Dowell"
+]
 ],
 [
 "György Kurtág",
-31
+31,
+[
+"Kurtág György"
+]
 ],
 [
 "Hans Knappertsbusch",
-31
+31,
+[
+"Hans Alfred Knappertsbusch"
+]
 ],
 [
 "Wilhelm Kienzl",
-31
+31,
+[]
 ],
 [
 "Arno Babajanian",
-31
+31,
+[
+"Arno Arutyunovich Babajanian",
+"Arno Babajanyan",
+"Aṙno Harutyuni Babadjanian"
+]
 ],
 [
 "Hans Werner Henze",
-31
+31,
+[]
 ],
 [
 "Friedrich von Flotow",
-30
+30,
+[]
 ],
 [
 "Rafael Kubelik",
-30
+30,
+[
+"Rafael Jeronym Kubelick"
+]
 ],
 [
 "Friedrich Kalkbrenner",
-30
+30,
+[
+"Frederic Kalkbrenner",
+"Friedrich Wilhelm Michael Kalkbrenner"
+]
 ],
 [
 "Norodom Suramarit",
-30
+30,
+[
+"Narottama Surāmrita"
+]
 ],
 [
 "Amy Beach",
-30
+30,
+[
+"Amy Cheney Beach",
+"Amy Marcy Beach",
+"Amy Marcy Cheney Beach",
+"H. H. A. Beach"
+]
 ],
 [
 "Francesco Cilea",
-30
+30,
+[]
 ],
 [
 "Antônio Carlos Gomes",
-30
+30,
+[
+"Antonio Carlos Gomes",
+"Antonio Gomes",
+"Carlos Gomes"
+]
 ],
 [
 "Émile Waldteufel",
-30
+30,
+[
+"Charles-Emile Waldteufel",
+"Charles Émile Waldteufel",
+"Emile Levy",
+"Emile Lévy",
+"Emile Waldteufel",
+"Emil Waldteufel",
+"Waldteufel"
+]
 ],
 [
 "Riz Ortolani",
-30
+30,
+[
+"Riziero Ortolani"
+]
 ],
 [
 "Johann Joseph Fux",
-30
+30,
+[
+"Johann Fuchs",
+"Johann Fux"
+]
 ],
 [
 "William Boyce",
-30
+30,
+[]
 ],
 [
 "Josef Mysliveček",
-30
+30,
+[
+"Josef Myslivecek"
+]
 ],
 [
 "Johann Georg Albrechtsberger",
-30
+30,
+[
+"Johann George Albrechtsberger"
+]
 ],
 [
 "Francesco Durante",
-30
+30,
+[]
 ],
 [
 "Leonardo Leo",
-30
+30,
+[
+"Lionardo Oronzo Salvatore de Leo"
+]
 ],
 [
 "Jimmy Smith",
-30
+30,
+[
+"James Oscar",
+"James Oscar Smith",
+"James Smith",
+"Jimmy Smith (musician)",
+"The Incredible Jimmy Smith"
+]
 ],
 [
 "Vittorio Monti",
-30
+30,
+[
+"Obras destacadas, Csardas"
+]
 ],
 [
 "Bernardo Pasquini",
-30
+30,
+[]
 ],
 [
 "Julius Fucik",
-30
+30,
+[
+"Bohemian Sousa"
+]
 ],
 [
 "Theodor Leschetizky",
-30
+30,
+[]
 ],
 [
 "Alois Hába",
-30
+30,
+[
+"Alois Haba"
+]
 ],
 [
 "Mauro Giuliani",
-30
+30,
+[
+"Mauro Giuseppe Sergio Pantaleo Giuliani"
+]
 ],
 [
 "Gennadi Rozhdestvensky",
-30
+30,
+[
+"Gennady Nikolayevich Rozhdestvensky",
+"G. Rozhdestvensky"
+]
 ],
 [
 "Miina Härma",
-30
+30,
+[]
 ],
 [
 "Manos Hatzidakis",
-30
+30,
+[
+"Manos Hadjidakis"
+]
 ],
 [
 "Robert Stolz",
-30
+30,
+[
+"Robert Elisabeth Stolz"
+]
 ],
 [
 "Mikhail Kuzmin",
-30
+30,
+[
+"Mikhail Alekseevich Kuzmin"
+]
 ],
 [
 "Empress Wanrong",
-30
+30,
+[
+"Empress Xiaokemin",
+"Gobulo Wanron",
+"Muhong",
+"Xuantong Empress"
+]
+],
+[
+"Johann Kuhnau",
+29,
+[]
+],
+[
+"Samuel Scheidt",
+29,
+[]
+],
+[
+"Franz Waxman",
+29,
+[]
+],
+[
+"Karl Goldmark",
+29,
+[
+"Carl Goldmark"
+]
+],
+[
+"Pierre De Geyter",
+29,
+[
+"Petrus Christianus De Geyter",
+"Pierre Chrétien De Geyter"
+]
+],
+[
+"André Campra",
+29,
+[
+"Andre Campra"
+]
+],
+[
+"Ignaz Pleyel",
+29,
+[
+"Ignace Joseph Pleyel"
+]
+],
+[
+"Mikhail Ippolitov-Ivanov",
+29,
+[
+"Mikhail Mikhailovich Ippolitov-Ivanov",
+"Mikhail Mikhaylovich Ippolitov-Ivanov"
+]
+],
+[
+"Alex North",
+29,
+[
+"Isadore Soifer"
+]
+],
+[
+"Harrison Birtwistle",
+29,
+[
+"Harrison Birtwhistle",
+"Sir Harrison Birtwistle"
+]
+],
+[
+"Michael Tippett",
+29,
+[
+"Sir Michael Kemp Tippett"
+]
+],
+[
+"George Crumb",
+29,
+[
+"George Henry Crumb"
+]
+],
+[
+"Alexander Agricola",
+29,
+[
+"Alexander Ackerman"
+]
+],
+[
+"Nikolai Medtner",
+29,
+[
+"Nikolai Karlovich Medtner"
+]
+],
+[
+"Antonio Sacchini",
+29,
+[
+"Antonio Maria Gasparo Gioacchino Sacchini",
+"Antonio Maria Gasparo Sacchini"
+]
+],
+[
+"Louis Durey",
+29,
+[]
+],
+[
+"Johann Adam Hiller",
+29,
+[]
+],
+[
+"Leopold Godowsky",
+29,
+[
+"Leopold Godowski"
+]
+],
+[
+"Franz Schmidt",
+29,
+[]
+],
+[
+"Henry Cowell",
+29,
+[
+"Henry Dixon Cowell"
+]
+],
+[
+"Narciso Yepes",
+29,
+[]
+],
+[
+"Dan Andersson",
+29,
+[]
+],
+[
+"Andrzej Panufnik",
+29,
+[
+"Sir Andrzej Panufnik"
+]
+],
+[
+"Johan Halvorsen",
+29,
+[]
+],
+[
+"Henry Wood",
+29,
+[
+"Henry Joseph Wood",
+"Henry J. Wood",
+"Sir Henry Wood"
+]
+],
+[
+"Joseph Martin Kraus",
+29,
+[]
+],
+[
+"Hans Pfitzner",
+29,
+[]
+],
+[
+"Nicolaus Bruhns",
+29,
+[
+"Nikolaus Bruhns"
+]
+],
+[
+"Carl Friedrich Zelter",
+29,
+[]
+],
+[
+"Alexander Alyabyev",
+29,
+[
+"Alexander Aleksandrovich Alyabyev"
+]
+],
+[
+"Clément Janequin",
+29,
+[
+"Clement Janequin"
+]
+],
+[
+"Charles Koechlin",
+29,
+[
+"musikagilea eta musikako teorikoa"
+]
+],
+[
+"Zakaria Paliashvili",
+29,
+[
+"Sakaria Paliashvili",
+"Zacharia Paliashvili",
+"Zacharia Petres dze Paliashvili"
+]
+],
+[
+"Matvei Blanter",
+29,
+[
+"Matvei Isaakovich Blanter",
+"Matvey Blanter",
+"Matvey Isaakovich Blanter"
+]
+],
+[
+"Enoch Mankayi Sontonga",
+29,
+[]
+],
+[
+"Juan del Encina",
+28,
+[
+"Juan de la Encina",
+"Juan de la Enzina",
+"Juan del Enzina"
+]
+],
+[
+"Frank Martin",
+28,
+[
+"Frank Théodore Martin"
+]
+],
+[
+"Maksym Berezovsky",
+28,
+[
+"Maxim Sozontovich Berezovsky"
+]
+],
+[
+"Ernst Krenek",
+28,
+[
+"Ernst Heinrich Krenek"
+]
+],
+[
+"Maurice Duruflé",
+28,
+[
+"Maurice Durufle"
+]
+],
+[
+"Christian Gottlob Neefe",
+28,
+[
+"Christian Neefe"
+]
+],
+[
+"Lūcija Garūta",
+28,
+[]
+],
+[
+"Andrea Luchesi",
+28,
+[
+"Andrea Luca Luchesi",
+"Andrea Lucchesi"
+]
+],
+[
+"Niccolò Jommelli",
+28,
+[
+"Niccolo Jommelli",
+"Nicola Jacomelli",
+"Nicolò Jommelli"
+]
+],
+[
+"Juan Crisóstomo de Arriaga",
+28,
+[
+"Juan Crisostomo de Arriaga"
+]
+],
+[
+"Antonio Soler",
+28,
+[
+"Antonio Francisco Javier José Soler Ramos",
+"Antonio Soler Ramos"
+]
+],
+[
+"Cipriano de Rore",
+28,
+[]
+],
+[
+"André Jolivet",
+28,
+[
+"Andre Jolivet"
+]
+],
+[
+"Jacques Arcadelt",
+28,
+[
+"Jacques Arcadet",
+"Jacques Archadelt",
+"Jakob o Jacques Arcadelt"
+]
+],
+[
+"Joaquin Turina",
+28,
+[
+"Joaquín Turina Pérez"
+]
+],
+[
+"Gian Francesco Malipiero",
+28,
+[]
+],
+[
+"Fredrik Pacius",
+28,
+[]
+],
+[
+"Alessandro Marcello",
+28,
+[]
+],
+[
+"Bruno Maderna",
+28,
+[
+"Bruno Grossato"
+]
+],
+[
+"David Popper",
+28,
+[]
+],
+[
+"Jan Ladislav Dussek",
+28,
+[
+"Jan Vaclav Dusik",
+"Jan Václav Dusík",
+"Václav Jan Dusík"
+]
+],
+[
+"Germaine Tailleferre",
+28,
+[]
+],
+[
+"Reynaldo Hahn",
+28,
+[]
+],
+[
+"Thomas Morley",
+28,
+[]
+],
+[
+"Joachim Neander",
+28,
+[]
+],
+[
+"Dora Pejačević",
+28,
+[
+"Dora Pejacevic",
+"Maria Theodora Paulina Pejačević"
+]
+],
+[
+"Mélanie Bonis",
+28,
+[
+"Melanie Bonis",
+"Mél Bonis"
+]
+],
+[
+"François-Joseph Fétis",
+28,
+[
+"François Fétis"
+]
+],
+[
+"Pierre Henry",
+28,
+[
+"Pierre Georges Henry"
+]
+],
+[
+"Ermanno Wolf-Ferrari",
+28,
+[
+"Ermanno Wolf"
+]
+],
+[
+"Georg Böhm",
+28,
+[
+"Georg Boehm",
+"Georg Bohm"
+]
+],
+[
+"Johann Christoph Bach I",
+28,
+[
+"Johann Christoph Bach"
+]
+],
+[
+"Earl Scruggs",
+28,
+[
+"Earl Eugene Scruggs"
+]
+],
+[
+"Viktor Ullmann",
+28,
+[]
+],
+[
+"Caroline Norton",
+28,
+[
+"Caroline (Elizabeth Sarah) Norton",
+"Caroline Elizabeth Sarah Norton",
+"Caroline Elizabeth Sarah Sheridan Norton",
+"Caroline Sheridan",
+"Caroline Sheridan Norton",
+"Mrs. Norton"
+]
+],
+[
+"Alexander Spendiaryan",
+28,
+[
+"Alexander Afanasyevich Spendiaryan"
+]
+],
+[
+"Kurmangazy Sagyrbaev",
+27,
+[]
+],
+[
+"Luis Bacalov",
+27,
+[
+"Luis Enrique Bacalov",
+"Luis Enríquez Bacalov"
+]
+],
+[
+"Friedrich Kuhlau",
+27,
+[
+"Daniel Friedrich Rudolph Kuhlau",
+"Friedrich Daniel Rudolf Kuhlau"
+]
+],
+[
+"Oscar Straus",
+27,
+[
+"Oscar Nathan Straus"
+]
+],
+[
+"Joseph Kosma",
+27,
+[
+"Joseph Cosma"
+]
+],
+[
+"The Singing Nun",
+27,
+[
+"Soeur Sourire",
+"Sœur Sourire"
+]
+],
+[
+"Luca Marenzio",
+27,
+[
+"Luca Marenzi"
+]
+],
+[
+"Heinrich Isaac",
+27,
+[]
+],
+[
+"Elliott Carter",
+27,
+[
+"Elliot Carter",
+"Elliott Carter, Jr.",
+"Elliott Cook Carter, Jr."
+]
+],
+[
+"Florent Schmitt",
+27,
+[]
+],
+[
+"Moritz Moszkowski",
+27,
+[
+"Moszkowski"
+]
+],
+[
+"Rodolphe Kreutzer",
+27,
+[]
+],
+[
+"Jehan Alain",
+27,
+[
+"Jehan Ariste Alain",
+"Jehan Aristide-Paul Alain",
+"Jehan-Aristide Paul Alain"
+]
+],
+[
+"Adriano Banchieri",
+27,
+[
+"Adriano da Bologna"
+]
+],
+[
+"Jean-Marie Leclair",
+27,
+[
+"Jean-Marie Leclair the Elder"
+]
+],
+[
+"Giovanni Bottesini",
+27,
+[]
+],
+[
+"Raimbaut de Vaqueiras",
+27,
+[
+"Raimbaut de Vaiqueras"
+]
+],
+[
+"Carlos Chávez",
+27,
+[
+"Carlos Antonio de Padua Chavez y Ramirez",
+"Carlos Chavez"
+]
+],
+[
+"Christian Sinding",
+27,
+[]
+],
+[
+"Pierre de la Rue",
+27,
+[]
+],
+[
+"Ivan Zajc",
+27,
+[
+"Giovanni Zajitz",
+"Ivan von Zajc"
+]
+],
+[
+"Per Norgård",
+27,
+[]
+],
+[
+"Conradin Kreutzer",
+27,
+[]
+],
+[
+"Virgil Thomson",
+27,
+[]
+],
+[
+"Charles Burney",
+27,
+[]
+],
+[
+"Joachim Raff",
+27,
+[
+"Arnold Börner",
+"Joseph Joachim Raff"
+]
+],
+[
+"Jean-François Le Sueur",
+27,
+[
+"Jean-François Lesueur"
+]
+],
+[
+"Élisabeth Jacquet de La Guerre",
+27,
+[
+"Elisabeth-Claude Jacquet de la Guerre",
+"Élisabeth-Claude Jacquet de la Guerre",
+"Elisabeth Jacquet",
+"Élisabeth Jacquet",
+"Elisabeth Jacquet de La Guerre",
+"Elizabeth Claude Jacquet de la Guerre"
+]
+],
+[
+"Johann Hermann Schein",
+27,
+[]
+],
+[
+"Carmine Coppola",
+27,
+[
+"Carmine Valentino Coppola"
+]
+],
+[
+"Michał Kleofas Ogiński",
+27,
+[
+"Michael Cleophas Oginski",
+"Michał Kleofas Oginski",
+"Ogiński, Michał Kleofas"
+]
+],
+[
+"Friedrich Spee",
+27,
+[
+"Friedrich Spee von Langenfeld"
+]
+],
+[
+"Zdeněk Fibich",
+26,
+[
+"Zdenko Antonín Václav Fibich"
+]
+],
+[
+"Ruan Ji",
+26,
+[]
+],
+[
+"Johann Adam Reincken",
+26,
+[]
+],
+[
+"William Sterndale Bennett",
+26,
+[
+"Sir Sterndale Bennett",
+"Sir William Sterndale Bennett"
+]
+],
+[
+"Georg Benda",
+26,
+[]
+],
+[
+"Ferdinand Ries",
+26,
+[]
+],
+[
+"Tekla Bądarzewska-Baranowska",
+26,
+[]
+],
+[
+"Franz Danzi",
+26,
+[
+"Franz Ignaz Danzi"
+]
+],
+[
+"Michel Richard Delalande",
+26,
+[
+"Michel-Richard de Lalande",
+"Michel-Richard Delalande"
+]
+],
+[
+"Felip Pedrell",
+26,
+[
+"Felipe Pedrell",
+"Felipe Pedrell Sabate",
+"Felipe Pedrell Sabaté",
+"Felip Pedrell i Sabaré"
+]
+],
+[
+"Giovanni Pacini",
+26,
+[]
+],
+[
+"Victor Young",
+26,
+[
+"Victor Popular Young",
+"Wiktor Jung"
+]
+],
+[
+"Karl Amadeus Hartmann",
+26,
+[]
+],
+[
+"Johannes Tinctoris",
+26,
+[
+"Jean Teinturier"
+]
+],
+[
+"Ioan Ivanovici",
+26,
+[
+"Ion Ivanovici",
+"Iosif Ivanovici"
+]
+],
+[
+"Jacob Clemens non Papa",
+26,
+[
+"Clemens non Papa",
+"Jacob Clemens",
+"Jacobus Clemens",
+"Jacobus Clemens non Papa"
+]
+],
+[
+"Veljo Tormis",
+26,
+[]
+],
+[
+"Alexander Arutiunian",
+26,
+[
+"Alexander Arutunian",
+"Alexander Grigori Arutiunian",
+"Alexander Harutiunian"
+]
+],
+[
+"James Weldon Johnson",
+26,
+[
+"J. W. Johnson"
+]
+],
+[
+"Johann Kirnberger",
+26,
+[
+"Johann Philipp Kirnberger",
+"J. P. Kirnberger"
+]
+],
+[
+"Alexander Gretchaninov",
+26,
+[
+"Alexander Tikhonovich Gretchaninoff",
+"Alexander Tikhonovich Gretchaninov"
+]
+],
+[
+"Nie Er",
+26,
+[]
+],
+[
+"Ferdinando Paër",
+26,
+[]
+],
+[
+"Chao Yuen Ren",
+26,
+[
+"Chao Yuen-jen",
+"Y. R. Chao",
+"Yuanren Zhao",
+"Yuen-jen Chao",
+"Yuen Ren Chao",
+"Zhao Yuanren"
+]
+],
+[
+"Johann Gottfried Walther",
+26,
+[]
+],
+[
+"Chevalier de Saint-Georges",
+26,
+[
+"Joseph Bologne de Saint Georges",
+"Joseph Boulogne, Chevalier De Saint-Georges",
+"Saint-Georges (Joseph Bologne de)"
+]
+],
+[
+"Grzegorz Fitelberg",
+26,
+[
+"Gregory Fitelberg"
+]
+],
+[
+"Phil Ramone",
+25,
+[
+"Philip Rabinowitz",
+"Philip Ramone"
+]
+],
+[
+"Riccardo Zandonai",
+25,
+[]
+],
+[
+"Rebecca Clarke",
+25,
+[
+"Anthony Trent",
+"Rebecca Helferich Clarke"
+]
+],
+[
+"Pasquale Anfossi",
+25,
+[]
+],
+[
+"Ferdinando Carulli",
+25,
+[
+"Ferdinand Carulli",
+"Ferdinando Maria Meinrado Francesco Pascale Rosario Carulli"
+]
+],
+[
+"Carl Zeller",
+25,
+[]
+],
+[
+"Giovanni Legrenzi",
+25,
+[]
+],
+[
+"Ariel Ramírez",
+25,
+[
+"Ariel Ramirez"
+]
+],
+[
+"Jakov Gotovac",
+25,
+[]
+],
+[
+"Prince Gustaf, Duke of Uppland",
+25,
+[
+"Duke of Uppland"
+]
+],
+[
+"Étienne Méhul",
+25,
+[]
+],
+[
+"Jean Absil",
+25,
+[]
+],
+[
+"Henri Duparc",
+25,
+[]
+],
+[
+"Josef Rheinberger",
+25,
+[
+"Josef Gabriel Rheinberger",
+"Joseph Gabriel Rheinberger",
+"Joseph Rheinberger"
+]
+],
+[
+"Leroy Anderson",
+25,
+[]
+],
+[
+"Vasily Kalinnikov",
+25,
+[
+"Vasilij Sergeevič Kalinnikov",
+"Vasily Sergeyevich Kalinnikov"
+]
+],
+[
+"Mario Castelnuovo-Tedesco",
+25,
+[
+"Mario Castelnuovo Tedesco"
+]
+],
+[
+"Ildebrando Pizzetti",
+25,
+[]
+],
+[
+"Spiro Samara",
+25,
+[
+"Spiridon Samaras",
+"Spyridon-Filiskos Samaras",
+"Spyridōn Philiskos Samaras",
+"Spyro Samara",
+"Spyros Samaras"
+]
+],
+[
+"Jean Françaix",
+25,
+[
+"Jean René Désiré Françaix"
+]
+],
+[
+"Francesco Gasparini",
+25,
+[]
+],
+[
+"Hal David",
+25,
+[
+"Harold David",
+"Kathy Griffin"
+]
+],
+[
+"Stig Anderson",
+25,
+[
+"Stig Erik Leopold Anderson"
+]
+],
+[
+"André Messager",
+25,
+[
+"Andre Messager"
+]
+],
+[
+"Sammy Cahn",
+25,
+[]
+],
+[
+"Arthur Bliss",
+25,
+[
+"Arthur Bliss, Sir",
+"Sir Arthur Bliss",
+"Sir Arthur Edward Drummond Bliss"
+]
+],
+[
+"Isao Tomita",
+25,
+[
+"Tomita Isao"
+]
+],
+[
+"Gershon Kingsley",
+25,
+[
+"Gotz Gustav Ksinski",
+"Götz Gustav Ksinski",
+"Gotz Ksinski",
+"Götz Ksinski"
+]
+],
+[
+"Jenö Hubay",
+25,
+[]
+],
+[
+"Mikael Tariverdiev",
+25,
+[
+"Mikael Leonovich Tariverdiev"
+]
+],
+[
+"Lorenz Hart",
+25,
+[
+"Lorenz M. Hart",
+"Lorenz Milton Hart"
+]
+],
+[
+"Samuel Coleridge-Taylor",
+25,
+[
+"Coleridge-Taylor",
+"Samuel Coleridge Taylor"
+]
+],
+[
+"Franz Schreker",
+25,
+[]
+],
+[
+"Memphis Slim",
+24,
+[
+"John Len Chatman",
+"L.C. Frazier",
+"Leroy",
+"Peter Chatman"
+]
+],
+[
+"Jerry Herman",
+24,
+[]
+],
+[
+"Franz Abt",
+24,
+[
+"Franz Wilhelm Abt"
+]
+],
+[
+"Josef Tal",
+24,
+[
+"Josef Grünthal",
+"Joseph Grünthal",
+"Joseph Tal",
+"Yosef Tal"
+]
+],
+[
+"Johann Gottlieb Naumann",
+24,
+[]
+],
+[
+"Alexei Lvov",
+24,
+[
+"Alexei Fedorowitsch Lvov",
+"Alexei Fyodorovich Lvov",
+"Alexey Lvov",
+"Alexis von Lwoff"
+]
+],
+[
+"Tommaso Traetta",
+24,
+[
+"Tommaso Michele Francesco Saverio Traetta",
+"Tommaso Trajetta"
+]
+],
+[
+"Edison Denisov",
+24,
+[
+"Edison Vasilievich Denisov",
+"Edison Vasilyevich Denisov"
+]
+],
+[
+"Abraham Goldfaden",
+24,
+[]
+],
+[
+"Ernesto Lecuona",
+24,
+[
+"Ernesto Lecuona y Casado",
+"Ernesto Sixto de la Asunción Lecuona Casado",
+"Lenva"
+]
+],
+[
+"Alexandre Guilmant",
+24,
+[
+"Alex Guilmant",
+"Felix Alexandre Guilmant",
+"Félix-Alexandre Guilmant"
+]
+],
+[
+"Frank Bridge",
+24,
+[
+"Francis Bridge"
+]
+],
+[
+"Johann Christoph Pepusch",
+24,
+[]
+],
+[
+"Aníbal Troilo",
+24,
+[
+"Anibal Troilo",
+"Pichuco"
+]
+],
+[
+"Ciprian Porumbescu",
+24,
+[
+"Ciprian"
+]
+],
+[
+"Ahmet Adnan Saygun",
+24,
+[
+"Achmed Adnan Saigun"
+]
+],
+[
+"Gabriel Pierné",
+24,
+[
+"Gabriel Pierne",
+"Pierne"
+]
+],
+[
+"Gottfried von Einem",
+24,
+[]
+],
+[
+"Eduard Tubin",
+24,
+[]
+],
+[
+"Reinhard Keiser",
+24,
+[]
+],
+[
+"Kurt Atterberg",
+24,
+[]
+],
+[
+"Louise Bertin",
+24,
+[
+"Louise-Angélique Bertin"
+]
+],
+[
+"Sigfrid Karg-Elert",
+24,
+[]
+],
+[
+"Rezső Seress",
+24,
+[
+"Rezso Seress",
+"Rezsö Seress"
+]
+],
+[
+"Giuseppe Sarti",
+24,
+[]
+],
+[
+"Oskar Merikanto",
+24,
+[
+"Frans Oskar Mattson",
+"Frans Oskar Merikanto",
+"Oskar Mattson"
+]
+],
+[
+"Antonio Bazzini",
+24,
+[]
+],
+[
+"Henri Rabaud",
+24,
+[
+"Henri Benjamin Rabaud"
+]
+],
+[
+"John Ireland",
+24,
+[
+"John Nicholson Ireland",
+"Turlay Royce"
+]
+],
+[
+"Alexandre Tansman",
+24,
+[
+"Alexander Tansman"
+]
+],
+[
+"Jāzeps Vītols",
+24,
+[
+"Joseph Wihtol"
+]
+],
+[
+"Johann Nikolaus Forkel",
+24,
+[]
+],
+[
+"Gunther Schuller",
+24,
+[]
+],
+[
+"Bernhard Crusell",
+24,
+[
+"Bernhard Henrik Crusell"
+]
+],
+[
+"Arthur Freed",
+24,
+[]
+],
+[
+"Yevgeny Svetlanov",
+24,
+[
+"Yevgeny Fyodorovich Svetlanov"
+]
+],
+[
+"Francesco Maria Veracini",
+24,
+[]
+],
+[
+"Franz Lachner",
+24,
+[
+"Franz Paul Lachner"
+]
+],
+[
+"Ernest Guiraud",
+24,
+[]
+],
+[
+"Vasily Solovyov-Sedoi",
+24,
+[
+"Golowjew Sedoi",
+"Vasily Pavlovich Solovyov-Sedoi"
+]
+],
+[
+"Georg Christoph Wagenseil",
+24,
+[]
+],
+[
+"Frank Loesser",
+24,
+[
+"Frank Henry Loesser"
+]
+],
+[
+"Dimitry of Rostov",
+24,
+[
+"Danylo Tuptalo",
+"Dymytrii Rostovskyi",
+"Dymytrii Tuptalo"
+]
+],
+[
+"Koichi Sugiyama",
+23,
+[]
+],
+[
+"Heinrich Sutermeister",
+23,
+[]
+],
+[
+"Vatroslav Lisinski",
+23,
+[]
+],
+[
+"Giovanni Sgambati",
+23,
+[
+"Giovanni Sgambatti"
+]
+],
+[
+"John Kander",
+23,
+[]
+],
+[
+"Georg Muffat",
+23,
+[]
+],
+[
+"Egon Wellesz",
+23,
+[
+"Egon Joseph Wellesz",
+"Jenö Wellesz"
+]
+],
+[
+"Lukas Foss",
+23,
+[
+"Lukas Fuchs"
+]
+],
+[
+"Johann Friedrich Reichardt",
+23,
+[]
+],
+[
+"Paul Ben-Haim",
+23,
+[]
+],
+[
+"Ğazı II Giray",
+23,
+[]
+],
+[
+"Théodore Dubois",
+23,
+[
+"Clément-François Théodore Dubois",
+"Theodore Dubois"
+]
+],
+[
+"Agathe Backer Grøndahl",
+23,
+[
+"Agathe Ursula Backer"
+]
+],
+[
+"Emilio de' Cavalieri",
+23,
+[
+"Emilio De' Cavalieri"
+]
+],
+[
+"Adolf von Henselt",
+23,
+[
+"Adolf Henselt",
+"Georg Martin Adolf von Henselt"
+]
+],
+[
+"Johann Simon Mayr",
+23,
+[
+"Giovanni Simone Mayr"
+]
+],
+[
+"Osvaldo Pugliese",
+23,
+[
+"Osvaldo Pedro Pugliese"
+]
+],
+[
+"Agustín Pío Barrios",
+23,
+[
+"Agustin Barrios",
+"Agustin Barrios Mangore",
+"Agustin Pio Barrios",
+"Nitsuga"
+]
+],
+[
+"Alexander Serov",
+23,
+[
+"Alexander Nikolayevich Serov"
+]
+],
+[
+"Maria Teresa Agnesi Pinottini",
+23,
+[
+"Maria Teresa Agnesi",
+"Maria Theresa Agnesi"
+]
+],
+[
+"Pavel Haas",
+23,
+[]
+],
+[
+"Johann Baptist Vanhal",
+23,
+[
+"Johann Baptist Wanhal",
+"Vanhal"
+]
+],
+[
+"Josef Bohuslav Foerster",
+23,
+[]
+],
+[
+"Elfrida Andrée",
+23,
+[
+"Elfrida Andree"
+]
+],
+[
+"J. Gade",
+23,
+[
+"Jacob Thune Hansen Gade"
+]
+],
+[
+"Carl Millöcker",
+23,
+[]
+],
+[
+"Federico Mompou",
+23,
+[
+"Frederic Mompou Dencausse",
+"Frederico Mompou"
+]
+],
+[
+"Eugen Suchoň",
+23,
+[
+"Eugen Suchon"
+]
+],
+[
+"Augusta Holmès",
+23,
+[
+"Augusta Holmes",
+"Augusta Mary Anne Holmès",
+"Hermann Zenta"
+]
+],
+[
+"Chiquinha Gonzaga",
+23,
+[
+"Francisca Edwiges Neves",
+"Francisca Edwiges Neves Chiquinha Gonzaga"
+]
+],
+[
+"Francisco Guerrero",
+23,
+[]
+],
+[
+"Niccolò Antonio Zingarelli",
+23,
+[
+"Niccolo Antonio Zingarelli"
+]
+],
+[
+"Goffredo Petrassi",
+23,
+[]
+],
+[
+"Joseph Bodin de Boismortier",
+23,
+[]
+],
+[
+"Heino Eller",
+23,
+[]
+],
+[
+"Frederick Loewe",
+23,
+[
+"Friedrich Löwe"
+]
+],
+[
+"Joseph Canteloube",
+23,
+[
+"Marie Joseph Canteloube",
+"Marie Joseph Canteloube de Malaret",
+"Marie-Joseph Canteloube de Malaret"
+]
+],
+[
+"Alberto Savinio",
+23,
+[
+"Alberto Savinio De Chirico",
+"Andrea de Chirico",
+"Andrea De Chirico"
+]
+],
+[
+"Walter Piston",
+23,
+[
+"Walter Hamor Piston",
+"Walter Hamor Piston Jr"
+]
+],
+[
+"Paul Lincke",
+23,
+[]
+],
+[
+"Thoinot Arbeau",
+23,
+[]
+],
+[
+"Harry Warren",
+23,
+[]
+],
+[
+"Christoph Graupner",
+22,
+[]
+],
+[
+"Josip Runjanin",
+22,
+[]
+],
+[
+"Victor Herbert",
+22,
+[
+"Victor August Herbert"
+]
+],
+[
+"Edvard Mirzoyan",
+22,
+[]
+],
+[
+"Rudolf Tobias",
+22,
+[]
+],
+[
+"Lovro von Matačić",
+22,
+[
+"Lovro Von Matacic"
+]
+],
+[
+"Rued Langgaard",
+22,
+[]
+],
+[
+"Näcip Cihanof",
+22,
+[
+"Nasib Gajasowitsch Schiganow"
+]
+],
+[
+"Maurice Emmanuel",
+22,
+[
+"Marie François Maurice Emmanuel"
+]
+],
+[
+"Paul Dessau",
+22,
+[]
+],
+[
+"Vano Muradeli",
+22,
+[
+"Vano Ilyich Muradeli",
+"Vano Mouradeli"
+]
+],
+[
+"Richard M. Sherman",
+22,
+[]
+],
+[
+"Roman Vlad",
+22,
+[]
+],
+[
+"Silvestre Revueltas",
+22,
+[
+"Silvestre Revueltas Sánchez"
+]
+],
+[
+"Cristóbal de Morales",
+22,
+[
+"Mohamed de Cristo"
+]
+],
+[
+"Manuel Ponce",
+22,
+[
+"Manuel Maria Ponce",
+"Manuel María Ponce"
+]
+],
+[
+"Howard Hanson",
+22,
+[
+"Howard Harold Hanson"
+]
+],
+[
+"Karol Lipiński",
+22,
+[
+"Carl Lipinski",
+"Karol Jósef Lipiński"
+]
+],
+[
+"Eduard Künneke",
+22,
+[
+"Eduard Künnecke",
+"Eduard Kunneke"
+]
+],
+[
+"Arif Malikov",
+22,
+[
+"Arif Melikov"
+]
+],
+[
+"Guillaume Lekeu",
+22,
+[
+"Jean Joseph Nicolas Guillaume Lekeu"
+]
+],
+[
+"Matteo Carcassi",
+22,
+[]
+],
+[
+"Andrei Eshpai",
+22,
+[
+"Andrei Yakovlevich Eshpai",
+"Andrej Jakovlevič Ėšpaj",
+"Andrey Yakovlevich Eshpay"
+]
+],
+[
+"Andrey Petrov",
+22,
+[
+"Andrey Pavlovich Petrov"
+]
+],
+[
+"Vissarion Shebalin",
+22,
+[
+"Vissarion Yakovlevich Shebalin"
+]
+],
+[
+"Joseph Marx",
+22,
+[
+"Joseph Rupert Rudolf Marx"
+]
+],
+[
+"Leó Weiner",
+22,
+[
+"Leo Weiner"
+]
+],
+[
+"Alan Hovhaness",
+22,
+[]
+],
+[
+"Shneur Zalman of Liadi",
+22,
+[
+"Alter Rebbe",
+"Baal HaTanya",
+"Baal HaTanya Vehashulchan Aruch",
+"Rabbi Shneur Zalman Baruchovitch",
+"Rabbi Shneur Zalman of Liadi",
+"Shneur Zalman of Liady"
+]
+],
+[
+"Charles Tournemire",
+22,
+[
+"Charles Arnold Tournemire",
+"Charles Arnould Tournemire"
+]
+],
+[
+"Roger Sessions",
+22,
+[
+"Roger H. Sessions",
+"Roger Huntington Sessions"
+]
+],
+[
+"Louis Moreau Gottschalk",
+22,
+[
+"Gottschalk",
+"L. M. Gottschalk",
+"Louis Gottschalk"
+]
+],
+[
+"Granville Bantock",
+22,
+[
+"Sir Granville Bantock",
+"Sir Granville Ransome Bantock"
+]
+],
+[
+"Robert Casadesus",
+22,
+[
+"Robert Marcel Casadesus"
+]
+],
+[
+"Jule Styne",
+22,
+[]
+],
+[
+"Levko Revutsky",
+22,
+[
+"Levko Revutskyi",
+"Lev Revutsky",
+"Lev Revutskyi",
+"Лев Ревуцький"
+]
+],
+[
+"Moritz Hauptmann",
+22,
+[]
+],
+[
+"Hans Krása",
+22,
+[
+"Hans Krasa",
+"Jan Krása"
+]
+],
+[
+"Carl Michael Ziehrer",
+22,
+[
+"C. M. Ziehrer",
+"Karl Michael Ziehrer"
+]
+],
+[
+"Friedrich Silcher",
+22,
+[]
+],
+[
+"Stephen Heller",
+22,
+[]
+],
+[
+"Percy Faith",
+22,
+[
+"Peter Mars"
+]
+],
+[
+"Artur Kapp",
+22,
+[]
+],
+[
+"Joe Meek",
+22,
+[
+"Peter Jacobs",
+"Robert Duke"
+]
+],
+[
+"Prince August, Duke of Dalarna",
+22,
+[]
+],
+[
+"Sigmund Romberg",
+22,
+[
+"Siegmund Rosenberg"
+]
+],
+[
+"Orazio Vecchi",
+22,
+[]
+],
+[
+"Frank Churchill",
+22,
+[
+"Frank E. Churchill"
+]
+],
+[
+"Nikolai Tcherepnin",
+22,
+[
+"Nikolai Nikolayevich Tcherepnin"
+]
+],
+[
+"Mieczysław Weinberg",
+22,
+[
+"Moisei Weinberg",
+"Moisey Samuilovich Vaynberg"
+]
+],
+[
+"Oskar Nedbal",
+22,
+[]
+],
+[
+"Edmond Audran",
+22,
+[
+"Achille Edmond Audran"
+]
+],
+[
+"Tomaso Antonio Vitali",
+22,
+[
+"Tommaso Antonio Vitali"
+]
+],
+[
+"Albéric Magnard",
+22,
+[
+"Alberic Magnard",
+"Lucien Denis Gabriel Albéric Magnard"
+]
+],
+[
+"Alexander Moyzes",
+21,
+[]
+],
+[
+"Miguel Gustavo",
+21,
+[
+"Miguel Gustavo Werneck de Sousa Martins"
+]
+],
+[
+"Prabhat Rainjan Sarkar",
+21,
+[
+"Anandamurti",
+"Baba",
+"baba baba",
+"Prabhat Ranjan Sarkar",
+"Shrii Shrii Anandamurti",
+"shrii shrri"
+]
+],
+[
+"Mykhailo Verbytskyi",
+21,
+[
+"Mikhail Mikhaylovich Verbitsky",
+"Mikhail Verbitsky",
+"Mychajlo M. Verbycʹkyj",
+"Mychajlo Werbytskyj",
+"Mykhailo Mykhailovych Verbytskyi"
+]
+],
+[
+"Yip Harburg",
+21,
+[
+"Edgar Yipsel Harburg",
+"Edgar Yipsel \"Yip\" Harburg",
+"E. Y. Harburg",
+"Isidore Hochberg"
+]
+],
+[
+"Leslie Bricusse",
+21,
+[
+"Leslie Charles Bricusse"
+]
+],
+[
+"Fela Sowande",
+21,
+[
+"Olufela Obafunmilayo \"Fela\" Sowande"
+]
+],
+[
+"Kārlis Baumanis",
+21,
+[]
+],
+[
+"Samuel Arnold",
+21,
+[]
+],
+[
+"Tigran Chukhajian",
+21,
+[
+"Dikran Tchouhadjian",
+"Tigran Gevorki Chukhajian",
+"Tigran Tchoukhajian"
+]
+],
+[
+"Alla Rakha",
+21,
+[
+"Ustad Allarakha Quresh"
+]
+],
+[
+"Leo Ornstein",
+21,
+[]
+],
+[
+"Petr Eben",
+21,
+[]
+],
+[
+"Jānis Cimze",
+21,
+[]
+],
+[
+"Karol Kurpiński",
+21,
+[]
+],
+[
+"Arthur Benjamin",
+21,
+[
+"Arthur Leslie Benjamin"
+]
+],
+[
+"Temistocle Solera",
+21,
+[]
+],
+[
+"Jaromír Weinberger",
+21,
+[
+"Jaromir Weinberger"
+]
+],
+[
+"Robert B. Sherman",
+21,
+[]
+],
+[
+"Vasily Agapkin",
+21,
+[
+"Vasily Ivanovich Agapkin"
+]
+],
+[
+"Tatiana Nikolayeva",
+21,
+[
+"Tatiana Petrovna Nikolayeva",
+"Tat′yana Nikolayeva",
+"Tatyana Nikolayeva",
+"Tatyana Petrovna Nikolayeva"
+]
+],
+[
+"Jeanne Demessieux",
+21,
+[
+"Jeanne Marie Madeleine Demessieux",
+"Jeanne Marie-Madeleine Demessieux"
+]
+],
+[
+"Bernd Alois Zimmermann",
+21,
+[]
+],
+[
+"Jimmy Van Heusen",
+21,
+[
+"Ada Kurtz",
+"Arthur Williams",
+"Edward Chester Babcock",
+"James Van Heusen",
+"Kurt Adams"
+]
+],
+[
+"Johan Helmich Roman",
+21,
+[]
+],
+[
+"Ferdinand Hérold",
+21,
+[
+"Ferdinand Herold",
+"Louis Joseph Ferdinand Herold",
+"Louis Joseph Ferdinand Hérold",
+"Louis Joseph F. Herold"
+]
+],
+[
+"Cyril Scott",
+21,
+[
+"Cyril Meir Scott"
+]
+],
+[
+"Ferde Grofé",
+21,
+[
+"Ferde Grofe"
+]
+],
+[
+"Vicente Martín y Soler",
+21,
+[
+"Vicente Martin y Soler"
+]
+],
+[
+"Sergei Lyapunov",
+21,
+[
+"Liapunov",
+"Sergei Mikhailovich Lyapunov",
+"Sergey Lyapunov",
+"Sergey Mikhailovich Lyapunov"
+]
+],
+[
+"Richard Addinsell",
+21,
+[
+"Richard Stewart Addinsell"
+]
+],
+[
+"Dorothy Fields",
+21,
+[]
+],
+[
+"Wilhelm Stenhammar",
+21,
+[
+"Carl Wilhelm Eugen Stenhammar",
+"Stenhammar"
+]
+],
+[
+"Jean Martinon",
+21,
+[
+"Jean Francisque-Étienne Martinon"
+]
+],
+[
+"Anton Karas",
+21,
+[
+"Anton Karl Karas"
+]
+],
+[
+"Nikos Skalkottas",
+21,
+[
+"Nikolaus Skalkottas",
+"Nikos Skalkotas"
+]
+],
+[
+"Léon Boëllmann",
+21,
+[
+"Boellmann",
+"Leon Boellmann"
+]
+],
+[
+"Boris Blacher",
+21,
+[]
+],
+[
+"Werner Egk",
+21,
+[]
+],
+[
+"Pietro Filippo Scarlatti",
+21,
+[]
+],
+[
+"Harald Sæverud",
+21,
+[]
+],
+[
+"Toivo Kuula",
+21,
+[]
+],
+[
+"Wilhelm Friedrich Ernst Bach",
+21,
+[
+"Wilhelm Bach",
+"William Bach"
+]
+],
+[
+"Italo Montemezzi",
+21,
+[]
+],
+[
+"Johan Peter Emilius Hartmann",
+21,
+[
+"J.P.E. Hartmann"
+]
+],
+[
+"Ester Mägi",
+21,
+[]
+],
+[
+"Pierre Baillot",
+21,
+[
+"Pierre Marie François de Sales Baillot"
+]
+],
+[
+"Knut Nystedt",
+21,
+[]
+],
+[
+"Vernon Duke",
+21,
+[
+"Vladimir Dukelsky"
+]
+],
+[
+"Florence Price",
+21,
+[
+"Florence Bea Price",
+"Florence Beatrice Price",
+"Florence Beatrice Smith",
+"Florence B. Price",
+"Florence B. Price Smith",
+"Florence Smith"
+]
+],
+[
+"Ray Evans",
+21,
+[
+"Raymond B. Evans"
+]
+],
+[
+"Johann Ludwig Bach",
+21,
+[]
+],
+[
+"Remo Giazotto",
+21,
+[]
+],
+[
+"Erkki Melartin",
+21,
+[
+"Erik Melartin"
+]
+],
+[
+"Charles Lecocq",
+21,
+[
+"Alexandre Charles Lecocq"
+]
+],
+[
+"Giacomo Antonio Perti",
+21,
+[]
+],
+[
+"Riccardo Drigo",
+21,
+[
+"Riccardo Eugenio Drigo"
+]
+],
+[
+"Johann Schobert",
+21,
+[]
+],
+[
+"Havergal Brian",
+21,
+[
+"William"
+]
+],
+[
+"Antoni Radziwiłł",
+21,
+[
+"Anton Heinrich, Prince Radziwill",
+"Anton Henryk, prince Radzivil",
+"Antoni Henryk, prince Radziwill",
+"Antoni Henryk Radziwiłł",
+"Prince Anton Heinrich Radziwill"
+]
+],
+[
+"Sakutarō Hagiwara",
+21,
+[
+"Sakutaro Hagiwara",
+"Sakutarou Hagiwara"
+]
+],
+[
+"Mikhail Gnesin",
+21,
+[
+"Michael Fabionovitch Gniessin",
+"Mikhail Fabianovich Gnesin",
+"Mikhail Fabianovich Gnessin"
+]
+],
+[
+"Princess Therese of Saxe-Altenburg",
+21,
+[
+"Theresa of Saxe-Altenburg",
+"Therese von Sachsen-Altenburg"
+]
+],
+[
+"Friedrich Burgmüller",
+21,
+[
+"Johann Friedrich Franz Burgmüller"
+]
+],
+[
+"Scott Bradley",
+21,
+[
+"Walter Scott Bradley"
+]
+],
+[
+"Johann Heinrich Schmelzer",
+21,
+[]
+],
+[
+"Manuel García",
+21,
+[
+"Manuel del Pópulo Vicente Rodriguez García",
+"Manuel Garcia",
+"Manuel Garcia the Senior",
+"Manuel García the Senior"
+]
+],
+[
+"Philipp Nicolai",
+21,
+[]
+],
+[
+"Georg Joseph Vogler",
+21,
+[
+"Abbé Vogler"
+]
+],
+[
+"Franz Doppler",
+21,
+[
+"Albert Franz Doppler"
+]
+],
+[
+"Manolis Kalomiris",
+21,
+[
+"Manolis Kalomoiris"
+]
+],
+[
+"Thorbjørn Egner",
+21,
+[
+"Thorbjoern Egner"
+]
+],
+[
+"Tomás Bretón",
+21,
+[
+"Tomas Breton",
+"Tomás Bretón i Hernández"
+]
+],
+[
+"Stanley Myers",
+21,
+[]
+],
+[
+"Nicolas Isouard",
+21,
+[
+"Niccolò Isonard",
+"Nicolò Isouard"
+]
+],
+[
+"Korla Awgust Kocor",
+21,
+[]
+],
+[
+"Johann Friedrich Fasch",
+21,
+[
+"Johannes Friedrich Fasch"
+]
+],
+[
+"Ignaz Brüll",
+21,
+[
+"Ignatz Brüll"
+]
+],
+[
+"Francesco Feo",
+21,
+[]
+],
+[
+"David Diamond",
+21,
+[
+"David Leo Diamond"
+]
+],
+[
+"Sebastián Iradier",
+21,
+[
+"Sebastian Iradier",
+"Sebastián Yradier"
+]
+],
+[
+"Edmund Rubbra",
+21,
+[
+"Edmund Duncan Rubbra"
+]
+],
+[
+"Yuri Shaporin",
+21,
+[
+"Yuri Alexandrovich Shaporin"
+]
+],
+[
+"Ruperto Chapí",
+21,
+[
+"Ruperto Chapi"
+]
+],
+[
+"Calixa Lavallée",
+20,
+[
+"Calixa Lavallee"
+]
+],
+[
+"Enrico Toselli",
+20,
+[
+"Enrico Toselli di Montignoso, Conte di Montignoso"
+]
+],
+[
+"Eduard Nápravník",
+20,
+[
+"Eduard Napravnik"
+]
+],
+[
+"Rbi Menachem Mendel Schneersohn",
+20,
+[
+"Menachem Mendel Schneersohn (Tzemach Tzedek)",
+"Tzemach Tzedek"
+]
+],
+[
+"James Pierpont",
+20,
+[
+"James Lord Pierpont",
+"J. Pierpont"
+]
+],
+[
+"Selim Palmgren",
+20,
+[
+"Selim Gustaf Adolf Palmgren"
+]
+],
+[
+"Leonard Rosenman",
+20,
+[]
+],
+[
+"Hans Christian Lumbye",
+20,
+[]
+],
+[
+"Felix Mikhailovich Blumenfeld",
+20,
+[
+"Felix Blumenfeld"
+]
+],
+[
+"Jean Guillou",
+20,
+[
+"Jean Victor Arthur Guillou"
+]
+],
+[
+"Morton Gould",
+20,
+[]
+],
+[
+"Fartein Valen",
+20,
+[
+"Olav Fartein Valen"
+]
+],
+[
+"George Alexander Macfarren",
+20,
+[
+"G. A. MacFarren",
+"Sir George Alexander Macfarren"
+]
+],
+[
+"Sergei Vasilenko",
+20,
+[
+"Sergei Nikiforovich Vasilenko"
+]
+],
+[
+"Jára Cimrman",
+20,
+[
+"Jara Cimrman",
+"Jára da Cimrman"
+]
+],
+[
+"Allan Pettersson",
+20,
+[
+"Gustaf Allan Pettersson"
+]
+],
+[
+"Robert Russell Bennett",
+20,
+[
+"Russell Bennett"
+]
+],
+[
+"Ernst Toch",
+20,
+[
+"Ernest Toch"
+]
+],
+[
+"Ferdinand David",
+20,
+[]
+],
+[
+"Ivan Larionov",
+20,
+[
+"Ivan Petrovich Larionov"
+]
+],
+[
+"Tofig Guliyev",
+20,
+[
+"Tofig Alakbar oglu Guliyev",
+"Tofik Guliyev",
+"Tofik Gulyef",
+"Tofik Kuliev",
+"Tofik Kuliyev",
+"Tofiq Guliyev",
+"Tofiq Qualiyev",
+"Tofiq Quliyev",
+"Tovfik Guliev",
+"Tovfik Guliyev",
+"Тофик Кулиев"
+]
+],
+[
+"Muslim Magomayev",
+20,
+[
+"Abdulmuslim Muhammad oghlu Magomayev",
+"Magomayev, Muslim"
+]
+],
+[
+"Galina Ustvolskaya",
+20,
+[
+"Galina Ivanovna Ustvol′skaya",
+"Galina Ivanovna Ustvolskaya",
+"Galina Ustvolskaïa"
+]
+],
+[
+"Luis de Pablo",
+20,
+[
+"Luis De Pablo"
+]
+],
+[
+"Vítězslava Kaprálová",
+20,
+[
+"Vitezslava Kapralova"
+]
+],
+[
+"Lalon",
+20,
+[
+"Lalon Fakir",
+"Lalon Fokir",
+"Lalon Saint",
+"Lalon Shah",
+"Lalon Shah,",
+"Mahatma Lalon"
+]
+],
+[
+"Adalbert Gyrowetz",
+20,
+[
+"Adalbert Mathias Gyrowetz",
+"Adalbert Matthias Gyrowetz"
+]
+],
+[
+"Jean-Joseph de Mondonville",
+20,
+[
+"Jean Joseph Cassanea De Mondonville",
+"Jean-Joseph Cassanéa de Mondonville"
+]
+],
+[
+"George Onslow",
+20,
+[]
+],
+[
+"Julius Reubke",
+20,
+[
+"Friedrich Julius Reubke"
+]
+],
+[
+"Käbi Laretei",
+20,
+[]
+],
+[
+"Louise Farrenc",
+20,
+[
+"Jeanne-Louise Farrenc"
+]
+],
+[
+"Pauline Oliveros",
+20,
+[]
+],
+[
+"Domenico Gabrielli",
+20,
+[]
+],
+[
+"Emil von Sauer",
+20,
+[
+"Emil Georg Conrad von Sauer",
+"Emil Sauer"
+]
+],
+[
+"Juventino Rosas",
+20,
+[]
+],
+[
+"Wilhelm Peterson-Berger",
+20,
+[
+"Wilhelm Olof Peterson-Berger"
+]
+],
+[
+"Jacob van Eyck",
+20,
+[
+"Jacob Jan Van Eyck"
+]
+],
+[
+"Albert Ketèlbey",
+20,
+[
+"Albert Ketelbey",
+"Albert William Ketelbey",
+"Albert William Ketèlbey"
+]
+],
+[
+"Alexander Tcherepnin",
+20,
+[
+"Aleksandr Nikolayevich Cherepnin",
+"Aleksandr Tcherepnin",
+"Alexander Nikolayevich Tcherepnin"
+]
+],
+[
+"Gus Kahn",
+20,
+[
+"Gilbert Keyes",
+"Gus Kohn",
+"Kahn"
+]
+],
+[
+"Josef Hellmesberger",
+20,
+[
+"Joseph Hellmesberger",
+"Joseph Hellmesberger d. J.",
+"Joseph Hellmesberger, Jr.",
+"Pepi Hellmesberger"
+]
+],
+[
+"Francisco Canaro",
+20,
+[
+"Francisco Canarozzo Gatto",
+"Pirincho"
+]
+],
+[
+"Tadeusz Baird",
+20,
+[]
+],
+[
+"Emil von Reznicek",
+20,
+[
+"Emil Nikolaus Joseph von Reznicek"
+]
+],
+[
+"Joseph Jongen",
+20,
+[
+"Joseph Marie Alphonse Nicolas Jongen"
+]
+],
+[
+"Hermann Levi",
+20,
+[]
+],
+[
+"Hermann Goetz",
+20,
+[
+"Hermann Gotz",
+"Hermann Gustav Goetz"
+]
+],
+[
+"Aleksandr Zatsepin",
+20,
+[
+"Aleksandr Sergeyevich Zatsepin"
+]
+],
+[
+"Naushad",
+20,
+[
+"Naushad Ali"
+]
+],
+[
+"Johann Gottfried Piefke",
+20,
+[
+"Gottfried Piefke"
+]
+],
+[
+"Ján Cikker",
+20,
+[
+"Jan Cikker"
+]
+],
+[
+"Leopold Koželuch",
+20,
+[]
+],
+[
+"Necil Kazım Akses",
+20,
+[]
+],
+[
+"Ludwig Thuille",
+20,
+[
+"Ludwig Wilhelm Andreas Maria Thuille"
+]
+],
+[
+"Johann Walter",
+20,
+[
+"Johann Walther"
+]
+],
+[
+"Conlon Nancarrow",
+20,
+[
+"Samuel Conlon Nancarrow"
+]
+],
+[
+"Johann Ludwig Krebs",
+20,
+[]
+],
+[
+"François Devienne",
+20,
+[]
+],
+[
+"František Brixi",
+20,
+[
+"Frantisek Brixi",
+"Frantisek Xaver Brixi",
+"Franz Brixi"
+]
+],
+[
+"Pierre Rode",
+20,
+[
+"Jacques Pierre Joseph Rode"
+]
+],
+[
+"Jerry Bock",
+20,
+[]
+],
+[
+"Riccardo Broschi",
+20,
+[
+"Riccardo Brosca"
+]
+],
+[
+"Birger Sjöberg",
+20,
+[]
+],
+[
+"Constant Lambert",
+20,
+[]
+],
+[
+"Peter Benoit",
+20,
+[
+"Peter Benoît",
+"Peter Leonard Leopold Benoit"
+]
+],
+[
+"Ned Rorem",
+20,
+[]
+],
+[
+"Sergei Bortkiewicz",
+20,
+[
+"Sergei Eduardovich Bortkiewicz",
+"Sergej Eduardovič Bortkevič"
+]
+],
+[
+"Vincent Youmans",
+20,
+[]
+],
+[
+"Leo Fall",
+20,
+[]
+],
+[
+"Friedrich Cerha",
+20,
+[]
+],
+[
+"Joseph Weigl",
+20,
+[
+"Joseph Weigl der Ältere"
+]
+],
+[
+"Benjamin Godard",
+20,
+[
+"Benjamin Louis Paul Godard",
+"Benjamin-Luis-Paul Godard"
+]
+],
+[
+"Oskar Sala",
+20,
+[]
+],
+[
+"Alfred Bruneau",
+20,
+[
+"Louis-Charles-Bonaventure-Alfred Brunea"
+]
+],
+[
+"Eino Tamberg",
+20,
+[]
+],
+[
+"Johan Agrell",
+20,
+[
+"Johan Joachim Agrell"
+]
+],
+[
+"Lars-Erik Larsson",
+20,
+[
+"Lars-Erik Vilner Larsson"
+]
+],
+[
+"Carlo Rustichelli",
+19,
+[]
+],
+[
+"Cyrillus Kreek",
+19,
+[]
+],
+[
+"David Raksin",
+19,
+[]
+],
+[
+"Henry Bishop",
+19,
+[
+"Henry Rowley Bishop",
+"Sir Henry Rowley Bishop"
+]
+],
+[
+"Francesco Araja",
+19,
+[
+"Francesco Domenico Araja"
+]
+],
+[
+"Karl-Birger Blomdahl",
+19,
+[]
+],
+[
+"Dobri Hristov",
+19,
+[
+"Dobri Christov"
+]
+],
+[
+"Francisco Asenjo Barbieri",
+19,
+[
+"Francisco de Asís Esteban Asenjo Barbieri"
+]
+],
+[
+"Meredith Willson",
+19,
+[
+"Robert Meredith Reiniger Willson",
+"Robert Meredith Willson",
+"Robert Reiniger Meredith Willson"
+]
+],
+[
+"Otar Taktakishvili",
+19,
+[
+"Otar Vasilisdze Taktakishvili"
+]
+],
+[
+"Jimmy Rogers",
+19,
+[
+"James Rogers"
+]
+],
+[
+"Lowell Mason",
+19,
+[
+"Dr Lowell Mason"
+]
+],
+[
+"Akira Ifukube",
+19,
+[]
+],
+[
+"Leigh Harline",
+19,
+[
+"Leigh Adrian Harline"
+]
+],
+[
+"Victor Massé",
+19,
+[]
+],
+[
+"Thomas Linley",
+19,
+[
+"English Mozart",
+"Thomas Linley (The Younger)",
+"Thomas Linley the elder",
+"Thomas Linley the younger"
+]
+],
+[
+"John Stainer",
+19,
+[
+"Sir John Stainer"
+]
+],
+[
+"Alberto Nepomuceno",
+19,
+[]
+],
+[
+"Alexander Courage",
+19,
+[
+"Alexander Mair Courage Jr.",
+"Sandy Courage"
+]
+],
+[
+"Marcello Abbado",
+19,
+[]
+],
+[
+"Johanna Kinkel",
+19,
+[
+"Johanna Mathieux",
+"Mockel"
+]
+],
+[
+"Marc'Antonio Ingegneri",
+19,
+[]
+],
+[
+"Christian Gottfried Körner",
+19,
+[]
+],
+[
+"Shunsuke Kikuchi",
+19,
+[]
+],
+[
+"Purandara Dasa",
+19,
+[]
+],
+[
+"Anand Bakshi",
+19,
+[]
+],
+[
+"Johann Strauss III",
+19,
+[
+"Eduard Leopold Maria Strauss",
+"Johann Maria Eduard Strauss III"
+]
+],
+[
+"Aarre Merikanto",
+19,
+[
+"Aare merikanto",
+"Aare Merikanto",
+"Aarre merikanto"
+]
+],
+[
+"Mart Saar",
+19,
+[]
+],
+[
+"Adolf Fredrik Lindblad",
+19,
+[]
+],
+[
+"Adolf Wiklund",
+19,
+[]
+],
+[
+"Adolph Deutsch",
+19,
+[]
+],
+[
+"Ferenc Farkas",
+19,
+[
+"Farkas Ferenc"
+]
+],
+[
+"Johann Rosenmüller",
+19,
+[]
+],
+[
+"Cristóbal Halffter",
+19,
+[
+"Cristobal Halffter"
+]
+],
+[
+"Antoine Brumel",
+19,
+[]
+],
+[
+"Giacinto Scelsi",
+19,
+[
+"Giacinto Francesco Maria Scelsi"
+]
+],
+[
+"Alice Tegnér",
+19,
+[
+"Alice Charlotta Tegnér",
+"Alice Tegner"
+]
+],
+[
+"Victor de Sabata",
+19,
+[]
+],
+[
+"Federico Moreno Torroba",
+19,
+[]
+],
+[
+"Leopold Hofmann",
+19,
+[
+"Leopold Hoffmann"
+]
+],
+[
+"Johann Gottlieb Graun",
+19,
+[]
+],
+[
+"Felix Draeseke",
+19,
+[
+"Felix August Bernhard Draeseke"
+]
+],
+[
+"Johann Michael Bach I",
+19,
+[
+"Johann Michael Bach"
+]
+],
+[
+"Julius Benedict",
+19,
+[
+"Sir Julius Benedict"
+]
+],
+[
+"Giuseppe Sammartini",
+19,
+[
+"Giuseppe Baldassare Sammartini",
+"Giuseppe Baldassarre Sammartini"
+]
+],
+[
+"Auguste Franchomme",
+19,
+[]
+],
+[
+"André Caplet",
+19,
+[
+"Andre Caplet"
+]
+],
+[
+"Jón Leifs",
+19,
+[
+"Jon Leifs"
+]
+],
+[
+"Franco Faccio",
+19,
+[
+"Francesco Antonio, detto Franco Faccio"
+]
+],
+[
+"Gottfried Heinrich Stölzel",
+19,
+[]
+],
+[
+"Tielman Susato",
+19,
+[]
+],
+[
+"Sveinbjörn Sveinbjörnsson",
+19,
+[]
+],
+[
+"Nicolas Gombert",
+19,
+[]
+],
+[
+"Antonio Bertali",
+19,
+[
+"Bartali, Antonio",
+"Barthali, Antonio",
+"Bertaldi, Antonio",
+"Bertalli, Antonio",
+"Berthali, Antonio"
+]
+],
+[
+"Errico Petrella",
+19,
+[]
+],
+[
+"Gaetano Pugnani",
+19,
+[
+"Giulio Gaetano Pugnani",
+"Pugnani"
+]
+],
+[
+"Henri Herz",
+19,
+[
+"Heinrich Herz"
+]
+],
+[
+"Lorenzo Perosi",
+19,
+[]
+],
+[
+"Lou Harrison",
+19,
+[
+"Lou Silver Harrison"
+]
+],
+[
+"Anton Pann",
+19,
+[
+"Anton Pantoleon",
+"Anton Petrovici",
+"eon-Petroveanu"
+]
+],
+[
+"Carl W. Stalling",
+19,
+[
+"Arch B. Fritz",
+"Carl Stalling"
+]
+],
+[
+"Johann Gottlieb Goldberg",
+19,
+[]
+],
+[
+"Antón García Abril",
+19,
+[
+"Anton Garcia Abril"
+]
+],
+[
+"Siegmund von Hausegger",
+19,
+[]
+],
+[
+"Sophie Menter",
+19,
+[]
+],
+[
+"Julius Röntgen",
+19,
+[
+"Julius Engelbert Röntgen",
+"Julius Rontgen"
+]
+],
+[
+"Princess Maria Amalie of Saxony",
+19,
+[
+"Amalie Herter",
+"Amalie Marie Friederike Auguste",
+"Amalie, Prinzessin von Sachsen",
+"A. Serena",
+"Princess Amalie of Saxony",
+"Princess of Saxony Amalie"
+]
+],
+[
+"Louis Théodore Gouvy",
+19,
+[
+"Louis Theodore Gouvy",
+"Théodore Gouvy"
+]
+],
+[
+"Richard Heuberger",
+19,
+[]
+],
+[
+"Xaver Scharwenka",
+19,
+[
+"Franz Xaver Scharwenka",
+"Theophil Franz Xaver Scharwenka"
+]
+],
+[
+"Michał Kazimierz Ogiński",
+19,
+[
+"Michael Kasimir Ogineski",
+"Michael Kasimir Oginéski",
+"Michael Oginski",
+"Michael von Oginski",
+"Michail Kazimierz Ogineski",
+"Michail Kazimierz Oginéski",
+"Michail Kazimierz, prins Oginski",
+"Michał Kazimierz Oginéski",
+"Michal Kazimierz Oginski",
+"Michał Kazimierz Oginski",
+"Michał Kazimierz, Prince Ogiński",
+"Michał K. Oginéski",
+"Michel Oginski",
+"Michel Ogiński",
+"M. Oginsky",
+"Ogiński, Michał Kazimierz",
+"Prince Michal Kazimierz Oginski",
+"Prince Michał Kazimierz Ogiński"
+]
+],
+[
+"Max von Schillings",
+19,
+[]
+],
+[
+"Henri Sauguet",
+19,
+[
+"Henri-Pierre Poupard",
+"Henri-Pierre Sauguet-Poupard",
+"Henry Sauguet"
+]
+],
+[
+"Henk Badings",
+19,
+[]
+],
+[
+"José María Ventura Casas",
+19,
+[
+"Josep Maria Ventura i Casas",
+"Pep Ventura"
+]
+],
+[
+"Alberto Franchetti",
+19,
+[
+"Baron Alberto Franchetti",
+"Barone Alberto Franchetti"
+]
+],
+[
+"Norman Dello Joio",
+19,
+[]
+],
+[
+"Wenzel Müller",
+19,
+[
+"Wenceslao Müller"
+]
+],
+[
+"Jakub Jan Ryba",
+19,
+[
+"Jakub Šimon Jan Ryba"
+]
+],
+[
+"Halfdan Kjerulf",
+19,
+[]
+],
+[
+"Giuseppe Martucci",
+19,
+[]
+],
+[
+"Pavel Vranický",
+19,
+[]
+],
+[
+"Václav Tomášek",
+19,
+[
+"Václav Jan Tomášek",
+"Vaclav Tomasek",
+"Wenzel Johann Tumaschek",
+"Wenzel Tomascheck"
+]
+],
+[
+"Vagn Holmboe",
+19,
+[
+"Vagn Gylding Holmboe"
+]
+],
+[
+"Peter Warlock",
+19,
+[
+"Philip Arnold Heseltine",
+"Philip Hesseltine"
+]
+],
+[
+"David Rose",
+19,
+[
+"David Daniel Rose"
+]
+],
+[
+"Egidio Duni",
+19,
+[
+"Egidio Romualdo Duni"
+]
+],
+[
+"Emilio Arrieta",
+19,
+[
+"Juan Pascual Antonio Arrieta Corera",
+"Pascual Emilio Arrieta",
+"Pascual Juan Emilio Arrieta Corera"
+]
+],
+[
+"Jean-Féry Rebel",
+19,
+[
+"Jean-Fery Rebel"
+]
+],
+[
+"Roy Harris",
+19,
+[
+"Roy Ellsworth Harris"
+]
+],
+[
+"Alfrēds Kalniņš",
+19,
+[]
+],
+[
+"Afrasiab Badalbeyli",
+18,
+[
+"Afrasiyab Badal bey oghlu Badalbeyli",
+"Afrasiyab Badal oglu Badalbeyli"
+]
+],
+[
+"Cláudio Santoro",
+18,
+[
+"Cláudio Franco de Sá Santoro",
+"Claudio Santoro"
+]
+],
+[
+"Davorin Jenko",
+18,
+[]
+],
+[
+"Toshi Ichiyanagi",
+18,
+[
+"Ichiyanagi Toshi",
+"Toshi Ishiyanagi"
+]
+],
+[
+"Fred Ebb",
+18,
+[]
+],
+[
+"Jimmy McHugh",
+18,
+[
+"James Francis McHugh",
+"Jimmy Mc Hugh"
+]
+],
+[
+"Irving Caesar",
+18,
+[
+"Isidor Keiser"
+]
+],
+[
+"Humphrey Searle",
+18,
+[]
+],
+[
+"Napoléon Henri Reber",
+18,
+[
+"Henri Reber",
+"Napoleon Henri Reber"
+]
+],
+[
+"Ernesto De Curtis",
+18,
+[]
+],
+[
+"Alexandre Levy",
+18,
+[]
+],
+[
+"Guy Ropartz",
+18,
+[]
+],
+[
+"Karen Khachaturian",
+18,
+[
+"Karen Surenovich Khachaturian",
+"Khachaturian, Karen Surenovich"
+]
+],
+[
+"Renzo Rossellini",
+18,
+[]
+],
+[
+"Anton Stamitz",
+18,
+[
+"Johann Anton Stamitz"
+]
+],
+[
+"Paul Vidal",
+18,
+[
+"Paul Antonin Vidal"
+]
+],
+[
+"Henry Carey",
+18,
+[]
+],
+[
+"Herbert Stothart",
+18,
+[]
+],
+[
+"Zequinha de Abreu",
+18,
+[
+"José Gomes de Abreu",
+"Zequinha Abreu"
+]
+],
+[
+"Vilém Blodek",
+18,
+[
+"Vilem Blodek",
+"Vilém František Plodek"
+]
+],
+[
+"Boris Alexandrovich Alexandrov",
+18,
+[
+"Boris A. Aleksandrov",
+"Boris Alexandrov"
+]
+],
+[
+"Nikita Bogoslovsky",
+18,
+[
+"Nikita Vladimirovich Bogoslovsky"
+]
+],
+[
+"George Perle",
+18,
+[]
+],
+[
+"Dimitri Arakishvili",
+18,
+[]
+],
+[
+"Ralph Benatzky",
+18,
+[]
+],
+[
+"Alessandro Rolla",
+18,
+[]
+],
+[
+"Alexander Goehr",
+18,
+[
+"Peter Alexander Goehr",
+"Prof. Alexander Goehr",
+"Sandy Goehr"
+]
+],
+[
+"Enrique Fernández Arbós",
+18,
+[
+"Enrique Fernandez Arbos"
+]
+],
+[
+"Pierre Dupont",
+18,
+[]
+],
+[
+"Philippe de Monte",
+18,
+[
+"Filip de Monte",
+"Philipp de Mons",
+"Philippus de Monte"
+]
+],
+[
+"Nikolaos Mantzaros",
+18,
+[
+"Nikolaos Chalikiopoulos Mantzaros"
+]
+],
+[
+"Lev Knipper",
+18,
+[
+"Lev Konstantinovich Knipper"
+]
+],
+[
+"Louis Niedermeyer",
+18,
+[
+"Abraham Louis Niedermeyer"
+]
+],
+[
+"Abraham Zevi Idelsohn",
+18,
+[]
+],
+[
+"Adolf Bernhard Marx",
+18,
+[
+"A. B. Marx",
+"Friedrich Heinrich Adolf Bernhard Marx"
+]
+],
+[
+"Giovanni D'Anzi",
+18,
+[]
+],
+[
+"Claude Balbastre",
+18,
+[]
+],
+[
+"Giovanni Battista Bassani",
+18,
+[]
+],
+[
+"Rudolf Friml",
+18,
+[
+"Charles Rudolf Friml"
+]
+],
+[
+"Margaret Cousins",
+18,
+[
+"Margaret Elizabeth Cousins"
+]
+],
+[
+"Christoph Demantius",
+18,
+[
+"Johann Christoph Demantius"
+]
+],
+[
+"William Schuman",
+18,
+[
+"William Howard Schuman"
+]
+],
+[
+"Mantovani",
+18,
+[
+"Michael Trevor",
+"Paul Lambrecht",
+"Paul Remy",
+"Tulio Trapani"
+]
+],
+[
+"Lennox Berkeley",
+18,
+[
+"Lennox Randal Francis Berkeley",
+"Sir Lennox Berkeley",
+"Sir Lennox Randal Francis Berkeley"
+]
+],
+[
+"Xavier Montsalvatge",
+18,
+[
+"Xavier Montsalvatge Bassols",
+"Xavier Montsalvatge i Bassols"
+]
+],
+[
+"Valentino Fioravanti",
+18,
+[]
+],
+[
+"Johann Kaspar Kerll",
+18,
+[
+"Johann Caspar Kerll",
+"Johann Kaspar Kerrl"
+]
+],
+[
+"Salomon Jadassohn",
+18,
+[]
+],
+[
+"Jovdat Hajiyev",
+18,
+[
+"Ahmad Jovdat Ismayil oglu Hajiyev",
+"Cövdät Hacıyev",
+"Dževdet Gadžiev",
+"Jȯvdăt Ḣajyi̐ev"
+]
+],
+[
+"Franco Donatoni",
+18,
+[]
+],
+[
+"Hans Rott",
+18,
+[
+"Johann Nepomuk Karl Maria Rott"
+]
+],
+[
+"Jean-Henri d'Anglebert",
+18,
+[]
+],
+[
+"Herms Niel",
+18,
+[
+"Ferdinand Friedrich Hermann Nielebock"
+]
+],
+[
+"Alan Bush",
+18,
+[
+"Alan Dudley Bush"
+]
+],
+[
+"Antoine Duhamel",
+18,
+[]
+],
+[
+"Antonio Rosetti",
+18,
+[
+"Antonín Rosetti",
+"Antonín Rössler-Rosetti",
+"Antonio Rösler",
+"Anton Rosetti",
+"Anton Rösler",
+"A. Rosetti",
+"F. A. Rosetti",
+"Francesco Antonio Rosetti",
+"Francesco Antonio Rossetti",
+"František Antonín Rosetti",
+"František Antonín Rössler",
+"Frantishek Antonin Resler Roseti",
+"Frantishek Antonin Resler-Roseti",
+"Franz Anton Roessler",
+"Franz Anton Rosetti",
+"Franz Anton Rosety",
+"Franz Anton Rösler",
+"Franz Anton Rösler-Rosetti",
+"F. Rosetti"
+]
+],
+[
+"Jan Kalivoda",
+18,
+[
+"Jan Křtitel Václav Kalivodus",
+"Johann Wenzel Kalliwoda"
+]
+],
+[
+"Malcolm Williamson",
+18,
+[]
+],
+[
+"Othmar Schoeck",
+18,
+[]
+],
+[
+"Henri Cohen",
+18,
+[
+"Carlo Coen",
+"Henry Cohen"
+]
+],
+[
+"Hans Huber",
+18,
+[
+"Acid Warrior",
+"Atlon Inc.",
+"Colone",
+"Dicabor",
+"Gnork",
+"Leid",
+"Pumpgun Pro",
+"Ra-Patera",
+"Robert Babicz",
+"Sontec",
+"The Dusk",
+"Twirl"
+]
+],
+[
+"Xian Xinghai",
+18,
+[
+"Sinn Sing Hoi"
+]
+],
+[
+"François-Auguste Gevaert",
+18,
+[
+"François Auguste Gevaert"
+]
+],
+[
+"Norbert Burgmüller",
+18,
+[
+"August Joseph Norbert Burgmüller"
+]
+],
+[
+"Mesomedes",
+18,
+[
+"Mesomedes of Crete"
+]
+],
+[
+"Franz Krommer",
+18,
+[
+"František Krommer",
+"František Vincenc Kramář",
+"František Vincenc Kramář - Krommer"
+]
+],
+[
+"Sigismund von Neukomm",
+18,
+[
+"Sigismond Neukomm",
+"Sigismund Ritter von Neukomm"
+]
+],
+[
+"Florian Leopold Gassmann",
+18,
+[
+"Florian Gassmann",
+"Florian Gaßmann",
+"Floriano Gassmann",
+"Leopold Gassman",
+"Leopold Gassmann",
+"Leopold Gaßmann"
+]
+],
+[
+"Pierre-Alexandre Monsigny",
+18,
+[]
+],
+[
+"Mordechai Gebirtig",
+18,
+[]
+],
+[
+"Christoph Ernst Friedrich Weyse",
+18,
+[
+"C. E. F. Weyse",
+"Severus S."
+]
+],
+[
+"Leevi Madetoja",
+18,
+[]
+],
+[
+"Roberto Gerhard",
+18,
+[
+"Robert Gerhard i Ottenwaelder"
+]
+],
+[
+"Mozart Camargo Guarnieri",
+18,
+[]
+],
+[
+"Donald Tovey",
+18,
+[
+"Sir Donald Francis Tovey"
+]
+],
+[
+"Albert Ammons",
+18,
+[]
+],
+[
+"Mikhail Matyushin",
+18,
+[
+"Michael Vasil'evic Matjusin",
+"Michael Vasilyevich Matyushin",
+"Michail Matjuschin",
+"Michail Matjušin",
+"Michail Vasil'evič Matjušin",
+"Michail Wasilewitsch Matjuschin",
+"Michel Matiouchine",
+"Michel Vassilievitch Matiouchine",
+"Michel Vassiliévitch Matiouchine",
+"Mikhail Matiushin",
+"Mikhail Vasilevich Matyushin",
+"Mikhail Vasilievich Matyushin",
+"Mikhail Vasil'yevich Matyushin",
+"Mikhaïl Vassilliévitch Matiouchine",
+"Mikhaïl Vassilliévitch Matiushin",
+"M. Matiouchine",
+"M. V. Matiushin"
+]
+],
+[
+"Bojan Adamič",
+18,
+[
+"Master"
+]
+],
+[
+"Einar Englund",
+18,
+[]
+],
+[
+"Gavriil Popov",
+18,
+[
+"Gavriil Nikolayevich Popov"
+]
+],
+[
+"Cesare Pugni",
+18,
+[]
+],
+[
+"Francesco Bianchi",
+18,
+[
+"Giuseppe Francesco Bianchi"
+]
+],
+[
+"Kōsaku Yamada",
+18,
+[
+"Kosaku Yamada",
+"Yamada Kosaku"
+]
+],
+[
+"Henri Tomasi",
+18,
+[]
+],
+[
+"Franck Pourcel",
+18,
+[
+"Frank Pourcel"
+]
+],
+[
+"Horatio Parker",
+18,
+[
+"Horatio William Parker",
+"Horatio W. Parker",
+"H. W. Parker",
+"H.W. Parker"
+]
+],
+[
+"Sergei Slonimsky",
+18,
+[
+"Sergei Mikhailovich Slonimsky",
+"Sergey Mikhaylovich Slonimsky"
+]
+],
+[
+"Stanisław Skrowaczewski",
+18,
+[
+"Stanislaw Pawel Stefan Jan Sebastian Skrowaczewski",
+"Stanislaw Skrowaczewski"
+]
+],
+[
+"Michel Corrette",
+18,
+[]
+],
+[
+"Byron Janis",
+17,
+[]
+],
+[
+"Cemal Reşit Rey",
+17,
+[]
+],
+[
+"Ella Adayevskaya",
+17,
+[
+"Ella Adajewsky",
+"Ella Georgievna Adaevskaja",
+"Ella Georgiyevna Adayevskaya",
+"Ella von Schultz",
+"Jella Georgievna Adaevskaja"
+]
+],
+[
+"Stanislav Binički",
+17,
+[]
+],
+[
+"Richard Carle",
+17,
+[
+"Charles Nicholas Carleton"
+]
+],
+[
+"Gustav Ernesaks",
+17,
+[]
+],
+[
+"Maximilian Steinberg",
+17,
+[
+"Maximilian Osseyevich Steinberg"
+]
+],
+[
+"Louis Adam",
+17,
+[]
+],
+[
+"Henry Lawes",
+17,
+[]
+],
+[
+"Jānis Ivanovs",
+17,
+[]
+],
+[
+"Pietro Raimondi",
+17,
+[]
+],
+[
+"Franco Ferrara",
+17,
+[
+"Francesco Ferrara"
+]
+],
+[
+"Władysław Żeleński",
+17,
+[]
+],
+[
+"François Francoeur",
+17,
+[]
+],
+[
+"William Grant Still",
+17,
+[]
+],
+[
+"Jenő Zádor",
+17,
+[
+"Eugene Zador",
+"Eugene Zádor",
+"Jenő Zucker"
+]
+],
+[
+"Norman Petty",
+17,
+[]
+],
+[
+"Gary Bertini",
+17,
+[]
+],
+[
+"August Enna",
+17,
+[
+"August Emil Enna"
+]
+],
+[
+"Giuseppe Donizetti",
+17,
+[
+"Donizetti Pasha"
+]
+],
+[
+"Giovanni de' Bardi",
+17,
+[
+"Giovanni de Bardi di Vernio",
+"Giovanni de', conte di Vernio Bardi",
+"Giovanni Maria, dei conti di Vernio Bardi",
+"Johannes Bardius"
+]
+],
+[
+"Henri-Montan Berton",
+17,
+[]
+],
+[
+"John Knowles Paine",
+17,
+[
+"John K. Paine",
+"John Paine"
+]
+],
+[
+"Walter Donaldson",
+17,
+[
+"Donaldson",
+"Walter Donoldson"
+]
+],
+[
+"Ludomir Różycki",
+17,
+[]
+],
+[
+"Samuil Feinberg",
+17,
+[
+"Samuel Feinberg",
+"Samuil Yevgenyevich Feinberg",
+"Samuil Yevgenyevich Feynberg"
+]
+],
+[
+"Friedrich Gernsheim",
+17,
+[
+"Frederick Gernsheim"
+]
+],
+[
+"Hans Gál",
+17,
+[
+"Hans Gal"
+]
+],
+[
+"Ernest Gold",
+17,
+[
+"Ernst Sigmund Gold",
+"Ernst Sigmund Goldner"
+]
+],
+[
+"Daniel Gottlob Türk",
+17,
+[]
+],
+[
+"Edward German",
+17,
+[
+"Edward German Jones",
+"Sir Edward German"
+]
+],
+[
+"Zygmunt Noskowski",
+17,
+[]
+],
+[
+"Robert Ashley",
+17,
+[
+"Robert Reynolds Ashley"
+]
+],
+[
+"Mariano Mores",
+17,
+[
+"Marianito Mores",
+"Mariano Alberto Martínez",
+"Mariano Martínez"
+]
+],
+[
+"Emīls Dārziņš",
+17,
+[]
+],
+[
+"Betsy Jolas",
+17,
+[
+"Elizabeth Jolas"
+]
+],
+[
+"Dominick Argento",
+17,
+[]
+],
+[
+"Fumio Hayasaka",
+17,
+[]
+],
+[
+"Hamilton Harty",
+17,
+[
+"Sir Hamilton Harty",
+"Sir Herbert Hamilton Harty"
+]
+],
+[
+"Bronius Kutavičius",
+17,
+[]
+],
+[
+"Charles Strouse",
+17,
+[]
+],
+[
+"Paul de Senneville",
+17,
+[]
+],
+[
+"Žarko Jovanović",
+17,
+[
+"Jarko Jovanović Jagdino"
+]
+],
+[
+"Mohammed Zahur Khayyam",
+17,
+[
+"Khayyam"
+]
+],
+[
+"Carlotta Ferrari",
+17,
+[
+"Carlotta Ferrari da Lodi"
+]
+],
+[
+"Simeon ten Holt",
+17,
+[]
+],
+[
+"Henry Litolff",
+17,
+[]
+],
+[
+"Pál Kadosa",
+17,
+[
+"Pal Kadosa",
+"Pä l Kadosa"
+]
+],
+[
+"Zagir Ismagilov",
+17,
+[
+"Zagir Garipovich Ismagilov",
+"Zahir Ğarif ulı İsmäğilev",
+"Zahir İsmäğilev"
+]
+],
+[
+"Madan Mohan",
+17,
+[
+"Madan Mohan Kohli"
+]
+],
+[
+"Yasushi Akutagawa",
+17,
+[]
+],
+[
+"Con Conrad",
+17,
+[]
+],
+[
+"Elisabeth Lutyens",
+17,
+[
+"(Agnes) Elisabeth Lutyens",
+"[Agnes] Elisabeth Lutyens",
+"Agnes Elisabeth Lutyens"
+]
+],
+[
+"Ruth Crawford Seeger",
+17,
+[
+"Ruth Crawford"
+]
+],
+[
+"Charles Tomlinson Griffes",
+17,
+[]
+],
+[
+"Louis Bourgeois",
+17,
+[
+"Loys Bourgeois"
+]
+],
+[
+"Andreas Hammerschmidt",
+17,
+[]
+],
+[
+"Filippo Marchetti",
+17,
+[]
+],
+[
+"Juan d'Arienzo",
+17,
+[
+"Juan D`Arienzo"
+]
+],
+[
+"Ernest Reyer",
+17,
+[
+"Ernest Rey",
+"Louis Étienne Ernest Rey dit Reyer",
+"Rey, Ernest"
+]
+],
+[
+"Arnold Mendelssohn",
+17,
+[
+"Arnold Ludwig Mendelssohn"
+]
+],
+[
+"Marco da Gagliano",
+17,
+[]
+],
+[
+"William Alwyn",
+17,
+[]
+],
+[
+"George Whitefield Chadwick",
+17,
+[
+"George Chadwick",
+"George W. Chadwick",
+"George Whitfield Chadwick",
+"G. W. Chadwick"
+]
+],
+[
+"Johann Joseph Abert",
+17,
+[
+"Jan Josef Abert"
+]
+],
+[
+"Antonio Maria Abbatini",
+17,
+[]
+],
+[
+"Luís de Freitas Branco",
+17,
+[
+"Luis de Freitas Branco"
+]
+],
+[
+"Félicien Menu de Ménil",
+17,
+[
+"Félicien de Ménil",
+"Felicien Menu de Menil"
+]
+],
+[
+"Peter von Winter",
+17,
+[
+"Peter Von Winter"
+]
+],
+[
+"Robert Franz",
+17,
+[
+"Robert Franz Julius Knauth",
+"Robert Knauth"
+]
+],
+[
+"Francesco Morlacchi",
+17,
+[
+"Francesco Giuseppe Baldassare Morlacchi"
+]
+],
+[
+"Klaus Egge",
+17,
+[]
+],
+[
+"Artur Lemba",
+17,
+[]
+],
+[
+"Thomas Ravenscroft",
+17,
+[]
+],
+[
+"Joonas Kokkonen",
+17,
+[]
+],
+[
+"Federico Chueca",
+17,
+[]
+],
+[
+"Johann Schop",
+17,
+[
+"Johann Schopp"
+]
+],
+[
+"Georg Neumark",
+17,
+[]
+],
+[
+"Sándor Veress",
+17,
+[
+"Sandor Veress"
+]
+],
+[
+"Avet Terterian",
+17,
+[
+"Avet Terteryan"
+]
+],
+[
+"Carl Friedrich Christian Fasch",
+17,
+[]
+],
+[
+"Armas Launis",
+17,
+[]
+],
+[
+"Heinrich Albert",
+17,
+[]
+],
+[
+"Melchior Vulpius",
+17,
+[
+"Melchior Fuchs"
+]
+],
+[
+"Hugo Distler",
+17,
+[
+"August Hugo Distler"
+]
+],
+[
+"Walter Braunfels",
+17,
+[]
+],
+[
+"Johann Caspar Ferdinand Fischer",
+17,
+[
+"J. C. F. Fischer",
+"J.C.F. Fischer",
+"JCF Fischer",
+"Johann Kaspar Ferdinand Fischer"
+]
+],
+[
+"Franz Anton Hoffmeister",
+17,
+[]
+],
+[
+"Jean-François Dandrieu",
+17,
+[]
+],
+[
+"Gerald Finzi",
+17,
+[
+"Gerald Raphael Finzi"
+]
+],
+[
+"Niyazi",
+17,
+[
+"Maestro Niyazi",
+"Niyazi Hacibeyov",
+"Niyazi Taghizade-Hajibeyov",
+"Niyazi Zulfigar oghlu Taghizade-Hajibeyov",
+"Niyazi Zulfugar oghlu Taghizade Hajibeyov"
+]
+],
+[
+"Jorma Panula",
+17,
+[]
+],
+[
+"Raymond Leppard",
+17,
+[]
+],
+[
+"Déodat de Séverac",
+17,
+[
+"Deodat de Severac",
+"Marie-Joseph-Alexander Déodat de Severac"
+]
+],
+[
+"Daniel Alomía Robles",
+17,
+[
+"Daniel Robles"
+]
+],
+[
+"Mateo Flecha",
+17,
+[
+"Mateo Flecha El Viejo"
+]
+],
+[
+"Henri Pousseur",
+17,
+[]
+],
+[
+"Armas Järnefelt",
+17,
+[]
+],
+[
+"George Butterworth",
+17,
+[
+"George Sainton Kaye Butterworth"
+]
+],
+[
+"Tor Aulin",
+17,
+[]
+],
+[
+"Balys Dvarionas",
+17,
+[]
+],
+[
+"Bartolomeo Tromboncino",
+17,
+[]
+],
+[
+"Benny Andersen",
+17,
+[]
+],
+[
+"Franz Wüllner",
+17,
+[]
+],
+[
+"Boris Papandopulo",
+17,
+[]
+],
+[
+"Alexander Mosolov",
+17,
+[
+"Aleksandr Mosolov",
+"Aleksandr Vasil′yevich Mosolov",
+"Aleksandr Vasilyevich Mosolov",
+"Alexander Mossolov",
+"Alexander Vasilyevich Mosolov"
+]
+],
+[
+"Bronisław Kaper",
+17,
+[
+"Benjamin Kapper",
+"Bronislau Kaper",
+"Edward Kane"
+]
+],
+[
+"Francesco Provenzale",
+17,
+[
+"Francesco Antonio Provenzale"
+]
+],
+[
+"Camille Erlanger",
+17,
+[]
+],
+[
+"Édouard Deldevez",
+17,
+[
+"Edouard Deldevez"
+]
+],
+[
+"Eugene Aynsley Goossens",
+17,
+[
+"Eugene Goossens",
+"Sir Eugene Aynsley Goossens",
+"Sir Eugene Goossens"
+]
+],
+[
+"Giuseppe Gazzaniga",
+17,
+[
+"Giuseppe Gazaniga"
+]
+],
+[
+"Nicolas Dalayrac",
+17,
+[
+"Nicolas Alayrac",
+"Nicolas d'Alayrac"
+]
+],
+[
+"Marcos Portugal",
+17,
+[]
+],
+[
+"Jean-Joseph Mouret",
+17,
+[]
+],
+[
+"Paul Le Flem",
+17,
+[
+"Marie-Paul Achille Auguste Le Flem"
+]
+],
+[
+"Vasily Andreyev",
+17,
+[
+"Vasiliĭ Vasilʹevich Andreev",
+"Vasilij Vasil'evič Andreev",
+"Vasily Vasilievich Andreyev",
+"Vassily Andreyev",
+"V. V. Andreev",
+"V.V. Andreev"
+]
+],
+[
+"Carlo Francesco Pollarolo",
+16,
+[
+"Carlo Pollaroli"
+]
+],
+[
+"Carlos di Sarli",
+16,
+[]
+],
+[
+"Catterino Cavos",
+16,
+[
+"Catterino Al′bertovich Cavos",
+"Catterino Albertovich Cavos"
+]
+],
+[
+"Charles Dibdin",
+16,
+[
+"C. Dibdin",
+"Charles Dibdin I"
+]
+],
+[
+"Clifford Grey",
+16,
+[
+"Clifford Gray",
+"Percival Davis"
+]
+],
+[
+"Felice Giardini",
+16,
+[
+"Felice de Giardini"
+]
+],
+[
+"David Tudor",
+16,
+[
+"David Eugene Tudor"
+]
+],
+[
+"William Croft",
+16,
+[]
+],
+[
+"Dominic Frontiere",
+16,
+[]
+],
+[
+"Vincent Persichetti",
+16,
+[
+"Vincent Ludwig Persichetti"
+]
+],
+[
+"Krešimir Baranović",
+16,
+[]
+],
+[
+"Stevan Hristić",
+16,
+[]
+],
+[
+"Emil Hartmann",
+16,
+[]
+],
+[
+"Roger Désormière",
+16,
+[
+"Roger Desormiere"
+]
+],
+[
+"Chou Wen-chung",
+16,
+[
+"Chou, Wên-chung"
+]
+],
+[
+"Nicola Vaccai",
+16,
+[
+"Nicola Vaccaj"
+]
+],
+[
+"Ernesto Nazareth",
+16,
+[
+"Ernesto Júlio de Nazaré",
+"Ernesto Júlio de Nazareth",
+"Ernesto Nazaré"
+]
+],
+[
+"Georges Garvarentz",
+16,
+[
+"Georges Diran Garvarentz"
+]
+],
+[
+"Randall Thompson",
+16,
+[]
+],
+[
+"Isaac Schwartz",
+16,
+[
+"Isaac Iosifovich Schwartz"
+]
+],
+[
+"Ivan Wyschnegradsky",
+16,
+[
+"Ivan Alexandrovich Wyschnegradsky"
+]
+],
+[
+"Ferdinando Bertoni",
+16,
+[
+"Ferdinando Gasparo Bertoni"
+]
+],
+[
+"Gunnar Wennerberg",
+16,
+[]
+],
+[
+"Meade Lux Lewis",
+16,
+[
+"Anderson Meade Lewis",
+"Meade Anderson Lewis",
+"Meade Lewis"
+]
+],
+[
+"Knudage Riisager",
+16,
+[]
+],
+[
+"Isang Yun",
+16,
+[]
+],
+[
+"Nicola Logroscino",
+16,
+[
+"Nicola Bonifacio Logroscino"
+]
+],
+[
+"Carlo Coccia",
+16,
+[]
+],
+[
+"Karel Husa",
+16,
+[]
+],
+[
+"Samuel Maykapar",
+16,
+[
+"Samuel Moiseyevich Maykapar"
+]
+],
+[
+"Al Dubin",
+16,
+[
+"Alexander Dubin"
+]
+],
+[
+"Lionel Newman",
+16,
+[]
+],
+[
+"Alexander Arkhangelsky",
+16,
+[
+"Alexander Andreyevich Arkhangelsky"
+]
+],
+[
+"Willem Pijper",
+16,
+[
+"Pijper",
+"Willem Frederik Johannes Pijper"
+]
+],
+[
+"Samuel Adler",
+16,
+[
+"Sam Adler",
+"Samuel Hans Adler"
+]
+],
+[
+"Pietro Alessandro Guglielmi",
+16,
+[]
+],
+[
+"Vincent Wallace",
+16,
+[
+"William Vincent Wallace"
+]
+],
+[
+"Antonio Maria Bononcini",
+16,
+[
+"Antonio Bononcini"
+]
+],
+[
+"Marie Jaëll",
+16,
+[
+"Marie Jaëll Trautmann"
+]
+],
+[
+"Luigi Mancinelli",
+16,
+[]
+],
+[
+"Paul Taffanel",
+16,
+[
+"Claude-Paul Taffanel",
+"Claudio Paolo Taffanel"
+]
+],
+[
+"Alexander Goedicke",
+16,
+[
+"Alexander Fyodorovich Gedike",
+"Alexander Fyodorovich Goedicke",
+"Alexander Gedike"
+]
+],
+[
+"Bernard Parmegiani",
+16,
+[]
+],
+[
+"Syama Sastri",
+16,
+[
+"Shyama Shastri"
+]
+],
+[
+"Lalgudi Jayaraman",
+16,
+[
+"Lalgudi Gopala Iyer Jayaraman"
+]
+],
+[
+"Peter Dodds McCormick",
+16,
+[]
+],
+[
+"Abraham J. Twerski",
+16,
+[
+"Abraham Joshua Heshel Twerski",
+"Abraham Twerski",
+"Rabbi Dr. Abraham J. Twerski"
+]
+],
+[
+"Adolf Jensen",
+16,
+[]
+],
+[
+"Leo Robin",
+16,
+[]
+],
+[
+"Jacob Senleches",
+16,
+[
+"Jacob de Senleches",
+"Jacob Senlechos",
+"Jacopinus Selesses",
+"Jaquemin de Senleches"
+]
+],
+[
+"Agostino Agazzari",
+16,
+[]
+],
+[
+"Knud Jeppesen",
+16,
+[]
+],
+[
+"Gaspar Cassadó",
+16,
+[
+"Gaspar Cassado"
+]
+],
+[
+"Vladimir Vavilov",
+16,
+[
+"Vladimir Fedorovich Vavilov",
+"Vladimir Fyodorovich Vavilov"
+]
+],
+[
+"Emilie Mayer",
+16,
+[
+"Emilie Luise Friderica Mayer"
+]
+],
+[
+"Kurt Thomas",
+16,
+[
+"Kurt Georg Hugo Thomas"
+]
+],
+[
+"Valborg Aulin",
+16,
+[
+"Laura Valborg Aulin"
+]
+],
+[
+"Gottfried August Homilius",
+16,
+[]
+],
+[
+"Andrejs Jurjāns",
+16,
+[]
+],
+[
+"Johann Rudolf Zumsteeg",
+16,
+[]
+],
+[
+"Elizabeth Maconchy",
+16,
+[
+"Dame Elizabeth Maconchy",
+"Dame Elizabeth Violet Maconchy LeFanu",
+"Elizabeth Violet Maconchy"
+]
+],
+[
+"Shafiga Akhundova",
+16,
+[
+"Shafiga Gulam Akhundova"
+]
+],
+[
+"Michele Carafa",
+16,
+[]
+],
+[
+"Unico Wilhelm van Wassenaer",
+16,
+[
+"Count van Wassenaar-Obdam",
+"Unico Wilhelm Graf van Wassenaer",
+"Unico Wilhelm van Wassenaer Obdam"
+]
+],
+[
+"André Cardinal Destouches",
+16,
+[
+"Andre Cardinal Destouches"
+]
+],
+[
+"Toshiro Mayuzumi",
+16,
+[
+"Toshiroh Mayazumi",
+"Toshiro Mayazumi",
+"Toshirō Mayuzumi"
+]
+],
+[
+"Coxsone Dodd",
+16,
+[
+"Clement \"Sir Coxsone\" Dodd"
+]
+],
+[
+"Luigi Ricci",
+16,
+[]
+],
+[
+"Frigyes Hidas",
+16,
+[]
+],
+[
+"Jester Hairston",
+16,
+[
+"Jasper J. Hairston",
+"Jester J. Hairston",
+"Jester Joseph Hairston"
+]
+],
+[
+"Anton Coppola",
+16,
+[
+"Antonio \"Anton\" Coppola",
+"Antonio Coppola",
+"Antonio Francesco Coppola"
+]
+],
+[
+"José Padilla",
+16,
+[
+"Maestro Padilla"
+]
+],
+[
+"Thomas Crecquillon",
+16,
+[
+"Thomas Carchillion",
+"Thomas Crequillon",
+"Thomas Cricquillon",
+"Thomas Krequilon"
+]
+],
+[
+"Julius Rietz",
+16,
+[
+"August Wilhelm Julius Rietz"
+]
+],
+[
+"Johannes von Geissel",
+16,
+[]
+],
+[
+"Sethus Calvisius",
+16,
+[]
+],
+[
+"Paul I, Prince Esterházy",
+16,
+[
+"Pál, 1.Fürst Esterházy de Galántha"
+]
+],
+[
+"Leo Blech",
+16,
+[]
+],
+[
+"Johann Paul von Westhoff",
+16,
+[]
+],
+[
+"Johnny Green",
+16,
+[
+"John Green",
+"Johnnie Green",
+"John Waldo Green",
+"John W. Green",
+"Jonny Green"
+]
+],
+[
+"Gennaro Manna",
+16,
+[]
+],
+[
+"Alexander Mackenzie",
+16,
+[
+"Sir Alexander Campbell Mackenzie"
+]
+],
+[
+"Johann Ernst Bach",
+16,
+[]
+],
+[
+"Jean Gilbert",
+16,
+[
+"Jean Gillibert"
+]
+],
+[
+"Heinrich von Herzogenberg",
+16,
+[]
+],
+[
+"Rolf Liebermann",
+16,
+[]
+],
+[
+"Arne Nordheim",
+16,
+[]
+],
+[
+"Jean-Paul-Égide Martini",
+16,
+[
+"Jean-Paul-Egide Martini",
+"Johann Paul Aegidius Martin",
+"Johann Paul Aegidius Schwarzendorf",
+"Martini Il Tedesco"
+]
+],
+[
+"Joseph Leopold Eybler",
+16,
+[]
+],
+[
+"Yevsevii Mandychesvky",
+16,
+[
+"Eusebius Mandychevsky",
+"Eusebius Mandyczewski",
+"Yevsevii Mandychevskyi"
+]
+],
+[
+"Johann Abraham Peter Schulz",
+16,
+[
+"J. A. P. Schulz"
+]
+],
+[
+"Oliver Wallace",
+16,
+[
+"Oliver S. Wallace",
+"Ollie Wallace"
+]
+],
+[
+"Eduard Lassen",
+16,
+[]
+],
+[
+"Francisco Mignone",
+16,
+[
+"Francisco Paulo Mignone"
+]
+],
+[
+"Don Preston",
+16,
+[]
+],
+[
+"Geirr Tveitt",
+16,
+[]
+],
+[
+"Sammy Fain",
+16,
+[
+"Samuel E. Feinberg"
+]
+],
+[
+"Karol Rathaus",
+16,
+[]
+],
+[
+"Josef Matthias Hauer",
+16,
+[]
+],
+[
+"Emil Ábrányi",
+16,
+[
+"Emil Abranyi"
+]
+],
+[
+"Luigi Arditi",
+16,
+[]
+],
+[
+"Paul Creston",
+16,
+[
+"Giuseppe Guttoveggio"
+]
+],
+[
+"Peter Sculthorpe",
+16,
+[]
+],
+[
+"Gerardo Matos Rodríguez",
+16,
+[]
+],
+[
+"Jay Livingston",
+16,
+[
+"Jacob Harold Levison"
+]
+],
+[
+"Félicien-César David",
+16,
+[
+"Felicien-Cesar David"
+]
+],
+[
+"Alphons Diepenbrock",
+16,
+[
+"Alphonsus Johannes Maria Diepenbrock"
+]
+],
+[
+"László Lajtha",
+16,
+[
+"Laszlo Lajtha"
+]
+],
+[
+"Hilding Rosenberg",
+16,
+[]
+],
+[
+"Louis Aubert",
+16,
+[]
+],
+[
+"Earl Wild",
+16,
+[]
+],
+[
+"Shamshi Kaldayakov",
+15,
+[]
+],
+[
+"Carlisle Floyd",
+15,
+[
+"Carlisle Sessions Floyd",
+"Carlisle S Floyd",
+"Carlisle S. Floyd"
+]
+],
+[
+"Charles Bordes",
+15,
+[
+"Anne-Marie Charles Bordes-Bonjean",
+"Charles Marie Anne Bordes"
+]
+],
+[
+"Christopher Tye",
+15,
+[]
+],
+[
+"Umberto Bindi",
+15,
+[
+"Umberto Emilio Bindi"
+]
+],
+[
+"Rafael Hernández Marín",
+15,
+[
+"Canchola Rafael Hernandez",
+"El Jibarito",
+"Rafael Canchola Hernandez",
+"Rafael Hernández",
+"Rafael Hernandez Canchola"
+]
+],
+[
+"Jan Novák",
+15,
+[
+"Jan Novak"
+]
+],
+[
+"Domenico Sarro",
+15,
+[
+"Domenico Natale Sarri",
+"Domenico Natale Sarro",
+"Domenico Sarri"
+]
+],
+[
+"Gaetano Braga",
+15,
+[]
+],
+[
+"Jean Barraqué",
+15,
+[
+"Jean Barraque"
+]
+],
+[
+"Earle Brown",
+15,
+[]
+],
+[
+"Luc Ferrari",
+15,
+[]
+],
+[
+"Peter Konjovic",
+15,
+[]
+],
+[
+"Raoul de Pugno",
+15,
+[
+"Stéphane Raoul Pugno"
+]
+],
+[
+"Uuno Klami",
+15,
+[
+"Uuno Kalervo Klami"
+]
+],
+[
+"John Francis Wade",
+15,
+[]
+],
+[
+"Galt MacDermot",
+15,
+[
+"Arthur Terence Galt MacDermot"
+]
+],
+[
+"Erland von Koch",
+15,
+[
+"Sigurd Christian Jag Erland Vogt von Koch"
+]
+],
+[
+"Ramón Carnicer",
+15,
+[
+"Ramón Carnicer i Batlle"
+]
+],
+[
+"Ilmari Hannikainen",
+15,
+[
+"Toivo Ilmari Hannikainen"
+]
+],
+[
+"Francesco Mancini",
+15,
+[]
+],
+[
+"Paul Smith",
+15,
+[
+"Paul J. Smith"
+]
+],
+[
+"York Bowen",
+15,
+[
+"Edwin York Bowen"
+]
+],
+[
+"Richard Hageman",
+15,
+[]
+],
+[
+"Francesco Balilla Pratella",
+15,
+[]
+],
+[
+"R. Murray Schafer",
+15,
+[
+"Murray Shafer",
+"Raymond Murray Schafer"
+]
+],
+[
+"Giuseppe Giordani",
+15,
+[
+"Giuseppe Tommaso Giovanni Giordani"
+]
+],
+[
+"Giovanni de Macque",
+15,
+[
+"Jan van Macque"
+]
+],
+[
+"Yevgeny Krylatov",
+15,
+[
+"Eugene Krylatov",
+"Evgeniĭ Krylatov",
+"Evgeniy Krylatov",
+"Krylatov, Evgeniy",
+"Krylatov, Yevgeny",
+"Yevgeniy Krylatov",
+"Yevgeniy Pavlovich Krylatov",
+"Yevgeny Pavlovich Krylatov"
+]
+],
+[
+"Alfredo Keil",
+15,
+[
+"Alfred Keil",
+"Alfredo Cristiano Keil"
+]
+],
+[
+"François Benoist",
+15,
+[
+"Françoise Benoist"
+]
+],
+[
+"Frederic Hymen Cowen",
+15,
+[
+"Frederic Cowen",
+"Frederic H. Cowen",
+"Frederick Cowen",
+"Frederick H. Cowen",
+"Sir Frederic Hymen Cowen"
+]
+],
+[
+"Gaziza Zhubanova",
+15,
+[
+"Gaziza Akhemetovna Zhubanova",
+"Gaziza Akhmetkyzy Zhubanova",
+"Gaziza Akhmetovna Zhubanova"
+]
+],
+[
+"Hendrik Andriessen",
+15,
+[
+"Hendrik Franciscus Andriessen"
+]
+],
+[
+"Herman Severin Lovenskjold",
+15,
+[]
+],
+[
+"Andria Balanchivadze",
+15,
+[]
+],
+[
+"Jean Mouton",
+15,
+[]
+],
+[
+"Isham Jones",
+15,
+[]
+],
+[
+"Jean-Jacques Perrey",
+15,
+[
+"Monsieur Ondioline",
+"Mr.Ondioline",
+"Pat Prilly"
+]
+],
+[
+"Joseph Achron",
+15,
+[
+"Joseph Isidor Achron",
+"Joseph Yulyevich Achron"
+]
+],
+[
+"Giovanni Alberto Ristori",
+15,
+[]
+],
+[
+"Margaret Bonds",
+15,
+[
+"Margaret Allison Bonds",
+"Margaret Richardson"
+]
+],
+[
+"Ole Olsen",
+15,
+[
+"Lloyd Ole Olsen"
+]
+],
+[
+"Napoléon Coste",
+15,
+[
+"Napoleon Coste"
+]
+],
+[
+"Konstantin Orbelyan",
+15,
+[
+"Konstantin Aghaparoni Orbelyan"
+]
+],
+[
+"Peter Arnold Heise",
+15,
+[
+"Peter Heise"
+]
+],
+[
+"Karel Kovařovic",
+15,
+[
+"Karel Kovarovic"
+]
+],
+[
+"Stefan Wolpe",
+15,
+[]
+],
+[
+"Friedrich Schneider",
+15,
+[
+"Johann Christian Friedrich Schneider"
+]
+],
+[
+"Johann Anton André",
+15,
+[
+"Johann Anton Andre"
+]
+],
+[
+"Giulio Ricordi",
+15,
+[]
+],
+[
+"Thomas Attwood",
+15,
+[]
+],
+[
+"Armen Tigranian",
+15,
+[
+"Armen Tigrani Tigranian",
+"Armen Tigranyan"
+]
+],
+[
+"Van Alexander",
+15,
+[]
+],
+[
+"João Domingos Bomtempo",
+15,
+[]
+],
+[
+"Jacopo Corsi",
+15,
+[]
+],
+[
+"Amadeu Vives i Roig",
+15,
+[
+"Amadeo Vives",
+"Amadeu Vives"
+]
+],
+[
+"Gustav Merkel",
+15,
+[
+"Gustav (Adolf) Merkel",
+"Gustav Adolf Merkel"
+]
+],
+[
+"Otto Olsson",
+15,
+[
+"Otto Emanuel Olsson"
+]
+],
+[
+"Amanda Röntgen-Maier",
+15,
+[
+"Amanda Maier",
+"Carolina Amanda Erika Maier-Röntgen"
+]
+],
+[
+"Gustave Nadaud",
+15,
+[]
+],
+[
+"Hélène de Montgeroult",
+15,
+[
+"Hélène-Antoinette-Marie de Nervo de Montgeroult",
+"Helene de Montgeroult",
+"Marquise Hélène de Montgeroult"
+]
+],
+[
+"Ilkka Kuusisto",
+15,
+[
+"Ilkka Taneli Kuusisto"
+]
+],
+[
+"Veli Mukhatov",
+15,
+[]
+],
+[
+"Xavier Leroux",
+15,
+[]
+],
+[
+"Jaan Rääts",
+15,
+[]
+],
+[
+"Lord Berners",
+15,
+[
+"Baron Berners Gerald Hugh Tyrwhitt-Wilson",
+"Baron Gerald Hugh Tyrwhitt-Wilson Berners",
+"Gerald Berners",
+"Gerald Berners (Lord)",
+"Gerald Hugh Tyrwhitt-Wilson, Baron Berners",
+"Gerald Hugh Tyrwhitt-Wilson Berners",
+"Gerald Hugh Tyrwhitt-Wilson Berners Baron",
+"Gerald Tyrwhitt-Wilson, 14th Baron Berners",
+"Lord Gerald Berners"
+]
+],
+[
+"Thorvald Aagaard",
+15,
+[]
+],
+[
+"Sándor Szokolay",
+15,
+[
+"Sandor Szokolay"
+]
+],
+[
+"John Goss",
+15,
+[
+"Sir John Goss"
+]
+],
+[
+"Ulvi Cemal Erkin",
+15,
+[]
+],
+[
+"Adam Krieger",
+15,
+[]
+],
+[
+"Adam Michna z Otradovic",
+15,
+[
+"Adam Václav Michna z Otradovic"
+]
+],
+[
+"Carl Teike",
+15,
+[
+"Carl Albert Hermann Teike"
+]
+],
+[
+"Rauf Hajiyev",
+15,
+[
+"Rauf Soltan oghlu Hajiyev",
+"Rauf Soltan oglu Hajiyev"
+]
+],
+[
+"Oleg Karavaychuk",
+15,
+[
+"Oleg Nikolayevich Karavaichuk"
+]
+],
+[
+"Robert Cambert",
+15,
+[]
+],
+[
+"Mary Rodgers",
+15,
+[
+"Mary Rodgers Guettel"
+]
+],
+[
+"Alvin Lucier",
+15,
+[
+"Alvin Augustus Lucier Jr."
+]
+],
+[
+"Joseph Haas",
+15,
+[]
+],
+[
+"Bruno Nicolai",
+15,
+[]
+],
+[
+"Cal Tjader",
+15,
+[
+"Callen Radcliffe Tjader, Jr."
+]
+],
+[
+"Ernst Wilhelm Wolf",
+15,
+[]
+],
+[
+"Ludwig Abeille",
+15,
+[
+"Johann Christian Ludwig Abeille"
+]
+],
+[
+"William Axt",
+15,
+[]
+],
+[
+"Johann Philipp Krieger",
+15,
+[]
+],
+[
+"Thea Musgrave",
+15,
+[]
+],
+[
+"Johann Heinrich Buttstett",
+15,
+[
+"Johann Heinrich Buttstädt",
+"Johann Heinrich Buttstedt"
+]
+],
+[
+"Georgi Atanasov",
+15,
+[]
+],
+[
+"Christian Heinrich Rinck",
+15,
+[
+"Johann Christian Heinrich Rinck"
+]
+],
+[
+"Carlos Guastavino",
+15,
+[
+"Carlos Vicente Guastavino"
+]
+],
+[
+"Anselm Hüttenbrenner",
+15,
+[]
+],
+[
+"Albert Louis Wolff",
+15,
+[
+"Albert Wolff"
+]
+],
+[
+"Antonio Draghi",
+15,
+[]
+],
+[
+"Carlo Farina",
+15,
+[]
+],
+[
+"George Frederick Root",
+15,
+[
+"Geo. F. Root",
+"George F. Root",
+"George Root",
+"G. Friedrich Wurzel"
+]
+],
+[
+"Johannes Eccard",
+15,
+[]
+],
+[
+"F.L.Æ. Kunzen",
+15,
+[]
+],
+[
+"Oskar Rieding",
+15,
+[
+"Oscar Rieding"
+]
+],
+[
+"Charles-Louis Hanon",
+15,
+[
+"Charles Lehuis Hanon",
+"Charles L. Hanon",
+"C. L. Hanon"
+]
+],
+[
+"Richard Wetz",
+15,
+[]
+],
+[
+"Charles-Simon Catel",
+15,
+[
+"Charles Simon Catel"
+]
+],
+[
+"Frank De Vol",
+15,
+[
+"De Vol",
+"Frank Denny De Vol",
+"Frank DeVol"
+]
+],
+[
+"Josef Bayer",
+15,
+[]
+],
+[
+"Hans Georg Nägeli",
+15,
+[
+"Hans Georg Naegeli"
+]
+],
+[
+"John Cooper",
+15,
+[
+"Giovanni Coprario",
+"John Coperario",
+"John Cowper"
+]
+],
+[
+"Vinko Globokar",
+15,
+[]
+],
+[
+"August Wilhelmj",
+15,
+[
+"August Emil Daniel Ferdinand Wilhelmj",
+"August Wilhelmy"
+]
+],
+[
+"Johann Rudolph Ahle",
+15,
+[
+"Johann Rudolf Ahle",
+"Johann Rudolph"
+]
+],
+[
+"Ignaz Holzbauer",
+15,
+[
+"Ignaz Jakob Holzbauer"
+]
+],
+[
+"René Clemencic",
+15,
+[
+"Rene Clemencic",
+"René Clemenčič"
+]
+],
+[
+"Wilhelm Taubert",
+15,
+[
+"Carl Gottfried Wilhelm Taubert"
+]
+],
+[
+"Melchior Franck",
+15,
+[]
+],
+[
+"Ludvig Norman",
+15,
+[
+"Fredrik Wilhelm Ludvig Norman"
+]
+],
+[
+"Jaroslav Křička",
+15,
+[
+"Jaroslav Kricka"
+]
+],
+[
+"Menachem Avidom",
+15,
+[
+"Menahem Avidom"
+]
+],
+[
+"George Rochberg",
+15,
+[]
+],
+[
+"Gottfried Heinrich Bach",
+15,
+[]
+],
+[
+"Edmond de la Fontaine",
+15,
+[
+"Dicks"
+]
+],
+[
+"Asger Hamerik",
+15,
+[]
+],
+[
+"Walter Damrosch",
+15,
+[
+"Walter Johannes Damrosch"
+]
+],
+[
+"Grigoraș Dinicu",
+15,
+[]
+],
+[
+"Mack Gordon",
+15,
+[]
+],
+[
+"Carlo Pedrotti",
+15,
+[]
+],
+[
+"John Eccles",
+15,
+[]
+],
+[
+"Eyvind Alnæs",
+15,
+[]
+],
+[
+"Marc Blitzstein",
+15,
+[]
+],
+[
+"Teodoro Cottrau",
+15,
+[]
+],
+[
+"Jean-Yves Daniel-Lesur",
+15,
+[
+"Daniel-Lesur"
+]
+],
+[
+"Soltan Hajibeyov",
+15,
+[
+"Soltan Ismayil oghlu Hajibeyov",
+"Soltan Ismayil ogli Hajibeyov",
+"Soltan İsmayıl oğlu Gadžibekov",
+"Soltan İsmayıl oğlu Hacıbäyov",
+"Sultan Gadzhibekov"
+]
+],
+[
+"Paul Gilson",
+15,
+[]
+],
+[
+"Jānis Mediņš",
+15,
+[]
+],
+[
+"Ján Levoslav Bella",
+15,
+[
+"Jan Levoslav Bella"
+]
+],
+[
+"Văn Cao",
+15,
+[
+"Nguyễn Văn Cao"
+]
+],
+[
+"Jean-Louis Duport",
+15,
+[
+"J. L. Duport"
+]
+],
+[
+"Sylvano Bussotti",
+15,
+[
+"Silvano Bussotti"
+]
+],
+[
+"Maurice Jaubert",
+14,
+[]
+],
+[
+"Karel Goeyvaerts",
+14,
+[
+"Karel August Goeyvaerts"
+]
+],
+[
+"Dag Wirén",
+14,
+[
+"Dag Wiren"
+]
+],
+[
+"Wladimir Vogel",
+14,
+[
+"Wladimir Rudolfowitsch Vogel"
+]
+],
+[
+"Eric Coates",
+14,
+[
+"Eric Francis Harrison Coates"
+]
+],
+[
+"Victor Bendix",
+14,
+[
+"Victor Emanuel Bendix"
+]
+],
+[
+"Richard A. Whiting",
+14,
+[
+"Richard Armstrong Whiting",
+"Richard Whiting"
+]
+],
+[
+"Duke Reid",
+14,
+[
+"Arthur Duke Reid",
+"Arthur Reid"
+]
+],
+[
+"John Playford",
+14,
+[
+"John Playford the elder"
+]
+],
+[
+"Edvin Kallstenius",
+14,
+[]
+],
+[
+"Marius Constant",
+14,
+[]
+],
+[
+"Manuel Rosenthal",
+14,
+[]
+],
+[
+"Tony Aubin",
+14,
+[
+"Tony Louis Alexandre Aubin"
+]
+],
+[
+"Louis Emmanuel Jadin",
+14,
+[]
+],
+[
+"William Billings",
+14,
+[]
+],
+[
+"Gordon Jacob",
+14,
+[
+"Gordon Percival Septimus Jacob"
+]
+],
+[
+"Joseph Holbrooke",
+14,
+[
+"Evan Meredith",
+"Josef Charles",
+"Josef Holbrooke",
+"Joseph Charles Holbrooke"
+]
+],
+[
+"Henri Du Mont",
+14,
+[
+"Henri Dumont",
+"Henry de Thier"
+]
+],
+[
+"Federico Ricci",
+14,
+[]
+],
+[
+"František Tůma",
+14,
+[
+"František Ignác Antonín Tůma",
+"Frantisek Tuma"
+]
+],
+[
+"Mitchell Parish",
+14,
+[
+"Michael Hyman Peretz"
+]
+],
+[
+"Francesco Corbetta",
+14,
+[
+"Francisque Corbette"
+]
+],
+[
+"Marcel Landovski",
+14,
+[
+"Marcel François Paul Landowski"
+]
+],
+[
+"Gordon Jenkins",
+14,
+[]
+],
+[
+"Girolamo Abos",
+14,
+[]
+],
+[
+"Juan José Castro",
+14,
+[
+"Juan Jose Castro"
+]
+],
+[
+"Seán Ó Riada",
+14,
+[
+"Sean O Riada"
+]
+],
+[
+"George David Weiss",
+14,
+[
+"B. Y. Forster",
+"George Weiss"
+]
+],
+[
+"George Marion, Jr.",
+14,
+[]
+],
+[
+"Miloslav Kabelac",
+14,
+[]
+],
+[
+"Gianni Ferrio",
+14,
+[]
+],
+[
+"Radamés Gnattali",
+14,
+[
+"Radames Gnattali"
+]
+],
+[
+"Roger Edens",
+14,
+[]
+],
+[
+"Hayne van Ghizeghem",
+14,
+[
+"Ghizeghem"
+]
+],
+[
+"Ludvig Mathias Lindeman",
+14,
+[]
+],
+[
+"Milton Ager",
+14,
+[]
+],
+[
+"Jean Cras",
+14,
+[
+"Jean Émile Paul Cras",
+"Jean-Émile-Paul Cras"
+]
+],
+[
+"Jean Rivier",
+14,
+[
+"Jean Pierre Rivier"
+]
+],
+[
+"Kazimierz Serocki",
+14,
+[]
+],
+[
+"Ron Goodwin",
+14,
+[
+"Ronald Alfred Goodwin"
+]
+],
+[
+"Mykola Kolessa",
+14,
+[
+"Mykola Filaretovich Kolessa",
+"Микола Філаретович Колесса"
+]
+],
+[
+"Petko Staynov",
+14,
+[
+"Petko Staĭnov"
+]
+],
+[
+"Viktor Nessler",
+14,
+[
+"Viktor E. Nessler",
+"Viktor Ernst Nessler"
+]
+],
+[
+"Kyrylo Stetsenko",
+14,
+[
+"Kyrylo Hryhorovych Stetsenko"
+]
+],
+[
+"Bartolomeo Campagnoli",
+14,
+[]
+],
+[
+"Sulkhan Tsintsadze",
+14,
+[
+"Sulkan Tsitsadze",
+"Sulkhan Fyodorovich Tsintsadze"
+]
+],
+[
+"Johannes Martini",
+14,
+[]
+],
+[
+"João de Sousa Carvalho",
+14,
+[]
+],
+[
+"Pasquale Cafaro",
+14,
+[
+"Pasquale Caffaro"
+]
+],
+[
+"Konstanty Gorski",
+14,
+[
+"Konstanty Antoni Gorski"
+]
+],
+[
+"Johannes Bach",
+14,
+[
+"Johann Bach"
+]
+],
+[
+"Pannalal Ghosh",
+14,
+[
+"Amal Jyoti Ghosh",
+"Pandit Pannalal Ghosh"
+]
+],
+[
+"Albert Hague",
+14,
+[]
+],
+[
+"Rudi Stephan",
+14,
+[]
+],
+[
+"Joaquín Nin-Culmell",
+14,
+[
+"Joaquin Nin-Culmell"
+]
+],
+[
+"Peggy Glanville-Hicks",
+14,
+[]
+],
+[
+"Deems Taylor",
+14,
+[]
+],
+[
+"Pascal Collasse",
+14,
+[]
+],
+[
+"Joel Engel",
+14,
+[
+"Julius Dimitrovich Engel",
+"Yo’el Engel"
+]
+],
+[
+"Ödön Pártos",
+14,
+[
+"Odon Partos",
+"Ödön Partos",
+"Oedoen Partos",
+"Oedoen Pártos"
+]
+],
+[
+"Clémence de Grandval",
+14,
+[
+"Clemence de Grandval",
+"Marie Felicie Clemence de Reiset",
+"Marie Félicie Clémence de Reiset",
+"Marie Grandval",
+"Vicomtesse de Grandval",
+"Vicomtesse de Marie Grandval"
+]
+],
+[
+"Joan Guinjoan",
+14,
+[
+"Joan Guinjoan Gispert",
+"Joan Guinjoan i Gispert"
+]
+],
+[
+"Jan Ekier",
+14,
+[]
+],
+[
+"Joaquín Gaztambide",
+14,
+[
+"Joaquin Gaztambide",
+"Joaquín Romualdo Gaztambide Garbayo"
+]
+],
+[
+"Frederick Converse",
+14,
+[
+"Frederick Shepherd Converse"
+]
+],
+[
+"Irwin Kostal",
+14,
+[]
+],
+[
+"Werner Janssen",
+14,
+[
+"Hans-Werner Janssen"
+]
+],
+[
+"Sid Ramin",
+14,
+[
+"Sidney Nathan Ramin"
+]
+],
+[
+"Asaf Zeynally",
+14,
+[
+"Asaf Zeynalabdin oglu Zeynally",
+"Asaf Zeynalli",
+"Asef Zeynali"
+]
+],
+[
+"Viktor Kosenko",
+14,
+[
+"Victor Kosenko"
+]
+],
+[
+"Johann Christian Kittel",
+14,
+[]
+],
+[
+"Zlata Tkach",
+14,
+[
+"Zlata Moiseyevna Tkach",
+"Zlata Tcaci",
+"Zlata Tkaci"
+]
+],
+[
+"Alun Hoddinott",
+14,
+[]
+],
+[
+"Helmut Zacharias",
+14,
+[]
+],
+[
+"Ihor Shamo",
+14,
+[]
+],
+[
+"Johann Christian Friedrich Hæffner",
+14,
+[]
+],
+[
+"Salvatore Viganò",
+14,
+[
+"Salvatore Vigano"
+]
+],
+[
+"Anton Cajetan Adlgasser",
+14,
+[]
+],
+[
+"Michel Pignolet de Montéclair",
+14,
+[
+"Michel Pignolet de Monteclair"
+]
+],
+[
+"Nicolas Chédeville",
+14,
+[
+"Nicolas Chedeville"
+]
+],
+[
+"Jean-Baptiste Accolay",
+14,
+[]
+],
+[
+"Else Marie Pade",
+14,
+[]
+],
+[
+"Conrado del Campo",
+14,
+[
+"Conrado del Campo y Zabaleta"
+]
+],
+[
+"Paul Graener",
+14,
+[]
+],
+[
+"Roman Haubenstock-Ramati",
+14,
+[
+"Roman Haubenstock"
+]
+],
+[
+"Sophie Bawr",
+14,
+[
+"Baroness Sophie de Bawr",
+"Comtesse de Saint- Simon",
+"Mme de Sophie Bawr",
+"Mme. Sophie de Bawr"
+]
+],
+[
+"Natanael Berg",
+14,
+[
+"Carl Natanael Rexroth-Berg"
+]
+],
+[
+"Rudolf Wagner-Régeny",
+14,
+[
+"Rudolf Wagner-Regeny"
+]
+],
+[
+"John Erskine",
+14,
+[]
+],
+[
+"Endre Szervánszky",
+14,
+[
+"Endre Szervanszky"
+]
+],
+[
+"Franz Eckert",
+14,
+[]
+],
+[
+"Giovanni Porta",
+14,
+[]
+],
+[
+"Johann Peter Pixis",
+14,
+[]
+],
+[
+"François Rebel",
+14,
+[]
+],
+[
+"Jan van Gilse",
+14,
+[
+"Jan Pieter Hendrik van Gilse"
+]
+],
+[
+"Pavel Chesnokov",
+14,
+[
+"Pavel Grigorievich Chesnokov",
+"Pavel Grigoryevich Chesnokov"
+]
+],
+[
+"Antoine Dauvergne",
+14,
+[
+"Antoine d'Auvergne"
+]
+],
+[
+"Anton Eberl",
+14,
+[
+"Anton Franz Josef Eberl"
+]
+],
+[
+"Antonio Cagnoni",
+14,
+[
+"Antonio Gagnoni"
+]
+],
+[
+"Antonio Smareglia",
+14,
+[]
+],
+[
+"Kazimierz Sikorski",
+14,
+[]
+],
+[
+"Alexey Verstovsky",
+14,
+[
+"Aleksey Nikolayevich Verstovsky",
+"Alexey Nikolayevich Verstovsky",
+"Alexis Vertovski"
+]
+],
+[
+"François Bazin",
+14,
+[]
+],
+[
+"Anton Fils",
+14,
+[
+"Anton Filtz"
+]
+],
+[
+"Nikolaus Selnecker",
+14,
+[]
+],
+[
+"August Conradi",
+14,
+[
+"August Eduard Moritz Conradi"
+]
+],
+[
+"Hans Erich Apostel",
+14,
+[]
+],
+[
+"Gideon Klein",
+14,
+[]
+],
+[
+"Nikolaus Decius",
+14,
+[
+"Nickel von Hof",
+"Nicolaus Decius",
+"Nikolaus Deeg",
+"Nikolaus Degius",
+"Nikolaus Tech a Curia"
+]
+],
+[
+"Ludwig August Lebrun",
+14,
+[]
+],
+[
+"Heinrich Baermann",
+14,
+[
+"Heinrich Joseph Baermann",
+"Heinrich Joseph Bärmann"
+]
+],
+[
+"Gustaf Aulén",
+14,
+[
+"Gustaf Aulen",
+"Gustaf Emanuel Hildebrand Aulén"
+]
+],
+[
+"Conrad Beck",
+14,
+[
+"Conrad Arthur Beck"
+]
+],
+[
+"Volkmar Andreae",
+14,
+[]
+],
+[
+"Johann Christoph Altnickol",
+14,
+[]
+],
+[
+"Alphonse Duvernoy",
+14,
+[
+"Victor-Alphonse Duvernoy"
+]
+],
+[
+"Theodor Kirchner",
+14,
+[]
+],
+[
+"Giselher Klebe",
+14,
+[]
+],
+[
+"Francesco Bartolomeo Conti",
+14,
+[
+"Francesco Conti"
+]
+],
+[
+"Nicolas Nabokov",
+14,
+[
+"Nicolai Nabokov",
+"Nikolay Dmitriyevich Nabokov",
+"Nikolay Nabokov"
+]
+],
+[
+"Wolfgang Fortner",
+14,
+[]
+],
+[
+"Richard Genée",
+14,
+[
+"Franz Friedrich Richard Genée",
+"Richard Genee"
+]
+],
+[
+"Giuseppe Bonno",
+14,
+[]
+],
+[
+"Jurriaan Andriessen",
+14,
+[]
+],
+[
+"Otakar Ostrčil",
+14,
+[
+"Otakar Ostrcil"
+]
+],
+[
+"Henry Kimball Hadley",
+14,
+[
+"Henry Hadley",
+"Henry K. Hadley"
+]
+],
+[
+"Arthur Foote",
+14,
+[
+"Arthur William Foote"
+]
+],
+[
+"Arthur Lourié",
+14,
+[
+"Arthur Lourie",
+"Arthur Vincent Lourie",
+"Naum Izrailevich Lurya",
+"Naum Lurya",
+"Vincent Arthur"
+]
+],
+[
+"Otto Lindblad",
+14,
+[
+"Otto Jonas Lindblad"
+]
+],
+[
+"Bent Fabric",
+14,
+[
+"Bent Fabricius-Bjerre",
+"Bert Graves",
+"Frank Bjorn"
+]
+],
+[
+"Peter Nero",
+14,
+[
+"Bernard Nierow"
+]
+],
+[
+"Tommaso Giordani",
+14,
+[]
+],
+[
+"Karl August Hermann",
+14,
+[]
+],
+[
+"Victor Jacobi",
+14,
+[]
+],
+[
+"Xiao Youmei",
+14,
+[]
+],
+[
+"Laurence Rosenthal",
+14,
+[]
+],
+[
+"Francesco Scarlatti",
+14,
+[]
+],
+[
+"Lajos Bárdos",
+14,
+[
+"Lajos Bardos"
+]
+],
+[
+"Bjarne Brustad",
+14,
+[]
+],
+[
+"Boris Tchaikovsky",
+14,
+[
+"Boris Aleksandrovich Chaykovsky",
+"Boris Alexandrovich Tchaikovsky"
+]
+],
+[
+"Norrie Paramor",
+14,
+[]
+],
+[
+"Costanzo Festa",
+14,
+[]
+],
+[
+"Carlos Paredes",
+14,
+[]
+],
+[
+"Herbert Howells",
+14,
+[
+"Herbert Norman Howells"
+]
+],
+[
+"Fran Lhotka",
+14,
+[]
+],
+[
+"Charles Martin Loeffler",
+13,
+[
+"Charles Martin Tornov Loeffler"
+]
+],
+[
+"Charles Wakefield Cadman",
+13,
+[]
+],
+[
+"Giorgio Federico Ghedini",
+13,
+[]
+],
+[
+"Ignaz Lachner",
+13,
+[]
+],
+[
+"Pietro Antonio Coppola",
+13,
+[]
+],
+[
+"Vincenzo Pucitta",
+13,
+[]
+],
+[
+"Henri Casadesus",
+13,
+[
+"Henri-Gustave Casadesus"
+]
+],
+[
+"Nestor Nyzhankivskyi",
+13,
+[
+"Nestor Nyzhankivsky",
+"Nestor Ostapovych Nyzhankivsky"
+]
+],
+[
+"Walter Scharf",
+13,
+[]
+],
+[
+"Paolo Agostino",
+13,
+[]
+],
+[
+"Anton Schweitzer",
+13,
+[]
+],
+[
+"Ivo Tijardović",
+13,
+[]
+],
+[
+"Josip Štolcer-Slavenski",
+13,
+[]
+],
+[
+"Egil Hovland",
+13,
+[]
+],
+[
+"Henri Desmarets",
+13,
+[
+"Henry Desmarest",
+"Henry Desmarets"
+]
+],
+[
+"Francesco Uttini",
+13,
+[
+"Francesco Antonio Baldassare Uttini"
+]
+],
+[
+"Perucho Figueredo",
+13,
+[
+"Pedro Felipe Figueredo",
+"Pedro Felipe Figueredo Cisneros",
+"Pedro Felipe Figueredo y Cisneros",
+"Pedro Figueredo"
+]
+],
+[
+"Hugo Friedhofer",
+13,
+[
+"Hugo Wilhelm Friedhofer"
+]
+],
+[
+"Marin Goleminov",
+13,
+[
+"Marin Petrov Goleminov"
+]
+],
+[
+"Ernest John Moeran",
+13,
+[
+"E. J. Moeran",
+"Ernest J. Moeran",
+"Ernest John Smeed Moeran",
+"Jack Moeran",
+"Moeran"
+]
+],
+[
+"Gösta Nystroem",
+13,
+[]
+],
+[
+"Ruggiero Giovannelli",
+13,
+[
+"Rogerio Giovanelli",
+"Ruggero Giovannelli",
+"Ruggiero Giovanelli"
+]
+],
+[
+"Peter Lange-Müller",
+13,
+[
+"Peter Erasmus Lange-Muller"
+]
+],
+[
+"Jani Christou",
+13,
+[
+"Giannis Christou",
+"Yannis Christou"
+]
+],
+[
+"Richard Adler",
+13,
+[]
+],
+[
+"Michel de la Barre",
+13,
+[
+"Michel de Labarre"
+]
+],
+[
+"Michele Novaro",
+13,
+[]
+],
+[
+"Minoru Miki",
+13,
+[
+"Minuro Miki"
+]
+],
+[
+"Francisco António de Almeida",
+13,
+[
+"Francisco Antonio de Almeida"
+]
+],
+[
+"François d'Agincourt",
+13,
+[]
+],
+[
+"Giovanni Battista Pescetti",
+13,
+[]
+],
+[
+"Daniele Amfitheatrof",
+13,
+[
+"Daniel Anfiteatrov",
+"Daniele (Alexandrovich) Amfitheatrof",
+"Daniele Alexandrovich Amfitheatrof"
+]
+],
+[
+"Louis-Albert Bourgault-Ducoudray",
+13,
+[]
+],
+[
+"Henry Brant",
+13,
+[
+"Henry Dreyfuss Brant"
+]
+],
+[
+"Akira Miyoshi",
+13,
+[]
+],
+[
+"Nathaniel Shilkret",
+13,
+[
+"Nat Shilkret"
+]
+],
+[
+"Eduard Erdmann",
+13,
+[]
+],
+[
+"Robert Ward",
+13,
+[
+"Robert Eugene Ward"
+]
+],
+[
+"John Addison",
+13,
+[
+"John Mervyn Addison"
+]
+],
+[
+"John Alden Carpenter",
+13,
+[]
+],
+[
+"José Bernardo Alzedo",
+13,
+[
+"Jose Bernardo Alcedo"
+]
+],
+[
+"Pauline Hall",
+13,
+[
+"Pauline Margrete Hall"
+]
+],
+[
+"Gloria Coates",
+13,
+[]
+],
+[
+"Pierre Montan Berton",
+13,
+[
+"Pierre Berton"
+]
+],
+[
+"Sebastian Aguilera de Heredia",
+13,
+[]
+],
+[
+"Oskar Lindberg",
+13,
+[
+"Oskar Fredrik Lindberg"
+]
+],
+[
+"Lubomir Pipkov",
+13,
+[]
+],
+[
+"Ulf Linde",
+13,
+[
+"Ulf Harald Linde"
+]
+],
+[
+"Johannes Brassart",
+13,
+[]
+],
+[
+"Paolo Quagliati",
+13,
+[]
+],
+[
+"Robert Simpson",
+13,
+[
+"Robert",
+"Robert Wilfred Levick Simpson"
+]
+],
+[
+"Pietro Generali",
+13,
+[]
+],
+[
+"Rodolfo Haffter",
+13,
+[
+"Rodolfo",
+"Rodolfo Halffter Escriche"
+]
+],
+[
+"Otto Luening",
+13,
+[
+"Otto Clarence Luening"
+]
+],
+[
+"Romanos Melikian",
+13,
+[
+"Romanos Hovakimi Melik‘ian"
+]
+],
+[
+"Henri Marteau",
+13,
+[]
+],
+[
+"Robert Kahn",
+13,
+[]
+],
+[
+"Wallingford Riegger",
+13,
+[
+"Wallingford Constantine Riegger"
+]
+],
+[
+"Werner R. Heymann",
+13,
+[
+"Werner Heymann",
+"Werner Richard Heymann"
+]
+],
+[
+"Gherardello da Firenze",
+13,
+[]
+],
+[
+"Leone Sinigaglia",
+13,
+[]
+],
+[
+"Johannes Regis",
+13,
+[]
+],
+[
+"Charles Wood",
+13,
+[]
+],
+[
+"Iša Krejčí",
+13,
+[
+"Isa Krejci"
+]
+],
+[
+"Jacques Duphly",
+13,
+[]
+],
+[
+"Geminiano Giacomelli",
+13,
+[]
+],
+[
+"William Lava",
+13,
+[
+"bebefinn Is pinkfong lava",
+"Bill Lava",
+"Billy William dee tinky winky",
+"chirstopher lava",
+"Jasper Tom lava",
+"Manny gould",
+"mel Jasper w. lava",
+"moto derzo zero jasper",
+"mr. miusslon zioaffiro",
+"One music Freddy",
+"Thomas dr. sazirton chirs",
+"Thomas e.",
+"Thomas eddswodeton",
+"Thomas lava",
+"tico derdo lava chirs Jasper wile coyote",
+"tiwky lava",
+"Tom cats",
+"Tom doggy lava",
+"tom Jasper SR.",
+"Toys rody",
+"vocie lava",
+"William B. Lava",
+"William Gould lava",
+"xilam Toys greillfana"
+]
+],
+[
+"Willem van Otterloo",
+13,
+[
+"Jan Willem van Otterloo"
+]
+],
+[
+"Apel·les Mestres i Oñós",
+13,
+[
+"Apeles Mestres",
+"Apeles Mestres i Oños",
+"Apeles Mestres Oñó",
+"Apeles Mestres Oños",
+"Apeles Mestres y Oños",
+"Apel. les Mestres",
+"Apel.les Mestres",
+"Apelles Mestres",
+"Apel. Les Mestres",
+"Apel·les Mestres",
+"Apel. les Mestres i Oños",
+"Apel. les Mestres Oñó",
+"Apel. les Mestres Oños",
+"Apel. les Mestres y Oños"
+]
+],
+[
+"Emile Pessard",
+13,
+[
+"Emile Louis Fortune Pessard",
+"Émile Louis Fortuné Pessard"
+]
+],
+[
+"Johann Gottfried Schicht",
+13,
+[]
+],
+[
+"Alexey Ekimyan",
+13,
+[
+"Aleksey Hekimyan",
+"Ekimyan, Alexey",
+"Hekimyan, Aleksey"
+]
+],
+[
+"Percy French",
+13,
+[
+"William French",
+"William Percy French"
+]
+],
+[
+"Halim El-Dabh",
+13,
+[
+"Halim Abdul Messieh El-Dabh"
+]
+],
+[
+"M. S. Viswanathan",
+13,
+[
+"Manayangath Subramanian Viswanathan",
+"M S Viswanathan"
+]
+],
+[
+"Heinrich Hofmann",
+13,
+[
+"Heinrich Karl Johann Hofmann"
+]
+],
+[
+"Nico Dostal",
+13,
+[]
+],
+[
+"Josef Dessauer",
+13,
+[]
+],
+[
+"Antônio Francisco Braga",
+13,
+[
+"Antonio Francisco Braga"
+]
+],
+[
+"Mihály Mosonyi",
+13,
+[
+"Mihaly Mosonyi"
+]
+],
+[
+"Ilja Hurník",
+13,
+[]
+],
+[
+"Ahmed Ghulamali Chagla",
+13,
+[
+"Ahmed Ghulam Ali Chagla"
+]
+],
+[
+"Fernando Lopes-Graça",
+13,
+[]
+],
+[
+"Henrique Oswald",
+13,
+[
+"Enrique Oswaldo",
+"Henri Oswald",
+"Henry Oswald"
+]
+],
+[
+"Ananda Samarakoon",
+13,
+[
+"Egodahage George Wilfred Alwis Samarakoon"
+]
+],
+[
+"Anders Fredrik Skjöldebrand",
+13,
+[]
+],
+[
+"Béla Kéler",
+13,
+[
+"Bela Keler"
+]
+],
+[
+"Burton Lane",
+13,
+[
+"Burton Levy",
+"Morris Hyman Kushner"
+]
+],
+[
+"Óscar Esplá",
+13,
+[
+"Oscar Espla",
+"Óscar Esplá y Triay"
+]
+],
+[
+"Virgilio Mazzocchi",
+13,
+[]
+],
+[
+"Giovanni da Cascia",
+13,
+[
+"Giovanni da Firenze",
+"Johannes de Florentia"
+]
+],
+[
+"Teodulo Mabellini",
+13,
+[]
+],
+[
+"Oscar Feltsman",
+13,
+[
+"Oscar Borisovich Feltsman"
+]
+],
+[
+"Heorhii Maiboroda",
+13,
+[
+"Heorhiy Maiboroda",
+"Heorhiy Mayboroda"
+]
+],
+[
+"Alan Rawsthorne",
+13,
+[]
+],
+[
+"Angela Morley",
+13,
+[
+"Wally Stott",
+"Walter Stott"
+]
+],
+[
+"Mildred J. Hill",
+13,
+[
+"Johann Tonsor",
+"Mildred  Hill",
+"Mildred Jane Hill"
+]
+],
+[
+"Viliam Figuš-Bystrý",
+13,
+[
+"Viliam Figus-Bystry"
+]
+],
+[
+"Jan Krenz",
+13,
+[]
+],
+[
+"Bert Berns",
+13,
+[
+"Bert Russell",
+"Russell Byrd"
+]
+],
+[
+"Ernst Pepping",
+13,
+[]
+],
+[
+"Gerhard Rühm",
+13,
+[
+"Gerhard Ruehm",
+"Gerhard Ruhm"
+]
+],
+[
+"Anatol Vieru",
+13,
+[]
+],
+[
+"Laura Netzel",
+13,
+[
+"Laura Constance Netzel",
+"Laura Constance Pistolekors",
+"N. Lago"
+]
+],
+[
+"Yevgeny Brusilovsky",
+13,
+[
+"Yevgeny Grigorievich Brusilovsky",
+"Yevgeny Grigoryevich Brusilovsky"
+]
+],
+[
+"Gian Franco Reverberi",
+13,
+[
+"G. F. Reverberi",
+"Gianfranco Giacomo Reverberi",
+"Gian Franco Giacomo Reverberi",
+"Gianfranco Reverberi"
+]
+],
+[
+"Francisco Manuel da Silva",
+13,
+[]
+],
+[
+"Mack David",
+13,
+[]
+],
+[
+"Walter Kollo",
+13,
+[
+"Walter Elimar Kollo",
+"Walter Kollodzieyski"
+]
+],
+[
+"Károly Aggházy",
+13,
+[
+"Aggházy Károly",
+"Karoly Agghazy"
+]
+],
+[
+"André Boucourechliev",
+13,
+[
+"Andre Boucourechliev"
+]
+],
+[
+"Franz Ignaz Beck",
+13,
+[]
+],
+[
+"Johann Georg Ahle",
+13,
+[]
+],
+[
+"Emil Sjögren",
+13,
+[
+"Emile Sjögren"
+]
+],
+[
+"Ann Ronell",
+13,
+[]
+],
+[
+"Gerald Fried",
+13,
+[]
+],
+[
+"Aleksi Machavariani",
+13,
+[
+"Aleksandre Machavariani",
+"Aleksej Mačavariani",
+"Aleksey Davidovich Machavariani",
+"Aleksi Davitis dze Mach’avariani",
+"Aleksi Davitis dze Machavariani"
+]
+],
+[
+"Roberto De Simone",
+13,
+[]
+],
+[
+"Albert Dietrich",
+13,
+[
+"Albert Hermann Dietrich"
+]
+],
+[
+"Louis Lewandowski",
+13,
+[
+"Lazarus Lewandowski"
+]
+],
+[
+"Johann Ernst Eberlin",
+13,
+[]
+],
+[
+"Bernhard Klein",
+13,
+[
+"Bernhard Joseph Klein"
+]
+],
+[
+"Leon Jessel",
+13,
+[]
+],
+[
+"Antonín Kraft",
+13,
+[
+"Antonin Kraft",
+"Anton Kraft"
+]
+],
+[
+"Joly Braga Santos",
+13,
+[
+"José Manuel Joly Braga Santos"
+]
+],
+[
+"Frédéric Devreese",
+13,
+[
+"Frederic Devreese"
+]
+],
+[
+"Antonio Sartorio",
+13,
+[]
+],
+[
+"Alfred Reed",
+13,
+[
+"Alan Reed",
+"Alfred Friedman"
+]
+],
+[
+"Horacio Salgán",
+13,
+[
+"Horacio Salgan"
+]
+],
+[
+"José Maurício Nunes Garcia",
+13,
+[
+"Jose Mauricio N. Nunez Garcia",
+"Jose Mauricio Nunes Garcia"
+]
+],
+[
+"Hermann Kretzschmar",
+13,
+[
+"August Ferdinand Hermann Kretzschmar"
+]
+],
+[
+"George Dyson",
+13,
+[
+"Sir George Dyson"
+]
+],
+[
+"Jean Roger-Ducasse",
+13,
+[
+"Jean Jules Aimable Roger-Ducasse",
+"Jean Jules Amable Roger-Ducasse"
+]
+],
+[
+"Edgardo Donato",
+13,
+[
+"Edgardo Felipe Donato",
+"Edgardo Felipe Valerio Donato"
+]
+],
+[
+"Roman Hoffstetter",
+13,
+[]
+],
+[
+"Kuno von Moltke",
+13,
+[]
+],
+[
+"Hermann Zumpe",
+13,
+[]
+],
+[
+"Julius Bittner",
+13,
+[]
+],
+[
+"Rutland Boughton",
+13,
+[]
+],
+[
+"Giorgio Gomelsky",
+13,
+[
+"Giorgio Sergio Alessando Gomelsky"
+]
+],
+[
+"Johann André",
+13,
+[
+"Johann Andre"
+]
+],
+[
+"Franz Gläser",
+13,
+[
+"Franz Joseph Glaeser",
+"Franz Joseph Gläser"
+]
+],
+[
+"Milko Kelemen",
+13,
+[]
+],
+[
+"Arthur Johnston",
+13,
+[
+"Arthur James Johnston"
+]
+],
+[
+"Arthur Schwartz",
+13,
+[]
+],
+[
+"Ray Heindorf",
+13,
+[
+"Ray John Heindorf"
+]
+],
+[
+"Theo Mackeben",
+13,
+[]
+],
+[
+"Elie Siegmeister",
+13,
+[
+"L. E. Swift"
+]
+],
+[
+"Nikolaus Herman",
+13,
+[
+"Nicolaus Herman",
+"Nikolaus Hermann"
+]
+],
+[
+"Paul Constantinescu",
+13,
+[]
+],
+[
+"Tsvetan Radoslavov",
+13,
+[
+"Tsvetan Radoslavov Hadzhidenkov",
+"Zwetan Radoslawow"
+]
+],
+[
+"Louis Silvers",
+13,
+[
+"Silvers"
+]
+],
+[
+"José Pablo Moncayo García",
+13,
+[
+"Jose Pablo Moncayo",
+"José Pablo Moncayo"
+]
+],
+[
+"Johnny Burke",
+13,
+[]
+],
+[
+"Samuel Sebastian Wesley",
+13,
+[]
+],
+[
+"Giuseppe Scarlatti",
+13,
+[]
+],
+[
+"Bart Howard",
+13,
+[]
+],
+[
+"Bonifazio Asioli",
+13,
+[]
+],
+[
+"Ferenc Szabó",
+13,
+[
+"Ferenc Szabo"
+]
+],
+[
+"Jean-Michel Damase",
+13,
+[
+"Jean Michel Damase"
+]
+],
+[
+"Douglas Lilburn",
+13,
+[
+"Douglas Gordon Lilburn"
+]
+],
+[
+"György Ránki",
+13,
+[]
+],
+[
+"Jerry Fielding",
+13,
+[]
+],
+[
+"Jean-Benjamin de La Borde",
+13,
+[
+"Benjamin de Laborde",
+"Jean-Benjamin François de la Borde"
+]
+],
+[
+"Carlo Tessarini",
+13,
+[]
+],
+[
+"Erik Bergman",
+13,
+[]
+],
+[
+"Ernesto Halffter",
+13,
+[
+"Ernesto Halffter Escriche"
+]
+],
+[
+"Pelham Humfrey",
+13,
+[
+"Pelham Humphrey",
+"Pelham Humphry"
+]
+],
+[
+"Vladimir Rebikov",
+13,
+[
+"Vladimir Ivanovich Rebikov"
+]
+],
+[
+"Otto Malling",
+13,
+[
+"Otto Valdemar Malling"
+]
+],
+[
+"Emilio Pujol",
+13,
+[]
+],
+[
+"Domènec Terradellas",
+13,
+[
+"Domenec Terradellas",
+"Domingo Miguel Bernabe Terradellas",
+"Domingo Terradellas"
+]
+],
+[
+"Vladimir Shcherbachov",
+13,
+[
+"Vladimir Stcherbacchev",
+"Vladimir Vladimirovich Shcherbachov"
+]
+],
+[
+"Johannes Verhulst",
+13,
+[
+"Johannes Joseph Hermann Verhulst",
+"Johannes Josephus Hermanus Verhulst",
+"Johann Joseph Hermann Verhulst"
+]
+],
+[
+"Michelangelo Rossi",
+13,
+[]
+],
+[
+"Jesús Guridi",
+13,
+[
+"Jesus Guridi"
+]
+],
+[
+"Fred Steiner",
+13,
+[
+"Frederick Steiner"
+]
+],
+[
+"Ludvig Irgens-Jensen",
+13,
+[
+"Paul Ludvig Irgens-Jensen"
+]
+],
+[
+"Désiré-Émile Inghelbrecht",
+13,
+[
+"Desire-Emile Inghelbrecht"
+]
+],
+[
+"Ernest Schelling",
+13,
+[
+"Ernest Henry Schelling"
+]
+],
+[
+"Samuel Cohen",
+13,
+[
+"Shmuel Cohen"
+]
+],
+[
+"Bruno Bettinelli",
+13,
+[]
+],
+[
+"Carlos López Buchardo",
+12,
+[
+"Carlos Lopez Buchardo"
+]
+],
+[
+"Charles Previn",
+12,
+[]
+],
+[
+"Salvador Bacarisse",
+12,
+[
+"Salvador Bacarisse Chinoria"
+]
+],
+[
+"Grace Williams",
+12,
+[
+"Grace Mary Williams"
+]
+],
+[
+"Andrea da Firenze",
+12,
+[
+"Andrea",
+"Andreas da Florentia",
+"Andreas de Florentia"
+]
+],
+[
+"Franco Leoni",
+12,
+[]
+],
+[
+"Roland-Manuel",
+12,
+[]
+],
+[
+"Jean-Georges Kastner",
+12,
+[
+"Georges Kastner"
+]
+],
+[
+"Jack Yellen",
+12,
+[
+"Jack Selig Yellen",
+"Jacob Selig Yellen"
+]
+],
+[
+"Isidor Bajić",
+12,
+[
+"Isidor Bajic"
+]
+],
+[
+"Nacio Herb Brown",
+12,
+[
+"Ignacio Herb Brown",
+"Ignacio Herbert Brown",
+"Ignacio \"Nacio\" Herb Brown"
+]
+],
+[
+"Edgar Hovhannisyan",
+12,
+[
+"Edgar Hovhannisian",
+"Edgar Oganesian"
+]
+],
+[
+"Abel Meeropol",
+12,
+[
+"Lewis Allan"
+]
+],
+[
+"Kenneth J. Alford",
+12,
+[
+"Kenneth Joseph Alford"
+]
+],
+[
+"Vladimir Ussachevsky",
+12,
+[
+"Vladimir Alexeevich Ussachevsky"
+]
+],
+[
+"Pelle Gudmundsen-Holmgreen",
+12,
+[]
+],
+[
+"Karel Boleslav Jirák",
+12,
+[
+"Karel Boleslav Jirak",
+"K. B. Jirák"
+]
+],
+[
+"Marcel Poot",
+12,
+[]
+],
+[
+"John Antill",
+12,
+[
+"John Henry Antill"
+]
+],
+[
+"Alexander Taneyev",
+12,
+[
+"Aleksandr Sergeevich Taneev",
+"Alexander Sergeyevich Taneyev"
+]
+],
+[
+"Pekka Juhani Hannikainen",
+12,
+[
+"Pekka Hannikainen",
+"P. J. Hannikainen",
+"P.J. Hannikainen"
+]
+],
+[
+"Gaetano Latilla",
+12,
+[]
+],
+[
+"Zygmunt Stojowski",
+12,
+[
+"Sigismund Stojowski"
+]
+],
+[
+"Roy Webb",
+12,
+[]
+],
+[
+"Louis Gruenberg",
+12,
+[]
+],
+[
+"Włodzimierz Kotoński",
+12,
+[]
+],
+[
+"Gabriel Dupont",
+12,
+[
+"Gabriel Édouard Xavier Dupont"
+]
+],
+[
+"Alexandre Luigini",
+12,
+[]
+],
+[
+"Pavlos Carrer",
+12,
+[
+"Paolo Carrer"
+]
+],
+[
+"José Asunción Flores",
+12,
+[]
+],
+[
+"Paul Ladmirault",
+12,
+[
+"Paul-Emile Ladmirault",
+"Paul-Émile Ladmirault"
+]
+],
+[
+"Francesco Sacrati",
+12,
+[
+"Francesco Paolo Sacrati"
+]
+],
+[
+"Félix Godefroid",
+12,
+[
+"Felix Godefroid"
+]
+],
+[
+"Lauro Rossi",
+12,
+[
+"Lauro Sebastiano Rossi"
+]
+],
+[
+"Gunnar de Frumerie",
+12,
+[
+"Per Gunnar Fredrik de Frumerie"
+]
+],
+[
+"Morris Stoloff",
+12,
+[]
+],
+[
+"Pierre Jansen",
+12,
+[
+"Frans Jansen"
+]
+],
+[
+"Hamish MacCunn",
+12,
+[]
+],
+[
+"Paul Francis Webster",
+12,
+[]
+],
+[
+"Ivar Hallström",
+12,
+[]
+],
+[
+"Jan Blockx",
+12,
+[]
+],
+[
+"Jerónimo Giménez",
+12,
+[
+"Geronimo Gimenez"
+]
+],
+[
+"Jiří Pauer",
+12,
+[
+"Jiri Pauer"
+]
+],
+[
+"Alexander Krein",
+12,
+[
+"Aleksandr Abramovich Kreyn",
+"Alexander Abramovich Krein",
+"Kreyn Aleksandr Abramovich"
+]
+],
+[
+"Giovanni Battista Ferrandini",
+12,
+[]
+],
+[
+"Chico O'Farrill",
+12,
+[]
+],
+[
+"Godric of Finchale",
+12,
+[
+"Godric de Finchale"
+]
+],
+[
+"Benedikt Schack",
+12,
+[
+"Benedikt Emanuel Schack"
+]
+],
+[
+"Michael Costa",
+12,
+[
+"Sir Michael Andrew Angus Costa"
+]
+],
+[
+"Veselin Stoyanov",
+12,
+[
+"Veselin Anastasov Stoyanov"
+]
+],
+[
+"Alemdar Karamanov",
+12,
+[
+"Alemdar Sabitovich Karamanov"
+]
+],
+[
+"Alfred Hill",
+12,
+[
+"Alfred Francis Hill"
+]
+],
+[
+"Yuri Levitin",
+12,
+[
+"Yuri Abramoviсh Levitin"
+]
+],
+[
+"Niccolò Castiglioni",
+12,
+[
+"Niccolo Castiglioni"
+]
+],
+[
+"John Morris",
+12,
+[
+"John Leonard Morris"
+]
+],
+[
+"Ghazaros Saryan",
+12,
+[
+"Lazar Sarian",
+"Lazar Saryan"
+]
+],
+[
+"Anatole Vakhnianyn",
+12,
+[
+"Anatol Klymovych Vakhnianyn",
+"Anatol Vakhnyanin",
+"Anatol Wachnianyn",
+"Anatoly Klimovich Vakhnyanin",
+"Anatoly Vakhnyanin"
+]
+],
+[
+"Hammamizade İsmail Dede Efendi",
+12,
+[
+"Hammamizade Ismail Dede Efendi"
+]
+],
+[
+"Said Rustamov",
+12,
+[]
+],
+[
+"Ruhollah Khaleqi",
+12,
+[
+"Rohollah Khaleghi"
+]
+],
+[
+"Pál Hermann",
+12,
+[
+"Paul Hermann"
+]
+],
+[
+"Raoul Laparra",
+12,
+[
+"Raoul Louis-Felix-Émile-Marie Laparra"
+]
+],
+[
+"Haim Alexander",
+12,
+[]
+],
+[
+"Norbert Glanzberg",
+12,
+[]
+],
+[
+"Walter Goehr",
+12,
+[]
+],
+[
+"Oscar Hammerstein I",
+12,
+[
+"Oscar Hammerstein"
+]
+],
+[
+"Peter Josef von Lindpainter",
+12,
+[]
+],
+[
+"Pablo Sorozábal",
+12,
+[
+"Pablo Sorozábal Mariezcurrena"
+]
+],
+[
+"Revol Bunin",
+12,
+[
+"Revol Samuilovich Bunin"
+]
+],
+[
+"José María Usandizaga",
+12,
+[
+"Jose Maria Usandizaga"
+]
+],
+[
+"Erik Chisholm",
+12,
+[
+"Erik William Chisholm"
+]
+],
+[
+"Zulfugar Hajibeyov",
+12,
+[
+"Zulfugar Abdulhuseyn oghlu Hajibeyov"
+]
+],
+[
+"Aleksandr Kastalsky",
+12,
+[
+"Aleksandr Dmitriyevich Kastalsky",
+"Alexandr Kastalsky"
+]
+],
+[
+"Stephen Storace",
+12,
+[
+"Stephen John Seymour Storace"
+]
+],
+[
+"Aaron Avshalomov",
+12,
+[]
+],
+[
+"Heinrich Berté",
+12,
+[
+"Heinrich Berte",
+"Heinrich Bettelheim"
+]
+],
+[
+"Ignacio Cervantes",
+12,
+[
+"Ignacio Cervantes Kawanag"
+]
+],
+[
+"Hans-Joachim Roedelius",
+12,
+[]
+],
+[
+"Victor Dolidze",
+12,
+[
+"Victor Isidores dze Dolidze",
+"Viktor Isidorovich Dolidze"
+]
+],
+[
+"Juan Manén",
+12,
+[
+"Joan Manén",
+"Juan Manen"
+]
+],
+[
+"Takeo Watanabe",
+12,
+[]
+],
+[
+"Claude Arrieu",
+12,
+[
+"Louise-Marie Simon"
+]
+],
+[
+"Elsa Barraine",
+12,
+[
+"Elsa Jacqueline Barraine"
+]
+],
+[
+"E. A. Mario",
+12,
+[]
+],
+[
+"José Serrano",
+12,
+[
+"José Calixto Serrano Simeón",
+"Jose Serrano",
+"José Serrano Simeón"
+]
+],
+[
+"Zubir Said",
+12,
+[]
+],
+[
+"Charles Camilleri",
+12,
+[]
+],
+[
+"Marguerite Monnot",
+12,
+[
+"Marguerite Angèle Giannesini",
+"Marguerite Angèle Monnot"
+]
+],
+[
+"Otto Winter Hjelm",
+12,
+[
+"Otto Winter-Hjelm"
+]
+],
+[
+"Clarence Muse",
+12,
+[]
+],
+[
+"Manuel Penella",
+12,
+[
+"Manuel Penella i Moreno",
+"Manuel Penella Moreno"
+]
+],
+[
+"Marij Kogoj",
+12,
+[]
+],
+[
+"Franz Grothe",
+12,
+[]
+],
+[
+"Kim Won-gyun",
+12,
+[]
+],
+[
+"Henryk Wars",
+12,
+[
+"Henryk Warszawski",
+"Henry Vars"
+]
+],
+[
+"Romuald Twardowski",
+12,
+[]
+],
+[
+"Maciej Kamieński",
+12,
+[]
+],
+[
+"John Bacchus Dykes",
+12,
+[]
+],
+[
+"Ricardo Castro",
+12,
+[
+"Ricardo Castro Herrera"
+]
+],
+[
+"Ken Thorne",
+12,
+[
+"Kenneth R. Thorne",
+"Kenneth Thorne"
+]
+],
+[
+"Murad Kajlayev",
+12,
+[
+"Murad Magomedovich Kajlayev",
+"Murad Magomedovich Kazhlayev"
+]
+],
+[
+"Ādolfs Skulte",
+12,
+[]
+],
+[
+"Joseph Parry",
+12,
+[
+"Pencerdd America"
+]
+],
+[
+"Achilles Alferaki",
+12,
+[
+"Achilles Nikolayevich Alferaki"
+]
+],
+[
+"Patrick Gilmore",
+12,
+[
+"Louis Lambert",
+"Patrick Sarsfield Gilmore",
+"Patrick S. Gilmore",
+"P. S. Gilmore"
+]
+],
+[
+"Mikuláš Schneider-Trnavský",
+12,
+[
+"Mikulas Schneider-Trnavsky"
+]
+],
+[
+"Richard Hol",
+12,
+[
+"Rijk Hol",
+"Rijk Holle"
+]
+],
+[
+"Marjan Kozina",
+12,
+[]
+],
+[
+"Wadia Sabra",
+12,
+[
+"Wadih Sabra"
+]
+],
+[
+"Georg Jarno",
+12,
+[
+"György Cohner"
+]
+],
+[
+"Ralph Rainger",
+12,
+[]
+],
+[
+"Willy Burkhard",
+12,
+[]
+],
+[
+"Barsegh Kanachyan",
+12,
+[
+"Barsegh Kanachian",
+"Kanachian, Barsegh",
+"Kanachyan, Barsegh",
+"Parsegh Ganatchian"
+]
+],
+[
+"Osman Zeki Üngör",
+12,
+[
+"Osman Zeki Ungor"
+]
+],
+[
+"Hiromori Hayashi",
+12,
+[]
+],
+[
+"John Serry Sr.",
+12,
+[
+"Giovanni Serrapica",
+"John Serrapica",
+"John Serry",
+"John Serry, Sr."
+]
+],
+[
+"Stanislao Gastaldon",
+12,
+[
+"Martino Stanislao Luigi Gastaldon"
+]
+],
+[
+"Aimé Maillart",
+12,
+[
+"Aime Maillart"
+]
+],
+[
+"Mukhtar Ashrafi",
+12,
+[]
+],
+[
+"Jahangir Jahangirov",
+12,
+[
+"Jahangir Shirgasht oglu Jahangirov"
+]
+],
+[
+"Ruth Gipps",
+12,
+[
+"Ruth Dorothy Louisa",
+"Ruth Dorothy Louisa Gipps",
+"Ruth Gipps MBE"
+]
+],
+[
+"Grigor Yeghiazaryan",
+12,
+[
+"Eghiazaryan, Grigor Eghiazari",
+"Gregori Egiazaryan",
+"Grigor Eghiazari Eghiazaryan",
+"Grigor Yeghiai Yeghiazarian",
+"Grigor Yeghiazarian",
+"Grigory Egiazarian"
+]
+],
+[
+"Rezo Lagidze",
+12,
+[
+"Revaz Laghidze",
+"Revaz Lagidze",
+"Rezo Laghidze"
+]
+],
+[
+"Yulii Meitus",
+12,
+[
+"Julij Meitus",
+"Yuli Meitus",
+"Yuliy Meitus",
+"Yuliy Sergeievitch Meitus",
+"Yuliy Serhiyovych Meitus",
+"Yuliy Serhiyovych Meytus",
+"Yuly Meytus",
+"Yuly Sergeyevich Meytus"
+]
+],
+[
+"Marilyn Bergman",
+12,
+[
+"Marilyn Katz",
+"Marilyn Keith Bergman"
+]
+],
+[
+"Andrii Shtoharenko",
+12,
+[
+"Andrey Shtogarenko",
+"Andrey Yakovlevich Shtogarenko",
+"Andriy Shtoharenko"
+]
+],
+[
+"John Joubert",
+12,
+[
+"John Pierre Herman Joubert"
+]
+],
+[
+"Arseny Koreshchenko",
+12,
+[
+"Arseny Nikolayevich Koreshchenko"
+]
+],
+[
+"Roman Palester",
+12,
+[]
+],
+[
+"Erzsébet Szőnyi",
+12,
+[
+"Erzsebet Szilagyi",
+"Erzsebet Szönyi",
+"Szilágyi Erzsébet"
+]
+],
+[
+"Julius Weismann",
+12,
+[]
+],
+[
+"Bogusław Schaeffer",
+12,
+[
+"Bogusław Schäffer"
+]
+],
+[
+"Henriëtte Bosmans",
+12,
+[]
+],
+[
+"André Hossein",
+12,
+[
+"Aminhoulla Hosseinhoff",
+"Aminulla Huseynov",
+"Andre Hossein"
+]
+],
+[
+"Amédée Méreaux",
+12,
+[
+"Amedee Mereaux",
+"Amedée Meseaux",
+"Jean-Amédée Lefroid de Méreaux"
+]
+],
+[
+"Anatoly Nikolayevich Alexandrov",
+12,
+[
+"Anatoly Aleksandrov"
+]
+],
+[
+"Juan Hidalgo de Polanco",
+12,
+[
+"Juan Hidalgo"
+]
+],
+[
+"Ahn Eak-tai",
+12,
+[]
+],
+[
+"Helena Munktell",
+12,
+[
+"Helena Mathilda Munktell"
+]
+],
+[
+"Andreas Hallén",
+12,
+[
+"Andreas Hallen"
+]
+],
+[
+"Andrei Babayev",
+12,
+[
+"Andrei Avanesovich Babayev",
+"Andrei Babaev",
+"Andrej Babayev",
+"Andrey Babayev"
+]
+],
+[
+"Harry Ruby",
+12,
+[
+"Harry Rubenstein"
+]
+],
+[
+"Raimond Valgre",
+12,
+[]
+],
+[
+"András Mihály",
+12,
+[
+"Andras Mihaly"
+]
+],
+[
+"Gaspar Fernández",
+12,
+[
+"Gaspar Fernandes",
+"Gaspar Fernandez"
+]
+],
+[
+"Josef Wagner",
+12,
+[
+"J. F. Wagner",
+"Josef Franz Wagner"
+]
+],
+[
+"Angelo Berardi",
+12,
+[]
+],
+[
+"Christian Petzold",
+12,
+[]
+],
+[
+"Saul Chaplin",
+12,
+[]
+],
+[
+"Karl Anton Eckert",
+12,
+[
+"Karl Anton Florian Eckert"
+]
+],
+[
+"Bernhard Scholz",
+12,
+[
+"Bernhard Ernst Scholz"
+]
+],
+[
+"Waldo de los Ríos",
+12,
+[
+"Frank Ferrar",
+"Osvaldo Nicolás Ferraro Gutiérrez"
+]
+],
+[
+"Théodore Labarre",
+12,
+[
+"Joseph François Labarre"
+]
+],
+[
+"Heinrich Kaminski",
+12,
+[]
+],
+[
+"Christoph Schaffrath",
+12,
+[]
+],
+[
+"Wilhelm Grosz",
+12,
+[
+"Hugh Williams",
+"Peter DeGooreynd",
+"Will Grosz"
+]
+],
+[
+"Antonio Bartolomeo Bruni",
+12,
+[]
+],
+[
+"Antoni Lliteres",
+12,
+[
+"Antoni de Literes"
+]
+],
+[
+"Brian May",
+12,
+[]
+],
+[
+"Fred Fisher",
+12,
+[
+"Fred Fischer",
+"Jack Hancock",
+"John Hancock"
+]
+],
+[
+"Alberich Zwyssig",
+12,
+[
+"Johann Josef Maria Zwyssig"
+]
+],
+[
+"Ottokar Nováček",
+12,
+[
+"Ottokar Novacek"
+]
+],
+[
+"Julián Carrillo",
+12,
+[
+"Julian Carrillo",
+"Julián Carrillo Trujillo"
+]
+],
+[
+"Mark Fradkin",
+12,
+[
+"Mark Grigoryevich Fradkin"
+]
+],
+[
+"Johann Bernhard Bach the elder",
+12,
+[
+"Johann Bernhard Bach"
+]
+],
+[
+"Joachim Nicolas Eggert",
+12,
+[]
+],
+[
+"Theodore Oesten",
+12,
+[]
+],
+[
+"Giacomo Tritto",
+12,
+[
+"Giacomo Domenico Mario Antonio Pasquale Giuseppe Tritto"
+]
+],
+[
+"Frederick Corder",
+12,
+[
+"Baltasar Corder",
+"Frederic Corder"
+]
+],
+[
+"Boris Arapov",
+12,
+[
+"Boris Aleksandrovich Arapov"
+]
+],
+[
+"Liu Tianhua",
+12,
+[]
+],
+[
+"Witold Szalonek",
+12,
+[]
+],
+[
+"Gian Francesco de Majo",
+12,
+[
+"Gianfrancesco di Majo"
+]
+],
+[
+"Juan García Esquivel",
+12,
+[
+"Esquivel!",
+"Esquivel And His Orchestra",
+"Juan Garcia Esquivel"
+]
+],
+[
+"Victorin de Joncières",
+12,
+[
+"Victorin de Joncieres",
+"Victorine de Joncières",
+"Victorin Joncieres"
+]
+],
+[
+"Albert Szirmai",
+12,
+[
+"Albert Sirmai"
+]
+],
+[
+"Gaspar van Weerbeke",
+12,
+[]
+],
+[
+"Will Marion Cook",
+12,
+[
+"William Mercer Cook"
+]
+],
+[
+"Wilhelm Berger",
+12,
+[
+"Wilhelm Reinhard Berger"
+]
+],
+[
+"Hans Baumann",
+12,
+[]
+],
+[
+"August Söderman",
+12,
+[]
+],
+[
+"Augusto Algueró",
+12,
+[
+"August Algueró i Dasca"
+]
+],
+[
+"Louis Ganne",
+12,
+[
+"Louis-Gaston Ganne"
+]
+],
+[
+"Francisco Alonso",
+12,
+[
+"Francisco Alonso Lopez",
+"Francisco Alonso López"
+]
+],
+[
+"John Foulds",
+12,
+[
+"John Herbert Foulds"
+]
+],
+[
+"Zbigniew Turski",
+12,
+[]
+],
+[
+"Ben-Zion Orgad",
+12,
+[]
+],
+[
+"Ben Weisman",
+12,
+[
+"Mad Professor",
+"The Mad Professor"
+]
+],
+[
+"Benedetto Ferrari",
+12,
+[
+"Benito Ferrari"
+]
+],
+[
+"Tibor Harsányi",
+12,
+[
+"Tibor Harsanyi"
+]
+],
+[
+"Bidzina Kvernadze",
+12,
+[]
+],
+[
+"Fred Raymond",
+12,
+[
+"Friedrich Raimund Vesely"
+]
+],
+[
+"Pavel Bořkovec",
+12,
+[
+"Pavel Borkovec"
+]
+],
+[
+"Friedrich Witt",
+12,
+[
+"Friedrich Jeremias Witt"
+]
+],
+[
+"Peter Ludwig Hertel",
+12,
+[]
+],
+[
+"Blas Parera",
+12,
+[
+"Blas Parera Moret"
+]
+],
+[
+"Pista Dankó",
+12,
+[
+"Istvan Danko",
+"Pista Danko"
+]
+],
+[
+"François Rauber",
+12,
+[]
+],
+[
+"Christian Friedrich Witt",
+12,
+[
+"Friedrich Christian Witt"
+]
+],
+[
+"Domenico Mazzocchi",
+12,
+[]
+],
+[
+"Leon Kirchner",
+12,
+[]
+],
+[
+"Waldemar Thrane",
+12,
+[]
+],
+[
+"Eugen Kapp",
+12,
+[]
+],
+[
+"Jean Schneitzhoeffer",
+12,
+[
+"Jean Madeleine Marie Schneitzhoeffer"
+]
+],
+[
+"Grigory Frid",
+12,
+[
+"Grigory Samuilovich Frid"
+]
+],
+[
+"Edwin Carr",
+12,
+[
+"Edwin James Nairn Carr"
+]
+],
+[
+"Cesare Andrea Bixio",
+12,
+[
+"Cesare Bixio"
+]
+],
+[
+"Josef Proksch",
+12,
+[]
+],
+[
+"Maurice Delage",
+12,
+[
+"Maurice Charles Delage"
+]
+],
+[
+"Mauricio Ohana",
+12,
+[]
+],
+[
+"Julio de Caro",
+12,
+[]
+],
+[
+"Armstrong Gibbs",
+11,
+[
+"C. Armstrong Gibbs",
+"Cecil Armstrong Gibbs",
+"Cecil Gibbs"
+]
+],
+[
+"Romualdo Marenco",
+11,
+[]
+],
+[
+"Ettore Panizza",
+11,
+[
+"Hector Panizza",
+"Héctor Panizza"
+]
+],
+[
+"Claude Delvincourt",
+11,
+[]
+],
+[
+"Rasmus Berthelsen",
+11,
+[
+"Rasmus Storm Josva Berthel Berthelsen"
+]
+],
+[
+"Cristofano Malvezzi",
+11,
+[]
+],
+[
+"Giovanni Marco Rutini",
+11,
+[]
+],
+[
+"István Láng",
+11,
+[
+"Istvan Lang",
+"Lang István",
+"Láng István"
+]
+],
+[
+"David Buttolph",
+11,
+[
+"James David Buttolph"
+]
+],
+[
+"Ivory Joe Hunter",
+11,
+[
+"The Baron of the Boogie",
+"The Happiest Man Alive"
+]
+],
+[
+"Zhanna Kolodub",
+11,
+[
+"Zhanna Yukhymivna Kolodub"
+]
+],
+[
+"Stepan Charnetsky",
+11,
+[
+"Stepan Charnetskii",
+"Stepan Charnetskyi",
+"Stepan Charnetskyj"
+]
+],
+[
+"Tiberiu Olah",
+11,
+[
+"Tibor Olah",
+"Tibor Oláh"
+]
+],
+[
+"Marcello Giombini",
+11,
+[]
+],
+[
+"Jacques Berthier",
+11,
+[]
+],
+[
+"Ede Poldini",
+11,
+[
+"Edouard Poldini"
+]
+],
+[
+"Dwijendralal Ray",
+11,
+[
+"D. L. Roy",
+"Dwijendralal Roy"
+]
+],
+[
+"John Scott",
+11,
+[
+"Johnny Scott",
+"Patrick John O'Hara Scott",
+"Patrick John Scott"
+]
+],
+[
+"Eduard Toldrà",
+11,
+[
+"Eduard Toldra"
+]
+],
+[
+"Morton Stevens",
+11,
+[
+"Morton Aaron Suckno"
+]
+],
+[
+"Sven-Erik Bäck",
+11,
+[]
+],
+[
+"Vittorio Giannini",
+11,
+[]
+],
+[
+"Peder Gram",
+11,
+[]
+],
+[
+"Edmund Crispin",
+11,
+[
+"Bruce Montgomery",
+"Robert Bruce Montgomery"
+]
+],
+[
+"Serge Nigg",
+11,
+[]
+],
+[
+"Pedro de Escobar",
+11,
+[]
+],
+[
+"Thomas de Hartmann",
+11,
+[
+"Thomas Alexandrovich de Hartmann",
+"Thomas Von Hartmann"
+]
+],
+[
+"Michel Magne",
+11,
+[]
+],
+[
+"Feliksas Romualdas Bajoras",
+11,
+[]
+],
+[
+"Giuseppe Farinelli",
+11,
+[
+"Giuseppe Francesco Finco"
+]
+],
+[
+"Flor Alpaerts",
+11,
+[]
+],
+[
+"Brian Easdale",
+11,
+[]
+],
+[
+"George Lloyd",
+11,
+[]
+],
+[
+"Georges Boulanger",
+11,
+[]
+],
+[
+"Stu Phillips",
+11,
+[]
+],
+[
+"Harry Von Tilzer",
+11,
+[]
+],
+[
+"Johann Friedrich Kittl",
+11,
+[
+"Jan Bedřich Johann Friedrich Kittl"
+]
+],
+[
+"Hikaru Hayashi",
+11,
+[]
+],
+[
+"Rauno Lehtinen",
+11,
+[]
+],
+[
+"Frank Skinner",
+11,
+[]
+],
+[
+"Jacques Aubert",
+11,
+[]
+],
+[
+"Jean-Louis Tulou",
+11,
+[]
+],
+[
+"Joseph Daussoigne-Méhul",
+11,
+[
+"Joseph Daussoigne-Mehul"
+]
+],
+[
+"Maurice Le Roux",
+11,
+[]
+],
+[
+"Ludwig Siegfried Meinardus",
+11,
+[]
+],
+[
+"Launy Grøndahl",
+11,
+[]
+],
+[
+"Pietro Abbà Cornaglia",
+11,
+[
+"Pietro Abba Cornaglia",
+"Pietro Abbà‐Cornaglia"
+]
+],
+[
+"Marcel Grandjany",
+11,
+[
+"Marcel Georges Lucien Grandjany"
+]
+],
+[
+"Matthijs Vermeulen",
+11,
+[]
+],
+[
+"Valdir Azevedo",
+11,
+[
+"Waldir Azevedo"
+]
+],
+[
+"Mitch Leigh",
+11,
+[
+"Irwin Michnik"
+]
+],
+[
+"Michio Miyagi",
+11,
+[]
+],
+[
+"Mordecai Seter",
+11,
+[
+"Mordechai Seter"
+]
+],
+[
+"Nikolay Peyko",
+11,
+[
+"Nikolai Ivanovich Peiko",
+"Nikolay Ivanovich Peyko"
+]
+],
+[
+"Albert Grisar",
+11,
+[]
+],
+[
+"Pietro Domenico Paradisi",
+11,
+[
+"Pietro Domenico Paradies"
+]
+],
+[
+"Louis-Luc Loiseau de Persuis",
+11,
+[]
+],
+[
+"Alessandro Nini",
+11,
+[]
+],
+[
+"Berthold Goldschmidt",
+11,
+[]
+],
+[
+"Ignatz Waghalter",
+11,
+[
+"Ignaz Waghalter"
+]
+],
+[
+"Joseph Horovitz",
+11,
+[]
+],
+[
+"Ralph Erwin",
+11,
+[]
+],
+[
+"Russ Morgan",
+11,
+[
+"Russell Morgan"
+]
+],
+[
+"Dolf van der Linden",
+11,
+[
+"David Gijsbert van der Linden"
+]
+],
+[
+"Sergey Balasanian",
+11,
+[
+"Sargis Balasanyan",
+"Sergey Artemyevich Balasanian",
+"Sergey Artemyevich Balasanyan",
+"Sergey Balasanyan"
+]
+],
+[
+"Josep Anselm Clavé",
+11,
+[
+"Anselm Clavé",
+"Josep Anselm Clavé i Camps"
+]
+],
+[
+"Ikuma Dan",
+11,
+[]
+],
+[
+"Tobias Haslinger",
+11,
+[]
+],
+[
+"Arkady Ostrovsky",
+11,
+[
+"Arkadiĭ Ostrovskiĭ",
+"Arkady Ilich Ostrovsky",
+"Avraam Ilyich Ostrovsky",
+"Avraam Ostrovsky"
+]
+],
+[
+"Ivan Dzerzhinsky",
+11,
+[
+"Ivan Ivanovich Dzerzhinsky"
+]
+],
+[
+"Vadim Petrov",
+11,
+[]
+],
+[
+"Frédéric Bérat",
+11,
+[
+"Frederic Berat",
+"Frédéric Berat"
+]
+],
+[
+"Laurence Henry Hicks",
+11,
+[]
+],
+[
+"Arkady Filippenko",
+11,
+[
+"Arkady Dmitriyevich Filipenko",
+"Arkady Dmitriyevich Filippenko",
+"Arkady Filipenko"
+]
+],
+[
+"Marcel Delannoy",
+11,
+[]
+],
+[
+"Natale Abbadia",
+11,
+[]
+],
+[
+"Cornel Țăranu",
+11,
+[]
+],
+[
+"Harry Tierney",
+11,
+[
+"Harry Austin Tierney"
+]
+],
+[
+"Émile Paladilhe",
+11,
+[
+"Emile Paladihle",
+"Emile Paladilhe",
+"Paladilhe"
+]
+],
+[
+"Benjamin Frankel",
+11,
+[]
+],
+[
+"Matthaeus Pipelare",
+11,
+[]
+],
+[
+"Nina Makarova",
+11,
+[
+"Nina Vladimirovna Makarova"
+]
+],
+[
+"Henry Clay Work",
+11,
+[
+"Henry C. Work"
+]
+],
+[
+"Franco Mannino",
+11,
+[]
+],
+[
+"Vincent Scotto",
+11,
+[
+"Vincent Baptiste Scotto"
+]
+],
+[
+"Henry Février",
+11,
+[
+"Henry Fevrier"
+]
+],
+[
+"Stan Jones",
+11,
+[
+"Stanley Davis Jones"
+]
+],
+[
+"Siegfried Matthus",
+11,
+[]
+],
+[
+"Rudolf Karel",
+11,
+[]
+],
+[
+"Fidelio F. Finke",
+11,
+[]
+],
+[
+"Carlo Pallavicino",
+11,
+[
+"Pallavicini"
+]
+],
+[
+"Hanns Jelinek",
+11,
+[]
+],
+[
+"Federigo Fiorillo",
+11,
+[]
+],
+[
+"Lionel Bart",
+11,
+[
+"Lionel Begleiter"
+]
+],
+[
+"Alessandro Cicognini",
+11,
+[
+"Alessandro Icini",
+"Cini",
+"Icini"
+]
+],
+[
+"Eduardo Arolas",
+11,
+[]
+],
+[
+"Cyril J. Mockridge",
+11,
+[]
+],
+[
+"Marie Emmanuelle Bayon Louis",
+11,
+[
+"Marie-Emmanuelle Bayon Louis"
+]
+],
+[
+"L. Wolfe Gilbert",
+11,
+[
+"Louis Wolfe Gilbert"
+]
+],
+[
+"Anil Biswas",
+11,
+[
+"Anil Krishna Biswas"
+]
+],
+[
+"Herbert L. Clarke",
+11,
+[
+"Herbert Lincoln Clarke"
+]
+],
+[
+"Poul Schierbeck",
+11,
+[]
+],
+[
+"Emmy Köhler",
+11,
+[]
+],
+[
+"Sheldon Allman",
+11,
+[]
+],
+[
+"František Drdla",
+11,
+[
+"Frantisek Drdla",
+"Franz Drdla"
+]
+],
+[
+"Tom Adair",
+11,
+[]
+],
+[
+"Vittorio Rieti",
+11,
+[]
+],
+[
+"Alexis de Castillon",
+11,
+[
+"Marie-Alexis de Castillon de Saint-Victor"
+]
+],
+[
+"Georges Hüe",
+11,
+[]
+],
+[
+"Ted Koehler",
+11,
+[
+"Ted L. Koehler"
+]
+],
+[
+"Giuseppe Becce",
+11,
+[]
+],
+[
+"Ernö Rapée",
+11,
+[
+"Ernest Rappaport",
+"Erno Rapeé"
+]
+],
+[
+"Manuel Fernández Caballero",
+11,
+[
+"Manuel Fernandez Caballero"
+]
+],
+[
+"Francesco Paolo Frontini",
+11,
+[]
+],
+[
+"Gustavo Becerra-Schmidt",
+11,
+[]
+],
+[
+"Leroy Shield",
+11,
+[
+"Leroy Bernard Shield",
+"Leroy Bernard Shield (1893-1962)",
+"LeRoy Shield"
+]
+],
+[
+"Efrem Kurtz",
+11,
+[]
+],
+[
+"Niccolò da Perugia",
+11,
+[
+"Niccolo da Perugia"
+]
+],
+[
+"Simon Jurovsky",
+11,
+[]
+],
+[
+"Riccardo Pick-Mangiagalli",
+11,
+[]
+],
+[
+"Wedgwood Nowell",
+11,
+[]
+],
+[
+"Wenzel Robert von Gallenberg",
+11,
+[
+"Wenzel Robert, Graf von Gallenberg"
+]
+],
+[
+"Tofig Bakikhanov",
+11,
+[
+"Tofig Ahmed-agha oglu Bakikhanov"
+]
+],
+[
+"Eduard Kolmanovsky",
+11,
+[
+"Eduard Savelievich Kolmanovsky",
+"Eduard Savelyevich Kolmanovsky"
+]
+],
+[
+"Pierre Sancan",
+11,
+[]
+],
+[
+"Nicolas Bernier",
+11,
+[]
+],
+[
+"Villem Kapp",
+11,
+[]
+],
+[
+"Jacob Druckman",
+11,
+[
+"Jacob Raphael Druckman"
+]
+],
+[
+"Alessandro Alessandroni",
+11,
+[]
+],
+[
+"Jean-Claude Trial",
+11,
+[]
+],
+[
+"Erik Nordgren",
+11,
+[]
+],
+[
+"Heinz Eric Roemheld",
+11,
+[
+"Heinz Roemheld"
+]
+],
+[
+"Franciszek Mirecki",
+11,
+[]
+],
+[
+"Leopoldo Miguez",
+11,
+[]
+],
+[
+"Ingeborg Bronsart von Schellendorf",
+11,
+[
+"Ingeborg Lena Starck",
+"Ingeborg von Bronsart"
+]
+],
+[
+"Kay Swift",
+11,
+[
+"Katharine Faulkner \"Kay\" Swift",
+"Katherine Swift"
+]
+],
+[
+"Fodéba Keita",
+11,
+[
+"Fodeba Keita",
+"Keita Fodéba"
+]
+],
+[
+"Marcel Mihalovici",
+11,
+[]
+],
+[
+"Hermann Wolfgang von Waltershausen",
+11,
+[
+"Hermann Wolfgang Sartorius Freiherr von Waltershausen"
+]
+],
+[
+"Arthur Somervell",
+11,
+[
+"Sir Arthur Somervell"
+]
+],
+[
+"Masao Koga",
+11,
+[]
+],
+[
+"Eduardo Fabini",
+11,
+[]
+],
+[
+"Andrei Volkonsky",
+11,
+[
+"André Volkonsky",
+"Andrey Mikhailovich Volkonsky",
+"Andrey Volkonsky"
+]
+],
+[
+"August Klughardt",
+11,
+[
+"August Friedrich Martin Klughardt"
+]
+],
+[
+"Jeff Alexander",
+11,
+[
+"Myer Alexander"
+]
+],
+[
+"Pierre Guédron",
+11,
+[
+"Pierre Guedron"
+]
+],
+[
+"Doreen Carwithen",
+11,
+[
+"Doreen Mary Carwithen",
+"Mary Alwyn"
+]
+],
+[
+"Ludwig Schuncke",
+11,
+[
+"Christian Ludwig Schuncke"
+]
+],
+[
+"Filip Kutev",
+11,
+[
+"Koutev, Filip",
+"Koutev, Philip",
+"Koutev, Philippe",
+"Koutev, Phillipe",
+"Kutev, F. (Filip)",
+"Kutev, Philip"
+]
+],
+[
+"Fortunato Chelleri",
+11,
+[]
+],
+[
+"Joseph Schuster",
+11,
+[]
+],
+[
+"Johann Vogel",
+11,
+[
+"Johann Christoph Vogel"
+]
+],
+[
+"Giuseppe de Majo",
+11,
+[
+"Giuseppe di Majo"
+]
+],
+[
+"Hal Davis",
+11,
+[
+"Harold Edward Davis"
+]
+],
+[
+"Albert Becker",
+11,
+[
+"Albert Ernst Anton Becker"
+]
+],
+[
+"Hossein Dehlavi",
+11,
+[]
+],
+[
+"John Fane, 11th Earl of Westmorland",
+11,
+[
+"John Fane",
+"John F Westmorland",
+"Lord Burghersh"
+]
+],
+[
+"Rudolf Escher",
+11,
+[
+"Rudolf George Escher"
+]
+],
+[
+"Antonio Buzzolla",
+11,
+[]
+],
+[
+"Ingvar Lidholm",
+11,
+[
+"Ingvar Natanael Lidholm"
+]
+],
+[
+"Kazuo Yamada",
+11,
+[]
+],
+[
+"Sylvia Fine",
+11,
+[
+"Sylvia Fine Kaye"
+]
+],
+[
+"Fini Henriques",
+11,
+[
+"Valdemar Fini Henriques"
+]
+],
+[
+"Veniamin Basner",
+11,
+[
+"Veniamin Efimovich Basner",
+"Veniamin Yefimovich Basner"
+]
+],
+[
+"Gioacchino Cocchi",
+11,
+[]
+],
+[
+"Hermann Suter",
+11,
+[]
+],
+[
+"Heinz Tiessen",
+11,
+[
+"Richard Gustav Heinz Tiessen"
+]
+],
+[
+"Georg Reutter II",
+11,
+[]
+],
+[
+"Evgeny Golubev",
+11,
+[
+"Yevgeny Kirillovich Golubev"
+]
+],
+[
+"Nicola Sala",
+11,
+[]
+],
+[
+"Otakar Jeremiáš",
+11,
+[
+"Otakar Jeremias"
+]
+],
+[
+"Kang Bûn-iā",
+11,
+[
+"Bun'ya Kō",
+"Bunya Koh",
+"Chiang Wen-yeh",
+"Jiang Wen-Ye",
+"Kang Bun-ia",
+"Kang Bûn-pin",
+"Kong Vun-ya"
+]
+],
+[
+"Marchetto Cara",
+11,
+[
+"Marco Cara"
+]
+],
+[
+"Leonardo Balada",
+11,
+[]
+],
+[
+"Rubin Goldmark",
+11,
+[]
+],
+[
+"Teng Yu-hsien",
+11,
+[
+"Deng Yuxian",
+"Tēng Ú-hiân",
+"Then Yí-hièn"
+]
+],
+[
+"James Tenney",
+11,
+[]
+],
+[
+"Carlo Savina",
+11,
+[]
+],
+[
+"Georges Migot",
+11,
+[]
+],
+[
+"Francisco José Debali",
+11,
+[
+"Francisco Jose Debali"
+]
+],
+[
+"Santiago de Murcia",
+11,
+[]
+],
+[
+"Jean Richafort",
+11,
+[]
+],
+[
+"Edmund Kretschmer",
+11,
+[
+"Carl Franz Edmund Kretschmer"
+]
+],
+[
+"Rajeev Taranath",
+11,
+[]
+],
+[
+"Gene de Paul",
+11,
+[
+"Gene Vincent de Paul"
+]
+],
+[
+"Regino Sainz de la Maza",
+11,
+[]
+],
+[
+"Çesk Zadeja",
+11,
+[]
+],
+[
+"Alberto Mazzucato",
+11,
+[]
+],
+[
+"Hoyt Curtin",
+11,
+[
+"Hoyt S. Curtin",
+"Hoyt Stoddard Curtin"
+]
+],
+[
+"Feliks Nowowiejski",
+11,
+[]
+],
+[
+"Joachim-Ernst Berendt",
+11,
+[
+"Joachim E. Berendt",
+"Joachim Ernst Behrend",
+"Joachim Ernst Behrendt",
+"Joachim-Ernst Behrendt",
+"Joachim Ernst Berendt"
+]
+],
+[
+"William Horsley",
+11,
+[]
+],
+[
+"Ben Johnston",
+11,
+[
+"Benjamin Burwell Johnston, Jr."
+]
+],
+[
+"Andrew Caldecott",
+11,
+[
+"Sir Andrew Caldecott"
+]
+],
+[
+"Alfred Jean Baptiste Lemaire",
+11,
+[
+"Alfred Jean-Baptiste Lemaire"
+]
+],
+[
+"Blas Galindo",
+11,
+[
+"Blas Galindo Dimas"
+]
+],
+[
+"Manuel Oltra",
+11,
+[
+"Manuel Oltra i Ferrer"
+]
+],
+[
+"Sidney Jones",
+11,
+[
+"James Sidney Jones",
+"Sydney Jones"
+]
+],
+[
+"Christian Frederik Emil Horneman",
+11,
+[
+"C.F.E. Horneman"
+]
+],
+[
+"Jan Hanuš",
+11,
+[
+"Jan Hanus"
+]
+],
+[
+"Murray Adaskin",
+11,
+[]
+],
+[
+"John Fernström",
+11,
+[]
+],
+[
+"Gennaro Astarita",
+11,
+[]
+],
+[
+"Karel Bendl",
+11,
+[
+"Karl Bendl"
+]
+],
+[
+"Harry Akst",
+11,
+[]
+],
+[
+"Peter Thomas",
+11,
+[]
+],
+[
+"Tadeusz Szeligowski",
+11,
+[]
+],
+[
+"Georges Van Parys",
+11,
+[
+"Georges Eugène Émile Van Parÿs"
+]
+],
+[
+"Louis Fürnberg",
+11,
+[]
+],
+[
+"Bruno Barilli",
+11,
+[
+"Bruno Barili"
+]
+],
+[
+"Buddy Baker",
+10,
+[
+"Norman \"Buddy\" Baker",
+"Norman Dale Baker",
+"Norman Dale \"Buddy\" Baker"
+]
+],
+[
+"Carl Martin Reinthaler",
+10,
+[
+"Karl Martin Reinthaler",
+"Karl Reinthaler"
+]
+],
+[
+"Ettore Petrolini",
+10,
+[]
+],
+[
+"Luciano Chailly",
+10,
+[]
+],
+[
+"Pietro Garinei",
+10,
+[]
+],
+[
+"Christian Cappelen",
+10,
+[]
+],
+[
+"Felice Alessandri",
+10,
+[]
+],
+[
+"Jaume Nunó",
+10,
+[
+"Jaime Nuno"
+]
+],
+[
+"Paul Burkhard",
+10,
+[]
+],
+[
+"David Holt",
+10,
+[]
+],
+[
+"P. D. Q. Bach",
+10,
+[]
+],
+[
+"Johannes Ghiselin",
+10,
+[
+"Ghiselin",
+"Verbonnet"
+]
+],
+[
+"Giusto Pio",
+10,
+[]
+],
+[
+"Fritz Brun",
+10,
+[]
+],
+[
+"Charles Albert Tindley",
+10,
+[]
+],
+[
+"J. Fred Coots",
+10,
+[]
+],
+[
+"George Thomas Smart",
+10,
+[
+"George Smart",
+"Sir George Thomas Smart"
+]
+],
+[
+"Thomas Laub",
+10,
+[
+"Thomas Linnemann Laub"
+]
+],
+[
+"Francisco Valls Galán",
+10,
+[
+"Francesc Valls i Galan",
+"Francesc Valls i Galán",
+"Francisco Valls Galan"
+]
+],
+[
+"Hjalmar Borgstrøm",
+10,
+[]
+],
+[
+"Fernando Previtali",
+10,
+[]
+],
+[
+"Luis Gianneo",
+10,
+[]
+],
+[
+"Julián Aguirre",
+10,
+[
+"Julian Aguirre"
+]
+],
+[
+"Siegfried Köhler",
+10,
+[]
+],
+[
+"Pierre-Octave Ferroud",
+10,
+[]
+],
+[
+"Osvaldo Fresedo",
+10,
+[]
+],
+[
+"Joaquim Homs",
+10,
+[
+"Joaquim Homs i Oller"
+]
+],
+[
+"Richard Arnell",
+10,
+[
+"Richard Anthony Sayer (\"Tony\") Arnell",
+"Tony Arnell"
+]
+],
+[
+"Joji Yuasa",
+10,
+[
+"George Yuasa",
+"Yuasa Jōji"
+]
+],
+[
+"Jindřich Feld",
+10,
+[
+"Jindrich Feld",
+"Jindřich Feld the younger"
+]
+],
+[
+"Jarmil Burghauser",
+10,
+[
+"Jarmil Michael Burghauser"
+]
+],
+[
+"Alfred Desenclos",
+10,
+[]
+],
+[
+"Ronald Binge",
+10,
+[]
+],
+[
+"Oscar Lorenzo Fernández",
+10,
+[
+"Oscar Lorenzo Fernandez",
+"Oscar Lorenzo Fernândez"
+]
+],
+[
+"Sembiin Gonchigsumlaa",
+10,
+[
+"Sèmbijn Gončigsumlaa"
+]
+],
+[
+"Ferdinand Poise",
+10,
+[
+"Jean Alexandre Ferdinand Poise"
+]
+],
+[
+"Francisco Escudero",
+10,
+[]
+],
+[
+"Suleĭman Aleskerov",
+10,
+[]
+],
+[
+"George Walker",
+10,
+[
+"George Theophilus Walker",
+"George T. Walker"
+]
+],
+[
+"Pietro Yon",
+10,
+[
+"Pietro Alessandro Yon"
+]
+],
+[
+"António Leal Moreira",
+10,
+[
+"Antonio Leal Moreira"
+]
+],
+[
+"Yevhen Adamtsevych",
+10,
+[
+"Evgen Adamcevic",
+"Evgen Oleksandrovic Adamcevic",
+"Ievhen Adamtsevych",
+"Ievhen Oleksandrovych Adamtsevych",
+"Yevhen Oleksandrovych Adamtsevych"
+]
+],
+[
+"Nevit Kodallı",
+10,
+[]
+],
+[
+"Giorgio Mainerio",
+10,
+[]
+],
+[
+"Georgie Stoll",
+10,
+[
+"George E. Stoll",
+"George Stoll"
+]
+],
+[
+"Mario Pasquale Costa",
+10,
+[
+"Pasquale Mario Costa"
+]
+],
+[
+"Lora Aborn",
+10,
+[
+"Lora Aborn Busck"
+]
+],
+[
+"Joseph Meyer",
+10,
+[]
+],
+[
+"Harry M. Woods",
+10,
+[
+"Harry Woods",
+"Henry MacGregor Woods"
+]
+],
+[
+"Alfred Bachelet",
+10,
+[]
+],
+[
+"Harry Owens",
+10,
+[]
+],
+[
+"Howard Dietz",
+10,
+[]
+],
+[
+"Ilja Zeljenka",
+10,
+[]
+],
+[
+"Paolo Serrao",
+10,
+[]
+],
+[
+"Johnny Marks",
+10,
+[
+"John David Marks",
+"John D. Marks"
+]
+],
+[
+"Josef Leopold Zvonař",
+10,
+[
+"Josef Leopold Zvonar"
+]
+],
+[
+"Julian Edwards",
+10,
+[]
+],
+[
+"Julius Juzeliūnas",
+10,
+[]
+],
+[
+"Józef Świder",
+10,
+[]
+],
+[
+"Mikhail Chulaki",
+10,
+[
+"Mikhail Ivanovich Chulaki"
+]
+],
+[
+"Nicolas Saboly",
+10,
+[]
+],
+[
+"Catharinus Elling",
+10,
+[]
+],
+[
+"Leo F. Forbstein",
+10,
+[
+"Leo Frank Forbstein"
+]
+],
+[
+"Tauno Marttinen",
+10,
+[]
+],
+[
+"Nicolò Gabrielli",
+10,
+[
+"Nicola Gabrielli",
+"Nicolo Gabrielli"
+]
+],
+[
+"Harry Bannink",
+10,
+[]
+],
+[
+"Vladimir Dashkevich",
+10,
+[
+"Vladimir Sergeevich Dashkevich",
+"Vladimir Sergeyevich Dashkevich"
+]
+],
+[
+"Roger Quilter",
+10,
+[
+"Roger Cuthbert Quilter",
+"Romney Marsh",
+"Ronald Quinton"
+]
+],
+[
+"Nicholas Brodzsky",
+10,
+[]
+],
+[
+"Salix Säydäşef",
+10,
+[
+"Salikh Zamaletdinovich Saydashev"
+]
+],
+[
+"Jacques Buus",
+10,
+[]
+],
+[
+"Sandrin",
+10,
+[
+"Pierre Regnault",
+"Pierre Sandrin"
+]
+],
+[
+"Vic Mizzy",
+10,
+[
+"Victor Mizzy"
+]
+],
+[
+"Boris Mokrousov",
+10,
+[
+"Boris Andreyevich Mokrousov"
+]
+],
+[
+"Sasha Argov",
+10,
+[
+"Argov, Alexander"
+]
+],
+[
+"Leslie Stuart",
+10,
+[]
+],
+[
+"Boris von Vietinghoff-Scheel",
+10,
+[
+"Boris Aleksandrovič Fitingof-Šel",
+"Boris Fitinhof-Schell"
+]
+],
+[
+"Helmer Alexandersson",
+10,
+[]
+],
+[
+"Stefano Pavesi",
+10,
+[]
+],
+[
+"Ernst Anschütz",
+10,
+[
+"Ernst Gebhard Salomon Anschütz"
+]
+],
+[
+"Hermann Zilcher",
+10,
+[]
+],
+[
+"Rudolf Nelson",
+10,
+[
+"Rudolf Lewysohn"
+]
+],
+[
+"Luvsanjambyn Mördorj",
+10,
+[
+"Luvsanžambyn Môrdorž"
+]
+],
+[
+"Bilegiin Damdinsüren",
+10,
+[
+"Bileg Damdinsuren"
+]
+],
+[
+"Herman David Koppel",
+10,
+[
+"Herman D. Koppel"
+]
+],
+[
+"Edmund Eysler",
+10,
+[
+"Edmund Samuel Eysler"
+]
+],
+[
+"Jacopo Foroni",
+10,
+[]
+],
+[
+"Domenico Alaleona",
+10,
+[]
+],
+[
+"Licinio Refice",
+10,
+[]
+],
+[
+"Davide Perez",
+10,
+[
+"David Perez"
+]
+],
+[
+"Giuseppe Persiani",
+10,
+[]
+],
+[
+"Stanko Premrl",
+10,
+[]
+],
+[
+"Pablo Luna",
+10,
+[]
+],
+[
+"Bernard van Dieren",
+10,
+[
+"Helen Bevan Dean"
+]
+],
+[
+"Juan de Dios Filiberto",
+10,
+[
+"Filiberto"
+]
+],
+[
+"Harry Betts",
+10,
+[
+"Harold Richard Betts"
+]
+],
+[
+"Carles Baguer",
+10,
+[
+"Carles Baguer i Mariner",
+"Carlos Baguer"
+]
+],
+[
+"Marios Varvoglis",
+10,
+[
+"Marios Várvoghlis"
+]
+],
+[
+"Cristóbal Oudrid",
+10,
+[
+"Cristobal Carlos Domingo Romualdo y Ricardo Oudrid y Segura",
+"Cristóbal Carlos Domingo Romualdo y Ricardo Oudrid y Segura",
+"Cristobal Oudrid"
+]
+],
+[
+"Leif Kayser",
+10,
+[]
+],
+[
+"Jerome Moross",
+10,
+[]
+],
+[
+"Bo Linde",
+10,
+[]
+],
+[
+"Gunnar Bucht",
+10,
+[
+"Gunnar Henrik Bucht"
+]
+],
+[
+"Aita Donostia",
+10,
+[
+"José Antonio de Donostia",
+"José Gonzalo Zulaica Arregui",
+"José Gonzalo Zulaika"
+]
+],
+[
+"Antoine de Févin",
+10,
+[
+"Antoine de Fevin"
+]
+],
+[
+"Émile Jonas",
+10,
+[
+"Emile Jonas"
+]
+],
+[
+"Arnoul Gréban",
+10,
+[
+"Arnoul Greban"
+]
+],
+[
+"Marc Lavry",
+10,
+[]
+],
+[
+"Bernard Rands",
+10,
+[]
+],
+[
+"Tomaso Benvenuti",
+10,
+[
+"Tomasso Benvenuti"
+]
+],
+[
+"August Winding",
+10,
+[
+"August Hendrik Winding"
+]
+],
+[
+"Padú del Caribe",
+10,
+[
+"Juan Chabaya Lampe",
+"Padu del Caribe",
+"Padu Del Caribe",
+"Padu Lampe"
+]
+],
+[
+"Aaron Schroeder",
+10,
+[
+"Aaron Harold Schroder",
+"Aaron Harold Schroeder",
+"Aaron H. Schroder"
+]
+],
+[
+"Emil Newman",
+10,
+[]
+],
+[
+"Josep Maria Mestres i Quadreny",
+10,
+[
+"Josep Maria Mestres",
+"Josep Maria Mestres Quadreny"
+]
+],
+[
+"Gordon Getty",
+10,
+[
+"Gordon Peter Getty",
+"Gordon P. Getty"
+]
+],
+[
+"Stanley Black",
+10,
+[]
+],
+[
+"Günter Bialas",
+10,
+[
+"Gunter Bialas",
+"Günter Friedrich Bialas"
+]
+],
+[
+"Friedrich Wilhelm Rust",
+10,
+[]
+],
+[
+"James James",
+10,
+[
+"Iago ap Ieuan"
+]
+],
+[
+"Abel Decaux",
+10,
+[
+"Abel-Marie Alexis Decaux",
+"Abel-Marie Decaux"
+]
+],
+[
+"Ron Grainer",
+10,
+[
+"Ronald Erie Grainer",
+"Ronald Erle Grainer"
+]
+],
+[
+"Georg Abraham Schneider",
+10,
+[]
+],
+[
+"Harold Gramatges",
+10,
+[]
+],
+[
+"William Batchelder Bradbury",
+10,
+[
+"W. B. Bradbury",
+"W. B. Bradbury",
+"William B. Bradbury",
+"William Bradbury",
+"Wm. B. Bradbury"
+]
+],
+[
+"Franz Xaver Murschhauser",
+10,
+[
+"Franz Xaver Anton Murschhauser"
+]
+],
+[
+"Ruben Liljefors",
+10,
+[
+"Ruben Mathias Liljefors",
+"Ruben Mattias Liljefors"
+]
+],
+[
+"Louiguy",
+10,
+[
+"Louis Guglielmi",
+"Louis Guillaume Guglielmi",
+"Louis Guy",
+"Luis Guglielmo Guglielmi"
+]
+],
+[
+"Gustaf Düben",
+10,
+[
+"Gustaf Düben D.Ä.",
+"Gustaf Dyben, orchestra-master"
+]
+],
+[
+"Francesco Manelli",
+10,
+[
+"Francesco Manelli o Mannelli",
+"Francesco Mannelli"
+]
+],
+[
+"Carles Suriñach",
+10,
+[
+"Carlos Lund"
+]
+],
+[
+"Olof Åhlström",
+10,
+[]
+],
+[
+"Manuel Alejandro",
+10,
+[
+"Manuel Álvarez-Beigbeder Pérez"
+]
+],
+[
+"Jan Stefani",
+10,
+[]
+],
+[
+"Mario Aspa",
+10,
+[]
+],
+[
+"Sadao Bekku",
+10,
+[
+"Bekku Sadao"
+]
+],
+[
+"Jussi Jalas",
+10,
+[
+"Armas Jussi Veikko Jalas",
+"Jussi Blomstedt"
+]
+],
+[
+"Johann Hartmann",
+10,
+[
+"Johann Ernst Hartmann"
+]
+],
+[
+"Li Jinhui",
+10,
+[]
+],
+[
+"Todor Skalovski",
+10,
+[]
+],
+[
+"Ferdinand Kauer",
+10,
+[
+"Ferdinand August Kauer"
+]
+],
+[
+"Adam Drese",
+10,
+[]
+],
+[
+"Miriam Hyde",
+10,
+[
+"Miriam Beatrice Hyde"
+]
+],
+[
+"T. K. Ramamoorthy",
+10,
+[
+"Tiruchirapalli Krishnaswamy Ramamoorthy"
+]
+],
+[
+"Dan Emmett",
+10,
+[
+"Dan D. Emmett",
+"Daniel Decatur Emmett",
+"D. D. Emmett",
+"Jerry Blossom"
+]
+],
+[
+"Antonio Capuzzi",
+10,
+[
+"Giuseppe Antonio Capuzzi"
+]
+],
+[
+"Bob Merrill",
+10,
+[]
+],
+[
+"Richard Holmes",
+10,
+[
+"Groove Holmes",
+"Richard Arnold",
+"Richard Arnold Jackson",
+"Richard \"Groove\" Holmes",
+"Richard Groove Holmes"
+]
+],
+[
+"Dmitry Pokrass",
+10,
+[
+"Dmitry Yakovlevich Pokrass"
+]
+],
+[
+"Charles Lenepveu",
+10,
+[
+"Charles-Ferdinand Lenepveu"
+]
+],
+[
+"Heikki Aaltoila",
+10,
+[
+"Heikki Aalto",
+"Heikki Johannes Aaltoila"
+]
+],
+[
+"Ephraim Amu",
+10,
+[]
+],
+[
+"Valentin María de Zubiaurre",
+10,
+[
+"Valentín María de Zubiaurre",
+"Valentin María Zubiaurre Urionabarrenechea",
+"Valentín Mª Zubiaurre",
+"Valentin Zubiaurre Urionabarrenechea"
+]
+],
+[
+"Giacomo Orefice",
+10,
+[]
+],
+[
+"Edgar Tinel",
+10,
+[
+"Edgard Tinel",
+"Edgar Pierre Joseph Tinel"
+]
+],
+[
+"Jacopo Napoli",
+10,
+[]
+],
+[
+"Robert Lucas de Pearsall",
+10,
+[
+"G. Berthold",
+"Robert L. Pearsall",
+"Robert Lucas Pearsall"
+]
+],
+[
+"Max d'Ollone",
+10,
+[]
+],
+[
+"Nicola Antonio Manfroce",
+10,
+[]
+],
+[
+"Alicia Ann Spottiswoode",
+10,
+[
+"Alicia Anne Spottiswoode",
+"Alicia Ann, Lady John Scott",
+"Alicia Scott",
+"Lady John Scott"
+]
+],
+[
+"Mashadi Jamil Amirov",
+10,
+[
+"Meshadi Dzhamil Amirov"
+]
+],
+[
+"Eduard Baghdasaryan",
+10,
+[
+"Baghdarsaryan, Eduard",
+"Baghdasaryan, Edward",
+"Edouard Bagdassarian",
+"Edvard Baghdarsaryan",
+"Edward Baghdasaryan"
+]
+],
+[
+"George de Godzinsky",
+10,
+[]
+],
+[
+"Akio Yashiro",
+10,
+[]
+],
+[
+"Zdeněk Liška",
+10,
+[
+"Zdenek Liska"
+]
+],
+[
+"Benedictus Appenzeller",
+10,
+[]
+],
+[
+"Bernhard von Beskow",
+10,
+[]
+],
+[
+"Ervin Drake",
+10,
+[
+"Ervin M. Drake"
+]
+],
+[
+"Patty Hill",
+10,
+[
+"Patty Smith Hill"
+]
+],
+[
+"Ida Gotkovsky",
+10,
+[]
+],
+[
+"Ferdinand Hummel",
+10,
+[]
+],
+[
+"Elsa Respighi",
+10,
+[]
+],
+[
+"Johann Wilhelm Hässler",
+10,
+[]
+],
+[
+"Jan Kapr",
+10,
+[]
+],
+[
+"Carmen Dragon",
+10,
+[]
+],
+[
+"Pietro Torri",
+10,
+[]
+],
+[
+"Franz Biebl",
+10,
+[
+"Franz Xaver Biebl"
+]
+],
+[
+"John Frederick Lampe",
+10,
+[
+"Jean-Frédéric Lampe"
+]
+],
+[
+"Jonathan Petersen",
+10,
+[]
+],
+[
+"Vivian Fine",
+10,
+[]
+],
+[
+"Andreas Peter Berggreen",
+10,
+[]
+],
+[
+"Edward Ward",
+10,
+[]
+],
+[
+"Roberto Firpo",
+10,
+[]
+],
+[
+"Leopoldo Federico",
+10,
+[]
+],
+[
+"Harry Sukman",
+10,
+[]
+],
+[
+"Angelo Tarchi",
+10,
+[]
+],
+[
+"Jean Pierre Solié",
+10,
+[
+"Jean-Pierre Soulier"
+]
+],
+[
+"Johann Wilhelm Wilms",
+10,
+[]
+],
+[
+"Salah El Mahdi",
+10,
+[
+"Mohamed Ibn Abderrahmane Ben Salah Mehdi Chérifi",
+"Salah Mahdi"
+]
+],
+[
+"Ali-Naqi Vaziri",
+10,
+[
+"Alineqi Waziri,",
+"Alinqi Vaziri",
+"Colonel Alinqi Khan Waziri"
+]
+],
+[
+"Sara Levi-Tanai",
+10,
+[]
+],
+[
+"Gérard Jouannest",
+10,
+[
+"Gérard Emile Jouannest",
+"Gerard Jouannest"
+]
+],
+[
+"Franz Xaver Gerl",
+10,
+[]
+],
+[
+"He Luting",
+10,
+[]
+],
+[
+"Jean Wiener",
+10,
+[]
+],
+[
+"Arrigo Pedrollo",
+10,
+[]
+],
+[
+"Arne Eggen",
+10,
+[]
+],
+[
+"Hakon Børresen",
+10,
+[]
+],
+[
+"Harry Rabinowitz",
+10,
+[]
+],
+[
+"Gottfried Reiche",
+10,
+[]
+],
+[
+"Hermann Berens",
+10,
+[
+"Johann Hermann Berens d.ä."
+]
+],
+[
+"Karel Komzák",
+10,
+[
+"Karel Komzak II",
+"Karel Komzák II"
+]
+],
+[
+"Kenyon Hopkins",
+10,
+[
+"H. Kenyon Hopkins"
+]
+],
+[
+"Hugh Martin",
+10,
+[
+"Hugh Martin Jr."
+]
+],
+[
+"Giuseppe Maria Orlandini",
+10,
+[]
+],
+[
+"Enric Morera i Viura",
+10,
+[
+"Enric Morera"
+]
+],
+[
+"Antonio Veracini",
+10,
+[]
+],
+[
+"Stanisław Wisłocki",
+10,
+[]
+],
+[
+"Joaquín Valverde Durán",
+10,
+[
+"Joaquin Valverde Duran"
+]
+],
+[
+"John Pyke Hullah",
+10,
+[
+"John Hullah"
+]
+],
+[
+"K. Raghavan",
+10,
+[]
+],
+[
+"Henri Christiné",
+10,
+[
+"Henri Christine"
+]
+],
+[
+"Max Wagner",
+10,
+[]
+],
+[
+"Rudolf Kelterborn",
+10,
+[]
+],
+[
+"Mohammed Wardi",
+10,
+[
+"Mohammed Osman Hassan Salih Wardi"
+]
+],
+[
+"Gustav Schreck",
+10,
+[]
+],
+[
+"Johann Caspar Aiblinger",
+10,
+[]
+],
+[
+"August De Boeck",
+10,
+[
+"Julianus Marie August De Boeck"
+]
+],
+[
+"Michio Mamiya",
+10,
+[
+"Mamiya",
+"Mamiya Michio"
+]
+],
+[
+"Vladimír Sommer",
+10,
+[
+"Vladimir Sommer"
+]
+],
+[
+"Cheng Maoyun",
+10,
+[
+"Ch'eng Mao-yün"
+]
+],
+[
+"Benjamin Lees",
+10,
+[
+"Benjamin George Lees"
+]
+],
+[
+"Gabriel Grovlez",
+10,
+[
+"Gabriel Marie Grovlez"
+]
+],
+[
+"Jenő Ádám",
+10,
+[
+"Jenő Adam"
+]
+],
+[
+"Rentarō Taki",
+10,
+[
+"Rentaro Taki",
+"Rentarou Taki"
+]
+],
+[
+"Celso Garrido Lecca",
+10,
+[
+"Celso Garrido-Lecca"
+]
+],
+[
+"Yevstigney Fomin",
+10,
+[
+"Yevstigney Ipat'yevich Fomin"
+]
+],
+[
+"José Ángel Lamas",
+10,
+[
+"Jose Angel Lamas"
+]
+],
+[
+"Rosita Melo",
+10,
+[
+"Rosa Clotilde Mele de Piuma"
+]
+],
+[
+"Hans Sommer",
+10,
+[]
+],
+[
+"Léopol Haimon",
+10,
+[
+"Leopol Haimon"
+]
+],
+[
+"Shinpei Nakayama",
+10,
+[
+"Nakayama Shinpei"
+]
+],
+[
+"Peter Kreuder",
+10,
+[
+"Peter Paul Kreuder"
+]
+],
+[
+"Teiichi Okano",
+10,
+[]
+],
+[
+"Karel Weis",
+10,
+[]
+],
+[
+"Max Deutsch",
+10,
+[]
+],
+[
+"Vassil Kazandjiev",
+10,
+[
+"Vasil Kazandzhiev"
+]
+],
+[
+"Jenő Huszka",
+10,
+[
+"Jeno Huszka SEN"
+]
+],
+[
+"Hans J. Salter",
+10,
+[]
+],
+[
+"Prince Heinrich XXIV Reuss of Köstritz",
+10,
+[]
+],
+[
+"Justin Heinrich Knecht",
+10,
+[
+"Justinus Heinrich Knecht"
+]
+],
+[
+"Georg Andreas Sorge",
+10,
+[]
+],
+[
+"Jürg Baur",
+10,
+[]
+],
+[
+"Prenkë Jakova",
+10,
+[
+"Prenk Jakova"
+]
+],
+[
+"Rolf Alexander Wilhelm",
+10,
+[]
+],
+[
+"Wolfgang Zeller",
+10,
+[]
+],
+[
+"Willy Rosen",
+10,
+[]
+],
+[
+"Edgar Bainton",
+10,
+[
+"Edgar Leslie Bainton"
+]
+],
+[
+"Hippolyte André Jean Baptiste Chélard",
+10,
+[
+"Hippolyte Andre Jean Baptiste Chelard"
+]
+],
+[
+"Masaru Sato",
+10,
+[]
+],
+[
+"Jean Antoine Zinnen",
+10,
+[]
+],
+[
+"Sholom Secunda",
+10,
+[]
+],
+[
+"Douglas Moore",
+10,
+[
+"Douglas Stuart Moore"
+]
+],
+[
+"Ilya Shatrov",
+10,
+[
+"Ilya Alekseevich Shatrov"
+]
+],
+[
+"Mischa Bakaleinikoff",
+10,
+[]
+],
+[
+"Petar Stojanović",
+10,
+[]
+],
+[
+"Nikolai Sidelnikov",
+10,
+[
+"Nikolai Nikolayevich Sidelnikov"
+]
+],
+[
+"Serge Lancen",
+10,
+[
+"Serge Jean Mathieu Lancen"
+]
+],
+[
+"Vladimir Mikhailovich Yurovsky",
+10,
+[
+"Vladimir Michailovich Jurowski",
+"Владимир Юровский"
+]
+],
+[
+"Nicolae Bretan",
+10,
+[
+"Bretán Miklós"
+]
+],
+[
+"Bruno Bjelinski",
+10,
+[]
 ]
 ]

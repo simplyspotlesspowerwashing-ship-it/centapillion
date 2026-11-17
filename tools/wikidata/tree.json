@@ -1,1542 +1,2788 @@
 [
 [
 "Prunus persica",
-160
+160,
+[
+"peach",
+"peach tree",
+"peachtree"
+]
 ],
 [
 "Quercus",
-159
+159,
+[
+"Oak",
+"oaks",
+"oak tree",
+"the oak genus"
+]
 ],
 [
 "Ficus carica",
-155
+155,
+[
+"common fig",
+"fig",
+"fig plant"
+]
 ],
 [
 "Pyrus",
-151
+151,
+[
+"pear",
+"pear genus",
+"pear tree",
+"pear trees"
+]
 ],
 [
 "Salix",
-148
+148,
+[
+"osier",
+"sallow",
+"willow"
+]
 ],
 [
 "Olea europaea",
-146
+146,
+[
+"olive",
+"olive tree"
+]
 ],
 [
 "Pinus",
-144
+144,
+[
+"pines",
+"the pine genus"
+]
 ],
 [
 "Prunus armeniaca",
-130
+130,
+[
+"apricot",
+"apricot tree"
+]
 ],
 [
 "cacao",
-117
+117,
+[
+"cacao species",
+"cacao tree",
+"chocolate tree",
+"cocoa plant",
+"Theobroma cacao"
+]
 ],
 [
 "quince",
-117
+117,
+[
+"quince tree"
+]
 ],
 [
 "Morus",
-117
+117,
+[
+"mulberries",
+"mulberry",
+"mulberry genus",
+"mulberry tree"
+]
 ],
 [
 "Acer",
-115
+115,
+[
+"maple",
+"maples",
+"maple tree",
+"maple trees"
+]
 ],
 [
 "Populus",
-113
+113,
+[
+"the poplar and aspen genus"
+]
 ],
 [
 "Citrus",
-112
+112,
+[
+"Papeda (citrus)"
+]
 ],
 [
 "Alnus",
-109
+109,
+[
+"Alder",
+"alder genus"
+]
 ],
 [
 "Juniperus",
-109
+109,
+[
+"junipers",
+"the juniper genus"
+]
 ],
 [
 "pomelo",
-109
+109,
+[
+"Citrus maxima",
+"pommelo",
+"pummelo",
+"shaddock"
+]
 ],
 [
 "Eucalyptus",
-106
+106,
+[
+"Eucalyptus hybrid"
+]
 ],
 [
 "Prunus avium",
-104
+104,
+[
+"bird cherry",
+"gean",
+"sweet cherry",
+"wild cherry"
+]
 ],
 [
 "Tilia",
-103
+103,
+[
+"Basswood genus",
+"Lime genus",
+"lime tree",
+"Linden genus",
+"linden tree"
+]
 ],
 [
 "Fraxinus",
-103
+103,
+[
+"ashes"
+]
 ],
 [
 "Citrus × paradisi",
-103
+103,
+[
+"Citrus x paradisi",
+"grapefruit",
+"grapefruit plant",
+"grapefruit tree"
+]
 ],
 [
 "Crataegus",
-102
+102,
+[
+"hawberry",
+"hawthorn"
+]
 ],
 [
 "Fagus",
-101
+101,
+[
+"the beech genus"
+]
 ],
 [
 "Picea",
-101
+101,
+[
+"spruce",
+"Spruce"
+]
 ],
 [
 "Malus",
-100
+100,
+[
+"apple",
+"apples",
+"crabapple"
+]
 ],
 [
 "Abies",
-100
+100,
+[
+"fir"
+]
 ],
 [
 "Ulmus",
-98
+98,
+[
+"elm",
+"elms"
+]
 ],
 [
 "Citrus sinensis",
-98
+98,
+[
+"Citrus x sinensis",
+"orange",
+"orange tree",
+"sweet lime",
+"sweet orange",
+"tree orange"
+]
 ],
 [
 "Ginkgo biloba",
-96
+96,
+[
+"ginkgo",
+"ginkgo plant",
+"ginkgo tree",
+"maidenhair tree",
+"silver apricot"
+]
 ],
 [
 "Prunus domestica",
-96
+96,
+[
+"plum tree"
+]
 ],
 [
 "Cedrus",
-94
+94,
+[
+"Cedar"
+]
 ],
 [
 "Juglans regia",
-94
+94,
+[
+"common walnut",
+"Juglans fallax",
+"Old World Walnut",
+"Persian Walnut",
+"Walnut"
+]
 ],
 [
 "Cupressus",
-93
+93,
+[
+"cypress",
+"cypresses",
+"cypress trees"
+]
 ],
 [
 "Magnolia",
-92
+92,
+[
+"magnolias",
+"magnolia tree"
+]
 ],
 [
 "Sorbus",
-91
+91,
+[
+"rowan"
+]
 ],
 [
 "Pinus sylvestris",
-90
+90,
+[
+"Scots Pine"
+]
 ],
 [
 "Mangifera indica",
-90
+90,
+[
+"common mango",
+"Indian mango",
+"mango tree"
+]
 ],
 [
 "Garcinia mangostana",
-88
+88,
+[
+"mangostan",
+"mangosteen"
+]
 ],
 [
 "Larix",
-88
+88,
+[
+"the Larches"
+]
 ],
 [
 "Eriobotrya japonica",
-88
+88,
+[
+"Chinese plum",
+"Japanese medlar",
+"Japanese plum",
+"loquat"
+]
 ],
 [
 "Averrhoa carambola",
-87
+87,
+[
+"carambola",
+"Chinese gooseberry",
+"star fruit"
+]
 ],
 [
 "moringa",
-87
+87,
+[
+"árbol benzoil",
+"árbol de baquetas",
+"árbol de rábano picante",
+"drumstick",
+"drumstick tree",
+"Moringa oleifeira",
+"Moringa oleifera",
+"Moringa tree"
+]
 ],
 [
 "Prunus",
-86
+86,
+[
+"the Cherries"
+]
 ],
 [
 "Ficus",
-85
+85,
+[
+"fig",
+"figs",
+"the fig genus"
+]
 ],
 [
 "Sambucus nigra",
-84
+84,
+[
+"black elder",
+"black elderberry",
+"elder",
+"elderberry",
+"European black elderberry",
+"European elder",
+"European elderberry"
+]
 ],
 [
 "Hazel",
-80
+80,
+[
+"Corylus"
+]
 ],
 [
 "Pyrus communis",
-80
+80,
+[
+"European pear",
+"pear"
+]
 ],
 [
 "Syringa",
-78
+78,
+[
+"Lilac"
+]
 ],
 [
 "Fagaceae",
-77
+77,
+[
+"beech and oak family",
+"beech family",
+"family of beeches and oaks",
+"family of oaks and beeches",
+"oak and beech family",
+"oak family"
+]
 ],
 [
 "Fraxinus excelsior",
-76
+76,
+[
+"ash",
+"Ash",
+"ash tree",
+"European Ash"
+]
 ],
 [
 "Malus domestica",
-76
+76,
+[
+"apple tree",
+"Malus domestica Borkhausen",
+"Malus x domestica Borkh.",
+"Malus x domestica Borkhausen"
+]
 ],
 [
 "Mespilus germanica",
-75
+75,
+[
+"medlar"
+]
 ],
 [
 "Taxus",
-75
+75,
+[
+"the yew genus",
+"the yews",
+"yew (genus)",
+"yews"
+]
 ],
 [
 "Prunus cerasifera",
-73
+73,
+[
+"cherry plum",
+"myrobalan",
+"myrobalan plum"
+]
 ],
 [
 "Cinnamomum camphora",
-73
+73,
+[
+"Camphora officinarum",
+"camphor laurel",
+"camphor tree",
+"camphorwood"
+]
 ],
 [
 "Platanus",
-73
+73,
+[
+"planes",
+"the plane tree genus"
+]
 ],
 [
 "Morus alba",
-72
+72,
+[
+"Russian mulberry",
+"silkworm mulberry",
+"white mulberry"
+]
 ],
 [
 "Morus nigra",
-71
+71,
+[
+"blackberry",
+"black mulberry"
+]
 ],
 [
 "Diospyros",
-70
+70,
+[]
 ],
 [
 "Carpinus",
-69
+69,
+[
+"hornbeam",
+"hornbeam genus"
+]
 ],
 [
 "Viburnum",
-68
+68,
+[
+"sweet viburnum"
+]
 ],
 [
 "cumquat",
-67
+67,
+[
+"kumquat"
+]
 ],
 [
 "Ilex aquifolium",
-66
+66,
+[
+"Christmas holly",
+"common holly",
+"English holly",
+"European holly",
+"holly",
+"Ilex perado subsp. iberica"
+]
 ],
 [
 "Cornus",
-65
+65,
+[
+"dogwood"
+]
 ],
 [
 "Ilex",
-64
+64,
+[
+"hollies",
+"holly",
+"holly genus"
+]
 ],
 [
 "Pinus pinea",
-63
+63,
+[
+"Stone Pine"
+]
 ],
 [
 "Ulmus glabra",
-59
+59,
+[
+"mountain elm",
+"Scots Elm",
+"wych elm",
+"Wych Elm"
+]
 ],
 [
 "Citrus hystrix",
-59
+59,
+[
+"kaffir lime",
+"makrut lime",
+"Mauritius papeda",
+"porcupine orange",
+"Thai bai makrut",
+"Thai lime"
+]
 ],
 [
 "Picea omorika",
-56
+56,
+[
+"Pančić spruce",
+"Serbian spruce"
+]
 ],
 [
 "Aesculus",
-56
+56,
+[
+"buckeyes",
+"Calothyrsus",
+"Hippocastanum",
+"Horse-chestnuts",
+"Macrothyrsus",
+"Nebropsis",
+"Oesculus",
+"Ozotis",
+"Pavia",
+"Paviana",
+"Pawia",
+"white chestnut"
+]
 ],
 [
 "Pseudotsuga menziesii",
-55
+55,
+[
+"Columbian pine",
+"Douglas fir",
+"Douglas-fir",
+"Douglas spruce",
+"Oregon pine",
+"Pseudotsuga taxifolia"
+]
 ],
 [
 "Olea",
-55
+55,
+[]
 ],
 [
 "Paulownia",
-54
+54,
+[
+"empress tree",
+"kiri",
+"princess tree"
+]
 ],
 [
 "Sorbus domestica",
-52
+52,
+[
+"Cormus domestica",
+"service tree",
+"service-tree",
+"sorb tree",
+"true service tree"
+]
 ],
 [
 "Araucaria heterophylla",
-52
+52,
+[
+"Araucaria excelsa",
+"Norfolk Island pine",
+"Norfolk pine",
+"star pine"
+]
 ],
 [
 "Sophora",
-52
+52,
+[]
 ],
 [
 "tree stump",
-52
+52,
+[
+"stump"
+]
 ],
 [
 "Pseudotsuga",
-51
+51,
+[]
 ],
 [
 "Elaeagnus",
-51
+51,
+[]
 ],
 [
 "Pistacia",
-51
+51,
+[]
 ],
 [
 "Catalpa",
-50
+50,
+[]
 ],
 [
 "Arbutus",
-50
+50,
+[]
 ],
 [
 "Quercus pubescens",
-49
+49,
+[]
 ],
 [
 "Citrinos × clementina",
-49
+49,
+[
+"Citrus ×clementina",
+"Citrus x clementina",
+"clementine",
+"Moroccan clementine"
+]
 ],
 [
 "Prunus mume",
-48
+48,
+[
+"green plum",
+"Japanese apricot",
+"sour green plum",
+"Ume"
+]
 ],
 [
 "Styphnolobium japonicum",
-48
+48,
+[]
 ],
 [
 "Asimina triloba",
-48
+48,
+[
+"American papaw",
+"dog-banana",
+"Indian-banana",
+"paw paw",
+"pawpaw"
+]
 ],
 [
 "Dracaena draco",
-47
+47,
+[
+"dragon blood tree",
+"dragon tree",
+"dragontree"
+]
 ],
 [
 "Robinia",
-47
+47,
+[]
 ],
 [
 "Punica",
-47
+47,
+[]
 ],
 [
 "Pyrus pyrifolia",
-47
+47,
+[
+"apple pear",
+"Asian pear",
+"Chinese pear",
+"Japanese pear",
+"Korean pear",
+"nashi pear",
+"sand pear",
+"Taiwan pear"
+]
 ],
 [
 "Albizia",
-46
+46,
+[]
 ],
 [
 "broad-leaved tree",
-45
+45,
+[
+"broad-leaf tree",
+"broadleaf tree",
+"broadleaved tree",
+"broad-leaved trees",
+"deciduous tree"
+]
 ],
 [
 "fruit tree",
-45
+45,
+[]
 ],
 [
 "Laburnum",
-44
+44,
+[]
 ],
 [
 "Pinus contorta",
-44
+44,
+[
+"lodgepole pine",
+"shore pine",
+"tamarack pine"
+]
 ],
 [
 "Pinus ponderosa",
-44
+44,
+[
+"bull pine",
+"ponderosa pine",
+"western yellow pine",
+"western yellow-pine",
+"yellow pine"
+]
 ],
 [
 "Paulownia tomentosa",
-43
+43,
+[
+"Empress tree",
+"Foxglove tree",
+"Paulownia tree",
+"Princess tree",
+"Royal empress tree"
+]
 ],
 [
 "Populus tremuloides",
-43
+43,
+[
+"American aspen",
+"golden aspen",
+"mountain apen",
+"popple",
+"quakies",
+"quaking aspen",
+"trembling aspen",
+"trembling poplar",
+"white poplar"
+]
 ],
 [
 "tangerine",
-43
+43,
+[
+"dancytangerine"
+]
 ],
 [
 "banyan",
-43
+43,
+[
+"banyan tree"
+]
 ],
 [
 "Casuarina",
-43
+43,
+[]
 ],
 [
 "Durio zibethinus",
-42
+42,
+[
+"durian"
+]
 ],
 [
 "Cupressus macrocarpa",
-42
+42,
+[
+"Monterey Cypress"
+]
 ],
 [
 "Carya",
-42
+42,
+[
+"Hickory",
+"hickory tree"
+]
 ],
 [
 "Abies grandis",
-42
+42,
+[
+"coast grand fir",
+"giant fir",
+"grand fir",
+"great silver fir",
+"hem fir",
+"interior grand fir",
+"lowland white fir",
+"Oregon fir",
+"Vancouver fir",
+"western white fir"
+]
 ],
 [
 "Populus × canescens",
-42
+42,
+[
+"grey poplar",
+"Populus canescens"
+]
 ],
 [
 "Liriodendron",
-42
+42,
+[
+"tulip tree",
+"tuliptree",
+"tulip-trees",
+"tuliptrees"
+]
 ],
 [
 "Cotinus",
-42
+42,
+[]
 ],
 [
 "Ailanthus",
-42
+42,
+[
+"Ailantus",
+"Chinese cumach"
+]
 ],
 [
 "Chamaecyparis",
-41
+41,
+[]
 ],
 [
 "Gleditsia",
-41
+41,
+[]
 ],
 [
 "Celtis",
-41
+41,
+[
+"hackberry"
+]
 ],
 [
 "Ginkgo",
-40
+40,
+[]
 ],
 [
 "Abies procera",
-39
+39,
+[
+"Abies nobilis",
+"Christmas tree",
+"noble fir",
+"red fir"
+]
 ],
 [
 "Grevillea robusta",
-39
+39,
+[
+"Silk oak",
+"Silver oak"
+]
 ],
 [
 "Liquidambar",
-38
+38,
+[]
 ],
 [
 "Ostrya",
-38
+38,
+[]
 ],
 [
 "Quercus alba",
-37
+37,
+[
+"eastern white oak",
+"stave oak",
+"white oak"
+]
 ],
 [
 "Pinus lambertiana",
-36
+36,
+[
+"Sugar Pine"
+]
 ],
 [
 "Lagerstroemia",
-36
+36,
+[
+"crape myrtles",
+"crapemyrtles",
+"crepe myrtles",
+"crepemyrtles"
+]
 ],
 [
 "Cercis",
-35
+35,
+[]
 ],
 [
 "Pinus thunbergii",
-35
+35,
+[
+"Japanese black pine",
+"Pinus thunbergiana"
+]
 ],
 [
 "Araucaria columnaris",
-34
+34,
+[
+"columnar araucaria",
+"Cook araucaria",
+"Cook pine",
+"Cook's pine",
+"coral reef araucaria",
+"New Caledonia pine"
+]
 ],
 [
 "Alnus rubra",
-34
+34,
+[
+"Oregon alder",
+"red alder",
+"western alder"
+]
 ],
 [
 "Zelkova",
-34
+34,
+[]
 ],
 [
 "Schinus",
-34
+34,
+[]
 ],
 [
 "Sequoia",
-33
+33,
+[
+"redwood"
+]
 ],
 [
 "Koelreuteria",
-32
+32,
+[]
 ],
 [
 "Hovenia dulcis",
-32
+32,
+[
+"Japanese raisin tree",
+"oriental raisin tree"
+]
 ],
 [
 "Citrus unshiu",
-32
+32,
+[
+"Citrus × unshiu",
+"cold-hardy mandarin",
+"naartjie",
+"satsuma",
+"satsuma orange",
+"tangerine",
+"unshū mikan"
+]
 ],
 [
 "Prunus salicina",
-31
+31,
+[
+"Chinese plum tree",
+"Japanese plum tree"
+]
 ],
 [
 "Abies magnifica",
-31
+31,
+[
+"California red fir",
+"red fir",
+"silvertip fir"
+]
 ],
 [
 "Eriobotrya",
-31
+31,
+[]
 ],
 [
 "Metrosideros excelsa",
-31
+31,
+[
+"iron tree",
+"New Zealand Christmas tree",
+"pohutukawa",
+"pōhutukawa",
+"pohutukawa tree",
+"pōhutukawa tree"
+]
 ],
 [
 "Cercidiphyllum",
-31
+31,
+[]
 ],
 [
 "Cedrela",
-30
+30,
+[]
 ],
 [
 "Amelanchier alnifolia",
-30
+30,
+[
+"alder-leaf shadbush",
+"Cusick's serviceberry",
+"Pacific serviceberry",
+"saskatoon",
+"saskatoon berry",
+"Saskatoon berry",
+"Saskatoon serviceberry",
+"serviceberry",
+"western juneberry"
+]
 ],
 [
 "Calocedrus",
-30
+30,
+[]
 ],
 [
 "Maclura",
-29
+29,
+[]
 ],
 [
 "Morus rubra",
-29
+29,
+[
+"red mulberry"
+]
 ],
 [
 "Photinia",
-28
+28,
+[]
 ],
 [
 "Phellodendron",
-28
+28,
+[]
 ],
 [
 "Crateva religiosa",
-27
+27,
+[
+"abiyuch",
+"Balai Lamok",
+"barna",
+"bidasi",
+"sacred garlic pear",
+"spider tree",
+"temple plant",
+"varuna"
+]
 ],
 [
 "Broussonetia",
-27
+27,
+[]
 ],
 [
 "Pterocarya",
-26
+26,
+[]
 ],
 [
 "Arbutus menziesii",
-26
+26,
+[
+"arbutus",
+"bearberry",
+"madrona",
+"madrone",
+"Pacific madrone"
+]
 ],
 [
 "Chionanthus",
-26
+26,
+[]
 ],
 [
 "Phytolacca dioica",
-26
+26,
+[
+"Ombú"
+]
 ],
 [
 "Nyssa",
-26
+26,
+[
+"tupelo"
+]
 ],
 [
 "Sidrat al-Muntaha",
-25
+25,
+[
+"Lote Tree"
+]
 ],
 [
 "Moreton Bay fig",
-23
+23,
+[
+"Australian banyan",
+"Ficus macrophylla"
+]
 ],
 [
 "Tetradium",
-23
+23,
+[]
 ],
 [
 "Toona",
-23
+23,
+[]
 ],
 [
 "Brachychiton acerifolius",
-23
+23,
+[
+"Brachychiton",
+"flame tree",
+"Illawarra flame tree",
+"kurrajong",
+"lacebark tree"
+]
 ],
 [
 "Notholithocarpus densiflorus",
-22
+22,
+[
+"tanbark-oak",
+"tan-oak",
+"tanoak"
+]
 ],
 [
 "Syzygium guineense",
-22
+22,
+[]
 ],
 [
 "Gymnocladus",
-21
+21,
+[]
 ],
 [
 "Ptelea",
-21
+21,
+[]
 ],
 [
 "espalier",
-20
+20,
+[]
 ],
 [
 "Cladrastis",
-19
+19,
+[]
 ],
 [
 "Antonovka",
-18
+18,
+[
+"Possarts Nalivia"
+]
 ],
 [
 "Fontanesia",
-17
+17,
+[]
 ],
 [
 "strangler fig",
-15
+15,
+[
+"strangler tree"
+]
 ],
 [
 "Moon Tree",
-15
+15,
+[]
 ],
 [
 "remarkable tree",
-15
+15,
+[
+"famous tree",
+"historical tree",
+"important tree",
+"individual tree",
+"legacy tree",
+"memorable tree",
+"monumental tree",
+"notable tree",
+"special tree",
+"veteran tree"
+]
 ],
 [
 "White Transparent",
-14
+14,
+[
+"Baltic Sea apple",
+"Bely Naliv"
+]
 ],
 [
 "Buddleja globosa",
-14
+14,
+[]
 ],
 [
 "Faidherbia",
-14
+14,
+[]
 ],
 [
 "Euodia",
-13
+13,
+[]
 ],
 [
 "wish tree",
-12
+12,
+[
+"prayer tree",
+"wishing tree"
+]
 ],
 [
 "Heptacodium",
-12
+12,
+[]
 ],
 [
 "Parrotia",
-12
+12,
+[]
 ],
 [
 "Sesbania punicea",
-12
+12,
+[]
 ],
 [
 "sacred tree",
-11
+11,
+[]
 ],
 [
 "shade tree",
-11
+11,
+[]
 ],
 [
 "freedom tree",
-11
+11,
+[
+"liberty tree"
+]
 ],
 [
 "pollard willow",
-10
+10,
+[
+"knotted willow",
+"knotwilg",
+"pollarded tree"
+]
 ],
 [
 "cypress",
-10
+10,
+[]
 ],
 [
 "Tree of 40 Fruit",
-10
+10,
+[
+"Tree of Forty Fruit"
+]
 ],
 [
 "Cryptomeria",
-9
+9,
+[
+"Sugi"
+]
 ],
 [
 "Karpatiosorbus",
-9
+9,
+[]
 ],
 [
 "Tephrosia virginiana",
-8
-],
-[
-"Easter egg tree",
-8
+8,
+[]
 ],
 [
 "niwaki",
-8
+8,
+[]
 ],
 [
 "snag",
-8
+8,
+[]
 ],
 [
 "heritage tree",
-8
+8,
+[
+"historic tree"
+]
 ],
 [
 "aspen",
-7
+7,
+[
+"aspen (tree)",
+"aspen tree"
+]
 ],
 [
 "hibakujumoku",
-7
+7,
+[
+"A-bombed tree",
+"hibaku jumoku",
+"survivor tree"
+]
 ],
 [
 "shinboku",
-7
+7,
+[
+"go-shinboku",
+"goshinboku"
+]
 ],
 [
 "roadside tree",
-7
+7,
+[
+"allee tree",
+"avenue tree",
+"boulevard tree",
+"street tree"
+]
 ],
 [
 "fertilizer tree",
-7
+7,
+[]
 ],
 [
 "Zapis",
-7
+7,
+[]
 ],
 [
 "Montmorency cherry",
-6
-],
+6,
 [
-"Sexsarbor",
-6
+"Common red Kentish"
+]
 ],
 [
 "urban tree",
-5
+5,
+[]
 ],
 [
 "× Chitalpa tashkentensis",
-5
+5,
+[
+"Chitalpa tashkentensis",
+"pink dawn",
+"pink dawn chitalpa",
+"x Chitalpa tashkentensis"
+]
 ],
 [
 "Davidia",
-5
+5,
+[]
 ],
 [
 "trees of Pakistan",
-5
+5,
+[]
 ],
 [
 "Pacifier tree",
-5
+5,
+[]
 ],
 [
 "Genetically modified tree",
-5
+5,
+[]
 ],
 [
 "weeping tree",
-5
+5,
+[]
 ],
 [
 "nail tree",
-5
+5,
+[]
 ],
 [
 "Guyot",
-5
+5,
+[
+"French Bartlett",
+"Guyot pear"
+]
 ],
 [
 "cold-hardy citrus",
-5
+5,
+[]
 ],
 [
 "Scarred tree",
-5
+5,
+[
+"canoe tree",
+"scar tree",
+"shield tree"
+]
 ],
 [
 "seed tree",
-5
+5,
+[]
 ],
 [
 "clootie tree",
-4
+4,
+[
+"cloughtie tree",
+"cloutie tree",
+"rag tree",
+"Rag tree"
+]
 ],
 [
 "clootie well",
-4
+4,
+[]
 ],
 [
 "culturally modified tree",
-4
-],
-[
-"The Giant Plane",
-4
+4,
+[]
 ],
 [
 "kroezeboom",
-4
+4,
+[
+"kroeseboom",
+"kroezeboom Fleringen"
+]
 ],
 [
 "ornamental tree",
-4
+4,
+[
+"garden tree"
+]
 ],
 [
 "cloud tree",
-4
+4,
+[
+"tamachirashi"
+]
 ],
 [
 "ironbark",
-4
+4,
+[]
 ],
 [
 "Zaporizhzhia oak",
-4
+4,
+[
+"The Zaporozhian oak",
+"Zaporiz'kyĭ dub",
+"Zaporozhye oak"
+]
 ],
 [
 "Australian lime",
-4
+4,
+[]
 ],
 [
 "bee tree",
-4
+4,
+[
+"bee-tree"
+]
 ],
 [
 "Yakusugi",
-4
+4,
+[]
 ],
 [
 "nurse tree",
-4
+4,
+[]
 ],
 [
 "den tree",
-4
+4,
+[
+"cavity tree",
+"hollow tree"
+]
 ],
 [
 "Alniaria alnifolia",
-4
+4,
+[
+"alder-leafed whitebeam",
+"Korean mountain ash",
+"Korean mountain-ash",
+"Korean whitebeam"
+]
 ],
 [
 "memorial tree",
-3
+3,
+[
+"Memorial tree"
+]
 ],
 [
 "Pinus stormiae",
-3
+3,
+[]
 ],
 [
 "boundary tree",
-3
+3,
+[
+"border tree"
+]
 ],
 [
 "Trinitario",
-3
+3,
+[]
 ],
 [
 "Yew",
-3
+3,
+[]
 ],
 [
 "Notable tree of France",
-3
+3,
+[
+"notable tree of France",
+"notable trees of France"
+]
 ],
 [
 "Sapiazhanka",
-3
+3,
+[
+"Sapyazhanka"
+]
 ],
 [
 "remarkable trees in Luxembourg",
-3
+3,
+[]
 ],
 [
 "sapling",
-3
+3,
+[
+"saplings"
+]
 ],
 [
 "Cherry tree",
-3
+3,
+[]
 ],
 [
 "Slava Peremozhtsiam",
-3
+3,
+[]
 ],
 [
 "live oak",
-3
+3,
+[]
 ],
 [
 "Poncirus",
-3
+3,
+[]
 ],
 [
 "Multipurpose tree",
-3
+3,
+[]
 ],
 [
 "Laicity trees",
-3
+3,
+[]
 ],
 [
 "wilding conifer",
-3
+3,
+[]
 ],
 [
 "Trees of New York City",
-3
+3,
+[
+"Trees in New York City"
+]
 ],
 [
 "Clara Frijs",
-2
+2,
+[
+"Clara Friis",
+"Clara Friis pære",
+"Clara Friis pear"
+]
 ],
 [
 "high stumps",
-2
+2,
+[
+"artificial snag",
+"high tree stump",
+"tall tree stump"
+]
 ],
 [
 "Suptall",
-2
+2,
+[]
 ],
 [
 "warden tree",
-2
+2,
+[]
 ],
 [
 "giant tree",
-2
+2,
+[]
 ],
 [
 "Five Sacred Trees of Kiso",
-2
+2,
+[
+"Five Kiso Trees",
+"Five Trees of Kiso",
+"Kiso Goboku"
+]
 ],
 [
 "flowering tree",
-2
+2,
+[]
 ],
 [
 "coin tree",
-2
+2,
+[
+"money tree",
+"wish tree"
+]
 ],
 [
 "Heritage trees of Peru",
-2
+2,
+[]
 ],
 [
 "Harumanis",
-2
-],
-[
-"Skupina dubů letních v ulici Mezivrší",
-2
+2,
+[]
 ],
 [
 "Cedrata romana",
-2
-],
+2,
 [
-"Sveti Bor",
-2
+"Buré ròca"
+]
 ],
 [
 "emperor's oak",
-2
+2,
+[
+"Kaisereiche"
+]
 ],
 [
 "Wachauer Marille",
-2
+2,
+[
+"Wachau apricot"
+]
 ],
 [
 "Λιανολιά",
-2
-],
-[
-"Remarkable Trees of Aosta Valley",
-2
+2,
+[]
 ],
 [
 "Tanzlinde",
-2
+2,
+[]
 ],
 [
 "windswept tree",
-2
+2,
+[]
 ],
 [
 "Rosa dei Monti Sibillini",
-2
+2,
+[
+"mele rosa marchigiane"
+]
 ],
 [
 "Emperor's oak",
-2
+2,
+[]
 ],
 [
 "Oak of Peace",
-2
+2,
+[]
 ],
 [
 "Elvas plum",
-2
+2,
+[
+"ameixa d'Elvas",
+"Prunus domestica 'Rainha Cláudia Verde'"
+]
 ],
 [
 "panty tree",
-2
+2,
+[
+"beads tree",
+"bead tree",
+"panties tree"
+]
 ],
 [
 "birth tree",
-2
-],
-[
-"Waterloo Elm",
-2
-],
-[
-"Big Fig, Miriam Vale",
-2
+2,
+[]
 ],
 [
 "Kinderboom",
-2
-],
-[
-"Fig Tree, Gladstone",
-2
+2,
+[]
 ],
 [
 "Memorial oaks in Denmark",
-2
-],
-[
-"Landsborough's Blazed Tree (Camp 67)",
-2
+2,
+[]
 ],
 [
 "memorial tree, dedicated to the Dutch royal family",
-2
+2,
+[]
 ],
 [
 "Hohne-Eiche",
-2
-],
-[
-"Man in Tree",
-2
-],
-[
-"Tree of Knowledge, Camooweal",
-2
-],
-[
-"Hodgkinson's Marked Tree",
-2
-],
-[
-"Landsborough Tree",
-2
-],
-[
-"Leichhardt Tree, Taroom",
-2
-],
-[
-"Landsborough's Blazed Tree",
-2
+2,
+[]
 ],
 [
 "canopy emergent",
-2
+2,
+[]
 ],
 [
 "Prunus persica var. nucipersica",
-2
+2,
+[
+"Prunus persica nucipersica"
+]
 ],
 [
 "Clementine del Golfo di Taranto PGI",
-2
+2,
+[]
 ],
 [
 "Clementine di Calabria PGI",
-2
+2,
+[]
 ],
 [
 "tree of Olga Havlová",
-2
+2,
+[]
 ],
 [
 "Árbol Singular de la Comunidad de Madrid",
-2
+2,
+[]
 ],
 [
 "toekomstboom",
-2
+2,
+[]
 ],
 [
 "Luthereiche",
-2
+2,
+[]
 ],
 [
 "Luther linden tree",
-2
+2,
+[]
 ],
 [
 "Lutherbuchen",
-2
+2,
+[]
 ],
 [
 "Jeju citrus",
-2
+2,
+[]
 ],
 [
 "lookout tree",
-2
+2,
+[]
 ],
 [
 "spar",
-2
+2,
+[
+"spartree"
+]
 ],
 [
 "Trail trees",
-2
+2,
+[]
 ],
 [
 "Prunus cerasifera 'Nigra'",
-2
+2,
+[
+"Prunus cerasifera 'Negra'"
+]
 ],
 [
 "Papal oak",
-2
+2,
+[
+"Dab papieski",
+"Deby papieskie"
+]
 ],
 [
 "Lover's Oak",
-2
+2,
+[]
 ],
 [
 "danger tree",
-1
+1,
+[]
 ],
 [
 "classified tree",
-1
+1,
+[]
 ],
 [
 "Ficus carica cultivar",
-1
+1,
+[]
 ],
 [
 "emergent",
-1
+1,
+[
+"emergent tree",
+"hold-over"
+]
 ],
 [
 "famous trees in Stockholm",
-1
+1,
+[]
 ],
 [
 "Populus canadensis ‘14’",
-1
+1,
+[]
 ],
 [
 "Manzanillo de Jaén",
-1
+1,
+[]
 ],
 [
 "The Venon oak",
-1
+1,
+[
+"The Pressembois oak"
+]
 ],
 [
 "solitary tree",
-1
+1,
+[]
 ],
 [
 "lone cherry tree",
-1
+1,
+[]
 ],
 [
 "yakuboku",
-1
+1,
+[]
 ],
 [
 "Sacred tree of Kasuga",
-1
+1,
+[]
 ],
 [
 "Jingū cedar",
-1
+1,
+[
+"Jingū sugi"
+]
 ],
 [
 "Tateyama cedar",
-1
+1,
+[
+"Tateyama sugi"
+]
 ],
 [
 "standing tree",
-1
+1,
+[]
 ],
 [
 "liberty tree",
-1
+1,
+[
+"tree of liberty"
+]
 ],
 [
 "dead tree",
-1
+1,
+[]
 ],
 [
 "allee tree",
-1
+1,
+[]
 ],
 [
 "tree with fused branches",
-1
+1,
+[]
 ],
 [
 "Obi cedar",
-1
+1,
+[]
 ],
 [
 "old-growth tree",
-1
+1,
+[
+"old-growth trees"
+]
 ],
 [
 "tilia of liberty",
-1
+1,
+[]
 ],
 [
 "most important memorial trees of the Czech Republic",
-1
+1,
+[]
 ],
 [
 "Tree monument",
-1
+1,
+[]
 ],
 [
 "Trees of local interest in Alcalá de Henares",
-1
+1,
+[]
 ],
 [
 "preserved tree",
-1
+1,
+[]
 ],
 [
 "firewood tree",
-1
+1,
+[]
 ],
 [
 "Citrus voangiala",
-1
+1,
+[]
 ],
 [
 "truffle tree",
-1
+1,
+[]
 ],
 [
 "Wilhelminaboom",
-1
+1,
+[]
 ],
 [
 "Julianaboom",
-1
+1,
+[]
 ],
 [
 "Beatrixboom",
-1
+1,
+[]
 ],
 [
 "Willem-Alexanderboom",
-1
+1,
+[]
 ],
 [
 "Amaliaboom",
-1
-],
-[
-"Gregory's Tree Historical Reserve",
-1
-],
-[
-"Cipresso of the Cashmir",
-1
+1,
+[]
 ],
 [
 "Singular trees of the Basque Country",
-1
-],
-[
-"Wilhelmina Tree (Paramaribo)",
-1
+1,
+[]
 ],
 [
 "Uchū Zakura",
-1
+1,
+[
+"Space Cherry Tree"
+]
 ],
 [
 "Nespola di Trabia",
-1
+1,
+[]
 ],
 [
 "Gernika Tree's bud",
-1
-],
-[
-"Remarkable Trees of Piedmont",
-1
-],
-[
-"Citrusdal orange tree",
-1
-],
-[
-"Trees Covered with Knitted Skin in Puerto de la Cruz",
-1
+1,
+[]
 ],
 [
 "hanging tree",
-1
+1,
+[]
 ],
 [
 "China garden Sakura (St. Petersburg)",
-1
+1,
+[]
 ],
 [
 "Anne Frank tree",
-1
+1,
+[]
 ],
 [
 "victory tree",
-1
+1,
+[]
 ],
 [
 "Veteran trees in Alicante",
-1
+1,
+[]
 ],
 [
 "Mehras",
-1
+1,
+[]
 ],
 [
 "cultivated tree",
-1
-],
-[
-"Quercus of Lajos Ungvári",
-1
+1,
+[]
 ],
 [
 "Koningslinde",
-1
+1,
+[
+"Oranjeboom 2013"
+]
 ],
 [
 "hanger",
-1
-],
-[
-"Deborah's palm tree",
-1
+1,
+[]
 ],
 [
 "remarkable tree in the Czech Republic",
-1
+1,
+[
+"memorable tree"
+]
 ],
 [
 "clémentine de Corse",
-1
+1,
+[]
 ],
 [
 "seedling tree",
-1
-],
-[
-"Jackfruit Tree",
-1
+1,
+[]
 ],
 [
 "Scillato apricot tree",
-1
+1,
+[]
 ],
 [
 "Blonde orange of Scillato",
-1
+1,
+[]
 ],
 [
 "Limo",
-1
+1,
+[]
 ],
 [
 "Susino sanacore",
-1
+1,
+[]
 ],
 [
 "French Crab",
-1
+1,
+[
+"applejohn",
+"Claremont Pippin",
+"French Crab apple",
+"John apple",
+"Three Years Old",
+"Two Years Apple"
+]
 ],
 [
 "Pinus sylvestris var. nana",
-1
+1,
+[
+"Pinus sylvestris var. turfosa"
+]
 ],
 [
 "Cajeput tree",
-1
+1,
+[
+"paperbark tree"
+]
 ],
 [
 "Tree of Public Interest",
-1
+1,
+[]
 ],
 [
 "exploding tree",
-1
+1,
+[]
 ],
 [
 "Martin Luther tree",
-1
+1,
+[]
 ],
 [
 "cedar tree",
-1
+1,
+[
+"cedar"
+]
 ],
 [
 "apple tree",
-1
+1,
+[]
 ],
 [
 "hollow oak",
-1
+1,
+[]
 ],
 [
 "walnut tree",
-1
+1,
+[]
 ],
 [
 "cherry tree",
-1
+1,
+[
+"cherry"
+]
 ],
 [
 "Kastanie auf der Pegnitzinsel",
-1
+1,
+[]
 ],
 [
 "Sora Zakura",
-1
+1,
+[
+"Sorazakura",
+"Space Cherry Tree",
+"Space Sakura"
+]
 ],
 [
 "Armenian sosi",
-1
+1,
+[
+"Armenian plane tree",
+"Platanieum armeniacum"
+]
 ],
 [
 "Lob trees",
-1
-],
-[
-"Gameleira",
-1
+1,
+[]
 ],
 [
 "drive-through tree",
-1
+1,
+[]
 ],
 [
 "dōsugi",
-1
+1,
+[]
 ],
 [
 "Trysting Tree",
-1
+1,
+[]
 ],
 [
 "Dziczka",
-1
+1,
+[]
 ],
 [
 "Veteran trees in Lombardy",
-1
+1,
+[]
 ],
 [
 "Champion Tree",
-1
+1,
+[]
 ],
 [
 "Calvilla Blanca",
-1
+1,
+[]
 ],
 [
 "Huanglong Walnut",
-1
+1,
+[]
 ],
 [
 "Kozakkeneik, Delden",
-1
+1,
+[]
 ],
 [
 "Veteran Trees of Italy",
-1
+1,
+[]
+],
+[
+"Abies concolor × grandis",
+0,
+[
+"Abies concolor × Abies grandis",
+"Abies grandis var. concolor",
+"California white fir"
+]
+],
+[
+"elder cambium",
+0,
+[]
+],
+[
+"outstanding group of trees",
+0,
+[]
+],
+[
+"Singular tree",
+0,
+[
+"ES21"
+]
+],
+[
+"national tree",
+0,
+[]
+],
+[
+"invasive tree",
+0,
+[]
+],
+[
+"evergreen tree",
+0,
+[]
+],
+[
+"thorn tree",
+0,
+[
+"hawthorn",
+"thorn bush",
+"thornbush"
+]
+],
+[
+"standard tree",
+0,
+[]
+],
+[
+"tree of local interest",
+0,
+[]
+],
+[
+"superior tree",
+0,
+[
+"plus trees",
+"plus-trees"
+]
+],
+[
+"sycamore",
+0,
+[
+"sycamores"
+]
+],
+[
+"subalpine tree",
+0,
+[
+"subalpine trees"
+]
+],
+[
+"elm tree",
+0,
+[]
+],
+[
+"trees in Islam",
+0,
+[
+"tree in Islam",
+"tree (Islam)",
+"trees (Islam)"
+]
+],
+[
+"Emmaboom",
+0,
+[]
+],
+[
+"Singular trees in Navarra",
+0,
+[]
+],
+[
+"Berlin City Tree",
+0,
+[]
+],
+[
+"wild tree",
+0,
+[]
+],
+[
+"edible wild trees",
+0,
+[]
+],
+[
+"edible trees",
+0,
+[]
+],
+[
+"Pyrus communis cv. Triumph of Vienna",
+0,
+[]
+],
+[
+"Freiburg Wandering Tree",
+0,
+[]
+],
+[
+"peace tree",
+0,
+[]
+],
+[
+"liberation tree",
+0,
+[
+"liberation memorial tree"
+]
+],
+[
+"Cytisus proliferus",
+0,
+[]
+],
+[
+"Liriodendron figo",
+0,
+[]
+],
+[
+"plane tree",
+0,
+[]
+],
+[
+"yew tree",
+0,
+[]
+],
+[
+"leafless tree",
+0,
+[]
+],
+[
+"Humboldt State University Moon Trees",
+0,
+[]
+],
+[
+"poplar",
+0,
+[
+"poplar tree"
+]
+],
+[
+"notable oak tree",
+0,
+[
+"individual oak tree",
+"oak",
+"oak tree"
+]
+],
+[
+"Liriodendron coco",
+0,
+[]
+],
+[
+"Liriodendron liliiferum",
+0,
+[]
+],
+[
+"remarkable tree due to age and size (according to Italian legislation)",
+0,
+[]
+],
+[
+"remarkable tree landscape value (article 5.1f Italian law)",
+0,
+[]
+],
+[
+"pine tree",
+0,
+[
+"Pinus kesiya Royle ex Gordo"
+]
+],
+[
+"maple tree",
+0,
+[]
+],
+[
+"individual beech tree",
+0,
+[]
+],
+[
+"horsechestnut",
+0,
+[
+"chestnut bud",
+"horse-chestnut"
+]
+],
+[
+"hornbeam",
+0,
+[
+"hornbeam tree"
+]
+],
+[
+"eucalypt tree",
+0,
+[
+"eucalypt trees",
+"eucalyptus tree",
+"Eucalyptus tree",
+"eucalyptus trees",
+"Eucalyptus trees"
+]
+],
+[
+"chestnut tree",
+0,
+[
+"chestnut"
+]
+],
+[
+"larch",
+0,
+[
+"larch tree"
+]
+],
+[
+"laurel tree",
+0,
+[]
+],
+[
+"holly tree",
+0,
+[]
+],
+[
+"blasted tree",
+0,
+[
+"shattered tree"
+]
+],
+[
+"hollow tree trunk",
+0,
+[]
+],
+[
+"pear tree",
+0,
+[]
+],
+[
+"árvore monumental (Funchal)",
+0,
+[]
+],
+[
+"tree bridge",
+0,
+[]
 ]
 ]

@@ -1,282 +1,1308 @@
 [
 [
 "table salt",
-202
+202,
+[
+"culinary salt",
+"dietary salt",
+"dietary sodium",
+"edible salt",
+"salt",
+"sodium chloride, dietary"
+]
 ],
 [
 "chili pepper",
-125
+125,
+[
+"chile",
+"chile pepper",
+"chili",
+"chilli",
+"chilli pepper",
+"hot pepper",
+"spicy chili pepper",
+"spicy pepper"
+]
 ],
 [
 "Foeniculum vulgare",
-125
+125,
+[
+"Fennel"
+]
 ],
 [
 "cinnamon",
-123
+123,
+[
+"canel",
+"canella"
+]
 ],
 [
 "basil",
-123
+123,
+[
+"Ocimum basilicum"
+]
 ],
 [
 "parsley",
-121
+121,
+[
+"Petroselinum crispum",
+"garden parsley"
+]
 ],
 [
 "Anethum graveolens",
-114
+114,
+[
+"dill"
+]
 ],
 [
 "Carum carvi",
-109
+109,
+[
+"caraway",
+"caraway plant",
+"meridian fennel",
+"Persian cumin",
+"wild caraway"
+]
 ],
 [
 "liquorice",
-107
+107,
+[
+"Glycyrrhiza glabra"
+]
 ],
 [
 "saffron",
-93
+93,
+[]
 ],
 [
 "nutmeg",
-88
+88,
+[
+"nutmeg seed"
+]
 ],
 [
 "Melissa officinalis",
-81
+81,
+[
+"balm",
+"balm mint",
+"bee balm",
+"common balm",
+"lemon balm"
+]
 ],
 [
 "Centaurea cyanus",
-81
+81,
+[
+"bachelor's button",
+"C. cyanus",
+"cornflower",
+"Cornflower"
+]
 ],
 [
 "tarragon",
-80
+80,
+[
+"Artemisia dracunculus",
+"Artemisia dracunculus leaf",
+"tarragon leaf"
+]
 ],
 [
 "Apium graveolens",
-80
+80,
+[
+"smallage",
+"wild celery"
+]
 ],
 [
 "medicinal plant",
-79
+79,
+[
+"drug plant",
+"medicinal herb",
+"medicinal herbs",
+"medicinal plants",
+"plants, medicinal"
+]
 ],
 [
 "cardamom",
-74
+74,
+[
+"cardamom seeds",
+"cardamon",
+"cardamum",
+"ground cadamom"
+]
 ],
 [
 "Mentha spicata",
-61
+61,
+[
+"common mint",
+"garden mint",
+"lamb mint J",
+"mackerel mint",
+"spearmint"
+]
 ],
 [
 "vanilla",
-60
+60,
+[]
 ],
 [
 "paprika",
-59
+59,
+[]
 ],
 [
 "Levisticum officinale",
-57
+57,
+[
+"lovage",
+"wild celery"
+]
 ],
 [
 "Aleurites moluccanus",
-45
+45,
+[
+"Aleurites moluccana",
+"buah keras",
+"candleberry",
+"Candlenut",
+"godou",
+"Indian walnut",
+"Kekuna tree",
+"kemiri",
+"kukui nut tree",
+"nuez de la India",
+"varnish tree"
+]
 ],
 [
 "Alpinia galanga",
-45
+45,
+[]
 ],
 [
 "curry powder",
-43
+43,
+[]
 ],
 [
 "celery",
-42
+42,
+[
+"Chinese celery",
+"leaf celery"
+]
 ],
 [
 "bay leaf",
-41
+41,
+[]
 ],
 [
 "Sichuan pepper",
-40
+40,
+[
+"Chinese coriander",
+"Sichuan peppercorn"
+]
 ],
 [
 "peppercorn",
-39
+39,
+[
+"перец",
+"перцы"
+]
 ],
 [
 "asafoetida",
-34
+34,
+[
+"Devil's dung",
+"stinking gum"
+]
 ],
 [
 "za'atar",
-33
+33,
+[
+"zaatar",
+"za'tar",
+"zatar"
+]
 ],
 [
 "Alkanna tinctoria",
-31
+31,
+[
+"alkanet",
+"dyer's alkanet",
+"dyer's bugloss",
+"dyers' bugloss",
+"Languedoc bugloss",
+"orchanet",
+"Spanish bugloss"
+]
 ],
 [
 "juniper berry",
-29
+29,
+[
+"Juniperi pseudo-fructus"
+]
 ],
 [
 "Boesenbergia rotunda",
-28
+28,
+[]
 ],
 [
 "chamomile",
-28
+28,
+[
+"camomile"
+]
 ],
 [
 "thyme",
-26
+26,
+[]
 ],
 [
 "chili powder",
-25
+25,
+[
+"chile powder",
+"chili powder blend",
+"chilli powder",
+"powdered chili"
+]
 ],
 [
 "mustard seed",
-21
+21,
+[
+"mustard plant grain",
+"Sinapis grain"
+]
 ],
 [
 "mahleb",
-21
+21,
+[
+"mahalepi",
+"mahlab"
+]
 ],
 [
 "spice mix",
-20
+20,
+[
+"spice blend",
+"spice mixture"
+]
 ],
 [
 "Thai basil",
-20
+20,
+[]
 ],
 [
 "Piper retrofractum",
-19
+19,
+[]
 ],
 [
 "ginger",
-18
+18,
+[
+"ginger rhizome",
+"ginger root",
+"ginger spice"
+]
 ],
 [
 "chili oil",
-17
+17,
+[]
 ],
 [
 "clove",
-17
+17,
+[
+"Caryophylli Flos",
+"clove flower",
+"cloves"
+]
 ],
 [
 "aromatic plant",
-17
+17,
+[
+"aromatic vegetable"
+]
 ],
 [
 "panch phoron",
-17
+17,
+[
+"Pancha Phutana"
+]
 ],
 [
 "culinary herb",
-16
+16,
+[
+"herb",
+"herb (culinary)",
+"herbs"
+]
 ],
 [
 "Aleppo pepper",
-16
+16,
+[
+"Halaby pepper"
+]
 ],
 [
 "Nemophila menziesii",
-15
+15,
+[
+"Baby blue eyes"
+]
 ],
 [
 "amchoor",
-13
+13,
+[
+"aamchur",
+"amchur",
+"mango powder"
+]
 ],
 [
 "garlic",
-12
+12,
+[
+"bulb of garlic",
+"head of garlic"
+]
 ],
 [
 "allspice",
-11
+11,
+[
+"Jamaica pepper"
+]
 ],
 [
 "facing heaven pepper",
-11
+11,
+[
+"Capsicum annuum var. conoides ‘Chao Tian Jiao’"
+]
 ],
 [
 "Erős Pista",
-10
+10,
+[
+"Eros Pista",
+"Erös Pista",
+"Strong Steve"
+]
 ],
 [
 "sumac",
-10
+10,
+[
+"Sicilian sumac",
+"sumach",
+"sumaq"
+]
 ],
 [
 "Kampot pepper",
-10
+10,
+[
+"Indochina pepper",
+"Indochinese pepper"
+]
 ],
 [
 "crushed red pepper",
-10
+10,
+[
+"CRP",
+"red pepper flakes"
+]
 ],
 [
 "Sharena sol",
-9
+9,
+[]
 ],
 [
 "wasabi",
-9
+9,
+[]
 ],
 [
 "garlic powder",
-8
+8,
+[]
 ],
 [
 "onion powder",
-8
+8,
+[]
 ],
 [
 "Maojian tea",
-7
+7,
+[
+"Green Tip",
+"Tippy Green",
+"Yu Maofeng"
+]
 ],
 [
 "coriander seed",
-7
+7,
+[
+"coriander"
+]
 ],
 [
 "alligator pepper",
-7
+7,
+[
+"hepper pepper",
+"mbongo spice"
+]
 ],
 [
 "sesame seed",
-6
+6,
+[]
 ],
 [
 "Urfa biber",
-6
+6,
+[
+"isot",
+"isot pepper",
+"Urfa pepper"
+]
 ],
 [
 "star anise",
-6
+6,
+[
+"badiam",
+"staranise"
+]
 ],
 [
 "soup vegetables",
-6
+6,
+[
+"soup greens"
+]
 ],
 [
 "filé",
-6
+6,
+[
+"File",
+"File powder",
+"Filé powder"
+]
 ],
 [
 "Pimentón de la Vera",
-5
+5,
+[
+"Paprika from La Vera, Spain"
+]
+],
+[
+"kōrēgusu",
+4,
+[]
+],
+[
+"mugwort",
+4,
+[]
+],
+[
+"jimbu",
+4,
+[]
+],
+[
+"turmeric",
+4,
+[
+"ground turmeric",
+"powdered turmeric",
+"turmeric powder"
+]
+],
+[
+"caraway seeds",
+4,
+[
+"caraway fruit",
+"caraway seed"
+]
+],
+[
+"tataki gobō",
+4,
+[]
+],
+[
+"black pepper",
+4,
+[
+"black peppercorn"
+]
+],
+[
+"oregano",
+4,
+[]
+],
+[
+"mint",
+3,
+[]
+],
+[
+"Pimentón de Mallorca",
+3,
+[
+"Paprika Tap de Cortí"
+]
+],
+[
+"celery powder",
+3,
+[]
+],
+[
+"lemon zest",
+3,
+[
+"grated lemon peel",
+"lemon peel"
+]
+],
+[
+"Huáng bǎi",
+3,
+[]
+],
+[
+"Aglaophotis",
+3,
+[]
+],
+[
+"Creole mustard",
+3,
+[]
+],
+[
+"Lawry's",
+3,
+[
+"Lawry's The Prime Rib"
+]
+],
+[
+"strewing herb",
+3,
+[]
+],
+[
+"wild herb",
+2,
+[]
+],
+[
+"Hot snack",
+2,
+[]
+],
+[
+"fennel fruit",
+2,
+[
+"fennel",
+"fennel (herb)",
+"fennel seed",
+"fennel seeds"
+]
+],
+[
+"anise seed",
+2,
+[
+"aniseed",
+"aniseseed"
+]
+],
+[
+"Taioro",
+2,
+[]
+],
+[
+"jakhya",
+2,
+[
+"dog mustard",
+"wild mustard"
+]
+],
+[
+"Azafrán de la Mancha",
+2,
+[]
+],
+[
+"cumin seed",
+2,
+[]
+],
+[
+"mustard powder",
+2,
+[]
+],
+[
+"fennel leaves",
+1,
+[
+"fennel fronds",
+"fennel leaf",
+"Foeniculum vulgare leaf"
+]
+],
+[
+"garlic chive",
+1,
+[
+"Allium tuberosum flowering top"
+]
+],
+[
+"cubeb",
+1,
+[
+"Java pepper",
+"tailed pepper"
+]
+],
+[
+"Indonesian bay leaf",
+1,
+[
+"Asian bay leaf",
+"Indian baywatch"
+]
+],
+[
+"Safran de Mund AOC",
+1,
+[]
+],
+[
+"Sancho",
+1,
+[]
+],
+[
+"Rohdos",
+1,
+[]
+],
+[
+"cassia bud",
+1,
+[
+"cassia buds",
+"Chinese cassia bud"
+]
+],
+[
+"Herb garden",
+1,
+[
+"Bylinková zahrádka"
+]
+],
+[
+"Chilmol",
+1,
+[]
+],
+[
+"Nanfia",
+1,
+[]
+],
+[
+"Syzygium aqueum (leaves)",
+1,
+[]
+],
+[
+"mignonettes",
+1,
+[]
+],
+[
+"savory",
+1,
+[]
+],
+[
+"lemon powder",
+1,
+[]
+],
+[
+"chervil",
+1,
+[]
+],
+[
+"herb vinegar",
+1,
+[]
+],
+[
+"Usnea thallus",
+1,
+[]
+],
+[
+"Mirchi",
+1,
+[
+"Lalmirchi"
+]
+],
+[
+"Paprika of Szeged",
+1,
+[]
+],
+[
+"Paprika of Kalocsa",
+1,
+[]
+],
+[
+"spinach",
+1,
+[
+"green spinach"
+]
+],
+[
+"Datura leaf",
+1,
+[
+"Folia Daturae stramonii"
+]
+],
+[
+"ginger powder",
+1,
+[
+"ground ginger"
+]
+],
+[
+"Lettuce leaf basil",
+1,
+[]
+],
+[
+"cilantro",
+1,
+[
+"Chinese parsley",
+"coriander",
+"coriander leaf"
+]
+],
+[
+"rosemary",
+1,
+[]
+],
+[
+"shallot",
+1,
+[
+"French red shallot"
+]
+],
+[
+"herbal salt",
+1,
+[]
+],
+[
+"Pincar",
+1,
+[]
+],
+[
+"Sacred herbs",
+1,
+[]
+],
+[
+"grains of paradise",
+1,
+[
+"Aframomum melegueta seeds",
+"fom wisa",
+"Guinea grains",
+"melegueta pepper",
+"ossame"
+]
+],
+[
+"Empetrum nigrum leaf",
+0,
+[]
+],
+[
+"Macropiper excelsum leaf",
+0,
+[
+"kawakawa leaf"
+]
+],
+[
+"Oxalis corniculata leaf",
+0,
+[
+"wood sorrel leaf"
+]
+],
+[
+"Ligularia fischerii leaf",
+0,
+[]
+],
+[
+"long pepper",
+0,
+[]
+],
+[
+"purslane herb",
+0,
+[
+"Portulacae Herba",
+"Portulaca oleracea flowering top"
+]
+],
+[
+"catnip",
+0,
+[
+"catmint"
+]
+],
+[
+"summer savory",
+0,
+[
+"Satureja hortensis"
+]
+],
+[
+"winter savory",
+0,
+[]
+],
+[
+"fenugreek leaf",
+0,
+[]
+],
+[
+"Brazillian pepper",
+0,
+[
+"Christmasberry",
+"rose pepper"
+]
+],
+[
+"wild thyme",
+0,
+[]
+],
+[
+"Saigon cinnamon",
+0,
+[]
+],
+[
+"alfalfa leaf",
+0,
+[]
+],
+[
+"Cinnamomum tamala leaf",
+0,
+[
+"Indian bay leaf"
+]
+],
+[
+"black cardamom",
+0,
+[]
+],
+[
+"Bunium bulbocastanum leaf",
+0,
+[]
+],
+[
+"spearmint",
+0,
+[
+"spearmin leaf"
+]
+],
+[
+"bugle",
+0,
+[
+"blue bugle",
+"bugleherb"
+]
+],
+[
+"watercress",
+0,
+[
+"Watercress"
+]
+],
+[
+"Adiantum jordanii leaf",
+0,
+[]
+],
+[
+"black cumin",
+0,
+[
+"black caraway",
+"kalonji",
+"onion seed"
+]
+],
+[
+"sweet chestnut leaf",
+0,
+[]
+],
+[
+"henbane",
+0,
+[
+"black henbane",
+"stinking nightshade"
+]
+],
+[
+"Gymnema sylvestre leaf",
+0,
+[]
+],
+[
+"Indian borage",
+0,
+[]
+],
+[
+"Aloe vera leaf",
+0,
+[]
+],
+[
+"sassafras leaf",
+0,
+[]
+],
+[
+"angelica seed",
+0,
+[]
+],
+[
+"Spanish thyme",
+0,
+[]
+],
+[
+"apple mint",
+0,
+[]
+],
+[
+"turmeric leaf",
+0,
+[]
+],
+[
+"Garcinia xanthochymus fruit",
+0,
+[]
+],
+[
+"fireweed leaf",
+0,
+[
+"rosebay willowherb leaf"
+]
+],
+[
+"spring violet garlic",
+0,
+[]
+],
+[
+"Virginia pepperweed",
+0,
+[]
+],
+[
+"perennial herb",
+0,
+[]
+],
+[
+"dehydrated onion flakes",
+0,
+[
+"dehydrated onion"
+]
+],
+[
+"invasive herb",
+0,
+[
+"invasive herbs"
+]
+],
+[
+"massoy bark",
+0,
+[]
+],
+[
+"Vanilla Beans",
+0,
+[
+"Baking Mix Spices",
+"Herbs & Spices"
+]
+],
+[
+"dill seed",
+0,
+[
+"dillseed"
+]
+],
+[
+"Madagascar vanilla",
+0,
+[
+"Bourbon vanilla",
+"Madagascan vanilla"
+]
+],
+[
+"Cinnamomi Cortex",
+0,
+[
+"Chinese cinnamon bark",
+"cinnamon bark"
+]
+],
+[
+"cinnamon powder",
+0,
+[
+"ground cinnamon"
+]
+],
+[
+"chicory green",
+0,
+[]
+],
+[
+"Cymbopogon citratus leaf",
+0,
+[
+"lemongrass leaf"
+]
+],
+[
+"dill",
+0,
+[
+"Anethum graveolens leaf",
+"dill leaf",
+"dill weed",
+"dillweed"
+]
+],
+[
+"chives",
+0,
+[]
+],
+[
+"garden cress",
+0,
+[]
+],
+[
+"sage",
+0,
+[
+"Salvia",
+"Salvia officinalis"
+]
+],
+[
+"Lemon Gras",
+0,
+[]
+],
+[
+"wild garlic",
+0,
+[]
+],
+[
+"herb cream cheese",
+0,
+[]
+],
+[
+"majoram herb",
+0,
+[]
+],
+[
+"fish spices",
+0,
+[]
+],
+[
+"lemon thyme",
+0,
+[]
+],
+[
+"lemon leaf",
+0,
+[]
+],
+[
+"wasabi paste",
+0,
+[]
+],
+[
+"salad burnet",
+0,
+[]
+],
+[
+"sansho pepper",
+0,
+[]
+],
+[
+"dried herbs",
+0,
+[]
+],
+[
+"comfrey",
+0,
+[]
+],
+[
+"southernwood",
+0,
+[]
+],
+[
+"marjoram",
+0,
+[
+"Origani majoranae herba"
+]
+],
+[
+"nettle leaf",
+0,
+[
+"Urticae folium"
+]
+],
+[
+"epazote leaf",
+0,
+[
+"epazote",
+"epazote leaves",
+"Jesuit's tea",
+"Mexican tea"
+]
 ]
 ]

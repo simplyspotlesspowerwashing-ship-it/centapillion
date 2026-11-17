@@ -1,326 +1,820 @@
 [
 [
 "Sydney",
-266
+266,
+[
+"Emerald City",
+"Eora",
+"Gadi",
+"Gadigal",
+"Greater Sydney",
+"Harbour City",
+"Port Jackson",
+"Sydney, Australia",
+"Sydney, New South Wales",
+"Sydney, New South Wales, Australia",
+"Sydney, N. S. W.",
+"Sydney, N.S.W.",
+"Sydney, NSW",
+"Sydney, NSW, Australia",
+"Warrane"
+]
 ],
 [
 "Canberra",
-213
+213,
+[
+"Canberra, Australia",
+"Canberra, Australian Capital Territory"
+]
 ],
 [
 "Melbourne",
-210
+210,
+[
+"Greater Melbourne",
+"Melbourne, AUS",
+"Melbourne, Australia",
+"Melbourne, VIC",
+"Melbourne, VIC, Australia",
+"Melbourne, Victoria",
+"Melbourne, Victoria, Australia",
+"Melbs",
+"Naarm",
+"Narrm"
+]
 ],
 [
 "Perth",
-177
+177,
+[
+"Boorloo",
+"Boorloo, Western Australia",
+"Perth, AUS",
+"Perth, Australia",
+"Perth, W.A.",
+"Perth, Western Australia"
+]
 ],
 [
 "Brisbane",
-168
+168,
+[
+"Brisbane, QLD",
+"Brisbane, Queensland",
+"Magandjin",
+"Maganjin",
+"Meaanjin",
+"Meanjin"
+]
 ],
 [
 "Adelaide",
-161
+161,
+[
+"Adelaide, Australia",
+"Adelaide, SA",
+"Adelaide, S. Aust.",
+"Adelaide, South Australia"
+]
 ],
 [
 "Hobart",
-135
+135,
+[
+"Greater Hobart",
+"Hobarton",
+"Hobart, Tas.",
+"Hobart, Tasmania",
+"Hobart Town"
+]
 ],
 [
 "Darwin",
-134
+134,
+[
+"Darwin, Australia",
+"Darwin, Northern Territory",
+"Darwin, Northern Territory, Australia",
+"Garramilla",
+"Van Diemen's Land"
+]
 ],
 [
 "Newcastle",
-100
+100,
+[
+"Newcastle, New South Wales",
+"Newcastle, New South Wales, Australia"
+]
 ],
 [
 "Gold Coast",
-93
+93,
+[
+"Gold Coast, QLD",
+"Gold Coast, Queensland"
+]
 ],
 [
 "Wollongong",
-84
+84,
+[
+"Wollongong, New South Wales",
+"Wollongong, New South Wales, Australia"
+]
 ],
 [
 "Cairns",
-83
+83,
+[
+"Cairns, Australia",
+"Cairns, Queensland"
+]
 ],
 [
 "Geelong",
-77
+77,
+[
+"Geelong, Australia",
+"Geelong, Victoria"
+]
 ],
 [
 "Townsville",
-70
+70,
+[
+"Gurambilbarra",
+"Townsville, Australia",
+"Townsville, Queensland"
+]
 ],
 [
 "Ballarat",
-68
+68,
+[
+"Ballaarat",
+"Ballarat, Victoria",
+"Ballarat, Victoria, Australia",
+"Greater Ballarat"
+]
 ],
 [
 "Kingston",
-67
+67,
+[
+"Kingston, Norfolk Island"
+]
 ],
 [
 "Bendigo",
-66
+66,
+[
+"Bendigo, Victoria",
+"Bendigo, Victoria, Australia",
+"Sandhurst"
+]
 ],
 [
 "Launceston",
-62
+62,
+[
+"Launceston, Tas.",
+"Launceston, Tasmania",
+"Lonnie"
+]
 ],
 [
 "Wagga Wagga",
-57
+57,
+[
+"Wagga",
+"Wagga Wagga, New South Wales",
+"Wagga Wagga, NSW"
+]
 ],
 [
 "Toowoomba",
-57
+57,
+[
+"Toowoomba, Queensland",
+"Toowoomba, Queensland, Australia"
+]
 ],
 [
 "Albury",
-54
+54,
+[
+"Albury, New South Wales",
+"Albury, New South Wales, Australia"
+]
 ],
 [
 "Broken Hill",
-52
+52,
+[
+"Broken Hill, New South Wales",
+"Broken Hill, New South Wales, Australia"
+]
 ],
 [
 "Fremantle",
-51
+51,
+[
+"Fremantle, Australia",
+"Fremantle, W.A.",
+"Fremantle, Western Australia",
+"Fremantle, Western Australia, Australia",
+"Freo",
+"Walyalup"
+]
 ],
 [
 "Mackay",
-51
+51,
+[
+"Mackay, Queensland",
+"Mackay, Queensland, Australia"
+]
 ],
 [
 "Kalgoorlie",
-50
+50,
+[
+"Kal",
+"Kalgoorlie-Boulder",
+"Kalgoorlie-Boulder, Western Australia",
+"Kalgoorlie, W.A.",
+"Kalgoorlie, Western Australia"
+]
 ],
 [
 "Orange",
-50
+50,
+[
+"Orange, New South Wales",
+"Orange, New South Wales, Australia"
+]
 ],
 [
 "Coffs Harbour",
-50
+50,
+[
+"Coffs",
+"Coffs Harbour, New South Wales",
+"Coffs Harbour, New South Wales, Australia"
+]
 ],
 [
 "Rockhampton",
-49
+49,
+[]
 ],
 [
 "Port Augusta",
-48
+48,
+[
+"Port Augusta, South Australia",
+"Port Augusta, South Australia, Australia"
+]
 ],
 [
 "Bathurst",
-48
+48,
+[
+"Bathurst, New South Wales",
+"Bathurst, New South Wales, Australia"
+]
 ],
 [
 "Dubbo",
-48
+48,
+[
+"Dubbo, New South Wales",
+"Dubbo, New South Wales, Australia"
+]
 ],
 [
 "Bunbury",
-47
+47,
+[
+"Bunbury, W.A.",
+"Bunbury, Western Australia",
+"Bunbury, Western Australia, Australia",
+"Goomburrup"
+]
 ],
 [
 "Mount Isa",
-47
+47,
+[
+"Mount Isa, Queensland",
+"Mount Isa, Queensland, Australia"
+]
 ],
 [
 "Mandurah",
-46
+46,
+[
+"Mandurah, Western Australia",
+"Mandurah, Western Australia, Australia"
+]
 ],
 [
 "Bundaberg",
-45
+45,
+[]
 ],
 [
 "Armidale",
-45
+45,
+[
+"Armidale, New South Wales",
+"Armidale, New South Wales, Australia"
+]
 ],
 [
 "Mildura",
-45
+45,
+[
+"Mildura, Victoria",
+"Mildura, Victoria, Australia"
+]
 ],
 [
 "Whyalla",
-45
+45,
+[
+"Greater Whyalla",
+"Whyalla, South Australia",
+"Whyalla, South Australia, Australia"
+]
 ],
 [
 "Gosford",
-44
+44,
+[
+"Gosford, New South Wales",
+"Gosford, New South Wales, Australia"
+]
 ],
 [
 "Geraldton",
-43
+43,
+[
+"Geraldton, Western Australia"
+]
 ],
 [
 "Queanbeyan",
-43
+43,
+[
+"Queanbeyan, New South Wales",
+"Queanbeyan, New South Wales, Australia"
+]
 ],
 [
 "Devonport",
-43
+43,
+[
+"Devonport, Tasmania",
+"Devonport, Tasmania, Australia",
+"Formby",
+"Formby, Tasmania",
+"Torquay",
+"Torquay, Tasmania"
+]
 ],
 [
 "Warrnambool",
-43
+43,
+[
+"Warrnambool, Victoria",
+"Warrnambool, Victoria, Australia"
+]
 ],
 [
 "Goulburn",
-42
+42,
+[
+"Goulburn, New South Wales",
+"Goulburn, New South Wales, Australia"
+]
 ],
 [
 "Mount Gambier",
-41
+41,
+[
+"Mount Gambier, South Australia",
+"Mount Gambier, South Australia, Australia"
+]
 ],
 [
 "Shepparton",
-41
+41,
+[
+"Shepparton, Victoria",
+"Shepparton, Victoria, Australia"
+]
 ],
 [
 "Tamworth",
-40
+40,
+[
+"Tamworth, New South Wales",
+"Tamworth, New South Wales, Australia"
+]
 ],
 [
 "Wodonga",
-40
+40,
+[
+"Wodonga, Victoria",
+"Wodonga, Victoria, Australia"
+]
 ],
 [
 "Victor Harbor",
-39
+39,
+[
+"Victor Harbor, South Australia",
+"Victor Harbor, South Australia, Australia"
+]
 ],
 [
 "Wangaratta",
-39
+39,
+[
+"Wangaratta, Victoria",
+"Wangaratta, Victoria, Australia"
+]
 ],
 [
 "Murray Bridge",
-39
+39,
+[
+"Murray Bridge, South Australia",
+"Murray Bridge, South Australia, Australia"
+]
 ],
 [
 "Maryborough",
-38
+38,
+[
+"Maryborough, Queensland",
+"Maryborough, Queensland, Australia",
+"Maryborough, Victoria",
+"Maryborough, Victoria, Australia",
+"Simsons"
+]
 ],
 [
 "Grafton",
-38
+38,
+[
+"Grafton, New South Wales",
+"Grafton, New South Wales, Australia"
+]
 ],
 [
 "Burnie",
-38
+38,
+[
+"Burnie, Tasmania",
+"Emu Bay"
+]
 ],
 [
 "Port Macquarie",
-38
+38,
+[
+"PMQ",
+"Port",
+"Port Macquarie, New South Wales",
+"Port Macquarie, New South Wales, Australia"
+]
 ],
 [
 "Gladstone",
-38
+38,
+[
+"Gladstone, QLD",
+"Gladstone, Queensland"
+]
 ],
 [
 "Lismore",
-37
+37,
+[
+"Lismore, New South Wales",
+"Lismore, New South Wales, Australia"
+]
 ],
 [
 "Cessnock",
-37
+37,
+[
+"Cessnock, New South Wales",
+"Cessnock, New South Wales, Australia"
+]
 ],
 [
 "Griffith",
-35
+35,
+[
+"Griffith, New South Wales",
+"Griffith, New South Wales, Australia"
+]
 ],
 [
 "Traralgon",
-35
+35,
+[
+"Traralgon, Victoria",
+"Traralgon, Victoria, Australia"
+]
 ],
 [
 "Ararat",
-35
+35,
+[
+"Ararat, Victoria",
+"Ararat, Victoria, Australia"
+]
 ],
 [
 "Sale",
-33
+33,
+[
+"Sale, Australia",
+"Sale, Victoria"
+]
 ],
 [
 "Horsham",
-33
+33,
+[
+"Horsham, Victoria",
+"Horsham, Victoria, Australia"
+]
 ],
 [
 "Hervey Bay",
-33
+33,
+[
+"Hervey Bay, Queensland"
+]
 ],
 [
 "Ipswich",
-32
+32,
+[]
 ],
 [
 "Portland",
-32
+32,
+[
+"Leywhollot",
+"Portland, Vic.",
+"Portland, Victoria"
+]
 ],
 [
 "Palmerston",
-32
+32,
+[
+"Palmerston, Northern Territory"
+]
 ],
 [
 "Lithgow",
-32
+32,
+[
+"Lithgow, New South Wales",
+"Lithgow, New South Wales, Australia"
+]
 ],
 [
 "Busselton",
-31
+31,
+[
+"Busselton, W.A.",
+"Busselton, Western Australia",
+"Busselton, Western Australia, Australia"
+]
 ],
 [
 "Hamilton",
-28
+28,
+[
+"Hamilton, Victoria",
+"Hamilton, Victoria, Australia"
+]
 ],
 [
 "Bairnsdale",
-28
+28,
+[
+"Bairnsdale, Victoria",
+"Bairnsdale, Victoria, Australia"
+]
 ],
 [
 "Swan Hill",
-27
+27,
+[
+"Swan Hill, Victoria",
+"Swan Hill, Victoria, Australia"
+]
 ],
 [
 "Taree",
-24
+24,
+[
+"Taree, New South Wales",
+"Taree, New South Wales, Australia"
+]
 ],
 [
 "Colac",
-23
+23,
+[
+"Colac, Victoria",
+"Colac, Victoria, Australia"
+]
 ],
 [
 "Sydney Olympic Park",
-20
+20,
+[
+"Sydney Olympic Park, New South Wales",
+"Sydney Olympic Park, New South Wales, Australia"
+]
 ],
 [
 "Bowen",
-19
+19,
+[
+"Bowen, Queensland",
+"Bowen, Queensland, Australia"
+]
 ],
 [
 "Castlemaine",
-18
+18,
+[
+"Castlemaine, Victoria",
+"Castlemaine, Victoria, Australia"
+]
 ],
 [
 "Frankston",
-17
+17,
+[
+"Frankston, Victoria",
+"Frankston, Victoria, Australia"
+]
 ],
 [
 "Dandenong",
-16
+16,
+[
+"Dandenong, Victoria",
+"Dandenong, Victoria, Australia"
+]
 ],
 [
 "Pakenham",
-15
+15,
+[
+"Pakenham, Victoria",
+"Pakenham, Victoria, Australia"
+]
 ],
 [
 "Southport",
-13
+13,
+[
+"Southport, Queensland",
+"Southport, Queensland, Australia"
+]
+],
+[
+"Salamanca Place",
+7,
+[
+"Salamanca"
+]
+],
+[
+"South Bank",
+7,
+[]
+],
+[
+"Parliamentary Triangle, Canberra",
+6,
+[
+"National Triangle"
+]
+],
+[
+"Sydney Cove West Archaeological Precinct",
+4,
+[]
+],
+[
+"Melbourne Sports and Entertainment Precinct",
+4,
+[]
+],
+[
+"Naracoopa",
+3,
+[
+"Naracoopa, Tasmania",
+"Naracoopa, Tasmania, Australia"
+]
+],
+[
+"Greater Perth",
+3,
+[]
+],
+[
+"Walsh Bay Wharves Precinct",
+3,
+[]
+],
+[
+"Merewether",
+3,
+[
+"Merewether, New South Wales",
+"Merewether, New South Wales, Australia"
+]
+],
+[
+"Salt Ash",
+3,
+[
+"Salt Ash, New South Wales",
+"Salt Ash, New South Wales, Australia"
+]
+],
+[
+"Yarrawonga-Mulwala",
+2,
+[]
+],
+[
+"Chinatown, Perth",
+2,
+[]
+],
+[
+"Millers Point & Dawes Point Village Precinct",
+2,
+[]
+],
+[
+"Little Italy",
+2,
+[
+"Little Italy, Melbourne",
+"Lygon Street"
+]
+],
+[
+"Melbourne Arts Precinct",
+2,
+[]
+],
+[
+"Opera Quays",
+1,
+[]
+],
+[
+"Treasury Reserve Precinct",
+1,
+[]
+],
+[
+"East End Theatre District",
+1,
+[]
+],
+[
+"The Strand",
+1,
+[]
+],
+[
+"Macquarie Street East Precinct",
+0,
+[
+"MESP"
+]
 ]
 ]

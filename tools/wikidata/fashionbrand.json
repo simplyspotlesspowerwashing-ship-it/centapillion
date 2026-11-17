@@ -1,118 +1,1482 @@
 [
 [
 "H&M",
-70
+70,
+[
+"H and M",
+"Hennes & Mauritz",
+"H & M",
+"H & M Hennes & Mauritz AB"
+]
 ],
 [
 "Uniqlo",
-64
+64,
+[
+"Kabushiki-gaisha Yunikuro",
+"UNIQLO",
+"Uniqlo Co., Ltd.",
+"Yunikuro",
+"ユニクロ",
+"株式会社ユニクロ"
+]
 ],
 [
 "Lacoste S.A.",
-60
+60,
+[
+"Lacoste SA",
+"Lacoste S.A./Casper Schmedes"
+]
 ],
 [
 "Victoria’s Secret",
-59
+59,
+[]
 ],
 [
 "Calvin Klein",
-48
+48,
+[
+"Calvin Klein Inc.",
+"CK"
+]
 ],
 [
 "Yves Saint Laurent",
-40
+40,
+[
+"Saint Laurent",
+"Saint Laurent Paris",
+"YSL"
+]
 ],
 [
 "Benetton Group",
-40
+40,
+[
+"Benetton",
+"Benetton Group S.r.l."
+]
 ],
 [
 "Valentino",
-32
+32,
+[]
 ],
 [
 "Escada SE",
-21
+21,
+[
+"Escada"
+]
 ],
 [
 "Desigual",
-20
+20,
+[
+"Deƨigual"
+]
 ],
 [
 "Off-White",
-19
+19,
+[
+"OFF-WHITE",
+"OFF-WHITE c/o VIRGIL ABLOH",
+"Off-White™",
+"PYREX VISION"
+]
 ],
 [
 "G-Star Raw",
-14
+14,
+[
+"G Star",
+"GStar",
+"G-Star RAW"
+]
 ],
 [
 "Fred Perry",
-12
+12,
+[]
 ],
 [
 "Kitsuné",
-12
+12,
+[
+"Café Kitsuné",
+"Kitsune",
+"Kitsuné Music",
+"Maison Kitsuné"
+]
 ],
 [
 "Napapijri",
-11
+11,
+[]
 ],
 [
 "Capri Holdings",
-10
+10,
+[
+"Capri Holdings Limited",
+"Michael Kors Holdings"
+]
 ],
 [
 "DSQUARED2",
-10
+10,
+[
+"Dsquared",
+"Dsquared2"
+]
 ],
 [
 "Cheap Monday",
-10
+10,
+[]
 ],
 [
 "Marithé + François Girbaud",
-9
+9,
+[
+"Girbaud",
+"Marithé et François Girbaud",
+"Marithe Francois Girbaud"
+]
 ],
 [
 "Fiorucci",
-8
+8,
+[
+"Fiorucci Holdings Limited"
+]
 ],
 [
 "Suitsupply",
-8
+8,
+[
+"Suit Supply",
+"Suit Supply B.V."
+]
 ],
 [
 "Delvaux",
-8
+8,
+[]
 ],
 [
 "K-way",
-8
+8,
+[]
 ],
 [
 "GU",
-8
+8,
+[
+"G.u."
+]
 ],
 [
 "JOOP!",
-7
+7,
+[]
 ],
 [
 "Jockey International",
-7
+7,
+[
+"Jockey"
+]
 ],
 [
 "Fenty",
-7
+7,
+[
+"FEИTY"
+]
 ],
 [
 "Pink",
-6
+6,
+[
+"Pink Victoria's Secret",
+"Pink Victorias Secret"
+]
 ],
 [
 "PINKO",
-6
+6,
+[
+"Pinko"
+]
+],
+[
+"Matières Fécales",
+5,
+[
+"Fecal Matter",
+"Fecal Matters"
+]
+],
+[
+"Heatherette",
+5,
+[]
+],
+[
+"Gudrun Sjödén",
+5,
+[]
+],
+[
+"Mainbocher",
+5,
+[]
+],
+[
+"Emporio Armani",
+5,
+[]
+],
+[
+"sacai",
+5,
+[]
+],
+[
+"Bebe Stores",
+5,
+[]
+],
+[
+"Armani Exchange",
+5,
+[]
+],
+[
+"X-Large",
+5,
+[]
+],
+[
+"United Arrows",
+4,
+[]
+],
+[
+"Mikimoto",
+4,
+[
+"K. Mikimoto & Co."
+]
+],
+[
+"Theory",
+4,
+[]
+],
+[
+"Bernocchi",
+4,
+[
+"Nicola Bernocchi"
+]
+],
+[
+"Custo Barcelona",
+4,
+[
+"Custo"
+]
+],
+[
+"Pataugas",
+4,
+[]
+],
+[
+"Adidas Originals",
+4,
+[
+"adidas original",
+"adidas Originals"
+]
+],
+[
+"COS",
+4,
+[
+"COS Clothing",
+"COS.com",
+"COS Stores"
+]
+],
+[
+"Kariyushi shirt",
+4,
+[
+"Kariyushi wear"
+]
+],
+[
+"Miss Selfridge",
+4,
+[]
+],
+[
+"Xuly Bët",
+4,
+[
+"Xuly Bët Funkin' Fashion Factory"
+]
+],
+[
+"Savage X Fenty",
+3,
+[]
+],
+[
+"Weekday",
+3,
+[]
+],
+[
+"Palm Angels",
+3,
+[]
+],
+[
+"Sisley",
+3,
+[]
+],
+[
+"Seraphine",
+3,
+[
+"Séraphine"
+]
+],
+[
+"Ramsey",
+3,
+[]
+],
+[
+"'47",
+3,
+[
+"47",
+"'47 (brand)",
+"Twins Enterprises"
+]
+],
+[
+"Isaia",
+3,
+[]
+],
+[
+"The Row",
+3,
+[]
+],
+[
+"JW Anderson",
+3,
+[
+"J.W. Anderson"
+]
+],
+[
+"Pedro del Hierro",
+3,
+[]
+],
+[
+"Sandro Paris",
+3,
+[
+"Sandro"
+]
+],
+[
+"WOOYOUNGMI",
+3,
+[
+"Wooyoungmi"
+]
+],
+[
+"Frankie Morello",
+3,
+[]
+],
+[
+"Robe di Kappa",
+3,
+[]
+],
+[
+"Aimé Leon Dore",
+3,
+[]
+],
+[
+"Badgley Mischka",
+3,
+[]
+],
+[
+"Camp David",
+3,
+[]
+],
+[
+"Mosaert",
+3,
+[]
+],
+[
+"Pineda Covalín",
+3,
+[
+"Pineda Covalin"
+]
+],
+[
+"Rock and Republic",
+3,
+[]
+],
+[
+"Sass & Bide",
+3,
+[]
+],
+[
+"Bugatti",
+2,
+[
+"bugatti"
+]
+],
+[
+"Byblos",
+2,
+[]
+],
+[
+"Ganni",
+2,
+[]
+],
+[
+"Sangeeta Boochra",
+2,
+[]
+],
+[
+"Number (N)ine",
+2,
+[
+"Number 9",
+"Number Nine"
+]
+],
+[
+"MISBHV",
+2,
+[]
+],
+[
+"Walk-Over shoes",
+2,
+[]
+],
+[
+"Bode",
+2,
+[]
+],
+[
+"Zodiac Clothing Company Ltd.",
+2,
+[
+"Zodiac",
+"Zodiac Clothing"
+]
+],
+[
+"Sleeper",
+2,
+[]
+],
+[
+"Pretty Green",
+2,
+[]
+],
+[
+"CECIL McBEE",
+2,
+[]
+],
+[
+"De Puta Madre 69",
+2,
+[]
+],
+[
+"Sasta",
+2,
+[]
+],
+[
+"Vuori",
+2,
+[]
+],
+[
+"Gorman",
+2,
+[]
+],
+[
+"Patta",
+2,
+[
+"Patta Exclusive Sneakers"
+]
+],
+[
+"The Attico",
+2,
+[
+"\"The Attico\" brand"
+]
+],
+[
+"Lancerto",
+2,
+[]
+],
+[
+"Courrèges",
+2,
+[
+"Courreges"
+]
+],
+[
+"Mishka NYC",
+2,
+[]
+],
+[
+"Band of Outsiders",
+2,
+[]
+],
+[
+"Munsingwear",
+2,
+[]
+],
+[
+"Louis Pion",
+2,
+[]
+],
+[
+"Marques'Almeida",
+2,
+[]
+],
+[
+"Polo Ralph Lauren",
+2,
+[]
+],
+[
+"Sirri",
+2,
+[]
+],
+[
+"Hammond & Co.",
+2,
+[
+"Hammons and Company"
+]
+],
+[
+"Norse Projects",
+2,
+[]
+],
+[
+"BALR.",
+2,
+[]
+],
+[
+"Australian",
+2,
+[]
+],
+[
+"Hood by Air",
+2,
+[
+"Hood By Air"
+]
+],
+[
+"Com8",
+2,
+[]
+],
+[
+"Ed Hardy",
+2,
+[]
+],
+[
+"IKKS",
+2,
+[
+"Ikks"
+]
+],
+[
+"Maje",
+2,
+[]
+],
+[
+"Rodier",
+2,
+[
+"House of Rodier",
+"Maison Rodier",
+"Rodier Freres",
+"Rodier Frères",
+"Tissages Rodier"
+]
+],
+[
+"Camomilla Milano",
+2,
+[]
+],
+[
+"Jesus Jeans",
+2,
+[]
+],
+[
+"Aritzia",
+2,
+[
+"Aritzia Inc."
+]
+],
+[
+"Zimmermann",
+2,
+[]
+],
+[
+"Dice Kayek",
+2,
+[]
+],
+[
+"Ksenia Schnaider",
+2,
+[]
+],
+[
+"O bag",
+2,
+[
+"Fullspot"
+]
+],
+[
+"Heavy Eco",
+2,
+[]
+],
+[
+"Helmut Lang",
+2,
+[]
+],
+[
+"Gypsy Sport",
+2,
+[]
+],
+[
+"MUDI Africa",
+2,
+[
+"MUDI",
+"Mudiaga"
+]
+],
+[
+"Bluemarine",
+2,
+[]
+],
+[
+"JNBY",
+2,
+[]
+],
+[
+"Krizia",
+2,
+[]
+],
+[
+"Theatre Products",
+2,
+[]
+],
+[
+"threeasfour",
+2,
+[]
+],
+[
+"Sézane",
+2,
+[]
+],
+[
+"Big Star",
+2,
+[]
+],
+[
+"Coccinelle",
+2,
+[]
+],
+[
+"PME Legend",
+2,
+[
+"Pall Mall Export",
+"Pall Mall Jeans"
+]
+],
+[
+"Y/Project",
+2,
+[
+"YProject"
+]
+],
+[
+"M.J. Bale",
+2,
+[]
+],
+[
+"Bruuns Bazaar",
+1,
+[]
+],
+[
+"Crocker",
+1,
+[]
+],
+[
+"A.F. Vandevorst",
+1,
+[]
+],
+[
+"Frank Dandy",
+1,
+[]
+],
+[
+"Vailent",
+1,
+[]
+],
+[
+"keisuke kanda",
+1,
+[]
+],
+[
+"OIiver Goldsmith",
+1,
+[
+"Oliver Goldsmith Sunglasses Ltd"
+]
+],
+[
+"Renzo Costa",
+1,
+[
+"Renzo Costa S.A.C."
+]
+],
+[
+"Billionaire",
+1,
+[]
+],
+[
+"Blue Moon Blue",
+1,
+[]
+],
+[
+"COGU",
+1,
+[]
+],
+[
+"Anne Cole",
+1,
+[]
+],
+[
+"LoveShackFancy",
+1,
+[]
+],
+[
+"Foolhardy",
+1,
+[]
+],
+[
+"Guacamole",
+1,
+[]
+],
+[
+"Earth music&ecology",
+1,
+[]
+],
+[
+"Eleventy",
+1,
+[
+"Eleventy Milano"
+]
+],
+[
+"SPAZIO",
+1,
+[]
+],
+[
+"TAKEO KIKUCHI",
+1,
+[]
+],
+[
+"Tsumori Chisato",
+1,
+[]
+],
+[
+"LittleMissMatched",
+1,
+[]
+],
+[
+"Cole of California",
+1,
+[]
+],
+[
+"Aadnevik",
+1,
+[]
+],
+[
+"Wikipedia Editor",
+1,
+[
+"Wikipedia Editor clothing",
+"Wikipedia Editor fashion"
+]
+],
+[
+"Cactus Plant Flea Market",
+1,
+[
+"cactus plant flea market, llc."
+]
+],
+[
+"Vaquera",
+1,
+[]
+],
+[
+"Volcano",
+1,
+[]
+],
+[
+"Mayo Chix",
+1,
+[]
+],
+[
+"Perfect Stranger",
+1,
+[]
+],
+[
+"1083",
+1,
+[]
+],
+[
+"Sandy Liang",
+1,
+[]
+],
+[
+"Collection of Style",
+1,
+[]
+],
+[
+"Alex Mill",
+1,
+[]
+],
+[
+"VODO",
+1,
+[]
+],
+[
+"Tanner Fletcher",
+1,
+[
+"Tanner Fletcher LLC"
+]
+],
+[
+"Roxy",
+1,
+[]
+],
+[
+"Engineered Garments",
+1,
+[]
+],
+[
+"String Ting",
+1,
+[]
+],
+[
+"Trapstar",
+1,
+[
+"Trapstar (clothing brand)"
+]
+],
+[
+"Aristo Shmat",
+1,
+[
+"Aristoshmat",
+"AristoShmat"
+]
+],
+[
+"Ladies",
+1,
+[]
+],
+[
+"Savvy",
+1,
+[]
+],
+[
+"James Perse",
+1,
+[]
+],
+[
+"AOKI",
+1,
+[]
+],
+[
+"ORIHICA",
+1,
+[]
+],
+[
+"Fix",
+1,
+[]
+],
+[
+"SikSilk",
+1,
+[
+"Sik Silk"
+]
+],
+[
+"Attaquer",
+1,
+[]
+],
+[
+"Pas Normal Studios",
+1,
+[]
+],
+[
+"BUSHMAN",
+1,
+[
+"Bushman"
+]
+],
+[
+"Alé",
+1,
+[
+"ALE’",
+"ALÉ",
+"ALÉ Cycling"
+]
+],
+[
+"RARE By Circle",
+1,
+[
+"circle cartel",
+"lab10",
+"rarebycircle"
+]
+],
+[
+"Elle Macpherson Intimates",
+1,
+[]
+],
+[
+"Gsus",
+1,
+[
+"gsus sindustries"
+]
+],
+[
+"Volt",
+1,
+[]
+],
+[
+"LaKelle",
+1,
+[
+"Lakelle",
+"Lakelle 237"
+]
+],
+[
+"Lever Couture",
+1,
+[]
+],
+[
+"Sea New York",
+1,
+[]
+],
+[
+"Rose & Born",
+1,
+[
+"Rose and Born"
+]
+],
+[
+"Glotto",
+1,
+[]
+],
+[
+"William Dunst",
+1,
+[]
+],
+[
+"Auter",
+1,
+[]
+],
+[
+"Don't Panic!",
+1,
+[]
+],
+[
+"Bian Variani",
+1,
+[
+"Variani",
+"Variani Leather Belts & Jackets",
+"Variani Luxury High Quality Full Grain Heavy-weight Leather Belts & Jackets"
+]
+],
+[
+"Talbot Runhof",
+1,
+[]
+],
+[
+"Bolongaro Trevor",
+1,
+[]
+],
+[
+"comma",
+1,
+[
+"comma,"
+]
+],
+[
+"Mad Carpentier",
+1,
+[]
+],
+[
+"Foale and Tuffin",
+1,
+[]
+],
+[
+"Elena Mirò",
+1,
+[]
+],
+[
+"Ellen Tracy",
+1,
+[]
+],
+[
+"Dolls Kill",
+1,
+[]
+],
+[
+"Figura",
+1,
+[]
+],
+[
+"Makia",
+1,
+[
+"Makia Clothing"
+]
+],
+[
+"Klavers van Engelen",
+1,
+[]
+],
+[
+"René Lezard",
+1,
+[]
+],
+[
+"Todd Shelton",
+1,
+[]
+],
+[
+"Equipment",
+1,
+[]
+],
+[
+"Michel & Amazonka",
+1,
+[
+"michel amazonka",
+"michelamazonka",
+"Michel & Amazonka Olympic",
+"Michel and Amazonka"
+]
+],
+[
+"Akademiks",
+1,
+[
+"Akademiks Clothing",
+"Akademiks NY"
+]
+],
+[
+"BZB",
+1,
+[
+"Bizzbee"
+]
+],
+[
+"2 High",
+1,
+[]
+],
+[
+"Arrow",
+1,
+[
+"Arrow 1851"
+]
+],
+[
+"Eden Park",
+1,
+[]
+],
+[
+"Cottonworld",
+1,
+[
+"Cotton World",
+"Cottonworld, Lekhraj Corp. Pvt. Ltd."
+]
+],
+[
+"Lecoanet Hemant",
+1,
+[]
+],
+[
+"Nalini",
+1,
+[]
+],
+[
+"Stella Cadente",
+1,
+[]
+],
+[
+"Reigning Champ",
+1,
+[]
+],
+[
+"Apple Bottoms",
+1,
+[
+"AppleBottoms"
+]
+],
+[
+"Basso & Brooke",
+1,
+[]
+],
+[
+"Belle & Bunty",
+1,
+[]
+],
+[
+"Best & Co.",
+1,
+[
+"Best & Company"
+]
+],
+[
+"Calvin Klein Collection",
+1,
+[
+"Calvin Klein 205W39NYC"
+]
+],
+[
+"Duckie Brown",
+1,
+[]
+],
+[
+"Ella Moss",
+1,
+[]
+],
+[
+"Meadham Kirchhoff",
+1,
+[]
+],
+[
+"Armani Jeans",
+1,
+[
+"AJ"
+]
+],
+[
+"Fornarina",
+1,
+[]
+],
+[
+"Billebeino",
+1,
+[]
+],
+[
+"Tweka",
+1,
+[]
+],
+[
+"Hofleverancier Kattenburg",
+1,
+[
+"Falcon",
+"Hollandia Kattenburg"
+]
+],
+[
+"Oratop",
+1,
+[]
+],
+[
+"JAG",
+1,
+[]
+],
+[
+"Mr Hare",
+1,
+[]
+],
+[
+"Panos Emporio",
+1,
+[]
+],
+[
+"Rag & Bone",
+1,
+[]
+],
+[
+"SABA",
+1,
+[]
+],
+[
+"Sergio Valente",
+1,
+[]
+],
+[
+"Sportscraft",
+1,
+[]
+],
+[
+"TNT",
+1,
+[]
+],
+[
+"Tea Rose",
+1,
+[]
+],
+[
+"VPL",
+1,
+[]
+],
+[
+"Wheels & Dollbaby",
+1,
+[
+"Wheels and Dollbaby",
+"Wheels and Doll Baby",
+"Wheels & Doll Baby"
+]
+],
+[
+"XOXO",
+1,
+[]
+],
+[
+"Frame",
+1,
+[]
+],
+[
+"Noah",
+1,
+[]
+],
+[
+"Terranova",
+1,
+[
+"Terranova Style"
+]
+],
+[
+"MeeH",
+1,
+[]
+],
+[
+"Orobianco",
+1,
+[]
+],
+[
+"Walveey",
+1,
+[
+"WALVEEY"
+]
+],
+[
+"Jacquemus",
+1,
+[]
 ]
 ]

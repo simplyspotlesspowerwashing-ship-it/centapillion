@@ -1,1218 +1,3080 @@
 [
 [
 "Mojito",
-67
+67,
+[]
 ],
 [
 "Bloody Mary",
-55
+55,
+[]
 ],
 [
 "Martini",
-53
+53,
+[]
 ],
 [
 "margarita",
-43
+43,
+[]
 ],
 [
 "caipirinha",
-42
+42,
+[]
 ],
 [
 "Daiquiri",
-39
+39,
+[]
 ],
 [
 "Cosmopolitan",
-38
+38,
+[
+"cosmo"
+]
 ],
 [
 "Pisco Sour",
-37
+37,
+[]
 ],
 [
 "Sex on the Beach",
-35
+35,
+[]
 ],
 [
 "Negroni",
-34
+34,
+[]
 ],
 [
 "Tequila Sunrise",
-33
+33,
+[]
 ],
 [
 "White Russian",
-33
+33,
+[]
 ],
 [
 "Americano",
-28
+28,
+[]
 ],
 [
 "Screwdriver",
-28
+28,
+[
+"Screwdriver cocktail"
+]
 ],
 [
 "Black Russian",
-26
+26,
+[]
 ],
 [
 "B-52",
-24
+24,
+[
+"B52",
+"Bifi",
+"Bifty"
+]
 ],
 [
 "kogel mogel",
-23
+23,
+[]
 ],
 [
 "Mimosa",
-23
+23,
+[]
 ],
 [
 "Sidecar",
-22
+22,
+[]
 ],
 [
 "Sazerac",
-21
+21,
+[
+"drinks",
+"drinl"
+]
 ],
 [
 "Mint Julep",
-20
+20,
+[]
 ],
 [
 "highball",
-19
+19,
+[]
 ],
 [
 "Vesper",
-19
+19,
+[
+"Vesper Martini"
+]
 ],
 [
 "hippocrass",
-19
+19,
+[
+"hipocras",
+"hypocras"
+]
 ],
 [
 "long drink",
-18
+18,
+[
+"Longdrink"
+]
 ],
 [
 "shooter",
-18
+18,
+[
+"Shot"
+]
 ],
 [
 "Agua de Valencia",
-18
+18,
+[]
 ],
 [
 "Zombie",
-18
+18,
+[]
 ],
 [
 "IBA official cocktail",
-18
+18,
+[
+"list of IBA official cocktails"
+]
 ],
 [
 "grasshopper",
-17
+17,
+[]
 ],
 [
 "gimlet",
-17
+17,
+[]
 ],
 [
 "Rusty Nail",
-17
+17,
+[]
 ],
 [
 "sour",
-17
+17,
+[]
 ],
 [
 "White Lady",
-17
+17,
+[]
 ],
 [
 "Lemon Drop",
-16
+16,
+[
+"Lemon Drop Martini"
+]
 ],
 [
 "Godfather",
-16
+16,
+[
+"God Father",
+"The Godfather"
+]
 ],
 [
 "Caesar",
-16
+16,
+[
+"Bloody Caesar",
+"Red Eye"
+]
 ],
 [
 "Blue Lagoon",
-15
+15,
+[]
 ],
 [
 "Angel Face",
-15
+15,
+[]
 ],
 [
 "Aviation",
-15
+15,
+[]
 ],
 [
 "Boulevardier",
-14
+14,
+[]
 ],
 [
 "Harvey Wallbanger",
-14
+14,
+[]
 ],
 [
 "Orgasm",
-14
+14,
+[]
 ],
 [
 "vodka martini",
-14
+14,
+[]
 ],
 [
 "liqueur coffee",
-14
+14,
+[
+"coffee cocktail"
+]
 ],
 [
 "Clover Club Cocktail",
-14
+14,
+[]
 ],
 [
 "Crusta",
-14
+14,
+[
+"Brandy Crusta"
+]
 ],
 [
 "Krambambuli",
-13
+13,
+[]
 ],
 [
 "Bramble",
-13
+13,
+[]
 ],
 [
 "Between the Sheets",
-13
+13,
+[]
 ],
 [
 "Planter's Punch",
-13
+13,
+[]
 ],
 [
 "Sea Breeze",
-13
+13,
+[]
 ],
 [
 "Horse's Neck",
-13
+13,
+[]
 ],
 [
 "Appletini",
-13
+13,
+[
+"Apple martini"
+]
 ],
 [
 "Monkey Gland",
-13
+13,
+[]
 ],
 [
 "Bacardi",
-12
+12,
+[]
 ],
 [
 "Rob Roy",
-12
+12,
+[]
 ],
 [
 "Casino",
-12
+12,
+[
+"Casino cocktail"
+]
 ],
 [
 "Hemingway Special",
-12
+12,
+[
+"Hemingway daiquiri",
+"papa doble"
+]
 ],
 [
 "Paradise",
-12
+12,
+[]
 ],
 [
 "Porto flip",
-12
+12,
+[]
 ],
 [
 "Paloma",
-12
+12,
+[]
 ],
 [
 "fizz",
-11
+11,
+[]
 ],
 [
 "hugo drink",
-11
+11,
+[
+"Hugo Spritz"
+]
 ],
 [
 "Jägerbomb",
-11
+11,
+[]
 ],
 [
 "Poncha",
-11
+11,
+[]
 ],
 [
 "Bombardino",
-11
+11,
+[]
 ],
 [
 "French Connection",
-11
+11,
+[]
 ],
 [
 "karsk",
-11
+11,
+[]
 ],
 [
 "Porn star martini",
-11
+11,
+[
+"Maverick Martini",
+"Passion star martini",
+"Pornstar (cocktail)",
+"Pornstar martini",
+"P*Star"
+]
 ],
 [
 "Rebujito",
-10
+10,
+[]
 ],
 [
 "The Last Word",
-10
+10,
+[]
 ],
 [
 "Layered drink",
-10
+10,
+[]
 ],
 [
 "Golden Dream",
-10
+10,
+[]
 ],
 [
 "Blue Hawaiian",
-10
+10,
+[]
 ],
 [
 "flip",
-10
+10,
+[]
 ],
 [
 "Champagne Cocktail",
-10
+10,
+[]
 ],
 [
 "Bee's Knees",
-10
+10,
+[
+"Bees Knees"
+]
 ],
 [
 "Pink Lady",
-9
+9,
+[]
 ],
 [
 "hurricane",
-9
+9,
+[
+"Hurricane",
+"hurricane cocktail",
+"Hurricane cocktail"
+]
 ],
 [
 "Mary Pickford",
-9
+9,
+[]
 ],
 [
 "beer cocktail",
-9
+9,
+[]
 ],
 [
 "Jagertee",
-9
+9,
+[]
 ],
 [
 "Old Cuban",
-9
+9,
+[]
 ],
 [
 "French Martini",
-9
+9,
+[]
 ],
 [
 "Vieux Carré",
-9
+9,
+[]
 ],
 [
 "flaming beverage",
-9
+9,
+[]
 ],
 [
 "Bronx",
-9
+9,
+[]
 ],
 [
 "Derby",
-9
+9,
+[]
 ],
 [
 "Death in the Afternoon",
-9
+9,
+[
+"Hemingway",
+"Hemingway Champagne"
+]
 ],
 [
 "Hanky-Panky cocktail",
-9
+9,
+[]
 ],
 [
 "Queen Mary",
-9
+9,
+[]
 ],
 [
 "Martinez",
-9
+9,
+[
+"Martinez cocktail"
+]
 ],
 [
 "Yellow Bird",
-9
+9,
+[]
 ],
 [
 "Tom and Jerry",
-9
+9,
+[]
 ],
 [
 "Gibson",
-8
+8,
+[]
 ],
 [
 "Caipiroska",
-8
+8,
+[]
 ],
 [
 "Russian Spring Punch",
-8
+8,
+[]
 ],
 [
 "Rose",
-8
+8,
+[]
 ],
 [
 "Ti'Punch",
-8
+8,
+[]
 ],
 [
 "Tuxedo",
-8
+8,
+[]
 ],
 [
 "7 and 7",
-8
+8,
+[]
 ],
 [
 "Coquito",
-8
+8,
+[]
 ],
 [
 "Corpse Reviver",
-8
+8,
+[]
 ],
 [
 "Tamagozake",
-8
+8,
+[]
 ],
 [
 "Scotch and soda",
-8
+8,
+[]
 ],
 [
 "Prince of Wales",
-8
+8,
+[]
 ],
 [
 "New York Sour",
-8
+8,
+[]
 ],
 [
 "Paper Plane",
-8
+8,
+[]
 ],
 [
 "Bumbo",
-7
+7,
+[]
 ],
 [
 "Gin Basil Smash",
-7
+7,
+[
+"Gin Pesto"
+]
 ],
 [
 "Barracuda",
-7
+7,
+[]
 ],
 [
 "wine cocktail",
-7
+7,
+[
+"wine-based cocktail"
+]
 ],
 [
 "Garibaldi",
-7
+7,
+[
+"Garibaldi (cocktail)"
+]
 ],
 [
 "Piscola",
-7
+7,
+[]
 ],
 [
 "Pisco punch",
-7
+7,
+[]
 ],
 [
 "Vodka Red Bull",
-7
+7,
+[
+"RBV",
+"Red Bull and vodka",
+"Russian Bull",
+"Speedball",
+"VARB",
+"VKRB",
+"Vod-Bomb",
+"vodka and Red Bull",
+"VRB"
+]
 ],
 [
 "Alabama Slammer",
-7
+7,
+[]
 ],
 [
 "BLT cocktail",
-7
+7,
+[]
 ],
 [
 "Chicago Cocktail",
-7
+7,
+[]
 ],
 [
 "Batida",
-7
+7,
+[
+"Batidas"
+]
 ],
 [
 "Penicillin",
-7
+7,
+[]
 ],
 [
 "Cobbler",
-6
+6,
+[]
 ],
 [
 "El Presidente",
-6
+6,
+[]
 ],
 [
 "Brooklyn",
-6
+6,
+[]
 ],
 [
 "short drink",
-6
+6,
+[]
 ],
 [
 "Golden Cadillac",
-6
+6,
+[]
 ],
 [
 "Vampiro",
-6
+6,
+[]
 ],
 [
 "Amber Moon",
-6
+6,
+[]
 ],
 [
 "Colombia",
-6
+6,
+[]
 ],
 [
 "boilermaker",
-6
+6,
+[
+"a shot and a beer"
+]
 ],
 [
 "Pink Gin",
-6
+6,
+[]
 ],
 [
 "Salty dog",
-6
+6,
+[]
 ],
 [
 "Blood and Sand",
-6
+6,
+[]
 ],
 [
 "Trinidad Sour",
-6
+6,
+[]
 ],
 [
 "Adonis",
-5
+5,
+[
+"Adonis (cocktail)"
+]
 ],
 [
 "hot buttered rum",
-5
+5,
+[]
 ],
 [
 "Adios Motherfucker",
-5
+5,
+[
+"AMF"
+]
 ],
 [
 "Remember the Maine",
-5
+5,
+[]
 ],
 [
 "Chartreuse swizzle",
-5
+5,
+[]
 ],
 [
 "Rabo de Galo",
-5
+5,
+[]
 ],
 [
 "Smash",
-5
+5,
+[]
 ],
 [
 "Pimm’s Cup",
-5
+5,
+[
+"Pimm’s No. 1 Cup"
+]
 ],
 [
 "Matador",
-5
+5,
+[]
 ],
 [
 "Tequila Slammer",
-5
+5,
+[]
 ],
 [
 "Dirty Martini",
-5
+5,
+[]
 ],
 [
 "Sgroppino",
-5
+5,
+[]
 ],
 [
 "Angelo azzurro",
-5
+5,
+[]
 ],
 [
 "Painkiller",
-5
+5,
+[]
 ],
 [
 "bomb shot",
-5
+5,
+[
+"depth charge"
+]
 ],
 [
 "Rüdesheimer Kaffee",
-5
+5,
+[]
 ],
 [
 "Suffering Bastard",
-5
+5,
+[]
 ],
 [
 "torpedo juice",
-5
+5,
+[]
 ],
 [
 "Jello shot",
-5
+5,
+[
+"Gelatin shot",
+"Jell-O shot",
+"Jelly shot"
+]
 ],
 [
 "VE.N.TO",
-5
+5,
+[]
 ],
 [
 "Fernet and Coke",
-4
+4,
+[
+"Fernandito",
+"Fernando",
+"Fernet con coca"
+]
 ],
 [
 "Borgoña (drink)",
-4
+4,
+[
+"Borgoña"
+]
 ],
 [
 "Macuá",
-4
+4,
+[
+"Macua"
+]
 ],
 [
 "Cremat",
-4
+4,
+[]
 ],
 [
 "Poktanju",
-4
+4,
+[]
 ],
 [
 "Godmother",
-4
+4,
+[
+"God Mother"
+]
 ],
 [
 "Tommy's Margarita",
-4
+4,
+[]
 ],
 [
 "Campari Soda",
-4
+4,
+[
+"Camparisoda",
+"CampariSoda"
+]
 ],
 [
 "Pschitt",
-4
+4,
+[]
 ],
 [
 "Lemond",
-4
+4,
+[]
 ],
 [
 "Tschunk",
-4
+4,
+[]
 ],
 [
 "Wściekły Pies",
-4
+4,
+[]
 ],
 [
 "20th Century",
-4
+4,
+[]
 ],
 [
 "Aqua Velva",
-4
+4,
+[]
 ],
 [
 "bacon martini",
-4
+4,
+[
+"Bacontini",
+"Bloody Bacon Martini",
+"Pig On The Rocks"
+]
 ],
 [
 "BuzzBallz",
-4
+4,
+[]
 ],
 [
 "Bijou",
-4
+4,
+[]
 ],
 [
 "buck",
-4
+4,
+[
+"mule"
+]
 ],
 [
 "Cape Codder",
-4
+4,
+[
+"Cape Cod",
+"vodka cranberry"
+]
 ],
 [
 "flirtini",
-4
+4,
+[]
 ],
 [
 "Bamboo",
-4
+4,
+[]
 ],
 [
 "slippery nipple",
-4
+4,
+[]
 ],
 [
 "John Daly",
-4
+4,
+[]
 ],
 [
 "Lynchburg Lemonade",
-4
+4,
+[]
 ],
 [
 "milk punch",
-4
+4,
+[]
 ],
 [
 "mizuwari",
-4
+4,
+[]
 ],
 [
 "Old Pal",
-4
+4,
+[]
 ],
 [
 "Porchcrawler",
-4
+4,
+[]
 ],
 [
 "Red Russian",
-4
+4,
+[]
 ],
 [
 "Snowball",
-4
+4,
+[]
 ],
 [
 "Torito",
-4
+4,
+[
+"Toro"
+]
 ],
 [
 "Brandy Daisy",
-3
+3,
+[]
 ],
 [
 "Blowjob",
-3
+3,
+[]
 ],
 [
 "Mickey Slim",
-3
+3,
+[]
 ],
 [
 "Amaretto sour",
-3
+3,
+[]
 ],
 [
 "Hirezake",
-3
+3,
+[]
 ],
 [
 "Ward 8",
-3
+3,
+[]
 ],
 [
 "Acapulco (cocktail)",
-3
+3,
+[]
 ],
 [
 "Roffignac cocktail",
-3
+3,
+[]
 ],
 [
 "Collins",
-3
+3,
+[]
 ],
 [
 "Gonster",
-3
+3,
+[
+"Billie Irish"
+]
 ],
 [
 "Beton",
-3
+3,
+[]
 ],
 [
 "Gunfire",
-3
+3,
+[]
 ],
 [
 "Futschi",
-3
+3,
+[]
 ],
 [
 "Greyhound",
-3
+3,
+[
+"greyhound"
+]
 ],
 [
 "frozen",
-3
+3,
+[]
 ],
 [
 "Queens",
-3
+3,
+[]
 ],
 [
 "Knickebein",
-3
+3,
+[]
 ],
 [
 "Airmail",
-3
+3,
+[
+"Air Mail",
+"Airmail Cocktail"
+]
 ],
 [
 "Don Alfredo",
-3
+3,
+[]
 ],
 [
 "Picon Punch",
-3
+3,
+[
+"Picon"
+]
 ],
 [
 "Mauresque",
-3
+3,
+[]
 ],
 [
 "Widow’s Kiss",
-3
+3,
+[
+"Widow's Kiss"
+]
 ],
 [
 "Bobby Burns",
-3
+3,
+[]
 ],
 [
 "Flaming Lamborghini",
-3
+3,
+[]
 ],
 [
 "gin sour",
-3
+3,
+[]
 ],
 [
 "Negroni sbagliato",
-3
+3,
+[]
 ],
 [
 "Staten Island Ferry",
-3
+3,
+[
+"Category:Staten Island Ferry (cocktail)"
+]
 ],
 [
 "Nikolaschka",
-3
+3,
+[]
 ],
 [
 "Ritz Sidecar",
-3
+3,
+[]
 ],
 [
 "Bushwacker",
-3
+3,
+[]
 ],
 [
 "cocktail with cachaça",
-3
+3,
+[]
 ],
 [
 "Cojito",
-3
+3,
+[]
 ],
 [
 "fuzzy navel",
-3
+3,
+[]
 ],
 [
 "Gin pahit",
-3
+3,
+[
+"bitter gin"
+]
 ],
 [
 "Up to Date",
-3
+3,
+[]
 ],
 [
 "Chilcano",
-3
+3,
+[
+"Chilcano cocktail"
+]
 ],
 [
 "Aruba Ariba",
-3
+3,
+[]
 ],
 [
 "Gin and juice",
-3
+3,
+[]
 ],
 [
 "rail drink",
-3
+3,
+[
+"well drink"
+]
 ],
 [
 "South Side",
-3
+3,
+[
+"Southside"
+]
 ],
 [
 "Woo Woo",
-3
+3,
+[]
 ],
 [
 "Blue Hawaii",
-3
+3,
+[]
 ],
 [
 "Ponce",
-3
+3,
+[
+"punch,livornese punch"
+]
 ],
 [
 "Illegal",
-3
+3,
+[]
 ],
 [
 "Spicy Fifty",
-3
+3,
+[]
 ],
 [
 "Creole cream",
-3
+3,
+[]
 ],
 [
 "Green Swizzle",
-3
+3,
+[]
 ],
 [
 "Trumptini",
-2
+2,
+[]
 ],
 [
 "Menyul",
-2
+2,
+[]
 ],
 [
 "Niquita",
-2
+2,
+[
+"Nikita"
+]
 ],
 [
 "B&B",
-2
+2,
+[]
 ],
 [
 "Cowboy",
-2
+2,
+[]
 ],
 [
 "White Cargo",
-2
+2,
+[]
 ],
 [
 "Hummer",
-2
+2,
+[]
 ],
 [
 "Gin and It",
-2
+2,
+[
+"Gin & It"
+]
 ],
 [
 "Cardinale",
-2
+2,
+[]
 ],
 [
 "Colada",
-2
+2,
+[]
 ],
 [
 "Queen's Dubonnet",
-2
+2,
+[]
 ],
 [
 "Incredible Hulk",
-2
+2,
+[
+"Green Eyed Monster",
+"Hip and Hen"
+]
 ],
 [
 "Oolong Hai",
-2
+2,
+[]
 ],
 [
 "China Blue",
-2
+2,
+[]
 ],
 [
 "Denki Bran",
-2
+2,
+[]
 ],
 [
 "Amsterdam",
-2
+2,
+[]
 ],
 [
 "Slavonian cocktail",
-2
+2,
+[]
 ],
 [
 "Honey deuce",
-2
+2,
+[]
 ],
 [
 "liquid nitrogen cocktail",
-2
+2,
+[]
 ],
 [
 "Royal Bermuda Yacht Club (cocktail)",
-2
+2,
+[]
 ],
 [
 "Blue Lady",
-2
+2,
+[]
 ],
 [
 "Goombay Smash",
-2
+2,
+[]
 ],
 [
 "Vodka tonic",
-2
+2,
+[]
 ],
 [
 "Bora-Bora (cocktail)",
-2
+2,
+[]
 ],
 [
 "Scarlett O'Hara",
-2
+2,
+[]
 ],
 [
 "pistón",
-2
+2,
+[]
 ],
 [
 "Professor Langnickel",
-2
+2,
+[]
 ],
 [
 "Moose Milk",
-2
+2,
+[]
 ],
 [
 "Mitch Morgan",
-2
+2,
+[]
 ],
 [
 "Rourou",
-2
+2,
+[]
 ],
 [
 "Train bleu",
-2
+2,
+[
+"Train bleu (cocktail)"
+]
 ],
 [
 "Vodka Stinger",
-2
+2,
+[
+"White Spider"
+]
 ],
 [
 "Brass Monkey",
-2
+2,
+[]
 ],
 [
 "Japanese slipper",
-2
+2,
+[]
 ],
 [
 "Agua de Sevilla",
-2
+2,
+[]
 ],
 [
 "Toronto",
-2
+2,
+[]
 ],
 [
 "Blow my Skull Off",
-2
+2,
+[]
 ],
 [
 "Blueberry Tea",
-2
+2,
+[]
 ],
 [
 "Chimayó Cocktail",
-2
+2,
+[
+"Chimayo Cocktail"
+]
 ],
 [
 "Cocksucking Cowboy",
-2
+2,
+[
+"Butterball",
+"Buttery Nipple"
+]
 ],
 [
 "El Malecon cocktail",
-2
+2,
+[
+"Malecon Cocktail",
+"Malecón Cocktail"
+]
 ],
 [
 "Fallen Angel",
-2
+2,
+[]
 ],
 [
 "Farnell",
-2
+2,
+[]
 ],
 [
 "Fluffy Duck",
-2
+2,
+[]
 ],
 [
 "Algonquin",
-2
+2,
+[
+"Algonquin cocktail"
+]
 ],
 [
 "Bloody Margaret",
-2
+2,
+[]
 ],
 [
 "Hangman's Blood",
-2
+2,
+[]
 ],
 [
 "leche de pantera",
-2
+2,
+[
+"Panther Milk"
+]
 ],
 [
 "Lucien Gaudin Cocktail",
-2
+2,
+[
+"Lucien-Gaudin Cocktail"
+]
 ],
 [
 "Diki-Diki",
-2
+2,
+[]
 ],
 [
 "Balalaïka (cocktail)",
-2
+2,
+[]
 ],
 [
 "Milano Torino",
-2
+2,
+[]
 ],
 [
 "Atomic",
-2
+2,
+[]
 ],
 [
 "Grüne Wiese",
-2
+2,
+[]
 ],
 [
 "Mate con malicia",
-2
+2,
+[]
 ],
 [
 "nicotini",
-2
+2,
+[]
 ],
 [
 "Old Etonian",
-2
+2,
+[]
 ],
 [
 "Pickleback",
-2
+2,
+[]
 ],
 [
 "Pink Squirrel",
-2
+2,
+[]
 ],
 [
 "Saketini",
-2
+2,
+[]
 ],
 [
 "Serena libre",
-2
+2,
+[]
 ],
 [
 "signature drink",
-2
+2,
+[
+"signature cocktail"
+]
 ],
 [
 "Stirling Punch",
-2
+2,
+[]
 ],
 [
 "Three Wise Men",
-2
+2,
+[]
 ],
 [
 "batida de coco",
-2
+2,
+[]
 ],
 [
 "Batanga",
-2
+2,
+[]
 ],
 [
 "San Francisco",
-2
+2,
+[]
 ],
 [
 "Ponche de los libertadores",
-2
+2,
+[]
 ],
 [
 "Miami Beach",
-2
+2,
+[]
 ],
 [
 "Havana Beach",
-2
+2,
+[]
 ],
 [
 "Midori Sour",
-2
+2,
+[]
+],
+[
+"Pé de cabra",
+1,
+[]
+],
+[
+"Brave Bull",
+1,
+[]
+],
+[
+"Barbary coast",
+1,
+[]
+],
+[
+"Arsenic and Old Lace",
+1,
+[]
+],
+[
+"Water Lily",
+1,
+[]
+],
+[
+"Chrysanthemum",
+1,
+[]
+],
+[
+"Sunflower",
+1,
+[]
+],
+[
+"Blue bird",
+1,
+[]
+],
+[
+"Broken Spur",
+1,
+[]
+],
+[
+"Creamsicle",
+1,
+[]
+],
+[
+"Cat's Eye",
+1,
+[]
+],
+[
+"Desert Healer",
+1,
+[]
+],
+[
+"Blood Orange Spritz",
+1,
+[]
+],
+[
+"blood orange margarita",
+1,
+[]
+],
+[
+"Thin Blue Line",
+1,
+[]
+],
+[
+"Hakodate Garabeer",
+1,
+[]
+],
+[
+"Kalashnikov",
+1,
+[]
+],
+[
+"Strawberry Daiquiri",
+1,
+[]
+],
+[
+"Apple Pie",
+1,
+[]
+],
+[
+"Abdough",
+1,
+[]
+],
+[
+"Olympic",
+1,
+[]
+],
+[
+"Kiss in the Dark",
+1,
+[]
+],
+[
+"Kiss of Fire",
+1,
+[]
+],
+[
+"Cossack",
+1,
+[]
+],
+[
+"silver bullet",
+1,
+[]
+],
+[
+"Sylvia",
+1,
+[]
+],
+[
+"Gin Buck",
+1,
+[]
+],
+[
+"Scarlet Lady",
+1,
+[]
+],
+[
+"Spumoni",
+1,
+[]
+],
+[
+"Century",
+1,
+[]
+],
+[
+"Sonora",
+1,
+[]
+],
+[
+"Sol Cubano",
+1,
+[]
+],
+[
+"Cherry Blossom",
+1,
+[]
+],
+[
+"Knock Out",
+1,
+[
+"Knock Out Cocktail"
+]
+],
+[
+"Bahia",
+1,
+[]
+],
+[
+"Balalaika",
+1,
+[]
+],
+[
+"Bitter Orange",
+1,
+[]
+],
+[
+"Pink Pineapple",
+1,
+[]
+],
+[
+"French Cactus",
+1,
+[]
+],
+[
+"Bosom Caresser",
+1,
+[]
+],
+[
+"Blood Transfusion",
+1,
+[]
+],
+[
+"Velvet Kiss",
+1,
+[]
+],
+[
+"Hot Dram",
+1,
+[]
+],
+[
+"Million Dollar",
+1,
+[]
+],
+[
+"Lena Cocktail",
+1,
+[]
+],
+[
+"Saoco",
+1,
+[]
+],
+[
+"Le Grand Bleu",
+1,
+[]
+],
+[
+"Aoi Sangoshō",
+1,
+[
+"Blue Coral Reef"
+]
+],
+[
+"Shizuoka-wari",
+1,
+[]
+],
+[
+"ranch water",
+1,
+[]
+],
+[
+"Grand Passion",
+1,
+[]
+],
+[
+"Death Flip",
+1,
+[]
+],
+[
+"Angel's kiss",
+1,
+[]
+],
+[
+"Mudslide",
+1,
+[]
+],
+[
+"Boadas Cocktail Bar",
+1,
+[]
+],
+[
+"siriki",
+1,
+[]
+],
+[
+"Bejito",
+1,
+[]
+],
+[
+"Fresh Smashin'",
+1,
+[]
+],
+[
+"Magic Sunset",
+1,
+[]
+],
+[
+"Spaghett",
+1,
+[
+"Spagett"
+]
+],
+[
+"Tailspin",
+1,
+[]
+],
+[
+"redheaded slut",
+1,
+[
+"ginger bitch"
+]
+],
+[
+"Pacific Union Club Punch",
+1,
+[]
+],
+[
+"Navy Grog",
+1,
+[]
+],
+[
+"Naga",
+1,
+[]
+],
+[
+"Esoteric Solipsist",
+1,
+[]
+],
+[
+"Italian coffee",
+1,
+[]
+],
+[
+"Gold Rush",
+1,
+[]
+],
+[
+"Aberdeen Angus",
+1,
+[]
+],
+[
+"Green Tea Shot",
+1,
+[]
+],
+[
+"Sapporo",
+1,
+[]
+],
+[
+"Rising Sun",
+1,
+[]
+],
+[
+"Yoshino",
+1,
+[]
+],
+[
+"Yokosuka Brager",
+1,
+[]
+],
+[
+"Three Dots and a Dash",
+1,
+[]
+],
+[
+"Tsunami",
+1,
+[]
+],
+[
+"Dolce Vita",
+1,
+[]
+],
+[
+"Little Red Rooster",
+1,
+[]
+],
+[
+"Tip'n'Top",
+1,
+[
+"Tip and Top",
+"TNT"
+]
+],
+[
+"Vodka cocktail",
+1,
+[]
+],
+[
+"Green Cow",
+1,
+[]
+],
+[
+"Brown Bomber",
+1,
+[]
+],
+[
+"Hennchata",
+1,
+[]
+],
+[
+"Banshee",
+1,
+[]
+],
+[
+"Boston",
+1,
+[]
+],
+[
+"donkey punch",
+1,
+[]
+],
+[
+"B Cola",
+1,
+[]
+],
+[
+"B Ocean",
+1,
+[]
+],
+[
+"Ouzini",
+1,
+[]
+],
+[
+"blue moon",
+1,
+[
+"bluemoon"
+]
+],
+[
+"Mazout",
+1,
+[]
+],
+[
+"Minted",
+1,
+[]
+],
+[
+"Zazarac",
+1,
+[]
+],
+[
+"Passenger List",
+1,
+[]
+],
+[
+"American Trilogy Cocktail",
+1,
+[
+"American Trilogy"
+]
+],
+[
+"Ville Vallaton",
+1,
+[]
+],
+[
+"Four horsemen",
+1,
+[]
+],
+[
+"Nixon",
+1,
+[]
+],
+[
+"milk cocktail",
+1,
+[
+"Milk cocktail"
+]
+],
+[
+"Aggravation",
+1,
+[]
+],
+[
+"half-en-half",
+1,
+[]
+],
+[
+"Ami Corse",
+1,
+[]
+],
+[
+"Damn the Weather",
+1,
+[
+"Damn-the-Weather"
+]
+],
+[
+"Red Moon",
+1,
+[]
+],
+[
+"Baltimore",
+1,
+[]
+],
+[
+"Diboular",
+1,
+[]
+],
+[
+"Mjøndøling",
+1,
+[]
+],
+[
+"Green chaud",
+1,
+[]
+],
+[
+"Lyon-Reims",
+1,
+[]
+],
+[
+"tomate",
+1,
+[]
+],
+[
+"East India",
+1,
+[]
+],
+[
+"King Alfonso",
+1,
+[]
+],
+[
+"Badger",
+1,
+[]
+],
+[
+"Earthquake",
+1,
+[
+"Tremblement de Terre"
+]
+],
+[
+"Black Nail",
+1,
+[]
+],
+[
+"Agent Orange",
+1,
+[]
+],
+[
+"Batini",
+1,
+[]
+],
+[
+"Bay Breeze",
+1,
+[
+"Downeaster",
+"Hawaiian Sea Breeze"
+]
+],
+[
+"Cooperstown Cocktail",
+1,
+[]
+],
+[
+"Bourbon Lancer",
+1,
+[]
+],
+[
+"Brandy Sour",
+1,
+[]
+],
+[
+"breakfast martini",
+1,
+[]
+],
+[
+"Brut Cocktail",
+1,
+[]
+],
+[
+"Cable Car",
+1,
+[]
+],
+[
+"Cement Mixer",
+1,
+[]
+],
+[
+"Crowbar",
+1,
+[]
+],
+[
+"Curacao Punch",
+1,
+[]
+],
+[
+"flaming volcano",
+1,
+[]
+],
+[
+"Blackthorn (cocktail)",
+1,
+[]
+],
+[
+"Cloister (cocktail)",
+1,
+[]
+],
+[
+"Cuban Sunset",
+1,
+[]
+],
+[
+"Horsefeather (cocktail)",
+1,
+[]
+],
+[
+"Gin bucket",
+1,
+[]
+],
+[
+"Ginza Mary",
+1,
+[]
+],
+[
+"Glowtini",
+1,
+[]
+],
+[
+"Golden Russian",
+1,
+[]
+],
+[
+"Harlem Mugger",
+1,
+[]
+],
+[
+"Black Tooth Grin",
+1,
+[]
+],
+[
+"Gin Daisy",
+1,
+[]
+],
+[
+"Q.B. Cooler",
+1,
+[]
+],
+[
+"Sumatra Kula",
+1,
+[]
+],
+[
+"Test Pilot",
+1,
+[]
+],
+[
+"Cobra's Fang",
+1,
+[]
+],
+[
+"Mr. Bali Hai",
+1,
+[]
+],
+[
+"Fog Cutter",
+1,
+[]
+],
+[
+"Ancient Mariner",
+1,
+[]
+],
+[
+"PB2Y",
+1,
+[
+"B-17 Gremlin",
+"P-40 Gremlin"
+]
+],
+[
+"Doctor",
+1,
+[]
+],
+[
+"Boomerang",
+1,
+[]
+],
+[
+"Neapolitan",
+1,
+[]
+],
+[
+"Galliano Hot Shot",
+1,
+[]
+],
+[
+"A Long Slow Comfortable Screw Up Against the Wall",
+1,
+[]
+],
+[
+"London Fog",
+1,
+[]
+],
+[
+"long vodka",
+1,
+[]
+],
+[
+"Captain",
+1,
+[]
+],
+[
+"Mexican martini",
+1,
+[]
+],
+[
+"Mismo",
+1,
+[]
+],
+[
+"Moon River",
+1,
+[]
+],
+[
+"New Englander",
+1,
+[
+"New Englander (cocktail)"
+]
+],
+[
+"Orange Tundra",
+1,
+[]
+],
+[
+"Orange Whip",
+1,
+[]
+],
+[
+"Pegu Club",
+1,
+[]
+],
+[
+"Polar Bear",
+1,
+[
+"After Eight",
+"Peppermint Paddy"
+]
+],
+[
+"Raymond Massey",
+1,
+[]
+],
+[
+"Rose Kennedy",
+1,
+[
+"vodka soda splash",
+"VSS"
+]
+],
+[
+"Rum Swizzle",
+1,
+[]
+],
+[
+"Scorpion bowl",
+1,
+[]
+],
+[
+"Seifu",
+1,
+[]
+],
+[
+"Stengah",
+1,
+[]
+],
+[
+"sundowner",
+1,
+[]
+],
+[
+"The Modernista",
+1,
+[]
+],
+[
+"Whisky Mac",
+1,
+[
+"Whisky Macdonald"
+]
+],
+[
+"Whynatte Bomb",
+1,
+[]
+],
+[
+"Charro negro",
+1,
+[
+"Charro negro, Mexican, cocktail, tequila, coke"
+]
+],
+[
+"whiskey cocktail",
+1,
+[
+"whisky cocktail"
+]
+],
+[
+"Brown Derby",
+1,
+[]
+],
+[
+"Nutcracker",
+1,
+[]
+],
+[
+"Sling",
+1,
+[]
+],
+[
+"Transfusion",
+1,
+[]
+],
+[
+"Bombay Crushed",
+1,
+[]
+],
+[
+"Pan Galactic Gargle Blaster",
+1,
+[]
+],
+[
+"Cucaracha",
+1,
+[]
+],
+[
+"Monkey Brain (shot)",
+1,
+[]
+],
+[
+"Kildalton Cross",
+1,
+[]
+],
+[
+"Platinum Blonde",
+1,
+[]
+],
+[
+"Valencia Cocktail",
+1,
+[]
+],
+[
+"Bob Marley",
+0,
+[]
+],
+[
+"Buccaneer",
+0,
+[]
+],
+[
+"Fahrenheit 5000",
+0,
+[]
+],
+[
+"Flying Dutchman",
+0,
+[]
+],
+[
+"Poppy Cocktail",
+0,
+[]
+],
+[
+"Radioactive Long Island Iced Tea",
+0,
+[]
+],
+[
+"A midsummernight dream",
+0,
+[]
+],
+[
+"A Night In Old Mandalay",
+0,
+[]
+],
+[
+"A Day at the Beach",
+0,
+[]
+],
+[
+"A Furlong Too Late",
+0,
+[]
+],
+[
+"Abbey Martini",
+0,
+[]
+],
+[
+"Raspberry Cooler",
+0,
+[]
+],
+[
+"White Gummy Bear Shot",
+0,
+[]
+],
+[
+"Vodka Lemon",
+0,
+[]
+],
+[
+"Par’Mach on the Beach",
+0,
+[
+"Par'Mach on the Beach"
+]
+],
+[
+"Mind-Meld",
+0,
+[
+"Mind Meld"
+]
+],
+[
+"Blind Russian",
+0,
+[]
+],
+[
+"City Slicker",
+0,
+[]
+],
+[
+"Salted Toffee Martini",
+0,
+[]
+],
+[
+"Cooler",
+0,
+[]
+],
+[
+"Chichón",
+0,
+[]
+],
+[
+"Harrogate Nights",
+0,
+[]
+],
+[
+"duo cocktail",
+0,
+[]
+],
+[
+"trio cocktail",
+0,
+[]
+],
+[
+"Angry Canadian",
+0,
+[]
+],
+[
+"Bitter Beton",
+0,
+[]
+],
+[
+"Firetruck",
+0,
+[
+"Fire engine"
+]
+],
+[
+"Antica Torino Smash",
+0,
+[]
+],
+[
+"Brazilian Mule",
+0,
+[]
+],
+[
+"Canadian Fashion",
+0,
+[]
+],
+[
+"Cornucopia Punch",
+0,
+[]
+],
+[
+"Genever Daisy",
+0,
+[]
+],
+[
+"Negroni Lemonade",
+0,
+[]
+],
+[
+"Summer Cup",
+0,
+[]
+],
+[
+"Williams Gimlet",
+0,
+[]
+],
+[
+"Greenpoint",
+0,
+[]
+],
+[
+"Tequila and Tonic",
+0,
+[]
+],
+[
+"Bahama Mama",
+0,
+[
+"bahama mama"
+]
+],
+[
+"The Toronto",
+0,
+[
+"Toronto Cocktail"
+]
+],
+[
+"Carrot cake cocktail",
+0,
+[]
+],
+[
+"Fizzy apple cocktail",
+0,
+[]
+],
+[
+"June Bug",
+0,
+[
+"Dune Bug"
+]
+],
+[
+"Manjito",
+0,
+[]
+],
+[
+"Oatmeal Cookie",
+0,
+[]
+],
+[
+"Revelation",
+0,
+[]
+],
+[
+"Skittle Bomb",
+0,
+[]
+],
+[
+"The Paradise Syndrome",
+0,
+[]
+],
+[
+"It's… green",
+0,
+[]
+],
+[
+"The Great Bird of the Galaxy",
+0,
+[
+"Great Bird of the Galaxy, The"
+]
+],
+[
+"Romulan Cola",
+0,
+[]
+],
+[
+"Fizzbin Fizz",
+0,
+[]
+],
+[
+"K-7",
+0,
+[]
+],
+[
+"Warpdriver",
+0,
+[]
+],
+[
+"Finnigan",
+0,
+[]
+],
+[
+"Warp 10",
+0,
+[]
+],
+[
+"Spock's Bane",
+0,
+[]
+],
+[
+"I'm A Doctor, Not A Pepper!",
+0,
+[]
+],
+[
+"The Transporter",
+0,
+[]
+],
+[
+"Klingon Slingon",
+0,
+[]
+],
+[
+"Life Support Belt",
+0,
+[]
+],
+[
+"Here's Mudd In Your Eye!",
+0,
+[]
+],
+[
+"Omega Glory",
+0,
+[]
+],
+[
+"Sulu, it's Been Good to Know You!",
+0,
+[]
+],
+[
+"Scotty Wallbanger",
+0,
+[]
+],
+[
+"Orion Dancer",
+0,
+[]
+],
+[
+"Klingon Grok",
+0,
+[]
+],
+[
+"Randy Yeoman",
+0,
+[]
+],
+[
+"Finagle's Folly",
+0,
+[]
+],
+[
+"It's red, Jim!",
+0,
+[]
+],
+[
+"Tequila Enterprise",
+0,
+[]
+],
+[
+"The Red Hour",
+0,
+[]
+],
+[
+"The Trekkie",
+0,
+[]
+],
+[
+"The Trekker",
+0,
+[]
+],
+[
+"Mugato Martini",
+0,
+[]
+],
+[
+"Kirk-a-kola",
+0,
+[]
+],
+[
+"Mudder's Milk",
+0,
+[
+"Jayne's Mudder's Milk"
+]
+],
+[
+"Romulan Ale",
+0,
+[]
+],
+[
+"Lillet Wild Berry",
+0,
+[]
+],
+[
+"Sonic Screwdriver",
+0,
+[]
+],
+[
+"Yakka",
+0,
+[]
+],
+[
+"Tipperary",
+0,
+[]
 ]
 ]

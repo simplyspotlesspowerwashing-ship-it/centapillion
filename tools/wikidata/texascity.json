@@ -1,3834 +1,7753 @@
 [
 [
 "Houston",
-192
+192,
+[
+"City of Houston",
+"Houston TX",
+"Houston, TX",
+"H-Town",
+"Petro metro",
+"Space City",
+"USHOU"
+]
 ],
 [
 "Dallas",
-177
+177,
+[
+"Big D",
+"Dallas TX",
+"Dallas, TX",
+"Dallas, TX.",
+"D-Town",
+"DTX"
+]
 ],
 [
 "Fort Worth",
-130
+130,
+[
+"Cowtown",
+"Fort Worth, Texas",
+"Fort Worth, TX",
+"Ft. Worth, Texas",
+"Ft. Worth, TX"
+]
 ],
 [
 "El Paso",
-122
+122,
+[
+"El Paso del Norte",
+"El Paso, Texas",
+"El Paso, TX"
+]
 ],
 [
 "Arlington",
-98
+98,
+[
+"Arlington, Texas",
+"Arlington, TX"
+]
 ],
 [
 "Corpus Christi",
-94
+94,
+[
+"Corpus Christi, Texas",
+"Corpus Christi, TX"
+]
 ],
 [
 "Plano",
-90
+90,
+[
+"Plano, Texas",
+"Plano, TX"
+]
 ],
 [
 "Lubbock",
-83
+83,
+[
+"Lubbock, Texas",
+"Lubbock, TX"
+]
 ],
 [
 "Amarillo",
-83
+83,
+[
+"Amarillo, Texas",
+"Amarillo, TX"
+]
 ],
 [
 "Galveston",
-78
+78,
+[
+"Galveston, Texas",
+"Galveston, TX"
+]
 ],
 [
 "Abilene",
-77
+77,
+[
+"Abilene, Texas",
+"Abilene, TX"
+]
 ],
 [
 "Irving",
-74
+74,
+[
+"Irving, Texas",
+"Irving, TX"
+]
 ],
 [
 "Brownsville",
-74
+74,
+[
+"Brownsville, Texas",
+"Brownsville, TX"
+]
 ],
 [
 "Garland",
-72
+72,
+[
+"Garland, Texas",
+"Garland, TX"
+]
 ],
 [
 "Waco",
-71
+71,
+[
+"Waco, Texas",
+"Waco, TX"
+]
 ],
 [
 "Beaumont",
-70
+70,
+[
+"Beaumont, Texas",
+"Beaumont, TX"
+]
 ],
 [
 "Grand Prairie",
-66
+66,
+[
+"Grand Prairie, Texas",
+"Grand Prairie, TX"
+]
 ],
 [
 "Denton",
-65
+65,
+[
+"Denton, Texas",
+"Denton, TX"
+]
 ],
 [
 "Wichita Falls",
-62
+62,
+[
+"Wichita Falls, Texas",
+"Wichita Falls, TX"
+]
 ],
 [
 "McKinney",
-62
+62,
+[
+"McKinney, Texas",
+"McKinney, TX"
+]
 ],
 [
 "Odessa",
-61
+61,
+[
+"Odessa, Texas",
+"Odessa, TX"
+]
 ],
 [
 "Frisco",
-60
+60,
+[
+"Frisco, Texas",
+"Frisco, TX"
+]
 ],
 [
 "Paris",
-60
+60,
+[
+"Paris, Texas",
+"Paris, TX"
+]
 ],
 [
 "Tyler",
-59
+59,
+[
+"Rose Capital",
+"Rose Capital of the World",
+"Tyler, Texas",
+"Tyler, TX",
+"Yellow Rose of Texas"
+]
 ],
 [
 "San Angelo",
-58
+58,
+[
+"San Angelo, Texas",
+"San Angelo, TX"
+]
 ],
 [
 "Midland",
-57
+57,
+[
+"Midland, Texas",
+"Midland, TX"
+]
 ],
 [
 "Mesquite",
-57
+57,
+[
+"Mesquite, Texas",
+"Mesquite, TX"
+]
 ],
 [
 "McAllen",
-57
+57,
+[
+"City of McAllen",
+"McAllen, Texas",
+"McAllen, TX"
+]
 ],
 [
 "Killeen",
-56
+56,
+[
+"Killeen, Texas",
+"Killeen, TX"
+]
 ],
 [
 "Carrollton",
-56
+56,
+[
+"Carrollton, Texas",
+"Carrollton, TX"
+]
 ],
 [
 "Round Rock",
-56
+56,
+[
+"Round Rock, Texas",
+"Round Rock, TX"
+]
 ],
 [
 "Richardson",
-56
+56,
+[
+"Richardson, Texas",
+"Richardson, TX"
+]
 ],
 [
 "New Braunfels",
-56
+56,
+[
+"Neu Braunfels",
+"New Braunfels, Texas",
+"New Braunfels, TX"
+]
 ],
 [
 "College Station",
-56
+56,
+[
+"College Station, Texas",
+"College Station, TX"
+]
 ],
 [
 "Longview",
-56
+56,
+[
+"Longview, Texas",
+"Longview, TX"
+]
 ],
 [
 "Uvalde",
-56
+56,
+[
+"Uvalde, Texas",
+"Uvalde, TX"
+]
 ],
 [
 "Marshall",
-55
+55,
+[
+"Marshall, Texas",
+"Marshall, TX"
+]
 ],
 [
 "Edinburg",
-55
+55,
+[
+"Edinburg, Texas",
+"Edinburg, TX"
+]
 ],
 [
 "Lewisville",
-54
+54,
+[
+"Lewisville, Texas",
+"Lewisville, TX"
+]
 ],
 [
 "Port Arthur",
-54
+54,
+[
+"Port Arthur, Texas",
+"Port Arthur, TX"
+]
 ],
 [
 "Pasadena",
-54
+54,
+[
+"Pasadena, Texas",
+"Pasadena, TX"
+]
 ],
 [
 "San Marcos",
-54
+54,
+[
+"San Marcos, Texas",
+"San Marcos, TX"
+]
 ],
 [
 "Bryan",
-53
+53,
+[
+"Bryan, Texas",
+"Bryan, TX"
+]
 ],
 [
 "Waxahachie",
-52
+52,
+[
+"Waxahachie, Texas",
+"Waxahachie, TX"
+]
 ],
 [
 "Huntsville",
-52
+52,
+[
+"Huntsville, Texas",
+"Huntsville, TX"
+]
 ],
 [
 "Harlingen",
-52
+52,
+[
+"City of Harlingen",
+"Harlingen, Texas",
+"Harlingen, TX"
+]
 ],
 [
 "Sugar Land",
-52
+52,
+[
+"Sugarland",
+"Sugar Land, Texas",
+"Sugar Land, TX"
+]
 ],
 [
 "Eagle Pass",
-52
+52,
+[
+"Eagle Pass, Texas",
+"Eagle Pass, TX"
+]
 ],
 [
 "Temple",
-51
+51,
+[
+"Temple, Texas",
+"Temple, TX"
+]
 ],
 [
 "Corsicana",
-51
+51,
+[
+"Corsicana, Texas",
+"Corsicana, TX"
+]
 ],
 [
 "Weatherford",
-51
+51,
+[
+"Weatherford, Texas",
+"Weatherford, TX"
+]
 ],
 [
 "Greenville",
-51
+51,
+[
+"Greenville, Texas",
+"Greenville, TX"
+]
 ],
 [
 "Canyon",
-51
+51,
+[
+"Canyon, Texas",
+"Canyon, TX"
+]
 ],
 [
 "Sherman",
-51
+51,
+[
+"Sherman, Texas",
+"Sherman, TX"
+]
 ],
 [
 "Port Lavaca",
-51
+51,
+[
+"Port Lavaca, Texas",
+"Port Lavaca, TX"
+]
 ],
 [
 "Denison",
-50
+50,
+[
+"Denison, Texas",
+"Denison, TX"
+]
 ],
 [
 "Gonzales",
-50
+50,
+[
+"Gonzales, Texas",
+"Gonzales, TX"
+]
 ],
 [
 "Texarkana",
-50
+50,
+[
+"Texarkana, Texas",
+"Texarkana, TX"
+]
 ],
 [
 "Big Spring",
-50
+50,
+[
+"Big Spring, Texas",
+"Big Spring, TX"
+]
 ],
 [
 "Fredericksburg",
-50
+50,
+[
+"Fredericksburg, Texas",
+"Fredericksburg, TX"
+]
 ],
 [
 "Dumas",
-50
+50,
+[
+"Dumas, Texas",
+"Dumas, TX"
+]
 ],
 [
 "Hereford",
-50
+50,
+[
+"Hereford, Texas",
+"Hereford, TX"
+]
 ],
 [
 "Alice",
-50
+50,
+[
+"Alice, Texas",
+"Alice, TX"
+]
 ],
 [
 "Pearland",
-50
+50,
+[
+"Pearland, Texas",
+"Pearland, TX"
+]
 ],
 [
 "Georgetown",
-50
+50,
+[
+"Georgetown, Texas",
+"Georgetown, TX"
+]
 ],
 [
 "Conroe",
-49
+49,
+[
+"Conroe, Texas",
+"Conroe, TX"
+]
 ],
 [
 "Alpine",
-49
+49,
+[
+"Alpine, Texas",
+"Alpine, TX"
+]
 ],
 [
 "Victoria",
-49
+49,
+[
+"Victoria, Texas",
+"Victoria, TX"
+]
 ],
 [
 "Bay City",
-49
+49,
+[
+"Bay City, Texas",
+"Bay City, TX"
+]
 ],
 [
 "Baytown",
-49
+49,
+[
+"Baytown, Texas",
+"Baytown, TX"
+]
 ],
 [
 "Nacogdoches",
-49
+49,
+[
+"Nacogdoches, Texas",
+"Nacogdoches, TX"
+]
 ],
 [
 "Lufkin",
-49
+49,
+[
+"Lufkin, Texas",
+"Lufkin, TX"
+]
 ],
 [
 "Anahuac",
-48
+48,
+[
+"Anahuac, Texas",
+"Anahuac, TX"
+]
 ],
 [
 "Allen",
-48
+48,
+[
+"Allen, Texas",
+"Allen, TX"
+]
 ],
 [
 "Cleburne",
-48
+48,
+[
+"Cleburne, Texas",
+"Cleburne, TX"
+]
 ],
 [
 "Palestine",
-48
+48,
+[
+"Palestine, Texas",
+"Palestine, TX"
+]
 ],
 [
 "Belton",
-48
+48,
+[
+"Belton, Texas",
+"Belton, TX"
+]
 ],
 [
 "Johnson City",
-48
+48,
+[
+"Johnson City, Texas",
+"Johnson City, TX"
+]
 ],
 [
 "Del Rio",
-48
+48,
+[
+"Del Rio, Texas",
+"Del Rio, TX"
+]
 ],
 [
 "Seguin",
-48
+48,
+[
+"Seguin, Texas",
+"Seguin, TX"
+]
 ],
 [
 "Snyder",
-48
+48,
+[
+"Snyder, Texas",
+"Snyder, TX"
+]
 ],
 [
 "Orange",
-48
+48,
+[
+"Orange, Texas",
+"Orange, TX"
+]
 ],
 [
 "Hillsboro",
-48
+48,
+[
+"Hillsboro, Texas",
+"Hillsboro, TX"
+]
 ],
 [
 "Angleton",
-47
+47,
+[
+"Angleton, Texas",
+"Angleton, TX"
+]
 ],
 [
 "Rockwall",
-47
+47,
+[
+"Rockwall, Texas",
+"Rockwall, TX"
+]
 ],
 [
 "Brenham",
-47
+47,
+[
+"Brenham, Texas",
+"Brenham, TX"
+]
 ],
 [
 "Granbury",
-47
+47,
+[
+"Granbury, Texas",
+"Granbury, TX"
+]
 ],
 [
 "Kingsville",
-47
+47,
+[
+"Kingsville, Texas",
+"Kingsville, TX"
+]
 ],
 [
 "La Grange",
-47
+47,
+[
+"La Grange, Texas",
+"La Grange, TX"
+]
 ],
 [
 "Pampa",
-47
+47,
+[
+"Pampa, Texas",
+"Pampa, TX"
+]
 ],
 [
 "Pecos",
-47
+47,
+[
+"Pecos, Texas",
+"Pecos, TX"
+]
 ],
 [
 "Jasper",
-47
+47,
+[
+"Jasper, Texas",
+"Jasper, TX"
+]
 ],
 [
 "Gainesville",
-47
+47,
+[
+"Gainesville, Texas",
+"Gainesville, TX"
+]
 ],
 [
 "Plainview",
-47
+47,
+[
+"Plainview, Texas",
+"Plainview, TX"
+]
 ],
 [
 "Littlefield",
-46
+46,
+[
+"Littlefield, Texas",
+"Littlefield, TX"
+]
 ],
 [
 "Mission",
-46
+46,
+[
+"Mission, Texas",
+"Mission, TX"
+]
 ],
 [
 "Lockhart",
-46
+46,
+[
+"Lockhart, Texas",
+"Lockhart, TX"
+]
 ],
 [
 "Decatur",
-46
+46,
+[
+"Decatur, Texas",
+"Decatur, TX"
+]
 ],
 [
 "Athens",
-46
+46,
+[
+"Athens, Texas",
+"Athens, TX"
+]
 ],
 [
 "Fairfield",
-46
+46,
+[
+"Fairfield, Texas",
+"Fairfield, TX"
+]
 ],
 [
 "Quanah",
-46
+46,
+[
+"Quanah, Texas",
+"Quanah, TX"
+]
 ],
 [
 "Perryton",
-46
+46,
+[
+"Perryton, Texas",
+"Perryton, TX"
+]
 ],
 [
 "Sulphur Springs",
-46
+46,
+[
+"Sulphur Springs, Texas",
+"Sulphur Springs, TX"
+]
 ],
 [
 "Vernon",
-46
+46,
+[
+"Vernon, Texas",
+"Vernon, TX"
+]
 ],
 [
 "Fort Stockton",
-46
+46,
+[
+"Fort Stockton, Texas",
+"Fort Stockton, TX"
+]
 ],
 [
 "Gatesville",
-46
+46,
+[
+"Gatesville, Texas",
+"Gatesville, TX"
+]
 ],
 [
 "Brownwood",
-46
+46,
+[
+"Brownwood, Texas",
+"Brownwood, TX"
+]
 ],
 [
 "Sweetwater",
-46
+46,
+[
+"Sweetwater, Texas",
+"Sweetwater, TX"
+]
 ],
 [
 "Daingerfield",
-46
+46,
+[
+"Daingerfield, Texas",
+"Daingerfield, TX",
+"TX"
+]
 ],
 [
 "Dalhart",
-46
+46,
+[
+"Dalhart, Texas",
+"Dalhart, TX"
+]
 ],
 [
 "Childress",
-46
+46,
+[
+"Childress, Texas",
+"Childress, TX"
+]
 ],
 [
 "Bonham",
-45
+45,
+[
+"Bonham, Texas",
+"Bonham, TX"
+]
 ],
 [
 "Canton",
-45
+45,
+[
+"Canton, Texas",
+"Canton, TX"
+]
 ],
 [
 "Anderson",
-45
+45,
+[
+"Anderson, Texas",
+"Anderson, TX"
+]
 ],
 [
 "Bellville",
-45
+45,
+[
+"Bellville, Texas",
+"Bellville, TX"
+]
 ],
 [
 "Bastrop",
-45
+45,
+[
+"Bastrop, Texas",
+"Bastrop, TX"
+]
 ],
 [
 "Beeville",
-45
+45,
+[
+"Beeville, Texas",
+"Beeville, TX"
+]
 ],
 [
 "Lamesa",
-45
+45,
+[
+"Lamesa, Texas",
+"Lamesa, TX"
+]
 ],
 [
 "Levelland",
-45
+45,
+[
+"Levelland, Texas",
+"Levelland, TX"
+]
 ],
 [
 "Albany",
-45
+45,
+[
+"Albany, Texas",
+"Albany, TX"
+]
 ],
 [
 "Cameron",
-45
+45,
+[
+"Cameron, Texas",
+"Cameron, TX"
+]
 ],
 [
 "Stephenville",
-45
+45,
+[
+"Stephenville, Texas",
+"Stephenville, TX"
+]
 ],
 [
 "Marfa",
-45
+45,
+[
+"Marfa, Texas",
+"Marfa, TX"
+]
 ],
 [
 "Caldwell",
-45
+45,
+[
+"Caldwell, Texas",
+"Caldwell, TX"
+]
 ],
 [
 "Grapevine",
-44
+44,
+[
+"Grapevine, Texas",
+"Grapevine, TX"
+]
 ],
 [
 "Andrews",
-44
+44,
+[
+"Andrews, Texas",
+"Andrews, TX"
+]
 ],
 [
 "Anson",
-44
+44,
+[
+"Anson, Texas",
+"Anson, TX"
+]
 ],
 [
 "Baird",
-44
+44,
+[
+"Baird, Texas",
+"Baird, TX"
+]
 ],
 [
 "Big Lake",
-44
+44,
+[
+"Big Lake, Texas",
+"Big Lake, TX"
+]
 ],
 [
 "Centerville",
-44
+44,
+[
+"Centerville, Texas",
+"Centerville, TX"
+]
 ],
 [
 "Richmond",
-44
+44,
+[
+"Richmond, Texas",
+"Richmond, TX"
+]
 ],
 [
 "Emory",
-44
+44,
+[
+"Emory, Texas",
+"Emory, TX"
+]
 ],
 [
 "Junction",
-44
+44,
+[
+"Junction, Texas",
+"Junction, TX"
+]
 ],
 [
 "Hondo",
-44
+44,
+[
+"Hondo, Texas",
+"Hondo, TX"
+]
 ],
 [
 "Clarendon",
-44
+44,
+[
+"Clarendon, Texas",
+"Clarendon, TX"
+]
 ],
 [
 "Post",
-44
+44,
+[
+"Post, Texas",
+"Post, TX"
+]
 ],
 [
 "Wheeler",
-44
+44,
+[
+"Wheeler, Texas",
+"Wheeler, TX"
+]
 ],
 [
 "Burnet",
-44
+44,
+[
+"Burnet, Texas",
+"Burnet, TX"
+]
 ],
 [
 "Memphis",
-44
+44,
+[
+"Memphis, Texas",
+"Memphis, TX"
+]
 ],
 [
 "Rockport",
-44
+44,
+[
+"Rockport, Texas",
+"Rockport, TX"
+]
 ],
 [
 "Pittsburg",
-44
+44,
+[
+"Pittsburg, Texas",
+"Pittsburg, TX"
+]
 ],
 [
 "Goliad",
-44
+44,
+[
+"Goliad, Texas",
+"Goliad, TX"
+]
 ],
 [
 "Sonora",
-44
+44,
+[
+"Sonora, Texas",
+"Sonora, TX"
+]
 ],
 [
 "Jefferson",
-44
+44,
+[
+"Jefferson, Texas",
+"Jefferson, TX"
+]
 ],
 [
 "Mount Pleasant",
-43
+43,
+[
+"Mount Pleasant, Texas",
+"Mount Pleasant, TX"
+]
 ],
 [
 "San Saba",
-43
+43,
+[
+"San Saba, Texas",
+"San Saba, TX"
+]
 ],
 [
 "Seminole",
-43
+43,
+[
+"Seminole, Texas",
+"Seminole, TX"
+]
 ],
 [
 "Giddings",
-43
+43,
+[
+"Giddings, Texas",
+"Giddings, TX"
+]
 ],
 [
 "Boerne",
-43
+43,
+[
+"Boerne, Texas",
+"Boerne, TX",
+"Börne"
+]
 ],
 [
 "Canadian",
-43
+43,
+[
+"Canadian, Texas",
+"Canadian, TX"
+]
 ],
 [
 "Columbus",
-43
+43,
+[
+"Columbus, Texas",
+"Columbus, TX"
+]
 ],
 [
 "Kountze",
-43
+43,
+[
+"Kountze, Texas",
+"Kountze, TX"
+]
 ],
 [
 "Crystal City",
-43
+43,
+[
+"Crystal City, Texas",
+"Crystal City, TX"
+]
 ],
 [
 "Graham",
-43
+43,
+[
+"Graham, Texas",
+"Graham, TX"
+]
 ],
 [
 "Wellington",
-43
+43,
+[
+"Wellington, Texas",
+"Wellington, TX"
+]
 ],
 [
 "Cedar Park",
-43
+43,
+[
+"Cedar Park, Texas",
+"Cedar Park, TX"
+]
 ],
 [
 "Monahans",
-43
+43,
+[
+"Monahans, Texas",
+"Monahans, TX"
+]
 ],
 [
 "Jourdanton",
-43
+43,
+[
+"Jourdanton, Texas",
+"Jourdanton, TX"
+]
 ],
 [
 "Cuero",
-43
+43,
+[
+"Cuero, Texas",
+"Cuero, TX"
+]
 ],
 [
 "Crane",
-43
+43,
+[
+"Crane, Texas",
+"Crane, TX"
+]
 ],
 [
 "Hallettsville",
-42
+42,
+[
+"Hallettsville, Texas",
+"Hallettsville, TX"
+]
 ],
 [
 "Archer City",
-42
+42,
+[
+"Archer City, Texas",
+"Archer City, TX"
+]
 ],
 [
 "Pflugerville",
-42
+42,
+[
+"Pflugerville, Texas",
+"Pflugerville, TX"
+]
 ],
 [
 "Hempstead",
-42
+42,
+[
+"Hempstead, Texas",
+"Hempstead, TX"
+]
 ],
 [
 "Rusk",
-42
+42,
+[
+"Rusk, Texas",
+"Rusk, TX"
+]
 ],
 [
 "Llano",
-42
+42,
+[
+"Llano, Texas",
+"Llano, TX"
+]
 ],
 [
 "Brackettville",
-42
+42,
+[
+"Brackettville, Texas",
+"Brackettville, TX"
+]
 ],
 [
 "Kilgore",
-42
+42,
+[
+"Capital of the world's largest oil field",
+"City of Kilgore",
+"City of Stars",
+"Home of the Rangerettes",
+"Kilgore, Texas",
+"Kilgore, the Star City",
+"Kilgore, TX",
+"Oil capital of the world",
+"Oil city of the world",
+"The city of Kilgore",
+"The City of Stars"
+]
 ],
 [
 "Mansfield",
-42
+42,
+[
+"Mansfield, Texas",
+"Mansfield, TX",
+"Mansfield, USA"
+]
 ],
 [
 "Menard",
-42
+42,
+[
+"Menard, Texas",
+"Menard, TX"
+]
 ],
 [
 "Bandera",
-42
+42,
+[
+"Bandera, Texas",
+"Bandera, TX"
+]
 ],
 [
 "Madisonville",
-42
+42,
+[
+"Madisonville, Texas",
+"Madisonville, TX"
+]
 ],
 [
 "Livingston",
-42
+42,
+[
+"Livingston, Texas",
+"Livingston, TX"
+]
 ],
 [
 "San Diego",
-42
+42,
+[
+"San Diego, Texas",
+"San Diego, TX"
+]
 ],
 [
 "Claude",
-42
+42,
+[
+"Claude, Texas",
+"Claude, TX"
+]
 ],
 [
 "Farwell",
-42
+42,
+[
+"Farwell, Texas",
+"Farwell, TX"
+]
 ],
 [
 "Liberty",
-42
+42,
+[
+"Liberty, Texas",
+"Liberty, TX"
+]
 ],
 [
 "Lampasas",
-42
+42,
+[
+"Lampasas, Texas",
+"Lampasas, TX"
+]
 ],
 [
 "Sterling City",
-42
+42,
+[
+"Sterling City, Texas",
+"Sterling City, TX"
+]
 ],
 [
 "West",
-42
+42,
+[
+"West, Texas",
+"West, TX"
+]
 ],
 [
 "Linden",
-42
+42,
+[
+"Linden, Texas",
+"Linden, TX"
+]
 ],
 [
 "Gilmer",
-42
+42,
+[
+"Gilmer, Texas",
+"Gilmer, TX"
+]
 ],
 [
 "League City",
-42
+42,
+[
+"League City, Texas",
+"League City, TX"
+]
 ],
 [
 "Mineral Wells",
-41
+41,
+[
+"Mineral Wells, Texas",
+"Mineral Wells, TX"
+]
 ],
 [
 "Falfurrias",
-41
+41,
+[
+"Falfurrias, Texas",
+"Falfurrias, TX"
+]
 ],
 [
 "Wylie",
-41
+41,
+[
+"Wylie, Texas",
+"Wylie, TX"
+]
 ],
 [
 "Spearman",
-41
+41,
+[
+"Spearman, Texas",
+"Spearman, TX"
+]
 ],
 [
 "Eldorado",
-41
+41,
+[
+"Eldorado, Texas",
+"Eldorado, TX"
+]
 ],
 [
 "Henderson",
-41
+41,
+[
+"Henderson, Texas",
+"Henderson, TX"
+]
 ],
 [
 "Dimmitt",
-41
+41,
+[
+"Dimmitt, Texas",
+"Dimmitt, TX"
+]
 ],
 [
 "Benjamin",
-41
+41,
+[
+"Benjamin, Texas",
+"Benjamin, TX"
+]
 ],
 [
 "Breckenridge",
-41
+41,
+[
+"Breckenridge, Texas",
+"Breckenridge, TX"
+]
 ],
 [
 "Crowell",
-41
+41,
+[
+"Crowell, Texas",
+"Crowell, TX"
+]
 ],
 [
 "Cotulla",
-41
+41,
+[
+"Cotulla, Texas",
+"Cotulla, TX"
+]
 ],
 [
 "Franklin",
-41
+41,
+[
+"Franklin, Texas",
+"Franklin, TX"
+]
 ],
 [
 "Hamilton",
-41
+41,
+[
+"Hamilton, Texas",
+"Hamilton, TX"
+]
 ],
 [
 "Kaufman",
-41
+41,
+[
+"Kaufman, Texas",
+"Kaufman, TX"
+]
 ],
 [
 "Hemphill",
-41
+41,
+[
+"Hemphill, Texas",
+"Hemphill, TX"
+]
 ],
 [
 "Carthage",
-41
+41,
+[
+"Carthage, Texas",
+"Carthage, TX"
+]
 ],
 [
 "Pearsall",
-41
+41,
+[
+"Pearsall, Texas",
+"Pearsall, TX"
+]
 ],
 [
 "Newton",
-41
+41,
+[
+"Newton, Texas",
+"Newton, TX"
+]
 ],
 [
 "Coldspring",
-41
+41,
+[
+"Coldspring, Texas",
+"Coldspring, TX"
+]
 ],
 [
 "Groesbeck",
-41
+41,
+[
+"Groesbeck, Texas",
+"Groesbeck, TX",
+"Groesbeeck",
+"Groesbeeck, Texas",
+"Groesbeeck, TX"
+]
 ],
 [
 "Duncanville",
-41
+41,
+[
+"Duncanville, Texas",
+"Duncanville, TX"
+]
 ],
 [
 "Katy",
-41
+41,
+[
+"Katy, Texas",
+"Katy, TX"
+]
 ],
 [
 "Brownfield",
-41
+41,
+[
+"Brownfield, Texas",
+"Brownfield, TX"
+]
 ],
 [
 "Eastland",
-41
+41,
+[
+"Eastland, Texas",
+"Eastland, TX"
+]
 ],
 [
 "Clarksville",
-41
+41,
+[
+"Clarksville, Texas",
+"Clarksville, TX"
+]
 ],
 [
 "Rio Grande City",
-41
+41,
+[
+"City of Rio Grande City",
+"Rio Grande City, Texas",
+"Rio Grande City, TX"
+]
 ],
 [
 "Brady",
-41
+41,
+[
+"Brady, Texas",
+"Brady, TX"
+]
 ],
 [
 "Tahoka",
-41
+41,
+[
+"Tahoka, Texas",
+"Tahoka, TX"
+]
 ],
 [
 "Vega",
-41
+41,
+[
+"Vega, Texas",
+"Vega, TX"
+]
 ],
 [
 "Carrizo Springs",
-41
+41,
+[
+"Carrizo Springs, Texas",
+"Carrizo Springs, TX"
+]
 ],
 [
 "Stafford",
-41
+41,
+[
+"Stafford, Texas",
+"Stafford, TX"
+]
 ],
 [
 "Marlin",
-41
+41,
+[
+"Marlin, Texas",
+"Marlin, TX"
+]
 ],
 [
 "Coppell",
-41
+41,
+[
+"Coppell, Texas",
+"Coppell, TX"
+]
 ],
 [
 "Glen Rose",
-41
+41,
+[
+"Glen Rose, Texas",
+"Glen Rose, TX"
+]
 ],
 [
 "Center",
-40
+40,
+[
+"Center, Texas",
+"Center, TX"
+]
 ],
 [
 "Jacksboro",
-40
+40,
+[
+"Jacksboro, Texas",
+"Jacksboro, TX"
+]
 ],
 [
 "Borger",
-40
+40,
+[
+"Borger, Texas",
+"Borger, TX"
+]
 ],
 [
 "Kermit",
-40
+40,
+[
+"Kermit, Texas",
+"Kermit, TX"
+]
 ],
 [
 "Wharton",
-40
+40,
+[
+"Wharton, Texas",
+"Wharton, TX"
+]
 ],
 [
 "Silverton",
-40
+40,
+[
+"Silverton, Texas",
+"Silverton, TX"
+]
 ],
 [
 "Meridian",
-40
+40,
+[
+"Meridian, Texas",
+"Meridian, TX"
+]
 ],
 [
 "Stanton",
-40
+40,
+[
+"Stanton, Texas",
+"Stanton, TX"
+]
 ],
 [
 "Henrietta",
-40
+40,
+[
+"Henrietta, Texas",
+"Henrietta, TX"
+]
 ],
 [
 "Haskell",
-40
+40,
+[
+"Haskell, Texas",
+"Haskell, TX"
+]
 ],
 [
 "Coleman",
-40
+40,
+[
+"Coleman, Texas",
+"Coleman, TX"
+]
 ],
 [
 "Groveton",
-40
+40,
+[
+"Groveton, Texas",
+"Groveton, TX"
+]
 ],
 [
 "The Colony",
-40
+40,
+[
+"The Colony, Texas",
+"The Colony, TX"
+]
 ],
 [
 "Quitman",
-40
+40,
+[
+"Quitman, Texas",
+"Quitman, TX"
+]
 ],
 [
 "Leakey",
-40
+40,
+[
+"Leakey, Texas",
+"Leakey, TX"
+]
 ],
 [
 "Roby",
-40
+40,
+[
+"Roby, Texas",
+"Roby, TX"
+]
 ],
 [
 "Raymondville",
-40
+40,
+[
+"Raymondville, Texas",
+"Raymondville, TX"
+]
 ],
 [
 "George West",
-40
+40,
+[
+"George West, Texas",
+"George West, TX"
+]
 ],
 [
 "Sinton",
-40
+40,
+[
+"Sinton, Texas",
+"Sinton, TX"
+]
 ],
 [
 "Seymour",
-40
+40,
+[
+"Seymour, Texas",
+"Seymour, TX"
+]
 ],
 [
 "Rankin",
-40
+40,
+[
+"Rankin, Texas",
+"Rankin, TX"
+]
 ],
 [
 "Muleshoe",
-40
+40,
+[
+"Muleshoe, Texas",
+"Muleshoe, TX"
+]
 ],
 [
 "Vidor",
-39
+39,
+[
+"Vidor, Texas",
+"Vidor, TX"
+]
 ],
 [
 "Karnes City",
-39
+39,
+[
+"Karnes City, Texas",
+"Karnes City, TX"
+]
 ],
 [
 "Alvin",
-39
+39,
+[
+"Alvin, Texas",
+"Alvin, TX"
+]
 ],
 [
 "Dickens",
-39
+39,
+[
+"Dickens, Texas",
+"Dickens, TX"
+]
 ],
 [
 "Stinnett",
-39
+39,
+[
+"Stinnett, Texas",
+"Stinnett, TX"
+]
 ],
 [
 "Bellaire",
-39
+39,
+[
+"Bellaire, Texas",
+"Bellaire, TX"
+]
 ],
 [
 "Miami",
-39
+39,
+[
+"Miami, Texas",
+"Miami, TX"
+]
 ],
 [
 "Bedford",
-39
+39,
+[
+"Bedford, Texas",
+"Bedford, TX"
+]
 ],
 [
 "Robert Lee",
-39
+39,
+[
+"Robert Lee, Texas",
+"Robert Lee, TX"
+]
 ],
 [
 "Edna",
-39
+39,
+[
+"Edna, Texas",
+"Edna, TX"
+]
 ],
 [
 "Turkey",
-39
+39,
+[
+"Turkey, Texas",
+"Turkey, TX"
+]
 ],
 [
 "Floydada",
-39
+39,
+[
+"Floydada, Texas",
+"Floydada, TX"
+]
 ],
 [
 "Goldthwaite",
-39
+39,
+[
+"Goldthwaite, Texas",
+"Goldthwaite, TX"
+]
 ],
 [
 "Crockett",
-39
+39,
+[
+"Crockett, Texas",
+"Crockett, TX"
+]
 ],
 [
 "Channing",
-39
+39,
+[
+"Channing, Texas",
+"Channing, TX"
+]
 ],
 [
 "Comanche",
-39
+39,
+[
+"Comanche, Texas",
+"Comanche, TX"
+]
 ],
 [
 "Crosbyton",
-39
+39,
+[
+"Crosbyton, Texas",
+"Crosbyton, TX"
+]
 ],
 [
 "Floresville",
-39
+39,
+[
+"Floresville, Texas",
+"Floresville, TX"
+]
 ],
 [
 "DeSoto",
-39
+39,
+[
+"DeSoto, Texas",
+"DeSoto, TX"
+]
 ],
 [
 "Burleson",
-39
+39,
+[
+"Burleson, Texas",
+"Burleson, TX"
+]
 ],
 [
 "Adrian",
-39
+39,
+[
+"Adrian, Texas",
+"Adrian, TX"
+]
 ],
 [
 "Pharr",
-39
+39,
+[
+"Pharr, Texas",
+"Pharr, TX"
+]
 ],
 [
 "Mason",
-39
+39,
+[
+"Mason, Texas",
+"Mason, TX"
+]
 ],
 [
 "Mertzon",
-39
+39,
+[
+"Mertzon, Texas",
+"Mertzon, TX"
+]
 ],
 [
 "Euless",
-38
+38,
+[
+"Euless, Texas",
+"Euless, TX"
+]
 ],
 [
 "Keller",
-38
+38,
+[
+"Keller, Texas",
+"Keller, TX"
+]
 ],
 [
 "Abernathy",
-38
+38,
+[
+"Abernathy, Texas",
+"Abernathy, TX"
+]
 ],
 [
 "Rosenberg",
-38
+38,
+[
+"Rosenberg, Texas",
+"Rosenberg, TX"
+]
 ],
 [
 "Jacksonville",
-38
+38,
+[
+"Jacksonville, Texas",
+"Jacksonville, TX"
+]
 ],
 [
 "Azle",
-38
+38,
+[
+"Azle, Texas",
+"Azle, TX"
+]
 ],
 [
 "Ballinger",
-38
+38,
+[
+"Ballinger, Texas",
+"Ballinger, TX"
+]
 ],
 [
 "Deer Park",
-38
+38,
+[
+"Deer Park, Texas",
+"Deer Park, TX"
+]
 ],
 [
 "Cooper",
-38
+38,
+[
+"Cooper, Texas",
+"Cooper, TX"
+]
 ],
 [
 "Dickinson",
-38
+38,
+[
+"Dickinson, Texas",
+"Dickinson, TX"
+]
 ],
 [
 "Rowlett",
-38
+38,
+[
+"Rowlett, Texas",
+"Rowlett, TX"
+]
 ],
 [
 "University Park",
-38
+38,
+[
+"University Park, Texas",
+"University Park, TX"
+]
 ],
 [
 "Jayton",
-38
+38,
+[
+"Jayton, Texas",
+"Jayton, TX"
+]
 ],
 [
 "Taylor",
-38
+38,
+[
+"Taylor, Texas",
+"Taylor, TX"
+]
 ],
 [
 "Leander",
-38
+38,
+[
+"Leander, Texas",
+"Leander, TX"
+]
 ],
 [
 "Ennis",
-38
+38,
+[
+"Ennis, Texas",
+"Ennis, TX"
+]
 ],
 [
 "Clifton",
-38
+38,
+[
+"Clifton, Texas",
+"Clifton, TX"
+]
 ],
 [
 "Hurst",
-37
+37,
+[
+"Hurst, Texas",
+"Hurst, TX",
+"Hurst, USA"
+]
 ],
 [
 "Kyle",
-37
+37,
+[
+"Kyle, Texas",
+"Kyle, TX"
+]
 ],
 [
 "Friendswood",
-37
+37,
+[
+"Friendswood, Texas",
+"Friendswood, TX"
+]
 ],
 [
 "Benbrook",
-37
+37,
+[
+"Benbrook, Texas",
+"Benbrook, TX"
+]
 ],
 [
 "Midlothian",
-37
+37,
+[
+"Midlothian, Texas",
+"Midlothian, TX"
+]
 ],
 [
 "Balch Springs",
-37
+37,
+[
+"Balch Springs, Texas",
+"Balch Springs, TX"
+]
 ],
 [
 "Freeport",
-37
+37,
+[
+"Freeport, Texas",
+"Freeport, TX"
+]
 ],
 [
 "Morton",
-37
+37,
+[
+"Morton, Texas",
+"Morton, TX"
+]
 ],
 [
 "Saginaw",
-37
+37,
+[
+"Saginaw, Texas",
+"Saginaw, TX"
+]
 ],
 [
 "Leonard",
-37
+37,
+[
+"Leonard, Texas",
+"Leonard, TX"
+]
 ],
 [
 "Webster",
-37
+37,
+[
+"Webster, Texas",
+"Webster, TX"
+]
 ],
 [
 "Murphy",
-37
+37,
+[
+"Murphy, Texas",
+"Murphy, TX"
+]
 ],
 [
 "Colleyville",
-37
+37,
+[
+"Colleyville, Texas",
+"Colleyville, TX"
+]
 ],
 [
 "Copperas Cove",
-37
+37,
+[
+"City of Five Hills",
+"Copperas Cove, Texas",
+"Copperas Cove, TX"
+]
 ],
 [
 "Clute",
-37
+37,
+[
+"Clute, Texas",
+"Clute, TX"
+]
 ],
 [
 "Tulia",
-37
+37,
+[
+"Tulia, Texas",
+"Tulia, TX"
+]
 ],
 [
 "Chillicothe",
-37
+37,
+[
+"Chillicothe, Texas",
+"Chillicothe, TX"
+]
 ],
 [
 "Cedar Hill",
-37
+37,
+[
+"Cedar Hill, Texas",
+"Cedar Hill, TX"
+]
 ],
 [
 "Commerce",
-37
+37,
+[
+"Commerce, Texas",
+"Commerce, TX"
+]
 ],
 [
 "Terrell",
-37
+37,
+[
+"Terrell, Texas",
+"Terrell, TX"
+]
 ],
 [
 "Little Elm",
-37
+37,
+[
+"Little Elm, Texas",
+"Little Elm, TX"
+]
 ],
 [
 "Farmers Branch",
-37
+37,
+[
+"Farmers Branch, Texas",
+"Farmers Branch, TX"
+]
 ],
 [
 "San Augustine",
-37
+37,
+[
+"San Augustine, Texas",
+"San Augustine, TX"
+]
 ],
 [
 "Harker Heights",
-37
+37,
+[
+"Harker Heights, Texas",
+"Harker Heights, TX"
+]
 ],
 [
 "Krum",
-36
+36,
+[
+"Krum, Texas",
+"Krum, TX"
+]
 ],
 [
 "Farmersville",
-36
+36,
+[
+"Farmersville, Texas",
+"Farmersville, TX"
+]
 ],
 [
 "Highland Village",
-36
+36,
+[
+"Highland Village, Texas",
+"Highland Village, TX"
+]
 ],
 [
 "Abbott",
-36
+36,
+[
+"Abbott City, Texas",
+"Abbott, Texas",
+"Abbott, TX"
+]
 ],
 [
 "Fritch",
-36
+36,
+[
+"Fritch, Texas",
+"Fritch, TX"
+]
 ],
 [
 "Tomball",
-36
+36,
+[
+"Tomball, Texas",
+"Tomball, TX"
+]
 ],
 [
 "Atlanta",
-36
+36,
+[
+"Atlanta, Texas",
+"Atlanta, TX"
+]
 ],
 [
 "Aurora",
-36
+36,
+[
+"Aurora, Texas",
+"Aurora, TX"
+]
 ],
 [
 "Bee Cave",
-36
+36,
+[
+"Bee Cave, Texas",
+"Bee Cave, TX"
+]
 ],
 [
 "McGregor",
-36
+36,
+[
+"McGregor, Texas",
+"McGregor, TX"
+]
 ],
 [
 "Glenn Heights",
-36
+36,
+[
+"Glenn Heights, Texas",
+"Glenn Heights, TX"
+]
 ],
 [
 "Buffalo",
-36
+36,
+[
+"Buffalo, Texas",
+"Buffalo, TX"
+]
 ],
 [
 "Uncertain",
-36
+36,
+[
+"Uncertain, Texas",
+"Uncertain, TX"
+]
 ],
 [
 "Wolfe City",
-36
+36,
+[
+"Wolfe City, Texas",
+"Wolfe City, TX"
+]
 ],
 [
 "Blanco",
-36
+36,
+[
+"Blanco, Texas",
+"Blanco, TX"
+]
 ],
 [
 "Crowley",
-36
+36,
+[
+"Crowley, Texas",
+"Crowley, TX"
+]
 ],
 [
 "Presidio",
-36
+36,
+[
+"Presidio, Texas",
+"Presidio, TX"
+]
 ],
 [
 "Ferris",
-36
+36,
+[
+"Ferris, Texas",
+"Ferris, TX"
+]
 ],
 [
 "Schertz",
-36
+36,
+[
+"Schertz, Texas",
+"Schertz, TX"
+]
 ],
 [
 "Corinth",
-36
+36,
+[
+"Corinth, Texas",
+"Corinth, TX"
+]
 ],
 [
 "Seagoville",
-36
+36,
+[
+"Seagoville, Texas",
+"Seagoville, TX"
+]
 ],
 [
 "Lancaster",
-36
+36,
+[
+"Lancaster, Texas",
+"Lancaster, TX"
+]
 ],
 [
 "Santa Fe",
-36
+36,
+[
+"Santa Fe, Texas",
+"Santa Fe, TX"
+]
 ],
 [
 "Waller",
-36
+36,
+[
+"Waller, Texas",
+"Waller, TX"
+]
 ],
 [
 "Aledo",
-36
+36,
+[
+"Aledo, Texas",
+"Aledo, TX"
+]
 ],
 [
 "Forney",
-36
+36,
+[
+"Forney, Texas",
+"Forney, TX"
+]
 ],
 [
 "Seabrook",
-36
+36,
+[
+"Seabrook, Texas",
+"Seabrook, TX"
+]
 ],
 [
 "Portland",
-36
+36,
+[
+"Portland, Texas",
+"Portland, TX"
+]
 ],
 [
 "New London",
-36
+36,
+[
+"New London, Texas",
+"New London, TX"
+]
 ],
 [
 "Weston",
-36
+36,
+[
+"Weston, Texas",
+"Weston, TX"
+]
 ],
 [
 "Dayton",
-36
+36,
+[
+"Dayton, Texas",
+"Dayton, TX"
+]
 ],
 [
 "Dublin",
-36
+36,
+[
+"Dublin, Texas",
+"Dublin, TX"
+]
 ],
 [
 "San Benito",
-36
+36,
+[
+"San Benito, Texas",
+"San Benito, TX"
+]
 ],
 [
 "Converse",
-36
+36,
+[
+"Converse, Texas",
+"Converse, TX"
+]
 ],
 [
 "Shamrock",
-36
+36,
+[
+"Shamrock, Texas",
+"Shamrock, TX"
+]
 ],
 [
 "Watauga",
-36
+36,
+[
+"Watauga, Texas",
+"Watauga, TX"
+]
 ],
 [
 "Castroville",
-36
+36,
+[
+"Castroville, Texas",
+"Castroville, TX"
+]
 ],
 [
 "Hewitt",
-36
+36,
+[
+"Hewitt, Texas",
+"Hewitt, TX"
+]
 ],
 [
 "Ackerly",
-35
+35,
+[
+"Ackerly, Texas",
+"Ackerly, TX"
+]
 ],
 [
 "Buda",
-35
+35,
+[
+"Buda, Texas",
+"Buda, TX"
+]
 ],
 [
 "Nevada",
-35
+35,
+[
+"Nevada, Texas",
+"Nevada, TX"
+]
 ],
 [
 "Alvarado",
-35
+35,
+[
+"Alvarado, Texas",
+"Alvarado, TX"
+]
 ],
 [
 "Nederland",
-35
+35,
+[
+"Nederland, Texas",
+"Nederland, TX"
+]
 ],
 [
 "Sachse",
-35
+35,
+[
+"Sachse, Texas",
+"Sachse, TX"
+]
 ],
 [
 "Burkburnett",
-35
+35,
+[
+"Burkburnett, Texas",
+"Burkburnett, TX"
+]
 ],
 [
 "New Boston",
-35
+35,
+[
+"New Boston, Texas",
+"New Boston, TX"
+]
 ],
 [
 "Weimar",
-35
+35,
+[
+"Weimar, Texas",
+"Weimar, TX"
+]
 ],
 [
 "Van Alstyne",
-35
+35,
+[
+"Van Alstyne, Texas",
+"Van Alstyne, TX"
+]
 ],
 [
 "Bellmead",
-35
+35,
+[
+"Bellmead, Texas",
+"Bellmead, TX"
+]
 ],
 [
 "Bridge City",
-35
+35,
+[
+"Bridge City, Texas",
+"Bridge City, TX"
+]
 ],
 [
 "Bridgeport",
-35
+35,
+[
+"Bridgeport, Texas",
+"Bridgeport, TX"
+]
 ],
 [
 "Roma",
-35
+35,
+[
+"Roma-Los Saenz",
+"Roma, Texas",
+"Roma, TX"
+]
 ],
 [
 "Jamaica Beach",
-35
+35,
+[
+"Jamaica Beach, Texas",
+"Jamaica Beach, TX"
+]
 ],
 [
 "Oak Point",
-35
+35,
+[
+"Oak Point, Texas",
+"Oak Point, TX"
+]
 ],
 [
 "Cockrell Hill",
-35
+35,
+[
+"Cockrell Hill, Texas",
+"Cockrell Hill, TX"
+]
 ],
 [
 "Roanoke",
-35
+35,
+[
+"Roanoke, Texas",
+"Roanoke, TX"
+]
 ],
 [
 "Hutto",
-35
+35,
+[
+"Hutto, Texas",
+"Hutto, TX"
+]
 ],
 [
 "Port Aransas",
-35
+35,
+[
+"Port Aransas, Texas",
+"Port Aransas, TX"
+]
 ],
 [
 "Blue Ridge",
-35
+35,
+[
+"Blue Ridge, Texas",
+"Blue Ridge, TX"
+]
 ],
 [
 "White Settlement",
-35
+35,
+[
+"White Settlement, Texas",
+"White Settlement, TX"
+]
 ],
 [
 "Lake Jackson",
-35
+35,
+[
+"Lake Jackson, Texas",
+"Lake Jackson, TX"
+]
 ],
 [
 "La Marque",
-35
+35,
+[
+"La Marque, Texas",
+"La Marque, TX"
+]
 ],
 [
 "Lakeway",
-35
+35,
+[
+"Lakeway, Texas",
+"Lakeway, TX"
+]
 ],
 [
 "Humble",
-35
+35,
+[
+"Humble, Texas",
+"Humble, TX"
+]
 ],
 [
 "Mathis",
-35
+35,
+[
+"Mathis, Texas",
+"Mathis, TX"
+]
 ],
 [
 "Royse City",
-35
+35,
+[
+"Royse City, Texas",
+"Royse City, TX"
+]
 ],
 [
 "Weslaco",
-35
+35,
+[
+"Weslaco, Texas",
+"Weslaco, TX"
+]
 ],
 [
 "Donna",
-35
+35,
+[
+"Donna, Texas",
+"Donna, TX"
+]
 ],
 [
 "Gordon",
-35
+35,
+[
+"Gordon, Texas",
+"Gordon, TX"
+]
 ],
 [
 "Mercedes",
-35
+35,
+[
+"Mercedes, Texas",
+"Mercedes, TX"
+]
 ],
 [
 "Universal City",
-35
+35,
+[
+"Universal City, Texas",
+"Universal City, TX"
+]
 ],
 [
 "West Columbia",
-35
+35,
+[
+"West Columbia, Texas",
+"West Columbia, TX"
+]
 ],
 [
 "Cisco",
-35
+35,
+[
+"Cisco, Texas",
+"Cisco, TX"
+]
 ],
 [
 "Appleby",
-35
+35,
+[
+"Appleby, Texas",
+"Appleby, TX"
+]
 ],
 [
 "Cibolo",
-35
+35,
+[
+"Cibolo, Texas",
+"Cibolo, TX"
+]
 ],
 [
 "South Houston",
-35
+35,
+[
+"South Houston, Texas",
+"South Houston, TX"
+]
 ],
 [
 "Mobile City",
-35
+35,
+[
+"Mobile City, Texas",
+"Mobile City, TX"
+]
 ],
 [
 "Kemah",
-35
+35,
+[
+"Kemah, Texas",
+"Kemah, TX"
+]
 ],
 [
 "Smithville",
-35
+35,
+[
+"Smithville, Texas",
+"Smithville, TX"
+]
 ],
 [
 "Live Oak",
-35
+35,
+[
+"Live Oak, Texas",
+"Live Oak, TX"
+]
 ],
 [
 "Robinson",
-35
+35,
+[
+"Robinson, Texas",
+"Robinson, TX"
+]
 ],
 [
 "Fate",
-35
+35,
+[
+"Fate, Texas",
+"Fate, TX"
+]
 ],
 [
 "Alamo",
-35
+35,
+[
+"Alamo, Texas",
+"Alamo, TX"
+]
 ],
 [
 "Ingleside",
-35
+35,
+[
+"Ingleside, Texas",
+"Ingleside, TX"
+]
 ],
 [
 "Cleveland",
-35
+35,
+[
+"Cleveland, Texas",
+"Cleveland, TX"
+]
 ],
 [
 "Zavalla",
-35
+35,
+[
+"Zavalla, Texas",
+"Zavalla, TX"
+]
 ],
 [
 "Parker",
-35
+35,
+[
+"Parker, Texas",
+"Parker, TX"
+]
 ],
 [
 "West University Place",
-35
+35,
+[
+"West U",
+"West University Place, Texas",
+"West University Place, TX"
+]
 ],
 [
 "Port Isabel",
-35
+35,
+[
+"Point Isabel, Texas",
+"Port Isabel, Texas",
+"Port Isabel, TX"
+]
 ],
 [
 "Ravenna",
-34
+34,
+[
+"Ravenna, Texas",
+"Ravenna, TX"
+]
 ],
 [
 "Kennedale",
-34
+34,
+[
+"Kennedale, Texas",
+"Kennedale, TX"
+]
 ],
 [
 "Forest Hill",
-34
+34,
+[
+"Forest Hill, Texas",
+"Forest Hill, TX"
+]
 ],
 [
 "Nassau Bay",
-34
+34,
+[
+"Nassau Bay, Texas",
+"Nassau Bay, TX"
+]
 ],
 [
 "Ames",
-34
+34,
+[
+"Ames, Texas",
+"Ames, TX"
+]
 ],
 [
 "Princeton",
-34
+34,
+[
+"Princeton, Texas",
+"Princeton, TX"
+]
 ],
 [
 "Anna",
-34
+34,
+[
+"Anna, Texas",
+"Anna, TX"
+]
 ],
 [
 "Aransas Pass",
-34
+34,
+[
+"Aransas Pass, Texas",
+"Aransas Pass, TX"
+]
 ],
 [
 "Gladewater",
-34
+34,
+[
+"Gladewater, Texas",
+"Gladewater, TX"
+]
 ],
 [
 "Bremond",
-34
+34,
+[
+"Bremond, Texas",
+"Bremond, TX"
+]
 ],
 [
 "Overton",
-34
+34,
+[
+"Overton, Texas",
+"Overton, TX"
+]
 ],
 [
 "Dripping Springs",
-34
+34,
+[
+"Dripping Springs, Texas",
+"Dripping Springs, TX"
+]
 ],
 [
 "Hallsville",
-34
+34,
+[
+"Hallsville, Texas",
+"Hallsville, TX"
+]
 ],
 [
 "Winters",
-34
+34,
+[
+"Winters, Texas",
+"Winters, TX"
+]
 ],
 [
 "Waskom",
-34
+34,
+[
+"Waskom, Texas",
+"Waskom, TX"
+]
 ],
 [
 "Eagle Lake",
-34
+34,
+[
+"Eagle Lake, Texas",
+"Eagle Lake, TX"
+]
 ],
 [
 "La Porte",
-34
+34,
+[
+"La Porte, Texas",
+"La Porte, TX"
+]
 ],
 [
 "Eden",
-34
+34,
+[
+"Eden, Texas",
+"Eden, TX"
+]
 ],
 [
 "Surfside Beach",
-34
+34,
+[
+"Surfside Beach, Texas",
+"Surfside Beach, TX",
+"Surfside, Texas"
+]
 ],
 [
 "Combine",
-34
+34,
+[
+"Combine, Texas",
+"Combine, TX"
+]
 ],
 [
 "Celeste",
-34
+34,
+[
+"Celeste, Texas",
+"Celeste, TX"
+]
 ],
 [
 "Wolfforth",
-34
+34,
+[
+"Wolfforth, Texas",
+"Wolfforth, TX"
+]
 ],
 [
 "Josephine",
-34
+34,
+[
+"Josephine, Texas",
+"Josephine, TX"
+]
 ],
 [
 "Scottsville",
-34
+34,
+[
+"Scottsville , Texas",
+"Scottsville, Texas",
+"Scottsville, TX"
+]
 ],
 [
 "Magnolia",
-34
+34,
+[
+"Magnolia, Texas",
+"Magnolia, TX"
+]
 ],
 [
 "Hilshire Village",
-34
+34,
+[
+"Hilshire Village, Texas",
+"Hilshire Village, TX"
+]
 ],
 [
 "Elgin",
-34
+34,
+[
+"Elgin, Texas",
+"Elgin, TX"
+]
 ],
 [
 "Navasota",
-34
+34,
+[
+"Navasota, Texas",
+"Navasota, TX"
+]
 ],
 [
 "Amherst",
-34
+34,
+[
+"Amherst, Texas",
+"Amherst, TX"
+]
 ],
 [
 "Industry",
-34
+34,
+[
+"Industry, Texas",
+"Industry, TX"
+]
 ],
 [
 "Florence",
-34
+34,
+[
+"Florence, Texas",
+"Florence, TX"
+]
 ],
 [
 "Chandler",
-34
+34,
+[
+"Chandler, Texas",
+"Chandler, TX"
+]
 ],
 [
 "Rotan",
-34
+34,
+[
+"Rotan, Texas",
+"Rotan, TX"
+]
 ],
 [
 "Morgan's Point",
-34
+34,
+[
+"Morgan Point",
+"Morgans Point",
+"Morgan's Point, Texas",
+"Morgan's Point, TX"
+]
 ],
 [
 "Lucas",
-34
+34,
+[
+"Lucas, Texas",
+"Lucas, TX"
+]
 ],
 [
 "Alton",
-34
+34,
+[
+"Alton, Texas",
+"Alton, TX"
+]
 ],
 [
 "West Orange",
-34
+34,
+[
+"West Orange, Texas",
+"West Orange, TX"
+]
 ],
 [
 "Honey Grove",
-34
+34,
+[
+"Honey Grove, Texas",
+"Honey Grove, TX"
+]
 ],
 [
 "Hearne",
-34
+34,
+[
+"Hearne, Texas",
+"Hearne, TX"
+]
 ],
 [
 "Galena Park",
-34
+34,
+[
+"Galena Park, Texas",
+"Galena Park, TX"
+]
 ],
 [
 "Lumberton",
-34
+34,
+[
+"Lumberton, Texas",
+"Lumberton, TX"
+]
 ],
 [
 "Hico",
-34
+34,
+[
+"Hico, Texas",
+"Hico, TX"
+]
 ],
 [
 "Quinlan",
-34
+34,
+[
+"Quinlan, Texas",
+"Quinlan, TX"
+]
 ],
 [
 "Los Fresnos",
-34
+34,
+[
+"Los Fresnos, Texas",
+"Los Fresnos, TX"
+]
 ],
 [
 "Jacinto City",
-34
+34,
+[
+"Jacinto City, Texas",
+"Jacinto City, TX"
+]
 ],
 [
 "Lake Dallas",
-34
+34,
+[
+"Lake Dallas, Texas",
+"Lake Dallas, TX"
+]
 ],
 [
 "Muenster",
-34
+34,
+[
+"Muenster, Texas",
+"Muenster, TX"
+]
 ],
 [
 "Sanger",
-34
+34,
+[
+"Sanger, Texas",
+"Sanger, TX"
+]
 ],
 [
 "Cut and Shoot",
-34
+34,
+[
+"Cut and Shoot, Texas",
+"Cut and Shoot, TX"
+]
 ],
 [
 "Moody",
-34
+34,
+[
+"Moody, Texas",
+"Moody, TX"
+]
 ],
 [
 "Shoreacres",
-34
+34,
+[
+"Shoreacres, Texas",
+"Shoreacres, TX"
+]
 ],
 [
 "Kerens",
-34
+34,
+[
+"Kerens, Texas",
+"Kerens, TX"
+]
 ],
 [
 "Rose City",
-34
+34,
+[
+"Rose City, Texas",
+"Rose City, TX"
+]
 ],
 [
 "Alamo Heights",
-34
+34,
+[
+"Alamo Heights, Texas",
+"Alamo Heights, TX"
+]
 ],
 [
 "Natalia",
-33
+33,
+[
+"Natalia, Texas",
+"Natalia, TX"
+]
 ],
 [
 "Robstown",
-33
+33,
+[
+"Robstown, Texas",
+"Robstown, TX"
+]
 ],
 [
 "Marble Falls",
-33
+33,
+[
+"Marble Falls, Texas",
+"Marble Falls, TX"
+]
 ],
 [
 "River Oaks",
-33
+33,
+[
+"River Oaks, Texas",
+"River Oaks, TX"
+]
 ],
 [
 "Argyle",
-33
+33,
+[
+"Argyle, Texas",
+"Argyle, TX"
+]
 ],
 [
 "Kirbyville",
-33
+33,
+[
+"Kirbyville, Texas",
+"Kirbyville, TX"
+]
 ],
 [
 "Slaton",
-33
+33,
+[
+"Slaton, Texas",
+"Slaton, TX"
+]
 ],
 [
 "Helotes",
-33
+33,
+[
+"Helotes, Texas",
+"Helotes, TX"
+]
 ],
 [
 "Bishop",
-33
+33,
+[
+"Bishop, Texas",
+"Bishop, TX"
+]
 ],
 [
 "Lone Oak",
-33
+33,
+[
+"Lone Oak, Texas",
+"Lone Oak, TX"
+]
 ],
 [
 "La Feria",
-33
+33,
+[
+"La Feria, Texas",
+"La Feria, TX"
+]
 ],
 [
 "Newark",
-33
+33,
+[
+"Newark, Texas",
+"Newark, TX"
+]
 ],
 [
 "Riesel",
-33
+33,
+[
+"Riesel, Texas",
+"Riesel, TX"
+]
 ],
 [
 "Beach City",
-33
+33,
+[
+"Beach City, Texas",
+"Beach City, TX"
+]
 ],
 [
 "Bogata",
-33
+33,
+[
+"Bogata, Texas",
+"Bogata, TX"
+]
 ],
 [
 "Fulshear",
-33
+33,
+[
+"Fulshear, Texas",
+"Fulshear, TX"
+]
 ],
 [
 "Woodcreek",
-33
+33,
+[
+"Woodcreek, Texas",
+"Woodcreek, TX"
+]
 ],
 [
 "Brookshire",
-33
+33,
+[
+"Brookshire, Texas",
+"Brookshire, TX"
+]
 ],
 [
 "Brookside Village",
-33
+33,
+[
+"Brookside",
+"Brookside Village, Texas",
+"Brookside Village, TX"
+]
 ],
 [
 "Schulenburg",
-33
+33,
+[
+"Schulenburg, Texas",
+"Schulenburg, TX"
+]
 ],
 [
 "Wixon Valley",
-33
+33,
+[
+"Wixon Valley, Texas",
+"Wixon Valley, TX"
+]
 ],
 [
 "El Campo",
-33
+33,
+[
+"El Campo, Texas",
+"El Campo, TX"
+]
 ],
 [
 "Bailey",
-33
+33,
+[
+"Bailey, Texas",
+"Bailey, TX"
+]
 ],
 [
 "Richland Hills",
-33
+33,
+[
+"Richland Hills, Texas",
+"Richland Hills, TX"
+]
 ],
 [
 "Blue Mound",
-33
+33,
+[
+"Blue Mound, Texas",
+"Blue Mound, TX"
+]
 ],
 [
 "Frost",
-33
+33,
+[
+"Frost, Texas",
+"Frost, TX"
+]
 ],
 [
 "Aubrey",
-33
+33,
+[
+"Aubrey, Texas",
+"Aubrey, TX"
+]
 ],
 [
 "Blackwell",
-33
+33,
+[
+"Blackwell, Texas",
+"Blackwell, TX"
+]
 ],
 [
 "Clear Lake Shores",
-33
+33,
+[
+"Clear Lake Shores, Texas",
+"Clear Lake Shores, TX"
+]
 ],
 [
 "Liverpool",
-33
+33,
+[
+"Liverpool, Texas",
+"Liverpool, TX"
+]
 ],
 [
 "Uhland",
-33
+33,
+[
+"Uhland, Texas",
+"Uhland, TX"
+]
 ],
 [
 "Haslet",
-33
+33,
+[
+"Haslet, Texas",
+"Haslet, TX"
+]
 ],
 [
 "Burke",
-33
+33,
+[
+"Burke, Texas",
+"Burke, TX"
+]
 ],
 [
 "Luling",
-33
+33,
+[
+"Luling, Texas",
+"Luling, TX"
+]
 ],
 [
 "Prairie View",
-33
+33,
+[
+"Prairie View, Texas",
+"Prairie View, TX"
+]
 ],
 [
 "Huntington",
-33
+33,
+[
+"Huntington, Texas",
+"Huntington, TX"
+]
 ],
 [
 "Sweeny",
-33
+33,
+[
+"Sweeny, Texas",
+"Sweeny, TX"
+]
 ],
 [
 "Melissa",
-33
+33,
+[
+"Melissa, Texas",
+"Melissa, TX"
+]
 ],
 [
 "Nocona",
-33
+33,
+[
+"Nocona, Texas",
+"Nocona, TX"
+]
 ],
 [
 "Mexia",
-33
+33,
+[
+"Mexia, Texas",
+"Mexia, TX"
+]
 ],
 [
 "Hutchins",
-33
+33,
+[
+"Hutchins, Texas",
+"Hutchins, TX"
+]
 ],
 [
 "West Tawakoni",
-33
+33,
+[
+"West Tawakoni, Texas",
+"West Tawakoni, TX"
+]
 ],
 [
 "Troy",
-33
+33,
+[
+"Troy, Texas",
+"Troy, TX"
+]
 ],
 [
 "Keene",
-33
+33,
+[
+"Keene, Texas",
+"Keene, TX"
+]
 ],
 [
 "Windcrest",
-33
+33,
+[
+"Windcrest, Texas",
+"Windcrest, TX"
+]
 ],
 [
 "Hawk Cove",
-33
+33,
+[
+"Hawk Cove, Texas",
+"Hawk Cove, TX"
+]
 ],
 [
 "Yorktown",
-33
+33,
+[
+"Yorktown, Texas",
+"Yorktown, TX"
+]
 ],
 [
 "Shiner",
-33
+33,
+[
+"Shiner, Texas",
+"Shiner, TX"
+]
 ],
 [
 "Dell City",
-33
+33,
+[
+"Dell City, Texas",
+"Dell City, TX"
+]
 ],
 [
 "Lake Worth",
-33
+33,
+[
+"Lake Worth, Texas",
+"Lake Worth, TX"
+]
 ],
 [
 "Pelican Bay",
-33
+33,
+[
+"Pelican Bay, Texas",
+"Pelican Bay, TX"
+]
 ],
 [
 "Sabinal",
-33
+33,
+[
+"Sabinal, Texas",
+"Sabinal, TX"
+]
 ],
 [
 "Hedwig Village",
-33
+33,
+[
+"Hedwig Village, Texas",
+"Hedwig Village, TX"
+]
 ],
 [
 "Danbury",
-33
+33,
+[
+"Danbury, Texas",
+"Danbury, TX"
+]
 ],
 [
 "Cove",
-33
+33,
+[
+"Cove, Texas",
+"Cove, TX"
+]
 ],
 [
 "Trenton",
-33
+33,
+[
+"Trenton, Texas",
+"Trenton, TX"
+]
 ],
 [
 "Spur",
-33
+33,
+[
+"Spur, Texas",
+"Spur, TX"
+]
 ],
 [
 "Pleasanton",
-33
+33,
+[
+"Pleasanton, Texas",
+"Pleasanton, TX"
+]
 ],
 [
 "Bulverde",
-33
+33,
+[
+"Bulverde, Texas",
+"Bulverde, TX"
+]
 ],
 [
 "Mont Belvieu",
-33
+33,
+[
+"Mont Belvieu, Texas",
+"Mont Belvieu, TX"
+]
 ],
 [
 "El Lago",
-33
+33,
+[
+"El Lago, Texas",
+"El Lago, TX"
+]
 ],
 [
 "Woodway",
-33
+33,
+[
+"Woodway, Texas",
+"Woodway, TX"
+]
 ],
 [
 "Hidalgo",
-33
+33,
+[
+"Hidalgo, Texas",
+"Hidalgo, TX"
+]
 ],
 [
 "Sadler",
-33
+33,
+[
+"Sadler, Texas",
+"Sadler, TX"
+]
 ],
 [
 "Wilmer",
-33
+33,
+[
+"Wilmer, Texas",
+"Wilmer, TX"
+]
 ],
 [
 "Maypearl",
-33
+33,
+[
+"Maypearl, Texas",
+"Maypearl, TX"
+]
 ],
 [
 "Hudson",
-33
+33,
+[
+"Hudson, Texas",
+"Hudson, TX"
+]
 ],
 [
 "Grandview",
-33
+33,
+[
+"Grandview, Texas",
+"Grandview, TX"
+]
 ],
 [
 "Lorenzo",
-33
+33,
+[
+"Lorenzo, Texas",
+"Lorenzo, TX"
+]
 ],
 [
 "Camp Wood",
-33
+33,
+[
+"Camp Wood, Texas",
+"Camp Wood, TX"
+]
 ],
 [
 "Diboll",
-33
+33,
+[
+"Diboll, Texas",
+"Diboll, TX"
+]
 ],
 [
 "Selma",
-33
+33,
+[
+"Selma, Texas",
+"Selma, TX"
+]
 ],
 [
 "Caddo Mills",
-33
+33,
+[
+"Caddo Mills, Texas",
+"Caddo Mills, TX"
+]
 ],
 [
 "Bardwell",
-33
+33,
+[
+"Bardwell, Texas",
+"Bardwell, TX"
+]
 ],
 [
 "Taft",
-33
+33,
+[
+"Taft, Texas",
+"Taft, TX"
+]
 ],
 [
 "Chireno",
-33
+33,
+[
+"Chireno, Texas",
+"Chireno, TX"
+]
 ],
 [
 "Rosebud",
-33
+33,
+[
+"Rosebud, Texas",
+"Rosebud, TX"
+]
 ],
 [
 "Onalaska",
-33
+33,
+[
+"Onalaska, Texas",
+"Onalaska, TX"
+]
 ],
 [
 "Strawn",
-33
+33,
+[
+"Strawn, Texas",
+"Strawn, TX"
+]
 ],
 [
 "Quitaque",
-33
+33,
+[
+"Quitaque, Texas",
+"Quitaque, TX"
+]
 ],
 [
 "Bruceville-Eddy",
-33
+33,
+[
+"Bruceville-Eddy, Texas",
+"Bruceville-Eddy, TX"
+]
 ],
 [
 "Spring Valley Village",
-33
+33,
+[
+"Spring Valley",
+"Spring Valley Village, Texas",
+"Spring Valley Village, TX"
+]
 ],
 [
 "Iowa Park",
-33
+33,
+[
+"Iowa Park, Texas",
+"Iowa Park, TX"
+]
 ],
 [
 "Whitesboro",
-33
+33,
+[
+"Whitesboro, Texas",
+"Whitesboro, TX"
+]
 ],
 [
 "Stamford",
-33
+33,
+[
+"Stamford, Texas",
+"Stamford, TX"
+]
 ],
 [
 "Byers",
-33
+33,
+[
+"Byers, Texas",
+"Byers, TX"
+]
 ],
 [
 "Pilot Point",
-33
+33,
+[
+"Pilot Point, Texas",
+"Pilot Point, TX"
+]
 ],
 [
 "Krugerville",
-33
+33,
+[
+"Krugerville, Texas",
+"Krugerville, TX"
+]
 ],
 [
 "Venus",
-33
+33,
+[
+"Venus, Texas",
+"Venus, TX"
+]
 ],
 [
 "Mineola",
-33
+33,
+[
+"Mineola, Texas",
+"Mineola, TX"
+]
 ],
 [
 "Trinity",
-33
+33,
+[
+"Trinity, Texas",
+"Trinity, TX"
+]
 ],
 [
 "Early",
-33
+33,
+[
+"Early, Texas",
+"Early, TX"
+]
 ],
 [
 "Garden Ridge",
-33
+33,
+[
+"Garden Ridge, Texas",
+"Garden Ridge, TX"
+]
 ],
 [
 "Leon Valley",
-33
+33,
+[
+"Leon Valley, Texas",
+"Leon Valley, TX"
+]
 ],
 [
 "Teague",
-33
+33,
+[
+"Teague, Texas",
+"Teague, TX"
+]
 ],
 [
 "Kirby",
-32
+32,
+[
+"Kirby, Texas",
+"Kirby, TX"
+]
 ],
 [
 "Palm Valley",
-32
+32,
+[
+"Palm Valley, Cameron County, Texas",
+"Palm Valley, TX"
+]
 ],
 [
 "Everman",
-32
+32,
+[
+"Everman, Texas",
+"Everman, TX"
+]
 ],
 [
 "Springtown",
-32
+32,
+[
+"Springtown, Texas",
+"Springtown, TX"
+]
 ],
 [
 "Port Neches",
-32
+32,
+[
+"Port Neches, Texas",
+"Port Neches, TX"
+]
 ],
 [
 "Malakoff",
-32
+32,
+[
+"Malakoff, Texas",
+"Malakoff, TX"
+]
 ],
 [
 "Hudson Oaks",
-32
+32,
+[
+"Hudson Oaks, Texas",
+"Hudson Oaks, TX"
+]
 ],
 [
 "Austwell",
-32
+32,
+[
+"Austwell, Texas",
+"Austwell, TX"
+]
 ],
 [
 "Brazoria",
-32
+32,
+[
+"Brazoria, Texas",
+"Brazoria, TX"
+]
 ],
 [
 "Silsbee",
-32
+32,
+[
+"Silsbee, Texas",
+"Silsbee, TX"
+]
 ],
 [
 "Somerville",
-32
+32,
+[
+"Somerville, Texas",
+"Somerville, TX"
+]
 ],
 [
 "Troup",
-32
+32,
+[
+"Troup, Texas",
+"Troup, TX"
+]
 ],
 [
 "Ranger",
-32
+32,
+[
+"Ranger, Texas",
+"Ranger, TX"
+]
 ],
 [
 "Merkel",
-32
+32,
+[
+"Merkel, Texas",
+"Merkel, TX"
+]
 ],
 [
 "Itasca",
-32
+32,
+[
+"Itasca, Texas",
+"Itasca, TX"
+]
 ],
 [
 "Savoy",
-32
+32,
+[
+"Savoy, Texas",
+"Savoy, TX"
+]
 ],
 [
 "Palacios",
-32
+32,
+[
+"Palacios, Texas",
+"Palacios, TX"
+]
 ],
 [
 "Reklaw",
-32
+32,
+[
+"Reklaw, Texas",
+"Reklaw, TX"
+]
 ],
 [
 "Charlotte",
-32
+32,
+[
+"Charlotte, Texas",
+"Charlotte, TX"
+]
 ],
 [
 "Arcola",
-32
+32,
+[
+"Arcola, Texas",
+"Arcola, TX"
+]
 ],
 [
 "Hale Center",
-32
+32,
+[
+"Hale Center, Texas",
+"Hale Center, TX"
+]
 ],
 [
 "Grapeland",
-32
+32,
+[
+"Grapeland, Texas",
+"Grapeland, TX"
+]
 ],
 [
 "Ingleside on the Bay",
-32
+32,
+[
+"Ingleside on the Bay, Texas",
+"Ingleside on the Bay, TX"
+]
 ],
 [
 "Taylor Lake Village",
-32
+32,
+[
+"Taylor Lake Village, Texas",
+"Taylor Lake Village, TX"
+]
 ],
 [
 "Southside Place",
-32
+32,
+[
+"Southside Place, Texas",
+"Southside Place, TX"
+]
 ],
 [
 "Morgan",
-32
+32,
+[
+"Morgan, Texas",
+"Morgan, TX"
+]
 ],
 [
 "McLendon-Chisholm",
-32
+32,
+[
+"McLendon-Chisholm, Texas",
+"McLendon-Chisholm, TX"
+]
 ],
 [
 "Barry",
-32
+32,
+[
+"Barry, Texas",
+"Barry, TX"
+]
 ],
 [
 "Manor",
-32
+32,
+[
+"Manor, Texas",
+"Manor, TX"
+]
 ],
 [
 "Cushing",
-32
+32,
+[
+"Cushing, Texas",
+"Cushing, TX"
+]
 ],
 [
 "Hill Country Village",
-32
+32,
+[
+"Hill Country Village, Texas",
+"Hill Country Village, TX"
+]
 ],
 [
 "Ingram",
-32
+32,
+[
+"Ingram, Texas",
+"Ingram, TX"
+]
 ],
 [
 "Bowie",
-32
+32,
+[
+"Bowie, Texas",
+"Bowie, TX"
+]
 ],
 [
 "Thorndale",
-32
+32,
+[
+"Thorndale, Texas",
+"Thorndale, TX"
+]
 ],
 [
 "Whitehouse",
-32
+32,
+[
+"Whitehouse, Texas",
+"Whitehouse, TX"
+]
 ],
 [
 "Cool",
-32
+32,
+[
+"Cool, Texas",
+"Cool, TX"
+]
 ],
 [
 "Anton",
-32
+32,
+[
+"Anton, Texas",
+"Anton, TX"
+]
 ],
 [
 "Lowry Crossing",
-32
+32,
+[
+"Lowry Crossing, Texas",
+"Lowry Crossing, TX"
+]
 ],
 [
 "Bunker Hill Village",
-32
+32,
+[
+"Bunker Hill Village, Texas",
+"Bunker Hill Village, TX"
+]
 ],
 [
 "Valley Mills",
-32
+32,
+[
+"Valley Mills, Texas",
+"Valley Mills, TX"
+]
 ],
 [
 "Willow Park",
-32
+32,
+[
+"Willow Park, Texas",
+"Willow Park, TX"
+]
 ],
 [
 "Clyde",
-32
+32,
+[
+"Clyde, Texas",
+"Clyde, TX"
+]
 ],
 [
 "Somerset",
-32
+32,
+[
+"Somerset, Texas",
+"Somerset, TX"
+]
 ],
 [
 "Three Rivers",
-32
+32,
+[
+"Three Rivers, Texas",
+"Three Rivers, TX"
+]
 ],
 [
 "White Oak",
-32
+32,
+[
+"White Oak, Texas",
+"White Oak, TX"
+]
 ],
 [
 "Miles",
-32
+32,
+[
+"Miles, Texas",
+"Miles, TX"
+]
 ],
 [
 "Devers",
-32
+32,
+[
+"Devers, Texas",
+"Devers, TX"
+]
 ],
 [
 "Arp",
-32
+32,
+[
+"Arp, Texas",
+"Arp, TX"
+]
 ],
 [
 "Bryson",
-32
+32,
+[
+"Bryson, Texas",
+"Bryson, TX"
+]
 ],
 [
 "Bayou Vista",
-32
+32,
+[
+"Bayou Vista, Texas",
+"Bayou Vista, TX"
+]
 ],
 [
 "Hart",
-32
+32,
+[
+"Hart, Texas",
+"Hart, TX"
+]
 ],
 [
 "Pecan Gap",
-32
+32,
+[
+"Pecan Gap, Texas",
+"Pecan Gap, TX"
+]
 ],
 [
 "Southmayd",
-32
+32,
+[
+"Southmayd, Texas",
+"Southmayd, TX"
+]
 ],
 [
 "Shenandoah",
-32
+32,
+[
+"Shenandoah, Texas",
+"Shenandoah, TX"
+]
 ],
 [
 "Garrison",
-32
+32,
+[
+"Garrison, Texas",
+"Garrison, TX"
+]
 ],
 [
 "Nolanville",
-32
+32,
+[
+"Nolanville, Texas",
+"Nolanville, TX"
+]
 ],
 [
 "Rio Bravo",
-32
+32,
+[
+"Rio Bravo, Texas",
+"Rio Bravo, TX"
+]
 ],
 [
 "Rice",
-32
+32,
+[
+"Rice, Texas",
+"Rice, TX"
+]
 ],
 [
 "Kingsbury",
-32
+32,
+[
+"Kingsbury, Texas",
+"Kingsbury, TX"
+]
 ],
 [
 "Carmine",
-32
+32,
+[
+"Carmine, Texas",
+"Carmine, TX"
+]
 ],
 [
 "Blossom",
-32
+32,
+[
+"Blossom Prarie",
+"Blossom, Texas",
+"Blossom, TX"
+]
 ],
 [
 "Weir",
-32
+32,
+[
+"Weir, Texas",
+"Weir, TX"
+]
 ],
 [
 "Lipan",
-32
+32,
+[
+"Lipan, Texas",
+"Lipan, TX"
+]
 ],
 [
 "Jewett",
-32
+32,
+[
+"Jewett, Texas",
+"Jewett, TX"
+]
 ],
 [
 "Red Oak",
-32
+32,
+[
+"Red Oak, Texas",
+"Red Oak, TX"
+]
 ],
 [
 "Rio Hondo",
-32
+32,
+[
+"Rio Hondo, Texas",
+"Rio Hondo, TX"
+]
 ],
 [
 "Plum Grove",
-32
+32,
+[
+"Plum Grove, Texas",
+"Plum Grove, TX"
+]
 ],
 [
 "Justin",
-32
+32,
+[
+"Justin, Texas",
+"Justin, TX"
+]
 ],
 [
 "Socorro",
-32
+32,
+[
+"Socorro, Texas",
+"Socorro, TX"
+]
 ],
 [
 "Bertram",
-32
+32,
+[
+"Bertram, Texas",
+"Bertram, TX"
+]
 ],
 [
 "Premont",
-32
+32,
+[
+"Premont, Texas",
+"Premont, TX"
+]
 ],
 [
 "Rio Vista",
-32
+32,
+[
+"Rio Vista, Texas",
+"Rio Vista, TX"
+]
 ],
 [
 "Lakewood Village",
-32
+32,
+[
+"Lakewood Village, Texas",
+"Lakewood Village, TX"
+]
 ],
 [
 "Tom Bean",
-32
+32,
+[
+"Tom Bean, Texas",
+"Tom Bean, TX"
+]
 ],
 [
 "Balmorhea",
-32
+32,
+[
+"Balmorhea, Texas",
+"Balmorhea, TX"
+]
 ],
 [
 "Sealy",
-32
+32,
+[
+"Sealy, Texas",
+"Sealy, TX"
+]
 ],
 [
 "Needville",
-32
+32,
+[
+"Needville, Texas",
+"Needville, TX"
+]
 ],
 [
 "Beasley",
-32
+32,
+[
+"Beasley, Texas",
+"Beasley, TX"
+]
 ],
 [
 "Sour Lake",
-32
+32,
+[
+"Sour Lake, Texas",
+"Sour Lake, TX"
+]
 ],
 [
 "Joshua",
-32
+32,
+[
+"Joshua, Texas",
+"Joshua, TX",
+"Joshua, USA"
+]
 ],
 [
 "De Leon",
-32
+32,
+[
+"De Leon, Texas",
+"De Leon, TX"
+]
 ],
 [
 "Timpson",
-32
+32,
+[
+"Timpson, Texas",
+"Timpson, TX"
+]
 ],
 [
 "Iredell",
-32
+32,
+[
+"Iredell, Texas",
+"Iredell, TX"
+]
 ],
 [
 "Granger",
-32
+32,
+[
+"Granger, Texas",
+"Granger, TX"
+]
 ],
 [
 "Thrall",
-32
+32,
+[
+"Thrall, Texas",
+"Thrall, TX"
+]
 ],
 [
 "Tolar",
-32
+32,
+[
+"Tolar, Texas",
+"Tolar, TX"
+]
 ],
 [
 "Fayetteville",
-32
+32,
+[
+"Fayetteville, Texas",
+"Fayetteville, TX"
+]
 ],
 [
 "Lorena",
-32
+32,
+[
+"Lorena, Texas",
+"Lorena, TX"
+]
 ],
 [
 "Lake Bridgeport",
-32
+32,
+[
+"Lake Bridgeport, Texas",
+"Lake Bridgeport, TX"
+]
 ],
 [
 "Rockdale",
-32
+32,
+[
+"Rockdale, Texas",
+"Rockdale, TX"
+]
 ],
 [
 "Jersey Village",
-32
+32,
+[
+"City of Jersey Village",
+"Jersey Village, Texas",
+"Jersey Village, TX"
+]
 ],
 [
 "Groves",
-32
+32,
+[
+"Groves, Texas",
+"Groves, TX"
+]
 ],
 [
 "Sansom Park",
-32
+32,
+[
+"Sansom Park, Texas",
+"Sansom Park, TX"
+]
 ],
 [
 "Montgomery",
-32
+32,
+[
+"Montgomery, Texas",
+"Montgomery, TX"
+]
 ],
 [
 "Queen City",
-32
+32,
+[
+"Queen City, Texas",
+"Queen City, TX"
+]
 ],
 [
 "Hitchcock",
-32
+32,
+[
+"Hitchcock, Texas",
+"Hitchcock, TX"
+]
 ],
 [
 "Electra",
-32
+32,
+[
+"Electra, Texas",
+"Electra, TX"
+]
 ],
 [
 "Hardin",
-32
+32,
+[
+"Hardin, Texas",
+"Hardin, TX"
+]
 ],
 [
 "Horseshoe Bay",
-32
+32,
+[
+"Horseshoe Bay, Texas",
+"Horseshoe Bay, TX"
+]
 ],
 [
 "Mingus",
-32
+32,
+[
+"Mingus, Texas",
+"Mingus, TX"
+]
 ],
 [
 "Munday",
-32
+32,
+[
+"Munday, Texas",
+"Munday, TX"
+]
 ],
 [
 "Terrell Hills",
-32
+32,
+[
+"Terrell Hills, Texas",
+"Terrell Hills, TX"
+]
 ],
 [
 "Olney",
-32
+32,
+[
+"Olney, Texas",
+"Olney, TX"
+]
 ],
 [
 "Gorman",
-32
+32,
+[
+"Gorman, Texas",
+"Gorman, TX"
+]
 ],
 [
 "Bartlett",
-32
+32,
+[
+"Bartlett, Texas",
+"Bartlett, TX"
+]
 ],
 [
 "Ovilla",
-32
+32,
+[
+"Ovilla, Texas",
+"Ovilla, TX"
+]
 ],
 [
 "Moore Station",
-32
+32,
+[
+"Moore Station, Texas",
+"Moore Station, TX"
+]
 ],
 [
 "Ropesville",
-31
+31,
+[
+"Ropesville, Texas",
+"Ropesville, TX"
+]
 ],
 [
 "Redwater",
-31
+31,
+[
+"Redwater, Texas",
+"Redwater, TX"
+]
 ],
 [
 "Asherton",
-31
+31,
+[
+"Asherton, Texas",
+"Asherton, TX"
+]
 ],
 [
 "Jonestown",
-31
+31,
+[
+"Jonestown, Texas",
+"Jonestown, TX"
+]
 ],
 [
 "Kennard",
-31
+31,
+[
+"Kennard, Texas",
+"Kennard, TX"
+]
 ],
 [
 "La Joya",
-31
+31,
+[
+"La Joya, Texas",
+"La Joya, TX"
+]
 ],
 [
 "Escobares",
-31
+31,
+[
+"Escobares, Texas",
+"Escobares, TX"
+]
 ],
 [
 "Winnsboro",
-31
+31,
+[
+"Winnsboro, Texas",
+"Winnsboro, TX"
+]
 ],
 [
 "Progreso",
-31
+31,
+[
+"Progreso, Texas",
+"Progreso, TX"
+]
 ],
 [
 "Wink",
-31
+31,
+[
+"Wink, Texas",
+"Wink, TX"
+]
 ],
 [
 "Wills Point",
-31
+31,
+[
+"Wills Point, Texas",
+"Wills Point, TX"
+]
 ],
 [
 "Lago Vista",
-31
+31,
+[
+"Lago Vista, Texas",
+"Lago Vista, TX"
+]
 ],
 [
 "Castle Hills",
-31
+31,
+[
+"Castle Hills, Texas",
+"Castle Hills, TX"
+]
 ],
 [
 "Sudan",
-31
+31,
+[
+"Sudan, Texas",
+"Sudan, TX"
+]
 ],
 [
 "Daisetta",
-31
+31,
+[
+"Daisetta, Texas",
+"Daisetta, TX"
+]
 ],
 [
 "Idalou",
-31
+31,
+[
+"Idalou, Texas",
+"Idalou, TX"
+]
 ],
 [
 "Granite Shoals",
-31
+31,
+[
+"Granite Shoals, Texas",
+"Granite Shoals, TX"
+]
 ],
 [
 "La Coste",
-31
+31,
+[
+"La Coste, Texas",
+"LaCoste, Texas",
+"La Coste, TX"
+]
 ],
 [
 "Lindale",
-31
+31,
+[
+"Lindale, Texas"
+]
 ],
 [
 "Creedmoor",
-31
+31,
+[
+"Creedmoor, Texas",
+"Creedmoor, TX"
+]
 ],
 [
 "Odem",
-31
+31,
+[
+"Odem, Texas",
+"Odem, TX"
+]
 ],
 [
 "Bevil Oaks",
-31
+31,
+[
+"Bevil Oaks, Texas",
+"Bevil Oaks, TX"
+]
 ],
 [
 "Elsa",
-31
+31,
+[
+"Elsa, Texas",
+"Elsa, TX"
+]
 ],
 [
 "Patton Village",
-31
+31,
+[
+"Patton Village, Texas",
+"Patton Village, TX"
+]
 ],
 [
 "Dayton Lakes",
-31
+31,
+[
+"Dayton Lakes, Texas",
+"Dayton Lakes, TX"
+]
 ],
 [
 "Benavides",
-31
+31,
+[
+"Benavides, Texas",
+"Benavides, TX"
+]
 ],
 [
 "Mart",
-31
+31,
+[
+"Mart, Texas",
+"Mart, TX"
+]
 ],
 [
 "Crandall",
-31
+31,
+[
+"Crandall, Texas",
+"Crandall, TX"
+]
 ],
 [
 "Freer",
-31
+31,
+[
+"Freer, Texas",
+"Freer, TX"
+]
 ],
 [
 "Graford",
-31
+31,
+[
+"Graford, Texas",
+"Graford, TX"
+]
 ],
 [
 "Bangs",
-31
+31,
+[
+"Bangs, Texas",
+"Bangs, TX"
+]
 ],
 [
 "Maud",
-31
+31,
+[
+"Maud, Texas",
+"Maud, TX"
+]
 ],
 [
 "Driscoll",
-31
+31,
+[
+"Driscoll, Texas",
+"Driscoll, TX"
+]
 ],
 [
 "Pattison",
-31
+31,
+[
+"Pattison, Texas",
+"Pattison, TX"
+]
 ],
 [
 "Nazareth",
-31
+31,
+[
+"Nazareth, Texas",
+"Nazareth, TX"
+]
 ],
 [
 "Nome",
-31
+31,
+[
+"Nome, Texas",
+"Nome, TX"
+]
 ],
 [
 "Elmendorf",
-31
+31,
+[
+"Elmendorf, Texas",
+"Elmendorf, TX"
+]
 ],
 [
 "Martindale",
-31
+31,
+[
+"Martindale, Texas",
+"Martindale, TX"
+]
 ],
 [
 "Smiley",
-31
+31,
+[
+"Smiley, Texas",
+"Smiley, TX"
+]
 ],
 [
 "Mount Calm",
-31
+31,
+[
+"Mount Calm, Texas",
+"Mount Calm, TX"
+]
 ],
 [
 "Westworth Village",
-31
+31,
+[
+"Westworth, Texas",
+"Westworth Village, Texas",
+"Westworth Village, TX"
+]
 ],
 [
 "Beverly Hills",
-31
+31,
+[
+"Beverly Hills, Texas",
+"Beverly Hills, TX"
+]
 ],
 [
 "Scotland",
-31
+31,
+[
+"Scotland, Texas",
+"Scotland, TX"
+]
 ],
 [
 "Runaway Bay",
-31
+31,
+[
+"Runaway Bay, Texas",
+"Runaway Bay, TX"
+]
 ],
 [
 "Lakeport",
-31
+31,
+[
+"Lakeport, Texas",
+"Lakeport, TX"
+]
 ],
 [
 "Iraan",
-31
+31,
+[
+"Iraan, Texas",
+"Iraan, TX"
+]
 ],
 [
 "Pineland",
-31
+31,
+[
+"Pineland, Texas",
+"Pineland, TX"
+]
 ],
 [
 "Winfield",
-31
+31,
+[
+"Winfield, Texas",
+"Winfield, TX"
+]
 ],
 [
 "Peñitas",
-31
+31,
+[
+"Penitas",
+"Peñitas, Texas",
+"Peñitas, TX"
+]
 ],
 [
 "Hedley",
-31
+31,
+[
+"Hedley, Texas",
+"Hedley, TX"
+]
 ],
 [
 "Mount Enterprise",
-31
+31,
+[
+"Mount Enterprise, Texas",
+"Mount Enterprise, TX"
+]
 ],
 [
 "San Patricio",
-31
+31,
+[
+"San Patricio, Texas",
+"San Patricio, TX"
+]
 ],
 [
 "La Vernia",
-31
+31,
+[
+"La Vernia, Texas",
+"La Vernia, TX"
+]
 ],
 [
 "Grand Saline",
-31
+31,
+[
+"Grand Saline, Texas",
+"Grand Saline, TX"
+]
 ],
 [
 "Stockdale",
-31
+31,
+[
+"Stockdale, Texas",
+"Stockdale, TX"
+]
 ],
 [
 "Falls City",
-31
+31,
+[
+"Falls City, Texas",
+"Falls City, TX"
+]
 ],
 [
 "Grey Forest",
-31
+31,
+[
+"Grey Forest, Texas",
+"Grey Forest, TX"
+]
 ],
 [
 "Gunter",
-31
+31,
+[
+"Gunter, Texas",
+"Gunter, TX"
+]
 ],
 [
 "Ector",
-31
+31,
+[
+"Ector, Texas",
+"Ector, TX"
+]
 ],
 [
 "Campbell",
-31
+31,
+[
+"Campbell, Texas",
+"Campbell, TX"
+]
 ],
 [
 "Lott",
-31
+31,
+[
+"Lott, Texas",
+"Lott, TX"
+]
 ],
 [
 "Shallowater",
-31
+31,
+[
+"Shallowater, Texas",
+"Shallowater, TX"
+]
 ],
 [
 "Richwood",
-31
+31,
+[
+"Richwood, Texas",
+"Richwood, TX"
+]
 ],
 [
 "Petrolia",
-31
+31,
+[
+"Petrolia, Texas",
+"Petrolia, TX"
+]
 ],
 [
 "Golinda",
-31
+31,
+[
+"Golinda, Texas",
+"Golinda, TX"
+]
 ],
 [
 "Naples",
-31
+31,
+[
+"Naples, Texas",
+"Naples, TX",
+"TX"
+]
 ],
 [
 "De Kalb",
-31
+31,
+[
+"De Kalb, Texas",
+"DeKalb, TX"
+]
 ],
 [
 "Barstow",
-31
+31,
+[
+"Barstow, Texas",
+"Barstow, TX"
+]
 ],
 [
 "Aquilla",
-31
+31,
+[
+"Aquilla, Texas",
+"Aquilla, TX"
+]
 ],
 [
 "Woodbranch",
-31
+31,
+[
+"Woodbranch, Texas",
+"Woodbranch, TX"
+]
 ],
 [
 "Goodlow",
-31
+31,
+[
+"Goodlow Park, Texas",
+"Goodlow, Texas",
+"Goodlow, TX"
+]
 ],
 [
 "Lytle",
-31
+31,
+[
+"Lytle, Texas",
+"Lytle, TX"
+]
 ],
 [
 "Liberty Hill",
-31
+31,
+[
+"Liberty Hill, Texas",
+"Liberty Hill, TX"
+]
 ],
 [
 "Marion",
-31
+31,
+[
+"Marion, Texas",
+"Marion, TX"
+]
 ],
 [
 "Novice",
-31
+31,
+[
+"Novice, Texas",
+"Novice, TX"
+]
 ],
 [
 "Oak Ridge North",
-31
+31,
+[
+"Oak Ridge",
+"Oak Ridge North, Texas",
+"Oak Ridge North, TX"
+]
 ],
 [
 "Cranfills Gap",
-31
+31,
+[
+"Cranfills Gap, Texas",
+"Cranfills Gap, TX"
+]
 ],
 [
 "Ross",
-31
+31,
+[
+"Ross, Texas",
+"Ross, TX"
+]
 ],
 [
 "New Summerfield",
-31
+31,
+[
+"New Summerfield, Texas",
+"New Summerfield, TX"
+]
 ],
 [
 "Nash",
-31
+31,
+[
+"Nash, Texas",
+"Nash, TX"
+]
 ],
 [
 "North Cleveland",
-31
+31,
+[
+"North Cleveland, Texas",
+"North Cleveland, TX"
+]
 ],
 [
 "Newcastle",
-31
+31,
+[
+"Newcastle, Texas",
+"Newcastle, TX"
+]
 ],
 [
 "Horizon City",
-31
+31,
+[
+"Horizon City, Texas",
+"Horizon City, TX"
+]
 ],
 [
 "Simonton",
-31
+31,
+[
+"Simonton, Texas",
+"Simonton, TX"
+]
 ],
 [
 "Gregory",
-31
+31,
+[
+"Gregory, Texas",
+"Gregory, TX"
+]
 ],
 [
 "Lone Star",
-31
+31,
+[
+"Lone Star, Texas",
+"Lone Star, TX"
+]
 ],
 [
 "Van",
-31
+31,
+[
+"Van, Texas",
+"Van, TX",
+"Van, USA"
+]
 ],
 [
 "Detroit",
-31
+31,
+[
+"Detroit, Texas",
+"Detroit, TX"
+]
 ],
 [
 "Waelder",
-31
+31,
+[
+"Waelder, Texas",
+"Waelder, TX"
+]
 ],
 [
 "Willis",
-31
+31,
+[
+"Willis, Texas",
+"Willis, TX"
+]
 ],
 [
 "Hamlin",
-31
+31,
+[
+"Hamlin, Texas",
+"Hamlin, TX"
+]
 ],
 [
 "Hubbard",
-31
+31,
+[
+"Hubbard, Texas",
+"Hubbard, TX"
+]
 ],
 [
 "Gallatin",
-31
+31,
+[
+"Gallatin, Texas",
+"Gallatin, TX"
+]
 ],
 [
 "Hunters Creek Village",
-31
+31,
+[
+"Hunters Creek Village, Texas",
+"Hunters Creek Village, TX"
+]
 ],
 [
 "Kendleton",
-31
+31,
+[
+"Kendleton, Texas",
+"Kendleton, TX"
+]
 ],
 [
 "New Berlin",
-31
+31,
+[
+"New Berlin, Texas",
+"New Berlin, TX"
+]
 ],
 [
 "Warren City",
-31
+31,
+[
+"Warren City, Texas",
+"Warren City, TX"
+]
 ],
 [
 "Noonday",
-31
+31,
+[
+"Noonday, Texas",
+"Noonday, TX"
+]
 ],
 [
 "Progreso Lakes",
-31
+31,
+[
+"Progreso Lakes, Texas",
+"Progreso Lakes, TX"
+]
 ],
 [
 "Old River-Winfree",
-31
+31,
+[
+"Old River-Winfree, Texas",
+"Old River-Winfree, TX"
+]
 ],
 [
 "Trinidad",
-31
+31,
+[
+"Trinidad, Texas",
+"Trinidad, TX"
+]
 ],
 [
 "Orchard",
-31
+31,
+[
+"Orchard, Texas",
+"Orchard, TX"
+]
 ],
 [
 "Dean",
-31
+31,
+[
+"Dean, Texas",
+"Dean, TX",
+"n Dean, Texas"
+]
 ],
 [
 "Joaquin",
-31
+31,
+[
+"Joaquin, Texas",
+"Joaquin, TX"
+]
 ],
 [
 "Piney Point Village",
-31
+31,
+[
+"Piney Point Village, Texas",
+"Piney Point Village, TX"
+]
 ],
 [
 "Wallis",
-31
+31,
+[
+"Wallis, Texas",
+"Wallis, TX"
+]
 ],
 [
 "Cottonwood Shores",
-31
+31,
+[
+"Cottonwood Shores, Texas",
+"Cottonwood Shores, TX"
+]
 ],
 [
 "Pecan Hill",
-31
+31,
+[
+"Pecan Hill, Texas",
+"Pecan Hill, TX"
+]
 ],
 [
 "Manvel",
-31
+31,
+[
+"Manvel, Texas",
+"Manvel, TX"
+]
 ],
 [
 "Paradise",
-31
+31,
+[
+"Paradise, Texas",
+"Paradise, TX"
+]
 ],
 [
 "Devine",
-31
+31,
+[
+"Devine, Texas",
+"Devine, TX"
+]
 ],
 [
 "Bovina",
-31
+31,
+[
+"Bovina, Texas",
+"Bovina, TX"
+]
 ],
 [
 "Rising Star",
-31
+31,
+[
+"Rising Star, Texas",
+"Rising Star, TX"
+]
 ],
 [
 "Omaha",
-31
+31,
+[
+"Omaha, Texas",
+"Omaha, TX"
+]
 ],
 [
 "West Lake Hills",
-31
+31,
+[
+"West Lake Hills, Texas",
+"West Lake Hills, TX"
+]
 ],
 [
 "Roxton",
-31
+31,
+[
+"Roxton, Texas",
+"Roxton, TX"
+]
 ],
 [
 "Walnut Springs",
-31
+31,
+[
+"Walnut Springs, Texas",
+"Walnut Springs, TX"
+]
 ],
 [
 "Godley",
-31
+31,
+[
+"Godley, Texas",
+"Godley, TX"
+]
 ],
 [
 "Seven Points",
-31
+31,
+[
+"Seven Points, Texas",
+"Seven Points, TX"
+]
 ],
 [
 "Point",
-31
+31,
+[
+"Point, Texas",
+"Point, TX"
+]
 ],
 [
 "McCamey",
-31
+31,
+[
+"McCamey, Texas",
+"McCamey, TX"
+]
 ],
 [
 "Marquez",
-31
+31,
+[
+"Marquez, Texas",
+"Marquez, TX"
+]
 ],
 [
 "Nixon",
-31
+31,
+[
+"Nixon, Texas",
+"Nixon, TX"
+]
 ],
 [
 "Pine Forest",
-31
+31,
+[
+"Pine Forest, Texas",
+"Pine Forest, TX"
+]
 ],
 [
 "Hughes Springs",
-31
+31,
+[
+"Hughes Springs, Texas",
+"Hughes Springs, TX",
+"TX"
+]
 ],
 [
 "Shavano Park",
-31
+31,
+[
+"Shavano Park, Texas",
+"Shavano Park, TX"
+]
 ],
 [
 "Ralls",
-31
+31,
+[
+"Ralls, Texas",
+"Ralls, TX"
+]
 ],
 [
 "Milano",
-31
+31,
+[
+"Milano, Texas",
+"Milano, TX"
+]
 ],
 [
 "Petronila",
-31
+31,
+[
+"Petronila, Texas",
+"Petronila, TX"
+]
 ],
 [
 "Earth",
-31
+31,
+[
+"Earth, Texas",
+"Earth, TX"
+]
 ],
 [
 "Ganado",
-31
+31,
+[
+"Ganado, Texas",
+"Ganado, TX"
+]
 ],
 [
 "Tatum",
-31
+31,
+[
+"Tatum, Texas",
+"Tatum, TX"
+]
 ],
 [
 "Brownsboro",
-31
+31,
+[
+"Brownsboro, Texas",
+"Brownsboro, TX"
+]
 ],
 [
 "Lacy Lakeview",
-31
+31,
+[
+"Lacy Lakeview, Texas",
+"Lacy Lakeview, TX"
+]
 ],
 [
 "Hooks",
-31
+31,
+[
+"Hooks, Texas",
+"Hooks, TX"
+]
 ],
 [
 "Westlake",
-31
+31,
+[
+"Westlake, Texas",
+"Westlake, TX"
+]
 ],
 [
 "Hawkins",
-31
+31,
+[
+"Hawkins, Texas",
+"Hawkins, TX"
+]
 ],
 [
 "Cottonwood",
-30
+30,
+[
+"Cottonwood, Kaufman County",
+"Cottonwood, Kaufman County, Texas",
+"Cottonwood, TX"
+]
 ],
 [
 "Holliday",
-30
+30,
+[
+"Holliday, Texas",
+"Holliday, TX"
+]
 ],
 [
 "Callisburg",
-30
+30,
+[
+"Callisburg, Texas",
+"Callisburg, TX"
+]
 ],
 [
 "Toco",
-30
+30,
+[
+"Toco, Texas",
+"Toco, TX"
+]
 ],
 [
 "Highland Haven",
-30
+30,
+[
+"Highland Haven, Texas",
+"Highland Haven, TX"
+]
 ],
 [
 "Deport",
-30
+30,
+[
+"Deport, Texas",
+"Deport, TX"
+]
 ],
 [
 "Talco",
-30
+30,
+[
+"Talco, Texas",
+"Talco, TX"
+]
 ],
 [
 "Los Ybanez",
-30
+30,
+[
+"Los Ybanez, Texas",
+"Los Ybanez, TX"
+]
 ],
 [
 "Edom",
-30
+30,
+[
+"Edom, Texas",
+"Edom, TX"
+]
 ],
 [
 "Cumby",
-30
+30,
+[
+"Cumby, Texas",
+"Cumby, TX"
+]
 ],
 [
 "Kress",
-30
+30,
+[
+"Kress, Texas",
+"Kress, TX"
+]
 ],
 [
 "Tye",
-30
+30,
+[
+"Tye, Texas",
+"Tye, TX"
+]
 ],
 [
 "Leona",
-30
+30,
+[
+"Leona, Texas",
+"Leona, TX"
+]
 ],
 [
 "El Cenizo",
-30
+30,
+[
+"El Cenizo, Texas",
+"El Cenizo, TX"
+]
 ],
 [
 "Gholson",
-30
+30,
+[
+"Gholson, Texas",
+"Gholson, TX"
+]
 ],
 [
 "Goree",
-30
+30,
+[
+"Goree, Texas",
+"Goree, TX"
+]
 ],
 [
 "New Chapel Hill",
-30
+30,
+[
+"New Chapel Hill, Texas",
+"New Chapel Hill, TX"
+]
 ],
 [
 "Shepherd",
-30
+30,
+[
+"Shepherd, Texas",
+"Shepherd, TX"
+]
 ],
 [
 "Oyster Creek",
-30
+30,
+[
+"Oyster Creek, Texas",
+"Oyster Creek, TX"
+]
 ],
 [
 "East Mountain",
-30
+30,
+[
+"East Mountain, Texas",
+"East Mountain, TX"
+]
 ],
 [
 "Dilley",
-30
+30,
+[
+"Dilley, Texas",
+"Dilley, TX"
+]
 ],
 [
 "Bellevue",
-30
+30,
+[
+"Bellevue, Texas",
+"Bellevue, TX"
+]
 ],
 [
 "Poteet",
-30
+30,
+[
+"Poteet, Texas",
+"Poteet, TX"
+]
 ],
 [
 "Easton",
-30
+30,
+[
+"Easton, Texas",
+"Easton, TX"
+]
 ],
 [
 "Mountain City",
-30
+30,
+[
+"Mountain City, Texas",
+"Mountain City, TX"
+]
 ],
 [
 "Santa Clara",
-30
+30,
+[
+"Santa Clara, Texas",
+"Santa Clara, TX"
+]
 ],
 [
 "Palmview",
-30
+30,
+[
+"Palmview, Texas",
+"Palmview, TX"
+]
 ],
 [
 "Hawley",
-30
+30,
+[
+"Hawley, Texas",
+"Hawley, TX"
+]
 ],
 [
 "Lovelady",
-30
+30,
+[
+"Lovelady, Texas",
+"Lovelady, TX"
+]
 ],
 [
 "Sunrise Beach Village",
-30
+30,
+[
+"Sunrise Beach Village, Texas",
+"Sunrise Beach Village, TX"
+]
 ],
 [
 "San Perlita",
-30
+30,
+[
+"San Perlita, Texas",
+"San Perlita, TX"
+]
 ],
 [
 "Browndell",
-30
+30,
+[
+"Browndell, Texas",
+"Browndell, TX"
+]
 ],
 [
 "Balcones Heights",
-30
+30,
+[
+"Balcones Heights, Texas",
+"Balcones Heights, TX"
+]
 ],
 [
 "Lometa",
-30
+30,
+[
+"Lometa, Texas",
+"Lometa, TX"
+]
 ],
 [
 "Dalworthington Gardens",
-30
+30,
+[
+"Dalworthington Gardens, Texas",
+"Dalworthington Gardens, TX"
+]
 ],
 [
 "Tool",
-30
+30,
+[
+"Tool, Texas",
+"Tool, TX"
+]
 ],
 [
 "Tuscola",
-30
+30,
+[
+"Tuscola, Texas",
+"Tuscola, TX"
+]
 ],
 [
 "Texhoma",
-30
+30,
+[
+"Texhoma, Texas",
+"Texhoma, TX"
+]
 ],
 [
 "Mustang Ridge",
-30
+30,
+[
+"Mustang Ridge, Texas",
+"Mustang Ridge, TX"
+]
 ],
 [
 "Olmos Park",
-30
+30,
+[
+"Olmos Park, Texas",
+"Olmos Park, TX"
+]
 ],
 [
 "O'Brien",
-30
+30,
+[
+"O'Brien, Texas",
+"O'Brien, TX"
+]
 ],
 [
 "Seven Oaks",
-30
+30,
+[
+"Seven Oaks, Texas",
+"Seven Oaks, TX"
+]
 ],
 [
 "Sunset Valley",
-30
+30,
+[
+"Sunset Valley, Texas",
+"Sunset Valley, TX"
+]
 ],
 [
 "Snook",
-30
+30,
+[
+"Snook, Texas",
+"Snook, TX"
+]
 ],
 [
 "Jolly",
-30
+30,
+[
+"Jolly, Texas",
+"Jolly, TX"
+]
 ],
 [
 "La Villa",
-30
+30,
+[
+"La Villa, Texas",
+"La Villa, TX"
+]
 ],
 [
 "Sundown",
-30
+30,
+[
+"Sundown, Texas",
+"Sundown, TX"
+]
 ],
 [
 "Wellman",
-30
+30,
+[
+"Wellman, Texas",
+"Wellman, TX"
+]
 ],
 [
 "Covington",
-30
+30,
+[
+"Covington, Texas",
+"Covington, TX"
+]
 ],
 [
 "Lyford",
-30
+30,
+[
+"Lyford, Texas",
+"Lyford, TX"
+]
 ],
 [
 "Beckville",
-30
+30,
+[
+"Beckville, Texas",
+"Beckville, TX"
+]
 ],
 [
 "Union Grove",
-30
+30,
+[
+"Union Grove, Texas",
+"Union Grove, TX"
+]
 ],
 [
 "Westbrook",
-30
+30,
+[
+"Westbrook, Texas",
+"Westbrook, TX"
+]
 ],
 [
 "Friona",
-30
+30,
+[
+"Friona, Texas",
+"Friona, TX"
+]
 ],
 [
 "Dorchester",
-30
+30,
+[
+"Dorchester, Texas",
+"Dorchester, TX"
+]
 ],
 [
 "Yoakum",
-30
+30,
+[
+"Yoakum, Texas",
+"Yoakum, TX"
+]
 ],
 [
 "Fair Oaks Ranch",
-30
+30,
+[
+"Fair Oaks Ranch, Texas",
+"Fair Oaks Ranch, TX"
+]
 ],
 [
 "Howardwick",
-30
+30,
+[
+"Howardwick, Texas",
+"Howardwick, TX"
+]
 ],
 [
 "Sullivan City",
-30
+30,
+[
+"Sullivan City, Texas",
+"Sullivan City, TX"
+]
 ],
 [
 "Wimberley",
-30
+30,
+[
+"Wimberley, Texas",
+"Wimberley, TX"
+]
 ],
 [
 "Wake Village",
-30
+30,
+[
+"Wake Village, Texas",
+"Wake Village, TX"
+]
 ],
 [
 "Kempner",
-30
+30,
+[
+"Kempner, Texas",
+"Kempner, TX"
+]
 ],
 [
 "Oglesby",
-30
+30,
+[
+"Oglesby, Texas",
+"Oglesby, TX"
+]
 ],
 [
 "Encinal",
-30
+30,
+[
+"Encinal, Texas",
+"Encinal, TX",
+"TX"
+]
 ],
 [
 "La Ward",
-30
+30,
+[
+"La Ward, Texas",
+"La Ward, TX"
+]
 ],
 [
 "Weinert",
-30
+30,
+[
+"Weinert, Texas",
+"Weinert, TX"
+]
 ],
 [
 "Rollingwood",
-30
+30,
+[
+"Rollingwood, Texas",
+"Rollingwood, TX"
+]
 ],
 [
 "Hallsburg",
-30
+30,
+[
+"Hallsburg, Texas",
+"Hallsburg, TX"
+]
 ],
 [
 "Oak Leaf",
-30
+30,
+[
+"Oak Leaf, Texas",
+"Oak Leaf, TX"
+]
 ],
 [
 "Panorama Village",
-30
+30,
+[
+"Panorama Village, Texas",
+"Panorama Village, TX"
+]
 ],
 [
 "Seadrift",
-30
+30,
+[
+"Seadrift, Texas",
+"Seadrift, TX"
+]
 ],
 [
 "Red Lick",
-30
+30,
+[
+"Red Lick, Texas",
+"Red Lick, TX"
+]
 ],
 [
 "Lueders",
-30
+30,
+[
+"Lueders, Texas",
+"Lueders, TX"
+]
 ],
 [
 "Meadows Place",
-30
+30,
+[
+"Meadows Place, Texas",
+"Meadows Place, TX"
+]
 ],
 [
 "Midway",
-30
+30,
+[
+"Midway, Texas",
+"Midway, TX"
+]
 ],
 [
 "Palmhurst",
-30
+30,
+[
+"Palmhurst, Texas",
+"Palmhurst, TX"
+]
 ],
 [
 "Leroy",
-30
+30,
+[
+"Leroy, Texas",
+"Leroy, TX"
+]
 ],
 [
 "Heath",
-30
+30,
+[
+"Heath, Texas",
+"Heath, TX",
+"Heath, USA"
+]
 ],
 [
 "Roscoe",
-30
+30,
+[
+"Roscoe, Texas",
+"Roscoe, TX"
+]
 ],
 [
 "Log Cabin",
-30
+30,
+[
+"Log Cabin, Texas",
+"Log Cabin, TX"
+]
 ],
 [
 "Nordheim",
-30
+30,
+[
+"Nordheim, Texas",
+"Nordheim, TX"
+]
 ],
 [
 "Leary",
-30
+30,
+[
+"Leary, Texas",
+"Leary, TX"
+]
 ],
 [
 "Granjeno",
-30
+30,
+[
+"Granjeno, Texas",
+"Granjeno, TX"
+]
 ],
 [
 "Colmesneil",
-30
+30,
+[
+"Colmesneil, Texas",
+"Colmesneil, TX"
+]
 ],
 [
 "Riverside",
-30
+30,
+[
+"Riverside, Texas",
+"Riverside, TX"
+]
 ],
 [
 "Rhome",
-30
+30,
+[
+"Rhome, Texas",
+"Rhome, TX"
+]
 ],
 [
 "Cactus",
-30
+30,
+[
+"Cactus, Texas",
+"Cactus, TX"
+]
 ],
 [
 "Angus",
-30
+30,
+[
+"Angus, Texas",
+"Angus, TX"
+]
 ],
 [
 "Briaroaks",
-30
+30,
+[
+"Briaroaks, Texas",
+"Briaroaks, TX"
+]
 ],
 [
 "Edcouch",
-30
+30,
+[
+"Edcouch, Texas",
+"Edcouch, TX"
+]
 ],
 [
 "Talty",
-30
+30,
+[
+"Talty, Texas",
+"Talty, TX"
+]
 ],
 [
 "Huxley",
-30
+30,
+[
+"Huxley, Texas",
+"Huxley, TX"
+]
 ],
 [
 "Murchison",
-30
+30,
+[
+"Murchison, Texas",
+"Murchison, TX"
+]
 ],
 [
 "Goldsmith",
-30
+30,
+[
+"Goldsmith, Texas",
+"Goldsmith, TX"
+]
 ],
 [
 "Hays",
-30
+30,
+[
+"Hays, Texas",
+"Hays, TX"
+]
 ],
 [
 "Star Harbor",
-30
+30,
+[
+"Star Harbor, Texas",
+"Star Harbor, TX"
+]
 ],
 [
 "Point Comfort",
-30
+30,
+[
+"Point Comfort, Texas",
+"Point Comfort, TX"
+]
 ],
 [
 "Wilson",
-30
+30,
+[
+"Wilson, Texas",
+"Wilson, TX"
+]
 ],
 [
 "New Fairview",
-30
+30,
+[
+"New Fairview, Texas",
+"New Fairview, TX"
+]
 ],
 [
 "Eustace",
-30
+30,
+[
+"Eustace, Texas",
+"Eustace, TX"
+]
 ],
 [
 "Goodrich",
-30
+30,
+[
+"Goodrich, Texas",
+"Goodrich, TX"
+]
 ],
 [
 "Sunray",
-30
+30,
+[
+"Sunray, Texas",
+"Sunray, TX"
+]
 ],
 [
 "New Waverly",
-29
+29,
+[
+"New Waverly, Texas",
+"New Waverly, TX"
+]
 ],
 [
 "Follett",
-29
+29,
+[
+"Follett, Texas",
+"Follett, TX"
+]
 ],
 [
 "Lavon",
-29
+29,
+[
+"Lavon, Texas",
+"Lavon, TX"
+]
 ],
 [
 "Rose Hill Acres",
-29
+29,
+[
+"Rose Hill Acres, Texas",
+"Rose Hill Acres, TX"
+]
 ],
 [
 "Kemp",
-29
+29,
+[
+"Kemp, Texas",
+"Kemp, TX"
+]
 ],
 [
 "Meadowlakes",
-29
+29,
+[
+"Meadowlakes, Texas",
+"Meadowlakes, TX"
+]
 ],
 [
 "O'Donnell",
-29
+29,
+[
+"O'Donnell, Texas",
+"O'Donnell, TX"
+]
 ],
 [
 "Point Blank",
-29
+29,
+[
+"Pointblank",
+"Point Blank, Texas",
+"Point Blank, TX"
+]
 ],
 [
 "Seagraves",
-29
+29,
+[
+"Seagraves, Texas",
+"Seagraves, TX"
+]
 ],
 [
 "East Bernard",
-29
+29,
+[
+"East Bernard, Texas",
+"East Bernard, TX"
+]
 ],
 [
 "La Grulla",
-29
+29,
+[
+"La Grulla, Texas",
+"La Grulla, TX"
+]
 ],
 [
 "Morgan's Point Resort",
-29
+29,
+[
+"Morgans Point Resort",
+"Morgan's Point Resort City",
+"Morgan's Point Resort, Texas",
+"Morgan's Point Resort, TX"
+]
 ],
 [
 "Moran",
-29
+29,
+[
+"Moran, Texas",
+"Moran, TX"
+]
 ],
 [
 "Big Wells",
-29
+29,
+[
+"Big Wells, Texas",
+"Big Wells, TX"
+]
 ],
 [
 "Orange Grove",
-29
+29,
+[
+"Orange Grove, Texas",
+"Orange Grove, TX"
+]
 ],
 [
 "Ore City",
-29
+29,
+[
+"Ore City, Texas",
+"Ore City, TX"
+]
 ],
 [
 "Winona",
-29
+29,
+[
+"Winona, Texas"
+]
 ],
 [
 "Kenedy",
-29
+29,
+[
+"Kenedy, Texas",
+"Kenedy, TX"
+]
 ],
 [
 "Higgins",
-29
+29,
+[
+"Higgins, Texas",
+"Higgins, TX"
+]
 ],
 [
 "Mobeetie",
-29
+29,
+[
+"Mobeetie, Texas",
+"Mobeetie, TX"
+]
 ],
 [
 "Latexo",
-29
+29,
+[
+"Latexo, Texas",
+"Latexo, TX"
+]
 ],
 [
 "Clarksville City",
-29
+29,
+[
+"Clarksville City, Texas",
+"Clarksville City, TX"
+]
 ],
 [
 "Todd Mission",
-29
+29,
+[
+"Todd Mission, Texas",
+"Todd Mission, TX"
+]
 ],
 [
 "Gun Barrel City",
-29
+29,
+[
+"Gun Barrel City, Texas",
+"Gun Barrel City, TX"
+]
 ],
 [
 "Gruver",
-29
+29,
+[
+"Gruver, Texas",
+"Gruver, TX"
+]
 ],
 [
 "Forsan",
-29
+29,
+[
+"Forsan, Texas",
+"Forsan, TX"
+]
 ],
 [
 "Petersburg",
-29
+29,
+[
+"Petersburg, Texas",
+"Petersburg, TX"
+]
 ],
 [
 "Splendora",
-29
+29,
+[
+"Splendora, Texas",
+"Splendora, TX"
+]
 ],
 [
 "Jarrell",
-28
+28,
+[
+"Jarrell, Texas",
+"Jarrell, TX"
+]
 ],
 [
 "Agua Dulce",
-28
+28,
+[
+"Agua Dulce, Nueces County",
+"Agua Dulce, Nueces County, Texas",
+"Agua Dulce, TX"
+]
 ],
 [
 "Roman Forest",
-28
+28,
+[
+"Roman Forest, Texas",
+"Roman Forest, TX"
+]
 ],
 [
 "Olton",
-28
+28,
+[
+"Olton, Texas",
+"Olton, TX"
+]
 ],
 [
 "Sun Valley",
-28
+28,
+[
+"Sun Valley, Texas",
+"Sun Valley, TX"
+]
 ],
 [
 "San Elizario",
-28
+28,
+[
+"San Elizario, Texas",
+"San Elizario, TX"
+]
 ],
 [
 "Spofford",
-28
+28,
+[
+"Spofford, Texas",
+"Spofford, TX"
+]
 ],
 [
 "Eureka",
-28
+28,
+[
+"Eureka, Navarro County, Texas",
+"Eureka, TX"
+]
 ],
 [
 "Von Ormy",
-28
+28,
+[
+"Von Ormy, Texas",
+"Von Ormy, TX"
+]
 ],
 [
 "New Home",
-28
+28,
+[
+"New Home, Texas",
+"New Home, TX"
+]
 ],
 [
 "St. Jo",
-28
+28,
+[
+"Saint Jo, Texas",
+"St. Jo, Texas",
+"St. Jo, TX"
+]
 ],
 [
 "Little River-Academy",
-28
+28,
+[
+"Little River-Academy, Texas",
+"Little River-Academy, TX"
+]
 ],
 [
 "Stowell",
-28
+28,
+[
+"Stowell, Texas",
+"Stowell, TX"
+]
 ],
 [
 "Niederwald",
-27
+27,
+[
+"Niederwald, Texas",
+"Niederwald, TX"
+]
 ],
 [
 "Knollwood",
-27
+27,
+[
+"Knollwood, Texas",
+"Knollwood, TX"
+]
 ],
 [
 "Reno",
-25
+25,
+[
+"Reno, Lamar County",
+"Reno, Lamar County, Texas",
+"Reno, Parker County",
+"Reno, Parker County, Texas",
+"Reno, TX",
+"Reno, Texas"
+]
 ],
 [
 "Bedias",
-25
+25,
+[
+"Bedias, Texas",
+"Bedias, TX"
+]
 ],
 [
 "Staples",
-25
+25,
+[
+"Staples, Texas",
+"Staples, TX"
+]
 ],
 [
 "Cashion Community",
-25
+25,
+[
+"Cashion Community, Texas",
+"Cashion Community, TX"
+]
 ],
 [
 "Union Valley",
-25
+25,
+[
+"Union Valley, Texas",
+"Union Valley, TX"
+]
 ],
 [
 "Iola",
-24
+24,
+[
+"Iola, Texas",
+"Iola, TX"
+]
 ],
 [
 "Stockton Bend",
-24
+24,
+[
+"Brazos Bend",
+"Brazos Bend, Texas",
+"Brazos Bend, TX",
+"Stockton Bend, Texas",
+"Stockton Bend, TX"
+]
 ],
 [
 "Cresson",
-24
+24,
+[
+"Cresson, Texas",
+"Cresson, TX"
+]
 ],
 [
 "Taylor Landing",
-23
+23,
+[
+"Taylor Landing, Texas",
+"Taylor Landing, TX"
+]
 ],
 [
 "Hideaway",
-23
+23,
+[
+"Hideaway, Texas",
+"Hideaway, TX"
+]
 ],
 [
 "Weston Lakes",
-23
+23,
+[
+"Weston Lakes, Texas",
+"Weston Lakes, TX"
+]
 ],
 [
 "DeCordova",
-23
+23,
+[
+"DeCordova, Texas",
+"DeCordova, TX"
+]
 ],
 [
 "Iowa Colony",
-22
+22,
+[
+"Iowa Colony, Texas",
+"Iowa Colony, TX"
+]
 ],
 [
 "Brazos Country",
-22
+22,
+[
+"Brazos Country, Texas",
+"Brazos Country, TX"
+]
 ],
 [
 "Lindsay",
-22
+22,
+[
+"Lindsay, Texas",
+"Lindsay, TX"
+]
 ],
 [
 "Coyote Flats",
-20
+20,
+[
+"Coyote Flats, Texas",
+"Coyote Flats, TX"
+]
 ],
 [
 "Ivanhoe",
-17
+17,
+[
+"Ivanhoe, TX",
+"Ivanhoe, Tyler County, Texas"
+]
 ],
 [
 "Pinehurst",
-16
+16,
+[
+"Pinehurst, Orange County",
+"Pinehurst, Orange County, Texas",
+"Pinehurst, TX"
+]
 ],
 [
 "Starbase",
-15
+15,
+[
+"Boca Chica Village",
+"Boca Chica Village, Texas",
+"Boca Chica Village, TX",
+"City of Starbase",
+"Kennedy Shores",
+"Kopernik Shores",
+"Starbase, Texas",
+"Starbase, TX"
+]
 ],
 [
 "Sandy Point",
-12
+12,
+[
+"Sandy Point, Texas",
+"Sandy Point, TX"
+]
 ],
 [
 "Coupland",
-11
+11,
+[
+"Coupland, Texas",
+"Coupland, TX"
+]
 ],
 [
 "Plantersville",
-10
+10,
+[
+"Plantersville, Texas",
+"Plantersville, TX"
+]
 ],
 [
 "Spring Branch",
-10
+10,
+[
+"Spring Branch, Comal County, Texas",
+"Spring Branch, Texas",
+"Spring Branch, TX"
+]
 ],
 [
 "Ivanhoe North",
-9
+9,
+[
+"Ivanhoe North, TX"
+]
 ],
 [
 "Sandy Oaks",
-8
+8,
+[
+"Sandy Oaks, Texas",
+"Sandy Oaks, TX"
+]
 ],
 [
 "Ellinger",
-8
+8,
+[
+"Ellinger, Texas",
+"Ellinger, TX"
+]
 ],
 [
 "South Frydek",
-6
+6,
+[
+"South Frydek, Texas, TX"
+]
+],
+[
+"Adelphi",
+1,
+[
+"Adelphi, Texas",
+"Adelphi, TX"
+]
 ]
 ]

@@ -1,78 +1,193 @@
 [
 [
 "taco",
-73
+73,
+[
+"chicken tacos",
+"fish tacos",
+"ground beef tacos",
+"shrimp tacos",
+"Tacos",
+"tacos al pastor",
+"tacos carne asada",
+"tacos de chorizo"
+]
 ],
 [
 "guacamole",
-69
+69,
+[
+"avocado mash",
+"guac"
+]
 ],
 [
 "nachos",
-56
+56,
+[]
 ],
 [
 "chili",
-50
+50,
+[
+"chili con carne"
+]
 ],
 [
 "quesadilla",
-44
+44,
+[]
 ],
 [
 "pico de gallo",
-28
+28,
+[
+"encebollado",
+"salsa cruda",
+"salsa fresca"
+]
 ],
 [
 "chimichanga",
-24
+24,
+[
+"bufriedo",
+"chivichanga",
+"deep-fried burrito"
+]
 ],
 [
 "pozole",
-23
+23,
+[
+"pozoluquis"
+]
 ],
 [
 "huevos rancheros",
-17
+17,
+[]
 ],
 [
 "queso",
-16
+16,
+[
+"chile con queso"
+]
 ],
 [
 "Lime soup",
-10
+10,
+[
+"sopa de lima"
+]
 ],
 [
 "concha",
-10
+10,
+[]
 ],
 [
 "walnut soup",
-9
+9,
+[]
 ],
 [
 "tortilla soup",
-9
+9,
+[]
 ],
 [
 "quesabirria",
-6
+6,
+[
+"quesotacos",
+"red tacos"
+]
 ],
 [
 "taquería",
-6
+6,
+[
+"taco shop",
+"taqueria"
+]
 ],
 [
 "Discada",
-5
+5,
+[
+"cowboy wok",
+"plowdisc cooker"
+]
 ],
 [
 "Relleno Negro",
-3
+3,
+[
+"Chilmole"
+]
 ],
 [
 "El Adobe de Capistrano",
-3
+3,
+[]
+],
+[
+"Nachos at Maya",
+1,
+[]
+],
+[
+"Trini's Catering",
+1,
+[]
+],
+[
+"Fruta de horno",
+1,
+[]
+],
+[
+"Mexican juice bar",
+1,
+[]
+],
+[
+"list of Mexican restaurants",
+1,
+[]
+],
+[
+"Mexican restaurant",
+1,
+[]
+],
+[
+"Mexican candies",
+1,
+[
+"Mexican candy"
+]
+],
+[
+"taco acorazado",
+0,
+[]
+],
+[
+"Mexican Style Black Bean Burrito Recipe",
+0,
+[
+"indian food"
+]
+],
+[
+"Kaz-adilla",
+0,
+[
+"Kaz-Adilla",
+"KAZ―ADILLA"
+]
 ]
 ]
