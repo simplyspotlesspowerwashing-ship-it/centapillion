@@ -203,6 +203,13 @@
     TIER_IDS.forEach(function (tid) { addList(prompt.t[tid], tid, false); });
     var ex = CP.EXTRA && CP.EXTRA[prompt.id];
     if (ex) ["s", "r", "d"].forEach(function (tid) { addList(ex[tid], tid, true); });
+    // Re-ranked hand answers ("Llama~r"): every prompt follows one familiarity pyramid.
+    if (ex && ex.t) ex.t.split("|").forEach(function (pair) {
+      var bits = pair.split("~");
+      for (var i = 0; i < answers.length; i++) if (!answers[i].extra && answers[i].name === bits[0] && TIERS[bits[1]]) {
+        answers[i].tier = bits[1]; answers[i].score = TIERS[bits[1]].score; break;
+      }
+    });
     // Extra spellings for hand answers ("larry>Larry Koopa").
     if (ex && ex.a) ex.a.split("|").forEach(function (pair) {
       var bits = pair.split(">"), k = compact(bits[0]);

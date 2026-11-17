@@ -22,6 +22,7 @@ Writes: js/data-extra.js and tools/answer-build-log.md
 import json, os, re, subprocess, sys, unicodedata
 from collections import Counter, OrderedDict
 
+import math
 import wordfreq, pronouncing, pycountry
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -145,6 +146,13 @@ def src_blues():
     return [n for n in names if any(h in n.lower() for h in hues) and n.lower() != "blue"]
 
 
+def src_colors():
+    names = [c["name"] for c in load("colors/wikipedia.json")]
+    names += strings(load("colors/crayola.json"))
+    names += [re.sub(r"(?<=[a-z])(?=[A-Z])", " ", c["color"]) for c in load("colors/web_colors.json")["colors"]]
+    return [n for n in names if not re.search(r"\(|crayola|pantone|ncs|munsell|rgb|cmyk", n, re.I)]
+
+
 def src_texas():
     return [c["city"] for c in load("geography/us_cities.json")["cities"] if c.get("state") == "Texas"]
 
@@ -193,6 +201,7 @@ SOURCES = OrderedDict([
     ("carbrand", lambda: load("corporations/cars.json")["cars"]),
     ("texascity", src_texas),
     ("shade", src_blues),
+    ("color", src_colors),
     ("spokenlang", src_languages),
     ("rhymecat", lambda: src_rhymes("cat")),
     ("rhymelight", lambda: src_rhymes("light")),
@@ -315,13 +324,14 @@ WIKIDATA = os.path.join(ROOT, "tools", "wikidata")
 
 
 # Prompts whose Wikidata class turned out to be the wrong set of things.
-WIKIDATA_SKIP = {"unit", "houseplant", "pixar", "disney", "fruit", "vegetable", "berry"}
+WIKIDATA_SKIP = {"houseplant", "pixar", "disney", "berry"}
 
 
 # Broad prompts built from several cached lists ("Name an animal" takes every species list).
 COMPOSITE = {
     "animal": ["mammal", "bird", "rodent", "primate", "shark", "whale", "amphibian", "snake", "reptile", "fish", "insect", "extinct", "seacreature"],
     "seacreature": ["seacreature", "fish", "shark", "whale"],
+    "bodypart": ["organ", "bone", "muscle", "joint"],
 }
 
 
@@ -352,6 +362,30 @@ def raw_items(pid):
         return json.load(f)
 
 
+def familiarity_fn(items, generic):
+    """0..1 familiarity: Wikipedia coverage (log sitelinks) or English word frequency, whichever is higher."""
+    sl = {}
+    for name, n in items:
+        k = stripped(norm(re.sub(r"\s*\([^)]*\)", "", name.split(",")[0])), generic)
+        sl[k] = max(n, sl.get(k, 0))
+    top = math.log1p(max(sl.values())) if sl else 1.0
+    def f(name):
+        nm = norm(name)
+        wd = sl.get(stripped(nm, generic))
+        wf = min(1.0, max(0.0, (wordfreq.zipf_frequency(nm, "en") - 1.0) / 5.0))
+        return max(wf, math.log1p(wd) / top) if wd is not None else wf
+    return f
+
+
+# The pyramid every prompt follows (after the hand-picked Topsoil, Too Clever and gem):
+# a short Burrower band, a wide Rare middle, and a Deep Cut tail.
+BURROWER_SHARE, BURROWER_MIN, BURROWER_MAX, RARE_SHARE = 0.06, 8, 60, 0.50
+# Order = band first (hand rank, or the calibrated rank for generated answers), then familiarity,
+# with hand answers ahead of generated ones inside a band. Quotas are then cut from that order.
+BAND = {"s": 2.0, "r": 1.0, "d": 0.0}
+HAND_BONUS = 1.0
+
+
 def sitelink_cuts(pid, items, hand, generic):
     """Per-prompt popularity cut-offs, from where this prompt's hand-tiered answers sit."""
     sl = {}
@@ -379,7 +413,7 @@ def main():
         sys.exit("corpora checkout not found at %s (set CORPORA=...)" % CORPORA)
     hand = hand_keys()
     extra, log = OrderedDict(), []
-    pids = list(OrderedDict.fromkeys(list(SOURCES) + sorted(f[:-5] for f in os.listdir(WIKIDATA) if f.endswith(".json")) + list(COMPOSITE) + sorted(f[:-4] for f in os.listdir(os.path.join(ROOT, "tools", "supplement")) if f.endswith(".txt"))))
+    pids = list(OrderedDict.fromkeys(list(SOURCES) + sorted(f[:-5] for f in os.listdir(WIKIDATA) if f.endswith(".json")) + list(COMPOSITE) + sorted(f[:-4] for f in os.listdir(os.path.join(ROOT, "tools", "supplement")) if f.endswith(".txt")) + sorted(hand)))
     for pid in pids:
         if pid not in hand:          # source or cache for a retired prompt
             continue
@@ -427,6 +461,8 @@ def main():
         ds.sort(key=lambda e: -wordfreq.zipf_frequency(e.split("=")[0].lower(), "en"))
         cands += [(e, tier_for(e.split("=")[0])[0], "datasets") for e in ds]
 
+        fam = familiarity_fn(items, generic)
+        pool = []                     # (familiarity, entry or None, hand answer or None)
         long_taken = [t for t in taken if len(t) >= 6]
         hand_name = {kk: a["name"] for a in H["answers"] for kk in a["keys"]}
         aliases = []
@@ -450,7 +486,7 @@ def main():
             if any(x in taken or (x.endswith("s") and x[:-1] in taken) or x + "s" in taken for x in keys + skeys):
                 dropped["already listed"] += 1; continue
             if src == "curated":
-                tiers[tier].append(entry); used[src] += 1
+                pool.append((BAND[tier] + fam(names[0]), entry, None)); used[src] += 1
                 if len(k) >= 6: kept.append(k)
                 continue
             if len(k) >= 6 and any(edit1(k, t) for t in long_taken + kept):
@@ -470,13 +506,31 @@ def main():
             entry = "=".join(names)
             if len(k) >= 6:
                 kept.append(k)
-            tiers[tier].append(entry)
+            pool.append((BAND[tier] + fam(names[0]), entry, None))
             used[src] += 1
+        # Rank hand answers (except Topsoil, Too Clever and the gem) together with the generated ones.
+        for a in H["answers"]:
+            if a["tier"] in BAND:
+                f = max([fam(n) for n in a["norms"]] or [0.0])
+                pool.append((BAND[a["tier"]] + HAND_BONUS + f * 0.5, None, a))
+        pool.sort(key=lambda x: (-x[0], x[1] is not None))
+        N = len(pool)
+        nb = min(N, max(BURROWER_MIN, min(BURROWER_MAX, round(N * BURROWER_SHARE))))
+        nr = round(N * RARE_SHARE)
+        overrides = []
+        for i, (f, entry, a) in enumerate(pool):
+            t = "s" if i < nb else "r" if i < nb + nr else "d"
+            if entry is not None:
+                tiers[t].append(entry)
+            elif t != a["tier"]:
+                overrides.append(a["name"] + "~" + t)
         added = sum(len(v) for v in tiers.values())
-        if added or aliases:
+        if added or aliases or overrides:
             extra[pid] = {t: "|".join(sorted(v, key=str.lower)) for t, v in tiers.items() if v}
             if aliases:
                 extra[pid]["a"] = "|".join(aliases)
+            if overrides:
+                extra[pid]["t"] = "|".join(overrides)
         log.append((pid, len(H["keys"]), added, {t: len(v) for t, v in tiers.items()}, dict(used), how if items else "—", dict(dropped)))
 
     with open(os.path.join(ROOT, "js", "data-extra.js"), "w", encoding="utf-8") as f:

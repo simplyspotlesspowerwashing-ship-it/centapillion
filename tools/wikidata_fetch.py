@@ -76,8 +76,8 @@ SPEC = {
     # --- widen thin prompts ---
     "snake": taxon("Q16986904", 3),  # Ophidia
     "extinct": {"where": "?x wdt:P141 wd:Q237350 ; wdt:P1843 ?cn . FILTER(lang(?cn) = 'en')", "min": 3, "common": True},
-    "fruit": {"where": "?x %s wd:Q3314483 ." % KIND, "min": 4},
-    "vegetable": {"where": "?x %s wd:Q11004 ." % KIND, "min": 4},
+    "fruit": {"where": "{ ?x wdt:P279+ wd:Q3314483 } UNION { ?x wdt:P31/wdt:P279* wd:Q3314483 }", "min": 1},
+    "vegetable": {"where": "{ ?x wdt:P279+ wd:Q11004 } UNION { ?x wdt:P31/wdt:P279* wd:Q11004 }", "min": 1},
     "berry": {"where": "?x %s wd:Q13184 ." % KIND, "min": 3},
     "superhero": {"where": "?x wdt:P106 wd:Q188784 .", "min": 3},
     "superhero_villain": {"where": "?x wdt:P9071 wd:Q6498903 .", "min": 3},
@@ -94,6 +94,8 @@ SPEC = {
     "socialapp": {"where": "VALUES ?k { wd:Q3220391 wd:Q620615 wd:Q1668024 } ?x wdt:P31 ?k .", "min": 25},  # social networks, apps
     "christmassong": {"where": "?x wdt:P136 wd:Q1443316 ; wdt:P31 ?t . VALUES ?t { wd:Q7366 wd:Q134556 wd:Q105543609 wd:Q2188189 }", "min": 0},  # songs and singles only
     "seacreature": taxon("Q25326", 5),  # molluscs; fish/sharks/whales come from the composite
+    "muscle": kinds("Q7365", min=1, deep=True),
+    "joint": kinds("Q9644", min=1, deep=True),
     "africa": {"where": "?x wdt:P31 wd:Q3624078 ; wdt:P30 wd:Q15 . FILTER NOT EXISTS { ?x wdt:P576 ?end }", "min": 0},
     "asia": {"where": "?x wdt:P31 wd:Q3624078 ; wdt:P30 wd:Q48 . FILTER NOT EXISTS { ?x wdt:P576 ?end }", "min": 0},
     "europe": {"where": "?x wdt:P31 wd:Q3624078 ; wdt:P30 wd:Q46 . FILTER NOT EXISTS { ?x wdt:P576 ?end }", "min": 0},
@@ -119,11 +121,11 @@ SPEC = {
     "disney": {"where": "?x wdt:P31 wd:Q11424 ; wdt:P272 wd:Q1047410 .", "min": 0},
     "pixar": {"where": "VALUES ?t { wd:Q11424 wd:Q202866 } ?x wdt:P31 ?t ; wdt:P272 wd:Q127552 .", "min": 0},  # features only
     "bestpicture": {"where": "?x wdt:P31 wd:Q11424 ; wdt:P166 wd:Q102427 .", "min": 0},  # films, not producers
-    "videogame": {"where": "?x wdt:P31 wd:Q7889 .", "min": 35},
+    "videogame": {"where": "?x wdt:P31 wd:Q7889 .", "min": 8},
     "console": {"where": "?x wdt:P279+ wd:Q8076 .", "min": 12},  # console models are subclasses; the floor drops obscure Pong clones
     "sitcom": {"where": "?x wdt:P136 wd:Q170238 .", "min": 12},
     "musical": {"where": "?x wdt:P1219 ?ibdb ; wdt:P86 ?composer . MINUS { ?x wdt:P31/wdt:P279* wd:Q1344 } MINUS { ?x wdt:P31/wdt:P279* wd:Q2107 } MINUS { ?x wdt:P136 wd:Q1344 }", "min": 0},  # Broadway (IBDB) shows with a composer; not operas or ballets
-    "band": {"where": "?x wdt:P31 wd:Q5741069 .", "min": 30},
+    "band": {"where": "?x wdt:P31 wd:Q5741069 .", "min": 8},
     "shakespeare": {"where": "?x wdt:P50 wd:Q692 ; wdt:P31/wdt:P279* wd:Q25379 .", "min": 0},
     "harrypotter": {"where": "?x wdt:P1080 wd:Q5410773 ; wdt:P31/wdt:P279* wd:Q95074 .", "min": 0},
     "simpsons": {"where": "?x wdt:P1441 wd:Q886 .", "min": 0},
@@ -143,14 +145,14 @@ SPEC = {
     "pasta": {"where": "?x %s wd:Q178 ." % KIND, "min": 2},
     "dumpling": kinds("Q1854639"),
     "cookie": {"where": "?x %s wd:Q13266 ." % KIND, "min": 2},
-    "fastfood": {"where": "?x wdt:P31 wd:Q18509232 .", "min": 5},
-    "candy": {"where": "?x %s wd:Q1361086 ." % KIND, "min": 2},
-    "cereal": {"where": "?x %s wd:Q768267 ." % KIND, "min": 1},
+    "fastfood": {"where": "?x wdt:P31 wd:Q18509232 .", "min": 1},
+    "candy": {"where": "VALUES ?k { wd:Q185583 wd:Q1361086 wd:Q5159627 } { ?x wdt:P279+ ?k } UNION { ?x wdt:P31/wdt:P279* ?k }", "min": 1},
+    "cereal": {"where": "?x %s wd:Q768267 ." % KIND, "min": 0},
     "soda": {"where": "?x %s wd:Q147538 ." % KIND, "min": 3},
     "beer": {"where": "?x %s wd:Q1998962 ." % KIND, "min": 2},
     "bread": {"where": "?x %s wd:Q7802 ." % KIND, "min": 3},
     "tea": {"where": "?x %s wd:Q6097 ." % KIND, "min": 3},
-    "mushroom": taxon("Q221448", 3),  # Agaricales
+    "mushroom": taxon("Q764", 4),  # fungi with English common names
     "potato": {"where": "?x %s wd:Q10514020 ." % KIND, "min": 2},
     "salad": {"where": "?x %s wd:Q9266 ." % KIND, "min": 2},
     "spice": {"where": "{ ?x %s wd:Q42527 . } UNION { ?x %s wd:Q207123 . }" % (KIND, KIND), "min": 5},
@@ -161,7 +163,7 @@ SPEC = {
     "indianfood": {"where": "?x wdt:P2012 wd:Q192087 . MINUS { ?x wdt:P31/wdt:P279* wd:Q43229 } MINUS { ?x wdt:P31/wdt:P279* wd:Q11707 }", "min": 3},  # dishes, not restaurants
     "fairytale": {"where": "?x wdt:P31 wd:Q699 .", "min": 2},
     "nurseryrhyme": {"where": "?x wdt:P31 wd:Q1123037 .", "min": 0},
-    "painting": {"where": "?x wdt:P31 wd:Q3305213 .", "min": 25},
+    "painting": {"where": "?x wdt:P31 wd:Q3305213 .", "min": 8},
     "cartoon": {"where": "?x wdt:P31 wd:Q15711870 .", "min": 15},
     "holiday": {"where": "{ ?x wdt:P31 wd:Q1197685 . } UNION { ?x wdt:P31 wd:Q1445650 . }", "min": 15},
     "language": {"where": "?x wdt:P31 wd:Q9143 .", "min": 6},
@@ -169,8 +171,8 @@ SPEC = {
     "moon": {"where": "VALUES ?p { wd:Q2 wd:Q111 wd:Q319 wd:Q193 wd:Q324 wd:Q332 wd:Q339 } ?x wdt:P397 ?p ; wdt:P31/wdt:P279* wd:Q2537 .", "min": 0},  # moons of the planets and Pluto
     "constellation": {"where": "?x wdt:P31 wd:Q8928 .", "min": 0},
     "currency": {"where": "?x wdt:P31 wd:Q8142 .", "min": 10},
-    "unit": {"where": "?x %s wd:Q47574 ." % KIND, "min": 15},
-    "instrument": {"where": "?x %s wd:Q34379 ." % KIND, "min": 15},
+    "unit": {"where": "?x wdt:P31/wdt:P279* wd:Q47574 .", "min": 4},
+    "instrument": {"where": "{ ?x wdt:P279+ wd:Q34379 } UNION { ?x wdt:P31/wdt:P279* wd:Q34379 }", "min": 2},
     "musicgenre": {"where": "?x wdt:P31 wd:Q188451 .", "min": 20},
     "dance": kinds("Q11639", min=3, deep=True),
     "sport": {"where": "?x %s wd:Q349 ." % KIND, "min": 15},
@@ -191,7 +193,7 @@ SPEC = {
     "shark": taxon("Q7372", 5),
     "rodent": taxon("Q10850", 12),
     "primate": taxon("Q7380", 12),
-    "whale": taxon("Q160", 6),
+    "whale": taxon("Q160", 1),  # Cetacea
     "amphibian": taxon("Q10908", 20),
     "reptile": {"where": "VALUES ?c { wd:Q122422 wd:Q223044 wd:Q25363 wd:Q15099738 } ?x wdt:P171+ ?c . ?x wdt:P1843 ?cn . FILTER(lang(?cn) = 'en')", "min": 3, "common": True},  # squamates, turtles, crocodilians, tuatara (not birds)
     "bird": taxon("Q5113", 40),

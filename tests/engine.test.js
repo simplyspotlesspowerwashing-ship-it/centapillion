@@ -240,9 +240,22 @@ test("accepted answers carry their tier's points", () => {
   const dog = BANK.find(p => p.id === "dog");
   assert.equal(E.judge(dog, "labrador", []).answer.score, 10);
   assert.equal(E.judge(dog, "pug", []).answer.score, 30);
-  assert.equal(E.judge(dog, "akita", []).answer.score, 60);
-  assert.equal(E.judge(dog, "komondor", []).answer.score, 85);
+  assert.equal(E.judge(dog, "akita", []).answer.score, 30);
+  assert.equal(E.judge(dog, "komondor", []).answer.score, 60);
+  assert.equal(E.judge(dog, "afghan mastiff", []).answer.score, 85);
   assert.equal(E.judge(dog, "peruvian inca orchid", []).answer.score, 100);
+});
+
+test("every prompt is a pyramid: few Burrowers, about half Rare, the rest Deep Cut", () => {
+  for (const p of BANK) {
+    const c = { p: 0, c: 0, s: 0, r: 0, d: 0, k: 0 };
+    E.indexFor(p).answers.forEach(a => c[a.tier]++);
+    const rest = c.s + c.r + c.d;
+    assert.ok(c.s <= 60, `${p.id}: ${c.s} Burrowers`);
+    assert.ok(c.s < c.r, `${p.id}: more Burrower (${c.s}) than Rare (${c.r})`);
+    assert.ok(Math.abs(c.r / rest - 0.5) < 0.06, `${p.id}: Rare is ${Math.round(100 * c.r / rest)}% of ranked answers`);
+    assert.ok(c.p + c.c <= 16, `${p.id}: ${c.p + c.c} Topsoil/Too Clever`);
+  }
 });
 
 test("30 second rounds with no answer cap", () => {
