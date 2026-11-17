@@ -226,7 +226,9 @@ BLOCK = {
     "fish": re.compile(r"\b(lobster|shrimp|prawn|crab|oyster|mussel|clam|scallop|squid|octopus|crayfish|krill)s?$|^cooking fish$"),
     "card": re.compile(r"^(professional eater|splendor|tarot.*)$"),
     "clothing": re.compile(r"^(mask|footwear|clothing.*|garment|costume|uniform|waterproof|zip|undergarment)$|\bclothing in\b"),
-    "painter": re.compile(r"^(george w\. bush|winston churchill|adolf hitler|johann wolfgang von goethe)$"),
+    "painter": re.compile(r"^(leonardo da vinci|johann wolfgang von goethe|rabindranath tagore|walt disney|matsuo basho|matsuo bashō|le corbusier|sarah bernhardt|george w\. bush|winston churchill|adolf hitler|bob dylan|freddie mercury|david bowie|carl jung|hermann hesse|kahlil gibran|günter grass|akira kurosawa|bhumibol adulyadej|auguste rodin|john lennon|paul mccartney|joni mitchell|anthony hopkins|sylvester stallone|pierce brosnan|jim carrey|johnny depp|viggo mortensen|prince charles|charles iii|queen victoria|victor hugo|hans christian andersen|j\. r\. r\. tolkien|lewis carroll|william blake|friedrich nietzsche|charlie chaplin|martin luther|jean-jacques rousseau|theodor w\. adorno|anthony burgess|paul bowles|clint eastwood|frank zappa|john cage|ezra pound|boris pasternak|e\. t\. a\. hoffmann|benjamin franklin|thomas jefferson|frederick the great|henry viii.*|elon musk|bill gates|hildegard of bingen)$"),
+    "composer": re.compile(r"^(leonardo da vinci|johann wolfgang von goethe|rabindranath tagore|walt disney|matsuo basho|matsuo bashō|le corbusier|sarah bernhardt|george w\. bush|winston churchill|adolf hitler|bob dylan|freddie mercury|david bowie|carl jung|hermann hesse|kahlil gibran|günter grass|akira kurosawa|bhumibol adulyadej|auguste rodin|john lennon|paul mccartney|joni mitchell|anthony hopkins|sylvester stallone|pierce brosnan|jim carrey|johnny depp|viggo mortensen|prince charles|charles iii|queen victoria|victor hugo|hans christian andersen|j\. r\. r\. tolkien|lewis carroll|william blake|friedrich nietzsche|charlie chaplin|martin luther|jean-jacques rousseau|theodor w\. adorno|anthony burgess|paul bowles|clint eastwood|frank zappa|john cage|ezra pound|boris pasternak|e\. t\. a\. hoffmann|benjamin franklin|thomas jefferson|frederick the great|henry viii.*|elon musk|bill gates|hildegard of bingen)$"),
+    "holiday": re.compile(r"^(january|february|march|april|may|june|july|august|september|october|november|december) \d+$|^\d+ (january|february|march|april|may|june|july|august|september|october|november|december)$"),
 }
 # A single everyday word scores too easily ("Milk" river, "Sake" language).
 COMMON_WORD_ZIPF = 4.6
@@ -291,7 +293,7 @@ WIKIDATA = os.path.join(ROOT, "tools", "wikidata")
 
 
 # Prompts whose Wikidata class turned out to be the wrong set of things.
-WIKIDATA_SKIP = {"unit", "houseplant"}
+WIKIDATA_SKIP = {"unit", "houseplant", "console", "musical", "pixar"}
 
 
 def wikidata_items(pid):

@@ -8,12 +8,12 @@ cut-offs calibrated on where that prompt's hand-ranked answers sit; dataset answ
 (Zipf ≥ 3.3 Burrower, ≥ 2.2 Rare, otherwise Deep Cut). Hand ranks always win, and only the hand pass
 sets Topsoil, Too Clever and the Mother Lode.
 
-Total extra answers: **49477** across 100 prompts.
+Total extra answers: **51337** across 110 prompts.
 
 | Prompt | Hand keys | Added | Burrower | Rare | Deep Cut | From | Wikidata ranks | Skipped |
 |---|---|---|---|---|---|---|---|---|
 | dog | 108 | 911 | 10 | 67 | 834 | wikidata 846, datasets 65 | calibrated | unusable 1, already listed 78, spelling variant 7, everyday word 1 |
-| catbreed | 73 | 33 | 7 | 8 | 18 | datasets 33 | — | already listed 61, everyday word 1 |
+| catbreed | 73 | 79 | 3 | 4 | 72 | wikidata 67, datasets 12 | calibrated | already listed 63, everyday word 3, spelling variant 3 |
 | dinosaur | 78 | 1310 | 0 | 1 | 1309 | datasets 1310 | — | everyday word 2, blocked 4, category word 1, already listed 62, spelling variant 70 |
 | bird | 107 | 1073 | 101 | 501 | 471 | datasets 1073 | — | already listed 8, spelling variant 1 |
 | element | 121 | 0 | 0 | 0 | 0 | — | — | already listed 117, spelling variant 1 |
@@ -57,26 +57,35 @@ Total extra answers: **49477** across 100 prompts.
 | asia | 59 | 0 | 0 | 0 | 0 | — | by rank | already listed 48 |
 | australiacity | 52 | 43 | 0 | 2 | 41 | wikidata 43 | calibrated | already listed 37, everyday word 1 |
 | band | 106 | 69 | 4 | 20 | 45 | wikidata 69 | by rank | already listed 24, everyday word 5 |
-| bestpicture | 98 | 129 | 14 | 10 | 105 | wikidata 129 | calibrated | unusable 1, already listed 45 |
+| bestpicture | 98 | 1 | 0 | 1 | 0 | wikidata 1 | calibrated | unusable 1, already listed 45 |
 | bridge | 63 | 30 | 3 | 12 | 15 | wikidata 30 | by rank | already listed 4, everyday word 2 |
-| capital | 56 | 4 | 0 | 2 | 2 | wikidata 4 | calibrated | already listed 47 |
+| candy | 98 | 70 | 9 | 18 | 43 | wikidata 70 | calibrated | unusable 1, already listed 19, everyday word 3 |
+| capital | 56 | 3 | 0 | 2 | 1 | wikidata 3 | calibrated | already listed 47 |
 | card | 100 | 90 | 2 | 28 | 60 | wikidata 90 | by rank | unusable 5, everyday word 5, already listed 43, blocked 3 |
 | cartoon | 108 | 406 | 49 | 135 | 222 | wikidata 406 | by rank | unusable 4, already listed 34, blocked 1, everyday word 5 |
 | cereal | 70 | 34 | 1 | 5 | 28 | wikidata 34 | by rank | unusable 1, already listed 36, spelling variant 1, everyday word 1 |
+| chinacity | 67 | 242 | 0 | 4 | 238 | wikidata 242 | calibrated | already listed 57, spelling variant 47 |
+| composer | 106 | 812 | 107 | 290 | 415 | wikidata 812 | by rank | unusable 3, blocked 18, already listed 2, spelling variant 1 |
 | console | 86 | 0 | 0 | 0 | 0 | — | — | — |
 | constellation | 93 | 5 | 0 | 1 | 4 | wikidata 5 | calibrated | unusable 1, already listed 85 |
+| cookie | 69 | 114 | 11 | 40 | 63 | wikidata 114 | by rank | already listed 16, category word 1, spelling variant 1, everyday word 1 |
 | currency | 95 | 317 | 39 | 37 | 241 | wikidata 317 | calibrated | already listed 35, spelling variant 2, everyday word 1 |
 | dance | 95 | 43 | 3 | 14 | 26 | wikidata 43 | by rank | already listed 6, everyday word 5 |
 | desert | 58 | 113 | 1 | 8 | 104 | wikidata 113 | calibrated | already listed 44, everyday word 4, spelling variant 1 |
+| dessert | 80 | 294 | 4 | 17 | 273 | wikidata 294 | calibrated | unusable 1, already listed 23 |
 | dumpling | 57 | 21 | 0 | 2 | 19 | wikidata 21 | calibrated | already listed 14, spelling variant 1, everyday word 1 |
-| europe | 69 | 2 | 0 | 0 | 2 | wikidata 2 | by rank | already listed 48 |
+| europe | 69 | 1 | 0 | 0 | 1 | wikidata 1 | by rank | already listed 48 |
 | fairytale | 71 | 23 | 0 | 6 | 17 | wikidata 23 | by rank | already listed 10 |
 | fastfood | 80 | 78 | 4 | 22 | 52 | wikidata 78 | by rank | already listed 35, everyday word 1 |
 | furniture | 89 | 24 | 1 | 7 | 16 | wikidata 24 | by rank | already listed 11, everyday word 5 |
 | germanycity | 68 | 1917 | 1 | 14 | 1902 | wikidata 1917 | calibrated | already listed 61, spelling variant 73, everyday word 1 |
 | harrypotter | 124 | 450 | 9 | 31 | 410 | wikidata 450 | calibrated | already listed 86, spelling variant 8, everyday word 5 |
+| hat | 91 | 39 | 2 | 10 | 27 | wikidata 39 | by rank | already listed 24, everyday word 2, category word 1 |
+| holiday | 99 | 244 | 21 | 3 | 220 | wikidata 244 | calibrated | unusable 5, already listed 41, everyday word 1, spelling variant 2 |
 | houseplant | 74 | 0 | 0 | 0 | 0 | — | — | — |
+| indianfood | 74 | 28 | 2 | 8 | 18 | wikidata 28 | by rank | already listed 7 |
 | island | 95 | 1374 | 20 | 21 | 1333 | wikidata 1374 | calibrated | already listed 56, everyday word 23, spelling variant 19 |
+| italianfood | 71 | 81 | 7 | 26 | 48 | wikidata 81 | by rank | already listed 14, spelling variant 1, everyday word 1 |
 | italycity | 70 | 7189 | 1 | 39 | 7149 | wikidata 7189 | calibrated | already listed 67, overlaps gem 8, spelling variant 441, everyday word 7 |
 | japancity | 59 | 651 | 0 | 1 | 650 | wikidata 651 | calibrated | already listed 47, spelling variant 37, everyday word 4 |
 | japanesefood | 69 | 63 | 3 | 20 | 40 | wikidata 63 | by rank | already listed 15, everyday word 3 |
@@ -90,9 +99,9 @@ Total extra answers: **49477** across 100 prompts.
 | musical | 89 | 0 | 0 | 0 | 0 | — | — | — |
 | nurseryrhyme | 71 | 60 | 4 | 14 | 42 | wikidata 60 | by rank | unusable 3, already listed 29, everyday word 3 |
 | nut | 48 | 0 | 0 | 0 | 0 | — | by rank | already listed 5 |
-| painter | 109 | 473 | 29 | 60 | 384 | wikidata 473 | calibrated | already listed 33, blocked 2 |
+| painter | 109 | 314 | 9 | 39 | 266 | wikidata 314 | calibrated | already listed 32, blocked 11 |
 | pasta | 68 | 64 | 2 | 7 | 55 | wikidata 64 | calibrated | already listed 46, spelling variant 4 |
-| pixar | 58 | 42 | 4 | 10 | 28 | wikidata 42 | by rank | unusable 5, already listed 26, everyday word 2 |
+| pixar | 58 | 0 | 0 | 0 | 0 | — | — | — |
 | potato | 60 | 170 | 15 | 56 | 99 | wikidata 170 | by rank | already listed 33, category word 2, spelling variant 2, everyday word 2 |
 | primate | 65 | 954 | 15 | 29 | 910 | wikidata 954 | calibrated | unusable 3, already listed 37, blocked 1, spelling variant 48 |
 | rodent | 58 | 3776 | 511 | 1035 | 2230 | wikidata 3776 | by rank | unusable 3, already listed 31, spelling variant 98 |
@@ -101,6 +110,7 @@ Total extra answers: **49477** across 100 prompts.
 | shark | 61 | 594 | 21 | 63 | 510 | wikidata 594 | calibrated | already listed 50, spelling variant 8, everyday word 8 |
 | shoe | 93 | 20 | 1 | 6 | 13 | wikidata 20 | by rank | unusable 4, already listed 19, everyday word 1 |
 | simpsons | 106 | 297 | 15 | 21 | 261 | wikidata 297 | calibrated | unusable 5, already listed 65, blocked 17, everyday word 8, spelling variant 3 |
+| sitcom | 97 | 221 | 12 | 70 | 139 | wikidata 221 | by rank | unusable 10, already listed 51, everyday word 8 |
 | soda | 77 | 102 | 7 | 30 | 65 | wikidata 102 | by rank | unusable 2, everyday word 3, blocked 2, already listed 36, spelling variant 1 |
 | soup | 74 | 324 | 4 | 23 | 297 | wikidata 324 | calibrated | unusable 1, already listed 32, everyday word 9, category word 1, spelling variant 1 |
 | starwars | 116 | 593 | 39 | 218 | 336 | wikidata 593 | by rank | unusable 29, already listed 75, spelling variant 2, everyday word 1 |

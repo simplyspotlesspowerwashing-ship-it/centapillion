@@ -76,11 +76,11 @@
 260
 ],
 [
-"Copenhagen",
+"Oslo",
 245
 ],
 [
-"Oslo",
+"Copenhagen",
 245
 ],
 [
@@ -92,11 +92,11 @@
 240
 ],
 [
-"Bucharest",
+"Dublin",
 238
 ],
 [
-"Dublin",
+"Bucharest",
 238
 ],
 [
@@ -132,11 +132,11 @@
 225
 ],
 [
-"Zagreb",
+"Astana",
 218
 ],
 [
-"Astana",
+"Zagreb",
 218
 ],
 [
@@ -180,8 +180,8 @@
 188
 ],
 [
-"Kraków",
-185
+"The Hague",
+183
 ],
 [
 "Valletta",
@@ -198,9 +198,5 @@
 [
 "San Marino",
 143
-],
-[
-"Iași",
-108
 ]
 ]
