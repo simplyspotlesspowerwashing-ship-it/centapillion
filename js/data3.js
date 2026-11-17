@@ -92,7 +92,7 @@
     { id: "italianfood", q: "Name an Italian dish", t: {
       p: "Pizza|Spaghetti|Lasagna=lasagne|Risotto|Ravioli",
       c: "Spaghetti Carbonara=carbonara|Cacio e Pepe",
-      s: "Fettuccine Alfredo=alfredo|Bruschetta|Gnocchi|Tiramisu|Chicken Parmesan=chicken parm|Calzone|Minestrone|Caprese Salad=caprese|Osso Buco|Pesto Pasta|Gelato|Cannoli|Arancini|Focaccia|Polenta|Panna Cotta|Penne alla Vodka|Spaghetti Bolognese=bolognese|Eggplant Parmesan",
+      s: "Fettuccine Alfredo=alfredo|Bruschetta|Gnocchi|Tiramisu|Chicken Parmesan=chicken parm|Calzone|Minestrone|Caprese Salad=caprese|Osso Buco|Pesto Pasta=pesto|Gelato|Cannoli|Arancini|Focaccia|Polenta|Panna Cotta|Penne alla Vodka|Spaghetti Bolognese=bolognese|Eggplant Parmesan",
       r: "Saltimbocca|Vitello Tonnato|Carpaccio|Pasta alla Norma|Amatriciana|Puttanesca|Arrabbiata|Supplì|Ribollita|Panzanella|Porchetta|Piadina|Cotoletta|Bistecca alla Fiorentina|Burrata|Agnolotti|Pappardelle al Ragu|Frittata|Zabaglione|Affogato|Granita|Sfogliatella",
       d: "Vincisgrassi|Bagna Cauda|Lampredotto|Trippa alla Romana|Cima alla Genovese|Pansoti|Malloreddus|Pizzoccheri|Canederli|Pasta con le Sarde|Caponata|Torta Pasqualina|Farinata|Cecina|Cassoeula",
       k: "Casu Marzu=maggot cheese::A Sardinian cheese ripened by live maggots. Officially illegal." } },

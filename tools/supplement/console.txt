@@ -1,0 +1,62 @@
+Master System=sega master system
+Sega CD
+Sega 32X
+SG-1000
+Sega Pico
+Nomad
+PC Engine
+PC-FX
+Neo Geo Pocket
+WonderSwan
+Game.com
+Tiger Electronics
+Gizmondo
+Nvidia Shield
+PlayStation Portal
+PS One
+PSone
+PlayStation Classic
+SNES Classic
+NES Classic
+Sega Genesis Mini
+Atari 5200
+Atari 7800
+Atari VCS
+Amiga CD32
+CD-i
+Philips CD-i
+Pippin
+Nuon
+Xbox One X
+Xbox One S
+Xbox Series S
+PS4 Pro
+PS5 Pro
+Switch Lite
+Switch OLED
+New 3DS
+2DS
+DSi
+DS Lite
+Game Boy Micro
+Game Boy Advance SP
+Pokémon Mini
+Virtual Boy
+Famicom
+Super Famicom
+Mega Drive
+Mega CD
+Saturn
+Fairchild Channel F
+Odyssey 2
+Bally Astrocade
+Arcadia 2001
+Coleco Telstar
+Pong
+Evercade
+Analogue Pocket
+Playdate
+Meta Quest
+Oculus Quest
+ROG Ally
+Legion Go

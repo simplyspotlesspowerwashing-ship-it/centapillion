@@ -1,0 +1,93 @@
+Mango Tree=mango
+Coconut Palm=coconut=coconut tree
+Apple Tree
+Pear Tree
+Orange Tree
+Lemon Tree
+Fig Tree
+Peach Tree
+Plum Tree
+Cherry Blossom
+Almond Tree
+Avocado Tree
+Banana Tree
+Date Palm
+Olive Tree
+Cork Oak
+Live Oak
+Red Oak
+White Oak
+Sugar Maple
+Red Maple
+Japanese Maple
+Silver Birch
+Paper Birch
+Weeping Willow
+White Pine
+Scots Pine
+Lodgepole Pine
+Ponderosa Pine
+Bristlecone Pine
+Douglas Fir
+Balsam Fir
+Noble Fir
+Blue Spruce
+Norway Spruce
+Giant Sequoia
+Coast Redwood
+Dawn Redwood
+Bald Cypress
+Monterey Cypress
+Cedar of Lebanon
+Western Red Cedar
+Eastern Red Cedar
+Hemlock
+Tamarack
+Mountain Ash
+Rowan
+Horse Chestnut
+Sweet Chestnut
+Black Walnut
+Pecan
+Butternut
+Hickory
+Tulip Tree
+Sweetgum
+Black Gum
+Cottonwood
+Quaking Aspen
+Black Locust
+Honey Locust
+Mesquite
+Palo Verde
+Joshua Tree
+Saguaro
+Dragon Blood Tree
+Rainbow Eucalyptus
+Kapok
+Mahogany
+Ebony
+Rosewood
+Sandalwood
+Teak
+Neem
+Bodhi Tree
+Banyan
+Peepal
+Rubber Tree
+Cinnamon Tree
+Camphor
+Bay Laurel
+Holly
+Boxwood
+Magnolia
+Crepe Myrtle
+Redbud
+Catalpa
+Paulownia
+Ginkgo
+Monkey Puzzle
+Wollemi Pine
+Kauri
+Totara
+Rimu

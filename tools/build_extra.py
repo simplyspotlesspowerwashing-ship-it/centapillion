@@ -219,6 +219,16 @@ BLOCK = {
     "superhero_villain": re.compile(r"^(groot|silver surfer|rogue|quicksilver|warren worthington iii|wolverine|spider-man|batman|superman)$"),
     "musician": re.compile(r"^(will\.i\.am)$"),
     "horse": re.compile(r"^(h[ıi]n[ıi]s)$"),
+    "toy": re.compile(r"^(adidas .*|butt plug|cock ring|artificial vagina|dildo|vibrator|sex toy|animatronics|apple pippin|atari .*|cdtv|colecovision|.*console|scarecrow|association football ball|ball)$"),
+    "tool": re.compile(r"^(argand lamp|blacklight|candelabra|chandelier|baton|battle axe|brazier|carrying pole|conductor's baton|lamp|candlestick)$"),
+    "furniture": re.compile(r"^(advertising column|altar|altarpiece|altazimuth mount|ambon|antependium|antimins|baptismal font|bicycle saddle|bicycle stand|cash register|casket|coffin|butsudan|tabernacle|iconostasis|pulpit|candelabra|candlestick)$"),
+    "kitchen": re.compile(r"^(beer stein|beverage can|billhook|bowl of hygieia|brazier|büchner funnel|chalice|cauldron|earthenware|aluminium foil)$"),
+    "shoe": re.compile(r"^(horseshoe|spur|stilts|leggings|pantyhose|stocking|leg warmer|gaiters|swimfins|footwrap|ice skate|inline skates|roller skates|snowshoe|air jordan)$"),
+    "hat": re.compile(r"^(wig|earmuffs|tefillin|halter|nemes|papal tiara|hijab|niqab|burqa|veil|headscarf|hairnet|crown)$"),
+    "organ": re.compile(r"^(blood vessel|gland|rib|vein|artery|human digestive system|spinal cord|nerve|bone|muscle|tissue|cell)$"),
+    "socialapp": re.compile(r"^(email|netflix|forbes|the washington post|wikinews|wikispecies|google maps|google translate|paypal|skype|spotify|chatgpt)$"),
+    "musical": re.compile(r"^(aida|ariadne auf naxos|die fledermaus|giselle|le bourgeois gentilhomme|pagliacci|peer gynt|petrushka|rigoletto|swan lake|carmen|tosca|la bohème|il trovatore|cavalleria rusticana|the barber of seville|the tales of hoffmann|the bartered bride|gianni schicchi|la fille du régiment|la serva padrona|andrea chénier|the gypsy baron|the imaginary invalid|riverdance|the nutcracker|madama butterfly|la traviata|don giovanni|the magic flute|the marriage of figaro|turandot|otello|salome|elektra|der rosenkavalier|the sleeping beauty|romeo and juliet|coppélia|the firebird|the rite of spring|boris godunov|eugene onegin|faust|hansel and gretel)$"),
+    "shape": re.compile(r"^(exclamation mark|radius|force)$"),
     "console": re.compile(r"^(handheld game console|home video game console|video game console|.*series)$"),
     "dessert": re.compile(r"^(carolina|cookie|pudding|cake|pie|sweet|candy)$"),
     "italianfood": re.compile(r"^(cabbage roll|caesar salad|fish and chips)$"),
@@ -227,11 +237,11 @@ BLOCK = {
     "mexicanfood": re.compile(r"taquer[ií]a|^el adobe|restaurant|^chili$"),
     "moon": re.compile(r"^(moon|s/\d.*|moon of .*)$"),
     "dinosaur": re.compile(r"^(crocodile|fossil|mammal|turtle|bird|lizard|reptile|snake|shark)$"),
-    "gem": re.compile(r"^(bone|flint|ivory|kidney ore|metal-coated crystals|synthetic .*|birthstone|glass|plastic)$"),
+    "gem": re.compile(r"^(bone|flint|ivory|kidney ore|metal-coated crystals|synthetic .*|birthstone|glass|plastic)$|^(apache tears|blue amber)$"),
     "simpsons": re.compile(r"\b(family|characters?|list of)\b|^(d'oh!?|duff beer|kwik-e-mart|springfield|the simpsons)$"),
     "sandwich": re.compile(r"^(bacon|ham|crisp|ice cream|british rail|cheese|dynamite|mother-in-law|egg|chicken|turkey|tuna)$"),
     "soda": re.compile(r"^(kefir|milk|water|juice|wine|beer|coffee|tea|beverage|drink|fermented milk product)$"),
-    "fabric": re.compile(r"^(blanket|yarn|tapestry|thread|fibre|fiber|bed sheet|mosquito net|c change|machine knitting|e-textiles|cedar bark|carbon fiber)$"),
+    "fabric": re.compile(r"^(blanket|yarn|tapestry|thread|fibre|fiber|bed sheet|mosquito net|c change|machine knitting|e-textiles|cedar bark|carbon fiber)$|^(blanket|curtain|mattress|pillow|airbag|bedding|napkin|towel|carpet|rug|sleeping bag|tent|flag|banner|sail|mitre|chasuble|dalmatic|pallium|papal tiara|candle wick|catgut|bed sheet|mosquito net|c change|machine knitting|e-textiles|cedar bark|carbon fiber|yarn|thread|tapestry|quilt|duvet|tablecloth|handkerchief|bandage|gauze|ribbon|rope|net|mesh|felt hat|textile|fabric|cloth)s?$"),
     "vegetable": re.compile(r"^(basil|lavender|rosemary|sage|herbs and spice|thyme|mint|oregano|parsley|dill)$"),
     "flower": re.compile(r"^(rosemary|sage|holly|basil|thyme)$"),
     "fruit": re.compile(r"^(nut|bell pepper|chili pepper|cucumber|tomato|vegetable)$"),
@@ -271,7 +281,7 @@ for (const f of ["data","data2","data3","data4","data5","data6","data7"]) requir
 const CP=require("./js/engine.js"),E=CP.engine;const o={};
 for(const p of CP.PROMPTS){const a=E.indexFor(p).answers.filter(x=>!x.extra);
 o[p.id]={q:p.q,keys:a.flatMap(x=>x.keys),gem:a.find(x=>x.tier==="k").keys,
-answers:a.map(x=>({tier:x.tier,norms:x.aliases.map(n=>E.normalize(n))}))};}
+answers:a.map(x=>({tier:x.tier,name:x.name,keys:x.keys,norms:x.aliases.map(n=>E.normalize(n))}))};}
 process.stdout.write(JSON.stringify(o));"""
     return json.loads(subprocess.check_output(["node", "-e", js], cwd=ROOT))
 
@@ -305,12 +315,13 @@ WIKIDATA = os.path.join(ROOT, "tools", "wikidata")
 
 
 # Prompts whose Wikidata class turned out to be the wrong set of things.
-WIKIDATA_SKIP = {"unit", "houseplant", "musical", "pixar", "disney", "fruit", "vegetable", "berry"}
+WIKIDATA_SKIP = {"unit", "houseplant", "pixar", "disney", "fruit", "vegetable", "berry"}
 
 
 # Broad prompts built from several cached lists ("Name an animal" takes every species list).
 COMPOSITE = {
-    "animal": ["mammal", "bird", "rodent", "primate", "shark", "whale", "amphibian", "snake", "fish", "insect", "extinct"],
+    "animal": ["mammal", "bird", "rodent", "primate", "shark", "whale", "amphibian", "snake", "reptile", "fish", "insect", "extinct", "seacreature"],
+    "seacreature": ["seacreature", "fish", "shark", "whale"],
 }
 
 
@@ -318,12 +329,24 @@ def wikidata_items(pid):
     if pid in COMPOSITE:
         best = {}
         for part in COMPOSITE[pid]:
-            for name, sl in wikidata_items(part):
+            for name, sl in (raw_items(part) if part == pid else wikidata_items(part)):
                 if sl > best.get(name, -1):
                     best[name] = sl
         return sorted(([n, v] for n, v in best.items()), key=lambda x: -x[1])
+    return [] if pid in WIKIDATA_SKIP else raw_items(pid)
+
+
+def supplement(pid):
+    path = os.path.join(ROOT, "tools", "supplement", pid + ".txt")
+    if not os.path.exists(path):
+        return []
+    with open(path, encoding="utf-8") as f:
+        return [l.strip() for l in f if l.strip() and not l.startswith("#")]
+
+
+def raw_items(pid):
     path = os.path.join(WIKIDATA, pid + ".json")
-    if pid in WIKIDATA_SKIP or not os.path.exists(path):
+    if not os.path.exists(path):
         return []
     with open(path, encoding="utf-8") as f:
         return json.load(f)
@@ -356,7 +379,7 @@ def main():
         sys.exit("corpora checkout not found at %s (set CORPORA=...)" % CORPORA)
     hand = hand_keys()
     extra, log = OrderedDict(), []
-    pids = list(OrderedDict.fromkeys(list(SOURCES) + sorted(f[:-5] for f in os.listdir(WIKIDATA) if f.endswith(".json")) + list(COMPOSITE)))
+    pids = list(OrderedDict.fromkeys(list(SOURCES) + sorted(f[:-5] for f in os.listdir(WIKIDATA) if f.endswith(".json")) + list(COMPOSITE) + sorted(f[:-4] for f in os.listdir(os.path.join(ROOT, "tools", "supplement")) if f.endswith(".txt"))))
     for pid in pids:
         if pid not in hand:          # source or cache for a retired prompt
             continue
@@ -372,6 +395,12 @@ def main():
         items = wikidata_items(pid)
         cut_s, cut_r, how = sitelink_cuts(pid, items, H, generic)
         cands = []
+        # Curated supplement lists (tools/supplement/<prompt>.txt): answers found missing by
+        # play-testing. Hand-checked, so they skip the everyday-word filters; ranked by how
+        # familiar the phrase is, like every other generated answer.
+        for raw in supplement(pid):
+            z = wordfreq.zipf_frequency(norm(raw.split("=")[0]), "en")
+            cands.append((raw, "s" if z >= 3.3 else "r" if z >= 2.2 else "d", "curated"))
         for name, n in items:
             if pid == "soccerclub":                     # "Manchester United F.C." / "AS Roma" -> the club's name
                 for _ in range(2):
@@ -399,16 +428,31 @@ def main():
         cands += [(e, tier_for(e.split("=")[0])[0], "datasets") for e in ds]
 
         long_taken = [t for t in taken if len(t) >= 6]
+        hand_name = {kk: a["name"] for a in H["answers"] for kk in a["keys"]}
+        aliases = []
         for entry, tier, src in cands:
             names = entry.split("=")
             keys = [compact(n) for n in names]
             skeys = [stripped(norm(n), generic) for n in names]
             k = keys[0]
+            if src == "curated" and any(x in hand_name for x in keys):
+                # already a hand answer: keep only the new spellings, as aliases of it
+                main = next(hand_name[x] for x in keys if x in hand_name)
+                for n, x in zip(names, keys):
+                    if x and x not in taken and x not in seen:
+                        aliases.append(n + ">" + main); seen.add(x)
+                continue
+            if src == "curated":
+                skeys = []           # hand-checked: only an exact duplicate counts as already listed
             if len(k) < 3 or any(x in seen for x in keys + skeys):
                 continue
             seen.update(keys + skeys)
             if any(x in taken or (x.endswith("s") and x[:-1] in taken) or x + "s" in taken for x in keys + skeys):
                 dropped["already listed"] += 1; continue
+            if src == "curated":
+                tiers[tier].append(entry); used[src] += 1
+                if len(k) >= 6: kept.append(k)
+                continue
             if len(k) >= 6 and any(edit1(k, t) for t in long_taken + kept):
                 dropped["spelling variant"] += 1; continue
             if any(len(x) >= 4 and (g.startswith(x) or x.startswith(g)) for x in keys for g in gem):
@@ -429,8 +473,10 @@ def main():
             tiers[tier].append(entry)
             used[src] += 1
         added = sum(len(v) for v in tiers.values())
-        if added:
+        if added or aliases:
             extra[pid] = {t: "|".join(sorted(v, key=str.lower)) for t, v in tiers.items() if v}
+            if aliases:
+                extra[pid]["a"] = "|".join(aliases)
         log.append((pid, len(H["keys"]), added, {t: len(v) for t, v in tiers.items()}, dict(used), how if items else "—", dict(dropped)))
 
     with open(os.path.join(ROOT, "js", "data-extra.js"), "w", encoding="utf-8") as f:

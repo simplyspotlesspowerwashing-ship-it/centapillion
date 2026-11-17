@@ -1,38 +1,170 @@
 [
 [
+"shoe",
+163
+],
+[
 "sandal",
 82
+],
+[
+"boot",
+82
+],
+[
+"slipper",
+79
+],
+[
+"horseshoe",
+76
+],
+[
+"flip-flop",
+56
+],
+[
+"pantyhose",
+54
+],
+[
+"stocking",
+53
 ],
 [
 "clog",
 50
 ],
 [
+"ice skate",
+49
+],
+[
+"leggings",
+48
+],
+[
+"stilts",
+47
+],
+[
+"sneaker",
+42
+],
+[
 "moccasin",
 41
+],
+[
+"snowshoe",
+40
+],
+[
+"association football boots",
+37
+],
+[
+"spur",
+37
 ],
 [
 "high heels",
 36
 ],
 [
+"roller skates",
+35
+],
+[
+"valenki",
+35
+],
+[
+"geta",
+35
+],
+[
+"galoshes",
+35
+],
+[
+"swimfins",
+33
+],
+[
 "athletic shoe",
 33
+],
+[
+"zōri",
+32
+],
+[
+"Air Jordan",
+32
+],
+[
+"Wellington boot",
+31
 ],
 [
 "espadrille",
 30
 ],
 [
+"pointe shoe",
+30
+],
+[
+"footwrap",
+27
+],
+[
+"gaiters",
+27
+],
+[
+"caliga",
+26
+],
+[
+"buskin",
+26
+],
+[
+"ballet shoe",
+26
+],
+[
+"combat boot",
+25
+],
+[
 "bast shoe",
 25
 ],
 [
-"Air Force 1",
-21
+"leg warmer",
+24
 ],
 [
-"Areni-1 shoe",
+"stiletto",
+24
+],
+[
+"inline skates",
+24
+],
+[
+"tights",
+23
+],
+[
+"waraji",
+22
+],
+[
+"steel-toe boot",
 20
 ],
 [
@@ -40,8 +172,8 @@
 20
 ],
 [
-"Opanak",
-19
+"ballet flat",
+20
 ],
 [
 "mary jane",
@@ -52,12 +184,84 @@
 19
 ],
 [
+"compression stockings",
+19
+],
+[
+"Ugg boots",
+19
+],
+[
+"climbing shoes",
+18
+],
+[
+"uwabaki",
+18
+],
+[
+"Oxford shoe",
+18
+],
+[
+"Bath slippers",
+18
+],
+[
+"derby shoe",
+17
+],
+[
+"ski boot",
+17
+],
+[
+"fishnets",
+17
+],
+[
+"hose",
+17
+],
+[
+"pump",
+17
+],
+[
+"okobo",
+16
+],
+[
+"slip-on shoe",
+16
+],
+[
+"hosiery",
+16
+],
+[
 "brogue shoe",
 16
 ],
 [
 "mule",
 16
+],
+[
+"Heelys",
+16
+],
+[
+"cowboy boot",
+15
+],
+[
+"carbatina",
+15
+],
+[
+"plimsoll shoe",
+15
 ],
 [
 "jutti",
@@ -68,11 +272,59 @@
 15
 ],
 [
-"winged sandals",
+"Jumping stilts",
+15
+],
+[
+"calceus",
 14
 ],
 [
+"riding boot",
+14
+],
+[
+"thigh-high stockings",
+14
+],
+[
+"spats",
+14
+],
+[
+"klomp",
+14
+],
+[
+"boat shoe",
+14
+],
+[
+"monk shoe",
+14
+],
+[
+"Chelsea boot",
+13
+],
+[
+"clap skate",
+13
+],
+[
+"hiking boot",
+13
+],
+[
+"mukluk",
+13
+],
+[
 "poulaine",
+12
+],
+[
+"thigh-high boot",
 12
 ],
 [
@@ -84,11 +336,39 @@
 12
 ],
 [
+"chopine",
+11
+],
+[
+"Adidas Stan Smith",
+11
+],
+[
 "minimalist shoe",
 11
 ],
 [
+"jean leggings",
+10
+],
+[
+"hip boot",
+10
+],
+[
+"patten",
+10
+],
+[
+"Jodhpur boot",
+10
+],
+[
 "brothel creeper",
+9
+],
+[
+"balgha",
 9
 ],
 [
@@ -96,8 +376,36 @@
 9
 ],
 [
+"Moon Boot",
+9
+],
+[
+"episcopal sandals",
+9
+],
+[
+"mountaineering boot",
+9
+],
+[
+"nutukas",
+9
+],
+[
 "dress shoe",
 9
+],
+[
+"skate shoe",
+8
+],
+[
+"abarka",
+8
+],
+[
+"Adilette",
+8
 ],
 [
 "markoub",
@@ -108,23 +416,91 @@
 8
 ],
 [
+"ghillie",
+8
+],
+[
+"wedge",
+8
+],
+[
+"cycling shoe",
+8
+],
+[
+"Kolhapuri chappal",
+8
+],
+[
+"ballet boot",
+8
+],
+[
+"blucher shoe",
+8
+],
+[
+"Nike Mercurial Vapor",
+7
+],
+[
+"Bakya",
+7
+],
+[
+"huarache",
+7
+],
+[
+"nylon stocking",
+7
+],
+[
+"toe shoe",
+7
+],
+[
+"Avarca",
+7
+],
+[
+"kitten heel shoe",
+7
+],
+[
+"chukka boot",
+7
+],
+[
+"bootee",
+7
+],
+[
+"kyahan",
+7
+],
+[
 "spectator shoe",
 7
 ],
 [
-"lotus shoe",
-7
+"male hosiery",
+6
+],
+[
+"crepida",
+6
 ],
 [
 "turnshoe",
 6
 ],
 [
-"sabot",
+"Beatle boot",
 6
 ],
 [
-"Burki",
+"sabot",
 6
 ],
 [
@@ -136,11 +512,67 @@
 6
 ],
 [
+"Ahenema",
+6
+],
+[
+"hwa",
+5
+],
+[
 "beaked shoe",
 5
 ],
 [
+"Satan Shoes",
+5
+],
+[
+"basketball shoe",
+5
+],
+[
+"Reebok Pump",
+5
+],
+[
 "Tsarouchi",
+5
+],
+[
+"clear heel",
+5
+],
+[
+"roller shoe",
+5
+],
+[
+"Ciocia",
+5
+],
+[
+"soccus",
+5
+],
+[
+"Jazz shoe",
+5
+],
+[
+"sheepskin boots",
+5
+],
+[
+"go-go boot",
+5
+],
+[
+"knee-high boot",
+5
+],
+[
+"ice hockey skate",
 5
 ],
 [
@@ -152,7 +584,19 @@
 5
 ],
 [
+"Biblical sandals",
+5
+],
+[
+"Dunk",
+5
+],
+[
 "elevator shoe",
+5
+],
+[
+"fuck-me shoes",
 5
 ],
 [
@@ -168,11 +612,439 @@
 5
 ],
 [
-"Tiger-head shoes",
-5
+"Gutul",
+4
 ],
 [
-"Nike Total 90",
-5
+"Adidas Copa Mundial",
+4
+],
+[
+"Cattle hoof shoes",
+4
+],
+[
+"jackboot",
+4
+],
+[
+"Noren",
+4
+],
+[
+"Jump boot",
+4
+],
+[
+"golf shoe",
+4
+],
+[
+"Coiled sewn sandals",
+4
+],
+[
+"winklepicker",
+4
+],
+[
+"après-ski boot",
+4
+],
+[
+"Hessian",
+4
+],
+[
+"tennis shoe",
+4
+],
+[
+"Fully fashioned stockings",
+4
+],
+[
+"hnyat-phanat",
+4
+],
+[
+"Mexican pointy boot",
+4
+],
+[
+"pampootie",
+4
+],
+[
+"Peshawari chappal",
+4
+],
+[
+"tied shoe",
+3
+],
+[
+"Turkish clogs",
+3
+],
+[
+"Upanah",
+3
+],
+[
+"platform boot",
+3
+],
+[
+"sandalette",
+3
+],
+[
+"Nike Air Ship",
+3
+],
+[
+"super shoes",
+3
+],
+[
+"toddler shoe",
+3
+],
+[
+"low shoe",
+3
+],
+[
+"house shoe",
+3
+],
+[
+"Mituri",
+3
+],
+[
+"water shoe",
+3
+],
+[
+"Bovver boot",
+3
+],
+[
+"jorabs",
+3
+],
+[
+"Cantabrian albarcas",
+3
+],
+[
+"kōgake",
+3
+],
+[
+"Friesian doorloper",
+3
+],
+[
+"bespoke footwear",
+3
+],
+[
+"pigache",
+3
+],
+[
+"wholecut",
+3
+],
+[
+"Haferlschuh",
+3
+],
+[
+"T-bar shoe",
+3
+],
+[
+"snow gaiters",
+3
+],
+[
+"Helskór",
+3
+],
+[
+"boot-hose",
+3
+],
+[
+"brogan",
+3
+],
+[
+"cavalier boot",
+3
+],
+[
+"British clog",
+3
+],
+[
+"diabetic shoe",
+3
+],
+[
+"fashion boot",
+3
+],
+[
+"high-top",
+3
+],
+[
+"träskor",
+3
+],
+[
+"Nike Air Yeezy",
+3
+],
+[
+"çorape",
+3
+],
+[
+"booties",
+3
+],
+[
+"dance shoe",
+3
+],
+[
+"Space Hippie",
+3
+],
+[
+"Budapester",
+2
+],
+[
+"balmoral boot",
+2
+],
+[
+"knitted tights",
+2
+],
+[
+"leather boots",
+2
+],
+[
+"silk stocking",
+2
+],
+[
+"patent leather shoe",
+2
+],
+[
+"setta",
+2
+],
+[
+"tovesko",
+2
+],
+[
+"Puma Suede",
+2
+],
+[
+"Jacoform",
+2
+],
+[
+"Adidas Forum",
+2
+],
+[
+"Reed shoes",
+2
+],
+[
+"Never Surrender High-Top",
+2
+],
+[
+"Strappy sandals",
+2
+],
+[
+"escarpín",
+2
+],
+[
+"kelom",
+2
+],
+[
+"bottes sauvages",
+2
+],
+[
+"chausson",
+2
+],
+[
+"Chap boot",
+2
+],
+[
+"kanjiki",
+2
+],
+[
+"kegutsu",
+2
+],
+[
+"nalin",
+2
+],
+[
+"Desert Combat Boot",
+2
+],
+[
+"Reebok Ventilator",
+2
+],
+[
+"Reebok Zig",
+2
+],
+[
+"liturgical stockings",
+2
+],
+[
+"motocross boot",
+2
+],
+[
+"tripklomp",
+2
+],
+[
+"brodequin",
+2
+],
+[
+"racing flat",
+2
+],
+[
+"baseball shoes",
+2
+],
+[
+"organ shoe",
+2
+],
+[
+"Abaca slippers",
+2
+],
+[
+"approach shoe",
+2
+],
+[
+"Australian work boot",
+2
+],
+[
+"Bunny boots",
+2
+],
+[
+"bunny slippers",
+2
+],
+[
+"cross country running shoe",
+2
+],
+[
+"Flamenco shoes",
+2
+],
+[
+"Bethmale's clogs",
+2
+],
+[
+"Jungle boot",
+2
+],
+[
+"L'eggs",
+2
+],
+[
+"tap shoe",
+2
+],
+[
+"Motorcycle boot",
+2
+],
+[
+"Peranakan beaded slippers",
+2
+],
+[
+"straw shoes",
+2
+],
+[
+"saddle shoe",
+2
+],
+[
+"Sock and Buskin",
+2
+],
+[
+"tanker boot",
+2
+],
+[
+"Tule shoe",
+2
+],
+[
+"Wrestling shoe",
+2
+],
+[
+"Mejšle",
+2
+],
+[
+"tageta",
+2
+],
+[
+"FiORE",
+2
+],
+[
+"bowling shoe",
+2
 ]
 ]

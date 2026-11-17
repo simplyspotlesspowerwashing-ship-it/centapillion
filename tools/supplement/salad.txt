@@ -1,0 +1,52 @@
+Bean Salad=bean
+Beet Salad=beet
+Arugula Salad=arugula
+Green Salad
+Side Salad
+Tossed Salad
+Mixed Greens
+Spring Mix
+Kale Caesar
+Asian Chicken Salad
+Chinese Chicken Salad
+Buffalo Chicken Salad
+Steak Salad
+Shrimp Salad
+Crab Salad
+Lobster Salad
+Salmon Salad
+Lentil Salad
+Chickpea Salad
+Farro Salad
+Couscous Salad
+Orzo Salad
+Pasta Salad
+Antipasto Salad
+Italian Salad
+Mediterranean Salad
+Israeli Salad
+Turkish Salad
+Lebanese Salad
+Mexican Street Corn Salad
+Southwest Salad
+Strawberry Spinach Salad
+Watermelon Salad
+Apple Salad
+Pear Salad
+Snickers Salad
+Watergate Salad
+Seven-layer Salad
+Broccoli Salad
+Cauliflower Salad
+Carrot Salad
+Cucumber Tomato Salad
+Panzanella
+Burrata Salad
+Insalata Mista
+Larb
+Yum Woon Sen
+Gado-gado
+Rojak
+Kachumber
+Raita
+Waldorf

@@ -1,0 +1,878 @@
+[
+[
+"rib",
+110
+],
+[
+"clavicle",
+85
+],
+[
+"scapula",
+84
+],
+[
+"vertebra",
+81
+],
+[
+"mandible",
+80
+],
+[
+"femur",
+79
+],
+[
+"sternum",
+77
+],
+[
+"tibia",
+74
+],
+[
+"sacrum",
+71
+],
+[
+"maxilla",
+68
+],
+[
+"humerus",
+67
+],
+[
+"coccyx",
+64
+],
+[
+"zygomatic bone",
+62
+],
+[
+"patella",
+60
+],
+[
+"nasal bone",
+60
+],
+[
+"radius",
+59
+],
+[
+"frontal bone",
+58
+],
+[
+"hyoid bone",
+58
+],
+[
+"fibula",
+58
+],
+[
+"parietal bone",
+56
+],
+[
+"temporal bone",
+56
+],
+[
+"occipital bone",
+56
+],
+[
+"sphenoid bone",
+55
+],
+[
+"ulna",
+55
+],
+[
+"malleus",
+53
+],
+[
+"phalanx",
+52
+],
+[
+"vomer",
+52
+],
+[
+"ethmoid bone",
+51
+],
+[
+"dentin",
+51
+],
+[
+"lacrimal bone",
+51
+],
+[
+"palatine bone",
+51
+],
+[
+"carpal bone",
+50
+],
+[
+"tarsal bones",
+49
+],
+[
+"incus",
+49
+],
+[
+"talus",
+48
+],
+[
+"metatarsal bones",
+48
+],
+[
+"hip bone",
+48
+],
+[
+"atlas",
+48
+],
+[
+"metacarpal bones",
+47
+],
+[
+"stapes",
+47
+],
+[
+"pubic bone",
+46
+],
+[
+"cervical vertebra",
+46
+],
+[
+"calcaneus",
+45
+],
+[
+"auditory ossicle",
+43
+],
+[
+"lunate bone",
+40
+],
+[
+"scaphoid bone",
+40
+],
+[
+"inferior nasal concha",
+40
+],
+[
+"axis",
+39
+],
+[
+"baculum",
+39
+],
+[
+"hamate bone",
+38
+],
+[
+"thoracic vertebra",
+38
+],
+[
+"pisiform bone",
+38
+],
+[
+"facial skeleton",
+37
+],
+[
+"lumbar vertebrae",
+37
+],
+[
+"ilium",
+37
+],
+[
+"capitate bone",
+37
+],
+[
+"trapezoid bone",
+36
+],
+[
+"sesamoid bone",
+35
+],
+[
+"triquetral bone",
+35
+],
+[
+"ischium",
+35
+],
+[
+"navicular bone",
+34
+],
+[
+"trapezium",
+33
+],
+[
+"cuboid bone",
+32
+],
+[
+"oracle bone",
+31
+],
+[
+"cuneiform bones",
+27
+],
+[
+"long bone",
+25
+],
+[
+"premaxilla",
+23
+],
+[
+"malleolus",
+22
+],
+[
+"Coracoid",
+20
+],
+[
+"calvaria",
+20
+],
+[
+"keel",
+20
+],
+[
+"pterygopalatine fossa",
+20
+],
+[
+"Squamosal bone",
+19
+],
+[
+"tarsometatarsus",
+19
+],
+[
+"pygostyle",
+19
+],
+[
+"tibiotarsus",
+16
+],
+[
+"fabella",
+16
+],
+[
+"fish bone",
+15
+],
+[
+"bony plate",
+15
+],
+[
+"chevron",
+14
+],
+[
+"bone tool",
+14
+],
+[
+"short bone",
+13
+],
+[
+"wormian bone",
+13
+],
+[
+"flat bone",
+13
+],
+[
+"pterygoid bone",
+12
+],
+[
+"Tianyuan man",
+12
+],
+[
+"lateral epicondyle of the humerus",
+12
+],
+[
+"notarium",
+12
+],
+[
+"articular bone",
+12
+],
+[
+"bone marrow as food",
+11
+],
+[
+"middle phalanx",
+11
+],
+[
+"irregular bone",
+11
+],
+[
+"angular bone",
+11
+],
+[
+"carpometacarpus",
+11
+],
+[
+"sequestrum",
+10
+],
+[
+"prefrontal bone",
+10
+],
+[
+"distal phalanx",
+10
+],
+[
+"proximal phalanx",
+10
+],
+[
+"phalanx of finger",
+10
+],
+[
+"lateral cuneiform bone",
+10
+],
+[
+"second metacarpal bone",
+10
+],
+[
+"third metacarpal bone",
+10
+],
+[
+"interparietal bone",
+10
+],
+[
+"phalanx of foot",
+9
+],
+[
+"medial cuneiform bone",
+9
+],
+[
+"fifth metacarpal bone",
+9
+],
+[
+"fourth metacarpal bone",
+9
+],
+[
+"first metacarpal bone",
+9
+],
+[
+"epipubic bone",
+8
+],
+[
+"accessory navicular bone",
+8
+],
+[
+"membranous bone",
+8
+],
+[
+"intermediate cuneiform bone",
+8
+],
+[
+"splenial bone",
+8
+],
+[
+"parasphenoid",
+7
+],
+[
+"interclavicle",
+7
+],
+[
+"columella",
+7
+],
+[
+"human mandible",
+7
+],
+[
+"first metatarsal bone",
+7
+],
+[
+"human sternum",
+7
+],
+[
+"Baubellum",
+6
+],
+[
+"fifth metatarsal bone",
+6
+],
+[
+"lateral part of occipital bone",
+6
+],
+[
+"tuberosity of the tibia",
+6
+],
+[
+"coccygeal vertebra",
+5
+],
+[
+"false rib",
+5
+],
+[
+"accessory bone",
+5
+],
+[
+"fourth metatarsal bone",
+5
+],
+[
+"palpebral bone",
+5
+],
+[
+"second metatarsal bone",
+5
+],
+[
+"third metatarsal bone",
+5
+],
+[
+"Predentary",
+5
+],
+[
+"intrajugular process",
+4
+],
+[
+"os trigonum",
+4
+],
+[
+"dentary bone",
+4
+],
+[
+"sacral promontory",
+4
+],
+[
+"Epipterygoid",
+3
+],
+[
+"pork bones",
+3
+],
+[
+"Postfrontal bone",
+3
+],
+[
+"bone as food",
+3
+],
+[
+"os talonaviculare dorsale",
+3
+],
+[
+"whalebone",
+3
+],
+[
+"C7 vertebra",
+3
+],
+[
+"Coffin bone",
+3
+],
+[
+"true rib",
+3
+],
+[
+"beef bones",
+2
+],
+[
+"pneumatized bone",
+2
+],
+[
+"middle phalanx of foot",
+2
+],
+[
+"Basisphenoid",
+2
+],
+[
+"Ossa cordis",
+2
+],
+[
+"C3 vertebra",
+2
+],
+[
+"os centrale",
+2
+],
+[
+"human occipital bone",
+2
+],
+[
+"arm bone",
+2
+],
+[
+"distal phalanx of finger",
+2
+],
+[
+"cyamella",
+2
+],
+[
+"eleventh rib",
+2
+],
+[
+"ala of sacrum",
+2
+],
+[
+"Scorpiones sterna",
+2
+],
+[
+"basisphenoid",
+2
+],
+[
+"Filtben",
+1
+],
+[
+"Episternal ossicles",
+1
+],
+[
+"metatarsal bone",
+1
+],
+[
+"second rib",
+1
+],
+[
+"endochondral bone",
+1
+],
+[
+"forearm bones",
+1
+],
+[
+"Oloch",
+1
+],
+[
+"Ugan",
+1
+],
+[
+"Os compedale",
+1
+],
+[
+"Ossa metacarpalia",
+1
+],
+[
+"bone of hand",
+1
+],
+[
+"Caudal vertebra",
+1
+],
+[
+"bare bones",
+1
+],
+[
+"Os subcalcaneum",
+1
+],
+[
+"human bone",
+1
+],
+[
+"acoelous vertebrae",
+1
+],
+[
+"amphicoelous vertebrae",
+1
+],
+[
+"proximal phalanx of foot",
+1
+],
+[
+"distal phalanx of foot",
+1
+],
+[
+"antler",
+1
+],
+[
+"heterocoelous vertebrae",
+1
+],
+[
+"opisthocoelous vertebrae",
+1
+],
+[
+"unpaired bone",
+1
+],
+[
+"paired bone",
+1
+],
+[
+"procoelous vertebrae",
+1
+],
+[
+"extra rib",
+1
+],
+[
+"T1 vertebra",
+1
+],
+[
+"T2 vertebra",
+1
+],
+[
+"T3 vertebra",
+1
+],
+[
+"T4 vertebra",
+1
+],
+[
+"T5 vertebra",
+1
+],
+[
+"T6 vertebra",
+1
+],
+[
+"T7 vertebra",
+1
+],
+[
+"T8 vertebra",
+1
+],
+[
+"T9 vertebra",
+1
+],
+[
+"T10 vertebra",
+1
+],
+[
+"T11 vertebra",
+1
+],
+[
+"T12 vertebra",
+1
+],
+[
+"L1 vertebra",
+1
+],
+[
+"L2 vertebra",
+1
+],
+[
+"L3 vertebra",
+1
+],
+[
+"L4 vertebra",
+1
+],
+[
+"L5 vertebra",
+1
+],
+[
+"sacral vertebra",
+1
+],
+[
+"C4 vertebra",
+1
+],
+[
+"C5 vertebra",
+1
+],
+[
+"C6 vertebra",
+1
+],
+[
+"third rib",
+1
+],
+[
+"fourth rib",
+1
+],
+[
+"fifth rib",
+1
+],
+[
+"sixth rib",
+1
+],
+[
+"seventh rib",
+1
+],
+[
+"eighth rib",
+1
+],
+[
+"ninth rib",
+1
+],
+[
+"first rib",
+1
+],
+[
+"sesamoid bone of hand",
+1
+],
+[
+"periotic bone",
+1
+],
+[
+"Stratton Parker syndrome",
+1
+],
+[
+"tenth rib",
+1
+],
+[
+"twelfth rib",
+1
+]
+]

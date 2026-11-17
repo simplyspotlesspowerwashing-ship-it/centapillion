@@ -1,0 +1,55 @@
+Craft Beer
+NEIPA=new england ipa
+Hazy IPA
+West Coast IPA
+Session IPA
+Triple IPA
+Black IPA
+Belgian Ale
+Belgian White
+Kriek
+Framboise
+Gueuze
+Flanders Red
+Oud Bruin
+Wild Ale
+Farmhouse Ale
+Biere de Garde
+Scotch Ale
+Wee Heavy
+Irish Red
+English Bitter
+ESB
+Mild
+Golden Ale
+Kellerbier
+Zwickelbier
+Maibock
+Eisbock
+Weizenbock
+Dunkelweizen
+Kristallweizen
+Roggenbier
+Steam Beer
+California Common
+Baltic Porter
+Russian Imperial Stout
+Pastry Stout
+Coffee Stout
+Chocolate Stout
+Oyster Stout
+Pumpkin Ale
+Winter Warmer
+Christmas Ale
+Fruit Beer
+Shandy
+Radler
+Michelada
+Malt Liquor
+Ice Beer
+Dry Beer
+Rice Lager
+Mexican Lager
+Japanese Lager
+Non-alcoholic Beer
+Root Beer

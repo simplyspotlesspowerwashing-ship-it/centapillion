@@ -26,6 +26,13 @@ def taxon(clade, min_sl):
     return {"where": "?x wdt:P171+ wd:%s . ?x wdt:P1843 ?cn . FILTER(lang(?cn) = 'en')" % clade, "min": min_sl, "common": True}
 
 
+def kinds(*qids, **kw):
+    """Every type of a thing: all sub-types (P279+) and direct instances of the given classes."""
+    vals = " ".join("wd:" + q for q in qids)
+    deep = "wdt:P279+" if kw.get("deep") else "wdt:P279|wdt:P279/wdt:P279"   # two levels keeps out products and oddities
+    return {"where": "VALUES ?k { %s } ?x %s ?k ." % (vals, deep), "min": kw.get("min", 2)}
+
+
 # People lists: a job title alone lets in anyone who once had that job (Trump as an actor,
 # Einstein as an author), so each requires real output in the field.
 NOT = "MINUS { VALUES ?no { %s } ?x wdt:P106 ?no }"
@@ -74,6 +81,19 @@ SPEC = {
     "berry": {"where": "?x %s wd:Q13184 ." % KIND, "min": 3},
     "superhero": {"where": "?x wdt:P106 wd:Q188784 .", "min": 3},
     "superhero_villain": {"where": "?x wdt:P9071 wd:Q6498903 .", "min": 3},
+    "kitchen": kinds("Q3773693", "Q1521410"),
+    "breakfast": kinds("Q80973"),
+    "coffee": kinds("Q37756327", "Q8486"),
+    "icecream": kinds("Q13233"),
+    "bone": kinds("Q265868", "Q25513701", min=1),
+    "organ": {"where": "{ ?x wdt:P279+ wd:Q712378 } UNION { ?x wdt:P279+ wd:Q25449120 } MINUS { ?x wdt:P279+ wd:Q24060707 }", "min": 3},  # not plant organs
+    "shape": kinds("Q815741", "Q37555", "Q172937", "Q4365210", min=2),  # geometric shapes, polygons, polyhedra
+    "tree": kinds("Q10884", min=1, deep=True),
+    "flower": kinds("Q506", min=1),
+    "landmark": {"where": "?x wdt:P1435 wd:Q9259 .", "min": 25},  # World Heritage Sites with wide coverage
+    "socialapp": {"where": "VALUES ?k { wd:Q3220391 wd:Q620615 wd:Q1668024 } ?x wdt:P31 ?k .", "min": 25},  # social networks, apps
+    "christmassong": {"where": "?x wdt:P136 wd:Q1443316 ; wdt:P31 ?t . VALUES ?t { wd:Q7366 wd:Q134556 wd:Q105543609 wd:Q2188189 }", "min": 0},  # songs and singles only
+    "seacreature": taxon("Q25326", 5),  # molluscs; fish/sharks/whales come from the composite
     "africa": {"where": "?x wdt:P31 wd:Q3624078 ; wdt:P30 wd:Q15 . FILTER NOT EXISTS { ?x wdt:P576 ?end }", "min": 0},
     "asia": {"where": "?x wdt:P31 wd:Q3624078 ; wdt:P30 wd:Q48 . FILTER NOT EXISTS { ?x wdt:P576 ?end }", "min": 0},
     "europe": {"where": "?x wdt:P31 wd:Q3624078 ; wdt:P30 wd:Q46 . FILTER NOT EXISTS { ?x wdt:P576 ?end }", "min": 0},
@@ -86,7 +106,7 @@ SPEC = {
     "waterfall": {"where": "?x wdt:P31 wd:Q34038 .", "min": 5},
     "volcano": {"where": "?x %s wd:Q8072 ." % ISA, "min": 10},
     "mountain": {"where": "?x wdt:P31 wd:Q8502 .", "min": 25},
-    "bridge": {"where": "?x wdt:P31 wd:Q12280 .", "min": 15},
+    "bridge": {"where": "?x wdt:P31/wdt:P279* wd:Q12280 .", "min": 8},
     "japancity": {"where": "?x wdt:P31 wd:Q494721 .", "min": 3},
     "italycity": {"where": "?x wdt:P31 wd:Q747074 .", "min": 30},
     "germanycity": {"where": "?x wdt:P17 wd:Q183 ; wdt:P31 ?t . ?t wdt:P279* wd:Q515 .", "min": 25},
@@ -102,7 +122,7 @@ SPEC = {
     "videogame": {"where": "?x wdt:P31 wd:Q7889 .", "min": 35},
     "console": {"where": "?x wdt:P279+ wd:Q8076 .", "min": 12},  # console models are subclasses; the floor drops obscure Pong clones
     "sitcom": {"where": "?x wdt:P136 wd:Q170238 .", "min": 12},
-    "musical": {"where": "?x wdt:P136 wd:Q2743 . MINUS { ?x wdt:P31/wdt:P279* wd:Q11424 } MINUS { ?x wdt:P31/wdt:P279* wd:Q482994 }", "min": 6},  # stage musicals: genre musical, not films/albums
+    "musical": {"where": "?x wdt:P1219 ?ibdb ; wdt:P86 ?composer . MINUS { ?x wdt:P31/wdt:P279* wd:Q1344 } MINUS { ?x wdt:P31/wdt:P279* wd:Q2107 } MINUS { ?x wdt:P136 wd:Q1344 }", "min": 0},  # Broadway (IBDB) shows with a composer; not operas or ballets
     "band": {"where": "?x wdt:P31 wd:Q5741069 .", "min": 30},
     "shakespeare": {"where": "?x wdt:P50 wd:Q692 ; wdt:P31/wdt:P279* wd:Q25379 .", "min": 0},
     "harrypotter": {"where": "?x wdt:P1080 wd:Q5410773 ; wdt:P31/wdt:P279* wd:Q95074 .", "min": 0},
@@ -121,7 +141,7 @@ SPEC = {
     "soup": {"where": "?x %s wd:Q41415 ." % KIND, "min": 3},
     "condiment": {"where": "{ ?x %s wd:Q2596997 . } UNION { ?x %s wd:Q178359 . }" % (KIND, KIND), "min": 3},
     "pasta": {"where": "?x %s wd:Q178 ." % KIND, "min": 2},
-    "dumpling": {"where": "?x %s wd:Q1854639 ." % KIND, "min": 2},
+    "dumpling": kinds("Q1854639"),
     "cookie": {"where": "?x %s wd:Q13266 ." % KIND, "min": 2},
     "fastfood": {"where": "?x wdt:P31 wd:Q18509232 .", "min": 5},
     "candy": {"where": "?x %s wd:Q1361086 ." % KIND, "min": 2},
@@ -130,7 +150,7 @@ SPEC = {
     "beer": {"where": "?x %s wd:Q1998962 ." % KIND, "min": 2},
     "bread": {"where": "?x %s wd:Q7802 ." % KIND, "min": 3},
     "tea": {"where": "?x %s wd:Q6097 ." % KIND, "min": 3},
-    "mushroom": {"where": "?x %s wd:Q654236 ." % KIND, "min": 3},
+    "mushroom": taxon("Q221448", 3),  # Agaricales
     "potato": {"where": "?x %s wd:Q10514020 ." % KIND, "min": 2},
     "salad": {"where": "?x %s wd:Q9266 ." % KIND, "min": 2},
     "spice": {"where": "{ ?x %s wd:Q42527 . } UNION { ?x %s wd:Q207123 . }" % (KIND, KIND), "min": 5},
@@ -139,33 +159,33 @@ SPEC = {
     "japanesefood": {"where": "?x wdt:P2012 wd:Q234138 . MINUS { ?x wdt:P31/wdt:P279* wd:Q43229 } MINUS { ?x wdt:P31/wdt:P279* wd:Q11707 }", "min": 3},  # dishes, not restaurants
     "mexicanfood": {"where": "?x wdt:P2012 wd:Q207965 . MINUS { ?x wdt:P31/wdt:P279* wd:Q43229 } MINUS { ?x wdt:P31/wdt:P279* wd:Q11707 }", "min": 3},  # dishes, not restaurants
     "indianfood": {"where": "?x wdt:P2012 wd:Q192087 . MINUS { ?x wdt:P31/wdt:P279* wd:Q43229 } MINUS { ?x wdt:P31/wdt:P279* wd:Q11707 }", "min": 3},  # dishes, not restaurants
-    "fairytale": {"where": "?x wdt:P31 wd:Q699 .", "min": 8},
-    "nurseryrhyme": {"where": "?x wdt:P31 wd:Q1123037 .", "min": 2},
+    "fairytale": {"where": "?x wdt:P31 wd:Q699 .", "min": 2},
+    "nurseryrhyme": {"where": "?x wdt:P31 wd:Q1123037 .", "min": 0},
     "painting": {"where": "?x wdt:P31 wd:Q3305213 .", "min": 25},
     "cartoon": {"where": "?x wdt:P31 wd:Q15711870 .", "min": 15},
     "holiday": {"where": "{ ?x wdt:P31 wd:Q1197685 . } UNION { ?x wdt:P31 wd:Q1445650 . }", "min": 15},
     "language": {"where": "?x wdt:P31 wd:Q9143 .", "min": 6},
-    "disease": {"where": "?x wdt:P31 wd:Q12136 .", "min": 40},
+    "disease": {"where": "{ ?x wdt:P31 wd:Q12136 } UNION { ?x wdt:P279+ wd:Q12136 }", "min": 15},
     "moon": {"where": "VALUES ?p { wd:Q2 wd:Q111 wd:Q319 wd:Q193 wd:Q324 wd:Q332 wd:Q339 } ?x wdt:P397 ?p ; wdt:P31/wdt:P279* wd:Q2537 .", "min": 0},  # moons of the planets and Pluto
     "constellation": {"where": "?x wdt:P31 wd:Q8928 .", "min": 0},
     "currency": {"where": "?x wdt:P31 wd:Q8142 .", "min": 10},
     "unit": {"where": "?x %s wd:Q47574 ." % KIND, "min": 15},
     "instrument": {"where": "?x %s wd:Q34379 ." % KIND, "min": 15},
     "musicgenre": {"where": "?x wdt:P31 wd:Q188451 .", "min": 20},
-    "dance": {"where": "?x %s wd:Q11639 ." % KIND, "min": 10},
+    "dance": kinds("Q11639", min=3, deep=True),
     "sport": {"where": "?x %s wd:Q349 ." % KIND, "min": 15},
     "boardgame": {"where": "?x wdt:P31 wd:Q131436 .", "min": 5},
     "card": {"where": "?x wdt:P31 wd:Q142714 .", "min": 5},
     "carbrand": {"where": "?x wdt:P31 wd:Q786820 .", "min": 15},
     "profession": {"where": "?x wdt:P31 wd:Q28640 .", "min": 20},
-    "toy": {"where": "?x %s wd:Q11422 ." % KIND, "min": 10},
+    "toy": kinds("Q11422", min=3),
     "clothing": {"where": "?x wdt:P279 wd:Q11460 .", "min": 10},
-    "hat": {"where": "?x %s wd:Q80151 ." % KIND, "min": 5},
-    "shoe": {"where": "?x %s wd:Q22676 ." % KIND, "min": 5},
-    "furniture": {"where": "?x wdt:P279 wd:Q14745 .", "min": 8},
-    "tool": {"where": "?x %s wd:Q2578402 ." % KIND, "min": 5},
-    "gem": {"where": "?x %s wd:Q83437 ." % KIND, "min": 5},
-    "fabric": {"where": "?x %s wd:Q28823 ." % KIND, "min": 5},
+    "hat": {"where": "{ ?x wdt:P279+ wd:Q80151 } UNION { ?x wdt:P31 wd:Q80151 } UNION { ?x wdt:P279 wd:Q14952 } MINUS { ?x wdt:P279* wd:Q173603 }", "min": 2},  # hats and direct kinds of headgear, not helmets
+    "shoe": {"where": "{ ?x wdt:P279+ wd:Q22676 } UNION { ?x wdt:P279+ wd:Q161928 } MINUS { ?x wdt:P279* wd:Q43663 }", "min": 2},  # not socks
+    "furniture": kinds("Q14745"),
+    "tool": kinds("Q2578402"),
+    "gem": kinds("Q83437"),
+    "fabric": kinds("Q28823", min=3),
     "nut": {"where": "?x %s wd:Q11009 ." % KIND, "min": 5},
     "mammal": taxon("Q7377", 30),
     "shark": taxon("Q7372", 5),
@@ -175,7 +195,7 @@ SPEC = {
     "amphibian": taxon("Q10908", 20),
     "reptile": {"where": "VALUES ?c { wd:Q122422 wd:Q223044 wd:Q25363 wd:Q15099738 } ?x wdt:P171+ ?c . ?x wdt:P1843 ?cn . FILTER(lang(?cn) = 'en')", "min": 3, "common": True},  # squamates, turtles, crocodilians, tuatara (not birds)
     "bird": taxon("Q5113", 40),
-    "insect": taxon("Q1390", 40),
+    "insect": taxon("Q1390", 8),
 }
 
 

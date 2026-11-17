@@ -172,7 +172,8 @@
       String(CP.COMMON_WORDS || "").split(" ").forEach(function (w) { if (w) commonSet[w] = 1; });
     }
     var t = String(norm || "").split(" ").filter(Boolean);
-    return t.length > 0 && t.every(function (w) { return w.length < 4 || commonSet[w] === 1; });
+    // short words alone ("jim jim") are not enough to call a phrase common
+    return t.some(function (w) { return w.length >= 4; }) && t.every(function (w) { return w.length < 4 || commonSet[w] === 1; });
   }
 
   var indexCache = {};
@@ -202,6 +203,14 @@
     TIER_IDS.forEach(function (tid) { addList(prompt.t[tid], tid, false); });
     var ex = CP.EXTRA && CP.EXTRA[prompt.id];
     if (ex) ["s", "r", "d"].forEach(function (tid) { addList(ex[tid], tid, true); });
+    // Extra spellings for hand answers ("larry>Larry Koopa").
+    if (ex && ex.a) ex.a.split("|").forEach(function (pair) {
+      var bits = pair.split(">"), k = compact(bits[0]);
+      if (!k || k in map) return;
+      for (var i = 0; i < answers.length; i++) if (answers[i].name === bits[1]) {
+        map[k] = i; answers[i].keys.push(k); answers[i].aliases.push(bits[0]); break;
+      }
+    });
 
     // Secondary keys: category words dropped, and word order ignored.
     var g = genericWords(prompt);
@@ -220,7 +229,9 @@
     var keys = Object.keys(map).concat(Object.keys(alt));
     var phon = {};
     keys.forEach(function (k) { phon[k] = phonetic(k); });
-    var idx = { answers: answers, map: map, alt: alt, keys: keys, phon: phon, generic: g };
+    var byLen = {};
+    keys.forEach(function (k) { (byLen[k.length] = byLen[k.length] || []).push(k); });
+    var idx = { answers: answers, map: map, alt: alt, keys: keys, phon: phon, generic: g, byLen: byLen };
     indexCache[prompt.id] = idx;
     return idx;
   }
@@ -307,9 +318,10 @@
       var cap = allowedTypos(t.length);
       if (!cap) return;
       var tp = phonetic(t);
-      for (var i = 0; i < idx.keys.length; i++) {
-        var k = idx.keys[i];
-        if (k.length < 4 || Math.abs(k.length - t.length) > cap + 1) continue;
+      var near = [];
+      for (var L = Math.max(4, t.length - cap - 1); L <= t.length + cap + 1; L++) if (idx.byLen[L]) near = near.concat(idx.byLen[L]);
+      for (var i = 0; i < near.length; i++) {
+        var k = near[i];
         var d = editDistance(t, k, cap + 1);
         var a = keyAnswer(idx, k);
         // Generated answers are mostly obscure names: only fix small slips on long words.
@@ -430,12 +442,13 @@
     cat.ids.forEach(function (x) { want[x] = true; });
     return bank.filter(function (p) { return want[p.id]; });
   }
+  // One set of seven per category per day (n = day number), skipping that day's daily prompts.
   function promptsForCategory(id, n, bank) {
     var sub = categoryBank(id, bank);
     if (sub.length < CONFIG.ROUNDS) return [];
     var salt = 0xca7;
     for (var i = 0; i < id.length; i++) salt = (salt * 31 + id.charCodeAt(i)) % 1000003;
-    return sequenceSet(n, sub, salt);
+    return sequenceSet(n, sub, salt, promptsForDay(n, bank));
   }
 
   // Each pass is a reshuffle of the whole bank. Prompts from the second half
@@ -458,16 +471,19 @@
     return order;
   }
 
-  function sequenceSet(n, bank, salt) {
+  // exclude: prompts to skip if possible (a category set avoids that day's daily prompts).
+  function sequenceSet(n, bank, salt, exclude) {
     var N = bank.length;
     var out = [];
-    var pos = Math.max(0, n - 1) * CONFIG.ROUNDS;
-    var guard = 0;
-    while (out.length < CONFIG.ROUNDS && guard < N * 3) {
-      var pass = Math.floor(pos / N);
-      var p = bank[passOrder(N, salt, pass)[pos % N]];
-      if (out.indexOf(p) === -1) out.push(p);
-      pos++; guard++;
+    var start = Math.max(0, n - 1) * CONFIG.ROUNDS;
+    for (var strict = exclude && exclude.length ? 1 : 0; strict >= 0 && out.length < CONFIG.ROUNDS; strict--) {
+      var pos = start, guard = 0;
+      while (out.length < CONFIG.ROUNDS && guard < N * 3) {
+        var pass = Math.floor(pos / N);
+        var p = bank[passOrder(N, salt, pass)[pos % N]];
+        if (out.indexOf(p) === -1 && !(strict && exclude.indexOf(p) !== -1)) out.push(p);
+        pos++; guard++;
+      }
     }
     return out;
   }

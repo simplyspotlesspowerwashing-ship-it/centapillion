@@ -1,0 +1,72 @@
+Jerry=jerry mouse
+Squidward=squidward tentacles
+Arthur=arthur read
+Casper=casper the friendly ghost
+Tom=tom cat
+Plankton
+Mr. Krabs
+Sandy Cheeks
+Gary
+Rocko
+Ren
+Stimpy
+Doug
+Patti Mayonnaise
+Angelica
+Chuckie
+Phil and Lil
+Reptar
+Hey Arnold=arnold
+Helga
+Timmy Turner
+Cosmo
+Wanda
+Jimmy Neutron
+Danny Phantom
+Aang
+Zuko
+Katara
+Sokka
+Toph
+Finn
+Jake the Dog
+Princess Bubblegum
+Marceline
+Mordecai
+Rigby
+Gumball
+Darwin
+Steven Universe
+Dipper
+Mabel
+Bill Cipher
+Phineas
+Ferb
+Perry the Platypus
+Dr. Doofenshmirtz
+Kim Possible
+Ron Stoppable
+Bluey
+Bingo
+Peppa Pig
+George Pig
+Rick Sanchez
+Morty
+BoJack Horseman
+Bob Belcher
+Tina Belcher
+Louise Belcher
+Hank Hill
+Bobby Hill
+Beavis
+Butt-Head
+Daria
+Archer
+Stan Smith
+Roger the Alien
+Brian Griffin
+Lois Griffin
+Quagmire
+Kenny McCormick
+Kyle Broflovski
+Stan Marsh

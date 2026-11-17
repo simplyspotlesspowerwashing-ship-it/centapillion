@@ -4,6 +4,10 @@
 167
 ],
 [
+"pearl",
+121
+],
+[
 "emerald",
 109
 ],
@@ -24,6 +28,10 @@
 88
 ],
 [
+"lapis lazuli",
+80
+],
+[
 "jade",
 74
 ],
@@ -32,8 +40,28 @@
 60
 ],
 [
+"jet",
+46
+],
+[
 "peridot",
 43
+],
+[
+"nephrite",
+41
+],
+[
+"brilliant",
+40
+],
+[
+"blood diamond",
+38
+],
+[
+"synthetic diamond",
+37
 ],
 [
 "Cintāmaṇi",
@@ -44,6 +72,14 @@
 24
 ],
 [
+"engraved gem",
+22
+],
+[
+"carbonado",
+21
+],
+[
 "cabochon",
 20
 ],
@@ -52,11 +88,27 @@
 19
 ],
 [
+"sardonyx",
+18
+],
+[
+"Aggregated diamond nanorod",
+18
+],
+[
 "heliodor",
 16
 ],
 [
+"bort",
+15
+],
+[
 "birthstone",
+14
+],
+[
+"moss agate",
 14
 ],
 [
@@ -64,20 +116,12 @@
 14
 ],
 [
-"Arkenstone",
-13
-],
-[
 "precious stone",
 13
 ],
 [
-"Black Prince's Ruby",
-11
-],
-[
-"Timur Ruby",
-9
+"Chinese jade",
+10
 ],
 [
 "semiprecious stone",
@@ -88,12 +132,32 @@
 7
 ],
 [
-"Samarian Spinel",
+"Golconda Diamonds",
 7
 ],
 [
 "Eilat stone",
 7
+],
+[
+"cymophane",
+7
+],
+[
+"opalite",
+7
+],
+[
+"ballas",
+7
+],
+[
+"rough diamond",
+6
+],
+[
+"padparadscha",
+6
 ],
 [
 "diamond simulant",
@@ -106,5 +170,141 @@
 [
 "Minoan sealstone",
 6
+],
+[
+"pink diamond",
+5
+],
+[
+"nanodiamonds",
+5
+],
+[
+"trapiche emerald",
+5
+],
+[
+"blue diamond",
+5
+],
+[
+"brown diamond",
+5
+],
+[
+"plasma agate",
+4
+],
+[
+"Colombian emerald",
+4
+],
+[
+"lyngurium",
+4
+],
+[
+"cat's eye quartz",
+4
+],
+[
+"blue lace agate",
+4
+],
+[
+"red diamond",
+4
+],
+[
+"trapiche crystal",
+4
+],
+[
+"Cardinal gem",
+4
+],
+[
+"Isotopically pure diamond",
+4
+],
+[
+"Lake Superior agate",
+4
+],
+[
+"Lapis armenus",
+4
+],
+[
+"gem",
+3
+],
+[
+"rose diamond",
+3
+],
+[
+"color diamond",
+3
+],
+[
+"sapphire glass",
+3
+],
+[
+"aetites",
+3
+],
+[
+"sardine",
+3
+],
+[
+"Derbyshire Blue John",
+3
+],
+[
+"Umba sapphire",
+3
+],
+[
+"Taiwan Black Jade",
+2
+],
+[
+"Taiwan Jade",
+2
+],
+[
+"tumble-polished stones",
+2
+],
+[
+"synthetic gemstone",
+2
+],
+[
+"industrial diamond",
+2
+],
+[
+"cat's eye",
+2
+],
+[
+"Akik",
+2
+],
+[
+"assembled gem",
+2
+],
+[
+"doublet (lapidary)",
+2
+],
+[
+"Enhydro agate",
+2
 ]
 ]

@@ -1,23 +1,227 @@
 [
 [
+"ballet",
+119
+],
+[
+"flamenco",
+112
+],
+[
+"tango",
+90
+],
+[
+"waltz",
+81
+],
+[
+"folk dance",
+76
+],
+[
+"breakdance",
+73
+],
+[
+"capoeira",
+71
+],
+[
+"belly dance",
+68
+],
+[
+"striptease",
+64
+],
+[
+"polka",
+62
+],
+[
+"haka",
+62
+],
+[
+"Bharatanatyam",
+61
+],
+[
+"polonaise",
+56
+],
+[
+"mazurka",
+55
+],
+[
 "cheerleading",
 54
+],
+[
+"salsa",
+53
+],
+[
+"minuet",
+50
+],
+[
+"can can",
+48
+],
+[
+"pasodoble",
+47
+],
+[
+"foxtrot",
+47
+],
+[
+"Kathakali",
+47
+],
+[
+"ballroom dance",
+46
+],
+[
+"cha-cha-cha",
+45
+],
+[
+"csárdás",
+45
+],
+[
+"tap dance",
+44
+],
+[
+"tarantella",
+44
 ],
 [
 "twist",
 44
 ],
 [
+"lion dance",
+44
+],
+[
+"modern dance",
+43
+],
+[
 "mambo",
 42
+],
+[
+"twerking",
+42
+],
+[
+"jive",
+41
+],
+[
+"gavotte",
+41
+],
+[
+"Kathak",
+41
+],
+[
+"Odissi",
+39
+],
+[
+"allemande",
+38
+],
+[
+"rainmaking rites",
+38
+],
+[
+"hopak",
+37
 ],
 [
 "pole dance",
 37
 ],
 [
+"quadrille",
+37
+],
+[
+"lambada",
+37
+],
+[
 "merengue",
 36
+],
+[
+"dragon dance",
+36
+],
+[
+"quickstep",
+36
+],
+[
+"rhumba",
+35
+],
+[
+"Sirtaki",
+35
+],
+[
+"dancesport",
+35
+],
+[
+"cumbia",
+34
+],
+[
+"lezginka",
+34
+],
+[
+"kuchipudi",
+34
+],
+[
+"Kalinka",
+34
+],
+[
+"krakowiak",
+34
+],
+[
+"Mohiniyattam",
+33
+],
+[
+"Chhau dance",
+32
+],
+[
+"chaconne",
+32
+],
+[
+"bourrée",
+32
 ],
 [
 "Charleston",
@@ -28,11 +232,75 @@
 31
 ],
 [
+"bolero",
+31
+],
+[
+"Manipuri dance",
+31
+],
+[
+"Muixeranga",
+31
+],
+[
+"courante",
+31
+],
+[
+"Viennese waltz",
+31
+],
+[
+"fandango",
+30
+],
+[
+"lindy hop",
+30
+],
+[
+"dabke",
+30
+],
+[
+"contemporary dance",
+30
+],
+[
 "jazz dance",
 30
 ],
 [
+"kolo",
+29
+],
+[
+"Irish dance",
+29
+],
+[
+"swing",
+29
+],
+[
+"sardana",
+29
+],
+[
 "moshing",
+29
+],
+[
+"Indian classical dance",
+29
+],
+[
+"galliard",
+29
+],
+[
+"hula",
 29
 ],
 [
@@ -40,12 +308,80 @@
 28
 ],
 [
+"street dance",
+28
+],
+[
 "eurythmy",
 28
 ],
 [
+"sun dance",
+28
+],
+[
+"pas de deux",
+28
+],
+[
+"jig",
+27
+],
+[
+"Cham dance",
+27
+],
+[
+"La Bamba",
+27
+],
+[
 "habanera",
 27
+],
+[
+"dangdut",
+26
+],
+[
+"farandole",
+26
+],
+[
+"Yakshagana",
+26
+],
+[
+"Ländler",
+26
+],
+[
+"Ganggangsullae",
+26
+],
+[
+"lap dance",
+26
+],
+[
+"hora",
+26
+],
+[
+"Oberek",
+26
+],
+[
+"bachata",
+25
+],
+[
+"Kagura",
+25
+],
+[
+"Diablada",
+25
 ],
 [
 "Melbourne shuffle",
@@ -56,7 +392,39 @@
 25
 ],
 [
+"Indian dance",
+25
+],
+[
+"Passepied",
+25
+],
+[
+"jitterbug",
+25
+],
+[
+"candombe",
+24
+],
+[
+"frevo",
+24
+],
+[
+"circle dance",
+24
+],
+[
 "Limbo",
+24
+],
+[
+"Morris dance",
+24
+],
+[
+"contra dance",
 24
 ],
 [
@@ -64,12 +432,120 @@
 24
 ],
 [
+"popping",
+24
+],
+[
+"Danza de los Voladores",
+23
+],
+[
+"Chicken Dance",
+23
+],
+[
+"air guitar",
+23
+],
+[
+"hip hop dance",
+23
+],
+[
+"classical ballet",
+23
+],
+[
+"Saman",
+23
+],
+[
 "social dance",
 23
 ],
 [
+"Chinese dance",
+23
+],
+[
+"tecktonik",
+23
+],
+[
+"vogue",
+22
+],
+[
+"square dance",
+22
+],
+[
+"Legong",
+22
+],
+[
+"bhangra",
+22
+],
+[
+"cotillion",
+22
+],
+[
 "pogo",
 22
+],
+[
+"giddha",
+22
+],
+[
+"chamamé",
+21
+],
+[
+"samba",
+21
+],
+[
+"Kochari",
+21
+],
+[
+"kozachok",
+21
+],
+[
+"Kecak",
+21
+],
+[
+"soukous",
+21
+],
+[
+"kujawiak",
+21
+],
+[
+"Kalbelia",
+21
+],
+[
+"Azerbaijani folk dance",
+21
+],
+[
+"lakalaka",
+21
+],
+[
+"go-go dancing",
+21
+],
+[
+"branle",
+21
 ],
 [
 "cakewalk",
@@ -80,7 +556,51 @@
 20
 ],
 [
+"hornpipe",
+20
+],
+[
+"rigaudon",
+20
+],
+[
+"talchum",
+20
+],
+[
+"opéra-ballet",
+19
+],
+[
+"Rueda de Casino",
+19
+],
+[
+"Mak yong",
+19
+],
+[
+"verbunkos",
+19
+],
+[
+"Bihu dance",
+19
+],
+[
 "Zaouli",
+19
+],
+[
+"dandiya raas",
+19
+],
+[
+"Cheoyongmu",
+19
+],
+[
+"acrobatic rock'n'roll",
 19
 ],
 [
@@ -88,7 +608,59 @@
 19
 ],
 [
+"boogie-woogie",
+19
+],
+[
+"céilidh",
+18
+],
+[
+"Tinikling",
+18
+],
+[
+"schottische",
+18
+],
+[
+"Ardah",
+18
+],
+[
+"sword dance",
+18
+],
+[
+"chacarera",
+18
+],
+[
+"saltarello",
+18
+],
+[
+"humppa",
+17
+],
+[
 "montea",
+17
+],
+[
+"seguidilla",
+17
+],
+[
+"Pendet",
+17
+],
+[
+"Arkan",
+17
+],
+[
+"bambuco",
 17
 ],
 [
@@ -96,7 +668,99 @@
 17
 ],
 [
+"Balinese dance",
+17
+],
+[
+"Awa Dance Festival",
+16
+],
+[
+"joropo",
+16
+],
+[
+"écossaise",
+16
+],
+[
+"loure",
+16
+],
+[
+"furlana",
+16
+],
+[
+"Kolomyjka",
+16
+],
+[
+"Argentine tango",
+16
+],
+[
+"tahtib",
+16
+],
+[
+"Sattriya",
+16
+],
+[
+"Maculelê",
+16
+],
+[
+"Wheelchair dancesport",
+16
+],
+[
+"Ghoomar",
+16
+],
+[
+"tropak",
+16
+],
+[
+"Menora",
+16
+],
+[
+"nijemo kolo",
+16
+],
+[
+"cueca",
+16
+],
+[
+"Balboa",
+16
+],
+[
+"sevillanas",
+16
+],
+[
+"khorovod",
+15
+],
+[
 "Contact Improvisation",
+15
+],
+[
+"Chakkirako",
+15
+],
+[
+"reel",
+15
+],
+[
+"nihon-buyō",
 15
 ],
 [
@@ -108,7 +772,51 @@
 15
 ],
 [
+"Soleá",
+15
+],
+[
+"Attan",
+15
+],
+[
+"Qaytarma",
+15
+],
+[
+"acro dance",
+15
+],
+[
+"Čoček",
+15
+],
+[
+"hasapiko",
+15
+],
+[
+"Tari Piring",
+15
+],
+[
 "African dance",
+15
+],
+[
+"maxixe",
+15
+],
+[
+"pungmul",
+15
+],
+[
+"Huaconada",
+15
+],
+[
+"dance in Ukraine",
 15
 ],
 [
@@ -116,7 +824,55 @@
 15
 ],
 [
+"Dainichido Bugaku",
+14
+],
+[
+"slow fox",
+14
+],
+[
 "Tanztheater",
+14
+],
+[
+"Topeng dance",
+14
+],
+[
+"Jarabe Tapatío",
+14
+],
+[
+"Jhumair dance",
+14
+],
+[
+"Kalamatianos",
+14
+],
+[
+"West Coast swing",
+14
+],
+[
+"pizzica",
+14
+],
+[
+"marinera",
+14
+],
+[
+"huayno",
+14
+],
+[
+"Zambra",
+14
+],
+[
+"ballet blanc",
 14
 ],
 [
@@ -124,7 +880,31 @@
 14
 ],
 [
+"Lurish dances",
+14
+],
+[
+"zamba",
+14
+],
+[
+"Sufi whirling",
+14
+],
+[
 "Taskiwin",
+14
+],
+[
+"Danza de tijeras",
+14
+],
+[
+"Malagueñas",
+14
+],
+[
+"kopačka",
 14
 ],
 [
@@ -136,11 +916,123 @@
 14
 ],
 [
+"Turkish folk dance",
+13
+],
+[
+"Halling",
+13
+],
+[
+"letkajenkka",
+13
+],
+[
+"halay",
+13
+],
+[
+"alegrías",
+13
+],
+[
+"Iranian dance",
+13
+],
+[
+"Ahidus",
+13
+],
+[
+"Catalan rumba",
+13
+],
+[
+"Cheraw dance",
+13
+],
+[
+"bugaku",
+13
+],
+[
+"Russian ballet",
+13
+],
+[
+"Yosakoi",
+13
+],
+[
+"Georgian folk dance",
+13
+],
+[
+"Dollu Kunitha",
+13
+],
+[
+"Armenian dance",
+13
+],
+[
+"Reog",
+13
+],
+[
+"Cachucha",
+13
+],
+[
+"Linđo",
+13
+],
+[
 "expressionist dance",
 13
 ],
 [
+"bulería",
+12
+],
+[
+"Kamarinskaya",
+12
+],
+[
 "character dance",
+12
+],
+[
+"comédie-ballet",
+12
+],
+[
+"Hudoq",
+12
+],
+[
+"Yarkhushta",
+12
+],
+[
+"Japanese traditional dance",
+12
+],
+[
+"furiant",
+12
+],
+[
+"Bhagavata Mela",
+12
+],
+[
+"Russian folk dance",
+12
+],
+[
+"wayang wong",
 12
 ],
 [
@@ -148,7 +1040,63 @@
 12
 ],
 [
+"Schuhplattler",
+12
+],
+[
+"Waacking",
+12
+],
+[
+"partner dance",
+12
+],
+[
+"Akiu no Taue Odori",
+12
+],
+[
 "baião",
+12
+],
+[
+"new flamenco",
+12
+],
+[
+"Jaipongan",
+12
+],
+[
+"kuda kepang",
+12
+],
+[
+"Velakali",
+12
+],
+[
+"contemporary ballet",
+12
+],
+[
+"dance of Osman Taka",
+12
+],
+[
+"Punjabi folk dance",
+12
+],
+[
+"Fugdi",
+12
+],
+[
+"Gotipua",
+12
+],
+[
+"Kanyarkali",
 12
 ],
 [
@@ -160,7 +1108,39 @@
 11
 ],
 [
+"Buchaechum",
+11
+],
+[
+"Korean dance",
+11
+],
+[
+"chari dance",
+11
+],
+[
 "yayue",
+11
+],
+[
+"Lavolta",
+11
+],
+[
+"morenada",
+11
+],
+[
+"table dance",
+11
+],
+[
+"Irish stepdance",
+11
+],
+[
+"Tortor",
 11
 ],
 [
@@ -172,7 +1152,59 @@
 11
 ],
 [
+"Ka Mate",
+11
+],
+[
+"Romantic ballet",
+11
+],
+[
 "plena",
+11
+],
+[
+"ballet de cour",
+11
+],
+[
+"Khorumi",
+11
+],
+[
+"agbadza",
+11
+],
+[
+"Pyrrhichios",
+11
+],
+[
+"rumba flamenca",
+11
+],
+[
+"Bagurumba",
+11
+],
+[
+"Bhavai dance",
+11
+],
+[
+"Kurdish dance",
+11
+],
+[
+"Chholiya",
+11
+],
+[
+"Harlem shake",
+11
+],
+[
+"Caporales",
 11
 ],
 [
@@ -184,7 +1216,15 @@
 11
 ],
 [
+"jhumar",
+11
+],
+[
 "Nati",
+11
+],
+[
+"Jenkka",
 11
 ],
 [
@@ -192,7 +1232,23 @@
 11
 ],
 [
+"Sammi",
+11
+],
+[
+"Gandrung",
+11
+],
+[
+"Siva Tau",
+11
+],
+[
 "carimbó",
+10
+],
+[
+"Chapelloise",
 10
 ],
 [
@@ -200,7 +1256,119 @@
 10
 ],
 [
+"passamezzo",
+10
+],
+[
+"war dance",
+10
+],
+[
+"Sârbă",
+10
+],
+[
+"Zapateado",
+10
+],
+[
+"zeybek",
+10
+],
+[
+"Shalakho",
+10
+],
+[
+"Finnish tango",
+10
+],
+[
+"Polska",
+10
+],
+[
+"Kolbastı",
+10
+],
+[
+"Kachchhi Ghodi dance",
+10
+],
+[
+"Baris",
+10
+],
+[
+"reggada",
+10
+],
+[
+"Cibi",
+10
+],
+[
+"Uzundara",
+10
+],
+[
+"kailao",
+10
+],
+[
+"robot",
+10
+],
+[
+"Randai",
+10
+],
+[
+"Bulgarian folk dance",
+10
+],
+[
+"tinku",
+10
+],
+[
+"Kandyan dance",
+10
+],
+[
+"Tsamiko",
+10
+],
+[
+"Kerala Natanam",
+10
+],
+[
 "Apache",
+10
+],
+[
+"Perini Shivatandavam",
+10
+],
+[
+"Romani dance",
+10
+],
+[
+"Yablochko",
+10
+],
+[
+"country dance",
+10
+],
+[
+"Cirebon mask dance",
+10
+],
+[
+"Gambuh",
 10
 ],
 [
@@ -208,11 +1376,3219 @@
 10
 ],
 [
+"Barong",
+10
+],
+[
+"Domkach",
+10
+],
+[
+"Black Bottom",
+10
+],
+[
+"Kikkli",
+10
+],
+[
 "postmodern dance",
+10
+],
+[
+"Ojapali",
+10
+],
+[
+"Ottan thullal",
 10
 ],
 [
 "Pop Goes the Weasel",
 10
+],
+[
+"Apsara Dance",
+10
+],
+[
+"eisa",
+10
+],
+[
+"Scottish highland dance",
+10
+],
+[
+"tamzara",
+9
+],
+[
+"lazgi",
+9
+],
+[
+"Lengger",
+9
+],
+[
+"Chozhikali",
+9
+],
+[
+"Zapin",
+9
+],
+[
+"Srimpi",
+9
+],
+[
+"Payung dance",
+9
+],
+[
+"jerkin'",
+9
+],
+[
+"Jhijhiya",
+9
+],
+[
+"beguine",
+9
+],
+[
+"raqs sharqi",
+9
+],
+[
+"Cuban salsa",
+9
+],
+[
+"Adowa dance",
+9
+],
+[
+"zeibekiko",
+9
+],
+[
+"Condong",
+9
+],
+[
+"Kara Jorgo",
+9
+],
+[
+"One-Step",
+9
+],
+[
+"Intore",
+9
+],
+[
+"bedhaya",
+9
+],
+[
+"Peteneras",
+9
+],
+[
+"Teškoto",
+9
+],
+[
+"Troika",
+9
+],
+[
+"ballet d'action",
+9
+],
+[
+"Biyelgee",
+9
+],
+[
+"Indonesian dance",
+9
+],
+[
+"Thai dance",
+9
+],
+[
+"huapango",
+9
+],
+[
+"pastorale héroïque",
+9
+],
+[
+"sacred dance",
+9
+],
+[
+"Parachico",
+9
+],
+[
+"Choreia",
+9
+],
+[
+"Lyavonikha",
+9
+],
+[
+"Thiruvathirakkali",
+9
+],
+[
+"Slovak verbunk",
+9
+],
+[
+"American Tribal Style Belly Dance",
+9
+],
+[
+"Aati kalenja",
+9
+],
+[
+"Ghumura dance",
+9
+],
+[
+"Indlamu",
+9
+],
+[
+"neoclassical ballet",
+9
+],
+[
+"Faroese dance",
+9
+],
+[
+"Margamkali",
+9
+],
+[
+"Mujra",
+9
+],
+[
+"Lilin dance",
+9
+],
+[
+"Jera",
+9
+],
+[
+"Royal Ballet of Cambodia",
+8
+],
+[
+"congada",
+8
+],
+[
+"cumbia villera",
+8
+],
+[
+"Bon Odori",
+8
+],
+[
+"carnavalito",
+8
+],
+[
+"yowlah",
+8
+],
+[
+"Mizmar",
+8
+],
+[
+"Pas d'Espagne",
+8
+],
+[
+"Caci",
+8
+],
+[
+"Kuttichathan Theyyam",
+8
+],
+[
+"Syrtos",
+8
+],
+[
+"Tsifteteli",
+8
+],
+[
+"Scottish country dance",
+8
+],
+[
+"Java",
+8
+],
+[
+"dance improvisation",
+8
+],
+[
+"Sanghyang",
+8
+],
+[
+"Dasakathia",
+8
+],
+[
+"Kartik Naach",
+8
+],
+[
+"Assamese folk dance",
+8
+],
+[
+"Gambyong",
+8
+],
+[
+"grinding",
+8
+],
+[
+"vals",
+8
+],
+[
+"slow dance",
+8
+],
+[
+"Cendrawasih",
+8
+],
+[
+"Kebyar duduk",
+8
+],
+[
+"Sandungueo",
+8
+],
+[
+"Chang dance",
+8
+],
+[
+"bomba",
+8
+],
+[
+"siguiriyas",
+8
+],
+[
+"Paparuda",
+8
+],
+[
+"Free dance",
+8
+],
+[
+"Medieval dance",
+8
+],
+[
+"Bedara Vesha",
+8
+],
+[
+"Betawi mask dance",
+8
+],
+[
+"Brazilian zouk",
+8
+],
+[
+"hustle",
+8
+],
+[
+"Baroque dance",
+8
+],
+[
+"Kapa haka",
+8
+],
+[
+"zortziko",
+8
+],
+[
+"Poco-poco",
+8
+],
+[
+"redowa",
+8
+],
+[
+"pas de trois",
+8
+],
+[
+"Moreška",
+8
+],
+[
+"Kummi",
+8
+],
+[
+"Mayilattam",
+8
+],
+[
+"hyporchema",
+8
+],
+[
+"Horon",
+8
+],
+[
+"Simd",
+8
+],
+[
+"street jazz",
+8
+],
+[
+"Jewish dance",
+8
+],
+[
+"Merengue",
+8
+],
+[
+"traditional dances of Himachal Pradesh",
+8
+],
+[
+"an dro",
+8
+],
+[
+"danda nata",
+8
+],
+[
+"Gair dance",
+8
+],
+[
+"Seungmu",
+8
+],
+[
+"Les Lanciers",
+8
+],
+[
+"Lezim",
+8
+],
+[
+"Romvong",
+8
+],
+[
+"cordax",
+8
+],
+[
+"Sōran Bushi",
+8
+],
+[
+"Thabal chongba",
+8
+],
+[
+"Tippani Dance",
+8
+],
+[
+"Boston",
+8
+],
+[
+"Khamba Thoibi Jagoi",
+7
+],
+[
+"Hayachine Kagura",
+7
+],
+[
+"Janger dance",
+7
+],
+[
+"Bwola",
+7
+],
+[
+"Larakaraka",
+7
+],
+[
+"Rejang dance",
+7
+],
+[
+"Azerbaijani ballet",
+7
+],
+[
+"canary dance",
+7
+],
+[
+"Kangeelu",
+7
+],
+[
+"Deodhani dance",
+7
+],
+[
+"torch dance",
+7
+],
+[
+"mapalé",
+7
+],
+[
+"Hambo",
+7
+],
+[
+"Conga line",
+7
+],
+[
+"lundu",
+7
+],
+[
+"Chaiti Ghoda Nacha",
+7
+],
+[
+"Garrotín",
+7
+],
+[
+"Bacchu-ber",
+7
+],
+[
+"Khaleegy",
+7
+],
+[
+"solo dance",
+7
+],
+[
+"Shota",
+7
+],
+[
+"Basque folk dance",
+7
+],
+[
+"Peruvian waltz",
+7
+],
+[
+"tambourin",
+7
+],
+[
+"Calinda",
+7
+],
+[
+"Tribal Fusion Belly Dance",
+7
+],
+[
+"assiko",
+7
+],
+[
+"Israeli folk dance",
+7
+],
+[
+"Entrée de ballet",
+7
+],
+[
+"Singo Ulung",
+7
+],
+[
+"Jangi",
+7
+],
+[
+"variation",
+7
+],
+[
+"Ulek mayang",
+7
+],
+[
+"ahwash",
+7
+],
+[
+"Baagh Naach",
+7
+],
+[
+"Cakalele",
+7
+],
+[
+"xote",
+7
+],
+[
+"jongo",
+7
+],
+[
+"Sri Lankan dance",
+7
+],
+[
+"Dhalo",
+7
+],
+[
+"Greek dance",
+7
+],
+[
+"saya afroboliviana",
+7
+],
+[
+"Kamsale",
+7
+],
+[
+"Khattak",
+7
+],
+[
+"Gaitaghi",
+7
+],
+[
+"Paydushko horo",
+7
+],
+[
+"Tari Tumbu Tanah",
+7
+],
+[
+"Maruni",
+7
+],
+[
+"Loyalty dance",
+7
+],
+[
+"Raut Nacha",
+7
+],
+[
+"Gending Sriwijaya",
+7
+],
+[
+"Serpentine dance",
+7
+],
+[
+"Trojak",
+7
+],
+[
+"bal-musette",
+7
+],
+[
+"Theeyaattam",
+7
+],
+[
+"barn dance",
+7
+],
+[
+"collegiate shag",
+7
+],
+[
+"Jurit Ampil Kridha Warastra Dance",
+7
+],
+[
+"bugg",
+6
+],
+[
+"Apatampa",
+6
+],
+[
+"Salpuri",
+6
+],
+[
+"Sogdian Whirl dance",
+6
+],
+[
+"Ekitaguriro",
+6
+],
+[
+"Kabasaran",
+6
+],
+[
+"Waka waka",
+6
+],
+[
+"partido alto",
+6
+],
+[
+"Parayan Thullal",
+6
+],
+[
+"Rapa'i Gèlèng",
+6
+],
+[
+"group dance",
+6
+],
+[
+"Alkayida",
+6
+],
+[
+"Poikkaal Kuthirai Aattam",
+6
+],
+[
+"Osuohai",
+6
+],
+[
+"pols",
+6
+],
+[
+"Capoeira Angola",
+6
+],
+[
+"Contradanza",
+6
+],
+[
+"Panyembrama",
+6
+],
+[
+"Castilian jotas",
+6
+],
+[
+"Gato",
+6
+],
+[
+"electro dance",
+6
+],
+[
+"Klompendansen",
+6
+],
+[
+"polka-mazurka",
+6
+],
+[
+"Taepyeongmu",
+6
+],
+[
+"Bigwala",
+6
+],
+[
+"Ballu tundu",
+6
+],
+[
+"Australian dance",
+6
+],
+[
+"Vallja e Tropojës",
+6
+],
+[
+"Chennu Nalike",
+6
+],
+[
+"kullawada",
+6
+],
+[
+"Wall of Death",
+6
+],
+[
+"electric boogaloo",
+6
+],
+[
+"Byzantine dance",
+6
+],
+[
+"vira",
+6
+],
+[
+"ceremonial dance",
+6
+],
+[
+"Tarakama",
+6
+],
+[
+"aurresku",
+6
+],
+[
+"Mirzayi",
+6
+],
+[
+"Khanchobany",
+6
+],
+[
+"Ronggeng",
+6
+],
+[
+"Caloian",
+6
+],
+[
+"house dance",
+6
+],
+[
+"Atilogwu Dance",
+6
+],
+[
+"ball de bastons",
+6
+],
+[
+"Barynya",
+6
+],
+[
+"Arab folk dance",
+6
+],
+[
+"clogging",
+6
+],
+[
+"pole sports",
+6
+],
+[
+"Bhairab Naach",
+6
+],
+[
+"Borborbor",
+6
+],
+[
+"Ciranda",
+6
+],
+[
+"dappankuthu",
+6
+],
+[
+"Deknni",
+6
+],
+[
+"egg dance",
+6
+],
+[
+"Er ren zhuan",
+6
+],
+[
+"Gaarudi Gombe",
+6
+],
+[
+"Melinting dance",
+6
+],
+[
+"Calabrian tarantella",
+6
+],
+[
+"ribbon dance",
+6
+],
+[
+"Hully Gully",
+6
+],
+[
+"Janani Jhumar",
+6
+],
+[
+"Jharkhand folk dance",
+6
+],
+[
+"Yally",
+6
+],
+[
+"bolojo",
+6
+],
+[
+"Malappulayattam",
+6
+],
+[
+"Paraguayan polka",
+6
+],
+[
+"capoeira regional",
+6
+],
+[
+"Rodat",
+6
+],
+[
+"Sangini",
+6
+],
+[
+"Tari Seudati",
+6
+],
+[
+"Juba dance",
+6
+],
+[
+"Singkil",
+6
+],
+[
+"sokkie",
+6
+],
+[
+"Kapa o Pango",
+6
+],
+[
+"Volkspele",
+6
+],
+[
+"Bacha Nagma",
+6
+],
+[
+"Tambor de Crioula",
+5
+],
+[
+"Dhunuchi dance",
+5
+],
+[
+"Koli Dance",
+5
+],
+[
+"Malambo",
+5
+],
+[
+"Alboreá",
+5
+],
+[
+"Chaap",
+5
+],
+[
+"beseda",
+5
+],
+[
+"Deverattam",
+5
+],
+[
+"Pukllay",
+5
+],
+[
+"single-time swing",
+5
+],
+[
+"metelica",
+5
+],
+[
+"Bakisimba",
+5
+],
+[
+"Naleyo",
+5
+],
+[
+"Amaggunju",
+5
+],
+[
+"Akogo",
+5
+],
+[
+"Edonga",
+5
+],
+[
+"Sisingaan",
+5
+],
+[
+"orteke",
+5
+],
+[
+"Pangalay",
+5
+],
+[
+"Sumazau",
+5
+],
+[
+"Bambangan Cakil",
+5
+],
+[
+"Maach",
+5
+],
+[
+"set dance",
+5
+],
+[
+"Canyengue",
+5
+],
+[
+"Odisha folk dance",
+5
+],
+[
+"hooping",
+5
+],
+[
+"Sheethankan Thullal",
+5
+],
+[
+"Dagbon music and dance",
+5
+],
+[
+"Tanggai dance",
+5
+],
+[
+"dhaanto",
+5
+],
+[
+"Tripuri dance",
+5
+],
+[
+"Ceili dance",
+5
+],
+[
+"Modern Jive",
+5
+],
+[
+"National Football League Cheerleading",
+5
+],
+[
+"Kancet Papatai",
+5
+],
+[
+"Rebita",
+5
+],
+[
+"Varsovienne",
+5
+],
+[
+"Rapper sword",
+5
+],
+[
+"Ohafia War Dance",
+5
+],
+[
+"clog dance",
+5
+],
+[
+"Mbende-Jerusarema",
+5
+],
+[
+"kwassa kwassa",
+5
+],
+[
+"Two-Rhythm Dance",
+5
+],
+[
+"Ngajat",
+5
+],
+[
+"Dhemsa",
+5
+],
+[
+"Oleg",
+5
+],
+[
+"Circassian circle",
+5
+],
+[
+"slip jig",
+5
+],
+[
+"Jarana Yucateca",
+5
+],
+[
+"Mitzvah tantz",
+5
+],
+[
+"bélé",
+5
+],
+[
+"cramignon",
+5
+],
+[
+"Cambodian dance",
+5
+],
+[
+"Breton dance",
+5
+],
+[
+"Polish folk dance",
+5
+],
+[
+"Nguni stick fighting",
+5
+],
+[
+"Grand pas",
+5
+],
+[
+"Siddavesa",
+5
+],
+[
+"Madison",
+5
+],
+[
+"monferrina",
+5
+],
+[
+"step dance",
+5
+],
+[
+"Pentozali",
+5
+],
+[
+"Tenzere",
+5
+],
+[
+"ballroom tango",
+5
+],
+[
+"Tientos",
+5
+],
+[
+"strathspey",
+5
+],
+[
+"Atsiapat",
+5
+],
+[
+"xaxado",
+5
+],
+[
+"Hokey Pokey",
+5
+],
+[
+"Assyrian folk dance",
+5
+],
+[
+"Tello",
+5
+],
+[
+"Llamerada",
+5
+],
+[
+"muziki wa dansi",
+5
+],
+[
+"Nritya",
+5
+],
+[
+"Belarusian folk dance",
+5
+],
+[
+"Innaby",
+5
+],
+[
+"Abayi",
+5
+],
+[
+"Andhra Natyam",
+5
+],
+[
+"Pasambahan dance",
+5
+],
+[
+"Ndazola",
+5
+],
+[
+"Byung shin chum",
+5
+],
+[
+"Bukcheong sajanoreum",
+5
+],
+[
+"Cachua",
+5
+],
+[
+"Dalkhai",
+5
+],
+[
+"Dance and theatre of Laos",
+5
+],
+[
+"Zimbabwean dance",
+5
+],
+[
+"Danza de los Viejitos",
+5
+],
+[
+"Tsyganochka",
+5
+],
+[
+"Kryzhachok",
+5
+],
+[
+"Dhamail",
+5
+],
+[
+"Dumhal",
+5
+],
+[
+"Geommu",
+5
+],
+[
+"vertical dance",
+5
+],
+[
+"Mardana Jhumair",
+5
+],
+[
+"Italian folk dance",
+5
+],
+[
+"A my proso seyali",
+5
+],
+[
+"Joged",
+5
+],
+[
+"Joget",
+5
+],
+[
+"Gujō Odori",
+5
+],
+[
+"Gainjeonmokdan",
+5
+],
+[
+"Tamure",
+5
+],
+[
+"Bamboula",
+5
+],
+[
+"M'alayah",
+5
+],
+[
+"Mayim Mayim",
+5
+],
+[
+"mazur",
+5
+],
+[
+"Milonga",
+5
+],
+[
+"Odzemek",
+5
+],
+[
+"Oyilattam",
+5
+],
+[
+"Pandanggo",
+5
+],
+[
+"Peruvian cumbia",
+5
+],
+[
+"Puliyattam",
+5
+],
+[
+"magunatip",
+5
+],
+[
+"sigalegale",
+5
+],
+[
+"spotting",
+5
+],
+[
+"stepping",
+5
+],
+[
+"Takalo",
+5
+],
+[
+"The Running Man",
+5
+],
+[
+"Hutsulka",
+5
+],
+[
+"Hanter-dro",
+5
+],
+[
+"Lavanda Naach",
+5
+],
+[
+"samba de roda",
+5
+],
+[
+"Paraguayan bottle dance",
+5
+],
+[
+"Baksa kembang",
+5
+],
+[
+"Kushan dance",
+4
+],
+[
+"narrative ballet",
+4
+],
+[
+"ball dels cossiers",
+4
+],
+[
+"Yak dance",
+4
+],
+[
+"Yosakoi Matsuri",
+4
+],
+[
+"Yosakoi Soran Festival",
+4
+],
+[
+"račenica",
+4
+],
+[
+"Ghatu dance",
+4
+],
+[
+"Syabru dance",
+4
+],
+[
+"daggering",
+4
+],
+[
+"Scottish sword dance",
+4
+],
+[
+"standard dance",
+4
+],
+[
+"disco dance",
+4
+],
+[
+"Modero",
+4
+],
+[
+"prisiadka",
+4
+],
+[
+"kaerajaan",
+4
+],
+[
+"Ekikibi",
+4
+],
+[
+"Otole dance",
+4
+],
+[
+"Ekizino",
+4
+],
+[
+"Tamena Ibuga",
+4
+],
+[
+"gamelan joged bumbung",
+4
+],
+[
+"Tari Bidadari Teminang Anak",
+4
+],
+[
+"Tari Andun",
+4
+],
+[
+"Angguk",
+4
+],
+[
+"Golek Menak Dance",
+4
+],
+[
+"Remo Dance",
+4
+],
+[
+"Bastonets",
+4
+],
+[
+"pantsula",
+4
+],
+[
+"Golek Ayun-Ayun Dance",
+4
+],
+[
+"Sandiwara",
+4
+],
+[
+"Mappila Theyyam",
+4
+],
+[
+"Dhan Nach",
+4
+],
+[
+"Country Swing (dance)",
+4
+],
+[
+"Lipsi",
+4
+],
+[
+"competitive dance",
+4
+],
+[
+"flamenco jazz",
+4
+],
+[
+"Gankino horo",
+4
+],
+[
+"Electric-Techno Neon Gods",
+4
+],
+[
+"Parichamuttukali",
+4
+],
+[
+"Highland Fling",
+4
+],
+[
+"Mtiuluri",
+4
+],
+[
+"Nalbaki",
+4
+],
+[
+"Ceyrani",
+4
+],
+[
+"hoop dance",
+4
+],
+[
+"Bychok",
+4
+],
+[
+"Trakhag",
+4
+],
+[
+"wayang topeng",
+4
+],
+[
+"ballo",
+4
+],
+[
+"Newa dance",
+4
+],
+[
+"fusion dance",
+4
+],
+[
+"Qhapaq negro",
+4
+],
+[
+"Kalela",
+4
+],
+[
+"pas",
+4
+],
+[
+"round dance",
+4
+],
+[
+"Long Sword dance",
+4
+],
+[
+"Caboclinhos",
+4
+],
+[
+"Tari Sekapur Sirih",
+4
+],
+[
+"Bedaya Ketawang",
+4
+],
+[
+"ketuk tilu",
+4
+],
+[
+"Armenian folk dance",
+4
+],
+[
+"Oira-oira",
+4
+],
+[
+"Gule Wamkulu",
+4
+],
+[
+"Hako",
+4
+],
+[
+"cocolo",
+4
+],
+[
+"Seann Triubhas",
+4
+],
+[
+"Dutch folk dance",
+4
+],
+[
+"hand jive",
+4
+],
+[
+"dance in the United States",
+4
+],
+[
+"Plinn",
+4
+],
+[
+"Padhar dance",
+4
+],
+[
+"Sourashtra folk dance",
+4
+],
+[
+"Floorwork",
+4
+],
+[
+"Chunaengjeon",
+4
+],
+[
+"sainaimu",
+4
+],
+[
+"Rieldans",
+4
+],
+[
+"Alunelul",
+4
+],
+[
+"Corridinho",
+4
+],
+[
+"Debaa",
+4
+],
+[
+"huaylarsh",
+4
+],
+[
+"Lesnoto",
+4
+],
+[
+"Carpaea",
+4
+],
+[
+"lyrical dance",
+4
+],
+[
+"Moribayassa",
+4
+],
+[
+"musette",
+4
+],
+[
+"hinde",
+4
+],
+[
+"ʻōteʻa",
+4
+],
+[
+"Quebradita",
+4
+],
+[
+"Rond de Saint-Vincent",
+4
+],
+[
+"rondeau",
+4
+],
+[
+"samba de gafieira",
+4
+],
+[
+"Karsilamas",
+4
+],
+[
+"Ballos",
+4
+],
+[
+"Ikariotikos",
+4
+],
+[
+"Serra",
+4
+],
+[
+"Romanian folk dance",
+4
+],
+[
+"Kambara dance",
+4
+],
+[
+"merenhouse",
+4
+],
+[
+"Middle Eastern dance",
+4
+],
+[
+"Berd",
+4
+],
+[
+"combat hopak",
+4
+],
+[
+"Dihosana",
+4
+],
+[
+"Kartuli",
+4
+],
+[
+"Contrapàs",
+4
+],
+[
+"Touraji",
+4
+],
+[
+"Angelica",
+4
+],
+[
+"Angloise",
+4
+],
+[
+"Argentine cumbia",
+4
+],
+[
+"Asma kasma",
+4
+],
+[
+"baile folklorico",
+4
+],
+[
+"Bayalata",
+4
+],
+[
+"Borankana",
+4
+],
+[
+"Tsutsube",
+4
+],
+[
+"Setapa",
+4
+],
+[
+"Ecstatic dance",
+4
+],
+[
+"Burmese dance",
+4
+],
+[
+"Cariñosa",
+4
+],
+[
+"Chang Lo",
+4
+],
+[
+"chumak",
+4
+],
+[
+"Cameroonian dance",
+4
+],
+[
+"Israeli dance",
+4
+],
+[
+"dance in Kiribati",
+4
+],
+[
+"deer dance",
+4
+],
+[
+"Devil's Sword Dance",
+4
+],
+[
+"Domni",
+4
+],
+[
+"Dunhuang dance",
+4
+],
+[
+"Country dance of Cetina",
+4
+],
+[
+"Anglaise",
+4
+],
+[
+"Fann at-Tanbura",
+4
+],
+[
+"father-daughter dance",
+4
+],
+[
+"Brita dance",
+4
+],
+[
+"Grizzly Bear",
+4
+],
+[
+"Grossvater Tanz",
+4
+],
+[
+"Curve tanok",
+4
+],
+[
+"Caña",
+4
+],
+[
+"Indang dance",
+4
+],
+[
+"Huteng",
+4
+],
+[
+"cachaca",
+4
+],
+[
+"kachāshī",
+4
+],
+[
+"Javanese dance",
+4
+],
+[
+"Khigga",
+4
+],
+[
+"Kromanti dance",
+4
+],
+[
+"Gusadi",
+4
+],
+[
+"Malwai Giddha",
+4
+],
+[
+"marfa",
+4
+],
+[
+"Maskarada of Soule",
+4
+],
+[
+"Arjuna Nritham",
+4
+],
+[
+"Mek Mulung",
+4
+],
+[
+"Rheinlander",
+4
+],
+[
+"Mugo",
+4
+],
+[
+"Springar",
+4
+],
+[
+"Omal",
+4
+],
+[
+"Pottan Theyyam",
+4
+],
+[
+"Raibenshe",
+4
+],
+[
+"Rugovo",
+4
+],
+[
+"Sagayan",
+4
+],
+[
+"samri",
+4
+],
+[
+"Songpasandaenori",
+4
+],
+[
+"Didong",
+4
+],
+[
+"Tresenica",
+4
+],
+[
+"Vilasini Natyam",
+4
+],
+[
+"Yingge dance",
+4
+],
+[
+"dances of sticks and ribbons",
+4
+],
+[
+"Tipri dance",
+4
+],
+[
+"German dance",
+4
+],
+[
+"Isa",
+4
+],
+[
+"new Chilean cumbia",
+4
+],
+[
+"Pauliteiros de Miranda",
+4
+],
+[
+"Bachatango",
+4
+],
+[
+"Dougie",
+4
+],
+[
+"Nagila",
+4
+],
+[
+"chilena",
+4
+],
+[
+"Lungi Panchi Dance",
+4
+],
+[
+"Bump",
+3
+],
+[
+"Gafieira",
+3
+],
+[
+"Dansants de Peníscola",
+3
+],
+[
+"carole",
+3
+],
+[
+"Suzma",
+3
+],
+[
+"Awasa",
+3
+],
+[
+"Vietnamese dance",
+3
+],
+[
+"Serbian folk dance",
+3
+],
+[
+"Nabichum",
+3
+],
+[
+"govend",
+3
+],
+[
+"Welsh Clog Dancing",
+3
+],
+[
+"Mwinoghe",
+3
+],
+[
+"Dansa de la Magrana del Corpus Christi de València",
+3
+],
+[
+"Dansa dels Arquets del Corpus Christi de València",
+3
+],
+[
+"Dansa dels Turcs del Corpus Christi de València",
+3
+],
+[
+"Dansa dels Pastorets del Corpus Christi de València",
+3
+],
+[
+"Dansa de les Vetes del Corpus Christi de València",
+3
+],
+[
+"Dansa dels Llauradors del Corpus de València",
+3
+],
+[
+"Dansa dels Cavallets del Corpus de València",
+3
+],
+[
+"Attitude",
+3
+],
+[
+"Danses del Corpus Christi de València",
+3
+],
+[
+"chicha",
+3
+],
+[
+"Shosagoto",
+3
+],
+[
+"Ryukyuan dance",
+3
+],
+[
+"Iwami Kagura",
+3
+],
+[
+"Hungarian folk dance",
+3
+],
+[
+"Nishimonai no Bon-odori",
+3
+],
+[
+"furyū-odori",
+3
+],
+[
+"Ball cerdà",
+3
+],
+[
+"Ball de bot",
+3
+],
+[
+"Ukusina",
+3
+],
+[
+"Pontic Greek folk dance",
+3
+],
+[
+"Perepolka",
+3
+],
+[
+"Khiamniungan folk dance",
+3
+],
+[
+"al-ayyalah",
+3
+],
+[
+"Azeri-dantza",
+3
+],
+[
+"Leventikos",
+3
+],
+[
+"Danza de Els Porrots",
+3
+],
+[
+"ballet-féerie",
+3
+],
+[
+"stomp",
+3
+],
+[
+"Kadodi",
+3
+],
+[
+"Orunyege-Ntogoro",
+3
+],
+[
+"Dingi Dingi dance",
+3
+],
+[
+"Ewoya Dance",
+3
+],
+[
+"Manasai",
+3
+],
+[
+"Pajoge",
+3
+],
+[
+"Tari Bines",
+3
+],
+[
+"Kudasha",
+3
+],
+[
+"Keçimemesi",
+3
+],
+[
+"Qazi-qazi",
+3
+],
+[
+"Macedonian oro",
+3
+],
+[
+"Congò",
+3
+],
+[
+"Kolattam AP",
+3
+],
+[
+"Golubets dance",
+3
+],
+[
+"Trasukha",
+3
+],
+[
+"rasanritya",
+3
+],
+[
+"Tayuban",
+3
+],
+[
+"Banamba",
+3
+],
+[
+"Ronggeng gunung",
+3
+],
+[
+"Galanterie",
+3
+],
+[
+"Tari Ratéb Meuseukat",
+3
+],
+[
+"Fwemba",
+3
+],
+[
+"Bedaya Semang",
+3
+],
+[
+"hardcore dancing",
+3
+],
+[
+"Pakarena",
+3
+],
+[
+"Tai Hang Fire Dragon Dance",
+3
+],
+[
+"Eunyul talchum",
+3
+],
+[
+"Banovsha",
+3
+],
+[
+"Heyvagulu",
+3
+],
+[
+"Aragonese dance",
+3
+],
+[
+"Kehraus",
+3
+],
+[
+"Yokhor",
+3
+],
+[
+"Zhuravl'",
+3
+],
+[
+"Keisabadi",
+3
+],
+[
+"Potrčulka",
+3
+],
+[
+"Qhapaq Qulla",
+3
+],
+[
+"El Juego de Maní",
+3
+],
+[
+"Manau",
+3
+],
+[
+"Maglalatik",
+3
+],
+[
+"Venezuelan merengue",
+3
+],
+[
+"Interpretive dance",
+3
+],
+[
+"Italian ballet",
+3
+],
+[
+"Saqra",
+3
+],
+[
+"Ball de Cossis",
+3
+],
+[
+"Reisado",
+3
+],
+[
+"sean-nós dance",
+3
+],
+[
+"Dasai dance",
+3
+],
+[
+"Tari Moang Sangkal",
+3
+],
+[
+"Burung Enggang Dance",
+3
+],
+[
+"Ball de Valencians",
+3
+],
+[
+"Dansa dels Nanos del Corpus Christi de Valencia",
+3
+],
+[
+"Litefeet",
+3
+],
+[
+"Peresean",
+3
+],
+[
+"Piva",
+3
+],
+[
+"Puerto Rican Style",
+3
+],
+[
+"stomp dance",
+3
+],
+[
+"Zonaradiko",
+3
+],
+[
+"Cheerleading in Japan",
+3
+],
+[
+"Gar",
+3
+],
+[
+"Gluvo-nemo",
+3
+],
+[
+"Danish folk dance",
+3
+],
+[
+"Bajidor Kahot",
+3
+],
+[
+"Adai-adai",
+3
+],
+[
+"luddi",
+3
+],
+[
+"angama",
+3
+],
+[
+"'upa'upa",
+3
+],
+[
+"Kılıç Kalkan",
+3
+],
+[
+"Al-Bar'ah",
+3
+],
+[
+"'Aparima",
+3
+],
+[
+"bailecito",
+3
+],
+[
+"Bobaraba",
+3
+],
+[
+"Stilt Dance, Anguiano",
+3
+],
+[
+"circle pit",
+3
+],
+[
+"coco",
+3
+],
+[
+"Etruscan dance",
+3
+],
+[
+"dañs tro",
+3
+],
+[
+"ballet in Turkey",
+3
+],
+[
+"Austrian folk dance",
+3
+],
+[
+"sardana de l'Alcalde",
+3
+],
+[
+"koplo",
+3
+],
+[
+"Kost ar c'hoad",
+3
+],
+[
+"laridé",
+3
+],
+[
+"moixiganga",
+3
+],
+[
+"odori",
+3
+],
+[
+"Modern Western square dance",
+3
+],
+[
+"Kwadril",
+3
+],
+[
+"rock'n'roll dance",
+3
+],
+[
+"Rond de Landeda",
+3
+],
+[
+"cumbia rap",
+3
+],
+[
+"māʻuluʻulu",
+3
+],
+[
+"logobi",
+3
+],
+[
+"Naz elama",
+3
+],
+[
+"Kopanitsa",
+3
+],
+[
+"suri sicuri",
+3
+],
+[
+"tammurriata",
+3
+],
+[
+"Joc",
+3
+],
+[
+"Tari Gubang",
+3
+],
+[
+"Moldovenească",
+3
+],
+[
+"plyaska",
+3
+],
+[
+"Wilt thou go to the barracks, Johnny?",
+3
+],
+[
+"Sari Gelin",
+3
+],
+[
+"gangar",
+3
+],
+[
+"Abbots Bromley Horn Dance",
+3
+],
+[
+"African-American dance",
+3
+],
+[
+"Alarippu",
+3
+],
+[
+"Antikristos",
+3
+],
+[
+"Ball de diables",
+3
+],
+[
+"Bar",
+3
+],
+[
+"Bardo Chham",
+3
+],
+[
+"Zapin Api",
+3
+],
+[
+"Machomane",
+3
+],
+[
+"Thousand-armed Guanyin",
+3
+],
+[
+"Berovka",
+3
+],
+[
+"Big Apple",
+3
+],
+[
+"Border Morris",
+3
+],
+[
+"Buffalo dance",
+3
+],
+[
+"Bulba",
+3
+],
+[
+"bullerengue",
+3
+],
+[
+"Bush dance",
+3
+],
+[
+"Carolina shag",
+3
+],
+[
+"changa tuki",
+3
+],
+[
+"Charkula",
+3
+],
+[
+"Concheros",
+3
+],
+[
+"dance of Wallis and Futuna",
+3
+],
+[
+"dance of the bee",
+3
+],
+[
+"Diablada puneña",
+3
+],
+[
+"Dikir barat",
+3
+],
+[
+"Dipat",
+3
+],
+[
+"Vo luzyakh",
+3
+],
+[
+"Navarese jota",
+3
+],
+[
+"fan dance",
+3
+],
+[
+"first dance",
+3
+],
+[
+"Mexican folk dance",
+3
+],
+[
+"Saidi",
+3
+],
+[
+"Freilekhs",
+3
+],
+[
+"Japanese flamenco",
+3
+],
+[
+"Gangsta Walking",
+3
+],
+[
+"Garadi",
+3
+],
+[
+"Garudan Thookkam",
+3
+],
+[
+"Gaur Maria Dance",
+3
+],
+[
+"beni",
+3
+],
+[
+"Crnogorsko oro",
+3
+],
+[
+"Tenun dance",
+3
+],
+[
+"Aer Ulak",
+3
+],
+[
+"free step",
+3
+],
+[
+"Pandilla Punoan",
+3
+],
+[
+"Kazagi",
+3
+],
+[
+"Larrain dance",
+3
+],
+[
+"cueca chilota",
+3
+],
+[
+"Los Negritos dance",
+3
+],
+[
+"Afro-Peruan dance",
+3
+],
+[
+"Flor de piña",
+3
+],
+[
+"Hunguhungu",
+3
+],
+[
+"Iki arvadli",
+3
+],
+[
+"Mandilatos",
+3
+],
+[
+"mozo danza",
+3
+],
+[
+"Samani",
+3
+],
+[
+"dartma yaxam cirildi",
+3
+],
+[
+"international folk dance",
+3
+],
+[
+"pericón",
+3
+],
+[
+"Husachok",
+3
+],
+[
+"Seises",
+3
+],
+[
+"Tarantas",
+3
+],
+[
+"zapateo tabasqueño",
+3
+],
+[
+"Jeni Jol",
+3
+],
+[
+"Jikey",
+3
+],
+[
+"Kovali",
+3
+],
+[
+"Waving",
+3
+],
+[
+"Kaşık Havası",
+3
+],
+[
+"desmali",
+3
+],
+[
+"Kōwakamai",
+3
+],
+[
+"La Raspa",
+3
+],
+[
+"Sajojo",
+3
+],
+[
+"serampang dua belas dance",
+3
+],
+[
+"Estonian folk dance",
+3
+],
+[
+"Caucasian folk dance",
+3
+],
+[
+"Likok Pulo",
+3
+],
+[
+"Longa",
+3
+],
+[
+"mangambeu",
+3
+],
+[
+"Mexican cumbia",
+3
+],
+[
+"Osogovka",
+3
+],
+[
+"Pembe",
+3
+],
+[
+"Peruvian dance",
+3
+],
+[
+"Pidikhtos",
+3
+],
+[
+"Podaraki",
+3
+],
+[
+"Sandae noli",
+3
+],
+[
+"Barongan",
+3
+],
+[
+"Dabus",
+3
+],
+[
+"Inai",
+3
+],
+[
+"Siva Samoa",
+3
+],
+[
+"Skudrinka",
+3
+],
+[
+"Sousta",
+3
+],
+[
+"Kola",
+3
+],
+[
+"tecnocumbia",
+3
+],
+[
+"Temple dance",
+3
+],
+[
+"tropotianka",
+3
+],
+[
+"Tsakonikos",
+3
+],
+[
+"Turkish Cypriot folk dances",
+3
+],
+[
+"slam",
+3
+],
+[
+"Youz bir",
+3
+],
+[
+"Zebola",
+3
+],
+[
+"Spanish dance",
+3
+],
+[
+"cumbia rebajada",
+3
+],
+[
+"El vito",
+3
+],
+[
+"Kantu",
+3
+],
+[
+"merecumbé",
+3
+],
+[
+"muliza",
+3
+],
+[
+"Shapish",
+3
+],
+[
+"Torbellino",
+3
+],
+[
+"tobas",
+3
+],
+[
+"funk dance",
+3
+],
+[
+"Beksan Etheg",
+3
+],
+[
+"Tari Baluse",
+3
+],
+[
+"Tari Manduda",
+3
+],
+[
+"Malaysian dance",
+3
+],
+[
+"lahbako dance",
+3
 ]
 ]

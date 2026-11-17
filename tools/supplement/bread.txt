@@ -1,0 +1,52 @@
+Bao=bao bun
+Dinner Roll
+Hot Cross Bun
+Zopf
+Knäckebröd=knackebrod=crispbread
+French Bread
+Sandwich Bread
+Hamburger Bun
+Hot Dog Bun
+Brioche Bun
+Kaiser Roll
+Hoagie Roll
+Sub Roll
+Pan de Sal
+Pandesal
+Pan de Muerto
+Conchas
+Kulich
+Paska
+Pão de Queijo
+Cheese Bread
+Rosca
+Cozonac
+Pogača
+Lángos
+Simit
+Bazlama
+Pide
+Barbari
+Sangak
+Taftan
+Bammy
+Hardo Bread
+Coco Bread
+Johnny Cake
+Fry Bread
+Bannock
+Hushpuppy
+Spoon Bread
+Popover
+Yorkshire Pudding
+Crumpet
+Pikelet
+Oatcake
+Farl
+Barmbrack
+Cottage Loaf
+Bloomer
+Tiger Bread
+Batch Loaf
+Sliced Bread
+Toast

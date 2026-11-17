@@ -1,5 +1,9 @@
 [
 [
+"COVID-19",
+228
+],
+[
 "HIV/AIDS",
 211
 ],
@@ -8,15 +12,695 @@
 206
 ],
 [
+"malaria",
+197
+],
+[
+"tuberculosis",
+189
+],
+[
+"diabetes",
+183
+],
+[
+"influenza",
+165
+],
+[
+"cholera",
+162
+],
+[
+"rabies",
+153
+],
+[
+"obesity",
+152
+],
+[
+"smallpox",
+150
+],
+[
+"Ebola hemorrhagic fever",
+150
+],
+[
+"common cold",
+147
+],
+[
+"pneumonia",
+147
+],
+[
+"deafness",
+146
+],
+[
+"leprosy",
+146
+],
+[
+"measles",
+144
+],
+[
+"Alzheimer's disease",
+142
+],
+[
+"stroke",
+140
+],
+[
+"myocardial infarction",
+138
+],
+[
+"epilepsy",
+138
+],
+[
+"sexually transmitted infection",
+137
+],
+[
+"mental disorder",
+132
+],
+[
+"alcoholism",
+132
+],
+[
+"diarrhea",
+132
+],
+[
+"blindness",
+130
+],
+[
+"asthma",
+130
+],
+[
+"poliomyelitis",
+129
+],
+[
+"autism",
+128
+],
+[
+"allergy",
+127
+],
+[
+"syphilis",
+125
+],
+[
+"malnutrition",
+124
+],
+[
+"plague",
+124
+],
+[
+"schizophrenia",
+123
+],
+[
+"depression",
+120
+],
+[
+"chickenpox",
+116
+],
+[
+"arterial hypertension",
+115
+],
+[
+"dengue fever",
+114
+],
+[
+"hemorrhoid",
+114
+],
+[
+"Parkinson's disease",
+112
+],
+[
+"breast cancer",
+110
+],
+[
+"avian influenza",
+109
+],
+[
+"anemia",
+109
+],
+[
+"meningitis",
+108
+],
+[
+"chronic obstructive pulmonary disease",
+107
+],
+[
+"lung cancer",
+106
+],
+[
+"dementia",
+106
+],
+[
+"pertussis",
+105
+],
+[
+"female genital mutilation",
+105
+],
+[
+"leukemia",
+105
+],
+[
+"gastroenteritis",
+104
+],
+[
+"typhoid fever",
+104
+],
+[
+"scabies",
+103
+],
+[
+"swine influenza",
+103
+],
+[
+"diphtheria",
+102
+],
+[
+"Down syndrome",
+102
+],
+[
+"larynx",
+102
+],
+[
+"gonorrhea",
+101
+],
+[
+"mumps",
+101
+],
+[
+"acne",
+101
+],
+[
+"inflammation",
+100
+],
+[
+"insomnia",
+100
+],
+[
+"major depressive disorder",
+100
+],
+[
+"hepatitis B",
+100
+],
+[
+"hepatitis A",
+99
+],
+[
+"infectious disease",
+99
+],
+[
+"tetanus",
+99
+],
+[
+"dysentery",
+98
+],
+[
+"migraine",
+98
+],
+[
+"anthrax",
+97
+],
+[
+"hallucination",
+97
+],
+[
+"bipolar disorder",
+96
+],
+[
+"obsessive-compulsive disorder",
+96
+],
+[
+"myopia",
+95
+],
+[
+"cataract",
+94
+],
+[
+"phobia",
+94
+],
+[
+"scurvy",
+93
+],
+[
+"Dental caries",
+92
+],
+[
+"liver cirrhosis",
+92
+],
+[
+"bronchitis",
+92
+],
+[
+"hepatitis",
+91
+],
+[
+"dyslexia",
+91
+],
+[
+"yellow fever",
+91
+],
+[
+"glaucoma",
+91
+],
+[
+"arthritis",
+91
+],
+[
+"mpox",
+91
+],
+[
+"appendicitis",
+90
+],
+[
+"wart",
+89
+],
+[
+"dandruff",
+89
+],
+[
+"attention deficit hyperactivity disorder",
+89
+],
+[
+"sepsis",
+89
+],
+[
+"gout",
+88
+],
+[
+"typhus",
+88
+],
+[
+"conjunctivitis",
+88
+],
+[
+"constipation",
+88
+],
+[
+"heart failure",
+88
+],
+[
+"rubella",
+87
+],
+[
+"osteoporosis",
+87
+],
+[
+"gangrene",
+87
+],
+[
+"anorexia nervosa",
+86
+],
+[
+"hernia",
+86
+],
+[
+"color blindness",
+86
+],
+[
+"Asperger syndrome",
+86
+],
+[
+"coma",
+85
+],
+[
+"kidney stone disease",
+85
+],
+[
+"albinism",
+85
+],
+[
+"cervix uterine cancer",
+84
+],
+[
+"vitiligo",
+84
+],
+[
+"prostate cancer",
+84
+],
+[
+"post-traumatic stress disorder",
+84
+],
+[
+"bone fracture",
+83
+],
+[
+"amnesia",
+82
+],
+[
+"hepatitis C",
+82
+],
+[
+"amyotrophic lateral sclerosis",
+82
+],
+[
+"multiple sclerosis",
+82
+],
+[
+"psoriasis",
+81
+],
+[
+"scarlet fever",
+81
+],
+[
+"melancholia",
+81
+],
+[
+"Lyme disease",
+81
+],
+[
+"African trypanosomiasis",
+81
+],
+[
+"celiac disease",
+80
+],
+[
+"paranoia",
+80
+],
+[
+"goiter",
+80
+],
+[
+"tonsillitis",
+80
+],
+[
+"herpes simplex",
+80
+],
+[
+"hemophilia",
+79
+],
+[
+"severe acute respiratory syndrome",
+78
+],
+[
+"systemic lupus erythematosus",
+78
+],
+[
+"gastritis",
+78
+],
+[
+"human papillomavirus infection",
+78
+],
+[
+"colorectal cancer",
+78
+],
+[
+"leishmaniasis",
+78
+],
+[
+"leptospirosis",
+77
+],
+[
+"anaphylaxis",
+77
+],
+[
+"shock",
+77
+],
+[
+"neurosis",
+77
+],
+[
+"herpes zoster",
+77
+],
+[
+"skin cancer",
+77
+],
+[
+"tinnitus",
+77
+],
+[
+"schistosomiasis",
+77
+],
+[
+"cardiovascular disease",
+77
+],
+[
+"botulism",
+76
+],
+[
+"peptic ulcer disease",
+76
+],
+[
+"infertility",
+76
+],
+[
+"melanoma",
+76
+],
+[
+"heart arrhythmia",
+76
+],
+[
+"hordeolum",
+76
+],
+[
+"sinusitis",
+75
+],
+[
+"rickets",
+75
+],
+[
 "dwarfism",
 75
+],
+[
+"encephalitis",
+75
+],
+[
+"borderline personality disorder",
+75
+],
+[
+"miscarriage",
+75
+],
+[
+"apathy",
+75
+],
+[
+"osteoarthritis",
+75
+],
+[
+"paralysis",
+74
+],
+[
+"déjà vu",
+74
+],
+[
+"agoraphobia",
+74
+],
+[
+"strabismus",
+74
+],
+[
+"angina pectoris",
+74
+],
+[
+"freckle",
+74
+],
+[
+"acromegaly",
+74
 ],
 [
 "hysteria",
 73
 ],
 [
+"Crohn's disease",
+73
+],
+[
+"astigmatism",
+73
+],
+[
+"syndrome",
+73
+],
+[
+"stuttering",
+73
+],
+[
+"stomach cancer",
+73
+],
+[
+"delusion",
+73
+],
+[
+"cardiac arrest",
+73
+],
+[
+"endometriosis",
+73
+],
+[
+"alcohol intoxication",
+73
+],
+[
+"Chagas disease",
+73
+],
+[
+"brucellosis",
+72
+],
+[
 "intellectual disability",
+72
+],
+[
+"brain tumor",
 72
 ],
 [
@@ -24,47 +708,9419 @@
 71
 ],
 [
+"hyperopia",
+71
+],
+[
+"aneurysm",
+71
+],
+[
+"alopecia",
+71
+],
+[
+"scoliosis",
+70
+],
+[
+"rheumatoid arthritis",
+70
+],
+[
+"pancreatic cancer",
+70
+],
+[
+"kidney failure",
+70
+],
+[
+"anxiety disorder",
+70
+],
+[
+"foot-and-mouth disease",
+69
+],
+[
+"chlamydia infection",
+69
+],
+[
+"cystic fibrosis",
+69
+],
+[
+"lymphoma",
+69
+],
+[
+"bubonic plague",
+69
+],
+[
+"chikungunya",
+69
+],
+[
+"autoimmune disease",
+69
+],
+[
+"beriberi",
+68
+],
+[
+"sickle-cell disease",
+68
+],
+[
+"substance dependence",
+68
+],
+[
+"rheumatism",
+68
+],
+[
+"coronary artery disease",
+68
+],
+[
 "hypoxia",
 67
+],
+[
+"zoonosis",
+67
+],
+[
+"mania",
+67
+],
+[
+"Tourette syndrome",
+67
+],
+[
+"personality disorder",
+67
+],
+[
+"aphasia",
+67
+],
+[
+"sleepwalking",
+67
+],
+[
+"sleep paralysis",
+67
+],
+[
+"atherosclerosis",
+66
+],
+[
+"pancreatitis",
+66
+],
+[
+"hypothyroidism",
+66
+],
+[
+"ovarian cancer",
+66
 ],
 [
 "metastasis",
 66
 ],
 [
+"erectile dysfunction",
+66
+],
+[
+"urticaria",
+66
+],
+[
+"Huntington's disease",
+66
+],
+[
+"boil",
+66
+],
+[
+"urinary tract infection",
+66
+],
+[
+"pre-eclampsia",
+66
+],
+[
+"bulimia nervosa",
+66
+],
+[
+"myasthenia gravis",
+66
+],
+[
+"ascariasis",
+66
+],
+[
+"onchocerciasis",
+65
+],
+[
+"autism spectrum disorder",
+65
+],
+[
+"narcolepsy",
+65
+],
+[
+"trachoma",
+65
+],
+[
+"Turner syndrome",
+65
+],
+[
+"Guillain–Barré syndrome",
+65
+],
+[
+"fibromyalgia",
+65
+],
+[
+"liver cancer",
+65
+],
+[
+"hyperbole",
+64
+],
+[
+"dissociative identity disorder",
+64
+],
+[
+"cerebral palsy",
+64
+],
+[
+"vocal folds",
+64
+],
+[
+"night blindness",
+64
+],
+[
+"Addison's disease",
+64
+],
+[
+"rhinitis",
+63
+],
+[
+"synesthesia",
+63
+],
+[
 "frostbite",
 63
+],
+[
+"thalassemia",
+63
+],
+[
+"hypoglycemia",
+63
+],
+[
+"ectopic pregnancy",
+63
+],
+[
+"cysticercosis",
+63
+],
+[
+"social anxiety disorder",
+63
+],
+[
+"Creutzfeldt-Jakob disease",
+63
+],
+[
+"gallstone disease",
+63
+],
+[
+"claustrophobia",
+62
+],
+[
+"nosebleed",
+62
+],
+[
+"tachycardia",
+62
+],
+[
+"dermatitis",
+62
+],
+[
+"foodborne illness",
+62
+],
+[
+"Zika fever",
+62
+],
+[
+"dysmenorrhea",
+62
+],
+[
+"irritable bowel syndrome",
+62
+],
+[
+"antisocial personality disorder",
+61
+],
+[
+"bovine spongiform encephalopathy",
+61
+],
+[
+"toxoplasmosis",
+61
+],
+[
+"dermatophytosis",
+61
+],
+[
+"sarcoidosis",
+61
+],
+[
+"phenylketonuria",
+61
+],
+[
+"Marfan syndrome",
+61
+],
+[
+"myalgic encephalomyelitis/chronic fatigue syndrome",
+61
+],
+[
+"blister",
+61
 ],
 [
 "inferiority complex",
 61
 ],
 [
+"heat stroke",
+61
+],
+[
+"hypochondriasis",
+60
+],
+[
+"toxic diffuse goiter",
+60
+],
+[
+"varicose veins",
+60
+],
+[
+"Hodgkin lymphoma",
+60
+],
+[
+"lactose intolerance",
+60
+],
+[
+"pulmonary embolism",
+60
+],
+[
+"peritonitis",
+60
+],
+[
+"gastroesophageal reflux disease",
+60
+],
+[
+"type 2 diabetes",
+60
+],
+[
+"Sjögren's syndrome",
+60
+],
+[
+"multiple myeloma",
+60
+],
+[
+"hand, foot and mouth disease",
+60
+],
+[
+"gingivitis",
+60
+],
+[
+"croup",
+60
+],
+[
+"lower back pain",
+60
+],
+[
+"eczema",
+60
+],
+[
+"genetic disease",
+59
+],
+[
+"Klinefelter's syndrome",
+59
+],
+[
+"infectious mononucleosis",
+59
+],
+[
+"motion sickness",
+59
+],
+[
+"polyendocrine metabolic ovarian syndrome",
+59
+],
+[
+"narcissistic personality disorder",
+58
+],
+[
+"arteriosclerosis",
+58
+],
+[
+"ischemia",
+58
+],
+[
+"hangover",
+58
+],
+[
+"amblyopia",
+58
+],
+[
+"progeria",
+58
+],
+[
+"thrombosis",
+58
+],
+[
+"phimosis",
+58
+],
+[
+"hematoma",
+58
+],
+[
+"periodontitis",
+58
+],
+[
+"bacterial vaginosis",
+58
+],
+[
+"pulmonary emphysema",
+57
+],
+[
+"hydrocephalus",
+57
+],
+[
+"erysipelas",
+57
+],
+[
+"sleep apnea",
+57
+],
+[
+"Cushing's syndrome",
+57
+],
+[
+"allergic rhinitis",
+57
+],
+[
+"carcinoma",
+57
+],
+[
+"eating disorder",
+57
+],
+[
+"ankylosing spondylitis",
+57
+],
+[
+"pleurisy",
+57
+],
+[
 "sciatica",
 57
+],
+[
+"echinococcosis",
+57
+],
+[
+"Wilson disease",
+56
+],
+[
+"ulcerative colitis",
+56
+],
+[
+"hyperthyroidism",
+56
+],
+[
+"pharyngitis",
+56
+],
+[
+"antimicrobial resistance",
+56
+],
+[
+"bradycardia",
+56
+],
+[
+"porphyria",
+56
+],
+[
+"radiation syndrome",
+56
+],
+[
+"salmonellosis",
+56
+],
+[
+"dracunculiasis",
+56
+],
+[
+"sunburn",
+56
+],
+[
+"snakebite",
+56
+],
+[
+"atrial fibrillation",
+56
+],
+[
+"puerperal infection",
+55
+],
+[
+"delirium",
+55
+],
+[
+"jet lag",
+55
+],
+[
+"pneumothorax",
+55
+],
+[
+"kleptomania",
+55
+],
+[
+"conjoined twins",
+55
+],
+[
+"arachnophobia",
+55
+],
+[
+"nystagmus",
+55
+],
+[
+"hyperglycemia",
+55
+],
+[
+"Kuru",
+55
+],
+[
+"gynecomastia",
+55
+],
+[
+"disappointment",
+55
+],
+[
+"indigestion",
+55
+],
+[
+"vaginal discharge",
+55
+],
+[
+"streptococcal pharyngitis",
+55
+],
+[
+"postpartum depression",
+55
+],
+[
+"gender dysphoria",
+54
+],
+[
+"gestational diabetes",
+54
+],
+[
+"toothache",
+54
+],
+[
+"tularemia",
+54
+],
+[
+"myocarditis",
+54
+],
+[
+"ataxia",
+54
+],
+[
+"premenstrual syndrome",
+54
+],
+[
+"pellagra",
+54
+],
+[
+"glioblastoma",
+54
+],
+[
+"esophageal cancer",
+54
+],
+[
+"cholecystitis",
+54
+],
+[
+"mastitis",
+54
+],
+[
+"lead poisoning",
+53
+],
+[
+"intoxication",
+53
+],
+[
+"aphthous stomatitis",
+53
+],
+[
+"delirium tremens",
+53
+],
+[
+"diabetes insipidus",
+53
+],
+[
+"otitis media",
+53
+],
+[
+"brain death",
+53
+],
+[
+"candidiasis",
+53
+],
+[
+"hypotension",
+53
+],
+[
+"amenorrhea",
+53
+],
+[
+"achondroplasia",
+53
+],
+[
+"visual impairment",
+53
+],
+[
+"rheumatic fever",
+53
+],
+[
+"cellulitis",
+53
+],
+[
+"Buruli ulcer disease",
+52
+],
+[
+"chronic thyroiditis",
+52
+],
+[
+"Ehlers-Danlos syndrome",
+52
+],
+[
+"carbon monoxide poisoning",
+52
 ],
 [
 "cyst",
 52
 ],
 [
+"anogenital venereal wart",
+52
+],
+[
+"cleft lip and cleft palate",
+52
+],
+[
+"tremor",
+52
+],
+[
+"hypersexuality",
+52
+],
+[
+"atopic dermatitis",
+52
+],
+[
+"embolism",
+52
+],
+[
+"pressure ulcer",
+52
+],
+[
+"coprophagia",
+52
+],
+[
+"concussion",
+52
+],
+[
+"chronic condition",
+52
+],
+[
+"heterochromia",
+52
+],
+[
+"abnormal kyphosis",
+52
+],
+[
+"pericarditis",
+52
+],
+[
+"muteness",
+52
+],
+[
+"nevus",
+52
+],
+[
+"congenital disorder",
+52
+],
+[
+"panic disorder",
+52
+],
+[
+"pulmonary edema",
+52
+],
+[
+"scleroderma",
+52
+],
+[
+"Bell's palsy",
+51
+],
+[
+"laryngitis",
+51
+],
+[
+"legionnaires' disease",
+51
+],
+[
+"bald head",
+51
+],
+[
 "atrophy",
 51
+],
+[
+"urinary incontinence",
+51
+],
+[
+"carpal tunnel syndrome",
+51
+],
+[
+"Meniere's disease",
+51
+],
+[
+"bruise",
+51
+],
+[
+"lipoma",
+51
+],
+[
+"amyloidosis",
+51
+],
+[
+"heart disease",
+50
+],
+[
+"Kawasaki disease",
+50
+],
+[
+"Rift Valley fever",
+50
+],
+[
+"prostatic hypertrophy",
+50
+],
+[
+"combined malonic and methylmalonic acidemia",
+50
+],
+[
+"tinea pedis",
+50
+],
+[
+"ulcer",
+50
+],
+[
+"stillbirth",
+50
+],
+[
+"calculus",
+49
+],
+[
+"priapism",
+49
+],
+[
+"acute myeloid leukemia",
+49
+],
+[
+"adenoma",
+49
+],
+[
+"nocturnal enuresis",
+49
+],
+[
+"giardiasis",
+49
+],
+[
+"prostatitis",
+49
+],
+[
+"hematuria",
+49
+],
+[
+"hemolysis",
+49
+],
+[
+"schizoid personality disorder",
+49
+],
+[
+"pyromania",
+49
+],
+[
+"thyroid cancer",
+49
+],
+[
+"rosacea",
+49
+],
+[
+"congenital heart disease",
+49
+],
+[
+"grandiose delusions",
+49
+],
+[
+"cerebral hemorrhage",
+48
+],
+[
+"sudden infant death syndrome",
+48
+],
+[
+"Duchenne muscular dystrophy",
+48
 ],
 [
 "fistula",
 48
 ],
 [
+"vitamin deficiency",
+48
+],
+[
+"sarcoma",
+48
+],
+[
+"fungal infectious disease",
+48
+],
+[
+"foot binding",
+48
+],
+[
+"nephrotic syndrome",
+48
+],
+[
+"Raynaud syndrome",
+48
+],
+[
+"eclampsia",
+48
+],
+[
+"Williams-Beuren syndrome",
+48
+],
+[
+"trypophobia",
+48
+],
+[
+"vasculitis",
+48
+],
+[
+"molluscum contagiosum",
+48
+],
+[
+"vaginitis",
+48
+],
+[
+"chronic renal insufficiency",
+48
+],
+[
+"trichomoniasis",
+48
+],
+[
+"body dysmorphic disorder",
+48
+],
+[
+"starvation",
+48
+],
+[
+"long covid",
+47
+],
+[
+"flying phobia",
+47
+],
+[
+"vaginismus",
+47
+],
+[
+"type-1 diabetes",
+47
+],
+[
+"hearing loss",
+47
+],
+[
+"viral hemorrhagic fever",
+47
+],
+[
+"acidosis",
+47
+],
+[
+"swallowing",
+47
+],
+[
+"agnosia",
+47
+],
+[
+"culture shock",
+47
+],
+[
+"impetigo",
+47
+],
+[
+"premature ejaculation",
+47
+],
+[
+"presbyopia",
+47
+],
+[
+"polydactyly",
+47
+],
+[
+"seborrhoeic dermatitis",
+47
+],
+[
+"decompression sickness",
+47
+],
+[
+"trance",
+47
+],
+[
+"savant syndrome",
+47
+],
+[
+"trichinosis",
+47
+],
+[
+"bladder cancer",
+47
+],
+[
+"flat feet",
+47
+],
+[
+"spinal disc herniation",
+47
+],
+[
+"tetraphobia",
+47
+],
+[
+"Reye syndrome",
+47
+],
+[
+"learning disability",
+47
+],
+[
+"restless legs syndrome",
+47
+],
+[
+"muscular dystrophy",
+46
+],
+[
+"floater",
+46
+],
+[
+"dental plaque",
+46
+],
+[
+"listeriosis",
+46
+],
+[
+"muscle cramp",
+46
+],
+[
 "hypertrophy",
 46
+],
+[
+"prosopagnosia",
+46
+],
+[
+"hepatitis E",
+46
+],
+[
+"bronchiectasis",
+46
+],
+[
+"gigantism",
+46
+],
+[
+"alopecia areata",
+46
+],
+[
+"avoidant personality disorder",
+46
+],
+[
+"uterine fibroid",
+46
+],
+[
+"mental confusion",
+46
+],
+[
+"trichotillomania",
+46
+],
+[
+"preterm birth",
+46
+],
+[
+"Japanese encephalitis",
+46
+],
+[
+"problem gambling",
+46
+],
+[
+"spina bifida",
+46
+],
+[
+"histrionic personality disorder",
+46
+],
+[
+"cardiomyopathy",
+46
+],
+[
+"rhabdomyolysis",
+46
+],
+[
+"hyperhidrosis",
+46
+],
+[
+"iron deficiency anemia",
+46
+],
+[
+"angioedema",
+45
+],
+[
+"trigeminal neuralgia",
+45
+],
+[
+"necrotizing fasciitis",
+45
+],
+[
+"keratoconjunctivitis sicca",
+45
+],
+[
+"filarial elephantiasis",
+45
+],
+[
+"viral infectious disease",
+45
+],
+[
+"teratoma",
+45
+],
+[
+"anorexia",
+45
+],
+[
+"macular degeneration",
+45
+],
+[
+"drug overdose",
+45
+],
+[
+"dysthymia",
+45
+],
+[
+"Edwards syndrome",
+45
+],
+[
+"Nipah virus infection",
+45
+],
+[
+"silicosis",
+45
+],
+[
+"endocarditis",
+45
+],
+[
+"Rett syndrome",
+45
+],
+[
+"endometrial cancer",
+45
+],
+[
+"amebiasis",
+45
+],
+[
+"diverticulitis",
+44
+],
+[
+"pica",
+44
+],
+[
+"sexual dysfunction",
+44
+],
+[
+"fetal alcohol spectrum disorders",
+44
+],
+[
+"kwashiorkor",
+44
+],
+[
+"polyploidy",
+44
+],
+[
+"cystitis",
+44
+],
+[
+"pulmonary fibrosis",
+44
+],
+[
+"Minamata disease",
+44
+],
+[
+"microcephaly",
+44
+],
+[
+"pyelonephritis",
+44
+],
+[
+"varicocele",
+44
+],
+[
+"factitious disorder imposed on self",
+44
+],
+[
+"bursitis",
+44
+],
+[
+"osteogenesis imperfecta",
+44
+],
+[
+"yaws",
+44
+],
+[
+"hyponatremia",
+44
+],
+[
+"pulmonary hypertension",
+43
+],
+[
+"inguinal hernia",
+43
+],
+[
+"clubfoot",
+43
+],
+[
+"West Nile fever",
+43
+],
+[
+"uremia",
+43
+],
+[
+"ovarian cyst",
+43
+],
+[
+"mood disorder",
+43
+],
+[
+"trichuriasis",
+43
+],
+[
+"drug withdrawal",
+43
+],
+[
+"endemic disease",
+43
+],
+[
+"triple X syndrome",
+43
+],
+[
+"Angelman syndrome",
+43
+],
+[
+"anhedonia",
+43
+],
+[
+"Tay-Sachs disease",
+43
+],
+[
+"back pain",
+43
+],
+[
+"Prader–Willi syndrome",
+43
+],
+[
+"fatty liver disease",
+43
+],
+[
+"achalasia",
+43
+],
+[
+"exanthema subitum",
+43
+],
+[
+"Kaposi's sarcoma",
+43
+],
+[
+"respiratory failure",
+43
+],
+[
+"filariasis",
+43
+],
+[
+"ventricular fibrillation",
+43
+],
+[
+"pityriasis versicolor",
+43
+],
+[
+"somatic symptom disorder",
+43
+],
+[
+"neuroblastoma",
+43
+],
+[
+"osteomyelitis",
+43
+],
+[
+"mesothelioma",
+42
+],
+[
+"balanitis",
+42
 ],
 [
 "colic",
 42
 ],
 [
+"Q fever",
+42
+],
+[
+"Middle East respiratory syndrome",
+42
+],
+[
+"septic shock",
+42
+],
+[
+"acute lymphocytic leukemia",
+42
+],
+[
+"blind spot",
+42
+],
+[
+"selective mutism",
+42
+],
+[
+"acute kidney injury",
+42
+],
+[
+"myalgia",
+42
+],
+[
+"pelvic inflammatory diseases",
+42
+],
+[
+"proteinuria",
+42
+],
+[
+"thrombocytopenia",
+42
+],
+[
+"transient cerebral isolation",
+42
+],
+[
+"Korsakoff's syndrome",
+42
+],
+[
+"dysphagia",
+42
+],
+[
+"diabetic retinopathy",
+42
+],
+[
+"dyscalculia",
+42
+],
+[
+"paranoid personality disorder",
+42
+],
+[
+"cri-du-chat syndrome",
+42
+],
+[
+"generalized anxiety disorder",
+42
+],
+[
+"blepharitis",
+42
+],
+[
+"rare disease",
+42
+],
+[
+"insulin resistance",
+41
+],
+[
+"toxic shock syndrome",
+41
+],
+[
+"non-Hodgkin lymphoma",
+41
+],
+[
+"persistent vegetative state",
+41
+],
+[
+"colitis",
+41
+],
+[
+"acute coronary syndrome",
+41
+],
+[
+"dysgraphia",
+41
+],
+[
+"aortic dissection",
+41
+],
+[
+"miosis",
+41
+],
+[
+"Lassa fever",
+41
+],
+[
+"food allergy",
+41
+],
+[
+"lymphadenopathy",
+41
+],
+[
+"schizotypal personality disorder",
+41
+],
+[
+"skin disease",
+41
+],
+[
+"Crimean-Congo hemorrhagic fever",
+40
+],
+[
+"alexithymia",
+40
+],
+[
+"hypospadias",
+40
+],
+[
+"comedo",
+40
+],
+[
 "dyspareunia",
 40
+],
+[
+"hypercalcemia",
+40
+],
+[
+"sleep disorder",
+40
+],
+[
+"uveitis",
+40
+],
+[
+"hypoactive sexual desire disorder",
+40
+],
+[
+"subdural hematoma",
+40
+],
+[
+"tick-borne encephalitis",
+40
+],
+[
+"acute respiratory distress syndrome",
+40
+],
+[
+"pathological lying",
+40
+],
+[
+"phaeochromocytoma",
+40
+],
+[
+"osteosarcoma",
+40
+],
+[
+"spinal muscular atrophy",
+40
+],
+[
+"canine distemper",
+40
+],
+[
+"occupational disease",
+40
+],
+[
+"immunodeficiency",
+40
+],
+[
+"metabolic syndrome",
+40
+],
+[
+"subarachnoid hemorrhage",
+40
+],
+[
+"melanism",
+40
+],
+[
+"Treacher Collins syndrome",
+40
+],
+[
+"genital herpes",
+40
+],
+[
+"meibomian cyst",
+40
+],
+[
+"diplopia",
+40
+],
+[
+"basal-cell carcinoma of the skin",
+40
+],
+[
+"disseminated intravascular coagulation",
+40
+],
+[
+"neurofibromatoses",
+40
+],
+[
+"mushroom poisoning",
+40
+],
+[
+"hallux valgus",
+40
+],
+[
+"onychomycosis",
+40
+],
+[
+"echolalia",
+40
+],
+[
+"technophobia",
+39
+],
+[
+"seasonal affective disorder",
+39
+],
+[
+"chronic lymphocytic leukemia",
+39
+],
+[
+"urethritis",
+39
+],
+[
+"tetralogy of Fallot",
+39
+],
+[
+"water intoxication",
+39
+],
+[
+"Dupuytren's contracture",
+39
+],
+[
+"choking",
+39
+],
+[
+"compulsive hoarding",
+39
+],
+[
+"fragile X syndrome",
+39
+],
+[
+"Herpes labialis",
+39
+],
+[
+"XYY syndrome",
+39
+],
+[
+"testicular cancer",
+39
+],
+[
+"aboulia",
+39
+],
+[
+"neurasthenia",
+39
+],
+[
+"aortic valve stenosis",
+39
+],
+[
+"hydrocele",
+39
+],
+[
+"keratoconus",
+39
+],
+[
+"serotonin syndrome",
+39
+],
+[
+"opportunistic infection",
+39
+],
+[
+"retinitis pigmentosa",
+39
+],
+[
+"peripheral neuropathy",
+39
+],
+[
+"Cotard's syndrome",
+38
+],
+[
+"palpitation",
+38
+],
+[
+"mydriasis",
+38
+],
+[
+"mouth cancer",
+38
+],
+[
+"benign neoplasm",
+38
+],
+[
+"menorrhagia",
+38
+],
+[
+"rinderpest",
+38
+],
+[
+"hirsutism",
+38
+],
+[
+"cluster headache",
+38
+],
+[
+"misophonia",
+38
+],
+[
+"dysarthria",
+38
+],
+[
+"aspergillosis",
+38
+],
+[
+"Patau syndrome",
+38
+],
+[
+"akathisia",
+38
+],
+[
+"bronchiolitis",
+38
+],
+[
+"plantar fasciitis",
+38
+],
+[
+"hypersensitivity",
+38
+],
+[
+"Brugada syndrome",
+38
+],
+[
+"hyperkalemia",
+38
+],
+[
+"ptosis",
+38
+],
+[
+"pneumoconiosis",
+38
+],
+[
+"paratyphoid fever",
+38
+],
+[
+"hiatus hernia",
+38
+],
+[
+"chronic myeloid leukemia",
+38
+],
+[
+"hydronephrosis",
+38
+],
+[
+"tennis elbow",
+38
+],
+[
+"hypersomnia",
+38
+],
+[
+"depersonalization",
+38
+],
+[
+"dysphonia",
+38
+],
+[
+"osteomalacia",
+38
+],
+[
+"hemangioma",
+38
+],
+[
+"fatal insomnia",
+38
+],
+[
+"catalepsy",
+38
+],
+[
+"myelodysplastic syndrome",
+38
+],
+[
+"kidney disease",
+37
+],
+[
+"morning sickness",
+37
+],
+[
+"Jerusalem syndrome",
+37
+],
+[
+"splenomegaly",
+37
+],
+[
+"granuloma",
+37
+],
+[
+"hypernatremia",
+37
+],
+[
+"Ewing sarcoma",
+37
+],
+[
+"hepatocellular carcinoma",
+37
+],
+[
+"intracranial aneurysm",
+37
+],
+[
+"pleural effusion",
+37
+],
+[
+"endometritis",
+37
+],
+[
+"hypertrophic cardiomyopathy",
+37
+],
+[
+"phlebitis",
+37
+],
+[
+"placenta praevia",
+37
+],
+[
+"ornithosis",
+37
+],
+[
+"viral hepatitis",
+37
+],
+[
+"traumatic brain injury",
+37
+],
+[
+"iron overload",
+37
+],
+[
+"obsessive-compulsive personality disorder",
+37
+],
+[
+"cyclothymia",
+37
+],
+[
+"photophobia",
+37
+],
+[
+"chancroid",
+37
+],
+[
+"adenocarcinoma",
+37
+],
+[
+"paronychia",
+37
+],
+[
+"nephritis",
+37
+],
+[
+"mercury poisoning",
+37
+],
+[
+"health effects of smoking tobacco",
+37
+],
+[
+"leukopenia",
+37
+],
+[
+"retinoblastoma",
+37
+],
+[
+"chronic traumatic encephalopathy",
+37
+],
+[
+"DiGeorge syndrome",
+37
+],
+[
+"Bartholin's duct cyst",
+37
+],
+[
+"hypertrichosis",
+37
+],
+[
+"glomerulonephritis",
+37
+],
+[
+"postural orthostatic tachycardia syndrome",
+37
+],
+[
+"retinal detachment",
+37
+],
+[
+"perversion",
+37
+],
+[
+"seizure",
+37
+],
+[
+"Gilbert syndrome",
+37
+],
+[
+"hypokalemia",
+37
+],
+[
+"benign paroxysmal positional nystagmus",
+37
+],
+[
+"aplastic anemia",
+37
+],
+[
+"Peyronie's disease",
+37
+],
+[
+"blood phobia",
+37
+],
+[
+"polycythemia vera",
+37
+],
+[
+"liver failure",
+37
+],
+[
+"vulvovaginal candidiasis",
+37
+],
+[
+"ingrown nail",
+36
+],
+[
+"Mongolian spot",
+36
+],
+[
+"Chlorosis",
+36
+],
+[
+"keloid",
+36
+],
+[
+"stiff-person syndrome",
+36
+],
+[
+"cholangiocarcinoma",
+36
+],
+[
+"reactive arthritis",
+36
+],
+[
+"orthorexia nervosa",
+36
+],
+[
+"tension headache",
+36
+],
+[
+"tuberous sclerosis",
+36
+],
+[
+"fibrodysplasia ossificans progressiva",
+36
+],
+[
+"Paris syndrome",
+36
+],
+[
+"video game addiction",
+36
+],
+[
+"bluetongue disease",
+36
+],
+[
+"hemolytic-uremic syndrome",
+36
+],
+[
+"neurodegeneration",
+36
+],
+[
+"adenomyosis",
+36
+],
+[
+"erotomania",
+36
+],
+[
+"kidney cancer",
+36
+],
+[
+"overweight",
+36
+],
+[
+"meningioma",
+36
+],
+[
+"peripheral artery disease",
+36
+],
+[
+"airborne disease",
+36
+],
+[
+"colony collapse disorder",
+36
+],
+[
+"apraxia",
+36
+],
+[
+"psoriatic arthritis",
+36
+],
+[
+"acute disease",
+36
+],
+[
+"erotic asphyxiation",
+36
+],
+[
+"hepatic encephalopathy",
+36
+],
+[
+"asbestosis",
+36
+],
+[
+"methemoglobinemia",
+36
+],
+[
+"erythema infectiosum",
+36
+],
+[
+"keratitis",
+36
+],
+[
+"hypercholesterolemia",
+36
+],
+[
+"Babesiosis",
+36
+],
+[
+"Barrett's esophagus",
+36
+],
+[
+"diabetic ketoacidosis",
+36
+],
+[
+"dystonia",
+36
+],
+[
+"inflammatory bowel diseases",
+36
+],
+[
+"hypocalcaemia",
+36
+],
+[
+"cryptorchidism",
+36
+],
+[
+"bruxism",
+36
+],
+[
+"Charcot–Marie–Tooth disease",
+35
+],
+[
+"Stevens–Johnson syndrome",
+35
+],
+[
+"polyuria",
+35
+],
+[
+"pityriasis rosea",
+35
+],
+[
+"diabetic nephropathy",
+35
+],
+[
+"nose-picking",
+35
+],
+[
+"Hirschsprung's disease",
+35
+],
+[
+"tropical disease",
+35
+],
+[
+"pernicious anemia",
+35
+],
+[
+"traveler's diarrhea",
+35
+],
+[
+"corn",
+35
+],
+[
+"deep vein thrombosis",
+35
+],
+[
+"linea nigra",
+35
+],
+[
+"postpartum psychosis",
+35
+],
+[
+"stenosis",
+35
+],
+[
+"African swine fever",
+35
+],
+[
+"postpartum hemorrhage",
+35
+],
+[
+"hepatitis D",
+35
+],
+[
+"refractive error",
+35
+],
+[
+"otitis",
+35
+],
+[
+"mastoiditis",
+35
+],
+[
+"ichthyosis",
+35
+],
+[
+"hickey",
+35
+],
+[
+"vascular dementia",
+35
+],
+[
+"dermatomyositis",
+35
+],
+[
+"nephroblastoma",
+35
+],
+[
+"azoospermia",
+35
+],
+[
+"night horror",
+35
+],
+[
+"epidermolysis bullosa",
+35
+],
+[
+"pulpitis",
+35
+],
+[
+"dementia with Lewy bodies",
+34
+],
+[
+"cauda equina syndrome",
+34
+],
+[
+"complex regional pain syndrome",
+34
+],
+[
+"nomophobia",
+34
+],
+[
+"Arnold-Chiari malformation",
+34
+],
+[
+"choreatic disease",
+34
+],
+[
+"syringomyelia",
+34
+],
+[
+"ketosis",
+34
+],
+[
+"developmental coordination disorder",
+34
+],
+[
+"sore throat",
+34
+],
+[
+"penile cancer",
+34
+],
+[
+"Goodpasture syndrome",
+34
+],
+[
+"epiglottitis",
+34
+],
+[
+"comorbidity",
+34
+],
+[
+"alien hand syndrome",
+34
+],
+[
+"spinal stenosis",
+34
+],
+[
+"Marburg virus disease",
+34
+],
+[
+"visceral leishmaniasis",
+34
+],
+[
+"dysphoria",
+34
+],
+[
+"dependent personality disorder",
+34
+],
+[
+"respiratory disease",
+34
+],
+[
+"actinomycosis",
+34
+],
+[
+"anal fissure",
+34
+],
+[
+"orchitis",
+34
+],
+[
+"idiopathy",
+34
+],
+[
+"autoimmune thrombocytopenic purpura",
+34
+],
+[
+"squamous cell carcinoma",
+34
+],
+[
+"mucormycosis",
+34
+],
+[
+"transmissible spongiform encephalopathy",
+34
+],
+[
+"atelectasis",
+34
+],
+[
+"miliaria",
+34
+],
+[
+"schizoaffective disorder",
+34
+],
+[
+"Capgras syndrome",
+34
+],
+[
+"laryngeal cancer",
+34
+],
+[
+"juvenile rheumatoid arthritis",
+34
+],
+[
+"Gaucher's disease",
+34
+],
+[
+"Behçet's disease",
+34
+],
+[
+"Wolff–Parkinson–White syndrome",
+34
+],
+[
+"neglected tropical disease",
+34
+],
+[
+"animal phobia",
+34
+],
+[
+"cataplexy",
+34
+],
+[
+"xerophthalmia",
+33
+],
+[
+"cowpox",
+33
+],
+[
+"Horner's syndrome",
+33
+],
+[
+"heart valve disease",
+33
+],
+[
+"leukorrhea",
+33
+],
+[
+"uterine cancer",
+33
+],
+[
+"dysuria",
+33
+],
+[
+"bone neoplasm",
+33
+],
+[
+"nail clubbing",
+33
+],
+[
+"von Economo's disease",
+33
+],
+[
+"breast fibroadenoma",
+33
+],
+[
+"spinal cord injury",
+33
+],
+[
+"drug tolerance",
+33
+],
+[
+"scrapie",
+33
+],
+[
+"dissociative disorder",
+33
+],
+[
+"diverticulosis",
+33
+],
+[
+"galactorrhea",
+33
+],
+[
+"pneumonic plague",
+33
+],
+[
+"abasia",
+33
+],
+[
+"vitamin B12 deficiency",
+33
+],
+[
+"agranulocytosis",
+33
+],
+[
+"intracranial hemorrhage",
+33
+],
+[
+"delayed onset muscle soreness",
+33
+],
+[
+"takotsubo cardiomyopathy",
+33
+],
+[
+"xeroderma pigmentosum",
+33
+],
+[
+"torticollis",
+33
+],
+[
+"argyria",
+33
+],
+[
+"ileus",
+33
+],
+[
+"ventricular septal defect",
+33
+],
+[
+"glucose-6-phosphate dehydrogenase deficiency",
+33
+],
+[
+"acute pancreatitis",
+33
+],
+[
+"hydatidiform mole",
+33
+],
+[
+"stomatitis",
+33
+],
+[
+"polycythemia",
+33
+],
+[
+"carbuncle",
+33
+],
+[
+"cerebral edema",
+33
+],
+[
+"status epilepticus",
+33
+],
+[
+"Burkitt lymphoma",
+32
+],
+[
+"Henoch-Schoenlein purpura",
+32
+],
+[
+"conversion disorder",
+32
+],
+[
+"gokkun",
+32
+],
+[
+"false pregnancy",
+32
+],
+[
+"ketoacidosis",
+32
+],
+[
+"leucism",
+32
+],
+[
+"tonsillolith",
+32
+],
+[
+"heat illness",
+32
+],
+[
+"coprolalia",
+32
+],
+[
+"pornography addiction",
+32
+],
+[
+"epididymitis",
+32
+],
+[
+"hyperparathyroidism",
+32
+],
+[
+"urinary retention",
+32
+],
+[
+"paraphimosis",
+32
+],
+[
+"dental fluorosis",
+32
+],
+[
+"parasitic infectious diseases",
+32
+],
+[
+"anorgasmia",
+32
+],
+[
+"obstructed labor",
+32
+],
+[
+"diabetic neuropathy",
+32
+],
+[
+"false memory",
+32
+],
+[
+"codependency",
+32
+],
+[
+"abdominal aortic aneurysm",
+32
+],
+[
+"congenital adrenal hyperplasia",
+32
+],
+[
+"cynophobia",
+32
+],
+[
+"ailurophobia",
+32
+],
+[
+"anencephaly",
+32
+],
+[
+"angiogenesis",
+32
+],
+[
+"retinal disease",
+32
+],
+[
+"ophidiophobia",
+32
+],
+[
+"oniomania",
+32
+],
+[
+"polydipsia",
+32
+],
+[
+"Bloodstream infection",
+32
+],
+[
+"arthralgia",
+32
+],
+[
+"giant cell arteritis",
+32
+],
+[
+"von Willebrand's disease",
+32
+],
+[
+"orthostatic hypotension",
+32
+],
+[
+"asystole",
+32
+],
+[
+"galactosemia",
+32
+],
+[
+"cyanide poisoning",
+32
+],
+[
+"lymphedema",
+32
+],
+[
+"folliculitis",
+32
+],
+[
+"paraplegia",
+31
+],
+[
+"hyperlipidemia",
+31
+],
+[
+"chronic wasting disease",
+31
+],
+[
+"dysplasia",
+31
+],
+[
+"anti-Chinese sentiment",
+31
+],
+[
+"Alport syndrome",
+31
+],
+[
+"myxomatosis",
+31
+],
+[
+"nail biting",
+31
+],
+[
+"factitious disorder imposed on another",
+31
+],
+[
+"spermatic cord torsion",
+31
+],
+[
+"neutropenia",
+31
+],
+[
+"Conn's syndrome",
+31
+],
+[
+"gastroschisis",
+31
+],
+[
+"HELLP syndrome",
+31
+],
+[
+"hypoparathyroidism",
+31
+],
+[
+"trench foot",
+31
+],
+[
+"neonatal jaundice",
+31
+],
+[
+"frontotemporal dementia",
+31
+],
+[
+"pterygium",
+31
+],
+[
+"hypomania",
+31
+],
+[
+"acute bronchitis",
+31
+],
+[
+"enterobiasis",
+31
+],
+[
+"Zollinger–Ellison syndrome",
+31
+],
+[
+"metabolic disease",
+31
+],
+[
+"autosomal recessive congenital ichthyosis",
+31
+],
+[
+"dilated cardiomyopathy",
+31
+],
+[
+"alcohol withdrawal syndrome",
+31
+],
+[
+"myiasis",
+31
+],
+[
+"mouth ulcer",
+31
+],
+[
+"neurodevelopmental disorder",
+31
+],
+[
+"hemothorax",
+31
+],
+[
+"hyperemesis gravidarum",
+31
+],
+[
+"adverse drug reaction",
+31
+],
+[
+"pearly penile papules",
+31
+],
+[
+"disease X",
+31
+],
+[
+"androgen insensitivity syndrome",
+31
+],
+[
+"encephalopathy",
+31
+],
+[
+"ascending cholangitis",
+31
+],
+[
+"anuria",
+31
+],
+[
+"Kleine-Levin syndrome",
+31
+],
+[
+"hip dysplasia",
+31
+],
+[
+"cat-scratch disease",
+31
+],
+[
+"drug interaction",
+31
+],
+[
+"abnormal lordosis",
+31
+],
+[
+"otosclerosis",
+31
+],
+[
+"sweating sickness",
+31
+],
+[
+"purpura",
+31
+],
+[
+"hypogonadism",
+31
+],
+[
+"ergotism",
+31
+],
+[
+"milk allergy",
+31
+],
+[
+"diverticulum",
+30
+],
+[
+"hemolytic anemia",
+30
+],
+[
+"granulomatosis with polyangiitis",
+30
+],
+[
+"phantom limb",
+30
+],
+[
+"oxygen toxicity",
+30
+],
+[
+"shaken baby syndrome",
+30
+],
+[
+"oppositional defiant disorder",
+30
+],
+[
+"glioma",
+30
+],
+[
+"penile fracture",
+30
+],
+[
+"Müllerian agenesis",
+30
+],
+[
+"pemphigus",
+30
+],
+[
+"hemispatial neglect",
+30
+],
+[
+"Noonan syndrome",
+30
+],
+[
+"metabolic dysfunction–associated steatotic liver disease",
+30
+],
+[
+"arteriovenous malformation",
+30
+],
+[
+"head and neck cancer",
+30
+],
+[
+"classical swine fever",
+30
+],
+[
+"hip fracture",
+30
+],
+[
+"stupor",
+30
+],
+[
+"premenstrual dysphoric disorder",
+30
+],
+[
+"Proteus syndrome",
+30
+],
+[
+"eye disease",
+30
+],
+[
+"serum sickness",
+30
+],
+[
+"X-linked adrenoleukodystrophy",
+30
+],
+[
+"placental abruption",
+30
+],
+[
+"childhood disintegrative disease",
+30
+],
+[
+"acute stress reaction",
+30
+],
+[
+"acute abdomen",
+30
+],
+[
+"anal cancer",
+30
+],
+[
+"anisocoria",
+30
+],
+[
+"antiphospholipid syndrome",
+30
+],
+[
+"Fabry disease",
+30
+],
+[
+"Alice in Wonderland syndrome",
+30
+],
+[
+"Whipple disease",
+30
+],
+[
+"long QT syndrome",
+30
+],
+[
+"otitis externa",
+30
+],
+[
+"exophthalmos",
+30
+],
+[
+"muscular disease",
+30
+],
+[
+"thromboangiitis obliterans",
+30
+],
+[
+"Fanconi anemia",
+30
+],
+[
+"enteritis",
+30
+],
+[
+"blepharospasm",
+30
+],
+[
+"hemorrhagic fever with renal syndrome",
+30
+],
+[
+"papilloma",
+30
+],
+[
+"progressive supranuclear palsy",
+30
+],
+[
+"feline infectious peritonitis",
+30
+],
+[
+"leukocytosis",
+30
+],
+[
+"Osgood-Schlatter's disease",
+29
+],
+[
+"sick building syndrome",
+29
+],
+[
+"cor pulmonale",
+29
+],
+[
+"abdominal obesity",
+29
+],
+[
+"IgA glomerulonephritis",
+29
+],
+[
+"cyclopia",
+29
+],
+[
+"derealization",
+29
+],
+[
+"portal hypertension",
+29
+],
+[
+"speech disorder",
+29
+],
+[
+"glossitis",
+29
+],
+[
+"glycogen storage disease II",
+29
+],
+[
+"hyperacusis",
+29
+],
+[
+"breast fibrocystic disease",
+29
+],
+[
+"situs inversus",
+29
+],
+[
+"micropenis",
+29
+],
+[
+"hypoxemia",
+29
+],
+[
+"insulinoma",
+29
+],
+[
+"autosomal dominant polycystic kidney disease",
+29
+],
+[
+"carcinogenesis",
+29
+],
+[
+"sarcopenia",
+29
+],
+[
+"high-functioning autism",
+29
+],
+[
+"lung abscess",
+29
+],
+[
+"callus",
+29
+],
+[
+"idiopathic pulmonary fibrosis",
+29
+],
+[
+"separation anxiety disorder",
+29
+],
+[
+"cervicitis",
+29
+],
+[
+"umbilical hernia",
+29
+],
+[
+"exploding head syndrome",
+29
+],
+[
+"hidradenitis suppurativa",
+29
+],
+[
+"death anxiety",
+29
+],
+[
+"white elephant",
+29
+],
+[
+"dystrophy",
+29
+],
+[
+"hexakosioihexekontahexaphobia",
+29
+],
+[
+"vestibular schwannoma",
+29
+],
+[
+"Takayasu's arteritis",
+29
+],
+[
+"aphonia",
+29
+],
+[
+"ventricular tachycardia",
+29
+],
+[
+"pseudomembranous colitis",
+29
+],
+[
+"parasitic helminthiasis infectious disease",
+29
+],
+[
+"marasmus",
+29
+],
+[
+"Lucilia sericata",
+29
+],
+[
+"histoplasmosis",
+29
+],
+[
+"relapsing fever borreliosis",
+29
+],
+[
+"fasciolosis",
+29
+],
+[
+"delusional disorder",
+29
+],
+[
+"infant respiratory distress syndrome",
+29
+],
+[
+"facial paralysis",
+29
+],
+[
+"atrial heart septal defect",
+29
+],
+[
+"leukoplakia",
+29
+],
+[
+"bibliomania",
+29
+],
+[
+"foreign accent syndrome",
+29
+],
+[
+"pituitary adenoma",
+29
+],
+[
+"COVID-19 disease in pregnancy",
+29
+],
+[
+"cardiac tamponade",
+29
+],
+[
+"pilonidal cyst",
+29
+],
+[
+"gallbladder cancer",
+29
+],
+[
+"noma",
+29
+],
+[
+"primary sclerosing cholangitis",
+28
+],
+[
+"confabulation",
+28
+],
+[
+"mitral valve stenosis",
+28
+],
+[
+"drug resistance",
+28
+],
+[
+"epidemic typhus",
+28
+],
+[
+"hypovolemia",
+28
+],
+[
+"petechia",
+28
+],
+[
+"Legg–Calvé–Perthes disease",
+28
+],
+[
+"gas gangrene",
+28
+],
+[
+"vulvodynia",
+28
+],
+[
+"homesickness",
+28
+],
+[
+"metabolic acidosis",
+28
+],
+[
+"uterine prolapse",
+28
+],
+[
+"ciguatera",
+28
+],
+[
+"lipedema",
+28
+],
+[
+"myotonic dystrophy",
+28
+],
+[
+"myoma",
+28
+],
+[
+"Paget's disease of bone",
+28
+],
+[
+"labyrinthitis",
+28
+],
+[
+"chilblains",
+28
+],
+[
+"androgenic alopecia",
+28
+],
+[
+"mitral valve insufficiency",
+28
+],
+[
+"epidural cranial hematoma",
+28
+],
+[
+"superiority complex",
+28
+],
+[
+"shigellosis",
+28
+],
+[
+"thrombophlebitis",
+28
+],
+[
+"vitamin D deficiency",
+28
+],
+[
+"acanthosis nigricans",
+28
+],
+[
+"hyperuricemia",
+28
+],
+[
+"osteonecrosis",
+28
+],
+[
+"conduct disorder",
+28
+],
+[
+"hantavirus pulmonary syndrome",
+28
+],
+[
+"hypercapnia",
+28
+],
+[
+"alpha-1-antitrypsin deficiency",
+28
+],
+[
+"female infertility",
+28
+],
+[
+"von Hippel-Lindau disease",
+28
+],
+[
+"atopy",
+28
+],
+[
+"systemic inflammatory response syndrome",
+28
+],
+[
+"sirenomelia",
+28
+],
+[
+"Baker's cyst",
+28
+],
+[
+"breech presentation",
+28
+],
+[
+"anaplastic oligodendroglioma",
+28
+],
+[
+"uterine rupture",
+28
+],
+[
+"excoriation disorder",
+28
+],
+[
+"septic arthritis",
+28
+],
+[
+"paraneoplastic syndrome",
+28
+],
+[
+"tracheitis",
+28
+],
+[
+"pyloric stenosis",
+27
+],
+[
+"atheroma",
+27
+],
+[
+"megaloblastic anemia",
+27
+],
+[
+"spondylosis",
+27
+],
+[
+"paresis",
+27
+],
+[
+"crush syndrome",
+27
+],
+[
+"Waardenburg's syndrome",
+27
+],
+[
+"passive–aggressive behavior",
+27
+],
+[
+"graft-versus-host disease",
+27
+],
+[
+"cerebral infarction",
+27
+],
+[
+"entropion",
+27
+],
+[
+"neuroleptic malignant syndrome",
+27
+],
+[
+"coloboma",
+27
+],
+[
+"elephantiasis",
+27
+],
+[
+"polymyalgia rheumatica",
+27
+],
+[
+"inherited metabolic disorder",
+27
+],
+[
+"clitoromegaly",
+27
+],
+[
+"astrocytoma",
+27
+],
+[
+"non-controlled substance abuse",
+27
+],
+[
+"vulvar cancer",
+27
+],
+[
+"vaginal bleeding",
+27
+],
+[
+"cystocele",
+27
+],
+[
+"cardiogenic shock",
+27
+],
+[
+"Becker muscular dystrophy",
+27
+],
+[
+"adrenal insufficiency",
+27
+],
+[
+"angiosarcoma",
+27
+],
+[
+"disorganized schizophrenia",
+27
+],
+[
+"familial hypercholesterolemia",
+27
+],
+[
+"sexual addiction",
+27
+],
+[
+"sourness",
+27
+],
+[
+"complications of pregnancy",
+27
+],
+[
+"esophagitis",
+27
+],
+[
+"adjustment disorder",
+27
+],
+[
+"nasal congestion",
+27
+],
+[
+"birthmark",
+27
+],
+[
+"Meckel's diverticulum",
+27
+],
+[
+"ankylosis",
+27
+],
+[
+"hypervitaminosis",
+27
+],
+[
+"pectus excavatum",
+27
+],
+[
+"hyperthymesia",
+27
+],
+[
+"coccidiosis",
+27
+],
+[
+"de Quervain syndrome",
+27
+],
+[
+"frozen shoulder",
+27
+],
+[
+"aphakia",
+27
+],
+[
+"parasomnia",
+27
+],
+[
+"anosognosia",
+27
+],
+[
+"anterograde amnesia",
+27
+],
+[
+"nitrogen narcosis",
+27
+],
+[
+"neuromyelitis optica",
+27
+],
+[
+"aortic aneurysm",
+27
+],
+[
+"Fournier gangrene",
+27
+],
+[
+"adhesions of uterus",
+27
+],
+[
+"aura",
+27
+],
+[
+"pseudotumor cerebri",
+27
+],
+[
+"atresia",
+27
+],
+[
+"visual snow syndrome",
+27
+],
+[
+"irritation",
+27
+],
+[
+"deafblindness",
+27
+],
+[
+"Friedreich ataxia",
+27
+],
+[
+"oliguria",
+27
+],
+[
+"melioidosis",
+27
+],
+[
+"optic neuritis",
+27
+],
+[
+"cytokine storm",
+26
+],
+[
+"runny nose",
+26
+],
+[
+"mastocytosis",
+26
+],
+[
+"phlegmon",
+26
+],
+[
+"familial Mediterranean fever",
+26
+],
+[
+"renal cell carcinoma",
+26
+],
+[
+"Kallmann syndrome",
+26
+],
+[
+"demyelinating disease",
+26
+],
+[
+"impulse control disorder",
+26
+],
+[
+"Dravet syndrome",
+26
+],
+[
+"electrolyte imbalance",
+26
+],
+[
+"lice infestation",
+26
+],
+[
+"toxocariasis",
+26
+],
+[
+"cryptosporidiosis",
+26
+],
+[
+"syndactyly",
+26
+],
+[
+"hepatomegaly",
+26
+],
+[
+"terminal illness",
+26
+],
+[
+"Mobius syndrome",
+26
+],
+[
+"retinopathy of prematurity",
+26
+],
+[
+"intussusception",
+26
+],
+[
+"hyperprolactinemia",
+26
+],
+[
+"folie à deux",
+26
+],
+[
+"lipid metabolism disorder",
+26
+],
+[
+"tardive dyskinesia",
+26
+],
+[
+"steatorrhea",
+26
+],
+[
+"malignant hyperthermia",
+26
+],
+[
+"supraventricular tachycardia",
+26
+],
+[
+"fear of needles",
+26
+],
+[
+"epididymal hypertension",
+26
+],
+[
+"itai-itai disease",
+26
+],
+[
+"iodine deficiency",
+26
+],
+[
+"cervical intraepithelial neoplasia",
+26
+],
+[
+"neuroendocrine tumor",
+26
+],
+[
+"chronic pancreatitis",
+26
+],
+[
+"specific phobia",
+26
+],
+[
+"transverse myelitis",
+26
+],
+[
+"human parainfluenza",
+26
+],
+[
+"eosinophilic esophagitis",
+26
+],
+[
+"binge eating disorder",
+26
+],
+[
+"pentasomy X",
+26
+],
+[
+"dancing mania",
+26
+],
+[
+"hemiparesis",
+26
+],
+[
+"Canavan disease",
+26
+],
+[
+"trypanosomiasis",
+26
+],
+[
+"subacute sclerosing panencephalitis",
+26
+],
+[
+"albinism in humans",
+26
+],
+[
+"glossophobia",
+26
+],
+[
+"Wernicke–Korsakoff syndrome",
+26
+],
+[
+"gastrointestinal perforation",
+26
+],
+[
+"contagious disease",
+26
+],
+[
+"melasma",
+26
+],
+[
+"motor neuron disease",
+26
+],
+[
+"glanders",
+26
+],
+[
+"Churg-Strauss syndrome",
+26
+],
+[
+"neurological disorder",
+26
+],
+[
+"melanocytic nevus",
+26
+],
+[
+"psychomotor agitation",
+26
+],
+[
+"agraphia",
+26
+],
+[
+"maple syrup urine disease",
+26
+],
+[
+"complex post-traumatic stress disorder",
+26
+],
+[
+"anal fistula",
+26
+],
+[
+"eosinophilia",
+26
+],
+[
+"lisp",
+26
+],
+[
+"hyperdontia",
+26
+],
+[
+"ovarian torsion",
+26
+],
+[
+"anoxia",
+26
+],
+[
+"blastomycosis",
+26
+],
+[
+"Somniloquy",
+26
+],
+[
+"alkaptonuria",
+26
+],
+[
+"polyphagia",
+26
+],
+[
+"lymphogranuloma venereum",
+26
+],
+[
+"logorrhea",
+26
+],
+[
+"Dandy-Walker syndrome",
+26
+],
+[
+"fetal erythroblastosis",
+26
+],
+[
+"respiratory tract infection",
+26
+],
+[
+"neurofibromatosis type I",
+26
+],
+[
+"locked-in syndrome",
+26
+],
+[
+"nasal polyps",
+26
+],
+[
+"lichen planus",
+26
+],
+[
+"substance intoxication",
+26
+],
+[
+"repetitive strain injury",
+26
+],
+[
+"meningococcal disease",
+26
+],
+[
+"tetraplegia",
+26
+],
+[
+"degenerative disease",
+26
+],
+[
+"syndrome of Inappropriate antidiuretic hormone secretion",
+26
+],
+[
+"myxedema",
+26
+],
+[
+"homocystinuria",
+26
+],
+[
+"deaf-mute",
+25
+],
+[
+"thyroiditis",
+25
+],
+[
+"stereotypy",
+25
+],
+[
+"diogenes syndrome",
+25
+],
+[
+"tinea cruris",
+25
+],
+[
+"reactive attachment disorder",
+25
+],
+[
+"medulloblastoma",
+25
+],
+[
+"empyema",
+25
+],
+[
+"geophagy",
+25
+],
+[
+"erythema nodosum",
+25
+],
+[
+"air embolism",
+25
+],
+[
+"myositis",
+25
+],
+[
+"malabsorption",
+25
+],
+[
+"taeniasis",
+25
+],
+[
+"tenosynovitis",
+25
+],
+[
+"multiple system atrophy",
+25
+],
+[
+"gynophobia",
+25
+],
+[
+"bowel obstruction",
+25
+],
+[
+"torsades de pointes",
+25
+],
+[
+"interstitial cystitis",
+25
+],
+[
+"Rh disease",
+25
+],
+[
+"food intolerance",
+25
+],
+[
+"compartment syndrome",
+25
+],
+[
+"vaginal cancer",
+25
+],
+[
+"refeeding syndrome",
+25
+],
+[
+"liposarcoma",
+25
+],
+[
+"hepatic vein thrombosis",
+25
+],
+[
+"myeloproliferative disorders",
+25
+],
+[
+"cercarial dermatitis",
+25
+],
+[
+"trigger finger disorder",
+25
+],
+[
+"entomophobia",
+25
+],
+[
+"mesenteric ischemia",
+25
+],
+[
+"imaginary friend",
+25
+],
+[
+"cerebrovascular disease",
+25
+],
+[
+"nosophobia",
+25
+],
+[
+"bee sting",
+25
+],
+[
+"salpingitis",
+25
+],
+[
+"trench fever",
+25
+],
+[
+"stress fracture",
+25
+],
+[
+"actinic keratosis",
+25
+],
+[
+"scrofula",
+25
+],
+[
+"anaplasia",
+25
+],
+[
+"trimethylaminuria",
+25
+],
+[
+"tetany",
+25
+],
+[
+"Sheehan's syndrome",
+25
+],
+[
+"aniridia",
+25
+],
+[
+"ankyloglossia",
+25
+],
+[
+"Eisenmenger's syndrome",
+25
+],
+[
+"obsession",
+25
+],
+[
+"whitlow",
+25
+],
+[
+"pervasive developmental disorder",
+25
+],
+[
+"aspiration pneumonia",
+25
+],
+[
+"contagious pustular dermatitis",
+25
+],
+[
+"arsenic poisoning",
+25
+],
+[
+"polyarteritis nodosa",
+25
+],
+[
+"hereditary hemorrhagic telangiectasia",
+25
+],
+[
+"thousand-yard stare",
+25
+],
+[
+"mass hysteria",
+25
+],
+[
+"spinocerebellar ataxia",
+25
+],
+[
+"Usher syndrome",
+25
+],
+[
+"primary amebic meningoencephalitis",
+25
+],
+[
+"gastroparesis",
+25
+],
+[
+"hyperaemia",
+25
+],
+[
+"prolactinoma",
+25
+],
+[
+"spondylolisthesis",
+25
+],
+[
+"albuminuria",
+25
+],
+[
+"Hantavirus infectious disease",
+24
+],
+[
+"cholestasis",
+24
+],
+[
+"chronic venous insufficiency",
+24
+],
+[
+"Werner syndrome",
+24
+],
+[
+"Fanconi syndrome",
+24
+],
+[
+"thought disorder",
+24
+],
+[
+"computer vision syndrome",
+24
+],
+[
+"diphallia",
+24
+],
+[
+"hepatosplenomegaly",
+24
+],
+[
+"pompholyx",
+24
+],
+[
+"severe combined immunodeficiency",
+24
+],
+[
+"Kayser–Fleischer ring",
+24
+],
+[
+"nocturia",
+24
+],
+[
+"thrombotic thrombocytopenic purpura",
+24
+],
+[
+"focal segmental glomerulosclerosis",
+24
+],
+[
+"nymphomania",
+24
+],
+[
+"Fregoli delusion",
+24
+],
+[
+"paroxysmal nocturnal hemoglobinuria",
+24
+],
+[
+"lactic acidosis",
+24
+],
+[
+"polyneuropathy",
+24
+],
+[
+"shell shock",
+24
+],
+[
+"thrombogavitis",
+24
+],
+[
+"vulvitis",
+24
+],
+[
+"thrombophilia",
+24
+],
+[
+"Wernicke encephalopathy",
+24
+],
+[
+"hyperphosphatemia",
+24
+],
+[
+"osteoma",
+24
+],
+[
+"nasopharynx carcinoma",
+24
+],
+[
+"Lambert-Eaton myasthenic syndrome",
+24
+],
+[
+"cryptomnesia",
+24
+],
+[
+"xylophagy",
+24
+],
+[
+"Pick disease",
+24
+],
+[
+"intermittent explosive disorder",
+24
+],
+[
+"toxic epidermal necrolysis",
+24
+],
+[
+"basilar skull fracture",
+24
+],
+[
+"moya moya disease",
+24
+],
+[
+"prognathism",
+24
+],
+[
+"rib fracture",
+24
+],
+[
+"hereditary angioedema",
+24
+],
+[
+"depersonalization-derealization disorder",
+24
+],
+[
+"phonophobia",
+24
+],
+[
+"hepatorenal syndrome",
+24
+],
+[
+"upper respiratory tract infection",
+24
+],
+[
+"abnormal uterine bleeding",
+24
+],
+[
+"atypical depressive disorder",
+24
+],
+[
+"non-communicable disease",
+24
+],
+[
+"pseudorabies",
+24
+],
+[
+"hypomagnesemia",
+24
+],
+[
+"craniosynostosis",
+24
+],
+[
+"hypovolemic shock",
+24
+],
+[
+"atrophic vaginitis",
+24
+],
+[
+"fibroma",
+24
+],
+[
+"chorioamnionitis",
+24
+],
+[
+"plantar reflex",
+24
+],
+[
+"Krabbe disease",
+24
+],
+[
+"hamartoma",
+24
+],
+[
+"diabetic foot",
+24
+],
+[
+"Mandela effect",
+24
+],
+[
+"coarctation of the aorta",
+24
+],
+[
+"dysautonomia",
+24
+],
+[
+"lagophthalmos",
+24
+],
+[
+"premature ovarian failure",
+24
+],
+[
+"ectropion",
+24
+],
+[
+"progressive multifocal leukoencephalopathy",
+24
+],
+[
+"paratuberculosis",
+24
+],
+[
+"avoidant/restrictive food intake disorder",
+24
+],
+[
+"muscle dysmorphia",
+24
+],
+[
+"athetosis",
+24
+],
+[
+"diabetic coma",
+24
+],
+[
+"neurosyphilis",
+24
+],
+[
+"coccidioidomycosis",
+24
+],
+[
+"Ganser syndrome",
+24
+],
+[
+"hypopituitarism",
+24
+],
+[
+"osteophyte",
+24
+],
+[
+"pediatric multisystem inflammatory syndrome",
+24
+],
+[
+"Wiskott-Aldrich syndrome",
+24
+],
+[
+"polymyositis",
+24
+],
+[
+"papule",
+24
+],
+[
+"primary biliary cholangitis",
+23
+],
+[
+"dyslalia",
+23
+],
+[
+"chytridiomycosis",
+23
+],
+[
+"metachromatic leukodystrophy",
+23
+],
+[
+"fecal incontinence",
+23
+],
+[
+"myoclonus",
+23
+],
+[
+"Darwin's tubercle",
+23
+],
+[
+"spasticity",
+23
+],
+[
+"pimple",
+23
+],
+[
+"scrub typhus",
+23
+],
+[
+"cleft lip",
+23
+],
+[
+"lumpy skin disease",
+23
+],
+[
+"infestation",
+23
+],
+[
+"paruresis",
+23
+],
+[
+"epispadias",
+23
+],
+[
+"granuloma inguinale",
+23
+],
+[
+"Niemann-Pick disease",
+23
+],
+[
+"glycogen storage disease",
+23
+],
+[
+"cryptococcosis",
+23
+],
+[
+"delayed sleep phase disorder",
+23
+],
+[
+"amniotic fluid embolism",
+23
+],
+[
+"lymphangitis",
+23
+],
+[
+"mucopolysaccharidosis",
+23
+],
+[
+"auto-brewery syndrome",
+23
+],
+[
+"Yellow Peril",
+23
+],
+[
+"xanthelasma",
+23
+],
+[
+"delayed puberty",
+23
+],
+[
+"renal tubular acidosis",
+23
+],
+[
+"mucopolysaccharidosis II",
+23
+],
+[
+"Lennox-Gastaut sindrome",
+23
+],
+[
+"Peutz-Jeghers syndrome",
+23
+],
+[
+"hemoglobinuria",
+23
+],
+[
+"hypoplasia",
+23
+],
+[
+"otalgia",
+23
+],
+[
+"alpha-gal allergy",
+23
+],
+[
+"malignant hypertension",
+23
+],
+[
+"hypophosphatemia",
+23
+],
+[
+"lichen sclerosus",
+23
+],
+[
+"temper tantrum",
+23
+],
+[
+"pelvic organ prolapse",
+23
+],
+[
+"infibulation",
+23
+],
+[
+"cardiomegaly",
+23
+],
+[
+"arteritis",
+23
+],
+[
+"presbycusis",
+23
+],
+[
+"white coat hypertension",
+23
+],
+[
+"craniopharyngioma",
+23
+],
+[
+"dissociative amnesia",
+23
+],
+[
+"rhabdomyosarcoma",
+23
+],
+[
+"androphobia",
+23
+],
+[
+"patent ductus arteriosus",
+23
+],
+[
+"hematospermia",
+23
+],
+[
+"precocious puberty",
+23
+],
+[
+"meningoencephalitis",
+23
+],
+[
+"absence seizure",
+23
+],
+[
+"tachyphylaxis",
+23
+],
+[
+"eschar",
+23
+],
+[
+"paranoid schizophrenia",
+23
+],
+[
+"vitamin A deficiency",
+23
+],
+[
+"bronchospasm",
+23
+],
+[
+"irritant diaper dermatitis",
+23
+],
+[
+"oral candidiasis",
+23
+],
+[
+"cognitive distortion",
+23
+],
+[
+"survivor guilt",
+23
+],
+[
+"methanol poisoning",
+23
+],
+[
+"Langerhans-cell histiocytosis",
+23
+],
+[
+"Gerstmann-Straussler-Scheinker syndrome",
+23
+],
+[
+"intestinal volvulus",
+23
+],
+[
+"clinical lycanthropy",
+23
+],
+[
+"subconjunctival hemorrhage",
+23
+],
+[
+"achromatopsia",
+23
+],
+[
+"placenta accreta",
+23
+],
+[
+"Pediculus humanus capitis infestation",
+23
+],
+[
+"myelitis",
+23
+],
+[
+"cholesteatoma",
+23
+],
+[
+"strain",
+23
+],
+[
+"dextrocardia",
+23
+],
+[
+"oncovirus",
+23
+],
+[
+"bronchiolitis obliterans",
+23
+],
+[
+"Apert syndrome",
+23
+],
+[
+"bacteriuria",
+23
+],
+[
+"short bowel syndrome",
+23
+],
+[
+"herpangina",
+23
+],
+[
+"obstetric fistula",
+23
+],
+[
+"campylobacteriosis",
+23
+],
+[
+"essential tremor",
+23
+],
+[
+"Lesch-Nyhan syndrome",
+23
+],
+[
+"aspermia",
+23
+],
+[
+"Rocky Mountain spotted fever",
+23
+],
+[
+"specific language impairment",
+23
+],
+[
+"cleidocranial dysplasia",
+23
+],
+[
+"Lynch syndrome",
+23
+],
+[
+"body integrity dysphoria",
+23
+],
+[
+"blood coagulation disease",
+23
+],
+[
+"breast hypertrophy",
+23
+],
+[
+"polyhydramnios",
+23
+],
+[
+"hypokinesia",
+22
+],
+[
+"chondrosarcoma",
+22
+],
+[
+"necrotizing enterocolitis",
+22
+],
+[
+"Cornelia de Lange syndrome",
+22
+],
+[
+"cystinosis",
+22
+],
+[
+"xanthoma",
+22
+],
+[
+"dermatographia",
+22
+],
+[
+"oculocerebrorenal syndrome",
+22
+],
+[
+"metrorrhagia",
+22
+],
+[
+"hypnic jerk syndrome",
+22
+],
+[
+"iron deficiency",
+22
+],
+[
+"Stargardt disease",
+22
+],
+[
+"laryngospasm",
+22
+],
+[
+"hepatotoxicity",
+22
+],
+[
+"familial adenomatous polyposis",
+22
+],
+[
+"brain abscess",
+22
+],
+[
+"uterine atony",
+22
+],
+[
+"cerebral venous sinus thrombosis",
+22
+],
+[
+"canine hip dysplasia",
+22
+],
+[
+"hypertriglyceridemia",
+22
+],
+[
+"Fusarium wilt",
+22
+],
+[
+"periostitis",
+22
+],
+[
+"combat disorder",
+22
+],
+[
+"atrial flutter",
+22
+],
+[
+"parkinsonian syndrome",
+22
+],
+[
+"sleep sex",
+22
+],
+[
+"inverted nipple",
+22
+],
+[
+"ophthalmoplegia",
+22
+],
+[
+"congenital rubella syndrome",
+22
+],
+[
+"myelofibrosis",
+22
+],
+[
+"retrograde ejaculation",
+22
+],
+[
+"lactational amenorrhea",
+22
+],
+[
+"hot flash",
+22
+],
+[
+"Sturge–Weber syndrome",
+22
+],
+[
+"allodynia",
+22
+],
+[
+"anterior cruciate ligament injury",
+22
+],
+[
+"maternity blues",
+22
+],
+[
+"deviated septum",
+22
+],
+[
+"gastrointestinal system disease",
+22
+],
+[
+"infective endocarditis",
+22
+],
+[
+"anisometropia",
+22
+],
+[
+"paracetamol toxicity",
+22
+],
+[
+"atypical pneumonia",
+22
+],
+[
+"circadian rhythm sleep disorder",
+22
+],
+[
+"Adams–Stokes syndrome",
+22
+],
+[
+"Ebstein anomaly",
+22
+],
+[
+"esophageal atresia",
+22
+],
+[
+"esophageal varix",
+22
+],
+[
+"atrioventricular block",
+22
+],
+[
+"hemiplegia",
+22
+],
+[
+"overactive bladder",
+22
+],
+[
+"emotional dysregulation",
+22
+],
+[
+"frequent urination",
+22
+],
+[
+"nipple discharge",
+22
+],
+[
+"brachycephaly",
+22
+],
+[
+"amusia",
+22
+],
+[
+"childhood amnesia",
+22
+],
+[
+"anophthalmia",
+22
+],
+[
+"Alexander disease",
+22
+],
+[
+"Morquio syndrome",
+22
+],
+[
+"pustule",
+22
+],
+[
+"aortic valve insufficiency",
+22
+],
+[
+"Menkes disease",
+22
+],
+[
+"thoracic outlet syndrome",
+22
+],
+[
+"lysosomal storage disease",
+22
+],
+[
+"bronchopneumonia",
+22
+],
+[
+"substance use disorder",
+22
+],
+[
+"Sporotrichosis",
+22
+],
+[
+"pyuria",
+22
+],
+[
+"Crouzon syndrome",
+22
+],
+[
+"contact dermatitis",
+22
+],
+[
+"autoimmune hepatitis",
+22
+],
+[
+"mitochondrial disease",
+22
+],
+[
+"dissociative fugue",
+22
+],
+[
+"mental breakdown",
+22
+],
+[
+"tumor lysis syndrome",
+22
+],
+[
+"in situ carcinoma",
+21
+],
+[
+"choriocarcinoma",
+21
+],
+[
+"Crigler-Najjar syndrome",
+21
+],
+[
+"whiplash injuries",
+21
+],
+[
+"cystinuria",
+21
+],
+[
+"barbiturate overdose",
+21
+],
+[
+"diphyllobothriasis",
+21
+],
+[
+"hyphema",
+21
+],
+[
+"thymoma",
+21
+],
+[
+"angiokeratoma of Fordyce",
+21
+],
+[
+"angular cheilitis",
+21
+],
+[
+"binge drinking",
+21
+],
+[
+"Scheuermann's disease",
+21
+],
+[
+"Alagille syndrome",
+21
+],
+[
+"mammary Paget's disease",
+21
+],
+[
+"venous ulcer",
+21
+],
+[
+"keratosis pilaris",
+21
+],
+[
+"hyperactivity",
+21
+],
+[
+"hyperaldosteronism",
+21
+],
+[
+"hyperkeratosis",
+21
+],
+[
+"hypermobility syndrome",
+21
+],
+[
+"hypomenorrhea",
+21
+],
+[
+"geniculate herpes zoster",
+21
+],
+[
+"hydrops fetalis",
+21
+],
+[
+"tendinopathy",
+21
+],
+[
+"normal pressure hydrocephalus",
+21
+],
+[
+"carcinoid tumor",
+21
+],
+[
+"hypotonia",
+21
+],
+[
+"patellar tendinitis",
+21
+],
+[
+"osteopetrosis",
+21
+],
+[
+"transposition of great vessels",
+21
+],
+[
+"shin splints",
+21
+],
+[
+"trichiasis",
+21
+],
+[
+"Zellweger syndrome",
+21
+],
+[
+"geographic tongue",
+21
+],
+[
+"waterborne disease",
+21
+],
+[
+"rectal prolapse",
+21
+],
+[
+"diseases of affluence",
+21
+],
+[
+"chemical burn",
+21
+],
+[
+"schizophreniform disorder",
+21
+],
+[
+"spondylitis",
+21
+],
+[
+"seborrheic keratosis",
+21
+],
+[
+"tulpa",
+21
+],
+[
+"Sanfilippo syndrome",
+21
+],
+[
+"plantar wart",
+21
+],
+[
+"aichmophobia",
+21
+],
+[
+"post-concussion syndrome",
+21
+],
+[
+"moron",
+21
+],
+[
+"physical dependence",
+21
+],
+[
+"Aarskog syndrome",
+21
+],
+[
+"alcoholic hepatitis",
+21
+],
+[
+"childhood obesity",
+21
+],
+[
+"adenitis",
+21
+],
+[
+"cytokine release syndrome",
+21
+],
+[
+"Morgellons",
+21
+],
+[
+"imbecile",
+21
+],
+[
+"acute disseminated encephalomyelitis",
+21
+],
+[
+"tendinitis",
+21
+],
+[
+"scleritis",
+21
+],
+[
+"congenital syphilis",
+21
+],
+[
+"Sydenham's chorea",
+21
+],
+[
+"spondyloarthropathy",
+21
+],
+[
+"synovitis",
+21
+],
+[
+"hereditary spherocytosis",
+21
+],
+[
+"alcoholic liver disease",
+21
+],
+[
+"nodule",
+21
+],
+[
+"emerging communicable disease",
+21
+],
+[
+"superior vena cava syndrome",
+21
+],
+[
+"taijin kyofusho",
+21
+],
+[
+"dyskinesia",
+21
+],
+[
+"glycogen storage disease I",
+21
+],
+[
+"Poland syndrome",
+21
+],
+[
+"tinea capitis vale",
+21
+],
+[
+"Rubinstein-Taybi syndrome",
+21
+],
+[
+"photic sneeze reflex",
+21
+],
+[
+"multiple chemical sensitivity",
+21
+],
+[
+"small cell carcinoma",
+21
+],
+[
+"catarrh",
+21
+],
+[
+"anodontia",
+21
+],
+[
+"hyperlexia",
+21
+],
+[
+"umbilical cord prolapse",
+21
+],
+[
+"Bartter disease",
+21
+],
+[
+"Couvade syndrome",
+21
+],
+[
+"kernicterus",
+21
+],
+[
+"maladaptive daydreaming",
+21
+],
+[
+"cauliflower ear",
+21
+],
+[
+"brachydactyly",
+21
+],
+[
+"morbid jealousy",
+21
+],
+[
+"liver disease",
+21
+],
+[
+"proctitis",
+21
+],
+[
+"graphomania",
+21
+],
+[
+"XY gonadal dysgenesis",
+21
+],
+[
+"epidermodysplasia verruciformis",
+21
+],
+[
+"tokophobia",
+21
+],
+[
+"political apathy",
+20
+],
+[
+"hyperandrogenism",
+20
+],
+[
+"temporomandibular joint syndrome",
+20
+],
+[
+"tic disorder",
+20
+],
+[
+"chylothorax",
+20
+],
+[
+"intermittent claudication",
+20
+],
+[
+"chronic bronchitis",
+20
+],
+[
+"oligohydramnios",
+20
+],
+[
+"interstitial lung disease",
+20
+],
+[
+"osteochondrosis",
+20
+],
+[
+"dacryocystitis",
+20
+],
+[
+"premature rupture of membranes",
+20
+],
+[
+"iron poisoning",
+20
+],
+[
+"infectious bursal disease",
+20
+],
+[
+"acute liver failure",
+20
+],
+[
+"retrograde amnesia",
+20
+],
+[
+"cat eye syndrome",
+20
+],
+[
+"dermoid cyst",
+20
+],
+[
+"Leber hereditary optic neuropathy",
+20
+],
+[
+"Dubin-Johnson syndrome",
+20
+],
+[
+"osteochondritis dissecans",
+20
+],
+[
+"Pfeiffer syndrome",
+20
+],
+[
+"brain herniation",
+20
+],
+[
+"malocclusion",
+20
+],
+[
+"lipoid nephrosis",
+20
+],
+[
+"ototoxicity",
+20
+],
+[
+"dental erosion",
+20
+],
+[
+"erythema multiforme",
+20
+],
+[
+"osteopenia",
+20
+],
+[
+"extrapyramidal symptoms",
+20
+],
+[
+"downy mildew",
+20
+],
+[
+"fasciculation",
+20
+],
+[
+"port-wine stain",
+20
+],
+[
+"Bloom syndrome",
+20
+],
+[
+"perseveration",
+20
+],
+[
+"leiomyosarcoma",
+20
+],
+[
+"omphalocele",
+20
+],
+[
+"pyoderma gangrenosum",
+20
+],
+[
+"lissencephaly",
+20
+],
+[
+"vesicoureteral reflux",
+20
+],
+[
+"cutaneous larva migrans",
+20
+],
+[
+"corneal ulcer",
+20
+],
+[
+"telangiectasia",
+20
+],
+[
+"opioid use disorder",
+20
+],
+[
+"hyperpigmentation",
+20
+],
+[
+"hypoplastic left heart syndrome",
+20
+],
+[
+"megacolon",
+20
+],
+[
+"medication overuse headache",
+20
+],
+[
+"SSRI discontinuation syndrome",
+20
+],
+[
+"persistent genital arousal disorder",
+20
+],
+[
+"liver abscess",
+20
+],
+[
+"nicotine dependence",
+20
+],
+[
+"transient global amnesia",
+20
+],
+[
+"coronavirus disease",
+20
+],
+[
+"pleural empyema",
+20
+],
+[
+"anorectal abscess",
+20
+],
+[
+"nephritic syndrome",
+20
+],
+[
+"pyoderma",
+20
+],
+[
+"speech delay",
+20
+],
+[
+"kennel cough",
+20
+],
+[
+"perforated eardrum",
+20
+],
+[
+"pasteurellosis",
+20
+],
+[
+"mercury in fish",
+20
+],
+[
+"endocrine system disease",
+20
+],
+[
+"arachnoiditis",
+20
+],
+[
+"mantle cell lymphoma",
+20
+],
+[
+"dental abscess",
+20
+],
+[
+"bubo",
+20
+],
+[
+"biliary colic",
+20
+],
+[
+"Bruton-type agammaglobulinemia",
+20
+],
+[
+"psychotic depression",
+20
+],
+[
+"cyclosporiasis",
+20
+],
+[
+"notifiable disease",
+20
+],
+[
+"pervasive developmental disorder not otherwise specified",
+20
+],
+[
+"XX male syndrome",
+20
+],
+[
+"Klüver–Bucy syndrome",
+20
+],
+[
+"African horse sickness",
+20
+],
+[
+"ataxia telangiectasia",
+20
+],
+[
+"periodontosis",
+20
+],
+[
+"dislocated shoulder",
+20
+],
+[
+"paediatric oncology",
+20
+],
+[
+"costochondritis",
+20
+],
+[
+"Beckwith-Wiedemann syndrome",
+20
+],
+[
+"systemic scleroderma",
+20
+],
+[
+"St. Louis encephalitis",
+20
+],
+[
+"ptosis of the breast",
+20
+],
+[
+"Truman Show delusion",
+20
+],
+[
+"ectrodactyly",
+20
+],
+[
+"Waterhouse-Friderichsen syndrome",
+20
+],
+[
+"Laron syndrome",
+20
+],
+[
+"berylliosis",
+20
+],
+[
+"neurogenic arthrogryposis multiplex congenita",
+20
+],
+[
+"cervix erosion",
+20
+],
+[
+"alcohol abuse",
+20
+],
+[
+"post-coital tristesse",
+20
+],
+[
+"asthenopia",
+20
+],
+[
+"intertrigo",
+20
+],
+[
+"photokeratitis",
+20
+],
+[
+"premature heart beat",
+20
+],
+[
+"black eye",
+20
+],
+[
+"ego-dystonic sexual orientation",
+20
+],
+[
+"cyberchondria",
+20
+],
+[
+"congenital central hypoventilation syndrome",
+20
+],
+[
+"essential hypertension",
+20
+],
+[
+"West syndrome",
+19
+],
+[
+"auditory hallucination",
+19
+],
+[
+"koro",
+19
+],
+[
+"persecutory delusion",
+19
+],
+[
+"delayed ejaculation",
+19
+],
+[
+"dermatitis herpetiformis",
+19
+],
+[
+"ancylostomiasis",
+19
+],
+[
+"delusional parasitosis",
+19
+],
+[
+"colorectal polyp",
+19
+],
+[
+"hangnail",
+19
+],
+[
+"follicular lymphoma",
+19
+],
+[
+"lathyrism",
+19
+],
+[
+"visual verbal agnosia",
+19
+],
+[
+"Duane retraction syndrome",
+19
+],
+[
+"ecchymosis",
+19
+],
+[
+"liver fluke",
+19
+],
+[
+"space motion sickness",
+19
+],
+[
+"somatization disorder",
+19
+],
+[
+"exostosis",
+19
+],
+[
+"twin-to-twin transfusion syndrome",
+19
+],
+[
+"systemic disease",
+19
+],
+[
+"dacryoadenitis",
+19
+],
+[
+"viremia",
+19
+],
+[
+"nephrotoxicity",
+19
+],
+[
+"Prinzmetal's angina",
+19
+],
+[
+"mild cognitive impairment",
+19
+],
+[
+"lipodystrophy",
+19
+],
+[
+"Lymphatic Malformation",
+19
+],
+[
+"multiple endocrine neoplasia",
+19
+],
+[
+"microphthalmia",
+19
+],
+[
+"superinfection",
+19
+],
+[
+"calcaneal spur",
+19
+],
+[
+"nephroptosis",
+19
+],
+[
+"carotid artery stenosis",
+19
+],
+[
+"hepatoblastoma",
+19
+],
+[
+"sialolithiasis",
+19
+],
+[
+"Mallory–Weiss syndrome",
+19
+],
+[
+"hyperammonemia",
+19
+],
+[
+"hemarthrosis",
+19
+],
+[
+"hemophagocytic lymphohistiocytosis",
+19
+],
+[
+"Bardet-Biedl syndrome",
+19
+],
+[
+"Pulmonary contusion",
+19
+],
+[
+"membranous glomerulonephritis",
+19
+],
+[
+"clavicle fracture",
+19
+],
+[
+"Bálint's syndrome",
+19
+],
+[
+"Pancoast tumor",
+19
+],
+[
+"opisthotonus",
+19
+],
+[
+"ovarian hyperstimulation syndrome",
+19
+],
+[
+"Sotos syndrome",
+19
+],
+[
+"Waldenström macroglobulinemia",
+19
+],
+[
+"radiophobia",
+19
+],
+[
+"seminoma",
+19
+],
+[
+"Latent autoimmune diabetes",
+19
+],
+[
+"leukodystrophy",
+19
+],
+[
+"Eastern equine encephalitis",
+19
+],
+[
+"Li-Fraumeni syndrome",
+19
+],
+[
+"oligospermia",
+19
+],
+[
+"Kartagener syndrome",
+19
+],
+[
+"cerebral amyloid angiopathy",
+19
+],
+[
+"seborrheic infantile dermatitis",
+19
+],
+[
+"nuchal cord",
+19
+],
+[
+"oligomenorrhea",
+19
+],
+[
+"devil facial tumour disease",
+19
+],
+[
+"hemosiderosis",
+19
+],
+[
+"pilocytic astrocytoma",
+19
+],
+[
+"cardiotoxicity",
+19
+],
+[
+"genophobia",
+19
+],
+[
+"Stickler syndrome",
+19
+],
+[
+"Colles' fracture",
+19
+],
+[
+"burning mouth syndrome",
+19
+],
+[
+"neuritis",
+19
+],
+[
+"entoptic phenomenon",
+19
+],
+[
+"strongyloidiasis",
+19
+],
+[
+"occupational injury",
+19
+],
+[
+"agrammatism",
+19
+],
+[
+"tunnel vision",
+19
+],
+[
+"rhinophyma",
+19
+],
+[
+"plagiocephaly",
+19
+],
+[
+"tabes dorsalis",
+19
+],
+[
+"viral pneumonia",
+19
+],
+[
+"movement disorders",
+19
+],
+[
+"red eye",
+19
+],
+[
+"postorgasmic illness syndrome",
+19
+],
+[
+"venous thrombosis",
+19
+],
+[
+"cranial trauma",
+19
+],
+[
+"endometrial polyp",
+19
+],
+[
+"Organophosphate poisoning",
+19
+],
+[
+"Ethylene glycol poisoning",
+19
+],
+[
+"chancre",
+19
+],
+[
+"hereditary disorder",
+19
+],
+[
+"Achilles tendon rupture",
+19
+],
+[
+"achlorhydria",
+19
+],
+[
+"uveal melanoma",
+19
+],
+[
+"hemianopia",
+19
+],
+[
+"neurilemmoma",
+19
+],
+[
+"angioma",
+19
+],
+[
+"fire blight",
+19
+],
+[
+"psychogenic non-epileptic seizures",
+19
+],
+[
+"shoulder dystocia",
+19
+],
+[
+"rumination disorder",
+19
+],
+[
+"leiomyoma",
+19
+],
+[
+"animal hoarding",
+19
+],
+[
+"congenital insensitivity to pain with anhidrosis",
+19
+],
+[
+"cervical polyp",
+19
+],
+[
+"Boerhaave syndrome",
+19
+],
+[
+"early pregnancy bleeding",
+19
+],
+[
+"anthracosis",
+19
+],
+[
+"anthropophobia",
+19
+],
+[
+"anti-NMDA receptor encephalitis",
+19
+],
+[
+"cerebral contusion",
+19
+],
+[
+"Wolf-Hirschhorn syndrome",
+19
+],
+[
+"gastric dilatation volvulus",
+19
+],
+[
+"temporal lobe epilepsy",
+19
+],
+[
+"multiple drug resistance",
+19
+],
+[
+"blackleg",
+19
+],
+[
+"coronary thrombosis",
+19
+],
+[
+"mitral valve prolapse",
+19
+],
+[
+"Jarisch-Herxheimer reaction",
+19
+],
+[
+"phocomelia",
+19
+],
+[
+"akinetopsia",
+19
+],
+[
+"Charles Bonnet syndrome",
+19
+],
+[
+"pinta disease",
+19
+],
+[
+"bronchopulmonary dysplasia",
+19
+],
+[
+"dentine hypersensitivity",
+19
+],
+[
+"scotoma",
+19
+],
+[
+"fat embolism",
+19
+],
+[
+"papilledema",
+19
+],
+[
+"hallucinogen persisting perception disorder",
+18
+],
+[
+"CADASIL",
+18
+],
+[
+"Caput medusae",
+18
+],
+[
+"language disorder",
+18
+],
+[
+"anthroponotic disease",
+18
+],
+[
+"flail chest",
+18
+],
+[
+"hairy tongue",
+18
+],
+[
+"pre-malignant neoplasm",
+18
+],
+[
+"pro-ana",
+18
+],
+[
+"Dressler's syndrome",
+18
+],
+[
+"lifestyle disease",
+18
+],
+[
+"small intestine cancer",
+18
+],
+[
+"echopraxia",
+18
+],
+[
+"pericardial effusion",
+18
+],
+[
+"school refusal",
+18
+],
+[
+"empty sella syndrome",
+18
+],
+[
+"ependymoma",
+18
+],
+[
+"lovesickness",
+18
+],
+[
+"ancylostoma duodenale ancylostomiasis",
+18
+],
+[
+"interstitial nephritis",
+18
+],
+[
+"central serous retinopathy",
+18
+],
+[
+"pantothenate kinase-associated neurodegeneration",
+18
+],
+[
+"holoprosencephaly",
+18
+],
+[
+"alogia",
+18
+],
+[
+"gastrointestinal stromal tumor",
+18
+],
+[
+"rapidly progressive glomerulonephritis",
+18
+],
+[
+"Gerstmann syndrome",
+18
+],
+[
+"Kabuki syndrome",
+18
+],
+[
+"pneumocystis pneumonia",
+18
+],
+[
+"genu varum",
+18
+],
+[
+"hypervolemia",
+18
+],
+[
+"shoulder impingement syndrome",
+18
+],
+[
+"intrauterine growth restriction",
+18
+],
+[
+"Merkel cell carcinoma",
+18
+],
+[
+"atypical hemolytic uremic syndrome",
+18
+],
+[
+"Wallerian degeneration",
+18
+],
+[
+"corticobasal degeneration",
+18
+],
+[
+"sick sinus syndrome",
+18
+],
+[
+"microtia",
+18
+],
+[
+"loiasis",
+18
+],
+[
+"cross-reactivity",
+18
+],
+[
+"Klippel-Feil syndrome",
+18
+],
+[
+"adult Refsum disease",
+18
+],
+[
+"connective tissue disease",
+18
+],
+[
+"tricuspid insufficiency",
+18
+],
+[
+"culture-bound syndrome",
+18
+],
+[
+"right bundle branch block",
+18
+],
+[
+"Leber congenital amaurosis",
+18
+],
+[
+"phlebotomus fever",
+18
+],
+[
+"lentigo",
+18
+],
+[
+"large for gestational age",
+18
+],
+[
+"meconium aspiration syndrome",
+18
+],
+[
+"sialadenitis",
+18
+],
+[
+"hairy cell leukemia",
+18
+],
+[
+"obesity hypoventilation syndrome",
+18
+],
+[
+"tungiasis",
+18
+],
+[
+"Ritter's disease",
+18
+],
+[
+"Silver-Russell syndrome",
+18
+],
+[
+"chronic granulomatous disease",
+18
+],
+[
+"psychasthenia",
+18
+],
+[
+"herpetophobia",
+18
+],
+[
+"neurogenic bladder",
+18
+],
+[
+"dumping syndrome",
+18
+],
+[
+"odynophagia",
+18
+],
+[
+"tumor of hematopoietic and lymphoid tissues",
+18
+],
+[
+"anovulation",
+18
+],
+[
+"Kearns-Sayre syndrome",
+18
+],
+[
+"Ramsay Hunt syndrome",
+18
+],
+[
+"dipsomania",
+18
+],
+[
+"food addiction",
+18
+],
+[
+"male infertility",
+18
+],
+[
+"ehrlichiosis",
+18
+],
+[
+"genu valgum",
+18
+],
+[
+"primary immunodeficiency disease",
+18
+],
+[
+"skin tag",
+18
+],
+[
+"smut",
+18
+],
+[
+"intraductal carcinoma of the breast",
+18
+],
+[
+"Pthirus pubis infestation",
+18
+],
+[
+"postterm pregnancy",
+18
+],
+[
+"gestational trophoblastic disease",
+18
+],
+[
+"Loeys-Dietz syndrome",
+18
+],
+[
+"extrinsic allergic alveolitis",
+18
+],
+[
+"sterility",
+18
+],
+[
+"epidermoid cyst",
+18
+],
+[
+"adynaton",
+18
+],
+[
+"cleft palate",
+18
+],
+[
+"agenesis",
+18
+],
+[
+"acanthocyte",
+18
+],
+[
+"metal poisoning",
+18
+],
+[
+"exsanguination",
+18
+],
+[
+"testicular pain",
+18
+],
+[
+"chloracne",
+18
+],
+[
+"sociogenic illness",
+18
+],
+[
+"Bórrar",
+18
+],
+[
+"lymphopenia",
+18
+],
+[
+"anasarka",
+18
+],
+[
+"basophilia",
+18
+],
+[
+"cognitive deficit",
+18
+],
+[
+"sinus tachycardia",
+18
+],
+[
+"Vincent's angina",
+18
+],
+[
+"aplasia",
+18
+],
+[
+"chondrocalcinosis",
+18
+],
+[
+"anomic aphasia",
+18
+],
+[
+"cutaneous squamous-cell carcinoma",
+18
+],
+[
+"hypertonia",
+18
+],
+[
+"paraganglioma",
+18
+],
+[
+"Blaschko's lines",
+18
+],
+[
+"hammer toe",
+18
+],
+[
+"proximal humerus fracture",
+18
+],
+[
+"benzodiazepine withdrawal syndrome",
+18
+],
+[
+"lymphocytosis",
+18
+],
+[
+"ornithophobia",
+18
+],
+[
+"stimulant psychosis",
+18
+],
+[
+"macrocephaly",
+18
+],
+[
+"Argyll Robertson pupil",
+18
+],
+[
+"biliary atresia",
+18
+],
+[
+"fowl cholera",
+18
+],
+[
+"pulmonary aspiration",
+18
+],
+[
+"hypersalivation",
+18
+],
+[
+"panniculitis",
+18
+],
+[
+"azotemia",
+18
+],
+[
+"adenovirus infection",
+18
+],
+[
+"Cockayne syndrome",
+18
+],
+[
+"monomania",
+18
+],
+[
+"erythrasma",
+18
+],
+[
+"pericoronitis",
+18
+],
+[
+"Gulf War syndrome",
+18
+],
+[
+"Smith-Lemli-Opitz syndrome",
+18
+],
+[
+"fibrillation",
+17
+],
+[
+"gymnophobia",
+17
+],
+[
+"demodicosis",
+17
+],
+[
+"chondroma",
+17
+],
+[
+"chondromalacia patellae",
+17
+],
+[
+"Joubert syndrome",
+17
+],
+[
+"classic autism",
+17
+],
+[
+"perioral dermatitis",
+17
+],
+[
+"hypnophobia",
+17
+],
+[
+"tyrosinemia",
+17
+],
+[
+"agenesis of the corpus callosum",
+17
+],
+[
+"pyometritis",
+17
+],
+[
+"neurodermatitis",
+17
+],
+[
+"Wolfram syndrome",
+17
+],
+[
+"Nursemaid's elbow",
+17
+],
+[
+"duodenitis",
+17
+],
+[
+"polyarthritis",
+17
+],
+[
+"myotonia",
+17
+],
+[
+"oligodendroglioma",
+17
+],
+[
+"splitting",
+17
+],
+[
+"Ellis–Van Creveld syndrome",
+17
+],
+[
+"excessive tearing",
+17
+],
+[
+"Binswanger's disease",
+17
+],
+[
+"chorioretinitis",
+17
+],
+[
+"Smoking and pregnancy",
+17
+],
+[
+"unibrow",
+17
+],
+[
+"Tangier disease",
+17
+],
+[
+"Trousseau sign",
+17
+],
+[
+"contracture",
+17
+],
+[
+"nutcracker syndrome",
+17
+],
+[
+"hydrothorax",
+17
+],
+[
+"Rotor syndrome",
+17
+],
+[
+"behavioral addiction",
+17
+],
+[
+"gestational hypertension",
+17
+],
+[
+"ischemic colitis",
+17
+],
+[
+"feline viral rhinotracheitis",
+17
+],
+[
+"trichophagia",
+17
+],
+[
+"Commotio cordis",
+17
+],
+[
+"horseshoe kidney",
+17
+],
+[
+"hypoalbuminemia",
+17
+],
+[
+"hyperkinesia",
+17
+],
+[
+"hemoglobinopathy",
+17
+],
+[
+"pectus carinatum",
+17
+],
+[
+"high altitude cerebral edema",
+17
+],
+[
+"high altitude pulmonary edema",
+17
+],
+[
+"rabbit starvation",
+17
+],
+[
+"clitoridectomy",
+17
+],
+[
+"cavernous hemangioma",
+17
+],
+[
+"receptive aphasia",
+17
+],
+[
+"radiculopathy",
+17
+],
+[
+"juvenile neuronal ceroid lipofuscinosis",
+17
+],
+[
+"pancytopenia",
+17
+],
+[
+"pseudarthrosis",
+17
+],
+[
+"yellow nail syndrome",
+17
+],
+[
+"Leigh disease",
+17
+],
+[
+"atrophic gastritis",
+17
+],
+[
+"ectopia lentis",
+17
+],
+[
+"nocardiosis",
+17
+],
+[
+"pinguecula",
+17
+],
+[
+"feline panleukopenia",
+17
+],
+[
+"microscopic polyangiitis",
+17
+],
+[
+"basal ganglia calcification",
+17
+],
+[
+"Morton's neuroma",
+17
+],
+[
+"skull fracture",
+17
+],
+[
+"parotitis",
+17
+],
+[
+"neuroma",
+17
+],
+[
+"hypermagnesemia",
+17
+],
+[
+"left bundle branch hemiblock",
+17
+],
+[
+"respiratory acidosis",
+17
+],
+[
+"restrictive cardiomyopathy",
+17
+],
+[
+"Nelson syndrome",
+17
+],
+[
+"neurogenic shock",
+17
+],
+[
+"post-polio syndrome",
+17
+],
+[
+"Smith-Magenis syndrome",
+17
+],
+[
+"nubbin",
+17
+],
+[
+"variant Creutzfeldt–Jakob disease",
+17
+],
+[
+"toxidrome",
+17
+],
+[
+"anaplasmosis",
+17
+],
+[
+"Tetra-amelia syndrome",
+17
+],
+[
+"Achilles tendinitis",
+17
+],
+[
+"obstetrical hemorrhage",
+17
+],
+[
+"topical steroid addiction",
+17
+],
+[
+"cracked nipple",
+17
+],
+[
+"premature ventricular contraction",
+17
+],
+[
+"spatial disorientation",
+17
+],
+[
+"autoimmune hemolytic anemia",
+17
+],
+[
+"femoral hernia",
+17
+],
+[
+"hereditary haemochromatosis",
+17
+],
+[
+"abetalipoproteinemia",
+17
+],
+[
+"salivary gland neoplasm",
+17
+],
+[
+"microcytic anemia",
+17
+],
+[
+"carcinoid syndrome",
+17
+],
+[
+"corneal abrasion",
+17
+],
+[
+"Adie syndrome",
+17
+],
+[
+"globus pharyngis",
+17
+],
+[
+"insect-inflicted wound",
+17
+],
+[
+"tolosa-hunt syndrome",
+17
+],
+[
+"tuberculous meningitis",
+17
+],
+[
+"spermatocele",
+17
+],
+[
+"Blocked milk duct",
+17
+],
+[
+"adrenal crisis",
+17
+],
+[
+"breast engorgement",
+17
+],
+[
+"Alström syndrome",
+17
+],
+[
+"age spot",
+17
+],
+[
+"pulmonary alveolar proteinosis",
+17
+],
+[
+"amelogenesis imperfecta",
+17
+],
+[
+"aphallia",
+17
+],
+[
+"brain ischemia",
+17
+],
+[
+"breakthrough infection",
+17
+],
+[
+"cannabinoid hyperemesis syndrome",
+17
+],
+[
+"senile angioma",
+17
+],
+[
+"acute prostatitis",
+17
+],
+[
+"Marek's disease",
+17
+],
+[
+"split-brain",
+17
+],
+[
+"olecranon bursitis",
+17
+],
+[
+"night eating syndrome",
+17
+],
+[
+"anorchia",
+17
+],
+[
+"cardiac asthma",
+17
+],
+[
+"pulmonary valve stenosis",
+17
+],
+[
+"Anton syndrome",
+17
+],
+[
+"myxoma",
+17
+],
+[
+"Ludwig's angina",
+17
+],
+[
+"intrahepatic cholestasis of pregnancy",
+17
+],
+[
+"photodermatitis",
+17
+],
+[
+"telephone phobia",
+17
+],
+[
+"periapical periodontitis",
+17
+],
+[
+"myokymia",
+17
+],
+[
+"maturity-onset diabetes of the young",
+17
+],
+[
+"renal agenesis",
+17
+],
+[
+"arithmomania",
+17
+],
+[
+"tinea corporis",
+17
+],
+[
+"tuberous breasts",
+17
+],
+[
+"gastrinoma",
+17
+],
+[
+"abdominal pregnancy",
+17
+],
+[
+"café au lait spot",
+17
+],
+[
+"Barth syndrome",
+17
+],
+[
+"anisocytosis",
+17
+],
+[
+"rectocele",
+17
+],
+[
+"gingival recession",
+17
+],
+[
+"Brown-Séquard syndrome",
+17
+],
+[
+"CHARGE syndrome",
+16
+],
+[
+"cluttering",
+16
+],
+[
+"Lamaze technique",
+16
+],
+[
+"cheilitis",
+16
+],
+[
+"Chvostek sign",
+16
+],
+[
+"caffeine dependence",
+16
+],
+[
+"Health effects of alcohol",
+16
+],
+[
+"neurocysticercosis",
+16
+],
+[
+"adult-onset Still's disease",
+16
+],
+[
+"arcus senilis",
+16
+],
+[
+"neuropathy",
+16
+],
+[
+"discoid lupus erythematosus",
+16
+],
+[
+"distal radius fracture",
+16
+],
+[
+"vascular disease",
+16
+],
+[
+"small intestinal bacterial overgrowth",
+16
+],
+[
+"central auditory processing disorder",
+16
+],
+[
+"nasal fracture",
+16
+],
+[
+"bundle branch block",
+16
+],
+[
+"mirror syndrome",
+16
+],
+[
+"encephalocele",
+16
+],
+[
+"tinea favosa",
+16
+],
+[
+"essential thrombocytosis",
+16
+],
+[
+"Farber lipogranulomatosis",
+16
+],
+[
+"facioscapulohumeral muscular dystrophy",
+16
+],
+[
+"Felty's syndrome",
+16
+],
+[
+"tonic–clonic seizure",
+16
+],
+[
+"subcutaneous emphysema",
+16
+],
+[
+"absent-mindedness",
+16
+],
+[
+"arteriosclerotic heart disease",
+16
+],
+[
+"febrile neutrophilic dermatosis",
+16
+],
+[
+"macula",
+16
+],
+[
+"urethral stricture",
+16
+],
+[
+"heparin-induced thrombocytopenia",
+16
+],
+[
+"herpesviral encephalitis",
+16
+],
+[
+"lupus nephritis",
+16
+],
+[
+"Landau–Kleffner syndrome",
+16
+],
+[
+"hyperesthesia",
+16
+],
+[
+"Hypopyon",
+16
+],
+[
+"hypertelorism",
+16
+],
+[
+"hematidrosis",
+16
+],
+[
+"obstructive sleep apnea",
+16
+],
+[
+"aquagenic urticaria",
+16
+],
+[
+"Jacobsen syndrome",
+16
+],
+[
+"coccydynia",
+16
+],
+[
+"mycetoma",
+16
+],
+[
+"aortic rupture",
+16
+],
+[
+"opioid overdose",
+16
+],
+[
+"Scombroid food poisoning",
+16
+],
+[
+"VACTERL association",
+16
+],
+[
+"Pierre Robin syndrome",
+16
+],
+[
+"Tietze syndrome",
+16
+],
+[
+"Lown-Ganong-Levine syndrome",
+16
+],
+[
+"Klippel–Trénaunay–Weber syndrome",
+16
+],
+[
+"urophagia",
+16
+],
+[
+"piblokto",
+16
+],
+[
+"collapse",
+16
+],
+[
+"macular retinal edema",
+16
+],
+[
+"phossy jaw",
+16
+],
+[
+"Liddle syndrome",
+16
+],
+[
+"hyperosmolar hyperglycemic state",
+16
+],
+[
+"cyclic vomiting syndrome",
+16
+],
+[
+"relapsing polychondritis",
+16
+],
+[
+"lupus erythematosus",
+16
+],
+[
+"mycosis fungoides",
+16
+],
+[
+"WAGR syndrome",
+16
+],
+[
+"equine infectious anemia",
+16
+],
+[
+"hypertensive disease of pregnancy",
+16
+],
+[
+"central retinal vein occlusion",
+16
+],
+[
+"Milium",
+16
+],
+[
+"Castleman's disease",
+16
+],
+[
+"ciliopathy",
+16
+],
+[
+"heart cancer",
+16
+],
+[
+"arachnodactyly",
+16
+],
+[
+"drug allergy",
+16
+],
+[
+"prediabetes syndromeverga",
+16
+],
+[
+"hemophilia A",
+16
+],
+[
+"clinical vampirism",
+16
+],
+[
+"prolapse",
+16
+],
+[
+"diaphragmatic hernia",
+16
+],
+[
+"lateral medullary syndrome",
+16
+],
+[
+"antibody-dependent cellular cytotoxicity",
+16
+],
+[
+"fear of bees",
+16
+],
+[
+"Sezary's disease",
+16
+],
+[
+"ideas of reference and delusions of reference",
+16
+],
+[
+"epidemic pleurodynia",
+16
+],
+[
+"Photophthalmia",
+16
+],
+[
+"cerebral hypoxia",
+16
+],
+[
+"MSG symptom complex",
+16
+],
+[
+"Warthin's tumor",
+16
+],
+[
+"spinal cord disease",
+16
+],
+[
+"dental trauma",
+16
+],
+[
+"bicornuate uterus",
+16
+],
+[
+"paraphrenia",
+16
+],
+[
+"lipoid proteinosis",
+16
+],
+[
+"syndrome of Cassandra",
+16
+],
+[
+"chronic atrophic rhinitis",
+16
+],
+[
+"hemophilia B",
+16
+],
+[
+"bladder exstrophy",
+16
+],
+[
+"Galeazzi fracture",
+16
+],
+[
+"erotophobia",
+16
+],
+[
+"sideroblastic anaemia P",
+16
+],
+[
+"diffuse large B-cell lymphoma",
+16
+],
+[
+"incisional hernia",
+16
+],
+[
+"avian malaria",
+16
+],
+[
+"MELAS syndrome",
+16
+],
+[
+"factitious disorder",
+16
+],
+[
+"accessory breast",
+16
+],
+[
+"female hysteria",
+16
+],
+[
+"Pott disease",
+16
+],
+[
+"autosomal dominant polycystic kidney",
+16
+],
+[
+"Aagenaes syndrome",
+16
+],
+[
+"Subungual hematoma",
+16
+],
+[
+"cognitive disorder",
+16
+],
+[
+"diffuse panbronchiolitis",
+16
+],
+[
+"sequelae",
+16
+],
+[
+"septicemic plague",
+16
+],
+[
+"Plummer–Vinson syndrome",
+16
+],
+[
+"female sexual arousal disorder",
+16
+],
+[
+"lupus vulgaris",
+16
+],
+[
+"rotator cuff tear",
+16
+],
+[
+"lower respiratory tract infection",
+16
+],
+[
+"non-small-cell lung carcinoma",
+16
+],
+[
+"sycosis",
+16
+],
+[
+"hospitalism",
+16
+],
+[
+"pain during childbirth",
+16
+],
+[
+"drug reaction with eosinophilia and systemic symptoms",
+16
+],
+[
+"Aicardi syndrome",
+16
+],
+[
+"bipolar II disorder",
+16
+],
+[
+"vertically transmitted infection",
+16
+],
+[
+"akinesia",
+16
+],
+[
+"cephalohematoma",
+16
+],
+[
+"hypertensive retinopathy",
+16
+],
+[
+"cystoisosporiasis",
+16
+],
+[
+"effects of cannabis",
+16
+],
+[
+"psychological dependence",
+16
+],
+[
+"dirofilariasis",
+16
+],
+[
+"thyroid crisis",
+16
+],
+[
+"African tick-bite fever",
+16
+],
+[
+"imperforate anus",
+16
+],
+[
+"postcoital bleeding",
+16
+],
+[
+"bipolar I disorder",
+16
+],
+[
+"blurred vision",
+16
+],
+[
+"renal artery obstruction",
+16
+],
+[
+"congenital cytomegalovirus infection",
+16
+],
+[
+"macroglossia",
+16
+],
+[
+"erythromelalgia",
+16
+],
+[
+"anhidrosis",
+16
+],
+[
+"otomycosis",
+16
+],
+[
+"keratosis follicularis",
+16
+],
+[
+"tropical sprue",
+16
+],
+[
+"laryngomalacia",
+16
+],
+[
+"hemorrhagic disease",
+16
+],
+[
+"acute promyelocytic leukemia",
+16
+],
+[
+"hypokalemic periodic paralysis",
+16
+],
+[
+"arachnoid cyst",
+16
+],
+[
+"diastasis recti",
+16
+],
+[
+"gummosis",
+16
+],
+[
+"mallet finger",
+16
+],
+[
+"hereditary spastic paraplegia",
+16
+],
+[
+"arteriovenous fistula",
+16
+],
+[
+"arthropathy",
+16
+],
+[
+"Lemierre's syndrome",
+16
+],
+[
+"Goldenhar syndrome",
+16
+],
+[
+"glucagonoma",
+16
+],
+[
+"scrupulosity",
+16
+],
+[
+"triple-negative breast cancer",
+16
+],
+[
+"glycogen storage disease V",
+16
+],
+[
+"uterine inversion",
+16
+],
+[
+"bovine virus diarrhea",
+16
+],
+[
+"zinc deficiency",
+16
+],
+[
+"multidrug-resistant tuberculosis",
+16
+],
+[
+"Phocomelia due to thalidomide",
+16
+],
+[
+"blastoma",
+16
+],
+[
+"Chediak-Higashi syndrome",
+16
+],
+[
+"acute leukemia",
+16
+],
+[
+"pituitary apoplexy",
+16
+],
+[
+"Heberden's node",
+15
+],
+[
+"hypoproteinemia",
+15
+],
+[
+"Caroli disease",
+15
+],
+[
+"Gitelman syndrome",
+15
+],
+[
+"neurogenic arthropathy",
+15
+],
+[
+"chemosis",
+15
+],
+[
+"chordoma",
+15
+],
+[
+"chronic inflammatory demyelinating polyradiculoneuropathy",
+15
+],
+[
+"mandibular fracture",
+15
+],
+[
+"myofascial pain syndrome",
+15
+],
+[
+"tear of meniscus",
+15
+],
+[
+"developmental disability",
+15
+],
+[
+"Pitt-Hopkins syndrome",
+15
+],
+[
+"dementia praecox",
+15
+],
+[
+"phantom pain",
+15
+],
+[
+"allergic contact dermatitis",
+15
+],
+[
+"Diamond-Blackfan anemia",
+15
+],
+[
+"osteosclerosis",
+15
+],
+[
+"Vogt–Koyanagi–Harada syndrome",
+15
+],
+[
+"coinfection",
+15
+],
+[
+"rhotacism",
+15
+],
+[
+"tricuspid atresia",
+15
+],
+[
+"pneumonitis",
+15
+],
+[
+"endophthalmitis",
+15
+],
+[
+"photopsia",
+15
+],
+[
+"hypophosphatasia",
+15
+],
+[
+"pulseless electrical activity",
+15
+],
+[
+"Lewy body dementia",
+15
+],
+[
+"Graves' ophthalmopathy",
+15
+],
+[
+"heart conduction disease",
+15
+],
+[
+"fibrosarcoma",
+15
+],
+[
+"Rapunzel syndrome",
+15
+],
+[
+"fibrocartilage callus",
+15
+],
+[
+"fever of unknown origin",
+15
+],
+[
+"fibrous dysplasia of bone",
+15
+],
+[
+"nondisjunction",
+15
+],
+[
+"non-verbal learning disorder",
+15
+],
+[
+"Kyasanur forest disease",
+15
+],
+[
+"nephrosclerosis",
+15
+],
+[
+"grandiosity",
+15
+],
+[
+"Parinaud's syndrome",
+15
+],
+[
+"VIPoma",
+15
+],
+[
+"metal fume fever",
+15
+],
+[
+"tobacco use disorder",
+15
+],
+[
+"Schmorl's nodes",
+15
+],
+[
+"nevoid basal cell carcinoma syndrome",
+15
+],
+[
+"acute proliferative glomerulonephritis",
+15
+],
+[
+"tooth agenesis",
+15
+],
+[
+"Jones fracture",
+15
+],
+[
+"pyogenic granuloma",
+15
+],
+[
+"Rothmund-Thomson syndrome",
+15
+],
+[
+"urolithiasis",
+15
+],
+[
+"Cutaneous horn",
+15
+],
+[
+"spider angioma",
+15
+],
+[
+"erysipelothrix rhusiopathiae infectious disease",
+15
+],
+[
+"histamine intolerance",
+15
+],
+[
+"pes cavus",
+15
+],
+[
+"hyperostosis",
+15
+],
+[
+"pneumoperitoneum",
+15
+],
+[
+"Rasmussen's encephalitis",
+15
+],
+[
+"superior mesenteric artery syndrome",
+15
+],
+[
+"breast cyst",
+15
+],
+[
+"phytophotodermatitis",
+15
+],
+[
+"infantilism",
+15
+],
+[
+"anesthesia awareness",
+15
+],
+[
+"sadistic personality disorder",
+15
+],
+[
+"Palilalia",
+15
+],
+[
+"miliary tuberculosis",
+15
+],
+[
+"frailty syndrome",
+15
+],
+[
+"clinodactyly",
+15
+],
+[
+"spasmodic dystonia",
+15
+],
+[
+"fecolith",
+15
+],
+[
+"cryoglobulinemia",
+15
+],
+[
+"tick-borne disease",
+15
+],
+[
+"Pelizaeus-Merzbacher disease",
+15
+],
+[
+"lymphangioleiomyomatosis",
+15
+],
+[
+"lymphocytic choriomeningitis",
+15
+],
+[
+"central pontine myelinolysis",
+15
+],
+[
+"22q13 deletion syndrome",
+15
+],
+[
+"workaholism",
+15
+],
+[
+"neurofibromatosis type II",
+15
+],
+[
+"sluggish schizophrenia",
+15
+],
+[
+"non-celiac gluten sensitivity",
+15
+],
+[
+"Hartnup disease",
+15
+],
+[
+"angiokeratoma",
+15
+],
+[
+"osteochondroma",
+15
+],
+[
+"corneal dystrophy",
+15
+],
+[
+"occupational hearing loss",
+15
+],
+[
+"phototoxicity",
+15
+],
+[
+"rhabdomyoma",
+15
+],
+[
+"substance-induced psychosis",
+15
+],
+[
+"congenital diaphragmatic hernia",
+15
+],
+[
+"Coenurosis",
+15
+],
+[
+"pseudohermaphroditism",
+15
+],
+[
+"tophus",
+15
+],
+[
+"hidradenitis",
+15
+],
+[
+"membranoproliferative glomerulonephritis",
+15
+],
+[
+"hypochromic anemia",
+15
+],
+[
+"calcinosis",
+15
+],
+[
+"acute kidney tubular necrosis",
+15
+],
+[
+"gummatous syphilis",
+15
+],
+[
+"Parry–Romberg syndrome",
+15
+],
+[
+"fissured tongue",
+15
+],
+[
+"retropharyngeal abscess",
+15
+],
+[
+"cervical incompetence",
+15
+],
+[
+"cutaneous leishmaniasis",
+15
+],
+[
+"fetal distress",
+15
+],
+[
+"Vancomycin-resistant Enterococcus",
+15
+],
+[
+"Thyrotoxic periodic paralysis",
+15
+],
+[
+"dysorthography",
+15
+],
+[
+"rat-bite fever",
+15
+],
+[
+"48,XXXX syndrome",
+15
+],
+[
+"passive–aggressive personality disorder",
+15
+],
+[
+"folate deficiency",
+15
+],
+[
+"undernutrition",
+15
+],
+[
+"viral encephalitis",
+15
+],
+[
+"enterocolitis",
+15
+],
+[
+"anisakiasis",
+15
+],
+[
+"spontaneous bacterial peritonitis",
+15
+],
+[
+"primary central nervous system lymphoma",
+15
+],
+[
+"diprosopus",
+15
+],
+[
+"chromosome 1p36 deletion syndrome",
+15
+],
+[
+"hydrocele testis",
+15
+],
+[
+"dental abrasion",
+15
+],
+[
+"fear of fish",
+15
+],
+[
+"scopophobia",
+15
+],
+[
+"cold urticaria",
+15
+],
+[
+"beta thalassemia",
+15
+],
+[
+"neonatal conjunctivitis",
+15
+],
+[
+"keratosis",
+15
+],
+[
+"gender dysphoria in children",
+15
+],
+[
+"cannabis dependence",
+15
+],
+[
+"respiratory arrest",
+15
+],
+[
+"shellfish poisoning",
+15
+],
+[
+"uterus didelphys",
+15
+],
+[
+"acantholysis",
+15
+],
+[
+"onycholysis",
+15
+],
+[
+"ulnar nerve entrapment",
+15
+],
+[
+"hemangioblastoma",
+15
+],
+[
+"ameloblastoma",
+15
+],
+[
+"Oropouche fever",
+15
+],
+[
+"Aspirin poisoning",
+15
+],
+[
+"Beau's lines",
+15
+],
+[
+"trisomy 16",
+15
+],
+[
+"paraphasia",
+15
+],
+[
+"micromastia",
+15
+],
+[
+"feline lower urinary tract disease",
+15
+],
+[
+"uncombable hair syndrome",
+15
+],
+[
+"neural tube defect",
+15
+],
+[
+"poliosis",
+15
+],
+[
+"cherubism",
+15
+],
+[
+"anthracnose",
+15
+],
+[
+"mucopolysaccharidosis VI",
+15
+],
+[
+"egg allergy",
+15
+],
+[
+"omphalitis of newborn",
+15
+],
+[
+"macropsia",
+15
+],
+[
+"aortitis",
+15
+],
+[
+"orbital cellulitis",
+15
+],
+[
+"encopresis",
+15
+],
+[
+"endometrial hyperplasia",
+15
+],
+[
+"Muselmann",
+15
+],
+[
+"multicystic dysplastic kidney",
+15
+],
+[
+"psychogenic pain",
+15
+],
+[
+"McCune–Albright syndrome",
+15
+],
+[
+"rectal pain",
+15
+],
+[
+"retained placenta",
+15
+],
+[
+"trigger point",
+15
+],
+[
+"hemometra",
+15
+],
+[
+"atony",
+15
+],
+[
+"CREST syndrome",
+15
+],
+[
+"Andersen-Tawil syndrome",
+15
+],
+[
+"Post-SSRI sexual dysfunction",
+15
+],
+[
+"genetic predisposition",
+15
+],
+[
+"keratoacanthoma",
+15
+],
+[
+"XXYY syndrome",
+15
+],
+[
+"pelvic fracture",
+15
+],
+[
+"boutonneuse fever",
+15
+],
+[
+"nodding disease",
+15
+],
+[
+"sensorineural hearing loss",
+15
+],
+[
+"Bowen's disease",
+15
 ]
 ]

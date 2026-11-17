@@ -1,0 +1,61 @@
+Ball=bouncy ball
+Jigsaw Puzzle=puzzle
+Toy Car
+Jacks
+Dominoes
+Building Blocks=blocks
+Train Set=toy train
+Stuffed Animal=plush
+Scooter
+Skateboard
+Toy Soldier
+Doll House
+Puppet
+Marionette
+Jack-in-the-box
+Kaleidoscope
+Bubble Wand=bubbles
+Sidewalk Chalk
+Squirt Gun
+Super Soaker
+Rocking Horse
+Hobby Horse
+Wagon
+Tricycle
+Sled
+Slime
+Silly Putty
+Magna-Tiles
+Duplo
+Polly Pocket
+My Little Pony
+Care Bears
+Troll Doll
+Bratz
+American Girl
+Hatchimals
+L.O.L. Surprise
+Squishmallow
+Pokemon cards
+Beyblade
+Bop It
+Simon
+Operation
+Speak & Spell
+Tickle Me Elmo
+Teddy Ruxpin
+Rock 'Em Sock 'Em Robots
+Stretch Armstrong
+Gumby
+Pez dispenser
+Kendama
+Cup and ball
+Diabolo
+Whirligig
+Pinwheel
+Paper airplane
+RC car=remote control car
+Drone
+Glow stick
+Water balloon
+Bath toy

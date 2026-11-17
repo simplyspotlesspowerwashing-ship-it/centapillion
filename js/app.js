@@ -67,7 +67,7 @@
       g = store.archive[d];
       if (!validGame(g)) { g = newGame("archive", d, idsFor(E.promptsForDay(d, BANK))); store.archive[d] = g; }
     } else if (route.mode === "category") {
-      var c = route.n || nextCategory(route.cat);
+      var c = today();                      // one set of seven per category per day
       var key = route.cat + ":" + c;
       g = store.cat.games[key];
       if (!validGame(g)) {
@@ -94,17 +94,11 @@
     return n;
   }
 
-  // Same rule per category: resume an unfinished dig, else the first unplayed one.
-  function nextCategory(cat) {
-    var last = store.cat.last[cat];
-    var g = last && store.cat.games[cat + ":" + last];
-    if (g && g.phase !== "done") return last;
-    return nextCategoryAfter(cat, 0);
-  }
-  function nextCategoryAfter(cat, n) {
-    var k = n + 1;
-    while (store.cat.best[cat + ":" + k] != null) k++;
-    return k;
+  function categoryToday(cat) {
+    var g = store.cat.games[cat + ":" + today()];
+    if (!g || g.phase === "intro") return { state: "new" };
+    if (g.phase !== "done") return { state: "playing" };
+    return { state: "done", score: E.totalScore(g.results) };
   }
   function categoryStats(cat) {
     var scores = Object.keys(store.cat.best).filter(function (k) { return k.indexOf(cat + ":") === 0; })
@@ -126,9 +120,7 @@
       return { mode: "daily" };
     }
     m = /^cat\/([a-z]+)(?:\/(\d+))?$/.exec(h);
-    if (m && E.category(m[1]) && E.categoryBank(m[1], BANK).length >= C.ROUNDS) {
-      return { mode: "category", cat: m[1], n: m[2] ? Math.max(1, Math.min(99999, parseInt(m[2], 10))) : 0 };
-    }
+    if (m && E.category(m[1]) && E.categoryBank(m[1], BANK).length >= C.ROUNDS) return { mode: "category", cat: m[1] };
     m = /^unlimited(?:\/(\d+))?$/.exec(h);
     if (m) return { mode: "unlimited", n: m[1] ? Math.max(1, Math.min(99999, parseInt(m[1], 10))) : 0 };
     return { mode: "daily" };
@@ -284,6 +276,8 @@
   function logMiss(raw) {
     var p = curPrompt();
     store.missed.push({ p: p.id, q: p.q, t: raw.slice(0, 80), at: now() });
+    var r = curRound();
+    if (r) { r.missed = r.missed || []; if (r.missed.indexOf(raw) === -1) r.missed.push(raw.slice(0, 80)); }
     if (store.missed.length > 500) store.missed.splice(0, store.missed.length - 500);
     save();
   }
@@ -357,7 +351,6 @@
   function replay() {
     var fresh = newGame(game.mode, game.game, game.promptIds.slice());
     if (game.mode === "unlimited") store.unlimited.games[game.game] = fresh;
-    else if (game.mode === "category") { fresh.category = game.category; store.cat.games[catKey()] = fresh; }
     else if (game.mode === "archive") store.archive[game.game] = fresh;
     else return;
     save();
@@ -454,7 +447,7 @@
       if (s.current) left.textContent += " · streak " + s.current;
     }
     if (game.mode === "unlimited" && store.unlimited.best[game.game] != null) left.textContent += " · best " + store.unlimited.best[game.game];
-    if (game.mode === "category" && store.cat.best[catKey()] != null) left.textContent += " · best " + store.cat.best[catKey()];
+    if (game.mode === "category") left.textContent += " · today's set";
     meta.appendChild(left);
     var links = el("span", "links");
     links.appendChild(button("ARCHIVE ⟲", "linkish", function () { openModal("archive"); }));
@@ -649,7 +642,6 @@
     card.appendChild(big);
     scene.setTint(T[band.tier].color);
     if (game.mode === "unlimited" && store.unlimited.best[game.game] > s) card.appendChild(el("p", "dim small", "your best on this dig: " + store.unlimited.best[game.game]));
-    if (game.mode === "category" && store.cat.best[catKey()] > s) card.appendChild(el("p", "dim small", "your best on this dig: " + store.cat.best[catKey()]));
     if (game.mode === "archive" && store.archiveBest[game.game] > s) card.appendChild(el("p", "dim small", "your best on this dig: " + store.archiveBest[game.game]));
     card.appendChild(gauge(s));
     card.appendChild(digChart());
@@ -676,7 +668,7 @@
     card.appendChild(row);
 
     // keep digging: category runs so the game doesn't end with the daily
-    var more = section("keep digging", game.mode === "category" ? "try another category" : "pick a category · 7 new prompts each");
+    var more = section("keep digging", "today's category sets · 7 prompts each · new sets daily");
     more.id = "keepDigging";
     more.appendChild(categoryGrid());
     card.appendChild(more);
@@ -696,6 +688,19 @@
     haul.appendChild(answerSheet(["0"]));
     card.appendChild(haul);
 
+    // didn't count: this game's rejected answers, ready to send in if any should have counted
+    var rejects = game.results.map(function (r, i) { return { q: prompts[i].q, m: (r && r.missed) || [] }; }).filter(function (x) { return x.m.length; });
+    if (rejects.length) {
+      var dc = section("didn't count", "think one should have? copy and send it in");
+      dc.id = "didntCount";
+      var ul = el("ul", "missed-list");
+      rejects.forEach(function (x) { ul.appendChild(el("li", null, x.q + ": " + x.m.join(", "))); });
+      dc.appendChild(ul);
+      var txt = rejects.map(function (x) { return x.q + ": " + x.m.join(", "); }).join("\n");
+      dc.appendChild(button("COPY THESE", "btn-ghost", function () { copyResult(txt, "copyRejects"); }, "copyRejects"));
+      card.appendChild(dc);
+    }
+
     // logbook
     var book = section("logbook");
     var st = streaks(), days = dailyDone(), scores = days.map(function (d) { return E.totalScore(store.daily[d].results); });
@@ -704,16 +709,14 @@
     card.appendChild(book);
 
     var nav = el("div", "btn-row");
-    if (game.mode === "daily") {
-      var nx = el("p", "next-dig"); nx.id = "nextDig"; card.appendChild(nx); updateNextDig();
+    if (game.mode === "daily" || game.mode === "category") {
+      var nx = el("p", "next-dig"); nx.id = "nextDig"; card.appendChild(nx); updateNextDig(nx);
+      if (game.mode === "category") nav.appendChild(link("#/", "← TODAY'S DIG", "btn-ghost"));
       nav.appendChild(link("#/unlimited", "KEEP DIGGING ∞", "btn-ghost"));
       nav.appendChild(button("ARCHIVE ⟲", "btn-ghost", function () { openModal("archive"); }));
     } else {
       nav.appendChild(button("PLAY THIS ONE AGAIN ↻", "btn-ghost", replay, "replayBtn"));
-      if (game.mode === "category") {
-        var cn = E.category(game.category).name.toUpperCase();
-        nav.appendChild(button("NEXT " + cn + " DIG", "btn-ghost", function () { go("#/cat/" + game.category + "/" + nextCategoryAfter(game.category, game.game)); }, "nextDigBtn"));
-      } else if (game.mode === "unlimited") {
+      if (game.mode === "unlimited") {
         nav.appendChild(button("NEXT DIG ∞", "btn-ghost", function () { go("#/unlimited/" + nextUnlimitedAfter(game.game)); }, "nextDigBtn"));
         nav.appendChild(button("DIG LOG ∞", "btn-ghost", function () { openModal("diglog"); }));
       } else {
@@ -732,9 +735,10 @@
     (CP.CATEGORIES || []).forEach(function (c) {
       var n = E.categoryBank(c.id, BANK).length;
       if (n < C.ROUNDS) return;
-      var st = categoryStats(c.id);
+      var st = categoryStats(c.id), td = categoryToday(c.id);
       var t = el("a", "cat-tile");
-      t.href = "#/cat/" + c.id + "/" + nextCategory(c.id);
+      t.href = "#/cat/" + c.id;
+      if (td.state === "done") t.classList.add("played");
       t.dataset.cat = c.id;
       if (game && game.mode === "category" && game.category === c.id) t.classList.add("current");
       t.appendChild(el("span", "cat-icon", c.icon));
@@ -742,7 +746,8 @@
       mid.appendChild(el("b", null, c.name));
       mid.appendChild(el("span", "dim", c.blurb + " · " + n + " prompts"));
       t.appendChild(mid);
-      t.appendChild(el("span", "cat-rec", st.played ? st.played + " dug · best " + st.best : "new"));
+      t.appendChild(el("span", "cat-rec", td.state === "done" ? "today " + td.score + (st.played > 1 ? " · best " + st.best : "")
+        : td.state === "playing" ? "in progress" : "today's set"));
       t.addEventListener("click", function () { closeModal(); });
       grid.appendChild(t);
     });
@@ -780,16 +785,17 @@
     return wrap;
   }
 
-  function updateNextDig() {
-    var nx = $("nextDig");
+  function updateNextDig(el0) {
+    var nx = el0 || $("nextDig");
     if (!nx) return;
     var d = new Date(), mid = new Date(d.getFullYear(), d.getMonth(), d.getDate() + 1);
     var ms = mid - d, h = Math.floor(ms / 3600000), m = Math.floor(ms / 60000) % 60, s = Math.floor(ms / 1000) % 60;
-    nx.textContent = "next dig in " + h + "h " + (m < 10 ? "0" : "") + m + "m " + (s < 10 ? "0" : "") + s + "s";
+    var what = game && game.mode === "category" ? "next " + E.category(game.category).name + " set in " : "next dig in ";
+    nx.textContent = what + h + "h " + (m < 10 ? "0" : "") + m + "m " + (s < 10 ? "0" : "") + s + "s";
   }
   setInterval(function () {
     updateNextDig();
-    if (game && parseRoute().mode === "daily" && game.mode === "daily" && game.game !== today() && (game.phase === "done" || game.phase === "intro")) {
+    if (game && (game.mode === "daily" || game.mode === "category") && parseRoute().mode === game.mode && game.game !== today() && (game.phase === "done" || game.phase === "intro")) {
       toast("midnight passed · a fresh dig is ready");
       boot();
     }

@@ -1,0 +1,72 @@
+Cap
+Polo=polo shirt
+Gown
+Windbreaker
+Sundress
+Maxi Dress
+Mini Skirt
+Pencil Skirt
+Cargo Pants
+Chinos
+Khakis
+Sweatpants
+Joggers
+Yoga Pants
+Capris
+Culottes
+Palazzo Pants
+Bermuda Shorts
+Board Shorts
+Crop Top
+Camisole
+Halter Top
+Tube Top
+Turtleneck
+Henley
+Flannel Shirt
+Dress Shirt
+Button-down
+Peacoat
+Duffle Coat
+Puffer Jacket
+Bomber Jacket
+Leather Jacket
+Denim Jacket
+Fleece Jacket
+Raincoat
+Anorak
+Shawl
+Stole
+Pashmina
+Bandana
+Headband
+Suspenders
+Bow Tie
+Cufflinks
+Waistcoat
+Lederhosen
+Dirndl
+Cheongsam
+Qipao
+Hanbok
+Ao Dai
+Dashiki
+Kaftan
+Abaya
+Thobe
+Sarong
+Lungi
+Toga
+Corset
+Bodysuit
+Leotard
+Unitard
+Wetsuit
+Rash Guard
+Tankini
+Swim Trunks
+Thong
+Lingerie
+Nightgown
+Slip
+Garter

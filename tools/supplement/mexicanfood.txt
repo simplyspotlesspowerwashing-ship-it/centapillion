@@ -1,0 +1,49 @@
+Flan
+Tortilla Soup
+Queso Fundido
+Cemita
+Frijoles=beans
+Arroz Rojo=mexican rice
+Empanadas=empanada
+Mole Poblano
+Chiles en Nogada
+Sopa de Lima
+Caldo de Res
+Caldo de Pollo
+Aguachile
+Camarones a la Diabla
+Pescado a la Veracruzana
+Machaca
+Chorizo
+Huitlacoche
+Nopales
+Molletes
+Bolillo
+Concha
+Pan Dulce
+Arroz con Leche
+Capirotada
+Champurrado
+Atole
+Agua Fresca
+Tejuino
+Michelada
+Paletas
+Raspados
+Mangonada
+Chamoy
+Tostilocos
+Dorilocos
+Esquites
+Gringas
+Volcanes
+Papadzules
+Panuchos
+Salbutes
+Sikil Pak
+Queso Oaxaca
+Cotija
+Salsa Verde
+Salsa Roja
+Pico de Gallo
+Chipotle

@@ -1,0 +1,68 @@
+Maki=maki roll
+Temaki=hand roll
+Kaiseki
+Ponzu
+Uramaki
+California Roll
+Chirashi
+Inari
+Futomaki
+Oshizushi
+Hosomaki
+Gunkan
+Omakase
+Izakaya food
+Ochazuke
+Zaru Soba
+Tsukemen
+Tantanmen
+Shoyu Ramen
+Tonkotsu Ramen
+Miso Ramen
+Hiyashi Chuka
+Kare Raisu=japanese curry
+Omurice
+Hambagu
+Korokke
+Menchi Katsu
+Ebi Fry
+Agedashi Tofu
+Hiyayakko
+Yudofu
+Oden
+Nabe
+Chanko Nabe
+Motsunabe
+Yakiniku
+Kushikatsu
+Kushiage
+Robatayaki
+Monjayaki
+Hiroshima Okonomiyaki
+Senbei
+Arare
+Pocky
+Melon Pan
+Anpan
+Castella
+Warabi Mochi
+Daifuku
+Yokan
+Kakigori
+Matcha Ice Cream
+Sake
+Shochu
+Umeshu
+Miso
+Dashi
+Katsuobushi
+Kombu
+Nori
+Shiso
+Yuzu
+Mentaiko
+Ikura
+Uni
+Toro
+Hamachi
+Saba

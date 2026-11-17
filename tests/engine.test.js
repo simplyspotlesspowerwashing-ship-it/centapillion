@@ -398,6 +398,16 @@ test("category digs draw 7 distinct prompts from their own category and differ d
   assert.deepEqual(E.promptsForCategory("nope", 1, BANK), []);
 });
 
+test("a category's set for a day never repeats that day's daily prompts", () => {
+  for (const c of CP.CATEGORIES) for (let d = 1; d <= 60; d++) {
+    const daily = new Set(E.promptsForDay(d, BANK).map(p => p.id));
+    const set = E.promptsForCategory(c.id, d, BANK);
+    assert.equal(set.length, CP.CONFIG.ROUNDS);
+    const clash = set.filter(p => daily.has(p.id)).map(p => p.id);
+    if (E.categoryBank(c.id, BANK).filter(p => !daily.has(p.id)).length >= CP.CONFIG.ROUNDS) assert.deepEqual(clash, [], `${c.id} day ${d}`);
+  }
+});
+
 test("category share text names the category", () => {
   const t = E.shareText({ mode: "category", category: "geography", game: 4, results: [] });
   assert.match(t.split("\n")[0], /^Centapillion 🌍 Geography #4 🐛$/);

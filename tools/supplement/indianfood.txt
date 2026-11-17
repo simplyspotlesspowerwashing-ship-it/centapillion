@@ -1,0 +1,61 @@
+Paneer
+Vada
+Chai
+Paratha
+Poori=puri
+Aloo Paratha
+Dal Makhani
+Dal Tadka
+Rajma
+Kadhi
+Baingan Bharta
+Bhindi Masala
+Matar Paneer
+Shahi Paneer
+Kadai Paneer
+Paneer Tikka
+Chicken Korma
+Lamb Vindaloo
+Fish Curry
+Goan Fish Curry
+Chettinad Chicken
+Hyderabadi Biryani
+Pulao
+Jeera Rice
+Khichdi
+Upma
+Poha
+Idiyappam
+Appam
+Puttu
+Pesarattu
+Medu Vada
+Rava Dosa
+Masala Dosa
+Kachori
+Aloo Tikki
+Dahi Puri
+Sev Puri
+Vada Pav
+Misal Pav
+Dabeli
+Kathi Roll
+Frankie
+Momos
+Thukpa
+Rasmalai
+Sandesh
+Mysore Pak
+Barfi
+Ladoo
+Halwa
+Gajar Halwa
+Payasam
+Shrikhand
+Kulfi
+Falooda
+Mango Lassi
+Masala Chai
+Pickle
+Chutney
+Papadum

@@ -1,0 +1,81 @@
+Heart Disease
+Herpes
+Chlamydia
+HPV
+Mono=mononucleosis
+Pink Eye=conjunctivitis
+Ear Infection
+Sinus Infection=sinusitis
+UTI=urinary tract infection
+Kidney Stones
+Gallstones
+Appendicitis
+Hypertension=high blood pressure
+High Cholesterol
+Obesity
+Osteoporosis
+Fibromyalgia
+Crohn's Disease
+Ulcerative Colitis
+IBS
+Acid Reflux=gerd
+Eczema
+Psoriasis
+Acne
+Rosacea
+Vitiligo
+Glaucoma
+Cataracts
+Macular Degeneration
+Tinnitus
+Vertigo
+Sleep Apnea
+Insomnia
+Narcolepsy
+Depression
+Anxiety
+Bipolar Disorder
+Schizophrenia
+OCD
+PTSD
+ADHD
+Autism
+Dementia
+ALS
+Multiple Sclerosis
+Muscular Dystrophy
+Cerebral Palsy
+Down Syndrome
+Hemophilia
+Sickle Cell Anemia
+Cystic Fibrosis
+Mad Cow Disease
+Bird Flu
+Swine Flu
+SARS
+MERS
+Mpox=monkeypox
+Hand, Foot and Mouth Disease
+Scarlet Fever
+Whooping Cough
+Croup
+RSV
+Norovirus
+Salmonella
+E. coli
+Food Poisoning
+Tetanus
+Botulism
+Anthrax
+Plague
+Black Death
+Typhus
+Diphtheria
+Rubella
+Roseola
+Fifth Disease
+Ringworm
+Athlete's Foot
+Lice
+Scabies
+Bed Bugs

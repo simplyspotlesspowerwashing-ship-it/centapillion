@@ -1,0 +1,57 @@
+English Ivy=ivy
+Chinese Evergreen
+Areca Palm
+Kentia Palm
+Majesty Palm
+Ponytail Palm
+Sago Palm
+Cast Iron Plant
+Arrowhead Plant
+Wandering Dude
+Tradescantia
+Inch Plant
+Purple Heart
+Polka Dot Plant
+Nerve Plant
+Fittonia
+Rex Begonia
+Angel Wing Begonia
+Bromeliad
+Guzmania
+Staghorn Fern
+Bird's Nest Fern
+Maidenhair Fern
+Asparagus Fern
+Swiss Cheese Plant
+Split-leaf Philodendron
+Heartleaf Philodendron
+Pink Princess
+Alocasia
+Elephant Ear
+Caladium
+Schefflera
+Umbrella Tree
+Norfolk Island Pine
+Yucca
+Corn Plant
+Dragon Tree
+Ti Plant
+Cordyline
+Haworthia
+Echeveria
+Sedum
+Burro's Tail
+String of Hearts
+String of Bananas
+Panda Plant
+Venus Flytrap
+Pitcher Plant
+Sundew
+Gardenia
+Jasmine
+Geranium
+Amaryllis
+Poinsettia
+Cyclamen
+Gloxinia
+Streptocarpus

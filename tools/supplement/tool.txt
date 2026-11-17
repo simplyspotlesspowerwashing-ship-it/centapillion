@@ -1,0 +1,70 @@
+Vise=vice
+Sledgehammer
+Glue Gun=hot glue gun
+Sander
+Spirit Level
+Belt Sander
+Orbital Sander
+Angle Grinder
+Bench Grinder
+Table Saw
+Miter Saw
+Band Saw
+Chainsaw
+Reciprocating Saw
+Coping Saw
+Hand Saw
+Hole Saw
+Drill Press
+Impact Driver
+Hammer Drill
+Rotary Tool
+Dremel
+Heat Gun
+Paint Brush
+Paint Roller
+Trowel
+Float
+Shovel
+Spade
+Rake
+Hoe
+Pitchfork
+Pruning Shears
+Loppers
+Hedge Trimmer
+Wheelbarrow
+Ladder
+Sawhorse
+Workbench
+Tape Measure
+Carpenter's Pencil
+Chalk Line
+Plumb Bob
+Speed Square
+T-Square
+Bevel
+Caliper
+Micrometer
+Feeler Gauge
+Tap and Die
+Countersink
+Nail Set
+Punch
+Rivet Gun
+Grease Gun
+Jack
+Jack Stands
+Breaker Bar
+Impact Wrench
+Torx Driver
+Phillips Screwdriver
+Flathead Screwdriver
+Needle-nose Pliers
+Locking Pliers=vise grips
+Channel Locks
+Pipe Cutter
+Tile Cutter
+Wet Saw
+Grout Float
+Utility Knife

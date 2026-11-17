@@ -1,26 +1,518 @@
 [
 [
+"Golden Gate Bridge",
+111
+],
+[
+"Tower Bridge",
+86
+],
+[
+"Brooklyn Bridge",
+84
+],
+[
+"London Bridge",
+78
+],
+[
+"Millau Viaduct",
+74
+],
+[
+"Øresund Bridge",
+72
+],
+[
+"Akashi Kaikyō Bridge",
+71
+],
+[
+"Crimean Bridge",
+68
+],
+[
+"Sydney Harbour Bridge",
+68
+],
+[
+"Charles Bridge",
+62
+],
+[
 "Stari Most",
 61
+],
+[
+"Pont du Gard",
+59
+],
+[
+"Aqueduct of Segovia",
+58
+],
+[
+"Bosphorus Bridge",
+58
+],
+[
+"Forth Bridge",
+55
+],
+[
+"Verrazzano-Narrows Bridge",
+54
+],
+[
+"Mehmed Paša Sokolović Bridge",
+52
+],
+[
+"Vasco da Gama Bridge",
+52
+],
+[
+"Rialto Bridge",
+52
+],
+[
+"Bridge of Sighs",
+51
+],
+[
+"George Washington Bridge",
+50
+],
+[
+"Ponte Vecchio",
+50
+],
+[
+"Danyang–Kunshan Grand Bridge",
+50
+],
+[
+"Great Belt Fixed Link",
+49
+],
+[
+"Westminster Bridge",
+49
+],
+[
+"Hong Kong–Zhuhai–Macau Bridge",
+48
+],
+[
+"Millennium Bridge",
+48
+],
+[
+"Yavuz Sultan Selim Bridge",
+48
+],
+[
+"Vizcaya Bridge",
+47
+],
+[
+"1915 Çanakkale Bridge",
+47
+],
+[
+"Széchenyi Chain Bridge",
+46
+],
+[
+"Pont Neuf",
+45
+],
+[
+"Pont Alexandre III",
+45
+],
+[
+"Manhattan Bridge",
+44
+],
+[
+"Rio-Antirrio bridge",
+43
+],
+[
+"Pontcysyllte Aqueduct",
+42
+],
+[
+"Fatih Sultan Mehmet Bridge",
+42
+],
+[
+"King Fahd Causeway",
+42
+],
+[
+"Russky Bridge",
+41
+],
+[
+"Waterloo Bridge",
+41
+],
+[
+"Polcevera Viaduct",
+40
+],
+[
+"Galata Bridge",
+39
+],
+[
+"pont Saint-Bénézet",
+38
+],
+[
+"Menai Suspension Bridge",
+38
+],
+[
+"Lake Pontchartrain Causeway",
+37
+],
+[
+"Ponte Sant'Angelo",
+37
+],
+[
+"Ponte Milvio",
+36
+],
+[
+"Pont des Arts",
+36
+],
+[
+"Bridge of the Americas",
+36
+],
+[
+"Francis Scott Key Bridge",
+36
 ],
 [
 "Pont de Normandie",
 36
 ],
 [
+"Bridge of the Slovak National Uprising",
+36
+],
+[
+"Trajan's Bridge",
+36
+],
+[
+"Williamsburg Bridge",
+35
+],
+[
+"Danube Bridge",
+35
+],
+[
+"Hangzhou Bay Bridge",
+35
+],
+[
+"Alcántara Bridge",
+35
+],
+[
+"Humber Bridge",
+34
+],
+[
+"Öland Bridge",
+34
+],
+[
+"Qingdao Jiaozhou Bay Bridge",
+34
+],
+[
+"Liberty Bridge",
+34
+],
+[
+"Si-o-se Pol",
+34
+],
+[
+"25 de Abril Bridge",
+34
+],
+[
+"New Europe Bridge",
+33
+],
+[
+"Southwark Bridge",
+33
+],
+[
+"Chapel Bridge",
+33
+],
+[
+"Magdeburg Canal Bridge",
+33
+],
+[
+"The Iron Bridge",
+33
+],
+[
+"Lambeth Bridge",
+32
+],
+[
+"Queensboro Bridge",
+32
+],
+[
+"Tsing Ma Bridge",
+32
+],
+[
+"Confederation Bridge",
+32
+],
+[
+"Latin Bridge",
+31
+],
+[
+"Luiz I Bridge",
+31
+],
+[
+"Rio–Niterói Bridge",
+31
+],
+[
+"Donghai Bridge",
+31
+],
+[
+"First Thai–Lao Friendship Bridge",
+31
+],
+[
+"Vauxhall Bridge",
+30
+],
+[
+"pont de l'Alma",
+30
+],
+[
+"Albert Bridge",
+30
+],
+[
 "Gamla bron",
 30
+],
+[
+"Blackfriars Bridge",
+30
+],
+[
+"Rainbow Bridge",
+29
+],
+[
+"Mária Valéria Bridge",
+29
+],
+[
+"Pelješac Bridge",
+29
+],
+[
+"Huajiang Canyon Bridge",
+29
+],
+[
+"Tacoma Narrows Bridge (2007)",
+29
+],
+[
+"Pons Aemilius",
+29
+],
+[
+"Glienicke Bridge",
+29
+],
+[
+"Elisabeth Bridge",
+29
+],
+[
+"Britannia Bridge",
+29
+],
+[
+"Lugou Bridge",
+28
+],
+[
+"Mackinac Bridge",
+28
+],
+[
+"Quebec Bridge",
+28
 ],
 [
 "Stone Bridge in Skopje",
 28
 ],
 [
+"Paton Bridge",
+28
+],
+[
+"Ponte dell'Accademia",
+28
+],
+[
+"Howrah Bridge",
+28
+],
+[
+"Burapha Withi Expressway",
+28
+],
+[
+"Chelsea Bridge",
+27
+],
+[
+"Landwasser Viaduct",
+27
+],
+[
+"Erasmusbrug",
+27
+],
+[
+"Hungerford Bridge and Golden Jubilee Bridges",
+27
+],
+[
 "Severn Bridge",
 27
 ],
 [
+"Zhangjiajie Glass Bridge",
+27
+],
+[
+"pont de Bir-Hakeim",
+27
+],
+[
+"Reichsbrücke",
+27
+],
+[
+"Oberbaum Bridge",
+27
+],
+[
+"Hohenzollern Bridge",
+27
+],
+[
+"Megyeri Bridge",
+27
+],
+[
+"Margaret Bridge",
+27
+],
+[
+"Forth Road Bridge",
+27
+],
+[
+"Ponte della Libertà",
+26
+],
+[
+"Suramadu Bridge",
+26
+],
+[
+"Little Belt Bridge",
+26
+],
+[
+"Palace Bridge",
+26
+],
+[
+"Clifton Suspension Bridge",
+26
+],
+[
+"Khaju Bridge",
+26
+],
+[
+"Duge Bridge",
+26
+],
+[
+"Pont Mirabeau",
+26
+],
+[
+"Pont d'Iéna",
+26
+],
+[
+"I-35W Mississippi River bridge",
+26
+],
+[
+"Friendship Bridge",
+25
+],
+[
 "Eshima Ohashi Bridge",
+25
+],
+[
+"Samuel Beckett Bridge",
+25
+],
+[
+"Stone Bridge",
+25
+],
+[
+"Hammersmith Bridge",
+25
+],
+[
+"Pulteney Bridge",
+25
+],
+[
+"Osmangazi Bridge",
 25
 ],
 [
@@ -28,15 +520,179 @@
 25
 ],
 [
+"Roman Bridge",
+25
+],
+[
+"Sino-Korean Friendship Bridge",
+25
+],
+[
+"Chenab Bridge",
+25
+],
+[
+"Europabrücke",
+25
+],
+[
+"Ponte Pietra",
+25
+],
+[
+"Golden Bridge",
+25
+],
+[
+"Pont de la Concorde",
+25
+],
+[
+"Dragon Bridge",
+25
+],
+[
+"Triple Bridge",
+25
+],
+[
+"Band-e Kaisar",
+25
+],
+[
+"Pons Fabricius",
+25
+],
+[
 "Puente romano",
 25
+],
+[
+"Jerusalem Chords Bridge",
+24
+],
+[
+"Octávio Frias de Oliveira Bridge",
+24
+],
+[
+"Penang Bridge",
+24
+],
+[
+"Ambassador Bridge",
+24
+],
+[
+"Ada Bridge",
+24
+],
+[
+"Petit-Pont-Cardinal-Lustiger",
+24
+],
+[
+"Garabit Viaduct",
+24
+],
+[
+"Pons Sublicius",
+24
+],
+[
+"Pamban Bridge",
+24
+],
+[
+"Gateshead Millennium Bridge",
+24
+],
+[
+"Kazungula Bridge",
+24
 ],
 [
 "Kyiv Metro Bridge",
 24
 ],
 [
+"Bridge of Peace",
+24
+],
+[
+"Khudafarin Bridges",
+24
+],
+[
+"Atatürk Bridge",
+24
+],
+[
+"Afghanistan–Uzbekistan Friendship Bridge",
+24
+],
+[
+"ponte della Costituzione",
+24
+],
+[
+"Suez Canal Bridge",
+24
+],
+[
+"Göltzsch Viaduct",
+24
+],
+[
+"Pons Cestius",
+24
+],
+[
+"Petőfi Bridge",
+24
+],
+[
+"Baluarte Bridge",
+24
+],
+[
+"Krk Bridge",
+24
+],
+[
+"Sidu River Bridge",
+23
+],
+[
+"pont au Change",
+23
+],
+[
+"pont Saint-Michel",
+23
+],
+[
 "El Alamillo bridge",
+23
+],
+[
+"Tatara Bridge",
+23
+],
+[
+"Ponte de D. Maria Pia",
+23
+],
+[
+"Three Countries Bridge",
+23
+],
+[
+"Puente de la Mujer",
+23
+],
+[
+"Árpád Bridge",
 23
 ],
 [
@@ -44,7 +700,19 @@
 23
 ],
 [
+"Centennial Bridge, Panama",
+23
+],
+[
+"Rákóczi Bridge",
+23
+],
+[
 "Mes Bridge",
+23
+],
+[
+"Johor–Singapore Causeway",
 23
 ],
 [
@@ -52,7 +720,35 @@
 22
 ],
 [
+"Magere Brug",
+22
+],
+[
+"Runyang Yangtze River Bridge",
+22
+],
+[
+"Puente Nuevo",
+22
+],
+[
+"Pont d'Austerlitz",
+22
+],
+[
+"Krymsky Bridge",
+22
+],
+[
+"Red Bridge",
+22
+],
+[
 "Kazarma Mycenaean Bridge",
+22
+],
+[
+"Svinesund Bridge",
 22
 ],
 [
@@ -60,7 +756,71 @@
 22
 ],
 [
+"Anichkov Bridge",
+22
+],
+[
+"Ponte Sisto",
+22
+],
+[
+"Tay Rail Bridge",
+22
+],
+[
+"Juscelino Kubitschek bridge",
+22
+],
+[
+"Allenby Bridge",
+22
+],
+[
+"Brusio spiral viaduct",
+22
+],
+[
+"Hell Gate Bridge",
+21
+],
+[
+"pont Notre-Dame",
+21
+],
+[
+"Pont des Invalides",
+21
+],
+[
+"pont Saint-Louis",
+21
+],
+[
+"Cần Thơ Bridge",
+21
+],
+[
+"Glenfinnan Viaduct",
+21
+],
+[
+"Kintai Bridge",
+21
+],
+[
 "Roman bridge",
+21
+],
+[
+"Pont au Double",
+21
+],
+[
+"Bolshoy Obukhovsky Bridge",
+21
+],
+[
+"Pont Royal",
 21
 ],
 [
@@ -72,11 +832,111 @@
 21
 ],
 [
+"Hardanger Bridge",
+21
+],
+[
+"Sutong Yangtze River Bridge",
+21
+],
+[
+"Pegasus Bridge",
+21
+],
+[
+"Waldschlösschen Bridge",
+21
+],
+[
+"Auckland Harbour Bridge",
+21
+],
+[
+"Battersea Bridge",
+21
+],
+[
+"Zhivopisny Bridge",
+21
+],
+[
+"Tromsø bridge",
+21
+],
+[
+"Ha'penny Bridge",
+20
+],
+[
+"Rama VIII Bridge",
+20
+],
+[
+"Sky Bridge 721",
+20
+],
+[
+"Lupu Bridge",
+20
+],
+[
+"Kanmon Bridge",
+20
+],
+[
+"Pont Louis-Philippe",
+20
+],
+[
+"Pont de Sully",
+20
+],
+[
+"Iron Gate I Hydroelectric Power Station",
+20
+],
+[
+"Eiffel Bridge, Ungheni",
+20
+],
+[
+"Chengyang Yongji Bridge",
+20
+],
+[
+"San Juanico Bridge",
+20
+],
+[
+"Laguna Garzón Bridge",
+20
+],
+[
+"Sunshine Skyway Bridge",
+20
+],
+[
 "Dyavolski most",
 20
 ],
 [
-"Red Bridge",
+"Korea–Russia Friendship Bridge",
+20
+],
+[
+"Victoria Falls Bridge",
+20
+],
+[
+"Merida Roman Bridge",
+20
+],
+[
+"Pont du Carrousel",
+20
+],
+[
+"Grosvenor Bridge",
 20
 ],
 [
@@ -84,7 +944,55 @@
 20
 ],
 [
+"Blackfriars Railway Bridge",
+20
+],
+[
+"6th October Bridge",
+20
+],
+[
+"Chaotianmen Bridge",
+19
+],
+[
+"Robert F. Kennedy Bridge",
+19
+],
+[
+"Jamaraat Bridge",
+19
+],
+[
+"Sangarius Bridge",
+19
+],
+[
 "Pont de l'Archevêché",
+19
+],
+[
+"Sami Bridge",
+19
+],
+[
+"viaduc d'Austerlitz",
+19
+],
+[
+"Second Thai–Lao Friendship Bridge",
+19
+],
+[
+"Aioi Bridge",
+19
+],
+[
+"Banpo Bridge",
+19
+],
+[
+"Storseisundet Bridge",
 19
 ],
 [
@@ -96,11 +1004,147 @@
 19
 ],
 [
+"General Rafael Urdaneta Bridge",
+19
+],
+[
+"Vanšu Bridge",
+19
+],
+[
+"Adolphe Bridge",
+19
+],
+[
+"Incheon Bridge",
+19
+],
+[
+"Ponte degli Scalzi",
+19
+],
+[
 "Dragon River Bridge",
 19
 ],
 [
+"Zhaozhou Bridge",
+19
+],
+[
+"El Ferdan Railway Bridge",
+19
+],
+[
+"Apollo Bridge",
+19
+],
+[
+"Ludendorff Bridge",
+19
+],
+[
+"Great Seto Bridge",
+19
+],
+[
+"Governor Nobre de Carvalho Bridge",
+19
+],
+[
+"Lanfranconi Bridge",
+18
+],
+[
 "Jamuna Bridge",
+18
+],
+[
+"Yokohama Bay Bridge",
+18
+],
+[
+"Pont Amont",
+18
+],
+[
+"Lions Gate Bridge",
+18
+],
+[
+"Admiral's bridge",
+18
+],
+[
+"Gazela Bridge",
+18
+],
+[
+"Xihoumen Bridge",
+18
+],
+[
+"Yangpu Bridge",
+18
+],
+[
+"Pont d'Arcole",
+18
+],
+[
+"Franjo Tuđman Bridge",
+18
+],
+[
+"Wandsworth Bridge",
+18
+],
+[
+"Pont de Bercy",
+18
+],
+[
+"Tanners' Bridge",
+18
+],
+[
+"Volga Hydroelectric Station",
+18
+],
+[
+"Rama IX Bridge",
+18
+],
+[
+"Zeeland Bridge",
+18
+],
+[
+"Mala Rijeka Viaduct",
+18
+],
+[
+"The Rolling Bridge",
+18
+],
+[
+"Trinity Bridge",
+18
+],
+[
+"U Bein Bridge",
+18
+],
+[
+"Jiangyin Yangtze River Bridge",
+18
+],
+[
+"Mindaugas Bridge",
+18
+],
+[
+"Amur Bridge",
 18
 ],
 [
@@ -108,16 +1152,220 @@
 18
 ],
 [
+"Bandra–Worli Sea Link",
+18
+],
+[
+"Wiesen Viaduct",
+18
+],
+[
+"Bridge of No Return",
+18
+],
+[
+"Vincent Thomas Bridge",
+18
+],
+[
 "Yi Sun-sin Bridge",
 18
+],
+[
+"Pont de la Tournelle",
+18
+],
+[
+"passerelle Léopold-Sédar-Senghor",
+18
+],
+[
+"Blagoveshchensky Bridge",
+18
+],
+[
+"Padma Bridge",
+18
+],
+[
+"Saratov Bridge",
+18
+],
+[
+"Bagration Bridge",
+18
+],
+[
+"Branko's Bridge",
+18
+],
+[
+"Pont Marie",
+18
+],
+[
+"Lions' Bridge",
+17
+],
+[
+"Vidyasagar Setu",
+17
+],
+[
+"pont Charles-de-Gaulle",
+17
+],
+[
+"Solkan Bridge",
+17
+],
+[
+"Pančevo Bridge",
+17
+],
+[
+"Prince of Wales Bridge",
+17
+],
+[
+"Green Bridge",
+17
+],
+[
+"New River Gorge Bridge",
+17
 ],
 [
 "Pont Aval",
 17
 ],
 [
+"pont de Grenelle",
+17
+],
+[
+"South Stack",
+17
+],
+[
+"Askøy Bridge",
+17
+],
+[
+"Egyptian Bridge",
+17
+],
+[
 "Blue Bridge",
 17
+],
+[
+"Nanjing Yangtze River Bridge",
+17
+],
+[
+"Charles Kuonen Suspension Bridge",
+17
+],
+[
+"Đurđevića Tara Bridge",
+17
+],
+[
+"Kew Bridge",
+17
+],
+[
+"Acueducto de los Milagros",
+17
+],
+[
+"Carrick-a-Rede Rope Bridge",
+17
+],
+[
+"Ponte Santa Trinita",
+17
+],
+[
+"Golden Horn Metro Bridge",
+17
+],
+[
+"Capilano Suspension Bridge",
+17
+],
+[
+"Krämerbrücke",
+17
+],
+[
+"James Joyce Bridge",
+17
+],
+[
+"516 Arouca",
+16
+],
+[
+"Chesapeake Bay Bridge-Tunnel",
+16
+],
+[
+"Peace Bridge",
+16
+],
+[
+"Bank Bridge",
+16
+],
+[
+"Mánes Bridge",
+16
+],
+[
+"Art Bridge",
+16
+],
+[
+"Ponte delle Guglie",
+16
+],
+[
+"Amizade Bridge",
+16
+],
+[
+"Chesapeake Bay Bridge",
+16
+],
+[
+"Grand Canyon Skywalk",
+16
+],
+[
+"Stonecutters Bridge",
+16
+],
+[
+"Liteyny Bridge",
+16
+],
+[
+"Goteik viaduct",
+16
+],
+[
+"Rio Negro Bridge",
+16
+],
+[
+"Ponte d'Augusto",
+16
+],
+[
+"Pont Rouelle",
+16
 ],
 [
 "pont de Tolbiac",
@@ -128,6 +1376,182 @@
 16
 ],
 [
+"Tyne Bridge",
+16
+],
+[
+"Long Bien Bridge",
+16
+],
+[
+"Cannon Street Railway Bridge",
+16
+],
+[
+"Euphrates Tunnel",
+16
+],
+[
+"Eagles' Bridge",
+16
+],
+[
+"Augustus Bridge",
+16
+],
+[
+"Putney Bridge",
+16
+],
+[
+"Fehmarn Sound Bridge",
+16
+],
+[
+"Tabiat Bridge",
+16
+],
+[
+"Fourth Thai–Lao Friendship Bridge",
+16
+],
+[
+"Höga Kusten Bridge",
+16
+],
+[
+"Katarina Elevator",
+16
+],
+[
+"Terzi Bridge",
+16
+],
+[
+"Bridge Vittorio Emanuele II",
+16
+],
+[
+"Wuhan Yangtze River Bridge",
+16
+],
+[
+"Bayonne Bridge",
+16
+],
+[
+"Benjamin Franklin Bridge",
+16
+],
+[
+"Bhumibol Bridge",
+16
+],
+[
+"Birchenough Bridge",
+16
+],
+[
+"Severan Bridge",
+15
+],
+[
+"Saint-Nazaire Bridge",
+15
+],
+[
+"Tianjin Grand Bridge",
+15
+],
+[
+"Richmond Bridge",
+15
+],
+[
+"Malaysia–Singapore Second Link",
+15
+],
+[
+"Črni Kal Viaduct",
+15
+],
+[
+"Japanese Bridge",
+15
+],
+[
+"Nelson Mandela Bridge",
+15
+],
+[
+"Langkawi Sky Bridge",
+15
+],
+[
+"Bronx–Whitestone Bridge",
+15
+],
+[
+"Third Thai–Lao Friendship Bridge",
+15
+],
+[
+"Kanuni Sultan Suleiman bridge",
+15
+],
+[
+"Strömsund Bridge",
+15
+],
+[
+"Carioca Aqueduct",
+15
+],
+[
+"O'Connell Bridge",
+15
+],
+[
+"Silver Bridge",
+15
+],
+[
+"Uddevalla Bridge",
+15
+],
+[
+"Qasr al-Nil Bridge",
+15
+],
+[
+"Conwy Suspension Bridge",
+15
+],
+[
+"Rande Bridge",
+15
+],
+[
+"Seven Mile Bridge",
+15
+],
+[
+"Sultan Abdul Halim Muadzam Shah Bridge",
+15
+],
+[
+"Passerelle Debilly",
+15
+],
+[
+"Zubizuri",
+15
+],
+[
+"pont National",
+15
+],
+[
 "Pivnichnyi Bridge",
 15
 ],
@@ -136,11 +1560,2911 @@
 15
 ],
 [
+"Ponte delle Tette",
+15
+],
+[
+"Humen Pearl River Bridge",
+15
+],
+[
+"Kvalsund Bridge",
+15
+],
+[
 "Písek Stone Bridge",
+15
+],
+[
+"Helgeland bridge",
 15
 ],
 [
 "Davtashen Bridge",
 15
+],
+[
+"Malabadi Bridge",
+15
+],
+[
+"Anghel Saligny Bridge",
+15
+],
+[
+"Antonivka Railway Bridge",
+15
+],
+[
+"Bolshoy Moskvoretsky Bridge",
+15
+],
+[
+"Starý most",
+15
+],
+[
+"Queen Louise Bridge",
+15
+],
+[
+"Loschwitz Bridge",
+15
+],
+[
+"Third Mainland Bridge",
+15
+],
+[
+"Queensferry Crossing",
+15
+],
+[
+"Murinsel",
+15
+],
+[
+"Blauwbrug",
+15
+],
+[
+"Bolsheokhtinsky Bridge",
+15
+],
+[
+"Krungthep Bridge",
+15
+],
+[
+"Sandnessund bridge",
+14
+],
+[
+"Sandö Bridge",
+14
+],
+[
+"Libertador General San Martín Bridge",
+14
+],
+[
+"Iron Gate II Hydroelectric Power Station",
+14
+],
+[
+"Circle Bridge",
+14
+],
+[
+"Arslanagić Bridge",
+14
+],
+[
+"Dona Ana Bridge",
+14
+],
+[
+"Tappan Zee Bridge",
+14
+],
+[
+"Ponte della Paglia",
+14
+],
+[
+"New Railroad Bridge",
+14
+],
+[
+"Ōnaruto Bridge",
+14
+],
+[
+"Ponte Nomentano",
+14
+],
+[
+"Farø Bridges",
+14
+],
+[
+"SkyBridge",
+14
+],
+[
+"Pont de pierre",
+14
+],
+[
+"Castelvecchio Bridge",
+14
+],
+[
+"Pont Valentré",
+14
+],
+[
+"Queen Emma Bridge",
+14
+],
+[
+"Royal Gorge Bridge",
+14
+],
+[
+"General Artigas Bridge",
+14
+],
+[
+"San Diego–Coronado Bridge",
+14
+],
+[
+"Zolotoy Bridge",
+14
+],
+[
+"Festina lente",
+14
+],
+[
+"Rosario-Victoria Bridge",
+14
+],
+[
+"Dr. Bhupen Hazarika Bridge",
+14
+],
+[
+"Delal Bridge",
+14
+],
+[
+"Tancredo Neves Bridge",
+14
+],
+[
+"Ponte Umberto I",
+14
+],
+[
+"Ponte Cavour",
+14
+],
+[
+"Daughters of Jacob Bridge",
+14
+],
+[
+"ANZAC Bridge",
+14
+],
+[
+"Mathematical Bridge",
+14
+],
+[
+"Replot Bridge",
+14
+],
+[
+"Abdoun Bridge",
+14
+],
+[
+"Koror–Babeldaob Bridge",
+14
+],
+[
+"Pont de la Margineda",
+14
+],
+[
+"Pupin Bridge",
+14
+],
+[
+"Grand Duchess Charlotte Bridge",
+14
+],
+[
+"Ibër Bridge",
+14
+],
+[
+"Merefa-Kherson bridge",
+14
+],
+[
+"Ava Bridge",
+14
+],
+[
+"New Yalu River Bridge",
+14
+],
+[
+"Salginatobel Bridge",
+14
+],
+[
+"Puente de Alcántara, Toledo",
+14
+],
+[
+"San Roque González de Santa Cruz Bridge",
+14
+],
+[
+"Langwieser Viaduct",
+14
+],
+[
+"Muntplein",
+14
+],
+[
+"Tjörn Bridge",
+14
+],
+[
+"Atlantic Bridge",
+14
+],
+[
+"Precious Belt Bridge",
+14
+],
+[
+"Barton Swing Aqueduct",
+14
+],
+[
+"Streymin bridge",
+14
+],
+[
+"Skarnsund Bridge",
+14
+],
+[
+"Bridge near Limyra",
+14
+],
+[
+"Khabarovsk Bridge",
+14
+],
+[
+"Chiswick Bridge",
+13
+],
+[
+"Pevchesky Bridge",
+13
+],
+[
+"Sai Van Bridge",
+13
+],
+[
+"Hålogaland bridge",
+13
+],
+[
+"Inglisild",
+13
+],
+[
+"Paški most",
+13
+],
+[
+"Mike O'Callaghan–Pat Tillman Memorial Bridge",
+13
+],
+[
+"Ongryu Bridge",
+13
+],
+[
+"Tokyo Bay Aqua-Line",
+13
+],
+[
+"Bridge of Four Lions",
+13
+],
+[
+"Sultan Haji Omar Ali Saifuddien Bridge",
+13
+],
+[
+"Royal Albert Bridge",
+13
+],
+[
+"Overtoun Bridge",
+13
+],
+[
+"Arrábida Bridge",
+13
+],
+[
+"Ting Kau Bridge",
+13
+],
+[
+"Queen Elizabeth II Bridge",
+13
+],
+[
+"Tsakona Arch Bridge",
+13
+],
+[
+"Passerelle Simone-de-Beauvoir",
+13
+],
+[
+"Luding Bridge",
+13
+],
+[
+"Pons Neronianus",
+13
+],
+[
+"Maslenica Bridge",
+13
+],
+[
+"Maputo–Catembe Bridge",
+13
+],
+[
+"Garibaldi Bridge",
+13
+],
+[
+"Waibaidu Bridge",
+13
+],
+[
+"11 foot 8 Bridge",
+13
+],
+[
+"Cize-Bolozon viaduct",
+13
+],
+[
+"Pivdennyi Bridge",
+13
+],
+[
+"Assut de l'Or Bridge",
+13
+],
+[
+"Euripus Bridge",
+13
+],
+[
+"Sundøy bridge",
+13
+],
+[
+"Älvsborg Bridge",
+13
+],
+[
+"Wuhan Yangluo Yangtze River Bridge",
+13
+],
+[
+"Rạch Miễu Bridge",
+13
+],
+[
+"Roosevelt Island Bridge",
+13
+],
+[
+"Bridge of Segovia",
+13
+],
+[
+"Aizhai Bridge",
+13
+],
+[
+"Constantine's Bridge",
+13
+],
+[
+"Malleco Viaduct",
+13
+],
+[
+"Tjeldsund Bridge",
+13
+],
+[
+"Old Sotra Bridge",
+13
+],
+[
+"Kizuna bridge",
+13
+],
+[
+"Skye Bridge",
+13
+],
+[
+"Ponte Palatino",
+13
+],
+[
+"Schlossbrücke",
+13
+],
+[
+"Gwangan Bridge",
+13
+],
+[
+"Västerbron",
+13
+],
+[
+"Brăila Bridge",
+13
+],
+[
+"Les Ferreres Aqueduct",
+13
+],
+[
+"Mapo Bridge",
+13
+],
+[
+"Blagoveshchensk–Heihe Bridge",
+13
+],
+[
+"Tajik–Afghan Friendship Bridge",
+13
+],
+[
+"Trnovo Bridge",
+13
+],
+[
+"Baling River Bridge",
+13
+],
+[
+"Bear Mountain Bridge",
+13
+],
+[
+"Genoa-Saint George viaduct",
+13
+],
+[
+"Bolshoy Kamenny Bridge",
+13
+],
+[
+"Cumbe Mayo",
+13
+],
+[
+"Hartland Bridge",
+13
+],
+[
+"Bridge of Arta",
+13
+],
+[
+"Han River Bridge",
+12
+],
+[
+"Spean Thma",
+12
+],
+[
+"Nine-holed Bridge",
+12
+],
+[
+"Varadin Bridge",
+12
+],
+[
+"Sundial Bridge at Turtle Bay",
+12
+],
+[
+"Legion Bridge",
+12
+],
+[
+"Maurzyce Bridge",
+12
+],
+[
+"Łazienkowski Bridge",
+12
+],
+[
+"Djurgårdsbron",
+12
+],
+[
+"Kaarsild",
+12
+],
+[
+"Kuradisild",
+12
+],
+[
+"Eads Bridge",
+12
+],
+[
+"Suada and Olga bridge",
+12
+],
+[
+"Passerelle",
+12
+],
+[
+"Šeher-Ćehaja Bridge",
+12
+],
+[
+"Lótus Bridge",
+12
+],
+[
+"Akinada Bridge",
+12
+],
+[
+"Qatar Bahrain Causeway",
+12
+],
+[
+"Kinzua Bridge",
+12
+],
+[
+"Hercilio Luz Bridge",
+12
+],
+[
+"Memorial Bridge",
+12
+],
+[
+"Storstrøm Bridge",
+12
+],
+[
+"Grenland Bridge",
+12
+],
+[
+"Tokyo Gate Bridge",
+12
+],
+[
+"Kanchanaphisek Bridge",
+12
+],
+[
+"Ponte Regina Margherita",
+12
+],
+[
+"Potseluev Bridge",
+12
+],
+[
+"BP Pedestrian Bridge",
+12
+],
+[
+"Akmens tilts",
+12
+],
+[
+"Ponte Duca d'Aosta",
+12
+],
+[
+"Queen Juliana Bridge",
+12
+],
+[
+"Tasman Bridge",
+12
+],
+[
+"Kokushkin Bridge",
+12
+],
+[
+"Pont du Garigliano",
+12
+],
+[
+"Belenski most",
+12
+],
+[
+"Asparuhov most",
+12
+],
+[
+"Hirado Bridge",
+12
+],
+[
+"Kurushima-Kaikyō Bridge",
+12
+],
+[
+"Jisr ed Damiye",
+12
+],
+[
+"Huangpu Bridge",
+12
+],
+[
+"Kap Shui Mun Bridge",
+12
+],
+[
+"Drammen Bridge",
+12
+],
+[
+"Ponte Vella",
+12
+],
+[
+"Pont Jacques-Chaban-Delmas",
+12
+],
+[
+"Vieux pont d'Albi",
+12
+],
+[
+"Nusle Bridge",
+12
+],
+[
+"Svatopluk Čech Bridge",
+12
+],
+[
+"Besleti Bridge",
+12
+],
+[
+"Voroshilovsky Bridge",
+12
+],
+[
+"Underground City",
+12
+],
+[
+"Ufa Rail Bridge",
+12
+],
+[
+"Busan-Geoje Fixed Link",
+12
+],
+[
+"Yeongjong Bridge",
+12
+],
+[
+"Butchers' Bridge",
+12
+],
+[
+"Köhlbrand Bridge",
+12
+],
+[
+"Prístavný most",
+12
+],
+[
+"Haliç Bridge",
+12
+],
+[
+"Mameyand",
+12
+],
+[
+"Yugra Bridge",
+12
+],
+[
+"Uzunköprü Bridge",
+12
+],
+[
+"Ponte Vecchio, Bassano",
+12
+],
+[
+"Bridge over Saint Volodymyr Descent",
+12
+],
+[
+"La Constitución de 1812 Bridge",
+12
+],
+[
+"Italian Bridge",
+12
+],
+[
+"Palacký Bridge",
+12
+],
+[
+"Grunwald Bridge",
+12
+],
+[
+"Shahi Bridge, Jaunpur",
+12
+],
+[
+"Megane Bridge",
+12
+],
+[
+"Lena Bridge",
+12
+],
+[
+"Batman Bridge",
+12
+],
+[
+"Bloukrans Bridge",
+12
+],
+[
+"Blue Water Bridge",
+12
+],
+[
+"Nanpu Bridge",
+12
+],
+[
+"Langebro",
+12
+],
+[
+"Alconétar Bridge",
+12
+],
+[
+"Jacques Cartier Bridge",
+11
+],
+[
+"Kennedy Bridge",
+11
+],
+[
+"Shenzhen-Zhongshan Link",
+11
+],
+[
+"Kassuende Bridge",
+11
+],
+[
+"Wanzhou Yangtze River Bridge",
+11
+],
+[
+"Throgs Neck Bridge",
+11
+],
+[
+"Old Sava Bridge",
+11
+],
+[
+"Bridge over Žepa river",
+11
+],
+[
+"San Mateo–Hayward Bridge",
+11
+],
+[
+"Umut Bridge",
+11
+],
+[
+"Raftsund bridge",
+11
+],
+[
+"Rungra Bridge",
+11
+],
+[
+"Willemsbrug",
+11
+],
+[
+"Taşköprü",
+11
+],
+[
+"Devil's Bridge",
+11
+],
+[
+"Bogibeel Bridge",
+11
+],
+[
+"Richmond–San Rafael Bridge",
+11
+],
+[
+"Roman Bridge of Chaves",
+11
+],
+[
+"San Martín bridge",
+11
+],
+[
+"Varda Viaduct",
+11
+],
+[
+"Hampton Court Bridge",
+11
+],
+[
+"Rama VI Bridge",
+11
+],
+[
+"Shahrestan Bridge",
+11
+],
+[
+"Norrbro",
+11
+],
+[
+"Pont de Neuilly",
+11
+],
+[
+"Haringvlietdam",
+11
+],
+[
+"Thanlwin Bridge",
+11
+],
+[
+"Rama III Bridge",
+11
+],
+[
+"Isabel II Bridge",
+11
+],
+[
+"Plaka Bridge",
+11
+],
+[
+"Krasnoyarsk Bridge",
+11
+],
+[
+"Pochtamtsky Bridge",
+11
+],
+[
+"Yanggak Road Bridge",
+11
+],
+[
+"Goat's Bridge",
+11
+],
+[
+"Spean Praptos",
+11
+],
+[
+"Nordhordland Bridge",
+11
+],
+[
+"Puente Viejo",
+11
+],
+[
+"Railway Bridge over Daugava in Riga",
+11
+],
+[
+"Shanghai Yangtze River Tunnel and Bridge",
+11
+],
+[
+"Alte Mainbrücke",
+11
+],
+[
+"Tancarville Bridge",
+11
+],
+[
+"Bridge Pavilion",
+11
+],
+[
+"Green's Bridge",
+11
+],
+[
+"Twickenham Bridge",
+11
+],
+[
+"Union Chain Bridge",
+11
+],
+[
+"Wadi Araba Crossing",
+11
+],
+[
+"Baliqiao",
+11
+],
+[
+"Malo-Kalinkin Bridge",
+11
+],
+[
+"Puente de Piedra",
+11
+],
+[
+"Matadi Bridge",
+11
+],
+[
+"Faidherbe Bridge",
+11
+],
+[
+"Innoshima Bridge",
+11
+],
+[
+"Nhật Tân Bridge",
+11
+],
+[
+"Mỹ Thuận Bridge",
+11
+],
+[
+"Kierbedzia Bridge",
+11
+],
+[
+"María Cristina Bridge",
+11
+],
+[
+"Caesar's Rhine bridges",
+11
+],
+[
+"Ayub Bridge",
+11
+],
+[
+"Wushan Yangtze River Bridge",
+11
+],
+[
+"Xinguang Bridge",
+11
+],
+[
+"Jade Belt Bridge",
+11
+],
+[
+"Old Bridge",
+11
+],
+[
+"Bridge of Toledo",
+11
+],
+[
+"Świętokrzyski Bridge",
+11
+],
+[
+"Ponte Principe Amedeo Savoia Aosta",
+11
+],
+[
+"Žeželj Bridge",
+11
+],
+[
+"St. Elmo Bridge",
+11
+],
+[
+"Birzhevoy Bridge",
+11
+],
+[
+"Barrandov Bridge",
+11
+],
+[
+"Arcual bridge in Zaporizhzhia",
+11
+],
+[
+"Inhul Bridge",
+11
+],
+[
+"Mezcala Bridge",
+11
+],
+[
+"Bugrinsky Bridge",
+11
+],
+[
+"Hernando de Soto Bridge",
+11
+],
+[
+"Holborn Viaduct",
+11
+],
+[
+"Rendsburg High Bridge",
+11
+],
+[
+"Clyde Arc",
+11
+],
+[
+"Dicle Bridge",
+11
+],
+[
+"Edmund Pettus Bridge",
+11
+],
+[
+"Giurgeni – Vadu Oii Bridge",
+11
+],
+[
+"Theodor Heuss Bridge",
+11
+],
+[
+"Anping Bridge",
+11
+],
+[
+"High Bridge",
+11
+],
+[
+"Pingtang Bridge",
+11
+],
+[
+"Alexander Hamilton Bridge",
+11
+],
+[
+"Solidarity Bridge",
+11
+],
+[
+"Lyduvėnai Bridge",
+11
+],
+[
+"Trift Bridge",
+11
+],
+[
+"Sino-Nepal Friendship Bridge",
+11
+],
+[
+"Pont Pierre-Laporte",
+11
+],
+[
+"Pont d'Aquitaine",
+11
+],
+[
+"Tumski Bridge",
+11
+],
+[
+"Urmia Lake Bridge",
+11
+],
+[
+"Tianxingzhou Yangtze River Bridge",
+11
+],
+[
+"Barnes Railway Bridge",
+11
+],
+[
+"Alexander Nevsky Bridge",
+11
+],
+[
+"Broadway Bridge",
+11
+],
+[
+"Rochefort-Martrou Transporter Bridge",
+11
+],
+[
+"Ponte Salario",
+11
+],
+[
+"Wadi el Kuf Bridge",
+11
+],
+[
+"Sunda Strait Bridge",
+11
+],
+[
+"Jintang Bridge",
+10
+],
+[
+"Carola Bridge",
+10
+],
+[
+"Jiaxing-Shaoxing Sea Bridge",
+10
+],
+[
+"Nicolás Avellaneda Transporter Bridge",
+10
+],
+[
+"Libeň Bridge",
+10
+],
+[
+"Troja Bridge",
+10
+],
+[
+"Pont Sidi M'Cid",
+10
+],
+[
+"Edong Yangtze River Bridge",
+10
+],
+[
+"Volodarsky Bridge",
+10
+],
+[
+"Bosideng Bridge",
+10
+],
+[
+"Pont-Neuf",
+10
+],
+[
+"Bali Mandara Toll Road",
+10
+],
+[
+"John A. Roebling Suspension Bridge",
+10
+],
+[
+"Honeymoon Bridge",
+10
+],
+[
+"Guadiana International Bridge",
+10
+],
+[
+"Newport Transporter Bridge",
+10
+],
+[
+"Harvard Bridge",
+10
+],
+[
+"Siekierkowski Bridge",
+10
+],
+[
+"Kriva Ćuprija",
+10
+],
+[
+"Taksin Bridge",
+10
+],
+[
+"Gisund bridge",
+10
+],
+[
+"Skjomen bridge",
+10
+],
+[
+"Lysefjord Bridge",
+10
+],
+[
+"Lomonosov Bridge",
+10
+],
+[
+"Phra Pin-klao Bridge",
+10
+],
+[
+"Neak Loeung Bridge",
+10
+],
+[
+"Nicholas Chain Bridge",
+10
+],
+[
+"Kerch railroad bridge",
+10
+],
+[
+"Krka Bridge",
+10
+],
+[
+"Sidi Rached Viaduct",
+10
+],
+[
+"Ponte della Maddalena",
+10
+],
+[
+"Geierlay",
+10
+],
+[
+"Busan Harbor Bridge",
+10
+],
+[
+"Conwy Railway Bridge",
+10
+],
+[
+"Taedong Bridge",
+10
+],
+[
+"Monivong Bridge",
+10
+],
+[
+"Ponte alle Grazie",
+10
+],
+[
+"Müngsten Bridge",
+10
+],
+[
+"Jordan River Crossing",
+10
+],
+[
+"Mohammed VI Bridge",
+10
+],
+[
+"Dumbarton Bridge",
+10
+],
+[
+"Lakshman Jhula",
+10
+],
+[
+"Marcelo Fernan Bridge",
+10
+],
+[
+"Mumbai Trans Harbour Link",
+10
+],
+[
+"Sheikh Jaber al-Ahmad al-Sabah Causeway",
+10
+],
+[
+"Hakuchō Bridge",
+10
+],
+[
+"Astoria–Megler Bridge",
+10
+],
+[
+"Chongar bridges",
+10
+],
+[
+"Angostura Bridge",
+10
+],
+[
+"Atchafalaya Basin Bridge",
+10
+],
+[
+"Gjemnessund Bridge",
+10
+],
+[
+"Covered Bridge",
+10
+],
+[
+"Podilskyi Bridge",
+10
+],
+[
+"General Belgrano Bridge",
+10
+],
+[
+"Lansdowne Bridge",
+10
+],
+[
+"Pont Vieux of Béziers",
+10
+],
+[
+"Vushtrri Stone Bridge",
+10
+],
+[
+"Karnali Bridge",
+10
+],
+[
+"Minato Bridge",
+10
+],
+[
+"Shaharah Bridge",
+10
+],
+[
+"Pont de l'Iroise",
+10
+],
+[
+"Ponte Amerigo Vespucci",
+10
+],
+[
+"Tay Road Bridge",
+10
+],
+[
+"Igelsta Bridge",
+10
+],
+[
+"Ouse Valley Viaduct",
+10
+],
+[
+"Seán O'Casey Bridge",
+10
+],
+[
+"Madison Avenue Bridge",
+10
+],
+[
+"San Antón Bridge",
+10
+],
+[
+"Queen Alexandrine Bridge",
+10
+],
+[
+"Śląsko-Dąbrowski Bridge",
+10
+],
+[
+"Sinamalé Bridge",
+10
+],
+[
+"Ponte Giuseppe Mazzini",
+10
+],
+[
+"Aggersund Bridge",
+10
+],
+[
+"Jules Wijdenbosch Bridge",
+10
+],
+[
+"Volgograd Bridge",
+10
+],
+[
+"Andøy bridge",
+10
+],
+[
+"Thanh Hoa Bridge",
+10
+],
+[
+"Million Dollar Bridge",
+10
+],
+[
+"Old Railway Bridge",
+10
+],
+[
+"Katima Mulilo Bridge",
+10
+],
+[
+"Knippelsbro",
+10
+],
+[
+"Bixby Creek Bridge",
+10
+],
+[
+"Tumen Border Bridge",
+10
+],
+[
+"Tumen River Bridge",
+10
+],
+[
+"Chesters Bridge",
+10
+],
+[
+"Cobblers' Bridge",
+10
+],
+[
+"Ponte dei Tre Archi",
+10
+],
+[
+"Deir ez-Zor suspension bridge",
+10
+],
+[
+"Gordie Howe International Bridge",
+10
+],
+[
+"Port Mann Bridge",
+10
+],
+[
+"Connective Railway Bridge",
+10
+],
+[
+"Seohae Bridge",
+10
+],
+[
+"Samora Machel Bridge",
+10
+],
+[
+"Woodrow Wilson Bridge",
+10
+],
+[
+"Margaret Hunt Hill Bridge",
+10
+],
+[
+"Spreuer Bridge",
+10
+],
+[
+"Tajik–Afghan bridge at Tem-Demogan",
+10
+],
+[
+"Henry Hudson Bridge",
+10
+],
+[
+"Vasabron",
+10
+],
+[
+"Plandište Bridge in Ilidža",
+10
+],
+[
+"Guangji Bridge",
+10
+],
+[
+"Pont Gustave-Flaubert",
+10
+],
+[
+"Centralbron",
+10
+],
+[
+"Brücke von Andau",
+10
+],
+[
+"Bolesławiec rail viaduct",
+10
+],
+[
+"Judith Bridge",
+10
+],
+[
+"Bridge of the Gods",
+10
+],
+[
+"Story Bridge",
+10
+],
+[
+"Freixo Bridge",
+10
+],
+[
+"East-Link",
+10
+],
+[
+"Pont du Diable, Hérault",
+10
+],
+[
+"Franco-Brazilian Binational Bridge",
+10
+],
+[
+"Ponte Coperto",
+9
+],
+[
+"Ruyi Bridge",
+9
+],
+[
+"Nanjing Qixiashan Yangtze River Bridge",
+9
+],
+[
+"Danjiang Bridge",
+9
+],
+[
+"Yalu River Broken Bridge",
+9
+],
+[
+"Baron of Mauá International Bridge",
+9
+],
+[
+"General Stefan \"Grot\" Rowecki Bridge",
+9
+],
+[
+"Irpin Bridge (Hostomel)",
+9
+],
+[
+"World Cup Bridge",
+9
+],
+[
+"Mshrali Bridge",
+9
+],
+[
+"Gorica Bridge",
+9
+],
+[
+"Eko Bridge",
+9
+],
+[
+"Yakov Novichenko Bridge",
+9
+],
+[
+"Sallingsund Bridge",
+9
+],
+[
+"Zárate-Brazo Largo Bridge",
+9
+],
+[
+"Fulham Railway Bridge",
+9
+],
+[
+"Leonard P. Zakim Bunker Hill Memorial Bridge",
+9
+],
+[
+"Italia Viaduct",
+9
+],
+[
+"Krung Thon Bridge",
+9
+],
+[
+"Skansen Bridge",
+9
+],
+[
+"Ćumurija Bridge",
+9
+],
+[
+"Kazansky Bridge",
+9
+],
+[
+"Native Jetty Bridge",
+9
+],
+[
+"Weidendammer Bridge",
+9
+],
+[
+"Dandalo Bridge",
+9
+],
+[
+"Adome Bridge",
+9
+],
+[
+"Ponte de Vila Formosa",
+9
+],
+[
+"Fredrikstad Bridge",
+9
+],
+[
+"Kola Bay Bridge",
+9
+],
+[
+"Birsfelden power station",
+9
+],
+[
+"Yachi River Bridge",
+9
+],
+[
+"Vebjørn Sand Da Vinci Project",
+9
+],
+[
+"Qingshui River Bridge",
+9
+],
+[
+"Longjiang Bridge",
+9
+],
+[
+"Manchac Swamp Bridge",
+9
+],
+[
+"Python Bridge",
+9
+],
+[
+"Flour Bridge",
+9
+],
+[
+"Old Town Bridge",
+9
+],
+[
+"Broom Bridge",
+9
+],
+[
+"Vejle Fjord Bridge",
+9
+],
+[
+"Queshuachaca",
+9
+],
+[
+"Pont Flavien",
+9
+],
+[
+"Ponte del Risorgimento",
+9
+],
+[
+"Marseille Transporter Bridge",
+9
+],
+[
+"River Kwai bridge",
+9
+],
+[
+"Macdonald-Cartier Bridge",
+9
+],
+[
+"Island Bridge",
+9
+],
+[
+"White Bridge",
+9
+],
+[
+"Újpest railway bridge",
+9
+],
+[
+"John Frost Bridge",
+9
+],
+[
+"Commodore Barry Bridge",
+9
+],
+[
+"Alexandra Bridge",
+9
+],
+[
+"Ramstore Bridge",
+9
+],
+[
+"Baikovsky Bridge",
+9
+],
+[
+"Bryggebroen",
+9
+],
+[
+"Talbot Memorial Bridge",
+9
+],
+[
+"Al-Sarafiya bridge",
+9
+],
+[
+"High Bridge, Lincoln",
+9
+],
+[
+"Horace Wilkinson Bridge",
+9
+],
+[
+"Kocher Viaduct",
+9
+],
+[
+"Mjøsa Bridge",
+9
+],
+[
+"Konohana Bridge",
+9
+],
+[
+"Anshun Bridge",
+9
+],
+[
+"Bac de Roda Bridge",
+9
+],
+[
+"Simón Bolívar International Bridge",
+9
+],
+[
+"Pont El Kantara",
+9
+],
+[
+"Foresthill Bridge",
+9
+],
+[
+"Pitkäsilta",
+9
+],
+[
+"Hermitage Bridge",
+9
+],
+[
+"Finland Railway Bridge",
+9
+],
+[
+"Minpu Bridge",
+9
+],
+[
+"Ponte dell'Industria",
+9
+],
+[
+"Tuchkov Bridge",
+9
+],
+[
+"New Darnytskyi Bridge",
+9
+],
+[
+"Phu My Bridge",
+9
+],
+[
+"Cavenagh Bridge",
+9
+],
+[
+"Kossuth Bridge",
+9
+],
+[
+"Lidingöbron",
+9
+],
+[
+"Kosinj Bridge",
+9
+],
+[
+"Alex Fraser Bridge",
+9
+],
+[
+"Temernitsky Bridge",
+9
+],
+[
+"Clachan Bridge",
+9
+],
+[
+"Kharkiv Metro Bridge",
+9
+],
+[
+"Mittlere Brücke",
+9
+],
+[
+"Southern Bridge",
+9
+],
+[
+"145th Street Bridge",
+9
+],
+[
+"Dyrøy bridge",
+9
+],
+[
+"Osterøy Bridge",
+9
+],
+[
+"Jungfern Bridge",
+9
+],
+[
+"Aji Chay Bridge",
+9
+],
+[
+"Albarregas Roman bridge",
+9
+],
+[
+"Rama VII Bridge",
+9
+],
+[
+"Attock Bridge",
+9
+],
+[
+"Seongsu Bridge",
+9
+],
+[
+"Olympic Bridge",
+9
+],
+[
+"Anderson Bridge",
+9
+],
+[
+"Brig o' Doon",
+9
+],
+[
+"Roseman Covered Bridge",
+9
+],
+[
+"Ji'an Yalu River Border Railway Bridge",
+9
+],
+[
+"Cernavodă Bridge",
+9
+],
+[
+"Nipponbashi",
+9
+],
+[
+"Gdański Bridge",
+9
+],
+[
+"Qotur Bridge",
+9
+],
+[
+"Chain of Rocks Bridge",
+9
+],
+[
+"Moltke Bridge",
+9
+],
+[
+"Meriç Bridge",
+9
+],
+[
+"Irgandı Bridge",
+9
+],
+[
+"Sint Servaasbrug",
+9
+],
+[
+"Pulaski Bridge",
+9
+],
+[
+"Lalazar Bridge",
+9
+],
+[
+"Namhae Bridge",
+9
+],
+[
+"Puente de Occidente",
+9
+],
+[
+"Kelvinbridge",
+9
+],
+[
+"Ampera Bridge",
+9
+],
+[
+"La Salve",
+9
+],
+[
+"Demidov Bridge",
+9
+],
+[
+"Tuti Bridge",
+9
+],
+[
+"Maria Skłodowska-Curie Bridge, Warsaw",
+9
+],
+[
+"Armando Emilio Guebuza Bridge",
+9
+],
+[
+"Pons Probi",
+9
+],
+[
+"Ponte de São João",
+9
+],
+[
+"Puente de la Unidad",
+9
+],
+[
+"Santa Catalina Arch",
+9
+],
+[
+"Sfalassa Viaduct",
+9
+],
+[
+"Thuận Phước Bridge",
+9
+],
+[
+"Wuhan Baishazhou Yangtze River Bridge",
+9
+],
+[
+"Čobanija Bridge",
+9
+],
+[
+"Benicia–Martinez Bridge",
+9
+],
+[
+"Hochmosel Bridge",
+9
+],
+[
+"Fleischbrücke (Nürnberg)",
+9
+],
+[
+"Viaur Viaduct",
+9
+],
+[
+"ponte di San Francesco di Paola",
+9
+],
+[
+"Xupu Bridge",
+9
+],
+[
+"Deák Ferenc Bridge",
+9
+],
+[
+"Pont des Marchands",
+9
+],
+[
+"Van Brienenoordbrug",
+9
+],
+[
+"Wearmouth Bridge",
+9
+],
+[
+"Yichang Yangtze River Highway Bridge",
+9
+],
+[
+"Aguieira Dam",
+9
+],
+[
+"Bechyně Bridge",
+9
+],
+[
+"Eleutherna Bridge",
+9
+],
+[
+"Ponte Nuovo",
+8
+],
+[
+"Sundsvall Bridge",
+8
+],
+[
+"Oued Tensift Bridge",
+8
+],
+[
+"Ponte alla Carraia",
+8
+],
+[
+"The Huc Bridge",
+8
+],
+[
+"Craigavon Bridge",
+8
+],
+[
+"Unity Bridge",
+8
+],
+[
+"Chungsong Bridge",
+8
+],
+[
+"Chirundu Bridge",
+8
+],
+[
+"Togetsu-kyō",
+8
+],
+[
+"Tsunoshima Bridge",
+8
+],
+[
+"Brevik Bridge",
+8
+],
+[
+"Stádlec Suspension Bridge",
+8
+],
+[
+"New Yamuna Bridge",
+8
+],
+[
+"Desouk Bridge",
+8
+],
+[
+"Fshajt Bridge",
+8
+],
+[
+"Zogu Bridge",
+8
+],
+[
+"Hrazdan Gorge Aqueduct",
+8
+],
+[
+"Pont Saint-Martin",
+8
+],
+[
+"Sunniberg Bridge",
+8
+],
+[
+"Bent Bridge",
+8
+],
+[
+"Lethbridge Viaduct",
+8
+],
+[
+"Karamagara Bridge",
+8
+],
+[
+"Longfellow Bridge",
+8
+],
+[
+"Trezzo sull'Adda Bridge",
+8
+],
+[
+"Kylling Bridge",
+8
+],
+[
+"Pont du Diable",
+8
+],
+[
+"pont des Catalans",
+8
+],
+[
+"Glen Canyon Dam Bridge",
+8
+],
+[
+"Hien Luong Bridge",
+8
+],
+[
+"Svendborgsund Bridge",
+8
+],
+[
+"Angers Bridge",
+8
+],
+[
+"Phra Pok Klao Bridge",
+8
+],
+[
+"Ten Arches bridge",
+8
+],
+[
+"Salto Grande Bridge",
+8
+],
+[
+"Kanuni Bridge",
+8
+],
+[
+"Highline179",
+8
+],
+[
+"Tarr Steps",
+8
+],
+[
+"Bridge over the Basento river",
+8
+],
+[
+"Stavanger City Bridge",
+8
+],
+[
+"Rombak bridge",
+8
+],
+[
+"Saltstraumen bridge",
+8
+],
+[
+"Mjøsund bridge",
+8
+],
+[
+"Pont Julien",
+8
+],
+[
+"Ypsilon",
+8
+],
+[
+"Luoyang Bridge",
+8
+],
+[
+"Zhijinghe River Bridge",
+8
+],
+[
+"Mustaj-bey Bridge",
+8
+],
+[
+"Nine Arches Bridge, Demodara",
+8
+],
+[
+"Pont Jacques-Gabriel (Blois)",
+8
+],
+[
+"Prince Edward Viaduct",
+8
+],
+[
+"Richmond Railway Bridge",
+8
+],
+[
+"Chelsea Embankment",
+8
+],
+[
+"Tongjiang-Nizhneleninskoye railway bridge",
+8
+],
+[
+"Middlesbrough Transporter Bridge",
+8
+],
+[
+"Sheikh Zayed Bridge",
+8
+],
+[
+"Nitzana Border Crossing",
+8
+],
+[
+"Thousand Islands Bridge",
+8
+],
+[
+"Third Bridge",
+8
+],
+[
+"Maghariba Bridge",
+8
+],
+[
+"Zarafshan Bridge",
+8
+],
+[
+"George Washington Memorial Bridge",
+8
+],
+[
+"Bai Chay Bridge",
+8
+],
+[
+"Weinan Weihe Grand Bridge",
+8
+],
+[
+"Cambie Bridge",
+8
+],
+[
+"Zohar Bridge",
+8
+],
+[
+"Ponte dei Pugni",
+8
+],
+[
+"Valakampiai Bridge",
+8
+],
+[
+"Teglværksbroen",
+8
+],
+[
+"Ryōgoku Bridge",
+8
+],
+[
+"Deutz Suspension Bridge",
+8
+],
+[
+"Ponte Giacomo Matteotti",
+8
+],
+[
+"Hadsel bridge",
+8
+],
+[
+"Måløy bridge",
+8
+],
+[
+"Gimsøystraumen bridge",
+8
+],
+[
+"Valença-Tui international bridge",
+8
+],
+[
+"Elgin Bridge",
+8
+],
+[
+"Prek Tamak Bridge",
+8
+],
+[
+"Pont Saint-Martial",
+8
+],
+[
+"Saint-Étienne bridge",
+8
+],
+[
+"Puente de Boyacá",
+8
+],
+[
+"Caiyuanba Bridge",
+8
+],
+[
+"Jingyue Yangtze River Bridge",
+8
+],
+[
+"Delaware Memorial Bridge",
+8
+],
+[
+"Mont Blanc Bridge",
+8
+],
+[
+"First Engineer Bridge",
+8
+],
+[
+"Nanjing Dashengguan Yangtze River Bridge",
+8
+],
+[
+"Ioannovsky Bridge",
+8
+],
+[
+"Sampsonievsky Bridge",
+8
+],
+[
+"English Bridge",
+8
+],
+[
+"Obukhovsky Bridge",
+8
+],
+[
+"Staro-Kalinkin Bridge",
+8
+],
+[
+"Ganter Bridge",
+8
+],
+[
+"Ponte Testaccio",
+8
+],
+[
+"Ushakovsky bridge",
+8
+],
+[
+"Struve Railroad Bridge",
+8
+],
+[
+"Saruhashi Bridge",
+8
+],
+[
+"Patriarshy Bridge",
+8
+],
+[
+"Ponte Punta Penna Pizzone",
+8
+],
+[
+"Nydeggbrücke",
+8
+],
+[
+"Emmerich Rhine Bridge",
+8
+],
+[
+"Akköprü",
+8
+],
+[
+"Alfred Beit Road Bridge",
+8
+],
+[
+"Arthur Ravenel Jr. Bridge",
+8
+],
+[
+"Banghwa Bridge",
+8
+],
+[
+"Nikoloz Baratashvili Bridge",
+8
+],
+[
+"Bennerley Viaduct",
+8
+],
+[
+"Hannam Bridge",
+8
+],
+[
+"Marlow Bridge",
+8
+],
+[
+"Borgarfjarðarbrú",
+8
+],
+[
+"Stord Bridge",
+8
+],
+[
+"Amarube Viaduct",
+8
+],
+[
+"Karmsund Bridge",
+8
+],
+[
+"Carter Bridge",
+8
+],
+[
+"Tilikum Crossing, Bridge of the People",
+8
+],
+[
+"Battersea Railway Bridge",
+8
+],
+[
+"Skeppsholmsbron",
+8
+],
+[
+"Fades Viaduct",
+8
+],
+[
+"Sonjuk Bridge",
+8
+],
+[
+"Richmond Lock and Footbridge",
+8
+],
+[
+"Haizhu Bridge",
+8
+],
+[
+"Hardinge Bridge",
+8
+],
+[
+"Novospassky Bridge",
+8
+],
+[
+"Pol-e Dokhtar (Qezel Uzan)",
+8
+],
+[
+"Küçükçekmece Bridge",
+8
+],
+[
+"Senegambia bridge",
+8
+],
+[
+"Rostokino Aqueduct",
+8
+],
+[
+"Malan bridge",
+8
+],
+[
+"Kosciuszko Bridge",
+8
+],
+[
+"Pont Ambroix",
+8
+],
+[
+"Varjanauli Bridge",
+8
+],
+[
+"Shibanpo Yangtze River Bridge",
+8
+],
+[
+"Lewiston–Queenston Bridge",
+8
+],
+[
+"Untertorbrücke",
+8
+],
+[
+"Maruyama Dam",
+8
+],
+[
+"Solis Viaduct",
+8
+],
+[
+"Holzbrücke Bad Säckingen",
+8
+],
+[
+"Naranarayan Setu",
+8
+],
+[
+"Nivedita Setu",
+8
+],
+[
+"Penghu Great Bridge",
+8
+],
+[
+"Pentele Bridge",
+8
+],
+[
+"Ponte de Segura",
+8
+],
+[
+"Putra Bridge",
+8
+],
+[
+"Qari Bridge",
+8
+],
+[
+"Jembatan akar",
+8
+],
+[
+"Rosh HaNikra Crossing",
+8
+],
+[
+"Maidenhead Railway Bridge",
+8
+],
+[
+"Saraighat Bridge",
+8
+],
+[
+"Viaduc des arts",
+8
+],
+[
+"Tranebergsbron",
+8
+],
+[
+"Tajikistan–Afghanistan bridge at Panji Poyon",
+8
+],
+[
+"Takutu River Bridge",
+8
+],
+[
+"New Tappan Zee Bridge",
+8
+],
+[
+"Žďákov Bridge",
+8
+],
+[
+"Third Millennium John Paul II Bridge",
+8
+],
+[
+"Tran Thi Ly Bridge",
+8
+],
+[
+"Veresk Bridge",
+8
+],
+[
+"Kutai Kartanegara Bridge",
+8
+],
+[
+"Zwierzyniecki Bridge",
+8
+],
+[
+"Eurymedon Bridge",
+8
+],
+[
+"Bridgewater Bridge",
+8
+],
+[
+"PATH",
+8
+],
+[
+"Burrard Bridge",
+8
+],
+[
+"Ponte Eiffel",
+8
+],
+[
+"Japoma Bridge",
+8
 ]
 ]

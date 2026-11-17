@@ -1,0 +1,63 @@
+Watson=james watson
+Crick=francis crick
+Linnaeus=carl linnaeus
+Robert Hooke
+Antonie van Leeuwenhoek
+Michael Faraday
+James Clerk Maxwell
+Max Born
+Paul Dirac
+Wolfgang Pauli
+Enrico Fermi
+Lise Meitner
+Otto Hahn
+Emmy Noether
+Chien-Shiung Wu
+Barbara McClintock
+Dorothy Hodgkin
+Linus Pauling
+Richard Feynman
+Murray Gell-Mann
+Peter Higgs
+Roger Penrose
+Kip Thorne
+Vera Rubin
+Edwin Hubble
+Annie Jump Cannon
+Henrietta Leavitt
+Jocelyn Bell Burnell
+Carl Friedrich Gauss
+Leonhard Euler
+Isaac Asimov
+Gregor Mendel
+Louis Pasteur
+Robert Koch
+Joseph Lister
+Florence Nightingale
+Elizabeth Blackwell
+Charles Babbage
+John von Neumann
+Claude Shannon
+Benjamin Franklin
+George Washington Carver
+Percy Julian
+Mae Jemison
+Sally Ride
+Jennifer Doudna
+Emmanuelle Charpentier
+Tu Youyou
+Wernher von Braun
+Robert Goddard
+Konstantin Tsiolkovsky
+Yuri Gagarin
+Alfred Wegener
+Charles Lyell
+James Hutton
+Mary Anning
+Louis Leakey
+Dian Fossey
+Biruté Galdikas
+E. O. Wilson
+Stephen Jay Gould
+Rosalind Franklin
+Maurice Wilkins

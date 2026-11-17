@@ -12,39 +12,219 @@
 143
 ],
 [
+"altar",
+90
+],
+[
 "coffin",
 86
+],
+[
+"saddle",
+84
+],
+[
+"mattress",
+82
 ],
 [
 "couch",
 78
 ],
 [
+"bench",
+77
+],
+[
 "wardrobe",
 71
+],
+[
+"drawer",
+68
+],
+[
+"wheelchair",
+67
+],
+[
+"sarcophagus",
+64
+],
+[
+"electric chair",
+63
+],
+[
+"kitchen stove",
+61
+],
+[
+"chest",
+60
+],
+[
+"infant bed",
+59
+],
+[
+"stations of the Cross",
+58
+],
+[
+"post box",
+56
+],
+[
+"hammock",
+55
 ],
 [
 "desk",
 53
 ],
 [
+"stool",
+52
+],
+[
+"cabinetry",
+47
+],
+[
+"streetlight",
+47
+],
+[
+"candlestick",
+46
+],
+[
+"cash register",
+46
+],
+[
+"church tabernacle",
+45
+],
+[
+"pulpit",
+45
+],
+[
+"baptismal font",
+43
+],
+[
 "commode",
 41
+],
+[
+"nightstand",
+38
+],
+[
+"cathedra",
+37
+],
+[
+"rood screen",
+37
+],
+[
+"rocking chair",
+35
+],
+[
+"ambon",
+35
+],
+[
+"cupboard",
+35
+],
+[
+"thurible",
+34
 ],
 [
 "chaise longue",
 33
 ],
 [
+"kotatsu",
+33
+],
+[
+"ejection seat",
+33
+],
+[
+"futon",
+33
+],
+[
+"folding screen",
+32
+],
+[
+"antependium",
+32
+],
+[
+"hostile architecture",
+31
+],
+[
+"bicycle saddle",
+30
+],
+[
+"altarpiece",
+30
+],
+[
+"bunk bed",
+29
+],
+[
+"confessional",
+29
+],
+[
 "street furniture",
 28
+],
+[
+"office chair",
+27
+],
+[
+"predella",
+27
 ],
 [
 "lectern",
 27
 ],
 [
+"19-inch rack",
+27
+],
+[
+"drawing board",
+26
+],
+[
+"flagpole",
+26
+],
+[
 "seat",
+26
+],
+[
+"ottoman",
 26
 ],
 [
@@ -52,7 +232,19 @@
 26
 ],
 [
+"deckchair",
+25
+],
+[
 "workbench",
+25
+],
+[
+"bean bag chair",
+25
+],
+[
+"Barcelona chair",
 25
 ],
 [
@@ -60,19 +252,59 @@
 24
 ],
 [
+"Red and Blue Chair",
+24
+],
+[
 "hatstand",
 24
+],
+[
+"curule seat",
+23
+],
+[
+"toilet seat",
+23
+],
+[
+"divan",
+23
 ],
 [
 "kitchen sink",
 23
 ],
 [
+"shelf",
+22
+],
+[
 "countertop",
 22
 ],
 [
+"playpen",
+22
+],
+[
+"bassinet",
+21
+],
+[
+"dressing table",
+21
+],
+[
+"choir stall",
+21
+],
+[
 "human furniture",
+20
+],
+[
+"bicycle stand",
 20
 ],
 [
@@ -80,8 +312,104 @@
 20
 ],
 [
+"piscina",
+20
+],
+[
+"holy water font",
+20
+],
+[
+"music stand",
+20
+],
+[
+"jungle gym",
+19
+],
+[
+"zabuton",
+19
+],
+[
+"folding chair",
+19
+],
+[
+"monobloc",
+19
+],
+[
+"billiard table",
+19
+],
+[
+"portable toilet",
+19
+],
+[
+"massage chair",
+19
+],
+[
 "litter box",
 18
+],
+[
+"car seat",
+18
+],
+[
+"coffee table",
+18
+],
+[
+"camp bed",
+18
+],
+[
+"kitchen cabinet",
+17
+],
+[
+"Wassily Chair",
+17
+],
+[
+"waterbed",
+17
+],
+[
+"Strandkorb",
+17
+],
+[
+"box-bed",
+16
+],
+[
+"student desk",
+16
+],
+[
+"Kang bed-stove",
+16
+],
+[
+"hospital bed",
+16
+],
+[
+"sofa bed",
+16
+],
+[
+"chiffonier",
+16
+],
+[
+"votive ship",
+16
 ],
 [
 "clothes valet",
@@ -96,11 +424,107 @@
 15
 ],
 [
+"lavabo",
+15
+],
+[
+"high chair",
+15
+],
+[
+"altar rails",
+15
+],
+[
+"armrest",
+15
+],
+[
+"toilet roll holder",
+15
+],
+[
+"klismos",
+14
+],
+[
+"guéridon",
+14
+],
+[
+"woodworking workbench",
+14
+],
+[
+"rumble seat",
+14
+],
+[
+"Bubble Chair",
+14
+],
+[
+"Panton Chair",
+14
+],
+[
+"faldstool",
+14
+],
+[
 "garden furniture",
 14
 ],
 [
+"Tulip chair",
+14
+],
+[
+"recliner",
+14
+],
+[
+"sacrificial tripod",
+14
+],
+[
+"kline",
+14
+],
+[
+"canapé",
+13
+],
+[
+"korsi",
+13
+],
+[
+"sedilia",
+13
+],
+[
+"credence table",
+13
+],
+[
+"Ant",
+13
+],
+[
+"murphy bed",
+13
+],
+[
 "umbrella holder",
+13
+],
+[
+"sounding board",
+13
+],
+[
+"Zig-Zag Chair",
 13
 ],
 [
@@ -108,12 +532,124 @@
 13
 ],
 [
+"Windsor chair",
+13
+],
+[
+"console",
+13
+],
+[
+"Bergère",
+13
+],
+[
+"Hanging coffins",
+13
+],
+[
+"bicycle parking station",
+12
+],
+[
+"telescope mount",
+12
+],
+[
+"Egg",
+12
+],
+[
+"sawhorse",
+12
+],
+[
+"berth",
+12
+],
+[
+"operating table",
+12
+],
+[
+"picnic table",
+12
+],
+[
+"prie-dieu",
+12
+],
+[
+"Adirondack chair",
+12
+],
+[
+"headboard",
+12
+],
+[
 "entrance stairs",
 12
 ],
 [
+"pew",
+12
+],
+[
+"armchair",
+11
+],
+[
+"fantasy coffin",
+11
+],
+[
 "counter",
 11
+],
+[
+"The gods",
+11
+],
+[
+"weapon mount",
+11
+],
+[
+"changing table",
+11
+],
+[
+"salad bar",
+11
+],
+[
+"No. 14 chair",
+11
+],
+[
+"computer desk",
+11
+],
+[
+"Ball Chair",
+11
+],
+[
+"gaming chair",
+11
+],
+[
+"tabernacle tower",
+11
+],
+[
+"birthing chair",
+10
+],
+[
+"kneeling chair",
+10
 ],
 [
 "medicine cabinet",
@@ -124,7 +660,19 @@
 10
 ],
 [
+"Lierna Chair",
+10
+],
+[
 "organ case",
+10
+],
+[
+"four-poster bed",
+10
+],
+[
+"Point of sale display",
 10
 ],
 [
@@ -132,12 +680,84 @@
 10
 ],
 [
+"swivel chair",
+10
+],
+[
+"impact attenuator",
+10
+],
+[
+"rahle",
+10
+],
+[
+"zaisu",
+10
+],
+[
+"cantilever chair",
+10
+],
+[
 "diphros",
+9
+],
+[
+"vacuum bed",
+9
+],
+[
+"bar counter",
+9
+],
+[
+"Rishi coffin",
+9
+],
+[
+"kneeler",
+9
+],
+[
+"Christmas tree stand",
+9
+],
+[
+"lemonade stand",
+9
+],
+[
+"writing table",
+9
+],
+[
+"dining table",
+9
+],
+[
+"serving cart",
+9
+],
+[
+"test tube rack",
+9
+],
+[
+"sex swing",
 9
 ],
 [
 "sewing boxes",
 9
+],
+[
+"teacher's desk",
+8
+],
+[
+"Swan",
+8
 ],
 [
 "choir screen",
@@ -148,7 +768,43 @@
 8
 ],
 [
+"trestle support",
+8
+],
+[
+"Iron chair",
+8
+],
+[
+"aircraft seat",
+8
+],
+[
+"psyche",
+8
+],
+[
+"Tripp Trapp",
+8
+],
+[
+"Tugendhat chair",
+8
+],
+[
 "boss",
+8
+],
+[
+"public transport shelter",
+8
+],
+[
+"bucket seat",
+8
+],
+[
+"food booth",
 8
 ],
 [
@@ -156,7 +812,1159 @@
 8
 ],
 [
+"escape chair",
+8
+],
+[
 "daybed",
 8
+],
+[
+"folding seat",
+8
+],
+[
+"Welsh dresser",
+8
+],
+[
+"chesterfield",
+7
+],
+[
+"Butcher block",
+7
+],
+[
+"Stibadium",
+7
+],
+[
+"milking stool",
+7
+],
+[
+"Shaker furniture",
+7
+],
+[
+"safety coffin",
+7
+],
+[
+"saddle chair",
+7
+],
+[
+"oshiire",
+7
+],
+[
+"High table",
+7
+],
+[
+"canopy bed",
+7
+],
+[
+"Chinese furniture",
+7
+],
+[
+"standing desk",
+7
+],
+[
+"Chiavari chair",
+7
+],
+[
+"loveseat",
+7
+],
+[
+"X-chair",
+7
+],
+[
+"office furniture",
+6
+],
+[
+"priority seat",
+6
+],
+[
+"poster box",
+6
+],
+[
+"multifunctional furniture",
+6
+],
+[
+"filing cabinet",
+6
+],
+[
+"carnival game",
+6
+],
+[
+"cardboard furniture",
+6
+],
+[
+"tapchan",
+6
+],
+[
+"kamiza",
+6
+],
+[
+"bisellium",
+6
+],
+[
+"mobile shelving",
+6
+],
+[
+"mensa",
+6
+],
+[
+"tool board",
+6
+],
+[
+"wine rack",
+6
+],
+[
+"badalone",
+6
+],
+[
+"Communion table",
+6
+],
+[
+"offering table",
+6
+],
+[
+"Rack",
+6
+],
+[
+"cellarette",
+6
+],
+[
+"Diamond chair",
+6
+],
+[
+"Emeco 1006",
+6
+],
+[
+"gaming table",
+6
+],
+[
+"lift chair",
+6
+],
+[
+"Lunar Flag Assembly",
+6
+],
+[
+"rolltop desk",
+6
+],
+[
+"trundle bed",
+6
+],
+[
+"Treetrunk coffin",
+6
+],
+[
+"White posts",
+5
+],
+[
+"People's altar",
+5
+],
+[
+"rückpositiv",
+5
+],
+[
+"Black & Decker Workmate",
+5
+],
+[
+"tansu",
+5
+],
+[
+"motorcycle seat",
+5
+],
+[
+"magazine holder",
+5
+],
+[
+"Récamière",
+5
+],
+[
+"Wishbone chair",
+5
+],
+[
+"grit bin",
+5
+],
+[
+"cylinder desk",
+5
+],
+[
+"Mesa de camilha",
+5
+],
+[
+"fainting couch",
+5
+],
+[
+"Perfumer's organ",
+5
+],
+[
+"partners desk",
+5
+],
+[
+"Public menorah",
+5
+],
+[
+"sex furniture",
+5
+],
+[
+"Centralized mail delivery",
+5
+],
+[
+"10 Downing Street Guard Chairs",
+5
+],
+[
+"ambry",
+5
+],
+[
+"box pew",
+5
+],
+[
+"director's chair",
+5
+],
+[
+"massage table",
+5
+],
+[
+"mounting block",
+5
+],
+[
+"street clock",
+5
+],
+[
+"deathbed",
+5
+],
+[
+"box-spring",
+5
+],
+[
+"built-in furniture",
+4
+],
+[
+"stand",
+4
+],
+[
+"10 Downing Street lecterns",
+4
+],
+[
+"baptismal font cover",
+4
+],
+[
+"welding table",
+4
+],
+[
+"carton flow",
+4
+],
+[
+"soban",
+4
+],
+[
+"the Wardrobe",
+4
+],
+[
+"vacuum table",
+4
+],
+[
+"Teapoy",
+4
+],
+[
+"Hamur tahtası",
+4
+],
+[
+"dressers",
+4
+],
+[
+"Poker table",
+4
+],
+[
+"mock bus stop",
+4
+],
+[
+"\"Dragons\" armchair",
+4
+],
+[
+"Voyeuse",
+4
+],
+[
+"pier table",
+4
+],
+[
+"caquetoire",
+4
+],
+[
+"confidante",
+4
+],
+[
+"window seat",
+4
+],
+[
+"Liège-Aachen Baroque furniture",
+4
+],
+[
+"Eames Lounge Chair Wood",
+4
+],
+[
+"Builders Hardware",
+4
+],
+[
+"lit à la turque",
+4
+],
+[
+"kubbestol",
+4
+],
+[
+"chef's table",
+4
+],
+[
+"restraint chair",
+4
+],
+[
+"ancient furniture",
+4
+],
+[
+"antique furniture",
+4
+],
+[
+"table for table tennis",
+4
+],
+[
+"cage bed",
+4
+],
+[
+"entertainment center",
+4
+],
+[
+"folding table",
+4
+],
+[
+"40/4 Chair",
+4
+],
+[
+"California Cooler",
+4
+],
+[
+"headrest",
+4
+],
+[
+"chifforobe",
+4
+],
+[
+"linen press",
+4
+],
+[
+"Noguchi table",
+4
+],
+[
+"Chair of Elijah",
+4
+],
+[
+"Rex",
+4
+],
+[
+"rustic furniture",
+4
+],
+[
+"slant top desk",
+4
+],
+[
+"sleigh bed",
+4
+],
+[
+"Polish bed",
+4
+],
+[
+"Bofinger chair",
+4
+],
+[
+"Stillage",
+4
+],
+[
+"Dwa (stool)",
+4
+],
+[
+"Heteka",
+3
+],
+[
+"kitchen table",
+3
+],
+[
+"museum display case",
+3
+],
+[
+"broom closet",
+3
+],
+[
+"storage bed",
+3
+],
+[
+"candleholder",
+3
+],
+[
+"Corner chair",
+3
+],
+[
+"train seat",
+3
+],
+[
+"stretcher",
+3
+],
+[
+"Blue Goose",
+3
+],
+[
+"Tube Chair",
+3
+],
+[
+"Peacock chair",
+3
+],
+[
+"liturgical furniture",
+3
+],
+[
+"inversion table",
+3
+],
+[
+"glasses frame",
+3
+],
+[
+"Ancient Egyptian coffin",
+3
+],
+[
+"Frankfurter Schrank",
+3
+],
+[
+"pedestal desk",
+3
+],
+[
+"canopy swing",
+3
+],
+[
+"pedestrian chicane",
+3
+],
+[
+"park bench",
+3
+],
+[
+"adjustable shelving",
+3
+],
+[
+"sewing table",
+3
+],
+[
+"Campeche chair",
+3
+],
+[
+"hollow log coffin",
+3
+],
+[
+"animal furniture",
+3
+],
+[
+"individual seat",
+3
+],
+[
+"Klangstuhl",
+3
+],
+[
+"bus shelter",
+3
+],
+[
+"Zizeilu",
+3
+],
+[
+"squire's pew",
+3
+],
+[
+"nursing care bed",
+3
+],
+[
+"Voltaire",
+3
+],
+[
+"seven-branched candlestick",
+3
+],
+[
+"Garden Egg chair",
+3
+],
+[
+"radio speaker tower",
+3
+],
+[
+"commode chair",
+3
+],
+[
+"Wiggle Side Chair",
+3
+],
+[
+"monitor mount",
+3
+],
+[
+"Budalsstol",
+3
+],
+[
+"tip-top table",
+3
+],
+[
+"Poäng",
+3
+],
+[
+"self-making bed",
+3
+],
+[
+"an",
+3
+],
+[
+"Ovalia Egg Chair",
+3
+],
+[
+"bonsai display table",
+3
+],
+[
+"Stulpiņi",
+3
+],
+[
+"fall front desk",
+3
+],
+[
+"Spaghetti chair",
+3
+],
+[
+"UP series",
+3
+],
+[
+"beach furniture",
+3
+],
+[
+"curio cabinet",
+3
+],
+[
+"drop-leaf table",
+3
+],
+[
+"Poyo",
+3
+],
+[
+"Isokon Long Chair",
+3
+],
+[
+"garden table",
+3
+],
+[
+"accoudoir",
+3
+],
+[
+"papasan chair",
+3
+],
+[
+"room divider",
+3
+],
+[
+"spalliera",
+3
+],
+[
+"tambour desk",
+3
+],
+[
+"trestle table",
+3
+],
+[
+"wire shelving",
+3
+],
+[
+"lead coffin",
+3
+],
+[
+"Date Palm Leaf Pati",
+3
+],
+[
+"Violin tables",
+2
+],
+[
+"tea table",
+2
+],
+[
+"Biedermeier furniture",
+2
+],
+[
+"Irish dresser",
+2
+],
+[
+"Outdoor electrical enclosures",
+2
+],
+[
+"Bus seats in Japan",
+2
+],
+[
+"jealous chair",
+2
+],
+[
+"wooden coffin",
+2
+],
+[
+"baptismal tree",
+2
+],
+[
+"stone coffin",
+2
+],
+[
+"aisle chair",
+2
+],
+[
+"fukurodana",
+2
+],
+[
+"Manifestador",
+2
+],
+[
+"Ultrafragola",
+2
+],
+[
+"Holy water dispenser",
+2
+],
+[
+"Loveseat",
+2
+],
+[
+"bench swing",
+2
+],
+[
+"altar superstructure",
+2
+],
+[
+"ishi",
+2
+],
+[
+"folding stool",
+2
+],
+[
+"public bench",
+2
+],
+[
+"Chumadu Thangis",
+2
+],
+[
+"dog toilet",
+2
+],
+[
+"Athénienne",
+2
+],
+[
+"bridal bed",
+2
+],
+[
+"Log furniture",
+2
+],
+[
+"shadow box",
+2
+],
+[
+"dry-lacquer coffin",
+2
+],
+[
+"side table",
+2
+],
+[
+"ladderback chair",
+2
+],
+[
+"Hill House Chair",
+2
+],
+[
+"ceramic coffin",
+2
+],
+[
+"Property boundary bollards in the Netherlands",
+2
+],
+[
+"Eames Fiberglass Armchair",
+2
+],
+[
+"bicycle repair stand",
+2
+],
+[
+"helmsman seats",
+2
+],
+[
+"The Chair",
+2
+],
+[
+"Pastor's chair",
+2
+],
+[
+"Luxembourg chairs",
+2
+],
+[
+"Gispen 412",
+2
+],
+[
+"Baptismal fences in the Netherlands",
+2
+],
+[
+"sling",
+2
+],
+[
+"Model 3102",
+2
+],
+[
+"masturbation booth",
+2
+],
+[
+"service counter",
+2
+],
+[
+"111 Navy Chair",
+2
+],
+[
+"Sit-stand seat",
+2
+],
+[
+"parish pew",
+2
+],
+[
+"banquette",
+2
+],
+[
+"Chaise du Gol",
+2
+],
+[
+"GJ chair",
+2
+],
+[
+"chaffeuse",
+2
+],
+[
+"duchesse",
+2
+],
+[
+"trapeza",
+2
+],
+[
+"Wedding benches",
+2
+],
+[
+"trumeau",
+2
+],
+[
+"Mullca chair",
+2
+],
+[
+"mat",
+2
+],
+[
+"Superleggera",
+2
+],
+[
+"mahjong table",
+2
+],
+[
+"Rigonda",
+2
+],
+[
+"Accubita",
+2
+],
+[
+"tabletop",
+2
+],
+[
+"campaign furniture",
+2
+],
+[
+"pop-up toilet",
+2
+],
+[
+"coal hole",
+2
+],
+[
+"Standing aid",
+2
+],
+[
+"Davenport desk",
+2
+],
+[
+"eisteddfod chair",
+2
+],
+[
+"examination table",
+2
+],
+[
+"Fisk metallic burial case",
+2
+],
+[
+"foot",
+2
+],
+[
+"fridstoll",
+2
+],
+[
+"Games table desk",
+2
+],
+[
+"Glastonbury chair",
+2
+],
+[
+"chigaidana",
+2
+],
+[
+"Shelfie",
+2
+],
+[
+"Waterfall furniture",
+2
+],
+[
+"Harkonnen Capo Chair",
+2
+],
+[
+"seating",
+2
+],
+[
+"hutch",
+2
+],
+[
+"spoon rack",
+2
+],
+[
+"partition",
+2
+],
+[
+"pedestal table",
+2
+],
+[
+"Bornes (furniture)",
+2
+],
+[
+"seat of honor",
+2
+],
+[
+"nursing chair",
+2
+],
+[
+"park furniture",
+2
+],
+[
+"portable desk",
+2
+],
+[
+"Porter's chair",
+2
+],
+[
+"potting bench",
+2
+],
+[
+"splat",
+2
+],
+[
+"Lattenstuhl ti 1a",
+2
+],
+[
+"turned chair",
+2
+],
+[
+"Twig work",
+2
+],
+[
+"typewriter desk",
+2
+],
+[
+"Wainscot Chair",
+2
+],
+[
+"shitone",
+2
+],
+[
+"writing desk",
+2
+],
+[
+"Vitrine",
+2
+],
+[
+"king single bed",
+2
+],
+[
+"settee",
+2
+],
+[
+"drawer slides",
+2
 ]
 ]

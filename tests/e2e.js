@@ -225,7 +225,8 @@ async function newPage(browser, opts, clock) {
     assert.equal(st.phase, "done");
     assert.equal(await page.textContent(".bigscore .num"), String(roundTotal(st)));
     const heads = await page.locator(".sec-head > span:first-child").allTextContents();
-    assert.deepEqual(heads, ["the bearing", "keep digging", "the haul", "logbook"]);
+    assert.deepEqual(heads, ["the bearing", "keep digging", "the haul", "didn't count", "logbook"]);
+    assert.match(await page.textContent("#didntCount"), /blorptastic|qwertyuiopzz/, "rejected answers are listed for reporting");
     assert.equal(await page.locator(".bearing li.on").count(), 1);
     const share = await page.textContent(".share-preview");
     assert.match(share, /^Centapillion #\d+ 🐛\n[🌱🤡🪱💎🔮🌟⬛]{7}\n\d+\/700 · -[\d,]+ m$/u);
@@ -257,18 +258,20 @@ async function newPage(browser, opts, clock) {
     await page.waitForSelector(".bigscore");
   });
 
-  await step("after the daily: keep digging by category", async () => {
+  await step("after the daily: one set of 7 per category per day", async () => {
     const tiles = await page.$$eval("#keepDigging .cat-tile", ts => ts.map(t => t.dataset.cat));
     assert.deepEqual(tiles, ["geography", "animals", "food", "screen", "sports", "science", "culture", "everyday"]);
     await page.screenshot({ path: path.join(SHOTS, "05b-keep-digging.png"), fullPage: false });
+    const day = await page.evaluate(() => window.__centapillion.today());
+    const daily = (await page.evaluate(() => window.__centapillion.store())).daily[day].promptIds;
     await page.click('#keepDigging .cat-tile[data-cat="geography"]');
     await page.waitForFunction(() => window.__centapillion.state().mode === "category");
     let st = await state(page);
     assert.equal(st.category, "geography");
-    assert.equal(st.game, 1);
+    assert.equal(st.game, day);
     assert.match(await page.textContent(".intro"), /GEOGRAPHY DIG/);
     const geo = await page.evaluate(() => CP.CATEGORIES.find(c => c.id === "geography").ids);
-    for (const id of st.promptIds) assert.ok(geo.includes(id), id + " is not geography");
+    for (const id of st.promptIds) { assert.ok(geo.includes(id), id + " is not geography"); assert.ok(!daily.includes(id), id + " repeats the daily"); }
     await page.click("#beginBtn");
     await toAnswering(page);
     A = await answersFor(page);
@@ -277,20 +280,18 @@ async function newPage(browser, opts, clock) {
     for (let r = 1; r < 7; r++) { await page.click("#nextBtn"); await toAnswering(page); await page.click("#endRoundBtn"); }
     await page.click("#nextBtn");
     await page.waitForSelector(".bigscore");
-    assert.match(await page.textContent(".share-preview"), /^Centapillion 🌍 Geography #1 🐛/);
+    assert.match(await page.textContent(".share-preview"), new RegExp("^Centapillion 🌍 Geography #" + day + " 🐛"));
+    assert.match(await page.textContent("#nextDig"), /next Geography set in \d+h/);
+    assert.equal(await page.$("#replayBtn"), null, "a category set is one play per day");
     const store = await page.evaluate(() => window.__centapillion.store());
-    assert.equal(store.cat.best["geography:1"], 10);
-    assert.ok(store.daily[Object.keys(store.daily)[0]].phase === "done", "daily result must be untouched");
-    assert.match(await page.textContent('#keepDigging .cat-tile[data-cat="geography"]'), /1 dug · best 10/);
-    await page.click("#nextDigBtn");
-    await page.waitForFunction(() => window.__centapillion.state().game === 2);
-    st = await state(page);
-    assert.equal(st.mode, "category");
-    assert.notDeepEqual(st.promptIds, store.cat.games["geography:1"].promptIds);
-    await page.click("#catLink");
-    assert.equal(await page.$$eval(".modal .cat-tile, #modalBody .cat-tile", ts => ts.length), 8);
-    await page.keyboard.press("Escape");
-    await page.goto(BASE + "/#/cat/nonsense/3");
+    assert.equal(store.cat.best["geography:" + day], 10);
+    assert.equal(store.daily[day].phase, "done", "daily result must be untouched");
+    assert.match(await page.textContent('#keepDigging .cat-tile[data-cat="geography"]'), /today 10/);
+    await page.goto(BASE + "/#/cat/geography");
+    await page.waitForSelector(".bigscore");
+    assert.equal((await state(page)).phase, "done", "reopening shows today's result, not a new set");
+    await page.click("#catLink").catch(() => {});
+    await page.goto(BASE + "/#/cat/nonsense");
     await page.waitForFunction(() => window.__centapillion.state().mode === "daily");
   });
 

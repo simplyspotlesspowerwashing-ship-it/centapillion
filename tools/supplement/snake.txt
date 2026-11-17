@@ -1,0 +1,60 @@
+Smooth Snake
+Ringneck Snake
+Brown Tree Snake
+Mangrove Snake
+Wolf Snake
+Kukri Snake
+Cat Snake
+Twig Snake
+Bird Snake
+Rinkhals
+Spitting Cobra
+Cape Cobra
+Egyptian Cobra
+Monocled Cobra
+Russell's Viper
+Saw-scaled Viper
+Horned Viper
+Rhinoceros Viper
+Bush Viper
+Pit Viper
+Massasauga
+Timber Rattlesnake
+Diamondback
+Eastern Diamondback
+Western Diamondback
+Mojave Rattlesnake
+Speckled Rattlesnake
+Tiger Rattlesnake
+Pigmy Rattlesnake
+Cantil
+Jararaca
+Lancehead
+Golden Lancehead
+Eyelash Viper
+Green Anaconda
+Yellow Anaconda
+Rainbow Boa
+Rosy Boa
+Rubber Boa
+Sand Boa
+Emerald Tree Boa
+Burmese Python
+Indian Python
+Rock Python
+Carpet Python
+Children's Python
+Woma
+Black-headed Python
+Scrub Python
+Amethystine Python
+Blood Python
+Short-tailed Python
+Sunbeam Snake
+Wart Snake
+File Snake
+Pipe Snake
+Shield-tailed Snake
+Thread Snake
+Worm Snake
+Flowerpot Snake

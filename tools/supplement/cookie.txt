@@ -1,0 +1,59 @@
+Ladyfinger=savoiardi
+Jammie Dodger
+Anzac=anzac biscuit
+Chocolate Crinkle
+Molasses Cookie
+Ginger Snap
+Lemon Bar
+Brownie
+Blondie
+Rice Krispie Treat
+Monster Cookie
+Cowboy Cookie
+Kitchen Sink Cookie
+M&M Cookie
+White Chocolate Macadamia
+Double Chocolate
+Oatmeal Chocolate Chip
+No-Bake Cookie
+Peanut Butter Blossom
+Russian Tea Cake
+Mexican Wedding Cookie
+Spritz
+Pinwheel Cookie
+Checkerboard Cookie
+Icebox Cookie
+Hamantaschen
+Mandelbrot
+Kolache
+Kolaczki
+Pizzelle
+Krumkake
+Rosette
+Sandbakkels
+Kringla
+Pepparkakor
+Speculaas
+Jumble
+Hermit
+Snickerdoodle
+Teacake
+Garibaldi
+Rich Tea
+Malted Milk
+Nice biscuit
+Ginger Nut
+Bourbon biscuit
+Penguin
+Tim Tam
+Arnott's
+Lotus Biscoff
+Milano
+Nutter Butter
+Chips Ahoy
+Famous Amos
+Thin Mints
+Samoas
+Tagalongs
+Do-si-dos
+Trefoils

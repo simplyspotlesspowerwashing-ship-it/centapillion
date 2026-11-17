@@ -1,0 +1,5574 @@
+[
+[
+"triangle",
+182
+],
+[
+"circle",
+160
+],
+[
+"square",
+152
+],
+[
+"rectangle",
+126
+],
+[
+"line",
+119
+],
+[
+"sphere",
+118
+],
+[
+"cross",
+118
+],
+[
+"polygon",
+117
+],
+[
+"cube",
+116
+],
+[
+"quadrilateral",
+112
+],
+[
+"diameter",
+112
+],
+[
+"back",
+111
+],
+[
+"radius",
+109
+],
+[
+"rhombus",
+107
+],
+[
+"cone",
+107
+],
+[
+"cylinder",
+106
+],
+[
+"parallelogram",
+105
+],
+[
+"ellipse",
+104
+],
+[
+"trapezoid",
+103
+],
+[
+"pentagon",
+91
+],
+[
+"plane",
+90
+],
+[
+"hexagon",
+87
+],
+[
+"exclamation mark",
+86
+],
+[
+"pyramid",
+85
+],
+[
+"right triangle",
+84
+],
+[
+"equilateral triangle",
+82
+],
+[
+"line segment",
+78
+],
+[
+"tetrahedron",
+77
+],
+[
+"polyhedron",
+77
+],
+[
+"octagon",
+75
+],
+[
+"torus",
+73
+],
+[
+"circle of latitude",
+72
+],
+[
+"drainage divide",
+72
+],
+[
+"diagonal",
+72
+],
+[
+"polar circle",
+72
+],
+[
+"atomic radius",
+72
+],
+[
+"ankh",
+70
+],
+[
+"prism",
+70
+],
+[
+"disk",
+69
+],
+[
+"tangent",
+68
+],
+[
+"chord",
+68
+],
+[
+"heptagon",
+68
+],
+[
+"great circle",
+67
+],
+[
+"parallelepiped",
+65
+],
+[
+"kite",
+64
+],
+[
+"hemisphere of the Earth",
+64
+],
+[
+"isosceles triangle",
+64
+],
+[
+"calibre",
+63
+],
+[
+"Platonic solid",
+63
+],
+[
+"unit circle",
+63
+],
+[
+"rectangular cuboid",
+63
+],
+[
+"asymptote",
+62
+],
+[
+"pentagram",
+62
+],
+[
+"decagon",
+62
+],
+[
+"dodecahedron",
+58
+],
+[
+"nonagon",
+58
+],
+[
+"vertex",
+57
+],
+[
+"octahedron",
+55
+],
+[
+"circular sector",
+55
+],
+[
+"cathetus",
+54
+],
+[
+"covalent radius",
+54
+],
+[
+"regular polygon",
+54
+],
+[
+"semi-major axis",
+53
+],
+[
+"saltire",
+53
+],
+[
+"edge",
+53
+],
+[
+"Schwarzschild radius",
+53
+],
+[
+"icosahedron",
+52
+],
+[
+"ball",
+52
+],
+[
+"median",
+51
+],
+[
+"complex plane",
+51
+],
+[
+"circumscribed circle",
+50
+],
+[
+"snow line",
+50
+],
+[
+"red star",
+49
+],
+[
+"space",
+49
+],
+[
+"van der Waals radius",
+48
+],
+[
+"convex set",
+48
+],
+[
+"dodecagon",
+48
+],
+[
+"normal",
+47
+],
+[
+"angle bisector",
+47
+],
+[
+"tessellation",
+45
+],
+[
+"icosagon",
+45
+],
+[
+"cyclic quadrilateral",
+44
+],
+[
+"hendecagon",
+43
+],
+[
+"nine-point circle",
+43
+],
+[
+"celestial meridian",
+42
+],
+[
+"Maltese cross",
+42
+],
+[
+"apothem",
+42
+],
+[
+"heptadecagon",
+42
+],
+[
+"pentadecagon",
+42
+],
+[
+"St George's Cross",
+41
+],
+[
+"hypercube",
+40
+],
+[
+"hexadecagon",
+40
+],
+[
+"hexahedron",
+40
+],
+[
+"tridecagon",
+40
+],
+[
+"pink triangle",
+39
+],
+[
+"Latin cross",
+39
+],
+[
+"simplex",
+39
+],
+[
+"circular segment",
+39
+],
+[
+"heart",
+39
+],
+[
+"ionic radius",
+39
+],
+[
+"altitude",
+38
+],
+[
+"Archimedean solid",
+38
+],
+[
+"Koch snowflake",
+38
+],
+[
+"face",
+38
+],
+[
+"secant line",
+38
+],
+[
+"decimal separator",
+38
+],
+[
+"enneadecagon",
+38
+],
+[
+"octadecagon",
+37
+],
+[
+"tetradecagon",
+37
+],
+[
+"tesseract",
+37
+],
+[
+"Greek cross",
+37
+],
+[
+"digon",
+37
+],
+[
+"tangential quadrilateral",
+36
+],
+[
+"zigzag",
+36
+],
+[
+"convex polygon",
+36
+],
+[
+"Universal Transverse Mercator",
+36
+],
+[
+"faithful finite polytope",
+36
+],
+[
+"Reuleaux triangle",
+36
+],
+[
+"inscribed circle",
+35
+],
+[
+"fairy ring",
+35
+],
+[
+"rhombic hexahedron",
+35
+],
+[
+"golden rectangle",
+34
+],
+[
+"hexagram",
+34
+],
+[
+"unit square",
+34
+],
+[
+"Jerusalem cross",
+34
+],
+[
+"voxel",
+34
+],
+[
+"monogon",
+33
+],
+[
+"Newton's rings",
+33
+],
+[
+"incircle and excircles of a triangle",
+32
+],
+[
+"Kepler triangle",
+32
+],
+[
+"color wheel",
+32
+],
+[
+"antiprism",
+31
+],
+[
+"convex hull",
+31
+],
+[
+"golden triangle",
+31
+],
+[
+"cross of Lorraine",
+31
+],
+[
+"Russian Orthodox cross",
+31
+],
+[
+"stop codon",
+31
+],
+[
+"truncated icosahedron",
+31
+],
+[
+"boundary",
+30
+],
+[
+"Lauburu",
+29
+],
+[
+"rhombic dodecahedron",
+29
+],
+[
+"semicircle",
+29
+],
+[
+"light cone",
+29
+],
+[
+"isosceles trapezoid",
+29
+],
+[
+"bipyramid",
+29
+],
+[
+"sagittal plane",
+29
+],
+[
+"pentomino",
+29
+],
+[
+"Catalan solid",
+29
+],
+[
+"galactic plane",
+29
+],
+[
+"regular star polygon",
+29
+],
+[
+"frustum",
+29
+],
+[
+"cuboctahedron",
+29
+],
+[
+"Kepler–Poinsot polyhedron",
+28
+],
+[
+"triacontagon",
+28
+],
+[
+"Penrose tiling",
+28
+],
+[
+"rhombicuboctahedron",
+28
+],
+[
+"truncated tetrahedron",
+28
+],
+[
+"truncated cube",
+28
+],
+[
+"Simson line",
+28
+],
+[
+"gömböc",
+27
+],
+[
+"square pyramid",
+27
+],
+[
+"tropic",
+27
+],
+[
+"sun cross",
+27
+],
+[
+"pentahedron",
+27
+],
+[
+"quadrant",
+27
+],
+[
+"icosidodecahedron",
+27
+],
+[
+"concentric",
+27
+],
+[
+"skew lines",
+27
+],
+[
+"rhombicosidodecahedron",
+27
+],
+[
+"regular polyhedron",
+27
+],
+[
+"patriarchal cross",
+27
+],
+[
+"truncated octahedron",
+27
+],
+[
+"dual polyhedron",
+26
+],
+[
+"deltahedron",
+26
+],
+[
+"regular icosahedron",
+26
+],
+[
+"chiliagon",
+26
+],
+[
+"equilateral polygon",
+26
+],
+[
+"lapel",
+26
+],
+[
+"polygonal chain",
+26
+],
+[
+"truncated dodecahedron",
+26
+],
+[
+"orbital plane",
+26
+],
+[
+"snub cube",
+25
+],
+[
+"regular octahedron",
+25
+],
+[
+"regular dodecahedron",
+25
+],
+[
+"prismatoid",
+25
+],
+[
+"net",
+25
+],
+[
+"simple polygon",
+25
+],
+[
+"grain boundary",
+25
+],
+[
+"cross pattée",
+25
+],
+[
+"Johnson solid",
+24
+],
+[
+"rhombic triacontahedron",
+24
+],
+[
+"spherical triangle",
+24
+],
+[
+"Serbian cross",
+24
+],
+[
+"octagram",
+24
+],
+[
+"aircraft principal axes",
+24
+],
+[
+"truncated cuboctahedron",
+24
+],
+[
+"rhomboid",
+23
+],
+[
+"radius of curvature",
+23
+],
+[
+"deltoidal icositetrahedron",
+23
+],
+[
+"concave polygon",
+23
+],
+[
+"triquetra",
+23
+],
+[
+"small circle",
+23
+],
+[
+"unit cube",
+23
+],
+[
+"tetromino",
+23
+],
+[
+"radical axis",
+23
+],
+[
+"cevian",
+23
+],
+[
+"base",
+23
+],
+[
+"snub dodecahedron",
+23
+],
+[
+"half-plane",
+23
+],
+[
+"axis of rotation",
+23
+],
+[
+"truncated icosidodecahedron",
+23
+],
+[
+"polygon mesh",
+22
+],
+[
+"pentagonal pyramid",
+22
+],
+[
+"triangular prism",
+22
+],
+[
+"hydraulic diameter",
+22
+],
+[
+"trapezohedron",
+22
+],
+[
+"start codon",
+22
+],
+[
+"invariable plane",
+22
+],
+[
+"radome",
+22
+],
+[
+"unit sphere",
+21
+],
+[
+"triakis tetrahedron",
+21
+],
+[
+"Ley line",
+21
+],
+[
+"triangular bipyramid",
+21
+],
+[
+"Heronian triangle",
+21
+],
+[
+"4-polytope",
+21
+],
+[
+"semiregular polyhedron",
+21
+],
+[
+"65537-gon",
+21
+],
+[
+"equiangular polygon",
+21
+],
+[
+"acute triangle",
+21
+],
+[
+"Newton line",
+21
+],
+[
+"triangular cupola",
+21
+],
+[
+"Apollonian circles",
+21
+],
+[
+"polyomino",
+20
+],
+[
+"decahedron",
+20
+],
+[
+"daisy wheel printing",
+20
+],
+[
+"Karpman drama triangle",
+20
+],
+[
+"pentagonal hexecontahedron",
+20
+],
+[
+"triakis octahedron",
+20
+],
+[
+"reverse",
+20
+],
+[
+"myriagon",
+20
+],
+[
+"unit disk",
+20
+],
+[
+"particle horizon",
+20
+],
+[
+"pentakis dodecahedron",
+20
+],
+[
+"obtuse triangle",
+20
+],
+[
+"apeirogon",
+20
+],
+[
+"half-space",
+20
+],
+[
+"tetrakis hexahedron",
+20
+],
+[
+"pentagonal rotunda",
+20
+],
+[
+"square cupola",
+20
+],
+[
+"polygonal dihedron",
+20
+],
+[
+"Huguenot cross",
+20
+],
+[
+"deltoidal hexecontahedron",
+19
+],
+[
+"small stellated dodecahedron",
+19
+],
+[
+"coronal plane",
+19
+],
+[
+"regular tetrahedron",
+19
+],
+[
+"Occitan cross",
+19
+],
+[
+"great dodecahedron",
+19
+],
+[
+"cupola",
+19
+],
+[
+"heptagram",
+19
+],
+[
+"pentagonal bipyramid",
+19
+],
+[
+"elongated square gyrobicupola",
+19
+],
+[
+"wedge",
+19
+],
+[
+"Russian cross",
+19
+],
+[
+"pedal triangle",
+19
+],
+[
+"enneagram",
+19
+],
+[
+"inscribed sphere",
+19
+],
+[
+"120-cell",
+19
+],
+[
+"pentagonal cupola",
+19
+],
+[
+"complex unit circle",
+18
+],
+[
+"elongated pentagonal pyramid",
+18
+],
+[
+"elongated square pyramid",
+18
+],
+[
+"disdyakis triacontahedron",
+18
+],
+[
+"triakis icosahedron",
+18
+],
+[
+"pentagonal icositetrahedron",
+18
+],
+[
+"disdyakis dodecahedron",
+18
+],
+[
+"transverse plane",
+18
+],
+[
+"great stellated dodecahedron",
+18
+],
+[
+"hyperbolic triangle",
+18
+],
+[
+"bore",
+18
+],
+[
+"uniform polyhedron",
+18
+],
+[
+"bicentric quadrilateral",
+18
+],
+[
+"vesica piscis",
+18
+],
+[
+"truncated pyramid",
+18
+],
+[
+"five-pointed star",
+18
+],
+[
+"Tissot's indicatrix",
+18
+],
+[
+"golden rhombus",
+18
+],
+[
+"vertex figure",
+18
+],
+[
+"megagon",
+18
+],
+[
+"cross potent",
+18
+],
+[
+"great icosahedron",
+18
+],
+[
+"elongated triangular pyramid",
+18
+],
+[
+"pentagonal prism",
+17
+],
+[
+"heptahedron",
+17
+],
+[
+"circumscribed sphere",
+17
+],
+[
+"crosses in heraldry",
+17
+],
+[
+"semi-axis",
+17
+],
+[
+"16-cell",
+17
+],
+[
+"regular gyrobifastigium",
+17
+],
+[
+"regular polytope",
+17
+],
+[
+"sagitta",
+17
+],
+[
+"facet",
+17
+],
+[
+"hour circle",
+17
+],
+[
+"icositetragon",
+17
+],
+[
+"scalene triangle",
+17
+],
+[
+"scutoid",
+17
+],
+[
+"tangential polygon",
+17
+],
+[
+"star domain",
+17
+],
+[
+"truncated cone",
+17
+],
+[
+"cross-polytope",
+16
+],
+[
+"elongated pentagonal rotunda",
+16
+],
+[
+"gyroelongated square pyramid",
+16
+],
+[
+"crux gemmata",
+16
+],
+[
+"papal cross",
+16
+],
+[
+"bilunabirotunda",
+16
+],
+[
+"gudgeon pin",
+16
+],
+[
+"stellated octahedron",
+16
+],
+[
+"elongated triangular bipyramid",
+16
+],
+[
+"honeycomb structure",
+16
+],
+[
+"gyroelongated triangular bicupola",
+16
+],
+[
+"257-gon",
+16
+],
+[
+"elongated triangular cupola",
+16
+],
+[
+"Newton disc",
+16
+],
+[
+"hexagonal prism",
+16
+],
+[
+"zonohedron",
+16
+],
+[
+"hexomino",
+16
+],
+[
+"600-cell",
+16
+],
+[
+"real line",
+16
+],
+[
+"gyroelongated square bipyramid",
+16
+],
+[
+"lune",
+16
+],
+[
+"pentagonal orthobirotunda",
+16
+],
+[
+"24-cell",
+16
+],
+[
+"excircle",
+16
+],
+[
+"triangular orthobicupola",
+16
+],
+[
+"honeycomb",
+15
+],
+[
+"gyroradius",
+15
+],
+[
+"snub disphenoid",
+15
+],
+[
+"gyroelongated triangular cupola",
+15
+],
+[
+"polycube",
+15
+],
+[
+"gyroelongated pentagonal pyramid",
+15
+],
+[
+"midsphere",
+15
+],
+[
+"delimiter",
+15
+],
+[
+"gyroelongated pentagonal cupola",
+15
+],
+[
+"gyroelongated square cupola",
+15
+],
+[
+"disphenocingulum",
+15
+],
+[
+"pentacontagon",
+15
+],
+[
+"elongated square bipyramid",
+15
+],
+[
+"elongated pentagonal bipyramid",
+15
+],
+[
+"square orthobicupola",
+15
+],
+[
+"pentagonal orthobicupola",
+15
+],
+[
+"square gyrobicupola",
+15
+],
+[
+"gyroelongated pentagonal bicupola",
+15
+],
+[
+"gyroelongated pentagonal birotunda",
+15
+],
+[
+"gyroelongated pentagonal cupolarotunda",
+15
+],
+[
+"polyhedral compound",
+15
+],
+[
+"triaugmented triangular prism",
+15
+],
+[
+"Archimedes' twin circles",
+15
+],
+[
+"Euler brick",
+15
+],
+[
+"gyroelongated square bicupola",
+15
+],
+[
+"scale marking",
+15
+],
+[
+"apex",
+15
+],
+[
+"tromino",
+15
+],
+[
+"parallel line",
+15
+],
+[
+"triangular tiling",
+15
+],
+[
+"hectogon",
+15
+],
+[
+"medial triangle",
+15
+],
+[
+"elongated square cupola",
+15
+],
+[
+"pentagonal gyrocupolarotunda",
+15
+],
+[
+"antiparallelogram",
+15
+],
+[
+"gyroelongated pentagonal rotunda",
+15
+],
+[
+"elongated pentagonal cupola",
+15
+],
+[
+"Tangent lines to circles",
+15
+],
+[
+"hebesphenomegacorona",
+15
+],
+[
+"right kite",
+15
+],
+[
+"tangential trapezoid",
+15
+],
+[
+"pentagonal gyrobicupola",
+15
+],
+[
+"Bolnisi cross",
+15
+],
+[
+"disphenoid",
+15
+],
+[
+"pentagonal orthocupolarotunda",
+15
+],
+[
+"square antiprism",
+14
+],
+[
+"effective radius",
+14
+],
+[
+"augmented triangular prism",
+14
+],
+[
+"biaugmented pentagonal prism",
+14
+],
+[
+"biaugmented triangular prism",
+14
+],
+[
+"tetracontagon",
+14
+],
+[
+"land and water hemispheres",
+14
+],
+[
+"Laplace plane",
+14
+],
+[
+"acute or obtuse triangle",
+14
+],
+[
+"sphenomegacorona",
+14
+],
+[
+"Brocard circle",
+14
+],
+[
+"elongated pentagonal gyrocupolarotunda",
+14
+],
+[
+"elongated pentagonal gyrobirotunda",
+14
+],
+[
+"elongated pentagonal orthobirotunda",
+14
+],
+[
+"elongated pentagonal gyrobicupola",
+14
+],
+[
+"triaugmented hexagonal prism",
+14
+],
+[
+"sphenocorona",
+14
+],
+[
+"parabiaugmented hexagonal prism",
+14
+],
+[
+"elongated pentagonal orthobicupola",
+14
+],
+[
+"triangular hebesphenorotunda",
+14
+],
+[
+"metabiaugmented hexagonal prism",
+14
+],
+[
+"constructible polygon",
+14
+],
+[
+"snub square antiprism",
+14
+],
+[
+"augmented dodecahedron",
+14
+],
+[
+"tridiminished icosahedron",
+14
+],
+[
+"elongated pentagonal orthocupolarotunda",
+14
+],
+[
+"elongated triangular orthobicupola",
+14
+],
+[
+"elongated triangular gyrobicupola",
+14
+],
+[
+"isogonal figure",
+14
+],
+[
+"tetrahemihexahedron",
+14
+],
+[
+"augmented pentagonal prism",
+14
+],
+[
+"orthodiagonal quadrilateral",
+14
+],
+[
+"decagram",
+14
+],
+[
+"convex polytope",
+14
+],
+[
+"orthic triangle",
+14
+],
+[
+"continental divide",
+14
+],
+[
+"augmented hexagonal prism",
+14
+],
+[
+"hosohedron",
+14
+],
+[
+"Salinon",
+14
+],
+[
+"square tiling",
+13
+],
+[
+"pentagonal antiprism",
+13
+],
+[
+"curve of constant width",
+13
+],
+[
+"Saccheri quadrilateral",
+13
+],
+[
+"augmented sphenocorona",
+13
+],
+[
+"transect",
+13
+],
+[
+"star polytope",
+13
+],
+[
+"4-simplex",
+13
+],
+[
+"biaugmented truncated cube",
+13
+],
+[
+"Malfatti circles",
+13
+],
+[
+"parabidiminished rhombicosidodecahedron",
+13
+],
+[
+"augmented truncated tetrahedron",
+13
+],
+[
+"icosihenagon",
+13
+],
+[
+"osculating plane",
+13
+],
+[
+"isotoxal figure",
+13
+],
+[
+"skew polygon",
+13
+],
+[
+"Wang tile",
+13
+],
+[
+"barnstar",
+13
+],
+[
+"augmented truncated cube",
+13
+],
+[
+"lens",
+13
+],
+[
+"5-cube",
+13
+],
+[
+"tetradecahedron",
+13
+],
+[
+"compound of five tetrahedra",
+12
+],
+[
+"semi-minor axis",
+12
+],
+[
+"galactic quadrant",
+12
+],
+[
+"great retrosnub icosidodecahedron",
+12
+],
+[
+"geometric primitive",
+12
+],
+[
+"augmented truncated dodecahedron",
+12
+],
+[
+"augmented tridiminished icosahedron",
+12
+],
+[
+"anatomical plane",
+12
+],
+[
+"coordinate axis",
+12
+],
+[
+"parabiaugmented truncated dodecahedron",
+12
+],
+[
+"triaugmented dodecahedron",
+12
+],
+[
+"trigyrate rhombicosidodecahedron",
+12
+],
+[
+"isosceles right triangle",
+12
+],
+[
+"gyrate bidiminished rhombicosidodecahedron",
+12
+],
+[
+"convex cone",
+12
+],
+[
+"metabidiminished icosahedron",
+12
+],
+[
+"triaugmented truncated dodecahedron",
+12
+],
+[
+"decagonal prism",
+12
+],
+[
+"rotunda",
+12
+],
+[
+"metabiaugmented dodecahedron",
+12
+],
+[
+"gyrate rhombicosidodecahedron",
+12
+],
+[
+"Steiner inellipse",
+12
+],
+[
+"space diagonal",
+12
+],
+[
+"uniform star polyhedron",
+12
+],
+[
+"tridiminished rhombicosidodecahedron",
+12
+],
+[
+"dodecadodecahedron",
+12
+],
+[
+"dodecagram",
+12
+],
+[
+"hexagonal tiling",
+12
+],
+[
+"great icosidodecahedron",
+12
+],
+[
+"pentagonal trapezohedron",
+12
+],
+[
+"nonomino",
+12
+],
+[
+"pentagon tiling",
+12
+],
+[
+"isohedral figure",
+12
+],
+[
+"Pappus chain",
+12
+],
+[
+"parabigyrate rhombicosidodecahedron",
+12
+],
+[
+"enneahedron",
+12
+],
+[
+"ex-tangential quadrilateral",
+12
+],
+[
+"hexagonal pyramid",
+12
+],
+[
+"metabiaugmented truncated dodecahedron",
+12
+],
+[
+"Prince Rupert's cube",
+12
+],
+[
+"Star of Venus",
+12
+],
+[
+"Szilassi polyhedron",
+12
+],
+[
+"Weaire–Phelan structure",
+12
+],
+[
+"metabigyrate rhombicosidodecahedron",
+12
+],
+[
+"parabiaugmented dodecahedron",
+12
+],
+[
+"antiparallel line",
+11
+],
+[
+"ice disc",
+11
+],
+[
+"plane of reference",
+11
+],
+[
+"pompeblêd",
+11
+],
+[
+"Carlyle circle",
+11
+],
+[
+"bigyrate diminished rhombicosidodecahedron",
+11
+],
+[
+"diminished rhombicosidodecahedron",
+11
+],
+[
+"cross bottony",
+11
+],
+[
+"metagyrate diminished rhombicosidodecahedron",
+11
+],
+[
+"metabidiminished rhombicosidodecahedron",
+11
+],
+[
+"paragyrate diminished rhombicosidodecahedron",
+11
+],
+[
+"heptomino",
+11
+],
+[
+"octomino",
+11
+],
+[
+"regular grid",
+11
+],
+[
+"nonconvex great rhombicosidodecahedron",
+11
+],
+[
+"great dodecahemidodecahedron",
+11
+],
+[
+"spherical polyhedron",
+11
+],
+[
+"truncated great dodecahedron",
+11
+],
+[
+"hexagonal antiprism",
+11
+],
+[
+"tiling by regular polygons",
+11
+],
+[
+"icosidigon",
+11
+],
+[
+"trigonal trapezohedron",
+11
+],
+[
+"domino",
+11
+],
+[
+"convex polyhedron",
+11
+],
+[
+"hendecagram",
+11
+],
+[
+"hyperrectangle",
+11
+],
+[
+"Schwarz triangle",
+11
+],
+[
+"regular pentagon",
+11
+],
+[
+"great rhombihexahedron",
+11
+],
+[
+"great snub dodecicosidodecahedron",
+11
+],
+[
+"bicentric polygon",
+11
+],
+[
+"Order of Christ Cross",
+11
+],
+[
+"Einstein radius",
+11
+],
+[
+"quadrilateral hexahedron",
+11
+],
+[
+"radix character",
+11
+],
+[
+"Longitudinal static stability",
+11
+],
+[
+"unicursal hexagram",
+11
+],
+[
+"danda",
+11
+],
+[
+"cross fleury",
+11
+],
+[
+"compound of five octahedra",
+10
+],
+[
+"right trapezoid",
+10
+],
+[
+"inverted snub dodecadodecahedron",
+10
+],
+[
+"great inverted snub icosidodecahedron",
+10
+],
+[
+"icosidodecadodecahedron",
+10
+],
+[
+"snub icosidodecadodecahedron",
+10
+],
+[
+"bifrustum",
+10
+],
+[
+"star-shaped polygon",
+10
+],
+[
+"Black Star of Africa",
+10
+],
+[
+"small dodecahemidodecahedron",
+10
+],
+[
+"small dodecahemicosahedron",
+10
+],
+[
+"great dodecicosidodecahedron",
+10
+],
+[
+"great icosihemidodecahedron",
+10
+],
+[
+"great ditrigonal dodecicosidodecahedron",
+10
+],
+[
+"great dodecicosahedron",
+10
+],
+[
+"small ditrigonal dodecicosidodecahedron",
+10
+],
+[
+"truncated dodecadodecahedron",
+10
+],
+[
+"bicupola",
+10
+],
+[
+"rhombidodecadodecahedron",
+10
+],
+[
+"truncated great icosahedron",
+10
+],
+[
+"cubitruncated cuboctahedron",
+10
+],
+[
+"cubohemioctahedron",
+10
+],
+[
+"Brocard triangle",
+10
+],
+[
+"polyform",
+10
+],
+[
+"octahemioctahedron",
+10
+],
+[
+"octagonal prism",
+10
+],
+[
+"great dirhombicosidodecahedron",
+10
+],
+[
+"great cubicuboctahedron",
+10
+],
+[
+"trihexagonal tiling",
+10
+],
+[
+"special right triangle",
+10
+],
+[
+"icositruncated dodecadodecahedron",
+10
+],
+[
+"great truncated icosidodecahedron",
+10
+],
+[
+"great truncated cuboctahedron",
+10
+],
+[
+"great stellated truncated dodecahedron",
+10
+],
+[
+"great snub icosidodecahedron",
+10
+],
+[
+"regular hexagon",
+10
+],
+[
+"great rhombidodecahedron",
+10
+],
+[
+"equidiagonal quadrilateral",
+10
+],
+[
+"final stellation of the icosahedron",
+10
+],
+[
+"small retrosnub icosicosidodecahedron",
+10
+],
+[
+"lunar mansion",
+10
+],
+[
+"small stellated truncated dodecahedron",
+10
+],
+[
+"small snub icosicosidodecahedron",
+10
+],
+[
+"small rhombihexahedron",
+10
+],
+[
+"Császár polyhedron",
+10
+],
+[
+"Johnson circles",
+10
+],
+[
+"snub dodecadodecahedron",
+10
+],
+[
+"quasiregular polyhedron",
+10
+],
+[
+"low poly",
+10
+],
+[
+"compound of five cubes",
+9
+],
+[
+"great icosicosidodecahedron",
+9
+],
+[
+"snub square tiling",
+9
+],
+[
+"small ditrigonal icosidodecahedron",
+9
+],
+[
+"regular nonagon",
+9
+],
+[
+"Nominal Pipe Size",
+9
+],
+[
+"word divider",
+9
+],
+[
+"spherical lune",
+9
+],
+[
+"small dodecicosahedron",
+9
+],
+[
+"great dodecahemicosahedron",
+9
+],
+[
+"small icosicosidodecahedron",
+9
+],
+[
+"cell",
+9
+],
+[
+"rhombicosahedron",
+9
+],
+[
+"gyroelongated bipyramid",
+9
+],
+[
+"ditrigonal dodecadodecahedron",
+9
+],
+[
+"truncated square tiling",
+9
+],
+[
+"small icosihemidodecahedron",
+9
+],
+[
+"stellated truncated hexahedron",
+9
+],
+[
+"small cubicuboctahedron",
+9
+],
+[
+"great ditrigonal icosidodecahedron",
+9
+],
+[
+"nonconvex great rhombicuboctahedron",
+9
+],
+[
+"great disnub dirhombidodecahedron",
+9
+],
+[
+"prismatic uniform polyhedron",
+9
+],
+[
+"background",
+9
+],
+[
+"absolutely convex set",
+9
+],
+[
+"heptagonal prism",
+9
+],
+[
+"Rhombic icosahedron",
+9
+],
+[
+"polyiamond",
+9
+],
+[
+"flexible polyhedron",
+9
+],
+[
+"hemi-dodecahedron",
+9
+],
+[
+"hemi-icosahedron",
+9
+],
+[
+"rhombo-hexagonal dodecahedron",
+9
+],
+[
+"Lambert quadrilateral",
+9
+],
+[
+"Frankfurt plane",
+9
+],
+[
+"5-simplex",
+9
+],
+[
+"Spidron",
+9
+],
+[
+"demihypercube",
+9
+],
+[
+"dual polygon",
+9
+],
+[
+"small dodecicosidodecahedron",
+9
+],
+[
+"gnomon",
+9
+],
+[
+"normal vector",
+9
+],
+[
+"small rhombidodecahedron",
+9
+],
+[
+"ideal triangle",
+9
+],
+[
+"integer triangle",
+9
+],
+[
+"aperiodic tiling",
+9
+],
+[
+"maximal torus",
+8
+],
+[
+"hendecahedron",
+8
+],
+[
+"8-cube",
+8
+],
+[
+"regular pentachoron",
+8
+],
+[
+"toroidal polyhedron",
+8
+],
+[
+"compound of three cubes",
+8
+],
+[
+"Moth (fractal)",
+8
+],
+[
+"graticule",
+8
+],
+[
+"truncated triangular trapezohedron",
+8
+],
+[
+"snub hexagonal tiling",
+8
+],
+[
+"planum temporale",
+8
+],
+[
+"triple divide",
+8
+],
+[
+"scalenohedron",
+8
+],
+[
+"regular heptadecagon",
+8
+],
+[
+"circles of Apollonius",
+8
+],
+[
+"domino tiling",
+8
+],
+[
+"median plane",
+8
+],
+[
+"magic circle",
+8
+],
+[
+"turning radius",
+8
+],
+[
+"octagonal antiprism",
+8
+],
+[
+"dorsiventral",
+8
+],
+[
+"Lemoine circle",
+8
+],
+[
+"Agadez cross",
+8
+],
+[
+"elongated bipyramid",
+8
+],
+[
+"Elongated triangular tiling",
+8
+],
+[
+"hexagonal bipyramid",
+8
+],
+[
+"dodecagonal prism",
+8
+],
+[
+"Kaleidocycle",
+8
+],
+[
+"Cross of Alcoraz",
+8
+],
+[
+"enneagonal prism",
+8
+],
+[
+"Mandart inellipse",
+8
+],
+[
+"hemicube",
+8
+],
+[
+"tetragonal trapezohedron",
+8
+],
+[
+"trapezo-rhombic dodecahedron",
+8
+],
+[
+"pentagrammic prism",
+8
+],
+[
+"regular Reuleaux polygon",
+8
+],
+[
+"11-cell",
+8
+],
+[
+"Archiepiscopal cross",
+8
+],
+[
+"Archimedean circle",
+8
+],
+[
+"4294967295-gon",
+8
+],
+[
+"Clifford torus",
+8
+],
+[
+"compound of cube and octahedron",
+8
+],
+[
+"compound of dodecahedron and icosahedron",
+8
+],
+[
+"cubic honeycomb",
+8
+],
+[
+"extouch triangle",
+8
+],
+[
+"prototile",
+8
+],
+[
+"golygon",
+8
+],
+[
+"octadecahedron",
+8
+],
+[
+"near-miss Johnson solid",
+8
+],
+[
+"Pythagorean tiling",
+8
+],
+[
+"duoprism",
+8
+],
+[
+"hexadecahedron",
+7
+],
+[
+"Newton polygon",
+7
+],
+[
+"Bilinski dodecahedron",
+7
+],
+[
+"harmonic quadrilateral",
+7
+],
+[
+"axis of symmetry",
+7
+],
+[
+"tridecahedron",
+7
+],
+[
+"decomino",
+7
+],
+[
+"cross of Camargue",
+7
+],
+[
+"regular heptagon",
+7
+],
+[
+"Mach cone",
+7
+],
+[
+"Tucker circle",
+7
+],
+[
+"tangential triangle",
+7
+],
+[
+"7-cube",
+7
+],
+[
+"9-cube",
+7
+],
+[
+"10-cubeihgq",
+7
+],
+[
+"parallelohedron",
+7
+],
+[
+"convex regular polychoron",
+7
+],
+[
+"circular triangle",
+7
+],
+[
+"6-cube",
+7
+],
+[
+"equivalent spherical diameter",
+7
+],
+[
+"pentagrammic antiprism",
+7
+],
+[
+"Steiner ellipse",
+7
+],
+[
+"Blue Sky with a White Sun",
+7
+],
+[
+"nuclear radius",
+7
+],
+[
+"crossbuck",
+7
+],
+[
+"Maurer rose",
+7
+],
+[
+"polyhex",
+7
+],
+[
+"uniform polyhedron compound",
+7
+],
+[
+"truncated trapezohedron",
+7
+],
+[
+"Spieker circle",
+7
+],
+[
+"rhombic enneacontahedron",
+7
+],
+[
+"birotunda",
+7
+],
+[
+"Bitangent",
+7
+],
+[
+"Mixtilinear Incircle",
+7
+],
+[
+"Jessen's icosahedron",
+7
+],
+[
+"pinwheel tiling",
+7
+],
+[
+"concentric circles",
+7
+],
+[
+"Order-7 triangular tiling",
+7
+],
+[
+"parallelogon",
+7
+],
+[
+"rectified 5-cell",
+7
+],
+[
+"Rhombic dodecahedral honeycomb",
+7
+],
+[
+"rhombille tiling",
+7
+],
+[
+"small triambic icosahedron",
+7
+],
+[
+"third stellation of the icosahedron",
+7
+],
+[
+"uniform coloring",
+7
+],
+[
+"pinhole occluder",
+7
+],
+[
+"Missoria",
+6
+],
+[
+"ninth stellation of the icosahedron",
+6
+],
+[
+"Orthologic triangles",
+6
+],
+[
+"Alfvén surface",
+6
+],
+[
+"tetrakis square tiling",
+6
+],
+[
+"icositetrahedron",
+6
+],
+[
+"nuclear drip line",
+6
+],
+[
+"snub polyhedron",
+6
+],
+[
+"Soddy circle",
+6
+],
+[
+"Facing colour",
+6
+],
+[
+"Goldberg polyhedron",
+6
+],
+[
+"regular octagon",
+6
+],
+[
+"First stellation of rhombic dodecahedron",
+6
+],
+[
+"heptadecahedron",
+6
+],
+[
+"hemi-octahedron",
+6
+],
+[
+"n-ellipse",
+6
+],
+[
+"permutohedron",
+6
+],
+[
+"enneadecahedron",
+6
+],
+[
+"Cevian triangle",
+6
+],
+[
+"puzzle globe",
+6
+],
+[
+"Color wheel theory of love",
+6
+],
+[
+"polyabolo",
+6
+],
+[
+"tangent plane",
+6
+],
+[
+"decagonal antiprism",
+6
+],
+[
+"two-barred cross",
+6
+],
+[
+"Chamfered cube",
+6
+],
+[
+"star regular polychoron",
+6
+],
+[
+"Bricard octahedron",
+6
+],
+[
+"Steffen's polyhedron",
+6
+],
+[
+"hexacontagon",
+6
+],
+[
+"triangle mesh",
+6
+],
+[
+"6-simplex",
+6
+],
+[
+"Truncated rhombic triacontahedron",
+6
+],
+[
+"icositrigon",
+6
+],
+[
+"Taylor circle",
+6
+],
+[
+"Saint Andrew's Cross",
+6
+],
+[
+"hendecagonal prism",
+6
+],
+[
+"pyritohedron",
+6
+],
+[
+"brake disc",
+6
+],
+[
+"10-simplex",
+6
+],
+[
+"57-cell",
+6
+],
+[
+"7-simplex",
+6
+],
+[
+"associahedron",
+6
+],
+[
+"monotone polygon",
+6
+],
+[
+"Boerdijk–Coxeter helix",
+6
+],
+[
+"biggest little polygon",
+6
+],
+[
+"central line",
+6
+],
+[
+"compound of two icosahedra",
+6
+],
+[
+"convex body",
+6
+],
+[
+"great rhombihexacron",
+6
+],
+[
+"hemipolyhedron",
+6
+],
+[
+"heptagonal antiprism",
+6
+],
+[
+"Heptagonal tiling",
+6
+],
+[
+"hexagonal trapezohedron",
+6
+],
+[
+"Schönhardt polyhedron",
+6
+],
+[
+"sphinx tiling",
+6
+],
+[
+"stadium",
+6
+],
+[
+"tetrahedral-octahedral honeycomb",
+6
+],
+[
+"triangular bifrustum",
+6
+],
+[
+"Truchet tiles",
+6
+],
+[
+"uniform tiling",
+6
+],
+[
+"thousands separator",
+6
+],
+[
+"Lute of Pythagoras",
+5
+],
+[
+"apeirogonal prism",
+5
+],
+[
+"minimum railway curve radius",
+5
+],
+[
+"truncated 600-cell",
+5
+],
+[
+"Medial rhombic triacontahedron",
+5
+],
+[
+"pentadecahedron",
+5
+],
+[
+"cyclic polygon",
+5
+],
+[
+"coordinate plane",
+5
+],
+[
+"hexecontahedron",
+5
+],
+[
+"rhombic hexecontahedron",
+5
+],
+[
+"geodesic grid",
+5
+],
+[
+"linear matrix inequality",
+5
+],
+[
+"pitch axis",
+5
+],
+[
+"plane–plane intersection",
+5
+],
+[
+"polytope family",
+5
+],
+[
+"cyclic polytope",
+5
+],
+[
+"hexacontatetragon",
+5
+],
+[
+"vertical plane",
+5
+],
+[
+"uniform polychoron",
+5
+],
+[
+"Robbins pentagon",
+5
+],
+[
+"circumscribed circle for triangle",
+5
+],
+[
+"triacontadigon",
+5
+],
+[
+"enneacontagon",
+5
+],
+[
+"symmetrohedron",
+5
+],
+[
+"heptacontagon",
+5
+],
+[
+"hydrodynamic radius",
+5
+],
+[
+"octacontagon",
+5
+],
+[
+"icosioctagon",
+5
+],
+[
+"icosipentagon",
+5
+],
+[
+"Skew apeirohedron",
+5
+],
+[
+"Truncated triakis tetrahedron",
+5
+],
+[
+"triacontatetragon",
+5
+],
+[
+"grand antiprism",
+5
+],
+[
+"truncated 5-cell",
+5
+],
+[
+"Vertex arrangement",
+5
+],
+[
+"semiregular polytope",
+5
+],
+[
+"trim",
+5
+],
+[
+"area under graph",
+5
+],
+[
+"simple polytope",
+5
+],
+[
+"superquadric",
+5
+],
+[
+"fundamental polygon",
+5
+],
+[
+"8-simplex",
+5
+],
+[
+"zonogon",
+5
+],
+[
+"axes conventions",
+5
+],
+[
+"Birkhoff polytope",
+5
+],
+[
+"borrowed scenery",
+5
+],
+[
+"Calabi triangle",
+5
+],
+[
+"compound of four hexagonal prisms",
+5
+],
+[
+"compound of four octahedra",
+5
+],
+[
+"compound of four triangular prisms",
+5
+],
+[
+"compound of great icosahedron and great stellated dodecahedron",
+5
+],
+[
+"compound of six cubes with rotational freedom",
+5
+],
+[
+"compound of small stellated dodecahedron and great dodecahedron",
+5
+],
+[
+"compound of ten octahedra",
+5
+],
+[
+"compound of three octahedra",
+5
+],
+[
+"compound of twenty octahedra",
+5
+],
+[
+"Convex uniform honeycomb",
+5
+],
+[
+"elongated pyramid",
+5
+],
+[
+"great grand stellated 120-cell",
+5
+],
+[
+"Great stellapentakis dodecahedron",
+5
+],
+[
+"hypercubic honeycomb",
+5
+],
+[
+"monostatic polytope",
+5
+],
+[
+"octagonal bipyramid",
+5
+],
+[
+"Octagonal tiling",
+5
+],
+[
+"Order-4 pentagonal tiling",
+5
+],
+[
+"Order-8 triangular tiling",
+5
+],
+[
+"pentagonal bifrustum",
+5
+],
+[
+"picture plane",
+5
+],
+[
+"rectified 120-cell",
+5
+],
+[
+"regular 4-polytope",
+5
+],
+[
+"scrub radius",
+5
+],
+[
+"simplicial polytope",
+5
+],
+[
+"small rhombihexacron",
+5
+],
+[
+"Splitter",
+5
+],
+[
+"square bifrustum",
+5
+],
+[
+"supporting line",
+5
+],
+[
+"tiling with rectangles",
+5
+],
+[
+"transpyloric plane",
+5
+],
+[
+"trirectangular tetrahedron",
+5
+],
+[
+"truncated 120-cell",
+5
+],
+[
+"vertical circle",
+5
+],
+[
+"cross of Calatrava",
+5
+],
+[
+"Spherical circle",
+5
+],
+[
+"compound of six pentagonal antiprisms",
+4
+],
+[
+"monohedron",
+4
+],
+[
+"compound of ten triangular prisms",
+4
+],
+[
+"compound of twenty octahedra with rotational freedom",
+4
+],
+[
+"Waterman polyhedron",
+4
+],
+[
+"occipital plane",
+4
+],
+[
+"Tetrahemihexacron",
+4
+],
+[
+"Nordic cross",
+4
+],
+[
+"polar triangle",
+4
+],
+[
+"complex polytope",
+4
+],
+[
+"bitruncated 120-cell",
+4
+],
+[
+"Shaft cross",
+4
+],
+[
+"Sauter mean diameter",
+4
+],
+[
+"apeirogonal hosohedron",
+4
+],
+[
+"diminished trapezohedron",
+4
+],
+[
+"holyhedron",
+4
+],
+[
+"intertubercular plane",
+4
+],
+[
+"Infinite-order triangular tiling",
+4
+],
+[
+"turnback",
+4
+],
+[
+"culet",
+4
+],
+[
+"heptagonal bipyramid",
+4
+],
+[
+"regular tetradecagon",
+4
+],
+[
+"great rhombic triacontahedron",
+4
+],
+[
+"normal plane",
+4
+],
+[
+"right circular cylinder",
+4
+],
+[
+"Schoch line",
+4
+],
+[
+"Circle of equal altitude",
+4
+],
+[
+"teragon",
+4
+],
+[
+"tetracontadigon",
+4
+],
+[
+"general irregular quadrilateral",
+4
+],
+[
+"zonotope",
+4
+],
+[
+"regular skew apeirohedron",
+4
+],
+[
+"Heptagonal triangle",
+4
+],
+[
+"uniform honeycomb",
+4
+],
+[
+"Skew apeirogon",
+4
+],
+[
+"tetracontaoctagon",
+4
+],
+[
+"360-gon",
+4
+],
+[
+"Equidistant set",
+4
+],
+[
+"compound of two snub cubes",
+4
+],
+[
+"compound of five icosahedra",
+4
+],
+[
+"dual uniform polyhedron",
+4
+],
+[
+"circle of antisimilitude",
+4
+],
+[
+"skew quadrilateral",
+4
+],
+[
+"contact triangle",
+4
+],
+[
+"tie ring",
+4
+],
+[
+"dodecagonal antiprism",
+4
+],
+[
+"vertical tangent",
+4
+],
+[
+"closed ball",
+4
+],
+[
+"icosienneagon",
+4
+],
+[
+"geodesic polyhedron",
+4
+],
+[
+"plesiohedron",
+4
+],
+[
+"elongated gyrobifastigium",
+4
+],
+[
+"icosiheptagon",
+4
+],
+[
+"icosihexagon",
+4
+],
+[
+"triacontahexagon",
+4
+],
+[
+"icosahedral 120-cell",
+4
+],
+[
+"longitudinal axis",
+4
+],
+[
+"Truncated order-7 triangular tiling",
+4
+],
+[
+"face diagonal",
+4
+],
+[
+"uniform polytope",
+4
+],
+[
+"Novgorod cross",
+4
+],
+[
+"Scientology cross",
+4
+],
+[
+"5-demicube",
+4
+],
+[
+"5-orthoplex",
+4
+],
+[
+"5-polytope",
+4
+],
+[
+"9-simplex",
+4
+],
+[
+"Ammann–Beenker tiling",
+4
+],
+[
+"apeirogonal antiprism",
+4
+],
+[
+"cantellated 120-cell",
+4
+],
+[
+"complex polygon",
+4
+],
+[
+"compound of eight octahedra with rotational freedom",
+4
+],
+[
+"compound of eight triangular prisms",
+4
+],
+[
+"compound of five cuboctahedra",
+4
+],
+[
+"compound of five cubohemioctahedra",
+4
+],
+[
+"compound of five great cubicuboctahedra",
+4
+],
+[
+"compound of five great dodecahedra",
+4
+],
+[
+"compound of five great icosahedra",
+4
+],
+[
+"compound of five great rhombihexahedra",
+4
+],
+[
+"compound of five nonconvex great rhombicuboctahedra",
+4
+],
+[
+"compound of five octahemioctahedra",
+4
+],
+[
+"compound of five rhombicuboctahedra",
+4
+],
+[
+"compound of five small cubicuboctahedra",
+4
+],
+[
+"compound of five small rhombihexahedra",
+4
+],
+[
+"compound of five stellated truncated hexahedra",
+4
+],
+[
+"compound of five tetrahemihexahedra",
+4
+],
+[
+"compound of five truncated tetrahedra",
+4
+],
+[
+"compound of four octahedra with rotational freedom",
+4
+],
+[
+"compound of six decagonal prisms",
+4
+],
+[
+"compound of six decagrammic prisms",
+4
+],
+[
+"compound of six pentagonal prisms",
+4
+],
+[
+"compound of six pentagrammic prisms",
+4
+],
+[
+"compound of six tetrahedra",
+4
+],
+[
+"compound of six tetrahedra with rotational freedom",
+4
+],
+[
+"compound of ten hexagonal prisms",
+4
+],
+[
+"compound of ten truncated tetrahedra",
+4
+],
+[
+"compound of twelve pentagonal antiprisms with rotational freedom",
+4
+],
+[
+"compound of twelve pentagonal prisms",
+4
+],
+[
+"compound of two great retrosnub icosidodecahedra",
+4
+],
+[
+"compound of two snub dodecahedra",
+4
+],
+[
+"compound of two truncated tetrahedra",
+4
+],
+[
+"decagonal bipyramid",
+4
+],
+[
+"decagonal trapezohedron",
+4
+],
+[
+"Disphenoid tetrahedral honeycomb",
+4
+],
+[
+"duopyramid",
+4
+],
+[
+"elongated cupola",
+4
+],
+[
+"enneagonal antiprism",
+4
+],
+[
+"grand 120-cell",
+4
+],
+[
+"grand 600-cell",
+4
+],
+[
+"grand stellated 120-cell",
+4
+],
+[
+"great 120-cell",
+4
+],
+[
+"great deltoidal icositetrahedron",
+4
+],
+[
+"great dodecicosacron",
+4
+],
+[
+"great grand 120-cell",
+4
+],
+[
+"Great hexacronic icositetrahedron",
+4
+],
+[
+"great icosahedral 120-cell",
+4
+],
+[
+"great pentakis dodecahedron",
+4
+],
+[
+"great stellated 120-cell",
+4
+],
+[
+"great triakis icosahedron",
+4
+],
+[
+"great triakis octahedron",
+4
+],
+[
+"gyroelongated pyramid",
+4
+],
+[
+"Riemannian circle",
+4
+],
+[
+"decagrammic prism",
+4
+],
+[
+"Lemoine hexagon",
+4
+],
+[
+"noble polyhedron",
+4
+],
+[
+"octagrammic antiprism",
+4
+],
+[
+"octagonal trapezohedron",
+4
+],
+[
+"Order-3 apeirogonal tiling",
+4
+],
+[
+"Order-4 apeirogonal tiling",
+4
+],
+[
+"Order-4 octagonal tiling",
+4
+],
+[
+"Order-5 square tiling",
+4
+],
+[
+"Order-8 square tiling",
+4
+],
+[
+"pentagonal polytope",
+4
+],
+[
+"Polydrafter",
+4
+],
+[
+"Prismatic pentagonal tiling",
+4
+],
+[
+"pseudotriangle",
+4
+],
+[
+"rectified 600-cell",
+4
+],
+[
+"rectified tesseract",
+4
+],
+[
+"Reeve tetrahedron",
+4
+],
+[
+"rhombicosacron",
+4
+],
+[
+"runcinated 120-cell",
+4
+],
+[
+"saltair",
+4
+],
+[
+"Schoch circles",
+4
+],
+[
+"small complex icosidodecahedron",
+4
+],
+[
+"small dodecahemidodecacron",
+4
+],
+[
+"Small stellapentakis dodecahedron",
+4
+],
+[
+"small stellated 120-cell",
+4
+],
+[
+"smoothed octagon",
+4
+],
+[
+"subcostal plane",
+4
+],
+[
+"tactical diameter",
+4
+],
+[
+"time horizon",
+4
+],
+[
+"Triangular prismatic honeycomb",
+4
+],
+[
+"Truncated triheptagonal tiling",
+4
+],
+[
+"Umbilical plane",
+4
+],
+[
+"Pentagrammic crossed-antiprism",
+4
+],
+[
+"revers",
+4
+],
+[
+"horizontal plane",
+3
+],
+[
+"perfect cuboid",
+3
+],
+[
+"ordinary cross",
+3
+],
+[
+"Rectified truncated icosahedron",
+3
+],
+[
+"οblique prism",
+3
+],
+[
+"square hosohedron",
+3
+],
+[
+"compound of two snub dodecadodecahedra",
+3
+],
+[
+"compound of six square antiprisms",
+3
+],
+[
+"directrix",
+3
+],
+[
+"Hexahemioctacron",
+3
+],
+[
+"small ditrigonal dodecacronic hexecontahedron",
+3
+],
+[
+"googolgon",
+3
+],
+[
+"antipedal triangle",
+3
+],
+[
+"Roli's cube",
+3
+],
+[
+"north-south running great circle",
+3
+],
+[
+"hexagonal tiling honeycomb",
+3
+],
+[
+"bitruncated 5-cell",
+3
+],
+[
+"Steeple ball",
+3
+],
+[
+"base line",
+3
+],
+[
+"truncated 16-cell",
+3
+],
+[
+"demiregular tiling",
+3
+],
+[
+"improper regular polygon",
+3
+],
+[
+"medial triambic icosahedron",
+3
+],
+[
+"3-3 duoprism",
+3
+],
+[
+"interspinous plane",
+3
+],
+[
+"cubic pyramid",
+3
+],
+[
+"Hanner polytope",
+3
+],
+[
+"neighborly polytope",
+3
+],
+[
+"90-30-60 set square",
+3
+],
+[
+"star",
+3
+],
+[
+"regular decagon",
+3
+],
+[
+"regular hendecagon",
+3
+],
+[
+"regular dodecagon",
+3
+],
+[
+"regular pentadecagon",
+3
+],
+[
+"regular hexadecagon",
+3
+],
+[
+"regular octadecagon",
+3
+],
+[
+"expanded cuboctahedron",
+3
+],
+[
+"icosahedral pyramid",
+3
+],
+[
+"pseudogon",
+3
+],
+[
+"heptagonal pyramid",
+3
+],
+[
+"step and repeat",
+3
+],
+[
+"hemi-cuboctahedron",
+3
+],
+[
+"Maluwana",
+3
+],
+[
+"tachograph disk",
+3
+],
+[
+"Circumcevian triangle",
+3
+],
+[
+"Apeirotope",
+3
+],
+[
+"Moss's Egg",
+3
+],
+[
+"discrete global grid",
+3
+],
+[
+"5-5 duoprism",
+3
+],
+[
+"Stacked polytope",
+3
+],
+[
+"120-gon",
+3
+],
+[
+"image plane",
+3
+],
+[
+"parallelotope",
+3
+],
+[
+"chamfered square tiling",
+3
+],
+[
+"open ball",
+3
+],
+[
+"green cross",
+3
+],
+[
+"Ten of diamonds decahedron",
+3
+],
+[
+"stereohedron",
+3
+],
+[
+"lubber line",
+3
+],
+[
+"Molière radius",
+3
+],
+[
+"triacontatrigon",
+3
+],
+[
+"Heronian tetrahedron",
+3
+],
+[
+"seven-pointed star",
+3
+],
+[
+"circumradius",
+3
+],
+[
+"hyperball",
+3
+],
+[
+"inradius",
+3
+],
+[
+"hydraulic radius",
+3
+],
+[
+"centerline",
+3
+],
+[
+"critical diameter",
+3
+],
+[
+"focal plane",
+3
+],
+[
+"Feuerbach triangle",
+3
+],
+[
+"16-cell honeycomb",
+3
+],
+[
+"4-face",
+3
+],
+[
+"6-orthoplex",
+3
+],
+[
+"apeirogonal tiling",
+3
+],
+[
+"apeirohedron",
+3
+],
+[
+"Avellane cross",
+3
+],
+[
+"beam diameter",
+3
+],
+[
+"pentacontahenagon",
+3
+],
+[
+"blast radius",
+3
+],
+[
+"cantellated 5-cell",
+3
+],
+[
+"cantellated tesseract",
+3
+],
+[
+"grinding disc",
+3
+],
+[
+"compound of five small stellated dodecahedra",
+3
+],
+[
+"compound of five truncated cubes",
+3
+],
+[
+"compound of four tetrahedra",
+3
+],
+[
+"compound of six pentagrammic antiprisms",
+3
+],
+[
+"compound of six pentagrammic crossed-antiprisms",
+3
+],
+[
+"compound of three tetrahedra",
+3
+],
+[
+"compound of three square antiprisms",
+3
+],
+[
+"compound of twelve pentagrammic antiprisms",
+3
+],
+[
+"compound of twelve pentagrammic crossed-antiprisms with rotational freedom",
+3
+],
+[
+"compound of twelve pentagrammic prisms",
+3
+],
+[
+"compound of twelve tetrahedra with rotational freedom",
+3
+],
+[
+"compound of twenty tetrahemihexahedra",
+3
+],
+[
+"compound of twenty triangular prisms",
+3
+],
+[
+"compound of two great dodecahedra",
+3
+],
+[
+"compound of two great icosahedra",
+3
+],
+[
+"compound of two great inverted snub icosidodecahedra",
+3
+],
+[
+"compound of two great snub icosidodecahedra",
+3
+],
+[
+"compound of two inverted snub dodecadodecahedra",
+3
+],
+[
+"compound of two small stellated dodecahedra",
+3
+],
+[
+"compound of two snub icosidodecadodecahedra",
+3
+],
+[
+"dynamic rectangle",
+3
+],
+[
+"elongated hexagonal bipyramid",
+3
+],
+[
+"equilateral pentagon",
+3
+],
+[
+"Gilbert tessellation",
+3
+],
+[
+"Glass microsphere",
+3
+],
+[
+"great complex icosidodecahedron",
+3
+],
+[
+"Great deltoidal hexecontahedron",
+3
+],
+[
+"great disdyakis dodecahedron",
+3
+],
+[
+"great ditrigonal dodecacronic hexecontahedron",
+3
+],
+[
+"great dodecacronic hexecontahedron",
+3
+],
+[
+"great dodecahemidodecacron",
+3
+],
+[
+"great hexagonal hexecontahedron",
+3
+],
+[
+"great icosacronic hexecontahedron",
+3
+],
+[
+"great icosihemidodecacron",
+3
+],
+[
+"great pentagonal hexecontahedron",
+3
+],
+[
+"great rhombidodecacron",
+3
+],
+[
+"gyroelongated cupola",
+3
+],
+[
+"hexagonal bifrustum",
+3
+],
+[
+"hexagonal truncated trapezohedron",
+3
+],
+[
+"Hill tetrahedron",
+3
+],
+[
+"space-filling polyhedron",
+3
+],
+[
+"cross pommee",
+3
+],
+[
+"Levi-Civita parallelogramoid",
+3
+],
+[
+"medial deltoidal hexecontahedron",
+3
+],
+[
+"Medial disdyakis triacontahedron",
+3
+],
+[
+"medial hexagonal hexecontahedron",
+3
+],
+[
+"medial icosacronic hexecontahedron",
+3
+],
+[
+"medial pentagonal hexecontahedron",
+3
+],
+[
+"midpoint polygon",
+3
+],
+[
+"Neuraxis",
+3
+],
+[
+"Stellated icosahedron",
+3
+],
+[
+"octagrammic crossed-antiprism",
+3
+],
+[
+"omnitruncated polyhedron",
+3
+],
+[
+"Order-4 hexagonal tiling",
+3
+],
+[
+"Order-5 pentagonal tiling",
+3
+],
+[
+"Order-6 hexagonal tiling",
+3
+],
+[
+"Order-6 square tiling",
+3
+],
+[
+"Order-8 octagonal tiling",
+3
+],
+[
+"Order 3-7 kisrhombille",
+3
+],
+[
+"orthocentric tetrahedron",
+3
+],
+[
+"pentakis icosidodecahedron",
+3
+],
+[
+"polyominoid",
+3
+],
+[
+"prismatic compound of antiprisms",
+3
+],
+[
+"prismatic compound of antiprisms with rotational freedom",
+3
+],
+[
+"prismatic compound of prisms",
+3
+],
+[
+"prismatic compound of prisms with rotational freedom",
+3
+],
+[
+"projective polyhedron",
+3
+],
+[
+"quaquaversal tiling",
+3
+],
+[
+"rectilinear polygon",
+3
+],
+[
+"regular skew polyhedron",
+3
+],
+[
+"runcinated 5-cell",
+3
+],
+[
+"Runcinated alternated cubic honeycomb",
+3
+],
+[
+"Schläfli orthoscheme",
+3
+],
+[
+"small dodecahemicosacron",
+3
+],
+[
+"small dodecicosacron",
+3
+],
+[
+"small hexacronic icositetrahedron",
+3
+],
+[
+"small hexagonal hexecontahedron",
+3
+],
+[
+"small hexagrammic hexecontahedron",
+3
+],
+[
+"small icosacronic hexecontahedron",
+3
+],
+[
+"small icosihemidodecacron",
+3
+],
+[
+"small rhombidodecacron",
+3
+],
+[
+"spirangle",
+3
+],
+[
+"substitution tiling",
+3
+],
+[
+"supracristal plane",
+3
+],
+[
+"tetrakis cuboctahedron",
+3
+],
+[
+"Tetrated dodecahedron",
+3
+],
+[
+"closed polygonal chain",
+3
+],
+[
+"Triakis truncated tetrahedron",
+3
+],
+[
+"tritetragonal tiling",
+3
+],
+[
+"Uniform tilings in hyperbolic plane",
+3
+],
+[
+"visibility polygon",
+3
+],
+[
+"Woo circles",
+3
+],
+[
+"plane of the ecliptic",
+3
+],
+[
+"conical hull",
+3
+],
+[
+"regular-based prism",
+3
+],
+[
+"right prism",
+3
+],
+[
+"yaw axis",
+3
+],
+[
+"Ideal polyhedron",
+3
+],
+[
+"Newton polytope",
+3
+],
+[
+"Wayside crosses in Romania",
+2
+],
+[
+"Reinhardt polygon",
+2
+],
+[
+"spirolateral",
+2
+],
+[
+"petrial cube",
+2
+],
+[
+"petrial octahedron",
+2
+],
+[
+"petrial tetrahedron",
+2
+],
+[
+"petrial dodecahedron",
+2
+],
+[
+"petrial icosahedron",
+2
+],
+[
+"pseudoicosahedron",
+2
+],
+[
+"trihedron",
+2
+],
+[
+"quadrilateral prism",
+2
+],
+[
+"Hart circle",
+2
+],
+[
+"Largest small octagon",
+2
+],
+[
+"Mutetrahedron",
+2
+],
+[
+"Muoctahedron",
+2
+],
+[
+"regular pyramid",
+2
+],
+[
+"Compound of two dodecahedra",
+2
+],
+[
+"Mucube",
+2
+],
+[
+"Golden ellipse",
+2
+],
+[
+"Order-8 tetrahedral honeycomb",
+2
+],
+[
+"triangular hosohedron",
+2
+],
+[
+"trigonal dihedron",
+2
+],
+[
+"monogonal hosohedron",
+2
+],
+[
+"digonal hosohedron",
+2
+],
+[
+"pentagonal hosohedron",
+2
+],
+[
+"hexagonal hosohedron",
+2
+],
+[
+"triacontahedron",
+2
+],
+[
+"Red Cross",
+2
+],
+[
+"order-3 truncated triakis tetrahedron",
+2
+],
+[
+"hexakis truncated tetrahedron",
+2
+],
+[
+"Euclidean planes in three-dimensional space",
+2
+],
+[
+"monohedral tiling",
+2
+],
+[
+"aperiodic monotile",
+2
+],
+[
+"12-cube",
+2
+],
+[
+"11-cube",
+2
+],
+[
+"intersecting line",
+2
+],
+[
+"oblique triangle",
+2
+],
+[
+"concave polyhedron",
+2
+],
+[
+"meridian curvature radius",
+2
+],
+[
+"Octant of a sphere",
+2
+],
+[
+"‼",
+2
+],
+[
+"N-dimensional polyhedron",
+2
+],
+[
+"Adams' Circle",
+2
+],
+[
+"composite polyhedron",
+2
+],
+[
+"mean radius",
+2
+],
+[
+"Watershed in Germany",
+2
+],
+[
+"Druze star",
+2
+],
+[
+"Apollonius quadrilateral",
+2
+],
+[
+"Potato radius",
+2
+],
+[
+"chiliagram",
+2
+],
+[
+"Order-4 hexagonal tiling honeycomb",
+2
+],
+[
+"Order-6 dodecahedral honeycomb",
+2
+],
+[
+"elongated bicupola",
+2
+],
+[
+"line through the origin",
+2
+],
+[
+"origin plane",
+2
+],
+[
+"bitruncated 5-simplex",
+2
+],
+[
+"120-cell honeycomb",
+2
+],
+[
+"3-4 duoprism",
+2
+],
+[
+"high caliber",
+2
+],
+[
+"triacontahenagon",
+2
+],
+[
+"chamfered tetrahedron",
+2
+],
+[
+"projection plane",
+2
+],
+[
+"minimum bend radius",
+2
+],
+[
+"Stellated rhombic dodecahedral honeycomb",
+2
+],
+[
+"edge-contracted icosahedron",
+2
+],
+[
+"ditrigonary polyhedron",
+2
+],
+[
+"great duoantiprism",
+2
+],
+[
+"Order-7 heptagrammic tiling",
+2
+],
+[
+"Order-7 tetrahedral honeycomb",
+2
+],
+[
+"snub hexahexagonal tiling",
+2
+],
+[
+"tetrahedrally diminished dodecahedron",
+2
+],
+[
+"planar lamina",
+2
+],
+[
+"octahedral pyramid",
+2
+],
+[
+"cupolarotunda",
+2
+],
+[
+"regular tridecagon",
+2
+],
+[
+"regular enneadecagon",
+2
+],
+[
+"regular icosagon",
+2
+],
+[
+"expanded icosidodecahedron",
+2
+],
+[
+"octahemioctacron",
+2
+],
+[
+"tridyakis icosahedron",
+2
+],
+[
+"dodecahedral pyramid",
+2
+],
+[
+"Rectified truncated octahedron",
+2
+],
+[
+"Second stellation of the icosahedron",
+2
+],
+[
+"reverse of a photograph",
+2
+],
+[
+"10-10 duoprism",
+2
+],
+[
+"grid",
+2
+],
+[
+"Hyperpyramid",
+2
+],
+[
+"bimedian",
+2
+],
+[
+"normal line",
+2
+],
+[
+"button-back lapel",
+2
+],
+[
+"isohedron",
+2
+],
+[
+"quadrilateral bipyramid",
+2
+],
+[
+"icosphere",
+2
+],
+[
+"quaternionic polytope",
+2
+],
+[
+"6-6 duoprism",
+2
+],
+[
+"8-8 duoprism",
+2
+],
+[
+"enneacontahexagon",
+2
+],
+[
+"leading axle",
+2
+],
+[
+"polygram",
+2
+],
+[
+"cube net",
+2
+],
+[
+"null polytope",
+2
+],
+[
+"enneagonal bipyramid",
+2
+],
+[
+"Hessian polyhedron",
+2
+],
+[
+"Möbius–Kantor polygon",
+2
+],
+[
+"four-pointed star",
+2
+],
+[
+"Infinite-order tetrahedral honeycomb",
+2
+],
+[
+"background information",
+2
+],
+[
+"uniform tessellation",
+2
+],
+[
+"dihectogon",
+2
+],
+[
+"triacontaenneagon",
+2
+],
+[
+"Heptagonal trapezohedron",
+2
+],
+[
+"Dodecagonal trapezohedron",
+2
+],
+[
+"octagonal pyramid",
+2
+],
+[
+"decagonal pyramid",
+2
+],
+[
+"triacontaheptagon",
+2
+],
+[
+"hexahectogon",
+2
+],
+[
+"triacontaoctagon",
+2
+],
+[
+"pentahectogon",
+2
+],
+[
+"triacontapentagon",
+2
+],
+[
+"Euclidean plane",
+2
+],
+[
+"spinning pinwheel",
+2
+],
+[
+"trihectogon",
+2
+],
+[
+"Trilobal",
+2
+],
+[
+"tetrahectogon",
+2
+],
+[
+"crosslet",
+2
+],
+[
+"Brocard inellipse",
+2
+],
+[
+"star prism",
+2
+],
+[
+"Mittag-Leffler star",
+2
+],
+[
+"2 41 polytope",
+2
+],
+[
+"2 31 polytope",
+2
+],
+[
+"2 21 polytope",
+2
+],
+[
+"6-polytope",
+2
+],
+[
+"anthropomorphic polygon",
+2
+],
+[
+"{7/2} heptagrammic antiprism",
+2
+],
+[
+"tetracontatrigon",
+2
+],
+[
+"cantellated 24-cell",
+2
+],
+[
+"cuboctahedral prism",
+2
+],
+[
+"director circle",
+2
+],
+[
+"dodecahedral prism",
+2
+],
+[
+"truncated square pyramid",
+2
+],
+[
+"great dirhombicosidodecacron",
+2
+],
+[
+"Great dodecahemicosacron",
+2
+],
+[
+"great ellipse",
+2
+],
+[
+"great pentagrammic hexecontahedron",
+2
+],
+[
+"great triambic icosahedron",
+2
+],
+[
+"Gyrated triangular prismatic honeycomb",
+2
+],
+[
+"gyroelongated bicupola",
+2
+],
+[
+"stellar form",
+2
+],
+[
+"Egyptian triangle",
+2
+],
+[
+"hendecagonal antiprism",
+2
+],
+[
+"tetracontapentagon",
+2
+],
+[
+"Cross of Aviz",
+2
+],
+[
+"4 21 polytope",
+2
+],
+[
+"heptacontadigon",
+2
+],
+[
+"{7/3} heptagrammic antiprism",
+2
+],
+[
+"icosahedral prism",
+2
+],
+[
+"inellipse",
+2
+],
+[
+"zerogon",
+2
+],
+[
+"spectrahedron",
+2
+],
+[
+"Social background of officers and other ranks in the French Army, 1750–1815",
+2
+],
+[
+"ice floe carousel",
+2
+],
+[
+"concave quadrilateral",
+2
+],
+[
+"pentakis snub dodecahedron",
+2
+],
+[
+"Rhombic Dodecahedron Stellations",
+2
+],
+[
+"Rectified Hessian polyhedron",
+2
+],
+[
+"medial inverted pentagonal hexecontahedron",
+2
+],
+[
+"Truncated small stellated dodecahedron",
+2
+],
+[
+"midpoint-stretching polygon",
+2
+],
+[
+"Nef polytope",
+2
+],
+[
+"octagrammic prism",
+2
+],
+[
+"decagrammic antiprism",
+2
+],
+[
+"Pseudo-deltoidal icositetrahedron",
+2
+],
+[
+"rota",
+2
+],
+[
+"semidiameter",
+2
+],
+[
+"cross raguly",
+2
+],
+[
+"simplectic honeycomb",
+2
+],
+[
+"small complex rhombicosidodecahedron",
+2
+],
+[
+"square truncated trapezohedron",
+2
+],
+[
+"stability radius",
+2
+],
+[
+"Static mesh",
+2
+],
+[
+"supertoroid",
+2
+],
+[
+"simple polygonal chain",
+2
+],
+[
+"Triakis truncated tetrahedral honeycomb",
+2
+],
+[
+"uniform k₂₁ polytope",
+2
+],
+[
+"baseline",
+2
+],
+[
+"Trion",
+2
+],
+[
+"compound of six octahedra",
+2
+],
+[
+"Pentahexagonal pyritoheptacontatetrahedron",
+2
+],
+[
+"isotoxal convex polyhedron",
+2
+],
+[
+"simple polyhedron",
+2
+],
+[
+"unit normal vector",
+2
+],
+[
+"Barrelled set",
+2
+],
+[
+"midsquare quadrilateral",
+2
+],
+[
+"spherical polygon",
+2
+],
+[
+"Golden rhombohedra",
+2
+],
+[
+"rhombic triacontahedron stellations",
+2
+],
+[
+"11-simplex",
+2
+]
+]

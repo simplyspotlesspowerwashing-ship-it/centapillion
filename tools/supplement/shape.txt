@@ -1,0 +1,62 @@
+Ring
+Oblong
+Lozenge
+Rhomboid
+Deltoid
+Arrowhead
+Teardrop
+Egg
+Ovoid
+Crescent Moon
+Half Moon
+Quarter Circle
+Pie Slice
+Wedge
+Chevron
+Zigzag
+Wave
+Spiral
+Infinity
+Figure Eight
+Lemniscate
+Cardioid
+Astroid
+Reuleaux Triangle
+Pentagram
+Hexagram
+Star of David
+Octagram
+Swastika
+Cross
+Celtic Cross
+Ankh
+Trefoil
+Quatrefoil
+Cinquefoil
+Arbelos
+Lune
+Vesica Piscis
+Mobius Strip
+Klein Bottle
+Frustum
+Ellipsoid
+Paraboloid
+Hyperboloid
+Rhombicuboctahedron
+Truncated Icosahedron
+Soccer Ball
+Geodesic Dome
+Triangular Prism
+Hexagonal Prism
+Square Pyramid
+Triangular Pyramid
+Bipyramid
+Antiprism
+Polyhedron
+Polygon
+Hendecagon
+Tridecagon
+Icosagon
+Chiliagon
+Megagon
+Googolgon

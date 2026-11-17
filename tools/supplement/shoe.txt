@@ -1,0 +1,64 @@
+Birkenstocks=birkenstock
+High Tops=high-tops
+Air Force 1
+Converse
+Chuck Taylors
+Vans
+Jordans
+Yeezys
+Toms
+Keds
+Sperrys
+Doc Martens=dr martens
+Timberlands
+Uggs
+Hey Dudes
+Allbirds
+Hokas
+Skechers
+Crocs
+Tevas
+Chacos
+Havaianas
+Sliders
+Slides
+Running Shoes
+Trainers
+Tennis Shoes
+Basketball Shoes
+Football Boots
+Golf Shoes
+Bowling Shoes
+Tap Shoes
+Ballet Slippers
+Pointe Shoes
+Ice Skates
+Roller Skates
+Ski Boots
+Snowboard Boots
+Waders
+Work Boots
+Steel-toe Boots
+Riding Boots
+Knee-high Boots
+Thigh-high Boots
+Ankle Boots
+Booties
+Go-go Boots
+Platform Boots
+Creepers
+Winklepickers
+Saddle Shoes
+Wingtips
+Penny Loafers
+Driving Moccasins
+Tassel Loafers
+Kitten Heels
+Peep-toes
+D'Orsay
+Gladiator Sandals
+Jellies
+Water Shoes
+Aqua Socks
+Barefoot Shoes
+Vibram FiveFingers

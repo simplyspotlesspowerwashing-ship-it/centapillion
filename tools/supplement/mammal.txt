@@ -1,0 +1,69 @@
+Guinea Pig
+Capybara
+Chinchilla
+Degu
+Gerbil
+Jerboa
+Dormouse
+Pika
+Hyrax
+Aardwolf
+Civet
+Genet
+Binturong
+Mongoose
+Meerkat
+Fossa
+Tenrec
+Shrew
+Mole
+Desman
+Solenodon
+Hedgehog
+Colugo
+Tree Shrew
+Lemur
+Loris
+Tarsier
+Marmoset
+Tamarin
+Capuchin
+Howler Monkey
+Spider Monkey
+Baboon
+Mandrill
+Macaque
+Gibbon
+Bonobo
+Okapi
+Pronghorn
+Saiga
+Chamois
+Ibex
+Markhor
+Musk Ox
+Takin
+Gaur
+Banteng
+Anoa
+Water Buffalo
+Tapir
+Dugong
+Manatee
+Aardvark
+Pangolin
+Armadillo
+Anteater
+Sloth
+Wombat
+Wallaby
+Quokka
+Bandicoot
+Bilby
+Numbat
+Quoll
+Tasmanian Devil
+Sugar Glider
+Possum
+Opossum
+Echidna
