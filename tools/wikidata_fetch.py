@@ -87,10 +87,10 @@ SPEC = {
     "salad": {"where": "?x %s wd:Q9266 ." % KIND, "min": 2},
     "spice": {"where": "{ ?x %s wd:Q42527 . } UNION { ?x %s wd:Q207123 . }" % (KIND, KIND), "min": 5},
     "houseplant": {"where": "?x %s wd:Q203834 ." % KIND, "min": 5},
-    "italianfood": {"where": "?x wdt:P2012 wd:Q192786 .", "min": 3},
-    "japanesefood": {"where": "?x wdt:P2012 wd:Q234138 .", "min": 3},
-    "mexicanfood": {"where": "?x wdt:P2012 wd:Q207965 .", "min": 3},
-    "indianfood": {"where": "?x wdt:P2012 wd:Q192087 .", "min": 3},
+    "italianfood": {"where": "?x wdt:P2012 wd:Q192786 . MINUS { ?x wdt:P31/wdt:P279* wd:Q43229 } MINUS { ?x wdt:P31/wdt:P279* wd:Q11707 }", "min": 3},  # dishes, not restaurants
+    "japanesefood": {"where": "?x wdt:P2012 wd:Q234138 . MINUS { ?x wdt:P31/wdt:P279* wd:Q43229 } MINUS { ?x wdt:P31/wdt:P279* wd:Q11707 }", "min": 3},  # dishes, not restaurants
+    "mexicanfood": {"where": "?x wdt:P2012 wd:Q207965 . MINUS { ?x wdt:P31/wdt:P279* wd:Q43229 } MINUS { ?x wdt:P31/wdt:P279* wd:Q11707 }", "min": 3},  # dishes, not restaurants
+    "indianfood": {"where": "?x wdt:P2012 wd:Q192087 . MINUS { ?x wdt:P31/wdt:P279* wd:Q43229 } MINUS { ?x wdt:P31/wdt:P279* wd:Q11707 }", "min": 3},  # dishes, not restaurants
     "fairytale": {"where": "?x wdt:P31 wd:Q699 .", "min": 8},
     "nurseryrhyme": {"where": "?x wdt:P31 wd:Q1123037 .", "min": 2},
     "painting": {"where": "?x wdt:P31 wd:Q3305213 .", "min": 25},
@@ -98,7 +98,7 @@ SPEC = {
     "holiday": {"where": "{ ?x wdt:P31 wd:Q1197685 . } UNION { ?x wdt:P31 wd:Q1445650 . }", "min": 15},
     "language": {"where": "?x wdt:P31 wd:Q9143 .", "min": 6},
     "disease": {"where": "?x wdt:P31 wd:Q12136 .", "min": 40},
-    "moon": {"where": "?x wdt:P31 wd:Q2537 .", "min": 2},
+    "moon": {"where": "VALUES ?p { wd:Q2 wd:Q111 wd:Q319 wd:Q193 wd:Q324 wd:Q332 wd:Q339 } ?x wdt:P397 ?p ; wdt:P31/wdt:P279* wd:Q2537 .", "min": 0},  # moons of the planets and Pluto
     "constellation": {"where": "?x wdt:P31 wd:Q8928 .", "min": 0},
     "currency": {"where": "?x wdt:P31 wd:Q8142 .", "min": 10},
     "unit": {"where": "?x %s wd:Q47574 ." % KIND, "min": 15},

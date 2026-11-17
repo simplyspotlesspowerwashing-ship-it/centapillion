@@ -206,11 +206,26 @@ BLOCK = {
     "profession": re.compile(r"^(assistant|other|all other|miscellaneous) "),
     "cheese": re.compile(r"cheese product|processed cheese food|^(butter|yogh?urt|kefir|cream|sour cream|buttermilk|ghee|clotted cream|creme fraiche|crème fraîche)$"),
     "sport": re.compile(r"\bsports?$"),
-    "simpsons": re.compile(r"\b(family|characters?|list of)\b"),
     "condiment": re.compile(r"^(chocolate|spice|chili pepper|sauce|herb|salt|sugar|honey|oil|cream|butter|fruit|vegetable|seasoning|food|garlic|onion|lemon|cheese|nut|seed)s?$"),
-    "soda": re.compile(r"^(kefir|milk|water|juice|wine|beer|coffee|tea|beverage|drink)$"),
     "myth": re.compile(r"^(cupid|easter bunny|santa claus|tooth fairy|azrael)$"),
     "mountain": re.compile(r"\bisland\b"),
+    "instrument": re.compile(r"^(microphone|multimedia|phonograph|percussion instrument|musical instrument|loudspeaker|amplifier|synthesizer module)$"),
+    "bread": re.compile(r"^(festival|bread crumbs|breadcrumbs|toast|sacramental bread|crouton)$"),
+    "primate": re.compile(r"^(caveman|human|homo sapiens)$"),
+    "cartoon": re.compile(r"^(santa claus|jesus|god|death)$"),
+    "spice": re.compile(r"^(table salt|salt)$"),
+    "dinosaur": re.compile(r"^(crocodile|fossil|mammal|turtle|bird|lizard|reptile|snake|shark)$"),
+    "gem": re.compile(r"^(bone|flint|ivory|kidney ore|metal-coated crystals|synthetic .*|birthstone|glass|plastic)$"),
+    "simpsons": re.compile(r"\b(family|characters?|list of)\b|^(d'oh!?|duff beer|kwik-e-mart|springfield|the simpsons)$"),
+    "sandwich": re.compile(r"^(bacon|ham|crisp|ice cream|british rail|cheese|dynamite|mother-in-law|egg|chicken|turkey|tuna)$"),
+    "soda": re.compile(r"^(kefir|milk|water|juice|wine|beer|coffee|tea|beverage|drink|fermented milk product)$"),
+    "fabric": re.compile(r"^(blanket|yarn|tapestry|thread|fibre|fiber|bed sheet|mosquito net|c change|machine knitting|e-textiles|cedar bark|carbon fiber)$"),
+    "vegetable": re.compile(r"^(basil|lavender|rosemary|sage|herbs and spice|thyme|mint|oregano|parsley|dill)$"),
+    "flower": re.compile(r"^(rosemary|sage|holly|basil|thyme)$"),
+    "fruit": re.compile(r"^(nut|bell pepper|chili pepper|cucumber|tomato|vegetable)$"),
+    "fish": re.compile(r"\b(lobster|shrimp|prawn|crab|oyster|mussel|clam|scallop|squid|octopus|crayfish|krill)s?$|^cooking fish$"),
+    "card": re.compile(r"^(professional eater|splendor|tarot.*)$"),
+    "clothing": re.compile(r"^(mask|footwear|clothing.*|garment|costume|uniform|waterproof|zip|undergarment)$|\bclothing in\b"),
     "painter": re.compile(r"^(george w\. bush|winston churchill|adolf hitler|johann wolfgang von goethe)$"),
 }
 # A single everyday word scores too easily ("Milk" river, "Sake" language).
@@ -275,9 +290,13 @@ def stripped(n, generic):
 WIKIDATA = os.path.join(ROOT, "tools", "wikidata")
 
 
+# Prompts whose Wikidata class turned out to be the wrong set of things.
+WIKIDATA_SKIP = {"unit", "houseplant"}
+
+
 def wikidata_items(pid):
     path = os.path.join(WIKIDATA, pid + ".json")
-    if not os.path.exists(path):
+    if pid in WIKIDATA_SKIP or not os.path.exists(path):
         return []
     with open(path, encoding="utf-8") as f:
         return json.load(f)
