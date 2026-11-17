@@ -1,9 +1,5 @@
 [
 [
-"Leonardo da Vinci",
-309
-],
-[
 "Johann Wolfgang von Goethe",
 280
 ],
@@ -64,19 +60,15 @@
 169
 ],
 [
-"Heinrich Heine",
-168
-],
-[
 "Igor Stravinsky",
 168
 ],
 [
-"Johannes Brahms",
+"George Frideric Handel",
 162
 ],
 [
-"George Frideric Handel",
+"Johannes Brahms",
 162
 ],
 [
@@ -92,32 +84,20 @@
 152
 ],
 [
-"Sappho",
-150
-],
-[
 "Giacomo Puccini",
 147
-],
-[
-"Satyajit Ray",
-144
 ],
 [
 "Bhumibol Adulyadej",
 144
 ],
 [
-"Boris Pasternak",
-143
+"Satyajit Ray",
+144
 ],
 [
 "Federico García Lorca",
 143
-],
-[
-"George Sand",
-138
 ],
 [
 "Clint Eastwood",
@@ -152,18 +132,6 @@
 124
 ],
 [
-"Bing Crosby",
-123
-],
-[
-"Albert Schweitzer",
-122
-],
-[
-"Jean Cocteau",
-122
-],
-[
 "Henry VIII of England",
 120
 ],
@@ -174,10 +142,6 @@
 [
 "Giovanni Pierluigi da Palestrina",
 117
-],
-[
-"William Herschel",
-114
 ],
 [
 "Hildegard of Bingen",
@@ -192,31 +156,27 @@
 110
 ],
 [
-"Dario Fo",
-109
-],
-[
 "Gioachino Rossini",
 108
-],
-[
-"Maurice Ravel",
-107
 ],
 [
 "Ray Charles",
 107
 ],
 [
-"Anne Boleyn",
-106
+"Maurice Ravel",
+107
 ],
 [
 "Dmitri Shostakovich",
 106
 ],
 [
-"Georges Bizet",
+"Niccolò Paganini",
+105
+],
+[
+"Béla Bartók",
 105
 ],
 [
@@ -228,11 +188,7 @@
 105
 ],
 [
-"Niccolò Paganini",
-105
-],
-[
-"Béla Bartók",
+"Georges Bizet",
 105
 ],
 [
@@ -240,19 +196,11 @@
 104
 ],
 [
-"Peter Abelard",
-103
-],
-[
 "Stefania Turkevych-Lukiianovych",
 103
 ],
 [
 "Ella Fitzgerald",
-101
-],
-[
-"W. H. Auden",
 101
 ],
 [
@@ -264,7 +212,7 @@
 100
 ],
 [
-"Charles Aznavour",
+"Miles Davis",
 99
 ],
 [
@@ -272,11 +220,11 @@
 99
 ],
 [
-"Miles Davis",
+"Charles Aznavour",
 99
 ],
 [
-"Isabelle de Charrière",
+"Yoko Ono",
 98
 ],
 [
@@ -284,24 +232,24 @@
 98
 ],
 [
-"Yoko Ono",
-98
-],
-[
 "Ravi Shankar",
 96
-],
-[
-"Sergei Prokofiev",
-95
 ],
 [
 "Luis Buñuel",
 95
 ],
 [
+"Sergei Prokofiev",
+95
+],
+[
 "Ennio Morricone",
 94
+],
+[
+"Nikolai Rimsky-Korsakov",
+93
 ],
 [
 "Bedřich Smetana",
@@ -312,15 +260,7 @@
 93
 ],
 [
-"Nikolai Rimsky-Korsakov",
-93
-],
-[
 "Billie Holiday",
-92
-],
-[
-"Alexander Borodin",
 92
 ],
 [
@@ -328,23 +268,23 @@
 92
 ],
 [
-"E. T. A. Hoffmann",
-92
-],
-[
 "Sergei Rachmaninoff",
 92
 ],
 [
-"Norodom Sihanouk",
-91
+"Alexander Borodin",
+92
+],
+[
+"E. T. A. Hoffmann",
+92
 ],
 [
 "Johann Strauss II",
 90
 ],
 [
-"Sergio Leone",
+"Modest Petrovich Mussorgsky",
 89
 ],
 [
@@ -352,15 +292,11 @@
 89
 ],
 [
-"Modest Petrovich Mussorgsky",
-89
-],
-[
-"Claudio Monteverdi",
+"Duke Ellington",
 88
 ],
 [
-"Duke Ellington",
+"Claudio Monteverdi",
 88
 ],
 [
@@ -369,10 +305,6 @@
 ],
 [
 "Arnold Schoenberg",
-85
-],
-[
-"Tristan Tzara",
 85
 ],
 [
@@ -388,11 +320,7 @@
 82
 ],
 [
-"Jacques Brel",
-82
-],
-[
-"Leonard Bernstein",
+"Clara Schumann",
 82
 ],
 [
@@ -400,7 +328,11 @@
 82
 ],
 [
-"Clara Schumann",
+"Leonard Bernstein",
+82
+],
+[
+"Jacques Brel",
 82
 ],
 [
@@ -408,7 +340,7 @@
 81
 ],
 [
-"John of Damascus",
+"Camille Saint-Saëns",
 80
 ],
 [
@@ -416,15 +348,7 @@
 80
 ],
 [
-"Camille Saint-Saëns",
-80
-],
-[
 "Mel Brooks",
-79
-],
-[
-"Charles Gounod",
 79
 ],
 [
@@ -432,8 +356,8 @@
 79
 ],
 [
-"Alfonso X of Castile and Leon",
-78
+"Charles Gounod",
+79
 ],
 [
 "Gaetano Donizetti",
@@ -456,18 +380,6 @@
 76
 ],
 [
-"Robert Mitchum",
-76
-],
-[
-"Fred Rogers",
-76
-],
-[
-"Sor Juana Inés de la Cruz",
-76
-],
-[
 "John Cage",
 76
 ],
@@ -476,7 +388,7 @@
 76
 ],
 [
-"Abdülaziz",
+"Georg Philipp Telemann",
 75
 ],
 [
@@ -488,44 +400,20 @@
 75
 ],
 [
-"Georg Philipp Telemann",
-75
-],
-[
 "Quincy Jones",
 75
-],
-[
-"Bud Spencer",
-74
-],
-[
-"Irving Berlin",
-73
-],
-[
-"Hugo von Hofmannsthal",
-73
-],
-[
-"Leopold I, Holy Roman Emperor",
-73
 ],
 [
 "Carl Philipp Emanuel Bach",
 73
 ],
 [
+"Irving Berlin",
+73
+],
+[
 "Rouget de Lisle",
 72
-],
-[
-"Samuel Butler",
-72
-],
-[
-"Jean-Philippe Rameau",
-71
 ],
 [
 "Liliʻuokalani",
@@ -540,11 +428,19 @@
 71
 ],
 [
+"Jean-Philippe Rameau",
+71
+],
+[
+"Domenico Scarlatti",
+70
+],
+[
 "Mickey Rooney",
 70
 ],
 [
-"Jean-Baptiste Lully",
+"Pietro Mascagni",
 70
 ],
 [
@@ -556,23 +452,15 @@
 70
 ],
 [
-"Domenico Scarlatti",
+"Jean-Baptiste Lully",
 70
-],
-[
-"Karl May",
-70
-],
-[
-"Pietro Mascagni",
-70
-],
-[
-"Maurice Chevalier",
-69
 ],
 [
 "Vincenzo Bellini",
+69
+],
+[
+"Maurice Chevalier",
 69
 ],
 [
@@ -580,7 +468,7 @@
 68
 ],
 [
-"Arturo Toscanini",
+"Benjamin Britten",
 68
 ],
 [
@@ -588,11 +476,11 @@
 68
 ],
 [
-"Benjamin Britten",
+"Arturo Toscanini",
 68
 ],
 [
-"Filippo Tommaso Marinetti",
+"Little Richard",
 67
 ],
 [
@@ -600,7 +488,7 @@
 67
 ],
 [
-"Little Richard",
+"Ruggero Leoncavallo",
 67
 ],
 [
@@ -608,23 +496,11 @@
 67
 ],
 [
-"Ruggero Leoncavallo",
-67
-],
-[
-"Dizzy Gillespie",
-66
-],
-[
 "Johann Christian Bach",
 66
 ],
 [
 "Olivier Messiaen",
-66
-],
-[
-"Mstislav Rostropovich",
 66
 ],
 [
@@ -636,7 +512,19 @@
 66
 ],
 [
-"Alberto Sordi",
+"Dizzy Gillespie",
+66
+],
+[
+"P. Ramlee",
+65
+],
+[
+"Scott Joplin",
+65
+],
+[
+"Leoš Janáček",
 65
 ],
 [
@@ -648,43 +536,7 @@
 65
 ],
 [
-"Claudio Abbado",
-65
-],
-[
-"Joseph I, Holy Roman Emperor",
-65
-],
-[
-"P. Ramlee",
-65
-],
-[
-"Ferdinand III, Holy Roman Emperor",
-65
-],
-[
-"Leoš Janáček",
-65
-],
-[
-"Scott Joplin",
-65
-],
-[
 "Glenn Miller",
-64
-],
-[
-"Woody Guthrie",
-64
-],
-[
-"Zeami Motokiyo",
-64
-],
-[
-"Abay Kunanbaiuly",
 64
 ],
 [
@@ -692,15 +544,11 @@
 64
 ],
 [
-"Carl Orff",
-63
+"Woody Guthrie",
+64
 ],
 [
 "Maurice Jarre",
-63
-],
-[
-"Hattie McDaniel",
 63
 ],
 [
@@ -728,43 +576,15 @@
 63
 ],
 [
-"Walther von der Vogelweide",
-62
-],
-[
-"Oscar I of Sweden",
-62
-],
-[
-"Alexander Griboyedov",
-62
+"Carl Orff",
+63
 ],
 [
 "Aaron Copland",
 62
 ],
 [
-"Leo VI the Wise",
-61
-],
-[
-"Frederick William III of Prussia",
-61
-],
-[
-"Tomás Luis de Victoria",
-61
-],
-[
-"Astor Piazzolla",
-61
-],
-[
 "Thelonious Monk",
-61
-],
-[
-"John Barry",
 61
 ],
 [
@@ -772,15 +592,15 @@
 61
 ],
 [
-"John IV of Portugal",
+"John Barry",
 61
 ],
 [
-"Gustav Holst",
+"Astor Piazzolla",
 61
 ],
 [
-"Joseph of Anchieta",
+"Tomás Luis de Victoria",
 61
 ],
 [
@@ -788,55 +608,15 @@
 61
 ],
 [
-"John Lee Hooker",
-60
+"Gustav Holst",
+61
 ],
 [
-"Asha Bhosle",
-60
-],
-[
-"Giacomo Meyerbeer",
-60
-],
-[
-"George Gurdjieff",
-60
+"Frederick William III of Prussia",
+61
 ],
 [
 "Víctor Jara",
-60
-],
-[
-"Muddy Waters",
-60
-],
-[
-"Krzysztof Penderecki",
-60
-],
-[
-"Carlos Gardel",
-60
-],
-[
-"Bettina von Arnim",
-60
-],
-[
-"Pierre-Jean de Béranger",
-60
-],
-[
-"Wolfram von Eschenbach",
-60
-],
-[
-"Alban Berg",
-60
-],
-[
-"Fats Domino",
 60
 ],
 [
@@ -844,11 +624,27 @@
 60
 ],
 [
-"Athanasius Kircher",
+"Alban Berg",
 60
 ],
 [
-"Domenico Modugno",
+"Giacomo Meyerbeer",
+60
+],
+[
+"Carlos Gardel",
+60
+],
+[
+"Krzysztof Penderecki",
+60
+],
+[
+"Fats Domino",
+60
+],
+[
+"Muddy Waters",
 60
 ],
 [
@@ -856,19 +652,39 @@
 60
 ],
 [
+"Domenico Modugno",
+60
+],
+[
 "Ignacy Jan Paderewski",
 60
 ],
 [
-"Cole Porter",
-59
+"Pierre-Jean de Béranger",
+60
+],
+[
+"Bettina von Arnim",
+60
+],
+[
+"John Lee Hooker",
+60
 ],
 [
 "Dave Brubeck",
 59
 ],
 [
+"Cole Porter",
+59
+],
+[
 "Alejandro Jodorowsky",
+59
+],
+[
+"Isaac Albéniz",
 59
 ],
 [
@@ -880,31 +696,11 @@
 59
 ],
 [
-"Isaac Albéniz",
-59
-],
-[
-"Chinmoy Kumar Ghose",
-59
-],
-[
-"César Franck",
-58
-],
-[
-"François Couperin",
-58
-],
-[
-"Max Brod",
+"Anton Rubinstein",
 58
 ],
 [
 "Arthur Honegger",
-58
-],
-[
-"Paul Hindemith",
 58
 ],
 [
@@ -916,19 +712,11 @@
 58
 ],
 [
-"Sam Cooke",
-58
-],
-[
-"Lionel Barrymore",
-58
-],
-[
-"Anton Rubinstein",
-58
-],
-[
 "Henry Mancini",
+58
+],
+[
+"Sam Cooke",
 58
 ],
 [
@@ -936,8 +724,24 @@
 58
 ],
 [
-"Alexander Glazounov",
-57
+"Lionel Barrymore",
+58
+],
+[
+"Max Brod",
+58
+],
+[
+"Paul Hindemith",
+58
+],
+[
+"François Couperin",
+58
+],
+[
+"César Franck",
+58
 ],
 [
 "Guillaume Dufay",
@@ -952,43 +756,15 @@
 57
 ],
 [
-"Oscar Peterson",
-56
+"Alexander Glazounov",
+57
 ],
 [
 "Giuseppe Tartini",
 56
 ],
 [
-"Glenn Gould",
-56
-],
-[
-"György Ligeti",
-56
-],
-[
-"Nadia Boulanger",
-56
-],
-[
-"Johann Strauss I",
-56
-],
-[
-"Hryhorii Skovoroda",
-56
-],
-[
-"Michel Legrand",
-56
-],
-[
-"Luigi Boccherini",
-56
-],
-[
-"Jackie Gleason",
+"Oscar Peterson",
 56
 ],
 [
@@ -996,15 +772,35 @@
 56
 ],
 [
-"Ferruccio Busoni",
-55
+"Nadia Boulanger",
+56
+],
+[
+"Jackie Gleason",
+56
+],
+[
+"Michel Legrand",
+56
+],
+[
+"György Ligeti",
+56
+],
+[
+"Glenn Gould",
+56
+],
+[
+"Luigi Boccherini",
+56
+],
+[
+"Johann Strauss I",
+56
 ],
 [
 "Count Basie",
-55
-],
-[
-"Chet Baker",
 55
 ],
 [
@@ -1012,11 +808,11 @@
 55
 ],
 [
-"Luigi Cherubini",
+"Burt Bacharach",
 55
 ],
 [
-"Burt Bacharach",
+"Ferruccio Busoni",
 55
 ],
 [
@@ -1024,27 +820,23 @@
 55
 ],
 [
-"Manuel de Falla",
-55
-],
-[
 "João Gilberto",
 55
 ],
 [
-"Sviatoslav Richter",
-54
+"Manuel de Falla",
+55
 ],
 [
-"Peggy Lee",
-54
+"Chet Baker",
+55
 ],
 [
-"Frank Wedekind",
-54
+"Luigi Cherubini",
+55
 ],
 [
-"Mohammed Rafi",
+"Georges Enescou",
 54
 ],
 [
@@ -1056,19 +848,15 @@
 54
 ],
 [
-"César Cui",
-54
-],
-[
 "Ornette Coleman",
 54
 ],
 [
-"Georges Enescou",
+"César Cui",
 54
 ],
 [
-"Adolphe Adam",
+"Peggy Lee",
 54
 ],
 [
@@ -1076,8 +864,8 @@
 54
 ],
 [
-"Paul Dukas",
-53
+"Adolphe Adam",
+54
 ],
 [
 "Alphonsus Maria de Liguori",
@@ -1092,7 +880,7 @@
 53
 ],
 [
-"Heitor Villa-Lobos",
+"Paul Dukas",
 53
 ],
 [
@@ -1100,23 +888,11 @@
 53
 ],
 [
-"Nino Rota",
-52
+"Heitor Villa-Lobos",
+53
 ],
 [
-"Carl Czerny",
-52
-],
-[
-"Stanisław Moniuszko",
-52
-],
-[
-"Charles Maurras",
-52
-],
-[
-"Lorenzo Da Ponte",
+"Uzeyir Hajibeyov",
 52
 ],
 [
@@ -1124,11 +900,15 @@
 52
 ],
 [
-"Denis I of Portugal",
+"Carl Czerny",
 52
 ],
 [
-"Peter III of Aragon",
+"Nino Rota",
+52
+],
+[
+"Stanisław Moniuszko",
 52
 ],
 [
@@ -1136,24 +916,8 @@
 52
 ],
 [
-"Uzeyir Hajibeyov",
+"Charles Maurras",
 52
-],
-[
-"Blanche of Castile",
-51
-],
-[
-"Max Reger",
-51
-],
-[
-"Iannis Xenakis",
-51
-],
-[
-"Heinrich Schütz",
-51
 ],
 [
 "Sofia Gubaidulina",
@@ -1161,6 +925,10 @@
 ],
 [
 "Dmitry Borisovich Kabalevsky",
+51
+],
+[
+"Heinrich Schütz",
 51
 ],
 [
@@ -1172,35 +940,15 @@
 51
 ],
 [
-"Thomas Mitchell",
+"Iannis Xenakis",
 51
 ],
 [
-"Stan Getz",
-50
-],
-[
-"Kurt Weill",
-50
-],
-[
-"Arnaut Daniel",
-50
+"Max Reger",
+51
 ],
 [
 "Petula Clark",
-50
-],
-[
-"Yves Klein",
-50
-],
-[
-"Alain-René Lesage",
-50
-],
-[
-"Ralph Vaughan Williams",
 50
 ],
 [
@@ -1208,7 +956,15 @@
 50
 ],
 [
+"Yves Klein",
+50
+],
+[
 "Alma Mahler",
+50
+],
+[
+"Ralph Vaughan Williams",
 50
 ],
 [
@@ -1220,11 +976,15 @@
 50
 ],
 [
-"Marc-Antoine Charpentier",
-49
+"Kurt Weill",
+50
 ],
 [
-"Samuel Barber",
+"Stan Getz",
+50
+],
+[
+"Wilhelm Friedemann Bach",
 49
 ],
 [
@@ -1232,27 +992,7 @@
 49
 ],
 [
-"Wilhelm Friedemann Bach",
-49
-],
-[
-"Wilhelm Furtwängler",
-49
-],
-[
-"Sonny Rollins",
-49
-],
-[
-"Mikalojus Konstantinas Čiurlionis",
-49
-],
-[
-"Dimitrie Cantemir",
-49
-],
-[
-"August Heinrich Hoffmann von Fallersleben",
+"Samuel Barber",
 49
 ],
 [
@@ -1260,7 +1000,7 @@
 49
 ],
 [
-"Mack Sennett",
+"Sonny Rollins",
 49
 ],
 [
@@ -1268,11 +1008,19 @@
 49
 ],
 [
-"Johann Nestroy",
-48
+"Mikalojus Konstantinas Čiurlionis",
+49
 ],
 [
-"Hugo Wolf",
+"Marc-Antoine Charpentier",
+49
+],
+[
+"Wilhelm Furtwängler",
+49
+],
+[
+"Francisco Tárrega",
 48
 ],
 [
@@ -1284,55 +1032,7 @@
 48
 ],
 [
-"Totò",
-48
-],
-[
-"Wenceslaus II of Bohemia",
-48
-],
-[
-"John Gay",
-48
-],
-[
-"Witold Lutosławski",
-48
-],
-[
-"George Sanders",
-48
-],
-[
 "Charles Ives",
-48
-],
-[
-"Sayat-Nova",
-48
-],
-[
-"William Byrd",
-48
-],
-[
-"Giovanni Paisiello",
-48
-],
-[
-"Jacopo Peri",
-48
-],
-[
-"Pablo de Sarasate",
-48
-],
-[
-"Francisco Tárrega",
-48
-],
-[
-"C. Rajagopalachari",
 48
 ],
 [
@@ -1340,7 +1040,27 @@
 48
 ],
 [
-"Andrés Segovia",
+"Witold Lutosławski",
+48
+],
+[
+"William Byrd",
+48
+],
+[
+"Hugo Wolf",
+48
+],
+[
+"Jacopo Peri",
+48
+],
+[
+"Giovanni Paisiello",
+48
+],
+[
+"Pablo de Sarasate",
 48
 ],
 [
@@ -1348,7 +1068,19 @@
 48
 ],
 [
+"Totò",
+48
+],
+[
 "Max Bruch",
+47
+],
+[
+"Thomas Tallis",
+47
+],
+[
+"Richard Rodgers",
 47
 ],
 [
@@ -1360,87 +1092,15 @@
 47
 ],
 [
-"Henryk Mikolaj Górecki",
-47
-],
-[
-"Richard Rodgers",
-47
-],
-[
-"Hans Sachs",
-47
-],
-[
 "Manu Dibango",
 47
 ],
 [
-"Thomas Tallis",
+"Henryk Mikolaj Górecki",
 47
-],
-[
-"Audie Murphy",
-47
-],
-[
-"Annette von Droste-Hülshoff",
-46
-],
-[
-"Bohuslav Martinů",
-46
-],
-[
-"Ernst Moritz Arndt",
-46
-],
-[
-"Fanny Mendelssohn",
-46
-],
-[
-"Stephen Sondheim",
-46
-],
-[
-"Adam de la Halle",
-46
-],
-[
-"Kurt Schwitters",
-46
-],
-[
-"Yma Sumac",
-46
-],
-[
-"Alfonso II of Aragon",
-46
-],
-[
-"John Philip Sousa",
-46
-],
-[
-"Charles Trenet",
-46
-],
-[
-"James II of Aragon",
-46
 ],
 [
 "Pérotin",
-46
-],
-[
-"Vinícius de Moraes",
-46
-],
-[
-"Ethel Lilian Voynich",
 46
 ],
 [
@@ -1448,11 +1108,71 @@
 46
 ],
 [
-"Jack Kevorkian",
+"Stephen Sondheim",
+46
+],
+[
+"Vinícius de Moraes",
+46
+],
+[
+"Charles Trenet",
+46
+],
+[
+"Bohuslav Martinů",
+46
+],
+[
+"John Philip Sousa",
+46
+],
+[
+"Annette von Droste-Hülshoff",
+46
+],
+[
+"Fanny Mendelssohn",
+46
+],
+[
+"Dexter Gordon",
 45
 ],
 [
-"Edgard Varèse",
+"Amilcare Ponchielli",
+45
+],
+[
+"Wayne Shorter",
+45
+],
+[
+"Johannes Ockeghem",
+45
+],
+[
+"John Newton",
+45
+],
+[
+"Bo Diddley",
+45
+],
+[
+"Kishore Kumar",
+45
+],
+[
+"Arthur Sullivan",
+45
+],
+[
+"Darius Milhaud",
+45
+],
+[
+"Gene Autry",
 45
 ],
 [
@@ -1464,111 +1184,15 @@
 45
 ],
 [
-"John Newton",
+"Edgard Varèse",
 45
-],
-[
-"Johannes Ockeghem",
-45
-],
-[
-"Dexter Gordon",
-45
-],
-[
-"Arthur Sullivan",
-45
-],
-[
-"Bo Diddley",
-45
-],
-[
-"Maria Anna Mozart",
-45
-],
-[
-"David McCallum",
-45
-],
-[
-"Darius Milhaud",
-45
-],
-[
-"Alphonse Allais",
-45
-],
-[
-"Amilcare Ponchielli",
-45
-],
-[
-"Gene Autry",
-45
-],
-[
-"Kishore Kumar",
-45
-],
-[
-"Wayne Shorter",
-45
-],
-[
-"Giovanni Gabrieli",
-44
-],
-[
-"Charles-Valentin Alkan",
-44
-],
-[
-"Guillaume IX",
-44
 ],
 [
 "Mykola Lysenko",
 44
 ],
 [
-"Enrique Granados",
-44
-],
-[
-"Fats Waller",
-44
-],
-[
-"Ottorino Respighi",
-44
-],
-[
-"Alfred Brendel",
-44
-],
-[
-"Margaret of Austria, Duchess of Savoy",
-44
-],
-[
-"Rabanus Maurus",
-44
-],
-[
-"Jerome Kern",
-44
-],
-[
-"María Elena Walsh",
-44
-],
-[
 "Stéphane Grappelli",
-44
-],
-[
-"Eugène Scribe",
 44
 ],
 [
@@ -1584,27 +1208,39 @@
 44
 ],
 [
+"Fats Waller",
+44
+],
+[
+"Jerome Kern",
+44
+],
+[
+"Ottorino Respighi",
+44
+],
+[
+"Charles-Valentin Alkan",
+44
+],
+[
+"María Elena Walsh",
+44
+],
+[
+"Enrique Granados",
+44
+],
+[
+"Giovanni Gabrieli",
+44
+],
+[
 "Georg Solti",
 43
 ],
 [
-"Farinelli",
-43
-],
-[
-"Marie d'Agoult",
-43
-],
-[
-"Philippe II, Duke of Orléans",
-43
-],
-[
-"Carl Perkins",
-43
-],
-[
-"André Previn",
+"Lorin Maazel",
 43
 ],
 [
@@ -1612,19 +1248,19 @@
 43
 ],
 [
-"Georges Moustaki",
+"Giuseppe Torelli",
 43
 ],
 [
-"Leopold Stokowski",
+"John Dowland",
 43
 ],
 [
-"Bud Luckey",
+"Carl Perkins",
 43
 ],
 [
-"Lorin Maazel",
+"Alexander Dargomyzhsky",
 43
 ],
 [
@@ -1636,19 +1272,15 @@
 43
 ],
 [
-"Peter of Castile",
+"Philippe II, Duke of Orléans",
 43
 ],
 [
-"Alexander Dargomyzhsky",
+"André Previn",
 43
 ],
 [
-"Kalākaua",
-43
-],
-[
-"Giuseppe Torelli",
+"Bud Luckey",
 43
 ],
 [
@@ -1656,67 +1288,19 @@
 43
 ],
 [
-"John Dowland",
-43
-],
-[
 "Pat Boone",
 43
 ],
 [
-"Władysław Tarnowski",
+"Georges Moustaki",
 43
 ],
 [
-"Theobald I of Navarre",
+"Leopold Stokowski",
 43
-],
-[
-"Wilhelm Müller",
-42
-],
-[
-"Emmerich Kálmán",
-42
 ],
 [
 "Hortense de Beauharnais",
-42
-],
-[
-"Patrick Moore",
-42
-],
-[
-"Hans von Bülow",
-42
-],
-[
-"Léonin",
-42
-],
-[
-"Conradin",
-42
-],
-[
-"Lyonel Feininger",
-42
-],
-[
-"Giacomo Balla",
-42
-],
-[
-"Bernard Germain de Lacépède",
-42
-],
-[
-"Ernst Öpik",
-42
-],
-[
-"Léo Ferré",
 42
 ],
 [
@@ -1724,31 +1308,19 @@
 42
 ],
 [
-"Joe Zawinul",
-41
+"Hans von Bülow",
+42
 ],
 [
-"Venantius Fortunatus",
-41
+"Emmerich Kálmán",
+42
+],
+[
+"Léo Ferré",
+42
 ],
 [
 "Hermann of Reichenau",
-41
-],
-[
-"Lili Boulanger",
-41
-],
-[
-"Victor Borge",
-41
-],
-[
-"Georg V of Hanover",
-41
-],
-[
-"Bernard de Ventadour",
 41
 ],
 [
@@ -1756,27 +1328,7 @@
 41
 ],
 [
-"Umberto Giordano",
-41
-],
-[
 "Elmer Bernstein",
-41
-],
-[
-"Milton Berle",
-41
-],
-[
-"André Grétry",
-41
-],
-[
-"Henri Wieniawski",
-41
-],
-[
-"Marin Marais",
 41
 ],
 [
@@ -1784,7 +1336,7 @@
 41
 ],
 [
-"Erich Wolfgang Korngold",
+"Dmytro Bortnianskyi",
 41
 ],
 [
@@ -1792,7 +1344,23 @@
 41
 ],
 [
-"Dmytro Bortnianskyi",
+"Lili Boulanger",
+41
+],
+[
+"Erich Wolfgang Korngold",
+41
+],
+[
+"André Grétry",
+41
+],
+[
+"Marin Marais",
+41
+],
+[
+"Henri Wieniawski",
 41
 ],
 [
@@ -1800,67 +1368,15 @@
 41
 ],
 [
-"Eddie Cantor",
+"Umberto Giordano",
 41
 ],
 [
-"Howlin' Wolf",
-40
-],
-[
-"Gregorio Allegri",
-40
-],
-[
-"Engelbert Humperdinck",
-40
-],
-[
-"Louis Spohr",
-40
-],
-[
-"Gian Carlo Menotti",
-40
-],
-[
-"Nikolaus Harnoncourt",
-40
-],
-[
-"Joe Jackson",
-40
-],
-[
-"Lalo Schifrin",
-40
-],
-[
-"Shel Silverstein",
-40
-],
-[
-"John Field",
-40
-],
-[
-"Art Blakey",
-40
-],
-[
-"Wanda Landowska",
-40
-],
-[
-"Carl Michael Bellman",
-40
+"Joe Zawinul",
+41
 ],
 [
 "Sidney Bechet",
-40
-],
-[
-"Hartmann von Aue",
 40
 ],
 [
@@ -1872,43 +1388,47 @@
 40
 ],
 [
+"Lalo Schifrin",
+40
+],
+[
+"Art Blakey",
+40
+],
+[
+"Shel Silverstein",
+40
+],
+[
+"Carl Michael Bellman",
+40
+],
+[
+"Gregorio Allegri",
+40
+],
+[
+"John Field",
+40
+],
+[
+"Gian Carlo Menotti",
+40
+],
+[
+"Louis Spohr",
+40
+],
+[
+"Engelbert Humperdinck",
+40
+],
+[
+"Jan Pieterszoon Sweelinck",
+39
+],
+[
 "Michael Praetorius",
-39
-],
-[
-"Coleman Hawkins",
-39
-],
-[
-"Johann Christoph Friedrich Bach",
-39
-],
-[
-"Edouard Lalo",
-39
-],
-[
-"Augusta of Saxe-Weimar-Eisenach",
-39
-],
-[
-"Barbara",
-39
-],
-[
-"Theano",
-39
-],
-[
-"Kassia",
-39
-],
-[
-"Stephen Foster",
-39
-],
-[
-"Franz von Suppè",
 39
 ],
 [
@@ -1916,43 +1436,15 @@
 39
 ],
 [
-"Tōru Takemitsu",
-39
-],
-[
-"Jan Pieterszoon Sweelinck",
-39
-],
-[
-"Fan S. Noli",
-39
-],
-[
-"Nikolai Rubinstein",
-39
-],
-[
-"Sergei Ivanovich Taneyev",
-39
-],
-[
-"Eugène Ysaÿe",
-39
-],
-[
 "Vincent d'Indy",
 39
 ],
 [
-"Georgy Sviridov",
-39
-],
-[
-"Mykola Leontovych",
-39
-],
-[
 "Tito Puente",
+39
+],
+[
+"Franz von Suppè",
 39
 ],
 [
@@ -1964,67 +1456,47 @@
 39
 ],
 [
-"Gilles Binchois",
-38
+"Sergei Ivanovich Taneyev",
+39
 ],
 [
-"Paul Mauriat",
-38
+"Mykola Leontovych",
+39
 ],
 [
-"John Dunstaple",
-38
+"Eugène Ysaÿe",
+39
 ],
 [
-"James Last",
-38
+"Tōru Takemitsu",
+39
 ],
 [
-"Maximilian III Joseph, Elector of Bavaria",
-38
+"Georgy Sviridov",
+39
 ],
 [
-"Bix Beiderbecke",
-38
+"Edouard Lalo",
+39
 ],
 [
-"Heinrich Biber",
-38
+"Coleman Hawkins",
+39
 ],
 [
-"Julie London",
-38
+"Stephen Foster",
+39
 ],
 [
-"Georges Auric",
-38
+"Johann Christoph Friedrich Bach",
+39
 ],
 [
-"Sergiu Celibidache",
-38
+"Barbara",
+39
 ],
 [
 "Johann Adolf Hasse",
-38
-],
-[
-"Aleksandra Pakhmutova",
-38
-],
-[
-"Hanns Eisler",
-38
-],
-[
-"Johann Stamitz",
-38
-],
-[
-"Thomas Arne",
-38
-],
-[
-"Paul Bowles",
 38
 ],
 [
@@ -2032,71 +1504,7 @@
 38
 ],
 [
-"Otar Iosseliani",
-38
-],
-[
-"Theodore the Studite",
-38
-],
-[
-"Harold Arlen",
-38
-],
-[
-"Gara Garayev",
-38
-],
-[
-"Bruno Walter",
-38
-],
-[
-"William Walton",
-38
-],
-[
-"Max Roach",
-38
-],
-[
-"Count of St. Germain",
-38
-],
-[
-"Joseph Joachim",
-38
-],
-[
-"W. Edwards Deming",
-38
-],
-[
-"Frederick Delius",
-38
-],
-[
-"Gottfried von Strassburg",
-38
-],
-[
-"Pancho Vladigerov",
-38
-],
-[
-"Josef Suk",
-38
-],
-[
-"Luigi Nono",
-38
-],
-[
 "Lionel Hampton",
-38
-],
-[
-"King Oliver",
 38
 ],
 [
@@ -2104,7 +1512,55 @@
 38
 ],
 [
+"Max Roach",
+38
+],
+[
+"Hanns Eisler",
+38
+],
+[
 "Reinhold Glière",
+38
+],
+[
+"Thomas Arne",
+38
+],
+[
+"Aleksandra Pakhmutova",
+38
+],
+[
+"Pancho Vladigerov",
+38
+],
+[
+"Heinrich Biber",
+38
+],
+[
+"Georges Auric",
+38
+],
+[
+"Frederick Delius",
+38
+],
+[
+"Paul Bowles",
+38
+],
+[
+"William Walton",
+38
+],
+[
+"Josef Suk",
+38
+],
+[
+"King Oliver",
 38
 ],
 [
@@ -2112,51 +1568,39 @@
 38
 ],
 [
-"John Mayall",
+"Gara Garayev",
 38
 ],
 [
-"Pauline Viardot",
-37
+"Johann Stamitz",
+38
 ],
 [
-"Giulio Caccini",
-37
+"Joseph Joachim",
+38
+],
+[
+"Luigi Nono",
+38
+],
+[
+"Harold Arlen",
+38
+],
+[
+"Bix Beiderbecke",
+38
+],
+[
+"James Last",
+38
+],
+[
+"Paul Mauriat",
+38
 ],
 [
 "Pietro Locatelli",
-37
-],
-[
-"Francesco Cavalli",
-37
-],
-[
-"Eugen d'Albert",
-37
-],
-[
-"Franz Berwald",
-37
-],
-[
-"Anton I of Saxony",
-37
-],
-[
-"Ira Gershwin",
-37
-],
-[
-"Ethel Smyth",
-37
-],
-[
-"Otto Klemperer",
-37
-],
-[
-"Luigi Russolo",
 37
 ],
 [
@@ -2164,55 +1608,11 @@
 37
 ],
 [
-"Suraphol Sombatcharoen",
+"Pauline Viardot",
 37
 ],
 [
-"Paul Gerhardt",
-37
-],
-[
-"Ernest Chausson",
-37
-],
-[
-"Cosima Wagner",
-37
-],
-[
-"Tom Lehrer",
-37
-],
-[
-"Johann Joachim Quantz",
-37
-],
-[
-"Henri Vieuxtemps",
-37
-],
-[
-"Emmanuel Chabrier",
-37
-],
-[
-"Adrian Willaert",
-37
-],
-[
-"Tommy Dorsey",
-37
-],
-[
-"Nikolai Myaskovsky",
-37
-],
-[
-"Hoagy Carmichael",
-37
-],
-[
-"Jacopone da Todi",
+"Francesco Cavalli",
 37
 ],
 [
@@ -2220,79 +1620,67 @@
 37
 ],
 [
+"Ethel Smyth",
+37
+],
+[
+"Tom Lehrer",
+37
+],
+[
 "Jelly Roll Morton",
 37
 ],
 [
-"Jean Ferrat",
-36
+"Emmanuel Chabrier",
+37
 ],
 [
-"Barbara of Portugal, Queen of Spain",
-36
+"Ernest Chausson",
+37
 ],
 [
-"Giovanni Battista Sammartini",
-36
+"Adrian Willaert",
+37
 ],
 [
-"Barbara Strozzi",
-36
+"Nikolai Myaskovsky",
+37
+],
+[
+"Giulio Caccini",
+37
+],
+[
+"Henri Vieuxtemps",
+37
+],
+[
+"Franz Berwald",
+37
+],
+[
+"Hoagy Carmichael",
+37
+],
+[
+"Luigi Russolo",
+37
+],
+[
+"Eugen d'Albert",
+37
+],
+[
+"Ira Gershwin",
+37
 ],
 [
 "Fernando Sor",
 36
 ],
 [
-"Albert Lortzing",
-36
-],
-[
-"Ahmad Jamal",
-36
-],
-[
-"Toots Thielemans",
-36
-],
-[
-"Eduard Hanslick",
-36
-],
-[
-"Leonardo De Lorenzo",
-36
-],
-[
-"Rodolphus Agricola",
-36
-],
-[
-"Gordon Parks",
-36
-],
-[
-"Nam June Paik",
-36
-],
-[
-"Fikret Amirov",
-36
-],
-[
-"Alberto Ginastera",
-36
-],
-[
-"Leopold Auer",
-36
-],
-[
-"Harry Partch",
-36
-],
-[
-"Francesco Maria Piave",
+"Barbara Strozzi",
 36
 ],
 [
@@ -2304,31 +1692,43 @@
 36
 ],
 [
-"Frederick III of Sicily",
+"Alberto Ginastera",
 36
 ],
 [
-"Leonardo Vinci",
-35
+"Albert Lortzing",
+36
 ],
 [
-"Link Wray",
-35
+"Giovanni Battista Sammartini",
+36
 ],
 [
-"Otto Nicolai",
-35
+"Ahmad Jamal",
+36
 ],
 [
-"Abdelhalim Hafez",
-35
+"Fikret Amirov",
+36
+],
+[
+"Gordon Parks",
+36
+],
+[
+"Toots Thielemans",
+36
+],
+[
+"Harry Partch",
+36
+],
+[
+"Jean Ferrat",
+36
 ],
 [
 "Gaspare Spontini",
-35
-],
-[
-"Gerry Mulligan",
 35
 ],
 [
@@ -2336,7 +1736,7 @@
 35
 ],
 [
-"Benny Carter",
+"Albert Roussel",
 35
 ],
 [
@@ -2344,59 +1744,7 @@
 35
 ],
 [
-"Wes Montgomery",
-35
-],
-[
-"Ethel Waters",
-35
-],
-[
-"Massimo Bontempelli",
-35
-],
-[
-"Niccolò Piccinni",
-35
-],
-[
-"Adolph Freiherr Knigge",
-35
-],
-[
-"Isaak Dunayevsky",
-35
-],
-[
-"Artur Schnabel",
-35
-],
-[
-"Franco Alfano",
-35
-],
-[
-"Wilhelm Kempff",
-35
-],
-[
-"Bud Powell",
-35
-],
-[
-"Joseph Strauss",
-35
-],
-[
-"Nicola Porpora",
-35
-],
-[
-"William Heinesen",
-35
-],
-[
-"Albert Roussel",
+"François Joseph Gossec",
 35
 ],
 [
@@ -2404,31 +1752,11 @@
 35
 ],
 [
+"Link Wray",
+35
+],
+[
 "Marcel Dupré",
-35
-],
-[
-"François Joseph Gossec",
-35
-],
-[
-"Henri Dutilleux",
-35
-],
-[
-"Neville Marriner",
-35
-],
-[
-"Morton Feldman",
-35
-],
-[
-"Ron Moody",
-35
-],
-[
-"W. C. Handy",
 35
 ],
 [
@@ -2436,127 +1764,67 @@
 35
 ],
 [
-"Stéphanie Félicité Ducrest de Saint-Aubin de Genlis",
+"Morton Feldman",
 35
 ],
 [
-"Ernest Bloch",
-34
+"W. C. Handy",
+35
 ],
 [
-"Gillo Pontecorvo",
-34
+"Henri Dutilleux",
+35
 ],
 [
-"Maria Antonia Walpurgis of Bavaria",
-34
+"Niccolò Piccinni",
+35
 ],
 [
-"Maria Malibran",
-34
+"Franco Alfano",
+35
 ],
 [
-"Bertran de Born",
-34
+"Bud Powell",
+35
 ],
 [
-"Niels Gade",
-34
+"Benny Carter",
+35
 ],
 [
-"Comtesse de Die",
-34
+"Otto Nicolai",
+35
 ],
 [
-"Cécile Chaminade",
-34
+"Nicola Porpora",
+35
 ],
 [
-"Einojuhani Rautavaara",
-34
+"Gerry Mulligan",
+35
 ],
 [
-"Georges Delerue",
-34
+"Isaak Dunayevsky",
+35
 ],
 [
-"Johann Ambrosius Bach",
-34
+"Joseph Strauss",
+35
 ],
 [
-"Luigi Dallapiccola",
-34
+"Wilhelm Kempff",
+35
 ],
 [
-"Louis Vierne",
-34
+"Wes Montgomery",
+35
 ],
 [
-"Carl Ditters von Dittersdorf",
-34
-],
-[
-"François Adrien Boieldieu",
-34
+"Leonardo Vinci",
+35
 ],
 [
 "Alexander von Zemlinsky",
-34
-],
-[
-"Jean-Antoine de Baïf",
-34
-],
-[
-"Claudio Villa",
-34
-],
-[
-"Jacques Ibert",
-34
-],
-[
-"Emanuel Schikaneder",
-34
-],
-[
-"Philippe de Vitry",
-34
-],
-[
-"Carl Reinecke",
-34
-],
-[
-"Anton Reicha",
-34
-],
-[
-"Orlando Gibbons",
-34
-],
-[
-"Atahualpa Yupanqui",
-34
-],
-[
-"Franz Benda",
-34
-],
-[
-"Gustave Charpentier",
-34
-],
-[
-"Paul Desmond",
-34
-],
-[
-"Willie Dixon",
-34
-],
-[
-"Anton Diabelli",
 34
 ],
 [
@@ -2564,7 +1832,11 @@
 34
 ],
 [
-"Mohammed Abdel Wahab",
+"Ernest Bloch",
+34
+],
+[
+"Carl Ditters von Dittersdorf",
 34
 ],
 [
@@ -2572,11 +1844,19 @@
 34
 ],
 [
-"Franz Xaver Gruber",
+"Pierre Schaeffer",
 34
 ],
 [
-"Pierre Schaeffer",
+"François Adrien Boieldieu",
+34
+],
+[
+"Einojuhani Rautavaara",
+34
+],
+[
+"Cécile Chaminade",
 34
 ],
 [
@@ -2584,60 +1864,80 @@
 34
 ],
 [
-"Vincenzo Galilei",
-34
-],
-[
-"Thomas of Celano",
-34
-],
-[
 "Son House",
 34
 ],
 [
-"Hamza Hakimzade Niyazi",
-33
+"Orlando Gibbons",
+34
 ],
 [
-"Andrea Gabrieli",
-33
+"Gustave Charpentier",
+34
 ],
 [
-"Ivan Rebroff",
-33
+"Anton Reicha",
+34
 ],
 [
-"Arthur Nikisch",
-33
+"Paul Desmond",
+34
 ],
 [
-"Anna Magdalena Bach",
-33
+"Niels Gade",
+34
 ],
 [
-"Francis Lai",
-33
+"Franz Xaver Gruber",
+34
 ],
 [
-"Francesca Caccini",
-33
+"Georges Delerue",
+34
 ],
 [
-"Ernest Louis, Grand Duke of Hesse and by Rhine",
-33
+"Mohammed Abdel Wahab",
+34
 ],
 [
-"Consuelo Velázquez",
-33
+"Anton Diabelli",
+34
 ],
 [
-"Ed Wynn",
-33
+"Claudio Villa",
+34
 ],
 [
-"György Cziffra",
-33
+"Carl Reinecke",
+34
+],
+[
+"Emanuel Schikaneder",
+34
+],
+[
+"Atahualpa Yupanqui",
+34
+],
+[
+"Louis Vierne",
+34
+],
+[
+"Willie Dixon",
+34
+],
+[
+"Jacques Ibert",
+34
+],
+[
+"Luigi Dallapiccola",
+34
+],
+[
+"Maria Antonia Walpurgis of Bavaria",
+34
 ],
 [
 "Wilhelmine of Prussia, Margravine of Brandenburg-Bayreuth",
@@ -2648,35 +1948,19 @@
 33
 ],
 [
-"Boris Asafyev",
-33
-],
-[
-"Clara Rockmore",
-33
-],
-[
-"Steve Allen",
-33
-],
-[
-"Franz Xaver Wolfgang Mozart",
-33
-],
-[
-"Alan Lomax",
-33
-],
-[
-"Ambroise Thomas",
-33
-],
-[
-"Joseph Mohr",
-33
-],
-[
 "George Antheil",
+33
+],
+[
+"Antoine Busnois",
+33
+],
+[
+"Consuelo Velázquez",
+33
+],
+[
+"Francesca Caccini",
 33
 ],
 [
@@ -2684,15 +1968,15 @@
 33
 ],
 [
-"Johann Crüger",
+"Percy Grainger",
 33
 ],
 [
-"Hugo Riemann",
+"Charley Patton",
 33
 ],
 [
-"Ernest II, Duke of Saxe-Coburg and Gotha",
+"Screamin' Jay Hawkins",
 33
 ],
 [
@@ -2704,23 +1988,23 @@
 33
 ],
 [
+"Dimitri Mitropoulos",
+33
+],
+[
+"Steve Allen",
+33
+],
+[
+"Andrea Gabrieli",
+33
+],
+[
 "Alfredo Casella",
 33
 ],
 [
-"Archduke Rudolf of Austria",
-33
-],
-[
-"Vincas Kudirka",
-33
-],
-[
-"Carlos Manuel de Céspedes del Castillo",
-33
-],
-[
-"Antoine Busnois",
+"Alan Lomax",
 33
 ],
 [
@@ -2728,23 +2012,19 @@
 33
 ],
 [
-"Screamin' Jay Hawkins",
+"Johann Crüger",
 33
 ],
 [
-"Juan Almeida Bosque",
+"Franz Xaver Wolfgang Mozart",
 33
 ],
 [
-"Percy Grainger",
+"Francis Lai",
 33
 ],
 [
-"Dimitri Mitropoulos",
-33
-],
-[
-"Pietro Della Valle",
+"Vincas Kudirka",
 33
 ],
 [
@@ -2752,35 +2032,19 @@
 33
 ],
 [
-"Charley Patton",
-33
-],
-[
 "Woody Herman",
 33
 ],
 [
-"John Arbuthnot",
+"Ambroise Thomas",
 33
 ],
 [
-"Ritwik Ghatak",
-32
+"Boris Asafyev",
+33
 ],
 [
-"Peter Cornelius",
-32
-],
-[
-"Alicia de Larrocha",
-32
-],
-[
-"Perez Prado",
-32
-],
-[
-"Adelina Patti",
+"Hans Leo Hassler",
 32
 ],
 [
@@ -2788,47 +2052,19 @@
 32
 ],
 [
-"Jaufré Rudel",
-32
-],
-[
 "Johann Mattheson",
 32
 ],
 [
-"Hans Leo Hassler",
+"Giovanni Bononcini",
 32
 ],
 [
-"Manna Dey",
+"Alessandro Stradella",
 32
 ],
 [
-"Franz Xaver Süssmayr",
-32
-],
-[
-"Donald Byrd",
-32
-],
-[
-"Johnny Mercer",
-32
-],
-[
-"Horace Silver",
-32
-],
-[
-"Erik Gustaf Geijer",
-32
-],
-[
-"Arnold Bax",
-32
-],
-[
-"Paul Abraham",
+"Ray Brown",
 32
 ],
 [
@@ -2840,15 +2076,7 @@
 32
 ],
 [
-"Jan Dismas Zelenka",
-32
-],
-[
-"Giovanni Battista Martini",
-32
-],
-[
-"Giacomo Carissimi",
+"Hugo Alfvén",
 32
 ],
 [
@@ -2856,31 +2084,11 @@
 32
 ],
 [
-"Heinrich August Marschner",
+"Johnny Mercer",
 32
 ],
 [
-"Benedetto Marcello",
-32
-],
-[
-"Giovanni Bononcini",
-32
-],
-[
-"Ali Akbar Khan",
-32
-],
-[
-"Béla Balázs",
-32
-],
-[
-"Alessandro Stradella",
-32
-],
-[
-"Hugo Alfvén",
+"Donald Byrd",
 32
 ],
 [
@@ -2888,7 +2096,19 @@
 32
 ],
 [
-"Scatman Crothers",
+"Franz Xaver Süssmayr",
+32
+],
+[
+"Giacomo Carissimi",
+32
+],
+[
+"Perez Prado",
+32
+],
+[
+"Arnold Bax",
 32
 ],
 [
@@ -2900,11 +2120,35 @@
 32
 ],
 [
-"Notker the Stammerer",
+"Ali Akbar Khan",
 32
 ],
 [
-"Kenny Clarke",
+"Benedetto Marcello",
+32
+],
+[
+"Paul Abraham",
+32
+],
+[
+"Jan Dismas Zelenka",
+32
+],
+[
+"Erik Gustaf Geijer",
+32
+],
+[
+"Heinrich August Marschner",
+32
+],
+[
+"Manna Dey",
+32
+],
+[
+"Horace Silver",
 32
 ],
 [
@@ -2912,27 +2156,19 @@
 32
 ],
 [
-"Norman Wisdom",
+"Kenny Clarke",
 32
 ],
 [
-"Ray Brown",
+"Jaufré Rudel",
 32
 ],
 [
-"Benny Golson",
-31
+"Peter Cornelius",
+32
 ],
 [
-"György Kurtág",
-31
-],
-[
-"Joseph Lanner",
-31
-],
-[
-"Gustav Leonhardt",
+"Saverio Mercadante",
 31
 ],
 [
@@ -2940,139 +2176,11 @@
 31
 ],
 [
-"Hans Knappertsbusch",
-31
-],
-[
-"Hermann Abendroth",
-31
-],
-[
-"Grażyna Bacewicz",
-31
-],
-[
-"Fanny Crosby",
-31
-],
-[
-"Dinu Lipatti",
-31
-],
-[
-"Kâzım Karabekir",
-31
-],
-[
-"Ludwig Minkus",
-31
-],
-[
-"Yvette Guilbert",
-31
-],
-[
-"Edward MacDowell",
-31
-],
-[
-"Arno Babajanian",
-31
-],
-[
-"Tyagaraja",
-31
-],
-[
-"Parashqevi Qiriazi",
-31
-],
-[
-"Antonio Sant'Elia",
-31
-],
-[
-"Paula von Preradović",
-31
-],
-[
-"Duchess Anna Amalia of Brunswick-Wolfenbüttel",
-31
-],
-[
-"Evald Aav",
-31
-],
-[
-"Bobby Helms",
-31
-],
-[
-"Ignaz Moscheles",
-31
-],
-[
-"Wilhelm Kienzl",
-31
-],
-[
-"Carl Stamitz",
-31
-],
-[
-"Ferdinand Hiller",
-31
-],
-[
-"Carl Heinrich Graun",
-31
-],
-[
 "Hans Werner Henze",
 31
 ],
 [
-"Saverio Mercadante",
-31
-],
-[
-"Johan Svendsen",
-31
-],
-[
-"Willem Mengelberg",
-31
-],
-[
-"Frankie Laine",
-31
-],
-[
-"Émile Jaques-Dalcroze",
-31
-],
-[
-"Freddy Quinn",
-31
-],
-[
-"Nikolay Ogarev",
-31
-],
-[
-"Odo of Cluny",
-31
-],
-[
-"Johann Gottfried Seume",
-31
-],
-[
-"Sigismond Thalberg",
-31
-],
-[
-"Berry Gordy",
+"Benny Golson",
 31
 ],
 [
@@ -3080,15 +2188,27 @@
 31
 ],
 [
-"Vítězslav Novák",
-31
-],
-[
 "Alfredo Catalani",
 31
 ],
 [
-"Serge Koussevitzky",
+"Yvette Guilbert",
+31
+],
+[
+"Duchess Anna Amalia of Brunswick-Wolfenbüttel",
+31
+],
+[
+"Fanny Crosby",
+31
+],
+[
+"Ludwig Minkus",
+31
+],
+[
+"Grażyna Bacewicz",
 31
 ],
 [
@@ -3100,147 +2220,83 @@
 31
 ],
 [
-"Robert Stolz",
-30
+"Serge Koussevitzky",
+31
 ],
 [
-"Ernest Ansermet",
-30
+"Berry Gordy",
+31
 ],
 [
-"Francesco Cilea",
-30
+"Johan Svendsen",
+31
 ],
 [
-"Johann Jakob Froberger",
-30
+"Willem Mengelberg",
+31
 ],
 [
-"Amy Beach",
-30
+"Wilhelm Kienzl",
+31
 ],
 [
-"Maria Szymanowska",
-30
+"Carl Stamitz",
+31
 ],
 [
-"Antônio Carlos Gomes",
-30
+"Tyagaraja",
+31
 ],
 [
-"Friedrich von Flotow",
-30
+"Ignaz Moscheles",
+31
 ],
 [
-"Julius Fucik",
-30
+"Carl Heinrich Graun",
+31
+],
+[
+"Ferdinand Hiller",
+31
+],
+[
+"Freddy Quinn",
+31
+],
+[
+"Edward MacDowell",
+31
+],
+[
+"Evald Aav",
+31
+],
+[
+"Vítězslav Novák",
+31
+],
+[
+"Sigismond Thalberg",
+31
+],
+[
+"Arno Babajanian",
+31
+],
+[
+"Joseph Lanner",
+31
+],
+[
+"Hans Knappertsbusch",
+31
+],
+[
+"György Kurtág",
+31
 ],
 [
 "Friedrich Kalkbrenner",
-30
-],
-[
-"Norodom Suramarit",
-30
-],
-[
-"Clemens Krauss",
-30
-],
-[
-"August Kubizek",
-30
-],
-[
-"Big Joe Turner",
-30
-],
-[
-"T-Bone Walker",
-30
-],
-[
-"Theodor Leschetizky",
-30
-],
-[
-"Manos Hatzidakis",
-30
-],
-[
-"Constantijn Huygens",
-30
-],
-[
-"Mauro Giuliani",
-30
-],
-[
-"Cai Yan",
-30
-],
-[
-"Billy Strayhorn",
-30
-],
-[
-"Marcabru",
-30
-],
-[
-"Siegfried Wagner",
-30
-],
-[
-"Janet Baker",
-30
-],
-[
-"Cecil Taylor",
-30
-],
-[
-"Hans Richter",
-30
-],
-[
-"Johann Joseph Fux",
-30
-],
-[
-"Antonio Caldara",
-30
-],
-[
-"Rafael Kubelik",
-30
-],
-[
-"Red Skelton",
-30
-],
-[
-"Saint Gall",
-30
-],
-[
-"Paddy Chayefsky",
-30
-],
-[
-"George Szell",
-30
-],
-[
-"Émile Waldteufel",
-30
-],
-[
-"Riz Ortolani",
-30
-],
-[
-"Vittorio Monti",
 30
 ],
 [
@@ -3248,11 +2304,15 @@
 30
 ],
 [
-"John Taverner",
+"Dave Grusin",
 30
 ],
 [
-"Julian Bream",
+"Alois Hába",
+30
+],
+[
+"Leonardo Leo",
 30
 ],
 [
@@ -3264,7 +2324,7 @@
 30
 ],
 [
-"Ji Kang",
+"Eric Dolphy",
 30
 ],
 [
@@ -3272,47 +2332,35 @@
 30
 ],
 [
-"Thomas Campion",
+"Amy Beach",
 30
 ],
 [
-"William Boyce",
+"Theodor Leschetizky",
 30
 ],
 [
-"Józef Elsner",
+"Francesco Cilea",
 30
 ],
 [
-"Jimmy Smith",
+"Bernardo Pasquini",
 30
 ],
 [
-"Empress Wanrong",
+"Siegfried Wagner",
 30
 ],
 [
-"Yusef Lateef",
+"Antonio Caldara",
 30
 ],
 [
-"Dave Grusin",
+"Julius Fucik",
 30
 ],
 [
-"Leonardo Leo",
-30
-],
-[
-"Alois Hába",
-30
-],
-[
-"Józef Kazimierz Hofmann",
-30
-],
-[
-"Gil Evans",
+"Big Joe Turner",
 30
 ],
 [
@@ -3320,15 +2368,51 @@
 30
 ],
 [
-"George Shearing",
+"Johann Joseph Fux",
 30
 ],
 [
-"Eric Dolphy",
+"Jimmy Smith",
 30
 ],
 [
-"Bernardo Pasquini",
+"Friedrich von Flotow",
+30
+],
+[
+"Norodom Suramarit",
+30
+],
+[
+"William Boyce",
+30
+],
+[
+"Rafael Kubelik",
+30
+],
+[
+"Mikhail Kuzmin",
+30
+],
+[
+"Billy Strayhorn",
+30
+],
+[
+"Mauro Giuliani",
+30
+],
+[
+"Empress Wanrong",
+30
+],
+[
+"Riz Ortolani",
+30
+],
+[
+"Émile Waldteufel",
 30
 ],
 [
@@ -3340,7 +2424,23 @@
 30
 ],
 [
-"Ben Webster",
+"Manos Hatzidakis",
+30
+],
+[
+"Vittorio Monti",
+30
+],
+[
+"George Shearing",
+30
+],
+[
+"Antônio Carlos Gomes",
+30
+],
+[
+"Robert Stolz",
 30
 ]
 ]

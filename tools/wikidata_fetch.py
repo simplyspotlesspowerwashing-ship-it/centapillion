@@ -46,7 +46,7 @@ SPEC = {
     "australiacity": {"where": "?x wdt:P17 wd:Q408 ; wdt:P31 ?t . ?t wdt:P279* wd:Q515 .", "min": 8},
     "texascity": {"where": "?x wdt:P31 wd:Q1093829 ; wdt:P131+ wd:Q1439 .", "min": 6},
     "painter": {"where": "?x wdt:P106 wd:Q1028181 . FILTER EXISTS { ?w wdt:P170 ?x ; wdt:P31 wd:Q3305213 . }", "min": 45},  # has a painting on Wikidata (drops hobbyists)
-    "composer": {"where": "?x wdt:P106 wd:Q36834 ; wdt:P569 ?b . FILTER(YEAR(?b) < 1935) FILTER EXISTS { ?w wdt:P86 ?x . }", "min": 30},  # has a composed work on Wikidata
+    "composer": {"where": "?x wdt:P106 wd:Q36834 ; wdt:P569 ?b . FILTER(YEAR(?b) < 1935) FILTER EXISTS { ?w wdt:P86 ?x . } MINUS { ?x wdt:P106 wd:Q177220 } MINUS { ?x wdt:P136 wd:Q8341 } MINUS { ?x wdt:P106 wd:Q2526255 } MINUS { ?x wdt:P106 wd:Q245068 }", "min": 30},  # has a composed work; not singers, jazz, film directors, comedians
     "scientist": {"where": "?x wdt:P106/wdt:P279* wd:Q901 .", "min": 60},
     "disney": {"where": "?x wdt:P31 wd:Q11424 ; wdt:P272 wd:Q1047410 .", "min": 0},
     "pixar": {"where": "VALUES ?t { wd:Q11424 wd:Q202866 } ?x wdt:P31 ?t ; wdt:P272 wd:Q127552 .", "min": 0},  # features only

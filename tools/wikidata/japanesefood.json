@@ -24,15 +24,15 @@
 59
 ],
 [
-"onigiri",
-53
-],
-[
 "miso soup",
 53
 ],
 [
 "miso",
+53
+],
+[
+"onigiri",
 53
 ],
 [
@@ -52,11 +52,11 @@
 40
 ],
 [
-"oden",
+"wagashi",
 34
 ],
 [
-"wagashi",
+"oden",
 34
 ],
 [
@@ -72,11 +72,11 @@
 30
 ],
 [
-"izakaya",
+"sencha",
 30
 ],
 [
-"sencha",
+"izakaya",
 30
 ],
 [
@@ -100,20 +100,12 @@
 26
 ],
 [
-"Yoshinoya",
-24
-],
-[
 "Chikuwa",
 23
 ],
 [
 "gyokuro",
 23
-],
-[
-"MOS Burger",
-22
 ],
 [
 "kushikatsu",
@@ -124,19 +116,19 @@
 21
 ],
 [
-"curry bread",
-19
-],
-[
 "Jingisukan",
 19
 ],
 [
-"monjayaki",
-18
+"curry bread",
+19
 ],
 [
 "Kusa mochi",
+18
+],
+[
+"monjayaki",
 18
 ],
 [
@@ -152,10 +144,6 @@
 16
 ],
 [
-"Wagamama",
-15
-],
-[
 "Light cheese cake",
 15
 ],
@@ -168,52 +156,24 @@
 11
 ],
 [
-"Sukiyabashi Jiro",
-11
-],
-[
-"Benihana",
-10
-],
-[
 "horumonyaki",
 10
-],
-[
-"Ichibanya",
-10
-],
-[
-"kōji",
-9
 ],
 [
 "gunkanmaki",
 9
 ],
 [
-"Iekei Ramen",
-8
-],
-[
-"Matsuya Foods",
-8
-],
-[
-"Sarku Japan",
-8
+"kōji",
+9
 ],
 [
 "hitsumabushi",
 8
 ],
 [
-"Freshness Burger",
-7
-],
-[
-"HokBen",
-7
+"Iekei Ramen",
+8
 ],
 [
 "kaki fry",
@@ -232,15 +192,7 @@
 6
 ],
 [
-"Italian Tomato",
-5
-],
-[
 "itamae",
-5
-],
-[
-"Koni Store",
 5
 ],
 [
@@ -248,63 +200,11 @@
 5
 ],
 [
-"Ivan Ramen",
-4
-],
-[
-"Nihonryori Ryugin",
-4
-],
-[
-"n/naka",
-4
-],
-[
-"Okonomi-mura",
-4
-],
-[
 "shirumono",
 4
 ],
 [
-"Em",
-3
-],
-[
-"Yukimura",
-3
-],
-[
-"Sushi Nakazawa",
-3
-],
-[
-"Japanese restaurant",
-3
-],
-[
-"Yoshi's",
-3
-],
-[
-"Hokka Hokka Tei",
-3
-],
-[
-"itsu",
-3
-],
-[
-"Kayabukiya Tavern",
-3
-],
-[
-"hot roll",
-3
-],
-[
-"SingleThread",
+"tanukijiru",
 3
 ],
 [
@@ -312,19 +212,7 @@
 3
 ],
 [
-"Sushi Saito",
-3
-],
-[
-"tanukijiru",
-3
-],
-[
-"Zuboraya",
-3
-],
-[
-"Sticks'n'Sushi",
+"hot roll",
 3
 ],
 [
@@ -332,7 +220,7 @@
 3
 ],
 [
-"Masa",
+"Japanese restaurant",
 3
 ]
 ]

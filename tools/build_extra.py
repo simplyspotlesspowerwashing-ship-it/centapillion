@@ -214,6 +214,11 @@ BLOCK = {
     "primate": re.compile(r"^(caveman|human|homo sapiens)$"),
     "cartoon": re.compile(r"^(santa claus|jesus|god|death)$"),
     "spice": re.compile(r"^(table salt|salt)$"),
+    "italianfood": re.compile(r"^(cabbage roll|caesar salad|fish and chips)$"),
+    "japanesefood": re.compile(r"^(sichuan pepper|curry|kimchi)$"),
+    "indianfood": re.compile(r"^(fish and chips|chicken tikka masala)$"),
+    "mexicanfood": re.compile(r"taquer[ií]a|^el adobe|restaurant|^chili$"),
+    "moon": re.compile(r"^(moon|s/\d.*|moon of .*)$"),
     "dinosaur": re.compile(r"^(crocodile|fossil|mammal|turtle|bird|lizard|reptile|snake|shark)$"),
     "gem": re.compile(r"^(bone|flint|ivory|kidney ore|metal-coated crystals|synthetic .*|birthstone|glass|plastic)$"),
     "simpsons": re.compile(r"\b(family|characters?|list of)\b|^(d'oh!?|duff beer|kwik-e-mart|springfield|the simpsons)$"),
@@ -293,7 +298,7 @@ WIKIDATA = os.path.join(ROOT, "tools", "wikidata")
 
 
 # Prompts whose Wikidata class turned out to be the wrong set of things.
-WIKIDATA_SKIP = {"unit", "houseplant", "console", "musical", "pixar"}
+WIKIDATA_SKIP = {"unit", "houseplant", "console", "musical", "pixar", "reptile", "disney"}
 
 
 def wikidata_items(pid):
