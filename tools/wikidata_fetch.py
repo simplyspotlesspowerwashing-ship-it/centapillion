@@ -76,8 +76,8 @@ SPEC = {
     # --- widen thin prompts ---
     "snake": taxon("Q16986904", 3),  # Ophidia
     "extinct": {"where": "?x wdt:P141 wd:Q237350 ; wdt:P1843 ?cn . FILTER(lang(?cn) = 'en')", "min": 3, "common": True},
-    "fruit": {"where": "{ ?x wdt:P279+ wd:Q3314483 } UNION { ?x wdt:P31/wdt:P279* wd:Q3314483 }", "min": 1},
-    "vegetable": {"where": "{ ?x wdt:P279+ wd:Q11004 } UNION { ?x wdt:P31/wdt:P279* wd:Q11004 }", "min": 1},
+    "fruit": {"where": "?x wdt:P279+ wd:Q3314483 .", "min": 3},  # kinds of fruit, not cultivars
+    "vegetable": {"where": "?x wdt:P279+ wd:Q11004 .", "min": 3},
     "berry": {"where": "?x %s wd:Q13184 ." % KIND, "min": 3},
     "superhero": {"where": "?x wdt:P106 wd:Q188784 .", "min": 3},
     "superhero_villain": {"where": "?x wdt:P9071 wd:Q6498903 .", "min": 3},
@@ -146,7 +146,7 @@ SPEC = {
     "dumpling": kinds("Q1854639"),
     "cookie": {"where": "?x %s wd:Q13266 ." % KIND, "min": 2},
     "fastfood": {"where": "?x wdt:P31 wd:Q18509232 .", "min": 1},
-    "candy": {"where": "VALUES ?k { wd:Q185583 wd:Q1361086 wd:Q5159627 } { ?x wdt:P279+ ?k } UNION { ?x wdt:P31/wdt:P279* ?k }", "min": 1},
+    "candy": {"where": "{ ?x wdt:P279+ wd:Q185583 } UNION { ?x wdt:P31 wd:Q1361086 } UNION { ?x wdt:P279 wd:Q1361086 }", "min": 1},  # candies and chocolate bars
     "cereal": {"where": "?x %s wd:Q768267 ." % KIND, "min": 0},
     "soda": {"where": "?x %s wd:Q147538 ." % KIND, "min": 3},
     "beer": {"where": "?x %s wd:Q1998962 ." % KIND, "min": 2},
@@ -171,8 +171,8 @@ SPEC = {
     "moon": {"where": "VALUES ?p { wd:Q2 wd:Q111 wd:Q319 wd:Q193 wd:Q324 wd:Q332 wd:Q339 } ?x wdt:P397 ?p ; wdt:P31/wdt:P279* wd:Q2537 .", "min": 0},  # moons of the planets and Pluto
     "constellation": {"where": "?x wdt:P31 wd:Q8928 .", "min": 0},
     "currency": {"where": "?x wdt:P31 wd:Q8142 .", "min": 10},
-    "unit": {"where": "?x wdt:P31/wdt:P279* wd:Q47574 .", "min": 4},
-    "instrument": {"where": "{ ?x wdt:P279+ wd:Q34379 } UNION { ?x wdt:P31/wdt:P279* wd:Q34379 }", "min": 2},
+    "unit": {"where": "{ ?x wdt:P31 wd:Q47574 } UNION { ?x wdt:P31 ?u . ?u wdt:P279 wd:Q47574 } MINUS { ?x wdt:P31/wdt:P279* wd:Q8142 } MINUS { ?x wdt:P31/wdt:P279* wd:Q11514315 }", "min": 4},  # units, not currencies or eras
+    "instrument": {"where": "?x wdt:P279+ wd:Q34379 .", "min": 3},  # kinds of instrument, not individual instruments or software
     "musicgenre": {"where": "?x wdt:P31 wd:Q188451 .", "min": 20},
     "dance": kinds("Q11639", min=3, deep=True),
     "sport": {"where": "?x %s wd:Q349 ." % KIND, "min": 15},

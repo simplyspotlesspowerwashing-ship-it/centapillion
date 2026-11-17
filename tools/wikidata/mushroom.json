@@ -4,12 +4,24 @@
 90
 ],
 [
+"cep",
+89
+],
+[
+"golden chanterelle",
+76
+],
+[
 "oyster mushroom",
 70
 ],
 [
 "shiitake",
 63
+],
+[
+"lacquered bracket",
+53
 ],
 [
 "Lawyers' wig",
@@ -20,8 +32,16 @@
 53
 ],
 [
+"Devil's bolete",
+52
+],
+[
 "Honey Fungus",
 51
+],
+[
+"Slippery Jack",
+49
 ],
 [
 "common puffball",
@@ -52,12 +72,32 @@
 44
 ],
 [
+"chicken of the woods",
+44
+],
+[
 "horse mushroom",
 43
 ],
 [
 "Common inkcap",
 43
+],
+[
+"turkey tail",
+43
+],
+[
+"hen-of-the-woods; ram's head; sheep's head",
+42
+],
+[
+"island cetraria lichen",
+42
+],
+[
+"Rusts",
+40
 ],
 [
 "Splitgill",
@@ -72,12 +112,44 @@
 39
 ],
 [
+"Bearded tooth",
+39
+],
+[
+"summer cep",
+38
+],
+[
 "Blushing Wood Mushroom",
 36
 ],
 [
 "Scaly Wood Mushroom",
 36
+],
+[
+"gilded brittlegill",
+36
+],
+[
+"birch polypore",
+36
+],
+[
+"cup lichen",
+35
+],
+[
+"Black Périgord Truffle",
+35
+],
+[
+"Reindeer lichen",
+34
+],
+[
+"orange wall lichen",
+34
 ],
 [
 "gemmed Amanita",
@@ -92,11 +164,71 @@
 34
 ],
 [
+"Rufous Milkcap",
+34
+],
+[
+"fleecy milk-cap",
+34
+],
+[
 "Jack o'Lantern mushroom",
 33
 ],
 [
+"dead man's fingers",
+33
+],
+[
+"beard lichen",
+32
+],
+[
+"Beard Lichen",
+32
+],
+[
+"Oak moss",
+32
+],
+[
+"Old Man's Beard",
+32
+],
+[
+"Treemoss",
+32
+],
+[
+"ring lichen",
+31
+],
+[
+"grass green russula",
+31
+],
+[
+"green brittlegill",
+31
+],
+[
+"velvet rollrim",
+31
+],
+[
+"Orange peel fungus",
+30
+],
+[
+"Iodine bolete",
+30
+],
+[
 "shaggy scalycap",
+30
+],
+[
+"Scaly tooth",
 30
 ],
 [
@@ -104,11 +236,59 @@
 29
 ],
 [
+"Black morel",
+28
+],
+[
+"world map lichen",
+28
+],
+[
+"Yellow map lichen;   World map lichen",
+28
+],
+[
+"yellow swamp brittlegill",
+28
+],
+[
+"yellow swamp russula",
+28
+],
+[
+"fission yeast",
+28
+],
+[
+"artist's bracket",
+28
+],
+[
 "Deer Mushroom",
 28
 ],
 [
+"Chestnut blight",
+27
+],
+[
+"fragile brittlegill",
+27
+],
+[
+"Cup fungus",
+26
+],
+[
+"Fenugreek milkcap",
+26
+],
+[
 "sprucecone cap",
+25
+],
+[
+"dyer's polypore",
 25
 ],
 [
@@ -120,16 +300,140 @@
 24
 ],
 [
+"Bridal veil stinkhorn",
+24
+],
+[
 "Crimson waxcap",
 24
+],
+[
+"rim lichen",
+23
+],
+[
+"shield lichen",
+23
+],
+[
+"lung lichen",
+23
+],
+[
+"Lungwort",
+23
 ],
 [
 "Fluted bird's nest",
 23
 ],
 [
+"amphibian chytrid fungus",
+23
+],
+[
+"Bd",
+23
+],
+[
+"Chytrid Fungus",
+23
+],
+[
+"orange lichen",
+22
+],
+[
+"cetraria lichen",
+22
+],
+[
+"Cetraria lichens",
+22
+],
+[
+"Heath lichens",
+22
+],
+[
+"Iceland lichens",
+22
+],
+[
+"Icelandmoss",
+22
+],
+[
+"Firedot lichens",
+22
+],
+[
+"Jewel lichens",
+22
+],
+[
+"Orange lichens",
+22
+],
+[
+"Grey milkcap",
+22
+],
+[
+"Hammered shield lichen",
+21
+],
+[
+"felt lichen",
+20
+],
+[
+"Mealy tooth",
+20
+],
+[
+"wolf lichen",
+19
+],
+[
+"Birch Milkcap",
+19
+],
+[
 "winter stalkball",
 19
+],
+[
+"Charred-Pancake Cup",
+19
+],
+[
+"Sarcosoma spp.",
+19
+],
+[
+"Witches Cauldron",
+19
+],
+[
+"elegant orange wall lichen",
+19
+],
+[
+"Common greenshield lichen",
+18
+],
+[
+"flavoparmelia lichen",
+18
+],
+[
+"cartilage lichen",
+18
+],
+[
+"Spongebob Squarepants mushroom",
+18
 ],
 [
 "termiteshrooms",
@@ -140,12 +444,176 @@
 18
 ],
 [
+"wart lichen",
+17
+],
+[
+"horsehair lichen",
+17
+],
+[
+"tube lichen",
+17
+],
+[
+"Pale milkcap",
+17
+],
+[
+"Speck lichens and Wart lichens",
+17
+],
+[
 "White Ferula Mushroom",
 17
 ],
 [
+"jelly lichen",
+16
+],
+[
+"iwatake",
+16
+],
+[
+"Earth Tongues",
+16
+],
+[
+"Jelly lichens",
+16
+],
+[
+"rosette lichen",
+15
+],
+[
+"navel lichen",
+15
+],
+[
+"Sunshine lichens",
+15
+],
+[
+"Yellow ruffle lichens",
+15
+],
+[
+"greyling bracket",
+15
+],
+[
+"reindeer lichen",
+15
+],
+[
+"Florida beard lichen",
+15
+],
+[
+"witch's hair lichen",
+14
+],
+[
+"dot lichen",
+14
+],
+[
+"kidney lichen",
+14
+],
+[
+"lemon lichen",
+14
+],
+[
+"pore lichen",
+14
+],
+[
+"Beard lichen",
+14
+],
+[
+"giant shield lichen",
+14
+],
+[
+"Fishbone beard lichen",
+14
+],
+[
+"cracked lichen",
+13
+],
+[
+"map lichen",
+13
+],
+[
+"eggyolk lichen",
+13
+],
+[
+"snow lichen",
+13
+],
+[
+"Field dog-lichen;   Felt lichen",
+13
+],
+[
 "gassy knight",
 13
+],
+[
+"Rosette lichen",
+13
+],
+[
+"Boletopsis spp.",
+13
+],
+[
+"Thorn cladonia",
+13
+],
+[
+"Blue-gray rosette lichen",
+13
+],
+[
+"Powder-back rosette lichen",
+13
+],
+[
+"crottal",
+13
+],
+[
+"farinose cartilage lichen",
+13
+],
+[
+"abrothallus lichen",
+13
+],
+[
+"fringed lichen",
+12
+],
+[
+"cap lichen",
+12
+],
+[
+"dimple lichen",
+12
+],
+[
+"silverskin lichen",
+12
 ],
 [
 "golden fairy-club",
@@ -156,7 +624,79 @@
 12
 ],
 [
+"Stippleback lichens",
+12
+],
+[
+"chalice lichen",
+12
+],
+[
+"melanelia lichen",
+12
+],
+[
+"frosted lichen",
+12
+],
+[
+"club lichen",
+12
+],
+[
+"dust lichen",
+12
+],
+[
+"Camouflage lichens",
+12
+],
+[
+"rimmed navel lichen",
+12
+],
+[
+"roccella lichen",
+12
+],
+[
+"chocolate chip lichen",
+12
+],
+[
+"Many forked cladonia",
+12
+],
+[
+"cudbear lichen",
+12
+],
+[
+"orchil roccella lichen",
+12
+],
+[
+"Crinkled snow lichen",
+12
+],
+[
+"athelia lichen",
+12
+],
+[
+"starry rosette lichen",
+12
+],
+[
+"scaly tooth",
+12
+],
+[
 "Marsh Honey Fungus",
+12
+],
+[
+"blistered navel lichen",
 12
 ],
 [
@@ -164,11 +704,283 @@
 12
 ],
 [
+"rinodina lichen",
+11
+],
+[
+"skin lichen",
+11
+],
+[
+"Bloodspot lichens",
+11
+],
+[
+"bloodstain lichen",
+11
+],
+[
+"lecidella lichen",
+11
+],
+[
+"Tiny button lichen",
+11
+],
+[
+"fishscale lichen",
+11
+],
+[
+"ragged lichen",
+11
+],
+[
+"punctelia",
+11
+],
+[
+"Black tar lichen",
+11
+],
+[
+"Pycnoporellus spp.",
+11
+],
+[
+"Bloodred Bracket",
+11
+],
+[
+"Blood Red Bracket",
+11
+],
+[
+"Orange polypore",
+11
+],
+[
+"Tropical Cinnabar bracket",
+11
+],
+[
+"Bristly beard lichen; &nbsp; Shaggy beard lichen",
+11
+],
+[
+"forest speckleback lichen",
+11
+],
+[
+"Dust lichens",
+11
+],
+[
+"Candy lichen",
+11
+],
+[
+"peppermint drop lichen",
+11
+],
+[
+"finger cup lichen",
+11
+],
+[
+"Fremont's horsehair lichen",
+11
+],
+[
+"Tree-hair Lichen",
+11
+],
+[
+"honeycombed lichen",
+11
+],
+[
+"membraneous felt lichen",
+11
+],
+[
+"Gray's cup lichen",
+11
+],
+[
+"brown shingle lichens",
+11
+],
+[
+"mouse lichens",
+11
+],
+[
 "Citrine Waxcap",
 11
 ],
 [
+"beechmast candlesnuff",
+11
+],
+[
+"Beret lichens",
+10
+],
+[
+"Cap lichens",
+10
+],
+[
+"needle lichen",
+10
+],
+[
+"protoblastenia lichen",
+10
+],
+[
+"Powdery kidney lichen",
+10
+],
+[
+"spike lichen",
+10
+],
+[
+"chaenothecopsis lichen",
+10
+],
+[
+"Coenogonium lichens",
+10
+],
+[
+"Pixie-hair lichens",
+10
+],
+[
+"wreath lichen",
+10
+],
+[
+"Elegant camouflage lichen",
+10
+],
+[
+"allantoparmelia lichen",
+10
+],
+[
+"Toughshank Jellygall",
+10
+],
+[
+"script lichen",
+10
+],
+[
+"Boreal oakmoss lichen",
+10
+],
+[
+"xanthoparmelia lichen",
+10
+],
+[
+"lecidea lichen",
+10
+],
+[
+"disk lichen",
+10
+],
+[
+"agonimia lichen",
+10
+],
+[
+"matted lichen",
+10
+],
+[
+"bran lichen",
+10
+],
+[
+"parmotrema lichen",
+10
+],
+[
+"Ruffle lichens",
+10
+],
+[
+"phaeographis",
+10
+],
+[
+"nail lichen",
+10
+],
+[
+"Easter lichen",
+10
+],
+[
+"blemished lichen",
+10
+],
+[
 "Dingy Waxcap",
+10
+],
+[
+"Punctured rock tripe lichen",
+10
+],
+[
+"Bearded jellyskin",
+10
+],
+[
+"Saturn skin lichen",
+10
+],
+[
+"Flat-fruited pelt;   Horizontal felt lichen",
+10
+],
+[
+"horizontal felt lichen",
+10
+],
+[
+"whiteworm lichen",
+10
+],
+[
+"Mountain oakmoss lichen",
+10
+],
+[
+"sulphur lichen",
+10
+],
+[
+"White rim-lichen;   Rim Lichen",
+10
+],
+[
+"parmelina",
+10
+],
+[
+"teloschistes lichen",
+10
+],
+[
+"globe ball lichen",
 10
 ],
 [
@@ -176,19 +988,4683 @@
 10
 ],
 [
+"boreal cup lichen",
+10
+],
+[
+"deformed cup lichen",
+10
+],
+[
+"Florke's cup lichen",
+10
+],
+[
+"Vesuvius snow lichen",
+10
+],
+[
 "Patrician Deer Mushroom",
 10
+],
+[
+"everniastrum lichen",
+10
+],
+[
+"Zoned tooth",
+10
+],
+[
+"ball lichen",
+10
+],
+[
+"Oak polypore",
+10
+],
+[
+"parmelia abrothallus lichen",
+9
+],
+[
+"acrocordia lichen",
+9
+],
+[
+"anisomeridium lichen",
+9
+],
+[
+"arctoparmelia lichen",
+9
+],
+[
+"shell lichen",
+9
+],
+[
+"dotted lichen",
+9
+],
+[
+"porpidia lichen",
+9
+],
+[
+"carbonea lichen",
+9
+],
+[
+"earth lichen",
+9
+],
+[
+"catillaria lichen",
+9
+],
+[
+"dendrographa lichen",
+9
+],
+[
+"crater lichen",
+9
+],
+[
+"hyperphyscia lichen",
+9
+],
+[
+"flavopunctelia lichen",
+9
+],
+[
+"Speckled greenshield",
+9
+],
+[
+"blackcurly lichen",
+9
+],
+[
+"old wood rimmed lichen",
+9
+],
+[
+"Chestnut wrinkle-lichen",
+9
+],
+[
+"eyed ruffle lichen",
+9
+],
+[
+"Tuckermanopsis lichen",
+9
+],
+[
+"Velvet tooth",
+9
+],
+[
+"Shadow-crust lichens",
+9
+],
+[
+"hypotrachyna lichen",
+9
+],
+[
+"Peppered rock-shield",
+9
+],
+[
+"Xanthoparmelia lichen",
+9
+],
+[
+"imshaugia lichen",
+9
+],
+[
+"Spike lichen;   Rusted stubble",
+9
+],
+[
+"Rim-lichens; &nbsp; Lecania lichens",
+9
+],
+[
+"Mealy rim-lichen;   Rim lichen",
+9
+],
+[
+"Hidden goldspeck lichen",
+9
+],
+[
+"Pimpled kidney lichen",
+9
+],
+[
+"xylographa lichen",
+9
+],
+[
+"Cow pie lichen",
+9
+],
+[
+"Pale-bellied dog-lichen;   Felt lichen",
+9
+],
+[
+"Shadow lichens",
+9
+],
+[
+"physciella",
+9
+],
+[
+"Powdery-margined cryptic rosette lichen",
+9
+],
+[
+"polyblastia lichen",
+9
+],
+[
+"light and dark lichen",
+9
+],
+[
+"Powder-headed tube lichen",
+9
+],
+[
+"thelopsis lichen",
+9
+],
+[
+"Grain-spored lichens;   Sarcogyne lichens",
+9
+],
+[
+"sarcogyne lichen",
+9
+],
+[
+"Ridged tooth",
+9
+],
+[
+"Fringed chocolate chip lichen",
+9
+],
+[
+"sporastatia lichen",
+9
+],
+[
+"Sporastatia lichens",
+9
+],
+[
+"cylindric navel lichen",
+9
+],
+[
+"Fringed rock tripe lichen",
+9
+],
+[
+"Alpine camouflage lichen",
+9
+],
+[
+"Peppered rock tripe lichen",
+9
+],
+[
+"thelidium lichen",
+9
+],
+[
+"Thelopsis lichens",
+9
+],
+[
+"trypelthelium lichen",
+9
+],
+[
+"Common script lichen",
+9
+],
+[
+"pencilmark lichen",
+9
+],
+[
+"Pencilmark lichen",
+9
+],
+[
+"Hooded rosette lichen",
+9
+],
+[
+"Alpine bloodspot",
+9
+],
+[
+"anzia lichen",
+9
+],
+[
+"Dog Lichen",
+9
+],
+[
+"Many-fruited pelt; &nbsp; Felt lichen",
+9
+],
+[
+"Tomato leaf spot fungus",
+9
+],
+[
+"absconditella lichen",
+9
+],
+[
+"fellhanera lichen",
+9
+],
+[
+"thelotrema",
+9
+],
+[
+"Gold cobblestone lichen",
+8
+],
+[
+"Schleicher's cracked lichen",
+8
+],
+[
+"Schleicher's Cracked Lichenen",
+8
+],
+[
+"Soil paint lichen",
+8
+],
+[
+"adelolecia lichen",
+8
+],
+[
+"leaf spot of maize",
+8
+],
+[
+"anthracothecium lichen",
+8
+],
+[
+"Arctoparmelia lichen",
+8
+],
+[
+"rimmed lichen",
+8
+],
+[
+"astrothelium lichen",
+8
+],
+[
+"Baglietto'a dotted lichen",
+8
+],
+[
+"Baglietto's dotted lichen",
+8
+],
+[
+"blood lichen",
+8
+],
+[
+"brown-staining cheese polypore",
+8
+],
+[
+"disc lichen",
+8
+],
+[
+"psilolechia lichen",
+8
+],
+[
+"Sulphur dust lichen",
+8
+],
+[
+"Bunyip Egg",
+8
+],
+[
+"Fischer's Egg",
+8
+],
+[
+"Grainy shadow-crust lichen",
+8
+],
+[
+"Hyperphyscia lichen",
+8
+],
+[
+"spring club lichen",
+8
+],
+[
+"thread lichen",
+8
+],
+[
+"erioderma lichen",
+8
+],
+[
+"fuscidea lichen",
+8
+],
+[
+"spotted felt lichen",
+8
+],
+[
+"Cinder lichen; &nbsp; Rimmed lichen",
+8
+],
+[
+"Green stubble lichen; &nbsp; Spike lichen; &nbsp; Frog stubble",
+8
+],
+[
+"Orange dot lichen",
+8
+],
+[
+"Abraded camouflage lichen",
+8
+],
+[
+"polysporina lichen",
+8
+],
+[
+"Hypotrachyna lichen",
+8
+],
+[
+"Immersaria lichens",
+8
+],
+[
+"bullseye lichen",
+8
+],
+[
+"Bull's-eye lichen",
+8
+],
+[
+"Lemonseed whiskers",
+8
+],
+[
+"sphinctrina lichen",
+8
+],
+[
+"lecania lichen",
+8
+],
+[
+"Varying rim-lichen;   Rim lichen",
+8
+],
+[
+"Frosted rim-lichen;   Rim lichen",
+8
+],
+[
+"Smoky rim-lichen;   Rim lichen",
+8
+],
+[
+"Seaside sulphur-rim lichen;   Rim lichen",
+8
+],
+[
+"Disk lichen;   Lecidella lichen",
+8
+],
+[
+"lempholemma lichen",
+8
+],
+[
+"Fluffy dust lichen",
+8
+],
+[
+"Puffed sunken-disk lichens",
+8
+],
+[
+"False sunken disk lichen;   Megaspora lichen",
+8
+],
+[
+"Shiny camouflage lichen",
+8
+],
+[
+"melaspilea lichen",
+8
+],
+[
+"miriquidica lichen",
+8
+],
+[
+"clam lichen",
+8
+],
+[
+"mycocalicium lichen",
+8
+],
+[
+"Fringed kidney lichen",
+8
+],
+[
+"Swiss kidney lichen",
+8
+],
+[
+"Arctic saucer lichen",
+8
+],
+[
+"cold crabseye lichen",
+8
+],
+[
+"arctic kidney lichen",
+8
+],
+[
+"Arctic kidney lichen",
+8
+],
+[
+"blackthread lichen",
+8
+],
+[
+"Blackthread lichen",
+8
+],
+[
+"Ink lichens",
+8
+],
+[
+"Pseudocyphellaria lichen",
+8
+],
+[
+"Fishnet;   Menzies' cartilage lichen",
+8
+],
+[
+"Lace lichen",
+8
+],
+[
+"Menzies' cartilage lichen",
+8
+],
+[
+"Peruvian cartilage lichen",
+8
+],
+[
+"ramonia",
+8
+],
+[
+"Cartilage lichen",
+8
+],
+[
+"even-topped branch-moss",
+8
+],
+[
+"Boreal button lichen;   Disc lichen",
+8
+],
+[
+"Brownish monk's-hood lichen",
+8
+],
+[
+"Vitt tube lichen",
+8
+],
+[
+"bowl lichen",
+8
+],
+[
+"bryocaulon lichen",
+8
+],
+[
+"stigmidium lichen",
+8
+],
+[
+"ambiguous bran lichen",
+8
+],
+[
+"strigula lichen",
+8
+],
+[
+"Strigula lichens",
+8
+],
+[
+"Naked kidney lichen",
+8
+],
+[
+"Chippendale stubble",
+8
+],
+[
+"Spike lichen;   White-collar stubble",
+8
+],
+[
+"Tephromelas",
+8
+],
+[
+"thelomma lichen",
+8
+],
+[
+"Angel's hair",
+8
+],
+[
+"Bluish dog-lichen;   Degen's felt lichen",
+8
+],
+[
+"Degen's felt lichen",
+8
+],
+[
+"Buttoned rock tripe lichen",
+8
+],
+[
+"crusty navel lichen",
+8
+],
+[
+"Gray-rimmed firedot lichen",
+8
+],
+[
+"Nadvornik's horsehair lichen",
+8
+],
+[
+"Spiny gray horsehair lichen",
+8
+],
+[
+"Fan lichen;   Felt lichen",
+8
+],
+[
+"Powdered loop lichen",
+8
+],
+[
+"Alternating dog-lichen; &nbsp; Felt lichen",
+8
+],
+[
+"Bryocaulon lichens",
+8
+],
+[
+"Foxhair lichens",
+8
+],
+[
+"Zwackhiomyces lichens",
+8
+],
+[
+"resin sarea lichen",
+8
+],
+[
+"diploicia lichen",
+8
+],
+[
+"Hat-thrower fungus",
+8
+],
+[
+"Asahina's cup lichen",
+8
 ],
 [
 "White Deer Mushroom",
 8
 ],
 [
+"brodoa lichen",
+8
+],
+[
+"dirina lichen",
+8
+],
+[
+"Tiny Earthstar",
+8
+],
+[
+"gyalectidium lichen",
+8
+],
+[
+"gyalideopsis lichen",
+8
+],
+[
+"phaeographina lichen",
+8
+],
+[
+"psorotichia lichen",
+8
+],
+[
+"topelia lichen",
+8
+],
+[
+"black rot",
+8
+],
+[
+"seaweed lichen",
+7
+],
+[
+"Imshaug's witch's hair lichen",
+7
+],
+[
+"Spiny witch's hair",
+7
+],
+[
+"Dot lichens",
+7
+],
+[
+"bellemerea lichen",
+7
+],
+[
+"Golden moonglow lichens",
+7
+],
+[
+"mountain lichen",
+7
+],
+[
+"granite-speck rim-lichen",
+7
+],
+[
+"yellow bloodstain lichen",
+7
+],
+[
+"degelia lichen",
+7
+],
+[
+"bryonora lichen",
+7
+],
+[
+"Bryonora lichens",
+7
+],
+[
+"Starry breck-lichen",
+7
+],
+[
+"Starry Breck Lichen",
+7
+],
+[
+"Disc lichen",
+7
+],
+[
+"Sunken button lichen;   Disc lichen",
+7
+],
+[
+"byssoloma lichen",
+7
+],
+[
+"Brook lichen",
+7
+],
+[
+"Silverskin lichen",
+7
+],
+[
+"Streamside stippleback lichen",
+7
+],
+[
+"variegated orange lichen",
+7
+],
+[
+"Durietz's orange lichen",
+7
+],
+[
+"Parasitic firedot lichen;   Orange lichen",
+7
+],
+[
+"Fringed candleflame lichen;   Lemon lichen",
+7
+],
+[
+"pussytoes eggyolk lichen",
+7
+],
+[
+"canoparmelia lichen",
+7
+],
+[
+"Powdery peg lichen",
+7
+],
+[
+"coccocarpia lichen",
+7
+],
+[
+"Bachman's jelly lichen",
+7
+],
+[
+"soot lichen",
+7
+],
+[
+"Arnold's silverskin lichen",
+7
+],
+[
+"Moulins' silverskin lichen",
+7
+],
+[
+"Shag stippleback lichen",
+7
+],
+[
+"Desert crater lichen",
+7
+],
+[
+"diplotomma lichen",
+7
+],
+[
+"dirinaria lichen",
+7
+],
+[
+"Grainy medallion lichen",
+7
+],
+[
+"Medallion lichen",
+7
+],
+[
+"pyrrhospora lichen",
+7
+],
+[
+"Powdered fringe lichen",
+7
+],
+[
+"Idaho esslingeriana lichen",
+7
+],
+[
+"Tinted rag lichen",
+7
+],
+[
+"euopsis lichen",
+7
+],
+[
+"Euopsis lichens",
+7
+],
+[
+"Rock grubs",
+7
+],
+[
+"littlelobed lichen",
+7
+],
+[
+"Rockmoss rosette lichen",
+7
+],
+[
+"Coarse rockwool",
+7
+],
+[
+"Rimmed shingle lichen",
+7
+],
+[
+"Tundra horsehair lichen; Horsehair lichen",
+7
+],
+[
+"manyleaf navel lichen",
+7
+],
+[
+"Petaled rock tripe lichen",
+7
+],
+[
+"glyphis lichen",
+7
+],
+[
+"graphina lichen",
+7
+],
+[
+"Script lichens",
+7
+],
+[
+"Tree pelt; &nbsp; Felt lichen",
+7
+],
+[
+"Blue jellyskin",
+7
+],
+[
+"Blue oilskin: &nbsp; Skin lichen",
+7
+],
+[
+"Navel lichen",
+7
+],
+[
+"Gilded whiskers",
+7
+],
+[
+"Tree bloodspot lichen",
+7
+],
+[
+"Bark barnacles",
+7
+],
+[
+"barnacle lichen",
+7
+],
+[
+"Earthscales; &nbsp; Heppia lichens",
+7
+],
+[
+"heppia lichen",
+7
+],
+[
+"Soil ruby lichens",
+7
+],
+[
+"Sitka shield lichen",
+7
+],
+[
+"cockleshell lichen",
+7
+],
+[
+"Forked tube lichen",
+7
+],
+[
+"Imshaug's tube lichen",
+7
+],
+[
+"Lattice tube lichen",
+7
+],
+[
+"western tube lichen",
+7
+],
+[
+"Western tube lichen",
+7
+],
+[
+"Imshaugia lichen",
+7
+],
+[
+"Salted starburst lichen",
+7
+],
+[
+"scoliciosporum lichen",
+7
+],
+[
+"scribble lichen",
+7
+],
+[
+"lead lichen",
+7
+],
+[
+"phaeocalicium lichen",
+7
+],
+[
+"blistered naval lichen",
+7
+],
+[
+"Common toadskin lichen",
+7
+],
+[
+"Beaded rim-lichen;   Rim lichen",
+7
+],
+[
+"arctic rim lichen",
+7
+],
+[
+"Black-eyed rim-lichen;   Arctic rim lichen",
+7
+],
+[
+"Bumpy rim-lichen;   Rim lichen",
+7
+],
+[
+"Louisiana rim lichen",
+7
+],
+[
+"Shrubby rim-lichen;   Rim lichen",
+7
+],
+[
+"Austroamerican skin lichen",
+7
+],
+[
+"Dixie jellyskin;   Austroamerican skin lichen",
+7
+],
+[
+"Burnet's skin lichen",
+7
+],
+[
+"birchbark dot lichen",
+7
+],
+[
+"Brown-eyed wolf lichen",
+7
+],
+[
+"smoky crottle",
+7
+],
+[
+"Weill's lichenochora lichen",
+7
+],
+[
+"Concentric boulder lichen",
+7
+],
+[
+"crust porpidia lichen",
+7
+],
+[
+"tomentose snow lichen",
+7
+],
+[
+"Woolly foam lichen",
+7
+],
+[
+"Blistered jelly lichen; &nbsp; Jelly lichen",
+7
+],
+[
+"California camouflage lichen",
+7
+],
+[
+"Appalachian tree brown-shield",
+7
+],
+[
+"Brown-eyed camouflage lichen",
+7
+],
+[
+"Trabeculate brown-shield",
+7
+],
+[
+"Gray-orange disk lichen; &nbsp; Lecidea lichen",
+7
+],
+[
+"dwarf muellerella lichen",
+7
+],
+[
+"Axil-bristle lichens",
+7
+],
+[
+"myelochroa lichen",
+7
+],
+[
+"Myelochroa lichens",
+7
+],
+[
+"Powder-tipped rosette lichen",
+7
+],
+[
+"schaereria lichen",
+7
+],
+[
+"Armored fog lichen",
+7
+],
+[
+"niebla lichen",
+7
+],
+[
+"Tufted foxtail lichen",
+7
+],
+[
+"Concentric pelt;   Scaly pelt;   Elisabeth's felt lichen",
+7
+],
+[
+"Elizabeth's felt lichen",
+7
+],
+[
+"Blistered rock tripe lichen",
+7
+],
+[
+"brittle lichen",
+7
+],
+[
+"Clam lichens",
+7
+],
+[
+"Frosty saucer lichen",
+7
+],
+[
+"Wrinkled shingle lichen",
+7
+],
+[
+"Western shield lichen",
+7
+],
+[
+"Bottlebrush shield lichen",
+7
+],
+[
+"Pustulate revolute loop lichen",
+7
+],
+[
+"parmelinopsis",
+7
+],
+[
+"Powder-edged ruffle lichen",
+7
+],
+[
+"peccania lichen",
+7
+],
+[
+"British felt lichen",
+7
+],
+[
+"Flaky freckle pelt;   British felt lichen",
+7
+],
+[
+"Dwarf dog-lichen",
+7
+],
+[
+"Waterfan",
+7
+],
+[
+"peltula lichen",
+7
+],
+[
+"Texan pore lichen",
+7
+],
+[
+"Texas wart lichen",
+7
+],
+[
+"tree phaeographis",
+7
+],
+[
+"Tree phaeographis lichen",
+7
+],
+[
+"Phaeographis lichen",
+7
+],
+[
+"Clemente's rosette lichen",
+7
+],
+[
+"pseudocyphellaria lichen",
+7
+],
+[
+"Yellow specklebelly lichen",
+7
+],
+[
+"Bordered scale lichen",
+7
+],
+[
+"false Russell's fishscale lichen",
+7
+],
+[
+"False Russell's fishscale lichen",
+7
+],
+[
+"psorula lichen",
+7
+],
+[
+"Southwestern speckled shield lichen",
+7
+],
+[
+"Mealy speckled shield lichen",
+7
+],
+[
+"pyxine lichen",
+7
+],
+[
+"Mustard lichen",
+7
+],
+[
+"Granular rock tripe lichen",
+7
+],
+[
+"hairy navel lichen",
+7
+],
+[
+"Palmetto lichen;   Cartilage lichen",
+7
+],
+[
+"intermediate cartilage lichen",
+7
+],
+[
+"Rock ramalina",
+7
+],
+[
+"Western strap lichen;   Cartilage lichen",
+7
+],
+[
+"relicina lichen",
+7
+],
+[
+"largespore map lichen",
+7
+],
+[
+"lemon map lichen",
+7
+],
+[
+"roccellina lichen",
+7
+],
+[
+"Blood whiskers",
+7
+],
+[
+"sarcographa lichen",
+7
+],
+[
+"False map lichen",
+7
+],
+[
+"schaererians",
+7
+],
+[
+"Scoliciosporum lichens",
+7
+],
+[
+"Common Stippleback",
+7
+],
+[
+"Common stippleback lichen",
+7
+],
+[
+"Iceland lichen",
+7
+],
+[
+"Burning bush;   Cartilage lichen",
+7
+],
+[
+"Fan ramalina",
+7
+],
+[
+"Netted rock tripe lichen",
+7
+],
+[
+"Spotted brown-shield",
+7
+],
+[
+"Spotted camouflage lichen",
+7
+],
+[
+"Cupped soot lichen",
+7
+],
+[
+"Chalky ramalina; &nbsp; Cartilage lichen",
+7
+],
+[
+"Rock hairball lichen",
+7
+],
+[
+"spilonema lichen",
+7
+],
+[
+"Copper patch lichen",
+7
+],
+[
+"Drummond's wart lichen",
+7
+],
+[
+"stenocybe lichen",
+7
+],
+[
+"Curled snow lichen",
+7
+],
+[
+"sulcaria lichen",
+7
+],
+[
+"Black-eye lichen",
+7
+],
+[
+"tephromela lichen",
+7
+],
+[
+"Santesson's thelomma lichen",
+7
+],
+[
+"Jelly strap lichen",
+7
+],
+[
+"tylothallia lichen",
+7
+],
+[
+"asterisk rocktripe lichen",
+7
+],
+[
+"Havaas' navel lichen",
+7
+],
+[
+"ragged rocktripe",
+7
+],
+[
+"Nylander's navel lichen",
+7
+],
+[
+"Emery rock tripe",
+7
+],
+[
+"string-of-sausages lichen",
+7
+],
+[
+"Yellow ribbon lichen",
+7
+],
+[
+"Spike lichen;   Black stubble",
+7
+],
+[
+"Funck's wart lichen",
+7
+],
+[
+"vezdaea lichen",
+7
+],
+[
+"Mustard kidney lichen",
+7
+],
+[
+"Waynea lichens",
+7
+],
+[
+"Scutula lichen",
+7
+],
+[
+"Szczawinskia lichens",
+7
+],
+[
+"Boreal felt lichen",
+7
+],
+[
+"Boreal Felt Lichen",
+7
+],
+[
+"Common clam lichen",
+7
+],
+[
+"Phacopsis lichens",
+7
+],
+[
+"Spike lichen; &nbsp; Paleface stubble",
+7
+],
+[
+"Salted ruffle lichen",
+7
+],
+[
+"Grainy loop lichen",
+7
+],
+[
+"Freckled tube lichen",
+7
+],
+[
+"Krog's tube lichen",
+7
+],
+[
+"Hagen's rim lichen",
+7
+],
+[
+"candelina lichen",
+7
+],
+[
+"Flooded Jellyskin Lichen",
+7
+],
+[
+"Skin lichen",
+7
+],
+[
+"parasite cup lichen",
+7
+],
+[
+"sulphur cup lichen",
+7
+],
+[
+"turgid cup lichen",
+7
+],
+[
+"Mougeot's xanthoparmelia lichen",
+7
+],
+[
+"anema lichen",
+7
+],
+[
+"catolechia lichen",
+7
+],
+[
+"Rock Gnome Lichen",
+7
+],
+[
+"clauzadea lichen",
+7
+],
+[
 "Clavulinopsis sulcata",
 7
 ],
 [
+"coccotrema lichen",
+7
+],
+[
+"dactylina lichen",
+7
+],
+[
+"echinoplaca lichen",
+7
+],
+[
+"Baltimore flavoparmelia lichen",
+7
+],
+[
+"hemlock varnish shelf",
+7
+],
+[
+"Vegetable cicada",
+7
+],
+[
+"Oregon lung lichen",
+7
+],
+[
+"melanomma lichen",
+7
+],
+[
+"petractis",
+7
+],
+[
+"sphaerellothecium lichen",
+7
+],
+[
+"urn lichen",
+7
+],
+[
+"thyrea lichen",
+7
+],
+[
+"tricharia lichen",
+7
+],
+[
+"nodule cracked lichen",
+6
+],
+[
+"Cracked lichen",
+6
+],
+[
+"Cracked Lichen",
+6
+],
+[
+"Hoary cobblestone lichen",
+6
+],
+[
+"agyrium lichen",
+6
+],
+[
+"ahtiana lichen",
+6
+],
+[
+"Rippled ring lichen",
+6
+],
+[
+"arthrorhaphis lichen",
+6
+],
+[
+"alpine arthrorhaphis lichen",
+6
+],
+[
+"ciliate wreath lichen",
+6
+],
+[
+"Smooth shadow lichen",
+6
+],
+[
+"Wart lichen",
+6
+],
+[
+"Horsehair lichen",
+6
+],
+[
+"Simple horsehair",
+6
+],
+[
+"Spangled horsehair",
+6
+],
+[
+"Pink bull's-eye lichen",
+6
+],
+[
+"Lakezone lichen",
+6
+],
+[
+"disjuct melanelia lichen",
+6
+],
+[
+"Mealy camouflage lichen",
+6
+],
+[
+"Seaside button lichen   Disc lichen",
+6
+],
+[
+"Schaerer's disc lichen",
+6
+],
+[
+"Confederate bulbothrix lichen",
+6
+],
+[
+"Smooth eyelash lichen",
+6
+],
+[
+"bulbothrix lichen",
+6
+],
+[
+"sandwort orange lichen",
+6
+],
+[
+"Arizona orange lichen",
+6
+],
+[
+"coral orange lichen",
+6
+],
+[
+"Orange lichen",
+6
+],
+[
+"Desert firedot lichen;   Orange lichen",
+6
+],
+[
+"variable orange lichen",
+6
+],
+[
+"Sagebrush goldspeck lichen:   Eggyolk lichen",
+6
+],
+[
+"Mexican candelina lichen",
+6
+],
+[
+"Texan canoparmelia lichen",
+6
+],
+[
+"Texas shield lichen",
+6
+],
+[
+"pitted lichen",
+6
+],
+[
+"cecidonia lichen",
+6
+],
+[
+"cercidospora lichen",
+6
+],
+[
+"Rapp's cup lichen",
+6
+],
+[
+"Slender ladder lichen",
+6
+],
+[
+"Ravenel's cup lichen",
+6
+],
+[
+"Robbins' cup lichen",
+6
+],
+[
+"Yellow tongue cladonia",
+6
+],
+[
+"clauzadeana",
+6
+],
+[
+"clypeococcum lichen",
+6
+],
+[
+"Clypeococcum lichens",
+6
+],
+[
+"Coccocarpia lichen",
+6
+],
+[
+"Fruiting shell lichen",
+6
+],
+[
+"coenogonium lichen",
+6
+],
+[
+"Link's coenogonium lichen",
+6
+],
+[
+"crocynia lichen",
+6
+],
+[
+"Crocynia lichens",
+6
+],
+[
+"dactylospora lichen",
+6
+],
+[
+"Dactylospora lichens",
+6
+],
+[
+"intestine silverskin lichen",
+6
+],
+[
+"reticulate silverskin lichen",
+6
+],
+[
+"Sandpapper stippleback lichen",
+6
+],
+[
+"Silver moonglow lichen",
+6
+],
+[
+"Frost's dirinaria lichen",
+6
+],
+[
+"Frost's smooth rosette lichen",
+6
+],
+[
+"Griffith's cliostomum lichen",
+6
+],
+[
+"Lustrous beard lichen",
+6
+],
+[
+"Eiglera lichens",
+6
+],
+[
+"Pyrrhospora lichen",
+6
+],
+[
+"Sulphured crimson dot lichen",
+6
+],
+[
+"Eopyrenula lichens",
+6
+],
+[
+"epilichen lichen",
+6
+],
+[
+"Lattice brown lichen",
+6
+],
+[
+"Shingled brown-shield lichen",
+6
+],
+[
+"Shingled camouflage lichen",
+6
+],
+[
+"snowy bolete",
+6
+],
+[
+"Crescent frost lichen",
+6
+],
+[
+"alpine bellemerea lichen",
+6
+],
+[
+"alpine snow lichen",
+6
+],
+[
+"Alpine soil foam lichen",
+6
+],
+[
+"Darrow's flavopunctelia lichen",
+6
+],
+[
+"Powder-edge speckled greenshield",
+6
+],
+[
+"Snow-bed Iceland lichen",
+6
+],
+[
+"desert sulphur lichen",
+6
+],
+[
+"Powdery shingle lichen",
+6
+],
+[
+"glypholecia lichen",
+6
+],
+[
+"elegant script lichen",
+6
+],
+[
+"Straw beard lichen",
+6
+],
+[
+"Canary whiskers",
+6
+],
+[
+"Sugared sunburst lichen",
+6
+],
+[
+"crabseye lichen",
+6
+],
+[
+"Powdery saucer lichen",
+6
+],
+[
+"Frosted lichen",
+6
+],
+[
+"Yellow-cored frost lichen",
+6
+],
+[
+"Yellow-collar stubble lichen; &nbsp; Spike lichen",
+6
+],
+[
+"Rock bloodspot lichen",
+6
+],
+[
+"Sunken bloodspot lichen",
+6
+],
+[
+"halecania lichen",
+6
+],
+[
+"Fused rim-lichen; &nbsp; Rim lichen",
+6
+],
+[
+"Common soil ruby lichen",
+6
+],
+[
+"obscure shield lichen",
+6
+],
+[
+"Obscure shield lichen",
+6
+],
+[
+"Orange-tinted fringe lichen",
+6
+],
+[
+"Common coal-dust lichen; &nbsp; Polysporina lichen",
+6
+],
+[
+"hymenelia lichen",
+6
+],
+[
+"Hymenelia lichens",
+6
+],
+[
+"Beaded tube lichen",
+6
+],
+[
+"duplicate tube lichen",
+6
+],
+[
+"Duplicate tube lichen",
+6
+],
+[
+"Ticker-tape lichen",
+6
+],
+[
+"inactive tube lichen",
+6
+],
+[
+"Wrinkled tube lichen",
+6
+],
+[
+"Yellow-cored loop lichen",
+6
+],
+[
+"Wrinkled loop lichen",
+6
+],
+[
+"Virginia hypotrachyna lichen",
+6
+],
+[
+"Rimmed camouflage lichen",
+6
+],
+[
+"arctic brodoa lichen",
+6
+],
+[
+"Mountain sausage lichen",
+6
+],
+[
+"ionaspis lichen",
+6
+],
+[
+"Watercolor lichens; &nbsp; Ionaspis lichens",
+6
+],
+[
+"jahnulas",
+6
+],
+[
+"blushing rock tripe",
+6
+],
+[
+"Earthscale lichen",
+6
+],
+[
+"Rimmed cobblestone lichen; &nbsp; Cracked lichen",
+6
+],
+[
+"Rock foam lichen",
+6
+],
+[
+"Snow lichen",
+6
+],
+[
+"Blackberry scale lichen",
+6
+],
+[
+"globe fishscale lichen",
+6
+],
+[
+"granular trapeliopsis lichen",
+6
+],
+[
+"Mottled-disk lichen",
+6
+],
+[
+"Sonoma koerberia lichen",
+6
+],
+[
+"Black-bordered shingle lichen",
+6
+],
+[
+"placynthiella lichen",
+6
+],
+[
+"Crescent map lichen; &nbsp; Lecanora map lichen",
+6
+],
+[
+"lecanora map lichen",
+6
+],
+[
+"Rock dimple lichen",
+6
+],
+[
+"pachyphiale lichen",
+6
+],
+[
+"Gennar's rinodina lichen",
+6
+],
+[
+"Bouteille's fellhanera lichen",
+6
+],
+[
+"Northern beret lichen",
+6
+],
+[
+"Blackened toadskin lichen",
+6
+],
+[
+"Pensylvania blistered naval lichen",
+6
+],
+[
+"Rim lichen",
+6
+],
+[
+"Tile lichen;   Lecidea lichen",
+6
+],
+[
+"Chalaz's lempholemma lichen",
+6
+],
+[
+"leptochidium lichen",
+6
+],
+[
+"Blue jellyskin;   Blue skin lichen",
+6
+],
+[
+"blue skin lichen",
+6
+],
+[
+"Blistered jellyskin;   Skin lichen",
+6
+],
+[
+"Edge-fruiting jellyskin;   Skin lichen",
+6
+],
+[
+"Frilly jellyskin;   Skin lichen",
+6
+],
+[
+"sessile skin lichen",
+6
+],
+[
+"Domingan letrouitia lichen",
+6
+],
+[
+"lecanora lichenoconium lichen",
+6
+],
+[
+"lichenothelia lichen",
+6
+],
+[
+"lichinella lichen",
+6
+],
+[
+"Rock licorice; &nbsp; Lichinella lichen",
+6
+],
+[
+"Northern camouflage lichen",
+6
+],
+[
+"Urn-disk lichens",
+6
+],
+[
+"megaspora lichen",
+6
+],
+[
+"Appalachian camouflage lichen",
+6
+],
+[
+"Powder-rimmed camouflage lichen",
+6
+],
+[
+"Shadow dot lichen;   Dot lichen",
+6
+],
+[
+"microcalicium lichen",
+6
+],
+[
+"Microcalicium lichens",
+6
+],
+[
+"Garovagl's miriquidica lichen",
+6
+],
+[
+"Sphagnum absconditella lichen",
+6
+],
+[
+"sphagnum absonditella lichen",
+6
+],
+[
+"muellerella lichen",
+6
+],
+[
+"Motar rim-lichen; &nbsp; Rim lichen",
+6
+],
+[
+"Powdery axil-bristle lichen",
+6
+],
+[
+"Smooth axil-bristle lichen",
+6
+],
+[
+"Rock axil-bristle lichen",
+6
+],
+[
+"myriotrema lichen",
+6
+],
+[
+"Dark shadow lichen",
+6
+],
+[
+"Mountain horsehair lichen",
+6
+],
+[
+"Green rock-posy lichen",
+6
+],
+[
+"Northern seafog",
+6
+],
+[
+"Powdery fog lichen",
+6
+],
+[
+"Bouquet fog lichen",
+6
+],
+[
+"Pendent foxtail lichen",
+6
+],
+[
+"Bottlebrush frost lichen",
+6
+],
+[
+"Carpet pelt; &nbsp; Felt lichen",
+6
+],
+[
+"Burred horsehair lichen",
+6
+],
+[
+"ocellularia lichen",
+6
+],
+[
+"tree crabseye lichen",
+6
+],
+[
+"Double-rim saucer lichen",
+6
+],
+[
+"Oregon crabseye lichen",
+6
+],
+[
+"Rosy saucer lichen",
+6
+],
+[
+"Coral saucer lichen",
+6
+],
+[
+"Yasuda's crabseye lichen",
+6
+],
+[
+"Arizona omphalora",
+6
+],
+[
+"Coral-rimmed shingle lichen",
+6
+],
+[
+"Tavares' matted lichen",
+6
+],
+[
+"Arnold's parmotrema lichen",
+6
+],
+[
+"Powdered ruffle lichen",
+6
+],
+[
+"Pacific parmotrema lichen",
+6
+],
+[
+"Unwiskered ruffle lichen",
+6
+],
+[
+"Unwhiskered ruffle lichen",
+6
+],
+[
+"Melliss' parmotrema lichen",
+6
+],
+[
+"Zollinger's parmotrema lichen",
+6
+],
+[
+"Evans' felt lichen",
+6
+],
+[
+"Peppered pelt;   Peppered dog-lichen;   Evans' felt lichen",
+6
+],
+[
+"Black-and-white pelt;   Kristinsson's felt lichen",
+6
+],
+[
+"Dark-veined pelt",
+6
+],
+[
+"Kristinsson's felt lichen",
+6
+],
+[
+"Giant rock-olive lichen",
+6
+],
+[
+"Richards' peltula lichen",
+6
+],
+[
+"Sommerfelt's pore lichen",
+6
+],
+[
+"Frosted wart lichen",
+6
+],
+[
+"Powdered wart lichen",
+6
+],
+[
+"Waghorne's pore lichen",
+6
+],
+[
+"Wulfen's pore lichen",
+6
+],
+[
+"Volcano wart lichen",
+6
+],
+[
+"phacopsis lichen",
+6
+],
+[
+"Curtis' phaeocalicium lichen",
+6
+],
+[
+"Fairy pins",
+6
+],
+[
+"Starburst shadow lichen",
+6
+],
+[
+"Hairy shadow lichen",
+6
+],
+[
+"hairy wreath lichen",
+6
+],
+[
+"Hairy wreath lichen",
+6
+],
+[
+"phyllopsora lichen",
+6
+],
+[
+"smallleaf phyllopsora lichen",
+6
+],
+[
+"Small-leaf phyllopsora lichen",
+6
+],
+[
+"Streaked rosette lichen",
+6
+],
+[
+"Frosted rosette lichen",
+6
+],
+[
+"physma lichen",
+6
+],
+[
+"placidiopsis lichen",
+6
+],
+[
+"Woollybear lichens",
+6
+],
+[
+"Moss woolly bear lichen",
+6
+],
+[
+"polychidium lichen",
+6
+],
+[
+"porocyphus lichen",
+6
+],
+[
+"Common antler lichen",
+6
+],
+[
+"Light and dark lichen",
+6
+],
+[
+"Green specklebelly lichen",
+6
+],
+[
+"brain scale lichen",
+6
+],
+[
+"cerebral fishscale lichen",
+6
+],
+[
+"Brick scale lichen",
+6
+],
+[
+"crenate fishscale lichen",
+6
+],
+[
+"Crenate fishscale lichen",
+6
+],
+[
+"Butterfly scale lichen",
+6
+],
+[
+"Japanese fishscale lichen",
+6
+],
+[
+"Pacific fishscale lichen",
+6
+],
+[
+"Pacific scale lichen",
+6
+],
+[
+"pterygiopsis lichen",
+6
+],
+[
+"Magnusson's rosette lichen",
+6
+],
+[
+"Appalachian punctelia",
+6
+],
+[
+"Appalachian speckled shield lichen",
+6
+],
+[
+"Eastern speckled shield lichen",
+6
+],
+[
+"Rock speckled shield lichen",
+6
+],
+[
+"pyrenopsis lichen",
+6
+],
+[
+"Bumpy ramalina;   Cartilage lichen",
+6
+],
+[
+"Slit-rimmed ramalina;   Cartilage lichen",
+6
+],
+[
+"big map lichen",
+6
+],
+[
+"superficial map lichen",
+6
+],
+[
+"Cabbage lungwort",
+6
+],
+[
+"golden rimmed navel lichen",
+6
+],
+[
+"Orange rock-posy",
+6
+],
+[
+"trapeliopsis lichen",
+6
+],
+[
+"sarchgyne lichen",
+6
+],
+[
+"Sarcogyne lichen",
+6
+],
+[
+"Frosted grain-spored lichen;   Sarcogyne lichen",
+6
+],
+[
+"sarcosagium lichen",
+6
+],
+[
+"sarea lichen",
+6
+],
+[
+"Scribble lichen",
+6
+],
+[
+"Rusty brook lichen",
+6
+],
+[
+"Spike lichen;   Candle-wax stubble",
+6
+],
+[
+"intricate rim lichen",
+6
+],
+[
+"Ball-tip lichen",
+6
+],
+[
+"fragile ball lichen",
+6
+],
+[
+"Fragile ball lichen",
+6
+],
+[
+"Fragile coral lichen",
+6
+],
+[
+"Punctured lichen",
+6
+],
+[
+"steinia lichen",
+6
+],
+[
+"Fine rockwool",
+6
+],
+[
+"Strangospora lichens",
+6
+],
+[
+"strangospora lichen",
+6
+],
+[
+"James' strigula lichen",
+6
+],
+[
+"kalkspikkel",
+6
+],
+[
+"Black saddle lichen; &nbsp; Necker's felt lichen",
+6
+],
+[
+"Necker's felt lichen",
+6
+],
+[
+"thelenella lichen",
+6
+],
+[
+"Thelenella lichens",
+6
+],
+[
+"bruised lichen",
+6
+],
+[
+"Frosted blistered lichen;   Bruised lichen",
+6
+],
+[
+"aromatic bruised lichen",
+6
+],
+[
+"squalid bruised lichen",
+6
+],
+[
+"California topelia lichen",
+6
+],
+[
+"witch's butter",
+6
+],
+[
+"Trypethelium lichen",
+6
+],
+[
+"Waterside rockshag lichen",
+6
+],
+[
+"ashen rocktripe lichen",
+6
+],
+[
+"Netted rock tripe",
+6
+],
+[
+"Krascheninnikov's navel lichen",
+6
+],
+[
+"Salty rock tripe",
+6
+],
+[
+"Tundra saucer lichen",
+6
+],
+[
+"Upsala crabseye lichen",
+6
+],
+[
+"Inflated beard lichen",
+6
+],
+[
+"Bloody beard lichen;   Beard lichen",
+6
+],
+[
+"Bushy beard lichen",
+6
+],
+[
+"strigose beard lichen",
+6
+],
+[
+"Pink-eyed shingle lichen",
+6
+],
+[
+"Board lichen",
+6
+],
+[
+"Ball-headed whiskers",
+6
+],
+[
+"scaly breck-lichen",
+6
+],
+[
+"White-rim lichen",
+6
+],
+[
+"Brown-eyed sunshine lichen",
+6
+],
+[
+"Cumberland rock-shield",
+6
+],
+[
+"Cumberland xanthoparmelia lichen",
+6
+],
+[
+"Tight rock-shield",
+6
+],
+[
+"Schmidt's xanthoparmelia lichen",
+6
+],
+[
+"Resurrection lichen",
+6
+],
+[
+"Shingled rock-shield",
+6
+],
+[
+"Variable rockfrog",
+6
+],
+[
+"Wyoming xanthoparmelia lichen",
+6
+],
+[
+"flame chanterelle",
+6
+],
+[
+"Sagebrush rim lichen;   Garovagl's rim lichen",
+6
+],
+[
+"bloodspot lichens",
+6
+],
+[
+"ophioparma lichens",
+6
+],
+[
+"thelignya lichen",
+6
+],
+[
+"Thelignya lichens",
+6
+],
+[
+"Nylander's lecania lichen",
+6
+],
+[
+"Hidden dot lichen",
+6
+],
+[
+"Deflated tube lichen",
+6
+],
+[
+"Mexican yolk lichen;   Candelina lichen",
+6
+],
+[
+"Fuckel's corticifraga lichen",
+6
+],
+[
+"largeleaf cup lichen",
+6
+],
+[
+"twocolor horsehair lichen",
+6
+],
+[
+"Vegetable caterpillar",
+6
+],
+[
+"asahinea lichen",
+6
+],
+[
+"aulaxina lichen",
+6
+],
+[
+"gymnoderma lichen",
+6
+],
+[
+"biatora lichen",
+6
+],
+[
+"spring biatora lichen",
+6
+],
+[
+"lichenochora lichen",
+6
+],
+[
+"monoblastia lichen",
+6
+],
+[
+"orphniospora lichen",
+6
+],
+[
+"pseudophrenula lichen",
+6
+],
+[
+"zahlbrucknerella lichen",
+6
+],
+[
+"plectocarpon lichen",
+6
+],
+[
+"lichenostigma lichen",
+6
+],
+[
+"Blue Wood-clay",
+5
+],
+[
+"Gallic cracked lichen",
+5
+],
+[
+"Heufler's cracked lichen",
+5
+],
+[
+"big spore cracked lichen",
+5
+],
+[
+"Nevada cracked lichen",
+5
+],
+[
+"Tonglet's cracked lichen",
+5
+],
+[
+"Eastern candlewax lichen",
+5
+],
+[
+"Pallid candlewax lichen",
+5
+],
+[
+"Ahtiana lichen",
+5
+],
+[
+"Mountain candlewax lichen",
+5
+],
+[
+"Whitebark candlewax",
+5
+],
+[
+"Flowering witch's hair",
+5
+],
+[
+"Friable witch's hair",
+5
+],
+[
+"Vancouver witch's hair lichen",
+5
+],
+[
+"quadricoccous anisomeridium",
+5
+],
+[
+"tamarind anisomeridium lichen",
+5
+],
+[
+"American anzia lichen",
+5
+],
+[
+"cinchona shell lichen",
+5
+],
+[
+"lyre shell lichen",
+5
+],
+[
+"arthothelium lichen",
+5
+],
+[
+"American aspicilia",
+5
+],
+[
+"aquatic aspicilia",
+5
+],
+[
+"desert aspicilia",
+5
+],
+[
+"asterothyrium lichen",
+5
+],
+[
+"cinnamon astrothelium lichen",
+5
+],
+[
+"Speckled wart lichen",
+5
+],
+[
+"Beckhaus' dotted lichen",
+5
+],
+[
+"Jacob's dotted lichen",
+5
+],
+[
+"disc granular lichen",
+5
+],
+[
+"biatorella lichen",
+5
+],
+[
+"Biatorella lichens",
+5
+],
+[
+"Old man's whiskers",
+5
+],
+[
+"manyroot navel lichen",
+5
+],
+[
+"Brown cobblestone lichen",
+5
+],
+[
+"Brown Cobblestone Lichen",
+5
+],
+[
+"sclerophora lichen",
+5
+],
+[
+"Carlott's horsehair lichen",
+5
+],
+[
+"Horsehair",
+5
+],
+[
+"Pike's horsehair lichen",
+5
+],
+[
+"Diplotomma lichen",
+5
+],
+[
+"buelliella lichen",
+5
+],
+[
+"crown bulbothrix lichen",
+5
+],
+[
+"Goebel's bulbothrix lichen",
+5
+],
+[
+"Rough eyelash lichen",
+5
+],
+[
+"Matted eyelash lichen",
+5
+],
+[
+"approximate orange lichen",
+5
+],
+[
+"Bratt's orange lichen",
+5
+],
+[
+"cinnabar orange lichen",
+5
+],
+[
+"epiphytic orange lichen",
+5
+],
+[
+"Florida orange lichen",
+5
+],
+[
+"Wright's orange lichen",
+5
+],
+[
+"Oxford orange lichen",
+5
+],
+[
+"Pollin's orange lichen",
+5
+],
+[
+"Orange Lichen",
+5
+],
+[
+"Standford orange lichen",
+5
+],
+[
+"Stanford orange lichen",
+5
+],
+[
+"Canada eggyolk lichen",
+5
+],
+[
+"Sprague's eggyolk lichen",
+5
+],
+[
+"Fruiting honeycomb lichen",
+5
+],
+[
+"Alaskan giant shield lichen",
+5
+],
+[
+"yellow chiodecton lichen",
+5
+],
+[
+"Golden dot lichen",
+5
+],
+[
+"Bolander's cladidium lichen",
+5
+],
+[
+"Bramble cladonia",
+5
+],
+[
+"Florida cup lichen",
+5
+],
+[
+"Mixed-up pixie-cup",
+5
+],
+[
+"Dixie reindeer lichen",
+5
+],
+[
+"immersed clauzadea lichen",
+5
+],
+[
+"conglomerate jelly lichen",
+5
+],
+[
+"forked jelly lichen",
+5
+],
+[
+"Texas jelly lichen",
+5
+],
+[
+"comandra blister rust",
+5
+],
+[
+"cryptolechia lichen",
+5
+],
+[
+"Yellow soot lichen",
+5
+],
+[
+"dendriscocaulon lichen",
+5
+],
+[
+"Olive-thorn lichen",
+5
+],
+[
 "dictyonema lichen",
+5
+],
+[
+"Weber's mountain lichen",
+5
+],
+[
+"Crater lichen",
+5
+],
+[
+"Powdery medallion lichen",
+5
+],
+[
+"Purple-eyed medallion lichen",
+5
+],
+[
+"Pixie-scale foam lichen",
+5
+],
+[
+"endococcus lichen",
+5
+],
+[
+"American thread lichen",
+5
+],
+[
+"Buttoned rockshag lichen",
+5
+],
+[
+"Thick-branched rockshag lichen",
+5
+],
+[
+"pulvinate euopsis lichen",
+5
+],
+[
+"Catawba everniastrum lichen",
+5
+],
+[
+"Powder-tipped antler lichen",
+5
+],
+[
+"bracted sulphur lichen",
+5
+],
+[
+"Tundra sulphur lichen",
+5
+],
+[
+"Fruiting speckled greenshield",
+5
+],
+[
+"gelatinous skin lichen",
+5
+],
+[
+"Fries' dotted lichen",
+5
+],
+[
+"Rinodina lichen",
+5
+],
+[
+"Petaled shingle lichen",
+5
+],
+[
+"Erratic dot lichen",
+5
+],
+[
+"Tree jelly lichen; &nbsp; Jelly lichen",
+5
+],
+[
+"Spotted felt lichen",
+5
+],
+[
+"Frog whiskers",
+5
+],
+[
+"Gray horsehair lichen",
+5
+],
+[
+"Alpine kidney lichen",
+5
+],
+[
+"Herre's dimple lichen",
+5
+],
+[
+"Changing earthscale;   Largeleaf gypsoplaca lichen",
+5
+],
+[
+"largeleaf gypsoplaca lichen",
+5
+],
+[
+"hassea lichen",
+5
+],
+[
+"Appalachian fringe lichen",
+5
+],
+[
+"Appalachian shield lichen",
+5
+],
+[
+"Cupped fringe lichen",
+5
+],
+[
+"Coastal fringe lichen",
+5
+],
+[
+"rugulose shield lichen",
+5
+],
+[
+"Scaly fringe lichen",
+5
+],
+[
+"tropic shield lichen",
+5
+],
+[
+"Seaside bone lichen",
+5
+],
+[
+"Seaside tube lichen",
+5
+],
+[
+"Tube lichen",
+5
+],
+[
+"seaside tube lichen",
+5
+],
+[
+"Oosting's hypotrachyna lichen",
+5
+],
+[
+"Smooth loop lichen",
+5
+],
+[
+"Rock's hypotrachyna lichen",
+5
+],
+[
+"Showman's hypotrachyna lichen",
+5
+],
+[
+"Showman's loop lichen",
+5
+],
+[
+"Green loop lichen",
+5
+],
+[
+"sinuous hypotrachyna lichen",
+5
+],
+[
+"Gray lungwort",
+5
+],
+[
+"Hall's lung lichen",
+5
+],
+[
+"illosporium lichen",
+5
+],
+[
+"japewia lichen",
+5
+],
+[
+"julella lichen",
+5
+],
+[
+"Coastal thornbush lichen",
+5
+],
+[
+"protoparmelia lichen",
+5
+],
+[
+"Hulten's pitted lichen",
+5
+],
+[
+"Powdered honeycomb lichen",
+5
+],
+[
+"kirschsteiniothelia lichen",
+5
+],
+[
+"belonia lichen",
+5
+],
+[
+"Spike lichen; &nbsp; Rock stubble",
+5
+],
+[
+"Bitter tube lichen",
+5
+],
+[
+"Powdered tube lichen",
+5
+],
+[
+"Warty beard lichen",
+5
+],
+[
+"koerberia lichen",
+5
+],
+[
+"Finger-scale foam lichen",
+5
+],
+[
+"granular lichen",
+5
+],
+[
+"Folded rock tripe",
+5
+],
+[
+"laurera lichen",
+5
+],
+[
+"Dudley's lecania lichen",
+5
+],
+[
+"Hasse's lecania lichen",
+5
+],
+[
+"California rim lichen",
+5
+],
+[
+"Flower's rim lichen",
+5
+],
+[
+"Flowers' rim lichen",
+5
+],
+[
+"New Mexico rim lichen",
+5
+],
+[
+"New Mexico rim-lichen",
+5
+],
+[
+"Multicolored rim-lichen   Pacific rim lichen",
+5
+],
+[
+"Pacific rim lichen",
+5
+],
+[
+"rugose rim lichen",
+5
+],
+[
+"Utah rim lichen",
+5
+],
+[
+"Weber's rim lichen",
+5
+],
+[
+"Brown tile lichen;   Lecidea lichen",
+5
+],
+[
+"Hasse's lecidea lichen",
+5
+],
+[
+"Mann's lecidea lichen",
+5
+],
+[
+"Wulfen's lecidella lichen",
+5
+],
+[
+"Lecidoma lichen",
+5
+],
+[
+"Cottonthread lichens",
+5
+],
+[
+"arctic skin lichen",
+5
+],
+[
+"Burgess' skin lichen",
+5
+],
+[
+"California skin lichen",
+5
+],
+[
+"contorted skin lichen",
+5
+],
+[
+"erect skin lichen",
+5
+],
+[
+"Florida skin lichen",
+5
+],
+[
+"hairy skin lichen",
+5
+],
+[
+"juniper skin lichen",
+5
+],
+[
+"Stretched jellyskin;   Skin lichen",
+5
+],
+[
+"Dimpled jellyskin",
+5
+],
+[
+"Rough bearded jellyskin;   Rugose skin lichen",
+5
+],
+[
+"rugose skin lichen",
+5
+],
+[
+"stipitate skin lichen",
+5
+],
+[
+"letrouitia lichen",
+5
+],
+[
+"usnea lichenoconium lichen",
+5
+],
+[
+"lichenosticta lichen",
+5
+],
+[
+"convex lichenothelia lichen",
+5
+],
+[
+"American lichinella lichen",
+5
+],
+[
+"stipitate lichinella lichen",
+5
+],
+[
+"Two-toned rock foam lichen",
+5
+],
+[
+"lithographa lichen",
+5
+],
+[
+"Xylographa lichen",
+5
+],
+[
+"Whiskered camouflage lichen; &nbsp; Whiskered brown-shield lichen",
+5
+],
+[
+"Carpet beret lichen",
+5
+],
+[
+"loxospora lichen",
+5
+],
+[
+"Hedlund's dot lichen",
+5
+],
+[
+"Littlelobed lichens",
+5
+],
+[
+"megalospora lichen",
+5
+],
+[
+"Many-spored camouflage lichen",
+5
+],
+[
+"Lobed dust lichen",
+5
+],
+[
+"Ground frost lichen",
+5
+],
+[
+"American mycocalicium lichen",
+5
+],
+[
+"mycoglaena",
+5
+],
+[
+"mycomicrothelia lichen",
+5
+],
+[
+"mycoporum lichen",
+5
+],
+[
+"Mycoporum lichens",
+5
+],
+[
+"Varnished tube lichen",
+5
+],
+[
+"Adequate spike lichen; &nbsp; Shrub stubble",
+5
+],
+[
+"Hawaiian nadvornikia",
+5
+],
+[
+"Cryptic kidney lichen",
+5
+],
+[
+"Bootstrap lichen",
+5
+],
+[
+"Brittle lichen",
+5
+],
+[
+"farinose crabseye lichen",
+5
+],
+[
+"Juvenile saucer lichen",
+5
+],
+[
+"Smooth saucer lichen",
+5
+],
+[
+"Szatala's crabseye lichen",
+5
+],
+[
+"Lichen",
+5
+],
+[
+"umbel scribble lichen",
+5
+],
+[
+"Scaly shingle lichen",
+5
+],
+[
+"rimularia lichen",
+5
+],
+[
+"Skult's shield lichen",
+5
+],
+[
+"Parmelinopsis lichen",
+5
+],
+[
+"Pustuled shield lichen",
+5
+],
+[
+"Cracked ruffle lichen",
+5
+],
+[
+"Long-whiskered ruffle lichen",
+5
+],
+[
+"Green ruffle lichen",
+5
+],
+[
+"Arizona peccania lichen",
+5
+],
+[
+"Fringed pelt;   Pacific felt lichen",
+5
+],
+[
+"Pacific felt lichen",
+5
+],
+[
+"Bolander's peltula lichen",
+5
+],
+[
+"Cylindrical rock-olive lichen",
+5
+],
+[
+"Peltula lichen",
+5
+],
+[
+"Common rock-olive lichen",
+5
+],
+[
+"Stuffed rock-olive lichen",
+5
+],
+[
+"Stuffed Rock Olive Lichen",
+5
+],
+[
+"California pore lichen",
+5
+],
+[
+"Sulphur wart lichen",
+5
+],
+[
+"Ragged wart lichen",
+5
+],
+[
+"Arctic wart lichen",
+5
+],
+[
+"Powder-tipped shadow lichen",
+5
+],
+[
+"hispid wreath lichen",
+5
+],
+[
+"Whiskered shadow lichen",
+5
+],
+[
+"Obscure shadow lichen",
+5
+],
+[
+"Brown-fuzz lichen",
+5
+],
+[
+"phaeorrhiza lichen",
+5
+],
+[
+"Phaeorrhiza lichen",
+5
+],
+[
+"Demangeon's phylliscum lichen",
+5
+],
+[
+"coral phyllopsora lichen",
+5
+],
+[
+"Granite rosette lichen",
+5
+],
+[
+"Hale's rosette lichen",
+5
+],
+[
+"Black-bottomed rosette lichen",
+5
+],
+[
+"Mealy cryptic rosette lichen",
+5
+],
+[
+"Fancy frost lichen",
+5
+],
+[
+"Elegant frost lichen",
+5
+],
+[
+"Brown stipplescale lichen",
+5
+],
+[
+"Herre's ragged lichen",
+5
+],
+[
+"Tattered rag lichen",
+5
+],
+[
+"Crinkled rag lichen",
+5
+],
+[
+"Ragged lichen",
+5
+],
+[
+"Ribbon rag lichen",
+5
+],
+[
+"poeltinula lichen",
+5
+],
+[
+"Sendtner's polyblastia lichen",
+5
+],
+[
+"Sendtner's polyplastia lichen",
+5
+],
+[
+"Polymeridium lichen",
+5
+],
+[
+"polymeridium lichen",
+5
+],
+[
+"Kenmore's porocyphus lichen",
+5
+],
+[
+"Smoky-eye boulder lichen",
+5
+],
+[
+"protothelenella lichen",
+5
+],
+[
+"Protothelenella lichens",
+5
+],
+[
+"intense light and dark lichen",
+5
+],
+[
+"Western antler lichen",
+5
+],
+[
+"Oldgrowth specklebelly lichen",
+5
+],
+[
+"Rainier pseudocyphellaria lichen",
+5
+],
+[
+"pseudoparmelia",
+5
+],
+[
+"California fishscale lichen",
+5
+],
+[
+"Himalaya fishscale lichen",
+5
+],
+[
+"Mountain scale lichen",
+5
+],
+[
+"Yellow scale lichen",
+5
+],
+[
+"lurid fishscale lichen",
+5
+],
+[
+"Brown-eyed scale lichen",
+5
+],
+[
+"Tuckerman's fishscale lichen",
+5
+],
+[
+"Hasse's psorotichia lichen",
+5
+],
+[
+"Schaerer's psorotichia lichen",
+5
+],
+[
+"Powdered speckled shield lichen",
+5
+],
+[
+"pyrenidium lichen",
+5
+],
+[
+"Pyrenothrix lichens",
+5
+],
+[
+"black pyrenothrix lichen",
+5
+],
+[
+"Wart lichens",
+5
+],
+[
+"Cuban wart lichen",
+5
+],
+[
+"Ravenel's wart lichen",
+5
+],
+[
+"Javan pyrgillus lichen",
+5
+],
+[
+"Buttoned rosette lichen",
+5
+],
+[
+"Pyxine lichen",
+5
+],
+[
+"Eschweiler's pyxine lichen",
+5
+],
+[
+"cochlear cartilage lichen",
+5
+],
+[
+"Malme's ramonia",
+5
+],
+[
+"Rapp's ramonia",
+5
+],
+[
+"Valenzuela's ramonia",
+5
+],
+[
+"concentric map lichen",
+5
+],
+[
+"Hochstetter's map lichen",
+5
+],
+[
+"Smooth map lichen;   Hochstetter's map lichen",
+5
+],
+[
+"Brown rock-posy lichen",
+5
+],
+[
+"peltate rimmed navel lichen",
+5
+],
+[
+"Black-eyed rock rosette lichen",
+5
+],
+[
+"Bischoff's rinodina lichen",
+5
+],
+[
+"Bolander's rinodina lichen",
+5
+],
+[
+"Creamy pepper-spore lichen",
+5
+],
+[
+"Colorado rinodina lichen",
+5
+],
+[
+"Conrad's rinodina lichen",
+5
+],
+[
+"Hall's rinodina lichen",
+5
+],
+[
+"Herre's rinodina lichen",
+5
+],
+[
+"Marysville rinodina lichen",
+5
+],
+[
+"Oregon rinodina lichen",
+5
+],
+[
+"Santa Monica rinodina lichen",
+5
+],
+[
+"Zwackh-Holzhausen's rinodina lichen",
+5
+],
+[
+"glare snow lichen",
+5
+],
+[
+"Dakota sarcogyne lichen",
+5
+],
+[
+"New Mexican sarcogyne lichen",
+5
+],
+[
+"New Mexico sarcogyne lichen",
+5
+],
+[
+"fecund schadonia lichen",
+5
+],
+[
+"schismatomma lichen",
+5
+],
+[
+"Sclerophora lichens",
+5
+],
+[
+"gelatinous trapeliopsis lichen",
+5
+],
+[
+"Muller's skyttella lichen",
+5
+],
+[
+"Bowl lichen",
+5
+],
+[
+"Green moss-shingle lichen",
+5
+],
+[
+"Matted hairball lichen",
+5
+],
+[
+"paradox spilonema lichen",
+5
+],
+[
+"Bryocaulon lichen",
+5
+],
+[
+"Heath foxhair lichen",
+5
+],
+[
+"Northern foxhair lichen",
+5
+],
+[
+"arctic wart lichen",
+5
+],
+[
+"Holly pins",
+5
+],
+[
+"Sasak's snow lichen",
+5
+],
+[
+"Wooly foam lichen",
+5
+],
+[
+"Beauvois' spotted felt lichen",
+5
+],
+[
+"Fringed moon lichen",
+5
+],
+[
+"Pixie foam lichen",
+5
+],
+[
+"Tar spot",
+5
+],
+[
+"racodium lichen",
+5
+],
+[
+"Racodium lichen",
+5
+],
+[
+"Rock hair lichen",
+5
+],
+[
+"St. Jacob texosporium lichen",
+5
+],
+[
+"Woven spore lichen",
+5
+],
+[
+"thelocarpon lichen",
+5
+],
+[
+"Laurer's thelocarpon lichen",
+5
+],
+[
+"California thelomma lichen",
+5
+],
+[
+"Lobed nipple lichen",
+5
+],
+[
+"western thelomma lichen",
+5
+],
+[
+"thermutis lichen",
+5
+],
+[
+"Thrombium lichens",
+5
+],
+[
+"American tomasellia lichen",
+5
+],
+[
+"Witch's butter",
+5
+],
+[
+"trichothelium lichen",
+5
+],
+[
+"Hooded ramalina",
+5
+],
+[
+"obtuse cartilage lichen",
+5
+],
+[
+"Obtuse cartilage lichen",
+5
+],
+[
+"Dwarf wrinkle lichen",
+5
+],
+[
+"tuckermannopsis lichen",
+5
+],
+[
+"Variable wrinkle-lichen",
+5
+],
+[
+"tylophoron lichen",
+5
+],
+[
+"Lamb's navel lichen",
+5
+],
+[
+"windward rocktripe lichen",
+5
+],
+[
+"Muehlenberg's navel lichen",
+5
+],
+[
+"Plated rock tripe lichen",
+5
+],
+[
+"Scholander's navel lichen",
+5
+],
+[
+"cavern beard lichen",
+5
+],
+[
+"Pitted beard lichen;   Cavern beard lichen",
+5
+],
+[
+"Horny beard lichen",
+5
+],
+[
+"Calkin's wart lichen",
+5
+],
+[
+"Calkins' wart lichen",
+5
+],
+[
+"Degel's wart lichen",
+5
+],
+[
+"Erichsen's wart lichen",
+5
+],
+[
+"Fink's wart lichen",
+5
+],
+[
+"Hochstetter's wart lichen",
+5
+],
+[
+"papillose wart lichen",
+5
+],
+[
+"Sandstede's wart lichen",
+5
+],
+[
+"eyed brownettle",
+5
+],
+[
+"vestergrenopsis lichen",
+5
+],
+[
+"Waterfingers",
+5
+],
+[
+"whitefingers lichen",
+5
+],
+[
+"Brown-eyed shingle lichen",
+5
+],
+[
+"Matted lichen",
+5
+],
+[
+"Scaly mottled-disk lichen",
+5
+],
+[
+"Wallroth's trapeliopsis lichen",
+5
+],
+[
+"condensed snow lichen",
+5
+],
+[
+"Sandy soil foam lichen",
+5
+],
+[
+"mycorrhizae",
+5
+],
+[
+"Hooded subburst lichen",
+5
+],
+[
+"Ajo xanthoparmelia lichen",
+5
+],
+[
+"arid xanthoparmelia lichen",
+5
+],
+[
+"California xanthoparmelia lichen",
+5
+],
+[
+"Colorado xanthoparmelia lichen",
+5
+],
+[
+"Idaho xanthoparmelia lichen",
+5
+],
+[
+"Jornada Xanthoparmelia Lichen",
+5
+],
+[
+"Maricopa xanthoparmelia lichen",
+5
+],
+[
+"Mexican xanthoparmelia lichen",
+5
+],
+[
+"Salted rock-shield",
+5
+],
+[
+"mountain xanthoparmelia lichen",
+5
+],
+[
+"new Wyoming xanthoparmelia lichen",
+5
+],
+[
+"Plitt's rock-shield",
+5
+],
+[
+"Plitt's xanthoparmelia lichen",
+5
+],
+[
+"Francis' lichen",
+5
+],
+[
+"megalaria lichen",
+5
+],
+[
+"Gnome fingers",
+5
+],
+[
+"Nipple lichen",
+5
+],
+[
+"pycothelia lichen",
+5
+],
+[
+"leciophysma lichen",
+5
+],
+[
+"reticulate echinothecium lichen",
+5
+],
+[
+"Ragged beard lichen",
+5
+],
+[
+"alpine phaesporobolus",
+5
+],
+[
+"finger skin lichen",
+5
+],
+[
+"Arsene's skin lichen",
+5
+],
+[
+"Pale bitter bolete",
+5
+],
+[
+"myrionora",
+5
+],
+[
+"American cartilage lichen",
+5
+],
+[
+"transcend cup lichen",
+5
+],
+[
+"Pringle's rim lichen",
+5
+],
+[
+"tiger milk mushroom",
+5
+],
+[
+"cylinder cup lichen",
+5
+],
+[
+"farinose cup lichen",
+5
+],
+[
+"Reindeer Lichen",
+5
+],
+[
+"Florida Perforate Reindeer Lichen",
+5
+],
+[
+"Perforate Reindeer Lichen",
 5
 ],
 [
@@ -196,7 +5672,863 @@
 5
 ],
 [
+"arctomia lichen",
+5
+],
+[
+"arctopeltis lichen",
+5
+],
+[
+"cladidium lichen",
+5
+],
+[
+"cryptothele lichen",
+5
+],
+[
+"Notaris' soot lichen",
+5
+],
+[
+"echinothecium lichen",
+5
+],
+[
+"esslingeriana lichen",
+5
+],
+[
+"gomphillus lichen",
+5
+],
+[
+"lichinodium lichen",
+5
+],
+[
+"maronea lichen",
+5
+],
+[
+"parmotremopsis",
+5
+],
+[
+"phylliscum lichen",
+5
+],
+[
+"psorinia",
+5
+],
+[
+"pyrgillus lichen",
+5
+],
+[
+"stirtonia lichen",
+5
+],
+[
 "Purple-red hygrophorus",
 5
+],
+[
+"texosporium lichen",
+5
+],
+[
+"needle cast",
+5
+],
+[
+"phaeospora",
+5
+],
+[
+"Mountain Cobblestone Lichen",
+4
+],
+[
+"Almquist's allantoparmelia lichen",
+4
+],
+[
+"amygdalaria lichen",
+4
+],
+[
+"Powdery almond lichen",
+4
+],
+[
+"Anisomeridium lichens",
+4
+],
+[
+"delicate arctomia lichen",
+4
+],
+[
+"arctic snow lichen",
+4
+],
+[
+"Poelt's athelia fungus",
+4
+],
+[
+"Poelt's athelia lichen",
+4
+],
+[
+"western wart lichen",
+4
+],
+[
+"Bachmanniomyces lichens",
+4
+],
+[
+"Igniar's dotted lichen",
+4
+],
+[
+"bactrospora lichen",
+4
+],
+[
+"Dimple lichen",
+4
+],
+[
+"Flotow's dimple lichen",
+4
+],
+[
+"Toad whiskers",
+4
+],
+[
+"mealy lichen",
+4
+],
+[
+"calopadia lichen",
+4
+],
+[
+"Puiggar's calopadia lichen",
+4
+],
+[
+"boreal orange lichen",
+4
+],
+[
+"Catalina orange lichen",
+4
+],
+[
+"granulose orange lichen",
+4
+],
+[
+"grimmia orange lichen",
+4
+],
+[
+"Rose's orange lichen",
+4
+],
+[
+"Mottled ruffle lichens",
+4
+],
+[
+"Amazon canoparmelia lichen",
+4
+],
+[
+"Canoparmelia lichen",
+4
+],
+[
+"Carolina canoparmelia lichen",
+4
+],
+[
+"Carolina shield lichen",
+4
+],
+[
+"catinaria lichen",
+4
+],
+[
+"Collared whiskers",
+4
+],
+[
+"Standstede's reindeer lichen",
+4
+],
+[
+"Western wand lichen",
+4
+],
+[
+"mountain clauzadea lichen",
+4
+],
+[
+"fecund jelly lichen",
+4
+],
+[
+"Lobed cotton lichen",
+4
+],
+[
+"terete skin lichen",
+4
+],
+[
+"eiglera lichen",
+4
+],
+[
+"Costa Rican hermit crab lichen",
+4
+],
+[
+"everniicola lichen",
+4
+],
+[
+"calcareous zahlbrucknerella lichen",
+4
+],
+[
+"farnoldia lichen",
+4
+],
+[
+"Finger wart lichen",
+4
+],
+[
+"Inflated stippled lichen",
+4
+],
+[
+"pulvinate chalice lichen",
+4
+],
+[
+"Achar's graphina lichen",
+4
+],
+[
+"Club lichens",
+4
+],
+[
+"hairy thread lichen",
+4
+],
+[
+"Spiny rockshag lichen",
+4
+],
+[
+"Lapland beard lichen",
+4
+],
+[
+"Powdered beard lichen",
+4
+],
+[
+"Powdered camouflage lichen",
+4
+],
+[
+"doubtful rocktripe lichen",
+4
+],
+[
+"Scattered rock-posy lichen",
+4
+],
+[
+"Thelopsis lichen",
+4
+],
+[
+"gyalidea lichen",
+4
+],
+[
+"Wahlenberg's catolechia lichen",
+4
+],
+[
+"Helocarpon lichens",
+4
+],
+[
+"White fringe lichen",
+4
+],
+[
+"smallleaf shield lichen",
+4
+],
+[
+"Small-leaf shield lichen",
+4
+],
+[
+"Heath tube lichen",
+4
+],
+[
+"immersaria lichen",
+4
+],
+[
+"Ionaspis lichen",
+4
+],
+[
+"ionaspis liche",
+4
+],
+[
+"trivial absconditella lichen",
+4
+],
+[
+"Moss shingle lichen",
+4
+],
+[
+"Pincushion shadow lichen",
+4
+],
+[
+"seaside kirschsteiniothelia lichen",
+4
+],
+[
+"Zoned dust lichen",
+4
+],
+[
+"Resplendent horsehair",
+4
+],
+[
+"rigid navel lichen",
+4
+],
+[
+"Rigid navel lichen",
+4
+],
+[
+"Roughened rock tripe",
+4
+],
+[
+"Small clam lichen",
+4
+],
+[
+"Ahlner's microcalicium lichen",
+4
+],
+[
+"Lecidea lichen",
+4
+],
+[
+"Nylander's lecidea lichen",
+4
+],
+[
+"Scaly stippled lichen",
+4
+],
+[
+"Spike lichen; &nbsp; Pygmy stubble",
+4
+],
+[
+"sagiolechia lichen",
+4
+],
+[
+"dimerella lichen",
+4
+],
+[
+"Miner's whiskers",
+4
+],
+[
+"sandwort microcalicium lichen",
+4
+],
+[
+"Snag whiskers",
+4
+],
+[
+"tubercle dot lichen",
+4
+],
+[
+"Sharp's club lichen",
+4
+],
+[
+"Berenger's mycobilimbia lichen",
+4
+],
+[
+"Wallroth's mycomicrothelia lichen",
+4
+],
+[
+"Myriotrema lichen",
+4
+],
+[
+"manyspore rinodina lichen",
+4
+],
+[
+"Peppered kidney lichen",
+4
+],
+[
+"alpine blood lichen",
+4
+],
+[
+"Salted brown-shield",
+4
+],
+[
+"Arctic-alpine scale lichen",
+4
+],
+[
+"parasite rinodina lichen",
+4
+],
+[
+"sessile soot lichen",
+4
+],
+[
+"Hairy-spined narrow-shield",
+4
+],
+[
+"Hairy-spined shield lichen",
+4
+],
+[
+"Dominican parmotrema lichen",
+4
+],
+[
+"Yellow-cored ruffle lichen",
+4
+],
+[
+"Louisiana parmotrema lichen",
+4
+],
+[
+"Margarite parmotrema lichen",
+4
+],
+[
+"Morden's parmotrema lichen",
+4
+],
+[
+"Powder-crown ruffle lichen",
+4
+],
+[
+"Sulfur parmotrema lichen",
+4
+],
+[
+"sulphur parmotrema lichen",
+4
+],
+[
+"Sulphur ruffle lichen",
+4
+],
+[
+"Spotted ruffled lichen",
+4
+],
+[
+"Antilles parmotremopsis",
+4
+],
+[
+"paulia lichen",
+4
+],
+[
+"Paulia lichens",
+4
+],
+[
+"northern pore lichen",
+4
+],
+[
+"Stenhammar's pore lichen",
+4
+],
+[
+"usnea phaeosporobolus",
+4
+],
+[
+"polycoccum lichen",
+4
+],
+[
+"Porpidia lichen",
+4
+],
+[
+"Orange boulder lichen",
+4
+],
+[
+"superb porpidia lichen",
+4
+],
+[
+"Shell lichen",
+4
+],
+[
+"Racodium lichens",
+4
+],
+[
+"Hairy-spined shadow lichen",
+4
+],
+[
+"Kihlman's wreath lichen",
+4
+],
+[
+"Bolander's map lichen",
+4
+],
+[
+"Snowy map lichen;   Map lichen",
+4
+],
+[
+"distinct map lichen",
+4
+],
+[
+"Renner's map lichen",
+4
+],
+[
+"rimelia lichen",
+4
+],
+[
+"ropalospora lichen",
+4
+],
+[
+"Oeder's map lichen",
+4
+],
+[
+"arctic navel lichen",
+4
+],
+[
+"Rat's whiskers",
+4
+],
+[
+"serpentine solenopsora",
+4
+],
+[
+"tree spilonema lichen",
+4
+],
+[
+"sporopodium lichen",
+4
+],
+[
+"Brittle horsehair lichen",
+4
+],
+[
+"cold stigmidium lichen",
+4
+],
+[
+"Bay horsehair lichen",
+4
+],
+[
+"synalissa lichen",
+4
+],
+[
+"Hasse's thelenella lichen",
+4
+],
+[
+"Weber's thelenella lichen",
+4
+],
+[
+"thrombium lichen",
+4
+],
+[
+"trichoramalina lichen",
+4
+],
+[
+"trimmatothele lichen",
+4
+],
+[
+"globe dot lichen",
+4
+],
+[
+"Coral-edged wrinkle-lichen",
+4
+],
+[
+"Broad wrinkle-lichen",
+4
+],
+[
+"Turner's crabseye lichen",
+4
+],
+[
+"Rock beard lichen",
+4
+],
+[
+"fragile beard lichen",
+4
+],
+[
+"Merrill's beard lichen",
+4
+],
+[
+"perplexed beard lichen",
+4
+],
+[
+"gigasporous vanakripa",
+4
+],
+[
+"varicellaria lichen",
+4
+],
+[
+"Lemondrop whiskers",
+4
+],
+[
+"Volutella blight of pachysandra",
+4
+],
+[
+"Warty brown-shield",
+4
+],
+[
+"Kamchatka xanthoparmelia lichen",
+4
+],
+[
+"Huachuca xanthoparmelia lichen",
+4
+],
+[
+"Ozark rock-shield",
+4
+],
+[
+"Montezuma xanthoparmelia lichen",
+4
+],
+[
+"New Mexican rock-shield",
+4
+],
+[
+"New Mexico xanthoparmelia lichen",
+4
+],
+[
+"piedmont xanthoparmelia lichen",
+4
+],
+[
+"mini rockfrog lichen",
+4
+],
+[
+"Tasmanian xanthoparmelia lichen",
+4
+],
+[
+"Weber's xanthoparmelia lichen",
+4
+],
+[
+"zwackhiomyces lichen",
+4
+],
+[
+"Single-spored map lichen; &nbsp; Map lichen",
+4
+],
+[
+"Sundew beard lichen",
+4
+],
+[
+"Robust nail lichen",
+4
+],
+[
+"Cat's whiskers",
+4
+],
+[
+"Jelly flakes",
+4
+],
+[
+"undulate jelly lichen",
+4
+],
+[
+"Undulate jelly lichen",
+4
+],
+[
+"Olive firedot lichen; &nbsp; Orange lichen",
+4
+],
+[
+"Reddish brown bitter bolete",
+4
+],
+[
+"helocarpon lichen",
+4
+],
+[
+"Smooth lungwort",
+4
+],
+[
+"Casarett's shield lichen",
+4
+],
+[
+"lobed phaeographis",
+4
+],
+[
+"Willey's cartilage lichen",
+4
+],
+[
+"Santesson's tricharia lichen",
+4
+],
+[
+"hispid needle lichen",
+4
+],
+[
+"prostrate cup lichen",
+4
+],
+[
+"Tuckerman's ragged lichen",
+4
+],
+[
+"streamside map lichen",
+4
+],
+[
+"acutetip cup lichen",
+4
+],
+[
+"Atlantic cup lichen",
+4
+],
+[
+"Bory's cup lichen",
+4
+],
+[
+"cephalophysis lichen",
+4
+],
+[
+"dermiscellum lichen",
+4
+],
+[
+"lecidoma lichen",
+4
+],
+[
+"masonhalea lichen",
+4
+],
+[
+"reinkella lichen",
+4
+],
+[
+"merismatium lichen",
+4
 ]
 ]

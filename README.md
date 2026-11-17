@@ -34,7 +34,7 @@ A daily rarity-trivia game. It plays like krillion.io, but you tunnel down throu
 
 ## Questions and answers
 
-153 prompts. Each has a hand-curated answer list (`js/data.js` to `js/data7.js`) plus generated extra answers (`js/data-extra.js`), about **165,000 accepted answers** in all. 26 prompts have over 1,000 accepted answers; closed sets (states, presidents, NFL teams, books of the Bible) are complete.
+153 prompts. Each has a hand-curated answer list (`js/data.js` to `js/data7.js`) plus generated extra answers (`js/data-extra.js`), about **180,000 accepted answers** in all. Each prompt is ranked as a pyramid: a hand-picked handful of Topsoil and Too Clever answers, Burrower for the next ~6% (at most 60), Rare for the next half, Deep Cut for the rest. 26 prompts have over 1,000 accepted answers; closed sets (states, presidents, NFL teams, books of the Bible) are complete.
 
 A prompt is kept only if anyone can name a few answers instantly, it has a long tail of real answers, validity is a fact rather than a judgment call, and it isn't a word puzzle. Prompts that failed this (rhymes, "-ology" words, phobias, "something yellow", "a nocturnal animal", cities in Texas, cloud types and similar) were replaced with broad ones such as countries, U.S. states and cities, world capitals, animals, colors, athletes, authors, singers, actors, NFL/NBA teams, soccer clubs, Beatles and Taylor Swift songs, car models and fashion brands.
 

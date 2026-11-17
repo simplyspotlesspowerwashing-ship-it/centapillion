@@ -152,6 +152,22 @@
 68
 ],
 [
+"Chinese River Dolphin",
+66
+],
+[
+"Ganges Dolphin",
+66
+],
+[
+"Ganges River Dolphin",
+66
+],
+[
+"Ganges Susu",
+66
+],
+[
 "Baiji",
 66
 ],
@@ -161,10 +177,6 @@
 ],
 [
 "Chinese Lake Dolphin",
-66
-],
-[
-"Chinese River Dolphin",
 66
 ],
 [
@@ -192,19 +204,7 @@
 66
 ],
 [
-"Ganges Dolphin",
-66
-],
-[
 "Ganges river dolphin",
-66
-],
-[
-"Ganges River Dolphin",
-66
-],
-[
-"Ganges Susu",
 66
 ],
 [
@@ -836,6 +836,10 @@
 42
 ],
 [
+"Melon-headed Whale",
+41
+],
+[
 "Benguela Dolphin",
 41
 ],
@@ -929,10 +933,6 @@
 ],
 [
 "Melon-headed whale",
-41
-],
-[
-"Melon-headed Whale",
 41
 ],
 [
@@ -1542,5 +1542,57 @@
 [
 "Tamanend's bottlenose dolphin",
 7
+],
+[
+"Humpback Whales",
+5
+],
+[
+"Llano's whale",
+5
+],
+[
+"Black Sea Harbour Porpoise",
+5
+],
+[
+"Antarctic Blue Whale",
+3
+],
+[
+"Blue Whale",
+3
+],
+[
+"Black Sea Common Dolphin",
+2
+],
+[
+"Common Dolphin",
+2
+],
+[
+"Southern long-finned pilot whale",
+2
+],
+[
+"Yangtze finless porpoise",
+2
+],
+[
+"North Atlantic long-finned pilot whale",
+2
+],
+[
+"Southern sei whale",
+1
+],
+[
+"Eastern Spinner Dolphin",
+1
+],
+[
+"East Asian finless porpoise",
+1
 ]
 ]

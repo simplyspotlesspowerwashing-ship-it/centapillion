@@ -1,19 +1,135 @@
 [
 [
+"guitar",
+212
+],
+[
+"piano",
+173
+],
+[
+"violin",
+170
+],
+[
 "drum",
 151
+],
+[
+"flute",
+144
+],
+[
+"trumpet",
+142
 ],
 [
 "microphone",
 113
 ],
 [
+"accordion",
+113
+],
+[
+"bell",
+112
+],
+[
+"saxophone",
+112
+],
+[
+"clarinet",
+107
+],
+[
+"cello",
+106
+],
+[
 "harp",
 104
 ],
 [
+"pipe organ",
+99
+],
+[
+"harmonica",
+94
+],
+[
+"viola",
+93
+],
+[
+"harpsichord",
+93
+],
+[
+"loudspeaker",
+92
+],
+[
+"trombone",
+90
+],
+[
+"oboe",
+89
+],
+[
+"bass guitar",
+88
+],
+[
+"electric guitar",
+88
+],
+[
+"double bass",
+87
+],
+[
+"top",
+86
+],
+[
+"xylophone",
+85
+],
+[
 "multimedia",
 84
+],
+[
+"string instrument",
+84
+],
+[
+"mandolin",
+84
+],
+[
+"tuba",
+83
+],
+[
+"drum kit",
+81
+],
+[
+"bagpipe",
+81
+],
+[
+"synthesizer",
+78
+],
+[
+"horn",
+77
 ],
 [
 "phonograph",
@@ -24,8 +140,52 @@
 77
 ],
 [
+"Jew's harp",
+77
+],
+[
+"bassoon",
+76
+],
+[
 "lute",
 75
+],
+[
+"soprano",
+74
+],
+[
+"wind instrument",
+73
+],
+[
+"banjo",
+73
+],
+[
+"ukulele",
+73
+],
+[
+"tambourine",
+71
+],
+[
+"lyre",
+70
+],
+[
+"headphone",
+69
+],
+[
+"timpani",
+68
+],
+[
+"tenor",
+68
 ],
 [
 "cymbal",
@@ -36,11 +196,91 @@
 67
 ],
 [
+"bass",
+66
+],
+[
+"brass instrument",
+65
+],
+[
+"tuning fork",
+65
+],
+[
 "gong",
 65
 ],
 [
+"oud",
+64
+],
+[
+"sitar",
+64
+],
+[
+"baritone",
+64
+],
+[
+"vuvuzela",
+64
+],
+[
+"woodwind instrument",
+62
+],
+[
+"reed organ",
+61
+],
+[
+"tabla",
+60
+],
+[
+"mezzo-soprano",
+59
+],
+[
+"recorder",
+59
+],
+[
+"balalaika",
+58
+],
+[
+"piccolo",
+58
+],
+[
+"contralto",
+57
+],
+[
+"didgeridoo",
+56
+],
+[
+"whistle",
+56
+],
+[
+"triangle",
+55
+],
+[
+"fidget spinner",
+55
+],
+[
 "castanets",
+54
+],
+[
+"ocarina",
 54
 ],
 [
@@ -52,12 +292,24 @@
 54
 ],
 [
+"cor anglais",
+53
+],
+[
 "clavichord",
 53
 ],
 [
 "zither",
 53
+],
+[
+"bowed string instrument",
+52
+],
+[
+"gramophone",
+52
 ],
 [
 "idiophone",
@@ -68,11 +320,83 @@
 51
 ],
 [
+"theremin",
+51
+],
+[
+"hurdy-gurdy",
+51
+],
+[
+"snare drum",
+50
+],
+[
+"dombra",
+49
+],
+[
+"kick drum",
+49
+],
+[
 "marimba",
 49
 ],
 [
+"shamisen",
+49
+],
+[
+"koto",
+49
+],
+[
+"acoustic guitar",
+49
+],
+[
+"maraca",
+49
+],
+[
+"viol",
+49
+],
+[
+"carillon",
+49
+],
+[
+"bağlama",
+49
+],
+[
+"pan flute",
+48
+],
+[
+"classical guitar",
+48
+],
+[
 "vibraphone",
+47
+],
+[
+"zurna",
+47
+],
+[
+"flugelhorn",
+47
+],
+[
+"euphonium",
+47
+],
+[
+"duduk",
 47
 ],
 [
@@ -80,23 +404,131 @@
 46
 ],
 [
+"kithara",
+45
+],
+[
+"pipa",
+45
+],
+[
 "erhu",
 45
+],
+[
+"siren",
+44
 ],
 [
 "bongo",
 44
 ],
 [
+"bandura",
+44
+],
+[
+"celesta",
+44
+],
+[
+"bouzouki",
+44
+],
+[
+"shofar",
+44
+],
+[
+"sousaphone",
+44
+],
+[
+"Fender Stratocaster",
+43
+],
+[
+"djembe",
+43
+],
+[
 "aerophone",
 43
+],
+[
+"barrel organ",
+43
+],
+[
+"cimbalom",
+43
+],
+[
+"music box",
+42
+],
+[
+"bandoneon",
+42
+],
+[
+"megaphone",
+42
+],
+[
+"whistling",
+42
+],
+[
+"mbira",
+41
+],
+[
+"santur",
+41
 ],
 [
 "glockenspiel",
 41
 ],
 [
+"music sequencer",
+41
+],
+[
+"hydrophone",
+41
+],
+[
+"contrabassoon",
+41
+],
+[
+"dutar",
+40
+],
+[
+"kantele",
+40
+],
+[
+"countertenor",
+40
+],
+[
+"bodhrán",
+40
+],
+[
 "kazoo",
+40
+],
+[
+"tin whistle",
+40
+],
+[
+"veena",
 40
 ],
 [
@@ -104,7 +536,47 @@
 39
 ],
 [
+"ship's bell",
+39
+],
+[
+"aulos",
+39
+],
+[
+"sarangi",
+39
+],
+[
+"lahuta",
+39
+],
+[
+"shehnai",
+39
+],
+[
+"Hammond organ",
+38
+],
+[
 "daf",
+38
+],
+[
+"sampler",
+38
+],
+[
+"sistrum",
+38
+],
+[
+"alphorn",
+38
+],
+[
+"sheng",
 38
 ],
 [
@@ -112,7 +584,35 @@
 38
 ],
 [
+"qanun",
+38
+],
+[
 "chordophone",
+37
+],
+[
+"darbuka",
+37
+],
+[
+"electronic keyboard",
+37
+],
+[
+"organ",
+37
+],
+[
+"taiko",
+37
+],
+[
+"Gibson Les Paul",
+37
+],
+[
+"Fender Telecaster",
 37
 ],
 [
@@ -120,7 +620,23 @@
 37
 ],
 [
+"cajón",
+37
+],
+[
+"theorbo",
+37
+],
+[
+"mellotron",
+36
+],
+[
 "angklung",
+36
+],
+[
+"uilleann pipes",
 36
 ],
 [
@@ -128,12 +644,136 @@
 36
 ],
 [
+"pickup",
+36
+],
+[
+"concertina",
+36
+],
+[
+"spinet",
+36
+],
+[
 "mixing console",
 36
 ],
 [
+"guqin",
+36
+],
+[
+"ney",
+36
+],
+[
+"drum machine",
+36
+],
+[
+"morin khuur",
+35
+],
+[
+"bugle",
+35
+],
+[
+"plucked string instrument",
+35
+],
+[
+"AirPods",
+35
+],
+[
+"melodica",
+35
+],
+[
+"Kora",
+35
+],
+[
+"shawm",
+35
+],
+[
+"serpent",
+35
+],
+[
+"subwoofer",
+35
+],
+[
+"balafon",
+35
+],
+[
+"Hang",
+35
+],
+[
+"glass harmonica",
+35
+],
+[
+"bansuri",
+35
+],
+[
+"shakuhachi",
+34
+],
+[
+"player piano",
+34
+],
+[
+"sarod",
+34
+],
+[
+"mridangam",
+34
+],
+[
+"jingle bell",
+34
+],
+[
+"digital audio workstation",
+33
+],
+[
+"tanpura",
+33
+],
+[
 "electronic musical instrument",
 33
+],
+[
+"tar",
+33
+],
+[
+"alto saxophone",
+33
+],
+[
+"biwa",
+33
+],
+[
+"ratchet",
+33
+],
+[
+"wind chime",
+32
 ],
 [
 "tubular bell",
@@ -144,7 +784,83 @@
 32
 ],
 [
+"kamancheh",
+32
+],
+[
+"tanbur",
+32
+],
+[
+"geophone",
+32
+],
+[
+"viola d'amore",
+32
+],
+[
+"virginal",
+32
+],
+[
+"door knocker",
+31
+],
+[
+"guzheng",
+31
+],
+[
+"berimbau",
+31
+],
+[
+"dreidel",
+31
+],
+[
+"gusli",
+30
+],
+[
+"damaru",
+30
+],
+[
+"fujara",
+30
+],
+[
+"dhol",
+30
+],
+[
+"kaval",
+30
+],
+[
+"balaban",
+30
+],
+[
 "charango",
+30
+],
+[
+"vihuela",
+30
+],
+[
+"helicon",
+30
+],
+[
+"bass clarinet",
+30
+],
+[
+"claves",
 30
 ],
 [
@@ -152,11 +868,79 @@
 29
 ],
 [
+"electric piano",
+29
+],
+[
 "fortepiano",
 29
 ],
 [
+"Escopetarra",
+29
+],
+[
+"Naqareh",
+29
+],
+[
+"doorbell",
+29
+],
+[
+"pungi",
+29
+],
+[
+"steelpan",
+29
+],
+[
+"Rhodes piano",
+29
+],
+[
+"prepared piano",
+29
+],
+[
+"quena",
+29
+],
+[
+"vocoder",
+29
+],
+[
+"alarm device",
+29
+],
+[
+"flageolet",
+28
+],
+[
+"psaltery",
+28
+],
+[
+"Stradivarius",
+28
+],
+[
+"cittern",
+28
+],
+[
 "metallophone",
+28
+],
+[
+"celtic harp",
+28
+],
+[
+"nyckelharpa",
 28
 ],
 [
@@ -168,8 +952,164 @@
 28
 ],
 [
+"octobass",
+28
+],
+[
+"kayagum",
+28
+],
+[
+"Fender Precision Bass",
+28
+],
+[
+"rebec",
+28
+],
+[
 "cowbell",
 28
+],
+[
+"bayan",
+28
+],
+[
+"hypermedia",
+28
+],
+[
+"oboe d'amore",
+28
+],
+[
+"dholak",
+28
+],
+[
+"hi-hat",
+28
+],
+[
+"musical saw",
+27
+],
+[
+"electronic drum",
+27
+],
+[
+"Roland TR-808",
+27
+],
+[
+"setar",
+27
+],
+[
+"rubab",
+27
+],
+[
+"ophicleide",
+27
+],
+[
+"suona",
+27
+],
+[
+"alto flute",
+27
+],
+[
+"slit drum",
+27
+],
+[
+"drum stick",
+27
+],
+[
+"bullroarer",
+27
+],
+[
+"12-string guitar",
+27
+],
+[
+"mandola",
+27
+],
+[
+"Chapman Stick",
+27
+],
+[
+"tom-tom drum",
+27
+],
+[
+"singing bowl",
+26
+],
+[
+"transverse flute",
+26
+],
+[
+"shankha",
+26
+],
+[
+"Fender Jazz Bass",
+26
+],
+[
+"bandurria",
+26
+],
+[
+"Moodswinger",
+26
+],
+[
+"Gibson Flying V",
+26
+],
+[
+"Portuguese guitar",
+26
+],
+[
+"vielle",
+26
+],
+[
+"yangqin",
+26
+],
+[
+"water organ",
+26
+],
+[
+"Gibson SG",
+26
+],
+[
+"Dobro",
+25
+],
+[
+"gadulka",
+25
+],
+[
+"monochord",
+25
 ],
 [
 "davul",
@@ -180,19 +1120,331 @@
 25
 ],
 [
-"Helmholtz resonance",
+"syrinx",
 25
+],
+[
+"tenor saxophone",
+25
+],
+[
+"garmon",
+25
+],
+[
+"Western concert flute",
+25
+],
+[
+"aeolian harp",
+25
+],
+[
+"Agogô",
+25
+],
+[
+"baryton",
+25
+],
+[
+"alto",
+25
+],
+[
+"AirPods Pro",
+25
+],
+[
+"baritone horn",
+25
+],
+[
+"Ondes Martenot",
+25
+],
+[
+"post horn",
+25
+],
+[
+"shekere",
+24
+],
+[
+"cavaquinho",
+24
+],
+[
+"keytar",
+24
+],
+[
+"fingerstyle guitar",
+24
+],
+[
+"dizi",
+24
+],
+[
+"grand piano",
+24
+],
+[
+"suikinkutsu",
+24
+],
+[
+"talking drum",
+24
+],
+[
+"Muyu",
+24
+],
+[
+"udu",
+24
+],
+[
+"lithophone",
+24
+],
+[
+"Hardanger fiddle",
+24
+],
+[
+"Sea organ",
+24
+],
+[
+"whistled language",
+24
+],
+[
+"autoharp",
+24
+],
+[
+"civil defense siren",
+24
+],
+[
+"Soubrette",
+24
+],
+[
+"Wagner tuba",
+24
+],
+[
+"domra",
+24
+],
+[
+"chalumeau",
+23
+],
+[
+"clavinet",
+23
+],
+[
+"livestock bell",
+23
+],
+[
+"soprano saxophone",
+23
+],
+[
+"mellophone",
+23
+],
+[
+"carbon microphone",
+23
+],
+[
+"tam-tam",
+23
+],
+[
+"timbales",
+23
+],
+[
+"Moog synthesizer",
+23
+],
+[
+"fiddle",
+23
+],
+[
+"komuz",
+23
+],
+[
+"kanjira",
+23
+],
+[
+"bass-baritone",
+23
+],
+[
+"handbell",
+23
 ],
 [
 "rainstick",
 23
 ],
 [
+"cabasa",
+22
+],
+[
+"crotales",
+22
+],
+[
+"Fender Jazzmaster",
+22
+],
+[
+"semantron",
+22
+],
+[
+"Gibson Explorer",
+22
+],
+[
+"olifant",
+22
+],
+[
+"toy rattle",
+22
+],
+[
+"esraj",
+22
+],
+[
+"electric bell",
+22
+],
+[
+"car alarm",
+22
+],
+[
 "ravanahatha",
 22
 ],
 [
+"carnyx",
+22
+],
+[
+"dayereh",
+22
+],
+[
+"alboka",
+22
+],
+[
+"upright piano",
+22
+],
+[
+"diatonic button accordion",
+22
+],
+[
+"shishi-odoshi",
+22
+],
+[
+"acoustic bass guitar",
+22
+],
+[
+"coloratura soprano",
+22
+],
+[
+"pedal steel guitar",
+22
+],
+[
+"electric violin",
+22
+],
+[
+"lur",
+22
+],
+[
+"saxhorn",
+22
+],
+[
+"baritone saxophone",
+22
+],
+[
+"buccina",
+22
+],
+[
+"resonator guitar",
+21
+],
+[
+"xiao",
+21
+],
+[
+"throat microphone",
+21
+],
+[
+"tenor horn",
+21
+],
+[
 "Stylophone",
+21
+],
+[
+"laser harp",
+21
+],
+[
+"steel-string acoustic guitar",
+21
+],
+[
+"steel guitar",
+21
+],
+[
+"Fender Mustang",
+21
+],
+[
+"tweeter",
+21
+],
+[
+"humbucker",
 21
 ],
 [
@@ -204,8 +1456,40 @@
 21
 ],
 [
+"quray",
+21
+],
+[
+"sikus",
+21
+],
+[
+"flamenco guitar",
+21
+],
+[
 "Orchestrion",
 21
+],
+[
+"Roland TR-909",
+21
+],
+[
+"Gibson ES-335",
+20
+],
+[
+"tsuzumi",
+20
+],
+[
+"electronic organ",
+20
+],
+[
+"tres",
+20
 ],
 [
 "pandeiro",
@@ -220,7 +1504,47 @@
 20
 ],
 [
+"khene",
+20
+],
+[
+"Talk box",
+20
+],
+[
+"gun salute",
+20
+],
+[
+"cat organ",
+20
+],
+[
+"church bell",
+20
+],
+[
+"bicycle bell",
+20
+],
+[
+"Gibson EDS-1275",
+20
+],
+[
 "Stroh violin",
+20
+],
+[
+"arpeggione",
+20
+],
+[
+"pipe",
+20
+],
+[
+"basset horn",
 20
 ],
 [
@@ -228,11 +1552,195 @@
 20
 ],
 [
+"audio effects unit",
+20
+],
+[
+"txalaparta",
+20
+],
+[
+"wood block",
+20
+],
+[
+"AirPods Max",
+19
+],
+[
+"kemenche",
+19
+],
+[
+"Yamaha DX7",
+19
+],
+[
+"flexatone",
+19
+],
+[
+"kangling",
+19
+],
+[
+"digital piano",
+19
+],
+[
+"piccolo trumpet",
+19
+],
+[
+"salvo",
+19
+],
+[
+"hammered dulcimer",
+19
+],
+[
+"musical bow",
+19
+],
+[
+"oboe da caccia",
+19
+],
+[
+"portative organ",
+19
+],
+[
+"sanxian",
+19
+],
+[
+"sopranist",
+19
+],
+[
+"zill",
+19
+],
+[
+"great Highland bagpipe",
+19
+],
+[
+"wind machine",
+19
+],
+[
+"Seven trumpets",
+19
+],
+[
+"dulcimer",
+19
+],
+[
 "kokle",
 19
 ],
 [
+"banhu",
+19
+],
+[
+"electric bass guitar",
+19
+],
+[
+"alto clarinet",
+19
+],
+[
+"masenqo",
+19
+],
+[
+"Otamatone",
+19
+],
+[
+"Minimoog",
+19
+],
+[
+"tárogató",
+19
+],
+[
+"crwth",
+19
+],
+[
+"sarrusophone",
+19
+],
+[
+"dulcian",
+19
+],
+[
+"Fender Jag-Stang",
+19
+],
+[
+"crumhorn",
+19
+],
+[
+"semi-acoustic guitar",
+19
+],
+[
+"pochette",
+18
+],
+[
+"party horn",
+18
+],
+[
+"jal tarang",
+18
+],
+[
+"ektara",
+18
+],
+[
+"yueqin",
+18
+],
+[
+"tamburica",
+18
+],
+[
+"hulusi",
+18
+],
+[
+"Sprechgesang",
+18
+],
+[
+"Gibson Firebird",
+18
+],
+[
+"trembita",
+18
+],
+[
 "turntable",
+18
+],
+[
+"cuíca",
 18
 ],
 [
@@ -244,7 +1752,11 @@
 18
 ],
 [
-"karnay",
+"dōtaku",
+18
+],
+[
+"tintinnabulum",
 18
 ],
 [
@@ -252,11 +1764,143 @@
 18
 ],
 [
+"sanshin",
+18
+],
+[
+"soundbar",
+18
+],
+[
+"đàn bầu",
+18
+],
+[
+"sarinda",
+18
+],
+[
+"music tracker",
+18
+],
+[
+"bombard",
+18
+],
+[
+"baritone guitar",
+18
+],
+[
+"violone",
+18
+],
+[
+"bombo legűero",
+18
+],
+[
+"Lyres of Ur",
+18
+],
+[
 "telharmonium",
 17
 ],
 [
-"Tutankhamun's trumpets",
+"whip",
+17
+],
+[
+"dog whistle",
+17
+],
+[
+"Nadaswaram",
+17
+],
+[
+"Irish flute",
+17
+],
+[
+"jouhikko",
+17
+],
+[
+"spoons",
+17
+],
+[
+"positive organ",
+17
+],
+[
+"rattle",
+17
+],
+[
+"dramatic soprano",
+17
+],
+[
+"fife",
+17
+],
+[
+"nagara",
+17
+],
+[
+"ruan",
+17
+],
+[
+"panduri",
+17
+],
+[
+"electronic piano",
+17
+],
+[
+"hichiriki",
+17
+],
+[
+"glass harp",
+17
+],
+[
+"alghoza",
+17
+],
+[
+"temple block",
+17
+],
+[
+"atabaque",
+17
+],
+[
+"trautonium",
+17
+],
+[
+"sweep-picking",
+17
+],
+[
+"Baroque guitar",
+17
+],
+[
+"cimbasso",
+17
+],
+[
+"barbiton",
 17
 ],
 [
@@ -264,11 +1908,259 @@
 17
 ],
 [
-"Menat",
+"Kinnor",
+17
+],
+[
+"acoustic-electric guitar",
+17
+],
+[
+"janggu",
 16
 ],
 [
+"tromba marina",
+16
+],
+[
+"frame drum",
+16
+],
+[
+"woofer",
+16
+],
+[
+"bianzhong",
+16
+],
+[
+"zhaleika",
+16
+],
+[
+"single coil",
+16
+],
+[
+"waterphone",
+16
+],
+[
+"rototom",
+16
+],
+[
+"archlute",
+16
+],
+[
+"pedal keyboard",
+16
+],
+[
+"condenser microphone",
+16
+],
+[
+"haute-contre",
+16
+],
+[
+"in-ear monitor",
+16
+],
+[
+"Roman tuba",
+16
+],
+[
+"Appalachian dulcimer",
+16
+],
+[
+"conch",
+16
+],
+[
+"bass flute",
+16
+],
+[
+"çifteli",
+16
+],
+[
+"human articulatory apparatus",
+16
+],
+[
+"superstrat",
+16
+],
+[
+"wireless microphone",
+16
+],
+[
+"cuatro",
+16
+],
+[
+"Fairlight CMI",
+16
+],
+[
+"circuit bending",
+16
+],
+[
+"phorminx",
+16
+],
+[
+"ghanta",
+16
+],
+[
+"broadside",
+16
+],
+[
+"guan",
+16
+],
+[
+"sackbut",
+16
+],
+[
+"Baroque violin",
+16
+],
+[
+"xun",
+16
+],
+[
+"jinghu",
+16
+],
+[
+"surbahar",
+16
+],
+[
+"radiogram",
+15
+],
+[
+"cornu",
+15
+],
+[
 "calliope",
+15
+],
+[
+"huqin",
+15
+],
+[
+"dulzaina",
+15
+],
+[
+"dungchen",
+15
+],
+[
+"violin family",
+15
+],
+[
+"PC speaker",
+15
+],
+[
+"E♭ clarinet",
+15
+],
+[
+"mid-range speaker",
+15
+],
+[
+"boy soprano",
+15
+],
+[
+"lyric soprano",
+15
+],
+[
+"Turkish crescent",
+15
+],
+[
+"lijerica",
+15
+],
+[
+"gaida",
+15
+],
+[
+"caxixi",
+15
+],
+[
+"Synclavier",
+15
+],
+[
+"hunting horn",
+15
+],
+[
+"willow flute",
+15
+],
+[
+"tumbi",
+15
+],
+[
+"Sami drum",
+15
+],
+[
+"Lautenwerck",
+15
+],
+[
+"mandocello",
+15
+],
+[
+"software synthesizer",
+15
+],
+[
+"shō",
+15
+],
+[
+"tppe top",
+15
+],
+[
+"cobza",
+15
+],
+[
+"shaker",
 15
 ],
 [
@@ -276,11 +2168,7247 @@
 15
 ],
 [
+"piano accordion",
+15
+],
+[
+"langeleik",
+15
+],
+[
 "ghungroo",
+15
+],
+[
+"Khartal",
+15
+],
+[
+"saung",
+15
+],
+[
+"Cretan lyra",
+15
+],
+[
+"vibraslap",
+15
+],
+[
+"ajaeng",
+15
+],
+[
+"Apple earbuds",
+15
+],
+[
+"gittern",
+15
+],
+[
+"cümbüş",
+15
+],
+[
+"rudra veena",
+15
+],
+[
+"studio monitor",
+15
+],
+[
+"Azerbaijani performance art of the tar",
+15
+],
+[
+"begena",
 15
 ],
 [
 "bass instrument",
 15
+],
+[
+"bass saxophone",
+15
+],
+[
+"gudok",
+15
+],
+[
+"school bell",
+15
+],
+[
+"boatswain's call",
+15
+],
+[
+"regal",
+15
+],
+[
+"crash cymbal",
+15
+],
+[
+"surdo",
+15
+],
+[
+"Reguilete",
+14
+],
+[
+"Euler's disk",
+14
+],
+[
+"claviorgan",
+14
+],
+[
+"bass trumpet",
+14
+],
+[
+"se",
+14
+],
+[
+"timple",
+14
+],
+[
+"dramyin",
+14
+],
+[
+"electret microphone",
+14
+],
+[
+"Akai MPC",
+14
+],
+[
+"tonkori",
+14
+],
+[
+"thavil",
+14
+],
+[
+"guitalele",
+14
+],
+[
+"ghaychak",
+14
+],
+[
+"kendang",
+14
+],
+[
+"lituus",
+14
+],
+[
+"krar",
+14
+],
+[
+"xaphoon",
+14
+],
+[
+"pakhavaj",
+14
+],
+[
+"seven-string guitar",
+14
+],
+[
+"square piano",
+14
+],
+[
+"kanklės",
+14
+],
+[
+"santoor",
+14
+],
+[
+"suling",
+14
+],
+[
+"iPod Hi-Fi",
+14
+],
+[
+"bedug",
+14
+],
+[
+"ghijak",
+14
+],
+[
+"Google Pixel Buds",
+14
+],
+[
+"reco-reco",
+14
+],
+[
+"EMS VCS 3",
+14
+],
+[
+"gaohu",
+14
+],
+[
+"Suzuki Omnichord",
+14
+],
+[
+"swarmandal",
+14
+],
+[
+"lap steel guitar",
+14
+],
+[
+"kakaki",
+14
+],
+[
+"batá drum",
+14
+],
+[
+"sorna",
+14
+],
+[
+"lamellophone",
+14
+],
+[
+"pommer",
+13
+],
+[
+"continuum",
+13
+],
+[
+"roof knocking",
+13
+],
+[
+"Nagoya harp",
+13
+],
+[
+"daxophone",
+13
+],
+[
+"Warr Guitar",
+13
+],
+[
+"Plasma speaker",
+13
+],
+[
+"musette de cour",
+13
+],
+[
+"krakebs",
+13
+],
+[
+"button accordion",
+13
+],
+[
+"khol",
+13
+],
+[
+"mechanical musical instrument",
+13
+],
+[
+"Saraswati vina",
+13
+],
+[
+"horn loudspeaker",
+13
+],
+[
+"soprillo",
+13
+],
+[
+"jazz guitar",
+13
+],
+[
+"ngoni",
+13
+],
+[
+"riq",
+13
+],
+[
+"voice",
+13
+],
+[
+"rattleback",
+13
+],
+[
+"natural horn",
+13
+],
+[
+"Wurlitzer Electric Piano",
+13
+],
+[
+"Fuzz",
+13
+],
+[
+"crotalum",
+13
+],
+[
+"course",
+13
+],
+[
+"washboard",
+13
+],
+[
+"viola organista",
+13
+],
+[
+"kokyū",
+13
+],
+[
+"bones",
+13
+],
+[
+"Byzantine lyra",
+13
+],
+[
+"pedal piano",
+13
+],
+[
+"bazooka",
+13
+],
+[
+"warning shot",
+13
+],
+[
+"tabor",
+13
+],
+[
+"analog synthesizer",
+13
+],
+[
+"floor tom",
+13
+],
+[
+"tonbak",
+13
+],
+[
+"Technics SL-1200",
+13
+],
+[
+"kannel",
+13
+],
+[
+"imzad",
+13
+],
+[
+"electrodynamic loudspeaker",
+13
+],
+[
+"Fender Mustang Bass",
+13
+],
+[
+"gottan",
+13
+],
+[
+"viola da braccio",
+13
+],
+[
+"Gibson Thunderbird",
+13
+],
+[
+"lira da braccio",
+13
+],
+[
+"piccolo oboe",
+13
+],
+[
+"konghou",
+13
+],
+[
+"pitch shift",
+13
+],
+[
+"haegeum",
+13
+],
+[
+"daegeum",
+13
+],
+[
+"Sabar",
+13
+],
+[
+"barbat",
+13
+],
+[
+"bawu",
+13
+],
+[
+"fretless bass",
+13
+],
+[
+"ride cymbal",
+13
+],
+[
+"Korg M1",
+13
+],
+[
+"Chenda",
+13
+],
+[
+"mark tree",
+12
+],
+[
+"steel tongue drum",
+12
+],
+[
+"simsimiyya",
+12
+],
+[
+"piri",
+12
+],
+[
+"tenor drum",
+12
+],
+[
+"qanbūs",
+12
+],
+[
+"folk instrument",
+12
+],
+[
+"Adufe",
+12
+],
+[
+"Wii Speak",
+12
+],
+[
+"launeddas",
+12
+],
+[
+"guitarrón",
+12
+],
+[
+"igil",
+12
+],
+[
+"Linn LM-1",
+12
+],
+[
+"natural trumpet",
+12
+],
+[
+"clavicytherium",
+12
+],
+[
+"Korg MS-20",
+12
+],
+[
+"Kacapi",
+12
+],
+[
+"Swedish bagpipes",
+12
+],
+[
+"P-90",
+12
+],
+[
+"Serinette",
+12
+],
+[
+"pocket trumpet",
+12
+],
+[
+"triple harp",
+12
+],
+[
+"yatga",
+12
+],
+[
+"Saron",
+12
+],
+[
+"ashiko",
+12
+],
+[
+"suka",
+12
+],
+[
+"Native American flute",
+12
+],
+[
+"byzaanchy",
+12
+],
+[
+"hum",
+12
+],
+[
+"psalmodicon",
+12
+],
+[
+"tsuur",
+12
+],
+[
+"chimta",
+12
+],
+[
+"Paraguayan harp",
+12
+],
+[
+"nose flute",
+12
+],
+[
+"bleep censor",
+12
+],
+[
+"baglamas",
+12
+],
+[
+"viola pomposa",
+12
+],
+[
+"Rickenbacker Electro A-22",
+12
+],
+[
+"Mauser MG 213",
+12
+],
+[
+"sopranino saxophone",
+12
+],
+[
+"citole",
+12
+],
+[
+"geomungo",
+12
+],
+[
+"Polyphon",
+12
+],
+[
+"European baritone",
+12
+],
+[
+"biniou",
+12
+],
+[
+"Đông Sơn drum",
+11
+],
+[
+"bronze drum",
+11
+],
+[
+"tarka",
+11
+],
+[
+"effects pedal",
+11
+],
+[
+"Cutaway",
+11
+],
+[
+"Caxirola",
+11
+],
+[
+"toy piano",
+11
+],
+[
+"electrostatic loudspeaker",
+11
+],
+[
+"rackett",
+11
+],
+[
+"Treshchotka",
+11
+],
+[
+"Gibson EB-3",
+11
+],
+[
+"Gibson Moderne",
+11
+],
+[
+"Teetotum",
+11
+],
+[
+"talharpa",
+11
+],
+[
+"theatre organ",
+11
+],
+[
+"laúd",
+11
+],
+[
+"English guitar",
+11
+],
+[
+"beater",
+11
+],
+[
+"mandora",
+11
+],
+[
+"shvi",
+11
+],
+[
+"trikiti",
+11
+],
+[
+"diddley bow",
+11
+],
+[
+"Fender Swinger",
+11
+],
+[
+"Shure SM58",
+11
+],
+[
+"bladder fiddle",
+11
+],
+[
+"đàn môi",
+11
+],
+[
+"Šargija",
+11
+],
+[
+"tubax",
+11
+],
+[
+"teponaztli",
+11
+],
+[
+"Gambang",
+11
+],
+[
+"çeng",
+11
+],
+[
+"Kabosy",
+11
+],
+[
+"organ manual",
+11
+],
+[
+"gunshot",
+11
+],
+[
+"ribbon microphone",
+11
+],
+[
+"liuqin",
+11
+],
+[
+"rebana",
+11
+],
+[
+"đàn tranh",
+11
+],
+[
+"pyrophone",
+11
+],
+[
+"Yamaha CS-80",
+11
+],
+[
+"tympanum",
+11
+],
+[
+"svirel",
+11
+],
+[
+"chonguri",
+11
+],
+[
+"Tutek",
+11
+],
+[
+"gangsa",
+11
+],
+[
+"goje",
+11
+],
+[
+"Fender Cyclone",
+11
+],
+[
+"mizhavu",
+11
+],
+[
+"multi-neck guitar",
+11
+],
+[
+"dotara",
+11
+],
+[
+"arghul",
+11
+],
+[
+"noise-cancelling headphones",
+11
+],
+[
+"slide whistle",
+11
+],
+[
+"MIDI controller",
+11
+],
+[
+"Roland D-50",
+11
+],
+[
+"bajo sexto",
+11
+],
+[
+"bandola",
+11
+],
+[
+"basset clarinet",
+11
+],
+[
+"Clicker",
+11
+],
+[
+"danso",
+11
+],
+[
+"vichitra veena",
+11
+],
+[
+"pandura",
+11
+],
+[
+"Rickenbacker 4001",
+11
+],
+[
+"Fender Duo-Sonic",
+11
+],
+[
+"harp guitar",
+11
+],
+[
+"salpinx",
+11
+],
+[
+"Russian guitar",
+11
+],
+[
+"Red Color",
+11
+],
+[
+"Fender Starcaster",
+11
+],
+[
+"C melody saxophone",
+10
+],
+[
+"bass trombone",
+10
+],
+[
+"Northumbrian smallpipes",
+10
+],
+[
+"Kontra",
+10
+],
+[
+"trutruka",
+10
+],
+[
+"Jankó keyboard",
+10
+],
+[
+"xalam",
+10
+],
+[
+"Mexican vihuela",
+10
+],
+[
+"pedal harp",
+10
+],
+[
+"mizwad",
+10
+],
+[
+"idakka",
+10
+],
+[
+"Tenori-on",
+10
+],
+[
+"EBow",
+10
+],
+[
+"laser microphone",
+10
+],
+[
+"Epiphone Casino",
+10
+],
+[
+"three-hole pipe",
+10
+],
+[
+"clapper",
+10
+],
+[
+"Fender Bass VI",
+10
+],
+[
+"piezoelectric speaker",
+10
+],
+[
+"sintir",
+10
+],
+[
+"musical clock",
+10
+],
+[
+"taus",
+10
+],
+[
+"Gibson ES-150",
+10
+],
+[
+"Gibson ES-175",
+10
+],
+[
+"guacharaca",
+10
+],
+[
+"gottuvadhyam",
+10
+],
+[
+"Sasando",
+10
+],
+[
+"marímbula",
+10
+],
+[
+"inanga",
+10
+],
+[
+"jarana jarocha",
+10
+],
+[
+"epinette des Vosges",
+10
+],
+[
+"choghur",
+10
+],
+[
+"steam whistle",
+10
+],
+[
+"contrabass saxophone",
+10
+],
+[
+"langspil",
+10
+],
+[
+"Shure SM57",
+10
+],
+[
+"saluang",
+10
+],
+[
+"flabiol",
+10
+],
+[
+"buzzer",
+10
+],
+[
+"clash cymbals",
+10
+],
+[
+"hummel",
+10
+],
+[
+"fūrin",
+10
+],
+[
+"slide trumpet",
+10
+],
+[
+"chitarra battente",
+10
+],
+[
+"tiple",
+10
+],
+[
+"pinkillu",
+10
+],
+[
+"sursingar",
+10
+],
+[
+"Reactable",
+10
+],
+[
+"basso profondo",
+10
+],
+[
+"repinique",
+10
+],
+[
+"ten-string guitar",
+10
+],
+[
+"Baroque flute",
+10
+],
+[
+"Irish bouzouki",
+10
+],
+[
+"piano wire",
+10
+],
+[
+"chang",
+10
+],
+[
+"clavioline",
+10
+],
+[
+"shinobue",
+10
+],
+[
+"Hawaiian guitar",
+10
+],
+[
+"Akan Drum",
+10
+],
+[
+"lavalier microphone",
+10
+],
+[
+"dunun",
+10
+],
+[
+"angélique",
+10
+],
+[
+"Psalterium (instrument)",
+10
+],
+[
+"bow harp",
+10
+],
+[
+"basolia",
+10
+],
+[
+"modular synthesizer",
+10
+],
+[
+"sopila",
+10
+],
+[
+"sybyzgy",
+10
+],
+[
+"chuniri",
+10
+],
+[
+"tambura",
+10
+],
+[
+"bucium",
+10
+],
+[
+"dilrupa",
+10
+],
+[
+"Game call",
+10
+],
+[
+"handpan",
+10
+],
+[
+"txistu",
+10
+],
+[
+"ardin",
+10
+],
+[
+"ngoma",
+10
+],
+[
+"Music Man StingRay",
+10
+],
+[
+"baroque trumpet",
+10
+],
+[
+"kkwaenggwari",
+10
+],
+[
+"bonang",
+10
+],
+[
+"Fender Bronco",
+10
+],
+[
+"air horn",
+9
+],
+[
+"bone flute",
+9
+],
+[
+"Casio VL-1",
+9
+],
+[
+"traditional Japanese musical instrument",
+9
+],
+[
+"splash cymbal",
+9
+],
+[
+"Gaming top",
+9
+],
+[
+"gyaling",
+9
+],
+[
+"tsampouna",
+9
+],
+[
+"viol family",
+9
+],
+[
+"mizmar",
+9
+],
+[
+"kemençe of the Black Sea",
+9
+],
+[
+"thunder sheet",
+9
+],
+[
+"washtub bass",
+9
+],
+[
+"mijwiz",
+9
+],
+[
+"Nafir",
+9
+],
+[
+"electric double bass",
+9
+],
+[
+"Azerbaijani musical instrument",
+9
+],
+[
+"Ghumot",
+9
+],
+[
+"magnetic cartridge",
+9
+],
+[
+"jawbone",
+9
+],
+[
+"groove machine",
+9
+],
+[
+"guitar synthesizer",
+9
+],
+[
+"sarronca",
+9
+],
+[
+"bandora",
+9
+],
+[
+"orpharion",
+9
+],
+[
+"rasgueado",
+9
+],
+[
+"analog modeling synthesizer",
+9
+],
+[
+"ütőgardon",
+9
+],
+[
+"laouto",
+9
+],
+[
+"Kombu",
+9
+],
+[
+"Galician gaita",
+9
+],
+[
+"ANS synthesizer",
+9
+],
+[
+"Roland SH-101",
+9
+],
+[
+"fluier",
+9
+],
+[
+"chitarrone",
+9
+],
+[
+"Sosso Bala",
+9
+],
+[
+"baritenor",
+9
+],
+[
+"whirligig",
+9
+],
+[
+"altar bell",
+9
+],
+[
+"bachi",
+9
+],
+[
+"wah-wah pedal",
+9
+],
+[
+"torban",
+9
+],
+[
+"low whistle",
+9
+],
+[
+"contrabass clarinet",
+9
+],
+[
+"buk",
+9
+],
+[
+"chapey",
+9
+],
+[
+"ARP String Ensemble",
+9
+],
+[
+"LinnDrum",
+9
+],
+[
+"buzuq",
+9
+],
+[
+"sopilka",
+9
+],
+[
+"tanbūra",
+9
+],
+[
+"yamatogoto",
+9
+],
+[
+"lirone",
+9
+],
+[
+"adırna",
+9
+],
+[
+"clarinette d'amour",
+9
+],
+[
+"tovshuur",
+9
+],
+[
+"luthéal",
+9
+],
+[
+"unintentional discharge",
+9
+],
+[
+"silent piano",
+9
+],
+[
+"Beigoma",
+9
+],
+[
+"21-gun salute",
+9
+],
+[
+"erke",
+9
+],
+[
+"Jackson Rhoads",
+9
+],
+[
+"bamboo flute",
+9
+],
+[
+"harpejji",
+9
+],
+[
+"cornamuse",
+9
+],
+[
+"timbau",
+9
+],
+[
+"archtop guitar",
+9
+],
+[
+"kashaka",
+9
+],
+[
+"EWI",
+9
+],
+[
+"full-range speaker",
+9
+],
+[
+"taal",
+9
+],
+[
+"đàn nhị",
+9
+],
+[
+"bass oboe",
+9
+],
+[
+"Bass pedals",
+9
+],
+[
+"Sambuca",
+9
+],
+[
+"violino piccolo",
+9
+],
+[
+"Jackson Kelly",
+9
+],
+[
+"taepyeongso",
+9
+],
+[
+"75/27 Cannon Model 1911",
+9
+],
+[
+"boha",
+9
+],
+[
+"octoban",
+9
+],
+[
+"Lucille",
+9
+],
+[
+"Gibson Marauder",
+9
+],
+[
+"Roland MT-32",
+9
+],
+[
+"sympathetic string",
+9
+],
+[
+"octave effect",
+9
+],
+[
+"hne",
+9
+],
+[
+"nail violin",
+9
+],
+[
+"Chamberlin",
+9
+],
+[
+"tenor guitar",
+9
+],
+[
+"headless tambourine",
+9
+],
+[
+"anandalahari",
+9
+],
+[
+"Electone",
+8
+],
+[
+"nohkan",
+8
+],
+[
+"chocalho",
+8
+],
+[
+"chromatic button accordion",
+8
+],
+[
+"kèn bầu",
+8
+],
+[
+"paixiao",
+8
+],
+[
+"Höfner 500/1",
+8
+],
+[
+"Nével",
+8
+],
+[
+"birch trumpet",
+8
+],
+[
+"Karatalas",
+8
+],
+[
+"electric organ",
+8
+],
+[
+"pathéphone",
+8
+],
+[
+"erxian",
+8
+],
+[
+"zabumba",
+8
+],
+[
+"mandolin-banjo",
+8
+],
+[
+"Kpanlogo",
+8
+],
+[
+"keyed trumpet",
+8
+],
+[
+"fou",
+8
+],
+[
+"flûte d'amour",
+8
+],
+[
+"hyperbass flute",
+8
+],
+[
+"gralla",
+8
+],
+[
+"güira",
+8
+],
+[
+"cello da spalla",
+8
+],
+[
+"Heldentenor",
+8
+],
+[
+"viola profonda",
+8
+],
+[
+"Rickenbacker 325",
+8
+],
+[
+"bianqing",
+8
+],
+[
+"tamborim",
+8
+],
+[
+"Rauschpfeife",
+8
+],
+[
+"music workstation",
+8
+],
+[
+"ryūteki",
+8
+],
+[
+"phin",
+8
+],
+[
+"piffero",
+8
+],
+[
+"banjo uke",
+8
+],
+[
+"fretless guitar",
+8
+],
+[
+"Indian harmonium",
+8
+],
+[
+"dynamic microphone",
+8
+],
+[
+"chopi timbila",
+8
+],
+[
+"requinto guitar",
+8
+],
+[
+"China cymbal",
+8
+],
+[
+"egg shaker",
+8
+],
+[
+"Roland JP-8000",
+8
+],
+[
+"smart doorbell",
+8
+],
+[
+"kōauau",
+8
+],
+[
+"fretless instrument",
+8
+],
+[
+"ganzá",
+8
+],
+[
+"UPIC",
+8
+],
+[
+"Kebero",
+8
+],
+[
+"lute guitar",
+8
+],
+[
+"Madhalam",
+8
+],
+[
+"spinto",
+8
+],
+[
+"Gaita asturiana",
+8
+],
+[
+"torupill",
+8
+],
+[
+"squeezebox",
+8
+],
+[
+"gemshorn",
+8
+],
+[
+"salamuri",
+8
+],
+[
+"Timila",
+8
+],
+[
+"bowed clavier",
+8
+],
+[
+"hornpipe",
+8
+],
+[
+"free reed aerophone",
+8
+],
+[
+"Apkhyarta",
+8
+],
+[
+"jetigen",
+8
+],
+[
+"chanza",
+8
+],
+[
+"laser turntable",
+8
+],
+[
+"shruti box",
+8
+],
+[
+"tingsha",
+8
+],
+[
+"chakhe",
+8
+],
+[
+"chengila",
+8
+],
+[
+"doshpuluur",
+8
+],
+[
+"eight-string guitar",
+8
+],
+[
+"deep contralto",
+8
+],
+[
+"dozaleh",
+8
+],
+[
+"tan-tan",
+8
+],
+[
+"Loudspeakers in mosques",
+8
+],
+[
+"klopotec",
+8
+],
+[
+"Mohan veena",
+8
+],
+[
+"Electric cello",
+8
+],
+[
+"sound module",
+8
+],
+[
+"colascione",
+8
+],
+[
+"sound truck",
+8
+],
+[
+"suspended cymbal",
+8
+],
+[
+"Polymoog",
+8
+],
+[
+"Fender Jaguar Bass",
+8
+],
+[
+"buisine",
+8
+],
+[
+"Yaybahar",
+8
+],
+[
+"gehu",
+8
+],
+[
+"violoncello piccolo",
+8
+],
+[
+"Gibson L-5",
+8
+],
+[
+"Aztec death whistle",
+8
+],
+[
+"ligature",
+8
+],
+[
+"Jackson Soloist",
+8
+],
+[
+"zhonghu",
+8
+],
+[
+"Samsung Galaxy Buds Live",
+8
+],
+[
+"cabrette",
+7
+],
+[
+"handchime",
+7
+],
+[
+"komabue",
+7
+],
+[
+"sihu",
+7
+],
+[
+"nplooj",
+7
+],
+[
+"Lyricon",
+7
+],
+[
+"Calabrian lira",
+7
+],
+[
+"electric instrument",
+7
+],
+[
+"dabakan",
+7
+],
+[
+"Arturia MicroFreak",
+7
+],
+[
+"erkencho",
+7
+],
+[
+"huapanguera",
+7
+],
+[
+"koncovka",
+7
+],
+[
+"Selmer guitar",
+7
+],
+[
+"tenora",
+7
+],
+[
+"morsing",
+7
+],
+[
+"musical jug",
+7
+],
+[
+"boundary microphone",
+7
+],
+[
+"nai",
+7
+],
+[
+"tambora",
+7
+],
+[
+"Roland MC-303",
+7
+],
+[
+"apito de samba",
+7
+],
+[
+"Pianet",
+7
+],
+[
+"xindi",
+7
+],
+[
+"drums in communication",
+7
+],
+[
+"sompoton",
+7
+],
+[
+"Serbian violin",
+7
+],
+[
+"ARP Odyssey",
+7
+],
+[
+"midwinter horn",
+7
+],
+[
+"kus",
+7
+],
+[
+"key bugle",
+7
+],
+[
+"fue",
+7
+],
+[
+"pitch pipe",
+7
+],
+[
+"pi",
+7
+],
+[
+"epigonion",
+7
+],
+[
+"Klon Centaur",
+7
+],
+[
+"alto trombone",
+7
+],
+[
+"limbe",
+7
+],
+[
+"Mvet",
+7
+],
+[
+"pututu",
+7
+],
+[
+"telenka",
+7
+],
+[
+"ching",
+7
+],
+[
+"Roland CR-78",
+7
+],
+[
+"gaita",
+7
+],
+[
+"Steinway D-274",
+7
+],
+[
+"washint",
+7
+],
+[
+"bombardón",
+7
+],
+[
+"ARP 2500",
+7
+],
+[
+"Algerian mandole",
+7
+],
+[
+"Vibrating alert",
+7
+],
+[
+"Roland Jupiter-8",
+7
+],
+[
+"water drum",
+7
+],
+[
+"Qoltuq nagara",
+7
+],
+[
+"contact microphone",
+7
+],
+[
+"jing",
+7
+],
+[
+"subcontrabass saxophone",
+7
+],
+[
+"binzasara",
+7
+],
+[
+"Nord Electro",
+7
+],
+[
+"octave mandolin",
+7
+],
+[
+"Dacian Draco",
+7
+],
+[
+"huehuetl",
+7
+],
+[
+"kuzhal",
+7
+],
+[
+"manjira",
+7
+],
+[
+"moko",
+7
+],
+[
+"ngombi",
+7
+],
+[
+"Access Virus",
+7
+],
+[
+"lali",
+7
+],
+[
+"Sac de gemecs",
+7
+],
+[
+"pellet drum",
+7
+],
+[
+"fanfare trumpet",
+7
+],
+[
+"onavillu",
+7
+],
+[
+"Esophageal speech",
+7
+],
+[
+"Gaita de boto",
+7
+],
+[
+"lyric tenor",
+7
+],
+[
+"Sakara drum",
+7
+],
+[
+"pibgorn",
+7
+],
+[
+"frula",
+7
+],
+[
+"Gibson Hummingbird",
+7
+],
+[
+"eunuch flute",
+7
+],
+[
+"Gibson EB-0",
+7
+],
+[
+"Gibson Les Paul Studio",
+7
+],
+[
+"Gogona",
+7
+],
+[
+"ramsinga",
+7
+],
+[
+"agung",
+7
+],
+[
+"Blackpool High Tide Organ",
+7
+],
+[
+"buhay",
+7
+],
+[
+"shime-daiko",
+7
+],
+[
+"dreadnought",
+7
+],
+[
+"Ipu",
+7
+],
+[
+"saenghwang",
+7
+],
+[
+"kuvytsi",
+7
+],
+[
+"Phondar",
+7
+],
+[
+"dhimay",
+7
+],
+[
+"Cimpoi",
+7
+],
+[
+"tangent piano",
+7
+],
+[
+"Turkish ney",
+7
+],
+[
+"bak",
+7
+],
+[
+"pandero",
+7
+],
+[
+"kayamb",
+7
+],
+[
+"buckhorn",
+7
+],
+[
+"Gibson Les Paul Junior",
+7
+],
+[
+"celebratory gunfire",
+7
+],
+[
+"DJ controller",
+7
+],
+[
+"dohol",
+7
+],
+[
+"five-string violin",
+7
+],
+[
+"Jiahu gudi",
+7
+],
+[
+"Armónico",
+7
+],
+[
+"chajchas",
+7
+],
+[
+"friction drum",
+7
+],
+[
+"contrabass flute",
+7
+],
+[
+"overtone flute",
+7
+],
+[
+"Archicembalo",
+7
+],
+[
+"reyong",
+7
+],
+[
+"krachap pi",
+7
+],
+[
+"saw u",
+7
+],
+[
+"Kwitra",
+7
+],
+[
+"Floppotron",
+7
+],
+[
+"Lowrey organ",
+7
+],
+[
+"mandobass",
+7
+],
+[
+"photoplayer",
+7
+],
+[
+"requinto jarocho",
+7
+],
+[
+"Stoessel lute",
+7
+],
+[
+"tanggu",
+7
+],
+[
+"Thappu",
+7
+],
+[
+"đàn nguyệt",
+7
+],
+[
+"Jackson King V",
+7
+],
+[
+"xylorimba",
+7
+],
+[
+"fangxiang",
+7
+],
+[
+"wind controller",
+7
+],
+[
+"Boomwhacker",
+7
+],
+[
+"rummelpott",
+7
+],
+[
+"Heligonka",
+7
+],
+[
+"Rhythmicon",
+7
+],
+[
+"kissar",
+7
+],
+[
+"pku",
+7
+],
+[
+"A♭ clarinet",
+7
+],
+[
+"qinqin",
+6
+],
+[
+"zhu",
+6
+],
+[
+"nose whistle",
+6
+],
+[
+"Korg MS-10",
+6
+],
+[
+"tarawangsa",
+6
+],
+[
+"String ensemble keyboard",
+6
+],
+[
+"Kolintang",
+6
+],
+[
+"sizzle cymbal",
+6
+],
+[
+"diple",
+6
+],
+[
+"clavecin électrique",
+6
+],
+[
+"Occitan whistled from Aas",
+6
+],
+[
+"vessel flute",
+6
+],
+[
+"electric sitar",
+6
+],
+[
+"Chamber organs",
+6
+],
+[
+"quinton",
+6
+],
+[
+"bagpipes of the Eastern Slavs",
+6
+],
+[
+"Šupelka",
+6
+],
+[
+"kemane",
+6
+],
+[
+"moving iron speaker",
+6
+],
+[
+"Roland TR-606",
+6
+],
+[
+"sueng",
+6
+],
+[
+"zampogna",
+6
+],
+[
+"kundu",
+6
+],
+[
+"Claviharp",
+6
+],
+[
+"Richter-tuned harmonica",
+6
+],
+[
+"Gibson Byrdland",
+6
+],
+[
+"pambai",
+6
+],
+[
+"gong ageng",
+6
+],
+[
+"hand drum",
+6
+],
+[
+"alto recorder",
+6
+],
+[
+"hasapi",
+6
+],
+[
+"afoxé",
+6
+],
+[
+"bipa",
+6
+],
+[
+"Lutar",
+6
+],
+[
+"fairground organ",
+6
+],
+[
+"Orphica",
+6
+],
+[
+"Koza",
+6
+],
+[
+"khanjani",
+6
+],
+[
+"Rabeca",
+6
+],
+[
+"slit drums in Ambrym Island",
+6
+],
+[
+"Westone",
+6
+],
+[
+"Catalan shawm",
+6
+],
+[
+"train horn",
+6
+],
+[
+"csakan",
+6
+],
+[
+"leiqin",
+6
+],
+[
+"Neo-Bechstein",
+6
+],
+[
+"end-blown flute",
+6
+],
+[
+"chirimia",
+6
+],
+[
+"tambourin (Provencal)",
+6
+],
+[
+"quarter tone clarinet",
+6
+],
+[
+"vielle organisée",
+6
+],
+[
+"tenor recorder",
+6
+],
+[
+"Fontomfrom",
+6
+],
+[
+"Swallow's nest organ",
+6
+],
+[
+"Rompler",
+6
+],
+[
+"flumpet",
+6
+],
+[
+"Guitarra morisca",
+6
+],
+[
+"bobbili veena",
+6
+],
+[
+"saxotromba",
+6
+],
+[
+"Steirische Harmonika",
+6
+],
+[
+"tautirut",
+6
+],
+[
+"umuduri",
+6
+],
+[
+"Yatagan",
+6
+],
+[
+"Epiphone Sheraton",
+6
+],
+[
+"Kendara",
+6
+],
+[
+"great organ",
+6
+],
+[
+"xeremia",
+6
+],
+[
+"Scheitholt",
+6
+],
+[
+"tambori",
+6
+],
+[
+"antara",
+6
+],
+[
+"Archéophone",
+6
+],
+[
+"Romantic guitar",
+6
+],
+[
+"sring",
+6
+],
+[
+"Bolon",
+6
+],
+[
+"strum",
+6
+],
+[
+"double flute",
+6
+],
+[
+"hyōshigi",
+6
+],
+[
+"Martin D-28",
+6
+],
+[
+"Marxophone",
+6
+],
+[
+"nyatiti",
+6
+],
+[
+"pantalon",
+6
+],
+[
+"Aburukuwa",
+6
+],
+[
+"yu",
+6
+],
+[
+"Fender Telecaster Thinline",
+6
+],
+[
+"valve trombone",
+6
+],
+[
+"Gibson Les Paul Custom",
+6
+],
+[
+"sringa",
+6
+],
+[
+"tamak'",
+6
+],
+[
+"mandore",
+6
+],
+[
+"umpan",
+6
+],
+[
+"Yamaha Pacifica",
+6
+],
+[
+"yokobue",
+6
+],
+[
+"Zamar",
+6
+],
+[
+"Yamaha CP series",
+6
+],
+[
+"pepa",
+6
+],
+[
+"den-den daiko",
+6
+],
+[
+"Jing erhu",
+6
+],
+[
+"putipù",
+6
+],
+[
+"tlapitzalli",
+6
+],
+[
+"naruko",
+6
+],
+[
+"slenthem",
+6
+],
+[
+"yehu",
+6
+],
+[
+"rawap",
+6
+],
+[
+"Rafter finial in the shape of a dragon’s head and wind chime",
+6
+],
+[
+"parkapzuk",
+6
+],
+[
+"igba",
+6
+],
+[
+"Svistulka",
+6
+],
+[
+"shichepshin",
+6
+],
+[
+"arpa jarocha",
+6
+],
+[
+"Ondioline",
+6
+],
+[
+"khong wong yai",
+6
+],
+[
+"changi",
+6
+],
+[
+"buccin",
+6
+],
+[
+"bell-lyre",
+6
+],
+[
+"Alfaia",
+6
+],
+[
+"caisa",
+6
+],
+[
+"cultrún",
+6
+],
+[
+"Dhadd",
+6
+],
+[
+"dhak",
+6
+],
+[
+"3rd bridge",
+6
+],
+[
+"downpicking",
+6
+],
+[
+"trompeta china",
+6
+],
+[
+"experimental musical instrument",
+6
+],
+[
+"fadno",
+6
+],
+[
+"Gagar",
+6
+],
+[
+"Vox Continental",
+6
+],
+[
+"hourglass drum",
+6
+],
+[
+"hun",
+6
+],
+[
+"paiban",
+6
+],
+[
+"karyenda",
+6
+],
+[
+"klong yao",
+6
+],
+[
+"Kumuz",
+6
+],
+[
+"lavta",
+6
+],
+[
+"contra-alto clarinet",
+6
+],
+[
+"horagai",
+6
+],
+[
+"cristal baschet",
+6
+],
+[
+"phin pia",
+6
+],
+[
+"madal",
+6
+],
+[
+"Moraharpa",
+6
+],
+[
+"mouth organ",
+6
+],
+[
+"llanera harp",
+6
+],
+[
+"Weissenborn",
+6
+],
+[
+"yazh",
+6
+],
+[
+"Protos",
+6
+],
+[
+"Boyuk nagara",
+6
+],
+[
+"rhaita",
+6
+],
+[
+"Roland Jupiter-4",
+6
+],
+[
+"chelys",
+6
+],
+[
+"sato",
+6
+],
+[
+"Lambeg drum",
+6
+],
+[
+"talempong",
+6
+],
+[
+"tololoche",
+6
+],
+[
+"tzouras",
+6
+],
+[
+"Urumee",
+6
+],
+[
+"Wiener oboe",
+6
+],
+[
+"zukra",
+6
+],
+[
+"đàn tính",
+6
+],
+[
+"rebáb",
+6
+],
+[
+"guitarra latina",
+6
+],
+[
+"đàn tỳ bà",
+6
+],
+[
+"buffo bass",
+5
+],
+[
+"yunluo",
+5
+],
+[
+"classical kemençe",
+5
+],
+[
+"Cajun accordion",
+5
+],
+[
+"keluri",
+5
+],
+[
+"suzu",
+5
+],
+[
+"kagurabue",
+5
+],
+[
+"Samsung Galaxy Buds 2",
+5
+],
+[
+"bundengan",
+5
+],
+[
+"celempung",
+5
+],
+[
+"traditional Vietnamese musical instrument",
+5
+],
+[
+"ronroco",
+5
+],
+[
+"Roland Fantom series",
+5
+],
+[
+"diaphone",
+5
+],
+[
+"fog bell",
+5
+],
+[
+"dili tuiduk",
+5
+],
+[
+"doli",
+5
+],
+[
+"Doppio Borgato",
+5
+],
+[
+"kutiyapi",
+5
+],
+[
+"tifa",
+5
+],
+[
+"kusle",
+5
+],
+[
+"Khim",
+5
+],
+[
+"cetara",
+5
+],
+[
+"signal instrument",
+5
+],
+[
+"Gosha Nagara",
+5
+],
+[
+"barrel",
+5
+],
+[
+"Stenomask",
+5
+],
+[
+"Gibson J-160E",
+5
+],
+[
+"tenore di grazia",
+5
+],
+[
+"Electro-Theremin",
+5
+],
+[
+"Fiðla",
+5
+],
+[
+"giraffe piano",
+5
+],
+[
+"Gittler guitar",
+5
+],
+[
+"lesiba",
+5
+],
+[
+"Graïle",
+5
+],
+[
+"kakko",
+5
+],
+[
+"Taphon",
+5
+],
+[
+"rückpositiv",
+5
+],
+[
+"couesnophone",
+5
+],
+[
+"crotalus",
+5
+],
+[
+"Ilu",
+5
+],
+[
+"garamut",
+5
+],
+[
+"seperewa",
+5
+],
+[
+"muchosa",
+5
+],
+[
+"rih",
+5
+],
+[
+"neigh",
+5
+],
+[
+"Alesis Andromeda A6",
+5
+],
+[
+"mi gyaung",
+5
+],
+[
+"kulintang",
+5
+],
+[
+"call bell",
+5
+],
+[
+"Georgian musical instrument",
+5
+],
+[
+"soprano recorder",
+5
+],
+[
+"single-reed instrument",
+5
+],
+[
+"Botet",
+5
+],
+[
+"mezzo-soprano saxophone",
+5
+],
+[
+"Minimoog Voyager",
+5
+],
+[
+"set of free reeds",
+5
+],
+[
+"zhuihu",
+5
+],
+[
+"Mey",
+5
+],
+[
+"Udukku",
+5
+],
+[
+"bowed psaltery",
+5
+],
+[
+"chromatic harmonica",
+5
+],
+[
+"orchestron",
+5
+],
+[
+"sound trucks in Japan",
+5
+],
+[
+"ramkie",
+5
+],
+[
+"video synthesizer",
+5
+],
+[
+"Epiphone Les Paul",
+5
+],
+[
+"Crackle Box",
+5
+],
+[
+"Baghèt",
+5
+],
+[
+"kane",
+5
+],
+[
+"spinto soprano",
+5
+],
+[
+"French hunting horn",
+5
+],
+[
+"tarota",
+5
+],
+[
+"Engalabi",
+5
+],
+[
+"bladder pipe",
+5
+],
+[
+"kortholt",
+5
+],
+[
+"algaita",
+5
+],
+[
+"monkey stick",
+5
+],
+[
+"bodega",
+5
+],
+[
+"kemanak",
+5
+],
+[
+"Akai S1000",
+5
+],
+[
+"Casio SK-1",
+5
+],
+[
+"Bandolim",
+5
+],
+[
+"extended-range bass",
+5
+],
+[
+"akonting",
+5
+],
+[
+"kokiriko",
+5
+],
+[
+"Ferrinho",
+5
+],
+[
+"Ocean drum",
+5
+],
+[
+"Giga",
+5
+],
+[
+"hydraulophone",
+5
+],
+[
+"Persian musical instrument",
+5
+],
+[
+"keyboard glockenspiel",
+5
+],
+[
+"Khamak",
+5
+],
+[
+"qilaut",
+5
+],
+[
+"Korg Polysix",
+5
+],
+[
+"Guitaret",
+5
+],
+[
+"mazhar",
+5
+],
+[
+"Mirwas",
+5
+],
+[
+"bass recorder",
+5
+],
+[
+"pluriarc",
+5
+],
+[
+"malunga",
+5
+],
+[
+"shōko",
+5
+],
+[
+"Springtime",
+5
+],
+[
+"Moog Taurus",
+5
+],
+[
+"adaptive hypermedia",
+5
+],
+[
+"udukai",
+5
+],
+[
+"treble booster",
+5
+],
+[
+"Viola de cocho",
+5
+],
+[
+"Wakrapuku",
+5
+],
+[
+"trompa de Ribagorza",
+5
+],
+[
+"buffo tenor",
+5
+],
+[
+"mazanki",
+5
+],
+[
+"bassanello",
+5
+],
+[
+"Imperial Bösendorfer",
+5
+],
+[
+"lyre-guitar",
+5
+],
+[
+"nine-string guitar",
+5
+],
+[
+"contraforte",
+5
+],
+[
+"gong bass drum",
+5
+],
+[
+"parabolic microphone",
+5
+],
+[
+"jam block",
+5
+],
+[
+"solid body",
+5
+],
+[
+"jarana huasteca",
+5
+],
+[
+"mallet percussion instrument",
+5
+],
+[
+"pifilca",
+5
+],
+[
+"sudrophone",
+5
+],
+[
+"Tenore contraltino",
+5
+],
+[
+"Jackson Dinky",
+5
+],
+[
+"asatayak",
+5
+],
+[
+"17-string koto",
+5
+],
+[
+"Cura nagara",
+5
+],
+[
+"calung",
+5
+],
+[
+"tungso",
+5
+],
+[
+"Baroque instrument",
+5
+],
+[
+"rud",
+5
+],
+[
+"nagak",
+5
+],
+[
+"Skrabalai",
+5
+],
+[
+"Eminent 310 Unique",
+5
+],
+[
+"torama",
+5
+],
+[
+"reproducing piano",
+5
+],
+[
+"khromka",
+5
+],
+[
+"chordotonal organ",
+5
+],
+[
+"Chagane",
+5
+],
+[
+"terpodion",
+5
+],
+[
+"flatpicking",
+5
+],
+[
+"Apache fiddle",
+5
+],
+[
+"Bahian guitar",
+5
+],
+[
+"khong wong lek",
+5
+],
+[
+"Blown bottle",
+5
+],
+[
+"contraguitar",
+5
+],
+[
+"Casiotone",
+5
+],
+[
+"singing membrane",
+5
+],
+[
+"chiwang",
+5
+],
+[
+"chácaras",
+5
+],
+[
+"Puerto Rican cuatro",
+5
+],
+[
+"Venezuelan cuatro",
+5
+],
+[
+"dangjeok",
+5
+],
+[
+"Dhantal",
+5
+],
+[
+"duggi",
+5
+],
+[
+"duxianqin",
+5
+],
+[
+"portuguese acoustic guitar",
+5
+],
+[
+"Gibson ES-330",
+5
+],
+[
+"electroencephalophone",
+5
+],
+[
+"eleven-string alto guitar",
+5
+],
+[
+"ennanga",
+5
+],
+[
+"folk instruments of Punjab",
+5
+],
+[
+"Guitarra de golpe",
+5
+],
+[
+"Guitarrón chileno",
+5
+],
+[
+"Chande",
+5
+],
+[
+"fiscorn",
+5
+],
+[
+"chi",
+5
+],
+[
+"Gibson Robot Guitar",
+5
+],
+[
+"rondador",
+5
+],
+[
+"jingle",
+5
+],
+[
+"mute violin",
+5
+],
+[
+"kankara sanshin",
+5
+],
+[
+"Hypervideo",
+5
+],
+[
+"kenong",
+5
+],
+[
+"khlui",
+5
+],
+[
+"khushtar",
+5
+],
+[
+"EMS Synthi A",
+5
+],
+[
+"kontigi",
+5
+],
+[
+"krez",
+5
+],
+[
+"kèn",
+5
+],
+[
+"lingm",
+5
+],
+[
+"echo machine",
+5
+],
+[
+"Slack-key guitar",
+5
+],
+[
+"diyingehu",
+5
+],
+[
+"Bamboula",
+5
+],
+[
+"saw duang",
+5
+],
+[
+"mejoranera",
+5
+],
+[
+"Schwyzerörgeli",
+5
+],
+[
+"military drum",
+5
+],
+[
+"Eric Clapton Stratocaster",
+5
+],
+[
+"bamboo musical instrument",
+5
+],
+[
+"ottu",
+5
+],
+[
+"PAF",
+5
+],
+[
+"ploong",
+5
+],
+[
+"rajão",
+5
+],
+[
+"residence organ",
+5
+],
+[
+"jiegu",
+5
+],
+[
+"Samphor",
+5
+],
+[
+"Nepalese sarangi",
+5
+],
+[
+"Shahrud",
+5
+],
+[
+"Shurangiz",
+5
+],
+[
+"sralai",
+5
+],
+[
+"station bell",
+5
+],
+[
+"street piano",
+5
+],
+[
+"Swarabat",
+5
+],
+[
+"tassa",
+5
+],
+[
+"temir komuz",
+5
+],
+[
+"Scottish smallpipes",
+5
+],
+[
+"toka",
+5
+],
+[
+"traditional Korean musical instrument",
+5
+],
+[
+"tumdak'",
+5
+],
+[
+"viola caipira",
+5
+],
+[
+"hujia",
+5
+],
+[
+"Wave Organ",
+5
+],
+[
+"Lion's roar",
+5
+],
+[
+"slentho",
+5
+],
+[
+"zeze",
+5
+],
+[
+"berda",
+5
+],
+[
+"Ibanez K7",
+5
+],
+[
+"birbynė",
+5
+],
+[
+"Traditional Thai musical instruments",
+5
+],
+[
+"Phonograph cartridge",
+5
+],
+[
+"lira",
+5
+],
+[
+"Blaster Beam",
+5
+],
+[
+"Bock",
+5
+],
+[
+"Drone zither",
+5
+],
+[
+"caña de millo",
+5
+],
+[
+"tinya",
+5
+],
+[
+"cimboa",
+5
+],
+[
+"koudi",
+5
+],
+[
+"dvojnice",
+5
+],
+[
+"Korg Volca",
+5
+],
+[
+"electric harp",
+5
+],
+[
+"jirba",
+4
+],
+[
+"kundi",
+4
+],
+[
+"tibia",
+4
+],
+[
+"Swedish lute",
+4
+],
+[
+"Alapini Vina",
+4
+],
+[
+"venu",
+4
+],
+[
+"Balloon popping",
+4
+],
+[
+"đàn đáy",
+4
+],
+[
+"Gibson Les Paul Special",
+4
+],
+[
+"clapstick",
+4
+],
+[
+"magadis",
+4
+],
+[
+"folding harpsichord",
+4
+],
+[
+"Clavicylinder",
+4
+],
+[
+"bass ukulele",
+4
+],
+[
+"Okraulo",
+4
+],
+[
+"singing voice synthesizer",
+4
+],
+[
+"corno da caccia",
+4
+],
+[
+"Ekpili",
+4
+],
+[
+"Croix Sonore",
+4
+],
+[
+"cromorne",
+4
+],
+[
+"blul",
+4
+],
+[
+"paigu",
+4
+],
+[
+"kam drum",
+4
+],
+[
+"Fanfrnoch",
+4
+],
+[
+"surma",
+4
+],
+[
+"bell tree",
+4
+],
+[
+"mechanical organ",
+4
+],
+[
+"Dord",
+4
+],
+[
+"Indonesian rebab",
+4
+],
+[
+"street organ",
+4
+],
+[
+"chuk",
+4
+],
+[
+"dulcitone",
+4
+],
+[
+"kompang",
+4
+],
+[
+"Murasu",
+4
+],
+[
+"Gibson Blueshawk",
+4
+],
+[
+"tube fiddle",
+4
+],
+[
+"Treujenn-gaol",
+4
+],
+[
+"African harp",
+4
+],
+[
+"Oom-pah",
+4
+],
+[
+"observation cupola",
+4
+],
+[
+"Romanian folk violin",
+4
+],
+[
+"vertical viola",
+4
+],
+[
+"kopuz",
+4
+],
+[
+"air raid alert",
+4
+],
+[
+"Flutina",
+4
+],
+[
+"garklein recorder",
+4
+],
+[
+"picture clock",
+4
+],
+[
+"Gibson Super 400",
+4
+],
+[
+"Gallotone guitar",
+4
+],
+[
+"Gravikord",
+4
+],
+[
+"mantura",
+4
+],
+[
+"Pikasso guitar",
+4
+],
+[
+"duda",
+4
+],
+[
+"contrabass recorder",
+4
+],
+[
+"kse diev",
+4
+],
+[
+"pilili",
+4
+],
+[
+"lusheng",
+4
+],
+[
+"church organ",
+4
+],
+[
+"yanggeum",
+4
+],
+[
+"hümmelchen",
+4
+],
+[
+"kalindula",
+4
+],
+[
+"Bungkau",
+4
+],
+[
+"dhyāngro",
+4
+],
+[
+"E-mu Drumulator",
+4
+],
+[
+"vintage musical equipment",
+4
+],
+[
+"tsymbaly",
+4
+],
+[
+"larchemi",
+4
+],
+[
+"Lichtton orgel",
+4
+],
+[
+"physharmonica",
+4
+],
+[
+"sanba",
+4
+],
+[
+"practice pad",
+4
+],
+[
+"train whistle",
+4
+],
+[
+"Mandolute",
+4
+],
+[
+"Mandriola",
+4
+],
+[
+"Martinstrompete",
+4
+],
+[
+"melophon",
+4
+],
+[
+"Pena",
+4
+],
+[
+"contrabass balalaika",
+4
+],
+[
+"pahu",
+4
+],
+[
+"Georgian Accordion",
+4
+],
+[
+"pate",
+4
+],
+[
+"double-neck guitar",
+4
+],
+[
+"shakubyoshi",
+4
+],
+[
+"Simbing",
+4
+],
+[
+"Rakatak",
+4
+],
+[
+"double reed instrument",
+4
+],
+[
+"Salo (instrument)",
+4
+],
+[
+"scabellum",
+4
+],
+[
+"Firebird",
+4
+],
+[
+"Schrammel accordion",
+4
+],
+[
+"Sennheiser MD 421",
+4
+],
+[
+"double clarinet",
+4
+],
+[
+"Denis d'or",
+4
+],
+[
+"muselar virginal",
+4
+],
+[
+"Kabinetorgels",
+4
+],
+[
+"Neumann U 87",
+4
+],
+[
+"dolio",
+4
+],
+[
+"boom microphone",
+4
+],
+[
+"Tremolo harmonica",
+4
+],
+[
+"Caucasian Dhol",
+4
+],
+[
+"tsuri-daiko",
+4
+],
+[
+"waldzither",
+4
+],
+[
+"Vienna horn",
+4
+],
+[
+"reclam de xeremies",
+4
+],
+[
+"Yamaha Tyros",
+4
+],
+[
+"sopranino recorder",
+4
+],
+[
+"Vox Mark III",
+4
+],
+[
+"tenor banjo",
+4
+],
+[
+"Alesis Ion",
+4
+],
+[
+"accordina",
+4
+],
+[
+"Gaita cabreiresa",
+4
+],
+[
+"Bordonua",
+4
+],
+[
+"Büchel",
+4
+],
+[
+"Clavicymbalum",
+4
+],
+[
+"passing bell",
+4
+],
+[
+"digital mixing console",
+4
+],
+[
+"pūtōrino",
+4
+],
+[
+"Zendrum",
+4
+],
+[
+"Elka Synthex",
+4
+],
+[
+"Nocaster",
+4
+],
+[
+"Burny",
+4
+],
+[
+"Multimoog",
+4
+],
+[
+"Gibson ES-137",
+4
+],
+[
+"Gibson L-4",
+4
+],
+[
+"reed aerophone",
+4
+],
+[
+"Junjung",
+4
+],
+[
+"Moog Little Phatty",
+4
+],
+[
+"Loure",
+4
+],
+[
+"Monome",
+4
+],
+[
+"mukkuri",
+4
+],
+[
+"mutation stop",
+4
+],
+[
+"ney-anbān",
+4
+],
+[
+"digital organ",
+4
+],
+[
+"Chitarra Italiana",
+4
+],
+[
+"wheel bells",
+4
+],
+[
+"setor",
+4
+],
+[
+"shahi baaja",
+4
+],
+[
+"gudugudu",
+4
+],
+[
+"tarol",
+4
+],
+[
+"Touch Guitar",
+4
+],
+[
+"tritare",
+4
+],
+[
+"tambouras",
+4
+],
+[
+"Fender Wide Range",
+4
+],
+[
+"Yamaha SY99",
+4
+],
+[
+"subcontrabass flute",
+4
+],
+[
+"hosho",
+4
+],
+[
+"light soprano",
+4
+],
+[
+"Yamaha Montage",
+4
+],
+[
+"Parker Fly",
+4
+],
+[
+"żaqq",
+4
+],
+[
+"Rickenbacker 360",
+4
+],
+[
+"soprano sfogato",
+4
+],
+[
+"whamola",
+4
+],
+[
+"Eigenharp",
+4
+],
+[
+"10.5 cm Cannon Model 1927",
+4
+],
+[
+"Gibson Les Paul Standard",
+4
+],
+[
+"bambir",
+4
+],
+[
+"bangu",
+4
+],
+[
+"Asatayak",
+4
+],
+[
+"Cort MBC-1 Matthew Bellamy Signature",
+4
+],
+[
+"guitar zither",
+4
+],
+[
+"terpsitone",
+4
+],
+[
+"Gibson Corvus",
+4
+],
+[
+"tamur",
+4
+],
+[
+"Ukeke",
+4
+],
+[
+"ranat",
+4
+],
+[
+"Akai S3000XL",
+4
+],
+[
+"pong lang",
+4
+],
+[
+"ancient veena",
+4
+],
+[
+"duct flute",
+4
+],
+[
+"cantaro",
+4
+],
+[
+"babendil",
+4
+],
+[
+"Baltic psaltery",
+4
+],
+[
+"bara",
+4
+],
+[
+"bass violin",
+4
+],
+[
+"Octavina",
+4
+],
+[
+"ranat thum lek",
+4
+],
+[
+"Bugchu",
+4
+],
+[
+"Power amplifiers",
+4
+],
+[
+"Epiphone G-400",
+4
+],
+[
+"cak",
+4
+],
+[
+"Casio CZ synthesizers",
+4
+],
+[
+"Casio MT-40",
+4
+],
+[
+"ceremonial drum",
+4
+],
+[
+"chikara",
+4
+],
+[
+"Chinese flute",
+4
+],
+[
+"Blockwerk",
+4
+],
+[
+"Clavier à lumières",
+4
+],
+[
+"claviola",
+4
+],
+[
+"console steel guitar",
+4
+],
+[
+"matófono",
+4
+],
+[
+"Dakshinavarti Shankh",
+4
+],
+[
+"Karinding",
+4
+],
+[
+"dipole speaker",
+4
+],
+[
+"double bell euphonium",
+4
+],
+[
+"atenteben",
+4
+],
+[
+"dvoyanka",
+4
+],
+[
+"eagle bone whistle",
+4
+],
+[
+"electric grand piano",
+4
+],
+[
+"sohaegeum",
+4
+],
+[
+"bowl lyre",
+4
+],
+[
+"Epiphone Dot",
+4
+],
+[
+"Gaita gastoreña",
+4
+],
+[
+"wind organ",
+4
+],
+[
+"Fender Telecaster Custom",
+4
+],
+[
+"gabbang",
+4
+],
+[
+"Gendang beleq",
+4
+],
+[
+"Gharha",
+4
+],
+[
+"Goema",
+4
+],
+[
+"Gonguê",
+4
+],
+[
+"guitar picking",
+4
+],
+[
+"hybrid picking",
+4
+],
+[
+"divan",
+4
+],
+[
+"pat waing",
+4
+],
+[
+"Clavivox",
+4
+],
+[
+"huobosi",
+4
+],
+[
+"DAMMAM",
+4
+],
+[
+"ichigenkin",
+4
+],
+[
+"çığırtma",
+4
+],
+[
+"harmonichord",
+4
+],
+[
+"Rickenbacker 360/12",
+4
+],
+[
+"junggeum",
+4
+],
+[
+"Kato",
+4
+],
+[
+"kecer",
+4
+],
+[
+"kempul",
+4
+],
+[
+"keyboard bass",
+4
+],
+[
+"pat kon",
+4
+],
+[
+"Kolitong",
+4
+],
+[
+"kong toch",
+4
+],
+[
+"kouxian",
+4
+],
+[
+"krap",
+4
+],
+[
+"nakkare",
+4
+],
+[
+"kuisi",
+4
+],
+[
+"Lace Sensor",
+4
+],
+[
+"Laggutu",
+4
+],
+[
+"armpit fart",
+4
+],
+[
+"saw sam sai",
+4
+],
+[
+"Cornemuse du Centre",
+4
+],
+[
+"Sataer",
+4
+],
+[
+"marovany",
+4
+],
+[
+"baroque oboe",
+4
+],
+[
+"mayohuacán",
+4
+],
+[
+"Micromoog",
+4
+],
+[
+"treble flute",
+4
+],
+[
+"nabal",
+4
+],
+[
+"sogeum",
+4
+],
+[
+"Pancai baja",
+4
+],
+[
+"Gralsglockenklavier",
+4
+],
+[
+"bo",
+4
+],
+[
+"Prempensua",
+4
+],
+[
+"bajo quinto",
+4
+],
+[
+"rothphone",
+4
+],
+[
+"sambal",
+4
+],
+[
+"Rebana Ubi",
+4
+],
+[
+"Sapp",
+4
+],
+[
+"Saxtuba",
+4
+],
+[
+"sipsi",
+4
+],
+[
+"bonang barung",
+4
+],
+[
+"symphonic organ",
+4
+],
+[
+"tack piano",
+4
+],
+[
+"takuapu",
+4
+],
+[
+"tenor violin",
+4
+],
+[
+"gudastviri",
+4
+],
+[
+"tremoloa",
+4
+],
+[
+"tro",
+4
+],
+[
+"tubaphone",
+4
+],
+[
+"Neumann U 47",
+4
+],
+[
+"ukelin",
+4
+],
+[
+"Vector synthesis",
+4
+],
+[
+"axatse",
+4
+],
+[
+"Verrophone",
+4
+],
+[
+"Victor Orthophonic Victrola",
+4
+],
+[
+"isomorphic keyboard",
+4
+],
+[
+"Viola da terra",
+4
+],
+[
+"kepyak",
+4
+],
+[
+"Xutuli",
+4
+],
+[
+"yaylı tanbur",
+4
+],
+[
+"đàn gáo",
+4
+],
+[
+"đàn tam",
+4
+],
+[
+"đàn sến",
+4
+],
+[
+"ōtsuzumi",
+4
+],
+[
+"basshorn",
+4
+],
+[
+"Tonette",
+4
+],
+[
+"Botella de anís",
+4
+],
+[
+"wot",
+4
+],
+[
+"tromboon",
+4
+],
+[
+"Cegléd water jug",
+4
+],
+[
+"Binson Echorec",
+4
+],
+[
+"brač",
+4
+],
+[
+"Sodina",
+4
+],
+[
+"kagura suzu",
+4
+],
+[
+"Sennheiser MD 441",
+4
+],
+[
+"geduk",
+4
+],
+[
+"Selmer Mark VI",
+4
+],
+[
+"orutu",
+4
+],
+[
+"Calabash (Percussion)",
+4
+],
+[
+"octocontrabass clarinet",
+4
+],
+[
+"octocontra-alto clarinet",
+4
+],
+[
+"bugarija",
+3
+],
+[
+"buki",
+3
+],
+[
+"Bohemian harp",
+3
+],
+[
+"salute guns",
+3
+],
+[
+"ESP Tom Araya",
+3
+],
+[
+"hammered chordophone",
+3
+],
+[
+"Kisanji",
+3
+],
+[
+"tromba egiziana",
+3
+],
+[
+"Cembalet",
+3
+],
+[
+"Moog Source",
+3
+],
+[
+"Sax-a-boom",
+3
+],
+[
+"Ukrainian folk musical instrument",
+3
+],
+[
+"Eka-tantri Vina",
+3
+],
+[
+"Musikhaus Kurt Sperrhake",
+3
+],
+[
+"Pi chum",
+3
+],
+[
+"đàn tam thập lục",
+3
+],
+[
+"Zummara",
+3
+],
+[
+"hitoyogiri",
+3
+],
+[
+"ciaramella",
+3
+],
+[
+"True wireless headphones",
+3
+],
+[
+"Ibanez MTM",
+3
+],
+[
+"Pandereta plenera",
+3
+],
+[
+"tremolo picking",
+3
+],
+[
+"soprano trombone",
+3
+],
+[
+"nao",
+3
+],
+[
+"arpicordo",
+3
+],
+[
+"servant bell",
+3
+],
+[
+"mandolone",
+3
+],
+[
+"cornophone",
+3
+],
+[
+"wireless headphones",
+3
+],
+[
+"thumb rest",
+3
+],
+[
+"uchiwa daiko",
+3
+],
+[
+"glass flute",
+3
+],
+[
+"Gibson Barney Kessel",
+3
+],
+[
+"Pocket Operators",
+3
+],
+[
+"đàn tre",
+3
+],
+[
+"hanging bell",
+3
+],
+[
+"luo",
+3
+],
+[
+"Yamaha Reface",
+3
+],
+[
+"ling",
+3
+],
+[
+"Gibson L-5 CES",
+3
+],
+[
+"Molo",
+3
+],
+[
+"Supro Ozark 1560 S",
+3
+],
+[
+"Tabal",
+3
+],
+[
+"Roland R-8",
+3
+],
+[
+"wobble board",
+3
+],
+[
+"shulan",
+3
+],
+[
+"Chan",
+3
+],
+[
+"diplica",
+3
+],
+[
+"ayumaa",
+3
+],
+[
+"svirka",
+3
+],
+[
+"bonang panerus",
+3
+],
+[
+"marching brass instrument",
+3
+],
+[
+"armeeposaune",
+3
+],
+[
+"ELKA Rhapsody",
+3
+],
+[
+"ayoyotes",
+3
+],
+[
+"Thattai",
+3
+],
+[
+"poeng mang",
+3
+],
+[
+"moving coil phono cartridge",
+3
+],
+[
+"Kurdish musical instruments",
+3
+],
+[
+"Moldavian fluier",
+3
+],
+[
+"electromechanical instrument",
+3
+],
+[
+"euphon",
+3
+],
+[
+"Puik-puik",
+3
+],
+[
+"violotta",
+3
+],
+[
+"frigideira",
+3
+],
+[
+"gas alarm device",
+3
+],
+[
+"niutuiqin",
+3
+],
+[
+"bell plate",
+3
+],
+[
+"Gibson ES-350T",
+3
+],
+[
+"Gibson Little Lucille",
+3
+],
+[
+"guitar string",
+3
+],
+[
+"electric viola",
+3
+],
+[
+"great bass recorder",
+3
+],
+[
+"Gruppenhorchgerät",
+3
+],
+[
+"Maddale",
+3
+],
+[
+"Schäferpfeife",
+3
+],
+[
+"Hagstrom Swede",
+3
+],
+[
+"taille",
+3
+],
+[
+"symphonetta",
+3
+],
+[
+"sub-contrabass recorder",
+3
+],
+[
+"Harmonetta",
+3
+],
+[
+"heldenbaritone",
+3
+],
+[
+"klaxon",
+3
+],
+[
+"agiarut",
+3
+],
+[
+"mahuri",
+3
+],
+[
+"scraped idiophone",
+3
+],
+[
+"Caixas de guerra",
+3
+],
+[
+"Strummolo",
+3
+],
+[
+"walking stick violin",
+3
+],
+[
+"Moog Liberation",
+3
+],
+[
+"chap",
+3
+],
+[
+"violetta",
+3
+],
+[
+"Sotto voce",
+3
+],
+[
+"corno da tirarsi",
+3
+],
+[
+"Naumati Baaja",
+3
+],
+[
+"lag-na",
+3
+],
+[
+"Kurdish tanbur",
+3
+],
+[
+"pattala",
+3
+],
+[
+"stabule",
+3
+],
+[
+"found object percussion",
+3
+],
+[
+"Silent guitar",
+3
+],
+[
+"travel guitar",
+3
+],
+[
+"strumpf fiddle",
+3
+],
+[
+"Tahitian ukulele",
+3
+],
+[
+"Ibanez RG Prestige",
+3
+],
+[
+"kabak kemane",
+3
+],
+[
+"practice chanter",
+3
+],
+[
+"Korg PS-3300",
+3
+],
+[
+"Koyabu Symmetric Board",
+3
+],
+[
+"ESP Kirk Hammett",
+3
+],
+[
+"Orthotonophonium",
+3
+],
+[
+"chest organ",
+3
+],
+[
+"yoke lute",
+3
+],
+[
+"Piganino",
+3
+],
+[
+"clog fiddle",
+3
+],
+[
+"Moog Theremini",
+3
+],
+[
+"Anglo concertina",
+3
+],
+[
+"lyric mezzo-soprano",
+3
+],
+[
+"Kazakh musical instrument",
+3
+],
+[
+"concert organ",
+3
+],
+[
+"Klangstuhl",
+3
+],
+[
+"khloy",
+3
+],
+[
+"kong mong",
+3
+],
+[
+"Peace Bell",
+3
+],
+[
+"tüidük",
+3
+],
+[
+"organetto",
+3
+],
+[
+"arched harp",
+3
+],
+[
+"pilgrims' horn",
+3
+],
+[
+"voice flute",
+3
+],
+[
+"citera",
+3
+],
+[
+"Dance Chimes",
+3
+],
+[
+"G-sharp guitar",
+3
+],
+[
+"piccolo trombone",
+3
+],
+[
+"plectrum banjo",
+3
+],
+[
+"sáo",
+3
+],
+[
+"Schweizer Sackpfeife",
+3
+],
+[
+"Fender White Steel",
+3
+],
+[
+"Sacristy bell",
+3
+],
+[
+"cross-strung harp",
+3
+],
+[
+"Subharchord",
+3
+],
+[
+"symphonium",
+3
+],
+[
+"Washtub basses",
+3
+],
+[
+"theremin cello",
+3
+],
+[
+"dulce melos",
+3
+],
+[
+"duck call",
+3
+],
+[
+"triola",
+3
+],
+[
+"6-plus-6-instruments",
+3
+],
+[
+"Yngwie Malmsteen Stratocaster",
+3
+],
+[
+"flauta rociera",
+3
+],
+[
+"darkhuang",
+3
+],
+[
+"Kovalevskaya Top",
+3
+],
+[
+"tamboori",
+3
+],
+[
+"Bu",
+3
+],
+[
+"Eo",
+3
+],
+[
+"nogo",
+3
+],
+[
+"ground bow",
+3
+],
+[
+"Vintage V100MRPGM Lemon Drop",
+3
+],
+[
+"vocal percussion",
+3
+],
+[
+"multi-course harp",
+3
+],
+[
+"Neumann CMV3",
+3
+],
+[
+"Yamaha RX-11",
+3
+],
+[
+"bell guittern",
+3
+],
+[
+"piccolo bass",
+3
+],
+[
+"Sneng",
+3
+],
+[
+"bachîn",
+3
+],
+[
+"Alesis Fusion",
+3
+],
+[
+"kalimba",
+3
+],
+[
+"dance organ",
+3
+],
+[
+"banjo guitar",
+3
+],
+[
+"bulgari",
+3
+],
+[
+"lip-ribbon microphone",
+3
+],
+[
+"superbone",
+3
+],
+[
+"Moog Prodigy",
+3
+],
+[
+"Adjalin",
+3
+],
+[
+"Aria Pro II",
+3
+],
+[
+"nigenkin",
+3
+],
+[
+"Bhankora",
+3
+],
+[
+"Bigophone",
+3
+],
+[
+"belembaotuyan",
+3
+],
+[
+"contrabass bugle",
+3
+],
+[
+"trigonon",
+3
+],
+[
+"djoza",
+3
+],
+[
+"economy picking",
+3
+],
+[
+"pipasso",
+3
+],
+[
+"Ever Buree",
+3
+],
+[
+"Moog Satellite",
+3
+],
+[
+"gbofe",
+3
+],
+[
+"Harmoniflûte",
+3
+],
+[
+"Home Swinger",
+3
+],
+[
+"struck string instrument",
+3
+],
+[
+"African musical instrument",
+3
+],
+[
+"jazzophone",
+3
+],
+[
+"Dudi",
+3
+],
+[
+"qelutviaq",
+3
+],
+[
+"Greek musical instrument",
+3
+],
+[
+"Epiphone Les Paul 100",
+3
+],
+[
+"Charlie Christian pickup",
+3
+],
+[
+"Akete",
+3
+],
+[
+"ARP Omni",
+3
+],
+[
+"plagiaulos",
+3
+],
+[
+"huiringua",
+3
+],
+[
+"ka'eke'eke",
+3
+],
+[
+"qudi",
+3
+],
+[
+"rabel",
+3
+],
+[
+"Roland Juno",
+3
+],
+[
+"Roland TR-707",
+3
+],
+[
+"Roland VP-330",
+3
+],
+[
+"virtual pipe organ",
+3
+],
+[
+"Koss Porta Pro",
+3
+],
+[
+"tambin",
+3
+],
+[
+"Panchamukha vadyam",
+3
+],
+[
+"Veuze",
+3
+],
+[
+"lyra viol",
+3
+],
+[
+"Yamaha SHS-10",
+3
+],
+[
+"zheng",
+3
+],
+[
+"ARP Pro/DGX",
+3
+],
+[
+"harp lute",
+3
+],
+[
+"Clapper",
+3
+],
+[
+"classical guitar with additional strings",
+3
+],
+[
+"Fender Mark Hoppus Jazz Bass",
+3
+],
+[
+"soprano flute",
+3
+],
+[
+"Vadya",
+3
+],
+[
+"Multi-Band Excitation",
+3
+],
+[
+"Monotron",
+3
+],
+[
+"Moog modular synthesizer",
+3
+],
+[
+"Multi effects pedal",
+3
+],
+[
+"njarka",
+3
+],
+[
+"dihu",
+3
+],
+[
+"soprano falcon",
+3
+],
+[
+"dramatic coloratura soprano",
+3
+],
+[
+"Wagnerian soprano",
+3
+],
+[
+"super tweeter",
+3
+],
+[
+"marching percussion instrument",
+3
+],
+[
+"stomp box",
+3
+],
+[
+"Aïda trumpet",
+3
+],
+[
+"Gibson Les Paul Classic",
+3
+],
+[
+"Armenian musical instrument",
+3
+],
+[
+"ahoko",
+3
+],
+[
+"multi-scale fingerboard",
+3
+],
+[
+"wolf-whistling",
+3
+],
+[
+"vocal apparatus",
+3
+],
+[
+"dabıl",
+3
+],
+[
+"taraban",
+3
+],
+[
+"kalyuka",
+3
+],
+[
+"lavabo",
+3
+],
+[
+"demung",
+3
+],
+[
+"ESP Eclipse",
+3
+],
+[
+"pkhachich",
+3
+],
+[
+"yonggo",
+3
+],
+[
+"Russian horn",
+3
+],
+[
+"Saratovskaya garmonika",
+3
+],
+[
+"yak",
+3
+],
+[
+"amadinda",
+3
+],
+[
+"enharmonic keyboard",
+3
+],
+[
+"melodeon",
+3
+],
+[
+"diaulos",
+3
+],
+[
+"ARP String Synthesizer",
+3
+],
+[
+"agidigbo",
+3
+],
+[
+"agung a tamlang",
+3
+],
+[
+"contrabass trombone",
+3
+],
+[
+"Ajayu",
+3
+],
+[
+"akkordolia",
+3
+],
+[
+"alligator drum",
+3
+],
+[
+"American bass viol",
+3
+],
+[
+"analog sequencer",
+3
+],
+[
+"Arabic musical instrument",
+3
+],
+[
+"arbajo",
+3
+],
+[
+"Ashbory bass",
+3
+],
+[
+"Azusa Yumi",
+3
+],
+[
+"B.C. Rich Mockingbird",
+3
+],
+[
+"BBC-Marconi Type A microphone",
+3
+],
+[
+"bandol (instrument)",
+3
+],
+[
+"bandolin",
+3
+],
+[
+"barril de bomba",
+3
+],
+[
+"duitara",
+3
+],
+[
+"ranat ek lek",
+3
+],
+[
+"bombo",
+3
+],
+[
+"bookshelf speaker",
+3
+],
+[
+"bro",
+3
+],
+[
+"tambur",
+3
+],
+[
+"Caja vallenata",
+3
+],
+[
+"Cajón de rumba",
+3
+],
+[
+"cajón de tapeo",
+3
+],
+[
+"earbuds",
+3
+],
+[
+"Candombe drums",
+3
+],
+[
+"kotsuzumi",
+3
+],
+[
+"cekuntrung",
+3
+],
+[
+"Chakapa",
+3
+],
+[
+"chillador",
+3
+],
+[
+"Chlefelen",
+3
+],
+[
+"Clarinet family",
+3
+],
+[
+"coaxial loudspeaker",
+3
+],
+[
+"combo organ",
+3
+],
+[
+"Concheras",
+3
+],
+[
+"contra-alto flute",
+3
+],
+[
+"Contrabass guitar",
+3
+],
+[
+"contrabass oboe",
+3
+],
+[
+"contrabass trumpet",
+3
+],
+[
+"cornstalk fiddle",
+3
+],
+[
+"crystallophone",
+3
+],
+[
+"Cuk",
+3
+],
+[
+"curfew bell",
+3
+],
+[
+"Distributed mode loudspeaker",
+3
+],
+[
+"cylindrical drum",
+3
+],
+[
+"daguangxian",
+3
+],
+[
+"dahu",
+3
+],
+[
+"Damaha",
+3
+],
+[
+"dangubica",
+3
+],
+[
+"datong",
+3
+],
+[
+"dentsivka",
+3
+],
+[
+"deze",
+3
+],
+[
+"digital synthesizer",
+3
+],
+[
+"double contrabass flute",
+3
+],
+[
+"EOWS",
+3
+],
+[
+"Echoplex",
+3
+],
+[
+"ekwe",
+3
+],
+[
+"euphonicon",
+3
+],
+[
+"Modulator",
+3
+],
+[
+"Fender Aerodyne Jazz Bass",
+3
+],
+[
+"Fender Contemporary Stratocaster Japan",
+3
+],
+[
+"floyara",
+3
+],
+[
+"frilka",
+3
+],
+[
+"Gaita sanabresa",
+3
+],
+[
+"'uli'uli",
+3
+],
+[
+"gandingan",
+3
+],
+[
+"Gandingan a Kayo",
+3
+],
+[
+"Gbedu (drum)",
+3
+],
+[
+"Genggong",
+3
+],
+[
+"Gibson Dove",
+3
+],
+[
+"Gibson ES-135",
+3
+],
+[
+"Gibson ES-225",
+3
+],
+[
+"Gibson ES Series",
+3
+],
+[
+"Gibson Les Paul Doublecut",
+3
+],
+[
+"Gibson Les Paul bass",
+3
+],
+[
+"Yamaha DX21",
+3
+],
+[
+"glasschord",
+3
+],
+[
+"raft zither",
+3
+],
+[
+"trough zither",
+3
+],
+[
+"gong chime",
+3
+],
+[
+"Colombian tiple",
+3
+],
+[
+"Polopalo",
+3
+],
+[
+"Sagar Veena",
+3
+],
+[
+"guban",
+3
+],
+[
+"Gue",
+3
+],
+[
+"guitar phím lõm",
+3
+],
+[
+"guitarra panzona",
+3
+],
+[
+"hand-repique",
+3
+],
+[
+"Luogu",
+3
+],
+[
+"chekker",
+3
+],
+[
+"bandolina",
+3
+],
+[
+"Cajita rítmica afroperuana",
+3
+],
+[
+"Highway Hi-Fi",
+3
+],
+[
+"kalangu",
+3
+],
+[
+"Ciaramedda",
+3
+],
+[
+"hotchiku",
+3
+],
+[
+"hybrid guitar",
+3
+],
+[
+"Ibanez Artcore series",
+3
+],
+[
+"Ibanez Talman",
+3
+],
+[
+"idiochord",
+3
+],
+[
+"ikembe",
+3
+],
+[
+"Yaren",
+3
+],
+[
+"Moving magnet phono cartridge",
+3
+],
+[
+"Kong ring",
+3
+],
+[
+"pin",
+3
+],
+[
+"ikh khuur",
+3
+],
+[
+"dramatic tenor",
+3
+],
+[
+"spinto tenor",
+3
+],
+[
+"Apollonicon",
+3
+],
+[
+"k'lông pút",
+3
+],
+[
+"kagul",
+3
+],
+[
+"kalumbu",
+3
+],
+[
+"Karawasi",
+3
+],
+[
+"kawala",
+3
+],
+[
+"khonkhota",
+3
+],
+[
+"kirikoketa",
+3
+],
+[
+"klong khaek",
+3
+],
+[
+"klong that",
+3
+],
+[
+"kong thom",
+3
+],
+[
+"Electribe A",
+3
+],
+[
+"kozobas",
+3
+],
+[
+"kubing",
+3
+],
+[
+"kukkuma",
+3
+],
+[
+"Kulintang a kayo",
+3
+],
+[
+"Kulintang a tiniok",
+3
+],
+[
+"Vanilla Car",
+3
+],
+[
+"leona",
+3
+],
+[
+"tabuah",
+3
+],
+[
+"ranat thum",
+3
+],
+[
+"ranat ek",
+3
+],
+[
+"Miskal",
+3
+],
+[
+"thon and rammana",
+3
+],
+[
+"litungu",
+3
+],
+[
+"Liuto cantabile",
+3
+],
+[
+"Logan String Melody",
+3
+],
+[
+"Loh tarang",
+3
+],
+[
+"lokole",
+3
+],
+[
+"lujon",
+3
+],
+[
+"låtfiol",
+3
+],
+[
+"Tungehorn",
+3
+],
+[
+"manjur",
+3
+],
+[
+"Memorymoog",
+3
+],
+[
+"Moogerfooger",
+3
+],
+[
+"Music Man Bongo",
+3
+],
+[
+"Music Man Sterling",
+3
+],
+[
+"pea whistle",
+3
+],
+[
+"Arpa de dos órdenes",
+3
+],
+[
+"näverlapp",
+3
+],
+[
+"Octave twelve",
+3
+],
+[
+"octavist",
+3
+],
+[
+"Organ flue pipe scaling",
+3
+],
+[
+"oval spinet",
+3
+],
+[
+"pardessus de viole",
+3
+],
+[
+"phách",
+3
+],
+[
+"melodic percussion instrument",
+3
+],
+[
+"Bongkel",
+3
+],
+[
+"pūtātara",
+3
+],
+[
+"quijongo",
+3
+],
+[
+"reed contrabass",
+3
+],
+[
+"Roland GR-500",
+3
+],
+[
+"Roland GR-300",
+3
+],
+[
+"Roland MC-8 Microcomposer",
+3
+],
+[
+"roneat dek",
+3
+],
+[
+"roneat thung",
+3
+],
+[
+"Roneat ek",
+3
+],
+[
+"Salamiyyah",
+3
+],
+[
+"Salterio",
+3
+],
+[
+"samica",
+3
+],
+[
+"Dean Cadillac",
+3
+],
+[
+"Seni rebab",
+3
+],
+[
+"boobam",
+3
+],
+[
+"shang",
+3
+],
+[
+"singing Tesla coil",
+3
+],
+[
+"Sjøfløyte",
+3
+],
+[
+"song loan",
+3
+],
+[
+"soprano clarinet",
+3
+],
+[
+"soprano cornet",
+3
+],
+[
+"surdelina",
+3
+],
+[
+"spilåpipa",
+3
+],
+[
+"spitzharfe",
+3
+],
+[
+"sruti upanga",
+3
+],
+[
+"Starcaster by Fender",
+3
+],
+[
+"Stevie Ray Vaughan Stratocaster",
+3
+],
+[
+"subcontrabass tuba",
+3
+],
+[
+"suroz",
+3
+],
+[
+"swish cymbal",
+3
+],
+[
+"symphonia",
+3
+],
+[
+"sênh tiền",
+3
+],
+[
+"t'rưng",
+3
+],
+[
+"Taarija",
+3
+],
+[
+"Tamborita calentana",
+3
+],
+[
+"tangmuri",
+3
+],
+[
+"Technics SL-10",
+3
+],
+[
+"tihu",
+3
+],
+[
+"Tiple doliente",
+3
+],
+[
+"Trejdeksnis",
+3
+],
+[
+"Tro Khmer",
+3
+],
+[
+"trống chầu",
+3
+],
+[
+"trống cái",
+3
+],
+[
+"trống cơm",
+3
+],
+[
+"viola de buriti",
+3
+],
+[
+"walaycho",
+3
+],
+[
+"wazza",
+3
+],
+[
+"Yamaha DX1",
+3
+],
+[
+"yazheng",
+3
+],
+[
+"zhongruan",
+3
+],
+[
+"đàn goong",
+3
+],
+[
+"đàn hồ",
+3
+],
+[
+"đàn tứ",
+3
+],
+[
+"bass banjo",
+3
+],
+[
+"lyric baritone",
+3
+],
+[
+"Damphu drum",
+3
+],
+[
+"cellone",
+3
+],
+[
+"bisernica",
+3
+],
+[
+"bougarabou",
+3
+],
+[
+"guitarró",
+3
+],
+[
+"Burczybas",
+3
+],
+[
+"dorei",
+3
+],
+[
+"Gasba",
+3
+],
+[
+"walpipe",
+3
+],
+[
+"Fender Jeff Beck Stratocaster",
+3
 ]
 ]
