@@ -32,15 +32,15 @@
 21
 ],
 [
-"platform shoe",
-20
-],
-[
 "Areni-1 shoe",
 20
 ],
 [
-"Track spikes",
+"platform shoe",
+20
+],
+[
+"Opanak",
 19
 ],
 [
@@ -48,23 +48,23 @@
 19
 ],
 [
-"Opanak",
+"Track spikes",
 19
-],
-[
-"mule",
-16
 ],
 [
 "brogue shoe",
 16
 ],
 [
-"paduka",
-15
+"mule",
+16
 ],
 [
 "jutti",
+15
+],
+[
+"paduka",
 15
 ],
 [
@@ -72,11 +72,11 @@
 14
 ],
 [
-"babouche",
+"poulaine",
 12
 ],
 [
-"poulaine",
+"babouche",
 12
 ],
 [
@@ -100,28 +100,20 @@
 9
 ],
 [
-"Slingback",
-8
-],
-[
 "markoub",
 8
 ],
 [
-"lotus shoe",
-7
+"Slingback",
+8
 ],
 [
 "spectator shoe",
 7
 ],
 [
-"Ichigi",
-6
-],
-[
-"Burki",
-6
+"lotus shoe",
+7
 ],
 [
 "turnshoe",
@@ -132,12 +124,16 @@
 6
 ],
 [
-"galesh",
+"Burki",
 6
 ],
 [
-"Tiger-head shoes",
-5
+"Ichigi",
+6
+],
+[
+"galesh",
+6
 ],
 [
 "beaked shoe",
@@ -148,19 +144,7 @@
 5
 ],
 [
-"Nike Total 90",
-5
-],
-[
-"mojari",
-5
-],
-[
-"jelly shoes",
-5
-],
-[
-"elevator shoe",
+"duckbill shoe",
 5
 ],
 [
@@ -168,11 +152,27 @@
 5
 ],
 [
+"elevator shoe",
+5
+],
+[
+"jelly shoes",
+5
+],
+[
+"mojari",
+5
+],
+[
 "peep-toe shoe",
 5
 ],
 [
-"duckbill shoe",
+"Tiger-head shoes",
+5
+],
+[
+"Nike Total 90",
 5
 ]
 ]

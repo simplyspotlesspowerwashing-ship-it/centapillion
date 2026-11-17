@@ -36,15 +36,15 @@
 129
 ],
 [
-"emperor",
-124
-],
-[
 "mathematician",
 124
 ],
 [
 "singer",
+124
+],
+[
+"emperor",
 124
 ],
 [
@@ -92,19 +92,19 @@
 93
 ],
 [
-"entrepreneur",
-87
-],
-[
 "firefighter",
 87
 ],
 [
-"fisher",
-86
+"entrepreneur",
+87
 ],
 [
 "aircraft pilot",
+86
+],
+[
+"fisher",
 86
 ],
 [
@@ -112,7 +112,7 @@
 85
 ],
 [
-"tailor",
+"diplomat",
 83
 ],
 [
@@ -120,7 +120,7 @@
 83
 ],
 [
-"diplomat",
+"tailor",
 83
 ],
 [
@@ -132,7 +132,11 @@
 81
 ],
 [
-"chief executive officer",
+"mercenary",
+79
+],
+[
+"economist",
 79
 ],
 [
@@ -140,11 +144,7 @@
 79
 ],
 [
-"mercenary",
-79
-],
-[
-"economist",
+"chief executive officer",
 79
 ],
 [
@@ -172,15 +172,15 @@
 73
 ],
 [
+"barber",
+71
+],
+[
 "conductor",
 71
 ],
 [
 "merchant",
-71
-],
-[
-"barber",
 71
 ],
 [
@@ -192,18 +192,6 @@
 69
 ],
 [
-"tenor",
-68
-],
-[
-"inventor",
-68
-],
-[
-"butcher",
-68
-],
-[
 "cowboy",
 68
 ],
@@ -212,8 +200,24 @@
 68
 ],
 [
+"inventor",
+68
+],
+[
+"tenor",
+68
+],
+[
+"butcher",
+68
+],
+[
 "executioner",
 66
+],
+[
+"pastor",
+65
 ],
 [
 "businessperson",
@@ -224,14 +228,6 @@
 65
 ],
 [
-"pastor",
-65
-],
-[
-"songwriter",
-64
-],
-[
 "director",
 64
 ],
@@ -240,23 +236,23 @@
 64
 ],
 [
-"video assistant referee",
-64
-],
-[
 "mangaka",
 64
 ],
 [
-"detective",
-63
+"video assistant referee",
+64
+],
+[
+"songwriter",
+64
 ],
 [
 "association football player",
 63
 ],
 [
-"association football referee",
+"waiter",
 62
 ],
 [
@@ -264,15 +260,19 @@
 62
 ],
 [
-"waiter",
+"detective",
 62
 ],
 [
-"regent",
-60
+"association football referee",
+62
 ],
 [
 "accountant",
+60
+],
+[
+"regent",
 60
 ],
 [
@@ -308,11 +308,11 @@
 56
 ],
 [
-"police officer",
+"broker",
 55
 ],
 [
-"broker",
+"police officer",
 55
 ],
 [
@@ -320,24 +320,12 @@
 55
 ],
 [
-"scribe",
-54
-],
-[
 "actuary",
 54
 ],
 [
-"biologist",
-53
-],
-[
-"geographer",
-53
-],
-[
-"secretary",
-53
+"scribe",
+54
 ],
 [
 "warrior",
@@ -352,23 +340,27 @@
 53
 ],
 [
-"goldsmith",
-52
+"secretary",
+53
+],
+[
+"biologist",
+53
+],
+[
+"geographer",
+53
 ],
 [
 "pawnbroker",
 52
 ],
 [
+"goldsmith",
+52
+],
+[
 "mail carrier",
-51
-],
-[
-"geologist",
-51
-],
-[
-"gardener",
 51
 ],
 [
@@ -380,6 +372,14 @@
 51
 ],
 [
+"geologist",
+51
+],
+[
+"gardener",
+51
+],
+[
 "association football assistant referee",
 50
 ],
@@ -388,7 +388,7 @@
 50
 ],
 [
-"security guard",
+"electrician",
 49
 ],
 [
@@ -396,8 +396,12 @@
 49
 ],
 [
-"electrician",
+"security guard",
 49
+],
+[
+"condottiero",
+48
 ],
 [
 "webmaster",
@@ -408,23 +412,7 @@
 48
 ],
 [
-"condottiero",
-48
-],
-[
-"sea captain",
-47
-],
-[
-"military personnel",
-47
-],
-[
 "tour guide",
-47
-],
-[
-"system administrator",
 47
 ],
 [
@@ -432,8 +420,36 @@
 47
 ],
 [
+"system administrator",
+47
+],
+[
+"military personnel",
+47
+],
+[
 "general practitioner",
 47
+],
+[
+"sea captain",
+47
+],
+[
+"influencer",
+46
+],
+[
+"mechanic",
+46
+],
+[
+"chef",
+46
+],
+[
+"designer",
+46
 ],
 [
 "King of the Romans",
@@ -444,30 +460,6 @@
 46
 ],
 [
-"mechanic",
-46
-],
-[
-"designer",
-46
-],
-[
-"chef",
-46
-],
-[
-"influencer",
-46
-],
-[
-"Japanese idol",
-45
-],
-[
-"flying ace",
-45
-],
-[
 "orator",
 45
 ],
@@ -476,7 +468,15 @@
 45
 ],
 [
-"reporter",
+"flying ace",
+45
+],
+[
+"Japanese idol",
+45
+],
+[
+"audio engineer",
 44
 ],
 [
@@ -484,19 +484,15 @@
 44
 ],
 [
-"audio engineer",
-44
-],
-[
 "sommelier",
 44
 ],
 [
-"bureaucrat",
-43
+"reporter",
+44
 ],
 [
-"animator",
+"software developer",
 43
 ],
 [
@@ -504,15 +500,15 @@
 43
 ],
 [
-"software developer",
+"animator",
 43
 ],
 [
-"bartender",
-42
+"bureaucrat",
+43
 ],
 [
-"miner",
+"clockmaker",
 42
 ],
 [
@@ -524,7 +520,11 @@
 42
 ],
 [
-"nanny",
+"bartender",
+42
+],
+[
+"miner",
 42
 ],
 [
@@ -532,11 +532,15 @@
 42
 ],
 [
-"clockmaker",
+"nanny",
 42
 ],
 [
 "spokesperson",
+41
+],
+[
+"manager",
 41
 ],
 [
@@ -545,10 +549,6 @@
 ],
 [
 "illustrator",
-41
-],
-[
-"manager",
 41
 ],
 [
@@ -564,7 +564,15 @@
 40
 ],
 [
-"call girl",
+"agronomist",
+39
+],
+[
+"Khatun",
+39
+],
+[
+"employer",
 39
 ],
 [
@@ -580,35 +588,11 @@
 39
 ],
 [
-"Khatun",
+"call girl",
 39
-],
-[
-"agronomist",
-39
-],
-[
-"employer",
-39
-],
-[
-"maid",
-38
-],
-[
-"archivist",
-38
-],
-[
-"business magnate",
-38
 ],
 [
 "lumberjack",
-38
-],
-[
-"apprentice",
 38
 ],
 [
@@ -616,12 +600,40 @@
 38
 ],
 [
+"white hat",
+38
+],
+[
+"apprentice",
+38
+],
+[
+"archivist",
+38
+],
+[
 "novelist",
 38
 ],
 [
-"white hat",
+"maid",
 38
+],
+[
+"business magnate",
+38
+],
+[
+"correspondent",
+37
+],
+[
+"archaeologist",
+37
+],
+[
+"stockbroker",
+37
 ],
 [
 "chief financial officer",
@@ -632,23 +644,11 @@
 37
 ],
 [
-"correspondent",
-37
-],
-[
-"stockbroker",
-37
-],
-[
-"archaeologist",
-37
-],
-[
-"supermodel",
+"kaymakam",
 36
 ],
 [
-"beekeeper",
+"military attaché",
 36
 ],
 [
@@ -660,23 +660,23 @@
 36
 ],
 [
+"beekeeper",
+36
+],
+[
+"supermodel",
+36
+],
+[
 "make-up artist",
 36
 ],
 [
-"kaymakam",
-36
-],
-[
-"military attaché",
-36
-],
-[
-"ballet dancer",
+"navigator",
 35
 ],
 [
-"jockey",
+"farmworker",
 35
 ],
 [
@@ -688,16 +688,36 @@
 35
 ],
 [
+"ballet dancer",
+35
+],
+[
+"jockey",
+35
+],
+[
 "skald",
 35
 ],
 [
-"navigator",
-35
+"columnist",
+34
 ],
 [
-"farmworker",
-35
+"seneschal",
+34
+],
+[
+"linguist",
+34
+],
+[
+"joiner",
+34
+],
+[
+"street vendor",
+34
 ],
 [
 "treasurer",
@@ -720,47 +740,7 @@
 34
 ],
 [
-"seneschal",
-34
-],
-[
-"linguist",
-34
-],
-[
-"columnist",
-34
-],
-[
-"joiner",
-34
-],
-[
-"street vendor",
-34
-],
-[
-"prefect",
-33
-],
-[
-"chief operating officer",
-33
-],
-[
-"bounty hunter",
-33
-],
-[
-"news presenter",
-33
-],
-[
-"lifeguard",
-33
-],
-[
-"voice actor",
+"envoy extraordinary and minister plenipotentiary",
 33
 ],
 [
@@ -768,11 +748,7 @@
 33
 ],
 [
-"journeyman",
-33
-],
-[
-"envoy extraordinary and minister plenipotentiary",
+"costume designer",
 33
 ],
 [
@@ -780,11 +756,15 @@
 33
 ],
 [
-"cantor",
+"voice actor",
 33
 ],
 [
-"costume designer",
+"lifeguard",
+33
+],
+[
+"news presenter",
 33
 ],
 [
@@ -792,19 +772,27 @@
 33
 ],
 [
-"truck driver",
-32
+"cantor",
+33
 ],
 [
-"doula",
-32
+"prefect",
+33
 ],
 [
-"chief technology officer",
-32
+"journeyman",
+33
 ],
 [
-"doorkeeper",
+"bounty hunter",
+33
+],
+[
+"chief operating officer",
+33
+],
+[
+"ama",
 32
 ],
 [
@@ -812,11 +800,11 @@
 32
 ],
 [
-"cashier",
+"doorkeeper",
 32
 ],
 [
-"ama",
+"cashier",
 32
 ],
 [
@@ -824,24 +812,16 @@
 32
 ],
 [
-"project manager",
-31
+"truck driver",
+32
 ],
 [
-"peddler",
-31
+"chief technology officer",
+32
 ],
 [
-"air traffic controller",
-31
-],
-[
-"bookmaker",
-31
-],
-[
-"chamberlain",
-31
+"doula",
+32
 ],
 [
 "Egyptologist",
@@ -849,6 +829,10 @@
 ],
 [
 "showrunner",
+31
+],
+[
+"chamberlain",
 31
 ],
 [
@@ -860,39 +844,27 @@
 31
 ],
 [
+"peddler",
+31
+],
+[
+"bookmaker",
+31
+],
+[
 "web developer",
 31
 ],
 [
-"construction worker",
-30
+"project manager",
+31
 ],
 [
-"bullfighter",
-30
-],
-[
-"professional dominatrix",
-30
-],
-[
-"tutor",
-30
-],
-[
-"clerk",
-30
-],
-[
-"character actor",
-30
+"air traffic controller",
+31
 ],
 [
 "double agent",
-30
-],
-[
-"child actor",
 30
 ],
 [
@@ -912,11 +884,11 @@
 30
 ],
 [
-"castellan",
+"Financa negocisto",
 30
 ],
 [
-"Financa negocisto",
+"castellan",
 30
 ],
 [
@@ -924,23 +896,35 @@
 30
 ],
 [
-"aoidos",
-29
+"professional dominatrix",
+30
 ],
 [
-"salesperson",
-29
+"bullfighter",
+30
 ],
 [
-"meteorologist",
-29
+"clerk",
+30
+],
+[
+"construction worker",
+30
+],
+[
+"tutor",
+30
+],
+[
+"character actor",
+30
+],
+[
+"child actor",
+30
 ],
 [
 "postdoctoral researcher",
-29
-],
-[
-"prison officer",
 29
 ],
 [
@@ -948,11 +932,7 @@
 29
 ],
 [
-"onna-musha",
-29
-],
-[
-"concierge",
+"playback singer",
 29
 ],
 [
@@ -960,44 +940,32 @@
 29
 ],
 [
-"playback singer",
+"meteorologist",
+29
+],
+[
+"concierge",
+29
+],
+[
+"prison officer",
+29
+],
+[
+"onna-musha",
+29
+],
+[
+"salesperson",
+29
+],
+[
+"aoidos",
 29
 ],
 [
 "spy",
 29
-],
-[
-"banker",
-28
-],
-[
-"ballet master",
-28
-],
-[
-"welder",
-28
-],
-[
-"contract killer",
-28
-],
-[
-"ship-owner",
-28
-],
-[
-"editing staff",
-28
-],
-[
-"network administrator",
-28
-],
-[
-"fedayeen",
-28
 ],
 [
 "keyboardist",
@@ -1008,11 +976,35 @@
 28
 ],
 [
+"Dabbawala",
+28
+],
+[
 "novice",
 28
 ],
 [
-"Dabbawala",
+"black hat",
+28
+],
+[
+"mohel",
+28
+],
+[
+"chief information officer",
+28
+],
+[
+"biochemist",
+28
+],
+[
+"justice of the peace",
+28
+],
+[
+"contract killer",
 28
 ],
 [
@@ -1024,15 +1016,11 @@
 28
 ],
 [
-"justice of the peace",
+"ship-owner",
 28
 ],
 [
-"chief information officer",
-28
-],
-[
-"black hat",
+"mahout",
 28
 ],
 [
@@ -1040,23 +1028,31 @@
 28
 ],
 [
-"mohel",
+"network administrator",
 28
 ],
 [
-"biochemist",
+"ballet master",
 28
 ],
 [
-"butler",
-27
+"banker",
+28
 ],
 [
-"mahout",
-27
+"welder",
+28
 ],
 [
-"expert witness",
+"editing staff",
+28
+],
+[
+"fedayeen",
+28
+],
+[
+"database administrator",
 27
 ],
 [
@@ -1064,27 +1060,7 @@
 27
 ],
 [
-"database administrator",
-27
-],
-[
-"painter and varnisher",
-27
-],
-[
 "instrumentalist",
-27
-],
-[
-"announcer",
-27
-],
-[
-"statistician",
-27
-],
-[
-"puppeteer",
 27
 ],
 [
@@ -1092,11 +1068,11 @@
 27
 ],
 [
-"coppersmith",
+"announcer",
 27
 ],
 [
-"antiquarian",
+"coppersmith",
 27
 ],
 [
@@ -1104,32 +1080,32 @@
 27
 ],
 [
+"puppeteer",
+27
+],
+[
+"statistician",
+27
+],
+[
+"painter and varnisher",
+27
+],
+[
 "qāriʾ",
 27
 ],
 [
-"adjunct professor",
-26
+"antiquarian",
+27
 ],
 [
-"sociologist",
-26
+"expert witness",
+27
 ],
 [
-"milk deliverer",
-26
-],
-[
-"helmsman",
-26
-],
-[
-"luthier",
-26
-],
-[
-"general contractor",
-26
+"butler",
+27
 ],
 [
 "pastry chef",
@@ -1144,11 +1120,15 @@
 26
 ],
 [
-"radio personality",
+"urban planner",
 26
 ],
 [
-"funeral director",
+"stevedore",
+26
+],
+[
+"governess",
 26
 ],
 [
@@ -1160,19 +1140,7 @@
 26
 ],
 [
-"urban planner",
-26
-],
-[
 "receptionist",
-26
-],
-[
-"governess",
-26
-],
-[
-"stevedore",
 26
 ],
 [
@@ -1180,32 +1148,36 @@
 26
 ],
 [
-"meddah",
-25
+"sociologist",
+26
 ],
 [
-"sofer",
-25
+"helmsman",
+26
 ],
 [
-"mountain guide",
-25
+"radio personality",
+26
 ],
 [
-"master of ceremonies",
-25
+"milk deliverer",
+26
 ],
 [
-"gravedigger",
-25
+"general contractor",
+26
 ],
 [
-"croupier",
-25
+"funeral director",
+26
 ],
 [
-"business broker",
-25
+"adjunct professor",
+26
+],
+[
+"luthier",
+26
 ],
 [
 "glossator",
@@ -1220,15 +1192,7 @@
 25
 ],
 [
-"knife grinder",
-25
-],
-[
 "hospodar",
-25
-],
-[
-"porter",
 25
 ],
 [
@@ -1236,7 +1200,7 @@
 25
 ],
 [
-"stonemason",
+"porter",
 25
 ],
 [
@@ -1248,67 +1212,51 @@
 25
 ],
 [
-"environmentalist",
-25
-],
-[
 "theoretical physicist",
 25
 ],
 [
-"apparatchik",
-24
+"croupier",
+25
 ],
 [
-"bus driver",
-24
+"stonemason",
+25
 ],
 [
-"dramaturge",
-24
+"environmentalist",
+25
 ],
 [
-"creative director",
-24
+"meddah",
+25
 ],
 [
-"day labourer",
-24
+"master of ceremonies",
+25
 ],
 [
-"auto mechanic",
-24
+"knife grinder",
+25
 ],
 [
-"literary agent",
-24
+"sofer",
+25
 ],
 [
-"botanist",
-24
+"gravedigger",
+25
 ],
 [
-"perfumer",
-24
+"mountain guide",
+25
 ],
 [
-"personal trainer",
-24
-],
-[
-"civil engineer",
-24
-],
-[
-"Nazis hunter",
-24
+"business broker",
+25
 ],
 [
 "computer",
-24
-],
-[
-"surveyor",
 24
 ],
 [
@@ -1316,11 +1264,7 @@
 24
 ],
 [
-"draftsperson",
-24
-],
-[
-"scenographer",
+"civil engineer",
 24
 ],
 [
@@ -1328,27 +1272,7 @@
 24
 ],
 [
-"akhoond",
-24
-],
-[
-"art critic",
-24
-],
-[
-"cleaner",
-24
-],
-[
-"opinion journalist",
-24
-],
-[
-"assistant director",
-24
-],
-[
-"optician",
+"draftsperson",
 24
 ],
 [
@@ -1360,11 +1284,15 @@
 24
 ],
 [
-"game designer",
+"assistant director",
 24
 ],
 [
-"locksmith",
+"cleaner",
+24
+],
+[
+"optician",
 24
 ],
 [
@@ -1372,23 +1300,87 @@
 24
 ],
 [
+"botanist",
+24
+],
+[
+"Nazis hunter",
+24
+],
+[
+"akhoond",
+24
+],
+[
+"scenographer",
+24
+],
+[
+"literary agent",
+24
+],
+[
 "landscape architect",
 24
 ],
 [
-"silversmith",
-23
+"surveyor",
+24
 ],
 [
-"money changer",
+"locksmith",
+24
+],
+[
+"game designer",
+24
+],
+[
+"apparatchik",
+24
+],
+[
+"art critic",
+24
+],
+[
+"dramaturge",
+24
+],
+[
+"perfumer",
+24
+],
+[
+"opinion journalist",
+24
+],
+[
+"creative director",
+24
+],
+[
+"auto mechanic",
+24
+],
+[
+"personal trainer",
+24
+],
+[
+"bus driver",
+24
+],
+[
+"day labourer",
+24
+],
+[
+"statutory auditor",
 23
 ],
 [
 "cartoonist",
-23
-],
-[
-"statutory auditor",
 23
 ],
 [
@@ -1400,7 +1392,7 @@
 23
 ],
 [
-"milkmaid",
+"intermediary",
 23
 ],
 [
@@ -1408,15 +1400,15 @@
 23
 ],
 [
-"intermediary",
-23
-],
-[
 "saddler",
 23
 ],
 [
-"filibuster",
+"milkmaid",
+23
+],
+[
+"silversmith",
 23
 ],
 [
@@ -1424,23 +1416,15 @@
 23
 ],
 [
-"inspector",
-22
+"filibuster",
+23
 ],
 [
-"educator",
-22
-],
-[
-"prostitute",
-22
+"money changer",
+23
 ],
 [
 "essayist",
-22
-],
-[
-"military leader",
 22
 ],
 [
@@ -1452,11 +1436,19 @@
 22
 ],
 [
+"military leader",
+22
+],
+[
 "sports agent",
 22
 ],
 [
 "park ranger",
+22
+],
+[
+"prostitute",
 22
 ],
 [
@@ -1468,6 +1460,10 @@
 22
 ],
 [
+"inspector",
+22
+],
+[
 "social worker",
 22
 ],
@@ -1476,27 +1472,67 @@
 22
 ],
 [
+"educator",
+22
+],
+[
+"chief physician",
+21
+],
+[
+"janitor",
+21
+],
+[
+"pilot in command",
+21
+],
+[
+"impressionist",
+21
+],
+[
+"kunoichi",
+21
+],
+[
+"broker-dealer",
+21
+],
+[
+"script",
+21
+],
+[
+"carabinier",
+21
+],
+[
+"harbormaster",
+21
+],
+[
+"motivational speaker",
+21
+],
+[
+"paleontologist",
+21
+],
+[
 "naturalist",
 21
 ],
 [
-"arabist",
+"psychotherapist",
 21
 ],
 [
-"Posek",
+"organ builder",
 21
 ],
 [
 "deaconess",
-21
-],
-[
-"tax advisor",
-21
-],
-[
-"executor",
 21
 ],
 [
@@ -1508,83 +1544,11 @@
 21
 ],
 [
-"somatophylakes",
-21
-],
-[
-"chief physician",
-21
-],
-[
-"janitor",
-21
-],
-[
-"broker-dealer",
-21
-],
-[
-"impressionist",
-21
-],
-[
-"pilot in command",
-21
-],
-[
-"carabinier",
-21
-],
-[
-"kunoichi",
-21
-],
-[
-"script",
-21
-],
-[
 "publisher",
 21
 ],
 [
-"motivational speaker",
-21
-],
-[
-"harbormaster",
-21
-],
-[
-"organ builder",
-21
-],
-[
-"paleontologist",
-21
-],
-[
-"psychotherapist",
-21
-],
-[
-"fashion designer",
-21
-],
-[
-"film editor",
-21
-],
-[
-"chemical engineer",
-21
-],
-[
 "station master",
-21
-],
-[
-"microbiologist",
 21
 ],
 [
@@ -1596,19 +1560,43 @@
 21
 ],
 [
-"arborist",
-20
+"fashion designer",
+21
 ],
 [
-"apologist",
-20
+"microbiologist",
+21
 ],
 [
-"winegrower",
-20
+"somatophylakes",
+21
 ],
 [
-"Korean idol",
+"arabist",
+21
+],
+[
+"executor",
+21
+],
+[
+"tax advisor",
+21
+],
+[
+"film editor",
+21
+],
+[
+"chemical engineer",
+21
+],
+[
+"Posek",
+21
+],
+[
+"choir director",
 20
 ],
 [
@@ -1616,11 +1604,11 @@
 20
 ],
 [
-"matador",
+"talent agent",
 20
 ],
 [
-"choir director",
+"lackey",
 20
 ],
 [
@@ -1628,11 +1616,19 @@
 20
 ],
 [
-"co-driver",
+"maître d'hôtel",
 20
 ],
 [
-"lackey",
+"bellhop",
+20
+],
+[
+"matador",
+20
+],
+[
+"co-driver",
 20
 ],
 [
@@ -1644,15 +1640,7 @@
 20
 ],
 [
-"bellhop",
-20
-],
-[
-"maître d'hôtel",
-20
-],
-[
-"talent agent",
+"yogini",
 20
 ],
 [
@@ -1660,7 +1648,19 @@
 20
 ],
 [
-"yogini",
+"Korean idol",
+20
+],
+[
+"apologist",
+20
+],
+[
+"arborist",
+20
+],
+[
+"winegrower",
 20
 ]
 ]

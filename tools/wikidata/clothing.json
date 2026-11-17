@@ -84,11 +84,11 @@
 33
 ],
 [
-"Liturgical vestments and insignia",
+"sash",
 30
 ],
 [
-"sash",
+"Liturgical vestments and insignia",
 30
 ],
 [
@@ -108,24 +108,20 @@
 25
 ],
 [
-"doublet",
-24
-],
-[
 "upper body garment",
 24
 ],
 [
-"sportswear",
-23
+"doublet",
+24
 ],
 [
 "Japanese clothing",
 23
 ],
 [
-"songket",
-22
+"sportswear",
+23
 ],
 [
 "sailor suit",
@@ -136,15 +132,19 @@
 22
 ],
 [
+"songket",
+22
+],
+[
 "jumpsuit",
 21
 ],
 [
-"explosive belt",
+"e-textile",
 20
 ],
 [
-"e-textile",
+"explosive belt",
 20
 ],
 [
@@ -156,20 +156,24 @@
 18
 ],
 [
+"sakkos",
+18
+],
+[
 "Japanese street fashion",
 18
 ],
 [
-"sakkos",
-18
+"nightwear",
+17
 ],
 [
 "fig leaf",
 17
 ],
 [
-"nightwear",
-17
+"boubou",
+16
 ],
 [
 "outerwear",
@@ -180,8 +184,8 @@
 16
 ],
 [
-"boubou",
-16
+"formal wear",
+15
 ],
 [
 "basque",
@@ -189,10 +193,6 @@
 ],
 [
 "sanbenito",
-15
-],
-[
-"formal wear",
 15
 ],
 [
@@ -212,12 +212,16 @@
 12
 ],
 [
+"Lamba",
+12
+],
+[
 "Sukmana",
 12
 ],
 [
-"Lamba",
-12
+"latex clothing",
+11
 ],
 [
 "beoseon",
@@ -228,15 +232,11 @@
 11
 ],
 [
-"latex clothing",
-11
-],
-[
 "sinh",
 11
 ],
 [
-"ready-made garment",
+"winter clothing",
 10
 ],
 [
@@ -244,7 +244,7 @@
 10
 ],
 [
-"winter clothing",
+"ready-made garment",
 10
 ],
 [

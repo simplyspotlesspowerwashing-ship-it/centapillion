@@ -8,11 +8,11 @@
 107
 ],
 [
-"Whale Shark",
+"Whale shark",
 95
 ],
 [
-"Whale shark",
+"Whale Shark",
 95
 ],
 [
@@ -24,11 +24,11 @@
 70
 ],
 [
-"Tiger Shark",
+"Tiger shark",
 67
 ],
 [
-"Tiger shark",
+"Tiger Shark",
 67
 ],
 [
@@ -44,11 +44,11 @@
 63
 ],
 [
-"Bull Shark",
+"Bull shark",
 59
 ],
 [
-"Bull shark",
+"Bull Shark",
 59
 ],
 [
@@ -92,11 +92,11 @@
 50
 ],
 [
-"White-tipped Shark",
+"Whitetip Oceanic Shark",
 50
 ],
 [
-"Whitetip Oceanic Shark",
+"White-tipped Shark",
 50
 ],
 [
@@ -104,7 +104,11 @@
 50
 ],
 [
-"mackerel sharks",
+"porbeagle",
+47
+],
+[
+"Porbeagle",
 47
 ],
 [
@@ -113,18 +117,6 @@
 ],
 [
 "Zebra Shark",
-47
-],
-[
-"Common Thresher Shark",
-47
-],
-[
-"Thresher shark",
-47
-],
-[
-"tresher shark, tresher",
 47
 ],
 [
@@ -152,11 +144,19 @@
 47
 ],
 [
-"porbeagle",
+"mackerel sharks",
 47
 ],
 [
-"Porbeagle",
+"Common Thresher Shark",
+47
+],
+[
+"Thresher shark",
+47
+],
+[
+"tresher shark, tresher",
 47
 ],
 [
@@ -184,14 +184,6 @@
 45
 ],
 [
-"Smooth hammerhead",
-44
-],
-[
-"Smooth Hammerhead",
-44
-],
-[
 "Mackerel sharks",
 44
 ],
@@ -208,20 +200,12 @@
 44
 ],
 [
-"Great hammerhead",
-42
+"Smooth hammerhead",
+44
 ],
 [
-"Great Hammerhead",
-42
-],
-[
-"Hammerhead Shark",
-42
-],
-[
-"Squat-headed Hammerhead Shark",
-42
+"Smooth Hammerhead",
+44
 ],
 [
 "Grey Nurse Shark",
@@ -244,6 +228,30 @@
 42
 ],
 [
+"Great hammerhead",
+42
+],
+[
+"Great Hammerhead",
+42
+],
+[
+"Hammerhead Shark",
+42
+],
+[
+"Squat-headed Hammerhead Shark",
+42
+],
+[
+"Blacktip shark",
+41
+],
+[
+"Blacktip Shark",
+41
+],
+[
 "Gray Reef Shark",
 41
 ],
@@ -256,15 +264,7 @@
 41
 ],
 [
-"Blacktip shark",
-41
-],
-[
-"Blacktip Shark",
-41
-],
-[
-"Nurse Shark",
+"lemon shark",
 41
 ],
 [
@@ -276,19 +276,7 @@
 41
 ],
 [
-"tope",
-41
-],
-[
-"Tope",
-41
-],
-[
-"Tiburon",
-41
-],
-[
-"Toper",
+"Nurse Shark",
 41
 ],
 [
@@ -328,6 +316,22 @@
 41
 ],
 [
+"Tiburon",
+41
+],
+[
+"tope",
+41
+],
+[
+"Tope",
+41
+],
+[
+"Toper",
+41
+],
+[
 "Tope shark",
 41
 ],
@@ -344,20 +348,8 @@
 41
 ],
 [
-"lemon shark",
-41
-],
-[
 "Nurse shark",
 41
-],
-[
-"Silky shark",
-40
-],
-[
-"Silky Shark",
-40
 ],
 [
 "One-finned Shark",
@@ -392,15 +384,15 @@
 40
 ],
 [
+"Silky shark",
+40
+],
+[
+"Silky Shark",
+40
+],
+[
 "Angel shark",
-39
-],
-[
-"Whitetip reef shark",
-39
-],
-[
-"Whitetip Reef Shark",
 39
 ],
 [
@@ -412,7 +404,7 @@
 39
 ],
 [
-"monkfish",
+"Angelshark",
 39
 ],
 [
@@ -420,8 +412,28 @@
 39
 ],
 [
-"Angelshark",
+"monkfish",
 39
+],
+[
+"Whitetip reef shark",
+39
+],
+[
+"Whitetip Reef Shark",
+39
+],
+[
+"Longfin mako",
+38
+],
+[
+"Longfin Mako",
+38
+],
+[
+"dogfish",
+38
 ],
 [
 "Lesser Spotted Dogfish",
@@ -436,39 +448,11 @@
 38
 ],
 [
-"dogfish",
-38
-],
-[
-"Longfin mako",
-38
-],
-[
-"Longfin Mako",
-38
+"Port Jackson Shark",
+37
 ],
 [
 "Bullhead Shark",
-37
-],
-[
-"California horn shark",
-37
-],
-[
-"California Horn Shark",
-37
-],
-[
-"Horn Shark",
-37
-],
-[
-"Horned Shark",
-37
-],
-[
-"Port Jackson Shark",
 37
 ],
 [
@@ -480,6 +464,22 @@
 37
 ],
 [
+"California horn shark",
+37
+],
+[
+"California Horn Shark",
+37
+],
+[
+"Horned Shark",
+37
+],
+[
+"Horn Shark",
+37
+],
+[
 "Bignose shark",
 36
 ],
@@ -488,19 +488,15 @@
 36
 ],
 [
-"Scalloped hammerhead",
+"Silvertip shark",
 35
 ],
 [
-"Scalloped Hammerhead",
+"Silvertip Shark",
 35
 ],
 [
-"Sandbar shark",
-35
-],
-[
-"Sandbar Shark",
+"Port Jackson shark",
 35
 ],
 [
@@ -512,15 +508,11 @@
 35
 ],
 [
-"Port Jackson shark",
+"Sandbar shark",
 35
 ],
 [
-"Silvertip shark",
-35
-],
-[
-"Silvertip Shark",
+"Sandbar Shark",
 35
 ],
 [
@@ -529,6 +521,14 @@
 ],
 [
 "Dusky Shark",
+35
+],
+[
+"Scalloped hammerhead",
+35
+],
+[
+"Scalloped Hammerhead",
 35
 ],
 [
@@ -554,6 +554,26 @@
 [
 "Pigeye Shark",
 34
+],
+[
+"Bigeye thresher shark",
+33
+],
+[
+"Bigeye Thresher Shark",
+33
+],
+[
+"False Thresher",
+33
+],
+[
+"Salmon shark",
+33
+],
+[
+"Salmon Shark",
+33
 ],
 [
 "Galapagos shark",
@@ -588,27 +608,15 @@
 33
 ],
 [
-"Bigeye thresher shark",
-33
+"darkie charlie",
+32
 ],
 [
-"Bigeye Thresher Shark",
-33
+"Kitefin shark",
+32
 ],
 [
-"False Thresher",
-33
-],
-[
-"Salmon shark",
-33
-],
-[
-"Salmon Shark",
-33
-],
-[
-"Bonnethead Shark",
+"Kitefin Shark",
 32
 ],
 [
@@ -628,23 +636,15 @@
 32
 ],
 [
+"Bonnethead Shark",
+32
+],
+[
 "Tawny nurse shark",
 32
 ],
 [
 "Tawny Nurse Shark",
-32
-],
-[
-"darkie charlie",
-32
-],
-[
-"Kitefin shark",
-32
-],
-[
-"Kitefin Shark",
 32
 ],
 [
@@ -676,6 +676,14 @@
 31
 ],
 [
+"Crocodile shark",
+31
+],
+[
+"Crocodile Shark",
+31
+],
+[
 "Velvet belly lantern shark",
 31
 ],
@@ -692,12 +700,20 @@
 31
 ],
 [
-"Crocodile shark",
-31
+"Bramble shark",
+30
 ],
 [
-"Crocodile Shark",
-31
+"Bramble Shark",
+30
+],
+[
+"Spinous Shark",
+30
+],
+[
+"Spiny Shark",
+30
 ],
 [
 "sorrah shark",
@@ -721,22 +737,6 @@
 ],
 [
 "smooth hound",
-30
-],
-[
-"Spinous Shark",
-30
-],
-[
-"Bramble shark",
-30
-],
-[
-"Bramble Shark",
-30
-],
-[
-"Spiny Shark",
 30
 ],
 [
@@ -780,38 +780,6 @@
 29
 ],
 [
-"Epaulette shark",
-28
-],
-[
-"Epaulette Shark",
-28
-],
-[
-"Spinner shark",
-28
-],
-[
-"Spinner Shark",
-28
-],
-[
-"Borneo Shark",
-28
-],
-[
-"Hardnose shark",
-28
-],
-[
-"Barbeled Houndshark",
-28
-],
-[
-"Hardnose Shark",
-28
-],
-[
 "Pelagic thresher",
 28
 ],
@@ -828,12 +796,36 @@
 28
 ],
 [
-"Broadnose sevengill shark",
-27
+"Spinner shark",
+28
 ],
 [
-"Broadnose Sevengill Shark",
-27
+"Spinner Shark",
+28
+],
+[
+"Hardnose shark",
+28
+],
+[
+"Hardnose Shark",
+28
+],
+[
+"Epaulette shark",
+28
+],
+[
+"Epaulette Shark",
+28
+],
+[
+"Barbeled Houndshark",
+28
+],
+[
+"Borneo Shark",
+28
 ],
 [
 "Blackmouth catshark",
@@ -848,8 +840,12 @@
 27
 ],
 [
-"Night Shark",
-26
+"Broadnose sevengill shark",
+27
+],
+[
+"Broadnose Sevengill Shark",
+27
 ],
 [
 "Curry Shark",
@@ -868,18 +864,6 @@
 26
 ],
 [
-"Whitecheek shark",
-26
-],
-[
-"Whitecheek Shark",
-26
-],
-[
-"Widemouth Blackspot Shark",
-26
-],
-[
 "Monkfish",
 26
 ],
@@ -892,11 +876,47 @@
 26
 ],
 [
+"Night Shark",
+26
+],
+[
+"Whitecheek shark",
+26
+],
+[
+"Whitecheek Shark",
+26
+],
+[
+"Widemouth Blackspot Shark",
+26
+],
+[
+"Graceful shark",
+25
+],
+[
+"Graceful Shark",
+25
+],
+[
+"Prickly shark",
+25
+],
+[
+"Prickly Shark",
+25
+],
+[
 "Barred Bull-head Shark",
 25
 ],
 [
 "Barred Shark",
+25
+],
+[
+"Cat Shark",
 25
 ],
 [
@@ -924,39 +944,27 @@
 25
 ],
 [
-"Cat Shark",
+"Bearded wobbegong",
 25
 ],
 [
-"Graceful shark",
+"Ogilbys Wobbegong",
 25
 ],
 [
-"Graceful Shark",
+"Tasselled wobbegong",
 25
 ],
 [
-"Eventooth Shark",
+"Pacific angel shark",
 25
 ],
 [
-"Fintooth Shark",
+"Pacific Angelshark",
 25
 ],
 [
-"Smoothtooth Shark",
-25
-],
-[
-"Australian Blacktip Shark",
-25
-],
-[
-"Blacktip Whaler",
-25
-],
-[
-"Spadenose Shark",
+"Pacific Angel Shark",
 25
 ],
 [
@@ -972,68 +980,28 @@
 25
 ],
 [
-"Bearded wobbegong",
+"Australian Blacktip Shark",
 25
 ],
 [
-"Ogilbys Wobbegong",
+"Blacktip Whaler",
 25
 ],
 [
-"Tasselled wobbegong",
+"Spadenose Shark",
 25
 ],
 [
-"Prickly shark",
+"Eventooth Shark",
 25
 ],
 [
-"Prickly Shark",
+"Fintooth Shark",
 25
 ],
 [
-"Pacific angel shark",
+"Smoothtooth Shark",
 25
-],
-[
-"Pacific Angel Shark",
-25
-],
-[
-"Pacific Angelshark",
-25
-],
-[
-"Dwarf Lanternshark",
-24
-],
-[
-"Brownbanded bamboo shark",
-24
-],
-[
-"Brownbanded Bamboo Shark",
-24
-],
-[
-"Grey Carpetshark",
-24
-],
-[
-"Coral catshark",
-24
-],
-[
-"Coral Catshark",
-24
-],
-[
-"Blind shark",
-24
-],
-[
-"Blind Shark",
-24
 ],
 [
 "Crested Bullhead Shark",
@@ -1056,11 +1024,15 @@
 24
 ],
 [
-"Smalltail Shark",
+"Smoothback Angel Shark",
 24
 ],
 [
-"Japanese Sawshark",
+"Coral catshark",
+24
+],
+[
+"Coral Catshark",
 24
 ],
 [
@@ -1072,19 +1044,47 @@
 24
 ],
 [
-"Smoothback Angel Shark",
+"Dwarf Lanternshark",
 24
 ],
 [
-"Creek Whaler",
+"Japanese Sawshark",
+24
+],
+[
+"Blind shark",
+24
+],
+[
+"Blind Shark",
+24
+],
+[
+"Brownbanded bamboo shark",
+24
+],
+[
+"Brownbanded Bamboo Shark",
+24
+],
+[
+"Grey Carpetshark",
+24
+],
+[
+"Smalltail Shark",
+24
+],
+[
+"Angular rough shark",
 23
 ],
 [
-"Bigeye Sand Tiger",
+"Angular roughshark",
 23
 ],
 [
-"Gulper shark",
+"Angular Rough Shark",
 23
 ],
 [
@@ -1100,15 +1100,7 @@
 23
 ],
 [
-"Common Sawshark",
-23
-],
-[
-"Longnose Sawshark",
-23
-],
-[
-"Pacific Sleeper Shark",
+"Bigeye Sand Tiger",
 23
 ],
 [
@@ -1120,6 +1112,18 @@
 23
 ],
 [
+"Creek Whaler",
+23
+],
+[
+"Common Sawshark",
+23
+],
+[
+"Longnose Sawshark",
+23
+],
+[
 "Blackspot Shark",
 23
 ],
@@ -1128,15 +1132,11 @@
 23
 ],
 [
-"Angular rough shark",
+"Pacific Sleeper Shark",
 23
 ],
 [
-"Angular Rough Shark",
-23
-],
-[
-"Angular roughshark",
+"Gulper shark",
 23
 ],
 [
@@ -1144,35 +1144,7 @@
 22
 ],
 [
-"Japanese Bullhead Shark",
-22
-],
-[
-"Big-eye Dwarf Shark",
-22
-],
-[
-"Spined Pygmy Shark",
-22
-],
-[
-"Daggernose Shark",
-22
-],
-[
-"Atlantic Sharpnose Shark",
-22
-],
-[
 "Broadfin Shark",
-22
-],
-[
-"False Catshark",
-22
-],
-[
-"Keel-dorsal Shark",
 22
 ],
 [
@@ -1184,55 +1156,35 @@
 22
 ],
 [
-"Happy Eddie",
-21
+"Atlantic Sharpnose Shark",
+22
 ],
 [
-"Smooth Lanternshark",
-21
+"Japanese Bullhead Shark",
+22
 ],
 [
-"Spotted wobbegong",
-21
+"Daggernose Shark",
+22
 ],
 [
-"Spotted Wobbegong",
-21
+"Big-eye Dwarf Shark",
+22
 ],
 [
-"Cloudy Catshark",
-21
+"Spined Pygmy Shark",
+22
 ],
 [
-"Pygmy Shark",
-21
+"False Catshark",
+22
+],
+[
+"Keel-dorsal Shark",
+22
 ],
 [
 "Viper Dogfish",
-21
-],
-[
-"Portuguese Dogfish",
-21
-],
-[
-"Swell Shark",
-21
-],
-[
-"Swell shark",
-21
-],
-[
-"Swellshark",
-21
-],
-[
-"Whitenose Shark",
-21
-],
-[
-"Black Dogfish",
 21
 ],
 [
@@ -1248,28 +1200,52 @@
 21
 ],
 [
-"Pyjama shark",
-20
+"Portuguese Dogfish",
+21
 ],
 [
-"Pyjama Shark",
-20
+"Black Dogfish",
+21
 ],
 [
-"Striped Catshark",
-20
+"Cloudy Catshark",
+21
 ],
 [
-"Little Sleeper Shark",
-20
+"Swell Shark",
+21
 ],
 [
-"Chain Catshark",
-20
+"Swell shark",
+21
 ],
 [
-"Chain Dogfish",
-20
+"Swellshark",
+21
+],
+[
+"Spotted wobbegong",
+21
+],
+[
+"Spotted Wobbegong",
+21
+],
+[
+"Whitenose Shark",
+21
+],
+[
+"Happy Eddie",
+21
+],
+[
+"Pygmy Shark",
+21
+],
+[
+"Smooth Lanternshark",
+21
 ],
 [
 "Birdbeak Dogfish",
@@ -1284,15 +1260,15 @@
 20
 ],
 [
-"Dusky smoothhound",
+"Pyjama shark",
 20
 ],
 [
-"Dusky Smoothhound",
+"Pyjama Shark",
 20
 ],
 [
-"Sixgill Sawshark",
+"Striped Catshark",
 20
 ],
 [
@@ -1312,20 +1288,32 @@
 20
 ],
 [
+"Little Sleeper Shark",
+20
+],
+[
+"Sixgill Sawshark",
+20
+],
+[
 "Australian Angel Shark",
 20
 ],
 [
-"Bamboo sharks",
-19
+"Chain Catshark",
+20
 ],
 [
-"Longtailed carpetsharks",
-19
+"Chain Dogfish",
+20
 ],
 [
-"Crow shark",
-19
+"Dusky smoothhound",
+20
+],
+[
+"Dusky Smoothhound",
+20
 ],
 [
 "Scoophead",
@@ -1336,7 +1324,31 @@
 19
 ],
 [
+"Crow shark",
+19
+],
+[
+"Pocket Shark",
+19
+],
+[
+"Bamboo sharks",
+19
+],
+[
+"Longtailed carpetsharks",
+19
+],
+[
 "Japanese Swellshark",
+19
+],
+[
+"Southern Sawshark",
+19
+],
+[
+"Clouded Angelshark",
 19
 ],
 [
@@ -1348,15 +1360,15 @@
 19
 ],
 [
-"Ridge Back Shark",
-19
-],
-[
 "Ridgeback Catshark",
 19
 ],
 [
 "Ridgebacked Bamboo Shark",
+19
+],
+[
+"Ridge Back Shark",
 19
 ],
 [
@@ -1372,35 +1384,15 @@
 19
 ],
 [
-"Dwarf Gulper Shark",
-19
-],
-[
-"Japanese Wobbegong",
-19
-],
-[
-"Southern Sawshark",
-19
-],
-[
-"Pocket Shark",
-19
-],
-[
-"Hoary Catshark",
-19
-],
-[
-"Brazilian Sharpnose Shark",
-19
-],
-[
 "New Guinea River Shark",
 19
 ],
 [
 "Northern River Shark",
+19
+],
+[
+"Japanese Wobbegong",
 19
 ],
 [
@@ -1424,64 +1416,16 @@
 19
 ],
 [
-"Clouded Angelshark",
+"Hoary Catshark",
 19
 ],
 [
-"Crown Shark",
-18
+"Brazilian Sharpnose Shark",
+19
 ],
 [
-"Mallethead Shark",
-18
-],
-[
-"Scalloped Bonnethead",
-18
-],
-[
-"Great lanternshark",
-18
-],
-[
-"Great Lanternshark",
-18
-],
-[
-"Grey Bamboo Shark",
-18
-],
-[
-"Arabian carpetshark",
-18
-],
-[
-"Arabian Carpetshark",
-18
-],
-[
-"Mosaic Dogfish",
-18
-],
-[
-"Mosaic Gulper Shark",
-18
-],
-[
-"Lowfin Gulper Shark",
-18
-],
-[
-"Banded Houndshark",
-18
-],
-[
-"Southern Sleeper Shark",
-18
-],
-[
-"Whitely's Sleeper Shark",
-18
+"Dwarf Gulper Shark",
+19
 ],
 [
 "Bigtooth Cookiecutter",
@@ -1504,7 +1448,55 @@
 18
 ],
 [
-"Blackbelly Lanternshark",
+"Sailfin Roughshark",
+18
+],
+[
+"Grey Sharpnose Shark",
+18
+],
+[
+"Great lanternshark",
+18
+],
+[
+"Great Lanternshark",
+18
+],
+[
+"Lollipop Catshark",
+18
+],
+[
+"Longhead Catshark",
+18
+],
+[
+"Smoothbelly Catshark",
+18
+],
+[
+"Banded Houndshark",
+18
+],
+[
+"Japanese Catshark",
+18
+],
+[
+"Gummy Shark",
+18
+],
+[
+"Flathead Catshark",
+18
+],
+[
+"Hooktooth Dogfish",
+18
+],
+[
+"Dogfish",
 18
 ],
 [
@@ -1524,43 +1516,19 @@
 18
 ],
 [
-"Dogfish",
+"Crown Shark",
 18
 ],
 [
-"Taillight Shark",
+"Mallethead Shark",
 18
 ],
 [
-"Hooktooth Dogfish",
+"Scalloped Bonnethead",
 18
 ],
 [
-"Leopard Catshark",
-18
-],
-[
-"Smallmouth Velvet Dogfish",
-18
-],
-[
-"Velvet Dogfish",
-18
-],
-[
-"Longhead Catshark",
-18
-],
-[
-"Smoothbelly Catshark",
-18
-],
-[
-"Flathead Catshark",
-18
-],
-[
-"Australian Weasel Shark",
+"Grey Bamboo Shark",
 18
 ],
 [
@@ -1572,7 +1540,55 @@
 18
 ],
 [
-"Grey Sharpnose Shark",
+"Arabian carpetshark",
+18
+],
+[
+"Arabian Carpetshark",
+18
+],
+[
+"Leopard Catshark",
+18
+],
+[
+"Blackbelly Lanternshark",
+18
+],
+[
+"Smallmouth Velvet Dogfish",
+18
+],
+[
+"Velvet Dogfish",
+18
+],
+[
+"Australian Weasel Shark",
+18
+],
+[
+"Southern Sleeper Shark",
+18
+],
+[
+"Whitely's Sleeper Shark",
+18
+],
+[
+"Mosaic Dogfish",
+18
+],
+[
+"Mosaic Gulper Shark",
+18
+],
+[
+"Slender Smoothhound",
+18
+],
+[
+"Taillight Shark",
 18
 ],
 [
@@ -1584,55 +1600,11 @@
 18
 ],
 [
-"Japanese Catshark",
+"Lowfin Gulper Shark",
 18
-],
-[
-"Gummy Shark",
-18
-],
-[
-"Lollipop Catshark",
-18
-],
-[
-"Slender Smoothhound",
-18
-],
-[
-"Sailfin Roughshark",
-18
-],
-[
-"Pygmy Ribbon Tail Catshark",
-17
-],
-[
-"Japanese Topeshark",
-17
 ],
 [
 "Splendid Lanternshark",
-17
-],
-[
-"Roughskin Spiny Dogfish",
-17
-],
-[
-"Roughskin Spurdog",
-17
-],
-[
-"Bluespotted bamboo shark",
-17
-],
-[
-"Bluespotted Bamboo Shark",
-17
-],
-[
-"Whitespotted Bamboo Shark",
 17
 ],
 [
@@ -1640,31 +1612,11 @@
 17
 ],
 [
-"Longnose Gulper Shark",
+"Japanese Topeshark",
 17
 ],
 [
-"Cobbler Carpet Shark",
-17
-],
-[
-"Cobbler Wobbegong",
-17
-],
-[
-"Ornate wobbegong",
-17
-],
-[
-"Ornate Wobbegong",
-17
-],
-[
-"Blotched Catshark",
-17
-],
-[
-"Freckled Catshark",
+"longfin sawtail catshark",
 17
 ],
 [
@@ -1676,51 +1628,7 @@
 17
 ],
 [
-"longfin sawtail catshark",
-17
-],
-[
-"West African Catshark",
-17
-],
-[
-"African Sawtail Catshark",
-17
-],
-[
-"Longnose Pygmy Shark",
-17
-],
-[
-"Draughtboard Shark",
-17
-],
-[
-"Sleepy Joe",
-17
-],
-[
-"Australian Swellshark",
-17
-],
-[
-"Nutcracker Shark",
-17
-],
-[
-"Sickelfin Weasel Shark",
-17
-],
-[
-"Sickle Fin Weasel Shark",
-17
-],
-[
-"Weasel Shark",
-17
-],
-[
-"Arrowhead Dogfish",
+"Blotched Catshark",
 17
 ],
 [
@@ -1756,27 +1664,11 @@
 17
 ],
 [
+"Freckled Catshark",
+17
+],
+[
 "Saldanha Catshark",
-17
-],
-[
-"Spotless Smooth-hound",
-17
-],
-[
-"Cuban Dogfish",
-17
-],
-[
-"Western Gulper Shark",
-17
-],
-[
-"Black Gulper Shark",
-17
-],
-[
-"Blackfin Gulper Shark",
 17
 ],
 [
@@ -1784,19 +1676,127 @@
 17
 ],
 [
-"Taiwan Saddled Carpetshark",
+"Spotless Smooth-hound",
+17
+],
+[
+"West African Catshark",
+17
+],
+[
+"Draughtboard Shark",
+17
+],
+[
+"African Sawtail Catshark",
+17
+],
+[
+"Australian Swellshark",
+17
+],
+[
+"Nutcracker Shark",
+17
+],
+[
+"Sleepy Joe",
+17
+],
+[
+"Bluespotted bamboo shark",
+17
+],
+[
+"Bluespotted Bamboo Shark",
+17
+],
+[
+"Whitespotted Bamboo Shark",
+17
+],
+[
+"Cobbler Carpet Shark",
+17
+],
+[
+"Cobbler Wobbegong",
+17
+],
+[
+"Ornate wobbegong",
+17
+],
+[
+"Ornate Wobbegong",
+17
+],
+[
+"Roughskin Spiny Dogfish",
+17
+],
+[
+"Roughskin Spurdog",
+17
+],
+[
+"Longnose Pygmy Shark",
+17
+],
+[
+"Sickelfin Weasel Shark",
+17
+],
+[
+"Sickle Fin Weasel Shark",
+17
+],
+[
+"Weasel Shark",
+17
+],
+[
+"Blackfin Gulper Shark",
+17
+],
+[
+"Black Gulper Shark",
+17
+],
+[
+"Longnose Gulper Shark",
+17
+],
+[
+"Pygmy Ribbon Tail Catshark",
+17
+],
+[
+"Western Gulper Shark",
+17
+],
+[
+"Cuban Dogfish",
+17
+],
+[
+"Arrowhead Dogfish",
+17
+],
+[
+"Owston's Dogfish",
 16
 ],
 [
-"Gulf Catshark",
+"Blacktip Sawtail Catshark",
 16
 ],
 [
-"Dark Shyshark",
+"Irrawaddy River Shark",
 16
 ],
 [
-"Pretty Happy",
+"Mandarin Shark",
 16
 ],
 [
@@ -1816,19 +1816,11 @@
 16
 ],
 [
-"Owston's Dogfish",
-16
-],
-[
-"Tollo",
-16
-],
-[
-"Spotted Gully Shark",
-16
-],
-[
 "Mexican Hornshark",
+16
+],
+[
+"Halmahera Epaulette Shark",
 16
 ],
 [
@@ -1844,31 +1836,87 @@
 16
 ],
 [
+"Japanese Roughshark",
+16
+],
+[
+"Southern Sawtail Catshark",
+16
+],
+[
+"White Ghost Catshark",
+16
+],
+[
+"Broadnose Catshark",
+16
+],
+[
+"grey roundfin catshark",
+16
+],
+[
+"White-bodied Catshark",
+16
+],
+[
+"Spotted Gully Shark",
+16
+],
+[
+"Sharpfin houndshark",
+16
+],
+[
+"Sharpfin Houndshark",
+16
+],
+[
+"Tollo",
+16
+],
+[
+"Ornate Dogfish",
+16
+],
+[
+"Granular Dogfish",
+16
+],
+[
+"Whitefin Dogfish",
+16
+],
+[
+"South China Catshark",
+16
+],
+[
+"Longnose Catshark",
+16
+],
+[
 "Tropical Sawshark",
 16
 ],
 [
-"Necklace Carpetshark",
+"Longfin Catshark",
 16
 ],
 [
-"Varied Carpetshark",
+"Indian Swellshark",
 16
 ],
 [
-"American Sawshark",
+"Whitesaddled Catshark",
 16
 ],
 [
-"Bahamas Sawshark",
+"Blackgill Catshark",
 16
 ],
 [
-"Blurred Lanternshark",
-16
-],
-[
-"Blurred Smooth Lanternshark",
+"Geko Catshark",
 16
 ],
 [
@@ -1880,39 +1928,79 @@
 16
 ],
 [
+"Smallfin Catshark",
+16
+],
+[
 "Green Lanternshark",
 16
 ],
 [
-"Slender Sawtail Shark",
+"Tiger Catshark",
+16
+],
+[
+"Filetail Catshark",
+16
+],
+[
+"Blackspotted Catshark",
+16
+],
+[
+"Hidden Angelshark",
+16
+],
+[
+"Spiny angel shark",
+16
+],
+[
+"Spiny Angel Shark",
+16
+],
+[
+"Argentine Angel Shark",
+16
+],
+[
+"Longfin Angel Shark",
+16
+],
+[
+"African Angelshark",
+16
+],
+[
+"Taiwan Angelshark",
+16
+],
+[
+"Taiwan Saddled Carpetshark",
+16
+],
+[
+"Necklace Carpetshark",
+16
+],
+[
+"Varied Carpetshark",
+16
+],
+[
+"Blurred Lanternshark",
+16
+],
+[
+"Blurred Smooth Lanternshark",
+16
+],
+[
+"Hooktooth Shark",
 16
 ],
 [
 "Atlantic Sawtail Catshark",
-16
-],
-[
-"Southern Sawtail Catshark",
-16
-],
-[
-"Mouse Catshark",
-16
-],
-[
-"Whitesaddled Catshark",
-16
-],
-[
-"Geko Catshark",
-16
-],
-[
-"Blacktip Sawtail Catshark",
-16
-],
-[
-"Mandarin Shark",
 16
 ],
 [
@@ -1932,59 +2020,27 @@
 16
 ],
 [
-"Indian Swellshark",
+"Mouse Catshark",
 16
 ],
 [
-"Blackgill Catshark",
+"Gulf Catshark",
 16
 ],
 [
-"Filetail Catshark",
+"Dark Shyshark",
 16
 ],
 [
-"Sharpfin houndshark",
+"Pretty Happy",
 16
 ],
 [
-"Sharpfin Houndshark",
+"American Sawshark",
 16
 ],
 [
-"White Ghost Catshark",
-16
-],
-[
-"Tiger Catshark",
-16
-],
-[
-"Blackspotted Catshark",
-16
-],
-[
-"Hooktooth Shark",
-16
-],
-[
-"Ornate Dogfish",
-16
-],
-[
-"Granular Dogfish",
-16
-],
-[
-"Highfin Dogfish",
-16
-],
-[
-"Rough Longnose Dogfish",
-16
-],
-[
-"Whitefin Dogfish",
+"Bahamas Sawshark",
 16
 ],
 [
@@ -2000,43 +2056,7 @@
 16
 ],
 [
-"Irrawaddy River Shark",
-16
-],
-[
-"Halmahera Epaulette Shark",
-16
-],
-[
-"Longnose Catshark",
-16
-],
-[
-"South China Catshark",
-16
-],
-[
-"Broadnose Catshark",
-16
-],
-[
-"grey roundfin catshark",
-16
-],
-[
-"White-bodied Catshark",
-16
-],
-[
-"Longfin Catshark",
-16
-],
-[
-"Smallfin Catshark",
-16
-],
-[
-"Blacktailed Spurdog",
+"Slender Sawtail Shark",
 16
 ],
 [
@@ -2044,67 +2064,19 @@
 16
 ],
 [
-"Hidden Angelshark",
+"Blacktailed Spurdog",
 16
 ],
 [
-"Spiny angel shark",
+"Highfin Dogfish",
 16
 ],
 [
-"Spiny Angel Shark",
-16
-],
-[
-"African Angelshark",
-16
-],
-[
-"Argentine Angel Shark",
-16
-],
-[
-"Longfin Angel Shark",
-16
-],
-[
-"Taiwan Angelshark",
-16
-],
-[
-"Japanese Roughshark",
+"Rough Longnose Dogfish",
 16
 ],
 [
 "Oman Bullhead Shark",
-15
-],
-[
-"Saddled Carpet Shark",
-15
-],
-[
-"Freycinet's Epaulette Shark",
-15
-],
-[
-"Indonesian Speckled Carpet Shark",
-15
-],
-[
-"Straight-tooth Weasel Shark",
-15
-],
-[
-"Brown Catshark",
-15
-],
-[
-"Spotless Catshark",
-15
-],
-[
-"Mud Catshark",
 15
 ],
 [
@@ -2116,11 +2088,299 @@
 15
 ],
 [
+"Broadmouth Catshark",
+15
+],
+[
+"Shortnose Demon Catshark",
+15
+],
+[
+"Roughskin Catshark",
+15
+],
+[
+"Humpback Catshark",
+15
+],
+[
+"Deepwater Catshark",
+15
+],
+[
+"New Zealand catshark",
+15
+],
+[
+"Pale Catshark",
+15
+],
+[
+"Banded Catshark",
+15
+],
+[
+"Comoro Catshark",
+15
+],
+[
+"Bulldog Catshark",
+15
+],
+[
+"Narrownose Smoothhound",
+15
+],
+[
+"Dwarf Catshark",
+15
+],
+[
+"Brown Catshark",
+15
+],
+[
+"Pale Catshark Pale Catshark",
+15
+],
+[
+"Whitespotted Bullhead Shark",
+15
+],
+[
+"Smalleye Catshark",
+15
+],
+[
+"Little Gulper Shark",
+15
+],
+[
+"Southern Dogfish",
+15
+],
+[
+"Sailback Houndshark",
+15
+],
+[
+"Spongehead Catshark",
+15
+],
+[
+"Green-eye Spurdog",
+15
+],
+[
+"Shortspine spurdog",
+15
+],
+[
+"Shortspine Spurdog",
+15
+],
+[
+"Icelandic Catshark",
+15
+],
+[
+"Madeira Catshark",
+15
+],
+[
+"Flapnose Houndshark",
+15
+],
+[
+"Onefin Catshark",
+15
+],
+[
+"Bareskin Dogfish",
+15
+],
+[
+"Jelly Shark",
+15
+],
+[
+"Pinocchio Catshark",
+15
+],
+[
+"Broadgill Catshark",
+15
+],
+[
+"Ghost Catshark",
+15
+],
+[
+"Whiskery Shark",
+15
+],
+[
+"Australian Marbled Catshark",
+15
+],
+[
+"Marbled Catshark",
+15
+],
+[
+"Slender Catshark",
+15
+],
+[
+"Striped Dogfish",
+15
+],
+[
+"Striped Smooth-hound",
+15
+],
+[
+"Boa Catshark",
+15
+],
+[
+"Broadfin Sawtail Catshark",
+15
+],
+[
+"Caribbean Lanternshark",
+15
+],
+[
+"Spotless Catshark",
+15
+],
+[
+"Whitespot Smoothhound",
+15
+],
+[
+"Roughtail Catshark",
+15
+],
+[
+"Lined Catshark",
+15
+],
+[
+"Cuban Catshark",
+15
+],
+[
+"Whitespotted Catshark",
+15
+],
+[
+"Speckled Catshark",
+15
+],
+[
+"Dwarf Sawtail Catshark",
+15
+],
+[
+"Chilean Angel Shark",
+15
+],
+[
+"South Pacific Angel Shark",
+15
+],
+[
+"Thornback Angel Shark",
+15
+],
+[
+"Archbishop",
+15
+],
+[
+"Ornate Angel Shark",
+15
+],
+[
 "Indonesian Bambooshark",
 15
 ],
 [
 "Burmese Bambooshark",
+15
+],
+[
+"Ocellated Angelshark",
+15
+],
+[
+"Freycinet's Epaulette Shark",
+15
+],
+[
+"Indonesian Speckled Carpet Shark",
+15
+],
+[
+"Reticulated Swellshark",
+15
+],
+[
+"Reticulate Swell Shark",
+15
+],
+[
+"Northern Wobbegong",
+15
+],
+[
+"Saddled Carpet Shark",
+15
+],
+[
+"Rusty Carpetshark",
+15
+],
+[
+"Spotted houndshark",
+15
+],
+[
+"Spotted Houndshark",
+15
+],
+[
+"Smalleye Pygmy Shark",
+15
+],
+[
+"African Lanternshark",
+15
+],
+[
+"Straight-tooth Weasel Shark",
+15
+],
+[
+"Sarawak Pygmy Swell Shark",
+15
+],
+[
+"Seychelles Gulper Shark",
+15
+],
+[
+"Quagga Catshark",
+15
+],
+[
+"Peppered Catshark",
+15
+],
+[
+"Mud Catshark",
 15
 ],
 [
@@ -2148,291 +2408,55 @@
 15
 ],
 [
-"Banded Catshark",
-15
-],
-[
-"Spotted houndshark",
-15
-],
-[
-"Spotted Houndshark",
-15
-],
-[
-"Sailback Houndshark",
-15
-],
-[
-"Whitespotted Bullhead Shark",
-15
-],
-[
-"Northern Wobbegong",
-15
-],
-[
-"Rusty Carpetshark",
-15
-],
-[
-"African Lanternshark",
-15
-],
-[
-"Dwarf Catshark",
-15
-],
-[
-"Smalleye Pygmy Shark",
-15
-],
-[
-"Caribbean Lanternshark",
-15
-],
-[
-"Peppered Catshark",
-15
-],
-[
-"Comoro Catshark",
-15
-],
-[
-"Marbled Catshark",
-15
-],
-[
-"Boa Catshark",
-15
-],
-[
-"Broadfin Sawtail Catshark",
-15
-],
-[
-"Cuban Catshark",
-15
-],
-[
-"Dwarf Sawtail Catshark",
-15
-],
-[
-"Roughtail Catshark",
-15
-],
-[
-"Whitespotted Catshark",
-15
-],
-[
-"Flapnose Houndshark",
-15
-],
-[
-"Reticulate Swell Shark",
-15
-],
-[
-"Reticulated Swellshark",
-15
-],
-[
-"Sarawak Pygmy Swell Shark",
-15
-],
-[
-"Broadmouth Catshark",
-15
-],
-[
-"Shortnose Demon Catshark",
-15
-],
-[
-"Slender Catshark",
-15
-],
-[
-"Lined Catshark",
-15
-],
-[
-"Speckled Catshark",
-15
-],
-[
-"Bareskin Dogfish",
-15
-],
-[
-"Jelly Shark",
-15
-],
-[
-"Quagga Catshark",
-15
-],
-[
-"Icelandic Catshark",
-15
-],
-[
-"Madeira Catshark",
-15
-],
-[
-"Pinocchio Catshark",
-15
-],
-[
-"Roughskin Catshark",
-15
-],
-[
-"Humpback Catshark",
-15
-],
-[
-"Deepwater Catshark",
-15
-],
-[
-"New Zealand catshark",
-15
-],
-[
-"Pale Catshark",
-15
-],
-[
-"Bulldog Catshark",
-15
-],
-[
-"Narrownose Smoothhound",
-15
-],
-[
-"Pale Catshark Pale Catshark",
-15
-],
-[
-"Smalleye Catshark",
-15
-],
-[
-"Spongehead Catshark",
-15
-],
-[
-"Broadgill Catshark",
-15
-],
-[
-"Ghost Catshark",
-15
-],
-[
-"Whiskery Shark",
-15
-],
-[
-"Striped Dogfish",
-15
-],
-[
-"Striped Smooth-hound",
-15
-],
-[
-"Whitespot Smoothhound",
-15
-],
-[
-"Onefin Catshark",
-15
-],
-[
-"Little Gulper Shark",
-15
-],
-[
-"Southern Dogfish",
-15
-],
-[
-"Seychelles Gulper Shark",
-15
-],
-[
-"Australian Marbled Catshark",
-15
-],
-[
-"Ocellated Angelshark",
-15
-],
-[
-"Archbishop",
-15
-],
-[
-"Chilean Angel Shark",
-15
-],
-[
-"Ornate Angel Shark",
-15
-],
-[
-"South Pacific Angel Shark",
-15
-],
-[
-"Thornback Angel Shark",
-15
-],
-[
-"Green-eye Spurdog",
-15
-],
-[
-"Shortspine spurdog",
-15
-],
-[
-"Shortspine Spurdog",
-15
-],
-[
-"Barbelthroat Carpetshark",
+"Moller's Lanternshark",
 14
 ],
 [
-"Speckled Carpetshark",
+"Slendertail Lanternshark",
 14
 ],
 [
-"Papuan epaulette shark",
+"Caribbean Roughshark",
 14
 ],
 [
-"Papuan Epaulette Shark",
+"Lined Lanternshark",
 14
 ],
 [
-"Atlantic Weasel Shark",
+"Pygmy Lanternshark",
 14
 ],
 [
-"Little Tiger Shark",
+"South China Cookiecutter shark",
 14
 ],
 [
-"Bristly Catshark",
+"South China Cookiecutter Shark",
+14
+],
+[
+"Bighead Catshark",
+14
+],
+[
+"Dwarf Smoothhound",
+14
+],
+[
+"Venezuelan Dwarf Smoothhound",
+14
+],
+[
+"Blacktip topeshark",
+14
+],
+[
+"Blacktip Topeshark",
+14
+],
+[
+"Pencil Shark",
 14
 ],
 [
@@ -2456,35 +2480,7 @@
 14
 ],
 [
-"Moller's Lanternshark",
-14
-],
-[
-"Slendertail Lanternshark",
-14
-],
-[
 "Rusty Catshark",
-14
-],
-[
-"Lined Lanternshark",
-14
-],
-[
-"Carter Gilbert's Lanternshark",
-14
-],
-[
-"Cylindrical Lanternshark",
-14
-],
-[
-"Pygmy Lanternshark",
-14
-],
-[
-"Densescale Lanternshark",
 14
 ],
 [
@@ -2492,51 +2488,11 @@
 14
 ],
 [
+"Stout Catshark",
+14
+],
+[
 "Whitefin Swellshark",
-14
-],
-[
-"South China Cookiecutter shark",
-14
-],
-[
-"South China Cookiecutter Shark",
-14
-],
-[
-"Banded Wobbegong",
-14
-],
-[
-"Gulf Wobbegong",
-14
-],
-[
-"Dwarf Spotted Wobbegong",
-14
-],
-[
-"Ginger Carpetshark",
-14
-],
-[
-"Collared Carpetshark",
-14
-],
-[
-"West Indian Lanternshark",
-14
-],
-[
-"Fringefin Lanternshark",
-14
-],
-[
-"Brown Lanternshark",
-14
-],
-[
-"Short-tail Lanternshark",
 14
 ],
 [
@@ -2552,62 +2508,6 @@
 14
 ],
 [
-"Longnose Sawtail Catshark",
-14
-],
-[
-"Carpet Shark",
-14
-],
-[
-"Salamander Catshark",
-14
-],
-[
-"Bighead Catshark",
-14
-],
-[
-"Dwarf Smoothhound",
-14
-],
-[
-"Venezuelan Dwarf Smoothhound",
-14
-],
-[
-"Narrowtail Catshark",
-14
-],
-[
-"Chilean Catshark",
-14
-],
-[
-"Panama Ghost Catshark",
-14
-],
-[
-"Herlequin Catshark",
-14
-],
-[
-"Lizard Catshark",
-14
-],
-[
-"Speckled Smoothhound",
-14
-],
-[
-"Blackspotted Smoothhound",
-14
-],
-[
-"Stout Catshark",
-14
-],
-[
 "Humpback smoothhoun",
 14
 ],
@@ -2616,7 +2516,51 @@
 14
 ],
 [
+"Lizard Catshark",
+14
+],
+[
 "Smalleye Smoothhound",
+14
+],
+[
+"Bristly Catshark",
+14
+],
+[
+"Speckled Smoothhound",
+14
+],
+[
+"Short-tail Lanternshark",
+14
+],
+[
+"Blackspotted Smoothhound",
+14
+],
+[
+"Carter Gilbert's Lanternshark",
+14
+],
+[
+"Cylindrical Lanternshark",
+14
+],
+[
+"Narrowtail Catshark",
+14
+],
+[
+"Carpet Shark",
+14
+],
+[
+"Chilean Catshark",
+14
+],
+[
+"Salamander Catshark",
 14
 ],
 [
@@ -2624,31 +2568,51 @@
 14
 ],
 [
-"Smalldorsal Catshark",
+"Eastern angel shark",
 14
 ],
 [
-"Blacktip topeshark",
+"Eastern Angel Shark",
 14
 ],
 [
-"Blacktip Topeshark",
+"Speckled Carpetshark",
 14
 ],
 [
-"Pencil Shark",
+"Eastern Highfin Spurdog",
 14
 ],
 [
-"Caribbean Roughshark",
+"Papuan epaulette shark",
 14
 ],
 [
-"North Pacific Spiny Dogfish",
+"Papuan Epaulette Shark",
 14
 ],
 [
-"Spotted Spiny Dogfish",
+"Banded Wobbegong",
+14
+],
+[
+"Gulf Wobbegong",
+14
+],
+[
+"Barbelthroat Carpetshark",
+14
+],
+[
+"Dwarf Spotted Wobbegong",
+14
+],
+[
+"Ginger Carpetshark",
+14
+],
+[
+"Collared Carpetshark",
 14
 ],
 [
@@ -2672,35 +2636,63 @@
 14
 ],
 [
-"Eastern angel shark",
+"Smalldorsal Catshark",
 14
 ],
 [
-"Eastern Angel Shark",
+"West Indian Lanternshark",
 14
 ],
 [
-"Eastern Highfin Spurdog",
+"Fringefin Lanternshark",
 14
 ],
 [
-"Hooded carpet shark",
+"Brown Lanternshark",
+14
+],
+[
+"Herlequin Catshark",
+14
+],
+[
+"Atlantic Weasel Shark",
+14
+],
+[
+"Little Tiger Shark",
+14
+],
+[
+"North Pacific Spiny Dogfish",
+14
+],
+[
+"Spotted Spiny Dogfish",
+14
+],
+[
+"Densescale Lanternshark",
+14
+],
+[
+"Longnose Sawtail Catshark",
+14
+],
+[
+"Panama Ghost Catshark",
+14
+],
+[
+"Saddled Swellshark",
 13
 ],
 [
-"Hooded Carpet Shark",
+"Beige Catshark",
 13
 ],
 [
-"Whitetip Weasel Shark",
-13
-],
-[
-"Slender Weasel Shark",
-13
-],
-[
-"Dusky Catshark",
+"Short-tail Catshark",
 13
 ],
 [
@@ -2716,31 +2708,7 @@
 13
 ],
 [
-"Saddled Swellshark",
-13
-],
-[
-"Flagtail Swellshark",
-13
-],
-[
-"Brown shyshark",
-13
-],
-[
-"Brown Shyshark",
-13
-],
-[
-"Bali Catshark",
-13
-],
-[
-"Beige Catshark",
-13
-],
-[
-"Short-tail Catshark",
+"Speckled Swellshark",
 13
 ],
 [
@@ -2748,15 +2716,95 @@
 13
 ],
 [
-"Speckled Swellshark",
+"Sicklefin Smoothhound",
 13
 ],
 [
-"Mcmillan's Catshark",
+"Bali Catshark",
+13
+],
+[
+"New Caledonia Catshark",
+13
+],
+[
+"Longsnout Dogfish",
+13
+],
+[
+"Sharptooth Smoothhound",
+13
+],
+[
+"Spotted Smoothhound",
+13
+],
+[
+"Gray Smooth-hound",
+13
+],
+[
+"Black Spotted Catshark",
+13
+],
+[
+"Dusky Catshark",
+13
+],
+[
+"Izak Catshark",
+13
+],
+[
+"Narrowfin Smooth Hound",
+13
+],
+[
+"Brown Smoothhound",
+13
+],
+[
+"Broadbanded Lanternshark",
+13
+],
+[
+"Gulf of Mexico smoothhound",
+13
+],
+[
+"Gulf Of Mexico Smoothhound",
+13
+],
+[
+"Campeche Catshark",
+13
+],
+[
+"Narrowmouth Catshark",
+13
+],
+[
+"Pale Spotted Catshark",
+13
+],
+[
+"Flagtail Swellshark",
+13
+],
+[
+"Hooded carpet shark",
+13
+],
+[
+"Hooded Carpet Shark",
 13
 ],
 [
 "Western Wobbegong",
+13
+],
+[
+"Eastern Longnose Spurdog",
 13
 ],
 [
@@ -2780,23 +2828,11 @@
 13
 ],
 [
-"Broadbanded Lanternshark",
+"Whitetip Weasel Shark",
 13
 ],
 [
-"Pale Spotted Catshark",
-13
-],
-[
-"Polkadot Catshark",
-13
-],
-[
-"Izak Catshark",
-13
-],
-[
-"Campeche Catshark",
+"Slender Weasel Shark",
 13
 ],
 [
@@ -2808,47 +2844,7 @@
 13
 ],
 [
-"Narrowmouth Catshark",
-13
-],
-[
-"Longsnout Dogfish",
-13
-],
-[
-"Sicklefin Smoothhound",
-13
-],
-[
-"Sharptooth Smoothhound",
-13
-],
-[
-"Spotted Smoothhound",
-13
-],
-[
-"Gray Smooth-hound",
-13
-],
-[
-"Narrowfin Smooth Hound",
-13
-],
-[
-"Brown Smoothhound",
-13
-],
-[
-"Gulf of Mexico smoothhound",
-13
-],
-[
-"Gulf Of Mexico Smoothhound",
-13
-],
-[
-"Cyrano Spurdog",
+"Mcmillan's Catshark",
 13
 ],
 [
@@ -2856,31 +2852,51 @@
 13
 ],
 [
-"New Caledonia Catshark",
+"Brown shyshark",
 13
 ],
 [
-"Black Spotted Catshark",
+"Brown Shyshark",
 13
 ],
 [
-"Eastern Longnose Spurdog",
+"Polkadot Catshark",
 13
 ],
 [
-"Henry's epaulette shark",
-12
+"Cyrano Spurdog",
+13
 ],
 [
-"Henry's Epaulette Shark",
-12
-],
-[
-"Northern Sawtail Shark",
+"Carolina hammerhead",
 12
 ],
 [
 "Sombre Catshark",
+12
+],
+[
+"Phallic Catshark",
+12
+],
+[
+"Grey Gummy Shark",
+12
+],
+[
+"White-clasper Catshark",
+12
+],
+[
+"Whitefin Topeshark",
+12
+],
+[
+"Sherwood Dogfish",
+12
+],
+[
+"Knifetooth Dogfish",
 12
 ],
 [
@@ -2892,7 +2908,43 @@
 12
 ],
 [
-"Whitefin Topeshark",
+"Henry's epaulette shark",
+12
+],
+[
+"Henry's Epaulette Shark",
+12
+],
+[
+"Western Angel Shark",
+12
+],
+[
+"Floral Banded Wobbegong",
+12
+],
+[
+"Network Wobbegong",
+12
+],
+[
+"Broad-snout Lanternshark",
+12
+],
+[
+"Narrowbar Swellshark",
+12
+],
+[
+"Whitetail Dogfish",
+12
+],
+[
+"Japanese Shortnose Spurdog",
+12
+],
+[
+"Greeneye Spurdog",
 12
 ],
 [
@@ -2912,79 +2964,11 @@
 12
 ],
 [
-"White-clasper Catshark",
+"Northern Sawtail Shark",
 12
 ],
 [
-"Carolina hammerhead",
-12
-],
-[
-"Floral Banded Wobbegong",
-12
-],
-[
-"Network Wobbegong",
-12
-],
-[
-"Broad-snout Lanternshark",
-12
-],
-[
-"Phallic Catshark",
-12
-],
-[
-"Narrowbar Swellshark",
-12
-],
-[
-"Whitetail Dogfish",
-12
-],
-[
-"Sherwood Dogfish",
-12
-],
-[
-"Grey Gummy Shark",
-12
-],
-[
-"Knifetooth Dogfish",
-12
-],
-[
-"Western Angel Shark",
-12
-],
-[
-"Japanese Shortnose Spurdog",
-12
-],
-[
-"Greeneye Spurdog",
-12
-],
-[
-"Michael's Epaulette Shark",
-11
-],
-[
-"Broadhead Catshark",
-11
-],
-[
-"African Ribbontail Catshark",
-11
-],
-[
-"Cuban Ribbontail Catshark",
-11
-],
-[
-"Pygmy Dogfish",
+"Indonesian Speckled Catshark",
 11
 ],
 [
@@ -2996,15 +2980,23 @@
 11
 ],
 [
+"Whitefin Smoothhound",
+11
+],
+[
+"Velvet Catshark",
+11
+],
+[
+"Broadhead Catshark",
+11
+],
+[
 "Honeycomb Izak",
 11
 ],
 [
 "Natal Izak",
-11
-],
-[
-"Velvet Catshark",
 11
 ],
 [
@@ -3016,7 +3008,7 @@
 11
 ],
 [
-"Southern Mandarin Shark",
+"Western Spotted Gummy Shark",
 11
 ],
 [
@@ -3032,15 +3024,31 @@
 11
 ],
 [
-"Indonesian Speckled Catshark",
+"Michael's Epaulette Shark",
 11
 ],
 [
-"Whitefin Smoothhound",
+"Angular Angelshark",
 11
 ],
 [
-"Western Spotted Gummy Shark",
+"Western Longnose Spurdog",
+11
+],
+[
+"Southern Mandarin Shark",
+11
+],
+[
+"Cuban Ribbontail Catshark",
+11
+],
+[
+"Pygmy Dogfish",
+11
+],
+[
+"Chinese Longnose Dogfish",
 11
 ],
 [
@@ -3049,10 +3057,6 @@
 ],
 [
 "Azores Dogfish",
-11
-],
-[
-"Angular Angelshark",
 11
 ],
 [
@@ -3088,11 +3092,7 @@
 11
 ],
 [
-"Western Longnose Spurdog",
-11
-],
-[
-"Chinese Longnose Dogfish",
+"African Ribbontail Catshark",
 11
 ],
 [
@@ -3108,19 +3108,11 @@
 10
 ],
 [
-"Grinning Izak",
-10
-],
-[
-"Elongate Carpetshark",
-10
-],
-[
-"Japanese Velvet Dogfish",
-10
-],
-[
 "White-margin Fin Hound Shark",
+10
+],
+[
+"Grinning Izak",
 10
 ],
 [
@@ -3128,15 +3120,23 @@
 10
 ],
 [
-"Eastern Banded Catshark",
-10
-],
-[
-"Indonesian Shortsnout Spurdog",
+"Elongate Carpetshark",
 10
 ],
 [
 "Bartail Spurdog",
+10
+],
+[
+"Eastern Banded Catshark",
+10
+],
+[
+"Japanese Velvet Dogfish",
+10
+],
+[
+"Indonesian Shortsnout Spurdog",
 10
 ],
 [

@@ -1,0 +1,12402 @@
+[
+[
+"Bugatti Veyron",
+65
+],
+[
+"Ford Model T",
+65
+],
+[
+"Volkswagen Beetle",
+64
+],
+[
+"Citroën 2CV",
+56
+],
+[
+"Tata Nano",
+54
+],
+[
+"Tesla Cybertruck",
+50
+],
+[
+"Lamborghini Aventador",
+47
+],
+[
+"VAZ-2101",
+47
+],
+[
+"Dacia Sandero/Renault Sandero",
+45
+],
+[
+"Lamborghini Murciélago",
+44
+],
+[
+"Mini",
+44
+],
+[
+"Toyota Yaris",
+44
+],
+[
+"Tesla Model 3",
+44
+],
+[
+"Toyota Land Cruiser",
+44
+],
+[
+"Lamborghini Gallardo",
+43
+],
+[
+"Tesla Roadster",
+43
+],
+[
+"Benz Patent-Motorwagen",
+43
+],
+[
+"Toyota Supra",
+43
+],
+[
+"Audi R8",
+43
+],
+[
+"Toyota RAV4",
+43
+],
+[
+"Nissan Leaf",
+43
+],
+[
+"Peugeot 206",
+42
+],
+[
+"Škoda Octavia",
+42
+],
+[
+"Mercedes-Benz SLR McLaren",
+41
+],
+[
+"Peugeot 205",
+41
+],
+[
+"Lamborghini Diablo",
+41
+],
+[
+"Audi Q7",
+40
+],
+[
+"Lamborghini Urus",
+40
+],
+[
+"Ferrari F40",
+40
+],
+[
+"Nissan GT-R",
+40
+],
+[
+"Tesla Model X",
+39
+],
+[
+"Audi A8",
+39
+],
+[
+"Ferrari F430",
+39
+],
+[
+"Ford Mondeo",
+39
+],
+[
+"Ferrari 458",
+39
+],
+[
+"Fiat 500",
+39
+],
+[
+"Audi TT",
+39
+],
+[
+"Renault 4",
+38
+],
+[
+"Hyundai Tucson",
+38
+],
+[
+"Peugeot 308",
+38
+],
+[
+"Dacia Logan",
+38
+],
+[
+"BMW i3 (2013)",
+38
+],
+[
+"Toyota Aygo",
+38
+],
+[
+"Lamborghini Countach",
+38
+],
+[
+"Peugeot 307",
+37
+],
+[
+"Lada Niva",
+37
+],
+[
+"DeLorean DMC-12",
+37
+],
+[
+"Opel Calibra",
+37
+],
+[
+"Citroën C1",
+37
+],
+[
+"BMW X5",
+37
+],
+[
+"Porsche 918 Spyder",
+37
+],
+[
+"Honda Fit",
+36
+],
+[
+"Peugeot 207",
+36
+],
+[
+"Subaru Impreza",
+36
+],
+[
+"Škoda Yeti",
+36
+],
+[
+"Citroën Xsara",
+36
+],
+[
+"Mazda RX-8",
+36
+],
+[
+"Audi Quattro",
+36
+],
+[
+"Audi A2",
+36
+],
+[
+"Ferrari California",
+36
+],
+[
+"Volkswagen Up!",
+36
+],
+[
+"Audi A5",
+36
+],
+[
+"BMW X3",
+36
+],
+[
+"BMW i8",
+36
+],
+[
+"Peugeot 208",
+35
+],
+[
+"Ferrari 360",
+35
+],
+[
+"Kia Cee'd",
+35
+],
+[
+"Škoda Superb",
+35
+],
+[
+"Tesla Model Y",
+35
+],
+[
+"Kia morning",
+35
+],
+[
+"Renault 5",
+35
+],
+[
+"Volkswagen New Beetle",
+35
+],
+[
+"Toyota Auris",
+35
+],
+[
+"Cadillac Escalade",
+35
+],
+[
+"Fiat 126",
+35
+],
+[
+"Renault Duster/Dacia Duster",
+35
+],
+[
+"Honda CR-V",
+34
+],
+[
+"Ferrari 599 GTB Fiorano",
+34
+],
+[
+"Kia Rio",
+34
+],
+[
+"Hyundai i10",
+34
+],
+[
+"Dodge Viper",
+34
+],
+[
+"Porsche Carrera GT",
+34
+],
+[
+"Ferrari F50",
+34
+],
+[
+"Lamborghini Miura",
+34
+],
+[
+"Ford Transit",
+34
+],
+[
+"Fiat 600",
+33
+],
+[
+"Ford Model A",
+33
+],
+[
+"Opel Adam",
+33
+],
+[
+"Kia Sportage",
+33
+],
+[
+"Mercedes-Benz type 124",
+33
+],
+[
+"Peugeot 406",
+33
+],
+[
+"Volkswagen Touran",
+33
+],
+[
+"Peugeot 407",
+33
+],
+[
+"Hyundai i30",
+33
+],
+[
+"Hyundai Santa Fe",
+33
+],
+[
+"Fiat 124",
+33
+],
+[
+"Lamborghini Veneno",
+33
+],
+[
+"Nissan Skyline",
+33
+],
+[
+"Ford Kuga",
+33
+],
+[
+"Suzuki Swift",
+33
+],
+[
+"BMW M5",
+33
+],
+[
+"Citroën C5",
+33
+],
+[
+"Peugeot 106",
+33
+],
+[
+"SEAT León",
+33
+],
+[
+"Mazda RX-7",
+33
+],
+[
+"Lada Vesta",
+32
+],
+[
+"Alfa Romeo 147",
+32
+],
+[
+"Ferrari 288 GTO",
+32
+],
+[
+"Renault 25",
+32
+],
+[
+"Porsche Cayman",
+32
+],
+[
+"Ferrari 250 GTO",
+32
+],
+[
+"Hyundai Avante (Elantra)",
+32
+],
+[
+"Kia Carnival",
+32
+],
+[
+"Kia Sorento",
+32
+],
+[
+"Volkswagen Eos",
+32
+],
+[
+"Porsche 356",
+32
+],
+[
+"Porsche 924",
+32
+],
+[
+"Aston Martin DB5",
+32
+],
+[
+"Citroën Berlingo",
+32
+],
+[
+"BMW M1",
+32
+],
+[
+"BMW Z4",
+32
+],
+[
+"Toyota Avensis",
+32
+],
+[
+"Ford Ka",
+32
+],
+[
+"Lamborghini Reventón",
+32
+],
+[
+"McLaren F1",
+32
+],
+[
+"Citroën Traction Avant",
+32
+],
+[
+"Peugeot 508",
+32
+],
+[
+"Mazda3",
+32
+],
+[
+"Ford C-Max",
+32
+],
+[
+"Volkswagen Amarok",
+31
+],
+[
+"Chrysler PT Cruiser",
+31
+],
+[
+"Citroën Dyane",
+31
+],
+[
+"Porsche 944",
+31
+],
+[
+"Peugeot 3008",
+31
+],
+[
+"Alfa Romeo MiTo",
+31
+],
+[
+"Ferrari F355",
+31
+],
+[
+"BMW X7",
+31
+],
+[
+"Nissan Juke",
+31
+],
+[
+"Alfa Romeo 159",
+31
+],
+[
+"Toyota Mirai",
+31
+],
+[
+"Yugo",
+31
+],
+[
+"Peugeot 107",
+31
+],
+[
+"Audi 80",
+31
+],
+[
+"Kia Heart",
+31
+],
+[
+"Hyundai Sonata",
+31
+],
+[
+"Peugeot 607",
+31
+],
+[
+"Renault 21",
+31
+],
+[
+"Porsche 928",
+31
+],
+[
+"Mitsubishi Triton",
+31
+],
+[
+"Mercedes-Benz W201",
+31
+],
+[
+"Renault 19",
+31
+],
+[
+"Ford S-Max",
+31
+],
+[
+"Mercedes-Benz 300 SL",
+31
+],
+[
+"Honda NSX",
+31
+],
+[
+"Citroën DS3",
+31
+],
+[
+"BMW 3 Series (E46)",
+31
+],
+[
+"Alfa Romeo 155",
+31
+],
+[
+"Smart Fortwo",
+31
+],
+[
+"BMW E30",
+31
+],
+[
+"Ford Crown Victoria",
+31
+],
+[
+"Alfa Romeo 156",
+31
+],
+[
+"Volvo XC90",
+31
+],
+[
+"Ferrari FF",
+31
+],
+[
+"Ford Edge",
+31
+],
+[
+"Alfa Romeo 164",
+30
+],
+[
+"Mitsubishi i-MiEV",
+30
+],
+[
+"Maserati GranTurismo",
+30
+],
+[
+"Volkswagen Crafter",
+30
+],
+[
+"Renault Zoe",
+30
+],
+[
+"Volkswagen Phaeton",
+30
+],
+[
+"Fiat Tipo",
+30
+],
+[
+"Audi V8",
+30
+],
+[
+"Mazda6",
+30
+],
+[
+"Chevrolet Malibu",
+30
+],
+[
+"GAZ-69",
+30
+],
+[
+"Ford Sierra",
+30
+],
+[
+"Citroën ZX",
+30
+],
+[
+"Škoda Felicia",
+30
+],
+[
+"Chevrolet Captiva",
+30
+],
+[
+"Porsche Taycan",
+30
+],
+[
+"Renault 12",
+30
+],
+[
+"Lexus RX",
+30
+],
+[
+"BMW X1",
+30
+],
+[
+"Opel Agila",
+30
+],
+[
+"Volkswagen Lupo",
+30
+],
+[
+"Nissan Primera",
+30
+],
+[
+"Peugeot 405",
+30
+],
+[
+"Honda Prelude",
+30
+],
+[
+"Ferrari Testarossa",
+30
+],
+[
+"Fiat 128",
+30
+],
+[
+"Ford Galaxy",
+30
+],
+[
+"Mercedes-Benz M-Class",
+30
+],
+[
+"Chevrolet Silverado",
+30
+],
+[
+"Audi MP01",
+30
+],
+[
+"Honda S2000",
+30
+],
+[
+"Fiat 127",
+30
+],
+[
+"Ferrari F12 berlinetta",
+30
+],
+[
+"Ford Pinto",
+29
+],
+[
+"Fiat Coupé",
+29
+],
+[
+"Fiat Croma",
+29
+],
+[
+"Ford Thunderbird",
+29
+],
+[
+"Opel Combo",
+29
+],
+[
+"Fiat Ducato",
+29
+],
+[
+"LADA Kalina",
+29
+],
+[
+"Suzuki Jimny",
+29
+],
+[
+"Alfa Romeo Giulia",
+29
+],
+[
+"Honda HR-V",
+29
+],
+[
+"Mazda CX-5",
+29
+],
+[
+"Fiat Multipla",
+29
+],
+[
+"Toyota C-HR",
+29
+],
+[
+"Jaguar E-Type",
+29
+],
+[
+"Porsche Macan",
+29
+],
+[
+"Ford EcoSport",
+29
+],
+[
+"Chrysler 300",
+29
+],
+[
+"Saab 9-5",
+29
+],
+[
+"Peugeot 306",
+29
+],
+[
+"Hyundai Getz",
+29
+],
+[
+"BMW X4",
+29
+],
+[
+"Hyundai Lavita",
+29
+],
+[
+"Willys MB",
+29
+],
+[
+"Citroën GS",
+29
+],
+[
+"Ford Explorer",
+29
+],
+[
+"Citroën XM",
+29
+],
+[
+"Kübelwagen",
+29
+],
+[
+"GAZ-M20 Pobeda",
+29
+],
+[
+"BMW Z3",
+29
+],
+[
+"Citroën C2",
+29
+],
+[
+"Audi RS6",
+29
+],
+[
+"Aston Martin One-77",
+29
+],
+[
+"BMW M6",
+29
+],
+[
+"Bentley Continental GT",
+29
+],
+[
+"Mitsubishi Galant",
+29
+],
+[
+"Citroën Xantia",
+29
+],
+[
+"Pagani Zonda",
+29
+],
+[
+"Lancia Delta",
+29
+],
+[
+"Opel Manta",
+29
+],
+[
+"Ford Taurus",
+29
+],
+[
+"Mitsubishi Outlander",
+28
+],
+[
+"Chevrolet Bel Air",
+28
+],
+[
+"Citroën AX",
+28
+],
+[
+"Citroën C6",
+28
+],
+[
+"Citroën CX",
+28
+],
+[
+"Volvo S60",
+28
+],
+[
+"Renault 16",
+28
+],
+[
+"McLaren MP4-12C",
+28
+],
+[
+"Maserati Quattroporte",
+28
+],
+[
+"Toyota 86",
+28
+],
+[
+"Opel Antara",
+28
+],
+[
+"Jeep Wrangler",
+28
+],
+[
+"Ferrari 250",
+28
+],
+[
+"Porsche 968",
+28
+],
+[
+"Lada Riva",
+28
+],
+[
+"Chevrolet Spark",
+28
+],
+[
+"LADA Granta",
+28
+],
+[
+"BMW X2",
+28
+],
+[
+"Chrysler Voyager",
+28
+],
+[
+"Ferrari 488",
+28
+],
+[
+"Bentley Bentayga",
+28
+],
+[
+"Peugeot 2008",
+28
+],
+[
+"LADA Priora",
+28
+],
+[
+"Nissan 350Z",
+28
+],
+[
+"Volvo XC40",
+28
+],
+[
+"Daewoo Lacetti",
+28
+],
+[
+"Ford Fusion Europe",
+28
+],
+[
+"Peugeot 1007",
+28
+],
+[
+"Opel Tigra",
+28
+],
+[
+"Renault Dauphine",
+28
+],
+[
+"BMW 3 Series",
+28
+],
+[
+"Aston Martin DB9",
+28
+],
+[
+"Aston Martin Rapide",
+28
+],
+[
+"BMW Z8",
+28
+],
+[
+"Peugeot 605",
+28
+],
+[
+"Mercedes-Benz W123",
+28
+],
+[
+"Peugeot 104",
+28
+],
+[
+"Chevrolet Suburban",
+28
+],
+[
+"Mercedes-Benz W114",
+28
+],
+[
+"Volkswagen Corrado",
+28
+],
+[
+"Lancia Thesis",
+28
+],
+[
+"Peugeot 404",
+28
+],
+[
+"Chevrolet Volt",
+28
+],
+[
+"Peugeot 504",
+28
+],
+[
+"Citroën Saxo",
+28
+],
+[
+"Citroën Visa",
+28
+],
+[
+"Opel Senator",
+28
+],
+[
+"Lexus GS",
+27
+],
+[
+"Citroën SM",
+27
+],
+[
+"Porsche 912",
+27
+],
+[
+"Fiat Stilo",
+27
+],
+[
+"Land Rover Freelander",
+27
+],
+[
+"Suzuki Vitara",
+27
+],
+[
+"Lotus Elise",
+27
+],
+[
+"Fiat Bravo",
+27
+],
+[
+"Alfa Romeo Brera",
+27
+],
+[
+"Lada Samara",
+27
+],
+[
+"BMW E38",
+27
+],
+[
+"Dodge Ram",
+27
+],
+[
+"Opel Frontera",
+27
+],
+[
+"Lamborghini Espada",
+27
+],
+[
+"Toyota 2000GT",
+27
+],
+[
+"Porsche 914",
+27
+],
+[
+"Lincoln Continental",
+27
+],
+[
+"Alfa Romeo 75",
+27
+],
+[
+"Simca 1000",
+27
+],
+[
+"Alfa Romeo Spider",
+27
+],
+[
+"Lexus CT",
+27
+],
+[
+"Volkswagen T-Roc",
+27
+],
+[
+"Saab 9000",
+27
+],
+[
+"Škoda Rapid",
+27
+],
+[
+"Peugeot 505",
+27
+],
+[
+"Ford Cortina",
+27
+],
+[
+"Renault Talisman",
+27
+],
+[
+"Jaguar I-Pace",
+27
+],
+[
+"Volvo 850",
+27
+],
+[
+"Ford Scorpio",
+27
+],
+[
+"SEAT Arosa",
+27
+],
+[
+"Maserati MC12",
+27
+],
+[
+"Saab 9-3",
+27
+],
+[
+"Ford Granada Europe",
+27
+],
+[
+"Jaguar XJ220",
+27
+],
+[
+"Subaru Legacy",
+27
+],
+[
+"Audi e-tron GT",
+27
+],
+[
+"SEAT Córdoba",
+27
+],
+[
+"Bugatti EB110",
+27
+],
+[
+"Suzuki SX4",
+27
+],
+[
+"Cadillac CTS",
+27
+],
+[
+"Nissan Note",
+27
+],
+[
+"Volvo C30",
+27
+],
+[
+"Lexus IS",
+27
+],
+[
+"Honda Insight",
+27
+],
+[
+"Volkswagen Fox",
+27
+],
+[
+"Lancia Stratos",
+27
+],
+[
+"Fiat Doblò",
+27
+],
+[
+"Citroën BX",
+27
+],
+[
+"Lexus LS",
+26
+],
+[
+"Mercedes-Benz W140",
+26
+],
+[
+"Kia EV6",
+26
+],
+[
+"Toyota bZ4X",
+26
+],
+[
+"Citroën Xsara Picasso",
+26
+],
+[
+"SEAT Toledo",
+26
+],
+[
+"Peugeot 403",
+26
+],
+[
+"Lancia Lybra",
+26
+],
+[
+"Ford Anglia",
+26
+],
+[
+"Mercedes-Benz GLA",
+26
+],
+[
+"Ford Capri",
+26
+],
+[
+"Peugeot 203",
+26
+],
+[
+"Opel Commodore",
+26
+],
+[
+"Toyota Corona",
+26
+],
+[
+"Honda City",
+26
+],
+[
+"Peugeot 5008",
+26
+],
+[
+"Mazda MX-5",
+26
+],
+[
+"Subaru Forester",
+26
+],
+[
+"Mitsubishi Carisma",
+26
+],
+[
+"Fiat 1300/1500",
+26
+],
+[
+"Smart Forfour",
+26
+],
+[
+"Volvo 200 Series",
+26
+],
+[
+"Lexus LFA",
+26
+],
+[
+"Toyota Tundra",
+26
+],
+[
+"Lamborghini LM002",
+26
+],
+[
+"Peugeot RCZ",
+26
+],
+[
+"Alfa Romeo 33",
+26
+],
+[
+"Toyota Avalon",
+26
+],
+[
+"BMW M4",
+26
+],
+[
+"VAZ-2103",
+26
+],
+[
+"Opel Mokka",
+26
+],
+[
+"Citroën C4 Cactus",
+26
+],
+[
+"Range Rover Velar",
+26
+],
+[
+"Škoda Karoq",
+26
+],
+[
+"Hyundai Kona",
+26
+],
+[
+"Schwimmwagen",
+26
+],
+[
+"UAZ-469",
+26
+],
+[
+"Škoda Roomster",
+26
+],
+[
+"Saab 900",
+26
+],
+[
+"Aston Martin Vantage",
+26
+],
+[
+"Hyundai Veracruz",
+26
+],
+[
+"Daewoo Lanos",
+26
+],
+[
+"Hyundai i40",
+26
+],
+[
+"Daewoo Nexia",
+26
+],
+[
+"Lincoln Town Car",
+26
+],
+[
+"Ford Bronco",
+26
+],
+[
+"Lamborghini 350 GT",
+26
+],
+[
+"Lancia Thema",
+26
+],
+[
+"Citroën Méhari",
+26
+],
+[
+"Fiat 500 Topolino",
+26
+],
+[
+"Volkswagen ID.3",
+26
+],
+[
+"McLaren P1",
+26
+],
+[
+"Audi 50",
+26
+],
+[
+"Mercedes-Benz GLK-Class",
+26
+],
+[
+"Dodge Charger",
+26
+],
+[
+"Isetta",
+26
+],
+[
+"Mazda2",
+26
+],
+[
+"Peel P50",
+26
+],
+[
+"SSC Aero",
+26
+],
+[
+"Lamborghini Jalpa",
+26
+],
+[
+"Mitsubishi Pajero Sport",
+26
+],
+[
+"Renault 20/30",
+26
+],
+[
+"Peugeot 4007",
+26
+],
+[
+"Renault 4CV",
+26
+],
+[
+"SEAT Altea",
+26
+],
+[
+"Volvo XC60",
+26
+],
+[
+"Cadillac BLS",
+25
+],
+[
+"Renault Fluence",
+25
+],
+[
+"Chevrolet Express",
+25
+],
+[
+"Chevrolet Trailblazer",
+25
+],
+[
+"Maybach 57 and 62",
+25
+],
+[
+"Citroën Ami 6",
+25
+],
+[
+"Mercedes-Benz GL-Class",
+25
+],
+[
+"Alfa Romeo 166",
+25
+],
+[
+"Alfa Romeo GT",
+25
+],
+[
+"Daihatsu Terios",
+25
+],
+[
+"Nissan Sunny",
+25
+],
+[
+"Mitsubishi Grandis",
+25
+],
+[
+"Nissan Almera",
+25
+],
+[
+"Mini Hatch",
+25
+],
+[
+"Škoda Kodiaq",
+25
+],
+[
+"Fiat 131",
+25
+],
+[
+"Toyota Starlet",
+25
+],
+[
+"Alfa Romeo Alfasud",
+25
+],
+[
+"Pagani Huayra",
+25
+],
+[
+"Toyota Highlander",
+25
+],
+[
+"Mercedes-Benz 600",
+25
+],
+[
+"Toyota Previa",
+25
+],
+[
+"Lada 110",
+25
+],
+[
+"Rolls-Royce Ghost",
+25
+],
+[
+"Renault Twizy",
+25
+],
+[
+"Peugeot 604",
+25
+],
+[
+"Mazda CX-3",
+25
+],
+[
+"Renault Kadjar",
+25
+],
+[
+"Jaguar F-Pace",
+25
+],
+[
+"Audi Q2",
+25
+],
+[
+"Aston Martin DB11",
+25
+],
+[
+"Alfa Romeo 4C",
+25
+],
+[
+"Presidential state car",
+25
+],
+[
+"Lancia Dedra",
+25
+],
+[
+"Volkswagen Arteon",
+25
+],
+[
+"Peugeot 108",
+25
+],
+[
+"Toyota iQ",
+25
+],
+[
+"Nissan Maxima",
+25
+],
+[
+"Mercedes-Benz Citan",
+25
+],
+[
+"Ferrari 348",
+25
+],
+[
+"Hyundai Atos",
+25
+],
+[
+"Hyundai Tiburon",
+25
+],
+[
+"Kia Cerato",
+25
+],
+[
+"Fiat 132",
+25
+],
+[
+"Daewoo Leganza",
+25
+],
+[
+"Alfa Romeo Alfa 6",
+25
+],
+[
+"Ford Puma",
+25
+],
+[
+"Renault 18",
+25
+],
+[
+"Volvo S80",
+25
+],
+[
+"Jaguar XJS",
+25
+],
+[
+"Mercedes-Benz EQC",
+25
+],
+[
+"Toyota Crown",
+25
+],
+[
+"Porsche 959",
+25
+],
+[
+"Lamborghini Islero",
+25
+],
+[
+"Renault 8",
+25
+],
+[
+"Chevrolet Monte Carlo",
+25
+],
+[
+"Fiat 125",
+25
+],
+[
+"Hummer H2",
+25
+],
+[
+"Aston Martin Vanquish",
+25
+],
+[
+"Bentley Continental Flying Spur",
+25
+],
+[
+"Ford Orion",
+25
+],
+[
+"Renault Vel Satis",
+25
+],
+[
+"Nissan 370Z",
+25
+],
+[
+"Ford Probe",
+25
+],
+[
+"Ferrari 612 Scaglietti",
+25
+],
+[
+"Lamborghini Estoque",
+25
+],
+[
+"Toyota HiAce",
+25
+],
+[
+"Bugatti Type 57",
+24
+],
+[
+"Buick Regal",
+24
+],
+[
+"Lamborghini Urraco",
+24
+],
+[
+"Fiat Tempra",
+24
+],
+[
+"Volvo V70",
+24
+],
+[
+"Toyota Sienna",
+24
+],
+[
+"Peugeot 309",
+24
+],
+[
+"Lamborghini 400 GT",
+24
+],
+[
+"Lotus Exige",
+24
+],
+[
+"Tata Indica",
+24
+],
+[
+"Toyota Century",
+24
+],
+[
+"Opel Monza",
+24
+],
+[
+"Nissan 300ZX",
+24
+],
+[
+"Ferrari 550",
+24
+],
+[
+"Renault Fuego",
+24
+],
+[
+"SEAT Alhambra",
+24
+],
+[
+"Pontiac GTO",
+24
+],
+[
+"Hummer H1",
+24
+],
+[
+"Fiat Bravo/Brava",
+24
+],
+[
+"Fiat 850",
+24
+],
+[
+"Peugeot 305",
+24
+],
+[
+"Alfa Romeo 145",
+24
+],
+[
+"Ferrari 308",
+24
+],
+[
+"Alfa Romeo Giulietta",
+24
+],
+[
+"Jaguar XK120",
+24
+],
+[
+"Holden Commodore",
+24
+],
+[
+"Toyota Fortuner",
+24
+],
+[
+"Simca 1100 Simca 1200",
+24
+],
+[
+"Alfa Romeo 90",
+24
+],
+[
+"Zastava Skala",
+24
+],
+[
+"Jeep Renegade",
+24
+],
+[
+"Jaguar XE",
+24
+],
+[
+"Mitsubishi ASX",
+24
+],
+[
+"Jeep Compass",
+24
+],
+[
+"Hyundai Veloster",
+24
+],
+[
+"Lancia Kappa",
+24
+],
+[
+"Opel Karl",
+24
+],
+[
+"Ferrari Daytona",
+24
+],
+[
+"Aston Martin DBS V12",
+24
+],
+[
+"Alfa Romeo GTV and Spider",
+24
+],
+[
+"Lamborghini Centenario",
+24
+],
+[
+"Lancia Prisma",
+24
+],
+[
+"Mercedes-Benz Vito",
+24
+],
+[
+"Daewoo Matiz",
+24
+],
+[
+"Škoda Favorit",
+24
+],
+[
+"Alfa Romeo Stelvio",
+24
+],
+[
+"Kia Carens",
+24
+],
+[
+"Daewoo Espero",
+24
+],
+[
+"Hyundai Pony",
+24
+],
+[
+"Daewoo Tosca",
+24
+],
+[
+"Škoda Kamiq",
+24
+],
+[
+"Ford Transit Connect",
+24
+],
+[
+"Audi RS4",
+24
+],
+[
+"Škoda Scala",
+24
+],
+[
+"Renault 7",
+24
+],
+[
+"Toyota Tercel",
+24
+],
+[
+"Aston Martin DBX",
+24
+],
+[
+"Mazda CX-30",
+24
+],
+[
+"Alfa Romeo 8C Competizione",
+24
+],
+[
+"Mazda CX-9",
+24
+],
+[
+"Autobianchi Y10",
+24
+],
+[
+"Citroën Jumpy",
+24
+],
+[
+"Chevrolet Caprice",
+24
+],
+[
+"Alfa Romeo Alfetta",
+24
+],
+[
+"Gumpert Apollo",
+24
+],
+[
+"Ford Mustang Mach-E",
+24
+],
+[
+"Fiat Ritmo",
+24
+],
+[
+"BMW E32",
+24
+],
+[
+"BMW E87",
+24
+],
+[
+"Maybach Exelero",
+24
+],
+[
+"Fiat Linea",
+24
+],
+[
+"BMW iX",
+24
+],
+[
+"Volkswagen ID.4",
+24
+],
+[
+"Suzuki Alto",
+24
+],
+[
+"Renault Safrane",
+24
+],
+[
+"UAZ-452",
+24
+],
+[
+"Mitsubishi Colt",
+24
+],
+[
+"Porsche 996",
+24
+],
+[
+"Dodge Durango",
+24
+],
+[
+"Lancia 037",
+24
+],
+[
+"Cadillac Eldorado",
+23
+],
+[
+"Renault 5 E-Tech Electric",
+23
+],
+[
+"Lamborghini Jarama",
+23
+],
+[
+"Nissan Teana",
+23
+],
+[
+"Chevrolet El Camino",
+23
+],
+[
+"Chevrolet Equinox",
+23
+],
+[
+"Chevrolet Trax",
+23
+],
+[
+"Chevrolet Traverse",
+23
+],
+[
+"Chrysler Crossfire",
+23
+],
+[
+"Citroën Axel",
+23
+],
+[
+"Citroën LNA",
+23
+],
+[
+"Citroën H Van",
+23
+],
+[
+"Peugeot 408",
+23
+],
+[
+"Opel GT",
+23
+],
+[
+"Rolls-Royce Phantom VII",
+23
+],
+[
+"Renault Modus",
+23
+],
+[
+"Citroën C4 Picasso",
+23
+],
+[
+"Ford Taunus",
+23
+],
+[
+"Nissan Cube",
+23
+],
+[
+"Jaguar S-Type",
+23
+],
+[
+"Porsche 997",
+23
+],
+[
+"Lykan HyperSport",
+23
+],
+[
+"Toyota FJ Cruiser",
+23
+],
+[
+"Maserati Ghibli I",
+23
+],
+[
+"Volkswagen Bora",
+23
+],
+[
+"Lotus Esprit",
+23
+],
+[
+"Moskvich 2141",
+23
+],
+[
+"Lincoln Navigator",
+23
+],
+[
+"Morris Minor",
+23
+],
+[
+"McLaren 650S",
+23
+],
+[
+"Toyota Alphard",
+23
+],
+[
+"Citroën C3 Picasso",
+23
+],
+[
+"Mercedes-Benz CLK GTR",
+23
+],
+[
+"Opel Cascada",
+23
+],
+[
+"Fiat 508",
+23
+],
+[
+"SEAT Ateca",
+23
+],
+[
+"Subaru Justy",
+23
+],
+[
+"Rolls Royce Cullinan",
+23
+],
+[
+"Chevrolet Orlando",
+23
+],
+[
+"Daewoo Tacuma",
+23
+],
+[
+"Škoda 100",
+23
+],
+[
+"Hyundai Equus",
+23
+],
+[
+"Daewoo Nubira",
+23
+],
+[
+"Kia Venga",
+23
+],
+[
+"Buick LaCrosse",
+23
+],
+[
+"Nissan Tiida",
+23
+],
+[
+"Mercedes-Benz W120",
+23
+],
+[
+"Plymouth Barracuda",
+23
+],
+[
+"Audi Q4 e-tron",
+23
+],
+[
+"BMW 3 Series (F30)",
+23
+],
+[
+"Nissan Altima",
+23
+],
+[
+"Ford Cougar",
+23
+],
+[
+"Ferrari SF90 Stradale",
+23
+],
+[
+"Mercedes-Benz W116",
+23
+],
+[
+"Fiat 500L",
+23
+],
+[
+"Fiat X1/9",
+23
+],
+[
+"Opel Signum",
+23
+],
+[
+"Suzuki Splash",
+23
+],
+[
+"Ford Escape",
+23
+],
+[
+"Ford Galaxie",
+23
+],
+[
+"Porsche 991",
+23
+],
+[
+"Mazda MX-30",
+23
+],
+[
+"Audi RS 2 Avant",
+23
+],
+[
+"Ferrari Roma",
+23
+],
+[
+"Volvo S40",
+23
+],
+[
+"Lancia Beta",
+23
+],
+[
+"Alfa Romeo SZ",
+23
+],
+[
+"BMW Z1",
+23
+],
+[
+"Mercedes-Benz W126",
+23
+],
+[
+"Benz Velo",
+23
+],
+[
+"Lancia Musa",
+23
+],
+[
+"Peugeot Partner",
+23
+],
+[
+"Ferrari 456",
+23
+],
+[
+"Volkswagen Type 4",
+23
+],
+[
+"Jaguar XK",
+23
+],
+[
+"Toyota Corolla Cross",
+23
+],
+[
+"Mercedes-Benz EQS",
+23
+],
+[
+"Hyundai Ioniq 5",
+23
+],
+[
+"Bugatti Type 41",
+22
+],
+[
+"Buick Riviera",
+22
+],
+[
+"Cadillac de Ville series",
+22
+],
+[
+"Cadillac XTS",
+22
+],
+[
+"Chevrolet Chevelle",
+22
+],
+[
+"Austin Metro",
+22
+],
+[
+"Volvo V50",
+22
+],
+[
+"Ferrari Purosangue",
+22
+],
+[
+"DS 5",
+22
+],
+[
+"SEAT Exeo",
+22
+],
+[
+"Dacia Lodgy",
+22
+],
+[
+"Nissan Murano",
+22
+],
+[
+"Maserati 3200 GT",
+22
+],
+[
+"Maserati Coupé",
+22
+],
+[
+"Ford Excursion",
+22
+],
+[
+"Renault 6",
+22
+],
+[
+"Toyota 4Runner",
+22
+],
+[
+"Rover 75 R40",
+22
+],
+[
+"Fiat Regata",
+22
+],
+[
+"Ford Torino",
+22
+],
+[
+"Peugeot 204",
+22
+],
+[
+"Talbot Horizon",
+22
+],
+[
+"Mercedes-Benz W211",
+22
+],
+[
+"Toyota AE86",
+22
+],
+[
+"Rolls-Royce Silver Ghost",
+22
+],
+[
+"Fiat 1100",
+22
+],
+[
+"Fiat Siena",
+22
+],
+[
+"Honda Integra",
+22
+],
+[
+"Nissan Silvia",
+22
+],
+[
+"Lexus LX",
+22
+],
+[
+"General Motors EV1",
+22
+],
+[
+"Lancia Gamma",
+22
+],
+[
+"Toyota Tacoma",
+22
+],
+[
+"Rolls-Royce Phantom VI",
+22
+],
+[
+"Hindustan Ambassador",
+22
+],
+[
+"Tatra 77",
+22
+],
+[
+"Audi Q8",
+22
+],
+[
+"Lancia Fulvia",
+22
+],
+[
+"Lancia Flaminia",
+22
+],
+[
+"Nissan Titan",
+22
+],
+[
+"Peugeot 301",
+22
+],
+[
+"Citroën C15",
+22
+],
+[
+"Renault 3",
+22
+],
+[
+"Hyundai Ioniq",
+22
+],
+[
+"Kia Niro",
+22
+],
+[
+"Hennessey Venom GT",
+22
+],
+[
+"Renault Symbol",
+22
+],
+[
+"Pontiac Solstice",
+22
+],
+[
+"Kia Stinger",
+22
+],
+[
+"Aston Martin Valkyrie",
+22
+],
+[
+"SEAT Arona",
+22
+],
+[
+"Ferrari 812 Superfast",
+22
+],
+[
+"AC Cobra",
+22
+],
+[
+"Škoda Enyaq iV",
+22
+],
+[
+"Kia Stonic",
+22
+],
+[
+"Jaguar E-Pace",
+22
+],
+[
+"Rolls-Royce Phantom",
+22
+],
+[
+"Volkswagen T-Cross",
+22
+],
+[
+"Škoda 120",
+22
+],
+[
+"Chevrolet HHR",
+22
+],
+[
+"Fiat 500X",
+22
+],
+[
+"Jaguar X-Type",
+22
+],
+[
+"Hyundai Genesis",
+22
+],
+[
+"Hyundai Terracan",
+22
+],
+[
+"Hyundai ix20",
+22
+],
+[
+"Lexus UX",
+22
+],
+[
+"Peugeot 304",
+22
+],
+[
+"Mercedes-Benz W110",
+22
+],
+[
+"Renault 14",
+22
+],
+[
+"Audi F103",
+22
+],
+[
+"Volvo 140 Series",
+22
+],
+[
+"Alfa Romeo Montreal",
+22
+],
+[
+"Ferrari F8 Tributo",
+22
+],
+[
+"Chevrolet Cavalier",
+22
+],
+[
+"Fiat Idea",
+22
+],
+[
+"NSU Ro 80",
+22
+],
+[
+"Nissan Sentra",
+22
+],
+[
+"Suzuki Aerio",
+22
+],
+[
+"Fiat 4 HP",
+22
+],
+[
+"Aston Martin Lagonda",
+22
+],
+[
+"Audi A6 allroad quattro",
+22
+],
+[
+"Mitsubishi GTO",
+22
+],
+[
+"BMW 328",
+22
+],
+[
+"BMW 507",
+22
+],
+[
+"BMW 7 F01 F02",
+22
+],
+[
+"Maserati Levante",
+22
+],
+[
+"Fiat Barchetta",
+22
+],
+[
+"Ford Fusion Americas",
+22
+],
+[
+"Suzuki Ignis",
+22
+],
+[
+"Nissan Serena",
+22
+],
+[
+"Opel Sintra",
+22
+],
+[
+"Volkswagen Taigo",
+22
+],
+[
+"Ford Zephyr",
+22
+],
+[
+"Mercedes-Benz W210",
+22
+],
+[
+"Chrysler 200",
+22
+],
+[
+"Cadillac Allanté",
+21
+],
+[
+"Cadillac Seville",
+21
+],
+[
+"Dodge Nitro",
+21
+],
+[
+"Toyota Carina",
+21
+],
+[
+"Lexus SC",
+21
+],
+[
+"Citroën C-Crosser",
+21
+],
+[
+"BMW XM",
+21
+],
+[
+"Hyundai Ioniq 6",
+21
+],
+[
+"Renault Avantime",
+21
+],
+[
+"Porsche 550",
+21
+],
+[
+"Volkswagen Karmann Ghia",
+21
+],
+[
+"Mazda CX-7",
+21
+],
+[
+"SsangYong Rexton",
+21
+],
+[
+"Dacia Solenza",
+21
+],
+[
+"Chrysler pacífica",
+21
+],
+[
+"De Tomaso Pantera",
+21
+],
+[
+"SEAT Inca",
+21
+],
+[
+"BMW 8 Series (E31)",
+21
+],
+[
+"Xiaomi SU7",
+21
+],
+[
+"Ford RS200",
+21
+],
+[
+"Mercury Grand Marquis",
+21
+],
+[
+"Fiat Marea",
+21
+],
+[
+"Fiat 130",
+21
+],
+[
+"Subaru Tribeca",
+21
+],
+[
+"Honda CR-Z",
+21
+],
+[
+"Ford Model B",
+21
+],
+[
+"Lexus GX",
+21
+],
+[
+"Dodge Dart",
+21
+],
+[
+"Renault 15/17",
+21
+],
+[
+"Toyota Corolla Verso",
+21
+],
+[
+"Talbot Tagora",
+21
+],
+[
+"Mercedes-Benz 190 SL",
+21
+],
+[
+"Lexus RC",
+21
+],
+[
+"VAZ-1111",
+21
+],
+[
+"Mazda Premacy",
+21
+],
+[
+"Volvo V40",
+21
+],
+[
+"Mitsubishi Space Star",
+21
+],
+[
+"Chrysler 180",
+21
+],
+[
+"Toyota Mark X",
+21
+],
+[
+"Land Rover Discovery Sport",
+21
+],
+[
+"Mercedes-Benz GLB-Class",
+21
+],
+[
+"Toyota Avanza",
+21
+],
+[
+"GAZ-21",
+21
+],
+[
+"Ford Laser",
+21
+],
+[
+"Volvo 900 Series",
+21
+],
+[
+"Volvo S90",
+21
+],
+[
+"Pontiac Aztek",
+21
+],
+[
+"Fiat 124 Spider",
+21
+],
+[
+"Cadillac DTS",
+21
+],
+[
+"Volvo PV444",
+21
+],
+[
+"Rolls-Royce Phantom IV",
+21
+],
+[
+"Mazda 121",
+21
+],
+[
+"Chevrolet SSR",
+21
+],
+[
+"Shelby Mustang",
+21
+],
+[
+"Aston Martin DB4",
+21
+],
+[
+"Lotus Carlton",
+21
+],
+[
+"Ferrari Portofino",
+21
+],
+[
+"Saab 93",
+21
+],
+[
+"Saab 92",
+21
+],
+[
+"Lotus Elan",
+21
+],
+[
+"Honda Legend",
+21
+],
+[
+"Kia Sephia",
+21
+],
+[
+"Hyundai Stellar",
+21
+],
+[
+"Kia Mohave",
+21
+],
+[
+"Hyundai Excel",
+21
+],
+[
+"Hyundai Trajet",
+21
+],
+[
+"Rimac Nevera",
+21
+],
+[
+"Aston Martin DB7",
+21
+],
+[
+"Mazda 323",
+21
+],
+[
+"Cadillac XLR",
+21
+],
+[
+"Honda Stream",
+21
+],
+[
+"Renault Arkana",
+21
+],
+[
+"Autobianchi A112",
+21
+],
+[
+"Lotus Evora",
+21
+],
+[
+"Lexus ES",
+21
+],
+[
+"Ferrari Berlinetta Boxer",
+21
+],
+[
+"Volkswagen Golf Mk7",
+21
+],
+[
+"BMW E24",
+21
+],
+[
+"Honda e",
+21
+],
+[
+"Renault Latitude",
+21
+],
+[
+"Chevrolet Avalanche",
+21
+],
+[
+"Renault Wind",
+21
+],
+[
+"Ford Flex",
+21
+],
+[
+"Bugatti Centodieci",
+21
+],
+[
+"Dodge Caliber",
+21
+],
+[
+"IKCO Samand",
+21
+],
+[
+"Toyota Paseo",
+21
+],
+[
+"Goggomobil",
+21
+],
+[
+"Alpine A110",
+21
+],
+[
+"Audi S6",
+21
+],
+[
+"BMW E65",
+21
+],
+[
+"Subaru Leone",
+21
+],
+[
+"BMW E23",
+21
+],
+[
+"Bentley Azure",
+21
+],
+[
+"Nissan Ariya",
+21
+],
+[
+"Citroën Ami",
+21
+],
+[
+"Opel Speedster",
+21
+],
+[
+"Hummer H3",
+21
+],
+[
+"Daihatsu Applause",
+21
+],
+[
+"Rover SD1",
+21
+],
+[
+"Cadillac Lyriq",
+21
+],
+[
+"Cadillac ATS",
+21
+],
+[
+"Alfa Romeo 1900",
+21
+],
+[
+"Zeekr 001",
+20
+],
+[
+"Rolls-Royce Wraith (2013)",
+20
+],
+[
+"Chevrolet Colorado",
+20
+],
+[
+"Chevrolet Corvair",
+20
+],
+[
+"BYD Dolphin",
+20
+],
+[
+"Porsche 993",
+20
+],
+[
+"Dacia Jogger",
+20
+],
+[
+"Mercedes-Benz 770",
+20
+],
+[
+"Rolls-Royce Spectre",
+20
+],
+[
+"Dacia 1300",
+20
+],
+[
+"Nissan Figaro",
+20
+],
+[
+"Dodge Intrepid",
+20
+],
+[
+"Renault 4 E-Tech Electric",
+20
+],
+[
+"Ferrari 575M Maranello",
+20
+],
+[
+"Mercedes-Benz Vaneo",
+20
+],
+[
+"Nissan Bluebird",
+20
+],
+[
+"Volvo C70",
+20
+],
+[
+"Tucker ’48",
+20
+],
+[
+"Ferrari Luce",
+20
+],
+[
+"Saleen S7",
+20
+],
+[
+"Bugatti Type 35",
+20
+],
+[
+"Ferrari 328",
+20
+],
+[
+"Fiat 1800/2100",
+20
+],
+[
+"Volkswagen Golf Mk4",
+20
+],
+[
+"Alfa Romeo Giulietta Type 750/101",
+20
+],
+[
+"Volkswagen Golf Mk5",
+20
+],
+[
+"SEAT 600",
+20
+],
+[
+"Ford B-Max",
+20
+],
+[
+"Mitsubishi Delica",
+20
+],
+[
+"Mazda BT-50",
+20
+],
+[
+"Mercedes-Benz W212",
+20
+],
+[
+"Fiat Duna",
+20
+],
+[
+"Volkswagen Type 3",
+20
+],
+[
+"Volvo V60",
+20
+],
+[
+"Toyota Verso",
+20
+],
+[
+"Toyota Cressida",
+20
+],
+[
+"Chevrolet Chevy II / Nova",
+20
+],
+[
+"Saab 90",
+20
+],
+[
+"Subaru Outback",
+20
+],
+[
+"Alfa Romeo Arna",
+20
+],
+[
+"Volkswagen Golf Mk1",
+20
+],
+[
+"Mercedes-Benz R107 and C107",
+20
+],
+[
+"Simca 1307",
+20
+],
+[
+"Volkswagen K70",
+20
+],
+[
+"Rolls-Royce Phantom II",
+20
+],
+[
+"Honda Ridgeline",
+20
+],
+[
+"Lexus NX",
+20
+],
+[
+"Bentley Mulsanne",
+20
+],
+[
+"Lada XRAY",
+20
+],
+[
+"Isuzu D-Max",
+20
+],
+[
+"Kia Pride",
+20
+],
+[
+"Mazda MX-3",
+20
+],
+[
+"Opel Olympia",
+20
+],
+[
+"Opel Kapitän",
+20
+],
+[
+"Suzuki Kizashi",
+20
+],
+[
+"Piaggio Ape",
+20
+],
+[
+"Lincoln MKX",
+20
+],
+[
+"Lexus HS",
+20
+],
+[
+"Rover 200",
+20
+],
+[
+"Hyundai Creta",
+20
+],
+[
+"Volkswagen Golf Plus",
+20
+],
+[
+"Nissan Pulsar",
+20
+],
+[
+"Renault Kwid",
+20
+],
+[
+"Cadillac CT6",
+20
+],
+[
+"Cadillac XT5",
+20
+],
+[
+"VAZ-2106",
+20
+],
+[
+"Dodge Avenger",
+20
+],
+[
+"La Jamais Contente",
+20
+],
+[
+"Toyota Land Cruiser Prado",
+20
+],
+[
+"Ford Quadricycle",
+20
+],
+[
+"Volkswagen Gol",
+20
+],
+[
+"Mercedes-Benz X-Class",
+20
+],
+[
+"Tatra 603",
+20
+],
+[
+"Opel Crossland",
+20
+],
+[
+"BMW 1 Series",
+20
+],
+[
+"Citroën C5 Aircross",
+20
+],
+[
+"AMC Gremlin",
+20
+],
+[
+"AMC Pacer",
+20
+],
+[
+"Honda Pilot",
+20
+],
+[
+"Audi S3",
+20
+],
+[
+"Nissan Z-car",
+20
+],
+[
+"BMW 5 Series Gran Turismo",
+20
+],
+[
+"Škoda 1000 MB",
+20
+],
+[
+"Škoda Citigo",
+20
+],
+[
+"Saab 96",
+20
+],
+[
+"McLaren Senna",
+20
+],
+[
+"Hyundai NEXO",
+20
+],
+[
+"Chrysler Neon",
+20
+],
+[
+"Hyundai Grandeur",
+20
+],
+[
+"Kia Forte",
+20
+],
+[
+"Daewoo Magnus",
+20
+],
+[
+"Daewoo Tico",
+20
+],
+[
+"Peugeot 202",
+20
+],
+[
+"SSC Tuatara",
+20
+],
+[
+"Hyundai Palisade",
+20
+],
+[
+"Mercedes-Benz EQA",
+20
+],
+[
+"Audi Q8 e-tron",
+20
+],
+[
+"Subaru Alcyone SVX",
+20
+],
+[
+"Polestar 2",
+20
+],
+[
+"Smart Roadster",
+20
+],
+[
+"GAZelle",
+20
+],
+[
+"Infiniti FX",
+20
+],
+[
+"Rolls-Royce Silver Shadow",
+20
+],
+[
+"Chevrolet Lumina",
+20
+],
+[
+"GAZ-24",
+20
+],
+[
+"BMW 600",
+20
+],
+[
+"Subaru 360",
+20
+],
+[
+"Tatra 97",
+20
+],
+[
+"Mazda MX-6",
+20
+],
+[
+"Alfa Romeo 1750",
+20
+],
+[
+"BMW 700",
+20
+],
+[
+"BMW Compact",
+20
+],
+[
+"BMW E9",
+20
+],
+[
+"Maserati MC20",
+20
+],
+[
+"Mercedes-Benz W111",
+20
+],
+[
+"Dodge Dakota",
+20
+],
+[
+"Mercedes-Benz W 113",
+20
+],
+[
+"Rolls-Royce Silver Cloud",
+20
+],
+[
+"Lancia Lambda",
+20
+],
+[
+"Nissan Elgrand",
+20
+],
+[
+"Rolls-Royce Phantom I",
+20
+],
+[
+"Fiat Albea",
+20
+],
+[
+"Ferrari GT4",
+19
+],
+[
+"Buick Electra",
+19
+],
+[
+"Buick LeSabre",
+19
+],
+[
+"Hyundai Bayon",
+19
+],
+[
+"Cadillac Catera",
+19
+],
+[
+"Cadillac SRX",
+19
+],
+[
+"Lotus Emira",
+19
+],
+[
+"Chevrolet S-10 Blazer",
+19
+],
+[
+"Chevrolet Van",
+19
+],
+[
+"Chevrolet Uplander",
+19
+],
+[
+"Ferrari 296",
+19
+],
+[
+"Citroën M35",
+19
+],
+[
+"Renault Austral",
+19
+],
+[
+"Mercedes-Benz EQS SUV",
+19
+],
+[
+"Dacia SupeRNova",
+19
+],
+[
+"Daihatsu Charade",
+19
+],
+[
+"Volkswagen ID.7",
+19
+],
+[
+"Toyota Allion",
+19
+],
+[
+"Ferrari 12Cilindri",
+19
+],
+[
+"Fiat 509",
+19
+],
+[
+"ZIL-41047",
+19
+],
+[
+"Ford Falcon Australia",
+19
+],
+[
+"Proton Wira",
+19
+],
+[
+"Oldsmobile Cutlass",
+19
+],
+[
+"Volkswagen Golf Mk2",
+19
+],
+[
+"Nissan NV200",
+19
+],
+[
+"Toyota Innova",
+19
+],
+[
+"Ferrari 275",
+19
+],
+[
+"Volkswagen Vento",
+19
+],
+[
+"Toyota Caldina",
+19
+],
+[
+"Fisker Karma",
+19
+],
+[
+"Rover 600 Series",
+19
+],
+[
+"Lotus Seven",
+19
+],
+[
+"Ford E-Series",
+19
+],
+[
+"Ford Escort",
+19
+],
+[
+"Peugeot Type 1",
+19
+],
+[
+"Peugeot 4008",
+19
+],
+[
+"Porsche 904",
+19
+],
+[
+"Zastava Florida",
+19
+],
+[
+"GAZ-64",
+19
+],
+[
+"GMC Terrain",
+19
+],
+[
+"Honda Freed",
+19
+],
+[
+"Opel Diplomat",
+19
+],
+[
+"Jeep CJ",
+19
+],
+[
+"Toyota Sequoia",
+19
+],
+[
+"Infiniti G",
+19
+],
+[
+"Rolls-Royce Corniche",
+19
+],
+[
+"Lincoln MKS",
+19
+],
+[
+"SEAT Malaga",
+19
+],
+[
+"Oldsmobile Toronado",
+19
+],
+[
+"Mazda 626",
+19
+],
+[
+"Citroën C4 Aircross",
+19
+],
+[
+"Plymouth Prowler",
+19
+],
+[
+"BMW 2 Series Active Tourer",
+19
+],
+[
+"Jeep Patriot",
+19
+],
+[
+"Lincoln MKZ",
+19
+],
+[
+"Volvo 66",
+19
+],
+[
+"Simca Vedette",
+19
+],
+[
+"SEAT Marbella",
+19
+],
+[
+"Lincoln Aviator",
+19
+],
+[
+"Nissan Laurel",
+19
+],
+[
+"Aston Martin DBS",
+19
+],
+[
+"MG F",
+19
+],
+[
+"Tatra 87",
+19
+],
+[
+"Maserati Bora",
+19
+],
+[
+"Chevrolet Bolt",
+19
+],
+[
+"Renault R25",
+19
+],
+[
+"Nissan Rogue",
+19
+],
+[
+"Mercedes-Benz type 204",
+19
+],
+[
+"Rolls-Royce Dawn",
+19
+],
+[
+"Dodge Caravan",
+19
+],
+[
+"Renault Sport Spider",
+19
+],
+[
+"Rolls-Royce Phantom V",
+19
+],
+[
+"GAZ-67",
+19
+],
+[
+"Bentley 3 Litre",
+19
+],
+[
+"Škoda Octavia (1959)",
+19
+],
+[
+"BMC ADO17",
+19
+],
+[
+"Volkswagen Atlas",
+19
+],
+[
+"Aston Martin DB2",
+19
+],
+[
+"Mercedes-AMG ONE",
+19
+],
+[
+"Mercedes-Benz W136",
+19
+],
+[
+"Kia K7 (Cadenza)",
+19
+],
+[
+"Hyundai Eon",
+19
+],
+[
+"Chevrolet Aveo T200",
+19
+],
+[
+"Honda Edix",
+19
+],
+[
+"Kia Opirus",
+19
+],
+[
+"Kia K9",
+19
+],
+[
+"Kia K5 (Optima)",
+19
+],
+[
+"Infiniti Q50",
+19
+],
+[
+"BMW i4",
+19
+],
+[
+"Citroën C3 Aircross",
+19
+],
+[
+"Cadillac XT4",
+19
+],
+[
+"Daihatsu Sirion",
+19
+],
+[
+"Rover 800 Series",
+19
+],
+[
+"Subaru XT",
+19
+],
+[
+"BMW 3 Series (G20)",
+19
+],
+[
+"Volvo P1800",
+19
+],
+[
+"Chery QQ",
+19
+],
+[
+"Cadillac Brougham",
+19
+],
+[
+"Mazda 929",
+19
+],
+[
+"Rolls-Royce Camargue",
+19
+],
+[
+"Cadillac XT6",
+19
+],
+[
+"Alfa Romeo 2600",
+19
+],
+[
+"Chrysler 300M",
+19
+],
+[
+"Honda Concerto",
+19
+],
+[
+"Polski Fiat 125p",
+19
+],
+[
+"Talbot Samba",
+19
+],
+[
+"Buick Century",
+19
+],
+[
+"Honda Beat",
+19
+],
+[
+"Mercedes-Benz W202",
+19
+],
+[
+"Saab 99",
+19
+],
+[
+"Aston Martin Virage",
+19
+],
+[
+"Plymouth Fury",
+19
+],
+[
+"Toyota Publica",
+19
+],
+[
+"BMC ADO16",
+19
+],
+[
+"BMW 6 Series (E63)",
+19
+],
+[
+"Bentley Arnage",
+19
+],
+[
+"Mercedes-Benz W112",
+19
+],
+[
+"Rimac Concept One",
+19
+],
+[
+"Rover 400 / 45",
+19
+],
+[
+"Lancia Flavia",
+19
+],
+[
+"Mazda Tribute",
+19
+],
+[
+"Mercedes-Benz W108",
+19
+],
+[
+"Mercedes-Benz EQE",
+19
+],
+[
+"BMW iX3",
+19
+],
+[
+"Buick Lucerne",
+18
+],
+[
+"Ford Prefect",
+18
+],
+[
+"Buick Park Avenue",
+18
+],
+[
+"Maserati Grecale",
+18
+],
+[
+"McLaren Artura",
+18
+],
+[
+"Chevrolet Astro",
+18
+],
+[
+"Chevrolet C/K",
+18
+],
+[
+"TVR Sagaris",
+18
+],
+[
+"Citroën Jumper",
+18
+],
+[
+"Citroën Type C",
+18
+],
+[
+"Smart #1",
+18
+],
+[
+"Lotus Eletre",
+18
+],
+[
+"Jeep Avenger",
+18
+],
+[
+"BYD Seal",
+18
+],
+[
+"Daihatsu Copen",
+18
+],
+[
+"DAF 66",
+18
+],
+[
+"SsangYong Actyon",
+18
+],
+[
+"Polestar 4",
+18
+],
+[
+"De Tomaso Guarà",
+18
+],
+[
+"De Tomaso Mangusta",
+18
+],
+[
+"SsangYong Korando",
+18
+],
+[
+"Lincoln MKT",
+18
+],
+[
+"Mitsubishi Mirage",
+18
+],
+[
+"Alfa Romeo Junior",
+18
+],
+[
+"Lamborghini Temerario",
+18
+],
+[
+"Bugatti Tourbillon",
+18
+],
+[
+"Chevrolet Vega",
+18
+],
+[
+"Honda Logo",
+18
+],
+[
+"Hyundai Ioniq 9",
+18
+],
+[
+"Mercedes-Benz W222",
+18
+],
+[
+"BMW F15",
+18
+],
+[
+"Volkswagen Golf Mk3",
+18
+],
+[
+"Suzuki XL-7",
+18
+],
+[
+"Datsun Go",
+18
+],
+[
+"Fiat 242",
+18
+],
+[
+"Fiat 8V",
+18
+],
+[
+"Fiat Argenta",
+18
+],
+[
+"Fiat Campagnola",
+18
+],
+[
+"Volkswagen Golf Mk6",
+18
+],
+[
+"Acura MDX",
+18
+],
+[
+"Porsche 964",
+18
+],
+[
+"Nissan Quest",
+18
+],
+[
+"BMW 4 Series",
+18
+],
+[
+"Suzuki Cultus Crescent",
+18
+],
+[
+"Volkswagen Santana",
+18
+],
+[
+"Suzuki Wagon R",
+18
+],
+[
+"Mercedes-Benz W205",
+18
+],
+[
+"Mitsubishi Starion",
+18
+],
+[
+"Simca Aronde",
+18
+],
+[
+"Mercedes-Benz W221",
+18
+],
+[
+"Mini Countryman",
+18
+],
+[
+"SEAT Mii",
+18
+],
+[
+"Mazda R360",
+18
+],
+[
+"Lotus Europa",
+18
+],
+[
+"Infiniti QX50",
+18
+],
+[
+"Hudson Hornet",
+18
+],
+[
+"Opel Ampera",
+18
+],
+[
+"Infiniti Q45",
+18
+],
+[
+"Suzuki Celerio",
+18
+],
+[
+"Jaguar Mark X",
+18
+],
+[
+"Toyota Matrix",
+18
+],
+[
+"Mercedes-Benz W220",
+18
+],
+[
+"Nissan NX",
+18
+],
+[
+"Matra Bagheera",
+18
+],
+[
+"Lancia Alfa-12HP",
+18
+],
+[
+"Toyota Ractis",
+18
+],
+[
+"Volkswagen Type 2 (T1)",
+18
+],
+[
+"Maserati Khamsin",
+18
+],
+[
+"Ford Five Hundred",
+18
+],
+[
+"Alfa Romeo 2000",
+18
+],
+[
+"Toyota Urban Cruiser",
+18
+],
+[
+"Mercedes-Benz R129",
+18
+],
+[
+"Infiniti Q30",
+18
+],
+[
+"Morris Marina",
+18
+],
+[
+"Rolls-Royce 10 hp",
+18
+],
+[
+"Nissan Caravan",
+18
+],
+[
+"BMW 7 Series (G11)",
+18
+],
+[
+"Austin Allegro",
+18
+],
+[
+"Pontiac Vibe",
+18
+],
+[
+"Renault R23",
+18
+],
+[
+"Subaru R2",
+18
+],
+[
+"Renault Estafette",
+18
+],
+[
+"Ferrari GTC4Lusso",
+18
+],
+[
+"GAZ-61",
+18
+],
+[
+"Dodge Ram Van",
+18
+],
+[
+"DS 4",
+18
+],
+[
+"RAF-977",
+18
+],
+[
+"Alfa Romeo 33 Stradale (1969)",
+18
+],
+[
+"Alpine A110 (2017)",
+18
+],
+[
+"Benz Viktoria",
+18
+],
+[
+"Lada Largus",
+18
+],
+[
+"Bugatti type 101",
+18
+],
+[
+"BMW 3200 CS",
+18
+],
+[
+"Ferrari Mondial",
+18
+],
+[
+"Lancia Montecarlo",
+18
+],
+[
+"Moskvitch 408",
+18
+],
+[
+"DS 7 Crossback",
+18
+],
+[
+"Mitsubishi Eclipse Cross",
+18
+],
+[
+"Infiniti QX60",
+18
+],
+[
+"Ford LTD Crown Victoria",
+18
+],
+[
+"Ford Courier",
+18
+],
+[
+"Mitsubishi Pajero iO",
+18
+],
+[
+"Toyota Vios",
+18
+],
+[
+"Pontiac Fiero",
+18
+],
+[
+"Subaru BRZ",
+18
+],
+[
+"Fiat Sedici",
+18
+],
+[
+"VAZ-2105",
+18
+],
+[
+"Saab 9-7X",
+18
+],
+[
+"Nissan Sylphy",
+18
+],
+[
+"Hyundai Starex",
+18
+],
+[
+"Hyundai Genesis Coupe",
+18
+],
+[
+"Kia Credos",
+18
+],
+[
+"Mazda Demio",
+18
+],
+[
+"Volvo 480",
+18
+],
+[
+"Moskvitch 412",
+18
+],
+[
+"Renault Caravelle",
+18
+],
+[
+"Fiat 12 HP",
+18
+],
+[
+"Cadillac CT5",
+18
+],
+[
+"Hyundai Venue",
+18
+],
+[
+"Mitsubishi Pajero Mini",
+18
+],
+[
+"Dacia Nova",
+18
+],
+[
+"Autobianchi Bianchina",
+18
+],
+[
+"Lotus Evija",
+18
+],
+[
+"Cadillac CT4",
+18
+],
+[
+"Opel Admiral",
+18
+],
+[
+"Mazda MPV",
+18
+],
+[
+"Pinzgauer High-Mobility All-Terrain Vehicle",
+18
+],
+[
+"Nissan Cefiro",
+18
+],
+[
+"GAZ-13",
+18
+],
+[
+"Cupra Tavascan",
+18
+],
+[
+"SsangYong Rodius",
+18
+],
+[
+"Aston Martin 2-Litre Sports",
+18
+],
+[
+"Audi S8",
+18
+],
+[
+"Matra Rancho",
+18
+],
+[
+"Alfa Romeo GTA",
+18
+],
+[
+"Austin 7",
+18
+],
+[
+"Bentley State Limousine",
+18
+],
+[
+"Citroën Type A",
+18
+],
+[
+"Lancia Aprilia",
+18
+],
+[
+"Dacia Dokker",
+18
+],
+[
+"GMC Acadia",
+18
+],
+[
+"Rolls-Royce Silver Seraph",
+18
+],
+[
+"Volvo ÖV 4",
+18
+],
+[
+"Fiat Scudo",
+18
+],
+[
+"Fiat Dino",
+18
+],
+[
+"Fiat 1500",
+18
+],
+[
+"Toyota Comfort",
+18
+],
+[
+"Jaguar XK140",
+17
+],
+[
+"Buick Rainier",
+17
+],
+[
+"Buick Terraza",
+17
+],
+[
+"Cadillac Cimarron",
+17
+],
+[
+"Škoda Kushaq",
+17
+],
+[
+"Hyundai Staria",
+17
+],
+[
+"Lamborghini Countach LPI 800-4",
+17
+],
+[
+"Renault Mégane E-Tech Electric",
+17
+],
+[
+"Chrysler Concorde",
+17
+],
+[
+"Ferrari Daytona SP3",
+17
+],
+[
+"Kia EV9",
+17
+],
+[
+"Mazda CX-60",
+17
+],
+[
+"Renault 9 and 11",
+17
+],
+[
+"SsangYong Kyron",
+17
+],
+[
+"DAF 33",
+17
+],
+[
+"DAF 600",
+17
+],
+[
+"Mercedes-Benz CLE-Class",
+17
+],
+[
+"Volvo EX30",
+17
+],
+[
+"Ford Explorer EV",
+17
+],
+[
+"BYD Seagull",
+17
+],
+[
+"Aston Martin DB12",
+17
+],
+[
+"M151 MUTT",
+17
+],
+[
+"Ford Capri EV",
+17
+],
+[
+"Tatra 600",
+17
+],
+[
+"Lamborghini Egoista",
+17
+],
+[
+"Triumph Spitfire",
+17
+],
+[
+"ZAZ Tavria",
+17
+],
+[
+"ZIL-111",
+17
+],
+[
+"Dodge Charger LX",
+17
+],
+[
+"Ford Aerostar",
+17
+],
+[
+"Ford Contour",
+17
+],
+[
+"Ford Model N",
+17
+],
+[
+"Ford Tempo",
+17
+],
+[
+"Ford Vedette",
+17
+],
+[
+"Ford Windstar",
+17
+],
+[
+"Jaguar C-Type",
+17
+],
+[
+"SEAT 133",
+17
+],
+[
+"Honda Element",
+17
+],
+[
+"Toyota Platz",
+17
+],
+[
+"Fiat 124 Sport Spider",
+17
+],
+[
+"Spyker C8",
+17
+],
+[
+"Volvo S70",
+17
+],
+[
+"MG MGB",
+17
+],
+[
+"Renault Juvaquatre",
+17
+],
+[
+"Rolls-Royce Phantom III",
+17
+],
+[
+"SAIC-Volkswagen Lavida",
+17
+],
+[
+"Tatra 613",
+17
+],
+[
+"Lotus Elite",
+17
+],
+[
+"Peugeot 201",
+17
+],
+[
+"Infiniti M",
+17
+],
+[
+"Nissan Cima",
+17
+],
+[
+"Jaguar Mark IX",
+17
+],
+[
+"Jaguar Mark V",
+17
+],
+[
+"Subaru Levorg",
+17
+],
+[
+"Oldsmobile Intrigue",
+17
+],
+[
+"Alfa Romeo 6C",
+17
+],
+[
+"Volvo 440/460",
+17
+],
+[
+"NSU Prinz",
+17
+],
+[
+"Lancia Ardea",
+17
+],
+[
+"Lancia Aurelia",
+17
+],
+[
+"Rover P6",
+17
+],
+[
+"Nissan Xterra",
+17
+],
+[
+"Toyota Wish",
+17
+],
+[
+"Rolls-Royce Silver Wraith",
+17
+],
+[
+"Maserati 3500 GT",
+17
+],
+[
+"Maserati Biturbo",
+17
+],
+[
+"SEAT Ronda",
+17
+],
+[
+"Peugeot P4",
+17
+],
+[
+"Mercedes-Benz C215",
+17
+],
+[
+"Subaru Rex",
+17
+],
+[
+"Ferrari America",
+17
+],
+[
+"Subaru 1500",
+17
+],
+[
+"Maserati Mistral",
+17
+],
+[
+"Zenvo ST1",
+17
+],
+[
+"Mazda Familia",
+17
+],
+[
+"Mercedes-Benz T80",
+17
+],
+[
+"Subaru Vivio",
+17
+],
+[
+"Aston Martin Vulcan",
+17
+],
+[
+"Mitsubishi Model A",
+17
+],
+[
+"Toyota Probox",
+17
+],
+[
+"Oldsmobile Aurora",
+17
+],
+[
+"Toyota Mark II",
+17
+],
+[
+"BMW 2 Series (F22)",
+17
+],
+[
+"Plymouth Superbird",
+17
+],
+[
+"Dodge Stratus",
+17
+],
+[
+"Pontiac Tempest",
+17
+],
+[
+"Suzuki Cappuccino",
+17
+],
+[
+"Lexus LC",
+17
+],
+[
+"Alfa Romeo RM",
+17
+],
+[
+"Renault R202",
+17
+],
+[
+"Ford GPA",
+17
+],
+[
+"Subaru R-2",
+17
+],
+[
+"Toyota Sports 800",
+17
+],
+[
+"Toyota Isis",
+17
+],
+[
+"Kia Telluride",
+17
+],
+[
+"Fiat Mobi",
+17
+],
+[
+"Bentley 4½ Litre",
+17
+],
+[
+"Pontiac Torrent",
+17
+],
+[
+"Wartburg 353",
+17
+],
+[
+"Chevrolet K5 Blazer",
+17
+],
+[
+"Suzuki Cultus",
+17
+],
+[
+"Pontiac Grand Am",
+17
+],
+[
+"SEAT Tarraco",
+17
+],
+[
+"Saturn Aura",
+17
+],
+[
+"Honda Passport",
+17
+],
+[
+"Acura RDX",
+17
+],
+[
+"Škoda 440",
+17
+],
+[
+"Jaguar XK150",
+17
+],
+[
+"Saab 9-4X",
+17
+],
+[
+"Mercedes-Benz 260 D",
+17
+],
+[
+"Mitsubishi Space Wagon",
+17
+],
+[
+"Hyundai Dynasty",
+17
+],
+[
+"BMW 8 Series (G15)",
+17
+],
+[
+"Alfa Romeo Romeo",
+17
+],
+[
+"Aston Martin V8",
+17
+],
+[
+"Nissan Terrano II",
+17
+],
+[
+"Plymouth Valiant",
+17
+],
+[
+"Mercedes-Benz MB100",
+17
+],
+[
+"Ferrari Monza SP",
+17
+],
+[
+"Ford Fairlane",
+17
+],
+[
+"Dacia Lăstun",
+17
+],
+[
+"Mitsubishi i",
+17
+],
+[
+"DS 9",
+17
+],
+[
+"BYD F0",
+17
+],
+[
+"Chrysler Airflow",
+17
+],
+[
+"Fiat 1400",
+17
+],
+[
+"Kia Seltos",
+17
+],
+[
+"Cupra Formentor",
+17
+],
+[
+"Dodge Super Bee",
+17
+],
+[
+"Isuzu Trooper",
+17
+],
+[
+"Lincoln-Zephyr",
+17
+],
+[
+"KTM X-Bow",
+17
+],
+[
+"Toyota Venza",
+17
+],
+[
+"Aston Martin DB6",
+17
+],
+[
+"Mercury Cougar",
+17
+],
+[
+"Dodge Aspen",
+17
+],
+[
+"Proton Savvy",
+17
+],
+[
+"Austin Maestro",
+17
+],
+[
+"Autobianchi Primula",
+17
+],
+[
+"Austin Maxi",
+17
+],
+[
+"BMW 503",
+17
+],
+[
+"Volkswagen 181",
+17
+],
+[
+"Buick Roadmaster",
+17
+],
+[
+"Mercedes-Benz W180",
+17
+],
+[
+"Mercedes-Benz EQB",
+17
+],
+[
+"Fiat New 500",
+17
+],
+[
+"TVR Griffith",
+17
+],
+[
+"Ford Ranger Americas",
+17
+],
+[
+"Toyota Yaris Cross",
+17
+],
+[
+"Mini Moke",
+17
+],
+[
+"Citroën Elysée",
+17
+],
+[
+"Suzuki Lapin",
+17
+],
+[
+"A.L.F.A 24 HP",
+17
+],
+[
+"Toyota AA",
+17
+],
+[
+"Volvo 164",
+17
+],
+[
+"Kia Sonet",
+17
+],
+[
+"Ferrari P4/5 by Pininfarina",
+16
+],
+[
+"Cadillac ELR",
+16
+],
+[
+"RAF-2203",
+16
+],
+[
+"Chrysler Sunbeam",
+16
+],
+[
+"Renault Express I",
+16
+],
+[
+"MG 4 EV",
+16
+],
+[
+"Ferrari 365",
+16
+],
+[
+"Mercedes-Benz W203",
+16
+],
+[
+"Aston Martin Cygnet",
+16
+],
+[
+"DKW F102",
+16
+],
+[
+"Daihatsu Midget",
+16
+],
+[
+"Daihatsu Rocky (F300)",
+16
+],
+[
+"Daihatsu Taft",
+16
+],
+[
+"Daihatsu YRV",
+16
+],
+[
+"Renault Rafale",
+16
+],
+[
+"SsangYong Musso",
+16
+],
+[
+"Toyota Premio",
+16
+],
+[
+"Hyundai Scoupe",
+16
+],
+[
+"Ford Transit Custom",
+16
+],
+[
+"Dodge Magnum",
+16
+],
+[
+"BYD Atto 2",
+16
+],
+[
+"Mazda 6e",
+16
+],
+[
+"Proton Waja",
+16
+],
+[
+"Ford Consul",
+16
+],
+[
+"Ford Maverick",
+16
+],
+[
+"Lincoln LS",
+16
+],
+[
+"Volkswagen Type 2 (T3)",
+16
+],
+[
+"Volvo EX60",
+16
+],
+[
+"Ford Transit Courier",
+16
+],
+[
+"ZIS-110",
+16
+],
+[
+"Nissan Fuga",
+16
+],
+[
+"Terrafugia Transition",
+16
+],
+[
+"Toyota LiteAce",
+16
+],
+[
+"Ferrari 195 Inter",
+16
+],
+[
+"Fiat 2800",
+16
+],
+[
+"Sinclair C5",
+16
+],
+[
+"Ford Corsair",
+16
+],
+[
+"Ford Model C",
+16
+],
+[
+"Ford Model F",
+16
+],
+[
+"Ford V8",
+16
+],
+[
+"Nissan Pao",
+16
+],
+[
+"Volkswagen Routan",
+16
+],
+[
+"Maruti 800",
+16
+],
+[
+"Renault Alpine GTA/A610",
+16
+],
+[
+"Zastava 750",
+16
+],
+[
+"URO VAMTAC",
+16
+],
+[
+"Porsche 718",
+16
+],
+[
+"Jeep Commander",
+16
+],
+[
+"AC Ace",
+16
+],
+[
+"Lancia Augusta",
+16
+],
+[
+"Scion tC",
+16
+],
+[
+"Bricklin SV-1",
+16
+],
+[
+"Honda CR-X",
+16
+],
+[
+"Honda Stepwgn",
+16
+],
+[
+"Honda Today",
+16
+],
+[
+"Rover P5",
+16
+],
+[
+"Ford Eifel",
+16
+],
+[
+"Isuzu Faster",
+16
+],
+[
+"Jaguar Mark IV",
+16
+],
+[
+"Jaguar Mark 2",
+16
+],
+[
+"Mercedes-Benz R170",
+16
+],
+[
+"SEAT 1200 Sport",
+16
+],
+[
+"Ford LTD",
+16
+],
+[
+"Maserati Indy",
+16
+],
+[
+"Toyota Mega Cruiser",
+16
+],
+[
+"Buick Skylark",
+16
+],
+[
+"Lincoln Blackwood",
+16
+],
+[
+"Oldsmobile 98",
+16
+],
+[
+"Mazda Millenia",
+16
+],
+[
+"Mazda Verisa",
+16
+],
+[
+"Triumph Herald",
+16
+],
+[
+"SsangYong Tivoli",
+16
+],
+[
+"Volkswagen Taro",
+16
+],
+[
+"Subaru R1",
+16
+],
+[
+"Mercedes-Benz C208",
+16
+],
+[
+"Mercury Milan",
+16
+],
+[
+"Saturn Ion",
+16
+],
+[
+"McLaren 570S",
+16
+],
+[
+"Nissan Gloria",
+16
+],
+[
+"Nissan President",
+16
+],
+[
+"Nissan Pixo",
+16
+],
+[
+"Suzuki X-90",
+16
+],
+[
+"Opel Movano",
+16
+],
+[
+"Pontiac Grand Prix",
+16
+],
+[
+"Toyota Yaris Verso",
+16
+],
+[
+"Alfa Romeo RL",
+16
+],
+[
+"SEAT Fura",
+16
+],
+[
+"Subaru XV",
+16
+],
+[
+"Alfa Romeo Matta",
+16
+],
+[
+"Genesis G90",
+16
+],
+[
+"SEAT 1400",
+16
+],
+[
+"Fiat Toro",
+16
+],
+[
+"Toyota Soarer",
+16
+],
+[
+"Volkswagen Phideon",
+16
+],
+[
+"Suzuki Equator",
+16
+],
+[
+"Fiat 502",
+16
+],
+[
+"Ferrari 640",
+16
+],
+[
+"Ferrari F1/87",
+16
+],
+[
+"Lotus 100T",
+16
+],
+[
+"UAZ Patriot",
+16
+],
+[
+"Alfa Romeo Sprint",
+16
+],
+[
+"Mitsuoka Orochi",
+16
+],
+[
+"Alfa Romeo Carabo",
+16
+],
+[
+"Saab 95",
+16
+],
+[
+"Nissan Kicks",
+16
+],
+[
+"De Tomaso Vallelunga",
+16
+],
+[
+"Mahindra Scorpio",
+16
+],
+[
+"Fiat 8 HP",
+16
+],
+[
+"Audi S2",
+16
+],
+[
+"NIO EP9",
+16
+],
+[
+"Opel Grandland",
+16
+],
+[
+"AMC Javelin",
+16
+],
+[
+"Hennessey Venom F5",
+16
+],
+[
+"Volkswagen Transporter T4",
+16
+],
+[
+"Honda Brio",
+16
+],
+[
+"Škoda VOS",
+16
+],
+[
+"Saab Sonett",
+16
+],
+[
+"Blitzen Benz",
+16
+],
+[
+"Kia Magentis",
+16
+],
+[
+"Kia Bongo",
+16
+],
+[
+"Kia Pregio",
+16
+],
+[
+"Hyundai Galloper",
+16
+],
+[
+"Samsung SM3",
+16
+],
+[
+"Samsung SM7",
+16
+],
+[
+"Rolls-Royce Wraith",
+16
+],
+[
+"Aurus Senat",
+16
+],
+[
+"McLaren Speedtail",
+16
+],
+[
+"Volga Siber",
+16
+],
+[
+"Porsche 992",
+16
+],
+[
+"BMW New Six",
+16
+],
+[
+"Jeep Comanche",
+16
+],
+[
+"Aston Martin Valhalla",
+16
+],
+[
+"Trabant 601",
+16
+],
+[
+"Lotus 2-Eleven",
+16
+],
+[
+"Honda N360",
+16
+],
+[
+"Ariel Atom",
+16
+],
+[
+"Ascari KZ1",
+16
+],
+[
+"Daihatsu Tanto",
+16
+],
+[
+"Ascari A10",
+16
+],
+[
+"Lotus Europa S",
+16
+],
+[
+"Subaru Pleo",
+16
+],
+[
+"Autobianchi A111",
+16
+],
+[
+"BMW 501",
+16
+],
+[
+"BMW 6 Series (F12/F13)",
+16
+],
+[
+"BMW GINA",
+16
+],
+[
+"Togg T10X",
+16
+],
+[
+"Bentley Continental R",
+16
+],
+[
+"Genesis GV80",
+16
+],
+[
+"GMC Hummer EV",
+16
+],
+[
+"Fiat 6 HP",
+16
+],
+[
+"Lancia Delta S4",
+16
+],
+[
+"Oldsmobile Alero",
+16
+],
+[
+"Studebaker Avanti",
+16
+],
+[
+"Hyundai Santa Cruz",
+16
+],
+[
+"Buick Excelle",
+15
+],
+[
+"Buick GL8",
+15
+],
+[
+"Buick Reatta",
+15
+],
+[
+"Buick Rendezvous",
+15
+],
+[
+"Cadillac V-16",
+15
+],
+[
+"Kia K8",
+15
+],
+[
+"Hyundai Alcazar",
+15
+],
+[
+"Audi Q6 e-tron",
+15
+],
+[
+"Chevrolet Celebrity",
+15
+],
+[
+"Chevrolet Corsica",
+15
+],
+[
+"Chevrolet 210",
+15
+],
+[
+"Chevrolet Nomad",
+15
+],
+[
+"Chevrolet S-10",
+15
+],
+[
+"Chevrolet Venture",
+15
+],
+[
+"Hyundai Casper",
+15
+],
+[
+"Chrysler LHS",
+15
+],
+[
+"Chrysler Pacifica",
+15
+],
+[
+"BYD Atto 3",
+15
+],
+[
+"Škoda Slavia",
+15
+],
+[
+"Citroën C35",
+15
+],
+[
+"Citroën Évasion",
+15
+],
+[
+"Ford Falcon",
+15
+],
+[
+"Subaru Sambar",
+15
+],
+[
+"Tata Safari",
+15
+],
+[
+"Fiat 525",
+15
+],
+[
+"Lancia Phedra",
+15
+],
+[
+"Chevrolet Corvette C7",
+15
+],
+[
+"Lotus Emeya",
+15
+],
+[
+"Volvo EX90",
+15
+],
+[
+"Mercedes-Benz EQE SUV",
+15
+],
+[
+"DAF 44",
+15
+],
+[
+"Daihatsu Coo",
+15
+],
+[
+"Daihatsu Cuore",
+15
+],
+[
+"Daihatsu Move",
+15
+],
+[
+"Mercedes W14",
+15
+],
+[
+"Citroën C8",
+15
+],
+[
+"Devrim",
+15
+],
+[
+"Renault Scénic E-Tech",
+15
+],
+[
+"Dodge 600",
+15
+],
+[
+"Dodge Dynasty",
+15
+],
+[
+"Dodge Polara",
+15
+],
+[
+"Rolls-Royce Silver Spirit",
+15
+],
+[
+"Kia EV4",
+15
+],
+[
+"Porsche 906",
+15
+],
+[
+"Kia EV3",
+15
+],
+[
+"Škoda Elroq",
+15
+],
+[
+"Eagle Vision",
+15
+],
+[
+"Panhard Dyna Z",
+15
+],
+[
+"McLaren W1",
+15
+],
+[
+"Pontiac Sunfire",
+15
+],
+[
+"Pontiac Montana",
+15
+],
+[
+"IFA F9",
+15
+],
+[
+"Ferrari Tipo 500",
+15
+],
+[
+"Lagonda Rapide",
+15
+],
+[
+"Nissan Primastar",
+15
+],
+[
+"Ford Popular",
+15
+],
+[
+"Ford Taurus X",
+15
+],
+[
+"Daewoo Damas",
+15
+],
+[
+"Citroën Nemo",
+15
+],
+[
+"Nissan Cherry",
+15
+],
+[
+"Zastava 10",
+15
+],
+[
+"GMC Envoy",
+15
+],
+[
+"Geely CK",
+15
+],
+[
+"Peugeot 807",
+15
+],
+[
+"Henry J",
+15
+],
+[
+"Tata Sumo",
+15
+],
+[
+"AeroMobil s.r.o. AeroMobil",
+15
+],
+[
+"Mazda Bongo",
+15
+],
+[
+"Honda Odyssey",
+15
+],
+[
+"Honda S800",
+15
+],
+[
+"Honda Z",
+15
+],
+[
+"Proton Tiara",
+15
+],
+[
+"Plymouth Belvedere",
+15
+],
+[
+"Honda S660",
+15
+],
+[
+"Isuzu Gemini",
+15
+],
+[
+"Isuzu Piazza",
+15
+],
+[
+"Jaguar Mark VII",
+15
+],
+[
+"Willys-Overland Jeepster",
+15
+],
+[
+"Jensen Interceptor",
+15
+],
+[
+"Porsche 930",
+15
+],
+[
+"Buick Envision",
+15
+],
+[
+"Buick Verano",
+15
+],
+[
+"BMW Z4 E85",
+15
+],
+[
+"Vauxhall Chevette",
+15
+],
+[
+"Mitsubishi Tredia",
+15
+],
+[
+"Alfa Romeo BAT",
+15
+],
+[
+"Mitsubishi FTO",
+15
+],
+[
+"Lada Nadezhda",
+15
+],
+[
+"Lancia Appia",
+15
+],
+[
+"Lancia Astura",
+15
+],
+[
+"Nissan Vanette",
+15
+],
+[
+"Oldsmobile 88",
+15
+],
+[
+"Maserati Merak",
+15
+],
+[
+"Pontiac G6",
+15
+],
+[
+"Tatra 700",
+15
+],
+[
+"Samsung SM5",
+15
+],
+[
+"Mercedes-Benz C218",
+15
+],
+[
+"Subaru Stella",
+15
+],
+[
+"Ferrari FXX-K",
+15
+],
+[
+"Ford Festiva",
+15
+],
+[
+"Maserati 5000 GT",
+15
+],
+[
+"Maserati Mexico",
+15
+],
+[
+"Mercedes-Benz R230",
+15
+],
+[
+"Mitsubishi eK",
+15
+],
+[
+"Ferrari F1/86",
+15
+],
+[
+"GAZ-M1",
+15
+],
+[
+"Nissan Be-1",
+15
+],
+[
+"Toyota Camry Solara",
+15
+],
+[
+"Toyota Raum",
+15
+],
+[
+"TVR Cerbera",
+15
+],
+[
+"Oldsmobile Bravada",
+15
+],
+[
+"Peugeot Type 4",
+15
+],
+[
+"Peugeot 402",
+15
+],
+[
+"Peugeot Boxer",
+15
+],
+[
+"Super Aguri SA07",
+15
+],
+[
+"REVAi",
+15
+],
+[
+"Subaru 1000",
+15
+],
+[
+"BYD Tang",
+15
+],
+[
+"Ford Escort RS Cosworth",
+15
+],
+[
+"Volvo P1900",
+15
+],
+[
+"Rolls-Royce Twenty",
+15
+],
+[
+"Volkswagen Brasília",
+15
+],
+[
+"Midland M16",
+15
+],
+[
+"Honda RA107",
+15
+],
+[
+"Toyota Belta",
+15
+],
+[
+"ZIL-114",
+15
+],
+[
+"Mazda B-Series",
+15
+],
+[
+"Mercedes-Benz 300 SLR",
+15
+],
+[
+"Triumph TR6",
+15
+],
+[
+"Volvo V90",
+15
+],
+[
+"Bentley 3.5 Litre",
+15
+],
+[
+"Mini Clubman",
+15
+],
+[
+"Fiat Zero",
+15
+],
+[
+"Mercedes-Benz GLE-Class",
+15
+],
+[
+"Mazda CX-4",
+15
+],
+[
+"Fiat 503",
+15
+],
+[
+"Fiat 505",
+15
+],
+[
+"Fiat 521",
+15
+],
+[
+"Fiat 514",
+15
+],
+[
+"Fiat 1",
+15
+],
+[
+"Fiat 501",
+15
+],
+[
+"Ford Model Y",
+15
+],
+[
+"AIL Storm",
+15
+],
+[
+"Subaru Impreza WRX",
+15
+],
+[
+"Fiat 10 HP",
+15
+],
+[
+"Fiat 522",
+15
+],
+[
+"Nissan Skyline GT-R",
+15
+],
+[
+"Ford Model TT",
+15
+],
+[
+"Renault 10",
+15
+],
+[
+"Saturn Outlook",
+15
+],
+[
+"Fiat 16-20 HP",
+15
+],
+[
+"Fiat 24-32 HP",
+15
+],
+[
+"Lancia Trevi",
+15
+],
+[
+"Matra Murena",
+15
+],
+[
+"Haas VF-17",
+15
+],
+[
+"AMC Matador",
+15
+],
+[
+"Kia Pegas",
+15
+],
+[
+"Chevrolet Spin",
+15
+],
+[
+"VAZ-2102",
+15
+],
+[
+"Ford Everest",
+15
+],
+[
+"Ford Figo",
+15
+],
+[
+"Bugatti Type 55",
+15
+],
+[
+"Acura TL",
+15
+],
+[
+"Acura ZDX (2009)",
+15
+],
+[
+"Chevrolet Onix",
+15
+],
+[
+"Hyundai HB20",
+15
+],
+[
+"Volkswagen Transporter T5",
+15
+],
+[
+"NSU Spider",
+15
+],
+[
+"BMW 3 Series Gran Turismo",
+15
+],
+[
+"Apollo Intensa Emozione",
+15
+],
+[
+"Fiat Cronos",
+15
+],
+[
+"Hyundai Porter",
+15
+],
+[
+"Polestar 1",
+15
+],
+[
+"Kia Ray",
+15
+],
+[
+"Mercedes-AMG GT 4-Door Coupé",
+15
+],
+[
+"Chevrolet Biscayne",
+15
+],
+[
+"Fiat 524",
+15
+],
+[
+"Proton Saga",
+15
+],
+[
+"BMW G05",
+15
+],
+[
+"Chevrolet Blazer (2018)",
+15
+],
+[
+"Ferrari 400",
+15
+],
+[
+"Ferrari 212 Inter",
+15
+],
+[
+"Chevrolet Citation",
+15
+],
+[
+"DAF 55",
+15
+],
+[
+"Mitsubishi Endeavor",
+15
+],
+[
+"BMW Hydrogen 7",
+15
+],
+[
+"Mazda Cosmo",
+15
+],
+[
+"Pininfarina Battista",
+15
+],
+[
+"Toyota Curren",
+15
+],
+[
+"Plymouth Road Runner",
+15
+],
+[
+"Nissan Prairie",
+15
+],
+[
+"GAZ 46",
+15
+],
+[
+"BMW 2 Series Gran Coupe",
+15
+],
+[
+"Mercedes 35 hp",
+15
+],
+[
+"Cadillac Fleetwood",
+15
+],
+[
+"Aston Martin DB4 GT Zagato",
+15
+],
+[
+"Audi RS5",
+15
+],
+[
+"Austin Montego",
+15
+],
+[
+"BYD Flyer",
+15
+],
+[
+"Bedford CF",
+15
+],
+[
+"Bugatti EB218",
+15
+],
+[
+"Borgward Isabella",
+15
+],
+[
+"Dodge Tomahawk",
+15
+],
+[
+"Mazda 5",
+15
+],
+[
+"Bristol Fighter",
+15
+],
+[
+"Iso Grifo",
+15
+],
+[
+"A.L.F.A 40/60 HP",
+15
+],
+[
+"Mercury Sable",
+15
+],
+[
+"Jaguar Mark VIII",
+15
+],
+[
+"BYD Han",
+15
+],
+[
+"Pontiac Trans Sport",
+15
+],
+[
+"Cadillac Celestiq",
+15
+],
+[
+"Land Rover Series",
+14
+],
+[
+"Bugatti Type 13",
+14
+],
+[
+"Volvo C40",
+14
+],
+[
+"Chery A15",
+14
+],
+[
+"Chevrolet Agile",
+14
+],
+[
+"Chevrolet Beretta",
+14
+],
+[
+"Chevrolet Chevette",
+14
+],
+[
+"Chevrolet Corvette (C4)",
+14
+],
+[
+"Genesis GV60",
+14
+],
+[
+"Tata Indigo",
+14
+],
+[
+"Xpeng G9",
+14
+],
+[
+"DKW Schnellaster",
+14
+],
+[
+"Mercedes-Benz 500K",
+14
+],
+[
+"NIO ET5",
+14
+],
+[
+"Mazda Roadpacer AP",
+14
+],
+[
+"SS 1",
+14
+],
+[
+"Chevrolet Corvette C6",
+14
+],
+[
+"Polestar 3",
+14
+],
+[
+"Smart #3",
+14
+],
+[
+"DKW F89",
+14
+],
+[
+"DKW 3=6",
+14
+],
+[
+"Daihatsu Charmant",
+14
+],
+[
+"Bristol 400",
+14
+],
+[
+"Yangwang U8",
+14
+],
+[
+"Pontiac LeMans",
+14
+],
+[
+"SsangYong Chairman",
+14
+],
+[
+"Alfa Romeo 33 Stradale (2023)",
+14
+],
+[
+"Dodge Coronet",
+14
+],
+[
+"Dodge Daytona",
+14
+],
+[
+"Dodge Monaco",
+14
+],
+[
+"BYD Sealion 07",
+14
+],
+[
+"Renault Symbioz",
+14
+],
+[
+"Volvo ES90",
+14
+],
+[
+"Ford Del Rey",
+14
+],
+[
+"Kia K5",
+14
+],
+[
+"Honda Inspire",
+14
+],
+[
+"Eagle Premier",
+14
+],
+[
+"Lancia Dilambda",
+14
+],
+[
+"Alfa Romeo 146",
+14
+],
+[
+"Alfa Romeo G1",
+14
+],
+[
+"Saturn Sky",
+14
+],
+[
+"Mercedes-Benz X166",
+14
+],
+[
+"Ferrari 849 Testarossa",
+14
+],
+[
+"Phantom Corsair",
+14
+],
+[
+"Ferrari Amalfi",
+14
+],
+[
+"Rolls-Royce Silver Dawn",
+14
+],
+[
+"Mercury Monterey",
+14
+],
+[
+"TVR Tamora",
+14
+],
+[
+"Fiat 2300",
+14
+],
+[
+"Subaru Baja",
+14
+],
+[
+"1949 Ford",
+14
+],
+[
+"Ford Bronco II",
+14
+],
+[
+"Ford Elite",
+14
+],
+[
+"Ford Ikon",
+14
+],
+[
+"Ford Pilot",
+14
+],
+[
+"Ford Ranchero",
+14
+],
+[
+"Mitsubishi Zinger",
+14
+],
+[
+"Maserati Kyalami",
+14
+],
+[
+"SEAT 1500",
+14
+],
+[
+"Suzuki APV",
+14
+],
+[
+"Maserati Shamal",
+14
+],
+[
+"Lincoln MKC",
+14
+],
+[
+"Peugeot Type 190",
+14
+],
+[
+"Toyota Chaser",
+14
+],
+[
+"Volvo 700 Series",
+14
+],
+[
+"Plymouth GTX",
+14
+],
+[
+"Honda Civic Hybrid",
+14
+],
+[
+"Honda Crossroad",
+14
+],
+[
+"Honda S500",
+14
+],
+[
+"Honda Zest",
+14
+],
+[
+"Porsche 908",
+14
+],
+[
+"Suzuki Grand Vitara",
+14
+],
+[
+"Lancia Artena",
+14
+],
+[
+"Nissan Avenir",
+14
+],
+[
+"Isuzu Ascender",
+14
+],
+[
+"Willys Jeep Station Wagon",
+14
+],
+[
+"Jensen FF",
+14
+],
+[
+"Toyota Etios",
+14
+],
+[
+"Toyota bB",
+14
+],
+[
+"Lancia 2000",
+14
+],
+[
+"SS Jaguar 100",
+14
+],
+[
+"Volkswagen Derby",
+14
+],
+[
+"Opel Astra H",
+14
+],
+[
+"Proton GEN•2",
+14
+],
+[
+"Lancia Zeta",
+14
+],
+[
+"Hyundai ix35",
+14
+],
+[
+"Toyota Cresta",
+14
+],
+[
+"Rolls-Royce 20/25",
+14
+],
+[
+"Citroën Acadiane",
+14
+],
+[
+"Saturn S-Series",
+14
+],
+[
+"BMW X3 (F25)",
+14
+],
+[
+"Peugeot Type 5",
+14
+],
+[
+"Lotus Eclat",
+14
+],
+[
+"MG MGA",
+14
+],
+[
+"MG Midget",
+14
+],
+[
+"Alpine A310",
+14
+],
+[
+"Maserati Sebring",
+14
+],
+[
+"Mercedes-Benz C216",
+14
+],
+[
+"Mercedes-Benz C219",
+14
+],
+[
+"Mercury Mariner",
+14
+],
+[
+"Mitsubishi Cordia",
+14
+],
+[
+"Mitsubishi Toppo",
+14
+],
+[
+"Proton Persona",
+14
+],
+[
+"Mazda Xedos 6",
+14
+],
+[
+"Infiniti QX80",
+14
+],
+[
+"Infiniti QX30",
+14
+],
+[
+"Nissan Stanza",
+14
+],
+[
+"Panhard Dyna X",
+14
+],
+[
+"Volvo PV 36 Carioca",
+14
+],
+[
+"Triumph Acclaim",
+14
+],
+[
+"Ford Model C Ten",
+14
+],
+[
+"Toyota Sera",
+14
+],
+[
+"Toyota Noah",
+14
+],
+[
+"Chery Tiggo",
+14
+],
+[
+"Peugeot 601",
+14
+],
+[
+"1963-1989 Porsche 911",
+14
+],
+[
+"Acura ILX",
+14
+],
+[
+"Chevrolet Camaro",
+14
+],
+[
+"Citroën C3 Pluriel",
+14
+],
+[
+"Simca 1300/1500",
+14
+],
+[
+"Peel Trident",
+14
+],
+[
+"Citroën Survolt",
+14
+],
+[
+"Citroën E-Méhari",
+14
+],
+[
+"Subaru Impreza WRX STI",
+14
+],
+[
+"Toyota Prius V",
+14
+],
+[
+"Alfa Romeo Giulia TZ",
+14
+],
+[
+"Triumph 2000",
+14
+],
+[
+"AC Aceca",
+14
+],
+[
+"Hongqi L5",
+14
+],
+[
+"GAZ-A",
+14
+],
+[
+"Lamborghini Cheetah",
+14
+],
+[
+"Moskvitch 402",
+14
+],
+[
+"Pontiac G8",
+14
+],
+[
+"Fiat 515",
+14
+],
+[
+"Fiat 507",
+14
+],
+[
+"Citroën C25",
+14
+],
+[
+"Alfa Romeo P3",
+14
+],
+[
+"Nissan S30",
+14
+],
+[
+"Ferrari 166 Inter",
+14
+],
+[
+"Dodge WC series",
+14
+],
+[
+"Ford Country Squire",
+14
+],
+[
+"Wartburg 311",
+14
+],
+[
+"Fiat Fullback",
+14
+],
+[
+"Dymaxion car",
+14
+],
+[
+"Moskvitch 2140",
+14
+],
+[
+"Bentley 8 Litre",
+14
+],
+[
+"BMW X3 (E83)",
+14
+],
+[
+"Fiat 512",
+14
+],
+[
+"Fiat 510",
+14
+],
+[
+"Fiat 70",
+14
+],
+[
+"Forti FG03",
+14
+],
+[
+"Duesenberg Model A",
+14
+],
+[
+"Fiat 60 HP",
+14
+],
+[
+"Fiat 2B",
+14
+],
+[
+"Fiat Brevetti",
+14
+],
+[
+"Peugeot Type 3",
+14
+],
+[
+"Genesis G70",
+14
+],
+[
+"BMW M2",
+14
+],
+[
+"Dodge 400",
+14
+],
+[
+"Wartburg 1.3",
+14
+],
+[
+"Bentley Brooklands Coupé",
+14
+],
+[
+"BMW Z4 (G29)",
+14
+],
+[
+"Suzuki Ertiga",
+14
+],
+[
+"Mazda CX-8",
+14
+],
+[
+"Saab 9-2X",
+14
+],
+[
+"Austin-Healey 100",
+14
+],
+[
+"Chevrolet Monza USA",
+14
+],
+[
+"Aspark Owl",
+14
+],
+[
+"Ford Sierra RS Cosworth",
+14
+],
+[
+"Honda Domani",
+14
+],
+[
+"Hyundai Entourage",
+14
+],
+[
+"Kia Retona",
+14
+],
+[
+"SEAT 1430",
+14
+],
+[
+"Peugeot 302",
+14
+],
+[
+"Baojun 510",
+14
+],
+[
+"Aston Martin DBS Superleggera",
+14
+],
+[
+"Mercedes-Benz W31",
+14
+],
+[
+"Bugatti 18/3 Chiron",
+14
+],
+[
+"Maserati Ghibli III",
+14
+],
+[
+"Chevrolet Corvette C8",
+14
+],
+[
+"Toyota Vitz",
+14
+],
+[
+"Vauxhall Victor",
+14
+],
+[
+"Kia Concord",
+14
+],
+[
+"McLaren GT",
+14
+],
+[
+"Toyota Porte",
+14
+],
+[
+"Hillman Avenger",
+14
+],
+[
+"Lincoln Corsair",
+14
+],
+[
+"Lexus LM",
+14
+],
+[
+"Honda Acty",
+14
+],
+[
+"Triumph GT6",
+14
+],
+[
+"BYD e6",
+14
+],
+[
+"GAZ-12 ZIM",
+14
+],
+[
+"Alfa Romeo 20/30 HP",
+14
+],
+[
+"Aston Martin DB2/4",
+14
+],
+[
+"McLaren Elva",
+14
+],
+[
+"Chevrolet 150",
+14
+],
+[
+"Ferrari 330",
+14
+],
+[
+"Austin-Healey Sprite",
+14
+],
+[
+"truck art in South Asia",
+14
+],
+[
+"Auto Union 1000",
+14
+],
+[
+"Autobianchi Stellina",
+14
+],
+[
+"BMW Nazca C2",
+14
+],
+[
+"Austin Ambassador",
+14
+],
+[
+"Bentley S1",
+14
+],
+[
+"Pontiac Bonneville",
+14
+],
+[
+"Dacia Spring",
+14
+],
+[
+"Ford Bronco Sport",
+14
+],
+[
+"Volkswagen ID.6",
+14
+],
+[
+"Toyota GR Yaris",
+14
+],
+[
+"Mazda Capella",
+14
+],
+[
+"Saturn Vue",
+14
+],
+[
+"Nissan Magnite",
+14
+],
+[
+"Chevrolet Montana",
+14
+],
+[
+"Dodge St. Regis",
+14
+],
+[
+"Mercedes-Benz type 223",
+14
+],
+[
+"Mercedes-Benz R231",
+14
+],
+[
+"Ford Maverick pickup",
+14
+],
+[
+"Renault Kiger",
+14
+],
+[
+"Genesis GV70",
+13
+],
+[
+"Wuling Hongguang Mini EV",
+13
+],
+[
+"Cadillac Sixteen",
+13
+],
+[
+"Alpine A521",
+13
+],
+[
+"Nissan Frontier",
+13
+],
+[
+"Mercedes-Benz W206",
+13
+],
+[
+"Alfa Romeo Racing C41",
+13
+],
+[
+"Nissan 180SX",
+13
+],
+[
+"Citroën DS4",
+13
+],
+[
+"Chery A5",
+13
+],
+[
+"Chery A13",
+13
+],
+[
+"Fiat Pulse",
+13
+],
+[
+"Chevrolet Delray",
+13
+],
+[
+"Toyota Aqua",
+13
+],
+[
+"Toyota Aygo X",
+13
+],
+[
+"Chrysler Cirrus",
+13
+],
+[
+"Citroën TUB",
+13
+],
+[
+"Honda ZR-V",
+13
+],
+[
+"Mazda CX-50",
+13
+],
+[
+"Peugeot J7",
+13
+],
+[
+"BMW 7 Series (G70)",
+13
+],
+[
+"KGM Torres",
+13
+],
+[
+"Bugatti Mistral",
+13
+],
+[
+"Dacia Pick-Up",
+13
+],
+[
+"FSC Lublin",
+13
+],
+[
+"Daihatsu Compagno",
+13
+],
+[
+"Alpine A523",
+13
+],
+[
+"Zeekr X",
+13
+],
+[
+"Kia EV5",
+13
+],
+[
+"Mitsubishi Debonair",
+13
+],
+[
+"Honda Torneo",
+13
+],
+[
+"Renault Kardian",
+13
+],
+[
+"Lexus LBX",
+13
+],
+[
+"Mitsubishi Proudia",
+13
+],
+[
+"Dodge A100",
+13
+],
+[
+"Dodge Aries",
+13
+],
+[
+"Dodge Colt plimout",
+13
+],
+[
+"Dodge Mirada",
+13
+],
+[
+"Dodge Omni",
+13
+],
+[
+"Dodge Ramcharger",
+13
+],
+[
+"Dodge Spirit",
+13
+],
+[
+"Kia K4 (2024)",
+13
+],
+[
+"Škoda Epiq",
+13
+],
+[
+"Toyota Sienta",
+13
+],
+[
+"Mazda Luce",
+13
+],
+[
+"Willys Aero",
+13
+],
+[
+"Mazda Sentia",
+13
+],
+[
+"Nissan Rasheen",
+13
+],
+[
+"Kia EV2",
+13
+],
+[
+"Suzuki Fronte",
+13
+],
+[
+"Mazda Porter",
+13
+],
+[
+"Alpine A108",
+13
+],
+[
+"Fiat 900",
+13
+],
+[
+"Proton Exora",
+13
+],
+[
+"Mitsubishi 500",
+13
+],
+[
+"Ford 7Y",
+13
+],
+[
+"Ford Freestar",
+13
+],
+[
+"Ford Granada North America",
+13
+],
+[
+"Ford LTD II",
+13
+],
+[
+"Ford Model K",
+13
+],
+[
+"Jaguar Mark 1",
+13
+],
+[
+"Marussia B-Series",
+13
+],
+[
+"Morris Ital",
+13
+],
+[
+"Jaguar XKSS",
+13
+],
+[
+"Volvo 740",
+13
+],
+[
+"Volkswagen Golf Sportsvan",
+13
+],
+[
+"Suzuki MR Wagon",
+13
+],
+[
+"Volkswagen Passat B1",
+13
+],
+[
+"Isuzu Rodeo",
+13
+],
+[
+"MG ZS",
+13
+],
+[
+"Great Wall Haval H3",
+13
+],
+[
+"Acura TLX",
+13
+],
+[
+"DS 6",
+13
+],
+[
+"Oldsmobile Curved Dash",
+13
+],
+[
+"Holden Barina",
+13
+],
+[
+"Holden Caprice",
+13
+],
+[
+"Honda 1300",
+13
+],
+[
+"Subaru Sumo",
+13
+],
+[
+"Rumpler Tropfenwagen",
+13
+],
+[
+"Lotus 92",
+13
+],
+[
+"Infiniti Q70",
+13
+],
+[
+"Datsun on-Do",
+13
+],
+[
+"Isuzu Axiom",
+13
+],
+[
+"Iveco Massif",
+13
+],
+[
+"Jaguar XJR-15",
+13
+],
+[
+"Mercedes-Benz W125",
+13
+],
+[
+"Jeep Forward Control",
+13
+],
+[
+"Willys Jeep Truck",
+13
+],
+[
+"BMW 326",
+13
+],
+[
+"Nissan Wingroad",
+13
+],
+[
+"Mercedes-Benz C11",
+13
+],
+[
+"TVR Cerbera Speed 12",
+13
+],
+[
+"NW Präsident",
+13
+],
+[
+"Lancia Gamma-20HP",
+13
+],
+[
+"Lancia Theta-35HP",
+13
+],
+[
+"Triumph Dolomite",
+13
+],
+[
+"Lincoln Mark LT",
+13
+],
+[
+"Hyundai H350",
+13
+],
+[
+"Hyundai Mistra",
+13
+],
+[
+"Lagonda Taraf",
+13
+],
+[
+"Porsche 907",
+13
+],
+[
+"Mazda Carol",
+13
+],
+[
+"Mercedes-Benz R171",
+13
+],
+[
+"Mitsubishi Freeca",
+13
+],
+[
+"Mitsubishi Pajero Junior",
+13
+],
+[
+"Zündapp Janus",
+13
+],
+[
+"Nissan S130",
+13
+],
+[
+"Nissan Leopard",
+13
+],
+[
+"Nissan Livina",
+13
+],
+[
+"Nissan NV",
+13
+],
+[
+"Fiat Aegea",
+13
+],
+[
+"Volkswagen Passat B6",
+13
+],
+[
+"BMW F48",
+13
+],
+[
+"Alfa Romeo Scighera",
+13
+],
+[
+"Oldsmobile 442",
+13
+],
+[
+"Toyota Mark X ZiO",
+13
+],
+[
+"Kia K4",
+13
+],
+[
+"Kia KX3",
+13
+],
+[
+"Cadillac CTS-V",
+13
+],
+[
+"Volkswagen Polo Mk5",
+13
+],
+[
+"Mercedes-Benz W213",
+13
+],
+[
+"Audi Front",
+13
+],
+[
+"Nissan Almera Tino",
+13
+],
+[
+"Proton Satria",
+13
+],
+[
+"Honda Integra DC5",
+13
+],
+[
+"Genesis G80",
+13
+],
+[
+"Isuzu Panther",
+13
+],
+[
+"Acura RLX",
+13
+],
+[
+"Honda BR-V",
+13
+],
+[
+"TVR Grantura",
+13
+],
+[
+"Wolf WR1",
+13
+],
+[
+"Toyota Kijang",
+13
+],
+[
+"Triumph TR5",
+13
+],
+[
+"Alfa Romeo 12C",
+13
+],
+[
+"Bentley S3",
+13
+],
+[
+"Honda CR-X del Sol",
+13
+],
+[
+"Renault RS10",
+13
+],
+[
+"Tramontana",
+13
+],
+[
+"Lotus 88",
+13
+],
+[
+"Alfa Romeo P2",
+13
+],
+[
+"Alfa Romeo Tipo A",
+13
+],
+[
+"Škoda Garde",
+13
+],
+[
+"IKCO Runna",
+13
+],
+[
+"Subaru BRAT",
+13
+],
+[
+"Lotus Excel",
+13
+],
+[
+"Noble M600",
+13
+],
+[
+"Porsche RS Spyder",
+13
+],
+[
+"Fiat 520",
+13
+],
+[
+"Buick Encore",
+13
+],
+[
+"Honda WR-V",
+13
+],
+[
+"AMC Spirit",
+13
+],
+[
+"Lagonda 2.6-Litre",
+13
+],
+[
+"DAF 46",
+13
+],
+[
+"Volkswagen Passat B2",
+13
+],
+[
+"Saturn Relay",
+13
+],
+[
+"IKA-Renault Torino",
+13
+],
+[
+"Honda Vigor",
+13
+],
+[
+"ARO 10",
+13
+],
+[
+"Citroën C-Zero",
+13
+],
+[
+"Chrysler Cordoba",
+13
+],
+[
+"Lifan 320",
+13
+],
+[
+"Škoda 1200",
+13
+],
+[
+"Škoda 1203",
+13
+],
+[
+"BYD M6 (2010)",
+13
+],
+[
+"DAF Daffodil",
+13
+],
+[
+"Volkswagen Virtus",
+13
+],
+[
+"BYD Song",
+13
+],
+[
+"Sachsenring (Horch) P240",
+13
+],
+[
+"Mercedes Simplex",
+13
+],
+[
+"Kia Joice",
+13
+],
+[
+"Volkswagen Polo Mk3",
+13
+],
+[
+"Subaru Exiga",
+13
+],
+[
+"Morgan Aero 8",
+13
+],
+[
+"Volkswagen Type 147 Kleinlieferwagen",
+13
+],
+[
+"Cadillac Series 62",
+13
+],
+[
+"Maxus D90",
+13
+],
+[
+"BYD Song Max",
+13
+],
+[
+"Maserati A6",
+13
+],
+[
+"Volkswagen Golf Mk8",
+13
+],
+[
+"Chery Tiggo 8",
+13
+],
+[
+"MG HS",
+13
+],
+[
+"Cizeta-Moroder V16T",
+13
+],
+[
+"Chevrolet Sail",
+13
+],
+[
+"Bentley Mark VI",
+13
+],
+[
+"Bugatti La Voiture Noire",
+13
+],
+[
+"Changan CS35 Plus",
+13
+],
+[
+"Peugeot 401",
+13
+],
+[
+"BMW 1 Series (F40)",
+13
+],
+[
+"Renault Triber",
+13
+],
+[
+"Dodge Diplomat",
+13
+],
+[
+"Glas V8",
+13
+],
+[
+"Bentley S2",
+13
+],
+[
+"Plymouth Duster",
+13
+],
+[
+"Haflinger",
+13
+],
+[
+"Heinkel Kabine",
+13
+],
+[
+"Qoros 3",
+13
+],
+[
+"Fiat 527",
+13
+],
+[
+"Fiat 241",
+13
+],
+[
+"ZIL-4104",
+13
+],
+[
+"Daihatsu Sonica",
+13
+],
+[
+"MG 3",
+13
+],
+[
+"MG 7",
+13
+],
+[
+"Austin-Healey 3000",
+13
+],
+[
+"Austin 3-Litre",
+13
+],
+[
+"Austin A30",
+13
+],
+[
+"Austin FX4",
+13
+],
+[
+"Auto Avio Costruzioni 815",
+13
+],
+[
+"Mazda Biante",
+13
+],
+[
+"BMW 3/15",
+13
+],
+[
+"BMW 3/20",
+13
+],
+[
+"BYD S8",
+13
+],
+[
+"Bentley Brooklands",
+13
+],
+[
+"Bentley Mark V",
+13
+],
+[
+"Bentley R Type",
+13
+],
+[
+"Bentley T-series",
+13
+],
+[
+"Bentley Turbo R",
+13
+],
+[
+"Hyundai Aura",
+13
+],
+[
+"Caparo T1",
+13
+],
+[
+"Lotus 109",
+13
+],
+[
+"Nissan Z",
+13
+],
+[
+"Chaika",
+13
+],
+[
+"Nissan S-Cargo",
+13
+],
+[
+"BMW Z4 (E89)",
+13
+],
+[
+"Dodge Shadow",
+13
+],
+[
+"Oldsmobile Achieva",
+13
+],
+[
+"Chrysler Fifth Avenue",
+13
+],
+[
+"Citroën Rosalie",
+13
+],
+[
+"Oldsmobile Silhouette",
+13
+],
+[
+"Fiat 518",
+13
+],
+[
+"Mercedes-Benz C209",
+13
+],
+[
+"Ford F-150 Lightning",
+13
+],
+[
+"Dacia 1100",
+13
+],
+[
+"Buick Wildcat",
+12
+],
+[
+"Hyundai Custo",
+12
+],
+[
+"Geely KingKong",
+12
+],
+[
+"BYD D1",
+12
+],
+[
+"NIO ET7",
+12
+],
+[
+"Dacia Bigster",
+12
+],
+[
+"Volkswagen Talagon",
+12
+],
+[
+"Subaru Solterra",
+12
+],
+[
+"Mercedes-AMG R232",
+12
+],
+[
+"International Harvester Scout",
+12
+],
+[
+"Chrysler Aspen",
+12
+],
+[
+"Hyundai Stargazer",
+12
+],
+[
+"Li Auto L9",
+12
+],
+[
+"Chevrolet Corvette C1",
+12
+],
+[
+"Chevrolet Corvette C5",
+12
+],
+[
+"Pagani Utopia",
+12
+],
+[
+"Honda Prologue",
+12
+],
+[
+"Mercedes-Benz W639",
+12
+],
+[
+"Denza D9",
+12
+],
+[
+"SsangYong Istana",
+12
+],
+[
+"Daihatsu Esse",
+12
+],
+[
+"Daihatsu Pyzar",
+12
+],
+[
+"Daihatsu Leeza",
+12
+],
+[
+"Daihatsu Opti",
+12
+],
+[
+"Mazda CX-90",
+12
+],
+[
+"De Tomaso Longchamp",
+12
+],
+[
+"Xpeng G6",
+12
+],
+[
+"Tatra Phoenix",
+12
+],
+[
+"Haval H6",
+12
+],
+[
+"Toyota Crown Majesta",
+12
+],
+[
+"Cadillac Optiq",
+12
+],
+[
+"Volvo EM90",
+12
+],
+[
+"Ford Versailles Brazil",
+12
+],
+[
+"Toyota Gaia",
+12
+],
+[
+"MG 6",
+12
+],
+[
+"Mazda CX-80",
+12
+],
+[
+"Mercedes-Benz X 164",
+12
+],
+[
+"Smart #5",
+12
+],
+[
+"Jaguar XJ13",
+12
+],
+[
+"Mitsubishi RVR",
+12
+],
+[
+"Ferrari Modulo",
+12
+],
+[
+"Renault 5 Turbo",
+12
+],
+[
+"GMC Syclone",
+12
+],
+[
+"Volkswagen ID. Polo",
+12
+],
+[
+"ZIS-101",
+12
+],
+[
+"Fiat 1200",
+12
+],
+[
+"Fiat Marengo",
+12
+],
+[
+"Volkswagen SP2",
+12
+],
+[
+"Peugeot Type 2",
+12
+],
+[
+"Mercury Mountaineer",
+12
+],
+[
+"Ford Telstar",
+12
+],
+[
+"Alfa Romeo Nuvola",
+12
+],
+[
+"Toyota Avensis Verso",
+12
+],
+[
+"Mercury Lynx",
+12
+],
+[
+"Volkswagen Polo Mk4",
+12
+],
+[
+"Alfa Romeo P1",
+12
+],
+[
+"MG ZR",
+12
+],
+[
+"GMC Typhoon",
+12
+],
+[
+"Renault Monasix",
+12
+],
+[
+"Triumph TR4",
+12
+],
+[
+"Honda Avancier",
+12
+],
+[
+"Suzuki Twin",
+12
+],
+[
+"Proton Suprima S",
+12
+],
+[
+"Volkswagen Passat B8",
+12
+],
+[
+"Peugeot Type 81",
+12
+],
+[
+"Peugeot type 69",
+12
+],
+[
+"Peugeot Type 10",
+12
+],
+[
+"DS 5LS",
+12
+],
+[
+"Renault Monaquatre",
+12
+],
+[
+"Mercedes-Benz C217",
+12
+],
+[
+"Nissan Presage",
+12
+],
+[
+"Ford 999",
+12
+],
+[
+"Nissan Presea",
+12
+],
+[
+"Honda Mobilio",
+12
+],
+[
+"Honda S-MX",
+12
+],
+[
+"Honda S600",
+12
+],
+[
+"Honda T360",
+12
+],
+[
+"Mercedes-Benz V-Class",
+12
+],
+[
+"Mitsubishi Type 73 Light Truck",
+12
+],
+[
+"Fiat S76",
+12
+],
+[
+"Triumph TR7",
+12
+],
+[
+"Jaguar 420 and Daimler Sovereign",
+12
+],
+[
+"Jaguar XJ (X351)",
+12
+],
+[
+"Princess",
+12
+],
+[
+"Jeep Gladiator",
+12
+],
+[
+"Opel Laubfrosch",
+12
+],
+[
+"Mercedes-Benz W25",
+12
+],
+[
+"BMW Isetta",
+12
+],
+[
+"Rinspeed sQuba",
+12
+],
+[
+"Porsche 597",
+12
+],
+[
+"Toyota Granvia",
+12
+],
+[
+"Mitsubishi Sigma",
+12
+],
+[
+"Nissan Stagea",
+12
+],
+[
+"Volkswagen Passat B3",
+12
+],
+[
+"Tatra 10",
+12
+],
+[
+"Lancia Epsilon",
+12
+],
+[
+"Pontiac G5",
+12
+],
+[
+"Checker Marathon",
+12
+],
+[
+"Rolls-Royce V-8",
+12
+],
+[
+"Toyota Ist",
+12
+],
+[
+"Subaru FF-1 Star",
+12
+],
+[
+"Hyundai Aslan",
+12
+],
+[
+"Renault Colorale",
+12
+],
+[
+"Vespa 400",
+12
+],
+[
+"MG XPower SV",
+12
+],
+[
+"Volvo PV51",
+12
+],
+[
+"Mercedes-Benz R172",
+12
+],
+[
+"SEAT 132",
+12
+],
+[
+"Nissan Interstar",
+12
+],
+[
+"Porsche 910",
+12
+],
+[
+"Oldsmobile Cutlass Calais",
+12
+],
+[
+"Plymouth Gran Fury",
+12
+],
+[
+"Volkswagen Passat B5",
+12
+],
+[
+"BMW E84",
+12
+],
+[
+"Alpine A106",
+12
+],
+[
+"Toyota Brevis",
+12
+],
+[
+"Audi Cabriolet",
+12
+],
+[
+"Renault Alaskan",
+12
+],
+[
+"Proton Perdana",
+12
+],
+[
+"Aston Martin DB AR1",
+12
+],
+[
+"Renault Type MT",
+12
+],
+[
+"Honda RA272",
+12
+],
+[
+"BMW Z Models",
+12
+],
+[
+"BYD e5",
+12
+],
+[
+"Suzuki Baleno",
+12
+],
+[
+"Lotus 94T",
+12
+],
+[
+"Morgan Plus 8",
+12
+],
+[
+"SEAT Córdoba WRC",
+12
+],
+[
+"Suzuki Brezza",
+12
+],
+[
+"Volkswagen Type 2 (T2)",
+12
+],
+[
+"Hispano-Suiza H6",
+12
+],
+[
+"Fenyr SuperSport",
+12
+],
+[
+"Dongfeng CA71",
+12
+],
+[
+"Renault KJ",
+12
+],
+[
+"Lotus 95T",
+12
+],
+[
+"Lotus 91",
+12
+],
+[
+"Simca 8",
+12
+],
+[
+"Lotus 102",
+12
+],
+[
+"Hesketh 308E",
+12
+],
+[
+"Footwork FA16",
+12
+],
+[
+"Moskvitch 400-420",
+12
+],
+[
+"Fiat 147",
+12
+],
+[
+"Toyota RAV4 EV",
+12
+],
+[
+"Pacific PR01",
+12
+],
+[
+"Pacific PR02",
+12
+],
+[
+"Lotus 87",
+12
+],
+[
+"Lotus 101",
+12
+],
+[
+"Honda RA271",
+12
+],
+[
+"Ruf CTR",
+12
+],
+[
+"AC 2-Litre",
+12
+],
+[
+"Austin A40 Farina",
+12
+],
+[
+"Toyota Corolla E120",
+12
+],
+[
+"Scion xB",
+12
+],
+[
+"Fiat Viaggio",
+12
+],
+[
+"Lynk & Co 01",
+12
+],
+[
+"Alfa Romeo Giulia GT",
+12
+],
+[
+"Jeepster Commando",
+12
+],
+[
+"AMC Eagle",
+12
+],
+[
+"AMC Hornet",
+12
+],
+[
+"Chevrolet Tracker",
+12
+],
+[
+"AWZ P70",
+12
+],
+[
+"Dacia 1325",
+12
+],
+[
+"Hongqi CA770",
+12
+],
+[
+"Mercedes-Benz 540K",
+12
+],
+[
+"DS 3 Crossback",
+12
+],
+[
+"Citroën C5 X",
+12
+],
+[
+"GTA Spano",
+12
+],
+[
+"BMW 6 Series Gran Turismo",
+12
+],
+[
+"LuAZ-967",
+12
+],
+[
+"Rover Quintet",
+12
+],
+[
+"Chevrolet Camaro (third generation)",
+12
+],
+[
+"Th!nk City",
+12
+],
+[
+"Cadillac Calais",
+12
+],
+[
+"Autozam AZ-1",
+12
+],
+[
+"Škoda 1101/1102",
+12
+],
+[
+"Škoda 110 R",
+12
+],
+[
+"Chevrolet Deluxe",
+12
+],
+[
+"MG 5",
+12
+],
+[
+"GAZ-3102",
+12
+],
+[
+"Toyota Harrier",
+12
+],
+[
+"Suzuki Kei",
+12
+],
+[
+"Chery Tiggo 7",
+12
+],
+[
+"Nissan Terrano",
+12
+],
+[
+"1941 Ford",
+12
+],
+[
+"BYD Qin",
+12
+],
+[
+"Kia Spectra",
+12
+],
+[
+"Subaru Ascent",
+12
+],
+[
+"Bond Bug",
+12
+],
+[
+"Kia Shuma",
+12
+],
+[
+"Chevrolet Camaro (first generation)",
+12
+],
+[
+"Chevrolet Master",
+12
+],
+[
+"Mitsubishi Savrin",
+12
+],
+[
+"Toyota Corolla (E210)",
+12
+],
+[
+"Nio ES8",
+12
+],
+[
+"Kia KX7",
+12
+],
+[
+"Lynk & Co 03",
+12
+],
+[
+"DKW Munga",
+12
+],
+[
+"Hyundai Reina",
+12
+],
+[
+"Renault Celtaquatre",
+12
+],
+[
+"Peugeot 806",
+12
+],
+[
+"Borgward Hansa 1500",
+12
+],
+[
+"Rivian R1T",
+12
+],
+[
+"Ford Fairmont",
+12
+],
+[
+"Fiat 519",
+12
+],
+[
+"Fiat Ulysse",
+12
+],
+[
+"NIO ES6",
+12
+],
+[
+"Maserati Karif",
+12
+],
+[
+"BYD F3DM",
+12
+],
+[
+"Honda Life",
+12
+],
+[
+"Ford Consul Classic",
+12
+],
+[
+"Chevrolet Monza China",
+12
+],
+[
+"Proton Putra",
+12
+],
+[
+"Isuzu Bellett",
+12
+],
+[
+"Ford EXP",
+12
+],
+[
+"Buick Encore GX",
+12
+],
+[
+"Twike",
+12
+],
+[
+"Formula Vee",
+12
+],
+[
+"DKW F8",
+12
+],
+[
+"DKW F7",
+12
+],
+[
+"GAZ-3110",
+12
+],
+[
+"Ruf Rt 12",
+12
+],
+[
+"Shanghai SH760",
+12
+],
+[
+"Rolls-Royce 25/30",
+12
+],
+[
+"Audi 200",
+12
+],
+[
+"Audi 90",
+12
+],
+[
+"Ford Corcel",
+12
+],
+[
+"Opel Super 6",
+12
+],
+[
+"Hillman Imp",
+12
+],
+[
+"Austin Cambridge",
+12
+],
+[
+"Volkswagen Taigun",
+12
+],
+[
+"BMW 320",
+12
+],
+[
+"BYD F3",
+12
+],
+[
+"Bedford CA",
+12
+],
+[
+"Sony Vision-S",
+12
+],
+[
+"Bentley Speed 8",
+12
+],
+[
+"Dacia Logan III",
+12
+],
+[
+"Jeep Cherokee (XJ)",
+12
+],
+[
+"Honda FCX",
+12
+],
+[
+"Ineos Grenadier",
+12
+],
+[
+"Peugeot Landtrek",
+12
+],
+[
+"Chevrolet Menlo",
+12
+],
+[
+"Mercury Capri",
+12
+],
+[
+"Mercedes-Benz W187",
+12
+],
+[
+"Opel Astra F",
+12
+],
+[
+"Buick Centurion",
+12
+],
+[
+"Messerschmitt KR175",
+12
+],
+[
+"De Tomaso Deauville",
+12
+],
+[
+"Reliant Regal",
+12
+],
+[
+"Hudson Jet",
+12
+],
+[
+"Dodge Lancer",
+12
+],
+[
+"Nissan Prince Royal",
+12
+],
+[
+"Ferrari Mythos",
+12
+],
+[
+"Isuzu 117 Coupé",
+12
+],
+[
+"Suzuki Suzulight",
+12
+],
+[
+"Buick Invicta",
+11
+],
+[
+"Buick Somerset",
+11
+],
+[
+"Cadillac Model Thirty",
+11
+],
+[
+"Cadillac Series 60",
+11
+],
+[
+"Cadillac Series 70",
+11
+],
+[
+"Cadillac Type V-63",
+11
+],
+[
+"Panther De Ville",
+11
+],
+[
+"VinFast VF31",
+11
+],
+[
+"Chevrolet Bolt EUV",
+11
+],
+[
+"BYD Song Plus",
+11
+],
+[
+"Renault Express II",
+11
+],
+[
+"Mercedes-Benz 170S",
+11
+],
+[
+"Ford Mondeo Sport",
+11
+],
+[
+"Audi A6 e-tron",
+11
+],
+[
+"Chery QQ6",
+11
+],
+[
+"Chery V5",
+11
+],
+[
+"Chevrolet Lumina APV",
+11
+],
+[
+"Chevrolet Opala",
+11
+],
+[
+"IKCO Dena",
+11
+],
+[
+"Dodge Neon",
+11
+],
+[
+"Chrysler TC by Maserati",
+11
+],
+[
+"Rover CityRover",
+11
+],
+[
+"Lincoln Zephyr",
+11
+],
+[
+"Lexus RZ",
+11
+],
+[
+"BYD Destroyer 05",
+11
+],
+[
+"Toyota GR Corolla",
+11
+],
+[
+"AITO M5",
+11
+],
+[
+"Rolls-Royce 30 hp",
+11
+],
+[
+"Monteverdi Hai 450",
+11
+],
+[
+"Honda Amaze",
+11
+],
+[
+"McLaren Solus GT",
+11
+],
+[
+"Volkswagen Passat B7",
+11
+],
+[
+"Toyota bZ3",
+11
+],
+[
+"Dodge Charger (2024)",
+11
+],
+[
+"DKW F1",
+11
+],
+[
+"Daihatsu Bee",
+11
+],
+[
+"Daihatsu Consorte",
+11
+],
+[
+"Daihatsu Naked",
+11
+],
+[
+"Daimler DS420",
+11
+],
+[
+"BMW 5 Series (G60)",
+11
+],
+[
+"Mitsubishi Xforce",
+11
+],
+[
+"Hyundai Exter",
+11
+],
+[
+"Ram Rampage",
+11
+],
+[
+"Toyota Ipsum",
+11
+],
+[
+"Izh 2126",
+11
+],
+[
+"Leapmotor C10",
+11
+],
+[
+"Dodge B Series",
+11
+],
+[
+"Dodge Charger Daytona",
+11
+],
+[
+"Li Mega",
+11
+],
+[
+"Citroën FAF",
+11
+],
+[
+"Kia Tasman",
+11
+],
+[
+"BYD Shark",
+11
+],
+[
+"Nissan R'nessa",
+11
+],
+[
+"NSU Typ 110",
+11
+],
+[
+"Isuzu Aska",
+11
+],
+[
+"Zeekr 7X",
+11
+],
+[
+"Plymouth Acclaim",
+11
+],
+[
+"Suzuki e Vitara",
+11
+],
+[
+"DS No. 8",
+11
+],
+[
+"Fiat Mephistopheles",
+11
+],
+[
+"Toyota C-HR+",
+11
+],
+[
+"Reliant Robin",
+11
+],
+[
+"Audi 920",
+11
+],
+[
+"Lincoln L-Series",
+11
+],
+[
+"Ferrari 166",
+11
+],
+[
+"Mercedes-Benz W163",
+11
+],
+[
+"A.L.F.A. 40/60 GP",
+11
+],
+[
+"Tatra 11",
+11
+],
+[
+"Ford Comète",
+11
+],
+[
+"Ford Mainline",
+11
+],
+[
+"Mitsubishi Dion",
+11
+],
+[
+"Porsche 934",
+11
+],
+[
+"Dodge Attitude",
+11
+],
+[
+"Alpine GTA",
+11
+],
+[
+"Toyota Picnic",
+11
+],
+[
+"SEAT 127",
+11
+],
+[
+"Isuzu Oasis",
+11
+],
+[
+"Nissan R390 GT1",
+11
+],
+[
+"Plymouth Reliant",
+11
+],
+[
+"Tatra V570",
+11
+],
+[
+"GMC Yukon",
+11
+],
+[
+"Saturn L-Series",
+11
+],
+[
+"Tata Xenon",
+11
+],
+[
+"Nissan Pino",
+11
+],
+[
+"Peugeot Type 125",
+11
+],
+[
+"Peugeot Type 163",
+11
+],
+[
+"Triumph Toledo",
+11
+],
+[
+"Toyota Progrès",
+11
+],
+[
+"Rolls-Royce 15 hp",
+11
+],
+[
+"Izh Comby",
+11
+],
+[
+"Toyota T100",
+11
+],
+[
+"Tata Winger",
+11
+],
+[
+"Audi S1",
+11
+],
+[
+"Roewe 550",
+11
+],
+[
+"JAC J5",
+11
+],
+[
+"JAC Yueyue",
+11
+],
+[
+"Kaiser Darrin",
+11
+],
+[
+"Holden Ute",
+11
+],
+[
+"Honda Elysion",
+11
+],
+[
+"Honda Vamos",
+11
+],
+[
+"LDV Maxus",
+11
+],
+[
+"Mazda Chantez",
+11
+],
+[
+"Mercedes-Benz F700",
+11
+],
+[
+"Honda Crider",
+11
+],
+[
+"Infiniti J30",
+11
+],
+[
+"Innocenti Mini",
+11
+],
+[
+"Izh 2715",
+11
+],
+[
+"Jensen CV8",
+11
+],
+[
+"Maserati Alfieri",
+11
+],
+[
+"Mercury Comet",
+11
+],
+[
+"Matra 530",
+11
+],
+[
+"Mercedes-Benz W169",
+11
+],
+[
+"Honda Jade",
+11
+],
+[
+"Toyota Opa",
+11
+],
+[
+"Proton P2-30A",
+11
+],
+[
+"Suzuki Hustler",
+11
+],
+[
+"MG 350",
+11
+],
+[
+"Cadillac Cien",
+11
+],
+[
+"Mercedes-Benz W638",
+11
+],
+[
+"Mitsubishi Minica",
+11
+],
+[
+"Mitsubishi Raider",
+11
+],
+[
+"Lancia Y",
+11
+],
+[
+"Mercedes-Benz W154",
+11
+],
+[
+"Rover P4",
+11
+],
+[
+"Volkswagen Passat B4",
+11
+],
+[
+"Type 95",
+11
+],
+[
+"Mercedes-Benz W15",
+11
+],
+[
+"Triumph TR2",
+11
+],
+[
+"Triumph TR3",
+11
+],
+[
+"Abarth 1500 Biposto",
+11
+],
+[
+"Dodge Omni 024",
+11
+],
+[
+"La Marquise",
+11
+],
+[
+"Lada 112",
+11
+],
+[
+"Lancia Beta-15/20HP",
+11
+],
+[
+"BMW 315",
+11
+],
+[
+"Mercury Villager",
+11
+],
+[
+"Lexus IS F",
+11
+],
+[
+"TVR Chimaera",
+11
+],
+[
+"Toyota Verossa",
+11
+],
+[
+"Toyota Cami",
+11
+],
+[
+"Lincoln Capri",
+11
+],
+[
+"BMW X6 (E71)",
+11
+],
+[
+"Rolls-Royce Phantom Drophead Coupé",
+11
+],
+[
+"Mazda Grand Familia",
+11
+],
+[
+"Leyland P76",
+11
+],
+[
+"Ligier JS2",
+11
+],
+[
+"Lincoln Cosmopolitan",
+11
+],
+[
+"Jeep Liberty",
+11
+],
+[
+"Mitsubishi Pistachio",
+11
+],
+[
+"Matra Djet",
+11
+],
+[
+"Mazda RX-3",
+11
+],
+[
+"Nissan Sileighty",
+11
+],
+[
+"Buick Skyhawk",
+11
+],
+[
+"Peugeot J5",
+11
+],
+[
+"Bentley 6½ Litre",
+11
+],
+[
+"Ferrari 375 MM",
+11
+],
+[
+"SEAT 128",
+11
+],
+[
+"Volvo XC70",
+11
+],
+[
+"Ultima GTR",
+11
+],
+[
+"Oldsmobile Cutlass Supreme",
+11
+],
+[
+"Triumph 1300",
+11
+],
+[
+"Mitsubishi Dignity",
+11
+],
+[
+"Ford Verona",
+11
+],
+[
+"Toyota Vista",
+11
+],
+[
+"Opel Astra J",
+11
+],
+[
+"Volkswagen Lamando",
+11
+],
+[
+"Škoda Praktik",
+11
+],
+[
+"Volvo C303",
+11
+],
+[
+"Audi RS3",
+11
+],
+[
+"Spyker D8",
+11
+],
+[
+"Chery A1",
+11
+],
+[
+"microvan",
+11
+],
+[
+"HTT Pléthore",
+11
+],
+[
+"SHERP",
+11
+],
+[
+"BMW 321",
+11
+],
+[
+"Bentley 4 Litre",
+11
+],
+[
+"Toyota concept vehicles, 2000–2009#A-BAT",
+11
+],
+[
+"Subaru Trezia",
+11
+],
+[
+"Volvo 940",
+11
+],
+[
+"Tata Tiago",
+11
+],
+[
+"Rolls-Royce Phantom Coupé",
+11
+],
+[
+"Toyota Celica GT-Four",
+11
+],
+[
+"Acura TSX",
+11
+],
+[
+"ZAZ-965",
+11
+],
+[
+"Dodge SRT-4",
+11
+],
+[
+"Spyker C12 Zagato",
+11
+],
+[
+"Hongqi CA72",
+11
+],
+[
+"Volkswagen Jetta V",
+11
+],
+[
+"SCG 003",
+11
+],
+[
+"Delahaye Type 135",
+11
+],
+[
+"Lotus 93T",
+11
+],
+[
+"Footwork FA14",
+11
+],
+[
+"Acura CL",
+11
+],
+[
+"Lancia Megagamma",
+11
+],
+[
+"Caterham 7",
+11
+],
+[
+"Aston Martin DB Mark III",
+11
+],
+[
+"Volkswagen Polo Mk1",
+11
+],
+[
+"Jaguar XJ (XJ40)",
+11
+],
+[
+"Proton Juara",
+11
+],
+[
+"Austin Atlantic",
+11
+],
+[
+"AC 3000ME",
+11
+],
+[
+"AC Greyhound",
+11
+],
+[
+"Audi A4 B8",
+11
+],
+[
+"Renault Taxi de la Marne",
+11
+],
+[
+"AMC Ambassador",
+11
+],
+[
+"Chevrolet Celta",
+11
+],
+[
+"Citroën C-Élysée",
+11
+],
+[
+"Moskvitch 410",
+11
+],
+[
+"Dodge Ram SRT-10",
+11
+],
+[
+"Perodua Kenari",
+11
+],
+[
+"Mowag Duro",
+11
+],
+[
+"Suzuki Palette",
+11
+],
+[
+"Honda Airwave",
+11
+],
+[
+"Peugeot J9",
+11
+],
+[
+"Nissan 240SX",
+11
+],
+[
+"Datsun 510",
+11
+],
+[
+"Tarpan Honker",
+11
+],
+[
+"Toyota Corolla E140",
+11
+],
+[
+"Duesenberg Model J",
+11
+],
+[
+"Nissan Violet",
+11
+],
+[
+"Austin A40 Somerset",
+11
+],
+[
+"Austin A40 Sports",
+11
+],
+[
+"Mercedes-Benz SLC-Class",
+11
+],
+[
+"Pontiac 6000",
+11
+],
+[
+"BMW 340",
+11
+],
+[
+"Peugeot iOn",
+11
+],
+[
+"Vauxhall Firenza",
+11
+],
+[
+"Tatra 810",
+11
+],
+[
+"Škoda Rapid (India)",
+11
+],
+[
+"Chevrolet Cobalt SS",
+11
+],
+[
+"Kia Avella",
+11
+],
+[
+"Larrousse LH93",
+11
+],
+[
+"Morgan 3-Wheeler",
+11
+],
+[
+"Toyota Corolla Spacio",
+11
+],
+[
+"GAZ-14 Chaika",
+11
+],
+[
+"Rolls-Royce Sweptail",
+11
+],
+[
+"ARO 24 Series",
+11
+],
+[
+"Chery Tiggo 5x",
+11
+],
+[
+"Honda Shuttle",
+11
+],
+[
+"Isdera Commendatore 112i",
+11
+],
+[
+"1937 Ford",
+11
+],
+[
+"1955 Ford",
+11
+],
+[
+"Volkswagen Polo Mk2",
+11
+],
+[
+"Ford Model AA",
+11
+],
+[
+"DKW Junior",
+11
+],
+[
+"BYD S6",
+11
+],
+[
+"Kia Besta",
+11
+],
+[
+"SEAT 124",
+11
+],
+[
+"Kia Enterprise",
+11
+],
+[
+"BYD Yuan",
+11
+],
+[
+"Buick GL6",
+11
+],
+[
+"Citroën Type B2",
+11
+],
+[
+"Blue Flame",
+11
+],
+[
+"Lancia LC2",
+11
+],
+[
+"Oldsmobile Cutlass Ciera",
+11
+],
+[
+"Ford Territory",
+11
+],
+[
+"BMW M8",
+11
+],
+[
+"SEAT Panda",
+11
+],
+[
+"BMW 327",
+11
+],
+[
+"Rivian R1S",
+11
+],
+[
+"Simca Ariane",
+11
+],
+[
+"Oldsmobile Starfire",
+11
+],
+[
+"Hyundai Lafesta",
+11
+],
+[
+"Jeep Cherokee (KL)",
+11
+],
+[
+"Changan CS85",
+11
+],
+[
+"Hyundai Grace",
+11
+],
+[
+"Mercedes-Benz X167",
+11
+],
+[
+"Isuzu Fargo",
+11
+],
+[
+"Peugeot Type 176",
+11
+],
+[
+"Opel 1.2 litre",
+11
+],
+[
+"Tatra 75",
+11
+],
+[
+"Formula Palmer Audi",
+11
+],
+[
+"Aiways U5",
+11
+],
+[
+"Toyota Passo",
+11
+],
+[
+"Lifan X60",
+11
+],
+[
+"Land Rover Defender L663",
+11
+],
+[
+"Maruti Gypsy",
+11
+],
+[
+"DKW Monza",
+11
+],
+[
+"Austin Westminster",
+11
+],
+[
+"Morgan +4",
+11
+],
+[
+"Pegaso Z-102",
+11
+],
+[
+"Ford Köln",
+11
+],
+[
+"Audi S5",
+11
+],
+[
+"Honda S360",
+11
+],
+[
+"Mercury Marauder",
+11
+],
+[
+"Morris Oxford",
+11
+],
+[
+"Ferrari 212 Export",
+11
+],
+[
+"Barkas B1000",
+11
+],
+[
+"BMW 303",
+11
+],
+[
+"BMW Turbo",
+11
+],
+[
+"Baojun 630",
+11
+],
+[
+"Mercury Tracer",
+11
+],
+[
+"Cadillac Sixty Special",
+11
+],
+[
+"Besturn B50",
+11
+],
+[
+"Buick Velite 6",
+11
+],
+[
+"BYD e2",
+11
+],
+[
+"Bizzarrini Strada",
+11
+],
+[
+"Melkus RS 1000",
+11
+],
+[
+"Bond Minicar",
+11
+],
+[
+"Peugeot Type 8",
+11
+],
+[
+"Bristol 407",
+11
+],
+[
+"Bristol 412",
+11
+],
+[
+"Honda Crosstour",
+11
+],
+[
+"Guardium",
+11
+],
+[
+"Ferrari 412 T2",
+11
+],
+[
+"Toyota Classic",
+11
+],
+[
+"Fisker Ocean",
+11
+],
+[
+"Isuzu VehiCROSS",
+11
+],
+[
+"Ora Good Cat",
+11
+],
+[
+"Leapmotor T03",
+11
+],
+[
+"Buick Estate",
+10
+],
+[
+"Buick Limited",
+10
+],
+[
+"Tank 300",
+10
+],
+[
+"Cadillac Runabout and Tonneau",
+10
+],
+[
+"Leapmotor C11",
+10
+],
+[
+"Hongqi E-HS9",
+10
+],
+[
+"IM L7",
+10
+],
+[
+"Chevrolet Fleetmaster",
+10
+],
+[
+"Chevrolet LUV",
+10
+],
+[
+"MG One",
+10
+],
+[
+"Volkswagen ID.5",
+10
+],
+[
+"Mahindra XUV700",
+10
+],
+[
+"Changan UNI-V",
+10
+],
+[
+"Tank 500",
+10
+],
+[
+"Chrysler Imperial Parade Phaeton",
+10
+],
+[
+"Chrysler Sigma",
+10
+],
+[
+"Avatr 11",
+10
+],
+[
+"Audi Q5 e-tron",
+10
+],
+[
+"Chevrolet Equinox EV",
+10
+],
+[
+"Toyota GR GT",
+10
+],
+[
+"AITO M7",
+10
+],
+[
+"Daihatsu Xenia",
+10
+],
+[
+"Nissan Sakura",
+10
+],
+[
+"Chrysler Town and Country (pre-1990)",
+10
+],
+[
+"Ferrari Monza",
+10
+],
+[
+"Chevrolet Corvette C2",
+10
+],
+[
+"Buick Envista",
+10
+],
+[
+"Shadow DN8",
+10
+],
+[
+"Hispano-Suiza J12",
+10
+],
+[
+"Zeekr 009",
+10
+],
+[
+"Polestar 5",
+10
+],
+[
+"Mercedes 24/100/140 PS",
+10
+],
+[
+"Wuling Bingo",
+10
+],
+[
+"Mercedes-Benz W214",
+10
+],
+[
+"Datsun Sports",
+10
+],
+[
+"Cadillac GT4",
+10
+],
+[
+"Volkswagen Pointer",
+10
+],
+[
+"JAC Tongyue",
+10
+],
+[
+"Dodge Custom 880",
+10
+],
+[
+"Dodge C Series",
+10
+],
+[
+"Dodge Custom",
+10
+],
+[
+"Dodge Matador",
+10
+],
+[
+"Dodge Meadowbrook",
+10
+],
+[
+"Dodge Rampage",
+10
+],
+[
+"Zeekr 007",
+10
+],
+[
+"AITO M9",
+10
+],
+[
+"Opel Grandland X",
+10
+],
+[
+"Mini Aceman",
+10
+],
+[
+"BYD Seal 06 DM-i",
+10
+],
+[
+"Peugeot Type 156",
+10
+],
+[
+"VAZ-21099",
+10
+],
+[
+"Red Bull RB17",
+10
+],
+[
+"Renault Twingo E-Tech",
+10
+],
+[
+"Rambler Marlin",
+10
+],
+[
+"Hudson Commodore",
+10
+],
+[
+"Kia PV5",
+10
+],
+[
+"Vector W8",
+10
+],
+[
+"Plymouth Breeze",
+10
+],
+[
+"BYD Xia",
+10
+],
+[
+"Alpine A390",
+10
+],
+[
+"Nissan Bassara",
+10
+],
+[
+"Lister Storm",
+10
+],
+[
+"Toyota Succeed",
+10
+],
+[
+"Opel Astra G",
+10
+],
+[
+"Mazda CX-6e",
+10
+],
+[
+"Piaggio Porter",
+10
+],
+[
+"Renault Filante",
+10
+],
+[
+"Peugeot Type 6",
+10
+],
+[
+"Renault Primaquatre",
+10
+],
+[
+"Mahindra XUV500",
+10
+],
+[
+"Volvo 262C",
+10
+],
+[
+"Honda FCX Clarity",
+10
+],
+[
+"Lincoln Mark series",
+10
+],
+[
+"Ford 7W",
+10
+],
+[
+"Daimler SP250",
+10
+],
+[
+"Ford Crown Victoria Police Interceptor",
+10
+],
+[
+"Oldsmobile Firenza",
+10
+],
+[
+"Mosler MT900",
+10
+],
+[
+"Honda Civic (eighth generation)",
+10
+],
+[
+"Pontiac Star Chief",
+10
+],
+[
+"Renault Reinastella",
+10
+],
+[
+"Audi Type C",
+10
+],
+[
+"Holden Apollo",
+10
+],
+[
+"Nissan Pintara",
+10
+],
+[
+"Pontiac Phoenix",
+10
+],
+[
+"Honda Civic (fifth generation)",
+10
+],
+[
+"Glas 1700",
+10
+],
+[
+"Glas 1004",
+10
+],
+[
+"Glas GT",
+10
+],
+[
+"Nissan Hypermini",
+10
+],
+[
+"Oldsmobile Custom Cruiser",
+10
+],
+[
+"Sunbeam Tiger",
+10
+],
+[
+"Peugeot Type 56",
+10
+],
+[
+"Peugeot Type 183",
+10
+],
+[
+"Holden Commodore (VE)",
+10
+],
+[
+"Wolseley 4/44",
+10
+],
+[
+"TVR Tasmin",
+10
+],
+[
+"Tata Sierra",
+10
+],
+[
+"Monteverdi Safari",
+10
+],
+[
+"Ferrari 412 T1",
+10
+],
+[
+"Monteverdi High Speed",
+10
+],
+[
+"Renault 40CV",
+10
+],
+[
+"Audi RS7",
+10
+],
+[
+"Honda Civic (sixth generation)",
+10
+],
+[
+"Mitsubishi Diamante",
+10
+],
+[
+"Leyton House CG901",
+10
+],
+[
+"Isuzu Florian",
+10
+],
+[
+"Jaguar XJ (X350)",
+10
+],
+[
+"Hyundai Xcent",
+10
+],
+[
+"BMW 335",
+10
+],
+[
+"Volkswagen Citi Golf",
+10
+],
+[
+"GAZon NEXT",
+10
+],
+[
+"KRAZ Cougar",
+10
+],
+[
+"Volkswagen e-Golf",
+10
+],
+[
+"T-98 Kombat",
+10
+],
+[
+"Lincoln Versailles",
+10
+],
+[
+"Isuzu Bellel",
+10
+],
+[
+"Bertone Genesis",
+10
+],
+[
+"BMW X6 (F16)",
+10
+],
+[
+"Perodua Axia",
+10
+],
+[
+"Plymouth Satellite",
+10
+],
+[
+"Triumph Stag",
+10
+],
+[
+"Tata Bolt",
+10
+],
+[
+"Wolseley 6/90",
+10
+],
+[
+"Anadol",
+10
+],
+[
+"Nissan Lafesta",
+10
+],
+[
+"Reliant Scimitar",
+10
+],
+[
+"Lincoln Futura",
+10
+],
+[
+"Mercedes-Benz W176",
+10
+],
+[
+"Mercedes-Benz W246",
+10
+],
+[
+"Mercury Mystique",
+10
+],
+[
+"Volvo 760",
+10
+],
+[
+"Pontiac Catalina",
+10
+],
+[
+"Nash-Healey",
+10
+],
+[
+"Nash Metropolitan",
+10
+],
+[
+"Lada 21099",
+10
+],
+[
+"Jiefang CA-30",
+10
+],
+[
+"Perodua Kelisa",
+10
+],
+[
+"Aston Martin V8 Vantage",
+10
+],
+[
+"Opel 4/8 PS",
+10
+],
+[
+"Opel Campo",
+10
+],
+[
+"Opel Regent",
+10
+],
+[
+"Opel (Olympia) Rekord P1",
+10
+],
+[
+"Škoda Fabia R5",
+10
+],
+[
+"Austin Sheerline",
+10
+],
+[
+"Toyota SA",
+10
+],
+[
+"ZIS-115",
+10
+],
+[
+"Bentley Eight",
+10
+],
+[
+"Pontiac Chieftain",
+10
+],
+[
+"Lifan 620",
+10
+],
+[
+"Porsche Carrera",
+10
+],
+[
+"Opel Astra K",
+10
+],
+[
+"Peugeot Type 105",
+10
+],
+[
+"Morgan Roadster",
+10
+],
+[
+"ZIL-29061",
+10
+],
+[
+"Suzuki Samurai",
+10
+],
+[
+"Honda RA300",
+10
+],
+[
+"Alfa Romeo Tipo 33",
+10
+],
+[
+"GAZ-3105",
+10
+],
+[
+"ZIL-117",
+10
+],
+[
+"Dodge Town Panel",
+10
+],
+[
+"Shelby Series 1",
+10
+],
+[
+"Acura CDX",
+10
+],
+[
+"DS 4S",
+10
+],
+[
+"Panoz Abruzzi",
+10
+],
+[
+"Honda RA273",
+10
+],
+[
+"Volkswagen Apollo",
+10
+],
+[
+"Ford Bantam",
+10
+],
+[
+"Vauxhall Viva",
+10
+],
+[
+"Simca 5",
+10
+],
+[
+"Footwork FA13",
+10
+],
+[
+"Abarth 124 Spider",
+10
+],
+[
+"March 881",
+10
+],
+[
+"Henney Kilowatt",
+10
+],
+[
+"Moskvich 2142",
+10
+],
+[
+"Vauxhall Cresta",
+10
+],
+[
+"Footwork FA15",
+10
+],
+[
+"Nissan NV400",
+10
+],
+[
+"Volvo PV650 Series",
+10
+],
+[
+"Fiat Panorama",
+10
+],
+[
+"Porsche WSC-95",
+10
+],
+[
+"Fiat 28-40 HP",
+10
+],
+[
+"Fiat Tipo 3",
+10
+],
+[
+"Yamaha OX99-11",
+10
+],
+[
+"Lancia Dialfa",
+10
+],
+[
+"Trumpchi GS5",
+10
+],
+[
+"Haval H7",
+10
+],
+[
+"Changan CS75",
+10
+],
+[
+"Chery Arrizo 3",
+10
+],
+[
+"Acura CSX",
+10
+],
+[
+"Volkswagen Jetta II",
+10
+],
+[
+"Alfa Romeo 2300",
+10
+],
+[
+"Ford Explorer Sport Trac",
+10
+],
+[
+"AC Frua",
+10
+],
+[
+"AIL M-462 Abir",
+10
+],
+[
+"AMC Concord",
+10
+],
+[
+"Hillman Minx",
+10
+],
+[
+"Ruf CTR3",
+10
+],
+[
+"Honda Orthia",
+10
+],
+[
+"Dacia 1320",
+10
+],
+[
+"Daihatsu Tanto Exe",
+10
+],
+[
+"Volkswagen Polo VI",
+10
+],
+[
+"Perodua Myvi",
+10
+],
+[
+"Morgan 4/4",
+10
+],
+[
+"Hyundai Celesta",
+10
+],
+[
+"Mazda Lantis",
+10
+],
+[
+"Perodua Kancil",
+10
+],
+[
+"Proton Inspira",
+10
+],
+[
+"Autozam Revue",
+10
+],
+[
+"SEAT 850",
+10
+],
+[
+"Smart electric drive",
+10
+],
+[
+"Standard Vanguard",
+10
+],
+[
+"Mitsubishi Xpander",
+10
+],
+[
+"Shadow DN5",
+10
+],
+[
+"Abarth Simca 2000",
+10
+],
+[
+"KIM-10",
+10
+],
+[
+"Sunbeam 1000 hp",
+10
+],
+[
+"Toyota Vellfire",
+10
+],
+[
+"Mini Coupé and Roadster",
+10
+],
+[
+"Peugeot 5CV",
+10
+],
+[
+"Škoda Popular",
+10
+],
+[
+"BRM 15",
+10
+],
+[
+"Ford Del Rio",
+10
+],
+[
+"Hyundai Solaris",
+10
+],
+[
+"Lagonda 3-Litre",
+10
+],
+[
+"Sono Sion",
+10
+],
+[
+"Panhard 24",
+10
+],
+[
+"Honda Rafaga",
+10
+],
+[
+"Plymouth Laser",
+10
+],
+[
+"Mercedes-Benz C257",
+10
+],
+[
+"Mercedes-Benz W168",
+10
+],
+[
+"Tata Nexon",
+10
+],
+[
+"Asia Rocsta",
+10
+],
+[
+"AC Petite",
+10
+],
+[
+"Rambler Classic",
+10
+],
+[
+"Mercedes-Benz W177",
+10
+],
+[
+"Iso Lele",
+10
+],
+[
+"Hyundai Libero",
+10
+],
+[
+"Nissan Terra",
+10
+],
+[
+"BMW X4 (F26)",
+10
+],
+[
+"Mitsubishi Galant VR-4",
+10
+],
+[
+"Chevrolet Camaro (second generation)",
+10
+],
+[
+"Peugeot Type 16",
+10
+],
+[
+"Oldsmobile Vista Cruiser",
+10
+],
+[
+"Range Rover (1st generation)",
+10
+],
+[
+"Dodge Charger B-body",
+10
+],
+[
+"Mercedes-Benz W166",
+10
+],
+[
+"Jeep Grand Commander",
+10
+],
+[
+"Maybach Zeppelin",
+10
+],
+[
+"Ford Mustang V",
+10
+],
+[
+"Ford P100",
+10
+],
+[
+"Ford Ranger T6",
+10
+],
+[
+"Geo Metro",
+10
+],
+[
+"Roewe Marvel X",
+10
+],
+[
+"Baojun 530",
+10
+],
+[
+"Changan CS95",
+10
+],
+[
+"Changan CS55",
+10
+],
+[
+"Ford Territory (China)",
+10
+],
+[
+"Volkswagen Taos",
+10
+],
+[
+"TVR Vixen",
+10
+],
+[
+"Pontiac Sunbird",
+10
+],
+[
+"Honda N-One",
+10
+],
+[
+"Proton Prevé",
+10
+],
+[
+"Riley RM",
+10
+],
+[
+"Jensen GT",
+10
+],
+[
+"Baojun E200",
+10
+],
+[
+"Rolls-Royce 20 hp",
+10
+],
+[
+"Bestune T77",
+10
+],
+[
+"Pontiac Parisienne",
+10
+],
+[
+"Mahindra XUV300",
+10
+],
+[
+"Jeep Cherokee",
+10
+],
+[
+"Mercedes-Benz CLC-Class",
+10
+],
+[
+"Oldsmobile Omega",
+10
+],
+[
+"Geely Binyue",
+10
+],
+[
+"Daewoo Prince",
+10
+],
+[
+"Morgan Plus Six",
+10
+],
+[
+"Maserati Tipo 61",
+10
+],
+[
+"Steyr 120",
+10
+],
+[
+"Hispano-Suiza Carmen",
+10
+],
+[
+"Tatra 26",
+10
+],
+[
+"Great Wall Safe",
+10
+],
+[
+"De Tomaso P72",
+10
+],
+[
+"Tata Altroz",
+10
+],
+[
+"XPeng P7",
+10
+],
+[
+"XPeng G3",
+10
+],
+[
+"Kia XCeed",
+10
+],
+[
+"Škoda Kamiq (China)",
+10
+],
+[
+"Glas Isar",
+10
+],
+[
+"SS 90",
+10
+],
+[
+"Qvale Mangusta",
+10
+],
+[
+"Cadillac Type 51",
+10
+],
+[
+"Iso Rivolta IR 300",
+10
+],
+[
+"Artega GT",
+10
+],
+[
+"Mercedes-Benz W153",
+10
+],
+[
+"DeSoto Adventurer",
+10
+],
+[
+"Fiat Elba",
+10
+],
+[
+"Aston Martin V12 Zagato",
+10
+],
+[
+"TVR T350",
+10
+],
+[
+"Audi A6 C7",
+10
+],
+[
+"Mercury Montego",
+10
+],
+[
+"Peugeot Type 15",
+10
+],
+[
+"Honda Ascot",
+10
+],
+[
+"Suzuki Fronte 800",
+10
+],
+[
+"Tata Aria",
+10
+],
+[
+"Tata Sumo Grande",
+10
+],
+[
+"Volkswagen Viloran",
+10
+],
+[
+"Peugeot Type 36",
+10
+],
+[
+"Austin 10",
+10
+],
+[
+"Austin A35",
+10
+],
+[
+"Austin Gipsy",
+10
+],
+[
+"Daihatsu Ayla",
+10
+],
+[
+"Autozam Scrum",
+10
+],
+[
+"Lynk & Co 05",
+10
+],
+[
+"BMW 319",
+10
+],
+[
+"BYD G3",
+10
+],
+[
+"Honda Civic Si",
+10
+],
+[
+"Opel K-180",
+10
+],
+[
+"Cadillac Series 65",
+10
+],
+[
+"Peugeot Bipper",
+10
+],
+[
+"FAW Besturn B70",
+10
+],
+[
+"Plymouth Voyager",
+10
+],
+[
+"Datsun Truck",
+10
+],
+[
+"Toyota Origin",
+10
+],
+[
+"Toyota C+pod",
+10
+],
+[
+"Pontiac Grand Ville",
+10
+],
+[
+"Bluebird-Proteus CN7",
+10
+],
+[
+"Borgward P100",
+10
+],
+[
+"Buick Apollo",
+10
+],
+[
+"Peugeot Type 26",
+10
+],
+[
+"Geely Icon",
+10
+],
+[
+"Peugeot Type 177",
+10
+],
+[
+"Peugeot Type 159",
+10
+],
+[
+"Brilliance BS4",
+10
+],
+[
+"Brilliance BS6",
+10
+],
+[
+"Bristol 408",
+10
+],
+[
+"Changan UNI-T",
+10
+],
+[
+"Toyota Corolla E110",
+10
+],
+[
+"Honda L700",
+10
+],
+[
+"Wolseley 6/99",
+10
+],
+[
+"Chevrolet Chevy Argentina",
+10
+],
+[
+"Proton Arena",
+10
+],
+[
+"Toyota Stout",
+10
+],
+[
+"Leopard 6 Litre Roadster",
+10
+],
+[
+"Suzuki Across",
+10
+],
+[
+"Honda Ballade",
+10
+],
+[
+"Hongqi H9",
+10
+],
+[
+"Suzuki Swace",
+10
+],
+[
+"Renault 30",
+10
+]
+]

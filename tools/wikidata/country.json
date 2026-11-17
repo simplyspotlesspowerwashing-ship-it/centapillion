@@ -76,15 +76,15 @@
 390
 ],
 [
-"Switzerland",
-387
-],
-[
 "Brazil",
 387
 ],
 [
 "Albania",
+387
+],
+[
+"Switzerland",
 387
 ],
 [
@@ -97,7 +97,7 @@
 ],
 [
 "Israel",
-380
+379
 ],
 [
 "Greece",
@@ -112,11 +112,11 @@
 374
 ],
 [
-"Argentina",
+"Austria",
 372
 ],
 [
-"Austria",
+"Argentina",
 372
 ],
 [
@@ -184,11 +184,11 @@
 356
 ],
 [
-"Armenia",
+"Czech Republic",
 355
 ],
 [
-"Czech Republic",
+"Armenia",
 355
 ],
 [
@@ -196,15 +196,15 @@
 354
 ],
 [
+"Lithuania",
+352
+],
+[
 "Serbia",
 352
 ],
 [
 "New Zealand",
-352
-],
-[
-"Lithuania",
 352
 ],
 [
@@ -224,15 +224,15 @@
 350
 ],
 [
+"Nigeria",
+349
+],
+[
 "Romania",
 349
 ],
 [
 "Bangladesh",
-349
-],
-[
-"Nigeria",
 349
 ],
 [
@@ -244,11 +244,11 @@
 347
 ],
 [
-"Ireland",
+"Vatican City",
 343
 ],
 [
-"Vatican City",
+"Ireland",
 343
 ],
 [
@@ -276,19 +276,7 @@
 336
 ],
 [
-"Luxembourg",
-335
-],
-[
-"Democratic Republic of the Congo",
-335
-],
-[
 "Morocco",
-335
-],
-[
-"Philippines",
 335
 ],
 [
@@ -296,8 +284,24 @@
 335
 ],
 [
+"Luxembourg",
+335
+],
+[
+"Philippines",
+335
+],
+[
+"Democratic Republic of the Congo",
+335
+],
+[
 "Libya",
 334
+],
+[
+"Andorra",
+333
 ],
 [
 "Singapore",
@@ -308,15 +312,11 @@
 333
 ],
 [
-"Andorra",
-333
-],
-[
-"Cambodia",
+"Slovenia",
 332
 ],
 [
-"Slovenia",
+"Cambodia",
 332
 ],
 [
@@ -344,11 +344,11 @@
 327
 ],
 [
-"Ghana",
+"Somalia",
 326
 ],
 [
-"Somalia",
+"Ghana",
 326
 ],
 [
@@ -360,11 +360,11 @@
 325
 ],
 [
-"Mongolia",
+"Montenegro",
 323
 ],
 [
-"Montenegro",
+"Mongolia",
 323
 ],
 [
@@ -376,11 +376,11 @@
 322
 ],
 [
-"Kyrgyzstan",
+"Madagascar",
 321
 ],
 [
-"Madagascar",
+"Kyrgyzstan",
 321
 ],
 [
@@ -408,15 +408,15 @@
 318
 ],
 [
+"Namibia",
+317
+],
+[
 "Ecuador",
 317
 ],
 [
 "Laos",
-317
-],
-[
-"Namibia",
 317
 ],
 [
@@ -432,6 +432,18 @@
 315
 ],
 [
+"Ivory Coast",
+314
+],
+[
+"Cameroon",
+314
+],
+[
+"San Marino",
+314
+],
+[
 "Bolivia",
 314
 ],
@@ -440,23 +452,11 @@
 314
 ],
 [
-"San Marino",
-314
-],
-[
-"Cameroon",
-314
-],
-[
-"Ivory Coast",
-314
-],
-[
 "North Korea",
 313
 ],
 [
-"Paraguay",
+"Uganda",
 312
 ],
 [
@@ -464,11 +464,11 @@
 312
 ],
 [
-"Mali",
+"Paraguay",
 312
 ],
 [
-"Uganda",
+"Mali",
 312
 ],
 [
@@ -480,14 +480,6 @@
 310
 ],
 [
-"Burkina Faso",
-309
-],
-[
-"Eritrea",
-309
-],
-[
 "Senegal",
 309
 ],
@@ -496,12 +488,24 @@
 309
 ],
 [
-"Benin",
-308
+"Burkina Faso",
+309
+],
+[
+"Eritrea",
+309
 ],
 [
 "Tajikistan",
 308
+],
+[
+"Benin",
+308
+],
+[
+"Mauritania",
+306
 ],
 [
 "Bahrain",
@@ -513,10 +517,6 @@
 ],
 [
 "Bhutan",
-306
-],
-[
-"Mauritania",
 306
 ],
 [
@@ -536,11 +536,11 @@
 303
 ],
 [
-"Costa Rica",
+"Niger",
 302
 ],
 [
-"Niger",
+"Costa Rica",
 302
 ],
 [
@@ -552,16 +552,20 @@
 302
 ],
 [
-"Honduras",
-301
-],
-[
 "The Gambia",
 301
 ],
 [
 "Guinea",
 301
+],
+[
+"Honduras",
+301
+],
+[
+"Guinea-Bissau",
+300
 ],
 [
 "Republic of the Congo",
@@ -572,19 +576,15 @@
 300
 ],
 [
-"Guinea-Bissau",
-300
-],
-[
 "Turkmenistan",
 299
 ],
 [
-"Oman",
+"Malawi",
 298
 ],
 [
-"Malawi",
+"Oman",
 298
 ],
 [
@@ -596,15 +596,15 @@
 296
 ],
 [
-"Haiti",
-294
-],
-[
 "Sierra Leone",
 294
 ],
 [
-"Timor-Leste",
+"Haiti",
+294
+],
+[
+"Cape Verde",
 292
 ],
 [
@@ -612,15 +612,15 @@
 292
 ],
 [
-"Cape Verde",
+"Timor-Leste",
 292
 ],
 [
-"Qatar",
+"Maldives",
 291
 ],
 [
-"Maldives",
+"Qatar",
 291
 ],
 [
@@ -636,16 +636,12 @@
 288
 ],
 [
-"Guyana",
-287
-],
-[
 "Eswatini",
 287
 ],
 [
-"Equatorial Guinea",
-285
+"Guyana",
+287
 ],
 [
 "Mauritius",
@@ -653,6 +649,10 @@
 ],
 [
 "Kosovo",
+285
+],
+[
+"Equatorial Guinea",
 285
 ],
 [
@@ -664,11 +664,11 @@
 284
 ],
 [
-"Guatemala",
+"Jamaica",
 283
 ],
 [
-"Jamaica",
+"Guatemala",
 283
 ],
 [
@@ -676,11 +676,7 @@
 283
 ],
 [
-"Fiji",
-282
-],
-[
-"Dominican Republic",
+"Lesotho",
 282
 ],
 [
@@ -688,7 +684,11 @@
 282
 ],
 [
-"Lesotho",
+"Fiji",
+282
+],
+[
+"Dominican Republic",
 282
 ],
 [
@@ -712,11 +712,11 @@
 268
 ],
 [
-"Nauru",
+"Vanuatu",
 266
 ],
 [
-"Vanuatu",
+"Nauru",
 266
 ],
 [
@@ -724,11 +724,11 @@
 266
 ],
 [
-"Samoa",
+"Tonga",
 263
 ],
 [
-"Tonga",
+"Samoa",
 263
 ],
 [

@@ -4,19 +4,19 @@
 202
 ],
 [
-"Foeniculum vulgare",
-125
-],
-[
 "chili pepper",
 125
 ],
 [
-"basil",
-123
+"Foeniculum vulgare",
+125
 ],
 [
 "cinnamon",
+123
+],
+[
+"basil",
 123
 ],
 [
@@ -44,19 +44,19 @@
 88
 ],
 [
-"Centaurea cyanus",
-81
-],
-[
 "Melissa officinalis",
 81
 ],
 [
-"Apium graveolens",
-80
+"Centaurea cyanus",
+81
 ],
 [
 "tarragon",
+80
+],
+[
+"Apium graveolens",
 80
 ],
 [
@@ -84,11 +84,11 @@
 57
 ],
 [
-"Alpinia galanga",
+"Aleurites moluccanus",
 45
 ],
 [
-"Aleurites moluccanus",
+"Alpinia galanga",
 45
 ],
 [
@@ -128,11 +128,11 @@
 29
 ],
 [
-"chamomile",
+"Boesenbergia rotunda",
 28
 ],
 [
-"Boesenbergia rotunda",
+"chamomile",
 28
 ],
 [
@@ -144,11 +144,11 @@
 25
 ],
 [
-"mahleb",
+"mustard seed",
 21
 ],
 [
-"mustard seed",
+"mahleb",
 21
 ],
 [
@@ -168,7 +168,7 @@
 18
 ],
 [
-"panch phoron",
+"chili oil",
 17
 ],
 [
@@ -180,15 +180,15 @@
 17
 ],
 [
-"chili oil",
+"panch phoron",
 17
 ],
 [
-"Aleppo pepper",
+"culinary herb",
 16
 ],
 [
-"culinary herb",
+"Aleppo pepper",
 16
 ],
 [
@@ -204,11 +204,11 @@
 12
 ],
 [
-"facing heaven pepper",
+"allspice",
 11
 ],
 [
-"allspice",
+"facing heaven pepper",
 11
 ],
 [
@@ -216,11 +216,11 @@
 10
 ],
 [
-"Kampot pepper",
+"sumac",
 10
 ],
 [
-"sumac",
+"Kampot pepper",
 10
 ],
 [
@@ -228,11 +228,11 @@
 10
 ],
 [
-"wasabi",
+"Sharena sol",
 9
 ],
 [
-"Sharena sol",
+"wasabi",
 9
 ],
 [
@@ -256,15 +256,7 @@
 7
 ],
 [
-"star anise",
-6
-],
-[
-"filé",
-6
-],
-[
-"soup vegetables",
+"sesame seed",
 6
 ],
 [
@@ -272,7 +264,15 @@
 6
 ],
 [
-"sesame seed",
+"star anise",
+6
+],
+[
+"soup vegetables",
+6
+],
+[
+"filé",
 6
 ],
 [

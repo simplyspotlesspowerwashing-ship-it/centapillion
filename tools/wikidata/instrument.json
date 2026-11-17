@@ -104,19 +104,19 @@
 39
 ],
 [
-"musical keyboard",
-38
-],
-[
 "daf",
 38
 ],
 [
-"rebab",
-37
+"musical keyboard",
+38
 ],
 [
 "chordophone",
+37
+],
+[
+"rebab",
 37
 ],
 [
@@ -136,11 +136,11 @@
 33
 ],
 [
-"cornett",
+"tubular bell",
 32
 ],
 [
-"tubular bell",
+"cornett",
 32
 ],
 [
@@ -148,15 +148,15 @@
 30
 ],
 [
-"fortepiano",
-29
-],
-[
 "electrophone",
 29
 ],
 [
-"güiro",
+"fortepiano",
+29
+],
+[
+"metallophone",
 28
 ],
 [
@@ -164,11 +164,11 @@
 28
 ],
 [
-"cowbell",
+"güiro",
 28
 ],
 [
-"metallophone",
+"cowbell",
 28
 ],
 [
@@ -176,11 +176,11 @@
 25
 ],
 [
-"Helmholtz resonance",
+"foghorn",
 25
 ],
 [
-"foghorn",
+"Helmholtz resonance",
 25
 ],
 [
@@ -192,11 +192,11 @@
 22
 ],
 [
-"valiha",
+"Stylophone",
 21
 ],
 [
-"Stylophone",
+"valiha",
 21
 ],
 [
@@ -208,7 +208,7 @@
 21
 ],
 [
-"kobza",
+"pandeiro",
 20
 ],
 [
@@ -216,11 +216,7 @@
 20
 ],
 [
-"bendir",
-20
-],
-[
-"pandeiro",
+"kobza",
 20
 ],
 [
@@ -228,11 +224,15 @@
 20
 ],
 [
+"bendir",
+20
+],
+[
 "kokle",
 19
 ],
 [
-"blowing horn",
+"turntable",
 18
 ],
 [
@@ -248,7 +248,7 @@
 18
 ],
 [
-"turntable",
+"blowing horn",
 18
 ],
 [
@@ -268,7 +268,7 @@
 16
 ],
 [
-"ghungroo",
+"calliope",
 15
 ],
 [
@@ -276,11 +276,11 @@
 15
 ],
 [
-"bass instrument",
+"ghungroo",
 15
 ],
 [
-"calliope",
+"bass instrument",
 15
 ]
 ]

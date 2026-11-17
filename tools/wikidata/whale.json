@@ -28,10 +28,6 @@
 97
 ],
 [
-"Unicorn Whale",
-87
-],
-[
 "narwhal",
 87
 ],
@@ -40,7 +36,15 @@
 87
 ],
 [
+"Unicorn Whale",
+87
+],
+[
 "Beluga",
+85
+],
+[
+"beluga whale",
 85
 ],
 [
@@ -56,10 +60,6 @@
 85
 ],
 [
-"beluga whale",
-85
-],
-[
 "Porpoises",
 78
 ],
@@ -72,15 +72,11 @@
 73
 ],
 [
-"bottle-nosed dophin, common bottle-nosed dolphin",
-73
-],
-[
 "Bottlenosed Dolphin",
 73
 ],
 [
-"Common Bottlenose Dolphin",
+"bottle-nosed dophin, common bottle-nosed dolphin",
 73
 ],
 [
@@ -88,19 +84,27 @@
 73
 ],
 [
+"Common Bottlenose Dolphin",
+73
+],
+[
 "Cowfish",
 73
+],
+[
+"Common Rorqual",
+71
 ],
 [
 "Finback",
 71
 ],
 [
-"Razorback",
+"Fin-backed Whale",
 71
 ],
 [
-"Common Rorqual",
+"Finner",
 71
 ],
 [
@@ -116,15 +120,11 @@
 71
 ],
 [
-"Fin-backed Whale",
-71
-],
-[
 "Herring Whale",
 71
 ],
 [
-"Finner",
+"Razorback",
 71
 ],
 [
@@ -152,46 +152,6 @@
 68
 ],
 [
-"Indus River Dolphin",
-66
-],
-[
-"Blind River Dolphin",
-66
-],
-[
-"Ganges river dolphin",
-66
-],
-[
-"South Asian River Dolphin",
-66
-],
-[
-"Ganges Dolphin",
-66
-],
-[
-"Ganges River Dolphin",
-66
-],
-[
-"Ganges Susu",
-66
-],
-[
-"Su-su",
-66
-],
-[
-"Yangtze River Dolphin",
-66
-],
-[
-"Chinese River Dolphin",
-66
-],
-[
 "Baiji",
 66
 ],
@@ -204,11 +164,11 @@
 66
 ],
 [
-"Pei Chi",
+"Chinese River Dolphin",
 66
 ],
 [
-"White Flag Dolphin",
+"Pei Chi",
 66
 ],
 [
@@ -216,7 +176,47 @@
 66
 ],
 [
+"White Flag Dolphin",
+66
+],
+[
 "Yangtse River Dolphin",
+66
+],
+[
+"Yangtze River Dolphin",
+66
+],
+[
+"Blind River Dolphin",
+66
+],
+[
+"Ganges Dolphin",
+66
+],
+[
+"Ganges river dolphin",
+66
+],
+[
+"Ganges River Dolphin",
+66
+],
+[
+"Ganges Susu",
+66
+],
+[
+"Indus River Dolphin",
+66
+],
+[
+"South Asian River Dolphin",
+66
+],
+[
+"Su-su",
 66
 ],
 [
@@ -268,15 +268,15 @@
 61
 ],
 [
+"harbour porpoise",
+61
+],
+[
 "Harbour porpoise",
 61
 ],
 [
 "Harbour Porpoise",
-61
-],
-[
-"harbour porpoise",
 61
 ],
 [
@@ -316,6 +316,14 @@
 60
 ],
 [
+"Boto",
+60
+],
+[
+"Bouto",
+60
+],
+[
 "Boutu",
 60
 ],
@@ -328,15 +336,15 @@
 60
 ],
 [
-"Bouto",
-60
-],
-[
-"Boto",
-60
-],
-[
 "Gray Grampus",
+58
+],
+[
+"Grey Dolphin",
+58
+],
+[
+"rissos dolphin",
 58
 ],
 [
@@ -348,15 +356,7 @@
 58
 ],
 [
-"rissos dolphin",
-58
-],
-[
 "White-headed Grampus",
-58
-],
-[
-"Grey Dolphin",
 58
 ],
 [
@@ -384,6 +384,22 @@
 58
 ],
 [
+"Black Right Whale",
+53
+],
+[
+"North Atlantic right whale",
+53
+],
+[
+"North Atlantic Right Whale",
+53
+],
+[
+"Northern Right Whale",
+53
+],
+[
 "Blue-white Dolphin",
 53
 ],
@@ -408,22 +424,6 @@
 53
 ],
 [
-"Black Right Whale",
-53
-],
-[
-"North Atlantic right whale",
-53
-],
-[
-"North Atlantic Right Whale",
-53
-],
-[
-"Northern Right Whale",
-53
-],
-[
 "False killer whale",
 52
 ],
@@ -440,16 +440,24 @@
 52
 ],
 [
-"Southern Right Whale",
+"Southern right whale",
 52
 ],
 [
-"Southern right whale",
+"Southern Right Whale",
 52
 ],
 [
 "Cuvier's Beaked Whale",
 50
+],
+[
+"Pygmy right whale",
+49
+],
+[
+"Pygmy Right Whale",
+49
 ],
 [
 "white-beaked dolphin",
@@ -464,19 +472,19 @@
 49
 ],
 [
-"Pygmy right whale",
-49
-],
-[
-"Pygmy Right Whale",
-49
-],
-[
 "Atlantic Pilot Whale",
 48
 ],
 [
+"Blackfish",
+48
+],
+[
 "long-finned pilot whale",
+48
+],
+[
+"Long-finned pilot whale",
 48
 ],
 [
@@ -492,19 +500,7 @@
 48
 ],
 [
-"Blackfish",
-48
-],
-[
-"Long-finned pilot whale",
-48
-],
-[
 "North Atlantic Beaked Whale",
-48
-],
-[
-"Sowerby's Beaked Whale",
 48
 ],
 [
@@ -512,7 +508,15 @@
 48
 ],
 [
+"Sowerby's Beaked Whale",
+48
+],
+[
 "Sowerby’s Beaked Whale",
+48
+],
+[
+"sowerbys beaked whale, beaked whale",
 48
 ],
 [
@@ -524,11 +528,11 @@
 48
 ],
 [
-"sowerbys beaked whale, beaked whale",
+"Chochito",
 48
 ],
 [
-"Chochito",
+"Cochito",
 48
 ],
 [
@@ -556,8 +560,36 @@
 48
 ],
 [
-"Cochito",
-48
+"Bottlehead",
+47
+],
+[
+"North-atlantic Bottle-nosed Whale",
+47
+],
+[
+"North Atlantic Bottlenose Whale",
+47
+],
+[
+"northern bottle-nosed whale, bottle-nosed whale",
+47
+],
+[
+"Northern bottlenose whale",
+47
+],
+[
+"Northern Bottlenose Whale",
+47
+],
+[
+"North Pacific right whale",
+47
+],
+[
+"North Pacific Right Whale",
+47
 ],
 [
 "Long-beaked Dolphin",
@@ -581,38 +613,6 @@
 ],
 [
 "Spinning Dolphin",
-47
-],
-[
-"Bottlehead",
-47
-],
-[
-"North Atlantic Bottlenose Whale",
-47
-],
-[
-"North-atlantic Bottle-nosed Whale",
-47
-],
-[
-"northern bottle-nosed whale, bottle-nosed whale",
-47
-],
-[
-"Northern bottlenose whale",
-47
-],
-[
-"Northern Bottlenose Whale",
-47
-],
-[
-"North Pacific right whale",
-47
-],
-[
-"North Pacific Right Whale",
 47
 ],
 [
@@ -640,6 +640,10 @@
 46
 ],
 [
+"King Lizard",
+45
+],
+[
 "Atlantic white-sided dolphin",
 45
 ],
@@ -652,34 +656,6 @@
 45
 ],
 [
-"King Lizard",
-45
-],
-[
-"Black-and-White Dolphin",
-45
-],
-[
-"Commerson's Dolphin",
-45
-],
-[
-"Commerson’s dolphin",
-45
-],
-[
-"Commerson’s Dolphin",
-45
-],
-[
-"Piebald Dolphin",
-45
-],
-[
-"Bridled Dolphin",
-45
-],
-[
 "Pygmy killer whale",
 45
 ],
@@ -689,6 +665,30 @@
 ],
 [
 "Slender Blackfish",
+45
+],
+[
+"Bridled Dolphin",
+45
+],
+[
+"Black-and-White Dolphin",
+45
+],
+[
+"Commerson’s dolphin",
+45
+],
+[
+"Commerson's Dolphin",
+45
+],
+[
+"Commerson’s Dolphin",
+45
+],
+[
+"Piebald Dolphin",
 45
 ],
 [
@@ -712,15 +712,11 @@
 45
 ],
 [
-"rough-toothed dolphin",
+"Indo-Pacific finless porpoise",
 44
 ],
 [
-"Rough-toothed dolphin",
-44
-],
-[
-"Rough-toothed Dolphin",
+"Indo-Pacific Finless Porpoise",
 44
 ],
 [
@@ -728,11 +724,11 @@
 44
 ],
 [
-"Fraser's Dolphin",
+"Fraser’s dolphin",
 44
 ],
 [
-"Fraser’s dolphin",
+"Fraser's Dolphin",
 44
 ],
 [
@@ -748,23 +744,19 @@
 44
 ],
 [
-"Indo-Pacific finless porpoise",
+"rough-toothed dolphin",
 44
 ],
 [
-"Indo-Pacific Finless Porpoise",
+"Rough-toothed dolphin",
+44
+],
+[
+"Rough-toothed Dolphin",
 44
 ],
 [
 "Rorquals",
-43
-],
-[
-"Dwarf fin whale",
-43
-],
-[
-"Omura’s Whale",
 43
 ],
 [
@@ -773,6 +765,30 @@
 ],
 [
 "Estuarine Dolphin",
+43
+],
+[
+"Franciscana",
+43
+],
+[
+"Franciscana Dolphin",
+43
+],
+[
+"La Plata Dolphin",
+43
+],
+[
+"La Plata River Dolphin",
+43
+],
+[
+"Dwarf fin whale",
+43
+],
+[
+"Omura’s Whale",
 43
 ],
 [
@@ -789,22 +805,6 @@
 ],
 [
 "Tucuxi dolphin",
-43
-],
-[
-"Franciscana Dolphin",
-43
-],
-[
-"La Plata Dolphin",
-43
-],
-[
-"La Plata River Dolphin",
-43
-],
-[
-"Franciscana",
 43
 ],
 [
@@ -836,31 +836,23 @@
 42
 ],
 [
-"Chinese Humpback Dolphin",
+"Benguela Dolphin",
 41
 ],
 [
-"Chinese White Dolphin",
+"Heaviside’s dolphin",
 41
 ],
 [
-"Indo-pacific Hump-backed Dolphin",
+"Heaviside's Dolphin",
 41
 ],
 [
-"Indo-pacific Humpback Dolphin",
+"Heaviside’s Dolphin",
 41
 ],
 [
-"Indo-Pacific humpback dolphin",
-41
-],
-[
-"Indo-Pacific Humpbacked Dolphin",
-41
-],
-[
-"White Dolphin",
+"South African Dolphin",
 41
 ],
 [
@@ -876,11 +868,19 @@
 41
 ],
 [
-"Blainville's Beaked Whale",
+"Dwarf sperm whale",
+41
+],
+[
+"Dwarf Sperm Whale",
 41
 ],
 [
 "Blainville’s beaked whale",
+41
+],
+[
+"Blainville's Beaked Whale",
 41
 ],
 [
@@ -892,31 +892,31 @@
 41
 ],
 [
-"Dwarf sperm whale",
+"Chinese Humpback Dolphin",
 41
 ],
 [
-"Dwarf Sperm Whale",
+"Chinese White Dolphin",
 41
 ],
 [
-"Benguela Dolphin",
+"Indo-pacific Humpback Dolphin",
 41
 ],
 [
-"Heaviside's Dolphin",
+"Indo-Pacific humpback dolphin",
 41
 ],
 [
-"Heaviside’s dolphin",
+"Indo-pacific Hump-backed Dolphin",
 41
 ],
 [
-"Heaviside’s Dolphin",
+"Indo-Pacific Humpbacked Dolphin",
 41
 ],
 [
-"South African Dolphin",
+"White Dolphin",
 41
 ],
 [
@@ -956,6 +956,18 @@
 40
 ],
 [
+"Atlantic spotted dolphin",
+39
+],
+[
+"Atlantic Spotted Dolphin",
+39
+],
+[
+"Gulf Stream Spotted Dolphin",
+39
+],
+[
 "Pacific white-sided dolphin",
 39
 ],
@@ -976,23 +988,11 @@
 39
 ],
 [
-"Atlantic spotted dolphin",
-39
-],
-[
-"Atlantic Spotted Dolphin",
-39
-],
-[
-"Gulf Stream Spotted Dolphin",
+"Black Chilean Dolphin",
 39
 ],
 [
 "Black Dolphin",
-39
-],
-[
-"Black Chilean Dolphin",
 39
 ],
 [
@@ -1006,6 +1006,10 @@
 [
 "White-bellied Dolphin",
 39
+],
+[
+"Common porpoises",
+38
 ],
 [
 "Bahamondi's Beaked Whale",
@@ -1024,15 +1028,31 @@
 38
 ],
 [
-"Common porpoises",
-38
-],
-[
-"Blackchin Dolphin",
+"Black Porpoise",
 37
 ],
 [
-"Peale's Dolphin",
+"Burmeister's Porpoise",
+37
+],
+[
+"Burmeister’s Porpoise",
+37
+],
+[
+"Marposa Espinosa",
+37
+],
+[
+"Ginkgo-toothed beaked whale",
+37
+],
+[
+"Ginkgo-toothed Beaked Whale",
+37
+],
+[
+"Blackchin Dolphin",
 37
 ],
 [
@@ -1044,6 +1064,10 @@
 37
 ],
 [
+"Peale's Dolphin",
+37
+],
+[
 "Peale’s Dolphin",
 37
 ],
@@ -1052,31 +1076,11 @@
 37
 ],
 [
-"Gervais' Beaked Whale",
+"Spectacled porpoise",
 37
 ],
 [
-"Gervais’ beaked whale",
-37
-],
-[
-"Gervais’ Beaked Whale",
-37
-],
-[
-"Gulf Stream Beaked Whale",
-37
-],
-[
-"Gulfstream Beaked Whale",
-37
-],
-[
-"Ginkgo-toothed beaked whale",
-37
-],
-[
-"Ginkgo-toothed Beaked Whale",
+"Spectacled Porpoise",
 37
 ],
 [
@@ -1096,56 +1100,24 @@
 37
 ],
 [
-"Black Porpoise",
+"Gervais’ beaked whale",
 37
 ],
 [
-"Burmeister's Porpoise",
+"Gervais' Beaked Whale",
 37
 ],
 [
-"Burmeister’s Porpoise",
+"Gervais’ Beaked Whale",
 37
 ],
 [
-"Marposa Espinosa",
+"Gulfstream Beaked Whale",
 37
 ],
 [
-"Spectacled porpoise",
+"Gulf Stream Beaked Whale",
 37
-],
-[
-"Spectacled Porpoise",
-37
-],
-[
-"Gray's Beaked Whale",
-36
-],
-[
-"Gray’s beaked whale",
-36
-],
-[
-"Gray’s Beaked Whale",
-36
-],
-[
-"grays beaked whale",
-36
-],
-[
-"Scamperdown Beaked Whale",
-36
-],
-[
-"Southern Beaked Whale",
-36
-],
-[
-"Bhulan",
-36
 ],
 [
 "Flatheaded Bottlenose Whale",
@@ -1164,15 +1136,19 @@
 36
 ],
 [
+"Bhulan",
+36
+],
+[
 "Dall Porpoise",
 36
 ],
 [
-"Dall's Porpoise",
+"Dall’s porpoise",
 36
 ],
 [
-"Dall’s porpoise",
+"Dall's Porpoise",
 36
 ],
 [
@@ -1181,6 +1157,30 @@
 ],
 [
 "Dall’s White-flanked Porpoise",
+36
+],
+[
+"grays beaked whale",
+36
+],
+[
+"Gray’s beaked whale",
+36
+],
+[
+"Gray's Beaked Whale",
+36
+],
+[
+"Gray’s Beaked Whale",
+36
+],
+[
+"Scamperdown Beaked Whale",
+36
+],
+[
+"Southern Beaked Whale",
 36
 ],
 [
@@ -1196,19 +1196,15 @@
 35
 ],
 [
-"Stejneger's Beaked Whale",
-35
-],
-[
 "Stejneger’s beaked whale",
 35
 ],
 [
-"Stejneger’s Beaked Whale",
+"Stejneger's Beaked Whale",
 35
 ],
 [
-"Atlantic Hump-backed Dolphin",
+"Stejneger’s Beaked Whale",
 35
 ],
 [
@@ -1217,6 +1213,10 @@
 ],
 [
 "Atlantic humpbacked dolphin",
+35
+],
+[
+"Atlantic Hump-backed Dolphin",
 35
 ],
 [
@@ -1240,19 +1240,11 @@
 35
 ],
 [
-"Long-beaked common dolphin",
-35
-],
-[
-"Long-beaked Common Dolphin",
+"True’s beaked whale",
 35
 ],
 [
 "True's Beaked Whale",
-35
-],
-[
-"True’s beaked whale",
 35
 ],
 [
@@ -1284,6 +1276,14 @@
 35
 ],
 [
+"Long-beaked common dolphin",
+35
+],
+[
+"Long-beaked Common Dolphin",
+35
+],
+[
 "Lesser Beaked Whale",
 35
 ],
@@ -1300,27 +1300,31 @@
 35
 ],
 [
+"Shepherd's Beaked Whale",
+34
+],
+[
+"Shepherd’s Beaked Whale",
+34
+],
+[
+"Tasman Beaked Whale",
+34
+],
+[
+"Tasman Whale",
+34
+],
+[
 "Snubfin Dolphins",
 34
 ],
 [
-"Arch-beaked Whale",
+"Southern right whale dolphin",
 34
 ],
 [
-"Hubbs' Beaked Whale",
-34
-],
-[
-"Hubbs's Beaked Whale",
-34
-],
-[
-"Hubbs’ Beaked Whale",
-34
-],
-[
-"Australian Snubfin Dolphin",
+"Southern Right Whale Dolphin",
 34
 ],
 [
@@ -1344,19 +1348,11 @@
 34
 ],
 [
-"Southern right whale dolphin",
-34
-],
-[
-"Southern Right Whale Dolphin",
+"Arnoux’s beaked whale",
 34
 ],
 [
 "Arnoux's Beaked Whale",
-34
-],
-[
-"Arnoux’s beaked whale",
 34
 ],
 [
@@ -1376,7 +1372,7 @@
 34
 ],
 [
-"Shepherd's Beaked Whale",
+"Australian Snubfin Dolphin",
 34
 ],
 [
@@ -1384,15 +1380,19 @@
 34
 ],
 [
-"Shepherd’s Beaked Whale",
+"Arch-beaked Whale",
 34
 ],
 [
-"Tasman Beaked Whale",
+"Hubbs' Beaked Whale",
 34
 ],
 [
-"Tasman Whale",
+"Hubbs’ Beaked Whale",
+34
+],
+[
+"Hubbs's Beaked Whale",
 34
 ],
 [
@@ -1408,23 +1408,15 @@
 33
 ],
 [
-"Indo-pacific Beaked Whale",
-32
-],
-[
-"Longman's Beaked Whale",
-32
-],
-[
-"Tropical Bottlenose Whale",
-32
-],
-[
-"Baird's Beaked Whale",
+"Guiana Dolphin",
 32
 ],
 [
 "Baird’s beaked whale",
+32
+],
+[
+"Baird's Beaked Whale",
 32
 ],
 [
@@ -1436,11 +1428,11 @@
 32
 ],
 [
-"North Pacific Bottlenose Whale",
+"Northern Four-toothed Whale",
 32
 ],
 [
-"Northern Four-toothed Whale",
+"North Pacific Bottlenose Whale",
 32
 ],
 [
@@ -1448,7 +1440,15 @@
 32
 ],
 [
-"Guiana Dolphin",
+"Indo-pacific Beaked Whale",
+32
+],
+[
+"Longman's Beaked Whale",
+32
+],
+[
+"Tropical Bottlenose Whale",
 32
 ],
 [
@@ -1480,11 +1480,11 @@
 25
 ],
 [
-"Bryde's Whale",
+"Bryde’s whale",
 21
 ],
 [
-"Bryde’s whale",
+"Bryde's Whale",
 21
 ],
 [
@@ -1536,11 +1536,11 @@
 14
 ],
 [
-"Tamanend's bottlenose dolphin",
+"Black Sea bottlenose dolphin",
 7
 ],
 [
-"Black Sea bottlenose dolphin",
+"Tamanend's bottlenose dolphin",
 7
 ]
 ]

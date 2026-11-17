@@ -40,11 +40,11 @@
 91
 ],
 [
-"General Motors",
+"Nissan",
 90
 ],
 [
-"Nissan",
+"General Motors",
 90
 ],
 [
@@ -72,19 +72,19 @@
 82
 ],
 [
-"Kia",
-80
-],
-[
 "Škoda Auto",
 80
 ],
 [
-"Citroën",
-77
+"Kia",
+80
 ],
 [
 "Alfa Romeo",
+77
+],
+[
+"Citroën",
 77
 ],
 [
@@ -140,11 +140,11 @@
 61
 ],
 [
-"Mitsubishi Motors",
+"Lancia",
 61
 ],
 [
-"Lancia",
+"Mitsubishi Motors",
 61
 ],
 [
@@ -160,19 +160,19 @@
 58
 ],
 [
-"Dodge",
-54
-],
-[
 "Volvo Cars",
 54
 ],
 [
-"Dacia",
-53
+"Dodge",
+54
 ],
 [
 "Buick",
+53
+],
+[
+"Dacia",
 53
 ],
 [
@@ -188,11 +188,11 @@
 52
 ],
 [
-"AvtoVAZ",
+"smart",
 49
 ],
 [
-"smart",
+"AvtoVAZ",
 49
 ],
 [
@@ -204,15 +204,15 @@
 49
 ],
 [
+"Lincoln Motor Company",
+47
+],
+[
 "Daihatsu",
 47
 ],
 [
 "Koenigsegg",
-47
-],
-[
-"Lincoln Motor Company",
 47
 ],
 [
@@ -224,11 +224,11 @@
 46
 ],
 [
-"Vauxhall",
+"BYD Auto",
 45
 ],
 [
-"BYD Auto",
+"Vauxhall",
 45
 ],
 [
@@ -240,10 +240,6 @@
 44
 ],
 [
-"ZiL",
-43
-],
-[
 "Alpine",
 43
 ],
@@ -252,23 +248,27 @@
 43
 ],
 [
-"KG Mobility",
-42
+"ZiL",
+43
 ],
 [
-"Mahindra & Mahindra",
-41
+"KG Mobility",
+42
 ],
 [
 "Pagani Automobili",
 41
 ],
 [
-"Mercedes-AMG",
-40
+"Mahindra & Mahindra",
+41
 ],
 [
 "Fiat Chrysler Automobiles",
+40
+],
+[
+"Mercedes-AMG",
 40
 ],
 [
@@ -280,15 +280,7 @@
 38
 ],
 [
-"Rolls-Royce Limited",
-37
-],
-[
 "Dongfeng Motor Corporation",
-37
-],
-[
-"American Motors Corporation",
 37
 ],
 [
@@ -296,7 +288,15 @@
 37
 ],
 [
-"Auto Union",
+"American Motors Corporation",
+37
+],
+[
+"Rolls-Royce Limited",
+37
+],
+[
+"Simca",
 36
 ],
 [
@@ -304,7 +304,11 @@
 36
 ],
 [
-"Simca",
+"Auto Union",
+36
+],
+[
+"Ikarus",
 36
 ],
 [
@@ -316,8 +320,8 @@
 36
 ],
 [
-"Ikarus",
-36
+"Matra",
+35
 ],
 [
 "Chery",
@@ -332,39 +336,31 @@
 35
 ],
 [
-"Matra",
-35
-],
-[
 "Maruti Suzuki",
 35
-],
-[
-"Hyundai Motor Group",
-34
 ],
 [
 "Great Wall Motor",
 34
 ],
 [
-"Renault Korea Motors",
-33
+"Hyundai Motor Group",
+34
 ],
 [
 "DS Automobiles",
 33
 ],
 [
-"DKW",
+"Renault Korea Motors",
+33
+],
+[
+"FAW Group",
 32
 ],
 [
 "Cooper Car Company",
-32
-],
-[
-"Brabus",
 32
 ],
 [
@@ -376,11 +372,15 @@
 32
 ],
 [
-"FAW Group",
+"Brabus",
 32
 ],
 [
 "XPeng",
+32
+],
+[
+"DKW",
 32
 ],
 [
@@ -396,18 +396,6 @@
 31
 ],
 [
-"Wanderer",
-30
-],
-[
-"Daimler-Benz AG",
-30
-],
-[
-"GM Korea",
-30
-],
-[
 "Dallara",
 30
 ],
@@ -416,7 +404,19 @@
 30
 ],
 [
-"Hanomag",
+"GM Korea",
+30
+],
+[
+"Daimler-Benz AG",
+30
+],
+[
+"Wanderer",
+30
+],
+[
+"Subaru Corporation",
 29
 ],
 [
@@ -425,6 +425,14 @@
 ],
 [
 "DeLorean Motor Company",
+29
+],
+[
+"British Leyland",
+29
+],
+[
+"Hanomag",
 29
 ],
 [
@@ -440,12 +448,28 @@
 29
 ],
 [
-"British Leyland",
-29
+"Zeekr",
+28
 ],
 [
-"Subaru Corporation",
-29
+"Iran Khodro",
+28
+],
+[
+"Perodua",
+28
+],
+[
+"ARO",
+28
+],
+[
+"British Motor Corporation",
+28
+],
+[
+"Polestar",
+28
 ],
 [
 "Saturn Corporation",
@@ -456,31 +480,7 @@
 28
 ],
 [
-"British Motor Corporation",
-28
-],
-[
-"ARO",
-28
-],
-[
-"Perodua",
-28
-],
-[
 "Fiat S.p.A.",
-28
-],
-[
-"Iran Khodro",
-28
-],
-[
-"Polestar",
-28
-],
-[
-"Zeekr",
 28
 ],
 [
@@ -492,7 +492,7 @@
 27
 ],
 [
-"Morris Motors",
+"Polaris",
 27
 ],
 [
@@ -500,19 +500,27 @@
 27
 ],
 [
+"Morris Motors",
+27
+],
+[
 "Caterham Cars",
 27
 ],
 [
-"Polaris",
-27
-],
-[
-"Autobianchi",
+"Morgan Motor Company",
 26
 ],
 [
-"ZAZ",
+"Hongqi",
+26
+],
+[
+"Audi Sport",
+26
+],
+[
+"Autobianchi",
 26
 ],
 [
@@ -524,7 +532,7 @@
 26
 ],
 [
-"Audi Sport",
+"ZAZ",
 26
 ],
 [
@@ -532,15 +540,27 @@
 26
 ],
 [
-"Morgan Motor Company",
-26
+"Nash Motors",
+25
 ],
 [
-"Hongqi",
-26
+"Triumph",
+25
+],
+[
+"Van Hool",
+25
+],
+[
+"Pegaso",
+25
 ],
 [
 "March Engineering",
+25
+],
+[
+"Genesis Motor",
 25
 ],
 [
@@ -552,51 +572,11 @@
 25
 ],
 [
-"Triumph",
-25
-],
-[
-"Pegaso",
-25
-],
-[
-"Van Hool",
-25
-],
-[
 "Rivian Automotive",
 25
 ],
 [
-"Nash Motors",
-25
-],
-[
-"Genesis Motor",
-25
-],
-[
-"Bugatti",
-24
-],
-[
-"Gordini",
-24
-],
-[
-"Automobiles Gonfaronnaises Sportives",
-24
-],
-[
 "Hudson Motor Car Company",
-24
-],
-[
-"JAC Group",
-24
-],
-[
-"Brilliance Auto",
 24
 ],
 [
@@ -604,7 +584,15 @@
 24
 ],
 [
-"Cupra",
+"Automobiles Gonfaronnaises Sportives",
+24
+],
+[
+"Gordini",
+24
+],
+[
+"Bugatti",
 24
 ],
 [
@@ -612,11 +600,43 @@
 24
 ],
 [
+"JAC Group",
+24
+],
+[
+"Cupra",
+24
+],
+[
+"Brilliance Auto",
+24
+],
+[
 "Leapmotor",
 24
 ],
 [
+"Tofaş",
+23
+],
+[
+"Mitsuoka Motor",
+23
+],
+[
+"International Harvester",
+23
+],
+[
 "Bristol Cars",
+23
+],
+[
+"Lucid Motors",
+23
+],
+[
+"Autosan",
 23
 ],
 [
@@ -628,35 +648,51 @@
 23
 ],
 [
-"International Harvester",
-23
-],
-[
-"Tofaş",
-23
-],
-[
 "Foton Motor",
 23
 ],
 [
-"Mitsuoka Motor",
-23
+"SSC North America",
+22
 ],
 [
-"Autosan",
-23
+"Isotta Fraschini",
+22
 ],
 [
-"Lucid Motors",
-23
+"Osella",
+22
+],
+[
+"Automobili Turismo e Sport",
+22
+],
+[
+"Ariel Motor Company",
+22
+],
+[
+"Volvo Buses",
+22
+],
+[
+"AC Cars",
+22
 ],
 [
 "Avia",
 22
 ],
 [
-"AC Cars",
+"Delage",
+22
+],
+[
+"Duesenberg",
+22
+],
+[
+"Industrieverband Fahrzeugbau",
 22
 ],
 [
@@ -668,59 +704,7 @@
 22
 ],
 [
-"Automobili Turismo e Sport",
-22
-],
-[
-"Delage",
-22
-],
-[
-"Osella",
-22
-],
-[
-"Duesenberg",
-22
-],
-[
-"Ariel Motor Company",
-22
-],
-[
-"Industrieverband Fahrzeugbau",
-22
-],
-[
-"SSC North America",
-22
-],
-[
-"Volvo Buses",
-22
-],
-[
-"Isotta Fraschini",
-22
-],
-[
-"English Racing Automobiles",
-21
-],
-[
-"Barkas",
-21
-],
-[
-"Ansaldo",
-21
-],
-[
-"Wolseley Motor Company",
-21
-],
-[
-"Lagonda",
+"Cisitalia",
 21
 ],
 [
@@ -732,39 +716,31 @@
 21
 ],
 [
+"English Racing Automobiles",
+21
+],
+[
 "MG Motor",
 21
 ],
 [
-"Cisitalia",
+"Barkas",
 21
 ],
 [
-"Gumpert",
-20
+"Ansaldo",
+21
 ],
 [
-"Aichi",
-20
+"Lagonda",
+21
+],
+[
+"Wolseley Motor Company",
+21
 ],
 [
 "Saipa",
-20
-],
-[
-"Alvis Car and Engineering Company Ltd",
-20
-],
-[
-"Abt Sportsline",
-20
-],
-[
-"Talbot-Lago",
-20
-],
-[
-"Ascari Cars",
 20
 ],
 [
@@ -780,23 +756,7 @@
 20
 ],
 [
-"Officine Meccaniche",
-20
-],
-[
 "Nanjing Automobile",
-20
-],
-[
-"Rootes Group",
-20
-],
-[
-"Lynk & Co",
-20
-],
-[
-"Humber Limited",
 20
 ],
 [
@@ -804,7 +764,31 @@
 20
 ],
 [
+"Humber Limited",
+20
+],
+[
 "Innocenti",
+20
+],
+[
+"Rootes Group",
+20
+],
+[
+"Abt Sportsline",
+20
+],
+[
+"Ascari Cars",
+20
+],
+[
+"Alvis Car and Engineering Company Ltd",
+20
+],
+[
+"Lynk & Co",
 20
 ],
 [
@@ -812,31 +796,23 @@
 20
 ],
 [
-"Vignale",
-19
+"Gumpert",
+20
 ],
 [
-"Ruf Automobile",
-19
+"Officine Meccaniche",
+20
 ],
 [
-"AM General",
-19
+"Talbot-Lago",
+20
 ],
 [
-"Armstrong Siddeley",
-19
+"Aichi",
+20
 ],
 [
-"Farman Aviation Works",
-19
-],
-[
-"Isdera",
-19
-],
-[
-"Jensen Motors",
+"Carroll Shelby International",
 19
 ],
 [
@@ -848,6 +824,46 @@
 19
 ],
 [
+"Think Global",
+19
+],
+[
+"Saleen",
+19
+],
+[
+"AM General",
+19
+],
+[
+"Jensen Motors",
+19
+],
+[
+"Wuling Motors",
+19
+],
+[
+"Farman Aviation Works",
+19
+],
+[
+"Ruf Automobile",
+19
+],
+[
+"Vignale",
+19
+],
+[
+"Armstrong Siddeley",
+19
+],
+[
+"Isdera",
+19
+],
+[
 "Panoz Auto Development",
 19
 ],
@@ -856,11 +872,7 @@
 19
 ],
 [
-"Wuling Motors",
-19
-],
-[
-"Carroll Shelby International",
+"Alenia Aermacchi",
 19
 ],
 [
@@ -868,47 +880,7 @@
 19
 ],
 [
-"Alenia Aermacchi",
-19
-],
-[
-"Saleen",
-19
-],
-[
-"Think Global",
-19
-],
-[
-"Polski FIAT",
-18
-],
-[
-"Daewoo Motors",
-18
-],
-[
-"Spyker",
-18
-],
-[
-"Stanley Motor Carriage Company",
-18
-],
-[
-"Breguet Aviation",
-18
-],
-[
-"Oltcit",
-18
-],
-[
 "Dongfeng Stellantis",
-18
-],
-[
-"Pierce-Arrow",
 18
 ],
 [
@@ -916,11 +888,7 @@
 18
 ],
 [
-"Aiways",
-18
-],
-[
-"Qoros",
+"Breguet Aviation",
 18
 ],
 [
@@ -928,91 +896,43 @@
 18
 ],
 [
-"Goliath",
-17
+"Spyker",
+18
 ],
 [
-"Volkswagen do Brasil",
-17
+"Daewoo Motors",
+18
 ],
 [
-"Kojima Engineering",
-17
+"Oltcit",
+18
 ],
 [
-"Agrale",
-17
+"Pierce-Arrow",
+18
 ],
 [
-"Monteverdi",
-17
+"Qoros",
+18
 ],
 [
-"Gillet",
-17
+"Stanley Motor Carriage Company",
+18
+],
+[
+"Polski FIAT",
+18
+],
+[
+"Aiways",
+18
 ],
 [
 "Alex von Falkenhausen Motorenbau",
 17
 ],
 [
-"AJS",
-17
-],
-[
-"Simson",
-17
-],
-[
-"Ginetta Cars",
-17
-],
-[
-"Amphicar",
-17
-],
-[
-"Facel Vega",
-17
-],
-[
-"Imperia",
-17
-],
-[
-"Austin-Healey",
-17
-],
-[
-"Fabryka Samochodów Małolitrażowych",
-17
-],
-[
-"Itala",
-17
-],
-[
-"BAW",
-17
-],
-[
-"Laurin & Klement",
-17
-],
-[
-"SAIC Volkswagen",
-17
-],
-[
-"Willys",
-17
-],
-[
-"OSCA",
-17
-],
-[
-"Hillman",
+"Jaecoo",
 17
 ],
 [
@@ -1024,11 +944,15 @@
 17
 ],
 [
-"Oakland Motor Car Company",
+"SAIC Volkswagen",
 17
 ],
 [
-"Sunbeam",
+"Willys",
+17
+],
+[
+"Hillman",
 17
 ],
 [
@@ -1036,16 +960,152 @@
 17
 ],
 [
-"Jaecoo",
+"Marcos Engineering",
 17
 ],
 [
-"Marcos Engineering",
+"Ginetta Cars",
+17
+],
+[
+"Kojima Engineering",
+17
+],
+[
+"Oakland Motor Car Company",
+17
+],
+[
+"Austin-Healey",
+17
+],
+[
+"Sunbeam",
+17
+],
+[
+"Amphicar",
+17
+],
+[
+"Fabryka Samochodów Małolitrażowych",
+17
+],
+[
+"AJS",
+17
+],
+[
+"Itala",
+17
+],
+[
+"Laurin & Klement",
+17
+],
+[
+"Agrale",
+17
+],
+[
+"Simson",
 17
 ],
 [
 "Aurus",
 17
+],
+[
+"Volkswagen do Brasil",
+17
+],
+[
+"Goliath",
+17
+],
+[
+"Monteverdi",
+17
+],
+[
+"Gillet",
+17
+],
+[
+"Facel Vega",
+17
+],
+[
+"Imperia",
+17
+],
+[
+"BAW",
+17
+],
+[
+"OSCA",
+17
+],
+[
+"Avatr Technology",
+16
+],
+[
+"Laraki",
+16
+],
+[
+"Omoda",
+16
+],
+[
+"Standard Motor Company",
+16
+],
+[
+"VDL Nedcar",
+16
+],
+[
+"Karsan",
+16
+],
+[
+"Ford Otosan",
+16
+],
+[
+"Vector Motors",
+16
+],
+[
+"ErAZ",
+16
+],
+[
+"Abadal",
+16
+],
+[
+"Nagant",
+16
+],
+[
+"Iso Rivolta",
+16
+],
+[
+"Siemens-Schuckert",
+16
+],
+[
+"Asia Motors",
+16
+],
+[
+"Seres Auto (Hubei)",
+16
 ],
 [
 "Ford of Europe",
@@ -1056,11 +1116,7 @@
 16
 ],
 [
-"Iso Rivolta",
-16
-],
-[
-"Nagant",
+"Piëch Automotive",
 16
 ],
 [
@@ -1076,27 +1132,7 @@
 16
 ],
 [
-"Asia Motors",
-16
-],
-[
-"Siemens-Schuckert",
-16
-],
-[
-"VDL Nedcar",
-16
-],
-[
-"ErAZ",
-16
-],
-[
-"Abadal",
-16
-],
-[
-"Laraki",
+"Lanchester Motor Company",
 16
 ],
 [
@@ -1104,84 +1140,8 @@
 16
 ],
 [
-"Lanchester Motor Company",
-16
-],
-[
-"Standard Motor Company",
-16
-],
-[
-"Piëch Automotive",
-16
-],
-[
-"Ford Otosan",
-16
-],
-[
-"Vector Motors",
-16
-],
-[
 "Jetour",
 16
-],
-[
-"Avatr Technology",
-16
-],
-[
-"Omoda",
-16
-],
-[
-"Karsan",
-16
-],
-[
-"Seres Auto (Hubei)",
-16
-],
-[
-"LaSalle",
-15
-],
-[
-"Reliant",
-15
-],
-[
-"Lea-Francis",
-15
-],
-[
-"Argus Motoren",
-15
-],
-[
-"Hansa",
-15
-],
-[
-"Rinspeed",
-15
-],
-[
-"Stutz Motor Company",
-15
-],
-[
-"Stellantis Europe",
-15
-],
-[
-"Sevel",
-15
-],
-[
-"Soueast",
-15
 ],
 [
 "China South Industries Group",
@@ -1189,6 +1149,46 @@
 ],
 [
 "IM Motors",
+15
+],
+[
+"Lea-Francis",
+15
+],
+[
+"Stutz Motor Company",
+15
+],
+[
+"Soueast",
+15
+],
+[
+"Rinspeed",
+15
+],
+[
+"Sevel",
+15
+],
+[
+"Stellantis Europe",
+15
+],
+[
+"LaSalle",
+15
+],
+[
+"Hansa",
+15
+],
+[
+"Argus Motoren",
+15
+],
+[
+"Reliant",
 15
 ]
 ]

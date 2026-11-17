@@ -8,11 +8,11 @@
 31
 ],
 [
-"qurabiya",
+"chocolate chip cookie",
 27
 ],
 [
-"chocolate chip cookie",
+"qurabiya",
 27
 ],
 [
@@ -96,7 +96,7 @@
 13
 ],
 [
-"Getuk",
+"Springerle",
 12
 ],
 [
@@ -104,15 +104,7 @@
 12
 ],
 [
-"kūčiukai",
-12
-],
-[
-"Zalabiyeh",
-12
-],
-[
-"Springerle",
+"rainbow cookie",
 12
 ],
 [
@@ -120,19 +112,27 @@
 12
 ],
 [
+"kūčiukai",
+12
+],
+[
+"Getuk",
+12
+],
+[
 "Chinese almond biscuit",
 12
 ],
 [
-"rainbow cookie",
+"Zalabiyeh",
 12
 ],
 [
-"koloocheh",
+"Hallongrotta",
 11
 ],
 [
-"Hallongrotta",
+"koloocheh",
 11
 ],
 [
@@ -156,7 +156,7 @@
 9
 ],
 [
-"hodu-gwaja",
+"Kaasstengels",
 8
 ],
 [
@@ -168,19 +168,15 @@
 8
 ],
 [
-"Kaasstengels",
+"hodu-gwaja",
 8
 ],
 [
+"Barazek",
+7
+],
+[
 "oatmeal cookie",
-7
-],
-[
-"Gogoşi",
-7
-],
-[
-"sugar cookie",
 7
 ],
 [
@@ -188,12 +184,12 @@
 7
 ],
 [
-"Barazek",
+"sugar cookie",
 7
 ],
 [
-"Drabbelkoek",
-6
+"Gogoşi",
+7
 ],
 [
 "Polvorosa",
@@ -208,11 +204,19 @@
 6
 ],
 [
+"Bath Oliver",
+6
+],
+[
 "gevulde koek",
 6
 ],
 [
-"Bath Oliver",
+"Girl Scout Cookies",
+6
+],
+[
+"Drabbelkoek",
 6
 ],
 [
@@ -222,14 +226,6 @@
 [
 "corn cookie",
 6
-],
-[
-"Girl Scout Cookies",
-6
-],
-[
-"Stuffed cookie",
-5
 ],
 [
 "Frankfurter Brenten",
@@ -256,15 +252,27 @@
 5
 ],
 [
+"Stuffed cookie",
+5
+],
+[
 "Nutter Butter",
 5
+],
+[
+"Zhavoronki",
+4
+],
+[
+"Charcoal biscuit",
+4
 ],
 [
 "Sabre St. Simon",
 4
 ],
 [
-"Linzer Augen",
+"Kleeb lamduan",
 4
 ],
 [
@@ -276,23 +284,7 @@
 4
 ],
 [
-"Kleeb lamduan",
-4
-],
-[
-"Nocciolini di Canzo",
-4
-],
-[
-"Mee Siput",
-4
-],
-[
-"Zhavoronki",
-4
-],
-[
-"Caycay",
+"Linzer Augen",
 4
 ],
 [
@@ -304,11 +296,15 @@
 4
 ],
 [
+"Eierkoek",
+4
+],
+[
 "Bokkenpootje",
 4
 ],
 [
-"Eierkoek",
+"Nocciolini di Canzo",
 4
 ],
 [
@@ -316,72 +312,16 @@
 4
 ],
 [
+"Mee Siput",
+4
+],
+[
 "Beypazarı kurusu",
 4
 ],
 [
-"Charcoal biscuit",
+"Caycay",
 4
-],
-[
-"chocolate crinkle",
-3
-],
-[
-"lamaniets",
-3
-],
-[
-"Achira",
-3
-],
-[
-"Kharkivske biscuit",
-3
-],
-[
-"Milano",
-3
-],
-[
-"Keukarah",
-3
-],
-[
-"Lorna Doone",
-3
-],
-[
-"Rosquillo",
-3
-],
-[
-"kоłасzki",
-3
-],
-[
-"serinakaker",
-3
-],
-[
-"Vaniljekranse",
-3
-],
-[
-"Bolang-baling",
-3
-],
-[
-"Moonlight",
-3
-],
-[
-"Janhagel",
-3
-],
-[
-"Finskepinner",
-3
 ],
 [
 "Kavala Almond Cookies",
@@ -396,7 +336,79 @@
 3
 ],
 [
-"Duvshaniot",
+"lamaniets",
+3
+],
+[
+"chocolate crinkle",
+3
+],
+[
+"Kharkivske biscuit",
+3
+],
+[
+"Lorna Doone",
+3
+],
+[
+"Milano",
+3
+],
+[
+"Rosquillo",
+3
+],
+[
+"Keukarah",
+3
+],
+[
+"Janhagel",
+3
+],
+[
+"Finskepinner",
+3
+],
+[
+"Vaniljekranse",
+3
+],
+[
+"Lacquemant waffles",
+3
+],
+[
+"Moonlight",
+3
+],
+[
+"Bolang-baling",
+3
+],
+[
+"Fryske dúmkes",
+3
+],
+[
+"bakpia pathok",
+3
+],
+[
+"paste di meliga",
+3
+],
+[
+"Tetyorki cookies",
+3
+],
+[
+"kоłасzki",
+3
+],
+[
+"serinakaker",
 3
 ],
 [
@@ -408,31 +420,19 @@
 3
 ],
 [
-"Fryske dúmkes",
+"Duvshaniot",
 3
 ],
 [
-"Lacquemant waffles",
+"Achira",
 3
 ],
 [
-"paste di meliga",
-3
-],
-[
-"bakpia pathok",
-3
-],
-[
-"Tetyorki cookies",
-3
-],
-[
-"Grisbì",
+"Bada reuteuk",
 2
 ],
 [
-"Biscottini di Novara",
+"dream",
 2
 ],
 [
@@ -440,11 +440,15 @@
 2
 ],
 [
-"Mergpijpje",
+"Biscottini di Novara",
 2
 ],
 [
 "Coconut cookies",
+2
+],
+[
+"Mergpijpje",
 2
 ],
 [
@@ -460,38 +464,6 @@
 2
 ],
 [
-"Hernhutter",
-2
-],
-[
-"Willisauer Ringli",
-2
-],
-[
-"Dokchok",
-2
-],
-[
-"Bada reuteuk",
-2
-],
-[
-"Jødekager",
-2
-],
-[
-"Oblietjie",
-2
-],
-[
-"puto seco",
-2
-],
-[
-"Caramanduca",
-2
-],
-[
 "Arnhemse meisjes",
 2
 ],
@@ -500,23 +472,19 @@
 2
 ],
 [
+"Hernhutter",
+2
+],
+[
 "Gangmaker",
 2
 ],
 [
-"Thin Mints",
+"Michel et Augustin",
 2
 ],
 [
-"Roskette",
-2
-],
-[
-"dream",
-2
-],
-[
-"avoador",
+"Grisbì",
 2
 ],
 [
@@ -528,7 +496,39 @@
 2
 ],
 [
-"Michel et Augustin",
+"Dokchok",
+2
+],
+[
+"Willisauer Ringli",
+2
+],
+[
+"puto seco",
+2
+],
+[
+"Roskette",
+2
+],
+[
+"Thin Mints",
+2
+],
+[
+"Jødekager",
+2
+],
+[
+"Caramanduca",
+2
+],
+[
+"Oblietjie",
+2
+],
+[
+"avoador",
 2
 ]
 ]

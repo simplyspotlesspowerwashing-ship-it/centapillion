@@ -28,15 +28,19 @@
 12
 ],
 [
-"Chocapic",
-9
-],
-[
 "Rice Krispies",
 9
 ],
 [
+"Chocapic",
+9
+],
+[
 "Cocoa Krispies",
+7
+],
+[
+"Cinnamon Toast Crunch",
 7
 ],
 [
@@ -48,15 +52,7 @@
 7
 ],
 [
-"Cinnamon Toast Crunch",
-7
-],
-[
-"Lucky Charms",
-6
-],
-[
-"Chex",
+"Sugar Puffs",
 6
 ],
 [
@@ -64,15 +60,7 @@
 6
 ],
 [
-"Sugar Puffs",
-6
-],
-[
 "General Mills monster-themed breakfast cereals",
-6
-],
-[
-"Cerelac",
 6
 ],
 [
@@ -80,8 +68,16 @@
 6
 ],
 [
-"Trix cereal",
-5
+"Lucky Charms",
+6
+],
+[
+"Cerelac",
+6
+],
+[
+"Chex",
+6
 ],
 [
 "Wheaties",
@@ -96,35 +92,15 @@
 5
 ],
 [
-"Kix",
-4
+"Trix cereal",
+5
 ],
 [
 "Honey Nut Cheerios",
 4
 ],
 [
-"Reese's Puffs",
-4
-],
-[
-"Honey Loops",
-4
-],
-[
-"Cocoa Puffs",
-4
-],
-[
-"Corn Pops",
-4
-],
-[
-"Life",
-4
-],
-[
-"Frosted Mini-Wheats",
+"Kix",
 4
 ],
 [
@@ -132,11 +108,39 @@
 4
 ],
 [
+"Corn Pops",
+4
+],
+[
+"Cocoa Puffs",
+4
+],
+[
+"Frosted Mini-Wheats",
+4
+],
+[
+"Honey Loops",
+4
+],
+[
+"Life",
+4
+],
+[
+"Reese's Puffs",
+4
+],
+[
 "puffed wheat",
 3
 ],
 [
-"Honeycomb cereal",
+"Pebbles cereal",
+3
+],
+[
+"All-Bran",
 3
 ],
 [
@@ -144,7 +148,7 @@
 3
 ],
 [
-"All-Bran",
+"Honeycomb cereal",
 3
 ],
 [
@@ -156,79 +160,11 @@
 3
 ],
 [
-"Pebbles cereal",
-3
-],
-[
 "Total",
 3
 ],
 [
-"Maypo",
-2
-],
-[
-"Green Onion Chex",
-2
-],
-[
-"Weetos",
-2
-],
-[
-"Quisp",
-2
-],
-[
-"S'mores Grahams",
-2
-],
-[
-"Triples",
-2
-],
-[
-"Baron von Redberry",
-2
-],
-[
-"Halfsies",
-2
-],
-[
-"Ready Brek",
-2
-],
-[
-"Brinta",
-2
-],
-[
-"Crunchy Nut",
-2
-],
-[
-"Fruit 'n Fibre",
-2
-],
-[
-"Just Right",
-2
-],
-[
-"Grape-Nuts",
-2
-],
-[
-"Krave",
-2
-],
-[
 "Havrefras",
-2
-],
-[
-"Raisin Wheats",
 2
 ],
 [
@@ -248,15 +184,83 @@
 2
 ],
 [
+"Brinta",
+2
+],
+[
+"Krave",
+2
+],
+[
+"Ready Brek",
+2
+],
+[
+"Baron von Redberry",
+2
+],
+[
+"Crunchy Nut",
+2
+],
+[
+"Fruit 'n Fibre",
+2
+],
+[
 "bran flakes",
 2
+],
+[
+"Grape-Nuts",
+2
+],
+[
+"Halfsies",
+2
+],
+[
+"Just Right",
+2
+],
+[
+"Maypo",
+2
+],
+[
+"Quisp",
+2
+],
+[
+"Raisin Wheats",
+2
+],
+[
+"S'mores Grahams",
+2
+],
+[
+"Triples",
+2
+],
+[
+"Weetos",
+2
+],
+[
+"Green Onion Chex",
+2
+],
+[
+"Lion Cereal",
+1
 ],
 [
 "Plus",
 1
 ],
 [
-"Post Toasties",
+"Alpha-Bits",
 1
 ],
 [
@@ -268,19 +272,15 @@
 1
 ],
 [
-"Golden Crisp",
-1
-],
-[
 "CoCo Wheats",
 1
 ],
 [
-"Alpha-Bits",
+"Golden Crisp",
 1
 ],
 [
-"Waffle Crisp",
+"Post Toasties",
 1
 ],
 [
@@ -288,7 +288,7 @@
 1
 ],
 [
-"Lion Cereal",
+"Waffle Crisp",
 1
 ]
 ]

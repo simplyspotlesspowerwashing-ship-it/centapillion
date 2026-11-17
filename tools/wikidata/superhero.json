@@ -1,0 +1,2398 @@
+[
+[
+"Spider-Man",
+128
+],
+[
+"Batman",
+115
+],
+[
+"Superman",
+109
+],
+[
+"Wonder Woman",
+106
+],
+[
+"Iron Man",
+84
+],
+[
+"Wolverine",
+62
+],
+[
+"Daredevil",
+57
+],
+[
+"Catwoman",
+56
+],
+[
+"Aquaman",
+49
+],
+[
+"Harley Quinn",
+47
+],
+[
+"Black Panther",
+46
+],
+[
+"Green Arrow",
+45
+],
+[
+"Scarlet Witch",
+45
+],
+[
+"Jean Grey",
+44
+],
+[
+"Black Widow",
+43
+],
+[
+"Lex Luthor",
+43
+],
+[
+"Batgirl",
+42
+],
+[
+"Robin",
+40
+],
+[
+"Silver Surfer",
+38
+],
+[
+"Supergirl",
+37
+],
+[
+"Captain Marvel",
+37
+],
+[
+"Storm",
+36
+],
+[
+"Gambit",
+35
+],
+[
+"Cyborg",
+33
+],
+[
+"Beast",
+33
+],
+[
+"Human Torch",
+33
+],
+[
+"Martian Manhunter",
+33
+],
+[
+"Mystique",
+33
+],
+[
+"Cyclops",
+33
+],
+[
+"She-Hulk",
+32
+],
+[
+"Quicksilver",
+32
+],
+[
+"Vision",
+31
+],
+[
+"Nightcrawler",
+31
+],
+[
+"Hellboy",
+30
+],
+[
+"Barry Allen",
+30
+],
+[
+"Flash Gordon",
+30
+],
+[
+"Invisible Woman",
+29
+],
+[
+"Miles Morales",
+29
+],
+[
+"Colossus",
+29
+],
+[
+"Warren Worthington III",
+29
+],
+[
+"Iceman",
+29
+],
+[
+"Rogue",
+29
+],
+[
+"Thing",
+29
+],
+[
+"Black Cat",
+29
+],
+[
+"Dick Grayson",
+28
+],
+[
+"Spawn",
+28
+],
+[
+"Bucky Barnes",
+27
+],
+[
+"Sandman",
+26
+],
+[
+"Barbara Gordon",
+26
+],
+[
+"Kitty Pryde",
+26
+],
+[
+"Juggernaut",
+26
+],
+[
+"Cable",
+25
+],
+[
+"Luke Cage",
+25
+],
+[
+"Hal Jordan",
+25
+],
+[
+"Swamp Thing",
+24
+],
+[
+"Hawkgirl",
+24
+],
+[
+"Beast Boy",
+24
+],
+[
+"Zatanna",
+24
+],
+[
+"Tim Drake",
+23
+],
+[
+"Jessica Jones",
+23
+],
+[
+"Black Adam",
+23
+],
+[
+"Havok",
+23
+],
+[
+"Doctor Fate",
+22
+],
+[
+"Tony Stark",
+22
+],
+[
+"Starfire",
+22
+],
+[
+"Jonah Hex",
+21
+],
+[
+"Emma Frost",
+21
+],
+[
+"Polaris",
+21
+],
+[
+"Shang-Chi",
+21
+],
+[
+"Black Bolt",
+21
+],
+[
+"Betsy Braddock",
+21
+],
+[
+"Jason Todd",
+20
+],
+[
+"Iron Fist",
+20
+],
+[
+"Thunderbolt Ross",
+20
+],
+[
+"X-23",
+20
+],
+[
+"Natasha Romanoff",
+20
+],
+[
+"Lobo",
+20
+],
+[
+"Jubilee",
+20
+],
+[
+"Blue Beetle",
+20
+],
+[
+"Man-Bat",
+19
+],
+[
+"Bishop",
+19
+],
+[
+"Raven",
+19
+],
+[
+"Doctor Manhattan",
+19
+],
+[
+"U.S. Agent",
+19
+],
+[
+"Damian Wayne",
+19
+],
+[
+"The Shadow",
+19
+],
+[
+"Wonder Man",
+18
+],
+[
+"The Homelander",
+18
+],
+[
+"Mera",
+18
+],
+[
+"Spider-Man 2099",
+18
+],
+[
+"Spider-Woman",
+18
+],
+[
+"Krypto",
+18
+],
+[
+"Wally West",
+18
+],
+[
+"Plastic Man",
+18
+],
+[
+"Jessica Drew",
+17
+],
+[
+"Duck Avenger",
+17
+],
+[
+"Question",
+17
+],
+[
+"Rorschach",
+17
+],
+[
+"Eddie Brock",
+17
+],
+[
+"Hercules",
+17
+],
+[
+"Booster Gold",
+17
+],
+[
+"Banshee",
+17
+],
+[
+"Kara Zor-El",
+17
+],
+[
+"Power Girl",
+17
+],
+[
+"Superboy",
+16
+],
+[
+"Bart Allen",
+16
+],
+[
+"Silk",
+16
+],
+[
+"Sportacus",
+16
+],
+[
+"Ben Reilly",
+16
+],
+[
+"John Stewart",
+16
+],
+[
+"Stephanie Brown",
+16
+],
+[
+"Atom",
+16
+],
+[
+"Jay Garrick",
+15
+],
+[
+"Firestorm",
+15
+],
+[
+"Green Hornet",
+15
+],
+[
+"Alan Scott",
+15
+],
+[
+"Dazzler",
+15
+],
+[
+"Magik",
+15
+],
+[
+"Cassandra Cain",
+15
+],
+[
+"Medusa",
+15
+],
+[
+"Spectre",
+15
+],
+[
+"Guy Gardner",
+15
+],
+[
+"Domino",
+15
+],
+[
+"Marinette Dupain-Cheng",
+15
+],
+[
+"Betty Ross",
+15
+],
+[
+"Lana Lang",
+15
+],
+[
+"Black Lightning",
+15
+],
+[
+"Huntress",
+14
+],
+[
+"Metamorpho",
+14
+],
+[
+"Steel",
+14
+],
+[
+"V",
+14
+],
+[
+"Spider-Girl",
+14
+],
+[
+"Crystal",
+14
+],
+[
+"Black Knight",
+14
+],
+[
+"Elastigirl",
+14
+],
+[
+"Sentry",
+14
+],
+[
+"Elongated Man",
+14
+],
+[
+"Adam Strange",
+14
+],
+[
+"Patsy Walker",
+13
+],
+[
+"Red Tornado",
+13
+],
+[
+"Rachel Summers",
+13
+],
+[
+"Kyle Rayner",
+13
+],
+[
+"Donna Troy",
+13
+],
+[
+"Spider-Man Noir",
+13
+],
+[
+"Mighty Mouse",
+13
+],
+[
+"Captain Atom",
+13
+],
+[
+"Adrien Agreste",
+13
+],
+[
+"Katana",
+13
+],
+[
+"Etrigan the Demon",
+13
+],
+[
+"Forge",
+12
+],
+[
+"Captain Marvel Jr.",
+12
+],
+[
+"Cannonball",
+12
+],
+[
+"Conner Kent",
+12
+],
+[
+"Speedy",
+12
+],
+[
+"Kaine",
+12
+],
+[
+"Jamie Madrox",
+12
+],
+[
+"Kate Kane",
+12
+],
+[
+"Jessica Cruz",
+12
+],
+[
+"Franklin Richards",
+12
+],
+[
+"Kid Flash",
+12
+],
+[
+"Omni-Man",
+12
+],
+[
+"Hippolyta",
+12
+],
+[
+"Cassandra Lang",
+12
+],
+[
+"Kilowog",
+12
+],
+[
+"Mary Marvel",
+12
+],
+[
+"Spirit",
+12
+],
+[
+"Izuku Midoriya",
+12
+],
+[
+"Sunfire",
+12
+],
+[
+"Thomas Wayne",
+11
+],
+[
+"Courtney Whitmore",
+11
+],
+[
+"Jesse Chambers",
+11
+],
+[
+"Roy Harper",
+11
+],
+[
+"Darwin",
+11
+],
+[
+"Jade",
+11
+],
+[
+"Wildcat",
+11
+],
+[
+"Terry McGinnis",
+11
+],
+[
+"Blink",
+11
+],
+[
+"Jamie Reyes",
+11
+],
+[
+"Bruce Wayne",
+11
+],
+[
+"Sunspot",
+11
+],
+[
+"Peter Parker",
+11
+],
+[
+"Tabitha Smith",
+11
+],
+[
+"Chloe Sullivan",
+11
+],
+[
+"Hawkwoman",
+10
+],
+[
+"Legion",
+10
+],
+[
+"Mister Terrific",
+10
+],
+[
+"Sara Lance",
+10
+],
+[
+"Shade, the Changing Man",
+10
+],
+[
+"Phantom Stranger",
+10
+],
+[
+"Garth",
+10
+],
+[
+"Siryn",
+10
+],
+[
+"Renee Montoya",
+10
+],
+[
+"Superboy-Prime",
+10
+],
+[
+"Vixen",
+10
+],
+[
+"Terra",
+10
+],
+[
+"Bumblebee",
+10
+],
+[
+"Invincible",
+10
+],
+[
+"Superwoman",
+10
+],
+[
+"Phantom",
+10
+],
+[
+"Animal Man",
+10
+],
+[
+"Saitama",
+10
+],
+[
+"Danielle Moonstar",
+10
+],
+[
+"Abin Sur",
+10
+],
+[
+"Wonder Girl",
+10
+],
+[
+"Warpath",
+10
+],
+[
+"Wolfsbane",
+10
+],
+[
+"Katsuki Bakugo",
+9
+],
+[
+"Ochaco Uraraka",
+9
+],
+[
+"Congorilla",
+9
+],
+[
+"Deadman",
+9
+],
+[
+"Oliver Queen",
+9
+],
+[
+"Ace the Bat-Hound",
+9
+],
+[
+"Orion",
+9
+],
+[
+"Mister Miracle",
+9
+],
+[
+"Ozymandias",
+9
+],
+[
+"Karma",
+9
+],
+[
+"Anya Corazón",
+9
+],
+[
+"Saturn Girl",
+9
+],
+[
+"Eradicator",
+9
+],
+[
+"Hourman",
+9
+],
+[
+"Miss Martian",
+9
+],
+[
+"Bronze Tiger",
+9
+],
+[
+"Vibe",
+9
+],
+[
+"Firestar",
+9
+],
+[
+"Isis",
+9
+],
+[
+"The Creeper",
+9
+],
+[
+"Luna Snow",
+9
+],
+[
+"Clark Kent",
+9
+],
+[
+"Azrael",
+9
+],
+[
+"B'wana Beast",
+9
+],
+[
+"Fire",
+9
+],
+[
+"Anne Weying",
+8
+],
+[
+"Nova",
+8
+],
+[
+"Mattie Franklin",
+8
+],
+[
+"Albert Rothstein",
+8
+],
+[
+"Lockheed",
+8
+],
+[
+"Tigra",
+8
+],
+[
+"Aurora",
+8
+],
+[
+"Jon Kent",
+8
+],
+[
+"Copycat",
+8
+],
+[
+"Carrie Kelley",
+8
+],
+[
+"Isaiah Bradley",
+8
+],
+[
+"Negative Man",
+8
+],
+[
+"Duela Dent",
+8
+],
+[
+"Ultimate Spider-Woman",
+8
+],
+[
+"Ambush Bug",
+8
+],
+[
+"Simon Baz",
+8
+],
+[
+"Thunderbird",
+8
+],
+[
+"Kamandi",
+8
+],
+[
+"Rose Wilson",
+8
+],
+[
+"Shoto Todoroki",
+8
+],
+[
+"Rip Hunter",
+8
+],
+[
+"Starlight",
+7
+],
+[
+"Connor Hawke",
+7
+],
+[
+"Max Mercury",
+7
+],
+[
+"Ice",
+7
+],
+[
+"Doctor Occult",
+7
+],
+[
+"Iron Lad",
+7
+],
+[
+"Tick",
+7
+],
+[
+"Tomar-Re",
+7
+],
+[
+"Ted Kord",
+7
+],
+[
+"Brainiac 5",
+7
+],
+[
+"Hope Summers",
+7
+],
+[
+"Mogo",
+7
+],
+[
+"Cypher",
+7
+],
+[
+"Miss Fury",
+7
+],
+[
+"Savage Dragon",
+7
+],
+[
+"Carol Ferris",
+7
+],
+[
+"Bill Foster",
+7
+],
+[
+"Magma",
+7
+],
+[
+"Husk",
+7
+],
+[
+"Bette Kane",
+7
+],
+[
+"Big Barda",
+7
+],
+[
+"Kevin Sydney",
+7
+],
+[
+"Antiope",
+7
+],
+[
+"Robotman",
+7
+],
+[
+"Streaky the Supercat",
+7
+],
+[
+"Helena Wayne",
+7
+],
+[
+"Static",
+7
+],
+[
+"Damage",
+7
+],
+[
+"Amethyst",
+7
+],
+[
+"Kendra Saunders",
+7
+],
+[
+"Jericho",
+7
+],
+[
+"Impulse",
+7
+],
+[
+"Kato",
+7
+],
+[
+"Blue Devil",
+7
+],
+[
+"Valeria Richards",
+7
+],
+[
+"Ion",
+6
+],
+[
+"Harbinger",
+6
+],
+[
+"Pepsiman",
+6
+],
+[
+"Guardian",
+6
+],
+[
+"Hellion",
+6
+],
+[
+"Star-Spangled Kid",
+6
+],
+[
+"Plastique",
+6
+],
+[
+"Zatara",
+6
+],
+[
+"Ragman",
+6
+],
+[
+"Shade",
+6
+],
+[
+"Cecilia Reyes",
+6
+],
+[
+"Sage",
+6
+],
+[
+"Armor",
+6
+],
+[
+"Garth Ranzz",
+6
+],
+[
+"Ace West",
+6
+],
+[
+"M",
+6
+],
+[
+"OMAC",
+6
+],
+[
+"Wild Child",
+6
+],
+[
+"Nate Grey",
+6
+],
+[
+"Doctor Mid-Nite",
+6
+],
+[
+"Caliban",
+6
+],
+[
+"Spyke",
+6
+],
+[
+"Fenton Crackshell",
+6
+],
+[
+"Red Robin",
+6
+],
+[
+"Satana",
+6
+],
+[
+"Monitor",
+6
+],
+[
+"Cyclone",
+6
+],
+[
+"Frankenstein",
+6
+],
+[
+"Hawkman",
+6
+],
+[
+"Crazy Jane",
+6
+],
+[
+"Maxima",
+6
+],
+[
+"Ultimate Spider-Man",
+6
+],
+[
+"Shiera Sanders Hall",
+6
+],
+[
+"Elasti-Girl",
+6
+],
+[
+"Kathy Kane",
+6
+],
+[
+"Madame Xanadu",
+6
+],
+[
+"Nightstar",
+6
+],
+[
+"Sasquatch",
+6
+],
+[
+"Johnny Thunder",
+6
+],
+[
+"Warlord",
+6
+],
+[
+"Lar Gand",
+6
+],
+[
+"Lin Lie",
+5
+],
+[
+"Black Noir",
+5
+],
+[
+"Mr. A",
+5
+],
+[
+"Detective Chimp",
+5
+],
+[
+"Condoman",
+5
+],
+[
+"Ink",
+5
+],
+[
+"Pandora",
+5
+],
+[
+"Sebastian Faust",
+5
+],
+[
+"Chris Bradley",
+5
+],
+[
+"Barb Wire",
+5
+],
+[
+"Nocturne",
+5
+],
+[
+"Shatterstar",
+5
+],
+[
+"Slam Bradley",
+5
+],
+[
+"Darkstar",
+5
+],
+[
+"Lori Lemaris",
+5
+],
+[
+"Obsidian",
+5
+],
+[
+"Strong Guy",
+5
+],
+[
+"Comedian",
+5
+],
+[
+"Mimic",
+5
+],
+[
+"Warlock",
+5
+],
+[
+"Snowbird",
+5
+],
+[
+"Silk Spectre II",
+5
+],
+[
+"Lilith",
+5
+],
+[
+"Gosalyn Mallard",
+5
+],
+[
+"Sasha Bordeaux",
+5
+],
+[
+"Jeffrey Mace",
+5
+],
+[
+"Batman of Zur-En-Arrh",
+5
+],
+[
+"Crispus Allen",
+5
+],
+[
+"Saint Walker",
+5
+],
+[
+"Nightshade",
+5
+],
+[
+"Paula Brooks",
+5
+],
+[
+"Lightray",
+5
+],
+[
+"Shield",
+5
+],
+[
+"Zauriel",
+5
+],
+[
+"Uncle Marvel",
+5
+],
+[
+"Shayera Hol",
+5
+],
+[
+"Aqualad",
+5
+],
+[
+"Vartox",
+5
+],
+[
+"Black Terror",
+5
+],
+[
+"Supreme",
+5
+],
+[
+"Blossom",
+5
+],
+[
+"Dan Garret",
+5
+],
+[
+"Gypsy",
+5
+],
+[
+"Doll Man",
+5
+],
+[
+"Waverider",
+5
+],
+[
+"Lightning",
+5
+],
+[
+"Resurrection Man",
+5
+],
+[
+"Thunder",
+5
+],
+[
+"Zeus",
+5
+],
+[
+"Captain Comet",
+5
+],
+[
+"Zor-El",
+5
+],
+[
+"Minute-Man",
+4
+],
+[
+"Danny Phantom",
+4
+],
+[
+"Sodam Yat",
+4
+],
+[
+"Nite Owl",
+4
+],
+[
+"Kent Nelson",
+4
+],
+[
+"Anita Blake",
+4
+],
+[
+"Darkwing Duck",
+4
+],
+[
+"Atom (Al Pratt)",
+4
+],
+[
+"Geo-Force",
+4
+],
+[
+"Pat Dugan",
+4
+],
+[
+"Black Condor",
+4
+],
+[
+"Ganthet",
+4
+],
+[
+"Joseph",
+4
+],
+[
+"Artemis of Bana-Mighdall",
+4
+],
+[
+"Alexander Luthor Jr.",
+4
+],
+[
+"Arkham Knight",
+4
+],
+[
+"Haunt",
+4
+],
+[
+"Phantom Girl",
+4
+],
+[
+"The Crow",
+4
+],
+[
+"John Diggle",
+4
+],
+[
+"Red Star",
+4
+],
+[
+"Super-Man",
+4
+],
+[
+"Bedlam",
+4
+],
+[
+"Nubia",
+4
+],
+[
+"Bouncing Boy",
+4
+],
+[
+"Cosmic Boy",
+4
+],
+[
+"Thea Queen",
+4
+],
+[
+"Kole",
+4
+],
+[
+"Magdalena",
+4
+],
+[
+"Max Guevara",
+4
+],
+[
+"Pantha",
+4
+],
+[
+"Ruby Summers",
+4
+],
+[
+"Shaman",
+4
+],
+[
+"Peter Cannon, Thunderbolt",
+4
+],
+[
+"Luornu Durgo",
+4
+],
+[
+"Crimson Avenger",
+4
+],
+[
+"Crimson Fox",
+4
+],
+[
+"Doctor Light",
+4
+],
+[
+"Magenta",
+4
+],
+[
+"Bombshell",
+4
+],
+[
+"Agent Liberty",
+4
+],
+[
+"Amanda Sefton",
+4
+],
+[
+"Gim Allon",
+4
+],
+[
+"Ferro Lad",
+4
+],
+[
+"Forager",
+4
+],
+[
+"Golden Eagle",
+4
+],
+[
+"Goliath",
+4
+],
+[
+"Grifter",
+4
+],
+[
+"Jet",
+4
+],
+[
+"Karate Kid",
+4
+],
+[
+"Manhunter",
+4
+],
+[
+"Katma Tui",
+4
+],
+[
+"Ke'Haan",
+4
+],
+[
+"Kid Eternity",
+4
+],
+[
+"Liberty Belle",
+4
+],
+[
+"Boodikka",
+4
+],
+[
+"Maker",
+4
+],
+[
+"Richard Dragon",
+4
+],
+[
+"Rocket Red",
+4
+],
+[
+"Shikari",
+4
+],
+[
+"Soranik Natu",
+4
+],
+[
+"Tyroc",
+4
+],
+[
+"Yankee Girl",
+4
+],
+[
+"Argent",
+4
+],
+[
+"Avenger",
+4
+],
+[
+"Emiko Queen",
+4
+],
+[
+"Bekka",
+4
+],
+[
+"Black Alice",
+4
+],
+[
+"Claw the Unconquered",
+4
+],
+[
+"Dolphin",
+4
+],
+[
+"Adrian Chase",
+4
+],
+[
+"Glory",
+4
+],
+[
+"Lilith Clay",
+4
+],
+[
+"Harvey Birdman",
+4
+],
+[
+"Chitti",
+4
+],
+[
+"El Chapulín Colorado",
+4
+],
+[
+"Holly Robinson",
+4
+],
+[
+"Icon",
+4
+],
+[
+"Uncle Sam",
+4
+],
+[
+"All Might",
+4
+],
+[
+"Lagoon Boy",
+4
+],
+[
+"Looker",
+4
+],
+[
+"Natasha Irons",
+4
+],
+[
+"Duke Thomas",
+4
+],
+[
+"Miss America",
+4
+],
+[
+"Traci Thirteen",
+4
+],
+[
+"Wild Dog",
+4
+],
+[
+"Will Magnus",
+4
+],
+[
+"Nightwatch",
+4
+],
+[
+"Meggan",
+4
+],
+[
+"Charles Xavier",
+3
+],
+[
+"Magneto",
+3
+],
+[
+"Vril Dox",
+3
+],
+[
+"Tess Mercer",
+3
+],
+[
+"Ray (Ray Terrill)",
+3
+],
+[
+"Invisible Hood",
+3
+],
+[
+"Human Bomb",
+3
+],
+[
+"Bluebird",
+3
+],
+[
+"Sandy Hawkins",
+3
+],
+[
+"Jack Knight",
+3
+],
+[
+"Onyx",
+3
+],
+[
+"Dev-Em",
+3
+],
+[
+"XS",
+3
+],
+[
+"Phantom Lady",
+3
+],
+[
+"Pariah",
+3
+],
+[
+"Dark Claw",
+3
+],
+[
+"Jimmy Hudson",
+3
+],
+[
+"Hiro Hamada",
+3
+],
+[
+"Zealot",
+3
+],
+[
+"Artemis Crock",
+3
+],
+[
+"Johnny Quick",
+3
+],
+[
+"Gnarrk",
+3
+],
+[
+"Osiris",
+3
+],
+[
+"Nightrunner",
+3
+],
+[
+"Outlaw",
+3
+],
+[
+"Rusty Collins",
+3
+],
+[
+"Stalker",
+3
+],
+[
+"Talisman",
+3
+],
+[
+"Atomic Knight",
+3
+],
+[
+"Doctor Mist",
+3
+],
+[
+"Klarion the Witch Boy",
+3
+],
+[
+"Takion",
+3
+],
+[
+"Major Disaster",
+3
+],
+[
+"Amazing-Man",
+3
+],
+[
+"Ayla Ranzz",
+3
+],
+[
+"Bizarra",
+3
+],
+[
+"Blue Jay",
+3
+],
+[
+"Bozo the Iron Man",
+3
+],
+[
+"Caitlin Fairchild",
+3
+],
+[
+"Ch'p",
+3
+],
+[
+"Dragonfly",
+3
+],
+[
+"Mister America",
+3
+],
+[
+"G'nort",
+3
+],
+[
+"Gay Ghost",
+3
+],
+[
+"Gloss",
+3
+],
+[
+"Green Man",
+3
+],
+[
+"Hector Hall",
+3
+],
+[
+"Hoppy the Marvel Bunny",
+3
+],
+[
+"Immortal Man",
+3
+],
+[
+"Iris West II",
+3
+],
+[
+"Iron Munro",
+3
+],
+[
+"Jakeem Thunder",
+3
+],
+[
+"King Faraday",
+3
+],
+[
+"Kreon",
+3
+],
+[
+"Red Lotus",
+3
+],
+[
+"Manhattan Guardian",
+3
+],
+[
+"Matter-Eater Lad",
+3
+],
+[
+"Mento",
+3
+],
+[
+"Merry Pemberton",
+3
+],
+[
+"Miss Victory",
+3
+],
+[
+"Mister Majestic",
+3
+],
+[
+"Night Girl",
+3
+],
+[
+"Nightmaster",
+3
+],
+[
+"Orana",
+3
+],
+[
+"Polar Boy",
+3
+],
+[
+"Proty",
+3
+],
+[
+"Rainbow Girl",
+3
+],
+[
+"Red Bee",
+3
+],
+[
+"Reep Daggle",
+3
+],
+[
+"Samurai",
+3
+],
+[
+"Secret",
+3
+],
+[
+"Princess Projectra",
+3
+],
+[
+"Shadow Lass",
+3
+],
+[
+"Silver Sorceress",
+3
+],
+[
+"Solovar",
+3
+],
+[
+"Stel",
+3
+],
+[
+"Strange Visitor",
+3
+],
+[
+"Sun Boy",
+3
+],
+[
+"Sylvester Pemberton",
+3
+],
+[
+"Tex Thompson",
+3
+],
+[
+"Thom Kallor",
+3
+],
+[
+"Timber Wolf",
+3
+],
+[
+"Ultra Boy",
+3
+],
+[
+"Ultraa",
+3
+],
+[
+"Cogliostro",
+3
+],
+[
+"Phil Urich",
+3
+],
+[
+"Air Wave",
+3
+],
+[
+"Apache Chief",
+3
+],
+[
+"Aquagirl",
+3
+],
+[
+"Arm-Fall-Off-Boy",
+3
+],
+[
+"Atom Eve",
+3
+],
+[
+"Thunderbolt",
+3
+],
+[
+"Vigilante",
+3
+],
+[
+"Tomar-Tu",
+3
+],
+[
+"Chris Kent",
+3
+],
+[
+"Voodoo",
+3
+],
+[
+"Bubbles",
+3
+],
+[
+"Felicity Hardy",
+3
+],
+[
+"Fly",
+3
+],
+[
+"Grace Choi",
+3
+],
+[
+"Halo",
+3
+],
+[
+"Hank Hall",
+3
+],
+[
+"Jason Rusch",
+3
+],
+[
+"Icemaiden",
+3
+],
+[
+"Ted Grant",
+3
+],
+[
+"Ronnie Raymond",
+3
+],
+[
+"Barnacle Boy",
+3
+],
+[
+"Kid Devil",
+3
+],
+[
+"Vindicator",
+3
+],
+[
+"General Glory",
+3
+],
+[
+"Misfit",
+3
+],
+[
+"Nemesis",
+3
+],
+[
+"Normie Osborn",
+3
+],
+[
+"Prez",
+3
+],
+[
+"Prophet",
+3
+],
+[
+"Rama",
+3
+],
+[
+"Rising Sun",
+3
+],
+[
+"Rocket",
+3
+],
+[
+"Seraph",
+3
+],
+[
+"Son of Vulcan",
+3
+],
+[
+"Blok",
+3
+],
+[
+"Superduperman",
+3
+],
+[
+"Tommy Tomorrow",
+3
+],
+[
+"Salaak",
+3
+],
+[
+"Ultimate Wolverine",
+3
+],
+[
+"Mermaid Man",
+3
+],
+[
+"Isamot Kol",
+3
+],
+[
+"Henry King Jr.",
+3
+],
+[
+"Beth Chapel",
+3
+],
+[
+"Dinah Lance",
+3
+]
+]

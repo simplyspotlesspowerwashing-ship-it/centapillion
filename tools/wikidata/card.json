@@ -20,11 +20,11 @@
 33
 ],
 [
-"whist",
+"hanafuda",
 33
 ],
 [
-"hanafuda",
+"whist",
 33
 ],
 [
@@ -60,20 +60,16 @@
 20
 ],
 [
-"War",
+"cribbage",
 18
 ],
 [
-"cribbage",
+"War",
 18
 ],
 [
 "Black Peter",
 18
-],
-[
-"Hearts",
-17
 ],
 [
 "Splendor",
@@ -84,7 +80,11 @@
 17
 ],
 [
-"French tarot",
+"Hearts",
+17
+],
+[
+"Bezique",
 16
 ],
 [
@@ -92,20 +92,12 @@
 16
 ],
 [
-"Bezique",
-16
-],
-[
 "twenty-one",
 16
 ],
 [
-"oh, hell",
-15
-],
-[
-"Tressette",
-15
+"French tarot",
+16
 ],
 [
 "Gin rummy",
@@ -116,7 +108,15 @@
 15
 ],
 [
+"Tressette",
+15
+],
+[
 "Crazy Eights",
+15
+],
+[
+"oh, hell",
 15
 ],
 [
@@ -124,24 +124,12 @@
 14
 ],
 [
-"Visconti-Sforza tarot",
-14
-],
-[
 "sixty-six",
 14
 ],
 [
-"Go-Stop",
-13
-],
-[
-"Sevens",
-13
-],
-[
-"Go Fish",
-13
+"Visconti-Sforza tarot",
+14
 ],
 [
 "Sette e Mezzo",
@@ -152,15 +140,11 @@
 13
 ],
 [
-"Spider",
+"Sevens",
 13
 ],
 [
-"Old maid",
-13
-],
-[
-"Truco",
+"Go-Stop",
 13
 ],
 [
@@ -168,7 +152,23 @@
 13
 ],
 [
+"Old maid",
+13
+],
+[
 "ombre",
+13
+],
+[
+"Spider",
+13
+],
+[
+"Go Fish",
+13
+],
+[
+"Truco",
 13
 ],
 [
@@ -180,7 +180,7 @@
 12
 ],
 [
-"écarté",
+"three-card monte",
 12
 ],
 [
@@ -188,11 +188,7 @@
 12
 ],
 [
-"three-card monte",
-12
-],
-[
-"Jass",
+"écarté",
 12
 ],
 [
@@ -204,11 +200,11 @@
 12
 ],
 [
-"Russian bank",
-11
+"Jass",
+12
 ],
 [
-"Lansquenet",
+"Russian bank",
 11
 ],
 [
@@ -216,7 +212,19 @@
 11
 ],
 [
-"Kabufuda",
+"Lansquenet",
+11
+],
+[
+"Cassino",
+10
+],
+[
+"Kemps",
+10
+],
+[
+"Trente et Quarante",
 10
 ],
 [
@@ -228,23 +236,11 @@
 10
 ],
 [
+"Kabufuda",
+10
+],
+[
 "Scum",
-10
-],
-[
-"Cassino",
-10
-],
-[
-"mus",
-10
-],
-[
-"Trente et Quarante",
-10
-],
-[
-"Kemps",
 10
 ],
 [
@@ -252,19 +248,11 @@
 10
 ],
 [
-"Tute",
-9
-],
-[
-"Conquian",
-9
+"mus",
+10
 ],
 [
 "Sanguosha",
-9
-],
-[
-"happy families",
 9
 ],
 [
@@ -276,7 +264,15 @@
 9
 ],
 [
+"Tute",
+9
+],
+[
 "24 game",
+9
+],
+[
+"happy families",
 9
 ],
 [
@@ -284,23 +280,15 @@
 9
 ],
 [
-"Lost Cities",
-8
-],
-[
-"Top Trumps",
-8
-],
-[
-"Karnöffel",
-8
-],
-[
-"Eleusis",
-8
+"Conquian",
+9
 ],
 [
 "Buraco",
+8
+],
+[
+"Lost Cities",
 8
 ],
 [
@@ -308,11 +296,15 @@
 8
 ],
 [
-"competitive karuta",
+"duplicate bridge",
 8
 ],
 [
-"duplicate bridge",
+"Karnöffel",
+8
+],
+[
+"competitive karuta",
 8
 ],
 [
@@ -320,8 +312,12 @@
 8
 ],
 [
-"Aluette",
-7
+"Top Trumps",
+8
+],
+[
+"Eleusis",
+8
 ],
 [
 "Ligretto",
@@ -332,7 +328,15 @@
 7
 ],
 [
-"Pyramid",
+"Mao",
+7
+],
+[
+"Macao",
+7
+],
+[
+"Race for the Galaxy",
 7
 ],
 [
@@ -344,19 +348,11 @@
 7
 ],
 [
-"Race for the Galaxy",
+"Pyramid",
 7
 ],
 [
-"Spoons",
-7
-],
-[
-"rubber bridge",
-7
-],
-[
-"burro",
+"Aluette",
 7
 ],
 [
@@ -364,23 +360,11 @@
 7
 ],
 [
-"Watten",
+"burro",
 7
 ],
 [
-"Boston",
-7
-],
-[
-"Barbu",
-7
-],
-[
-"Mao",
-7
-],
-[
-"Macao",
+"rubber bridge",
 7
 ],
 [
@@ -396,7 +380,23 @@
 7
 ],
 [
-"Lorum",
+"Barbu",
+7
+],
+[
+"Spoons",
+7
+],
+[
+"Boston",
+7
+],
+[
+"Watten",
+7
+],
+[
+"Napoleon",
 6
 ],
 [
@@ -404,27 +404,7 @@
 6
 ],
 [
-"Tablanet",
-6
-],
-[
-"Spit",
-6
-],
-[
-"Russian Schnapsen",
-6
-],
-[
-"slapjack",
-6
-],
-[
-"Napoleon",
-6
-],
-[
-"Court piece",
+"Lorum",
 6
 ],
 [
@@ -436,15 +416,11 @@
 6
 ],
 [
-"Pasur",
+"Russian Schnapsen",
 6
 ],
 [
-"Continental Rummy",
-6
-],
-[
-"Four Color Cards",
+"Spit",
 6
 ],
 [
@@ -460,11 +436,7 @@
 6
 ],
 [
-"500",
-6
-],
-[
-"Chinchón",
+"Four Color Cards",
 6
 ],
 [
@@ -472,7 +444,39 @@
 6
 ],
 [
-"Jaipur",
+"Tablanet",
+6
+],
+[
+"Chinchón",
+6
+],
+[
+"500",
+6
+],
+[
+"Continental Rummy",
+6
+],
+[
+"Pasur",
+6
+],
+[
+"Court piece",
+6
+],
+[
+"slapjack",
+6
+],
+[
+"Three card brag",
+6
+],
+[
+"Pan",
 5
 ],
 [
@@ -480,31 +484,15 @@
 5
 ],
 [
+"Forest Shuffle",
+5
+],
+[
 "Trappola",
 5
 ],
 [
-"Zwicken",
-5
-],
-[
-"Polignac",
-5
-],
-[
-"Sueca",
-5
-],
-[
-"Sequence",
-5
-],
-[
-"Rams",
-5
-],
-[
-"Bouillotte",
+"Jaipur",
 5
 ],
 [
@@ -512,7 +500,15 @@
 5
 ],
 [
+"Klaverjas",
+5
+],
+[
 "Golf",
+5
+],
+[
+"Polignac",
 5
 ],
 [
@@ -524,22 +520,6 @@
 5
 ],
 [
-"One Card",
-5
-],
-[
-"Chicago",
-5
-],
-[
-"auction bridge",
-5
-],
-[
-"Pan",
-5
-],
-[
 "Stýrivolt",
 5
 ],
@@ -548,7 +528,15 @@
 5
 ],
 [
+"Zwicken",
+5
+],
+[
 "zole",
+5
+],
+[
+"Primero",
 5
 ],
 [
@@ -560,7 +548,7 @@
 5
 ],
 [
-"Primero",
+"Blüchern",
 5
 ],
 [
@@ -572,11 +560,31 @@
 5
 ],
 [
-"Blüchern",
+"Chicago",
 5
 ],
 [
-"Forest Shuffle",
+"auction bridge",
+5
+],
+[
+"Nain Jaune",
+5
+],
+[
+"One Card",
+5
+],
+[
+"Rams",
+5
+],
+[
+"Sequence",
+5
+],
+[
+"Sueca",
 5
 ],
 [
@@ -584,7 +592,7 @@
 5
 ],
 [
-"Nain Jaune",
+"Bouillotte",
 5
 ]
 ]

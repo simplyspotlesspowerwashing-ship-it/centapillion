@@ -76,11 +76,11 @@
 22
 ],
 [
-"fermented milk product",
+"Baikal",
 19
 ],
 [
-"Baikal",
+"fermented milk product",
 19
 ],
 [
@@ -96,12 +96,16 @@
 16
 ],
 [
+"Teh Talua",
+15
+],
+[
 "White Coke",
 15
 ],
 [
-"Teh Talua",
-15
+"Spezi",
+14
 ],
 [
 "Mezzo Mix",
@@ -109,10 +113,6 @@
 ],
 [
 "Sirap Bandung",
-14
-],
-[
-"Spezi",
 14
 ],
 [
@@ -124,11 +124,11 @@
 12
 ],
 [
-"Sarsaparilla",
+"guaraná",
 11
 ],
 [
-"Kas",
+"Vimto",
 11
 ],
 [
@@ -140,12 +140,24 @@
 11
 ],
 [
-"Vimto",
+"Kas",
 11
 ],
 [
-"guaraná",
+"Sarsaparilla",
 11
+],
+[
+"Lucozade",
+10
+],
+[
+"Faxe Kondi",
+10
+],
+[
+"Cajuína",
+10
 ],
 [
 "Mello Yello",
@@ -156,19 +168,7 @@
 10
 ],
 [
-"Lucozade",
-10
-],
-[
-"Cajuína",
-10
-],
-[
-"Faxe Kondi",
-10
-],
-[
-"Solo",
+"Vinea",
 9
 ],
 [
@@ -176,23 +176,7 @@
 9
 ],
 [
-"Duchess",
-9
-],
-[
-"Vinea",
-9
-],
-[
-"Crush",
-9
-],
-[
 "Cuba Cola",
-9
-],
-[
-"diet soda",
 9
 ],
 [
@@ -200,15 +184,27 @@
 9
 ],
 [
+"diet soda",
+9
+],
+[
+"Duchess",
+9
+],
+[
 "Cappy",
 9
 ],
 [
-"Barq's",
-8
+"Solo",
+9
 ],
 [
-"Trocadero",
+"Crush",
+9
+],
+[
+"C.C. Lemon",
 8
 ],
 [
@@ -216,11 +212,11 @@
 8
 ],
 [
-"Jarritos",
+"Coca-Cola with Lemon",
 8
 ],
 [
-"Coca-Cola with Lemon",
+"Trocadero",
 8
 ],
 [
@@ -228,7 +224,11 @@
 8
 ],
 [
-"C.C. Lemon",
+"Jarritos",
+8
+],
+[
+"Barq's",
 8
 ],
 [
@@ -236,7 +236,7 @@
 7
 ],
 [
-"Guaraná Jesus",
+"Moxie",
 7
 ],
 [
@@ -244,19 +244,19 @@
 7
 ],
 [
-"Sprite Zero",
-7
-],
-[
 "Ambasa",
 7
 ],
 [
-"Moxie",
+"Guaraná Jesus",
 7
 ],
 [
-"Cucumber soda",
+"Sprite Zero",
+7
+],
+[
+"Coca Colla",
 6
 ],
 [
@@ -264,19 +264,19 @@
 6
 ],
 [
-"Kuat",
-6
-],
-[
 "Bluna",
 6
 ],
 [
-"Dandelion and burdock",
+"Cucumber soda",
 6
 ],
 [
-"Milkis",
+"birch beer",
+6
+],
+[
+"julebrus",
 6
 ],
 [
@@ -288,19 +288,11 @@
 6
 ],
 [
-"Slice",
+"Laranjada",
 6
 ],
 [
-"julebrus",
-6
-],
-[
-"Coca Colla",
-6
-],
-[
-"Surge",
+"Kuat",
 6
 ],
 [
@@ -308,47 +300,31 @@
 6
 ],
 [
+"Dandelion and burdock",
+6
+],
+[
+"Surge",
+6
+],
+[
 "Banta",
 6
 ],
 [
-"Laranjada",
+"Slice",
 6
 ],
 [
-"birch beer",
+"Milkis",
 6
 ],
 [
-"Spiro Spathis",
+"Kickapoo Joy Juice",
 5
 ],
 [
 "Skiwasser",
-5
-],
-[
-"Hires Root Beer",
-5
-],
-[
-"Mitsuya Cider",
-5
-],
-[
-"Cidona",
-5
-],
-[
-"Big Red",
-5
-],
-[
-"Gold Spot",
-5
-],
-[
-"Kickapoo Joy Juice",
 5
 ],
 [
@@ -368,15 +344,35 @@
 5
 ],
 [
+"Big Red",
+5
+],
+[
+"Cidona",
+5
+],
+[
+"Gold Spot",
+5
+],
+[
+"Hires Root Beer",
+5
+],
+[
+"Spiro Spathis",
+5
+],
+[
+"Mitsuya Cider",
+5
+],
+[
+"Malta",
+4
+],
+[
 "Hydrox Corporation",
-4
-],
-[
-"Jolly Shandy",
-4
-],
-[
-"Big Cola",
 4
 ],
 [
@@ -384,19 +380,23 @@
 4
 ],
 [
-"Malta",
+"Premium-Cola",
 4
 ],
 [
-"Oasis",
+"Jolly Shandy",
 4
 ],
 [
-"Nehi",
+"spuma",
 4
 ],
 [
-"Morir Soñando",
+"BAWLS Guarana",
+4
+],
+[
+"Citrus Blast",
 4
 ],
 [
@@ -408,7 +408,19 @@
 4
 ],
 [
+"Paso de los Toros",
+4
+],
+[
 "Jaffa",
+4
+],
+[
+"Morir Soñando",
+4
+],
+[
+"Nehi",
 4
 ],
 [
@@ -416,27 +428,7 @@
 4
 ],
 [
-"Paso de los Toros",
-4
-],
-[
-"Premium-Cola",
-4
-],
-[
-"Citrus Blast",
-4
-],
-[
 "Smart",
-4
-],
-[
-"Vernors",
-4
-],
-[
-"Vault",
 4
 ],
 [
@@ -444,35 +436,23 @@
 4
 ],
 [
-"BAWLS Guarana",
+"Vault",
 4
 ],
 [
-"spuma",
+"Vernors",
 4
 ],
 [
-"Champis",
-3
+"Big Cola",
+4
 ],
 [
-"Salpicón de frutas",
-3
+"Oasis",
+4
 ],
 [
-"Asina",
-3
-],
-[
-"Bacon soda",
-3
-],
-[
-"Artos",
-3
-],
-[
-"lime cordial",
+"Tizer",
 3
 ],
 [
@@ -480,11 +460,19 @@
 3
 ],
 [
-"MoleCola",
+"Asina",
 3
 ],
 [
-"gazzosa al caffè",
+"Salpicón de frutas",
+3
+],
+[
+"lime cordial",
+3
+],
+[
+"Frucade",
 3
 ],
 [
@@ -492,79 +480,23 @@
 3
 ],
 [
-"Cactus Cooler",
-3
-],
-[
-"Cheerio",
-3
-],
-[
-"Cherryade",
-3
-],
-[
-"Quatro",
-3
-],
-[
-"Duke's Lemonade",
-3
-],
-[
-"Portello",
-3
-],
-[
-"Grapette",
-3
-],
-[
-"Tizer",
-3
-],
-[
-"Urge",
-3
-],
-[
-"ToniCol",
-3
-],
-[
-"Ting",
-3
-],
-[
-"Squirt",
-3
-],
-[
-"Sosyo",
-3
-],
-[
-"Sun Drop",
-3
-],
-[
-"Tanora",
-3
-],
-[
-"Ski",
-3
-],
-[
-"Vess",
-3
-],
-[
-"Coca Sek",
+"Bacon soda",
 3
 ],
 [
 "LA Ice Cola",
+3
+],
+[
+"MoleCola",
+3
+],
+[
+"Champis",
+3
+],
+[
+"Coca Sek",
 3
 ],
 [
@@ -580,7 +512,75 @@
 3
 ],
 [
-"Frucade",
+"Artos",
+3
+],
+[
+"Cactus Cooler",
+3
+],
+[
+"Cheerio",
+3
+],
+[
+"Cherryade",
+3
+],
+[
+"Duke's Lemonade",
+3
+],
+[
+"Grapette",
+3
+],
+[
+"gazzosa al caffè",
+3
+],
+[
+"Portello",
+3
+],
+[
+"Quatro",
+3
+],
+[
+"Ski",
+3
+],
+[
+"Sosyo",
+3
+],
+[
+"Squirt",
+3
+],
+[
+"Sun Drop",
+3
+],
+[
+"Tanora",
+3
+],
+[
+"Ting",
+3
+],
+[
+"ToniCol",
+3
+],
+[
+"Urge",
+3
+],
+[
+"Vess",
 3
 ]
 ]

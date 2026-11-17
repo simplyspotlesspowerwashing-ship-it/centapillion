@@ -214,6 +214,12 @@ BLOCK = {
     "primate": re.compile(r"^(caveman|human|homo sapiens)$"),
     "cartoon": re.compile(r"^(santa claus|jesus|god|death)$"),
     "spice": re.compile(r"^(table salt|salt)$"),
+    "romangod": re.compile(r"^(gaia|zeus|hera|athena|poseidon|ares|aphrodite|hermes|artemis|dionysus)$"),
+    "superhero": re.compile(r"^(lex luthor|the joker|joker|catwoman|harley quinn|thanos|magneto|venom|loki)$"),
+    "superhero_villain": re.compile(r"^(groot|silver surfer|rogue|quicksilver|warren worthington iii|wolverine|spider-man|batman|superman)$"),
+    "musician": re.compile(r"^(will\.i\.am)$"),
+    "horse": re.compile(r"^(h[ıi]n[ıi]s)$"),
+    "console": re.compile(r"^(handheld game console|home video game console|video game console|.*series)$"),
     "dessert": re.compile(r"^(carolina|cookie|pudding|cake|pie|sweet|candy)$"),
     "italianfood": re.compile(r"^(cabbage roll|caesar salad|fish and chips)$"),
     "japanesefood": re.compile(r"^(sichuan pepper|curry|kimchi)$"),
@@ -237,7 +243,7 @@ BLOCK = {
     "holiday": re.compile(r"^(january|february|march|april|may|june|july|august|september|october|november|december) \d+$|^\d+ (january|february|march|april|may|june|july|august|september|october|november|december)$"),
 }
 # A single everyday word scores too easily ("Milk" river, "Sake" language).
-COMMON_WORD_ZIPF = 4.6
+COMMON_WORD_ZIPF = 4.0
 STRICT_COMMON = {"spokenlang": 3.0, "river": 4.0, "cocktail": 4.2, "uscity": 3.4, "europecity": 3.4, "italycity": 3.4, "japancity": 3.4}
 
 
@@ -299,7 +305,7 @@ WIKIDATA = os.path.join(ROOT, "tools", "wikidata")
 
 
 # Prompts whose Wikidata class turned out to be the wrong set of things.
-WIKIDATA_SKIP = {"unit", "houseplant", "console", "musical", "pixar", "reptile", "disney"}
+WIKIDATA_SKIP = {"unit", "houseplant", "musical", "pixar", "disney", "fruit", "vegetable", "berry"}
 
 
 # Broad prompts built from several cached lists ("Name an animal" takes every species list).
@@ -367,7 +373,13 @@ def main():
         cut_s, cut_r, how = sitelink_cuts(pid, items, H, generic)
         cands = []
         for name, n in items:
-            if pid in ("africa", "asia", "europe"):   # "Kingdom of Denmark" -> Denmark
+            if pid == "soccerclub":                     # "Manchester United F.C." / "AS Roma" -> the club's name
+                for _ in range(2):
+                    name = re.sub(r"^(?:[A-Z]{1,3}\.?){1,4} (?=[A-Z])", "", name) if re.match(r"^(?:[A-Z]\.?){2,4} ", name) else name
+                    name = re.sub(r" (?:(?:[A-Z]\.?){2,4}|Club de F[uú]tbol|Football Club|Futebol Clube|Calcio|Club)$", "", name)
+            if pid == "fashionbrand":                   # "Lacoste S.A." -> Lacoste
+                name = re.sub(r",? (S\.A\.|SE|AG|Inc\.?|Group|Holdings|Ltd\.?|S\.p\.A\.|GmbH|Co\.|N\.V\.)$", "", name)
+            if pid in ("africa", "asia", "europe", "country"):   # "Kingdom of Denmark" -> Denmark
                 name = re.sub(r"^(Kingdom|Republic|Principality|Grand Duchy|State|Federation|Commonwealth|Sultanate|Emirate) of (the )?", "", name)
                 name = re.sub(r"^People's Republic of ", "", name)
             entry = tidy(name.split(",")[0])

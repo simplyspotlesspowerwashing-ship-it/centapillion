@@ -5,7 +5,10 @@ signal: the number of Wikipedia language editions covering each item
 ("sitelinks"). Results are cached in tools/wikidata/<prompt>.json so the
 answer build (tools/build_extra.py) runs offline and reproducibly.
 
-Usage:  python3 tools/wikidata_fetch.py            # fetch anything not cached
+Source: QLever's Wikidata endpoint (fast), falling back to query.wikidata.org.
+
+Usage:  python3 tools/wikidata_fetch.py --all      # refetch every prompt (about 5 minutes)
+        python3 tools/wikidata_fetch.py            # fetch anything not cached
         python3 tools/wikidata_fetch.py dog lake   # refetch these prompts
 """
 import json, os, sys, time, urllib.parse, urllib.request
@@ -23,6 +26,22 @@ def taxon(clade, min_sl):
     return {"where": "?x wdt:P171+ wd:%s . ?x wdt:P1843 ?cn . FILTER(lang(?cn) = 'en')" % clade, "min": min_sl, "common": True}
 
 
+# People lists: a job title alone lets in anyone who once had that job (Trump as an actor,
+# Einstein as an author), so each requires real output in the field.
+NOT = "MINUS { VALUES ?no { %s } ?x wdt:P106 ?no }"
+ATHLETE = {"where": "VALUES ?o { wd:Q937857 wd:Q3665646 wd:Q10833314 wd:Q19204627 wd:Q10871364 wd:Q11774891 wd:Q11338576 "
+                    "wd:Q378622 wd:Q13156709 wd:Q11513337 wd:Q10843402 wd:Q12299841 wd:Q13382576 wd:Q13381863 } "
+                    "?x wdt:P106 ?o ; wdt:P641 ?sport . " + NOT % "wd:Q82955 wd:Q36180 wd:Q4964182 wd:Q169470 wd:Q33999", "min": 50}
+ACTOR = {"where": "VALUES ?o { wd:Q33999 wd:Q10800557 wd:Q10798782 } ?x wdt:P106 ?o . "
+                  "{ SELECT ?x WHERE { ?f wdt:P161 ?x . MINUS { ?f wdt:P136 wd:Q93204 } MINUS { ?f wdt:P31 wd:Q93204 } } "
+                  "GROUP BY ?x HAVING(COUNT(DISTINCT ?f) >= 8) } " + NOT % "wd:Q82955 wd:Q1028181 wd:Q36834 wd:Q177220 wd:Q2526255", "min": 40}
+AUTHOR = {"where": "VALUES ?o { wd:Q36180 wd:Q6625963 wd:Q49757 wd:Q214917 wd:Q4853732 } ?x wdt:P106 ?o . "
+                   "{ SELECT ?x WHERE { ?w wdt:P50 ?x ; wdt:P31/wdt:P279* wd:Q7725634 } GROUP BY ?x HAVING(COUNT(DISTINCT ?w) >= 3) } "
+                   + NOT % "wd:Q82955 wd:Q169470 wd:Q1028181 wd:Q1281618 wd:Q170790", "min": 40}
+MUSICIAN = {"where": "VALUES ?o { wd:Q177220 wd:Q639669 wd:Q2252262 wd:Q488205 wd:Q36834 } ?x wdt:P106 ?o . "
+                     "{ SELECT ?x WHERE { VALUES ?t { wd:Q482994 wd:Q208569 wd:Q134556 wd:Q7366 } ?w wdt:P175 ?x ; wdt:P31 ?t } "
+                     "GROUP BY ?x HAVING(COUNT(DISTINCT ?w) >= 5) } " + NOT % "wd:Q82955", "min": 30}
+
 # prompt id -> graph pattern selecting ?x, and a minimum sitelink count
 SPEC = {
     # current sovereign states only (no dissolution date), current capitals only (no end date)
@@ -32,30 +51,29 @@ SPEC = {
                               "FILTER NOT EXISTS { ?c wdt:P576 ?end } FILTER NOT EXISTS { ?st pq:P582 ?stop }", "min": 0},
     "uscity": {"where": "?x wdt:P31 wd:Q1093829 .", "min": 12},
     "europecity": {"where": "VALUES ?t { wd:Q1549591 wd:Q515 } ?x wdt:P31 ?t ; wdt:P17 ?c . ?c wdt:P30 wd:Q46 .", "min": 30},
-    "athlete": {"where": "VALUES ?o { wd:Q937857 wd:Q3665646 wd:Q10833314 wd:Q19204627 wd:Q10871364 wd:Q11774891 wd:Q11338576 "
-                         "wd:Q378622 wd:Q13156709 wd:Q11513337 wd:Q10843402 wd:Q12299841 wd:Q13382576 wd:Q13381863 } ?x wdt:P106 ?o ; wdt:P641 ?sport .", "min": 60},  # has a sport (drops Camus, Bush)
+    "athlete": ATHLETE,
     "nbaplayer": {"where": "?x wdt:P106 wd:Q3665646 ; wdt:P54 ?team . ?team wdt:P118 wd:Q155223 .", "min": 12},
-    "author": {"where": "VALUES ?o { wd:Q36180 wd:Q6625963 wd:Q49757 wd:Q214917 wd:Q4853732 } ?x wdt:P106 ?o .", "min": 70},
-    "musician": {"where": "VALUES ?o { wd:Q177220 wd:Q639669 wd:Q2252262 wd:Q488205 wd:Q36834 } ?x wdt:P106 ?o ; wdt:P569 ?b . FILTER(YEAR(?b) > 1900)", "min": 60},
-    "actor": {"where": "VALUES ?o { wd:Q33999 wd:Q10800557 wd:Q10798782 } ?x wdt:P106 ?o .", "min": 70},
+    "author": AUTHOR,
+    "musician": MUSICIAN,
+    "actor": ACTOR,
     "soccerclub": {"where": "?x wdt:P31 wd:Q476028 .", "min": 30},
-    "beatles": {"where": "?x wdt:P175 wd:Q1299 ; wdt:P31/wdt:P279* wd:Q7366 .", "min": 0},
-    "taylorswift": {"where": "?x wdt:P175 wd:Q26876 ; wdt:P31/wdt:P279* wd:Q7366 .", "min": 0},
+    "beatles": {"where": "VALUES ?t { wd:Q7366 wd:Q134556 wd:Q105543609 } ?x wdt:P175 wd:Q1299 ; wdt:P31 ?t .", "min": 0},  # songs and singles, not albums
+    "taylorswift": {"where": "VALUES ?t { wd:Q7366 wd:Q134556 wd:Q105543609 } ?x wdt:P175 wd:Q26876 ; wdt:P31 ?t .", "min": 0},
     "horse": {"where": "?x wdt:P31 wd:Q1160573 .", "min": 0},
-    "marvel": {"where": "?x wdt:P1080 wd:Q931597 ; wdt:P31/wdt:P279* wd:Q95074 .", "min": 4},
+    "marvel": {"where": "?x wdt:P1441 ?wk . ?wk wdt:P123 wd:Q173496 . ?x wdt:P31/wdt:P279* wd:Q95074 . MINUS { VALUES ?u { wd:Q18043309 wd:Q20714890 wd:Q19786052 wd:Q98039362 wd:Q2101612 } ?x wdt:P1080 ?u }", "min": 2},  # not licensed Star Wars/Trek/Indiana Jones characters
     "disneychar": {"where": "?x wdt:P31/wdt:P279* wd:Q95074 ; wdt:P1441 ?w . ?w wdt:P272 wd:Q1047410 .", "min": 3},
     "carmodel": {"where": "?x wdt:P31 wd:Q3231690 .", "min": 10},
     "fashionbrand": {"where": "VALUES ?t { wd:Q1618899 wd:Q3661311 } ?x wdt:P31 ?t .", "min": 6},
     "romangod": {"where": "?x wdt:P31 wd:Q11688446 .", "min": 0},
     "fish": {"where": "?x wdt:P171+ wd:Q127282 . ?x wdt:P1843 ?cn . FILTER(lang(?cn) = 'en')", "min": 8, "common": True},
     # --- widen thin prompts ---
-    "snake": {"where": "?x wdt:P171+ wd:Q2102 . ?x wdt:P1843 ?cn . FILTER(lang(?cn) = 'en')", "min": 3, "common": True},
+    "snake": taxon("Q16986904", 3),  # Ophidia
     "extinct": {"where": "?x wdt:P141 wd:Q237350 ; wdt:P1843 ?cn . FILTER(lang(?cn) = 'en')", "min": 3, "common": True},
     "fruit": {"where": "?x %s wd:Q3314483 ." % KIND, "min": 4},
     "vegetable": {"where": "?x %s wd:Q11004 ." % KIND, "min": 4},
     "berry": {"where": "?x %s wd:Q13184 ." % KIND, "min": 3},
-    "superhero": {"where": "?x wdt:P31 wd:Q188784 .", "min": 3},
-    "superhero_villain": {"where": "?x wdt:P31 wd:Q6498903 .", "min": 3},
+    "superhero": {"where": "?x wdt:P106 wd:Q188784 .", "min": 3},
+    "superhero_villain": {"where": "?x wdt:P9071 wd:Q6498903 .", "min": 3},
     "africa": {"where": "?x wdt:P31 wd:Q3624078 ; wdt:P30 wd:Q15 . FILTER NOT EXISTS { ?x wdt:P576 ?end }", "min": 0},
     "asia": {"where": "?x wdt:P31 wd:Q3624078 ; wdt:P30 wd:Q48 . FILTER NOT EXISTS { ?x wdt:P576 ?end }", "min": 0},
     "europe": {"where": "?x wdt:P31 wd:Q3624078 ; wdt:P30 wd:Q46 . FILTER NOT EXISTS { ?x wdt:P576 ?end }", "min": 0},
@@ -82,7 +100,7 @@ SPEC = {
     "pixar": {"where": "VALUES ?t { wd:Q11424 wd:Q202866 } ?x wdt:P31 ?t ; wdt:P272 wd:Q127552 .", "min": 0},  # features only
     "bestpicture": {"where": "?x wdt:P31 wd:Q11424 ; wdt:P166 wd:Q102427 .", "min": 0},  # films, not producers
     "videogame": {"where": "?x wdt:P31 wd:Q7889 .", "min": 35},
-    "console": {"where": "?x %s wd:Q8076 ." % ISA, "min": 3},
+    "console": {"where": "?x wdt:P279+ wd:Q8076 .", "min": 12},  # console models are subclasses; the floor drops obscure Pong clones
     "sitcom": {"where": "?x wdt:P136 wd:Q170238 .", "min": 12},
     "musical": {"where": "?x wdt:P136 wd:Q2743 . MINUS { ?x wdt:P31/wdt:P279* wd:Q11424 } MINUS { ?x wdt:P31/wdt:P279* wd:Q482994 }", "min": 6},  # stage musicals: genre musical, not films/albums
     "band": {"where": "?x wdt:P31 wd:Q5741069 .", "min": 30},
@@ -155,22 +173,36 @@ SPEC = {
     "primate": taxon("Q7380", 12),
     "whale": taxon("Q160", 6),
     "amphibian": taxon("Q10908", 20),
-    "reptile": taxon("Q10811", 25),
+    "reptile": {"where": "VALUES ?c { wd:Q122422 wd:Q223044 wd:Q25363 wd:Q15099738 } ?x wdt:P171+ ?c . ?x wdt:P1843 ?cn . FILTER(lang(?cn) = 'en')", "min": 3, "common": True},  # squamates, turtles, crocodilians, tuatara (not birds)
     "bird": taxon("Q5113", 40),
     "insect": taxon("Q1390", 40),
 }
 
 
-def sparql(q, tries=4):
+# QLever (University of Freiburg) serves a full Wikidata copy and answers in about a second.
+# The Wikidata Query Service is the fallback; it can be throttled to one query a minute.
+ENDPOINTS = ["https://qlever.dev/api/wikidata", "https://query.wikidata.org/sparql"]
+PREFIXES = """PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX p: <http://www.wikidata.org/prop/>
+PREFIX ps: <http://www.wikidata.org/prop/statement/>
+PREFIX pq: <http://www.wikidata.org/prop/qualifier/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+"""
+
+
+def sparql(q, tries=3):
     err = None
-    for i in range(tries):
-        try:
-            url = "https://query.wikidata.org/sparql?" + urllib.parse.urlencode({"query": q, "format": "json"})
-            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/sparql-results+json"})
-            return json.load(urllib.request.urlopen(req, timeout=120))["results"]["bindings"]
-        except Exception as e:
-            err = e
-            time.sleep(70)
+    for endpoint in ENDPOINTS:
+        for i in range(tries):
+            try:
+                url = endpoint + "?" + urllib.parse.urlencode({"query": PREFIXES + q})
+                req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/sparql-results+json"})
+                return json.load(urllib.request.urlopen(req, timeout=300))["results"]["bindings"]
+            except Exception as e:
+                err = e
+                time.sleep(5 if "qlever" in endpoint else 70)
     raise err
 
 
@@ -183,7 +215,8 @@ def query(spec):
 
 def main():
     os.makedirs(CACHE, exist_ok=True)
-    only = set(sys.argv[1:])
+    args = sys.argv[1:]
+    only = set(SPEC) if "--all" in args else set(a for a in args if not a.startswith("--"))
     for pid, spec in SPEC.items():
         path = os.path.join(CACHE, pid + ".json")
         if only and pid not in only:
@@ -205,7 +238,7 @@ def main():
         with open(path, "w", encoding="utf-8") as f:
             json.dump(out, f, ensure_ascii=False, indent=0)
         print("%-14s %5d items  %4.1fs  top: %s" % (pid, len(out), time.time() - t, ", ".join(n for n, _ in out[:4])))
-        time.sleep(62)
+        time.sleep(1)
 
 
 if __name__ == "__main__":

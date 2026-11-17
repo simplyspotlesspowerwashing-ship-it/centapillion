@@ -100,10 +100,6 @@
 20
 ],
 [
-"çoban salad",
-19
-],
-[
 "Escalivada",
 19
 ],
@@ -112,11 +108,15 @@
 19
 ],
 [
-"macedonia",
-18
+"çoban salad",
+19
 ],
 [
 "tuna salad",
+18
+],
+[
+"macedonia",
 18
 ],
 [
@@ -132,10 +132,6 @@
 16
 ],
 [
-"Ketoprak",
-16
-],
-[
 "Morkovcha",
 16
 ],
@@ -144,12 +140,12 @@
 16
 ],
 [
-"Dakos",
-15
+"Ketoprak",
+16
 ],
 [
-"Wurstsalat",
-14
+"Dakos",
+15
 ],
 [
 "macaroni salad",
@@ -164,6 +160,10 @@
 14
 ],
 [
+"Wurstsalat",
+14
+],
+[
 "Cappon magro",
 14
 ],
@@ -172,15 +172,7 @@
 14
 ],
 [
-"plecing kangkung",
-13
-],
-[
 "carrot salad",
-13
-],
-[
-"Shirazi salad",
 13
 ],
 [
@@ -192,24 +184,20 @@
 13
 ],
 [
-"Rosolli",
-12
+"Shirazi salad",
+13
+],
+[
+"plecing kangkung",
+13
 ],
 [
 "Mesclun",
 12
 ],
 [
-"urnebes",
-11
-],
-[
-"tirokafteri",
-11
-],
-[
-"Buddha bowl",
-11
+"Rosolli",
+12
 ],
 [
 "Yusheng",
@@ -224,6 +212,18 @@
 11
 ],
 [
+"Buddha bowl",
+11
+],
+[
+"urnebes",
+11
+],
+[
+"tirokafteri",
+11
+],
+[
 "Israeli salad",
 10
 ],
@@ -232,19 +232,15 @@
 10
 ],
 [
-"rujak cingur",
+"Kachumber",
+9
+],
+[
+"Pasembur",
 9
 ],
 [
 "nam tok",
-9
-],
-[
-"Taco salad",
-9
-],
-[
-"Kachumber",
 9
 ],
 [
@@ -256,6 +252,18 @@
 9
 ],
 [
+"Tangpyeongchae",
+9
+],
+[
+"rujak cingur",
+9
+],
+[
+"Taco salad",
+9
+],
+[
 "chef salad",
 9
 ],
@@ -264,15 +272,15 @@
 9
 ],
 [
-"Tangpyeongchae",
-9
-],
-[
-"Pasembur",
-9
+"eggplant salad",
+8
 ],
 [
 "Shakarap",
+8
+],
+[
+"Nộm",
 8
 ],
 [
@@ -280,47 +288,11 @@
 8
 ],
 [
-"eggplant salad",
-8
-],
-[
-"Kosambari",
-8
-],
-[
-"Raheb",
-8
-],
-[
-"Cookie salad",
-8
-],
-[
-"Crab Louie",
-8
-],
-[
-"Chilean salad",
-8
-],
-[
 "şakşuka",
 8
 ],
 [
-"Curtido",
-8
-],
-[
 "Taktouka",
-8
-],
-[
-"fried cauliflower",
-8
-],
-[
-"Nộm",
 8
 ],
 [
@@ -336,11 +308,35 @@
 8
 ],
 [
-"herring salad",
-7
+"Chilean salad",
+8
 ],
 [
-"seven-layer salad",
+"Cookie salad",
+8
+],
+[
+"Crab Louie",
+8
+],
+[
+"Curtido",
+8
+],
+[
+"Kosambari",
+8
+],
+[
+"fried cauliflower",
+8
+],
+[
+"Raheb",
+8
+],
+[
+"herring salad",
 7
 ],
 [
@@ -348,35 +344,11 @@
 7
 ],
 [
-"Ezme",
-7
-],
-[
-"Mont di",
-7
-],
-[
-"celery Victor",
-7
-],
-[
-"Snow White salad",
-7
-],
-[
-"Spinach Salad",
-7
-],
-[
-"Pantesca salad",
-7
-],
-[
-"Sildesalat",
-7
-],
-[
 "cucumber salad",
+7
+],
+[
+"Ezme",
 7
 ],
 [
@@ -388,11 +360,35 @@
 7
 ],
 [
-"Buljol",
-6
+"celery Victor",
+7
 ],
 [
-"Ulam",
+"Pantesca salad",
+7
+],
+[
+"Mont di",
+7
+],
+[
+"seven-layer salad",
+7
+],
+[
+"Snow White salad",
+7
+],
+[
+"Spinach Salad",
+7
+],
+[
+"Sildesalat",
+7
+],
+[
+"Buljol",
 6
 ],
 [
@@ -404,10 +400,6 @@
 6
 ],
 [
-"sōmen salad",
-6
-],
-[
 "sweet potato salad",
 6
 ],
@@ -416,11 +408,19 @@
 6
 ],
 [
+"Serbian salad",
+6
+],
+[
 "Fiambre",
 6
 ],
 [
-"Serbian salad",
+"sōmen salad",
+6
+],
+[
+"Ulam",
 6
 ],
 [
@@ -432,15 +432,11 @@
 5
 ],
 [
+"meat salad",
+5
+],
+[
 "octopus salad",
-5
-],
-[
-"Meeshay",
-5
-],
-[
-"Michigan salad",
 5
 ],
 [
@@ -456,8 +452,24 @@
 5
 ],
 [
-"meat salad",
+"Meeshay",
 5
+],
+[
+"Michigan salad",
+5
+],
+[
+"carottes râpées",
+4
+],
+[
+"Indigirka salad",
+4
+],
+[
+"Shʿifūra",
+4
 ],
 [
 "Vitamin salad",
@@ -468,27 +480,7 @@
 4
 ],
 [
-"Shʿifūra",
-4
-],
-[
 "Parisian salad",
-4
-],
-[
-"Saengchae",
-4
-],
-[
-"Thai salads",
-4
-],
-[
-"Shalgam",
-4
-],
-[
-"Salade lyonnaise",
 4
 ],
 [
@@ -496,11 +488,7 @@
 4
 ],
 [
-"carottes râpées",
-4
-],
-[
-"Indigirka salad",
+"Salade lyonnaise",
 4
 ],
 [
@@ -512,7 +500,19 @@
 4
 ],
 [
-"tomato salad",
+"Saengchae",
+4
+],
+[
+"Shalgam",
+4
+],
+[
+"Thai salads",
+4
+],
+[
+"Pittsburgh salad",
 3
 ],
 [
@@ -520,19 +520,11 @@
 3
 ],
 [
+"tomato salad",
+3
+],
+[
 "aemono",
-3
-],
-[
-"Pleah sach ko",
-3
-],
-[
-"Lyutika",
-3
-],
-[
-"Olive salad",
 3
 ],
 [
@@ -540,11 +532,23 @@
 3
 ],
 [
-"Gavurdağı salatası",
+"Pleah sach ko",
 3
 ],
 [
-"Nộm hoa chuối",
+"Oxmouth Salad",
+3
+],
+[
+"Salade cauchoise",
+3
+],
+[
+"Dandelion salad",
+3
+],
+[
+"Kebebe",
 3
 ],
 [
@@ -556,24 +560,44 @@
 3
 ],
 [
-"Kebebe",
+"Gavurdağı salatası",
 3
 ],
 [
-"Pittsburgh salad",
+"Lyutika",
 3
 ],
 [
-"Oxmouth Salad",
+"Nộm hoa chuối",
 3
 ],
 [
-"Dandelion salad",
+"Olive salad",
 3
 ],
 [
-"Salade cauchoise",
-3
+"pizza salad",
+2
+],
+[
+"Shanghai-style salad",
+2
+],
+[
+"huzarensalade",
+2
+],
+[
+"bostana",
+2
+],
+[
+"Kelan Antep",
+2
+],
+[
+"kismur",
+2
 ],
 [
 "Aluek trei ngeat",
@@ -584,51 +608,11 @@
 2
 ],
 [
-"bostana",
+"sahnehering",
 2
 ],
 [
-"kismur",
-2
-],
-[
-"Shanghai-style salad",
-2
-],
-[
-"Kelan Antep",
-2
-],
-[
-"pizza salad",
-2
-],
-[
-"amanida catalana",
-2
-],
-[
-"huzarensalade",
-2
-],
-[
-"corn salad",
-2
-],
-[
-"Red slaw",
-2
-],
-[
-"Rhyming recipe",
-2
-],
-[
-"Kinilnat",
-2
-],
-[
-"Yum sen lon",
+"Naranjas picadas",
 2
 ],
 [
@@ -648,11 +632,11 @@
 2
 ],
 [
-"Semizotu with yogurt",
+"Salade périgourdine",
 2
 ],
 [
-"Salade périgourdine",
+"Semizotu with yogurt",
 2
 ],
 [
@@ -660,27 +644,11 @@
 2
 ],
 [
-"Naranjas picadas",
-2
-],
-[
-"lentil salad",
-2
-],
-[
-"sunomono",
-2
-],
-[
 "Beyin salata",
 2
 ],
 [
-"yam",
-2
-],
-[
-"sahnehering",
+"sunomono",
 2
 ],
 [
@@ -689,6 +657,38 @@
 ],
 [
 "Chogi",
+2
+],
+[
+"yam",
+2
+],
+[
+"Kinilnat",
+2
+],
+[
+"lentil salad",
+2
+],
+[
+"Red slaw",
+2
+],
+[
+"Rhyming recipe",
+2
+],
+[
+"Yum sen lon",
+2
+],
+[
+"amanida catalana",
+2
+],
+[
+"corn salad",
 2
 ]
 ]

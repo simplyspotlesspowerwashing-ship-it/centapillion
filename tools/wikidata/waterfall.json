@@ -20,11 +20,11 @@
 48
 ],
 [
-"Gullfoss",
+"Dettifoss",
 47
 ],
 [
-"Dettifoss",
+"Gullfoss",
 47
 ],
 [
@@ -52,20 +52,16 @@
 39
 ],
 [
-"Kaieteur Falls",
+"Goðafoss",
 38
 ],
 [
-"Goðafoss",
+"Kaieteur Falls",
 38
 ],
 [
 "Livingstone Falls",
 38
-],
-[
-"Krimml Waterfalls",
-37
 ],
 [
 "Skógafoss",
@@ -76,8 +72,12 @@
 37
 ],
 [
+"Krimml Waterfalls",
+37
+],
+[
 "Murchison Falls",
-35
+36
 ],
 [
 "Kegon Falls",
@@ -92,11 +92,11 @@
 34
 ],
 [
-"Huangguoshu Waterfall",
+"Jägala Waterfall",
 33
 ],
 [
-"Jägala Waterfall",
+"Huangguoshu Waterfall",
 33
 ],
 [
@@ -108,10 +108,6 @@
 32
 ],
 [
-"Guaíra Falls",
-31
-],
-[
 "Glymur",
 31
 ],
@@ -120,7 +116,11 @@
 31
 ],
 [
-"Kalandula Falls",
+"Guaíra Falls",
+31
+],
+[
+"Svartifoss",
 30
 ],
 [
@@ -128,7 +128,7 @@
 30
 ],
 [
-"Svartifoss",
+"Kalandula Falls",
 30
 ],
 [
@@ -136,16 +136,12 @@
 28
 ],
 [
-"Ban Gioc–Detian Falls",
-28
-],
-[
 "Gocta Cataracts",
 28
 ],
 [
-"Kalambo Falls",
-27
+"Ban Gioc–Detian Falls",
+28
 ],
 [
 "Ruacana Falls",
@@ -160,16 +156,8 @@
 27
 ],
 [
-"Kravica",
-26
-],
-[
-"Valaste Waterfall",
-26
-],
-[
-"Vinnufossen",
-26
+"Kalambo Falls",
+27
 ],
 [
 "Aldeyjarfoss",
@@ -180,19 +168,19 @@
 26
 ],
 [
-"Shivanasamudra Falls",
-25
+"Vinnufossen",
+26
 ],
 [
-"Staubbach Falls",
-25
+"Valaste Waterfall",
+26
 ],
 [
-"Vøringfossen",
-25
+"Kravica",
+26
 ],
 [
-"Öxarárfoss",
+"Kuang Si Falls",
 25
 ],
 [
@@ -200,11 +188,27 @@
 25
 ],
 [
-"Kuang Si Falls",
+"Öxarárfoss",
 25
 ],
 [
-"Sutherland Falls",
+"Shivanasamudra Falls",
+25
+],
+[
+"Vøringfossen",
+25
+],
+[
+"Staubbach Falls",
+25
+],
+[
+"Nachi Falls",
+24
+],
+[
+"Venta Rapid",
 24
 ],
 [
@@ -216,36 +220,16 @@
 24
 ],
 [
-"Venta Rapid",
+"Sutherland Falls",
 24
-],
-[
-"Nachi Falls",
-24
-],
-[
-"Trümmelbach Falls",
-23
 ],
 [
 "Horsetail Fall",
 23
 ],
 [
-"Smolare Falls",
-22
-],
-[
-"Yumbilla Falls",
-22
-],
-[
-"Hogenakkal Falls",
-22
-],
-[
-"Ramnefjellsfossen",
-22
+"Trümmelbach Falls",
+23
 ],
 [
 "Háifoss",
@@ -256,11 +240,27 @@
 22
 ],
 [
-"Inga Falls",
-21
+"Ramnefjellsfossen",
+22
+],
+[
+"Hogenakkal Falls",
+22
+],
+[
+"Yumbilla Falls",
+22
+],
+[
+"Smolare Falls",
+22
 ],
 [
 "Ngonye Falls",
+21
+],
+[
+"Inga Falls",
 21
 ],
 [
@@ -272,6 +272,10 @@
 20
 ],
 [
+"Mardalsfossen",
+20
+],
+[
 "Låtefossen",
 20
 ],
@@ -280,19 +284,27 @@
 20
 ],
 [
-"Mardalsfossen",
-20
-],
-[
 "Hraunfossar",
 20
 ],
 [
-"Chitrakoot Falls",
+"Gavarnie Falls",
 19
 ],
 [
-"Vettisfossen",
+"Caracol Falls",
+19
+],
+[
+"Mongefossen",
+19
+],
+[
+"Uchan-su",
+19
+],
+[
+"Kivach waterfall",
 19
 ],
 [
@@ -308,31 +320,23 @@
 19
 ],
 [
+"Chitrakoot Falls",
+19
+],
+[
+"Vettisfossen",
+19
+],
+[
 "Huka Falls",
 19
 ],
 [
-"Rusumo Falls",
+"Laja Falls",
 19
 ],
 [
-"Gavarnie Falls",
-19
-],
-[
-"Uchan-su",
-19
-],
-[
-"Kivach waterfall",
-19
-],
-[
-"Caracol Falls",
-19
-],
-[
-"Mongefossen",
+"Tequendama Falls",
 19
 ],
 [
@@ -344,15 +348,15 @@
 19
 ],
 [
-"Tequendama Falls",
-19
-],
-[
-"Laja Falls",
+"Rusumo Falls",
 19
 ],
 [
 "Horseshoe Falls",
+18
+],
+[
+"Smallwood Reservoir",
 18
 ],
 [
@@ -368,6 +372,10 @@
 18
 ],
 [
+"Baatara gorge waterfall",
+18
+],
+[
 "Athabasca Falls",
 18
 ],
@@ -376,19 +384,47 @@
 18
 ],
 [
-"Smallwood Reservoir",
-18
+"Saint Anthony Falls",
+17
 ],
 [
-"Baatara gorge waterfall",
-18
+"Steinsdalsfossen",
+17
+],
+[
+"Montmorency Falls",
+17
+],
+[
+"Browne Falls",
+17
+],
+[
+"Churchill Falls",
+17
+],
+[
+"Maria Cristina Falls",
+17
 ],
 [
 "Shaki Waterfall",
 17
 ],
 [
-"Maria Cristina Falls",
+"Nevada Fall",
+17
+],
+[
+"Lofoi Falls",
+17
+],
+[
+"Ripon Falls",
+17
+],
+[
+"Powerscourt Waterfall",
 17
 ],
 [
@@ -400,55 +436,11 @@
 17
 ],
 [
-"Churchill Falls",
-17
-],
-[
-"Nevada Fall",
-17
-],
-[
-"Saint Anthony Falls",
-17
-],
-[
-"Steinsdalsfossen",
-17
-],
-[
-"Browne Falls",
-17
-],
-[
-"Montmorency Falls",
-17
-],
-[
-"Powerscourt Waterfall",
-17
-],
-[
-"Ripon Falls",
-17
-],
-[
-"Lofoi Falls",
-17
-],
-[
-"Nohsngithiang Falls",
+"American Falls",
 16
 ],
 [
-"Palaruvi Falls",
-16
-],
-[
-"Triberg Waterfalls",
-16
-],
-[
-"Tagbo Falls",
+"Wli waterfalls",
 16
 ],
 [
@@ -460,23 +452,7 @@
 16
 ],
 [
-"Bridalveil Fall",
-16
-],
-[
-"Pagsanjan Falls",
-16
-],
-[
-"Paulo Afonso Falls",
-16
-],
-[
 "Langfossen",
-16
-],
-[
-"Howick Falls",
 16
 ],
 [
@@ -484,7 +460,7 @@
 16
 ],
 [
-"American Falls",
+"Bridalveil Fall",
 16
 ],
 [
@@ -496,51 +472,35 @@
 16
 ],
 [
-"Wli waterfalls",
+"Paulo Afonso Falls",
 16
 ],
 [
-"Yellala Falls",
-15
+"Nohsngithiang Falls",
+16
 ],
 [
-"Teerathgarh Falls",
-15
+"Palaruvi Falls",
+16
 ],
 [
-"Gouina Falls",
-15
+"Howick Falls",
+16
 ],
 [
-"Purakaunui Falls",
-15
+"Pagsanjan Falls",
+16
 ],
 [
-"Skakavac Waterfall",
-15
+"Triberg Waterfalls",
+16
 ],
 [
-"Eas a' Chùal Aluinn",
-15
-],
-[
-"Pitsusköngäs",
-15
-],
-[
-"Apsley Falls",
-15
+"Tagbo Falls",
+16
 ],
 [
 "Yellowstone Falls",
-15
-],
-[
-"Cuquenan Falls",
-15
-],
-[
-"Vernal Fall",
 15
 ],
 [
@@ -548,7 +508,19 @@
 15
 ],
 [
-"Wallaman Falls",
+"Cuquenan Falls",
+15
+],
+[
+"Pitsusköngäs",
+15
+],
+[
+"Vernal Fall",
+15
+],
+[
+"Hopetoun Falls",
 15
 ],
 [
@@ -556,7 +528,31 @@
 15
 ],
 [
-"Hopetoun Falls",
+"Skakavac Waterfall",
+15
+],
+[
+"Apsley Falls",
+15
+],
+[
+"Teerathgarh Falls",
+15
+],
+[
+"Yellala Falls",
+15
+],
+[
+"Eas a' Chùal Aluinn",
+15
+],
+[
+"Purakaunui Falls",
+15
+],
+[
+"Wallaman Falls",
 15
 ],
 [
@@ -568,6 +564,42 @@
 15
 ],
 [
+"Gouina Falls",
+15
+],
+[
+"Hjálparfoss",
+14
+],
+[
+"Boti Falls",
+14
+],
+[
+"Kjosfossen",
+14
+],
+[
+"Glandieu Fall",
+14
+],
+[
+"Morsárfoss",
+14
+],
+[
+"Hundru Falls",
+14
+],
+[
+"Bambarakanda Falls",
+14
+],
+[
+"Gitgit Waterfall",
+14
+],
+[
 "Irupu Falls",
 14
 ],
@@ -576,39 +608,11 @@
 14
 ],
 [
-"Havasu Falls",
-14
-],
-[
-"Kintampo waterfalls",
-14
-],
-[
 "Vantawng Falls",
 14
 ],
 [
-"Barnafossar",
-14
-],
-[
-"Bambarakanda Falls",
-14
-],
-[
-"Rjukanfossen",
-14
-],
-[
-"Hjálparfoss",
-14
-],
-[
 "Barron Falls",
-14
-],
-[
-"Kjosfossen",
 14
 ],
 [
@@ -620,15 +624,7 @@
 14
 ],
 [
-"Morsárfoss",
-14
-],
-[
 "Geli Eli Beg Waterfall",
-14
-],
-[
-"Gitgit Waterfall",
 14
 ],
 [
@@ -636,27 +632,63 @@
 14
 ],
 [
-"Glandieu Fall",
+"Havasu Falls",
 14
 ],
 [
-"Hundru Falls",
+"Barnafossar",
 14
 ],
 [
-"Boti Falls",
+"Kintampo waterfalls",
 14
 ],
 [
-"Dassam Falls",
+"Rjukanfossen",
+14
+],
+[
+"Tortum Waterfall",
 13
 ],
 [
-"Barkana Falls",
+"Pliva Waterfall",
 13
 ],
 [
-"Bridal Veil Falls",
+"Gokak Falls",
+13
+],
+[
+"Moconá Waterfalls",
+13
+],
+[
+"Fulmer Falls",
+13
+],
+[
+"Systrafoss",
+13
+],
+[
+"Tres Hermanas Falls",
+13
+],
+[
+"Carbet Falls",
+13
+],
+[
+"Raysko Praskalo",
+13
+],
+[
+"Nohkalikai Falls",
+13
+],
+[
+"Baker's Falls",
 13
 ],
 [
@@ -668,19 +700,11 @@
 13
 ],
 [
-"Engstligen falls",
-13
-],
-[
 "Ravana Falls",
 13
 ],
 [
-"Tolmer Falls",
-13
-],
-[
-"Kakolat",
+"Bridal Veil Falls",
 13
 ],
 [
@@ -688,31 +712,27 @@
 13
 ],
 [
-"Gokak Falls",
-13
-],
-[
 "Tully Falls",
 13
 ],
 [
-"Baker's Falls",
+"Tolmer Falls",
 13
 ],
 [
-"Tortum Waterfall",
+"Dassam Falls",
 13
 ],
 [
-"Carbet Falls",
+"Barkana Falls",
 13
 ],
 [
-"Moconá Waterfalls",
+"Kakolat",
 13
 ],
 [
-"Pliva Waterfall",
+"Engstligen falls",
 13
 ],
 [
@@ -720,55 +740,39 @@
 13
 ],
 [
-"Systrafoss",
-13
-],
-[
-"Fulmer Falls",
-13
-],
-[
-"Raysko Praskalo",
-13
-],
-[
 "Vasudhara Falls",
 13
 ],
 [
-"Nohkalikai Falls",
-13
-],
-[
-"Tres Hermanas Falls",
-13
-],
-[
-"Twin Falls",
+"Chishimba Falls",
 12
 ],
 [
-"Bomburu Ella",
+"Fagrifoss",
 12
 ],
 [
-"Tinago Falls",
+"Jim Jim Falls",
 12
 ],
 [
-"Chilnualna Fall",
+"Manavgat Waterfall",
 12
 ],
 [
-"Khandadhar Falls, Sundagarh",
+"Celilo Falls",
 12
 ],
 [
-"Belmore Falls",
+"Awhum Waterfall",
 12
 ],
 [
-"Otodome Falls",
+"Tarawera Falls",
+12
+],
+[
+"Unchalli Falls",
 12
 ],
 [
@@ -780,11 +784,15 @@
 12
 ],
 [
-"Helmcken Falls",
+"Aberdeen Falls",
 12
 ],
 [
-"Tarawera Falls",
+"Tinago Falls",
+12
+],
+[
+"Chilnualna Fall",
 12
 ],
 [
@@ -792,23 +800,27 @@
 12
 ],
 [
+"Twin Falls",
+12
+],
+[
+"Otodome Falls",
+12
+],
+[
+"Khandadhar Falls, Sundagarh",
+12
+],
+[
 "Soochipara Falls",
 12
 ],
 [
-"Aberdeen Falls",
+"Bomburu Ella",
 12
 ],
 [
-"Kunchikal Falls",
-12
-],
-[
-"Jim Jim Falls",
-12
-],
-[
-"Unchalli Falls",
+"Belmore Falls",
 12
 ],
 [
@@ -816,15 +828,7 @@
 12
 ],
 [
-"Chishimba Falls",
-12
-],
-[
-"Fagrifoss",
-12
-],
-[
-"Awhum Waterfall",
+"Kunchikal Falls",
 12
 ],
 [
@@ -832,231 +836,19 @@
 12
 ],
 [
-"Takakkaw Falls",
-12
-],
-[
-"Celilo Falls",
-12
-],
-[
-"Manavgat Waterfall",
-12
-],
-[
 "Waterfalls Park, Edessa",
 12
 ],
 [
-"Chachai Falls",
-11
+"Takakkaw Falls",
+12
 ],
 [
-"Pandav Falls",
-11
+"Helmcken Falls",
+12
 ],
 [
-"Grey Mare's Tail",
-11
-],
-[
-"Bow Falls",
-11
-],
-[
-"Margoon Waterfall",
-11
-],
-[
-"Hirni Falls",
-11
-],
-[
-"Thalaiyar Falls",
-11
-],
-[
-"Devon Falls",
-11
-],
-[
-"El-Ourit Waterfalls",
-11
-],
-[
-"Pykara",
-11
-],
-[
-"Dhuandhar Falls",
-11
-],
-[
-"Pilj Waterfall",
-11
-],
-[
-"Thusharagiri Falls",
-11
-],
-[
-"Thi Lo Su waterfall",
-11
-],
-[
-"Wapta Falls",
-11
-],
-[
-"Mōkau Falls",
-11
-],
-[
-"Illilouette Fall",
-11
-],
-[
-"Websters Falls",
-11
-],
-[
-"Vaipo Waterfall",
-11
-],
-[
-"Kitsiputous",
-11
-],
-[
-"Giessbach",
-11
-],
-[
-"Ilya Muromets Waterfall",
-11
-],
-[
-"Vodopád Skok",
-11
-],
-[
-"La Fortuna Waterfall",
-11
-],
-[
-"Cumberland Falls",
-11
-],
-[
-"Cauldron Snout",
-11
-],
-[
-"Bopath Ella Falls",
-11
-],
-[
-"Mekedaatu",
-11
-],
-[
-"Ryūzu Falls",
-11
-],
-[
-"Āniwaniwa Falls",
-11
-],
-[
-"Barehipani Falls",
-11
-],
-[
-"Kapichira Falls",
-11
-],
-[
-"Torc Waterfall",
-11
-],
-[
-"Albion Falls",
-11
-],
-[
-"Morans Falls",
-11
-],
-[
-"Hebbe Falls",
-11
-],
-[
-"Miruša Waterfalls",
-11
-],
-[
-"Dolgoch Falls",
-11
-],
-[
-"Þjófafoss",
-11
-],
-[
-"Chavuma Falls",
-11
-],
-[
-"Derna waterfalls",
-11
-],
-[
-"Tinuy-an Falls",
-11
-],
-[
-"Savica Falls",
-11
-],
-[
-"Qorlortorsuaq",
-11
-],
-[
-"Mac-Mac Falls",
-11
-],
-[
-"Farin Ruwa Falls",
-11
-],
-[
-"Gljufrafoss",
-11
-],
-[
-"Djur-Djur",
-11
-],
-[
-"Russell Falls",
-11
-],
-[
-"Félou Falls",
-11
-],
-[
-"Cachoeira da Fumaça",
-11
-],
-[
-"Berlin Falls",
-11
-],
-[
-"Agbokim Waterfalls",
+"Štrbački buk",
 11
 ],
 [
@@ -1068,11 +860,35 @@
 11
 ],
 [
-"Štrbački buk",
+"Kapichira Falls",
 11
 ],
 [
-"Cascate del Varone",
+"Torc Waterfall",
+11
+],
+[
+"Þjófafoss",
+11
+],
+[
+"Savica Falls",
+11
+],
+[
+"Agbokim Waterfalls",
+11
+],
+[
+"Qorlortorsuaq",
+11
+],
+[
+"Russell Falls",
+11
+],
+[
+"Mac-Mac Falls",
 11
 ],
 [
@@ -1080,71 +896,247 @@
 11
 ],
 [
-"Alamere Falls",
+"Miruša Waterfalls",
+11
+],
+[
+"Berlin Falls",
+11
+],
+[
+"Cascate del Varone",
+11
+],
+[
+"Grey Mare's Tail",
+11
+],
+[
+"Bow Falls",
+11
+],
+[
+"Hebbe Falls",
+11
+],
+[
+"Vaipo Waterfall",
+11
+],
+[
+"Kitsiputous",
+11
+],
+[
+"Mōkau Falls",
+11
+],
+[
+"Wapta Falls",
+11
+],
+[
+"Websters Falls",
+11
+],
+[
+"Mekedaatu",
+11
+],
+[
+"La Fortuna Waterfall",
+11
+],
+[
+"Devon Falls",
+11
+],
+[
+"Illilouette Fall",
+11
+],
+[
+"Tinuy-an Falls",
+11
+],
+[
+"Bopath Ella Falls",
+11
+],
+[
+"Ryūzu Falls",
+11
+],
+[
+"Āniwaniwa Falls",
+11
+],
+[
+"Albion Falls",
+11
+],
+[
+"Pandav Falls",
+11
+],
+[
+"Chachai Falls",
+11
+],
+[
+"Dhuandhar Falls",
+11
+],
+[
+"Thusharagiri Falls",
+11
+],
+[
+"Pykara",
+11
+],
+[
+"Pilj Waterfall",
+11
+],
+[
+"Thi Lo Su waterfall",
+11
+],
+[
+"Thalaiyar Falls",
+11
+],
+[
+"El-Ourit Waterfalls",
+11
+],
+[
+"Cauldron Snout",
+11
+],
+[
+"Cumberland Falls",
+11
+],
+[
+"Morans Falls",
+11
+],
+[
+"Dolgoch Falls",
+11
+],
+[
+"Barehipani Falls",
+11
+],
+[
+"Derna waterfalls",
+11
+],
+[
+"Djur-Djur",
+11
+],
+[
+"Chavuma Falls",
+11
+],
+[
+"Farin Ruwa Falls",
+11
+],
+[
+"Gljufrafoss",
+11
+],
+[
+"Félou Falls",
+11
+],
+[
+"Hirni Falls",
+11
+],
+[
+"Ilya Muromets Waterfall",
+11
+],
+[
+"Margoon Waterfall",
+11
+],
+[
+"Giessbach",
+11
+],
+[
+"Cachoeira da Fumaça",
+11
+],
+[
+"Vodopád Skok",
+11
+],
+[
+"Great Falls",
 10
 ],
 [
-"Kynrem Falls",
+"Urriðafoss",
 10
 ],
 [
-"Langshiang Falls",
+"Myra Falls",
 10
 ],
 [
-"Tinkisso Falls",
+"Mambilima Falls",
 10
 ],
 [
-"Falls of Bruar",
+"Misol Há",
 10
 ],
 [
-"Comet Falls",
+"Erin-Ijesha Waterfalls",
 10
 ],
 [
-"Jonha Falls",
+"Peričnik Falls",
 10
 ],
 [
-"Rajat Prapat",
+"Gurara Waterfalls",
 10
 ],
 [
-"Mambatuta Falls",
+"Della Falls",
 10
 ],
 [
-"Kundalila Falls",
+"Sakaleona Falls",
 10
 ],
 [
-"Hayato Great Falls",
+"Kolešino Falls",
 10
 ],
 [
-"Diyaluma Falls",
+"Chutes d'Ekom",
 10
 ],
 [
-"Steall Waterfall",
+"Rinka Falls",
 10
 ],
 [
-"Cautley Spout",
+"Boka",
 10
 ],
 [
-"Jōren Falls",
-10
-],
-[
-"Shasui Falls",
-10
-],
-[
-"Vattaparai Falls",
+"cascate del Serio",
 10
 ],
 [
@@ -1160,15 +1152,15 @@
 10
 ],
 [
-"Sipi Falls",
+"Comet Falls",
 10
 ],
 [
-"Lumangwe Falls",
+"Vattaparai Falls",
 10
 ],
 [
-"Great Falls",
+"Cautley Spout",
 10
 ],
 [
@@ -1180,23 +1172,27 @@
 10
 ],
 [
-"Stalheimsfossen",
+"Abe Great Falls",
 10
 ],
 [
-"Erin-Ijesha Waterfalls",
+"Ramboda Falls",
 10
 ],
 [
-"Kuntala Waterfall",
+"Falls of Clyde",
 10
 ],
 [
-"Myra Falls",
+"Rajat Prapat",
 10
 ],
 [
-"Crescent Falls",
+"Diyaluma Falls",
+10
+],
+[
+"Lewis Falls",
 10
 ],
 [
@@ -1204,7 +1200,55 @@
 10
 ],
 [
-"Urriðafoss",
+"Stalheimsfossen",
+10
+],
+[
+"Crescent Falls",
+10
+],
+[
+"Alamere Falls",
+10
+],
+[
+"Kynrem Falls",
+10
+],
+[
+"Tinkisso Falls",
+10
+],
+[
+"Falls of Bruar",
+10
+],
+[
+"Langshiang Falls",
+10
+],
+[
+"Jonha Falls",
+10
+],
+[
+"Jōren Falls",
+10
+],
+[
+"Shasui Falls",
+10
+],
+[
+"Kuntala Waterfall",
+10
+],
+[
+"Hayato Great Falls",
+10
+],
+[
+"Steall Waterfall",
 10
 ],
 [
@@ -1224,51 +1268,7 @@
 10
 ],
 [
-"Rinka Falls",
-10
-],
-[
-"Mambilima Falls",
-10
-],
-[
-"Misol Há",
-10
-],
-[
-"Abe Great Falls",
-10
-],
-[
-"Ramboda Falls",
-10
-],
-[
-"Falls of Clyde",
-10
-],
-[
 "Jermuk Waterfall",
-10
-],
-[
-"Peričnik Falls",
-10
-],
-[
-"Shypit",
-10
-],
-[
-"Lewis Falls",
-10
-],
-[
-"Duf Falls",
-10
-],
-[
-"Pistyll Rhaeadr",
 10
 ],
 [
@@ -1280,11 +1280,15 @@
 10
 ],
 [
-"Della Falls",
+"Shypit",
 10
 ],
 [
-"Chutes d'Ekom",
+"Duf Falls",
+10
+],
+[
+"Pistyll Rhaeadr",
 10
 ],
 [
@@ -1292,24 +1296,172 @@
 10
 ],
 [
-"Gurara Waterfalls",
+"Kundalila Falls",
 10
 ],
 [
-"Boka",
+"Sipi Falls",
 10
 ],
 [
-"Kolešino Falls",
+"Lumangwe Falls",
 10
 ],
 [
-"Sakaleona Falls",
+"Mambatuta Falls",
 10
 ],
 [
-"cascate del Serio",
-10
+"Bujagali Falls",
+9
+],
+[
+"Erawan waterfall",
+9
+],
+[
+"Sankai Falls",
+9
+],
+[
+"Shoshone Falls",
+9
+],
+[
+"Kabwelume Falls",
+9
+],
+[
+"Aysgarth Falls",
+9
+],
+[
+"Lone Creek Falls",
+9
+],
+[
+"Sarp Falls",
+9
+],
+[
+"Seerenbach Falls",
+9
+],
+[
+"Tvindefossen",
+9
+],
+[
+"Talnikovy Waterfall",
+9
+],
+[
+"James Bruce Falls",
+9
+],
+[
+"Mumbuluma Falls",
+9
+],
+[
+"Bjarnarfoss",
+9
+],
+[
+"Hannoki Falls",
+9
+],
+[
+"Tamarind Falls",
+9
+],
+[
+"Ribbon Fall",
+9
+],
+[
+"Strupenfossen",
+9
+],
+[
+"Nervión Waterfall",
+9
+],
+[
+"Madhabkunda waterfall",
+9
+],
+[
+"Basaltic Prisms of Santa María Regla",
+9
+],
+[
+"Wodogrzmoty Mickiewicza",
+9
+],
+[
+"Magod Falls",
+9
+],
+[
+"Keoti Falls",
+9
+],
+[
+"Janet's Foss",
+9
+],
+[
+"Teviot Falls",
+9
+],
+[
+"Kiliyur Falls",
+9
+],
+[
+"Rajrappa",
+9
+],
+[
+"McLean Falls",
+9
+],
+[
+"Swallow Falls",
+9
+],
+[
+"Staircase Falls",
+9
+],
+[
+"Silver Strand Falls",
+9
+],
+[
+"Monkey Falls",
+9
+],
+[
+"Siruvani Waterfalls",
+9
+],
+[
+"Stoney Creek Falls",
+9
+],
+[
+"Hiʻilawe Falls",
+9
+],
+[
+"Thirparappu Waterfalls",
+9
+],
+[
+"Raneh Falls",
+9
 ],
 [
 "Chatterbox Falls",
@@ -1332,31 +1484,7 @@
 9
 ],
 [
-"Thirparappu Waterfalls",
-9
-],
-[
-"Raneh Falls",
-9
-],
-[
 "Cola de Caballo",
-9
-],
-[
-"Janet's Foss",
-9
-],
-[
-"Teviot Falls",
-9
-],
-[
-"McLean Falls",
-9
-],
-[
-"Mandraka Falls",
 9
 ],
 [
@@ -1365,34 +1493,6 @@
 ],
 [
 "Suruli Falls",
-9
-],
-[
-"Mystic Falls",
-9
-],
-[
-"Silver Strand Falls",
-9
-],
-[
-"Staircase Falls",
-9
-],
-[
-"Barrakunda Falls",
-9
-],
-[
-"Abbey Falls",
-9
-],
-[
-"Swallow Falls",
-9
-],
-[
-"Keoti Falls",
 9
 ],
 [
@@ -1408,59 +1508,7 @@
 9
 ],
 [
-"Rajrappa",
-9
-],
-[
-"Snoqualmie Falls",
-9
-],
-[
-"Monkey Falls",
-9
-],
-[
-"Stoney Creek Falls",
-9
-],
-[
-"Basaltic Prisms of Santa María Regla",
-9
-],
-[
-"Shoshone Falls",
-9
-],
-[
-"Sarp Falls",
-9
-],
-[
-"Seerenbach Falls",
-9
-],
-[
-"Kanangra Falls",
-9
-],
-[
-"Siruvani Waterfalls",
-9
-],
-[
-"Aysgarth Falls",
-9
-],
-[
-"Bjarnarfoss",
-9
-],
-[
-"Hiʻilawe Falls",
-9
-],
-[
-"Kiliyur Falls",
+"Mystic Falls",
 9
 ],
 [
@@ -1476,7 +1524,7 @@
 9
 ],
 [
-"Bujagali Falls",
+"Narada Falls",
 9
 ],
 [
@@ -1488,15 +1536,11 @@
 9
 ],
 [
-"Narada Falls",
+"Turner Falls",
 9
 ],
 [
-"Madhabkunda waterfall",
-9
-],
-[
-"Nervión Waterfall",
+"Kanangra Falls",
 9
 ],
 [
@@ -1504,15 +1548,11 @@
 9
 ],
 [
-"Turner Falls",
+"Feigefossen",
 9
 ],
 [
-"Tvindefossen",
-9
-],
-[
-"Talnikovy Waterfall",
+"Akiu Great Falls",
 9
 ],
 [
@@ -1524,39 +1564,19 @@
 9
 ],
 [
-"Ribbon Fall",
-9
-],
-[
-"Lone Creek Falls",
-9
-],
-[
-"Feigefossen",
-9
-],
-[
 "Balayfossen",
 9
 ],
 [
-"Strupenfossen",
+"Abbey Falls",
 9
 ],
 [
-"Mumbuluma Falls",
+"Mandraka Falls",
 9
 ],
 [
-"Hannoki Falls",
-9
-],
-[
-"Tamarind Falls",
-9
-],
-[
-"Wodogrzmoty Mickiewicza",
+"Snoqualmie Falls",
 9
 ],
 [
@@ -1572,371 +1592,15 @@
 9
 ],
 [
-"Erawan waterfall",
+"Barrakunda Falls",
 9
-],
-[
-"Magod Falls",
-9
-],
-[
-"Akiu Great Falls",
-9
-],
-[
-"Sankai Falls",
-9
-],
-[
-"James Bruce Falls",
-9
-],
-[
-"Kabwelume Falls",
-9
-],
-[
-"Union Falls",
-8
-],
-[
-"Panchghagh Falls",
-8
-],
-[
-"Angels Staircase Falls",
-8
-],
-[
-"Wahkeena Falls",
-8
-],
-[
-"Yuhi Falls",
-8
-],
-[
-"Overlander Falls",
-8
-],
-[
-"Firehole Falls",
-8
-],
-[
-"Daggs Falls",
-8
-],
-[
-"Van Trump Falls",
-8
-],
-[
-"Etropole waterfall “Varovitets”",
-8
-],
-[
-"Badaghagara Waterfall",
-8
-],
-[
-"Chasm Falls",
-8
-],
-[
-"Chaudière Falls",
-8
-],
-[
-"Lehamite Falls",
-8
-],
-[
-"Waterwheel Falls",
-8
-],
-[
-"Snow Creek Falls",
-8
-],
-[
-"Issaqueena Falls",
-8
-],
-[
-"Virginia Cascades",
-8
-],
-[
-"Joranda Falls",
-8
-],
-[
-"Devil's Punch Bowl",
-8
-],
-[
-"Kutladampatti Falls",
-8
-],
-[
-"Namtok Si Dit",
-8
-],
-[
-"Lower Ghaghri Falls",
-8
-],
-[
-"Sable Falls",
-8
-],
-[
-"Hickory Nut Falls",
-8
-],
-[
-"Rainbow Falls",
-8
-],
-[
-"Pissing Mare Falls",
-8
-],
-[
-"Rianbavy Falls",
-8
-],
-[
-"Pančavský vodopád",
-8
-],
-[
-"Mount Shuksan Waterfalls",
-8
-],
-[
-"Sulphide Creek Falls",
-8
-],
-[
-"Sunwapta Falls",
-8
-],
-[
-"Sadni Falls",
-8
-],
-[
-"Cotter Force",
-8
-],
-[
-"Pistyll y Llyn",
-8
-],
-[
-"Cheeyappara Waterfalls",
-8
-],
-[
-"Eastatoe Falls",
-8
-],
-[
-"Ozone Falls",
-8
-],
-[
-"Limunsudan Falls",
-8
-],
-[
-"Latourell Falls",
-8
-],
-[
-"Sathodi Falls",
-8
-],
-[
-"Bahuti Falls",
-8
-],
-[
-"Ayyanar Falls",
-8
-],
-[
-"Saltos del Monday",
-8
-],
-[
-"Kaeng Sopha waterfall",
-8
-],
-[
-"Emperor Falls",
-8
-],
-[
-"Merkjárfoss",
-8
-],
-[
-"Zapata Falls",
-8
-],
-[
-"Jelovarnik",
-8
-],
-[
-"Little Kyll",
-8
-],
-[
-"Huilo-Huilo Falls",
-8
-],
-[
-"Usri Falls",
-8
-],
-[
-"Catrake Force",
-8
-],
-[
-"Milmilgee Falls",
-8
-],
-[
-"Millstream Falls",
-8
-],
-[
-"Rawan Ella",
-8
-],
-[
-"Månafossen",
-8
-],
-[
-"Tyssestrengene",
-8
-],
-[
-"Murray Falls",
-8
-],
-[
-"Herbert River Falls",
-8
-],
-[
-"Goomoolahra Falls",
-8
-],
-[
-"Yarrbilgong Falls",
-8
-],
-[
-"Crypt Falls",
-8
-],
-[
-"Fardagafoss",
-8
-],
-[
-"Kmeťov",
-8
-],
-[
-"Sgwd Henrhyd",
-8
-],
-[
-"Cane Creek Falls",
-8
-],
-[
-"Szklarka Waterfall",
-8
-],
-[
-"Kempty Falls",
-8
-],
-[
-"Hinulugang Taktak",
-8
-],
-[
-"Kune Falls",
-8
-],
-[
-"Purwa Falls",
-8
-],
-[
-"Salto Grande",
-8
-],
-[
-"Blackwater Falls",
-8
-],
-[
-"Bliha Waterfall",
-8
-],
-[
-"Kamieńczyk Waterfall",
-8
-],
-[
-"Mitchell Falls",
-8
-],
-[
-"Blum Basin Falls",
-8
-],
-[
-"Harajiri Falls",
-8
-],
-[
-"Ethipothala Falls",
-8
-],
-[
-"Gauthiot Falls",
-8
-],
-[
-"Gürlevik Waterfalls",
-8
-],
-[
-"Owen Falls",
-8
-],
-[
-"Siklawa",
-8
-],
-[
-"Dindefelo Falls",
-8
 ],
 [
 "Hällingsåfallet",
+8
+],
+[
+"Akaa Falls",
 8
 ],
 [
@@ -1952,14 +1616,6 @@
 8
 ],
 [
-"Blencoe Falls",
-8
-],
-[
-"Queen Mary Falls",
-8
-],
-[
 "Hottai Falls",
 8
 ],
@@ -1972,27 +1628,7 @@
 8
 ],
 [
-"Mahamanina Falls",
-8
-],
-[
-"Ellenborough Falls",
-8
-],
-[
-"Denmark Strait cataract",
-8
-],
-[
-"Granni",
-8
-],
-[
-"Akaa Falls",
-8
-],
-[
-"Matsirga waterfalls",
+"Hinulugang Taktak",
 8
 ],
 [
@@ -2000,439 +1636,379 @@
 8
 ],
 [
-"Weeks Falls",
-7
+"Kamieńczyk Waterfall",
+8
 ],
 [
-"Chute Sainte-Anne",
-7
+"Månafossen",
+8
 ],
 [
-"High Shoals Falls",
-7
+"Jelovarnik",
+8
 ],
 [
-"Steavenson Falls",
-7
+"Denmark Strait cataract",
+8
 ],
 [
-"Sunset Falls",
-7
+"Little Kyll",
+8
 ],
 [
-"Blue Hole Falls",
-7
+"Tyssestrengene",
+8
 ],
 [
-"Moravian Falls",
-7
+"Rainbow Falls",
+8
 ],
 [
-"Marymere Falls",
-7
+"Merkjárfoss",
+8
 ],
 [
-"Crabtree Falls",
-7
+"Blackwater Falls",
+8
 ],
 [
-"Triplet Falls",
-7
+"Fardagafoss",
+8
 ],
 [
-"Glassmine Falls",
-7
+"Mahamanina Falls",
+8
 ],
 [
-"Sydney Falls",
-7
+"Owen Falls",
+8
 ],
 [
-"Kautz Creek Falls",
-7
+"Harajiri Falls",
+8
 ],
 [
-"Kearneys Falls",
-7
+"Kmeťov",
+8
 ],
 [
-"Kumbakkarai Falls",
-7
+"Sgwd Henrhyd",
+8
 ],
 [
-"Changbai Waterfall",
-7
+"Siklawa",
+8
 ],
 [
-"Bekhal Waterfall",
-7
+"Queen Mary Falls",
+8
 ],
 [
-"Berdeen Falls",
-7
+"Blencoe Falls",
+8
 ],
 [
-"Depot Creek Falls",
-7
+"Ellenborough Falls",
+8
 ],
 [
-"Tueeulala Falls",
-7
+"Mount Shuksan Waterfalls",
+8
 ],
 [
-"Nigretta Falls",
-7
+"Sulphide Creek Falls",
+8
 ],
 [
-"Meenmutty Falls, Thiruvananthapuram",
-7
+"Cotter Force",
+8
 ],
 [
-"Nafa-khum",
-7
+"Pistyll y Llyn",
+8
 ],
 [
-"Palouse Falls",
-7
+"Van Trump Falls",
+8
 ],
 [
-"Kongou Falls",
-7
+"Daggs Falls",
+8
 ],
 [
-"Lamadaya",
-7
+"Goomoolahra Falls",
+8
 ],
 [
-"Mantayupan Falls",
-7
+"Herbert River Falls",
+8
 ],
 [
-"Wapama Falls",
-7
+"Sable Falls",
+8
 ],
 [
-"Keyhole Falls",
-7
+"Lower Ghaghri Falls",
+8
 ],
 [
-"Cikaso waterfall",
-7
+"Eastatoe Falls",
+8
 ],
 [
-"Rockhouse Falls",
-7
+"Ozone Falls",
+8
 ],
 [
-"Alexandra Falls",
-7
+"Badaghagara Waterfall",
+8
 ],
 [
-"High Falls",
-7
+"Cane Creek Falls",
+8
 ],
 [
-"McGalliard Falls",
-7
+"Chasm Falls",
+8
 ],
 [
-"Pokiok Falls",
-7
+"Chaudière Falls",
+8
 ],
 [
-"Turtleback Falls",
-7
+"Sadni Falls",
+8
 ],
 [
-"Royal Arch Cascade",
-7
+"Hickory Nut Falls",
+8
 ],
 [
-"Gatha Falls",
-7
+"Blum Basin Falls",
+8
 ],
 [
-"Brontë Waterfall",
-7
+"Mitchell Falls",
+8
 ],
 [
-"Pathampuzha",
-7
+"Emperor Falls",
+8
 ],
 [
-"Obrovský vodopád",
-7
+"Bahuti Falls",
+8
 ],
 [
-"Horsetail Falls",
-7
+"Catrake Force",
+8
 ],
 [
-"Chuvisco Falls",
-7
+"Millstream Falls",
+8
 ],
 [
-"Ma'in Hot Springs",
-7
+"Milmilgee Falls",
+8
 ],
 [
-"Laxapana Falls",
-7
+"Ayyanar Falls",
+8
 ],
 [
-"Ki-a-Kuts Falls",
-7
+"Kaeng Sopha waterfall",
+8
 ],
 [
-"Staburags",
-7
+"Huilo-Huilo Falls",
+8
 ],
 [
-"Shalmash Falls",
-7
+"Usri Falls",
+8
 ],
 [
-"Siri Waterfall",
-7
+"Rawan Ella",
+8
 ],
 [
-"Fish Creek Falls",
-7
+"Overlander Falls",
+8
 ],
 [
-"Sherman Falls",
-7
+"Yuhi Falls",
+8
 ],
 [
-"Hooker Falls",
-7
+"Panchghagh Falls",
+8
 ],
 [
-"Franklin Falls",
-7
+"Angels Staircase Falls",
+8
 ],
 [
-"Chegem Waterfalls",
-7
+"Wahkeena Falls",
+8
 ],
 [
-"Hörschbach",
-7
+"Union Falls",
+8
 ],
 [
-"Sai Yok Noi waterfall",
-7
+"Firehole Falls",
+8
 ],
 [
-"Popinolashki waterfall",
-7
+"Etropole waterfall “Varovitets”",
+8
 ],
 [
-"Koćuša",
-7
+"Kutladampatti Falls",
+8
 ],
 [
-"Pu'uka'oku Falls",
-7
+"Namtok Si Dit",
+8
 ],
 [
-"Telhar",
-7
+"Waterwheel Falls",
+8
 ],
 [
-"Elgin Falls",
-7
+"Lehamite Falls",
+8
 ],
 [
-"Anna Ruby Falls",
-7
+"Snow Creek Falls",
+8
 ],
 [
-"Wahclella Falls",
-7
+"Virginia Cascades",
+8
 ],
 [
-"Styggforsen",
-7
+"Issaqueena Falls",
+8
 ],
 [
-"Bow Glacier Falls",
-7
+"Cheeyappara Waterfalls",
+8
 ],
 [
-"Cullasaja Falls",
-7
+"Devil's Punch Bowl",
+8
 ],
 [
-"Bogatha Waterfall",
-7
+"Limunsudan Falls",
+8
 ],
 [
-"Skrikjofossen",
-7
+"Latourell Falls",
+8
 ],
 [
-"Silverband Falls",
-7
+"Murray Falls",
+8
 ],
 [
-"Ullakaarvi",
-7
+"Yarrbilgong Falls",
+8
 ],
 [
-"Surprise Creek Falls",
-7
+"Crypt Falls",
+8
 ],
 [
-"Tinaroo Falls",
-7
+"Szklarka Waterfall",
+8
+],
+[
+"Salto Grande",
+8
+],
+[
+"Kune Falls",
+8
+],
+[
+"Purwa Falls",
+8
+],
+[
+"Zapata Falls",
+8
+],
+[
+"Kempty Falls",
+8
+],
+[
+"Bliha Waterfall",
+8
+],
+[
+"Ethipothala Falls",
+8
+],
+[
+"Gauthiot Falls",
+8
+],
+[
+"Gürlevik Waterfalls",
+8
+],
+[
+"Dindefelo Falls",
+8
+],
+[
+"Granni",
+8
+],
+[
+"Joranda Falls",
+8
+],
+[
+"Matsirga waterfalls",
+8
+],
+[
+"Pissing Mare Falls",
+8
+],
+[
+"Rianbavy Falls",
+8
+],
+[
+"Sathodi Falls",
+8
+],
+[
+"Pančavský vodopád",
+8
+],
+[
+"Saltos del Monday",
+8
+],
+[
+"Sunwapta Falls",
+8
 ],
 [
 "Cascade Blanche",
 7
 ],
 [
-"Fitzroy Falls",
-7
-],
-[
-"Brúarfoss",
-7
-],
-[
-"Upper Whitewater Falls",
-7
-],
-[
-"Chedoke Falls",
-7
-],
-[
-"Karkat Waterfall",
-7
-],
-[
-"Voyevodyn waterfall",
-7
-],
-[
-"Hurkalo",
-7
-],
-[
-"Kettle Falls",
-7
-],
-[
-"Kaaterskill Falls",
-7
-],
-[
-"Bird Woman Falls",
-7
-],
-[
-"Grundarfoss",
-7
-],
-[
-"Kakabeka Falls",
-7
-],
-[
-"Linville Falls",
-7
-],
-[
-"Jurong Falls",
-7
-],
-[
-"Ojos del Caburgua",
-7
-],
-[
-"Tröllafoss",
-7
-],
-[
-"Marble Rocks",
-7
-],
-[
-"Tanougou Falls",
-7
-],
-[
-"Pathrakadavu Waterfalls",
-7
-],
-[
-"Kota Falls",
-7
-],
-[
-"Wangi Falls",
-7
-],
-[
-"Devil's Appendix",
-7
-],
-[
-"Duduma Waterfalls",
-7
-],
-[
-"Göksu Waterfall",
-7
-],
-[
-"Madakaripura Waterfall",
-7
-],
-[
-"Bassin Bleu",
-7
-],
-[
-"Rideau Falls",
-7
-],
-[
-"Studenovodské vodopády",
-7
-],
-[
-"Šútovský vodopád",
-7
-],
-[
-"Skradinski buk",
-7
-],
-[
-"Toranmal",
-7
-],
-[
-"White Drin Waterfall",
-7
-],
-[
-"Yutaje Falls",
-7
-],
-[
-"Wairere Falls",
-7
-],
-[
-"Kaboud-val",
-7
-],
-[
 "Elephant Waterfalls",
+7
+],
+[
+"Fitzroy Falls",
 7
 ],
 [
@@ -2441,38 +2017,6 @@
 ],
 [
 "Stigfossen",
-7
-],
-[
-"Waihilau Falls",
-7
-],
-[
-"Gega Waterfall",
-7
-],
-[
-"Manthokha Waterfall",
-7
-],
-[
-"Chutes de Boali",
-7
-],
-[
-"Loufoulakari waterfalls",
-7
-],
-[
-"Tower Fall",
-7
-],
-[
-"Írárfoss",
-7
-],
-[
-"Gujuli",
 7
 ],
 [
@@ -2488,7 +2032,11 @@
 7
 ],
 [
-"Wonotobo Falls",
+"Chumi Gyatse Falls",
+7
+],
+[
+"Gujuli",
 7
 ],
 [
@@ -2500,6 +2048,10 @@
 7
 ],
 [
+"Kakabeka Falls",
+7
+],
+[
 "Fervenza do Ézaro",
 7
 ],
@@ -2508,43 +2060,19 @@
 7
 ],
 [
+"Kettle Falls",
+7
+],
+[
 "Rupse Falls",
 7
 ],
 [
-"Riandahy Falls",
+"Yikpa Falls",
 7
 ],
 [
-"Kefrida Waterfall",
-7
-],
-[
-"Chumi Gyatse Falls",
-7
-],
-[
-"Nunobiki Falls",
-7
-],
-[
-"Yōrō Falls",
-7
-],
-[
-"Chunchanakatte Falls",
-7
-],
-[
-"Tännforsen",
-7
-],
-[
-"Owu Waterfalls",
-7
-],
-[
-"Dhani Waterfall",
+"Írárfoss",
 7
 ],
 [
@@ -2560,11 +2088,483 @@
 7
 ],
 [
+"Brooks Falls",
+7
+],
+[
 "Pulo do Lobo",
 7
 ],
 [
-"Brooks Falls",
+"Skrikjofossen",
+7
+],
+[
+"Chegem Waterfalls",
+7
+],
+[
+"Bogatha Waterfall",
+7
+],
+[
+"Manthokha Waterfall",
+7
+],
+[
+"Chutes de Boali",
+7
+],
+[
+"Loufoulakari waterfalls",
+7
+],
+[
+"Styggforsen",
+7
+],
+[
+"Bird Woman Falls",
+7
+],
+[
+"Grundarfoss",
+7
+],
+[
+"Brúarfoss",
+7
+],
+[
+"Pathrakadavu Waterfalls",
+7
+],
+[
+"Wonotobo Falls",
+7
+],
+[
+"Marble Rocks",
+7
+],
+[
+"Bassin Bleu",
+7
+],
+[
+"Kota Falls",
+7
+],
+[
+"Riandahy Falls",
+7
+],
+[
+"Kefrida Waterfall",
+7
+],
+[
+"Rideau Falls",
+7
+],
+[
+"Tanougou Falls",
+7
+],
+[
+"Wangi Falls",
+7
+],
+[
+"Popinolashki waterfall",
+7
+],
+[
+"Koćuša",
+7
+],
+[
+"Pu'uka'oku Falls",
+7
+],
+[
+"Studenovodské vodopády",
+7
+],
+[
+"Šútovský vodopád",
+7
+],
+[
+"Skradinski buk",
+7
+],
+[
+"Waihilau Falls",
+7
+],
+[
+"Gega Waterfall",
+7
+],
+[
+"Nunobiki Falls",
+7
+],
+[
+"Yōrō Falls",
+7
+],
+[
+"Chunchanakatte Falls",
+7
+],
+[
+"Chuvisco Falls",
+7
+],
+[
+"Horsetail Falls",
+7
+],
+[
+"Sydney Falls",
+7
+],
+[
+"Kautz Creek Falls",
+7
+],
+[
+"Kearneys Falls",
+7
+],
+[
+"Crabtree Falls",
+7
+],
+[
+"Pokiok Falls",
+7
+],
+[
+"High Falls",
+7
+],
+[
+"Turtleback Falls",
+7
+],
+[
+"McGalliard Falls",
+7
+],
+[
+"Keyhole Falls",
+7
+],
+[
+"Rockhouse Falls",
+7
+],
+[
+"Cikaso waterfall",
+7
+],
+[
+"Brontë Waterfall",
+7
+],
+[
+"Alexandra Falls",
+7
+],
+[
+"Anna Ruby Falls",
+7
+],
+[
+"Wahclella Falls",
+7
+],
+[
+"Hooker Falls",
+7
+],
+[
+"Franklin Falls",
+7
+],
+[
+"Berdeen Falls",
+7
+],
+[
+"Upper Whitewater Falls",
+7
+],
+[
+"Chedoke Falls",
+7
+],
+[
+"Karkat Waterfall",
+7
+],
+[
+"Depot Creek Falls",
+7
+],
+[
+"Royal Arch Cascade",
+7
+],
+[
+"Gatha Falls",
+7
+],
+[
+"Linville Falls",
+7
+],
+[
+"Ojos del Caburgua",
+7
+],
+[
+"Jurong Falls",
+7
+],
+[
+"Telhar",
+7
+],
+[
+"Elgin Falls",
+7
+],
+[
+"Fish Creek Falls",
+7
+],
+[
+"Sherman Falls",
+7
+],
+[
+"Tower Fall",
+7
+],
+[
+"Cullasaja Falls",
+7
+],
+[
+"Bow Glacier Falls",
+7
+],
+[
+"Ullakaarvi",
+7
+],
+[
+"Silverband Falls",
+7
+],
+[
+"Marymere Falls",
+7
+],
+[
+"Moravian Falls",
+7
+],
+[
+"Triplet Falls",
+7
+],
+[
+"Weeks Falls",
+7
+],
+[
+"Blue Hole Falls",
+7
+],
+[
+"Sunset Falls",
+7
+],
+[
+"Chute Sainte-Anne",
+7
+],
+[
+"Steavenson Falls",
+7
+],
+[
+"High Shoals Falls",
+7
+],
+[
+"Glassmine Falls",
+7
+],
+[
+"Kumbakkarai Falls",
+7
+],
+[
+"Mantayupan Falls",
+7
+],
+[
+"Wapama Falls",
+7
+],
+[
+"Tueeulala Falls",
+7
+],
+[
+"Nigretta Falls",
+7
+],
+[
+"Sai Yok Noi waterfall",
+7
+],
+[
+"Ki-a-Kuts Falls",
+7
+],
+[
+"Surprise Creek Falls",
+7
+],
+[
+"Tinaroo Falls",
+7
+],
+[
+"Kaaterskill Falls",
+7
+],
+[
+"Voyevodyn waterfall",
+7
+],
+[
+"Hurkalo",
+7
+],
+[
+"Madakaripura Waterfall",
+7
+],
+[
+"Tröllafoss",
+7
+],
+[
+"Devil's Appendix",
+7
+],
+[
+"Duduma Waterfalls",
+7
+],
+[
+"Tännforsen",
+7
+],
+[
+"Dhani Waterfall",
+7
+],
+[
+"Göksu Waterfall",
+7
+],
+[
+"Owu Waterfalls",
+7
+],
+[
+"Changbai Waterfall",
+7
+],
+[
+"Bekhal Waterfall",
+7
+],
+[
+"Kongou Falls",
+7
+],
+[
+"Lamadaya",
+7
+],
+[
+"Laxapana Falls",
+7
+],
+[
+"Ma'in Hot Springs",
+7
+],
+[
+"Meenmutty Falls, Thiruvananthapuram",
+7
+],
+[
+"Nafa-khum",
+7
+],
+[
+"Palouse Falls",
+7
+],
+[
+"Pathampuzha",
+7
+],
+[
+"Obrovský vodopád",
+7
+],
+[
+"Shalmash Falls",
+7
+],
+[
+"Siri Waterfall",
+7
+],
+[
+"Staburags",
+7
+],
+[
+"Toranmal",
+7
+],
+[
+"Wairere Falls",
+7
+],
+[
+"White Drin Waterfall",
+7
+],
+[
+"Yutaje Falls",
+7
+],
+[
+"Kaboud-val",
 7
 ],
 [
@@ -2572,199 +2572,167 @@
 7
 ],
 [
-"Yikpa Falls",
+"Hörschbach",
 7
 ],
 [
-"Panther Creek Falls",
+"Bushkill Falls",
 6
 ],
 [
-"Little River Falls",
+"Cataract Falls",
 6
 ],
 [
-"Munising Falls",
+"Stora Sjöfallet",
 6
 ],
 [
-"Salt Creek Falls",
+"Piran waterfall",
 6
 ],
 [
-"Holcomb Creek Falls",
+"Ogama Falls",
 6
 ],
 [
-"Moul Falls",
+"Ncandu Falls",
 6
 ],
 [
-"Eagle Falls",
+"Kurokuma Falls",
 6
 ],
 [
-"Dick's Creek Falls",
+"Brudesløret",
 6
 ],
 [
-"Benham Falls",
+"Sanjō Falls",
 6
 ],
 [
-"Arethusa Falls",
+"Senga Falls",
 6
 ],
 [
-"Key Falls",
+"Jhari Falls",
 6
 ],
 [
-"Wagner Falls",
+"Namekawa Great Falls",
 6
 ],
 [
-"Agate Falls Scenic Site",
+"Hagoromo Falls",
 6
 ],
 [
-"Darnley Cascade",
+"Chagama Falls",
 6
 ],
 [
-"Manabezho Falls",
+"Atera Seven Falls",
 6
 ],
 [
-"Fruitland Falls",
+"Anachadikuthu Waterfalls",
 6
 ],
 [
-"Alger Falls",
+"Narva Waterfall",
 6
 ],
 [
-"Courthouse Falls",
+"Hlbočiansky vodopád",
 6
 ],
 [
-"Manido Falls",
+"Mürrenbachfall",
 6
 ],
 [
-"Mazama Falls",
+"Aigualluts",
 6
 ],
 [
-"Scott Falls",
+"Æðarfossar",
 6
 ],
 [
-"Miners Falls",
+"Humbert Falls",
 6
 ],
 [
-"Princess Falls",
+"Grüner See",
 6
 ],
 [
-"Tannery Falls",
+"Mutumuna Falls",
 6
 ],
 [
-"Rainy Lake Falls",
+"Hallamölla",
 6
 ],
 [
-"Karlovsko Praskalo",
+"Patalpani waterfall",
 6
 ],
 [
-"Cristal Falls",
+"Yuntan Waterfall",
 6
 ],
 [
-"Volio Waterfall",
+"Wulai Waterfall",
 6
 ],
 [
-"Shahandasht Waterfall",
+"Véu da Noiva Falls",
 6
 ],
 [
-"Shevi Waterfall",
+"Stuibenfall",
 6
 ],
 [
-"Dogholoo Waterfall",
+"Amsel Falls",
 6
 ],
 [
-"Hamilton Pool Preserve",
+"Jadipai waterfall",
 6
 ],
 [
-"Burgess Falls",
+"Glanni",
 6
 ],
 [
-"Phu Fa waterfall",
+"Ntumbachushi Falls",
 6
 ],
 [
-"Hagi Falls",
+"Lúčanský vodopád",
 6
 ],
 [
-"Mill Falls",
+"Tröllkonuhlaup",
 6
 ],
 [
-"Fairy Falls",
+"Saut du Doubs",
 6
 ],
 [
-"Borer's Falls",
+"Gljúfursárfoss",
 6
 ],
 [
-"Nooksack Falls",
+"Rimyongsu Waterfall",
 6
 ],
 [
-"Nawadaha Falls",
-6
-],
-[
-"Muthyalamaduvu",
-6
-],
-[
-"Ninai Falls",
-6
-],
-[
-"Nuranang Falls",
-6
-],
-[
-"Orinduik Falls",
-6
-],
-[
-"Eyipantla Falls",
-6
-],
-[
-"Kailasakona Falls",
-6
-],
-[
-"King George VI Falls",
-6
-],
-[
-"Krushuna Falls",
+"Kirkjufellsfossar",
 6
 ],
 [
@@ -2772,7 +2740,139 @@
 6
 ],
 [
-"Salto del Nilahue",
+"Sahasrakund Waterfall",
+6
+],
+[
+"Upper Falls of the Yellowstone River",
+6
+],
+[
+"Fossá",
+6
+],
+[
+"Kaluđerski Skokovi",
+6
+],
+[
+"Kvernufoss",
+6
+],
+[
+"Amritdhara falls",
+6
+],
+[
+"Itiquira Falls",
+6
+],
+[
+"Dabhosa Waterfalls",
+6
+],
+[
+"Gufufoss",
+6
+],
+[
+"Lady Barron Falls",
+6
+],
+[
+"Reversing Falls",
+6
+],
+[
+"Hunlen Falls",
+6
+],
+[
+"Keralamkundu Waterfalls",
+6
+],
+[
+"Edith Falls",
+6
+],
+[
+"Hardraw Force",
+6
+],
+[
+"Aber Falls",
+6
+],
+[
+"Rjoandefossen",
+6
+],
+[
+"Perunthenaruvi Falls",
+6
+],
+[
+"Wufengqi Waterfall",
+6
+],
+[
+"Salto de Bordones",
+6
+],
+[
+"Wainui Falls",
+6
+],
+[
+"Roháčsky vodopád",
+6
+],
+[
+"Vajanského vodopád",
+6
+],
+[
+"Kľacký vodopád",
+6
+],
+[
+"Meenmutty Falls",
+6
+],
+[
+"Delaneys Falls",
+6
+],
+[
+"Millaa Millaa Falls",
+6
+],
+[
+"Cascate Nardis",
+6
+],
+[
+"Kalhatti Falls",
+6
+],
+[
+"Sliding Rock",
+6
+],
+[
+"Bahia Falls",
+6
+],
+[
+"Kattimannap Qurlua",
+6
+],
+[
+"Kipu Falls",
+6
+],
+[
+"Aruvikkuzhy Falls",
 6
 ],
 [
@@ -2796,47 +2896,63 @@
 6
 ],
 [
-"Aruvikkuzhy Falls",
+"Salmon Creek Falls",
 6
 ],
 [
-"Kipu Falls",
+"Dawson Falls",
 6
 ],
 [
-"Twister Falls",
+"Bond Falls",
 6
 ],
 [
-"Thousand Foot Falls",
+"Walker Falls",
 6
 ],
 [
-"Penchalakona",
+"Still Brook Waterfall",
 6
 ],
 [
-"Petites Chutes de la Lukaya",
+"Burgess Falls",
 6
 ],
 [
-"Krunefossen",
+"Eagle Falls",
 6
 ],
 [
-"Richtis Gorge",
+"Fiumelatte",
 6
 ],
 [
-"Jiao Lung Waterfall",
+"Phu Fa waterfall",
 6
 ],
 [
-"Sliding Rock",
+"Hagi Falls",
 6
 ],
 [
-"Reiårsfossen",
+"Williamsport Falls",
+6
+],
+[
+"Corbin Creek Falls",
+6
+],
+[
+"Fairy Falls",
+6
+],
+[
+"Borer's Falls",
+6
+],
+[
+"Mill Falls",
 6
 ],
 [
@@ -2852,103 +2968,7 @@
 6
 ],
 [
-"Bahia Falls",
-6
-],
-[
-"Kattimannap Qurlua",
-6
-],
-[
-"Krčić waterfall",
-6
-],
-[
-"Lower Cascades",
-6
-],
-[
-"Walker Falls",
-6
-],
-[
-"Bond Falls",
-6
-],
-[
-"Still Brook Waterfall",
-6
-],
-[
-"Godchinamalaki Falls",
-6
-],
-[
-"Sangan Waterfall",
-6
-],
-[
-"Sentinel Fall",
-6
-],
-[
-"Laughing Whitefish Falls Scenic Site",
-6
-],
-[
-"Tchupala Falls",
-6
-],
-[
-"Toms Creek Falls",
-6
-],
-[
-"Lichtenhain Waterfall",
-6
-],
-[
-"Bloody Fall",
-6
-],
-[
-"Wairēinga / Bridal Veil Falls",
-6
-],
-[
-"Hidden Falls",
-6
-],
-[
-"Roaring Fork Falls",
-6
-],
-[
-"Shell Falls",
-6
-],
-[
-"Tory's Falls",
-6
-],
-[
-"Aber Falls",
-6
-],
-[
-"Rjoandefossen",
-6
-],
-[
-"Perunthenaruvi Falls",
-6
-],
-[
-"Salto de Bordones",
-6
-],
-[
-"Smith Falls",
+"Twister Falls",
 6
 ],
 [
@@ -2960,43 +2980,31 @@
 6
 ],
 [
-"Salmon Creek Falls",
+"Smith Falls",
 6
 ],
 [
-"Dawson Falls",
+"Laughing Whitefish Falls Scenic Site",
 6
 ],
 [
-"Mutumuna Falls",
+"Cascade Falls",
 6
 ],
 [
-"Hallamölla",
+"Tchupala Falls",
 6
 ],
 [
-"Grüner See",
-6
-],
-[
-"Saut du Doubs",
-6
-],
-[
-"Tiffany Falls",
-6
-],
-[
-"Stuibenfall",
-6
-],
-[
-"Mynach Falls",
+"Toms Creek Falls",
 6
 ],
 [
 "Setrock Creek Falls",
+6
+],
+[
+"Mynach Falls",
 6
 ],
 [
@@ -3008,7 +3016,7 @@
 6
 ],
 [
-"Cascade Falls",
+"Washboard Falls",
 6
 ],
 [
@@ -3016,47 +3024,111 @@
 6
 ],
 [
-"Washboard Falls",
+"Wagner Falls",
 6
 ],
 [
-"Coomera Falls",
+"Benham Falls",
 6
 ],
 [
-"Bushkill Falls",
+"Key Falls",
 6
 ],
 [
-"Cataract Falls",
+"Arethusa Falls",
 6
 ],
 [
-"Upper Falls of the Yellowstone River",
+"Agate Falls Scenic Site",
 6
 ],
 [
-"Edith Falls",
+"Manabezho Falls",
 6
 ],
 [
-"Hunlen Falls",
+"Darnley Cascade",
 6
 ],
 [
-"Hardraw Force",
+"Miners Falls",
 6
 ],
 [
-"Glanni",
+"Princess Falls",
 6
 ],
 [
-"Williamsport Falls",
+"Scott Falls",
 6
 ],
 [
-"Corbin Creek Falls",
+"Tannery Falls",
+6
+],
+[
+"Panther Creek Falls",
+6
+],
+[
+"Dick's Creek Falls",
+6
+],
+[
+"Salt Creek Falls",
+6
+],
+[
+"Munising Falls",
+6
+],
+[
+"Little River Falls",
+6
+],
+[
+"Holcomb Creek Falls",
+6
+],
+[
+"Moul Falls",
+6
+],
+[
+"Rainy Lake Falls",
+6
+],
+[
+"Courthouse Falls",
+6
+],
+[
+"Alger Falls",
+6
+],
+[
+"Manido Falls",
+6
+],
+[
+"Fruitland Falls",
+6
+],
+[
+"Mazama Falls",
+6
+],
+[
+"Karlovsko Praskalo",
+6
+],
+[
+"Volio Waterfall",
+6
+],
+[
+"Cristal Falls",
 6
 ],
 [
@@ -3064,19 +3136,39 @@
 6
 ],
 [
-"Sa Spendula",
+"Salto del Nilahue",
 6
 ],
 [
-"Burhan-bulak falls",
+"Nooksack Falls",
 6
 ],
 [
-"Mürrenbachfall",
+"Nawadaha Falls",
 6
 ],
 [
-"Ogama Falls",
+"Roaring Fork Falls",
+6
+],
+[
+"Shell Falls",
+6
+],
+[
+"Hidden Falls",
+6
+],
+[
+"Tory's Falls",
+6
+],
+[
+"Lower Cascades",
+6
+],
+[
+"Coomera Falls",
 6
 ],
 [
@@ -3088,11 +3180,43 @@
 6
 ],
 [
-"Gljúfursárfoss",
+"Tiffany Falls",
 6
 ],
 [
-"Kirkjufellsfossar",
+"Sa Spendula",
+6
+],
+[
+"Burhan-bulak falls",
+6
+],
+[
+"Waterfall Chervonohorod",
+6
+],
+[
+"Kuk-Karauk waterfall",
+6
+],
+[
+"'Opaeka'a Falls",
+6
+],
+[
+"Ølmäafossen",
+6
+],
+[
+"25 Fontes Falls",
+6
+],
+[
+"Abshir Ata Waterfall",
+6
+],
+[
+"Agoyán",
 6
 ],
 [
@@ -3112,63 +3236,15 @@
 6
 ],
 [
-"Ntumbachushi Falls",
-6
-],
-[
-"Tröllkonuhlaup",
-6
-],
-[
-"Aigualluts",
-6
-],
-[
-"Amsel Falls",
-6
-],
-[
-"'Opaeka'a Falls",
-6
-],
-[
-"Ølmäafossen",
-6
-],
-[
-"Schleierfall",
-6
-],
-[
-"Kvernufoss",
-6
-],
-[
-"Lúčanský vodopád",
-6
-],
-[
-"Amritdhara falls",
-6
-],
-[
-"Kaluđerski Skokovi",
-6
-],
-[
-"Dabhosa Waterfalls",
-6
-],
-[
-"25 Fontes Falls",
-6
-],
-[
 "Charpa Falls",
 6
 ],
 [
 "Curug Cipendok",
+6
+],
+[
+"Schleierfall",
 6
 ],
 [
@@ -3184,39 +3260,23 @@
 6
 ],
 [
-"Waterfall Chervonohorod",
+"Biryong Falls",
 6
 ],
 [
-"Kuk-Karauk waterfall",
+"Sajikot Waterfall",
 6
 ],
 [
-"Itiquira Falls",
+"Chotok Waterfalls",
 6
 ],
 [
-"Gufufoss",
+"Hamilton Pool Preserve",
 6
 ],
 [
-"Lady Barron Falls",
-6
-],
-[
-"Reversing Falls",
-6
-],
-[
-"Roháčsky vodopád",
-6
-],
-[
-"Kľacký vodopád",
-6
-],
-[
-"Vajanského vodopád",
+"Dogholoo Waterfall",
 6
 ],
 [
@@ -3224,19 +3284,91 @@
 6
 ],
 [
+"Shahandasht Waterfall",
+6
+],
+[
+"Shevi Waterfall",
+6
+],
+[
+"Blederija",
+6
+],
+[
+"Eyipantla Falls",
+6
+],
+[
+"Kailasakona Falls",
+6
+],
+[
+"King George VI Falls",
+6
+],
+[
+"Krushuna Falls",
+6
+],
+[
+"Krčić waterfall",
+6
+],
+[
+"Muthyalamaduvu",
+6
+],
+[
+"Jiao Lung Waterfall",
+6
+],
+[
+"Ninai Falls",
+6
+],
+[
+"Nuranang Falls",
+6
+],
+[
+"Orinduik Falls",
+6
+],
+[
+"Penchalakona",
+6
+],
+[
+"Petites Chutes de la Lukaya",
+6
+],
+[
+"Krunefossen",
+6
+],
+[
+"Richtis Gorge",
+6
+],
+[
+"Godchinamalaki Falls",
+6
+],
+[
+"Sangan Waterfall",
+6
+],
+[
+"Sentinel Fall",
+6
+],
+[
+"Thousand Foot Falls",
+6
+],
+[
 "Tufton Hall Waterfall",
-6
-],
-[
-"Piran waterfall",
-6
-],
-[
-"Siklawica",
-6
-],
-[
-"Stora Sjöfallet",
 6
 ],
 [
@@ -3248,151 +3380,27 @@
 6
 ],
 [
-"Ncandu Falls",
+"Toba Waterfall and Arsen Okrojanashvili Cave Natural Monument",
 6
 ],
 [
-"Kurokuma Falls",
+"Lichtenhain Waterfall",
 6
 ],
 [
-"Brudesløret",
+"Bloody Fall",
 6
 ],
 [
-"Meenmutty Falls",
+"Wairēinga / Bridal Veil Falls",
 6
 ],
 [
-"Delaneys Falls",
+"Siklawica",
 6
 ],
 [
-"Millaa Millaa Falls",
-6
-],
-[
-"Sahasrakund Waterfall",
-6
-],
-[
-"Fossá",
-6
-],
-[
-"Rimyongsu Waterfall",
-6
-],
-[
-"Wainui Falls",
-6
-],
-[
-"Abshir Ata Waterfall",
-6
-],
-[
-"Agoyán",
-6
-],
-[
-"Sanjō Falls",
-6
-],
-[
-"Senga Falls",
-6
-],
-[
-"Namekawa Great Falls",
-6
-],
-[
-"Narva Waterfall",
-6
-],
-[
-"Hagoromo Falls",
-6
-],
-[
-"Chagama Falls",
-6
-],
-[
-"Atera Seven Falls",
-6
-],
-[
-"Hlbočiansky vodopád",
-6
-],
-[
-"Æðarfossar",
-6
-],
-[
-"Jhari Falls",
-6
-],
-[
-"Fiumelatte",
-6
-],
-[
-"Cascate Nardis",
-6
-],
-[
-"Kalhatti Falls",
-6
-],
-[
-"Chotok Waterfalls",
-6
-],
-[
-"Biryong Falls",
-6
-],
-[
-"Sajikot Waterfall",
-6
-],
-[
-"Humbert Falls",
-6
-],
-[
-"Patalpani waterfall",
-6
-],
-[
-"Yuntan Waterfall",
-6
-],
-[
-"Wulai Waterfall",
-6
-],
-[
-"Keralamkundu Waterfalls",
-6
-],
-[
-"Véu da Noiva Falls",
-6
-],
-[
-"Jadipai waterfall",
-6
-],
-[
-"Wufengqi Waterfall",
-6
-],
-[
-"Anachadikuthu Waterfalls",
+"Reiårsfossen",
 6
 ],
 [
@@ -3404,719 +3412,7 @@
 6
 ],
 [
-"Blederija",
-6
-],
-[
-"Toba Waterfall and Arsen Okrojanashvili Cave Natural Monument",
-6
-],
-[
-"Quarry Falls",
-5
-],
-[
-"Swiftcurrent Falls",
-5
-],
-[
-"Whiteoak Creek Falls",
-5
-],
-[
-"Kanim Falls",
-5
-],
-[
-"Middle Twin Falls",
-5
-],
-[
-"Westcliffe Falls",
-5
-],
-[
-"East Iroquoia Falls",
-5
-],
-[
-"Greensville Falls",
-5
-],
-[
-"Denny Camp Falls",
-5
-],
-[
-"Great Conglomerate Falls",
-5
-],
-[
-"Lower Sanatorium Cascade",
-5
-],
-[
-"Canterbury Falls",
-5
-],
-[
-"Grand Cascade",
-5
-],
-[
-"McNeilly West Falls",
-5
-],
-[
-"Lava Island Falls",
-5
-],
-[
-"Memorial Falls",
-5
-],
-[
-"Walupt Creek Falls",
-5
-],
-[
-"Old Dundas Road Falls",
-5
-],
-[
-"Fantastic Falls",
-5
-],
-[
-"McDiarmid Falls",
-5
-],
-[
-"Deer Falls",
-5
-],
-[
-"Samuel Cascade",
-5
-],
-[
-"West of Fifty Upper Cascade",
-5
-],
-[
-"East Glover's Falls",
-5
-],
-[
-"McNeilly Falls",
-5
-],
-[
-"Tallman East Falls",
-5
-],
-[
-"Ancaster Heights Falls",
-5
-],
-[
-"Cane Creek Cascades",
-5
-],
-[
-"Dundas Falls",
-5
-],
-[
-"East Twin Falls",
-5
-],
-[
-"Depot Valley Falls",
-5
-],
-[
-"Denlow Falls",
-5
-],
-[
-"Drift Falls",
-5
-],
-[
-"Piney Creek Falls",
-5
-],
-[
-"Nellie Falls",
-5
-],
-[
-"Pulhapanzak",
-5
-],
-[
-"Bisheh Waterfall",
-5
-],
-[
-"Gerit Waterfall",
-5
-],
-[
-"Otter Falls",
-5
-],
-[
-"Waterfalls of the North Fork Cascade River Valley#Boston Creek Falls",
-5
-],
-[
-"Scenic Falls",
-5
-],
-[
-"Bad Branch Falls",
-5
-],
-[
-"Stephanie Falls",
-5
-],
-[
-"Sydenham Falls",
-5
-],
-[
-"Katahdin Falls",
-5
-],
-[
-"Buttermilk Falls",
-5
-],
-[
-"Jones Road Falls",
-5
-],
-[
-"Smalls Falls",
-5
-],
-[
-"Tallman West Falls",
-5
-],
-[
-"Quaking Aspen Falls",
-5
-],
-[
-"Waterfall on West Prong Hickey Fork",
-5
-],
-[
-"Mallalli Falls",
-5
-],
-[
-"Mallela Theertham",
-5
-],
-[
-"Marmala waterfall",
-5
-],
-[
-"Skakavitsa Waterfall",
-5
-],
-[
-"Nyambwezi Falls",
-5
-],
-[
-"Owharoa Falls",
-5
-],
-[
-"Samandere Waterfall",
-5
-],
-[
-"Kanching Falls",
-5
-],
-[
-"Steven's Falls",
-5
-],
-[
-"Lakkam Waterfalls",
-5
-],
-[
-"Asbestos Falls",
-5
-],
-[
-"Ammons Creek Falls",
-5
-],
-[
-"Catawba Falls",
-5
-],
-[
-"Cliffview Falls",
-5
-],
-[
-"Kaeng Song waterfall",
-5
-],
-[
-"Sengupathi Falls",
-5
-],
-[
-"Upper Hopkins Cascade",
-5
-],
-[
-"Whinnimic Falls",
-5
-],
-[
-"West Iroquoia Falls",
-5
-],
-[
-"Lower Little Falls",
-5
-],
-[
-"Lewis Road East Falls",
-5
-],
-[
-"Glendale Falls",
-5
-],
-[
-"Middle Quarry Cascade",
-5
-],
-[
-"Ramona Falls",
-5
-],
-[
-"Progreston Falls",
-5
-],
-[
-"Cheonjiyeon Waterfall",
-5
-],
-[
-"Upper Twin Falls",
-5
-],
-[
-"Big Heart Falls",
-5
-],
-[
-"Puddicombe Falls",
-5
-],
-[
-"Spring Falls",
-5
-],
-[
-"Wall Falls",
-5
-],
-[
-"Rieslochfälle",
-5
-],
-[
-"Rapides du Cheval Blanc",
-5
-],
-[
-"Pandavkada Falls",
-5
-],
-[
-"Pochera Falls",
-5
-],
-[
-"Rjukandefoss",
-5
-],
-[
-"Ras al Helal",
-5
-],
-[
-"Gordale Scar",
-5
-],
-[
-"Bear Creek Falls",
-5
-],
-[
-"Promontory Falls",
-5
-],
-[
-"Dyment Falls",
-5
-],
-[
-"Mountview Falls",
-5
-],
-[
-"Foss River Falls",
-5
-],
-[
-"Little Rock Chapel Falls",
-5
-],
-[
-"Lower Fruitland Falls",
-5
-],
-[
-"Weir's Falls",
-5
-],
-[
-"Asiyab Kharabeh Waterfall",
-5
-],
-[
-"Cedar Rock Falls",
-5
-],
-[
-"Pywiack Cascade",
-5
-],
-[
-"Dillon Falls",
-5
-],
-[
-"Centennial Falls",
-5
-],
-[
-"Feature Show Falls",
-5
-],
-[
-"Helton Creek Falls",
-5
-],
-[
-"Shaver Falls",
-5
-],
-[
-"Ferguson Falls",
-5
-],
-[
-"Green Lake Falls",
-5
-],
-[
-"Madison Creek Falls",
-5
-],
-[
-"Lower Hopkins Cascade",
-5
-],
-[
-"Thoseghar Waterfalls",
-5
-],
-[
-"Rogie Falls",
-5
-],
-[
-"Saffold Dam",
-5
-],
-[
-"Shir-Abad Waterfall",
-5
-],
-[
-"Soni Falls",
-5
-],
-[
-"Tarsus Waterfall",
-5
-],
-[
-"Tchimbélé",
-5
-],
-[
-"Arctomys Falls",
-5
-],
-[
-"Tip Toe Falls",
-5
-],
-[
-"Hemlock Falls",
-5
-],
-[
-"Horsetrough Falls",
-5
-],
-[
-"Lower Snake Falls",
-5
-],
-[
-"Sisters of Mary Falls",
-5
-],
-[
-"Kurşunlu Waterfall",
-5
-],
-[
-"Leichhardt Falls",
-5
-],
-[
-"Becky Branch Falls",
-5
-],
-[
-"Rathna ella",
-5
-],
-[
-"Blaeberry Falls",
-5
-],
-[
-"Ridge Falls",
-5
-],
-[
-"Sedudo Waterfall",
-5
-],
-[
-"Namaste Falls",
-5
-],
-[
-"Nang Rong waterfall",
-5
-],
-[
-"Tew Falls",
-5
-],
-[
-"Log Hollow Falls",
-5
-],
-[
-"High Shoals Creek Falls",
-5
-],
-[
-"Lafarge Falls",
-5
-],
-[
-"Upper Stevens Creek Falls",
-5
-],
-[
-"Glover's Falls",
-5
-],
-[
-"Veever's Falls",
-5
-],
-[
-"Coon Creek Falls",
-5
-],
-[
-"West Vinemount Falls",
-5
-],
-[
-"Pissevache",
-5
-],
-[
-"Caledonia Cascade",
-5
-],
-[
-"Lower Quarry Cascade",
-5
-],
-[
-"Betzner Falls",
-5
-],
-[
-"Dewitt Falls",
-5
-],
-[
-"Springhill Falls",
-5
-],
-[
-"Wy'east Falls",
-5
-],
-[
-"Upper Comet Falls",
-5
-],
-[
-"Huldefossen",
-5
-],
-[
-"Steinerne Renne",
-5
-],
-[
-"Þórufoss",
-5
-],
-[
-"Heritage Falls",
-5
-],
-[
-"East of Fifty Falls",
-5
-],
-[
-"Betsey's Rock Falls",
-5
-],
-[
-"Kitekite Falls",
-5
-],
-[
-"Ada-Hi Falls",
-5
-],
-[
-"Pandavgad Falls",
-5
-],
-[
-"Upper Princess Falls",
-5
-],
-[
-"Billy Green Falls",
-5
-],
-[
-"Bull Cove Falls",
-5
-],
-[
-"Upper Sanatorium Falls",
-5
-],
-[
-"Fifty Road Cascade",
-5
-],
-[
-"Upper Shaver Falls",
-5
-],
-[
-"Rehala Falls",
-5
-],
-[
-"Alexander Falls",
-5
-],
-[
-"Little Davis Falls",
-5
-],
-[
-"Asbestos Creek Falls",
-5
-],
-[
-"Felkers Falls",
-5
-],
-[
-"Erland Falls",
-5
-],
-[
-"Lower Beckett Falls",
-5
-],
-[
-"West of Fifty Lower Falls",
-5
-],
-[
-"Upper Beckett Falls",
-5
-],
-[
-"Sankenbach Waterfalls",
-5
-],
-[
-"Grawa-Wasserfall",
-5
-],
-[
-"Grindstone Cascade",
-5
-],
-[
-"Hermitage Cascade",
-5
-],
-[
-"Lower Westcliffe Falls",
+"Burgbach Waterfall",
 5
 ],
 [
@@ -4128,311 +3424,19 @@
 5
 ],
 [
+"Fettjeåfallet",
+5
+],
+[
 "Chamarel Falls",
 5
 ],
 [
-"Burgbach Waterfall",
+"Fuller Waterfalls",
 5
 ],
 [
-"Feather Falls",
-5
-],
-[
-"Snake Falls",
-5
-],
-[
-"Pond Falls",
-5
-],
-[
-"Kings Creek Falls",
-5
-],
-[
-"Butedale Falls",
-5
-],
-[
-"Upper Weeks Falls",
-5
-],
-[
-"Lewis Road West Falls",
-5
-],
-[
-"Målselvfossen",
-5
-],
-[
-"Alibeksky Waterfall",
-5
-],
-[
-"Atysh waterfall",
-5
-],
-[
-"Labský vodopád",
-5
-],
-[
-"Englishman River Falls Provincial Park",
-5
-],
-[
-"Little Falls",
-5
-],
-[
-"Cherokee Falls",
-5
-],
-[
-"Middle Vinemount Falls",
-5
-],
-[
-"B.X. Falls",
-5
-],
-[
-"Mineral Springs Falls",
-5
-],
-[
-"Vinemount East Falls",
-5
-],
-[
-"Laxfoss",
-5
-],
-[
-"Thur waterfalls",
-5
-],
-[
-"Pearl Shoal Waterfall",
-5
-],
-[
-"Aripara Falls",
-5
-],
-[
-"Big Rock Falls",
-5
-],
-[
-"Bou Sra Waterfall",
-5
-],
-[
-"Bogomila Falls",
-5
-],
-[
-"Borov Kamak",
-5
-],
-[
-"Bracklinn Falls",
-5
-],
-[
-"Bride's Pool",
-5
-],
-[
-"Carrington Falls",
-5
-],
-[
-"Burney Falls",
-5
-],
-[
-"Colonial Creek Falls",
-5
-],
-[
-"Tungufoss",
-5
-],
-[
-"Casca d'Anta",
-5
-],
-[
-"Dago Waterfall",
-5
-],
-[
-"Amoskeag Falls",
-5
-],
-[
-"Salto del Penitente",
-5
-],
-[
-"All Saints Waterfalls",
-5
-],
-[
-"Gasteiner Wasserfall",
-5
-],
-[
-"Västanåfallet",
-5
-],
-[
-"Fossárfoss",
-5
-],
-[
-"Kjeragfossen",
-5
-],
-[
-"Hunderfossen",
-5
-],
-[
-"Cheonjeyeon Waterfalls",
-5
-],
-[
-"Chutes de Koudou",
-5
-],
-[
-"Svartafoss",
-5
-],
-[
-"Tiger Falls",
-5
-],
-[
-"Réttarfoss",
-5
-],
-[
-"Cascata dos Anjos",
-5
-],
-[
-"Yerköprü Waterfall",
-5
-],
-[
-"Güney Waterfall",
-5
-],
-[
-"Maningory Falls",
-5
-],
-[
-"Tegenungan Waterfall",
-5
-],
-[
-"Dugarwadi waterfall",
-5
-],
-[
-"Dalfoss",
-5
-],
-[
-"Tjaynera Falls",
-5
-],
-[
-"Abaga Falls",
-5
-],
-[
-"Cascada de Texolo",
-5
-],
-[
-"Fall Creek Falls",
-5
-],
-[
-"Factory Falls",
-5
-],
-[
-"Falls of Divach",
-5
-],
-[
-"Kerlingarfoss",
-5
-],
-[
-"Kasakh Waterfall",
-5
-],
-[
-"Kinzelyuk Waterfall",
-5
-],
-[
-"Kuperlya waterfall",
-5
-],
-[
-"Pikefossen",
-5
-],
-[
-"Su-Uchan waterfall",
-5
-],
-[
-"Hog's Back Falls",
-5
-],
-[
-"Coulonge Chutes",
-5
-],
-[
-"Tequendamita Falls",
-5
-],
-[
-"Batizovské vodopády",
-5
-],
-[
-"Bridal Veil Falls (Salazie)",
-5
-],
-[
-"Mumlava Waterfall",
-5
-],
-[
-"Tin Mine Falls",
-5
-],
-[
-"Willamette Falls",
-5
-],
-[
-"Triple Falls",
+"Pongour Waterfall",
 5
 ],
 [
@@ -4440,19 +3444,19 @@
 5
 ],
 [
-"Fettjeåfallet",
+"Strútsfoss",
 5
 ],
 [
-"Podgórna Waterfall",
+"Ajora Falls",
 5
 ],
 [
-"Elgåfossen",
+"Malanda Falls",
 5
 ],
 [
-"Pongour Waterfall",
+"Changey Falls",
 5
 ],
 [
@@ -4469,62 +3473,6 @@
 ],
 [
 "Hjellefossen",
-5
-],
-[
-"Malanda Falls",
-5
-],
-[
-"Adyanpara Falls",
-5
-],
-[
-"Llovizna Falls",
-5
-],
-[
-"Wollomombi Falls",
-5
-],
-[
-"Weeping Wall",
-5
-],
-[
-"Rochester Falls",
-5
-],
-[
-"Agasthiyar Falls",
-5
-],
-[
-"Akashiganga water falls",
-5
-],
-[
-"Hūnua Falls",
-5
-],
-[
-"Phurlijharan",
-5
-],
-[
-"Chutes de Lancrenon",
-5
-],
-[
-"Trafalgar Falls",
-5
-],
-[
-"Neela Sandh Waterfall",
-5
-],
-[
-"Petrohué Waterfalls",
 5
 ],
 [
@@ -4548,6 +3496,10 @@
 5
 ],
 [
+"Aga Falls",
+5
+],
+[
 "Sendan-todoro no Taki",
 5
 ],
@@ -4560,7 +3512,11 @@
 5
 ],
 [
-"Wildensteiner Wasserfall",
+"Ryūsō Falls",
+5
+],
+[
+"Hviezdoslavov vodopád",
 5
 ],
 [
@@ -4576,19 +3532,11 @@
 5
 ],
 [
+"Meshebashi Waterfall",
+5
+],
+[
 "Para Falls",
-5
-],
-[
-"Ryūsō Falls",
-5
-],
-[
-"Hviezdoslavov vodopád",
-5
-],
-[
-"Hønefossen",
 5
 ],
 [
@@ -4596,11 +3544,27 @@
 5
 ],
 [
+"Västanåfallet",
+5
+],
+[
 "Storsæterfossen",
 5
 ],
 [
-"Paradise River waterfalls",
+"Labský vodopád",
+5
+],
+[
+"Englishman River Falls Provincial Park",
+5
+],
+[
+"Hønefossen",
+5
+],
+[
+"Gasteiner Wasserfall",
 5
 ],
 [
@@ -4608,43 +3572,7 @@
 5
 ],
 [
-"Foss á Síðu",
-5
-],
-[
-"Lillaz waterfalls",
-5
-],
-[
-"Aga Falls",
-5
-],
-[
-"Mollisfossen",
-5
-],
-[
-"Amagoi Falls",
-5
-],
-[
-"Piscina Irgas",
-5
-],
-[
-"Shuvolong Waterfalls",
-5
-],
-[
-"Sruth in Aghaidh an Aird",
-5
-],
-[
-"Hanna-Urak Waterfall",
-5
-],
-[
-"Jarogo Waterfall",
+"Paradise River waterfalls",
 5
 ],
 [
@@ -4672,11 +3600,43 @@
 5
 ],
 [
+"Sankenbach Waterfalls",
+5
+],
+[
+"Grawa-Wasserfall",
+5
+],
+[
 "Hanumana Gundi Falls",
 5
 ],
 [
 "Penglai Waterfall",
+5
+],
+[
+"Thommankuthu",
+5
+],
+[
+"Kumbhavurutty Waterfalls",
+5
+],
+[
+"Huldefossen",
+5
+],
+[
+"Dhzurla",
+5
+],
+[
+"Golovkinskogo waterfall",
+5
+],
+[
+"Töfrafoss",
 5
 ],
 [
@@ -4700,31 +3660,179 @@
 5
 ],
 [
-"Kumbhavurutty Waterfalls",
-5
-],
-[
-"Thommankuthu",
-5
-],
-[
-"Dhzurla",
-5
-],
-[
-"Golovkinskogo waterfall",
-5
-],
-[
-"Töfrafoss",
-5
-],
-[
 "Nelson Falls",
 5
 ],
 [
+"Kitekite Falls",
+5
+],
+[
+"Nang Rong waterfall",
+5
+],
+[
+"Sedudo Waterfall",
+5
+],
+[
+"Namaste Falls",
+5
+],
+[
+"Rehala Falls",
+5
+],
+[
+"Tungufoss",
+5
+],
+[
+"Casca d'Anta",
+5
+],
+[
+"Chutes de Koudou",
+5
+],
+[
+"Dago Waterfall",
+5
+],
+[
+"Amoskeag Falls",
+5
+],
+[
+"Rochester Falls",
+5
+],
+[
+"Salto del Penitente",
+5
+],
+[
+"Þórufoss",
+5
+],
+[
+"Phurlijharan",
+5
+],
+[
+"Steinerne Renne",
+5
+],
+[
+"Chutes de Lancrenon",
+5
+],
+[
+"Trafalgar Falls",
+5
+],
+[
+"Laxfoss",
+5
+],
+[
+"Neela Sandh Waterfall",
+5
+],
+[
+"Thur waterfalls",
+5
+],
+[
+"Fossárfoss",
+5
+],
+[
+"Agasthiyar Falls",
+5
+],
+[
+"Akashiganga water falls",
+5
+],
+[
+"Hūnua Falls",
+5
+],
+[
+"Tegenungan Waterfall",
+5
+],
+[
+"Dugarwadi waterfall",
+5
+],
+[
+"Wildensteiner Wasserfall",
+5
+],
+[
+"Dalfoss",
+5
+],
+[
+"All Saints Waterfalls",
+5
+],
+[
+"Svartafoss",
+5
+],
+[
+"Réttarfoss",
+5
+],
+[
+"Cascata dos Anjos",
+5
+],
+[
+"Güney Waterfall",
+5
+],
+[
+"Maningory Falls",
+5
+],
+[
+"Tiger Falls",
+5
+],
+[
+"Yerköprü Waterfall",
+5
+],
+[
+"Coulonge Chutes",
+5
+],
+[
+"Colonial Creek Falls",
+5
+],
+[
+"Tjaynera Falls",
+5
+],
+[
 "Mokranje waterfall",
+5
+],
+[
+"Blanche Marie Vallen",
+5
+],
+[
+"Feather Falls",
+5
+],
+[
+"Pissevache",
 5
 ],
 [
@@ -4736,23 +3844,791 @@
 5
 ],
 [
-"Blanche Marie Vallen",
+"Tequendamita Falls",
 5
 ],
 [
-"Meshebashi Waterfall",
+"Batizovské vodopády",
 5
 ],
 [
-"Isollaz Waterfall",
+"Bridal Veil Falls (Salazie)",
 5
 ],
 [
-"Fuller Waterfalls",
+"Mumlava Waterfall",
 5
 ],
 [
-"Rjúkandi",
+"Weeping Wall",
+5
+],
+[
+"Adyanpara Falls",
+5
+],
+[
+"Llovizna Falls",
+5
+],
+[
+"Wollomombi Falls",
+5
+],
+[
+"Amagoi Falls",
+5
+],
+[
+"Lillaz waterfalls",
+5
+],
+[
+"Bear Creek Falls",
+5
+],
+[
+"Promontory Falls",
+5
+],
+[
+"Weir's Falls",
+5
+],
+[
+"Lower Fruitland Falls",
+5
+],
+[
+"Lewis Road East Falls",
+5
+],
+[
+"Lower Little Falls",
+5
+],
+[
+"Catawba Falls",
+5
+],
+[
+"Cliffview Falls",
+5
+],
+[
+"Asbestos Falls",
+5
+],
+[
+"Kaeng Song waterfall",
+5
+],
+[
+"Ammons Creek Falls",
+5
+],
+[
+"Sengupathi Falls",
+5
+],
+[
+"Upper Hopkins Cascade",
+5
+],
+[
+"Spring Falls",
+5
+],
+[
+"Upper Twin Falls",
+5
+],
+[
+"Wall Falls",
+5
+],
+[
+"Big Heart Falls",
+5
+],
+[
+"Mollisfossen",
+5
+],
+[
+"Puddicombe Falls",
+5
+],
+[
+"Whinnimic Falls",
+5
+],
+[
+"West Iroquoia Falls",
+5
+],
+[
+"Upper Comet Falls",
+5
+],
+[
+"Sisters of Mary Falls",
+5
+],
+[
+"Lower Snake Falls",
+5
+],
+[
+"Horsetrough Falls",
+5
+],
+[
+"Hemlock Falls",
+5
+],
+[
+"Dillon Falls",
+5
+],
+[
+"Feature Show Falls",
+5
+],
+[
+"Shaver Falls",
+5
+],
+[
+"Centennial Falls",
+5
+],
+[
+"Helton Creek Falls",
+5
+],
+[
+"Green Lake Falls",
+5
+],
+[
+"Ferguson Falls",
+5
+],
+[
+"Madison Creek Falls",
+5
+],
+[
+"Lower Hopkins Cascade",
+5
+],
+[
+"Waterfalls of the North Fork Cascade River Valley#Boston Creek Falls",
+5
+],
+[
+"Otter Falls",
+5
+],
+[
+"Scenic Falls",
+5
+],
+[
+"Bad Branch Falls",
+5
+],
+[
+"Sydenham Falls",
+5
+],
+[
+"Stephanie Falls",
+5
+],
+[
+"Kings Creek Falls",
+5
+],
+[
+"Butedale Falls",
+5
+],
+[
+"Upper Weeks Falls",
+5
+],
+[
+"Pond Falls",
+5
+],
+[
+"Snake Falls",
+5
+],
+[
+"Lewis Road West Falls",
+5
+],
+[
+"Katahdin Falls",
+5
+],
+[
+"Dyment Falls",
+5
+],
+[
+"Mountview Falls",
+5
+],
+[
+"Foss River Falls",
+5
+],
+[
+"Little Rock Chapel Falls",
+5
+],
+[
+"Glendale Falls",
+5
+],
+[
+"Ramona Falls",
+5
+],
+[
+"Middle Quarry Cascade",
+5
+],
+[
+"Progreston Falls",
+5
+],
+[
+"Little Davis Falls",
+5
+],
+[
+"Alexander Falls",
+5
+],
+[
+"Lower Quarry Cascade",
+5
+],
+[
+"Caledonia Cascade",
+5
+],
+[
+"Springhill Falls",
+5
+],
+[
+"Dewitt Falls",
+5
+],
+[
+"Betzner Falls",
+5
+],
+[
+"Wy'east Falls",
+5
+],
+[
+"Arctomys Falls",
+5
+],
+[
+"Tip Toe Falls",
+5
+],
+[
+"Fifty Road Cascade",
+5
+],
+[
+"Upper Shaver Falls",
+5
+],
+[
+"Becky Branch Falls",
+5
+],
+[
+"Rathna ella",
+5
+],
+[
+"Blaeberry Falls",
+5
+],
+[
+"Ridge Falls",
+5
+],
+[
+"Log Hollow Falls",
+5
+],
+[
+"Tew Falls",
+5
+],
+[
+"Upper Stevens Creek Falls",
+5
+],
+[
+"Lafarge Falls",
+5
+],
+[
+"High Shoals Creek Falls",
+5
+],
+[
+"Pandavgad Falls",
+5
+],
+[
+"Ada-Hi Falls",
+5
+],
+[
+"Upper Princess Falls",
+5
+],
+[
+"Bull Cove Falls",
+5
+],
+[
+"Upper Sanatorium Falls",
+5
+],
+[
+"Billy Green Falls",
+5
+],
+[
+"West of Fifty Lower Falls",
+5
+],
+[
+"Felkers Falls",
+5
+],
+[
+"Asbestos Creek Falls",
+5
+],
+[
+"Lower Beckett Falls",
+5
+],
+[
+"Erland Falls",
+5
+],
+[
+"Upper Beckett Falls",
+5
+],
+[
+"Grindstone Cascade",
+5
+],
+[
+"Hermitage Cascade",
+5
+],
+[
+"Lower Westcliffe Falls",
+5
+],
+[
+"Lava Island Falls",
+5
+],
+[
+"Memorial Falls",
+5
+],
+[
+"Walupt Creek Falls",
+5
+],
+[
+"Old Dundas Road Falls",
+5
+],
+[
+"Samuel Cascade",
+5
+],
+[
+"West of Fifty Upper Cascade",
+5
+],
+[
+"Deer Falls",
+5
+],
+[
+"McNeilly Falls",
+5
+],
+[
+"East Glover's Falls",
+5
+],
+[
+"Tallman East Falls",
+5
+],
+[
+"Quarry Falls",
+5
+],
+[
+"Swiftcurrent Falls",
+5
+],
+[
+"Whiteoak Creek Falls",
+5
+],
+[
+"Kanim Falls",
+5
+],
+[
+"Middle Twin Falls",
+5
+],
+[
+"Denny Camp Falls",
+5
+],
+[
+"Lower Sanatorium Cascade",
+5
+],
+[
+"Great Conglomerate Falls",
+5
+],
+[
+"McNeilly West Falls",
+5
+],
+[
+"Canterbury Falls",
+5
+],
+[
+"Grand Cascade",
+5
+],
+[
+"Westcliffe Falls",
+5
+],
+[
+"Greensville Falls",
+5
+],
+[
+"East Iroquoia Falls",
+5
+],
+[
+"Piney Creek Falls",
+5
+],
+[
+"Dundas Falls",
+5
+],
+[
+"Ancaster Heights Falls",
+5
+],
+[
+"East Twin Falls",
+5
+],
+[
+"Cane Creek Cascades",
+5
+],
+[
+"Depot Valley Falls",
+5
+],
+[
+"Nellie Falls",
+5
+],
+[
+"Denlow Falls",
+5
+],
+[
+"Drift Falls",
+5
+],
+[
+"Fantastic Falls",
+5
+],
+[
+"McDiarmid Falls",
+5
+],
+[
+"Tallman West Falls",
+5
+],
+[
+"Smalls Falls",
+5
+],
+[
+"Jones Road Falls",
+5
+],
+[
+"Quaking Aspen Falls",
+5
+],
+[
+"Waterfall on West Prong Hickey Fork",
+5
+],
+[
+"Buttermilk Falls",
+5
+],
+[
+"Veever's Falls",
+5
+],
+[
+"Glover's Falls",
+5
+],
+[
+"West Vinemount Falls",
+5
+],
+[
+"Coon Creek Falls",
+5
+],
+[
+"Cedar Rock Falls",
+5
+],
+[
+"Pywiack Cascade",
+5
+],
+[
+"Målselvfossen",
+5
+],
+[
+"Little Falls",
+5
+],
+[
+"Cherokee Falls",
+5
+],
+[
+"Middle Vinemount Falls",
+5
+],
+[
+"Mineral Springs Falls",
+5
+],
+[
+"B.X. Falls",
+5
+],
+[
+"Vinemount East Falls",
+5
+],
+[
+"East of Fifty Falls",
+5
+],
+[
+"Heritage Falls",
+5
+],
+[
+"Betsey's Rock Falls",
+5
+],
+[
+"Alibeksky Waterfall",
+5
+],
+[
+"Atysh waterfall",
+5
+],
+[
+"Kasakh Waterfall",
+5
+],
+[
+"Kinzelyuk Waterfall",
+5
+],
+[
+"Kuperlya waterfall",
+5
+],
+[
+"Foss á Síðu",
+5
+],
+[
+"Petrohué Waterfalls",
+5
+],
+[
+"Pikefossen",
+5
+],
+[
+"Su-Uchan waterfall",
+5
+],
+[
+"Hog's Back Falls",
+5
+],
+[
+"Kjeragfossen",
+5
+],
+[
+"Hunderfossen",
+5
+],
+[
+"Abaga Falls",
+5
+],
+[
+"Pearl Shoal Waterfall",
+5
+],
+[
+"Aripara Falls",
+5
+],
+[
+"Piscina Irgas",
+5
+],
+[
+"Sruth in Aghaidh an Aird",
+5
+],
+[
+"Big Rock Falls",
+5
+],
+[
+"Bou Sra Waterfall",
+5
+],
+[
+"Bogomila Falls",
+5
+],
+[
+"Borov Kamak",
+5
+],
+[
+"Bracklinn Falls",
+5
+],
+[
+"Cheonjeyeon Waterfalls",
+5
+],
+[
+"Bride's Pool",
+5
+],
+[
+"Burney Falls",
+5
+],
+[
+"Carrington Falls",
+5
+],
+[
+"Cascada de Texolo",
+5
+],
+[
+"Factory Falls",
+5
+],
+[
+"Fall Creek Falls",
+5
+],
+[
+"Falls of Divach",
+5
+],
+[
+"Shuvolong Waterfalls",
+5
+],
+[
+"Kerlingarfoss",
+5
+],
+[
+"Hanna-Urak Waterfall",
+5
+],
+[
+"Jarogo Waterfall",
+5
+],
+[
+"Gerit Waterfall",
+5
+],
+[
+"Pulhapanzak",
+5
+],
+[
+"Bisheh Waterfall",
+5
+],
+[
+"Samandere Waterfall",
 5
 ],
 [
@@ -4764,11 +4640,151 @@
 5
 ],
 [
-"Sita Falls",
+"Rjúkandi",
+5
+],
+[
+"Cheonjiyeon Waterfall",
+5
+],
+[
+"Kanching Falls",
+5
+],
+[
+"Steven's Falls",
 5
 ],
 [
 "Obosomase Waterfalls",
+5
+],
+[
+"Lakkam Waterfalls",
+5
+],
+[
+"Gordale Scar",
+5
+],
+[
+"Wah Kaba Falls",
+5
+],
+[
+"Asiyab Kharabeh Waterfall",
+5
+],
+[
+"Mallalli Falls",
+5
+],
+[
+"Mallela Theertham",
+5
+],
+[
+"Marmala waterfall",
+5
+],
+[
+"Isollaz Waterfall",
+5
+],
+[
+"Skakavitsa Waterfall",
+5
+],
+[
+"Nyambwezi Falls",
+5
+],
+[
+"Owharoa Falls",
+5
+],
+[
+"Pandavkada Falls",
+5
+],
+[
+"Pochera Falls",
+5
+],
+[
+"Rapides du Cheval Blanc",
+5
+],
+[
+"Ras al Helal",
+5
+],
+[
+"Rjukandefoss",
+5
+],
+[
+"Rogie Falls",
+5
+],
+[
+"Saffold Dam",
+5
+],
+[
+"Shir-Abad Waterfall",
+5
+],
+[
+"Soni Falls",
+5
+],
+[
+"Tarsus Waterfall",
+5
+],
+[
+"Tchimbélé",
+5
+],
+[
+"Thoseghar Waterfalls",
+5
+],
+[
+"Tin Mine Falls",
+5
+],
+[
+"Triple Falls",
+5
+],
+[
+"Willamette Falls",
+5
+],
+[
+"Rieslochfälle",
+5
+],
+[
+"Sita Falls",
+5
+],
+[
+"Podgórna Waterfall",
+5
+],
+[
+"Elgåfossen",
+5
+],
+[
+"Leichhardt Falls",
+5
+],
+[
+"Kurşunlu Waterfall",
 5
 ],
 [
@@ -4777,22 +4793,6 @@
 ],
 [
 "Polzen Waterfalls",
-5
-],
-[
-"Wah Kaba Falls",
-5
-],
-[
-"Ajora Falls",
-5
-],
-[
-"Strútsfoss",
-5
-],
-[
-"Changey Falls",
 5
 ]
 ]

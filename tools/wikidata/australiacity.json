@@ -88,11 +88,11 @@
 52
 ],
 [
-"Mackay",
+"Fremantle",
 51
 ],
 [
-"Fremantle",
+"Mackay",
 51
 ],
 [
@@ -184,11 +184,11 @@
 41
 ],
 [
-"Wodonga",
+"Tamworth",
 40
 ],
 [
-"Tamworth",
+"Wodonga",
 40
 ],
 [
@@ -196,19 +196,23 @@
 39
 ],
 [
-"Murray Bridge",
-39
-],
-[
 "Wangaratta",
 39
 ],
 [
-"Burnie",
-38
+"Murray Bridge",
+39
 ],
 [
 "Maryborough",
+38
+],
+[
+"Grafton",
+38
+],
+[
+"Burnie",
 38
 ],
 [
@@ -220,16 +224,16 @@
 38
 ],
 [
-"Grafton",
-38
-],
-[
 "Lismore",
 37
 ],
 [
 "Cessnock",
 37
+],
+[
+"Griffith",
+35
 ],
 [
 "Traralgon",
@@ -240,11 +244,7 @@
 35
 ],
 [
-"Griffith",
-35
-],
-[
-"Hervey Bay",
+"Sale",
 33
 ],
 [
@@ -252,12 +252,8 @@
 33
 ],
 [
-"Sale",
+"Hervey Bay",
 33
-],
-[
-"Palmerston",
-32
 ],
 [
 "Ipswich",
@@ -265,6 +261,10 @@
 ],
 [
 "Portland",
+32
+],
+[
+"Palmerston",
 32
 ],
 [

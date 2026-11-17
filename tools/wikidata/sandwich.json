@@ -68,11 +68,11 @@
 19
 ],
 [
-"Fischbrötchen",
+"Cuban sandwich",
 17
 ],
 [
-"Cuban sandwich",
+"Fischbrötchen",
 17
 ],
 [
@@ -82,6 +82,10 @@
 [
 "calamari sandwich",
 16
+],
+[
+"gua-bao",
+15
 ],
 [
 "Barros Luco",
@@ -100,23 +104,11 @@
 15
 ],
 [
-"gua-bao",
-15
-],
-[
 "rice burger",
 15
 ],
 [
-"cucumber sandwich",
-14
-],
-[
 "balık ekmek",
-14
-],
-[
-"Bosna",
 14
 ],
 [
@@ -128,11 +120,15 @@
 14
 ],
 [
-"Gatsby",
-13
+"Bosna",
+14
 ],
 [
-"egg sandwich",
+"cucumber sandwich",
+14
+],
+[
+"Gatsby",
 13
 ],
 [
@@ -141,6 +137,10 @@
 ],
 [
 "lobster roll",
+13
+],
+[
+"egg sandwich",
 13
 ],
 [
@@ -156,11 +156,11 @@
 12
 ],
 [
-"Tramezzino",
+"chicken sandwich",
 11
 ],
 [
-"chicken sandwich",
+"Tramezzino",
 11
 ],
 [
@@ -184,10 +184,6 @@
 10
 ],
 [
-"breakfast roll",
-10
-],
-[
 "chip butty",
 10
 ],
@@ -196,19 +192,23 @@
 10
 ],
 [
-"bifana",
+"breakfast roll",
 10
 ],
 [
-"French dip sandwich",
-9
+"bifana",
+10
 ],
 [
 "tomato sandwich",
 9
 ],
 [
-"Strammer Max",
+"French dip sandwich",
+9
+],
+[
+"katsu sandwich",
 9
 ],
 [
@@ -220,11 +220,7 @@
 9
 ],
 [
-"katsu sandwich",
-9
-],
-[
-"horseshoe sandwich",
+"Strammer Max",
 9
 ],
 [
@@ -236,19 +232,15 @@
 9
 ],
 [
+"horseshoe sandwich",
+9
+],
+[
 "Pepito",
 9
 ],
 [
-"Montreal-style smoked meat",
-8
-],
-[
-"Sol over Gudhjem",
-8
-],
-[
-"Bombay sandwich",
+"chicken fillet roll",
 8
 ],
 [
@@ -256,11 +248,15 @@
 8
 ],
 [
-"chicken fillet roll",
+"Bombay sandwich",
 8
 ],
 [
-"Porilainen",
+"Sol over Gudhjem",
+8
+],
+[
+"Denver sandwich",
 8
 ],
 [
@@ -268,11 +264,11 @@
 8
 ],
 [
-"doubles",
+"Montreal-style smoked meat",
 8
 ],
 [
-"Denver sandwich",
+"doubles",
 8
 ],
 [
@@ -288,23 +284,23 @@
 8
 ],
 [
-"Guajolota",
-7
-],
-[
-"Shooter's sandwich",
-7
+"Porilainen",
+8
 ],
 [
 "Cemita",
 7
 ],
 [
-"pork chop bun",
+"roti",
 7
 ],
 [
 "spaghetti sandwich",
+7
+],
+[
+"Shooter's sandwich",
 7
 ],
 [
@@ -316,7 +312,7 @@
 7
 ],
 [
-"roti",
+"Guajolota",
 7
 ],
 [
@@ -332,40 +328,8 @@
 7
 ],
 [
-"Ayvalık tostu",
-6
-],
-[
-"barbecue sandwich",
-6
-],
-[
-"McArabia",
-6
-],
-[
-"New Jersey sloppy joe",
-6
-],
-[
-"Kottenbutter",
-6
-],
-[
-"Spatlo",
-6
-],
-[
-"Cheese and pickle sandwich",
-6
-],
-[
-"sandwich loaf",
-6
-],
-[
-"vegetable sandwich",
-6
+"pork chop bun",
+7
 ],
 [
 "Bake and Shark",
@@ -376,39 +340,47 @@
 6
 ],
 [
+"New Jersey sloppy joe",
+6
+],
+[
+"Spatlo",
+6
+],
+[
+"sandwich loaf",
+6
+],
+[
+"barbecue sandwich",
+6
+],
+[
+"Cheese and pickle sandwich",
+6
+],
+[
+"McArabia",
+6
+],
+[
 "Thanksgiving sandwich",
 6
 ],
 [
+"vegetable sandwich",
+6
+],
+[
+"Ayvalık tostu",
+6
+],
+[
+"Kottenbutter",
+6
+],
+[
 "fruit sandwich",
-5
-],
-[
-"Khao Jee Pâté",
-5
-],
-[
-"butifarra",
-5
-],
-[
-"Trancapecho",
-5
-],
-[
-"Wurstbrot",
-5
-],
-[
-"chow mein sandwich",
-5
-],
-[
-"Bokit",
-5
-],
-[
-"Barros Jarpa",
 5
 ],
 [
@@ -420,11 +392,31 @@
 5
 ],
 [
-"Sincronizada",
+"Wurstbrot",
+5
+],
+[
+"Trancapecho",
+5
+],
+[
+"Bokit",
+5
+],
+[
+"chow mein sandwich",
 5
 ],
 [
 "Sándwich de milanesa",
+5
+],
+[
+"butifarra",
+5
+],
+[
+"Barros Jarpa",
 5
 ],
 [
@@ -436,19 +428,15 @@
 5
 ],
 [
+"Khao Jee Pâté",
+5
+],
+[
+"Sincronizada",
+5
+],
+[
 "patso",
-4
-],
-[
-"lettuce sandwich",
-4
-],
-[
-"doughnut sandwich",
-4
-],
-[
-"Goralı",
 4
 ],
 [
@@ -464,6 +452,10 @@
 4
 ],
 [
+"Goralı",
+4
+],
+[
 "pebete",
 4
 ],
@@ -472,11 +464,15 @@
 4
 ],
 [
-"x caboquinho",
-3
+"doughnut sandwich",
+4
 ],
 [
-"Chola sandwich",
+"lettuce sandwich",
+4
+],
+[
+"prego",
 3
 ],
 [
@@ -484,7 +480,7 @@
 3
 ],
 [
-"Broodje gezond",
+"toasted sandwich",
 3
 ],
 [
@@ -500,11 +496,11 @@
 3
 ],
 [
-"prego",
+"x caboquinho",
 3
 ],
 [
-"toasted sandwich",
+"Broodje gezond",
 3
 ],
 [
@@ -512,11 +508,19 @@
 3
 ],
 [
-"steak sandwich",
+"Chola sandwich",
+3
+],
+[
+"Gracoro",
 2
 ],
 [
-"Tamago Sando",
+"Xis",
+2
+],
+[
+"Lunch Pack",
 2
 ],
 [
@@ -528,27 +532,11 @@
 2
 ],
 [
-"Gracoro",
+"steak sandwich",
 2
 ],
 [
-"Xis",
-2
-],
-[
-"chopped cheese",
-2
-],
-[
-"peanut butter sandwich",
-2
-],
-[
-"Fries-omelet sandwich",
-2
-],
-[
-"crab cake sandwich",
+"Tamago Sando",
 2
 ],
 [
@@ -556,7 +544,7 @@
 2
 ],
 [
-"Lunch Pack",
+"sandwich américain",
 2
 ],
 [
@@ -568,11 +556,19 @@
 2
 ],
 [
+"Fries-omelet sandwich",
+2
+],
+[
+"chopped cheese",
+2
+],
+[
 "chocolate sandwich",
 2
 ],
 [
-"sandwich américain",
+"crab cake sandwich",
 2
 ],
 [
@@ -581,6 +577,10 @@
 ],
 [
 "Redonkadonk",
+2
+],
+[
+"peanut butter sandwich",
 2
 ]
 ]

@@ -4,11 +4,11 @@
 52
 ],
 [
-"lager",
+"pilsner",
 48
 ],
 [
-"pilsner",
+"lager",
 48
 ],
 [
@@ -72,20 +72,24 @@
 23
 ],
 [
+"schwarzbier",
+21
+],
+[
 "bitter",
 21
 ],
 [
-"schwarzbier",
-21
+"Märzen",
+20
 ],
 [
 "helles",
 20
 ],
 [
-"Märzen",
-20
+"Dunkel",
+19
 ],
 [
 "Gose",
@@ -93,10 +97,6 @@
 ],
 [
 "barley wine",
-19
-],
-[
-"Dunkel",
 19
 ],
 [
@@ -108,6 +108,14 @@
 17
 ],
 [
+"saison",
+16
+],
+[
+"Grodziskie",
+16
+],
+[
 "gruit",
 16
 ],
@@ -117,14 +125,6 @@
 ],
 [
 "Umqombothi",
-16
-],
-[
-"Grodziskie",
-16
-],
-[
-"saison",
 16
 ],
 [
@@ -140,7 +140,7 @@
 15
 ],
 [
-"tripel",
+"bière de garde",
 13
 ],
 [
@@ -152,23 +152,31 @@
 13
 ],
 [
-"bière de garde",
+"tripel",
 13
-],
-[
-"Zoigl",
-12
 ],
 [
 "Steinbier",
 12
 ],
 [
-"Desperados",
+"Zoigl",
+12
+],
+[
+"abbey beer",
+11
+],
+[
+"malt liquor",
 11
 ],
 [
 "ice beer",
+11
+],
+[
+"Desperados",
 11
 ],
 [
@@ -180,15 +188,7 @@
 11
 ],
 [
-"malt liquor",
-11
-],
-[
 "Brunswick Mum",
-11
-],
-[
-"abbey beer",
 11
 ],
 [
@@ -196,7 +196,7 @@
 10
 ],
 [
-"corn beer",
+"happoshu",
 9
 ],
 [
@@ -204,19 +204,19 @@
 9
 ],
 [
-"happoshu",
+"corn beer",
 9
-],
-[
-"pumpkin ale",
-8
 ],
 [
 "American pale ale",
 8
 ],
 [
-"svagdricka",
+"pumpkin ale",
+8
+],
+[
+"Vienna Lager",
 8
 ],
 [
@@ -224,7 +224,7 @@
 8
 ],
 [
-"Vienna Lager",
+"svagdricka",
 8
 ],
 [
@@ -248,24 +248,16 @@
 6
 ],
 [
+"Jopenbier",
+5
+],
+[
 "maibock",
 5
 ],
 [
 "cream ale",
 5
-],
-[
-"Jopenbier",
-5
-],
-[
-"witbier",
-4
-],
-[
-"eisbock",
-4
 ],
 [
 "doppelbock",
@@ -280,6 +272,14 @@
 4
 ],
 [
+"witbier",
+4
+],
+[
+"eisbock",
+4
+],
+[
 "Kveik",
 4
 ],
@@ -288,7 +288,7 @@
 3
 ],
 [
-"Strong ale",
+"red beer",
 3
 ],
 [
@@ -296,11 +296,7 @@
 3
 ],
 [
-"Karmi beer",
-3
-],
-[
-"dark beer",
+"Keut",
 3
 ],
 [
@@ -308,11 +304,15 @@
 3
 ],
 [
+"dark beer",
+3
+],
+[
 "black beer",
 3
 ],
 [
-"red beer",
+"Strong ale",
 3
 ],
 [
@@ -320,12 +320,36 @@
 3
 ],
 [
+"Karmi beer",
+3
+],
+[
 "Cock ale",
 3
 ],
 [
-"Keut",
-3
+"dry beer",
+2
+],
+[
+"Ukrainian golden ale",
+2
+],
+[
+"Dolo",
+2
+],
+[
+"Russian Imperial Stout",
+2
+],
+[
+"schankbier",
+2
+],
+[
+"hemp beer",
+2
 ],
 [
 "copper ale",
@@ -333,6 +357,10 @@
 ],
 [
 "amber ale",
+2
+],
+[
+"whey beer",
 2
 ],
 [
@@ -344,7 +372,7 @@
 2
 ],
 [
-"schankbier",
+"flavoured beer",
 2
 ],
 [
@@ -356,39 +384,11 @@
 2
 ],
 [
-"flavoured beer",
-2
-],
-[
 "spéciale belge",
 2
 ],
 [
-"whey beer",
-2
-],
-[
-"hemp beer",
-2
-],
-[
-"dry beer",
-2
-],
-[
-"Ukrainian golden ale",
-2
-],
-[
 "Siwa",
-2
-],
-[
-"Russian Imperial Stout",
-2
-],
-[
-"Dolo",
 2
 ]
 ]

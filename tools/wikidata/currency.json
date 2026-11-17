@@ -44,10 +44,6 @@
 95
 ],
 [
-"hryvnia",
-92
-],
-[
 "Turkish lira",
 92
 ],
@@ -56,11 +52,15 @@
 92
 ],
 [
-"new shekel",
-83
+"hryvnia",
+92
 ],
 [
 "Canadian dollar",
+83
+],
+[
+"złoty",
 83
 ],
 [
@@ -68,7 +68,7 @@
 83
 ],
 [
-"złoty",
+"new shekel",
 83
 ],
 [
@@ -84,19 +84,19 @@
 82
 ],
 [
-"rupiah",
-79
-],
-[
 "Albanian lek",
 79
 ],
 [
-"ruble",
+"rupiah",
+79
+],
+[
+"Norwegian krone",
 78
 ],
 [
-"Belarusian ruble",
+"ruble",
 78
 ],
 [
@@ -104,39 +104,39 @@
 78
 ],
 [
-"Norwegian krone",
+"Belarusian ruble",
 78
-],
-[
-"baht",
-77
 ],
 [
 "Kazakhstani tenge",
 77
 ],
 [
-"afghani",
-76
+"baht",
+77
 ],
 [
 "New Zealand dollar",
 76
 ],
 [
-"Georgian lari",
-75
+"afghani",
+76
 ],
 [
 "Iranian rial",
 75
 ],
 [
-"Brazilian real",
-74
+"Georgian lari",
+75
 ],
 [
 "Romanian leu",
+74
+],
+[
+"Brazilian real",
 74
 ],
 [
@@ -144,11 +144,11 @@
 74
 ],
 [
-"ngultrum",
+"Icelandic króna",
 73
 ],
 [
-"Icelandic króna",
+"Pakistani rupee",
 73
 ],
 [
@@ -156,7 +156,7 @@
 73
 ],
 [
-"Pakistani rupee",
+"ngultrum",
 73
 ],
 [
@@ -168,10 +168,6 @@
 72
 ],
 [
-"Bangladeshi taka",
-71
-],
-[
 "Czech koruna",
 71
 ],
@@ -180,7 +176,11 @@
 71
 ],
 [
-"Saudi riyal",
+"Bangladeshi taka",
+71
+],
+[
+"dinar",
 70
 ],
 [
@@ -188,16 +188,12 @@
 70
 ],
 [
+"Saudi riyal",
+70
+],
+[
 "kwanza",
 70
-],
-[
-"dinar",
-70
-],
-[
-"peso",
-69
 ],
 [
 "North Korean won",
@@ -205,6 +201,10 @@
 ],
 [
 "Macedonian denar",
+69
+],
+[
+"peso",
 69
 ],
 [
@@ -216,11 +216,11 @@
 67
 ],
 [
-"Hong Kong dollar",
+"Eastern Caribbean dollar",
 67
 ],
 [
-"Eastern Caribbean dollar",
+"Hong Kong dollar",
 67
 ],
 [
@@ -228,20 +228,12 @@
 66
 ],
 [
-"United Arab Emirates dirham",
-65
-],
-[
 "Mongolian tögrög",
 65
 ],
 [
-"Dirham",
-64
-],
-[
-"Algerian dinar",
-64
+"United Arab Emirates dirham",
+65
 ],
 [
 "Malaysian ringgit",
@@ -252,6 +244,22 @@
 64
 ],
 [
+"Algerian dinar",
+64
+],
+[
+"Dirham",
+64
+],
+[
+"Philippine peso",
+63
+],
+[
+"Iraqi dinar",
+63
+],
+[
 "Lao kip",
 63
 ],
@@ -260,20 +268,8 @@
 63
 ],
 [
-"Philippine peso",
-63
-],
-[
 "Kyrgyz som",
 63
-],
-[
-"Iraqi dinar",
-63
-],
-[
-"Uzbek som",
-62
 ],
 [
 "Moldovan leu",
@@ -281,6 +277,10 @@
 ],
 [
 "CFA franc",
+62
+],
+[
+"Uzbek som",
 62
 ],
 [
@@ -292,23 +292,15 @@
 61
 ],
 [
-"Jordanian dinar",
-61
-],
-[
 "Vietnamese đồng",
 61
 ],
 [
-"Turkmenistan new manat",
-60
+"Jordanian dinar",
+61
 ],
 [
-"Sri Lankan rupee",
-60
-],
-[
-"bir",
+"Botswana pula",
 60
 ],
 [
@@ -316,7 +308,15 @@
 60
 ],
 [
-"Botswana pula",
+"bir",
+60
+],
+[
+"Sri Lankan rupee",
+60
+],
+[
+"Turkmenistan new manat",
 60
 ],
 [
@@ -328,7 +328,7 @@
 59
 ],
 [
-"Kenyan shilling",
+"Faroese króna",
 57
 ],
 [
@@ -336,16 +336,12 @@
 57
 ],
 [
-"Faroese króna",
+"Kenyan shilling",
 57
 ],
 [
 "Syrian pound",
 57
-],
-[
-"Ugandan shilling",
-56
 ],
 [
 "Cuban peso",
@@ -364,19 +360,19 @@
 56
 ],
 [
-"lilangeni",
-55
+"Ugandan shilling",
+56
 ],
 [
 "Bahraini dinar",
 55
 ],
 [
-"Maldivian rufiyaa",
+"Nuevo sol",
 55
 ],
 [
-"Nuevo sol",
+"Maldivian rufiyaa",
 55
 ],
 [
@@ -388,11 +384,15 @@
 55
 ],
 [
-"Tanzanian shilling",
+"lilangeni",
+55
+],
+[
+"thaler",
 54
 ],
 [
-"Gibraltar pound",
+"Bahamian dollar",
 54
 ],
 [
@@ -404,10 +404,6 @@
 54
 ],
 [
-"thaler",
-54
-],
-[
 "riel",
 54
 ],
@@ -416,19 +412,19 @@
 54
 ],
 [
-"Bahamian dollar",
+"Gibraltar pound",
 54
 ],
 [
+"Tanzanian shilling",
+54
+],
+[
+"Libyan dinar",
+53
+],
+[
 "Barbadian dollar",
-53
-],
-[
-"Honduran lempira",
-53
-],
-[
-"Seychellois rupee",
 53
 ],
 [
@@ -444,15 +440,7 @@
 53
 ],
 [
-"Zambian Kwacha",
-53
-],
-[
-"Libyan dinar",
-53
-],
-[
-"Malawian kwacha",
+"gourde",
 53
 ],
 [
@@ -464,27 +452,27 @@
 53
 ],
 [
+"Malawian kwacha",
+53
+],
+[
 "Burundian franc",
 53
 ],
 [
-"gourde",
+"Seychellois rupee",
 53
 ],
 [
-"ariary",
-52
+"Honduran lempira",
+53
 ],
 [
-"Rwandan franc",
-52
+"Zambian Kwacha",
+53
 ],
 [
-"Djiboutian franc",
-52
-],
-[
-"Fijian dollar",
+"denarius",
 52
 ],
 [
@@ -492,11 +480,11 @@
 52
 ],
 [
-"Panamanian balboa",
+"quetzal",
 52
 ],
 [
-"quetzal",
+"Panamanian balboa",
 52
 ],
 [
@@ -504,7 +492,7 @@
 52
 ],
 [
-"denarius",
+"Guinean franc",
 52
 ],
 [
@@ -516,23 +504,27 @@
 52
 ],
 [
-"Guinean franc",
+"ariary",
 52
 ],
 [
-"leone",
-51
+"Fijian dollar",
+52
 ],
 [
-"Cape Verdean escudo",
+"Djiboutian franc",
+52
+],
+[
+"Rwandan franc",
+52
+],
+[
+"nakfa",
 51
 ],
 [
 "boliviano",
-51
-],
-[
-"nakfa",
 51
 ],
 [
@@ -548,11 +540,43 @@
 51
 ],
 [
-"Tongan paʻanga",
+"leone",
+51
+],
+[
+"Cape Verdean escudo",
+51
+],
+[
+"São Tomé and Príncipe dobra",
+50
+],
+[
+"Vanuatu vatus",
+50
+],
+[
+"Uruguayan peso",
+50
+],
+[
+"Guyanese dollar",
+50
+],
+[
+"CFP Franc",
+50
+],
+[
+"Sudanese pound",
 50
 ],
 [
 "Tunisian dinar",
+50
+],
+[
+"Tongan paʻanga",
 50
 ],
 [
@@ -564,39 +588,7 @@
 50
 ],
 [
-"Uruguayan peso",
-50
-],
-[
-"Vanuatu vatus",
-50
-],
-[
-"Guyanese dollar",
-50
-],
-[
-"Sudanese pound",
-50
-],
-[
-"São Tomé and Príncipe dobra",
-50
-],
-[
-"CFP Franc",
-50
-],
-[
-"Samoan tālā",
-49
-],
-[
 "Bermudian dollar",
-49
-],
-[
-"Aruban florin",
 49
 ],
 [
@@ -604,7 +596,7 @@
 49
 ],
 [
-"Akçe",
+"Aruban florin",
 49
 ],
 [
@@ -612,11 +604,15 @@
 49
 ],
 [
-"Central African CFA franc",
-48
+"Akçe",
+49
 ],
 [
-"Somali shilling",
+"Samoan tālā",
+49
+],
+[
+"Trinidad and Tobago dollar",
 48
 ],
 [
@@ -624,7 +620,11 @@
 48
 ],
 [
-"Trinidad and Tobago dollar",
+"Somali shilling",
+48
+],
+[
+"Central African CFA franc",
 48
 ],
 [
@@ -632,19 +632,19 @@
 47
 ],
 [
-"Dominican peso",
-46
-],
-[
 "Macanese pataca",
 46
 ],
 [
-"Solomon Islands dollar",
-45
+"Dominican peso",
+46
 ],
 [
 "Hungarian pengő",
+45
+],
+[
+"Solomon Islands dollar",
 45
 ],
 [
@@ -656,6 +656,10 @@
 43
 ],
 [
+"groschen",
+42
+],
+[
 "aureus",
 42
 ],
@@ -664,8 +668,8 @@
 42
 ],
 [
-"groschen",
-42
+"Guernsey pound",
+41
 ],
 [
 "Falkland Islands pound",
@@ -673,10 +677,6 @@
 ],
 [
 "as",
-41
-],
-[
-"Guernsey pound",
 41
 ],
 [
@@ -696,19 +696,19 @@
 38
 ],
 [
-"guinea",
-37
-],
-[
 "Saint Helena pound",
 37
 ],
 [
-"Tuvaluan dollar",
-36
+"guinea",
+37
 ],
 [
 "kopeck",
+36
+],
+[
+"Tuvaluan dollar",
 36
 ],
 [
@@ -716,7 +716,7 @@
 36
 ],
 [
-"Cook Islands dollar",
+"Vatican lira",
 35
 ],
 [
@@ -724,7 +724,7 @@
 35
 ],
 [
-"Vatican lira",
+"Cook Islands dollar",
 35
 ],
 [
@@ -734,14 +734,6 @@
 [
 "rai stone",
 33
-],
-[
-"German mark",
-32
-],
-[
-"Salvadoran colón",
-32
 ],
 [
 "Kiribati dollar",
@@ -760,15 +752,23 @@
 32
 ],
 [
+"German mark",
+32
+],
+[
+"Salvadoran colón",
+32
+],
+[
 "East Timor centavo coins",
 31
 ],
 [
-"Spanish dollar",
+"Sammarinese lira",
 30
 ],
 [
-"Sammarinese lira",
+"Spanish dollar",
 30
 ],
 [
@@ -788,11 +788,11 @@
 28
 ],
 [
-"Ecuadorian sucre",
+"Monegasque franc",
 27
 ],
 [
-"Monegasque franc",
+"Ecuadorian sucre",
 27
 ],
 [
@@ -800,15 +800,15 @@
 26
 ],
 [
+"gold dinar",
+25
+],
+[
 "Armenian rouble",
 25
 ],
 [
 "Manchukuo yuan",
-25
-],
-[
-"gold dinar",
 25
 ],
 [
@@ -820,24 +820,16 @@
 24
 ],
 [
+"Zimbabwe ZiG",
+24
+],
+[
 "Iranian toman",
 24
 ],
 [
 "sultani",
 24
-],
-[
-"Zimbabwe ZiG",
-24
-],
-[
-"argenteus",
-23
-],
-[
-"Bohemian and Moravian koruna",
-23
 ],
 [
 "semis",
@@ -848,15 +840,19 @@
 23
 ],
 [
-"Yugoslav krone",
-22
+"argenteus",
+23
+],
+[
+"Bohemian and Moravian koruna",
+23
 ],
 [
 "Tremissis",
 22
 ],
 [
-"Korean won",
+"Yugoslav krone",
 22
 ],
 [
@@ -864,11 +860,27 @@
 22
 ],
 [
+"Korean won",
+22
+],
+[
+"French Indochinese piastre",
+21
+],
+[
 "spesmilo",
 21
 ],
 [
 "East African shilling",
+21
+],
+[
+"African Monetary Union",
+21
+],
+[
+"Palestine pound",
 21
 ],
 [
@@ -880,31 +892,7 @@
 21
 ],
 [
-"Palestine pound",
-21
-],
-[
-"French Indochinese piastre",
-21
-],
-[
-"African Monetary Union",
-21
-],
-[
 "Spanish escudo",
-20
-],
-[
-"Ecuadorian centavo coins",
-20
-],
-[
-"Ottoman lira",
-20
-],
-[
-"Eco",
 20
 ],
 [
@@ -912,19 +900,19 @@
 20
 ],
 [
+"Ottoman lira",
+20
+],
+[
+"Ecuadorian centavo coins",
+20
+],
+[
+"Eco",
+20
+],
+[
 "Chechen naxar",
-19
-],
-[
-"Conventionsthaler",
-19
-],
-[
-"Kraków złoty",
-19
-],
-[
-"Moldovan cupon",
 19
 ],
 [
@@ -936,11 +924,19 @@
 19
 ],
 [
-"German East African rupie",
-18
+"Moldovan cupon",
+19
 ],
 [
-"Confederate States dollar",
+"Kraków złoty",
+19
+],
+[
+"Conventionsthaler",
+19
+],
+[
+"Tuvan akşa",
 18
 ],
 [
@@ -948,7 +944,11 @@
 18
 ],
 [
-"Korean yen",
+"Straits dollar",
+18
+],
+[
+"German East African rupie",
 18
 ],
 [
@@ -956,31 +956,31 @@
 18
 ],
 [
+"Confederate States dollar",
+18
+],
+[
 "Biafran pound",
 18
 ],
 [
-"Tuvan akşa",
+"Korean yen",
 18
-],
-[
-"Straits dollar",
-18
-],
-[
-"Swedish riksdaler",
-17
 ],
 [
 "Sycee",
 17
 ],
 [
-"Newfoundland dollar",
+"Polish marka",
 17
 ],
 [
-"Polish marka",
+"Swedish riksdaler",
+17
+],
+[
+"Newfoundland dollar",
 17
 ],
 [
@@ -996,19 +996,15 @@
 16
 ],
 [
-"Hawaiian dollar",
-16
-],
-[
-"Algerian franc",
-16
-],
-[
-"Taiwanese yen",
-16
-],
-[
 "Greek phoenix",
+16
+],
+[
+"Portuguese real",
+16
+],
+[
+"Hawaiian dollar",
 16
 ],
 [
@@ -1016,15 +1012,7 @@
 16
 ],
 [
-"Chilean escudo",
-16
-],
-[
-"Old Taiwan dollar",
-16
-],
-[
-"Portuguese real",
+"Algerian franc",
 16
 ],
 [
@@ -1040,7 +1028,7 @@
 16
 ],
 [
-"cistophorus",
+"Chilean escudo",
 16
 ],
 [
@@ -1048,15 +1036,19 @@
 16
 ],
 [
-"Zanzibari rupee",
-15
+"Taiwanese yen",
+16
 ],
 [
-"liard",
-15
+"Old Taiwan dollar",
+16
 ],
 [
-"livre tournois",
+"cistophorus",
+16
+],
+[
+"Liechtenstein frank",
 15
 ],
 [
@@ -1064,7 +1056,11 @@
 15
 ],
 [
-"Liechtenstein frank",
+"Zanzibari rupee",
+15
+],
+[
+"livre tournois",
 15
 ],
 [
@@ -1072,19 +1068,11 @@
 15
 ],
 [
-"Austrian krone",
-14
+"liard",
+15
 ],
 [
-"Malawian pound",
-14
-],
-[
-"denga",
-14
-],
-[
-"Saar franc",
+"Transcaucasian ruble",
 14
 ],
 [
@@ -1092,11 +1080,15 @@
 14
 ],
 [
-"Japanese military yen",
+"silver as an investment",
 14
 ],
 [
-"silver as an investment",
+"Austrian krone",
+14
+],
+[
+"South Vietnamese đồng",
 14
 ],
 [
@@ -1104,11 +1096,7 @@
 14
 ],
 [
-"Transcaucasian ruble",
-14
-],
-[
-"Hungarian korona",
+"Malawian pound",
 14
 ],
 [
@@ -1120,27 +1108,39 @@
 14
 ],
 [
-"South Vietnamese đồng",
+"denga",
 14
 ],
 [
-"Kronenthaler",
+"Saar franc",
+14
+],
+[
+"Japanese military yen",
+14
+],
+[
+"Hungarian korona",
+14
+],
+[
+"soldo",
 13
 ],
 [
-"Krajina dinar",
+"New Turkish lira",
 13
 ],
 [
-"Biatec",
+"Reichsthaler",
+13
+],
+[
+"German ostmark",
 13
 ],
 [
 "skilling",
-13
-],
-[
-"South Korean hwan",
 13
 ],
 [
@@ -1152,15 +1152,11 @@
 13
 ],
 [
-"soldo",
+"Biatec",
 13
 ],
 [
-"Prussian thaler",
-13
-],
-[
-"Greenlandic krone",
+"Krajina dinar",
 13
 ],
 [
@@ -1168,11 +1164,7 @@
 13
 ],
 [
-"New Turkish lira",
-13
-],
-[
-"German ostmark",
+"Greenlandic krone",
 13
 ],
 [
@@ -1180,12 +1172,24 @@
 13
 ],
 [
+"Kronenthaler",
+13
+],
+[
+"South Korean hwan",
+13
+],
+[
+"Prussian thaler",
+13
+],
+[
 "East African rupee",
 13
 ],
 [
-"Reichsthaler",
-13
+"knife money",
+12
 ],
 [
 "Hyderabadi rupee",
@@ -1204,55 +1208,7 @@
 12
 ],
 [
-"Saar mark",
-12
-],
-[
-"French West African franc",
-12
-],
-[
-"Netherlands Indies guilder",
-12
-],
-[
-"sextans",
-12
-],
-[
 "Roman scudo",
-12
-],
-[
-"Sarawak dollar",
-12
-],
-[
-"bes",
-12
-],
-[
-"Burmese rupee",
-12
-],
-[
-"Malayan dollar",
-12
-],
-[
-"Hungarian adópengő",
-12
-],
-[
-"Italian Somaliland somalo",
-12
-],
-[
-"German ostruble",
-12
-],
-[
-"Italian Somaliland rupia",
 12
 ],
 [
@@ -1264,19 +1220,27 @@
 12
 ],
 [
-"franga",
+"German ostruble",
 12
 ],
 [
-"knife money",
+"Italian Somaliland rupia",
 12
 ],
 [
-"North Vietnamese đồng",
+"Italian Somaliland somalo",
 12
 ],
 [
-"Stavraton",
+"Burmese rupee",
+12
+],
+[
+"Malayan dollar",
+12
+],
+[
+"Sarawak dollar",
 12
 ],
 [
@@ -1284,11 +1248,43 @@
 12
 ],
 [
-"Rhodesia and Nyasaland pound",
-11
+"French West African franc",
+12
 ],
 [
-"Eritrean tallero",
+"franga",
+12
+],
+[
+"Saar mark",
+12
+],
+[
+"sextans",
+12
+],
+[
+"North Vietnamese đồng",
+12
+],
+[
+"Hungarian adópengő",
+12
+],
+[
+"Stavraton",
+12
+],
+[
+"bes",
+12
+],
+[
+"Netherlands Indies guilder",
+12
+],
+[
+"Rwanda and Burundi franc",
 11
 ],
 [
@@ -1296,31 +1292,7 @@
 11
 ],
 [
-"Southern Rhodesian pound",
-11
-],
-[
-"Angolan angolar",
-11
-],
-[
-"Iranian qiran",
-11
-],
-[
-"som",
-11
-],
-[
-"North Yemeni rial",
-11
-],
-[
-"Alderney pound",
-11
-],
-[
-"quattrino",
+"Eritrean tallero",
 11
 ],
 [
@@ -1328,7 +1300,23 @@
 11
 ],
 [
-"Korean mun",
+"quattrino",
+11
+],
+[
+"som",
+11
+],
+[
+"Iranian qiran",
+11
+],
+[
+"Southern Rhodesian pound",
+11
+],
+[
+"Rhodesia and Nyasaland pound",
 11
 ],
 [
@@ -1336,7 +1324,11 @@
 11
 ],
 [
-"Zimbabwean dollar",
+"Korean mun",
+11
+],
+[
+"Jamaican pound",
 11
 ],
 [
@@ -1348,11 +1340,19 @@
 11
 ],
 [
-"Jamaican pound",
+"Angolan angolar",
 11
 ],
 [
-"Rwanda and Burundi franc",
+"Alderney pound",
+11
+],
+[
+"North Yemeni rial",
+11
+],
+[
+"Zimbabwean dollar",
 11
 ],
 [
@@ -1360,23 +1360,19 @@
 11
 ],
 [
-"Sardinian lira",
+"Nova Scotian dollar",
+10
+],
+[
+"Italian East African lira",
+10
+],
+[
+"Danish rigsdaler",
 10
 ],
 [
 "French Indian rupee",
-10
-],
-[
-"pim weight",
-10
-],
-[
-"São Tomé and Príncipe escudo",
-10
-],
-[
-"baiocco",
 10
 ],
 [
@@ -1392,11 +1388,19 @@
 10
 ],
 [
-"Mongolian dollar",
+"pim weight",
 10
 ],
 [
-"Danish rigsdaler",
+"São Tomé and Príncipe escudo",
+10
+],
+[
+"örtug",
+10
+],
+[
+"Slovak koruna (1939–1945)",
 10
 ],
 [
@@ -1408,15 +1412,7 @@
 10
 ],
 [
-"örtug",
-10
-],
-[
-"Italian East African lira",
-10
-],
-[
-"Nova Scotian dollar",
+"Sardinian lira",
 10
 ],
 [
@@ -1424,7 +1420,11 @@
 10
 ],
 [
-"Slovak koruna (1939–1945)",
+"Mongolian dollar",
+10
+],
+[
+"baiocco",
 10
 ]
 ]

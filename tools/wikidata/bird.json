@@ -20,11 +20,11 @@
 137
 ],
 [
-"Mallard",
+"Eurasian Magpie",
 134
 ],
 [
-"Eurasian Magpie",
+"Mallard",
 134
 ],
 [
@@ -32,15 +32,15 @@
 133
 ],
 [
+"Blackbird",
+128
+],
+[
 "Common Blackbird",
 128
 ],
 [
 "Eurasian Blackbird",
-128
-],
-[
-"Blackbird",
 128
 ],
 [
@@ -52,11 +52,11 @@
 124
 ],
 [
-"Robin",
+"European Robin",
 122
 ],
 [
-"European Robin",
+"Robin",
 122
 ],
 [
@@ -68,11 +68,11 @@
 117
 ],
 [
-"Dodo",
+"dodo",
 117
 ],
 [
-"dodo",
+"Dodo",
 117
 ],
 [
@@ -80,11 +80,19 @@
 116
 ],
 [
-"Common Starling",
+"Pied Wagtail and White Wagtail",
+114
+],
+[
+"white wagtail",
 114
 ],
 [
 "White Wagtail",
+114
+],
+[
+"Common Starling",
 114
 ],
 [
@@ -108,11 +116,11 @@
 111
 ],
 [
-"European Swallow",
+"Barn Swallow",
 111
 ],
 [
-"Barn Swallow",
+"European Swallow",
 111
 ],
 [
@@ -124,15 +132,15 @@
 110
 ],
 [
-"Peregrine Falcon",
-109
-],
-[
 "Western Jackdaw",
 109
 ],
 [
-"Great Cormorant",
+"Peregrine Falcon",
+109
+],
+[
+"Eurasian Eagle-owl",
 108
 ],
 [
@@ -148,12 +156,16 @@
 108
 ],
 [
-"Eurasian Eagle-owl",
+"White Stork",
 108
 ],
 [
-"White Stork",
+"Great Cormorant",
 108
+],
+[
+"Osprey",
+107
 ],
 [
 "Eurasian Sparrowhawk",
@@ -164,23 +176,31 @@
 107
 ],
 [
-"Osprey",
-107
+"European Goldfinch",
+106
 ],
 [
 "Greylag Goose",
 106
 ],
 [
-"European Goldfinch",
-106
+"Eurasian Goshawk",
+104
 ],
 [
-"Common Crane",
+"Western Barn Owl",
 104
 ],
 [
 "Common Coot",
+104
+],
+[
+"coot",
+104
+],
+[
+"Coot",
 104
 ],
 [
@@ -192,23 +212,19 @@
 104
 ],
 [
-"Coot",
-104
-],
-[
-"coot",
-104
-],
-[
-"Western Barn Owl",
-104
-],
-[
-"Eurasian Goshawk",
+"Common Crane",
 104
 ],
 [
 "Lapwing",
+103
+],
+[
+"rook",
+103
+],
+[
+"Rook",
 103
 ],
 [
@@ -220,19 +236,11 @@
 103
 ],
 [
-"Rook",
-103
-],
-[
-"rook",
-103
-],
-[
-"Indian Peafowl",
+"corvid",
 102
 ],
 [
-"Black Kite",
+"Indian Peafowl",
 102
 ],
 [
@@ -240,11 +248,11 @@
 102
 ],
 [
-"corvid",
+"Black Kite",
 102
 ],
 [
-"Common Kingfisher",
+"Common Nightingale",
 101
 ],
 [
@@ -252,16 +260,8 @@
 101
 ],
 [
-"Common Nightingale",
+"Common Kingfisher",
 101
-],
-[
-"Little Grebe",
-100
-],
-[
-"Common Buzzard",
-100
 ],
 [
 "bullfinch",
@@ -269,6 +269,14 @@
 ],
 [
 "Eurasian Bullfinch",
+100
+],
+[
+"Common Buzzard",
+100
+],
+[
+"Little Grebe",
 100
 ],
 [
@@ -288,40 +296,16 @@
 99
 ],
 [
-"Western Capercaillie",
+"Capercaillie",
 98
 ],
 [
-"Capercaillie",
+"Western Capercaillie",
 98
 ],
 [
 "Mute Swan",
 98
-],
-[
-"Common Pheasant",
-97
-],
-[
-"Emu",
-97
-],
-[
-"Common Emu",
-97
-],
-[
-"Great Crested Grebe",
-97
-],
-[
-"White-tailed Eagle",
-97
-],
-[
-"Lammergeyer",
-97
 ],
 [
 "Bearded Vulture",
@@ -332,7 +316,31 @@
 97
 ],
 [
+"Lammergeyer",
+97
+],
+[
 "Eurasian Chaffinch",
+97
+],
+[
+"Great Crested Grebe",
+97
+],
+[
+"Common Pheasant",
+97
+],
+[
+"White-tailed Eagle",
+97
+],
+[
+"Common Emu",
+97
+],
+[
+"Emu",
 97
 ],
 [
@@ -344,6 +352,10 @@
 95
 ],
 [
+"Eurasian Skylark",
+95
+],
+[
 "skylark",
 95
 ],
@@ -352,15 +364,11 @@
 95
 ],
 [
-"Eurasian Skylark",
-95
-],
-[
 "Sky Lark",
 95
 ],
 [
-"Grey Partridge",
+"Bald Eagle",
 93
 ],
 [
@@ -372,7 +380,7 @@
 93
 ],
 [
-"Bald Eagle",
+"Grey Partridge",
 93
 ],
 [
@@ -384,31 +392,11 @@
 93
 ],
 [
-"European Swift",
-92
-],
-[
-"swift, common swift",
-92
-],
-[
-"Swift",
-92
-],
-[
-"Common Swift",
-92
-],
-[
-"Common Wood Pigeon",
+"Black-crowned Night Heron",
 92
 ],
 [
 "Night Heron",
-92
-],
-[
-"Black-crowned Night Heron",
 92
 ],
 [
@@ -420,7 +408,27 @@
 92
 ],
 [
+"Common Swift",
+92
+],
+[
+"European Swift",
+92
+],
+[
+"Swift",
+92
+],
+[
+"swift, common swift",
+92
+],
+[
 "Western Yellow Wagtail",
+92
+],
+[
+"Common Wood Pigeon",
 92
 ],
 [
@@ -428,11 +436,11 @@
 91
 ],
 [
-"Gadwall",
+"Eurasian Bittern",
 91
 ],
 [
-"Eurasian Bittern",
+"Gadwall",
 91
 ],
 [
@@ -440,19 +448,7 @@
 90
 ],
 [
-"Eurasian Collared Dove",
-90
-],
-[
-"Griffon Vulture",
-90
-],
-[
 "Finches",
-90
-],
-[
-"Whooper Swan",
 90
 ],
 [
@@ -464,15 +460,23 @@
 90
 ],
 [
+"Griffon Vulture",
+90
+],
+[
+"Whooper Swan",
+90
+],
+[
 "Carrion Crow",
 90
 ],
 [
-"Eurasian Woodcock",
-89
+"Eurasian Collared Dove",
+90
 ],
 [
-"Great White Pelican",
+"Budgerigar",
 89
 ],
 [
@@ -480,11 +484,15 @@
 89
 ],
 [
+"Purple heron",
+89
+],
+[
 "Purple Heron",
 89
 ],
 [
-"Purple heron",
+"Great White Pelican",
 89
 ],
 [
@@ -500,15 +508,15 @@
 89
 ],
 [
-"Budgerigar",
+"Eurasian Woodcock",
 89
 ],
 [
-"Corn Crake",
+"Corncrake",
 88
 ],
 [
-"Corncrake",
+"Corn Crake",
 88
 ],
 [
@@ -520,11 +528,23 @@
 88
 ],
 [
+"European Turtle Dove",
+87
+],
+[
+"Secretarybird",
+87
+],
+[
+"Secretary Bird",
+87
+],
+[
 "Greater Flamingo",
 87
 ],
 [
-"European Turtle Dove",
+"Sand Martin",
 87
 ],
 [
@@ -536,18 +556,6 @@
 87
 ],
 [
-"Secretary Bird",
-87
-],
-[
-"Secretarybird",
-87
-],
-[
-"Sand Martin",
-87
-],
-[
 "Common Redshank",
 86
 ],
@@ -556,15 +564,11 @@
 86
 ],
 [
-"Common Snipe",
-86
-],
-[
 "Long-eared Owl",
 86
 ],
 [
-"Yellowhammer",
+"Common Snipe",
 86
 ],
 [
@@ -572,16 +576,12 @@
 86
 ],
 [
-"Great Spotted Woodpecker",
+"Yellowhammer",
 86
 ],
 [
-"Glossy Ibis",
-85
-],
-[
-"Common Shelduck",
-85
+"Great Spotted Woodpecker",
+86
 ],
 [
 "Black Vulture",
@@ -596,7 +596,7 @@
 85
 ],
 [
-"Owl Parrot",
+"Glossy Ibis",
 85
 ],
 [
@@ -604,23 +604,19 @@
 85
 ],
 [
-"Common Sandpiper",
+"Owl Parrot",
+85
+],
+[
+"Common Shelduck",
+85
+],
+[
+"Merlin",
 84
 ],
 [
-"black-winged stilt",
-84
-],
-[
-"Black-winged Stilt",
-84
-],
-[
-"Black-headed Gull",
-84
-],
-[
-"Hen Harrier",
+"Toucan",
 84
 ],
 [
@@ -632,15 +628,27 @@
 84
 ],
 [
-"Toucan",
-84
-],
-[
-"Merlin",
-84
-],
-[
 "Andean Condor",
+84
+],
+[
+"black-winged stilt",
+84
+],
+[
+"Black-winged Stilt",
+84
+],
+[
+"Common Sandpiper",
+84
+],
+[
+"Hen Harrier",
+84
+],
+[
+"Black-headed Gull",
 84
 ],
 [
@@ -656,7 +664,15 @@
 84
 ],
 [
-"Red Junglefowl",
+"black swan",
+83
+],
+[
+"Black Swan",
+83
+],
+[
+"Black Woodpecker",
 83
 ],
 [
@@ -664,11 +680,7 @@
 83
 ],
 [
-"black swan",
-83
-],
-[
-"Black Swan",
+"Red Junglefowl",
 83
 ],
 [
@@ -680,47 +692,11 @@
 83
 ],
 [
-"Black Woodpecker",
-83
-],
-[
 "Black Grouse",
 82
 ],
 [
-"Eurasian Curlew",
-82
-],
-[
-"Ruff",
-82
-],
-[
-"Tawny Owl",
-82
-],
-[
-"Whale-headed Stork",
-82
-],
-[
-"Shoebill",
-82
-],
-[
-"Western Marsh Harrier",
-82
-],
-[
 "Emperor Penguin",
-82
-],
-[
-"Steppe Eagle",
-82
-],
-[
-"steppe eagle",
 82
 ],
 [
@@ -732,15 +708,47 @@
 82
 ],
 [
-"Short-toed Snake Eagle",
-82
-],
-[
 "Short-toed Snake-eagle",
 82
 ],
 [
+"Short-toed Snake Eagle",
+82
+],
+[
+"steppe eagle",
+82
+],
+[
+"Steppe Eagle",
+82
+],
+[
+"Shoebill",
+82
+],
+[
+"Whale-headed Stork",
+82
+],
+[
+"Eurasian Curlew",
+82
+],
+[
 "Mandarin Duck",
+82
+],
+[
+"Tawny Owl",
+82
+],
+[
+"Western Marsh Harrier",
+82
+],
+[
+"Ruff",
 82
 ],
 [
@@ -752,19 +760,11 @@
 81
 ],
 [
-"Pied Avocet",
+"hawfinch",
 80
 ],
 [
-"European Herring Gull",
-80
-],
-[
-"Common House Martin",
-80
-],
-[
-"Wryneck",
+"Hawfinch",
 80
 ],
 [
@@ -776,19 +776,35 @@
 80
 ],
 [
+"Wryneck",
+80
+],
+[
 "wryneck, eurasian wryneck",
 80
 ],
 [
-"European Greenfinch",
+"Common House Martin",
 80
 ],
 [
-"hawfinch",
+"house martin",
 80
 ],
 [
-"Hawfinch",
+"House martin",
+80
+],
+[
+"House Martin",
+80
+],
+[
+"Northern House-martin",
+80
+],
+[
+"Pied Avocet",
 80
 ],
 [
@@ -796,20 +812,12 @@
 80
 ],
 [
-"little ringed plover",
-79
+"European Greenfinch",
+80
 ],
 [
-"Little Ringed Plover",
-79
-],
-[
-"European Nightjar",
-79
-],
-[
-"Little Bustard",
-79
+"European Herring Gull",
+80
 ],
 [
 "Eurasian Green Woodpecker",
@@ -820,11 +828,39 @@
 79
 ],
 [
+"green woodpecker",
+79
+],
+[
 "Green Woodpecker",
 79
 ],
 [
-"green woodpecker",
+"little ringed plover",
+79
+],
+[
+"Little Ringed Plover",
+79
+],
+[
+"Little Bustard",
+79
+],
+[
+"Fieldfare",
+79
+],
+[
+"Bluethroat",
+79
+],
+[
+"Common Redstart",
+79
+],
+[
+"European Nightjar",
 79
 ],
 [
@@ -836,27 +872,39 @@
 79
 ],
 [
-"Fieldfare",
-79
+"Eurasian Nuthatch",
+78
 ],
 [
-"Common Redstart",
-79
+"Eastern Imperial Eagle",
+78
 ],
 [
-"Bluethroat",
-79
+"European Honey-buzzard",
+78
 ],
 [
-"Eurasian Oystercatcher",
+"European Honey Buzzard",
+78
+],
+[
+"Honey Buzzard",
+78
+],
+[
+"honey buzzard, european honey buzzard",
+78
+],
+[
+"great bustard",
+78
+],
+[
+"Great Bustard",
 78
 ],
 [
 "Sandgrouse",
-78
-],
-[
-"Atlantic Puffin",
 78
 ],
 [
@@ -876,43 +924,7 @@
 78
 ],
 [
-"great bustard",
-78
-],
-[
-"Great Bustard",
-78
-],
-[
-"Eastern Imperial Eagle",
-78
-],
-[
-"European Honey Buzzard",
-78
-],
-[
-"European Honey-buzzard",
-78
-],
-[
-"Honey Buzzard",
-78
-],
-[
-"honey buzzard, european honey buzzard",
-78
-],
-[
-"Bohemian Waxwing",
-78
-],
-[
 "Northern Nutcracker",
-78
-],
-[
-"Eurasian Nuthatch",
 78
 ],
 [
@@ -920,27 +932,19 @@
 78
 ],
 [
-"Common Greenshank",
-77
+"Eurasian Oystercatcher",
+78
 ],
 [
-"Common Tern",
-77
+"Bohemian Waxwing",
+78
 ],
 [
-"Black-necked Grebe",
-77
+"Atlantic Puffin",
+78
 ],
 [
-"Common Gull",
-77
-],
-[
-"Long-tailed Duck",
-77
-],
-[
-"long-tailed duck",
+"Long-tailed Tit",
 77
 ],
 [
@@ -948,23 +952,11 @@
 77
 ],
 [
-"Gyr Falcon",
-77
-],
-[
 "Gyrfalcon",
 77
 ],
 [
-"Taiga Bean Goose",
-77
-],
-[
-"Bar-headed Goose",
-77
-],
-[
-"Roller",
+"Gyr Falcon",
 77
 ],
 [
@@ -976,8 +968,64 @@
 77
 ],
 [
-"Long-tailed Tit",
+"Roller",
 77
+],
+[
+"Black-necked Grebe",
+77
+],
+[
+"Common Greenshank",
+77
+],
+[
+"Common Tern",
+77
+],
+[
+"Bar-headed Goose",
+77
+],
+[
+"Common Gull",
+77
+],
+[
+"Taiga Bean Goose",
+77
+],
+[
+"long-tailed duck",
+77
+],
+[
+"Long-tailed Duck",
+77
+],
+[
+"Eurasian Scops Owl",
+76
+],
+[
+"Mistle Thrush",
+76
+],
+[
+"red-footed falcon",
+76
+],
+[
+"Red-footed Falcon",
+76
+],
+[
+"Western Red-footed Falcon",
+76
+],
+[
+"Eurasian Stone-curlew",
+76
 ],
 [
 "European Water Rail",
@@ -996,15 +1044,15 @@
 76
 ],
 [
-"Jack Snipe",
-76
-],
-[
-"Eurasian Stone-curlew",
-76
-],
-[
 "Black-tailed Godwit",
+76
+],
+[
+"Rosy Starling",
+76
+],
+[
+"Northern Wheatear",
 76
 ],
 [
@@ -1020,31 +1068,7 @@
 76
 ],
 [
-"red-footed falcon",
-76
-],
-[
-"Red-footed Falcon",
-76
-],
-[
-"Western Red-footed Falcon",
-76
-],
-[
-"Eurasian Scops Owl",
-76
-],
-[
-"Rosy Starling",
-76
-],
-[
-"Northern Wheatear",
-76
-],
-[
-"Mistle Thrush",
+"Jack Snipe",
 76
 ],
 [
@@ -1052,27 +1076,11 @@
 76
 ],
 [
+"Greater White-fronted Goose",
+75
+],
+[
 "Hazel Grouse",
-75
-],
-[
-"Eurasian Whimbrel",
-75
-],
-[
-"Green Sandpiper",
-75
-],
-[
-"Hoatzin",
-75
-],
-[
-"hoatzin",
-75
-],
-[
-"Dalmatian Pelican",
 75
 ],
 [
@@ -1084,6 +1092,22 @@
 75
 ],
 [
+"Dalmatian Pelican",
+75
+],
+[
+"Eurasian Whimbrel",
+75
+],
+[
+"hoatzin",
+75
+],
+[
+"Hoatzin",
+75
+],
+[
 "lesser kestrel",
 75
 ],
@@ -1092,32 +1116,12 @@
 75
 ],
 [
-"Greater White-fronted Goose",
-75
-],
-[
 "Goldcrest",
 75
 ],
 [
-"spotted crake",
-74
-],
-[
-"Spotted Crake",
-74
-],
-[
-"Arctic Tern",
-74
-],
-[
-"Stock Dove",
-74
-],
-[
-"Lesser Black-backed Gull",
-74
+"Green Sandpiper",
+75
 ],
 [
 "Saker",
@@ -1128,11 +1132,35 @@
 74
 ],
 [
+"blackcap",
+74
+],
+[
+"Blackcap",
+74
+],
+[
+"Eurasian Blackcap",
+74
+],
+[
 "Red-breasted Merganser",
 74
 ],
 [
-"Common Goldeneye",
+"spotted crake",
+74
+],
+[
+"Spotted Crake",
+74
+],
+[
+"Blue Jay",
+74
+],
+[
+"Stock Dove",
 74
 ],
 [
@@ -1152,27 +1180,35 @@
 74
 ],
 [
-"Blue Jay",
+"Arctic Tern",
 74
 ],
 [
-"Blackcap",
+"Lesser Black-backed Gull",
 74
 ],
 [
-"blackcap",
+"Common Goldeneye",
 74
 ],
 [
-"Eurasian Blackcap",
-74
-],
-[
-"Wild Turkey",
+"Common Myna",
 73
 ],
 [
-"Sanderling",
+"Red-necked Grebe",
+73
+],
+[
+"Common Merganser",
+73
+],
+[
+"Goosander",
+73
+],
+[
+"King Penguin",
 73
 ],
 [
@@ -1188,7 +1224,7 @@
 73
 ],
 [
-"Red-necked Grebe",
+"Ferruginous Duck",
 73
 ],
 [
@@ -1212,47 +1248,23 @@
 73
 ],
 [
-"Caspian Tern",
-73
-],
-[
-"King Penguin",
-73
-],
-[
-"Common Merganser",
-73
-],
-[
-"Goosander",
-73
-],
-[
-"Common Myna",
-73
-],
-[
-"Ferruginous Duck",
-73
-],
-[
 "Dunnock",
 73
 ],
 [
-"Demoiselle Crane",
-72
+"Wild Turkey",
+73
 ],
 [
-"ruddy turnstone",
-72
+"Caspian Tern",
+73
 ],
 [
-"Ruddy Turnstone",
-72
+"Sanderling",
+73
 ],
 [
-"Turnstone",
+"Common Chiffchaff",
 72
 ],
 [
@@ -1260,35 +1272,15 @@
 72
 ],
 [
-"pallid harrier",
+"Coal Tit",
 72
 ],
 [
-"Pallid Harrier",
+"Demoiselle Crane",
 72
 ],
 [
-"snow goose",
-72
-],
-[
-"Snow Goose",
-72
-],
-[
-"Greater Spotted Eagle",
-72
-],
-[
-"snow bunting",
-72
-],
-[
-"Snow Bunting",
-72
-],
-[
-"Common Chiffchaff",
+"Garden Warbler",
 72
 ],
 [
@@ -1304,11 +1296,7 @@
 72
 ],
 [
-"Coal Tit",
-72
-],
-[
-"Garden Warbler",
+"citrine wagtail",
 72
 ],
 [
@@ -1316,11 +1304,47 @@
 72
 ],
 [
-"Helmeted Guineafowl",
-71
+"Greater Spotted Eagle",
+72
 ],
 [
-"Grey Plover",
+"pallid harrier",
+72
+],
+[
+"Pallid Harrier",
+72
+],
+[
+"snow bunting",
+72
+],
+[
+"Snow Bunting",
+72
+],
+[
+"ruddy turnstone",
+72
+],
+[
+"Ruddy Turnstone",
+72
+],
+[
+"Turnstone",
+72
+],
+[
+"snow goose",
+72
+],
+[
+"Snow Goose",
+72
+],
+[
+"Thrush",
 71
 ],
 [
@@ -1332,7 +1356,7 @@
 71
 ],
 [
-"Greater Scaup",
+"Grey Plover",
 71
 ],
 [
@@ -1340,15 +1364,11 @@
 71
 ],
 [
-"Cockatiel",
+"Grey Wagtail",
 71
 ],
 [
-"cockatiel",
-71
-],
-[
-"Thrush",
+"Helmeted Guineafowl",
 71
 ],
 [
@@ -1356,19 +1376,23 @@
 71
 ],
 [
-"Grey Wagtail",
+"Greater Scaup",
 71
 ],
 [
-"Dunlin",
+"cockatiel",
+71
+],
+[
+"Cockatiel",
+71
+],
+[
+"Lesser Spotted Woodpecker",
 70
 ],
 [
-"Red Knot",
-70
-],
-[
-"Common Ringed Plover",
+"Blue-and-yellow Macaw",
 70
 ],
 [
@@ -1380,6 +1404,18 @@
 70
 ],
 [
+"Dunlin",
+70
+],
+[
+"Common Ringed Plover",
+70
+],
+[
+"Red Knot",
+70
+],
+[
 "American Harpy Eagle",
 70
 ],
@@ -1388,23 +1424,19 @@
 70
 ],
 [
-"Blue-and-yellow Macaw",
-70
-],
-[
-"Lesser Spotted Woodpecker",
-70
-],
-[
-"Barn Owls",
+"tree pipit",
 69
 ],
 [
-"Little Stint",
+"Tree Pipit",
 69
 ],
 [
-"Baillon's Crake",
+"Adelie Penguin",
+69
+],
+[
+"Adélie Penguin",
 69
 ],
 [
@@ -1424,15 +1456,15 @@
 69
 ],
 [
+"Rose-ringed Parakeet",
+69
+],
+[
 "African Sacred Ibis",
 69
 ],
 [
-"Adelie Penguin",
-69
-],
-[
-"Adélie Penguin",
+"Baillon's Crake",
 69
 ],
 [
@@ -1440,7 +1472,11 @@
 69
 ],
 [
-"Rose-ringed Parakeet",
+"Ring Ouzel",
+69
+],
+[
+"woodlark",
 69
 ],
 [
@@ -1452,20 +1488,28 @@
 69
 ],
 [
-"woodlark",
+"Barn Owls",
 69
 ],
 [
-"Ring Ouzel",
+"little stint",
 69
 ],
 [
-"tree pipit",
+"Little Stint",
 69
 ],
 [
-"Tree Pipit",
-69
+"Blue Rock Thrush",
+68
+],
+[
+"Boreal Owl",
+68
+],
+[
+"Tengmalm's Owl",
+68
 ],
 [
 "Willow Grouse",
@@ -1476,11 +1520,47 @@
 68
 ],
 [
-"Temminck's Stint",
+"Alpine Chough",
 68
 ],
 [
-"Spotted Redshank",
+"Atlantic Canary",
+68
+],
+[
+"Canary",
+68
+],
+[
+"Common Canary",
+68
+],
+[
+"Island Canary",
+68
+],
+[
+"European Crested Tit",
+68
+],
+[
+"Grey Parrot",
+68
+],
+[
+"Lesser Spotted Eagle",
+68
+],
+[
+"red-crested pochard",
+68
+],
+[
+"Red-crested Pochard",
+68
+],
+[
+"Red-backed Shrike",
 68
 ],
 [
@@ -1496,26 +1576,6 @@
 68
 ],
 [
-"Boreal Owl",
-68
-],
-[
-"Tengmalm's Owl",
-68
-],
-[
-"red-crested pochard",
-68
-],
-[
-"Red-crested Pochard",
-68
-],
-[
-"Lesser Spotted Eagle",
-68
-],
-[
 "Barnacle Goose",
 68
 ],
@@ -1524,11 +1584,7 @@
 68
 ],
 [
-"Canary",
-68
-],
-[
-"Common Rosefinch",
+"Spotted Redshank",
 68
 ],
 [
@@ -1536,83 +1592,27 @@
 68
 ],
 [
+"Common Rosefinch",
+68
+],
+[
 "Scarlet Rosefinch",
 68
 ],
 [
-"Atlantic Canary",
+"Temminck's Stint",
 68
 ],
 [
-"Common Canary",
-68
-],
-[
-"Island Canary",
-68
-],
-[
-"Grey Parrot",
-68
-],
-[
-"Alpine Chough",
-68
-],
-[
-"Red-backed Shrike",
-68
-],
-[
-"European Crested Tit",
-68
-],
-[
-"Blue Rock Thrush",
-68
-],
-[
-"Rock Ptarmigan",
+"Great Reed Warbler",
 67
 ],
 [
-"Ptarmigan",
+"Great Grey Shrike",
 67
 ],
 [
-"skua",
-67
-],
-[
-"Curlew Sandpiper",
-67
-],
-[
-"marsh sandpiper",
-67
-],
-[
-"Marsh Sandpiper",
-67
-],
-[
-"European Golden Plover",
-67
-],
-[
-"Alpine Swift",
-67
-],
-[
-"Kittiwake",
-67
-],
-[
-"black-legged kittiwake",
-67
-],
-[
-"Black-legged Kittiwake",
+"Great Auk",
 67
 ],
 [
@@ -1628,11 +1628,7 @@
 67
 ],
 [
-"Great Auk",
-67
-],
-[
-"Razorbill",
+"Bearded Reedling",
 67
 ],
 [
@@ -1640,27 +1636,23 @@
 67
 ],
 [
-"Common Eider",
-67
-],
-[
-"Great Reed Warbler",
-67
-],
-[
 "Grey-headed Woodpecker",
 67
 ],
 [
-"Red-billed Chough",
+"skua",
 67
 ],
 [
-"Chough",
+"Ptarmigan",
 67
 ],
 [
-"Great Grey Shrike",
+"Rock Ptarmigan",
+67
+],
+[
+"European Golden Plover",
 67
 ],
 [
@@ -1672,8 +1664,96 @@
 67
 ],
 [
-"Bearded Reedling",
+"black-legged kittiwake",
 67
+],
+[
+"Black-legged Kittiwake",
+67
+],
+[
+"Kittiwake",
+67
+],
+[
+"Common Eider",
+67
+],
+[
+"Razorbill",
+67
+],
+[
+"marsh sandpiper",
+67
+],
+[
+"Marsh Sandpiper",
+67
+],
+[
+"Alpine Swift",
+67
+],
+[
+"Curlew Sandpiper",
+67
+],
+[
+"Chough",
+67
+],
+[
+"Red-billed Chough",
+67
+],
+[
+"Eurasian Pygmy-owl",
+66
+],
+[
+"Eurasian Pygmy Owl",
+66
+],
+[
+"Eurasian Pygmy-Owl",
+66
+],
+[
+"Eurasian Pygmy Owlet",
+66
+],
+[
+"Pygmy Owl",
+66
+],
+[
+"Passenger Pigeon",
+66
+],
+[
+"King Vulture",
+66
+],
+[
+"Smew",
+66
+],
+[
+"thrush nightingale",
+66
+],
+[
+"Thrush Nightingale",
+66
+],
+[
+"ortolan bunting",
+66
+],
+[
+"Ortolan Bunting",
+66
 ],
 [
 "Siberian Crane",
@@ -1684,35 +1764,7 @@
 66
 ],
 [
-"Passenger Pigeon",
-66
-],
-[
 "Muscovy Duck",
-66
-],
-[
-"Smew",
-66
-],
-[
-"Eurasian Pygmy Owl",
-66
-],
-[
-"Eurasian Pygmy Owlet",
-66
-],
-[
-"Eurasian Pygmy-owl",
-66
-],
-[
-"Eurasian Pygmy-Owl",
-66
-],
-[
-"Pygmy Owl",
 66
 ],
 [
@@ -1728,11 +1780,15 @@
 66
 ],
 [
-"King Vulture",
+"Corn Bunting",
 66
 ],
 [
-"Corn Bunting",
+"willow warbler",
+66
+],
+[
+"Willow Warbler",
 66
 ],
 [
@@ -1748,63 +1804,15 @@
 66
 ],
 [
-"ortolan bunting",
-66
-],
-[
-"Ortolan Bunting",
-66
-],
-[
-"willow warbler",
-66
-],
-[
-"Willow Warbler",
-66
-],
-[
-"thrush nightingale",
-66
-],
-[
-"Thrush Nightingale",
-66
+"Redwing",
+65
 ],
 [
 "Western Swamphen",
 65
 ],
 [
-"Caribbean Flamingo",
-65
-],
-[
-"American Flamingo",
-65
-],
-[
-"Whiskered Tern",
-65
-],
-[
 "Gull-billed Tern",
-65
-],
-[
-"Long-legged Buzzard",
-65
-],
-[
-"Bonelli's Eagle",
-65
-],
-[
-"Bonelli’s eagle",
-65
-],
-[
-"Egyptian Goose",
 65
 ],
 [
@@ -1816,11 +1824,39 @@
 65
 ],
 [
-"Redwing",
+"American Flamingo",
 65
 ],
 [
-"Broad-billed Sandpiper",
+"Caribbean Flamingo",
+65
+],
+[
+"Whiskered Tern",
+65
+],
+[
+"Long-legged Buzzard",
+65
+],
+[
+"Bonelli’s eagle",
+65
+],
+[
+"Bonelli's Eagle",
+65
+],
+[
+"Egyptian Goose",
+65
+],
+[
+"Eurasian Reed Warbler",
+64
+],
+[
+"Wallcreeper",
 64
 ],
 [
@@ -1840,23 +1876,15 @@
 64
 ],
 [
-"Eurasian Reed Warbler",
-64
-],
-[
-"Wallcreeper",
-64
-],
-[
 "Meadow Pipit",
 64
 ],
 [
-"Great Snipe",
-63
+"Broad-billed Sandpiper",
+64
 ],
 [
-"Great Black-backed Gull",
+"Whinchat",
 63
 ],
 [
@@ -1864,11 +1892,19 @@
 63
 ],
 [
-"Marabou",
+"Marsh Tit",
 63
 ],
 [
-"Marabou Stork",
+"Eurasian Crag Martin",
+63
+],
+[
+"Great Black-backed Gull",
+63
+],
+[
+"Great Snipe",
 63
 ],
 [
@@ -1880,16 +1916,40 @@
 63
 ],
 [
-"Eurasian Crag Martin",
+"Marabou",
 63
 ],
 [
-"Whinchat",
+"Marabou Stork",
 63
 ],
 [
-"Marsh Tit",
-63
+"Common Whitethroat",
+62
+],
+[
+"Grey Pelican",
+62
+],
+[
+"Spot-billed Pelican",
+62
+],
+[
+"Red-breasted Goose",
+62
+],
+[
+"Kea",
+62
+],
+[
+"Eurasian Treecreeper",
+62
+],
+[
+"California Condor",
+62
 ],
 [
 "Arctic Skua",
@@ -1908,11 +1968,7 @@
 62
 ],
 [
-"Grey Pelican",
-62
-],
-[
-"Spot-billed Pelican",
+"Scarlet Macaw",
 62
 ],
 [
@@ -1936,7 +1992,19 @@
 62
 ],
 [
-"California Condor",
+"sedge warbler",
+62
+],
+[
+"Sedge Warbler",
+62
+],
+[
+"European Pied Flycatcher",
+62
+],
+[
+"Common Firecrest",
 62
 ],
 [
@@ -1948,40 +2016,8 @@
 62
 ],
 [
-"Red-breasted Goose",
-62
-],
-[
-"Common Firecrest",
-62
-],
-[
-"Kea",
-62
-],
-[
-"Eurasian Treecreeper",
-62
-],
-[
-"sedge warbler",
-62
-],
-[
-"Sedge Warbler",
-62
-],
-[
-"Scarlet Macaw",
-62
-],
-[
-"European Pied Flycatcher",
-62
-],
-[
-"Common Whitethroat",
-62
+"Lesser Whitethroat",
+61
 ],
 [
 "Stone-curlew",
@@ -1989,6 +2025,10 @@
 ],
 [
 "thick-knees",
+61
+],
+[
+"Sea eagles",
 61
 ],
 [
@@ -2000,14 +2040,6 @@
 61
 ],
 [
-"Black Tern",
-61
-],
-[
-"Sea eagles",
-61
-],
-[
 "Eurasian Three-toed Woodpecker",
 61
 ],
@@ -2016,7 +2048,7 @@
 61
 ],
 [
-"American Robin",
+"Black Tern",
 61
 ],
 [
@@ -2028,40 +2060,8 @@
 61
 ],
 [
-"Lesser Whitethroat",
+"American Robin",
 61
-],
-[
-"Chukar Partridge",
-60
-],
-[
-"Black Crowned Crane",
-60
-],
-[
-"Green Peafowl",
-60
-],
-[
-"Little Crake",
-60
-],
-[
-"Pygmy Cormorant",
-60
-],
-[
-"Brown Pelican",
-60
-],
-[
-"Great Grey Owl",
-60
-],
-[
-"Mediterranean Gull",
-60
 ],
 [
 "Eastern Spotted Dove",
@@ -2073,6 +2073,14 @@
 ],
 [
 "Little Gull",
+60
+],
+[
+"Chukar Partridge",
+60
+],
+[
+"Great Grey Owl",
 60
 ],
 [
@@ -2088,34 +2096,6 @@
 60
 ],
 [
-"Gentoo Penguin",
-60
-],
-[
-"white-headed duck",
-60
-],
-[
-"White-headed Duck",
-60
-],
-[
-"Brent Goose",
-60
-],
-[
-"Brant",
-60
-],
-[
-"Brant Goose",
-60
-],
-[
-"Common Redpoll",
-60
-],
-[
 "Horned Lark",
 60
 ],
@@ -2128,40 +2108,56 @@
 60
 ],
 [
-"Incubator birds",
-59
+"Common Redpoll",
+60
 ],
 [
-"Red-crowned Crane",
-59
+"Brown Pelican",
+60
 ],
 [
-"great skua",
-59
+"Gentoo Penguin",
+60
 ],
 [
-"Great Skua",
-59
+"white-headed duck",
+60
 ],
 [
-"Grey Crowned Crane",
-59
+"White-headed Duck",
+60
 ],
 [
-"Grey (Red) Phalarope",
-59
+"Pygmy Cormorant",
+60
 ],
 [
-"Grey Phalarope",
-59
+"Green Peafowl",
+60
 ],
 [
-"red phalarope",
-59
+"Brant",
+60
 ],
 [
-"Red Phalarope",
-59
+"Brant Goose",
+60
+],
+[
+"Brent Goose",
+60
+],
+[
+"Little Crake",
+60
+],
+[
+"Mediterranean Gull",
+60
+],
+[
+"Black Crowned Crane",
+60
 ],
 [
 "pacific golden plover",
@@ -2176,51 +2172,31 @@
 59
 ],
 [
-"Sandwich Tern",
+"great skua",
 59
 ],
 [
-"Caspian Gull",
+"Great Skua",
 59
 ],
 [
-"pontic gull",
+"Grey Phalarope",
 59
 ],
 [
-"Glaucous Gull",
+"Grey (Red) Phalarope",
 59
 ],
 [
-"Band-tailed Fish-eagle",
+"red phalarope",
 59
 ],
 [
-"Pallas's Fish Eagle",
+"Red Phalarope",
 59
 ],
 [
-"Pallas's Fish-eagle",
-59
-],
-[
-"Pallas's Sea-Eagle",
-59
-],
-[
-"pallas’s fish eagle",
-59
-],
-[
-"Pallas’s Fish Eagle",
-59
-],
-[
-"Pallas’s fish-eagle",
-59
-],
-[
-"Guillemot",
+"Common Grasshopper Warbler",
 59
 ],
 [
@@ -2232,11 +2208,15 @@
 59
 ],
 [
-"Common Grasshopper Warbler",
+"Guillemot",
 59
 ],
 [
-"European Serin",
+"Incubator birds",
+59
+],
+[
+"Red-crowned Crane",
 59
 ],
 [
@@ -2244,27 +2224,67 @@
 59
 ],
 [
+"Band-tailed Fish-eagle",
+59
+],
+[
+"pallas’s fish eagle",
+59
+],
+[
+"Pallas’s fish-eagle",
+59
+],
+[
+"Pallas's Fish-eagle",
+59
+],
+[
+"Pallas's Fish Eagle",
+59
+],
+[
+"Pallas’s Fish Eagle",
+59
+],
+[
+"Pallas's Sea-Eagle",
+59
+],
+[
+"European Serin",
+59
+],
+[
 "Eurasian Penduline Tit",
 59
 ],
 [
-"elephant bird",
-58
+"Glaucous Gull",
+59
 ],
 [
-"Bee Hummingbird",
-58
+"Sandwich Tern",
+59
 ],
 [
-"Golden Pheasant",
+"Grey Crowned Crane",
+59
+],
+[
+"Caspian Gull",
+59
+],
+[
+"pontic gull",
+59
+],
+[
+"Cuckoos",
 58
 ],
 [
 "Balicassiao (mirabilis)",
-58
-],
-[
-"Spangled Drongo (longirostris)",
 58
 ],
 [
@@ -2276,19 +2296,7 @@
 58
 ],
 [
-"Cuckoos",
-58
-],
-[
-"pomarine jaeger",
-58
-],
-[
-"Pomarine Jaeger",
-58
-],
-[
-"Pomarine Skua",
+"Spangled Drongo (longirostris)",
 58
 ],
 [
@@ -2308,30 +2316,6 @@
 58
 ],
 [
-"Asian Open-bill Stork",
-58
-],
-[
-"Asian Openbill",
-58
-],
-[
-"American Black Vulture",
-58
-],
-[
-"Indian Roller",
-58
-],
-[
-"icterine warbler",
-58
-],
-[
-"Icterine Warbler",
-58
-],
-[
 "Lapland Bunting",
 58
 ],
@@ -2344,11 +2328,63 @@
 58
 ],
 [
-"Wood Warbler",
+"pomarine jaeger",
+58
+],
+[
+"Pomarine Jaeger",
+58
+],
+[
+"Pomarine Skua",
+58
+],
+[
+"Bee Hummingbird",
+58
+],
+[
+"American Black Vulture",
+58
+],
+[
+"elephant bird",
+58
+],
+[
+"Common Rock Thrush",
 58
 ],
 [
 "Lesser Grey Shrike",
+58
+],
+[
+"Wood Warbler",
+58
+],
+[
+"icterine warbler",
+58
+],
+[
+"Icterine Warbler",
+58
+],
+[
+"Golden Pheasant",
+58
+],
+[
+"Indian Roller",
+58
+],
+[
+"Asian Openbill",
+58
+],
+[
+"Asian Open-bill Stork",
 58
 ],
 [
@@ -2360,8 +2396,112 @@
 58
 ],
 [
-"Common Rock Thrush",
-58
+"Twite",
+57
+],
+[
+"Galapagos Penguin",
+57
+],
+[
+"Galápagos Penguin",
+57
+],
+[
+"Sulphur-crested Cockatoo",
+57
+],
+[
+"water pipit",
+57
+],
+[
+"Water Pipit",
+57
+],
+[
+"Pink-footed Goose",
+57
+],
+[
+"Magpie Goose",
+57
+],
+[
+"Siberian Jay",
+57
+],
+[
+"Humboldt Penguin",
+57
+],
+[
+"Great Hornbill",
+57
+],
+[
+"Lesser Flamingo",
+57
+],
+[
+"Oriental Magpie-robin",
+57
+],
+[
+"Oriental Magpie Robin",
+57
+],
+[
+"Oriental Magpie-Robin",
+57
+],
+[
+"Fulmar",
+57
+],
+[
+"northern fulmar",
+57
+],
+[
+"Northern Fulmar",
+57
+],
+[
+"Black-winged Kite",
+57
+],
+[
+"British Storm Petrel",
+57
+],
+[
+"european storm-petrel",
+57
+],
+[
+"European Storm-petrel",
+57
+],
+[
+"European Storm Petrel",
+57
+],
+[
+"European Storm-Petrel",
+57
+],
+[
+"Storm Petrel",
+57
+],
+[
+"Sarus Crane",
+57
+],
+[
+"Pied Kingfisher",
+57
 ],
 [
 "Congo Peacock",
@@ -2376,83 +2516,7 @@
 57
 ],
 [
-"Sarus Crane",
-57
-],
-[
-"European Shag",
-57
-],
-[
-"Magpie Goose",
-57
-],
-[
-"Fulmar",
-57
-],
-[
-"Northern Fulmar",
-57
-],
-[
-"northern fulmar",
-57
-],
-[
-"Galapagos Penguin",
-57
-],
-[
-"Galápagos Penguin",
-57
-],
-[
-"Humboldt Penguin",
-57
-],
-[
-"British Storm Petrel",
-57
-],
-[
-"European Storm Petrel",
-57
-],
-[
-"european storm-petrel",
-57
-],
-[
-"European Storm-Petrel",
-57
-],
-[
-"Storm Petrel",
-57
-],
-[
-"European Storm-petrel",
-57
-],
-[
-"Asian Woolly-necked Stork",
-57
-],
-[
-"Asian Woollyneck",
-57
-],
-[
-"Woolly-necked Stork",
-57
-],
-[
-"Hamerkop",
-57
-],
-[
-"Lesser Flamingo",
+"Crested Serpent-eagle",
 57
 ],
 [
@@ -2460,47 +2524,19 @@
 57
 ],
 [
-"Crested Serpent-eagle",
+"Asian Woollyneck",
 57
 ],
 [
-"Black-winged Kite",
+"Asian Woolly-necked Stork",
 57
 ],
 [
-"Nicobar Pigeon",
-57
-],
-[
-"Pink-footed Goose",
-57
-],
-[
-"Sulphur-crested Cockatoo",
+"Woolly-necked Stork",
 57
 ],
 [
 "Resplendent Quetzal",
-57
-],
-[
-"Keel-billed Toucan",
-57
-],
-[
-"Great Hornbill",
-57
-],
-[
-"Pied Kingfisher",
-57
-],
-[
-"Twite",
-57
-],
-[
-"Siberian Jay",
 57
 ],
 [
@@ -2512,30 +2548,6 @@
 57
 ],
 [
-"House Crow",
-57
-],
-[
-"Oriental Magpie Robin",
-57
-],
-[
-"Oriental Magpie-robin",
-57
-],
-[
-"Oriental Magpie-Robin",
-57
-],
-[
-"water pipit",
-57
-],
-[
-"Water Pipit",
-57
-],
-[
 "spanish sparrow",
 57
 ],
@@ -2544,7 +2556,51 @@
 57
 ],
 [
-"King Quail",
+"Keel-billed Toucan",
+57
+],
+[
+"House Crow",
+57
+],
+[
+"Nicobar Pigeon",
+57
+],
+[
+"Hamerkop",
+57
+],
+[
+"European Shag",
+57
+],
+[
+"Chinstrap Penguin",
+56
+],
+[
+"Yellow eyed penguin",
+56
+],
+[
+"Yellow-eyed Penguin",
+56
+],
+[
+"Magellanic Penguin",
+56
+],
+[
+"marsh warbler",
+56
+],
+[
+"Marsh Warbler",
+56
+],
+[
+"Oilbird",
 56
 ],
 [
@@ -2560,35 +2616,19 @@
 56
 ],
 [
-"Oilbird",
+"aquatic warbler",
 56
 ],
 [
-"Blue-footed Booby",
+"Aquatic Warbler",
 56
 ],
 [
-"African Houbara",
+"Black-necked swan",
 56
 ],
 [
-"African Houbara Bustard",
-56
-],
-[
-"Houbara Bustard",
-56
-],
-[
-"Pallas's Gull",
-56
-],
-[
-"Magellanic Penguin",
-56
-],
-[
-"Northern Bald Ibis",
+"Black-necked Swan",
 56
 ],
 [
@@ -2604,7 +2644,63 @@
 56
 ],
 [
+"Northern Bald Ibis",
+56
+],
+[
 "Waldrapp",
+56
+],
+[
+"King Quail",
+56
+],
+[
+"Eastern Red-rumped Swallow",
+56
+],
+[
+"Baikal Teal",
+56
+],
+[
+"African Houbara",
+56
+],
+[
+"African Houbara Bustard",
+56
+],
+[
+"Houbara Bustard",
+56
+],
+[
+"Swan Goose",
+56
+],
+[
+"Yellow-browed Warbler",
+56
+],
+[
+"Common Hill Myna",
+56
+],
+[
+"Tawny Eagle",
+56
+],
+[
+"Blue-footed Booby",
+56
+],
+[
+"Black Drongo",
+56
+],
+[
+"Pallas's Gull",
 56
 ],
 [
@@ -2616,59 +2712,7 @@
 56
 ],
 [
-"Yellow eyed penguin",
-56
-],
-[
-"Yellow-eyed Penguin",
-56
-],
-[
-"Chinstrap Penguin",
-56
-],
-[
-"Baikal Teal",
-56
-],
-[
-"Tawny Eagle",
-56
-],
-[
-"Swan Goose",
-56
-],
-[
-"Black-necked swan",
-56
-],
-[
-"Black-necked Swan",
-56
-],
-[
-"Eastern Red-rumped Swallow",
-56
-],
-[
-"Common Hill Myna",
-56
-],
-[
-"marsh warbler",
-56
-],
-[
-"Marsh Warbler",
-56
-],
-[
-"aquatic warbler",
-56
-],
-[
-"Aquatic Warbler",
+"Collared Flycatcher",
 56
 ],
 [
@@ -2676,51 +2720,7 @@
 56
 ],
 [
-"Black Drongo",
-56
-],
-[
-"Yellow-browed Warbler",
-56
-],
-[
-"Collared Flycatcher",
-56
-],
-[
-"Southern Cassowary",
-55
-],
-[
-"Red-wattled Lapwing",
-55
-],
-[
-"Red-wattled Plover",
-55
-],
-[
-"Steller's Sea Eagle",
-55
-],
-[
-"Steller's Sea-eagle",
-55
-],
-[
-"Steller's Sea-Eagle",
-55
-],
-[
-"Steller’s Sea Eagle",
-55
-],
-[
-"Jabiru",
-55
-],
-[
-"Brahminy Kite",
+"Barred Warbler",
 55
 ],
 [
@@ -2728,19 +2728,15 @@
 55
 ],
 [
-"Toco Toucan",
-55
-],
-[
-"yellow-breasted bunting",
-55
-],
-[
-"Yellow-breasted Bunting",
+"Jabiru",
 55
 ],
 [
 "Rock Bunting",
+55
+],
+[
+"Alpine Accentor",
 55
 ],
 [
@@ -2752,7 +2748,35 @@
 55
 ],
 [
-"Alpine Accentor",
+"Steller's Sea-eagle",
+55
+],
+[
+"Steller's Sea Eagle",
+55
+],
+[
+"Steller’s Sea Eagle",
+55
+],
+[
+"Steller's Sea-Eagle",
+55
+],
+[
+"yellow-breasted bunting",
+55
+],
+[
+"Yellow-breasted Bunting",
+55
+],
+[
+"Southern Cassowary",
+55
+],
+[
+"Toco Toucan",
 55
 ],
 [
@@ -2768,6 +2792,10 @@
 55
 ],
 [
+"Brahminy Kite",
+55
+],
+[
 "Northern Cardinal",
 55
 ],
@@ -2776,15 +2804,19 @@
 55
 ],
 [
-"Barred Warbler",
+"Red-wattled Lapwing",
 55
 ],
 [
-"Collared Pratincole",
+"Red-wattled Plover",
+55
+],
+[
+"Saddlebill",
 54
 ],
 [
-"Greater Sand Plover",
+"Saddle-billed Stork",
 54
 ],
 [
@@ -2796,31 +2828,11 @@
 54
 ],
 [
-"Asian Koel",
+"Greater Sand Plover",
 54
 ],
 [
-"Common Koel",
-54
-],
-[
-"Western Koel",
-54
-],
-[
-"Laughing Dove",
-54
-],
-[
-"Saddle-billed Stork",
-54
-],
-[
-"Saddlebill",
-54
-],
-[
-"Scarlet Ibis",
+"Willow Tit",
 54
 ],
 [
@@ -2828,7 +2840,31 @@
 54
 ],
 [
+"woodchat shrike",
+54
+],
+[
+"Woodchat Shrike",
+54
+],
+[
 "Lesser Whistling Duck",
+54
+],
+[
+"rustic bunting",
+54
+],
+[
+"Rustic Bunting",
+54
+],
+[
+"Wood Duck",
+54
+],
+[
+"Collared Pratincole",
 54
 ],
 [
@@ -2844,27 +2880,11 @@
 54
 ],
 [
-"Wood Duck",
+"Laughing Dove",
 54
 ],
 [
-"rustic bunting",
-54
-],
-[
-"Rustic Bunting",
-54
-],
-[
-"Rhinoceros Hornbill",
-54
-],
-[
-"woodchat shrike",
-54
-],
-[
-"Woodchat Shrike",
+"Scarlet Ibis",
 54
 ],
 [
@@ -2876,8 +2896,44 @@
 54
 ],
 [
-"Willow Tit",
+"Rhinoceros Hornbill",
 54
+],
+[
+"Asian Koel",
+54
+],
+[
+"Common Koel",
+54
+],
+[
+"Western Koel",
+54
+],
+[
+"King Eider",
+53
+],
+[
+"Zitting Cisticola",
+53
+],
+[
+"Crab-plover",
+53
+],
+[
+"Pine Grosbeak",
+53
+],
+[
+"Turkey Vulture",
+53
+],
+[
+"Greater Short-toed Lark",
+53
 ],
 [
 "Black-necked Crane",
@@ -2888,15 +2944,47 @@
 53
 ],
 [
-"Japanese Quail",
+"African Openbill",
 53
 ],
 [
-"Crab-plover",
+"Openbill Stork",
 53
 ],
 [
-"scops owl",
+"Striated Heron",
+53
+],
+[
+"Sociable Lapwing",
+53
+],
+[
+"Sociable Plover",
+53
+],
+[
+"blyth’s reed warbler",
+53
+],
+[
+"Blyth's Reed-warbler",
+53
+],
+[
+"Blyth's Reed Warbler",
+53
+],
+[
+"Blyth’s Reed Warbler",
+53
+],
+[
+"Blyth's Reed-Warbler",
+53
+],
+[
+"Palm Cockatoo",
 53
 ],
 [
@@ -2908,15 +2996,11 @@
 53
 ],
 [
-"Striated Heron",
-53
-],
-[
 "Brown Booby",
 53
 ],
 [
-"Masked Booby",
+"Savi's Warbler",
 53
 ],
 [
@@ -2932,18 +3016,6 @@
 53
 ],
 [
-"Sociable Lapwing",
-53
-],
-[
-"Sociable Plover",
-53
-],
-[
-"King Eider",
-53
-],
-[
 "Lanner",
 53
 ],
@@ -2952,51 +3024,7 @@
 53
 ],
 [
-"African Openbill",
-53
-],
-[
-"Openbill Stork",
-53
-],
-[
-"Turkey Vulture",
-53
-],
-[
-"Palm Cockatoo",
-53
-],
-[
-"Zitting Cisticola",
-53
-],
-[
-"Savi's Warbler",
-53
-],
-[
-"Blyth's Reed Warbler",
-53
-],
-[
-"Blyth's Reed-warbler",
-53
-],
-[
-"Blyth's Reed-Warbler",
-53
-],
-[
-"blyth’s reed warbler",
-53
-],
-[
-"Blyth’s Reed Warbler",
-53
-],
-[
-"Pine Grosbeak",
+"Masked Booby",
 53
 ],
 [
@@ -3004,47 +3032,15 @@
 53
 ],
 [
-"Greater Short-toed Lark",
+"Japanese Quail",
 53
 ],
 [
-"Slender-billed Curlew",
-52
-],
-[
-"black-winged pratincole",
-52
-],
-[
-"Black-winged Pratincole",
-52
+"scops owl",
+53
 ],
 [
 "Pheasant-tailed Jacana",
-52
-],
-[
-"Roseate Tern",
-52
-],
-[
-"Roseate spoonbill",
-52
-],
-[
-"Roseate Spoonbill",
-52
-],
-[
-"Australian Pelican",
-52
-],
-[
-"Slender-billed Gull",
-52
-],
-[
-"Red-footed Booby",
 52
 ],
 [
@@ -3052,11 +3048,11 @@
 52
 ],
 [
-"Toroa",
+"Man-of-War Bird",
 52
 ],
 [
-"Man-of-War Bird",
+"Toroa",
 52
 ],
 [
@@ -3065,6 +3061,38 @@
 ],
 [
 "White-winged Albatross",
+52
+],
+[
+"Red-footed Booby",
+52
+],
+[
+"Australian Pelican",
+52
+],
+[
+"Little Auk",
+52
+],
+[
+"Middle Spotted Woodpecker",
+52
+],
+[
+"Roseate Tern",
+52
+],
+[
+"two-barred crossbill",
+52
+],
+[
+"Two-barred Crossbill",
+52
+],
+[
+"White-winged Crossbill",
 52
 ],
 [
@@ -3084,7 +3112,19 @@
 52
 ],
 [
-"White-bellied Sea Eagle",
+"Roseate spoonbill",
+52
+],
+[
+"Roseate Spoonbill",
+52
+],
+[
+"Slender-billed Gull",
+52
+],
+[
+"Knob-billed Duck",
 52
 ],
 [
@@ -3092,19 +3132,7 @@
 52
 ],
 [
-"Indian Pond Heron",
-52
-],
-[
-"Indian Pond-heron",
-52
-],
-[
-"Yellow-billed Stork",
-52
-],
-[
-"Little Auk",
+"White-bellied Sea Eagle",
 52
 ],
 [
@@ -3112,7 +3140,27 @@
 52
 ],
 [
-"Knob-billed Duck",
+"Long-tailed Tits, Bushtits",
+52
+],
+[
+"Indian Pond-heron",
+52
+],
+[
+"Indian Pond Heron",
+52
+],
+[
+"Yellow-billed Stork",
+52
+],
+[
+"black-winged pratincole",
+52
+],
+[
+"Black-winged Pratincole",
 52
 ],
 [
@@ -3128,27 +3176,7 @@
 52
 ],
 [
-"two-barred crossbill",
-52
-],
-[
-"Two-barred Crossbill",
-52
-],
-[
-"White-winged Crossbill",
-52
-],
-[
-"Long-tailed Tits, Bushtits",
-52
-],
-[
-"Middle Spotted Woodpecker",
-52
-],
-[
-"Brown Shrike",
+"Slender-billed Curlew",
 52
 ],
 [
@@ -3158,6 +3186,42 @@
 [
 "Desert Wheatear",
 52
+],
+[
+"Brown Shrike",
+52
+],
+[
+"Goliath Heron",
+51
+],
+[
+"Galah",
+51
+],
+[
+"Typical warblers",
+51
+],
+[
+"Steller's Eider",
+51
+],
+[
+"Sabine's Gull",
+51
+],
+[
+"Spur-winged Goose",
+51
+],
+[
+"Indian Vulture",
+51
+],
+[
+"Pectoral Sandpiper",
+51
 ],
 [
 "Black Francolin",
@@ -3172,19 +3236,11 @@
 51
 ],
 [
-"White-breasted Waterhen",
+"Martial eagle",
 51
 ],
 [
-"Pectoral Sandpiper",
-51
-],
-[
-"Yellow-legged Gull",
-51
-],
-[
-"Oriental Turtle Dove",
+"Martial Eagle",
 51
 ],
 [
@@ -3196,18 +3252,6 @@
 51
 ],
 [
-"Goliath Heron",
-51
-],
-[
-"Black-necked Stork",
-51
-],
-[
-"Indian Vulture",
-51
-],
-[
 "Painted Stork",
 51
 ],
@@ -3216,7 +3260,11 @@
 51
 ],
 [
-"Sabine's Gull",
+"Yellow-legged Gull",
+51
+],
+[
+"Oriental Turtle Dove",
 51
 ],
 [
@@ -3224,11 +3272,11 @@
 51
 ],
 [
-"Fulvous Whistling Duck",
+"Fulvous Whistling-duck",
 51
 ],
 [
-"Fulvous Whistling-duck",
+"Fulvous Whistling Duck",
 51
 ],
 [
@@ -3236,39 +3284,27 @@
 51
 ],
 [
-"Steller's Eider",
-51
-],
-[
-"Martial eagle",
-51
-],
-[
-"Martial Eagle",
-51
-],
-[
-"Spur-winged Goose",
-51
-],
-[
-"Galah",
-51
-],
-[
 "Alexandrine Parakeet",
 51
 ],
 [
-"Typical warblers",
+"White-breasted Waterhen",
 51
 ],
 [
-"sandhill crane",
+"Black-necked Stork",
+51
+],
+[
+"Red-flanked Bluetail",
 50
 ],
 [
-"Sandhill Crane",
+"Manx Shearwater",
+50
+],
+[
+"Eleonora's Falcon",
 50
 ],
 [
@@ -3280,11 +3316,7 @@
 50
 ],
 [
-"Purple Sandpiper",
-50
-],
-[
-"Lesser Sand Plover",
+"Oriental Darter",
 50
 ],
 [
@@ -3292,55 +3324,7 @@
 50
 ],
 [
-"Western Reef Heron",
-50
-],
-[
-"Black Bittern",
-50
-],
-[
-"Andean Flamingo",
-50
-],
-[
-"Oriental Darter",
-50
-],
-[
-"Eleonora's Falcon",
-50
-],
-[
-"Red-headed Vulture",
-50
-],
-[
-"Manx Shearwater",
-50
-],
-[
-"White Cockatoo",
-50
-],
-[
-"New Zealand Kaka",
-50
-],
-[
-"Asian Green Bee-eater",
-50
-],
-[
-"Pallas's Leaf Warbler",
-50
-],
-[
-"White-breasted Kingfisher",
-50
-],
-[
-"White-throated Kingfisher",
+"Lesser Sand Plover",
 50
 ],
 [
@@ -3356,19 +3340,67 @@
 50
 ],
 [
+"Western Reef Heron",
+50
+],
+[
+"Asian Green Bee-eater",
+50
+],
+[
+"Andean Flamingo",
+50
+],
+[
+"White Cockatoo",
+50
+],
+[
 "Azure Tit",
 50
 ],
 [
-"Red-flanked Bluetail",
+"sandhill crane",
 50
 ],
 [
-"Somali Ostrich",
+"Sandhill Crane",
+50
+],
+[
+"Purple Sandpiper",
+50
+],
+[
+"New Zealand Kaka",
+50
+],
+[
+"Red-headed Vulture",
+50
+],
+[
+"White-breasted Kingfisher",
+50
+],
+[
+"White-throated Kingfisher",
+50
+],
+[
+"Pallas's Leaf Warbler",
+50
+],
+[
+"Black Bittern",
+50
+],
+[
+"cirl bunting",
 49
 ],
 [
-"Himalayan Monal",
+"Cirl Bunting",
 49
 ],
 [
@@ -3380,23 +3412,23 @@
 49
 ],
 [
+"Blue-cheeked Bee-eater",
+49
+],
+[
+"Somali Ostrich",
+49
+],
+[
+"Boat-billed Heron",
+49
+],
+[
 "Black Guillemot",
 49
 ],
 [
-"Great Horned Owl",
-49
-],
-[
-"Anserinae",
-49
-],
-[
-"Ivory Gull",
-49
-],
-[
-"Rüppell's Vulture",
+"Macaroni Penguin",
 49
 ],
 [
@@ -3404,7 +3436,7 @@
 49
 ],
 [
-"Macaroni Penguin",
+"Rufous Treepie",
 49
 ],
 [
@@ -3416,59 +3448,11 @@
 49
 ],
 [
-"Black Eagle",
+"western black-eared wheatear",
 49
 ],
 [
-"Ruddy Duck",
-49
-],
-[
-"American Kestrel",
-49
-],
-[
-"Boat-billed Heron",
-49
-],
-[
-"Crested Honey Buzzard",
-49
-],
-[
-"Ring-necked Duck",
-49
-],
-[
-"Booted Warbler",
-49
-],
-[
-"Blue-cheeked Bee-eater",
-49
-],
-[
-"cirl bunting",
-49
-],
-[
-"Cirl Bunting",
-49
-],
-[
-"Cetti's Warbler",
-49
-],
-[
-"Laughing Kookaburra",
-49
-],
-[
-"Kookaburra",
-49
-],
-[
-"Pied Crow",
+"Western Black-eared Wheatear",
 49
 ],
 [
@@ -3476,7 +3460,47 @@
 49
 ],
 [
-"Rufous Treepie",
+"Rüppell's Vulture",
+49
+],
+[
+"Ring-necked Duck",
+49
+],
+[
+"Crested Honey Buzzard",
+49
+],
+[
+"Anserinae",
+49
+],
+[
+"Ruddy Duck",
+49
+],
+[
+"Cetti's Warbler",
+49
+],
+[
+"American Kestrel",
+49
+],
+[
+"Ivory Gull",
+49
+],
+[
+"Himalayan Monal",
+49
+],
+[
+"Black Eagle",
+49
+],
+[
+"Booted Warbler",
 49
 ],
 [
@@ -3488,23 +3512,35 @@
 49
 ],
 [
-"western black-eared wheatear",
+"Great Horned Owl",
 49
 ],
 [
-"Western Black-eared Wheatear",
+"Kookaburra",
 49
 ],
 [
-"Blue Crane",
+"Laughing Kookaburra",
+49
+],
+[
+"Pied Crow",
+49
+],
+[
+"Large-billed Crow",
 48
 ],
 [
-"Blue crane",
+"short-toed treecreeper",
 48
 ],
 [
-"Stanley Crane",
+"Short-toed Treecreeper",
+48
+],
+[
+"African Jacana",
 48
 ],
 [
@@ -3524,11 +3560,39 @@
 48
 ],
 [
+"Scopoli's Shearwater",
+48
+],
+[
+"tyrant flycatcher",
+48
+],
+[
+"Agami Heron",
+48
+],
+[
 "Cream-coloured Courser",
 48
 ],
 [
-"African Jacana",
+"Intermediate Egret",
+48
+],
+[
+"Siberian Rubythroat",
+48
+],
+[
+"American Wigeon",
+48
+],
+[
+"White-backed Vulture",
+48
+],
+[
+"Sooty Tern",
 48
 ],
 [
@@ -3552,15 +3616,11 @@
 48
 ],
 [
-"Sooty Tern",
+"Great Blue Heron",
 48
 ],
 [
 "Eastern Reef Egret",
-48
-],
-[
-"Pacific Reef Heron",
 48
 ],
 [
@@ -3572,19 +3632,19 @@
 48
 ],
 [
+"Pacific Reef Heron",
+48
+],
+[
 "Reef Heron",
 48
 ],
 [
-"American White Pelican",
+"Blue-throated Macaw",
 48
 ],
 [
-"Intermediate Egret",
-48
-],
-[
-"Great Blue Heron",
+"Red-vented Bulbul",
 48
 ],
 [
@@ -3596,30 +3656,6 @@
 48
 ],
 [
-"White-backed Vulture",
-48
-],
-[
-"Scopoli's Shearwater",
-48
-],
-[
-"Red-naped Ibis",
-48
-],
-[
-"Agami Heron",
-48
-],
-[
-"Kagu",
-48
-],
-[
-"Jacobin Cuckoo",
-48
-],
-[
 "Lesser Adjutant",
 48
 ],
@@ -3628,23 +3664,7 @@
 48
 ],
 [
-"Royal Penguin",
-48
-],
-[
-"American Wigeon",
-48
-],
-[
-"Spotted Owlet",
-48
-],
-[
-"White-faced Whistling Duck",
-48
-],
-[
-"White-faced Whistling-duck",
+"Kagu",
 48
 ],
 [
@@ -3652,47 +3672,7 @@
 48
 ],
 [
-"Yellow Bittern",
-48
-],
-[
-"Emperor Goose",
-48
-],
-[
-"short-toed treecreeper",
-48
-],
-[
-"Short-toed Treecreeper",
-48
-],
-[
-"Paddyfield Warbler",
-48
-],
-[
-"Blue-throated Macaw",
-48
-],
-[
-"Bali Myna",
-48
-],
-[
-"tyrant flycatcher",
-48
-],
-[
-"Large-billed Crow",
-48
-],
-[
-"Red-vented Bulbul",
-48
-],
-[
-"European Stonechat",
+"American White Pelican",
 48
 ],
 [
@@ -3700,55 +3680,71 @@
 48
 ],
 [
+"White-faced Whistling-duck",
+48
+],
+[
+"White-faced Whistling Duck",
+48
+],
+[
+"Royal Penguin",
+48
+],
+[
+"Emperor Goose",
+48
+],
+[
+"Blue crane",
+48
+],
+[
+"Blue Crane",
+48
+],
+[
+"Stanley Crane",
+48
+],
+[
+"Bali Myna",
+48
+],
+[
+"Paddyfield Warbler",
+48
+],
+[
+"European Stonechat",
+48
+],
+[
+"Spotted Owlet",
+48
+],
+[
+"Jacobin Cuckoo",
+48
+],
+[
+"Red-naped Ibis",
+48
+],
+[
+"Yellow Bittern",
+48
+],
+[
 "Richard's Pipit",
 48
 ],
 [
-"Siberian Rubythroat",
-48
-],
-[
-"Rock Partridge",
-47
-],
-[
-"South Polar Skua",
-47
-],
-[
-"Green Junglefowl",
+"Leach's Storm Petrel",
 47
 ],
 [
 "Ibisbill",
-47
-],
-[
-"Limpkin",
-47
-],
-[
-"Little Cormorant",
-47
-],
-[
-"long-billed dowitcher",
-47
-],
-[
-"Long-billed Dowitcher",
-47
-],
-[
-"Ring-billed Gull",
-47
-],
-[
-"Great Frigatebird",
-47
-],
-[
-"Common Emerald Dove",
 47
 ],
 [
@@ -3760,63 +3756,15 @@
 47
 ],
 [
-"Ross's Gull",
+"long-billed dowitcher",
 47
 ],
 [
-"White-tailed Lapwing",
+"Long-billed Dowitcher",
 47
 ],
 [
-"great spotted cuckoo",
-47
-],
-[
-"Great Spotted Cuckoo",
-47
-],
-[
-"Southern Rockhopper Penguin",
-47
-],
-[
-"Rockhopper Penguin",
-47
-],
-[
-"Leach's Storm Petrel",
-47
-],
-[
-"Greater Coucal",
-47
-],
-[
-"Red-whiskered Bulbul",
-47
-],
-[
-"American Bittern",
-47
-],
-[
-"Trumpeter Swan",
-47
-],
-[
-"arctic warbler",
-47
-],
-[
-"Arctic Warbler",
-47
-],
-[
-"Western Rock Nuthatch",
-47
-],
-[
-"Syrian Woodpecker",
+"Rock Partridge",
 47
 ],
 [
@@ -3824,7 +3772,15 @@
 47
 ],
 [
-"European Rock Pipit",
+"Red-whiskered Bulbul",
+47
+],
+[
+"South Polar Skua",
+47
+],
+[
+"Green Junglefowl",
 47
 ],
 [
@@ -3836,23 +3792,87 @@
 47
 ],
 [
-"Whooping Crane",
+"European Rock Pipit",
+47
+],
+[
+"Great Frigatebird",
+47
+],
+[
+"great spotted cuckoo",
+47
+],
+[
+"Great Spotted Cuckoo",
+47
+],
+[
+"Rockhopper Penguin",
+47
+],
+[
+"Southern Rockhopper Penguin",
+47
+],
+[
+"arctic warbler",
+47
+],
+[
+"Arctic Warbler",
+47
+],
+[
+"Little Cormorant",
+47
+],
+[
+"Limpkin",
+47
+],
+[
+"Trumpeter Swan",
+47
+],
+[
+"American Bittern",
+47
+],
+[
+"Ross's Gull",
+47
+],
+[
+"Western Rock Nuthatch",
+47
+],
+[
+"Syrian Woodpecker",
+47
+],
+[
+"Ring-billed Gull",
+47
+],
+[
+"Greater Coucal",
+47
+],
+[
+"Common Emerald Dove",
+47
+],
+[
+"White-tailed Lapwing",
+47
+],
+[
+"African Crake",
 46
 ],
 [
-"Lesser Rhea",
-46
-],
-[
-"Brolga",
-46
-],
-[
-"Great Argus",
-46
-],
-[
-"Little Swift",
+"Coscoroba Swan",
 46
 ],
 [
@@ -3868,111 +3888,23 @@
 46
 ],
 [
-"Long-toed Stint",
+"pine bunting",
 46
 ],
 [
-"Indian Cormorant",
+"Pine Bunting",
 46
 ],
 [
-"African Crake",
+"Indian grey hornbill",
 46
 ],
 [
-"Black-faced Spoonbill",
+"Indian Grey-hornbill",
 46
 ],
 [
-"Black-bellied Sandgrouse",
-46
-],
-[
-"Mourning Dove",
-46
-],
-[
-"American White Ibis",
-46
-],
-[
-"White Ibis",
-46
-],
-[
-"Chinese Pond Heron",
-46
-],
-[
-"Victoria Crowned Pigeon",
-46
-],
-[
-"Victoria Crowned-pigeon",
-46
-],
-[
-"Victoria Crowned-Pigeon",
-46
-],
-[
-"Victoria Goura",
-46
-],
-[
-"Fiordland Penguin",
-46
-],
-[
-"Wood Stork",
-46
-],
-[
-"Wood Hoopoe",
-46
-],
-[
-"Adalbert's Eagle",
-46
-],
-[
-"Spanish Eagle",
-46
-],
-[
-"Spanish Imperial Eagle",
-46
-],
-[
-"Wilson's Storm-petrel",
-46
-],
-[
-"Wilson's Storm-Petrel",
-46
-],
-[
-"wilsons storm-petrel",
-46
-],
-[
-"Bateleur",
-46
-],
-[
-"Wilson's Storm Petrel",
-46
-],
-[
-"Coscoroba Swan",
-46
-],
-[
-"Nene",
-46
-],
-[
-"Hawaiian Goose",
+"Indian Grey Hornbill",
 46
 ],
 [
@@ -3988,19 +3920,7 @@
 46
 ],
 [
-"Moluccan Cockatoo",
-46
-],
-[
-"Salmon-crested Cockatoo",
-46
-],
-[
-"Indian Spot-billed Duck",
-46
-],
-[
-"Yellow-crested Cockatoo",
+"American Crow",
 46
 ],
 [
@@ -4008,11 +3928,19 @@
 46
 ],
 [
-"pine bunting",
+"Yellow-crested Cockatoo",
 46
 ],
 [
-"Pine Bunting",
+"Black-bellied Sandgrouse",
+46
+],
+[
+"Moustached Warbler",
+46
+],
+[
+"Whooping Crane",
 46
 ],
 [
@@ -4024,19 +3952,23 @@
 46
 ],
 [
-"Moustached Warbler",
+"Black-faced Spoonbill",
 46
 ],
 [
-"Indian grey hornbill",
+"Chinese Pond Heron",
 46
 ],
 [
-"Indian Grey Hornbill",
+"Adalbert's Eagle",
 46
 ],
 [
-"Indian Grey-hornbill",
+"Spanish Eagle",
+46
+],
+[
+"Spanish Imperial Eagle",
 46
 ],
 [
@@ -4048,15 +3980,87 @@
 46
 ],
 [
-"American Crow",
+"Victoria Crowned-pigeon",
 46
 ],
 [
-"Long-tailed Shrike",
+"Victoria Crowned Pigeon",
 46
 ],
 [
-"Isabelline Shrike",
+"Victoria Crowned-Pigeon",
+46
+],
+[
+"Victoria Goura",
+46
+],
+[
+"American White Ibis",
+46
+],
+[
+"White Ibis",
+46
+],
+[
+"wilsons storm-petrel",
+46
+],
+[
+"Wilson's Storm-petrel",
+46
+],
+[
+"Wilson's Storm Petrel",
+46
+],
+[
+"Wilson's Storm-Petrel",
+46
+],
+[
+"Little Swift",
+46
+],
+[
+"Fiordland Penguin",
+46
+],
+[
+"Great Argus",
+46
+],
+[
+"Hawaiian Goose",
+46
+],
+[
+"Nene",
+46
+],
+[
+"Bateleur",
+46
+],
+[
+"Lesser Rhea",
+46
+],
+[
+"Moluccan Cockatoo",
+46
+],
+[
+"Salmon-crested Cockatoo",
+46
+],
+[
+"Indian Cormorant",
+46
+],
+[
+"Mourning Dove",
 46
 ],
 [
@@ -4064,83 +4068,43 @@
 46
 ],
 [
-"Southern Brown Kiwi",
+"Wood Hoopoe",
+46
+],
+[
+"Isabelline Shrike",
+46
+],
+[
+"Long-tailed Shrike",
+46
+],
+[
+"Indian Spot-billed Duck",
+46
+],
+[
+"Long-toed Stint",
+46
+],
+[
+"Brolga",
+46
+],
+[
+"Wood Stork",
+46
+],
+[
+"Yellow-footed Green-pigeon",
 45
 ],
 [
-"Tokoeka",
+"Yellow-footed Green Pigeon",
 45
 ],
 [
-"Lady Amherst's Pheasant",
-45
-],
-[
-"Lady Amherst’s Pheasant",
-45
-],
-[
-"Blood Pheasant",
-45
-],
-[
-"Green Pheasant",
-45
-],
-[
-"Booby",
-45
-],
-[
-"Wilson's Phalarope",
-45
-],
-[
-"Buff-breasted Sandpiper",
-45
-],
-[
-"Great Knot",
-45
-],
-[
-"lesser yellowlegs",
-45
-],
-[
-"Lesser Yellowlegs",
-45
-],
-[
-"Caspian Plover",
-45
-],
-[
-"Red-tailed Tropicbird",
-45
-],
-[
-"Greater Painted-snipe",
-45
-],
-[
-"Watercock",
-45
-],
-[
-"Bronze-winged Jacana",
-45
-],
-[
-"Bridled Tern",
-45
-],
-[
-"Green Imperial Pigeon",
-45
-],
-[
-"Green Imperial-pigeon",
+"Yellow-footed Green-Pigeon",
 45
 ],
 [
@@ -4156,27 +4120,103 @@
 45
 ],
 [
-"Magnificent Frigatebird",
+"Great Knot",
 45
 ],
 [
-"Snowy Egret",
+"hooded merganser",
 45
 ],
 [
-"Australasian Gannet",
+"Hooded Merganser",
 45
 ],
 [
-"Australian Gannet",
+"Ross's Goose",
 45
 ],
 [
-"Indian Bustard",
+"Sooty Shearwater",
 45
 ],
 [
-"Great Indian Bustard",
+"White-rumped Shama",
+45
+],
+[
+"Buff-breasted Sandpiper",
+45
+],
+[
+"lesser yellowlegs",
+45
+],
+[
+"Lesser Yellowlegs",
+45
+],
+[
+"Bridled Tern",
+45
+],
+[
+"Greater Painted-snipe",
+45
+],
+[
+"dusky warbler",
+45
+],
+[
+"Dusky Warbler",
+45
+],
+[
+"Green-billed Toucan",
+45
+],
+[
+"Red-breasted Toucan",
+45
+],
+[
+"Freckled Duck",
+45
+],
+[
+"Lady Amherst's Pheasant",
+45
+],
+[
+"Lady Amherst’s Pheasant",
+45
+],
+[
+"Green Pheasant",
+45
+],
+[
+"Wilson's Phalarope",
+45
+],
+[
+"Red-tailed Hawk",
+45
+],
+[
+"Anhinga",
+45
+],
+[
+"Amur Falcon",
+45
+],
+[
+"Eastern Red-footed Falcon",
+45
+],
+[
+"Watercock",
 45
 ],
 [
@@ -4188,23 +4228,107 @@
 45
 ],
 [
-"Yellow-footed Green Pigeon",
+"White-backed Duck",
 45
 ],
 [
-"Yellow-footed Green-pigeon",
+"Indian Paradise Flycatcher",
 45
 ],
 [
-"Yellow-footed Green-Pigeon",
+"Bufflehead",
 45
 ],
 [
-"Anhinga",
+"Snowy Egret",
 45
 ],
 [
-"Brown Fish Owl",
+"Black-browed albatross",
+45
+],
+[
+"Black-browed Albatross",
+45
+],
+[
+"Fischer's Lovebird",
+45
+],
+[
+"Booby",
+45
+],
+[
+"parrot crossbill",
+45
+],
+[
+"Parrot Crossbill",
+45
+],
+[
+"Magnificent Frigatebird",
+45
+],
+[
+"Southern Brown Kiwi",
+45
+],
+[
+"Tokoeka",
+45
+],
+[
+"olive-backed pipit",
+45
+],
+[
+"Olive-backed Pipit",
+45
+],
+[
+"Brünnich's Guillemot",
+45
+],
+[
+"Thick-billed Murre",
+45
+],
+[
+"Gang-gang Cockatoo",
+45
+],
+[
+"Caspian Plover",
+45
+],
+[
+"Bronze-winged Jacana",
+45
+],
+[
+"Red-tailed Tropicbird",
+45
+],
+[
+"Australasian Gannet",
+45
+],
+[
+"Australian Gannet",
+45
+],
+[
+"radde’s warbler",
+45
+],
+[
+"Radde's Warbler",
+45
+],
+[
+"Radde’s Warbler",
 45
 ],
 [
@@ -4212,7 +4336,59 @@
 45
 ],
 [
+"Brown Fish Owl",
+45
+],
+[
+"Lesser Scaup",
+45
+],
+[
+"Military Macaw",
+45
+],
+[
+"Cotton Pygmy-goose",
+45
+],
+[
+"Cotton Pygmy Goose",
+45
+],
+[
+"Cotton Pygmy-Goose",
+45
+],
+[
+"Blood Pheasant",
+45
+],
+[
 "Abbott's Booby",
+45
+],
+[
+"Green Imperial-pigeon",
+45
+],
+[
+"Green Imperial Pigeon",
+45
+],
+[
+"Great Indian Bustard",
+45
+],
+[
+"Indian Bustard",
+45
+],
+[
+"Rufous-cheeked Hornbill",
+45
+],
+[
+"Rufous-necked Hornbill",
 45
 ],
 [
@@ -4232,167 +4408,27 @@
 45
 ],
 [
-"Red-tailed Hawk",
-45
-],
-[
-"Black-browed albatross",
-45
-],
-[
-"Black-browed Albatross",
-45
-],
-[
-"Amur Falcon",
-45
-],
-[
-"Eastern Red-footed Falcon",
-45
-],
-[
-"Sooty Shearwater",
-45
-],
-[
-"Ross's Goose",
-45
-],
-[
-"White-backed Duck",
-45
-],
-[
-"Freckled Duck",
-45
-],
-[
-"hooded merganser",
-45
-],
-[
-"Hooded Merganser",
-45
-],
-[
-"Rufous-cheeked Hornbill",
-45
-],
-[
-"Rufous-necked Hornbill",
-45
-],
-[
-"Lesser Scaup",
-45
-],
-[
-"Cotton Pygmy Goose",
-45
-],
-[
-"Cotton Pygmy-goose",
-45
-],
-[
-"Cotton Pygmy-Goose",
-45
-],
-[
-"Brünnich's Guillemot",
-45
-],
-[
-"Thick-billed Murre",
-45
-],
-[
-"Bufflehead",
-45
-],
-[
-"Indian Paradise Flycatcher",
-45
-],
-[
-"Green-billed Toucan",
-45
-],
-[
-"Red-breasted Toucan",
-45
-],
-[
-"Military Macaw",
-45
-],
-[
-"Gang-gang Cockatoo",
-45
-],
-[
-"parrot crossbill",
-45
-],
-[
-"Parrot Crossbill",
-45
-],
-[
-"dusky warbler",
-45
-],
-[
-"Dusky Warbler",
-45
-],
-[
-"Radde's Warbler",
-45
-],
-[
-"radde’s warbler",
-45
-],
-[
-"Radde’s Warbler",
-45
-],
-[
-"Fischer's Lovebird",
-45
-],
-[
-"White-rumped Shama",
-45
-],
-[
-"olive-backed pipit",
-45
-],
-[
-"Olive-backed Pipit",
-45
-],
-[
-"Ocellated Turkey",
+"Australian Magpie",
 44
 ],
 [
-"Caucasian Black Grouse",
+"New Zealand Pigeon",
 44
 ],
 [
-"Caucasian Grouse",
+"Red Collared Dove",
 44
 ],
 [
-"Hooded Crane",
+"Northern Flicker",
 44
 ],
 [
-"Northern Cassowary",
+"Yellow-shafted Flicker",
+44
+],
+[
+"Lesser Crested Tern",
 44
 ],
 [
@@ -4408,15 +4444,35 @@
 44
 ],
 [
-"Sharp-tailed Sandpiper",
+"Black-headed Heron",
 44
 ],
 [
-"white-rumped sandpiper",
+"Cackling Goose",
 44
 ],
 [
-"White-rumped Sandpiper",
+"Forest Wagtail",
+44
+],
+[
+"Arctic Redpoll",
+44
+],
+[
+"White-naped Crane",
+44
+],
+[
+"Blue-tailed Bee-eater",
+44
+],
+[
+"African Darter",
+44
+],
+[
+"Darter",
 44
 ],
 [
@@ -4428,31 +4484,7 @@
 44
 ],
 [
-"White-naped Crane",
-44
-],
-[
-"Lesser Crested Tern",
-44
-],
-[
-"Hill Pigeon",
-44
-],
-[
-"Snow Pigeon",
-44
-],
-[
-"Great-billed Heron",
-44
-],
-[
-"Red Collared Dove",
-44
-],
-[
-"Black-headed Heron",
+"Hooded Crane",
 44
 ],
 [
@@ -4460,15 +4492,47 @@
 44
 ],
 [
-"Pin-tailed Sandgrouse",
+"White-rumped Munia",
 44
 ],
 [
-"Malay Night-heron",
+"Pink-headed duck",
 44
 ],
 [
-"Malayan Night Heron",
+"Pink-headed Duck",
+44
+],
+[
+"white-rumped sandpiper",
+44
+],
+[
+"White-rumped Sandpiper",
+44
+],
+[
+"Pink Cockatoo",
+44
+],
+[
+"Black-hooded Oriole",
+44
+],
+[
+"Indian Pitta",
+44
+],
+[
+"Baer's Pochard",
+44
+],
+[
+"Spix's Macaw",
+44
+],
+[
+"Royal Albatross",
 44
 ],
 [
@@ -4480,15 +4544,15 @@
 44
 ],
 [
-"Royal Albatross",
+"Wedge-tailed Eagle",
 44
 ],
 [
-"Darter",
+"Pin-tailed Sandgrouse",
 44
 ],
 [
-"African Darter",
+"Yellow-collared Lovebird",
 44
 ],
 [
@@ -4504,11 +4568,11 @@
 44
 ],
 [
-"New Zealand Pigeon",
+"Sharp-tailed Sandpiper",
 44
 ],
 [
-"Wedge-tailed Eagle",
+"Hill Pigeon",
 44
 ],
 [
@@ -4516,19 +4580,7 @@
 44
 ],
 [
-"Pink-headed duck",
-44
-],
-[
-"Pink-headed Duck",
-44
-],
-[
-"Lappet-faced Vulture",
-44
-],
-[
-"Pink Cockatoo",
+"Great-billed Heron",
 44
 ],
 [
@@ -4536,43 +4588,11 @@
 44
 ],
 [
-"American Black Duck",
+"Malayan Night Heron",
 44
 ],
 [
-"Cackling Goose",
-44
-],
-[
-"Baer's Pochard",
-44
-],
-[
-"Blue-tailed Bee-eater",
-44
-],
-[
-"Black-hooded Oriole",
-44
-],
-[
-"Australian Magpie",
-44
-],
-[
-"Northern Flicker",
-44
-],
-[
-"Yellow-shafted Flicker",
-44
-],
-[
-"Arctic Redpoll",
-44
-],
-[
-"Yellow-collared Lovebird",
+"Malay Night-heron",
 44
 ],
 [
@@ -4580,179 +4600,35 @@
 44
 ],
 [
-"Indian Pitta",
+"Lappet-faced Vulture",
 44
 ],
 [
-"Spix's Macaw",
+"Snow Pigeon",
 44
 ],
 [
-"White-rumped Munia",
+"Northern Cassowary",
 44
 ],
 [
-"Forest Wagtail",
+"American Black Duck",
 44
 ],
 [
-"Great Spotted Kiwi",
-43
+"Caucasian Black Grouse",
+44
 ],
 [
-"Snow Partridge",
-43
+"Caucasian Grouse",
+44
 ],
 [
-"Anna's Hummingbird",
-43
-],
-[
-"Weka",
-43
-],
-[
-"Dwarf Cassowary",
-43
-],
-[
-"Fork-tailed Swift",
-43
-],
-[
-"Pacific Swift",
-43
-],
-[
-"Spoon-billed Sandpiper",
-43
-],
-[
-"Wattled Jacana",
-43
-],
-[
-"American Coot",
-43
-],
-[
-"River Tern",
-43
-],
-[
-"Killdeer",
-43
-],
-[
-"Red-billed Tropicbird",
-43
-],
-[
-"White-tailed Tropicbird",
-43
-],
-[
-"Lesser Frigatebird",
-43
-],
-[
-"African Spoonbill",
-43
-],
-[
-"Sunbittern",
-43
-],
-[
-"Royal Spoonbill",
-43
-],
-[
-"Tricolored Heron",
-43
-],
-[
-"Waved Albatross",
-43
-],
-[
-"Short-tailed albatross",
-43
-],
-[
-"Short-tailed Albatross",
-43
-],
-[
-"Milky Stork",
-43
-],
-[
-"Pintado Petrel",
-43
-],
-[
-"Elf Owl",
-43
-],
-[
-"Crested Ibis",
-43
-],
-[
-"Blue Duck",
-43
-],
-[
-"Grass Whistling Duck",
-43
-],
-[
-"Plumed Whistling Duck",
-43
-],
-[
-"Plumed Whistling-duck",
-43
-],
-[
-"Plumed Whistling-Duck",
-43
-],
-[
-"Hooded Vulture",
-43
-],
-[
-"Palm-nut Vulture",
-43
+"Ocellated Turkey",
+44
 ],
 [
 "Ground Hornbill",
-43
-],
-[
-"Blue-winged Goose",
-43
-],
-[
-"Rufous-bellied eagle",
-43
-],
-[
-"Rufous-bellied Eagle",
-43
-],
-[
-"Rufous-bellied Hawk-Eagle",
-43
-],
-[
-"Myna",
-43
-],
-[
-"Pacific Black Duck",
 43
 ],
 [
@@ -4760,15 +4636,7 @@
 43
 ],
 [
-"Violet-backed Starling",
-43
-],
-[
-"Common Iora",
-43
-],
-[
-"Grey-necked Bunting",
+"Myna",
 43
 ],
 [
@@ -4776,55 +4644,7 @@
 43
 ],
 [
-"Southern Ground Hornbill",
-43
-],
-[
-"Red-fronted Macaw",
-43
-],
-[
-"Red-breasted Parakeet",
-43
-],
-[
-"Senegal Parrot",
-43
-],
-[
-"Coconut Lorikeet",
-43
-],
-[
-"Carolina parakeet",
-43
-],
-[
-"Carolina Parakeet",
-43
-],
-[
-"Hawaiian Crow",
-43
-],
-[
-"Belted Kingfisher",
-43
-],
-[
-"Collared kingfisher",
-43
-],
-[
-"Collared Kingfisher",
-43
-],
-[
-"White-collared Kingfisher",
-43
-],
-[
-"Masked Shrike",
+"Hooded Vulture",
 43
 ],
 [
@@ -4840,75 +4660,223 @@
 43
 ],
 [
+"Hawaiian Crow",
+43
+],
+[
+"Common Iora",
+43
+],
+[
+"Spoon-billed Sandpiper",
+43
+],
+[
+"Rufous-bellied eagle",
+43
+],
+[
+"Rufous-bellied Eagle",
+43
+],
+[
+"Rufous-bellied Hawk-Eagle",
+43
+],
+[
+"River Tern",
+43
+],
+[
+"Fork-tailed Swift",
+43
+],
+[
+"Pacific Swift",
+43
+],
+[
+"Collared kingfisher",
+43
+],
+[
+"Collared Kingfisher",
+43
+],
+[
+"White-collared Kingfisher",
+43
+],
+[
+"Coconut Lorikeet",
+43
+],
+[
+"Tricolored Heron",
+43
+],
+[
+"Blue Duck",
+43
+],
+[
+"American Coot",
+43
+],
+[
+"Crested Ibis",
+43
+],
+[
+"African Spoonbill",
+43
+],
+[
+"Pintado Petrel",
+43
+],
+[
+"White-tailed Tropicbird",
+43
+],
+[
+"Anna's Hummingbird",
+43
+],
+[
+"Sunbittern",
+43
+],
+[
+"Carolina parakeet",
+43
+],
+[
+"Carolina Parakeet",
+43
+],
+[
+"Grey-necked Bunting",
+43
+],
+[
+"Blue-winged Goose",
+43
+],
+[
+"Red-breasted Parakeet",
+43
+],
+[
+"Southern Ground Hornbill",
+43
+],
+[
+"Red-billed Tropicbird",
+43
+],
+[
+"Violet-backed Starling",
+43
+],
+[
+"Royal Spoonbill",
+43
+],
+[
+"Great Spotted Kiwi",
+43
+],
+[
+"Masked Shrike",
+43
+],
+[
+"Milky Stork",
+43
+],
+[
+"Palm-nut Vulture",
+43
+],
+[
 "Blue Whistling Thrush",
 43
 ],
 [
-"White-tailed Ptarmigan",
-42
+"Waved Albatross",
+43
 ],
 [
-"Giant Hummingbird",
-42
+"Belted Kingfisher",
+43
 ],
 [
-"Gray's Brush-turkey",
-42
+"Killdeer",
+43
 ],
 [
-"Maleo Megapode",
-42
+"Weka",
+43
 ],
 [
-"Maleo",
-42
+"Pacific Black Duck",
+43
 ],
 [
-"Little Spotted Kiwi",
-42
+"Dwarf Cassowary",
+43
 ],
 [
-"Red-legged Partridge",
-42
+"Snow Partridge",
+43
 ],
 [
-"Swamphen",
-42
+"Senegal Parrot",
+43
 ],
 [
-"Silver Pheasant",
-42
+"Red-fronted Macaw",
+43
 ],
 [
-"Brown Skua",
-42
+"Short-tailed albatross",
+43
 ],
 [
-"Oriental Pratincole",
-42
+"Short-tailed Albatross",
+43
 ],
 [
-"Baird's Sandpiper",
-42
+"Wattled Jacana",
+43
 ],
 [
-"baird’s sandpiper",
-42
+"Lesser Frigatebird",
+43
 ],
 [
-"Greater Yellowlegs",
-42
+"Grass Whistling Duck",
+43
 ],
 [
-"Black-naped Tern",
-42
+"Plumed Whistling-duck",
+43
 ],
 [
-"Pied-billed Grebe",
-42
+"Plumed Whistling Duck",
+43
 ],
 [
-"Brown-headed Gull",
+"Plumed Whistling-Duck",
+43
+],
+[
+"Elf Owl",
+43
+],
+[
+"Nilgiri Woodpigeon",
 42
 ],
 [
@@ -4916,75 +4884,91 @@
 42
 ],
 [
-"Speckled Pigeon",
-42
-],
-[
 "Nilgiri Wood-Pigeon",
 42
 ],
 [
-"Nilgiri Woodpigeon",
+"Sardinian Warbler",
 42
 ],
 [
-"White-bellied Heron",
+"Eastern Subalpine Warbler",
 42
 ],
 [
-"Black Egret",
+"Swamphen",
 42
 ],
 [
-"Black Heron",
+"Clark's Nutcracker",
 42
 ],
 [
-"Franklin's Gull",
+"Oriental Pratincole",
 42
 ],
 [
-"Hadada",
+"Tit",
 42
 ],
 [
-"Hadada Ibis",
+"Namaqua Dove",
 42
 ],
 [
-"Audouin's Gull",
+"eyebrowed thrush",
 42
 ],
 [
-"Australian White Ibis",
+"Eye-browed Thrush",
 42
 ],
 [
-"Green-naped Pheasant-pigeon",
+"Eyebrowed Thrush",
 42
 ],
 [
-"Pheasant Pigeon",
+"Purple Sunbird",
 42
 ],
 [
-"Javan Pond Heron",
+"Thick-billed Raven",
 42
 ],
 [
-"Javan Pond-heron",
+"Brown Skua",
 42
 ],
 [
-"Javan Pond-Heron",
+"White-tailed Ptarmigan",
 42
 ],
 [
-"Big-crested Penguin",
+"daurian jackdaw",
 42
 ],
 [
-"Erect-crested Penguin",
+"Daurian Jackdaw",
+42
+],
+[
+"Sun Conure",
+42
+],
+[
+"Sun Parakeet",
+42
+],
+[
+"Little Spotted Kiwi",
+42
+],
+[
+"White-crowned Hornbill",
+42
+],
+[
+"Brown-headed Gull",
 42
 ],
 [
@@ -5000,135 +4984,31 @@
 42
 ],
 [
-"Falcated Duck",
-42
-],
-[
-"Namaqua Dove",
-42
-],
-[
-"Greater Roadrunner",
-42
-],
-[
 "Cinnamon Teal",
 42
 ],
 [
-"West Indian Whistling Duck",
+"Falcated Duck",
 42
 ],
 [
-"Black-bellied Whistling Duck",
+"Giant Hummingbird",
 42
 ],
 [
-"Black-bellied Whistling-duck",
+"Black-naped Tern",
 42
 ],
 [
-"Black-bellied Whistling-Duck",
+"Hadada",
 42
 ],
 [
-"Purple Sunbird",
-42
-],
-[
-"White-headed Vulture",
-42
-],
-[
-"Red-tailed Black Cockatoo",
-42
-],
-[
-"Red-tailed Black-cockatoo",
-42
-],
-[
-"Red-tailed Black-Cockatoo",
-42
-],
-[
-"Barrow's Goldeneye",
-42
-],
-[
-"Red-headed Bunting",
-42
-],
-[
-"Common Tailorbird",
-42
-],
-[
-"White-crowned Hornbill",
-42
-],
-[
-"Chestnut-fronted Macaw",
-42
-],
-[
-"Sun Conure",
-42
-],
-[
-"Sun Parakeet",
+"Hadada Ibis",
 42
 ],
 [
 "Blue-eared Kingfisher",
-42
-],
-[
-"Monk Parakeet",
-42
-],
-[
-"Hume's Leaf Warbler",
-42
-],
-[
-"Hume's Leaf-warbler",
-42
-],
-[
-"hume’s leaf warbler",
-42
-],
-[
-"Hume’s Leaf Warbler",
-42
-],
-[
-"Hume’s leaf-warbler",
-42
-],
-[
-"Pileated Woodpecker",
-42
-],
-[
-"Thick-billed Raven",
-42
-],
-[
-"Ivory-billed Woodpecker",
-42
-],
-[
-"daurian jackdaw",
-42
-],
-[
-"Daurian Jackdaw",
-42
-],
-[
-"Clark's Nutcracker",
 42
 ],
 [
@@ -5140,7 +5020,23 @@
 42
 ],
 [
-"Tit",
+"Sunda Zebra Finch",
+42
+],
+[
+"Barrow's Goldeneye",
+42
+],
+[
+"West Indian Whistling Duck",
+42
+],
+[
+"Black Egret",
+42
+],
+[
+"Black Heron",
 42
 ],
 [
@@ -5148,7 +5044,31 @@
 42
 ],
 [
-"Scaly Thrush",
+"Javan Pond-heron",
+42
+],
+[
+"Javan Pond Heron",
+42
+],
+[
+"Javan Pond-Heron",
+42
+],
+[
+"Audouin's Gull",
+42
+],
+[
+"Silver Pheasant",
+42
+],
+[
+"Red-headed Bunting",
+42
+],
+[
+"Greater Yellowlegs",
 42
 ],
 [
@@ -5156,15 +5076,103 @@
 42
 ],
 [
-"Eye-browed Thrush",
+"Pied-billed Grebe",
 42
 ],
 [
-"eyebrowed thrush",
+"hume’s leaf warbler",
 42
 ],
 [
-"Eyebrowed Thrush",
+"Hume’s leaf-warbler",
+42
+],
+[
+"Hume's Leaf-warbler",
+42
+],
+[
+"Hume's Leaf Warbler",
+42
+],
+[
+"Hume’s Leaf Warbler",
+42
+],
+[
+"Greater Roadrunner",
+42
+],
+[
+"Red-tailed Black-cockatoo",
+42
+],
+[
+"Red-tailed Black Cockatoo",
+42
+],
+[
+"Red-tailed Black-Cockatoo",
+42
+],
+[
+"Green-naped Pheasant-pigeon",
+42
+],
+[
+"Pheasant Pigeon",
+42
+],
+[
+"Australian White Ibis",
+42
+],
+[
+"Scaly Thrush",
+42
+],
+[
+"Monk Parakeet",
+42
+],
+[
+"Black-bellied Whistling-duck",
+42
+],
+[
+"Black-bellied Whistling Duck",
+42
+],
+[
+"Black-bellied Whistling-Duck",
+42
+],
+[
+"Red-legged Partridge",
+42
+],
+[
+"White-headed Vulture",
+42
+],
+[
+"Ivory-billed Woodpecker",
+42
+],
+[
+"Franklin's Gull",
+42
+],
+[
+"baird’s sandpiper",
+42
+],
+[
+"Baird's Sandpiper",
+42
+],
+[
+"Common Tailorbird",
 42
 ],
 [
@@ -5172,39 +5180,87 @@
 42
 ],
 [
-"Sunda Zebra Finch",
+"Gray's Brush-turkey",
 42
 ],
 [
-"Eastern Subalpine Warbler",
+"Maleo",
 42
 ],
 [
-"Sardinian Warbler",
+"Maleo Megapode",
 42
 ],
 [
-"Vulturine Guineafowl",
+"Big-crested Penguin",
+42
+],
+[
+"Erect-crested Penguin",
+42
+],
+[
+"Chestnut-fronted Macaw",
+42
+],
+[
+"White-bellied Heron",
+42
+],
+[
+"Speckled Pigeon",
+42
+],
+[
+"Pileated Woodpecker",
+42
+],
+[
+"Black-capped Kingfisher",
 41
 ],
 [
-"Barbary Partridge",
+"Black-backed Dwarf Kingfisher",
 41
 ],
 [
-"Grey Peacock Pheasant",
+"Asian Desert Warbler",
 41
 ],
 [
-"Grey Peacock-pheasant",
+"Blakiston's Eagle-owl",
 41
 ],
 [
-"Grey Peacock-Pheasant",
+"Blakiston`s Eagle Owl",
 41
 ],
 [
-"Egyptian Plover",
+"Blakiston's Fish Owl",
+41
+],
+[
+"Blakiston's Fish-Owl",
+41
+],
+[
+"Yellow-billed Magpie",
+41
+],
+[
+"Changeable Hawk-eagle",
+41
+],
+[
+"Changeable Hawk Eagle",
+41
+],
+[
+"Changeable Hawk-Eagle",
+41
+],
+[
+"Crested Hawk-Eagle",
 41
 ],
 [
@@ -5212,7 +5268,67 @@
 41
 ],
 [
-"Green Heron",
+"Mountain Hawk-eagle",
+41
+],
+[
+"Mountain Hawk-Eagle",
+41
+],
+[
+"Moutain Hawk-Eagle",
+41
+],
+[
+"Macqueen's Bustard",
+41
+],
+[
+"Shy albatross",
+41
+],
+[
+"Shy Albatross",
+41
+],
+[
+"magellan goose, upland goose",
+41
+],
+[
+"Upland Goose",
+41
+],
+[
+"Baya Weaver",
+41
+],
+[
+"Eastern Olivaceous Warbler",
+41
+],
+[
+"Snow Petrel",
+41
+],
+[
+"Black-rumped Flameback",
+41
+],
+[
+"Lesser Golden-backed Flamebacked Woodpecker",
+41
+],
+[
+"Barbary Partridge",
+41
+],
+[
+"Whistling Heron",
+41
+],
+[
+"Helmeted Hornbill",
 41
 ],
 [
@@ -5236,183 +5352,7 @@
 41
 ],
 [
-"Cocoi Heron",
-41
-],
-[
-"Black-footed albatross",
-41
-],
-[
-"Black-footed Albatross",
-41
-],
-[
-"Silver Gull",
-41
-],
-[
-"Western Grebe",
-41
-],
-[
-"Macqueen's Bustard",
-41
-],
-[
-"Blakiston's Eagle-owl",
-41
-],
-[
-"Blakiston's Fish Owl",
-41
-],
-[
-"Blakiston's Fish-Owl",
-41
-],
-[
-"Blakiston`s Eagle Owl",
-41
-],
-[
-"Kori Bustard",
-41
-],
-[
-"Brown Wood Owl",
-41
-],
-[
-"Brown Wood-owl",
-41
-],
-[
-"Laysan albatross",
-41
-],
-[
-"Laysan Albatross",
-41
-],
-[
-"Orange-breasted Green Pigeon",
-41
-],
-[
-"Orange-breasted Green-pigeon",
-41
-],
-[
-"Light-mantled Albatross",
-41
-],
-[
-"Light-mantled Sooty Albatross",
-41
-],
-[
-"Cape Griffon",
-41
-],
-[
-"Cape Vulture",
-41
-],
-[
-"Pied Harrier",
-41
-],
-[
-"Whistling Heron",
-41
-],
-[
-"Storm's Stork",
-41
-],
-[
-"Snow Petrel",
-41
-],
-[
-"Maguari Stork",
-41
-],
-[
-"Shy albatross",
-41
-],
-[
-"Shy Albatross",
-41
-],
-[
-"Black Baza",
-41
-],
-[
-"Red-headed Falcon",
-41
-],
-[
-"Red-necked Falcon",
-41
-],
-[
-"Changeable Hawk Eagle",
-41
-],
-[
-"Changeable Hawk-eagle",
-41
-],
-[
-"Changeable Hawk-Eagle",
-41
-],
-[
-"Crested Hawk-Eagle",
-41
-],
-[
-"Mountain Hawk-eagle",
-41
-],
-[
-"Mountain Hawk-Eagle",
-41
-],
-[
-"Moutain Hawk-Eagle",
-41
-],
-[
-"Harris's Hawk",
-41
-],
-[
-"Torrent Duck",
-41
-],
-[
-"Little Corella",
-41
-],
-[
-"Solomons Cockatoo",
-41
-],
-[
-"Surf Scoter",
-41
-],
-[
-"Blue-eyed Cockatoo",
-41
-],
-[
-"Lilac-breasted Roller",
+"Lesser Short-toed Lark",
 41
 ],
 [
@@ -5420,99 +5360,7 @@
 41
 ],
 [
-"magellan goose, upland goose",
-41
-],
-[
-"Upland Goose",
-41
-],
-[
-"Indian White-eye",
-41
-],
-[
-"Oriental white-eye",
-41
-],
-[
-"Oriental White-eye",
-41
-],
-[
-"Eastern Olivaceous Warbler",
-41
-],
-[
-"Baya Weaver",
-41
-],
-[
-"Rainbow Bee-eater",
-41
-],
-[
-"Spotless Starling",
-41
-],
-[
-"Cretzschmar's Bunting",
-41
-],
-[
-"cretzschmar’s bunting",
-41
-],
-[
-"melodious warbler",
-41
-],
-[
-"Melodious Warbler",
-41
-],
-[
-"Red-winged Blackbird",
-41
-],
-[
-"Helmeted Hornbill",
-41
-],
-[
-"Golden Conure",
-41
-],
-[
-"Golden Parakeet",
-41
-],
-[
-"Black-rumped Flameback",
-41
-],
-[
-"Lesser Golden-backed Flamebacked Woodpecker",
-41
-],
-[
-"Grey Hypocolius",
-41
-],
-[
-"Hypocolius",
-41
-],
-[
-"Great green macaw",
-41
-],
-[
-"Great Green Macaw",
-41
-],
-[
-"Plum-headed Parakeet",
+"Long-tailed Broadbill",
 41
 ],
 [
@@ -5520,11 +5368,19 @@
 41
 ],
 [
-"Yellow-billed Magpie",
+"Maguari Stork",
 41
 ],
 [
-"Black-cheeked Lovebird",
+"Vulturine Guineafowl",
+41
+],
+[
+"Lilac-breasted Roller",
+41
+],
+[
+"Green Heron",
 41
 ],
 [
@@ -5536,63 +5392,7 @@
 41
 ],
 [
-"Black-capped Kingfisher",
-41
-],
-[
-"Black-backed Dwarf Kingfisher",
-41
-],
-[
-"Red-billed Blue Magpie",
-41
-],
-[
-"Blue Magpie",
-41
-],
-[
-"Long-tailed Broadbill",
-41
-],
-[
-"Taiwan Blue Magpie",
-41
-],
-[
-"Raggiana Bird-of-paradise",
-41
-],
-[
-"Raggiana Bird-of-Paradise",
-41
-],
-[
-"Red Bird-of-paradise",
-41
-],
-[
-"Red Bird-of-Paradise",
-41
-],
-[
-"Lesser Short-toed Lark",
-41
-],
-[
-"Black-throated Dark-throated Thrush",
-41
-],
-[
-"Sudan Golden Sparrow",
-41
-],
-[
-"Sudan Golden-Sparrow",
-41
-],
-[
-"White-throated Robin",
+"Storm's Stork",
 41
 ],
 [
@@ -5608,15 +5408,343 @@
 41
 ],
 [
-"Asian Desert Warbler",
+"White-throated Robin",
 41
 ],
 [
-"Australian Brushturkey",
+"Black-footed albatross",
+41
+],
+[
+"Black-footed Albatross",
+41
+],
+[
+"Black Baza",
+41
+],
+[
+"Brown Wood-owl",
+41
+],
+[
+"Brown Wood Owl",
+41
+],
+[
+"Blue-eyed Cockatoo",
+41
+],
+[
+"Western Grebe",
+41
+],
+[
+"Kori Bustard",
+41
+],
+[
+"Grey Hypocolius",
+41
+],
+[
+"Hypocolius",
+41
+],
+[
+"Black-cheeked Lovebird",
+41
+],
+[
+"Red-headed Falcon",
+41
+],
+[
+"Red-necked Falcon",
+41
+],
+[
+"Surf Scoter",
+41
+],
+[
+"Harris's Hawk",
+41
+],
+[
+"Little Corella",
+41
+],
+[
+"Grey Peacock-pheasant",
+41
+],
+[
+"Grey Peacock Pheasant",
+41
+],
+[
+"Grey Peacock-Pheasant",
+41
+],
+[
+"Raggiana Bird-of-paradise",
+41
+],
+[
+"Raggiana Bird-of-Paradise",
+41
+],
+[
+"melodious warbler",
+41
+],
+[
+"Melodious Warbler",
+41
+],
+[
+"Solomons Cockatoo",
+41
+],
+[
+"Red-winged Blackbird",
+41
+],
+[
+"Blue Magpie",
+41
+],
+[
+"Red-billed Blue Magpie",
+41
+],
+[
+"Golden Conure",
+41
+],
+[
+"Golden Parakeet",
+41
+],
+[
+"Silver Gull",
+41
+],
+[
+"Orange-breasted Green-pigeon",
+41
+],
+[
+"Orange-breasted Green Pigeon",
+41
+],
+[
+"Red Bird-of-paradise",
+41
+],
+[
+"Red Bird-of-Paradise",
+41
+],
+[
+"Indian White-eye",
+41
+],
+[
+"Oriental white-eye",
+41
+],
+[
+"Oriental White-eye",
+41
+],
+[
+"Black-throated Dark-throated Thrush",
+41
+],
+[
+"Cape Griffon",
+41
+],
+[
+"Cape Vulture",
+41
+],
+[
+"Rainbow Bee-eater",
+41
+],
+[
+"Egyptian Plover",
+41
+],
+[
+"Spotless Starling",
+41
+],
+[
+"cretzschmar’s bunting",
+41
+],
+[
+"Cretzschmar's Bunting",
+41
+],
+[
+"Light-mantled Albatross",
+41
+],
+[
+"Light-mantled Sooty Albatross",
+41
+],
+[
+"Great green macaw",
+41
+],
+[
+"Great Green Macaw",
+41
+],
+[
+"Pied Harrier",
+41
+],
+[
+"Sudan Golden Sparrow",
+41
+],
+[
+"Sudan Golden-Sparrow",
+41
+],
+[
+"Cocoi Heron",
+41
+],
+[
+"Plum-headed Parakeet",
+41
+],
+[
+"Torrent Duck",
+41
+],
+[
+"Laysan albatross",
+41
+],
+[
+"Laysan Albatross",
+41
+],
+[
+"Taiwan Blue Magpie",
+41
+],
+[
+"Grey-headed Lapwing",
 40
 ],
 [
-"Australian Brush-turkey",
+"Brahminy Starling",
+40
+],
+[
+"Northern Rufous Hornbill",
+40
+],
+[
+"Rufous Hornbill",
+40
+],
+[
+"Kelp Gull",
+40
+],
+[
+"Southern Black-backed Gull",
+40
+],
+[
+"parson bird",
+40
+],
+[
+"Tui",
+40
+],
+[
+"Barred Buttonquail",
+40
+],
+[
+"Roadrunners",
+40
+],
+[
+"Australian Raven",
+40
+],
+[
+"siberian stonechat",
+40
+],
+[
+"Siberian Stonechat",
+40
+],
+[
+"Cedar Waxwing",
+40
+],
+[
+"Black Lory",
+40
+],
+[
+"Short-tailed Shearwater",
+40
+],
+[
+"Great Shearwater",
+40
+],
+[
+"Grey-headed Fish Eagle",
+40
+],
+[
+"Indian Pied Myna",
+40
+],
+[
+"American Goldfinch",
+40
+],
+[
+"Yellow-tailed Black Cockatoo",
+40
+],
+[
+"Zebra Dove",
+40
+],
+[
+"Nankeen Night Heron",
+40
+],
+[
+"Humblot's Heron",
+40
+],
+[
+"Madagascar Heron",
+40
+],
+[
+"Canvasback",
 40
 ],
 [
@@ -5636,187 +5764,7 @@
 40
 ],
 [
-"Rain Quail",
-40
-],
-[
-"Black Skimmer",
-40
-],
-[
-"Stilt Sandpiper",
-40
-],
-[
-"Barred Buttonquail",
-40
-],
-[
-"Rodrigues Solitaire",
-40
-],
-[
-"Rodriguez Solitaire",
-40
-],
-[
-"Alaotra Grebe",
-40
-],
-[
-"Yellow-eyed Pigeon",
-40
-],
-[
-"Kelp Gull",
-40
-],
-[
-"Southern Black-backed Gull",
-40
-],
-[
-"California Gull",
-40
-],
-[
-"Bonaparte's Gull",
-40
-],
-[
-"Giant Ibis",
-40
-],
-[
-"Nankeen Night Heron",
-40
-],
-[
-"Humblot's Heron",
-40
-],
-[
-"Madagascar Heron",
-40
-],
-[
-"Zebra Dove",
-40
-],
-[
-"Dusky Eagle-owl",
-40
-],
-[
-"Dusky Eagle-Owl",
-40
-],
-[
-"Tufted Puffin",
-40
-],
-[
-"Barred Owl",
-40
-],
-[
-"Indian Eagle-Owl",
-40
-],
-[
-"Rock Eagle-owl",
-40
-],
-[
-"Rock Eagle-Owl",
-40
-],
-[
-"Roadrunners",
-40
-],
-[
-"African Green Pigeon",
-40
-],
-[
-"African Green-pigeon",
-40
-],
-[
-"Lesser Cuckoo",
-40
-],
-[
-"Horned Screamer",
-40
-],
-[
-"Inca Tern",
-40
-],
-[
-"Grey-headed Fish Eagle",
-40
-],
-[
-"Grey-headed Lapwing",
-40
-],
-[
-"Bengal Bustard",
-40
-],
-[
-"Bengal Florican",
-40
-],
-[
-"Blue Petrel",
-40
-],
-[
-"Grey-headed albatross",
-40
-],
-[
-"Grey-headed Albatross",
-40
-],
-[
-"Grey-headed Mollymawk",
-40
-],
-[
-"Black-shouldered Kite",
-40
-],
-[
-"Verreaux's Eagle",
-40
-],
-[
-"Barbary Falcon",
-40
-],
-[
-"Short-tailed Shearwater",
-40
-],
-[
-"Great Shearwater",
-40
-],
-[
-"Von Schrenck's Bittern",
-40
-],
-[
-"Yellow-tailed Black Cockatoo",
-40
-],
-[
-"Canvasback",
+"African Pygmy-goose",
 40
 ],
 [
@@ -5824,63 +5772,7 @@
 40
 ],
 [
-"African Pygmy-goose",
-40
-],
-[
 "Pygmy Goose",
-40
-],
-[
-"Abyssinian Roller",
-40
-],
-[
-"Redhead",
-40
-],
-[
-"crested myna",
-40
-],
-[
-"crested mynah",
-40
-],
-[
-"Crested Myna",
-40
-],
-[
-"Superb Lyrebird",
-40
-],
-[
-"Cedar Waxwing",
-40
-],
-[
-"Rufous Hornero",
-40
-],
-[
-"Oriental Dollarbird",
-40
-],
-[
-"Southern Yellow-billed Hornbill",
-40
-],
-[
-"Northern Rufous Hornbill",
-40
-],
-[
-"Rufous Hornbill",
-40
-],
-[
-"Brahminy Starling",
 40
 ],
 [
@@ -5888,59 +5780,7 @@
 40
 ],
 [
-"American Goldfinch",
-40
-],
-[
-"Indian Pied Myna",
-40
-],
-[
-"Cuban Macaw",
-40
-],
-[
-"Crimson Rosella",
-40
-],
-[
-"Black Lory",
-40
-],
-[
-"Indigo Macaw",
-40
-],
-[
-"Lear's Macaw",
-40
-],
-[
-"Red-headed Woodpecker",
-40
-],
-[
-"Canada Jay",
-40
-],
-[
-"Australian Raven",
-40
-],
-[
-"Common Green Magpie",
-40
-],
-[
-"Green Magpie",
-40
-],
-[
-"Tui",
-40
-],
-[
-"parson bird",
+"Oriental Dollarbird",
 40
 ],
 [
@@ -5956,7 +5796,167 @@
 40
 ],
 [
+"Lesser Cuckoo",
+40
+],
+[
+"African Green-pigeon",
+40
+],
+[
+"African Green Pigeon",
+40
+],
+[
+"Black Skimmer",
+40
+],
+[
+"Rodrigues Solitaire",
+40
+],
+[
+"Rodriguez Solitaire",
+40
+],
+[
+"Crimson Rosella",
+40
+],
+[
 "Siberian Tit",
+40
+],
+[
+"Alaotra Grebe",
+40
+],
+[
+"Red-headed Woodpecker",
+40
+],
+[
+"Black-shouldered Kite",
+40
+],
+[
+"Bonaparte's Gull",
+40
+],
+[
+"Barred Owl",
+40
+],
+[
+"Australian Brush-turkey",
+40
+],
+[
+"Australian Brushturkey",
+40
+],
+[
+"Cuban Macaw",
+40
+],
+[
+"Redhead",
+40
+],
+[
+"crested myna",
+40
+],
+[
+"Crested Myna",
+40
+],
+[
+"crested mynah",
+40
+],
+[
+"Horned Screamer",
+40
+],
+[
+"Verreaux's Eagle",
+40
+],
+[
+"Barbary Falcon",
+40
+],
+[
+"Southern Yellow-billed Hornbill",
+40
+],
+[
+"Superb Lyrebird",
+40
+],
+[
+"Grey-headed albatross",
+40
+],
+[
+"Grey-headed Albatross",
+40
+],
+[
+"Grey-headed Mollymawk",
+40
+],
+[
+"Common Green Magpie",
+40
+],
+[
+"Green Magpie",
+40
+],
+[
+"Canada Jay",
+40
+],
+[
+"Bengal Bustard",
+40
+],
+[
+"Bengal Florican",
+40
+],
+[
+"Indian Eagle-Owl",
+40
+],
+[
+"Rock Eagle-owl",
+40
+],
+[
+"Rock Eagle-Owl",
+40
+],
+[
+"Tufted Puffin",
+40
+],
+[
+"Indigo Macaw",
+40
+],
+[
+"Lear's Macaw",
+40
+],
+[
+"Stilt Sandpiper",
+40
+],
+[
+"Inca Tern",
 40
 ],
 [
@@ -5972,11 +5972,43 @@
 40
 ],
 [
-"siberian stonechat",
+"Rufous Hornero",
 40
 ],
 [
-"Siberian Stonechat",
+"Blue Petrel",
+40
+],
+[
+"Von Schrenck's Bittern",
+40
+],
+[
+"Giant Ibis",
+40
+],
+[
+"Yellow-eyed Pigeon",
+40
+],
+[
+"Dusky Eagle-owl",
+40
+],
+[
+"Dusky Eagle-Owl",
+40
+],
+[
+"Rain Quail",
+40
+],
+[
+"California Gull",
+40
+],
+[
+"Abyssinian Roller",
 40
 ]
 ]

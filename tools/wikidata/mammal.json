@@ -1,10 +1,10 @@
 [
 [
-"Lion",
+"African Lion",
 274
 ],
 [
-"African Lion",
+"Lion",
 274
 ],
 [
@@ -12,11 +12,11 @@
 237
 ],
 [
-"Grey Wolf",
+"common wolf",
 226
 ],
 [
-"common wolf",
+"Grey Wolf",
 226
 ],
 [
@@ -36,20 +36,16 @@
 222
 ],
 [
-"Goat",
+"Domestic Goat",
 218
 ],
 [
-"Domestic Goat",
+"Goat",
 218
 ],
 [
 "Leopard",
 191
-],
-[
-"Wild Boar",
-163
 ],
 [
 "Eurasian Wild Pig",
@@ -64,11 +60,15 @@
 163
 ],
 [
-"wild boar, eurasian wild boar",
+"Wild boar",
 163
 ],
 [
-"Wild boar",
+"Wild Boar",
+163
+],
+[
+"wild boar, eurasian wild boar",
 163
 ],
 [
@@ -88,11 +88,15 @@
 155
 ],
 [
-"Hippopotamus",
+"Common Hippopotamus",
 149
 ],
 [
-"Common Hippopotamus",
+"Hippo",
+149
+],
+[
+"Hippopotamus",
 149
 ],
 [
@@ -101,10 +105,6 @@
 ],
 [
 "River Hippopotamus",
-149
-],
-[
-"Hippo",
 149
 ],
 [
@@ -136,19 +136,7 @@
 138
 ],
 [
-"snow leopard",
-132
-],
-[
-"Asian Water Buffalo",
-132
-],
-[
 "Water Buffalo",
-132
-],
-[
-"Asian buffalo",
 132
 ],
 [
@@ -156,15 +144,27 @@
 132
 ],
 [
+"snow leopard",
+132
+],
+[
+"Asian buffalo",
+132
+],
+[
+"Asian Water Buffalo",
+132
+],
+[
 "Carabao",
 132
 ],
 [
-"Jaguar",
+"jaguar",
 131
 ],
 [
-"jaguar",
+"Jaguar",
 131
 ],
 [
@@ -184,15 +184,11 @@
 125
 ],
 [
-"mountain lion",
-125
-],
-[
 "deer tiger",
 125
 ],
 [
-"red tiger",
+"mountain lion",
 125
 ],
 [
@@ -200,15 +196,19 @@
 125
 ],
 [
+"red tiger",
+125
+],
+[
 "Least Weasel",
 123
 ],
 [
-"weasel, least weasel",
+"Weasel",
 123
 ],
 [
-"Weasel",
+"weasel, least weasel",
 123
 ],
 [
@@ -220,11 +220,11 @@
 123
 ],
 [
-"Eurasian otter",
+"common otter",
 122
 ],
 [
-"common otter",
+"Eurasian otter",
 122
 ],
 [
@@ -252,11 +252,11 @@
 121
 ],
 [
-"Walrus",
+"platypus",
 118
 ],
 [
-"platypus",
+"Walrus",
 118
 ],
 [
@@ -276,10 +276,6 @@
 113
 ],
 [
-"Raccoon",
-111
-],
-[
 "Common Raccoon",
 111
 ],
@@ -292,15 +288,11 @@
 111
 ],
 [
+"Raccoon",
+111
+],
+[
 "raccoon, northern raccoon",
-111
-],
-[
-"red squirrel",
-111
-],
-[
-"Eurasian Red Squirrel",
 111
 ],
 [
@@ -324,6 +316,14 @@
 111
 ],
 [
+"Eurasian Red Squirrel",
+111
+],
+[
+"red squirrel",
+111
+],
+[
 "Stoat",
 110
 ],
@@ -332,12 +332,16 @@
 110
 ],
 [
+"western red deer",
+110
+],
+[
 "West European red deer",
 110
 ],
 [
-"western red deer",
-110
+"coyote",
+109
 ],
 [
 "African Caracal",
@@ -356,10 +360,6 @@
 109
 ],
 [
-"coyote",
-109
-],
-[
 "American jackal",
 109
 ],
@@ -372,24 +372,12 @@
 109
 ],
 [
-"Domesticated Guinea Pig",
-108
-],
-[
 "Roe Deer",
 108
 ],
 [
-"Ant Bear",
-107
-],
-[
-"Antbear",
-107
-],
-[
-"Aardvark",
-107
+"Domesticated Guinea Pig",
+108
 ],
 [
 "African buffalo",
@@ -400,11 +388,23 @@
 107
 ],
 [
+"Aardvark",
+107
+],
+[
+"Antbear",
+107
+],
+[
+"Ant Bear",
+107
+],
+[
 "Wolverine",
 106
 ],
 [
-"Arctic Fox",
+"Capybara",
 105
 ],
 [
@@ -416,27 +416,27 @@
 105
 ],
 [
-"Capybara",
+"Arctic Fox",
 105
-],
-[
-"murid",
-103
 ],
 [
 "Baboon",
 103
 ],
 [
-"One-humped Camel",
-102
+"murid",
+103
 ],
 [
 "Dromedary",
 102
 ],
 [
-"weasel family",
+"One-humped Camel",
+102
+],
+[
+"Caveman",
 101
 ],
 [
@@ -460,7 +460,7 @@
 101
 ],
 [
-"Caveman",
+"weasel family",
 101
 ],
 [
@@ -472,15 +472,15 @@
 100
 ],
 [
+"ape",
+99
+],
+[
 "American black bear",
 99
 ],
 [
 "American Black Bear",
-99
-],
-[
-"ape",
 99
 ],
 [
@@ -520,15 +520,15 @@
 97
 ],
 [
+"Sperm Whale",
+97
+],
+[
 "American bison",
 97
 ],
 [
 "American Bison",
-97
-],
-[
-"Sperm Whale",
 97
 ],
 [
@@ -560,18 +560,6 @@
 96
 ],
 [
-"European Bison",
-95
-],
-[
-"European bison",
-95
-],
-[
-"Wisent",
-95
-],
-[
 "Asian elephant",
 95
 ],
@@ -584,12 +572,16 @@
 95
 ],
 [
-"Bengal Tiger",
-93
+"European bison",
+95
 ],
 [
-"Impala",
-93
+"European Bison",
+95
+],
+[
+"Wisent",
+95
 ],
 [
 "Black-faced Impala",
@@ -597,6 +589,14 @@
 ],
 [
 "Common Impala",
+93
+],
+[
+"Impala",
+93
+],
+[
+"Bengal Tiger",
 93
 ],
 [
@@ -608,7 +608,7 @@
 92
 ],
 [
-"Rattel",
+"Honey Badger",
 92
 ],
 [
@@ -616,15 +616,7 @@
 92
 ],
 [
-"Honey Badger",
-92
-],
-[
-"Hunting Dog",
-92
-],
-[
-"Cape Hunting Dog",
+"Rattel",
 92
 ],
 [
@@ -640,15 +632,27 @@
 92
 ],
 [
-"Painted Hunting Dog",
-92
-],
-[
 "African Wild Dog",
 92
 ],
 [
-"skunk",
+"Cape Hunting Dog",
+92
+],
+[
+"Hunting Dog",
+92
+],
+[
+"Painted Hunting Dog",
+92
+],
+[
+"Asiatic Black Bear",
+91
+],
+[
+"Ocelot",
 91
 ],
 [
@@ -660,6 +664,10 @@
 91
 ],
 [
+"Jungle Cat",
+91
+],
+[
 "Reed Cat",
 91
 ],
@@ -668,15 +676,7 @@
 91
 ],
 [
-"Jungle Cat",
-91
-],
-[
-"Ocelot",
-91
-],
-[
-"Asiatic Black Bear",
+"skunk",
 91
 ],
 [
@@ -724,10 +724,6 @@
 88
 ],
 [
-"Sable",
-87
-],
-[
 "Fennec",
 87
 ],
@@ -748,10 +744,6 @@
 87
 ],
 [
-"Unicorn Whale",
-87
-],
-[
 "narwhal",
 87
 ],
@@ -760,23 +752,15 @@
 87
 ],
 [
-"True foxes",
-86
+"Unicorn Whale",
+87
+],
+[
+"Sable",
+87
 ],
 [
 "tapir",
-86
-],
-[
-"Muskrat",
-86
-],
-[
-"muskrat",
-86
-],
-[
-"Common Muskrat",
 86
 ],
 [
@@ -800,12 +784,108 @@
 86
 ],
 [
+"White rhinoceros",
+86
+],
+[
 "White Rhinoceros",
 86
 ],
 [
-"White rhinoceros",
+"True foxes",
 86
+],
+[
+"Common Muskrat",
+86
+],
+[
+"muskrat",
+86
+],
+[
+"Muskrat",
+86
+],
+[
+"Alpine Chamois",
+85
+],
+[
+"Balkan Chamois",
+85
+],
+[
+"Chamois",
+85
+],
+[
+"Northern Chamois",
+85
+],
+[
+"bay lynx",
+85
+],
+[
+"bobcat",
+85
+],
+[
+"Beluga",
+85
+],
+[
+"beluga whale",
+85
+],
+[
+"Beluga whale",
+85
+],
+[
+"White whale",
+85
+],
+[
+"White Whale",
+85
+],
+[
+"Common Fallow-deer",
+85
+],
+[
+"European Fallow Deer",
+85
+],
+[
+"fallow deer",
+85
+],
+[
+"Fallow deer",
+85
+],
+[
+"Fallow Deer",
+85
+],
+[
+"Mesopotamian Fallow Deer",
+85
+],
+[
+"Persian Fallow Deer",
+85
+],
+[
+"Muskox",
+85
+],
+[
+"Musk Ox",
+85
 ],
 [
 "European polecat",
@@ -824,38 +904,6 @@
 85
 ],
 [
-"bay lynx",
-85
-],
-[
-"bobcat",
-85
-],
-[
-"Alpine Chamois",
-85
-],
-[
-"Balkan Chamois",
-85
-],
-[
-"Northern Chamois",
-85
-],
-[
-"Chamois",
-85
-],
-[
-"Muskox",
-85
-],
-[
-"Musk Ox",
-85
-],
-[
 "Black rhinoceros",
 85
 ],
@@ -868,59 +916,11 @@
 85
 ],
 [
-"Hook-lipped Rhinoceros",
-85
-],
-[
 "Hooked-lipped Rhinoceros",
 85
 ],
 [
-"Fallow deer",
-85
-],
-[
-"Common Fallow-deer",
-85
-],
-[
-"fallow deer",
-85
-],
-[
-"Mesopotamian Fallow Deer",
-85
-],
-[
-"Persian Fallow Deer",
-85
-],
-[
-"Fallow Deer",
-85
-],
-[
-"European Fallow Deer",
-85
-],
-[
-"Beluga",
-85
-],
-[
-"Beluga whale",
-85
-],
-[
-"White whale",
-85
-],
-[
-"White Whale",
-85
-],
-[
-"beluga whale",
+"Hook-lipped Rhinoceros",
 85
 ],
 [
@@ -940,7 +940,15 @@
 84
 ],
 [
-"Western European Hedgehog",
+"Guanaco",
+83
+],
+[
+"Eurasian Beaver",
+83
+],
+[
+"clouded leopard",
 83
 ],
 [
@@ -952,47 +960,23 @@
 83
 ],
 [
-"clouded leopard",
+"Western European Hedgehog",
 83
-],
-[
-"Eurasian Beaver",
-83
-],
-[
-"Guanaco",
-83
-],
-[
-"Sea Cow",
-82
 ],
 [
 "Dugong",
 82
 ],
 [
-"Beech Marten",
-82
-],
-[
-"Stone marten",
-82
-],
-[
-"Stone Marten",
-82
-],
-[
-"stone marten, beech marten",
-82
-],
-[
-"Raccoon dog",
+"Sea Cow",
 82
 ],
 [
 "raccoon dog",
+82
+],
+[
+"Raccoon dog",
 82
 ],
 [
@@ -1012,15 +996,23 @@
 82
 ],
 [
+"Beech Marten",
+82
+],
+[
+"Stone marten",
+82
+],
+[
+"Stone Marten",
+82
+],
+[
+"stone marten, beech marten",
+82
+],
+[
 "Iberian lynx",
-81
-],
-[
-"Asiatic Lion",
-81
-],
-[
-"Indian Lion",
 81
 ],
 [
@@ -1044,11 +1036,19 @@
 81
 ],
 [
-"hyraxes",
+"Wapiti",
 81
 ],
 [
-"Wapiti",
+"Asiatic Lion",
+81
+],
+[
+"Indian Lion",
+81
+],
+[
+"hyraxes",
 81
 ],
 [
@@ -1056,15 +1056,15 @@
 80
 ],
 [
-"Aurochs",
-80
-],
-[
 "Human",
 80
 ],
 [
-"Sea Otter",
+"Aurochs",
+80
+],
+[
+"Camels",
 79
 ],
 [
@@ -1072,11 +1072,11 @@
 79
 ],
 [
-"Camels",
+"Sea Otter",
 79
 ],
 [
-"European Mole",
+"Porpoises",
 78
 ],
 [
@@ -1104,6 +1104,10 @@
 78
 ],
 [
+"European Mole",
+78
+],
+[
 "Asian Wild Horse",
 78
 ],
@@ -1112,16 +1116,24 @@
 78
 ],
 [
-"Przewalski's Horse",
-78
-],
-[
 "Przewalski's horse",
 78
 ],
 [
-"Porpoises",
+"Przewalski's Horse",
 78
+],
+[
+"Rhesus macaque",
+77
+],
+[
+"Rhesus Macaque",
+77
+],
+[
+"Rhesus Monkey",
+77
 ],
 [
 "Vicugna",
@@ -1136,7 +1148,11 @@
 77
 ],
 [
-"Great Indian Rhinoceros",
+"Gaur",
+77
+],
+[
+"Indian Bison",
 77
 ],
 [
@@ -1152,6 +1168,10 @@
 77
 ],
 [
+"Great Indian Rhinoceros",
+77
+],
+[
 "Indian One-horned Rhinoceros",
 77
 ],
@@ -1161,26 +1181,6 @@
 ],
 [
 "Indian Rhinoceros",
-77
-],
-[
-"Rhesus macaque",
-77
-],
-[
-"Rhesus Macaque",
-77
-],
-[
-"Rhesus Monkey",
-77
-],
-[
-"Indian Bison",
-77
-],
-[
-"Gaur",
 77
 ],
 [
@@ -1220,22 +1220,6 @@
 76
 ],
 [
-"American Mink",
-75
-],
-[
-"Fishing Cat",
-75
-],
-[
-"Fishing cat",
-75
-],
-[
-"African golden cat",
-75
-],
-[
 "Javan One-horned Rhinoceros",
 75
 ],
@@ -1260,11 +1244,19 @@
 75
 ],
 [
-"Cape Springbok",
+"Fishing cat",
 75
 ],
 [
-"Springbuck",
+"Fishing Cat",
+75
+],
+[
+"African golden cat",
+75
+],
+[
+"Cape Springbok",
 75
 ],
 [
@@ -1272,11 +1264,31 @@
 75
 ],
 [
-"European Mink",
+"Springbuck",
+75
+],
+[
+"American Mink",
+75
+],
+[
+"Arctic Hare",
 74
 ],
 [
-"Striped Hyena",
+"Blue Hare",
+74
+],
+[
+"Mountain hare",
+74
+],
+[
+"Mountain Hare",
+74
+],
+[
+"Jaguarundi",
 74
 ],
 [
@@ -1288,27 +1300,7 @@
 74
 ],
 [
-"Jaguarundi",
-74
-],
-[
-"Mountain Hare",
-74
-],
-[
-"Mountain hare",
-74
-],
-[
-"Arctic Hare",
-74
-],
-[
-"Blue Hare",
-74
-],
-[
-"Sika",
+"Striped Hyena",
 74
 ],
 [
@@ -1320,6 +1312,10 @@
 74
 ],
 [
+"Sika",
+74
+],
+[
 "Sika deer",
 74
 ],
@@ -1328,7 +1324,59 @@
 74
 ],
 [
+"European Mink",
+74
+],
+[
+"Dormouse",
+73
+],
+[
+"Bottlenose Dolphin",
+73
+],
+[
+"Alpine Ibex",
+73
+],
+[
+"Ibex",
+73
+],
+[
+"Bottle-nosed Dolphin",
+73
+],
+[
+"Bottlenosed Dolphin",
+73
+],
+[
+"bottle-nosed dophin, common bottle-nosed dolphin",
+73
+],
+[
+"Bottlenose dolphin",
+73
+],
+[
+"Common Bottlenose Dolphin",
+73
+],
+[
+"Cowfish",
+73
+],
+[
+"Common Eland",
+73
+],
+[
 "Common seal",
+73
+],
+[
+"Common Seal",
 73
 ],
 [
@@ -1337,14 +1385,6 @@
 ],
 [
 "Harbour Seal",
-73
-],
-[
-"Common Seal",
-73
-],
-[
-"Dormouse",
 73
 ],
 [
@@ -1360,67 +1400,11 @@
 73
 ],
 [
-"Common Eland",
-73
-],
-[
-"Alpine Ibex",
-73
-],
-[
-"Ibex",
-73
-],
-[
-"Bottlenose Dolphin",
-73
-],
-[
-"Bottle-nosed Dolphin",
-73
-],
-[
-"bottle-nosed dophin, common bottle-nosed dolphin",
-73
-],
-[
-"Bottlenosed Dolphin",
-73
-],
-[
-"Common Bottlenose Dolphin",
-73
-],
-[
-"Bottlenose dolphin",
-73
-],
-[
-"Cowfish",
-73
-],
-[
-"Aardwolf",
-72
-],
-[
 "Spectacled bear",
 72
 ],
 [
 "Sloth Bear",
-72
-],
-[
-"Aye-aye",
-72
-],
-[
-"Ring-tailed lemur",
-72
-],
-[
-"Ring-tailed Lemur",
 72
 ],
 [
@@ -1444,6 +1428,10 @@
 72
 ],
 [
+"Kulan",
+72
+],
+[
 "Mongolian Kulan",
 72
 ],
@@ -1452,39 +1440,31 @@
 72
 ],
 [
-"Syrian Onager",
-72
-],
-[
 "Persian Onager",
 72
 ],
 [
-"Kulan",
+"Syrian Onager",
 72
 ],
 [
-"African Forest Elephant",
-71
+"Aardwolf",
+72
 ],
 [
-"Forest elephant",
-71
+"Ring-tailed lemur",
+72
 ],
 [
-"Altai Argali",
-71
+"Ring-tailed Lemur",
+72
 ],
 [
-"argali, mouflon",
-71
+"Aye-aye",
+72
 ],
 [
-"Wild Sheep",
-71
-],
-[
-"Argali",
+"Common Rorqual",
 71
 ],
 [
@@ -1492,11 +1472,11 @@
 71
 ],
 [
-"Razorback",
+"Fin-backed Whale",
 71
 ],
 [
-"Common Rorqual",
+"Finner",
 71
 ],
 [
@@ -1512,27 +1492,47 @@
 71
 ],
 [
-"Fin-backed Whale",
-71
-],
-[
 "Herring Whale",
 71
 ],
 [
-"Finner",
+"Razorback",
 71
 ],
 [
-"Black-footed cat",
+"Altai Argali",
+71
+],
+[
+"Argali",
+71
+],
+[
+"argali, mouflon",
+71
+],
+[
+"Wild Sheep",
+71
+],
+[
+"African Forest Elephant",
+71
+],
+[
+"Forest elephant",
+71
+],
+[
+"heidelberg man",
 70
 ],
 [
-"Black-footed Cat",
+"Black Rat",
 70
 ],
 [
-"Small-spotted Cat",
+"Toothed whales",
 70
 ],
 [
@@ -1560,31 +1560,19 @@
 70
 ],
 [
-"Black Rat",
+"Black-footed cat",
 70
 ],
 [
-"Toothed whales",
+"Black-footed Cat",
 70
 ],
 [
-"heidelberg man",
+"Small-spotted Cat",
 70
 ],
 [
 "Fosssoxa",
-69
-],
-[
-"placental mammals",
-69
-],
-[
-"Binturong",
-69
-],
-[
-"Bearcat",
 69
 ],
 [
@@ -1608,6 +1596,46 @@
 69
 ],
 [
+"Bearcat",
+69
+],
+[
+"Binturong",
+69
+],
+[
+"placental mammals",
+69
+],
+[
+"Arctic Right Whale",
+68
+],
+[
+"Bowhead",
+68
+],
+[
+"Bowhead whale",
+68
+],
+[
+"Bowhead Whale",
+68
+],
+[
+"Greenland Right Whale",
+68
+],
+[
+"Common Warthog",
+68
+],
+[
+"Asian Palm Civet",
+68
+],
+[
 "Common palm civet",
 68
 ],
@@ -1628,19 +1656,7 @@
 68
 ],
 [
-"Asian Palm Civet",
-68
-],
-[
-"Bengal Fox",
-68
-],
-[
-"Indian Fox",
-68
-],
-[
-"black-tailed fox",
+"Markhor",
 68
 ],
 [
@@ -1648,19 +1664,15 @@
 68
 ],
 [
-"Markhor",
+"Bengal Fox",
 68
 ],
 [
-"Common Warthog",
+"black-tailed fox",
 68
 ],
 [
-"Grant's Zebra",
-68
-],
-[
-"Quagga",
+"Indian Fox",
 68
 ],
 [
@@ -1684,6 +1696,10 @@
 68
 ],
 [
+"Grant's Zebra",
+68
+],
+[
 "Painted Zebra",
 68
 ],
@@ -1696,27 +1712,11 @@
 68
 ],
 [
+"Quagga",
+68
+],
+[
 "Zambezi Zebra",
-68
-],
-[
-"Arctic Right Whale",
-68
-],
-[
-"Bowhead",
-68
-],
-[
-"Bowhead whale",
-68
-],
-[
-"Bowhead Whale",
-68
-],
-[
-"Greenland Right Whale",
 68
 ],
 [
@@ -1724,19 +1724,11 @@
 67
 ],
 [
-"Barbary Ape",
-67
-],
-[
-"Barbary macaque",
-67
-],
-[
-"Barbary Macaque",
-67
-],
-[
 "Mandrill",
+67
+],
+[
+"Addax",
 67
 ],
 [
@@ -1752,7 +1744,15 @@
 67
 ],
 [
-"Addax",
+"Barbary Ape",
+67
+],
+[
+"Barbary macaque",
+67
+],
+[
+"Barbary Macaque",
 67
 ],
 [
@@ -1772,23 +1772,7 @@
 67
 ],
 [
-"Short-tailed Wallaby",
-66
-],
-[
-"Quokka",
-66
-],
-[
-"Marbled cat",
-66
-],
-[
-"Marbled Cat",
-66
-],
-[
-"Tembadau",
+"denisovan",
 66
 ],
 [
@@ -1796,67 +1780,7 @@
 66
 ],
 [
-"Pygmy Hippopotamus",
-66
-],
-[
-"Sambar",
-66
-],
-[
-"Indian Sambar",
-66
-],
-[
-"Sambar deer",
-66
-],
-[
-"Sambar Deer",
-66
-],
-[
-"denisovan",
-66
-],
-[
-"Indus River Dolphin",
-66
-],
-[
-"Blind River Dolphin",
-66
-],
-[
-"Ganges river dolphin",
-66
-],
-[
-"South Asian River Dolphin",
-66
-],
-[
-"Ganges Dolphin",
-66
-],
-[
-"Ganges River Dolphin",
-66
-],
-[
-"Ganges Susu",
-66
-],
-[
-"Su-su",
-66
-],
-[
-"Yangtze River Dolphin",
-66
-],
-[
-"Chinese River Dolphin",
+"Tembadau",
 66
 ],
 [
@@ -1872,11 +1796,11 @@
 66
 ],
 [
-"Pei Chi",
+"Chinese River Dolphin",
 66
 ],
 [
-"White Flag Dolphin",
+"Pei Chi",
 66
 ],
 [
@@ -1884,32 +1808,84 @@
 66
 ],
 [
+"White Flag Dolphin",
+66
+],
+[
 "Yangtse River Dolphin",
 66
 ],
 [
-"Grey Seal",
-65
+"Yangtze River Dolphin",
+66
 ],
 [
-"North American Beaver",
-65
+"Blind River Dolphin",
+66
 ],
 [
-"Wild Horse",
-65
+"Ganges Dolphin",
+66
 ],
 [
-"Eurasian Wild Horse",
-65
+"Ganges river dolphin",
+66
 ],
 [
-"Tarpan",
-65
+"Ganges River Dolphin",
+66
 ],
 [
-"quagga",
-65
+"Ganges Susu",
+66
+],
+[
+"Indus River Dolphin",
+66
+],
+[
+"South Asian River Dolphin",
+66
+],
+[
+"Su-su",
+66
+],
+[
+"Pygmy Hippopotamus",
+66
+],
+[
+"Indian Sambar",
+66
+],
+[
+"Sambar",
+66
+],
+[
+"Sambar deer",
+66
+],
+[
+"Sambar Deer",
+66
+],
+[
+"Quokka",
+66
+],
+[
+"Short-tailed Wallaby",
+66
+],
+[
+"Marbled cat",
+66
+],
+[
+"Marbled Cat",
+66
 ],
 [
 "American Pronghorn",
@@ -1924,6 +1900,30 @@
 65
 ],
 [
+"Grey Seal",
+65
+],
+[
+"Eurasian Wild Horse",
+65
+],
+[
+"Tarpan",
+65
+],
+[
+"Wild Horse",
+65
+],
+[
+"quagga",
+65
+],
+[
+"North American Beaver",
+65
+],
+[
 "Leopard seal",
 64
 ],
@@ -1932,11 +1932,7 @@
 64
 ],
 [
-"African Civet",
-64
-],
-[
-"African civet",
+"Sumatran Tiger",
 64
 ],
 [
@@ -1960,7 +1956,7 @@
 64
 ],
 [
-"Sumatran Tiger",
+"Short-beaked Common Dolphin",
 64
 ],
 [
@@ -1968,23 +1964,23 @@
 64
 ],
 [
-"Short-beaked Common Dolphin",
+"African civet",
 64
 ],
 [
-"Giant anteater",
+"African Civet",
+64
+],
+[
+"Gray whale",
 63
 ],
 [
-"Giant Anteater",
+"Gray Whale",
 63
 ],
 [
-"Mediterranean Monk Seal",
-63
-],
-[
-"Maned Wolf",
+"Grey Whale",
 63
 ],
 [
@@ -1992,11 +1988,7 @@
 63
 ],
 [
-"Margay",
-63
-],
-[
-"Tree Ocelot",
+"Maned Wolf",
 63
 ],
 [
@@ -2020,11 +2012,11 @@
 63
 ],
 [
-"Mountain Goat",
+"Margay",
 63
 ],
 [
-"Rocky Mountain Goat",
+"Tree Ocelot",
 63
 ],
 [
@@ -2052,7 +2044,15 @@
 63
 ],
 [
-"Grevy's Zebra",
+"Giant anteater",
+63
+],
+[
+"Giant Anteater",
+63
+],
+[
+"Mediterranean Monk Seal",
 63
 ],
 [
@@ -2060,7 +2060,19 @@
 63
 ],
 [
+"Grevy's Zebra",
+63
+],
+[
 "Grevy’s Zebra",
+63
+],
+[
+"Mountain Goat",
+63
+],
+[
+"Rocky Mountain Goat",
 63
 ],
 [
@@ -2068,107 +2080,7 @@
 63
 ],
 [
-"Gray Whale",
-63
-],
-[
-"Gray whale",
-63
-],
-[
-"Grey Whale",
-63
-],
-[
-"Chinese alpine steppe cat",
-62
-],
-[
-"Chinese desert cat",
-62
-],
-[
-"Chinese mountain cat",
-62
-],
-[
-"Chinese steppe cat",
-62
-],
-[
-"grass cat",
-62
-],
-[
-"Chilean cat",
-62
-],
-[
-"guigna",
-62
-],
-[
-"guiña",
-62
-],
-[
-"kodkod",
-62
-],
-[
-"Bat-eared fox",
-62
-],
-[
-"Bat-eared Fox",
-62
-],
-[
-"Common dormouse",
-62
-],
-[
-"Common Dormouse",
-62
-],
-[
-"Common Hazel Dormouse",
-62
-],
-[
-"Hazel Dormouse",
-62
-],
-[
-"hazel dormouse, common dormouse",
-62
-],
-[
 "Greater Kudu",
-62
-],
-[
-"Cape mountain zebra",
-62
-],
-[
-"Cape Mountain Zebra",
-62
-],
-[
-"mountain zebra",
-62
-],
-[
-"Mountain Zebra",
-62
-],
-[
-"Hartmann's mountain zebra",
-62
-],
-[
-"Hartmann's Mountain Zebra",
 62
 ],
 [
@@ -2196,15 +2108,99 @@
 62
 ],
 [
-"Brown Hyaena",
+"Bat-eared fox",
+62
+],
+[
+"Bat-eared Fox",
+62
+],
+[
+"Chinese alpine steppe cat",
+62
+],
+[
+"Chinese desert cat",
+62
+],
+[
+"Chinese mountain cat",
+62
+],
+[
+"Chinese steppe cat",
+62
+],
+[
+"grass cat",
+62
+],
+[
+"Common dormouse",
+62
+],
+[
+"Common Dormouse",
+62
+],
+[
+"Common Hazel Dormouse",
+62
+],
+[
+"Hazel Dormouse",
+62
+],
+[
+"hazel dormouse, common dormouse",
+62
+],
+[
+"Chilean cat",
+62
+],
+[
+"guigna",
+62
+],
+[
+"guiña",
+62
+],
+[
+"kodkod",
+62
+],
+[
+"Cape mountain zebra",
+62
+],
+[
+"Cape Mountain Zebra",
+62
+],
+[
+"Hartmann's mountain zebra",
+62
+],
+[
+"Hartmann's Mountain Zebra",
+62
+],
+[
+"mountain zebra",
+62
+],
+[
+"Mountain Zebra",
+62
+],
+[
+"cave bear",
 61
 ],
 [
 "Indochinese Tiger",
-61
-],
-[
-"cave bear",
 61
 ],
 [
@@ -2220,14 +2216,6 @@
 61
 ],
 [
-"Ellipsen Waterbuck",
-61
-],
-[
-"Waterbuck",
-61
-],
-[
 "Siamang",
 61
 ],
@@ -2240,6 +2228,10 @@
 61
 ],
 [
+"harbour porpoise",
+61
+],
+[
 "Harbour porpoise",
 61
 ],
@@ -2248,7 +2240,15 @@
 61
 ],
 [
-"harbour porpoise",
+"Brown Hyaena",
+61
+],
+[
+"Ellipsen Waterbuck",
+61
+],
+[
+"Waterbuck",
 61
 ],
 [
@@ -2256,11 +2256,11 @@
 60
 ],
 [
-"Virginia Opossum",
+"Virginian Opossum",
 60
 ],
 [
-"Virginian Opossum",
+"Virginia Opossum",
 60
 ],
 [
@@ -2273,10 +2273,6 @@
 ],
 [
 "Bearded Seal",
-60
-],
-[
-"Kinkajou",
 60
 ],
 [
@@ -2305,50 +2301,6 @@
 ],
 [
 "Bongo",
-60
-],
-[
-"Gemsbok",
-60
-],
-[
-"Hartebeest",
-60
-],
-[
-"Bubal Hartebeest",
-60
-],
-[
-"Long-tailed Field Mouse",
-60
-],
-[
-"Small Wood Mouse",
-60
-],
-[
-"Wood Mouse",
-60
-],
-[
-"wood mouse, long-tailed field mouse",
-60
-],
-[
-"Wood mouse",
-60
-],
-[
-"White-tailed deer",
-60
-],
-[
-"Gerenuk",
-60
-],
-[
-"Southern Gerenuk",
 60
 ],
 [
@@ -2388,6 +2340,14 @@
 60
 ],
 [
+"Boto",
+60
+],
+[
+"Bouto",
+60
+],
+[
 "Boutu",
 60
 ],
@@ -2400,12 +2360,64 @@
 60
 ],
 [
-"Bouto",
+"Gemsbok",
 60
 ],
 [
-"Boto",
+"Gerenuk",
 60
+],
+[
+"Southern Gerenuk",
+60
+],
+[
+"Long-tailed Field Mouse",
+60
+],
+[
+"Small Wood Mouse",
+60
+],
+[
+"Wood mouse",
+60
+],
+[
+"Wood Mouse",
+60
+],
+[
+"wood mouse, long-tailed field mouse",
+60
+],
+[
+"White-tailed deer",
+60
+],
+[
+"Kinkajou",
+60
+],
+[
+"Bubal Hartebeest",
+60
+],
+[
+"Hartebeest",
+60
+],
+[
+"culo mojao",
+59
+],
+[
+"Hyrcanian Tiger",
+59
+],
+[
+"Turan Tiger",
+59
 ],
 [
 "Bush dog",
@@ -2424,31 +2436,39 @@
 59
 ],
 [
-"Rusty-spotted cat",
-59
-],
-[
-"Rusty-spotted Cat",
-59
-],
-[
-"Rusty-Spotted Cat",
-59
-],
-[
-"culo mojao",
-59
-],
-[
-"Hyrcanian Tiger",
-59
-],
-[
-"Turan Tiger",
+"mastodon",
 59
 ],
 [
 "Amur leopard",
+59
+],
+[
+"African Ass",
+59
+],
+[
+"African wild ass",
+59
+],
+[
+"African Wild Ass",
+59
+],
+[
+"Ass",
+59
+],
+[
+"Atlas Wild Ass",
+59
+],
+[
+"Nubian Wild Ass",
+59
+],
+[
+"Somali Wild Ass",
 59
 ],
 [
@@ -2468,7 +2488,15 @@
 59
 ],
 [
-"mastodon",
+"Rusty-spotted cat",
+59
+],
+[
+"Rusty-spotted Cat",
+59
+],
+[
+"Rusty-Spotted Cat",
 59
 ],
 [
@@ -2484,47 +2512,55 @@
 59
 ],
 [
-"African Ass",
-59
-],
-[
-"African wild ass",
-59
-],
-[
-"African Wild Ass",
-59
-],
-[
-"Atlas Wild Ass",
-59
-],
-[
-"Nubian Wild Ass",
-59
-],
-[
-"Somali Wild Ass",
-59
-],
-[
-"Ass",
-59
-],
-[
-"Siberian Weasel",
+"Olinguito",
 58
 ],
 [
-"Marbled Polecat",
+"Gelada",
 58
 ],
 [
-"European marbled polecat",
+"Gelada Baboon",
 58
 ],
 [
-"European Marbled Polecat",
+"Indri",
+58
+],
+[
+"Gray Grampus",
+58
+],
+[
+"Grey Dolphin",
+58
+],
+[
+"rissos dolphin",
+58
+],
+[
+"Risso's Dolphin",
+58
+],
+[
+"Risso’s Dolphin",
+58
+],
+[
+"White-headed Grampus",
+58
+],
+[
+"Black-bellied Hamster",
+58
+],
+[
+"Common Hamster",
+58
+],
+[
+"common hamster, european hamster, black-bellied hamster",
 58
 ],
 [
@@ -2548,18 +2584,6 @@
 58
 ],
 [
-"Geoffroy's cat",
-58
-],
-[
-"Olinguito",
-58
-],
-[
-"Indri",
-58
-],
-[
 "Eurasian Water Vole",
 58
 ],
@@ -2572,35 +2596,7 @@
 58
 ],
 [
-"Black-bellied Hamster",
-58
-],
-[
-"Common Hamster",
-58
-],
-[
-"common hamster, european hamster, black-bellied hamster",
-58
-],
-[
-"Gelada",
-58
-],
-[
-"Gelada Baboon",
-58
-],
-[
-"Southern Oribi",
-58
-],
-[
-"Oribi",
-58
-],
-[
-"Bornean Orangutan",
+"Siberian Weasel",
 58
 ],
 [
@@ -2628,28 +2624,36 @@
 58
 ],
 [
-"Gray Grampus",
+"Oribi",
 58
 ],
 [
-"Risso's Dolphin",
+"Southern Oribi",
 58
 ],
 [
-"Risso’s Dolphin",
+"Geoffroy's cat",
 58
 ],
 [
-"rissos dolphin",
+"Bornean Orangutan",
 58
 ],
 [
-"White-headed Grampus",
+"European marbled polecat",
 58
 ],
 [
-"Grey Dolphin",
+"European Marbled Polecat",
 58
+],
+[
+"Marbled Polecat",
+58
+],
+[
+"hominin",
+57
 ],
 [
 "Flying foxes",
@@ -2660,15 +2664,7 @@
 57
 ],
 [
-"Banded Anteater",
-57
-],
-[
-"Numbat",
-57
-],
-[
-"Steller's Sea Cow",
+"tilcayo",
 57
 ],
 [
@@ -2676,31 +2672,39 @@
 57
 ],
 [
+"Steller's Sea Cow",
+57
+],
+[
 "Steller’s Sea Cow",
 57
 ],
 [
-"American badger",
+"Asian tapir",
 57
 ],
 [
-"American Badger",
+"Asian Tapir",
 57
 ],
 [
-"Cape fox",
+"Asiatic Tapir",
 57
 ],
 [
-"Silver Jackal",
+"Indian Tapir",
 57
 ],
 [
-"Cape Fox",
+"Malayan Tapir",
 57
 ],
 [
-"Silver Fox",
+"Malay Tapir",
+57
+],
+[
+"South China Tiger",
 57
 ],
 [
@@ -2716,27 +2720,75 @@
 57
 ],
 [
-"tilcayo",
+"Saola",
 57
 ],
 [
-"South China Tiger",
+"Siola",
 57
 ],
 [
-"Eastern Gray Squirrel",
+"Vu Quang Ox",
 57
 ],
 [
-"Gray Squirrel",
+"American badger",
 57
 ],
 [
-"Grey squirrel",
+"American Badger",
 57
 ],
 [
-"Grey Squirrel",
+"Lake Victoria Sitatunga",
+57
+],
+[
+"Marshbuck",
+57
+],
+[
+"Sitatunga",
+57
+],
+[
+"Giant Sable Antelope",
+57
+],
+[
+"Sable antelope",
+57
+],
+[
+"Sable Antelope",
+57
+],
+[
+"Southern Sable Antelope",
+57
+],
+[
+"Banded Anteater",
+57
+],
+[
+"Numbat",
+57
+],
+[
+"Cape fox",
+57
+],
+[
+"Cape Fox",
+57
+],
+[
+"Silver Fox",
+57
+],
+[
+"Silver Jackal",
 57
 ],
 [
@@ -2760,74 +2812,6 @@
 57
 ],
 [
-"Asian tapir",
-57
-],
-[
-"Asian Tapir",
-57
-],
-[
-"Asiatic Tapir",
-57
-],
-[
-"Indian Tapir",
-57
-],
-[
-"Malay Tapir",
-57
-],
-[
-"Malayan Tapir",
-57
-],
-[
-"hominin",
-57
-],
-[
-"Lake Victoria Sitatunga",
-57
-],
-[
-"Marshbuck",
-57
-],
-[
-"Sitatunga",
-57
-],
-[
-"Giant Sable Antelope",
-57
-],
-[
-"Sable Antelope",
-57
-],
-[
-"Sable antelope",
-57
-],
-[
-"Southern Sable Antelope",
-57
-],
-[
-"Saola",
-57
-],
-[
-"Vu Quang Ox",
-57
-],
-[
-"Siola",
-57
-],
-[
 "Goitered gazelle",
 57
 ],
@@ -2837,6 +2821,22 @@
 ],
 [
 "Persian Gazelle",
+57
+],
+[
+"Eastern Gray Squirrel",
+57
+],
+[
+"Gray Squirrel",
+57
+],
+[
+"Grey squirrel",
+57
+],
+[
+"Grey Squirrel",
 57
 ],
 [
@@ -2856,14 +2856,6 @@
 57
 ],
 [
-"Baikal Seal",
-56
-],
-[
-"Short-beaked Echidna",
-56
-],
-[
 "Australian Echidna",
 56
 ],
@@ -2880,11 +2872,63 @@
 56
 ],
 [
+"Short-beaked Echidna",
+56
+],
+[
 "Short-nosed Echidna",
 56
 ],
 [
 "Spiny Anteater",
+56
+],
+[
+"Red wolf",
+56
+],
+[
+"Eurasian Harvest Mouse",
+56
+],
+[
+"Harvest mouse",
+56
+],
+[
+"Central Chilean Colocolo",
+56
+],
+[
+"Chilean Pampa Cat",
+56
+],
+[
+"Chilean Pampas Cat",
+56
+],
+[
+"Colocolo",
+56
+],
+[
+"Pampas cat",
+56
+],
+[
+"Pampas Cat",
+56
+],
+[
+"Arabian oryx",
+56
+],
+[
+"Arabian Oryx",
+56
+],
+[
+"White Oryx",
 56
 ],
 [
@@ -2904,18 +2948,6 @@
 56
 ],
 [
-"Giant Brazilian Otter",
-56
-],
-[
-"Giant Otter",
-56
-],
-[
-"Giant otter",
-56
-],
-[
 "Tibetan fox",
 56
 ],
@@ -2925,54 +2957,6 @@
 ],
 [
 "Tibetan Sand Fox",
-56
-],
-[
-"Chilean Pampa Cat",
-56
-],
-[
-"Chilean Pampas Cat",
-56
-],
-[
-"Pampas cat",
-56
-],
-[
-"Pampas Cat",
-56
-],
-[
-"Central Chilean Colocolo",
-56
-],
-[
-"Colocolo",
-56
-],
-[
-"Red wolf",
-56
-],
-[
-"Eurasian Harvest Mouse",
-56
-],
-[
-"Harvest mouse",
-56
-],
-[
-"Arabian oryx",
-56
-],
-[
-"Arabian Oryx",
-56
-],
-[
-"White Oryx",
 56
 ],
 [
@@ -2992,19 +2976,47 @@
 56
 ],
 [
-"Elephant Shrews",
+"Baikal Seal",
+56
+],
+[
+"Giant Brazilian Otter",
+56
+],
+[
+"Giant otter",
+56
+],
+[
+"Giant Otter",
+56
+],
+[
+"Siberian musk deer",
 55
 ],
 [
-"Andean Fox",
+"Siberian Musk Deer",
 55
 ],
 [
-"Culpeo",
+"Water Deer",
 55
 ],
 [
-"Hoary Fox",
+"Javan Tiger",
+55
+],
+[
+"Malayan Tiger",
+55
+],
+[
+"Bank vole",
+55
+],
+[
+"Bank Vole",
 55
 ],
 [
@@ -3012,11 +3024,11 @@
 55
 ],
 [
-"Blanford's Fox",
+"Blanford’s fox",
 55
 ],
 [
-"Blanford’s fox",
+"Blanford's Fox",
 55
 ],
 [
@@ -3032,31 +3044,11 @@
 55
 ],
 [
+"Hoary Fox",
+55
+],
+[
 "Steppe Fox",
-55
-],
-[
-"Javan Tiger",
-55
-],
-[
-"Malayan Tiger",
-55
-],
-[
-"Snowshoe Rabbit",
-55
-],
-[
-"Snowshoe hare",
-55
-],
-[
-"Snowshoe Hare",
-55
-],
-[
-"Varying Hare",
 55
 ],
 [
@@ -3064,51 +3056,11 @@
 55
 ],
 [
-"Bank vole",
-55
-],
-[
-"Bank Vole",
-55
-],
-[
-"Tibetan antelope",
-55
-],
-[
-"Tibetan Antelope",
-55
-],
-[
-"Chiru",
-55
-],
-[
-"Mindoro Dwarf Buffalo",
-55
-],
-[
-"Tamarau",
-55
-],
-[
-"Tamarou",
-55
-],
-[
-"Taumarau",
-55
-],
-[
-"Tamaraw",
+"Buffon’s Kob",
 55
 ],
 [
 "Kob",
-55
-],
-[
-"Buffon’s Kob",
 55
 ],
 [
@@ -3120,7 +3072,35 @@
 55
 ],
 [
+"Chiru",
+55
+],
+[
+"Tibetan antelope",
+55
+],
+[
+"Tibetan Antelope",
+55
+],
+[
+"Andean Fox",
+55
+],
+[
+"Culpeo",
+55
+],
+[
+"Barking Deer",
+55
+],
+[
 "Bornean Red Muntjac",
+55
+],
+[
+"Indian Muntjac",
 55
 ],
 [
@@ -3144,59 +3124,83 @@
 55
 ],
 [
-"Barking Deer",
+"Mindoro Dwarf Buffalo",
 55
 ],
 [
-"Indian Muntjac",
+"Tamarau",
 55
 ],
 [
-"Water Deer",
+"Tamaraw",
 55
 ],
 [
-"Siberian musk deer",
+"Tamarou",
 55
 ],
 [
-"Siberian Musk Deer",
+"Taumarau",
 55
 ],
 [
-"American Manatee",
+"Snowshoe hare",
+55
+],
+[
+"Snowshoe Hare",
+55
+],
+[
+"Snowshoe Rabbit",
+55
+],
+[
+"Varying Hare",
+55
+],
+[
+"Elephant Shrews",
+55
+],
+[
+"Common Pipistrelle",
 54
 ],
 [
-"Caribbean Manatee",
+"pipistrelle, common pipistrelle",
 54
 ],
 [
-"West Indian manatee",
+"Falkland Islands Wolf",
 54
 ],
 [
-"West Indian Manatee",
+"Falkland Island wolf",
 54
 ],
 [
-"Egyptian mongoose",
+"Falklands Wolf",
 54
 ],
 [
-"Egyptian Mongoose",
+"Pere David’s deer",
 54
 ],
 [
-"Large Gray Mongoose",
+"Pere David's Deer",
 54
 ],
 [
-"Large Grey Mongoose",
+"Père David's Deer",
 54
 ],
 [
-"Ichneumon",
+"Père David’s Deer",
+54
+],
+[
+"Harp Seal",
 54
 ],
 [
@@ -3216,18 +3220,6 @@
 54
 ],
 [
-"Harp Seal",
-54
-],
-[
-"Pekan",
-54
-],
-[
-"Fisher",
-54
-],
-[
 "South Atlantic Elephant-seal",
 54
 ],
@@ -3236,23 +3228,35 @@
 54
 ],
 [
-"Southern Elephant Seal",
-54
-],
-[
 "Southern Elephant-seal",
 54
 ],
 [
-"Falkland Island wolf",
+"Southern Elephant Seal",
 54
 ],
 [
-"Falklands Wolf",
+"Chousingha",
 54
 ],
 [
-"Falkland Islands Wolf",
+"Chowsingha",
+54
+],
+[
+"Four-horned Antelope",
+54
+],
+[
+"Flat-headed cat",
+54
+],
+[
+"Flat-headed Cat",
+54
+],
+[
+"Alpine Marmot",
 54
 ],
 [
@@ -3276,42 +3280,6 @@
 54
 ],
 [
-"Common Pipistrelle",
-54
-],
-[
-"pipistrelle, common pipistrelle",
-54
-],
-[
-"Flat-headed cat",
-54
-],
-[
-"Flat-headed Cat",
-54
-],
-[
-"Etruscan Shrew",
-54
-],
-[
-"Pygmy White-toothed Shrew",
-54
-],
-[
-"Savi's Pygmy Shrew",
-54
-],
-[
-"Savi’s pygmy shrew",
-54
-],
-[
-"White-toothed Pygmy Shrew",
-54
-],
-[
 "Dassie",
 54
 ],
@@ -3328,7 +3296,7 @@
 54
 ],
 [
-"Alpine Marmot",
+"asian chipmunk, siberian chipmunk",
 54
 ],
 [
@@ -3336,7 +3304,39 @@
 54
 ],
 [
-"asian chipmunk, siberian chipmunk",
+"Etruscan Shrew",
+54
+],
+[
+"Pygmy White-toothed Shrew",
+54
+],
+[
+"Savi’s pygmy shrew",
+54
+],
+[
+"Savi's Pygmy Shrew",
+54
+],
+[
+"White-toothed Pygmy Shrew",
+54
+],
+[
+"American Manatee",
+54
+],
+[
+"Caribbean Manatee",
+54
+],
+[
+"West Indian manatee",
+54
+],
+[
+"West Indian Manatee",
 54
 ],
 [
@@ -3348,103 +3348,51 @@
 54
 ],
 [
-"Pere David's Deer",
+"Fisher",
 54
 ],
 [
-"Père David's Deer",
+"Pekan",
 54
 ],
 [
-"Pere David’s deer",
+"Egyptian mongoose",
 54
 ],
 [
-"Père David’s Deer",
+"Egyptian Mongoose",
 54
 ],
 [
-"Chousingha",
+"Ichneumon",
 54
 ],
 [
-"Chowsingha",
+"Large Gray Mongoose",
 54
 ],
 [
-"Four-horned Antelope",
+"Large Grey Mongoose",
 54
-],
-[
-"African palm civet",
-53
-],
-[
-"African Palm Civet",
-53
-],
-[
-"Tree Civet",
-53
-],
-[
-"Two-spotted Palm Civet",
-53
-],
-[
-"Yellow-throated marten",
-53
-],
-[
-"Yellow-throated Marten",
-53
-],
-[
-"Yellow-throatedMarten",
-53
-],
-[
-"Rüeppell's Fox",
-53
-],
-[
-"Rüppel's fox",
-53
-],
-[
-"Rüppell's Fox",
-53
-],
-[
-"Rüppell’s Fox",
-53
-],
-[
-"Rüppell’s Sand Fox",
-53
-],
-[
-"Sand Fox",
-53
-],
-[
-"Arabian Hare",
-53
-],
-[
-"Cape hare",
-53
-],
-[
-"Cape Hare",
-53
-],
-[
-"Desert Hare",
-53
 ],
 [
 "Tarsier",
+53
+],
+[
+"Black Right Whale",
+53
+],
+[
+"North Atlantic right whale",
+53
+],
+[
+"North Atlantic Right Whale",
+53
+],
+[
+"Northern Right Whale",
 53
 ],
 [
@@ -3453,86 +3401,6 @@
 ],
 [
 "Golden Hamster",
-53
-],
-[
-"hominine",
-53
-],
-[
-"Yellow baboon",
-53
-],
-[
-"Yellow Baboon",
-53
-],
-[
-"Scimitar Oryx",
-53
-],
-[
-"Scimitar-horned oryx",
-53
-],
-[
-"Scimitar-horned Oryx",
-53
-],
-[
-"Drill",
-53
-],
-[
-"Himalayan Brown Goral",
-53
-],
-[
-"Himalayan Goral",
-53
-],
-[
-"Goral",
-53
-],
-[
-"Hog deer",
-53
-],
-[
-"Indian Hog Deer",
-53
-],
-[
-"Indochina Hog Deer",
-53
-],
-[
-"Indochinese Hog Deer",
-53
-],
-[
-"Thai Hog Deer",
-53
-],
-[
-"Hog Deer",
-53
-],
-[
-"babirusa",
-53
-],
-[
-"Sumatran orangutan",
-53
-],
-[
-"Sumatran Orangutan",
-53
-],
-[
-"Bryde's whale",
 53
 ],
 [
@@ -3556,19 +3424,151 @@
 53
 ],
 [
-"Black Right Whale",
+"Yellow-throated marten",
 53
 ],
 [
-"North Atlantic right whale",
+"Yellow-throated Marten",
 53
 ],
 [
-"North Atlantic Right Whale",
+"Yellow-throatedMarten",
 53
 ],
 [
-"Northern Right Whale",
+"Bryde's whale",
+53
+],
+[
+"Drill",
+53
+],
+[
+"babirusa",
+53
+],
+[
+"hominine",
+53
+],
+[
+"Rüeppell's Fox",
+53
+],
+[
+"Rüppell's Fox",
+53
+],
+[
+"Rüppell’s Fox",
+53
+],
+[
+"Rüppell’s Sand Fox",
+53
+],
+[
+"Rüppel's fox",
+53
+],
+[
+"Sand Fox",
+53
+],
+[
+"Desert Hare",
+53
+],
+[
+"Scimitar-horned oryx",
+53
+],
+[
+"Scimitar-horned Oryx",
+53
+],
+[
+"Scimitar Oryx",
+53
+],
+[
+"Hog deer",
+53
+],
+[
+"Hog Deer",
+53
+],
+[
+"Indian Hog Deer",
+53
+],
+[
+"Indochina Hog Deer",
+53
+],
+[
+"Indochinese Hog Deer",
+53
+],
+[
+"Thai Hog Deer",
+53
+],
+[
+"Goral",
+53
+],
+[
+"Himalayan Brown Goral",
+53
+],
+[
+"Himalayan Goral",
+53
+],
+[
+"African palm civet",
+53
+],
+[
+"African Palm Civet",
+53
+],
+[
+"Tree Civet",
+53
+],
+[
+"Two-spotted Palm Civet",
+53
+],
+[
+"Sumatran orangutan",
+53
+],
+[
+"Sumatran Orangutan",
+53
+],
+[
+"Arabian Hare",
+53
+],
+[
+"Cape hare",
+53
+],
+[
+"Cape Hare",
+53
+],
+[
+"Yellow baboon",
+53
+],
+[
+"Yellow Baboon",
 53
 ],
 [
@@ -3576,27 +3576,87 @@
 52
 ],
 [
-"greater horseshoe bat",
+"Common Gibbon",
 52
 ],
 [
-"Greater horseshoe bat",
+"Lar Gibbon",
 52
 ],
 [
-"Greater Horseshoe Bat",
+"White-handed gibbon",
 52
 ],
 [
-"Indian Smooth-coated Otter",
+"White-handed Gibbon",
 52
 ],
 [
-"Smooth-coated otter",
+"False killer whale",
 52
 ],
 [
-"Smooth-coated Otter",
+"False Killer Whale",
+52
+],
+[
+"false killer whale, pfalse killer",
+52
+],
+[
+"False Pilot Whale",
+52
+],
+[
+"Yellow-necked Field Mouse",
+52
+],
+[
+"Yellow-necked mouse",
+52
+],
+[
+"yellow-necked mouse, yellow-necked field mouse",
+52
+],
+[
+"Nyala",
+52
+],
+[
+"Southern right whale",
+52
+],
+[
+"Southern Right Whale",
+52
+],
+[
+"Malayan Pangolin",
+52
+],
+[
+"Sunda pangolin",
+52
+],
+[
+"Sunda Pangolin",
+52
+],
+[
+"Thomson’s gazelle",
+52
+],
+[
+"Thomson's Gazelle",
+52
+],
+[
+"Red Lechwe",
+52
+],
+[
+"Southern Lechwe",
 52
 ],
 [
@@ -3620,6 +3680,18 @@
 52
 ],
 [
+"greater horseshoe bat",
+52
+],
+[
+"Greater horseshoe bat",
+52
+],
+[
+"Greater Horseshoe Bat",
+52
+],
+[
 "Indian Pangolin",
 52
 ],
@@ -3632,6 +3704,18 @@
 52
 ],
 [
+"Indian Smooth-coated Otter",
+52
+],
+[
+"Smooth-coated otter",
+52
+],
+[
+"Smooth-coated Otter",
+52
+],
+[
 "Chinese pangolin",
 52
 ],
@@ -3640,175 +3724,11 @@
 52
 ],
 [
-"Malayan Pangolin",
-52
-],
-[
-"Sunda pangolin",
-52
-],
-[
-"Sunda Pangolin",
-52
-],
-[
-"Nyala",
-52
-],
-[
-"Red Lechwe",
-52
-],
-[
-"Southern Lechwe",
-52
-],
-[
-"Yellow-necked Field Mouse",
-52
-],
-[
-"Yellow-necked mouse",
-52
-],
-[
-"yellow-necked mouse, yellow-necked field mouse",
-52
-],
-[
-"Common Gibbon",
-52
-],
-[
-"Lar Gibbon",
-52
-],
-[
-"White-handed gibbon",
-52
-],
-[
-"White-handed Gibbon",
-52
-],
-[
-"Thomson's Gazelle",
-52
-],
-[
-"Thomson’s gazelle",
-52
-],
-[
-"False killer whale",
-52
-],
-[
-"False Killer Whale",
-52
-],
-[
-"false killer whale, pfalse killer",
-52
-],
-[
-"False Pilot Whale",
-52
-],
-[
-"Southern Right Whale",
-52
-],
-[
-"Southern right whale",
-52
-],
-[
-"Indian Gray Mongoose",
-51
-],
-[
-"Indian grey mongoose",
-51
-],
-[
-"Indian Grey Mongoose",
-51
-],
-[
-"Marten",
-51
-],
-[
-"American marten",
-51
-],
-[
-"American Marten",
-51
-],
-[
-"American Pine Marten",
-51
-],
-[
-"Pacific Marten",
-51
-],
-[
-"Oriental Civet",
-51
-],
-[
-"Serotine",
-51
-],
-[
-"Common Serotine",
-51
-],
-[
-"Serotine bat",
-51
-],
-[
-"Serotine Bat",
-51
-],
-[
-"serotine, common serotine",
-51
-],
-[
-"Lesser Oriental Civet",
-51
-],
-[
-"Small Indian civet",
-51
-],
-[
-"Rasse",
-51
-],
-[
-"Small Indian Civet",
-51
-],
-[
-"Kit fox",
-51
-],
-[
-"Kit Fox",
+"Robust australopithecines",
 51
 ],
 [
 "coatimundi",
-51
-],
-[
-"South American Coati",
 51
 ],
 [
@@ -3828,47 +3748,43 @@
 51
 ],
 [
-"Desert Fox",
+"South American Coati",
 51
 ],
 [
-"Eurasian Pygmy Shrew",
+"American Bighorn",
 51
 ],
 [
-"Pygmy Shrew",
+"Bighorn sheep",
 51
 ],
 [
-"pygmy shrew, lesser shrew",
+"Bighorn Sheep",
 51
 ],
 [
-"European Garden Dormouse",
+"Mountain Sheep",
 51
 ],
 [
-"garden dormouse",
+"Common Serotine",
 51
 ],
 [
-"Garden dormouse",
+"Serotine",
 51
 ],
 [
-"Garden Dormouse",
+"Serotine bat",
 51
 ],
 [
-"Crested Porcupine",
+"Serotine Bat",
 51
 ],
 [
-"Pacific Rat",
-51
-],
-[
-"Polynesian Rat",
+"serotine, common serotine",
 51
 ],
 [
@@ -3916,6 +3832,58 @@
 51
 ],
 [
+"Eurasian Pygmy Shrew",
+51
+],
+[
+"Pygmy Shrew",
+51
+],
+[
+"pygmy shrew, lesser shrew",
+51
+],
+[
+"Crested Porcupine",
+51
+],
+[
+"American marten",
+51
+],
+[
+"American Marten",
+51
+],
+[
+"American Pine Marten",
+51
+],
+[
+"Marten",
+51
+],
+[
+"Pacific Marten",
+51
+],
+[
+"Nubian ibex",
+51
+],
+[
+"Nubian Ibex",
+51
+],
+[
+"Pacific Rat",
+51
+],
+[
+"Polynesian Rat",
+51
+],
+[
 "Bharal",
 51
 ],
@@ -3928,43 +3896,19 @@
 51
 ],
 [
-"Robust australopithecines",
+"European Garden Dormouse",
 51
 ],
 [
-"Mountain Sheep",
+"garden dormouse",
 51
 ],
 [
-"American Bighorn",
+"Garden dormouse",
 51
 ],
 [
-"Bighorn sheep",
-51
-],
-[
-"Bighorn Sheep",
-51
-],
-[
-"Asiatic Ibex",
-51
-],
-[
-"Himalayan Ibex",
-51
-],
-[
-"Siberian Ibex",
-51
-],
-[
-"Nubian ibex",
-51
-],
-[
-"Nubian Ibex",
+"Garden Dormouse",
 51
 ],
 [
@@ -3980,44 +3924,60 @@
 51
 ],
 [
-"Bumblebee Bat",
-50
+"Indian Gray Mongoose",
+51
 ],
 [
-"Kitti's Hog-nosed Bat",
-50
+"Indian grey mongoose",
+51
 ],
 [
-"Kitti’s hog-nosed bat",
-50
+"Indian Grey Mongoose",
+51
 ],
 [
-"Kitti’s Hog-nosed Bat (Smallest Mammal!)",
-50
+"Lesser Oriental Civet",
+51
 ],
 [
-"Hog-nosed Bat",
-50
+"Oriental Civet",
+51
 ],
 [
-"Natterer's bat",
-50
+"Rasse",
+51
 ],
 [
-"Natterer's Bat",
-50
+"Small Indian civet",
+51
 ],
 [
-"Natterer’s Bat",
-50
+"Small Indian Civet",
+51
 ],
 [
-"Natterer’s Myotis",
-50
+"Desert Fox",
+51
 ],
 [
-"natterers bat",
-50
+"Kit fox",
+51
+],
+[
+"Kit Fox",
+51
+],
+[
+"Asiatic Ibex",
+51
+],
+[
+"Himalayan Ibex",
+51
+],
+[
+"Siberian Ibex",
+51
 ],
 [
 "Bladder-nose",
@@ -4033,6 +3993,66 @@
 ],
 [
 "Hooded Seal",
+50
+],
+[
+"Kiang",
+50
+],
+[
+"Woodchuck",
+50
+],
+[
+"Woodchuck (Gopher)",
+50
+],
+[
+"Eastern Gray Kangaroo",
+50
+],
+[
+"Eastern grey kangaroo",
+50
+],
+[
+"Eastern Grey Kangaroo",
+50
+],
+[
+"Naked mole rat",
+50
+],
+[
+"Naked Mole-rat",
+50
+],
+[
+"Naked Mole Rat",
+50
+],
+[
+"Sand Puppy",
+50
+],
+[
+"Bumblebee Bat",
+50
+],
+[
+"Hog-nosed Bat",
+50
+],
+[
+"Kitti’s hog-nosed bat",
+50
+],
+[
+"Kitti's Hog-nosed Bat",
+50
+],
+[
+"Kitti’s Hog-nosed Bat (Smallest Mammal!)",
 50
 ],
 [
@@ -4052,78 +4072,6 @@
 50
 ],
 [
-"Large Indian civet",
-50
-],
-[
-"Large Indian Civet",
-50
-],
-[
-"Gem-faced Civet",
-50
-],
-[
-"Himalayan Palm Civet",
-50
-],
-[
-"Masked palm civet",
-50
-],
-[
-"Masked Palm Civet",
-50
-],
-[
-"Azara's Fox",
-50
-],
-[
-"Azara's Zorro",
-50
-],
-[
-"Azara’s Fox",
-50
-],
-[
-"Azara’s Zorro",
-50
-],
-[
-"Pampas fox",
-50
-],
-[
-"Pampas Fox",
-50
-],
-[
-"Eastern Gray Kangaroo",
-50
-],
-[
-"Eastern grey kangaroo",
-50
-],
-[
-"Eastern Grey Kangaroo",
-50
-],
-[
-"Northern Water Shrew",
-50
-],
-[
-"Water shrew",
-50
-],
-[
-"Water Shrew",
-50
-],
-[
 "Eurasian Water Shrew",
 50
 ],
@@ -4132,31 +4080,19 @@
 50
 ],
 [
+"Northern Water Shrew",
+50
+],
+[
 "Old World Water Shrew",
 50
 ],
 [
-"Woodchuck (Gopher)",
+"Water shrew",
 50
 ],
 [
-"Woodchuck",
-50
-],
-[
-"Naked mole rat",
-50
-],
-[
-"Naked Mole Rat",
-50
-],
-[
-"Naked Mole-rat",
-50
-],
-[
-"Sand Puppy",
+"Water Shrew",
 50
 ],
 [
@@ -4176,6 +4112,46 @@
 50
 ],
 [
+"Cuvier's Beaked Whale",
+50
+],
+[
+"Gem-faced Civet",
+50
+],
+[
+"Himalayan Palm Civet",
+50
+],
+[
+"Masked palm civet",
+50
+],
+[
+"Masked Palm Civet",
+50
+],
+[
+"natterers bat",
+50
+],
+[
+"Natterer's bat",
+50
+],
+[
+"Natterer's Bat",
+50
+],
+[
+"Natterer’s Bat",
+50
+],
+[
+"Natterer’s Myotis",
+50
+],
+[
 "Himalayan tahr",
 50
 ],
@@ -4184,67 +4160,59 @@
 50
 ],
 [
-"Kiang",
+"Large Indian civet",
 50
 ],
 [
-"Cuvier's Beaked Whale",
+"Large Indian Civet",
 50
 ],
 [
-"Amazon Manatee",
+"Azara's Fox",
+50
+],
+[
+"Azara’s Fox",
+50
+],
+[
+"Azara's Zorro",
+50
+],
+[
+"Azara’s Zorro",
+50
+],
+[
+"Pampas fox",
+50
+],
+[
+"Pampas Fox",
+50
+],
+[
+"Gorontalo Macaque",
 49
 ],
 [
-"Amazonian manatee",
+"Pygmy right whale",
 49
 ],
 [
-"Amazonian Manatee",
+"Pygmy Right Whale",
 49
 ],
 [
-"South American Manatee",
+"white-beaked dolphin",
 49
 ],
 [
-"Whiskered bat",
+"White-beaked dolphin",
 49
 ],
 [
-"Whiskered Bat",
-49
-],
-[
-"whiskered bat, european whiskered bat",
-49
-],
-[
-"WHISKERED MYOTIS",
-49
-],
-[
-"Whiskered Myotis",
-49
-],
-[
-"Crabeater seal",
-49
-],
-[
-"Crabeater Seal",
-49
-],
-[
-"Steppe Polecat",
-49
-],
-[
-"Steppe Weasel",
-49
-],
-[
-"Hawaiian Monk Seal",
+"White-beaked Dolphin",
 49
 ],
 [
@@ -4272,7 +4240,35 @@
 49
 ],
 [
-"Island fox",
+"Black Crested Macaque",
+49
+],
+[
+"Celebes Black Macaque",
+49
+],
+[
+"Celebes Crested Macaque",
+49
+],
+[
+"Celebes Macaque",
+49
+],
+[
+"Crested black macaque",
+49
+],
+[
+"Crested Black Macaque",
+49
+],
+[
+"Sulawesi Black Macaque",
+49
+],
+[
+"Sulawesi Macaque",
 49
 ],
 [
@@ -4296,15 +4292,11 @@
 49
 ],
 [
-"black-tailed jackrabbit",
+"black-tailed deer",
 49
 ],
 [
-"Black-tailed Jackrabbit",
-49
-],
-[
-"Russian desman",
+"mule deer",
 49
 ],
 [
@@ -4312,51 +4304,55 @@
 49
 ],
 [
+"Russian desman",
+49
+],
+[
 "Russian Desman",
 49
 ],
 [
-"Indian crested porcupine",
+"Amazonian manatee",
 49
 ],
 [
-"Indian Crested Porcupine",
+"Amazonian Manatee",
 49
 ],
 [
-"Black Crested Macaque",
+"Amazon Manatee",
 49
 ],
 [
-"Celebes Black Macaque",
+"South American Manatee",
 49
 ],
 [
-"Celebes Crested Macaque",
+"Marsh deer",
 49
 ],
 [
-"Celebes Macaque",
+"Marsh Deer",
 49
 ],
 [
-"Gorontalo Macaque",
+"Whiskered bat",
 49
 ],
 [
-"Crested black macaque",
+"Whiskered Bat",
 49
 ],
 [
-"Crested Black Macaque",
+"whiskered bat, european whiskered bat",
 49
 ],
 [
-"Sulawesi Black Macaque",
+"Whiskered Myotis",
 49
 ],
 [
-"Sulawesi Macaque",
+"WHISKERED MYOTIS",
 49
 ],
 [
@@ -4368,11 +4364,51 @@
 49
 ],
 [
-"black-tailed deer",
+"Crabeater seal",
 49
 ],
 [
-"mule deer",
+"Crabeater Seal",
+49
+],
+[
+"black-tailed jackrabbit",
+49
+],
+[
+"Black-tailed Jackrabbit",
+49
+],
+[
+"Hawaiian Monk Seal",
+49
+],
+[
+"Island fox",
+49
+],
+[
+"Tufted deer",
+49
+],
+[
+"Tufted Deer",
+49
+],
+[
+"Steppe Polecat",
+49
+],
+[
+"Steppe Weasel",
+49
+],
+[
+"Indian crested porcupine",
+49
+],
+[
+"Indian Crested Porcupine",
 49
 ],
 [
@@ -4392,307 +4428,7 @@
 49
 ],
 [
-"Marsh deer",
-49
-],
-[
-"Marsh Deer",
-49
-],
-[
-"Tufted deer",
-49
-],
-[
-"Tufted Deer",
-49
-],
-[
-"white-beaked dolphin",
-49
-],
-[
-"White-beaked dolphin",
-49
-],
-[
-"White-beaked Dolphin",
-49
-],
-[
-"Pygmy right whale",
-49
-],
-[
-"Pygmy Right Whale",
-49
-],
-[
-"Daubenton's bat",
-48
-],
-[
-"Daubenton's Bat",
-48
-],
-[
-"Daubenton's Myotis",
-48
-],
-[
-"Daubenton’s Bat",
-48
-],
-[
-"Daubenton’s Myotis",
-48
-],
-[
-"daubentons bat",
-48
-],
-[
-"Noctule bat",
-48
-],
-[
-"noctule, common noctule",
-48
-],
-[
-"Noctule",
-48
-],
-[
-"Australian Fur Seal",
-48
-],
-[
-"Brown Fur Seal",
-48
-],
-[
-"Cape Fur Seal",
-48
-],
-[
-"South African Fur Seal",
-48
-],
-[
-"Afro-Australian Fur Seal",
-48
-],
-[
-"Brown fur seal",
-48
-],
-[
-"Caspian seal",
-48
-],
-[
-"Caspian Seal",
-48
-],
-[
-"Striped skunk",
-48
-],
-[
-"Striped Skunk",
-48
-],
-[
-"lesser horseshoe bat",
-48
-],
-[
-"Lesser horseshoe bat",
-48
-],
-[
-"Lesser Horseshoe Bat",
-48
-],
-[
-"Bass Strait Wombat",
-48
-],
-[
-"Coarse-haired Wombat",
-48
-],
-[
-"Common Wombat",
-48
-],
-[
-"Flinders Island Wombat",
-48
-],
-[
-"Forest Wombat",
-48
-],
-[
-"Tasmanian Wombat",
-48
-],
-[
-"Bare-nosed Wombat",
-48
-],
-[
-"black-footed ferret",
-48
-],
-[
-"Black-footed ferret",
-48
-],
-[
-"Black-footed Ferret",
-48
-],
-[
-"barbastelle",
-48
-],
-[
-"Barbastelle",
-48
-],
-[
-"Barbastelle bat",
-48
-],
-[
-"Western Barbastelle",
-48
-],
-[
-"northern bat",
-48
-],
-[
-"Northern Bat",
-48
-],
-[
-"Greater Hog Badger",
-48
-],
-[
-"Hog Badger",
-48
-],
-[
-"Hog badger",
-48
-],
-[
-"Darwin's Fox",
-48
-],
-[
-"Darwin’s fox",
-48
-],
-[
-"Darwin’s Fox",
-48
-],
-[
 "Golden cat",
-48
-],
-[
-"African Sand Fox",
-48
-],
-[
-"Pale fox",
-48
-],
-[
-"Pale Fox",
-48
-],
-[
-"Pallid Fox",
-48
-],
-[
-"Asiatic Cheetah",
-48
-],
-[
-"Iranian Cheetah",
-48
-],
-[
-"common shrew",
-48
-],
-[
-"common Shrew",
-48
-],
-[
-"Common shrew",
-48
-],
-[
-"Eurasian Common Shrew",
-48
-],
-[
-"Eurasian Shrew",
-48
-],
-[
-"Common Forest Dormouse",
-48
-],
-[
-"Forest Dormouse",
-48
-],
-[
-"Indian Giant Squirrel",
-48
-],
-[
-"Malabar Giant Squirrel",
-48
-],
-[
-"Bobak marmot",
-48
-],
-[
-"Bobak Marmot",
-48
-],
-[
-"Dzhungarian Hamster",
-48
-],
-[
-"Striped Hairy-footed Hamster",
-48
-],
-[
-"Black wildebeest",
-48
-],
-[
-"Black Wildebeest",
-48
-],
-[
-"White-tailed Gnu",
 48
 ],
 [
@@ -4716,11 +4452,231 @@
 48
 ],
 [
+"Atlantic Pilot Whale",
+48
+],
+[
+"Blackfish",
+48
+],
+[
+"long-finned pilot whale",
+48
+],
+[
+"Long-finned pilot whale",
+48
+],
+[
+"Long-finned Pilot Whale",
+48
+],
+[
+"Northern Pilot Whale",
+48
+],
+[
+"Pothead Whale",
+48
+],
+[
+"Dzhungarian Hamster",
+48
+],
+[
+"Striped Hairy-footed Hamster",
+48
+],
+[
+"Noctule",
+48
+],
+[
+"Noctule bat",
+48
+],
+[
+"noctule, common noctule",
+48
+],
+[
+"North Atlantic Beaked Whale",
+48
+],
+[
+"Sowerby’s beaked whale",
+48
+],
+[
+"Sowerby's Beaked Whale",
+48
+],
+[
+"Sowerby’s Beaked Whale",
+48
+],
+[
+"sowerbys beaked whale, beaked whale",
+48
+],
+[
+"Sowerby’s North Sea Beaked Whale",
+48
+],
+[
+"Sowerby’s Whale",
+48
+],
+[
+"barbastelle",
+48
+],
+[
+"Barbastelle",
+48
+],
+[
+"Barbastelle bat",
+48
+],
+[
+"Western Barbastelle",
+48
+],
+[
+"Indian Giant Squirrel",
+48
+],
+[
+"Malabar Giant Squirrel",
+48
+],
+[
+"Asiatic Cheetah",
+48
+],
+[
+"Iranian Cheetah",
+48
+],
+[
+"northern bat",
+48
+],
+[
+"Northern Bat",
+48
+],
+[
+"Common Forest Dormouse",
+48
+],
+[
+"Forest Dormouse",
+48
+],
+[
+"Eastern gorilla",
+48
+],
+[
+"Eastern Gorilla",
+48
+],
+[
 "Grey Ox",
 48
 ],
 [
 "Kouprey",
+48
+],
+[
+"Striped skunk",
+48
+],
+[
+"Striped Skunk",
+48
+],
+[
+"Black wildebeest",
+48
+],
+[
+"Black Wildebeest",
+48
+],
+[
+"White-tailed Gnu",
+48
+],
+[
+"black-footed ferret",
+48
+],
+[
+"Black-footed ferret",
+48
+],
+[
+"Black-footed Ferret",
+48
+],
+[
+"Chinkara",
+48
+],
+[
+"Indian Gazelle",
+48
+],
+[
+"Afro-Australian Fur Seal",
+48
+],
+[
+"Australian Fur Seal",
+48
+],
+[
+"Brown fur seal",
+48
+],
+[
+"Brown Fur Seal",
+48
+],
+[
+"Cape Fur Seal",
+48
+],
+[
+"South African Fur Seal",
+48
+],
+[
+"daubentons bat",
+48
+],
+[
+"Daubenton's bat",
+48
+],
+[
+"Daubenton's Bat",
+48
+],
+[
+"Daubenton’s Bat",
+48
+],
+[
+"Daubenton's Myotis",
+48
+],
+[
+"Daubenton’s Myotis",
 48
 ],
 [
@@ -4740,11 +4696,47 @@
 48
 ],
 [
-"Chinkara",
+"lesser horseshoe bat",
 48
 ],
 [
-"Indian Gazelle",
+"Lesser horseshoe bat",
+48
+],
+[
+"Lesser Horseshoe Bat",
+48
+],
+[
+"common shrew",
+48
+],
+[
+"common Shrew",
+48
+],
+[
+"Common shrew",
+48
+],
+[
+"Eurasian Common Shrew",
+48
+],
+[
+"Eurasian Shrew",
+48
+],
+[
+"Darwin’s fox",
+48
+],
+[
+"Darwin's Fox",
+48
+],
+[
+"Darwin’s Fox",
 48
 ],
 [
@@ -4760,75 +4752,19 @@
 48
 ],
 [
-"Eastern gorilla",
+"Bobak marmot",
 48
 ],
 [
-"Eastern Gorilla",
-48
-],
-[
-"Mountain Gorilla",
-48
-],
-[
-"North Atlantic Beaked Whale",
-48
-],
-[
-"Sowerby's Beaked Whale",
-48
-],
-[
-"Sowerby’s beaked whale",
-48
-],
-[
-"Sowerby’s Beaked Whale",
-48
-],
-[
-"Sowerby’s North Sea Beaked Whale",
-48
-],
-[
-"Sowerby’s Whale",
-48
-],
-[
-"sowerbys beaked whale, beaked whale",
-48
-],
-[
-"Atlantic Pilot Whale",
-48
-],
-[
-"long-finned pilot whale",
-48
-],
-[
-"Long-finned Pilot Whale",
-48
-],
-[
-"Northern Pilot Whale",
-48
-],
-[
-"Pothead Whale",
-48
-],
-[
-"Blackfish",
-48
-],
-[
-"Long-finned pilot whale",
+"Bobak Marmot",
 48
 ],
 [
 "Chochito",
+48
+],
+[
+"Cochito",
 48
 ],
 [
@@ -4856,8 +4792,160 @@
 48
 ],
 [
-"Cochito",
+"Mountain Gorilla",
 48
+],
+[
+"African Sand Fox",
+48
+],
+[
+"Pale fox",
+48
+],
+[
+"Pale Fox",
+48
+],
+[
+"Pallid Fox",
+48
+],
+[
+"Caspian seal",
+48
+],
+[
+"Caspian Seal",
+48
+],
+[
+"Greater Hog Badger",
+48
+],
+[
+"Hog badger",
+48
+],
+[
+"Hog Badger",
+48
+],
+[
+"Bare-nosed Wombat",
+48
+],
+[
+"Bass Strait Wombat",
+48
+],
+[
+"Coarse-haired Wombat",
+48
+],
+[
+"Common Wombat",
+48
+],
+[
+"Flinders Island Wombat",
+48
+],
+[
+"Forest Wombat",
+48
+],
+[
+"Tasmanian Wombat",
+48
+],
+[
+"Golden lion tamarin",
+47
+],
+[
+"Golden Lion Tamarin",
+47
+],
+[
+"Pygmy hog",
+47
+],
+[
+"Pygmy Hog",
+47
+],
+[
+"Greyheaded Tayra",
+47
+],
+[
+"Tayra",
+47
+],
+[
+"Common genet",
+47
+],
+[
+"Common Genet",
+47
+],
+[
+"Small-spotted Genet",
+47
+],
+[
+"Puku",
+47
+],
+[
+"Bottlehead",
+47
+],
+[
+"North-atlantic Bottle-nosed Whale",
+47
+],
+[
+"North Atlantic Bottlenose Whale",
+47
+],
+[
+"northern bottle-nosed whale, bottle-nosed whale",
+47
+],
+[
+"Northern bottlenose whale",
+47
+],
+[
+"Northern Bottlenose Whale",
+47
+],
+[
+"Hispid Hare",
+47
+],
+[
+"Weddell seal",
+47
+],
+[
+"Weddell Seal",
+47
+],
+[
+"lowland anoa",
+47
+],
+[
+"Dorcas gazelle",
+47
+],
+[
+"Dorcas Gazelle",
+47
 ],
 [
 "African manatee",
@@ -4876,47 +4964,23 @@
 47
 ],
 [
-"Common genet",
+"Mountain Beaver",
 47
 ],
 [
-"Common Genet",
+"Sewellel",
 47
 ],
 [
-"Small-spotted Genet",
+"North Pacific right whale",
 47
 ],
 [
-"Eastern European Hedgehog",
+"North Pacific Right Whale",
 47
 ],
 [
-"Eastern Hedgehog",
-47
-],
-[
-"Southern White-breasted Hedgehog",
-47
-],
-[
-"Southern White-Breasted Hedgehog",
-47
-],
-[
-"Weddell seal",
-47
-],
-[
-"Weddell Seal",
-47
-],
-[
-"Tayra",
-47
-],
-[
-"Greyheaded Tayra",
+"Spanish Ibex",
 47
 ],
 [
@@ -4940,66 +5004,6 @@
 47
 ],
 [
-"Peruvian Desert Fox",
-47
-],
-[
-"Sechura Desert Fox",
-47
-],
-[
-"Sechura fox",
-47
-],
-[
-"Sechura Fox",
-47
-],
-[
-"Sechuran Desert Fox",
-47
-],
-[
-"Sechuran Fox",
-47
-],
-[
-"White-nosed coati",
-47
-],
-[
-"White-nosed Coati",
-47
-],
-[
-"Common Long-nosed Armadillo",
-47
-],
-[
-"Nine-banded armadillo",
-47
-],
-[
-"Nine-banded Armadillo",
-47
-],
-[
-"Cottontail rabbit",
-47
-],
-[
-"Hispid Hare",
-47
-],
-[
-"Sewellel",
-47
-],
-[
-"Mountain Beaver",
-47
-],
-[
 "European ground squirrel",
 47
 ],
@@ -5020,18 +5024,6 @@
 47
 ],
 [
-"Golden lion tamarin",
-47
-],
-[
-"Golden Lion Tamarin",
-47
-],
-[
-"lowland anoa",
-47
-],
-[
 "Eastern Black-and-white Colobus",
 47
 ],
@@ -5048,39 +5040,7 @@
 47
 ],
 [
-"Puku",
-47
-],
-[
 "Striped Field Mouse",
-47
-],
-[
-"Pygmy hog",
-47
-],
-[
-"Pygmy Hog",
-47
-],
-[
-"Dorcas gazelle",
-47
-],
-[
-"Dorcas Gazelle",
-47
-],
-[
-"Spanish Ibex",
-47
-],
-[
-"Mesopotamian Fallow-deer",
-47
-],
-[
-"Persian fallow deer",
 47
 ],
 [
@@ -5108,120 +5068,76 @@
 47
 ],
 [
-"Bottlehead",
+"Common Long-nosed Armadillo",
 47
 ],
 [
-"North Atlantic Bottlenose Whale",
+"Nine-banded armadillo",
 47
 ],
 [
-"North-atlantic Bottle-nosed Whale",
+"Nine-banded Armadillo",
 47
 ],
 [
-"northern bottle-nosed whale, bottle-nosed whale",
+"Eastern European Hedgehog",
 47
 ],
 [
-"Northern bottlenose whale",
+"Eastern Hedgehog",
 47
 ],
 [
-"Northern Bottlenose Whale",
+"Southern White-breasted Hedgehog",
 47
 ],
 [
-"North Pacific right whale",
+"Southern White-Breasted Hedgehog",
 47
 ],
 [
-"North Pacific Right Whale",
+"Cottontail rabbit",
 47
 ],
 [
-"giant ground sloth",
-46
+"White-nosed coati",
+47
 ],
 [
-"Northern White-breasted Hedgehog",
-46
+"White-nosed Coati",
+47
 ],
 [
-"Northern White-Breasted Hedgehog",
-46
+"Mesopotamian Fallow-deer",
+47
 ],
 [
-"Antarctic fur seal",
-46
+"Persian fallow deer",
+47
 ],
 [
-"Antarctic Fur Seal",
-46
+"Peruvian Desert Fox",
+47
 ],
 [
-"Kerguelen Fur Seal",
-46
+"Sechura Desert Fox",
+47
 ],
 [
-"Steller Sea Lion",
-46
+"Sechura fox",
+47
 ],
 [
-"Northern Sea Lion",
-46
+"Sechura Fox",
+47
 ],
 [
-"Northern Sealion",
-46
+"Sechuran Desert Fox",
+47
 ],
 [
-"Steller's sea lion",
-46
-],
-[
-"Steller's Sea Lion",
-46
-],
-[
-"Steller's Sealion",
-46
-],
-[
-"South American Sea Lion",
-46
-],
-[
-"South American sea lion",
-46
-],
-[
-"Southern Sea Lion",
-46
-],
-[
-"Hairy-nosed otter",
-46
-],
-[
-"Hairy-nosed Otter",
-46
-],
-[
-"Sumatra River Otter",
-46
-],
-[
-"North American River Otter",
-46
-],
-[
-"Sugar Glider",
-46
-],
-[
-"Sugar glider",
-46
+"Sechuran Fox",
+47
 ],
 [
 "Flying Lemur",
@@ -5233,46 +5149,6 @@
 ],
 [
 "Philippine Flying Lemur",
-46
-],
-[
-"Lesser kudu",
-46
-],
-[
-"Lesser Kudu",
-46
-],
-[
-"Bush Duiker",
-46
-],
-[
-"Common Duiker",
-46
-],
-[
-"Gray Duiker",
-46
-],
-[
-"Grey Duiker",
-46
-],
-[
-"Hunter's Antelope",
-46
-],
-[
-"Hunter’s Hartebeest",
-46
-],
-[
-"Herola",
-46
-],
-[
-"Hirola",
 46
 ],
 [
@@ -5300,6 +5176,254 @@
 46
 ],
 [
+"giant ground sloth",
+46
+],
+[
+"North American River Otter",
+46
+],
+[
+"South American sea lion",
+46
+],
+[
+"South American Sea Lion",
+46
+],
+[
+"Southern Sea Lion",
+46
+],
+[
+"Northern Sealion",
+46
+],
+[
+"Northern Sea Lion",
+46
+],
+[
+"Steller Sea Lion",
+46
+],
+[
+"Steller's sea lion",
+46
+],
+[
+"Steller's Sealion",
+46
+],
+[
+"Steller's Sea Lion",
+46
+],
+[
+"Antarctic fur seal",
+46
+],
+[
+"Antarctic Fur Seal",
+46
+],
+[
+"Kerguelen Fur Seal",
+46
+],
+[
+"Lesser kudu",
+46
+],
+[
+"Lesser Kudu",
+46
+],
+[
+"Herola",
+46
+],
+[
+"Hirola",
+46
+],
+[
+"Hunter's Antelope",
+46
+],
+[
+"Hunter’s Hartebeest",
+46
+],
+[
+"Sugar glider",
+46
+],
+[
+"Sugar Glider",
+46
+],
+[
+"Hairy-nosed otter",
+46
+],
+[
+"Hairy-nosed Otter",
+46
+],
+[
+"Sumatra River Otter",
+46
+],
+[
+"Bush Duiker",
+46
+],
+[
+"Common Duiker",
+46
+],
+[
+"Gray Duiker",
+46
+],
+[
+"Grey Duiker",
+46
+],
+[
+"Northern White-breasted Hedgehog",
+46
+],
+[
+"Northern White-Breasted Hedgehog",
+46
+],
+[
+"King Lizard",
+45
+],
+[
+"Atlantic white-sided dolphin",
+45
+],
+[
+"Atlantic White-sided Dolphin",
+45
+],
+[
+"atlantic white-sided dolphin, white-sided dolphin",
+45
+],
+[
+"Bay Cat",
+45
+],
+[
+"Bornean Bay Cat",
+45
+],
+[
+"Borneo Bay Cat",
+45
+],
+[
+"Pygmy anteater",
+45
+],
+[
+"Pygmy Anteater",
+45
+],
+[
+"Silky Anteater",
+45
+],
+[
+"Pygmy killer whale",
+45
+],
+[
+"Pygmy Killer Whale",
+45
+],
+[
+"Slender Blackfish",
+45
+],
+[
+"Bridled Dolphin",
+45
+],
+[
+"Field vole",
+45
+],
+[
+"Field Vole",
+45
+],
+[
+"field vole, short-tailed vole",
+45
+],
+[
+"Short-tailed Vole",
+45
+],
+[
+"Degu",
+45
+],
+[
+"Marlo",
+45
+],
+[
+"Plains Kangaroo",
+45
+],
+[
+"Red kangaroo",
+45
+],
+[
+"Red Kangaroo",
+45
+],
+[
+"Javan Mongoose",
+45
+],
+[
+"Small Asian Mongoose",
+45
+],
+[
+"Small Indian Mongoose",
+45
+],
+[
+"Eastern Forest Hog",
+45
+],
+[
+"Forest hog",
+45
+],
+[
+"Forest Hog",
+45
+],
+[
+"Giant Forest Hog",
+45
+],
+[
+"Long-beaked Echidna",
+45
+],
+[
 "Long-nosed Echidna",
 45
 ],
@@ -5320,67 +5444,47 @@
 45
 ],
 [
-"Long-beaked Echidna",
+"Pampas Deer",
 45
 ],
 [
-"Javan Mongoose",
+"Black-and-White Dolphin",
 45
 ],
 [
-"Small Asian Mongoose",
+"Commerson’s dolphin",
 45
 ],
 [
-"Small Indian Mongoose",
+"Commerson's Dolphin",
 45
 ],
 [
-"Pygmy anteater",
+"Commerson’s Dolphin",
 45
 ],
 [
-"Pygmy Anteater",
+"Piebald Dolphin",
 45
 ],
 [
-"Silky Anteater",
+"Tonina Dolphin",
 45
 ],
 [
-"Marlo",
+"Grant’s gazelle",
 45
 ],
 [
-"Plains Kangaroo",
+"Grant's Gazelle",
 45
 ],
 [
-"Red kangaroo",
+"Grant’s Gazelle",
 45
 ],
 [
-"Red Kangaroo",
-45
-],
-[
-"Northern fur seal",
-45
-],
-[
-"Northern Fur Seal",
-45
-],
-[
-"Bay Cat",
-45
-],
-[
-"Bornean Bay Cat",
-45
-],
-[
-"Borneo Bay Cat",
+"Japanese Serow",
 45
 ],
 [
@@ -5389,34 +5493,6 @@
 ],
 [
 "Giant Armadillo",
-45
-],
-[
-"Degu",
-45
-],
-[
-"Field vole",
-45
-],
-[
-"Field Vole",
-45
-],
-[
-"field vole, short-tailed vole",
-45
-],
-[
-"Short-tailed Vole",
-45
-],
-[
-"Japanese Serow",
-45
-],
-[
-"Urial",
 45
 ],
 [
@@ -5429,82 +5505,6 @@
 ],
 [
 "Mongolian Gazelle",
-45
-],
-[
-"Grant's Gazelle",
-45
-],
-[
-"Grant’s gazelle",
-45
-],
-[
-"Grant’s Gazelle",
-45
-],
-[
-"Pampas Deer",
-45
-],
-[
-"Eastern Forest Hog",
-45
-],
-[
-"Forest hog",
-45
-],
-[
-"Forest Hog",
-45
-],
-[
-"Giant Forest Hog",
-45
-],
-[
-"Atlantic white-sided dolphin",
-45
-],
-[
-"Atlantic White-sided Dolphin",
-45
-],
-[
-"atlantic white-sided dolphin, white-sided dolphin",
-45
-],
-[
-"King Lizard",
-45
-],
-[
-"Black-and-White Dolphin",
-45
-],
-[
-"Commerson's Dolphin",
-45
-],
-[
-"Commerson’s dolphin",
-45
-],
-[
-"Commerson’s Dolphin",
-45
-],
-[
-"Piebald Dolphin",
-45
-],
-[
-"Bridled Dolphin",
-45
-],
-[
-"Tonina Dolphin",
 45
 ],
 [
@@ -5524,119 +5524,27 @@
 45
 ],
 [
-"Pygmy killer whale",
+"Northern fur seal",
 45
 ],
 [
-"Pygmy Killer Whale",
+"Northern Fur Seal",
 45
 ],
 [
-"Slender Blackfish",
+"Urial",
 45
 ],
 [
-"greater mouse-eared bat",
+"Blesbok",
 44
 ],
 [
-"Greater mouse-eared bat",
-44
-],
-[
-"Greater Mouse-eared Bat",
-44
-],
-[
-"Large Mouse-eared Bat",
-44
-],
-[
-"Mouse-eared Bat",
-44
-],
-[
-"Mouse-eared Myotis",
-44
-],
-[
-"Leisler's bat",
-44
-],
-[
-"Leisler's Bat",
-44
-],
-[
-"Leisler’s Noctule",
-44
-],
-[
-"leislers bat, lesser noctule",
-44
-],
-[
-"Lesser Noctule",
-44
-],
-[
-"Brown-throated Three-toed Sloth",
-44
-],
-[
-"Spotted Seal",
-44
-],
-[
-"parti-coloured bat, parti-coloured bat",
-44
-],
-[
-"Particolored Bat",
-44
-],
-[
-"Particoloured Bat",
+"Bontebok",
 44
 ],
 [
 "European Badgers",
-44
-],
-[
-"Sea Cat",
-44
-],
-[
-"Marine otter",
-44
-],
-[
-"Marine Otter",
-44
-],
-[
-"Persian leopard",
-44
-],
-[
-"Granada Hare",
-44
-],
-[
-"Iberian Hare",
-44
-],
-[
-"South African pangolin",
-44
-],
-[
-"Temminck’s ground pangolin",
-44
-],
-[
-"Philippine tarsier",
 44
 ],
 [
@@ -5653,6 +5561,70 @@
 ],
 [
 "Cottontop Tamarin",
+44
+],
+[
+"Brown-throated Three-toed Sloth",
+44
+],
+[
+"Particolored Bat",
+44
+],
+[
+"Particoloured Bat",
+44
+],
+[
+"parti-coloured bat, parti-coloured bat",
+44
+],
+[
+"South African pangolin",
+44
+],
+[
+"Temminck’s ground pangolin",
+44
+],
+[
+"Leisler's bat",
+44
+],
+[
+"Leisler's Bat",
+44
+],
+[
+"leislers bat, lesser noctule",
+44
+],
+[
+"Leisler’s Noctule",
+44
+],
+[
+"Lesser Noctule",
+44
+],
+[
+"Indo-Pacific finless porpoise",
+44
+],
+[
+"Indo-Pacific Finless Porpoise",
+44
+],
+[
+"Bushbuck",
+44
+],
+[
+"Western Bushbuck",
+44
+],
+[
+"Steenbok",
 44
 ],
 [
@@ -5680,35 +5652,19 @@
 44
 ],
 [
-"Norway Lemming",
+"Spotted Seal",
 44
 ],
 [
-"Black-and-white ruffed lemur",
+"Granada Hare",
 44
 ],
 [
-"Ruffed Lemur",
+"Iberian Hare",
 44
 ],
 [
-"Black-and-white Ruffed Lemur",
-44
-],
-[
-"Bushbuck",
-44
-],
-[
-"Western Bushbuck",
-44
-],
-[
-"Blesbok",
-44
-],
-[
-"Bontebok",
+"Philippine tarsier",
 44
 ],
 [
@@ -5721,6 +5677,114 @@
 ],
 [
 "White-throated Capuchin",
+44
+],
+[
+"Marine otter",
+44
+],
+[
+"Marine Otter",
+44
+],
+[
+"Sea Cat",
+44
+],
+[
+"African Bush Pig",
+44
+],
+[
+"Red river hog",
+44
+],
+[
+"Red River Hog",
+44
+],
+[
+"Javan Deer",
+44
+],
+[
+"Javan rusa",
+44
+],
+[
+"Javan Rusa",
+44
+],
+[
+"Rusa",
+44
+],
+[
+"Rusa Deer",
+44
+],
+[
+"Sunda Sambar",
+44
+],
+[
+"Timor Deer",
+44
+],
+[
+"greater mouse-eared bat",
+44
+],
+[
+"Greater mouse-eared bat",
+44
+],
+[
+"Greater Mouse-eared Bat",
+44
+],
+[
+"Large Mouse-eared Bat",
+44
+],
+[
+"Mouse-eared Bat",
+44
+],
+[
+"Mouse-eared Myotis",
+44
+],
+[
+"Persian leopard",
+44
+],
+[
+"Bornean Dolphin",
+44
+],
+[
+"Fraser’s dolphin",
+44
+],
+[
+"Fraser's Dolphin",
+44
+],
+[
+"Fraser’s Dolphin",
+44
+],
+[
+"Sarawak Dolphin",
+44
+],
+[
+"Shortsnouted Whitebelly Dolphin",
+44
+],
+[
+"Tur",
 44
 ],
 [
@@ -5740,75 +5804,7 @@
 44
 ],
 [
-"Tur",
-44
-],
-[
-"Rusa",
-44
-],
-[
-"Javan Deer",
-44
-],
-[
-"Javan rusa",
-44
-],
-[
-"Javan Rusa",
-44
-],
-[
-"Rusa Deer",
-44
-],
-[
-"Sunda Sambar",
-44
-],
-[
-"Timor Deer",
-44
-],
-[
-"Steenbok",
-44
-],
-[
-"African Bush Pig",
-44
-],
-[
-"Red river hog",
-44
-],
-[
-"Red River Hog",
-44
-],
-[
-"Bornean Dolphin",
-44
-],
-[
-"Fraser's Dolphin",
-44
-],
-[
-"Fraser’s dolphin",
-44
-],
-[
-"Fraser’s Dolphin",
-44
-],
-[
-"Sarawak Dolphin",
-44
-],
-[
-"Shortsnouted Whitebelly Dolphin",
+"Norway Lemming",
 44
 ],
 [
@@ -5824,43 +5820,19 @@
 44
 ],
 [
-"Indo-Pacific finless porpoise",
+"Black-and-white ruffed lemur",
 44
 ],
 [
-"Indo-Pacific Finless Porpoise",
+"Black-and-white Ruffed Lemur",
 44
 ],
 [
-"Brandt's Bat",
-43
+"Ruffed Lemur",
+44
 ],
 [
-"Crab-eating mongoose",
-43
-],
-[
-"Crab-eating Mongoose",
-43
-],
-[
-"Gray Big-eared Bat",
-43
-],
-[
-"Gray Long-eared Bat",
-43
-],
-[
-"grey long-eared bat",
-43
-],
-[
-"Grey long-eared bat",
-43
-],
-[
-"Grey Long-eared Bat",
+"Rorquals",
 43
 ],
 [
@@ -5884,6 +5856,90 @@
 43
 ],
 [
+"Coati",
+43
+],
+[
+"Fanaloka",
+43
+],
+[
+"Patagonian Cavy",
+43
+],
+[
+"Patagonian Hare",
+43
+],
+[
+"Patagonian mara",
+43
+],
+[
+"Patagonian Mara",
+43
+],
+[
+"Gray Big-eared Bat",
+43
+],
+[
+"Gray Long-eared Bat",
+43
+],
+[
+"grey long-eared bat",
+43
+],
+[
+"Grey long-eared bat",
+43
+],
+[
+"Grey Long-eared Bat",
+43
+],
+[
+"Walia",
+43
+],
+[
+"Walia ibex",
+43
+],
+[
+"Walia Ibex",
+43
+],
+[
+"Estuarine Dolphin",
+43
+],
+[
+"Bear Macaque",
+43
+],
+[
+"stump-tailed macaque",
+43
+],
+[
+"Stump-tailed macaque",
+43
+],
+[
+"Stump-tailed Macaque",
+43
+],
+[
+"Stumptail Macaque",
+43
+],
+[
+"Lesula",
+43
+],
+[
 "Common vampire bat",
 43
 ],
@@ -5896,11 +5952,15 @@
 43
 ],
 [
-"Yellow mongoose",
+"Herb Field Mouse",
 43
 ],
 [
-"Yellow Mongoose",
+"Pygmy Field Mouse",
+43
+],
+[
+"Ural Field Mouse",
 43
 ],
 [
@@ -5908,7 +5968,7 @@
 43
 ],
 [
-"Hooker's Sea Lion",
+"Hooker’s sea lion",
 43
 ],
 [
@@ -5916,7 +5976,7 @@
 43
 ],
 [
-"Hooker’s sea lion",
+"Hooker's Sea Lion",
 43
 ],
 [
@@ -5928,31 +5988,11 @@
 43
 ],
 [
-"New Zealand Sea Lion",
-43
-],
-[
 "New Zealand Sealion",
 43
 ],
 [
-"Long-tailed Weasel",
-43
-],
-[
-"Long-tailed weasel",
-43
-],
-[
-"long-tailed weasel",
-43
-],
-[
-"Coati",
-43
-],
-[
-"Caribbean Monk Seal",
+"New Zealand Sea Lion",
 43
 ],
 [
@@ -5965,6 +6005,182 @@
 ],
 [
 "Cape Clawless Otter",
+43
+],
+[
+"Sri Lankan leopard",
+43
+],
+[
+"Malayan colugo",
+43
+],
+[
+"Malayan Flying Lemur",
+43
+],
+[
+"Sunda Flying Lemur",
+43
+],
+[
+"Malagasy Civet",
+43
+],
+[
+"Spotted Fanaloka",
+43
+],
+[
+"Spotted Fanalouc",
+43
+],
+[
+"Spotted Malagasy Civet",
+43
+],
+[
+"Striped civet",
+43
+],
+[
+"Brandt's Bat",
+43
+],
+[
+"Caribbean Monk Seal",
+43
+],
+[
+"Pig-tailed Macaque",
+43
+],
+[
+"Pigtail Macaque",
+43
+],
+[
+"Southern Pig-tailed Macaque",
+43
+],
+[
+"Sundaland Pigtail Macaque",
+43
+],
+[
+"Sunda pig-tailed macaque",
+43
+],
+[
+"Sunda Pig-tailed Macaque",
+43
+],
+[
+"Franciscana",
+43
+],
+[
+"Franciscana Dolphin",
+43
+],
+[
+"La Plata Dolphin",
+43
+],
+[
+"La Plata River Dolphin",
+43
+],
+[
+"Ringtail",
+43
+],
+[
+"Cu Lan",
+43
+],
+[
+"Greater slow loris",
+43
+],
+[
+"Greater Slow Loris",
+43
+],
+[
+"Slow Loris",
+43
+],
+[
+"Sunda Slow Loris",
+43
+],
+[
+"Northern Vole",
+43
+],
+[
+"Root Vole",
+43
+],
+[
+"root vole, tundra vole",
+43
+],
+[
+"Tundra Vole",
+43
+],
+[
+"long-tailed weasel",
+43
+],
+[
+"Long-tailed weasel",
+43
+],
+[
+"Long-tailed Weasel",
+43
+],
+[
+"Adowa",
+43
+],
+[
+"Royal Antelope",
+43
+],
+[
+"Sagbene",
+43
+],
+[
+"Yellow mongoose",
+43
+],
+[
+"Yellow Mongoose",
+43
+],
+[
+"Blue duiker",
+43
+],
+[
+"Blue Duiker",
+43
+],
+[
+"Cape Blue Duiker",
+43
+],
+[
+"Caucasian Squirrel",
+43
+],
+[
+"Persian Squirrel",
 43
 ],
 [
@@ -5992,38 +6208,6 @@
 43
 ],
 [
-"Fanaloka",
-43
-],
-[
-"Malagasy Civet",
-43
-],
-[
-"Spotted Fanaloka",
-43
-],
-[
-"Spotted Fanalouc",
-43
-],
-[
-"Spotted Malagasy Civet",
-43
-],
-[
-"Striped civet",
-43
-],
-[
-"Ringtail",
-43
-],
-[
-"Sri Lankan leopard",
-43
-],
-[
 "Lesser fairy armadillo",
 43
 ],
@@ -6044,190 +6228,6 @@
 43
 ],
 [
-"Malayan colugo",
-43
-],
-[
-"Malayan Flying Lemur",
-43
-],
-[
-"Sunda Flying Lemur",
-43
-],
-[
-"Alaskan Hare",
-43
-],
-[
-"Cu Lan",
-43
-],
-[
-"Greater slow loris",
-43
-],
-[
-"Greater Slow Loris",
-43
-],
-[
-"Slow Loris",
-43
-],
-[
-"Sunda Slow Loris",
-43
-],
-[
-"Caucasian Squirrel",
-43
-],
-[
-"Persian Squirrel",
-43
-],
-[
-"Patagonian Cavy",
-43
-],
-[
-"Patagonian Hare",
-43
-],
-[
-"Patagonian mara",
-43
-],
-[
-"Patagonian Mara",
-43
-],
-[
-"Mexican Flying Squirrel",
-43
-],
-[
-"Southern Flying Squirrel",
-43
-],
-[
-"Bear Macaque",
-43
-],
-[
-"stump-tailed macaque",
-43
-],
-[
-"Stump-tailed macaque",
-43
-],
-[
-"Stump-tailed Macaque",
-43
-],
-[
-"Stumptail Macaque",
-43
-],
-[
-"Pig-tailed Macaque",
-43
-],
-[
-"Pigtail Macaque",
-43
-],
-[
-"Southern Pig-tailed Macaque",
-43
-],
-[
-"Sunda pig-tailed macaque",
-43
-],
-[
-"Sunda Pig-tailed Macaque",
-43
-],
-[
-"Sundaland Pigtail Macaque",
-43
-],
-[
-"Lesula",
-43
-],
-[
-"Herb Field Mouse",
-43
-],
-[
-"Pygmy Field Mouse",
-43
-],
-[
-"Ural Field Mouse",
-43
-],
-[
-"Blue duiker",
-43
-],
-[
-"Blue Duiker",
-43
-],
-[
-"Cape Blue Duiker",
-43
-],
-[
-"Northern Vole",
-43
-],
-[
-"Root Vole",
-43
-],
-[
-"root vole, tundra vole",
-43
-],
-[
-"Tundra Vole",
-43
-],
-[
-"Walia",
-43
-],
-[
-"Walia ibex",
-43
-],
-[
-"Walia Ibex",
-43
-],
-[
-"Royal Antelope",
-43
-],
-[
-"Sagbene",
-43
-],
-[
-"Adowa",
-43
-],
-[
-"Rorquals",
-43
-],
-[
 "Dwarf fin whale",
 43
 ],
@@ -6236,11 +6236,15 @@
 43
 ],
 [
-"Tucuxi",
+"Alaskan Hare",
 43
 ],
 [
-"Estuarine Dolphin",
+"Mexican Flying Squirrel",
+43
+],
+[
+"Southern Flying Squirrel",
 43
 ],
 [
@@ -6256,51 +6260,131 @@
 43
 ],
 [
+"Tucuxi",
+43
+],
+[
 "Tucuxi dolphin",
 43
 ],
 [
-"Franciscana Dolphin",
+"Crab-eating mongoose",
 43
 ],
 [
-"La Plata Dolphin",
+"Crab-eating Mongoose",
 43
 ],
 [
-"La Plata River Dolphin",
-43
-],
-[
-"Franciscana",
-43
-],
-[
-"Dalgyte",
+"Lesser Malay Chevrotain",
 42
 ],
 [
-"Greater bilby",
+"Common Porcupine",
 42
 ],
 [
-"Greater Bilby",
+"North American porcupine",
 42
 ],
 [
-"Greater Rabbit-eared Bandicoot",
+"North American Porcupine",
 42
 ],
 [
-"Rabbit-eared Bandicoot",
+"Serow",
 42
 ],
 [
-"European free-tailed bat",
+"Black-chinned Emperor Tamarin",
 42
 ],
 [
-"European Free-tailed Bat",
+"Emperor tamarin",
+42
+],
+[
+"Emperor Tamarin",
+42
+],
+[
+"Cumshot man",
+42
+],
+[
+"Ferret-badger",
+42
+],
+[
+"European Wildcat",
+42
+],
+[
+"Sumatran rabbit",
+42
+],
+[
+"Sumatran Rabbit",
+42
+],
+[
+"Sumatran Short-eared Rabbit",
+42
+],
+[
+"Sumatran Striped Rabbit",
+42
+],
+[
+"Sumatra Short-eared Rabbit",
+42
+],
+[
+"Sumatran Elephant",
+42
+],
+[
+"Giant ground pangolin",
+42
+],
+[
+"Giant Ground Pangolin",
+42
+],
+[
+"Giant Pangolin",
+42
+],
+[
+"Pygmy rabbit",
+42
+],
+[
+"Pygmy Rabbit",
+42
+],
+[
+"pigmy sperm whale",
+42
+],
+[
+"Pygmy sperm whale",
+42
+],
+[
+"Pygmy Sperm Whale",
+42
+],
+[
+"Mountain nyala",
+42
+],
+[
+"Chacma baboon",
+42
+],
+[
+"Chacma Baboon",
 42
 ],
 [
@@ -6332,23 +6416,87 @@
 42
 ],
 [
-"Giant noctule",
+"Murine",
 42
 ],
 [
-"Giant Noctule",
+"Dalgyte",
 42
 ],
 [
-"greater noctule",
+"Greater bilby",
 42
 ],
 [
-"Greater Noctule Bat",
+"Greater Bilby",
 42
 ],
 [
-"Ross Seal",
+"Greater Rabbit-eared Bandicoot",
+42
+],
+[
+"Rabbit-eared Bandicoot",
+42
+],
+[
+"Iriomote Cat",
+42
+],
+[
+"Crab-eating raccoon",
+42
+],
+[
+"Crab-eating Raccoon",
+42
+],
+[
+"Sumatran serow",
+42
+],
+[
+"Sumatran Serow",
+42
+],
+[
+"European free-tailed bat",
+42
+],
+[
+"European Free-tailed Bat",
+42
+],
+[
+"Star-nosed mole",
+42
+],
+[
+"Star-nosed Mole",
+42
+],
+[
+"Dall’s Sheep",
+42
+],
+[
+"Thinhorn Sheep",
+42
+],
+[
+"White Sheep",
+42
+],
+[
+"Antelope Jackrabbit",
+42
+],
+[
+"Nilgiri marten",
+42
+],
+[
+"Nilgiri Marten",
 42
 ],
 [
@@ -6364,87 +6512,7 @@
 42
 ],
 [
-"Ferret-badger",
-42
-],
-[
-"Nilgiri marten",
-42
-],
-[
-"Nilgiri Marten",
-42
-],
-[
-"Crab-eating raccoon",
-42
-],
-[
-"Crab-eating Raccoon",
-42
-],
-[
-"Iriomote Cat",
-42
-],
-[
-"European Wildcat",
-42
-],
-[
-"Lesser Shrew",
-42
-],
-[
-"Lesser white-toothed shrew",
-42
-],
-[
-"Lesser White-toothed Shrew",
-42
-],
-[
-"Pygmy Rabbit",
-42
-],
-[
-"Pygmy rabbit",
-42
-],
-[
-"Sumatra Short-eared Rabbit",
-42
-],
-[
-"Sumatran rabbit",
-42
-],
-[
-"Sumatran Rabbit",
-42
-],
-[
-"Sumatran Short-eared Rabbit",
-42
-],
-[
-"Sumatran Striped Rabbit",
-42
-],
-[
-"Star-nosed Mole",
-42
-],
-[
-"Star-nosed mole",
-42
-],
-[
-"Amami Rabbit",
-42
-],
-[
-"Volcano Rabbit",
+"Golden Monkey",
 42
 ],
 [
@@ -6452,7 +6520,15 @@
 42
 ],
 [
+"Volcano Rabbit",
+42
+],
+[
 "Amami rabbit",
+42
+],
+[
+"Amami Rabbit",
 42
 ],
 [
@@ -6460,31 +6536,115 @@
 42
 ],
 [
-"Pyrenean desman",
+"Chinese Muntjac",
 42
 ],
 [
-"Pyrenean Desman",
+"Chinese Muntjak",
 42
 ],
 [
-"Murine",
+"Formosan Reeves' Muntjac",
 42
 ],
 [
-"Giant ground pangolin",
+"reeves muntjac",
 42
 ],
 [
-"Giant Ground Pangolin",
+"Reeve's muntjac",
 42
 ],
 [
-"Giant Pangolin",
+"Reeve’s Muntjac",
 42
 ],
 [
-"Antelope Jackrabbit",
+"Reeves' Muntjac",
+42
+],
+[
+"Reeves's Muntjac",
+42
+],
+[
+"Reeves’s Muntjac",
+42
+],
+[
+"Thorold’s deer",
+42
+],
+[
+"Thorold's Deer",
+42
+],
+[
+"White-lipped Deer",
+42
+],
+[
+"Desert Hamster",
+42
+],
+[
+"Roborovski’s Desert Hamster",
+42
+],
+[
+"Roborowski’s Hamster",
+42
+],
+[
+"Indo-pacific Pilot Whale",
+42
+],
+[
+"Pacific Pilot Whale",
+42
+],
+[
+"Short-finned pilot whale",
+42
+],
+[
+"Short-finned Pilot Whale",
+42
+],
+[
+"Assamese Macaque",
+42
+],
+[
+"Assam macaque",
+42
+],
+[
+"Assam Macaque",
+42
+],
+[
+"Collared peccary",
+42
+],
+[
+"Collared Peccary",
+42
+],
+[
+"South American Collared Peccary",
+42
+],
+[
+"Beira",
+42
+],
+[
+"Beira Antelope",
+42
+],
+[
+"Beira Antilope",
 42
 ],
 [
@@ -6504,90 +6664,6 @@
 42
 ],
 [
-"Himalayan marmot",
-42
-],
-[
-"Himalayan Marmot",
-42
-],
-[
-"Karakoram Marmot",
-42
-],
-[
-"Serow",
-42
-],
-[
-"Black-chinned Emperor Tamarin",
-42
-],
-[
-"Emperor tamarin",
-42
-],
-[
-"Emperor Tamarin",
-42
-],
-[
-"Desert Hamster",
-42
-],
-[
-"Roborovski’s Desert Hamster",
-42
-],
-[
-"Roborowski’s Hamster",
-42
-],
-[
-"Lesser Malay Chevrotain",
-42
-],
-[
-"Java Mouse-deer",
-42
-],
-[
-"Java Mousedeer",
-42
-],
-[
-"Javan Chevrotain",
-42
-],
-[
-"Javan mouse-deer",
-42
-],
-[
-"Javan Mousedeer",
-42
-],
-[
-"Kanchil",
-42
-],
-[
-"Lesser Mouse Deer",
-42
-],
-[
-"Collared peccary",
-42
-],
-[
-"Collared Peccary",
-42
-],
-[
-"South American Collared Peccary",
-42
-],
-[
 "Guinea baboon",
 42
 ],
@@ -6596,31 +6672,11 @@
 42
 ],
 [
-"Chacma baboon",
+"Pyrenean desman",
 42
 ],
 [
-"Chacma Baboon",
-42
-],
-[
-"Assam macaque",
-42
-],
-[
-"Assam Macaque",
-42
-],
-[
-"Assamese Macaque",
-42
-],
-[
-"Golden Monkey",
-42
-],
-[
-"Mountain nyala",
+"Pyrenean Desman",
 42
 ],
 [
@@ -6652,23 +6708,35 @@
 42
 ],
 [
-"Sumatran serow",
+"Giant noctule",
 42
 ],
 [
-"Sumatran Serow",
+"Giant Noctule",
 42
 ],
 [
-"White Sheep",
+"greater noctule",
 42
 ],
 [
-"Dall’s Sheep",
+"Greater Noctule Bat",
 42
 ],
 [
-"Thinhorn Sheep",
+"Lesser Shrew",
+42
+],
+[
+"Lesser white-toothed shrew",
+42
+],
+[
+"Lesser White-toothed Shrew",
+42
+],
+[
+"Ross Seal",
 42
 ],
 [
@@ -6684,135 +6752,63 @@
 42
 ],
 [
-"Chinese Muntjac",
+"Himalayan marmot",
 42
 ],
 [
-"Chinese Muntjak",
+"Himalayan Marmot",
 42
 ],
 [
-"Formosan Reeves' Muntjac",
+"Karakoram Marmot",
 42
 ],
 [
-"Reeve's muntjac",
+"Java Mouse-deer",
 42
 ],
 [
-"Reeve’s Muntjac",
+"Java Mousedeer",
 42
 ],
 [
-"reeves muntjac",
+"Javan Chevrotain",
 42
 ],
 [
-"Reeves' Muntjac",
+"Javan mouse-deer",
 42
 ],
 [
-"Reeves's Muntjac",
+"Javan Mousedeer",
 42
 ],
 [
-"Reeves’s Muntjac",
+"Kanchil",
 42
 ],
 [
-"Thorold's Deer",
+"Lesser Mouse Deer",
 42
 ],
 [
-"Thorold’s deer",
-42
-],
-[
-"White-lipped Deer",
-42
-],
-[
-"Common Porcupine",
-42
-],
-[
-"North American porcupine",
-42
-],
-[
-"North American Porcupine",
-42
-],
-[
-"Beira Antelope",
-42
-],
-[
-"Beira Antilope",
-42
-],
-[
-"Beira",
-42
-],
-[
-"Rhodesian man",
-42
-],
-[
-"Sumatran Elephant",
-42
-],
-[
-"pigmy sperm whale",
-42
-],
-[
-"Pygmy sperm whale",
-42
-],
-[
-"Pygmy Sperm Whale",
-42
-],
-[
-"Indo-pacific Pilot Whale",
-42
-],
-[
-"Pacific Pilot Whale",
-42
-],
-[
-"Short-finned pilot whale",
-42
-],
-[
-"Short-finned Pilot Whale",
-42
-],
-[
-"Long-beaked echidna",
+"Asian House Shrew",
 41
 ],
 [
-"Large flying fox",
+"House Shrew",
 41
 ],
 [
-"Large Flying Fox",
+"Indian Musk Shrew",
 41
 ],
 [
-"Large Flying-fox",
+"Musk shrew",
 41
 ],
 [
-"Kalong",
-41
-],
-[
-"Flying Dog",
+"Musk Shrew",
 41
 ],
 [
@@ -6824,35 +6820,11 @@
 41
 ],
 [
-"South American Fur Seal",
-41
-],
-[
-"Ribbon Seal",
-41
-],
-[
-"Australian sea lion",
-41
-],
-[
-"Australian Sea Lion",
-41
-],
-[
-"Australian Sealion",
-41
-],
-[
 "South American foxes",
 41
 ],
 [
-"Savi's pipistrelle",
-41
-],
-[
-"Savi's Pipistrelle",
+"Tolai Hare",
 41
 ],
 [
@@ -6896,6 +6868,74 @@
 41
 ],
 [
+"Bushman Hare",
+41
+],
+[
+"Bushman Rabbit",
+41
+],
+[
+"Riverine rabbit",
+41
+],
+[
+"Riverine Rabbit",
+41
+],
+[
+"Benguela Dolphin",
+41
+],
+[
+"Heaviside’s dolphin",
+41
+],
+[
+"Heaviside's Dolphin",
+41
+],
+[
+"Heaviside’s Dolphin",
+41
+],
+[
+"South African Dolphin",
+41
+],
+[
+"Indian Ocean bottlenose dolphin",
+41
+],
+[
+"Indian Ocean Bottlenose Dolphin",
+41
+],
+[
+"Indo-Pacific Bottlenose Dolphin",
+41
+],
+[
+"Dwarf sperm whale",
+41
+],
+[
+"Dwarf Sperm Whale",
+41
+],
+[
+"Common Squirrel Monkey",
+41
+],
+[
+"South American squirrel monkey",
+41
+],
+[
+"South American Squirrel Monkey",
+41
+],
+[
 "black-faced kangaroo",
 41
 ],
@@ -6932,23 +6972,251 @@
 41
 ],
 [
-"Asian House Shrew",
+"Desert Warthog",
 41
 ],
 [
-"House Shrew",
+"Black muntjac",
 41
 ],
 [
-"Indian Musk Shrew",
+"Black Muntjac",
 41
 ],
 [
-"Musk Shrew",
+"Hairy-fronted Muntjac",
 41
 ],
 [
-"Musk shrew",
+"Blainville’s beaked whale",
+41
+],
+[
+"Blainville's Beaked Whale",
+41
+],
+[
+"Blainville’s Beaked Whale",
+41
+],
+[
+"Blainville’s Dense-beaked Whale",
+41
+],
+[
+"South American Fur Seal",
+41
+],
+[
+"Flying Dog",
+41
+],
+[
+"Kalong",
+41
+],
+[
+"Large flying fox",
+41
+],
+[
+"Large Flying-fox",
+41
+],
+[
+"Large Flying Fox",
+41
+],
+[
+"Savi's pipistrelle",
+41
+],
+[
+"Savi's Pipistrelle",
+41
+],
+[
+"Chinese Humpback Dolphin",
+41
+],
+[
+"Chinese White Dolphin",
+41
+],
+[
+"Indo-pacific Humpback Dolphin",
+41
+],
+[
+"Indo-Pacific humpback dolphin",
+41
+],
+[
+"Indo-pacific Hump-backed Dolphin",
+41
+],
+[
+"Indo-Pacific Humpbacked Dolphin",
+41
+],
+[
+"White Dolphin",
+41
+],
+[
+"Many-toothed Blackfish",
+41
+],
+[
+"Melon-headed Blackfish",
+41
+],
+[
+"Melon-headed whale",
+41
+],
+[
+"Melon-headed Whale",
+41
+],
+[
+"Addra Gazelle",
+41
+],
+[
+"Dama gazelle",
+41
+],
+[
+"Dama Gazelle",
+41
+],
+[
+"Mhorr Gazelle",
+41
+],
+[
+"Australian sea lion",
+41
+],
+[
+"Australian Sealion",
+41
+],
+[
+"Australian Sea Lion",
+41
+],
+[
+"Northern Birch Mouse",
+41
+],
+[
+"Common Rhebok",
+41
+],
+[
+"Gray Rhebok",
+41
+],
+[
+"Grey Rhebok",
+41
+],
+[
+"Rhebok",
+41
+],
+[
+"Vaal Rhebok",
+41
+],
+[
+"Idmi",
+41
+],
+[
+"Mountain gazelle",
+41
+],
+[
+"Mountain Gazelle",
+41
+],
+[
+"Ribbon Seal",
+41
+],
+[
+"Eastern cottontail",
+41
+],
+[
+"Eastern Cottontail",
+41
+],
+[
+"Long-beaked echidna",
+41
+],
+[
+"Beisa",
+41
+],
+[
+"Beisa oryx",
+41
+],
+[
+"Beisa Oryx",
+41
+],
+[
+"East African Oryx",
+41
+],
+[
+"Japanese Squirrel",
+41
+],
+[
+"Speckled Ground Squirrel",
+41
+],
+[
+"Spotted Souslik",
+41
+],
+[
+"Abruzzo Chamois",
+41
+],
+[
+"Apennine Chamois",
+41
+],
+[
+"Pyrenean Chamois",
+41
+],
+[
+"Southern Chamois",
+41
+],
+[
+"chamois",
+41
+],
+[
+"Black giant squirrel",
+41
+],
+[
+"Black Giant Squirrel",
+41
+],
+[
+"Malayan Giant Squirrel",
 41
 ],
 [
@@ -6984,382 +7252,6 @@
 41
 ],
 [
-"Riverine Rabbit",
-41
-],
-[
-"Bushman Hare",
-41
-],
-[
-"Bushman Rabbit",
-41
-],
-[
-"Riverine rabbit",
-41
-],
-[
-"Tolai Hare",
-41
-],
-[
-"Eastern cottontail",
-41
-],
-[
-"Eastern Cottontail",
-41
-],
-[
-"Black giant squirrel",
-41
-],
-[
-"Black Giant Squirrel",
-41
-],
-[
-"Malayan Giant Squirrel",
-41
-],
-[
-"Speckled Ground Squirrel",
-41
-],
-[
-"Spotted Souslik",
-41
-],
-[
-"chamois",
-41
-],
-[
-"Japanese Squirrel",
-41
-],
-[
-"Northern Birch Mouse",
-41
-],
-[
-"South American squirrel monkey",
-41
-],
-[
-"South American Squirrel Monkey",
-41
-],
-[
-"Common Squirrel Monkey",
-41
-],
-[
-"Beisa Oryx",
-41
-],
-[
-"Beisa",
-41
-],
-[
-"Beisa oryx",
-41
-],
-[
-"East African Oryx",
-41
-],
-[
-"Abruzzo Chamois",
-41
-],
-[
-"Apennine Chamois",
-41
-],
-[
-"Pyrenean Chamois",
-41
-],
-[
-"Southern Chamois",
-41
-],
-[
-"Common Rhebok",
-41
-],
-[
-"Gray Rhebok",
-41
-],
-[
-"Grey Rhebok",
-41
-],
-[
-"Rhebok",
-41
-],
-[
-"Vaal Rhebok",
-41
-],
-[
-"Idmi",
-41
-],
-[
-"Mountain Gazelle",
-41
-],
-[
-"Mountain gazelle",
-41
-],
-[
-"Black muntjac",
-41
-],
-[
-"Black Muntjac",
-41
-],
-[
-"Hairy-fronted Muntjac",
-41
-],
-[
-"Addra Gazelle",
-41
-],
-[
-"Dama gazelle",
-41
-],
-[
-"Dama Gazelle",
-41
-],
-[
-"Mhorr Gazelle",
-41
-],
-[
-"Desert Warthog",
-41
-],
-[
-"Dwarf sperm whale",
-41
-],
-[
-"Dwarf Sperm Whale",
-41
-],
-[
-"Benguela Dolphin",
-41
-],
-[
-"Heaviside's Dolphin",
-41
-],
-[
-"Heaviside’s dolphin",
-41
-],
-[
-"Heaviside’s Dolphin",
-41
-],
-[
-"South African Dolphin",
-41
-],
-[
-"Chinese Humpback Dolphin",
-41
-],
-[
-"Chinese White Dolphin",
-41
-],
-[
-"Indo-pacific Hump-backed Dolphin",
-41
-],
-[
-"Indo-pacific Humpback Dolphin",
-41
-],
-[
-"Indo-Pacific humpback dolphin",
-41
-],
-[
-"Indo-Pacific Humpbacked Dolphin",
-41
-],
-[
-"White Dolphin",
-41
-],
-[
-"Indian Ocean bottlenose dolphin",
-41
-],
-[
-"Indian Ocean Bottlenose Dolphin",
-41
-],
-[
-"Indo-Pacific Bottlenose Dolphin",
-41
-],
-[
-"Blainville's Beaked Whale",
-41
-],
-[
-"Blainville’s beaked whale",
-41
-],
-[
-"Blainville’s Beaked Whale",
-41
-],
-[
-"Blainville’s Dense-beaked Whale",
-41
-],
-[
-"Many-toothed Blackfish",
-41
-],
-[
-"Melon-headed Blackfish",
-41
-],
-[
-"Melon-headed whale",
-41
-],
-[
-"Melon-headed Whale",
-41
-],
-[
-"Golden-capped fruit bat",
-40
-],
-[
-"Golden-capped Fruit Bat",
-40
-],
-[
-"Golden-crowned Flying Fox",
-40
-],
-[
-"Egyptian fruit bat",
-40
-],
-[
-"Egyptian Fruit Bat",
-40
-],
-[
-"Egyptian Rousette",
-40
-],
-[
-"Geoffroy's Bat",
-40
-],
-[
-"Geoffroy's Myotis",
-40
-],
-[
-"Geoffroy’s bat",
-40
-],
-[
-"Geoffroy’s Bat",
-40
-],
-[
-"Geoffroy’s Myotis",
-40
-],
-[
-"geoffroys bat",
-40
-],
-[
-"Bechstein's bat",
-40
-],
-[
-"Bechstein's Bat",
-40
-],
-[
-"Bechstein's Myotis",
-40
-],
-[
-"Bechstein’s Myotis",
-40
-],
-[
-"Pale-throated Three-toed Sloth",
-40
-],
-[
-"Pygmy three-toed sloth",
-40
-],
-[
-"Pygmy Three-toed Sloth",
-40
-],
-[
-"Amur Hedgehog",
-40
-],
-[
-"Manchurian Hedgehog",
-40
-],
-[
-"Amsterdam Island Fur Seal",
-40
-],
-[
-"Subantarctic fur seal",
-40
-],
-[
-"Subantarctic Fur Seal",
-40
-],
-[
-"Marsh mongoose",
-40
-],
-[
-"Marsh Mongoose",
-40
-],
-[
-"Water Mongoose",
-40
-],
-[
 "Japanese marten",
 40
 ],
@@ -7376,163 +7268,11 @@
 40
 ],
 [
-"Banded linsang",
+"Amur Hedgehog",
 40
 ],
 [
-"Banded Linsang",
-40
-],
-[
-"Brown palm civet",
-40
-],
-[
-"Jerdon's Palm Civet",
-40
-],
-[
-"Malabar civet",
-40
-],
-[
-"Malabar Civet",
-40
-],
-[
-"Malabar Large-spotted Civet",
-40
-],
-[
-"African River Otter",
-40
-],
-[
-"Speckle-throated Otter",
-40
-],
-[
-"Spot-necked Otter",
-40
-],
-[
-"Spotted-necked Otter",
-40
-],
-[
-"Swamp wallaby",
-40
-],
-[
-"Swamp Wallaby",
-40
-],
-[
-"swamp wallaby",
-40
-],
-[
-"Otter civet",
-40
-],
-[
-"Otter Civet",
-40
-],
-[
-"Otter-civet",
-40
-],
-[
-"Sunda Otter Civet",
-40
-],
-[
-"nathusius pipistrelle",
-40
-],
-[
-"Nathusius' Pipistrelle",
-40
-],
-[
-"Nathusius's pipistrelle",
-40
-],
-[
-"Nathusius’s Pipistrelle",
-40
-],
-[
-"Arabian leopard",
-40
-],
-[
-"Haitian Solenodon",
-40
-],
-[
-"Hispaniolan solenodon",
-40
-],
-[
-"Hispaniolan Solenodon",
-40
-],
-[
-"Tehuantepec Hare",
-40
-],
-[
-"Tehuantepec Jack Rabbit",
-40
-],
-[
-"Tehuantepec jackrabbit",
-40
-],
-[
-"Tehuantepec Jackrabbit",
-40
-],
-[
-"Tropical Hare",
-40
-],
-[
-"Diadem Sifaka",
-40
-],
-[
-"Diademed sifaka",
-40
-],
-[
-"Diademed Sifaka",
-40
-],
-[
-"Long-tailed chinchilla",
-40
-],
-[
-"Long-tailed Chinchilla",
-40
-],
-[
-"Chinchilla",
-40
-],
-[
-"Eastern American Chipmunk",
-40
-],
-[
-"Eastern chipmunk",
-40
-],
-[
-"Eastern Chipmunk",
+"Manchurian Hedgehog",
 40
 ],
 [
@@ -7548,159 +7288,7 @@
 40
 ],
 [
-"Black spider monkey",
-40
-],
-[
-"Black Spider Monkey",
-40
-],
-[
-"Guiana Spider Monkey",
-40
-],
-[
-"Red-faced Black Spider Monkey",
-40
-],
-[
-"Red-faced Spider Monkey",
-40
-],
-[
-"Colombian Red Howler Monkey",
-40
-],
-[
-"Venezuelan Red Howler",
-40
-],
-[
-"Colombian red howler monkey",
-40
-],
-[
-"Black lemur",
-40
-],
-[
-"Black Lemur",
-40
-],
-[
-"Bald Uacari",
-40
-],
-[
-"Bald Uakari",
-40
-],
-[
-"Bald-headed Uacari",
-40
-],
-[
-"Bald-headed uakari",
-40
-],
-[
-"Bald-headed Uakari",
-40
-],
-[
-"Red Uakari",
-40
-],
-[
-"Red-and-white Uacari",
-40
-],
-[
-"White Uakari",
-40
-],
-[
-"Clawed Jird",
-40
-],
-[
-"Mongolian Gerbil",
-40
-],
-[
-"Mongolian Jird",
-40
-],
-[
-"Himalayan Crestless Porcupine",
-40
-],
-[
-"Malayan Porcupine",
-40
-],
-[
-"Toque Macaque",
-40
-],
-[
-"Toque macaque",
-40
-],
-[
-"Western Yellow-backed Duiker",
-40
-],
-[
-"Yellow-backed duiker",
-40
-],
-[
-"Yellow-backed Duiker",
-40
-],
-[
-"Silvery Javan Gibbon",
-40
-],
-[
-"Javan gibbon",
-40
-],
-[
-"Javan Gibbon",
-40
-],
-[
-"Moloch Gibbon",
-40
-],
-[
-"Owa Jawa",
-40
-],
-[
-"Silvery Gibbon",
-40
-],
-[
-"Collared Mangabey",
-40
-],
-[
-"Red-capped mangabey",
-40
-],
-[
-"Red-capped Mangabey",
-40
-],
-[
-"Red-crowned Mangabey",
-40
-],
-[
-"White-collared Mangabey",
+"thin-plate beast",
 40
 ],
 [
@@ -7708,19 +7296,15 @@
 40
 ],
 [
-"Black-capped Capuchin",
+"Brown palm civet",
 40
 ],
 [
-"Margarita Island Capuchin",
+"Jerdon's Palm Civet",
 40
 ],
 [
-"Tufted Capuchin",
-40
-],
-[
-"Guianan Brown Capuchin",
+"Pale-throated Three-toed Sloth",
 40
 ],
 [
@@ -7752,6 +7336,54 @@
 40
 ],
 [
+"Black-capped Capuchin",
+40
+],
+[
+"Guianan Brown Capuchin",
+40
+],
+[
+"Margarita Island Capuchin",
+40
+],
+[
+"Tufted Capuchin",
+40
+],
+[
+"Pygmy three-toed sloth",
+40
+],
+[
+"Pygmy Three-toed Sloth",
+40
+],
+[
+"geoffroys bat",
+40
+],
+[
+"Geoffroy’s bat",
+40
+],
+[
+"Geoffroy's Bat",
+40
+],
+[
+"Geoffroy’s Bat",
+40
+],
+[
+"Geoffroy's Myotis",
+40
+],
+[
+"Geoffroy’s Myotis",
+40
+],
+[
 "Gee's Golden Langur",
 40
 ],
@@ -7768,30 +7400,6 @@
 40
 ],
 [
-"thin-plate beast",
-40
-],
-[
-"Bearded pig",
-40
-],
-[
-"Western Bearded Pig",
-40
-],
-[
-"Bearded Pig",
-40
-],
-[
-"Bush-pig",
-40
-],
-[
-"Bushpig",
-40
-],
-[
 "Dusky dolphin",
 40
 ],
@@ -7804,6 +7412,26 @@
 40
 ],
 [
+"Collared Mangabey",
+40
+],
+[
+"Red-capped mangabey",
+40
+],
+[
+"Red-capped Mangabey",
+40
+],
+[
+"Red-crowned Mangabey",
+40
+],
+[
+"White-collared Mangabey",
+40
+],
+[
 "Antarctic minke whale",
 40
 ],
@@ -7812,39 +7440,423 @@
 40
 ],
 [
-"Common Bentwing Bat",
+"Bald-headed Uacari",
+40
+],
+[
+"Bald-headed uakari",
+40
+],
+[
+"Bald-headed Uakari",
+40
+],
+[
+"Bald Uacari",
+40
+],
+[
+"Bald Uakari",
+40
+],
+[
+"Red-and-white Uacari",
+40
+],
+[
+"Red Uakari",
+40
+],
+[
+"White Uakari",
+40
+],
+[
+"Malabar civet",
+40
+],
+[
+"Malabar Civet",
+40
+],
+[
+"Malabar Large-spotted Civet",
+40
+],
+[
+"Bush-pig",
+40
+],
+[
+"Bushpig",
+40
+],
+[
+"nathusius pipistrelle",
+40
+],
+[
+"Nathusius' Pipistrelle",
+40
+],
+[
+"Nathusius's pipistrelle",
+40
+],
+[
+"Nathusius’s Pipistrelle",
+40
+],
+[
+"Otter civet",
+40
+],
+[
+"Otter-civet",
+40
+],
+[
+"Otter Civet",
+40
+],
+[
+"Sunda Otter Civet",
+40
+],
+[
+"Himalayan Crestless Porcupine",
+40
+],
+[
+"Malayan Porcupine",
+40
+],
+[
+"Black lemur",
+40
+],
+[
+"Black Lemur",
+40
+],
+[
+"African River Otter",
+40
+],
+[
+"Speckle-throated Otter",
+40
+],
+[
+"Spot-necked Otter",
+40
+],
+[
+"Spotted-necked Otter",
+40
+],
+[
+"Colombian red howler monkey",
+40
+],
+[
+"Colombian Red Howler Monkey",
+40
+],
+[
+"Venezuelan Red Howler",
+40
+],
+[
+"Clawed Jird",
+40
+],
+[
+"Mongolian Gerbil",
+40
+],
+[
+"Mongolian Jird",
+40
+],
+[
+"Javan gibbon",
+40
+],
+[
+"Javan Gibbon",
+40
+],
+[
+"Moloch Gibbon",
+40
+],
+[
+"Owa Jawa",
+40
+],
+[
+"Silvery Gibbon",
+40
+],
+[
+"Silvery Javan Gibbon",
+40
+],
+[
+"Tehuantepec Hare",
+40
+],
+[
+"Tehuantepec jackrabbit",
+40
+],
+[
+"Tehuantepec Jackrabbit",
+40
+],
+[
+"Tehuantepec Jack Rabbit",
+40
+],
+[
+"Tropical Hare",
+40
+],
+[
+"Toque macaque",
+40
+],
+[
+"Toque Macaque",
+40
+],
+[
+"Diademed sifaka",
+40
+],
+[
+"Diademed Sifaka",
+40
+],
+[
+"Diadem Sifaka",
+40
+],
+[
+"Eastern American Chipmunk",
+40
+],
+[
+"Eastern chipmunk",
+40
+],
+[
+"Eastern Chipmunk",
+40
+],
+[
+"Arabian leopard",
+40
+],
+[
+"swamp wallaby",
+40
+],
+[
+"Swamp wallaby",
+40
+],
+[
+"Swamp Wallaby",
+40
+],
+[
+"Haitian Solenodon",
+40
+],
+[
+"Hispaniolan solenodon",
+40
+],
+[
+"Hispaniolan Solenodon",
+40
+],
+[
+"Egyptian fruit bat",
+40
+],
+[
+"Egyptian Fruit Bat",
+40
+],
+[
+"Egyptian Rousette",
+40
+],
+[
+"Western Yellow-backed Duiker",
+40
+],
+[
+"Yellow-backed duiker",
+40
+],
+[
+"Yellow-backed Duiker",
+40
+],
+[
+"Bechstein's bat",
+40
+],
+[
+"Bechstein's Bat",
+40
+],
+[
+"Bechstein's Myotis",
+40
+],
+[
+"Bechstein’s Myotis",
+40
+],
+[
+"Golden-capped fruit bat",
+40
+],
+[
+"Golden-capped Fruit Bat",
+40
+],
+[
+"Golden-crowned Flying Fox",
+40
+],
+[
+"Black spider monkey",
+40
+],
+[
+"Black Spider Monkey",
+40
+],
+[
+"Guiana Spider Monkey",
+40
+],
+[
+"Red-faced Black Spider Monkey",
+40
+],
+[
+"Red-faced Spider Monkey",
+40
+],
+[
+"Bearded pig",
+40
+],
+[
+"Bearded Pig",
+40
+],
+[
+"Western Bearded Pig",
+40
+],
+[
+"Chinchilla",
+40
+],
+[
+"Long-tailed chinchilla",
+40
+],
+[
+"Long-tailed Chinchilla",
+40
+],
+[
+"Banded linsang",
+40
+],
+[
+"Banded Linsang",
+40
+],
+[
+"Amsterdam Island Fur Seal",
+40
+],
+[
+"Subantarctic fur seal",
+40
+],
+[
+"Subantarctic Fur Seal",
+40
+],
+[
+"Marsh mongoose",
+40
+],
+[
+"Marsh Mongoose",
+40
+],
+[
+"Water Mongoose",
+40
+],
+[
+"Reedbuck",
 39
 ],
 [
-"Schreiber's Bent-winged Bat",
+"Chacoan peccary",
 39
 ],
 [
-"Schreiber's Long-fingered Bat",
+"Chacoan Peccary",
 39
 ],
 [
-"Schreibers' long-fingered bat",
+"Chaco Peccary",
 39
 ],
 [
-"Schreibers’s Long-fingered Bat",
+"Tagua",
 39
 ],
 [
-"Pond bat",
+"Chinese Goral",
 39
 ],
 [
-"Pond Bat",
+"Argentine Plains Viscacha",
 39
 ],
 [
-"Pond Myotis",
+"Plains Viscacha",
 39
 ],
 [
-"pond bat",
+"Kangaroo rat",
+39
+],
+[
+"Black-naped Hare",
+39
+],
+[
+"Indian hare",
+39
+],
+[
+"Indian Hare",
 39
 ],
 [
@@ -7860,143 +7872,31 @@
 39
 ],
 [
-"Fur seal",
+"Callimico",
 39
 ],
 [
-"Antipodean Fur Seal",
+"Goeldi's Marmoset",
 39
 ],
 [
-"Australasian Fur Seal",
+"Goeldi’s Marmoset",
 39
 ],
 [
-"Black Fur Seal",
+"Goeldi’s monkey",
 39
 ],
 [
-"Long-nosed Fur Seal",
+"Goeldi’s Monkey",
 39
 ],
 [
-"New Zealand fur seal",
+"Goeldi's Tamarin",
 39
 ],
 [
-"New Zealand Fur Seal",
-39
-],
-[
-"South Australian Fur Seal",
-39
-],
-[
-"Mediterranean horseshoe bat",
-39
-],
-[
-"Mediterranean Horseshoe Bat",
-39
-],
-[
-"Greater Moonrat",
-39
-],
-[
-"Moonrat",
-39
-],
-[
-"Gymnure",
-39
-],
-[
-"Southern river otter",
-39
-],
-[
-"Southern River Otter",
-39
-],
-[
-"Huillin",
-39
-],
-[
-"Chinese Ferret Badger",
-39
-],
-[
-"Chinese ferret-badger",
-39
-],
-[
-"Chinese Ferret-badger",
-39
-],
-[
-"Small-toothed Ferret Badger",
-39
-],
-[
-"Small-toothed Ferret-badger",
-39
-],
-[
-"Honey possum",
-39
-],
-[
-"Honey Possum",
-39
-],
-[
-"Three-striped Palm Civet",
-39
-],
-[
-"Banded civet",
-39
-],
-[
-"Banded Civet",
-39
-],
-[
-"Small-toothed Palm Civet",
-39
-],
-[
-"Banded Palm Civet",
-39
-],
-[
-"Brush-tailed Possum",
-39
-],
-[
-"Common Brush-tailed Possum",
-39
-],
-[
-"Common Brushtail",
-39
-],
-[
-"Common brushtail possum",
-39
-],
-[
-"Common Brushtail Possum",
-39
-],
-[
-"Silver-gray Brushtail Possum",
-39
-],
-[
-"Silver-grey Possum",
+"Goeldi’s Tamarin",
 39
 ],
 [
@@ -8016,15 +7916,159 @@
 39
 ],
 [
-"Six-banded Armadillo",
+"Bawean deer",
 39
 ],
 [
-"Six-Banded Armadillo",
+"Bawean Deer",
 39
 ],
 [
-"Yellow Armadillo",
+"Bawean Hog Deer",
+39
+],
+[
+"Kuhl's Hog Deer",
+39
+],
+[
+"Kuhl’s Hog Deer",
+39
+],
+[
+"Arizona Black-tailed Prairie Dog",
+39
+],
+[
+"Black-tailed prairie dog",
+39
+],
+[
+"Black-tailed Prairie Dog",
+39
+],
+[
+"Plains Prairie Dog",
+39
+],
+[
+"Atlantic spotted dolphin",
+39
+],
+[
+"Atlantic Spotted Dolphin",
+39
+],
+[
+"Gulf Stream Spotted Dolphin",
+39
+],
+[
+"Water chevrotain",
+39
+],
+[
+"Water Chevrotain",
+39
+],
+[
+"Mediterranean horseshoe bat",
+39
+],
+[
+"Mediterranean Horseshoe Bat",
+39
+],
+[
+"Pacific white-sided dolphin",
+39
+],
+[
+"Pacific White-sided Dolphin",
+39
+],
+[
+"Hourglass dolphin",
+39
+],
+[
+"Hourglass Dolphin",
+39
+],
+[
+"Southern White-sided Dolphin",
+39
+],
+[
+"Bactrian Camel",
+39
+],
+[
+"Two-humped Camel",
+39
+],
+[
+"Wild Bactrian camel",
+39
+],
+[
+"Wild Bactrian Camel",
+39
+],
+[
+"Chinese ferret-badger",
+39
+],
+[
+"Chinese Ferret-badger",
+39
+],
+[
+"Chinese Ferret Badger",
+39
+],
+[
+"Small-toothed Ferret-badger",
+39
+],
+[
+"Small-toothed Ferret Badger",
+39
+],
+[
+"Broom hare",
+39
+],
+[
+"Broom Hare",
+39
+],
+[
+"Red ruffed lemur",
+39
+],
+[
+"Red-ruffed Lemur",
+39
+],
+[
+"Red Ruffed Lemur",
+39
+],
+[
+"Bohor reedbuck",
+39
+],
+[
+"Bohor Reedbuck",
+39
+],
+[
+"Common Reedbuck",
+39
+],
+[
+"Western Reedbuck",
 39
 ],
 [
@@ -8048,131 +8092,175 @@
 39
 ],
 [
-"Common tenrec",
+"Babiroussa",
 39
 ],
 [
-"Common Tenrec",
+"Babirusa",
 39
 ],
 [
-"Tail-less Tenrec",
+"Buru Babirusa",
 39
 ],
 [
-"Tailess Tenrec",
+"Deer Hog",
 39
 ],
 [
-"Black-naped Hare",
+"Golden Babirusa",
 39
 ],
 [
-"Indian hare",
+"Hairy babirusa",
 39
 ],
 [
-"Indian Hare",
+"Hairy Babirusa",
 39
 ],
 [
-"Kangaroo rat",
+"Moluccan Babirusa",
 39
 ],
 [
-"Broom hare",
+"Coastal Suni",
 39
 ],
 [
-"Broom Hare",
+"Suni",
 39
 ],
 [
-"Argentine Plains Viscacha",
+"Blue monkey",
 39
 ],
 [
-"Plains Viscacha",
+"Blue Monkey",
 39
 ],
 [
-"Arizona Black-tailed Prairie Dog",
+"Diademed Monkey",
 39
 ],
 [
-"Black-tailed prairie dog",
+"Samango",
 39
 ],
 [
-"Black-tailed Prairie Dog",
+"Sykes' Monkey",
 39
 ],
 [
-"Plains Prairie Dog",
+"Sykes’s Monkey",
 39
 ],
 [
-"yellow-bellied marmot",
+"Diana guenon",
 39
 ],
 [
-"Yellow-bellied Marmot",
+"Diana Guenon",
 39
 ],
 [
-"Yellow-Bellied Marmot",
+"Diana Monkey",
 39
 ],
 [
-"Groundhog",
+"Brush-tailed Possum",
 39
 ],
 [
-"Bactrian Camel",
+"Common Brushtail",
 39
 ],
 [
-"Two-humped Camel",
+"Common Brush-tailed Possum",
 39
 ],
 [
-"Wild Bactrian camel",
+"Common brushtail possum",
 39
 ],
 [
-"Wild Bactrian Camel",
+"Common Brushtail Possum",
 39
 ],
 [
-"Reedbuck",
+"Silver-gray Brushtail Possum",
 39
 ],
 [
-"Red ruffed lemur",
+"Silver-grey Possum",
 39
 ],
 [
-"Red Ruffed Lemur",
+"pond bat",
 39
 ],
 [
-"Red-ruffed Lemur",
+"Pond bat",
 39
 ],
 [
-"Chaco Peccary",
+"Pond Bat",
 39
 ],
 [
-"Chacoan peccary",
+"Pond Myotis",
 39
 ],
 [
-"Chacoan Peccary",
+"Honey possum",
 39
 ],
 [
-"Tagua",
+"Honey Possum",
+39
+],
+[
+"Greater Moonrat",
+39
+],
+[
+"Gymnure",
+39
+],
+[
+"Moonrat",
+39
+],
+[
+"Banded civet",
+39
+],
+[
+"Banded Civet",
+39
+],
+[
+"Banded Palm Civet",
+39
+],
+[
+"Black Chilean Dolphin",
+39
+],
+[
+"Black Dolphin",
+39
+],
+[
+"Chilean dolphin",
+39
+],
+[
+"Chilean Dolphin",
+39
+],
+[
+"White-bellied Dolphin",
 39
 ],
 [
@@ -8188,11 +8276,147 @@
 39
 ],
 [
-"Water chevrotain",
+"Cape grysbok",
 39
 ],
 [
-"Water Chevrotain",
+"Cape Grysbok",
+39
+],
+[
+"Antipodean Fur Seal",
+39
+],
+[
+"Australasian Fur Seal",
+39
+],
+[
+"Black Fur Seal",
+39
+],
+[
+"Fur seal",
+39
+],
+[
+"Long-nosed Fur Seal",
+39
+],
+[
+"New Zealand fur seal",
+39
+],
+[
+"New Zealand Fur Seal",
+39
+],
+[
+"South Australian Fur Seal",
+39
+],
+[
+"Common Bentwing Bat",
+39
+],
+[
+"Schreiber's Bent-winged Bat",
+39
+],
+[
+"Schreibers' long-fingered bat",
+39
+],
+[
+"Schreiber's Long-fingered Bat",
+39
+],
+[
+"Schreibers’s Long-fingered Bat",
+39
+],
+[
+"Groundhog",
+39
+],
+[
+"yellow-bellied marmot",
+39
+],
+[
+"Yellow-bellied Marmot",
+39
+],
+[
+"Yellow-Bellied Marmot",
+39
+],
+[
+"Common marmoset",
+39
+],
+[
+"Common Marmoset",
+39
+],
+[
+"White-tufted-ear Marmoset",
+39
+],
+[
+"Huillin",
+39
+],
+[
+"Southern river otter",
+39
+],
+[
+"Southern River Otter",
+39
+],
+[
+"Long-tailed goral",
+39
+],
+[
+"Long-tailed Goral",
+39
+],
+[
+"Small-toothed Palm Civet",
+39
+],
+[
+"Three-striped Palm Civet",
+39
+],
+[
+"Common tenrec",
+39
+],
+[
+"Common Tenrec",
+39
+],
+[
+"Tailess Tenrec",
+39
+],
+[
+"Tail-less Tenrec",
+39
+],
+[
+"Goa",
+39
+],
+[
+"Tibetan gazelle",
+39
+],
+[
+"Tibetan Gazelle",
 39
 ],
 [
@@ -8228,111 +8452,19 @@
 39
 ],
 [
-"Samango",
+"Six-banded Armadillo",
 39
 ],
 [
-"Blue Monkey",
+"Six-Banded Armadillo",
 39
 ],
 [
-"Blue monkey",
-39
-],
-[
-"Diademed Monkey",
-39
-],
-[
-"Sykes' Monkey",
-39
-],
-[
-"Sykes’s Monkey",
-39
-],
-[
-"Diana guenon",
-39
-],
-[
-"Diana Guenon",
-39
-],
-[
-"Diana Monkey",
-39
-],
-[
-"Common marmoset",
-39
-],
-[
-"Common Marmoset",
-39
-],
-[
-"White-tufted-ear Marmoset",
-39
-],
-[
-"Bohor reedbuck",
-39
-],
-[
-"Bohor Reedbuck",
-39
-],
-[
-"Common Reedbuck",
-39
-],
-[
-"Western Reedbuck",
-39
-],
-[
-"Long-tailed goral",
-39
-],
-[
-"Long-tailed Goral",
+"Yellow Armadillo",
 39
 ],
 [
 "Red Goral",
-39
-],
-[
-"Chinese Goral",
-39
-],
-[
-"Goeldi's Marmoset",
-39
-],
-[
-"Goeldi's Tamarin",
-39
-],
-[
-"Goeldi’s Marmoset",
-39
-],
-[
-"Goeldi’s monkey",
-39
-],
-[
-"Goeldi’s Monkey",
-39
-],
-[
-"Goeldi’s Tamarin",
-39
-],
-[
-"Callimico",
 39
 ],
 [
@@ -8341,18 +8473,6 @@
 ],
 [
 "Snow Sheep",
-39
-],
-[
-"Goa",
-39
-],
-[
-"Tibetan gazelle",
-39
-],
-[
-"Tibetan Gazelle",
 39
 ],
 [
@@ -8368,124 +8488,120 @@
 39
 ],
 [
-"Cape grysbok",
-39
+"Savannah Hare",
+38
 ],
 [
-"Cape Grysbok",
-39
+"Scrub Hare",
+38
 ],
 [
-"Bawean deer",
-39
+"Uakari",
+38
 ],
 [
-"Bawean Deer",
-39
+"Hoffmann's Two-toed Sloth",
+38
 ],
 [
-"Bawean Hog Deer",
-39
+"Hoffmann’s Two-toed Sloth",
+38
 ],
 [
-"Kuhl's Hog Deer",
-39
+"Muriqui",
+38
 ],
 [
-"Kuhl’s Hog Deer",
-39
+"Southern muriqui",
+38
 ],
 [
-"Suni",
-39
+"Southern Muriqui",
+38
 ],
 [
-"Coastal Suni",
-39
+"Southern Woolly Spider Monkey",
+38
 ],
 [
-"Babiroussa",
-39
+"Woolly Spider Monkey",
+38
 ],
 [
-"Buru Babirusa",
-39
+"Pantanal Cat",
+38
 ],
 [
-"Deer Hog",
-39
+"Spotted linsang",
+38
 ],
 [
-"Golden Babirusa",
-39
+"Spotted Linsang",
+38
 ],
 [
-"Hairy babirusa",
-39
+"Japanese Hare",
+38
 ],
 [
-"Hairy Babirusa",
-39
+"Common porpoises",
+38
 ],
 [
-"Moluccan Babirusa",
-39
+"White-sided jackrabbit",
+38
 ],
 [
-"Babirusa",
-39
+"White-sided Jackrabbit",
+38
 ],
 [
-"Pacific white-sided dolphin",
-39
+"Long-tailed Marmot",
+38
 ],
 [
-"Pacific White-sided Dolphin",
-39
+"Japanese badger",
+38
 ],
 [
-"Hourglass dolphin",
-39
+"Japanese Badger",
+38
 ],
 [
-"Hourglass Dolphin",
-39
+"Allen's swamp monkey",
+38
 ],
 [
-"Southern White-sided Dolphin",
-39
+"Allen's Swamp Monkey",
+38
 ],
 [
-"Atlantic spotted dolphin",
-39
+"Allen’s Swamp Monkey",
+38
 ],
 [
-"Atlantic Spotted Dolphin",
-39
+"Blackish-green Guenon",
+38
 ],
 [
-"Gulf Stream Spotted Dolphin",
-39
+"Goodfellow’s tree kangaroo",
+38
 ],
 [
-"Black Dolphin",
-39
+"Goodfellow's Tree Kangaroo",
+38
 ],
 [
-"Black Chilean Dolphin",
-39
+"Goodfellow’s Tree Kangaroo",
+38
 ],
 [
-"Chilean dolphin",
-39
+"Ornate Tree-kangaroo",
+38
 ],
 [
-"Chilean Dolphin",
-39
-],
-[
-"White-bellied Dolphin",
-39
+"Ornate Tree Kangaroo",
+38
 ],
 [
 "Central Desert Marsupial Mole",
@@ -8508,15 +8624,71 @@
 38
 ],
 [
+"Dwarf Armadillo",
+38
+],
+[
+"Pichi",
+38
+],
+[
+"Bahamondi's Beaked Whale",
+38
+],
+[
+"Spade-toothed whale",
+38
+],
+[
+"Spade-toothed Whale",
+38
+],
+[
+"Traver's Beaked Whale",
+38
+],
+[
+"European Snow Vole",
+38
+],
+[
+"Snow Vole",
+38
+],
+[
+"Pacarana",
+38
+],
+[
+"Pygmy Pipistrelle",
+38
+],
+[
+"Soprano Pipistrelle",
+38
+],
+[
+"soprano pipistrelle, pygmy pipistrelle",
+38
+],
+[
 "Hammer-headed Fruit Bat",
 38
 ],
 [
-"Slender mongoose",
+"Slender loris",
 38
 ],
 [
-"Slender Mongoose",
+"Altai Marmot",
+38
+],
+[
+"Gray Marmot",
+38
+],
+[
+"Grey Marmot",
 38
 ],
 [
@@ -8536,19 +8708,27 @@
 38
 ],
 [
-"Lesser Mouse-eared Bat",
+"Yellow-bellied Weasel",
 38
 ],
 [
-"Lesser mouse-eared myotis",
+"Natal duiker",
 38
 ],
 [
-"Lesser Mouse-eared Myotis",
+"Natal Duiker",
 38
 ],
 [
-"Short-tailed Mongoose",
+"Natal Red Duiker",
+38
+],
+[
+"Red Duiker",
+38
+],
+[
+"Red Forest Duiker",
 38
 ],
 [
@@ -8565,6 +8745,50 @@
 ],
 [
 "Galapagos Islands Fur Seal",
+38
+],
+[
+"Red Slender Loris",
+38
+],
+[
+"Slender Loris",
+38
+],
+[
+"Slender mongoose",
+38
+],
+[
+"Slender Mongoose",
+38
+],
+[
+"Formosan rock macaque",
+38
+],
+[
+"Formosan Rock Macaque",
+38
+],
+[
+"Taiwanese Macaque",
+38
+],
+[
+"Taiwan Macaque",
+38
+],
+[
+"Common dwarf mongoose",
+38
+],
+[
+"Common Dwarf Mongoose",
+38
+],
+[
+"Dwarf Mongoose",
 38
 ],
 [
@@ -8592,183 +8816,63 @@
 38
 ],
 [
-"Hoffmann's Two-toed Sloth",
+"Brown Greater Galago",
 38
 ],
 [
-"Hoffmann’s Two-toed Sloth",
+"Garnett's Greater Galago",
 38
 ],
 [
-"Yellow-bellied Weasel",
+"Greater Bushbaby",
 38
 ],
 [
-"Common dwarf mongoose",
+"Greater Bush Baby",
 38
 ],
 [
-"Common Dwarf Mongoose",
+"Greater Galago",
 38
 ],
 [
-"Dwarf Mongoose",
+"Large-eared Greater Galago",
 38
 ],
 [
-"Goodfellow's Tree Kangaroo",
+"Thick-tailed Bushbaby",
 38
 ],
 [
-"Goodfellow’s tree kangaroo",
+"Thick-tailed Bush Baby",
 38
 ],
 [
-"Goodfellow’s Tree Kangaroo",
+"Thick-tailed greater galago",
 38
 ],
 [
-"Ornate Tree Kangaroo",
+"Thick-tailed Greater Galago",
 38
 ],
 [
-"Ornate Tree-kangaroo",
+"Barbary Ground Squirrel",
 38
 ],
 [
-"Spotted linsang",
+"North African Ground Squirrel",
 38
 ],
 [
-"Spotted Linsang",
+"Calamian deer",
 38
 ],
 [
-"Large-spotted Civet",
+"Calamian hog deer",
 38
 ],
 [
-"Malay civet",
-38
-],
-[
-"Malay Civet",
-38
-],
-[
-"Malayan Civet",
-38
-],
-[
-"Japanese badger",
-38
-],
-[
-"Japanese Badger",
-38
-],
-[
-"African striped weasel",
-38
-],
-[
-"African Striped Weasel",
-38
-],
-[
-"Cacomistle",
-38
-],
-[
-"Central American Cacomistle",
-38
-],
-[
-"Pygmy Pipistrelle",
-38
-],
-[
-"Soprano Pipistrelle",
-38
-],
-[
-"soprano pipistrelle, pygmy pipistrelle",
-38
-],
-[
-"Kuhl's Pipistrelle",
-38
-],
-[
-"Kuhl’s pipistrelle",
-38
-],
-[
-"Kuhl’s Pipistrelle",
-38
-],
-[
-"kuhls pipistrelle",
-38
-],
-[
-"Pantanal Cat",
-38
-],
-[
-"Javan leopard",
-38
-],
-[
-"Pichi",
-38
-],
-[
-"Dwarf Armadillo",
-38
-],
-[
-"Savannah Hare",
-38
-],
-[
-"Scrub Hare",
-38
-],
-[
-"White-sided jackrabbit",
-38
-],
-[
-"White-sided Jackrabbit",
-38
-],
-[
-"Japanese Hare",
-38
-],
-[
-"Verreaux's sifaka",
-38
-],
-[
-"Verreaux's Sifaka",
-38
-],
-[
-"Verreaux’s Sifaka",
-38
-],
-[
-"Slender loris",
-38
-],
-[
-"Senegal Lesser Galago",
-38
-],
-[
-"Uakari",
+"Philippine deer",
 38
 ],
 [
@@ -8796,71 +8900,7 @@
 38
 ],
 [
-"Brown Greater Galago",
-38
-],
-[
-"Greater Bush Baby",
-38
-],
-[
-"Greater Bushbaby",
-38
-],
-[
-"Greater Galago",
-38
-],
-[
-"Large-eared Greater Galago",
-38
-],
-[
-"Thick-tailed Bush Baby",
-38
-],
-[
-"Thick-tailed Bushbaby",
-38
-],
-[
-"Thick-tailed greater galago",
-38
-],
-[
-"Thick-tailed Greater Galago",
-38
-],
-[
-"Garnett's Greater Galago",
-38
-],
-[
-"Red Slender Loris",
-38
-],
-[
-"Slender Loris",
-38
-],
-[
-"Altai Marmot",
-38
-],
-[
-"Gray Marmot",
-38
-],
-[
-"Grey Marmot",
-38
-],
-[
-"Long-tailed Marmot",
-38
-],
-[
-"Golden Bamboo Lemur",
+"Senegal Lesser Galago",
 38
 ],
 [
@@ -8868,55 +8908,63 @@
 38
 ],
 [
+"Golden Bamboo Lemur",
+38
+],
+[
 "Golden Lemur",
 38
 ],
 [
-"European Snow Vole",
+"Kirk's Dik-dik",
 38
 ],
 [
-"Snow Vole",
+"Kirk’s Dik-dik",
 38
 ],
 [
-"Muriqui",
+"Kirk’s Dikdik",
 38
 ],
 [
-"Southern muriqui",
+"Lesser Mouse-eared Bat",
 38
 ],
 [
-"Southern Muriqui",
+"Lesser mouse-eared myotis",
 38
 ],
 [
-"Southern Woolly Spider Monkey",
+"Lesser Mouse-eared Myotis",
 38
 ],
 [
-"Woolly Spider Monkey",
+"Cacomistle",
 38
 ],
 [
-"Broad-nosed Gentle Lemur",
+"Central American Cacomistle",
 38
 ],
 [
-"Greater bamboo lemur",
+"Javan leopard",
 38
 ],
 [
-"Greater Bamboo Lemur",
+"kuhls pipistrelle",
 38
 ],
 [
-"North African Ground Squirrel",
+"Kuhl’s pipistrelle",
 38
 ],
 [
-"Barbary Ground Squirrel",
+"Kuhl's Pipistrelle",
+38
+],
+[
+"Kuhl’s Pipistrelle",
 38
 ],
 [
@@ -8936,87 +8984,11 @@
 38
 ],
 [
-"Formosan rock macaque",
+"African striped weasel",
 38
 ],
 [
-"Formosan Rock Macaque",
-38
-],
-[
-"Taiwan Macaque",
-38
-],
-[
-"Taiwanese Macaque",
-38
-],
-[
-"Natal duiker",
-38
-],
-[
-"Natal Duiker",
-38
-],
-[
-"Natal Red Duiker",
-38
-],
-[
-"Red Duiker",
-38
-],
-[
-"Red Forest Duiker",
-38
-],
-[
-"Allen's Swamp Monkey",
-38
-],
-[
-"Allen's swamp monkey",
-38
-],
-[
-"Allen’s Swamp Monkey",
-38
-],
-[
-"Blackish-green Guenon",
-38
-],
-[
-"Pacarana",
-38
-],
-[
-"Kirk's Dik-dik",
-38
-],
-[
-"Kirk’s Dik-dik",
-38
-],
-[
-"Kirk’s Dikdik",
-38
-],
-[
-"Calamian deer",
-38
-],
-[
-"Calamian hog deer",
-38
-],
-[
-"Philippine deer",
-38
-],
-[
-"Western lowland gorilla",
+"African Striped Weasel",
 38
 ],
 [
@@ -9024,128 +8996,56 @@
 38
 ],
 [
+"Western lowland gorilla",
+38
+],
+[
 "Western Lowland Gorilla",
 38
 ],
 [
-"Common porpoises",
+"Verreaux's sifaka",
 38
 ],
 [
-"Bahamondi's Beaked Whale",
+"Verreaux's Sifaka",
 38
 ],
 [
-"Spade-toothed whale",
+"Verreaux’s Sifaka",
 38
 ],
 [
-"Spade-toothed Whale",
+"Large-spotted Civet",
 38
 ],
 [
-"Traver's Beaked Whale",
+"Short-tailed Mongoose",
 38
 ],
 [
-"Japanese Sea Lion",
-37
+"Malayan Civet",
+38
 ],
 [
-"Brazilian Three-toed Sloth",
-37
+"Malay civet",
+38
 ],
 [
-"Maned Sloth",
-37
+"Malay Civet",
+38
 ],
 [
-"Maned three-toed sloth",
-37
+"Broad-nosed Gentle Lemur",
+38
 ],
 [
-"Maned Three-toed Sloth",
-37
+"Greater bamboo lemur",
+38
 ],
 [
-"Juan Fernández Fur Seal",
-37
-],
-[
-"Greater grison",
-37
-],
-[
-"Greater Grison",
-37
-],
-[
-"Greater Grisón",
-37
-],
-[
-"Maning",
-37
-],
-[
-"Feather-tailed Glider",
-37
-],
-[
-"Feathertail glider",
-37
-],
-[
-"Feathertail Glider",
-37
-],
-[
-"Narrow-toed Feather-tailed Glider",
-37
-],
-[
-"Pygmy Gliding Possum",
-37
-],
-[
-"Banded Hare Wallaby",
-37
-],
-[
-"Banded hare-wallaby",
-37
-],
-[
-"Banded Hare-wallaby",
-37
-],
-[
-"Chilean Opossum",
-37
-],
-[
-"Colocolo Opossum",
-37
-],
-[
-"Monito del monte",
-37
-],
-[
-"Monito del Monte",
-37
-],
-[
-"Southern Monito del Monte",
-37
-],
-[
-"Southern three-banded armadillo",
-37
-],
-[
-"Southern Three-banded Armadillo",
-37
+"Greater Bamboo Lemur",
+38
 ],
 [
 "Big Hairy Armadillo",
@@ -9164,59 +9064,31 @@
 37
 ],
 [
+"Lesser Indo-Malayan Chevrotain",
+37
+],
+[
+"Lesser Mouse-deer",
+37
+],
+[
+"Lesser Mousedeer",
+37
+],
+[
+"Lesser Oriental Chevrotain",
+37
+],
+[
+"Mouse Deer",
+37
+],
+[
 "Brazilian three-banded armadillo",
 37
 ],
 [
 "Brazilian Three-banded Armadillo",
-37
-],
-[
-"anomalures or scaly-tailed flying squirrels",
-37
-],
-[
-"Mediterranean Water Shrew",
-37
-],
-[
-"Miller's Water Shrew",
-37
-],
-[
-"Miller’s Water Shrew",
-37
-],
-[
-"millers water shrew, southern water shrew",
-37
-],
-[
-"Southern Water Shrew",
-37
-],
-[
-"African Savanna Hare",
-37
-],
-[
-"African Tree Pangolin",
-37
-],
-[
-"African White-bellied Pangolin",
-37
-],
-[
-"Common African Pangolin",
-37
-],
-[
-"Three-cusped Pangolin",
-37
-],
-[
-"white-bellied pangolin",
 37
 ],
 [
@@ -9248,11 +9120,11 @@
 37
 ],
 [
-"Greater Cane Rat",
+"Desert Dormouse",
 37
 ],
 [
-"Desert Dormouse",
+"anomalures or scaly-tailed flying squirrels",
 37
 ],
 [
@@ -9264,35 +9136,7 @@
 37
 ],
 [
-"Black Howling Monkey",
-37
-],
-[
-"Black Howler Monkey",
-37
-],
-[
-"Black howler monkey",
-37
-],
-[
-"Black Howler",
-37
-],
-[
-"Black-and-gold Howler Monkey",
-37
-],
-[
-"Campbell's Hamster",
-37
-],
-[
-"Campbell’s Desert Hamster",
-37
-],
-[
-"Campbell’s Hamster",
+"African Savanna Hare",
 37
 ],
 [
@@ -9304,31 +9148,175 @@
 37
 ],
 [
+"Black Porpoise",
+37
+],
+[
+"Burmeister's Porpoise",
+37
+],
+[
+"Burmeister’s Porpoise",
+37
+],
+[
+"Marposa Espinosa",
+37
+],
+[
+"Arabian tahr",
+37
+],
+[
+"Arabian Tahr",
+37
+],
+[
+"Ginkgo-toothed beaked whale",
+37
+],
+[
+"Ginkgo-toothed Beaked Whale",
+37
+],
+[
+"African Tree Pangolin",
+37
+],
+[
+"African White-bellied Pangolin",
+37
+],
+[
+"Common African Pangolin",
+37
+],
+[
+"Three-cusped Pangolin",
+37
+],
+[
+"white-bellied pangolin",
+37
+],
+[
+"Greater grison",
+37
+],
+[
+"Greater Grison",
+37
+],
+[
+"Greater Grisón",
+37
+],
+[
+"Blackchin Dolphin",
+37
+],
+[
+"Peale’s Black-chinned Dolphin",
+37
+],
+[
+"Peale’s dolphin",
+37
+],
+[
+"Peale's Dolphin",
+37
+],
+[
+"Peale’s Dolphin",
+37
+],
+[
+"Southern Dolphin",
+37
+],
+[
+"De Brazza's Guenon",
+37
+],
+[
+"De Brazza’s Guenon",
+37
+],
+[
+"De Brazza’s monkey",
+37
+],
+[
+"De Brazza’s Monkey",
+37
+],
+[
+"Brazilian Three-toed Sloth",
+37
+],
+[
+"Maned Sloth",
+37
+],
+[
+"Maned three-toed sloth",
+37
+],
+[
+"Maned Three-toed Sloth",
+37
+],
+[
+"Capped Gibbon",
+37
+],
+[
+"Crowned Gibbon",
+37
+],
+[
+"Pileated gibbon",
+37
+],
+[
+"Pileated Gibbon",
+37
+],
+[
+"Red-fronted gazelle",
+37
+],
+[
+"Red-fronted Gazelle",
+37
+],
+[
+"Pygmy Mouse",
+37
+],
+[
+"Southern African Pygmy Mouse",
+37
+],
+[
+"Bonnet macaque",
+37
+],
+[
+"Bonnet Macaque",
+37
+],
+[
+"Sharpe's Grysbok",
+37
+],
+[
+"Sharpe’s Grysbok",
+37
+],
+[
 "Balabac Chevrotain",
-37
-],
-[
-"Lesser Indo-Malayan Chevrotain",
-37
-],
-[
-"Lesser Mouse-deer",
-37
-],
-[
-"Lesser Mousedeer",
-37
-],
-[
-"Lesser Oriental Chevrotain",
-37
-],
-[
-"Mouse Deer",
-37
-],
-[
-"Napu",
 37
 ],
 [
@@ -9360,59 +9348,7 @@
 37
 ],
 [
-"Mountain anoa",
-37
-],
-[
-"Mountain Anoa",
-37
-],
-[
-"Bonnet macaque",
-37
-],
-[
-"Bonnet Macaque",
-37
-],
-[
-"Pagai Island Macaque",
-37
-],
-[
-"Pagai Macaque",
-37
-],
-[
-"Mentawai macaque",
-37
-],
-[
-"Northern Pig-tailed Macaque",
-37
-],
-[
-"Northern pigtail macaque",
-37
-],
-[
-"Northern Pigtail Macaque",
-37
-],
-[
-"De Brazza's Guenon",
-37
-],
-[
-"De Brazza’s Guenon",
-37
-],
-[
-"De Brazza’s monkey",
-37
-],
-[
-"De Brazza’s Monkey",
+"Napu",
 37
 ],
 [
@@ -9424,6 +9360,122 @@
 37
 ],
 [
+"Feather-tailed Glider",
+37
+],
+[
+"Feathertail glider",
+37
+],
+[
+"Feathertail Glider",
+37
+],
+[
+"Narrow-toed Feather-tailed Glider",
+37
+],
+[
+"Pygmy Gliding Possum",
+37
+],
+[
+"Mediterranean Water Shrew",
+37
+],
+[
+"Miller's Water Shrew",
+37
+],
+[
+"Miller’s Water Shrew",
+37
+],
+[
+"millers water shrew, southern water shrew",
+37
+],
+[
+"Southern Water Shrew",
+37
+],
+[
+"North Andean Deer",
+37
+],
+[
+"North Andean Huemul",
+37
+],
+[
+"Peruvian Guemal",
+37
+],
+[
+"Peruvian Huemul",
+37
+],
+[
+"Taruca",
+37
+],
+[
+"Taruka",
+37
+],
+[
+"Banded hare-wallaby",
+37
+],
+[
+"Banded Hare-wallaby",
+37
+],
+[
+"Banded Hare Wallaby",
+37
+],
+[
+"Maning",
+37
+],
+[
+"Chilean Opossum",
+37
+],
+[
+"Colocolo Opossum",
+37
+],
+[
+"Monito del monte",
+37
+],
+[
+"Monito del Monte",
+37
+],
+[
+"Southern Monito del Monte",
+37
+],
+[
+"Cuvier’s gazelle",
+37
+],
+[
+"Cuvier's Gazelle",
+37
+],
+[
+"Cuvier’s Gazelle",
+37
+],
+[
+"Edmi",
+37
+],
+[
 "Blaubok",
 37
 ],
@@ -9432,7 +9484,107 @@
 37
 ],
 [
-"Red Hartebeest",
+"Spectacled porpoise",
+37
+],
+[
+"Spectacled Porpoise",
+37
+],
+[
+"Schomburgk's Deer",
+37
+],
+[
+"Schomburgk’s Deer",
+37
+],
+[
+"Southern three-banded armadillo",
+37
+],
+[
+"Southern Three-banded Armadillo",
+37
+],
+[
+"Southern reedbuck",
+37
+],
+[
+"Southern Reedbuck",
+37
+],
+[
+"Mountain anoa",
+37
+],
+[
+"Mountain Anoa",
+37
+],
+[
+"Mentawai macaque",
+37
+],
+[
+"Pagai Island Macaque",
+37
+],
+[
+"Pagai Macaque",
+37
+],
+[
+"Mountain Reedbuck",
+37
+],
+[
+"Rhim",
+37
+],
+[
+"Sand Gazelle",
+37
+],
+[
+"Slender-horned gazelle",
+37
+],
+[
+"Slender-horned Gazelle",
+37
+],
+[
+"Campbell’s Desert Hamster",
+37
+],
+[
+"Campbell's Hamster",
+37
+],
+[
+"Campbell’s Hamster",
+37
+],
+[
+"Atlantic Spinner Dolphin",
+37
+],
+[
+"Clymene dolphin",
+37
+],
+[
+"Clymene Dolphin",
+37
+],
+[
+"Helmet Dolphin",
+37
+],
+[
+"Japanese Sea Lion",
 37
 ],
 [
@@ -9464,11 +9616,11 @@
 37
 ],
 [
-"Müller's Gibbon",
+"Müller’s Bornean Gibbon",
 37
 ],
 [
-"Müller’s Bornean Gibbon",
+"Müller's Gibbon",
 37
 ],
 [
@@ -9476,163 +9628,47 @@
 37
 ],
 [
-"Capped Gibbon",
+"Juan Fernández Fur Seal",
 37
 ],
 [
-"Crowned Gibbon",
+"Black Howling Monkey",
 37
 ],
 [
-"Pileated gibbon",
+"Red Hartebeest",
 37
 ],
 [
-"Pileated Gibbon",
+"Black-and-gold Howler Monkey",
 37
 ],
 [
-"Mountain Reedbuck",
+"Black Howler",
 37
 ],
 [
-"Southern reedbuck",
+"Black howler monkey",
 37
 ],
 [
-"Southern Reedbuck",
+"Black Howler Monkey",
 37
 ],
 [
-"Arabian tahr",
+"Northern Pig-tailed Macaque",
 37
 ],
 [
-"Arabian Tahr",
+"Northern pigtail macaque",
 37
 ],
 [
-"Cuvier's Gazelle",
+"Northern Pigtail Macaque",
 37
 ],
 [
-"Cuvier’s gazelle",
-37
-],
-[
-"Cuvier’s Gazelle",
-37
-],
-[
-"Edmi",
-37
-],
-[
-"Sand Gazelle",
-37
-],
-[
-"Slender-horned gazelle",
-37
-],
-[
-"Slender-horned Gazelle",
-37
-],
-[
-"Rhim",
-37
-],
-[
-"Taruka",
-37
-],
-[
-"North Andean Deer",
-37
-],
-[
-"North Andean Huemul",
-37
-],
-[
-"Peruvian Guemal",
-37
-],
-[
-"Peruvian Huemul",
-37
-],
-[
-"Taruca",
-37
-],
-[
-"Schomburgk's Deer",
-37
-],
-[
-"Schomburgk’s Deer",
-37
-],
-[
-"Red-fronted gazelle",
-37
-],
-[
-"Red-fronted Gazelle",
-37
-],
-[
-"Sharpe's Grysbok",
-37
-],
-[
-"Sharpe’s Grysbok",
-37
-],
-[
-"Pygmy Mouse",
-37
-],
-[
-"Southern African Pygmy Mouse",
-37
-],
-[
-"Blackchin Dolphin",
-37
-],
-[
-"Peale's Dolphin",
-37
-],
-[
-"Peale’s Black-chinned Dolphin",
-37
-],
-[
-"Peale’s dolphin",
-37
-],
-[
-"Peale’s Dolphin",
-37
-],
-[
-"Southern Dolphin",
-37
-],
-[
-"Ginkgo-toothed beaked whale",
-37
-],
-[
-"Ginkgo-toothed Beaked Whale",
-37
-],
-[
-"Gervais' Beaked Whale",
+"Greater Cane Rat",
 37
 ],
 [
@@ -9640,11 +9676,11 @@
 37
 ],
 [
-"Gervais’ Beaked Whale",
+"Gervais' Beaked Whale",
 37
 ],
 [
-"Gulf Stream Beaked Whale",
+"Gervais’ Beaked Whale",
 37
 ],
 [
@@ -9652,131 +9688,35 @@
 37
 ],
 [
-"Atlantic Spinner Dolphin",
+"Gulf Stream Beaked Whale",
 37
 ],
 [
-"Clymene dolphin",
-37
-],
-[
-"Clymene Dolphin",
-37
-],
-[
-"Helmet Dolphin",
-37
-],
-[
-"Black Porpoise",
-37
-],
-[
-"Burmeister's Porpoise",
-37
-],
-[
-"Burmeister’s Porpoise",
-37
-],
-[
-"Marposa Espinosa",
-37
-],
-[
-"Spectacled porpoise",
-37
-],
-[
-"Spectacled Porpoise",
-37
-],
-[
-"Southern hairy-nosed wombat",
+"Woolly monkey",
 36
 ],
 [
-"Southern Hairy-nosed Wombat",
+"Kha-nyou",
 36
 ],
 [
-"Algerian Hedgehog",
+"Laotian rock rat",
 36
 ],
 [
-"North African Hedgehog",
+"Laotian Rock Rat",
 36
 ],
 [
-"Galapagos sea lion",
+"Back-striped Weasel",
 36
 ],
 [
-"Galapagos Sea Lion",
+"Black-striped Weasel",
 36
 ],
 [
-"Galápagos Sea Lion",
-36
-],
-[
-"Northern Lesser Anteater",
-36
-],
-[
-"Northern tamandua",
-36
-],
-[
-"Attenborough's Echidna",
-36
-],
-[
-"Attenborough's Long-beaked Echidna",
-36
-],
-[
-"Attenborough's Long-nosed Echidna",
-36
-],
-[
-"Cyclops Long-beaked Echidna",
-36
-],
-[
-"Cyclops Long-nosed Echidna",
-36
-],
-[
-"Sir David's Long-beaked Echidna",
-36
-],
-[
-"Sir David's Long-nosed Echidna",
-36
-],
-[
-"Guadalupe fur seal",
-36
-],
-[
-"Guadalupe Fur Seal",
-36
-],
-[
-"Mehely's Horseshoe Bat",
-36
-],
-[
-"Mehely's Horseshoe Bat.",
-36
-],
-[
-"Mehely’s horseshoe bat",
-36
-],
-[
-"Mehely’s Horseshoe Bat",
+"Stripe-backed Weasel",
 36
 ],
 [
@@ -9800,55 +9740,79 @@
 36
 ],
 [
-"musky 'rat'-kangaroo",
+"Flatheaded Bottlenose Whale",
 36
 ],
 [
-"Musky Rat Kangaroo",
+"Southern bottlenose whale",
 36
 ],
 [
-"Musky Rat-kangaroo",
+"Southern Bottlenose Whale",
 36
 ],
 [
-"Back-striped Weasel",
+"Southern Flat-headed Bottle-nosed Whale",
 36
 ],
 [
-"Black-striped Weasel",
+"Korean Hare",
 36
 ],
 [
-"Stripe-backed Weasel",
+"Mona Guenon",
 36
 ],
 [
-"Boongary",
+"Mona monkey",
 36
 ],
 [
-"Lumholtz' Tree-kangaroo",
+"Mona Monkey",
 36
 ],
 [
-"Lumholtz's Tree Kangaroo",
+"Side-striped jackal",
 36
 ],
 [
-"Lumholtz’s Tree Kangaroo",
+"Side-striped Jackal",
 36
 ],
 [
-"Asian badger",
+"Mehely’s horseshoe bat",
 36
 ],
 [
-"Asian Badger",
+"Mehely's Horseshoe Bat",
 36
 ],
 [
-"Kowari",
+"Mehely’s Horseshoe Bat",
+36
+],
+[
+"Mehely's Horseshoe Bat.",
+36
+],
+[
+"Fea’s barking deer",
+36
+],
+[
+"Fea's Muntjac",
+36
+],
+[
+"Fea’s Muntjac",
+36
+],
+[
+"Olingos",
+36
+],
+[
+"Manchurian Hare",
 36
 ],
 [
@@ -9884,131 +9848,87 @@
 36
 ],
 [
-"Brown Palm Civet",
+"Boongary",
 36
 ],
 [
-"Celebes Palm Civet",
+"Lumholtz's Tree Kangaroo",
 36
 ],
 [
-"Sulawesi Civet",
+"Lumholtz’s Tree Kangaroo",
 36
 ],
 [
-"Sulawesi palm civet",
+"Lumholtz' Tree-kangaroo",
 36
 ],
 [
-"Sulawesi Palm Civet",
+"Guadalupe fur seal",
 36
 ],
 [
-"Hose's civet",
+"Guadalupe Fur Seal",
 36
 ],
 [
-"Hose's Civet",
+"Nilgiri tahr",
 36
 ],
 [
-"Hose's Palm Civet",
+"Nilgiri Tahr",
 36
 ],
 [
-"Hose’s Palm Civet",
+"Brazilian bare-faced tamarin",
 36
 ],
 [
-"Cozumel Island Raccoon",
+"Brazilian Bare-faced Tamarin",
 36
 ],
 [
-"Cozumel Raccoon",
+"Pied Bare-faced Tamarin",
 36
 ],
 [
-"Cozumel Raccoon Bear",
+"Pied Bare-face Tamarin",
 36
 ],
 [
-"Pygmy raccoon",
+"Pied Tamarin",
 36
 ],
 [
-"Pygmy Raccoon",
+"Bhulan",
 36
 ],
 [
-"Olingos",
+"Alaska Marmot",
 36
 ],
 [
-"Side-striped jackal",
+"Black-crested gibbon",
 36
 ],
 [
-"Side-striped Jackal",
+"Black Crested Gibbon",
 36
 ],
 [
-"Olingo",
+"Black Gibbon",
 36
 ],
 [
-"Northern Olingo",
+"Concolor Gibbon",
 36
 ],
 [
-"Bushy-tailed Olingo",
+"Crested Gibbon",
 36
 ],
 [
-"Bicolored Shrew",
-36
-],
-[
-"Bicoloured White-toothed Shrew",
-36
-],
-[
-"bicoloured white-toothed shrew, bicoloured shrew",
-36
-],
-[
-"Feather-tailed Tree Shrew",
-36
-],
-[
-"Pen-tailed Tree Shrew",
-36
-],
-[
-"Pen-tailed Treeshrew",
-36
-],
-[
-"Giant Otter Shrew",
-36
-],
-[
-"Giant Otter-shrew",
-36
-],
-[
-"Burmese Hare",
-36
-],
-[
-"Siamese Hare",
-36
-],
-[
-"Manchurian Hare",
-36
-],
-[
-"Korean Hare",
+"Indochinese Gibbon",
 36
 ],
 [
@@ -10044,63 +9964,119 @@
 36
 ],
 [
-"Woolly monkey",
+"Giant Otter-shrew",
 36
 ],
 [
-"Kha-nyou",
+"Giant Otter Shrew",
 36
 ],
 [
-"Laotian rock rat",
+"Southern hairy-nosed wombat",
 36
 ],
 [
-"Laotian Rock Rat",
+"Southern Hairy-nosed Wombat",
 36
 ],
 [
-"Alaska Marmot",
+"Mongoose lemur",
 36
 ],
 [
-"Brazilian bare-faced tamarin",
+"Mongoose Lemur",
 36
 ],
 [
-"Brazilian Bare-faced Tamarin",
+"Common Pine Vole",
 36
 ],
 [
-"Pied Bare-face Tamarin",
+"European Pine Vole",
 36
 ],
 [
-"Pied Bare-faced Tamarin",
+"pine vole",
 36
 ],
 [
-"Pied Tamarin",
+"Hose's civet",
 36
 ],
 [
-"Golden-handed tamarin",
+"Hose's Civet",
 36
 ],
 [
-"Golden-handed Tamarin",
+"Hose's Palm Civet",
 36
 ],
 [
-"Midas Tamarin",
+"Hose’s Palm Civet",
 36
 ],
 [
-"Red-handed Tamarin",
+"Brown Palm Civet",
 36
 ],
 [
-"Yellow-handed Tamarin",
+"Celebes Palm Civet",
+36
+],
+[
+"Sulawesi Civet",
+36
+],
+[
+"Sulawesi palm civet",
+36
+],
+[
+"Sulawesi Palm Civet",
+36
+],
+[
+"Bicolored Shrew",
+36
+],
+[
+"Bicoloured White-toothed Shrew",
+36
+],
+[
+"bicoloured white-toothed shrew, bicoloured shrew",
+36
+],
+[
+"Cozumel Island Raccoon",
+36
+],
+[
+"Cozumel Raccoon",
+36
+],
+[
+"Cozumel Raccoon Bear",
+36
+],
+[
+"Pygmy raccoon",
+36
+],
+[
+"Pygmy Raccoon",
+36
+],
+[
+"musky 'rat'-kangaroo",
+36
+],
+[
+"Musky Rat-kangaroo",
+36
+],
+[
+"Musky Rat Kangaroo",
 36
 ],
 [
@@ -10109,18 +10085,6 @@
 ],
 [
 "Brown-headed Spider Monkey",
-36
-],
-[
-"Brown Spider Monkey",
-36
-],
-[
-"Variegated spider monkey",
-36
-],
-[
-"Variegated Spider Monkey",
 36
 ],
 [
@@ -10144,47 +10108,83 @@
 36
 ],
 [
-"Mongoose lemur",
+"Formosan Serow",
 36
 ],
 [
-"Mongoose Lemur",
+"Taiwan Serow",
 36
 ],
 [
-"Brown lemur",
+"Asian badger",
 36
 ],
 [
-"Brown Lemur",
+"Asian Badger",
 36
 ],
 [
-"Common Brown Lemur",
+"Dall Porpoise",
 36
 ],
 [
-"Golden-faced Saki",
+"Dall’s porpoise",
 36
 ],
 [
-"Guianan Saki",
+"Dall's Porpoise",
 36
 ],
 [
-"White-faced Saki",
+"Dall’s Porpoise",
 36
 ],
 [
-"Golden-faced saki",
+"Dall’s White-flanked Porpoise",
 36
 ],
 [
-"Desmarest's Hutia",
+"Feather-tailed Tree Shrew",
 36
 ],
 [
-"Desmarest’s Hutia",
+"Pen-tailed Treeshrew",
+36
+],
+[
+"Pen-tailed Tree Shrew",
+36
+],
+[
+"Kowari",
+36
+],
+[
+"Attenborough's Echidna",
+36
+],
+[
+"Attenborough's Long-beaked Echidna",
+36
+],
+[
+"Attenborough's Long-nosed Echidna",
+36
+],
+[
+"Cyclops Long-beaked Echidna",
+36
+],
+[
+"Cyclops Long-nosed Echidna",
+36
+],
+[
+"Sir David's Long-beaked Echidna",
+36
+],
+[
+"Sir David's Long-nosed Echidna",
 36
 ],
 [
@@ -10200,15 +10200,47 @@
 36
 ],
 [
-"Mona Guenon",
+"Golden-handed tamarin",
 36
 ],
 [
-"Mona monkey",
+"Golden-handed Tamarin",
 36
 ],
 [
-"Mona Monkey",
+"Midas Tamarin",
+36
+],
+[
+"Red-handed Tamarin",
+36
+],
+[
+"Yellow-handed Tamarin",
+36
+],
+[
+"Brown Spider Monkey",
+36
+],
+[
+"Variegated spider monkey",
+36
+],
+[
+"Variegated Spider Monkey",
+36
+],
+[
+"Brown lemur",
+36
+],
+[
+"Brown Lemur",
+36
+],
+[
+"Common Brown Lemur",
 36
 ],
 [
@@ -10220,47 +10252,27 @@
 36
 ],
 [
-"Agile gibbon",
+"Golden-faced saki",
 36
 ],
 [
-"Agile Gibbon",
+"Golden-faced Saki",
 36
 ],
 [
-"Dark-handed Gibbon",
+"Guianan Saki",
 36
 ],
 [
-"Black Crested Gibbon",
+"White-faced Saki",
 36
 ],
 [
-"Black Gibbon",
+"Desmarest's Hutia",
 36
 ],
 [
-"Black-crested gibbon",
-36
-],
-[
-"Concolor Gibbon",
-36
-],
-[
-"Crested Gibbon",
-36
-],
-[
-"Indochinese Gibbon",
-36
-],
-[
-"Formosan Serow",
-36
-],
-[
-"Taiwan Serow",
+"Desmarest’s Hutia",
 36
 ],
 [
@@ -10276,39 +10288,55 @@
 36
 ],
 [
-"Common Pine Vole",
+"Agile gibbon",
 36
 ],
 [
-"European Pine Vole",
+"Agile Gibbon",
 36
 ],
 [
-"pine vole",
+"Dark-handed Gibbon",
 36
 ],
 [
-"Nilgiri tahr",
+"Northern Lesser Anteater",
 36
 ],
 [
-"Nilgiri Tahr",
+"Northern tamandua",
 36
 ],
 [
-"Fea's Muntjac",
+"Algerian Hedgehog",
 36
 ],
 [
-"Fea’s barking deer",
+"North African Hedgehog",
 36
 ],
 [
-"Fea’s Muntjac",
+"Burmese Hare",
 36
 ],
 [
-"Huemul",
+"Siamese Hare",
+36
+],
+[
+"Gazelle de Soemmerring",
+36
+],
+[
+"Soemmerring’s gazelle",
+36
+],
+[
+"Soemmerring's Gazelle",
+36
+],
+[
+"Soemmerring’s Gazelle",
 36
 ],
 [
@@ -10324,6 +10352,10 @@
 36
 ],
 [
+"Huemul",
+36
+],
+[
 "Patagonian Huemul",
 36
 ],
@@ -10336,23 +10368,19 @@
 36
 ],
 [
-"Gazelle de Soemmerring",
+"Bushy-tailed Olingo",
 36
 ],
 [
-"Soemmerring's Gazelle",
+"Northern Olingo",
 36
 ],
 [
-"Soemmerring’s gazelle",
+"Olingo",
 36
 ],
 [
-"Soemmerring’s Gazelle",
-36
-],
-[
-"Gray's Beaked Whale",
+"grays beaked whale",
 36
 ],
 [
@@ -10360,11 +10388,11 @@
 36
 ],
 [
-"Gray’s Beaked Whale",
+"Gray's Beaked Whale",
 36
 ],
 [
-"grays beaked whale",
+"Gray’s Beaked Whale",
 36
 ],
 [
@@ -10376,71 +10404,139 @@
 36
 ],
 [
-"Bhulan",
+"Galapagos sea lion",
 36
 ],
 [
-"Flatheaded Bottlenose Whale",
+"Galapagos Sea Lion",
 36
 ],
 [
-"Southern bottlenose whale",
+"Galápagos Sea Lion",
 36
 ],
 [
-"Southern Bottlenose Whale",
-36
+"Lutungs or leaf monkeys",
+35
 ],
 [
-"Southern Flat-headed Bottle-nosed Whale",
-36
+"Chinese goral",
+35
 ],
 [
-"Dall Porpoise",
-36
+"Gray Long-tailed Goral",
+35
 ],
 [
-"Dall's Porpoise",
-36
+"Grey Long-tailed Goral",
+35
 ],
 [
-"Dall’s porpoise",
-36
+"Chinese Hare",
+35
 ],
 [
-"Dall’s Porpoise",
-36
+"Carolina Flying Squirrel",
+35
 ],
 [
-"Dall’s White-flanked Porpoise",
-36
+"Northern flying squirrel",
+35
+],
+[
+"Northern Flying Squirrel",
+35
+],
+[
+"Bering Sea Beaked Whale",
+35
+],
+[
+"North Pacific Beaked Whale",
+35
+],
+[
+"Saber-toothed Whale",
+35
+],
+[
+"Stejneger’s beaked whale",
+35
+],
+[
+"Stejneger's Beaked Whale",
+35
+],
+[
+"Stejneger’s Beaked Whale",
+35
+],
+[
+"Atlantic Humpback Dolphin",
+35
+],
+[
+"Atlantic humpbacked dolphin",
+35
+],
+[
+"Atlantic Hump-backed Dolphin",
+35
+],
+[
+"Atlantic Humpbacked Dolphin",
+35
+],
+[
+"Cameroon Deolphin",
+35
+],
+[
+"Teusz's Dolphin",
+35
+],
+[
+"Teusz’s Dolphin",
+35
+],
+[
+"West African Humpbacked Dolphin",
+35
 ],
 [
 "Multituberculates",
 35
 ],
 [
-"Abyssinian Genet",
+"Palawan Pangolin",
 35
 ],
 [
-"Ethiopian Genet",
+"Philippine Pangolin",
 35
 ],
 [
-"Four-toed Hedgehog",
+"Prevost's Squirrel",
 35
 ],
 [
-"Stripe-necked mongoose",
+"Prevost’s Squirrel",
 35
 ],
 [
-"Stripe-necked Mongoose",
+"Javan Pig",
 35
 ],
 [
-"Striped-necked Mongoose",
+"Javan Warty Pig",
+35
+],
+[
+"Java Warty Pig",
+35
+],
+[
+"Warty Pig",
 35
 ],
 [
@@ -10456,39 +10552,11 @@
 35
 ],
 [
-"Barton's Long-beaked Echidna",
+"Silvery marmoset",
 35
 ],
 [
-"Eastern long-beaked echidna",
-35
-],
-[
-"Eastern Long-beaked Echidna",
-35
-],
-[
-"Desert hedgehog",
-35
-],
-[
-"Desert Hedgehog",
-35
-],
-[
-"White-tailed mongoose",
-35
-],
-[
-"White-tailed Mongoose",
-35
-],
-[
-"Black-shouldered Opossum",
-35
-],
-[
-"Indonesian Mountain Weasel",
+"Silvery Marmoset",
 35
 ],
 [
@@ -10504,31 +10572,15 @@
 35
 ],
 [
-"Dusty Tree Kangaroo",
-35
-],
-[
 "Dusty Tree-kangaroo",
 35
 ],
 [
+"Dusty Tree Kangaroo",
+35
+],
+[
 "Tcharibbeena",
-35
-],
-[
-"Brush-tailed rock wallaby",
-35
-],
-[
-"Brush-tailed Rock Wallaby",
-35
-],
-[
-"Brush-tailed Rock-wallaby",
-35
-],
-[
-"Western Rock Wallaby",
 35
 ],
 [
@@ -10544,11 +10596,11 @@
 35
 ],
 [
-"Vogelkop Tree Kangaroo",
+"Vogelkop Tree-kangaroo",
 35
 ],
 [
-"Vogelkop Tree-kangaroo",
+"Vogelkop Tree Kangaroo",
 35
 ],
 [
@@ -10572,11 +10624,27 @@
 35
 ],
 [
-"Rufous hare wallaby",
+"Brush-tailed rock wallaby",
 35
 ],
 [
-"Rufous Hare Wallaby",
+"Brush-tailed Rock-wallaby",
+35
+],
+[
+"Brush-tailed Rock Wallaby",
+35
+],
+[
+"Western Rock Wallaby",
+35
+],
+[
+"Mala",
+35
+],
+[
+"Rufous hare wallaby",
 35
 ],
 [
@@ -10584,11 +10652,11 @@
 35
 ],
 [
-"Wurrup",
+"Rufous Hare Wallaby",
 35
 ],
 [
-"Mala",
+"Wurrup",
 35
 ],
 [
@@ -10604,39 +10672,39 @@
 35
 ],
 [
-"Leadbeater's Possum",
+"Indonesian Mountain Weasel",
 35
 ],
 [
-"Leadbeater’s possum",
+"Cairo spiny mouse",
 35
 ],
 [
-"Leadbeater’s Possum",
+"Cairo Spiny Mouse",
 35
 ],
 [
-"Sea mink",
+"Greater Wilfred's Mouse",
 35
 ],
 [
-"Sea Mink",
+"Greater Wilfred’s Mouse",
 35
 ],
 [
-"Malagasy ring-tailed mongoose",
+"Northeast African Spiny Mouse",
 35
 ],
 [
-"Malagasy Ring-tailed Mongoose",
+"Desert hedgehog",
 35
 ],
 [
-"Ring-tailed Vontsira",
+"Desert Hedgehog",
 35
 ],
 [
-"Ring-tailed Mongoose",
+"beaver",
 35
 ],
 [
@@ -10648,14 +10716,6 @@
 35
 ],
 [
-"Owston's Civet",
-35
-],
-[
-"Owston's Palm Civet",
-35
-],
-[
 "Owston’s Banded Palm Civet",
 35
 ],
@@ -10664,7 +10724,15 @@
 35
 ],
 [
+"Owston's Civet",
+35
+],
+[
 "Owston’s Civet",
+35
+],
+[
+"Owston's Palm Civet",
 35
 ],
 [
@@ -10672,27 +10740,115 @@
 35
 ],
 [
-"Common Tree Shrew",
+"Black-shouldered Opossum",
 35
 ],
 [
-"Common Treeshrew",
+"Leadbeater’s possum",
 35
 ],
 [
-"beaver",
+"Leadbeater's Possum",
 35
 ],
 [
-"Western Tree Dassie",
+"Leadbeater’s Possum",
 35
 ],
 [
-"Western Tree Hyrax",
+"Bamboo Lemur",
 35
 ],
 [
-"Madras Treeshrew",
+"Eastern lesser bamboo lemur",
+35
+],
+[
+"Eastern Lesser Bamboo Lemur",
+35
+],
+[
+"Gray Bamboo Lemur",
+35
+],
+[
+"Grey Gentle Lemur",
+35
+],
+[
+"Lesser Bamboo Lemur",
+35
+],
+[
+"Przewalski’s gazelle",
+35
+],
+[
+"Przewalski's Gazelle",
+35
+],
+[
+"Przewalski’s Gazelle",
+35
+],
+[
+"Abyssinian Genet",
+35
+],
+[
+"Ethiopian Genet",
+35
+],
+[
+"True’s beaked whale",
+35
+],
+[
+"True's Beaked Whale",
+35
+],
+[
+"True’s Beaked Whale",
+35
+],
+[
+"True’s North Atlantic Beaked Whale",
+35
+],
+[
+"Andrew's Beaked Whale",
+35
+],
+[
+"Andrew’s Beaked Whale",
+35
+],
+[
+"Andrews' Beaked Whale",
+35
+],
+[
+"Deep-crested Beaked Whale",
+35
+],
+[
+"Splaytooth Beaked Whale",
+35
+],
+[
+"Malagasy ring-tailed mongoose",
+35
+],
+[
+"Malagasy Ring-tailed Mongoose",
+35
+],
+[
+"Ring-tailed Mongoose",
+35
+],
+[
+"Ring-tailed Vontsira",
 35
 ],
 [
@@ -10700,15 +10856,79 @@
 35
 ],
 [
+"Madras Treeshrew",
+35
+],
+[
 "Madras Tree Shrew",
 35
 ],
 [
-"South African Spring Hare",
+"Common Treeshrew",
 35
 ],
 [
-"Spring Hare",
+"Common Tree Shrew",
+35
+],
+[
+"Sea mink",
+35
+],
+[
+"Sea Mink",
+35
+],
+[
+"Long-beaked common dolphin",
+35
+],
+[
+"Long-beaked Common Dolphin",
+35
+],
+[
+"Pig-tailed langur",
+35
+],
+[
+"Pig-tailed Langur",
+35
+],
+[
+"Pig-tailed Snub-nosed Langur",
+35
+],
+[
+"Pig-tailed Snub-nosed Monkey",
+35
+],
+[
+"Simakobou",
+35
+],
+[
+"Phillipine Spotted Deer",
+35
+],
+[
+"Prince Alfred’s Spotted Deer",
+35
+],
+[
+"Visayan spotted deer",
+35
+],
+[
+"Visayan Spotted Deer",
+35
+],
+[
+"Short-tailed Chinchilla",
+35
+],
+[
+"South African Spring Hare",
 35
 ],
 [
@@ -10720,23 +10940,63 @@
 35
 ],
 [
-"Masked Shrew",
+"Spring Hare",
 35
 ],
 [
-"Laxmann's Shrew",
+"Striped-necked Mongoose",
 35
 ],
 [
-"Laxmann’s Shrew",
+"Stripe-necked mongoose",
 35
 ],
 [
-"MASKED SHREW",
+"Stripe-necked Mongoose",
 35
 ],
 [
-"Chinese Hare",
+"Western Tree Dassie",
+35
+],
+[
+"Western Tree Hyrax",
+35
+],
+[
+"Olive colobus",
+35
+],
+[
+"Olive Colobus",
+35
+],
+[
+"Van Beneden's Colobus",
+35
+],
+[
+"Van Beneden’s Colobus",
+35
+],
+[
+"Gray Dwarf Hamster",
+35
+],
+[
+"Grey Hamster",
+35
+],
+[
+"Barton's Long-beaked Echidna",
+35
+],
+[
+"Eastern long-beaked echidna",
+35
+],
+[
+"Eastern Long-beaked Echidna",
 35
 ],
 [
@@ -10760,67 +11020,19 @@
 35
 ],
 [
-"Short-tailed Chinchilla",
+"Four-toed Hedgehog",
 35
 ],
 [
-"Prevost's Squirrel",
+"Bay duiker",
 35
 ],
 [
-"Prevost’s Squirrel",
+"Bay Duiker",
 35
 ],
 [
-"Palawan Pangolin",
-35
-],
-[
-"Philippine Pangolin",
-35
-],
-[
-"Gray Mouse Lemur",
-35
-],
-[
-"Gray Mouse-lemur",
-35
-],
-[
-"Grey Mouse Lemur",
-35
-],
-[
-"Grey mouse-lemur",
-35
-],
-[
-"Grey Mouse-lemur",
-35
-],
-[
-"Lesser Mouse Lemur",
-35
-],
-[
-"Lesser Mouse-lemur",
-35
-],
-[
-"Long-haired Spider Monkey",
-35
-],
-[
-"White-bellied spider monkey",
-35
-],
-[
-"White-bellied Spider Monkey",
-35
-],
-[
-"White-fronted Spider Monkey",
+"Western Bay Duiker",
 35
 ],
 [
@@ -10860,59 +11072,55 @@
 35
 ],
 [
-"Eastern Lesser Bamboo Lemur",
+"Laxmann's Shrew",
 35
 ],
 [
-"Grey Gentle Lemur",
+"Laxmann’s Shrew",
 35
 ],
 [
-"Bamboo Lemur",
+"Masked Shrew",
 35
 ],
 [
-"Eastern lesser bamboo lemur",
+"MASKED SHREW",
 35
 ],
 [
-"Gray Bamboo Lemur",
+"Gray Mouse-lemur",
 35
 ],
 [
-"Lesser Bamboo Lemur",
+"Gray Mouse Lemur",
 35
 ],
 [
-"Lutungs or leaf monkeys",
+"Grey mouse-lemur",
 35
 ],
 [
-"Carolina Flying Squirrel",
+"Grey Mouse-lemur",
 35
 ],
 [
-"Northern flying squirrel",
+"Grey Mouse Lemur",
 35
 ],
 [
-"Northern Flying Squirrel",
+"Lesser Mouse-lemur",
 35
 ],
 [
-"Silvery marmoset",
+"Lesser Mouse Lemur",
 35
 ],
 [
-"Silvery Marmoset",
+"Vervet",
 35
 ],
 [
-"Gray Dwarf Hamster",
-35
-],
-[
-"Grey Hamster",
+"Vervet Monkey",
 35
 ],
 [
@@ -10944,235 +11152,27 @@
 35
 ],
 [
-"Bay duiker",
+"White-tailed mongoose",
 35
 ],
 [
-"Bay Duiker",
+"White-tailed Mongoose",
 35
 ],
 [
-"Western Bay Duiker",
+"Long-haired Spider Monkey",
 35
 ],
 [
-"Olive colobus",
+"White-bellied spider monkey",
 35
 ],
 [
-"Olive Colobus",
+"White-bellied Spider Monkey",
 35
 ],
 [
-"Van Beneden's Colobus",
-35
-],
-[
-"Van Beneden’s Colobus",
-35
-],
-[
-"Vervet",
-35
-],
-[
-"Vervet Monkey",
-35
-],
-[
-"Chinese goral",
-35
-],
-[
-"Gray Long-tailed Goral",
-35
-],
-[
-"Grey Long-tailed Goral",
-35
-],
-[
-"Greater Wilfred's Mouse",
-35
-],
-[
-"Greater Wilfred’s Mouse",
-35
-],
-[
-"Cairo spiny mouse",
-35
-],
-[
-"Cairo Spiny Mouse",
-35
-],
-[
-"Northeast African Spiny Mouse",
-35
-],
-[
-"Pig-tailed langur",
-35
-],
-[
-"Pig-tailed Langur",
-35
-],
-[
-"Pig-tailed Snub-nosed Langur",
-35
-],
-[
-"Pig-tailed Snub-nosed Monkey",
-35
-],
-[
-"Simakobou",
-35
-],
-[
-"Visayan spotted deer",
-35
-],
-[
-"Phillipine Spotted Deer",
-35
-],
-[
-"Prince Alfred’s Spotted Deer",
-35
-],
-[
-"Visayan Spotted Deer",
-35
-],
-[
-"Przewalski's Gazelle",
-35
-],
-[
-"Przewalski’s gazelle",
-35
-],
-[
-"Przewalski’s Gazelle",
-35
-],
-[
-"Java Warty Pig",
-35
-],
-[
-"Javan Pig",
-35
-],
-[
-"Javan Warty Pig",
-35
-],
-[
-"Warty Pig",
-35
-],
-[
-"Bering Sea Beaked Whale",
-35
-],
-[
-"North Pacific Beaked Whale",
-35
-],
-[
-"Saber-toothed Whale",
-35
-],
-[
-"Stejneger's Beaked Whale",
-35
-],
-[
-"Stejneger’s beaked whale",
-35
-],
-[
-"Stejneger’s Beaked Whale",
-35
-],
-[
-"Atlantic Hump-backed Dolphin",
-35
-],
-[
-"Atlantic Humpback Dolphin",
-35
-],
-[
-"Atlantic humpbacked dolphin",
-35
-],
-[
-"Atlantic Humpbacked Dolphin",
-35
-],
-[
-"Cameroon Deolphin",
-35
-],
-[
-"Teusz's Dolphin",
-35
-],
-[
-"Teusz’s Dolphin",
-35
-],
-[
-"West African Humpbacked Dolphin",
-35
-],
-[
-"Long-beaked common dolphin",
-35
-],
-[
-"Long-beaked Common Dolphin",
-35
-],
-[
-"True's Beaked Whale",
-35
-],
-[
-"True’s beaked whale",
-35
-],
-[
-"True’s Beaked Whale",
-35
-],
-[
-"True’s North Atlantic Beaked Whale",
-35
-],
-[
-"Andrew's Beaked Whale",
-35
-],
-[
-"Andrew’s Beaked Whale",
-35
-],
-[
-"Andrews' Beaked Whale",
-35
-],
-[
-"Deep-crested Beaked Whale",
-35
-],
-[
-"Splaytooth Beaked Whale",
+"White-fronted Spider Monkey",
 35
 ],
 [
@@ -11192,7 +11192,111 @@
 35
 ],
 [
+"Woolly Lemur",
+34
+],
+[
+"Marmoset",
+34
+],
+[
+"Himalayan musk deer",
+34
+],
+[
+"Himalayan Musk-deer",
+34
+],
+[
+"Himalayan Muskdeer",
+34
+],
+[
+"Himalayan Musk Deer",
+34
+],
+[
+"White-bellied Musk Deer",
+34
+],
+[
+"Shepherd's Beaked Whale",
+34
+],
+[
+"Shepherd’s Beaked Whale",
+34
+],
+[
+"Tasman Beaked Whale",
+34
+],
+[
+"Tasman Whale",
+34
+],
+[
+"Lichtenstein's Hartebeest",
+34
+],
+[
+"Lichtenstein’s Hartebeest",
+34
+],
+[
+"Eurasian Least Shrew",
+34
+],
+[
+"Least Shrew",
+34
+],
+[
+"Least Siberian Shrew",
+34
+],
+[
+"Miniscule Shrew",
+34
+],
+[
+"Treeshrew",
+34
+],
+[
+"Common Giant Flying Squirrel",
+34
+],
+[
+"Red Giant Flying Squirrel",
+34
+],
+[
+"Olympic marmot",
+34
+],
+[
+"Olympic Marmot",
+34
+],
+[
+"Black-backed jackal",
+34
+],
+[
+"Black-backed Jackal",
+34
+],
+[
+"Yunnan Hare",
+34
+],
+[
 "Elephant-shrews",
+34
+],
+[
+"Snubfin Dolphins",
 34
 ],
 [
@@ -11216,15 +11320,67 @@
 34
 ],
 [
-"Lesser Bilby",
+"Crowned lemur",
 34
 ],
 [
-"Lesser Rabbit-bandicoot",
+"Crowned Lemur",
 34
 ],
 [
-"Yallara",
+"Highland mangabey",
+34
+],
+[
+"Highland Mangabey",
+34
+],
+[
+"Kipunji",
+34
+],
+[
+"Himalayan serow",
+34
+],
+[
+"Himalayan Serow",
+34
+],
+[
+"Red serow",
+34
+],
+[
+"Red Serow",
+34
+],
+[
+"Japanese Dwarf Flying Squirrel",
+34
+],
+[
+"Japanese Flying Squirrel",
+34
+],
+[
+"Momonga",
+34
+],
+[
+"Small Japanese Flying-squirrel",
+34
+],
+[
+"Silver-backed Jackal",
+34
+],
+[
+"Armenian Sheep",
+34
+],
+[
+"Asiatic mouflon",
 34
 ],
 [
@@ -11240,83 +11396,15 @@
 34
 ],
 [
-"Humboldt's Hog-nosed Skunk",
+"Fat-tailed Dwarf Lemur",
 34
 ],
 [
-"Humboldt’s Hog-nosed Skunk",
+"Lesser Dwarf Lemur",
 34
 ],
 [
-"Patagonian Hog-nosed Skunk",
-34
-],
-[
-"Striped Hog-nosed Skunk",
-34
-],
-[
-"Amazonian Hog-nosed Skunk",
-34
-],
-[
-"Allegheny Spotted Skunk",
-34
-],
-[
-"Appalachian Spotted Skunk",
-34
-],
-[
-"Eastern Spotted Skunk",
-34
-],
-[
-"Plains Spotted Skunk",
-34
-],
-[
-"Spotted Skunk",
-34
-],
-[
-"Western spotted skunk",
-34
-],
-[
-"Western Spotted Skunk",
-34
-],
-[
-"Sunda Stink Badger",
-34
-],
-[
-"Indonesian Stink Badger",
-34
-],
-[
-"Malay Badger",
-34
-],
-[
-"Malayan Stink Badger",
-34
-],
-[
-"Sunda Stink-badger",
-34
-],
-[
-"Teledu",
-34
-],
-[
-"Malay Weasel",
-34
-],
-[
-"Malayan Weasel",
+"Western fat-tailed dwarf lemur",
 34
 ],
 [
@@ -11340,11 +11428,11 @@
 34
 ],
 [
-"Eastern hare wallaby",
+"Red-legged Pademelon",
 34
 ],
 [
-"Eastern Hare Wallaby",
+"Eastern hare wallaby",
 34
 ],
 [
@@ -11352,51 +11440,19 @@
 34
 ],
 [
-"Red-legged Pademelon",
+"Eastern Hare Wallaby",
 34
 ],
 [
-"Burmese Ferret Badger",
+"Ethiopian Highland Hare",
 34
 ],
 [
-"Burmese Ferret-badger",
+"Southern right whale dolphin",
 34
 ],
 [
-"Large-toothed Ferret Badger",
-34
-],
-[
-"Large-toothed Ferret-badger",
-34
-],
-[
-"Large-toothed Ferret-Badger",
-34
-],
-[
-"Long-nosed Mongoose",
-34
-],
-[
-"Common Cusimanse",
-34
-],
-[
-"Common Kusimanse",
-34
-],
-[
-"Cusimanse",
-34
-],
-[
-"Dark Mongoose",
-34
-],
-[
-"Long-nosed Cusimanse",
+"Southern Right Whale Dolphin",
 34
 ],
 [
@@ -11412,135 +11468,23 @@
 34
 ],
 [
-"Patagonian Weasel",
+"Allegheny Spotted Skunk",
 34
 ],
 [
-"Black-backed jackal",
+"Appalachian Spotted Skunk",
 34
 ],
 [
-"Black-backed Jackal",
+"Eastern Spotted Skunk",
 34
 ],
 [
-"Silver-backed Jackal",
+"Plains Spotted Skunk",
 34
 ],
 [
-"Eastern Timber Wolf",
-34
-],
-[
-"Treeshrew",
-34
-],
-[
-"Screaming Hairy Armadillo",
-34
-],
-[
-"Woolly Lemur",
-34
-],
-[
-"Yarkand Hare",
-34
-],
-[
-"Abyssinian Hare",
-34
-],
-[
-"Eurasian Least Shrew",
-34
-],
-[
-"Least Shrew",
-34
-],
-[
-"Least Siberian Shrew",
-34
-],
-[
-"Miniscule Shrew",
-34
-],
-[
-"Yunnan Hare",
-34
-],
-[
-"Ethiopian Highland Hare",
-34
-],
-[
-"Swamp Rabbit",
-34
-],
-[
-"Marmoset",
-34
-],
-[
-"Dassie Rat",
-34
-],
-[
-"Neotropical Pygmy Squirrel",
-34
-],
-[
-"Arctic Ground Squirrel",
-34
-],
-[
-"Arctic ground squirrel",
-34
-],
-[
-"Olympic marmot",
-34
-],
-[
-"Olympic Marmot",
-34
-],
-[
-"Fat-tailed Dwarf Lemur",
-34
-],
-[
-"Lesser Dwarf Lemur",
-34
-],
-[
-"Western fat-tailed dwarf lemur",
-34
-],
-[
-"Crowned lemur",
-34
-],
-[
-"Crowned Lemur",
-34
-],
-[
-"Austalian Water Rat",
-34
-],
-[
-"Common water rat",
-34
-],
-[
-"Common Water Rat",
-34
-],
-[
-"Golden-bellied Water Rat",
+"Spotted Skunk",
 34
 ],
 [
@@ -11548,39 +11492,31 @@
 34
 ],
 [
-"Common Giant Flying Squirrel",
-34
-],
-[
-"Red Giant Flying Squirrel",
-34
-],
-[
-"Japanese Dwarf Flying Squirrel",
-34
-],
-[
-"Japanese Flying Squirrel",
-34
-],
-[
-"Small Japanese Flying-squirrel",
-34
-],
-[
-"Momonga",
-34
-],
-[
-"Crested Rat",
-34
-],
-[
-"Maned Rat",
+"Abyssinian Hare",
 34
 ],
 [
 "Red-flanked Duiker",
+34
+],
+[
+"Yarkand Hare",
+34
+],
+[
+"Lesser Bilby",
+34
+],
+[
+"Lesser Rabbit-bandicoot",
+34
+],
+[
+"Yallara",
+34
+],
+[
+"Arabian Gazelle",
 34
 ],
 [
@@ -11592,10 +11528,6 @@
 34
 ],
 [
-"Angola Pied Colobus",
-34
-],
-[
 "Angolan Black-and-white Colobus",
 34
 ],
@@ -11604,131 +11536,7 @@
 34
 ],
 [
-"Lichtenstein's Hartebeest",
-34
-],
-[
-"Lichtenstein’s Hartebeest",
-34
-],
-[
-"Dwarf Gibbon",
-34
-],
-[
-"Kloss's Gibbon",
-34
-],
-[
-"Kloss’s gibbon",
-34
-],
-[
-"Kloss’s Gibbon",
-34
-],
-[
-"Mentawai Gibbon",
-34
-],
-[
-"Northern white-cheeked gibbon",
-34
-],
-[
-"White-cheeked Gibbon",
-34
-],
-[
-"Kirk's Red Colobus",
-34
-],
-[
-"Zanzibar Red Colobus",
-34
-],
-[
-"Northern White-cheeked Gibbon",
-34
-],
-[
-"Red serow",
-34
-],
-[
-"Red Serow",
-34
-],
-[
-"Armenian Sheep",
-34
-],
-[
-"Asiatic mouflon",
-34
-],
-[
-"Arabian Gazelle",
-34
-],
-[
-"Himalayan serow",
-34
-],
-[
-"Himalayan Serow",
-34
-],
-[
-"Highland mangabey",
-34
-],
-[
-"Highland Mangabey",
-34
-],
-[
-"Kipunji",
-34
-],
-[
-"European mouflon",
-34
-],
-[
-"Snubfin Dolphins",
-34
-],
-[
-"Southern right whale dolphin",
-34
-],
-[
-"Southern Right Whale Dolphin",
-34
-],
-[
-"Northern Right Whale Dolphin",
-34
-],
-[
-"Arch-beaked Whale",
-34
-],
-[
-"Hubbs' Beaked Whale",
-34
-],
-[
-"Hubbs's Beaked Whale",
-34
-],
-[
-"Hubbs’ Beaked Whale",
-34
-],
-[
-"Australian Snubfin Dolphin",
+"Angola Pied Colobus",
 34
 ],
 [
@@ -11752,15 +11560,59 @@
 34
 ],
 [
-"Arnoux's Beaked Whale",
+"Indonesian Stink Badger",
 34
 ],
 [
-"Himalayan Musk Deer",
+"Malayan Stink Badger",
+34
+],
+[
+"Malay Badger",
+34
+],
+[
+"Sunda Stink-badger",
+34
+],
+[
+"Sunda Stink Badger",
+34
+],
+[
+"Teledu",
+34
+],
+[
+"Dwarf Gibbon",
+34
+],
+[
+"Kloss’s gibbon",
+34
+],
+[
+"Kloss's Gibbon",
+34
+],
+[
+"Kloss’s Gibbon",
+34
+],
+[
+"Mentawai Gibbon",
+34
+],
+[
+"Swamp Rabbit",
 34
 ],
 [
 "Arnoux’s beaked whale",
+34
+],
+[
+"Arnoux's Beaked Whale",
 34
 ],
 [
@@ -11780,451 +11632,191 @@
 34
 ],
 [
-"Himalayan musk deer",
+"Arctic ground squirrel",
 34
 ],
 [
-"Himalayan Musk-deer",
+"Arctic Ground Squirrel",
 34
 ],
 [
-"Himalayan Muskdeer",
+"Eastern Timber Wolf",
 34
 ],
 [
-"White-bellied Musk Deer",
+"Amazonian Hog-nosed Skunk",
 34
 ],
 [
-"Shepherd’s Beaked Whale",
+"Striped Hog-nosed Skunk",
 34
 ],
 [
-"Tasman Beaked Whale",
+"Neotropical Pygmy Squirrel",
 34
 ],
 [
-"Tasman Whale",
+"Humboldt's Hog-nosed Skunk",
 34
 ],
 [
-"Shepherd's Beaked Whale",
+"Humboldt’s Hog-nosed Skunk",
 34
 ],
 [
-"mouse opossum",
-33
+"Patagonian Hog-nosed Skunk",
+34
 ],
 [
-"Golden-rumped Elephant Shrew",
-33
+"Australian Snubfin Dolphin",
+34
 ],
 [
-"Golden-rumped elephant-shrew",
-33
+"Dassie Rat",
+34
 ],
 [
-"Golden-rumped Elephant-shrew",
-33
+"Burmese Ferret-badger",
+34
 ],
 [
-"Golden-rumped Sengi",
-33
+"Burmese Ferret Badger",
+34
 ],
 [
-"Pig-footed Bandicoot",
-33
+"Large-toothed Ferret-badger",
+34
 ],
 [
-"Pig-footed bandicoots",
-33
+"Large-toothed Ferret Badger",
+34
 ],
 [
-"Southern Pig-footed Bandicoot",
-33
+"Large-toothed Ferret-Badger",
+34
 ],
 [
-"Cape Gray Mongoose",
-33
+"Austalian Water Rat",
+34
 ],
 [
-"Cape Grey Mongoose",
-33
+"Common water rat",
+34
 ],
 [
-"Small Grey Mongoose",
-33
+"Common Water Rat",
+34
 ],
 [
-"Small-clawed otter",
-33
+"Golden-bellied Water Rat",
+34
 ],
 [
-"Ruddy Mongoose",
-33
+"Crested Rat",
+34
 ],
 [
-"Molina's Hog-nosed Skunk",
-33
+"Maned Rat",
+34
 ],
 [
-"Molina’s Hog-nosed Skunk",
-33
+"Patagonian Weasel",
+34
+],
+[
+"Malayan Weasel",
+34
+],
+[
+"Malay Weasel",
+34
+],
+[
+"Kirk's Red Colobus",
+34
+],
+[
+"Zanzibar Red Colobus",
+34
+],
+[
+"Northern Right Whale Dolphin",
+34
+],
+[
+"Arch-beaked Whale",
+34
+],
+[
+"Hubbs' Beaked Whale",
+34
+],
+[
+"Hubbs’ Beaked Whale",
+34
+],
+[
+"Hubbs's Beaked Whale",
+34
+],
+[
+"Screaming Hairy Armadillo",
+34
+],
+[
+"Common Cusimanse",
+34
+],
+[
+"Common Kusimanse",
+34
+],
+[
+"Cusimanse",
+34
+],
+[
+"Dark Mongoose",
+34
+],
+[
+"Long-nosed Cusimanse",
+34
+],
+[
+"Long-nosed Mongoose",
+34
+],
+[
+"Western spotted skunk",
+34
+],
+[
+"Western Spotted Skunk",
+34
+],
+[
+"European mouflon",
+34
+],
+[
+"Northern white-cheeked gibbon",
+34
+],
+[
+"Northern White-cheeked Gibbon",
+34
+],
+[
+"White-cheeked Gibbon",
+34
 ],
 [
 "Bushy-tailed Mongoose",
 33
 ],
 [
-"Black-footed Mogoose",
-33
-],
-[
-"Black-footed Mongoose",
-33
-],
-[
-"Black-legged Mongoose",
-33
-],
-[
-"Palawan stink badger",
-33
-],
-[
-"Palawan Stink Badger",
-33
-],
-[
-"Palawan Stink-badger",
-33
-],
-[
 "Bushy-tailed opossum",
-33
-],
-[
-"Fisherman Bat",
-33
-],
-[
-"Greater bulldog bat",
-33
-],
-[
-"Greater Bulldog Bat",
-33
-],
-[
-"Greater Bulldog Bat.",
-33
-],
-[
-"Japanese weasel",
-33
-],
-[
-"Japanese Weasel",
-33
-],
-[
-"Doria's Tree Kangaroo",
-33
-],
-[
-"Doria’s tree kangaroo",
-33
-],
-[
-"Doria’s Tree Kangaroo",
-33
-],
-[
-"Unicolored Tree Kangaroo",
-33
-],
-[
-"Brown-tailed Mongoose",
-33
-],
-[
-"Brown-tailed Vontsira",
-33
-],
-[
-"Malagasy Brown-tailed Mongoose",
-33
-],
-[
-"Brown-tailed mongoose",
-33
-],
-[
-"Salano",
-33
-],
-[
-"Chuditch",
-33
-],
-[
-"Western Quoll",
-33
-],
-[
-"Asian Barbastelle",
-33
-],
-[
-"Eastern Barbastelle",
-33
-],
-[
-"Striped Possum",
-33
-],
-[
-"Merrin",
-33
-],
-[
-"Bridled Nail-tail Wallaby",
-33
-],
-[
-"Bridled Nail-tailed Wallaby",
-33
-],
-[
-"Bridled nailtail wallaby",
-33
-],
-[
-"Bridled Nailtail Wallaby",
-33
-],
-[
-"Bridled Wallaby",
-33
-],
-[
-"Javan Ferret Badger",
-33
-],
-[
-"Javan Ferret-badger",
-33
-],
-[
-"Broom's Pygmy-possum",
-33
-],
-[
-"Mountain Pygmy Possum",
-33
-],
-[
-"Mountain pygmy-possum",
-33
-],
-[
-"Burramys",
-33
-],
-[
-"African Tropical Savannah Mongoose",
-33
-],
-[
-"Pousargues's mongoose",
-33
-],
-[
-"Pousargues's Mongoose",
-33
-],
-[
-"Pousargues’s Mongoose",
-33
-],
-[
-"Savanna Mongoose",
-33
-],
-[
-"Bokiboky",
-33
-],
-[
-"Malagasy narrow-striped mongoose",
-33
-],
-[
-"Malagasy Narrow-striped Mongoose",
-33
-],
-[
-"Narrow-striped Mongoose",
-33
-],
-[
-"Greater Glider",
-33
-],
-[
-"Greater Gliding Possum",
-33
-],
-[
-"scimitar cat",
-33
-],
-[
-"scimitar-toothed cat",
-33
-],
-[
-"Indochinese leopard",
-33
-],
-[
-"South-Chinese leopard",
-33
-],
-[
-"Italian Wolf",
-33
-],
-[
-"Chacoan naked-tailed armadillo",
-33
-],
-[
-"Chacoan Naked-tailed Armadillo",
-33
-],
-[
-"Northern Tree Shrew",
-33
-],
-[
-"Northern Treeshrew",
-33
-],
-[
-"Eastern Tree Dassie",
-33
-],
-[
-"Eastern Tree Hyrax",
-33
-],
-[
-"Southern Tree Dassie",
-33
-],
-[
-"Southern tree hyrax",
-33
-],
-[
-"Southern Tree Hyrax",
-33
-],
-[
-"Bush hyrax",
-33
-],
-[
-"Bush Hyrax",
-33
-],
-[
-"Hoggar Hyrax",
-33
-],
-[
-"Yellow-spotted Hyrax",
-33
-],
-[
-"Yellow-spotted Rock Hyrax",
-33
-],
-[
-"Silky sifaka",
-33
-],
-[
-"Silky Sifaka",
-33
-],
-[
-"Silky Simpona",
-33
-],
-[
-"Eastern Avahi",
-33
-],
-[
-"Eastern woolly lemur",
-33
-],
-[
-"Eastern Woolly Lemur",
-33
-],
-[
-"Gmelin's Woolly Lemur",
-33
-],
-[
-"Gmelin’s Woolly Lemur",
-33
-],
-[
-"Woolly Indris",
-33
-],
-[
-"Bunyoro Rabbit",
-33
-],
-[
-"Central African Rabbit",
-33
-],
-[
-"Chinese Pinyin",
-33
-],
-[
-"Hainan Hare",
-33
-],
-[
-"Brush Rabbit",
-33
-],
-[
-"Riparian Brush Rabbit",
-33
-],
-[
-"spectral tarsier",
-33
-],
-[
-"Sulawesi tarsier",
-33
-],
-[
-"Brazilian Agouti",
-33
-],
-[
-"Red-rumped Agouti",
 33
 ],
 [
@@ -12236,63 +11828,27 @@
 33
 ],
 [
-"North African Gundi",
-33
-],
-[
 "Gundi",
 33
 ],
 [
-"Asiatic Brush-tailed Porcupine",
+"North African Gundi",
 33
 ],
 [
-"Madame Berthe’s mouse lemur",
+"Red Colobus",
 33
 ],
 [
-"Madame Berthe’s Mouse Lemur",
+"Black-faced lion tamarin",
 33
 ],
 [
-"Berthe's Mouse Lemur",
+"Black-faced Lion Tamarin",
 33
 ],
 [
-"Berthe’s Mouse Lemur",
-33
-],
-[
-"Madame Berthe's Mouse Lemur",
-33
-],
-[
-"Vancouver Island marmot",
-33
-],
-[
-"Vancouver Island Marmot",
-33
-],
-[
-"Vancouver Marmot",
-33
-],
-[
-"Menzbier's Marmot",
-33
-],
-[
-"Menzbier’s Marmot",
-33
-],
-[
-"Abert's Squirrel",
-33
-],
-[
-"Abert’s Squirrel",
+"Superagui Lion Tamarin",
 33
 ],
 [
@@ -12316,239 +11872,19 @@
 33
 ],
 [
-"Red-bellied lemur",
+"Fisherman Bat",
 33
 ],
 [
-"Red-bellied Lemur",
+"Greater bulldog bat",
 33
 ],
 [
-"Audebert's Brown Lemur",
+"Greater Bulldog Bat",
 33
 ],
 [
-"Audebert’s Brown Lemur",
-33
-],
-[
-"Red Brown Lemur",
-33
-],
-[
-"Red-fronted brown lemur",
-33
-],
-[
-"Red-fronted Lemur",
-33
-],
-[
-"Red-fronted Brown Lemur",
-33
-],
-[
-"Red Colobus",
-33
-],
-[
-"Black lion tamarin",
-33
-],
-[
-"Black Lion Tamarin",
-33
-],
-[
-"Golden Rump Lion Tamarin",
-33
-],
-[
-"Golden-rumped Lion Tamarin",
-33
-],
-[
-"Black-faced lion tamarin",
-33
-],
-[
-"Black-faced Lion Tamarin",
-33
-],
-[
-"Superagui Lion Tamarin",
-33
-],
-[
-"Northern muriqui",
-33
-],
-[
-"Northern Muriqui",
-33
-],
-[
-"Northern Woolly Spider Monkey",
-33
-],
-[
-"Sunda porcupine",
-33
-],
-[
-"Sunda Porcupine",
-33
-],
-[
-"Fat-tailed Gerbil",
-33
-],
-[
-"Fat-tailed gerbil",
-33
-],
-[
-"Fat-tailed Jird",
-33
-],
-[
-"Hairy-eared dwarf lemur",
-33
-],
-[
-"Hairy-eared Dwarf Lemur",
-33
-],
-[
-"Small Five-toed Jerboa",
-33
-],
-[
-"Arunachal Macaque",
-33
-],
-[
-"Roloway Guenon",
-33
-],
-[
-"Roloway Monkey",
-33
-],
-[
-"Angolan Talapoin",
-33
-],
-[
-"Southern Talapoin Monkey",
-33
-],
-[
-"Talapoin",
-33
-],
-[
-"Hoolock Gibbon",
-33
-],
-[
-"Western Hoolock",
-33
-],
-[
-"Western hoolock gibbon",
-33
-],
-[
-"Western Hoolock Gibbon",
-33
-],
-[
-"Jentink's Duiker",
-33
-],
-[
-"Jentink’s duiker",
-33
-],
-[
-"Jentink’s Duiker",
-33
-],
-[
-"Black Duiker",
-33
-],
-[
-"King Colobus",
-33
-],
-[
-"Ursine Black-and-white Colobus",
-33
-],
-[
-"Ursine Black-and-White Colobus",
-33
-],
-[
-"Western Black-and-white Colobus",
-33
-],
-[
-"Western Black-and-White Colobus",
-33
-],
-[
-"Western Pied Colobus",
-33
-],
-[
-"Tonkin snub-nosed monkey",
-33
-],
-[
-"Tonkin Snub-nosed Monkey",
-33
-],
-[
-"gray-cheeked mangabey",
-33
-],
-[
-"Gray-cheeked Mangabey",
-33
-],
-[
-"Grey-cheeked crested mangabey",
-33
-],
-[
-"Grey-cheeked Mangabey",
-33
-],
-[
-"White-cheeked Mangabey",
-33
-],
-[
-"Golden-bellied Mentawai Island Langur",
-33
-],
-[
-"Long-tailed Langur",
-33
-],
-[
-"Mentawai langur",
-33
-],
-[
-"Mentawai Langur",
-33
-],
-[
-"Mentawai Leaf Monkey",
+"Greater Bulldog Bat.",
 33
 ],
 [
@@ -12565,6 +11901,106 @@
 ],
 [
 "Western Red Colobus",
+33
+],
+[
+"Sunda porcupine",
+33
+],
+[
+"Sunda Porcupine",
+33
+],
+[
+"Hector's Beaked Whale",
+33
+],
+[
+"Hector’s Beaked Whale",
+33
+],
+[
+"Skew-beaked Whale",
+33
+],
+[
+"Italian Wolf",
+33
+],
+[
+"Small-clawed otter",
+33
+],
+[
+"Cape Gray Mongoose",
+33
+],
+[
+"Cape Grey Mongoose",
+33
+],
+[
+"Small Grey Mongoose",
+33
+],
+[
+"scimitar cat",
+33
+],
+[
+"scimitar-toothed cat",
+33
+],
+[
+"Golden-rumped elephant-shrew",
+33
+],
+[
+"Golden-rumped Elephant-shrew",
+33
+],
+[
+"Golden-rumped Elephant Shrew",
+33
+],
+[
+"Golden-rumped Sengi",
+33
+],
+[
+"Chinese Pinyin",
+33
+],
+[
+"Hainan Hare",
+33
+],
+[
+"Black-footed Mogoose",
+33
+],
+[
+"Black-footed Mongoose",
+33
+],
+[
+"Black-legged Mongoose",
+33
+],
+[
+"Brush Rabbit",
+33
+],
+[
+"Riparian Brush Rabbit",
+33
+],
+[
+"Indochinese leopard",
+33
+],
+[
+"South-Chinese leopard",
 33
 ],
 [
@@ -12596,6 +12032,42 @@
 33
 ],
 [
+"Menzbier's Marmot",
+33
+],
+[
+"Menzbier’s Marmot",
+33
+],
+[
+"African Tropical Savannah Mongoose",
+33
+],
+[
+"Pousargues's mongoose",
+33
+],
+[
+"Pousargues's Mongoose",
+33
+],
+[
+"Pousargues’s Mongoose",
+33
+],
+[
+"Savanna Mongoose",
+33
+],
+[
+"Chacoan naked-tailed armadillo",
+33
+],
+[
+"Chacoan Naked-tailed Armadillo",
+33
+],
+[
 "Indian Gerbil",
 33
 ],
@@ -12604,7 +12076,559 @@
 33
 ],
 [
-"Speke's Gazelle",
+"Asian Barbastelle",
+33
+],
+[
+"Eastern Barbastelle",
+33
+],
+[
+"Doria’s tree kangaroo",
+33
+],
+[
+"Doria's Tree Kangaroo",
+33
+],
+[
+"Doria’s Tree Kangaroo",
+33
+],
+[
+"Unicolored Tree Kangaroo",
+33
+],
+[
+"Bokiboky",
+33
+],
+[
+"Malagasy narrow-striped mongoose",
+33
+],
+[
+"Malagasy Narrow-striped Mongoose",
+33
+],
+[
+"Narrow-striped Mongoose",
+33
+],
+[
+"Bush hyrax",
+33
+],
+[
+"Bush Hyrax",
+33
+],
+[
+"Hoggar Hyrax",
+33
+],
+[
+"Yellow-spotted Hyrax",
+33
+],
+[
+"Yellow-spotted Rock Hyrax",
+33
+],
+[
+"Tonkin snub-nosed monkey",
+33
+],
+[
+"Tonkin Snub-nosed Monkey",
+33
+],
+[
+"Chuditch",
+33
+],
+[
+"Western Quoll",
+33
+],
+[
+"Ruddy Mongoose",
+33
+],
+[
+"Bonneted Langur",
+33
+],
+[
+"Capped langur",
+33
+],
+[
+"Capped Langur",
+33
+],
+[
+"Capped Leaf-monkey",
+33
+],
+[
+"Capped Leaf Monkey",
+33
+],
+[
+"Capped Monkey",
+33
+],
+[
+"Striped Possum",
+33
+],
+[
+"mouse opossum",
+33
+],
+[
+"Alpine musk deer",
+33
+],
+[
+"Alpine Musk Deer",
+33
+],
+[
+"Black lion tamarin",
+33
+],
+[
+"Black Lion Tamarin",
+33
+],
+[
+"Golden-rumped Lion Tamarin",
+33
+],
+[
+"Golden Rump Lion Tamarin",
+33
+],
+[
+"Pig-footed Bandicoot",
+33
+],
+[
+"Pig-footed bandicoots",
+33
+],
+[
+"Southern Pig-footed Bandicoot",
+33
+],
+[
+"Asiatic Brush-tailed Porcupine",
+33
+],
+[
+"Eastern Avahi",
+33
+],
+[
+"Eastern woolly lemur",
+33
+],
+[
+"Eastern Woolly Lemur",
+33
+],
+[
+"Gmelin's Woolly Lemur",
+33
+],
+[
+"Gmelin’s Woolly Lemur",
+33
+],
+[
+"Woolly Indris",
+33
+],
+[
+"Small Five-toed Jerboa",
+33
+],
+[
+"Northern Treeshrew",
+33
+],
+[
+"Northern Tree Shrew",
+33
+],
+[
+"Molina's Hog-nosed Skunk",
+33
+],
+[
+"Molina’s Hog-nosed Skunk",
+33
+],
+[
+"Audebert's Brown Lemur",
+33
+],
+[
+"Audebert’s Brown Lemur",
+33
+],
+[
+"Red Brown Lemur",
+33
+],
+[
+"Red-fronted brown lemur",
+33
+],
+[
+"Red-fronted Brown Lemur",
+33
+],
+[
+"Red-fronted Lemur",
+33
+],
+[
+"Bridled Nail-tailed Wallaby",
+33
+],
+[
+"Bridled nailtail wallaby",
+33
+],
+[
+"Bridled Nail-tail Wallaby",
+33
+],
+[
+"Bridled Nailtail Wallaby",
+33
+],
+[
+"Bridled Wallaby",
+33
+],
+[
+"Merrin",
+33
+],
+[
+"Francois’s langur",
+33
+],
+[
+"Francois's Langur",
+33
+],
+[
+"François’s Langur",
+33
+],
+[
+"François's Leaf Monkey",
+33
+],
+[
+"François’s Leaf Monkey",
+33
+],
+[
+"Tonkin Langur,",
+33
+],
+[
+"Tonkin Leaf Monkey",
+33
+],
+[
+"Northern muriqui",
+33
+],
+[
+"Northern Muriqui",
+33
+],
+[
+"Northern Woolly Spider Monkey",
+33
+],
+[
+"Hoolock Gibbon",
+33
+],
+[
+"Western Hoolock",
+33
+],
+[
+"Western hoolock gibbon",
+33
+],
+[
+"Western Hoolock Gibbon",
+33
+],
+[
+"Giant Muntjac",
+33
+],
+[
+"Large-antlered Muntjac",
+33
+],
+[
+"Eastern Tree Dassie",
+33
+],
+[
+"Eastern Tree Hyrax",
+33
+],
+[
+"Southern Tree Dassie",
+33
+],
+[
+"Southern tree hyrax",
+33
+],
+[
+"Southern Tree Hyrax",
+33
+],
+[
+"Japanese weasel",
+33
+],
+[
+"Japanese Weasel",
+33
+],
+[
+"Golden-bellied Mentawai Island Langur",
+33
+],
+[
+"Long-tailed Langur",
+33
+],
+[
+"Mentawai langur",
+33
+],
+[
+"Mentawai Langur",
+33
+],
+[
+"Mentawai Leaf Monkey",
+33
+],
+[
+"Roloway Guenon",
+33
+],
+[
+"Roloway Monkey",
+33
+],
+[
+"gray-cheeked mangabey",
+33
+],
+[
+"Gray-cheeked Mangabey",
+33
+],
+[
+"Grey-cheeked crested mangabey",
+33
+],
+[
+"Grey-cheeked Mangabey",
+33
+],
+[
+"White-cheeked Mangabey",
+33
+],
+[
+"Bunyoro Rabbit",
+33
+],
+[
+"Central African Rabbit",
+33
+],
+[
+"Greater Glider",
+33
+],
+[
+"Greater Gliding Possum",
+33
+],
+[
+"Angolan Talapoin",
+33
+],
+[
+"Southern Talapoin Monkey",
+33
+],
+[
+"Talapoin",
+33
+],
+[
+"Brazilian Porcupine",
+33
+],
+[
+"Phayre’s langur",
+33
+],
+[
+"Phayre's Langur",
+33
+],
+[
+"Phayre’s Leaf-monkey",
+33
+],
+[
+"Phayre's Leaf Monkey",
+33
+],
+[
+"Phayre’s Leaf Monkey",
+33
+],
+[
+"Phayre’s Spectacled Leaf Monkey",
+33
+],
+[
+"Arunachal Macaque",
+33
+],
+[
+"Vancouver Island marmot",
+33
+],
+[
+"Vancouver Island Marmot",
+33
+],
+[
+"Vancouver Marmot",
+33
+],
+[
+"Silky sifaka",
+33
+],
+[
+"Silky Sifaka",
+33
+],
+[
+"Silky Simpona",
+33
+],
+[
+"Brazilian Agouti",
+33
+],
+[
+"Red-rumped Agouti",
+33
+],
+[
+"Black Duiker",
+33
+],
+[
+"Brown-tailed mongoose",
+33
+],
+[
+"Brown-tailed Mongoose",
+33
+],
+[
+"Brown-tailed Vontsira",
+33
+],
+[
+"Malagasy Brown-tailed Mongoose",
+33
+],
+[
+"Salano",
+33
+],
+[
+"Fat-tailed gerbil",
+33
+],
+[
+"Fat-tailed Gerbil",
+33
+],
+[
+"Fat-tailed Jird",
+33
+],
+[
+"Broom's Pygmy-possum",
+33
+],
+[
+"Burramys",
+33
+],
+[
+"Mountain pygmy-possum",
+33
+],
+[
+"Mountain Pygmy Possum",
+33
+],
+[
+"Berthe's Mouse Lemur",
+33
+],
+[
+"Berthe’s Mouse Lemur",
+33
+],
+[
+"Madame Berthe’s mouse lemur",
+33
+],
+[
+"Madame Berthe's Mouse Lemur",
+33
+],
+[
+"Madame Berthe’s Mouse Lemur",
+33
+],
+[
+"Red-bellied lemur",
+33
+],
+[
+"Red-bellied Lemur",
 33
 ],
 [
@@ -12612,7 +12636,59 @@
 33
 ],
 [
+"Speke's Gazelle",
+33
+],
+[
 "Speke’s Gazelle",
+33
+],
+[
+"spectral tarsier",
+33
+],
+[
+"Sulawesi tarsier",
+33
+],
+[
+"Hairy-eared dwarf lemur",
+33
+],
+[
+"Hairy-eared Dwarf Lemur",
+33
+],
+[
+"Jentink’s duiker",
+33
+],
+[
+"Jentink's Duiker",
+33
+],
+[
+"Jentink’s Duiker",
+33
+],
+[
+"Javan Ferret-badger",
+33
+],
+[
+"Javan Ferret Badger",
+33
+],
+[
+"Palawan stink badger",
+33
+],
+[
+"Palawan Stink-badger",
+33
+],
+[
+"Palawan Stink Badger",
 33
 ],
 [
@@ -12632,14 +12708,6 @@
 33
 ],
 [
-"Giant Muntjac",
-33
-],
-[
-"Large-antlered Muntjac",
-33
-],
-[
 "Philippine brown deer",
 33
 ],
@@ -12652,103 +12720,27 @@
 33
 ],
 [
-"Brazilian Porcupine",
+"King Colobus",
 33
 ],
 [
-"Bonneted Langur",
+"Ursine Black-and-white Colobus",
 33
 ],
 [
-"Capped langur",
+"Ursine Black-and-White Colobus",
 33
 ],
 [
-"Capped Leaf Monkey",
+"Western Black-and-white Colobus",
 33
 ],
 [
-"Capped Leaf-monkey",
+"Western Black-and-White Colobus",
 33
 ],
 [
-"Capped Monkey",
-33
-],
-[
-"Francois's Langur",
-33
-],
-[
-"François's Leaf Monkey",
-33
-],
-[
-"Francois’s langur",
-33
-],
-[
-"François’s Langur",
-33
-],
-[
-"François’s Leaf Monkey",
-33
-],
-[
-"Tonkin Langur,",
-33
-],
-[
-"Tonkin Leaf Monkey",
-33
-],
-[
-"Capped Langur",
-33
-],
-[
-"Phayre's Langur",
-33
-],
-[
-"Phayre's Leaf Monkey",
-33
-],
-[
-"Phayre’s langur",
-33
-],
-[
-"Phayre’s Leaf Monkey",
-33
-],
-[
-"Phayre’s Leaf-monkey",
-33
-],
-[
-"Phayre’s Spectacled Leaf Monkey",
-33
-],
-[
-"Hector's Beaked Whale",
-33
-],
-[
-"Hector’s Beaked Whale",
-33
-],
-[
-"Skew-beaked Whale",
-33
-],
-[
-"Alpine musk deer",
-33
-],
-[
-"Alpine Musk Deer",
+"Western Pied Colobus",
 33
 ],
 [
@@ -12760,23 +12752,55 @@
 33
 ],
 [
-"Spotted Skunks",
+"Abert's Squirrel",
+33
+],
+[
+"Abert’s Squirrel",
+33
+],
+[
+"Comoro Black Flying Fox",
 32
 ],
 [
-"Greater Short-nosed Fruit Bat",
+"Comoro Flying Fox",
 32
 ],
 [
-"Greater Shortnosed Fruit Bat",
+"Livingstone’s flying fox",
 32
 ],
 [
-"Short-nosed Fruit Bat",
+"Livingstone's Flying Fox",
 32
 ],
 [
-"Short-nosed Indian Fruit Bat",
+"Livingstone’s Flying Fox",
+32
+],
+[
+"Livingstone's Fruit Bat",
+32
+],
+[
+"Livingstone’s Fruit Bat",
+32
+],
+[
+"Hooded skunk",
+32
+],
+[
+"Hooded Skunk",
+32
+],
+[
+"Iberian Wolf",
+32
+],
+[
+"Giant Flying Squirrels",
 32
 ],
 [
@@ -12800,51 +12824,11 @@
 32
 ],
 [
-"Brazilian free-tailed bat",
-32
-],
-[
-"Brazilian Free-tailed Bat",
-32
-],
-[
-"Mexican Free-tailed Bat",
-32
-],
-[
-"Comoro Black Flying Fox",
-32
-],
-[
-"Comoro Flying Fox",
-32
-],
-[
-"Livingstone's Flying Fox",
-32
-],
-[
-"Livingstone's Fruit Bat",
-32
-],
-[
-"Livingstone’s flying fox",
-32
-],
-[
-"Livingstone’s Flying Fox",
-32
-],
-[
-"Livingstone’s Fruit Bat",
+"Karoo Round-eared Elephant-shrew",
 32
 ],
 [
 "Karoo Round-eared Elephant Shrew",
-32
-],
-[
-"Karoo Round-eared Elephant-shrew",
 32
 ],
 [
@@ -12860,83 +12844,39 @@
 32
 ],
 [
-"Angolan Genet",
+"Northern Pika",
 32
 ],
 [
-"Blotched Genet",
+"Dusky Langur",
 32
 ],
 [
-"Aquatic Genet",
+"Dusky leaf monkey",
 32
 ],
 [
-"Central African Large-spotted Genet",
+"Dusky Leaf Monkey",
 32
 ],
 [
-"Johnston's Genet",
+"Spectacled Langur",
 32
 ],
 [
-"Johnston’s Genet",
+"Spectacled Leaf Monkey",
 32
 ],
 [
-"Large-spotted Genet",
+"Spotted Skunks",
 32
 ],
 [
-"Miombo Genet",
+"Deer Mice",
 32
 ],
 [
-"Panther Genet",
-32
-],
-[
-"Rusty-spotted Genet",
-32
-],
-[
-"Long-fingered bat",
-32
-],
-[
-"Long-fingered Bat",
-32
-],
-[
-"Long-fingered Myotis",
-32
-],
-[
-"White-eared Opossum",
-32
-],
-[
-"Brandt's Hedgehog",
-32
-],
-[
-"Brandt’s hedgehog",
-32
-],
-[
-"Brandt’s Hedgehog",
-32
-],
-[
-"Collared Mongoose",
-32
-],
-[
-"Hooded skunk",
-32
-],
-[
-"Hooded Skunk",
+"Afghan Pika",
 32
 ],
 [
@@ -12948,127 +12888,19 @@
 32
 ],
 [
-"Desert Dwarf Mongoose",
+"Greater Short-nosed Fruit Bat",
 32
 ],
 [
-"Ethiopian Dwarf Mongoose",
+"Greater Shortnosed Fruit Bat",
 32
 ],
 [
-"Somali dwarf mongoose",
+"Short-nosed Fruit Bat",
 32
 ],
 [
-"Somali Dwarf Mongoose",
-32
-],
-[
-"Bornean Ferret Badger",
-32
-],
-[
-"Bornean Ferret-badger",
-32
-],
-[
-"Everett's Ferret Badger",
-32
-],
-[
-"Everett’s Ferret-badger",
-32
-],
-[
-"Kinabalu Ferret Badger",
-32
-],
-[
-"Kinabalu ferret-badger",
-32
-],
-[
-"Kinabalu Ferret-badger",
-32
-],
-[
-"Allen’s Olingo",
-32
-],
-[
-"Eastern Lowland Olingo",
-32
-],
-[
-"Iberian Wolf",
-32
-],
-[
-"Northern Naked-tailed Armadillo",
-32
-],
-[
-"Golden-crowned sifaka",
-32
-],
-[
-"Golden-crowned Sifaka",
-32
-],
-[
-"Tattersall's Sifaka",
-32
-],
-[
-"Tattersall’s Sifaka",
-32
-],
-[
-"ground squirrel",
-32
-],
-[
-"American pika",
-32
-],
-[
-"American Pika",
-32
-],
-[
-"Little Chief Hare",
-32
-],
-[
-"Rock Rabbit",
-32
-],
-[
-"Whistling Hare",
-32
-],
-[
-"Northern Pika",
-32
-],
-[
-"Cony",
-32
-],
-[
-"Ladak Pika",
-32
-],
-[
-"Black Jackrabbit",
-32
-],
-[
-"Espiritu Santo Jackrabbit",
-32
-],
-[
-"Afghan Pika",
+"Short-nosed Indian Fruit Bat",
 32
 ],
 [
@@ -13081,106 +12913,6 @@
 ],
 [
 "Plateau Pika",
-32
-],
-[
-"Tapeti",
-32
-],
-[
-"Forest Rabbit",
-32
-],
-[
-"Giant Flying Squirrels",
-32
-],
-[
-"paca",
-32
-],
-[
-"lowland paca",
-32
-],
-[
-"Lowland paca",
-32
-],
-[
-"Lowland Paca",
-32
-],
-[
-"Spotted Paca",
-32
-],
-[
-"Deer Mice",
-32
-],
-[
-"Pallas's Squirrel",
-32
-],
-[
-"Pallas’s Squirrel",
-32
-],
-[
-"Common Palm Squirrel",
-32
-],
-[
-"Indian Palm Squirrel",
-32
-],
-[
-"Three-striped Palm Squirrel",
-32
-],
-[
-"Long-tailed Porcupine",
-32
-],
-[
-"Peters’ Mouse Lemur",
-32
-],
-[
-"Pygmy Mouse Lemur",
-32
-],
-[
-"Western Rufous Mouse Lemur",
-32
-],
-[
-"Black-capped Marmot",
-32
-],
-[
-"Hoary Marmot",
-32
-],
-[
-"Montague Island Hoary Marmot",
-32
-],
-[
-"Brazilian guinea pig",
-32
-],
-[
-"Brazilian Guinea Pig",
-32
-],
-[
-"Brandt's Hamster",
-32
-],
-[
-"Brandt’s Hamster",
 32
 ],
 [
@@ -13200,51 +12932,31 @@
 32
 ],
 [
-"Collared brown lemur",
+"Greater Ricefield Rat",
 32
 ],
 [
-"Collared Brown Lemur",
+"Rice-field Rat",
 32
 ],
 [
-"Red-collared Lemur",
+"Ricefield Rat",
 32
 ],
 [
-"Steppe Lemming",
+"Black Jackrabbit",
 32
 ],
 [
-"STEPPE LEMMING",
+"Espiritu Santo Jackrabbit",
 32
 ],
 [
-"Steppe Vole",
+"Libyan jird",
 32
 ],
 [
-"STEPPE VOLE",
-32
-],
-[
-"Chacoan Mara",
-32
-],
-[
-"Conejo Del Palo",
-32
-],
-[
-"Dwarf Mara",
-32
-],
-[
-"Dwarf Patagonian Cavy",
-32
-],
-[
-"Dwarf Patagonian Hare",
+"Libyan Jird",
 32
 ],
 [
@@ -13268,35 +12980,11 @@
 32
 ],
 [
-"Libyan jird",
+"Great Jerboa",
 32
 ],
 [
-"Libyan Jird",
-32
-],
-[
-"Lesser Egyptian jerboa",
-32
-],
-[
-"Lesser Egyptian Jerboa",
-32
-],
-[
-"Long-eared Jerboa",
-32
-],
-[
-"Bay Bamboo Rat",
-32
-],
-[
-"Wood Lemming",
-32
-],
-[
-"Lesser Bamboo Rat",
+"Northern Naked-tailed Armadillo",
 32
 ],
 [
@@ -13308,91 +12996,39 @@
 32
 ],
 [
-"Greater Ricefield Rat",
+"North Sulawesi Babirusa",
 32
 ],
 [
-"Rice-field Rat",
+"Sulawesi babirusa",
 32
 ],
 [
-"Ricefield Rat",
+"Sulawesi Babirusa",
 32
 ],
 [
-"Celebes macaque",
+"White-eared Opossum",
 32
 ],
 [
-"Moor Macaque",
+"Chacoan Mara",
 32
 ],
 [
-"Crowned Guenon",
+"Conejo Del Palo",
 32
 ],
 [
-"Crested Mona Monkey",
+"Dwarf Mara",
 32
 ],
 [
-"Crowned guenon",
+"Dwarf Patagonian Cavy",
 32
 ],
 [
-"Crowned Monkey",
-32
-],
-[
-"Golden-bellied Guenon",
-32
-],
-[
-"Golden-bellied Monkey",
-32
-],
-[
-"Wolf’s Monkey",
-32
-],
-[
-"Black-fronted duiker",
-32
-],
-[
-"Black-fronted Duiker",
-32
-],
-[
-"Broad-toothed Field Mouse",
-32
-],
-[
-"Eastern Broad-toothed Field Mouse",
-32
-],
-[
-"Green Monkey",
-32
-],
-[
-"Green monkey",
-32
-],
-[
-"Western Green Monkey",
-32
-],
-[
-"Chinese serow",
-32
-],
-[
-"Chinese Serow",
-32
-],
-[
-"Southwest China Serow",
+"Dwarf Patagonian Hare",
 32
 ],
 [
@@ -13401,38 +13037,6 @@
 ],
 [
 "Maxwell’s Duiker",
-32
-],
-[
-"Great Jerboa",
-32
-],
-[
-"Salt's dik-dik",
-32
-],
-[
-"Salt's Dik-dik",
-32
-],
-[
-"Salt's Dik-Dik",
-32
-],
-[
-"Salt's Dikdik",
-32
-],
-[
-"Dik-dik",
-32
-],
-[
-"Leaf Deer",
-32
-],
-[
-"Leaf Muntjac",
 32
 ],
 [
@@ -13456,55 +13060,23 @@
 32
 ],
 [
-"Eastern Ebony Leaf Monkey",
+"Peters’ Mouse Lemur",
 32
 ],
 [
-"Ebony Leaf Monkey",
+"Pygmy Mouse Lemur",
 32
 ],
 [
-"Javan langur",
+"Western Rufous Mouse Lemur",
 32
 ],
 [
-"Javan Langur",
+"Guiana Dolphin",
 32
 ],
 [
-"Javan Lutung",
-32
-],
-[
-"Spectacled Langur",
-32
-],
-[
-"Spectacled Leaf Monkey",
-32
-],
-[
-"Dusky Langur",
-32
-],
-[
-"Dusky leaf monkey",
-32
-],
-[
-"Dusky Leaf Monkey",
-32
-],
-[
-"North Sulawesi Babirusa",
-32
-],
-[
-"Sulawesi babirusa",
-32
-],
-[
-"Sulawesi Babirusa",
+"Collared Mongoose",
 32
 ],
 [
@@ -13528,15 +13100,299 @@
 32
 ],
 [
-"Guiana Dolphin",
+"Common Palm Squirrel",
 32
 ],
 [
-"Baird's Beaked Whale",
+"Indian Palm Squirrel",
+32
+],
+[
+"Three-striped Palm Squirrel",
+32
+],
+[
+"Desert Dwarf Mongoose",
+32
+],
+[
+"Ethiopian Dwarf Mongoose",
+32
+],
+[
+"Somali dwarf mongoose",
+32
+],
+[
+"Somali Dwarf Mongoose",
+32
+],
+[
+"Hoary Marmot",
+32
+],
+[
+"Montague Island Hoary Marmot",
+32
+],
+[
+"lowland paca",
+32
+],
+[
+"Lowland paca",
+32
+],
+[
+"Lowland Paca",
+32
+],
+[
+"paca",
+32
+],
+[
+"Spotted Paca",
+32
+],
+[
+"ground squirrel",
+32
+],
+[
+"Eastern Ebony Leaf Monkey",
+32
+],
+[
+"Ebony Leaf Monkey",
+32
+],
+[
+"Javan langur",
+32
+],
+[
+"Javan Langur",
+32
+],
+[
+"Javan Lutung",
+32
+],
+[
+"Blotched Genet",
+32
+],
+[
+"Central African Large-spotted Genet",
+32
+],
+[
+"Large-spotted Genet",
+32
+],
+[
+"Panther Genet",
+32
+],
+[
+"Rusty-spotted Genet",
+32
+],
+[
+"Johnston's Genet",
+32
+],
+[
+"Johnston’s Genet",
+32
+],
+[
+"Angolan Genet",
+32
+],
+[
+"Miombo Genet",
+32
+],
+[
+"Aquatic Genet",
+32
+],
+[
+"American pika",
+32
+],
+[
+"American Pika",
+32
+],
+[
+"Cony",
+32
+],
+[
+"Little Chief Hare",
+32
+],
+[
+"Rock Rabbit",
+32
+],
+[
+"Whistling Hare",
+32
+],
+[
+"Steppe Lemming",
+32
+],
+[
+"STEPPE LEMMING",
+32
+],
+[
+"Steppe Vole",
+32
+],
+[
+"STEPPE VOLE",
+32
+],
+[
+"Ladak Pika",
+32
+],
+[
+"Broad-toothed Field Mouse",
+32
+],
+[
+"Eastern Broad-toothed Field Mouse",
+32
+],
+[
+"Wood Lemming",
+32
+],
+[
+"Brazilian guinea pig",
+32
+],
+[
+"Brazilian Guinea Pig",
+32
+],
+[
+"Allen’s Olingo",
+32
+],
+[
+"Eastern Lowland Olingo",
+32
+],
+[
+"Bornean Ferret-badger",
+32
+],
+[
+"Bornean Ferret Badger",
+32
+],
+[
+"Everett’s Ferret-badger",
+32
+],
+[
+"Everett's Ferret Badger",
+32
+],
+[
+"Kinabalu ferret-badger",
+32
+],
+[
+"Kinabalu Ferret-badger",
+32
+],
+[
+"Kinabalu Ferret Badger",
+32
+],
+[
+"Crested Mona Monkey",
+32
+],
+[
+"Crowned guenon",
+32
+],
+[
+"Crowned Guenon",
+32
+],
+[
+"Crowned Monkey",
+32
+],
+[
+"Golden-bellied Guenon",
+32
+],
+[
+"Golden-bellied Monkey",
+32
+],
+[
+"Wolf’s Monkey",
+32
+],
+[
+"Black-capped Marmot",
+32
+],
+[
+"Bay Bamboo Rat",
+32
+],
+[
+"Lesser Bamboo Rat",
+32
+],
+[
+"Golden-crowned sifaka",
+32
+],
+[
+"Golden-crowned Sifaka",
+32
+],
+[
+"Tattersall's Sifaka",
+32
+],
+[
+"Tattersall’s Sifaka",
+32
+],
+[
+"Chinese serow",
+32
+],
+[
+"Chinese Serow",
+32
+],
+[
+"Southwest China Serow",
 32
 ],
 [
 "Baird’s beaked whale",
+32
+],
+[
+"Baird's Beaked Whale",
 32
 ],
 [
@@ -13548,15 +13404,63 @@
 32
 ],
 [
-"North Pacific Bottlenose Whale",
-32
-],
-[
 "Northern Four-toothed Whale",
 32
 ],
 [
+"North Pacific Bottlenose Whale",
+32
+],
+[
 "Pacific Giant Bottlenosed Whale",
+32
+],
+[
+"Brandt’s hedgehog",
+32
+],
+[
+"Brandt's Hedgehog",
+32
+],
+[
+"Brandt’s Hedgehog",
+32
+],
+[
+"Forest Rabbit",
+32
+],
+[
+"Tapeti",
+32
+],
+[
+"Green monkey",
+32
+],
+[
+"Green Monkey",
+32
+],
+[
+"Western Green Monkey",
+32
+],
+[
+"Pallas's Squirrel",
+32
+],
+[
+"Pallas’s Squirrel",
+32
+],
+[
+"Leaf Deer",
+32
+],
+[
+"Leaf Muntjac",
 32
 ],
 [
@@ -13572,415 +13476,107 @@
 32
 ],
 [
-"Sea Lion",
-31
+"Long-fingered bat",
+32
 ],
 [
-"African Straw-colored Fruit Bat",
-31
+"Long-fingered Bat",
+32
 ],
 [
-"African Straw-coloured Fruit-bat",
-31
+"Long-fingered Myotis",
+32
 ],
 [
-"Pale Xantharpy",
-31
+"Long-eared Jerboa",
+32
 ],
 [
-"Staw-coloured Flying Fox",
-31
+"Celebes macaque",
+32
 ],
 [
-"Straw-coloured fruit bat",
-31
+"Moor Macaque",
+32
 ],
 [
-"Straw-coloured Fruit Bat",
-31
+"Collared brown lemur",
+32
 ],
 [
-"Common Short-nosed Fruit Bat",
-31
+"Collared Brown Lemur",
+32
 ],
 [
-"Lesser Dog-faced Fruit Bat",
-31
+"Red-collared Lemur",
+32
 ],
 [
-"Lesser short-nosed fruit bat",
-31
+"Brazilian free-tailed bat",
+32
 ],
 [
-"Lesser Short-nosed Fruit Bat",
-31
+"Brazilian Free-tailed Bat",
+32
 ],
 [
-"Marianas flying fox",
-31
+"Mexican Free-tailed Bat",
+32
 ],
 [
-"Marianas Flying Fox",
-31
+"Lesser Egyptian jerboa",
+32
 ],
 [
-"Marianas Fruit Bat",
-31
+"Lesser Egyptian Jerboa",
+32
 ],
 [
-"Marianna Flying Fox",
-31
+"Dik-dik",
+32
 ],
 [
-"Micronesian Flying Fox",
-31
+"Salt's dik-dik",
+32
 ],
 [
-"Micronesian Flying-fox",
-31
+"Salt's Dik-dik",
+32
 ],
 [
-"Pagan Island Fruit Bat",
-31
+"Salt's Dikdik",
+32
 ],
 [
-"Ulithi Fruit Bat",
-31
+"Salt's Dik-Dik",
+32
 ],
 [
-"Little Brown Bat",
-31
+"Brandt's Hamster",
+32
 ],
 [
-"Little brown myotis",
-31
+"Brandt’s Hamster",
+32
 ],
 [
-"Little Brown Myotis",
-31
+"Black-fronted duiker",
+32
 ],
 [
-"South African Hedgehog",
-31
+"Black-fronted Duiker",
+32
 ],
 [
-"Southern African Hedgehog",
-31
-],
-[
-"Painted Bat",
-31
-],
-[
-"Painted Woolly Bat",
-31
-],
-[
-"Big-eared Opossum",
-31
-],
-[
-"Brazilian Common Opossum",
-31
-],
-[
-"Southern Spotted Skunk",
-31
-],
-[
-"Eastern barred bandicoot",
-31
-],
-[
-"Eastern Barred Bandicoot",
-31
-],
-[
-"Tasmanian Long-nosed Bandicoot",
-31
-],
-[
-"Blasius's Horseshoe Bat",
-31
-],
-[
-"Blasius’s Horseshoe Bat",
-31
-],
-[
-"Peak-saddle Horseshoe Bat",
-31
-],
-[
-"Peters's Horseshoe Bat",
-31
-],
-[
-"African linsang",
-31
-],
-[
-"African Linsang",
-31
-],
-[
-"Central African Linsang",
-31
-],
-[
-"Central African Oyan",
-31
-],
-[
-"Richardson's Linsang",
-31
-],
-[
-"Richardson’s Linsang",
-31
-],
-[
-"Desert Long-eared Bat",
-31
-],
-[
-"Hemprich's Long-eared Bat",
-31
-],
-[
-"Hemprich’s Desert Bat",
-31
-],
-[
-"Hemprich’s long-eared bat",
-31
-],
-[
-"Gambian Mongoose",
-31
-],
-[
-"Egyptian weasel",
-31
-],
-[
-"Egyptian Weasel",
-31
-],
-[
-"Northern quoll",
-31
-],
-[
-"Northern Quoll",
-31
-],
-[
-"Dusky pademelon",
-31
-],
-[
-"Dusky Pademelon",
-31
-],
-[
-"Dusky Wallaby",
-31
-],
-[
-"Fat-tailed Dunnart",
-31
-],
-[
-"Broad-striped Malagasy Mongoose",
-31
-],
-[
-"Broad-striped Mongoose",
-31
-],
-[
-"Broad-striped Vontsira",
-31
-],
-[
-"Malagasy Broad-striped Mongoose",
-31
-],
-[
-"Bare-tailed Woolly Opossum",
-31
-],
-[
-"Brown-eared Woolly Opossum",
-31
-],
-[
-"Western Woolly Opossum",
-31
-],
-[
-"Woolly Opossum",
-31
-],
-[
-"Bear cuscus",
-31
-],
-[
-"Bear Cuscus",
-31
-],
-[
-"Bear Phalanger",
-31
-],
-[
-"Sulawesi Bear Cuscus",
-31
-],
-[
-"Sulawesi Bear Phalanger",
-31
-],
-[
-"true foxes",
-31
-],
-[
-"Common Cuscuses",
-31
-],
-[
-"Mesonychid",
-31
-],
-[
-"Greater Naked-tailed Armadillo",
-31
-],
-[
-"Southern naked-tailed armadillo",
-31
-],
-[
-"Southern Naked-tailed Armadillo",
-31
-],
-[
-"Southern Naked-Tailed Armadillo",
-31
-],
-[
-"Red rock hare",
-31
-],
-[
-"Annamite Striped Rabbit",
-31
-],
-[
-"Burmeister's Armadillo",
-31
-],
-[
-"Burmeister’s Armadillo",
-31
-],
-[
-"Chacoan Fairy Armadillo",
-31
-],
-[
-"Greater Fairy Armadillo",
-31
-],
-[
-"Greater Pichi Ciego",
-31
-],
-[
-"Eastern American Mole",
-31
-],
-[
-"Eastern mole",
-31
-],
-[
-"Eastern Mole",
-31
+"Long-tailed Porcupine",
+32
 ],
 [
 "Palm Squirrels",
 31
 ],
 [
-"Ethiopian Hare",
-31
-],
-[
-"Alpine shrew",
-31
-],
-[
-"Alpine Shrew",
-31
-],
-[
-"Audubon's Cottontail",
-31
-],
-[
-"Audubon’s Cottontail",
-31
-],
-[
-"Desert Cottontail",
-31
-],
-[
-"Desert Cottontail Rabbit",
-31
-],
-[
-"Javan slow loris",
-31
-],
-[
-"Javan Slow Loris",
-31
-],
-[
-"Angwantibo",
-31
-],
-[
-"Golden Angwantibo",
-31
-],
-[
-"Golden Potto",
-31
-],
-[
-"Calabar Angwantibo",
-31
-],
-[
-"Golden potto",
-31
-],
-[
-"Five-striped palm squirrel",
-31
-],
-[
-"Five-striped Palm Squirrel",
-31
-],
-[
-"Northern Palm Squirrel",
+"Striped Dwarf Hamster",
 31
 ],
 [
@@ -13996,79 +13592,15 @@
 31
 ],
 [
-"Yellow Ground Squirrel",
-31
-],
-[
-"Red-bellied Tamarin",
-31
-],
-[
-"Red-chested Mustached Tamarin",
-31
-],
-[
-"White-lipped Tamarin",
-31
-],
-[
-"Romanian Hamster",
-31
-],
-[
-"Bramble Cay Melomys",
-31
-],
-[
-"Bramble Cay Mosaic-tailed Rat",
-31
-],
-[
-"Blue-eyed black lemur",
-31
-],
-[
-"Blue-eyed Black Lemur",
-31
-],
-[
-"Sclater's Black Lemur",
-31
-],
-[
-"Sclater’s Black Lemur",
-31
-],
-[
-"Sclater’s Lemur",
-31
-],
-[
-"Northern Red-backed Vole",
-31
-],
-[
-"Red Vole",
-31
-],
-[
-"RED VOLE",
-31
-],
-[
-"Particolored Flying Squirrel",
-31
-],
-[
-"Black Uakari",
-31
-],
-[
 "Black-headed Uacari",
 31
 ],
 [
 "Black-headed Uakari",
+31
+],
+[
+"Black Uakari",
 31
 ],
 [
@@ -14088,91 +13620,31 @@
 31
 ],
 [
-"Striped Dwarf Hamster",
+"Buffy-headed marmoset",
 31
 ],
 [
-"White-footed Deermouse",
+"Buffy-headed Marmoset",
 31
 ],
 [
-"White-footed Mouse",
+"Angwantibo",
 31
 ],
 [
-"Lesser Blind Mole Rat",
+"Calabar Angwantibo",
 31
 ],
 [
-"Lesser Mole Rat",
+"Golden Angwantibo",
 31
 ],
 [
-"Indian Mole-rat",
+"Golden potto",
 31
 ],
 [
-"Lesser Bandicoot Rat",
-31
-],
-[
-"Sind Rice Rat",
-31
-],
-[
-"Hairy-footed flying squirrel",
-31
-],
-[
-"Hairy-footed Flying Squirrel",
-31
-],
-[
-"Tonkean Black Macaque",
-31
-],
-[
-"Tonkean macaque",
-31
-],
-[
-"Tonkean Macaque",
-31
-],
-[
-"Lowe’s Monkey",
-31
-],
-[
-"Campbell's Guenon",
-31
-],
-[
-"Campbell’s Guenon",
-31
-],
-[
-"Campbell’s Mona Monkey",
-31
-],
-[
-"Campbell’s Monkey",
-31
-],
-[
-"Moustached guenon",
-31
-],
-[
-"Moustached Guenon",
-31
-],
-[
-"Moustached Monkey",
-31
-],
-[
-"Mustached Monkey",
+"Golden Potto",
 31
 ],
 [
@@ -14208,82 +13680,6 @@
 31
 ],
 [
-"Abbott’s duiker",
-31
-],
-[
-"Black colobus",
-31
-],
-[
-"Black Colobus",
-31
-],
-[
-"Geoffroy's Black-and-White Colobus",
-31
-],
-[
-"Geoffroy’s black-and-white colobus",
-31
-],
-[
-"Geoffroy’s Black-and-white Colobus",
-31
-],
-[
-"Ursine Colobus",
-31
-],
-[
-"White-thighed Black-and-white Colobus",
-31
-],
-[
-"White-thighed Black-and-White Colobus",
-31
-],
-[
-"White-thighed Colobus",
-31
-],
-[
-"Bolivian squirrel monkey",
-31
-],
-[
-"Buffy-headed marmoset",
-31
-],
-[
-"Buffy-headed Marmoset",
-31
-],
-[
-"Geoffroy's Marmoset",
-31
-],
-[
-"Geoffroy’s marmoset",
-31
-],
-[
-"Geoffroy’s Tufted-ear Marmoset",
-31
-],
-[
-"White-faced Marmoset",
-31
-],
-[
-"White-fronted Marmoset",
-31
-],
-[
-"White-headed Marmoset",
-31
-],
-[
 "Black Snub-nosed Monkey",
 31
 ],
@@ -14296,15 +13692,35 @@
 31
 ],
 [
-"Tana River Crested Mangabey",
+"Aders' Duiker",
 31
 ],
 [
-"Tana River mangabey",
+"Mesonychid",
 31
 ],
 [
-"Tana River Mangabey",
+"Eastern American Mole",
+31
+],
+[
+"Eastern mole",
+31
+],
+[
+"Eastern Mole",
+31
+],
+[
+"Sea Lion",
+31
+],
+[
+"Hairy-footed flying squirrel",
+31
+],
+[
+"Hairy-footed Flying Squirrel",
 31
 ],
 [
@@ -14316,11 +13732,99 @@
 31
 ],
 [
-"East European Vole",
+"Common Cuscuses",
 31
 ],
 [
-"Sibling Vole",
+"South African Hedgehog",
+31
+],
+[
+"Southern African Hedgehog",
+31
+],
+[
+"Romanian Hamster",
+31
+],
+[
+"Gambian Mongoose",
+31
+],
+[
+"Southern Spotted Skunk",
+31
+],
+[
+"Desert Long-eared Bat",
+31
+],
+[
+"Hemprich’s Desert Bat",
+31
+],
+[
+"Hemprich’s long-eared bat",
+31
+],
+[
+"Hemprich's Long-eared Bat",
+31
+],
+[
+"Bramble Cay Melomys",
+31
+],
+[
+"Bramble Cay Mosaic-tailed Rat",
+31
+],
+[
+"Greater Naked-tailed Armadillo",
+31
+],
+[
+"Five-striped palm squirrel",
+31
+],
+[
+"Five-striped Palm Squirrel",
+31
+],
+[
+"Northern Palm Squirrel",
+31
+],
+[
+"Marianas flying fox",
+31
+],
+[
+"Marianas Flying Fox",
+31
+],
+[
+"Marianas Fruit Bat",
+31
+],
+[
+"Marianna Flying Fox",
+31
+],
+[
+"Micronesian Flying-fox",
+31
+],
+[
+"Micronesian Flying Fox",
+31
+],
+[
+"Pagan Island Fruit Bat",
+31
+],
+[
+"Ulithi Fruit Bat",
 31
 ],
 [
@@ -14328,35 +13832,99 @@
 31
 ],
 [
-"Aders' Duiker",
+"Yellow Ground Squirrel",
 31
 ],
 [
-"Red Gazelle",
+"Southern naked-tailed armadillo",
+31
+],
+[
+"Southern Naked-tailed Armadillo",
+31
+],
+[
+"Southern Naked-Tailed Armadillo",
+31
+],
+[
+"Common Short-nosed Fruit Bat",
+31
+],
+[
+"Lesser Dog-faced Fruit Bat",
+31
+],
+[
+"Lesser short-nosed fruit bat",
+31
+],
+[
+"Lesser Short-nosed Fruit Bat",
+31
+],
+[
+"African linsang",
+31
+],
+[
+"African Linsang",
+31
+],
+[
+"Central African Linsang",
+31
+],
+[
+"Central African Oyan",
+31
+],
+[
+"Richardson's Linsang",
+31
+],
+[
+"Richardson’s Linsang",
+31
+],
+[
+"Big-eared Opossum",
+31
+],
+[
+"Brazilian Common Opossum",
+31
+],
+[
+"Northern quoll",
+31
+],
+[
+"Northern Quoll",
+31
+],
+[
+"Bare-tailed Woolly Opossum",
+31
+],
+[
+"Fat-tailed Dunnart",
+31
+],
+[
+"Brown-eared Woolly Opossum",
+31
+],
+[
+"Western Woolly Opossum",
+31
+],
+[
+"Woolly Opossum",
 31
 ],
 [
 "Dwarf Red Brocket",
-31
-],
-[
-"Chunyi",
-31
-],
-[
-"Dwarf brocket",
-31
-],
-[
-"Dwarf Brocket",
-31
-],
-[
-"Peruvian Dwarf Brocket",
-31
-],
-[
-"Peruvian Dwarf Brocket Deer",
 31
 ],
 [
@@ -14392,11 +13960,319 @@
 31
 ],
 [
-"Mound-building Mouse",
+"Dusky pademelon",
 31
 ],
 [
-"Steppe Mouse",
+"Dusky Pademelon",
+31
+],
+[
+"Dusky Wallaby",
+31
+],
+[
+"Bear cuscus",
+31
+],
+[
+"Bear Cuscus",
+31
+],
+[
+"Bear Phalanger",
+31
+],
+[
+"Sulawesi Bear Cuscus",
+31
+],
+[
+"Sulawesi Bear Phalanger",
+31
+],
+[
+"Kashmir muskdeer",
+31
+],
+[
+"Kashmir Musk-deer",
+31
+],
+[
+"Kashmir Muskdeer",
+31
+],
+[
+"Kashmir Musk Deer",
+31
+],
+[
+"Chunyi",
+31
+],
+[
+"Dwarf brocket",
+31
+],
+[
+"Dwarf Brocket",
+31
+],
+[
+"Peruvian Dwarf Brocket",
+31
+],
+[
+"Peruvian Dwarf Brocket Deer",
+31
+],
+[
+"Egyptian weasel",
+31
+],
+[
+"Egyptian Weasel",
+31
+],
+[
+"Ethiopian Hare",
+31
+],
+[
+"true foxes",
+31
+],
+[
+"Campbell's Guenon",
+31
+],
+[
+"Campbell’s Guenon",
+31
+],
+[
+"Campbell’s Mona Monkey",
+31
+],
+[
+"Campbell’s Monkey",
+31
+],
+[
+"Lowe’s Monkey",
+31
+],
+[
+"African Straw-colored Fruit Bat",
+31
+],
+[
+"African Straw-coloured Fruit-bat",
+31
+],
+[
+"Pale Xantharpy",
+31
+],
+[
+"Staw-coloured Flying Fox",
+31
+],
+[
+"Straw-coloured fruit bat",
+31
+],
+[
+"Straw-coloured Fruit Bat",
+31
+],
+[
+"Black colobus",
+31
+],
+[
+"Black Colobus",
+31
+],
+[
+"Geoffroy’s black-and-white colobus",
+31
+],
+[
+"Geoffroy’s Black-and-white Colobus",
+31
+],
+[
+"Geoffroy's Black-and-White Colobus",
+31
+],
+[
+"Ursine Colobus",
+31
+],
+[
+"White-thighed Black-and-white Colobus",
+31
+],
+[
+"White-thighed Black-and-White Colobus",
+31
+],
+[
+"White-thighed Colobus",
+31
+],
+[
+"Tana River Crested Mangabey",
+31
+],
+[
+"Tana River mangabey",
+31
+],
+[
+"Tana River Mangabey",
+31
+],
+[
+"Lesser Blind Mole Rat",
+31
+],
+[
+"Lesser Mole Rat",
+31
+],
+[
+"Annamite Striped Rabbit",
+31
+],
+[
+"Audubon's Cottontail",
+31
+],
+[
+"Audubon’s Cottontail",
+31
+],
+[
+"Desert Cottontail",
+31
+],
+[
+"Desert Cottontail Rabbit",
+31
+],
+[
+"Northern Red-backed Vole",
+31
+],
+[
+"Red Vole",
+31
+],
+[
+"RED VOLE",
+31
+],
+[
+"Painted Bat",
+31
+],
+[
+"Painted Woolly Bat",
+31
+],
+[
+"Red rock hare",
+31
+],
+[
+"East European Vole",
+31
+],
+[
+"Sibling Vole",
+31
+],
+[
+"White-footed Deermouse",
+31
+],
+[
+"White-footed Mouse",
+31
+],
+[
+"Little Brown Bat",
+31
+],
+[
+"Little brown myotis",
+31
+],
+[
+"Little Brown Myotis",
+31
+],
+[
+"Blasius's Horseshoe Bat",
+31
+],
+[
+"Blasius’s Horseshoe Bat",
+31
+],
+[
+"Peak-saddle Horseshoe Bat",
+31
+],
+[
+"Peters's Horseshoe Bat",
+31
+],
+[
+"Particolored Flying Squirrel",
+31
+],
+[
+"Indian Mole-rat",
+31
+],
+[
+"Lesser Bandicoot Rat",
+31
+],
+[
+"Sind Rice Rat",
+31
+],
+[
+"Tonkean Black Macaque",
+31
+],
+[
+"Tonkean macaque",
+31
+],
+[
+"Tonkean Macaque",
+31
+],
+[
+"Bolivian squirrel monkey",
+31
+],
+[
+"Eastern barred bandicoot",
+31
+],
+[
+"Eastern Barred Bandicoot",
+31
+],
+[
+"Tasmanian Long-nosed Bandicoot",
 31
 ],
 [
@@ -14412,47 +14288,195 @@
 31
 ],
 [
-"Kashmir Musk Deer",
+"Blue-eyed black lemur",
 31
 ],
 [
-"Kashmir Musk-deer",
+"Blue-eyed Black Lemur",
 31
 ],
 [
-"Kashmir muskdeer",
+"Sclater's Black Lemur",
 31
 ],
 [
-"Kashmir Muskdeer",
+"Sclater’s Black Lemur",
 31
 ],
 [
-"Rousette Bats",
+"Sclater’s Lemur",
+31
+],
+[
+"Moustached guenon",
+31
+],
+[
+"Moustached Guenon",
+31
+],
+[
+"Moustached Monkey",
+31
+],
+[
+"Mustached Monkey",
+31
+],
+[
+"Broad-striped Malagasy Mongoose",
+31
+],
+[
+"Broad-striped Mongoose",
+31
+],
+[
+"Broad-striped Vontsira",
+31
+],
+[
+"Malagasy Broad-striped Mongoose",
+31
+],
+[
+"Abbott’s duiker",
+31
+],
+[
+"Alpine shrew",
+31
+],
+[
+"Alpine Shrew",
+31
+],
+[
+"Geoffroy’s marmoset",
+31
+],
+[
+"Geoffroy's Marmoset",
+31
+],
+[
+"Geoffroy’s Tufted-ear Marmoset",
+31
+],
+[
+"White-faced Marmoset",
+31
+],
+[
+"White-fronted Marmoset",
+31
+],
+[
+"White-headed Marmoset",
+31
+],
+[
+"Red-bellied Tamarin",
+31
+],
+[
+"Red-chested Mustached Tamarin",
+31
+],
+[
+"White-lipped Tamarin",
+31
+],
+[
+"Red Gazelle",
+31
+],
+[
+"Mound-building Mouse",
+31
+],
+[
+"Steppe Mouse",
+31
+],
+[
+"Burmeister's Armadillo",
+31
+],
+[
+"Burmeister’s Armadillo",
+31
+],
+[
+"Chacoan Fairy Armadillo",
+31
+],
+[
+"Greater Fairy Armadillo",
+31
+],
+[
+"Greater Pichi Ciego",
+31
+],
+[
+"Javan slow loris",
+31
+],
+[
+"Javan Slow Loris",
+31
+],
+[
+"Lesser Capybara",
 30
 ],
 [
-"short-tailed opossums",
+"Grizzled giant squirrel",
 30
 ],
 [
-"marsupial lion",
+"Grizzled Giant Squirrel",
 30
 ],
 [
-"Checkered Elephant Shrew",
+"Sri Lankan Giant Squirrel",
 30
 ],
 [
-"Chequered Elephant Shrew",
+"Green monkeys",
 30
 ],
 [
-"Chequered Elephant-shrew",
+"Vervet Monkeys",
 30
 ],
 [
-"Chequered Sengi",
+"Western Gray Squirrel",
+30
+],
+[
+"Booted macaque",
+30
+],
+[
+"Booted Macaque",
+30
+],
+[
+"Hamlyn’s Monkey",
+30
+],
+[
+"Owl-faced guenon",
+30
+],
+[
+"Owl-faced Guenon",
+30
+],
+[
+"Owl-faced Monkey",
 30
 ],
 [
@@ -14464,63 +14488,147 @@
 30
 ],
 [
-"Wroughton's Free-tailed Bat",
+"Coquerel’s sifaka",
 30
 ],
 [
-"Wroughton's Giant Mastiff Bat",
+"Coquerel's Sifaka",
 30
 ],
 [
-"Somali Elephant Shrew",
+"Coquerel’s Sifaka",
 30
 ],
 [
-"Somali Sengi",
+"Crowned Sifaka",
 30
 ],
 [
-"Wroughton’s free-tailed bat",
+"Bearded saki",
 30
 ],
 [
-"Wroughton’s Free-tailed Bat",
+"Bearded Saki",
 30
 ],
 [
-"Wroughton’s Giant Mastiff Bat",
+"Black-bearded Saki",
 30
 ],
 [
-"Forest Elephant Shrew",
+"Black Bearded Saki",
 30
 ],
 [
-"Four-toed Elephant Shrew",
+"Black Saki",
 30
 ],
 [
-"Four-toed Elephant-shrew",
+"Brown-bearded Saki",
 30
 ],
 [
-"Four-toed Sengi",
+"Douc Langurs",
 30
 ],
 [
-"Haussa Genet",
+"Doucs",
 30
 ],
 [
-"Hausa Genet",
+"Silvery-brown bare-face tamarin",
 30
 ],
 [
-"Pardine Genet",
+"Silvery-brown Bare-face Tamarin",
 30
 ],
 [
-"West African Large-spotted Genet",
+"Silvery-brown Tamarin",
+30
+],
+[
+"White-footed Tamarin",
+30
+],
+[
+"Rousette Bats",
+30
+],
+[
+"Dumoga-bone Macaque",
+30
+],
+[
+"Temminck's Macaque",
+30
+],
+[
+"Mountain Cottontail",
+30
+],
+[
+"Nuttall's Cottontail",
+30
+],
+[
+"Nuttall’s Cottontail",
+30
+],
+[
+"Agile mangabey",
+30
+],
+[
+"Agile Mangabey",
+30
+],
+[
+"Perrier’s sifaka",
+30
+],
+[
+"Perrier's Sifaka",
+30
+],
+[
+"Perrier’s Sifaka",
+30
+],
+[
+"Key Rabbit",
+30
+],
+[
+"Lower Keys Marsh Rabbit",
+30
+],
+[
+"Lower Keys Rabbit",
+30
+],
+[
+"Marsh Rabbit",
+30
+],
+[
+"Equal-toothed shrew",
+30
+],
+[
+"Even-toothed Shrew",
+30
+],
+[
+"Taiga Shrew",
+30
+],
+[
+"TAIGA SHREW",
+30
+],
+[
+"Woolly Flying Squirrel",
 30
 ],
 [
@@ -14532,27 +14640,51 @@
 30
 ],
 [
-"Gray Short-tailed Opossum",
+"Liberian mongoose",
 30
 ],
 [
-"Grey Short-tailed Opossum",
+"Liberian Mongoose",
 30
 ],
 [
-"American Hog-nosed Skunk",
+"short-tailed opossums",
 30
 ],
 [
-"Common Hog-nosed Skunk",
+"Namdapha flying squirrel",
 30
 ],
 [
-"Eastern Hog-nosed Skunk",
+"Namdapha Flying Squirrel",
 30
 ],
 [
-"White-backed Hog-nosed Skunk",
+"Namdapha Giant Flying Squirrel",
+30
+],
+[
+"Alexander's Cusimanse",
+30
+],
+[
+"Alexander’s Cusimanse",
+30
+],
+[
+"Alexander's Kusimanse",
+30
+],
+[
+"Alexander’s Kusimanse",
+30
+],
+[
+"Alexander’s Mongoose",
+30
+],
+[
+"Congo Mongoose",
 30
 ],
 [
@@ -14568,11 +14700,187 @@
 30
 ],
 [
-"Meller’s Mongoose",
+"Coffee Rat",
+30
+],
+[
+"Indian Bush-rat",
+30
+],
+[
+"Indian Bush Rat",
 30
 ],
 [
 "Meller's Mongoose",
+30
+],
+[
+"Meller’s Mongoose",
+30
+],
+[
+"Brazilian Lesser Long-nosed Armadillo",
+30
+],
+[
+"Seven-banded Armadillo",
+30
+],
+[
+"Korean Field Mouse",
+30
+],
+[
+"Andean hairy armadillo",
+30
+],
+[
+"Andean Hairy Armadillo",
+30
+],
+[
+"Central American agouti",
+30
+],
+[
+"Central American Agouti",
+30
+],
+[
+"Somali Elephant Shrew",
+30
+],
+[
+"Somali Sengi",
+30
+],
+[
+"Greater Long-nosed Armadillo",
+30
+],
+[
+"Indian giant flying squirrel",
+30
+],
+[
+"Indian Giant Flying Squirrel",
+30
+],
+[
+"Large Brown Flying Squirrel",
+30
+],
+[
+"Greater Bandicoot Rat",
+30
+],
+[
+"Black Flying Squirrel",
+30
+],
+[
+"Large Black Flying Squirrel",
+30
+],
+[
+"Black Agouti",
+30
+],
+[
+"Southern long-nosed armadillo",
+30
+],
+[
+"Southern Long-nosed Armadillo",
+30
+],
+[
+"Southern Long-Nosed Armadillo",
+30
+],
+[
+"Large-eared Pika",
+30
+],
+[
+"Wroughton’s free-tailed bat",
+30
+],
+[
+"Wroughton's Free-tailed Bat",
+30
+],
+[
+"Wroughton’s Free-tailed Bat",
+30
+],
+[
+"Wroughton's Giant Mastiff Bat",
+30
+],
+[
+"Wroughton’s Giant Mastiff Bat",
+30
+],
+[
+"New Guinean Quoll",
+30
+],
+[
+"New Guinea quoll",
+30
+],
+[
+"New Guinea Quoll",
+30
+],
+[
+"Gray Short-tailed Opossum",
+30
+],
+[
+"Grey Short-tailed Opossum",
+30
+],
+[
+"Palawan bearded pig",
+30
+],
+[
+"Palawan Bearded Pig",
+30
+],
+[
+"Palawan Pig",
+30
+],
+[
+"Palawan Wild Pig",
+30
+],
+[
+"Gongshan Muntjac",
+30
+],
+[
+"Finlayson’s Squirrel",
+30
+],
+[
+"Ground Cuscus",
+30
+],
+[
+"Red-bellied Pademelon",
+30
+],
+[
+"Rufous-bellied Pademelon",
+30
+],
+[
+"Tasmanian Pademelon",
 30
 ],
 [
@@ -14600,27 +14908,187 @@
 30
 ],
 [
-"New Guinea quoll",
+"Golden-mantled Ground Squirrel",
 30
 ],
 [
-"New Guinea Quoll",
+"Golden Mantled Ground Squirrel",
 30
 ],
 [
-"New Guinean Quoll",
+"Green River Basin Golden-mantled Ground Squirrel",
 30
 ],
 [
-"Red-bellied Pademelon",
+"Malenge Babirusa",
 30
 ],
 [
-"Rufous-bellied Pademelon",
+"Togian Babirusa",
 30
 ],
 [
-"Tasmanian Pademelon",
+"Togian Islands Babirusa",
+30
+],
+[
+"Sumatran Porcupine",
+30
+],
+[
+"Black-faced Black Spider Monkey",
+30
+],
+[
+"Chamek Spider Monkey",
+30
+],
+[
+"Peruvian Black Spider Monkey",
+30
+],
+[
+"Peruvian spider monkey",
+30
+],
+[
+"Peruvian Spider Monkey",
+30
+],
+[
+"Taiwan Field Mouse",
+30
+],
+[
+"Large Japanese Field Mouse",
+30
+],
+[
+"Libyan Striped Weasel",
+30
+],
+[
+"North African Striped Weasel",
+30
+],
+[
+"Saharan Striped Polecat",
+30
+],
+[
+"Saharan Striped Weasel",
+30
+],
+[
+"Silvered Langur",
+30
+],
+[
+"Silvered leaf monkey",
+30
+],
+[
+"Silvered Leaf Monkey",
+30
+],
+[
+"Silvered Monkey",
+30
+],
+[
+"Silvery Lutung",
+30
+],
+[
+"Peter’s duiker",
+30
+],
+[
+"Peters' Duiker",
+30
+],
+[
+"Peters’ Duiker",
+30
+],
+[
+"Peters’s Duiker",
+30
+],
+[
+"Banded langur",
+30
+],
+[
+"Banded Langur",
+30
+],
+[
+"Banded Leaf Monkey",
+30
+],
+[
+"Banded Surili",
+30
+],
+[
+"Douglas's Squirrel",
+30
+],
+[
+"Douglas’s Squirrel",
+30
+],
+[
+"Hausa Genet",
+30
+],
+[
+"Haussa Genet",
+30
+],
+[
+"Pardine Genet",
+30
+],
+[
+"West African Large-spotted Genet",
+30
+],
+[
+"Celebes Pig",
+30
+],
+[
+"Celebes Warty Pig",
+30
+],
+[
+"Celebes Wild Boar",
+30
+],
+[
+"Sulawesi Warty Pig",
+30
+],
+[
+"Angolan Cusimanse",
+30
+],
+[
+"Angolan Kusimanse",
+30
+],
+[
+"Angolan Mongoose",
+30
+],
+[
+"Ansorge's Cusimanse",
+30
+],
+[
+"Cross River Gorilla",
 30
 ],
 [
@@ -14652,111 +15120,11 @@
 30
 ],
 [
-"Libyan Striped Weasel",
+"Gabon Talapoin",
 30
 ],
 [
-"North African Striped Weasel",
-30
-],
-[
-"Saharan Striped Polecat",
-30
-],
-[
-"Saharan Striped Weasel",
-30
-],
-[
-"Alexander's Cusimanse",
-30
-],
-[
-"Alexander's Kusimanse",
-30
-],
-[
-"Alexander’s Cusimanse",
-30
-],
-[
-"Alexander’s Kusimanse",
-30
-],
-[
-"Alexander’s Mongoose",
-30
-],
-[
-"Congo Mongoose",
-30
-],
-[
-"Angolan Cusimanse",
-30
-],
-[
-"Angolan Kusimanse",
-30
-],
-[
-"Angolan Mongoose",
-30
-],
-[
-"Ansorge's Cusimanse",
-30
-],
-[
-"Feather-tailed Possum",
-30
-],
-[
-"Feathertail Possum",
-30
-],
-[
-"Liberian Mongoose",
-30
-],
-[
-"Liberian mongoose",
-30
-],
-[
-"Ground Cuscus",
-30
-],
-[
-"Brazilian Lesser Long-nosed Armadillo",
-30
-],
-[
-"Seven-banded Armadillo",
-30
-],
-[
-"Andean hairy armadillo",
-30
-],
-[
-"Andean Hairy Armadillo",
-30
-],
-[
-"Greater Long-nosed Armadillo",
-30
-],
-[
-"Southern long-nosed armadillo",
-30
-],
-[
-"Southern Long-nosed Armadillo",
-30
-],
-[
-"Southern Long-Nosed Armadillo",
+"Northern Talapoin Monkey",
 30
 ],
 [
@@ -14768,47 +15136,35 @@
 30
 ],
 [
-"Coquerel's Sifaka",
+"Alaotran gentle lemur",
 30
 ],
 [
-"Coquerel’s sifaka",
+"Alaotran Gentle Lemur",
 30
 ],
 [
-"Coquerel’s Sifaka",
+"Alaotra Reed Lemur",
 30
 ],
 [
-"Crowned Sifaka",
+"Bandro",
 30
 ],
 [
-"Perrier's Sifaka",
+"Lac Alaotra Bamboo Lemur",
 30
 ],
 [
-"Perrier’s sifaka",
+"Lake Alaotra Gentle Lemur",
 30
 ],
 [
-"Perrier’s Sifaka",
+"Golden-bellied mangabey",
 30
 ],
 [
-"Greater Hedgehog Tenrec",
-30
-],
-[
-"Large Madagascar Hedgehog",
-30
-],
-[
-"Turkestan Red Pika",
-30
-],
-[
-"Large-eared Pika",
+"Golden-bellied Mangabey",
 30
 ],
 [
@@ -14817,142 +15173,6 @@
 ],
 [
 "Steppe Pika",
-30
-],
-[
-"Equal-toothed shrew",
-30
-],
-[
-"Even-toothed Shrew",
-30
-],
-[
-"Taiga Shrew",
-30
-],
-[
-"TAIGA SHREW",
-30
-],
-[
-"Mountain Cottontail",
-30
-],
-[
-"Nuttall's Cottontail",
-30
-],
-[
-"Nuttall’s Cottontail",
-30
-],
-[
-"Key Rabbit",
-30
-],
-[
-"Lower Keys Marsh Rabbit",
-30
-],
-[
-"Lower Keys Rabbit",
-30
-],
-[
-"Marsh Rabbit",
-30
-],
-[
-"Azara's Agouti",
-30
-],
-[
-"Azara’s agouti",
-30
-],
-[
-"Azara’s Agouti",
-30
-],
-[
-"Central American agouti",
-30
-],
-[
-"Central American Agouti",
-30
-],
-[
-"Black Agouti",
-30
-],
-[
-"Grizzled giant squirrel",
-30
-],
-[
-"Grizzled Giant Squirrel",
-30
-],
-[
-"Sri Lankan Giant Squirrel",
-30
-],
-[
-"Plantain Squirrel",
-30
-],
-[
-"Tricoloured Squirrel",
-30
-],
-[
-"Finlayson’s Squirrel",
-30
-],
-[
-"Green monkeys",
-30
-],
-[
-"Vervet Monkeys",
-30
-],
-[
-"Spix’s Moustached Tamarin",
-30
-],
-[
-"Silvery-brown bare-face tamarin",
-30
-],
-[
-"Silvery-brown Bare-face Tamarin",
-30
-],
-[
-"Silvery-brown Tamarin",
-30
-],
-[
-"White-footed Tamarin",
-30
-],
-[
-"Geoffroy's Tamarin",
-30
-],
-[
-"Geoffroy’s Tamarin",
-30
-],
-[
-"Red Crested Bare-face Tamarin",
-30
-],
-[
-"Red-crested Bare-face Tamarin",
 30
 ],
 [
@@ -14972,51 +15192,63 @@
 30
 ],
 [
-"White-cheeked Spider Monkey",
+"Spix’s Moustached Tamarin",
 30
 ],
 [
-"White-whiskered spider monkey",
+"Azara’s agouti",
 30
 ],
 [
-"White-whiskered Spider Monkey",
+"Azara's Agouti",
 30
 ],
 [
-"Black-faced Black Spider Monkey",
+"Azara’s Agouti",
 30
 ],
 [
-"Chamek Spider Monkey",
+"Turkestan Red Pika",
 30
 ],
 [
-"Peruvian Black Spider Monkey",
+"marsupial lion",
 30
 ],
 [
-"Peruvian spider monkey",
+"Greater Hedgehog Tenrec",
 30
 ],
 [
-"Peruvian Spider Monkey",
+"Large Madagascar Hedgehog",
 30
 ],
 [
-"Western Gray Squirrel",
+"Heck’s macaque",
 30
 ],
 [
-"Black Flying Squirrel",
+"Heck's Macaque",
 30
 ],
 [
-"Large Black Flying Squirrel",
+"Heck’s Macaque",
 30
 ],
 [
-"Southern Brown Howling Monkey",
+"Feather-tailed Possum",
+30
+],
+[
+"Feathertail Possum",
+30
+],
+[
+"Kashmir Flying Squirrel",
+30
+],
+[
+"Small Kashmir Flying Squirrel",
 30
 ],
 [
@@ -15036,235 +15268,95 @@
 30
 ],
 [
-"Alaotra Reed Lemur",
+"Southern Brown Howling Monkey",
 30
 ],
 [
-"Alaotran gentle lemur",
+"Plantain Squirrel",
 30
 ],
 [
-"Alaotran Gentle Lemur",
+"Tricoloured Squirrel",
 30
 ],
 [
-"Bandro",
+"Forest Elephant Shrew",
 30
 ],
 [
-"Lac Alaotra Bamboo Lemur",
+"Four-toed Elephant-shrew",
 30
 ],
 [
-"Lake Alaotra Gentle Lemur",
+"Four-toed Elephant Shrew",
 30
 ],
 [
-"Douc Langurs",
+"Four-toed Sengi",
 30
 ],
 [
-"Doucs",
+"American Hog-nosed Skunk",
 30
 ],
 [
-"Bearded saki",
+"Common Hog-nosed Skunk",
 30
 ],
 [
-"Bearded Saki",
+"Eastern Hog-nosed Skunk",
 30
 ],
 [
-"Black Bearded Saki",
+"White-backed Hog-nosed Skunk",
 30
 ],
 [
-"Black Saki",
+"Geoffroy's Tamarin",
 30
 ],
 [
-"Black-bearded Saki",
+"Geoffroy’s Tamarin",
 30
 ],
 [
-"Brown-bearded Saki",
+"Red-crested Bare-face Tamarin",
 30
 ],
 [
-"Sumatran Porcupine",
+"Red Crested Bare-face Tamarin",
 30
 ],
 [
-"Lesser Capybara",
+"White-cheeked Spider Monkey",
 30
 ],
 [
-"Indian giant flying squirrel",
+"White-whiskered spider monkey",
 30
 ],
 [
-"Indian Giant Flying Squirrel",
+"White-whiskered Spider Monkey",
 30
 ],
 [
-"Large Brown Flying Squirrel",
+"Syrian Wild Ass",
 30
 ],
 [
-"Douglas's Squirrel",
+"Piacentini's Dikdik",
 30
 ],
 [
-"Douglas’s Squirrel",
+"silver dik-dik",
 30
 ],
 [
-"Greater Bandicoot Rat",
+"Silver Dik-dik",
 30
 ],
 [
-"Golden Mantled Ground Squirrel",
-30
-],
-[
-"Green River Basin Golden-mantled Ground Squirrel",
-30
-],
-[
-"Golden-mantled Ground Squirrel",
-30
-],
-[
-"Namdapha flying squirrel",
-30
-],
-[
-"Namdapha Flying Squirrel",
-30
-],
-[
-"Namdapha Giant Flying Squirrel",
-30
-],
-[
-"Woolly Flying Squirrel",
-30
-],
-[
-"Kashmir Flying Squirrel",
-30
-],
-[
-"Small Kashmir Flying Squirrel",
-30
-],
-[
-"Heck's Macaque",
-30
-],
-[
-"Heck’s macaque",
-30
-],
-[
-"Heck’s Macaque",
-30
-],
-[
-"Booted macaque",
-30
-],
-[
-"Booted Macaque",
-30
-],
-[
-"Dumoga-bone Macaque",
-30
-],
-[
-"Temminck's Macaque",
-30
-],
-[
-"Gabon Talapoin",
-30
-],
-[
-"Northern Talapoin Monkey",
-30
-],
-[
-"Hamlyn’s Monkey",
-30
-],
-[
-"Owl-faced guenon",
-30
-],
-[
-"Owl-faced Guenon",
-30
-],
-[
-"Owl-faced Monkey",
-30
-],
-[
-"Peter’s duiker",
-30
-],
-[
-"Peters' Duiker",
-30
-],
-[
-"Peters’ Duiker",
-30
-],
-[
-"Peters’s Duiker",
-30
-],
-[
-"Black-pencilled Marmoset",
-30
-],
-[
-"Black-tufted Marmoset",
-30
-],
-[
-"Black-tufted-ear Marmoset",
-30
-],
-[
-"Banded Leaf Monkey",
-30
-],
-[
-"Banded langur",
-30
-],
-[
-"Banded Langur",
-30
-],
-[
-"Banded Surili",
-30
-],
-[
-"Taiwan Field Mouse",
-30
-],
-[
-"Large Japanese Field Mouse",
-30
-],
-[
-"Korean Field Mouse",
+"Silver Dik-Dik",
 30
 ],
 [
@@ -15288,123 +15380,31 @@
 30
 ],
 [
-"Agile mangabey",
+"Checkered Elephant Shrew",
 30
 ],
 [
-"Agile Mangabey",
+"Chequered Elephant-shrew",
 30
 ],
 [
-"Golden-bellied mangabey",
+"Chequered Elephant Shrew",
 30
 ],
 [
-"Golden-bellied Mangabey",
+"Chequered Sengi",
 30
 ],
 [
-"Coffee Rat",
+"Black-pencilled Marmoset",
 30
 ],
 [
-"Indian Bush Rat",
+"Black-tufted-ear Marmoset",
 30
 ],
 [
-"Indian Bush-rat",
-30
-],
-[
-"Piacentini's Dikdik",
-30
-],
-[
-"silver dik-dik",
-30
-],
-[
-"Silver Dik-dik",
-30
-],
-[
-"Silver Dik-Dik",
-30
-],
-[
-"Gongshan Muntjac",
-30
-],
-[
-"Silvered leaf monkey",
-30
-],
-[
-"Silvered Langur",
-30
-],
-[
-"Silvered Leaf Monkey",
-30
-],
-[
-"Silvered Monkey",
-30
-],
-[
-"Silvery Lutung",
-30
-],
-[
-"Palawan bearded pig",
-30
-],
-[
-"Palawan Bearded Pig",
-30
-],
-[
-"Palawan Pig",
-30
-],
-[
-"Palawan Wild Pig",
-30
-],
-[
-"Celebes Pig",
-30
-],
-[
-"Celebes Warty Pig",
-30
-],
-[
-"Celebes Wild Boar",
-30
-],
-[
-"Sulawesi Warty Pig",
-30
-],
-[
-"Malenge Babirusa",
-30
-],
-[
-"Togian Babirusa",
-30
-],
-[
-"Togian Islands Babirusa",
-30
-],
-[
-"Cross River Gorilla",
-30
-],
-[
-"Syrian Wild Ass",
+"Black-tufted Marmoset",
 30
 ]
 ]

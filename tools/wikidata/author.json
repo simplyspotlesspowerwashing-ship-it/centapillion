@@ -1,0 +1,6826 @@
+[
+[
+"William Shakespeare",
+336
+],
+[
+"Confucius",
+315
+],
+[
+"Plato",
+304
+],
+[
+"Leo Tolstoy",
+282
+],
+[
+"Charles Darwin",
+280
+],
+[
+"Homer",
+273
+],
+[
+"Martin Luther",
+260
+],
+[
+"Fyodor Dostoyevsky",
+258
+],
+[
+"Voltaire",
+257
+],
+[
+"Friedrich Nietzsche",
+256
+],
+[
+"Mark Twain",
+253
+],
+[
+"Miguel de Cervantes",
+250
+],
+[
+"Charles Dickens",
+250
+],
+[
+"Virgil",
+248
+],
+[
+"Alexander Pushkin",
+245
+],
+[
+"Hans Christian Andersen",
+244
+],
+[
+"Franz Kafka",
+242
+],
+[
+"Anton Chekhov",
+240
+],
+[
+"Jean-Jacques Rousseau",
+236
+],
+[
+"Augustine of Hippo",
+228
+],
+[
+"Molière",
+226
+],
+[
+"Adam Smith",
+226
+],
+[
+"Edgar Allan Poe",
+225
+],
+[
+"Oscar Wilde",
+224
+],
+[
+"Marco Polo",
+215
+],
+[
+"George Orwell",
+213
+],
+[
+"Ernest Hemingway",
+209
+],
+[
+"Gabriel García Márquez",
+209
+],
+[
+"James Joyce",
+209
+],
+[
+"Thomas Aquinas",
+208
+],
+[
+"Richard Wagner",
+207
+],
+[
+"Jane Austen",
+206
+],
+[
+"J. R. R. Tolkien",
+206
+],
+[
+"Albert Camus",
+205
+],
+[
+"Stephen Hawking",
+203
+],
+[
+"Ovid",
+203
+],
+[
+"Jean-Paul Sartre",
+203
+],
+[
+"Friedrich Engels",
+201
+],
+[
+"Agatha Christie",
+199
+],
+[
+"Li Bai",
+199
+],
+[
+"Paul the Apostle",
+197
+],
+[
+"Georg Wilhelm Friedrich Hegel",
+196
+],
+[
+"Jorge Luis Borges",
+194
+],
+[
+"Marcel Proust",
+192
+],
+[
+"Jules Verne",
+190
+],
+[
+"Simone de Beauvoir",
+189
+],
+[
+"Alfred Hitchcock",
+189
+],
+[
+"Noam Chomsky",
+189
+],
+[
+"George Bernard Shaw",
+187
+],
+[
+"John Lennon",
+186
+],
+[
+"Friedrich Schiller",
+183
+],
+[
+"J. K. Rowling",
+183
+],
+[
+"Arthur Conan Doyle",
+183
+],
+[
+"Charles Baudelaire",
+179
+],
+[
+"Arthur Schopenhauer",
+177
+],
+[
+"Virginia Woolf",
+177
+],
+[
+"Honoré de Balzac",
+177
+],
+[
+"Kalidasa",
+176
+],
+[
+"Alexandre Dumas",
+174
+],
+[
+"Naguib Mahfouz",
+173
+],
+[
+"Henrik Ibsen",
+172
+],
+[
+"Antoine de Saint-Exupéry",
+171
+],
+[
+"Søren Kierkegaard",
+171
+],
+[
+"Helen Keller",
+170
+],
+[
+"Horace",
+170
+],
+[
+"H. G. Wells",
+169
+],
+[
+"Heinrich Heine",
+168
+],
+[
+"Thomas Mann",
+167
+],
+[
+"Aesop",
+167
+],
+[
+"Émile Zola",
+167
+],
+[
+"Petrarch",
+165
+],
+[
+"Ingmar Bergman",
+165
+],
+[
+"Isaac Asimov",
+163
+],
+[
+"Hafez",
+163
+],
+[
+"Jonathan Swift",
+162
+],
+[
+"Plutarch",
+162
+],
+[
+"Abu Nuwas",
+162
+],
+[
+"Murasaki Shikibu",
+162
+],
+[
+"Octave Mirbeau",
+161
+],
+[
+"Anatole France",
+161
+],
+[
+"Aleksandr Solzhenitsyn",
+160
+],
+[
+"T. S. Eliot",
+160
+],
+[
+"Rumi",
+160
+],
+[
+"Gustave Flaubert",
+160
+],
+[
+"David Hume",
+159
+],
+[
+"Euripides",
+158
+],
+[
+"Woody Allen",
+157
+],
+[
+"Nikolai Gogol",
+157
+],
+[
+"Bertolt Brecht",
+156
+],
+[
+"Erasmus",
+156
+],
+[
+"Ralph Waldo Emerson",
+156
+],
+[
+"John Milton",
+156
+],
+[
+"Guy de Maupassant",
+156
+],
+[
+"Selma Lagerlöf",
+155
+],
+[
+"Robert Louis Stevenson",
+154
+],
+[
+"Vladimir Nabokov",
+154
+],
+[
+"Aeschylus",
+154
+],
+[
+"Ivan Turgenev",
+153
+],
+[
+"Alī ibn Abī Ṭālib",
+152
+],
+[
+"Umberto Eco",
+151
+],
+[
+"Giovanni Boccaccio",
+151
+],
+[
+"Epicurus",
+151
+],
+[
+"Sappho",
+150
+],
+[
+"Denis Diderot",
+150
+],
+[
+"Martin Heidegger",
+150
+],
+[
+"William Faulkner",
+149
+],
+[
+"John Steinbeck",
+149
+],
+[
+"Aristophanes",
+149
+],
+[
+"Walt Whitman",
+149
+],
+[
+"Maya Angelou",
+148
+],
+[
+"Stephen King",
+148
+],
+[
+"Emily Dickinson",
+147
+],
+[
+"Henry David Thoreau",
+146
+],
+[
+"Jack London",
+146
+],
+[
+"Jean de La Fontaine",
+146
+],
+[
+"John Keats",
+146
+],
+[
+"Al-Ghazali",
+146
+],
+[
+"André Gide",
+145
+],
+[
+"Arthur Rimbaud",
+145
+],
+[
+"Daniel Defoe",
+144
+],
+[
+"Boris Pasternak",
+144
+],
+[
+"Pearl S. Buck",
+144
+],
+[
+"Federico García Lorca",
+143
+],
+[
+"Aldous Huxley",
+143
+],
+[
+"Percy Bysshe Shelley",
+143
+],
+[
+"L. L. Zamenhof",
+141
+],
+[
+"William Wordsworth",
+141
+],
+[
+"Romain Rolland",
+141
+],
+[
+"Alexander von Humboldt",
+141
+],
+[
+"George Eliot",
+140
+],
+[
+"Samuel Beckett",
+140
+],
+[
+"Henryk Sienkiewicz",
+140
+],
+[
+"Francis of Assisi",
+140
+],
+[
+"Du Fu",
+139
+],
+[
+"Swami Vivekananda",
+139
+],
+[
+"Walter Scott",
+139
+],
+[
+"Orhan Pamuk",
+138
+],
+[
+"George Sand",
+138
+],
+[
+"José Saramago",
+136
+],
+[
+"John Calvin",
+136
+],
+[
+"Richard Dawkins",
+136
+],
+[
+"Mary Shelley",
+136
+],
+[
+"Stendhal",
+136
+],
+[
+"Hector Berlioz",
+135
+],
+[
+"Charlotte Brontë",
+135
+],
+[
+"Luigi Pirandello",
+135
+],
+[
+"Knut Hamsun",
+135
+],
+[
+"Toni Morrison",
+135
+],
+[
+"Rainer Maria Rilke",
+135
+],
+[
+"Paulo Coelho",
+134
+],
+[
+"François Rabelais",
+134
+],
+[
+"George Lucas",
+134
+],
+[
+"Doris Lessing",
+134
+],
+[
+"David",
+133
+],
+[
+"Thucydides",
+133
+],
+[
+"Mary Wollstonecraft",
+132
+],
+[
+"Averroes",
+132
+],
+[
+"Maurice Maeterlinck",
+132
+],
+[
+"Herman Melville",
+132
+],
+[
+"Anna Akhmatova",
+132
+],
+[
+"Joseph Conrad",
+132
+],
+[
+"C. S. Lewis",
+132
+],
+[
+"Leonard Cohen",
+131
+],
+[
+"Haruki Murakami",
+131
+],
+[
+"Emily Brontë",
+131
+],
+[
+"Zhu Xi",
+131
+],
+[
+"Adam Mickiewicz",
+130
+],
+[
+"Titus Livius",
+129
+],
+[
+"Ferdowsi",
+129
+],
+[
+"Robert Frost",
+128
+],
+[
+"Lu Xun",
+128
+],
+[
+"Alice Munro",
+128
+],
+[
+"Elfriede Jelinek",
+128
+],
+[
+"Nadine Gordimer",
+128
+],
+[
+"Xenophon",
+127
+],
+[
+"Herta Müller",
+127
+],
+[
+"Hesiod",
+127
+],
+[
+"Ivan Bunin",
+127
+],
+[
+"Hannah Arendt",
+127
+],
+[
+"Stefan Zweig",
+127
+],
+[
+"Pliny the Elder",
+127
+],
+[
+"Ayn Rand",
+126
+],
+[
+"Yasunari Kawabata",
+126
+],
+[
+"Gabriela Mistral",
+126
+],
+[
+"Joseph Brodsky",
+126
+],
+[
+"William James",
+125
+],
+[
+"Lope de Vega",
+125
+],
+[
+"George Harrison",
+125
+],
+[
+"Erich Maria Remarque",
+125
+],
+[
+"Quentin Tarantino",
+124
+],
+[
+"Sully Prudhomme",
+124
+],
+[
+"Frédéric Mistral",
+124
+],
+[
+"Robert Burns",
+124
+],
+[
+"Svetlana Alexievich",
+123
+],
+[
+"Tycho Brahe",
+123
+],
+[
+"Gerhart Hauptmann",
+123
+],
+[
+"Czesław Miłosz",
+123
+],
+[
+"Samuel Taylor Coleridge",
+123
+],
+[
+"F. Scott Fitzgerald",
+123
+],
+[
+"Alexander Pope",
+122
+],
+[
+"Nagarjuna",
+122
+],
+[
+"Wisława Szymborska",
+122
+],
+[
+"Kurt Vonnegut",
+122
+],
+[
+"Catullus",
+121
+],
+[
+"Grazia Deledda",
+121
+],
+[
+"John Galsworthy",
+121
+],
+[
+"Saul Bellow",
+121
+],
+[
+"Sinclair Lewis",
+120
+],
+[
+"Thomas Hardy",
+120
+],
+[
+"Herbert Spencer",
+120
+],
+[
+"Ray Bradbury",
+120
+],
+[
+"James Cameron",
+120
+],
+[
+"Heinrich Böll",
+120
+],
+[
+"Ivo Andrić",
+120
+],
+[
+"Harriet Beecher Stowe",
+119
+],
+[
+"Saadi",
+119
+],
+[
+"Kazuo Ishiguro",
+119
+],
+[
+"William Golding",
+119
+],
+[
+"Astrid Lindgren",
+119
+],
+[
+"Jean Racine",
+119
+],
+[
+"Mikhail Bulgakov",
+119
+],
+[
+"H. P. Lovecraft",
+118
+],
+[
+"Epictetus",
+118
+],
+[
+"G. K. Chesterton",
+118
+],
+[
+"Paul Verlaine",
+118
+],
+[
+"Sigrid Undset",
+118
+],
+[
+"François Mauriac",
+118
+],
+[
+"Liu Xiaobo",
+117
+],
+[
+"J. M. Coetzee",
+117
+],
+[
+"Vladimir Vysotsky",
+117
+],
+[
+"Nathaniel Hawthorne",
+117
+],
+[
+"J. D. Salinger",
+117
+],
+[
+"Milan Kundera",
+116
+],
+[
+"Rachel Carson",
+115
+],
+[
+"George R. R. Martin",
+115
+],
+[
+"Leo XIII",
+115
+],
+[
+"Johann Gottlieb Fichte",
+114
+],
+[
+"William Somerset Maugham",
+114
+],
+[
+"Giacomo Leopardi",
+114
+],
+[
+"Orson Welles",
+114
+],
+[
+"Harold Pinter",
+114
+],
+[
+"Wole Soyinka",
+114
+],
+[
+"Novalis",
+114
+],
+[
+"Hildegard of Bingen",
+114
+],
+[
+"Isaac Bashevis Singer",
+114
+],
+[
+"Arthur Miller",
+114
+],
+[
+"Sylvia Plath",
+112
+],
+[
+"Ursula K. Le Guin",
+112
+],
+[
+"Louisa May Alcott",
+112
+],
+[
+"Mae West",
+112
+],
+[
+"Gregory I",
+112
+],
+[
+"Elias Canetti",
+112
+],
+[
+"George Berkeley",
+112
+],
+[
+"Moshe ben Maimon",
+111
+],
+[
+"Graham Greene",
+111
+],
+[
+"John Dewey",
+111
+],
+[
+"Yukio Mishima",
+111
+],
+[
+"Mo Yan",
+111
+],
+[
+"Ezra Pound",
+110
+],
+[
+"Teresa of Ávila",
+110
+],
+[
+"Margaret Atwood",
+110
+],
+[
+"Thomas Henry Huxley",
+110
+],
+[
+"Sergei Yesenin",
+110
+],
+[
+"Björk",
+110
+],
+[
+"V. S. Naipaul",
+110
+],
+[
+"Dan Brown",
+110
+],
+[
+"Jean-Baptiste de Lamarck",
+110
+],
+[
+"Carrie Fisher",
+109
+],
+[
+"Guillaume Apollinaire",
+109
+],
+[
+"Harper Lee",
+109
+],
+[
+"Władysław Reymont",
+108
+],
+[
+"Charles Perrault",
+108
+],
+[
+"Mencius",
+108
+],
+[
+"Roald Dahl",
+108
+],
+[
+"Jerome",
+108
+],
+[
+"Nelly Sachs",
+108
+],
+[
+"Pierre Corneille",
+108
+],
+[
+"Kenzaburō Ōe",
+108
+],
+[
+"Amartya Sen",
+107
+],
+[
+"Alexandre Dumas fils",
+107
+],
+[
+"Pedro Calderón de la Barca",
+107
+],
+[
+"Bertha von Suttner",
+107
+],
+[
+"Alphonse Daudet",
+107
+],
+[
+"Gotthold Ephraim Lessing",
+107
+],
+[
+"Bram Stoker",
+107
+],
+[
+"John Chrysostom",
+107
+],
+[
+"Plautus",
+107
+],
+[
+"Erick Fromm",
+107
+],
+[
+"Ian Fleming",
+107
+],
+[
+"Eugene O'Neill",
+107
+],
+[
+"Baháʼu'lláh",
+106
+],
+[
+"Menander",
+106
+],
+[
+"Marquis de Sade",
+106
+],
+[
+"Chinua Achebe",
+106
+],
+[
+"Fernando Pessoa",
+106
+],
+[
+"Lucian of Samosata",
+106
+],
+[
+"Elie Wiesel",
+106
+],
+[
+"Jan Hus",
+106
+],
+[
+"Ernst Haeckel",
+106
+],
+[
+"Charles Bukowski",
+106
+],
+[
+"Giacomo Casanova",
+106
+],
+[
+"Seamus Heaney",
+106
+],
+[
+"Truman Capote",
+105
+],
+[
+"George Carlin",
+105
+],
+[
+"Tomas Tranströmer",
+105
+],
+[
+"Paul Heyse",
+105
+],
+[
+"Juan Ramón Jiménez",
+104
+],
+[
+"Pindar",
+104
+],
+[
+"Theodor W. Adorno",
+104
+],
+[
+"Alexander Blok",
+104
+],
+[
+"Terry Pratchett",
+104
+],
+[
+"Imre Kertész",
+104
+],
+[
+"Louise Glück",
+103
+],
+[
+"Jean-Marie Gustave Le Clézio",
+103
+],
+[
+"Peter Abelard",
+103
+],
+[
+"Eugène Ionesco",
+103
+],
+[
+"Stanisław Lem",
+103
+],
+[
+"Sándor Petőfi",
+103
+],
+[
+"Tennessee Williams",
+102
+],
+[
+"Johann Gottfried Herder",
+102
+],
+[
+"Apuleius",
+102
+],
+[
+"Olga Tokarczuk",
+102
+],
+[
+"Christopher Marlowe",
+102
+],
+[
+"Halldór Laxness",
+102
+],
+[
+"Robert A. Heinlein",
+101
+],
+[
+"Roger Martin du Gard",
+101
+],
+[
+"Jacques Derrida",
+101
+],
+[
+"Henry James",
+101
+],
+[
+"W. H. Auden",
+101
+],
+[
+"Alfred de Musset",
+101
+],
+[
+"Ambrose Bierce",
+101
+],
+[
+"Patrick Modiano",
+101
+],
+[
+"Isabel Allende",
+101
+],
+[
+"Jack Kerouac",
+100
+],
+[
+"Tertullian",
+100
+],
+[
+"Juvenal",
+100
+],
+[
+"Han Kang",
+100
+],
+[
+"J. M. Barrie",
+100
+],
+[
+"Stan Lee",
+99
+],
+[
+"Walter Benjamin",
+99
+],
+[
+"Isabelle de Charrière",
+98
+],
+[
+"Simone Weil",
+98
+],
+[
+"William Makepeace Thackeray",
+98
+],
+[
+"Terence",
+98
+],
+[
+"Ādi Shankara",
+98
+],
+[
+"Marina Tsvetaeva",
+98
+],
+[
+"John Dryden",
+98
+],
+[
+"Chimamanda Ngozi Adichie",
+98
+],
+[
+"Robert Browning",
+98
+],
+[
+"Karl Jaspers",
+98
+],
+[
+"François Villon",
+98
+],
+[
+"Shmuel Yosef Agnon",
+97
+],
+[
+"Philip K. Dick",
+97
+],
+[
+"Margaret Mead",
+97
+],
+[
+"Yanka Kupala",
+97
+],
+[
+"Friedrich Hölderlin",
+97
+],
+[
+"James VI and I",
+97
+],
+[
+"Paul Samuelson",
+96
+],
+[
+"Innocent III",
+96
+],
+[
+"Derek Walcott",
+96
+],
+[
+"Susan Sontag",
+96
+],
+[
+"O. Henry",
+96
+],
+[
+"Ryūnosuke Akutagawa",
+96
+],
+[
+"Arundhati Roy",
+96
+],
+[
+"Alice Walker",
+96
+],
+[
+"Carl Spitteler",
+96
+],
+[
+"Pier Paolo Pasolini",
+96
+],
+[
+"Jaroslav Hašek",
+96
+],
+[
+"Anthony Bourdain",
+96
+],
+[
+"Salvatore Quasimodo",
+96
+],
+[
+"Anna Politkovskaya",
+95
+],
+[
+"Louis-Ferdinand Céline",
+95
+],
+[
+"Carlo Goldoni",
+95
+],
+[
+"Giorgos Seferis",
+95
+],
+[
+"Paul Valéry",
+95
+],
+[
+"Lesya Ukrainka",
+95
+],
+[
+"Leo I",
+95
+],
+[
+"Allen Ginsberg",
+95
+],
+[
+"Konrad Lorenz",
+95
+],
+[
+"Pär Lagerkvist",
+95
+],
+[
+"Annie Ernaux",
+94
+],
+[
+"Josephus",
+94
+],
+[
+"Torquato Tasso",
+94
+],
+[
+"Albertus Magnus",
+94
+],
+[
+"Frederick II, Holy Roman Emperor",
+93
+],
+[
+"Saint-John Perse",
+93
+],
+[
+"Marguerite Yourcenar",
+93
+],
+[
+"James Fenimore Cooper",
+93
+],
+[
+"Peter Handke",
+93
+],
+[
+"Basil of Caesarea",
+93
+],
+[
+"Friedrich Wilhelm Joseph Schelling",
+93
+],
+[
+"John Updike",
+92
+],
+[
+"Patrick White",
+92
+],
+[
+"Philip Roth",
+92
+],
+[
+"Anselm of Canterbury",
+92
+],
+[
+"Benedict of Nursia",
+92
+],
+[
+"Ludovico Ariosto",
+92
+],
+[
+"Frank Herbert",
+92
+],
+[
+"Hilary Duff",
+91
+],
+[
+"Karl Adolph Gjellerup",
+91
+],
+[
+"Claude Simon",
+91
+],
+[
+"Bernard of Clairvaux",
+91
+],
+[
+"Edward Said",
+91
+],
+[
+"Colette",
+91
+],
+[
+"Judith Butler",
+91
+],
+[
+"Anaïs Nin",
+91
+],
+[
+"Nizami Ganjavi",
+91
+],
+[
+"Pius II",
+90
+],
+[
+"Urban VIII",
+90
+],
+[
+"Alberto Moravia",
+90
+],
+[
+"Julio Cortázar",
+90
+],
+[
+"Ivan Krylov",
+90
+],
+[
+"Enid Blyton",
+90
+],
+[
+"Marshall McLuhan",
+90
+],
+[
+"Martial",
+90
+],
+[
+"B.F. Skinner",
+90
+],
+[
+"Henrik Pontoppidan",
+90
+],
+[
+"Elizabeth Barrett Browning",
+90
+],
+[
+"Edith Wharton",
+90
+],
+[
+"Abdulrazak Gurnah",
+90
+],
+[
+"Ibn Arabi",
+90
+],
+[
+"Italo Calvino",
+89
+],
+[
+"André Breton",
+89
+],
+[
+"Peter Ustinov",
+89
+],
+[
+"Stéphane Mallarmé",
+89
+],
+[
+"Georges Simenon",
+88
+],
+[
+"Raymond Chandler",
+88
+],
+[
+"Gilles Deleuze",
+88
+],
+[
+"Langston Hughes",
+88
+],
+[
+"Ben Jonson",
+88
+],
+[
+"Nikolay Nekrasov",
+88
+],
+[
+"Yuval Noah Harari",
+88
+],
+[
+"Gregory of Nazianzus",
+88
+],
+[
+"Robert Musil",
+88
+],
+[
+"Paul Krugman",
+87
+],
+[
+"Erik Axel Karlfeldt",
+87
+],
+[
+"Boniface VIII",
+87
+],
+[
+"Bede",
+87
+],
+[
+"Alexander III",
+87
+],
+[
+"Ismail Kadare",
+87
+],
+[
+"Norman Mailer",
+87
+],
+[
+"Mario Puzo",
+87
+],
+[
+"Ivan Goncharov",
+87
+],
+[
+"Khaled Hosseini",
+87
+],
+[
+"Ngũgĩ wa Thiong'o",
+87
+],
+[
+"Gregory IX",
+86
+],
+[
+"Eyvind Johnson",
+86
+],
+[
+"Odysseas Elytis",
+86
+],
+[
+"Justus von Liebig",
+86
+],
+[
+"Fuzuli",
+86
+],
+[
+"Joseph Stiglitz",
+86
+],
+[
+"E. M. Forster",
+86
+],
+[
+"Carl Sandburg",
+86
+],
+[
+"Jami",
+86
+],
+[
+"Kabir",
+86
+],
+[
+"Athanasius of Alexandria",
+86
+],
+[
+"Frans Eemil Sillanpää",
+85
+],
+[
+"Edgar Rice Burroughs",
+85
+],
+[
+"Françoise Sagan",
+85
+],
+[
+"Nicolas Boileau-Despréaux",
+85
+],
+[
+"Nikolay Karamzin",
+85
+],
+[
+"Vyasa",
+85
+],
+[
+"France Prešeren",
+84
+],
+[
+"Harry Martinson",
+84
+],
+[
+"Isidore of Seville",
+84
+],
+[
+"Michael Crichton",
+84
+],
+[
+"Roland Barthes",
+84
+],
+[
+"Gertrude Stein",
+84
+],
+[
+"Lucan",
+84
+],
+[
+"George Santayana",
+84
+],
+[
+"Muḥammad ibn Ismā‘īl al-Bukhārī",
+84
+],
+[
+"Arthur Schnitzler",
+84
+],
+[
+"Jordan Peterson",
+84
+],
+[
+"Michel Houellebecq",
+83
+],
+[
+"John Bunyan",
+83
+],
+[
+"Viktor Frankl",
+83
+],
+[
+"Origen",
+83
+],
+[
+"Emil Cioran",
+83
+],
+[
+"Francisco Quevedo",
+83
+],
+[
+"Jerome K. Jerome",
+83
+],
+[
+"Oliver Goldsmith",
+83
+],
+[
+"Heinrich Mann",
+83
+],
+[
+"Germaine Greer",
+82
+],
+[
+"Carl Maria von Weber",
+82
+],
+[
+"Ernest Renan",
+82
+],
+[
+"Jacques Brel",
+82
+],
+[
+"Amélie Nothomb",
+82
+],
+[
+"Premchand",
+82
+],
+[
+"John of the Cross",
+82
+],
+[
+"Vissarion Belinsky",
+82
+],
+[
+"A. A. Milne",
+82
+],
+[
+"Neil Gaiman",
+82
+],
+[
+"Al-Shafi'i",
+82
+],
+[
+"Henry Fielding",
+82
+],
+[
+"Luc Besson",
+82
+],
+[
+"Baron d'Holbach",
+82
+],
+[
+"Báb",
+81
+],
+[
+"Carlos Fuentes",
+81
+],
+[
+"Jacques Prévert",
+81
+],
+[
+"James Baldwin",
+81
+],
+[
+"Ethan Hawke",
+81
+],
+[
+"Christopher Hitchens",
+81
+],
+[
+"Tom Clancy",
+80
+],
+[
+"Eusebius of Caesarea",
+80
+],
+[
+"Marguerite Duras",
+80
+],
+[
+"Nâzım Hikmet",
+80
+],
+[
+"Francis Fukuyama",
+80
+],
+[
+"Cesare Pavese",
+80
+],
+[
+"Dian Fossey",
+80
+],
+[
+"Christine de Pizan",
+80
+],
+[
+"Ibn Taymiyyah",
+80
+],
+[
+"John of Damascus",
+80
+],
+[
+"Valmiki",
+80
+],
+[
+"Elias Lönnrot",
+79
+],
+[
+"John XXII",
+79
+],
+[
+"Amir Khusrau",
+79
+],
+[
+"John le Carré",
+79
+],
+[
+"Laurence Sterne",
+79
+],
+[
+"Anne Carson",
+79
+],
+[
+"Hippolyte Taine",
+79
+],
+[
+"Dr. Seuss",
+79
+],
+[
+"Bonaventure",
+79
+],
+[
+"Dietrich Bonhoeffer",
+79
+],
+[
+"Ludwig von Mises",
+79
+],
+[
+"Martin Buber",
+79
+],
+[
+"Julia Kristeva",
+78
+],
+[
+"Rubén Darío",
+78
+],
+[
+"Jostein Gaarder",
+78
+],
+[
+"Helena Blavatsky",
+78
+],
+[
+"Iris Murdoch",
+78
+],
+[
+"Thomas à Kempis",
+78
+],
+[
+"Aphra Behn",
+78
+],
+[
+"Elif Şafak",
+78
+],
+[
+"Xuanzang",
+78
+],
+[
+"Edmund Spenser",
+78
+],
+[
+"Werner Herzog",
+78
+],
+[
+"Alfonso X of Castile and Leon",
+78
+],
+[
+"David Duchovny",
+78
+],
+[
+"Theodore Dreiser",
+78
+],
+[
+"Pierre de Ronsard",
+78
+],
+[
+"Theodor Fontane",
+78
+],
+[
+"Errol Flynn",
+78
+],
+[
+"Stephenie Meyer",
+77
+],
+[
+"Ugo Foscolo",
+77
+],
+[
+"Jean Anouilh",
+77
+],
+[
+"Giovanni Pico della Mirandola",
+77
+],
+[
+"Dylan Thomas",
+77
+],
+[
+"Tommaso Campanella",
+77
+],
+[
+"Robert Graves",
+77
+],
+[
+"John Wesley",
+77
+],
+[
+"Paul Auster",
+77
+],
+[
+"Anthony Burgess",
+77
+],
+[
+"Theocritus",
+77
+],
+[
+"André Maurois",
+77
+],
+[
+"John Cleese",
+77
+],
+[
+"Aleksandr Kuprin",
+77
+],
+[
+"Alfred de Vigny",
+77
+],
+[
+"Thomas Pynchon",
+77
+],
+[
+"Jon Fosse",
+77
+],
+[
+"Patti Smith",
+77
+],
+[
+"Wu Zetian",
+77
+],
+[
+"Karl Barth",
+76
+],
+[
+"Clement of Alexandria",
+76
+],
+[
+"Philo of Alexandria",
+76
+],
+[
+"Nikolay Chernyshevsky",
+76
+],
+[
+"Mahmoud Darwish",
+76
+],
+[
+"Bella Thorne",
+76
+],
+[
+"Guillermo del Toro",
+76
+],
+[
+"Larry David",
+76
+],
+[
+"Paul Claudel",
+76
+],
+[
+"Eric Hobsbawm",
+76
+],
+[
+"Friedrich Schlegel",
+75
+],
+[
+"Michael Moore",
+75
+],
+[
+"Philip Pullman",
+75
+],
+[
+"Ramon Llull",
+75
+],
+[
+"Marcus Terentius Varro",
+75
+],
+[
+"L. Frank Baum",
+75
+],
+[
+"Richard Bach",
+75
+],
+[
+"Matthew Arnold",
+75
+],
+[
+"Frances Hodgson Burnett",
+75
+],
+[
+"Baltasar Gracián",
+75
+],
+[
+"Chrétien de Troyes",
+75
+],
+[
+"Jean Paul",
+75
+],
+[
+"Harry Mulisch",
+75
+],
+[
+"Tibullus",
+74
+],
+[
+"Kōbō Abe",
+74
+],
+[
+"Osip Mandelstam",
+74
+],
+[
+"Daphne du Maurier",
+74
+],
+[
+"Mani",
+74
+],
+[
+"Isocrates",
+74
+],
+[
+"Yevgeny Yevtushenko",
+74
+],
+[
+"Jules Michelet",
+74
+],
+[
+"Jules Renard",
+74
+],
+[
+"Karl Kraus",
+74
+],
+[
+"Heinrich Schliemann",
+74
+],
+[
+"Max Frisch",
+73
+],
+[
+"Innocent II",
+73
+],
+[
+"Anne Rice",
+73
+],
+[
+"William Godwin",
+73
+],
+[
+"Gérard de Nerval",
+73
+],
+[
+"Yevgeny Zamyatin",
+73
+],
+[
+"William Saroyan",
+73
+],
+[
+"Akira Toriyama",
+73
+],
+[
+"Dorothy Parker",
+73
+],
+[
+"Cormac McCarthy",
+73
+],
+[
+"Sam Harris",
+73
+],
+[
+"Eduardo Galeano",
+73
+],
+[
+"Hugo von Hofmannsthal",
+73
+],
+[
+"Michael Ende",
+73
+],
+[
+"Arthur Koestler",
+73
+],
+[
+"Propertius",
+73
+],
+[
+"Amin Maalouf",
+72
+],
+[
+"Richard Francis Burton",
+72
+],
+[
+"Dashiell Hammett",
+72
+],
+[
+"Marsilio Ficino",
+72
+],
+[
+"Kenneth Arrow",
+72
+],
+[
+"Charles Richet",
+72
+],
+[
+"Alejo Carpanter",
+72
+],
+[
+"Konstantinos P. Cavafy",
+72
+],
+[
+"François Fénelon",
+72
+],
+[
+"Sacha Guitry",
+72
+],
+[
+"Jhumpa Lahiri",
+72
+],
+[
+"Ennius",
+72
+],
+[
+"László Krasznahorkai",
+72
+],
+[
+"Friedrich Max Müller",
+72
+],
+[
+"Emperor Wu of Han",
+72
+],
+[
+"Erich Kästner",
+72
+],
+[
+"Evelyn Waugh",
+71
+],
+[
+"Natsume Sōseki",
+71
+],
+[
+"Pierre Teilhard de Chardin",
+71
+],
+[
+"Georges Bataille",
+71
+],
+[
+"Sei Shōnagon",
+71
+],
+[
+"Rudaki",
+71
+],
+[
+"Ali-Shir Nava'i",
+71
+],
+[
+"Ernst Jünger",
+71
+],
+[
+"Marie von Ebner-Eschenbach",
+71
+],
+[
+"Johanna Spyri",
+70
+],
+[
+"Procopius",
+70
+],
+[
+"Edward O. Wilson",
+70
+],
+[
+"Karl May",
+70
+],
+[
+"Suzanne Collins",
+70
+],
+[
+"Nellie Bly",
+70
+],
+[
+"Enheduanna",
+70
+],
+[
+"Betty Friedan",
+70
+],
+[
+"H. Rider Haggard",
+70
+],
+[
+"Antonio Machado",
+70
+],
+[
+"Ken Kesey",
+70
+],
+[
+"Chuck Palahniuk",
+70
+],
+[
+"Mircea Eliade",
+70
+],
+[
+"Wilhelm Reich",
+70
+],
+[
+"Radoje Domanović",
+69
+],
+[
+"Adelbert von Chamisso",
+69
+],
+[
+"Muhammad ibn Jarir al-Tabari",
+69
+],
+[
+"Emile Verhaeren",
+69
+],
+[
+"Attar of Nishapur",
+69
+],
+[
+"Alan Moore",
+69
+],
+[
+"Taslima Nasrin",
+69
+],
+[
+"Wilkie Collins",
+69
+],
+[
+"Cyrano de Bergerac",
+69
+],
+[
+"Nora Ephron",
+69
+],
+[
+"Daniel Dennett",
+69
+],
+[
+"Charles Nicolle",
+69
+],
+[
+"Naomi Klein",
+69
+],
+[
+"Katherine Mansfield",
+69
+],
+[
+"Lucy Maud Montgomery",
+69
+],
+[
+"Tom Stoppard",
+69
+],
+[
+"Leonid Andreyev",
+69
+],
+[
+"Will Durant",
+69
+],
+[
+"John Henry Newman",
+69
+],
+[
+"Isaak Babel",
+69
+],
+[
+"Jordanes",
+68
+],
+[
+"Thornton Wilder",
+68
+],
+[
+"Vasily Zhukovsky",
+68
+],
+[
+"Zygmunt Bauman",
+68
+],
+[
+"Stieg Larsson",
+68
+],
+[
+"Geoffrey of Monmouth",
+68
+],
+[
+"Margaret of Valois-Angoulême",
+68
+],
+[
+"Vuk Karadžić",
+68
+],
+[
+"Porphyry",
+68
+],
+[
+"Mikhail Saltykov-Shchedrin",
+68
+],
+[
+"Elizabeth Gaskell",
+68
+],
+[
+"Bahadur Shah Zafar",
+67
+],
+[
+"William Gibson",
+67
+],
+[
+"Cyprian",
+67
+],
+[
+"Archilochus of Paros",
+67
+],
+[
+"Jared Diamond",
+67
+],
+[
+"Joseph Heller",
+67
+],
+[
+"Sherwood Anderson",
+67
+],
+[
+"Marcel Pagnol",
+67
+],
+[
+"Sholem Aleichem",
+67
+],
+[
+"André Chénier",
+67
+],
+[
+"Machado de Assis",
+67
+],
+[
+"Thomas Moore",
+67
+],
+[
+"Publilius Syrus",
+67
+],
+[
+"Sidney Sheldon",
+66
+],
+[
+"Patrick Süskind",
+66
+],
+[
+"James George Frazer",
+66
+],
+[
+"Friedrich Gottlieb Klopstock",
+66
+],
+[
+"Roman Jakobson",
+66
+],
+[
+"Jan Neruda",
+66
+],
+[
+"Paulo Freire",
+66
+],
+[
+"Appian",
+66
+],
+[
+"Callimachus",
+66
+],
+[
+"Stephen Fry",
+66
+],
+[
+"Osamu Tezuka",
+66
+],
+[
+"Edmond Rostand",
+66
+],
+[
+"Willie Nelson",
+66
+],
+[
+"P. G. Wodehouse",
+66
+],
+[
+"John Fowles",
+66
+],
+[
+"Zora Neale Hurston",
+66
+],
+[
+"Christina Rossetti",
+66
+],
+[
+"Juliusz Słowacki",
+66
+],
+[
+"Andrzej Sapkowski",
+66
+],
+[
+"H. L. Mencken",
+66
+],
+[
+"John Green",
+66
+],
+[
+"Joseph Roth",
+66
+],
+[
+"Richard Owen",
+65
+],
+[
+"Amos Oz",
+65
+],
+[
+"Multatuli",
+65
+],
+[
+"Alcuin",
+65
+],
+[
+"Romain Gary",
+65
+],
+[
+"Carlos Castañeda",
+65
+],
+[
+"Raymond Aron",
+65
+],
+[
+"William Carlos Williams",
+65
+],
+[
+"Ronald Coase",
+65
+],
+[
+"Qianlong Emperor",
+65
+],
+[
+"Gianni Rodari",
+65
+],
+[
+"Timothy Leary",
+65
+],
+[
+"Jon Stewart",
+65
+],
+[
+"Yazid I",
+65
+],
+[
+"César Vallejo",
+65
+],
+[
+"Michael Palin",
+65
+],
+[
+"Willa Cather",
+65
+],
+[
+"Ricky Gervais",
+65
+],
+[
+"Vladimir Solovyov",
+65
+],
+[
+"Joseph Campbell",
+65
+],
+[
+"Thích Nhất Hạnh",
+65
+],
+[
+"Osamu Dazai",
+65
+],
+[
+"Ram Mohan Roy",
+65
+],
+[
+"Phaedrus",
+65
+],
+[
+"Hergé",
+65
+],
+[
+"Friedrich Hebbel",
+65
+],
+[
+"Leopold von Sacher-Masoch",
+65
+],
+[
+"Zeami Motokiyo",
+64
+],
+[
+"Alexander Ostrovsky",
+64
+],
+[
+"Mansur Al-Hallaj",
+64
+],
+[
+"Josemaría Escrivá",
+64
+],
+[
+"Ian McEwan",
+64
+],
+[
+"Henning Mankell",
+64
+],
+[
+"Stephen Crane",
+64
+],
+[
+"Nicholas Sparks",
+64
+],
+[
+"Luis de Góngora",
+64
+],
+[
+"Dionysius of Halicarnassus",
+64
+],
+[
+"Eugène Viollet-le-Duc",
+64
+],
+[
+"Camille Flammarion",
+64
+],
+[
+"Carlos Ruiz Zafón",
+64
+],
+[
+"Abay Kunanbaiuly",
+64
+],
+[
+"Jean Giraudoux",
+64
+],
+[
+"Vladimir Korolenko",
+64
+],
+[
+"Philip Reeve",
+64
+],
+[
+"Assia Djebar",
+63
+],
+[
+"Steve Martin",
+63
+],
+[
+"Jean Genet",
+63
+],
+[
+"Jean-François Lyotard",
+63
+],
+[
+"Aleksey Konstantinovich Tolstoy",
+63
+],
+[
+"Edward Albee",
+63
+],
+[
+"Kiran Desai",
+63
+],
+[
+"Erica Jong",
+63
+],
+[
+"Publius Papinius Statius",
+63
+],
+[
+"al-Ma'arri",
+63
+],
+[
+"Julian Barnes",
+63
+],
+[
+"Alvin Toffler",
+63
+],
+[
+"Georges Bernanos",
+63
+],
+[
+"Oliver Wendell Holmes",
+63
+],
+[
+"Moses Mendelssohn",
+63
+],
+[
+"Franz Werfel",
+63
+],
+[
+"Ivar Andreas Aasen",
+62
+],
+[
+"Bolesław Prus",
+62
+],
+[
+"Alexander Griboyedov",
+62
+],
+[
+"Johannes Scotus Eriugena",
+62
+],
+[
+"Robert E. Howard",
+62
+],
+[
+"Joyce Carol Oates",
+62
+],
+[
+"bell hooks",
+62
+],
+[
+"Pietro Metastasio",
+62
+],
+[
+"Jeffrey Sachs",
+62
+],
+[
+"Hilary of Poitiers",
+62
+],
+[
+"Walther von der Vogelweide",
+62
+],
+[
+"Rainer Werner Fassbinder",
+62
+],
+[
+"Ernst Mayr",
+62
+],
+[
+"Ludwig Achim von Arnim",
+62
+],
+[
+"Lion Feuchtwanger",
+62
+],
+[
+"Georg Trakl",
+62
+],
+[
+"Boris Akunin",
+61
+],
+[
+"Zadie Smith",
+61
+],
+[
+"Paul Celan",
+61
+],
+[
+"Christoph Martin Wieland",
+61
+],
+[
+"Alfred Kinsey",
+61
+],
+[
+"Gene Roddenberry",
+61
+],
+[
+"René Goscinny",
+61
+],
+[
+"Mika Waltari",
+61
+],
+[
+"Paul Bourget",
+61
+],
+[
+"Jo Nesbø",
+61
+],
+[
+"Andrei Bely",
+61
+],
+[
+"Stephen Colbert",
+61
+],
+[
+"Jeremy Clarkson",
+61
+],
+[
+"Italo Svevo",
+61
+],
+[
+"Ann Radcliffe",
+61
+],
+[
+"Donna Tartt",
+61
+],
+[
+"Anton LaVey",
+61
+],
+[
+"Edgar Wallace",
+61
+],
+[
+"Vittorio Alfieri",
+61
+],
+[
+"Algernon Charles Swinburne",
+61
+],
+[
+"Joseph of Anchieta",
+61
+],
+[
+"Thomas De Quincey",
+61
+],
+[
+"Korney Chukovsky",
+61
+],
+[
+"John Muir",
+61
+],
+[
+"Meera",
+61
+],
+[
+"Pierre de Marivaux",
+61
+],
+[
+"Charles Lyell",
+61
+],
+[
+"Ludwig Tieck",
+61
+],
+[
+"Alfred Döblin",
+61
+],
+[
+"Anna Seghers",
+61
+],
+[
+"Edna St. Vincent Millay",
+61
+],
+[
+"Klaus Mann",
+61
+],
+[
+"Cornelius Nepos",
+60
+],
+[
+"Yann Martel",
+60
+],
+[
+"Joachim du Bellay",
+60
+],
+[
+"Wolfram von Eschenbach",
+60
+],
+[
+"Livius Andronicus",
+60
+],
+[
+"Nikolai Leskov",
+60
+],
+[
+"Joris-Karl Huysmans",
+60
+],
+[
+"Lorenzo Valla",
+60
+],
+[
+"Ludvig Holberg",
+60
+],
+[
+"Aleksis Kivi",
+60
+],
+[
+"George Gurdjieff",
+60
+],
+[
+"Kingsley Amis",
+60
+],
+[
+"Sextus Empiricus",
+60
+],
+[
+"Laura Ingalls Wilder",
+60
+],
+[
+"Andrea Dworkin",
+60
+],
+[
+"Maria Konopnicka",
+60
+],
+[
+"Lina Kostenko",
+60
+],
+[
+"Murray Rothbard",
+60
+],
+[
+"Robert Bellarmine",
+60
+],
+[
+"Charles Marie René Leconte de Lisle",
+60
+],
+[
+"Martin Amis",
+60
+],
+[
+"Thomas Wolfe",
+60
+],
+[
+"Valery Bryusov",
+60
+],
+[
+"Richard Matheson",
+60
+],
+[
+"Vladimir Dal",
+60
+],
+[
+"Charles Péguy",
+60
+],
+[
+"Bankim Chandra Chatterjee",
+60
+],
+[
+"Audre Lorde",
+60
+],
+[
+"Marie de France",
+60
+],
+[
+"Bettina von Arnim",
+60
+],
+[
+"Eckhart Tolle",
+60
+],
+[
+"Danielle Steel",
+60
+],
+[
+"Yeghishe Charents",
+60
+],
+[
+"Emmanuel Levinas",
+59
+],
+[
+"Božena Němcová",
+59
+],
+[
+"Juan Rulfo",
+59
+],
+[
+"Eric Idle",
+59
+],
+[
+"Ferdinand Tönnies",
+59
+],
+[
+"Johan Ludvig Runeberg",
+59
+],
+[
+"Robert Fogel",
+59
+],
+[
+"Theodor Storm",
+59
+],
+[
+"Witold Gombrowicz",
+59
+],
+[
+"Al-Jahiz",
+59
+],
+[
+"Comte de Lautréamont",
+59
+],
+[
+"Antoine François Prévost",
+59
+],
+[
+"Bernard-Henri Lévy",
+59
+],
+[
+"William Cowper",
+59
+],
+[
+"Thomas Bernhard",
+59
+],
+[
+"Rosalía de Castro",
+59
+],
+[
+"Forugh Farrokhzad",
+59
+],
+[
+"August Wilhelm von Schlegel",
+59
+],
+[
+"Jakob Böhme",
+59
+],
+[
+"Joseph von Eichendorff",
+59
+],
+[
+"Ingeborg Bachmann",
+59
+],
+[
+"George Meredith",
+59
+],
+[
+"Herbert C. Brown",
+58
+],
+[
+"Nick Cave",
+58
+],
+[
+"Claudian",
+58
+],
+[
+"Mikael Agricola",
+58
+],
+[
+"A. S. Byatt",
+58
+],
+[
+"Flannery O'Connor",
+58
+],
+[
+"Rebecca West",
+58
+],
+[
+"Victor Pelevin",
+58
+],
+[
+"Margaret Fuller",
+58
+],
+[
+"Max Brod",
+58
+],
+[
+"James Randi",
+58
+],
+[
+"Pietro Aretino",
+58
+],
+[
+"Abu Talib ibn ‘Abd al-Muttalib",
+58
+],
+[
+"Joss Whedon",
+58
+],
+[
+"John Irving",
+58
+],
+[
+"Mirza Ghulam Ahmad",
+58
+],
+[
+"Velimir Khlebnikov",
+58
+],
+[
+"George A. Romero",
+58
+],
+[
+"Wilhelm Hauff",
+58
+],
+[
+"Yusuf al-Qaradawi",
+58
+],
+[
+"Wilhelm Grimm",
+58
+],
+[
+"Christopher Paolini",
+58
+],
+[
+"Howard Zinn",
+57
+],
+[
+"J. G. Ballard",
+57
+],
+[
+"Eric Kandel",
+57
+],
+[
+"A. J. Cronin",
+57
+],
+[
+"Guillaume de Machaut",
+57
+],
+[
+"Angus Deaton",
+57
+],
+[
+"Lactantius",
+57
+],
+[
+"Rick Riordan",
+57
+],
+[
+"John Millington Synge",
+57
+],
+[
+"Orson Scott Card",
+57
+],
+[
+"Colleen McCullough",
+57
+],
+[
+"Chelsea Clinton",
+57
+],
+[
+"Solomon ibn Gabirol",
+57
+],
+[
+"Oliver Sacks",
+57
+],
+[
+"Joan Didion",
+57
+],
+[
+"Ted Hughes",
+57
+],
+[
+"Charlotte Perkins Gilman",
+57
+],
+[
+"Sam Shepard",
+57
+],
+[
+"Samuel Richardson",
+57
+],
+[
+"Garcilaso de la Vega",
+57
+],
+[
+"Nikolay Dobrolyubov",
+57
+],
+[
+"Pierre Loti",
+57
+],
+[
+"Stephen Covey",
+57
+],
+[
+"Ali ibn al-Husayn Zayn al-'Abidin",
+57
+],
+[
+"Maurice Leblanc",
+57
+],
+[
+"Denis Fonvizin",
+57
+],
+[
+"Ibn Hazm",
+57
+],
+[
+"Eino Leino",
+57
+],
+[
+"Jacques-Henri Bernardin de Saint-Pierre",
+57
+],
+[
+"Charles Lamb",
+57
+],
+[
+"Pompeu Fabra",
+57
+],
+[
+"Ravindra Prabhat",
+57
+],
+[
+"Vegetius",
+57
+],
+[
+"Hilary Mantel",
+57
+],
+[
+"Kevin Smith",
+57
+],
+[
+"Elisabeth of Wied",
+57
+],
+[
+"Friedrich Rückert",
+57
+],
+[
+"Gregory of Tours",
+57
+],
+[
+"Hans Morgenthau",
+57
+],
+[
+"Emperor Taizong of Tang",
+57
+],
+[
+"Thomas Piketty",
+57
+],
+[
+"Dorothy L. Sayers",
+56
+],
+[
+"Jean Giono",
+56
+],
+[
+"Georges Duhamel",
+56
+],
+[
+"Élisée Reclus",
+56
+],
+[
+"Ken Follett",
+56
+],
+[
+"Alain Robbe-Grillet",
+56
+],
+[
+"Ryszard Kapuściński",
+56
+],
+[
+"Lawrence Durrell",
+56
+],
+[
+"Raymond Carver",
+56
+],
+[
+"P. L. Travers",
+56
+],
+[
+"Kate Chopin",
+56
+],
+[
+"Carson McCullers",
+56
+],
+[
+"Sofi Oksanen",
+56
+],
+[
+"Lydia Koidula",
+56
+],
+[
+"Bohumil Hrabal",
+56
+],
+[
+"Adrienne Rich",
+56
+],
+[
+"Roald Hoffmann",
+56
+],
+[
+"Tirso de Molina",
+56
+],
+[
+"Anton Makarenko",
+56
+],
+[
+"Guy Debord",
+56
+],
+[
+"Noël Coward",
+56
+],
+[
+"Bob Woodward",
+56
+],
+[
+"David Foster Wallace",
+56
+],
+[
+"Thomas Browne",
+56
+],
+[
+"Frédéric Beigbeder",
+56
+],
+[
+"Marcel Achard",
+56
+],
+[
+"Kazi Nazrul Islam",
+56
+],
+[
+"Hryhorii Skovoroda",
+56
+],
+[
+"Robert J. Shiller",
+56
+],
+[
+"Christian Morgenstern",
+56
+],
+[
+"Stefan George",
+56
+],
+[
+"Zinaida Gippius",
+56
+],
+[
+"Sadhguru",
+56
+],
+[
+"Ivan Illich",
+56
+],
+[
+"Dorothy Day",
+55
+],
+[
+"Georges Perec",
+55
+],
+[
+"Wallace Stevens",
+55
+],
+[
+"Sébastien Le Prestre de Vauban",
+55
+],
+[
+"Wilfred Owen",
+55
+],
+[
+"Alexander Radishchev",
+55
+],
+[
+"Varlam Shalamov",
+55
+],
+[
+"Pío Baroja",
+55
+],
+[
+"Robert Ludlum",
+55
+],
+[
+"Antonio Tabucchi",
+55
+],
+[
+"Rem Koolhaas",
+55
+],
+[
+"Erasmus Darwin",
+55
+],
+[
+"Harriet Martineau",
+55
+],
+[
+"Bulat Okudzhava",
+55
+],
+[
+"Gayatri Chakravorty Spivak",
+55
+],
+[
+"Julian Huxley",
+55
+],
+[
+"Frederick Forsyth",
+55
+],
+[
+"Étienne Bonnot de Condillac",
+55
+],
+[
+"Ellen G. White",
+55
+],
+[
+"Roger Zelazny",
+55
+],
+[
+"Aaron Sorkin",
+55
+],
+[
+"Emilio Salgari",
+55
+],
+[
+"Iain Banks",
+55
+],
+[
+"Arnold Bennett",
+55
+],
+[
+"Konstantin Balmont",
+55
+],
+[
+"Thomas Gray",
+55
+],
+[
+"José Maria de Eça de Queirós",
+55
+],
+[
+"Yaşar Kemal",
+55
+],
+[
+"Makoto Shinkai",
+55
+],
+[
+"Sándor Márai",
+55
+],
+[
+"Adunis",
+55
+],
+[
+"Laura Mancinelli",
+55
+],
+[
+"Clemens Brentano",
+55
+],
+[
+"Wilhelm Dilthey",
+55
+],
+[
+"Alfred Jarry",
+55
+],
+[
+"Clément Marot",
+54
+],
+[
+"Edmond de Goncourt",
+54
+],
+[
+"Lev Gumilev",
+54
+],
+[
+"Milorad Pavić",
+54
+],
+[
+"Leszek Kołakowski",
+54
+],
+[
+"Joseph Dalton Hooker",
+54
+],
+[
+"Alexander Berkman",
+54
+],
+[
+"ʻAbdu'l-Bahá",
+54
+],
+[
+"Pierre Boulle",
+54
+],
+[
+"Nora Roberts",
+54
+],
+[
+"Hélène Cixous",
+54
+],
+[
+"Dubravka Ugrešić",
+54
+],
+[
+"Alfonsina Storni",
+54
+],
+[
+"Brian Aldiss",
+54
+],
+[
+"Carol Burnett",
+54
+],
+[
+"Clifford D. Simak",
+54
+],
+[
+"Roberto Bolaño",
+54
+],
+[
+"Raymond Kurzweil",
+54
+],
+[
+"Don DeLillo",
+54
+],
+[
+"Charles I, Duke of Orléans",
+54
+],
+[
+"Georges Sorel",
+54
+],
+[
+"Sadegh Hedayat",
+54
+],
+[
+"Andrei Platonov",
+54
+],
+[
+"Vasily Shukshin",
+54
+],
+[
+"Elena Ferrante",
+54
+],
+[
+"Henry de Montherlant",
+54
+],
+[
+"René Guénon",
+54
+],
+[
+"Peter Brook",
+54
+],
+[
+"Kurt Tucholsky",
+54
+],
+[
+"Frank Wedekind",
+54
+],
+[
+"Gustav Meyrink",
+54
+],
+[
+"David Graeber",
+53
+],
+[
+"Peter Bogdanovich",
+53
+],
+[
+"David Grossman",
+53
+],
+[
+"Paul the Deacon",
+53
+],
+[
+"Irvine Welsh",
+53
+],
+[
+"Endre Ady",
+53
+],
+[
+"Harsha",
+53
+],
+[
+"Mary Higgins Clark",
+53
+],
+[
+"Muriel Spark",
+53
+],
+[
+"Madame de Lafayette",
+53
+],
+[
+"Karin Boye",
+53
+],
+[
+"Maria Edgeworth",
+53
+],
+[
+"Daniil Kharms",
+53
+],
+[
+"Alphonsus Maria de Liguori",
+53
+],
+[
+"Aravind Adiga",
+53
+],
+[
+"Gaston Leroux",
+53
+],
+[
+"Gerald Durrell",
+53
+],
+[
+"Wallace Shawn",
+53
+],
+[
+"Curzio Malaparte",
+53
+],
+[
+"Vasily Grossman",
+53
+],
+[
+"Kenneth Grahame",
+53
+],
+[
+"Jules Amédée Barbey d'Aurevilly",
+53
+],
+[
+"Ali Shariati",
+53
+],
+[
+"Nestor the Chronicler",
+53
+],
+[
+"R. L. Stine",
+53
+],
+[
+"Lin Yutang",
+53
+],
+[
+"Remy de Gourmont",
+53
+],
+[
+"George MacDonald",
+53
+],
+[
+"Konstantin Paustovsky",
+53
+],
+[
+"Eldar Ryazanov",
+53
+],
+[
+"Nizar Qabbani",
+53
+],
+[
+"Akiko Yosano",
+53
+],
+[
+"Richard Aldington",
+53
+],
+[
+"Else Lasker-Schüler",
+53
+],
+[
+"Tyler Perry",
+53
+],
+[
+"Cees Nooteboom",
+52
+],
+[
+"Felix Salten",
+52
+],
+[
+"Eric S. Raymond",
+52
+],
+[
+"Chris Colfer",
+52
+],
+[
+"Errico Malatesta",
+52
+],
+[
+"Poul Anderson",
+52
+],
+[
+"David Garrick",
+52
+],
+[
+"Aimé Césaire",
+52
+],
+[
+"Annie Proulx",
+52
+],
+[
+"Mary Baker Eddy",
+52
+],
+[
+"Octavia E. Butler",
+52
+],
+[
+"William Styron",
+52
+],
+[
+"Graham Chapman",
+52
+],
+[
+"Phillis Wheatley",
+52
+],
+[
+"Elsa Morante",
+52
+],
+[
+"Nathalie Sarraute",
+52
+],
+[
+"Ralph Ellison",
+52
+],
+[
+"Danilo Kiš",
+52
+],
+[
+"John Reed",
+52
+],
+[
+"Orosius",
+52
+],
+[
+"James Patterson",
+52
+],
+[
+"Giuseppe Ungaretti",
+52
+],
+[
+"Théodore de Banville",
+52
+],
+[
+"Lafcadio Hearn",
+52
+],
+[
+"János Arany",
+52
+],
+[
+"Richard Wright",
+52
+],
+[
+"Friedrich Reinhold Kreutzwald",
+52
+],
+[
+"Peter Christen Asbjørnsen",
+52
+],
+[
+"Julian Tuwim",
+52
+],
+[
+"Hovhannes Tumanyan",
+52
+],
+[
+"Jacques Maritain",
+52
+],
+[
+"Harry Harrison",
+52
+],
+[
+"Gottfried Benn",
+52
+],
+[
+"Eduard Mörike",
+52
+],
+[
+"Bernhard Schlink",
+52
+],
+[
+"Vicki Baum",
+52
+],
+[
+"Cory Doctorow",
+51
+],
+[
+"Elisabeth Kübler-Ross",
+51
+],
+[
+"Thomas Mayne Reid",
+51
+],
+[
+"Sergei Dovlatov",
+51
+],
+[
+"Eduard Uspensky",
+51
+],
+[
+"Henri Troyat",
+51
+],
+[
+"Frank Miller",
+51
+],
+[
+"Alexander Grin",
+51
+],
+[
+"Alexandra David-Néel",
+51
+],
+[
+"Angela Carter",
+51
+],
+[
+"Louise Labé",
+51
+],
+[
+"Karen Armstrong",
+51
+],
+[
+"Monique Wittig",
+51
+],
+[
+"Lyudmila Ulitskaya",
+51
+],
+[
+"Philip Zimbardo",
+51
+],
+[
+"Viktor Shklovsky",
+51
+],
+[
+"Aśvaghoṣa",
+51
+],
+[
+"Michael Ondaatje",
+51
+],
+[
+"Columella",
+51
+],
+[
+"Aziz Nesin",
+51
+],
+[
+"Olaf Stapledon",
+51
+],
+[
+"Harold Bloom",
+51
+],
+[
+"Alan Watts",
+51
+],
+[
+"Bruno Latour",
+51
+],
+[
+"Tobias Smollett",
+51
+],
+[
+"Valerius Maximus",
+51
+],
+[
+"Hans Magnus Enzensberger",
+51
+],
+[
+"Ben Shapiro",
+51
+],
+[
+"Sally Rooney",
+51
+],
+[
+"Norbert Elias",
+51
+],
+[
+"Rudolf Bultmann",
+51
+],
+[
+"Robert Walser",
+50
+],
+[
+"Blaise Cendrars",
+50
+],
+[
+"Charles Ferdinand Ramuz",
+50
+],
+[
+"Clark Gregg",
+50
+],
+[
+"Tom Wolfe",
+50
+],
+[
+"Temple Grandin",
+50
+],
+[
+"Amy Tan",
+50
+],
+[
+"Martha Nussbaum",
+50
+],
+[
+"Diana Wynne Jones",
+50
+],
+[
+"Lucía Etxebarria",
+50
+],
+[
+"Eliza Orzeszkowa",
+50
+],
+[
+"Bret Easton Ellis",
+50
+],
+[
+"Oksana Zabuzhko",
+50
+],
+[
+"Alain-René Lesage",
+50
+],
+[
+"Anita Desai",
+50
+],
+[
+"Éric-Emmanuel Schmitt",
+50
+],
+[
+"Charles M. Schulz",
+50
+],
+[
+"Judah Halevi",
+50
+],
+[
+"Christopher Isherwood",
+50
+],
+[
+"Manuel Castells",
+50
+],
+[
+"Lysias",
+50
+],
+[
+"Nikolay Gumilev",
+50
+],
+[
+"Harlan Ellison",
+50
+],
+[
+"Saki",
+50
+],
+[
+"Giorgio Agamben",
+50
+],
+[
+"William of Tyre",
+50
+],
+[
+"Hans Jakob Christoffel von Grimmelshausen",
+50
+],
+[
+"Robert Penn Warren",
+50
+],
+[
+"Aelian",
+50
+],
+[
+"John Osborne",
+50
+],
+[
+"Ousmane Sembène",
+50
+],
+[
+"Branislav Nušić",
+50
+],
+[
+"Lao She",
+50
+],
+[
+"Alexander Kielland",
+50
+],
+[
+"Dmitry Merezhkovsky",
+50
+],
+[
+"James A. Michener",
+50
+],
+[
+"William Congreve",
+50
+],
+[
+"Marie Stopes",
+50
+],
+[
+"Amanda Gorman",
+50
+],
+[
+"Havelock Ellis",
+50
+],
+[
+"Henri de Régnier",
+50
+],
+[
+"Anna de Noailles",
+50
+],
+[
+"Timothy Snyder",
+50
+],
+[
+"Hans Fallada",
+50
+],
+[
+"Nikolaus Lenau",
+50
+],
+[
+"William Caxton",
+50
+],
+[
+"Gerard Way",
+49
+],
+[
+"Kūkai",
+49
+],
+[
+"Sophie Kinsella",
+49
+],
+[
+"Cassandra Clare",
+49
+],
+[
+"Katherine Anne Porter",
+49
+],
+[
+"Banana Yoshimoto",
+49
+],
+[
+"Roberto Saviano",
+49
+],
+[
+"Tsitsi Dangarembga",
+49
+],
+[
+"Alain",
+49
+],
+[
+"Ferenc Molnár",
+49
+],
+[
+"Adolfo Bioy Casares",
+49
+],
+[
+"Bret Harte",
+49
+],
+[
+"Erskine Caldwell",
+49
+],
+[
+"Aulus Cornelius Celsus",
+49
+],
+[
+"Brendan Behan",
+49
+],
+[
+"John Banville",
+49
+],
+[
+"Richard Adams",
+49
+],
+[
+"Attila József",
+49
+],
+[
+"Mirza Fatali Akhundov",
+49
+],
+[
+"Seán O'Casey",
+49
+],
+[
+"Ben Okri",
+49
+],
+[
+"Coenraad Jacob Temminck",
+49
+],
+[
+"Shūsaku Endō",
+49
+],
+[
+"Ken Saro-Wiwa",
+49
+],
+[
+"Jonathan Franzen",
+49
+],
+[
+"Avvakum",
+49
+],
+[
+"Julien Green",
+49
+],
+[
+"Pierre Louÿs",
+49
+],
+[
+"Dalton Trumbo",
+49
+],
+[
+"Charles Kingsley",
+49
+],
+[
+"Irvin Yalom",
+49
+],
+[
+"Jens Peter Jacobsen",
+49
+],
+[
+"George Steiner",
+49
+],
+[
+"Maryse Condé",
+49
+],
+[
+"Edith Södergran",
+49
+],
+[
+"Alexander Belyayev",
+49
+],
+[
+"Liu Cixin",
+49
+],
+[
+"August Heinrich Hoffmann von Fallersleben",
+49
+],
+[
+"Aratus",
+48
+],
+[
+"Arto Paasilinna",
+48
+],
+[
+"Gottfried August Bürger",
+48
+],
+[
+"Peter Abrahams",
+48
+],
+[
+"Elizabeth Gilbert",
+48
+],
+[
+"Jeanette Winterson",
+48
+],
+[
+"Anne Tyler",
+48
+],
+[
+"Zygmunt Krasiński",
+48
+],
+[
+"Camille Paglia",
+48
+],
+[
+"Thomas Keneally",
+48
+],
+[
+"Ramón María del Valle-Inclán",
+48
+],
+[
+"Jeff Kinney",
+48
+],
+[
+"Nick Hornby",
+48
+],
+[
+"Michael Chabon",
+48
+],
+[
+"Robert Shaw",
+48
+],
+[
+"Philip Larkin",
+48
+],
+[
+"Jean Froissart",
+48
+],
+[
+"René Char",
+48
+],
+[
+"Guido Cavalcanti",
+48
+],
+[
+"Marcel Aymé",
+48
+],
+[
+"Rush Limbaugh",
+48
+],
+[
+"John Gay",
+48
+],
+[
+"Vsevolod Garshin",
+48
+],
+[
+"E. L. Doctorow",
+48
+],
+[
+"Amitav Ghosh",
+48
+],
+[
+"James Hadley Chase",
+48
+],
+[
+"Martin McDonagh",
+48
+],
+[
+"Giovanni Pascoli",
+48
+],
+[
+"Vikram Seth",
+48
+],
+[
+"Johann Nestroy",
+48
+],
+[
+"James Russell Lowell",
+48
+],
+[
+"Brandon Sanderson",
+48
+],
+[
+"August von Kotzebue",
+48
+],
+[
+"Cornelia Funke",
+48
+],
+[
+"Sebastian Brant",
+48
+],
+[
+"Josep Pla",
+48
+],
+[
+"Matthias Claudius",
+48
+],
+[
+"Ödön von Horváth",
+48
+],
+[
+"Antoni Grabowski",
+47
+],
+[
+"Barbara Kingsolver",
+47
+],
+[
+"Arturo Pérez-Reverte",
+47
+],
+[
+"Irène Némirovsky",
+47
+],
+[
+"Edna O'Brien",
+47
+],
+[
+"Colleen Hoover",
+47
+],
+[
+"Alesha Dixon",
+47
+],
+[
+"Hans Sachs",
+47
+],
+[
+"Eoin Colfer",
+47
+],
+[
+"Gnaeus Naevius",
+47
+],
+[
+"Lois McMaster Bujold",
+47
+],
+[
+"Edith Nesbit",
+47
+],
+[
+"Agathias",
+47
+],
+[
+"Theodosius Dobzhansky",
+47
+],
+[
+"Agnolo Poliziano",
+47
+],
+[
+"Eudora Welty",
+47
+],
+[
+"Frances Burney",
+47
+],
+[
+"Fredrika Bremer",
+47
+],
+[
+"Dean Koontz",
+47
+],
+[
+"Marianne Moore",
+47
+],
+[
+"Alessandro Baricco",
+47
+],
+[
+"Yannis Ritsos",
+47
+],
+[
+"Bacchylides",
+47
+],
+[
+"Joost van den Vondel",
+47
+],
+[
+"Tao Yuanming",
+47
+],
+[
+"Afanasy Fet",
+47
+],
+[
+"Ion Luca Caragiale",
+47
+],
+[
+"Ğabdulla Tuqay",
+47
+],
+[
+"Neil Simon",
+47
+],
+[
+"Jun'ichirō Tanizaki",
+47
+],
+[
+"Vasubandhu",
+47
+],
+[
+"Deepak Chopra",
+47
+],
+[
+"Miroslav Krleža",
+47
+],
+[
+"Pramoedya Ananta Toer",
+47
+],
+[
+"Luis Sepúlveda",
+47
+],
+[
+"Charles Nodier",
+47
+],
+[
+"John Cheever",
+47
+],
+[
+"Mori Ōgai",
+47
+],
+[
+"E. B. White",
+47
+],
+[
+"Stefan Żeromski",
+47
+],
+[
+"François Coppée",
+47
+],
+[
+"Ivan Kotliarevskyi",
+47
+],
+[
+"Edward Bellamy",
+47
+],
+[
+"Buchi Emecheta",
+47
+],
+[
+"Immanuel Wallerstein",
+47
+],
+[
+"Georges Feydeau",
+47
+],
+[
+"Erwin Panofsky",
+47
+],
+[
+"E. L. James",
+47
+],
+[
+"Ricarda Huch",
+47
+],
+[
+"Tony Hoare",
+47
+],
+[
+"Brian Kernighan",
+47
+],
+[
+"Emperor Xuanzong of Tang",
+47
+],
+[
+"Eugène François Vidocq",
+46
+],
+[
+"Mahasweta Devi",
+46
+],
+[
+"Michel Tournier",
+46
+],
+[
+"Frank McCourt",
+46
+],
+[
+"Arthur Adamov",
+46
+],
+[
+"Anna Gavalda",
+46
+],
+[
+"Ed Wood",
+46
+],
+[
+"Novatian",
+46
+],
+[
+"Elizabeth Bowen",
+46
+],
+[
+"Maria Dąbrowska",
+46
+],
+[
+"Marilynne Robinson",
+46
+],
+[
+"Carlo Gozzi",
+46
+],
+[
+"Edna Ferber",
+46
+],
+[
+"B. H. Liddell Hart",
+46
+],
+[
+"Michel Butor",
+46
+],
+[
+"Bill Bryson",
+46
+],
+[
+"Michael Cunningham",
+46
+],
+[
+"Thomas Friedman",
+46
+],
+[
+"Frederik Pohl",
+46
+],
+[
+"Gaius",
+46
+],
+[
+"Hector Malot",
+46
+],
+[
+"Sergey Aksakov",
+46
+],
+[
+"Maurice Blanchot",
+46
+],
+[
+"Theodoret",
+46
+],
+[
+"Peter Ackroyd",
+46
+],
+[
+"Veronica Roth",
+46
+],
+[
+"Giambattista Marino",
+46
+],
+[
+"Robert Sheckley",
+46
+],
+[
+"Vinícius de Moraes",
+46
+],
+[
+"Pietro Bembo",
+46
+],
+[
+"Jules Romains",
+46
+],
+[
+"Abu al-Faraj al-Isfahani",
+46
+],
+[
+"Elmore Leonard",
+46
+],
+[
+"Ada Negri",
+46
+],
+[
+"Thomas Nagel",
+46
+],
+[
+"Bernard Malamud",
+46
+],
+[
+"David Suzuki",
+46
+],
+[
+"Mikhail Zoshchenko",
+46
+],
+[
+"Yevgeny Baratynsky",
+46
+],
+[
+"Giovannino Guareschi",
+46
+],
+[
+"Adam de la Halle",
+46
+],
+[
+"Samuil Marshak",
+46
+],
+[
+"Eric Berne",
+46
+],
+[
+"Li Qingzhao",
+46
+],
+[
+"Rokeya Sakhawat Hossain",
+46
+],
+[
+"Lewis Mumford",
+46
+],
+[
+"Herman Wouk",
+46
+],
+[
+"Annette von Droste-Hülshoff",
+46
+],
+[
+"Angelus Silesius",
+46
+],
+[
+"Thomas Szasz",
+46
+],
+[
+"Anne Enright",
+46
+],
+[
+"Bernard Werber",
+45
+],
+[
+"Kim Stanley Robinson",
+45
+],
+[
+"Savielly Tartakower",
+45
+],
+[
+"Robert Jordan",
+45
+],
+[
+"Daniel Keyes",
+45
+],
+[
+"G. E. M. Anscombe",
+45
+],
+[
+"Jean Rhys",
+45
+],
+[
+"Camilla Läckberg",
+45
+],
+[
+"Patricia Cornwell",
+45
+],
+[
+"Sue Grafton",
+45
+],
+[
+"Milena Jesenská",
+45
+],
+[
+"Eleanor H. Porter",
+45
+],
+[
+"Sister Nivedita",
+45
+],
+[
+"Vita Sackville-West",
+45
+],
+[
+"H.D.",
+45
+],
+[
+"Augusta, Lady Gregory",
+45
+],
+[
+"Shirley Jackson",
+45
+],
+[
+"Rosario Castellanos",
+45
+],
+[
+"Amy Lawrence Lowell",
+45
+],
+[
+"Gwendolyn Brooks",
+45
+],
+[
+"Al-Mutanabbi",
+45
+],
+[
+"Ctesias",
+45
+],
+[
+"Yasmina Reza",
+45
+],
+[
+"Mariano José de Larra",
+45
+],
+[
+"Javier Marías",
+45
+],
+[
+"Nichiren",
+45
+],
+[
+"Leopoldo Alas",
+45
+],
+[
+"Carl Van Vechten",
+45
+],
+[
+"David Lodge",
+45
+],
+[
+"Bob Kane",
+45
+],
+[
+"Mortimer J. Adler",
+45
+],
+[
+"Mike Leigh",
+45
+],
+[
+"Jerzy Kosiński",
+45
+],
+[
+"José-Maria de Heredia",
+45
+],
+[
+"Edogawa Ranpo",
+45
+],
+[
+"W. S. Gilbert",
+45
+],
+[
+"Francis Jammes",
+45
+],
+[
+"Andrey Kurkov",
+45
+],
+[
+"John Newton",
+45
+],
+[
+"David Walliams",
+45
+],
+[
+"Petar II Petrović-Njegoš",
+45
+],
+[
+"Rupert Brooke",
+45
+],
+[
+"Ryū Murakami",
+45
+],
+[
+"André Brink",
+45
+],
+[
+"David Mitchell",
+45
+],
+[
+"Elsa Triolet",
+45
+],
+[
+"Otfried Preußler",
+45
+],
+[
+"Peter Sloterdijk",
+45
+],
+[
+"Serhiy Zhadan",
+45
+],
+[
+"Marion Zimmer Bradley",
+45
+],
+[
+"Ibn Hajar al-Asqalani",
+45
+],
+[
+"Giovanni Papini",
+45
+],
+[
+"Jean-Claude Carrière",
+45
+],
+[
+"Hugo Ball",
+45
+],
+[
+"Johann Christoph Gottsched",
+45
+],
+[
+"Hans-Hermann Hoppe",
+45
+],
+[
+"Berthold Auerbach",
+45
+],
+[
+"Hermann Broch",
+45
+],
+[
+"Christine Nöstlinger",
+45
+],
+[
+"Edward Abbey",
+45
+],
+[
+"Ibn Qayyim al-Jawziyya",
+44
+],
+[
+"James Thurber",
+44
+],
+[
+"Rabanus Maurus",
+44
+],
+[
+"Péter Esterházy",
+44
+],
+[
+"Adolf von Harnack",
+44
+],
+[
+"Friedrich Heinrich Jacobi",
+44
+],
+[
+"Leïla Slimani",
+44
+],
+[
+"María Elena Walsh",
+44
+],
+[
+"Eileen Chang",
+44
+],
+[
+"Flinders Petrie",
+44
+],
+[
+"Cecelia Ahern",
+44
+],
+[
+"Helen Fielding",
+44
+],
+[
+"Lillian Hellman",
+44
+],
+[
+"Susanna Tamaro",
+44
+],
+[
+"Sarah Waters",
+44
+],
+[
+"Anita Brookner",
+44
+],
+[
+"Anne Bradstreet",
+44
+],
+[
+"Ivana Brlić-Mažuranić",
+44
+],
+[
+"Luo Guanzhong",
+44
+],
+[
+"Savitri Devi",
+44
+],
+[
+"Paul Morand",
+44
+],
+[
+"Tite Kubo",
+44
+],
+[
+"Dan Simmons",
+44
+],
+[
+"Minna Canth",
+44
+],
+[
+"Gaius Julius Hyginus",
+44
+],
+[
+"Väinö Linna",
+44
+],
+[
+"Gillian Flynn",
+44
+],
+[
+"Theophylact Simocatta",
+44
+],
+[
+"Robert Harris",
+44
+],
+[
+"Charles De Coster",
+44
+],
+[
+"Vasily Aksyonov",
+44
+],
+[
+"John Barth",
+44
+],
+[
+"Michael Moorcock",
+44
+],
+[
+"A. S. Neill",
+44
+],
+[
+"Vazha-Pshavela",
+44
+],
+[
+"Ira Levin",
+44
+],
+[
+"Eugène Scribe",
+44
+],
+[
+"Columbanus",
+44
+],
+[
+"Atish Dipankar",
+44
+],
+[
+"Irving Stone",
+44
+],
+[
+"Rex Stout",
+44
+],
+[
+"Henry Winkler",
+44
+],
+[
+"Henrik Wergeland",
+44
+],
+[
+"A. H. Tammsaare",
+44
+],
+[
+"Victorien Sardou",
+44
+],
+[
+"Robert Bloch",
+44
+],
+[
+"Synesius of Cyrene",
+44
+],
+[
+"Malcolm Lowry",
+44
+],
+[
+"Edmond François Valentin About",
+44
+],
+[
+"Siegfried Sassoon",
+44
+],
+[
+"Auguste Villiers de l'Isle-Adam",
+44
+],
+[
+"J. B. Priestley",
+44
+],
+[
+"Umberto Saba",
+44
+],
+[
+"Mary Oliver",
+44
+],
+[
+"Amber Benson",
+44
+],
+[
+"Scott Adams",
+44
+],
+[
+"Qiu Jin",
+44
+],
+[
+"Arne Garborg",
+44
+],
+[
+"Edward Young",
+44
+],
+[
+"Alain de Benoist",
+44
+],
+[
+"W. G. Sebald",
+44
+],
+[
+"Nasimi",
+44
+],
+[
+"Daniel Handler",
+43
+],
+[
+"Marie Bonaparte",
+43
+],
+[
+"Juan Carlos Onetti",
+43
+],
+[
+"Fazil Iskander",
+43
+],
+[
+"Sirindhorn, Princess Royal",
+43
+],
+[
+"Jeppe Aakjær",
+43
+],
+[
+"John Webster",
+43
+],
+[
+"Marie d'Agoult",
+43
+],
+[
+"Robin Sharma",
+43
+],
+[
+"Sara Teasdale",
+43
+],
+[
+"Dacia Maraini",
+43
+],
+[
+"Julien Gracq",
+43
+],
+[
+"Hugo Gernsback",
+43
+],
+[
+"Jonathan Edwards",
+43
+],
+[
+"Gerard Manley Hopkins",
+43
+],
+[
+"Terry Eagleton",
+43
+],
+[
+"Irwin Shaw",
+43
+],
+[
+"Mimnermus",
+43
+],
+[
+"Harlan Coben",
+43
+],
+[
+"Ian Rankin",
+43
+],
+[
+"James Ellroy",
+43
+],
+[
+"Matteo Maria Boiardo",
+43
+],
+[
+"John Fante",
+43
+],
+[
+"Tadeusz Różewicz",
+43
+],
+[
+"Chico Buarque",
+43
+],
+[
+"António Lobo Antunes",
+43
+],
+[
+"Andrea Camilleri",
+43
+],
+[
+"Dio Chrysostom",
+43
+],
+[
+"Jayadeva",
+43
+],
+[
+"George Chapman",
+43
+],
+[
+"Alfred Edward Housman",
+43
+],
+[
+"Erle Stanley Gardner",
+43
+],
+[
+"Jonathan Safran Foer",
+43
+],
+[
+"Esaias Tegnér",
+43
+],
+[
+"Fyodor Sologub",
+43
+],
+[
+"Silvio Pellico",
+43
+],
+[
+"Neil Postman",
+43
+],
+[
+"Mariama Bâ",
+43
+],
+[
+"Marceline Desbordes-Valmore",
+43
+],
+[
+"Jeremy Rifkin",
+43
+],
+[
+"B. Traven",
+43
+],
+[
+"Jakob Wassermann",
+43
+],
+[
+"Mulk Raj Anand",
+43
+],
+[
+"Ernst Gombrich",
+43
+],
+[
+"Ilse Aichinger",
+43
+],
+[
+"Władysław Tarnowski",
+43
+],
+[
+"Conrad Ferdinand Meyer",
+42
+],
+[
+"Alain de Botton",
+42
+],
+[
+"Zachris Topelius",
+42
+],
+[
+"Olive Schreiner",
+42
+],
+[
+"Maeve Binchy",
+42
+],
+[
+"Miguel Delibes",
+42
+],
+[
+"Marc Levy",
+42
+],
+[
+"Friedrich Maximilian von Klinger",
+42
+],
+[
+"Voltairine de Cleyre",
+42
+],
+[
+"Theodore Sturgeon",
+42
+],
+[
+"Madeleine L'Engle",
+42
+],
+[
+"Patrick Moore",
+42
+],
+[
+"David Mamet",
+42
+],
+[
+"Anita Loos",
+42
+],
+[
+"Emilia Pardo Bazán",
+42
+],
+[
+"Dezső Kosztolányi",
+42
+],
+[
+"Dmitry Glukhovsky",
+42
+],
+[
+"Virginie Despentes",
+42
+],
+[
+"Jack Vance",
+42
+],
+[
+"Fritz Leiber",
+42
+],
+[
+"Michael Connelly",
+42
+],
+[
+"Malcolm Gladwell",
+42
+],
+[
+"Léo Ferré",
+42
+],
+[
+"Alexander Afanasyev",
+42
+],
+[
+"Sheridan Le Fanu",
+42
+],
+[
+"Daniel Pennac",
+42
+],
+[
+"Stesichorus",
+42
+],
+[
+"Alistair MacLean",
+42
+],
+[
+"Lee Child",
+42
+],
+[
+"Panait Istrati",
+42
+],
+[
+"Richard Brautigan",
+42
+],
+[
+"Vyacheslav Ivanov",
+42
+],
+[
+"Etgar Keret",
+42
+],
+[
+"Hart Crane",
+42
+],
+[
+"Nordahl Grieg",
+42
+],
+[
+"Sarat Chandra Chattopadhyay",
+42
+],
+[
+"William Goldman",
+42
+],
+[
+"Paul Scarron",
+42
+],
+[
+"Martin Walser",
+42
+],
+[
+"Wilhelm Müller",
+42
+],
+[
+"Walter Savage Landor",
+42
+],
+[
+"Jimmy Buffett",
+42
+],
+[
+"George Saunders",
+41
+],
+[
+"Zane Grey",
+41
+],
+[
+"Primož Trubar",
+41
+],
+[
+"Norman Finkelstein",
+41
+],
+[
+"Zbigniew Herbert",
+41
+],
+[
+"Dionysios Solomos",
+41
+],
+[
+"Adam Oehlenschläger",
+41
+],
+[
+"Martin Andersen Nexø",
+41
+],
+[
+"Jayant Narlikar",
+41
+],
+[
+"Ono no Komachi",
+41
+],
+[
+"Mário de Andrade",
+41
+],
+[
+"Arnaldur Indriðason",
+41
+],
+[
+"Eiji Yoshikawa",
+41
+],
+[
+"Anne McCaffrey",
+41
+],
+[
+"Joseba Sarrionandia",
+41
+],
+[
+"Marie NDiaye",
+41
+],
+[
+"Don Rosa",
+41
+],
+[
+"N. K. Jemisin",
+41
+],
+[
+"Madame d'Aulnoy",
+41
+],
+[
+"Nancy Mitford",
+41
+],
+[
+"Gene Sharp",
+41
+],
+[
+"Penelope Fitzgerald",
+41
+],
+[
+"Philip José Farmer",
+41
+],
+[
+"Li Yu",
+41
+],
+[
+"Charles Taylor",
+41
+],
+[
+"Yasmina Khadra",
+41
+],
+[
+"Peter Carey",
+41
+],
+[
+"Jacobus de Voragine",
+41
+],
+[
+"Robert Merle",
+41
+],
+[
+"Carl Jonas Love Almqvist",
+41
+],
+[
+"James Clavell",
+41
+],
+[
+"Joseph Needham",
+41
+],
+[
+"Vladimir Arsenyev",
+41
+],
+[
+"Antoine Galland",
+41
+],
+[
+"Hanif Kureishi",
+41
+],
+[
+"Pierre Drieu La Rochelle",
+41
+],
+[
+"Saadia Gaon",
+41
+],
+[
+"José Zorrilla",
+41
+],
+[
+"Miguel Hernández",
+41
+],
+[
+"Mihály Babits",
+41
+],
+[
+"Valentin Kataev",
+41
+],
+[
+"Rafael Sabatini",
+41
+],
+[
+"Sofia Andrukhovych",
+41
+],
+[
+"Jean d'Ormesson",
+41
+],
+[
+"Ahmad Shamloo",
+41
+],
+[
+"Georges Rodenbach",
+41
+],
+[
+"Pierre Reverdy",
+41
+],
+[
+"Junot Díaz",
+41
+],
+[
+"Francysk Skaryna",
+41
+],
+[
+"Evagrius Ponticus",
+41
+],
+[
+"Shantideva",
+41
+],
+[
+"Venantius Fortunatus",
+41
+],
+[
+"John Greenleaf Whittier",
+41
+],
+[
+"Léon Bloy",
+41
+],
+[
+"Colm Tóibín",
+41
+],
+[
+"William Jackson Hooker",
+41
+],
+[
+"Ivan Yefremov",
+41
+],
+[
+"Kenji Miyazawa",
+41
+],
+[
+"Daniel Kehlmann",
+41
+],
+[
+"Christian Fürchtegott Gellert",
+41
+],
+[
+"Jenny Erpenbeck",
+41
+],
+[
+"Peter Rosegger",
+41
+],
+[
+"Sabahattin Ali",
+41
+],
+[
+"Horacio Quiroga",
+40
+],
+[
+"Hrotsvitha",
+40
+],
+[
+"Abu Tammam",
+40
+],
+[
+"Andy Weir",
+40
+],
+[
+"Géza Gárdonyi",
+40
+],
+[
+"Sarah Kane",
+40
+],
+[
+"Fred Vargas",
+40
+],
+[
+"Arthur Hailey",
+40
+],
+[
+"Vittoria Colonna",
+40
+],
+[
+"Eleanor Farjeon",
+40
+],
+[
+"Elizabeth Strout",
+40
+],
+[
+"Kathy Acker",
+40
+],
+[
+"Sophia Tolstaya",
+40
+],
+[
+"Erlend Loe",
+40
+],
+[
+"Shihab al-Din Suhrawardi",
+40
+],
+[
+"Alfred Bester",
+40
+],
+[
+"John Ashbery",
+40
+],
+[
+"Dennis Lehane",
+40
+],
+[
+"Carl Michael Bellman",
+40
+],
+[
+"Morris",
+40
+],
+[
+"Neal Stephenson",
+40
+],
+[
+"Pierre Larousse",
+40
+],
+[
+"Robert Anton Wilson",
+40
+],
+[
+"Robert Silverberg",
+40
+],
+[
+"Jonathan Littell",
+40
+],
+[
+"Reinaldo Arenas",
+40
+],
+[
+"Erich Segal",
+40
+],
+[
+"Ivan Gundulić",
+40
+],
+[
+"Sait Faik Abasıyanık",
+40
+],
+[
+"Martin Seligman",
+40
+],
+[
+"William L. Shirer",
+40
+],
+[
+"William of Malmesbury",
+40
+],
+[
+"Ihara Saikaku",
+40
+],
+[
+"Ljudevit Gaj",
+40
+],
+[
+"C. Northcote Parkinson",
+40
+],
+[
+"Amiri Baraka",
+40
+],
+[
+"Nevil Shute",
+40
+],
+[
+"Shel Silverstein",
+40
+],
+[
+"Fredric Brown",
+40
+],
+[
+"George Gissing",
+40
+],
+[
+"John Boyne",
+40
+],
+[
+"Louis L'Amour",
+40
+],
+[
+"Alain Finkielkraut",
+40
+],
+[
+"Ignacy Krasicki",
+40
+],
+[
+"Conrad Aiken",
+40
+],
+[
+"Pascal Quignard",
+40
+],
+[
+"Jojo Moyes",
+40
+],
+[
+"Louise Erdrich",
+40
+],
+[
+"Silvina Ocampo",
+40
+],
+[
+"Ali Smith",
+40
+],
+[
+"Brian O'Nolan",
+40
+],
+[
+"John Masefield",
+40
+],
+[
+"Andrew Lang",
+40
+],
+[
+"Colson Whitehead",
+40
+],
+[
+"Sergey Lukyanenko",
+40
+],
+[
+"Harold Robbins",
+40
+],
+[
+"Ford Madox Ford",
+40
+],
+[
+"Chairil Anwar",
+40
+],
+[
+"Samuel von Pufendorf",
+40
+],
+[
+"Karl Ove Knausgård",
+40
+],
+[
+"August von Platen-Hallermünde",
+40
+],
+[
+"Hartmann von Aue",
+40
+],
+[
+"Andreas Gryphius",
+40
+],
+[
+"Ibn Qutaybah",
+40
+]
+]

@@ -48,11 +48,11 @@
 39
 ],
 [
-"cannelloni",
+"panini",
 37
 ],
 [
-"panini",
+"cannelloni",
 37
 ],
 [
@@ -72,19 +72,19 @@
 27
 ],
 [
-"Biscotti",
-25
-],
-[
 "Marinara sauce",
 25
 ],
 [
-"sfogliatelle",
-23
+"Biscotti",
+25
 ],
 [
 "trattoria",
+23
+],
+[
+"sfogliatelle",
 23
 ],
 [
@@ -92,11 +92,11 @@
 22
 ],
 [
-"Torta caprese",
+"capellini",
 20
 ],
 [
-"capellini",
+"Torta caprese",
 20
 ],
 [
@@ -104,11 +104,11 @@
 19
 ],
 [
-"agnolotti",
+"Acquacotta",
 19
 ],
 [
-"Acquacotta",
+"agnolotti",
 19
 ],
 [
@@ -120,14 +120,6 @@
 18
 ],
 [
-"Lampredotto",
-17
-],
-[
-"stuffed squash",
-17
-],
-[
 "Supplì",
 17
 ],
@@ -136,7 +128,15 @@
 17
 ],
 [
-"stuffed tomatoes",
+"Lampredotto",
+17
+],
+[
+"stuffed squash",
+17
+],
+[
+"Colomba di Pasqua",
 16
 ],
 [
@@ -144,11 +144,11 @@
 16
 ],
 [
-"pastéis de Bacalhau",
+"stuffed tomatoes",
 16
 ],
 [
-"Colomba di Pasqua",
+"pastéis de Bacalhau",
 16
 ],
 [
@@ -160,12 +160,16 @@
 15
 ],
 [
+"Spumoni",
+14
+],
+[
 "Passatelli",
 14
 ],
 [
-"Spumoni",
-14
+"Cassatella di Sant'Agata",
+11
 ],
 [
 "Giardiniera",
@@ -173,10 +177,6 @@
 ],
 [
 "wedding soup",
-11
-],
-[
-"Cassatella di Sant'Agata",
 11
 ],
 [
@@ -188,6 +188,10 @@
 9
 ],
 [
+"Coda alla vaccinara",
+9
+],
+[
 "Torta setteveli",
 9
 ],
@@ -196,23 +200,11 @@
 9
 ],
 [
-"Coda alla vaccinara",
-9
-],
-[
 "Rafanata",
 8
 ],
 [
-"Torta pasqualina",
-7
-],
-[
 "Zuppa pavese",
-7
-],
-[
-"salume",
 7
 ],
 [
@@ -224,12 +216,12 @@
 7
 ],
 [
-"budino",
-6
+"salume",
+7
 ],
 [
-"torta della nonna",
-6
+"Torta pasqualina",
+7
 ],
 [
 "pizza pugliese",
@@ -240,15 +232,23 @@
 6
 ],
 [
+"torta della nonna",
+6
+],
+[
+"budino",
+6
+],
+[
 "sugo alla puttanesca",
 4
 ],
 [
-"sformato",
+"Salame genovese di Sant'Olcese",
 3
 ],
 [
-"Salame genovese di Sant'Olcese",
+"sformato",
 3
 ]
 ]

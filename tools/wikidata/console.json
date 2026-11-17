@@ -1,18 +1,526 @@
 [
 [
-"Canon de 155 C modèle 1917 Schneider",
-10
+"Wii",
+87
 ],
 [
-"TIC-80",
-8
+"PlayStation 3",
+82
 ],
 [
-"Picotron",
-3
+"PlayStation Portable",
+71
 ],
 [
-"Somua S40",
-3
+"Nintendo Entertainment System",
+71
+],
+[
+"Nintendo DS",
+68
+],
+[
+"Nintendo GameCube",
+66
+],
+[
+"Nintendo 64",
+65
+],
+[
+"Super Nintendo Entertainment System",
+62
+],
+[
+"PlayStation Vita",
+62
+],
+[
+"Wii U",
+62
+],
+[
+"Game Boy",
+61
+],
+[
+"Nintendo 3DS",
+55
+],
+[
+"Game Boy Color",
+53
+],
+[
+"Atari 2600",
+52
+],
+[
+"Xbox Series X and Series S",
+51
+],
+[
+"Odyssey",
+49
+],
+[
+"Game & Watch series",
+43
+],
+[
+"Atari Jaguar",
+42
+],
+[
+"Atari 5200",
+40
+],
+[
+"Nintendo DSi",
+39
+],
+[
+"Atari 7800",
+38
+],
+[
+"handheld game console",
+38
+],
+[
+"3DO",
+36
+],
+[
+"N-Gage",
+36
+],
+[
+"Game Boy Advance SP",
+36
+],
+[
+"Virtual Boy",
+35
+],
+[
+"Atari Lynx",
+34
+],
+[
+"ColecoVision",
+33
+],
+[
+"TurboGrafx-16",
+33
+],
+[
+"Intellivision",
+33
+],
+[
+"SG-1000",
+33
+],
+[
+"Amiga CD32",
+33
+],
+[
+"Nintendo DS Lite",
+33
+],
+[
+"Color TV-Game",
+32
+],
+[
+"Neo Geo",
+30
+],
+[
+"Ouya",
+30
+],
+[
+"Nintendo 2DS",
+30
+],
+[
+"Game Boy Micro",
+30
+],
+[
+"Philips CD-i",
+29
+],
+[
+"WonderSwan",
+29
+],
+[
+"Apple Pippin",
+29
+],
+[
+"Vectrex",
+29
+],
+[
+"Fairchild Channel F",
+28
+],
+[
+"CDTV",
+28
+],
+[
+"Famicom Disk System",
+27
+],
+[
+"Nintendo Switch Lite",
+27
+],
+[
+"Pokémon Mini",
+26
+],
+[
+"Gizmondo",
+26
+],
+[
+"PC-FX",
+25
+],
+[
+"PocketStation",
+25
+],
+[
+"Microvision",
+25
+],
+[
+"NES Classic Edition",
+25
+],
+[
+"Magnavox Odyssey 2",
+25
+],
+[
+"Coleco Telstar series",
+24
+],
+[
+"Super Game Boy",
+24
+],
+[
+"Arcadia 2001",
+24
+],
+[
+"Amazon Fire TV",
+24
+],
+[
+"Zeebo",
+24
+],
+[
+"Super NES Classic Edition",
+24
+],
+[
+"GP2X",
+24
+],
+[
+"Neo Geo Pocket",
+24
+],
+[
+"Playdia",
+23
+],
+[
+"Casio Loopy",
+23
+],
+[
+"Xperia Play",
+23
+],
+[
+"FM Towns Marty",
+23
+],
+[
+"Amstrad GX4000",
+23
+],
+[
+"RCA Studio II",
+22
+],
+[
+"iQue Player",
+22
+],
+[
+"PV-1000",
+22
+],
+[
+"Xbox Series X",
+22
+],
+[
+"Commodore 64 Games System",
+21
+],
+[
+"PSP Go",
+20
+],
+[
+"Cassette Vision",
+19
+],
+[
+"home video game console",
+19
+],
+[
+"Pandora",
+19
+],
+[
+"Game Boy family",
+19
+],
+[
+"Bally Astrocade",
+19
+],
+[
+"PSX",
+18
+],
+[
+"HyperScan",
+18
+],
+[
+"Entex Adventure Vision",
+18
+],
+[
+"Atari VCS",
+18
+],
+[
+"GP32",
+18
+],
+[
+"Intellivision Amico",
+18
+],
+[
+"GP2X Wiz",
+18
+],
+[
+"VMU",
+17
+],
+[
+"handheld electronic game",
+17
+],
+[
+"Atari XEGS",
+17
+],
+[
+"Nvidia Shield TV",
+17
+],
+[
+"Game Boy Pocket",
+17
+],
+[
+"Game.com",
+17
+],
+[
+"Neo Geo CD",
+17
+],
+[
+"Interton Video Computer 4000",
+17
+],
+[
+"Pioneer LaserActive",
+17
+],
+[
+"Tapwave Zodiac",
+17
+],
+[
+"Mega Drive Mini",
+17
+],
+[
+"Watara Supervision",
+17
+],
+[
+"New Nintendo 2DS XL",
+16
+],
+[
+"APF TV Fun series",
+16
+],
+[
+"Dingoo A320",
+16
+],
+[
+"TurboExpress",
+16
+],
+[
+"APF-M1000",
+15
+],
+[
+"Super A'Can",
+15
+],
+[
+"Nintendo DSi XL",
+15
+],
+[
+"TV Tennis Electrotennis",
+14
+],
+[
+"PolyStation",
+14
+],
+[
+"Video Pinball series",
+14
+],
+[
+"PC Engine SuperGrafx",
+14
+],
+[
+"N-Gage QD",
+14
+],
+[
+"Nintendo Entertainment System hardware clone",
+14
+],
+[
+"Odyssey series",
+14
+],
+[
+"Xbox Series S",
+14
+],
+[
+"Flipper Zero",
+13
+],
+[
+"GameStick",
+13
+],
+[
+"Barcode Battler",
+13
+],
+[
+"Super Cassette Vision",
+13
+],
+[
+"Epoch Game Pocket Computer",
+13
+],
+[
+"Vii",
+12
+],
+[
+"Sega TeraDrive",
+12
+],
+[
+"microconsole",
+12
+],
+[
+"NES-101",
+12
+],
+[
+"Bandai Super Vision 8000",
+12
+],
+[
+"Action Max",
+12
+],
+[
+"Atari Panther",
+12
+],
+[
+"dedicated console",
+12
+],
+[
+"Entex Select-A-Game",
+12
+],
+[
+"WowCube",
+12
+],
+[
+"Halcyon",
+12
+],
+[
+"C64 Direct-to-TV",
+12
+],
+[
+"R-Zone",
+12
+],
+[
+"Super NES CD-ROM",
+12
+],
+[
+"Atari Flashback series",
+12
 ]
 ]

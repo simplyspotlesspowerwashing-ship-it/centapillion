@@ -20,14 +20,6 @@
 34
 ],
 [
-"barretina",
-28
-],
-[
-"petasos",
-28
-],
-[
 "cowboy hat",
 28
 ],
@@ -36,15 +28,23 @@
 28
 ],
 [
+"barretina",
+28
+],
+[
+"petasos",
+28
+],
+[
+"bonnet",
+27
+],
+[
 "shtreimel",
 27
 ],
 [
 "Tyrolean hat",
-27
-],
-[
-"bonnet",
 27
 ],
 [
@@ -64,14 +64,6 @@
 19
 ],
 [
-"homburg",
-18
-],
-[
-"cloche",
-18
-],
-[
 "bearskin cap",
 18
 ],
@@ -80,16 +72,20 @@
 18
 ],
 [
-"gat",
-17
+"homburg",
+18
+],
+[
+"cloche",
+18
 ],
 [
 "cappello romano",
 17
 ],
 [
-"sailor cap",
-16
+"gat",
+17
 ],
 [
 "sou'wester",
@@ -97,6 +93,10 @@
 ],
 [
 "pillbox hat",
+16
+],
+[
+"sailor cap",
 16
 ],
 [
@@ -116,6 +116,10 @@
 12
 ],
 [
+"montera",
+10
+],
+[
 "sombrero vueltiao",
 10
 ],
@@ -124,15 +128,7 @@
 10
 ],
 [
-"montera",
-10
-],
-[
-"smoking cap",
-9
-],
-[
-"campaign hat",
+"Water polo cap",
 9
 ],
 [
@@ -140,15 +136,19 @@
 9
 ],
 [
-"Water polo cap",
+"campaign hat",
 9
 ],
 [
-"beaver hat",
-8
+"smoking cap",
+9
 ],
 [
 "modius",
+8
+],
+[
+"salakot",
 8
 ],
 [
@@ -156,8 +156,16 @@
 8
 ],
 [
-"salakot",
+"beaver hat",
 8
+],
+[
+"Wushamao",
+7
+],
+[
+"Umbrella Hat",
+7
 ],
 [
 "Four Winds hat",
@@ -176,31 +184,19 @@
 7
 ],
 [
-"cordovan hat",
-7
-],
-[
 "chengziguan",
 7
 ],
 [
-"Wushamao",
+"cordovan hat",
 7
 ],
 [
-"Umbrella Hat",
-7
-],
-[
-"pussyhat",
+"Bryl",
 6
 ],
 [
 "Sharbūsh",
-6
-],
-[
-"Bryl",
 6
 ],
 [
@@ -216,6 +212,10 @@
 6
 ],
 [
+"pussyhat",
+6
+],
+[
 "pointed hat",
 6
 ],
@@ -224,7 +224,7 @@
 6
 ],
 [
-"Fulani hat",
+"Birke topi",
 5
 ],
 [
@@ -232,7 +232,11 @@
 5
 ],
 [
-"Birke topi",
+"Bhaad-gaaule topi",
+5
+],
+[
+"Fulani hat",
 5
 ],
 [
@@ -240,15 +244,11 @@
 5
 ],
 [
-"bergère hat",
-5
-],
-[
 "boyar hat",
 5
 ],
 [
-"tembel hat",
+"bergère hat",
 5
 ],
 [
@@ -260,7 +260,7 @@
 5
 ],
 [
-"Bhaad-gaaule topi",
+"tembel hat",
 5
 ]
 ]

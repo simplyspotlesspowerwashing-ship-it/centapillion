@@ -56,19 +56,19 @@
 97
 ],
 [
-"Lake Balkhash",
-89
-],
-[
 "Lake Albert",
 89
 ],
 [
-"Lake Garda",
-88
+"Lake Balkhash",
+89
 ],
 [
 "Issyk-Kul",
+88
+],
+[
+"Lake Garda",
 88
 ],
 [
@@ -96,11 +96,11 @@
 78
 ],
 [
-"Saimaa",
+"Lake Tana",
 77
 ],
 [
-"Lake Tana",
+"Saimaa",
 77
 ],
 [
@@ -108,11 +108,11 @@
 76
 ],
 [
-"Lake Winnipeg",
+"Lake Edward",
 75
 ],
 [
-"Lake Edward",
+"Lake Winnipeg",
 75
 ],
 [
@@ -120,11 +120,11 @@
 74
 ],
 [
-"Qinghai Lake",
+"Lake Maracaibo",
 72
 ],
 [
-"Lake Maracaibo",
+"Qinghai Lake",
 72
 ],
 [
@@ -148,16 +148,12 @@
 65
 ],
 [
-"Mälaren",
-64
-],
-[
 "Lake Lugano",
 64
 ],
 [
-"Tonle Sap",
-63
+"Mälaren",
+64
 ],
 [
 "Lake Zurich",
@@ -165,6 +161,10 @@
 ],
 [
 "Lake Ohrid",
+63
+],
+[
+"Tonle Sap",
 63
 ],
 [
@@ -180,6 +180,10 @@
 60
 ],
 [
+"Lake Trasimeno",
+59
+],
+[
 "Lake Prespa",
 59
 ],
@@ -188,15 +192,11 @@
 59
 ],
 [
-"Lake Trasimeno",
-59
-],
-[
-"Lake Athabasca",
+"Khanka",
 58
 ],
 [
-"Khanka",
+"Lake Athabasca",
 58
 ],
 [
@@ -248,19 +248,19 @@
 51
 ],
 [
-"Lake Managua",
-50
-],
-[
 "Võrtsjärv",
 50
 ],
 [
-"Lake Starnberg",
-49
+"Lake Managua",
+50
 ],
 [
 "Lake Nyos",
+50
+],
+[
+"Lake Starnberg",
 49
 ],
 [
@@ -272,15 +272,15 @@
 48
 ],
 [
+"Pangong Tso",
+47
+],
+[
 "Lake Zaysan",
 47
 ],
 [
 "Lake Ülemiste",
-47
-],
-[
-"Pangong Tso",
 47
 ],
 [
@@ -292,8 +292,12 @@
 47
 ],
 [
-"Ritsa",
+"Lake Ritsa",
 47
+],
+[
+"Mývatn",
+46
 ],
 [
 "Teletskoye",
@@ -304,15 +308,11 @@
 46
 ],
 [
-"Mývatn",
-46
-],
-[
 "Lake Bangweulu",
 46
 ],
 [
-"Lake Chaubunagungamaug",
+"Lake Biel",
 45
 ],
 [
@@ -320,7 +320,7 @@
 45
 ],
 [
-"Lake Biel",
+"Lake Chaubunagungamaug",
 45
 ],
 [
@@ -328,7 +328,11 @@
 45
 ],
 [
-"Müritz",
+"Lake Thun",
+44
+],
+[
+"Dojran Lake",
 44
 ],
 [
@@ -340,11 +344,7 @@
 44
 ],
 [
-"Dojran Lake",
-44
-],
-[
-"Lake Thun",
+"Müritz",
 44
 ],
 [
@@ -356,19 +356,19 @@
 44
 ],
 [
-"Hjälmaren",
-43
-],
-[
 "Lake Brienz",
 43
 ],
 [
-"Lake Saint Clair",
+"Hjälmaren",
 43
 ],
 [
 "Heaven Lake",
+43
+],
+[
+"Lake Saint Clair",
 43
 ],
 [
@@ -392,7 +392,7 @@
 42
 ],
 [
-"Ammersee",
+"Lake Naivasha",
 41
 ],
 [
@@ -400,7 +400,11 @@
 41
 ],
 [
-"Lake General Carrera/Buenos Aires",
+"Lake Murten",
+41
+],
+[
+"Ammersee",
 41
 ],
 [
@@ -408,7 +412,7 @@
 41
 ],
 [
-"Lake Murten",
+"Lake General Carrera/Buenos Aires",
 41
 ],
 [
@@ -416,15 +420,11 @@
 41
 ],
 [
-"Lake Naivasha",
+"Bosten Lake",
 41
 ],
 [
 "Lake Mai-Ndombe",
-41
-],
-[
-"Bosten Lake",
 41
 ],
 [
@@ -436,15 +436,15 @@
 41
 ],
 [
+"Lake Zug",
+40
+],
+[
 "Lake Okeechobee",
 40
 ],
 [
 "Lake Hillier",
-40
-],
-[
-"Lake Zug",
 40
 ],
 [
@@ -456,15 +456,15 @@
 40
 ],
 [
+"Lake Trichonida",
+39
+],
+[
 "Hornindalsvatnet",
 39
 ],
 [
 "Zorkul",
-39
-],
-[
-"Lake Trichonida",
 39
 ],
 [
@@ -476,11 +476,11 @@
 39
 ],
 [
-"Lake Moeris",
+"Moraine Lake",
 38
 ],
 [
-"Moraine Lake",
+"Lake Moeris",
 38
 ],
 [
@@ -492,15 +492,11 @@
 38
 ],
 [
-"Imandra",
-37
-],
-[
 "Lake Zell",
 37
 ],
 [
-"Great Bitter Lake",
+"Imandra",
 37
 ],
 [
@@ -508,7 +504,7 @@
 37
 ],
 [
-"Attersee",
+"Great Bitter Lake",
 37
 ],
 [
@@ -516,7 +512,7 @@
 37
 ],
 [
-"Lough Corrib",
+"Attersee",
 37
 ],
 [
@@ -528,6 +524,14 @@
 37
 ],
 [
+"Lough Corrib",
+37
+],
+[
+"Paravani Lake",
+36
+],
+[
 "Aydar Lake",
 36
 ],
@@ -537,10 +541,6 @@
 ],
 [
 "Lake Alakol",
-36
-],
-[
-"Paravani Lake",
 36
 ],
 [
@@ -560,11 +560,7 @@
 36
 ],
 [
-"Lake Chapala",
-35
-],
-[
-"Lake Izabal",
+"Nettilling Lake",
 35
 ],
 [
@@ -572,7 +568,7 @@
 35
 ],
 [
-"Lake Beyşehir",
+"Lake Izabal",
 35
 ],
 [
@@ -580,7 +576,11 @@
 35
 ],
 [
-"Nettilling Lake",
+"Lake Chapala",
+35
+],
+[
+"Lake Beyşehir",
 35
 ],
 [
@@ -596,6 +596,14 @@
 35
 ],
 [
+"Lake Fagnano",
+34
+],
+[
+"Torneträsk",
+34
+],
+[
 "Siljan",
 34
 ],
@@ -608,15 +616,11 @@
 34
 ],
 [
-"Torneträsk",
+"Lake Elmenteita",
 34
 ],
 [
 "Drūkšiai",
-34
-],
-[
-"Lake Elmenteita",
 34
 ],
 [
@@ -632,19 +636,7 @@
 34
 ],
 [
-"Lake Fagnano",
-34
-],
-[
-"Lake Manyara",
-33
-],
-[
 "Reindeer Lake",
-33
-],
-[
-"Achensee",
 33
 ],
 [
@@ -653,6 +645,14 @@
 ],
 [
 "Lake Mamry",
+33
+],
+[
+"Lake Manyara",
+33
+],
+[
+"Achensee",
 33
 ],
 [
@@ -668,6 +668,14 @@
 33
 ],
 [
+"Vygozero",
+32
+],
+[
+"Lake Pontchartrain",
+32
+],
+[
 "Sarez Lake",
 32
 ],
@@ -676,7 +684,7 @@
 32
 ],
 [
-"Lake Pontchartrain",
+"Aibi Lake",
 32
 ],
 [
@@ -688,10 +696,6 @@
 32
 ],
 [
-"Aibi Lake",
-32
-],
-[
 "Hornavan",
 32
 ],
@@ -700,23 +704,7 @@
 32
 ],
 [
-"Vygozero",
-32
-],
-[
-"Schweriner See",
-31
-],
-[
-"Kurile Lake",
-31
-],
-[
 "Lake Kasumigaura",
-31
-],
-[
-"Lake Lanao",
 31
 ],
 [
@@ -724,15 +712,11 @@
 31
 ],
 [
-"Synevyr",
-31
-],
-[
-"Tyrifjorden",
-31
-],
-[
 "Hongze Lake",
+31
+],
+[
+"Synevyr",
 31
 ],
 [
@@ -740,11 +724,31 @@
 31
 ],
 [
-"Wular Lake",
+"Lake Washington",
+31
+],
+[
+"Lake Lanao",
+31
+],
+[
+"Kurile Lake",
+31
+],
+[
+"Schweriner See",
+31
+],
+[
+"Tyrifjorden",
 31
 ],
 [
 "Topozero",
+31
+],
+[
+"Wular Lake",
 31
 ],
 [
@@ -756,11 +760,19 @@
 31
 ],
 [
-"Lake Washington",
-31
+"Lough Erne",
+30
 ],
 [
-"Lake Nokoué",
+"Femund",
+30
+],
+[
+"Lake Sempach",
+30
+],
+[
+"Lake Sils",
 30
 ],
 [
@@ -772,50 +784,6 @@
 30
 ],
 [
-"Taal Lake",
-30
-],
-[
-"Lake Sils",
-30
-],
-[
-"Lake Sempach",
-30
-],
-[
-"Rara Lake",
-30
-],
-[
-"O'Higgins/San Martín Lake",
-30
-],
-[
-"Lake Bodom",
-30
-],
-[
-"Femund",
-30
-],
-[
-"Ayding Lake",
-30
-],
-[
-"Lough Derg",
-30
-],
-[
-"North Aral Sea",
-30
-],
-[
-"Lough Erne",
-30
-],
-[
 "Veisjärv",
 30
 ],
@@ -824,60 +792,40 @@
 30
 ],
 [
-"Lesser Slave Lake",
+"O'Higgins/San Martín Lake",
 30
 ],
 [
-"Lake İznik",
-29
+"Rara Lake",
+30
 ],
 [
-"Loch Morar",
-29
+"Lake Nokoué",
+30
 ],
 [
-"Walchensee",
-29
+"North Aral Sea",
+30
 ],
 [
-"Vištytis",
-29
+"Taal Lake",
+30
 ],
 [
-"Don Juan Pond",
-29
+"Ayding Lake",
+30
 ],
 [
-"Small Prespa lake",
-29
+"Lake Bodom",
+30
 ],
 [
-"Randsfjorden",
-29
+"Lough Derg",
+30
 ],
 [
-"Lake Silvaplana",
-29
-],
-[
-"Lugu Lake",
-29
-],
-[
-"Lake of Tunis",
-29
-],
-[
-"Lake Amadeus",
-29
-],
-[
-"Mondsee",
-29
-],
-[
-"Weissensee",
-29
+"Lesser Slave Lake",
+30
 ],
 [
 "Lake Te Anau",
@@ -885,18 +833,6 @@
 ],
 [
 "Salar de Atacama",
-29
-],
-[
-"Nero",
-29
-],
-[
-"Lake Malombe",
-29
-],
-[
-"Chatyr-Kul",
 29
 ],
 [
@@ -908,11 +844,31 @@
 29
 ],
 [
-"Yellowstone Lake",
+"Lugu Lake",
 29
 ],
 [
-"Lake Velence",
+"Loch Morar",
+29
+],
+[
+"Lake Silvaplana",
+29
+],
+[
+"Walchensee",
+29
+],
+[
+"Lake Malombe",
+29
+],
+[
+"Lake İznik",
+29
+],
+[
+"Small Prespa lake",
 29
 ],
 [
@@ -920,15 +876,51 @@
 29
 ],
 [
-"Lake Orestiada",
-28
+"Don Juan Pond",
+29
 ],
 [
-"Pyaozero",
-28
+"Randsfjorden",
+29
 ],
 [
-"Oeschinen Lake",
+"Vištytis",
+29
+],
+[
+"Lake of Tunis",
+29
+],
+[
+"Mondsee",
+29
+],
+[
+"Lake Amadeus",
+29
+],
+[
+"Nero",
+29
+],
+[
+"Weissensee",
+29
+],
+[
+"Lake Velence",
+29
+],
+[
+"Chatyr-Kul",
+29
+],
+[
+"Yellowstone Lake",
+29
+],
+[
+"Lake Kaindy",
 28
 ],
 [
@@ -936,7 +928,19 @@
 28
 ],
 [
-"Lake Kaindy",
+"Lake Mackay",
+28
+],
+[
+"Lake Yojoa",
+28
+],
+[
+"Khar-Us Lake",
+28
+],
+[
+"Laguna Colorada",
 28
 ],
 [
@@ -944,7 +948,23 @@
 28
 ],
 [
-"Lake Mackay",
+"Lake Orestiada",
+28
+],
+[
+"Oeschinen Lake",
+28
+],
+[
+"Pyaozero",
+28
+],
+[
+"Lake Ilopango",
+28
+],
+[
+"Sayram Lake",
 28
 ],
 [
@@ -956,19 +976,7 @@
 28
 ],
 [
-"Buada Lagoon",
-28
-],
-[
 "Lough Ree",
-28
-],
-[
-"Sayram Lake",
-28
-],
-[
-"Laguna Colorada",
 28
 ],
 [
@@ -980,55 +988,11 @@
 28
 ],
 [
-"Lake Ilopango",
+"Buada Lagoon",
 28
-],
-[
-"Khar-Us Lake",
-28
-],
-[
-"Lake Yojoa",
-28
-],
-[
-"Rainy Lake",
-27
-],
-[
-"Lake Chany",
-27
-],
-[
-"Tegernsee",
-27
-],
-[
-"Lake Petén Itzá",
-27
-],
-[
-"Lake Hallwil",
-27
-],
-[
-"Lake Varese",
-27
-],
-[
-"Røssvatnet",
-27
 ],
 [
 "Khyargas Nuur",
-27
-],
-[
-"Loch Awe",
-27
-],
-[
-"Lake Sasykkol",
 27
 ],
 [
@@ -1036,51 +1000,31 @@
 27
 ],
 [
-"Lake Manzala",
-27
-],
-[
-"Dian Lake",
-27
-],
-[
-"Lake Pamvotida",
-27
-],
-[
 "Lake Tekapo",
 27
 ],
 [
-"Manych-Gudilo",
+"Lake Petén Itzá",
 27
 ],
 [
-"Loktak Lake",
+"Røssvatnet",
 27
 ],
 [
-"Mullutu-Suurlaht",
+"Loch Awe",
 27
 ],
 [
-"Hallstätter See",
+"Lake Hallwil",
+27
+],
+[
+"Lake Chany",
 27
 ],
 [
 "Lake Tharthar",
-27
-],
-[
-"Lisi Lake",
-27
-],
-[
-"Lake Khasan",
-27
-],
-[
-"Heaven Lake of Tian Shan",
 27
 ],
 [
@@ -1092,7 +1036,83 @@
 27
 ],
 [
-"Lake Vegoritida",
+"Rainy Lake",
+27
+],
+[
+"Lake Sasykkol",
+27
+],
+[
+"Manych-Gudilo",
+27
+],
+[
+"Lisi Lake",
+27
+],
+[
+"Tegernsee",
+27
+],
+[
+"Loktak Lake",
+27
+],
+[
+"Mullutu-Suurlaht",
+27
+],
+[
+"Lake Varese",
+27
+],
+[
+"Lake Manzala",
+27
+],
+[
+"Hallstätter See",
+27
+],
+[
+"Lake Khasan",
+27
+],
+[
+"Lake Pamvotida",
+27
+],
+[
+"Dian Lake",
+27
+],
+[
+"Heaven Lake of Tian Shan",
+27
+],
+[
+"Lake Burdur",
+26
+],
+[
+"Lake Pihkva",
+26
+],
+[
+"Dąbie Lake",
+26
+],
+[
+"Lake Copais",
+26
+],
+[
+"Lake Wakatipu",
+26
+],
+[
+"Loch Maree",
 26
 ],
 [
@@ -1104,7 +1124,11 @@
 26
 ],
 [
-"Lake Wakatipu",
+"Lac de Joux",
+26
+],
+[
+"Ägerisee",
 26
 ],
 [
@@ -1124,23 +1148,11 @@
 26
 ],
 [
-"Lac de Joux",
+"Songkhla Lake",
 26
 ],
 [
-"Lacha",
-26
-],
-[
-"Łebsko Lake",
-26
-],
-[
-"Ägerisee",
-26
-],
-[
-"Lake Burdur",
+"Villarrica Lake",
 26
 ],
 [
@@ -1148,15 +1160,7 @@
 26
 ],
 [
-"Lake Pihkva",
-26
-],
-[
-"Lake Ossiach",
-26
-],
-[
-"Kartsakhi Lake",
+"Lake Matano",
 26
 ],
 [
@@ -1164,7 +1168,27 @@
 26
 ],
 [
+"Vembanad",
+26
+],
+[
+"Lake Vegoritida",
+26
+],
+[
+"Łebsko Lake",
+26
+],
+[
+"Lacha",
+26
+],
+[
 "Donuzlav",
+26
+],
+[
+"Kartsakhi Lake",
 26
 ],
 [
@@ -1172,19 +1196,7 @@
 26
 ],
 [
-"Vembanad",
-26
-],
-[
-"Lake Copais",
-26
-],
-[
-"Dąbie Lake",
-26
-],
-[
-"Lake Kulunda",
+"Lake Ossiach",
 26
 ],
 [
@@ -1192,11 +1204,15 @@
 26
 ],
 [
+"Lake Kulunda",
+26
+],
+[
 "Pyramid Lake",
 26
 ],
 [
-"Lake Matano",
+"Lake Keitele",
 26
 ],
 [
@@ -1208,63 +1224,11 @@
 26
 ],
 [
-"Lake Keitele",
-26
-],
-[
-"Loch Maree",
-26
-],
-[
-"Songkhla Lake",
-26
-],
-[
 "Achit Lake",
 26
 ],
 [
-"Villarrica Lake",
-26
-],
-[
-"Lake Çıldır",
-25
-],
-[
-"Atlin Lake",
-25
-],
-[
-"Lake Koroneia",
-25
-],
-[
-"Kochelsee",
-25
-],
-[
-"Sanabria Lake",
-25
-],
-[
-"Crescent Lake",
-25
-],
-[
-"Pyasino",
-25
-],
-[
 "Lake Chamo",
-25
-],
-[
-"Greifensee",
-25
-],
-[
-"Hóp",
 25
 ],
 [
@@ -1272,43 +1236,7 @@
 25
 ],
 [
-"Iskanderkul",
-25
-],
-[
-"Lake Rweru",
-25
-],
-[
-"Segozero",
-25
-],
-[
-"Müggelsee",
-25
-],
-[
-"Lake Sarysu",
-25
-],
-[
-"Lake Idro",
-25
-],
-[
-"Lake Fitri",
-25
-],
-[
-"Lake Marqaköl",
-25
-],
-[
-"Kumpupintil Lake",
-25
-],
-[
-"Kallavesi",
+"Hóp",
 25
 ],
 [
@@ -1316,7 +1244,31 @@
 25
 ],
 [
-"Lake Togo",
+"Lake Marqaköl",
+25
+],
+[
+"Segozero",
+25
+],
+[
+"Crescent Lake",
+25
+],
+[
+"Greifensee",
+25
+],
+[
+"Lake Koroneia",
+25
+],
+[
+"Sanabria Lake",
+25
+],
+[
+"Pyasino",
 25
 ],
 [
@@ -1324,39 +1276,67 @@
 25
 ],
 [
-"Ulungur Lake",
-25
-],
-[
 "Jänisjärvi",
 25
 ],
 [
-"Turtle Lake",
+"Ulungur Lake",
+25
+],
+[
+"Kumpupintil Lake",
+25
+],
+[
+"Lake Rweru",
+25
+],
+[
+"Iskanderkul",
+25
+],
+[
+"Kochelsee",
+25
+],
+[
+"Lake Çıldır",
+25
+],
+[
+"Lake Sarysu",
+25
+],
+[
+"Atlin Lake",
+25
+],
+[
+"Lake Idro",
+25
+],
+[
+"Müggelsee",
+25
+],
+[
+"Lake Fitri",
+25
+],
+[
+"Kallavesi",
+25
+],
+[
+"Lake Togo",
+25
+],
+[
+"Gopło",
 24
 ],
 [
-"Chungará Lake",
-24
-],
-[
-"Lake Abijatta",
-24
-],
-[
-"Lama",
-24
-],
-[
-"Vozhe",
-24
-],
-[
-"Lake Karum",
-24
-],
-[
-"Llyn Tegid",
+"Lake Burtnieks",
 24
 ],
 [
@@ -1368,35 +1348,15 @@
 24
 ],
 [
+"Reschensee",
+24
+],
+[
+"Llyn Tegid",
+24
+],
+[
 "Lake Nipissing",
-24
-],
-[
-"Lonar Lake",
-24
-],
-[
-"Apavatn",
-24
-],
-[
-"Pyhäjärvi",
-24
-],
-[
-"Lake Sarnen",
-24
-],
-[
-"Lake Burtnieks",
-24
-],
-[
-"Gopło",
-24
-],
-[
-"Kleifarvatn",
 24
 ],
 [
@@ -1404,7 +1364,79 @@
 24
 ],
 [
-"Limassol Salt Lake",
+"Lake Karum",
+24
+],
+[
+"Lake Sarnen",
+24
+],
+[
+"Lama",
+24
+],
+[
+"Turtle Lake",
+24
+],
+[
+"Vozhe",
+24
+],
+[
+"Jeziorak",
+24
+],
+[
+"Lake Timsah",
+24
+],
+[
+"Lake Keta",
+24
+],
+[
+"Pyhäjärvi",
+24
+],
+[
+"Lake Manitou",
+24
+],
+[
+"Tso Moriri",
+24
+],
+[
+"Lake Ialpuh",
+24
+],
+[
+"Lonar Lake",
+24
+],
+[
+"Chungará Lake",
+24
+],
+[
+"Coatepeque Caldera",
+24
+],
+[
+"Lake Abijatta",
+24
+],
+[
+"Lake Burullus",
+24
+],
+[
+"Apavatn",
+24
+],
+[
+"Großer Wannsee",
 24
 ],
 [
@@ -1412,7 +1444,11 @@
 24
 ],
 [
-"Loch Lochy",
+"Kleifarvatn",
+24
+],
+[
+"Limassol Salt Lake",
 24
 ],
 [
@@ -1428,19 +1464,7 @@
 24
 ],
 [
-"Coatepeque Caldera",
-24
-],
-[
-"Kainji Lake",
-24
-],
-[
-"Lake Ialpuh",
-24
-],
-[
-"Reschensee",
+"Loch Lochy",
 24
 ],
 [
@@ -1448,15 +1472,7 @@
 24
 ],
 [
-"Großer Wannsee",
-24
-],
-[
-"Lake Manitou",
-24
-],
-[
-"Tso Moriri",
+"Kainji Lake",
 24
 ],
 [
@@ -1464,47 +1480,11 @@
 24
 ],
 [
-"Lake Keta",
-24
-],
-[
-"Lake Burullus",
-24
-],
-[
-"Jeziorak",
-24
-],
-[
-"Lake Timsah",
-24
-],
-[
 "Lake Gairdner",
 24
 ],
 [
-"Vodlozero",
-23
-],
-[
-"Langisjór",
-23
-],
-[
-"Khantayskoye Lake",
-23
-],
-[
-"Umbozero",
-23
-],
-[
-"Lake Akan",
-23
-],
-[
-"Miedwie",
+"Lake Lesina",
 23
 ],
 [
@@ -1512,23 +1492,7 @@
 23
 ],
 [
-"Faaker See",
-23
-],
-[
-"Suurjärv",
-23
-],
-[
-"Lake Lesina",
-23
-],
-[
 "Lake Misurina",
-23
-],
-[
-"Lake Ichkeul",
 23
 ],
 [
@@ -1536,19 +1500,7 @@
 23
 ],
 [
-"Lake Mweru Wantipa",
-23
-],
-[
-"Indawgyi Lake",
-23
-],
-[
 "Lake Shikotsu",
-23
-],
-[
-"Svitiaz",
 23
 ],
 [
@@ -1556,11 +1508,71 @@
 23
 ],
 [
-"Tinnsjå",
+"Svitiaz",
 23
 ],
 [
 "Lake Saroma",
+23
+],
+[
+"Umbozero",
+23
+],
+[
+"Lake Guatavita",
+23
+],
+[
+"Lake Tota",
+23
+],
+[
+"Kezenoyam",
+23
+],
+[
+"Vodlozero",
+23
+],
+[
+"Khantayskoye Lake",
+23
+],
+[
+"Langisjór",
+23
+],
+[
+"Indawgyi Lake",
+23
+],
+[
+"Lake Kuremaa",
+23
+],
+[
+"Lake Akan",
+23
+],
+[
+"Lake Ichkeul",
+23
+],
+[
+"Suurjärv",
+23
+],
+[
+"Miedwie",
+23
+],
+[
+"Faaker See",
+23
+],
+[
+"Lake Mweru Wantipa",
 23
 ],
 [
@@ -1572,24 +1584,36 @@
 23
 ],
 [
+"Tinnsjå",
+23
+],
+[
 "Loch Rannoch",
 23
 ],
 [
-"Kezenoyam",
-23
+"Lake Burgas",
+22
 ],
 [
-"Lake Kuremaa",
-23
+"Lake Varna",
+22
 ],
 [
-"Lake Tota",
-23
+"Uzungöl",
+22
 ],
 [
-"Lake Guatavita",
-23
+"Lake Tengrela",
+22
+],
+[
+"Elliðavatn",
+22
+],
+[
+"Todos los Santos Lake",
+22
 ],
 [
 "Lake Sev",
@@ -1600,91 +1624,7 @@
 22
 ],
 [
-"Todos los Santos Lake",
-22
-],
-[
-"Alpsee",
-22
-],
-[
 "Serpentine",
-22
-],
-[
-"Airag Lake",
-22
-],
-[
-"Lake Akşehir",
-22
-],
-[
-"Elliðavatn",
-22
-],
-[
-"Uzungöl",
-22
-],
-[
-"Lake Varna",
-22
-],
-[
-"Lake Poso",
-22
-],
-[
-"Lake Burgas",
-22
-],
-[
-"Pleshcheyevo Lake",
-22
-],
-[
-"Abrau",
-22
-],
-[
-"Kummerower See",
-22
-],
-[
-"Okanagan Lake",
-22
-],
-[
-"Lake Tsimanampetsotsa",
-22
-],
-[
-"Lake Tamula",
-22
-],
-[
-"Red Lake",
-22
-],
-[
-"Lake Ermistu",
-22
-],
-[
-"Cochrane/Pueyrredón Lake",
-22
-],
-[
-"Gurudongmar Lake",
-22
-],
-[
-"Valdai",
-22
-],
-[
-"Asviejskaje Lake",
 22
 ],
 [
@@ -1692,27 +1632,11 @@
 22
 ],
 [
-"Lake Cheko",
-22
-],
-[
-"Chott Ech Chergui",
-22
-],
-[
-"Lake Tengrela",
-22
-],
-[
-"Lake Salda",
-22
-],
-[
 "Uru Uru Lake",
 22
 ],
 [
-"Lake Hauroko",
+"Alpsee",
 22
 ],
 [
@@ -1720,36 +1644,84 @@
 22
 ],
 [
+"Lake Hauroko",
+22
+],
+[
+"Lake Tsimanampetsotsa",
+22
+],
+[
+"Red Lake",
+22
+],
+[
+"Gurudongmar Lake",
+22
+],
+[
+"Asviejskaje Lake",
+22
+],
+[
+"Valdai",
+22
+],
+[
+"Airag Lake",
+22
+],
+[
+"Abrau",
+22
+],
+[
+"Lake Poso",
+22
+],
+[
 "Lake Akdoğan",
 22
 ],
 [
-"Loch Oich",
-21
+"Lake Ermistu",
+22
 ],
 [
-"Lake Vistonida",
-21
+"Lake Salda",
+22
 ],
 [
-"Hvítárvatn",
-21
+"Chott Ech Chergui",
+22
 ],
 [
-"Almsee",
-21
+"Lake Akşehir",
+22
 ],
 [
-"Keret",
-21
+"Okanagan Lake",
+22
 ],
 [
-"Asveja",
-21
+"Lake Tamula",
+22
 ],
 [
-"Lake Maninjau",
-21
+"Kummerower See",
+22
+],
+[
+"Cochrane/Pueyrredón Lake",
+22
+],
+[
+"Lake Cheko",
+22
+],
+[
+"Pleshcheyevo Lake",
+22
 ],
 [
 "Lake Chiuta",
@@ -1760,67 +1732,11 @@
 21
 ],
 [
-"Lake Afrera",
-21
-],
-[
-"Lake Pátzcuaro",
-21
-],
-[
-"Großer Plöner See",
-21
-],
-[
-"Lake Engure",
-21
-],
-[
-"Laugarvatn",
-21
-],
-[
 "Coniston Water",
 21
 ],
 [
-"Titisee",
-21
-],
-[
-"Lake Pichola",
-21
-],
-[
-"Lake Razna",
-21
-],
-[
-"Loch Leven",
-21
-],
-[
-"Loch Ericht",
-21
-],
-[
-"Loch Shiel",
-21
-],
-[
-"Loch Katrine",
-21
-],
-[
-"Lake Hammar",
-21
-],
-[
-"Étang Saumâtre",
-21
-],
-[
-"Attabad Lake",
+"Dilolo Lake",
 21
 ],
 [
@@ -1832,39 +1748,35 @@
 21
 ],
 [
-"Dilolo Lake",
-21
-],
-[
-"Talkas",
-21
-],
-[
-"Møsvatn",
-21
-],
-[
-"Lake Köyceğiz",
-21
-],
-[
 "Eemmeer",
 21
 ],
 [
-"Lake Bafa",
+"Lake Pátzcuaro",
 21
 ],
 [
-"Pushkar Lake",
+"Laugarvatn",
 21
 ],
 [
-"Virmajärvi",
+"Lake Vistonida",
 21
 ],
 [
-"Jingpo Lake",
+"Hvítárvatn",
+21
+],
+[
+"Keret",
+21
+],
+[
+"Loch Oich",
+21
+],
+[
+"Lake Maninjau",
 21
 ],
 [
@@ -1872,23 +1784,95 @@
 21
 ],
 [
-"Nyuk",
-20
+"Loch Ericht",
+21
 ],
 [
-"Eibsee",
-20
+"Loch Katrine",
+21
 ],
 [
-"Lake Zway",
-20
+"Loch Shiel",
+21
 ],
 [
-"Lake Abant",
-20
+"Møsvatn",
+21
 ],
 [
-"Lake Abitibi",
+"Loch Leven",
+21
+],
+[
+"Asveja",
+21
+],
+[
+"Almsee",
+21
+],
+[
+"Lake Köyceğiz",
+21
+],
+[
+"Lake Hammar",
+21
+],
+[
+"Étang Saumâtre",
+21
+],
+[
+"Lake Pichola",
+21
+],
+[
+"Lake Afrera",
+21
+],
+[
+"Talkas",
+21
+],
+[
+"Großer Plöner See",
+21
+],
+[
+"Lake Engure",
+21
+],
+[
+"Lake Razna",
+21
+],
+[
+"Titisee",
+21
+],
+[
+"Jingpo Lake",
+21
+],
+[
+"Pushkar Lake",
+21
+],
+[
+"Attabad Lake",
+21
+],
+[
+"Lake Bafa",
+21
+],
+[
+"Virmajärvi",
+21
+],
+[
+"Lake Bunyonyi",
 20
 ],
 [
@@ -1896,127 +1880,7 @@
 20
 ],
 [
-"Pragser Wildsee",
-20
-],
-[
-"Amadjuak Lake",
-20
-],
-[
-"Yashikul",
-20
-],
-[
-"Hachirōgata",
-20
-],
-[
-"Galvė",
-20
-],
-[
-"Baker Lake",
-20
-],
-[
-"Jablaničko Lake",
-20
-],
-[
-"Lac de la Gruyère",
-20
-],
-[
-"Lake Bunyonyi",
-20
-],
-[
-"Fjallavatn",
-20
-],
-[
 "Lake Shinji",
-20
-],
-[
-"Plateliai",
-20
-],
-[
-"Schaalsee",
-20
-],
-[
-"Bolon",
-20
-],
-[
-"Lake Esrum",
-20
-],
-[
-"Arresø",
-20
-],
-[
-"Dümmer",
-20
-],
-[
-"Lake Chew Bahir",
-20
-],
-[
-"Plauer See",
-20
-],
-[
-"Böön Tsagaan Lake",
-20
-],
-[
-"Saghamo Lake",
-20
-],
-[
-"Gooimeer",
-20
-],
-[
-"Chott el Hodna",
-20
-],
-[
-"Lake Biograd",
-20
-],
-[
-"Aluminé Lake",
-20
-],
-[
-"Terkhiin Tsagaan Lake",
-20
-],
-[
-"Pulicat Lake",
-20
-],
-[
-"Bucura Lake",
-20
-],
-[
-"Spotted Lake",
-20
-],
-[
-"Čyrvonaje",
-20
-],
-[
-"Puula",
 20
 ],
 [
@@ -2024,7 +1888,31 @@
 20
 ],
 [
-"Blue Lake",
+"Puula",
+20
+],
+[
+"Hachirōgata",
+20
+],
+[
+"Lake Esrum",
+20
+],
+[
+"Baker Lake",
+20
+],
+[
+"Nyuk",
+20
+],
+[
+"Jablaničko Lake",
+20
+],
+[
+"Lake Hayq",
 20
 ],
 [
@@ -2036,55 +1924,131 @@
 20
 ],
 [
-"Vesijärvi",
-20
-],
-[
 "Kootenay Lake",
 20
 ],
 [
-"Lake Hayq",
+"Vesijärvi",
 20
 ],
 [
-"Keurusselkä",
-19
+"Lake Zway",
+20
 ],
 [
-"Lake Mistassini",
-19
+"Čyrvonaje",
+20
 ],
 [
-"Hvalvatn",
-19
+"Aluminé Lake",
+20
 ],
 [
-"Lake Melville",
-19
+"Plateliai",
+20
 ],
 [
-"Dörgön Lake",
-19
+"Bolon",
+20
 ],
 [
-"Ypacaraí Lake",
-19
+"Galvė",
+20
 ],
 [
-"Lake Galichskoe",
-19
+"Eibsee",
+20
 ],
 [
-"Lake Orivesi",
-19
+"Yashikul",
+20
 ],
 [
-"Lake Lauerz",
-19
+"Terkhiin Tsagaan Lake",
+20
 ],
 [
-"Lake Pukaki",
+"Lake Abant",
+20
+],
+[
+"Saghamo Lake",
+20
+],
+[
+"Lake Abitibi",
+20
+],
+[
+"Spotted Lake",
+20
+],
+[
+"Pragser Wildsee",
+20
+],
+[
+"Amadjuak Lake",
+20
+],
+[
+"Fjallavatn",
+20
+],
+[
+"Gooimeer",
+20
+],
+[
+"Lake Chew Bahir",
+20
+],
+[
+"Lac de la Gruyère",
+20
+],
+[
+"Dümmer",
+20
+],
+[
+"Arresø",
+20
+],
+[
+"Schaalsee",
+20
+],
+[
+"Plauer See",
+20
+],
+[
+"Pulicat Lake",
+20
+],
+[
+"Chott el Hodna",
+20
+],
+[
+"Böön Tsagaan Lake",
+20
+],
+[
+"Bucura Lake",
+20
+],
+[
+"Lake Biograd",
+20
+],
+[
+"Blue Lake",
+20
+],
+[
+"Lake Bolshoye Toko",
 19
 ],
 [
@@ -2092,71 +2056,11 @@
 19
 ],
 [
-"Lake Bolshoye Toko",
-19
-],
-[
 "Lake Hamana",
 19
 ],
 [
-"Lake Kuş",
-19
-],
-[
-"Ozhogino Lake",
-19
-],
-[
-"Lake Saiful Muluk",
-19
-],
-[
-"Ala-Kul",
-19
-],
-[
-"Lake Roś",
-19
-],
-[
 "Lake Vico",
-19
-],
-[
-"Lake Sary-Chelek",
-19
-],
-[
-"Lake Niegocin",
-19
-],
-[
-"Coipasa Lake",
-19
-],
-[
-"Dubawnt Lake",
-19
-],
-[
-"Lake Parz",
-19
-],
-[
-"Mstino",
-19
-],
-[
-"Jack London Lake",
-19
-],
-[
-"Schliersee",
-19
-],
-[
-"Dryviaty",
 19
 ],
 [
@@ -2172,15 +2076,35 @@
 19
 ],
 [
-"Batllava Lake",
+"Dubawnt Lake",
 19
 ],
 [
-"Lukomskaje",
+"Lake Pukaki",
 19
 ],
 [
-"Strusta",
+"Lake Lauerz",
+19
+],
+[
+"Lake Mistassini",
+19
+],
+[
+"Keurusselkä",
+19
+],
+[
+"Lake Melville",
+19
+],
+[
+"Hvalvatn",
+19
+],
+[
+"Lake Ellsworth",
 19
 ],
 [
@@ -2192,18 +2116,6 @@
 19
 ],
 [
-"Lake Siutghiol",
-19
-],
-[
-"Derwentwater",
-19
-],
-[
-"Grænalón",
-19
-],
-[
 "IJmeer",
 19
 ],
@@ -2212,19 +2124,7 @@
 19
 ],
 [
-"Lake Ellsworth",
-19
-],
-[
 "Snåsavatnet",
-19
-],
-[
-"Üüreg Lake",
-19
-],
-[
-"Lake St. John",
 19
 ],
 [
@@ -2236,83 +2136,107 @@
 19
 ],
 [
-"Lake Winnipesaukee",
-18
+"Lake Kuş",
+19
 ],
 [
-"Adams Lake",
-18
+"Lake Niegocin",
+19
 ],
 [
-"Kilpisjärvi",
-18
+"Ala-Kul",
+19
 ],
 [
-"Aberdeen Lake",
-18
+"Lake Sary-Chelek",
+19
 ],
 [
-"Fuxian Lake",
-18
+"Lake Parz",
+19
 ],
 [
-"Lake Claire",
-18
+"Lukomskaje",
+19
 ],
 [
-"Qeli Lake",
-18
+"Strusta",
+19
 ],
 [
-"Lake Michigan–Huron",
-18
+"Mstino",
+19
 ],
 [
-"Gampriner Seele",
-18
+"Dörgön Lake",
+19
 ],
 [
-"Lake Baldegg",
-18
+"Ozhogino Lake",
+19
 ],
 [
-"Lake Mapourika",
-18
+"Ypacaraí Lake",
+19
 ],
 [
-"Spitzingsee",
-18
+"Lake Galichskoe",
+19
 ],
 [
-"Tomasee",
-18
+"Coipasa Lake",
+19
 ],
 [
-"Nerpichye Lake",
-18
+"Lake Orivesi",
+19
+],
+[
+"Jack London Lake",
+19
+],
+[
+"Lake Saiful Muluk",
+19
+],
+[
+"Lake Roś",
+19
+],
+[
+"Lake Siutghiol",
+19
+],
+[
+"Dryviaty",
+19
+],
+[
+"Batllava Lake",
+19
+],
+[
+"Schliersee",
+19
+],
+[
+"Derwentwater",
+19
+],
+[
+"Grænalón",
+19
+],
+[
+"Üüreg Lake",
+19
+],
+[
+"Lake St. John",
+19
 ],
 [
 "Tauragnas",
-18
-],
-[
-"Siletiteniz",
-18
-],
-[
-"Lake of Banyoles",
-18
-],
-[
-"Lake Aheru",
-18
-],
-[
-"Sihlsee",
-18
-],
-[
-"Loch Arkaig",
 18
 ],
 [
@@ -2324,55 +2248,7 @@
 18
 ],
 [
-"Bustakh",
-18
-],
-[
-"Salvatnet",
-18
-],
-[
-"Furesø",
-18
-],
-[
-"Kournas",
-18
-],
-[
-"Morské oko",
-18
-],
-[
-"Bandak",
-18
-],
-[
-"Bassenthwaite Lake",
-18
-],
-[
-"Lake Butrint",
-18
-],
-[
-"Liepāja Lake",
-18
-],
-[
-"Lake Kisale",
-18
-],
-[
-"Shalkarteniz",
-18
-],
-[
-"Lake Hajikabul",
-18
-],
-[
-"Bras d'Or Lake",
+"Fuxian Lake",
 18
 ],
 [
@@ -2380,15 +2256,23 @@
 18
 ],
 [
-"Tenaya Lake",
+"Lake of Banyoles",
 18
 ],
 [
-"Sperillen",
+"Lake Michigan–Huron",
 18
 ],
 [
-"Kanozero",
+"Lake Baldegg",
+18
+],
+[
+"Lake Claire",
+18
+],
+[
+"Seneca Lake",
 18
 ],
 [
@@ -2400,7 +2284,23 @@
 18
 ],
 [
-"Veerse Meer",
+"Gampriner Seele",
+18
+],
+[
+"Liepāja Lake",
+18
+],
+[
+"Sperillen",
+18
+],
+[
+"Kanozero",
+18
+],
+[
+"Tenaya Lake",
 18
 ],
 [
@@ -2416,92 +2316,108 @@
 18
 ],
 [
-"Seneca Lake",
+"Loch Arkaig",
 18
 ],
 [
-"Øyeren",
-17
+"Lake Mapourika",
+18
 ],
 [
-"Maligne Lake",
-17
+"Salvatnet",
+18
 ],
 [
-"Rotsee",
-17
+"Kilpisjärvi",
+18
 ],
 [
-"Lake Yliki",
-17
+"Furesø",
+18
 ],
 [
-"Lake Singkarak",
-17
+"Lake Winnipesaukee",
+18
 ],
 [
-"Sartai",
-17
+"Nerpichye Lake",
+18
 ],
 [
-"Lämmijärv",
-17
+"Qeli Lake",
+18
 ],
 [
-"Veluwemeer",
-17
+"Morské oko",
+18
 ],
 [
-"Lake Letas",
-17
+"Lake Aheru",
+18
 ],
 [
-"Karersee",
-17
+"Bustakh",
+18
 ],
 [
-"Lake Towuti",
-17
+"Adams Lake",
+18
 ],
 [
-"Lake Winnebago",
-17
+"Aberdeen Lake",
+18
 ],
 [
-"Puruvesi",
-17
+"Lake Kisale",
+18
 ],
 [
-"Siling Lake",
-17
+"Lake Hajikabul",
+18
 ],
 [
-"Lake Erçek",
-17
+"Siletiteniz",
+18
 ],
 [
-"Kushmurun",
-17
+"Spitzingsee",
+18
 ],
 [
-"Hreðavatn",
-17
+"Shalkarteniz",
+18
 ],
 [
-"Wast Water",
-17
+"Sihlsee",
+18
 ],
 [
-"Klopeiner See",
-17
+"Tomasee",
+18
 ],
 [
-"Lake Fianga",
-17
+"Bandak",
+18
 ],
 [
-"Lake Sartlan",
-17
+"Bassenthwaite Lake",
+18
+],
+[
+"Lake Butrint",
+18
+],
+[
+"Kournas",
+18
+],
+[
+"Bras d'Or Lake",
+18
+],
+[
+"Veerse Meer",
+18
 ],
 [
 "Bygdin",
@@ -2512,51 +2428,15 @@
 17
 ],
 [
-"Carska Bara",
+"Lämmijärv",
 17
 ],
 [
-"Manchar Lake",
+"Sartai",
 17
 ],
 [
 "Brosno",
-17
-],
-[
-"Lake Tegel",
-17
-],
-[
-"Lünersee",
-17
-],
-[
-"Vanajavesi",
-17
-],
-[
-"Lauricocha Lake",
-17
-],
-[
-"Yak Loum",
-17
-],
-[
-"Gaoyou Lake",
-17
-],
-[
-"Sabkhat al-Jabbul",
-17
-],
-[
-"Cold Lake",
-17
-],
-[
-"Tavatuy",
 17
 ],
 [
@@ -2572,35 +2452,79 @@
 17
 ],
 [
-"Palena/General Vintter Lake",
+"Lake Batur",
 17
 ],
 [
-"Lake Kamyslybas",
+"Lake Erçek",
 17
 ],
 [
-"Suavjärvi",
+"Lake Fianga",
 17
 ],
 [
-"Vyhanaščanskaje",
+"Puruvesi",
 17
 ],
 [
-"Lake Acıgöl",
+"Siling Lake",
 17
 ],
 [
-"Lough Conn",
+"Karersee",
 17
 ],
 [
-"Begnas Lake",
+"Fierza Reservoir",
+17
+],
+[
+"Lake Yliki",
+17
+],
+[
+"Lake Peigneur",
+17
+],
+[
+"Ķīšezers",
 17
 ],
 [
 "Haukivesi",
+17
+],
+[
+"Lake Gardno",
+17
+],
+[
+"Rotsee",
+17
+],
+[
+"Ketelmeer",
+17
+],
+[
+"Puyehue Lake",
+17
+],
+[
+"Lake Winnebago",
+17
+],
+[
+"Lake Ahémé",
+17
+],
+[
+"Tavatuy",
+17
+],
+[
+"Vanajavesi",
 17
 ],
 [
@@ -2612,23 +2536,59 @@
 17
 ],
 [
-"Grüner See",
+"Kushmurun",
 17
 ],
 [
-"Fierza Reservoir",
+"Tabatskuri Lake",
 17
 ],
 [
-"Lake Batur",
+"Lake Towuti",
 17
 ],
 [
-"Ketelmeer",
+"Lake Singkarak",
 17
 ],
 [
-"Fuschlsee",
+"Lake Sartlan",
+17
+],
+[
+"Vyhanaščanskaje",
+17
+],
+[
+"Lake Acıgöl",
+17
+],
+[
+"Carska Bara",
+17
+],
+[
+"Manchar Lake",
+17
+],
+[
+"Lake Kamyslybas",
+17
+],
+[
+"Suavjärvi",
+17
+],
+[
+"Yak Loum",
+17
+],
+[
+"Sabkhat al-Jabbul",
+17
+],
+[
+"Øyeren",
 17
 ],
 [
@@ -2640,6 +2600,10 @@
 17
 ],
 [
+"Begnas Lake",
+17
+],
+[
 "Lake Jõksi",
 17
 ],
@@ -2648,7 +2612,63 @@
 17
 ],
 [
-"Lake Gardno",
+"Maligne Lake",
+17
+],
+[
+"Wast Water",
+17
+],
+[
+"Lake Letas",
+17
+],
+[
+"Hreðavatn",
+17
+],
+[
+"Veluwemeer",
+17
+],
+[
+"Grüner See",
+17
+],
+[
+"Gaoyou Lake",
+17
+],
+[
+"Lünersee",
+17
+],
+[
+"Klopeiner See",
+17
+],
+[
+"Lake Tegel",
+17
+],
+[
+"Cold Lake",
+17
+],
+[
+"Palena/General Vintter Lake",
+17
+],
+[
+"Lauricocha Lake",
+17
+],
+[
+"Fuschlsee",
+17
+],
+[
+"Lough Conn",
 17
 ],
 [
@@ -2656,64 +2676,8 @@
 17
 ],
 [
-"Ķīšezers",
-17
-],
-[
 "Snudy",
 17
-],
-[
-"Lake Peigneur",
-17
-],
-[
-"Puyehue Lake",
-17
-],
-[
-"Lake Ahémé",
-17
-],
-[
-"Tabatskuri Lake",
-17
-],
-[
-"Lake Hāwea",
-16
-],
-[
-"Tollensesee",
-16
-],
-[
-"Lake Vrana",
-16
-],
-[
-"Lucrinus Lacus",
-16
-],
-[
-"Lake Techirghiol",
-16
-],
-[
-"Gods Lake",
-16
-],
-[
-"Babine Lake",
-16
-],
-[
-"Island Lake",
-16
-],
-[
-"Lagos Lagoon",
-16
 ],
 [
 "Lake Jipe",
@@ -2724,15 +2688,7 @@
 16
 ],
 [
-"Lake Żarnowiec",
-16
-],
-[
-"Jungfernsee",
-16
-],
-[
-"Ashtamudi Lake",
+"Lake Amara",
 16
 ],
 [
@@ -2740,163 +2696,11 @@
 16
 ],
 [
-"Upper Sûre Lake",
+"Lake Hāwea",
 16
 ],
 [
-"Lake Gordon",
-16
-],
-[
-"Moosehead Lake",
-16
-],
-[
-"Lake Habbaniyah",
-16
-],
-[
-"Untersee",
-16
-],
-[
-"Palcacocha Lake",
-16
-],
-[
-"Lake Abashiri",
-16
-],
-[
-"Lake Kwania",
-16
-],
-[
-"Schwielochsee",
-16
-],
-[
-"Gjende",
-16
-],
-[
-"Situ Gintung",
-16
-],
-[
-"Khoton Lake",
-16
-],
-[
-"Lake Sentani",
-16
-],
-[
-"Yathkyed Lake",
-16
-],
-[
-"Inder Lake",
-16
-],
-[
-"Asylykul",
-16
-],
-[
-"Mogotoyevo Lake",
-16
-],
-[
-"Lake Akna",
-16
-],
-[
-"Lake Frome",
-16
-],
-[
-"Limingen",
-16
-],
-[
-"Salar de Coipasa",
-16
-],
-[
-"Lesjaskogsvatnet",
-16
-],
-[
-"Bazaleti Lake",
-16
-],
-[
-"Lake Ngozi",
-16
-],
-[
-"Madatapa Lake",
-16
-],
-[
-"Phoksundo Lake",
-16
-],
-[
-"Bear Lake",
-16
-],
-[
-"Baunt",
-16
-],
-[
-"Laguna Miscanti",
-16
-],
-[
-"Wild Lake",
-16
-],
-[
-"Aursund",
-16
-],
-[
-"Saint Mary Lake",
-16
-],
-[
-"Lake Sapanca",
-16
-],
-[
-"Lake Issyk",
-16
-],
-[
-"Svir Lake",
-16
-],
-[
-"Lake Cyohoha South",
-16
-],
-[
-"Perućac lake",
-16
-],
-[
-"Höytiäinen",
-16
-],
-[
-"Pihlajavesi",
-16
-],
-[
-"Lake Mutanda",
+"Lake Żarnowiec",
 16
 ],
 [
@@ -2904,19 +2708,19 @@
 16
 ],
 [
-"Frying Pan Lake",
+"Gods Lake",
 16
 ],
 [
-"Žuvintas Lake",
+"Lake Techirghiol",
 16
 ],
 [
-"Lake Amara",
+"Lake of Two Mountains",
 16
 ],
 [
-"Blidinje Lake",
+"Roxen",
 16
 ],
 [
@@ -2928,11 +2732,7 @@
 16
 ],
 [
-"Iešjávri",
-16
-],
-[
-"Lake Güija",
+"Babine Lake",
 16
 ],
 [
@@ -2940,31 +2740,259 @@
 16
 ],
 [
-"Roxen",
+"Island Lake",
 16
 ],
 [
-"Lake of Two Mountains",
+"Lake Güija",
 16
 ],
 [
-"Bennett Lake",
+"Palcacocha Lake",
+16
+],
+[
+"Jungfernsee",
+16
+],
+[
+"Lesjaskogsvatnet",
+16
+],
+[
+"Limingen",
+16
+],
+[
+"Salar de Coipasa",
+16
+],
+[
+"Yathkyed Lake",
+16
+],
+[
+"Lake Ngozi",
+16
+],
+[
+"Asylykul",
+16
+],
+[
+"Pihlajavesi",
+16
+],
+[
+"Lake Issyk",
+16
+],
+[
+"Lake Vrana",
+16
+],
+[
+"Khoton Lake",
+16
+],
+[
+"Moosehead Lake",
+16
+],
+[
+"Lake Habbaniyah",
+16
+],
+[
+"Ashtamudi Lake",
+16
+],
+[
+"Upper Sûre Lake",
+16
+],
+[
+"Mogotoyevo Lake",
+16
+],
+[
+"Bazaleti Lake",
+16
+],
+[
+"Svir Lake",
+16
+],
+[
+"Laguna Miscanti",
+16
+],
+[
+"Wild Lake",
+16
+],
+[
+"Lake Cyohoha South",
+16
+],
+[
+"Madatapa Lake",
+16
+],
+[
+"Phoksundo Lake",
+16
+],
+[
+"Tollensesee",
+16
+],
+[
+"Žuvintas Lake",
+16
+],
+[
+"Lake Gordon",
+16
+],
+[
+"Iešjávri",
+16
+],
+[
+"Inder Lake",
+16
+],
+[
+"Lucrinus Lacus",
+16
+],
+[
+"Schwielochsee",
+16
+],
+[
+"Lake Kwania",
+16
+],
+[
+"Lagos Lagoon",
+16
+],
+[
+"Untersee",
+16
+],
+[
+"Lake Abashiri",
+16
+],
+[
+"Situ Gintung",
+16
+],
+[
+"Gjende",
+16
+],
+[
+"Lake Sentani",
+16
+],
+[
+"Lake Akna",
+16
+],
+[
+"Lake Frome",
+16
+],
+[
+"Lake Mutanda",
+16
+],
+[
+"Aursund",
+16
+],
+[
+"Saint Mary Lake",
+16
+],
+[
+"Baunt",
+16
+],
+[
+"Bear Lake",
+16
+],
+[
+"Lake Sapanca",
+16
+],
+[
+"Blidinje Lake",
+16
+],
+[
+"Höytiäinen",
+16
+],
+[
+"Frying Pan Lake",
+16
+],
+[
+"Perućac lake",
+16
+],
+[
+"Lough Gill",
 15
 ],
 [
-"Kinney Lake",
+"Luodis",
 15
 ],
 [
-"Columbia Lake",
+"Ubinskoye",
 15
 ],
 [
-"Lake Chukchagirskoye",
+"Lake Tondano",
 15
 ],
 [
-"Kenai Lake",
+"Selbusjøen",
+15
+],
+[
+"Dauphin Lake",
+15
+],
+[
+"Sandsvatn",
+15
+],
+[
+"Lungerersee",
+15
+],
+[
+"Grevelingen",
+15
+],
+[
+"Chapo Lake",
+15
+],
+[
+"Lake Hornborga",
+15
+],
+[
+"Iro Lake",
 15
 ],
 [
@@ -2972,7 +3000,83 @@
 15
 ],
 [
-"Lake Waikaremoana",
+"Lake Argyle",
+15
+],
+[
+"Leksozero",
+15
+],
+[
+"Lago di Viverone",
+15
+],
+[
+"Lake Kaniere",
+15
+],
+[
+"Trnovačko Lake",
+15
+],
+[
+"Southern Indian Lake",
+15
+],
+[
+"Vyalozero",
+15
+],
+[
+"Viken",
+15
+],
+[
+"Lake Chukchagirskoye",
+15
+],
+[
+"Koyashskoye",
+15
+],
+[
+"Kenai Lake",
+15
+],
+[
+"Ezerische",
+15
+],
+[
+"Lake Kizi",
+15
+],
+[
+"Manasbal Lake",
+15
+],
+[
+"Udyl",
+15
+],
+[
+"Puelo Lake",
+15
+],
+[
+"Sognsvann",
+15
+],
+[
+"Totak",
+15
+],
+[
+"Bannoye Lake",
+15
+],
+[
+"Turgoyak",
 15
 ],
 [
@@ -2980,7 +3084,7 @@
 15
 ],
 [
-"Lake Mungo",
+"Lake Nazik",
 15
 ],
 [
@@ -2996,83 +3100,15 @@
 15
 ],
 [
-"Luodis",
-15
-],
-[
-"Ubinskoye",
-15
-],
-[
 "Boren",
 15
 ],
 [
-"Lungerersee",
+"Jugla Lake",
 15
 ],
 [
-"Lake Nazik",
-15
-],
-[
-"Lough Gill",
-15
-],
-[
-"Trnovačko Lake",
-15
-],
-[
-"Lake Boraphet",
-15
-],
-[
-"Southern Indian Lake",
-15
-],
-[
-"Lago di Varano",
-15
-],
-[
-"Żywiec Lake",
-15
-],
-[
-"Blausee",
-15
-],
-[
-"Lake Davos",
-15
-],
-[
-"Selbusjøen",
-15
-],
-[
-"Dauphin Lake",
-15
-],
-[
-"Boyuk Alagol",
-15
-],
-[
-"Gyaring Lake",
-15
-],
-[
-"Glubokoe",
-15
-],
-[
-"Sognsvann",
-15
-],
-[
-"Dove Lake",
+"Dianshan Lake",
 15
 ],
 [
@@ -3084,15 +3120,7 @@
 15
 ],
 [
-"Lake Tondano",
-15
-],
-[
-"Manasbal Lake",
-15
-],
-[
-"Neor Lake",
+"Senezh",
 15
 ],
 [
@@ -3104,59 +3132,19 @@
 15
 ],
 [
-"Udyl",
+"Bennett Lake",
 15
 ],
 [
-"Puelo Lake",
+"Columbia Lake",
 15
 ],
 [
-"Totak",
+"Kinney Lake",
 15
 ],
 [
-"Turgoyak",
-15
-],
-[
-"Jugla Lake",
-15
-],
-[
-"Pitelis",
-15
-],
-[
-"Vyalozero",
-15
-],
-[
-"Viken",
-15
-],
-[
-"Senezh",
-15
-],
-[
-"Dianshan Lake",
-15
-],
-[
-"Rama Lake",
-15
-],
-[
-"Lake Hornborga",
-15
-],
-[
-"Nieščarda",
-15
-],
-[
-"Lake Ağgöl",
+"Lake McDonald",
 15
 ],
 [
@@ -3168,55 +3156,7 @@
 15
 ],
 [
-"Lake McDonald",
-15
-],
-[
-"Riffelsee",
-15
-],
-[
-"Sovetskaya",
-15
-],
-[
-"Bannoye Lake",
-15
-],
-[
-"Pressegger See",
-15
-],
-[
-"Ezerische",
-15
-],
-[
-"Lake Kizi",
-15
-],
-[
-"Bovilla reservoir",
-15
-],
-[
-"Loch Assynt",
-15
-],
-[
-"Kasba Lake",
-15
-],
-[
-"Lake Babati",
-15
-],
-[
-"Sandsvatn",
-15
-],
-[
-"Cree Lake",
+"Neor Lake",
 15
 ],
 [
@@ -3228,39 +3168,99 @@
 15
 ],
 [
-"Iro Lake",
+"Rama Lake",
 15
 ],
 [
-"Lago di Viverone",
+"Lake Babati",
 15
 ],
 [
-"Lake Kaniere",
+"Nieščarda",
 15
 ],
 [
-"Lake Argyle",
+"Żywiec Lake",
 15
 ],
 [
-"Chapo Lake",
+"Lake Ağgöl",
+15
+],
+[
+"Boyuk Alagol",
+15
+],
+[
+"Gyaring Lake",
+15
+],
+[
+"Lake Waikaremoana",
+15
+],
+[
+"Pitelis",
+15
+],
+[
+"Lake Mungo",
+15
+],
+[
+"Lake Boraphet",
+15
+],
+[
+"Lago di Varano",
+15
+],
+[
+"Glubokoe",
+15
+],
+[
+"Dove Lake",
+15
+],
+[
+"Riffelsee",
+15
+],
+[
+"Blausee",
+15
+],
+[
+"Lake Davos",
+15
+],
+[
+"Kasba Lake",
+15
+],
+[
+"Pressegger See",
+15
+],
+[
+"Bovilla reservoir",
+15
+],
+[
+"Loch Assynt",
+15
+],
+[
+"Sovetskaya",
+15
+],
+[
+"Cree Lake",
 15
 ],
 [
 "Petexbatún",
-15
-],
-[
-"Leksozero",
-15
-],
-[
-"Grevelingen",
-15
-],
-[
-"Koyashskoye",
 15
 ]
 ]

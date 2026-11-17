@@ -44,11 +44,11 @@
 66
 ],
 [
-"kung fu",
+"speleology",
 63
 ],
 [
-"speleology",
+"kung fu",
 63
 ],
 [
@@ -60,19 +60,19 @@
 60
 ],
 [
-"esports",
-59
-],
-[
 "winter sport",
 59
 ],
 [
-"team sport",
-57
+"esports",
+59
 ],
 [
 "short-track speed skating",
+57
+],
+[
+"team sport",
 57
 ],
 [
@@ -92,11 +92,11 @@
 48
 ],
 [
-"bicycle touring",
+"extreme sport",
 48
 ],
 [
-"extreme sport",
+"bicycle touring",
 48
 ],
 [
@@ -140,15 +140,15 @@
 36
 ],
 [
+"national sport",
+35
+],
+[
 "dancesport",
 35
 ],
 [
 "Para sport",
-35
-],
-[
-"national sport",
 35
 ],
 [
@@ -172,28 +172,20 @@
 30
 ],
 [
-"ancient Greek boxing",
-29
-],
-[
 "professional sport",
 29
 ],
 [
-"Jallikattu",
-28
+"ancient Greek boxing",
+29
 ],
 [
 "kemari",
 28
 ],
 [
-"inline hockey",
-26
-],
-[
-"kho kho",
-26
+"Jallikattu",
+28
 ],
 [
 "street workout",
@@ -201,6 +193,14 @@
 ],
 [
 "Shitō-ryū",
+26
+],
+[
+"kho kho",
+26
+],
+[
+"inline hockey",
 26
 ],
 [
@@ -216,16 +216,20 @@
 24
 ],
 [
-"spearfishing",
+"Harpastum",
 24
 ],
 [
-"Harpastum",
+"spearfishing",
 24
 ],
 [
 "Jōdō",
 23
+],
+[
+"Vovinam",
+22
 ],
 [
 "pahlevani and zurkhaneh rituals",
@@ -236,8 +240,12 @@
 22
 ],
 [
-"Vovinam",
-22
+"Francombat",
+21
+],
+[
+"Turkish archery",
+21
 ],
 [
 "bull-leaping",
@@ -248,16 +256,16 @@
 21
 ],
 [
-"Turkish archery",
-21
-],
-[
-"Francombat",
-21
-],
-[
 "Bo-Taoshi",
 21
+],
+[
+"Fierljeppen",
+20
+],
+[
+"hoop rolling",
+20
 ],
 [
 "individual sport",
@@ -265,18 +273,6 @@
 ],
 [
 "FIA Formula 4",
-20
-],
-[
-"Fierljeppen",
-20
-],
-[
-"land sailing",
-20
-],
-[
-"hoop rolling",
 20
 ],
 [
@@ -288,6 +284,10 @@
 20
 ],
 [
+"land sailing",
+20
+],
+[
 "Kyz kuu",
 19
 ],
@@ -296,7 +296,7 @@
 19
 ],
 [
-"professional boxing",
+"Kings League",
 18
 ],
 [
@@ -304,15 +304,15 @@
 18
 ],
 [
+"street hockey",
+18
+],
+[
 "pato",
 18
 ],
 [
-"Kings League",
-18
-],
-[
-"street hockey",
+"professional boxing",
 18
 ],
 [
@@ -332,7 +332,7 @@
 17
 ],
 [
-"dog sport",
+"Reining",
 16
 ],
 [
@@ -340,11 +340,19 @@
 16
 ],
 [
-"Reining",
+"snatch",
 16
 ],
 [
 "tent pegging",
+16
+],
+[
+"dog sport",
+16
+],
+[
+"Big Bash League",
 16
 ],
 [
@@ -356,23 +364,7 @@
 16
 ],
 [
-"Big Bash League",
-16
-],
-[
 "cornhole",
-15
-],
-[
-"canicross",
-15
-],
-[
-"sports tourism",
-15
-],
-[
-"Jogo do Pau",
 15
 ],
 [
@@ -380,7 +372,7 @@
 15
 ],
 [
-"snatch",
+"Jogo do Pau",
 15
 ],
 [
@@ -388,7 +380,15 @@
 15
 ],
 [
+"sports tourism",
+15
+],
+[
 "bodysurfing",
+15
+],
+[
+"canicross",
 15
 ]
 ]

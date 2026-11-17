@@ -88,7 +88,7 @@
 22
 ],
 [
-"net",
+"lamé",
 20
 ],
 [
@@ -96,7 +96,7 @@
 20
 ],
 [
-"lamé",
+"net",
 20
 ],
 [
@@ -144,11 +144,11 @@
 13
 ],
 [
-"sea silk",
+"ulos",
 12
 ],
 [
-"ulos",
+"sea silk",
 12
 ],
 [
@@ -168,11 +168,11 @@
 10
 ],
 [
-"bamboo textile",
+"sailcloth",
 10
 ],
 [
-"sailcloth",
+"cambric",
 10
 ],
 [
@@ -184,43 +184,43 @@
 10
 ],
 [
-"barkcloth",
-10
-],
-[
 "cheviot",
 10
 ],
 [
-"cambric",
+"barkcloth",
 10
 ],
 [
-"zephyr",
-9
+"bamboo textile",
+10
 ],
 [
 "African wax print",
 9
 ],
 [
-"covert coat",
-8
+"zephyr",
+9
 ],
 [
 "manuterge",
 8
 ],
 [
-"Dacron",
+"Hestia Tapestry",
+8
+],
+[
+"covert coat",
+8
+],
+[
+"Kuba textiles",
 8
 ],
 [
 "African textiles",
-8
-],
-[
-"Hestia Tapestry",
 8
 ],
 [
@@ -232,15 +232,15 @@
 8
 ],
 [
-"Kuba textiles",
+"Dacron",
 8
 ],
 [
-"Maya textiles",
+"filet lace",
 7
 ],
 [
-"filet lace",
+"Maya textiles",
 7
 ],
 [
@@ -248,15 +248,11 @@
 7
 ],
 [
+"Echigo-jofu",
+6
+],
+[
 "hypocephalus",
-6
-],
-[
-"funeral pall",
-6
-],
-[
-"Khayamiya",
 6
 ],
 [
@@ -268,15 +264,15 @@
 6
 ],
 [
-"Echigo-jofu",
+"Khayamiya",
 6
 ],
 [
-"korhogo cloth",
-5
+"funeral pall",
+6
 ],
 [
-"Piñatex",
+"elastic",
 5
 ],
 [
@@ -284,7 +280,35 @@
 5
 ],
 [
+"alindi",
+5
+],
+[
 "Siamoise",
+5
+],
+[
+"seam allowance",
+5
+],
+[
+"Piñatex",
+5
+],
+[
+"korhogo cloth",
+5
+],
+[
+"cotton lisle",
+5
+],
+[
+"asmalyk",
+5
+],
+[
+"Kota Doria",
 5
 ],
 [
@@ -293,30 +317,6 @@
 ],
 [
 "Dustcloth",
-5
-],
-[
-"seam allowance",
-5
-],
-[
-"cotton lisle",
-5
-],
-[
-"alindi",
-5
-],
-[
-"asmalyk",
-5
-],
-[
-"elastic",
-5
-],
-[
-"Kota Doria",
 5
 ]
 ]

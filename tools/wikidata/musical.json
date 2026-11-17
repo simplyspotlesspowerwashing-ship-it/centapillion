@@ -20,11 +20,11 @@
 59
 ],
 [
-"Idina Menzel",
+"Sarah Brightman",
 55
 ],
 [
-"Sarah Brightman",
+"Idina Menzel",
 55
 ],
 [
@@ -36,19 +36,19 @@
 49
 ],
 [
-"Richard Rodgers",
-47
-],
-[
 "Kristin Chenoweth",
 47
 ],
 [
-"Lea Salonga",
-46
+"Richard Rodgers",
+47
 ],
 [
 "Stephen Sondheim",
+46
+],
+[
+"Lea Salonga",
 46
 ],
 [
@@ -68,7 +68,7 @@
 42
 ],
 [
-"Bo Burnham",
+"Elaine Paige",
 40
 ],
 [
@@ -76,7 +76,7 @@
 40
 ],
 [
-"Elaine Paige",
+"Bo Burnham",
 40
 ],
 [
@@ -104,11 +104,11 @@
 33
 ],
 [
-"Bob's Burgers",
+"Elena of Avalor",
 33
 ],
 [
-"Elena of Avalor",
+"Bob's Burgers",
 33
 ],
 [
@@ -116,11 +116,11 @@
 32
 ],
 [
-"Paul Laurence Dunbar",
+"Raimonds Pauls",
 30
 ],
 [
-"Raimonds Pauls",
+"Stephen Schwartz",
 30
 ],
 [
@@ -128,7 +128,7 @@
 30
 ],
 [
-"Stephen Schwartz",
+"Paul Laurence Dunbar",
 30
 ],
 [
@@ -144,15 +144,15 @@
 27
 ],
 [
+"Rapunzel's Tangled Adventure",
+26
+],
+[
 "Larisa Dolina",
 26
 ],
 [
 "Michael Crawford",
-26
-],
-[
-"Rapunzel's Tangled Adventure",
 26
 ],
 [
@@ -172,11 +172,11 @@
 23
 ],
 [
-"Frederick Loewe",
+"John Kander",
 23
 ],
 [
-"John Kander",
+"Frederick Loewe",
 23
 ],
 [
@@ -184,15 +184,15 @@
 22
 ],
 [
-"Claude-Michel Schönberg",
-21
-],
-[
 "Leslie Bricusse",
 21
 ],
 [
 "Dorothy Fields",
+21
+],
+[
+"Claude-Michel Schönberg",
 21
 ],
 [
@@ -212,14 +212,6 @@
 18
 ],
 [
-"Mario Frangoulis",
-17
-],
-[
-"Konstantin Meladze",
-17
-],
-[
 "Diamonds Are a Girl's Best Friend",
 17
 ],
@@ -228,7 +220,7 @@
 17
 ],
 [
-"Nurit Hirsh",
+"Konstantin Meladze",
 17
 ],
 [
@@ -236,12 +228,16 @@
 17
 ],
 [
+"Nurit Hirsh",
+17
+],
+[
 "Guildo Horn",
 17
 ],
 [
-"High School Musical",
-16
+"Mario Frangoulis",
+17
 ],
 [
 "Noah Galvin",
@@ -252,12 +248,8 @@
 16
 ],
 [
-"Emmanuel Moire",
-15
-],
-[
-"Marc Blitzstein",
-15
+"High School Musical",
+16
 ],
 [
 "R. Murray Schafer",
@@ -272,6 +264,30 @@
 15
 ],
 [
+"Marc Blitzstein",
+15
+],
+[
+"Emmanuel Moire",
+15
+],
+[
+"Dollie de Luxe",
+14
+],
+[
+"The Sound of Magic",
+14
+],
+[
+"Tick, Tick... Boom!",
+14
+],
+[
+"Oleh Vynnyk",
+14
+],
+[
 "Sheldon Harnick",
 14
 ],
@@ -280,23 +296,7 @@
 14
 ],
 [
-"Dollie de Luxe",
-14
-],
-[
-"Tick, Tick... Boom!",
-14
-],
-[
 "Michael Dapaah",
-14
-],
-[
-"Oleh Vynnyk",
-14
-],
-[
-"The Sound of Magic",
 14
 ],
 [
@@ -308,15 +308,7 @@
 13
 ],
 [
-"RSO Records",
-12
-],
-[
 "Anastasija Stockaja",
-12
-],
-[
-"Madhav Prasad Ghimire",
 12
 ],
 [
@@ -324,7 +316,15 @@
 12
 ],
 [
-"Marlen Angelidou",
+"Madhav Prasad Ghimire",
+12
+],
+[
+"RSO Records",
+12
+],
+[
+"Mihai Timofti",
 11
 ],
 [
@@ -332,11 +332,7 @@
 11
 ],
 [
-"Damien Sargue",
-11
-],
-[
-"Mihai Timofti",
+"Marlen Angelidou",
 11
 ],
 [
@@ -344,7 +340,11 @@
 11
 ],
 [
-"Carrie Hope Fletcher",
+"Damien Sargue",
+11
+],
+[
+"Secrets of Summer",
 10
 ],
 [
@@ -356,10 +356,6 @@
 10
 ],
 [
-"Gennady Gladkov",
-10
-],
-[
 "Jason Robert Brown",
 10
 ],
@@ -368,15 +364,11 @@
 10
 ],
 [
-"Hugh Martin",
+"Carrie Hope Fletcher",
 10
 ],
 [
-"Charlie and the Chocolate Factory",
-10
-],
-[
-"Secrets of Summer",
+"Gennady Gladkov",
 10
 ],
 [
@@ -384,7 +376,19 @@
 10
 ],
 [
-"Martin Crewes",
+"Charlie and the Chocolate Factory",
+10
+],
+[
+"Hugh Martin",
+10
+],
+[
+"Cheer Up",
+9
+],
+[
+"Ivan Ozhogin",
 9
 ],
 [
@@ -392,7 +396,11 @@
 9
 ],
 [
-"Mathilde Santing",
+"The Impossible Dream (The Quest)",
+9
+],
+[
+"Another Day of Sun",
 9
 ],
 [
@@ -408,35 +416,23 @@
 9
 ],
 [
-"The Impossible Dream (The Quest)",
-9
-],
-[
 "Josefin Nilsson",
 9
 ],
 [
-"Another Day of Sun",
+"Mathilde Santing",
 9
 ],
 [
-"Cheer Up",
+"Martin Crewes",
 9
 ],
 [
-"Ivan Ozhogin",
-9
+"Collabro",
+8
 ],
 [
 "Igor Sorin",
-8
-],
-[
-"Jeff Marx",
-8
-],
-[
-"I'll Never Fall in Love Again",
 8
 ],
 [
@@ -444,19 +440,19 @@
 8
 ],
 [
-"I Could Have Danced All Night",
-8
-],
-[
-"Collabro",
-8
-],
-[
 "Mean Girls",
 8
 ],
 [
-"Edward W. Hardy",
+"I'll Never Fall in Love Again",
+8
+],
+[
+"Jeff Marx",
+8
+],
+[
+"I Could Have Danced All Night",
 8
 ],
 [
@@ -464,19 +460,19 @@
 8
 ],
 [
+"Edward W. Hardy",
+8
+],
+[
 "Carolin Fortenbacher",
 7
 ],
 [
-"Scott Fitzgerald",
+"It Was Always Me",
 7
 ],
 [
-"Harry Revel",
-7
-],
-[
-"Tora Augestad",
+"Ayla and The Mirrors",
 7
 ],
 [
@@ -492,7 +488,11 @@
 7
 ],
 [
-"Ayla and The Mirrors",
+"Scott Fitzgerald",
+7
+],
+[
+"Tora Augestad",
 7
 ],
 [
@@ -500,39 +500,43 @@
 7
 ],
 [
-"It Was Always Me",
+"Harry Revel",
 7
-],
-[
-"On the Street Where You Live",
-6
 ],
 [
 "Tsuyoshi Matsubara",
 6
 ],
 [
-"Operettenhaus",
-6
-],
-[
-"Louise Théo",
-6
-],
-[
-"Kaho Shimada",
-6
-],
-[
-"Matthew Strachan",
-6
-],
-[
-"Pennies from Heaven",
+"Carla Guevara Laforteza",
 6
 ],
 [
 "Máté Kamarás",
+6
+],
+[
+"Grease: Rise of the Pink Ladies",
+6
+],
+[
+"Gigantic",
+6
+],
+[
+"Carl Sentance",
+6
+],
+[
+"On the Street Where You Live",
+6
+],
+[
+"Aurore Delplace",
+6
+],
+[
+"Operettenhaus",
 6
 ],
 [
@@ -544,23 +548,19 @@
 6
 ],
 [
-"Carla Guevara Laforteza",
+"Louise Théo",
 6
 ],
 [
-"Aurore Delplace",
+"Matthew Strachan",
 6
 ],
 [
-"Grease: Rise of the Pink Ladies",
+"Pennies from Heaven",
 6
 ],
 [
-"Ralph Blane",
-6
-],
-[
-"Gigantic",
+"Kaho Shimada",
 6
 ],
 [
@@ -568,7 +568,7 @@
 6
 ],
 [
-"Carl Sentance",
+"Ralph Blane",
 6
 ]
 ]

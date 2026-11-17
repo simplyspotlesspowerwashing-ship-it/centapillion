@@ -24,7 +24,7 @@
 59
 ],
 [
-"miso soup",
+"onigiri",
 53
 ],
 [
@@ -32,7 +32,7 @@
 53
 ],
 [
-"onigiri",
+"miso soup",
 53
 ],
 [
@@ -68,7 +68,7 @@
 31
 ],
 [
-"teppanyaki",
+"izakaya",
 30
 ],
 [
@@ -76,15 +76,15 @@
 30
 ],
 [
-"izakaya",
+"teppanyaki",
 30
 ],
 [
-"osechi",
+"tsukemono",
 29
 ],
 [
-"tsukemono",
+"osechi",
 29
 ],
 [
@@ -100,11 +100,11 @@
 26
 ],
 [
-"Chikuwa",
+"gyokuro",
 23
 ],
 [
-"gyokuro",
+"Chikuwa",
 23
 ],
 [
@@ -116,19 +116,19 @@
 21
 ],
 [
-"Jingisukan",
-19
-],
-[
 "curry bread",
 19
 ],
 [
-"Kusa mochi",
-18
+"Jingisukan",
+19
 ],
 [
 "monjayaki",
+18
+],
+[
+"Kusa mochi",
 18
 ],
 [
@@ -136,11 +136,11 @@
 17
 ],
 [
-"Tsukudani",
+"ryōtei",
 16
 ],
 [
-"ryōtei",
+"Tsukudani",
 16
 ],
 [
@@ -148,11 +148,11 @@
 15
 ],
 [
-"toshikoshi soba",
+"nimono",
 11
 ],
 [
-"nimono",
+"toshikoshi soba",
 11
 ],
 [
@@ -208,19 +208,19 @@
 3
 ],
 [
-"Thomas Hynes House",
-3
-],
-[
-"hot roll",
-3
-],
-[
 "tanindon",
 3
 ],
 [
 "Japanese restaurant",
+3
+],
+[
+"Thomas Hynes House",
+3
+],
+[
+"hot roll",
 3
 ]
 ]

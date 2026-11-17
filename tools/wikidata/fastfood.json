@@ -48,11 +48,11 @@
 48
 ],
 [
-"Whataburger",
+"In-N-Out Burger",
 45
 ],
 [
-"In-N-Out Burger",
+"Whataburger",
 45
 ],
 [
@@ -108,11 +108,11 @@
 24
 ],
 [
-"Yoshinoya",
+"Little Caesars",
 24
 ],
 [
-"Little Caesars",
+"Yoshinoya",
 24
 ],
 [
@@ -140,11 +140,11 @@
 17
 ],
 [
-"Sukiya",
+"Quick",
 17
 ],
 [
-"Quick",
+"Sukiya",
 17
 ],
 [
@@ -160,14 +160,6 @@
 16
 ],
 [
-"Sonic Drive-In",
-15
-],
-[
-"Buffalo Wild Wings",
-15
-],
-[
 "Church's Texas Chicken",
 15
 ],
@@ -180,11 +172,19 @@
 15
 ],
 [
-"Burgeranch",
-14
+"Buffalo Wild Wings",
+15
+],
+[
+"Sonic Drive-In",
+15
 ],
 [
 "Nathan's Famous",
+14
+],
+[
+"Burgeranch",
 14
 ],
 [
@@ -192,16 +192,20 @@
 13
 ],
 [
-"Planet Hollywood",
+"Hungry Jack's",
 13
 ],
 [
-"Hungry Jack's",
+"Planet Hollywood",
 13
 ],
 [
 "Gong Cha",
 12
+],
+[
+"Del Taco",
+11
 ],
 [
 "Dodo Pizza",
@@ -212,8 +216,12 @@
 11
 ],
 [
-"Del Taco",
-11
+"Paris Croissant",
+10
+],
+[
+"Krystal",
+10
 ],
 [
 "Raising Cane's Chicken Fingers",
@@ -221,14 +229,6 @@
 ],
 [
 "Wingstop",
-10
-],
-[
-"Paris Croissant",
-10
-],
-[
-"Krystal",
 10
 ],
 [
@@ -240,19 +240,19 @@
 9
 ],
 [
-"Peppes Pizza",
-9
-],
-[
 "Captain D's",
 9
 ],
 [
-"Harvey's",
-8
+"Peppes Pizza",
+9
 ],
 [
 "Fazoli's",
+8
+],
+[
+"Harvey's",
 8
 ],
 [
@@ -260,11 +260,27 @@
 8
 ],
 [
-"Shakey's Pizza",
+"El Pollo Loco",
+7
+],
+[
+"Back Yard Burgers",
+7
+],
+[
+"Pollo Tropical",
+7
+],
+[
+"Cook Out",
 7
 ],
 [
 "Freshness Burger",
+7
+],
+[
+"Shakey's Pizza",
 7
 ],
 [
@@ -276,20 +292,48 @@
 7
 ],
 [
-"El Pollo Loco",
-7
+"Hotto Motto",
+6
 ],
 [
-"Back Yard Burgers",
-7
+"Dom Dom",
+6
 ],
 [
-"Cook Out",
-7
+"Taco Cabana",
+6
 ],
 [
-"Pollo Tropical",
-7
+"Guzman y Gomez",
+6
+],
+[
+"Wasabi",
+6
+],
+[
+"Maoz Vegetarian",
+6
+],
+[
+"Nene Chicken",
+6
+],
+[
+"Cicis",
+6
+],
+[
+"Rostic's",
+6
+],
+[
+"BurgerFi",
+6
+],
+[
+"Al Tazaj",
+6
 ],
 [
 "Donut King",
@@ -312,51 +356,7 @@
 6
 ],
 [
-"Hotto Motto",
-6
-],
-[
-"Dom Dom",
-6
-],
-[
-"BurgerFi",
-6
-],
-[
-"Taco Cabana",
-6
-],
-[
-"Nene Chicken",
-6
-],
-[
-"Wasabi",
-6
-],
-[
-"Guzman y Gomez",
-6
-],
-[
 "WingStreet",
-6
-],
-[
-"Maoz Vegetarian",
-6
-],
-[
-"Cicis",
-6
-],
-[
-"Rostic's",
-6
-],
-[
-"Al Tazaj",
 6
 ],
 [
@@ -368,55 +368,7 @@
 5
 ],
 [
-"Herfy",
-5
-],
-[
-"Cousins Subs",
-5
-],
-[
-"Dixy Chicken",
-5
-],
-[
-"First Kitchen",
-5
-],
-[
-"Mr. Sub",
-5
-],
-[
-"Ringer Hut",
-5
-],
-[
-"Taco John's",
-5
-],
-[
-"Winchell's Donuts",
-5
-],
-[
-"TacoTime",
-5
-],
-[
-"Pizzabakeren",
-5
-],
-[
-"Eggslut",
-5
-],
-[
-"Chicken Republic",
-5
-],
-[
-"Sunset Boulevard",
+"Mie Gacoan",
 5
 ],
 [
@@ -428,7 +380,19 @@
 5
 ],
 [
-"Mie Gacoan",
+"Pizzabakeren",
+5
+],
+[
+"Sunset Boulevard",
+5
+],
+[
+"Eggslut",
+5
+],
+[
+"Chicken Republic",
 5
 ],
 [
@@ -444,15 +408,51 @@
 5
 ],
 [
-"Blimpie",
-5
-],
-[
 "Portillo's Restaurants",
 5
 ],
 [
 "TOGO'S",
+5
+],
+[
+"Blimpie",
+5
+],
+[
+"Cousins Subs",
+5
+],
+[
+"Dixy Chicken",
+5
+],
+[
+"First Kitchen",
+5
+],
+[
+"Herfy",
+5
+],
+[
+"Mr. Sub",
+5
+],
+[
+"Ringer Hut",
+5
+],
+[
+"Taco John's",
+5
+],
+[
+"TacoTime",
+5
+],
+[
+"Winchell's Donuts",
 5
 ]
 ]

@@ -48,27 +48,27 @@
 39
 ],
 [
-"Mothman",
-38
-],
-[
 "Erymanthian Boar",
 38
 ],
 [
-"Mongolian death worm",
-37
+"Mothman",
+38
 ],
 [
 "Purusha",
 37
 ],
 [
-"wyvern",
-36
+"Mongolian death worm",
+37
 ],
 [
 "Makara",
+36
+],
+[
+"wyvern",
 36
 ],
 [
@@ -76,11 +76,11 @@
 34
 ],
 [
-"Melek Taus",
+"Kinnara",
 31
 ],
 [
-"Kinnara",
+"Melek Taus",
 31
 ],
 [
@@ -88,11 +88,11 @@
 31
 ],
 [
-"Empusa",
+"Jersey Devil",
 29
 ],
 [
-"Jersey Devil",
+"Empusa",
 29
 ],
 [
@@ -100,7 +100,7 @@
 28
 ],
 [
-"Bull of Heaven",
+"Huldra",
 27
 ],
 [
@@ -108,11 +108,15 @@
 27
 ],
 [
-"Huldra",
+"Bull of Heaven",
 27
 ],
 [
 "Zhu Bajie",
+26
+],
+[
+"Japanese dragon",
 26
 ],
 [
@@ -128,11 +132,7 @@
 25
 ],
 [
-"Japanese dragon",
-25
-],
-[
-"Namazu",
+"Lady Midday",
 24
 ],
 [
@@ -140,12 +140,20 @@
 24
 ],
 [
-"Lady Midday",
+"Namazu",
 24
 ],
 [
 "cockatrice",
 23
+],
+[
+"Camazotz",
+22
+],
+[
+"Bahamut",
+22
 ],
 [
 "Baku",
@@ -156,12 +164,12 @@
 22
 ],
 [
-"Bahamut",
-22
+"The Beast",
+21
 ],
 [
-"Camazotz",
-22
+"Yeren",
+21
 ],
 [
 "lindworm",
@@ -172,23 +180,15 @@
 21
 ],
 [
-"The Beast",
-21
-],
-[
-"Yeren",
-21
+"vetala",
+20
 ],
 [
 "Taotie",
 20
 ],
 [
-"vetala",
-20
-],
-[
-"Coco",
+"Karkadann",
 19
 ],
 [
@@ -196,15 +196,19 @@
 19
 ],
 [
+"Coco",
+19
+],
+[
 "bishop-fish",
 19
 ],
 [
-"Karkadann",
-19
+"Dullahan",
+18
 ],
 [
-"Iron Wolf",
+"Hiisi",
 18
 ],
 [
@@ -216,15 +220,7 @@
 18
 ],
 [
-"Manananggal",
-18
-],
-[
-"Hiisi",
-18
-],
-[
-"Dullahan",
+"Iron Wolf",
 18
 ],
 [
@@ -232,8 +228,8 @@
 18
 ],
 [
-"yale",
-17
+"Manananggal",
+18
 ],
 [
 "Snow Lion",
@@ -244,15 +240,15 @@
 17
 ],
 [
-"Salmon of Knowledge",
-16
-],
-[
-"Ichthyocentaurs",
-16
+"yale",
+17
 ],
 [
 "Gashadokuro",
+16
+],
+[
+"Salmon of Knowledge",
 16
 ],
 [
@@ -260,7 +256,23 @@
 16
 ],
 [
-"Curupira",
+"Ichthyocentaurs",
+16
+],
+[
+"Drekavac",
+15
+],
+[
+"Vrykolakas",
+15
+],
+[
+"Marid",
+15
+],
+[
+"Raijū",
 15
 ],
 [
@@ -272,19 +284,11 @@
 15
 ],
 [
-"Nahuelito Barrera",
-15
-],
-[
-"Marid",
-15
-],
-[
 "Basajaun",
 15
 ],
 [
-"Raijū",
+"Curupira",
 15
 ],
 [
@@ -292,11 +296,7 @@
 15
 ],
 [
-"Vrykolakas",
-15
-],
-[
-"Drekavac",
+"Nahuelito Barrera",
 15
 ],
 [
@@ -304,11 +304,7 @@
 14
 ],
 [
-"Aghasura",
-14
-],
-[
-"Loveland frog",
+"Balaur",
 14
 ],
 [
@@ -316,7 +312,7 @@
 14
 ],
 [
-"táltos",
+"Loveland frog",
 14
 ],
 [
@@ -324,15 +320,27 @@
 14
 ],
 [
-"Balaur",
+"Aghasura",
 14
+],
+[
+"táltos",
+14
+],
+[
+"Clurichaun",
+13
 ],
 [
 "Hundun",
 13
 ],
 [
-"Aello",
+"Leyak",
+13
+],
+[
+"Al Basty",
 13
 ],
 [
@@ -344,40 +352,12 @@
 13
 ],
 [
-"Al Basty",
+"Aello",
 13
 ],
 [
 "Azhi Dahaka",
 13
-],
-[
-"Leyak",
-13
-],
-[
-"Clurichaun",
-13
-],
-[
-"ahuizotl",
-12
-],
-[
-"Aosaginohi",
-12
-],
-[
-"Indrik",
-12
-],
-[
-"Cithaeronian Lion",
-12
-],
-[
-"Afanc",
-12
 ],
 [
 "Lilin",
@@ -392,51 +372,39 @@
 12
 ],
 [
+"Cithaeronian Lion",
+12
+],
+[
 "aspidochelone",
 12
 ],
 [
-"Antaboga",
-11
+"Indrik",
+12
 ],
 [
-"Mae Nak Phra Khanong",
-11
+"Aosaginohi",
+12
+],
+[
+"Afanc",
+12
+],
+[
+"ahuizotl",
+12
 ],
 [
 "Questing Beast",
 11
 ],
 [
-"Colchian Dragon",
-11
-],
-[
-"Strzyga",
-11
-],
-[
-"Bolla",
+"Zmeu",
 11
 ],
 [
 "Alp",
-11
-],
-[
-"Boitatá",
-11
-],
-[
-"sea goat",
-11
-],
-[
-"Badalisc",
-11
-],
-[
-"Zmeu",
 11
 ],
 [
@@ -448,6 +416,38 @@
 11
 ],
 [
+"Strzyga",
+11
+],
+[
+"sea goat",
+11
+],
+[
+"Badalisc",
+11
+],
+[
+"Boitatá",
+11
+],
+[
+"Colchian Dragon",
+11
+],
+[
+"Antaboga",
+11
+],
+[
+"Mae Nak Phra Khanong",
+11
+],
+[
+"kijo",
+11
+],
+[
 "Asanbosam",
 11
 ],
@@ -456,8 +456,16 @@
 11
 ],
 [
-"kijo",
+"Bolla",
 11
+],
+[
+"Lai Khutsangbi",
+10
+],
+[
+"Chrysomallos",
+10
 ],
 [
 "Mogwai",
@@ -468,11 +476,7 @@
 10
 ],
 [
-"Am Fear Liath Mòr",
-10
-],
-[
-"squonk",
+"Solomon's shamir",
 10
 ],
 [
@@ -480,11 +484,11 @@
 10
 ],
 [
-"Owlman",
+"squonk",
 10
 ],
 [
-"Tartalo",
+"Owlman",
 10
 ],
 [
@@ -492,7 +496,7 @@
 10
 ],
 [
-"Adze",
+"Tartalo",
 10
 ],
 [
@@ -500,7 +504,7 @@
 10
 ],
 [
-"Lai Khutsangbi",
+"Adze",
 10
 ],
 [
@@ -508,55 +512,11 @@
 10
 ],
 [
-"Chrysomallos",
+"Am Fear Liath Mòr",
 10
-],
-[
-"Solomon's shamir",
-10
-],
-[
-"Fur-bearing trout",
-9
-],
-[
-"Lotan",
-9
 ],
 [
 "Hodag",
-9
-],
-[
-"𓃩 Set-animal (jeroglífico)",
-9
-],
-[
-"Minhocão",
-9
-],
-[
-"Vanapagan",
-9
-],
-[
-"Rahab",
-9
-],
-[
-"Pombero",
-9
-],
-[
-"Adlivun",
-9
-],
-[
-"Nasnas",
-9
-],
-[
-"Á Bao A Qu",
 9
 ],
 [
@@ -568,7 +528,7 @@
 9
 ],
 [
-"Nongshaba",
+"Á Bao A Qu",
 9
 ],
 [
@@ -576,63 +536,47 @@
 9
 ],
 [
-"Chullachaqui",
-8
+"Vanapagan",
+9
 ],
 [
-"Herensuge",
-8
+"Pombero",
+9
 ],
 [
-"Pulgasari",
-8
+"Nasnas",
+9
 ],
 [
-"re'em",
-8
+"𓃩 Set-animal (jeroglífico)",
+9
 ],
 [
-"Shishiga",
-8
+"Minhocão",
+9
 ],
 [
-"Pishtaco",
-8
+"Lotan",
+9
 ],
 [
-"Headless Mule",
-8
+"Fur-bearing trout",
+9
 ],
 [
-"Bugonia",
-8
+"Rahab",
+9
 ],
 [
-"Adlet",
-8
+"Adlivun",
+9
 ],
 [
-"Mairu",
-8
+"Nongshaba",
+9
 ],
 [
-"Phorcydes",
-8
-],
-[
-"Bugul Noz",
-8
-],
-[
-"Jentil",
-8
-],
-[
-"Knocker",
-8
-],
-[
-"Ninki Nanka",
+"Shen",
 8
 ],
 [
@@ -644,27 +588,7 @@
 8
 ],
 [
-"Qiongqi",
-8
-],
-[
-"Uchek Langmeitong",
-8
-],
-[
-"Kudan",
-8
-],
-[
 "triple-headed eagle",
-8
-],
-[
-"Shen",
-8
-],
-[
-"Apotamkin",
 8
 ],
 [
@@ -672,11 +596,87 @@
 8
 ],
 [
+"Herensuge",
+8
+],
+[
+"Qiongqi",
+8
+],
+[
+"Ninki Nanka",
+8
+],
+[
+"Knocker",
+8
+],
+[
+"Apotamkin",
+8
+],
+[
+"Adlet",
+8
+],
+[
+"Phorcydes",
+8
+],
+[
+"Mairu",
+8
+],
+[
+"Bugul Noz",
+8
+],
+[
+"Jentil",
+8
+],
+[
+"re'em",
+8
+],
+[
+"Shishiga",
+8
+],
+[
+"Bugonia",
+8
+],
+[
+"Headless Mule",
+8
+],
+[
+"Pulgasari",
+8
+],
+[
+"Chullachaqui",
+8
+],
+[
 "Ilabrat",
 8
 ],
 [
+"Pishtaco",
+8
+],
+[
 "Oynyena Maria",
+8
+],
+[
+"Kudan",
+8
+],
+[
+"Uchek Langmeitong",
 8
 ]
 ]

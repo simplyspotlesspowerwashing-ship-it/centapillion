@@ -36,11 +36,11 @@
 43
 ],
 [
-"lángos",
+"Panipuri",
 42
 ],
 [
-"Panipuri",
+"lángos",
 42
 ],
 [
@@ -68,7 +68,7 @@
 28
 ],
 [
-"nikujaga",
+"rassolnik",
 27
 ],
 [
@@ -76,8 +76,12 @@
 27
 ],
 [
-"rassolnik",
+"nikujaga",
 27
+],
+[
+"hash brown",
+26
 ],
 [
 "aloo gobi",
@@ -88,15 +92,11 @@
 26
 ],
 [
-"hash brown",
-26
-],
-[
-"skordalia",
+"Kugel",
 25
 ],
 [
-"Kugel",
+"skordalia",
 25
 ],
 [
@@ -116,10 +116,6 @@
 23
 ],
 [
-"bubble and squeak",
-22
-],
-[
 "latke",
 22
 ],
@@ -128,7 +124,15 @@
 22
 ],
 [
+"mitraillette",
+22
+],
+[
 "home fries",
+22
+],
+[
+"bubble and squeak",
 22
 ],
 [
@@ -136,19 +140,15 @@
 22
 ],
 [
-"mitraillette",
-22
+"moules-frites",
+21
 ],
 [
 "Himmel und Erde",
 21
 ],
 [
-"kapsalon",
-21
-],
-[
-"moules-frites",
+"tartiflette",
 21
 ],
 [
@@ -156,8 +156,12 @@
 21
 ],
 [
-"tartiflette",
+"kapsalon",
 21
+],
+[
+"Duchess potatoes",
+20
 ],
 [
 "korokke",
@@ -176,14 +180,6 @@
 20
 ],
 [
-"Duchess potatoes",
-20
-],
-[
-"Batata vada",
-19
-],
-[
 "frico",
 19
 ],
@@ -196,7 +192,11 @@
 19
 ],
 [
-"salchipapa",
+"Batata vada",
+19
+],
+[
+"lokša",
 18
 ],
 [
@@ -208,15 +208,15 @@
 18
 ],
 [
-"Stargazy pie",
-18
-],
-[
-"lokša",
-18
-],
-[
 "Coddle",
+18
+],
+[
+"salchipapa",
+18
+],
+[
+"Stargazy pie",
 18
 ],
 [
@@ -224,15 +224,7 @@
 18
 ],
 [
-"Dum Aloo",
-17
-],
-[
 "Kugelis",
-17
-],
-[
-"Tater Tots",
 17
 ],
 [
@@ -240,7 +232,19 @@
 17
 ],
 [
+"Dum Aloo",
+17
+],
+[
+"Tater Tots",
+17
+],
+[
 "Hasselback potatoes",
+16
+],
+[
+"Kalduny",
 16
 ],
 [
@@ -260,10 +264,6 @@
 16
 ],
 [
-"Kalduny",
-16
-],
-[
 "palt",
 15
 ],
@@ -272,11 +272,11 @@
 15
 ],
 [
-"manis",
+"krupnik",
 14
 ],
 [
-"krupnik",
+"manis",
 14
 ],
 [
@@ -284,15 +284,15 @@
 14
 ],
 [
-"pommes dauphine",
-13
-],
-[
 "Pommes Anna",
 13
 ],
 [
-"Kartoffelkäse",
+"potato babka",
+13
+],
+[
+"pommes dauphine",
 13
 ],
 [
@@ -300,8 +300,12 @@
 13
 ],
 [
-"potato babka",
+"Kartoffelkäse",
 13
+],
+[
+"Stovies",
+12
 ],
 [
 "German fries",
@@ -312,15 +316,7 @@
 12
 ],
 [
-"Papa a la Hancaina",
-12
-],
-[
-"Tombet",
-12
-],
-[
-"Aloo pie",
+"Papa rellena",
 12
 ],
 [
@@ -328,7 +324,15 @@
 12
 ],
 [
-"Stovies",
+"Aloo pie",
+12
+],
+[
+"Tombet",
+12
+],
+[
+"Papa a la Hancaina",
 12
 ],
 [
@@ -336,43 +340,11 @@
 12
 ],
 [
-"Papa rellena",
-12
-],
-[
-"kumpir",
-11
-],
-[
 "pâté aux pommes de terre",
 11
 ],
 [
-"Truffade",
-11
-],
-[
-"Quarkkäulchen",
-11
-],
-[
-"champ",
-11
-],
-[
-"Curanto",
-11
-],
-[
-"raspeball",
-11
-],
-[
-"Choorrillanaz",
-11
-],
-[
-"Bauernfrühstück",
+"kumpir",
 11
 ],
 [
@@ -384,6 +356,10 @@
 11
 ],
 [
+"raspeball",
+11
+],
+[
 "Navarin",
 11
 ],
@@ -392,15 +368,31 @@
 11
 ],
 [
+"champ",
+11
+],
+[
+"Curanto",
+11
+],
+[
+"Truffade",
+11
+],
+[
+"Quarkkäulchen",
+11
+],
+[
+"Choorrillanaz",
+11
+],
+[
+"Bauernfrühstück",
+11
+],
+[
 "Lyonnaise potatoes",
-10
-],
-[
-"Tiroler Gröstl",
-10
-],
-[
-"pitepalt",
 10
 ],
 [
@@ -408,23 +400,15 @@
 10
 ],
 [
-"tornado potato",
-9
+"pitepalt",
+10
 ],
 [
-"Aloor Chop",
-9
+"Tiroler Gröstl",
+10
 ],
 [
-"Patatnik",
-9
-],
-[
-"papet Vaudois",
-9
-],
-[
-"Causa a la limeña",
+"Pellkartoffeln",
 9
 ],
 [
@@ -432,11 +416,15 @@
 9
 ],
 [
-"Pellkartoffeln",
+"Causa a la limeña",
 9
 ],
 [
-"fried potatoes",
+"tornado potato",
+9
+],
+[
+"Patatnik",
 9
 ],
 [
@@ -444,7 +432,15 @@
 9
 ],
 [
-"Kulajda",
+"fried potatoes",
+9
+],
+[
+"Aloor Chop",
+9
+],
+[
+"papet Vaudois",
 9
 ],
 [
@@ -452,19 +448,11 @@
 9
 ],
 [
+"Kulajda",
+9
+],
+[
 "potato cake",
-8
-],
-[
-"pommes soufflées",
-8
-],
-[
-"Tatws Pum Munud",
-8
-],
-[
-"black noodles",
 8
 ],
 [
@@ -476,7 +464,19 @@
 8
 ],
 [
+"pommes soufflées",
+8
+],
+[
+"Tatws Pum Munud",
+8
+],
+[
 "potato skins",
+8
+],
+[
+"black noodles",
 8
 ],
 [
@@ -484,7 +484,23 @@
 8
 ],
 [
+"crocchè",
+7
+],
+[
 "Hoppelpoppel",
+7
+],
+[
+"paprikás krumpli",
+7
+],
+[
+"baby potato",
+7
+],
+[
+"Hachis Parmentier",
 7
 ],
 [
@@ -492,11 +508,11 @@
 7
 ],
 [
-"crocchè",
+"Thüringer Klöße",
 7
 ],
 [
-"Thüringer Klöße",
+"Woolton pie",
 7
 ],
 [
@@ -516,14 +532,6 @@
 7
 ],
 [
-"paprikás krumpli",
-7
-],
-[
-"baby potato",
-7
-],
-[
 "Cookbook:Ukrainian Borscht",
 7
 ],
@@ -532,15 +540,23 @@
 7
 ],
 [
-"Woolton pie",
-7
-],
-[
-"Hachis Parmentier",
-7
-],
-[
 "Pipián",
+6
+],
+[
+"rumbledethumps",
+6
+],
+[
+"pie and mash",
+6
+],
+[
+"Maluns",
+6
+],
+[
+"Žemaičių blynai",
 6
 ],
 [
@@ -548,19 +564,11 @@
 6
 ],
 [
-"sweet potato salad",
+"Bombay potato",
 6
 ],
 [
-"Empadão",
-6
-],
-[
-"gamja-ongsimi",
-6
-],
-[
-"shoestring potatoes",
+"Bacalhau à minhota",
 6
 ],
 [
@@ -572,35 +580,15 @@
 6
 ],
 [
-"Bacalhau à minhota",
+"Empadão",
 6
 ],
 [
-"Maluns",
+"sweet potato salad",
 6
 ],
 [
-"rumbledethumps",
-6
-],
-[
-"Bacalhau à Gomes de Sá",
-6
-],
-[
-"patatas a lo pobre",
-6
-],
-[
-"Žemaičių blynai",
-6
-],
-[
-"Bombay potato",
-6
-],
-[
-"Péla",
+"gamja-ongsimi",
 6
 ],
 [
@@ -616,7 +604,7 @@
 6
 ],
 [
-"pie and mash",
+"Péla",
 6
 ],
 [
@@ -624,27 +612,23 @@
 6
 ],
 [
-"potato scone",
-5
+"Bacalhau à Gomes de Sá",
+6
+],
+[
+"patatas a lo pobre",
+6
+],
+[
+"shoestring potatoes",
+6
 ],
 [
 "dibbelabbes",
 5
 ],
 [
-"Bacalhau com natas",
-5
-],
-[
-"Pataniscas",
-5
-],
-[
-"lompe",
-5
-],
-[
-"Kartoffelwurst",
+"potato scone",
 5
 ],
 [
@@ -656,27 +640,39 @@
 5
 ],
 [
-"daigaku imo",
-4
+"Bacalhau com natas",
+5
 ],
 [
-"potato croquette",
-4
+"Kartoffelwurst",
+5
 ],
 [
-"Patatas a la importancia",
-4
+"Pataniscas",
+5
+],
+[
+"lompe",
+5
 ],
 [
 "Polvo à lagareiro",
 4
 ],
 [
-"Patatas alioli",
+"daigaku imo",
 4
 ],
 [
-"egg and chips",
+"Getzen",
+4
+],
+[
+"Raspatat",
+4
+],
+[
+"Patatas a la importancia",
 4
 ],
 [
@@ -688,11 +684,7 @@
 4
 ],
 [
-"Getzen",
-4
-],
-[
-"suquet de peix",
+"potato croquette",
 4
 ],
 [
@@ -700,19 +692,19 @@
 4
 ],
 [
-"Raspatat",
+"egg and chips",
 4
 ],
 [
-"Ulaniv-style potatoes",
-3
+"Patatas alioli",
+4
 ],
 [
-"Ruthenian pierogi",
-3
+"suquet de peix",
+4
 ],
 [
-"Batatas a murro",
+"boh puniaram",
 3
 ],
 [
@@ -724,11 +716,19 @@
 3
 ],
 [
-"Irish potato candy",
+"Ulaniv-style potatoes",
 3
 ],
 [
-"boh puniaram",
+"Ruthenian pierogi",
+3
+],
+[
+"Bacalhau à Narcisa",
+3
+],
+[
+"potato pyzy",
 3
 ],
 [
@@ -744,10 +744,6 @@
 3
 ],
 [
-"Bacalhau à Narcisa",
-3
-],
-[
 "Mermez",
 3
 ],
@@ -760,15 +756,19 @@
 3
 ],
 [
-"potato pyzy",
-3
-],
-[
 "tortelli di patate",
 3
 ],
 [
-"boiled potatoes",
+"Irish potato candy",
+3
+],
+[
+"Batatas a murro",
+3
+],
+[
+"Jaga butter",
 2
 ],
 [
@@ -776,15 +776,7 @@
 2
 ],
 [
-"plato alpujarreño",
-2
-],
-[
-"potato curry",
-2
-],
-[
-"Mustofa Potatoes",
+"Döppekooche",
 2
 ],
 [
@@ -792,15 +784,11 @@
 2
 ],
 [
-"miso potatoes",
+"boiled potatoes",
 2
 ],
 [
-"Farcement",
-2
-],
-[
-"Döppekooche",
+"potato curry",
 2
 ],
 [
@@ -808,11 +796,11 @@
 2
 ],
 [
-"munini-imo",
+"Parsley potatoes",
 2
 ],
 [
-"Jaga butter",
+"plato alpujarreño",
 2
 ],
 [
@@ -820,7 +808,7 @@
 2
 ],
 [
-"Parsley potatoes",
+"Farcement",
 2
 ],
 [
@@ -833,6 +821,18 @@
 ],
 [
 "Bomba toledana",
+2
+],
+[
+"miso potatoes",
+2
+],
+[
+"Mustofa Potatoes",
+2
+],
+[
+"munini-imo",
 2
 ]
 ]

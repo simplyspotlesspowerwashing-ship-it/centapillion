@@ -4,15 +4,11 @@
 156
 ],
 [
-"Grand Theft Auto V",
-96
-],
-[
-"Grand Theft Auto: San Andreas",
+"Roblox",
 88
 ],
 [
-"Roblox",
+"Grand Theft Auto: San Andreas",
 88
 ],
 [
@@ -64,10 +60,6 @@
 62
 ],
 [
-"Call of Duty 4: Modern Warfare",
-60
-],
-[
 "The Sims",
 60
 ],
@@ -76,15 +68,19 @@
 60
 ],
 [
+"Red Dead Redemption 2",
+60
+],
+[
 "Portal",
 60
 ],
 [
-"Dota 2",
+"Call of Duty 4: Modern Warfare",
 60
 ],
 [
-"Red Dead Redemption 2",
+"Dota 2",
 60
 ],
 [
@@ -104,10 +100,6 @@
 55
 ],
 [
-"BioShock",
-54
-],
-[
 "Second Life",
 54
 ],
@@ -120,28 +112,20 @@
 54
 ],
 [
-"The Sims 2",
-53
+"BioShock",
+54
 ],
 [
 "Travian",
 53
 ],
 [
-"Call of Duty: Modern Warfare 2",
+"The Sims 2",
 53
 ],
 [
-"Call of Duty: World at War",
-52
-],
-[
-"Space Invaders",
-52
-],
-[
-"Far Cry 3",
-52
+"Call of Duty: Modern Warfare 2",
+53
 ],
 [
 "The Sims 4",
@@ -152,19 +136,35 @@
 52
 ],
 [
-"Super Mario 64",
-51
+"Call of Duty: World at War",
+52
+],
+[
+"Space Invaders",
+52
+],
+[
+"Clash Royale",
+52
+],
+[
+"Far Cry 3",
+52
 ],
 [
 "Warcraft III: Reign of Chaos",
 51
 ],
 [
-"Spore",
-50
+"Super Mario 64",
+51
 ],
 [
 "Max Payne",
+50
+],
+[
+"Spore",
 50
 ],
 [
@@ -173,10 +173,6 @@
 ],
 [
 "Terraria",
-50
-],
-[
-"Red Dead Redemption",
 50
 ],
 [
@@ -204,6 +200,10 @@
 48
 ],
 [
+"Agar.io",
+47
+],
+[
 "Need for Speed: Most Wanted",
 47
 ],
@@ -212,31 +212,7 @@
 47
 ],
 [
-"Agar.io",
-47
-],
-[
-"Mafia II",
-46
-],
-[
 "Tamagotchi",
-46
-],
-[
-"Far Cry",
-46
-],
-[
-"World of Tanks",
-46
-],
-[
-"Super Mario Bros. 3",
-46
-],
-[
-"War Thunder",
 46
 ],
 [
@@ -244,11 +220,27 @@
 46
 ],
 [
-"Wii Sports",
-45
+"Far Cry",
+46
 ],
 [
-"The Elder Scrolls IV: Oblivion",
+"War Thunder",
+46
+],
+[
+"World of Tanks",
+46
+],
+[
+"Mafia II",
+46
+],
+[
+"Super Mario Bros. 3",
+46
+],
+[
+"Far Cry 4",
 45
 ],
 [
@@ -256,7 +248,7 @@
 45
 ],
 [
-"S.T.A.L.K.E.R.: Shadow of Chernobyl",
+"Call of Duty 2",
 45
 ],
 [
@@ -264,19 +256,7 @@
 45
 ],
 [
-"Call of Duty 2",
-45
-],
-[
-"God of War",
-45
-],
-[
-"Assassin's Creed IV: Black Flag",
-45
-],
-[
-"Far Cry 4",
+"S.T.A.L.K.E.R.: Shadow of Chernobyl",
 45
 ],
 [
@@ -284,11 +264,31 @@
 45
 ],
 [
-"Need for Speed: Carbon",
+"The Elder Scrolls IV: Oblivion",
+45
+],
+[
+"Assassin's Creed IV: Black Flag",
+45
+],
+[
+"Wii Sports",
+45
+],
+[
+"God of War",
+45
+],
+[
+"Resident Evil",
 44
 ],
 [
 "Quake",
+44
+],
+[
+"Need for Speed: Carbon",
 44
 ],
 [
@@ -308,23 +308,19 @@
 44
 ],
 [
-"Resident Evil",
-44
-],
-[
 "Apex Legends",
 44
 ],
 [
+"Call of Duty: Advanced Warfare",
+43
+],
+[
+"Tomb Raider",
+43
+],
+[
 "Diablo",
-43
-],
-[
-"Age of Empires III",
-43
-],
-[
-"Battlefield 3",
 43
 ],
 [
@@ -332,19 +328,11 @@
 43
 ],
 [
-"Silent Hill 2",
-43
-],
-[
-"Mario Kart Wii",
-43
-],
-[
 "The Witcher",
 43
 ],
 [
-"Tomb Raider",
+"Age of Empires III",
 43
 ],
 [
@@ -356,19 +344,43 @@
 43
 ],
 [
-"Call of Duty: Advanced Warfare",
+"Silent Hill 2",
 43
+],
+[
+"Battlefield 3",
+43
+],
+[
+"Mario Kart Wii",
+43
+],
+[
+"Mario Kart 8",
+42
 ],
 [
 "The Legend of Zelda: Ocarina of Time",
 42
 ],
 [
-"The Battle for Wesnoth",
+"Crysis",
 42
 ],
 [
-"Crysis",
+"Super Mario Odyssey",
+42
+],
+[
+"Ghost of Tsushima",
+42
+],
+[
+"Left 4 Dead 2",
+42
+],
+[
+"Myst",
 42
 ],
 [
@@ -384,55 +396,11 @@
 42
 ],
 [
-"Left 4 Dead 2",
-42
-],
-[
-"Myst",
-42
-],
-[
-"Mario Kart 8",
-42
-],
-[
-"Super Mario Odyssey",
-42
-],
-[
-"Ghost of Tsushima",
-42
-],
-[
-"Need for Speed: Underground",
-41
-],
-[
-"Sonic the Hedgehog",
-41
-],
-[
-"Assassin's Creed: Revelations",
-41
-],
-[
-"Resident Evil 3: Nemesis",
-41
-],
-[
-"Rome: Total War",
-41
-],
-[
-"Super Mario Bros. 2",
-41
-],
-[
 "Final Fantasy",
 41
 ],
 [
-"Hearthstone",
+"Outlast",
 41
 ],
 [
@@ -444,31 +412,39 @@
 41
 ],
 [
-"Outlast",
+"Need for Speed: Underground",
 41
 ],
 [
-"Far Cry 2",
-40
+"Sonic the Hedgehog",
+41
+],
+[
+"Rome: Total War",
+41
+],
+[
+"Assassin's Creed: Revelations",
+41
+],
+[
+"Resident Evil 3: Nemesis",
+41
+],
+[
+"Hearthstone",
+41
+],
+[
+"Super Mario Bros. 2",
+41
 ],
 [
 "Minesweeper",
 40
 ],
 [
-"Mass Effect 2",
-40
-],
-[
-"Final Fantasy XII",
-40
-],
-[
-"Battlefield 4",
-40
-],
-[
-"Europa Universalis IV",
+"Far Cry 2",
 40
 ],
 [
@@ -480,11 +456,27 @@
 40
 ],
 [
-"Super Mario Galaxy",
+"Battlefield 4",
+40
+],
+[
+"Europa Universalis IV",
+40
+],
+[
+"Final Fantasy XII",
+40
+],
+[
+"Mass Effect 2",
+40
+],
+[
+"Mario Kart 64",
 39
 ],
 [
-"Assassin's Creed III",
+"Limbo",
 39
 ],
 [
@@ -492,11 +484,35 @@
 39
 ],
 [
-"Mario Kart 64",
+"Flappy Bird",
+39
+],
+[
+"Geometry Dash",
+39
+],
+[
+"Super Mario Galaxy",
+39
+],
+[
+"Tom Clancy's Rainbow Six Siege",
 39
 ],
 [
 "Doom 3",
+39
+],
+[
+"Battlefield 1",
+39
+],
+[
+"Assassin's Creed III",
+39
+],
+[
+"Resident Evil 5",
 39
 ],
 [
@@ -508,31 +524,55 @@
 39
 ],
 [
-"Limbo",
-39
-],
-[
-"Geometry Dash",
-39
-],
-[
-"Tom Clancy's Rainbow Six Siege",
-39
-],
-[
-"Flappy Bird",
-39
-],
-[
-"Battlefield 1",
-39
-],
-[
 "Tekken 3",
 38
 ],
 [
+"GeoGuessr",
+38
+],
+[
+"Watch Dogs",
+38
+],
+[
+"Papers, Please",
+38
+],
+[
+"Assassin's Creed Unity",
+38
+],
+[
+"Hay Day",
+38
+],
+[
+"Rocket League",
+38
+],
+[
 "Warcraft: Orcs & Humans",
+38
+],
+[
+"God of War II",
+38
+],
+[
+"Spider-Man",
+38
+],
+[
+"FIFA 18",
+38
+],
+[
+"The Legend of Zelda: A Link to the Past",
+38
+],
+[
+"Medieval II: Total War",
 38
 ],
 [
@@ -548,11 +588,11 @@
 38
 ],
 [
-"Garry's Mod",
+"Chrono Trigger",
 38
 ],
 [
-"Chrono Trigger",
+"Garry's Mod",
 38
 ],
 [
@@ -564,52 +604,16 @@
 38
 ],
 [
-"Watch Dogs",
-38
-],
-[
-"The Legend of Zelda: A Link to the Past",
-38
-],
-[
-"God of War II",
-38
-],
-[
-"Medieval II: Total War",
-38
-],
-[
-"Assassin's Creed Unity",
-38
-],
-[
-"Hay Day",
-38
-],
-[
-"GeoGuessr",
-38
-],
-[
-"Papers, Please",
-38
-],
-[
-"Spider-Man",
-38
-],
-[
-"Rocket League",
-38
-],
-[
-"FIFA 18",
-38
-],
-[
 "Far Cry 6",
 38
+],
+[
+"God of War III",
+37
+],
+[
+"No Man's Sky",
+37
 ],
 [
 "Wolfenstein 3D",
@@ -620,11 +624,7 @@
 37
 ],
 [
-"God of War III",
-37
-],
-[
-"Final Fantasy IV",
+"Pokémon Yellow",
 37
 ],
 [
@@ -632,7 +632,39 @@
 37
 ],
 [
-"The Walking Dead: Season One",
+"Dead by Daylight",
+37
+],
+[
+"Call of Duty: WWII",
+37
+],
+[
+"Final Fantasy XIII",
+37
+],
+[
+"Final Fantasy VI",
+37
+],
+[
+"Super Smash Bros. Ultimate",
+37
+],
+[
+"Deltarune",
+37
+],
+[
+"Super Mario Bros.: The Lost Levels",
+37
+],
+[
+"Need for Speed: ProStreet",
+37
+],
+[
+"Crusader Kings II",
 37
 ],
 [
@@ -648,51 +680,31 @@
 37
 ],
 [
-"Final Fantasy XIII",
+"Final Fantasy IV",
 37
 ],
 [
-"Super Mario Bros.: The Lost Levels",
+"The Walking Dead: Season One",
 37
 ],
 [
-"Pokémon Yellow",
-37
+"Super Mario Kart",
+36
 ],
 [
-"Final Fantasy VI",
-37
+"Super Mario 3D World",
+36
 ],
 [
-"Need for Speed: ProStreet",
-37
-],
-[
-"Crusader Kings II",
-37
-],
-[
-"No Man's Sky",
-37
-],
-[
-"Dead by Daylight",
-37
-],
-[
-"Call of Duty: WWII",
-37
-],
-[
-"Deltarune",
-37
-],
-[
-"Super Smash Bros. Ultimate",
-37
+"Factorio",
+36
 ],
 [
 "Zelda II: The Adventure of Link",
+36
+],
+[
+"Death Stranding",
 36
 ],
 [
@@ -700,23 +712,39 @@
 36
 ],
 [
-"Super Mario Kart",
+"Need for Speed: The Run",
 36
 ],
 [
-"The Witcher 2: Assassins of Kings",
+"EVE Online",
 36
 ],
 [
-"Final Fantasy II",
+"Mortal Kombat 11",
+36
+],
+[
+"Mario Bros.",
+36
+],
+[
+"Gears of War",
+36
+],
+[
+"Super Mario Land",
+36
+],
+[
+"Heavy Rain",
+36
+],
+[
+"Alice: Madness Returns",
 36
 ],
 [
 "Crash Bandicoot",
-36
-],
-[
-"Need for Speed: The Run",
 36
 ],
 [
@@ -728,43 +756,15 @@
 36
 ],
 [
-"Gears of War",
+"Fall Guys",
 36
 ],
 [
-"EVE Online",
+"The Witcher 2: Assassins of Kings",
 36
 ],
 [
-"Super Mario Land",
-36
-],
-[
-"Mario Bros.",
-36
-],
-[
-"Alice: Madness Returns",
-36
-],
-[
-"Heavy Rain",
-36
-],
-[
-"Factorio",
-36
-],
-[
-"Super Mario 3D World",
-36
-],
-[
-"Death Stranding",
-36
-],
-[
-"Mortal Kombat 11",
+"Final Fantasy II",
 36
 ],
 [
@@ -772,15 +772,7 @@
 36
 ],
 [
-"Fall Guys",
-36
-],
-[
 "Clannad",
-35
-],
-[
-"Empire Earth",
 35
 ],
 [
@@ -788,7 +780,23 @@
 35
 ],
 [
-"Max Payne 2: The Fall of Max Payne",
+"Mortal Kombat X",
+35
+],
+[
+"Bloodborne",
+35
+],
+[
+"Empire Earth",
+35
+],
+[
+"Mafia III",
+35
+],
+[
+"BioShock Infinite",
 35
 ],
 [
@@ -796,7 +804,63 @@
 35
 ],
 [
+"Celeste",
+35
+],
+[
+"Batman: Arkham City",
+35
+],
+[
+"Club Penguin",
+35
+],
+[
+"Dragon Age: Inquisition",
+35
+],
+[
+"Doki Doki Literature Club!",
+35
+],
+[
+"Need for Speed: Undercover",
+35
+],
+[
+"Garena Free Fire",
+35
+],
+[
+"Star Wars Jedi: Fallen Order",
+35
+],
+[
+"Minecraft Dungeons",
+35
+],
+[
+"Kingdom Hearts II",
+35
+],
+[
+"Deus Ex",
+35
+],
+[
+"Animal Crossing: New Horizons",
+35
+],
+[
+"Baldur's Gate",
+35
+],
+[
 "Command & Conquer: Red Alert 2",
+35
+],
+[
+"Mass Effect 3",
 35
 ],
 [
@@ -812,79 +876,11 @@
 35
 ],
 [
-"Mass Effect 3",
-35
-],
-[
-"Batman: Arkham City",
-35
-],
-[
-"Club Penguin",
-35
-],
-[
-"Need for Speed: Undercover",
-35
-],
-[
 "Fate/stay night",
 35
 ],
 [
-"BioShock Infinite",
-35
-],
-[
-"Deus Ex",
-35
-],
-[
-"Kingdom Hearts II",
-35
-],
-[
-"Baldur's Gate",
-35
-],
-[
-"Dragon Age: Inquisition",
-35
-],
-[
-"Mortal Kombat X",
-35
-],
-[
-"Bloodborne",
-35
-],
-[
-"Celeste",
-35
-],
-[
-"Mafia III",
-35
-],
-[
-"Doki Doki Literature Club!",
-35
-],
-[
-"Garena Free Fire",
-35
-],
-[
-"Minecraft Dungeons",
-35
-],
-[
-"Star Wars Jedi: Fallen Order",
-35
-],
-[
-"Animal Crossing: New Horizons",
+"Max Payne 2: The Fall of Max Payne",
 35
 ]
 ]

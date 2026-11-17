@@ -12,8 +12,8 @@
 85
 ],
 [
-"Wilt Chamberlain",
-72
+"Stephen Curry",
+78
 ],
 [
 "Bill Russell",
@@ -24,11 +24,11 @@
 64
 ],
 [
-"Dražen Petrović",
+"Luka Dončić",
 58
 ],
 [
-"Luka Dončić",
+"Dražen Petrović",
 58
 ],
 [
@@ -40,15 +40,15 @@
 56
 ],
 [
+"Pau Gasol",
+55
+],
+[
 "Scottie Pippen",
 55
 ],
 [
 "Arvydas Sabonis",
-55
-],
-[
-"Pau Gasol",
 55
 ],
 [
@@ -76,19 +76,15 @@
 49
 ],
 [
-"Kawhi Leonard",
-49
+"Chris Bosh",
+48
 ],
 [
 "Dikembe Mutombo",
 48
 ],
 [
-"Chris Bosh",
-48
-],
-[
-"Vlade Divac",
+"Manu Ginóbili",
 47
 ],
 [
@@ -100,15 +96,11 @@
 47
 ],
 [
-"Manu Ginóbili",
+"Vlade Divac",
 47
 ],
 [
 "Vince Carter",
-45
-],
-[
-"Metta Sandiford-Artest",
 45
 ],
 [
@@ -124,15 +116,11 @@
 45
 ],
 [
+"Devin Booker",
+44
+],
+[
 "Ricky Rubio",
-44
-],
-[
-"Paul George",
-44
-],
-[
-"Chauncey Billups",
 44
 ],
 [
@@ -140,7 +128,11 @@
 44
 ],
 [
-"Devin Booker",
+"Chauncey Billups",
+44
+],
+[
+"Paul George",
 44
 ],
 [
@@ -152,11 +144,15 @@
 43
 ],
 [
-"Hidayet Türkoğlu",
+"Andrei Kirilenko",
 43
 ],
 [
-"Andrei Kirilenko",
+"Kevin Love",
+43
+],
+[
+"Hidayet Türkoğlu",
 43
 ],
 [
@@ -165,10 +161,6 @@
 ],
 [
 "John Havlicek",
-43
-],
-[
-"Kevin Love",
 43
 ],
 [
@@ -188,6 +180,22 @@
 42
 ],
 [
+"Lamar Odom",
+41
+],
+[
+"Joakim Noah",
+41
+],
+[
+"Serge Ibaka",
+41
+],
+[
+"Miloš Teodosić",
+41
+],
+[
 "Bill Walton",
 41
 ],
@@ -196,27 +204,7 @@
 41
 ],
 [
-"Lamar Odom",
-41
-],
-[
-"Serge Ibaka",
-41
-],
-[
-"Joakim Noah",
-41
-],
-[
-"Miloš Teodosić",
-41
-],
-[
 "Rasheed Wallace",
-40
-],
-[
-"Pete Maravich",
 40
 ],
 [
@@ -224,19 +212,23 @@
 40
 ],
 [
+"Pete Maravich",
+40
+],
+[
 "Rudy Gobert",
 40
 ],
 [
-"Amar'e Stoudemire",
-40
+"Chris Mullin",
+39
 ],
 [
 "Clyde Drexler",
 39
 ],
 [
-"José Calderón",
+"Juan Carlos Navarro",
 39
 ],
 [
@@ -244,15 +236,11 @@
 39
 ],
 [
-"Rick Barry",
-39
-],
-[
 "Shawn Marion",
 39
 ],
 [
-"Chris Mullin",
+"José Calderón",
 39
 ],
 [
@@ -264,27 +252,11 @@
 39
 ],
 [
-"Juan Carlos Navarro",
+"Rick Barry",
 39
 ],
 [
-"Jerry Lucas",
-38
-],
-[
-"Deron Williams",
-38
-],
-[
-"Šarūnas Marčiulionis",
-38
-],
-[
-"George Mikan",
-38
-],
-[
-"Leandro Barbosa",
+"Joel Embiid",
 38
 ],
 [
@@ -292,23 +264,11 @@
 38
 ],
 [
-"Kevin McHale",
-38
-],
-[
-"Andrea Bargnani",
-38
-],
-[
 "Tayshaun Prince",
 38
 ],
 [
-"DeMar DeRozan",
-38
-],
-[
-"Darko Miličić",
+"Deron Williams",
 38
 ],
 [
@@ -316,23 +276,55 @@
 38
 ],
 [
+"George Mikan",
+38
+],
+[
+"Andrea Bargnani",
+38
+],
+[
+"Darko Miličić",
+38
+],
+[
+"Šarūnas Marčiulionis",
+38
+],
+[
+"Jerry Lucas",
+38
+],
+[
 "Goran Dragić",
 38
 ],
 [
-"Joel Embiid",
+"Kevin McHale",
 38
 ],
 [
+"DeMar DeRozan",
+38
+],
+[
+"Leandro Barbosa",
+38
+],
+[
+"Tyson Chandler",
+37
+],
+[
+"Grant Hill",
+37
+],
+[
+"Robert Parish",
+37
+],
+[
 "LaMarcus Aldridge",
-37
-],
-[
-"Aleksandar Đorđević",
-37
-],
-[
-"Domantas Sabonis",
 37
 ],
 [
@@ -348,16 +340,24 @@
 37
 ],
 [
-"Grant Hill",
+"Aleksandar Đorđević",
 37
 ],
 [
-"Tyson Chandler",
+"Domantas Sabonis",
 37
 ],
 [
-"Robert Parish",
-37
+"Dennis Schröder",
+36
+],
+[
+"Muggsy Bogues",
+36
+],
+[
+"Carlos Boozer",
+36
 ],
 [
 "Mike Bibby",
@@ -368,15 +368,15 @@
 36
 ],
 [
-"Carlos Boozer",
-36
-],
-[
-"Nicolas Batum",
-36
-],
-[
 "Manute Bol",
+36
+],
+[
+"Šarūnas Jasikevičius",
+36
+],
+[
+"Boris Diaw",
 36
 ],
 [
@@ -384,7 +384,7 @@
 36
 ],
 [
-"Muggsy Bogues",
+"Nicolas Batum",
 36
 ],
 [
@@ -396,19 +396,15 @@
 36
 ],
 [
-"Šarūnas Jasikevičius",
-36
-],
-[
-"Dennis Schröder",
-36
-],
-[
-"Boris Diaw",
-36
+"Joe Johnson",
+35
 ],
 [
 "Zach LaVine",
+35
+],
+[
+"Álex Abrines",
 35
 ],
 [
@@ -416,27 +412,15 @@
 35
 ],
 [
-"Emeka Okafor",
-35
-],
-[
-"Tyrese Haliburton",
-35
-],
-[
-"Joe Johnson",
-35
-],
-[
 "Richard Hamilton",
 35
 ],
 [
-"Marco Belinelli",
+"Nate Robinson",
 35
 ],
 [
-"Nate Robinson",
+"Emeka Okafor",
 35
 ],
 [
@@ -448,7 +432,11 @@
 35
 ],
 [
-"Álex Abrines",
+"Marco Belinelli",
+35
+],
+[
+"Tyrese Haliburton",
 35
 ],
 [
@@ -456,27 +444,7 @@
 34
 ],
 [
-"Gerald Wallace",
-34
-],
-[
-"Brandon Roy",
-34
-],
-[
-"Chris Webber",
-34
-],
-[
-"Greg Oden",
-34
-],
-[
-"Jermaine O'Neal",
-34
-],
-[
-"DeMarcus Cousins",
+"Cedi Osman",
 34
 ],
 [
@@ -484,15 +452,55 @@
 34
 ],
 [
+"Jamal Murray",
+34
+],
+[
+"Dave Cowens",
+34
+],
+[
+"Ömer Aşık",
+34
+],
+[
+"Brandon Roy",
+34
+],
+[
+"Greg Oden",
+34
+],
+[
+"Michael Redd",
+34
+],
+[
+"Jermaine O'Neal",
+34
+],
+[
+"Luis Scola",
+34
+],
+[
+"Chris Webber",
+34
+],
+[
+"Penny Hardaway",
+34
+],
+[
+"Gerald Wallace",
+34
+],
+[
 "Sasha Vujačić",
 34
 ],
 [
-"DeAndre Jordan",
-34
-],
-[
-"Danilo Gallinari",
+"Stephon Marbury",
 34
 ],
 [
@@ -504,11 +512,15 @@
 34
 ],
 [
-"Luis Scola",
+"DeMarcus Cousins",
 34
 ],
 [
-"Stephon Marbury",
+"Danilo Gallinari",
+34
+],
+[
+"DeAndre Jordan",
 34
 ],
 [
@@ -520,63 +532,11 @@
 34
 ],
 [
-"Dave Cowens",
-34
-],
-[
-"Michael Redd",
-34
-],
-[
-"Penny Hardaway",
-34
-],
-[
-"Ömer Aşık",
-34
-],
-[
-"Cedi Osman",
-34
-],
-[
-"Jamal Murray",
-34
-],
-[
-"Patty Mills",
-33
-],
-[
-"Mehmet Okur",
-33
-],
-[
-"Isaiah Thomas",
-33
-],
-[
-"Shareef Abdur-Rahim",
-33
-],
-[
-"Tiago Splitter",
-33
-],
-[
-"Jorge Garbajosa",
-33
-],
-[
-"Baron Davis",
+"Aaron Gordon",
 33
 ],
 [
 "Lauri Markkanen",
-33
-],
-[
-"John Wall",
 33
 ],
 [
@@ -588,7 +548,35 @@
 33
 ],
 [
-"Aaron Gordon",
+"Baron Davis",
+33
+],
+[
+"Jorge Garbajosa",
+33
+],
+[
+"Mehmet Okur",
+33
+],
+[
+"Isaiah Thomas",
+33
+],
+[
+"John Wall",
+33
+],
+[
+"Shareef Abdur-Rahim",
+33
+],
+[
+"Tiago Splitter",
+33
+],
+[
+"Patty Mills",
 33
 ],
 [
@@ -596,15 +584,43 @@
 32
 ],
 [
-"Chris Kaman",
+"Ben Simmons",
 32
 ],
 [
-"Alex Len",
+"Rui Hachimura",
 32
 ],
 [
-"Mitch Richmond",
+"Dario Šarić",
+32
+],
+[
+"Carlos Delfino",
+32
+],
+[
+"Trae Young",
+32
+],
+[
+"Zion Williamson",
+32
+],
+[
+"Joe Dumars",
+32
+],
+[
+"George Gervin",
+32
+],
+[
+"Eric Gordon",
+32
+],
+[
+"David Andersen",
 32
 ],
 [
@@ -612,19 +628,11 @@
 32
 ],
 [
-"Bob McAdoo",
+"Mitch Richmond",
 32
 ],
 [
-"Nikola Vučević",
-32
-],
-[
-"Shawn Bradley",
-32
-],
-[
-"Steven Adams",
+"Dave Bing",
 32
 ],
 [
@@ -636,23 +644,7 @@
 32
 ],
 [
-"Dave Bing",
-32
-],
-[
-"Carlos Delfino",
-32
-],
-[
-"David Andersen",
-32
-],
-[
-"Joe Dumars",
-32
-],
-[
-"Dario Šarić",
+"Alex Len",
 32
 ],
 [
@@ -660,31 +652,23 @@
 32
 ],
 [
-"Rui Hachimura",
+"Bob McAdoo",
 32
 ],
 [
-"Eric Gordon",
+"Shawn Bradley",
 32
 ],
 [
-"Paul Arizin",
+"Nikola Vučević",
 32
 ],
 [
-"Zion Williamson",
+"Steven Adams",
 32
 ],
 [
-"Ben Simmons",
-32
-],
-[
-"George Gervin",
-32
-],
-[
-"Trae Young",
+"Chris Kaman",
 32
 ],
 [
@@ -692,43 +676,11 @@
 31
 ],
 [
-"Kyle Korver",
+"D'Angelo Russell",
 31
 ],
 [
-"Nate Archibald",
-31
-],
-[
-"Richard Jefferson",
-31
-],
-[
-"Gordon Hayward",
-31
-],
-[
-"Chuck Connors",
-31
-],
-[
-"Anthony Bennett",
-31
-],
-[
-"Andrew Bynum",
-31
-],
-[
-"Christian Laettner",
-31
-],
-[
-"JJ Redick",
-31
-],
-[
-"Dolph Schayes",
+"Brandon Ingram",
 31
 ],
 [
@@ -736,19 +688,11 @@
 31
 ],
 [
-"Danny Green",
+"Andrew Bynum",
 31
 ],
 [
-"Wes Unseld",
-31
-],
-[
-"Mirza Teletović",
-31
-],
-[
-"Tornike Shengelia",
+"Jameer Nelson",
 31
 ],
 [
@@ -760,7 +704,67 @@
 31
 ],
 [
+"Jeff Green",
+31
+],
+[
+"JJ Redick",
+31
+],
+[
+"Kyle Korver",
+31
+],
+[
+"Richard Jefferson",
+31
+],
+[
+"Christian Laettner",
+31
+],
+[
+"Nate Archibald",
+31
+],
+[
+"Paul Arizin",
+31
+],
+[
+"Wes Unseld",
+31
+],
+[
+"Mirza Teletović",
+31
+],
+[
+"Anthony Bennett",
+31
+],
+[
+"Dolph Schayes",
+31
+],
+[
+"Franz Wagner",
+31
+],
+[
+"Danny Green",
+31
+],
+[
+"Chuck Connors",
+31
+],
+[
 "Bradley Beal",
+31
+],
+[
+"Gordon Hayward",
 31
 ],
 [
@@ -768,24 +772,24 @@
 31
 ],
 [
-"D'Angelo Russell",
+"Tornike Shengelia",
 31
 ],
 [
-"Jeff Green",
-31
+"Boban Marjanović",
+30
 ],
 [
-"Jameer Nelson",
-31
+"Dante Exum",
+30
 ],
 [
-"Brandon Ingram",
-31
+"Julius Randle",
+30
 ],
 [
-"Franz Wagner",
-31
+"Rashard Lewis",
+30
 ],
 [
 "Mario Hezonja",
@@ -796,59 +800,7 @@
 30
 ],
 [
-"Trevor Ariza",
-30
-],
-[
-"Jo Jo White",
-30
-],
-[
-"Viktor Khryapa",
-30
-],
-[
-"Jamal Crawford",
-30
-],
-[
-"Joe Ingles",
-30
-],
-[
-"Michael Beasley",
-30
-],
-[
-"Anthony Edwards",
-30
-],
-[
-"Darius Songaila",
-30
-],
-[
-"Ron Harper",
-30
-],
-[
-"Kelly Olynyk",
-30
-],
-[
-"Robert Horry",
-30
-],
-[
 "Jason Terry",
-30
-],
-[
-"Rashard Lewis",
-30
-],
-[
-"Boban Marjanović",
 30
 ],
 [
@@ -856,7 +808,11 @@
 30
 ],
 [
-"Nando de Colo",
+"Viktor Khryapa",
+30
+],
+[
+"Antonio McDyess",
 30
 ],
 [
@@ -868,27 +824,7 @@
 30
 ],
 [
-"Antonio McDyess",
-30
-],
-[
-"Bismack Biyombo",
-30
-],
-[
-"Mario Chalmers",
-30
-],
-[
-"Shane Battier",
-30
-],
-[
-"Julius Randle",
-30
-],
-[
-"Dante Exum",
+"Kelly Olynyk",
 30
 ],
 [
@@ -896,15 +832,67 @@
 30
 ],
 [
+"Michael Beasley",
+30
+],
+[
+"Trevor Ariza",
+30
+],
+[
+"Robert Horry",
+30
+],
+[
+"Mario Chalmers",
+30
+],
+[
+"Ron Harper",
+30
+],
+[
+"Darius Songaila",
+30
+],
+[
+"Jamal Crawford",
+30
+],
+[
+"Shane Battier",
+30
+],
+[
+"Nando de Colo",
+30
+],
+[
+"Jo Jo White",
+30
+],
+[
+"Anthony Edwards",
+30
+],
+[
+"Bismack Biyombo",
+30
+],
+[
+"Joe Ingles",
+30
+],
+[
+"Kentavious Caldwell-Pope",
+29
+],
+[
 "Zach Randolph",
 29
 ],
 [
-"Sergei Monia",
-29
-],
-[
-"Caron Butler",
+"Jason Collins",
 29
 ],
 [
@@ -912,35 +900,11 @@
 29
 ],
 [
-"Aron Baynes",
+"Brandon Jennings",
 29
 ],
 [
-"J. R. Smith",
-29
-],
-[
-"Mark Eaton",
-29
-],
-[
-"Andrés Nocioni",
-29
-],
-[
-"Jonas Jerebko",
-29
-],
-[
-"Fabricio Oberto",
-29
-],
-[
-"Al-Farouq Aminu",
-29
-],
-[
-"Jason Collins",
+"Kirk Hinrich",
 29
 ],
 [
@@ -952,43 +916,7 @@
 29
 ],
 [
-"Nikola Peković",
-29
-],
-[
-"Mike Miller",
-29
-],
-[
-"J. J. Barea",
-29
-],
-[
-"Yi Jianlian",
-29
-],
-[
-"Patrick Beverley",
-29
-],
-[
-"Kirk Hinrich",
-29
-],
-[
-"Kenneth Faried",
-29
-],
-[
-"Brandon Jennings",
-29
-],
-[
-"Kentavious Caldwell-Pope",
-29
-],
-[
-"Chris Andersen",
+"Glen Davis",
 29
 ],
 [
@@ -996,11 +924,15 @@
 29
 ],
 [
-"Nate Thurmond",
+"Sergei Monia",
 29
 ],
 [
-"Pero Antić",
+"Yi Jianlian",
+29
+],
+[
+"Mark Eaton",
 29
 ],
 [
@@ -1008,11 +940,27 @@
 29
 ],
 [
+"Fabricio Oberto",
+29
+],
+[
+"Caron Butler",
+29
+],
+[
+"J. J. Barea",
+29
+],
+[
+"Mike Miller",
+29
+],
+[
 "Andris Biedriņš",
 29
 ],
 [
-"Glen Davis",
+"Al-Farouq Aminu",
 29
 ],
 [
@@ -1020,7 +968,19 @@
 29
 ],
 [
-"Dāvis Bertāns",
+"Nikola Peković",
+29
+],
+[
+"Andrés Nocioni",
+29
+],
+[
+"Jonas Jerebko",
+29
+],
+[
+"Pero Antić",
 29
 ],
 [
@@ -1028,83 +988,35 @@
 29
 ],
 [
-"Tobias Harris",
-28
+"J. R. Smith",
+29
 ],
 [
-"Detlef Schrempf",
-28
+"Aron Baynes",
+29
 ],
 [
-"Raül López",
-28
+"Chris Andersen",
+29
 ],
 [
-"Kris Humphries",
-28
+"Dāvis Bertāns",
+29
 ],
 [
-"Mo Williams",
-28
+"Patrick Beverley",
+29
 ],
 [
-"Derek Fisher",
-28
+"Kenneth Faried",
+29
 ],
 [
-"Hasheem Thabeet",
-28
+"Nate Thurmond",
+29
 ],
 [
-"Marcus Camby",
-28
-],
-[
-"Mahmoud Abdul-Rauf",
-28
-],
-[
-"Steve Smith",
-28
-],
-[
-"Igor Rakočević",
-28
-],
-[
-"Rasho Nesterović",
-28
-],
-[
-"Sam Cassell",
-28
-],
-[
-"Adam Morrison",
-28
-],
-[
-"Horace Grant",
-28
-],
-[
-"Ryan Anderson",
-28
-],
-[
-"Kenyon Martin",
-28
-],
-[
-"Rick Carlisle",
-28
-],
-[
-"CJ McCollum",
-28
-],
-[
-"Monta Ellis",
+"Kendrick Perkins",
 28
 ],
 [
@@ -1112,15 +1024,35 @@
 28
 ],
 [
-"Udonis Haslem",
-28
-],
-[
 "Džanan Musa",
 28
 ],
 [
-"David Lee",
+"Tobias Harris",
+28
+],
+[
+"Derek Fisher",
+28
+],
+[
+"Rick Carlisle",
+28
+],
+[
+"Adam Morrison",
+28
+],
+[
+"Mo Williams",
+28
+],
+[
+"Hasheem Thabeet",
+28
+],
+[
+"Rasho Nesterović",
 28
 ],
 [
@@ -1128,11 +1060,23 @@
 28
 ],
 [
-"Kendrick Perkins",
+"Raül López",
 28
 ],
 [
-"Tristan Thompson",
+"Sam Cassell",
+28
+],
+[
+"Marcus Camby",
+28
+],
+[
+"Kenyon Martin",
+28
+],
+[
+"Kris Humphries",
 28
 ],
 [
@@ -1140,55 +1084,95 @@
 28
 ],
 [
-"Mike Conley Jr.",
-28
-],
-[
 "Sasha Kaun",
 28
 ],
 [
-"Joel Anthony",
+"Ryan Anderson",
+28
+],
+[
+"Igor Rakočević",
+28
+],
+[
+"Monta Ellis",
+28
+],
+[
+"Horace Grant",
+28
+],
+[
+"Steve Smith",
+28
+],
+[
+"David Lee",
+28
+],
+[
+"CJ McCollum",
+28
+],
+[
+"Udonis Haslem",
+28
+],
+[
+"Detlef Schrempf",
+28
+],
+[
+"Mike Conley Jr.",
+28
+],
+[
+"Mahmoud Abdul-Rauf",
+28
+],
+[
+"Tristan Thompson",
+28
+],
+[
+"Fred VanVleet",
 27
 ],
 [
-"Raymond Felton",
+"Deandre Ayton",
 27
 ],
 [
-"Víctor Claver",
+"Frank Ntilikina",
 27
 ],
 [
-"Iman Shumpert",
+"Ivica Zubac",
 27
 ],
 [
-"Derrick Favors",
+"Zoran Dragić",
 27
 ],
 [
-"Paul Millsap",
+"Nemanja Nedović",
 27
 ],
 [
-"Seth Curry",
+"Alex Caruso",
 27
 ],
 [
-"Daniel Theis",
+"Nenad Krstić",
 27
 ],
 [
-"Evan Turner",
+"Antawn Jamison",
 27
 ],
 [
-"James Jones",
-27
-],
-[
-"Fernando Martín",
+"Steve Francis",
 27
 ],
 [
@@ -1200,11 +1184,7 @@
 27
 ],
 [
-"Zoran Dragić",
-27
-],
-[
-"Antawn Jamison",
+"Raymond Felton",
 27
 ],
 [
@@ -1212,7 +1192,15 @@
 27
 ],
 [
-"Nenad Krstić",
+"Víctor Claver",
+27
+],
+[
+"James Jones",
+27
+],
+[
+"Evan Turner",
 27
 ],
 [
@@ -1220,19 +1208,19 @@
 27
 ],
 [
-"Victor Oladipo",
+"Larry Johnson",
 27
 ],
 [
-"Jerami Grant",
+"Fernando Martín",
 27
 ],
 [
-"Deandre Ayton",
+"Derrick Favors",
 27
 ],
 [
-"Greg Monroe",
+"Paul Millsap",
 27
 ],
 [
@@ -1240,31 +1228,7 @@
 27
 ],
 [
-"Elvin Hayes",
-27
-],
-[
-"Steve Francis",
-27
-],
-[
-"Larry Johnson",
-27
-],
-[
-"Fred VanVleet",
-27
-],
-[
-"Alex Caruso",
-27
-],
-[
-"Ivica Zubac",
-27
-],
-[
-"Frank Ntilikina",
+"Joel Anthony",
 27
 ],
 [
@@ -1272,15 +1236,79 @@
 27
 ],
 [
+"Greg Monroe",
+27
+],
+[
+"Jerami Grant",
+27
+],
+[
+"Iman Shumpert",
+27
+],
+[
+"Elvin Hayes",
+27
+],
+[
+"Seth Curry",
+27
+],
+[
+"Victor Oladipo",
+27
+],
+[
 "Nick Calathes",
 27
 ],
 [
-"Nemanja Nedović",
+"Daniel Theis",
 27
 ],
 [
-"Drew Gooden",
+"Cooper Flagg",
+26
+],
+[
+"Ronny Turiaf",
+26
+],
+[
+"Lou Williams",
+26
+],
+[
+"Žan Tabak",
+26
+],
+[
+"Zoran Planinić",
+26
+],
+[
+"Bronny James",
+26
+],
+[
+"Marcus Morris Sr.",
+26
+],
+[
+"Cory Joseph",
+26
+],
+[
+"Michael Finley",
+26
+],
+[
+"Jerry Stackhouse",
+26
+],
+[
+"Devin Harris",
 26
 ],
 [
@@ -1288,15 +1316,23 @@
 26
 ],
 [
+"Mickaël Piétrus",
+26
+],
+[
 "Spud Webb",
 26
 ],
 [
-"Avery Bradley",
+"Semih Erden",
 26
 ],
 [
-"K. C. Jones",
+"Courtney Lee",
+26
+],
+[
+"Drew Gooden",
 26
 ],
 [
@@ -1308,19 +1344,7 @@
 26
 ],
 [
-"Cory Joseph",
-26
-],
-[
-"Devin Harris",
-26
-],
-[
-"Al Jefferson",
-26
-],
-[
-"Jimmer Fredette",
+"Rik Smits",
 26
 ],
 [
@@ -1328,59 +1352,7 @@
 26
 ],
 [
-"D. J. Augustin",
-26
-],
-[
-"Lou Williams",
-26
-],
-[
-"Walt Bellamy",
-26
-],
-[
-"Thaddeus Young",
-26
-],
-[
-"Žan Tabak",
-26
-],
-[
-"Cooper Flagg",
-26
-],
-[
-"Jerry Stackhouse",
-26
-],
-[
-"Ronny Turiaf",
-26
-],
-[
-"Don Nelson",
-26
-],
-[
-"Zoran Planinić",
-26
-],
-[
-"Bill Sharman",
-26
-],
-[
-"Courtney Lee",
-26
-],
-[
-"Sergey Karasev",
-26
-],
-[
-"Mickaël Piétrus",
+"Željko Rebrača",
 26
 ],
 [
@@ -1392,15 +1364,7 @@
 26
 ],
 [
-"Rik Smits",
-26
-],
-[
-"Željko Rebrača",
-26
-],
-[
-"Marcus Morris Sr.",
+"Al Jefferson",
 26
 ],
 [
@@ -1408,11 +1372,19 @@
 26
 ],
 [
+"Jordan Poole",
+26
+],
+[
+"Rodrigue Beaubois",
+26
+],
+[
 "Tim Hardaway Jr.",
 26
 ],
 [
-"Jordan Poole",
+"Darius Garland",
 26
 ],
 [
@@ -1424,31 +1396,11 @@
 26
 ],
 [
+"Jimmer Fredette",
+26
+],
+[
 "Hanno Möttölä",
-26
-],
-[
-"Darius Garland",
-26
-],
-[
-"Michael Finley",
-26
-],
-[
-"Semih Erden",
-26
-],
-[
-"Bronny James",
-26
-],
-[
-"Rodrigue Beaubois",
-26
-],
-[
-"Donatas Motiejūnas",
 26
 ],
 [
@@ -1456,8 +1408,128 @@
 26
 ],
 [
+"Sergey Karasev",
+26
+],
+[
+"Thaddeus Young",
+26
+],
+[
 "Kyle Anderson",
 26
+],
+[
+"Donatas Motiejūnas",
+26
+],
+[
+"D. J. Augustin",
+26
+],
+[
+"Avery Bradley",
+26
+],
+[
+"K. C. Jones",
+26
+],
+[
+"Walt Bellamy",
+26
+],
+[
+"Dan Majerle",
+25
+],
+[
+"Buddy Hield",
+25
+],
+[
+"Jakob Pöltl",
+25
+],
+[
+"Guerschon Yabusele",
+25
+],
+[
+"Moritz Wagner",
+25
+],
+[
+"Lance Stephenson",
+25
+],
+[
+"Markieff Morris",
+25
+],
+[
+"Reggie Jackson",
+25
+],
+[
+"Robert Archibald",
+25
+],
+[
+"A. C. Green",
+25
+],
+[
+"Chase Budinger",
+25
+],
+[
+"Aaron Brooks",
+25
+],
+[
+"Delonte West",
+25
+],
+[
+"Boštjan Nachbar",
+25
+],
+[
+"Brian Scalabrine",
+25
+],
+[
+"Ish Smith",
+25
+],
+[
+"Bill Sharman",
+25
+],
+[
+"Hamed Haddadi",
+25
+],
+[
+"Beno Udrih",
+25
+],
+[
+"Corey Brewer",
+25
+],
+[
+"Shaun Livingston",
+25
+],
+[
+"Matt Barnes",
+25
+],
+[
+"Rudy Tomjanovich",
+25
 ],
 [
 "Rick Adelman",
@@ -1468,75 +1540,7 @@
 25
 ],
 [
-"Aaron Brooks",
-25
-],
-[
-"Nick Young",
-25
-],
-[
-"Derrick Williams",
-25
-],
-[
-"Matt Barnes",
-25
-],
-[
-"Alex English",
-25
-],
-[
-"David West",
-25
-],
-[
-"Ish Smith",
-25
-],
-[
-"Buddy Hield",
-25
-],
-[
-"Dan Majerle",
-25
-],
-[
-"Corey Brewer",
-25
-],
-[
-"A. C. Green",
-25
-],
-[
-"Otto Porter",
-25
-],
-[
-"Lance Stephenson",
-25
-],
-[
-"Reggie Jackson",
-25
-],
-[
-"Markieff Morris",
-25
-],
-[
-"Rudy Tomjanovich",
-25
-],
-[
-"Boštjan Nachbar",
-25
-],
-[
-"Shaun Livingston",
+"Gustavo Ayón",
 25
 ],
 [
@@ -1544,15 +1548,19 @@
 25
 ],
 [
-"Chase Budinger",
+"Nick Young",
 25
 ],
 [
-"Gustavo Ayón",
+"Otto Porter",
 25
 ],
 [
-"Beno Udrih",
+"David West",
+25
+],
+[
+"Alex English",
 25
 ],
 [
@@ -1560,35 +1568,7 @@
 25
 ],
 [
-"Guerschon Yabusele",
-25
-],
-[
-"Robert Archibald",
-25
-],
-[
 "Dave DeBusschere",
-25
-],
-[
-"Delonte West",
-25
-],
-[
-"Brian Scalabrine",
-25
-],
-[
-"Jakob Pöltl",
-25
-],
-[
-"Hamed Haddadi",
-25
-],
-[
-"Moritz Wagner",
 25
 ],
 [
@@ -1596,43 +1576,39 @@
 25
 ],
 [
-"Jarrett Jack",
+"Derrick Williams",
+25
+],
+[
+"Austin Reaves",
 24
 ],
 [
-"Nick Van Exel",
+"Chandler Parsons",
 24
 ],
 [
-"Darrall Imhoff",
+"Dell Curry",
 24
 ],
 [
-"Danny Ainge",
+"Frank Kaminsky",
 24
 ],
 [
-"Jerryd Bayless",
+"Edy Tavares",
 24
 ],
 [
-"Tyronn Lue",
+"Elfrid Payton",
 24
 ],
 [
-"Michael Olowokandi",
+"Malcolm Brogdon",
 24
 ],
 [
-"Jared Sullinger",
-24
-],
-[
-"Ralph Sampson",
-24
-],
-[
-"Marreese Speights",
+"Trey Lyles",
 24
 ],
 [
@@ -1640,23 +1616,43 @@
 24
 ],
 [
-"Randy Foye",
+"Jared Dudley",
 24
 ],
 [
-"Channing Frye",
+"P. J. Tucker",
 24
 ],
 [
-"Gorgui Dieng",
+"Alex Acker",
 24
 ],
 [
-"Bruce Bowen",
+"Roko Ukić",
 24
 ],
 [
-"Nerlens Noel",
+"Dragan Bender",
+24
+],
+[
+"Josh Hart",
+24
+],
+[
+"Marreese Speights",
+24
+],
+[
+"Kevin Séraphin",
+24
+],
+[
+"Tyronn Lue",
+24
+],
+[
+"Markelle Fultz",
 24
 ],
 [
@@ -1664,15 +1660,27 @@
 24
 ],
 [
-"Jabari Parker",
+"Darrall Imhoff",
 24
 ],
 [
-"Norris Cole",
+"Hassan Whiteside",
 24
 ],
 [
-"Jared Dudley",
+"Jaren Jackson Jr.",
+24
+],
+[
+"Clint Capela",
+24
+],
+[
+"Bruce Bowen",
+24
+],
+[
+"Josh Childress",
 24
 ],
 [
@@ -1684,71 +1692,11 @@
 24
 ],
 [
-"Hassan Whiteside",
+"Luigi Datome",
 24
 ],
 [
-"Mike Brown",
-24
-],
-[
-"Luke Walton",
-24
-],
-[
-"Kevin Séraphin",
-24
-],
-[
-"Jordan Hill",
-24
-],
-[
-"Josh Childress",
-24
-],
-[
-"Tyler Herro",
-24
-],
-[
-"Andray Blatche",
-24
-],
-[
-"Roko Ukić",
-24
-],
-[
-"Alex Acker",
-24
-],
-[
-"O. J. Mayo",
-24
-],
-[
-"Michael Carter Williams",
-24
-],
-[
-"Darren Collison",
-24
-],
-[
-"Dragan Bender",
-24
-],
-[
-"Dell Curry",
-24
-],
-[
-"Malcolm Brogdon",
-24
-],
-[
-"Rodney Stuckey",
+"Randy Foye",
 24
 ],
 [
@@ -1756,19 +1704,31 @@
 24
 ],
 [
-"Jahlil Okafor",
+"Luke Walton",
 24
 ],
 [
-"Elfrid Payton",
+"Mike Brown",
 24
 ],
 [
-"Stephane Lasme",
+"O. J. Mayo",
 24
 ],
 [
-"P. J. Tucker",
+"Nerlens Noel",
+24
+],
+[
+"Andray Blatche",
+24
+],
+[
+"Rodney Stuckey",
+24
+],
+[
+"Channing Frye",
 24
 ],
 [
@@ -1776,23 +1736,27 @@
 24
 ],
 [
-"Trey Lyles",
+"Michael Olowokandi",
 24
 ],
 [
-"Luigi Datome",
+"Jordan Hill",
 24
 ],
 [
-"Jaren Jackson Jr.",
+"Darren Collison",
 24
 ],
 [
-"Josh Hart",
+"Jarrett Jack",
 24
 ],
 [
-"Austin Reaves",
+"Gorgui Dieng",
+24
+],
+[
+"Nick Van Exel",
 24
 ],
 [
@@ -1800,27 +1764,19 @@
 24
 ],
 [
-"Salah Mejri",
+"Ralph Sampson",
 24
 ],
 [
-"Frank Kaminsky",
+"Jabari Parker",
 24
 ],
 [
-"Bill Laimbeer",
+"Jahlil Okafor",
 24
 ],
 [
-"Chandler Parsons",
-24
-],
-[
-"Clint Capela",
-24
-],
-[
-"Edy Tavares",
+"Tyler Herro",
 24
 ],
 [
@@ -1828,19 +1784,55 @@
 24
 ],
 [
-"Markelle Fultz",
+"Michael Carter Williams",
 24
 ],
 [
-"Kurt Thomas",
+"Bill Laimbeer",
+24
+],
+[
+"Stephane Lasme",
+24
+],
+[
+"Danny Ainge",
+24
+],
+[
+"Jared Sullinger",
+24
+],
+[
+"Salah Mejri",
+24
+],
+[
+"Jerryd Bayless",
+24
+],
+[
+"Norris Cole",
+24
+],
+[
+"DeJuan Blair",
 23
 ],
 [
-"Arron Afflalo",
+"Alan Anderson",
 23
 ],
 [
-"Stacey Augmon",
+"Don Barksdale",
+23
+],
+[
+"Eric Bledsoe",
+23
+],
+[
+"Joe Bryant",
 23
 ],
 [
@@ -1848,75 +1840,7 @@
 23
 ],
 [
-"Terry Dischinger",
-23
-],
-[
-"Festus Ezeli",
-23
-],
-[
-"DeMarre Carroll",
-23
-],
-[
-"Adrian Dantley",
-23
-],
-[
-"Byron Scott",
-23
-],
-[
-"Carlos Arroyo",
-23
-],
-[
-"Wayne Ellington",
-23
-],
-[
-"Kevin Martin",
-23
-],
-[
-"Roy Hibbert",
-23
-],
-[
-"Jiří Welsch",
-23
-],
-[
-"Mike D'Antoni",
-23
-],
-[
-"Kosta Koufos",
-23
-],
-[
-"John Salley",
-23
-],
-[
-"Sasha Pavlović",
-23
-],
-[
-"Raja Bell",
-23
-],
-[
-"Marvin Williams",
-23
-],
-[
-"Jalen Rose",
-23
-],
-[
-"Marko Jarić",
+"Tyler Zeller",
 23
 ],
 [
@@ -1924,7 +1848,31 @@
 23
 ],
 [
-"Primož Brezec",
+"DeMarre Carroll",
+23
+],
+[
+"Justise Winslow",
+23
+],
+[
+"Furkan Korkmaz",
+23
+],
+[
+"Kevin Johnson",
+23
+],
+[
+"Gordan Giriček",
+23
+],
+[
+"Stacey Augmon",
+23
+],
+[
+"Malik Beasley",
 23
 ],
 [
@@ -1932,7 +1880,35 @@
 23
 ],
 [
-"Hal Greer",
+"Alexis Ajinça",
+23
+],
+[
+"Trevor Booker",
+23
+],
+[
+"Ralph Beard",
+23
+],
+[
+"Terry Dischinger",
+23
+],
+[
+"Ognjen Kuzmić",
+23
+],
+[
+"Vincent Poirier",
+23
+],
+[
+"Collin Sexton",
+23
+],
+[
+"Jarrett Allen",
 23
 ],
 [
@@ -1940,11 +1916,111 @@
 23
 ],
 [
+"RJ Barrett",
+23
+],
+[
+"Landry Fields",
+23
+],
+[
+"Adrian Dantley",
+23
+],
+[
+"Nicolás Laprovittola",
+23
+],
+[
+"Žarko Paspalj",
+23
+],
+[
+"Primož Brezec",
+23
+],
+[
+"Kevin Martin",
+23
+],
+[
+"Sasha Pavlović",
+23
+],
+[
+"Charlie Villanueva",
+23
+],
+[
+"Tom Heinsohn",
+23
+],
+[
+"Al Harrington",
+23
+],
+[
+"Raja Bell",
+23
+],
+[
+"Marko Jarić",
+23
+],
+[
+"Festus Ezeli",
+23
+],
+[
+"Cody Zeller",
+23
+],
+[
+"Marvin Williams",
+23
+],
+[
+"Kosta Koufos",
+23
+],
+[
+"Matt Bonner",
+23
+],
+[
+"Byron Scott",
+23
+],
+[
+"Maciej Lampe",
+23
+],
+[
+"Hal Greer",
+23
+],
+[
+"Carlos Arroyo",
+23
+],
+[
+"Kurt Thomas",
+23
+],
+[
+"Wayne Ellington",
+23
+],
+[
 "Luguentz Dort",
 23
 ],
 [
-"Doug Collins",
+"Arron Afflalo",
+23
+],
+[
+"Luc Longley",
 23
 ],
 [
@@ -1956,59 +2032,7 @@
 23
 ],
 [
-"Ralph Beard",
-23
-],
-[
-"Justise Winslow",
-23
-],
-[
-"Alan Anderson",
-23
-],
-[
-"Joe Bryant",
-23
-],
-[
-"Charlie Villanueva",
-23
-],
-[
-"Landry Fields",
-23
-],
-[
-"Matt Bonner",
-23
-],
-[
-"Don Barksdale",
-23
-],
-[
-"Tyler Zeller",
-23
-],
-[
-"Eric Bledsoe",
-23
-],
-[
-"Al Harrington",
-23
-],
-[
-"Gordan Giriček",
-23
-],
-[
-"Vincent Poirier",
-23
-],
-[
-"Luc Longley",
+"Roy Hibbert",
 23
 ],
 [
@@ -2016,51 +2040,7 @@
 23
 ],
 [
-"Maciej Lampe",
-23
-],
-[
-"Collin Sexton",
-23
-],
-[
-"Alexis Ajinça",
-23
-],
-[
-"Furkan Korkmaz",
-23
-],
-[
-"Trevor Booker",
-23
-],
-[
-"Tom Heinsohn",
-23
-],
-[
-"RJ Barrett",
-23
-],
-[
-"Jarrett Allen",
-23
-],
-[
-"Cody Zeller",
-23
-],
-[
-"DeJuan Blair",
-23
-],
-[
-"Kevin Johnson",
-23
-],
-[
-"Žarko Paspalj",
+"Doug Collins",
 23
 ],
 [
@@ -2068,19 +2048,27 @@
 23
 ],
 [
-"Ognjen Kuzmić",
+"Jiří Welsch",
 23
 ],
 [
-"Nicolás Laprovittola",
+"John Salley",
 23
 ],
 [
-"Malik Beasley",
+"Jalen Rose",
 23
 ],
 [
-"Dorell Wright",
+"Justin Holiday",
+22
+],
+[
+"Nikola Jović",
+22
+],
+[
+"Mark Price",
 22
 ],
 [
@@ -2092,23 +2080,51 @@
 22
 ],
 [
+"Jamaal Wilkes",
+22
+],
+[
+"Sam Perkins",
+22
+],
+[
 "Sam Bowie",
 22
 ],
 [
-"Wayman Tisdale",
+"Nik Stauskas",
 22
 ],
 [
-"Thomas Robinson",
+"Spencer Dinwiddie",
 22
 ],
 [
-"Adrian Smith",
+"Montrezl Harrell",
 22
 ],
 [
-"Brad Miller",
+"Joffrey Lauvergne",
+22
+],
+[
+"Larry Nance Jr.",
+22
+],
+[
+"Grayson Allen",
+22
+],
+[
+"Richaun Holmes",
+22
+],
+[
+"Terry Rozier",
+22
+],
+[
+"Martin Müürsepp",
 22
 ],
 [
@@ -2116,7 +2132,103 @@
 22
 ],
 [
-"Jae Crowder",
+"Adrian Smith",
+22
+],
+[
+"Earl Clark",
+22
+],
+[
+"Cliff Barker",
+22
+],
+[
+"Kostas Papanikolaou",
+22
+],
+[
+"Anthony Randolph",
+22
+],
+[
+"Miles Bridges",
+22
+],
+[
+"Josh Howard",
+22
+],
+[
+"Will Barton",
+22
+],
+[
+"Brad Miller",
+22
+],
+[
+"Terrence Jones",
+22
+],
+[
+"Shannon Brown",
+22
+],
+[
+"Alvan Adams",
+22
+],
+[
+"Troy Murphy",
+22
+],
+[
+"Lindsey Hunter",
+22
+],
+[
+"Damon Stoudamire",
+22
+],
+[
+"Jake Tsakalidis",
+22
+],
+[
+"Antonis Fotsis",
+22
+],
+[
+"Amir Johnson",
+22
+],
+[
+"Jeffery Taylor",
+22
+],
+[
+"Andre Miller",
+22
+],
+[
+"Joe Smith",
+22
+],
+[
+"George Hill",
+22
+],
+[
+"Omri Casspi",
+22
+],
+[
+"Juwan Howard",
+22
+],
+[
+"Ian Mahinmi",
 22
 ],
 [
@@ -2128,219 +2240,7 @@
 22
 ],
 [
-"Wesley Johnson",
-22
-],
-[
-"Omri Casspi",
-22
-],
-[
-"Eddie Jones",
-22
-],
-[
-"Gerald Green",
-22
-],
-[
-"Louis Amundson",
-22
-],
-[
-"Alec Burks",
-22
-],
-[
-"Brandon Rush",
-22
-],
-[
-"Will Barton",
-22
-],
-[
-"Mike Dunleavy Jr.",
-22
-],
-[
-"Scott Brooks",
-22
-],
-[
-"Josh Howard",
-22
-],
-[
-"Jamaal Wilkes",
-22
-],
-[
-"Juwan Howard",
-22
-],
-[
-"Sam Perkins",
-22
-],
-[
-"Anthony Randolph",
-22
-],
-[
-"Nik Stauskas",
-22
-],
-[
-"Damon Stoudamire",
-22
-],
-[
-"Andre Miller",
-22
-],
-[
-"Justin Holiday",
-22
-],
-[
-"Shane Larkin",
-22
-],
-[
-"Ekpe Udoh",
-22
-],
-[
-"Richaun Holmes",
-22
-],
-[
-"Earl Clark",
-22
-],
-[
-"Joe Smith",
-22
-],
-[
-"Martin Müürsepp",
-22
-],
-[
-"Amir Johnson",
-22
-],
-[
-"Mark Price",
-22
-],
-[
-"Lindsey Hunter",
-22
-],
-[
-"Troy Murphy",
-22
-],
-[
-"Shannon Brown",
-22
-],
-[
 "Anthony Morrow",
-22
-],
-[
-"Jason Smith",
-22
-],
-[
-"Billy Cunningham",
-22
-],
-[
-"Nazr Mohammed",
-22
-],
-[
-"Nikola Jović",
-22
-],
-[
-"Cliff Barker",
-22
-],
-[
-"Terrence Ross",
-22
-],
-[
-"George Hill",
-22
-],
-[
-"Ian Mahinmi",
-22
-],
-[
-"Spencer Dinwiddie",
-22
-],
-[
-"Terry Rozier",
-22
-],
-[
-"Montrezl Harrell",
-22
-],
-[
-"Grayson Allen",
-22
-],
-[
-"Larry Nance Jr.",
-22
-],
-[
-"Mark Aguirre",
-22
-],
-[
-"Nikoloz Tskitishvili",
-22
-],
-[
-"Terrence Jones",
-22
-],
-[
-"Alvan Adams",
-22
-],
-[
-"Jake Tsakalidis",
-22
-],
-[
-"Miles Bridges",
-22
-],
-[
-"Jeffery Taylor",
-22
-],
-[
-"Joffrey Lauvergne",
-22
-],
-[
-"Kostas Papanikolaou",
-22
-],
-[
-"Antonis Fotsis",
 22
 ],
 [
@@ -2348,8 +2248,96 @@
 22
 ],
 [
+"Jae Crowder",
+22
+],
+[
+"Dorell Wright",
+22
+],
+[
+"Louis Amundson",
+22
+],
+[
+"Nazr Mohammed",
+22
+],
+[
+"Billy Cunningham",
+22
+],
+[
+"Mark Aguirre",
+22
+],
+[
+"Gerald Green",
+22
+],
+[
+"Scott Brooks",
+22
+],
+[
+"Eddie Jones",
+22
+],
+[
+"Shane Larkin",
+22
+],
+[
+"Thomas Robinson",
+22
+],
+[
 "Desmond Bane",
 22
+],
+[
+"Brandon Rush",
+22
+],
+[
+"Jason Smith",
+22
+],
+[
+"Wesley Johnson",
+22
+],
+[
+"Alec Burks",
+22
+],
+[
+"Terrence Ross",
+22
+],
+[
+"Nikoloz Tskitishvili",
+22
+],
+[
+"Ekpe Udoh",
+22
+],
+[
+"Mike Dunleavy Jr.",
+22
+],
+[
+"Wayman Tisdale",
+22
+],
+[
+"Zach Edey",
+21
+],
+[
+"Cole Aldrich",
+21
 ],
 [
 "Gerald Henderson Jr.",
@@ -2368,67 +2356,7 @@
 21
 ],
 [
-"Cole Aldrich",
-21
-],
-[
-"Bob Boozer",
-21
-],
-[
-"Ben McLemore",
-21
-],
-[
-"Kent Bazemore",
-21
-],
-[
-"Chucky Atkins",
-21
-],
-[
-"Clyde Lovellette",
-21
-],
-[
-"James Johnson",
-21
-],
-[
-"Gail Goodrich",
-21
-],
-[
-"John Amaechi",
-21
-],
-[
-"Steve Blake",
-21
-],
-[
-"Miles Plumlee",
-21
-],
-[
-"Robert Covington",
-21
-],
-[
-"Chimezie Metu",
-21
-],
-[
-"Derek Harper",
-21
-],
-[
-"Leandro Bolmaro",
-21
-],
-[
-"Ramon Sessions",
+"Greivis Vásquez",
 21
 ],
 [
@@ -2436,31 +2364,11 @@
 21
 ],
 [
-"Marcus Banks",
+"Gail Goodrich",
 21
 ],
 [
-"Didier Mbenga",
-21
-],
-[
-"Maceo Baston",
-21
-],
-[
-"Gus Williams",
-21
-],
-[
-"Elden Campbell",
-21
-],
-[
-"Juan Ignacio Sánchez",
-21
-],
-[
-"Bob Love",
+"Robert Covington",
 21
 ],
 [
@@ -2468,11 +2376,39 @@
 21
 ],
 [
-"Derrick Coleman",
+"Marcus Banks",
 21
 ],
 [
-"Alvin Robertson",
+"Caris LeVert",
+21
+],
+[
+"Thon Maker",
+21
+],
+[
+"Emmanuel Mudiay",
+21
+],
+[
+"Bruno Caboclo",
+21
+],
+[
+"Yuta Watanabe",
+21
+],
+[
+"Tarik Black",
+21
+],
+[
+"Sidney Moncrief",
+21
+],
+[
+"Kevon Looney",
 21
 ],
 [
@@ -2480,15 +2416,83 @@
 21
 ],
 [
-"Bob Lanier",
+"Ante Toni Žižić",
 21
 ],
 [
-"Charles Oakley",
+"Miles Plumlee",
 21
 ],
 [
-"Brandon Knight",
+"Malik Monk",
+21
+],
+[
+"Rubén Wolkowyski",
+21
+],
+[
+"Isaac Bonga",
+21
+],
+[
+"Bob Boozer",
+21
+],
+[
+"Ralph Bishop",
+21
+],
+[
+"Maceo Baston",
+21
+],
+[
+"Derek Harper",
+21
+],
+[
+"Goga Bitadze",
+21
+],
+[
+"Axel Toupane",
+21
+],
+[
+"Payton Pritchard",
+21
+],
+[
+"Gus Williams",
+21
+],
+[
+"Didier Mbenga",
+21
+],
+[
+"Alvin Robertson",
+21
+],
+[
+"Brent Barry",
+21
+],
+[
+"Ben McLemore",
+21
+],
+[
+"Brad Stevens",
+21
+],
+[
+"Ramon Sessions",
+21
+],
+[
+"Matisse Thybulle",
 21
 ],
 [
@@ -2500,39 +2504,75 @@
 21
 ],
 [
-"Thon Maker",
+"Chimezie Metu",
 21
 ],
 [
-"Payton Pritchard",
+"Elden Campbell",
 21
 ],
 [
-"Sidney Moncrief",
+"Daniel Gafford",
+21
+],
+[
+"Steve Blake",
+21
+],
+[
+"Allan Houston",
+21
+],
+[
+"Juan Ignacio Sánchez",
+21
+],
+[
+"Arvydas Macijauskas",
+21
+],
+[
+"Leandro Bolmaro",
+21
+],
+[
+"Kevin Porter Jr.",
+21
+],
+[
+"Charles Oakley",
+21
+],
+[
+"Bob Love",
+21
+],
+[
+"James Johnson",
+21
+],
+[
+"Mike Malone",
+21
+],
+[
+"Kent Bazemore",
+21
+],
+[
+"John Amaechi",
+21
+],
+[
+"Clyde Lovellette",
+21
+],
+[
+"Michael Batiste",
 21
 ],
 [
 "Reggie Bullock",
-21
-],
-[
-"Rubén Wolkowyski",
-21
-],
-[
-"Brent Barry",
-21
-],
-[
-"Brad Stevens",
-21
-],
-[
-"Emmanuel Mudiay",
-21
-],
-[
-"Kevon Looney",
 21
 ],
 [
@@ -2544,59 +2584,19 @@
 21
 ],
 [
-"Yuta Watanabe",
+"Bob Lanier",
 21
 ],
 [
-"Greivis Vásquez",
+"Derrick Coleman",
 21
 ],
 [
-"Allan Houston",
+"Chucky Atkins",
 21
 ],
 [
-"Isaac Bonga",
-21
-],
-[
-"Daniel Gafford",
-21
-],
-[
-"Sergei Bazarevich",
-21
-],
-[
-"Walt Davis",
-21
-],
-[
-"Arvydas Macijauskas",
-21
-],
-[
-"Matisse Thybulle",
-21
-],
-[
-"Bruno Caboclo",
-21
-],
-[
-"Zach Edey",
-21
-],
-[
-"Tarik Black",
-21
-],
-[
-"Ralph Bishop",
-21
-],
-[
-"Caris LeVert",
+"Brandon Knight",
 21
 ],
 [
@@ -2604,127 +2604,23 @@
 21
 ],
 [
-"Malik Monk",
+"Walt Davis",
 21
 ],
 [
-"Ante Toni Žižić",
+"Sergei Bazarevich",
 21
 ],
 [
-"Kevin Porter Jr.",
-21
-],
-[
-"Michael Batiste",
-21
-],
-[
-"Axel Toupane",
-21
-],
-[
-"Goga Bitadze",
-21
-],
-[
-"Mike Malone",
-21
-],
-[
-"Luke Babbitt",
+"Jalen Williams",
 20
 ],
 [
-"Ime Udoka",
+"Trey Burke",
 20
 ],
 [
-"Jamaal Magloire",
-20
-],
-[
-"Meyers Leonard",
-20
-],
-[
-"Ikechukwa Somotochukwa Diogu",
-20
-],
-[
-"Marcus Thornton",
-20
-],
-[
-"Dahntay Jones",
-20
-],
-[
-"Wesley Matthews",
-20
-],
-[
-"Jeff Ayres",
-20
-],
-[
-"Maurice Harkless",
-20
-],
-[
-"Walter Davis",
-20
-],
-[
-"Lorenzen Wright",
-20
-],
-[
-"Quinn Buckner",
-20
-],
-[
-"Doug Christie",
-20
-],
-[
-"Wally Szczerbiak",
-20
-],
-[
-"Theo Ratliff",
-20
-],
-[
-"P. J. Brown",
-20
-],
-[
-"J. J. Hickson",
-20
-],
-[
-"Bobby Jackson",
-20
-],
-[
-"Desmond Mason",
-20
-],
-[
-"John Henson",
-20
-],
-[
-"Jodie Meeks",
-20
-],
-[
-"Kyrylo Fesenko",
-20
-],
-[
-"Antoine Walker",
+"Cory Higgins",
 20
 ],
 [
@@ -2732,11 +2628,299 @@
 20
 ],
 [
-"Jim Loscutoff",
+"Kenny Rollins",
+20
+],
+[
+"John Starks",
+20
+],
+[
+"Lorenzo Brown",
+20
+],
+[
+"Meyers Leonard",
+20
+],
+[
+"Marcus Thornton",
+20
+],
+[
+"Ime Udoka",
+20
+],
+[
+"Jon Leuer",
+20
+],
+[
+"Cameron Bairstow",
+20
+],
+[
+"Dahntay Jones",
+20
+],
+[
+"Sam Dekker",
+20
+],
+[
+"T. J. Warren",
+20
+],
+[
+"Stanley Johnson",
+20
+],
+[
+"Thurl Bailey",
+20
+],
+[
+"Kelly Oubre Jr.",
+20
+],
+[
+"Jerian Grant",
+20
+],
+[
+"Cameron Payne",
+20
+],
+[
+"Josh Richardson",
+20
+],
+[
+"Christian Wood",
+20
+],
+[
+"Lorenzen Wright",
+20
+],
+[
+"Wenyen Gabriel",
+20
+],
+[
+"Damir Markota",
+20
+],
+[
+"Rod Hundley",
+20
+],
+[
+"Ikechukwa Somotochukwa Diogu",
+20
+],
+[
+"James Anderson",
+20
+],
+[
+"Jeremy Lamb",
+20
+],
+[
+"Andrew Goudelock",
+20
+],
+[
+"Roy Tarpley",
+20
+],
+[
+"Hersey Hawkins",
+20
+],
+[
+"Steve Alford",
+20
+],
+[
+"Quinn Buckner",
+20
+],
+[
+"Jeff Ayres",
+20
+],
+[
+"Jodie Meeks",
+20
+],
+[
+"Jérôme Moïso",
+20
+],
+[
+"Dennis Smith Jr.",
+20
+],
+[
+"John Henson",
+20
+],
+[
+"Marvin Bagley III",
+20
+],
+[
+"Maurice Harkless",
+20
+],
+[
+"Mitchell Robinson",
+20
+],
+[
+"Josh Akognon",
+20
+],
+[
+"Daniel Gibson",
+20
+],
+[
+"Kyrylo Fesenko",
+20
+],
+[
+"Desmond Mason",
+20
+],
+[
+"Quentin Richardson",
+20
+],
+[
+"Kostas Antetokounmpo",
+20
+],
+[
+"Trajan Langdon",
+20
+],
+[
+"Bruce Brown Jr.",
+20
+],
+[
+"Theo Ratliff",
+20
+],
+[
+"Antoine Walker",
+20
+],
+[
+"Bobby Jackson",
+20
+],
+[
+"Alexander Volkov",
+20
+],
+[
+"J. J. Hickson",
+20
+],
+[
+"Gary Harris",
+20
+],
+[
+"Wally Szczerbiak",
+20
+],
+[
+"Keith Van Horn",
+20
+],
+[
+"Jeff Hornacek",
+20
+],
+[
+"P. J. Brown",
+20
+],
+[
+"Quincy Acy",
+20
+],
+[
+"Martynas Andriuškevičius",
+20
+],
+[
+"Brandon Clarke",
+20
+],
+[
+"Anthony Mason",
+20
+],
+[
+"Coby White",
+20
+],
+[
+"Isaiah Canaan",
+20
+],
+[
+"James Young",
 20
 ],
 [
 "Darrell Armstrong",
+20
+],
+[
+"Kyle Singler",
+20
+],
+[
+"Luke Babbitt",
+20
+],
+[
+"Jamaal Magloire",
+20
+],
+[
+"Luc Mbah a Moute",
+20
+],
+[
+"Jim Loscutoff",
+20
+],
+[
+"Latrell Sprewell",
+20
+],
+[
+"Doug Christie",
+20
+],
+[
+"Yogi Ferrell",
+20
+],
+[
+"Brad Daugherty",
+20
+],
+[
+"Brendan Haywood",
 20
 ],
 [
@@ -2748,111 +2932,7 @@
 20
 ],
 [
-"Jeff Hornacek",
-20
-],
-[
-"Yogi Ferrell",
-20
-],
-[
-"Rod Hundley",
-20
-],
-[
-"Thurl Bailey",
-20
-],
-[
-"Danny Manning",
-20
-],
-[
-"Lorenzo Brown",
-20
-],
-[
-"Trey Burke",
-20
-],
-[
-"Dennis Smith Jr.",
-20
-],
-[
-"Wenyen Gabriel",
-20
-],
-[
-"Jérôme Moïso",
-20
-],
-[
-"Latrell Sprewell",
-20
-],
-[
-"Kostas Antetokounmpo",
-20
-],
-[
-"Jeremy Lamb",
-20
-],
-[
-"Cameron Bairstow",
-20
-],
-[
-"Keith Van Horn",
-20
-],
-[
-"John Starks",
-20
-],
-[
-"Jalen Williams",
-20
-],
-[
-"Cameron Payne",
-20
-],
-[
-"Anthony Mason",
-20
-],
-[
-"Luc Mbah a Moute",
-20
-],
-[
-"Furkan Aldemir",
-20
-],
-[
-"Josh Richardson",
-20
-],
-[
-"Glenn Robinson",
-20
-],
-[
-"Hersey Hawkins",
-20
-],
-[
-"Damir Markota",
-20
-],
-[
-"Jon Leuer",
-20
-],
-[
-"Andrew Goudelock",
+"Pops Mensah-Bonsu",
 20
 ],
 [
@@ -2860,63 +2940,19 @@
 20
 ],
 [
+"Glenn Robinson",
+20
+],
+[
+"Wesley Matthews",
+20
+],
+[
 "George Karl",
 20
 ],
 [
-"Quincy Acy",
-20
-],
-[
-"Pops Mensah-Bonsu",
-20
-],
-[
-"James Anderson",
-20
-],
-[
-"Marvin Bagley III",
-20
-],
-[
-"Bruce Brown Jr.",
-20
-],
-[
-"Stanley Johnson",
-20
-],
-[
-"Christian Wood",
-20
-],
-[
-"Brendan Haywood",
-20
-],
-[
-"Quentin Richardson",
-20
-],
-[
-"Kelly Oubre Jr.",
-20
-],
-[
-"James Young",
-20
-],
-[
-"Isaiah Canaan",
-20
-],
-[
-"Alexander Volkov",
-20
-],
-[
-"Coby White",
+"Furkan Aldemir",
 20
 ],
 [
@@ -2924,23 +2960,7 @@
 20
 ],
 [
-"Kyle Singler",
-20
-],
-[
-"Kenny Rollins",
-20
-],
-[
-"Brandon Clarke",
-20
-],
-[
-"Mitchell Robinson",
-20
-],
-[
-"Jerian Grant",
+"Danny Manning",
 20
 ],
 [
@@ -2948,183 +2968,11 @@
 20
 ],
 [
-"Trajan Langdon",
+"Walter Davis",
 20
 ],
 [
-"Martynas Andriuškevičius",
-20
-],
-[
-"Brad Daugherty",
-20
-],
-[
-"Cory Higgins",
-20
-],
-[
-"Steve Alford",
-20
-],
-[
-"Sam Dekker",
-20
-],
-[
-"Roy Tarpley",
-20
-],
-[
-"Josh Akognon",
-20
-],
-[
-"T. J. Warren",
-20
-],
-[
-"Daniel Gibson",
-20
-],
-[
-"Gary Harris",
-20
-],
-[
-"Slavko Vraneš",
-19
-],
-[
-"Francisco García",
-19
-],
-[
-"Joel Freeland",
-19
-],
-[
-"Patrick Patterson",
-19
-],
-[
-"Nick Anderson",
-19
-],
-[
-"Fat Lever",
-19
-],
-[
-"Josh McRoberts",
-19
-],
-[
-"Earl Watson",
-19
-],
-[
-"Mike Woodson",
-19
-],
-[
-"Kenny Smith",
-19
-],
-[
-"Bill Wennington",
-19
-],
-[
-"Bobby Simmons",
-19
-],
-[
-"Omar Cook",
-19
-],
-[
-"Maurice Cheeks",
-19
-],
-[
-"Joe Kleine",
-19
-],
-[
-"Sebastian Telfair",
-19
-],
-[
-"Fab Melo",
-19
-],
-[
-"Toney Douglas",
-19
-],
-[
-"Vitaly Potapenko",
-19
-],
-[
-"Ed Macauley",
-19
-],
-[
-"Brandan Wright",
-19
-],
-[
-"Mitch Kupchak",
-19
-],
-[
-"Stojko Vranković",
-19
-],
-[
-"Robert Sacre",
-19
-],
-[
-"Mike James",
-19
-],
-[
-"Darius Morris",
-19
-],
-[
-"Satch Sanders",
-19
-],
-[
-"Jim Barnes",
-19
-],
-[
-"Shabazz Muhammad",
-19
-],
-[
-"Carl Landry",
-19
-],
-[
-"Bernard King",
-19
-],
-[
-"Ronnie Brewer",
-19
-],
-[
-"Willie Cauley-Stein",
-19
-],
-[
-"Mark Jackson",
+"Christian Braun",
 19
 ],
 [
@@ -3132,19 +2980,51 @@
 19
 ],
 [
+"Chet Walker",
+19
+],
+[
+"Cliff Hagan",
+19
+],
+[
+"Lucious Jackson",
+19
+],
+[
+"Stacey King",
+19
+],
+[
+"Dan Issel",
+19
+],
+[
+"Kenny Smith",
+19
+],
+[
+"Mark Jackson",
+19
+],
+[
+"André Roberson",
+19
+],
+[
+"Keith Langford",
+19
+],
+[
+"Jim Barnes",
+19
+],
+[
 "Gus Johnson",
 19
 ],
 [
-"Ryan Broekhoff",
-19
-],
-[
-"Dorian Finney-Smith",
-19
-],
-[
-"Tyus Jones",
+"Joel Freeland",
 19
 ],
 [
@@ -3152,11 +3032,19 @@
 19
 ],
 [
-"Rafer Alston",
+"Tyler Ennis",
 19
 ],
 [
-"Jannero Pargo",
+"Tyus Jones",
+19
+],
+[
+"Khem Birch",
+19
+],
+[
+"Pervis Ellison",
 19
 ],
 [
@@ -3164,7 +3052,107 @@
 19
 ],
 [
-"Naz Reid",
+"Jannero Pargo",
+19
+],
+[
+"Jordan Mickey",
+19
+],
+[
+"Monté Morris",
+19
+],
+[
+"Rodions Kurucs",
+19
+],
+[
+"Dwayne Bacon",
+19
+],
+[
+"Malcolm Delaney",
+19
+],
+[
+"Duncan Robinson",
+19
+],
+[
+"Kosta Perović",
+19
+],
+[
+"Fat Lever",
+19
+],
+[
+"Shabazz Muhammad",
+19
+],
+[
+"Josh McRoberts",
+19
+],
+[
+"Oliver Lafayette",
+19
+],
+[
+"Esteban Batista",
+19
+],
+[
+"Frank Vogel",
+19
+],
+[
+"Patrick McCaw",
+19
+],
+[
+"Bobby Simmons",
+19
+],
+[
+"Trey Thompkins",
+19
+],
+[
+"Mike Woodson",
+19
+],
+[
+"Joe Kleine",
+19
+],
+[
+"Francisco García",
+19
+],
+[
+"Dalibor Bagarić",
+19
+],
+[
+"Nick Anderson",
+19
+],
+[
+"Dorian Finney-Smith",
+19
+],
+[
+"Bill Wennington",
+19
+],
+[
+"Shelvin Mack",
+19
+],
+[
+"Derrick Jones Jr.",
 19
 ],
 [
@@ -3176,7 +3164,7 @@
 19
 ],
 [
-"Tony Snell",
+"Rolando Blackman",
 19
 ],
 [
@@ -3184,27 +3172,7 @@
 19
 ],
 [
-"Sun Yue",
-19
-],
-[
-"Frank Vogel",
-19
-],
-[
-"Pervis Ellison",
-19
-],
-[
-"Chris Duhon",
-19
-],
-[
-"Avery Johnson",
-19
-],
-[
-"André Roberson",
+"Luke Kennard",
 19
 ],
 [
@@ -3212,159 +3180,23 @@
 19
 ],
 [
-"Duncan Robinson",
-19
-],
-[
-"Kyle O'Quinn",
-19
-],
-[
-"Gabe Vincent",
-19
-],
-[
-"Jordan Mickey",
-19
-],
-[
-"Willie Green",
-19
-],
-[
 "Allen Crabbe",
 19
 ],
 [
-"Stacey King",
+"Ed Macauley",
 19
 ],
 [
-"Spencer Hawes",
+"Sun Yue",
 19
 ],
 [
-"Dalibor Bagarić",
+"Stojko Vranković",
 19
 ],
 [
-"Chet Walker",
-19
-],
-[
-"Lucious Jackson",
-19
-],
-[
-"Derrick Jones Jr.",
-19
-],
-[
-"Dale Ellis",
-19
-],
-[
-"Antonio Davis",
-19
-],
-[
-"Tyler Ennis",
-19
-],
-[
-"Luke Kennard",
-19
-],
-[
-"Shelvin Mack",
-19
-],
-[
-"Daequan Cook",
-19
-],
-[
-"Rolando Blackman",
-19
-],
-[
-"Patrick McCaw",
-19
-],
-[
-"Will Bynum",
-19
-],
-[
-"Wang Zhizhi",
-19
-],
-[
-"Tyrus Thomas",
-19
-],
-[
-"Rodions Kurucs",
-19
-],
-[
-"Cliff Hagan",
-19
-],
-[
-"Jeff Withey",
-19
-],
-[
-"Oliver Lafayette",
-19
-],
-[
-"Talen Horton-Tucker",
-19
-],
-[
-"Yuta Tabuse",
-19
-],
-[
-"Khem Birch",
-19
-],
-[
-"Esteban Batista",
-19
-],
-[
-"Dwayne Bacon",
-19
-],
-[
-"Dan Issel",
-19
-],
-[
-"Byron Beck",
-19
-],
-[
-"Gary Neal",
-19
-],
-[
-"James Augustine",
-19
-],
-[
-"Kosta Perović",
-19
-],
-[
-"Keith Langford",
-19
-],
-[
-"Trey Thompkins",
+"Sebastian Telfair",
 19
 ],
 [
@@ -3372,231 +3204,179 @@
 19
 ],
 [
-"Malcolm Delaney",
+"Fab Melo",
 19
 ],
 [
-"Christian Braun",
+"Ronnie Brewer",
 19
 ],
 [
-"Monté Morris",
+"Chris Duhon",
 19
 ],
 [
-"Martell Webster",
+"Slavko Vraneš",
+19
+],
+[
+"Naz Reid",
+19
+],
+[
+"Daequan Cook",
+19
+],
+[
+"Tyrus Thomas",
+19
+],
+[
+"Kyle O'Quinn",
+19
+],
+[
+"Toney Douglas",
+19
+],
+[
+"Antonio Davis",
+19
+],
+[
+"Talen Horton-Tucker",
+19
+],
+[
+"Mitch Kupchak",
+19
+],
+[
+"Jeff Withey",
+19
+],
+[
+"Gabe Vincent",
+19
+],
+[
+"Vitaly Potapenko",
+19
+],
+[
+"Wang Zhizhi",
+19
+],
+[
+"Darius Morris",
+19
+],
+[
+"Avery Johnson",
+19
+],
+[
+"Mike James",
+19
+],
+[
+"Brandan Wright",
+19
+],
+[
+"Carl Landry",
+19
+],
+[
+"Gary Neal",
+19
+],
+[
+"Ryan Broekhoff",
+19
+],
+[
+"Dale Ellis",
+19
+],
+[
+"Tony Snell",
+19
+],
+[
+"Willie Cauley-Stein",
+19
+],
+[
+"Bernard King",
+19
+],
+[
+"Rafer Alston",
+19
+],
+[
+"Earl Watson",
+19
+],
+[
+"Willie Green",
+19
+],
+[
+"Spencer Hawes",
+19
+],
+[
+"Byron Beck",
+19
+],
+[
+"James Augustine",
+19
+],
+[
+"Satch Sanders",
+19
+],
+[
+"Yuta Tabuse",
+19
+],
+[
+"Patrick Patterson",
+19
+],
+[
+"Maurice Cheeks",
+19
+],
+[
+"Robert Sacre",
+19
+],
+[
+"Omar Cook",
+19
+],
+[
+"Will Bynum",
+19
+],
+[
+"Calvin Murphy",
 18
 ],
 [
-"Jerome Kersey",
+"Dick Van Arsdale",
 18
 ],
 [
-"Buck Williams",
+"Erick Green",
 18
 ],
 [
-"Terry Porter",
-18
-],
-[
-"Ernie Grunfeld",
-18
-],
-[
-"Eddie Johnson",
-18
-],
-[
-"Joey Dorsey",
-18
-],
-[
-"Jonny Flynn",
-18
-],
-[
-"Eric Maynor",
-18
-],
-[
-"Jay Triano",
-18
-],
-[
-"Lionel Hollins",
-18
-],
-[
-"Joe Alexander",
-18
-],
-[
-"Mychal Thompson",
-18
-],
-[
-"Darvin Ham",
-18
-],
-[
-"Brian Shaw",
-18
-],
-[
-"Eugene Jeter",
-18
-],
-[
-"Eddie House",
-18
-],
-[
-"Christian Eyenga",
-18
-],
-[
-"Cedric Ceballos",
-18
-],
-[
-"James Posey",
-18
-],
-[
-"Connie Hawkins",
-18
-],
-[
-"Artis Gilmore",
-18
-],
-[
-"Dick Barnett",
-18
-],
-[
-"Jim Pollard",
-18
-],
-[
-"Slater Martin",
-18
-],
-[
-"Jamaal Tinsley",
-18
-],
-[
-"Scott Skiles",
-18
-],
-[
-"Kendall Marshall",
-18
-],
-[
-"Steve Novak",
-18
-],
-[
-"Tony Wroten",
-18
-],
-[
-"Noah Vonleh",
-18
-],
-[
-"Mike Bantom",
-18
-],
-[
-"Josh Okogie",
-18
-],
-[
-"Jamal Mashburn",
-18
-],
-[
-"Jarrett Culver",
-18
-],
-[
-"Fred Hoiberg",
-18
-],
-[
-"Dana Barros",
-18
-],
-[
-"Willie Anderson",
-18
-],
-[
-"Justin Hamilton",
-18
-],
-[
-"Lance Thomas",
-18
-],
-[
-"Dennis Scott",
-18
-],
-[
-"Tyus Edney",
-18
-],
-[
-"George McGinnis",
-18
-],
-[
-"Jeremy Pargo",
-18
-],
-[
-"Mike Muscala",
-18
-],
-[
-"Jeremy Evans",
-18
-],
-[
-"Solomon Hill",
-18
-],
-[
-"Rony Seikaly",
-18
-],
-[
-"Johan Petro",
-18
-],
-[
-"Marcus Williams",
-18
-],
-[
-"Jay Williams",
-18
-],
-[
-"Keith Bogans",
-18
-],
-[
-"Raul Neto",
-18
-],
-[
-"Rodney Hood",
+"Walker Kessler",
 18
 ],
 [
@@ -3604,19 +3384,59 @@
 18
 ],
 [
-"Gary Trent Jr.",
+"Zaccharie Risacher",
 18
 ],
 [
-"Walt Hazzard",
+"Joey Dorsey",
 18
 ],
 [
-"Corey Maggette",
+"Marcus Williams",
 18
 ],
 [
-"Jamario Moon",
+"Connie Hawkins",
+18
+],
+[
+"Brandon Miller",
+18
+],
+[
+"Jared McCain",
+18
+],
+[
+"Dennis Scott",
+18
+],
+[
+"Solomon Hill",
+18
+],
+[
+"Jeremy Evans",
+18
+],
+[
+"Kendall Marshall",
+18
+],
+[
+"Keith Bogans",
+18
+],
+[
+"Rodney Hood",
+18
+],
+[
+"T. J. McConnell",
+18
+],
+[
+"Jay Williams",
 18
 ],
 [
@@ -3624,11 +3444,7 @@
 18
 ],
 [
-"Vinny Del Negro",
-18
-],
-[
-"Corliss Williamson",
+"Othello Hunter",
 18
 ],
 [
@@ -3640,35 +3456,7 @@
 18
 ],
 [
-"James Michael McAdoo",
-18
-],
-[
-"Marquese Chriss",
-18
-],
-[
-"Chris Boucher",
-18
-],
-[
-"Dick Van Arsdale",
-18
-],
-[
-"Quincy Pondexter",
-18
-],
-[
-"Walker Kessler",
-18
-],
-[
-"T. J. McConnell",
-18
-],
-[
-"Jared McCain",
+"Willie Anderson",
 18
 ],
 [
@@ -3676,47 +3464,87 @@
 18
 ],
 [
+"Eddie Johnson",
+18
+],
+[
+"Jerome Kersey",
+18
+],
+[
+"Marquese Chriss",
+18
+],
+[
+"Tony Wroten",
+18
+],
+[
+"Jay Triano",
+18
+],
+[
+"Corliss Williamson",
+18
+],
+[
+"Lance Thomas",
+18
+],
+[
+"Darvin Ham",
+18
+],
+[
+"Brian Shaw",
+18
+],
+[
+"Mike Bantom",
+18
+],
+[
+"Walt Hazzard",
+18
+],
+[
+"George McGinnis",
+18
+],
+[
+"Ernie Grunfeld",
+18
+],
+[
+"Mychal Thompson",
+18
+],
+[
+"Terry Porter",
+18
+],
+[
+"Joe Alexander",
+18
+],
+[
+"Raul Neto",
+18
+],
+[
+"Tyus Edney",
+18
+],
+[
+"Quincy Pondexter",
+18
+],
+[
+"Eugene Jeter",
+18
+],
+[
 "Kevin Knox II",
-18
-],
-[
-"Jason Maxiell",
-18
-],
-[
-"Calvin Murphy",
-18
-],
-[
-"Othello Hunter",
-18
-],
-[
-"Zaccharie Risacher",
-18
-],
-[
-"Jalen Johnson",
-18
-],
-[
-"Devonte' Graham",
-18
-],
-[
-"Brandon Miller",
-18
-],
-[
-"Kevin Pangos",
-18
-],
-[
-"Dean Wade",
-18
-],
-[
-"Mario Kasun",
 18
 ],
 [
@@ -3724,63 +3552,171 @@
 18
 ],
 [
+"Mario Kasun",
+18
+],
+[
 "Wendell Carter Jr.",
 18
 ],
 [
-"Erick Green",
+"Gary Trent Jr.",
 18
 ],
 [
-"Antonio Daniels",
+"Devonte' Graham",
+18
+],
+[
+"Chris Boucher",
+18
+],
+[
+"Dana Barros",
+18
+],
+[
+"Dean Wade",
+18
+],
+[
+"Josh Okogie",
+18
+],
+[
+"Corey Maggette",
+18
+],
+[
+"Eddie House",
+18
+],
+[
+"Jamario Moon",
+18
+],
+[
+"Christian Eyenga",
+18
+],
+[
+"Fred Hoiberg",
+18
+],
+[
+"Jarrett Culver",
+18
+],
+[
+"James Michael McAdoo",
+18
+],
+[
+"Jeremy Pargo",
+18
+],
+[
+"Kevin Pangos",
+18
+],
+[
+"Jalen Johnson",
+18
+],
+[
+"Mike Muscala",
+18
+],
+[
+"Noah Vonleh",
+18
+],
+[
+"Johan Petro",
+18
+],
+[
+"James Posey",
+18
+],
+[
+"Martell Webster",
+18
+],
+[
+"Justin Hamilton",
+18
+],
+[
+"Buck Williams",
+18
+],
+[
+"Dick Barnett",
+18
+],
+[
+"Rony Seikaly",
+18
+],
+[
+"Jonny Flynn",
+18
+],
+[
+"Jamaal Tinsley",
+18
+],
+[
+"Eric Maynor",
+18
+],
+[
+"Scott Skiles",
+18
+],
+[
+"Jamal Mashburn",
+18
+],
+[
+"Cedric Ceballos",
+18
+],
+[
+"Jason Maxiell",
+18
+],
+[
+"Steve Novak",
+18
+],
+[
+"Lionel Hollins",
+18
+],
+[
+"Jim Pollard",
+18
+],
+[
+"Artis Gilmore",
+18
+],
+[
+"Slater Martin",
+18
+],
+[
+"Vinny Del Negro",
+18
+],
+[
+"Larry Sanders",
 17
 ],
 [
-"Greg Anthony",
-17
-],
-[
-"Monty Williams",
-17
-],
-[
-"Cuttino Mobley",
-17
-],
-[
-"Kiki VanDeWeghe",
-17
-],
-[
-"Brian Roberts",
-17
-],
-[
-"Jim Jackson",
-17
-],
-[
-"Ronnie Price",
-17
-],
-[
-"Travis Outlaw",
-17
-],
-[
-"John Salmons",
-17
-],
-[
-"Ron Boone",
-17
-],
-[
-"Darius Miles",
-17
-],
-[
-"Reggie Theus",
+"Scoot Henderson",
 17
 ],
 [
@@ -3788,79 +3724,35 @@
 17
 ],
 [
-"Will Perdue",
+"Amen Thompson",
 17
 ],
 [
-"Joe Arlauckas",
+"Ausar Thompson",
 17
 ],
 [
-"Tyler Honeycutt",
+"DeSagana Diop",
 17
 ],
 [
-"Otis Birdsong",
+"AJ Dybantsa",
 17
 ],
 [
-"Ricky Davis",
+"Hakim Warrick",
 17
 ],
 [
-"Leon Powe",
+"John Salmons",
 17
 ],
 [
-"Chris Wilcox",
+"Kiki VanDeWeghe",
 17
 ],
 [
-"Charlie Scott",
-17
-],
-[
-"Bob Houbregs",
-17
-],
-[
-"Chris Mihm",
-17
-],
-[
-"Frank Ramsey",
-17
-],
-[
-"Shelden Williams",
-17
-],
-[
-"Chuck Cooper",
-17
-],
-[
-"Michael Cooper",
-17
-],
-[
-"Vern Fleming",
-17
-],
-[
-"Oleksiy Pecherov",
-17
-],
-[
-"Michael Doleac",
-17
-],
-[
-"DeShawn Stevenson",
-17
-],
-[
-"Greg Stiemsma",
+"Jordan Crawford",
 17
 ],
 [
@@ -3868,67 +3760,7 @@
 17
 ],
 [
-"Darryl Dawkins",
-17
-],
-[
-"Sim Bhullar",
-17
-],
-[
-"Marcus Brown",
-17
-],
-[
-"Dewayne Dedmon",
-17
-],
-[
-"Sonny Weems",
-17
-],
-[
-"Rick Mahorn",
-17
-],
-[
-"Ricky Pierce",
-17
-],
-[
-"Sam Lacey",
-17
-],
-[
-"Malik Allen",
-17
-],
-[
-"Justin Anderson",
-17
-],
-[
-"Jud Buechler",
-17
-],
-[
-"Tony Battie",
-17
-],
-[
-"Ryan Hollins",
-17
-],
-[
-"Bimbo Coles",
-17
-],
-[
-"Rasual Butler",
-17
-],
-[
-"Samaki Walker",
+"Jacque Vaughn",
 17
 ],
 [
@@ -3936,11 +3768,11 @@
 17
 ],
 [
-"Billy Donovan",
+"Reggie Theus",
 17
 ],
 [
-"Eddie Griffin",
+"Ian Clark",
 17
 ],
 [
@@ -3948,23 +3780,47 @@
 17
 ],
 [
-"Morris Peterson",
+"Dewayne Dedmon",
 17
 ],
 [
-"Stromile Swift",
+"Joe Arlauckas",
 17
 ],
 [
-"Kent Benson",
+"Derrick Alston",
 17
 ],
 [
-"Jacque Vaughn",
+"Ron Baker",
 17
 ],
 [
-"Phil Ford",
+"Greg Anthony",
+17
+],
+[
+"Mike Dunleavy, Sr.",
+17
+],
+[
+"Pat Connaughton",
+17
+],
+[
+"Markel Brown",
+17
+],
+[
+"Ricky Pierce",
+17
+],
+[
+"Georges Niang",
+17
+],
+[
+"Maurice Ndour",
 17
 ],
 [
@@ -3972,7 +3828,63 @@
 17
 ],
 [
-"Micheal Ray Richardson",
+"Sonny Weems",
+17
+],
+[
+"Isaiah Whitehead",
+17
+],
+[
+"Monty Williams",
+17
+],
+[
+"Aaron Holiday",
+17
+],
+[
+"Josh Jackson",
+17
+],
+[
+"Justin Anderson",
+17
+],
+[
+"Denzel Valentine",
+17
+],
+[
+"Rick Mahorn",
+17
+],
+[
+"Paul Westphal",
+17
+],
+[
+"Damian Jones",
+17
+],
+[
+"Kent Benson",
+17
+],
+[
+"Travis Outlaw",
+17
+],
+[
+"Ronnie Price",
+17
+],
+[
+"Oleksiy Pecherov",
+17
+],
+[
+"Bimbo Coles",
 17
 ],
 [
@@ -3984,179 +3896,15 @@
 17
 ],
 [
-"Bobby Jones",
+"Michael Doleac",
 17
 ],
 [
-"Acie Law",
+"Sam Lacey",
 17
 ],
 [
-"Pat Connaughton",
-17
-],
-[
-"Mike Dunleavy Sr.",
-17
-],
-[
-"Chris Copeland",
-17
-],
-[
-"DeSagana Diop",
-17
-],
-[
-"Scoot Henderson",
-17
-],
-[
-"T. J. Ford",
-17
-],
-[
-"Slava Medvedenko",
-17
-],
-[
-"Larry Sanders",
-17
-],
-[
-"Sterling Brown",
-17
-],
-[
-"Jordan Crawford",
-17
-],
-[
-"Max Strus",
-17
-],
-[
-"Hakim Warrick",
-17
-],
-[
-"Derrick Alston",
-17
-],
-[
-"Erick Dampier",
-17
-],
-[
-"Paul Westphal",
-17
-],
-[
-"Ausar Thompson",
-17
-],
-[
-"Glenn Robinson III",
-17
-],
-[
-"Chuck Share",
-17
-],
-[
-"Quinn Cook",
-17
-],
-[
-"Austin Carr",
-17
-],
-[
-"Reggie Williams",
-17
-],
-[
-"Damian Jones",
-17
-],
-[
-"Ian Clark",
-17
-],
-[
-"Ron Baker",
-17
-],
-[
-"Markel Brown",
-17
-],
-[
-"Malik Rose",
-17
-],
-[
-"Isaiah Whitehead",
-17
-],
-[
-"Denzel Valentine",
-17
-],
-[
-"AJ Dybantsa",
-17
-],
-[
-"Bison Dele",
-17
-],
-[
-"Red Holzman",
-17
-],
-[
-"Dragan Tarlać",
-17
-],
-[
-"Georges Niang",
-17
-],
-[
-"Adonal Foyle",
-17
-],
-[
-"Santi Aldama",
-17
-],
-[
-"JaMychal Green",
-17
-],
-[
-"Paul Silas",
-17
-],
-[
-"Maurice Ndour",
-17
-],
-[
-"Brad Wanamaker",
-17
-],
-[
-"Mike Budenholzer",
-17
-],
-[
-"Aaron Holiday",
-17
-],
-[
-"Terence Davis",
+"Rasual Butler",
 17
 ],
 [
@@ -4164,7 +3912,15 @@
 17
 ],
 [
-"Andrew Gaze",
+"Slava Medvedenko",
+17
+],
+[
+"Acie Law",
+17
+],
+[
+"Jim Jackson",
 17
 ],
 [
@@ -4172,23 +3928,43 @@
 17
 ],
 [
-"Frank Brian",
+"Tony Battie",
 17
 ],
 [
-"Amen Thompson",
+"Paul Silas",
 17
 ],
 [
-"Chris Finch",
+"Will Perdue",
 17
 ],
 [
-"Josh Jackson",
+"Adonal Foyle",
 17
 ],
 [
-"De'Anthony Melton",
+"Ron Boone",
+17
+],
+[
+"Greg Stiemsma",
+17
+],
+[
+"Tyler Honeycutt",
+17
+],
+[
+"Jud Buechler",
+17
+],
+[
+"Chuck Share",
+17
+],
+[
+"Samaki Walker",
 17
 ],
 [
@@ -4196,27 +3972,267 @@
 17
 ],
 [
+"Brad Wanamaker",
+17
+],
+[
 "Mohamed Bamba",
 17
 ],
 [
-"Anthony Tolliver",
+"Chris Finch",
+17
+],
+[
+"Sterling Brown",
+17
+],
+[
+"Chris Copeland",
+17
+],
+[
+"Ryan Hollins",
+17
+],
+[
+"Reggie Williams",
+17
+],
+[
+"Malik Rose",
+17
+],
+[
+"T. J. Ford",
+17
+],
+[
+"Dragan Tarlać",
+17
+],
+[
+"Andrew Gaze",
+17
+],
+[
+"De'Anthony Melton",
+17
+],
+[
+"Erick Dampier",
+17
+],
+[
+"Otis Birdsong",
+17
+],
+[
+"Marcus Brown",
+17
+],
+[
+"DeShawn Stevenson",
+17
+],
+[
+"Ricky Davis",
+17
+],
+[
+"Glenn Robinson III",
+17
+],
+[
+"Leon Powe",
+17
+],
+[
+"Chris Wilcox",
+17
+],
+[
+"Frank Brian",
+17
+],
+[
+"JaMychal Green",
+17
+],
+[
+"Antonio Daniels",
+17
+],
+[
+"Terence Davis",
+17
+],
+[
+"Max Strus",
+17
+],
+[
+"Santi Aldama",
+17
+],
+[
+"Darryl Dawkins",
+17
+],
+[
+"Stromile Swift",
+17
+],
+[
+"Quinn Cook",
+17
+],
+[
+"Bobby Jones",
+17
+],
+[
+"Sim Bhullar",
+17
+],
+[
+"Mike Budenholzer",
+17
+],
+[
+"Bison Dele",
+17
+],
+[
+"Bob Houbregs",
+17
+],
+[
+"Brian Roberts",
+17
+],
+[
+"Charlie Scott",
+17
+],
+[
+"Frank Ramsey",
+17
+],
+[
+"Austin Carr",
+17
+],
+[
+"Malik Allen",
+17
+],
+[
+"Shelden Williams",
+17
+],
+[
+"Eddie Griffin",
+17
+],
+[
+"Chuck Cooper",
+17
+],
+[
+"Chris Mihm",
+17
+],
+[
+"Phil Ford",
+17
+],
+[
+"Billy Donovan",
+17
+],
+[
+"Darius Miles",
+17
+],
+[
+"Morris Peterson",
+17
+],
+[
+"Red Holzman",
+17
+],
+[
+"Vern Fleming",
+17
+],
+[
+"Cuttino Mobley",
+17
+],
+[
+"Micheal Ray Richardson",
+17
+],
+[
+"Michael Cooper",
+17
+],
+[
+"Ray McCallum Jr.",
 16
 ],
 [
-"Jim Brewer",
+"Jaylin Williams",
 16
 ],
 [
-"Don Meineke",
+"Anthony Black",
 16
 ],
 [
-"Caldwell Jones",
+"Dick Garmaker",
 16
 ],
 [
-"Bobby Brown",
+"Alphonso Ford",
+16
+],
+[
+"Craig Hodges",
+16
+],
+[
+"Earl Lloyd",
+16
+],
+[
+"Vinnie Johnson",
+16
+],
+[
+"Jeff Malone",
+16
+],
+[
+"Larry Nance",
+16
+],
+[
+"James Ennis",
+16
+],
+[
+"Ryan Kelly",
+16
+],
+[
+"Andy Rautins",
+16
+],
+[
+"Morris Almond",
 16
 ],
 [
@@ -4224,7 +4240,7 @@
 16
 ],
 [
-"Scot Pollard",
+"Sam Mitchell",
 16
 ],
 [
@@ -4240,155 +4256,11 @@
 16
 ],
 [
-"Travis Diener",
+"Tom Gola",
 16
 ],
 [
-"Larry Drew",
-16
-],
-[
-"Sean Marks",
-16
-],
-[
-"Armen Gilliam",
-16
-],
-[
-"Kurt Rambis",
-16
-],
-[
-"Devin Ebanks",
-16
-],
-[
-"Devean George",
-16
-],
-[
-"JaJuan Johnson",
-16
-],
-[
-"Marquis Daniels",
-16
-],
-[
-"Alex Hannum",
-16
-],
-[
-"Andy Phillip",
-16
-],
-[
-"Craig Hodges",
-16
-],
-[
-"Dick Garmaker",
-16
-],
-[
-"Ryan Gomes",
-16
-],
-[
-"Terrence Williams",
-16
-],
-[
-"Slick Watts",
-16
-],
-[
-"Sam Mitchell",
-16
-],
-[
-"Ray McCallum Jr.",
-16
-],
-[
-"James Edwards",
-16
-],
-[
-"Tom Chambers",
-16
-],
-[
-"Darrell Walker",
-16
-],
-[
-"Matt Harpring",
-16
-],
-[
-"Xavier McDaniel",
-16
-],
-[
-"Frank Selvy",
-16
-],
-[
-"Jeff Malone",
-16
-],
-[
-"Caleb Swanigan",
-16
-],
-[
-"Justin Jackson",
-16
-],
-[
-"Don Chaney",
-16
-],
-[
-"Terrel Harris",
-16
-],
-[
-"Lavoy Allen",
-16
-],
-[
-"Hamidou Diallo",
-16
-],
-[
-"Darius Bazley",
-16
-],
-[
-"Mel Counts",
-16
-],
-[
-"James Ennis",
-16
-],
-[
-"Tyler Johnson",
-16
-],
-[
-"Jaylin Williams",
-16
-],
-[
-"Lonny Baxter",
-16
-],
-[
-"Mookie Blaylock",
+"Danny Ferry",
 16
 ],
 [
@@ -4396,15 +4268,71 @@
 16
 ],
 [
-"Alphonso Ford",
+"Viacheslav Kravtsov",
 16
 ],
 [
-"Elmer Bennett",
+"Chris Babb",
 16
 ],
 [
-"Tim Thomas",
+"Tom McMillen",
+16
+],
+[
+"Torrey Craig",
+16
+],
+[
+"Cleanthony Early",
+16
+],
+[
+"Damien Inglis",
+16
+],
+[
+"Larry Drew",
+16
+],
+[
+"Joe Fulks",
+16
+],
+[
+"Justin Jackson",
+16
+],
+[
+"Tyler Johnson",
+16
+],
+[
+"Randy Smith",
+16
+],
+[
+"David Stockton",
+16
+],
+[
+"Lonny Baxter",
+16
+],
+[
+"Bryn Forbes",
+16
+],
+[
+"Caleb Swanigan",
+16
+],
+[
+"Cheick Diallo",
+16
+],
+[
+"Mel Counts",
 16
 ],
 [
@@ -4416,99 +4344,11 @@
 16
 ],
 [
+"Caldwell Jones",
+16
+],
+[
 "Xavier Henry",
-16
-],
-[
-"Anfernee Simons",
-16
-],
-[
-"Javaris Crittenton",
-16
-],
-[
-"Zelmo Beaty",
-16
-],
-[
-"Victor Alexander",
-16
-],
-[
-"Jack Sikma",
-16
-],
-[
-"Roger Mason, Jr.",
-16
-],
-[
-"Kirk Penney",
-16
-],
-[
-"Damien Inglis",
-16
-],
-[
-"Tom Gola",
-16
-],
-[
-"Tom McMillen",
-16
-],
-[
-"Al Thornton",
-16
-],
-[
-"Randy Smith",
-16
-],
-[
-"Morris Almond",
-16
-],
-[
-"Cleanthony Early",
-16
-],
-[
-"Chris Babb",
-16
-],
-[
-"Vinnie Johnson",
-16
-],
-[
-"Earl Lloyd",
-16
-],
-[
-"DaJuan Summers",
-16
-],
-[
-"Viacheslav Kravtsov",
-16
-],
-[
-"David Ugochukwu Nwaba",
-16
-],
-[
-"John Paxson",
-16
-],
-[
-"Luke Kornet",
-16
-],
-[
-"P. J. Dozier",
 16
 ],
 [
@@ -4516,71 +4356,15 @@
 16
 ],
 [
-"Justin Dentmon",
+"Javaris Crittenton",
 16
 ],
 [
-"Lucas Nogueira",
+"Scot Pollard",
 16
 ],
 [
-"Bill Cartwright",
-16
-],
-[
-"Richie Guerin",
-16
-],
-[
-"Joe Caldwell",
-16
-],
-[
-"Solomon Alabi",
-16
-],
-[
-"Andy Rautins",
-16
-],
-[
-"Predrag Drobnjak",
-16
-],
-[
-"Jeff Mullins",
-16
-],
-[
-"David Stockton",
-16
-],
-[
-"Alvin Gentry",
-16
-],
-[
-"Ryan Kelly",
-16
-],
-[
-"Quin Snyder",
-16
-],
-[
-"Obi Toppin",
-16
-],
-[
-"Charlie Bell",
-16
-],
-[
-"Mac McClung",
-16
-],
-[
-"Larry Nance",
+"Kirk Penney",
 16
 ],
 [
@@ -4588,31 +4372,63 @@
 16
 ],
 [
+"Sean Marks",
+16
+],
+[
 "Jon Koncak",
 16
 ],
 [
-"Caleb Martin",
+"Zelmo Beaty",
 16
 ],
 [
-"Danny Ferry",
+"Armen Gilliam",
 16
 ],
 [
-"Pat Garrity",
+"Darrell Walker",
 16
 ],
 [
-"Joe Fulks",
+"Xavier McDaniel",
 16
 ],
 [
-"Archie Goodwin",
+"Frank Selvy",
 16
 ],
 [
-"Cheick Diallo",
+"Alvin Gentry",
+16
+],
+[
+"Solomon Alabi",
+16
+],
+[
+"Lavoy Allen",
+16
+],
+[
+"Justin Dentmon",
+16
+],
+[
+"Travis Diener",
+16
+],
+[
+"Don Chaney",
+16
+],
+[
+"Kurt Rambis",
+16
+],
+[
+"David Ugochukwu Nwaba",
 16
 ],
 [
@@ -4620,15 +4436,7 @@
 16
 ],
 [
-"Anthony Black",
-16
-],
-[
-"Torrey Craig",
-16
-],
-[
-"Bryn Forbes",
+"Luke Kornet",
 16
 ],
 [
@@ -4636,7 +4444,211 @@
 16
 ],
 [
+"P. J. Dozier",
+16
+],
+[
+"Hamidou Diallo",
+16
+],
+[
+"Quin Snyder",
+16
+],
+[
+"Victor Alexander",
+16
+],
+[
+"Alex Hannum",
+16
+],
+[
+"Mac McClung",
+16
+],
+[
+"Archie Goodwin",
+16
+],
+[
+"Anfernee Simons",
+16
+],
+[
+"Slick Watts",
+16
+],
+[
+"Andy Phillip",
+16
+],
+[
+"Jack Sikma",
+16
+],
+[
+"James Edwards",
+16
+],
+[
+"Caleb Martin",
+16
+],
+[
+"Marquis Daniels",
+16
+],
+[
+"Darius Bazley",
+16
+],
+[
+"JaJuan Johnson",
+16
+],
+[
+"Joe Caldwell",
+16
+],
+[
+"Anthony Tolliver",
+16
+],
+[
+"Roger Mason, Jr.",
+16
+],
+[
+"Lucas Nogueira",
+16
+],
+[
+"Jim Brewer",
+16
+],
+[
+"Jeff Mullins",
+16
+],
+[
+"Predrag Drobnjak",
+16
+],
+[
+"Richie Guerin",
+16
+],
+[
+"John Paxson",
+16
+],
+[
+"Devin Ebanks",
+16
+],
+[
+"Devean George",
+16
+],
+[
+"Obi Toppin",
+16
+],
+[
+"Bobby Brown",
+16
+],
+[
+"Bill Cartwright",
+16
+],
+[
+"Ryan Gomes",
+16
+],
+[
+"Terrence Williams",
+16
+],
+[
+"Charlie Bell",
+16
+],
+[
+"DaJuan Summers",
+16
+],
+[
+"Elmer Bennett",
+16
+],
+[
+"Mookie Blaylock",
+16
+],
+[
+"Pat Garrity",
+16
+],
+[
+"Tom Chambers",
+16
+],
+[
+"Matt Harpring",
+16
+],
+[
+"Don Meineke",
+16
+],
+[
+"Al Thornton",
+16
+],
+[
+"Tim Thomas",
+16
+],
+[
+"John Jenkins",
+15
+],
+[
+"Toumani Camara",
+15
+],
+[
+"Cristiano Felício",
+15
+],
+[
+"Jeremy Sochan",
+15
+],
+[
+"Chris Anstey",
+15
+],
+[
+"Chris Douglas-Roberts",
+15
+],
+[
+"Chuck Person",
+15
+],
+[
 "Rod Strickland",
+15
+],
+[
+"Darrell Griffith",
+15
+],
+[
+"Alexandre Sarr",
 15
 ],
 [
@@ -4644,11 +4656,27 @@
 15
 ],
 [
+"Derrick Brown",
+15
+],
+[
+"Donyell Marshall",
+15
+],
+[
 "Alonzo Gee",
 15
 ],
 [
-"Jared Jeffries",
+"Jared Cunningham",
+15
+],
+[
+"Jonathan Bender",
+15
+],
+[
+"Marcus Haislip",
 15
 ],
 [
@@ -4656,7 +4684,23 @@
 15
 ],
 [
-"Leon Wood",
+"Nathaniel Clifton",
+15
+],
+[
+"Tony Delk",
+15
+],
+[
+"Ron Mercer",
+15
+],
+[
+"Brandon Davies",
+15
+],
+[
+"Jim Walsh",
 15
 ],
 [
@@ -4664,51 +4708,51 @@
 15
 ],
 [
-"Donte' Greene",
+"Joe Barry Carroll",
 15
 ],
 [
-"John Johnson",
+"Robbie Hummel",
 15
 ],
 [
-"Darnell Jackson",
+"Ryan Arcidiacono",
 15
 ],
 [
-"Dave Meyers",
+"Hilton Armstrong",
 15
 ],
 [
-"Lynn Greer",
+"Bryce Cotton",
 15
 ],
 [
-"Kermit Washington",
+"Jordan McRae",
 15
 ],
 [
-"Quincy Miller",
+"K. J. McDaniels",
 15
 ],
 [
-"Walter Berry",
+"R. J. Hunter",
 15
 ],
 [
-"Jeff Adrien",
+"Tyler Ulis",
 15
 ],
 [
-"Gerald Henderson",
+"Josh Huestis",
 15
 ],
 [
-"Swen Nater",
+"Kelenna Azubuike",
 15
 ],
 [
-"Brevin Knight",
+"Henry Ellenson",
 15
 ],
 [
@@ -4716,7 +4760,55 @@
 15
 ],
 [
-"Tony Delk",
+"Jarell Martin",
+15
+],
+[
+"Chris McCullough",
+15
+],
+[
+"Skal Labissiere",
+15
+],
+[
+"Rashad Vaughn",
+15
+],
+[
+"Abdel Nader",
+15
+],
+[
+"Jake Layman",
+15
+],
+[
+"Damion Lee",
+15
+],
+[
+"Will Solomon",
+15
+],
+[
+"Bryce Dejean-Jones",
+15
+],
+[
+"World B. Free",
+15
+],
+[
+"Tarence Kinsey",
+15
+],
+[
+"Randy Brown",
+15
+],
+[
+"Tom Gugliotta",
 15
 ],
 [
@@ -4728,11 +4820,39 @@
 15
 ],
 [
-"Will Solomon",
+"Rickey Green",
 15
 ],
 [
-"Elmore Smith",
+"John Drew",
+15
+],
+[
+"Marvin Barnes",
+15
+],
+[
+"John Johnson",
+15
+],
+[
+"Wallace Jones",
+15
+],
+[
+"Dave Meyers",
+15
+],
+[
+"Tom Boerwinkle",
+15
+],
+[
+"Ron Bonham",
+15
+],
+[
+"Jarvis Varnado",
 15
 ],
 [
@@ -4740,27 +4860,23 @@
 15
 ],
 [
-"Hilton Armstrong",
+"Zach Collins",
 15
 ],
 [
-"Rodney Rogers",
+"Andy Panko",
 15
 ],
 [
-"Bailey Howell",
+"Lance Blanks",
 15
 ],
 [
-"Billy Knight",
+"Charles Jenkins",
 15
 ],
 [
-"Chuck Hayes",
-15
-],
-[
-"Smush Parker",
+"Jeff Adrien",
 15
 ],
 [
@@ -4768,75 +4884,43 @@
 15
 ],
 [
-"Cazzie Russell",
+"Daniel Orton",
 15
 ],
 [
-"J. R. Giddens",
+"Gerald Henderson",
 15
 ],
 [
-"Harvey Grant",
+"Lynn Greer",
 15
 ],
 [
-"Geoff Petrie",
+"Swen Nater",
 15
 ],
 [
-"Ron Mercer",
+"Yakhouba Diawara",
 15
 ],
 [
-"Tom Gugliotta",
+"Brevin Knight",
 15
 ],
 [
-"Jonathan Bender",
+"Darnell Jackson",
 15
 ],
 [
-"Chris Welp",
+"Elmore Smith",
 15
 ],
 [
-"Chuck Person",
+"Leon Wood",
 15
 ],
 [
-"Marcus Haislip",
-15
-],
-[
-"Darrell Griffith",
-15
-],
-[
-"Gundars Vētra",
-15
-],
-[
-"Ha Seung-Jin",
-15
-],
-[
-"Tyler Ulis",
-15
-],
-[
-"Anthony Bowie",
-15
-],
-[
-"Willie Naulls",
-15
-],
-[
-"Donyell Marshall",
-15
-],
-[
-"Jordan Bell",
+"Scott Wedman",
 15
 ],
 [
@@ -4844,7 +4928,35 @@
 15
 ],
 [
-"Jake Layman",
+"Johnny Kerr",
+15
+],
+[
+"Walter Berry",
+15
+],
+[
+"David Benoit",
+15
+],
+[
+"Woody Sauldsberry",
+15
+],
+[
+"Anthony Bowie",
+15
+],
+[
+"Miloš Babić",
+15
+],
+[
+"Gani Lawal",
+15
+],
+[
+"Willie Naulls",
 15
 ],
 [
@@ -4852,11 +4964,23 @@
 15
 ],
 [
-"Billy Owens",
+"Samardo Samuels",
+15
+],
+[
+"Norm Nixon",
 15
 ],
 [
 "Damion James",
+15
+],
+[
+"Chris Singleton",
+15
+],
+[
+"Neven Spahija",
 15
 ],
 [
@@ -4868,155 +4992,7 @@
 15
 ],
 [
-"Jarvis Varnado",
-15
-],
-[
-"Grant Williams",
-15
-],
-[
-"Miloš Babić",
-15
-],
-[
-"Andrew Toney",
-15
-],
-[
-"Cristiano Felício",
-15
-],
-[
-"Yakhouba Diawara",
-15
-],
-[
-"Ryan Arcidiacono",
-15
-],
-[
-"Rickey Green",
-15
-],
-[
-"Daniel Orton",
-15
-],
-[
-"Ron Bonham",
-15
-],
-[
-"Keyon Dooling",
-15
-],
-[
-"Robbie Hummel",
-15
-],
-[
-"Abdel Nader",
-15
-],
-[
-"Josh Huestis",
-15
-],
-[
-"John Drew",
-15
-],
-[
-"Mike Scott",
-15
-],
-[
-"Dan Gadzuric",
-15
-],
-[
-"KZ Okpala",
-15
-],
-[
-"Wallace Jones",
-15
-],
-[
-"Randy Brown",
-15
-],
-[
-"Chris Douglas-Roberts",
-15
-],
-[
-"Tom Boerwinkle",
-15
-],
-[
-"Skal Labissiere",
-15
-],
-[
-"Johnny Kerr",
-15
-],
-[
-"Toumani Camara",
-15
-],
-[
-"Zach Collins",
-15
-],
-[
-"Aaron Gray",
-15
-],
-[
-"Joe Barry Carroll",
-15
-],
-[
-"Daniel Santiago",
-15
-],
-[
-"Lance Blanks",
-15
-],
-[
-"Kornél Dávid",
-15
-],
-[
-"Norm Nixon",
-15
-],
-[
-"Nate Wolters",
-15
-],
-[
-"Orlando Johnson",
-15
-],
-[
-"Rashad Vaughn",
-15
-],
-[
-"Jared Cunningham",
-15
-],
-[
-"Romeo Langford",
-15
-],
-[
-"Carsen Edwards",
+"Gundars Vētra",
 15
 ],
 [
@@ -5024,67 +5000,11 @@
 15
 ],
 [
-"Mark Blount",
+"Robert Williams III",
 15
 ],
 [
-"Marvin Barnes",
-15
-],
-[
-"Charles Jenkins",
-15
-],
-[
-"World B. Free",
-15
-],
-[
-"Henry Ellenson",
-15
-],
-[
-"Zaid Abdul-Aziz",
-15
-],
-[
-"Tom Henderson",
-15
-],
-[
-"Damion Lee",
-15
-],
-[
-"Eric Paschall",
-15
-],
-[
-"R. J. Hunter",
-15
-],
-[
-"Nathaniel Clifton",
-15
-],
-[
-"Chris McCullough",
-15
-],
-[
-"Phil Pressey",
-15
-],
-[
-"Brandon Davies",
-15
-],
-[
-"Mardy Collins",
-15
-],
-[
-"Hollis Thompson",
+"Jordan Bell",
 15
 ],
 [
@@ -5092,55 +5012,19 @@
 15
 ],
 [
-"Alexandre Sarr",
+"Mark Blount",
 15
 ],
 [
-"Robert Williams III",
+"Aaron Gray",
 15
 ],
 [
-"Chris Anstey",
+"Keyon Dooling",
 15
 ],
 [
-"Bob Kauffman",
-15
-],
-[
-"Fred Schaus",
-15
-],
-[
-"Derrick Brown",
-15
-],
-[
-"John Jenkins",
-15
-],
-[
-"Bryce Cotton",
-15
-],
-[
-"Ochai Agbaji",
-15
-],
-[
-"Phil Smith",
-15
-],
-[
-"Tarence Kinsey",
-15
-],
-[
-"Bryce Dejean-Jones",
-15
-],
-[
-"K. J. McDaniels",
+"Carsen Edwards",
 15
 ],
 [
@@ -5148,79 +5032,7 @@
 15
 ],
 [
-"Jarell Martin",
-15
-],
-[
-"Yuki Kawamura",
-15
-],
-[
-"Woody Sauldsberry",
-15
-],
-[
-"Scott Wedman",
-15
-],
-[
-"Chris Singleton",
-15
-],
-[
-"Courtney Fortson",
-15
-],
-[
-"Jim Walsh",
-15
-],
-[
-"Jeremy Sochan",
-15
-],
-[
-"Andy Panko",
-15
-],
-[
-"Jordan Loyd",
-15
-],
-[
-"Neven Spahija",
-15
-],
-[
-"Jackson Vroman",
-15
-],
-[
-"Gani Lawal",
-15
-],
-[
-"Jordan McRae",
-15
-],
-[
-"Dylan Windler",
-15
-],
-[
-"Kelenna Azubuike",
-15
-],
-[
-"Marko Milič",
-15
-],
-[
-"Samardo Samuels",
-15
-],
-[
-"Jalen Suggs",
+"Quincy Miller",
 15
 ],
 [
@@ -5228,63 +5040,195 @@
 15
 ],
 [
-"David Benoit",
+"Harvey Grant",
 15
 ],
 [
-"Mario Elie",
+"Zaid Abdul-Aziz",
+15
+],
+[
+"Geoff Petrie",
+15
+],
+[
+"Mardy Collins",
+15
+],
+[
+"Jordan Loyd",
+15
+],
+[
+"Romeo Langford",
+15
+],
+[
+"Ha Seung-Jin",
+15
+],
+[
+"Jackson Vroman",
+15
+],
+[
+"Grant Williams",
+15
+],
+[
+"Andrew Toney",
+15
+],
+[
+"Eric Paschall",
+15
+],
+[
+"Chuck Hayes",
+15
+],
+[
+"Bob Kauffman",
+15
+],
+[
+"Phil Smith",
+15
+],
+[
+"Orlando Johnson",
+15
+],
+[
+"Ochai Agbaji",
+15
+],
+[
+"Mike Scott",
+15
+],
+[
+"Hollis Thompson",
+15
+],
+[
+"KZ Okpala",
+15
+],
+[
+"Dylan Windler",
+15
+],
+[
+"Rodney Rogers",
+15
+],
+[
+"Billy Knight",
+15
+],
+[
+"Jared Jeffries",
+15
+],
+[
+"Nate Wolters",
+15
+],
+[
+"Chris Welp",
+15
+],
+[
+"Phil Pressey",
+15
+],
+[
+"J. R. Giddens",
+15
+],
+[
+"Smush Parker",
+15
+],
+[
+"Daniel Santiago",
+15
+],
+[
+"Cazzie Russell",
+15
+],
+[
+"Fred Schaus",
+15
+],
+[
+"Bailey Howell",
+15
+],
+[
+"Jalen Suggs",
+15
+],
+[
+"Yuki Kawamura",
+15
+],
+[
+"Kornél Dávid",
+15
+],
+[
+"Tom Henderson",
+15
+],
+[
+"Courtney Fortson",
+15
+],
+[
+"Kermit Washington",
+15
+],
+[
+"Marko Milič",
+15
+],
+[
+"Dan Gadzuric",
+15
+],
+[
+"Billy Owens",
+15
+],
+[
+"Donte' Greene",
+15
+],
+[
+"E.J. Liddell",
 14
 ],
 [
-"Maurice Lucas",
+"Ajay Mitchell",
 14
 ],
 [
-"Aaron McKie",
+"Tristan da Silva",
 14
 ],
 [
-"Shawne Williams",
+"Aday Mara",
 14
 ],
 [
-"Kenny Carr",
+"Carl Herrera",
 14
 ],
 [
-"Kevin Duckworth",
-14
-],
-[
-"Earl Barron",
-14
-],
-[
-"Charles Smith",
-14
-],
-[
-"Bob Gross",
-14
-],
-[
-"LaRue Martin",
-14
-],
-[
-"Bonzi Wells",
-14
-],
-[
-"Otto Graham",
-14
-],
-[
-"Adrian Branch",
-14
-],
-[
-"Juan Dixon",
+"Gradey Dick",
 14
 ],
 [
@@ -5292,19 +5236,43 @@
 14
 ],
 [
+"Yuki Togashi",
+14
+],
+[
 "Sihugo Green",
 14
 ],
 [
-"Sean May",
+"J.R. Bremer",
 14
 ],
 [
-"Jon Barry",
+"Eduardo Nájera",
 14
 ],
 [
-"Nolan Smith",
+"Steve Clifford",
+14
+],
+[
+"Al Cervi",
+14
+],
+[
+"Neil Johnston",
+14
+],
+[
+"Ronald Murray",
+14
+],
+[
+"Etan Thomas",
+14
+],
+[
+"James Silas",
 14
 ],
 [
@@ -5312,7 +5280,31 @@
 14
 ],
 [
-"Vladimir Stepania",
+"Chris Gatling",
+14
+],
+[
+"Bob Rule",
+14
+],
+[
+"Don Dee",
+14
+],
+[
+"George Yardley",
+14
+],
+[
+"Jordan Adams",
+14
+],
+[
+"Dudley Bradley",
+14
+],
+[
+"Bob Gross",
 14
 ],
 [
@@ -5320,7 +5312,111 @@
 14
 ],
 [
+"LaRue Martin",
+14
+],
+[
+"Bingo Smith",
+14
+],
+[
+"Mike Gminski",
+14
+],
+[
+"Sean Kilpatrick",
+14
+],
+[
+"Blake Ahearn",
+14
+],
+[
+"Shawne Williams",
+14
+],
+[
+"Roy Devyn Marble",
+14
+],
+[
+"Keith Benson",
+14
+],
+[
+"Maurice Ager",
+14
+],
+[
+"Aaron McKie",
+14
+],
+[
+"Charles Smith",
+14
+],
+[
+"Javonte Green",
+14
+],
+[
+"Wade Baldwin",
+14
+],
+[
+"Vernon Maxwell",
+14
+],
+[
+"Bryant Reeves",
+14
+],
+[
+"Earl Barron",
+14
+],
+[
+"Kevin Duckworth",
+14
+],
+[
+"Harold Miner",
+14
+],
+[
+"Kenny Carr",
+14
+],
+[
+"Tom LaGarde",
+14
+],
+[
+"Tate Armstrong",
+14
+],
+[
+"Phil Hubbard",
+14
+],
+[
+"Steve Sheppard",
+14
+],
+[
 "Tommy Burleson",
+14
+],
+[
+"Adrian Branch",
+14
+],
+[
+"M. L. Carr",
+14
+],
+[
+"Ed Ratleff",
 14
 ],
 [
@@ -5332,75 +5428,7 @@
 14
 ],
 [
-"Bob Dandridge",
-14
-],
-[
-"Vernon Maxwell",
-14
-],
-[
-"Lucius Allen",
-14
-],
-[
-"Sidney Wicks",
-14
-],
-[
-"Luther Head",
-14
-],
-[
-"Greg \"Cadillac\" Anderson",
-14
-],
-[
-"Donald Sloan",
-14
-],
-[
-"Sean Williams",
-14
-],
-[
-"Elliot Williams",
-14
-],
-[
-"Kelly Tripucka",
-14
-],
-[
-"Maurice Ager",
-14
-],
-[
-"Don Dee",
-14
-],
-[
-"Jaylen Nowell",
-14
-],
-[
-"Ronald Murray",
-14
-],
-[
-"Tom LaGarde",
-14
-],
-[
-"Greg Smith",
-14
-],
-[
-"Dudley Bradley",
-14
-],
-[
-"Darius Johnson-Odom",
+"Freddie Lewis",
 14
 ],
 [
@@ -5408,11 +5436,75 @@
 14
 ],
 [
+"Dickie Hemric",
+14
+],
+[
+"Juan Dixon",
+14
+],
+[
+"Jim Ard",
+14
+],
+[
+"Michael Adams",
+14
+],
+[
+"Jon Barry",
+14
+],
+[
+"Luke Harangody",
+14
+],
+[
+"Dwight Jones",
+14
+],
+[
+"Richard Hendrix",
+14
+],
+[
+"Milt Palacio",
+14
+],
+[
+"Patrick O'Bryant",
+14
+],
+[
+"Manny Harris",
+14
+],
+[
+"Nolan Smith",
+14
+],
+[
+"Drew Gordon",
+14
+],
+[
+"Chinanu Onuaku",
+14
+],
+[
+"Danuel House",
+14
+],
+[
+"Steven Hunter",
+14
+],
+[
 "Scott Burrell",
 14
 ],
 [
-"Yuki Togashi",
+"Kerry Kittles",
 14
 ],
 [
@@ -5424,55 +5516,7 @@
 14
 ],
 [
-"Jim Ard",
-14
-],
-[
-"Keita Bates-Diop",
-14
-],
-[
-"Sean Kilpatrick",
-14
-],
-[
-"Drew Gordon",
-14
-],
-[
-"Harold Miner",
-14
-],
-[
-"Cedric Simmons",
-14
-],
-[
-"Anthony Carter",
-14
-],
-[
-"Blake Ahearn",
-14
-],
-[
-"DeAndre Liggins",
-14
-],
-[
-"Chris Gatling",
-14
-],
-[
-"Ray Felix",
-14
-],
-[
-"Etan Thomas",
-14
-],
-[
-"Freddie Lewis",
+"Lou Hudson",
 14
 ],
 [
@@ -5480,111 +5524,7 @@
 14
 ],
 [
-"D. J. White",
-14
-],
-[
-"Mitch McGary",
-14
-],
-[
-"Ajay Mitchell",
-14
-],
-[
-"Terry Cummings",
-14
-],
-[
-"Jarnell Stokes",
-14
-],
-[
-"Aday Mara",
-14
-],
-[
-"Milt Palacio",
-14
-],
-[
-"Tate Armstrong",
-14
-],
-[
-"Jaime Jaquez Jr.",
-14
-],
-[
-"Steve Sheppard",
-14
-],
-[
-"Dwight Jones",
-14
-],
-[
-"Craig Brackins",
-14
-],
-[
-"Eduardo Nájera",
-14
-],
-[
-"Curtis Borchardt",
-14
-],
-[
-"Bob Rule",
-14
-],
-[
-"Mike Gminski",
-14
-],
-[
-"Wade Baldwin",
-14
-],
-[
-"Chinanu Onuaku",
-14
-],
-[
-"Nassir Little",
-14
-],
-[
-"Manny Harris",
-14
-],
-[
-"Lou Hudson",
-14
-],
-[
-"J.R. Bremer",
-14
-],
-[
-"Kadeem Allen",
-14
-],
-[
-"Dickie Hemric",
-14
-],
-[
-"M. L. Carr",
-14
-],
-[
-"Steven Hunter",
-14
-],
-[
-"Adrian Griffin",
+"Bob Dandridge",
 14
 ],
 [
@@ -5592,159 +5532,7 @@
 14
 ],
 [
-"Charlie Ward",
-14
-],
-[
-"Josh Harrellson",
-14
-],
-[
-"Alfonzo McKinnie",
-14
-],
-[
-"Alen Smailagić",
-14
-],
-[
-"Dexter Pittman",
-14
-],
-[
-"Phil Hubbard",
-14
-],
-[
-"George Yardley",
-14
-],
-[
-"Javonte Green",
-14
-],
-[
-"Adam Mokoka",
-14
-],
-[
-"Nate Huffman",
-14
-],
-[
-"Michael Adams",
-14
-],
-[
-"Al Cervi",
-14
-],
-[
-"Patrick O'Bryant",
-14
-],
-[
-"Darius Miller",
-14
-],
-[
-"Renaldo Balkman",
-14
-],
-[
-"Jerome Robinson",
-14
-],
-[
-"Tony Bradley",
-14
-],
-[
-"Royce O'Neale",
-14
-],
-[
-"E.J. Liddell",
-14
-],
-[
-"Kenrich Williams",
-14
-],
-[
-"Zhaire Smith",
-14
-],
-[
-"Marial Shayok",
-14
-],
-[
-"Luke Harangody",
-14
-],
-[
-"Jordan Adams",
-14
-],
-[
-"Arnie Risen",
-14
-],
-[
-"Ignas Brazdeikis",
-14
-],
-[
-"Ty Jerome",
-14
-],
-[
-"Steve Clifford",
-14
-],
-[
-"James Silas",
-14
-],
-[
-"Bingo Smith",
-14
-],
-[
-"Neil Johnston",
-14
-],
-[
-"Gradey Dick",
-14
-],
-[
-"Carl Herrera",
-14
-],
-[
-"Pape Sy",
-14
-],
-[
-"Cody Martin",
-14
-],
-[
-"Bryant Reeves",
-14
-],
-[
-"Keith Benson",
-14
-],
-[
-"Richard Hendrix",
-14
-],
-[
-"Ed Ratleff",
+"Curtis Borchardt",
 14
 ],
 [
@@ -5752,7 +5540,39 @@
 14
 ],
 [
-"Kerry Kittles",
+"Sean May",
+14
+],
+[
+"Royce O'Neale",
+14
+],
+[
+"D. J. White",
+14
+],
+[
+"Nate Huffman",
+14
+],
+[
+"DeAndre Liggins",
+14
+],
+[
+"Pape Sy",
+14
+],
+[
+"Vladimir Stepania",
+14
+],
+[
+"Arnie Risen",
+14
+],
+[
+"Cedric Simmons",
 14
 ],
 [
@@ -5760,15 +5580,47 @@
 14
 ],
 [
-"Danuel House",
+"Greg Smith",
 14
 ],
 [
-"Tristan da Silva",
+"Adam Mokoka",
 14
 ],
 [
-"Roy Devyn Marble",
+"Tony Bradley",
+14
+],
+[
+"Kadeem Allen",
+14
+],
+[
+"Alfonzo McKinnie",
+14
+],
+[
+"Adrian Griffin",
+14
+],
+[
+"Ray Felix",
+14
+],
+[
+"Elliot Williams",
+14
+],
+[
+"Keita Bates-Diop",
+14
+],
+[
+"Nassir Little",
+14
+],
+[
+"Darius Johnson-Odom",
 14
 ],
 [
@@ -5776,71 +5628,167 @@
 14
 ],
 [
-"Wesley Person",
+"Ignas Brazdeikis",
+14
+],
+[
+"Sidney Wicks",
+14
+],
+[
+"Kelly Tripucka",
+14
+],
+[
+"Zhaire Smith",
+14
+],
+[
+"Luther Head",
+14
+],
+[
+"Kenrich Williams",
+14
+],
+[
+"Jerome Robinson",
+14
+],
+[
+"Cody Martin",
+14
+],
+[
+"Darius Miller",
+14
+],
+[
+"Anthony Carter",
+14
+],
+[
+"Mario Elie",
+14
+],
+[
+"Terry Cummings",
+14
+],
+[
+"Lucius Allen",
+14
+],
+[
+"Josh Harrellson",
+14
+],
+[
+"Jarnell Stokes",
+14
+],
+[
+"Ty Jerome",
+14
+],
+[
+"Alen Smailagić",
+14
+],
+[
+"Marial Shayok",
+14
+],
+[
+"Jaylen Nowell",
+14
+],
+[
+"Greg \"Cadillac\" Anderson",
+14
+],
+[
+"Maurice Lucas",
+14
+],
+[
+"Dexter Pittman",
+14
+],
+[
+"Mitch McGary",
+14
+],
+[
+"Charlie Ward",
+14
+],
+[
+"Craig Brackins",
+14
+],
+[
+"Donald Sloan",
+14
+],
+[
+"Bonzi Wells",
+14
+],
+[
+"Jaime Jaquez Jr.",
+14
+],
+[
+"Renaldo Balkman",
+14
+],
+[
+"Otto Graham",
+14
+],
+[
+"Sean Williams",
+14
+],
+[
+"Quinten Post",
 13
 ],
 [
-"Ron Brewer",
+"Chris Quinn",
 13
 ],
 [
-"Calvin Natt",
+"Sundiata Gaines",
 13
 ],
 [
-"Jim Paxson",
+"Butch Beard",
 13
 ],
 [
-"Brian Taylor",
+"Jett Howard",
 13
 ],
 [
-"Tony Massenburg",
+"Cameron Boozer",
 13
 ],
 [
-"Robert Pack",
+"Darryn Peterson",
 13
 ],
 [
-"Johnny Rogers",
+"Travis Hansen",
 13
 ],
 [
-"Wayne Embry",
+"Rod Thorn",
 13
 ],
 [
-"Guy Rodgers",
-13
-],
-[
-"Larry Steele",
-13
-],
-[
-"Keith Smart",
-13
-],
-[
-"Kevin Ollie",
-13
-],
-[
-"Von Wafer",
-13
-],
-[
-"Jim McMillian",
-13
-],
-[
-"Don Buse",
-13
-],
-[
-"Pétur Guðmundsson",
+"Paul Davis",
 13
 ],
 [
@@ -5848,7 +5796,23 @@
 13
 ],
 [
-"Jeff Grayer",
+"Willie Reed",
+13
+],
+[
+"Jim Paxson",
+13
+],
+[
+"John Thompson",
+13
+],
+[
+"Dan Roundfield",
+13
+],
+[
+"Truck Robinson",
 13
 ],
 [
@@ -5856,15 +5820,71 @@
 13
 ],
 [
-"Larry Costello",
+"Mike Silliman",
 13
 ],
 [
-"Brian Grant",
+"Troy Daniels",
 13
 ],
 [
-"Royal Ivey",
+"John Williams",
+13
+],
+[
+"Eric Montross",
+13
+],
+[
+"Clyde Lee",
+13
+],
+[
+"Leo Barnhorst",
+13
+],
+[
+"Lonnie Shelton",
+13
+],
+[
+"Ryan Bowen",
+13
+],
+[
+"Roger Brown",
+13
+],
+[
+"Bill McGill",
+13
+],
+[
+"Treveon Graham",
+13
+],
+[
+"Nick Johnson",
+13
+],
+[
+"Alan Williams",
+13
+],
+[
+"Jack Haley",
+13
+],
+[
+"Calbert Cheaney",
+13
+],
+[
+"Ken Bannister",
+13
+],
+[
+"Johnny Rogers",
 13
 ],
 [
@@ -5872,19 +5892,399 @@
 13
 ],
 [
+"George Zidek",
+13
+],
+[
+"Cory Jefferson",
+13
+],
+[
+"JaKarr Sampson",
+13
+],
+[
+"Shayne Whittington",
+13
+],
+[
+"Malik Hairston",
+13
+],
+[
+"Marcus Fizer",
+13
+],
+[
+"Max Zaslofsky",
+13
+],
+[
+"Jonathon Simmons",
+13
+],
+[
+"Jonah Bolden",
+13
+],
+[
+"Duje Dukan",
+13
+],
+[
+"Naz Mitrou-Long",
+13
+],
+[
+"John Holland",
+13
+],
+[
+"Perry Jones III",
+13
+],
+[
+"Chris Silva",
+13
+],
+[
+"Coty Clarke",
+13
+],
+[
+"Frank Mason III",
+13
+],
+[
+"Jarrod Uthoff",
+13
+],
+[
+"Ernie DiGregorio",
+13
+],
+[
+"Jason Caffey",
+13
+],
+[
+"Alan Henderson",
+13
+],
+[
+"Tree Rollins",
+13
+],
+[
+"J. R. Reid",
+13
+],
+[
+"Jeff Grayer",
+13
+],
+[
+"Paul Pressey",
+13
+],
+[
+"Hubert Davis",
+13
+],
+[
+"Red Rocha",
+13
+],
+[
+"Campy Russell",
+13
+],
+[
+"Jim Cleamons",
+13
+],
+[
+"John Shumate",
+13
+],
+[
+"Jim Chones",
+13
+],
+[
+"Andre Barrett",
+13
+],
+[
+"Bob Sura",
+13
+],
+[
+"Butch Lee",
+13
+],
+[
+"Keith Booth",
+13
+],
+[
+"Michael Ansley",
+13
+],
+[
+"John Williamson",
+13
+],
+[
+"Robert Pack",
+13
+],
+[
+"Matt Costello",
+13
+],
+[
+"T. J. Leaf",
+13
+],
+[
+"Rafael Araújo",
+13
+],
+[
+"Mickell Gladness",
+13
+],
+[
+"Žarko Čabarkapa",
+13
+],
+[
+"Brian Cook",
+13
+],
+[
+"Michael Sweetney",
+13
+],
+[
+"David Greenwood",
+13
+],
+[
+"Happy Hairston",
+13
+],
+[
+"Jeremy Tyler",
+13
+],
+[
+"Coby Karl",
+13
+],
+[
+"Hassan Adams",
+13
+],
+[
+"Bruno Šundov",
+13
+],
+[
+"Trenton Hassell",
+13
+],
+[
+"Royal Ivey",
+13
+],
+[
+"Guy Rodgers",
+13
+],
+[
+"Wayne Embry",
+13
+],
+[
+"Alex Garcia",
+13
+],
+[
+"Larry Costello",
+13
+],
+[
+"Cliff Levingston",
+13
+],
+[
+"William Bedford",
+13
+],
+[
+"Jay Vincent",
+13
+],
+[
 "Brian Winters",
 13
 ],
 [
-"Bill Walker",
+"Tony Massenburg",
 13
 ],
 [
-"Larry Foust",
+"Brian Taylor",
 13
 ],
 [
-"Damon Jones",
+"Ratko Varda",
+13
+],
+[
+"Mile Ilić",
+13
+],
+[
+"Jim McMillian",
+13
+],
+[
+"Jeff Foster",
+13
+],
+[
+"Pétur Guðmundsson",
+13
+],
+[
+"Don Buse",
+13
+],
+[
+"Malcolm Lee",
+13
+],
+[
+"Alando Tucker",
+13
+],
+[
+"Bo Outlaw",
+13
+],
+[
+"Kevin Porter",
+13
+],
+[
+"Wataru Misaka",
+13
+],
+[
+"Khalid El-Amin",
+13
+],
+[
+"Larry Siegfried",
+13
+],
+[
+"Chris Ford",
+13
+],
+[
+"Keith Smart",
+13
+],
+[
+"David Wesley",
+13
+],
+[
+"Gene Conley",
+13
+],
+[
+"Shandon Anderson",
+13
+],
+[
+"Lamond Murray",
+13
+],
+[
+"Dickey Simpkins",
+13
+],
+[
+"Bracey Wright",
+13
+],
+[
+"Kevin Ollie",
+13
+],
+[
+"Malik Sealy",
+13
+],
+[
+"Larry Steele",
+13
+],
+[
+"Edmond Sumner",
+13
+],
+[
+"Toby Bailey",
+13
+],
+[
+"Brian Grant",
+13
+],
+[
+"Gene Banks",
+13
+],
+[
+"Johnny Neumann",
+13
+],
+[
+"Henri Drell",
+13
+],
+[
+"Dominique Jones",
+13
+],
+[
+"Arnett Moultrie",
+13
+],
+[
+"Brandon Goodwin",
+13
+],
+[
+"Omari Spellman",
+13
+],
+[
+"Drew Eubanks",
+13
+],
+[
+"David Fizdale",
+13
+],
+[
+"John Long",
 13
 ],
 [
@@ -5892,11 +6292,91 @@
 13
 ],
 [
-"Gabe Pruitt",
+"Bill Walker",
+13
+],
+[
+"Jordan McLaughlin",
+13
+],
+[
+"Matt Walsh",
+13
+],
+[
+"Jamaal Franklin",
+13
+],
+[
+"Wesley Person",
+13
+],
+[
+"Trayce Jackson-Davis",
+13
+],
+[
+"Geert Hammink",
+13
+],
+[
+"Damon Jones",
+13
+],
+[
+"Kyle Wiltjer",
 13
 ],
 [
 "Art Heyman",
+13
+],
+[
+"George Wilson",
+13
+],
+[
+"Ron Brewer",
+13
+],
+[
+"DaQuan Jeffries",
+13
+],
+[
+"Uwe Blab",
+13
+],
+[
+"Peyton Siva",
+13
+],
+[
+"Gabe Pruitt",
+13
+],
+[
+"Johnny Moore",
+13
+],
+[
+"Rakeem Christmas",
+13
+],
+[
+"Tyrone Hill",
+13
+],
+[
+"Larry Foust",
+13
+],
+[
+"Terrico White",
+13
+],
+[
+"Calvin Natt",
 13
 ],
 [
@@ -5908,455 +6388,7 @@
 13
 ],
 [
-"Malcolm Lee",
-13
-],
-[
-"Dan Roundfield",
-13
-],
-[
-"Trenton Hassell",
-13
-],
-[
-"Jack Haley",
-13
-],
-[
-"Alando Tucker",
-13
-],
-[
-"Bracey Wright",
-13
-],
-[
-"Arnett Moultrie",
-13
-],
-[
-"Bill McGill",
-13
-],
-[
-"Roger Brown",
-13
-],
-[
-"Jim Chones",
-13
-],
-[
-"Hubert Davis",
-13
-],
-[
-"Jeremy Tyler",
-13
-],
-[
-"Bruno Šundov",
-13
-],
-[
-"Troy Daniels",
-13
-],
-[
-"José Ortiz",
-13
-],
-[
-"John Williamson",
-13
-],
-[
-"Jordan McLaughlin",
-13
-],
-[
-"Chris Quinn",
-13
-],
-[
-"Jarrod Uthoff",
-13
-],
-[
-"Duje Dukan",
-13
-],
-[
-"Treveon Graham",
-13
-],
-[
-"Wataru Misaka",
-13
-],
-[
-"Lamond Murray",
-13
-],
-[
-"Hassan Adams",
-13
-],
-[
-"Khalid El-Amin",
-13
-],
-[
-"Mile Ilić",
-13
-],
-[
-"Gene Conley",
-13
-],
-[
-"Dickey Simpkins",
-13
-],
-[
-"Mickell Gladness",
-13
-],
-[
-"DaQuan Jeffries",
-13
-],
-[
-"Shandon Anderson",
-13
-],
-[
-"Paul Davis",
-13
-],
-[
 "Brian Cardinal",
-13
-],
-[
-"Gene Banks",
-13
-],
-[
-"Ryan Bowen",
-13
-],
-[
-"Perry Jones III",
-13
-],
-[
-"Kevin Porter",
-13
-],
-[
-"Jeff Foster",
-13
-],
-[
-"Sundiata Gaines",
-13
-],
-[
-"Truck Robinson",
-13
-],
-[
-"David Fizdale",
-13
-],
-[
-"Johnny Moore",
-13
-],
-[
-"Jason Caffey",
-13
-],
-[
-"Johnny Neumann",
-13
-],
-[
-"Calbert Cheaney",
-13
-],
-[
-"Marcus Fizer",
-13
-],
-[
-"Leo Barnhorst",
-13
-],
-[
-"George Wilson",
-13
-],
-[
-"Tyrone Hill",
-13
-],
-[
-"Chris Silva",
-13
-],
-[
-"Andre Barrett",
-13
-],
-[
-"Keith Booth",
-13
-],
-[
-"Ernie DiGregorio",
-13
-],
-[
-"J. R. Reid",
-13
-],
-[
-"Paul Pressey",
-13
-],
-[
-"David Greenwood",
-13
-],
-[
-"Cliff Levingston",
-13
-],
-[
-"Rafael Araújo",
-13
-],
-[
-"Butch Beard",
-13
-],
-[
-"Malik Sealy",
-13
-],
-[
-"Butch Lee",
-13
-],
-[
-"Jim Cleamons",
-13
-],
-[
-"T. J. Leaf",
-13
-],
-[
-"John Long",
-13
-],
-[
-"Brian Cook",
-13
-],
-[
-"Happy Hairston",
-13
-],
-[
-"Coby Karl",
-13
-],
-[
-"Jay Vincent",
-13
-],
-[
-"Frank Mason III",
-13
-],
-[
-"Clyde Lee",
-13
-],
-[
-"Eric Montross",
-13
-],
-[
-"John Thompson",
-13
-],
-[
-"Michael Ansley",
-13
-],
-[
-"Bob Sura",
-13
-],
-[
-"John Shumate",
-13
-],
-[
-"Alan Henderson",
-13
-],
-[
-"Red Rocha",
-13
-],
-[
-"Peyton Siva",
-13
-],
-[
-"John Holland",
-13
-],
-[
-"Brett Brown",
-13
-],
-[
-"Chris Ford",
-13
-],
-[
-"Ken Bannister",
-13
-],
-[
-"Lonnie Shelton",
-13
-],
-[
-"Campy Russell",
-13
-],
-[
-"William Bedford",
-13
-],
-[
-"Ratko Varda",
-13
-],
-[
-"Max Zaslofsky",
-13
-],
-[
-"Matt Walsh",
-13
-],
-[
-"Willie Reed",
-13
-],
-[
-"Uwe Blab",
-13
-],
-[
-"Omari Spellman",
-13
-],
-[
-"Rod Thorn",
-13
-],
-[
-"Alan Williams",
-13
-],
-[
-"Trayce Jackson-Davis",
-13
-],
-[
-"Quinten Post",
-13
-],
-[
-"Tree Rollins",
-13
-],
-[
-"Cory Jefferson",
-13
-],
-[
-"Coty Clarke",
-13
-],
-[
-"Henri Drell",
-13
-],
-[
-"Travis Hansen",
-13
-],
-[
-"Drew Barry",
-13
-],
-[
-"Geert Hammink",
-13
-],
-[
-"Darryn Peterson",
-13
-],
-[
-"Naz Mitrou-Long",
-13
-],
-[
-"Jonah Bolden",
-13
-],
-[
-"JaKarr Sampson",
-13
-],
-[
-"Bo Outlaw",
-13
-],
-[
-"Jamaal Franklin",
-13
-],
-[
-"Cameron Boozer",
-13
-],
-[
-"Larry Siegfried",
-13
-],
-[
-"David Wesley",
-13
-],
-[
-"Rakeem Christmas",
-13
-],
-[
-"George Zidek",
 13
 ],
 [
@@ -6364,383 +6396,19 @@
 13
 ],
 [
-"Edmond Sumner",
+"José Ortiz",
 13
 ],
 [
-"Terrico White",
+"Von Wafer",
 13
 ],
 [
-"John Williams",
+"Drew Barry",
 13
 ],
 [
-"Shayne Whittington",
-13
-],
-[
-"Dominique Jones",
-13
-],
-[
-"Žarko Čabarkapa",
-13
-],
-[
-"Toby Bailey",
-13
-],
-[
-"Alex Garcia",
-13
-],
-[
-"Jett Howard",
-13
-],
-[
-"Kyle Wiltjer",
-13
-],
-[
-"Malik Hairston",
-13
-],
-[
-"Nick Johnson",
-13
-],
-[
-"Mike Silliman",
-13
-],
-[
-"Jonathon Simmons",
-13
-],
-[
-"Matt Costello",
-13
-],
-[
-"Brandon Goodwin",
-13
-],
-[
-"Drew Eubanks",
-13
-],
-[
-"Dennis Awtrey",
-12
-],
-[
-"Alaa Abdelnaby",
-12
-],
-[
-"Taurean Green",
-12
-],
-[
-"T. R. Dunn",
-12
-],
-[
-"Chris Dudley",
-12
-],
-[
-"Shavlik Randolph",
-12
-],
-[
-"Bob Weiss",
-12
-],
-[
-"Chris Johnson",
-12
-],
-[
-"Fred Hetzel",
-12
-],
-[
-"Lionel Simmons",
-12
-],
-[
-"Jon McGlocklin",
-12
-],
-[
-"Randy Breuer",
-12
-],
-[
-"Jarron Collins",
-12
-],
-[
-"Len Chappell",
-12
-],
-[
-"Dennis Hopson",
-12
-],
-[
-"Ricky Berry",
-12
-],
-[
-"Craig Smith",
-12
-],
-[
-"Jimmy Walker",
-12
-],
-[
-"Stephen Graham",
-12
-],
-[
-"Benoit Benjamin",
-12
-],
-[
-"Wes Matthews",
-12
-],
-[
-"Maurice Taylor",
-12
-],
-[
-"Austin Croshere",
-12
-],
-[
-"Milton Wagner",
-12
-],
-[
-"Frank Brickowski",
-12
-],
-[
-"Jim Price",
-12
-],
-[
-"Jerome Allen",
-12
-],
-[
-"Micheal Williams",
-12
-],
-[
-"Rudy LaRusso",
-12
-],
-[
-"Bryon Russell",
-12
-],
-[
-"Jamison Brewer",
-12
-],
-[
-"Mark Madsen",
-12
-],
-[
-"Ron Behagen",
-12
-],
-[
-"Bob Davies",
-12
-],
-[
-"Mike Wilks",
-12
-],
-[
-"A. J. Price",
-12
-],
-[
-"Mack Calvin",
-12
-],
-[
-"Donnie Freeman",
-12
-],
-[
-"Clark Kellogg",
-12
-],
-[
-"Steve Stipanovich",
-12
-],
-[
-"Travis Best",
-12
-],
-[
-"Ndudi Ebi",
-12
-],
-[
-"Quincy Lewis",
-12
-],
-[
-"Todd MacCulloch",
-12
-],
-[
-"Eric Moreland",
-12
-],
-[
-"Warren Jabali",
-12
-],
-[
-"Ricky Ledo",
-12
-],
-[
-"Don MacLean",
-12
-],
-[
-"Jarvis Hayes",
-12
-],
-[
-"Kris Joseph",
-12
-],
-[
-"Dwight Buycks",
-12
-],
-[
-"Ed O'Bannon",
-12
-],
-[
-"Ben Uzoh",
-12
-],
-[
-"LaPhonso Ellis",
-12
-],
-[
-"Malcolm Thomas",
-12
-],
-[
-"Mark Landsberger",
-12
-],
-[
-"Jalen McDaniels",
-12
-],
-[
-"Isaiah Roby",
-12
-],
-[
-"Wayne Simien",
-12
-],
-[
-"William Avery",
-12
-],
-[
-"Damien Wilkins",
-12
-],
-[
-"Luke Jackson",
-12
-],
-[
-"Ken Sears",
-12
-],
-[
-"Gary Alexander",
-12
-],
-[
-"Blue Edwards",
-12
-],
-[
-"Ronald Dupree",
-12
-],
-[
-"Kevin Joyce",
-12
-],
-[
-"Brad Davis",
-12
-],
-[
-"Kyle Weaver",
-12
-],
-[
-"Herb Williams",
-12
-],
-[
-"Justin Patton",
-12
-],
-[
-"Kevin Loughery",
-12
-],
-[
-"Grant Long",
-12
-],
-[
-"Ron Lee",
-12
-],
-[
-"J. J. Anderson",
-12
-],
-[
-"Bird Averitt",
-12
-],
-[
-"Henry Bibby",
-12
-],
-[
-"Chris Morris",
+"Casey Jacobsen",
 12
 ],
 [
@@ -6748,51 +6416,23 @@
 12
 ],
 [
-"Tom Boswell",
+"Hugo González",
 12
 ],
 [
-"Kyle Alexander",
+"Kelly McCarty",
 12
 ],
 [
-"Flynn Robinson",
+"Jerome Allen",
 12
 ],
 [
-"Demetris Nichols",
+"DaRon Holmes II",
 12
 ],
 [
-"Keith Erickson",
-12
-],
-[
-"Earl Jones",
-12
-],
-[
-"Arnie Ferrin",
-12
-],
-[
-"Quintin Dailey",
-12
-],
-[
-"Eric Piatkowski",
-12
-],
-[
-"Tim Frazier",
-12
-],
-[
-"Solomon Jones",
-12
-],
-[
-"Michael Cage",
+"Damien Wilkins",
 12
 ],
 [
@@ -6800,39 +6440,27 @@
 12
 ],
 [
-"Hugo González",
+"Derrick Byars",
 12
 ],
 [
-"Derrick Caracter",
+"Ricky Ledo",
 12
 ],
 [
-"Curtis Rowe",
+"LaPhonso Ellis",
 12
 ],
 [
-"Ed Sadowski",
+"Bill Hanzlik",
 12
 ],
 [
-"Doron Lamb",
+"Frank Brickowski",
 12
 ],
 [
-"Johnny Bach",
-12
-],
-[
-"Mark Bradtke",
-12
-],
-[
-"Brandon Hunter",
-12
-],
-[
-"Johnny Dawkins",
+"J. J. Anderson",
 12
 ],
 [
@@ -6848,35 +6476,11 @@
 12
 ],
 [
-"Jordan Bone",
+"Ed Sadowski",
 12
 ],
 [
-"Khyri Thomas",
-12
-],
-[
-"Gene Guarilia",
-12
-],
-[
-"Gerard King",
-12
-],
-[
-"Al Bianchi",
-12
-],
-[
-"Obinna Ekezie",
-12
-],
-[
-"Neal Walk",
-12
-],
-[
-"Luther Burden",
+"Howie Dallmar",
 12
 ],
 [
@@ -6884,55 +6488,55 @@
 12
 ],
 [
-"Vonteego Cummings",
+"Ron Behagen",
 12
 ],
 [
-"Forest Able",
+"Ron Lee",
 12
 ],
 [
-"David Vanterpool",
+"Courtney Alexander",
 12
 ],
 [
-"Travis Wear",
+"Steve Stipanovich",
 12
 ],
 [
-"Anthony Bonner",
+"Lionel Simmons",
 12
 ],
 [
-"Marcus Landry",
+"Clark Kellogg",
 12
 ],
 [
-"Mychal Mulder",
+"Jim Price",
 12
 ],
 [
-"Dick Groat",
+"Fred Hetzel",
 12
 ],
 [
-"Demetrius Jackson",
+"Blue Edwards",
 12
 ],
 [
-"Casey Jacobsen",
+"Michael Cage",
 12
 ],
 [
-"Rusty LaRue",
+"Mack Calvin",
 12
 ],
 [
-"Pape Sow",
+"Scott Machado",
 12
 ],
 [
-"Melvin Ely",
+"Len Chappell",
 12
 ],
 [
@@ -6940,7 +6544,31 @@
 12
 ],
 [
-"Vitor Faverani",
+"Dick Groat",
+12
+],
+[
+"Donnie Freeman",
+12
+],
+[
+"Louie Dampier",
+12
+],
+[
+"Willie Wise",
+12
+],
+[
+"Warren Jabali",
+12
+],
+[
+"Curtis Rowe",
+12
+],
+[
+"Shavlik Randolph",
 12
 ],
 [
@@ -6952,131 +6580,19 @@
 12
 ],
 [
-"Julian Wright",
-12
-],
-[
 "Russ Smith",
 12
 ],
 [
-"Lester Hudson",
+"Johnny Bach",
 12
 ],
 [
-"Howie Shannon",
+"Ricky Berry",
 12
 ],
 [
-"Lawrence Roberts",
-12
-],
-[
-"Boniface N'Dong",
-12
-],
-[
-"Damyean Dotson",
-12
-],
-[
-"Isaiah Hicks",
-12
-],
-[
-"Davon Reed",
-12
-],
-[
-"Bernard James",
-12
-],
-[
-"Lou Tsioropoulos",
-12
-],
-[
-"Ira Newble",
-12
-],
-[
-"Allonzo Trier",
-12
-],
-[
-"Dajuan Wagner",
-12
-],
-[
-"Alize Johnson",
-12
-],
-[
-"Jawad Williams",
-12
-],
-[
-"Sleepy Floyd",
-12
-],
-[
-"Courtney Alexander",
-12
-],
-[
-"Miles Simon",
-12
-],
-[
-"Scott Machado",
-12
-],
-[
-"Howie Dallmar",
-12
-],
-[
-"Diante Garrett",
-12
-],
-[
-"Jason Collier",
-12
-],
-[
-"Lamar Patterson",
-12
-],
-[
-"Johnny Logan",
-12
-],
-[
-"Kay Felder",
-12
-],
-[
-"Sharrod Ford",
-12
-],
-[
-"Torraye Braggs",
-12
-],
-[
-"Craig Ehlo",
-12
-],
-[
-"Michael Dickerson",
-12
-],
-[
-"Kobi Simmons",
-12
-],
-[
-"Mike Mitchell",
+"Arnie Ferrin",
 12
 ],
 [
@@ -7084,35 +6600,83 @@
 12
 ],
 [
-"D. J. Kennedy",
+"Mark Bradtke",
 12
 ],
 [
-"Bill Hanzlik",
+"Earl Jones",
 12
 ],
 [
-"Kelly McCarty",
+"Torraye Braggs",
 12
 ],
 [
-"Willie Wise",
+"Lamar Patterson",
 12
 ],
 [
-"Greg Ballard",
+"Jason Collier",
 12
 ],
 [
-"Joey Graham",
+"Eric Moreland",
 12
 ],
 [
-"Derrick Byars",
+"Gary Alexander",
 12
 ],
 [
-"Louie Dampier",
+"Taurean Green",
+12
+],
+[
+"Kyle Weaver",
+12
+],
+[
+"Tim Frazier",
+12
+],
+[
+"Micheal Williams",
+12
+],
+[
+"Brandon Hunter",
+12
+],
+[
+"Demetrius Jackson",
+12
+],
+[
+"Thomas Welsh",
+12
+],
+[
+"Doron Lamb",
+12
+],
+[
+"Alaa Abdelnaby",
+12
+],
+[
+"Todd MacCulloch",
+12
+],
+[
+"Travis Best",
+12
+],
+[
+"Kay Felder",
+12
+],
+[
+"Johnny Logan",
 12
 ],
 [
@@ -7120,11 +6684,287 @@
 12
 ],
 [
+"Chris Morris",
+12
+],
+[
+"T. R. Dunn",
+12
+],
+[
+"Flynn Robinson",
+12
+],
+[
+"Demetris Nichols",
+12
+],
+[
+"Kevin Joyce",
+12
+],
+[
+"Dennis Hopson",
+12
+],
+[
+"Jimmy Walker",
+12
+],
+[
+"Gene Guarilia",
+12
+],
+[
+"Howie Shannon",
+12
+],
+[
+"Johnny Dawkins",
+12
+],
+[
+"Tom Boswell",
+12
+],
+[
+"Greg Ballard",
+12
+],
+[
+"Anthony Bonner",
+12
+],
+[
+"Herb Williams",
+12
+],
+[
+"Bob Weiss",
+12
+],
+[
+"Keith Erickson",
+12
+],
+[
+"Brad Davis",
+12
+],
+[
+"Chris Dudley",
+12
+],
+[
 "Daniel Ewing",
 12
 ],
 [
-"Keith Appling",
+"Henry Bibby",
+12
+],
+[
+"Marcus Landry",
+12
+],
+[
+"Jarvis Hayes",
+12
+],
+[
+"Chris Johnson",
+12
+],
+[
+"Pape Sow",
+12
+],
+[
+"Jarron Collins",
+12
+],
+[
+"Craig Ehlo",
+12
+],
+[
+"Eric Piatkowski",
+12
+],
+[
+"Wayne Simien",
+12
+],
+[
+"Lawrence Roberts",
+12
+],
+[
+"Quintin Dailey",
+12
+],
+[
+"Craig Smith",
+12
+],
+[
+"Jon McGlocklin",
+12
+],
+[
+"Julian Wright",
+12
+],
+[
+"Luke Jackson",
+12
+],
+[
+"Mark Madsen",
+12
+],
+[
+"Mike Wilks",
+12
+],
+[
+"Ed O'Bannon",
+12
+],
+[
+"A. J. Price",
+12
+],
+[
+"Ben Uzoh",
+12
+],
+[
+"Derrick Caracter",
+12
+],
+[
+"Ndudi Ebi",
+12
+],
+[
+"Kris Joseph",
+12
+],
+[
+"Lester Hudson",
+12
+],
+[
+"Joey Graham",
+12
+],
+[
+"Mike Mitchell",
+12
+],
+[
+"Stephen Graham",
+12
+],
+[
+"Quincy Lewis",
+12
+],
+[
+"Ira Newble",
+12
+],
+[
+"Vonteego Cummings",
+12
+],
+[
+"Lou Tsioropoulos",
+12
+],
+[
+"Mark Landsberger",
+12
+],
+[
+"Allonzo Trier",
+12
+],
+[
+"Forest Able",
+12
+],
+[
+"Malcolm Thomas",
+12
+],
+[
+"Ken Sears",
+12
+],
+[
+"Diante Garrett",
+12
+],
+[
+"Justin Patton",
+12
+],
+[
+"Isaiah Hicks",
+12
+],
+[
+"Alize Johnson",
+12
+],
+[
+"Kobi Simmons",
+12
+],
+[
+"Solomon Jones",
+12
+],
+[
+"Davon Reed",
+12
+],
+[
+"Damyean Dotson",
+12
+],
+[
+"Sharrod Ford",
+12
+],
+[
+"Al Bianchi",
+12
+],
+[
+"Michael Dickerson",
+12
+],
+[
+"Grant Long",
+12
+],
+[
+"Neal Walk",
+12
+],
+[
+"Randy Breuer",
+12
+],
+[
+"Luther Burden",
+12
+],
+[
+"Mychal Mulder",
 12
 ],
 [
@@ -7132,7 +6972,143 @@
 12
 ],
 [
-"DaRon Holmes II",
+"Khyri Thomas",
+12
+],
+[
+"Miles Simon",
+12
+],
+[
+"Bernard James",
+12
+],
+[
+"Melvin Ely",
+12
+],
+[
+"Gerard King",
+12
+],
+[
+"Jawad Williams",
+12
+],
+[
+"Maurice Taylor",
+12
+],
+[
+"Jordan Bone",
+12
+],
+[
+"Jalen McDaniels",
+12
+],
+[
+"Keith Appling",
+12
+],
+[
+"Dennis Awtrey",
+12
+],
+[
+"Isaiah Roby",
+12
+],
+[
+"Boniface N'Dong",
+12
+],
+[
+"Benoit Benjamin",
+12
+],
+[
+"Milton Wagner",
+12
+],
+[
+"Obinna Ekezie",
+12
+],
+[
+"Dajuan Wagner",
+12
+],
+[
+"Kevin Loughery",
+12
+],
+[
+"David Vanterpool",
+12
+],
+[
+"Kyle Alexander",
+12
+],
+[
+"William Avery",
+12
+],
+[
+"Vitor Faverani",
+12
+],
+[
+"Wes Matthews",
+12
+],
+[
+"Austin Croshere",
+12
+],
+[
+"Travis Wear",
+12
+],
+[
+"Dwight Buycks",
+12
+],
+[
+"Rusty LaRue",
+12
+],
+[
+"Bob Davies",
+12
+],
+[
+"Sleepy Floyd",
+12
+],
+[
+"Ronald Dupree",
+12
+],
+[
+"Bird Averitt",
+12
+],
+[
+"Don MacLean",
+12
+],
+[
+"Jamison Brewer",
+12
+],
+[
+"Rudy LaRusso",
+12
+],
+[
+"Bryon Russell",
 12
 ]
 ]

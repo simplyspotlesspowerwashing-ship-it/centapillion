@@ -76,11 +76,11 @@
 25
 ],
 [
-"Mr. Potato Head",
+"pogo stick",
 24
 ],
 [
-"pogo stick",
+"Mr. Potato Head",
 24
 ],
 [
@@ -120,15 +120,15 @@
 19
 ],
 [
+"water balloon",
+18
+],
+[
 "Pet Rock",
 18
 ],
 [
 "toy soldier",
-18
-],
-[
-"water balloon",
 18
 ],
 [
@@ -144,14 +144,6 @@
 16
 ],
 [
-"cryptex",
-16
-],
-[
-"toy block",
-16
-],
-[
 "bouncy ball",
 16
 ],
@@ -160,15 +152,23 @@
 16
 ],
 [
+"toy block",
+16
+],
+[
+"cryptex",
+16
+],
+[
 "cup-and-ball",
 15
 ],
 [
-"She-Ra",
+"bamboo-copter",
 14
 ],
 [
-"bamboo-copter",
+"She-Ra",
 14
 ],
 [
@@ -200,11 +200,11 @@
 13
 ],
 [
-"Rainbow Loom",
+"toy camera",
 12
 ],
 [
-"Fidget Cube",
+"Rainbow Loom",
 12
 ],
 [
@@ -212,19 +212,7 @@
 12
 ],
 [
-"Gilbert U-238 Atomic Energy Laboratory",
-12
-],
-[
 "Begleri",
-12
-],
-[
-"die-cast toy",
-12
-],
-[
-"toy camera",
 12
 ],
 [
@@ -232,12 +220,16 @@
 12
 ],
 [
-"squishy",
-11
+"Fidget Cube",
+12
 ],
 [
-"Pleo",
-11
+"Gilbert U-238 Atomic Energy Laboratory",
+12
+],
+[
+"die-cast toy",
+12
 ],
 [
 "Lincoln Logs",
@@ -256,19 +248,27 @@
 11
 ],
 [
-"My Scene",
-10
+"squishy",
+11
 ],
 [
-"marble run",
-10
+"Pleo",
+11
 ],
 [
 "Paper Theatre",
 10
 ],
 [
+"My Scene",
+10
+],
+[
 "Tazos",
+10
+],
+[
+"marble run",
 10
 ]
 ]

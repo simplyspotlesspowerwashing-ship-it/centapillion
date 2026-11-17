@@ -84,7 +84,7 @@
     { id: "sport", q: "Name a sport", t: {
       p: "Soccer=football|Basketball|Baseball|Tennis|Golf|American Football|Hockey",
       c: "Quidditch|Curling",
-      s: "Volleyball|Rugby|Cricket|Boxing|Wrestling|Swimming|Bowling|Lacrosse|Badminton|Table Tennis=ping pong|Skiing|Snowboarding|Surfing|Skateboarding|Cycling|Track=running|Gymnastics|Softball|Field Hockey|Ice Skating|Fencing|Archery|MMA|Karate|Judo|Pickleball|Water Polo",
+      s: "Volleyball|Rugby|Cricket|Boxing|Wrestling|Swimming|Bowling|Lacrosse|Badminton|Table Tennis=ping pong|Skiing|Snowboarding|Surfing|Skateboarding|Cycling|Track=running|Gymnastics|Softball|Field Hockey|Ice Skating|Fencing|Archery|MMA|Karate|Judo|Pickleball|Water Polo|Marathon|Diving",
       r: "Squash|Racquetball|Handball|Polo|Rowing|Canoeing|Kayaking|Sailing|Triathlon|Darts|Snooker|Pool=billiards|Bobsled|Luge|Skeleton|Biathlon|Netball|Ultimate Frisbee|Disc Golf|Dodgeball|Kickball|Rock Climbing|Parkour|Hurling|Gaelic Football|Australian Rules Football=aussie rules|Jai Alai|Sumo|Kabaddi|Sepak Takraw|Bandy|Floorball|Korfball",
       d: "Shinty|Pesapallo|Hornussen|Underwater Hockey|Underwater Rugby|Chess Boxing|Cheese Rolling|Toe Wrestling|Bog Snorkelling|Wife Carrying|Extreme Ironing|Zorbing|Buzkashi|Calcio Storico|Pato|Fistball|Tchoukball|Cycleball|Bo-Taoshi|Kin-Ball|Footvolley|Joggling|Sipa",
       k: "Bossaball::Volleyball on an inflatable trampoline court, with samba music." } },

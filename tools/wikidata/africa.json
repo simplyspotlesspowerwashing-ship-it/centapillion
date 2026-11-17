@@ -24,15 +24,15 @@
 338
 ],
 [
-"Democratic Republic of the Congo",
-335
-],
-[
 "Morocco",
 335
 ],
 [
 "Sudan",
+335
+],
+[
+"Democratic Republic of the Congo",
 335
 ],
 [
@@ -44,11 +44,11 @@
 329
 ],
 [
-"Ghana",
+"Somalia",
 326
 ],
 [
-"Somalia",
+"Ghana",
 326
 ],
 [
@@ -56,11 +56,11 @@
 323
 ],
 [
-"Tanzania",
+"Madagascar",
 321
 ],
 [
-"Madagascar",
+"Tanzania",
 321
 ],
 [
@@ -80,20 +80,24 @@
 315
 ],
 [
+"Ivory Coast",
+314
+],
+[
 "Cameroon",
 314
 ],
 [
-"Ivory Coast",
-314
+"Uganda",
+312
 ],
 [
 "Mali",
 312
 ],
 [
-"Uganda",
-312
+"Senegal",
+309
 ],
 [
 "Zambia",
@@ -105,10 +109,6 @@
 ],
 [
 "Eritrea",
-309
-],
-[
-"Senegal",
 309
 ],
 [
@@ -124,12 +124,16 @@
 304
 ],
 [
+"Mozambique",
+303
+],
+[
 "Rwanda",
 303
 ],
 [
-"Mozambique",
-303
+"Niger",
+302
 ],
 [
 "Central African Republic",
@@ -137,10 +141,6 @@
 ],
 [
 "Togo",
-302
-],
-[
-"Niger",
 302
 ],
 [
@@ -152,15 +152,15 @@
 301
 ],
 [
+"Guinea-Bissau",
+300
+],
+[
 "Republic of the Congo",
 300
 ],
 [
 "Djibouti",
-300
-],
-[
-"Guinea-Bissau",
 300
 ],
 [
@@ -176,11 +176,11 @@
 294
 ],
 [
-"Liberia",
+"Cape Verde",
 292
 ],
 [
-"Cape Verde",
+"Liberia",
 292
 ],
 [
@@ -188,11 +188,11 @@
 287
 ],
 [
-"Equatorial Guinea",
+"Mauritius",
 285
 ],
 [
-"Mauritius",
+"Equatorial Guinea",
 285
 ],
 [

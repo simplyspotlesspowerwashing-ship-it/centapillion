@@ -16,6 +16,14 @@
 99
 ],
 [
+"Bonobo",
+99
+],
+[
+"Chimpanzee",
+99
+],
+[
 "Common Chimpanzee",
 99
 ],
@@ -25,14 +33,6 @@
 ],
 [
 "Savanna Chimpanzee",
-99
-],
-[
-"Bonobo",
-99
-],
-[
-"Chimpanzee",
 99
 ],
 [
@@ -56,10 +56,6 @@
 77
 ],
 [
-"Aye-aye",
-72
-],
-[
 "Ring-tailed lemur",
 72
 ],
@@ -68,23 +64,15 @@
 72
 ],
 [
+"Aye-aye",
+72
+],
+[
 "heidelberg man",
 70
 ],
 [
 "Mandrill",
-67
-],
-[
-"Barbary Ape",
-67
-],
-[
-"Barbary macaque",
-67
-],
-[
-"Barbary Macaque",
 67
 ],
 [
@@ -97,6 +85,18 @@
 ],
 [
 "Proboscis Monkey",
+67
+],
+[
+"Barbary Ape",
+67
+],
+[
+"Barbary macaque",
+67
+],
+[
+"Barbary Macaque",
 67
 ],
 [
@@ -156,15 +156,15 @@
 59
 ],
 [
-"Indri",
-58
-],
-[
 "Gelada",
 58
 ],
 [
 "Gelada Baboon",
+58
+],
+[
+"Indri",
 58
 ],
 [
@@ -180,19 +180,11 @@
 53
 ],
 [
-"hominine",
-53
-],
-[
 "Drill",
 53
 ],
 [
-"Yellow baboon",
-53
-],
-[
-"Yellow Baboon",
+"hominine",
 53
 ],
 [
@@ -201,6 +193,14 @@
 ],
 [
 "Sumatran Orangutan",
+53
+],
+[
+"Yellow baboon",
+53
+],
+[
+"Yellow Baboon",
 53
 ],
 [
@@ -240,10 +240,6 @@
 50
 ],
 [
-"Celebes Macaque",
-49
-],
-[
 "Gorontalo Macaque",
 49
 ],
@@ -257,6 +253,10 @@
 ],
 [
 "Celebes Crested Macaque",
+49
+],
+[
+"Celebes Macaque",
 49
 ],
 [
@@ -280,6 +280,14 @@
 48
 ],
 [
+"Eastern gorilla",
+48
+],
+[
+"Eastern Gorilla",
+48
+],
+[
 "Common Patas Monkey",
 48
 ],
@@ -289,14 +297,6 @@
 ],
 [
 "Patas monkey",
-48
-],
-[
-"Eastern gorilla",
-48
-],
-[
-"Eastern Gorilla",
 48
 ],
 [
@@ -328,6 +328,22 @@
 47
 ],
 [
+"Cotton-headed tamarin",
+44
+],
+[
+"Cotton-headed Tamarin",
+44
+],
+[
+"Cotton-top Tamarin",
+44
+],
+[
+"Cottontop Tamarin",
+44
+],
+[
 "Black-handed spider monkey",
 44
 ],
@@ -352,35 +368,7 @@
 44
 ],
 [
-"Cotton-headed tamarin",
-44
-],
-[
-"Cotton-headed Tamarin",
-44
-],
-[
-"Cotton-top Tamarin",
-44
-],
-[
-"Cottontop Tamarin",
-44
-],
-[
 "Philippine tarsier",
-44
-],
-[
-"Black-and-white ruffed lemur",
-44
-],
-[
-"Ruffed Lemur",
-44
-],
-[
-"Black-and-white Ruffed Lemur",
 44
 ],
 [
@@ -396,28 +384,16 @@
 44
 ],
 [
-"Cu Lan",
-43
+"Black-and-white ruffed lemur",
+44
 ],
 [
-"Greater slow loris",
-43
+"Black-and-white Ruffed Lemur",
+44
 ],
 [
-"Greater Slow Loris",
-43
-],
-[
-"Slow Loris",
-43
-],
-[
-"Sunda Slow Loris",
-43
-],
-[
-"Lesula",
-43
+"Ruffed Lemur",
+44
 ],
 [
 "Bear Macaque",
@@ -440,6 +416,10 @@
 43
 ],
 [
+"Lesula",
+43
+],
+[
 "Pig-tailed Macaque",
 43
 ],
@@ -452,6 +432,10 @@
 43
 ],
 [
+"Sundaland Pigtail Macaque",
+43
+],
+[
 "Sunda pig-tailed macaque",
 43
 ],
@@ -460,7 +444,23 @@
 43
 ],
 [
-"Sundaland Pigtail Macaque",
+"Cu Lan",
+43
+],
+[
+"Greater slow loris",
+43
+],
+[
+"Greater Slow Loris",
+43
+],
+[
+"Slow Loris",
+43
+],
+[
+"Sunda Slow Loris",
 43
 ],
 [
@@ -473,6 +473,34 @@
 ],
 [
 "Emperor Tamarin",
+42
+],
+[
+"Cumshot man",
+42
+],
+[
+"Golden Monkey",
+42
+],
+[
+"Chacma baboon",
+42
+],
+[
+"Chacma Baboon",
+42
+],
+[
+"Assamese Macaque",
+42
+],
+[
+"Assam macaque",
+42
+],
+[
+"Assam Macaque",
 42
 ],
 [
@@ -492,7 +520,11 @@
 42
 ],
 [
-"Golden Monkey",
+"Guinea baboon",
+42
+],
+[
+"Guinea Baboon",
 42
 ],
 [
@@ -524,36 +556,8 @@
 42
 ],
 [
-"Chacma baboon",
-42
-],
-[
-"Chacma Baboon",
-42
-],
-[
-"Assam macaque",
-42
-],
-[
-"Guinea baboon",
-42
-],
-[
-"Guinea Baboon",
-42
-],
-[
-"Assam Macaque",
-42
-],
-[
-"Assamese Macaque",
-42
-],
-[
-"Rhodesian man",
-42
+"Common Squirrel Monkey",
+41
 ],
 [
 "South American squirrel monkey",
@@ -564,67 +568,59 @@
 41
 ],
 [
-"Common Squirrel Monkey",
-41
-],
-[
-"Diadem Sifaka",
+"Sooty Mangabey",
 40
 ],
 [
-"Diademed sifaka",
+"Black-capped Capuchin",
 40
 ],
 [
-"Diademed Sifaka",
+"Guianan Brown Capuchin",
 40
 ],
 [
-"Colombian Red Howler Monkey",
+"Margarita Island Capuchin",
 40
 ],
 [
-"Venezuelan Red Howler",
+"Tufted Capuchin",
 40
 ],
 [
-"Black spider monkey",
+"Gee's Golden Langur",
 40
 ],
 [
-"Black Spider Monkey",
+"Gee’s Golden Langur",
 40
 ],
 [
-"Guiana Spider Monkey",
+"Golden langur",
 40
 ],
 [
-"Red-faced Black Spider Monkey",
+"Golden Leaf Monkey",
 40
 ],
 [
-"Red-faced Spider Monkey",
+"Collared Mangabey",
 40
 ],
 [
-"Colombian red howler monkey",
+"Red-capped mangabey",
 40
 ],
 [
-"Black lemur",
+"Red-capped Mangabey",
 40
 ],
 [
-"Black Lemur",
+"Red-crowned Mangabey",
 40
 ],
 [
-"Bald Uacari",
-40
-],
-[
-"Bald Uakari",
+"White-collared Mangabey",
 40
 ],
 [
@@ -640,7 +636,11 @@
 40
 ],
 [
-"Red Uakari",
+"Bald Uacari",
+40
+],
+[
+"Bald Uakari",
 40
 ],
 [
@@ -648,7 +648,31 @@
 40
 ],
 [
+"Red Uakari",
+40
+],
+[
 "White Uakari",
+40
+],
+[
+"Black lemur",
+40
+],
+[
+"Black Lemur",
+40
+],
+[
+"Colombian red howler monkey",
+40
+],
+[
+"Colombian Red Howler Monkey",
+40
+],
+[
+"Venezuelan Red Howler",
 40
 ],
 [
@@ -676,27 +700,7 @@
 40
 ],
 [
-"Collared Mangabey",
-40
-],
-[
-"Red-capped mangabey",
-40
-],
-[
-"Red-capped Mangabey",
-40
-],
-[
-"Red-crowned Mangabey",
-40
-],
-[
-"White-collared Mangabey",
-40
-],
-[
-"Sooty Mangabey",
+"Toque macaque",
 40
 ],
 [
@@ -704,43 +708,71 @@
 40
 ],
 [
-"Toque macaque",
+"Diademed sifaka",
 40
 ],
 [
-"Black-capped Capuchin",
+"Diademed Sifaka",
 40
 ],
 [
-"Margarita Island Capuchin",
+"Diadem Sifaka",
 40
 ],
 [
-"Tufted Capuchin",
+"Black spider monkey",
 40
 ],
 [
-"Guianan Brown Capuchin",
+"Black Spider Monkey",
 40
 ],
 [
-"Gee's Golden Langur",
+"Guiana Spider Monkey",
 40
 ],
 [
-"Gee’s Golden Langur",
+"Red-faced Black Spider Monkey",
 40
 ],
 [
-"Golden langur",
+"Red-faced Spider Monkey",
 40
 ],
 [
-"Golden Leaf Monkey",
-40
+"Callimico",
+39
+],
+[
+"Goeldi's Marmoset",
+39
+],
+[
+"Goeldi’s Marmoset",
+39
+],
+[
+"Goeldi’s monkey",
+39
+],
+[
+"Goeldi’s Monkey",
+39
+],
+[
+"Goeldi's Tamarin",
+39
+],
+[
+"Goeldi’s Tamarin",
+39
 ],
 [
 "Red ruffed lemur",
+39
+],
+[
+"Red-ruffed Lemur",
 39
 ],
 [
@@ -748,7 +780,27 @@
 39
 ],
 [
-"Red-ruffed Lemur",
+"Blue monkey",
+39
+],
+[
+"Blue Monkey",
+39
+],
+[
+"Diademed Monkey",
+39
+],
+[
+"Samango",
+39
+],
+[
+"Sykes' Monkey",
+39
+],
+[
+"Sykes’s Monkey",
 39
 ],
 [
@@ -761,6 +813,18 @@
 ],
 [
 "Diana Monkey",
+39
+],
+[
+"Common marmoset",
+39
+],
+[
+"Common Marmoset",
+39
+],
+[
+"White-tufted-ear Marmoset",
 39
 ],
 [
@@ -796,79 +860,47 @@
 39
 ],
 [
-"Samango",
-39
-],
-[
-"Blue Monkey",
-39
-],
-[
-"Blue monkey",
-39
-],
-[
-"Diademed Monkey",
-39
-],
-[
-"Sykes' Monkey",
-39
-],
-[
-"Sykes’s Monkey",
-39
-],
-[
-"Common marmoset",
-39
-],
-[
-"Common Marmoset",
-39
-],
-[
-"White-tufted-ear Marmoset",
-39
-],
-[
-"Goeldi's Marmoset",
-39
-],
-[
-"Goeldi's Tamarin",
-39
-],
-[
-"Goeldi’s Marmoset",
-39
-],
-[
-"Goeldi’s monkey",
-39
-],
-[
-"Goeldi’s Monkey",
-39
-],
-[
-"Goeldi’s Tamarin",
-39
-],
-[
-"Callimico",
-39
-],
-[
-"Verreaux's sifaka",
+"Uakari",
 38
 ],
 [
-"Verreaux's Sifaka",
+"Muriqui",
 38
 ],
 [
-"Verreaux’s Sifaka",
+"Southern muriqui",
+38
+],
+[
+"Southern Muriqui",
+38
+],
+[
+"Southern Woolly Spider Monkey",
+38
+],
+[
+"Woolly Spider Monkey",
+38
+],
+[
+"Garnett's Greater Galago",
+38
+],
+[
+"Allen's swamp monkey",
+38
+],
+[
+"Allen's Swamp Monkey",
+38
+],
+[
+"Allen’s Swamp Monkey",
+38
+],
+[
+"Blackish-green Guenon",
 38
 ],
 [
@@ -876,11 +908,63 @@
 38
 ],
 [
-"Senegal Lesser Galago",
+"Red Slender Loris",
 38
 ],
 [
-"Uakari",
+"Slender Loris",
+38
+],
+[
+"Formosan rock macaque",
+38
+],
+[
+"Formosan Rock Macaque",
+38
+],
+[
+"Taiwanese Macaque",
+38
+],
+[
+"Taiwan Macaque",
+38
+],
+[
+"Brown Greater Galago",
+38
+],
+[
+"Greater Bushbaby",
+38
+],
+[
+"Greater Bush Baby",
+38
+],
+[
+"Greater Galago",
+38
+],
+[
+"Large-eared Greater Galago",
+38
+],
+[
+"Thick-tailed Bushbaby",
+38
+],
+[
+"Thick-tailed Bush Baby",
+38
+],
+[
+"Thick-tailed greater galago",
+38
+],
+[
+"Thick-tailed Greater Galago",
 38
 ],
 [
@@ -908,15 +992,7 @@
 38
 ],
 [
-"Red Slender Loris",
-38
-],
-[
-"Slender Loris",
-38
-],
-[
-"Golden Bamboo Lemur",
+"Senegal Lesser Galago",
 38
 ],
 [
@@ -924,67 +1000,35 @@
 38
 ],
 [
+"Golden Bamboo Lemur",
+38
+],
+[
 "Golden Lemur",
 38
 ],
 [
-"Muriqui",
+"western lowland gorilla",
 38
 ],
 [
-"Southern muriqui",
+"Western lowland gorilla",
 38
 ],
 [
-"Southern Muriqui",
+"Western Lowland Gorilla",
 38
 ],
 [
-"Southern Woolly Spider Monkey",
+"Verreaux's sifaka",
 38
 ],
 [
-"Woolly Spider Monkey",
+"Verreaux's Sifaka",
 38
 ],
 [
-"Brown Greater Galago",
-38
-],
-[
-"Greater Bush Baby",
-38
-],
-[
-"Greater Bushbaby",
-38
-],
-[
-"Greater Galago",
-38
-],
-[
-"Large-eared Greater Galago",
-38
-],
-[
-"Thick-tailed Bush Baby",
-38
-],
-[
-"Thick-tailed Bushbaby",
-38
-],
-[
-"Thick-tailed greater galago",
-38
-],
-[
-"Thick-tailed Greater Galago",
-38
-],
-[
-"Garnett's Greater Galago",
+"Verreaux’s Sifaka",
 38
 ],
 [
@@ -998,70 +1042,6 @@
 [
 "Greater Bamboo Lemur",
 38
-],
-[
-"Allen's Swamp Monkey",
-38
-],
-[
-"Allen's swamp monkey",
-38
-],
-[
-"Allen’s Swamp Monkey",
-38
-],
-[
-"Blackish-green Guenon",
-38
-],
-[
-"Formosan rock macaque",
-38
-],
-[
-"Formosan Rock Macaque",
-38
-],
-[
-"Taiwan Macaque",
-38
-],
-[
-"Taiwanese Macaque",
-38
-],
-[
-"Western lowland gorilla",
-38
-],
-[
-"western lowland gorilla",
-38
-],
-[
-"Western Lowland Gorilla",
-38
-],
-[
-"Black Howling Monkey",
-37
-],
-[
-"Black Howler Monkey",
-37
-],
-[
-"Black howler monkey",
-37
-],
-[
-"Black Howler",
-37
-],
-[
-"Black-and-gold Howler Monkey",
-37
 ],
 [
 "Mohol bushbaby",
@@ -1092,30 +1072,6 @@
 37
 ],
 [
-"Northern Pig-tailed Macaque",
-37
-],
-[
-"Northern pigtail macaque",
-37
-],
-[
-"Northern Pigtail Macaque",
-37
-],
-[
-"Pagai Island Macaque",
-37
-],
-[
-"Pagai Macaque",
-37
-],
-[
-"Mentawai macaque",
-37
-],
-[
 "De Brazza's Guenon",
 37
 ],
@@ -1129,6 +1085,46 @@
 ],
 [
 "De Brazza’s Monkey",
+37
+],
+[
+"Capped Gibbon",
+37
+],
+[
+"Crowned Gibbon",
+37
+],
+[
+"Pileated gibbon",
+37
+],
+[
+"Pileated Gibbon",
+37
+],
+[
+"Black Howler Monkey",
+37
+],
+[
+"Bonnet macaque",
+37
+],
+[
+"Bonnet Macaque",
+37
+],
+[
+"Mentawai macaque",
+37
+],
+[
+"Pagai Island Macaque",
+37
+],
+[
+"Pagai Macaque",
 37
 ],
 [
@@ -1160,11 +1156,11 @@
 37
 ],
 [
-"Müller's Gibbon",
+"Müller’s Bornean Gibbon",
 37
 ],
 [
-"Müller’s Bornean Gibbon",
+"Müller's Gibbon",
 37
 ],
 [
@@ -1172,67 +1168,47 @@
 37
 ],
 [
-"Capped Gibbon",
+"Black Howling Monkey",
 37
 ],
 [
-"Crowned Gibbon",
+"Black-and-gold Howler Monkey",
 37
 ],
 [
-"Pileated gibbon",
+"Black Howler",
 37
 ],
 [
-"Pileated Gibbon",
+"Black howler monkey",
 37
 ],
 [
-"Bonnet macaque",
+"Northern Pig-tailed Macaque",
 37
 ],
 [
-"Bonnet Macaque",
+"Northern pigtail macaque",
 37
 ],
 [
-"Brown-headed spider monkey",
+"Northern Pigtail Macaque",
+37
+],
+[
+"Woolly monkey",
 36
 ],
 [
-"Brown-headed Spider Monkey",
+"Mona Guenon",
 36
 ],
 [
-"Golden-handed tamarin",
+"Mona monkey",
 36
 ],
 [
-"Golden-handed Tamarin",
-36
-],
-[
-"Midas Tamarin",
-36
-],
-[
-"Red-handed Tamarin",
-36
-],
-[
-"Yellow-handed Tamarin",
-36
-],
-[
-"Brown Spider Monkey",
-36
-],
-[
-"Variegated spider monkey",
-36
-],
-[
-"Variegated Spider Monkey",
+"Mona Monkey",
 36
 ],
 [
@@ -1244,11 +1220,11 @@
 36
 ],
 [
-"Pied Bare-face Tamarin",
+"Pied Bare-faced Tamarin",
 36
 ],
 [
-"Pied Bare-faced Tamarin",
+"Pied Bare-face Tamarin",
 36
 ],
 [
@@ -1256,55 +1232,27 @@
 36
 ],
 [
-"Mongoose lemur",
+"Black-crested gibbon",
 36
 ],
 [
-"Mongoose Lemur",
+"Black Crested Gibbon",
 36
 ],
 [
-"Brown lemur",
+"Black Gibbon",
 36
 ],
 [
-"Brown Lemur",
+"Concolor Gibbon",
 36
 ],
 [
-"Common Brown Lemur",
+"Crested Gibbon",
 36
 ],
 [
-"Gold And Black Lion Tamarin",
-36
-],
-[
-"Golden-headed lion tamarin",
-36
-],
-[
-"Golden-headed Lion Tamarin",
-36
-],
-[
-"Golden-faced Saki",
-36
-],
-[
-"Guianan Saki",
-36
-],
-[
-"White-faced Saki",
-36
-],
-[
-"Golden-faced saki",
-36
-],
-[
-"Woolly monkey",
+"Indochinese Gibbon",
 36
 ],
 [
@@ -1340,6 +1288,78 @@
 36
 ],
 [
+"Mongoose lemur",
+36
+],
+[
+"Mongoose Lemur",
+36
+],
+[
+"Brown-headed spider monkey",
+36
+],
+[
+"Brown-headed Spider Monkey",
+36
+],
+[
+"Gold And Black Lion Tamarin",
+36
+],
+[
+"Golden-headed lion tamarin",
+36
+],
+[
+"Golden-headed Lion Tamarin",
+36
+],
+[
+"Golden-handed tamarin",
+36
+],
+[
+"Golden-handed Tamarin",
+36
+],
+[
+"Midas Tamarin",
+36
+],
+[
+"Red-handed Tamarin",
+36
+],
+[
+"Yellow-handed Tamarin",
+36
+],
+[
+"Brown Spider Monkey",
+36
+],
+[
+"Variegated spider monkey",
+36
+],
+[
+"Variegated Spider Monkey",
+36
+],
+[
+"Brown lemur",
+36
+],
+[
+"Brown Lemur",
+36
+],
+[
+"Common Brown Lemur",
+36
+],
+[
 "Bengal Hanuman Langur",
 36
 ],
@@ -1348,27 +1368,19 @@
 36
 ],
 [
-"Agile gibbon",
+"Golden-faced saki",
 36
 ],
 [
-"Agile Gibbon",
+"Golden-faced Saki",
 36
 ],
 [
-"Dark-handed Gibbon",
+"Guianan Saki",
 36
 ],
 [
-"Mona Guenon",
-36
-],
-[
-"Mona monkey",
-36
-],
-[
-"Mona Monkey",
+"White-faced Saki",
 36
 ],
 [
@@ -1384,28 +1396,88 @@
 36
 ],
 [
-"Black Crested Gibbon",
+"Agile gibbon",
 36
 ],
 [
-"Black Gibbon",
+"Agile Gibbon",
 36
 ],
 [
-"Black-crested gibbon",
+"Dark-handed Gibbon",
 36
 ],
 [
-"Concolor Gibbon",
-36
+"Lutungs or leaf monkeys",
+35
 ],
 [
-"Crested Gibbon",
-36
+"Silvery marmoset",
+35
 ],
 [
-"Indochinese Gibbon",
-36
+"Silvery Marmoset",
+35
+],
+[
+"Bamboo Lemur",
+35
+],
+[
+"Eastern lesser bamboo lemur",
+35
+],
+[
+"Eastern Lesser Bamboo Lemur",
+35
+],
+[
+"Gray Bamboo Lemur",
+35
+],
+[
+"Grey Gentle Lemur",
+35
+],
+[
+"Lesser Bamboo Lemur",
+35
+],
+[
+"Pig-tailed langur",
+35
+],
+[
+"Pig-tailed Langur",
+35
+],
+[
+"Pig-tailed Snub-nosed Langur",
+35
+],
+[
+"Pig-tailed Snub-nosed Monkey",
+35
+],
+[
+"Simakobou",
+35
+],
+[
+"Olive colobus",
+35
+],
+[
+"Olive Colobus",
+35
+],
+[
+"Van Beneden's Colobus",
+35
+],
+[
+"Van Beneden’s Colobus",
+35
 ],
 [
 "Ashy Slow Loris",
@@ -1464,55 +1536,11 @@
 35
 ],
 [
-"Long-haired Spider Monkey",
-35
-],
-[
-"White-bellied spider monkey",
-35
-],
-[
-"White-bellied Spider Monkey",
-35
-],
-[
-"White-fronted Spider Monkey",
-35
-],
-[
-"Eastern Lesser Bamboo Lemur",
-35
-],
-[
-"Grey Gentle Lemur",
-35
-],
-[
-"Bamboo Lemur",
-35
-],
-[
-"Eastern lesser bamboo lemur",
-35
-],
-[
-"Gray Bamboo Lemur",
-35
-],
-[
-"Lesser Bamboo Lemur",
-35
-],
-[
-"Gray Mouse Lemur",
-35
-],
-[
 "Gray Mouse-lemur",
 35
 ],
 [
-"Grey Mouse Lemur",
+"Gray Mouse Lemur",
 35
 ],
 [
@@ -1524,7 +1552,7 @@
 35
 ],
 [
-"Lesser Mouse Lemur",
+"Grey Mouse Lemur",
 35
 ],
 [
@@ -1532,15 +1560,15 @@
 35
 ],
 [
-"Lutungs or leaf monkeys",
+"Lesser Mouse Lemur",
 35
 ],
 [
-"Silvery marmoset",
+"Vervet",
 35
 ],
 [
-"Silvery Marmoset",
+"Vervet Monkey",
 35
 ],
 [
@@ -1572,47 +1600,19 @@
 35
 ],
 [
-"Olive colobus",
+"Long-haired Spider Monkey",
 35
 ],
 [
-"Olive Colobus",
+"White-bellied spider monkey",
 35
 ],
 [
-"Van Beneden's Colobus",
+"White-bellied Spider Monkey",
 35
 ],
 [
-"Van Beneden’s Colobus",
-35
-],
-[
-"Pig-tailed langur",
-35
-],
-[
-"Pig-tailed Langur",
-35
-],
-[
-"Pig-tailed Snub-nosed Langur",
-35
-],
-[
-"Pig-tailed Snub-nosed Monkey",
-35
-],
-[
-"Simakobou",
-35
-],
-[
-"Vervet",
-35
-],
-[
-"Vervet Monkey",
+"White-fronted Spider Monkey",
 35
 ],
 [
@@ -1620,15 +1620,11 @@
 34
 ],
 [
-"Fat-tailed Dwarf Lemur",
+"Marmoset",
 34
 ],
 [
-"Lesser Dwarf Lemur",
-34
-],
-[
-"Western fat-tailed dwarf lemur",
+"Northern White-cheeked Gibbon",
 34
 ],
 [
@@ -1637,70 +1633,6 @@
 ],
 [
 "Crowned Lemur",
-34
-],
-[
-"Marmoset",
-34
-],
-[
-"Dwarf Gibbon",
-34
-],
-[
-"Kloss's Gibbon",
-34
-],
-[
-"Kloss’s gibbon",
-34
-],
-[
-"Kloss’s Gibbon",
-34
-],
-[
-"Mentawai Gibbon",
-34
-],
-[
-"Angola colobus",
-34
-],
-[
-"Angola Colobus",
-34
-],
-[
-"Angola Pied Colobus",
-34
-],
-[
-"Angolan Black-and-white Colobus",
-34
-],
-[
-"Angolan Colobus",
-34
-],
-[
-"Northern white-cheeked gibbon",
-34
-],
-[
-"White-cheeked Gibbon",
-34
-],
-[
-"Kirk's Red Colobus",
-34
-],
-[
-"Zanzibar Red Colobus",
-34
-],
-[
-"Northern White-cheeked Gibbon",
 34
 ],
 [
@@ -1716,115 +1648,75 @@
 34
 ],
 [
-"Silky sifaka",
-33
+"Fat-tailed Dwarf Lemur",
+34
 ],
 [
-"Silky Sifaka",
-33
+"Lesser Dwarf Lemur",
+34
 ],
 [
-"Silky Simpona",
-33
+"Western fat-tailed dwarf lemur",
+34
 ],
 [
-"Eastern Avahi",
-33
+"Angola colobus",
+34
 ],
 [
-"Eastern woolly lemur",
-33
+"Angola Colobus",
+34
 ],
 [
-"Eastern Woolly Lemur",
-33
+"Angolan Black-and-white Colobus",
+34
 ],
 [
-"Gmelin's Woolly Lemur",
-33
+"Angolan Colobus",
+34
 ],
 [
-"Gmelin’s Woolly Lemur",
-33
+"Angola Pied Colobus",
+34
 ],
 [
-"Woolly Indris",
-33
+"Dwarf Gibbon",
+34
 ],
 [
-"spectral tarsier",
-33
+"Kloss’s gibbon",
+34
 ],
 [
-"Sulawesi tarsier",
-33
+"Kloss's Gibbon",
+34
 ],
 [
-"Red-bellied lemur",
-33
+"Kloss’s Gibbon",
+34
 ],
 [
-"Red-bellied Lemur",
-33
+"Mentawai Gibbon",
+34
 ],
 [
-"Audebert's Brown Lemur",
-33
+"Kirk's Red Colobus",
+34
 ],
 [
-"Audebert’s Brown Lemur",
-33
+"Zanzibar Red Colobus",
+34
 ],
 [
-"Red Brown Lemur",
-33
+"Northern white-cheeked gibbon",
+34
 ],
 [
-"Red-fronted brown lemur",
-33
+"White-cheeked Gibbon",
+34
 ],
 [
-"Red-fronted Lemur",
-33
-],
-[
-"Red-fronted Brown Lemur",
-33
-],
-[
-"Berthe's Mouse Lemur",
-33
-],
-[
-"Berthe’s Mouse Lemur",
-33
-],
-[
-"Madame Berthe's Mouse Lemur",
-33
-],
-[
-"Madame Berthe’s mouse lemur",
-33
-],
-[
-"Madame Berthe’s Mouse Lemur",
-33
-],
-[
-"Black lion tamarin",
-33
-],
-[
-"Black Lion Tamarin",
-33
-],
-[
-"Golden Rump Lion Tamarin",
-33
-],
-[
-"Golden-rumped Lion Tamarin",
+"Red Colobus",
 33
 ],
 [
@@ -1837,30 +1729,6 @@
 ],
 [
 "Superagui Lion Tamarin",
-33
-],
-[
-"Northern muriqui",
-33
-],
-[
-"Northern Muriqui",
-33
-],
-[
-"Northern Woolly Spider Monkey",
-33
-],
-[
-"Red Colobus",
-33
-],
-[
-"Hairy-eared dwarf lemur",
-33
-],
-[
-"Hairy-eared Dwarf Lemur",
 33
 ],
 [
@@ -1881,114 +1749,6 @@
 ],
 [
 "South Pacific Blackish Howling Monkey",
-33
-],
-[
-"Roloway Guenon",
-33
-],
-[
-"Roloway Monkey",
-33
-],
-[
-"Angolan Talapoin",
-33
-],
-[
-"Southern Talapoin Monkey",
-33
-],
-[
-"Talapoin",
-33
-],
-[
-"Tonkin snub-nosed monkey",
-33
-],
-[
-"Tonkin Snub-nosed Monkey",
-33
-],
-[
-"gray-cheeked mangabey",
-33
-],
-[
-"Gray-cheeked Mangabey",
-33
-],
-[
-"Grey-cheeked crested mangabey",
-33
-],
-[
-"Grey-cheeked Mangabey",
-33
-],
-[
-"White-cheeked Mangabey",
-33
-],
-[
-"Golden-bellied Mentawai Island Langur",
-33
-],
-[
-"Long-tailed Langur",
-33
-],
-[
-"Mentawai langur",
-33
-],
-[
-"Mentawai Langur",
-33
-],
-[
-"Mentawai Leaf Monkey",
-33
-],
-[
-"King Colobus",
-33
-],
-[
-"Ursine Black-and-white Colobus",
-33
-],
-[
-"Ursine Black-and-White Colobus",
-33
-],
-[
-"Western Black-and-white Colobus",
-33
-],
-[
-"Western Black-and-White Colobus",
-33
-],
-[
-"Western Pied Colobus",
-33
-],
-[
-"Hoolock Gibbon",
-33
-],
-[
-"Western Hoolock",
-33
-],
-[
-"Western hoolock gibbon",
-33
-],
-[
-"Western Hoolock Gibbon",
 33
 ],
 [
@@ -2036,7 +1796,11 @@
 33
 ],
 [
-"Arunachal Macaque",
+"Tonkin snub-nosed monkey",
+33
+],
+[
+"Tonkin Snub-nosed Monkey",
 33
 ],
 [
@@ -2048,7 +1812,7 @@
 33
 ],
 [
-"Capped Leaf Monkey",
+"Capped Langur",
 33
 ],
 [
@@ -2056,15 +1820,75 @@
 33
 ],
 [
+"Capped Leaf Monkey",
+33
+],
+[
 "Capped Monkey",
 33
 ],
 [
-"Francois's Langur",
+"Red-fronted Brown Lemur",
 33
 ],
 [
-"François's Leaf Monkey",
+"Black lion tamarin",
+33
+],
+[
+"Black Lion Tamarin",
+33
+],
+[
+"Golden-rumped Lion Tamarin",
+33
+],
+[
+"Golden Rump Lion Tamarin",
+33
+],
+[
+"Eastern Avahi",
+33
+],
+[
+"Eastern woolly lemur",
+33
+],
+[
+"Eastern Woolly Lemur",
+33
+],
+[
+"Gmelin's Woolly Lemur",
+33
+],
+[
+"Gmelin’s Woolly Lemur",
+33
+],
+[
+"Woolly Indris",
+33
+],
+[
+"Audebert's Brown Lemur",
+33
+],
+[
+"Audebert’s Brown Lemur",
+33
+],
+[
+"Red Brown Lemur",
+33
+],
+[
+"Red-fronted brown lemur",
+33
+],
+[
+"Red-fronted Lemur",
 33
 ],
 [
@@ -2072,7 +1896,15 @@
 33
 ],
 [
+"Francois's Langur",
+33
+],
+[
 "François’s Langur",
+33
+],
+[
+"François's Leaf Monkey",
 33
 ],
 [
@@ -2088,11 +1920,91 @@
 33
 ],
 [
-"Phayre's Langur",
+"Northern muriqui",
 33
 ],
 [
-"Phayre's Leaf Monkey",
+"Northern Muriqui",
+33
+],
+[
+"Northern Woolly Spider Monkey",
+33
+],
+[
+"Hoolock Gibbon",
+33
+],
+[
+"Western Hoolock",
+33
+],
+[
+"Western hoolock gibbon",
+33
+],
+[
+"Western Hoolock Gibbon",
+33
+],
+[
+"Golden-bellied Mentawai Island Langur",
+33
+],
+[
+"Long-tailed Langur",
+33
+],
+[
+"Mentawai langur",
+33
+],
+[
+"Mentawai Langur",
+33
+],
+[
+"Mentawai Leaf Monkey",
+33
+],
+[
+"Roloway Guenon",
+33
+],
+[
+"Roloway Monkey",
+33
+],
+[
+"gray-cheeked mangabey",
+33
+],
+[
+"Gray-cheeked Mangabey",
+33
+],
+[
+"Grey-cheeked crested mangabey",
+33
+],
+[
+"Grey-cheeked Mangabey",
+33
+],
+[
+"White-cheeked Mangabey",
+33
+],
+[
+"Angolan Talapoin",
+33
+],
+[
+"Southern Talapoin Monkey",
+33
+],
+[
+"Talapoin",
 33
 ],
 [
@@ -2100,7 +2012,7 @@
 33
 ],
 [
-"Phayre’s Leaf Monkey",
+"Phayre's Langur",
 33
 ],
 [
@@ -2108,27 +2020,119 @@
 33
 ],
 [
+"Phayre's Leaf Monkey",
+33
+],
+[
+"Phayre’s Leaf Monkey",
+33
+],
+[
 "Phayre’s Spectacled Leaf Monkey",
 33
 ],
 [
-"Capped Langur",
+"Arunachal Macaque",
 33
 ],
 [
-"Golden-crowned sifaka",
+"Silky sifaka",
+33
+],
+[
+"Silky Sifaka",
+33
+],
+[
+"Silky Simpona",
+33
+],
+[
+"Berthe's Mouse Lemur",
+33
+],
+[
+"Berthe’s Mouse Lemur",
+33
+],
+[
+"Madame Berthe’s mouse lemur",
+33
+],
+[
+"Madame Berthe's Mouse Lemur",
+33
+],
+[
+"Madame Berthe’s Mouse Lemur",
+33
+],
+[
+"Red-bellied lemur",
+33
+],
+[
+"Red-bellied Lemur",
+33
+],
+[
+"spectral tarsier",
+33
+],
+[
+"Sulawesi tarsier",
+33
+],
+[
+"Hairy-eared dwarf lemur",
+33
+],
+[
+"Hairy-eared Dwarf Lemur",
+33
+],
+[
+"King Colobus",
+33
+],
+[
+"Ursine Black-and-white Colobus",
+33
+],
+[
+"Ursine Black-and-White Colobus",
+33
+],
+[
+"Western Black-and-white Colobus",
+33
+],
+[
+"Western Black-and-White Colobus",
+33
+],
+[
+"Western Pied Colobus",
+33
+],
+[
+"Dusky Langur",
 32
 ],
 [
-"Golden-crowned Sifaka",
+"Dusky leaf monkey",
 32
 ],
 [
-"Tattersall's Sifaka",
+"Dusky Leaf Monkey",
 32
 ],
 [
-"Tattersall’s Sifaka",
+"Spectacled Langur",
+32
+],
+[
+"Spectacled Leaf Monkey",
 32
 ],
 [
@@ -2141,66 +2145,6 @@
 ],
 [
 "Western Rufous Mouse Lemur",
-32
-],
-[
-"Collared brown lemur",
-32
-],
-[
-"Collared Brown Lemur",
-32
-],
-[
-"Red-collared Lemur",
-32
-],
-[
-"Celebes macaque",
-32
-],
-[
-"Moor Macaque",
-32
-],
-[
-"Crested Mona Monkey",
-32
-],
-[
-"Crowned guenon",
-32
-],
-[
-"Crowned Monkey",
-32
-],
-[
-"Golden-bellied Guenon",
-32
-],
-[
-"Golden-bellied Monkey",
-32
-],
-[
-"Wolf’s Monkey",
-32
-],
-[
-"Crowned Guenon",
-32
-],
-[
-"Green Monkey",
-32
-],
-[
-"Green monkey",
-32
-],
-[
-"Western Green Monkey",
 32
 ],
 [
@@ -2224,60 +2168,80 @@
 32
 ],
 [
-"Spectacled Langur",
+"Crested Mona Monkey",
 32
 ],
 [
-"Spectacled Leaf Monkey",
+"Crowned guenon",
 32
 ],
 [
-"Dusky Langur",
+"Crowned Guenon",
 32
 ],
 [
-"Dusky leaf monkey",
+"Crowned Monkey",
 32
 ],
 [
-"Dusky Leaf Monkey",
+"Golden-bellied Guenon",
 32
 ],
 [
-"Javan slow loris",
-31
+"Golden-bellied Monkey",
+32
 ],
 [
-"Javan Slow Loris",
-31
+"Wolf’s Monkey",
+32
 ],
 [
-"Red-bellied Tamarin",
-31
+"Golden-crowned sifaka",
+32
 ],
 [
-"Red-chested Mustached Tamarin",
-31
+"Golden-crowned Sifaka",
+32
 ],
 [
-"White-lipped Tamarin",
-31
+"Tattersall's Sifaka",
+32
 ],
 [
-"Blue-eyed black lemur",
-31
+"Tattersall’s Sifaka",
+32
 ],
 [
-"Blue-eyed Black Lemur",
-31
+"Green monkey",
+32
 ],
 [
-"Sclater's Black Lemur",
-31
+"Green Monkey",
+32
 ],
 [
-"Black Uakari",
-31
+"Western Green Monkey",
+32
+],
+[
+"Celebes macaque",
+32
+],
+[
+"Moor Macaque",
+32
+],
+[
+"Collared brown lemur",
+32
+],
+[
+"Collared Brown Lemur",
+32
+],
+[
+"Red-collared Lemur",
+32
 ],
 [
 "Black-headed Uacari",
@@ -2285,6 +2249,10 @@
 ],
 [
 "Black-headed Uakari",
+31
+],
+[
+"Black Uakari",
 31
 ],
 [
@@ -2304,103 +2272,11 @@
 31
 ],
 [
-"Angwantibo",
-31
-],
-[
 "Golden Angwantibo",
 31
 ],
 [
 "Golden Potto",
-31
-],
-[
-"Calabar Angwantibo",
-31
-],
-[
-"Golden potto",
-31
-],
-[
-"Sclater’s Black Lemur",
-31
-],
-[
-"Sclater’s Lemur",
-31
-],
-[
-"Moustached guenon",
-31
-],
-[
-"Moustached Guenon",
-31
-],
-[
-"Moustached Monkey",
-31
-],
-[
-"Mustached Monkey",
-31
-],
-[
-"Tonkean Black Macaque",
-31
-],
-[
-"Tonkean macaque",
-31
-],
-[
-"Tonkean Macaque",
-31
-],
-[
-"Lowe’s Monkey",
-31
-],
-[
-"Campbell's Guenon",
-31
-],
-[
-"Campbell’s Guenon",
-31
-],
-[
-"Campbell’s Mona Monkey",
-31
-],
-[
-"Campbell’s Monkey",
-31
-],
-[
-"Geoffroy's Marmoset",
-31
-],
-[
-"Geoffroy’s marmoset",
-31
-],
-[
-"Geoffroy’s Tufted-ear Marmoset",
-31
-],
-[
-"White-faced Marmoset",
-31
-],
-[
-"White-fronted Marmoset",
-31
-],
-[
-"White-headed Marmoset",
 31
 ],
 [
@@ -2412,15 +2288,15 @@
 31
 ],
 [
-"Black Snub-nosed Monkey",
+"Angwantibo",
 31
 ],
 [
-"Yunnan snub-nosed monkey",
+"Calabar Angwantibo",
 31
 ],
 [
-"Yunnan Snub-nosed Monkey",
+"Golden potto",
 31
 ],
 [
@@ -2456,7 +2332,43 @@
 31
 ],
 [
-"Bolivian squirrel monkey",
+"Black Snub-nosed Monkey",
+31
+],
+[
+"Yunnan snub-nosed monkey",
+31
+],
+[
+"Yunnan Snub-nosed Monkey",
+31
+],
+[
+"Lowe’s Monkey",
+31
+],
+[
+"Sooty mangabey",
+31
+],
+[
+"White-naped Mangabey",
+31
+],
+[
+"Campbell's Guenon",
+31
+],
+[
+"Campbell’s Guenon",
+31
+],
+[
+"Campbell’s Mona Monkey",
+31
+],
+[
+"Campbell’s Monkey",
 31
 ],
 [
@@ -2468,15 +2380,15 @@
 31
 ],
 [
-"Geoffroy's Black-and-White Colobus",
-31
-],
-[
 "Geoffroy’s black-and-white colobus",
 31
 ],
 [
 "Geoffroy’s Black-and-white Colobus",
+31
+],
+[
+"Geoffroy's Black-and-White Colobus",
 31
 ],
 [
@@ -2508,19 +2420,139 @@
 31
 ],
 [
-"Sooty mangabey",
+"Tonkean Black Macaque",
 31
 ],
 [
-"White-naped Mangabey",
+"Tonkean macaque",
 31
 ],
 [
-"Coquerel's Sifaka",
+"Tonkean Macaque",
+31
+],
+[
+"Bolivian squirrel monkey",
+31
+],
+[
+"Blue-eyed black lemur",
+31
+],
+[
+"Blue-eyed Black Lemur",
+31
+],
+[
+"Sclater's Black Lemur",
+31
+],
+[
+"Sclater’s Black Lemur",
+31
+],
+[
+"Sclater’s Lemur",
+31
+],
+[
+"Moustached guenon",
+31
+],
+[
+"Moustached Guenon",
+31
+],
+[
+"Moustached Monkey",
+31
+],
+[
+"Mustached Monkey",
+31
+],
+[
+"Geoffroy’s marmoset",
+31
+],
+[
+"Geoffroy's Marmoset",
+31
+],
+[
+"Geoffroy’s Tufted-ear Marmoset",
+31
+],
+[
+"White-faced Marmoset",
+31
+],
+[
+"White-fronted Marmoset",
+31
+],
+[
+"White-headed Marmoset",
+31
+],
+[
+"Red-bellied Tamarin",
+31
+],
+[
+"Red-chested Mustached Tamarin",
+31
+],
+[
+"White-lipped Tamarin",
+31
+],
+[
+"Javan slow loris",
+31
+],
+[
+"Javan Slow Loris",
+31
+],
+[
+"Green monkeys",
+30
+],
+[
+"Vervet Monkeys",
+30
+],
+[
+"Booted macaque",
+30
+],
+[
+"Booted Macaque",
+30
+],
+[
+"Hamlyn’s Monkey",
+30
+],
+[
+"Owl-faced guenon",
+30
+],
+[
+"Owl-faced Guenon",
+30
+],
+[
+"Owl-faced Monkey",
 30
 ],
 [
 "Coquerel’s sifaka",
+30
+],
+[
+"Coquerel's Sifaka",
 30
 ],
 [
@@ -2532,55 +2564,35 @@
 30
 ],
 [
-"Perrier's Sifaka",
+"Bearded saki",
 30
 ],
 [
-"Perrier’s sifaka",
+"Bearded Saki",
 30
 ],
 [
-"Perrier’s Sifaka",
+"Black-bearded Saki",
 30
 ],
 [
-"Southern Brown Howling Monkey",
+"Black Bearded Saki",
 30
 ],
 [
-"Spix’s Moustached Tamarin",
+"Black Saki",
 30
 ],
 [
-"Brown Howler",
+"Brown-bearded Saki",
 30
 ],
 [
-"Brown Howler Monkey",
+"Douc Langurs",
 30
 ],
 [
-"Brown howling monkey",
-30
-],
-[
-"Brown Howling Monkey",
-30
-],
-[
-"Black-chested Mustached Tamarin",
-30
-],
-[
-"Moustached tamarin",
-30
-],
-[
-"Moustached Tamarin",
-30
-],
-[
-"Spix's Moustached Tamarin",
+"Doucs",
 30
 ],
 [
@@ -2600,39 +2612,31 @@
 30
 ],
 [
-"Green monkeys",
+"Dumoga-bone Macaque",
 30
 ],
 [
-"Vervet Monkeys",
+"Temminck's Macaque",
 30
 ],
 [
-"Geoffroy's Tamarin",
+"Agile mangabey",
 30
 ],
 [
-"Geoffroy’s Tamarin",
+"Agile Mangabey",
 30
 ],
 [
-"Red Crested Bare-face Tamarin",
+"Perrier’s sifaka",
 30
 ],
 [
-"Red-crested Bare-face Tamarin",
+"Perrier's Sifaka",
 30
 ],
 [
-"White-cheeked Spider Monkey",
-30
-],
-[
-"White-whiskered spider monkey",
-30
-],
-[
-"White-whiskered Spider Monkey",
+"Perrier’s Sifaka",
 30
 ],
 [
@@ -2656,7 +2660,51 @@
 30
 ],
 [
-"Alaotra Reed Lemur",
+"Silvered Langur",
+30
+],
+[
+"Silvered leaf monkey",
+30
+],
+[
+"Silvered Leaf Monkey",
+30
+],
+[
+"Silvered Monkey",
+30
+],
+[
+"Silvery Lutung",
+30
+],
+[
+"Banded langur",
+30
+],
+[
+"Banded Langur",
+30
+],
+[
+"Banded Leaf Monkey",
+30
+],
+[
+"Banded Surili",
+30
+],
+[
+"Cross River Gorilla",
+30
+],
+[
+"Gabon Talapoin",
+30
+],
+[
+"Northern Talapoin Monkey",
 30
 ],
 [
@@ -2665,6 +2713,10 @@
 ],
 [
 "Alaotran Gentle Lemur",
+30
+],
+[
+"Alaotra Reed Lemur",
 30
 ],
 [
@@ -2680,39 +2732,31 @@
 30
 ],
 [
-"Bearded saki",
+"Golden-bellied mangabey",
 30
 ],
 [
-"Bearded Saki",
+"Golden-bellied Mangabey",
 30
 ],
 [
-"Black Bearded Saki",
+"Black-chested Mustached Tamarin",
 30
 ],
 [
-"Black Saki",
+"Moustached tamarin",
 30
 ],
 [
-"Black-bearded Saki",
+"Moustached Tamarin",
 30
 ],
 [
-"Brown-bearded Saki",
+"Spix's Moustached Tamarin",
 30
 ],
 [
-"Douc Langurs",
-30
-],
-[
-"Doucs",
-30
-],
-[
-"Heck's Macaque",
+"Spix’s Moustached Tamarin",
 30
 ],
 [
@@ -2720,75 +2764,59 @@
 30
 ],
 [
+"Heck's Macaque",
+30
+],
+[
 "Heck’s Macaque",
 30
 ],
 [
-"Booted macaque",
+"Brown Howler",
 30
 ],
 [
-"Booted Macaque",
+"Brown Howler Monkey",
 30
 ],
 [
-"Gabon Talapoin",
+"Brown howling monkey",
 30
 ],
 [
-"Northern Talapoin Monkey",
+"Brown Howling Monkey",
 30
 ],
 [
-"Black-pencilled Marmoset",
+"Southern Brown Howling Monkey",
 30
 ],
 [
-"Black-tufted Marmoset",
+"Geoffroy's Tamarin",
 30
 ],
 [
-"Black-tufted-ear Marmoset",
+"Geoffroy’s Tamarin",
 30
 ],
 [
-"Banded Leaf Monkey",
+"Red-crested Bare-face Tamarin",
 30
 ],
 [
-"Banded langur",
+"Red Crested Bare-face Tamarin",
 30
 ],
 [
-"Banded Langur",
+"White-cheeked Spider Monkey",
 30
 ],
 [
-"Banded Surili",
+"White-whiskered spider monkey",
 30
 ],
 [
-"Dumoga-bone Macaque",
-30
-],
-[
-"Temminck's Macaque",
-30
-],
-[
-"Hamlyn’s Monkey",
-30
-],
-[
-"Owl-faced guenon",
-30
-],
-[
-"Owl-faced Guenon",
-30
-],
-[
-"Owl-faced Monkey",
+"White-whiskered Spider Monkey",
 30
 ],
 [
@@ -2812,44 +2840,124 @@
 30
 ],
 [
-"Golden-bellied mangabey",
+"Black-pencilled Marmoset",
 30
 ],
 [
-"Golden-bellied Mangabey",
+"Black-tufted-ear Marmoset",
 30
 ],
 [
-"Agile mangabey",
+"Black-tufted Marmoset",
 30
 ],
 [
-"Agile Mangabey",
-30
+"Red-bellied guenon",
+29
 ],
 [
-"Silvered leaf monkey",
-30
+"Red-bellied Guenon",
+29
 ],
 [
-"Silvered Langur",
-30
+"Red-bellied Monkey",
+29
 ],
 [
-"Silvered Leaf Monkey",
-30
+"White-throated Guenon",
+29
 ],
 [
-"Silvered Monkey",
-30
+"White-throated Monkey",
+29
 ],
 [
-"Silvery Lutung",
-30
+"White-fronted brown lemur",
+29
 ],
 [
-"Cross River Gorilla",
-30
+"White-fronted Brown Lemur",
+29
+],
+[
+"White-fronted Lemur",
+29
+],
+[
+"White-headed Lemur",
+29
+],
+[
+"Buffy-tufted-ear marmoset",
+29
+],
+[
+"Buffy-tufted-ear Marmoset",
+29
+],
+[
+"Buffy Tufted-ear Marmoset",
+29
+],
+[
+"Buffy-tufted Marmoset",
+29
+],
+[
+"White-eared Marmoset",
+29
+],
+[
+"Siberut macaque",
+29
+],
+[
+"Siberut Macaque",
+29
+],
+[
+"Red-handed Howling Monkey",
+29
+],
+[
+"Red-eared guenon",
+29
+],
+[
+"Red-eared Guenon",
+29
+],
+[
+"Red-eared Monkey",
+29
+],
+[
+"Russet-eared Guenon",
+29
+],
+[
+"Black crested mangabey",
+29
+],
+[
+"Black Crested Mangabey",
+29
+],
+[
+"Black Mangabey",
+29
+],
+[
+"Emilia’s Marmoset",
+29
+],
+[
+"Snethlage’s Marmoset",
+29
+],
+[
+"Golden Guenon",
+29
 ],
 [
 "lesser spectral tarsier",
@@ -2868,23 +2976,7 @@
 29
 ],
 [
-"Black and Red Howler",
-29
-],
-[
-"Red-handed Howler",
-29
-],
-[
-"Red-handed howler monkey",
-29
-],
-[
-"Red-handed Howler Monkey",
-29
-],
-[
-"Red-handed Howling Monkey",
+"Grauer's Gorilla",
 29
 ],
 [
@@ -2905,82 +2997,6 @@
 ],
 [
 "White-collared Lemur",
-29
-],
-[
-"Brown Mouse Lemur",
-29
-],
-[
-"Brown Mouse-lemur",
-29
-],
-[
-"Eastern Rufous Mouse Lemur",
-29
-],
-[
-"Rufous mouse lemur",
-29
-],
-[
-"Rufous Mouse Lemur",
-29
-],
-[
-"Rufous Mouse-lemur",
-29
-],
-[
-"Russet Mouse Lemur",
-29
-],
-[
-"Russet Mouse-lemur",
-29
-],
-[
-"White-fronted brown lemur",
-29
-],
-[
-"White-fronted Brown Lemur",
-29
-],
-[
-"White-fronted Lemur",
-29
-],
-[
-"White-headed Lemur",
-29
-],
-[
-"Geoffroy's dwarf lemur",
-29
-],
-[
-"Geoffroy's Dwarf Lemur",
-29
-],
-[
-"Geoffroy’s Dwarf Lemur",
-29
-],
-[
-"Greater Dwarf Lemur",
-29
-],
-[
-"Emilia’s Marmoset",
-29
-],
-[
-"Snethlage’s Marmoset",
-29
-],
-[
-"White-throated Guenon",
 29
 ],
 [
@@ -3008,35 +3024,19 @@
 29
 ],
 [
-"Buffy Tufted-ear Marmoset",
+"Black and Red Howler",
 29
 ],
 [
-"Black crested mangabey",
+"Red-handed Howler",
 29
 ],
 [
-"Black Crested Mangabey",
+"Red-handed howler monkey",
 29
 ],
 [
-"Black Mangabey",
-29
-],
-[
-"Buffy-tufted Marmoset",
-29
-],
-[
-"Buffy-tufted-ear marmoset",
-29
-],
-[
-"Buffy-tufted-ear Marmoset",
-29
-],
-[
-"White-eared Marmoset",
+"Red-handed Howler Monkey",
 29
 ],
 [
@@ -3048,10 +3048,6 @@
 29
 ],
 [
-"Hose's Leaf Monkey",
-29
-],
-[
 "Hose’s langur",
 29
 ],
@@ -3060,55 +3056,63 @@
 29
 ],
 [
+"Hose's Leaf Monkey",
+29
+],
+[
 "Hose’s Leaf Monkey",
 29
 ],
 [
-"Red-bellied guenon",
+"Geoffroy's dwarf lemur",
 29
 ],
 [
-"Red-bellied Guenon",
+"Geoffroy's Dwarf Lemur",
 29
 ],
 [
-"Red-bellied Monkey",
+"Geoffroy’s Dwarf Lemur",
 29
 ],
 [
-"White-throated Monkey",
+"Greater Dwarf Lemur",
 29
 ],
 [
-"Siberut macaque",
+"Brown Mouse-lemur",
 29
 ],
 [
-"Siberut Macaque",
+"Brown Mouse Lemur",
 29
 ],
 [
-"Red-eared guenon",
+"Eastern Rufous Mouse Lemur",
 29
 ],
 [
-"Red-eared Guenon",
+"Rufous mouse lemur",
 29
 ],
 [
-"Red-eared Monkey",
+"Rufous Mouse-lemur",
 29
 ],
 [
-"Russet-eared Guenon",
+"Rufous Mouse Lemur",
 29
 ],
 [
-"Golden Guenon",
+"Russet Mouse-lemur",
 29
 ],
 [
-"Black-mantled tamarin",
+"Russet Mouse Lemur",
+29
+],
+[
+"Cat Ba Black Leaf Monkey",
 29
 ],
 [
@@ -3124,19 +3128,47 @@
 29
 ],
 [
-"Cat Ba Black Leaf Monkey",
-29
-],
-[
 "White-headed Langur",
 29
 ],
 [
-"Grauer's Gorilla",
+"Black-mantled tamarin",
 29
 ],
 [
-"Decken's Sifaka",
+"Burmese Snub-nosed Monkey",
+28
+],
+[
+"Myanmar Snub-nosed Monkey",
+28
+],
+[
+"Wolf's Guenon",
+28
+],
+[
+"Ngandong",
+28
+],
+[
+"Solo Man",
+28
+],
+[
+"Black-crowned Central American Squirrel Monkey",
+28
+],
+[
+"Central American Squirrel Monkey",
+28
+],
+[
+"Red-backed squirrel monkey",
+28
+],
+[
+"Red-backed Squirrel Monkey",
 28
 ],
 [
@@ -3144,15 +3176,35 @@
 28
 ],
 [
+"Decken's Sifaka",
+28
+],
+[
 "Van der Decken’s Sifaka",
 28
 ],
 [
-"Milne-Edward's Sifaka",
+"Brown Pale-fronted Capuchin",
+28
+],
+[
+"Humboldt's White-fronted Capuchin",
+28
+],
+[
+"White-fronted capuchin",
+28
+],
+[
+"White-fronted Capuchin",
 28
 ],
 [
 "Milne-Edwards' sifaka",
+28
+],
+[
+"Milne-Edward's Sifaka",
 28
 ],
 [
@@ -3184,6 +3236,54 @@
 28
 ],
 [
+"Mitered Leaf-monkey; Sumatran Surili",
+28
+],
+[
+"Mitred leaf monkey",
+28
+],
+[
+"Mitred Leaf Monkey",
+28
+],
+[
+"Sumatran Surili",
+28
+],
+[
+"Northern Sumatran leaf monkey",
+28
+],
+[
+"Northern Sumatran Leaf Monkey",
+28
+],
+[
+"North Sumatran Leaf Monkey",
+28
+],
+[
+"Sumatran Grizzled Langur",
+28
+],
+[
+"Thomas's Langur",
+28
+],
+[
+"Thomas’s Langur",
+28
+],
+[
+"Thomas's Leaf Monkey",
+28
+],
+[
+"Thomas’s Leaf Monkey",
+28
+],
+[
 "Azara's Night Monkey",
 28
 ],
@@ -3192,43 +3292,19 @@
 28
 ],
 [
-"Bolivian Red Howler",
+"Bornean Agile Gibbon",
 28
 ],
 [
-"Bolivian Red Howler Monkey",
+"Bornean white-bearded gibbon",
 28
 ],
 [
-"Bolivian Red Howling Monkey",
-28
-],
-[
-"Monk Saki",
-28
-],
-[
-"Geoffroy’s Monk Saki",
-28
-],
-[
-"Miller’s Monk Saki",
+"Bornean White-bearded Gibbon",
 28
 ],
 [
 "Preuss's Monkey",
-28
-],
-[
-"Wolf's Guenon",
-28
-],
-[
-"Burmese Snub-nosed Monkey",
-28
-],
-[
-"Myanmar Snub-nosed Monkey",
 28
 ],
 [
@@ -3260,79 +3336,15 @@
 28
 ],
 [
-"Mitered Leaf-monkey; Sumatran Surili",
+"Geoffroy’s Monk Saki",
 28
 ],
 [
-"Mitred leaf monkey",
+"Miller’s Monk Saki",
 28
 ],
 [
-"Mitred Leaf Monkey",
-28
-],
-[
-"Sumatran Surili",
-28
-],
-[
-"North Sumatran Leaf Monkey",
-28
-],
-[
-"Northern Sumatran leaf monkey",
-28
-],
-[
-"Northern Sumatran Leaf Monkey",
-28
-],
-[
-"Sumatran Grizzled Langur",
-28
-],
-[
-"Thomas's Langur",
-28
-],
-[
-"Thomas's Leaf Monkey",
-28
-],
-[
-"Thomas’s Langur",
-28
-],
-[
-"Thomas’s Leaf Monkey",
-28
-],
-[
-"Bornean Agile Gibbon",
-28
-],
-[
-"Bornean white-bearded gibbon",
-28
-],
-[
-"Bornean White-bearded Gibbon",
-28
-],
-[
-"Black-crowned Central American Squirrel Monkey",
-28
-],
-[
-"Central American Squirrel Monkey",
-28
-],
-[
-"Red-backed squirrel monkey",
-28
-],
-[
-"Red-backed Squirrel Monkey",
+"Monk Saki",
 28
 ],
 [
@@ -3352,30 +3364,6 @@
 28
 ],
 [
-"Brown Pale-fronted Capuchin",
-28
-],
-[
-"Humboldt's White-fronted Capuchin",
-28
-],
-[
-"White-fronted capuchin",
-28
-],
-[
-"White-fronted Capuchin",
-28
-],
-[
-"Golden-mantled tamarin",
-28
-],
-[
-"Delacour's Langur",
-28
-],
-[
 "Delacour’s Black Leaf Monkey",
 28
 ],
@@ -3384,152 +3372,28 @@
 28
 ],
 [
+"Delacour's Langur",
+28
+],
+[
 "Delacour’s Langur",
 28
 ],
 [
-"Ngandong",
+"Bolivian Red Howler",
 28
 ],
 [
-"Solo Man",
+"Bolivian Red Howler Monkey",
 28
 ],
 [
-"Ma's Night Monkey",
-27
+"Bolivian Red Howling Monkey",
+28
 ],
 [
-"Ma’s Night Monkey",
-27
-],
-[
-"Nancy Ma’s Night Monkey",
-27
-],
-[
-"Peruvian Red-necked Owl Monkey",
-27
-],
-[
-"Black Tamarin",
-27
-],
-[
-"Black-handed Tamarin",
-27
-],
-[
-"Amazon Black Howler",
-27
-],
-[
-"Gray Slender Loris",
-27
-],
-[
-"Grey Slender Loris",
-27
-],
-[
-"Highland Slender Loris",
-27
-],
-[
-"Gray slender loris",
-27
-],
-[
-"Sanford's Brown Lemur",
-27
-],
-[
-"Sanford’s brown lemur",
-27
-],
-[
-"Sanford’s Brown Lemur",
-27
-],
-[
-"Sanford’s Lemur",
-27
-],
-[
-"Northern sportive lemur",
-27
-],
-[
-"Northern Sportive Lemur",
-27
-],
-[
-"Sahafary Sportive Lemur",
-27
-],
-[
-"Gold-and-white Marmoset",
-27
-],
-[
-"Northern Greater Galago",
-27
-],
-[
-"Small-eared Galago",
-27
-],
-[
-"Small-eared greater galago",
-27
-],
-[
-"Small-eared Greater Galago",
-27
-],
-[
-"Guianan Red Howler Monkey",
-27
-],
-[
-"Guyanan Red Howler",
-27
-],
-[
-"Trinidad Howling Monkey",
-27
-],
-[
-"Central Himalayan Langur",
-27
-],
-[
-"Nepal Gray Langur",
-27
-],
-[
-"Nepal Grey Langur",
-27
-],
-[
-"Wied's Black-tufted-ear Marmoset",
-27
-],
-[
-"Wied's Marmoset",
-27
-],
-[
-"Wied’s black-tufted-ear marmoset",
-27
-],
-[
-"Wied’s Black-tufted-ear Marmoset",
-27
-],
-[
-"Wied’s Marmoset",
-27
+"Golden-mantled tamarin",
+28
 ],
 [
 "Maroon Langur",
@@ -3540,11 +3404,11 @@
 27
 ],
 [
-"Maroon Leaf Monkey",
+"Maroon Leaf-monkey",
 27
 ],
 [
-"Maroon Leaf-monkey",
+"Maroon Leaf Monkey",
 27
 ],
 [
@@ -3588,6 +3452,22 @@
 27
 ],
 [
+"Northern Greater Galago",
+27
+],
+[
+"Small-eared Galago",
+27
+],
+[
+"Small-eared greater galago",
+27
+],
+[
+"Small-eared Greater Galago",
+27
+],
+[
 "Malbrouck",
 27
 ],
@@ -3600,19 +3480,43 @@
 27
 ],
 [
-"Black-shanked douc",
+"Guianan Red Howler Monkey",
 27
 ],
 [
-"Black-shanked Douc",
+"Guyanan Red Howler",
 27
 ],
 [
-"Black-shanked Douc Langur",
+"Trinidad Howling Monkey",
 27
 ],
 [
-"Black-shanked Douc Monkey",
+"Gold-and-white Marmoset",
+27
+],
+[
+"Ma's Night Monkey",
+27
+],
+[
+"Ma’s Night Monkey",
+27
+],
+[
+"Nancy Ma’s Night Monkey",
+27
+],
+[
+"Peruvian Red-necked Owl Monkey",
+27
+],
+[
+"Southern white-cheeked gibbon",
+27
+],
+[
+"Southern White-cheeked Gibbon",
 27
 ],
 [
@@ -3624,11 +3528,31 @@
 27
 ],
 [
-"Southern white-cheeked gibbon",
+"Northern sportive lemur",
 27
 ],
 [
-"Southern White-cheeked Gibbon",
+"Northern Sportive Lemur",
+27
+],
+[
+"Sahafary Sportive Lemur",
+27
+],
+[
+"Gray slender loris",
+27
+],
+[
+"Gray Slender Loris",
+27
+],
+[
+"Grey Slender Loris",
+27
+],
+[
+"Highland Slender Loris",
 27
 ],
 [
@@ -3648,7 +3572,99 @@
 27
 ],
 [
-"Crowned sifaka",
+"Amazon Black Howler",
+27
+],
+[
+"Central Himalayan Langur",
+27
+],
+[
+"Nepal Gray Langur",
+27
+],
+[
+"Nepal Grey Langur",
+27
+],
+[
+"Wied’s black-tufted-ear marmoset",
+27
+],
+[
+"Wied's Black-tufted-ear Marmoset",
+27
+],
+[
+"Wied’s Black-tufted-ear Marmoset",
+27
+],
+[
+"Wied's Marmoset",
+27
+],
+[
+"Wied’s Marmoset",
+27
+],
+[
+"Black-handed Tamarin",
+27
+],
+[
+"Black Tamarin",
+27
+],
+[
+"Sanford’s brown lemur",
+27
+],
+[
+"Sanford's Brown Lemur",
+27
+],
+[
+"Sanford’s Brown Lemur",
+27
+],
+[
+"Sanford’s Lemur",
+27
+],
+[
+"Black-shanked douc",
+27
+],
+[
+"Black-shanked Douc",
+27
+],
+[
+"Black-shanked Douc Langur",
+27
+],
+[
+"Black-shanked Douc Monkey",
+27
+],
+[
+"Red-nosed Bearded Saki",
+26
+],
+[
+"Red-nosed Saki",
+26
+],
+[
+"White-nosed Bearded Saki",
+26
+],
+[
+"White-nosed saki",
+26
+],
+[
+"White-nosed Saki",
 26
 ],
 [
@@ -3665,6 +3681,38 @@
 ],
 [
 "Western Woolly Lemur",
+26
+],
+[
+"Sanje Crested Mangabey",
+26
+],
+[
+"Sanje mangabey",
+26
+],
+[
+"Sanje Mangabey",
+26
+],
+[
+"Sanje River Mangabey",
+26
+],
+[
+"Bioko Red Colobus",
+26
+],
+[
+"Pennant's Red Colobus",
+26
+],
+[
+"Pennant’s Red Colobus",
+26
+],
+[
+"Lowe's Guenon",
 26
 ],
 [
@@ -3692,6 +3740,22 @@
 26
 ],
 [
+"Gerp’s mouse lemur",
+26
+],
+[
+"Gerp's Mouse Lemur",
+26
+],
+[
+"Gerp’s Mouse Lemur",
+26
+],
+[
+"Crowned sifaka",
+26
+],
+[
 "Bennett's Brown Lemur",
 26
 ],
@@ -3700,35 +3764,11 @@
 26
 ],
 [
-"Gerp's Mouse Lemur",
+"Bearded Capuchin",
 26
 ],
 [
-"Gerp’s mouse lemur",
-26
-],
-[
-"Gerp’s Mouse Lemur",
-26
-],
-[
-"Red-nosed Bearded Saki",
-26
-],
-[
-"Red-nosed Saki",
-26
-],
-[
-"White-nosed Bearded Saki",
-26
-],
-[
-"White-nosed saki",
-26
-],
-[
-"White-nosed Saki",
+"Black-striped Capuchin",
 26
 ],
 [
@@ -3740,15 +3780,35 @@
 26
 ],
 [
-"Sclater's Monkey",
-26
-],
-[
 "Sclater’s Guenon",
 26
 ],
 [
+"Sclater's Monkey",
+26
+],
+[
 "Sclater’s Monkey",
+26
+],
+[
+"Eastern Hoolock",
+26
+],
+[
+"Eastern hoolock gibbon",
+26
+],
+[
+"Eastern Hoolock Gibbon",
+26
+],
+[
+"Udzungwa Red Colobus",
+26
+],
+[
+"Uhehe Red Colobus",
 26
 ],
 [
@@ -3768,66 +3828,6 @@
 26
 ],
 [
-"Lowe's Guenon",
-26
-],
-[
-"Eastern Hoolock",
-26
-],
-[
-"Eastern hoolock gibbon",
-26
-],
-[
-"Eastern Hoolock Gibbon",
-26
-],
-[
-"Uhehe Red Colobus",
-26
-],
-[
-"Udzungwa Red Colobus",
-26
-],
-[
-"Bioko Red Colobus",
-26
-],
-[
-"Sanje Crested Mangabey",
-26
-],
-[
-"Sanje mangabey",
-26
-],
-[
-"Sanje Mangabey",
-26
-],
-[
-"Sanje River Mangabey",
-26
-],
-[
-"Pennant's Red Colobus",
-26
-],
-[
-"Pennant’s Red Colobus",
-26
-],
-[
-"Bearded Capuchin",
-26
-],
-[
-"Black-striped Capuchin",
-26
-],
-[
 "Bemaraha woolly lemur",
 25
 ],
@@ -3840,103 +3840,11 @@
 25
 ],
 [
-"John Cleese's woolly lemur",
-25
-],
-[
 "John Cleese’s Avahi",
 25
 ],
 [
-"Sambirano Avahi",
-25
-],
-[
-"Sambirano Woolly Lemur",
-25
-],
-[
-"Unicolor woolly lemur",
-25
-],
-[
-"Black-headed Night Monkey",
-25
-],
-[
-"Peruvian Night Monkey",
-25
-],
-[
-"Peleng Island tarsier",
-25
-],
-[
-"Peleng tarsier",
-25
-],
-[
-"Martin’s Bare-face Tamarin",
-25
-],
-[
-"Martin's Ochraceous Bare-face Tamarin",
-25
-],
-[
-"Martins’s Bare-face Tamarin",
-25
-],
-[
-"Martins’s Ochraceous Bare-face Tamarin",
-25
-],
-[
-"Martins’s Tamarin",
-25
-],
-[
-"Buffy saki",
-25
-],
-[
-"Buffy Saki",
-25
-],
-[
-"White Saki",
-25
-],
-[
-"White-footed Saki",
-25
-],
-[
-"Sahamalaza Peninsula Sportive Lemur",
-25
-],
-[
-"Sahamalaza sportive lemur",
-25
-],
-[
-"Sahamalaza Sportive Lemur",
-25
-],
-[
-"Greater Sportive Lemur",
-25
-],
-[
-"Greater Weasel Lemur",
-25
-],
-[
-"Weasel sportive lemur",
-25
-],
-[
-"Weasel Sportive Lemur",
+"John Cleese's woolly lemur",
 25
 ],
 [
@@ -3960,18 +3868,6 @@
 25
 ],
 [
-"Andean night monkey",
-25
-],
-[
-"Andean Night Monkey",
-25
-],
-[
-"Mono Lechuza",
-25
-],
-[
 "Lesser weasel lemur",
 25
 ],
@@ -3984,31 +3880,11 @@
 25
 ],
 [
-"White Marmoset",
+"Tantalus monkey",
 25
 ],
 [
-"Santarem Marmoset",
-25
-],
-[
-"Black and white tassel-ear marmoset",
-25
-],
-[
-"Black and White Tassel-ear Marmoset",
-25
-],
-[
-"Black And White Tassel-ear Marmoset",
-25
-],
-[
-"Golden-white Bare-ear Marmoset",
-25
-],
-[
-"Tassel-eared Marmoset",
+"Tantalus Monkey",
 25
 ],
 [
@@ -4032,6 +3908,10 @@
 25
 ],
 [
+"Preuss’s Red Colobus",
+25
+],
+[
 "Coromandel Sacred Langur",
 25
 ],
@@ -4048,15 +3928,83 @@
 25
 ],
 [
-"White-faced Langur",
+"Black-headed Night Monkey",
 25
 ],
 [
-"White-fronted Langur",
+"Peruvian Night Monkey",
 25
 ],
 [
-"White-fronted Leaf Monkey",
+"Ka’apor capuchin",
+25
+],
+[
+"Ka’apor Capuchin",
+25
+],
+[
+"Ka'apor capuchin monkey",
+25
+],
+[
+"Kaapori Capuchin",
+25
+],
+[
+"Sambirano Avahi",
+25
+],
+[
+"Sambirano Woolly Lemur",
+25
+],
+[
+"Unicolor woolly lemur",
+25
+],
+[
+"Peleng Island tarsier",
+25
+],
+[
+"Peleng tarsier",
+25
+],
+[
+"Golden-white Bare-ear Marmoset",
+25
+],
+[
+"White Marmoset",
+25
+],
+[
+"Black and white tassel-ear marmoset",
+25
+],
+[
+"Black and White Tassel-ear Marmoset",
+25
+],
+[
+"Black And White Tassel-ear Marmoset",
+25
+],
+[
+"Santarem Marmoset",
+25
+],
+[
+"Tassel-eared Marmoset",
+25
+],
+[
+"Black Capuchin",
+25
+],
+[
+"Black-horned Capuchin",
 25
 ],
 [
@@ -4080,47 +4028,167 @@
 25
 ],
 [
-"Tantalus monkey",
+"Sahamalaza Peninsula Sportive Lemur",
 25
 ],
 [
-"Tantalus Monkey",
+"Sahamalaza sportive lemur",
 25
 ],
 [
-"Preuss’s Red Colobus",
+"Sahamalaza Sportive Lemur",
 25
 ],
 [
-"Black Capuchin",
+"Andean night monkey",
 25
 ],
 [
-"Black-horned Capuchin",
+"Andean Night Monkey",
 25
 ],
 [
-"Ka'apor capuchin monkey",
+"Mono Lechuza",
 25
 ],
 [
-"Ka’apor capuchin",
+"Buffy saki",
 25
 ],
 [
-"Ka’apor Capuchin",
+"Buffy Saki",
 25
 ],
 [
-"Kaapori Capuchin",
+"White-footed Saki",
 25
 ],
 [
-"Betsileo woolly lemur",
+"White Saki",
+25
+],
+[
+"Martin’s Bare-face Tamarin",
+25
+],
+[
+"Martin's Ochraceous Bare-face Tamarin",
+25
+],
+[
+"Martins’s Bare-face Tamarin",
+25
+],
+[
+"Martins’s Ochraceous Bare-face Tamarin",
+25
+],
+[
+"Martins’s Tamarin",
+25
+],
+[
+"White-faced Langur",
+25
+],
+[
+"White-fronted Langur",
+25
+],
+[
+"White-fronted Leaf Monkey",
+25
+],
+[
+"Greater Sportive Lemur",
+25
+],
+[
+"Greater Weasel Lemur",
+25
+],
+[
+"Weasel sportive lemur",
+25
+],
+[
+"Weasel Sportive Lemur",
+25
+],
+[
+"Coimbra Filho's Titi",
 24
 ],
 [
-"Betsileo Woolly Lemur",
+"Coimbra Filho’s Titi",
+24
+],
+[
+"Coimbra Filho's Titi Monkey",
+24
+],
+[
+"Coimbra-Filho’s Titi Monkey",
+24
+],
+[
+"Coimbra's Titi",
+24
+],
+[
+"Golden angwantibo",
+24
+],
+[
+"Goodman's mouse lemur",
+24
+],
+[
+"Goodman’s mouse lemur",
+24
+],
+[
+"Goodman's Mouse Lemur",
+24
+],
+[
+"Goodman’s Mouse Lemur",
+24
+],
+[
+"Diana tarsier",
+24
+],
+[
+"Dian’s tarsier",
+24
+],
+[
+"Sambirano Mouse Lemur",
+24
+],
+[
+"Germain's langur",
+24
+],
+[
+"Germain’s Langur",
+24
+],
+[
+"Germain’s Silver Langur",
+24
+],
+[
+"Indochinese Leaf Monkey",
+24
+],
+[
+"Indochinese Lutung",
+24
+],
+[
+"Indochinese Silvered Langur",
 24
 ],
 [
@@ -4136,11 +4204,59 @@
 24
 ],
 [
-"Dian’s tarsier",
+"Gray langur",
 24
 ],
 [
-"Diana tarsier",
+"Gray Langur",
+24
+],
+[
+"Hanuman Langur",
+24
+],
+[
+"Lesser Hill Langur",
+24
+],
+[
+"Tarai Gray Langur",
+24
+],
+[
+"Tarai Sacred Langur",
+24
+],
+[
+"Black-headed Squirrel Monkey",
+24
+],
+[
+"Black squirrel monkey",
+24
+],
+[
+"Black Squirrel Monkey",
+24
+],
+[
+"Black-fronted Titi",
+24
+],
+[
+"Black-fronted titi monkey",
+24
+],
+[
+"Black-fronted Titi Monkey",
+24
+],
+[
+"Mottled-face Tamarin",
+24
+],
+[
+"Mottle-faced Tamarin",
 24
 ],
 [
@@ -4152,31 +4268,55 @@
 24
 ],
 [
-"Mottle-faced Tamarin",
+"Barbe's Langur",
 24
 ],
 [
-"Mottled-face Tamarin",
+"Barbe’s Langur",
 24
 ],
 [
-"Goodman's mouse lemur",
+"Tenasserim Lutung",
 24
 ],
 [
-"Goodman's Mouse Lemur",
+"Tenasserim Spectacled Leaf Monkey",
 24
 ],
 [
-"Goodman’s mouse lemur",
+"Crossley's Dwarf Lemur",
 24
 ],
 [
-"Goodman’s Mouse Lemur",
+"Crossley’s Dwarf Lemur",
 24
 ],
 [
-"Sambirano Mouse Lemur",
+"Furry-eared dwarf lemur",
+24
+],
+[
+"Furry-eared Dwarf Lemur",
+24
+],
+[
+"Coastal Black-handed Titi",
+24
+],
+[
+"Southern Bahian Masked Titi",
+24
+],
+[
+"Black-headed uakari",
+24
+],
+[
+"Neblina Uacari",
+24
+],
+[
+"Neblina Uakari",
 24
 ],
 [
@@ -4212,15 +4352,11 @@
 24
 ],
 [
-"Dry-bush Weasel Lemur",
+"Black-tailed marmoset",
 24
 ],
 [
-"White-footed sportive lemur",
-24
-],
-[
-"White-footed Sportive Lemur",
+"Black-tailed Marmoset",
 24
 ],
 [
@@ -4240,35 +4376,63 @@
 24
 ],
 [
-"Black-tailed marmoset",
+"Black-headed Marmoset",
 24
 ],
 [
-"Black-tailed Marmoset",
+"Maués Marmoset",
 24
 ],
 [
-"Black-headed uakari",
+"Sateré Marmoset",
 24
 ],
 [
-"Neblina Uacari",
+"Satéré Marmoset",
 24
 ],
 [
-"Neblina Uakari",
+"Bare-eared squirrel monkey",
 24
 ],
 [
-"Night monkey",
+"Bare-eared Squirrel Monkey",
 24
 ],
 [
-"Golden angwantibo",
+"Golden-backed Squirel Monkey",
+24
+],
+[
+"Golden-backed Squirrel Monkey",
+24
+],
+[
+"Brelich’s Snub-nosed Monkey",
+24
+],
+[
+"Gray Snub-nosed Monkey",
+24
+],
+[
+"Grey snub-nosed monkey",
+24
+],
+[
+"Grey Snub-nosed Monkey",
+24
+],
+[
+"Guizhou Snub-nosed Monkey",
 24
 ],
 [
 "Colombian Gray Night Monkey",
+24
+],
+[
+"Night monkey",
 24
 ],
 [
@@ -4280,11 +4444,11 @@
 24
 ],
 [
-"Spix's Owl Monkey",
+"Spix’s Night Monkey",
 24
 ],
 [
-"Spix’s Night Monkey",
+"Spix's Owl Monkey",
 24
 ],
 [
@@ -4292,19 +4456,47 @@
 24
 ],
 [
-"Crossley's Dwarf Lemur",
+"Dent’s Monkey",
 24
 ],
 [
-"Crossley’s Dwarf Lemur",
+"Dry-bush Weasel Lemur",
 24
 ],
 [
-"Furry-eared dwarf lemur",
+"White-footed sportive lemur",
 24
 ],
 [
-"Furry-eared Dwarf Lemur",
+"White-footed Sportive Lemur",
+24
+],
+[
+"Bale Monkey",
+24
+],
+[
+"Bale Mountains Grivet",
+24
+],
+[
+"Bale Mountains vervet",
+24
+],
+[
+"Bale Mountains Vervet",
+24
+],
+[
+"Djam-djam",
+24
+],
+[
+"Betsileo woolly lemur",
+24
+],
+[
+"Betsileo Woolly Lemur",
 24
 ],
 [
@@ -4336,403 +4528,7 @@
 24
 ],
 [
-"Satéré Marmoset",
-24
-],
-[
-"Black-headed Marmoset",
-24
-],
-[
-"Maués Marmoset",
-24
-],
-[
-"Sateré Marmoset",
-24
-],
-[
-"Dent’s Monkey",
-24
-],
-[
-"Brelich’s Snub-nosed Monkey",
-24
-],
-[
-"Gray Snub-nosed Monkey",
-24
-],
-[
-"Grey snub-nosed monkey",
-24
-],
-[
-"Grey Snub-nosed Monkey",
-24
-],
-[
-"Guizhou Snub-nosed Monkey",
-24
-],
-[
-"Gray langur",
-24
-],
-[
-"Gray Langur",
-24
-],
-[
-"Hanuman Langur",
-24
-],
-[
-"Lesser Hill Langur",
-24
-],
-[
-"Tarai Gray Langur",
-24
-],
-[
-"Tarai Sacred Langur",
-24
-],
-[
-"Black squirrel monkey",
-24
-],
-[
-"Black Squirrel Monkey",
-24
-],
-[
-"Black-headed Squirrel Monkey",
-24
-],
-[
-"Bare-eared squirrel monkey",
-24
-],
-[
-"Bare-eared Squirrel Monkey",
-24
-],
-[
-"Golden-backed Squirel Monkey",
-24
-],
-[
-"Golden-backed Squirrel Monkey",
-24
-],
-[
-"Bale Mountains Vervet",
-24
-],
-[
-"Djam-djam",
-24
-],
-[
-"Bale Monkey",
-24
-],
-[
-"Bale Mountains Grivet",
-24
-],
-[
-"Bale Mountains vervet",
-24
-],
-[
-"Coimbra Filho's Titi",
-24
-],
-[
-"Coimbra Filho's Titi Monkey",
-24
-],
-[
-"Coimbra Filho’s Titi",
-24
-],
-[
-"Coimbra-Filho’s Titi Monkey",
-24
-],
-[
-"Coimbra's Titi",
-24
-],
-[
-"Black-fronted Titi",
-24
-],
-[
-"Black-fronted titi monkey",
-24
-],
-[
-"Black-fronted Titi Monkey",
-24
-],
-[
-"Coastal Black-handed Titi",
-24
-],
-[
-"Southern Bahian Masked Titi",
-24
-],
-[
-"Germain's langur",
-24
-],
-[
-"Germain’s Langur",
-24
-],
-[
-"Germain’s Silver Langur",
-24
-],
-[
-"Indochinese Leaf Monkey",
-24
-],
-[
-"Indochinese Lutung",
-24
-],
-[
-"Indochinese Silvered Langur",
-24
-],
-[
-"Barbe's Langur",
-24
-],
-[
-"Barbe’s Langur",
-24
-],
-[
-"Tenasserim Lutung",
-24
-],
-[
-"Tenasserim Spectacled Leaf Monkey",
-24
-],
-[
-"Masoala Woolly Lemur",
-23
-],
-[
-"Moore's Woolly Lemur",
-23
-],
-[
-"Moore’s Woolly Lemur",
-23
-],
-[
-"Peyrieras' Woolly Lemur",
-23
-],
-[
-"Peyrieras’s Woolly Lemur",
-23
-],
-[
-"Sangihe Island tarsier",
-23
-],
-[
-"Sangihe tarsier",
-23
-],
-[
 "Fork-marked Lemur",
-23
-],
-[
-"Somali Bushbaby",
-23
-],
-[
-"Somali Galago",
-23
-],
-[
-"Somali lesser galago",
-23
-],
-[
-"Somali Lesser Galago",
-23
-],
-[
-"Crandall's Saddleback Tamarin",
-23
-],
-[
-"White Saddleback Tamarin",
-23
-],
-[
-"White-mantled Tamarin",
-23
-],
-[
-"Bongolava Mouse Lemur",
-23
-],
-[
-"Coquerel's Dwarf Lemur",
-23
-],
-[
-"Coquerel's Giant Mouse Lemur",
-23
-],
-[
-"Coquerel's Mouse-lemur",
-23
-],
-[
-"Coquerel’s Dwarf Lemur",
-23
-],
-[
-"Coquerel’s Giant Mouse Lemur",
-23
-],
-[
-"Coquerel’s mouse lemur",
-23
-],
-[
-"Giant Mouse Lemur",
-23
-],
-[
-"Danfoss' Mouse Lemur",
-23
-],
-[
-"Danfoss’s Mouse Lemur",
-23
-],
-[
-"Northern Rufous Mouse Lemur",
-23
-],
-[
-"Northern Rufous Mouse Lemur (Northern Brown Mouse Lemur",
-23
-],
-[
-"or Tavaratra Mouse Lemur)",
-23
-],
-[
-"Tavaratra Mouse Lemur",
-23
-],
-[
-"Equatorial Saki",
-23
-],
-[
-"Gray monkey saki",
-23
-],
-[
-"Gray Monkey Saki",
-23
-],
-[
-"Gray’s Bald-faced Saki",
-23
-],
-[
-"Rio Tapajos Saki",
-23
-],
-[
-"Vanzolin’s Bald-faced Saki",
-23
-],
-[
-"Gray-handed Night Monkey",
-23
-],
-[
-"Gray-legged Night Monkey",
-23
-],
-[
-"Grey-handed Night Monkey",
-23
-],
-[
-"Grey-legged night monkey",
-23
-],
-[
-"Grey-legged Night Monkey",
-23
-],
-[
-"Panamanian Night Monkey",
-23
-],
-[
-"Uta Hick's Bearded Saki",
-23
-],
-[
-"Uta Hick’s bearded saki",
-23
-],
-[
-"Uta Hick’s Bearded Saki",
-23
-],
-[
-"Ursine Howler",
-23
-],
-[
-"Ursine Howler Monkey",
-23
-],
-[
-"Black-crowned Dwarf Marmoset",
-23
-],
-[
-"Marca’s Marmoset",
-23
-],
-[
-"Rio Acari Marmoset",
-23
-],
-[
-"Rio Acarí Marmoset",
-23
-],
-[
-"Roosmalen's Dwarf Marmoset",
-23
-],
-[
-"Marca's Marmoset",
 23
 ],
 [
@@ -4741,62 +4537,6 @@
 ],
 [
 "Sarawak Surili",
-23
-],
-[
-"Graell’s Black-mantle Tamarin",
-23
-],
-[
-"Ashy Red Colobus",
-23
-],
-[
-"Uganda Red Colobus",
-23
-],
-[
-"Ugandan Red Colobus",
-23
-],
-[
-"Barbara Brown's Titi",
-23
-],
-[
-"Barbara Brown’s Titi",
-23
-],
-[
-"Blond titi monkey",
-23
-],
-[
-"Blond Titi Monkey",
-23
-],
-[
-"Northern Bahian Blond Titi",
-23
-],
-[
-"Northern Bahian Blond Titi Monkey",
-23
-],
-[
-"Shortridge’s Capped Langur",
-23
-],
-[
-"Shortridge’s Langur",
-23
-],
-[
-"Shortridge’s Leaf Monkey",
-23
-],
-[
-"Nilgiri langur",
 23
 ],
 [
@@ -4824,11 +4564,123 @@
 23
 ],
 [
+"Nilgiri langur",
+23
+],
+[
 "Nilgiri Langur",
 23
 ],
 [
 "Nilgiri Leaf Monkey",
+23
+],
+[
+"Panamanian Night Monkey",
+23
+],
+[
+"Gray-handed Night Monkey",
+23
+],
+[
+"Gray-legged Night Monkey",
+23
+],
+[
+"Grey-handed Night Monkey",
+23
+],
+[
+"Grey-legged night monkey",
+23
+],
+[
+"Grey-legged Night Monkey",
+23
+],
+[
+"Coquerel's Dwarf Lemur",
+23
+],
+[
+"Coquerel’s Dwarf Lemur",
+23
+],
+[
+"Coquerel's Giant Mouse Lemur",
+23
+],
+[
+"Coquerel’s Giant Mouse Lemur",
+23
+],
+[
+"Coquerel’s mouse lemur",
+23
+],
+[
+"Coquerel's Mouse-lemur",
+23
+],
+[
+"Giant Mouse Lemur",
+23
+],
+[
+"Northern Rufous Mouse Lemur",
+23
+],
+[
+"Northern Rufous Mouse Lemur (Northern Brown Mouse Lemur",
+23
+],
+[
+"or Tavaratra Mouse Lemur)",
+23
+],
+[
+"Tavaratra Mouse Lemur",
+23
+],
+[
+"Crandall's Saddleback Tamarin",
+23
+],
+[
+"White-mantled Tamarin",
+23
+],
+[
+"White Saddleback Tamarin",
+23
+],
+[
+"Somali Bushbaby",
+23
+],
+[
+"Somali Galago",
+23
+],
+[
+"Somali lesser galago",
+23
+],
+[
+"Somali Lesser Galago",
+23
+],
+[
+"Masoala Woolly Lemur",
+23
+],
+[
+"Moore's Woolly Lemur",
+23
+],
+[
+"Moore’s Woolly Lemur",
 23
 ],
 [
@@ -4852,11 +4704,299 @@
 23
 ],
 [
+"Ursine Howler",
+23
+],
+[
+"Ursine Howler Monkey",
+23
+],
+[
+"Uta Hick’s bearded saki",
+23
+],
+[
+"Uta Hick's Bearded Saki",
+23
+],
+[
+"Uta Hick’s Bearded Saki",
+23
+],
+[
+"Peyrieras’s Woolly Lemur",
+23
+],
+[
+"Peyrieras' Woolly Lemur",
+23
+],
+[
+"Barbara Brown's Titi",
+23
+],
+[
+"Barbara Brown’s Titi",
+23
+],
+[
+"Blond titi monkey",
+23
+],
+[
+"Blond Titi Monkey",
+23
+],
+[
+"Northern Bahian Blond Titi",
+23
+],
+[
+"Northern Bahian Blond Titi Monkey",
+23
+],
+[
+"Sangihe Island tarsier",
+23
+],
+[
+"Sangihe tarsier",
+23
+],
+[
+"Ashy Red Colobus",
+23
+],
+[
+"Ugandan Red Colobus",
+23
+],
+[
+"Uganda Red Colobus",
+23
+],
+[
+"Rio Acari Marmoset",
+23
+],
+[
+"Rio Acarí Marmoset",
+23
+],
+[
+"Black-crowned Dwarf Marmoset",
+23
+],
+[
+"Roosmalen's Dwarf Marmoset",
+23
+],
+[
+"Marca's Marmoset",
+23
+],
+[
+"Marca’s Marmoset",
+23
+],
+[
+"Graell’s Black-mantle Tamarin",
+23
+],
+[
+"Equatorial Saki",
+23
+],
+[
+"Danfoss' Mouse Lemur",
+23
+],
+[
+"Danfoss’s Mouse Lemur",
+23
+],
+[
+"Bongolava Mouse Lemur",
+23
+],
+[
+"Gray monkey saki",
+23
+],
+[
+"Gray Monkey Saki",
+23
+],
+[
+"Gray’s Bald-faced Saki",
+23
+],
+[
+"Rio Tapajos Saki",
+23
+],
+[
+"Vanzolin’s Bald-faced Saki",
+23
+],
+[
+"Shortridge’s Capped Langur",
+23
+],
+[
+"Shortridge’s Langur",
+23
+],
+[
+"Shortridge’s Leaf Monkey",
+23
+],
+[
+"Claire's Mouse Lemur",
+22
+],
+[
+"Claire’s Mouse Lemur",
+22
+],
+[
+"Rondônia Marmoset",
+22
+],
+[
+"Rondon’s Marmoset",
+22
+],
+[
+"Rondon’sRondôniaMarmoset",
+22
+],
+[
+"Hatinh Langur",
+22
+],
+[
+"Ha Tinh langur",
+22
+],
+[
+"Ha-Tinh Langur",
+22
+],
+[
+"Hatinh Leaf Monkey",
+22
+],
+[
+"Stripe-headed Black Langur",
+22
+],
+[
+"Jolly's Mouse Lemur",
+22
+],
+[
+"Jolly’s Mouse Lemur",
+22
+],
+[
+"Spix’s Red-handed Howler",
+22
+],
+[
+"Spix's Red-handed Howler Monkey",
+22
+],
+[
+"Spix’s Red-handed Howler Monkey",
+22
+],
+[
+"Mittermeier's Mouse Lemur",
+22
+],
+[
+"Mittermeier’s Mouse Lemur",
+22
+],
+[
+"Black-striped Sportive Lemur",
+22
+],
+[
+"Gray-backed Sportive Lemur",
+22
+],
+[
+"Gray’s Sportive Lemur",
+22
+],
+[
+"Grey-backed sportive lemur",
+22
+],
+[
+"Grey-backed Sportive Lemur",
+22
+],
+[
+"Nossi-bé Sportive Lemur",
+22
+],
+[
+"Maranhão Red-handed Howler",
+22
+],
+[
+"Maranhão Red-handed Howler Monkey",
+22
+],
+[
+"Fleurete's Sportive Lemur",
+22
+],
+[
+"Fleurete’s Sportive Lemur",
+22
+],
+[
+"Brown-backed Bearded Saki",
+22
+],
+[
+"Red-backed Bearded Saki",
+22
+],
+[
+"Sibree’s dwarf lemur",
+22
+],
+[
+"Sibree's Dwarf Lemur",
+22
+],
+[
+"Sibree’s Dwarf Lemur",
+22
+],
+[
 "Wallace’s tarsier",
 22
 ],
 [
 "Wallace’s Tarsier",
+22
+],
+[
+"Golden-brown mouse lemur",
+22
+],
+[
+"Golden-brown Mouse Lemur",
+22
+],
+[
+"Ravelobe Mouse Lemur",
 22
 ],
 [
@@ -4888,94 +5028,6 @@
 22
 ],
 [
-"Sibree's Dwarf Lemur",
-22
-],
-[
-"Sibree’s dwarf lemur",
-22
-],
-[
-"Sibree’s Dwarf Lemur",
-22
-],
-[
-"Claire's Mouse Lemur",
-22
-],
-[
-"Claire’s Mouse Lemur",
-22
-],
-[
-"Golden-brown mouse lemur",
-22
-],
-[
-"Golden-brown Mouse Lemur",
-22
-],
-[
-"Ravelobe Mouse Lemur",
-22
-],
-[
-"Grey-backed sportive lemur",
-22
-],
-[
-"Grey-backed Sportive Lemur",
-22
-],
-[
-"Nossi-bé Sportive Lemur",
-22
-],
-[
-"Fleurete's Sportive Lemur",
-22
-],
-[
-"Fleurete’s Sportive Lemur",
-22
-],
-[
-"Mittermeier's Mouse Lemur",
-22
-],
-[
-"Mittermeier’s Mouse Lemur",
-22
-],
-[
-"Jolly's Mouse Lemur",
-22
-],
-[
-"Jolly’s Mouse Lemur",
-22
-],
-[
-"Brown-backed Bearded Saki",
-22
-],
-[
-"Red-backed Bearded Saki",
-22
-],
-[
-"Rondon’s Marmoset",
-22
-],
-[
-"Rondon’sRondôniaMarmoset",
-22
-],
-[
-"Rondônia Marmoset",
-22
-],
-[
 "Brumback's night monkey",
 22
 ],
@@ -4984,59 +5036,15 @@
 22
 ],
 [
-"Black-striped Sportive Lemur",
-22
+"Peruvian yellow-tailed woolly monkey",
+21
 ],
 [
-"Gray-backed Sportive Lemur",
-22
+"Peruvian Yellow-tailed Woolly Monkey",
+21
 ],
 [
-"Gray’s Sportive Lemur",
-22
-],
-[
-"Spix's Red-handed Howler Monkey",
-22
-],
-[
-"Spix’s Red-handed Howler",
-22
-],
-[
-"Spix’s Red-handed Howler Monkey",
-22
-],
-[
-"Maranhão Red-handed Howler",
-22
-],
-[
-"Maranhão Red-handed Howler Monkey",
-22
-],
-[
-"Ha Tinh langur",
-22
-],
-[
-"Ha-Tinh Langur",
-22
-],
-[
-"Hatinh Langur",
-22
-],
-[
-"Hatinh Leaf Monkey",
-22
-],
-[
-"Stripe-headed Black Langur",
-22
-],
-[
-"Southern Woolly Lemur",
+"Yellow-tailed Woolly Monkey",
 21
 ],
 [
@@ -5060,30 +5068,6 @@
 21
 ],
 [
-"Randrianasolo's Sportive Lemur",
-21
-],
-[
-"Randrianasolo’s Sportive Lemur",
-21
-],
-[
-"Daraina Sportive Lemur",
-21
-],
-[
-"Milne Edwards’s sportive lemur",
-21
-],
-[
-"Milne-Edwards's Sportive Lemur",
-21
-],
-[
-"Milne-Edwards’s Sportive Lemur",
-21
-],
-[
 "James' Sportive Lemur",
 21
 ],
@@ -5092,15 +5076,7 @@
 21
 ],
 [
-"Peruvian yellow-tailed woolly monkey",
-21
-],
-[
-"Peruvian Yellow-tailed Woolly Monkey",
-21
-],
-[
-"Yellow-tailed Woolly Monkey",
+"Southern Woolly Lemur",
 21
 ],
 [
@@ -5128,6 +5104,30 @@
 21
 ],
 [
+"Randrianasolo's Sportive Lemur",
+21
+],
+[
+"Randrianasolo’s Sportive Lemur",
+21
+],
+[
+"Daraina Sportive Lemur",
+21
+],
+[
+"Milne Edwards’s sportive lemur",
+21
+],
+[
+"Milne-Edwards's Sportive Lemur",
+21
+],
+[
+"Milne-Edwards’s Sportive Lemur",
+21
+],
+[
 "Crested Capuchin",
 21
 ],
@@ -5136,55 +5136,19 @@
 21
 ],
 [
-"Ramanantsoavana's Woolly Lemur",
+"AEECL's sportive lemur",
 20
 ],
 [
-"Ramantsoavana's Southern Woolly Lemur",
+"Antafia sportive lemur",
 20
 ],
 [
-"Ramantsoavana’s southern woolly lemur",
+"Antafia Sportive Lemur",
 20
 ],
 [
-"Ramantsoavana’s Southern Woolly Lemur",
-20
-],
-[
-"Bornean Slow Loris",
-20
-],
-[
-"Philippine Slow Loris",
-20
-],
-[
-"Lariang tarsier",
-20
-],
-[
-"Bornean slow loris",
-20
-],
-[
-"Red-capped Tamarin",
-20
-],
-[
-"Rusty-gray Lesser Bamboo Lemur",
-20
-],
-[
-"Southern Gray Bamboo Lemur",
-20
-],
-[
-"Southern Grey Bamboo Lemur",
-20
-],
-[
-"Southern Lesser Bamboo Lemur",
+"Antafia sportive lemur or red-shouldered sportive lemur",
 20
 ],
 [
@@ -5204,6 +5168,38 @@
 20
 ],
 [
+"Hernández-Camacho’s Night Monkey",
+20
+],
+[
+"Grewcock’s sportive lemur",
+20
+],
+[
+"Grewcock's Sportive Lemur",
+20
+],
+[
+"Grewcock’s Sportive Lemur",
+20
+],
+[
+"Ramanantsoavana's Woolly Lemur",
+20
+],
+[
+"Ramantsoavana’s southern woolly lemur",
+20
+],
+[
+"Ramantsoavana's Southern Woolly Lemur",
+20
+],
+[
+"Ramantsoavana’s Southern Woolly Lemur",
+20
+],
+[
 "Northern giant mouse lemur",
 20
 ],
@@ -5212,35 +5208,47 @@
 20
 ],
 [
-"Hernández-Camacho’s Night Monkey",
+"Thollon's Red Colobus",
 20
 ],
 [
-"Grewcock's Sportive Lemur",
+"Tshuapa Red Colobus",
 20
 ],
 [
-"Grewcock’s sportive lemur",
+"Lariang tarsier",
 20
 ],
 [
-"Grewcock’s Sportive Lemur",
+"Red-capped Tamarin",
 20
 ],
 [
-"AEECL's sportive lemur",
+"Bornean slow loris",
 20
 ],
 [
-"Antafia sportive lemur",
+"Bornean Slow Loris",
 20
 ],
 [
-"Antafia Sportive Lemur",
+"Philippine Slow Loris",
 20
 ],
 [
-"Antafia sportive lemur or red-shouldered sportive lemur",
+"Rusty-gray Lesser Bamboo Lemur",
+20
+],
+[
+"Southern Gray Bamboo Lemur",
+20
+],
+[
+"Southern Grey Bamboo Lemur",
+20
+],
+[
+"Southern Lesser Bamboo Lemur",
 20
 ],
 [
@@ -5256,66 +5264,6 @@
 20
 ],
 [
-"Thollon's Red Colobus",
-20
-],
-[
-"Tshuapa Red Colobus",
-20
-],
-[
-"Silvery Greater Galago",
-19
-],
-[
-"Antafondro Mouse Lemur",
-19
-],
-[
-"Margot Marsh's Mouse Lemur",
-19
-],
-[
-"Margot Marsh’s Mouse Lemur",
-19
-],
-[
-"Pale Fork-crowned Lemur",
-19
-],
-[
-"Pale fork-marked lemur",
-19
-],
-[
-"Pale Fork-marked Lemur",
-19
-],
-[
-"Western Fork-marked Lemur",
-19
-],
-[
-"Simmons' Mouse Lemur",
-19
-],
-[
-"Simmons’s Mouse Lemur",
-19
-],
-[
-"Betsileo Sportive Lemur",
-19
-],
-[
-"Ankarana sportive lemur",
-19
-],
-[
-"Ankarana Sportive Lemur",
-19
-],
-[
 "Holland's Sportive Lemur",
 19
 ],
@@ -5328,11 +5276,23 @@
 19
 ],
 [
-"Hubbard's Sportive Lemur",
+"Indochinese Black Langur",
+19
+],
+[
+"Indochinese Black Leaf Monkey",
+19
+],
+[
+"Silvery Greater Galago",
 19
 ],
 [
 "Hubbard’s sportive lemur",
+19
+],
+[
+"Hubbard's Sportive Lemur",
 19
 ],
 [
@@ -5352,6 +5312,18 @@
 19
 ],
 [
+"Simmons' Mouse Lemur",
+19
+],
+[
+"Simmons’s Mouse Lemur",
+19
+],
+[
+"Rio Purus Titi",
+19
+],
+[
 "Widow Monkey",
 19
 ],
@@ -5360,35 +5332,55 @@
 19
 ],
 [
-"Rio Purus Titi",
-19
-],
-[
 "Western Chimpanzee",
 19
 ],
 [
-"Indochinese Black Langur",
+"Ankarana sportive lemur",
 19
 ],
 [
-"Indochinese Black Leaf Monkey",
+"Ankarana Sportive Lemur",
 19
 ],
 [
-"Masoala Sportive Lemur",
+"Pale Fork-crowned Lemur",
+19
+],
+[
+"Pale fork-marked lemur",
+19
+],
+[
+"Pale Fork-marked Lemur",
+19
+],
+[
+"Western Fork-marked Lemur",
+19
+],
+[
+"Betsileo Sportive Lemur",
+19
+],
+[
+"Antafondro Mouse Lemur",
+19
+],
+[
+"Margot Marsh's Mouse Lemur",
+19
+],
+[
+"Margot Marsh’s Mouse Lemur",
+19
+],
+[
+"Uganda Mangabey",
 18
 ],
 [
-"Scott's Sportive Lemur",
-18
-],
-[
-"Scott’s Sportive Lemur",
-18
-],
-[
-"Wright's Sportive Lemur",
+"Opdenbosch's Mangabey",
 18
 ],
 [
@@ -5412,11 +5404,11 @@
 18
 ],
 [
-"Pariente's Fork-marked Lemur",
+"Pariente’s Fork-crowned Lemur",
 18
 ],
 [
-"Pariente’s Fork-crowned Lemur",
+"Pariente's Fork-marked Lemur",
 18
 ],
 [
@@ -5424,11 +5416,11 @@
 18
 ],
 [
-"Petter's Sportive Lemur",
+"Petter’s sportive lemur",
 18
 ],
 [
-"Petter’s sportive lemur",
+"Petter's Sportive Lemur",
 18
 ],
 [
@@ -5452,14 +5444,6 @@
 18
 ],
 [
-"Uganda Mangabey",
-18
-],
-[
-"Opdenbosch's Mangabey",
-18
-],
-[
 "Azaras’s Capuchin",
 18
 ],
@@ -5468,12 +5452,36 @@
 18
 ],
 [
+"Eastern Chimpanzee",
+18
+],
+[
 "Niger Delta Red Colobus",
 18
 ],
 [
-"Eastern Chimpanzee",
+"Wright's Sportive Lemur",
 18
+],
+[
+"Masoala Sportive Lemur",
+18
+],
+[
+"Scott's Sportive Lemur",
+18
+],
+[
+"Scott’s Sportive Lemur",
+18
+],
+[
+"Otto's Sportive Lemur",
+17
+],
+[
+"Otto’s Sportive Lemur",
+17
 ],
 [
 "Golden Palace Monkey",
@@ -5489,14 +5497,6 @@
 ],
 [
 "Madidi Titi Monkey",
-17
-],
-[
-"Otto's Sportive Lemur",
-17
-],
-[
-"Otto’s Sportive Lemur",
 17
 ],
 [
@@ -5528,6 +5528,18 @@
 16
 ],
 [
+"Marohita mouse lemur",
+15
+],
+[
+"Marohita Mouse Lemur",
+15
+],
+[
+"Vanzolini’s Bald-faced Saki",
+15
+],
+[
 "Andean Saddle-back Tamarin",
 15
 ],
@@ -5542,26 +5554,6 @@
 [
 "Saddleback Tamarin",
 15
-],
-[
-"Vanzolini’s Bald-faced Saki",
-15
-],
-[
-"Marohita mouse lemur",
-15
-],
-[
-"Marohita Mouse Lemur",
-15
-],
-[
-"eastern pygmy marmoset",
-14
-],
-[
-"Río Cesar white-fronted capuchin",
-14
 ],
 [
 "Annamese langur",
@@ -5580,8 +5572,12 @@
 14
 ],
 [
-"Jamaican Monkey",
-13
+"Río Cesar white-fronted capuchin",
+14
+],
+[
+"eastern pygmy marmoset",
+14
 ],
 [
 "brown weeper capuchin",
@@ -5589,6 +5585,10 @@
 ],
 [
 "Venezuelan brown capuchin",
+13
+],
+[
+"Jamaican Monkey",
 13
 ],
 [
@@ -5600,7 +5600,7 @@
 12
 ],
 [
-"munduruku marmoset",
+"Bouvier’s Red Colobus",
 12
 ],
 [
@@ -5608,7 +5608,7 @@
 12
 ],
 [
-"Bouvier’s Red Colobus",
+"munduruku marmoset",
 12
 ]
 ]

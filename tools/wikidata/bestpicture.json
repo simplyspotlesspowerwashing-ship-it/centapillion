@@ -1,5 +1,9 @@
 [
 [
+"Gladiator",
+108
+],
+[
 "Casablanca",
 107
 ],
@@ -12,20 +16,84 @@
 102
 ],
 [
+"The Lord of the Rings: The Return of the King",
+93
+],
+[
+"Slumdog Millionaire",
+90
+],
+[
+"A Beautiful Mind",
+87
+],
+[
+"Oppenheimer",
+81
+],
+[
+"The Departed",
+81
+],
+[
 "Parasite",
 81
+],
+[
+"The King's Speech",
+79
+],
+[
+"No Country for Old Men",
+79
+],
+[
+"American Beauty",
+79
 ],
 [
 "Lawrence of Arabia",
 78
 ],
 [
+"12 Years a Slave",
+78
+],
+[
+"Birdman",
+74
+],
+[
+"The Artist",
+73
+],
+[
+"Shakespeare in Love",
+72
+],
+[
+"Million Dollar Baby",
+72
+],
+[
 "The Bridge on the River Kwai",
 72
 ],
 [
+"The Shape of Water",
+71
+],
+[
+"Green Book",
+71
+],
+[
 "The Sound of Music",
 71
+],
+[
+"The Hurt Locker",
+69
 ],
 [
 "All About Eve",
@@ -34,6 +102,26 @@
 [
 "The Last Emperor",
 66
+],
+[
+"Annie Hall",
+65
+],
+[
+"Argo",
+65
+],
+[
+"Spotlight",
+64
+],
+[
+"Chicago",
+64
+],
+[
+"Crash",
+63
 ],
 [
 "Kramer vs. Kramer",
@@ -60,7 +148,7 @@
 61
 ],
 [
-"Everything Everywhere All at Once",
+"Moonlight",
 60
 ],
 [
@@ -68,11 +156,15 @@
 60
 ],
 [
-"Midnight Cowboy",
-59
+"Everything Everywhere All at Once",
+60
 ],
 [
 "It Happened One Night",
+59
+],
+[
+"Midnight Cowboy",
 59
 ],
 [
@@ -80,7 +172,7 @@
 58
 ],
 [
-"West Side Story",
+"Patton",
 57
 ],
 [
@@ -92,11 +184,15 @@
 57
 ],
 [
-"In the Heat of the Night",
-56
+"West Side Story",
+57
 ],
 [
 "Wings",
+56
+],
+[
+"In the Heat of the Night",
 56
 ],
 [
@@ -104,7 +200,11 @@
 55
 ],
 [
-"The Broadway Melody",
+"The Sting",
+55
+],
+[
+"One Battle After Another",
 54
 ],
 [
@@ -112,11 +212,11 @@
 54
 ],
 [
-"The Best Years of Our Lives",
-53
+"The Broadway Melody",
+54
 ],
 [
-"The Lost Weekend",
+"Anora",
 53
 ],
 [
@@ -124,8 +224,24 @@
 53
 ],
 [
+"The Lost Weekend",
+53
+],
+[
+"Nomadland",
+53
+],
+[
+"The Best Years of Our Lives",
+53
+],
+[
 "Mrs. Miniver",
 52
+],
+[
+"Cimarron",
+51
 ],
 [
 "Around the World in 80 Days",
@@ -136,14 +252,6 @@
 51
 ],
 [
-"Cimarron",
-51
-],
-[
-"The Greatest Show on Earth",
-50
-],
-[
 "Going My Way",
 50
 ],
@@ -152,11 +260,15 @@
 50
 ],
 [
-"The Life of Emile Zola",
-49
+"The Greatest Show on Earth",
+50
 ],
 [
 "Marty",
+49
+],
+[
+"The Life of Emile Zola",
 49
 ],
 [
@@ -166,6 +278,10 @@
 [
 "Cavalcade",
 48
+],
+[
+"CODA",
+47
 ],
 [
 "Tom Jones",

@@ -40,19 +40,19 @@
 22
 ],
 [
-"Túró Rudi",
-17
-],
-[
 "Kinder Chocolate",
 17
 ],
 [
-"Lion Bar",
-14
+"Túró Rudi",
+17
 ],
 [
 "Nestlé Crunch",
+14
+],
+[
+"Lion Bar",
 14
 ],
 [
@@ -68,15 +68,15 @@
 12
 ],
 [
-"Balisto",
-11
-],
-[
 "Dove",
 11
 ],
 [
-"Kvikk Lunsj",
+"Balisto",
+11
+],
+[
+"Galaxy",
 10
 ],
 [
@@ -88,7 +88,7 @@
 10
 ],
 [
-"Galaxy",
+"Kvikk Lunsj",
 10
 ],
 [
@@ -108,10 +108,6 @@
 7
 ],
 [
-"Flake",
-6
-],
-[
 "cat tongues",
 6
 ],
@@ -121,6 +117,10 @@
 ],
 [
 "Oh Henry!",
+6
+],
+[
+"Flake",
 6
 ],
 [
@@ -144,6 +144,10 @@
 6
 ],
 [
+"Geisha",
+5
+],
+[
 "Kofila",
 5
 ],
@@ -156,7 +160,7 @@
 5
 ],
 [
-"Tupla",
+"Topic",
 5
 ],
 [
@@ -164,11 +168,7 @@
 5
 ],
 [
-"Topic",
-5
-],
-[
-"Geisha",
+"Tupla",
 5
 ],
 [
@@ -176,19 +176,11 @@
 5
 ],
 [
-"Caramello Koala",
+"Duplo",
 4
 ],
 [
 "Sport slice",
-4
-],
-[
-"Bar One",
-4
-],
-[
-"Duplo",
 4
 ],
 [
@@ -200,7 +192,19 @@
 4
 ],
 [
+"Bar One",
+4
+],
+[
 "Troika",
+4
+],
+[
+"Caramello Koala",
+4
+],
+[
+"Curly Wurly",
 4
 ],
 [
@@ -209,10 +213,6 @@
 ],
 [
 "Nero",
-4
-],
-[
-"Curly Wurly",
 4
 ],
 [
@@ -228,7 +228,7 @@
 3
 ],
 [
-"Big Turk",
+"Sin Parar",
 3
 ],
 [
@@ -236,35 +236,19 @@
 3
 ],
 [
-"Cadbury Mr. Big",
-3
-],
-[
 "Princessa",
 3
 ],
 [
+"Big Turk",
+3
+],
+[
+"Cadbury Mr. Big",
+3
+],
+[
 "Carlos V chocolate bar",
-3
-],
-[
-"Sin Parar",
-3
-],
-[
-"Mekupelet",
-3
-],
-[
-"Moro",
-3
-],
-[
-"Twirl",
-3
-],
-[
-"Reese's Sticks",
 3
 ],
 [
@@ -278,6 +262,74 @@
 [
 "Kismet",
 3
+],
+[
+"Mekupelet",
+3
+],
+[
+"Moro",
+3
+],
+[
+"Reese's Sticks",
+3
+],
+[
+"Twirl",
+3
+],
+[
+"Soho",
+2
+],
+[
+"Da-Capo",
+2
+],
+[
+"Kif Kef",
+2
+],
+[
+"Egozi",
+2
+],
+[
+"Twist",
+2
+],
+[
+"Gullbrød",
+2
+],
+[
+"Mokkatrøffel",
+2
+],
+[
+"Kinder Maxi King",
+2
+],
+[
+"Yogurette",
+2
+],
+[
+"Animal Bar",
+2
+],
+[
+"Ta'ami",
+2
+],
+[
+"Marathon",
+2
+],
+[
+"Crispo",
+2
 ],
 [
 "Bournville",
@@ -296,59 +348,11 @@
 2
 ],
 [
-"Twist",
-2
-],
-[
-"Ta'ami",
-2
-],
-[
-"Egozi",
-2
-],
-[
-"Kinder Maxi King",
-2
-],
-[
-"Yogurette",
-2
-],
-[
-"Marathon",
-2
-],
-[
-"Da-Capo",
-2
-],
-[
-"Animal Bar",
-2
-],
-[
-"Kif Kef",
-2
-],
-[
-"Gullbrød",
-2
-],
-[
-"Mokkatrøffel",
+"Crachi",
 2
 ],
 [
 "Crisp",
-2
-],
-[
-"Crispo",
-2
-],
-[
-"Crachi",
 2
 ],
 [
@@ -357,10 +361,6 @@
 ],
 [
 "Flyte",
-2
-],
-[
-"Soho",
 2
 ],
 [

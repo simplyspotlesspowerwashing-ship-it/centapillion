@@ -73,7 +73,7 @@
     { id: "bird", q: "Name a bird", t: {
       p: "Eagle|Robin|Pigeon|Crow|Penguin|Owl|Parrot|Chicken",
       c: "Dodo|Kakapo|Blue-Footed Booby=blue footed booby=booby",
-      s: "Sparrow|Hawk|Duck|Swan|Flamingo|Ostrich|Peacock=peafowl|Hummingbird|Seagull=gull|Pelican|Blue Jay|Cardinal|Woodpecker|Falcon|Vulture|Goose|Turkey|Toucan|Crane|Stork|Heron|Emu|Kiwi|Canary|Raven|Parakeet|Finch|Dove|Magpie|Bald Eagle|Jay",
+      s: "Sparrow|Hawk|Duck|Swan|Flamingo|Ostrich|Peacock=peafowl|Hummingbird|Seagull=gull|Pelican|Blue Jay|Cardinal|Woodpecker|Falcon|Vulture|Goose|Turkey|Toucan|Crane|Stork|Heron|Emu|Kiwi|Canary|Raven|Parakeet|Finch|Dove|Magpie|Bald Eagle|Jay|Swift",
       r: "Albatross|Puffin|Kingfisher|Cockatoo|Macaw|Condor|Osprey|Swallow|Starling|Wren|Warbler|Nightingale|Lark|Oriole|Egret|Ibis|Cormorant|Kestrel|Quail|Pheasant|Grouse|Sandpiper|Loon|Mockingbird|Roadrunner|Cassowary|Kookaburra|Hornbill|Budgie=budgerigar|Lovebird|Chickadee|Bluebird|Nuthatch|Mallard|Grebe",
       d: "Shoebill|Hoatzin|Potoo|Frigatebird|Secretary Bird|Lyrebird|Bowerbird|Quetzal|Oilbird|Kea|Takahe|Sunbittern|Wrybill|Hammerkop|Jacana|Tragopan|Bee-Eater=bee eater|Oxpecker|Babbler|Dipper|Treecreeper|Godwit|Turnstone|Weka",
       k: "Satin Bowerbird::Decorates its nest with anything blue it can find." } },

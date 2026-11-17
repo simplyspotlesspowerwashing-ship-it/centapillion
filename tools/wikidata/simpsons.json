@@ -32,11 +32,11 @@
 38
 ],
 [
-"Moe Szyslak",
+"Ned Flanders",
 33
 ],
 [
-"Ned Flanders",
+"Moe Szyslak",
 33
 ],
 [
@@ -44,7 +44,7 @@
 31
 ],
 [
-"Krusty the Clown",
+"Barney Gumble",
 29
 ],
 [
@@ -52,11 +52,11 @@
 29
 ],
 [
-"Mayor Quimby",
+"Krusty the Clown",
 29
 ],
 [
-"Barney Gumble",
+"Mayor Quimby",
 29
 ],
 [
@@ -68,19 +68,19 @@
 28
 ],
 [
-"Principal Skinner",
-27
-],
-[
 "Sideshow Bob",
 27
 ],
 [
-"The Itchy & Scratchy Show",
+"Ralph Wiggum",
 27
 ],
 [
-"Ralph Wiggum",
+"Principal Skinner",
+27
+],
+[
+"The Itchy & Scratchy Show",
 27
 ],
 [
@@ -92,11 +92,11 @@
 26
 ],
 [
-"Troy McClure",
+"Waylon Smithers",
 25
 ],
 [
-"Waylon Smithers",
+"Troy McClure",
 25
 ],
 [
@@ -104,19 +104,19 @@
 25
 ],
 [
-"Groundskeeper Willie",
-25
-],
-[
 "Kwik-E-Mart",
 25
 ],
 [
-"Nelson Muntz",
-24
+"Groundskeeper Willie",
+25
 ],
 [
 "Hans Moleman",
+24
+],
+[
+"Nelson Muntz",
 24
 ],
 [
@@ -126,6 +126,14 @@
 [
 "Kent Brockman",
 23
+],
+[
+"Patty and Selma",
+22
+],
+[
+"Professor Frink",
+22
 ],
 [
 "Comic Book Guy",
@@ -148,19 +156,7 @@
 22
 ],
 [
-"Patty and Selma",
-22
-],
-[
-"Professor Frink",
-22
-],
-[
 "Fat Tony",
-21
-],
-[
-"Reverend Lovejoy",
 21
 ],
 [
@@ -168,11 +164,11 @@
 21
 ],
 [
-"Cletus Spuckler",
-20
+"Reverend Lovejoy",
+21
 ],
 [
-"Dr. Nick",
+"Cletus Spuckler",
 20
 ],
 [
@@ -180,8 +176,16 @@
 20
 ],
 [
+"Dr. Nick",
+20
+],
+[
 "Martin Prince",
 18
+],
+[
+"Rainier Wolfcastle",
+17
 ],
 [
 "The Simpsons' house",
@@ -192,11 +196,15 @@
 17
 ],
 [
-"Rainier Wolfcastle",
-17
+"Springfield Elementary School",
+16
 ],
 [
-"Herbert Powell",
+"Moe's Tavern",
+16
+],
+[
+"Maude Flanders",
 16
 ],
 [
@@ -208,24 +216,12 @@
 16
 ],
 [
+"Herbert Powell",
+16
+],
+[
 "Duffman",
 16
-],
-[
-"Maude Flanders",
-16
-],
-[
-"Moe's Tavern",
-16
-],
-[
-"Springfield Elementary School",
-16
-],
-[
-"Agnes Tamzarian",
-15
 ],
 [
 "Springfield Nuclear Power Plant",
@@ -236,15 +232,19 @@
 15
 ],
 [
+"Agnes Tamzarian",
+15
+],
+[
+"Captain Horatio McCallister",
+14
+],
+[
 "Sideshow Mel",
 14
 ],
 [
 "Shelbyville",
-14
-],
-[
-"Captain Horatio McCallister",
 14
 ],
 [
@@ -260,6 +260,10 @@
 13
 ],
 [
+"Snowball",
+12
+],
+[
 "Bumblebee Man",
 12
 ],
@@ -269,10 +273,6 @@
 ],
 [
 "Kirk Van Houten",
-12
-],
-[
-"Snowball",
 12
 ],
 [
@@ -288,12 +288,16 @@
 11
 ],
 [
+"Flanders family",
+11
+],
+[
 "Selma Bouvier",
 11
 ],
 [
-"Flanders family",
-11
+"Luann Van Houten",
+10
 ],
 [
 "Helen Lovejoy",
@@ -304,19 +308,11 @@
 10
 ],
 [
-"Luann Van Houten",
-10
-],
-[
-"Dolph",
-9
-],
-[
-"Lunchlady Doris",
-9
-],
-[
 "Sherri and Terri",
+9
+],
+[
+"Van Houten family",
 9
 ],
 [
@@ -336,12 +332,12 @@
 9
 ],
 [
-"Van Houten family",
+"Dolph",
 9
 ],
 [
-"Frank Grimes",
-8
+"Lunchlady Doris",
+9
 ],
 [
 "Brandine Spuckler",
@@ -356,12 +352,8 @@
 8
 ],
 [
-"Hugo Simpson",
-7
-],
-[
-"Üter Zörker",
-7
+"Frank Grimes",
+8
 ],
 [
 "Tomacco",
@@ -372,15 +364,19 @@
 7
 ],
 [
+"Üter Zörker",
+7
+],
+[
+"Hugo Simpson",
+7
+],
+[
 "Lurleen Lumpkin",
 6
 ],
 [
 "Rabbi Hyman Krustofski",
-6
-],
-[
-"Eddie and Lou",
 6
 ],
 [
@@ -396,6 +392,10 @@
 6
 ],
 [
+"Eddie and Lou",
+6
+],
+[
 "Crazy Cat Lady",
 5
 ],
@@ -404,11 +404,19 @@
 5
 ],
 [
-"list of one-time The Simpsons characters",
+"Manjula Nahasapeemapetilon",
 5
 ],
 [
 "Abbie Simpson",
+5
+],
+[
+"Plopper",
+5
+],
+[
+"list of one-time The Simpsons characters",
 5
 ],
 [
@@ -420,7 +428,7 @@
 5
 ],
 [
-"Plopper",
+"Cecil Terwilliger",
 5
 ],
 [
@@ -428,27 +436,11 @@
 5
 ],
 [
-"Cecil Terwilliger",
-5
-],
-[
-"Manjula Nahasapeemapetilon",
-5
-],
-[
-"Krusty Burger",
-4
-],
-[
 "Dewey Largo",
 4
 ],
 [
 "Herman Hermann",
-4
-],
-[
-"Bernice Hibbert",
 4
 ],
 [
@@ -460,15 +452,7 @@
 4
 ],
 [
-"list of animals in the Simpsons",
-4
-],
-[
 "Luigi Risotto",
-4
-],
-[
-"Constance Harm",
 4
 ],
 [
@@ -476,20 +460,28 @@
 4
 ],
 [
-"Artie Ziff",
-4
-],
-[
 "Sarah Wiggum",
 4
 ],
 [
-"Yuma Hickman",
-3
+"Artie Ziff",
+4
 ],
 [
-"Springfield Mafia",
-3
+"Constance Harm",
+4
+],
+[
+"list of animals in the Simpsons",
+4
+],
+[
+"Krusty Burger",
+4
+],
+[
+"Bernice Hibbert",
+4
 ],
 [
 "Rex Banner",
@@ -500,15 +492,31 @@
 3
 ],
 [
-"Allison Taylor",
+"Larry & Sam",
 3
 ],
 [
-"Blinky",
+"Baby Gerald",
 3
 ],
 [
 "Lyle Lanley",
+3
+],
+[
+"Gino Terwilliger",
+3
+],
+[
+"Database",
+3
+],
+[
+"Yes Guy",
+3
+],
+[
+"McBain",
 3
 ],
 [
@@ -528,6 +536,14 @@
 3
 ],
 [
+"Inanimate carbon rod",
+3
+],
+[
+"Rod Flanders",
+3
+],
+[
 "Todd Flanders",
 3
 ],
@@ -536,19 +552,7 @@
 3
 ],
 [
-"Hank Scorpio",
-3
-],
-[
 "Lindsey Naegle",
-3
-],
-[
-"Larry & Sam",
-3
-],
-[
-"Shelbyville Manhattan",
 3
 ],
 [
@@ -556,23 +560,7 @@
 3
 ],
 [
-"Gino Terwilliger",
-3
-],
-[
-"Yes Guy",
-3
-],
-[
-"Database",
-3
-],
-[
 "Springfield Retirement Castle",
-3
-],
-[
-"Baby Gerald",
 3
 ],
 [
@@ -580,15 +568,27 @@
 3
 ],
 [
-"McBain",
+"Yuma Hickman",
 3
 ],
 [
-"Rod Flanders",
+"Springfield Mafia",
 3
 ],
 [
-"Inanimate carbon rod",
+"Blinky",
+3
+],
+[
+"Hank Scorpio",
+3
+],
+[
+"Shelbyville Manhattan",
+3
+],
+[
+"Allison Taylor",
 3
 ],
 [
@@ -600,7 +600,91 @@
 2
 ],
 [
-"Darcy",
+"Wiseguy",
+2
+],
+[
+"list of Springfield Elementary School students",
+2
+],
+[
+"Buzz Cola",
+2
+],
+[
+"Larry Burns",
+2
+],
+[
+"Mr. Bergstrom",
+2
+],
+[
+"Opal",
+2
+],
+[
+"Doctor Colossus",
+2
+],
+[
+"Lewis Clark",
+2
+],
+[
+"Ruth Powers",
+2
+],
+[
+"Dr. J. Loren Pryor",
+2
+],
+[
+"Comic Book Gay",
+2
+],
+[
+"Scott Christian",
+2
+],
+[
+"Gina Vendetti",
+2
+],
+[
+"Beatrice Simmons",
+2
+],
+[
+"Larry Dalrymple",
+2
+],
+[
+"Shauna Chalmers",
+2
+],
+[
+"Laura Powers",
+2
+],
+[
+"Mrs. Muntz",
+2
+],
+[
+"Arnie Gumble",
+2
+],
+[
+"State Comptroller Atkins",
+2
+],
+[
+"Charlie",
+2
+],
+[
+"Judge Snyder",
 2
 ],
 [
@@ -609,6 +693,10 @@
 ],
 [
 "Asa Phelps",
+2
+],
+[
+"Darcy",
 2
 ],
 [
@@ -648,139 +736,7 @@
 2
 ],
 [
-"Bill Simpson",
-2
-],
-[
-"Mary Bailey",
-2
-],
-[
-"Malibu Stacy",
-2
-],
-[
-"North Haverbrook",
-2
-],
-[
-"Ogdenville",
-2
-],
-[
-"Snowball I",
-2
-],
-[
-"Scott Christian",
-2
-],
-[
-"Mr. Bergstrom",
-2
-],
-[
-"Judge Snyder",
-2
-],
-[
-"State Comptroller Atkins",
-2
-],
-[
-"Larry Burns",
-2
-],
-[
-"Dr. J. Loren Pryor",
-2
-],
-[
-"Comic Book Gay",
-2
-],
-[
-"Ruth Powers",
-2
-],
-[
-"Gina Vendetti",
-2
-],
-[
-"Beatrice Simmons",
-2
-],
-[
-"Larry Dalrymple",
-2
-],
-[
-"Shauna Chalmers",
-2
-],
-[
-"Laura Powers",
-2
-],
-[
-"Mrs. Muntz",
-2
-],
-[
-"Arnie Gumble",
-2
-],
-[
-"Opal",
-2
-],
-[
-"Charlie",
-2
-],
-[
-"Scratchy",
-2
-],
-[
-"Sophie Krustofsky",
-2
-],
-[
-"Itchy",
-2
-],
-[
-"Fallout Boy",
-2
-],
-[
-"Wiseguy",
-2
-],
-[
-"Canyonero",
-2
-],
-[
-"Doctor Colossus",
-2
-],
-[
-"Lewis Clark",
-2
-],
-[
-"list of Springfield Elementary School students",
-2
-],
-[
-"Buzz Cola",
-2
-],
-[
-"Terwilliger family",
+"Bouvier family",
 2
 ],
 [
@@ -788,15 +744,11 @@
 2
 ],
 [
-"Lovejoy family",
-2
-],
-[
 "Wiggum family",
 2
 ],
 [
-"Bouvier family",
+"Lovejoy family",
 2
 ],
 [
@@ -808,19 +760,59 @@
 2
 ],
 [
-"The Winfields",
-1
+"Canyonero",
+2
 ],
 [
-"Principal Dondelinger",
+"Terwilliger family",
+2
+],
+[
+"Snowball I",
+2
+],
+[
+"Mary Bailey",
+2
+],
+[
+"Sophie Krustofsky",
+2
+],
+[
+"Itchy",
+2
+],
+[
+"Scratchy",
+2
+],
+[
+"Fallout Boy",
+2
+],
+[
+"North Haverbrook",
+2
+],
+[
+"Ogdenville",
+2
+],
+[
+"Malibu Stacy",
+2
+],
+[
+"Bill Simpson",
+2
+],
+[
+"Springfield's state",
 1
 ],
 [
 "Edwina",
-1
-],
-[
-"Capital City Goofball",
 1
 ],
 [
@@ -836,107 +828,19 @@
 1
 ],
 [
-"Roy",
+"Ms. Albright",
 1
 ],
 [
-"Gareth Prince",
+"Leslie Robin Swisher",
 1
 ],
 [
-"Gloria Prince",
+"Julio Franco",
 1
 ],
 [
-"Dieter Wolfcastle",
-1
-],
-[
-"Alaska Nebraska",
-1
-],
-[
-"Aristotle Amadopolis",
-1
-],
-[
-"Red Barclay",
-1
-],
-[
-"Señor Ding-Dong",
-1
-],
-[
-"Homer Glumplich",
-1
-],
-[
-"Steve Mobbs",
-1
-],
-[
-"Brad Goodman",
-1
-],
-[
-"Lyle McCarthy",
-1
-],
-[
-"Gloria",
-1
-],
-[
-"Quilloughby",
-1
-],
-[
-"Lucius Sweet",
-1
-],
-[
-"Dave Shutton",
-1
-],
-[
-"Dia-Betty",
-1
-],
-[
-"Audrey McConnell",
-1
-],
-[
-"Sebastian Cobb",
-1
-],
-[
-"Amber Simpson",
-1
-],
-[
-"Chase/Pyro",
-1
-],
-[
-"Guidopolis",
-1
-],
-[
-"Cypress Creek",
-1
-],
-[
-"Alex Whitney",
-1
-],
-[
-"Squishee",
-1
-],
-[
-"Guy Incognito",
+"Wendy Sage",
 1
 ],
 [
@@ -944,11 +848,31 @@
 1
 ],
 [
-"Homer and Marge Simpson",
+"Guy Incognito",
 1
 ],
 [
 "Sneed's Feed & Seed",
+1
+],
+[
+"Norbert Van Houten",
+1
+],
+[
+"Barney's Bowlarama",
+1
+],
+[
+"The Leftorium",
+1
+],
+[
+"The Krusty the Clown Show",
+1
+],
+[
+"Homer and Marge Simpson",
 1
 ],
 [
@@ -996,51 +920,99 @@
 1
 ],
 [
-"Ms. Albright",
-1
-],
-[
-"Leslie Robin Swisher",
-1
-],
-[
 "Ray Magini",
 1
 ],
 [
-"Norbert Van Houten",
+"Gareth Prince",
 1
 ],
 [
-"Barney's Bowlarama",
+"Gloria Prince",
 1
 ],
 [
-"The Leftorium",
+"Dieter Wolfcastle",
 1
 ],
 [
-"The Krusty the Clown Show",
+"Alaska Nebraska",
 1
 ],
 [
-"The Android's Dungeon",
+"Aristotle Amadopolis",
 1
 ],
 [
-"Wendy Sage",
+"Red Barclay",
 1
 ],
 [
-"Old Jewish Man",
+"Señor Ding-Dong",
 1
 ],
 [
-"Springfield's state",
+"Homer Glumplich",
 1
 ],
 [
-"Julio Franco",
+"Steve Mobbs",
+1
+],
+[
+"Roy",
+1
+],
+[
+"Brad Goodman",
+1
+],
+[
+"Lyle McCarthy",
+1
+],
+[
+"Quilloughby",
+1
+],
+[
+"Lucius Sweet",
+1
+],
+[
+"Dave Shutton",
+1
+],
+[
+"Dia-Betty",
+1
+],
+[
+"Audrey McConnell",
+1
+],
+[
+"Gloria",
+1
+],
+[
+"Sebastian Cobb",
+1
+],
+[
+"Chase/Pyro",
+1
+],
+[
+"Amber Simpson",
+1
+],
+[
+"The Winfields",
+1
+],
+[
+"Principal Dondelinger",
 1
 ],
 [
@@ -1048,7 +1020,35 @@
 1
 ],
 [
-"Luke Perry",
+"The Android's Dungeon",
+1
+],
+[
+"Squishee",
+1
+],
+[
+"Alex Whitney",
+1
+],
+[
+"Cypress Creek",
+1
+],
+[
+"Guidopolis",
+1
+],
+[
+"Old Jewish Man",
+1
+],
+[
+"Capital City Goofball",
+1
+],
+[
+"I. P. Freely",
 0
 ],
 [
@@ -1056,51 +1056,167 @@
 0
 ],
 [
-"Arthur Fortune",
+"Springfield County",
 0
 ],
 [
-"FBI Profiler",
+"flag of the fictional state containing Springfield",
 0
 ],
 [
-"Judge Julie",
+"Seal of Springfield's State",
 0
 ],
 [
-"Maisie MacWeldon",
+"Alvarine Gurney",
 0
 ],
 [
-"Gary",
+"Janet Reno",
 0
 ],
 [
-"Doug",
+"She-Biscuit",
 0
 ],
 [
-"Greg",
+"Jacques Strap",
 0
 ],
 [
-"Jasper's son",
+"Al Coholic",
 0
 ],
 [
-"Jasper's grandson",
+"Oliver Klozoff",
 0
 ],
 [
-"Jasper's unborn son",
+"Seymour Butz",
 0
 ],
 [
-"Thad Parkour",
+"Homer Sexual",
 0
 ],
 [
-"Diggs",
+"Mike Rotch",
+0
+],
+[
+"I'm a stupid moron with an ugly face and a big butt and my butt smells and I like to kiss my own butt",
+0
+],
+[
+"Man Getting Hit by Football",
+0
+],
+[
+"Skinner's House",
+0
+],
+[
+"Bart Simpson's t-shirt",
+0
+],
+[
+"Bart Simpson's shorts",
+0
+],
+[
+"Lisa Simpson's saxophone",
+0
+],
+[
+"Smarch",
+0
+],
+[
+"Marcia Princess",
+0
+],
+[
+"Miss Viola",
+0
+],
+[
+"Candace",
+0
+],
+[
+"Evelyn",
+0
+],
+[
+"Mrs. Risotto",
+0
+],
+[
+"Lady Gaga",
+0
+],
+[
+"Springfield Shopper",
+0
+],
+[
+"Johnny Newspaperseed",
+0
+],
+[
+"Leopold",
+0
+],
+[
+"Springfield International Airport",
+0
+],
+[
+"Persephone Odair",
+0
+],
+[
+"Proctorville",
+0
+],
+[
+"Grand Theft Walrus",
+0
+],
+[
+"Señor Spielbergo",
+0
+],
+[
+"Earth",
+0
+],
+[
+"Sophia Mussolini",
+0
+],
+[
+"Amber Duffman",
+0
+],
+[
+"Collectible Pants Dude",
+0
+],
+[
+"Walt Warren",
+0
+],
+[
+"Sam",
+0
+],
+[
+"Madam Wu",
+0
+],
+[
+"Mrs. Smithers",
 0
 ],
 [
@@ -1113,26 +1229,6 @@
 ],
 [
 "Royce Lumpkin",
-0
-],
-[
-"Hubert Wong",
-0
-],
-[
-"Erin",
-0
-],
-[
-"Devin",
-0
-],
-[
-"Nigel",
-0
-],
-[
-"Asa",
 0
 ],
 [
@@ -1164,14 +1260,6 @@
 0
 ],
 [
-"John",
-0
-],
-[
-"Vidalia",
-0
-],
-[
 "Chazz Busby",
 0
 ],
@@ -1188,15 +1276,11 @@
 0
 ],
 [
-"Ashley Grant",
-0
-],
-[
 "Ms. Cantwell",
 0
 ],
 [
-"Gaby",
+"Diggs",
 0
 ],
 [
@@ -1213,6 +1297,14 @@
 ],
 [
 "Ms. York",
+0
+],
+[
+"Erin",
+0
+],
+[
+"Gaby",
 0
 ],
 [
@@ -1240,11 +1332,19 @@
 0
 ],
 [
+"Nigel",
+0
+],
+[
 "Nigel's wife",
 0
 ],
 [
 "Mason Fairbanks",
+0
+],
+[
+"John",
 0
 ],
 [
@@ -1268,6 +1368,14 @@
 0
 ],
 [
+"Vidalia",
+0
+],
+[
+"Devin",
+0
+],
+[
 "Baba Branka",
 0
 ],
@@ -1276,7 +1384,23 @@
 0
 ],
 [
+"Hubert Wong",
+0
+],
+[
 "Betsy Bidwell",
+0
+],
+[
+"Gary",
+0
+],
+[
+"Doug",
+0
+],
+[
+"Benjamin",
 0
 ],
 [
@@ -1292,7 +1416,15 @@
 0
 ],
 [
+"Asa",
+0
+],
+[
 "L.T. Smash",
+0
+],
+[
+"Greg",
 0
 ],
 [
@@ -1304,103 +1436,43 @@
 0
 ],
 [
-"Benjamin",
+"Arthur Fortune",
 0
 ],
 [
-"Brockway",
+"FBI Profiler",
 0
 ],
 [
-"Grand Theft Walrus",
+"Judge Julie",
 0
 ],
 [
-"Earth",
+"Maisie MacWeldon",
 0
 ],
 [
-"Marcia Princess",
+"Ashley Grant",
 0
 ],
 [
-"Miss Viola",
+"Jasper's son",
 0
 ],
 [
-"Candace",
+"Jasper's grandson",
 0
 ],
 [
-"Lady Gaga",
+"Jasper's unborn son",
 0
 ],
 [
-"Mrs. Risotto",
+"Thad Parkour",
 0
 ],
 [
-"Persephone Odair",
-0
-],
-[
-"Sophia Mussolini",
-0
-],
-[
-"Johnny Newspaperseed",
-0
-],
-[
-"Springfield Shopper",
-0
-],
-[
-"Proctorville",
-0
-],
-[
-"Evelyn",
-0
-],
-[
-"Man Getting Hit by Football",
-0
-],
-[
-"Skinner's House",
-0
-],
-[
-"Bart Simpson's t-shirt",
-0
-],
-[
-"Bart Simpson's shorts",
-0
-],
-[
-"Lisa Simpson's saxophone",
-0
-],
-[
-"Amber Duffman",
-0
-],
-[
-"Leopold",
-0
-],
-[
-"Collectible Pants Dude",
-0
-],
-[
-"Smarch",
-0
-],
-[
-"Princess Kashmir",
+"Luke Perry",
 0
 ],
 [
@@ -1408,11 +1480,7 @@
 0
 ],
 [
-"Legs",
-0
-],
-[
-"Louie",
+"Brockway",
 0
 ],
 [
@@ -1420,15 +1488,15 @@
 0
 ],
 [
-"Apu Nahasapeemapetilon Sr.",
-0
-],
-[
 "Kavi Nahasapeemapetilon",
 0
 ],
 [
-"Jay Nahasapeemapetilon",
+"Apu Nahasapeemapetilon Sr.",
+0
+],
+[
+"Tikku Nahasapeemapetilon",
 0
 ],
 [
@@ -1436,7 +1504,11 @@
 0
 ],
 [
-"Tikku Nahasapeemapetilon",
+"Jay Nahasapeemapetilon",
+0
+],
+[
+"Princess Kashmir",
 0
 ],
 [
@@ -1448,35 +1520,15 @@
 0
 ],
 [
-"Madam Wu",
+"Legs",
 0
 ],
 [
-"Mrs. Smithers",
+"Louie",
 0
 ],
 [
-"Sam",
-0
-],
-[
-"Walt Warren",
-0
-],
-[
-"Springfield International Airport",
-0
-],
-[
-"Springfield Police Department",
-0
-],
-[
-"flag of the fictional state containing Springfield",
-0
-],
-[
-"Seal of Springfield's State",
+"Mr. Teeny",
 0
 ],
 [
@@ -1488,19 +1540,19 @@
 0
 ],
 [
+"Springfield Police Department",
+0
+],
+[
 "Mina bin Laden",
 0
 ],
 [
-"Joseph",
-0
-],
-[
-"Alvarine Gurney",
-0
-],
-[
 "Jesus Christ",
+0
+],
+[
+"Joseph",
 0
 ],
 [
@@ -1512,63 +1564,15 @@
 0
 ],
 [
-"Janet Reno",
-0
-],
-[
-"Mr. Teeny",
-0
-],
-[
 "Storytown Village",
 0
 ],
 [
-"She-Biscuit",
-0
-],
-[
-"I. P. Freely",
-0
-],
-[
-"Al Coholic",
-0
-],
-[
-"Jacques Strap",
-0
-],
-[
-"Oliver Klozoff",
-0
-],
-[
-"Seymour Butz",
-0
-],
-[
-"Homer Sexual",
-0
-],
-[
-"Mike Rotch",
-0
-],
-[
-"I'm a stupid moron with an ugly face and a big butt and my butt smells and I like to kiss my own butt",
-0
-],
-[
-"Springfield County",
+"Springfield Heights Institute of Technology",
 0
 ],
 [
 "Sam Monroe",
-0
-],
-[
-"Springfield Heights Institute of Technology",
 0
 ],
 [
@@ -1577,10 +1581,6 @@
 ],
 [
 "Mr. Monroe",
-0
-],
-[
-"Señor Spielbergo",
 0
 ]
 ]

@@ -88,19 +88,19 @@
 49
 ],
 [
-"Chihuahuan Desert",
-48
-],
-[
 "Judaean Desert",
 48
 ],
 [
-"Aralkum",
-47
+"Chihuahuan Desert",
+48
 ],
 [
 "Simpson Desert",
+47
+],
+[
+"Aralkum",
 47
 ],
 [
@@ -108,11 +108,11 @@
 46
 ],
 [
-"Ténéré desert",
+"Danakil Desert",
 44
 ],
 [
-"Danakil Desert",
+"Ténéré desert",
 44
 ],
 [
@@ -120,16 +120,12 @@
 42
 ],
 [
-"Tanami Desert",
-39
-],
-[
 "Betpak-Dala",
 39
 ],
 [
-"Badain Jaran Desert",
-38
+"Tanami Desert",
+39
 ],
 [
 "Great Basin Desert",
@@ -140,24 +136,24 @@
 38
 ],
 [
-"ad-Dahna Desert",
-37
+"Badain Jaran Desert",
+38
 ],
 [
 "Chalbi Desert",
 37
 ],
 [
-"Little Sandy Desert",
-34
+"ad-Dahna Desert",
+37
 ],
 [
 "Painted Desert",
 34
 ],
 [
-"Cholistan Desert",
-32
+"Little Sandy Desert",
+34
 ],
 [
 "Ordos Desert",
@@ -165,6 +161,10 @@
 ],
 [
 "Aral Karakum",
+32
+],
+[
+"Cholistan Desert",
 32
 ],
 [
@@ -180,16 +180,12 @@
 31
 ],
 [
-"Sechura Desert",
-31
-],
-[
 "Sakhir",
 31
 ],
 [
-"Colorado Desert",
-29
+"Sechura Desert",
+31
 ],
 [
 "Gurbantünggüt Desert",
@@ -197,6 +193,10 @@
 ],
 [
 "Registan Desert",
+29
+],
+[
+"Colorado Desert",
 29
 ],
 [
@@ -208,11 +208,11 @@
 27
 ],
 [
-"Black Rock Desert",
+"Great Salt Lake Desert",
 27
 ],
 [
-"Great Salt Lake Desert",
+"Black Rock Desert",
 27
 ],
 [
@@ -228,10 +228,6 @@
 25
 ],
 [
-"La Guajira Desert",
-24
-],
-[
 "Tengger Desert",
 24
 ],
@@ -240,12 +236,8 @@
 24
 ],
 [
-"Muyunkum Desert",
-23
-],
-[
-"Baja California Desert",
-23
+"La Guajira Desert",
+24
 ],
 [
 "Western Desert",
@@ -260,11 +252,15 @@
 23
 ],
 [
-"Médanos de Coro National Park",
-22
+"Muyunkum Desert",
+23
 ],
 [
-"Desert of Paran",
+"Baja California Desert",
+23
+],
+[
+"Médanos de Coro National Park",
 22
 ],
 [
@@ -276,11 +272,11 @@
 22
 ],
 [
-"Tanezrouft",
-21
+"Desert of Paran",
+22
 ],
 [
-"Kumtag Desert",
+"Tanezrouft",
 21
 ],
 [
@@ -288,8 +284,8 @@
 21
 ],
 [
-"Alvord Desert",
-20
+"Kumtag Desert",
+21
 ],
 [
 "Monte Desert",
@@ -300,15 +296,15 @@
 20
 ],
 [
-"Arctic desert",
+"Alvord Desert",
+20
+],
+[
+"Ramlat al-Sab`atayn",
 19
 ],
 [
 "Pedirka Desert",
-19
-],
-[
-"Ramlat al-Sab`atayn",
 19
 ],
 [
@@ -317,6 +313,10 @@
 ],
 [
 "Indus Valley desert",
+19
+],
+[
+"Arctic desert",
 19
 ],
 [
@@ -340,19 +340,19 @@
 17
 ],
 [
-"Carcross Desert",
-16
-],
-[
 "Kharan Desert",
 16
 ],
 [
-"Sprengisandur",
-15
+"Carcross Desert",
+16
 ],
 [
 "El Djouf",
+15
+],
+[
+"Sprengisandur",
 15
 ],
 [
@@ -360,19 +360,7 @@
 15
 ],
 [
-"Alashan",
-14
-],
-[
-"Murzuq Desert",
-14
-],
-[
 "Escalante Desert",
-14
-],
-[
-"Kaokoveld",
 14
 ],
 [
@@ -384,11 +372,19 @@
 14
 ],
 [
-"Coastal desert of Peru",
-13
+"Murzuq Desert",
+14
 ],
 [
-"Mu Us Desert",
+"Alashan",
+14
+],
+[
+"Kaokoveld",
+14
+],
+[
+"Coastal desert of Peru",
 13
 ],
 [
@@ -400,16 +396,8 @@
 13
 ],
 [
-"North Saharan steppe and woodlands",
-12
-],
-[
-"Harrat al-Sham",
-12
-],
-[
-"rangeland",
-12
+"Mu Us Desert",
+13
 ],
 [
 "Owyhee Desert",
@@ -420,15 +408,23 @@
 12
 ],
 [
-"Tule Desert",
+"rangeland",
+12
+],
+[
+"North Saharan steppe and woodlands",
+12
+],
+[
+"Harrat al-Sham",
+12
+],
+[
+"Siloli desert",
 11
 ],
 [
 "Yuha Desert",
-11
-],
-[
-"Siloli desert",
 11
 ],
 [
@@ -440,6 +436,22 @@
 11
 ],
 [
+"Tule Desert",
+11
+],
+[
+"Monegros Desert",
+10
+],
+[
+"Khongoryn Els",
+10
+],
+[
+"Smoke Creek Desert",
+10
+],
+[
 "Kazakh semi-desert",
 10
 ],
@@ -448,23 +460,7 @@
 10
 ],
 [
-"Smoke Creek Desert",
-10
-],
-[
-"Khongoryn Els",
-10
-],
-[
-"Monegros Desert",
-10
-],
-[
 "Jornada del Muerto",
-9
-],
-[
-"Talak",
 9
 ],
 [
@@ -476,27 +472,31 @@
 9
 ],
 [
-"Erg Admer",
-9
-],
-[
 "Zin Desert",
 9
 ],
 [
-"Central Asian northern desert",
-8
+"Talak",
+9
+],
+[
+"Erg Admer",
+9
 ],
 [
 "Tehuacán Valley matorral",
 8
 ],
 [
-"Khuzestan Plain",
+"Central Asian northern desert",
+8
+],
+[
+"Moçâmedes Desert",
 7
 ],
 [
-"Great American Desert",
+"Lompoul desert",
 7
 ],
 [
@@ -512,7 +512,11 @@
 7
 ],
 [
-"Moçâmedes Desert",
+"Great American Desert",
+7
+],
+[
+"Khuzestan Plain",
 7
 ],
 [
@@ -520,15 +524,11 @@
 7
 ],
 [
-"Lompoul desert",
-7
-],
-[
 "Arid Diagonal",
 6
 ],
 [
-"Tirari-Sturt stony desert",
+"Kachho",
 6
 ],
 [
@@ -540,12 +540,52 @@
 6
 ],
 [
+"Tirari-Sturt stony desert",
+6
+],
+[
 "Erg Tiffernine",
 6
 ],
 [
-"Kachho",
-6
+"Kumtag Shamo",
+5
+],
+[
+"Sinai Desert",
+5
+],
+[
+"Zhuankum",
+5
+],
+[
+"Calansho Desert",
+5
+],
+[
+"Hammada du Guir",
+5
+],
+[
+"Tamaulipan mezquital",
+5
+],
+[
+"Bogurar doi",
+5
+],
+[
+"Zhamankum",
+5
+],
+[
+"San Lucan xeric scrub",
+5
+],
+[
+"Sayhad",
+5
 ],
 [
 "Hulun Buir Shadi",
@@ -560,79 +600,11 @@
 5
 ],
 [
-"San Lucan xeric scrub",
-5
-],
-[
-"Sayhad",
-5
-],
-[
-"Tamaulipan mezquital",
-5
-],
-[
-"Zhamankum",
-5
-],
-[
-"Kumtag Shamo",
-5
-],
-[
-"Zhuankum",
-5
-],
-[
-"Calansho Desert",
-5
-],
-[
-"Bogurar doi",
-5
-],
-[
 "Agafay Desert",
 5
 ],
 [
-"Sinai Desert",
-5
-],
-[
-"Hammada du Guir",
-5
-],
-[
-"High Desert",
-4
-],
-[
-"Tonopah Desert",
-4
-],
-[
-"Rig-e Jenn",
-4
-],
-[
-"Gulf of California Xeric Scrub",
-4
-],
-[
-"Pacific desert",
-4
-],
-[
 "Ninety Mile Desert",
-4
-],
-[
-"Qoraqalpoq Cho‘li",
-4
-],
-[
-"Mælifellssandur",
 4
 ],
 [
@@ -640,11 +612,39 @@
 4
 ],
 [
-"Ḩismá Desert",
+"Mælifellssandur",
 4
 ],
 [
 "Geitlandshraun",
+4
+],
+[
+"Ḩismá Desert",
+4
+],
+[
+"Pacific desert",
+4
+],
+[
+"Gulf of California Xeric Scrub",
+4
+],
+[
+"High Desert",
+4
+],
+[
+"Rig-e Jenn",
+4
+],
+[
+"Tonopah Desert",
+4
+],
+[
+"Qoraqalpoq Cho‘li",
 4
 ]
 ]

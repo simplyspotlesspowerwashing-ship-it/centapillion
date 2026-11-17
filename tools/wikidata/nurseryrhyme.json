@@ -8,23 +8,23 @@
 19
 ],
 [
-"Row, Row, Row Your Boat",
-10
-],
-[
 "Little Bo-Peep",
 10
 ],
 [
-"Jack and Jill",
-9
+"Row, Row, Row Your Boat",
+10
 ],
 [
 "Johny Johny Yes Papa",
 9
 ],
 [
-"Three Blind Mice",
+"Jack and Jill",
+9
+],
+[
+"Es tanzt ein Bi-Ba-Butzemann",
 8
 ],
 [
@@ -32,7 +32,7 @@
 8
 ],
 [
-"Es tanzt ein Bi-Ba-Butzemann",
+"Three Blind Mice",
 8
 ],
 [
@@ -40,7 +40,7 @@
 8
 ],
 [
-"Sing a Song of Sixpence",
+"Here We Go Round the Mulberry Bush",
 7
 ],
 [
@@ -48,11 +48,7 @@
 7
 ],
 [
-"Little Jack Horner",
-7
-],
-[
-"Here We Go Round the Mulberry Bush",
+"Sing a Song of Sixpence",
 7
 ],
 [
@@ -64,19 +60,15 @@
 7
 ],
 [
+"Little Jack Horner",
+7
+],
+[
+"Pussy Cat Pussy Cat",
+6
+],
+[
 "Wee Willie Winkie",
-6
-],
-[
-"This Is the House That Jack Built",
-6
-],
-[
-"Monday's Child",
-6
-],
-[
-"Ladybird Ladybird",
 6
 ],
 [
@@ -84,15 +76,43 @@
 6
 ],
 [
-"Pussy Cat Pussy Cat",
+"Monday's Child",
 6
+],
+[
+"This Is the House That Jack Built",
+6
+],
+[
+"Ladybird Ladybird",
+6
+],
+[
+"One, Two, Buckle My Shoe",
+5
+],
+[
+"Old King Cole",
+5
 ],
 [
 "Berend Botje",
 5
 ],
 [
-"This Old Man",
+"Ding Dong Bell",
+5
+],
+[
+"Girls and Boys Come Out To Play",
+5
+],
+[
+"Little Tommy Tucker",
+5
+],
+[
+"Pat-a-cake, pat-a-cake, baker's man",
 5
 ],
 [
@@ -108,19 +128,7 @@
 5
 ],
 [
-"Little Tommy Tucker",
-5
-],
-[
-"Pat-a-cake, pat-a-cake, baker's man",
-5
-],
-[
-"Tre pepparkaksgubbar",
-5
-],
-[
-"One, Two, Buckle My Shoe",
+"This Old Man",
 5
 ],
 [
@@ -128,47 +136,19 @@
 5
 ],
 [
-"Ding Dong Bell",
+"Tre pepparkaksgubbar",
 5
 ],
 [
-"Girls and Boys Come Out To Play",
-5
-],
-[
-"Old King Cole",
-5
+"Hot Cross Buns",
+4
 ],
 [
 "Le Carillon de Vendôme",
 4
 ],
 [
-"Sticks and Stones",
-4
-],
-[
-"Peter Piper",
-4
-],
-[
-"See Saw Margery Daw",
-4
-],
-[
-"This Little Piggy",
-4
-],
-[
-"The Queen of Hearts",
-4
-],
-[
-"Old Mother Hubbard",
-4
-],
-[
-"Hot Cross Buns",
+"Akai Kutsu",
 4
 ],
 [
@@ -180,43 +160,47 @@
 4
 ],
 [
-"Akai Kutsu",
+"Old Mother Hubbard",
 4
 ],
 [
-"Escravos de Jó",
-3
+"Peter Piper",
+4
 ],
 [
-"Ride a cock horse to Banbury Cross",
-3
+"See Saw Margery Daw",
+4
 ],
 [
-"Pease Porridge Hot",
-3
+"Sticks and Stones",
+4
 ],
 [
-"Little Boy Blue",
-3
+"The Queen of Hearts",
+4
 ],
 [
-"Mary Mack",
-3
+"This Little Piggy",
+4
 ],
 [
 "Entten tentten teelikamentten",
 3
 ],
 [
-"Two Tigers",
+"Miss Polly Had a Dolly",
 3
 ],
 [
-"Tom, Tom, the Piper's Son",
+"Jack Be Nimble",
 3
 ],
 [
-"How Many Miles to Babylon?",
+"Escravos de Jó",
+3
+],
+[
+"Hark, Hark! The Dogs Do Bark",
 3
 ],
 [
@@ -232,136 +216,36 @@
 3
 ],
 [
-"Jack Be Nimble",
-3
-],
-[
 "There Was a Man in Our Town",
 3
 ],
 [
-"Hark, Hark! The Dogs Do Bark",
+"How Many Miles to Babylon?",
 3
 ],
 [
-"Miss Polly Had a Dolly",
+"Little Boy Blue",
 3
 ],
 [
-"There was a little man, and he had a little gun",
-2
+"Mary Mack",
+3
 ],
 [
-"Trois petits chats",
-2
+"Pease Porridge Hot",
+3
 ],
 [
-"Peter Peter Pumpkin Eater",
-2
+"Ride a cock horse to Banbury Cross",
+3
 ],
 [
-"Pretty Little Dutch Girl",
-2
+"Tom, Tom, the Piper's Son",
+3
 ],
 [
-"Rub-a-dub-dub",
-2
-],
-[
-"Poor Mary",
-2
-],
-[
-"Little Arabella Miller",
-2
-],
-[
-"Nuts in May",
-2
-],
-[
-"To market, to market",
-2
-],
-[
-"Yon Yonson",
-2
-],
-[
-"Jack Sprat",
-2
-],
-[
-"Where are you Going My Pretty Maid",
-2
-],
-[
-"Needles and Pins",
-2
-],
-[
-"Three children sliding on the ice",
-2
-],
-[
-"Auf der Mauer, auf der Lauer",
-2
-],
-[
-"Willy boy, WIlly boy, where are you going?",
-2
-],
-[
-"Little Polly Flinders",
-2
-],
-[
-"King Stephen Was a Worthy King",
-2
-],
-[
-"The Marriage of Cock Robin and Jenny Wren",
-2
-],
-[
-"Dance a Baby Diddy",
-2
-],
-[
-"The Foolish Boy",
-2
-],
-[
-"Warm Hands Warm",
-2
-],
-[
-"Little Jack a Dandy",
-2
-],
-[
-"There was an old woman sold puddings and pies",
-2
-],
-[
-"Snail, Snail",
-2
-],
-[
-"Doctor Faustus",
-2
-],
-[
-"Christmas Day in the Morning",
-2
-],
-[
-"Liar Liar",
-2
-],
-[
-"Three Rhyme and Picture Pages",
-2
+"Two Tigers",
+3
 ],
 [
 "The Man in the Wilderness",
@@ -377,6 +261,122 @@
 ],
 [
 "The fair maid who, the first of May",
+2
+],
+[
+"Three Rhyme and Picture Pages",
+2
+],
+[
+"Willy boy, WIlly boy, where are you going?",
+2
+],
+[
+"Little Polly Flinders",
+2
+],
+[
+"King Stephen Was a Worthy King",
+2
+],
+[
+"Christmas Day in the Morning",
+2
+],
+[
+"The Marriage of Cock Robin and Jenny Wren",
+2
+],
+[
+"Doctor Faustus",
+2
+],
+[
+"The Foolish Boy",
+2
+],
+[
+"Warm Hands Warm",
+2
+],
+[
+"Dance a Baby Diddy",
+2
+],
+[
+"There was an old woman sold puddings and pies",
+2
+],
+[
+"Little Jack a Dandy",
+2
+],
+[
+"Snail, Snail",
+2
+],
+[
+"Liar Liar",
+2
+],
+[
+"There was a little man, and he had a little gun",
+2
+],
+[
+"Auf der Mauer, auf der Lauer",
+2
+],
+[
+"Needles and Pins",
+2
+],
+[
+"Where are you Going My Pretty Maid",
+2
+],
+[
+"Trois petits chats",
+2
+],
+[
+"Yon Yonson",
+2
+],
+[
+"Jack Sprat",
+2
+],
+[
+"Little Arabella Miller",
+2
+],
+[
+"Nuts in May",
+2
+],
+[
+"Peter Peter Pumpkin Eater",
+2
+],
+[
+"Poor Mary",
+2
+],
+[
+"Pretty Little Dutch Girl",
+2
+],
+[
+"Rub-a-dub-dub",
+2
+],
+[
+"To market, to market",
+2
+],
+[
+"Three children sliding on the ice",
 2
 ]
 ]

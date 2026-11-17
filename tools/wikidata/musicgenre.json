@@ -60,11 +60,11 @@
 104
 ],
 [
-"K-pop",
+"samba",
 97
 ],
 [
-"samba",
+"K-pop",
 97
 ],
 [
@@ -72,11 +72,11 @@
 96
 ],
 [
-"country music",
+"mantra",
 95
 ],
 [
-"mantra",
+"country music",
 95
 ],
 [
@@ -92,11 +92,11 @@
 83
 ],
 [
-"traditional folk music",
+"soul",
 81
 ],
 [
-"soul",
+"traditional folk music",
 81
 ],
 [
@@ -124,14 +124,6 @@
 73
 ],
 [
-"thrash metal",
-71
-],
-[
-"chamber music",
-71
-],
-[
 "alternative rock",
 71
 ],
@@ -140,11 +132,19 @@
 71
 ],
 [
+"chamber music",
+71
+],
+[
+"thrash metal",
+71
+],
+[
 "sonata",
 70
 ],
 [
-"Baroque music",
+"J-pop",
 69
 ],
 [
@@ -152,7 +152,7 @@
 69
 ],
 [
-"J-pop",
+"Baroque music",
 69
 ],
 [
@@ -160,11 +160,11 @@
 68
 ],
 [
-"house music",
+"cantata",
 67
 ],
 [
-"ska",
+"house music",
 67
 ],
 [
@@ -172,12 +172,8 @@
 67
 ],
 [
-"cantata",
+"ska",
 67
-],
-[
-"death metal",
-65
 ],
 [
 "hardcore punk",
@@ -185,6 +181,10 @@
 ],
 [
 "techno",
+65
+],
+[
+"death metal",
 65
 ],
 [
@@ -200,19 +200,19 @@
 63
 ],
 [
-"pop rock",
-62
-],
-[
 "fugue",
 62
 ],
 [
-"indie rock",
-61
+"pop rock",
+62
 ],
 [
 "emo",
+61
+],
+[
+"indie rock",
 61
 ],
 [
@@ -224,7 +224,7 @@
 60
 ],
 [
-"gospel music",
+"trance",
 59
 ],
 [
@@ -232,7 +232,7 @@
 59
 ],
 [
-"post-punk",
+"gospel music",
 59
 ],
 [
@@ -240,7 +240,7 @@
 59
 ],
 [
-"trance",
+"post-punk",
 59
 ],
 [
@@ -256,16 +256,12 @@
 57
 ],
 [
-"overture",
-57
-],
-[
 "madrigal",
 57
 ],
 [
-"progressive metal",
-56
+"overture",
+57
 ],
 [
 "fado",
@@ -276,11 +272,19 @@
 56
 ],
 [
-"gothic metal",
+"progressive metal",
+56
+],
+[
+"bebop",
 55
 ],
 [
-"film score",
+"mazurka",
+55
+],
+[
+"gothic metal",
 55
 ],
 [
@@ -292,28 +296,16 @@
 55
 ],
 [
-"industrial metal",
-55
-],
-[
 "alternative metal",
 55
 ],
 [
-"bebop",
+"industrial metal",
 55
 ],
 [
-"mazurka",
+"film score",
 55
-],
-[
-"symphonic metal",
-54
-],
-[
-"melodic death metal",
-54
 ],
 [
 "ambient music",
@@ -324,15 +316,19 @@
 54
 ],
 [
-"serenade",
-54
-],
-[
 "beatboxing",
 54
 ],
 [
-"electronic dance music",
+"serenade",
+54
+],
+[
+"melodic death metal",
+54
+],
+[
+"symphonic metal",
 54
 ],
 [
@@ -340,16 +336,8 @@
 54
 ],
 [
-"gothic rock",
-53
-],
-[
-"Romantic music",
-53
-],
-[
-"power metal",
-53
+"electronic dance music",
+54
 ],
 [
 "synth-pop",
@@ -360,15 +348,27 @@
 53
 ],
 [
-"dance music",
-52
+"Romantic music",
+53
+],
+[
+"gothic rock",
+53
+],
+[
+"power metal",
+53
 ],
 [
 "swing",
 52
 ],
 [
-"folk metal",
+"dance music",
+52
+],
+[
+"chanson",
 51
 ],
 [
@@ -396,11 +396,19 @@
 51
 ],
 [
-"chanson",
+"folk metal",
 51
 ],
 [
 "nocturne",
+50
+],
+[
+"dubstep",
+50
+],
+[
+"march",
 50
 ],
 [
@@ -410,22 +418,6 @@
 [
 "concerto",
 50
-],
-[
-"march",
-50
-],
-[
-"dubstep",
-50
-],
-[
-"shoegaze",
-49
-],
-[
-"ruba'i",
-49
 ],
 [
 "glam metal",
@@ -440,6 +432,14 @@
 49
 ],
 [
+"ruba'i",
+49
+],
+[
+"shoegaze",
+49
+],
+[
 "post-rock",
 48
 ],
@@ -448,11 +448,11 @@
 48
 ],
 [
-"Britpop",
+"Classical period",
 47
 ],
 [
-"pasodoble",
+"Britpop",
 47
 ],
 [
@@ -460,7 +460,7 @@
 47
 ],
 [
-"Eurodance",
+"pasodoble",
 47
 ],
 [
@@ -468,7 +468,7 @@
 47
 ],
 [
-"Classical period",
+"speed metal",
 47
 ],
 [
@@ -476,12 +476,28 @@
 47
 ],
 [
+"Eurodance",
+47
+],
+[
 "indie pop",
 47
 ],
 [
-"speed metal",
-47
+"jazz fusion",
+46
+],
+[
+"rockabilly",
+46
+],
+[
+"atonality",
+46
+],
+[
+"raga",
+46
 ],
 [
 "groove metal",
@@ -492,20 +508,12 @@
 46
 ],
 [
-"rockabilly",
-46
+"Indian classical music",
+45
 ],
 [
-"raga",
-46
-],
-[
-"atonality",
-46
-],
-[
-"jazz fusion",
-46
+"étude",
+45
 ],
 [
 "concerto grosso",
@@ -516,35 +524,7 @@
 45
 ],
 [
-"étude",
-45
-],
-[
-"Indian classical music",
-45
-],
-[
-"Arabic music",
-44
-],
-[
-"country rock",
-44
-],
-[
-"tarantella",
-44
-],
-[
 "spirituals",
-44
-],
-[
-"twist",
-44
-],
-[
-"trap music",
 44
 ],
 [
@@ -552,19 +532,39 @@
 44
 ],
 [
-"mass",
-44
-],
-[
 "viking metal",
 44
 ],
 [
-"barcarolle",
+"mass",
+44
+],
+[
+"trap music",
+44
+],
+[
+"tarantella",
+44
+],
+[
+"twist",
+44
+],
+[
+"country rock",
+44
+],
+[
+"Arabic music",
+44
+],
+[
+"visual kei",
 43
 ],
 [
-"qawwali",
+"free jazz",
 43
 ],
 [
@@ -576,19 +576,27 @@
 43
 ],
 [
-"free jazz",
+"qawwali",
 43
 ],
 [
-"visual kei",
+"barcarolle",
 43
 ],
 [
-"mariachi",
+"British Invasion",
+42
+],
+[
+"bluegrass music",
 42
 ],
 [
 "symphonic poem",
+42
+],
+[
+"mariachi",
 42
 ],
 [
@@ -600,35 +608,11 @@
 42
 ],
 [
-"bluegrass music",
-42
-],
-[
-"British Invasion",
-42
-],
-[
 "schlager music",
 42
 ],
 [
-"dancehall",
-41
-],
-[
-"extreme metal",
-41
-],
-[
-"antiphon",
-41
-],
-[
-"serialism",
-41
-],
-[
-"new wave of British heavy metal",
+"toccata",
 41
 ],
 [
@@ -636,15 +620,27 @@
 41
 ],
 [
-"toccata",
+"new wave of British heavy metal",
 41
 ],
 [
-"deathcore",
-40
+"extreme metal",
+41
 ],
 [
-"aleatoric music",
+"dancehall",
+41
+],
+[
+"serialism",
+41
+],
+[
+"antiphon",
+41
+],
+[
+"lo-fi music",
 40
 ],
 [
@@ -652,7 +648,7 @@
 40
 ],
 [
-"minimalist music",
+"salsa",
 40
 ],
 [
@@ -660,15 +656,7 @@
 40
 ],
 [
-"post-hardcore",
-40
-],
-[
-"vocal music",
-40
-],
-[
-"lo-fi music",
+"dub music",
 40
 ],
 [
@@ -676,11 +664,23 @@
 40
 ],
 [
-"dub music",
+"post-hardcore",
 40
 ],
 [
-"salsa",
+"deathcore",
+40
+],
+[
+"minimalist music",
+40
+],
+[
+"aleatoric music",
+40
+],
+[
+"vocal music",
 40
 ],
 [
@@ -688,11 +688,15 @@
 40
 ],
 [
-"Christmas carol",
+"soft rock",
 39
 ],
 [
-"divertimento",
+"Rebetiko",
+39
+],
+[
+"Christmas carol",
 39
 ],
 [
@@ -700,11 +704,7 @@
 39
 ],
 [
-"soft rock",
-39
-],
-[
-"Rebetiko",
+"divertimento",
 39
 ],
 [
@@ -716,31 +716,7 @@
 39
 ],
 [
-"doo-wop",
-38
-],
-[
-"oi!",
-38
-],
-[
-"stoner rock",
-38
-],
-[
-"post-grunge",
-38
-],
-[
-"programme music",
-38
-],
-[
-"theme and variation",
-38
-],
-[
-"calypso",
+"vaporwave",
 38
 ],
 [
@@ -748,7 +724,7 @@
 38
 ],
 [
-"funk metal",
+"programme music",
 38
 ],
 [
@@ -760,11 +736,19 @@
 38
 ],
 [
-"raï",
+"theme and variation",
 38
 ],
 [
 "acid jazz",
+38
+],
+[
+"oi!",
+38
+],
+[
+"post-grunge",
 38
 ],
 [
@@ -776,31 +760,27 @@
 38
 ],
 [
-"vaporwave",
+"doo-wop",
 38
 ],
 [
-"romance",
-37
+"stoner rock",
+38
 ],
 [
-"lambada",
-37
+"funk metal",
+38
 ],
 [
-"fanfare",
-37
+"calypso",
+38
 ],
 [
-"rock opera",
-37
+"raï",
+38
 ],
 [
-"riot grrrl",
-37
-],
-[
-"electronic rock",
+"nursery rhyme",
 37
 ],
 [
@@ -808,11 +788,27 @@
 37
 ],
 [
-"bhajan",
+"rock opera",
 37
 ],
 [
-"nursery rhyme",
+"electronic rock",
+37
+],
+[
+"lambada",
+37
+],
+[
+"romance",
+37
+],
+[
+"fanfare",
+37
+],
+[
+"riot grrrl",
 37
 ],
 [
@@ -820,11 +816,15 @@
 37
 ],
 [
-"hardcore",
+"bhajan",
+37
+],
+[
+"religious music",
 36
 ],
 [
-"Latin pop",
+"experimental music",
 36
 ],
 [
@@ -836,11 +836,19 @@
 36
 ],
 [
-"sludge metal",
+"cool jazz",
 36
 ],
 [
-"cool jazz",
+"hardcore",
+36
+],
+[
+"Latin pop",
+36
+],
+[
+"sludge metal",
 36
 ],
 [
@@ -852,19 +860,15 @@
 36
 ],
 [
-"electronica",
-36
-],
-[
 "intermezzo",
 36
 ],
 [
-"experimental music",
+"electronica",
 36
 ],
 [
-"religious music",
+"protest song",
 36
 ],
 [
@@ -872,8 +876,32 @@
 36
 ],
 [
-"protest song",
-36
+"musical improvisation",
+35
+],
+[
+"morin khuur",
+35
+],
+[
+"mugham",
+35
+],
+[
+"electro",
+35
+],
+[
+"hardstyle",
+35
+],
+[
+"music of China",
+35
+],
+[
+"post-metal",
+35
 ],
 [
 "beat music",
@@ -884,35 +912,11 @@
 35
 ],
 [
-"music of China",
-35
-],
-[
-"musical improvisation",
-35
-],
-[
-"electro",
-35
-],
-[
 "neo-classical metal",
 35
 ],
 [
-"power pop",
-35
-],
-[
-"morin khuur",
-35
-],
-[
-"Minnesang",
-35
-],
-[
-"hardstyle",
+"musique concrète",
 35
 ],
 [
@@ -924,27 +928,15 @@
 35
 ],
 [
-"musique concrète",
+"Minnesang",
 35
 ],
 [
-"post-metal",
+"power pop",
 35
-],
-[
-"mugham",
-35
-],
-[
-"Afrobeat",
-34
 ],
 [
 "pavane",
-34
-],
-[
-"gigue",
 34
 ],
 [
@@ -952,11 +944,19 @@
 34
 ],
 [
-"krakowiak",
+"dark wave",
 34
 ],
 [
-"cumbia",
+"Afrobeat",
+34
+],
+[
+"gigue",
+34
+],
+[
+"krakowiak",
 34
 ],
 [
@@ -964,15 +964,19 @@
 34
 ],
 [
-"bubblegum music",
-34
-],
-[
 "gagaku",
 34
 ],
 [
+"cumbia",
+34
+],
+[
 "chorale",
+34
+],
+[
+"no wave",
 34
 ],
 [
@@ -984,19 +988,35 @@
 34
 ],
 [
-"no wave",
-34
-],
-[
 "revue",
 34
 ],
 [
-"dark wave",
+"bubblegum music",
 34
 ],
 [
+"screamo",
+33
+],
+[
+"grime",
+33
+],
+[
+"art music",
+33
+],
+[
+"electronic body music",
+33
+],
+[
 "early music",
+33
+],
+[
+"baroque pop",
 33
 ],
 [
@@ -1008,15 +1028,7 @@
 33
 ],
 [
-"electronic body music",
-33
-],
-[
-"screamo",
-33
-],
-[
-"art music",
+"noise music",
 33
 ],
 [
@@ -1024,24 +1036,24 @@
 33
 ],
 [
-"Carnatic music",
-33
-],
-[
 "turbo-folk",
 33
 ],
 [
-"noise music",
+"Carnatic music",
 33
 ],
 [
-"baroque pop",
-33
+"math rock",
+32
 ],
 [
-"grime",
-33
+"traditional heavy metal",
+32
+],
+[
+"ars antiqua",
+32
 ],
 [
 "space rock",
@@ -1052,7 +1064,7 @@
 32
 ],
 [
-"skiffle",
+"music of India",
 32
 ],
 [
@@ -1060,7 +1072,11 @@
 32
 ],
 [
-"music of India",
+"skiffle",
+32
+],
+[
+"Italo disco",
 32
 ],
 [
@@ -1072,15 +1088,7 @@
 32
 ],
 [
-"Italo disco",
-32
-],
-[
 "funk rock",
-32
-],
-[
-"Southern rock",
 32
 ],
 [
@@ -1088,11 +1096,7 @@
 32
 ],
 [
-"math rock",
-32
-],
-[
-"traditional heavy metal",
+"Southern rock",
 32
 ],
 [
@@ -1104,15 +1108,19 @@
 32
 ],
 [
-"ars antiqua",
-32
-],
-[
-"alternative hip-hop",
+"contemporary folk music",
 31
 ],
 [
-"hard bop",
+"technical death metal",
+31
+],
+[
+"jungle",
+31
+],
+[
+"Romani music",
 31
 ],
 [
@@ -1120,11 +1128,27 @@
 31
 ],
 [
-"organum",
+"hard bop",
+31
+],
+[
+"synthwave",
 31
 ],
 [
 "acoustic music",
+31
+],
+[
+"acid house",
+31
+],
+[
+"music of Africa",
+31
+],
+[
+"alternative hip-hop",
 31
 ],
 [
@@ -1136,19 +1160,7 @@
 31
 ],
 [
-"music of Africa",
-31
-],
-[
-"acid house",
-31
-],
-[
-"symphonic rock",
-31
-],
-[
-"industrial rock",
+"organum",
 31
 ],
 [
@@ -1160,7 +1172,7 @@
 31
 ],
 [
-"neofolk",
+"symphonic rock",
 31
 ],
 [
@@ -1168,7 +1180,7 @@
 31
 ],
 [
-"technical death metal",
+"neofolk",
 31
 ],
 [
@@ -1176,59 +1188,15 @@
 31
 ],
 [
-"synthwave",
-31
-],
-[
-"jungle",
-31
-],
-[
-"contemporary folk music",
-31
-],
-[
 "church music",
 31
 ],
 [
-"Romani music",
+"industrial rock",
 31
 ],
 [
-"West Coast hip-hop",
-30
-],
-[
-"National Socialist black metal",
-30
-],
-[
-"downtempo",
-30
-],
-[
-"jota",
-30
-],
-[
-"adult contemporary music",
-30
-],
-[
-"arena rock",
-30
-],
-[
-"kirtan",
-30
-],
-[
-"ragga",
-30
-],
-[
-"surf music",
+"Delta blues",
 30
 ],
 [
@@ -1236,27 +1204,11 @@
 30
 ],
 [
-"Gypsy jazz",
-30
-],
-[
-"djent",
-30
-],
-[
-"Rock Against Communism",
-30
-],
-[
-"Delta blues",
-30
-],
-[
-"doina",
-30
-],
-[
 "music of ancient Greece",
+30
+],
+[
+"dabke",
 30
 ],
 [
@@ -1264,7 +1216,7 @@
 30
 ],
 [
-"electroacoustic music",
+"psalm",
 30
 ],
 [
@@ -1272,19 +1224,11 @@
 30
 ],
 [
-"psalm",
+"electroacoustic music",
 30
 ],
 [
-"enka",
-30
-],
-[
-"Christian music",
-30
-],
-[
-"dabke",
+"chiptune",
 30
 ],
 [
@@ -1296,11 +1240,91 @@
 30
 ],
 [
-"chiptune",
+"doina",
 30
 ],
 [
-"contemporary classical music",
+"surf music",
+30
+],
+[
+"downtempo",
+30
+],
+[
+"jota",
+30
+],
+[
+"djent",
+30
+],
+[
+"adult contemporary music",
+30
+],
+[
+"arena rock",
+30
+],
+[
+"West Coast hip-hop",
+30
+],
+[
+"National Socialist black metal",
+30
+],
+[
+"Christian music",
+30
+],
+[
+"ragga",
+30
+],
+[
+"Rock Against Communism",
+30
+],
+[
+"Gypsy jazz",
+30
+],
+[
+"enka",
+30
+],
+[
+"kirtan",
+30
+],
+[
+"video game music",
+29
+],
+[
+"sardana",
+29
+],
+[
+"Vallenato",
+29
+],
+[
+"kizomba",
+29
+],
+[
+"Hindustani classical music",
+29
+],
+[
+"death-doom",
+29
+],
+[
+"proto-punk",
 29
 ],
 [
@@ -1308,11 +1332,11 @@
 29
 ],
 [
-"electro house",
+"absolute music",
 29
 ],
 [
-"absolute music",
+"cavatina",
 29
 ],
 [
@@ -1324,27 +1348,11 @@
 29
 ],
 [
-"dark ambient",
+"contemporary classical music",
 29
 ],
 [
-"chill-out music",
-29
-],
-[
-"Vallenato",
-29
-],
-[
-"Hindustani classical music",
-29
-],
-[
-"kizomba",
-29
-],
-[
-"video game music",
+"electro house",
 29
 ],
 [
@@ -1356,7 +1364,11 @@
 29
 ],
 [
-"proto-punk",
+"dark ambient",
+29
+],
+[
+"chill-out music",
 29
 ],
 [
@@ -1364,63 +1376,11 @@
 29
 ],
 [
-"death-doom",
-29
-],
-[
-"cavatina",
-29
-],
-[
 "capriccio",
 29
 ],
 [
-"sardana",
-29
-],
-[
-"jumpstyle",
-28
-],
-[
-"neo soul",
-28
-],
-[
-"symphonic black metal",
-28
-],
-[
-"bagatelle",
-28
-],
-[
-"phonk",
-28
-],
-[
-"bhangra",
-28
-],
-[
 "UK garage",
-28
-],
-[
-"mashup",
-28
-],
-[
-"French house",
-28
-],
-[
-"crunk",
-28
-],
-[
-"East Coast hip-hop",
 28
 ],
 [
@@ -1432,32 +1392,44 @@
 28
 ],
 [
-"pansori",
-27
+"French house",
+28
 ],
 [
-"crossover",
-27
+"symphonic black metal",
+28
 ],
 [
-"jingle",
-27
+"neo soul",
+28
 ],
 [
-"expressionist music",
-27
+"jumpstyle",
+28
 ],
 [
-"sevdalinka",
-27
+"mashup",
+28
 ],
 [
-"Canterbury scene",
-27
+"bagatelle",
+28
 ],
 [
-"music of Latin America",
-27
+"bhangra",
+28
+],
+[
+"East Coast hip-hop",
+28
+],
+[
+"phonk",
+28
+],
+[
+"crunk",
+28
 ],
 [
 "G-funk",
@@ -1472,31 +1444,7 @@
 27
 ],
 [
-"stotra",
-27
-],
-[
-"habanera",
-27
-],
-[
-"Eurobeat",
-27
-],
-[
 "Tin Pan Alley",
-27
-],
-[
-"sea shanty",
-27
-],
-[
-"milonga",
-27
-],
-[
-"pagan metal",
 27
 ],
 [
@@ -1504,11 +1452,11 @@
 27
 ],
 [
-"crossover thrash",
+"incidental music",
 27
 ],
 [
-"incidental music",
+"sea shanty",
 27
 ],
 [
@@ -1520,67 +1468,59 @@
 27
 ],
 [
-"anthem",
-26
+"pagan metal",
+27
 ],
 [
-"country blues",
-26
+"stotra",
+27
 ],
 [
-"Franco-Flemish School",
-26
+"jingle",
+27
 ],
 [
-"happy hardcore",
-26
+"pansori",
+27
 ],
 [
-"Europop",
-26
+"crossover",
+27
 ],
 [
-"jazz rap",
-26
+"expressionist music",
+27
 ],
 [
-"mathcore",
-26
+"sevdalinka",
+27
+],
+[
+"music of Latin America",
+27
+],
+[
+"Canterbury scene",
+27
+],
+[
+"habanera",
+27
+],
+[
+"Eurobeat",
+27
+],
+[
+"crossover thrash",
+27
+],
+[
+"milonga",
+27
 ],
 [
 "turntablism",
-26
-],
-[
-"hardcore hip-hop",
-26
-],
-[
-"sound art",
-26
-],
-[
-"college rock",
-26
-],
-[
-"music of Azerbaijan",
-26
-],
-[
-"ancient music",
-26
-],
-[
-"cantopop",
-26
-],
-[
-"new jack swing",
-26
-],
-[
-"smooth jazz",
 26
 ],
 [
@@ -1592,19 +1532,11 @@
 26
 ],
 [
-"jangle pop",
-26
-],
-[
-"electroclash",
-26
-],
-[
 "dangdut",
 26
 ],
 [
-"blue-eyed soul",
+"jangle pop",
 26
 ],
 [
@@ -1612,51 +1544,75 @@
 26
 ],
 [
-"descant",
-25
+"sound art",
+26
 ],
 [
-"Hi-NRG",
-25
+"Franco-Flemish School",
+26
 ],
 [
-"chastushka",
-25
+"ancient music",
+26
 ],
 [
-"jazz standard",
-25
+"jazz rap",
+26
 ],
 [
-"unblack metal",
-25
+"happy hardcore",
+26
 ],
 [
-"overtone singing",
-25
+"Europop",
+26
+],
+[
+"anthem",
+26
+],
+[
+"mathcore",
+26
+],
+[
+"country blues",
+26
+],
+[
+"music of Azerbaijan",
+26
+],
+[
+"college rock",
+26
+],
+[
+"smooth jazz",
+26
+],
+[
+"new jack swing",
+26
+],
+[
+"cantopop",
+26
+],
+[
+"electroclash",
+26
+],
+[
+"blue-eyed soul",
+26
+],
+[
+"hardcore hip-hop",
+26
 ],
 [
 "new wave of American heavy metal",
-25
-],
-[
-"freestyle rap",
-25
-],
-[
-"gabber",
-25
-],
-[
-"shashmaqam",
-25
-],
-[
-"dance-punk",
-25
-],
-[
-"avant-garde jazz",
 25
 ],
 [
@@ -1664,15 +1620,7 @@
 25
 ],
 [
-"shock rock",
-25
-],
-[
-"hardbass",
-25
-],
-[
-"Celtic punk",
+"modal jazz",
 25
 ],
 [
@@ -1680,35 +1628,7 @@
 25
 ],
 [
-"skate punk",
-25
-],
-[
-"country pop",
-25
-],
-[
-"modal jazz",
-25
-],
-[
-"son cubano",
-25
-],
-[
-"psychobilly",
-25
-],
-[
-"drill",
-25
-],
-[
-"garba",
-25
-],
-[
-"music hall",
+"deathrock",
 25
 ],
 [
@@ -1716,19 +1636,11 @@
 25
 ],
 [
-"progressive house",
-25
-],
-[
 "Kagura",
 25
 ],
 [
-"deathrock",
-25
-],
-[
-"breakcore",
+"psychobilly",
 25
 ],
 [
@@ -1740,8 +1652,92 @@
 25
 ],
 [
-"melodic hardcore",
-24
+"drill",
+25
+],
+[
+"dance-punk",
+25
+],
+[
+"Celtic punk",
+25
+],
+[
+"shock rock",
+25
+],
+[
+"country pop",
+25
+],
+[
+"hardbass",
+25
+],
+[
+"shashmaqam",
+25
+],
+[
+"freestyle rap",
+25
+],
+[
+"son cubano",
+25
+],
+[
+"chastushka",
+25
+],
+[
+"descant",
+25
+],
+[
+"jazz standard",
+25
+],
+[
+"Hi-NRG",
+25
+],
+[
+"overtone singing",
+25
+],
+[
+"avant-garde jazz",
+25
+],
+[
+"gabber",
+25
+],
+[
+"skate punk",
+25
+],
+[
+"garba",
+25
+],
+[
+"breakcore",
+25
+],
+[
+"progressive house",
+25
+],
+[
+"music hall",
+25
+],
+[
+"unblack metal",
+25
 ],
 [
 "candombe",
@@ -1752,7 +1748,7 @@
 24
 ],
 [
-"mandopop",
+"microtonal music",
 24
 ],
 [
@@ -1760,35 +1756,7 @@
 24
 ],
 [
-"microtonal music",
-24
-],
-[
-"frottola",
-24
-],
-[
-"instrumental rock",
-24
-],
-[
-"highlife",
-24
-],
-[
-"tropical house",
-24
-],
-[
-"heartland rock",
-24
-],
-[
-"post-punk revival",
-24
-],
-[
-"Muwashshah",
+"nu jazz",
 24
 ],
 [
@@ -1800,15 +1768,27 @@
 24
 ],
 [
-"seto leelo",
-24
-],
-[
 "frevo",
 24
 ],
 [
-"nu jazz",
+"instrumental rock",
+24
+],
+[
+"tropical house",
+24
+],
+[
+"post-punk revival",
+24
+],
+[
+"Muwashshah",
+24
+],
+[
+"seto leelo",
 24
 ],
 [
@@ -1816,31 +1796,43 @@
 24
 ],
 [
-"zouk",
-23
+"melodic hardcore",
+24
 ],
 [
-"trot",
-23
+"heartland rock",
+24
 ],
 [
-"Neue Deutsche Welle",
-23
+"frottola",
+24
+],
+[
+"highlife",
+24
+],
+[
+"mandopop",
+24
 ],
 [
 "soca music",
 23
 ],
 [
-"Latin jazz",
+"goregrind",
 23
 ],
 [
-"speedcore",
+"C-pop",
 23
 ],
 [
-"Byzantine music",
+"fauxbourdon",
+23
+],
+[
+"folktronica",
 23
 ],
 [
@@ -1848,11 +1840,11 @@
 23
 ],
 [
-"Goa trance",
+"Byzantine music",
 23
 ],
 [
-"modernism",
+"zouk",
 23
 ],
 [
@@ -1864,23 +1856,15 @@
 23
 ],
 [
-"fauxbourdon",
+"modernism",
 23
 ],
 [
-"C-pop",
+"trot",
 23
 ],
 [
-"big beat",
-23
-],
-[
-"goregrind",
-23
-],
-[
-"old-school hip-hop",
+"Neue Deutsche Welle",
 23
 ],
 [
@@ -1888,36 +1872,24 @@
 23
 ],
 [
-"folktronica",
+"Goa trance",
 23
 ],
 [
-"Cuban rumba",
-22
+"Latin jazz",
+23
 ],
 [
-"paean",
-22
+"speedcore",
+23
 ],
 [
-"forró",
-22
+"big beat",
+23
 ],
 [
-"electric blues",
-22
-],
-[
-"giddha",
-22
-],
-[
-"blackgaze",
-22
-],
-[
-"Ashiqs of Azerbaijan",
-22
+"old-school hip-hop",
+23
 ],
 [
 "Japanese rock",
@@ -1928,43 +1900,11 @@
 22
 ],
 [
-"chillwave",
-22
-],
-[
-"pop rap",
-22
-],
-[
-"futurepop",
-22
-],
-[
 "glitch",
 22
 ],
 [
-"jazz-funk",
-22
-],
-[
-"drinking song",
-22
-],
-[
-"music of Italy",
-22
-],
-[
-"Albanian iso-polyphony",
-22
-],
-[
-"troparion",
-22
-],
-[
-"music of Greenland",
+"death 'n' roll",
 22
 ],
 [
@@ -1976,10 +1916,6 @@
 22
 ],
 [
-"chalga",
-22
-],
-[
 "music of Ireland",
 22
 ],
@@ -1988,31 +1924,75 @@
 22
 ],
 [
-"death 'n' roll",
+"blackgaze",
 22
 ],
 [
-"Anatolian rock",
-21
+"drinking song",
+22
 ],
 [
-"Latin rock",
-21
+"pop rap",
+22
 ],
 [
-"mbalax",
-21
+"chillwave",
+22
 ],
 [
-"maloya",
-21
+"music of Italy",
+22
+],
+[
+"jazz-funk",
+22
+],
+[
+"Cuban rumba",
+22
+],
+[
+"Albanian iso-polyphony",
+22
+],
+[
+"forró",
+22
+],
+[
+"paean",
+22
+],
+[
+"electric blues",
+22
+],
+[
+"Ashiqs of Azerbaijan",
+22
+],
+[
+"futurepop",
+22
+],
+[
+"chalga",
+22
+],
+[
+"troparion",
+22
+],
+[
+"music of Greenland",
+22
+],
+[
+"giddha",
+22
 ],
 [
 "call and response",
-21
-],
-[
-"2 tone",
 21
 ],
 [
@@ -2020,27 +2000,7 @@
 21
 ],
 [
-"vocalise",
-21
-],
-[
-"soukous",
-21
-],
-[
-"funeral march",
-21
-],
-[
-"Kecak",
-21
-],
-[
 "chamamé",
-21
-],
-[
-"conductus",
 21
 ],
 [
@@ -2052,27 +2012,7 @@
 21
 ],
 [
-"music of the United States",
-21
-],
-[
-"kujawiak",
-21
-],
-[
-"Cossack song",
-21
-],
-[
 "folk-pop",
-21
-],
-[
-"tango",
-21
-],
-[
-"Kalbelia",
 21
 ],
 [
@@ -2084,7 +2024,147 @@
 21
 ],
 [
-"alternative country",
+"Cossack song",
+21
+],
+[
+"tango",
+21
+],
+[
+"vocalise",
+21
+],
+[
+"funeral march",
+21
+],
+[
+"Kecak",
+21
+],
+[
+"soukous",
+21
+],
+[
+"Latin rock",
+21
+],
+[
+"2 tone",
+21
+],
+[
+"music of the United States",
+21
+],
+[
+"kujawiak",
+21
+],
+[
+"Anatolian rock",
+21
+],
+[
+"maloya",
+21
+],
+[
+"mbalax",
+21
+],
+[
+"Kalbelia",
+21
+],
+[
+"conductus",
+21
+],
+[
+"cakewalk",
+20
+],
+[
+"Chicago house",
+20
+],
+[
+"choro",
+20
+],
+[
+"personal anthem",
+20
+],
+[
+"lounge music",
+20
+],
+[
+"nueva canción",
+20
+],
+[
+"D-beat",
+20
+],
+[
+"Selichot",
+20
+],
+[
+"background music",
+20
+],
+[
+"zajal",
+20
+],
+[
+"daina",
+20
+],
+[
+"minimal techno",
+20
+],
+[
+"music of Greece",
+20
+],
+[
+"psychedelic folk",
+20
+],
+[
+"jump blues",
+20
+],
+[
+"music of Ukraine",
+20
+],
+[
+"kawaii metal",
+20
+],
+[
+"yé-yé",
+20
+],
+[
+"Western swing",
+20
+],
+[
+"Nashville sound",
+20
+],
+[
+"music of Egypt",
 20
 ],
 [
@@ -2092,7 +2172,35 @@
 20
 ],
 [
-"cakewalk",
+"ballata",
+20
+],
+[
+"alternative dance",
+20
+],
+[
+"Afrobeats",
+20
+],
+[
+"duma",
+20
+],
+[
+"post-Britpop",
+20
+],
+[
+"African-American music",
+20
+],
+[
+"alternative country",
+20
+],
+[
+"melodic metalcore",
 20
 ],
 [
@@ -2112,119 +2220,11 @@
 20
 ],
 [
-"psychedelic folk",
-20
-],
-[
-"jump blues",
-20
-],
-[
-"Nashville sound",
-20
-],
-[
 "piyyut",
 20
 ],
 [
-"yé-yé",
-20
-],
-[
-"African-American music",
-20
-],
-[
-"Western swing",
-20
-],
-[
-"music of Egypt",
-20
-],
-[
-"Chicago house",
-20
-],
-[
-"choro",
-20
-],
-[
-"duma",
-20
-],
-[
-"Afrobeats",
-20
-],
-[
-"ballata",
-20
-],
-[
-"personal anthem",
-20
-],
-[
-"alternative dance",
-20
-],
-[
-"lounge music",
-20
-],
-[
-"post-Britpop",
-20
-],
-[
-"melodic metalcore",
-20
-],
-[
-"nueva canción",
-20
-],
-[
-"D-beat",
-20
-],
-[
-"background music",
-20
-],
-[
 "music of Brazil",
-20
-],
-[
-"kawaii metal",
-20
-],
-[
-"music of Greece",
-20
-],
-[
-"daina",
-20
-],
-[
-"Selichot",
-20
-],
-[
-"zajal",
-20
-],
-[
-"minimal techno",
-20
-],
-[
-"music of Ukraine",
 20
 ]
 ]

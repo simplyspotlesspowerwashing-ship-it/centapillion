@@ -88,11 +88,11 @@
 69
 ],
 [
-"Black Friday",
+"Purim",
 68
 ],
 [
-"Purim",
+"Black Friday",
 68
 ],
 [
@@ -100,11 +100,11 @@
 66
 ],
 [
-"Candlemas",
+"Feast of Corpus Christi",
 64
 ],
 [
-"Feast of Corpus Christi",
+"Candlemas",
 64
 ],
 [
@@ -120,11 +120,11 @@
 59
 ],
 [
-"Vesak",
+"Shavuot",
 58
 ],
 [
-"Shavuot",
+"Vesak",
 58
 ],
 [
@@ -192,16 +192,12 @@
 45
 ],
 [
-"Boxing Day",
-45
-],
-[
 "Victory in Europe Day",
 45
 ],
 [
-"Lantern Festival",
-44
+"Boxing Day",
+45
 ],
 [
 "Yaldā",
@@ -212,15 +208,15 @@
 44
 ],
 [
+"Lantern Festival",
+44
+],
+[
 "Ganesh Chaturthi",
 44
 ],
 [
-"Qingming Festival",
-43
-],
-[
-"Hinamatsuri",
+"St John's Eve",
 43
 ],
 [
@@ -236,7 +232,11 @@
 43
 ],
 [
-"St John's Eve",
+"Qingming Festival",
+43
+],
+[
+"Hinamatsuri",
 43
 ],
 [
@@ -244,7 +244,7 @@
 42
 ],
 [
-"Kwanzaa",
+"Anzac Day",
 42
 ],
 [
@@ -252,7 +252,7 @@
 42
 ],
 [
-"Anzac Day",
+"Kwanzaa",
 42
 ],
 [
@@ -268,7 +268,7 @@
 41
 ],
 [
-"Buddha's birthday",
+"Feast of Saints Peter and Paul",
 40
 ],
 [
@@ -276,19 +276,19 @@
 40
 ],
 [
-"Pongal",
-40
-],
-[
-"Groundhog Day",
-40
-],
-[
 "Remembrance Day",
 40
 ],
 [
-"Feast of Saints Peter and Paul",
+"Pongal",
+40
+],
+[
+"Buddha's birthday",
+40
+],
+[
+"Groundhog Day",
 40
 ],
 [
@@ -300,11 +300,11 @@
 39
 ],
 [
-"Independence Day of Ukraine",
+"Sabantuy",
 38
 ],
 [
-"Sabantuy",
+"Independence Day of Ukraine",
 38
 ],
 [
@@ -316,15 +316,23 @@
 38
 ],
 [
-"Cyber Monday",
-37
-],
-[
 "Makar Sankranti",
 37
 ],
 [
+"Cyber Monday",
+37
+],
+[
 "Russia Day",
+37
+],
+[
+"King's Day",
+37
+],
+[
+"Naadam",
 37
 ],
 [
@@ -336,14 +344,6 @@
 37
 ],
 [
-"Naadam",
-37
-],
-[
-"Ulambana",
-36
-],
-[
 "Losar",
 36
 ],
@@ -352,11 +352,11 @@
 36
 ],
 [
-"King's Day",
+"Ulambana",
 36
 ],
 [
-"White Day",
+"Qixi Festival",
 35
 ],
 [
@@ -364,23 +364,23 @@
 35
 ],
 [
+"White Day",
+35
+],
+[
 "Hangul Day",
 35
 ],
 [
-"Qixi Festival",
-35
+"Presentation of Mary",
+34
 ],
 [
 "Pohela Boishakh",
 34
 ],
 [
-"Saint Nicholas Day",
-34
-],
-[
-"Presentation of Mary",
+"Africa Day",
 34
 ],
 [
@@ -388,7 +388,7 @@
 34
 ],
 [
-"Africa Day",
+"Saint Nicholas Day",
 34
 ],
 [
@@ -400,11 +400,11 @@
 33
 ],
 [
-"Passover Seder",
+"Saint Andrew's Day",
 33
 ],
 [
-"Saint Andrew's Day",
+"Passover Seder",
 33
 ],
 [
@@ -412,19 +412,7 @@
 32
 ],
 [
-"Buy Nothing Day",
-32
-],
-[
-"Labor Day",
-32
-],
-[
 "Vasant Panchami",
-32
-],
-[
-"Old New Year",
 32
 ],
 [
@@ -436,8 +424,24 @@
 32
 ],
 [
+"Old New Year",
+32
+],
+[
 "Ohi Day",
 32
+],
+[
+"Buy Nothing Day",
+32
+],
+[
+"Labor Day",
+32
+],
+[
+"Wikipedia Day",
+31
 ],
 [
 "Inti Raymi",
@@ -452,7 +456,7 @@
 31
 ],
 [
-"Wikipedia Day",
+"Michaelmas",
 31
 ],
 [
@@ -460,16 +464,8 @@
 31
 ],
 [
-"Michaelmas",
-31
-],
-[
 "Armenian Genocide Remembrance Day",
 31
-],
-[
-"Ugadi",
-30
 ],
 [
 "National Day of the People's Republic of China",
@@ -480,7 +476,11 @@
 30
 ],
 [
-"Software Freedom Day",
+"Slava",
+30
+],
+[
+"Ugadi",
 30
 ],
 [
@@ -488,7 +488,7 @@
 30
 ],
 [
-"Slava",
+"Software Freedom Day",
 30
 ],
 [
@@ -500,19 +500,15 @@
 29
 ],
 [
-"May Day",
-29
-],
-[
 "Gwangbokjeol",
 29
 ],
 [
-"Children's Day",
-28
+"May Day",
+29
 ],
 [
-"Mehregan",
+"Children's Day",
 28
 ],
 [
@@ -524,11 +520,15 @@
 28
 ],
 [
+"Mehregan",
+28
+],
+[
 "Veterans Day",
 28
 ],
 [
-"Thaipusam",
+"Culture Day",
 27
 ],
 [
@@ -536,11 +536,15 @@
 27
 ],
 [
-"Karva Chauth",
+"Thaipusam",
 27
 ],
 [
-"Yuri's Night",
+"Decollation of John the Baptist",
+27
+],
+[
+"Karva Chauth",
 27
 ],
 [
@@ -552,12 +556,12 @@
 27
 ],
 [
-"Decollation of John the Baptist",
+"Yuri's Night",
 27
 ],
 [
-"Culture Day",
-27
+"Workers' Memorial Day",
+26
 ],
 [
 "Independence Day of Pakistan",
@@ -568,19 +572,15 @@
 26
 ],
 [
-"Kakava",
-26
-],
-[
-"Workers' Memorial Day",
-26
-],
-[
 "Parentalia",
 26
 ],
 [
-"Bihu",
+"Kakava",
+26
+],
+[
+"Whit Monday",
 25
 ],
 [
@@ -589,6 +589,10 @@
 ],
 [
 "Radonitsa",
+25
+],
+[
+"Bihu",
 25
 ],
 [
@@ -604,31 +608,11 @@
 25
 ],
 [
-"Whit Monday",
-25
-],
-[
-"Independence Day of Bangladesh",
-24
-],
-[
-"Hanuman Jayanti",
-24
-],
-[
 "Nyepi",
 24
 ],
 [
 "Data Privacy Day",
-24
-],
-[
-"Double Ninth Festival",
-24
-],
-[
-"Feast of the Annunciation",
 24
 ],
 [
@@ -644,11 +628,31 @@
 24
 ],
 [
+"Hanuman Jayanti",
+24
+],
+[
+"Independence Day of Bangladesh",
+24
+],
+[
+"Feast of the Annunciation",
+24
+],
+[
+"Double Ninth Festival",
+24
+],
+[
 "Land Day",
 24
 ],
 [
-"National Grandparents Day",
+"UN Russian Language Day",
+23
+],
+[
+"Galician Literature Day",
 23
 ],
 [
@@ -660,11 +664,7 @@
 23
 ],
 [
-"Galician Literature Day",
-23
-],
-[
-"UN Russian Language Day",
+"Erzya Language Day",
 23
 ],
 [
@@ -672,27 +672,15 @@
 23
 ],
 [
+"National Grandparents Day",
+23
+],
+[
 "Washington's Birthday",
 23
 ],
 [
-"Erzya Language Day",
-23
-],
-[
-"Thanksgiving",
-22
-],
-[
-"Tsagaan Sar",
-22
-],
-[
 "Burns supper",
-22
-],
-[
-"Akitu",
 22
 ],
 [
@@ -700,7 +688,27 @@
 22
 ],
 [
+"Tsagaan Sar",
+22
+],
+[
+"Thanksgiving",
+22
+],
+[
+"Akitu",
+22
+],
+[
 "Hari Merdeka",
+21
+],
+[
+"Dziady",
+21
+],
+[
+"Rtveli",
 21
 ],
 [
@@ -716,15 +724,15 @@
 21
 ],
 [
-"Dziady",
-21
+"Seven-S",
+20
 ],
 [
-"Rtveli",
-21
+"Neptunalia",
+20
 ],
 [
-"Malaysia Day",
+"Siblings Day",
 20
 ],
 [
@@ -736,15 +744,7 @@
 20
 ],
 [
-"Neptunalia",
-20
-],
-[
-"Seven-S",
-20
-],
-[
-"Day of the National Flag of Ukraine",
+"Akshaya Tritiya",
 20
 ],
 [
@@ -752,27 +752,15 @@
 20
 ],
 [
-"Siblings Day",
+"Malaysia Day",
 20
 ],
 [
-"Akshaya Tritiya",
+"Day of the National Flag of Ukraine",
 20
 ],
 [
-"Feast of the Immaculate Conception",
-19
-],
-[
-"Meskel",
-19
-],
-[
-"Pakistan Day",
-19
-],
-[
-"Bhai Dooj",
+"Matronalia",
 19
 ],
 [
@@ -784,19 +772,11 @@
 19
 ],
 [
-"Kartik Poornima",
-19
-],
-[
 "Vardavar",
 19
 ],
 [
-"Matronalia",
-19
-],
-[
-"Magha Puja",
+"Meskel",
 19
 ],
 [
@@ -808,15 +788,7 @@
 19
 ],
 [
-"Dozhinki",
-19
-],
-[
-"Matariki",
-19
-],
-[
-"Kali Puja",
+"Kartik Poornima",
 19
 ],
 [
@@ -824,8 +796,72 @@
 19
 ],
 [
+"Pakistan Day",
+19
+],
+[
 "Tatiana Day",
 19
+],
+[
+"Bhai Dooj",
+19
+],
+[
+"Kali Puja",
+19
+],
+[
+"Feast of the Immaculate Conception",
+19
+],
+[
+"Matariki",
+19
+],
+[
+"Dozhinki",
+19
+],
+[
+"Magha Puja",
+19
+],
+[
+"Liberation Day",
+18
+],
+[
+"Respect for the Aged Day",
+18
+],
+[
+"Quinquatria",
+18
+],
+[
+"Rosenmontag",
+18
+],
+[
+"Kathina",
+18
+],
+[
+"Thingyan",
+18
+],
+[
+"ōmisoka",
+18
+],
+[
+"Freedom Day",
+18
+],
+[
+"Dhanteras",
+18
 ],
 [
 "Proclamation Day of the Republic of Latvia",
@@ -844,67 +880,7 @@
 18
 ],
 [
-"Dhanteras",
-18
-],
-[
-"Respect for the Aged Day",
-18
-],
-[
-"Freedom Day",
-18
-],
-[
-"Kathina",
-18
-],
-[
-"Quinquatria",
-18
-],
-[
-"Rosenmontag",
-18
-],
-[
-"Thingyan",
-18
-],
-[
-"ōmisoka",
-18
-],
-[
-"Liberation Day",
-18
-],
-[
-"Saudi National Day",
-17
-],
-[
-"Death anniversary of the Hung Kings",
-17
-],
-[
-"Saint-Jean-Baptiste Day",
-17
-],
-[
-"Ketikoti",
-17
-],
-[
-"Christmas in Poland",
-17
-],
-[
-"Greenery Day",
-17
-],
-[
-"Sizdah Be-dar",
+"Patriot Day",
 17
 ],
 [
@@ -912,11 +888,19 @@
 17
 ],
 [
-"Labor Thanksgiving Day",
+"Divine Mercy Sunday",
 17
 ],
 [
-"Rogation days",
+"Death anniversary of the Hung Kings",
+17
+],
+[
+"Greenery Day",
+17
+],
+[
+"National Sovereignty and Children's Day",
 17
 ],
 [
@@ -924,15 +908,47 @@
 17
 ],
 [
-"Dano",
+"Sizdah Be-dar",
 17
 ],
 [
-"Divine Mercy Sunday",
+"Tihar",
 17
 ],
 [
-"Jivitputrika",
+"Ketikoti",
+17
+],
+[
+"Saint-Jean-Baptiste Day",
+17
+],
+[
+"Elijah's day",
+17
+],
+[
+"Commonwealth Day",
+17
+],
+[
+"Vestalia",
+17
+],
+[
+"Christmas in Poland",
+17
+],
+[
+"Patriots' Day",
+17
+],
+[
+"Anant Chaturdashi",
+17
+],
+[
+"Cat Day",
 17
 ],
 [
@@ -944,43 +960,19 @@
 17
 ],
 [
+"Jivitputrika",
+17
+],
+[
+"Dano",
+17
+],
+[
 "National Masturbation Day",
 17
 ],
 [
-"Cat Day",
-17
-],
-[
-"Vestalia",
-17
-],
-[
-"Patriots' Day",
-17
-],
-[
-"Patriot Day",
-17
-],
-[
-"Elijah's day",
-17
-],
-[
-"Youth Day",
-17
-],
-[
-"Tihar",
-17
-],
-[
-"National Sovereignty and Children's Day",
-17
-],
-[
-"Anant Chaturdashi",
+"Saudi National Day",
 17
 ],
 [
@@ -988,63 +980,19 @@
 17
 ],
 [
-"Commonwealth Day",
+"Labor Thanksgiving Day",
 17
 ],
 [
-"Daeboreum",
-16
+"Rogation days",
+17
 ],
 [
-"The Twelfth",
-16
+"Youth Day",
+17
 ],
 [
-"2019 Japanese imperial transition",
-16
-],
-[
-"Golden weeks",
-16
-],
-[
-"Victoria Day",
-16
-],
-[
-"Reunification Day",
-16
-],
-[
-"Spanish National Day",
-16
-],
-[
-"King's Official Birthday",
-16
-],
-[
-"Maharashtra Day",
-16
-],
-[
-"Day of the Shining Star",
-16
-],
-[
-"Great Union Day",
-16
-],
-[
-"Oruro carnival",
-16
-],
-[
-"Vinalia",
-16
-],
-[
-"Clean Monday",
+"Saint Joseph's Day",
 16
 ],
 [
@@ -1052,7 +1000,7 @@
 16
 ],
 [
-"Saint Joseph's Day",
+"Labour Day",
 16
 ],
 [
@@ -1060,11 +1008,11 @@
 16
 ],
 [
-"Vessantara Jataka",
+"Oruro carnival",
 16
 ],
 [
-"Radio Day",
+"Golden weeks",
 16
 ],
 [
@@ -1076,31 +1024,11 @@
 16
 ],
 [
-"Leif Erikson Day",
+"Radio Day",
 16
 ],
 [
-"Consualia",
-16
-],
-[
-"Sharad Purnima",
-16
-],
-[
-"Dongzhi Festival",
-16
-],
-[
-"Yhyakh",
-16
-],
-[
-"Teej",
-16
-],
-[
-"Labour Day",
+"Vinalia",
 16
 ],
 [
@@ -1108,27 +1036,83 @@
 16
 ],
 [
-"Day of Restoration of Independence",
+"Clean Monday",
+16
+],
+[
+"Consualia",
+16
+],
+[
+"Great Union Day",
+16
+],
+[
+"Yhyakh",
+16
+],
+[
+"King's Official Birthday",
+16
+],
+[
+"Spanish National Day",
+16
+],
+[
+"Victoria Day",
+16
+],
+[
+"Reunification Day",
+16
+],
+[
+"Daeboreum",
+16
+],
+[
+"Sharad Purnima",
+16
+],
+[
+"The Twelfth",
+16
+],
+[
+"Teej",
+16
+],
+[
+"2019 Japanese imperial transition",
+16
+],
+[
+"Leif Erikson Day",
+16
+],
+[
+"Vessantara Jataka",
+16
+],
+[
+"Maharashtra Day",
+16
+],
+[
+"Day of the Shining Star",
+16
+],
+[
+"Dongzhi Festival",
+16
+],
+[
+"Sadeh",
 15
 ],
 [
-"Cold Food Festival",
-15
-],
-[
-"Jumu'ah-tul-Wida",
-15
-],
-[
-"National Youth Day",
-15
-],
-[
-"Kazakhstan Independence Day",
-15
-],
-[
-"Tasu'a",
+"Vishwakarma Day",
 15
 ],
 [
@@ -1136,27 +1120,11 @@
 15
 ],
 [
-"Sadeh",
+"Tasu'a",
 15
 ],
 [
 "patronal festival",
-15
-],
-[
-"Lunar New Year's Eve",
-15
-],
-[
-"Kargil Vijay Diwas",
-15
-],
-[
-"Lao New Year",
-15
-],
-[
-"National Voters' Day",
 15
 ],
 [
@@ -1168,7 +1136,7 @@
 15
 ],
 [
-"Vishwakarma Day",
+"National Youth Day",
 15
 ],
 [
@@ -1176,7 +1144,39 @@
 15
 ],
 [
+"Lao New Year",
+15
+],
+[
+"National Voters' Day",
+15
+],
+[
+"Day of Restoration of Independence",
+15
+],
+[
 "No Bra Day",
+15
+],
+[
+"Jumu'ah-tul-Wida",
+15
+],
+[
+"Kargil Vijay Diwas",
+15
+],
+[
+"Cold Food Festival",
+15
+],
+[
+"Lunar New Year's Eve",
+15
+],
+[
+"Kazakhstan Independence Day",
 15
 ]
 ]
