@@ -145,14 +145,6 @@
       d: "Gado-Gado|Rojak|Herring Under a Fur Coat=shuba|Vinegret|Lobio|Kisir|Piyaz|Horiatiki|Salade Lyonnaise|Insalata di Rinforzo|Ensalada Rusa|Pico de Gallo Salad|Yam Woon Sen|Goi Cuon|Snickers Salad|Frog Eye Salad",
       k: "Laphet Thoke=tea leaf salad::Myanmar's salad of fermented tea leaves and crunchy beans." } },
 
-    { id: "potato", q: "Name a potato dish", t: {
-      p: "French Fries=fries|Mashed Potatoes=mash|Baked Potato|Hash Browns|Potato Chips=crisps",
-      c: "Poutine|Tater Tots",
-      s: "Potato Salad|Scalloped Potatoes|Potatoes au Gratin=au gratin|Roast Potatoes|Potato Skins|Home Fries|Twice-Baked Potatoes|Curly Fries|Wedges|Latkes|Gnocchi|Shepherd's Pie|Potato Soup|Pierogi",
-      r: "Rosti|Patatas Bravas|Duchess Potatoes|Hasselback Potatoes|Pommes Anna|Dauphinoise|Colcannon|Champ|Boxty|Aloo Gobi|Aloo Paratha|Tortilla Espanola=spanish omelette|Bubble and Squeak|Croquettes|Smashed Potatoes|Jacket Potato|Chips",
-      d: "Tartiflette|Raclette|Kartoffelkloesse|Kugel|Papa a la Huancaina|Causa|Llapingacho|Rumbledethumps|Stamppot|Kroppkakor|Cepelinai|Draniki|Pommes Souffles|Truffade|Hutspot|Pyttipanna",
-      k: "Aligot::Mashed potato beaten with so much cheese it stretches a metre." } },
-
     { id: "tea", q: "Name a type of tea", t: {
       p: "Green Tea|Black Tea|Earl Grey|Chamomile|Peppermint=mint tea",
       c: "Matcha|Kombucha",

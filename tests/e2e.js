@@ -62,7 +62,7 @@ async function newPage(browser, opts, clock) {
     await page.waitForSelector("#beginBtn");
     assert.equal((await state(page)).phase, "intro");
     const ladder = await page.locator(".ladder li").allTextContents();
-    assert.deepEqual(ladder, ["Topsoil10", "Too Clever15", "Burrower30", "Rare60", "Deep Cut85", "Mother Lode100"]);
+    assert.deepEqual(ladder, ["Topsoil10", "Too Clever15", "Burrower30", "Rare60", "Deep Cut85", "One in a Centapillion100"]);
     assert.match(await page.textContent(".card.intro"), /30 seconds each · your rarest answer counts/);
     await page.screenshot({ path: path.join(SHOTS, "01-intro.png") });
   });
@@ -89,7 +89,7 @@ async function newPage(browser, opts, clock) {
       assert.equal(await page.textContent("#scoreNow"), String(top));
     }
     assert.equal(await page.textContent("#depthNow"), "-1,000 m");
-    assert.match(await page.textContent(".haul-head"), /round best: Mother Lode \+100/);
+    assert.match(await page.textContent(".haul-head"), /round best: One in a Centapillion \+100/);
   });
 
   await step("the worm turns the colour of the rank you got", async () => {
@@ -97,7 +97,7 @@ async function newPage(browser, opts, clock) {
     await page.waitForTimeout(450);
     await page.screenshot({ path: path.join(SHOTS, "02-gem-plunge.png") });
     const card = await page.textContent("#landed");
-    assert.match(card, /MOTHER LODE/);
+    assert.match(card, /ONE IN A CENTAPILLION/);
     const quip = await page.evaluate(() => {
       const st = window.__centapillion.state();
       const p = window.CP.PROMPTS.find(x => x.id === st.promptIds[0]);
@@ -172,7 +172,7 @@ async function newPage(browser, opts, clock) {
     await skip(page, 30100);
     await page.waitForFunction(() => window.__centapillion.state().phase === "feedback");
     const tiers = await page.locator(".fb-item .tname").allTextContents();
-    assert.equal(tiers[0], "MOTHER LODE");
+    assert.equal(tiers[0], "ONE IN A CENTAPILLION");
     assert.equal(tiers[tiers.length - 1], "TOPSOIL");
     assert.equal(await page.locator(".fb-item.best").count(), 1);
     await page.screenshot({ path: path.join(SHOTS, "03-feedback.png") });
@@ -225,7 +225,7 @@ async function newPage(browser, opts, clock) {
     assert.equal(st.phase, "done");
     assert.equal(await page.textContent(".bigscore .num"), String(roundTotal(st)));
     const heads = await page.locator(".sec-head > span:first-child").allTextContents();
-    assert.deepEqual(heads, ["the bearing", "the haul", "logbook"]);
+    assert.deepEqual(heads, ["the bearing", "keep digging", "the haul", "logbook"]);
     assert.equal(await page.locator(".bearing li.on").count(), 1);
     const share = await page.textContent(".share-preview");
     assert.match(share, /^Centapillion #\d+ 🐛\n[🌱🤡🪱💎🔮🌟⬛]{7}\n\d+\/700 · -[\d,]+ m$/u);
@@ -255,6 +255,43 @@ async function newPage(browser, opts, clock) {
   await step("one dig per day: reload keeps results", async () => {
     await page.reload();
     await page.waitForSelector(".bigscore");
+  });
+
+  await step("after the daily: keep digging by category", async () => {
+    const tiles = await page.$$eval("#keepDigging .cat-tile", ts => ts.map(t => t.dataset.cat));
+    assert.deepEqual(tiles, ["geography", "animals", "food", "screen", "sports", "science", "culture", "everyday"]);
+    await page.screenshot({ path: path.join(SHOTS, "05b-keep-digging.png"), fullPage: false });
+    await page.click('#keepDigging .cat-tile[data-cat="geography"]');
+    await page.waitForFunction(() => window.__centapillion.state().mode === "category");
+    let st = await state(page);
+    assert.equal(st.category, "geography");
+    assert.equal(st.game, 1);
+    assert.match(await page.textContent(".intro"), /GEOGRAPHY DIG/);
+    const geo = await page.evaluate(() => CP.CATEGORIES.find(c => c.id === "geography").ids);
+    for (const id of st.promptIds) assert.ok(geo.includes(id), id + " is not geography");
+    await page.click("#beginBtn");
+    await toAnswering(page);
+    A = await answersFor(page);
+    await submit(page, A.p[0]);
+    await page.click("#endRoundBtn");
+    for (let r = 1; r < 7; r++) { await page.click("#nextBtn"); await toAnswering(page); await page.click("#endRoundBtn"); }
+    await page.click("#nextBtn");
+    await page.waitForSelector(".bigscore");
+    assert.match(await page.textContent(".share-preview"), /^Centapillion 🌍 Geography #1 🐛/);
+    const store = await page.evaluate(() => window.__centapillion.store());
+    assert.equal(store.cat.best["geography:1"], 10);
+    assert.ok(store.daily[Object.keys(store.daily)[0]].phase === "done", "daily result must be untouched");
+    assert.match(await page.textContent('#keepDigging .cat-tile[data-cat="geography"]'), /1 dug · best 10/);
+    await page.click("#nextDigBtn");
+    await page.waitForFunction(() => window.__centapillion.state().game === 2);
+    st = await state(page);
+    assert.equal(st.mode, "category");
+    assert.notDeepEqual(st.promptIds, store.cat.games["geography:1"].promptIds);
+    await page.click("#catLink");
+    assert.equal(await page.$$eval(".modal .cat-tile, #modalBody .cat-tile", ts => ts.length), 8);
+    await page.keyboard.press("Escape");
+    await page.goto(BASE + "/#/cat/nonsense/3");
+    await page.waitForFunction(() => window.__centapillion.state().mode === "daily");
   });
 
   await step("settings: typo check off auto-accepts; clear-on-reject clears", async () => {
@@ -401,6 +438,9 @@ async function newPage(browser, opts, clock) {
     await m.waitForSelector(".bigscore");
     await m.waitForTimeout(900);
     await m.screenshot({ path: path.join(SHOTS, "08-mobile-done.png") });
+    await m.locator("#keepDigging").scrollIntoViewIfNeeded();
+    await m.screenshot({ path: path.join(SHOTS, "09-mobile-categories.png") });
+    assert.equal(await m.$$eval("#keepDigging .cat-tile", ts => ts.length), 8);
     assert.ok(!(await m.evaluate(() => document.documentElement.scrollWidth > innerWidth)), "horizontal overflow");
   });
   await step("no runtime errors (mobile)", async () => assert.deepEqual(noFontErrors(m.errors), []));

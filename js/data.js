@@ -33,7 +33,7 @@
     { id: "dog", q: "Name a dog breed", t: {
       p: "Labrador=labrador retriever=lab|Golden Retriever|German Shepherd|Poodle|Bulldog|Chihuahua|Beagle",
       c: "Labradoodle|Shiba Inu|Xoloitzcuintli=xolo",
-      s: "Pug|Husky=siberian husky|Dachshund|Boxer|Rottweiler|Dalmatian|Great Dane|Corgi=welsh corgi|Pit Bull=pitbull|Yorkshire Terrier=yorkie|Shih Tzu|Doberman=doberman pinscher|Border Collie|Collie|Greyhound|Saint Bernard=st bernard|Maltese|Pomeranian|Cocker Spaniel|French Bulldog=frenchie|Bloodhound|Australian Shepherd=aussie|Jack Russell Terrier=jack russell|Bichon Frise=bichon|Schnauzer|Mastiff",
+      s: "Pug|Husky=siberian husky|Dachshund|Boxer|Rottweiler|Dalmatian|Great Dane|Corgi=welsh corgi|Pit Bull=pitbull|Yorkshire Terrier=yorkie|Shih Tzu|Doberman=doberman pinscher|Border Collie|Collie|Greyhound|Saint Bernard=st bernard|Maltese|Pomeranian|Cocker Spaniel|French Bulldog=frenchie|Bloodhound|Australian Shepherd=aussie|Jack Russell Terrier=jack russell|Bichon Frise=bichon|Schnauzer|Mastiff|Springer Spaniel=english springer spaniel",
       r: "Akita|Basset Hound|Bernese Mountain Dog|Newfoundland|Samoyed|Whippet|Weimaraner|Vizsla|Shar Pei|Chow Chow|Malamute=alaskan malamute|Basenji|Rhodesian Ridgeback|Afghan Hound|Bull Terrier|Cavalier King Charles Spaniel=cavalier|Papillon|Irish Setter|Pointer|Sheltie=shetland sheepdog|Great Pyrenees|Boston Terrier|Havanese|Lhasa Apso|Cane Corso|Pekingese|Scottish Terrier=scottie|Westie=west highland terrier|Wolfhound=irish wolfhound|Borzoi|Saluki",
       d: "Komondor|Puli|Bergamasco|Leonberger|Otterhound|Lagotto Romagnolo|Kooikerhondje|Norwegian Lundehund=lundehund|Azawakh|Mudi|Catahoula|Schipperke|Sloughi|Plott Hound|Kuvasz|Briard|Tibetan Mastiff|Dandie Dinmont Terrier=dandie dinmont|Affenpinscher",
       k: "Peruvian Inca Orchid::A hairless dog kept by the Incas as a living hot-water bottle." } },
@@ -50,7 +50,7 @@
       p: "Carrot|Broccoli|Potato|Lettuce|Onion|Corn|Peas=pea|Spinach",
       c: "Romanesco|Kohlrabi",
       s: "Celery|Cucumber|Cauliflower|Cabbage|Pepper=bell pepper|Green Beans=green bean=string bean|Zucchini=courgette|Asparagus|Kale|Garlic|Beet=beetroot|Radish|Sweet Potato|Eggplant=aubergine|Mushroom|Pumpkin|Squash|Brussels Sprouts=brussel sprouts=brussels sprout|Artichoke|Leek|Turnip|Okra|Yam",
-      r: "Parsnip|Rutabaga=swede|Bok Choy=pak choi|Arugula=rocket|Endive|Fennel|Chard=swiss chard|Collard Greens=collards|Shallot|Scallion=green onion|Watercress|Jicama|Daikon|Edamame|Snow Peas|Celeriac|Radicchio|Taro|Cassava=yuca|Butternut Squash|Mustard Greens|Lima Beans|Chickpeas=chickpea=garbanzo",
+      r: "Parsnip|Rutabaga=swede|Bok Choy=pak choi|Arugula=rocket|Endive|Fennel|Chard=swiss chard|Collard Greens=collards|Shallot|Scallion=green onion|Watercress|Jicama|Daikon|Edamame|Snow Peas|Celeriac|Radicchio|Taro|Cassava=yuca|Butternut Squash|Mustard Greens|Lima Beans|Chickpeas=chickpea=garbanzo|Bamboo Shoots=bamboo shoot",
       d: "Salsify|Sunchoke=jerusalem artichoke|Cardoon|Samphire|Burdock|Lotus Root|Chayote|Fiddlehead|Ramps=ramp|Kalettes|Oca|Celtuce|Mizuna|Purslane|Tatsoi|Skirret|Yacon",
       k: "Crosne=chinese artichoke::A crunchy tuber that looks like a tiny white grub." } },
 
@@ -73,7 +73,7 @@
     { id: "bird", q: "Name a bird", t: {
       p: "Eagle|Robin|Pigeon|Crow|Penguin|Owl|Parrot|Chicken",
       c: "Dodo|Kakapo|Blue-Footed Booby=blue footed booby=booby",
-      s: "Sparrow|Hawk|Duck|Swan|Flamingo|Ostrich|Peacock=peafowl|Hummingbird|Seagull=gull|Pelican|Blue Jay|Cardinal|Woodpecker|Falcon|Vulture|Goose|Turkey|Toucan|Crane|Stork|Heron|Emu|Kiwi|Canary|Raven|Parakeet|Finch|Dove|Magpie|Bald Eagle",
+      s: "Sparrow|Hawk|Duck|Swan|Flamingo|Ostrich|Peacock=peafowl|Hummingbird|Seagull=gull|Pelican|Blue Jay|Cardinal|Woodpecker|Falcon|Vulture|Goose|Turkey|Toucan|Crane|Stork|Heron|Emu|Kiwi|Canary|Raven|Parakeet|Finch|Dove|Magpie|Bald Eagle|Jay",
       r: "Albatross|Puffin|Kingfisher|Cockatoo|Macaw|Condor|Osprey|Swallow|Starling|Wren|Warbler|Nightingale|Lark|Oriole|Egret|Ibis|Cormorant|Kestrel|Quail|Pheasant|Grouse|Sandpiper|Loon|Mockingbird|Roadrunner|Cassowary|Kookaburra|Hornbill|Budgie=budgerigar|Lovebird|Chickadee|Bluebird|Nuthatch|Mallard|Grebe",
       d: "Shoebill|Hoatzin|Potoo|Frigatebird|Secretary Bird|Lyrebird|Bowerbird|Quetzal|Oilbird|Kea|Takahe|Sunbittern|Wrybill|Hammerkop|Jacana|Tragopan|Bee-Eater=bee eater|Oxpecker|Babbler|Dipper|Treecreeper|Godwit|Turnstone|Weka",
       k: "Satin Bowerbird::Decorates its nest with anything blue it can find." } },
@@ -125,14 +125,6 @@
       r: "Orecchiette|Pappardelle|Tagliatelle|Vermicelli|Ditalini|Cavatappi|Gemelli|Campanelle|Radiatori|Paccheri|Tortelloni|Agnolotti|Cavatelli|Ziti Rigati|Trofie|Strozzapreti|Mafaldine|Stelline|Acini di Pepe|Fregola|Casarecce|Anelli|Rotelle=wagon wheel",
       d: "Lumache|Corzetti|Lorighittas|Busiate|Garganelli|Pici|Bigoli|Malloreddus|Testaroli|Scialatielli|Mezzelune|Cappelletti|Sorpresine|Gigli|Calamarata|Creste di Gallo|Trenette|Fileja",
       k: "Su Filindeu::Sardinian 'threads of God', made by only a handful of people alive." } },
-
-    { id: "burrow", q: "Name an animal that burrows underground", t: {
-      p: "Mole|Rabbit|Worm=earthworm|Groundhog=woodchuck|Ant",
-      c: "Naked Mole Rat=naked mole-rat|Aardvark",
-      s: "Gopher|Prairie Dog|Badger|Meerkat|Armadillo|Fox|Chipmunk|Ground Squirrel|Snake|Spider|Tarantula|Termite|Scorpion|Wombat|Hedgehog|Mouse|Rat|Vole|Beetle|Cicada",
-      r: "Echidna|Platypus|Pangolin|Hamster|Gerbil|Shrew|Ferret|Weasel|Fennec Fox|Puffin|Burrowing Owl|Tortoise|Gopher Tortoise|Kingfisher|Crayfish|Crab|Mole Cricket|Caecilian|Salamander|Toad|Lungfish|Skink|Bilby|Kiwi|Tuco-Tuco=tuco tuco|Dung Beetle|Centipede|Millipede|Ant Lion=antlion|Clam",
-      d: "Marsupial Mole|Golden Mole|Mole Salamander|Pocket Gopher|Mole Viper|Worm Lizard=amphisbaenian|Viscacha|Zokor|Mole Rat|Blind Snake|Spadefoot Toad|Trapdoor Spider|Pink Fairy Armadillo|Desert Tortoise|Wolf Spider|Mud Dauber",
-      k: "Star-Nosed Mole::Has 22 fleshy tentacles on its nose and eats faster than any mammal." } },
 
     { id: "gem", q: "Name a gemstone", t: {
       p: "Diamond|Ruby|Emerald|Sapphire",
@@ -206,21 +198,13 @@
       d: "Home on the Range|Dinosaur|Saludos Amigos|The Three Caballeros=three caballeros|Make Mine Music|Fun and Fancy Free|Melody Time|The Adventures of Ichabod and Mr. Toad=ichabod and mr toad|The Many Adventures of Winnie the Pooh|Winnie the Pooh|The Rescuers Down Under=rescuers down under|The Good Dinosaur=good dinosaur|Lightyear",
       k: "Victory Through Air Power::A 1943 Disney film arguing for long-range bombing." } },
 
-    { id: "fish", q: "Name a fish you can eat", t: {
+    { id: "fish", q: "Name a fish", t: {
       p: "Salmon|Tuna|Cod|Tilapia|Trout",
       c: "Fugu=pufferfish|Surströmming=surstromming",
       s: "Halibut|Catfish|Bass=sea bass|Mackerel|Sardine|Anchovy|Haddock|Swordfish|Mahi-Mahi=mahi mahi=dorado|Snapper=red snapper|Flounder|Herring|Perch|Pollock|Sole|Grouper|Carp|Eel|Pike|Sturgeon|Walleye",
       r: "Branzino|Monkfish|Turbot|Skate|Barramundi|Sablefish=black cod|Arctic Char|Bluefish|Whiting|Hake|Pompano|Wahoo|Amberjack|Yellowtail=hamachi|Orange Roughy|Chilean Sea Bass=patagonian toothfish|Shad|Smelt|Bream|Dory=john dory|Mullet|Kingfish|Snook|Crappie|Bluegill|Sprat|Cobia|Tilefish|Butterfish|Lingcod",
       d: "Opah|Escolar|Hapuku|Lionfish|Wolffish|Lamprey|Gar|Burbot|Bombay Duck|Hilsa|Milkfish|Pomfret|Arapaima|Tautog|Scup|Sheepshead|Triggerfish|Barracuda|Parrotfish|Ayu|Ikan Bilis|Cisco|Vendace",
       k: "Hákarl=fermented shark::Icelandic shark, cured for months. Famously smells of ammonia." } },
-
-    { id: "cloud", q: "Name a type of cloud", t: {
-      p: "Cumulus|Cirrus|Stratus|Rain Cloud=storm cloud",
-      c: "Mammatus",
-      s: "Cumulonimbus|Nimbus|Nimbostratus|Altostratus|Altocumulus|Cirrostratus|Cirrocumulus|Stratocumulus|Thundercloud=thunderhead",
-      r: "Lenticular|Shelf Cloud|Wall Cloud|Funnel Cloud|Noctilucent|Contrail|Pileus|Anvil=incus|Roll Cloud|Mackerel Sky|Pyrocumulus|Nacreous=polar stratospheric",
-      d: "Kelvin-Helmholtz=fluctus|Asperitas|Undulatus|Virga|Arcus|Castellanus|Floccus|Velum|Pannus|Tuba|Cavum=hole punch cloud=fallstreak|Morning Glory|Murus|Cauda|Flammagenitus|Homogenitus",
-      k: "Silvagenitus::A cloud made by a forest breathing out moisture." } },
 
     { id: "flower", q: "Name a flower", t: {
       p: "Rose|Tulip|Daisy|Sunflower|Lily|Orchid",
@@ -234,7 +218,7 @@
       p: "Rattlesnake|Cobra|Python|Anaconda|Garter Snake",
       c: "Black Mamba|Inland Taipan",
       s: "Boa=boa constrictor|King Cobra|Viper|Copperhead|Cottonmouth=water moccasin|Corn Snake|King Snake=kingsnake|Mamba|Green Mamba|Ball Python|Coral Snake|Milk Snake|Rat Snake|Adder|Sea Snake|Grass Snake|Asp|Sidewinder",
-      r: "Bushmaster|Fer-de-Lance|Gaboon Viper|Puff Adder|Taipan|Boomslang|Krait|Tiger Snake|Brown Snake=eastern brown snake|Death Adder|Hognose Snake=hognose|Tree Python|Reticulated Python|Burmese Python|Racer|Whipsnake|Pit Viper|Horned Viper|Rhinoceros Viper|Twig Snake|Vine Snake|Bull Snake|Indigo Snake",
+      r: "Bushmaster|Fer-de-Lance|Gaboon Viper|Puff Adder|Taipan|Boomslang|Krait|Tiger Snake|Brown Snake=eastern brown snake|Death Adder|Hognose Snake=hognose|Tree Python|Reticulated Python|Burmese Python|Racer|Whipsnake|Pit Viper|Horned Viper|Rhinoceros Viper|Twig Snake|Vine Snake|Bull Snake|Indigo Snake|Green Tree Python|Blood Python|Carpet Python|Ribbon Snake",
       d: "Flying Snake|Tentacled Snake|Sunbeam Snake|Blind Snake|Spider-Tailed Horned Viper|Rough Green Snake|Wolf Snake|Kukri Snake|Mangrove Snake|Paradise Tree Snake|Shieldtail|Pipe Snake|Wart Snake=file snake|Egg-Eating Snake|Leaf-Nosed Snake|Mud Snake|Ringneck Snake|Brahminy Blind Snake",
       k: "Barbados Threadsnake=threadsnake::The smallest snake known: about 10 cm long." } },
 
@@ -325,22 +309,6 @@
       r: "Pinochle|Whist|Bezique|Piquet|Ecarte|Klondike|Spider Solitaire=spider|FreeCell|Pyramid|Kings in the Corner|Rook|Pitch|Oh Hell|Durak|Scopa|Briscola|Tarot=tarot cards|Mau Mau|Concentration=memory|Sheepshead|Hanabi|Dutch Blitz|Set|Fluxx|Love Letter|Coup|Bang!=bang|Munchkin|Yu-Gi-Oh=yugioh",
       d: "Skat|Belote|Jass|Tute|Mus|Truco|Hanafuda|Karuta|Cassino|Faro|Klaberjass|Schafkopf|Doppelkopf|Tichu|Sueca|Bourre|Pedro|Napoleon|Pishe Pasha|Bisca|Sixty-Six|Brisca|Callabra|Cuarenta",
       k: "Cucumber=gurka::A Nordic trick-taking game where you avoid the last trick." } },
-
-    { id: "shade", q: "Name a shade of blue", t: {
-      p: "Navy=navy blue|Sky Blue|Royal Blue|Light Blue|Baby Blue",
-      c: "International Klein Blue=klein blue|Blurple",
-      s: "Teal|Turquoise|Cyan|Aqua|Cobalt|Indigo|Azure|Cerulean|Sapphire|Powder Blue|Midnight Blue|Electric Blue|Denim|Ultramarine|Periwinkle|Tiffany Blue|Robin's Egg Blue=robins egg",
-      r: "Prussian Blue|Steel Blue|Cornflower Blue|Dodger Blue|Ice Blue|Slate Blue|Cadet Blue|Alice Blue|Persian Blue|Egyptian Blue|Oxford Blue|Yale Blue|Carolina Blue|Columbia Blue|Air Force Blue|Peacock Blue|Duck Egg Blue|Delft Blue|Majorelle Blue|Phthalo Blue|Lapis",
-      d: "YInMn Blue=yinmn|Smalt|Bice|Zaffre|Glaucous|Liberty Blue|Han Blue|Maya Blue|Bleu de France|Falu Blue|Celeste|Fluorite Blue|Tufts Blue|Uranian Blue|Vista Blue|Byzantine Blue|Sapphire Glow",
-      k: "Woad::The plant dye ancient Britons painted themselves with." } },
-
-    { id: "rhymecat", q: "Name a word that rhymes with \"cat\"", t: {
-      p: "Hat|Bat|Mat|Rat|Sat|Fat",
-      c: "Cravat|Habitat",
-      s: "Pat|Flat|That|Chat|Brat|Splat|Vat|Gnat|Spat|Slat|Tat|Drat|Scat|Format|Combat|Acrobat|Diplomat|Thermostat|Doormat|Wombat",
-      r: "Aristocrat|Bureaucrat|Democrat|Autocrat|Technocrat|Laundromat|Copycat|Fiat|Begat|Muskrat|Nonfat|Lowfat|Ziggurat|Caveat|Cowpat|Tomcat|Hellcat|Bobcat|Wildcat|Ratatat|Hazmat|Photostat|Rheostat|Aerostat|Plutocrat|Meritocrat",
-      d: "Ararat|Kalat|Concordat|Marabout|Prat|Plait|Ghat|Ewart|Sprat|Stat|Assignat|Magnificat|Heliostat|Gyrostat|Hydrostat|Kat|Krat|Pyat|Tat-tat|Lariat|Commissariat|Proletariat|Secretariat|Baccarat|Muscat|Samizdat|Tit for Tat=tit for tat",
-      k: "Kittycat::Rhymes with cat. Also is a cat." } },
 
     { id: "currency", q: "Name a currency", t: {
       p: "Dollar|Euro|Pound=pound sterling|Yen|Peso",

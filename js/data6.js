@@ -17,14 +17,6 @@
       d: "Kuru|Fatal Familial Insomnia|Progeria|Fibrodysplasia Ossificans Progressiva=fop|Elephantiasis|Trench Foot|Sweating Sickness|Ergotism|St. Vitus Dance|Chagas|Leishmaniasis|Trypanosomiasis=sleeping sickness|Guinea Worm|Yaws|Pinta|Buruli Ulcer|Kawasaki Disease|Moyamoya|Stendhal Syndrome|Jerusalem Syndrome|Foreign Accent Syndrome|Alice in Wonderland Syndrome",
       k: "Dancing Plague=Dancing Plague of 1518=dancing mania::Hundreds in Strasbourg danced for days and couldn't stop." } },
 
-    { id: "science", q: "Name a branch of science", t: {
-      p: "Biology|Chemistry|Physics|Astronomy|Geology",
-      c: "Astrology|Alchemy",
-      s: "Ecology|Zoology|Botany|Genetics|Neuroscience|Psychology|Anatomy|Meteorology|Oceanography|Paleontology|Microbiology|Biochemistry|Astrophysics|Quantum Physics=quantum mechanics|Anthropology|Archaeology|Sociology|Medicine|Computer Science|Mathematics=math",
-      r: "Entomology|Ornithology|Herpetology|Ichthyology|Mycology|Virology|Immunology|Epidemiology|Pathology|Pharmacology|Toxicology|Seismology|Volcanology|Glaciology|Hydrology|Limnology|Mineralogy|Petrology|Cosmology|Thermodynamics|Optics|Acoustics|Crystallography|Taxonomy|Cytology|Histology|Endocrinology|Embryology|Forensics|Linguistics",
-      d: "Speleology|Dendrochronology|Palynology|Bryology|Lichenology|Malacology|Nematology|Acarology|Arachnology|Myrmecology|Oology|Cetology|Primatology|Selenology|Tribology|Rheology|Pedology|Edaphology|Ethology|Phycology|Carcinology|Helminthology|Dermatoglyphics|Cryobiology",
-      k: "Areology=Areology Mars::The geology of Mars, named after Ares." } },
-
     { id: "scientist", q: "Name a famous scientist", t: {
       p: "Albert Einstein=einstein|Isaac Newton=newton|Marie Curie=curie|Charles Darwin=darwin|Stephen Hawking=hawking",
       c: "Nikola Tesla=tesla|Bill Nye",
@@ -40,14 +32,6 @@
       r: "Heptagon|Nonagon|Decagon|Dodecagon|Kite|Prism|Tetrahedron|Octahedron|Icosahedron|Torus|Cuboid|Hemisphere|Spiral|Helix|Quadrilateral|Polygon|Annulus|Arc|Sector|Chevron|Trefoil|Quatrefoil|Scalene Triangle|Isosceles Triangle|Right Triangle",
       d: "Deltoid|Astroid|Cardioid|Lemniscate|Rhombicuboctahedron|Reuleaux Triangle|Mobius Strip|Klein Bottle|Hendecagon|Tridecagon|Chiliagon|Myriagon|Apeirogon|Superellipse|Squircle|Stadium|Lune|Vesica Piscis|Salinon|Arbelos|Pentagram|Hexagram|Enneagram",
       k: "Gomboc::A 3D shape that always rolls itself upright, discovered in 2006." } },
-
-    { id: "moon", q: "Name a moon in the solar system", t: {
-      p: "The Moon=moon=luna|Europa|Titan|Io|Ganymede",
-      c: "Phobos",
-      s: "Callisto|Deimos|Enceladus|Triton|Charon|Mimas|Titania|Oberon",
-      r: "Rhea|Iapetus|Dione|Tethys|Hyperion|Phoebe|Miranda|Ariel|Umbriel|Nereid|Proteus|Amalthea|Himalia|Pandora|Prometheus|Janus|Epimetheus|Nix|Hydra|Dysnomia",
-      d: "Metis|Adrastea|Thebe|Elara|Pasiphae|Sinope|Carme|Ananke|Leda|Lysithea|Atlas|Pan|Daphnis|Helene|Telesto|Calypso|Ymir|Cordelia|Ophelia|Bianca|Cressida|Desdemona|Juliet|Portia|Rosalind|Belinda|Puck|Caliban|Sycorax|Larissa|Galatea|Despina|Thalassa|Naiad|Halimede|Kerberos|Styx|Hi'iaka|Namaka|Vanth|Weywot",
-      k: "Kiviuq=Kiviuq Inuit=kiviuq moon::A Saturn moon named after an Inuit hero who outlives everyone." } },
 
     { id: "profession", q: "Name a job or profession", t: {
       p: "Doctor|Teacher|Nurse|Lawyer|Firefighter|Police Officer=cop",
@@ -135,55 +119,8 @@
       s: "Mercedes-Benz=mercedes|Audi|Volkswagen=vw|Nissan|Hyundai|Kia|Subaru|Mazda|Jeep|Dodge|Ram|GMC|Cadillac|Lexus|Acura|Infiniti|Porsche|Ferrari|Lamborghini|Volvo|Jaguar|Land Rover|Mini|Fiat|Buick|Chrysler|Lincoln|Mitsubishi|Bentley|Rolls-Royce|Maserati",
       r: "Aston Martin|Bugatti|McLaren|Alfa Romeo|Peugeot|Renault|Citroen|Skoda|Seat|Opel|Vauxhall|Saab|Pontiac|Oldsmobile|Plymouth|Mercury|Saturn|Hummer|Genesis|Polestar|Rivian|Lucid|BYD|Lotus|Koenigsegg|Pagani|Suzuki|Isuzu|Daewoo|Smart|Dacia|Lancia|Rover|MG|Holden|Tata|Mahindra",
       d: "Studebaker|Packard|Hudson|Nash|AMC|Tucker|Edsel|Cord|Duesenberg|Pierce-Arrow|Stutz|Auburn|Hispano-Suiza|Isotta Fraschini|Bristol|Morgan|TVR|Reliant|Wartburg|Lada|Moskvitch|Zastava|Proton|Perodua|Hindustan|Spyker|Noble|Ginetta|Caterham|Rimac|Wiesmann|Bizzarrini",
-      k: "Trabant::An East German car with a body made of resin-reinforced cotton waste." } },
+      k: "Trabant::An East German car with a body made of resin-reinforced cotton waste." } }
 
-    { id: "yellow", q: "Name something that is yellow", t: {
-      p: "Banana|Sun|Lemon|School Bus|Corn|Taxi",
-      c: "Minions|Tweety",
-      s: "Pikachu|SpongeBob|Big Bird|Rubber Duck|Egg Yolk|Butter|Mustard|Cheese|Sunflower|Daffodil|Dandelion|Canary|Bee|Pencil|Highlighter|Caution Tape|Traffic Light|Smiley Face|Post-it Note|Tennis Ball|Gold|Pineapple|Homer Simpson|Bart Simpson|Lego Man|Yield Sign",
-      r: "Saffron|Turmeric|Goldfinch|Banana Slug|Lemon Shark|Sulfur|Yellow Brick Road|Yellow Submarine|Yellow Pages|Yellow Card|Yellow Jersey|Hard Hat|Raincoat|Tweety Bird|Pac-Man|Twinkie|Peeps|Lemonhead|Mellow Yello|Mountain Dew|Cheerios Box|Livestrong Bracelet|Brimstone Butterfly|Buttercup|Forsythia|Goldenrod|Marigold|Mimosa|Wattle",
-      d: "Orpiment|Gamboge|Naples Yellow|Chrome Yellow|Cadmium Yellow|Yellow Ochre|Xanthophyll|Canary Diamond|Citrine|Golden Poison Frog|Yellow Tang|Yellow Boxfish|Golden Silk Orb-Weaver|Yellowhammer|Yellowthroat|Weaver Bird|Oriole|Yellow Fever Flag|Quarantine Flag|Yellow Vest|Gilet Jaune",
-      k: "Indian Yellow=Indian Yellow Pigment=euxanthin::A paint pigment once said to be made from the urine of mango-fed cows." } },
-
-    { id: "rhymelight", q: "Name a word that rhymes with \"light\"", t: {
-      p: "Night|Bright|Right|Fight|Kite|Sight|White",
-      c: "Dynamite|Kryptonite",
-      s: "Bite|Might|Tight|Flight|Write|Height|Fright|Quite|Site|Spite|Mite|Rite|Knight|Slight|Plight|Delight|Polite|Invite|Ignite|Unite|Tonight|Despite|Alright|Midnight|Daylight|Sunlight|Moonlight|Spotlight|Flashlight|Twilight|Highlight|Goodnight",
-      r: "Appetite|Satellite|Parasite|Termite|Erudite|Recite|Contrite|Excite|Incite|Overnight|Outright|Upright|Downright|Forthright|Copyright|Playwright|Birthright|Insight|Hindsight|Foresight|Oversight|Eyesight|Stalactite|Stalagmite|Meteorite|Anthracite|Bauxite|Graphite|Lite|Byte|Megabyte|Kilobyte|Gigabyte",
-      d: "Troglodyte|Neophyte|Acolyte|Proselyte|Expedite|Extradite|Recondite|Bedight|Smite|Blight|Wight|Sprite|Trite|Bight|Plebiscite|Leucite|Cordite|Ammonite|Lignite|Dolomite|Calcite|Pyrite|Magnetite|Hematite|Malachite|Chlorite|Leukocyte|Lymphocyte",
-      k: "Erythrocyte=red blood cell::Rhymes with light, and there are 25 trillion of them in you." } },
-
-    { id: "ology", q: "Name a word that ends in \"-ology\"", t: {
-      p: "Biology|Psychology|Technology|Geology|Sociology|Astrology",
-      c: "Scientology|Apology",
-      s: "Zoology|Theology|Archaeology|Anthropology|Ecology|Cardiology|Neurology|Mythology|Criminology|Terminology|Ideology|Methodology|Chronology|Physiology|Radiology|Dermatology|Oncology|Pathology|Meteorology|Musicology|Etymology|Cosmology|Paleontology|Ontology|Trilogy|Anthology",
-      r: "Entomology|Ornithology|Herpetology|Ichthyology|Mycology|Virology|Immunology|Epidemiology|Pharmacology|Toxicology|Seismology|Volcanology|Gemology|Hydrology|Limnology|Mineralogy|Cytology|Histology|Endocrinology|Gastroenterology|Urology|Nephrology|Hematology|Ophthalmology|Audiology|Gerontology|Numerology|Phrenology|Graphology|Scatology|Eschatology|Tautology|Analogy|Doxology|Genealogy|Penology|Escapology",
-      d: "Speleology|Dendrology|Oology|Cetology|Myrmecology|Arachnology|Malacology|Selenology|Campanology|Deltiology|Numismatology|Oenology|Zymology|Pogonology|Nephology|Hippology|Oneirology|Thanatology|Phenomenology|Teleology|Soteriology|Christology|Hagiology|Agrostology|Bryology|Pteridology|Batrachology",
-      k: "Vexillology=Vexillology Flags::The study of flags. Its fans are called vexillologists." } },
-
-    { id: "phobia", q: "Name a phobia", t: {
-      p: "Arachnophobia|Claustrophobia|Acrophobia|Agoraphobia",
-      c: "Hippopotomonstrosesquippedaliophobia|Triskaidekaphobia",
-      s: "Xenophobia|Homophobia|Hydrophobia|Aerophobia|Coulrophobia|Ophidiophobia|Nyctophobia|Trypophobia|Germophobia=mysophobia|Technophobia|Glossophobia|Emetophobia|Thanatophobia|Cynophobia|Hemophobia",
-      r: "Trypanophobia|Astraphobia|Entomophobia|Ailurophobia|Musophobia|Ornithophobia|Thalassophobia|Nomophobia|Philophobia|Gamophobia|Androphobia|Gynophobia|Pyrophobia|Autophobia|Necrophobia|Phasmophobia|Iatrophobia|Dentophobia|Atychophobia|Podophobia|Pogonophobia|Odontophobia|Chronophobia|Somniphobia",
-      d: "Anatidaephobia|Pteronophobia|Omphalophobia|Ergophobia|Hexakosioihexekontahexaphobia|Paraskevidekatriaphobia|Ephebiphobia|Phobophobia|Sesquipedalophobia|Alektorophobia|Ombrophobia|Chionophobia|Heliophobia|Selenophobia|Xanthophobia|Chromophobia|Eisoptrophobia|Catoptrophobia|Lachanophobia|Turophobia|Allodoxaphobia",
-      k: "Arachibutyrophobia=fear of peanut butter::Fear of peanut butter sticking to the roof of your mouth." } },
-
-    { id: "onomatopoeia", q: "Name a sound word (onomatopoeia)", t: {
-      p: "Boom|Bang|Pop|Buzz|Meow|Woof",
-      c: "Onomatopoeia|Kerplunk",
-      s: "Crash|Splash|Moo|Oink|Quack|Hiss|Sizzle|Click|Clap|Ding|Dong|Ring|Tick Tock|Knock|Thud|Whoosh|Zoom|Vroom|Beep|Honk|Achoo|Hiccup|Gulp|Burp|Slurp|Crunch|Munch|Zap|Pow|Wham|Bam|Cuckoo|Tweet|Chirp|Roar|Growl|Purr|Baa|Neigh|Ribbit|Hoot|Cock-a-doodle-doo",
-      r: "Splat|Squelch|Squish|Plop|Drip|Fizz|Clang|Clank|Clink|Jingle|Rattle|Rustle|Thump|Twang|Boing|Swish|Swoosh|Whack|Thwack|Kaboom|Kapow|Zing|Bloop|Blip|Glug|Gurgle|Murmur|Mumble|Grunt|Snort|Snore|Yawn|Sniff|Whimper|Yelp|Howl|Bray|Caw|Coo|Squawk|Tsk|Shh|Psst|Ahem|Brr",
-      d: "Susurrus|Plink|Plonk|Ker-ching|Kerfuffle|Brouhaha|Hullabaloo|Tintinnabulation|Ululate|Crepitus|Borborygmus|Fwoosh|Thwip|Bamf|Shoop|Vwoorp|Ping|Pitter-Patter|Flip-Flop|Hubbub|Chug|Clatter|Clop|Clomp|Sproing",
-      k: "Snikt::The sound Wolverine's claws make, invented by Marvel letterers." } },
-
-    { id: "greekletter", q: "Name a letter of the Greek alphabet", t: {
-      p: "Alpha|Beta|Pi|Omega|Delta|Gamma",
-      c: "Sigma",
-      s: "Epsilon|Theta|Lambda|Mu|Psi|Phi|Chi|Tau|Zeta|Omicron",
-      r: "Eta|Iota|Kappa|Nu|Xi|Rho|Upsilon",
-      d: "Digamma|Koppa|San|Stigma|Heta|Sho|Wau",
-      k: "Sampi::An ancient letter that survives only as the number 900." } }
   ];
 
   root.CP = root.CP || {};

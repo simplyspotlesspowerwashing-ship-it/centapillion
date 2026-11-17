@@ -238,7 +238,7 @@ BLOCK = {
 }
 # A single everyday word scores too easily ("Milk" river, "Sake" language).
 COMMON_WORD_ZIPF = 4.6
-STRICT_COMMON = {"spokenlang": 3.0, "river": 4.0, "cocktail": 4.2}
+STRICT_COMMON = {"spokenlang": 3.0, "river": 4.0, "cocktail": 4.2, "uscity": 3.4, "europecity": 3.4, "italycity": 3.4, "japancity": 3.4}
 
 
 def edit1(a, b):
@@ -261,7 +261,7 @@ def edit1(a, b):
 
 def hand_keys():
     js = r"""
-for (const f of ["data","data2","data3","data4","data5","data6"]) require("./js/"+f+".js");
+for (const f of ["data","data2","data3","data4","data5","data6","data7"]) require("./js/"+f+".js");
 const CP=require("./js/engine.js"),E=CP.engine;const o={};
 for(const p of CP.PROMPTS){const a=E.indexFor(p).answers.filter(x=>!x.extra);
 o[p.id]={q:p.q,keys:a.flatMap(x=>x.keys),gem:a.find(x=>x.tier==="k").keys,
@@ -302,7 +302,20 @@ WIKIDATA = os.path.join(ROOT, "tools", "wikidata")
 WIKIDATA_SKIP = {"unit", "houseplant", "console", "musical", "pixar", "reptile", "disney"}
 
 
+# Broad prompts built from several cached lists ("Name an animal" takes every species list).
+COMPOSITE = {
+    "animal": ["mammal", "bird", "rodent", "primate", "shark", "whale", "amphibian", "snake", "fish", "insect", "extinct"],
+}
+
+
 def wikidata_items(pid):
+    if pid in COMPOSITE:
+        best = {}
+        for part in COMPOSITE[pid]:
+            for name, sl in wikidata_items(part):
+                if sl > best.get(name, -1):
+                    best[name] = sl
+        return sorted(([n, v] for n, v in best.items()), key=lambda x: -x[1])
     path = os.path.join(WIKIDATA, pid + ".json")
     if pid in WIKIDATA_SKIP or not os.path.exists(path):
         return []
@@ -337,10 +350,10 @@ def main():
         sys.exit("corpora checkout not found at %s (set CORPORA=...)" % CORPORA)
     hand = hand_keys()
     extra, log = OrderedDict(), []
-    pids = list(OrderedDict.fromkeys(list(SOURCES) + sorted(f[:-5] for f in os.listdir(WIKIDATA) if f.endswith(".json"))))
+    pids = list(OrderedDict.fromkeys(list(SOURCES) + sorted(f[:-5] for f in os.listdir(WIKIDATA) if f.endswith(".json")) + list(COMPOSITE)))
     for pid in pids:
-        if pid not in hand:
-            sys.exit("unknown prompt id " + pid)
+        if pid not in hand:          # source or cache for a retired prompt
+            continue
         H = hand[pid]
         generic = CATEGORY_WORDS | {w for w in norm(H["q"]).split() if len(w) > 2 and w not in STOP_Q}
         generic |= {w[:-1] for w in generic if w.endswith("s")}
@@ -429,7 +442,7 @@ def main():
              "ranked by popularity: Wikidata answers by how many Wikipedia language editions cover them, with",
              "cut-offs calibrated on where that prompt's hand-ranked answers sit; dataset answers by word frequency",
              "(Zipf ≥ 3.3 Burrower, ≥ 2.2 Rare, otherwise Deep Cut). Hand ranks always win, and only the hand pass",
-             "sets Topsoil, Too Clever and the Mother Lode.", "",
+             "sets Topsoil, Too Clever and the One in a Centapillion.", "",
              "Total extra answers: **%d** across %d prompts." % (total, len(log)), "",
              "| Prompt | Hand keys | Added | Burrower | Rare | Deep Cut | From | Wikidata ranks | Skipped |",
              "|---|---|---|---|---|---|---|---|---|"]

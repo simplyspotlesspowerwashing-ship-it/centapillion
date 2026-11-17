@@ -26,6 +26,36 @@ def taxon(clade, min_sl):
 # prompt id -> graph pattern selecting ?x, and a minimum sitelink count
 SPEC = {
     # current sovereign states only (no dissolution date), current capitals only (no end date)
+    # --- broad prompts ---
+    "country": {"where": "?x wdt:P31 wd:Q3624078 . FILTER NOT EXISTS { ?x wdt:P576 ?end }", "min": 0},
+    "worldcapital": {"where": "?c wdt:P31 wd:Q3624078 ; p:P36 ?st . ?st ps:P36 ?x . "
+                              "FILTER NOT EXISTS { ?c wdt:P576 ?end } FILTER NOT EXISTS { ?st pq:P582 ?stop }", "min": 0},
+    "uscity": {"where": "?x wdt:P31 wd:Q1093829 .", "min": 12},
+    "europecity": {"where": "VALUES ?t { wd:Q1549591 wd:Q515 } ?x wdt:P31 ?t ; wdt:P17 ?c . ?c wdt:P30 wd:Q46 .", "min": 30},
+    "athlete": {"where": "VALUES ?o { wd:Q937857 wd:Q3665646 wd:Q10833314 wd:Q19204627 wd:Q10871364 wd:Q11774891 wd:Q11338576 "
+                         "wd:Q378622 wd:Q13156709 wd:Q11513337 wd:Q10843402 wd:Q12299841 wd:Q13382576 wd:Q13381863 } ?x wdt:P106 ?o ; wdt:P641 ?sport .", "min": 60},  # has a sport (drops Camus, Bush)
+    "nbaplayer": {"where": "?x wdt:P106 wd:Q3665646 ; wdt:P54 ?team . ?team wdt:P118 wd:Q155223 .", "min": 12},
+    "author": {"where": "VALUES ?o { wd:Q36180 wd:Q6625963 wd:Q49757 wd:Q214917 wd:Q4853732 } ?x wdt:P106 ?o .", "min": 70},
+    "musician": {"where": "VALUES ?o { wd:Q177220 wd:Q639669 wd:Q2252262 wd:Q488205 wd:Q36834 } ?x wdt:P106 ?o ; wdt:P569 ?b . FILTER(YEAR(?b) > 1900)", "min": 60},
+    "actor": {"where": "VALUES ?o { wd:Q33999 wd:Q10800557 wd:Q10798782 } ?x wdt:P106 ?o .", "min": 70},
+    "soccerclub": {"where": "?x wdt:P31 wd:Q476028 .", "min": 30},
+    "beatles": {"where": "?x wdt:P175 wd:Q1299 ; wdt:P31/wdt:P279* wd:Q7366 .", "min": 0},
+    "taylorswift": {"where": "?x wdt:P175 wd:Q26876 ; wdt:P31/wdt:P279* wd:Q7366 .", "min": 0},
+    "horse": {"where": "?x wdt:P31 wd:Q1160573 .", "min": 0},
+    "marvel": {"where": "?x wdt:P1080 wd:Q931597 ; wdt:P31/wdt:P279* wd:Q95074 .", "min": 4},
+    "disneychar": {"where": "?x wdt:P31/wdt:P279* wd:Q95074 ; wdt:P1441 ?w . ?w wdt:P272 wd:Q1047410 .", "min": 3},
+    "carmodel": {"where": "?x wdt:P31 wd:Q3231690 .", "min": 10},
+    "fashionbrand": {"where": "VALUES ?t { wd:Q1618899 wd:Q3661311 } ?x wdt:P31 ?t .", "min": 6},
+    "romangod": {"where": "?x wdt:P31 wd:Q11688446 .", "min": 0},
+    "fish": {"where": "?x wdt:P171+ wd:Q127282 . ?x wdt:P1843 ?cn . FILTER(lang(?cn) = 'en')", "min": 8, "common": True},
+    # --- widen thin prompts ---
+    "snake": {"where": "?x wdt:P171+ wd:Q2102 . ?x wdt:P1843 ?cn . FILTER(lang(?cn) = 'en')", "min": 3, "common": True},
+    "extinct": {"where": "?x wdt:P141 wd:Q237350 ; wdt:P1843 ?cn . FILTER(lang(?cn) = 'en')", "min": 3, "common": True},
+    "fruit": {"where": "?x %s wd:Q3314483 ." % KIND, "min": 4},
+    "vegetable": {"where": "?x %s wd:Q11004 ." % KIND, "min": 4},
+    "berry": {"where": "?x %s wd:Q13184 ." % KIND, "min": 3},
+    "superhero": {"where": "?x wdt:P31 wd:Q188784 .", "min": 3},
+    "superhero_villain": {"where": "?x wdt:P31 wd:Q6498903 .", "min": 3},
     "africa": {"where": "?x wdt:P31 wd:Q3624078 ; wdt:P30 wd:Q15 . FILTER NOT EXISTS { ?x wdt:P576 ?end }", "min": 0},
     "asia": {"where": "?x wdt:P31 wd:Q3624078 ; wdt:P30 wd:Q48 . FILTER NOT EXISTS { ?x wdt:P576 ?end }", "min": 0},
     "europe": {"where": "?x wdt:P31 wd:Q3624078 ; wdt:P30 wd:Q46 . FILTER NOT EXISTS { ?x wdt:P576 ?end }", "min": 0},

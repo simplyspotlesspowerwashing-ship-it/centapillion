@@ -20,7 +20,7 @@
   // Rarity tiers, most common to rarest. Colours follow the white, orange,
   // blue, red, purple, gold ladder.
   // Krillion's six ranks, same points and colours, renamed for digging:
-  // Plankton -> Topsoil, Schooler -> Burrower, One in a Krillion -> Mother Lode.
+  // Plankton -> Topsoil, Schooler -> Burrower, One in a Krillion -> One in a Centapillion.
   var TIERS = {
     p: { id: "p", key: "topsoil", name: "Topsoil", score: 10, emoji: "🌱", color: "#d7e1f2",
          blurb: "The answer everyone digs up first.", depth: 0.08 },
@@ -32,7 +32,7 @@
          blurb: "Genuinely uncommon. Nice find.", depth: 0.6 },
     d: { id: "d", key: "deepcut", name: "Deep Cut", score: 85, emoji: "🔮", color: "#9d7bff",
          blurb: "True obscurity. Few dig this deep.", depth: 0.82 },
-    k: { id: "k", key: "motherlode", name: "Mother Lode", score: 100, emoji: "🌟", color: "#ffd166",
+    k: { id: "k", key: "centapillion", name: "One in a Centapillion", score: 100, emoji: "🌟", color: "#ffd166",
          blurb: "The designated gem. Earth's core.", depth: 0.97 }
   };
   var TIER_IDS = ["p", "c", "s", "r", "d", "k"];
@@ -46,7 +46,7 @@
     { min: 151, tier: "s", range: "151–250", verdict: "Burrower. Tunnelling with the colony." },
     { min: 251, tier: "r", range: "251–350", verdict: "Rare. Below the bedrock. Nice." },
     { min: 351, tier: "d", range: "351–449", verdict: "Deep cut. Seriously deep dig." },
-    { min: 450, tier: "k", range: "450+", verdict: "Mother lode. Core dweller. Absurd." }
+    { min: 450, tier: "k", range: "450+", verdict: "One in a Centapillion. Core dweller. Absurd." }
   ];
   var GAUGE_MAX = MAX_DAY_SCORE;
 
@@ -417,6 +417,26 @@
   function promptsForDay(n, bank) { return sequenceSet(n, bank, 0x5eed); }
   // Unlimited digs are numbered too, on their own sequence, so they can be replayed.
   function promptsForUnlimited(n, bank) { return sequenceSet(n, bank, 0xd16); }
+  // Category digs: numbered too, drawn only from that category's prompts.
+  function category(id) {
+    var list = CP.CATEGORIES || [];
+    for (var i = 0; i < list.length; i++) if (list[i].id === id) return list[i];
+    return null;
+  }
+  function categoryBank(id, bank) {
+    var cat = category(id);
+    if (!cat) return [];
+    var want = {};
+    cat.ids.forEach(function (x) { want[x] = true; });
+    return bank.filter(function (p) { return want[p.id]; });
+  }
+  function promptsForCategory(id, n, bank) {
+    var sub = categoryBank(id, bank);
+    if (sub.length < CONFIG.ROUNDS) return [];
+    var salt = 0xca7;
+    for (var i = 0; i < id.length; i++) salt = (salt * 31 + id.charCodeAt(i)) % 1000003;
+    return sequenceSet(n, sub, salt);
+  }
 
   // Each pass is a reshuffle of the whole bank. Prompts from the second half
   // of one pass are kept out of the first half of the next, so a prompt never
@@ -498,7 +518,9 @@
   }
 
   function shareText(opts) {
-    var label = opts.mode === "unlimited" ? "Centapillion ∞ #" + opts.game
+    var cat = opts.mode === "category" ? category(opts.category) : null;
+    var label = cat ? "Centapillion " + cat.icon + " " + cat.name + " #" + opts.game
+      : opts.mode === "unlimited" ? "Centapillion ∞ #" + opts.game
       : opts.mode === "archive" ? "Centapillion ⟲ #" + opts.game
       : "Centapillion #" + opts.game;
     // Krillion's format: title, then one emoji per round for its best answer.
@@ -533,7 +555,8 @@
     normalize: normalize, compact: compact, phonetic: phonetic, indexFor: indexFor, lookup: lookup,
     editDistance: editDistance, nearest: nearest, judge: judge,
     mulberry32: mulberry32, dayNumber: dayNumber, dateForDay: dateForDay,
-    promptsForDay: promptsForDay, promptsForUnlimited: promptsForUnlimited, randomPrompts: randomPrompts,
+    promptsForDay: promptsForDay, promptsForUnlimited: promptsForUnlimited, promptsForCategory: promptsForCategory,
+    category: category, categoryBank: categoryBank, randomPrompts: randomPrompts,
     roundScore: roundScore, bestAnswer: bestAnswer, totalScore: totalScore, byRarity: byRarity,
     bandFor: bandFor, fmtMetres: fmtMetres, shareText: shareText, rowEmoji: rowEmoji,
     answerSheet: answerSheet

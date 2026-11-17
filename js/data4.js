@@ -98,14 +98,6 @@
       d: "Derawar Fort|Great Mosque of Djenne|Lalibela|Mohenjo-daro|Persepolis|Bagan|Prambanan|Shwedagon|Sigiriya|Hampi|Meteora|Kizhi Pogost|Sedlec Ossuary|Hallgrimskirkja|Kinderdijk|Carcassonne|Ggantija|Skara Brae|Newgrange",
       k: "Gobekli Tepe::A stone temple 11,000 years old, older than farming and writing." } },
 
-    { id: "olympichost", q: "Name a city that has hosted the Olympics", t: {
-      p: "London|Paris|Los Angeles|Tokyo|Beijing",
-      c: "Athens|Sarajevo",
-      s: "Rio de Janeiro=rio|Sydney|Atlanta|Barcelona|Seoul|Moscow|Munich|Mexico City|Montreal|Berlin|Rome|Vancouver|Sochi|Salt Lake City|Lake Placid|Calgary|Turin|Pyeongchang|Nagano|Lillehammer",
-      r: "Amsterdam|Antwerp|Stockholm|Helsinki|Melbourne|Squaw Valley|Innsbruck|Grenoble|Sapporo|Albertville|Oslo|Cortina d'Ampezzo|St. Moritz|Chamonix|Garmisch-Partenkirchen",
-      d: "Garmisch|Cortina",
-      k: "St. Louis=St. Louis 1904::The 1904 marathon winner was caught riding in a car." } },
-
     { id: "waterfall", q: "Name a waterfall", t: {
       p: "Niagara Falls=niagara|Victoria Falls|Angel Falls",
       c: "Iguazu Falls=iguazu",
@@ -122,14 +114,6 @@
       d: "Alberobello|Montepulciano|Cortona|Volterra|Urbino|Spoleto|Gubbio|Noto|Ragusa|Cefalu|Tropea|Otranto|Gallipoli|Polignano a Mare|Bergamo Alta|Vicenza|Treviso|Chioggia|Sabbioneta",
       k: "Civita di Bagnoregio=civita::'The dying town', reachable only by footbridge, about 10 residents." } },
 
-    { id: "germanycity", q: "Name a city in Germany", t: {
-      p: "Berlin|Munich|Hamburg|Frankfurt|Cologne=koln",
-      c: "Dusseldorf",
-      s: "Stuttgart|Dresden|Leipzig|Nuremberg|Bonn|Heidelberg|Hanover|Bremen|Dortmund|Essen|Mainz|Augsburg|Freiburg",
-      r: "Wiesbaden|Karlsruhe|Mannheim|Munster|Aachen|Kiel|Lubeck|Rostock|Potsdam|Weimar|Erfurt|Jena|Wurzburg|Bamberg|Regensburg|Passau|Ulm|Trier|Koblenz|Magdeburg|Halle|Chemnitz|Bielefeld|Duisburg|Bochum",
-      d: "Rothenburg ob der Tauber=rothenburg|Quedlinburg|Goslar|Wernigerode|Meissen|Bautzen|Gorlitz|Stralsund|Wismar|Lindau|Garmisch|Oberammergau|Fussen|Eisenach|Celle|Wolfsburg|Ingolstadt|Bayreuth",
-      k: "Hameln=Hamelin Pied Piper=hameln town=hamelin::The Pied Piper town, where drums and music are banned on one street." } },
-
     { id: "spokenlang", q: "Name a language", t: {
       p: "English|Spanish|French|German|Chinese=mandarin|Japanese",
       c: "Klingon|Esperanto",
@@ -137,30 +121,6 @@
       r: "Hungarian|Czech|Slovak|Romanian|Bulgarian|Serbian|Croatian|Ukrainian|Icelandic|Catalan|Basque|Afrikaans|Zulu|Xhosa|Yoruba|Igbo|Hausa|Amharic|Punjabi|Tamil|Telugu|Gujarati|Marathi|Malay|Indonesian|Hawaiian|Maori|Navajo|Cherokee|Quechua|Scottish Gaelic|Yiddish|Sanskrit|Tibetan|Mongolian|Kurdish|Pashto|Haitian Creole|Albanian",
       d: "Breton|Cornish|Manx|Romansh|Sami|Faroese|Frisian|Sorbian|Ladino|Aramaic|Coptic|Akkadian|Sumerian|Etruscan|Ainu|Basque Euskara|Tok Pisin|Bislama|Inuktitut|Cree|Ojibwe|Lakota|Nahuatl|Guarani|Aymara|Wolof|Tigrinya|Dzongkha|Khmer|Lao|Hmong",
       k: "Silbo Gomero=silbo::A whistled form of Spanish used to talk across the valleys of La Gomera." } },
-
-    { id: "australiacity", q: "Name a city in Australia", t: {
-      p: "Sydney|Melbourne|Brisbane|Perth|Adelaide",
-      c: "Canberra",
-      s: "Gold Coast|Darwin|Hobart|Cairns|Newcastle|Wollongong|Geelong|Townsville|Alice Springs",
-      r: "Ballarat|Bendigo|Toowoomba|Launceston|Mackay|Rockhampton|Bundaberg|Wagga Wagga|Albury|Coffs Harbour|Byron Bay|Broome|Kalgoorlie|Mildura|Orange|Dubbo|Bathurst|Noosa|Port Macquarie|Fremantle",
-      d: "Broken Hill|Mount Isa|Tennant Creek|Katherine|Kununurra|Esperance|Albany|Port Hedland|Karratha|Longreach|Charleville|Ceduna|Whyalla|Burnie|Devonport|Queanbeyan",
-      k: "Coober Pedy::An opal-mining town where people live underground to escape the heat." } },
-
-    { id: "chinacity", q: "Name a city in China", t: {
-      p: "Beijing|Shanghai|Hong Kong|Shenzhen|Guangzhou",
-      c: "Wuhan|Macau",
-      s: "Chengdu|Xi'an=xian|Chongqing|Tianjin|Nanjing|Hangzhou|Suzhou|Harbin|Guilin|Lhasa|Kunming|Qingdao|Dalian",
-      r: "Xiamen|Shenyang|Changsha|Zhengzhou|Jinan|Hefei|Fuzhou|Nanning|Guiyang|Urumqi|Lanzhou|Taiyuan|Shijiazhuang|Ningbo|Wuxi|Dongguan|Foshan|Zhuhai|Sanya|Lijiang|Dali|Datong|Luoyang|Kashgar",
-      d: "Dunhuang|Pingyao|Zhangjiajie|Yangshuo|Fenghuang|Hohhot|Baotou|Xining|Yinchuan|Turpan|Hami|Kaifeng|Anyang|Qufu|Tai'an|Huangshan|Jingdezhen|Shangri-La|Ruili",
-      k: "Ordos=Ordos Kangbashi=kangbashi::A new city built for a million people that stood almost empty." } },
-
-    { id: "texascity", q: "Name a city in Texas", t: {
-      p: "Houston|Dallas|Austin|San Antonio|El Paso",
-      c: "Paris|Waco",
-      s: "Fort Worth|Corpus Christi|Arlington|Plano|Lubbock|Amarillo|Galveston|Laredo|Irving|Garland|Frisco|McKinney|Brownsville|Killeen|Midland|Odessa|Beaumont|Abilene|Round Rock|College Station",
-      r: "Denton|Tyler|Wichita Falls|San Marcos|New Braunfels|Pasadena|Pearland|Sugar Land|The Woodlands|Conroe|Temple|Victoria|McAllen|Harlingen|Edinburg|Longview|Texarkana|San Angelo|Nacogdoches|Port Arthur|Kerrville|Fredericksburg",
-      d: "Marfa|Terlingua|Luckenbach|Jefferson|Gruene|Alpine|Fort Davis|Big Spring|Del Rio|Eagle Pass|Uvalde|Crockett|Palestine|Mineral Wells|Shamrock|Dalhart|Pampa|Muleshoe|Dime Box",
-      k: "Ding Dong::A real Texas town named after two shopkeepers called Bell." } },
 
     { id: "caribbean", q: "Name a Caribbean country or island", t: {
       p: "Jamaica|Cuba|Bahamas|Puerto Rico|Dominican Republic|Haiti",

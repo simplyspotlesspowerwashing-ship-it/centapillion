@@ -162,14 +162,6 @@
       d: "The Ghent Altarpiece|The Isenheim Altarpiece|The Tribute Money|The Battle of San Romano|The Tempest|Sacred and Profane Love|Judith Slaying Holofernes|The Calling of Saint Matthew|The Swing|The Death of Marat|Oath of the Horatii|Burial at Ornans|The Gross Clinic|Ivan the Terrible and His Son|Black Square|The Treachery of Images|Broadway Boogie Woogie|Salvator Mundi",
       k: "Ecce Homo=Ecce Homo Fresco Restoration=monkey christ::A Spanish fresco 'restored' so badly it became a tourist hit." } },
 
-    { id: "boardgame_piece", q: "Name a Monopoly property, piece or space", t: {
-      p: "Boardwalk|Park Place|Go|Jail|Free Parking|Thimble",
-      c: "Iron|Wheelbarrow",
-      s: "Top Hat|Race Car|Dog|Battleship|Boot|Cat|Penguin|Rubber Duck|T-Rex|Chance|Community Chest|Go to Jail|Income Tax|Luxury Tax|Reading Railroad|B&O Railroad|Pennsylvania Railroad|Short Line|Electric Company|Water Works|Marvin Gardens|Atlantic Avenue|Ventnor Avenue|Pacific Avenue|Illinois Avenue|Kentucky Avenue|Indiana Avenue",
-      r: "Mediterranean Avenue|Baltic Avenue|Oriental Avenue|Vermont Avenue|Connecticut Avenue|St. Charles Place|States Avenue|Virginia Avenue|St. James Place|Tennessee Avenue|New York Avenue|North Carolina Avenue|Pennsylvania Avenue|Mayfair|Park Lane|Old Kent Road|Whitechapel Road|Trafalgar Square|Leicester Square|Bond Street|Oxford Street|Regent Street|Pall Mall|Fleet Street|Strand|Vine Street|Bow Street|Marlborough Street|Piccadilly|Coventry Street|Euston Road|Pentonville Road|The Angel Islington=angel islington|Whitehall|Northumberland Avenue",
-      d: "Lantern|Rocking Horse|Cannon|Horse and Rider|Money Bag|Sack of Money|Howitzer|Scottie Dog|Shoe|Mr. Monopoly=rich uncle pennybags|Jake the Jailbird|Officer Edgar Mallory|Kings Cross Station|Marylebone Station|Fenchurch Street Station|Liverpool Street Station",
-      k: "Purse::A Monopoly token from the 1930s that quietly disappeared." } },
-
     { id: "pixar", q: "Name a Pixar movie", t: {
       p: "Toy Story|Finding Nemo|Up|Cars|The Incredibles=incredibles|Monsters, Inc.=monsters inc",
       c: "Cars 2|The Good Dinosaur",

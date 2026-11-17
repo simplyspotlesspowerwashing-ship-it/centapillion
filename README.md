@@ -17,28 +17,31 @@ A daily rarity-trivia game. It plays like krillion.io, but you tunnel down throu
 | Burrower (Schooler) | blue | 30 | Solid, tunnels with the crowd |
 | Rare (Rare) | red | 60 | Genuinely uncommon |
 | Deep Cut (Deep Cut) | purple | 85 | True obscurity |
-| Mother Lode (One in a Krillion) | gold | 100 | The designated gem, one per prompt, with a fun fact |
+| One in a Centapillion (One in a Krillion) | gold | 100 | The designated gem, one per prompt, with a fun fact |
 
 - Wrong answers are rejected and you can keep trying until time runs out. Repeats (including alternate spellings) don't score.
 - Near-miss typos get a "submit again to confirm" fix-up. If time runs out with a typo in the box, it is accepted.
-- Score bands (Krillion's): 0–150 Topsoil, 151–250 Burrower, 251–350 Rare, 351–449 Deep Cut, 450+ Mother Lode.
+- Score bands (Krillion's): 0–150 Topsoil, 151–250 Burrower, 251–350 Rare, 351–449 Deep Cut, 450+ One in a Centapillion.
 - Share text: title, one emoji per round (your best answer's rank, ⬛ for a miss), then score/700 and depth.
 - One daily dig per day. Closing the page doesn't stop the round timer.
 - **Archive:** replay any past day. Doesn't count toward your streak; replays keep your best.
 - **Unlimited:** numbered digs (∞1, ∞2, …) you can replay; a dig log shows your best on each.
+- **Category digs:** after the daily, "keep digging" offers eight categories (Geography, Animals & Nature, Food & Drink, Movies TV & Music, Sports & Games, Science & the Body, History & Culture, Everyday Things). Each runs numbered 7-prompt digs from that subject only, with its own best scores and share line (`#/cat/geography/3`). Categories are listed in `js/categories.js`; every prompt belongs to exactly one.
 - **Results** (modelled on krillion's): score and depth, a score gauge, "the bearing" (score bands with yours highlighted), copy/share, a dig-log chart (each round's best answer and its rank icon), "the haul" (each round's best answer in its rank colour; tap for the full answer sheet, your answers marked, sortable), and a logbook line.
 - **Diggers:** seven colour variants of the centipede, unlocked by your best daily streak (0, 5, 14, 30, 45, 60, 100 days). Tap the digger to poke it.
 - **Settings:** sound, typo checking, clearing the box after a wrong answer, reduced motion, low power mode, erase progress.
 
 ## Questions and answers
 
-154 prompts. Each has a hand-curated answer list (`js/data.js` to `js/data6.js`) plus generated extra answers (`js/data-extra.js`), about **29,000 accepted answers** in all.
+153 prompts. Each has a hand-curated answer list (`js/data.js` to `js/data7.js`) plus generated extra answers (`js/data-extra.js`), about **80,000 accepted answers** in all.
+
+A prompt is kept only if anyone can name a few answers instantly, it has a long tail of real answers, validity is a fact rather than a judgment call, and it isn't a word puzzle. Prompts that failed this (rhymes, "-ology" words, phobias, "something yellow", "a nocturnal animal", cities in Texas, cloud types and similar) were replaced with broad ones such as countries, U.S. states and cities, world capitals, animals, colors, athletes, authors, singers, actors, NFL/NBA teams, soccer clubs, Beatles and Taylor Swift songs, car models and fashion brands.
 
 ### How answers are built (modelled on Krillion's process)
 
 Krillion's FAQ describes its process as: aggregate datasets (dictionaries, wiki lists, encyclopedias), merge and clean them into one answer set, score rarity mechanically against a familiarity database, then do a manual pass. Centapillion does the same:
 
-1. **Hand pass:** every prompt has a curated list. Only the hand pass can set Topsoil, Too Clever and the gem (the Mother Lode answer).
+1. **Hand pass:** every prompt has a curated list. Only the hand pass can set Topsoil, Too Clever and the gem (the One in a Centapillion answer).
 2. **Datasets:** `tools/build_extra.py` pulls answers from the open [corpora](https://github.com/dariusk/corpora) collection (dog and cat breeds, dinosaurs, birds, cheeses, spices, rivers, gemstones, fabrics, Pokémon, scientists, occupations, sports and more). It also uses the CMU Pronouncing Dictionary for rhymes (manually vetted), `wordfreq`'s vocabulary for "-ology" and "-phobia" words, ISO 639 for languages, and Wikidata (`tools/wikidata_fetch.py`) for long-tail lists such as islands, rivers, lakes, cities, films, painters and species.
 3. **Cleaning:** drops entries already in the hand list, spelling variants of existing answers, junk entries, and everyday words that would score too easily (e.g. "Milk" as a river).
 4. **Rarity:** each new answer is tiered by how familiar the word is (`wordfreq` Zipf frequency, an open counterpart to Krillion's familiarity database). The cut-offs come from the hand tiers: 3.3 and above is Burrower, 2.2 to 3.3 is Rare, below 2.2 is Deep Cut. Wikidata answers are tiered by how many Wikipedia language editions cover them, with per-prompt cut-offs set where that prompt's hand-tiered answers fall.
@@ -89,7 +92,8 @@ npm run test:e2e     # full browser playthrough (needs Playwright + a running se
 |---|---|
 | `index.html` | page shell |
 | `css/style.css` | all styling |
-| `js/data*.js` | prompt bank: 154 prompts, 11,681 tiered answers with aliases and gem facts |
+| `js/data*.js` | prompt bank: 153 prompts of tiered answers with aliases and gem facts |
+| `js/categories.js` | the eight category groups for category digs |
 | `js/engine.js` | rules, answer matching, daily schedule, scoring, share text |
 | `js/sprites.js` | procedural pixel-art creatures |
 | `js/scene.js` | the underground cross-section and the digging centipede |
@@ -98,7 +102,7 @@ npm run test:e2e     # full browser playthrough (needs Playwright + a running se
 
 ## Editing prompts
 
-Each prompt lists answers by tier (`p c s r d k` = Topsoil, Too Clever, Burrower, Rare, Deep Cut, Mother Lode), separated by `|`. Aliases follow the main name after `=`, for example `Eswatini=swaziland`. The gem's fun fact follows `::`. `npm test` fails if two answers in a prompt collide, the gem duplicates a lower-tier answer, a tier is missing, the gem has no fact, or a prompt has fewer than 30 answers.
+Each prompt lists answers by tier (`p c s r d k` = Topsoil, Too Clever, Burrower, Rare, Deep Cut, One in a Centapillion), separated by `|`. Aliases follow the main name after `=`, for example `Eswatini=swaziland`. The gem's fun fact follows `::`. `npm test` fails if two answers in a prompt collide, the gem duplicates a lower-tier answer, a tier is missing, the gem has no fact, or a prompt has fewer than 30 answers.
 
 ## Differences from krillion.io
 

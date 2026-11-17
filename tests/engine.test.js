@@ -1,7 +1,7 @@
 // Run with: node tests/engine.test.js
 const assert = require("node:assert/strict");
 const path = require("node:path");
-for (const f of ["data.js", "data2.js", "data3.js", "data4.js", "data5.js", "data6.js", "data-extra.js", "words.js"]) {
+for (const f of ["data.js", "data2.js", "data3.js", "data4.js", "data5.js", "data6.js", "data7.js", "categories.js", "data-extra.js", "words.js"]) {
   const fp = path.join(__dirname, "../js", f);
   if (require("node:fs").existsSync(fp)) require(fp);
 }
@@ -136,8 +136,8 @@ test("a typo equally close to a generated answer goes to the hand-curated one", 
 test("everyday English words are never corrected into generated answers", () => {
   const byId = id => BANK.find(p => p.id === id);
   const cases = [["spokenlang", "change"], ["spokenlang", "morning"], ["italycity", "parents"], ["waterfall", "father"],
-    ["germanycity", "better"], ["island", "sales"], ["river", "some"], ["soup", "beer"], ["bread", "fruit"],
-    ["cheese", "cheese"], ["germanycity", "mark"], ["profession", "president"]];
+    ["italycity", "better"], ["island", "sales"], ["river", "some"], ["soup", "beer"], ["bread", "fruit"],
+    ["cheese", "cheese"], ["italycity", "mark"], ["profession", "president"]];
   for (const [id, w] of cases) {
     const r = E.judge(byId(id), w, []);
     assert.ok(!(r.status === "accepted" && r.answer.extra), `${id}: "${w}" accepted as ${r.answer && r.answer.name}`);
@@ -231,7 +231,7 @@ test("random prompts are 7 distinct", () => {
 test("ranks use Krillion's points and colours with digging names", () => {
   assert.deepEqual(CP.TIER_IDS.map(t => CP.TIERS[t].score), [10, 15, 30, 60, 85, 100]);
   assert.deepEqual(CP.TIER_IDS.map(t => CP.TIERS[t].color), ["#d7e1f2", "#ff9f43", "#4de3ff", "#ff5252", "#9d7bff", "#ffd166"]);
-  assert.deepEqual(CP.TIER_IDS.map(t => CP.TIERS[t].name), ["Topsoil", "Too Clever", "Burrower", "Rare", "Deep Cut", "Mother Lode"]);
+  assert.deepEqual(CP.TIER_IDS.map(t => CP.TIERS[t].name), ["Topsoil", "Too Clever", "Burrower", "Rare", "Deep Cut", "One in a Centapillion"]);
   assert.deepEqual(CP.TIER_IDS.map(t => CP.TIERS[t].depth), [0.08, 0.18, 0.36, 0.6, 0.82, 0.97]);
 });
 
@@ -344,7 +344,7 @@ test("common misspellings are accepted without a confirm step", () => {
 
 test("category words, word order and shorthands don't matter", () => {
   const cases = [["lake", "baikal", "Lake Baikal"], ["lake", "baikal lake", "Lake Baikal"], ["river", "the amazon river", "Amazon"],
-    ["mountain", "mt everest", "Mount Everest"], ["texascity", "ft worth", "Fort Worth"], ["dog", "pug dog", "Pug"],
+    ["mountain", "mt everest", "Mount Everest"], ["uscity", "ft worth", "Fort Worth"], ["dog", "pug dog", "Pug"],
     ["shark", "tiger", "Tiger Shark"], ["dog", "labs", "Labrador"]];
   for (const [id, typed, want] of cases) assert.equal(E.judge(P(id), typed, []).answer.name, want, typed);
 });
@@ -363,6 +363,44 @@ test("judging stays fast on the biggest answer lists", () => {
   const t = Date.now();
   for (let i = 0; i < 50; i++) E.judge(P("spokenlang"), "zzqxjvv" + i, []);
   assert.ok(Date.now() - t < 2000, (Date.now() - t) + " ms for 50 misses");
+});
+
+// ---------- category digs ----------
+test("every prompt belongs to exactly one category, and every category id is a real prompt", () => {
+  const seen = {};
+  for (const c of CP.CATEGORIES) for (const id of c.ids) {
+    assert.ok(BANK.find(p => p.id === id), `${c.id}: unknown prompt ${id}`);
+    assert.ok(!seen[id], `${id} is in ${seen[id]} and ${c.id}`);
+    seen[id] = c.id;
+  }
+  const missing = BANK.filter(p => !seen[p.id]).map(p => p.id);
+  assert.deepEqual(missing, []);
+});
+
+test("each category has enough prompts for varied digs", () => {
+  for (const c of CP.CATEGORIES) assert.ok(E.categoryBank(c.id, BANK).length >= 10, c.id + " has too few prompts");
+});
+
+test("category digs draw 7 distinct prompts from their own category and differ dig to dig", () => {
+  for (const c of CP.CATEGORIES) {
+    const ids = new Set(c.ids);
+    const sets = [];
+    for (let n = 1; n <= 12; n++) {
+      const ps = E.promptsForCategory(c.id, n, BANK);
+      assert.equal(ps.length, CP.CONFIG.ROUNDS, `${c.id} #${n}`);
+      assert.equal(new Set(ps.map(p => p.id)).size, CP.CONFIG.ROUNDS, `${c.id} #${n} repeats a prompt`);
+      for (const p of ps) assert.ok(ids.has(p.id), `${c.id} #${n} drew ${p.id}`);
+      sets.push(ps.map(p => p.id).join());
+    }
+    assert.equal(new Set(sets).size, sets.length, c.id + ": two digs are identical");
+    assert.deepEqual(E.promptsForCategory(c.id, 3, BANK).map(p => p.id), E.promptsForCategory(c.id, 3, BANK).map(p => p.id));
+  }
+  assert.deepEqual(E.promptsForCategory("nope", 1, BANK), []);
+});
+
+test("category share text names the category", () => {
+  const t = E.shareText({ mode: "category", category: "geography", game: 4, results: [] });
+  assert.match(t.split("\n")[0], /^Centapillion 🌍 Geography #4 🐛$/);
 });
 
 console.log(`${passes} passed, ${failures} failed`);

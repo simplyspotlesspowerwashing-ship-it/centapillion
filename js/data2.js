@@ -41,14 +41,6 @@
       d: "Zebu|Gayal|Banteng|Reindeer|Vicuna|Guanaco|Silkworm|Cochineal|Barrow|Wether|Gilt|Pullet|Bantam|Cockerel|Drake|Poult|Kid|Shoat|Yearling",
       k: "Hinny::A mule's rarer cousin: horse father, donkey mother." } },
 
-    { id: "aussie", q: "Name an animal found in Australia", t: {
-      p: "Kangaroo|Koala|Emu|Wombat|Platypus",
-      c: "Drop Bear|Quokka",
-      s: "Dingo|Wallaby|Tasmanian Devil|Echidna|Crocodile|Kookaburra|Cockatoo|Possum|Box Jellyfish|Funnel-Web Spider=funnel web|Redback Spider=redback|Cassowary|Taipan|Brown Snake|Great White Shark|Galah|Lorikeet|Bilby",
-      r: "Numbat|Quoll|Sugar Glider|Bandicoot|Thorny Devil|Frilled Lizard|Blue-Tongued Skink=blue tongue|Goanna|Bearded Dragon|Cane Toad|Lyrebird|Platypus Frog|Wallaroo|Tree Kangaroo|Pademelon|Bettong|Potoroo|Flying Fox|Dugong|Saltwater Crocodile|Black Swan|Magpie|Kelpie|Brolga|Budgerigar=budgie",
-      d: "Thylacine=tasmanian tiger|Dunnart|Antechinus|Bush Stone-Curlew|Cassowary Chick|Mallee Fowl=malleefowl|Pygmy Possum|Cuscus|Marsupial Mole|Bush Rat|Mulgara|Kowari|Ningaui|Phascogale|Bandy-Bandy|Inland Taipan|Perentie|Gecko|Night Parrot|Gouldian Finch|Superb Fairywren",
-      k: "Ibis=bin chicken=australian white ibis::The beloved bin-raiding national icon." } },
-
     { id: "extinct", q: "Name an extinct animal", t: {
       p: "Dodo|Dinosaur|T. Rex=t rex=tyrannosaurus|Woolly Mammoth=mammoth|Sabre-Toothed Tiger=saber tooth tiger=smilodon",
       c: "Megalodon|Passenger Pigeon",
@@ -64,22 +56,6 @@
       r: "Tarsier|Loris|Slow Loris|Bushbaby=galago|Colobus|Langur|Uakari|Saki|Titi|Owl Monkey|Gelada|Drill|Vervet|Mangabey|Siamang|Golden Lion Tamarin|Rhesus Macaque|Barbary Macaque|Sifaka|Indri|Potto|Douc",
       d: "Pygmy Marmoset|Cotton-Top Tamarin|Emperor Tamarin|Muriqui|Guenon|Talapoin|Patas Monkey|Hoolock|Snub-Nosed Monkey|Angwantibo|Mouse Lemur|Dwarf Lemur|Sportive Lemur|Avahi|Bald Uakari|Night Monkey|Allen's Swamp Monkey",
       k: "Kipunji=highland mangabey::Discovered in 2003, the first new monkey genus in 80 years." } },
-
-    { id: "eggs", q: "Name an animal that lays eggs", t: {
-      p: "Chicken|Bird|Snake|Turtle|Duck|Fish",
-      c: "Platypus|Echidna",
-      s: "Crocodile|Alligator|Lizard|Frog|Spider|Ant|Bee|Butterfly|Ostrich|Penguin|Goose|Shark|Octopus|Tortoise|Salmon|Iguana|Gecko|Toad|Emu|Turkey|Quail",
-      r: "Komodo Dragon|Salamander|Newt|Axolotl|Seahorse|Squid|Snail|Slug|Termite|Cockroach|Mosquito|Ladybug|Scorpion|Tick|Lobster|Crab|Starfish|Jellyfish|Sea Turtle|Kiwi|Cassowary|Hummingbird|Chameleon|Tuatara|Skate",
-      d: "Caecilian|Hagfish|Horseshoe Crab|Nautilus|Cuttlefish|Velvet Worm|Tardigrade|Sea Urchin|Earthworm|Leech|Coelacanth|Monotreme|Bowfin|Paddlefish|Sturgeon|Mudskipper",
-      k: "Long-Beaked Echidna=zaglossus::One of only a handful of mammals that lays eggs." } },
-
-    { id: "nocturnal", q: "Name a nocturnal animal", t: {
-      p: "Owl|Bat|Raccoon|Moth",
-      c: "Aye-Aye=aye aye|Kiwi",
-      s: "Fox|Hedgehog|Opossum=possum|Skunk|Firefly|Cat|Badger|Wolf|Mouse|Rat|Hamster|Cockroach|Scorpion|Leopard|Lion|Hyena|Koala|Wombat|Armadillo|Mosquito|Cricket|Frog",
-      r: "Tarsier|Slow Loris|Bushbaby=galago|Sugar Glider|Kinkajou|Fennec Fox|Aardvark|Pangolin|Porcupine|Tasmanian Devil|Quoll|Bilby|Jerboa|Flying Squirrel|Nightjar|Potoo|Gecko|Tapir|Ocelot|Margay|Serval",
-      d: "Aardwolf|Binturong|Olingo|Potto|Night Monkey=owl monkey|Douroucouli|Frogmouth|Oilbird|Kowari|Dunnart|Tenrec|Genet|Civet|Spectral Bat|Ringtail",
-      k: "Kakapo=owl parrot::A flightless, nocturnal parrot that smells like honey." } },
 
     { id: "wildcat", q: "Name a member of the cat family", t: {
       p: "Lion|Tiger|Cheetah|Leopard|House Cat=cat",
@@ -129,30 +105,6 @@
       d: "Bleeding Tooth Fungus|Devil's Fingers|Amethyst Deceiver|Veiled Lady|Ghost Fungus|Bioluminescent Fungus|Earthstar|Bird's Nest Fungus|Lobster Mushroom|Blue Milk Cap|Indigo Milk Cap|Witch's Butter|Cauliflower Mushroom|Saffron Milk Cap|Parasol Mushroom|Blewit|Webcap|Fairy Ring",
       k: "Humongous Fungus::A single Oregon honey fungus spread over 9 square km." } },
 
-    { id: "collective", q: "Name a collective noun for animals (like a \"pride\" of lions)", t: {
-      p: "Pride|Herd|Flock|Pack|School|Swarm",
-      c: "Murder|Parliament",
-      s: "Pod|Colony|Gaggle|Litter|Hive|Troop|Shoal|Gang|Den|Brood|Nest",
-      r: "Murmuration|Crash|Tower|Bloat|Dazzle|Business|Prickle|Skulk|Leap|Ambush|Romp|Scurry|Mischief|Unkindness|Exaltation|Charm|Clowder|Kindle|Drove|Sleuth|Sloth|Parade|Cackle|Raft|Army|Conspiracy",
-      d: "Kaleidoscope|Bask|Bevy|Covey|Gam|Husk|Labor|Lounge|Memory|Mustering|Ostentation|Rhumba|Siege|Smack|Wisdom|Zeal|Glaring|Knot|Muster|Nye|Obstinacy|Rookery|Shrewdness|Tiding|Wake",
-      k: "Implausibility=implausibility of gnus::Officially, a group of gnus is an implausibility." } },
-
-    { id: "babyanimal", q: "Name the word for a baby animal", t: {
-      p: "Puppy|Kitten|Calf|Cub|Foal|Chick",
-      c: "Joey",
-      s: "Lamb|Piglet|Duckling|Tadpole|Fawn|Kid|Pup|Gosling|Bunny=kit|Colt|Filly|Owlet|Hatchling",
-      r: "Eaglet|Cygnet|Leveret|Squab|Fry|Elver|Spiderling|Larva|Nymph|Poult|Keet|Cria|Whelp|Eyas|Shoat|Hoglet|Kitling|Fingerling|Smolt|Parr",
-      d: "Spat|Codling|Squeaker|Nestling|Fledgling|Chrysalis|Pupa|Grub|Maggot|Caterpillar|Polliwog|Alevin|Pinkie|Infant|Nit",
-      k: "Puggle=baby echidna::A baby echidna or platypus is a puggle." } },
-
-    { id: "famousanimal", q: "Name a famous real-life animal", t: {
-      p: "Laika|Dolly the Sheep=dolly|Harambe|Grumpy Cat|Hachiko",
-      c: "Koko=koko the gorilla|Doge",
-      s: "Lassie|Seabiscuit|Marley|Balto|Keiko|Tilikum|Moo Deng|Pedro|Ham the Chimp=ham|Bo Obama|Socks|Knut|Paul the Octopus|Pudsey|Smokey Bear",
-      r: "Lonesome George|Martha|Phar Lap|Secretariat|Red Rum|Trakr|Greyfriars Bobby|Old Yeller|Bucephalus|Copenhagen|Marengo|Jumbo|Pickles|Togo|Clever Hans|Lil Bub|Maru|Boo|Tillman|Bubbles|Washoe|Nim Chimpsky",
-      d: "Felicette|Belka|Strelka|Able and Baker|Sergeant Stubby=stubby|Cher Ami|Unsinkable Sam|Simon|Tamworth Two|Ming the Clam|Jonathan the Tortoise=jonathan|Tamagoro|Taro and Jiro|Owney",
-      k: "Wojtek=wojtek the bear::A bear who served in the Polish army and carried artillery shells." } },
-
     { id: "whale", q: "Name a whale or dolphin", t: {
       p: "Blue Whale|Killer Whale=orca|Humpback Whale=humpback|Bottlenose Dolphin|Sperm Whale",
       c: "Narwhal|Beluga",
@@ -160,14 +112,6 @@
       r: "Sei Whale|Bryde's Whale|Beaked Whale|Pygmy Sperm Whale|Dwarf Sperm Whale|Risso's Dolphin|Dusky Dolphin|Common Dolphin|Spotted Dolphin|Hector's Dolphin|Irrawaddy Dolphin|Commerson's Dolphin|False Killer Whale|Melon-Headed Whale|Vaquita|Harbour Porpoise=harbor porpoise|Dall's Porpoise",
       d: "Cuvier's Beaked Whale|Baird's Beaked Whale|Omura's Whale|Pygmy Right Whale|Rice's Whale|Baiji|Tucuxi|Franciscana|Boto|Clymene Dolphin|Fraser's Dolphin|Rough-Toothed Dolphin|Hourglass Dolphin|Peale's Dolphin|Burmeister's Porpoise",
       k: "Spade-Toothed Whale::Never seen alive. Known only from a few bones and two stranded bodies." } },
-
-    { id: "cactus", q: "Name a cactus or succulent", t: {
-      p: "Aloe Vera=aloe|Saguaro|Prickly Pear|Jade Plant",
-      c: "Peyote",
-      s: "Christmas Cactus|Barrel Cactus|Agave|Echeveria|Snake Plant|Hens and Chicks|String of Pearls|Cholla|Organ Pipe Cactus|Yucca|Bunny Ear Cactus|Moon Cactus",
-      r: "Haworthia|Lithops|Sedum|Kalanchoe|Crassula|Sempervivum|Golden Barrel|Old Man Cactus|Hedgehog Cactus|Pincushion Cactus|Mammillaria|Euphorbia|Zebra Plant|Panda Plant|Burro's Tail|Dragon Fruit Cactus|Rat Tail Cactus|Fishhook Barrel|Ocotillo|San Pedro",
-      d: "Pachypodium|Adenium|Fenestraria|Conophytum|Ariocarpus|Astrophytum|Gymnocalycium|Echinopsis|Rhipsalis|Epiphyllum|Stapelia|Huernia|Senecio|Aeonium|Dudleya|Graptopetalum|Gasteria|Aloinopsis",
-      k: "Welwitschia=welwitschia mirabilis::Grows just two leaves, ever, and can live over 1,000 years." } },
 
     { id: "rodent", q: "Name a rodent", t: {
       p: "Mouse|Rat|Squirrel|Hamster|Guinea Pig|Beaver",
