@@ -8,7 +8,7 @@ cut-offs calibrated on where that prompt's hand-ranked answers sit; dataset answ
 (Zipf ≥ 3.3 Burrower, ≥ 2.2 Rare, otherwise Deep Cut). Hand ranks always win, and only the hand pass
 sets Topsoil, Too Clever and the Mother Lode.
 
-Total extra answers: **52097** across 113 prompts.
+Total extra answers: **51900** across 113 prompts.
 
 | Prompt | Hand keys | Added | Burrower | Rare | Deep Cut | From | Wikidata ranks | Skipped |
 |---|---|---|---|---|---|---|---|---|
@@ -65,14 +65,14 @@ Total extra answers: **52097** across 113 prompts.
 | cartoon | 108 | 406 | 49 | 135 | 222 | wikidata 406 | by rank | unusable 4, already listed 34, blocked 1, everyday word 5 |
 | cereal | 70 | 34 | 1 | 5 | 28 | wikidata 34 | by rank | unusable 1, already listed 36, spelling variant 1, everyday word 1 |
 | chinacity | 67 | 242 | 0 | 4 | 238 | wikidata 242 | calibrated | already listed 57, spelling variant 47 |
-| composer | 106 | 591 | 77 | 202 | 312 | wikidata 591 | by rank | unusable 1, blocked 16, already listed 2, spelling variant 1 |
+| composer | 106 | 395 | 48 | 136 | 211 | wikidata 395 | by rank | unusable 1, blocked 27, already listed 2, spelling variant 1 |
 | console | 86 | 0 | 0 | 0 | 0 | — | — | — |
 | constellation | 93 | 5 | 0 | 1 | 4 | wikidata 5 | calibrated | unusable 1, already listed 85 |
 | cookie | 69 | 114 | 11 | 40 | 63 | wikidata 114 | by rank | already listed 16, category word 1, spelling variant 1, everyday word 1 |
 | currency | 95 | 317 | 39 | 37 | 241 | wikidata 317 | calibrated | already listed 35, spelling variant 2, everyday word 1 |
 | dance | 95 | 43 | 3 | 14 | 26 | wikidata 43 | by rank | already listed 6, everyday word 5 |
 | desert | 58 | 113 | 1 | 8 | 104 | wikidata 113 | calibrated | already listed 44, everyday word 4, spelling variant 1 |
-| dessert | 80 | 294 | 4 | 17 | 273 | wikidata 294 | calibrated | unusable 1, already listed 23 |
+| dessert | 80 | 293 | 4 | 17 | 272 | wikidata 293 | calibrated | unusable 1, already listed 23, blocked 1 |
 | disney | 105 | 0 | 0 | 0 | 0 | — | — | — |
 | dumpling | 57 | 21 | 0 | 2 | 19 | wikidata 21 | calibrated | already listed 14, spelling variant 1, everyday word 1 |
 | europe | 69 | 1 | 0 | 0 | 1 | wikidata 1 | by rank | already listed 48 |
