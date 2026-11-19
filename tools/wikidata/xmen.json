@@ -1,0 +1,995 @@
+[
+[
+"Wolverine",
+62,
+[
+"Agent Ten",
+"Experiment X",
+"James Howlett",
+"Jim Logan",
+"Logan",
+"Patch",
+"Scarlett",
+"Weapon X"
+]
+],
+[
+"Deadpool",
+56,
+[
+"Merc with a Mouth",
+"Wade Winston Wilson"
+]
+],
+[
+"Professor X",
+47,
+[
+"Professor Xavier",
+"Prof X"
+]
+],
+[
+"Jean Grey",
+44,
+[
+"Dark Phoenix",
+"Jean Elaine Gray",
+"Jean Elaine Grises Summers",
+"Jean Grey-Summers",
+"Marvel Girl",
+"Phoenix"
+]
+],
+[
+"Magneto",
+38,
+[
+"Erik Lehnsherr",
+"Magnus",
+"Max Eisenhardt"
+]
+],
+[
+"Storm",
+36,
+[
+"Ororo Munroe"
+]
+],
+[
+"Gambit",
+35,
+[
+"Remy Etienne LeBeau",
+"Remy LeBeau"
+]
+],
+[
+"Mystique",
+33,
+[
+"Raven Darkholme",
+"Raven Darkhölme"
+]
+],
+[
+"Beast",
+33,
+[
+"Hank McCoy",
+"Henry McCoy"
+]
+],
+[
+"Cyclops",
+33,
+[
+"Scott Summers",
+"Slim"
+]
+],
+[
+"Quicksilver",
+32,
+[]
+],
+[
+"Nightcrawler",
+31,
+[
+"Kurt Wagner"
+]
+],
+[
+"Sabretooth",
+30,
+[]
+],
+[
+"Colossus",
+29,
+[]
+],
+[
+"Carol Danvers",
+29,
+[
+"Binary",
+"Captain Marvel",
+"Carol Susan Jane Danvers",
+"Ms. Marvel",
+"Warbird"
+]
+],
+[
+"Warren Worthington III",
+29,
+[
+"Angel",
+"Archangel",
+"Avenging Angel",
+"Dark Angel",
+"Warren Kenneth Worthington III"
+]
+],
+[
+"Iceman",
+29,
+[
+"Bobby Drake",
+"Ice Man",
+"Robert Drake"
+]
+],
+[
+"Rogue",
+29,
+[
+"Anna Marie",
+"Anna Marie LeBeau",
+"Anna Raven",
+"Mrs. Lebeau"
+]
+],
+[
+"Kitty Pryde",
+26,
+[
+"Ariel",
+"Captain Kate Pryde",
+"Kate Pryde",
+"Katherine Pryde",
+"Red Queen",
+"Shadowcat",
+"Shadowkat",
+"Sprite",
+"Star-Lord"
+]
+],
+[
+"Juggernaut",
+26,
+[
+"Crimson Gem of Cyttorak"
+]
+],
+[
+"Cable",
+25,
+[
+"Nathan Christopher Charles Summers",
+"Nathan Dayspring Askani'Son",
+"Nathan Summers",
+"Nathan Winters",
+"Soldier X"
+]
+],
+[
+"Namor",
+25,
+[
+"King Namor",
+"Namor McKenzie",
+"Namor the Sub-Mariner",
+"Namor, the Sub-Mariner",
+"Prince Namor",
+"The Sub-Mariner"
+]
+],
+[
+"Havok",
+23,
+[
+"Alexander \"Alex\" Summers",
+"Alexander Summers",
+"Alex Summers"
+]
+],
+[
+"Emma Frost",
+21,
+[
+"Emma Grace Frost",
+"Sleeping Beauty",
+"The Lady of Lies",
+"The Lady of the Night",
+"The Queen of Diamonds",
+"The Queen of Hellfire club",
+"The White Rose",
+"White Queen"
+]
+],
+[
+"Polaris",
+21,
+[
+"Lorna Dane"
+]
+],
+[
+"Betsy Braddock",
+21,
+[
+"Captain Britain",
+"Psylocke"
+]
+],
+[
+"X-23",
+20,
+[
+"Laura X",
+"Talon",
+"Wolverine",
+"X23-23"
+]
+],
+[
+"Jubilee",
+20,
+[
+"Jubilation Lee"
+]
+],
+[
+"Bishop",
+19,
+[
+"Lucas Bishop",
+"Red Bishop"
+]
+],
+[
+"Banshee",
+17,
+[
+"Sean Cassidy"
+]
+],
+[
+"Dazzler",
+15,
+[
+"Alison Blaire",
+"Disco Dazzler"
+]
+],
+[
+"Magik",
+15,
+[
+"Darkchilde",
+"Illyana Nikolievna Rasputina",
+"Illyana Rasputin",
+"Illyana Rasputina"
+]
+],
+[
+"Domino",
+15,
+[
+"Neena Thurman"
+]
+],
+[
+"Rachel Summers",
+13,
+[
+"Askani",
+"Marvel Girl",
+"Mother Askani",
+"Prestige",
+"Rachel Anne Summers",
+"Rachel Grey",
+"Rachel Grey-Summers"
+]
+],
+[
+"Forge",
+12,
+[]
+],
+[
+"Cannonball",
+12,
+[
+"Sam Guthrie",
+"Samuel Guthrie",
+"Samuel Zachery Guthrie"
+]
+],
+[
+"Sunfire",
+12,
+[
+"Shiro Yoshida"
+]
+],
+[
+"Darwin",
+11,
+[
+"Armando Muñoz"
+]
+],
+[
+"Blink",
+11,
+[
+"Clarice Ferguson",
+"Clarice Fong"
+]
+],
+[
+"Sunspot",
+11,
+[
+"Bobby",
+"Bobby da Costa",
+"Roberto da Costa"
+]
+],
+[
+"Tabitha Smith",
+11,
+[
+"Boom Boom",
+"Boom-Boom",
+"Boomer",
+"Meltdown",
+"Time Bomb"
+]
+],
+[
+"Phoenix Force",
+11,
+[
+"Dark Phoenix",
+"Phoenix"
+]
+],
+[
+"Legion",
+10,
+[
+"David Charles Haller",
+"David Haller",
+"ketshop al hapizza"
+]
+],
+[
+"Dust",
+10,
+[
+"Sooraya Qadir"
+]
+],
+[
+"Siryn",
+10,
+[
+"Banshee",
+"Morrigan",
+"Theresa Cassidy",
+"Theresa Maeve Rourke Cassidy",
+"Theresa Rourke Cassidy"
+]
+],
+[
+"Negasonic Teenage Warhead",
+10,
+[
+"Ellie Phimister",
+"Eloise Phimister"
+]
+],
+[
+"Danielle Moonstar",
+10,
+[
+"Dani Moonstar",
+"Mirage",
+"Moonstar",
+"Psyche"
+]
+],
+[
+"Warpath",
+10,
+[
+"James Proudstar",
+"Jimmy Proudstar",
+"Thunderbird"
+]
+],
+[
+"Moira MacTaggert",
+9,
+[
+"Dr. Moira Kinross MacTaggert",
+"Moira Kinross",
+"Moira X"
+]
+],
+[
+"Northstar",
+9,
+[
+"Jean-Paul Beaubier",
+"Jean-Paul Martin"
+]
+],
+[
+"Karma",
+9,
+[
+"Xi'an Coy Manh",
+"Xuân Cao Mạnh"
+]
+],
+[
+"Vulcan",
+9,
+[
+"Gabriel Summers"
+]
+],
+[
+"Firestar",
+9,
+[
+"Angelica Jones",
+"Angel Jones",
+"Fire-Star"
+]
+],
+[
+"Madelyne Pryor",
+9,
+[
+"Anodyne",
+"Goblin Queen",
+"Maddie Pryor",
+"Madelyne Jennifer Pryor-Summers",
+"Madelyne Summers",
+"Red Queen"
+]
+],
+[
+"Longshot",
+8,
+[]
+],
+[
+"Lockheed",
+8,
+[]
+],
+[
+"Aurora",
+8,
+[
+"Jeanne-Marie Beaubier"
+]
+],
+[
+"Copycat",
+8,
+[
+"Vanessa Carlysle",
+"Vanessa Geraldine Carlysle"
+]
+],
+[
+"Thunderbird",
+8,
+[
+"John Proudstar"
+]
+],
+[
+"Wade Wilson",
+7,
+[
+"Deadpool",
+"Weapon XI"
+]
+],
+[
+"Mercury",
+7,
+[
+"Cessily Kincaid"
+]
+],
+[
+"Surge",
+7,
+[
+"Nori Ashida",
+"Noriko Ashida"
+]
+],
+[
+"Hope Summers",
+7,
+[
+"Mutant Messiah"
+]
+],
+[
+"Cypher",
+7,
+[
+"Douglas Ramsey",
+"Doug Ramsey"
+]
+],
+[
+"Pixie",
+7,
+[
+"Megan Gwynn"
+]
+],
+[
+"Magma",
+7,
+[
+"Alison Crestmere",
+"Amara Aquilla",
+"Amara Juliana Olivians Aquilla"
+]
+],
+[
+"Husk",
+7,
+[
+"Paige Elisabeth Guthrie",
+"Paige Guthrie"
+]
+],
+[
+"Kevin Sydney",
+7,
+[
+"Changeling",
+"Kevin Sidney",
+"Morph"
+]
+],
+[
+"Rockslide",
+7,
+[
+"Santo Vaccarro"
+]
+],
+[
+"Chamber",
+6,
+[
+"Decibel",
+"Jonothon Evan Starsmore"
+]
+],
+[
+"Hellion",
+6,
+[
+"Julian Keller"
+]
+],
+[
+"Cecilia Reyes",
+6,
+[]
+],
+[
+"Sage",
+6,
+[
+"Teresia Karisik",
+"Tessa"
+]
+],
+[
+"Armor",
+6,
+[
+"Hisako Ichiki"
+]
+],
+[
+"Anole",
+6,
+[
+"Victor Borkowski"
+]
+],
+[
+"Fantomex",
+6,
+[
+"Charlie-Cluster 7"
+]
+],
+[
+"M",
+6,
+[
+"Monet St. Croix",
+"Monet Yvette Clarisse Maria Therese St. Croix",
+"Penance"
+]
+],
+[
+"Nate Grey",
+6,
+[
+"Nathaniel Grey",
+"X-Man"
+]
+],
+[
+"Spyke",
+6,
+[
+"Evan Daniels",
+"Spike"
+]
+],
+[
+"Marrow",
+6,
+[
+"Sarah Knuckey",
+"Sarah Rushman"
+]
+],
+[
+"Ink",
+5,
+[
+"Eric Gitter"
+]
+],
+[
+"Nocturne",
+5,
+[
+"Talia Josephine Wagner",
+"Talia Wagner",
+"T.J."
+]
+],
+[
+"Mimic",
+5,
+[
+"Calvin Montgomery Rankin",
+"Calvin Rankin"
+]
+],
+[
+"Abigail Brand",
+5,
+[
+"Abigail Thanriaguiaxus"
+]
+],
+[
+"Elixir",
+5,
+[
+"Josh Foley",
+"Joshua Foley"
+]
+],
+[
+"Lifeguard",
+4,
+[
+"Heather Cameron"
+]
+],
+[
+"Joseph",
+4,
+[
+"Joseph Lensherr"
+]
+],
+[
+"Stacy X",
+4,
+[
+"Miranda Leevald",
+"Ripcord"
+]
+],
+[
+"Barnell Bohusk",
+4,
+[
+"Beak",
+"Blackwing"
+]
+],
+[
+"Xorn",
+4,
+[]
+],
+[
+"Icarus",
+4,
+[
+"Jay Guthri",
+"Joshua Guthri"
+]
+],
+[
+"Graymalkin",
+4,
+[]
+],
+[
+"Slipstream",
+4,
+[
+"Davis Cameron"
+]
+],
+[
+"Amanda Sefton",
+4,
+[
+"Daytripper",
+"Jimaine Szardos",
+"Magik"
+]
+],
+[
+"Blindfold",
+4,
+[
+"Ruth Aldine"
+]
+],
+[
+"Wither",
+4,
+[
+"Kevin Ford"
+]
+],
+[
+"Maystorm",
+3,
+[
+"Mei Igarashi"
+]
+],
+[
+"Jimmy Hudson",
+3,
+[
+"James Hudson Jr.",
+"Wolverine"
+]
+],
+[
+"Skin",
+3,
+[
+"Angelo Espinosa"
+]
+],
+[
+"Maggott",
+3,
+[]
+],
+[
+"Match",
+3,
+[
+"Ben Hammil"
+]
+],
+[
+"Synch",
+3,
+[
+"Everett Thomas"
+]
+],
+[
+"Cipher",
+3,
+[
+"Alisa Tager"
+]
+],
+[
+"Red Lotus",
+3,
+[]
+],
+[
+"Glob Herman",
+3,
+[
+"Robert Herman"
+]
+],
+[
+"Ultimate Wolverine",
+3,
+[
+"James Howlett",
+"Logan",
+"Lucky Jim",
+"Weapon X",
+"Wolverine"
+]
+],
+[
+"Temper",
+2,
+[
+"Idie Okonkwo",
+"Oya"
+]
+],
+[
+"Loa",
+2,
+[
+"Alani Ryan"
+]
+],
+[
+"Magnus Lehnsherr",
+1,
+[]
+],
+[
+"Egg",
+1,
+[
+"Fabio Medina",
+"Goldballs"
+]
+],
+[
+"Ultimate Firestar",
+1,
+[
+"Elizabeth Allan",
+"Firestar",
+"Liz Allan"
+]
+],
+[
+"Ultimate Beast",
+1,
+[
+"Beast",
+"Hank McCoy",
+"Henry McCoy"
+]
+],
+[
+"Ultimate Cyclops",
+1,
+[
+"Cyclops",
+"Scott Summers"
+]
+],
+[
+"Ultimate Colossus",
+1,
+[
+"Peter Rasputin",
+"Piotr Nikolaievitch Rasputin",
+"Piotr Rasputin"
+]
+],
+[
+"Ultimate Storm",
+1,
+[
+"Ororo Munroe",
+"Storm"
+]
+],
+[
+"Elliot Boggs",
+1,
+[
+"Magician"
+]
+],
+[
+"Petra",
+0,
+[]
+],
+[
+"Ultimate Jean Grey",
+0,
+[
+"Jean Grey",
+"Karen Grant",
+"Marvel Girl",
+"Phoenix"
+]
+],
+[
+"Ultimate Rogue",
+0,
+[
+"Marian Carlyle",
+"Rogue"
+]
+],
+[
+"Ultimate Iceman",
+0,
+[
+"Bobby Drake",
+"Iceman",
+"Robert Drake"
+]
+],
+[
+"Ultimate Kitty Pryde",
+0,
+[
+"Katherine Pryde",
+"Kitty Pryde",
+"Shadowcat"
+]
+],
+[
+"Ultimate Angel",
+0,
+[
+"Angel",
+"Warren Worthington III"
+]
+],
+[
+"Old Man Logan",
+0,
+[
+"James Howlett",
+"Logan",
+"Wolverine"
+]
+]
+]

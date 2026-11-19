@@ -1,22 +1,6 @@
 /* Prompt pack 2: animals and nature. Format as in data.js. */
 (function (root) {
   var PROMPTS = [
-    { id: "mammal", q: "Name a mammal", t: {
-      p: "Dog|Cat|Human=person|Elephant|Lion|Horse|Cow|Whale|Monkey|Bear",
-      c: "Platypus|Bat",
-      s: "Tiger|Giraffe|Zebra|Kangaroo|Dolphin|Pig|Sheep|Goat|Rabbit|Mouse|Rat|Deer|Wolf|Fox|Gorilla|Chimpanzee|Hippopotamus=hippo|Rhinoceros=rhino|Camel|Squirrel|Koala|Panda|Cheetah|Leopard|Seal|Otter|Raccoon|Hamster|Moose|Bison|Buffalo|Donkey|Beaver",
-      r: "Armadillo|Sloth|Anteater|Hedgehog|Porcupine|Skunk|Opossum|Badger|Wombat|Echidna|Lemur|Meerkat|Mongoose|Hyena|Jaguar|Walrus|Manatee|Narwhal|Orca|Llama|Alpaca|Yak|Tapir|Okapi|Pangolin|Capybara|Chinchilla|Ferret|Weasel|Lynx|Bobcat|Caribou=reindeer|Elk|Gazelle|Antelope|Warthog|Orangutan|Baboon|Mole|Shrew|Vole|Gopher|Wolverine|Red Panda|Sea Lion|Dugong",
-      d: "Aye-Aye=aye aye|Saiga|Solenodon|Tenrec|Hyrax|Pika|Quoll|Numbat|Bilby|Kinkajou|Coati|Fossa|Binturong|Dhole|Gerenuk|Dik-Dik=dik dik|Babirusa|Colugo|Slow Loris=loris|Tarsier|Vaquita|Zorilla|Olingo|Takin|Markhor|Gaur|Bongo|Sitatunga|Desman|Hutia|Agouti|Paca|Jerboa|Springhare|Cuscus|Marten|Fisher|Tayra|Ratel=honey badger",
-      k: "Zonkey::Half zebra, half donkey, with stripy legs." } },
-
-    { id: "seacreature", q: "Name a sea creature", t: {
-      p: "Shark|Whale|Dolphin|Octopus|Jellyfish|Fish|Crab",
-      c: "Axolotl|Blobfish",
-      s: "Starfish=sea star|Seahorse|Squid|Lobster|Shrimp|Clam|Oyster|Sea Turtle=turtle|Stingray=ray|Seal|Sea Lion|Eel|Orca=killer whale|Manta Ray|Sea Urchin|Coral|Anemone=sea anemone|Swordfish|Tuna|Pufferfish=puffer|Clownfish|Walrus|Narwhal|Barracuda|Hammerhead",
-      r: "Anglerfish|Nautilus|Cuttlefish|Sea Cucumber|Manatee|Dugong|Beluga|Sea Otter|Moray Eel|Lionfish|Sunfish=mola mola|Barnacle|Krill|Plankton|Sea Slug=nudibranch|Sand Dollar|Hermit Crab|Mussel|Scallop|Conch|Marlin|Sailfish|Flying Fish|Sea Dragon|Pipefish|Portuguese Man o' War=man o war|Box Jellyfish|Sperm Whale|Humpback Whale|Blue Whale|Mantis Shrimp|King Crab|Horseshoe Crab|Sea Snake|Grouper",
-      d: "Frilled Shark|Goblin Shark|Gulper Eel|Viperfish|Fangtooth|Barreleye|Dumbo Octopus|Vampire Squid|Giant Isopod|Yeti Crab|Sea Pig|Sea Spider|Siphonophore|Comb Jelly=ctenophore|Salp|Hagfish|Lamprey|Oarfish|Coelacanth|Chimaera|Sarcastic Fringehead|Leafy Sea Dragon|Pistol Shrimp|Bobbit Worm|Christmas Tree Worm|Feather Star|Basket Star|Sea Butterfly|Glaucus=blue dragon|Lanternfish",
-      k: "Immortal Jellyfish=turritopsis::Can turn back into a baby polyp when it gets old." } },
-
     { id: "catbreed", q: "Name a cat breed", t: {
       p: "Siamese|Persian|Maine Coon|Tabby|Sphynx",
       c: "Munchkin|Scottish Fold",
@@ -64,22 +48,6 @@
       r: "Serval|Caracal|Margay|Jaguarundi|Fishing Cat|Sand Cat|Pallas's Cat=manul|Wildcat|Sunda Clouded Leopard|Canada Lynx|Iberian Lynx|Eurasian Lynx|Tigon",
       d: "Kodkod|Oncilla|Andean Mountain Cat|Pampas Cat|Geoffroy's Cat|Flat-Headed Cat|Rusty-Spotted Cat|Marbled Cat|Bay Cat|Asian Golden Cat|African Golden Cat|Jungle Cat|Leopard Cat",
       k: "Black-Footed Cat::Africa's smallest cat, and the deadliest hunter of all cats." } },
-
-    { id: "amphibian", q: "Name an amphibian", t: {
-      p: "Frog|Toad|Salamander|Newt",
-      c: "Axolotl",
-      s: "Bullfrog|Tree Frog|Poison Dart Frog|Cane Toad|Tadpole|Leopard Frog|Red-Eyed Tree Frog|Mudpuppy|Fire Salamander|Spring Peeper",
-      r: "Caecilian|Hellbender|Olm|Siren|Amphiuma|Glass Frog|Goliath Frog|Horned Frog=pacman frog|Surinam Toad|Midwife Toad|Spadefoot Toad|Natterjack Toad|Golden Toad|Tomato Frog|Wood Frog|Fire-Bellied Toad|Chinese Giant Salamander|Tiger Salamander|Spotted Salamander",
-      d: "Purple Frog|Darwin's Frog|Gastric-Brooding Frog|Paedophryne|Lake Titicaca Frog|Waxy Monkey Frog|Budgett's Frog|Mossy Frog|Turtle Frog|Tailed Frog|Ensatina|Lungless Salamander|Rough-Skinned Newt|Crocodile Newt|Marbled Newt",
-      k: "Hairy Frog=horror frog::Breaks its own toe bones to make claws when threatened." } },
-
-    { id: "reptile", q: "Name a reptile", t: {
-      p: "Snake|Lizard|Turtle|Crocodile|Alligator",
-      c: "Komodo Dragon|Tuatara",
-      s: "Tortoise|Iguana|Gecko|Chameleon|Python|Cobra|Rattlesnake|Bearded Dragon|Sea Turtle|Anaconda|Gila Monster|Monitor Lizard|Skink|Boa|Viper|Caiman",
-      r: "Gharial|Thorny Devil|Frilled Lizard|Basilisk|Anole|Horned Lizard|Slow Worm|Glass Lizard|Leatherback|Snapping Turtle|Box Turtle|Galapagos Tortoise|Marine Iguana|Black Mamba|King Cobra|Taipan|Mamba|Copperhead|Sidewinder|Uromastyx",
-      d: "Amphisbaenian=worm lizard|Mata Mata|Shingleback|Armadillo Girdled Lizard|Draco=flying lizard|Satanic Leaf-Tailed Gecko|Tokay Gecko|Crested Gecko|Agama|Tegu|Blind Snake|Mexican Beaded Lizard|Chuckwalla|Alligator Snapping Turtle|Spiny Softshell",
-      k: "Pig-Nosed Turtle::A turtle with a snout like a pig and flippers like a sea turtle." } },
 
     { id: "berry", q: "Name a berry", t: {
       p: "Strawberry|Blueberry|Raspberry|Blackberry|Cranberry",

@@ -1,0 +1,3 @@
+Oldham Athletic=oldham
+Bradford City=bradford
+Swindon Town=swindon

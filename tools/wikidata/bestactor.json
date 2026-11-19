@@ -1,0 +1,621 @@
+[
+[
+"Marlon Brando",
+159,
+[]
+],
+[
+"Leonardo DiCaprio",
+150,
+[
+"Leonardo Wilhelm DiCaprio"
+]
+],
+[
+"Robert De Niro",
+141,
+[
+"De Niro",
+"Robert Anthony De Niro"
+]
+],
+[
+"Tom Hanks",
+137,
+[
+"Thomas Hanks",
+"Thomas Jeffrey Hanks"
+]
+],
+[
+"Will Smith",
+137,
+[
+"Willard Smith"
+]
+],
+[
+"Al Pacino",
+135,
+[
+"Alfred James Pacino",
+"Alfredo James Pacino",
+"Alfredo Pacino",
+"Alfred Pacino"
+]
+],
+[
+"Jack Nicholson",
+130,
+[
+"John Nicholson"
+]
+],
+[
+"Russell Crowe",
+125,
+[]
+],
+[
+"Bing Crosby",
+123,
+[
+"Harry Crosby",
+"Harry Crosby Jr.",
+"Harry Lillis Crosby",
+"Harry Lillis Crosby Jr."
+]
+],
+[
+"John Wayne",
+122,
+[
+"Duke",
+"The Duke"
+]
+],
+[
+"Anthony Hopkins",
+122,
+[
+"Sir Anthony Philip Hopkins"
+]
+],
+[
+"Nicolas Cage",
+121,
+[
+"Nicolas Kim Coppola"
+]
+],
+[
+"Humphrey Bogart",
+119,
+[
+"Bogie"
+]
+],
+[
+"Denzel Washington",
+113,
+[
+"Denzel Hayes Washington Jr.",
+"Denzel Washington Jr.",
+"Denzel Washington, Jr."
+]
+],
+[
+"Paul Newman",
+109,
+[]
+],
+[
+"Clark Gable",
+108,
+[
+"The King of Hollywood",
+"William Clark Gable",
+"William Gable"
+]
+],
+[
+"Daniel Day-Lewis",
+104,
+[
+"Daniel Michael Blake Day-Lewis",
+"Sir Daniel Michael Blake Day-Lewis"
+]
+],
+[
+"Gary Oldman",
+103,
+[
+"Gary Leonard Oldman"
+]
+],
+[
+"Sidney Poitier",
+101,
+[
+"Sidney L. Poitier",
+"Sir Sidney Poitier"
+]
+],
+[
+"Jon Voight",
+101,
+[
+"John Vincent Voight",
+"John Voight",
+"Jonathan Voight",
+"Jon Vincent Voight"
+]
+],
+[
+"Henry Fonda",
+100,
+[]
+],
+[
+"Sean Penn",
+100,
+[]
+],
+[
+"Gregory Peck",
+99,
+[
+"Eldred Peck"
+]
+],
+[
+"Michael Douglas",
+99,
+[
+"Michael Kirk Douglas"
+]
+],
+[
+"James Stewart",
+98,
+[
+"James Maitland Stewart",
+"Jimmy Stewart"
+]
+],
+[
+"Gary Cooper",
+97,
+[
+"Frank Cooper",
+"Frank James Cooper"
+]
+],
+[
+"Laurence Olivier",
+95,
+[
+"Baron Olivier of Brighton",
+"Sir Laurence Olivier",
+"The Lord Olivier"
+]
+],
+[
+"Robert Duvall",
+93,
+[]
+],
+[
+"Matthew McConaughey",
+93,
+[]
+],
+[
+"Charlton Heston",
+93,
+[
+"Charlton Carter",
+"Charlton John Carter",
+"John Carter",
+"John Heston"
+]
+],
+[
+"Philip Seymour Hoffman",
+92,
+[
+"Phil Hoffman",
+"Philip Hoffman"
+]
+],
+[
+"Joaquin Phoenix",
+92,
+[
+"Joaquin Bottom",
+"Leaf Rafael Phoenix"
+]
+],
+[
+"James Cagney",
+92,
+[
+"James Francis Cagney",
+"James Francis Cagney, Jr.",
+"Jimmy Cagney"
+]
+],
+[
+"Kevin Spacey",
+91,
+[]
+],
+[
+"Cillian Murphy",
+89,
+[]
+],
+[
+"Jeremy Irons",
+88,
+[]
+],
+[
+"Ben Kingsley",
+88,
+[]
+],
+[
+"Roberto Benigni",
+88,
+[]
+],
+[
+"Spencer Tracy",
+88,
+[
+"Spencer Bonaventure Tracy"
+]
+],
+[
+"Gene Hackman",
+87,
+[]
+],
+[
+"Colin Firth",
+85,
+[]
+],
+[
+"Jeff Bridges",
+85,
+[
+"Jeffrey Leon \"Jeff\" Bridges"
+]
+],
+[
+"Burt Lancaster",
+84,
+[
+"Burton Lancaster"
+]
+],
+[
+"Brendan Fraser",
+84,
+[
+"Brendan James Fraser"
+]
+],
+[
+"Jamie Foxx",
+83,
+[
+"Eric Bishop"
+]
+],
+[
+"Alec Guinness",
+82,
+[
+"Alec Guinness de Cuffe",
+"Sir Alec Guinness"
+]
+],
+[
+"Forest Whitaker",
+81,
+[
+"Forest Steven Whitaker"
+]
+],
+[
+"Rami Malek",
+81,
+[
+"Rami Said Malek"
+]
+],
+[
+"Jack Lemmon",
+80,
+[
+"John Lemmon",
+"John Uhler Lemmon"
+]
+],
+[
+"Eddie Redmayne",
+79,
+[
+"Edward John David Redmayne"
+]
+],
+[
+"Adrien Brody",
+78,
+[
+"Adrien Nicholas Brody"
+]
+],
+[
+"Geoffrey Rush",
+78,
+[]
+],
+[
+"Ernest Borgnine",
+77,
+[
+"Ermes Borgnino"
+]
+],
+[
+"Maximilian Schell",
+77,
+[]
+],
+[
+"William Hurt",
+74,
+[
+"William McChord Hurt"
+]
+],
+[
+"Yul Brynner",
+73,
+[
+"Taidje Khan",
+"Youl Bryner",
+"Yuliy Borisovich Briner",
+"Yuliy Borisovich Bryner"
+]
+],
+[
+"William Holden",
+73,
+[
+"William Beedle",
+"William Beedle Jr.",
+"William Franklin Beedle",
+"William Franklin Holden"
+]
+],
+[
+"Jean Dujardin",
+71,
+[]
+],
+[
+"Casey Affleck",
+69,
+[
+"Caleb Casey Affleck",
+"Caleb Casey McGuire Affleck-Boldt"
+]
+],
+[
+"Richard Dreyfuss",
+68,
+[]
+],
+[
+"David Niven",
+68,
+[]
+],
+[
+"Lee Marvin",
+67,
+[
+"Lamont Marvin",
+"Lamont Marvin Jr.",
+"Lamont Waltman Marvin",
+"Lamont Waltman Marvin Jr."
+]
+],
+[
+"F. Murray Abraham",
+66,
+[]
+],
+[
+"Charles Laughton",
+66,
+[]
+],
+[
+"George C. Scott",
+62,
+[
+"George Campbell Scott",
+"George Scott"
+]
+],
+[
+"Rod Steiger",
+61,
+[
+"Rodney Stephen Steiger"
+]
+],
+[
+"Michael B. Jordan",
+61,
+[]
+],
+[
+"Emil Jannings",
+60,
+[
+"Theodor Friedrich Emil Janenz"
+]
+],
+[
+"Fredric March",
+58,
+[
+"Ernest Frederick McIntyre Bickel"
+]
+],
+[
+"Rex Harrison",
+58,
+[
+"Reginald Carey Harrison",
+"Reginald Harrison",
+"Sir Reginald Carey Harrison",
+"Sir Reginald Carey \"Rex\" Harrison",
+"Sir Reginald Harrison",
+"Sir Rex Harrison"
+]
+],
+[
+"Lionel Barrymore",
+58,
+[
+"Lionel Herbert Blythe"
+]
+],
+[
+"Paul Muni",
+57,
+[
+"Meshilem Meier Weisenfreund",
+"Muni Weisenfreund"
+]
+],
+[
+"Peter Finch",
+57,
+[
+"Frederick George Peter Ingle Finch",
+"Frederick Ingle Finch",
+"Frederick Ingle-Finch"
+]
+],
+[
+"Ray Milland",
+56,
+[
+"Alfred Jones",
+"Alfred Reginald Jones",
+"Reginald Alfred John Truscott-Jones",
+"Reginald Jones",
+"Reginald Truscott-Jones"
+]
+],
+[
+"Art Carney",
+56,
+[
+"Arthur Carney",
+"Arthur William Matthew Carney"
+]
+],
+[
+"Cliff Robertson",
+55,
+[
+"Clifford Parker Robertson III",
+"Clifford Robertson III"
+]
+],
+[
+"Broderick Crawford",
+55,
+[
+"Brod Crawford",
+"William Broderick Crawford"
+]
+],
+[
+"Paul Scofield",
+55,
+[
+"David Paul Scofield",
+"David Scofield"
+]
+],
+[
+"George Arliss",
+53,
+[
+"George Augustus Andrews"
+]
+],
+[
+"Warner Baxter",
+53,
+[
+"Warner Leroy Baxter"
+]
+],
+[
+"José Ferrer",
+53,
+[
+"Jose Ferrer",
+"Jose Vicente Ferrer",
+"José Vicente Ferrer",
+"Jose Vicente Ferrer de Otero y Cintron",
+"José Vicente Ferrer de Otero y Cintrón"
+]
+],
+[
+"Robert Donat",
+52,
+[
+"Frederick Robert Donat",
+"Friedrich Robert Donat"
+]
+],
+[
+"Ronald Colman",
+52,
+[
+"Ronald Charles Colman"
+]
+],
+[
+"Paul Lukas",
+50,
+[]
+],
+[
+"Wallace Beery",
+50,
+[
+"Wallace Fitzgerald Beery"
+]
+],
+[
+"Victor McLaglen",
+49,
+[
+"Victor Andrew de Bier Everleigh McLaglen"
+]
+]
+]

@@ -1,0 +1,13436 @@
+[
+[
+"Cabernet Sauvignon",
+54,
+[
+"Cab Sauv"
+]
+],
+[
+"Pinot noir",
+50,
+[]
+],
+[
+"Chardonnay",
+48,
+[]
+],
+[
+"Sauvignon blanc",
+47,
+[]
+],
+[
+"Riesling",
+46,
+[
+"Johannisberger",
+"Rossling",
+"White Riesling"
+]
+],
+[
+"Merlot",
+45,
+[
+"Alicante",
+"Alicante noir",
+"Begney",
+"Bégney",
+"Bidal",
+"Bidalhe",
+"Bigney",
+"Bigney rouge",
+"Bini",
+"Bini Ruzh",
+"Bioney",
+"Black Alicante",
+"Bordeleza belcha",
+"Crabutet",
+"Crabutet noir",
+"Crabutet noir merlau",
+"Hebigney",
+"Higney",
+"Higney rouge",
+"Langon",
+"Lecchumskij",
+"Medoc noir",
+"Médoc noir",
+"Merlau",
+"Merlaut",
+"Merlaut noir",
+"Merle",
+"Merleau",
+"Merle Petite",
+"Merlo",
+"Merlô",
+"Merlot black",
+"Merlot blauer",
+"Merlot crni",
+"Merlot nero",
+"Merlot noir",
+"Merlott",
+"Merlou",
+"Odzalesi",
+"Odzhaleshi",
+"Odzhaleshi Legkhumskii",
+"Petit Merle",
+"Picard",
+"Pikard",
+"Planet Medok",
+"Plan medre",
+"Plant du Medoc",
+"Plant du Médoc",
+"Plant Medoc",
+"Plant Médoc",
+"Saint-Macaire",
+"Same de la Canan",
+"Same dou Flaube",
+"Seme de la Canau",
+"Sème de la Canau",
+"Seme Dou Flube",
+"Sème Dou Flube",
+"Semilhon rouge",
+"Semilhoum rouge",
+"Semilhoun rouge",
+"Semillon rouge",
+"Sémillon rouge",
+"Sud des Graves",
+"Vidal",
+"Vini Ticinesi",
+"Vitrai",
+"Vitraille"
+]
+],
+[
+"Syrah",
+39,
+[
+"Shiraz",
+"Shiraz grape"
+]
+],
+[
+"Gewürztraminer",
+36,
+[
+"Gewurztraminer"
+]
+],
+[
+"Pinot gris",
+36,
+[
+"Grauburgunder",
+"Pinot grigio",
+"Szürkebarát"
+]
+],
+[
+"Cabernet Franc",
+35,
+[]
+],
+[
+"Chenin blanc",
+31,
+[]
+],
+[
+"Zinfandel",
+31,
+[
+"Crljenak Kaštelanski",
+"Primitivo",
+"Zin",
+"ZPC"
+]
+],
+[
+"Grenache",
+31,
+[]
+],
+[
+"Tempranillo",
+31,
+[]
+],
+[
+"Silvaner",
+29,
+[]
+],
+[
+"Nebbiolo",
+29,
+[]
+],
+[
+"Grüner Veltliner",
+28,
+[]
+],
+[
+"sultana",
+28,
+[
+"Sultanina",
+"Sultanina Alba",
+"Sultanina Bela",
+"Sultanina Bianca",
+"Sultanina Bijela",
+"Sultanina Blanca",
+"Sultanina Blanche",
+"Sultanina grape",
+"Thompson Seedless"
+]
+],
+[
+"Müller-Thurgau",
+28,
+[]
+],
+[
+"Gamay",
+27,
+[]
+],
+[
+"Malbec",
+27,
+[]
+],
+[
+"Sémillon",
+26,
+[
+"Semillon",
+"Semillon grape",
+"Teisor"
+]
+],
+[
+"Sangiovese",
+26,
+[
+"Brunello",
+"Brunello grape",
+"Prugnolo",
+"Prugnolo Gentile",
+"Prugnolo Gentile di Montepulciano",
+"Prugnolo Rosso"
+]
+],
+[
+"Carménère",
+25,
+[
+"Carmenere"
+]
+],
+[
+"Saperavi",
+25,
+[]
+],
+[
+"Carignan",
+25,
+[
+"Bovale Grande",
+"Carignan grape"
+]
+],
+[
+"Trebbiano",
+25,
+[]
+],
+[
+"Rkatsiteli",
+24,
+[]
+],
+[
+"Barbera",
+24,
+[]
+],
+[
+"Pinot blanc",
+24,
+[]
+],
+[
+"Albariño",
+22,
+[
+"Albarino",
+"Alvarinho",
+"Alvarinho grape",
+"Azal Blanco"
+]
+],
+[
+"Nero d'Avola",
+21,
+[]
+],
+[
+"Petit Verdot",
+21,
+[]
+],
+[
+"Pinot meunier",
+21,
+[]
+],
+[
+"Viognier",
+21,
+[]
+],
+[
+"Aligoté",
+20,
+[
+"Aligote"
+]
+],
+[
+"Mourvèdre",
+20,
+[
+"Mataró",
+"Mourvedre"
+]
+],
+[
+"Corvina",
+20,
+[]
+],
+[
+"Kadarka",
+20,
+[
+"Kadarka Kek"
+]
+],
+[
+"Italian Riesling",
+20,
+[]
+],
+[
+"Cinsaut",
+19,
+[
+"Cinsault"
+]
+],
+[
+"Pinotage",
+19,
+[]
+],
+[
+"Muscat of Alexandria",
+19,
+[]
+],
+[
+"Aglianico",
+19,
+[]
+],
+[
+"Chasselas",
+19,
+[]
+],
+[
+"Furmint",
+19,
+[]
+],
+[
+"Macabeo",
+18,
+[]
+],
+[
+"Alicante Bouschet",
+18,
+[]
+],
+[
+"Zweigelt",
+18,
+[]
+],
+[
+"Vranec",
+18,
+[]
+],
+[
+"Blauer Portugieser",
+17,
+[]
+],
+[
+"Palomino",
+17,
+[]
+],
+[
+"Mavrud",
+17,
+[]
+],
+[
+"Blaufränkisch",
+17,
+[
+"Kekfrankos",
+"Kékfrankos",
+"Lemberger"
+]
+],
+[
+"Negroamaro",
+17,
+[]
+],
+[
+"Dolcetto",
+16,
+[
+"Dolcetto grape"
+]
+],
+[
+"Garganega",
+16,
+[]
+],
+[
+"Vermentino",
+16,
+[]
+],
+[
+"Concord",
+16,
+[
+"Concord grape",
+"Ripatella"
+]
+],
+[
+"Assyrtiko",
+16,
+[]
+],
+[
+"Colombard",
+15,
+[]
+],
+[
+"Kerner",
+15,
+[]
+],
+[
+"Pedro Ximénez",
+15,
+[
+"Pedro Ximenez"
+]
+],
+[
+"Xinomavro",
+15,
+[]
+],
+[
+"Torrontés",
+15,
+[
+"Torrontes",
+"Torrontés Sanjuanino"
+]
+],
+[
+"Isabella",
+15,
+[
+"Isabella grape",
+"Isabelle",
+"Isabelle grape",
+"Uva fragola"
+]
+],
+[
+"Agiorgitiko",
+15,
+[]
+],
+[
+"Arneis",
+15,
+[]
+],
+[
+"Tannat",
+15,
+[]
+],
+[
+"Giulio Questi",
+15,
+[]
+],
+[
+"Hárslevelű",
+15,
+[]
+],
+[
+"Xarel·lo",
+14,
+[]
+],
+[
+"Savagnin",
+14,
+[
+"Savagnin blanc"
+]
+],
+[
+"Plavac Mali",
+14,
+[]
+],
+[
+"Žilavka",
+14,
+[
+"Jilavka",
+"Mostarska",
+"Zilavka Mostarska"
+]
+],
+[
+"Airén",
+14,
+[
+"Airen"
+]
+],
+[
+"Fetească albă",
+14,
+[]
+],
+[
+"Fetească regală",
+14,
+[]
+],
+[
+"Rondinella",
+14,
+[]
+],
+[
+"Bobal",
+14,
+[]
+],
+[
+"Canaiolo",
+14,
+[]
+],
+[
+"Mencia",
+13,
+[
+"Jaen du Dão",
+"Mencia grape"
+]
+],
+[
+"Roussanne",
+13,
+[]
+],
+[
+"St. Laurent",
+13,
+[]
+],
+[
+"Montepulciano",
+13,
+[]
+],
+[
+"Verdicchio",
+13,
+[]
+],
+[
+"Muscat Ottonel",
+13,
+[]
+],
+[
+"Băbească Neagră",
+13,
+[]
+],
+[
+"Kōshū",
+13,
+[
+"Koshu"
+]
+],
+[
+"Solaris",
+12,
+[]
+],
+[
+"Graciano",
+12,
+[]
+],
+[
+"Dornfelder",
+12,
+[]
+],
+[
+"Blatina",
+12,
+[]
+],
+[
+"Fetească neagră",
+12,
+[
+"Fetească"
+]
+],
+[
+"Grenache Blanc",
+12,
+[
+"garnatxa blanca"
+]
+],
+[
+"Lagrein",
+12,
+[]
+],
+[
+"Muscat Blanc à Petits Grains",
+12,
+[
+"Muscat Blanc a Petits Grains",
+"Muscat Canelli",
+"White Frontignan"
+]
+],
+[
+"Marsanne",
+12,
+[]
+],
+[
+"Scheurebe",
+12,
+[
+"Sämling 8"
+]
+],
+[
+"Pecorino",
+12,
+[]
+],
+[
+"Verdejo",
+12,
+[]
+],
+[
+"Mavrodafni",
+12,
+[]
+],
+[
+"Bastardo",
+12,
+[]
+],
+[
+"Ruby Roman",
+12,
+[]
+],
+[
+"Durif",
+11,
+[
+"Petite Sirah"
+]
+],
+[
+"Sercial",
+11,
+[
+"Esganoso de Castelo de Paiva",
+"Sercial grape"
+]
+],
+[
+"Melon de Bourgogne",
+11,
+[]
+],
+[
+"Touriga Nacional",
+11,
+[]
+],
+[
+"Glera",
+11,
+[]
+],
+[
+"Grillo",
+11,
+[
+"Riddu"
+]
+],
+[
+"Abouriou",
+11,
+[]
+],
+[
+"Parellada",
+11,
+[]
+],
+[
+"Molinara",
+11,
+[]
+],
+[
+"Mtsvane",
+11,
+[
+"Mtsvane Kakhetian"
+]
+],
+[
+"Baco noir",
+11,
+[
+"Baco noir grape"
+]
+],
+[
+"Alexandrouli",
+11,
+[
+"Aleksandroouly",
+"Aleksandrouli",
+"Aleksandrouli Shavi",
+"Kabistona",
+"Kabistoni"
+]
+],
+[
+"Frappato",
+11,
+[]
+],
+[
+"Pošip",
+11,
+[]
+],
+[
+"Marselan",
+11,
+[
+"INRA 1810-68"
+]
+],
+[
+"Tinta Barroca",
+11,
+[
+"Tinta Grossa"
+]
+],
+[
+"Elbling",
+10,
+[
+"Elbling grape"
+]
+],
+[
+"Regent",
+10,
+[]
+],
+[
+"Folle blanche",
+10,
+[]
+],
+[
+"Falanghina",
+10,
+[
+"Biancazita",
+"Biancozita",
+"Biancuzita",
+"Falanchina",
+"Falanchina Bianca",
+"Falanghina Verace",
+"Falenghina",
+"Falernina",
+"Falerno Veronese",
+"Fallanchina",
+"Fallanghina",
+"Folanghina",
+"Montecalvo",
+"Montellese",
+"Uva Falerna"
+]
+],
+[
+"Loureira",
+10,
+[
+"Loureiro",
+"Loureiro Blanco",
+"Loureiro Blanco grape",
+"Loureiro Branco"
+]
+],
+[
+"Verdelho",
+10,
+[]
+],
+[
+"Muscadelle",
+10,
+[]
+],
+[
+"Tsolikouri",
+10,
+[]
+],
+[
+"Albana",
+10,
+[]
+],
+[
+"Xynisteri",
+10,
+[]
+],
+[
+"Vidal Blanc",
+10,
+[]
+],
+[
+"Trollinger",
+10,
+[]
+],
+[
+"Aramon",
+10,
+[
+"Aramon grape",
+"Aramon noir"
+]
+],
+[
+"Kyoho",
+10,
+[
+"Kioho",
+"Vitis vinifera ‘Kyoho’"
+]
+],
+[
+"Black Muscat",
+10,
+[
+"Aleatico",
+"Black Hamburg",
+"Black Hamburg grape",
+"Black Muscat grape",
+"Black Muscat of Alexandria",
+"Black of Alexandria",
+"Ceuro",
+"Esperione",
+"Fekete Muskotaly",
+"Gamburg",
+"Gulabi",
+"Mai gui san",
+"Muscat Hamburg",
+"Muscat Hamburg grape",
+"Muskateller Trollinger",
+"Muskat Hamburg",
+"Muskat Hambursky",
+"Muskat Trollinger",
+"Myrodato",
+"Trollinger Muscateller Blau",
+"Trollinger Muskat"
+]
+],
+[
+"Marzemino",
+10,
+[]
+],
+[
+"Auxerrois Blanc",
+10,
+[]
+],
+[
+"Cardinal",
+10,
+[
+"Cardinal grape"
+]
+],
+[
+"Mavro",
+10,
+[]
+],
+[
+"Cortese",
+9,
+[]
+],
+[
+"Croatina",
+9,
+[]
+],
+[
+"Rondo",
+9,
+[]
+],
+[
+"Ansonica",
+9,
+[
+"Inzolia"
+]
+],
+[
+"Pinot Noir Précoce",
+9,
+[
+"Pinot Noir Precoce"
+]
+],
+[
+"Ribolla Gialla",
+9,
+[
+"Rebula"
+]
+],
+[
+"table grape variety",
+9,
+[
+"table grape"
+]
+],
+[
+"Fiano",
+9,
+[]
+],
+[
+"Sagrantino",
+9,
+[]
+],
+[
+"Freisa",
+9,
+[]
+],
+[
+"Sauvignon vert",
+9,
+[
+"Sauvignonasse"
+]
+],
+[
+"Greco",
+9,
+[]
+],
+[
+"Aleatico",
+9,
+[]
+],
+[
+"Bacchus Weiss",
+9,
+[
+"Bacchus",
+"Bacchus grape",
+"Bacchus Weiss grape"
+]
+],
+[
+"Grolleau",
+9,
+[]
+],
+[
+"öküzgözü",
+9,
+[
+"Okuezgoezue",
+"Okuzgozu"
+]
+],
+[
+"Raboso",
+9,
+[]
+],
+[
+"Mandilaria",
+9,
+[]
+],
+[
+"Piquepoul",
+9,
+[
+"Picpoul"
+]
+],
+[
+"Gouais blanc",
+9,
+[]
+],
+[
+"Ancellotta",
+9,
+[]
+],
+[
+"Tinta Cão",
+9,
+[
+"Tinta Cao",
+"Tinto Cao",
+"Tinto Cão"
+]
+],
+[
+"Delaware",
+9,
+[
+"Delaware grape"
+]
+],
+[
+"Athiri",
+9,
+[]
+],
+[
+"Irsai Olivér",
+9,
+[
+"Irsai Oliver"
+]
+],
+[
+"Ciliegiolo",
+8,
+[]
+],
+[
+"Pamid",
+8,
+[]
+],
+[
+"Clinton",
+8,
+[]
+],
+[
+"Vernaccia",
+8,
+[]
+],
+[
+"Cabernet Cortis",
+8,
+[]
+],
+[
+"Poulsard",
+8,
+[]
+],
+[
+"Neuburger",
+8,
+[]
+],
+[
+"Souzão",
+8,
+[
+"Sezão"
+]
+],
+[
+"Prié blanc",
+8,
+[
+"Prie blanc"
+]
+],
+[
+"Gaglioppo",
+8,
+[]
+],
+[
+"Uva di Troia",
+8,
+[]
+],
+[
+"Grechetto",
+8,
+[]
+],
+[
+"Zierfandler",
+8,
+[]
+],
+[
+"Teroldego",
+8,
+[]
+],
+[
+"Tinta Negra Mole",
+8,
+[]
+],
+[
+"Sumoll",
+8,
+[]
+],
+[
+"Acolon",
+8,
+[]
+],
+[
+"Bourboulenc",
+8,
+[]
+],
+[
+"Prokupac",
+8,
+[]
+],
+[
+"Ojaleshi",
+8,
+[]
+],
+[
+"Erbaluce",
+8,
+[]
+],
+[
+"Clairette blanche",
+8,
+[]
+],
+[
+"Négrette",
+8,
+[
+"Negrette"
+]
+],
+[
+"Ruché",
+8,
+[
+"Ruche"
+]
+],
+[
+"Tinta Amarela",
+8,
+[
+"Trincadeira"
+]
+],
+[
+"Fernão Pires",
+8,
+[
+"Maria Gomes"
+]
+],
+[
+"Boal",
+8,
+[
+"Malvasia Fina",
+"Malvasia Fina grape"
+]
+],
+[
+"Treixadura",
+8,
+[]
+],
+[
+"Gamaret",
+8,
+[]
+],
+[
+"Trepat",
+8,
+[]
+],
+[
+"Baga",
+8,
+[]
+],
+[
+"Noah",
+8,
+[
+"Noah Bianca",
+"Noah grape"
+]
+],
+[
+"Pearl of Csaba",
+8,
+[]
+],
+[
+"Black Corinth",
+7,
+[]
+],
+[
+"Khikhvi",
+7,
+[]
+],
+[
+"Ortega",
+7,
+[]
+],
+[
+"Fumin",
+7,
+[]
+],
+[
+"Hibernal",
+7,
+[]
+],
+[
+"Thomcord",
+7,
+[
+"A29-67"
+]
+],
+[
+"Kotsifali",
+7,
+[
+"Kotsifali grape"
+]
+],
+[
+"Red Globe",
+7,
+[
+"Olmo 10-23 D"
+]
+],
+[
+"Rhoditis",
+7,
+[
+"Roditis"
+]
+],
+[
+"Siegerrebe",
+7,
+[]
+],
+[
+"Jacquère",
+7,
+[
+"Jacquere"
+]
+],
+[
+"Arbane",
+7,
+[
+"Arbane grape",
+"Arbanne",
+"Arbanne Blanche"
+]
+],
+[
+"Baco Blanc",
+7,
+[]
+],
+[
+"Abbuoto",
+7,
+[]
+],
+[
+"Grignolino",
+7,
+[]
+],
+[
+"Rieslaner",
+7,
+[]
+],
+[
+"Arinto",
+7,
+[]
+],
+[
+"Refosco",
+7,
+[
+"Refosco Nostrano"
+]
+],
+[
+"Corvinone",
+7,
+[]
+],
+[
+"Frühroter Veltliner",
+7,
+[]
+],
+[
+"Roter Veltliner",
+7,
+[]
+],
+[
+"Petite Arvine",
+7,
+[]
+],
+[
+"Niagara",
+7,
+[
+"Niagara grape"
+]
+],
+[
+"Žametovka",
+7,
+[]
+],
+[
+"Touriga Francesa",
+7,
+[]
+],
+[
+"Vespolina",
+7,
+[]
+],
+[
+"Fer",
+7,
+[
+"Fer servadou"
+]
+],
+[
+"Bombino Bianco",
+7,
+[
+"Bombino",
+"Bombino Bianco grape"
+]
+],
+[
+"Seyval Blanc",
+7,
+[
+"Seyve-Villard 5276"
+]
+],
+[
+"Petit Manseng",
+7,
+[]
+],
+[
+"Gros Manseng",
+7,
+[]
+],
+[
+"Len de l'El",
+7,
+[]
+],
+[
+"Dattier de Beyrouth",
+7,
+[
+"Afus Ali",
+"Rosaki",
+"Waltham cross"
+]
+],
+[
+"Alfrocheiro Preto",
+7,
+[]
+],
+[
+"Nosiola",
+7,
+[]
+],
+[
+"Prieto Picudo",
+7,
+[]
+],
+[
+"Stanušina Crna",
+7,
+[]
+],
+[
+"Kövérszőlő",
+7,
+[
+"Grasă de Cotnari"
+]
+],
+[
+"Cabernet Mitos",
+6,
+[]
+],
+[
+"Caladoc",
+6,
+[]
+],
+[
+"Shine Muscat",
+6,
+[]
+],
+[
+"Palava",
+6,
+[
+"Pálava"
+]
+],
+[
+"Hondarrabi Zuri",
+6,
+[
+"Courbu blanc",
+"Courbu blanc grape",
+"Txakoli"
+]
+],
+[
+"Douce noir",
+6,
+[
+"Bonarda Piemontese",
+"Charbono"
+]
+],
+[
+"Tourbat",
+6,
+[
+"Tourbat grape"
+]
+],
+[
+"Verduzzo",
+6,
+[]
+],
+[
+"Moschofilero",
+6,
+[]
+],
+[
+"Listán negro",
+6,
+[
+"Listan negro",
+"Mission"
+]
+],
+[
+"Maraština",
+6,
+[]
+],
+[
+"Nerello Mascalese",
+6,
+[
+"Nerello Mascalese grape"
+]
+],
+[
+"Nuragus di Cagliari DOC",
+6,
+[]
+],
+[
+"Robola",
+6,
+[]
+],
+[
+"Savatiano",
+6,
+[]
+],
+[
+"Terret noir",
+6,
+[]
+],
+[
+"Verdiso",
+6,
+[]
+],
+[
+"Krstač",
+6,
+[]
+],
+[
+"Babić",
+6,
+[]
+],
+[
+"Dobričić",
+6,
+[]
+],
+[
+"Abrusco",
+6,
+[]
+],
+[
+"Rotgipfler",
+6,
+[]
+],
+[
+"Verduzzo Trevigiano",
+6,
+[]
+],
+[
+"Domina",
+6,
+[]
+],
+[
+"Altesse",
+6,
+[]
+],
+[
+"Cabernet Dorsa",
+6,
+[]
+],
+[
+"Pigato",
+6,
+[]
+],
+[
+"Picolit",
+6,
+[]
+],
+[
+"Counoise",
+6,
+[]
+],
+[
+"Madeleine Angevine",
+6,
+[]
+],
+[
+"Lledoner Pelut",
+6,
+[
+"Garnacha peluda",
+"Garnacha peluda grape",
+"Lledoner Pelut grape"
+]
+],
+[
+"Castelão",
+6,
+[
+"Periquita"
+]
+],
+[
+"Espadeiro",
+6,
+[]
+],
+[
+"Passerina",
+6,
+[]
+],
+[
+"Argaman",
+6,
+[]
+],
+[
+"Morio Muscat",
+6,
+[]
+],
+[
+"Maratheftiko",
+6,
+[
+"Aloupostaphylo",
+"Mavrospourtiko",
+"Pampakia",
+"Vambakadha",
+"Vambakina"
+]
+],
+[
+"Albillo",
+6,
+[]
+],
+[
+"Aubun",
+6,
+[]
+],
+[
+"Bianca",
+6,
+[]
+],
+[
+"Blauburger",
+6,
+[]
+],
+[
+"Baroque",
+6,
+[]
+],
+[
+"Kéknyelű",
+6,
+[]
+],
+[
+"Bogdanuša",
+6,
+[]
+],
+[
+"Bombino Nero",
+6,
+[
+"Bombino",
+"Bombino Nero grape"
+]
+],
+[
+"Caiño tinto",
+6,
+[]
+],
+[
+"Brachetto",
+6,
+[]
+],
+[
+"Dimiat",
+6,
+[]
+],
+[
+"Italia",
+6,
+[
+"Doña Sofia",
+"Idéal",
+"Italia grape",
+"Italian Muscat",
+"Moscatel Italia",
+"Moscatel Italiano",
+"Moschato Rozaki",
+"Muscat d'Italie",
+"Pirovano 65",
+"Uva Italia"
+]
+],
+[
+"Catawba",
+6,
+[
+"Catawba grape"
+]
+],
+[
+"Cayetana",
+5,
+[]
+],
+[
+"Cereza",
+5,
+[]
+],
+[
+"Doña Blanca",
+5,
+[
+"Siria",
+"Síria"
+]
+],
+[
+"Durella",
+5,
+[]
+],
+[
+"Merlot blanc",
+5,
+[]
+],
+[
+"Bayan Shirey",
+5,
+[]
+],
+[
+"Timorasso",
+5,
+[]
+],
+[
+"Marechal Foch",
+5,
+[]
+],
+[
+"Zalema",
+5,
+[]
+],
+[
+"Frontenac",
+5,
+[
+"Frontenac grape",
+"Minnesota 1047",
+"MN 1047"
+]
+],
+[
+"Ives",
+5,
+[
+"Black Ives",
+"Bordô",
+"Ives grape",
+"Ives’ Madeira Seedling",
+"Ives noir",
+"Ives Noir",
+"Ives Noir grape",
+"Ives seedling",
+"Kittredge"
+]
+],
+[
+"Schioppettino",
+5,
+[]
+],
+[
+"Manseng Noir",
+5,
+[
+"Espadeiro Mole",
+"Manseng Noir grape"
+]
+],
+[
+"Bronner",
+5,
+[]
+],
+[
+"Malagousia",
+5,
+[
+"Malagouzia"
+]
+],
+[
+"Albalonga",
+5,
+[]
+],
+[
+"Alibernet",
+5,
+[
+"Odesa black",
+"Odessa black"
+]
+],
+[
+"Malvar",
+5,
+[]
+],
+[
+"Marquette",
+5,
+[
+"Minnesota 1211",
+"MN 1211"
+]
+],
+[
+"Madrasa",
+5,
+[]
+],
+[
+"Moscato Giallo",
+5,
+[
+"Yellow Muscat"
+]
+],
+[
+"Godello",
+5,
+[]
+],
+[
+"Petit Meslier",
+5,
+[]
+],
+[
+"Refosco dal Peduncolo Rosso",
+5,
+[]
+],
+[
+"Rufete",
+5,
+[]
+],
+[
+"Phoenix",
+5,
+[]
+],
+[
+"Susumaniello",
+5,
+[]
+],
+[
+"Merseguera",
+5,
+[]
+],
+[
+"Verdeca",
+5,
+[]
+],
+[
+"Areni Sev",
+5,
+[
+"Areni",
+"Areni Sev grape"
+]
+],
+[
+"Albarossa",
+5,
+[]
+],
+[
+"Caíño blanco",
+5,
+[]
+],
+[
+"Chinuri",
+5,
+[]
+],
+[
+"Ehrenfelser",
+5,
+[]
+],
+[
+"Schiava",
+5,
+[]
+],
+[
+"Ruby Cabernet",
+5,
+[]
+],
+[
+"Bouvier",
+5,
+[]
+],
+[
+"Cynthiana",
+5,
+[
+"Cynthiana grape",
+"Norton",
+"Norton grape"
+]
+],
+[
+"Lacrima",
+5,
+[]
+],
+[
+"Dunkelfelder",
+5,
+[]
+],
+[
+"Duras",
+5,
+[]
+],
+[
+"Mauzac",
+5,
+[]
+],
+[
+"Albarola",
+5,
+[]
+],
+[
+"Amigne",
+5,
+[]
+],
+[
+"Pelaverga",
+5,
+[]
+],
+[
+"Perricone",
+5,
+[]
+],
+[
+"Garanoir",
+5,
+[]
+],
+[
+"Valdiguié",
+5,
+[
+"Valdiguie"
+]
+],
+[
+"Boğazkere",
+5,
+[]
+],
+[
+"Pais",
+5,
+[]
+],
+[
+"Flame Seedless",
+5,
+[
+"F32-137"
+]
+],
+[
+"Mondeuse Noire",
+5,
+[]
+],
+[
+"Juhfark",
+5,
+[]
+],
+[
+"Aurore",
+5,
+[
+"Seibel 5279"
+]
+],
+[
+"Tamjanika",
+5,
+[]
+],
+[
+"Arrouya",
+5,
+[
+"Arrouya grape",
+"Arrouya Noir",
+"Arrouya Noir grape"
+]
+],
+[
+"Parraleta",
+5,
+[]
+],
+[
+"Léon Millot",
+5,
+[
+"Leon Millot"
+]
+],
+[
+"Kalecik Karası",
+5,
+[]
+],
+[
+"Caecuban wine",
+5,
+[]
+],
+[
+"Avana",
+5,
+[
+"Avanà",
+"Avana grape"
+]
+],
+[
+"Zéta",
+5,
+[
+"Zeta"
+]
+],
+[
+"callet",
+5,
+[]
+],
+[
+"Dinka",
+5,
+[
+"Kövidinka"
+]
+],
+[
+"Bical",
+5,
+[]
+],
+[
+"Perle",
+5,
+[]
+],
+[
+"Bondola",
+5,
+[]
+],
+[
+"Alvarelhão",
+5,
+[]
+],
+[
+"Ezerjó",
+5,
+[
+"Ezerjo"
+]
+],
+[
+"Cabernet Blanc",
+4,
+[]
+],
+[
+"Canadice",
+4,
+[
+"Canadice grape",
+"New York 45625"
+]
+],
+[
+"Coda di Volpe",
+4,
+[
+"Caprettone"
+]
+],
+[
+"Colorino",
+4,
+[]
+],
+[
+"Pione",
+4,
+[]
+],
+[
+"Criolla Grande",
+4,
+[]
+],
+[
+"Crouchen",
+4,
+[
+"Cape Riesling",
+"Clare Riesling"
+]
+],
+[
+"César",
+4,
+[
+"Cesar"
+]
+],
+[
+"Montonico Bianco",
+4,
+[
+"Montonico"
+]
+],
+[
+"Debina",
+4,
+[]
+],
+[
+"Dureza",
+4,
+[]
+],
+[
+"Smederevka",
+4,
+[
+"Dimyat"
+]
+],
+[
+"Jacquez",
+4,
+[
+"Jacquez grape"
+]
+],
+[
+"Argant",
+4,
+[
+"Argant grape",
+"Gaensfuesser Blau",
+"Gaensfuesser Blau grape"
+]
+],
+[
+"Téoulier",
+4,
+[
+"Teoulier"
+]
+],
+[
+"Grand Noir de la Calmette",
+4,
+[]
+],
+[
+"Beba",
+4,
+[
+"Eva Beba"
+]
+],
+[
+"Faberrebe",
+4,
+[]
+],
+[
+"Johanniter",
+4,
+[]
+],
+[
+"Terrano",
+4,
+[]
+],
+[
+"Alarije",
+4,
+[]
+],
+[
+"Freisamer",
+4,
+[]
+],
+[
+"Gouget noir",
+4,
+[]
+],
+[
+"Limnio",
+4,
+[]
+],
+[
+"Cornalin d'Aoste",
+4,
+[]
+],
+[
+"Antão Vaz",
+4,
+[]
+],
+[
+"Helfensteiner",
+4,
+[]
+],
+[
+"Humagne Blanche",
+4,
+[]
+],
+[
+"Huxelrebe",
+4,
+[]
+],
+[
+"Aubin blanc",
+4,
+[]
+],
+[
+"Romorantin",
+4,
+[]
+],
+[
+"Muscardin",
+4,
+[]
+],
+[
+"Çavuş",
+4,
+[
+"Chaouch Blanc",
+"Chaouch Blanc grape"
+]
+],
+[
+"Albaranzeuli Nero",
+4,
+[]
+],
+[
+"Muscat Bleu",
+4,
+[
+"Muscat Bleu grape"
+]
+],
+[
+"Tauberschwarz",
+4,
+[]
+],
+[
+"Muscat a Petits Grains Noirs",
+4,
+[
+"Muscat a Petits Grains Noirs grape"
+]
+],
+[
+"Sciascinoso",
+4,
+[]
+],
+[
+"Monica",
+4,
+[]
+],
+[
+"Campbell Early",
+4,
+[
+"Boscoso",
+"Campbell Early grape",
+"Campbell’s Early",
+"Early Campbell",
+"Island Belle"
+]
+],
+[
+"Liatiko",
+4,
+[]
+],
+[
+"Mtevandidi",
+4,
+[]
+],
+[
+"Madeleine Royale",
+4,
+[]
+],
+[
+"Malvasia Nera di Brindisi",
+4,
+[
+"Malvasia Nera di Brindisi grape"
+]
+],
+[
+"Merzling",
+4,
+[]
+],
+[
+"Picardan",
+4,
+[]
+],
+[
+"Beaunoir",
+4,
+[]
+],
+[
+"Orion",
+4,
+[
+"Orion grape"
+]
+],
+[
+"Tavkveri",
+4,
+[
+"Tavkveri grape"
+]
+],
+[
+"Pineau d'Aunis",
+4,
+[]
+],
+[
+"Rabigato",
+4,
+[]
+],
+[
+"Ramisco",
+4,
+[]
+],
+[
+"Muscat Rouge à Petits Grains",
+4,
+[
+"Brown Muscat",
+"Muscat Rouge a Petits Grains"
+]
+],
+[
+"Scuppernong",
+4,
+[]
+],
+[
+"Souvignier gris",
+4,
+[]
+],
+[
+"Tressot",
+4,
+[
+"Tressot noir"
+]
+],
+[
+"Triomphe d'Alsace",
+4,
+[
+"Triomphe",
+"Triomphe d'Alsace grape"
+]
+],
+[
+"Trousseau gris",
+4,
+[]
+],
+[
+"Villard blanc",
+4,
+[
+"Seyve Villard 12-375",
+"SV 12-375",
+"Villard blanc grape"
+]
+],
+[
+"Chasselas de Moissac",
+4,
+[]
+],
+[
+"Würzer",
+4,
+[]
+],
+[
+"Tămâioasă Românească",
+4,
+[]
+],
+[
+"Heroldrebe",
+4,
+[]
+],
+[
+"Busuioacă de Bohotin",
+4,
+[]
+],
+[
+"Moristel",
+4,
+[]
+],
+[
+"Nobling",
+4,
+[]
+],
+[
+"Aidini",
+4,
+[
+"Aedani"
+]
+],
+[
+"Alphonse-lavallée",
+4,
+[
+"Alphonse-lavallee",
+"Ribier"
+]
+],
+[
+"Ondenc",
+4,
+[]
+],
+[
+"Taburno Piedirosso Sannio DOC",
+4,
+[]
+],
+[
+"Agh Shani",
+4,
+[]
+],
+[
+"Peloursin",
+4,
+[]
+],
+[
+"Knipperlé",
+4,
+[
+"Knipperle"
+]
+],
+[
+"Negoska",
+4,
+[]
+],
+[
+"Vespaiola",
+4,
+[]
+],
+[
+"Fortana",
+4,
+[]
+],
+[
+"Pedral",
+4,
+[]
+],
+[
+"André",
+4,
+[]
+],
+[
+"Coronation",
+4,
+[
+"Coronation grape",
+"Sovereign Coronation",
+"Summerland 361"
+]
+],
+[
+"Magliocco Canino",
+4,
+[]
+],
+[
+"Manto negro",
+4,
+[]
+],
+[
+"Hondarribi Beltza",
+4,
+[]
+],
+[
+"Mammolo",
+4,
+[]
+],
+[
+"Mujuretuli",
+4,
+[
+"Keduretuli",
+"Mudshurestuli",
+"Mudzhuretuli"
+]
+],
+[
+"Arnsburger",
+4,
+[]
+],
+[
+"Arrufiac",
+4,
+[]
+],
+[
+"Plavay",
+4,
+[]
+],
+[
+"Aspiran Noir",
+4,
+[]
+],
+[
+"Siroka Melniska",
+4,
+[]
+],
+[
+"Nerello Cappuccio",
+4,
+[
+"Nerello Cappuccio grape"
+]
+],
+[
+"Usakhelauri",
+4,
+[]
+],
+[
+"Avesso",
+4,
+[]
+],
+[
+"Azal tinto",
+4,
+[]
+],
+[
+"Barbaroux",
+4,
+[
+"Barbarossa",
+"Barbaroux Rs"
+]
+],
+[
+"Cserszegi Fűszeres",
+4,
+[]
+],
+[
+"Schönburger",
+4,
+[]
+],
+[
+"Reichensteiner",
+4,
+[]
+],
+[
+"Goldriesling",
+4,
+[]
+],
+[
+"Bosco",
+4,
+[]
+],
+[
+"Grapput",
+4,
+[]
+],
+[
+"Kanzler",
+4,
+[]
+],
+[
+"Terret gris",
+4,
+[]
+],
+[
+"Brun Argenté",
+4,
+[
+"Brun Argente"
+]
+],
+[
+"Bukettraube",
+3,
+[]
+],
+[
+"Cabernet Dorio",
+3,
+[
+"Cabernet Dorio grape"
+]
+],
+[
+"Cabernet Jura",
+3,
+[]
+],
+[
+"Calitor",
+3,
+[]
+],
+[
+"Camaralet",
+3,
+[]
+],
+[
+"Drupeggio",
+3,
+[]
+],
+[
+"Carricante",
+3,
+[]
+],
+[
+"Karasakız",
+3,
+[]
+],
+[
+"Castets",
+3,
+[]
+],
+[
+"Catanese nero",
+3,
+[]
+],
+[
+"Chancellor",
+3,
+[
+"S 70-53",
+"Seibel 7053"
+]
+],
+[
+"Chasan",
+3,
+[]
+],
+[
+"Chelois",
+3,
+[
+"Seibel 10878"
+]
+],
+[
+"Chelva",
+3,
+[
+"Montúa"
+]
+],
+[
+"Zilga",
+3,
+[
+"Zilga grape"
+]
+],
+[
+"Kefessia",
+3,
+[]
+],
+[
+"Aurelius",
+3,
+[]
+],
+[
+"Nuragus",
+3,
+[
+"Nuragus grape"
+]
+],
+[
+"Clairette rose",
+3,
+[]
+],
+[
+"Niabell",
+3,
+[
+"California concord grapes"
+]
+],
+[
+"Clevner",
+3,
+[
+"Clevner grape",
+"Klevner"
+]
+],
+[
+"Cococciola",
+3,
+[]
+],
+[
+"Completer",
+3,
+[]
+],
+[
+"Damaschino",
+3,
+[
+"Damaschino grape"
+]
+],
+[
+"Dameron",
+3,
+[]
+],
+[
+"Cheshi",
+3,
+[]
+],
+[
+"Chechipeshi",
+3,
+[]
+],
+[
+"Cabernet Moravia",
+3,
+[]
+],
+[
+"Deckrot",
+3,
+[]
+],
+[
+"Ekim Kara",
+3,
+[]
+],
+[
+"Diamond",
+3,
+[]
+],
+[
+"Kokur Belyi",
+3,
+[
+"Kokur Belyi grape"
+]
+],
+[
+"Othello",
+3,
+[
+"Othello grape"
+]
+],
+[
+"Luglienga",
+3,
+[]
+],
+[
+"Rubin",
+3,
+[]
+],
+[
+"Rabo de Ovelha",
+3,
+[
+"Rabo de' Ovelha"
+]
+],
+[
+"Alicante Ganzin",
+3,
+[]
+],
+[
+"Pardillo",
+3,
+[]
+],
+[
+"Durize",
+3,
+[
+"Durize grape"
+]
+],
+[
+"Gamay Blanc Gloriod",
+3,
+[]
+],
+[
+"Peurion",
+3,
+[]
+],
+[
+"Kisi",
+3,
+[
+"Kisi grape"
+]
+],
+[
+"Muscaris grape",
+3,
+[]
+],
+[
+"Encruzado",
+3,
+[]
+],
+[
+"Tinta Carvalha",
+3,
+[]
+],
+[
+"Findling",
+3,
+[]
+],
+[
+"Canari noir",
+3,
+[]
+],
+[
+"Pascal blanc",
+3,
+[]
+],
+[
+"Franc Noir de la Haute-Saône",
+3,
+[
+"Franc Noir de la Haute-Saone"
+]
+],
+[
+"Malvasia di Candia Aromatica",
+3,
+[
+"Malvasia di Candia Aromatica grape"
+]
+],
+[
+"Malvasia di Casorzo",
+3,
+[]
+],
+[
+"Malingre Précoce",
+3,
+[
+"Malingre Precoce"
+]
+],
+[
+"Zarya Severa",
+3,
+[]
+],
+[
+"Garrido Fino",
+3,
+[]
+],
+[
+"Genovese",
+3,
+[
+"Genovese grape"
+]
+],
+[
+"Severny",
+3,
+[
+"Severnyi"
+]
+],
+[
+"Sciacarello",
+3,
+[]
+],
+[
+"Graisse",
+3,
+[
+"Blanquette",
+"Blanquette grise",
+"Cargo saoumo",
+"Cargo saumo",
+"Chalosse",
+"Cholosse",
+"Clairette egreneuse",
+"Clairette égreneuse",
+"Cotiblanc",
+"Cotilblanc",
+"Gras",
+"Gras blanc",
+"Grecho",
+"Gros blanc",
+"Jalosse",
+"Mendic",
+"Plant de graisse",
+"Plant de Grecho",
+"Plant de Mun",
+"President",
+"Président",
+"Ramassaou blanc",
+"Ramassou blanc",
+"Taloche",
+"Tizourine bou-aferara blanc",
+"Tizourine bou-afrara"
+]
+],
+[
+"Garnacha Roja",
+3,
+[
+"Garnacha Roja grape",
+"Garnatxa roja",
+"Grenache Gris"
+]
+],
+[
+"Selektion Oppenheim 4",
+3,
+[
+"Oppenheim #4",
+"Selektion Oppenheim 4 grape",
+"SO-4"
+]
+],
+[
+"Grk Bijeli",
+3,
+[]
+],
+[
+"Grolleau Gris",
+3,
+[]
+],
+[
+"Malvasia Bianca di Candia",
+3,
+[
+"Malvasia Bianca di Candia grape"
+]
+],
+[
+"Himrod",
+3,
+[
+"New York 15310"
+]
+],
+[
+"Baratuciat",
+3,
+[
+"Baratuciat grape"
+]
+],
+[
+"Terrantez",
+3,
+[]
+],
+[
+"Sacy",
+3,
+[]
+],
+[
+"Orléans",
+3,
+[
+"Orleans"
+]
+],
+[
+"Roussin de Morgex",
+3,
+[]
+],
+[
+"Traminette",
+3,
+[
+"New York 65.533.13"
+]
+],
+[
+"Arinarnoa",
+3,
+[]
+],
+[
+"Lauzet",
+3,
+[]
+],
+[
+"Forastera",
+3,
+[]
+],
+[
+"Vugava",
+3,
+[]
+],
+[
+"Béquignol noir",
+3,
+[
+"Bequignol Noir",
+"Bequignol Noir grape"
+]
+],
+[
+"Mornen noir",
+3,
+[]
+],
+[
+"Jurançon",
+3,
+[]
+],
+[
+"Vuillermin",
+3,
+[]
+],
+[
+"Kober 5 BB",
+3,
+[
+"Kober 5 BB grape"
+]
+],
+[
+"Maceratino",
+3,
+[
+"Ribona"
+]
+],
+[
+"Trebbiano di Soave",
+3,
+[]
+],
+[
+"Lumassina",
+3,
+[
+"Lumassina grape"
+]
+],
+[
+"Malbo Gentile",
+3,
+[
+"Malbo Gentile grape"
+]
+],
+[
+"Malvasia di Sardegna",
+3,
+[]
+],
+[
+"Mantonico bianco",
+3,
+[]
+],
+[
+"Mavrotragano",
+3,
+[]
+],
+[
+"Meslier-Saint-François",
+3,
+[]
+],
+[
+"Molette",
+3,
+[]
+],
+[
+"Muscat Rose à Petits Grains",
+3,
+[
+"Muscat Rose a Petits Grains"
+]
+],
+[
+"Mourisco tinto",
+3,
+[
+"Marufo",
+"Marufo grape",
+"Mourisco"
+]
+],
+[
+"Muscat fleur d’oranger",
+3,
+[
+"Muscat fleur d’oranger grape"
+]
+],
+[
+"Merille",
+3,
+[]
+],
+[
+"Ortrugo",
+3,
+[]
+],
+[
+"Rollo",
+3,
+[
+"Paga Debiti",
+"Pagadebiti",
+"Rollo grape",
+"Uva baresana"
+]
+],
+[
+"Persan",
+3,
+[]
+],
+[
+"Petit rouge",
+3,
+[]
+],
+[
+"Charas",
+3,
+[]
+],
+[
+"Pignolo",
+3,
+[]
+],
+[
+"Plantet",
+3,
+[
+"S-8357",
+"Seibel 5455"
+]
+],
+[
+"Roublot",
+3,
+[]
+],
+[
+"Royalty",
+3,
+[]
+],
+[
+"Saint-Pierre Doré",
+3,
+[
+"Saint-Pierre Dore"
+]
+],
+[
+"Sauvignon gris",
+3,
+[]
+],
+[
+"Ségalin",
+3,
+[
+"Segalin"
+]
+],
+[
+"St. Croix",
+3,
+[]
+],
+[
+"Tinta Francisca",
+3,
+[]
+],
+[
+"Tazzelenghe",
+3,
+[]
+],
+[
+"Garnacha Tinta",
+3,
+[
+"Cannonau",
+"Garnacha Tinta grape",
+"Tai rosso",
+"Tocai Rosso"
+]
+],
+[
+"Uva Rara",
+3,
+[]
+],
+[
+"Verdesse",
+3,
+[]
+],
+[
+"Villard Noir",
+3,
+[
+"Seyve-Villard 18-315",
+"S.V. 18-315"
+]
+],
+[
+"Viosinho",
+3,
+[]
+],
+[
+"Vital",
+3,
+[]
+],
+[
+"Dzhevat Kara",
+3,
+[]
+],
+[
+"Vien de Nus",
+3,
+[]
+],
+[
+"Servant",
+3,
+[]
+],
+[
+"Albaranzeuli Bianco",
+3,
+[]
+],
+[
+"Milgranet",
+3,
+[]
+],
+[
+"Asprinio bianco",
+3,
+[]
+],
+[
+"Chatus",
+3,
+[]
+],
+[
+"Rouge du Pays",
+3,
+[]
+],
+[
+"Etraire de la Dui",
+3,
+[
+"Beccu de l'Adui",
+"Beccu de l’Aduï",
+"Etraire",
+"Étraire",
+"Etraire de l'adny",
+"Étraire de l’Adny",
+"Etraire de la Dot",
+"Étraire de la Dot",
+"Etraire de la du",
+"Étraire de la Dû",
+"Etraire de l'adui",
+"Étraire de la Dui",
+"Étraire de l’Aduï",
+"Etraire de la duy",
+"Étraire de la Duy",
+"Gros persan",
+"Grosse Etraire",
+"Grosse Étraire"
+]
+],
+[
+"Gringet",
+3,
+[]
+],
+[
+"Piquepoul Noir",
+3,
+[
+"Picalpolho",
+"Pical Polho",
+"Piquepoul Noir grape"
+]
+],
+[
+"Pignoletto",
+3,
+[
+"Pignoletto grape"
+]
+],
+[
+"Rossignola",
+3,
+[]
+],
+[
+"Muscat Bailey A",
+3,
+[
+"Muscat Bailey A grape"
+]
+],
+[
+"Žlahtina",
+3,
+[]
+],
+[
+"Malverina",
+3,
+[]
+],
+[
+"Baboso negro",
+3,
+[]
+],
+[
+"Grecanico Dorato",
+3,
+[]
+],
+[
+"Traminer",
+3,
+[
+"Traminer grape"
+]
+],
+[
+"Cienna",
+3,
+[]
+],
+[
+"Mondeuse Blanche",
+3,
+[]
+],
+[
+"Tibouren",
+3,
+[
+"Tibouren grape"
+]
+],
+[
+"Tintilia",
+3,
+[]
+],
+[
+"Moscato di Scanzo",
+3,
+[]
+],
+[
+"Rossese nero",
+3,
+[
+"Rossese",
+"Rossese nero grape"
+]
+],
+[
+"Listan Prieto",
+3,
+[
+"Mission"
+]
+],
+[
+"Aramon Gris",
+3,
+[
+"Aramon Gris grape"
+]
+],
+[
+"Terret blanc",
+3,
+[]
+],
+[
+"Juan García",
+3,
+[
+"Juan Garcia"
+]
+],
+[
+"Arbois",
+3,
+[]
+],
+[
+"Kratošija",
+3,
+[
+"Kratosija"
+]
+],
+[
+"Cabernet Cubin",
+3,
+[]
+],
+[
+"Avarengo",
+3,
+[]
+],
+[
+"Diolinoir",
+3,
+[]
+],
+[
+"Papazkarası",
+3,
+[]
+],
+[
+"Arvesiniadu",
+3,
+[]
+],
+[
+"Chambourcin",
+3,
+[]
+],
+[
+"Girò di Cagliari DOC",
+3,
+[
+"Giro"
+]
+],
+[
+"Claverie",
+3,
+[]
+],
+[
+"Aubin vert",
+3,
+[]
+],
+[
+"Juwel",
+3,
+[]
+],
+[
+"Optima",
+3,
+[]
+],
+[
+"Dakapo",
+3,
+[
+"Dakapo grape"
+]
+],
+[
+"Vilana",
+3,
+[
+"Belana",
+"Velana"
+]
+],
+[
+"Bachet Noir",
+3,
+[]
+],
+[
+"Bianchello",
+3,
+[]
+],
+[
+"Bianchetta Genovese",
+3,
+[
+"Bianchetta Genovese grape",
+"Genovese grape"
+]
+],
+[
+"Bianchetta Trevigiana",
+3,
+[
+"Bianchetta Trevigiana grape",
+"Vernazzola"
+]
+],
+[
+"Biancolella",
+3,
+[]
+],
+[
+"Alcañón",
+3,
+[]
+],
+[
+"Ġellewża",
+3,
+[
+"Gelleuza"
+]
+],
+[
+"Corot noir",
+3,
+[]
+],
+[
+"Rotberger",
+3,
+[]
+],
+[
+"Ehrenbreitsteiner",
+3,
+[]
+],
+[
+"Affenthaler",
+3,
+[
+"Affenthaler grape",
+"Blauer Affenthaler",
+"Blauer Affenthaler grape"
+]
+],
+[
+"Wildbacher",
+3,
+[]
+],
+[
+"Bonamico",
+3,
+[
+"Bonamico grape"
+]
+],
+[
+"Borba Blanca",
+3,
+[]
+],
+[
+"Boskoop’s Glory",
+3,
+[
+"Boskoop Blue"
+]
+],
+[
+"fogoneu",
+3,
+[]
+],
+[
+"Braquet",
+3,
+[]
+],
+[
+"Malvasia di Schierano",
+3,
+[
+"Malvasia di Schierano grape"
+]
+],
+[
+"Regner",
+3,
+[]
+],
+[
+"Kernling",
+3,
+[
+"Kernling grape"
+]
+],
+[
+"Savagnin Rose",
+3,
+[]
+],
+[
+"Portan",
+3,
+[]
+],
+[
+"Brun Fourca",
+3,
+[]
+],
+[
+"Béclan",
+2,
+[
+"Beclan",
+"Béclan grape"
+]
+],
+[
+"Hegel",
+2,
+[
+"Hegel grape"
+]
+],
+[
+"Cabernet Carbon",
+2,
+[
+"Cabernet Carbon grape"
+]
+],
+[
+"Calitor Blanc",
+2,
+[
+"Calitor Blanc grape"
+]
+],
+[
+"Calitor Gris",
+2,
+[
+"Calitor Gris grape"
+]
+],
+[
+"Carcajolo Blanc",
+2,
+[
+"Carcajolo Blanc grape"
+]
+],
+[
+"Carcajolo Noir",
+2,
+[
+"Carcajolo Noir grape"
+]
+],
+[
+"Carignan Blanc",
+2,
+[]
+],
+[
+"Carminoir",
+2,
+[
+"Carminoir grape"
+]
+],
+[
+"Cascal",
+2,
+[
+"Cascal grape"
+]
+],
+[
+"Catarratto Bianco lucido",
+2,
+[]
+],
+[
+"Cayuga White",
+2,
+[]
+],
+[
+"Cesanese Comune",
+2,
+[]
+],
+[
+"Karalahna",
+2,
+[]
+],
+[
+"Chenel",
+2,
+[]
+],
+[
+"Arkadia",
+2,
+[
+"Arkadia grape"
+]
+],
+[
+"Mandó",
+2,
+[
+"Mandó grape"
+]
+],
+[
+"Sibirkovy",
+2,
+[]
+],
+[
+"Sary Pandas",
+2,
+[]
+],
+[
+"Mars grape",
+2,
+[
+"A 1508",
+"Ark. 1508",
+"Arkansas 1508",
+"Mars seedless grape"
+]
+],
+[
+"Amlakhu",
+2,
+[]
+],
+[
+"Colombana Nera",
+2,
+[
+"Colombana nera",
+"Colombana Nera grape"
+]
+],
+[
+"Colombaud",
+2,
+[
+"Colombaud du Var",
+"Colombaud grape"
+]
+],
+[
+"Goldburger",
+2,
+[]
+],
+[
+"Cornifesto",
+2,
+[]
+],
+[
+"Couderc noir",
+2,
+[]
+],
+[
+"Courbu Noir",
+2,
+[
+"Courbu Noir grape"
+]
+],
+[
+"Crovassa",
+2,
+[
+"Crovassa grape"
+]
+],
+[
+"Voltis",
+2,
+[]
+],
+[
+"Valiant",
+2,
+[
+"South Dakota 72S15"
+]
+],
+[
+"Mathiász Jánosné muskotály",
+2,
+[]
+],
+[
+"Chasselas Rose",
+2,
+[
+"Chasselas Rose grape"
+]
+],
+[
+"Medina",
+2,
+[]
+],
+[
+"De Chaunac",
+2,
+[
+"Seibel 9549"
+]
+],
+[
+"Hron",
+2,
+[
+"Hron grape"
+]
+],
+[
+"Mopr",
+2,
+[
+"Mopr grape"
+]
+],
+[
+"Teleki 5C",
+2,
+[
+"Berlandieri x Riparia T 5C",
+"Riparia X Berlandieri Teleki 5C",
+"T 5C",
+"Teleki 5C grape"
+]
+],
+[
+"Doce",
+2,
+[
+"Docal De Refoios",
+"Doçal de Refóios",
+"Doçal de Refóios grape",
+"Doce grape"
+]
+],
+[
+"Palatina",
+2,
+[
+"Palatina grape"
+]
+],
+[
+"Donzelinho branco",
+2,
+[]
+],
+[
+"Doral",
+2,
+[
+"Doral grape"
+]
+],
+[
+"Lambrusco a Foglia Frastagliata",
+2,
+[
+"Lambrusco a Foglia Frastagliata grape"
+]
+],
+[
+"Douce Noire grise",
+2,
+[]
+],
+[
+"Docal Tinto",
+2,
+[
+"Docal Tinto grape"
+]
+],
+[
+"Crljenak kaštelanski",
+2,
+[]
+],
+[
+"Pascale di Cagliari",
+2,
+[]
+],
+[
+"Rosette",
+2,
+[
+"Seibel 9549"
+]
+],
+[
+"Edelweiss",
+2,
+[]
+],
+[
+"Thrapsathiri",
+2,
+[]
+],
+[
+"Trebbiano Giallo",
+2,
+[
+"Trebbiano Giallo grape"
+]
+],
+[
+"Semebat",
+2,
+[
+"Semebat grape"
+]
+],
+[
+"Verdea",
+2,
+[]
+],
+[
+"Egiodola",
+2,
+[
+"Egiodola grape"
+]
+],
+[
+"Venus",
+2,
+[]
+],
+[
+"Muscat Queen of Vineyards",
+2,
+[
+"Koenigin der Weingaerten grape"
+]
+],
+[
+"Ekigaïna",
+2,
+[
+"Ekigaïna grape"
+]
+],
+[
+"Turan",
+2,
+[
+"Turán",
+"Turan grape"
+]
+],
+[
+"Elvira",
+2,
+[
+"Elvira grape"
+]
+],
+[
+"Emerald Riesling",
+2,
+[
+"Emerald Riesling grapes"
+]
+],
+[
+"Listán de Huelva",
+2,
+[
+"Listan de Huelva"
+]
+],
+[
+"Emperor",
+2,
+[]
+],
+[
+"Izsaki Sarfeher",
+2,
+[
+"Arany Sarfeher",
+"Izsaki Sarfeher grape"
+]
+],
+[
+"Martha",
+2,
+[]
+],
+[
+"Esganoso",
+2,
+[
+"Esganoso de Lima",
+"Esganoso grape"
+]
+],
+[
+"Monerac",
+2,
+[
+"Monerac grape"
+]
+],
+[
+"Crimson Seedless",
+2,
+[
+"C 102-26"
+]
+],
+[
+"Hibou Rouge",
+2,
+[
+"Eyholzer",
+"Hibou Rouge grape"
+]
+],
+[
+"Romeiko",
+2,
+[
+"Mavroromeiko"
+]
+],
+[
+"Fontanara",
+2,
+[
+"Fontanara grape"
+]
+],
+[
+"Favorita",
+2,
+[]
+],
+[
+"wine grape variety",
+2,
+[
+"wine grape",
+"wine-grape variety"
+]
+],
+[
+"Manzoni Bianco",
+2,
+[]
+],
+[
+"Silcher",
+2,
+[]
+],
+[
+"Flora",
+2,
+[]
+],
+[
+"Flot Rouge",
+2,
+[
+"Flot rouge",
+"Flot Rouge grape"
+]
+],
+[
+"Montils",
+2,
+[
+"Montils grape"
+]
+],
+[
+"Portugieser grau",
+2,
+[]
+],
+[
+"Rebo",
+2,
+[
+"Rebo grape"
+]
+],
+[
+"Negrara",
+2,
+[]
+],
+[
+"Gamay Teinturier Freaux",
+2,
+[
+"Gamay Freaux",
+"Gamay Teinturier Freaux grape"
+]
+],
+[
+"Gamay teinturier de Chaudenay",
+2,
+[]
+],
+[
+"Gamay Teinturier De Bouze",
+2,
+[]
+],
+[
+"Prunelard",
+2,
+[
+"Prunelard grape"
+]
+],
+[
+"Hoelder",
+2,
+[
+"Hoelder grape"
+]
+],
+[
+"Rèze",
+2,
+[
+"Reze"
+]
+],
+[
+"Malvasia del Lazio",
+2,
+[
+"Malvasia del Lazio grape"
+]
+],
+[
+"Oseleta",
+2,
+[
+"Oselina",
+"Useleta"
+]
+],
+[
+"Kay Gray",
+2,
+[
+"Elmer Swenson 1-63",
+"ES 1-63"
+]
+],
+[
+"Goron de Bovernier",
+2,
+[
+"Goron de Bovernier grape"
+]
+],
+[
+"Gramon",
+2,
+[
+"Gramon grape"
+]
+],
+[
+"Greco Bianco Di Novara",
+2,
+[
+"Greco Bianco Di Novara grape"
+]
+],
+[
+"Groppello Gentile",
+2,
+[
+"Groppello Gentile grape"
+]
+],
+[
+"Groppello di Mocasina",
+2,
+[
+"Groppello di Mocasina grape"
+]
+],
+[
+"Groppello Di Mocasina",
+2,
+[
+"Groppello Di Mocasina grape",
+"Groppello di Santo Stefano"
+]
+],
+[
+"Portugieser grün",
+2,
+[]
+],
+[
+"Guarnaccia",
+2,
+[
+"Guarnaccia grape"
+]
+],
+[
+"Albanella",
+2,
+[]
+],
+[
+"Vidadillo",
+2,
+[
+"Vidadillo de Almonacid",
+"Vidadillo grape"
+]
+],
+[
+"Vignoles",
+2,
+[]
+],
+[
+"Oeillade noire",
+2,
+[]
+],
+[
+"Helios",
+2,
+[
+"Helios grape"
+]
+],
+[
+"Honigler",
+2,
+[
+"Honigler grape"
+]
+],
+[
+"Jutrzenka",
+2,
+[
+"Jutrzenka grape"
+]
+],
+[
+"Nieddera",
+2,
+[]
+],
+[
+"Bashkirskii Rannii",
+2,
+[
+"Bashkirskii Rannii grape"
+]
+],
+[
+"In memory of Strelyaeva",
+2,
+[
+"In memory of Strelyaeva grape"
+]
+],
+[
+"Jaeger 70",
+2,
+[
+"Munson"
+]
+],
+[
+"Pinotin",
+2,
+[
+"Pinotin grape"
+]
+],
+[
+"Narince (grape)",
+2,
+[]
+],
+[
+"Herbert",
+2,
+[]
+],
+[
+"Lambrusco Grasparossa",
+2,
+[]
+],
+[
+"Bigolona",
+2,
+[]
+],
+[
+"Escanyavella",
+2,
+[]
+],
+[
+"Acitana",
+2,
+[]
+],
+[
+"Addoraca",
+2,
+[]
+],
+[
+"Aglianicone",
+2,
+[]
+],
+[
+"Alionza",
+2,
+[]
+],
+[
+"Barbera Sarda",
+2,
+[]
+],
+[
+"Bianco d'Alessano",
+2,
+[
+"Bianco d'Alessano grape"
+]
+],
+[
+"Joubertin",
+2,
+[]
+],
+[
+"L'Acadie blanc",
+2,
+[
+"Vineland 53261"
+]
+],
+[
+"Magliocco Dolce",
+2,
+[]
+],
+[
+"Piccola nera",
+2,
+[]
+],
+[
+"Rimava",
+2,
+[]
+],
+[
+"Valentino nero",
+2,
+[]
+],
+[
+"Vermentino nero",
+2,
+[]
+],
+[
+"Landot noir",
+2,
+[
+"Landot 4511"
+]
+],
+[
+"Catarratto Bianco comune",
+2,
+[]
+],
+[
+"Neyret",
+2,
+[]
+],
+[
+"Courbu Petit",
+2,
+[
+"Courbu Petit grape",
+"Petit Courbu"
+]
+],
+[
+"Magdeleine noire des Charentes",
+2,
+[
+"Magdeleine noire des Charentes grape"
+]
+],
+[
+"La Crescent",
+2,
+[
+"La Crescent grape"
+]
+],
+[
+"La Crosse",
+2,
+[]
+],
+[
+"Labrusco",
+2,
+[
+"Labrusco grape"
+]
+],
+[
+"Lambrusca di Alessandria",
+2,
+[
+"Lambrusca di Alessandria grape"
+]
+],
+[
+"Lambrusco Montericco",
+2,
+[
+"Lambrusco Montericco grape"
+]
+],
+[
+"Lambrusco Salamino",
+2,
+[]
+],
+[
+"Lambrusco Viadanese",
+2,
+[
+"Grappello Ruberti"
+]
+],
+[
+"Landal",
+2,
+[
+"Landal grape",
+"Landal noir",
+"Landot 244"
+]
+],
+[
+"Malvasia Dubrovacka",
+2,
+[
+"Malvasia Dubrovacka grape"
+]
+],
+[
+"Jurançon blanc",
+2,
+[]
+],
+[
+"Liliorila",
+2,
+[
+"Liliorila grape"
+]
+],
+[
+"Iza Zaliwska",
+2,
+[
+"Iza Zaliwska grape"
+]
+],
+[
+"Lucie Kuhlmann",
+2,
+[
+"Lucie Kuhlmann grape"
+]
+],
+[
+"Malvasia Bianca di Basilicata",
+2,
+[
+"Malvasia Bianca di Basilicata grape"
+]
+],
+[
+"Malvasia Nera di Basilicata",
+2,
+[
+"Malvasia Nera di Basilicata grape"
+]
+],
+[
+"Malvasia Nera di Lecce",
+2,
+[
+"Malvasia Nera di Lecce grape"
+]
+],
+[
+"Malvasia Di Sardegna Rosada",
+2,
+[
+"Malvasia Di Sardegna Rosada grape"
+]
+],
+[
+"Mariensteiner",
+2,
+[
+"Mariensteiner grape"
+]
+],
+[
+"Mauzac Rose",
+2,
+[
+"Mauzac Rose grape"
+]
+],
+[
+"Mayolet",
+2,
+[
+"Mayolet grape"
+]
+],
+[
+"Montù",
+2,
+[
+"Montu"
+]
+],
+[
+"Moreto",
+2,
+[]
+],
+[
+"Morrastel Bouschet",
+2,
+[]
+],
+[
+"Muscat Précoce de Saumur",
+2,
+[
+"Muscat Precoce de Saumur"
+]
+],
+[
+"Ner d'Ala",
+2,
+[
+"Ner d'Ala grape"
+]
+],
+[
+"Nocera",
+2,
+[]
+],
+[
+"Nascetta",
+2,
+[
+"Nascetta grape"
+]
+],
+[
+"Greco Nero",
+2,
+[
+"Greco Nero grape"
+]
+],
+[
+"Osteiner",
+2,
+[]
+],
+[
+"Moldova",
+2,
+[]
+],
+[
+"Balcic",
+2,
+[
+"Balcic grape"
+]
+],
+[
+"Pampanuto",
+2,
+[]
+],
+[
+"Goruli Mtsvane",
+2,
+[
+"Goruli Mtsvane grape"
+]
+],
+[
+"Perdea",
+2,
+[
+"Perdea grape"
+]
+],
+[
+"Piquepoul Blanc",
+2,
+[
+"Picapolla",
+"Picpouille",
+"Picpoul",
+"Picpoul blanc",
+"Piquepoul"
+]
+],
+[
+"Petit Bouschet",
+2,
+[]
+],
+[
+"Pinot Liébault",
+2,
+[
+"Pinot Liebault grape"
+]
+],
+[
+"Pollera nera",
+2,
+[]
+],
+[
+"Premetta",
+2,
+[
+"Premetta grape"
+]
+],
+[
+"Quagliano",
+2,
+[
+"Quagliano grape"
+]
+],
+[
+"Raboso veronese",
+2,
+[]
+],
+[
+"Raboso piave",
+2,
+[]
+],
+[
+"Raffiat de Moncade",
+2,
+[
+"Raffiat de Moncade grape"
+]
+],
+[
+"Retagliado bianco",
+2,
+[]
+],
+[
+"Roesler",
+2,
+[]
+],
+[
+"Lydia",
+2,
+[]
+],
+[
+"Portugieser Rot",
+2,
+[
+"Portugieser Rot grape"
+]
+],
+[
+"Roussin",
+2,
+[
+"Roussin grape"
+]
+],
+[
+"Rubinet",
+2,
+[
+"Rubinet grape"
+]
+],
+[
+"Räuschling",
+2,
+[]
+],
+[
+"Saperavi Severni",
+2,
+[
+"Saperawi Severni grape"
+]
+],
+[
+"Autumn Royal",
+2,
+[
+"Autumn Royal grape",
+"Autumn Royal Seedless"
+]
+],
+[
+"Oberlin noir",
+2,
+[]
+],
+[
+"Septimer",
+2,
+[
+"Septimer grape"
+]
+],
+[
+"Servanin",
+2,
+[]
+],
+[
+"Sirius",
+2,
+[
+"Sirius grape"
+]
+],
+[
+"St. Pepin",
+2,
+[
+"Elmer 282"
+]
+],
+[
+"Staufer",
+2,
+[]
+],
+[
+"Swenson Red",
+2,
+[
+"Elmer Swenson 439",
+"ES 439"
+]
+],
+[
+"Douradinha",
+2,
+[
+"Douradinha grape",
+"Talia"
+]
+],
+[
+"Tamarez",
+2,
+[]
+],
+[
+"Tarrango",
+2,
+[]
+],
+[
+"Teinturier",
+2,
+[
+"Teinturier du Cher",
+"Teinturier grape"
+]
+],
+[
+"Trebbiano Romagnolo",
+2,
+[]
+],
+[
+"Taminga",
+2,
+[]
+],
+[
+"Valvin muscat",
+2,
+[]
+],
+[
+"Krasnostop Zolotovsky",
+2,
+[]
+],
+[
+"Verdil",
+2,
+[
+"Verdil grape"
+]
+],
+[
+"Vitovska",
+2,
+[]
+],
+[
+"Nero",
+2,
+[
+"Néró",
+"Nero grape",
+"Néró grape"
+]
+],
+[
+"Soyaki",
+2,
+[
+"Soyaki grape"
+]
+],
+[
+"Parkent grape",
+2,
+[]
+],
+[
+"Skhilathubani",
+2,
+[]
+],
+[
+"Weldra",
+2,
+[]
+],
+[
+"Winchell",
+2,
+[
+"Winchell grape"
+]
+],
+[
+"Pölöskei Muskat",
+2,
+[
+"Poloskei Muskat",
+"Pölöskei Muskat grape"
+]
+],
+[
+"Albanello bianco",
+2,
+[]
+],
+[
+"Piquepoul gris",
+2,
+[
+"Piquepoul gris grape"
+]
+],
+[
+"Nasco",
+2,
+[]
+],
+[
+"Abondant",
+2,
+[
+"Abondant Blanc",
+"Abondant grape"
+]
+],
+[
+"Couderc 3309",
+2,
+[
+"Couderc 3309 grape"
+]
+],
+[
+"Dindarella",
+2,
+[
+"Dindarella grape",
+"Dindarella Rizza",
+"Dindarella Veronese"
+]
+],
+[
+"Fercal",
+2,
+[]
+],
+[
+"Magaracha Rannii",
+2,
+[
+"Magaracha Rannii grape"
+]
+],
+[
+"Pedro Giménez",
+2,
+[
+"Pedro Gimenez"
+]
+],
+[
+"Marechal Joffre",
+2,
+[]
+],
+[
+"Millardet et de Grasset 101-14",
+2,
+[
+"Millardet et de Grasset 101-14 grape"
+]
+],
+[
+"Neretto di Bairo",
+2,
+[
+"Neretto di Bairo grape"
+]
+],
+[
+"Plant Robert",
+2,
+[
+"Plant Robert grape"
+]
+],
+[
+"Plant de Brunel",
+2,
+[]
+],
+[
+"Richter 110",
+2,
+[
+"Richter 110 grape"
+]
+],
+[
+"Ruggeri 140",
+2,
+[
+"140 Ru",
+"Ruggeri 140 grape"
+]
+],
+[
+"Kodryanka",
+2,
+[]
+],
+[
+"Neronet",
+2,
+[
+"Neronet grape"
+]
+],
+[
+"Chenanson",
+2,
+[
+"Chenanson grape"
+]
+],
+[
+"Agadai",
+2,
+[
+"Agadai grape"
+]
+],
+[
+"Agawam",
+2,
+[
+"Agavam",
+"Agawam grape",
+"Rogers 15",
+"Rogers' Hybrid Nr. 15"
+]
+],
+[
+"Alexander",
+2,
+[
+"Tasker's Grape"
+]
+],
+[
+"Hebén",
+2,
+[
+"Gibi"
+]
+],
+[
+"Beta",
+2,
+[]
+],
+[
+"Cabernet Gernischt",
+2,
+[]
+],
+[
+"Torrontés Riojano",
+2,
+[
+"Torrontes Riojano"
+]
+],
+[
+"Gamay Beaujolais",
+2,
+[]
+],
+[
+"Cotton Candy",
+2,
+[
+"IFG 048-221",
+"IFG Seven"
+]
+],
+[
+"Reliance seedless",
+2,
+[
+"Ark. 1163",
+"Arkansas 1163",
+"Reliance pink seedless"
+]
+],
+[
+"Goethe",
+2,
+[
+"Goethe grape"
+]
+],
+[
+"Uva di Puglia PGI",
+2,
+[
+"Apulia grape",
+"Uva di Puglia IGP"
+]
+],
+[
+"Brancellao",
+2,
+[]
+],
+[
+"Derechero",
+2,
+[]
+],
+[
+"Prensal",
+2,
+[]
+],
+[
+"Ferrón",
+2,
+[]
+],
+[
+"Forcallat tinta",
+2,
+[]
+],
+[
+"Bouillet",
+2,
+[
+"Bouillet grape"
+]
+],
+[
+"Cabaret Noir",
+2,
+[]
+],
+[
+"Loureira Tinta",
+2,
+[]
+],
+[
+"Molinera",
+2,
+[
+"Red Malaga"
+]
+],
+[
+"Emir wine",
+2,
+[]
+],
+[
+"Vidiano",
+2,
+[]
+],
+[
+"Planta nova",
+2,
+[
+"Planta nova grape"
+]
+],
+[
+"Rome",
+2,
+[]
+],
+[
+"Ranfol",
+2,
+[]
+],
+[
+"Uva quebranta",
+2,
+[]
+],
+[
+"Vigiriega",
+2,
+[]
+],
+[
+"Jaén tinto",
+2,
+[
+"Jaen tinto"
+]
+],
+[
+"Obeidi",
+2,
+[
+"Obeidi grape"
+]
+],
+[
+"Aragnan blanc",
+2,
+[]
+],
+[
+"Aramon Blanc",
+2,
+[
+"Aramon Blanc grape"
+]
+],
+[
+"Aranel",
+2,
+[
+"Aranel grape"
+]
+],
+[
+"Melody",
+2,
+[]
+],
+[
+"Lagorthi",
+2,
+[]
+],
+[
+"Lakemont",
+2,
+[
+"New York 15305"
+]
+],
+[
+"Alyi Terskii",
+2,
+[
+"Alyi Terskii grape"
+]
+],
+[
+"Pannónia kincse",
+2,
+[
+"Pannonia kincse grape",
+"Pannónia kincse grape"
+]
+],
+[
+"Lameiro",
+2,
+[
+"Lameiro grape"
+]
+],
+[
+"Teleki 8 B",
+2,
+[]
+],
+[
+"Massasoit",
+2,
+[]
+],
+[
+"Minnesota 78",
+2,
+[]
+],
+[
+"Misket Cherven",
+2,
+[]
+],
+[
+"Mission",
+2,
+[]
+],
+[
+"Arriloba",
+2,
+[
+"Arriloba grape"
+]
+],
+[
+"Onaka",
+2,
+[]
+],
+[
+"Ganson",
+2,
+[]
+],
+[
+"Tempranillo blanco",
+2,
+[]
+],
+[
+"Montepila",
+2,
+[]
+],
+[
+"Azal branco",
+2,
+[]
+],
+[
+"Azal Branco",
+2,
+[
+"Azal",
+"Azal grape"
+]
+],
+[
+"Oesterreichisch Weiss",
+2,
+[
+"Oesterreichisch Weiss grape",
+"Österreichisch-Weiß"
+]
+],
+[
+"Baron",
+2,
+[
+"Baron grape"
+]
+],
+[
+"Barsaglina",
+2,
+[]
+],
+[
+"Batoca",
+2,
+[
+"Batoca grape"
+]
+],
+[
+"Bellone",
+2,
+[]
+],
+[
+"Budai zöld",
+2,
+[
+"Budai zold",
+"Budai zöld grape"
+]
+],
+[
+"Bíborkadarka",
+2,
+[
+"Biborkadarka",
+"Bíborkadarka grape"
+]
+],
+[
+"Biancone di Portoferraio",
+2,
+[]
+],
+[
+"Blanc Dame",
+2,
+[
+"Blanc Dame grape"
+]
+],
+[
+"Bonda",
+2,
+[]
+],
+[
+"Bouteillan Noir",
+2,
+[
+"Bouteillan noir",
+"Bouteillan Noir grape"
+]
+],
+[
+"Bovale Sardo",
+2,
+[
+"Bovale Sardo grape"
+]
+],
+[
+"Branco Escola",
+2,
+[
+"Branco-Escola",
+"Branco Escola grape",
+"Branco-Escola grape"
+]
+],
+[
+"Breidecker",
+2,
+[]
+],
+[
+"Chardonel",
+2,
+[]
+],
+[
+"Malvasia Istriana",
+2,
+[
+"Malvasia Istriana grape"
+]
+],
+[
+"Ribier",
+2,
+[
+"Ribier grape"
+]
+],
+[
+"Pizzutella",
+2,
+[]
+],
+[
+"Tilki Kuyrugu",
+2,
+[
+"Tilki Kuyrugu grape"
+]
+],
+[
+"Catalanesca bianca",
+2,
+[]
+],
+[
+"Generosa",
+1,
+[]
+],
+[
+"Caberinta",
+1,
+[
+"Caberinta grape"
+]
+],
+[
+"Cabernet Cantor",
+1,
+[
+"Cabernet Cantor grape"
+]
+],
+[
+"Cabernet Carol",
+1,
+[
+"Cabernet Carol grape"
+]
+],
+[
+"Caddiu",
+1,
+[
+"Caddiu grape"
+]
+],
+[
+"Calandro",
+1,
+[
+"Calandro grape"
+]
+],
+[
+"Caloria",
+1,
+[
+"Caloria grape"
+]
+],
+[
+"Camarate",
+1,
+[
+"Camarate grape"
+]
+],
+[
+"Canari",
+1,
+[
+"Canari grape"
+]
+],
+[
+"Canina Nera",
+1,
+[
+"Canina Nera grape"
+]
+],
+[
+"Hamvas",
+1,
+[
+"Hamvas grape"
+]
+],
+[
+"Carignan Gris",
+1,
+[
+"Carignan Gris grape"
+]
+],
+[
+"Carmine",
+1,
+[
+"Carmine grape"
+]
+],
+[
+"Carnelian",
+1,
+[
+"Carnelian grape"
+]
+],
+[
+"Calardis Musqué",
+1,
+[
+"Calardis Musqué grape"
+]
+],
+[
+"Cascade",
+1,
+[
+"Cascade grape",
+"Seibel 13053"
+]
+],
+[
+"Roupeiro",
+1,
+[]
+],
+[
+"Gamba di Pernice",
+1,
+[]
+],
+[
+"Castel 19637",
+1,
+[
+"Castel 19.637",
+"Castel 19637 grape"
+]
+],
+[
+"Centurian",
+1,
+[
+"Centurian grape"
+]
+],
+[
+"St. Vincent grape",
+1,
+[]
+],
+[
+"Cesanese",
+1,
+[
+"Cesanese grape"
+]
+],
+[
+"Cesanese d’Affile",
+1,
+[]
+],
+[
+"Blaue Zimmettraube",
+1,
+[
+"Blaue Zimmettraube grape",
+"Blaue Zimttraube",
+"Blaue Zimttraube grape"
+]
+],
+[
+"Charmont",
+1,
+[
+"Charmont grape"
+]
+],
+[
+"Sauvitage",
+1,
+[
+"Sauvitage grape"
+]
+],
+[
+"Agni",
+1,
+[
+"Agni grape"
+]
+],
+[
+"Amos",
+1,
+[
+"Amos grape"
+]
+],
+[
+"Ariana",
+1,
+[
+"Ariana grape"
+]
+],
+[
+"Aromína",
+1,
+[
+"Aromina",
+"Aromína grape"
+]
+],
+[
+"Frontenac blanc",
+1,
+[
+"Frontenac blanc grape"
+]
+],
+[
+"Ciclopica",
+1,
+[
+"Ciclopica grape"
+]
+],
+[
+"Malvasia bianca",
+1,
+[]
+],
+[
+"Spergola",
+1,
+[]
+],
+[
+"Clarin",
+1,
+[
+"Clarin grape"
+]
+],
+[
+"Jubileum 75",
+1,
+[]
+],
+[
+"Sissi",
+1,
+[
+"Sissi grape"
+]
+],
+[
+"St Leonard",
+1,
+[]
+],
+[
+"Codivarta",
+1,
+[
+"Codivarta grape"
+]
+],
+[
+"Colobel",
+1,
+[
+"Colobel grape",
+"Seibel 8357"
+]
+],
+[
+"Éva",
+1,
+[
+"Éva grape"
+]
+],
+[
+"Gamay Precoce Noir",
+1,
+[
+"Gamay Precoce Noir grape"
+]
+],
+[
+"Vernaccia di Oristano",
+1,
+[]
+],
+[
+"Kozma Pálné muskotály",
+1,
+[]
+],
+[
+"America",
+1,
+[
+"America grape"
+]
+],
+[
+"Aminia",
+1,
+[
+"Aminia grape",
+"Rogers 39"
+]
+],
+[
+"August Giant",
+1,
+[
+"August Giant grape"
+]
+],
+[
+"Barry",
+1,
+[
+"Barry Blau",
+"Barry grape",
+"Rogers 43"
+]
+],
+[
+"Bacchus Noir",
+1,
+[
+"Bacchus",
+"Bacchus Bidault",
+"Bacchus Noir grape"
+]
+],
+[
+"Berckmans",
+1,
+[
+"Berckmans grape"
+]
+],
+[
+"Black Eagle",
+1,
+[
+"Black Eagle grape",
+"Underhill 8-12"
+]
+],
+[
+"Brighton",
+1,
+[
+"Brighton grape"
+]
+],
+[
+"Brilliant",
+1,
+[
+"Brilliant grape"
+]
+],
+[
+"Canada",
+1,
+[
+"Canada grape"
+]
+],
+[
+"Carman",
+1,
+[
+"Carman grape"
+]
+],
+[
+"Champion",
+1,
+[
+"Champion grape"
+]
+],
+[
+"Colerain",
+1,
+[
+"Colerain grape"
+]
+],
+[
+"Cottage",
+1,
+[
+"Cottage grape"
+]
+],
+[
+"Creveling",
+1,
+[
+"Creveling grape"
+]
+],
+[
+"Croton",
+1,
+[
+"Croton grape"
+]
+],
+[
+"Diana",
+1,
+[
+"Charlotte",
+"Diana grape"
+]
+],
+[
+"Downing",
+1,
+[
+"Downing grape"
+]
+],
+[
+"Dracut Amber",
+1,
+[
+"Dracut Amber grape"
+]
+],
+[
+"Dutchess",
+1,
+[
+"Duchess",
+"Dutchess grape"
+]
+],
+[
+"Triumph",
+1,
+[
+"Campbell’s Seedling No. 6",
+"Triumph grape"
+]
+],
+[
+"Early Ohio",
+1,
+[
+"Early Ohio grape"
+]
+],
+[
+"Early Victor",
+1,
+[
+"Early Victor grape"
+]
+],
+[
+"Eaton",
+1,
+[
+"Concord 4N",
+"Eaton grape",
+"Eaton's Seedling",
+"King",
+"Wallis Giant"
+]
+],
+[
+"Eclipse",
+1,
+[
+"Eclipse grape",
+"Riehl 10",
+"RIEHL'S NEW EARLY GRAPE"
+]
+],
+[
+"Empire State",
+1,
+[
+"Empire State grape"
+]
+],
+[
+"Eumelan",
+1,
+[
+"Eumelan grape"
+]
+],
+[
+"Goff",
+1,
+[
+"Goff grape"
+]
+],
+[
+"Headlight",
+1,
+[
+"Headlight grape"
+]
+],
+[
+"Hercules",
+1,
+[
+"Hercules grape"
+]
+],
+[
+"Hidalgo",
+1,
+[
+"Hidalgo grape"
+]
+],
+[
+"Highland",
+1,
+[
+"Highland grape"
+]
+],
+[
+"Herbemont",
+1,
+[
+"Herbemont grape"
+]
+],
+[
+"Geneva",
+1,
+[
+"Geneva grape"
+]
+],
+[
+"Stephanie",
+1,
+[
+"Stephanie grape"
+]
+],
+[
+"Terez",
+1,
+[
+"Terez grape",
+"Theresa",
+"Theresa grape"
+]
+],
+[
+"Iona",
+1,
+[
+"Iona grape",
+"Jefferson",
+"Jefferson grape"
+]
+],
+[
+"Ironclad",
+1,
+[
+"Diogenes",
+"Ironclad grape"
+]
+],
+[
+"James",
+1,
+[
+"James grape"
+]
+],
+[
+"Janesville",
+1,
+[
+"Janesville grape"
+]
+],
+[
+"Jewel",
+1,
+[
+"Jewel grape",
+"Jewell"
+]
+],
+[
+"Kensington",
+1,
+[
+"Kensington grape"
+]
+],
+[
+"Lady",
+1,
+[
+"Lady grape"
+]
+],
+[
+"Lady Washington",
+1,
+[
+"Lady Washington grape"
+]
+],
+[
+"Lindley",
+1,
+[
+"Lindley grape"
+]
+],
+[
+"Lucile",
+1,
+[
+"Lucile grape",
+"Lucille"
+]
+],
+[
+"Lutie",
+1,
+[
+"Lutie grape"
+]
+],
+[
+"McPike",
+1,
+[
+"McPike grape"
+]
+],
+[
+"Manito",
+1,
+[
+"Manito grape"
+]
+],
+[
+"Marion",
+1,
+[
+"Marion grape",
+"Marion port"
+]
+],
+[
+"Merrimac",
+1,
+[
+"Merrimac grape",
+"Rogers 19"
+]
+],
+[
+"Mills",
+1,
+[
+"Mills grape"
+]
+],
+[
+"Missouri Riesling",
+1,
+[
+"Grein 1",
+"Missouri Riesling grape"
+]
+],
+[
+"Transparent",
+1,
+[
+"Transparent grape"
+]
+],
+[
+"Montefiore",
+1,
+[
+"Montefiore grape"
+]
+],
+[
+"Moore Early",
+1,
+[
+"Moore Early grape"
+]
+],
+[
+"Grein Golden",
+1,
+[
+"Grein Golden grape"
+]
+],
+[
+"Moyer",
+1,
+[
+"Moyer grape",
+"Moyer's Early Red"
+]
+],
+[
+"Nectar",
+1,
+[
+"Nectar grape"
+]
+],
+[
+"Muskattrollinger",
+1,
+[]
+],
+[
+"Pocklington",
+1,
+[
+"Pocklington grape"
+]
+],
+[
+"Red Eagle",
+1,
+[
+"Red Eagle grape"
+]
+],
+[
+"Rochester",
+1,
+[
+"Rochester grape"
+]
+],
+[
+"Rommel",
+1,
+[
+"Rommel grape"
+]
+],
+[
+"Salem",
+1,
+[
+"Salem grape",
+"Salem Rozovyi"
+]
+],
+[
+"Senasqua",
+1,
+[
+"Senasqua grape"
+]
+],
+[
+"Ulster",
+1,
+[
+"Ulster grape",
+"Ulster Prolific"
+]
+],
+[
+"Vergennes",
+1,
+[
+"Vergennes grape"
+]
+],
+[
+"Walter",
+1,
+[
+"Walter grape"
+]
+],
+[
+"Wilder",
+1,
+[
+"Wilder grape"
+]
+],
+[
+"Woodruff",
+1,
+[
+"Woodruff grape",
+"Woodruff red"
+]
+],
+[
+"Worden",
+1,
+[
+"Worden grape"
+]
+],
+[
+"Wilmington Red",
+1,
+[
+"Wilmington Red grape",
+"Wyoming",
+"Wyoming grape",
+"Wyoming Red"
+]
+],
+[
+"Autuchon",
+1,
+[
+"Autuchon grape"
+]
+],
+[
+"Trobat",
+1,
+[
+"Trobat grape"
+]
+],
+[
+"Breslava",
+1,
+[
+"Breslava grape"
+]
+],
+[
+"Criolla Chica",
+1,
+[]
+],
+[
+"Gascon",
+1,
+[
+"Gascon grape"
+]
+],
+[
+"Vijariego Blanco",
+1,
+[]
+],
+[
+"Albillo Mayor",
+1,
+[]
+],
+[
+"Benedicto",
+1,
+[]
+],
+[
+"Floréal",
+1,
+[]
+],
+[
+"Vidoc",
+1,
+[]
+],
+[
+"Artaban",
+1,
+[]
+],
+[
+"Fredonia",
+1,
+[
+"Island Belle"
+]
+],
+[
+"Tyrian",
+1,
+[]
+],
+[
+"Rubienne",
+1,
+[]
+],
+[
+"Fujiminori",
+1,
+[
+"Fujiminori (4N)",
+"Fujiminori grape"
+]
+],
+[
+"Danlas",
+1,
+[
+"Danlas grape"
+]
+],
+[
+"Takao (grape)",
+1,
+[]
+],
+[
+"Michurinskij",
+1,
+[
+"Michurinski"
+]
+],
+[
+"Frontenac Gris",
+1,
+[
+"Frontenac Gris grape",
+"Minnesota 1187"
+]
+],
+[
+"Cerason",
+1,
+[
+"Cerason grape"
+]
+],
+[
+"Diamant",
+1,
+[
+"Diamant grape"
+]
+],
+[
+"Dunaj",
+1,
+[
+"Dunaj grape"
+]
+],
+[
+"Delizia di Vaprio",
+1,
+[
+"Delizia di Vaprio grape"
+]
+],
+[
+"Děvín",
+1,
+[
+"Devin",
+"Devin grape",
+"Děvín grape"
+]
+],
+[
+"Fetească",
+1,
+[
+"Feteasca",
+"Fetească grape"
+]
+],
+[
+"Veltliner Rotweiss",
+1,
+[
+"Veltliner Rotweiss grape",
+"Veltlínské červenobílé grape"
+]
+],
+[
+"Erilon",
+1,
+[
+"Erilon grape"
+]
+],
+[
+"Veritas",
+1,
+[
+"Veritas grape"
+]
+],
+[
+"Vesna",
+1,
+[
+"Vesna grape"
+]
+],
+[
+"Vitra",
+1,
+[
+"Vitra grape"
+]
+],
+[
+"Vrboska",
+1,
+[
+"Vrboska grape"
+]
+],
+[
+"Váh",
+1,
+[
+"Váh grape"
+]
+],
+[
+"Floriánka",
+1,
+[
+"Floriánka grape"
+]
+],
+[
+"Fratava",
+1,
+[
+"Fratava grape"
+]
+],
+[
+"Hetera",
+1,
+[
+"Hetera grape"
+]
+],
+[
+"Hibia",
+1,
+[
+"Hibia grape"
+]
+],
+[
+"Julski biser",
+1,
+[
+"Julski biser grape"
+]
+],
+[
+"Kamenoruzak Bily",
+1,
+[
+"Kamenoruzak Bily grape"
+]
+],
+[
+"Kofranka",
+1,
+[
+"Kofranka grape"
+]
+],
+[
+"LE-K/1",
+1,
+[
+"LE-K/1 grape"
+]
+],
+[
+"Laurot",
+1,
+[
+"Laurot grape"
+]
+],
+[
+"Lena",
+1,
+[
+"Lena grape"
+]
+],
+[
+"Marlen",
+1,
+[
+"Marlen grape"
+]
+],
+[
+"Milia",
+1,
+[
+"Milia grape"
+]
+],
+[
+"Modrý Janek",
+1,
+[
+"Modrý Janek grape"
+]
+],
+[
+"Nativa",
+1,
+[]
+],
+[
+"Nitranka",
+1,
+[
+"Nitranka grape"
+]
+],
+[
+"Noria",
+1,
+[
+"Noria grape"
+]
+],
+[
+"Olšava",
+1,
+[
+"Olšava grape"
+]
+],
+[
+"Pola",
+1,
+[
+"Pola grape"
+]
+],
+[
+"Rinot",
+1,
+[
+"Rinot grape"
+]
+],
+[
+"Rosa",
+1,
+[
+"Rosa grape"
+]
+],
+[
+"Rubín",
+1,
+[
+"Rubín grape"
+]
+],
+[
+"Rudava",
+1,
+[
+"Rudava grape"
+]
+],
+[
+"Savilon",
+1,
+[
+"Savilon grape"
+]
+],
+[
+"Sevar",
+1,
+[
+"Sevar grape"
+]
+],
+[
+"Silvaner Rot",
+1,
+[
+"Silvaner Rot grape"
+]
+],
+[
+"Torysa",
+1,
+[
+"Torysa grape"
+]
+],
+[
+"Montua",
+1,
+[
+"Diagalves",
+"Diagalves grape",
+"Montua grape"
+]
+],
+[
+"Kozanitis",
+1,
+[
+"Kozanitis grape"
+]
+],
+[
+"Kolokitas Avgulatos",
+1,
+[]
+],
+[
+"Brestovitsa",
+1,
+[]
+],
+[
+"Buket",
+1,
+[]
+],
+[
+"Droujba",
+1,
+[]
+],
+[
+"Varna Muscat",
+1,
+[
+"Muscat of Varna grape",
+"Varna Muscat grape"
+]
+],
+[
+"Pecsi Szagos",
+1,
+[]
+],
+[
+"Misket Kailashki",
+1,
+[]
+],
+[
+"Misket Plevenski",
+1,
+[]
+],
+[
+"Misket Trakiyski",
+1,
+[]
+],
+[
+"Michele Palieri",
+1,
+[]
+],
+[
+"Pleven",
+1,
+[]
+],
+[
+"Ruby Seedless",
+1,
+[]
+],
+[
+"Ruen",
+1,
+[]
+],
+[
+"Rusalka",
+1,
+[]
+],
+[
+"Septemvriyski Rubin",
+1,
+[]
+],
+[
+"Sideboard",
+1,
+[
+"Sideboard grape"
+]
+],
+[
+"Storgoziya",
+1,
+[]
+],
+[
+"Sungurlarski Biser",
+1,
+[]
+],
+[
+"Super Ran Bolgar",
+1,
+[]
+],
+[
+"Trakiyska Slava",
+1,
+[]
+],
+[
+"Hebros",
+1,
+[]
+],
+[
+"Chavush",
+1,
+[]
+],
+[
+"Cherna Perla",
+1,
+[]
+],
+[
+"Cherna Rezekie",
+1,
+[]
+],
+[
+"Chernomorski Briyant",
+1,
+[]
+],
+[
+"Chernomorski Eliksir",
+1,
+[]
+],
+[
+"Shasla Misketova",
+1,
+[]
+],
+[
+"Sevka",
+1,
+[]
+],
+[
+"Ruling",
+1,
+[
+"Ruling grape"
+]
+],
+[
+"Geisenheim 318-57",
+1,
+[]
+],
+[
+"Cabernet Eidos",
+1,
+[]
+],
+[
+"Cabernet volos",
+1,
+[]
+],
+[
+"piros bakator",
+1,
+[]
+],
+[
+"Lambrusco Maestri",
+1,
+[]
+],
+[
+"Kraljevina",
+1,
+[]
+],
+[
+"shavkapito",
+1,
+[]
+],
+[
+"Purcsin",
+1,
+[]
+],
+[
+"Donzelinho Tinto",
+1,
+[
+"Donzelinho Tinto grape",
+"Donzellinho do Castello"
+]
+],
+[
+"Joannes Seyve 23416",
+1,
+[
+"Joannès-Seyve 23-416",
+"Joannes Seyve 23416 grape",
+"Joannès-Seyve 23-416 grape"
+]
+],
+[
+"Feteasca Regala",
+1,
+[
+"Fetească Muskatnaia",
+"Feteasca Regala grape"
+]
+],
+[
+"August Getsh",
+1,
+[
+"Getsh"
+]
+],
+[
+"Docais",
+1,
+[
+"Docais grape"
+]
+],
+[
+"Trebbiano toscano",
+1,
+[]
+],
+[
+"Cetinka",
+1,
+[]
+],
+[
+"Codreanca",
+1,
+[
+"Codreanca grape",
+"Kodrianka",
+"Kodrjanka",
+"Kodryanka",
+"Kodryanka grape"
+]
+],
+[
+"Crimposie",
+1,
+[
+"Crimposie grape"
+]
+],
+[
+"Privlačka bilina",
+1,
+[
+"bilina"
+]
+],
+[
+"Francuse",
+1,
+[
+"Francuse grape"
+]
+],
+[
+"Galbena de Odobesti",
+1,
+[
+"Galbena de Odobesti grape"
+]
+],
+[
+"Iordan",
+1,
+[
+"Baldoaie",
+"Baldoale",
+"Baldouie",
+"Iordan Alb",
+"Iordan Ananas",
+"Iordan grape",
+"Iordana"
+]
+],
+[
+"Slankamenka Bela",
+1,
+[
+"Majarca Alba",
+"Slankamenka Bela grape"
+]
+],
+[
+"Victoria",
+1,
+[
+"Victoria grape"
+]
+],
+[
+"Sarba",
+1,
+[
+"Sarba grape"
+]
+],
+[
+"Feunate",
+1,
+[
+"Feunate grape"
+]
+],
+[
+"Early Muscat",
+1,
+[
+"Early Muscat grape"
+]
+],
+[
+"Casarsa",
+1,
+[
+"Cazarsa"
+]
+],
+[
+"Klarnica",
+1,
+[]
+],
+[
+"Pinela",
+1,
+[]
+],
+[
+"Zelen",
+1,
+[
+"Zelen grape"
+]
+],
+[
+"Smarnica",
+1,
+[
+"Smarnica grape",
+"Šmarnica grape"
+]
+],
+[
+"Buvaki",
+1,
+[]
+],
+[
+"Daroyi",
+1,
+[
+"doroyi"
+]
+],
+[
+"Marble grape",
+1,
+[]
+],
+[
+"Musallas",
+1,
+[]
+],
+[
+"Vir",
+1,
+[]
+],
+[
+"Arengh",
+1,
+[]
+],
+[
+"Barmet",
+1,
+[]
+],
+[
+"Crovin",
+1,
+[]
+],
+[
+"Drezza",
+1,
+[]
+],
+[
+"Merlic",
+1,
+[]
+],
+[
+"Morasca",
+1,
+[]
+],
+[
+"Ne ross",
+1,
+[]
+],
+[
+"Palù",
+1,
+[]
+],
+[
+"Perine",
+1,
+[]
+],
+[
+"Retico",
+1,
+[]
+],
+[
+"Rubel",
+1,
+[]
+],
+[
+"Hadisi",
+1,
+[]
+],
+[
+"admirable de Courtiller",
+1,
+[]
+],
+[
+"Sarfeher",
+1,
+[
+"Sarfeher grape"
+]
+],
+[
+"Semidano",
+1,
+[
+"Semidano grape"
+]
+],
+[
+"Casavecchia (vitigno)",
+1,
+[]
+],
+[
+"abondance",
+1,
+[]
+],
+[
+"Neron",
+1,
+[]
+],
+[
+"Lival",
+1,
+[
+"Lival grape"
+]
+],
+[
+"Galanth",
+1,
+[]
+],
+[
+"Agudelo",
+1,
+[]
+],
+[
+"Castañal",
+1,
+[]
+],
+[
+"Beglaris Yurdzeni",
+1,
+[]
+],
+[
+"Baghis Yurdzeni",
+1,
+[]
+],
+[
+"Dedatyurdzeni",
+1,
+[]
+],
+[
+"Vardisperi Yurdzeni",
+1,
+[]
+],
+[
+"Lekuri Yurdzeni",
+1,
+[]
+],
+[
+"Mkvivi Yurdzeni",
+1,
+[]
+],
+[
+"Kakhis Yurdzeni",
+1,
+[]
+],
+[
+"Tkbili Yurdzeni",
+1,
+[]
+],
+[
+"Shavi Yurdzeni",
+1,
+[]
+],
+[
+"Thita Rachuli",
+1,
+[]
+],
+[
+"Tsalenjikhis Tetri",
+1,
+[]
+],
+[
+"Tsitsiliani Kapistoni",
+1,
+[]
+],
+[
+"Black rose",
+1,
+[]
+],
+[
+"Rubired",
+1,
+[]
+],
+[
+"Thita Kakhuri",
+1,
+[]
+],
+[
+"Thita Kartluri",
+1,
+[]
+],
+[
+"Kapistoni Tsitsiliani",
+1,
+[]
+],
+[
+"Bermestia Bianca",
+1,
+[]
+],
+[
+"Esgana Cao",
+1,
+[
+"Esgana Cao grape"
+]
+],
+[
+"Ribol",
+1,
+[
+"Ribol grape"
+]
+],
+[
+"Saphira",
+1,
+[
+"Saphira grape"
+]
+],
+[
+"Moschomavro",
+1,
+[]
+],
+[
+"Galotta",
+1,
+[]
+],
+[
+"Bargène",
+1,
+[]
+],
+[
+"Calardis Soleil",
+1,
+[]
+],
+[
+"Calardis Royal",
+1,
+[]
+],
+[
+"Fanny",
+1,
+[
+"Fanny grape"
+]
+],
+[
+"Shishveli",
+1,
+[]
+],
+[
+"Moscato Di Terracina",
+1,
+[]
+],
+[
+"Rossara",
+1,
+[]
+],
+[
+"Cabertin",
+1,
+[]
+],
+[
+"Pavana",
+1,
+[]
+],
+[
+"Pinella",
+1,
+[]
+],
+[
+"Felicia",
+1,
+[
+"Felicia grape"
+]
+],
+[
+"Monarch",
+1,
+[
+"Monarch grape"
+]
+],
+[
+"Natela",
+1,
+[]
+],
+[
+"Chuberi",
+1,
+[]
+],
+[
+"Mereshnik",
+1,
+[]
+],
+[
+"Prairie Star",
+1,
+[
+"Elmer Swenson 3-24-7",
+"ES 3-24-7"
+]
+],
+[
+"Florental",
+1,
+[
+"Florental grape"
+]
+],
+[
+"Cornacchia",
+1,
+[
+"Cornacchia grape",
+"Fintendo",
+"Fintendo grape"
+]
+],
+[
+"Terzi 1",
+1,
+[
+"Terzi 1 grape"
+]
+],
+[
+"Garonnet",
+1,
+[
+"Garonnet grape"
+]
+],
+[
+"Preto Martinho",
+1,
+[
+"Preto Martinho grape"
+]
+],
+[
+"Reberger",
+1,
+[
+"Reberger grape"
+]
+],
+[
+"Folignan",
+1,
+[
+"Folignan grape"
+]
+],
+[
+"Formosa",
+1,
+[
+"Formosa grape"
+]
+],
+[
+"Piquepoul Bouschet",
+1,
+[
+"Piquepoul Bouschet grape"
+]
+],
+[
+"Zala gyöngye",
+1,
+[]
+],
+[
+"Happenbach",
+1,
+[
+"Happenbach grape"
+]
+],
+[
+"Sabrevois",
+1,
+[
+"Elmer Swenson 2-1-9",
+"ES 2-1-9"
+]
+],
+[
+"Louise Swenson",
+1,
+[
+"Elmer Swenson 4-8-33",
+"ES 4-8-33",
+"Louise Swenson grape"
+]
+],
+[
+"Millardet et Grasset 420 A",
+1,
+[
+"Millardet et Grasset 420 A grape"
+]
+],
+[
+"Garantos",
+1,
+[
+"Garantos grape"
+]
+],
+[
+"Gelbhoelzer Blau",
+1,
+[
+"Gelbhoelzer Blau grape"
+]
+],
+[
+"Kiliansrebe",
+1,
+[
+"Kilianer Blau",
+"Kiliansrebe grape"
+]
+],
+[
+"Ignea",
+1,
+[]
+],
+[
+"Pepella",
+1,
+[]
+],
+[
+"Groppello",
+1,
+[
+"Groppello Bianco",
+"Groppello grape"
+]
+],
+[
+"Gros Cabernet",
+1,
+[
+"Gros Cabernet grape"
+]
+],
+[
+"Prinzipal",
+1,
+[
+"Prinzipal grape"
+]
+],
+[
+"Witberger",
+1,
+[
+"Witberger grape"
+]
+],
+[
+"Barthainer Gruen",
+1,
+[
+"Barthainer Gruen grape",
+"Gruner Barthainer"
+]
+],
+[
+"Millardet et Grasset 143 A",
+1,
+[
+"Millardet et Grasset 143 A grape"
+]
+],
+[
+"Börner",
+1,
+[]
+],
+[
+"Cina",
+1,
+[
+"Cina grape"
+]
+],
+[
+"Corvinone Veronese",
+1,
+[
+"Corvinone Veronese grape"
+]
+],
+[
+"Couderc 161-49",
+1,
+[
+"Couderc 161-49 grape"
+]
+],
+[
+"Geisenheim 26",
+1,
+[
+"Geisenheim 26 grape"
+]
+],
+[
+"Oraniensteiner",
+1,
+[
+"Oraniensteiner grape"
+]
+],
+[
+"Ingram’s Muscat",
+1,
+[
+"Ingram’s Muscat grape"
+]
+],
+[
+"Côdega do Larinho",
+1,
+[
+"Codega do Larinho",
+"Côdega do Larinho grape"
+]
+],
+[
+"Síria",
+1,
+[
+"Siria",
+"Siria grape",
+"Síria grape"
+]
+],
+[
+"Black Queen",
+1,
+[]
+],
+[
+"Himbertscha",
+1,
+[
+"Himbertscha grape"
+]
+],
+[
+"Lafnetscha",
+1,
+[
+"Lafnetscha grape"
+]
+],
+[
+"Jupiter grape",
+1,
+[
+"Arkansas 1985"
+]
+],
+[
+"Barbera del Sannio",
+1,
+[]
+],
+[
+"Giacchè",
+1,
+[
+"Giacche",
+"Giacche grape",
+"Giacchè grape"
+]
+],
+[
+"Impero",
+1,
+[
+"Impero grape"
+]
+],
+[
+"Impigno",
+1,
+[
+"Impigno grape"
+]
+],
+[
+"Divico",
+1,
+[
+"Divico grape"
+]
+],
+[
+"Aleksandr",
+1,
+[
+"Aleksandr grape"
+]
+],
+[
+"Yubileinyi",
+1,
+[
+"Yubileinyi grape"
+]
+],
+[
+"Sauvin",
+1,
+[
+"Sauvin grape"
+]
+],
+[
+"Mireille",
+1,
+[]
+],
+[
+"Mollard",
+1,
+[
+"Mollard grape"
+]
+],
+[
+"Ora",
+1,
+[
+"Ora grape"
+]
+],
+[
+"Perlette",
+1,
+[
+"Perlette grape"
+]
+],
+[
+"Perlona",
+1,
+[
+"Perlona grape"
+]
+],
+[
+"Jampal",
+1,
+[
+"Jampal grape"
+]
+],
+[
+"Trebbiano Spoletino",
+1,
+[
+"Trebbiano Spoletino grape"
+]
+],
+[
+"St. Georgen",
+1,
+[
+"Saint Georgen",
+"St. Georgen grape"
+]
+],
+[
+"Pinot de juillet",
+1,
+[
+"Pinot de juillet grape"
+]
+],
+[
+"Dingač",
+1,
+[]
+],
+[
+"Blatterle",
+1,
+[]
+],
+[
+"Barbarossa",
+1,
+[]
+],
+[
+"Camaraou noir",
+1,
+[]
+],
+[
+"Lagarino bianco",
+1,
+[]
+],
+[
+"Mavroudi Arachovis",
+1,
+[
+"Mavroudi Arachovis grape"
+]
+],
+[
+"Bia blanc",
+1,
+[]
+],
+[
+"San Giuseppe nero",
+1,
+[]
+],
+[
+"Arilla",
+1,
+[]
+],
+[
+"Balzac blanc",
+1,
+[]
+],
+[
+"Barbera bianca",
+1,
+[]
+],
+[
+"Bariadorgia",
+1,
+[]
+],
+[
+"Besgano bianco",
+1,
+[]
+],
+[
+"Bracciola nera",
+1,
+[]
+],
+[
+"Brugnola",
+1,
+[]
+],
+[
+"Brustiano bianco",
+1,
+[]
+],
+[
+"Caprettone",
+1,
+[]
+],
+[
+"Cascarolo bianco",
+1,
+[]
+],
+[
+"Champanel",
+1,
+[]
+],
+[
+"Coda di Pecora",
+1,
+[]
+],
+[
+"Cygne blanc",
+1,
+[]
+],
+[
+"Subereux",
+1,
+[
+"Seibel 6905",
+"Subereux grape"
+]
+],
+[
+"Jubiläumsrebe",
+1,
+[
+"Jubilaumsrebe",
+"Jubiläumsrebe grape"
+]
+],
+[
+"Ederena",
+1,
+[]
+],
+[
+"Enfariné noir",
+1,
+[]
+],
+[
+"Giró blanc",
+1,
+[]
+],
+[
+"Grisa nera",
+1,
+[]
+],
+[
+"Gueuche noir",
+1,
+[]
+],
+[
+"Marzemina bianca",
+1,
+[]
+],
+[
+"Mauzac noir",
+1,
+[]
+],
+[
+"Minella bianca",
+1,
+[]
+],
+[
+"Pallagrello bianco",
+1,
+[]
+],
+[
+"Pallagrello nero",
+1,
+[]
+],
+[
+"Plassa",
+1,
+[]
+],
+[
+"Ravat blanc",
+1,
+[
+"Ravat blanc grape"
+]
+],
+[
+"Rossese bianco",
+1,
+[]
+],
+[
+"Rossola nera",
+1,
+[]
+],
+[
+"Rossolino nero",
+1,
+[]
+],
+[
+"Rovello bianco",
+1,
+[]
+],
+[
+"Seyval noir",
+1,
+[
+"Seyval noir grape"
+]
+],
+[
+"Termarina rossa",
+1,
+[]
+],
+[
+"Trevisana nera",
+1,
+[]
+],
+[
+"Uva Tosca",
+1,
+[]
+],
+[
+"Uvalino",
+1,
+[]
+],
+[
+"Vega",
+1,
+[]
+],
+[
+"Verdello",
+1,
+[]
+],
+[
+"Noiret",
+1,
+[
+"Noiret grape"
+]
+],
+[
+"Ontario",
+1,
+[
+"New York 95",
+"Ontario grape"
+]
+],
+[
+"Mancin",
+1,
+[
+"Mancin grape"
+]
+],
+[
+"Laska",
+1,
+[
+"Laska grape"
+]
+],
+[
+"Karabraimis",
+1,
+[
+"Karabraimis grape"
+]
+],
+[
+"Tsvetochnyi",
+1,
+[
+"Blütenmuskateller",
+"Tsvetochnyi grape"
+]
+],
+[
+"Donauriesling",
+1,
+[
+"Donauriesling grape"
+]
+],
+[
+"Steuben",
+1,
+[
+"Steuben  grape"
+]
+],
+[
+"Manteudo",
+1,
+[
+"Manteudo grape"
+]
+],
+[
+"Aglianico del Vulture",
+1,
+[]
+],
+[
+"Kolor",
+1,
+[]
+],
+[
+"Krassato",
+1,
+[
+"Krassato grape"
+]
+],
+[
+"Esther",
+1,
+[
+"Esther grape",
+"Konigliche Esther",
+"Königliche Esther"
+]
+],
+[
+"Lambrusco Marani",
+1,
+[]
+],
+[
+"Lilla",
+1,
+[
+"Lilla grape"
+]
+],
+[
+"Limniona",
+1,
+[
+"Limniona grape"
+]
+],
+[
+"Blanc du Bois",
+1,
+[
+"Florida H 18-37"
+]
+],
+[
+"Bubbierasco",
+1,
+[]
+],
+[
+"Riesling Rot",
+1,
+[
+"Riesling Rot grape",
+"Roter Riesling"
+]
+],
+[
+"Neo Muscat",
+1,
+[]
+],
+[
+"Kreaca",
+1,
+[
+"Creata de Banat",
+"Creață de Banat",
+"Kreaca grape"
+]
+],
+[
+"Reselle",
+1,
+[
+"Réselle",
+"Reselle grape"
+]
+],
+[
+"Malian",
+1,
+[
+"Malian grape"
+]
+],
+[
+"Marengo",
+1,
+[
+"Marengo grape"
+]
+],
+[
+"Marsigliana Nera",
+1,
+[
+"Marsigliana Nera grape"
+]
+],
+[
+"Maticha",
+1,
+[
+"Maticha grape"
+]
+],
+[
+"Mueller Thurgau Rot",
+1,
+[
+"Mueller Thurgau Rot grape"
+]
+],
+[
+"Monemvassia",
+1,
+[
+"Monemvassia grape"
+]
+],
+[
+"Allobrogicum",
+1,
+[]
+],
+[
+"Orangetraube",
+1,
+[
+"Orangetraube grape"
+]
+],
+[
+"Osella",
+1,
+[
+"Osella grape"
+]
+],
+[
+"Borosica",
+1,
+[
+"Borosica grape"
+]
+],
+[
+"Boscanata",
+1,
+[
+"Boscanata grape"
+]
+],
+[
+"Fetita",
+1,
+[
+"Fetita grape"
+]
+],
+[
+"Firtigaia",
+1,
+[
+"Firtigaia grape"
+]
+],
+[
+"Scuturatoare",
+1,
+[
+"Scuturatoare grape"
+]
+],
+[
+"Focsaneanca",
+1,
+[
+"Focsaneanca grape"
+]
+],
+[
+"Frumoasa Albe",
+1,
+[
+"Frumoasa Alba",
+"Frumoasa Albe grape",
+"XI-56-43"
+]
+],
+[
+"Balaban Alb",
+1,
+[
+"Balaban Alb grape"
+]
+],
+[
+"Balaban Roz",
+1,
+[
+"Balaban Roz grape"
+]
+],
+[
+"Basicata",
+1,
+[
+"Alb",
+"Basicata grape"
+]
+],
+[
+"Mustoasa de Maderat",
+1,
+[
+"Mustoasa de Maderat grape"
+]
+],
+[
+"Cruciulita",
+1,
+[
+"Cruciulita grape",
+"Galbena verde"
+]
+],
+[
+"Plop",
+1,
+[
+"Plop grape"
+]
+],
+[
+"Poama boiereasca",
+1,
+[
+"Poama boiereasca grape"
+]
+],
+[
+"Poama moale",
+1,
+[
+"Poama moale grape"
+]
+],
+[
+"Neagra",
+1,
+[
+"Neagra grape"
+]
+],
+[
+"Neagra batuta mustoasa",
+1,
+[
+"Neagra batuta mustoasa grape"
+]
+],
+[
+"Negru boia",
+1,
+[
+"Negru boia grape"
+]
+],
+[
+"Negru lung",
+1,
+[
+"Negru lung grape"
+]
+],
+[
+"Lisztes Feher",
+1,
+[
+"Lisztes Feher grape",
+"Slavita"
+]
+],
+[
+"Grabitoare",
+1,
+[
+"Grabitoare grape"
+]
+],
+[
+"Alb mare",
+1,
+[
+"Alb mare grape"
+]
+],
+[
+"Berbecel",
+1,
+[
+"Alb mic",
+"Berbecel grape"
+]
+],
+[
+"Alb Rotund",
+1,
+[
+"Alb Rotund grape"
+]
+],
+[
+"Albisoara",
+1,
+[]
+],
+[
+"Albut marunt",
+1,
+[]
+],
+[
+"Alba mustoasa",
+1,
+[]
+],
+[
+"Alba verde",
+1,
+[
+"Alba verde grape"
+]
+],
+[
+"Alba zaharoasa",
+1,
+[]
+],
+[
+"Alunica",
+1,
+[]
+],
+[
+"Cetatuia",
+1,
+[
+"Cetatuia grape"
+]
+],
+[
+"Chasselas de Baneasa",
+1,
+[
+"Chasselas de Baneasa grape"
+]
+],
+[
+"Chiparati",
+1,
+[
+"Chiparati grape"
+]
+],
+[
+"Cimighiera",
+1,
+[
+"Cimighiera grape"
+]
+],
+[
+"Pasaresc",
+1,
+[
+"Pasaresc grape"
+]
+],
+[
+"Argessis",
+1,
+[
+"Argessis grape"
+]
+],
+[
+"Dodrelyabi",
+1,
+[
+"Dodrelyabi grape",
+"Ochiul boului"
+]
+],
+[
+"Coada groasa",
+1,
+[
+"Coada groasa grape"
+]
+],
+[
+"Coarna Neagra",
+1,
+[
+"Coarna Neagra grape"
+]
+],
+[
+"Coarna Neagra Aromata",
+1,
+[
+"Coarna Neagra Aromata grape"
+]
+],
+[
+"Coarna Neagra Selectionata",
+1,
+[
+"Coarna Neagra Selectionata grape"
+]
+],
+[
+"Augusta",
+1,
+[
+"Augusta grape"
+]
+],
+[
+"Auriu De Stefanesti",
+1,
+[
+"Auriu De Stefanesti grape"
+]
+],
+[
+"Azur",
+1,
+[
+"Azur grape"
+]
+],
+[
+"Talisman",
+1,
+[
+"Kesha 1",
+"Talisman grape",
+"Talizman"
+]
+],
+[
+"Bambal",
+1,
+[
+"Bambal grape"
+]
+],
+[
+"Corbeasca",
+1,
+[
+"Corbeasca grape"
+]
+],
+[
+"Tigvoasa",
+1,
+[
+"Tigvoasa grape"
+]
+],
+[
+"Craita",
+1,
+[
+"Craita grape"
+]
+],
+[
+"Tamaioara",
+1,
+[
+"Tamaioara grape"
+]
+],
+[
+"Tamaioasa buna",
+1,
+[
+"Tamaioasa buna grape"
+]
+],
+[
+"Tamaioasa caineasca",
+1,
+[
+"Tamaioasa caineasca grape"
+]
+],
+[
+"Diminichiu alb",
+1,
+[
+"Diminichiu alb grape"
+]
+],
+[
+"Diminichiu roz",
+1,
+[
+"Diminichiu roz grape"
+]
+],
+[
+"Epuroaica",
+1,
+[
+"Epuroaica grape"
+]
+],
+[
+"Palas",
+1,
+[
+"Palas grape"
+]
+],
+[
+"Pardina",
+1,
+[
+"Pardina grape"
+]
+],
+[
+"Loureira tinta",
+1,
+[]
+],
+[
+"Branco Lexítimo",
+1,
+[]
+],
+[
+"Gyoengyrizling",
+1,
+[
+"Gyoengyrizling grape",
+"Perlriesling"
+]
+],
+[
+"Grando",
+1,
+[
+"Grando grape"
+]
+],
+[
+"Bourgogne Gros",
+1,
+[
+"Bourgogne Gros grape",
+"Planscher"
+]
+],
+[
+"Primera",
+1,
+[
+"Primera grape"
+]
+],
+[
+"Primus",
+1,
+[]
+],
+[
+"Prior",
+1,
+[
+"Prior grape"
+]
+],
+[
+"Rathay",
+1,
+[
+"Rathay grape"
+]
+],
+[
+"Rayon d’Or",
+1,
+[
+"Rayon d’Or grape",
+"Seibel 4986"
+]
+],
+[
+"Rieslina",
+1,
+[
+"Rieslina grape"
+]
+],
+[
+"Albana Bianca",
+1,
+[
+"Albana Bianca grape",
+"Riminese"
+]
+],
+[
+"Roi des Noirs",
+1,
+[
+"Roi des Noirs grape",
+"Seibel 4643"
+]
+],
+[
+"Roobernet",
+1,
+[
+"Roobernet grape"
+]
+],
+[
+"Elbling Rot",
+1,
+[
+"Elbling Rot grape",
+"Roter Elbling"
+]
+],
+[
+"Urban Rot",
+1,
+[
+"Urban Rot grape"
+]
+],
+[
+"Rougeon",
+1,
+[
+"Rougeon grape",
+"Seibel 5898"
+]
+],
+[
+"Roussette d’Ayze",
+1,
+[
+"Roussette d’Ayze grape"
+]
+],
+[
+"Saorin",
+1,
+[
+"Saorin grape"
+]
+],
+[
+"Seinoir",
+1,
+[
+"Seibel 8745",
+"Seinoir grape"
+]
+],
+[
+"Malvasia",
+1,
+[
+"Malvasia grape"
+]
+],
+[
+"Select",
+1,
+[
+"Select grape"
+]
+],
+[
+"Shalistin",
+1,
+[
+"Shalistin grape"
+]
+],
+[
+"Csoka Szoeloe",
+1,
+[
+"Csoka Szoeloe grape"
+]
+],
+[
+"St. Vincent",
+1,
+[
+"St. Vincent grape"
+]
+],
+[
+"Symphony",
+1,
+[
+"California S15-58",
+"Davis S15-58",
+"Symphony grape"
+]
+],
+[
+"Vie grasa",
+1,
+[
+"Vie grasa grape"
+]
+],
+[
+"Coarna Rosie",
+1,
+[
+"Coarna Rosie grape",
+"Tata Pisicei"
+]
+],
+[
+"Tata oii",
+1,
+[
+"Tata oii grape"
+]
+],
+[
+"Tata iepurelui",
+1,
+[]
+],
+[
+"Tiganca",
+1,
+[]
+],
+[
+"Albinos",
+1,
+[
+"Albinos grape"
+]
+],
+[
+"Gelu",
+1,
+[
+"Gelu grape"
+]
+],
+[
+"Crimposie Selectionata",
+1,
+[
+"Cramposie Selectionata",
+"Crimposie Selectionata grape"
+]
+],
+[
+"Doux d’Henri",
+1,
+[
+"Doux d’Henri grape",
+"Doux d'Henry"
+]
+],
+[
+"Therona",
+1,
+[
+"Therona grape"
+]
+],
+[
+"Torrontes Sanjuanino",
+1,
+[
+"Torrontes Sanjuanino grape"
+]
+],
+[
+"Verdelet",
+1,
+[
+"Seibel 9110",
+"Verdelet grape"
+]
+],
+[
+"Vertzami",
+1,
+[
+"Vertzami grape"
+]
+],
+[
+"Villaris",
+1,
+[
+"Villaris grape"
+]
+],
+[
+"Vlachiko",
+1,
+[]
+],
+[
+"Alpha",
+1,
+[
+"Alpha grape"
+]
+],
+[
+"Taiga",
+1,
+[]
+],
+[
+"Rizamat",
+1,
+[]
+],
+[
+"Ichkimar",
+1,
+[
+"Echkiemar",
+"Ichkimar grape",
+"Ickimar",
+"Itchkimar",
+"Itshkimar",
+"Kishmishi"
+]
+],
+[
+"Wildmuskat",
+1,
+[]
+],
+[
+"Mohrenkonigin",
+1,
+[
+"Mohrenkonigin grape"
+]
+],
+[
+"Alden",
+1,
+[
+"Alden grape",
+"New York 13035"
+]
+],
+[
+"Sirame",
+1,
+[
+"Salomé",
+"Sirame grape"
+]
+],
+[
+"Donauveltliner",
+1,
+[
+"Donauveltliner grape",
+"Klbg. 1979"
+]
+],
+[
+"Pinot nova",
+1,
+[
+"Pinot nova grape"
+]
+],
+[
+"Mourvaison",
+1,
+[
+"Mourvaison grape"
+]
+],
+[
+"Ganzin 1",
+1,
+[
+"A × R 1",
+"ARG-1"
+]
+],
+[
+"Azal rouge",
+1,
+[
+"Azal rouge grape"
+]
+],
+[
+"Bequignol Blanc",
+1,
+[
+"Bequignol Blanc grape"
+]
+],
+[
+"Bequignol Gris",
+1,
+[
+"Bequignol Gris grape"
+]
+],
+[
+"Cividin Bianco",
+1,
+[
+"Cividin Bianco grape",
+"Cividino",
+"Cividino Bianco del Friuli"
+]
+],
+[
+"Doukkali",
+1,
+[
+"Doukkali grape"
+]
+],
+[
+"Esganinho",
+1,
+[
+"Esganinho grape"
+]
+],
+[
+"Bastardo Magarachskii",
+1,
+[
+"Bastardo Magarachskii grape"
+]
+],
+[
+"Tsimlyanskii Chernyi",
+1,
+[
+"Tsimlyanskii Chernyi grape"
+]
+],
+[
+"Gamay del Trasimeno",
+1,
+[]
+],
+[
+"Grolleau Blanc",
+1,
+[
+"Grolleau Blanc grape"
+]
+],
+[
+"Hibou Blanc",
+1,
+[
+"Hibou",
+"Hibou Blanc grape",
+"Hibou Blanc Hivernais"
+]
+],
+[
+"Nero buono di Cori",
+1,
+[]
+],
+[
+"Malvasia Fina",
+1,
+[
+"Malvasia Fina grape"
+]
+],
+[
+"Malvasia Fina Roxa",
+1,
+[
+"Malvasia Fina Roxa grape"
+]
+],
+[
+"Vanessa",
+1,
+[
+"Vanessa grape",
+"Vanessa Seedless",
+"Vineland 65164"
+]
+],
+[
+"Moscato di Terracina",
+1,
+[]
+],
+[
+"Riesel",
+1,
+[
+"Riesel grape"
+]
+],
+[
+"Pinello",
+1,
+[
+"Pinello grape"
+]
+],
+[
+"Mennas",
+1,
+[
+"Mennas grape"
+]
+],
+[
+"Millardet et de Grasset 41 B",
+1,
+[]
+],
+[
+"Morillon",
+1,
+[
+"Morillon grape"
+]
+],
+[
+"Negrara trentina",
+1,
+[
+"Negrara trentina grape"
+]
+],
+[
+"Nerettia cuneese",
+1,
+[
+"Nerettia cuneese grape"
+]
+],
+[
+"Nielluccio",
+1,
+[]
+],
+[
+"Uva Longanesi",
+1,
+[
+"Uva Longanesi grape"
+]
+],
+[
+"Pinard",
+1,
+[
+"Pinard grape"
+]
+],
+[
+"Riparia Gloire de Montpellier",
+1,
+[]
+],
+[
+"Rouge de Diolly",
+1,
+[
+"Rouge de Diolly grape"
+]
+],
+[
+"Cabernet Pfeffer",
+1,
+[
+"Cabernet Pfeffer grape"
+]
+],
+[
+"Saint Macaire",
+1,
+[
+"Saint Macaire grape"
+]
+],
+[
+"Sgavetta",
+1,
+[
+"Sgavetta grape"
+]
+],
+[
+"Sao Mamede",
+1,
+[
+"Sao Mamede grape"
+]
+],
+[
+"Vandal Cliche",
+1,
+[
+"Vandal Cliche grape"
+]
+],
+[
+"Verdelho rouge",
+1,
+[
+"Verdelho rouge grape"
+]
+],
+[
+"Ekigaina",
+1,
+[
+"Ekigaina grape"
+]
+],
+[
+"Etoile I",
+1,
+[
+"Étoile I",
+"Etoile I grape",
+"Étoile I grape"
+]
+],
+[
+"Etoile II",
+1,
+[
+"Etoile II grape"
+]
+],
+[
+"Alicante",
+1,
+[]
+],
+[
+"Boschera",
+1,
+[]
+],
+[
+"Cacchione",
+1,
+[]
+],
+[
+"Centesimino",
+1,
+[]
+],
+[
+"Fogarina",
+1,
+[]
+],
+[
+"Prunent",
+1,
+[]
+],
+[
+"Agianniotiko",
+1,
+[
+"Agianniotiko grape"
+]
+],
+[
+"Tai",
+1,
+[]
+],
+[
+"Aidani Mavro",
+1,
+[
+"Aidani Mavro grape"
+]
+],
+[
+"Agat Donskoi",
+1,
+[
+"Agat Donskoi grape"
+]
+],
+[
+"Narma",
+1,
+[]
+],
+[
+"Adakarası",
+1,
+[]
+],
+[
+"Almeria",
+1,
+[]
+],
+[
+"Marawi",
+1,
+[]
+],
+[
+"Calardis blanc",
+1,
+[]
+],
+[
+"Prunesta",
+1,
+[]
+],
+[
+"Garró",
+1,
+[]
+],
+[
+"Taferielt",
+1,
+[]
+],
+[
+"Brustiano faux",
+1,
+[]
+],
+[
+"Burger",
+1,
+[]
+],
+[
+"Calabrese Montenuovo",
+1,
+[]
+],
+[
+"Cassady",
+1,
+[]
+],
+[
+"Complexa",
+1,
+[]
+],
+[
+"Criolla",
+1,
+[]
+],
+[
+"Drnekuša",
+1,
+[]
+],
+[
+"Vernaccia Nera",
+1,
+[]
+],
+[
+"Sabro",
+1,
+[]
+],
+[
+"Green Hungarian",
+1,
+[]
+],
+[
+"Nero Cappuccio",
+1,
+[
+"Cappuccio Nero"
+]
+],
+[
+"Gros Verdot",
+1,
+[]
+],
+[
+"Gutenborner",
+1,
+[]
+],
+[
+"Incrocio Bruni 54",
+1,
+[]
+],
+[
+"Garofanata",
+1,
+[]
+],
+[
+"Albarín blanco",
+1,
+[]
+],
+[
+"Albarín negro",
+1,
+[]
+],
+[
+"Bermejuela",
+1,
+[]
+],
+[
+"Blanca de Monterrei",
+1,
+[]
+],
+[
+"Breval",
+1,
+[]
+],
+[
+"Carrasquín",
+1,
+[]
+],
+[
+"Gran negro",
+1,
+[]
+],
+[
+"Lado",
+1,
+[]
+],
+[
+"Maturana blanca",
+1,
+[
+"Maturano",
+"Ribadavia"
+]
+],
+[
+"Moravia agria",
+1,
+[]
+],
+[
+"Moravia dulce",
+1,
+[]
+],
+[
+"Rosina",
+1,
+[
+"Rosina grape"
+]
+],
+[
+"Perruno",
+1,
+[]
+],
+[
+"Padeiro",
+1,
+[]
+],
+[
+"Robal",
+1,
+[]
+],
+[
+"Ohanes grape",
+1,
+[]
+],
+[
+"Trousseau",
+1,
+[]
+],
+[
+"Aramon du Gard",
+1,
+[
+"Aramon du Gard grape",
+"Seibel 2007"
+]
+],
+[
+"Kabar",
+1,
+[]
+],
+[
+"Trnjak",
+1,
+[]
+],
+[
+"Somerset Seedless",
+1,
+[
+"Elmer Swenson 5-3-64",
+"ES 5-3-64"
+]
+],
+[
+"Siranush",
+1,
+[]
+],
+[
+"Arevshat",
+1,
+[]
+],
+[
+"Tsulukidzis Tetra",
+1,
+[
+"Rachuli Tetra",
+"Rachuli Tetra grape",
+"Tsulukidzis Tetra grape"
+]
+],
+[
+"Satin Noir",
+1,
+[
+"VB 91-26-29"
+]
+],
+[
+"Aris",
+1,
+[
+"Aris grape"
+]
+],
+[
+"Magarach Ruby",
+1,
+[]
+],
+[
+"Mureto",
+1,
+[]
+],
+[
+"Requa",
+1,
+[
+"Rogers No. 28"
+]
+],
+[
+"Aspiran Bouschet",
+1,
+[
+"Aspiran Bouschet grape"
+]
+],
+[
+"Assario Branco",
+1,
+[
+"Assario Branco grape"
+]
+],
+[
+"Sjriak",
+1,
+[]
+],
+[
+"Susac Crni",
+1,
+[]
+],
+[
+"Anita",
+1,
+[]
+],
+[
+"Tinta Miuda",
+1,
+[]
+],
+[
+"Babeasca Grise",
+1,
+[
+"Babeasca Grise grape"
+]
+],
+[
+"Barbera Bianca",
+1,
+[
+"Barbera Bianca grape"
+]
+],
+[
+"Batiki",
+1,
+[
+"Batiki grape"
+]
+],
+[
+"Bekari",
+1,
+[
+"Bekari grape"
+]
+],
+[
+"Bellandais",
+1,
+[
+"Bellandais grape",
+"Seibel 14596"
+]
+],
+[
+"Cr 2",
+1,
+[
+"Cr 2 grape"
+]
+],
+[
+"Bervedino",
+1,
+[
+"Bervedino grape"
+]
+],
+[
+"Boglárka",
+1,
+[
+"Boglarka",
+"Boglárka grape",
+"Buttercup"
+]
+],
+[
+"Bia Blanc",
+1,
+[
+"Bia Blanc grape"
+]
+],
+[
+"Biancone",
+1,
+[
+"Biancone grape"
+]
+],
+[
+"Biancu Gentile",
+1,
+[
+"Biancu Gentile grape"
+]
+],
+[
+"Bicane",
+1,
+[]
+],
+[
+"Doradilla",
+1,
+[]
+],
+[
+"Sumoll Blanc",
+1,
+[]
+],
+[
+"Cegléd szépe",
+1,
+[]
+],
+[
+"Birstaler Muskat",
+1,
+[
+"Birstaler Muskat grape"
+]
+],
+[
+"Campi Flegrei Piedirosso",
+1,
+[]
+],
+[
+"Blauer Arbst",
+1,
+[
+"Blauer Arbst grape"
+]
+],
+[
+"Silvaner Blau",
+1,
+[
+"Blauer Silvaner grape",
+"Silvaner Blau grape"
+]
+],
+[
+"Blauer Urban",
+1,
+[
+"Blauer Urban grape"
+]
+],
+[
+"Bluebell",
+1,
+[
+"Minnesota 158"
+]
+],
+[
+"Bonarda di Gattinara",
+1,
+[
+"Bonarda di Gattinara grape"
+]
+],
+[
+"Bovale Grande",
+1,
+[
+"Bovale Grande grape"
+]
+],
+[
+"Bracciola Nera",
+1,
+[
+"Bracciola Nera grape"
+]
+],
+[
+"Bric",
+1,
+[
+"Bric grape"
+]
+],
+[
+"Schuyler",
+1,
+[]
+],
+[
+"Adelfraenkisch",
+1,
+[
+"Adelfraenkisch grape"
+]
+],
+[
+"Gruenfraenkisch",
+1,
+[
+"Gruenfraenkisch grape"
+]
+],
+[
+"Coarnă albă aromată",
+1,
+[]
+],
+[
+"Neretta cuneese",
+1,
+[]
+],
+[
+"Pagadebit",
+1,
+[
+"Pagadebit grape"
+]
+],
+[
+"Ezerfürtű",
+1,
+[]
+],
+[
+"Fehér gohér",
+1,
+[
+"Fehér gohér grape"
+]
+],
+[
+"Brianna",
+0,
+[]
+],
+[
+"Gamay Teinturier Desbaillet-Garnier",
+0,
+[]
+],
+[
+"Gamay Tokay",
+0,
+[]
+],
+[
+"Gamay Veyrat",
+0,
+[]
+],
+[
+"Gamba Rossa",
+0,
+[]
+],
+[
+"Gamiau Blanc",
+0,
+[]
+],
+[
+"Gamiau Noir",
+0,
+[]
+],
+[
+"Gamokvanili",
+0,
+[]
+],
+[
+"Jaén-Moscatel",
+0,
+[
+"Bi19",
+"GEN16"
+]
+],
+[
+"Hartford",
+0,
+[
+"Hartford Prolific",
+"Magliasina",
+"Steele’s Seedling"
+]
+],
+[
+"Belvidere",
+0,
+[]
+],
+[
+"Suffolk Red",
+0,
+[
+"New York 21-572"
+]
+],
+[
+"Arkansas selection 1339",
+0,
+[
+"Ark. 1339",
+"Arkansas 1339"
+]
+],
+[
+"Centennial seedless",
+0,
+[
+"Centennial"
+]
+],
+[
+"Centennial",
+0,
+[
+"Knight’s centennial"
+]
+],
+[
+"Seibel 405",
+0,
+[]
+],
+[
+"Seibel 5410",
+0,
+[]
+],
+[
+"Seibel 8365",
+0,
+[]
+],
+[
+"Seibel 29",
+0,
+[]
+],
+[
+"Ravat noir",
+0,
+[
+"Ravat 262"
+]
+],
+[
+"Mandan",
+0,
+[]
+],
+[
+"Minnesota 1016",
+0,
+[]
+],
+[
+"Seibel 867",
+0,
+[]
+],
+[
+"Minnesota 1094",
+0,
+[]
+],
+[
+"Minnesota 1019",
+0,
+[
+"MN 1019"
+]
+],
+[
+"Osceola Muscat",
+0,
+[
+"ES 8-2-43"
+]
+],
+[
+"Ouliven",
+0,
+[]
+],
+[
+"Varousset",
+0,
+[
+"Seyve-Villard 23-657",
+"SV 23657"
+]
+],
+[
+"Cabernet Labrusco",
+0,
+[]
+],
+[
+"Danugue",
+0,
+[
+"Cape Barbarossa",
+"Danugue noir",
+"Gros Guillaume"
+]
+],
+[
+"Seibel 3015",
+0,
+[]
+],
+[
+"Seibel 2510",
+0,
+[]
+],
+[
+"Seibel 2718",
+0,
+[]
+],
+[
+"Seibel 4938",
+0,
+[]
+],
+[
+"Seibel 85",
+0,
+[]
+],
+[
+"Seibel 2",
+0,
+[]
+],
+[
+"Seibel 880",
+0,
+[]
+],
+[
+"Vivarais",
+0,
+[
+"Seibel 2003"
+]
+],
+[
+"Seibel 2524",
+0,
+[]
+],
+[
+"Seibel 5163",
+0,
+[]
+],
+[
+"Gaillard 2",
+0,
+[
+"Noah Noir"
+]
+],
+[
+"Seibel 5593",
+0,
+[]
+],
+[
+"Seibel 4202",
+0,
+[]
+],
+[
+"Seibel 793",
+0,
+[]
+],
+[
+"Seibel 41",
+0,
+[]
+],
+[
+"Seibel 4595",
+0,
+[]
+],
+[
+"Seibel 4199",
+0,
+[]
+],
+[
+"Seibel 5656",
+0,
+[]
+],
+[
+"Seibel 14",
+0,
+[]
+],
+[
+"Breval negro",
+0,
+[]
+],
+[
+"Rojal tinta",
+0,
+[]
+],
+[
+"Millardet et Grasset 101 O.P.",
+0,
+[]
+],
+[
+"Garnier 15-6",
+0,
+[]
+],
+[
+"Perle noire",
+0,
+[
+"Seyve-Villard 20-347"
+]
+],
+[
+"Seyve-Villard 12-358",
+0,
+[]
+],
+[
+"Sicilien",
+0,
+[]
+],
+[
+"Seibel 752",
+0,
+[]
+],
+[
+"Seibel 4614",
+0,
+[]
+],
+[
+"Seibel 6468",
+0,
+[]
+],
+[
+"Gárdonyi Géza",
+0,
+[]
+],
+[
+"Vulpea",
+0,
+[
+"Bljuzgava",
+"Doretta",
+"Quaiara",
+"Rosetta"
+]
+],
+[
+"Visparola",
+0,
+[]
+],
+[
+"Alba Imputotato",
+0,
+[]
+],
+[
+"Strinto Porcino",
+0,
+[]
+],
+[
+"Malvasia odorosissima",
+0,
+[
+"Malvasia maiatico"
+]
+],
+[
+"Coccalona nera",
+0,
+[]
+],
+[
+"Boggione Rosso",
+0,
+[]
+],
+[
+"Uva delle Vecchie",
+0,
+[]
+],
+[
+"Moscato violetto",
+0,
+[
+"Muscat Rouge de Madère"
+]
+],
+[
+"Muscat de Saint Vallier blanc",
+0,
+[
+"Muscat de St. Vallier",
+"Seyve-Villard 20-473"
+]
+],
+[
+"Seyve-Villard 12-129",
+0,
+[]
+],
+[
+"Seibel 5408",
+0,
+[]
+],
+[
+"Geisenheim 6494",
+0,
+[]
+],
+[
+"Semis de Malingre",
+0,
+[]
+],
+[
+"Blanc d’Ambre",
+0,
+[]
+],
+[
+"Schiras Dr. Houdbine",
+0,
+[]
+],
+[
+"Pis-de-Chèvre rouge",
+0,
+[]
+],
+[
+"Centorotolli",
+0,
+[]
+],
+[
+"Vela Pergola",
+0,
+[]
+],
+[
+"Achladi",
+0,
+[
+"Pergolese di Tivoli"
+]
+],
+[
+"Somarello nero",
+0,
+[
+"Cerasola"
+]
+],
+[
+"Uva sacra",
+0,
+[]
+],
+[
+"João Domingos",
+0,
+[]
+],
+[
+"Gargiulo 4320",
+0,
+[]
+],
+[
+"Ferdinand de Lesseps",
+0,
+[]
+],
+[
+"Angelo Pirovano",
+0,
+[]
+],
+[
+"New York 46000",
+0,
+[]
+],
+[
+"Buffalo",
+0,
+[
+"Early Steuben",
+"Fiorito",
+"New York 10830"
+]
+],
+[
+"Watkins",
+0,
+[
+"New York 7588"
+]
+],
+[
+"New York 34006",
+0,
+[]
+],
+[
+"Pirovano 50",
+0,
+[]
+],
+[
+"Nera rada",
+0,
+[]
+],
+[
+"Escursac",
+0,
+[]
+],
+[
+"Russian Seedless",
+0,
+[]
+],
+[
+"Black Monukka",
+0,
+[]
+],
+[
+"Citronelle",
+0,
+[]
+],
+[
+"Guzal Kara",
+0,
+[]
+],
+[
+"Maiolica",
+0,
+[]
+],
+[
+"Arsilico",
+0,
+[]
+],
+[
+"Pampanaro",
+0,
+[]
+],
+[
+"Uva Femmina",
+0,
+[]
+],
+[
+"Albana Bordini",
+0,
+[]
+],
+[
+"Autumn Black",
+0,
+[
+"C 15-164"
+]
+],
+[
+"Calmeria",
+0,
+[]
+],
+[
+"Fresno C 74-1",
+0,
+[]
+],
+[
+"Fresno A 82-64",
+0,
+[]
+],
+[
+"Fresno C 101-121",
+0,
+[]
+],
+[
+"Fresno P 60-179",
+0,
+[]
+],
+[
+"Fresno C 78-53",
+0,
+[]
+],
+[
+"Fresno 43-13N",
+0,
+[]
+],
+[
+"Fresno 64-18",
+0,
+[
+"Fresno P 64-18"
+]
+],
+[
+"Fresno 62-45",
+0,
+[]
+],
+[
+"Tafafihi Ahmer",
+0,
+[]
+],
+[
+"Olmo F 2-7",
+0,
+[]
+],
+[
+"Coarnă albă",
+0,
+[]
+],
+[
+"Lady Patricia",
+0,
+[
+"Illinois 182-1"
+]
+],
+[
+"Seibel 14665",
+0,
+[]
+],
+[
+"Moissan",
+0,
+[]
+],
+[
+"Pinot Salomon",
+0,
+[]
+],
+[
+"Sulmer",
+0,
+[]
+],
+[
+"Noir hâtif de Marseille",
+0,
+[]
+],
+[
+"Tamjanika Žuta",
+0,
+[]
+],
+[
+"New York Muscat",
+0,
+[
+"NY 12997"
+]
+],
+[
+"Muscat du Moulin",
+0,
+[]
+],
+[
+"Seyve-Villard 14-287",
+0,
+[]
+],
+[
+"Seyve-Villard 18-307",
+0,
+[
+"Early Chancellor"
+]
+],
+[
+"Bourrisquou",
+0,
+[]
+],
+[
+"Eger 1",
+0,
+[]
+],
+[
+"Georg",
+0,
+[]
+],
+[
+"Original",
+0,
+[]
+],
+[
+"Çavuş Pembe",
+0,
+[
+"Chaouch Rozovyi"
+]
+],
+[
+"Sheridan",
+0,
+[]
+],
+[
+"Carter",
+0,
+[
+"Mammoth Globe"
+]
+],
+[
+"Wayne",
+0,
+[]
+],
+[
+"Seneca",
+0,
+[]
+],
+[
+"Interlaken Seedless",
+0,
+[
+"New York 15292"
+]
+],
+[
+"New York 45910",
+0,
+[
+"N.Y. 45910"
+]
+],
+[
+"Bath",
+0,
+[]
+],
+[
+"New York 10805",
+0,
+[]
+],
+[
+"Romulus",
+0,
+[
+"New York 15291"
+]
+],
+[
+"Elmer Swenson 114",
+0,
+[
+"ES 114"
+]
+],
+[
+"Trollhaugen",
+0,
+[
+"Elmer Swenson 3-22-18"
+]
+],
+[
+"Castellana Blanca",
+0,
+[]
+],
+[
+"Süßschwarz",
+0,
+[]
+],
+[
+"Olmo L 12-80",
+0,
+[]
+],
+[
+"Olmo S 45-48",
+0,
+[]
+],
+[
+"Duljenga",
+0,
+[]
+],
+[
+"Patorra",
+0,
+[]
+],
+[
+"Tsimlyanskii Belyi",
+0,
+[]
+],
+[
+"Sheegene 18",
+0,
+[
+"Kelly",
+"Sheegene-18"
+]
+],
+[
+"Autumn Seedless",
+0,
+[
+"Fresno C 58-22"
+]
+],
+[
+"Fresno C 15-133",
+0,
+[]
+],
+[
+"Fresno P 100-111",
+0,
+[]
+],
+[
+"Fresno B 40-208",
+0,
+[]
+],
+[
+"Princess",
+0,
+[]
+],
+[
+"Fresno P 114-141",
+0,
+[]
+],
+[
+"Fresno B 37-45",
+0,
+[]
+],
+[
+"Fresno C 33-199",
+0,
+[]
+],
+[
+"Fresno G 4-74",
+0,
+[]
+],
+[
+"Fresno C 11-160",
+0,
+[]
+],
+[
+"Fresno C 4-37",
+0,
+[]
+],
+[
+"Pobeda",
+0,
+[]
+],
+[
+"Marshalskii",
+0,
+[
+"Marsalischii"
+]
+],
+[
+"Freiburg 523-52",
+0,
+[]
+],
+[
+"Arkansas 1672",
+0,
+[]
+],
+[
+"Arkansas 1258",
+0,
+[]
+],
+[
+"Arkansas 1057",
+0,
+[]
+],
+[
+"Arkansas 1352",
+0,
+[]
+],
+[
+"Arkansas 1160",
+0,
+[]
+],
+[
+"Dunstan 210",
+0,
+[]
+],
+[
+"Aurelia",
+0,
+[
+"Dunstan 56"
+]
+],
+[
+"Glenora",
+0,
+[
+"New York 35814"
+]
+],
+[
+"California A 3-94",
+0,
+[]
+],
+[
+"California K 3-78",
+0,
+[]
+],
+[
+"Gold",
+0,
+[
+"California Q 17-16"
+]
+],
+[
+"Dorona di Venezia",
+0,
+[]
+],
+[
+"Arkansas 1197",
+0,
+[]
+],
+[
+"Olmo Q 25-6",
+0,
+[]
+],
+[
+"Sultana Moscata",
+0,
+[]
+],
+[
+"Golden Muscat",
+0,
+[]
+],
+[
+"Akitsu 21",
+0,
+[]
+],
+[
+"Hakunan",
+0,
+[]
+],
+[
+"Kaiji",
+0,
+[]
+],
+[
+"Flame Tokay",
+0,
+[
+"Ahmeur bou Ahmeur"
+]
+],
+[
+"Katta Kurgan",
+0,
+[]
+],
+[
+"Nagano Purple",
+0,
+[]
+],
+[
+"Rosario Bianco",
+0,
+[]
+],
+[
+"Bailey",
+0,
+[]
+],
+[
+"Premier",
+0,
+[]
+],
+[
+"Emily",
+0,
+[]
+],
+[
+"Taylor",
+0,
+[
+"Taylor’s Bullit"
+]
+],
+[
+"Diana Hamburg",
+0,
+[]
+],
+[
+"Sugraone",
+0,
+[
+"Menindee Seedless",
+"Superior Seedless"
+]
+],
+[
+"Arkansas 2674",
+0,
+[
+"A2674"
+]
+],
+[
+"AutumnCrisp",
+0,
+[
+"Sugra35",
+"Sugrathirtyfive"
+]
+],
+[
+"Sun World seedling 91171-094-492",
+0,
+[]
+],
+[
+"Sugratwentythree",
+0,
+[
+"Sugra23",
+"Sun World seedling 92167-052-375"
+]
+],
+[
+"Sun World seedling 89098-194-167",
+0,
+[]
+],
+[
+"Sun World seedling 89339-089-291",
+0,
+[]
+],
+[
+"Sugrathirtyfour",
+0,
+[]
+],
+[
+"Sun World seedling 97148-027-365",
+0,
+[]
+],
+[
+"Sugrathirtyone",
+0,
+[
+"Sun World seedling 99080-126-251"
+]
+],
+[
+"Sun World seedling 92187-055-030",
+0,
+[]
+],
+[
+"Sugranineteen",
+0,
+[
+"Scarlotta",
+"Scarlotta Seedless",
+"Sugra19"
+]
+],
+[
+"Sun World seedling 89345-090-144",
+0,
+[]
+],
+[
+"Sun World seedling 89361-091-364",
+0,
+[]
+],
+[
+"Sheegene 20",
+0,
+[
+"Allison",
+"Sheegene-20"
+]
+],
+[
+"Tickled Pink",
+0,
+[]
+],
+[
+"Moored",
+0,
+[]
+],
+[
+"Athens",
+0,
+[]
+],
+[
+"Hubbard seedless",
+0,
+[]
+],
+[
+"Portland",
+0,
+[]
+],
+[
+"Sulima",
+0,
+[]
+],
+[
+"Excelsior",
+0,
+[]
+],
+[
+"Talizman",
+0,
+[]
+],
+[
+"Suzi",
+0,
+[]
+],
+[
+"Avana'",
+0,
+[]
+],
+[
+"Malvasia Rosa",
+0,
+[]
+],
+[
+"Prie Rouge",
+0,
+[]
+],
+[
+"Rossetta Di Montagna",
+0,
+[]
+],
+[
+"Licronaxu Rosa",
+0,
+[]
+],
+[
+"Rosonadu",
+0,
+[]
+],
+[
+"Nuragus Arrubiu",
+0,
+[]
+],
+[
+"Canaiolo Rosa",
+0,
+[]
+],
+[
+"Rosciola",
+0,
+[]
+],
+[
+"Albana Rosa",
+0,
+[]
+],
+[
+"Manzoni Rosa",
+0,
+[]
+],
+[
+"Calabrese",
+0,
+[]
+],
+[
+"Albanello",
+0,
+[]
+],
+[
+"Caricagiola",
+0,
+[]
+],
+[
+"Carica L'asino",
+0,
+[]
+],
+[
+"Castiglione",
+0,
+[]
+],
+[
+"Cesanese D Affile",
+0,
+[]
+],
+[
+"Coda Di Volpe Bianca",
+0,
+[]
+],
+[
+"Corinto Nero",
+0,
+[]
+],
+[
+"Dolciame",
+0,
+[]
+],
+[
+"Foglia Tonda",
+0,
+[]
+],
+[
+"Francavidda",
+0,
+[]
+],
+[
+"Guardavalle",
+0,
+[]
+],
+[
+"Livornese Bianca",
+0,
+[]
+],
+[
+"Vernaccia Di S. Gimignano",
+0,
+[]
+],
+[
+"Cove'",
+0,
+[]
+],
+[
+"Flavis",
+0,
+[]
+],
+[
+"Fubiano",
+0,
+[]
+],
+[
+"Invernenga",
+0,
+[]
+],
+[
+"Nebbiera",
+0,
+[]
+],
+[
+"Nigra",
+0,
+[]
+],
+[
+"Prodest",
+0,
+[]
+],
+[
+"S. Michele",
+0,
+[]
+],
+[
+"Soperga",
+0,
+[]
+],
+[
+"Tschaggele",
+0,
+[]
+],
+[
+"Valentino",
+0,
+[]
+],
+[
+"Verduschia",
+0,
+[]
+],
+[
+"Meunier",
+0,
+[]
+],
+[
+"Cornalin",
+0,
+[]
+],
+[
+"Vitouska",
+0,
+[]
+],
+[
+"Pelaverga Piccolo",
+0,
+[]
+],
+[
+"Trebbiano Abruzzese",
+0,
+[]
+],
+[
+"Verdese",
+0,
+[]
+],
+[
+"Ervi",
+0,
+[]
+],
+[
+"Santa Maria",
+0,
+[]
+],
+[
+"Regina",
+0,
+[]
+],
+[
+"Morone",
+0,
+[]
+],
+[
+"Glera Lunga",
+0,
+[]
+],
+[
+"Lambrusco Oliva",
+0,
+[]
+],
+[
+"Negroamaro Precoce",
+0,
+[]
+],
+[
+"Malvasia Nera Lunga",
+0,
+[]
+],
+[
+"Casavecchia",
+0,
+[]
+],
+[
+"Sennen",
+0,
+[]
+],
+[
+"Gosen",
+0,
+[]
+],
+[
+"Goldtraminer",
+0,
+[]
+],
+[
+"Casetta",
+0,
+[]
+],
+[
+"Pugnitello",
+0,
+[]
+],
+[
+"Becuet",
+0,
+[]
+],
+[
+"Manzoni Moscato",
+0,
+[]
+],
+[
+"Scimiscia'",
+0,
+[]
+],
+[
+"Tronto",
+0,
+[]
+],
+[
+"Cjanorie",
+0,
+[]
+],
+[
+"Chenin",
+0,
+[]
+],
+[
+"Perla Dei Vivi",
+0,
+[]
+],
+[
+"Grapariol",
+0,
+[]
+],
+[
+"Marzemina Grossa",
+0,
+[]
+],
+[
+"Recantina",
+0,
+[]
+],
+[
+"Slarina",
+0,
+[]
+],
+[
+"Sanforte",
+0,
+[]
+],
+[
+"Cordenossa",
+0,
+[]
+],
+[
+"Vernaccia Nera Grossa",
+0,
+[]
+],
+[
+"Capolongo",
+0,
+[]
+],
+[
+"Erbamat",
+0,
+[]
+],
+[
+"Erbanno",
+0,
+[]
+],
+[
+"Maiolina",
+0,
+[]
+],
+[
+"Maor",
+0,
+[]
+],
+[
+"Maturano",
+0,
+[]
+],
+[
+"Moscato Ottonel",
+0,
+[]
+],
+[
+"Paolina",
+0,
+[]
+],
+[
+"Roviello",
+0,
+[]
+],
+[
+"Ruggine",
+0,
+[]
+],
+[
+"Ruzzese",
+0,
+[]
+],
+[
+"Trebbianina",
+0,
+[]
+],
+[
+"Uva Del Tunde'",
+0,
+[]
+],
+[
+"Veruccese",
+0,
+[]
+],
+[
+"Celtica",
+0,
+[]
+],
+[
+"Gratena",
+0,
+[]
+],
+[
+"Mornasca",
+0,
+[]
+],
+[
+"Rossone",
+0,
+[]
+],
+[
+"Antinello",
+0,
+[]
+],
+[
+"Incrocio Manzoni 2-3",
+0,
+[]
+],
+[
+"Minutolo",
+0,
+[]
+],
+[
+"Pelagos",
+0,
+[]
+],
+[
+"Scarsafoglia",
+0,
+[]
+],
+[
+"Somarello Rosso",
+0,
+[]
+],
+[
+"Dorona",
+0,
+[]
+],
+[
+"Gruaja",
+0,
+[]
+],
+[
+"Malvasia Moscata",
+0,
+[]
+],
+[
+"Biancaccia",
+0,
+[]
+],
+[
+"Albarino",
+0,
+[]
+],
+[
+"Fumat",
+0,
+[]
+],
+[
+"Iasma Eco 1",
+0,
+[]
+],
+[
+"Iasma Eco 2",
+0,
+[]
+],
+[
+"Iasma Eco 3",
+0,
+[]
+],
+[
+"Iasma Eco 4",
+0,
+[]
+],
+[
+"Irsai Oliver",
+0,
+[]
+],
+[
+"Refosco Bianco",
+0,
+[]
+],
+[
+"Sagrestana",
+0,
+[]
+],
+[
+"Bellagna",
+0,
+[]
+],
+[
+"Bragat Rosa",
+0,
+[]
+],
+[
+"Cabrusina",
+0,
+[]
+],
+[
+"Muscaris",
+0,
+[]
+],
+[
+"Fleurtai",
+0,
+[]
+],
+[
+"Julius",
+0,
+[]
+],
+[
+"Montanera",
+0,
+[]
+],
+[
+"Soreli",
+0,
+[]
+],
+[
+"Alvarega",
+0,
+[]
+],
+[
+"Argu Mannu",
+0,
+[]
+],
+[
+"Bian Ver",
+0,
+[]
+],
+[
+"Bianca Remungia",
+0,
+[]
+],
+[
+"Codronisca",
+0,
+[]
+],
+[
+"Cranaccia Arussa",
+0,
+[]
+],
+[
+"Cuccuau",
+0,
+[]
+],
+[
+"Sauvignon Nepis",
+0,
+[]
+],
+[
+"Sauvignon Rytos",
+0,
+[]
+],
+[
+"Grand Noir",
+0,
+[]
+],
+[
+"Mourvedre",
+0,
+[]
+],
+[
+"Passeretta",
+0,
+[]
+],
+[
+"Morellone",
+0,
+[]
+],
+[
+"Negrone",
+0,
+[]
+],
+[
+"Malvasia Casalini",
+0,
+[]
+],
+[
+"Moscato D Amburgo",
+0,
+[]
+],
+[
+"Nocchianello Bianco",
+0,
+[]
+],
+[
+"Nocchianello Nero",
+0,
+[]
+],
+[
+"Tintoria",
+0,
+[]
+],
+[
+"Fraueler",
+0,
+[]
+],
+[
+"Furner",
+0,
+[]
+],
+[
+"Gralima",
+0,
+[]
+],
+[
+"Gregu Nieddu",
+0,
+[]
+],
+[
+"Inzolia Nera",
+0,
+[]
+],
+[
+"Licronaxu",
+0,
+[]
+],
+[
+"Liseiret",
+0,
+[]
+],
+[
+"Lucignola",
+0,
+[]
+],
+[
+"Mara Bianca",
+0,
+[]
+],
+[
+"Medrulinu",
+0,
+[]
+],
+[
+"Selezione Vedele",
+0,
+[]
+],
+[
+"Versoalen",
+0,
+[]
+],
+[
+"Vitrarolo",
+0,
+[]
+],
+[
+"Aniga Bragia",
+0,
+[]
+],
+[
+"Bianca Addosa",
+0,
+[]
+],
+[
+"Colatamurro",
+0,
+[]
+],
+[
+"Doronadu",
+0,
+[]
+],
+[
+"Elmo",
+0,
+[]
+],
+[
+"Furcina",
+0,
+[]
+],
+[
+"Giosana",
+0,
+[]
+],
+[
+"Nigheddu Polchinu",
+0,
+[]
+],
+[
+"Pansale",
+0,
+[]
+],
+[
+"Plavina",
+0,
+[]
+],
+[
+"Poloskei Muskotaly",
+0,
+[]
+],
+[
+"Procu Nieddu",
+0,
+[]
+],
+[
+"Santa Sofia",
+0,
+[]
+],
+[
+"Schioppetta",
+0,
+[]
+],
+[
+"Sgranarella",
+0,
+[]
+],
+[
+"Sinnidanu",
+0,
+[]
+],
+[
+"Cigliola Bianca",
+0,
+[]
+],
+[
+"Santa Teresa",
+0,
+[]
+],
+[
+"Biondello",
+0,
+[]
+],
+[
+"Carrieri",
+0,
+[]
+],
+[
+"Brettio Nero",
+0,
+[]
+],
+[
+"Kersus",
+0,
+[]
+],
+[
+"Pinot Iskra",
+0,
+[]
+],
+[
+"Volturnis",
+0,
+[]
+],
+[
+"Pinot Kors",
+0,
+[]
+],
+[
+"Pinot Regina",
+0,
+[]
+],
+[
+"Maturano Nero",
+0,
+[]
+],
+[
+"Uva Giulia",
+0,
+[]
+],
+[
+"Recaldina",
+0,
+[]
+],
+[
+"Pecolo Scuro",
+0,
+[]
+],
+[
+"Termantis",
+0,
+[]
+],
+[
+"Nermantis",
+0,
+[]
+],
+[
+"Charvir",
+0,
+[]
+],
+[
+"Valnosia",
+0,
+[]
+],
+[
+"Grecarese",
+0,
+[]
+],
+[
+"Lagario",
+0,
+[]
+],
+[
+"Moretto Grosso",
+0,
+[]
+],
+[
+"Negrellone",
+0,
+[]
+],
+[
+"Palma",
+0,
+[]
+],
+[
+"Ranchella",
+0,
+[]
+],
+[
+"Raspato Nero",
+0,
+[]
+],
+[
+"Reale Bianca",
+0,
+[]
+],
+[
+"Sorantonio",
+0,
+[]
+],
+[
+"Perla Di Csaba",
+0,
+[]
+],
+[
+"Benedina",
+0,
+[]
+],
+[
+"Camaiola",
+0,
+[]
+],
+[
+"Mattarella",
+0,
+[]
+],
+[
+"Rabosa Bianca",
+0,
+[]
+],
+[
+"Ghiandara",
+0,
+[]
+],
+[
+"Gnoca",
+0,
+[]
+],
+[
+"Zimellone Bianco",
+0,
+[]
+],
+[
+"Cavecia",
+0,
+[]
+],
+[
+"Russiola",
+0,
+[]
+],
+[
+"Coda Di Pecora Bianca",
+0,
+[]
+],
+[
+"Rossella",
+0,
+[]
+],
+[
+"Roussi",
+0,
+[]
+],
+[
+"Alfrocheiro",
+0,
+[]
+],
+[
+"Castelao",
+0,
+[]
+],
+[
+"Fernao Pires",
+0,
+[]
+],
+[
+"Loureiro",
+0,
+[]
+],
+[
+"Pattaresca",
+0,
+[]
+],
+[
+"Agostina",
+0,
+[]
+],
+[
+"Castagnara",
+0,
+[]
+],
+[
+"Cassina",
+0,
+[]
+],
+[
+"Ingannapastore",
+0,
+[]
+],
+[
+"Sabato",
+0,
+[]
+],
+[
+"Suppezza",
+0,
+[]
+],
+[
+"Tennecchia",
+0,
+[]
+],
+[
+"Uva Urmo",
+0,
+[]
+],
+[
+"Nero Antico",
+0,
+[]
+],
+[
+"Cocozza",
+0,
+[]
+],
+[
+"Reginella",
+0,
+[]
+],
+[
+"Racina Piccola",
+0,
+[]
+],
+[
+"Vodorin",
+0,
+[]
+],
+[
+"Bovale",
+0,
+[]
+],
+[
+"Canaiolo Bianco",
+0,
+[]
+],
+[
+"Canaiolo Nero",
+0,
+[]
+],
+[
+"Clairette",
+0,
+[]
+],
+[
+"Doux D'henry",
+0,
+[]
+],
+[
+"Durasa",
+0,
+[]
+],
+[
+"Giro'",
+0,
+[]
+],
+[
+"Grechetto Rosso",
+0,
+[]
+],
+[
+"Greco Bianco",
+0,
+[]
+],
+[
+"Groppello Di S. Stefano",
+0,
+[]
+],
+[
+"Incrocio Manzoni 2.15",
+0,
+[]
+],
+[
+"Incrocio Terzi N.1",
+0,
+[]
+],
+[
+"Malvasia Di Lipari",
+0,
+[]
+],
+[
+"Malvasia Nera Di Lecce",
+0,
+[]
+],
+[
+"Mazzese",
+0,
+[]
+],
+[
+"Minnella Bianca",
+0,
+[]
+],
+[
+"Montu'",
+0,
+[]
+],
+[
+"Moscato Nero Di Acqui",
+0,
+[]
+],
+[
+"Mostosa",
+0,
+[]
+],
+[
+"Negretto",
+0,
+[]
+],
+[
+"Nero Buono",
+0,
+[]
+],
+[
+"Nieddu Mannu",
+0,
+[]
+],
+[
+"Notardomenico",
+0,
+[]
+],
+[
+"Olivella Nera",
+0,
+[]
+],
+[
+"Pascale",
+0,
+[]
+],
+[
+"Pecorello",
+0,
+[]
+],
+[
+"Pignola",
+0,
+[]
+],
+[
+"Prugnolo Gentile",
+0,
+[]
+],
+[
+"Refosco Nostrano",
+0,
+[]
+],
+[
+"Ribuele",
+0,
+[]
+],
+[
+"Roussane",
+0,
+[]
+],
+[
+"Schiava Grigia",
+0,
+[]
+],
+[
+"Semillon",
+0,
+[]
+],
+[
+"Sylvaner Verde",
+0,
+[]
+],
+[
+"Tocai Rosso",
+0,
+[]
+],
+[
+"Torbato",
+0,
+[]
+],
+[
+"Trebbiano Modenese",
+0,
+[]
+],
+[
+"Trebbiano Toscano",
+0,
+[]
+],
+[
+"Turca",
+0,
+[]
+],
+[
+"Bussanello",
+0,
+[]
+],
+[
+"Italica",
+0,
+[]
+],
+[
+"S. Martino",
+0,
+[]
+],
+[
+"Passau",
+0,
+[]
+],
+[
+"Sirio",
+0,
+[]
+],
+[
+"Moscatello Selvatico",
+0,
+[]
+],
+[
+"Prie Blanc",
+0,
+[]
+],
+[
+"Ruche'",
+0,
+[]
+],
+[
+"Forsellina",
+0,
+[]
+],
+[
+"Forgiarin",
+0,
+[]
+],
+[
+"Piculit-neri",
+0,
+[]
+],
+[
+"Sciaglin",
+0,
+[]
+],
+[
+"Ucelut",
+0,
+[]
+],
+[
+"Perera",
+0,
+[]
+],
+[
+"Pedevenda",
+0,
+[]
+],
+[
+"Melara",
+0,
+[]
+],
+[
+"Regina Dei Vigneti",
+0,
+[]
+],
+[
+"Groppello Di Revo",
+0,
+[]
+],
+[
+"Fenile",
+0,
+[]
+],
+[
+"Ginestra",
+0,
+[]
+],
+[
+"Moradella",
+0,
+[]
+],
+[
+"Termarina",
+0,
+[]
+],
+[
+"Orpicchio",
+0,
+[]
+],
+[
+"Merlese",
+0,
+[]
+],
+[
+"Verdealbara",
+0,
+[]
+],
+[
+"Lambrusco Barghi",
+0,
+[]
+],
+[
+"Cavrara",
+0,
+[]
+],
+[
+"Corbina",
+0,
+[]
+],
+[
+"Turchetta",
+0,
+[]
+],
+[
+"Famoso",
+0,
+[]
+],
+[
+"Lecinaro",
+0,
+[]
+],
+[
+"Serbina",
+0,
+[]
+],
+[
+"Uva Del Fantini",
+0,
+[]
+],
+[
+"Vernaccina",
+0,
+[]
+],
+[
+"Pliniana",
+0,
+[]
+],
+[
+"Tintore",
+0,
+[]
+],
+[
+"Virgilio",
+0,
+[]
+],
+[
+"Grero",
+0,
+[]
+],
+[
+"Incrocio Manzoni 2-14",
+0,
+[]
+],
+[
+"Lambrusco Benetti",
+0,
+[]
+],
+[
+"Lanzesa",
+0,
+[]
+],
+[
+"Marchione",
+0,
+[]
+],
+[
+"Maresco",
+0,
+[]
+],
+[
+"Grado'",
+0,
+[]
+],
+[
+"Guarnaccino",
+0,
+[]
+],
+[
+"Spigamonti",
+0,
+[]
+],
+[
+"Cesenese Nero",
+0,
+[]
+],
+[
+"Fiudedda",
+0,
+[]
+],
+[
+"Cabernet Volos",
+0,
+[]
+],
+[
+"Merlot Kanthus",
+0,
+[]
+],
+[
+"Merlot Khorus",
+0,
+[]
+],
+[
+"Sauvignon Kretos",
+0,
+[]
+],
+[
+"Festasio",
+0,
+[]
+],
+[
+"Lambrusco Del Pellegrino",
+0,
+[]
+],
+[
+"Merera",
+0,
+[]
+],
+[
+"Nera Del Ponte",
+0,
+[]
+],
+[
+"Niedda Carta",
+0,
+[]
+],
+[
+"Orisi",
+0,
+[]
+],
+[
+"Recunu",
+0,
+[]
+],
+[
+"Saluda E Passa",
+0,
+[]
+],
+[
+"Usirioto",
+0,
+[]
+],
+[
+"Moscianello",
+0,
+[]
+],
+[
+"S. Giuseppe Nero",
+0,
+[]
+],
+[
+"S. Lunardo",
+0,
+[]
+],
+[
+"Veltliner",
+0,
+[]
+],
+[
+"Verdicchio Bianco",
+0,
+[]
+],
+[
+"Verduzzo Friulano",
+0,
+[]
+],
+[
+"Cornarea",
+0,
+[]
+],
+[
+"Fertilia",
+0,
+[]
+],
+[
+"Incrocio Bianco Fedit 51 C.s.g.",
+0,
+[]
+],
+[
+"Ripolo",
+0,
+[]
+],
+[
+"Cividin",
+0,
+[]
+],
+[
+"Catalanesca",
+0,
+[]
+],
+[
+"Lagarino",
+0,
+[]
+],
+[
+"Negra Mole",
+0,
+[]
+],
+[
+"Florida A 4-23",
+0,
+[]
+],
+[
+"Florida D 6-148",
+0,
+[]
+],
+[
+"Florida W 907",
+0,
+[]
+],
+[
+"Florida W 381",
+0,
+[]
+],
+[
+"Rose of Peru",
+0,
+[
+"Black Prince"
+]
+],
+[
+"Witt",
+0,
+[]
+],
+[
+"Swenson White",
+0,
+[
+"Elmer Swenson 6-1-43"
+]
+],
+[
+"Elmer Swenson 442",
+0,
+[
+"ES 442"
+]
+],
+[
+"Elmer Swenson 283",
+0,
+[
+"ES 283"
+]
+],
+[
+"Elmer Swenson 2-4-13",
+0,
+[]
+],
+[
+"Elmer Swenson 193",
+0,
+[
+"ES 193"
+]
+],
+[
+"Elmer Swenson 5-3-64",
+0,
+[
+"ES 5-3-64"
+]
+],
+[
+"Elmer Swenson 2-5-5",
+0,
+[
+"ES 2-5-5"
+]
+],
+[
+"Elmer Swenson 5-14",
+0,
+[
+"ES 5-14"
+]
+],
+[
+"Elmer Swenson 593",
+0,
+[
+"ES 593"
+]
+],
+[
+"Elmer Swenson 80",
+0,
+[
+"ES 80"
+]
+],
+[
+"Kendaia",
+0,
+[
+"New York 12341",
+"NY 12341"
+]
+],
+[
+"Petite Jewel",
+0,
+[
+"Elmer Swenson 3-20-36",
+"ES 3-20-36"
+]
+],
+[
+"Elmer Swenson 217",
+0,
+[
+"ES 217"
+]
+],
+[
+"Elmer Swenson 2-3-17",
+0,
+[
+"ES 2-3-17"
+]
+],
+[
+"Elmer Swenson 2-7-13",
+0,
+[
+"ES 2-7-13"
+]
+],
+[
+"Alpenglow",
+0,
+[
+"Elmer Swenson 2-8-1",
+"ES 2-8-1"
+]
+],
+[
+"Nouveau Bayard",
+0,
+[
+"Couderc 132-11"
+]
+],
+[
+"Seibel 451",
+0,
+[]
+],
+[
+"Montreal Blues",
+0,
+[
+"Elmer Swenson 6-4-47",
+"Flambeau",
+"Saint Theresa",
+"St. Theresa"
+]
+],
+[
+"Kandiyohi",
+0,
+[]
+],
+[
+"Elmer Swenson 56",
+0,
+[]
+],
+[
+"Elmer Swenson 24-52",
+0,
+[
+"ES 24-52"
+]
+],
+[
+"South Haven",
+0,
+[]
+],
+[
+"Magenta",
+0,
+[
+"Elmer Swenson 3-22-16"
+]
+],
+[
+"Suelter",
+0,
+[]
+],
+[
+"Carver",
+0,
+[]
+],
+[
+"Itasca",
+0,
+[
+"Minnesota 1285"
+]
+],
+[
+"Minnesota 1234",
+0,
+[]
+],
+[
+"Minnesota 1095",
+0,
+[]
+],
+[
+"Veeblanc",
+0,
+[]
+],
+[
+"Parmak Cerven",
+0,
+[]
+],
+[
+"Țâța Caprei",
+0,
+[]
+],
+[
+"Muromec",
+0,
+[]
+],
+[
+"Livija",
+0,
+[]
+],
+[
+"Flamingo",
+0,
+[]
+],
+[
+"Angur kalan",
+0,
+[
+"Nimrang"
+]
+],
+[
+"Padorok zaporozju",
+0,
+[]
+],
+[
+"Vostorg",
+0,
+[]
+],
+[
+"Russkii rannii",
+0,
+[]
+],
+[
+"Shasla severnaya",
+0,
+[]
+],
+[
+"Festivee",
+0,
+[
+"Vineland 53033"
+]
+],
+[
+"Vineland 68021",
+0,
+[]
+],
+[
+"Veles",
+0,
+[]
+],
+[
+"Sofiya",
+0,
+[]
+],
+[
+"Rusbol",
+0,
+[]
+],
+[
+"Sverkhrannii bessemyannyi",
+0,
+[
+"Sverhrannii bessemyannyi"
+]
+],
+[
+"Magarach 417",
+0,
+[]
+],
+[
+"Ahmar Derani",
+0,
+[
+"Santa Morena"
+]
+],
+[
+"Attika",
+0,
+[]
+],
+[
+"Irinka",
+0,
+[]
+],
+[
+"Pehlivan kara",
+0,
+[]
+],
+[
+"Selma Pete",
+0,
+[
+"Fresno C 51-110"
+]
+],
+[
+"Fresno C 66-144",
+0,
+[]
+],
+[
+"Fresno B 36-27",
+0,
+[]
+],
+[
+"DOVine",
+0,
+[]
+],
+[
+"Fresno Seedless",
+0,
+[
+"Fresno C 32-68"
+]
+],
+[
+"Aminaean",
+0,
+[
+"Aminnian",
+"Amminean"
+]
+],
+[
+"Pougayen",
+0,
+[]
+],
+[
+"Romé",
+0,
+[
+"Rome"
+]
+]
+]

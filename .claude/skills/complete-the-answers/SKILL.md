@@ -10,19 +10,26 @@ the rarer the answer, the more likely it is missing, and the more it hurts.
 
 Repository layout this relies on:
 - Hand lists: `js/data*.js` (tiers `p c s r d k`, `=` aliases, `::` gem fact).
-- Generated answers: `js/data-extra.js`, built by `tools/build_extra.py` from
+- Generated answers: `js/answers/<prompt>.js` (lazy-loaded per prompt), built by `tools/build_extra.py` from
   `tools/wikidata/<prompt>.json` (`tools/wikidata_fetch.py`),
   `tools/wikipedia/<prompt>.json` (`tools/wikipedia_fetch.py`),
   `tools/supplement/<prompt>.txt` (hand-written, one answer per line, `=` for other spellings),
   and the open corpora datasets.
 - Matching: `js/engine.js` (`lookup`, `nearest`, `partial`, `judge`).
 
+## 0. Prefer specific prompts
+
+A specific prompt ("Name a Tom Hanks movie", "Name a terrier breed", "Name a Roman emperor") has a finite set
+of correct answers that Wikidata or a closed list can cover completely; a broad one ("Name an animal") cannot.
+When adding prompts, pick ones whose membership is a fact you can query, write the query first, and only keep
+the prompt if the result is complete and clean.
+
 ## 1. Pick the prompts
 
 Do the prompts players will see first. Print the daily for today and the next six days:
 
 ```bash
-node -e 'for (const f of ["data","data2","data3","data4","data5","data6","data7","categories"]) require("./js/"+f+".js");
+node -e 'for (const f of ["data","data2","data3","data4","data5","data6","data7","data8","categories"]) require("./js/"+f+".js");
 const CP=require("./js/engine.js"),E=CP.engine,d=E.dayNumber(new Date());
 for(let i=0;i<7;i++)console.log(d+i,E.promptsForDay(d+i,CP.PROMPTS).map(p=>p.id).join(" "))'
 ```
@@ -43,6 +50,9 @@ not just the one answer. Causes seen so far, and the fix for each:
 | One word missing from a long name ("chicken masala") | Shortened name | `partial()` offers it as a confirm; if it is its own thing, add it as an answer |
 | Typo plus anything above | Combination | Check `nearest()` is still reachable; add the base answer |
 | Names with digits ("Peugeot 205", "Halo 3") | Old cleanup rule | `tidy()` keeps digits now; check it still does |
+| Half a title ("Love and Thunder", "Captain Toad") | Colon titles | Build adds both halves of a colon title as aliases |
+| Club without suffix ("Oldham") | "Athletic", "City", "United"... | Build adds the suffix-less name on club prompts |
+| Alias silently lost | Build and engine normalise differently | `compact()` in `build_extra.py` must match `engine.js` exactly (number words, leading "the", shorthands) |
 | Whole query returns too few items | Wrong class or only one level of sub-types | Look up IDs on QLever (step 3), use `P279+` for "types of", `P31/P279*` for instances |
 
 ## 3. Widen the sources

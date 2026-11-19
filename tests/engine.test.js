@@ -1,7 +1,7 @@
 // Run with: node tests/engine.test.js
 const assert = require("node:assert/strict");
 const path = require("node:path");
-for (const f of ["data.js", "data2.js", "data3.js", "data4.js", "data5.js", "data6.js", "data7.js", "categories.js", "words.js"]
+for (const f of ["data.js", "data2.js", "data3.js", "data4.js", "data5.js", "data6.js", "data7.js", "data8.js", "categories.js", "words.js"]
   .concat(require("node:fs").readdirSync(require("node:path").join(__dirname, "../js/answers")).map(x => "answers/" + x))) {
   const fp = path.join(__dirname, "../js", f);
   if (require("node:fs").existsSync(fp)) require(fp);
@@ -66,7 +66,7 @@ for (const p of BANK) {
   });
   test(`[${p.id}] has a krillion-sized answer set`, () => {
     const n = E.indexFor(p).answers.length;
-    assert.ok(n >= 30, n + " answers");
+    assert.ok(n >= (p.closed ? 20 : 30), n + " answers");
   });
   test(`[${p.id}] every answer can be looked up by its own name`, () => {
     for (const a of E.indexFor(p).answers) {
@@ -138,14 +138,14 @@ test("everyday English words are never corrected into generated answers", () => 
   const byId = id => BANK.find(p => p.id === id);
   const cases = [["spokenlang", "change"], ["spokenlang", "morning"], ["italycity", "parents"], ["waterfall", "father"],
     ["italycity", "better"], ["island", "sales"], ["river", "some"], ["soup", "beer"], ["bread", "fruit"],
-    ["cheese", "cheese"], ["italycity", "mark"], ["profession", "president"]];
+    ["cheese", "cheese"], ["italycity", "mark"], ["texascity", "better"]];
   for (const [id, w] of cases) {
     const r = E.judge(byId(id), w, []);
     assert.ok(!(r.status === "accepted" && r.answer.extra), `${id}: "${w}" accepted as ${r.answer && r.answer.name}`);
     assert.ok(!(r.status === "correction" && r.answer.extra), `${id}: "${w}" offered ${r.to}`);
   }
   // A real word that is a typo of a hand answer asks first instead of auto-correcting.
-  const r = E.judge(byId("clothing"), "Shots", []);
+  const r = E.judge(byId("usstate"), "Main", []);
   assert.notEqual(r.status, "accepted");
 });
 
@@ -334,7 +334,7 @@ test("hand tiers win over generated answers", () => {
 
 test("no everyday words slip in as generated answers", () => {
   const P = id => BANK.find(p => p.id === id);
-  for (const [id, w] of [["spokenlang", "anal"], ["spokenlang", "sake"], ["river", "milk"], ["river", "white"], ["cheese", "butter"], ["sport", "table sports"]]) {
+  for (const [id, w] of [["spokenlang", "anal"], ["spokenlang", "sake"], ["river", "milk"], ["river", "white"], ["cheese", "butter"], ["olympic", "table sports"]]) {
     assert.equal(E.judge(P(id), w, []).status === "accepted", false, id + ": " + w);
   }
 });
@@ -358,7 +358,7 @@ test("common misspellings are accepted without a confirm step", () => {
 
 test("category words, word order and shorthands don't matter", () => {
   const cases = [["lake", "baikal", "Lake Baikal"], ["lake", "baikal lake", "Lake Baikal"], ["river", "the amazon river", "Amazon"],
-    ["mountain", "mt everest", "Mount Everest"], ["uscity", "ft worth", "Fort Worth"], ["dog", "pug dog", "Pug"],
+    ["mountain", "mt everest", "Mount Everest"], ["texascity", "ft worth", "Fort Worth"], ["dog", "pug dog", "Pug"],
     ["shark", "tiger", "Tiger Shark"], ["dog", "labs", "Labrador"]];
   for (const [id, typed, want] of cases) assert.equal(E.judge(P(id), typed, []).answer.name, want, typed);
 });
@@ -366,8 +366,9 @@ test("category words, word order and shorthands don't matter", () => {
 test("wrong answers are still rejected", () => {
   const neg = { fruit: ["chair", "lion", "pencil", "onion", "bread"], dog: ["cat", "lion", "horse", "table"],
     spokenlang: ["table", "chair", "pizza", "banana", "guitar", "hello", "london", "computer"], cheese: ["bread", "table", "pizza", "apple"],
-    dinosaur: ["dragon", "lizard", "shark", "chicken"], mammal: ["shark", "spider", "snake", "eagle"], bird: ["bee", "dog", "plane"],
-    element: ["water", "fire", "air", "steel", "bronze"], sport: ["table", "pizza", "apple"] };
+    dinosaur: ["dragon", "lizard", "shark", "chicken"], owl: ["eagle", "hawk", "parrot"], hanksfilm: ["titanic", "jaws", "inception"],
+    element: ["water", "fire", "air", "steel", "bronze"], olympic: ["table", "pizza", "apple"], landlocked: ["japan", "italy", "chile"],
+    romanemperor: ["napoleon", "charlemagne", "alexander the great"], queensong: ["thriller", "hey jude"] };
   for (const [id, ws] of Object.entries(neg)) for (const w of ws) {
     assert.notEqual(E.judge(P(id), w, []).status, "accepted", id + ": " + w);
   }
@@ -394,7 +395,7 @@ test("answers players reported as missing all count now", () => {
 test("extra words around a real answer still count", () => {
   const P = id => BANK.find(p => p.id === id);
   assert.equal(E.judge(P("carmodel"), "ford focus", []).answer.name.toLowerCase().includes("focus"), true);
-  assert.equal(E.judge(P("color"), "the color red", []).status, "accepted");
+  assert.equal(E.judge(P("usstate"), "state of texas", []).status, "accepted");
   assert.notEqual(E.judge(P("country"), "not a country", []).status, "accepted");
 });
 

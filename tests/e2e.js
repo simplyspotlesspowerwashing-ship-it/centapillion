@@ -260,7 +260,7 @@ async function newPage(browser, opts, clock) {
 
   await step("after the daily: one set of 7 per category per day", async () => {
     const tiles = await page.$$eval("#keepDigging .cat-tile", ts => ts.map(t => t.dataset.cat));
-    assert.deepEqual(tiles, ["geography", "animals", "food", "screen", "sports", "science", "culture", "everyday"]);
+    assert.deepEqual(tiles, ["geography", "animals", "food", "screen", "music", "sports", "culture", "everyday"]);
     await page.screenshot({ path: path.join(SHOTS, "05b-keep-digging.png"), fullPage: false });
     const day = await page.evaluate(() => window.__centapillion.today());
     const daily = (await page.evaluate(() => window.__centapillion.store())).daily[day].promptIds;

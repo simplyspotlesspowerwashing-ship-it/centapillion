@@ -26,7 +26,7 @@ A daily rarity-trivia game. It plays like krillion.io, but you tunnel down throu
 - One daily dig per day. Closing the page doesn't stop the round timer.
 - **Archive:** replay any past day. Doesn't count toward your streak; replays keep your best.
 - **Unlimited:** numbered digs (∞1, ∞2, …) you can replay; a dig log shows your best on each.
-- **Category digs:** after the daily, "keep digging" offers eight categories (Geography, Animals & Nature, Food & Drink, Movies TV & Music, Sports & Games, Science & the Body, History & Culture, Everyday Things). Each category has one set of 7 prompts per day, like the daily, and never repeats that day's daily prompts; the next set unlocks at midnight. Categories are listed in `js/categories.js`; every prompt belongs to exactly one.
+- **Category digs:** after the daily, "keep digging" offers eight categories (Geography, Animals & Nature, Food & Drink, Movies & TV, Music, Sports & Games, History & Myth, Words & Things). Each category has one set of 7 prompts per day, like the daily, and never repeats that day's daily prompts; the next set unlocks at midnight. Categories are listed in `js/categories.js`; every prompt belongs to exactly one.
 - **Didn't count:** the results screen lists any answers that were rejected in that game, with a copy button, so missing answers can be reported and added.
 - **Results** (modelled on krillion's): score and depth, a score gauge, "the bearing" (score bands with yours highlighted), copy/share, a dig-log chart (each round's best answer and its rank icon), "the haul" (each round's best answer in its rank colour; tap for the full answer sheet, your answers marked, sortable), and a logbook line.
 - **Diggers:** seven colour variants of the centipede, unlocked by your best daily streak (0, 5, 14, 30, 45, 60, 100 days). Tap the digger to poke it.
@@ -34,9 +34,9 @@ A daily rarity-trivia game. It plays like krillion.io, but you tunnel down throu
 
 ## Questions and answers
 
-153 prompts. Each has a hand-curated answer list (`js/data.js` to `js/data7.js`) plus generated extra answers (`js/data-extra.js`), about **180,000 accepted answers** in all. Each prompt is ranked as a pyramid: a hand-picked handful of Topsoil and Too Clever answers, Burrower for the next ~6% (at most 60), Rare for the next half, Deep Cut for the rest. 26 prompts have over 1,000 accepted answers; closed sets (states, presidents, NFL teams, books of the Bible) are complete.
+177 prompts. Each has a hand-curated answer list (`js/data.js` to `js/data8.js`) plus generated answers (`js/answers/<prompt>.js`, loaded only for the prompts being played), about **300,000 accepted answers** in all.
 
-A prompt is kept only if anyone can name a few answers instantly, it has a long tail of real answers, validity is a fact rather than a judgment call, and it isn't a word puzzle. Prompts that failed this (rhymes, "-ology" words, phobias, "something yellow", "a nocturnal animal", cities in Texas, cloud types and similar) were replaced with broad ones such as countries, U.S. states and cities, world capitals, animals, colors, athletes, authors, singers, actors, NFL/NBA teams, soccer clubs, Beatles and Taylor Swift songs, car models and fashion brands.
+Prompts are specific, Krillion-style: "Name a Tom Hanks movie", "Name a Roman emperor", "Name a Queen song", "Name a London Underground station", "Name a terrier breed". A specific prompt has a finite answer set that can be checked completely, which a broad one ("Name an animal") never can. A prompt is kept only if anyone can name a few answers instantly, it has a long tail of real answers, and whether an answer counts is a fact.
 
 ### How answers are built (modelled on Krillion's process)
 

@@ -1,0 +1,3873 @@
+[
+[
+"Los Angeles",
+280,
+[
+"City of Angels",
+"City of Los Angeles",
+"Double Dubuque",
+"LA, California",
+"La La Land",
+"Los Angeles, CA",
+"Pink City",
+"The town of Our Lady the Queen of the Angels of the Little Portion",
+"Tinsel Town"
+]
+],
+[
+"San Francisco",
+239,
+[
+"Baghdad by the Bay",
+"City and County of San Francisco",
+"Frisco",
+"Paris of the West",
+"San Fran",
+"San Francisco, CA",
+"San Francisco, Calif.",
+"San Francisco, California",
+"San Francisco County",
+"San Francisco County, California",
+"SF",
+"SFO",
+"The City by the Bay",
+"The Golden City"
+]
+],
+[
+"Sacramento",
+177,
+[
+"Camellia City",
+"City of Sacramento",
+"City of Trees",
+"River City",
+"Sac",
+"Sacramento, CA",
+"Sacramento, California",
+"Sac-Town",
+"The Big Tomato",
+"The Capitol City",
+"The Indomitable City"
+]
+],
+[
+"San Diego",
+164,
+[
+"America's Finest City",
+"Sandi",
+"San Diego, CA",
+"San Diego, Calif.",
+"San Diego, California",
+"SD",
+"the birthplace of California"
+]
+],
+[
+"San Jose",
+151,
+[
+"City of San Jose",
+"City of San José",
+"Pueblo de San Jose de Guadalupe",
+"Pueblo de San José de Guadalupe",
+"San José",
+"San Jose, CA",
+"San José, CA",
+"San Jose, California",
+"San José, California"
+]
+],
+[
+"Oakland",
+131,
+[
+"City of Oakland",
+"Oakland, CA",
+"Oakland, California",
+"Oaktown"
+]
+],
+[
+"Fresno",
+120,
+[
+"Fresno, CA",
+"Fresno, California"
+]
+],
+[
+"Long Beach",
+113,
+[
+"Long Beach, CA",
+"Long Beach, California"
+]
+],
+[
+"Anaheim",
+112,
+[
+"Anaheim, CA",
+"Anaheim, California"
+]
+],
+[
+"Beverly Hills",
+106,
+[
+"Beverly Hills, CA",
+"Beverly Hills, California",
+"City of Beverly Hills"
+]
+],
+[
+"Santa Monica",
+104,
+[
+"Santa Monica, CA",
+"Santa Monica, California"
+]
+],
+[
+"Santa Barbara",
+103,
+[
+"Santa Barbara, CA",
+"Santa Barbara, Calif.",
+"Santa Barbara, California"
+]
+],
+[
+"Bakersfield",
+103,
+[
+"Bakersfield, CA",
+"Bakersfield, California"
+]
+],
+[
+"Pasadena",
+101,
+[
+"Pasadena, CA",
+"Pasadena, California"
+]
+],
+[
+"Berkeley",
+100,
+[
+"Berkeley, CA",
+"Berkeley, California",
+"Bkly",
+"BURK"
+]
+],
+[
+"Palo Alto",
+98,
+[
+"Palo Alto, CA",
+"Palo Alto, California"
+]
+],
+[
+"Santa Ana",
+97,
+[
+"Santa Ana, CA",
+"Santa Ana, California"
+]
+],
+[
+"Burbank",
+92,
+[
+"Burbank, CA",
+"Burbank, California"
+]
+],
+[
+"Riverside",
+92,
+[
+"City of Riverside",
+"Riverside, CA",
+"Riverside, California"
+]
+],
+[
+"Glendale",
+88,
+[
+"Glendale, CA",
+"Glendale, California",
+"Glendale, California, USA",
+"Glendale, Los Angeles County, California"
+]
+],
+[
+"San Bernardino",
+88,
+[
+"San Bernardino, CA",
+"San Bernardino, California"
+]
+],
+[
+"Cupertino",
+85,
+[
+"City of Cupertino",
+"Cupertino, CA",
+"Cupertino, California"
+]
+],
+[
+"Santa Clara",
+84,
+[
+"Santa Clara, CA",
+"Santa Clara, California"
+]
+],
+[
+"Malibu",
+84,
+[
+"City of Malibu",
+"Malibu, CA",
+"Malibu, California"
+]
+],
+[
+"Stockton",
+84,
+[
+"Stockton, CA",
+"Stockton, California"
+]
+],
+[
+"Palm Springs",
+83,
+[
+"Palm City",
+"Palm Springs, CA",
+"Palm Springs, California"
+]
+],
+[
+"Fremont",
+82,
+[
+"Freemont, California",
+"Fremont, CA",
+"Fremont, California"
+]
+],
+[
+"Irvine",
+81,
+[
+"City of Irvine",
+"Irvine, CA",
+"Irvine, California"
+]
+],
+[
+"Modesto",
+78,
+[
+"City of Modesto",
+"Modesto, CA",
+"Modesto, California"
+]
+],
+[
+"Mountain View",
+77,
+[
+"Mountain View, CA",
+"Mountain View, California"
+]
+],
+[
+"Salinas",
+76,
+[
+"Salinas, CA",
+"Salinas, California"
+]
+],
+[
+"Monterey",
+75,
+[
+"City of Monterey",
+"Monterey, CA",
+"Monterey, Calif.",
+"Monterey, California"
+]
+],
+[
+"Chula Vista",
+75,
+[
+"Chula Vista, CA",
+"Chula Vista, California"
+]
+],
+[
+"Inglewood",
+75,
+[
+"Inglewood, CA",
+"Inglewood, California"
+]
+],
+[
+"Huntington Beach",
+74,
+[
+"Huntington Beach, CA",
+"Huntington Beach, California"
+]
+],
+[
+"Oxnard",
+73,
+[
+"Oxnard, CA",
+"Oxnard, California"
+]
+],
+[
+"Santa Cruz",
+72,
+[
+"Santa Cruz, CA",
+"Santa Cruz, California"
+]
+],
+[
+"Santa Rosa",
+71,
+[
+"Santa Rosa, CA",
+"Santa Rosa, California"
+]
+],
+[
+"Oceanside",
+71,
+[
+"Oceanside, CA",
+"Oceanside, California",
+"Oceanside, USA"
+]
+],
+[
+"Sunnyvale",
+70,
+[
+"City of Sunnyvale",
+"Sunnyvale, CA",
+"Sunnyvale, California"
+]
+],
+[
+"Eureka",
+70,
+[
+"Eureka, CA",
+"Eureka, California"
+]
+],
+[
+"Carlsbad",
+70,
+[
+"Carlsbad, CA",
+"Carlsbad, California"
+]
+],
+[
+"Santa Clarita",
+70,
+[
+"City of Santa Clarita",
+"Santa Clarita, CA",
+"Santa Clarita, California"
+]
+],
+[
+"Fontana",
+69,
+[
+"Fontana, CA",
+"Fontana, California"
+]
+],
+[
+"Compton",
+68,
+[
+"City of Compton",
+"Compton, CA",
+"Compton, California"
+]
+],
+[
+"Ontario, California",
+68,
+[
+"Ontario, CA"
+]
+],
+[
+"Torrance",
+68,
+[
+"Torrance, CA",
+"Torrance, California"
+]
+],
+[
+"Hayward",
+68,
+[
+"Hayward, CA",
+"Hayward, California"
+]
+],
+[
+"Corona",
+68,
+[
+"Corona, CA",
+"Corona, California"
+]
+],
+[
+"Menlo Park",
+68,
+[
+"Menlo Park, CA",
+"Menlo Park, California"
+]
+],
+[
+"Pomona",
+67,
+[
+"Pomona, CA",
+"Pomona, California"
+]
+],
+[
+"Ventura",
+67,
+[
+"City of Buenaventura",
+"San Buenaventura",
+"San Buenaventura, California",
+"Ventura, CA",
+"Ventura, California"
+]
+],
+[
+"Visalia",
+67,
+[
+"Visalia, CA",
+"Visalia, California"
+]
+],
+[
+"San Mateo",
+66,
+[
+"City of San Mateo",
+"San Mateo, CA",
+"San Mateo, California",
+"San Mateo City"
+]
+],
+[
+"Newport Beach",
+66,
+[
+"Newport Beach, CA",
+"Newport Beach, California"
+]
+],
+[
+"Alameda",
+66,
+[
+"Alameda, CA",
+"Alameda, California"
+]
+],
+[
+"Palmdale",
+65,
+[
+"Palmdale, CA",
+"Palmdale, California"
+]
+],
+[
+"San Luis Obispo",
+65,
+[
+"San Luis Obispo, CA",
+"San Luis Obispo, California",
+"SLO",
+"SLO, CA"
+]
+],
+[
+"Garden Grove",
+65,
+[
+"Garden Grove, CA",
+"Garden Grove, California"
+]
+],
+[
+"Thousand Oaks",
+64,
+[
+"Thousand Oaks, CA",
+"Thousand Oaks, California"
+]
+],
+[
+"Roseville",
+64,
+[
+"Griders",
+"Junction",
+"Roseville, CA",
+"Roseville, California",
+"Roseville Junction"
+]
+],
+[
+"Moreno Valley",
+64,
+[
+"Moreno Valley, CA",
+"Moreno Valley, California"
+]
+],
+[
+"Fullerton",
+64,
+[
+"Fullerton, CA",
+"Fullerton, California"
+]
+],
+[
+"Rancho Cucamonga",
+64,
+[
+"Rancho Cucamonga, CA",
+"Rancho Cucamonga, California"
+]
+],
+[
+"Livermore",
+63,
+[
+"Livermore, CA",
+"Livermore, California"
+]
+],
+[
+"Vallejo",
+63,
+[
+"Vallejo, CA",
+"Vallejo, California"
+]
+],
+[
+"Simi Valley",
+63,
+[
+"Simi Valley, CA",
+"Simi Valley, California"
+]
+],
+[
+"Concord",
+63,
+[
+"Concord, CA",
+"Concord, California"
+]
+],
+[
+"Culver City",
+63,
+[
+"Culver City, CA",
+"Culver City, California"
+]
+],
+[
+"Victorville",
+63,
+[
+"Victorville, CA",
+"Victorville, California"
+]
+],
+[
+"Claremont",
+63,
+[
+"City of Claremont",
+"Claremont, CA",
+"Claremont, California"
+]
+],
+[
+"Escondido",
+62,
+[
+"Escondido, CA",
+"Escondido, California"
+]
+],
+[
+"Orange",
+62,
+[
+"City of Orange",
+"Orange, CA",
+"Orange, California"
+]
+],
+[
+"Lancaster",
+62,
+[
+"Lancaster, CA",
+"Lancaster, California"
+]
+],
+[
+"West Covina",
+62,
+[
+"West Covina, CA",
+"West Covina, California"
+]
+],
+[
+"Merced",
+62,
+[
+"Merced, CA",
+"Merced, California"
+]
+],
+[
+"Calabasas",
+62,
+[]
+],
+[
+"Elk Grove",
+62,
+[
+"Elk Grove, CA",
+"Elk Grove, California"
+]
+],
+[
+"Fairfield",
+61,
+[
+"Fairfield, CA",
+"Fairfield, California"
+]
+],
+[
+"Chico",
+61,
+[
+"Chico, CA",
+"Chico, California"
+]
+],
+[
+"Carson",
+61,
+[
+"Carson, CA",
+"Carson, California"
+]
+],
+[
+"Antioch",
+61,
+[
+"Antioch, CA",
+"Antioch, California"
+]
+],
+[
+"Napa",
+61,
+[
+"Napa, CA",
+"Napa, California"
+]
+],
+[
+"San Bruno",
+61,
+[
+"San Bruno, CA",
+"San Bruno, California"
+]
+],
+[
+"Laguna Beach",
+60,
+[
+"Laguna Beach, CA",
+"Laguna Beach, California"
+]
+],
+[
+"El Cajon",
+60,
+[
+"El Cajon, CA",
+"El Cajon, California"
+]
+],
+[
+"Yorba Linda",
+60,
+[
+"Yorba Linda, CA",
+"Yorba Linda, California"
+]
+],
+[
+"El Centro",
+60,
+[
+"El Centro, CA",
+"El Centro, California"
+]
+],
+[
+"Costa Mesa",
+60,
+[
+"Costa Mesa, CA",
+"Costa Mesa, California"
+]
+],
+[
+"Redwood City",
+60,
+[
+"Redwood City, CA",
+"Redwood City, California"
+]
+],
+[
+"El Monte",
+60,
+[
+"Elmonte",
+"El Monte, CA",
+"El Monte, California",
+"Monte"
+]
+],
+[
+"Temecula",
+60,
+[
+"Temecula, CA",
+"Temecula, California"
+]
+],
+[
+"Palm Desert",
+59,
+[
+"Palm Desert, CA",
+"Palm Desert, California"
+]
+],
+[
+"Downey",
+59,
+[
+"Downey, CA",
+"Downey, California"
+]
+],
+[
+"Redding",
+59,
+[
+"City of Redding",
+"Redding, CA",
+"Redding, California"
+]
+],
+[
+"Santa Maria",
+59,
+[
+"Santa Maria, CA",
+"Santa Maria, California"
+]
+],
+[
+"Davis",
+59,
+[
+"Davis, CA",
+"Davis, California"
+]
+],
+[
+"Indio",
+59,
+[
+"City of Indio",
+"Indio, CA",
+"Indio, California"
+]
+],
+[
+"Daly City",
+58,
+[
+"Daly",
+"Daly City, CA",
+"Daly City, California"
+]
+],
+[
+"Agoura Hills",
+58,
+[
+"Agoura Hills, CA",
+"Agoura Hills, California"
+]
+],
+[
+"Indian Wells",
+58,
+[
+"Indian Wells, CA",
+"Indian Wells, California"
+]
+],
+[
+"Norwalk",
+58,
+[
+"Norwalk, CA",
+"Norwalk, California"
+]
+],
+[
+"Richmond",
+58,
+[
+"Richmond, CA",
+"Richmond, California"
+]
+],
+[
+"Martinez",
+58,
+[
+"Martinez, CA",
+"Martinez, California"
+]
+],
+[
+"San Rafael",
+58,
+[
+"San Rafael, CA",
+"San Rafael, California"
+]
+],
+[
+"Hawthorne",
+58,
+[
+"Hawthorne, CA",
+"Hawthorne, California"
+]
+],
+[
+"Alhambra",
+58,
+[
+"Alhambra, CA",
+"Alhambra, California"
+]
+],
+[
+"Lakewood",
+58,
+[
+"Lakewood, CA",
+"Lakewood, California"
+]
+],
+[
+"Murrieta",
+58,
+[
+"Murrieta, CA",
+"Murrieta, California"
+]
+],
+[
+"Yuba City",
+57,
+[
+"Yuba City, CA",
+"Yuba City, California"
+]
+],
+[
+"Rialto",
+57,
+[
+"Rialto, CA",
+"Rialto, California"
+]
+],
+[
+"Carmel-by-the-Sea",
+57,
+[
+"Carmel-by-the-Sea, CA",
+"Carmel-by-the-Sea, California",
+"Carmel, CA",
+"Carmel, California"
+]
+],
+[
+"Pleasanton",
+57,
+[
+"Pleasanton, CA",
+"Pleasanton, California"
+]
+],
+[
+"Sausalito",
+57,
+[
+"Sausalito, CA",
+"Sausalito, California"
+]
+],
+[
+"Covina",
+57,
+[
+"Covina, CA",
+"Covina, California"
+]
+],
+[
+"Hanford",
+56,
+[
+"Hanford, CA",
+"Hanford, California"
+]
+],
+[
+"Chino",
+56,
+[
+"Chino, CA",
+"Chino, California"
+]
+],
+[
+"Arcadia",
+56,
+[
+"Arcadia, CA",
+"Arcadia, California"
+]
+],
+[
+"Avalon",
+56,
+[
+"Avalon, CA",
+"Avalon, California"
+]
+],
+[
+"Solvang",
+56,
+[
+"Solvang, CA",
+"Solvang, California"
+]
+],
+[
+"Gilroy",
+56,
+[
+"Gilroy, CA",
+"Gilroy, California"
+]
+],
+[
+"Loma Linda",
+56,
+[
+"Loma Linda, CA",
+"Loma Linda, California",
+"Mound City"
+]
+],
+[
+"Whittier",
+56,
+[
+"Whittier, CA",
+"Whittier, California"
+]
+],
+[
+"Redondo Beach",
+56,
+[
+"Redondo Beach, CA",
+"Redondo Beach, California",
+"Redondo, CA",
+"Redondo, California"
+]
+],
+[
+"San Leandro",
+56,
+[
+"San Leandro, CA",
+"San Leandro, California"
+]
+],
+[
+"Hollister",
+56,
+[
+"Hollister, CA",
+"Hollister, California"
+]
+],
+[
+"Emeryville",
+55,
+[
+"City of Emeryville",
+"Emeryville, CA",
+"Emeryville, California"
+]
+],
+[
+"San Marcos",
+55,
+[
+"San Marcos, CA",
+"San Marcos, California"
+]
+],
+[
+"Mission Viejo",
+55,
+[
+"Mission Viejo, CA",
+"Mission Viejo, California"
+]
+],
+[
+"Rancho Mirage",
+55,
+[
+"Rancho Mirage, CA",
+"Rancho Mirage, California"
+]
+],
+[
+"Manhattan Beach",
+55,
+[
+"Manhattan Beach, CA",
+"Manhattan Beach, California"
+]
+],
+[
+"Arcata",
+55,
+[
+"Arcata, CA",
+"Arcata, California"
+]
+],
+[
+"Nevada City",
+55,
+[
+"Nevada City, CA",
+"Nevada City, California"
+]
+],
+[
+"Petaluma",
+55,
+[
+"Petaluma, CA",
+"Petaluma, California"
+]
+],
+[
+"Calexico",
+55,
+[
+"Calexico, CA",
+"Calexico, California"
+]
+],
+[
+"Camarillo",
+55,
+[
+"Camarillo, CA",
+"Camarillo, California"
+]
+],
+[
+"West Hollywood",
+55,
+[
+"WeHo",
+"West Hollywood, CA",
+"West Hollywood, California"
+]
+],
+[
+"Twentynine Palms",
+55,
+[
+"29 Palms",
+"Twenty-Nine Palms",
+"Twentynine Palms, CA",
+"Twentynine Palms, California"
+]
+],
+[
+"Vacaville",
+55,
+[
+"Vacaville, CA",
+"Vacaville, California"
+]
+],
+[
+"San Marino",
+55,
+[
+"San Marino, CA",
+"San Marino, California"
+]
+],
+[
+"Madera",
+55,
+[
+"Madera, CA",
+"Madera, California"
+]
+],
+[
+"Milpitas",
+55,
+[
+"City of Milpitas",
+"Milpitas, CA",
+"Milpitas, California"
+]
+],
+[
+"Sonoma",
+54,
+[
+"Sonoma, CA",
+"Sonoma, California"
+]
+],
+[
+"Jackson",
+54,
+[
+"Botilleas Spring",
+"Bottle Spring",
+"Jackson, CA",
+"Jackson, California"
+]
+],
+[
+"Walnut Creek",
+54,
+[
+"Walnut Creek, CA",
+"Walnut Creek, California"
+]
+],
+[
+"Encinitas",
+54,
+[
+"Encinitas, CA",
+"Encinitas, California"
+]
+],
+[
+"Red Bluff",
+54,
+[
+"Red Bluff, CA",
+"Red Bluff, California"
+]
+],
+[
+"San Ramon",
+54,
+[
+"San Ramon, CA",
+"San Ramon, California"
+]
+],
+[
+"Susanville",
+54,
+[
+"Susanville, CA",
+"Susanville, California"
+]
+],
+[
+"Montebello",
+54,
+[
+"Montebello, CA",
+"Montebello, California"
+]
+],
+[
+"San Clemente",
+54,
+[
+"San Clemente, CA",
+"San Clemente, California"
+]
+],
+[
+"Lake Forest",
+54,
+[
+"Lake Forest, CA",
+"Lake Forest, California"
+]
+],
+[
+"Auburn",
+54,
+[
+"Auburn, CA",
+"Auburn, California"
+]
+],
+[
+"Diamond Bar",
+54,
+[
+"Diamond Bar, CA",
+"Diamond Bar, California"
+]
+],
+[
+"Hesperia",
+54,
+[
+"Hesperia, CA",
+"Hesperia, California"
+]
+],
+[
+"Bellflower",
+54,
+[
+"Bellflower, CA",
+"Bellflower, California"
+]
+],
+[
+"Hermosa Beach",
+54,
+[
+"Hermosa Beach, CA",
+"Hermosa Beach, California"
+]
+],
+[
+"Oroville",
+54,
+[
+"Oroville, CA",
+"Oroville, California"
+]
+],
+[
+"Novato",
+54,
+[
+"Novato, CA",
+"Novato, California"
+]
+],
+[
+"Lodi",
+54,
+[
+"Lodi, CA",
+"Lodi, California"
+]
+],
+[
+"Los Altos",
+54,
+[
+"Los Altos, CA",
+"Los Altos, California"
+]
+],
+[
+"Clovis",
+53,
+[
+"Clovis, CA",
+"Clovis, California"
+]
+],
+[
+"Barstow",
+53,
+[
+"Barstow, CA",
+"Barstow, California"
+]
+],
+[
+"La Mirada",
+53,
+[
+"La Mirada, CA",
+"La Mirada, California"
+]
+],
+[
+"Cypress",
+53,
+[
+"Cypress, CA",
+"Cypress, California",
+"Cypress, Los Angeles"
+]
+],
+[
+"Redlands",
+53,
+[
+"Redlands, CA",
+"Redlands, California"
+]
+],
+[
+"Ojai",
+53,
+[
+"Ojai, CA",
+"Ojai, California"
+]
+],
+[
+"Buena Park",
+53,
+[
+"Buena Park, CA",
+"Buena Park, California"
+]
+],
+[
+"Union City",
+53,
+[
+"Union City, CA",
+"Union City, California"
+]
+],
+[
+"San Fernando",
+53,
+[
+"San Fernando, CA",
+"San Fernando, California",
+"San Fernando City"
+]
+],
+[
+"Gardena",
+53,
+[
+"Gardena, CA",
+"Gardena, California"
+]
+],
+[
+"La Mesa",
+53,
+[
+"La Mesa, CA",
+"La Mesa, California"
+]
+],
+[
+"Chino Hills",
+53,
+[
+"Chino Hills, CA",
+"Chino Hills, California",
+"City of Chino Hills"
+]
+],
+[
+"San Juan Capistrano",
+53,
+[
+"San Juan Capistrano, CA",
+"San Juan Capistrano, California"
+]
+],
+[
+"Vista",
+53,
+[
+"Vista, CA",
+"Vista, California"
+]
+],
+[
+"Porterville",
+53,
+[
+"City of Porterville",
+"Porterville, CA",
+"Porterville, California"
+]
+],
+[
+"Monterey Park",
+53,
+[
+"Monterey Park, CA",
+"Monterey Park, California"
+]
+],
+[
+"Laguna Niguel",
+53,
+[
+"Laguna Niguel, CA",
+"Laguna Niguel, California"
+]
+],
+[
+"Hemet",
+53,
+[
+"Hemet, CA",
+"Hemet, California"
+]
+],
+[
+"Crescent City",
+52,
+[
+"Crescent City, CA",
+"Crescent City, California"
+]
+],
+[
+"Lafayette",
+52,
+[
+"Lafayette, CA",
+"Lafayette, California"
+]
+],
+[
+"Adelanto",
+52,
+[
+"Adelanto, CA",
+"Adelanto, California"
+]
+],
+[
+"Cerritos",
+52,
+[
+"Cerritos, CA",
+"Cerritos, California",
+"City of Cerritos"
+]
+],
+[
+"Cathedral City",
+52,
+[
+"Cat City",
+"Cathedral City, CA",
+"Cathedral City, California"
+]
+],
+[
+"Seal Beach",
+52,
+[
+"Seal Beach, CA",
+"Seal Beach, California"
+]
+],
+[
+"Dublin",
+52,
+[
+"Dublin, CA",
+"Dublin, California"
+]
+],
+[
+"South Gate",
+52,
+[
+"South Gate, CA",
+"South Gate, California"
+]
+],
+[
+"Glendora",
+52,
+[
+"Glendora, CA",
+"Glendora, California"
+]
+],
+[
+"Pacifica",
+52,
+[
+"Pacifica, CA",
+"Pacifica, California"
+]
+],
+[
+"Saratoga",
+52,
+[
+"Saratoga, CA",
+"Saratoga, California"
+]
+],
+[
+"San Gabriel",
+52,
+[
+"San Gabriel, CA",
+"San Gabriel, California"
+]
+],
+[
+"Orinda",
+51,
+[
+"Orinda, CA",
+"Orinda, California"
+]
+],
+[
+"Pittsburg",
+51,
+[
+"Pittsburg, CA",
+"Pittsburg, California"
+]
+],
+[
+"Brea",
+51,
+[
+"Brea, CA",
+"Brea, California"
+]
+],
+[
+"Alturas",
+51,
+[
+"Alturas, CA",
+"Alturas, California"
+]
+],
+[
+"Poway",
+51,
+[
+"City of Poway",
+"Poway, CA",
+"Poway, California"
+]
+],
+[
+"Carpinteria",
+51,
+[
+"Carpinteria, CA",
+"Carpinteria, California"
+]
+],
+[
+"Willows",
+51,
+[
+"Willows, CA",
+"Willows, California"
+]
+],
+[
+"Belmont",
+51,
+[
+"Belmont, CA",
+"Belmont, California"
+]
+],
+[
+"Ukiah",
+51,
+[
+"Ukiah, CA",
+"Ukiah, California"
+]
+],
+[
+"Woodland",
+51,
+[
+"Woodland, CA",
+"Woodland, California"
+]
+],
+[
+"Fountain Valley",
+51,
+[
+"Fountain Valley, CA",
+"Fountain Valley, California"
+]
+],
+[
+"Mill Valley",
+51,
+[
+"Mill Valley, CA",
+"Mill Valley, California"
+]
+],
+[
+"Brentwood",
+51,
+[
+"Brentwood, CA",
+"Brentwood, California"
+]
+],
+[
+"Needles",
+51,
+[
+"Needles, CA",
+"Needles, California"
+]
+],
+[
+"Newark",
+51,
+[
+"Newark, CA",
+"Newark, California"
+]
+],
+[
+"Tustin",
+51,
+[
+"Tustin, CA",
+"Tustin, California"
+]
+],
+[
+"San Dimas",
+51,
+[
+"San Dimas, CA",
+"San Dimas, California"
+]
+],
+[
+"Placerville",
+51,
+[
+"Dry Diggings",
+"Hangtown",
+"Old Dry Diggings",
+"Placerville, CA",
+"Placerville, California"
+]
+],
+[
+"Oakley",
+51,
+[
+"Oakley, CA",
+"Oakley, California"
+]
+],
+[
+"Marysville",
+51,
+[
+"Marysville, CA",
+"Marysville, California"
+]
+],
+[
+"Sonora",
+51,
+[
+"Sonora, CA",
+"Sonora, California"
+]
+],
+[
+"Perris",
+51,
+[
+"Perris, CA",
+"Perris, California"
+]
+],
+[
+"La Quinta",
+51,
+[
+"La Quinta, CA",
+"La Quinta, California"
+]
+],
+[
+"Half Moon Bay",
+51,
+[
+"Half Moon Bay, CA",
+"Half Moon Bay, California"
+]
+],
+[
+"El Segundo",
+51,
+[
+"El Segundo, CA",
+"El Segundo, California"
+]
+],
+[
+"La Verne",
+51,
+[
+"La Verne, CA",
+"La Verne, California"
+]
+],
+[
+"Foster City",
+51,
+[
+"City of Foster City",
+"Foster City, CA",
+"Foster City, California"
+]
+],
+[
+"La Cañada Flintridge",
+50,
+[
+"La Cañada Flintridge, CA",
+"La Cañada Flintridge, California"
+]
+],
+[
+"Lakeport",
+50,
+[
+"Lakeport, CA",
+"Lakeport, California"
+]
+],
+[
+"San Carlos",
+50,
+[
+"San Carlos, CA",
+"San Carlos, California"
+]
+],
+[
+"Morgan Hill",
+50,
+[
+"Morgan Hill, CA",
+"Morgan Hill, California"
+]
+],
+[
+"Albany",
+50,
+[
+"Albany, CA",
+"Albany, California",
+"Ocean View"
+]
+],
+[
+"Upland",
+50,
+[
+"Upland, CA",
+"Upland, California"
+]
+],
+[
+"Baldwin Park",
+50,
+[
+"Baldwin Park, CA",
+"Baldwin Park, California"
+]
+],
+[
+"Colton",
+50,
+[
+"Colton, CA",
+"Colton, California",
+"Hub City",
+"Hub City, California"
+]
+],
+[
+"Lynwood",
+50,
+[
+"Lynwood, CA",
+"Lynwood, California",
+"Lynwood, USA"
+]
+],
+[
+"Walnut",
+50,
+[
+"Walnut, CA",
+"Walnut, California"
+]
+],
+[
+"Huntington Park",
+50,
+[
+"Huntington Park, CA",
+"Huntington Park, California"
+]
+],
+[
+"South Pasadena",
+50,
+[
+"South Pasadena, CA",
+"South Pasadena, California"
+]
+],
+[
+"Lompoc",
+50,
+[
+"Lompoc, CA",
+"Lompoc, California"
+]
+],
+[
+"Placentia",
+50,
+[
+"Placentia, CA",
+"Placentia, California"
+]
+],
+[
+"Blythe",
+50,
+[
+"Blythe, CA",
+"Blythe, California"
+]
+],
+[
+"Rosemead",
+50,
+[
+"Rosemead, CA",
+"Rosemead, California"
+]
+],
+[
+"Watsonville",
+50,
+[
+"Watsonville, CA",
+"Watsonville, California"
+]
+],
+[
+"Commerce",
+50,
+[
+"City of Commerce",
+"Commerce, CA",
+"Commerce, California"
+]
+],
+[
+"South San Francisco",
+50,
+[
+"South San Fran",
+"South San Francisco, CA",
+"South San Francisco, California",
+"The Industrial City"
+]
+],
+[
+"Duarte",
+50,
+[
+"Duarte, CA",
+"Duarte, California"
+]
+],
+[
+"Coachella",
+50,
+[
+"Coachella, CA",
+"Coachella, California"
+]
+],
+[
+"Aliso Viejo",
+50,
+[
+"Aliso Viejo, CA",
+"Aliso Viejo, California"
+]
+],
+[
+"Tracy",
+50,
+[
+"Tracy, CA",
+"Tracy, California"
+]
+],
+[
+"Folsom",
+50,
+[
+"Folsom, CA",
+"Folsom, California",
+"Granite City"
+]
+],
+[
+"Burlingame",
+50,
+[
+"Burlingame, CA",
+"Burlingame, California"
+]
+],
+[
+"Millbrae",
+49,
+[
+"Millbrae, CA",
+"Millbrae, California"
+]
+],
+[
+"Rancho Palos Verdes",
+49,
+[
+"Rancho Palos Verdes, CA",
+"Rancho Palos Verdes, California"
+]
+],
+[
+"Yreka",
+49,
+[
+"Yreka, CA",
+"Yreka, California"
+]
+],
+[
+"Bell",
+49,
+[
+"Bell, CA",
+"Bell, California"
+]
+],
+[
+"Artesia",
+49,
+[
+"Artesia, CA",
+"Artesia, California"
+]
+],
+[
+"Desert Hot Springs",
+49,
+[
+"Desert Hot Springs, CA",
+"Desert Hot Springs, California"
+]
+],
+[
+"Citrus Heights",
+49,
+[
+"Citrus Heights, CA",
+"Citrus Heights, California"
+]
+],
+[
+"Beaumont",
+49,
+[
+"Beaumont, CA",
+"Beaumont, California"
+]
+],
+[
+"Benicia",
+49,
+[
+"Benicia, CA",
+"Benicia, California"
+]
+],
+[
+"Pico Rivera",
+49,
+[
+"Pico Rivera, CA",
+"Pico Rivera, California"
+]
+],
+[
+"Coronado",
+49,
+[
+"Coronado, CA",
+"Coronado, California"
+]
+],
+[
+"Grass Valley",
+49,
+[
+"Grass Valley, CA",
+"Grass Valley, California"
+]
+],
+[
+"Westminster",
+49,
+[
+"Westminster, CA",
+"Westminster, California"
+]
+],
+[
+"Dana Point",
+49,
+[
+"Dana Point, CA",
+"Dana Point, California"
+]
+],
+[
+"Temple City",
+49,
+[
+"City of Temple City",
+"Temple, California",
+"Temple City, CA",
+"Temple City, California"
+]
+],
+[
+"Monrovia",
+49,
+[
+"Monrovia, CA",
+"Monrovia, California"
+]
+],
+[
+"Paramount",
+49,
+[
+"Paramount, CA",
+"Paramount, California"
+]
+],
+[
+"San Pablo",
+49,
+[
+"San Pablo, CA",
+"San Pablo, California"
+]
+],
+[
+"Rocklin",
+49,
+[
+"Rocklin, CA",
+"Rocklin, California"
+]
+],
+[
+"Lawndale",
+49,
+[
+"Lawndale, CA",
+"Lawndale, California"
+]
+],
+[
+"East Palo Alto",
+49,
+[
+"East Palo Alto, CA",
+"East Palo Alto, California",
+"EPA"
+]
+],
+[
+"Turlock",
+48,
+[
+"Turlock, CA",
+"Turlock, California"
+]
+],
+[
+"Colusa",
+48,
+[
+"Colusa, CA",
+"Colusa, California"
+]
+],
+[
+"Clearlake",
+48,
+[
+"Clearlake, CA",
+"Clearlake, California"
+]
+],
+[
+"National City",
+48,
+[]
+],
+[
+"Westlake Village",
+48,
+[
+"Westlake Village, CA",
+"Westlake Village, California"
+]
+],
+[
+"La Puente",
+48,
+[
+"La Puente, CA",
+"La Puente, California"
+]
+],
+[
+"Piedmont",
+48,
+[
+"Piedmont, CA",
+"Piedmont, California"
+]
+],
+[
+"Morro Bay",
+48,
+[
+"Morro Bay, CA",
+"Morro Bay, California"
+]
+],
+[
+"Del Mar",
+48,
+[
+"Del Mar, CA",
+"Del Mar, California"
+]
+],
+[
+"Maywood",
+48,
+[
+"Maywood, CA",
+"Maywood, California"
+]
+],
+[
+"Azusa",
+48,
+[
+"Azusa, CA",
+"Azusa, California"
+]
+],
+[
+"La Habra",
+48,
+[
+"La Habra, CA",
+"La Habra, California"
+]
+],
+[
+"Lake Elsinore",
+48,
+[
+"Lake Elsinore, CA",
+"Lake Elsinore, California"
+]
+],
+[
+"Cudahy",
+48,
+[
+"Cudahy, CA",
+"Cudahy, California"
+]
+],
+[
+"South Lake Tahoe",
+48,
+[
+"South Lake Tahoe, CA",
+"South Lake Tahoe, California"
+]
+],
+[
+"Goleta",
+48,
+[
+"Goleta, CA",
+"Goleta, California"
+]
+],
+[
+"Lomita",
+48,
+[
+"Lomita, CA",
+"Lomita, California"
+]
+],
+[
+"St. Helena",
+47,
+[
+"Saint Helena",
+"Saint Helena, California",
+"St. Helena, CA",
+"St. Helena, California"
+]
+],
+[
+"Solana Beach",
+47,
+[
+"Solana Beach, CA",
+"Solana Beach, California"
+]
+],
+[
+"Big Bear Lake",
+47,
+[
+"Big Bear Lake, CA",
+"Big Bear Lake, California"
+]
+],
+[
+"Paso Robles",
+47,
+[
+"El Paso de Robles",
+"El Paso de Robles (Paso Robles)",
+"El Paso de Robles (Paso Robles) city",
+"El Paso de Robles (Paso Robles) city, California",
+"Paso Robles, CA",
+"Paso Robles, California",
+"The Pass of the Oaks"
+]
+],
+[
+"Highland",
+47,
+[
+"Highland, CA",
+"Highland, California"
+]
+],
+[
+"Delano",
+47,
+[
+"Delano, CA",
+"Delano, California"
+]
+],
+[
+"Bell Gardens",
+47,
+[
+"Bell Gardens, CA",
+"Bell Gardens, California"
+]
+],
+[
+"Bishop",
+47,
+[
+"Bishop, CA",
+"Bishop, California",
+"Bishop Creek"
+]
+],
+[
+"Montclair",
+47,
+[
+"Montclair, CA",
+"Montclair, California"
+]
+],
+[
+"Ridgecrest",
+47,
+[
+"Ridgecrest, CA",
+"Ridgecrest, California"
+]
+],
+[
+"Hidden Hills",
+47,
+[
+"Hidden Hills, CA",
+"Hidden Hills, California"
+]
+],
+[
+"Santee",
+47,
+[
+"Santee, CA",
+"Santee, California"
+]
+],
+[
+"Hercules",
+47,
+[
+"Hercules, CA",
+"Hercules, California"
+]
+],
+[
+"Palos Verdes Estates",
+47,
+[
+"Palos Verdes Estates, CA",
+"Palos Verdes Estates, California"
+]
+],
+[
+"Norco",
+47,
+[
+"Norco, CA",
+"Norco, California"
+]
+],
+[
+"Moorpark",
+47,
+[
+"Moorpark, CA",
+"Moorpark, California"
+]
+],
+[
+"Stanton",
+47,
+[
+"Stanton, CA",
+"Stanton, California"
+]
+],
+[
+"Oakdale",
+47,
+[
+"Oakdale, CA",
+"Oakdale, California"
+]
+],
+[
+"Marina",
+47,
+[
+"Marina, CA",
+"Marina, California"
+]
+],
+[
+"El Cerrito",
+47,
+[
+"El Cerrito, CA",
+"El Cerrito, California"
+]
+],
+[
+"Pacific Grove",
+46,
+[
+"Pacific Grove, CA",
+"Pacific Grove, California"
+]
+],
+[
+"Guadalupe",
+46,
+[
+"Guadalupe, CA",
+"Guadalupe, California"
+]
+],
+[
+"American Canyon",
+46,
+[
+"American Canyon, CA",
+"American Canyon, California",
+"City of American Canyon (Calif.)"
+]
+],
+[
+"Pismo Beach",
+46,
+[
+"El Pizmo",
+"Pismo",
+"Pismo Beach, CA",
+"Pismo Beach, California"
+]
+],
+[
+"Fort Bragg",
+46,
+[
+"City of Fort Bragg",
+"Fort Bragg, CA",
+"Fort Bragg, California",
+"Ft. Bragg"
+]
+],
+[
+"Yucaipa",
+46,
+[
+"Yucaipa, CA",
+"Yucaipa, California"
+]
+],
+[
+"Tulare",
+46,
+[
+"Tulare, CA",
+"Tulare, California"
+]
+],
+[
+"Atascadero",
+46,
+[
+"Atascadero, CA",
+"Atascadero, California"
+]
+],
+[
+"Arvin",
+46,
+[
+"Arvin, CA",
+"Arvin, California"
+]
+],
+[
+"Imperial Beach",
+46,
+[
+"City of Imperial Beach",
+"Imperial Beach, CA",
+"Imperial Beach, California"
+]
+],
+[
+"Vernon",
+46,
+[
+"Vernon, CA",
+"Vernon, California"
+]
+],
+[
+"Santa Fe Springs",
+46,
+[
+"City of Santa Fe Springs",
+"Santa Fe Springs, CA",
+"Santa Fe Springs, California"
+]
+],
+[
+"Los Alamitos",
+46,
+[
+"Los Alamitos, CA",
+"Los Alamitos, California"
+]
+],
+[
+"Clayton",
+46,
+[
+"Clayton, CA",
+"Clayton, California",
+"Clayton's",
+"Claytonville"
+]
+],
+[
+"Pleasant Hill",
+46,
+[
+"Pleasant Hill, CA",
+"Pleasant Hill, California"
+]
+],
+[
+"Selma",
+46,
+[
+"Selma, CA",
+"Selma, California"
+]
+],
+[
+"Calistoga",
+46,
+[
+"Calistoga, CA",
+"Calistoga, California"
+]
+],
+[
+"Wasco",
+46,
+[
+"Wasco, CA",
+"Wasco, California"
+]
+],
+[
+"San Jacinto",
+46,
+[
+"City of San Jacinto",
+"Hewitt Town",
+"San Jacinto, CA",
+"San Jacinto, California"
+]
+],
+[
+"Fillmore",
+46,
+[
+"Fillmore, CA",
+"Fillmore, California"
+]
+],
+[
+"Santa Paula",
+46,
+[
+"Santa Paula, CA",
+"Santa Paula, California"
+]
+],
+[
+"Manteca",
+46,
+[
+"Manteca, CA",
+"Manteca, California"
+]
+],
+[
+"Rancho Cordova",
+46,
+[
+"Rancho Cordova, CA",
+"Rancho Cordova, California"
+]
+],
+[
+"Lemoore",
+46,
+[
+"Lemoore, CA",
+"Lemoore, California"
+]
+],
+[
+"Sierra Madre",
+45,
+[
+"Sierra Madre, CA",
+"Sierra Madre, California"
+]
+],
+[
+"Los Banos",
+45,
+[
+"Los Banos, CA",
+"Los Banos, California"
+]
+],
+[
+"Scotts Valley",
+45,
+[
+"City of Scotts Valley",
+"Scotts Valley, CA",
+"Scotts Valley, California"
+]
+],
+[
+"Pinole",
+45,
+[
+"Pinole, CA",
+"Pinole, California"
+]
+],
+[
+"California City",
+45,
+[
+"Cal City",
+"California City, CA",
+"California City, California"
+]
+],
+[
+"Avenal",
+45,
+[
+"Avenal, CA",
+"Avenal, California"
+]
+],
+[
+"Banning",
+45,
+[
+"Banning, CA",
+"Banning, California"
+]
+],
+[
+"Healdsburg",
+45,
+[
+"Healdsburg, CA",
+"Healdsburg, California"
+]
+],
+[
+"Laguna Hills",
+45,
+[
+"Laguna Hills, CA",
+"Laguna Hills, Calif.",
+"Laguna Hills, California"
+]
+],
+[
+"King City",
+45,
+[
+"King City, CA",
+"King City, California"
+]
+],
+[
+"Corcoran",
+45,
+[
+"Corcoran, CA",
+"Corcoran, California"
+]
+],
+[
+"Calipatria",
+45,
+[
+"Calipatria, CA",
+"Calipatria, California"
+]
+],
+[
+"Patterson",
+45,
+[
+"Patterson, CA",
+"Patterson, California"
+]
+],
+[
+"McFarland",
+45,
+[
+"McFarland, CA",
+"McFarland, California"
+]
+],
+[
+"West Sacramento",
+45,
+[
+"City of West Sacramento",
+"West Sac",
+"West Sacramento, CA",
+"West Sacramento, California"
+]
+],
+[
+"Maricopa",
+45,
+[
+"Maricopa, CA",
+"Maricopa, California"
+]
+],
+[
+"Larkspur",
+45,
+[
+"Larkspur, CA",
+"Larkspur, California"
+]
+],
+[
+"Reedley",
+45,
+[
+"Reedley, CA",
+"Reedley, California"
+]
+],
+[
+"Weed",
+45,
+[
+"Weed, CA",
+"Weed, California"
+]
+],
+[
+"Soledad",
+45,
+[
+"Soledad, CA",
+"Soledad, California"
+]
+],
+[
+"Chowchilla",
+45,
+[
+"Chowchilla, CA",
+"Chowchilla, California"
+]
+],
+[
+"Rancho Santa Margarita",
+45,
+[
+"Rancho Santa Margarita, CA",
+"Rancho Santa Margarita, California"
+]
+],
+[
+"Hawaiian Gardens",
+45,
+[
+"Hawaiian Gardens, CA",
+"Hawaiian Gardens, California"
+]
+],
+[
+"Ripon",
+45,
+[
+"Ripon, CA",
+"Ripon, California"
+]
+],
+[
+"Winters",
+45,
+[
+"Winters, CA",
+"Winters, California"
+]
+],
+[
+"Buellton",
+45,
+[
+"Buellton, CA",
+"Buellton, California"
+]
+],
+[
+"La Habra Heights",
+44,
+[
+"La Habra Heights, CA",
+"La Habra Heights, California"
+]
+],
+[
+"Firebaugh",
+44,
+[
+"Firebaugh, CA",
+"Firebaugh, California"
+]
+],
+[
+"Corning",
+44,
+[
+"Corning, CA",
+"Corning, California"
+]
+],
+[
+"Menifee",
+44,
+[
+"Menifee, CA",
+"Menifee, California"
+]
+],
+[
+"Fortuna",
+44,
+[
+"Fortuna, CA",
+"Fortuna, California"
+]
+],
+[
+"Ceres",
+44,
+[
+"Ceres, CA",
+"Ceres, California"
+]
+],
+[
+"Atwater",
+44,
+[
+"Atwater, CA",
+"Atwater, California"
+]
+],
+[
+"Grand Terrace",
+44,
+[
+"Grand Terrace, CA",
+"Grand Terrace, California"
+]
+],
+[
+"Bradbury",
+44,
+[
+"Bradbury, CA",
+"Bradbury, California"
+]
+],
+[
+"Brawley",
+44,
+[
+"Braly",
+"Brawley, CA",
+"Brawley, California"
+]
+],
+[
+"Brisbane",
+44,
+[
+"Brisbane, CA",
+"Brisbane, California",
+"Brisbane, United States",
+"Brisbane, US"
+]
+],
+[
+"City of Industry",
+44,
+[
+"City of Industry, CA",
+"City of Industry, California",
+"Industry, CA",
+"Industry, California"
+]
+],
+[
+"Imperial",
+44,
+[
+"Imperial, CA",
+"Imperial, California"
+]
+],
+[
+"Lemon Grove",
+44,
+[
+"Lemon Grove, CA",
+"Lemon Grove, California"
+]
+],
+[
+"Rolling Hills Estates",
+44,
+[
+"Rolling Hills Estates, CA",
+"Rolling Hills Estates, California"
+]
+],
+[
+"Dorris",
+44,
+[
+"Dorris, CA",
+"Dorris, California"
+]
+],
+[
+"Greenfield",
+44,
+[
+"Clarke Colony",
+"Greenfield, CA",
+"Greenfield, California"
+]
+],
+[
+"South El Monte",
+44,
+[
+"South El Monte, CA",
+"South El Monte, California"
+]
+],
+[
+"Port Hueneme",
+44,
+[
+"Port Hueneme, CA",
+"Port Hueneme, California"
+]
+],
+[
+"Irwindale",
+44,
+[
+"Irwindale, CA",
+"Irwindale, California"
+]
+],
+[
+"Rio Vista",
+44,
+[
+"Rio Vista, CA",
+"Rio Vista, California"
+]
+],
+[
+"Galt",
+44,
+[
+"Galt, CA",
+"Galt, California"
+]
+],
+[
+"Signal Hill",
+44,
+[
+"Signal Hill, CA",
+"Signal Hill, California"
+]
+],
+[
+"Rohnert Park",
+44,
+[
+"Rohnert Park, CA",
+"Rohnert Park, California"
+]
+],
+[
+"Seaside",
+44,
+[
+"Seaside, CA",
+"Seaside, California"
+]
+],
+[
+"Dinuba",
+44,
+[
+"Dinuba, CA",
+"Dinuba, California",
+"Sibleyville"
+]
+],
+[
+"Riverbank",
+43,
+[
+"Riverbank, CA",
+"Riverbank, California"
+]
+],
+[
+"Sutter Creek",
+43,
+[
+"Sutter Creek, CA",
+"Sutter Creek, California"
+]
+],
+[
+"Cotati",
+43,
+[
+"Cotati, CA",
+"Cotati, California"
+]
+],
+[
+"Villa Park",
+43,
+[
+"Villa Park, CA",
+"Villa Park, California"
+]
+],
+[
+"Trinidad",
+43,
+[
+"Trinidad, CA",
+"Trinidad, California"
+]
+],
+[
+"Gustine",
+43,
+[
+"Gustine, CA",
+"Gustine, California"
+]
+],
+[
+"Ferndale",
+43,
+[
+"Ferndale, CA",
+"Ferndale, California"
+]
+],
+[
+"La Palma",
+43,
+[
+"La Palma, CA",
+"La Palma, California"
+]
+],
+[
+"Canyon Lake",
+43,
+[
+"Canyon Lake, CA",
+"Canyon Lake, California"
+]
+],
+[
+"Kingsburg",
+43,
+[
+"Kingsburg, CA",
+"Kingsburg, California"
+]
+],
+[
+"Gonzales",
+43,
+[
+"Gonzales, CA",
+"Gonzales, California"
+]
+],
+[
+"Lincoln",
+43,
+[
+"City of Lincoln",
+"Lincoln, CA",
+"Lincoln, California"
+]
+],
+[
+"Taft",
+43,
+[
+"Taft, CA",
+"Taft, California"
+]
+],
+[
+"Laguna Woods",
+43,
+[
+"Laguna Woods, CA",
+"Laguna Woods, California"
+]
+],
+[
+"Tehachapi",
+43,
+[
+"Tehachapi, CA",
+"Tehachapi, California"
+]
+],
+[
+"Sebastopol",
+43,
+[
+"Sebastopol, CA",
+"Sebastopol, Calif.",
+"Sebastopol, California"
+]
+],
+[
+"Monte Sereno",
+43,
+[
+"Monte Sereno, CA",
+"Monte Sereno, California"
+]
+],
+[
+"Exeter",
+43,
+[
+"Exeter, CA",
+"Exeter, California"
+]
+],
+[
+"Lathrop",
+43,
+[
+"Lathrop, CA",
+"Lathrop, California"
+]
+],
+[
+"Capitola",
+43,
+[
+"Capitola, CA",
+"Capitola, California"
+]
+],
+[
+"Dixon",
+43,
+[
+"Dixon, CA",
+"Dixon, California"
+]
+],
+[
+"Grover Beach",
+43,
+[
+"Grover Beach, CA",
+"Grover Beach, California"
+]
+],
+[
+"Fowler",
+42,
+[
+"Fowler, CA",
+"Fowler, California",
+"Fowler's Switch"
+]
+],
+[
+"Sanger",
+42,
+[
+"Sanger, CA",
+"Sanger, California"
+]
+],
+[
+"Suisun City",
+42,
+[
+"Suisun",
+"Suisun, California",
+"Suisun City, CA",
+"Suisun City, California"
+]
+],
+[
+"Belvedere",
+42,
+[
+"Belvedere, CA",
+"Belvedere, California"
+]
+],
+[
+"Orland",
+42,
+[
+"Orland, CA",
+"Orland, California"
+]
+],
+[
+"Amador City",
+42,
+[
+"Amador City, CA",
+"Amadore's Creek, South Amador"
+]
+],
+[
+"Wildomar",
+42,
+[
+"Wildomar, CA",
+"Wildomar, California"
+]
+],
+[
+"Arroyo Grande",
+42,
+[
+"Arroyo Grande, CA",
+"Arroyo Grande, California"
+]
+],
+[
+"Orange Cove",
+42,
+[
+"Orange Cove, CA",
+"Orange Cove, California"
+]
+],
+[
+"Cloverdale",
+42,
+[
+"Cloverdale, CA",
+"Cloverdale, California"
+]
+],
+[
+"Isleton",
+42,
+[
+"Isleton, CA",
+"Isleton, California"
+]
+],
+[
+"Rolling Hills",
+42,
+[
+"Rolling Hills, CA",
+"Rolling Hills, California"
+]
+],
+[
+"Lindsay",
+42,
+[
+"Lindsay, CA",
+"Lindsay, California"
+]
+],
+[
+"Mendota",
+42,
+[
+"Mendota, CA",
+"Mendota, California"
+]
+],
+[
+"Shafter",
+42,
+[
+"Shafter, CA",
+"Shafter, California"
+]
+],
+[
+"Parlier",
+42,
+[
+"Parlier, CA",
+"Parlier, California"
+]
+],
+[
+"Mount Shasta",
+42,
+[
+"City of Mount Shasta",
+"Mount Shasta, CA",
+"Mount Shasta, California",
+"Mount Shasta City"
+]
+],
+[
+"Plymouth",
+41,
+[
+"Plymouth, CA",
+"Plymouth, California"
+]
+],
+[
+"Angels Camp",
+41,
+[
+"Angels Camp, CA",
+"Angel's Camp, California",
+"Angels Camp, California",
+"City of Angels, California"
+]
+],
+[
+"Huron",
+41,
+[
+"Huron, CA",
+"Huron, California"
+]
+],
+[
+"Williams",
+41,
+[
+"Williams, CA",
+"Williams, California"
+]
+],
+[
+"Hughson",
+41,
+[
+"Hughson, CA",
+"Hughson, California"
+]
+],
+[
+"Anderson",
+41,
+[
+"American Ranch",
+"Anderson, CA",
+"Anderson, California"
+]
+],
+[
+"Etna",
+41,
+[
+"Etna, CA",
+"Etna, California"
+]
+],
+[
+"Holtville",
+41,
+[
+"Holton",
+"Holtville, CA",
+"Holtville, California"
+]
+],
+[
+"Kerman",
+41,
+[
+"Kerman, CA",
+"Kerman, California"
+]
+],
+[
+"Coalinga",
+41,
+[
+"Coalinga, CA",
+"Coaling Station A, Coalingo, Coalinga Station"
+]
+],
+[
+"Livingston",
+41,
+[
+"Livingston, CA",
+"Livingston, California"
+]
+],
+[
+"Dos Palos",
+41,
+[
+"Dos Palos, CA",
+"Dos Palos, California"
+]
+],
+[
+"San Juan Bautista",
+41,
+[
+"San Juan Bautista, California"
+]
+],
+[
+"Montague",
+40,
+[
+"Montague, CA",
+"Montague, California"
+]
+],
+[
+"Point Arena",
+40,
+[
+"Point Arena, CA",
+"Point Arena, California"
+]
+],
+[
+"Tehama",
+40,
+[
+"Tehama, CA",
+"Tehama, California"
+]
+],
+[
+"Willits",
+40,
+[
+"Willits, CA",
+"Willits, California"
+]
+],
+[
+"Calimesa",
+40,
+[
+"Calimesa, CA",
+"Calimesa, California"
+]
+],
+[
+"Rio Dell",
+40,
+[
+"Rio Dell, CA",
+"Rio Dell, California"
+]
+],
+[
+"Waterford",
+40,
+[
+"Waterford, CA",
+"Waterford, California"
+]
+],
+[
+"Newman",
+40,
+[
+"Newman, CA",
+"Newman, California"
+]
+],
+[
+"Blue Lake",
+40,
+[
+"Blue Lake, CA",
+"Blue Lake, California"
+]
+],
+[
+"Eastvale",
+40,
+[
+"Eastvale, CA",
+"Eastvale, California"
+]
+],
+[
+"Escalon",
+40,
+[
+"Escalon, CA",
+"Escalon, California"
+]
+],
+[
+"Dunsmuir",
+40,
+[
+"Dunsmuir, CA",
+"Dunsmuir, California"
+]
+],
+[
+"Ione",
+40,
+[
+"Ione, CA",
+"Ione, California"
+]
+],
+[
+"Farmersville",
+40,
+[
+"Farmersville, CA",
+"Farmersville, California"
+]
+],
+[
+"Woodlake",
+40,
+[
+"Woodlake, CA",
+"Woodlake, California"
+]
+],
+[
+"Shasta Lake",
+40,
+[
+"CV",
+"Shasta Lake, CA",
+"Shasta Lake, California"
+]
+],
+[
+"San Joaquin",
+39,
+[
+"San Joaquin, CA",
+"San Joaquin, California"
+]
+],
+[
+"Colfax",
+39,
+[
+"Colfax, CA",
+"Colfax, California"
+]
+],
+[
+"Wheatland",
+39,
+[
+"Wheatland, CA",
+"Wheatland, California"
+]
+],
+[
+"Gridley",
+39,
+[
+"Gridley, CA",
+"Gridley, California"
+]
+],
+[
+"Fort Jones",
+39,
+[
+"Fort Jones, CA",
+"Fort Jones, California"
+]
+],
+[
+"Loyalton",
+39,
+[
+"Loyalton, CA",
+"Loyalton, California"
+]
+],
+[
+"Portola",
+38,
+[
+"Portola, CA",
+"Portola, California"
+]
+],
+[
+"Westmorland",
+38,
+[
+"Westmoreland",
+"Westmorland, CA",
+"Westmorland, California"
+]
+],
+[
+"Tulelake",
+38,
+[
+"Tulelake, CA",
+"Tulelake, California"
+]
+],
+[
+"Biggs",
+38,
+[
+"Biggs, CA",
+"Biggs, California",
+"Biggs Station"
+]
+],
+[
+"Del Rey Oaks",
+37,
+[
+"Del Rey Oaks, CA",
+"Del Rey Oaks, California"
+]
+],
+[
+"Sand City",
+37,
+[
+"Sand City, CA",
+"Sand City, California"
+]
+],
+[
+"Live Oak",
+36,
+[
+"Live Oak, CA",
+"Live Oak, California",
+"Live Oak, Sutter County, California"
+]
+],
+[
+"Jurupa Valley",
+35,
+[
+"Jurupa Valley, CA",
+"Jurupa Valley, California"
+]
+],
+[
+"Hacienda Heights",
+33,
+[
+"Hacienda Heights, CA",
+"Hacienda Heights, California"
+]
+],
+[
+"Mountain House",
+22,
+[
+"City of Mountain House",
+"Mountain House, CA",
+"Mountain House, California",
+"Mountain House, San Joaquin County"
+]
+],
+[
+"Kennett",
+2,
+[
+"Kennett, CA",
+"Kennett, California"
+]
+],
+[
+"Willow Glen",
+0,
+[
+"Town of Willow Glen"
+]
+],
+[
+"East San Jose",
+0,
+[
+"East San Jose, California",
+"Town of East San Jose"
+]
+],
+[
+"Alviso",
+0,
+[
+"Alviso, California",
+"Town of Alviso"
+]
+]
+]

@@ -41,7 +41,17 @@ def compact(raw):
     s = re.sub(r"['’`]", "", s)
     s = re.sub(r"[^a-z0-9]+", " ", s).strip()
     s = re.sub(r"^(the|a|an) ", "", s)
+    if " " in s or s in TOKEN_SYNONYMS:
+        s = " ".join(TOKEN_SYNONYMS.get(w, w) for w in s.split(" "))
     return s.replace(" ", "")
+
+
+# Mirrors TOKEN_SYNONYMS in engine.js (shorthands, and number words as digits).
+TOKEN_SYNONYMS = {"st": "saint", "ste": "sainte", "mt": "mount", "mtn": "mountain", "ft": "fort", "n": "and", "vs": "versus", "v": "versus",
+                  "dr": "doctor", "jr": "junior", "sr": "senior", "1st": "first", "2nd": "second", "3rd": "third"}
+for _i, _w in enumerate("zero one two three four five six seven eight nine ten eleven twelve".split()):
+    TOKEN_SYNONYMS[_w] = str(_i)
+    TOKEN_SYNONYMS[_w + ("es" if _w.endswith("x") else "s")] = "%ds" % _i
 
 
 def tier_for(name):
@@ -241,6 +251,8 @@ BLOCK = {
     "vegetable": re.compile(r"^(kimchi|camellia sinensis|sauerkraut|pickle|tea|coffee)$|^(basil|lavender|rosemary|sage|herbs and spice|thyme|mint|oregano|parsley|dill)$"),
     "unit": re.compile(r"^(euro|dollar|pound sterling|yen)$|^(\d+|pi|e|saarland|speed of light.*|sphere|digit|stone age|bronze age|iron age)$"),
     "mushroom": re.compile(r"lichen"),
+    "scotus": re.compile(r"^(bart simpson|homer simpson)$"),
+    "norsegod": re.compile(r"^(test|тест)$"),
     "console": re.compile(r"^(handheld game console|home video game console|video game console|.*series)$"),
     "dessert": re.compile(r"^(carolina|cookie|pudding|cake|pie|sweet|candy)$"),
     "italianfood": re.compile(r"^(cabbage roll|caesar salad|fish and chips)$"),
@@ -288,7 +300,7 @@ def edit1(a, b):
 
 def hand_keys():
     js = r"""
-for (const f of ["data","data2","data3","data4","data5","data6","data7"]) require("./js/"+f+".js");
+for (const f of ["data","data2","data3","data4","data5","data6","data7","data8"]) require("./js/"+f+".js");
 const CP=require("./js/engine.js"),E=CP.engine;const o={};
 for(const p of CP.PROMPTS){const a=E.indexFor(p).answers.filter(x=>!x.extra);
 o[p.id]={q:p.q,keys:a.flatMap(x=>x.keys),gem:a.find(x=>x.tier==="k").keys,
@@ -325,8 +337,10 @@ def stripped(n, generic):
 WIKIDATA = os.path.join(ROOT, "tools", "wikidata")
 
 
-PEOPLE_PROMPTS = {"scientist", "composer", "author", "painter", "musician", "actor", "athlete", "nbaplayer", "president"}
-ANIMAL_PROMPTS = {"mammal", "bird", "fish", "reptile", "amphibian", "snake", "insect", "shark", "whale", "rodent", "primate",
+CLUB_PROMPTS = {"premierleague", "soccerclub"}
+PEOPLE_PROMPTS = {"scientist", "composer", "author", "painter", "musician", "actor", "athlete", "nbaplayer", "president",
+                  "bestactor", "bestactress", "f1driver", "scotus", "firstlady", "romanemperor"}
+ANIMAL_PROMPTS = {"owl", "birdofprey", "butterfly", "terrier", "hound", "chickenbreed", "cattlebreed", "mammal", "bird", "fish", "reptile", "amphibian", "snake", "insect", "shark", "whale", "rodent", "primate",
                   "animal", "seacreature", "wildcat", "dog", "catbreed", "horse"}
 PARTICLES = {"van", "von", "da", "de", "di", "del", "della", "der", "den", "le", "la", "du", "dos", "das", "do", "al", "el", "bin", "ibn", "st.", "saint"}
 SUFFIXES = {"jr.", "jr", "sr.", "sr", "ii", "iii", "iv"}
@@ -367,7 +381,19 @@ COMPOSITE = {
 }
 
 
+# Prompts carved out of a bigger list by name ("Name a terrier breed" from all dog breeds).
+DERIVED = {
+    "terrier": ("dog", re.compile(r"terrier|schnauzer", re.I)),
+    "hound": ("dog", re.compile(r"hound|beagle|harrier|basset|bracke|st[oö]vare|laufhund|sabueso|segugio|galgo|greyhound|whippet|"
+                                r"borzoi|saluki|sloughi|azawakh|podenco|podengo|basenji|coonhound|dachshund|ridgeback|chortai|taigan|"
+                                r"agar|ag[aá]r|scenthound|sighthound|chien d|bleu de gascogne|ari[eé]geois|porcelaine|poitevin", re.I)),
+}
+
+
 def wikidata_items(pid):
+    if pid in DERIVED:
+        src, rx = DERIVED[pid]
+        return [it for it in raw_items(src) if rx.search(it[0]) or any(rx.search(a) for a in (it[2] if len(it) > 2 else []))]
     if pid in COMPOSITE:
         best = {}
         for part in COMPOSITE[pid]:
@@ -448,7 +474,7 @@ def main():
         sys.exit("corpora checkout not found at %s (set CORPORA=...)" % CORPORA)
     hand = hand_keys()
     extra, log = OrderedDict(), []
-    pids = list(OrderedDict.fromkeys(list(SOURCES) + sorted(f[:-5] for f in os.listdir(WIKIDATA) if f.endswith(".json")) + list(COMPOSITE) + sorted(f[:-4] for f in os.listdir(os.path.join(ROOT, "tools", "supplement")) if f.endswith(".txt")) + sorted(hand)))
+    pids = list(OrderedDict.fromkeys(list(SOURCES) + sorted(f[:-5] for f in os.listdir(WIKIDATA) if f.endswith(".json")) + list(COMPOSITE) + list(DERIVED) + sorted(f[:-4] for f in os.listdir(os.path.join(ROOT, "tools", "supplement")) if f.endswith(".txt")) + sorted(hand)))
     if os.environ.get("ONLY"):
         pids = [p for p in pids if p in os.environ["ONLY"].split(",")]
     for pid in pids:
@@ -480,6 +506,11 @@ def main():
                     name = re.sub(r" (?:(?:[A-Z]\.?){2,4}|Club de F[uú]tbol|Football Club|Futebol Clube|Calcio|Club)$", "", name)
             if pid == "fashionbrand":                   # "Lacoste S.A." -> Lacoste
                 name = re.sub(r",? (S\.A\.|SE|AG|Inc\.?|Group|Holdings|Ltd\.?|S\.p\.A\.|GmbH|Co\.|N\.V\.)$", "", name)
+            if pid == "tube":                           # "Waterloo tube station" -> Waterloo
+                name = re.sub(r" (tube|underground|London Underground)? ?station$", "", name, flags=re.I)
+                als = [re.sub(r" (tube|underground)? ?station$", "", a, flags=re.I) for a in als]
+            if re.fullmatch(r"Q\d+", name) or not re.search(r"[A-Za-z]", name):   # no English label, or vandalism
+                dropped["unusable"] += 1; continue
             if pid in ("africa", "asia", "europe", "country"):   # "Kingdom of Denmark" -> Denmark
                 name = re.sub(r"^(Kingdom|Republic|Principality|Grand Duchy|State|Federation|Commonwealth|Sultanate|Emirate) of (the )?", "", name)
                 name = re.sub(r"^People's Republic of ", "", name)
@@ -598,21 +629,54 @@ def main():
                 pool.append((BAND[a["tier"]] + HAND_BONUS + f * 0.5, None, a))
         pool.sort(key=lambda x: (-x[0], x[1] is not None))
 
-        # Players type surnames ("Euler", "van Gogh"): each surname goes to the best-known person who has it.
+        # Short forms of every answer, hand-picked ones included:
+        #  - surnames on people prompts ("Euler", "van Gogh"), to the best-known person with that surname;
+        #  - either half of a colon title ("Love and Thunder", "Captain Toad");
+        #  - club names without their suffix ("Oldham" for Oldham Athletic).
+        used_keys = set(taken) | set(seen)
+        top = [(9.0, None, a) for a in H["answers"] if a["tier"] in ("p", "c")]
+        for i, (f, entry, a) in enumerate(top + pool):
+            full = entry.split("=")[0] if entry is not None else a["name"]
+            shorts = []
+            if ":" in full:
+                head, tail = full.split(":", 1)
+                shorts += [head.strip(), tail.strip()]
+            if pid in CLUB_PROMPTS:
+                m = re.match(r"^(.*?)\s+(Athletic|City|Town|United|Rovers|Wanderers|County|Albion|Hotspur|Rangers|Wednesday|Forest|F\.?C\.?)$", full)
+                if m:
+                    shorts.append(m.group(1))
+            for sh in shorts:
+                kk = compact(sh)
+                if len(kk) < 4 or kk in used_keys or isinstance(kk, str) and wordfreq.zipf_frequency(norm(sh), "en") >= 4.5:
+                    continue
+                used_keys.add(kk)
+                j = i - len(top)
+                if entry is not None and j >= 0:
+                    pool[j] = (pool[j][0], pool[j][1] + "=" + sh, None)
+                    entry = pool[j][1]
+                elif a is not None:
+                    aliases.append(sh + ">" + a["name"])
         if pid in PEOPLE_PROMPTS:
-            used_keys = set(taken) | set(seen)
-            for i, (f, entry, a) in enumerate(pool):
+            famous_n = len(top) + 3 * max(8, min(60, round(len(pool) * 0.06)))
+            for i, (f, entry, a) in enumerate(top + pool):
                 full = entry.split("=")[0] if entry is not None else a["name"]
+                if re.search(r",| of | the ", full):            # "Feodor II of Russia", "Fumihito, Crown Prince"
+                    continue
                 sur = surname(full)
                 if not sur:
                     continue
                 kk = compact(sur)
-                if len(kk) < 2 or kk in used_keys or wordfreq.zipf_frequency(norm(sur), "en") >= 5.0 \
+                zs = wordfreq.zipf_frequency(norm(sur), "en")
+                # an everyday-word surname ("Glass", "Adams") only for the best-known people
+                if zs >= 4.5 and not (a is not None or i < famous_n):
+                    continue
+                if len(kk) < 2 or kk in used_keys or zs >= 5.0 \
                         or any(g.startswith(kk) or kk.startswith(g) for g in gem):
                     continue
                 used_keys.add(kk)
-                if entry is not None:
-                    pool[i] = (f, entry + "=" + sur, None)
+                j = i - len(top)
+                if entry is not None and j >= 0:
+                    pool[j] = (f, pool[j][1] + "=" + sur, None)
                 else:
                     aliases.append(sur + ">" + a["name"])
 

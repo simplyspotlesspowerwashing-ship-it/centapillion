@@ -1,0 +1,2209 @@
+[
+[
+"Miami",
+203,
+[
+"City of Miami",
+"Miami, FL",
+"Miami, Florida",
+"The Magic City"
+]
+],
+[
+"Tallahassee",
+143,
+[
+"Tallahassee, FL",
+"Tallahassee, Florida"
+]
+],
+[
+"Orlando",
+133,
+[
+"City of Orlando",
+"Orlando, FL",
+"Orlando, Fla.",
+"Orlando, Florida",
+"The Beautiful city",
+"Theme Park Capital of the World"
+]
+],
+[
+"Fort Lauderdale",
+106,
+[
+"Fort Lauderdale, FL",
+"Fort Lauderdale, Florida",
+"Ft. Lauderdale",
+"Ft. Lauderdale, Florida"
+]
+],
+[
+"St. Petersburg",
+97,
+[
+"City of St. Petersburg, Florida",
+"Saint Petersburg",
+"St Petersburg",
+"St. Petersburg, FL",
+"St Petersburg, Florida",
+"St. Petersburg, Florida"
+]
+],
+[
+"Key West",
+81,
+[
+"Key West, FL",
+"Key West, Florida"
+]
+],
+[
+"Miami Beach",
+78,
+[
+"Miami Beach, FL",
+"Miami Beach, Florida"
+]
+],
+[
+"St. Augustine",
+78,
+[
+"Saint Augustine",
+"Saint Augustine, FL",
+"Saint Augustine, Florida",
+"St. Augustine, FL",
+"St Augustine, Florida",
+"St. Augustine, Florida"
+]
+],
+[
+"Daytona Beach",
+78,
+[
+"City of Daytona Beach",
+"Daytona Beach, FL",
+"Daytona Beach, Florida"
+]
+],
+[
+"Pensacola",
+76,
+[
+"Pensacola, FL",
+"Pensacola, Fla",
+"Pensacola, Florida"
+]
+],
+[
+"Gainesville",
+76,
+[
+"Gainesville, FL",
+"Gainesville, Florida"
+]
+],
+[
+"West Palm Beach",
+70,
+[
+"West Palm Beach, FL",
+"West Palm Beach, Florida"
+]
+],
+[
+"Clearwater",
+68,
+[
+"City of Clearwater",
+"Clearwater, FL",
+"Clearwater, Florida"
+]
+],
+[
+"Sarasota",
+68,
+[
+"Sarasota, FL",
+"Sarasota, Florida"
+]
+],
+[
+"Hialeah",
+68,
+[
+"Hialeah, FL",
+"Hialeah, Florida"
+]
+],
+[
+"Boca Raton",
+65,
+[
+"Boca Raton, FL",
+"Boca Raton, Florida"
+]
+],
+[
+"Cape Coral",
+64,
+[
+"Cape Coral, FL",
+"Cape Coral, Florida"
+]
+],
+[
+"Hollywood",
+63,
+[
+"Hollywood, FL",
+"Hollywood, Florida"
+]
+],
+[
+"Pompano Beach",
+62,
+[
+"Pompano Beach, FL",
+"Pompano Beach, Florida"
+]
+],
+[
+"Miami Gardens",
+62,
+[
+"Miami Gardens, FL",
+"Miami Gardens, Florida",
+"Miami Gardens, Miami-Dade County, Florida"
+]
+],
+[
+"Port St. Lucie",
+61,
+[
+"Port St. Lucie, FL",
+"Port St. Lucie, Florida",
+"PSL"
+]
+],
+[
+"Naples",
+60,
+[
+"Naples, FL",
+"Naples, Florida"
+]
+],
+[
+"Pembroke Pines",
+59,
+[
+"Pembroke Pines, FL",
+"Pembroke Pines, Florida"
+]
+],
+[
+"Fort Myers",
+59,
+[
+"Fort Myers, FL",
+"Fort Myers, Florida",
+"Ft. Myers",
+"Ft. Myers, Florida"
+]
+],
+[
+"Miramar",
+58,
+[
+"Miramar, FL",
+"Miramar, Florida"
+]
+],
+[
+"Lakeland",
+57,
+[
+"City of Lakeland",
+"Lakeland, FL",
+"Lakeland, Florida"
+]
+],
+[
+"Coral Springs",
+56,
+[
+"Coral Springs, FL",
+"Coral Springs, Florida"
+]
+],
+[
+"Coral Gables",
+54,
+[
+"City of Coral Gables",
+"Coral Gables, FL",
+"Coral Gables, Florida"
+]
+],
+[
+"Palm Bay",
+54,
+[
+"Palm Bay, FL",
+"Palm Bay, Florida"
+]
+],
+[
+"Sunrise",
+53,
+[
+"Sunrise, FL",
+"Sunrise, Florida"
+]
+],
+[
+"Bradenton",
+53,
+[
+"Bradenton, FL",
+"Bradenton, Florida",
+"City of Bradenton"
+]
+],
+[
+"Delray Beach",
+52,
+[
+"City of Delray Beach",
+"Delray Beach, FL",
+"Delray Beach, Florida"
+]
+],
+[
+"Plantation",
+52,
+[
+"Plantation, FL",
+"Plantation, Florida"
+]
+],
+[
+"Cocoa Beach",
+51,
+[
+"Cocoa Beach, FL",
+"Cocoa Beach, Florida"
+]
+],
+[
+"Lauderhill",
+49,
+[
+"City of Lauderhill",
+"Lauderhill, FL",
+"Lauderhill, Florida"
+]
+],
+[
+"Kissimmee",
+49,
+[
+"Kissimmee, FL",
+"Kissimmee, Florida"
+]
+],
+[
+"Panama City",
+49,
+[
+"Panama City, FL",
+"Panama City, Florida"
+]
+],
+[
+"Cape Canaveral",
+49,
+[
+"Cape Canaveral, FL",
+"Cape Canaveral, Florida"
+]
+],
+[
+"Ocala",
+48,
+[
+"Ocala, FL",
+"Ocala, Florida"
+]
+],
+[
+"Largo",
+48,
+[
+"Largo, FL",
+"Largo, Florida"
+]
+],
+[
+"Melbourne",
+48,
+[
+"Melbourne, FL",
+"Melbourne, Florida"
+]
+],
+[
+"Fort Pierce",
+47,
+[
+"Fort Pierce, FL",
+"Fort Pierce, Florida"
+]
+],
+[
+"Deerfield Beach",
+47,
+[
+"Deerfield Beach, FL",
+"Deerfield Beach, Florida"
+]
+],
+[
+"Homestead",
+46,
+[
+"City of Homestead",
+"Homestead, FL",
+"Homestead, Florida"
+]
+],
+[
+"Altamonte Springs",
+46,
+[
+"Altamonte Springs, FL",
+"Altamonte Springs, Florida"
+]
+],
+[
+"Palm Coast",
+46,
+[
+"Palm Coast, FL",
+"Palm Coast, Florida"
+]
+],
+[
+"Boynton Beach",
+46,
+[
+"Boynton Beach, FL",
+"Boynton Beach, Florida"
+]
+],
+[
+"Titusville",
+46,
+[
+"Titusville, FL",
+"Titusville, Florida"
+]
+],
+[
+"Parkland",
+45,
+[
+"City of Parkland",
+"Parkland, FL",
+"Parkland, Florida"
+]
+],
+[
+"Sanford",
+45,
+[
+"Sanford, FL",
+"Sanford, Florida"
+]
+],
+[
+"Bonita Springs",
+45,
+[
+"Bonita Springs, FL",
+"Bonita Springs, Florida"
+]
+],
+[
+"Vero Beach",
+45,
+[
+"Vero Beach, FL",
+"Vero Beach, Florida"
+]
+],
+[
+"Ormond Beach",
+45,
+[
+"Ormond Beach, FL",
+"Ormond Beach, Florida",
+"Ormond, Florida"
+]
+],
+[
+"Palm Beach Gardens",
+45,
+[
+"Palm Beach Gardens, FL",
+"Palm Beach Gardens, Florida"
+]
+],
+[
+"Doral",
+44,
+[
+"Doral, FL",
+"Doral, Florida"
+]
+],
+[
+"Deltona",
+44,
+[
+"Deltona, FL",
+"Deltona, Florida"
+]
+],
+[
+"Rockledge",
+44,
+[
+"Rockledge, FL",
+"Rockledge, Florida"
+]
+],
+[
+"Tamarac",
+44,
+[
+"Tamarac, FL",
+"Tamarac, Florida"
+]
+],
+[
+"Punta Gorda",
+44,
+[
+"Punta Gorda, FL",
+"Punta Gorda, Florida"
+]
+],
+[
+"Palatka",
+44,
+[
+"Palatka, FL",
+"Palatka, Florida"
+]
+],
+[
+"North Miami",
+44,
+[
+"North Miami, FL",
+"North Miami, Florida"
+]
+],
+[
+"Winter Park",
+44,
+[
+"Winter Park, FL",
+"Winter Park, Florida"
+]
+],
+[
+"Stuart",
+44,
+[
+"Stuart, FL",
+"Stuart, Florida"
+]
+],
+[
+"DeLand",
+44,
+[
+"City of Deland",
+"DeLand, FL",
+"DeLand, Florida"
+]
+],
+[
+"Weston",
+44,
+[
+"Weston, FL",
+"Weston, Florida"
+]
+],
+[
+"Winter Haven",
+43,
+[
+"Winter Haven, FL",
+"Winter Haven, Florida"
+]
+],
+[
+"Oviedo",
+43,
+[
+"Oviedo, FL",
+"Oviedo, Florida"
+]
+],
+[
+"Winter Garden",
+43,
+[
+"Winter Garden, FL",
+"Winter Garden, Florida"
+]
+],
+[
+"Florida City",
+43,
+[
+"Florida City, FL",
+"Florida City, Florida"
+]
+],
+[
+"Destin",
+43,
+[
+"City of Destin",
+"Destin, FL",
+"Destin, Florida"
+]
+],
+[
+"Sanibel",
+43,
+[
+"Sanibel, FL",
+"Sanibel, Florida"
+]
+],
+[
+"Tarpon Springs",
+43,
+[
+"Tarpon Springs, FL",
+"Tarpon Springs, Florida"
+]
+],
+[
+"Inverness",
+43,
+[
+"Inverness, FL",
+"Inverness, Florida"
+]
+],
+[
+"Sebring",
+43,
+[
+"Sebring, FL",
+"Sebring, Florida"
+]
+],
+[
+"Cocoa",
+43,
+[
+"Cocoa, FL",
+"Cocoa, Florida"
+]
+],
+[
+"Hallandale Beach",
+43,
+[
+"Hallandale",
+"Hallandale Beach, FL",
+"Hallandale Beach, Florida",
+"Hallandale, FL",
+"Hallandale, Florida"
+]
+],
+[
+"Perry",
+42,
+[
+"Perry, FL",
+"Perry, Florida"
+]
+],
+[
+"Panama City Beach",
+42,
+[
+"Panama City Beach, FL",
+"Panama City Beach (Florida)",
+"Panama City Beach, Florida"
+]
+],
+[
+"Lake Wales",
+42,
+[
+"Lake-Wales",
+"Lake Wales, FL",
+"Lake Wales, Florida"
+]
+],
+[
+"Niceville",
+42,
+[
+"Niceville, FL",
+"Niceville, Florida"
+]
+],
+[
+"Sunny Isles Beach",
+42,
+[
+"Sunny Isles Beach, FL",
+"Sunny Isles Beach, Florida"
+]
+],
+[
+"Trenton",
+42,
+[
+"Trenton, FL",
+"Trenton, Florida"
+]
+],
+[
+"North Port",
+42,
+[
+"North Port, FL",
+"North Port, Florida"
+]
+],
+[
+"Live Oak",
+42,
+[
+"Live Oak, FL",
+"Live Oak, Florida"
+]
+],
+[
+"Springfield",
+42,
+[
+"Springfield, FL",
+"Springfield, Florida"
+]
+],
+[
+"Brooksville",
+42,
+[
+"Brooksville, FL",
+"Brooksville, Florida"
+]
+],
+[
+"Apalachicola",
+42,
+[
+"Apalachicola, FL",
+"Apalachicola, Florida"
+]
+],
+[
+"Apopka",
+42,
+[
+"Apopka, FL",
+"Apopka, Florida"
+]
+],
+[
+"Bartow",
+42,
+[
+"Bartow, FL",
+"Bartow, Florida",
+"City of Bartow"
+]
+],
+[
+"Belle Glade",
+42,
+[
+"Belle Glade, FL",
+"Belle Glade, Florida"
+]
+],
+[
+"Lake Worth Beach",
+42,
+[
+"City of Lake Worth",
+"City of Lake Worth Beach",
+"Lake Worth",
+"Lake Worth Beach, FL",
+"Lake Worth Beach, Florida",
+"Lake Worth, FL",
+"Lake Worth, Florida"
+]
+],
+[
+"Lake City",
+42,
+[
+"Alligator",
+"Alligator Town",
+"Lake City, FL",
+"Lake City, Florida"
+]
+],
+[
+"Port Orange",
+42,
+[
+"Port Orange, FL",
+"Port Orange, Florida"
+]
+],
+[
+"DeFuniak Springs",
+42,
+[
+"DeFuniak Springs, FL",
+"DeFuniak Springs, Florida"
+]
+],
+[
+"Cooper City",
+42,
+[
+"Cooper City, FL",
+"Cooper City, Florida"
+]
+],
+[
+"Indian Harbour Beach",
+42,
+[
+"Indian Harbor Beach",
+"Indian Harbour Beach, FL",
+"Indian Harbour Beach, Florida"
+]
+],
+[
+"Fernandina Beach",
+41,
+[
+"Fernandina Beach, FL",
+"Fernandina Beach, Florida"
+]
+],
+[
+"Pinellas Park",
+41,
+[
+"Pinellas Park, FL",
+"Pinellas Park, Florida"
+]
+],
+[
+"Maitland",
+41,
+[
+"Maitland, FL",
+"Maitland, Florida"
+]
+],
+[
+"Tavares",
+41,
+[
+"Tavares, FL",
+"Tavares, Florida"
+]
+],
+[
+"Ocoee",
+41,
+[
+"Ocoee, FL",
+"Ocoee, Florida"
+]
+],
+[
+"Zephyrhills",
+41,
+[
+"Zephyrhills, FL",
+"Zephyrhills, Florida",
+"Zephyr Hills, Florida"
+]
+],
+[
+"Bonifay",
+41,
+[
+"Bonifay, FL",
+"Bonifay, Florida"
+]
+],
+[
+"New Smyrna Beach",
+41,
+[
+"New Smyrna Beach, FL",
+"New Smyrna Beach, Florida"
+]
+],
+[
+"Clermont",
+41,
+[
+"Clermont, FL",
+"Clermont, Florida"
+]
+],
+[
+"North Lauderdale",
+41,
+[
+"North Lauderdale, FL",
+"North Lauderdale, Florida"
+]
+],
+[
+"Arcadia",
+41,
+[
+"Arcadia, FL",
+"Arcadia, Florida"
+]
+],
+[
+"LaBelle",
+41,
+[
+"LaBelle, FL",
+"LaBelle, Florida"
+]
+],
+[
+"Aventura",
+41,
+[
+"Aventura, FL",
+"Aventura, Florida"
+]
+],
+[
+"Milton",
+41,
+[
+"Milton, FL",
+"Milton, Florida"
+]
+],
+[
+"Oakland Park",
+41,
+[
+"Oakland Park, FL",
+"Oakland Park, Florida"
+]
+],
+[
+"Marco Island",
+41,
+[
+"Marco Island, FL",
+"Marco Island, Florida"
+]
+],
+[
+"Sebastian",
+41,
+[
+"Sebastian, FL",
+"Sebastian, Florida"
+]
+],
+[
+"Dania Beach",
+41,
+[
+"Dania",
+"Dania Beach, FL",
+"Dania Beach, Florida",
+"Dania, Florida"
+]
+],
+[
+"Coconut Creek",
+41,
+[
+"Coconut Creek, FL",
+"Coconut Creek, Florida"
+]
+],
+[
+"North Miami Beach",
+41,
+[
+"North Miami Beach, FL",
+"North Miami Beach, Florida"
+]
+],
+[
+"Casselberry",
+40,
+[
+"Casselberry, FL",
+"Casselberry, Florida"
+]
+],
+[
+"Marianna",
+40,
+[
+"Marianna, FL",
+"Marianna, Florida"
+]
+],
+[
+"Starke",
+40,
+[
+"Starke, FL",
+"Starke, Florida"
+]
+],
+[
+"Satellite Beach",
+40,
+[
+"Satellite Beach, FL",
+"Satellite Beach, Florida"
+]
+],
+[
+"Bushnell",
+40,
+[
+"Bushnell, FL",
+"Bushnell, Florida"
+]
+],
+[
+"Crestview",
+40,
+[
+"Crestview, FL",
+"Crestview, Florida"
+]
+],
+[
+"South Miami",
+40,
+[
+"South Miami, FL",
+"South Miami, Florida"
+]
+],
+[
+"Palmetto",
+40,
+[
+"Palmetto, FL",
+"Palmetto, Florida"
+]
+],
+[
+"Chipley",
+40,
+[
+"Chipley, FL",
+"Chipley, Florida"
+]
+],
+[
+"Blountstown",
+40,
+[
+"Blountstown, FL",
+"Blountstown, Florida"
+]
+],
+[
+"Atlantic Beach",
+40,
+[
+"Atlantic Beach, FL",
+"Atlantic Beach, Florida"
+]
+],
+[
+"Bristol",
+40,
+[
+"Bristol, FL",
+"Bristol, Florida"
+]
+],
+[
+"Okeechobee",
+40,
+[
+"Okeechobee, FL",
+"Okeechobee, Florida"
+]
+],
+[
+"Leesburg",
+40,
+[
+"City of Leesburg",
+"Leesburg, FL",
+"Leesburg, Florida"
+]
+],
+[
+"Safety Harbor",
+40,
+[
+"Safety Harbor, FL",
+"Safety Harbor, Florida"
+]
+],
+[
+"Quincy",
+40,
+[
+"Quincy, FL",
+"Quincy, Florida"
+]
+],
+[
+"New Port Richey",
+40,
+[
+"New Port Richey, FL",
+"New Port Richey, Florida"
+]
+],
+[
+"Orange City",
+40,
+[
+"Orange City, FL",
+"Orange City, Florida"
+]
+],
+[
+"Jacksonville Beach",
+40,
+[
+"Jacksonville Beach, FL",
+"Jacksonville Beach, Florida"
+]
+],
+[
+"Green Cove Springs",
+40,
+[
+"Green Cove Springs, FL",
+"Green Cove Springs, Florida"
+]
+],
+[
+"Marathon",
+40,
+[
+"Marathon, FL",
+"Marathon, Florida"
+]
+],
+[
+"Neptune Beach",
+40,
+[
+"Neptune Beach, FL",
+"Neptune Beach, Florida"
+]
+],
+[
+"Margate",
+40,
+[
+"Margate, FL",
+"Margate, Florida"
+]
+],
+[
+"Lake Mary",
+40,
+[
+"Lake Mary, FL",
+"Lake Mary, Florida"
+]
+],
+[
+"Greenacres",
+40,
+[
+"Greenacres, FL",
+"Greenacres, Florida"
+]
+],
+[
+"Flagler Beach",
+40,
+[
+"Flagler Beach, FL",
+"Flagler Beach, Florida"
+]
+],
+[
+"Riviera Beach",
+40,
+[
+"Riviera Beach, FL",
+"Riviera Beach, Florida"
+]
+],
+[
+"Jasper",
+39,
+[
+"Jasper, FL",
+"Jasper, Florida"
+]
+],
+[
+"Eagle Lake",
+39,
+[
+"Eagle Lake, FL",
+"Eagle Lake, Florida"
+]
+],
+[
+"South Daytona",
+39,
+[
+"South Daytona, FL",
+"South Daytona, Florida"
+]
+],
+[
+"Temple Terrace",
+39,
+[
+"Temple Terrace, FL",
+"Temple Terrace, Florida"
+]
+],
+[
+"Pahokee",
+39,
+[
+"Pahokee, FL",
+"Pahokee, Florida"
+]
+],
+[
+"Gulfport",
+39,
+[
+"Gulfport, FL",
+"Gulfport, Florida"
+]
+],
+[
+"Longwood",
+39,
+[
+"Longwood, FL",
+"Longwood, Florida"
+]
+],
+[
+"Haines City",
+39,
+[
+"Haines City, FL",
+"Haines City, Florida"
+]
+],
+[
+"Seminole",
+39,
+[
+"Seminole, FL",
+"Seminole, Florida"
+]
+],
+[
+"Dade City",
+39,
+[
+"Dade City, FL",
+"Dade City, Florida"
+]
+],
+[
+"West Melbourne",
+39,
+[
+"West Melbourne, FL",
+"West Melbourne, Florida"
+]
+],
+[
+"St. Pete Beach",
+39,
+[
+"St. Pete Beach, FL",
+"St. Pete Beach, Florida"
+]
+],
+[
+"Venice",
+39,
+[
+"Venice, FL",
+"Venice, Florida"
+]
+],
+[
+"Moore Haven",
+39,
+[
+"Moore Haven, FL",
+"Moore Haven, Florida"
+]
+],
+[
+"Auburndale",
+39,
+[
+"Auburndale, FL",
+"Auburndale, Florida"
+]
+],
+[
+"Gulf Breeze",
+39,
+[
+"Gulf Breeze, FL",
+"Gulf Breeze, Florida"
+]
+],
+[
+"Miami Springs",
+39,
+[
+"Miami Springs, FL",
+"Miami Springs, Florida"
+]
+],
+[
+"Opa-locka",
+39,
+[
+"Opa-Locka",
+"Opa-locka, FL",
+"Opa Locka, FL",
+"Opa-locka, Florida",
+"Opa Locka, Florida"
+]
+],
+[
+"St. Cloud",
+39,
+[
+"St. Cloud, FL",
+"St. Cloud, Florida"
+]
+],
+[
+"Fort Walton Beach",
+39,
+[
+"City of Fort Walton Beach",
+"Fort Walton Beach, FL",
+"Fort Walton Beach, Florida",
+"Ft. Walton Beach, Florida"
+]
+],
+[
+"Alachua",
+39,
+[
+"Alachua, FL",
+"Alachua, Florida"
+]
+],
+[
+"Macclenny",
+39,
+[
+"Macclenny, FL",
+"Macclenny, Florida"
+]
+],
+[
+"Wauchula",
+39,
+[
+"Wauchula, FL",
+"Wauchula, Florida"
+]
+],
+[
+"Mount Dora",
+39,
+[
+"Mount Dora, FL",
+"Mount Dora, Florida"
+]
+],
+[
+"Dunedin",
+39,
+[
+"Dunedin, FL",
+"Dunedin, Florida"
+]
+],
+[
+"Lynn Haven",
+39,
+[
+"Lynn Haven, FL",
+"Lynn Haven, Florida"
+]
+],
+[
+"Everglades City",
+39,
+[
+"Everglades City, FL",
+"Everglades City, Florida"
+]
+],
+[
+"Callaway",
+39,
+[
+"Callaway, FL",
+"Callaway, Florida"
+]
+],
+[
+"Mexico Beach",
+39,
+[
+"Mexico Beach, FL",
+"Mexico Beach, Florida"
+]
+],
+[
+"Bunnell",
+38,
+[
+"Bunnell, FL",
+"Bunnell, Florida"
+]
+],
+[
+"Hampton",
+38,
+[
+"Hampton, FL",
+"Hampton, Florida"
+]
+],
+[
+"Plant City",
+38,
+[
+"Plant City, FL",
+"Plant City, Florida"
+]
+],
+[
+"Cedar Key",
+38,
+[
+"Cedar Key, FL",
+"Cedar Key, Florida"
+]
+],
+[
+"Port Richey",
+38,
+[
+"Port Richey, FL",
+"Port Richey, Florida"
+]
+],
+[
+"Madeira Beach",
+38,
+[
+"Madeira Beach, FL",
+"Madeira Beach, Florida"
+]
+],
+[
+"Winter Springs",
+38,
+[
+"Winter Springs, FL",
+"Winter Springs, Florida"
+]
+],
+[
+"Holly Hill",
+38,
+[
+"Holly Hill, FL",
+"Holly Hill, Florida"
+]
+],
+[
+"Crescent City",
+38,
+[
+"Crescent City, FL",
+"Crescent City, Florida"
+]
+],
+[
+"Lake Alfred",
+38,
+[
+"Lake Alfred, FL",
+"Lake Alfred, Florida"
+]
+],
+[
+"Lake Buena Vista",
+38,
+[
+"City of Reedy Creek",
+"Lake Buena Vista, FL",
+"Lake Buena Vista, Florida"
+]
+],
+[
+"St. Marks",
+38,
+[
+"St. Marks, FL",
+"St. Marks, Florida"
+]
+],
+[
+"Monticello",
+38,
+[
+"Monticello, FL",
+"Monticello, Florida"
+]
+],
+[
+"Hialeah Gardens",
+38,
+[
+"Hialeah Gardens, FL",
+"Hialeah Gardens, Florida"
+]
+],
+[
+"Avon Park",
+38,
+[
+"Avon Park, FL",
+"Avon Park, Florida"
+]
+],
+[
+"Clewiston",
+38,
+[
+"Clewiston, FL",
+"Clewiston, Florida"
+]
+],
+[
+"Eustis",
+38,
+[
+"Eustis, FL",
+"Eustis, Florida"
+]
+],
+[
+"Lauderdale Lakes",
+38,
+[
+"Lauderdale Lakes, FL",
+"Lauderdale Lakes, Florida"
+]
+],
+[
+"Crystal River",
+38,
+[
+"Crystal River, FL",
+"Crystal River, Florida"
+]
+],
+[
+"Hawthorne",
+37,
+[]
+],
+[
+"South Pasadena",
+37,
+[
+"South Pasadena, FL",
+"South Pasadena, Florida"
+]
+],
+[
+"St. Augustine Beach",
+37,
+[
+"St. Augustine Beach, FL",
+"St. Augustine Beach, Florida"
+]
+],
+[
+"Freeport",
+37,
+[
+"Freeport, FL",
+"Freeport, Florida"
+]
+],
+[
+"Fanning Springs",
+37,
+[
+"Fanning Springs, FL",
+"Fanning Springs, Florida"
+]
+],
+[
+"Sopchoppy",
+37,
+[
+"Sopchoppy, FL",
+"Sopchoppy, Florida"
+]
+],
+[
+"Minneola",
+37,
+[
+"Minneola, FL",
+"Minneola, Florida"
+]
+],
+[
+"Webster",
+37,
+[
+"Webster, FL",
+"Webster, Florida"
+]
+],
+[
+"Gretna",
+37,
+[
+"Gretna, FL",
+"Gretna, Florida"
+]
+],
+[
+"Coleman",
+37,
+[
+"Coleman, FL",
+"Coleman, Florida"
+]
+],
+[
+"West Miami",
+37,
+[
+"West Miami, FL",
+"West Miami, Florida"
+]
+],
+[
+"Fort Meade",
+37,
+[
+"Fort Meade, FL",
+"Fort Meade, Florida"
+]
+],
+[
+"Fellsmere",
+37,
+[
+"Fellsmere, FL",
+"Fellsmere, Florida"
+]
+],
+[
+"Groveland",
+37,
+[
+"Groveland, FL",
+"Groveland, Florida"
+]
+],
+[
+"Mulberry",
+37,
+[
+"Mulberry, FL",
+"Mulberry, Florida"
+]
+],
+[
+"Belle Isle",
+37,
+[
+"Belle Isle, FL",
+"Belle Isle, Florida"
+]
+],
+[
+"Bowling Green",
+37,
+[
+"Bowling Green, FL",
+"Bowling Green, Florida"
+]
+],
+[
+"Chattahoochee",
+37,
+[
+"Chattahoochee, FL",
+"Chattahoochee, Florida"
+]
+],
+[
+"Carrabelle",
+37,
+[
+"Carrabelle, FL",
+"Carrabelle, Florida"
+]
+],
+[
+"Archer",
+37,
+[
+"Archer, FL",
+"Archer, Florida"
+]
+],
+[
+"Oak Hill",
+37,
+[
+"Oak Hill, FL",
+"Oak Hill, Florida"
+]
+],
+[
+"Wilton Manors",
+37,
+[
+"Wilton Manors, FL",
+"Wilton Manors, Florida"
+]
+],
+[
+"Treasure Island",
+37,
+[
+"Treasure Island, FL",
+"Treasure Island, Florida"
+]
+],
+[
+"Oldsmar",
+37,
+[
+"Oldsmar, FL",
+"Oldsmar, Florida"
+]
+],
+[
+"High Springs",
+37,
+[
+"High Springs, FL",
+"High Springs, Florida"
+]
+],
+[
+"Lighthouse Point",
+37,
+[
+"Lighthouse Point, FL",
+"Lighthouse Point, Florida"
+]
+],
+[
+"Lake Helen",
+36,
+[
+"Lake Helen, FL",
+"Lake Helen, Florida"
+]
+],
+[
+"Davenport",
+36,
+[
+"Davenport, FL",
+"Davenport, Florida"
+]
+],
+[
+"San Antonio",
+36,
+[
+"San Antonio, FL",
+"San Antonio, Florida",
+"San Antonio, USA"
+]
+],
+[
+"South Bay",
+36,
+[
+"South Bay, FL",
+"South Bay, Florida"
+]
+],
+[
+"Parker",
+36,
+[
+"Parker, FL",
+"Parker, Florida"
+]
+],
+[
+"Wildwood",
+36,
+[
+"Wildwood, FL",
+"Wildwood, Florida"
+]
+],
+[
+"Madison",
+36,
+[
+"Madison, FL",
+"Madison, Florida"
+]
+],
+[
+"Umatilla",
+36,
+[
+"Umatilla, FL",
+"Umatilla, Florida"
+]
+],
+[
+"North Bay Village",
+36,
+[
+"North Bay Village, FL",
+"North Bay Village, Florida"
+]
+],
+[
+"DeBary",
+36,
+[
+"DeBary, FL",
+"DeBary, Florida"
+]
+],
+[
+"Mascotte",
+36,
+[
+"Mascotte, FL",
+"Mascotte, Florida"
+]
+],
+[
+"Bay Lake",
+36,
+[
+"Bay Lake, FL",
+"Bay Lake, Florida"
+]
+],
+[
+"Graceville",
+36,
+[
+"Graceville, FL",
+"Graceville, Florida"
+]
+],
+[
+"Vernon",
+36,
+[
+"Vernon, FL",
+"Vernon, Florida"
+]
+],
+[
+"Layton",
+36,
+[
+"Layton, FL",
+"Layton, Florida"
+]
+],
+[
+"Laurel Hill",
+36,
+[
+"Laurel Hill, FL",
+"Laurel Hill, Florida"
+]
+],
+[
+"Chiefland",
+36,
+[
+"Chiefland, FL",
+"Chiefland, Florida"
+]
+],
+[
+"Center Hill",
+36,
+[
+"Center Hill, FL",
+"Center Hill, Florida"
+]
+],
+[
+"Keystone Heights",
+36,
+[
+"Keystone Heights, FL",
+"Keystone Heights, Florida"
+]
+],
+[
+"Fruitland Park",
+36,
+[
+"Fruitland Park, FL",
+"Fruitland Park, Florida"
+]
+],
+[
+"Port St. Joe",
+36,
+[
+"Port Saint Joe",
+"Port St. Joe, FL",
+"Port St. Joe, Florida"
+]
+],
+[
+"Atlantis",
+36,
+[
+"Atlantis, FL",
+"Atlantis, Florida"
+]
+],
+[
+"Belleview",
+36,
+[
+"Belleview, FL",
+"Belleview, Florida"
+]
+],
+[
+"Indian Rocks Beach",
+36,
+[
+"Indian Rocks Beach, FL",
+"Indian Rocks Beach, Florida"
+]
+],
+[
+"Wellington",
+36,
+[
+"Wellington, FL",
+"Wellington, Florida"
+]
+],
+[
+"Key Colony Beach",
+36,
+[
+"Key Colony Beach, FL",
+"Key Colony Beach, Florida"
+]
+],
+[
+"Mary Esther",
+35,
+[
+"Mary Esther, FL",
+"Mary Esther, Florida"
+]
+],
+[
+"Newberry",
+35,
+[
+"Newberry, FL",
+"Newberry, Florida"
+]
+],
+[
+"Wewahitchka",
+35,
+[
+"Wewahitchka, FL",
+"Wewahitchka, Florida"
+]
+],
+[
+"Holmes Beach",
+35,
+[
+"Holmes Beach, FL",
+"Holmes Beach, Florida"
+]
+],
+[
+"Waldo",
+35,
+[
+"Waldo, FL",
+"Waldo, Florida"
+]
+],
+[
+"Frostproof",
+35,
+[
+"Frostproof, FL",
+"Frostproof, Florida"
+]
+],
+[
+"Bradenton Beach",
+35,
+[
+"Bradenton Beach, FL",
+"Bradenton Beach, Florida"
+]
+],
+[
+"Belleair Beach",
+35,
+[
+"Belleair Beach, FL",
+"Belleair Beach, Florida"
+]
+],
+[
+"Lawtey",
+35,
+[
+"Lawtey, FL",
+"Lawtey, Florida"
+]
+],
+[
+"Edgewater",
+35,
+[
+"Edgewater, FL",
+"Edgewater, Volusia County",
+"Edgewater, Volusia County, Florida"
+]
+],
+[
+"Lake Butler",
+35,
+[
+"Lake Butler, FL",
+"Lake Butler, Florida",
+"Lake Butler, Union County, Florida"
+]
+],
+[
+"Jacob City",
+35,
+[
+"Jacob City, FL",
+"Jacob City, Florida"
+]
+],
+[
+"Anna Maria",
+35,
+[
+"Anna Maria, FL",
+"Anna Maria, Florida"
+]
+],
+[
+"Edgewood",
+34,
+[
+"Edgewood, FL",
+"Edgewood, Florida"
+]
+],
+[
+"Belleair Bluffs",
+34,
+[
+"Belleair Bluffs, FL",
+"Belleair Bluffs, Florida"
+]
+],
+[
+"Sweetwater",
+34,
+[
+"Sweetwater, FL",
+"Sweetwater, Florida",
+"Sweetwater, Miami-Dade County, Florida"
+]
+],
+[
+"Daytona Beach Shores",
+34,
+[
+"Daytona Beach Shores, FL",
+"Daytona Beach Shores, Florida"
+]
+],
+[
+"Valparaiso",
+34,
+[
+"City of Valparaiso",
+"Valparaiso, FL",
+"Valparaiso, Florida"
+]
+],
+[
+"Polk City",
+34,
+[
+"Polk City, FL",
+"Polk City, Florida"
+]
+],
+[
+"Williston",
+33,
+[
+"Williston, FL",
+"Williston, Florida"
+]
+],
+[
+"Dunnellon",
+33,
+[
+"Dunnellon, FL",
+"Dunnellon, Florida"
+]
+],
+[
+"West Park",
+33,
+[
+"City of West Park, Florida",
+"West Park, FL",
+"West Park, Florida",
+"W Park, Florida"
+]
+],
+[
+"Weeki Wachee",
+32,
+[
+"Weeki Wachee, FL",
+"Weeki Wachee, Florida"
+]
+],
+[
+"Midway",
+29,
+[
+"Midway, FL",
+"Midway, Gadsden County",
+"Midway, Gadsden County, Florida"
+]
+],
+[
+"Westlake",
+15,
+[
+"Westlake, FL",
+"Westlake, Florida"
+]
+]
+]

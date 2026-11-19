@@ -97,6 +97,45 @@ SPEC = {
     "muscle": kinds("Q7365", min=1, deep=True),
     "joint": kinds("Q9644", min=1, deep=True),
     "spokenlang": {"where": "VALUES ?k { wd:Q34770 wd:Q1288568 wd:Q33742 wd:Q45762 wd:Q33215 wd:Q34228 wd:Q38058796 wd:Q436240 } ?x wdt:P31 ?k ."},  # languages, sign and constructed languages
+    "frenchcheese": {"where": "{ ?x wdt:P279+ wd:Q10943 } UNION { ?x wdt:P31/wdt:P279* wd:Q10943 } ?x wdt:P495 wd:Q142 ."},
+    "butterfly": taxon("Q756153", 0),
+    "birdofprey": {"where": "VALUES ?c { wd:Q21736 wd:Q25370 } ?x wdt:P171+ ?c . ?x wdt:P1843 ?cn . FILTER(lang(?cn) = 'en')", "common": True},
+    "owl": taxon("Q25222", 0),
+    "cattlebreed": {"where": "?x wdt:P31 wd:Q12045585 ."},
+    "chickenbreed": {"where": "?x wdt:P31 wd:Q15304943 ."},
+    "chili": {"where": "{ ?x wdt:P279+ wd:Q165199 } UNION { ?x wdt:P31 wd:Q165199 }"},
+    "apple": {"where": "?x wdt:P31/wdt:P279* wd:Q15731356 ."},
+    "grape": {"where": "?x wdt:P31/wdt:P279* wd:Q958314 ."},
+    "islandnation": {"where": "?x wdt:P31 wd:Q112099 . FILTER NOT EXISTS { ?x wdt:P576 ?e }"},
+    "landlocked": {"where": "?x wdt:P31 wd:Q123480 . FILTER NOT EXISTS { ?x wdt:P576 ?e }"},
+    "floridacity": {"where": "?x wdt:P31/wdt:P279* wd:Q1093829 ; wdt:P131+ wd:Q812 ."},
+    "californiacity": {"where": "?x wdt:P31/wdt:P279* wd:Q1093829 ; wdt:P131+ wd:Q99 ."},
+    "greekisland": {"where": "?x wdt:P31/wdt:P279* wd:Q23442 ; wdt:P17 wd:Q41 ."},
+    "tube": {"where": "?x wdt:P31 wd:Q14562709 ."},
+    "mineral": {"where": "?x wdt:P31 wd:Q12089225 ."},
+    "scotus": {"where": "VALUES ?pos { wd:Q11144 wd:Q11147 } ?x wdt:P39 ?pos ."},
+    "hindugod": {"where": "?x wdt:P31/wdt:P279* wd:Q979507 ."},
+    "norsegod": {"where": "?x wdt:P31/wdt:P279* wd:Q16513881 ."},
+    "egyptgod": {"where": "?x wdt:P31/wdt:P279* wd:Q146083 ."},
+    "pope": {"where": "?x wdt:P39 wd:Q19546 ."},
+    "romanemperor": {"where": "?x wdt:P39 wd:Q842606 ."},
+    "nintendogame": {"where": "?x wdt:P123 wd:Q8093 ; wdt:P31 wd:Q7889 ."},
+    "swplanet": {"where": "?x wdt:P1080 wd:Q19786052 ; wdt:P31/wdt:P279* wd:Q2775969 ."},
+    "xmen": {"where": "?x wdt:P463 wd:Q128452 ."},
+    "avenger": {"where": "?x wdt:P463 wd:Q322646 ."},
+    "bestactress": {"where": "?x wdt:P166 wd:Q103618 ; wdt:P31 wd:Q5 ."},
+    "bestactor": {"where": "?x wdt:P166 wd:Q103916 ; wdt:P31 wd:Q5 ."},
+    "f1driver": {"where": "?x wdt:P106 wd:Q10841764 ."},
+    "stonessong": {"where": "VALUES ?t { wd:Q7366 wd:Q134556 wd:Q105543609 } ?x wdt:P31 ?t ; wdt:P175 wd:Q11036 ."},
+    "madonnasong": {"where": "VALUES ?t { wd:Q7366 wd:Q134556 wd:Q105543609 } ?x wdt:P31 ?t ; wdt:P175 wd:Q1744 ."},
+    "elvissong": {"where": "VALUES ?t { wd:Q7366 wd:Q134556 wd:Q105543609 } ?x wdt:P31 ?t ; wdt:P175 wd:Q303 ."},
+    "mjsong": {"where": "VALUES ?t { wd:Q7366 wd:Q134556 wd:Q105543609 } ?x wdt:P31 ?t ; wdt:P175 wd:Q2831 ."},
+    "queensong": {"where": "VALUES ?t { wd:Q7366 wd:Q134556 wd:Q105543609 } ?x wdt:P31 ?t ; wdt:P175 wd:Q15862 ."},
+    "kingbook": {"where": "?x wdt:P50 wd:Q39829 ; wdt:P31/wdt:P279* wd:Q7725634 ."},
+    "hitchcockfilm": {"where": "?x wdt:P57 wd:Q7374 ; wdt:P31/wdt:P279* wd:Q11424 ."},
+    "spielbergfilm": {"where": "?x wdt:P57 wd:Q8877 ; wdt:P31/wdt:P279* wd:Q11424 ."},
+    "dicapriofilm": {"where": "?x wdt:P161 wd:Q38111 ; wdt:P31/wdt:P279* wd:Q11424 ."},
+    "hanksfilm": {"where": "?x wdt:P161 wd:Q2263 ; wdt:P31/wdt:P279* wd:Q11424 ."},
     "africa": {"where": "?x wdt:P31 wd:Q3624078 ; wdt:P30 wd:Q15 . FILTER NOT EXISTS { ?x wdt:P576 ?end }", "min": 0},
     "asia": {"where": "?x wdt:P31 wd:Q3624078 ; wdt:P30 wd:Q48 . FILTER NOT EXISTS { ?x wdt:P576 ?end }", "min": 0},
     "europe": {"where": "?x wdt:P31 wd:Q3624078 ; wdt:P30 wd:Q46 . FILTER NOT EXISTS { ?x wdt:P576 ?end }", "min": 0},
@@ -118,7 +157,7 @@ SPEC = {
     "texascity": {"where": "?x wdt:P31 wd:Q1093829 ; wdt:P131+ wd:Q1439 .", "min": 6},
     "painter": {"where": "?x wdt:P106 wd:Q1028181 . FILTER EXISTS { ?w wdt:P170 ?x ; wdt:P31 wd:Q3305213 . }", "min": 45},  # has a painting on Wikidata (drops hobbyists)
     "composer": {"where": "?x wdt:P106 wd:Q36834 ; wdt:P569 ?b . FILTER(YEAR(?b) < 1935) FILTER EXISTS { ?w wdt:P86 ?x . } MINUS { ?x wdt:P106 wd:Q177220 } MINUS { ?x wdt:P136 wd:Q8341 } MINUS { ?x wdt:P106 wd:Q2526255 } MINUS { ?x wdt:P106 wd:Q245068 }", "min": 30},  # has a composed work; not singers, jazz, film directors, comedians
-    "scientist": {"where": "?x wdt:P106/wdt:P279* wd:Q901 .", "min": 60},
+    "scientist": {"where": "VALUES ?o { wd:Q169470 wd:Q593644 wd:Q864503 wd:Q170790 wd:Q11063 wd:Q520549 wd:Q350979 wd:Q2374149 wd:Q3126128 wd:Q82594 wd:Q18805 wd:Q6337803 wd:Q16271261 wd:Q1662561 wd:Q2310145 wd:Q3546255 wd:Q205375 wd:Q2919046 wd:Q13570226 } ?x wdt:P106 ?o . MINUS { VALUES ?no { wd:Q82955 wd:Q131524 wd:Q250867 wd:Q42603 wd:Q1028181 } ?x wdt:P106 ?no }"},  # physicists, chemists, biologists, mathematicians, astronomers...; not politicians, entrepreneurs, clergy
     "disney": {"where": "?x wdt:P31 wd:Q11424 ; wdt:P272 wd:Q1047410 .", "min": 0},
     "pixar": {"where": "VALUES ?t { wd:Q11424 wd:Q202866 } ?x wdt:P31 ?t ; wdt:P272 wd:Q127552 .", "min": 0},  # features only
     "bestpicture": {"where": "?x wdt:P31 wd:Q11424 ; wdt:P166 wd:Q102427 .", "min": 0},  # films, not producers
@@ -233,7 +272,7 @@ def sparql(q, tries=3):
 # Popularity floors. Rarity is ranked afterwards, so obscure items stay in the list (they become
 # Deep Cuts) instead of being dropped. Floors remain only where a class is enormous or noisy.
 FLOOR = {
-    "athlete": 20, "author": 20, "musician": 15, "actor": 20, "nbaplayer": 3, "scientist": 30, "painter": 15, "composer": 10,
+    "athlete": 20, "author": 20, "musician": 15, "actor": 20, "nbaplayer": 3, "scientist": 15, "painter": 15, "composer": 10,
     "uscity": 3, "europecity": 10, "italycity": 0, "germanycity": 5, "chinacity": 5, "japancity": 0,
     "river": 4, "lake": 3, "island": 3, "mountain": 4, "bridge": 2, "landmark": 8, "disease": 3,
     "soccerclub": 8, "band": 3, "videogame": 3, "painting": 3, "socialapp": 10, "language": 2, "profession": 3,

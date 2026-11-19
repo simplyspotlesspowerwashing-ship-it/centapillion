@@ -1,0 +1,411 @@
+[
+[
+"Switzerland",
+387,
+[
+"Confoederatio Helvetica",
+"Swiss",
+"Swiss Confederation"
+]
+],
+[
+"Austria",
+372,
+[
+"Republic of Austria"
+]
+],
+[
+"Afghanistan",
+364,
+[
+"Affghanistan",
+"Affghanisthan",
+"Affghaunistan",
+"Afghania",
+"Afghanisthan",
+"Afghaunistan",
+"Afghaunistaun"
+]
+],
+[
+"Belarus",
+360,
+[
+"Belorussia",
+"Bielaruś",
+"Bielorussia",
+"by",
+"Byeloruss",
+"Byelorussia",
+"Republic of Belarus",
+"Respublika Belarus'",
+"Respublika Bielaruś",
+"White Russia",
+"White Ruthenia"
+]
+],
+[
+"Hungary",
+359,
+[]
+],
+[
+"Czech Republic",
+355,
+[
+"Czechia",
+"the Czech Republic"
+]
+],
+[
+"Serbia",
+352,
+[
+"Republic of Serbia",
+"RS"
+]
+],
+[
+"Kazakhstan",
+350,
+[
+"kz",
+"Republic of Kazakhstan",
+"Republic of Qazaqstan"
+]
+],
+[
+"Ethiopia",
+348,
+[
+"et",
+"Federal Democratic Republic of Ethiopia"
+]
+],
+[
+"Vatican City",
+343,
+[
+"Città del Vaticano",
+"Holy See",
+"Papal State",
+"State of Vatican City",
+"Stato della Città del Vaticano",
+"Status Civitatis Vaticanae",
+"The Vatican",
+"Vatican",
+"Vatican City State"
+]
+],
+[
+"Slovakia",
+341,
+[
+"SK",
+"Slovak Republic",
+"SVK"
+]
+],
+[
+"Luxembourg",
+335,
+[
+"Grand Duchy of Luxembourg"
+]
+],
+[
+"Moldova",
+331,
+[
+"Moldavia",
+"Republica Moldova",
+"Republic of Moldova"
+]
+],
+[
+"North Macedonia",
+327,
+[
+"Former Yugoslav Republic of Macedonia",
+"FYR Macedonia",
+"Macedonia",
+"Makedonia",
+"MK",
+"MKD",
+"NM",
+"Republic of Macedonia",
+"Republic of North Macedonia"
+]
+],
+[
+"Nepal",
+325,
+[
+"Bal-bo",
+"Balbo",
+"Balpo",
+"Bal-po'i yul",
+"Balpo-yul",
+"Bal-yul",
+"Federal Democratic Republic of Nepal",
+"Naipál",
+"Naipala",
+"Naipála",
+"Necbal",
+"Nehpal",
+"Nei-pal",
+"Nekbal",
+"Nekpal",
+"Népaal",
+"Nepál",
+"Népál",
+"Nepall",
+"Nepaul",
+"Ne-pel",
+"Nercerri",
+"Niepal",
+"Nipal",
+"Ni-po-lo",
+"Ni-po-louo",
+"Pa-eul-pou",
+"Pai-pou",
+"Paï-pou",
+"Pa-le-pou",
+"Pa-lo-pou",
+"Palpa",
+"Palpou"
+]
+],
+[
+"Mongolia",
+323,
+[
+"Mongol State",
+"State of Mongolia"
+]
+],
+[
+"Kyrgyzstan",
+321,
+[
+"kg",
+"Kyrgyz Republic"
+]
+],
+[
+"Zimbabwe",
+320,
+[
+"Republic of Zimbabwe",
+"Rhodesia",
+"Southern Rhodesia",
+"Zimbabwe Rhodesia"
+]
+],
+[
+"Chad",
+319,
+[
+"CHA",
+"GUM",
+"Republic of Chad",
+"td"
+]
+],
+[
+"Laos",
+317,
+[
+"la",
+"Lao PDR",
+"Lao People's Democratic Republic"
+]
+],
+[
+"Botswana",
+315,
+[
+"bw",
+"Lefatshe la Botswana",
+"Republic of Botswana"
+]
+],
+[
+"San Marino",
+314,
+[
+"Most Serene Republic of San Marino",
+"sm"
+]
+],
+[
+"Bolivia",
+314,
+[
+"Bolivia (Plurinational State of)",
+"Plurinational State of Bolivia",
+"Republic of Bolivia"
+]
+],
+[
+"Uganda",
+312,
+[
+"+256",
+"Ouganda",
+"Pearl of Africa",
+"Republic of Uganda",
+"The Republic of Uganda",
+"ug",
+"Ugandah"
+]
+],
+[
+"Mali",
+312,
+[
+"ml",
+"Republic of Mali"
+]
+],
+[
+"Zambia",
+309,
+[
+"Republic of Zambia",
+"Zed"
+]
+],
+[
+"Burkina Faso",
+309,
+[
+"bf",
+"Republic of Burkina Faso",
+"Republic of Upper Volta (-1984)"
+]
+],
+[
+"Tajikistan",
+308,
+[
+"Republic of Tajikistan",
+"tj"
+]
+],
+[
+"Bhutan",
+306,
+[
+"BHU",
+"Kingdom of Bhutan"
+]
+],
+[
+"Burundi",
+304,
+[
+"bi",
+"Gouvernement du Burundi",
+"Republic of Burundi",
+"Republika y'Uburundi"
+]
+],
+[
+"Niger",
+302,
+[
+"ne",
+"Republic Niger",
+"Republic of Niger",
+"Republic of the Niger",
+"The Niger"
+]
+],
+[
+"Central African Republic",
+302,
+[
+"Central Africa",
+"cf"
+]
+],
+[
+"Turkmenistan",
+299,
+[
+"tm",
+"Turkmenia"
+]
+],
+[
+"Malawi",
+298,
+[
+"MAW",
+"mw",
+"Republic of Malawi"
+]
+],
+[
+"Eswatini",
+287,
+[
+"eSwatini",
+"Kingdom of Swaziland",
+"sz",
+"Umbuso weSwatini"
+]
+],
+[
+"Kosovo",
+285,
+[
+"Republic of Kosovo",
+"RKS"
+]
+],
+[
+"South Sudan",
+283,
+[
+"Republic of South Sudan",
+"Southern Sudan",
+"ss"
+]
+],
+[
+"Lesotho",
+282,
+[
+"Kingdom of Lesotho",
+"LES",
+"ls",
+"The Mountain Kingdom"
+]
+],
+[
+"Transnistria",
+168,
+[
+"Moldavian Republic of Transdniestria",
+"PMR",
+"Pridnestria",
+"Pridnestrovia",
+"Pridnestrovian Moldavian Republic",
+"Pridnestrovie",
+"Republic of Pridnestrovie",
+"Transdniester",
+"Trans-Dniestr",
+"Transdniestria",
+"Transdniestrian Moldavian Republic",
+"Transnistrian Moldavian Republic"
+]
+],
+[
+"Sovereign State of the Bektashi Order",
+30,
+[]
+]
+]

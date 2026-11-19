@@ -1,0 +1,13472 @@
+[
+[
+"Golden Delicious",
+30,
+[]
+],
+[
+"Fuji",
+26,
+[
+"Fuji apple"
+]
+],
+[
+"McIntosh",
+24,
+[
+"McIntosh Red"
+]
+],
+[
+"Gala",
+22,
+[]
+],
+[
+"Jonagold",
+20,
+[
+"N.Y. 43013-1"
+]
+],
+[
+"Red Delicious",
+19,
+[]
+],
+[
+"Jonathan",
+19,
+[]
+],
+[
+"Antonovka",
+18,
+[
+"Possarts Nalivia"
+]
+],
+[
+"Cox's Orange Pippin",
+18,
+[
+"Cox",
+"Cox Orange",
+"Russet Pippin"
+]
+],
+[
+"Idared",
+17,
+[]
+],
+[
+"Belle de Boskoop",
+17,
+[
+"Boskoop"
+]
+],
+[
+"Braeburn",
+15,
+[]
+],
+[
+"White Transparent",
+14,
+[
+"Baltic Sea apple",
+"Bely Naliv"
+]
+],
+[
+"Reinette",
+14,
+[
+"Rennet apple"
+]
+],
+[
+"Cripps Pink",
+13,
+[
+"Pink Lady"
+]
+],
+[
+"Gravenstein",
+13,
+[
+"Grávštýnské",
+"Malus domestica 'Gravenstein'"
+]
+],
+[
+"Jazz",
+13,
+[
+"Jazz apple",
+"Scifresh"
+]
+],
+[
+"Topaz",
+12,
+[]
+],
+[
+"Duchess of Oldenburg",
+11,
+[
+"Charlamowsky"
+]
+],
+[
+"Elstar",
+11,
+[]
+],
+[
+"aport",
+10,
+[]
+],
+[
+"Shampion",
+10,
+[
+"Champion",
+"Šampion"
+]
+],
+[
+"Spartan",
+10,
+[]
+],
+[
+"Mutsu",
+10,
+[
+"Crispin"
+]
+],
+[
+"Honeycrisp",
+10,
+[
+"MN1711"
+]
+],
+[
+"Melba apple",
+10,
+[
+"Melba"
+]
+],
+[
+"Alkmene",
+10,
+[
+"Early Windsor"
+]
+],
+[
+"Ananasrenette",
+10,
+[
+"Ananas Reinette",
+"Ananas Renette"
+]
+],
+[
+"James Grieve",
+10,
+[]
+],
+[
+"Northern Spy",
+9,
+[]
+],
+[
+"Bellflower",
+9,
+[
+"Belle Flavoise",
+"Lincoln Pippin",
+"Linnoeus Pippin",
+"Yellow Bellflower"
+]
+],
+[
+"King of the Pippins",
+9,
+[
+"Golden Winter Pearmain",
+"Reine de Reinettes"
+]
+],
+[
+"Gloster",
+9,
+[
+"Gloster 69"
+]
+],
+[
+"Nonbrowning Arctic Apples",
+9,
+[]
+],
+[
+"Blenheim Orange",
+8,
+[
+"Kempster’s Pippin",
+"Northwick Pippin",
+"Woodstock Pippin"
+]
+],
+[
+"Geheimrat Dr. Oldenburg",
+8,
+[
+"Geheimrat Doktor Oldenburg"
+]
+],
+[
+"Kanzi",
+8,
+[
+"Nicoter"
+]
+],
+[
+"Akane",
+8,
+[
+"Primerouge",
+"Tokyo Rose"
+]
+],
+[
+"Cortland",
+8,
+[]
+],
+[
+"Rambo",
+8,
+[]
+],
+[
+"Adams Pearmain",
+8,
+[
+"Adam's Pearmain",
+"Hanging Pearmain",
+"Matchless",
+"Norfolk Pippin",
+"Norfolk Russet",
+"Rough Pippin"
+]
+],
+[
+"Worcester Pearmain",
+8,
+[]
+],
+[
+"Baumann's Reinette",
+8,
+[
+"Baumanns Reinette"
+]
+],
+[
+"Landsberger Reinette",
+8,
+[
+"Surprise"
+]
+],
+[
+"Ribston Pippin",
+8,
+[]
+],
+[
+"Ralls Janet",
+8,
+[
+"Genet",
+"Geneton",
+"Geniton",
+"Gennetin",
+"Genneting",
+"Ginet",
+"Indiana Janetting",
+"Jefferson Pippin",
+"Jeniton",
+"Jennett",
+"Missouri Janet",
+"Neverfail",
+"Never Fail",
+"Ralls",
+"Ralls Genet",
+"Raule's Genet",
+"Raule's Janet",
+"Raule's Jannating",
+"Raul's Genetting",
+"Rawle's Genet",
+"Rawl's Janet",
+"Red Neverfail",
+"Red Never Fail",
+"Rockremain",
+"Rock Remain",
+"Rock Rimmon",
+"Rockrimmon Rowle's Janet",
+"Royal Janette",
+"Winter Genneting",
+"Winter Jounetting",
+"Yellow Janette"
+]
+],
+[
+"Ingrid Marie",
+8,
+[]
+],
+[
+"Discovery",
+8,
+[]
+],
+[
+"Åkerö",
+8,
+[
+"Akero"
+]
+],
+[
+"Delbarestivale",
+7,
+[
+"Ambassy",
+"Dalili",
+"Delcorf",
+"Delcorf Estivale",
+"D'Estivale",
+"Estivale",
+"Monidel"
+]
+],
+[
+"Glockenapfel",
+7,
+[]
+],
+[
+"Peasgood's Nonsuch",
+7,
+[]
+],
+[
+"Melrose",
+7,
+[]
+],
+[
+"Winter Banana",
+7,
+[]
+],
+[
+"Canada Reinette",
+7,
+[
+"Reinette du Canada"
+]
+],
+[
+"Bramley",
+7,
+[
+"Bramley apple",
+"Bramley's",
+"Bramleys",
+"Bramley's Seedling"
+]
+],
+[
+"Egremont Russet",
+7,
+[]
+],
+[
+"Florina",
+7,
+[]
+],
+[
+"Pinova",
+7,
+[
+"Corail",
+"Piñata",
+"Sonata"
+]
+],
+[
+"Lobo",
+7,
+[]
+],
+[
+"Lord Lambourne",
+7,
+[]
+],
+[
+"Annurca",
+7,
+[]
+],
+[
+"Grimes Golden",
+7,
+[]
+],
+[
+"Redlove Era",
+7,
+[]
+],
+[
+"Karmijn de Sonnaville",
+7,
+[]
+],
+[
+"Api",
+7,
+[]
+],
+[
+"Katy",
+7,
+[
+"Katia",
+"Katie",
+"Katja",
+"Katje"
+]
+],
+[
+"Cameo",
+6,
+[]
+],
+[
+"Cellini",
+6,
+[]
+],
+[
+"Filippa",
+6,
+[]
+],
+[
+"Papirovka",
+6,
+[]
+],
+[
+"Red Astrachan",
+6,
+[
+"Beauty of Wales"
+]
+],
+[
+"Macoun",
+6,
+[]
+],
+[
+"Summerred",
+6,
+[]
+],
+[
+"Cosmic Crisp",
+6,
+[
+"WA 38"
+]
+],
+[
+"Ben Davis",
+6,
+[]
+],
+[
+"Kandil Sinap",
+6,
+[
+"Kandyl' Sinap",
+"Sinap kandille"
+]
+],
+[
+"Kidd's Orange Red",
+6,
+[]
+],
+[
+"Lady Williams",
+6,
+[]
+],
+[
+"Opal",
+6,
+[
+"UEB 32642"
+]
+],
+[
+"Rome",
+6,
+[
+"Gillett's Seedling",
+"Rome apple"
+]
+],
+[
+"Rubin",
+6,
+[]
+],
+[
+"Wagener",
+6,
+[]
+],
+[
+"Golden Noble",
+6,
+[]
+],
+[
+"Laxton's Superb",
+6,
+[]
+],
+[
+"Signe Tillisch",
+6,
+[]
+],
+[
+"Calville Blanc d'Hiver",
+6,
+[
+"White Winter Calville"
+]
+],
+[
+"Transparente de Croncels",
+6,
+[]
+],
+[
+"Wealthy",
+6,
+[]
+],
+[
+"Black Diamond Apple",
+6,
+[]
+],
+[
+"Beauty of Bath",
+6,
+[]
+],
+[
+"Allington Pippin",
+5,
+[]
+],
+[
+"Suntan",
+5,
+[]
+],
+[
+"Clivia",
+5,
+[]
+],
+[
+"Tartu Rose",
+5,
+[]
+],
+[
+"Edelborsdorfer",
+5,
+[]
+],
+[
+"Golden Reinette",
+5,
+[
+"English Pippin"
+]
+],
+[
+"Empire",
+5,
+[]
+],
+[
+"Fiesta",
+5,
+[
+"Red Pippin",
+"T 31/13"
+]
+],
+[
+"Winesap",
+5,
+[]
+],
+[
+"Prinz Albrecht von Preussen",
+5,
+[
+"Albrechtapfel",
+"Albrechtappel",
+"Albrechtsapfel",
+"Prinz Albrecht"
+]
+],
+[
+"Envy",
+5,
+[
+"Scilate"
+]
+],
+[
+"Kaiser Wilhelm",
+5,
+[]
+],
+[
+"Mutterapfel",
+5,
+[
+"Mother"
+]
+],
+[
+"Malus × robusta",
+5,
+[
+"Malus ×robusta",
+"Malus robusta"
+]
+],
+[
+"Gascoyne's Scarlet",
+5,
+[]
+],
+[
+"Ontario",
+5,
+[]
+],
+[
+"Rote Sternrenette",
+5,
+[
+"Reinette Rouge Etoilee"
+]
+],
+[
+"Indo",
+5,
+[]
+],
+[
+"Melon",
+5,
+[]
+],
+[
+"Hawthornden apple",
+5,
+[
+"Hawthornden",
+"Lincolnshire Pippin",
+"Lord Kingston",
+"Old Hawthorndean",
+"Shoreditch White",
+"Wheelers Kernel"
+]
+],
+[
+"Ligol",
+5,
+[]
+],
+[
+"Baldwin apple",
+5,
+[
+"Baldwin",
+"Calville Butter",
+"Felch",
+"Pecker",
+"Woodpecker"
+]
+],
+[
+"Court Pendu Plat",
+5,
+[
+"Court-Pendu rouge",
+"De Graine",
+"Milharenque",
+"Wise Apple",
+"Wollaton Pippin"
+]
+],
+[
+"Ellison's Orange",
+5,
+[
+"Ellison's Orange (McCarroll)"
+]
+],
+[
+"Alexander",
+5,
+[
+"Aport",
+"Aporta",
+"Oporto"
+]
+],
+[
+"Grenadier",
+5,
+[]
+],
+[
+"Liberty",
+5,
+[
+"NY 55140-19"
+]
+],
+[
+"Newtown Pippin",
+5,
+[
+"Albemarle Pippin",
+"Yellow Newtown"
+]
+],
+[
+"Goldrenette Freiherr von Berlepsch",
+5,
+[
+"Berlepsch",
+"Freiherr von Berlepsch"
+]
+],
+[
+"Winston",
+5,
+[
+"Wintercheer",
+"Winter King"
+]
+],
+[
+"Campanino",
+5,
+[]
+],
+[
+"Bogatyr",
+5,
+[]
+],
+[
+"Reinette Simirenko",
+5,
+[]
+],
+[
+"Jamba",
+5,
+[]
+],
+[
+"Ambrosia",
+5,
+[]
+],
+[
+"Arlet",
+5,
+[
+"Swiss Gourmet"
+]
+],
+[
+"Bismarck apple",
+5,
+[
+"Bismarck"
+]
+],
+[
+"Boiken",
+5,
+[]
+],
+[
+"Roja de Beneixama",
+5,
+[]
+],
+[
+"Carola",
+4,
+[
+"Kalco"
+]
+],
+[
+"Cox’s Pomona",
+4,
+[
+"Cox Pomona",
+"Cox's Pomon"
+]
+],
+[
+"Mio",
+4,
+[]
+],
+[
+"Reinette de Champagne",
+4,
+[]
+],
+[
+"Savstaholm",
+4,
+[]
+],
+[
+"Dumelow's Seedling",
+4,
+[
+"Beauty",
+"Belle de Vennes",
+"Doncklaer",
+"Dumelow's Crab",
+"Wellington"
+]
+],
+[
+"Claygate Pearmain",
+4,
+[]
+],
+[
+"Danziger Kantapfel",
+4,
+[]
+],
+[
+"Piros",
+4,
+[]
+],
+[
+"Böhmischer Rosenapfel",
+4,
+[]
+],
+[
+"Weirouge",
+4,
+[
+"Red Moon"
+]
+],
+[
+"Heimeldinger",
+4,
+[]
+],
+[
+"Aurora Golden Gala",
+4,
+[
+"8S6923"
+]
+],
+[
+"Red Autumn Calville",
+4,
+[]
+],
+[
+"Mantet",
+4,
+[]
+],
+[
+"Minister von Hammerstein",
+4,
+[]
+],
+[
+"Margil",
+4,
+[
+"Fail-Me-Never",
+"Herefordshire Margil",
+"Muskat Renette",
+"Never Fail",
+"Small Ribston"
+]
+],
+[
+"Honeygold",
+4,
+[]
+],
+[
+"Anna",
+4,
+[
+"Anna (apple)"
+]
+],
+[
+"Goldspur",
+4,
+[]
+],
+[
+"Pohorka",
+4,
+[]
+],
+[
+"Purpurroter Cousinot",
+4,
+[]
+],
+[
+"Red Pariner",
+4,
+[]
+],
+[
+"Santana",
+4,
+[]
+],
+[
+"Schweizer Orange",
+4,
+[]
+],
+[
+"Zuccalmaglios Renette",
+4,
+[
+"Von Zuccalmaglios Renette"
+]
+],
+[
+"Uttwiler Spätlese",
+4,
+[]
+],
+[
+"Angold",
+4,
+[]
+],
+[
+"Ariane",
+4,
+[]
+],
+[
+"Charles Ross",
+4,
+[]
+],
+[
+"Esopus Spitzenburg",
+4,
+[
+"Aesopus Spitzenburgh"
+]
+],
+[
+"Ginger Gold",
+4,
+[]
+],
+[
+"Golden Orange",
+4,
+[]
+],
+[
+"Haralson",
+4,
+[]
+],
+[
+"Prima",
+4,
+[
+"Co-op2",
+"Coop 2",
+"PR1 1225-100"
+]
+],
+[
+"Rajka",
+4,
+[]
+],
+[
+"Summer Rambour",
+4,
+[]
+],
+[
+"Rhode Island Greening",
+4,
+[]
+],
+[
+"Devonshire Quarrenden",
+4,
+[]
+],
+[
+"Jonadel",
+4,
+[]
+],
+[
+"Ranetka",
+4,
+[]
+],
+[
+"Arkansas Black",
+4,
+[]
+],
+[
+"Dabinett",
+4,
+[
+"Dabinett'"
+]
+],
+[
+"Kingston Black Apple",
+4,
+[]
+],
+[
+"Roxbury Russet",
+4,
+[
+"Boston Russet",
+"Putnam Russet",
+"Sylvan Russet"
+]
+],
+[
+"Berner Rosen",
+4,
+[]
+],
+[
+"Bittenfelder",
+4,
+[]
+],
+[
+"Rheinischer Bohnapfel",
+4,
+[]
+],
+[
+"Rubinette",
+4,
+[]
+],
+[
+"Pilot",
+4,
+[]
+],
+[
+"Reanda",
+3,
+[]
+],
+[
+"Böhmischer Roter Jungfernapfel",
+3,
+[]
+],
+[
+"Alice",
+3,
+[]
+],
+[
+"Aroma",
+3,
+[]
+],
+[
+"Birgit Bonnier",
+3,
+[]
+],
+[
+"Tuscan",
+3,
+[]
+],
+[
+"Greensleeves",
+3,
+[]
+],
+[
+"Gul Richard",
+3,
+[
+"Gelber Richard"
+]
+],
+[
+"Kalmar Glasäpple",
+3,
+[]
+],
+[
+"Kaniker",
+3,
+[]
+],
+[
+"Kim",
+3,
+[]
+],
+[
+"Lane's Prince Albert",
+3,
+[
+"Albert Lanskii"
+]
+],
+[
+"Linda",
+3,
+[]
+],
+[
+"Astrachan Large Fruited",
+3,
+[]
+],
+[
+"Södermanlandsäpple",
+3,
+[
+"Södermanlands äpple"
+]
+],
+[
+"Ökna Lökäpple",
+3,
+[]
+],
+[
+"Ökna Vita Vintergylling",
+3,
+[]
+],
+[
+"Ölands kungsäpple",
+3,
+[]
+],
+[
+"Heuchelheimer Schneeapfel",
+3,
+[]
+],
+[
+"Cludius Borsdorfer",
+3,
+[]
+],
+[
+"Collina",
+3,
+[]
+],
+[
+"Elektra",
+3,
+[]
+],
+[
+"Erwin Baur",
+3,
+[]
+],
+[
+"Zabergau Renette",
+3,
+[
+"Zabergäurenette"
+]
+],
+[
+"Zitronenapfel",
+3,
+[]
+],
+[
+"Finkenwerder",
+3,
+[
+"Finkenwerder Prinz"
+]
+],
+[
+"Geheimrat Breuhahn",
+3,
+[
+"Breuhan"
+]
+],
+[
+"Cromelor",
+3,
+[]
+],
+[
+"Jakob Fischer",
+3,
+[]
+],
+[
+"Glanz-Reinette",
+3,
+[]
+],
+[
+"Remo",
+3,
+[]
+],
+[
+"Elton Beauty",
+3,
+[]
+],
+[
+"Fresco",
+3,
+[
+"CPRO #47",
+"Wellant",
+"Wellants"
+]
+],
+[
+"Potts' Seedling",
+3,
+[]
+],
+[
+"Retina",
+3,
+[]
+],
+[
+"Bashkirskiy Izumrud",
+3,
+[]
+],
+[
+"Bashkirskiy Krasavets",
+3,
+[]
+],
+[
+"Luikenapfel",
+3,
+[]
+],
+[
+"Evelina",
+3,
+[]
+],
+[
+"Knebusch",
+3,
+[]
+],
+[
+"Alfa 68",
+3,
+[]
+],
+[
+"Jonagored",
+3,
+[]
+],
+[
+"Mairac",
+3,
+[]
+],
+[
+"Manks Codlin",
+3,
+[]
+],
+[
+"Dorsett Golden",
+3,
+[]
+],
+[
+"Lady Alice",
+3,
+[]
+],
+[
+"Liveland Raspberry apple",
+3,
+[
+"Liveland Raspberry",
+"Livland Raspberry",
+"Lowland Raspberry",
+"Lowland Raspberry apple"
+]
+],
+[
+"Pacific Rose",
+3,
+[
+"Sciros"
+]
+],
+[
+"Atlas",
+3,
+[]
+],
+[
+"Barry",
+3,
+[]
+],
+[
+"Karmina",
+3,
+[]
+],
+[
+"Paradise apple",
+3,
+[]
+],
+[
+"Splendour",
+3,
+[
+"Starksplendor"
+]
+],
+[
+"Wijcik McIntosh",
+3,
+[
+"McIntosh Wijcik",
+"Wijcik"
+]
+],
+[
+"Wyken Pippin",
+3,
+[]
+],
+[
+"Rheinischer Winterrambur",
+3,
+[]
+],
+[
+"Eiser rouge",
+3,
+[
+"Roter Eiserapfel"
+]
+],
+[
+"Ruhm aus Kirchwerder",
+3,
+[]
+],
+[
+"Tom Putt",
+3,
+[]
+],
+[
+"Cripps Red",
+3,
+[
+"Joya apple",
+"Sundowner apple"
+]
+],
+[
+"White Winter Pearmain",
+3,
+[
+"White Winter Pearmain (Graaff)"
+]
+],
+[
+"Zwiebel Borsdorfer",
+3,
+[]
+],
+[
+"Aia Ilu",
+3,
+[]
+],
+[
+"Rubens",
+3,
+[
+"Civni"
+]
+],
+[
+"Gubener Warraschke",
+3,
+[]
+],
+[
+"Safran",
+3,
+[]
+],
+[
+"Korbinian apple",
+3,
+[]
+],
+[
+"Junami",
+3,
+[]
+],
+[
+"Jacques Lebel",
+3,
+[]
+],
+[
+"Sansa apple",
+3,
+[]
+],
+[
+"Chisel Jersey",
+3,
+[]
+],
+[
+"Horneburger Pfannkuchen",
+3,
+[]
+],
+[
+"Bec d'Oie",
+3,
+[]
+],
+[
+"Delbard Jubilée",
+3,
+[
+"Delgollune"
+]
+],
+[
+"Delicious",
+3,
+[
+"Hawkeye",
+"Stark Delicious"
+]
+],
+[
+"Delrouval",
+3,
+[
+"Cybele Delrouval"
+]
+],
+[
+"Ecolette",
+3,
+[]
+],
+[
+"Wilstedter",
+3,
+[]
+],
+[
+"Krugers Dickstiel",
+3,
+[]
+],
+[
+"Knobbed Russet",
+3,
+[]
+],
+[
+"Lodi",
+3,
+[
+"LODI"
+]
+],
+[
+"Lundbytorp",
+3,
+[]
+],
+[
+"Raritan",
+3,
+[]
+],
+[
+"Reglindis",
+3,
+[]
+],
+[
+"Rewena",
+3,
+[]
+],
+[
+"Rosana",
+3,
+[]
+],
+[
+"Tentation",
+3,
+[
+"Delblush"
+]
+],
+[
+"Vanda",
+3,
+[]
+],
+[
+"Adersleber Kalvill",
+3,
+[
+"Adersleber Calville"
+]
+],
+[
+"Alfriston",
+3,
+[
+"Shepherd's Pippin"
+]
+],
+[
+"Amanishiki",
+3,
+[]
+],
+[
+"Aori",
+3,
+[]
+],
+[
+"Burgundy",
+3,
+[]
+],
+[
+"Fukunishiki",
+3,
+[]
+],
+[
+"Fukutami",
+3,
+[]
+],
+[
+"Goro",
+3,
+[]
+],
+[
+"Hatsuaki",
+3,
+[]
+],
+[
+"Helios",
+3,
+[]
+],
+[
+"Horei",
+3,
+[]
+],
+[
+"King Byerd",
+3,
+[]
+],
+[
+"Kinrei",
+3,
+[]
+],
+[
+"Korei",
+3,
+[]
+],
+[
+"Kougetsu",
+3,
+[]
+],
+[
+"Kyokko",
+3,
+[]
+],
+[
+"Megumi",
+3,
+[]
+],
+[
+"Newton Wonder",
+3,
+[]
+],
+[
+"Redgold",
+3,
+[
+"Stark Redgold"
+]
+],
+[
+"Saint Martin's",
+3,
+[]
+],
+[
+"Shin Indo",
+3,
+[]
+],
+[
+"Shinko",
+3,
+[]
+],
+[
+"Shinsei",
+3,
+[]
+],
+[
+"Tsugaru",
+3,
+[
+"Malus domestica ‘Tsugaru’"
+]
+],
+[
+"Vista Bella",
+3,
+[]
+],
+[
+"William Crump",
+3,
+[]
+],
+[
+"Slava Peremozhtsiam",
+3,
+[]
+],
+[
+"Altländer Pfannkuchenapfel",
+3,
+[
+"Altlander Pfannkuchenapfel"
+]
+],
+[
+"Ashmead's Kernel",
+3,
+[
+"Ashmead's Kernel (EMLH6501/6B)"
+]
+],
+[
+"Beacon",
+3,
+[
+"Malus domestica 'Beacon'"
+]
+],
+[
+"Cornish Gilliflower",
+3,
+[]
+],
+[
+"Maibiers Parmäne",
+3,
+[]
+],
+[
+"Eva",
+3,
+[]
+],
+[
+"Foxwhelp",
+3,
+[]
+],
+[
+"Grushovka Moskovskaya",
+3,
+[]
+],
+[
+"Gelbe Sächsische Renette",
+3,
+[]
+],
+[
+"Golden Sweet",
+3,
+[]
+],
+[
+"Jersey Black",
+3,
+[
+"Black American",
+"Black Jersey",
+"Dodge's Black",
+"Small Black"
+]
+],
+[
+"White Astrachan",
+3,
+[]
+],
+[
+"Pink Pearl",
+3,
+[]
+],
+[
+"Redstreak",
+3,
+[]
+],
+[
+"Sekai Ichi",
+3,
+[
+"Aori No.4",
+"Sekai ichi'"
+]
+],
+[
+"Stayman",
+3,
+[]
+],
+[
+"Sturmer Pippin",
+3,
+[]
+],
+[
+"Biesterfelder-Renette",
+3,
+[]
+],
+[
+"Bergische Schafsnase",
+3,
+[]
+],
+[
+"Maçã Bravo de Esmolfe",
+2,
+[
+"Bravo de Esmolfe apple",
+"Esmolfe apple"
+]
+],
+[
+"Cludius Herbstapfel",
+2,
+[]
+],
+[
+"Close",
+2,
+[]
+],
+[
+"Königin Luisensapfel",
+2,
+[]
+],
+[
+"Ecklinville",
+2,
+[]
+],
+[
+"Eva-Lotta",
+2,
+[]
+],
+[
+"Fagerö",
+2,
+[]
+],
+[
+"Fredrik",
+2,
+[]
+],
+[
+"Gyllenkroks Astrakan",
+2,
+[]
+],
+[
+"Hampus",
+2,
+[]
+],
+[
+"Husmoder",
+2,
+[]
+],
+[
+"Huvitus",
+2,
+[]
+],
+[
+"Johannes röda höstäpple",
+2,
+[]
+],
+[
+"Josefiner",
+2,
+[]
+],
+[
+"Julita gylling",
+2,
+[]
+],
+[
+"Kavlas",
+2,
+[]
+],
+[
+"Laxton's pearmain",
+2,
+[
+"Laxton's Pearmain"
+]
+],
+[
+"Maglemer",
+2,
+[]
+],
+[
+"Malmbergs gylling",
+2,
+[]
+],
+[
+"Öhringer Blutstreifling",
+2,
+[]
+],
+[
+"Oberländer",
+2,
+[]
+],
+[
+"Pederstrup",
+2,
+[]
+],
+[
+"Magnana (apple)",
+2,
+[]
+],
+[
+"Queen",
+2,
+[]
+],
+[
+"Risäter",
+2,
+[]
+],
+[
+"Rosenhager",
+2,
+[]
+],
+[
+"Råby rubin",
+2,
+[]
+],
+[
+"Red Spy",
+2,
+[
+"Coloured Spy",
+"Double Red Northern Spy",
+"Geneva Red Spy",
+"Green’s Red Spy"
+]
+],
+[
+"Rött kaneläpple",
+2,
+[]
+],
+[
+"Samo",
+2,
+[]
+],
+[
+"Sickelsjö vinäpple",
+2,
+[]
+],
+[
+"Sköldinge",
+2,
+[]
+],
+[
+"Snovit",
+2,
+[]
+],
+[
+"Sparreholm",
+2,
+[]
+],
+[
+"Spässerud",
+2,
+[]
+],
+[
+"Stenkyrke",
+2,
+[]
+],
+[
+"Stinas äpple",
+2,
+[]
+],
+[
+"Stäringe Karin",
+2,
+[]
+],
+[
+"Sukkertop",
+2,
+[]
+],
+[
+"Särsö",
+2,
+[]
+],
+[
+"Södermanlands Kalvill",
+2,
+[]
+],
+[
+"Tersmeden",
+2,
+[]
+],
+[
+"Trogsta",
+2,
+[]
+],
+[
+"Tunaäpple",
+2,
+[]
+],
+[
+"Vitgylling",
+2,
+[]
+],
+[
+"Waltz",
+2,
+[
+"Telamon"
+]
+],
+[
+"Wickstrands Favorit",
+2,
+[]
+],
+[
+"Williams Favourite",
+2,
+[]
+],
+[
+"Engelsberger",
+2,
+[]
+],
+[
+"Red Gravenstein",
+2,
+[
+"Malus domestica 'Red Gravenstein'"
+]
+],
+[
+"Pearmain Barcelona",
+2,
+[]
+],
+[
+"American Summer Pearmain",
+2,
+[
+"Summer Pearmain"
+]
+],
+[
+"Deutscher Goldpepping",
+2,
+[]
+],
+[
+"Schöner von Herrnhut",
+2,
+[
+"Schoner aus Herrnhut"
+]
+],
+[
+"Kloppenheimer Streifling",
+2,
+[]
+],
+[
+"Dorheimer Streifling",
+2,
+[]
+],
+[
+"Dülmener Herbstrosenapfel",
+2,
+[
+"Dulmener Rosenapfel"
+]
+],
+[
+"Eifeler Rambour",
+2,
+[]
+],
+[
+"Prinzen",
+2,
+[
+"Prinzen Apfel"
+]
+],
+[
+"Lunterse Pippeling",
+2,
+[]
+],
+[
+"Fromms Goldrenette",
+2,
+[]
+],
+[
+"Schöner aus Nordhausen",
+2,
+[]
+],
+[
+"Stina Lohmann",
+2,
+[]
+],
+[
+"Nicogreen",
+2,
+[
+"Greenstar"
+]
+],
+[
+"Freiburger Prinzenapfel",
+2,
+[]
+],
+[
+"Pommerscher Krummstiel",
+2,
+[]
+],
+[
+"Gacksapfel",
+2,
+[]
+],
+[
+"Orangenburg",
+2,
+[]
+],
+[
+"Galmac",
+2,
+[]
+],
+[
+"Gehrers Rambur",
+2,
+[]
+],
+[
+"Gestreifter Matapfel",
+2,
+[]
+],
+[
+"Gewurzluiken",
+2,
+[]
+],
+[
+"Grasblümchen",
+2,
+[]
+],
+[
+"Reinette Grise Française",
+2,
+[]
+],
+[
+"Graue Herbstrenette",
+2,
+[]
+],
+[
+"Orleans Reinette",
+2,
+[]
+],
+[
+"Elan",
+2,
+[]
+],
+[
+"Falstaff",
+2,
+[]
+],
+[
+"John Downie",
+2,
+[]
+],
+[
+"Parker's Pippin",
+2,
+[]
+],
+[
+"Spitzrabau",
+2,
+[]
+],
+[
+"Laxton's Early Crimson",
+2,
+[]
+],
+[
+"Red Bellflower",
+2,
+[
+"Long Red Pearmain"
+]
+],
+[
+"Noris",
+2,
+[]
+],
+[
+"Cœur de bœuf",
+2,
+[
+"Coeur de Boeuf"
+]
+],
+[
+"Roter Metternich",
+2,
+[]
+],
+[
+"Tompkins King",
+2,
+[]
+],
+[
+"Westfälischer Gülderling",
+2,
+[]
+],
+[
+"Roter Krieger",
+2,
+[]
+],
+[
+"Juwel aus Kirchwerder",
+2,
+[]
+],
+[
+"London Pepping",
+2,
+[
+"London Pippin"
+]
+],
+[
+"Kronprinz Rudolf",
+2,
+[]
+],
+[
+"Choupette",
+2,
+[
+"Dalinette"
+]
+],
+[
+"Sandow",
+2,
+[]
+],
+[
+"Dolgo",
+2,
+[]
+],
+[
+"Kerr",
+2,
+[]
+],
+[
+"Bellefleur Bashkirskiy",
+2,
+[]
+],
+[
+"Orlik",
+2,
+[]
+],
+[
+"Ranneye Aloye",
+2,
+[]
+],
+[
+"Aspa",
+2,
+[]
+],
+[
+"Maçã Riscadinha de Palmela",
+2,
+[
+"Palmela apple"
+]
+],
+[
+"Doppelter Härtling",
+2,
+[]
+],
+[
+"Bláhovo",
+2,
+[]
+],
+[
+"Maunzen",
+2,
+[]
+],
+[
+"Decio",
+2,
+[
+"Deci",
+"Decio nostrano",
+"Dezi"
+]
+],
+[
+"Crimson Gold",
+2,
+[]
+],
+[
+"Dougherty",
+2,
+[
+"Doherty"
+]
+],
+[
+"Golden Russet",
+2,
+[]
+],
+[
+"Bel-el",
+2,
+[
+"BEL-EL"
+]
+],
+[
+"Astillisch",
+2,
+[]
+],
+[
+"Jonalord",
+2,
+[]
+],
+[
+"Kordona",
+2,
+[]
+],
+[
+"Zlatava",
+2,
+[]
+],
+[
+"Korichnoye Polosatoye",
+2,
+[
+"Korichnoe polosatoe"
+]
+],
+[
+"Sharopay",
+2,
+[]
+],
+[
+"Wolf River",
+2,
+[]
+],
+[
+"Seyanets Titovki",
+2,
+[]
+],
+[
+"Maribelle",
+2,
+[]
+],
+[
+"Princess Louise",
+2,
+[]
+],
+[
+"Pfirsichroter Sommerapfel",
+2,
+[]
+],
+[
+"Purpurroter Zwiebelapfel",
+2,
+[]
+],
+[
+"Persiyanka",
+2,
+[]
+],
+[
+"Beauty of Kent",
+2,
+[]
+],
+[
+"Cornish Aromatic",
+2,
+[]
+],
+[
+"Maiden Blush apple",
+2,
+[]
+],
+[
+"Ortley",
+2,
+[]
+],
+[
+"Keswick Codlin",
+2,
+[]
+],
+[
+"Telstar",
+2,
+[]
+],
+[
+"Nonpareil",
+2,
+[]
+],
+[
+"Hawley apple",
+2,
+[]
+],
+[
+"Star of Devon",
+2,
+[]
+],
+[
+"Detroit Red",
+2,
+[]
+],
+[
+"Black Gilliflower",
+2,
+[]
+],
+[
+"Schieblers Taubenapfel",
+2,
+[]
+],
+[
+"Crimson Delight",
+2,
+[
+"WA 2"
+]
+],
+[
+"Geflammter Kardinal",
+2,
+[]
+],
+[
+"Zoete Ermgaard",
+2,
+[]
+],
+[
+"Tulpenapfel",
+2,
+[]
+],
+[
+"Rockit",
+2,
+[]
+],
+[
+"Sweet Bough",
+2,
+[]
+],
+[
+"Sops of Wine",
+2,
+[]
+],
+[
+"Autumn Glory",
+2,
+[
+"Huaguan"
+]
+],
+[
+"Slack-ma-Girdle",
+2,
+[]
+],
+[
+"Crimson King",
+2,
+[]
+],
+[
+"Weigelts Zinszahler",
+2,
+[]
+],
+[
+"Coquette",
+2,
+[]
+],
+[
+"Welschisner",
+2,
+[]
+],
+[
+"Winterprinz",
+2,
+[]
+],
+[
+"Allen's Everlasting",
+2,
+[]
+],
+[
+"Malus domestica 'Belgica'",
+2,
+[
+"Belgica"
+]
+],
+[
+"Apfel aus Lunow",
+2,
+[]
+],
+[
+"Roter Brasil",
+2,
+[]
+],
+[
+"Sweetie",
+2,
+[
+"Prem1A cv",
+"PremA280",
+"Var-One"
+]
+],
+[
+"Belle -Fille Normande",
+2,
+[]
+],
+[
+"Benoni",
+2,
+[]
+],
+[
+"Bénédictin",
+2,
+[]
+],
+[
+"Belchard",
+2,
+[
+"Chantecler"
+]
+],
+[
+"Châtaignier",
+2,
+[
+"Chataignier"
+]
+],
+[
+"Colapuy",
+2,
+[
+"Colapuis",
+"Colapuits",
+"Nicolas Puy"
+]
+],
+[
+"Aachener Hausapfel",
+2,
+[]
+],
+[
+"Delorina",
+2,
+[]
+],
+[
+"Delprivale",
+2,
+[]
+],
+[
+"Diva",
+2,
+[
+"Diwa"
+]
+],
+[
+"Enterprise",
+2,
+[]
+],
+[
+"Fameuse",
+2,
+[]
+],
+[
+"Faros",
+2,
+[]
+],
+[
+"Yarlington Mill",
+2,
+[]
+],
+[
+"Freedom",
+2,
+[]
+],
+[
+"Galeuse",
+2,
+[]
+],
+[
+"GoldRush",
+2,
+[
+"Coop 38"
+]
+],
+[
+"Grive Rouge",
+2,
+[]
+],
+[
+"Gros Locard",
+2,
+[]
+],
+[
+"Honey Crunch",
+2,
+[
+"HoneyCrunch"
+]
+],
+[
+"Jonafree",
+2,
+[]
+],
+[
+"Rosa del Caldaro",
+2,
+[]
+],
+[
+"Ditzels Rosenapfel",
+2,
+[]
+],
+[
+"Wohlschmecker aus Vierlanden",
+2,
+[]
+],
+[
+"Joseph Musch",
+2,
+[]
+],
+[
+"Judaine",
+2,
+[]
+],
+[
+"Judeline",
+2,
+[]
+],
+[
+"Juliet",
+2,
+[
+"Co-op 43"
+]
+],
+[
+"Luna",
+2,
+[]
+],
+[
+"Modi",
+2,
+[
+"Civg198"
+]
+],
+[
+"Nela",
+2,
+[]
+],
+[
+"Patte de Loup",
+2,
+[]
+],
+[
+"Bondon",
+2,
+[]
+],
+[
+"Pommier Doucin (M. pumila)",
+2,
+[]
+],
+[
+"Priam",
+2,
+[]
+],
+[
+"Red Devil",
+2,
+[]
+],
+[
+"Redfree",
+2,
+[]
+],
+[
+"Reinette Clochard",
+2,
+[]
+],
+[
+"Reinette d'or",
+2,
+[
+"Reinette d'Or du Lot-et-Garonne",
+"Reinette dorée"
+]
+],
+[
+"Reinette Franche",
+2,
+[]
+],
+[
+"Sir Prize",
+2,
+[
+"Co-op 5",
+"Coop 5"
+]
+],
+[
+"Styre",
+2,
+[
+"Forest Styre, Stire"
+]
+],
+[
+"Antonovka Grammovaya 600",
+2,
+[
+"Antonowka Poloutorafountowaia"
+]
+],
+[
+"Red Jonaprince",
+2,
+[
+"Red Prince"
+]
+],
+[
+"Witos",
+2,
+[]
+],
+[
+"Mela Runsè",
+2,
+[]
+],
+[
+"Aborigen",
+2,
+[]
+],
+[
+"Quinte",
+2,
+[]
+],
+[
+"Advance",
+2,
+[
+"Advance (M146)",
+"Laxton's Advance"
+]
+],
+[
+"American Beauty",
+2,
+[]
+],
+[
+"Api Noir",
+2,
+[
+"Api noir (Louron)",
+"Pomme noire de Louron"
+]
+],
+[
+"Api Rose (Creuse)",
+2,
+[]
+],
+[
+"Arthur W. Barnes",
+2,
+[]
+],
+[
+"Balder",
+2,
+[]
+],
+[
+"Ballyfatten",
+2,
+[]
+],
+[
+"Baron Ward",
+2,
+[]
+],
+[
+"Belle de Pontoise",
+2,
+[]
+],
+[
+"Bloody Ploughman",
+2,
+[]
+],
+[
+"Blue Pearmain",
+2,
+[]
+],
+[
+"Bodil Neergaard",
+2,
+[]
+],
+[
+"Caravel",
+2,
+[]
+],
+[
+"Carswell's Honeydew",
+2,
+[]
+],
+[
+"Carswell's Orange",
+2,
+[]
+],
+[
+"Caudal Market",
+2,
+[]
+],
+[
+"Channel Beauty",
+2,
+[]
+],
+[
+"Charden",
+2,
+[]
+],
+[
+"Colonel Yate",
+2,
+[]
+],
+[
+"Crimson Beauty (Canada)",
+2,
+[
+"Early Red Bird"
+]
+],
+[
+"Crimson Cox",
+2,
+[
+"Rod Cox's Orange",
+"Rode Orange"
+]
+],
+[
+"Crimson Newton",
+2,
+[]
+],
+[
+"Directeur van de Plassche",
+2,
+[]
+],
+[
+"Dutch Mignonne",
+2,
+[
+"Christ's Golden Reinette",
+"Dutch Reinette"
+]
+],
+[
+"Edward VII",
+2,
+[]
+],
+[
+"Eri Zagarra",
+2,
+[]
+],
+[
+"Ernst Bosch",
+2,
+[]
+],
+[
+"Eros",
+2,
+[]
+],
+[
+"Eynsham Challenger",
+2,
+[]
+],
+[
+"Eynsham Dumpling",
+2,
+[]
+],
+[
+"Feltham Beauty",
+2,
+[]
+],
+[
+"Fiessers Erstling",
+2,
+[]
+],
+[
+"Florence Bennett",
+2,
+[]
+],
+[
+"Fortune",
+2,
+[
+"Fortune (L64A)",
+"Laxton's Fortune"
+]
+],
+[
+"Geeveston Fanny",
+2,
+[]
+],
+[
+"Gelber Munsterlander Borsdorfer",
+2,
+[]
+],
+[
+"Gladstone",
+2,
+[
+"Gladston",
+"Jackson's Seedling",
+"Lord Gladstone",
+"Mister Gladstone",
+"Monsieur Gladstone",
+"Mr. Gladstone",
+"Scarlet Pippin",
+"Striped Quarrenden",
+"W. E. Gladstone"
+]
+],
+[
+"Gloucester Cross",
+2,
+[]
+],
+[
+"Golden Bounty",
+2,
+[]
+],
+[
+"Golden Melon",
+2,
+[]
+],
+[
+"Guelph",
+2,
+[]
+],
+[
+"Guldborg",
+2,
+[]
+],
+[
+"Hibernal",
+2,
+[]
+],
+[
+"High View Pippin",
+2,
+[]
+],
+[
+"Holiday",
+2,
+[]
+],
+[
+"Houblon",
+2,
+[]
+],
+[
+"Hounslow Wonder",
+2,
+[]
+],
+[
+"Howgate Wonder",
+2,
+[]
+],
+[
+"Idajon",
+2,
+[]
+],
+[
+"Imperial Gala",
+2,
+[]
+],
+[
+"Ingol",
+2,
+[]
+],
+[
+"Irish Peach",
+2,
+[]
+],
+[
+"Ivette",
+2,
+[]
+],
+[
+"Jan Steen",
+2,
+[]
+],
+[
+"Jefferis",
+2,
+[]
+],
+[
+"Jerseymac",
+2,
+[]
+],
+[
+"John Divers",
+2,
+[]
+],
+[
+"John Huggett",
+2,
+[]
+],
+[
+"Jonared",
+2,
+[]
+],
+[
+"Joyce",
+2,
+[
+"Joyce apple"
+]
+],
+[
+"Julyred",
+2,
+[]
+],
+[
+"Karmen",
+2,
+[]
+],
+[
+"King Cox",
+2,
+[]
+],
+[
+"King's Acre Pippin",
+2,
+[]
+],
+[
+"Kortegaard Cox",
+2,
+[]
+],
+[
+"Kosmonaut",
+2,
+[]
+],
+[
+"Laxton's Rearguard",
+2,
+[]
+],
+[
+"Limelight",
+2,
+[]
+],
+[
+"Lindel",
+2,
+[]
+],
+[
+"Lord Derby spur type",
+2,
+[]
+],
+[
+"Lucullus",
+2,
+[]
+],
+[
+"Lynn's Pippin",
+2,
+[]
+],
+[
+"Mary Barnett",
+2,
+[]
+],
+[
+"Maypole",
+2,
+[]
+],
+[
+"McLiver's Winesap",
+2,
+[]
+],
+[
+"Medina",
+2,
+[]
+],
+[
+"White Melrose",
+2,
+[
+"Melrose"
+]
+],
+[
+"Merton Beauty",
+2,
+[]
+],
+[
+"Merton Pippin",
+2,
+[]
+],
+[
+"Merton Russet",
+2,
+[]
+],
+[
+"Merton Worcester",
+2,
+[]
+],
+[
+"Millicent Barnes",
+2,
+[]
+],
+[
+"Milton",
+2,
+[]
+],
+[
+"Minjon",
+2,
+[]
+],
+[
+"Mollie's Delicious",
+2,
+[
+"NJ28"
+]
+],
+[
+"Monarch",
+2,
+[]
+],
+[
+"Morley's Seedling",
+2,
+[]
+],
+[
+"Murasaki",
+2,
+[]
+],
+[
+"New Jonagold",
+2,
+[]
+],
+[
+"Northern Greening",
+2,
+[]
+],
+[
+"Nova Easigro",
+2,
+[]
+],
+[
+"Odin",
+2,
+[]
+],
+[
+"Old Fred",
+2,
+[]
+],
+[
+"Oranje de Sonnaville",
+2,
+[]
+],
+[
+"Orin",
+2,
+[]
+],
+[
+"Oxford Beauty",
+2,
+[]
+],
+[
+"Oxford Hoard",
+2,
+[]
+],
+[
+"Oxford Yeoman",
+2,
+[]
+],
+[
+"Pewaukee",
+2,
+[]
+],
+[
+"Pikkolo",
+2,
+[]
+],
+[
+"Pioneer",
+2,
+[
+"Laxton's Pioneer"
+]
+],
+[
+"Pirja",
+2,
+[]
+],
+[
+"Plymouth Cross",
+2,
+[]
+],
+[
+"Pomme a Cotes",
+2,
+[]
+],
+[
+"Pomme Noire",
+2,
+[]
+],
+[
+"Ponyik Alma",
+2,
+[]
+],
+[
+"Prince Charles",
+2,
+[]
+],
+[
+"Prince George",
+2,
+[]
+],
+[
+"Prinses Beatrix",
+2,
+[]
+],
+[
+"Prinses Irene",
+2,
+[]
+],
+[
+"Prinses Margriet",
+2,
+[]
+],
+[
+"Prinses Marijke",
+2,
+[]
+],
+[
+"Queen Cox",
+2,
+[]
+],
+[
+"Reinette d'Armorique",
+2,
+[]
+],
+[
+"Renetta Grigia di Torriana",
+2,
+[]
+],
+[
+"Rival",
+2,
+[]
+],
+[
+"Roter Stettiner",
+2,
+[]
+],
+[
+"Royal Gala",
+2,
+[
+"Gala",
+"Tenroy"
+]
+],
+[
+"Royal Jubilee",
+2,
+[
+"Graham's Royal Jubilee"
+]
+],
+[
+"Ruzena Blahova",
+2,
+[]
+],
+[
+"Saint Cecilia",
+2,
+[]
+],
+[
+"Saint Edmund's Pippin",
+2,
+[
+"St Edmund's Pippin",
+"St. Edmund's Pippin"
+]
+],
+[
+"Saint Everard",
+2,
+[]
+],
+[
+"Saint Lawrence",
+2,
+[]
+],
+[
+"Sandringham",
+2,
+[]
+],
+[
+"Scarlet Nonpareil",
+2,
+[]
+],
+[
+"Schmidberger’s Red Winter Reinette",
+2,
+[
+"Schmidtbergers Rote Reinette"
+]
+],
+[
+"Shenandoah",
+2,
+[]
+],
+[
+"Shoesmith",
+2,
+[]
+],
+[
+"Simonffy Piros",
+2,
+[]
+],
+[
+"Slavyanka",
+2,
+[]
+],
+[
+"South Park",
+2,
+[]
+],
+[
+"Spigold",
+2,
+[]
+],
+[
+"Sunset sport",
+2,
+[]
+],
+[
+"Sweet Sixteen",
+2,
+[]
+],
+[
+"Teint Frais",
+2,
+[]
+],
+[
+"Thomas Rivers",
+2,
+[]
+],
+[
+"Transparente de Bois-Guillaume",
+2,
+[
+"Transparente de Bois Guillaume"
+]
+],
+[
+"Tydeman's Late Orange",
+2,
+[]
+],
+[
+"Wayside",
+2,
+[]
+],
+[
+"Winter Pearmain",
+2,
+[]
+],
+[
+"Worcester Cross",
+2,
+[]
+],
+[
+"Yellospur",
+2,
+[]
+],
+[
+"Zestar",
+2,
+[
+"Minnewashta",
+"Zestar!"
+]
+],
+[
+"Blauer Kölner",
+2,
+[]
+],
+[
+"Chelmsford Wonder",
+2,
+[]
+],
+[
+"Crimson Bramley",
+2,
+[
+"Bramley's Seedling Red",
+"Red Bramley's Seedling"
+]
+],
+[
+"Anhalter",
+2,
+[]
+],
+[
+"Flower of Kent",
+2,
+[]
+],
+[
+"Cap of Liberty (apple)",
+2,
+[]
+],
+[
+"Golden Spire",
+2,
+[]
+],
+[
+"Ruhm aus Kelsterbach",
+2,
+[]
+],
+[
+"Tolman Sweet",
+2,
+[
+"Tolman Sweeting"
+]
+],
+[
+"Uelzener Rambour",
+2,
+[]
+],
+[
+"Airlie Red Flesh",
+2,
+[]
+],
+[
+"Glogerovka",
+2,
+[]
+],
+[
+"Apollo",
+2,
+[]
+],
+[
+"Kesäter",
+2,
+[]
+],
+[
+"Dithmarscher Paradiesapfel",
+2,
+[]
+],
+[
+"Kleiner Fleiner",
+2,
+[]
+],
+[
+"Drüwken",
+2,
+[]
+],
+[
+"Norfolk Biffin",
+2,
+[
+"Reeds Baker",
+"Tallesin",
+"Winter Coleman"
+]
+],
+[
+"Paula Red",
+2,
+[]
+],
+[
+"SweeTango",
+2,
+[
+"Minneiska",
+"MN 1914"
+]
+],
+[
+"Auralia",
+2,
+[
+"Tumanga"
+]
+],
+[
+"Ausbacher Roter",
+2,
+[]
+],
+[
+"Upton Pyne",
+2,
+[]
+],
+[
+"York",
+2,
+[
+"York Imperial"
+]
+],
+[
+"Amariega",
+2,
+[]
+],
+[
+"Huaniu",
+2,
+[]
+],
+[
+"Brown Apple",
+2,
+[]
+],
+[
+"Brettacher",
+2,
+[
+"Brettacher Samling"
+]
+],
+[
+"Gs 66",
+2,
+[]
+],
+[
+"Hirnsdorfer Bockapfel",
+1,
+[]
+],
+[
+"Aldenham Purple",
+1,
+[]
+],
+[
+"Early Red Bird",
+1,
+[]
+],
+[
+"Poveshon",
+1,
+[]
+],
+[
+"Fredrikdal apple",
+1,
+[]
+],
+[
+"Frida",
+1,
+[]
+],
+[
+"Klockhammar apple",
+1,
+[]
+],
+[
+"Kramfors",
+1,
+[]
+],
+[
+"Linné's apple",
+1,
+[]
+],
+[
+"Madam Palm",
+1,
+[]
+],
+[
+"Deacon Jones",
+1,
+[]
+],
+[
+"Oretorp",
+1,
+[]
+],
+[
+"Bergius",
+1,
+[]
+],
+[
+"Rescue",
+1,
+[]
+],
+[
+"Rossvik",
+1,
+[]
+],
+[
+"Skovfoged",
+1,
+[]
+],
+[
+"Sundsäpple",
+1,
+[]
+],
+[
+"Sylvia",
+1,
+[]
+],
+[
+"Tornpipping",
+1,
+[]
+],
+[
+"Vallda",
+1,
+[]
+],
+[
+"Catshead",
+1,
+[
+"Cat's Head"
+]
+],
+[
+"Dalice",
+1,
+[]
+],
+[
+"Telamon",
+1,
+[]
+],
+[
+"Shinano Gold",
+1,
+[
+"Yello"
+]
+],
+[
+"crabapple",
+1,
+[]
+],
+[
+"Toki",
+1,
+[]
+],
+[
+"Pacific Queen",
+1,
+[
+"GS58",
+"New Zealand Queen",
+"NZ Queen",
+"Scired"
+]
+],
+[
+"Koru",
+1,
+[
+"Plumac"
+]
+],
+[
+"Oratia beauty",
+1,
+[
+"Oratia beauty apple"
+]
+],
+[
+"Ballarat",
+1,
+[]
+],
+[
+"Premier Star",
+1,
+[
+"Bostock Premier Star"
+]
+],
+[
+"Lofem",
+1,
+[]
+],
+[
+"Boyken",
+1,
+[]
+],
+[
+"Gocha Lady",
+1,
+[
+"Malus domestica Venezuelan"
+]
+],
+[
+"Maikki",
+1,
+[]
+],
+[
+"lemonade",
+1,
+[
+"Honeymoon",
+"lemonade apple",
+"PremA153"
+]
+],
+[
+"dazzle",
+1,
+[
+"dazzle apple",
+"Dazzle™ Apple",
+"Malus domestica 'PremA129'",
+"New Zealand Dazzle Apple",
+"PremA129"
+]
+],
+[
+"Champion",
+1,
+[
+"Champion Apple"
+]
+],
+[
+"simply red",
+1,
+[]
+],
+[
+"Ó:IASE",
+1,
+[
+"Oiase",
+"OIASE",
+"Óiase",
+"ÓIASE",
+"QS250"
+]
+],
+[
+"Decio apple of Belfiore",
+1,
+[]
+],
+[
+"Colville",
+1,
+[]
+],
+[
+"Shell of Alabama",
+1,
+[
+"Shell of Alabama (apple)"
+]
+],
+[
+"Matamuskeet",
+1,
+[
+"Matamuskeet (apple)"
+]
+],
+[
+"Stark Jumbo",
+1,
+[]
+],
+[
+"Julia",
+1,
+[]
+],
+[
+"Vaterapfel",
+1,
+[]
+],
+[
+"Auksis",
+1,
+[]
+],
+[
+"Galarina",
+1,
+[]
+],
+[
+"Janissole",
+1,
+[]
+],
+[
+"Karneval",
+1,
+[]
+],
+[
+"Milharenque",
+1,
+[]
+],
+[
+"Moonlight",
+1,
+[
+"UEB 3727/4"
+]
+],
+[
+"Arbat",
+1,
+[]
+],
+[
+"Sunset",
+1,
+[]
+],
+[
+"Surprise",
+1,
+[]
+],
+[
+"Maçã da Beira Alta",
+1,
+[
+"Beira Alta apple"
+]
+],
+[
+"Maçã da Cova da Beira",
+1,
+[
+"Cova da Beira apple"
+]
+],
+[
+"Maçã de Alcobaça",
+1,
+[
+"Alcobaça apple"
+]
+],
+[
+"Maçã de Portalegre",
+1,
+[
+"Portalegre apple"
+]
+],
+[
+"Degas",
+1,
+[]
+],
+[
+"Dulcit",
+1,
+[]
+],
+[
+"Anacuta",
+1,
+[]
+],
+[
+"Supporter 4",
+1,
+[
+"Supp 4"
+]
+],
+[
+"Jubilee apple",
+1,
+[]
+],
+[
+"Pam's Delight",
+1,
+[]
+],
+[
+"Aneta",
+1,
+[]
+],
+[
+"Dantes",
+1,
+[]
+],
+[
+"Diamant",
+1,
+[]
+],
+[
+"Dima",
+1,
+[]
+],
+[
+"Dolores",
+1,
+[]
+],
+[
+"Durit",
+1,
+[]
+],
+[
+"Fany",
+1,
+[]
+],
+[
+"Goldstar",
+1,
+[]
+],
+[
+"Heliodor",
+1,
+[]
+],
+[
+"James Grieve double red",
+1,
+[]
+],
+[
+"James Grieve red",
+1,
+[]
+],
+[
+"Jonagored supra",
+1,
+[]
+],
+[
+"Lipno",
+1,
+[]
+],
+[
+"Miodar",
+1,
+[]
+],
+[
+"Mivibe",
+1,
+[]
+],
+[
+"Orion",
+1,
+[]
+],
+[
+"Resista",
+1,
+[]
+],
+[
+"Rubimeg",
+1,
+[]
+],
+[
+"Rubinstep",
+1,
+[]
+],
+[
+"Sirius",
+1,
+[]
+],
+[
+"Sonet",
+1,
+[]
+],
+[
+"Spalord",
+1,
+[]
+],
+[
+"Malus domestica 'Tábor'",
+1,
+[]
+],
+[
+"Brusnichnoye",
+1,
+[]
+],
+[
+"Lady",
+1,
+[
+"Christmas apple",
+"Lady apple",
+"Lay's finger",
+"wax apple"
+]
+],
+[
+"Lucombe's Seedling",
+1,
+[]
+],
+[
+"Clarke Pearmain",
+1,
+[]
+],
+[
+"Swazie",
+1,
+[]
+],
+[
+"Hewe's Crab",
+1,
+[]
+],
+[
+"Autumn Bough",
+1,
+[]
+],
+[
+"Binet Rouge",
+1,
+[]
+],
+[
+"Doux Véret",
+1,
+[]
+],
+[
+"Petit Jaune",
+1,
+[]
+],
+[
+"McShay",
+1,
+[]
+],
+[
+"Dufflin",
+1,
+[]
+],
+[
+"Hangdown",
+1,
+[]
+],
+[
+"Saint-Martin",
+1,
+[]
+],
+[
+"Zarya Alatau",
+1,
+[
+"apple cultivar 'Zarya Alatau'",
+"Алатау Жұлдыз"
+]
+],
+[
+"Malynovyj Delishes",
+1,
+[
+"Malus domestica Malynovyj Delishes"
+]
+],
+[
+"Kharkivs'ke",
+1,
+[]
+],
+[
+"Konfetnoye",
+1,
+[]
+],
+[
+"Malling 9",
+1,
+[
+"M 9",
+"M.9"
+]
+],
+[
+"Merkur",
+1,
+[]
+],
+[
+"Aldas",
+1,
+[]
+],
+[
+"Alka",
+1,
+[]
+],
+[
+"Coccagee",
+1,
+[]
+],
+[
+"Woodcock",
+1,
+[]
+],
+[
+"Michelin",
+1,
+[]
+],
+[
+"Ellis Bitter",
+1,
+[]
+],
+[
+"Autento",
+1,
+[
+"Delcoros"
+]
+],
+[
+"Avrolles",
+1,
+[]
+],
+[
+"Sudetská reneta",
+1,
+[]
+],
+[
+"Martini",
+1,
+[]
+],
+[
+"Bohemia Gold",
+1,
+[]
+],
+[
+"Bohemia",
+1,
+[]
+],
+[
+"Britegold",
+1,
+[]
+],
+[
+"Constance",
+1,
+[]
+],
+[
+"Delfloga",
+1,
+[]
+],
+[
+"Delflopion",
+1,
+[]
+],
+[
+"Deltana",
+1,
+[]
+],
+[
+"Firiki Piliou",
+1,
+[]
+],
+[
+"Fenouillet",
+1,
+[]
+],
+[
+"Grifer",
+1,
+[
+"Blushing Golden",
+"Blushing-Golden"
+]
+],
+[
+"Initial",
+1,
+[]
+],
+[
+"Katka",
+1,
+[]
+],
+[
+"Montgomery",
+1,
+[]
+],
+[
+"Nanna",
+1,
+[]
+],
+[
+"Northen Greening",
+1,
+[]
+],
+[
+"Petit Hôpital",
+1,
+[]
+],
+[
+"Priscilla",
+1,
+[
+"Co-op4",
+"Coop 4"
+]
+],
+[
+"Rebella",
+1,
+[]
+],
+[
+"Recolor",
+1,
+[]
+],
+[
+"Regine",
+1,
+[]
+],
+[
+"Rene",
+1,
+[]
+],
+[
+"Sang de bœuf",
+1,
+[]
+],
+[
+"Sawa",
+1,
+[]
+],
+[
+"Osennee Polosatoe",
+1,
+[]
+],
+[
+"Teser",
+1,
+[]
+],
+[
+"Black Ben Davis",
+1,
+[]
+],
+[
+"SugarBee",
+1,
+[]
+],
+[
+"Norfolk Royal Russet",
+1,
+[
+"Norfolk Royal Russet Sport"
+]
+],
+[
+"Norfolk Royal",
+1,
+[]
+],
+[
+"A.D.W. Atkins",
+1,
+[]
+],
+[
+"Abbondanza",
+1,
+[]
+],
+[
+"Abondance",
+1,
+[]
+],
+[
+"Acklam Russet",
+1,
+[]
+],
+[
+"Acme",
+1,
+[]
+],
+[
+"Ostpreußischer Adamsapfel",
+1,
+[]
+],
+[
+"Admiral",
+1,
+[]
+],
+[
+"Aivaniya",
+1,
+[]
+],
+[
+"Alastair Cannon-White",
+1,
+[]
+],
+[
+"Aldenham Blenheim",
+1,
+[]
+],
+[
+"Alderman",
+1,
+[]
+],
+[
+"Aldwick Beauty",
+1,
+[]
+],
+[
+"Alexis",
+1,
+[]
+],
+[
+"Alf68",
+1,
+[]
+],
+[
+"Alfred Jolibois",
+1,
+[]
+],
+[
+"All-Red Gravenstein",
+1,
+[]
+],
+[
+"Alnarp's Favorit",
+1,
+[]
+],
+[
+"Altlander Fettapfel",
+1,
+[]
+],
+[
+"Altlander Rosenapfel",
+1,
+[]
+],
+[
+"Alton",
+1,
+[]
+],
+[
+"Ambassy",
+1,
+[]
+],
+[
+"Amber",
+1,
+[]
+],
+[
+"Ambro",
+1,
+[]
+],
+[
+"American Golden Russet",
+1,
+[]
+],
+[
+"American Grindling",
+1,
+[]
+],
+[
+"Ames",
+1,
+[]
+],
+[
+"Andre Briollay",
+1,
+[]
+],
+[
+"Angyal Dezso",
+1,
+[]
+],
+[
+"Anis",
+1,
+[]
+],
+[
+"Anna Boelens",
+1,
+[]
+],
+[
+"Annie Elizabeth",
+1,
+[]
+],
+[
+"Antonovka-Kamenichka",
+1,
+[]
+],
+[
+"Apez Zagarra",
+1,
+[]
+],
+[
+"Appel van Paris",
+1,
+[]
+],
+[
+"Arditi",
+1,
+[]
+],
+[
+"Ariwa",
+1,
+[]
+],
+[
+"Arkansas",
+1,
+[]
+],
+[
+"Arkcharm",
+1,
+[]
+],
+[
+"Aromatic Russet",
+1,
+[]
+],
+[
+"Arthur Turner",
+1,
+[]
+],
+[
+"Ascot",
+1,
+[]
+],
+[
+"Ashdown Seedling",
+1,
+[]
+],
+[
+"Astramel",
+1,
+[]
+],
+[
+"Atalanta",
+1,
+[
+"Atalanta (Netherlands)"
+]
+],
+[
+"Aurali",
+1,
+[]
+],
+[
+"Autumn Arctic",
+1,
+[]
+],
+[
+"Autumn Pearmain",
+1,
+[]
+],
+[
+"Averdal",
+1,
+[]
+],
+[
+"Baker's Delicious",
+1,
+[]
+],
+[
+"Ballarat Seedling",
+1,
+[]
+],
+[
+"Ballard Beauty",
+1,
+[]
+],
+[
+"Bancroft",
+1,
+[]
+],
+[
+"Banffy Pal",
+1,
+[]
+],
+[
+"Banns",
+1,
+[]
+],
+[
+"Banziger",
+1,
+[]
+],
+[
+"Barchard's Seedling",
+1,
+[]
+],
+[
+"Barkley Red Rome",
+1,
+[]
+],
+[
+"Barnack Beauty",
+1,
+[]
+],
+[
+"Barnack Beauty sport",
+1,
+[]
+],
+[
+"Barnack Orange",
+1,
+[]
+],
+[
+"Baron Wood",
+1,
+[]
+],
+[
+"Barraude",
+1,
+[]
+],
+[
+"Barre",
+1,
+[]
+],
+[
+"Bascombe Mystery",
+1,
+[]
+],
+[
+"Bassard",
+1,
+[]
+],
+[
+"Bastien",
+1,
+[]
+],
+[
+"Batul-Alma",
+1,
+[]
+],
+[
+"Baunen",
+1,
+[]
+],
+[
+"Baxter",
+1,
+[]
+],
+[
+"Baxter's Pearmain",
+1,
+[]
+],
+[
+"Beach Seedling",
+1,
+[]
+],
+[
+"Beauty of Bedford",
+1,
+[]
+],
+[
+"Beauty of Blackmoor",
+1,
+[]
+],
+[
+"Beauty of Hants",
+1,
+[]
+],
+[
+"Beauty of Moray",
+1,
+[]
+],
+[
+"Beauty of Stoke",
+1,
+[]
+],
+[
+"Bebe Rose",
+1,
+[]
+],
+[
+"Bedford Red",
+1,
+[]
+],
+[
+"Bedfordshire Foundling",
+1,
+[]
+],
+[
+"Bedminster Pippin",
+1,
+[]
+],
+[
+"Bedwyn Beauty",
+1,
+[]
+],
+[
+"Beeley Pippin",
+1,
+[]
+],
+[
+"Bellaqueeny",
+1,
+[]
+],
+[
+"Belle de France",
+1,
+[]
+],
+[
+"Belle de Longue",
+1,
+[]
+],
+[
+"Belle de Magny",
+1,
+[]
+],
+[
+"Belle de Tours",
+1,
+[]
+],
+[
+"Belle des Buits",
+1,
+[]
+],
+[
+"Belle Ente",
+1,
+[]
+],
+[
+"Belle Flavoise",
+1,
+[]
+],
+[
+"Belle-Fleur de France",
+1,
+[]
+],
+[
+"Belle-Fleur de Saint-Benoit",
+1,
+[]
+],
+[
+"Belle-Fleur Large Mouche",
+1,
+[]
+],
+[
+"Belledge Pippin",
+1,
+[]
+],
+[
+"Bellefleur Kitaika",
+1,
+[]
+],
+[
+"Bellefleur Krasny",
+1,
+[]
+],
+[
+"Ben's Red",
+1,
+[]
+],
+[
+"Benenden Early",
+1,
+[]
+],
+[
+"Benseman's Seedling",
+1,
+[]
+],
+[
+"Bereczki Mate",
+1,
+[]
+],
+[
+"Beregi Sovari",
+1,
+[]
+],
+[
+"Bess Pool",
+1,
+[]
+],
+[
+"Bessemyanka Michurina",
+1,
+[
+"Bessemyanka Michurina (MMI06)"
+]
+],
+[
+"Betsey",
+1,
+[]
+],
+[
+"Betty Geeson",
+1,
+[]
+],
+[
+"Beurriere",
+1,
+[]
+],
+[
+"Beverly Hills",
+1,
+[]
+],
+[
+"Bielaar",
+1,
+[]
+],
+[
+"Bietigheimer",
+1,
+[]
+],
+[
+"Black David",
+1,
+[]
+],
+[
+"Black McIntosh",
+1,
+[]
+],
+[
+"Blackjon",
+1,
+[]
+],
+[
+"Blackmoor's Upright",
+1,
+[]
+],
+[
+"Blahova Reneta",
+1,
+[]
+],
+[
+"Blanc Sur",
+1,
+[]
+],
+[
+"Blandurette",
+1,
+[]
+],
+[
+"Blaxtayman",
+1,
+[]
+],
+[
+"Blaze",
+1,
+[]
+],
+[
+"Bloody Butcher",
+1,
+[]
+],
+[
+"Blushing Golden",
+1,
+[]
+],
+[
+"Bodikers Gold Reinette",
+1,
+[]
+],
+[
+"Bohnapfel",
+1,
+[]
+],
+[
+"Bonne Hotture",
+1,
+[]
+],
+[
+"Bonnet Carre",
+1,
+[]
+],
+[
+"Bonnet de Comte",
+1,
+[]
+],
+[
+"Bosbury Pippin",
+1,
+[]
+],
+[
+"Bossom",
+1,
+[]
+],
+[
+"Botden",
+1,
+[]
+],
+[
+"Bouet de Bonnetable",
+1,
+[]
+],
+[
+"Bountiful",
+1,
+[]
+],
+[
+"Bouquepreuve",
+1,
+[]
+],
+[
+"Bouscasse de Bres",
+1,
+[]
+],
+[
+"Bovarde",
+1,
+[]
+],
+[
+"Bow Hill Pippin",
+1,
+[]
+],
+[
+"Box Apple",
+1,
+[]
+],
+[
+"Brabant Bellefleur",
+1,
+[]
+],
+[
+"Braddick Nonpareil",
+1,
+[]
+],
+[
+"Braintree Seedling",
+1,
+[]
+],
+[
+"Bramshott Rectory",
+1,
+[]
+],
+[
+"Breitling",
+1,
+[]
+],
+[
+"Brenchley Pippin",
+1,
+[]
+],
+[
+"Brighton",
+1,
+[]
+],
+[
+"Britemac",
+1,
+[]
+],
+[
+"Broad-Eyed Pippin",
+1,
+[
+"Broad-Eyed Pippin of Bultitude"
+]
+],
+[
+"Brookes's",
+1,
+[]
+],
+[
+"Brown Kenting",
+1,
+[]
+],
+[
+"Brown's Seedling",
+1,
+[]
+],
+[
+"Brownlees Russet",
+1,
+[]
+],
+[
+"Budai Ignac",
+1,
+[]
+],
+[
+"Budimka",
+1,
+[]
+],
+[
+"Bukhovitsa",
+1,
+[]
+],
+[
+"Burchardt's Reinette",
+1,
+[]
+],
+[
+"Burn's Seedling",
+1,
+[]
+],
+[
+"Burr Knot (Lascelles)",
+1,
+[]
+],
+[
+"Bushey Grove",
+1,
+[]
+],
+[
+"Byeloborodovka",
+1,
+[]
+],
+[
+"Byfleet Seedling",
+1,
+[]
+],
+[
+"Byford Wonder",
+1,
+[]
+],
+[
+"Cabusse",
+1,
+[]
+],
+[
+"Čačanská Pozna",
+1,
+[]
+],
+[
+"Cagarlaou",
+1,
+[]
+],
+[
+"Calville d'Aout",
+1,
+[]
+],
+[
+"Calville d'Oullins",
+1,
+[]
+],
+[
+"Calville d'Ulzen",
+1,
+[]
+],
+[
+"Calville de Doue",
+1,
+[]
+],
+[
+"Calville de Maussion",
+1,
+[]
+],
+[
+"Calville de Saint-Sauveur",
+1,
+[]
+],
+[
+"Calville des Femmes",
+1,
+[]
+],
+[
+"Calville Duquesne",
+1,
+[]
+],
+[
+"Calville Rouge d'Hiver",
+1,
+[]
+],
+[
+"Calville Rouge du Mont d'Or",
+1,
+[]
+],
+[
+"Cambusnethan Pippin",
+1,
+[]
+],
+[
+"Camelot",
+1,
+[]
+],
+[
+"Canada Blanc de la Creuse",
+1,
+[]
+],
+[
+"Canvada",
+1,
+[]
+],
+[
+"Captain Kidd",
+1,
+[]
+],
+[
+"Cardinal",
+1,
+[]
+],
+[
+"Carlisle Codlin of Bultitude",
+1,
+[
+"Carlisle Codlin"
+]
+],
+[
+"Carlton",
+1,
+[]
+],
+[
+"Carmingnolle",
+1,
+[]
+],
+[
+"Carnet",
+1,
+[]
+],
+[
+"Caroli d'Italie",
+1,
+[]
+],
+[
+"Caroline",
+1,
+[]
+],
+[
+"Caroline Hopkins",
+1,
+[]
+],
+[
+"Carrara Brusca",
+1,
+[]
+],
+[
+"Carrata",
+1,
+[]
+],
+[
+"Carrey",
+1,
+[]
+],
+[
+"Cartaut",
+1,
+[]
+],
+[
+"Carter's Blue",
+1,
+[]
+],
+[
+"Carter's Pearmain",
+1,
+[]
+],
+[
+"Case Wealthy",
+1,
+[]
+],
+[
+"Castle Major",
+1,
+[]
+],
+[
+"Catherine",
+1,
+[]
+],
+[
+"Cavallotta",
+1,
+[]
+],
+[
+"Ceeval",
+1,
+[]
+],
+[
+"Celt",
+1,
+[]
+],
+[
+"Chad's Favourite",
+1,
+[]
+],
+[
+"Champ-Gaillard",
+1,
+[]
+],
+[
+"Chantegrise",
+1,
+[]
+],
+[
+"Charles Eyre",
+1,
+[]
+],
+[
+"Charlot",
+1,
+[]
+],
+[
+"Charlotte",
+1,
+[]
+],
+[
+"Chaux",
+1,
+[]
+],
+[
+"Chaxhill Red",
+1,
+[]
+],
+[
+"Cheddar Cross",
+1,
+[]
+],
+[
+"Chehalis",
+1,
+[]
+],
+[
+"Chenango Strawberry",
+1,
+[]
+],
+[
+"Cherry Cox",
+1,
+[]
+],
+[
+"Chieftain",
+1,
+[]
+],
+[
+"Chivers Delight",
+1,
+[]
+],
+[
+"Chorister Boy",
+1,
+[]
+],
+[
+"Christie Manson",
+1,
+[]
+],
+[
+"Christmas Pearmain",
+1,
+[]
+],
+[
+"Chusenrainer",
+1,
+[]
+],
+[
+"Cigany Alma",
+1,
+[]
+],
+[
+"Cinq Cotes",
+1,
+[
+"Cinq Côtes du Lot"
+]
+],
+[
+"Ciodo",
+1,
+[]
+],
+[
+"Cistecke",
+1,
+[]
+],
+[
+"Citron d'Hiver",
+1,
+[]
+],
+[
+"Clarinette",
+1,
+[]
+],
+[
+"Clark's Seedling",
+1,
+[]
+],
+[
+"Clarke's Royal",
+1,
+[]
+],
+[
+"Clear Gold",
+1,
+[
+"Yellow Delicious"
+]
+],
+[
+"Clearheart",
+1,
+[]
+],
+[
+"Cleeve",
+1,
+[]
+],
+[
+"Clemens",
+1,
+[]
+],
+[
+"Climax",
+1,
+[]
+],
+[
+"Cloden",
+1,
+[]
+],
+[
+"Clydeside",
+1,
+[]
+],
+[
+"Cockett's Red",
+1,
+[]
+],
+[
+"Cockle Pippin",
+1,
+[]
+],
+[
+"Cola",
+1,
+[]
+],
+[
+"Cola Gelata",
+1,
+[]
+],
+[
+"Collins",
+1,
+[]
+],
+[
+"Colloget Pippin",
+1,
+[
+"Cloggett Pippin",
+"Collogget Pippin",
+"Lawry's Cornish Giant"
+]
+],
+[
+"Colonel Vaughan",
+1,
+[]
+],
+[
+"Colwall Quoining",
+1,
+[]
+],
+[
+"Comrade",
+1,
+[]
+],
+[
+"Contessa",
+1,
+[]
+],
+[
+"Coo's River Beauty",
+1,
+[]
+],
+[
+"Cooper's Seedling",
+1,
+[]
+],
+[
+"Coquette d'Auvergne",
+1,
+[]
+],
+[
+"Cornish Honeypin",
+1,
+[]
+],
+[
+"Cornish Pine",
+1,
+[]
+],
+[
+"Coronation",
+1,
+[]
+],
+[
+"Corry's Wonder",
+1,
+[]
+],
+[
+"Cottenham Seedling",
+1,
+[]
+],
+[
+"Court of Wick",
+1,
+[]
+],
+[
+"Cox La Vera",
+1,
+[]
+],
+[
+"Cox's Early Export",
+1,
+[]
+],
+[
+"Cox's Orange Pippin (Potter)",
+1,
+[]
+],
+[
+"Coxstone",
+1,
+[]
+],
+[
+"Craciunesti",
+1,
+[]
+],
+[
+"Craggy's Seedling",
+1,
+[]
+],
+[
+"Cravert",
+1,
+[]
+],
+[
+"Cravert Rouge",
+1,
+[]
+],
+[
+"Crawley Beauty",
+1,
+[]
+],
+[
+"Crawley Reinette",
+1,
+[]
+],
+[
+"Cretesc de Breaza",
+1,
+[]
+],
+[
+"Cretesc Rosu",
+1,
+[]
+],
+[
+"Crimson Beauty of Bath",
+1,
+[]
+],
+[
+"Crimson Queening",
+1,
+[]
+],
+[
+"Crimson Spy",
+1,
+[]
+],
+[
+"Criterion",
+1,
+[]
+],
+[
+"Crowngold",
+1,
+[]
+],
+[
+"Csikos Orias Halasi",
+1,
+[]
+],
+[
+"Cure",
+1,
+[]
+],
+[
+"Curl Tail",
+1,
+[]
+],
+[
+"Cusset Blanc",
+1,
+[]
+],
+[
+"Cutler Grieve",
+1,
+[]
+],
+[
+"D'Arcy Spice",
+1,
+[]
+],
+[
+"D'Eylau",
+1,
+[]
+],
+[
+"Daliest",
+1,
+[]
+],
+[
+"Damjanich",
+1,
+[]
+],
+[
+"Daniel Fele Renet",
+1,
+[]
+],
+[
+"Dark Red Staymared",
+1,
+[]
+],
+[
+"Daru Sovari",
+1,
+[]
+],
+[
+"Davey",
+1,
+[]
+],
+[
+"Dawn",
+1,
+[]
+],
+[
+"De Bonde",
+1,
+[]
+],
+[
+"De Casse",
+1,
+[]
+],
+[
+"De Flandre",
+1,
+[]
+],
+[
+"De Jaune",
+1,
+[]
+],
+[
+"De l'Estre",
+1,
+[
+"Coujouno",
+"Letre",
+"Pomme de Comte",
+"Reinette à cul noir",
+"Reinette de Brive",
+"Sainte-Germaine"
+]
+],
+[
+"De Quint",
+1,
+[]
+],
+[
+"De Vendue l'Eveque",
+1,
+[]
+],
+[
+"Decosta",
+1,
+[]
+],
+[
+"Dekker's Glory",
+1,
+[]
+],
+[
+"Delectable",
+1,
+[]
+],
+[
+"Delgoton",
+1,
+[]
+],
+[
+"Delgrared",
+1,
+[]
+],
+[
+"Deljeni",
+1,
+[]
+],
+[
+"Deljorom",
+1,
+[]
+],
+[
+"Delkistar",
+1,
+[]
+],
+[
+"Delnimb",
+1,
+[]
+],
+[
+"Delorgue",
+1,
+[]
+],
+[
+"Delprim",
+1,
+[]
+],
+[
+"Delvale",
+1,
+[]
+],
+[
+"Democrat",
+1,
+[]
+],
+[
+"Dermen Winesap",
+1,
+[]
+],
+[
+"Desse de Buff",
+1,
+[]
+],
+[
+"Desseffy Arisztid",
+1,
+[]
+],
+[
+"Devon Crimson Queen",
+1,
+[]
+],
+[
+"Devonshire Buckland",
+1,
+[]
+],
+[
+"Dewdney's Seedling",
+1,
+[]
+],
+[
+"Dewdulip Seedling",
+1,
+[]
+],
+[
+"Diamond Jubilee",
+1,
+[]
+],
+[
+"Diana",
+1,
+[]
+],
+[
+"Dick's Favourite",
+1,
+[]
+],
+[
+"Dillington Beauty",
+1,
+[]
+],
+[
+"Directeur Lesage",
+1,
+[]
+],
+[
+"Dockney",
+1,
+[]
+],
+[
+"Doctor Clifford",
+1,
+[]
+],
+[
+"Doctor Hogg",
+1,
+[]
+],
+[
+"Dodd",
+1,
+[]
+],
+[
+"Domino",
+1,
+[]
+],
+[
+"Domnesc",
+1,
+[]
+],
+[
+"Domnicele",
+1,
+[]
+],
+[
+"Doree de Tournai",
+1,
+[]
+],
+[
+"Double Red Northern Spy",
+1,
+[]
+],
+[
+"Double Red Rome Beauty",
+1,
+[]
+],
+[
+"Double Rose",
+1,
+[]
+],
+[
+"Downton Pippin",
+1,
+[]
+],
+[
+"Dr Ramburg",
+1,
+[]
+],
+[
+"Drap d'Or",
+1,
+[]
+],
+[
+"Dredge's Fame",
+1,
+[]
+],
+[
+"Dubbele Belle Fleur",
+1,
+[]
+],
+[
+"Duchess of Bedford",
+1,
+[]
+],
+[
+"Duchess's Favourite",
+1,
+[]
+],
+[
+"Duck's Bill",
+1,
+[]
+],
+[
+"Duegne",
+1,
+[]
+],
+[
+"Dugamel",
+1,
+[]
+],
+[
+"Dukat",
+1,
+[]
+],
+[
+"Dukat spur type",
+1,
+[
+"Dukat Spur"
+]
+],
+[
+"Duke of Devonshire",
+1,
+[]
+],
+[
+"Dunn's Seedling",
+1,
+[]
+],
+[
+"Dunning",
+1,
+[]
+],
+[
+"Durello",
+1,
+[]
+],
+[
+"Dutch Codlin",
+1,
+[]
+],
+[
+"Eady's Magnum",
+1,
+[]
+],
+[
+"Earl Cowper",
+1,
+[]
+],
+[
+"Early McIntosh",
+1,
+[
+"Early Mac Intosh"
+]
+],
+[
+"Early Strawberry",
+1,
+[
+"Early Strawberry of Great Malvern"
+]
+],
+[
+"East Lothian Pippin",
+1,
+[]
+],
+[
+"Eastbourne Pippin",
+1,
+[]
+],
+[
+"Easter Orange",
+1,
+[]
+],
+[
+"Eaton 1",
+1,
+[]
+],
+[
+"Eccleston Pippin",
+1,
+[]
+],
+[
+"Eden",
+1,
+[]
+],
+[
+"Edgar (Canada)",
+1,
+[]
+],
+[
+"Edith Hopwood",
+1,
+[]
+],
+[
+"Edmund Jupp",
+1,
+[]
+],
+[
+"Edwards",
+1,
+[]
+],
+[
+"Einset 8",
+1,
+[]
+],
+[
+"Elise Rathke",
+1,
+[]
+],
+[
+"Elize",
+1,
+[]
+],
+[
+"Elmore Pippin",
+1,
+[]
+],
+[
+"Elshof",
+1,
+[]
+],
+[
+"Emilia",
+1,
+[]
+],
+[
+"Emneth Early",
+1,
+[]
+],
+[
+"Encore",
+1,
+[]
+],
+[
+"Entz-Rosmarin",
+1,
+[]
+],
+[
+"Epicure",
+1,
+[
+"Laxton's Epicure"
+]
+],
+[
+"Erich Neumann's Roter",
+1,
+[]
+],
+[
+"Erlijon",
+1,
+[]
+],
+[
+"Essching",
+1,
+[]
+],
+[
+"Estiva",
+1,
+[]
+],
+[
+"Etlins Reinette",
+1,
+[]
+],
+[
+"Evagil",
+1,
+[]
+],
+[
+"Eva Lotta",
+1,
+[]
+],
+[
+"Excel",
+1,
+[]
+],
+[
+"Excelsior",
+1,
+[]
+],
+[
+"Exeter Cross",
+1,
+[]
+],
+[
+"Exquisite",
+1,
+[]
+],
+[
+"Extraordinaire",
+1,
+[]
+],
+[
+"Fairie Queen",
+1,
+[]
+],
+[
+"Fairy (Cormack)",
+1,
+[]
+],
+[
+"Fall Harvey",
+1,
+[]
+],
+[
+"Fall Pippin",
+1,
+[]
+],
+[
+"Fall Russet",
+1,
+[]
+],
+[
+"Fara Nume",
+1,
+[]
+],
+[
+"Fearn's Pippin",
+1,
+[]
+],
+[
+"Fekete Tanyeralma",
+1,
+[]
+],
+[
+"Fenouillet de Ribours",
+1,
+[]
+],
+[
+"Fenouillet Gris",
+1,
+[
+"Gros-Fenouillet Gris"
+]
+],
+[
+"Fenouillet Rouge",
+1,
+[]
+],
+[
+"Feuillemorte",
+1,
+[]
+],
+[
+"Fil Jaune",
+1,
+[]
+],
+[
+"Fillingham Pippin",
+1,
+[]
+],
+[
+"Finasso",
+1,
+[]
+],
+[
+"Fireside",
+1,
+[]
+],
+[
+"Firmgold",
+1,
+[]
+],
+[
+"Fisher Fortune",
+1,
+[]
+],
+[
+"Flame",
+1,
+[]
+],
+[
+"Fletcher's Prolific",
+1,
+[]
+],
+[
+"Fleuritard",
+1,
+[]
+],
+[
+"Fleuritard Rouge",
+1,
+[]
+],
+[
+"Florianer Rosenapfel",
+1,
+[]
+],
+[
+"Flower of the Town",
+1,
+[]
+],
+[
+"Folkestone",
+1,
+[]
+],
+[
+"Fon's Spring",
+1,
+[]
+],
+[
+"Forester",
+1,
+[]
+],
+[
+"Forge",
+1,
+[]
+],
+[
+"Forpear",
+1,
+[]
+],
+[
+"Fortosh",
+1,
+[]
+],
+[
+"Forty Shilling",
+1,
+[]
+],
+[
+"Foster's Seedling",
+1,
+[]
+],
+[
+"Foulkes' Foremost",
+1,
+[]
+],
+[
+"Fraise de Buhler",
+1,
+[]
+],
+[
+"Framboise",
+1,
+[]
+],
+[
+"Franc Roseau",
+1,
+[]
+],
+[
+"Franc-Bon-Pommier",
+1,
+[]
+],
+[
+"France Deliquet",
+1,
+[]
+],
+[
+"Francis (Thorrington)",
+1,
+[]
+],
+[
+"Frankettu",
+1,
+[]
+],
+[
+"Frau Margarete von Stosch",
+1,
+[]
+],
+[
+"Fred Webb",
+1,
+[]
+],
+[
+"French Crab",
+1,
+[
+"applejohn",
+"Claremont Pippin",
+"French Crab apple",
+"John apple",
+"Three Years Old",
+"Two Years Apple"
+]
+],
+[
+"Freyberg",
+1,
+[
+"Freyburg"
+]
+],
+[
+"Friandise",
+1,
+[]
+],
+[
+"Friedrich der Grosse",
+1,
+[]
+],
+[
+"Frogmore Prolific",
+1,
+[]
+],
+[
+"Fromme Scab Resistant",
+1,
+[]
+],
+[
+"Frydeland Cox",
+1,
+[]
+],
+[
+"Gabiola",
+1,
+[]
+],
+[
+"Gaillarde",
+1,
+[]
+],
+[
+"Galantine",
+1,
+[]
+],
+[
+"Galaxy",
+1,
+[
+"Gala Galaxy"
+]
+],
+[
+"Galloway Pippin",
+1,
+[]
+],
+[
+"Galton",
+1,
+[]
+],
+[
+"Gambafina",
+1,
+[]
+],
+[
+"Garden Royal",
+1,
+[]
+],
+[
+"Garnet",
+1,
+[]
+],
+[
+"Gavin",
+1,
+[]
+],
+[
+"Gazerau",
+1,
+[]
+],
+[
+"Gelber Trierer Weinapfel",
+1,
+[]
+],
+[
+"Gene Pitney",
+1,
+[]
+],
+[
+"Geneva Ontario",
+1,
+[
+"Geneva Ontario (NY)"
+]
+],
+[
+"Gennet Moyle",
+1,
+[
+"Gennet Moyle of Taylor"
+]
+],
+[
+"George Carpenter",
+1,
+[]
+],
+[
+"George Cave",
+1,
+[]
+],
+[
+"George Neal",
+1,
+[]
+],
+[
+"Giambun",
+1,
+[]
+],
+[
+"Gian Andre",
+1,
+[]
+],
+[
+"Giant Geniton",
+1,
+[]
+],
+[
+"Gilliflower of Gloucester",
+1,
+[]
+],
+[
+"Glasbury",
+1,
+[]
+],
+[
+"Glass Apple",
+1,
+[]
+],
+[
+"Glebe Gold",
+1,
+[]
+],
+[
+"Glengyle Red",
+1,
+[]
+],
+[
+"Glenton",
+1,
+[]
+],
+[
+"Glorie van Holland",
+1,
+[]
+],
+[
+"Gloria Mundi",
+1,
+[]
+],
+[
+"Gloucester Royal",
+1,
+[]
+],
+[
+"Golco",
+1,
+[]
+],
+[
+"Gold Medal",
+1,
+[]
+],
+[
+"Golden Auvilspur",
+1,
+[]
+],
+[
+"Golden Delicious Horst No.2",
+1,
+[]
+],
+[
+"Golden Harvey",
+1,
+[]
+],
+[
+"Golden Knob",
+1,
+[]
+],
+[
+"Golden Morspur",
+1,
+[]
+],
+[
+"Golden Nugget",
+1,
+[]
+],
+[
+"Golden Pippin",
+1,
+[]
+],
+[
+"Goldensheen",
+1,
+[]
+],
+[
+"Goldjon",
+1,
+[]
+],
+[
+"Gomba Karoly dr.",
+1,
+[]
+],
+[
+"Gooseberry",
+1,
+[]
+],
+[
+"Grand'mere",
+1,
+[]
+],
+[
+"Granny Giffard",
+1,
+[]
+],
+[
+"Grantonian",
+1,
+[]
+],
+[
+"Great Expectations",
+1,
+[]
+],
+[
+"Green Custard",
+1,
+[]
+],
+[
+"Green Harvey",
+1,
+[]
+],
+[
+"Green Purnell",
+1,
+[]
+],
+[
+"Green Roland",
+1,
+[]
+],
+[
+"Greenup's Pippin",
+1,
+[]
+],
+[
+"Grey Pippin",
+1,
+[]
+],
+[
+"Grimoldby Golden",
+1,
+[]
+],
+[
+"Groninger Kroon",
+1,
+[]
+],
+[
+"Gronsvelder Klumpke",
+1,
+[]
+],
+[
+"Gros Croquet",
+1,
+[]
+],
+[
+"Gros-Api",
+1,
+[]
+],
+[
+"Gros-Fenouillet Gris",
+1,
+[]
+],
+[
+"Gros-Hopital",
+1,
+[]
+],
+[
+"Groseille",
+1,
+[]
+],
+[
+"Grosse de Saint-Clement",
+1,
+[]
+],
+[
+"Grosse Mignonnette d'Herbassy",
+1,
+[]
+],
+[
+"Grosse Rouge (Lot) No.l",
+1,
+[]
+],
+[
+"Grosse Saulette",
+1,
+[]
+],
+[
+"Gruner Calviner",
+1,
+[]
+],
+[
+"Grvena Lepogvetka",
+1,
+[]
+],
+[
+"Gustavs Dauerapfel",
+1,
+[]
+],
+[
+"Gyogyi Piros",
+1,
+[]
+],
+[
+"Halberstadter Jungfernapfel",
+1,
+[]
+],
+[
+"Hambledon Deux Ans",
+1,
+[]
+],
+[
+"Hambling's Seedling",
+1,
+[]
+],
+[
+"Hamvas Alma",
+1,
+[]
+],
+[
+"Hannan Seedling",
+1,
+[]
+],
+[
+"Hanwell Souring",
+1,
+[]
+],
+[
+"Hapsburg",
+1,
+[]
+],
+[
+"Harang Alma",
+1,
+[]
+],
+[
+"Harberts Reinette",
+1,
+[]
+],
+[
+"Hared",
+1,
+[]
+],
+[
+"Harling Hero",
+1,
+[]
+],
+[
+"Harvest Festival",
+1,
+[]
+],
+[
+"Harvey",
+1,
+[]
+],
+[
+"Haughty's Red",
+1,
+[]
+],
+[
+"Hazen",
+1,
+[]
+],
+[
+"Hector MacDonald",
+1,
+[]
+],
+[
+"Hejocsabai Sarga",
+1,
+[]
+],
+[
+"Henry Clay",
+1,
+[]
+],
+[
+"Herceg Batthyanyi Alma",
+1,
+[]
+],
+[
+"Hereford Cross",
+1,
+[]
+],
+[
+"Herefordshire Beefing",
+1,
+[]
+],
+[
+"Herefordshire Russet",
+1,
+[]
+],
+[
+"Herma",
+1,
+[]
+],
+[
+"Herring's Pippin",
+1,
+[]
+],
+[
+"Heusgen's Golden Reinette",
+1,
+[]
+],
+[
+"Hibbs Seedling",
+1,
+[]
+],
+[
+"Histon Favourite",
+1,
+[]
+],
+[
+"Hoary Morning",
+1,
+[]
+],
+[
+"Hocking's Green",
+1,
+[]
+],
+[
+"Hodge's Seedling",
+1,
+[]
+],
+[
+"Hog's Snout",
+1,
+[]
+],
+[
+"Hohenzollern",
+1,
+[]
+],
+[
+"Holland Pippin",
+1,
+[]
+],
+[
+"Hollandbury",
+1,
+[]
+],
+[
+"Holstein",
+1,
+[]
+],
+[
+"Hommet",
+1,
+[]
+],
+[
+"Honey Pippin",
+1,
+[]
+],
+[
+"Hood's Supreme",
+1,
+[]
+],
+[
+"Hope Cottage Seedling",
+1,
+[]
+],
+[
+"Hormead Pearmain",
+1,
+[]
+],
+[
+"Horsford Prolific",
+1,
+[]
+],
+[
+"Horskreiger",
+1,
+[]
+],
+[
+"Hosszufalusi",
+1,
+[]
+],
+[
+"Hubbardston Nonsuch",
+1,
+[]
+],
+[
+"Hume",
+1,
+[]
+],
+[
+"Hunt's Duke of Gloucester",
+1,
+[]
+],
+[
+"Hunt's Early",
+1,
+[]
+],
+[
+"Hunter Melba",
+1,
+[]
+],
+[
+"Hunter Sandow",
+1,
+[]
+],
+[
+"Hunter's Majestic",
+1,
+[]
+],
+[
+"Huntingdon Codlin",
+1,
+[]
+],
+[
+"I.B.Reid",
+1,
+[]
+],
+[
+"Idagold",
+1,
+[]
+],
+[
+"Ildrod Pigeon",
+1,
+[
+"Pigeon Ildrød"
+]
+],
+[
+"Imperiale",
+1,
+[]
+],
+[
+"Improved Ashmead's Kernel",
+1,
+[
+"Improved Ashmead's Kernel of Bunyard"
+]
+],
+[
+"Improved Cockpit",
+1,
+[]
+],
+[
+"Ingall's Pippin",
+1,
+[]
+],
+[
+"Ingall's Red",
+1,
+[]
+],
+[
+"Iron Pin",
+1,
+[]
+],
+[
+"Ivo",
+1,
+[]
+],
+[
+"Izletes Zold",
+1,
+[]
+],
+[
+"Jacquet",
+1,
+[]
+],
+[
+"Jacquin",
+1,
+[]
+],
+[
+"Jafra",
+1,
+[]
+],
+[
+"Jamb69",
+1,
+[]
+],
+[
+"James Grieve Lired",
+1,
+[]
+],
+[
+"James Lawson",
+1,
+[]
+],
+[
+"Jansen von Welten",
+1,
+[]
+],
+[
+"Jaszvadoka",
+1,
+[]
+],
+[
+"Jean Tondeur",
+1,
+[]
+],
+[
+"Jeanne Hardy",
+1,
+[]
+],
+[
+"Jennifer",
+1,
+[]
+],
+[
+"Jester",
+1,
+[]
+],
+[
+"Jewett's Fine Red",
+1,
+[]
+],
+[
+"Jim Brian",
+1,
+[]
+],
+[
+"Jincoa Zagarra",
+1,
+[]
+],
+[
+"John Standish",
+1,
+[]
+],
+[
+"John Waterer",
+1,
+[]
+],
+[
+"Jolanka",
+1,
+[]
+],
+[
+"Jolyne",
+1,
+[]
+],
+[
+"Jomured",
+1,
+[]
+],
+[
+"Jonagold Boerekamp",
+1,
+[]
+],
+[
+"Jonalicious",
+1,
+[]
+],
+[
+"Jonamac",
+1,
+[]
+],
+[
+"Jongrimes",
+1,
+[
+"Hoosier Seedling",
+"Jonagrimes",
+"Stark Jonagrimes",
+"Stark Jongrimes"
+]
+],
+[
+"Jored",
+1,
+[]
+],
+[
+"Josefine Kallehave",
+1,
+[]
+],
+[
+"Josegold",
+1,
+[]
+],
+[
+"Josephine",
+1,
+[]
+],
+[
+"Josephine Kreuter",
+1,
+[]
+],
+[
+"Joybells",
+1,
+[]
+],
+[
+"Jubile",
+1,
+[]
+],
+[
+"Jubile d'Argovie",
+1,
+[]
+],
+[
+"julgrans",
+1,
+[]
+],
+[
+"Jumbo Ohrin",
+1,
+[]
+],
+[
+"Jupiter",
+1,
+[]
+],
+[
+"Jupp's Russet A",
+1,
+[]
+],
+[
+"Just Gyula",
+1,
+[]
+],
+[
+"Kaiser Franz Joseph",
+1,
+[]
+],
+[
+"Kandile",
+1,
+[]
+],
+[
+"Kansas Queen",
+1,
+[]
+],
+[
+"Kapai Red Jonathan",
+1,
+[]
+],
+[
+"Karina",
+1,
+[]
+],
+[
+"Karinable",
+1,
+[]
+],
+[
+"Karolka",
+1,
+[]
+],
+[
+"Keed's Cottage",
+1,
+[]
+],
+[
+"Kemp",
+1,
+[]
+],
+[
+"Kendall",
+1,
+[]
+],
+[
+"Kenneth",
+1,
+[]
+],
+[
+"Kentish Fillbasket",
+1,
+[]
+],
+[
+"Kentish Quarrenden",
+1,
+[]
+],
+[
+"Kentucky Red Streak",
+1,
+[]
+],
+[
+"Kercsi Muskotaly",
+1,
+[]
+],
+[
+"Khoroshavka Alaya",
+1,
+[]
+],
+[
+"Kile",
+1,
+[]
+],
+[
+"Kilkenny Pearmain",
+1,
+[]
+],
+[
+"King Albert",
+1,
+[]
+],
+[
+"King Charles Pearmain",
+1,
+[]
+],
+[
+"King Coffee",
+1,
+[]
+],
+[
+"King Cole",
+1,
+[]
+],
+[
+"King David",
+1,
+[]
+],
+[
+"King George V",
+1,
+[]
+],
+[
+"King Jonagold",
+1,
+[]
+],
+[
+"King Russet",
+1,
+[]
+],
+[
+"King's Acre Bountiful",
+1,
+[]
+],
+[
+"Kirke's Lord Nelson",
+1,
+[]
+],
+[
+"Kis Erno Tabornok",
+1,
+[]
+],
+[
+"Kitchovka",
+1,
+[]
+],
+[
+"Klunster",
+1,
+[]
+],
+[
+"Kolacara",
+1,
+[]
+],
+[
+"Konigin Sophiensapfel",
+1,
+[]
+],
+[
+"Korobovka",
+1,
+[]
+],
+[
+"Krasava",
+1,
+[]
+],
+[
+"Kuldzhinka Krupnoplodnaya",
+1,
+[]
+],
+[
+"Lady Henniker",
+1,
+[]
+],
+[
+"Lady Hollendale",
+1,
+[]
+],
+[
+"Lady Hopetown",
+1,
+[]
+],
+[
+"Lady Isabel",
+1,
+[]
+],
+[
+"Lady Lambourne",
+1,
+[]
+],
+[
+"Lady of the Lake",
+1,
+[]
+],
+[
+"Lady of the Wemyss",
+1,
+[]
+],
+[
+"Lady Sudeley",
+1,
+[]
+],
+[
+"Lady's Finger of Offaly",
+1,
+[]
+],
+[
+"Lagree",
+1,
+[]
+],
+[
+"Lake's Kernel",
+1,
+[]
+],
+[
+"Lakeland",
+1,
+[]
+],
+[
+"Lamb Abbey Pearmain",
+1,
+[]
+],
+[
+"Lamb's Seedling",
+1,
+[]
+],
+[
+"Lancashire Pippin (Underbarrow)",
+1,
+[]
+],
+[
+"Lancraig",
+1,
+[]
+],
+[
+"Lange's Perfection",
+1,
+[]
+],
+[
+"Langley Pippin",
+1,
+[]
+],
+[
+"Lappio",
+1,
+[]
+],
+[
+"Lass o' Gowrie",
+1,
+[]
+],
+[
+"Lavina",
+1,
+[]
+],
+[
+"Lawfam",
+1,
+[]
+],
+[
+"Lawyer Nutmeg",
+1,
+[]
+],
+[
+"Laxton's Favourite",
+1,
+[]
+],
+[
+"Laxton's Herald",
+1,
+[]
+],
+[
+"Laxton's Leader",
+1,
+[]
+],
+[
+"Laxton's Peerless",
+1,
+[]
+],
+[
+"Laxton's Reward",
+1,
+[]
+],
+[
+"Laxton's Royalty",
+1,
+[]
+],
+[
+"Laxton's Triumph",
+1,
+[]
+],
+[
+"Leather Jacket",
+1,
+[]
+],
+[
+"Leathercoat Russet (Brotherston)",
+1,
+[]
+],
+[
+"Leeder's Perfection",
+1,
+[]
+],
+[
+"Legana",
+1,
+[]
+],
+[
+"Lemoen",
+1,
+[]
+],
+[
+"Lemon Pippin",
+1,
+[]
+],
+[
+"Lemon Queen",
+1,
+[]
+],
+[
+"Leonard Lush",
+1,
+[]
+],
+[
+"Leonie de Sonnaville",
+1,
+[]
+],
+[
+"Levering Limbertwig",
+1,
+[]
+],
+[
+"Lewis's Incomparable",
+1,
+[
+"Lewis Incomparable"
+]
+],
+[
+"Libovicka Reneta",
+1,
+[]
+],
+[
+"Liddell's Seedling",
+1,
+[]
+],
+[
+"Lille",
+1,
+[]
+],
+[
+"Lily Boxall",
+1,
+[]
+],
+[
+"Limoncella",
+1,
+[]
+],
+[
+"Lipton",
+1,
+[]
+],
+[
+"LNationale",
+1,
+[]
+],
+[
+"Loddington",
+1,
+[]
+],
+[
+"Lodgemore Nonpareil",
+1,
+[]
+],
+[
+"Lombarts Calville",
+1,
+[]
+],
+[
+"Long Bider",
+1,
+[]
+],
+[
+"Longney Russet",
+1,
+[]
+],
+[
+"Longstart",
+1,
+[]
+],
+[
+"Lord Burghley",
+1,
+[]
+],
+[
+"Lord Clyde",
+1,
+[]
+],
+[
+"Lord Derby",
+1,
+[]
+],
+[
+"Lord Grosvenor",
+1,
+[]
+],
+[
+"Lord Hindlip",
+1,
+[]
+],
+[
+"Lord Lennox (Finzi)",
+1,
+[]
+],
+[
+"Lord Peckover",
+1,
+[]
+],
+[
+"Lord Rosebery",
+1,
+[]
+],
+[
+"Lord Stradbroke",
+1,
+[]
+],
+[
+"Lord Suffield",
+1,
+[]
+],
+[
+"Lorna Doone",
+1,
+[]
+],
+[
+"Louiton",
+1,
+[]
+],
+[
+"Love Beauty",
+1,
+[]
+],
+[
+"Lucombe's Pine",
+1,
+[]
+],
+[
+"Luntersche Pippeling",
+1,
+[]
+],
+[
+"Luxemburger Renette",
+1,
+[]
+],
+[
+"Luzhanka",
+1,
+[]
+],
+[
+"Lysgolden",
+1,
+[]
+],
+[
+"Mabbott's Pearmain",
+1,
+[
+"Mabbot's Pearmain",
+"Mabbut's Pearmain",
+"Parmaene von Mabbott",
+"Parmane von Mabot",
+"Parmane von Mabott",
+"Pearmain de Mabbot",
+"Pearmain de Mabbott"
+]
+],
+[
+"Maclean's Favourite",
+1,
+[]
+],
+[
+"Macross",
+1,
+[]
+],
+[
+"Macwood",
+1,
+[]
+],
+[
+"Macy",
+1,
+[]
+],
+[
+"Madoue Rouge",
+1,
+[]
+],
+[
+"Madresfield Court",
+1,
+[]
+],
+[
+"Magdalen",
+1,
+[]
+],
+[
+"Maggie Grieve",
+1,
+[]
+],
+[
+"Magnolia Gold",
+1,
+[]
+],
+[
+"Mahe",
+1,
+[]
+],
+[
+"Maid of Kent",
+1,
+[]
+],
+[
+"Maidstone Favourite",
+1,
+[]
+],
+[
+"Maigold",
+1,
+[]
+],
+[
+"Maldon Wonder",
+1,
+[]
+],
+[
+"Malling Kent",
+1,
+[
+"Malling Kent (NFT1)"
+]
+],
+[
+"Maltster",
+1,
+[]
+],
+[
+"Mandan",
+1,
+[]
+],
+[
+"Mannington's Pearmain",
+1,
+[]
+],
+[
+"Mareda",
+1,
+[]
+],
+[
+"Maren Nis",
+1,
+[]
+],
+[
+"Margaret Taylor",
+1,
+[]
+],
+[
+"Margol",
+1,
+[]
+],
+[
+"Mariborka",
+1,
+[]
+],
+[
+"Marie Doudou",
+1,
+[]
+],
+[
+"Marie-Joseph d'Othee",
+1,
+[
+"Pomme de Fer"
+]
+],
+[
+"Marie-Louise Ducote",
+1,
+[]
+],
+[
+"Marie-Madeleine",
+1,
+[]
+],
+[
+"Marienwerder Gulderling",
+1,
+[]
+],
+[
+"Marosszeki Piros Paris",
+1,
+[]
+],
+[
+"Marriage-Maker",
+1,
+[]
+],
+[
+"Marroi Rouge",
+1,
+[]
+],
+[
+"Marstar",
+1,
+[]
+],
+[
+"Marston Scarlet Wonder",
+1,
+[]
+],
+[
+"Martin Becker",
+1,
+[]
+],
+[
+"Martin's Kernel",
+1,
+[]
+],
+[
+"Mary Green",
+1,
+[]
+],
+[
+"Mate Denes Dr.",
+1,
+[]
+],
+[
+"Mather 2",
+1,
+[]
+],
+[
+"Mauss Reinette",
+1,
+[]
+],
+[
+"Maxton",
+1,
+[]
+],
+[
+"May Beauty",
+1,
+[]
+],
+[
+"May Queen",
+1,
+[]
+],
+[
+"McLellan",
+1,
+[]
+],
+[
+"McSweet",
+1,
+[]
+],
+[
+"Mead's Broading",
+1,
+[]
+],
+[
+"Measday's Favourite",
+1,
+[]
+],
+[
+"Meku",
+1,
+[]
+],
+[
+"Mela Carla",
+1,
+[]
+],
+[
+"Melkappel",
+1,
+[]
+],
+[
+"Melmoth",
+1,
+[]
+],
+[
+"Meran",
+1,
+[]
+],
+[
+"Mercer",
+1,
+[]
+],
+[
+"Merchant Apple",
+1,
+[]
+],
+[
+"Mere de Menage",
+1,
+[
+"Husmoder"
+]
+],
+[
+"Meri Cretesti",
+1,
+[]
+],
+[
+"Meridian",
+1,
+[]
+],
+[
+"Merlyn",
+1,
+[]
+],
+[
+"Merrigold",
+1,
+[]
+],
+[
+"Mers Bryan",
+1,
+[]
+],
+[
+"Merton Charm",
+1,
+[]
+],
+[
+"Merton Delight",
+1,
+[]
+],
+[
+"Merton Joy",
+1,
+[]
+],
+[
+"Merton Knave",
+1,
+[]
+],
+[
+"Merton Pearmain",
+1,
+[]
+],
+[
+"Michinoku",
+1,
+[]
+],
+[
+"Michotte",
+1,
+[]
+],
+[
+"Milfor",
+1,
+[]
+],
+[
+"Miller's Seedling",
+1,
+[]
+],
+[
+"Millet",
+1,
+[]
+],
+[
+"Mimi",
+1,
+[]
+],
+[
+"Minier's Dumpling",
+1,
+[]
+],
+[
+"Minnehaha",
+1,
+[]
+],
+[
+"Minnesota Russet",
+1,
+[]
+],
+[
+"Minshull Crab",
+1,
+[]
+],
+[
+"Misen Jaromerska",
+1,
+[]
+],
+[
+"Miskolci Kormos",
+1,
+[]
+],
+[
+"Missing Link",
+1,
+[]
+],
+[
+"Missouri",
+1,
+[]
+],
+[
+"Mitchelson's Seedling",
+1,
+[]
+],
+[
+"Mobbs Royal",
+1,
+[]
+],
+[
+"Molleskov",
+1,
+[]
+],
+[
+"Mollyanne",
+1,
+[]
+],
+[
+"Monroe",
+1,
+[]
+],
+[
+"Montfort",
+1,
+[]
+],
+[
+"Montmedy",
+1,
+[]
+],
+[
+"Morgenrot",
+1,
+[]
+],
+[
+"Morkrod",
+1,
+[]
+],
+[
+"Morris's Russet",
+1,
+[]
+],
+[
+"Mors de Veau",
+1,
+[]
+],
+[
+"Moti",
+1,
+[]
+],
+[
+"Mount Rainier",
+1,
+[]
+],
+[
+"Mrs. Barron",
+1,
+[]
+],
+[
+"Mrs. Phillimore",
+1,
+[]
+],
+[
+"Murfitt's Seedling",
+1,
+[]
+],
+[
+"Museau de Lievre",
+1,
+[]
+],
+[
+"Nancy Jackson",
+1,
+[]
+],
+[
+"Nanny",
+1,
+[]
+],
+[
+"Nasona",
+1,
+[]
+],
+[
+"Neild's Drooper",
+1,
+[]
+],
+[
+"Nelson's Favourite",
+1,
+[]
+],
+[
+"Nemes Szercsika Alma",
+1,
+[]
+],
+[
+"Nemtesc cu Miezul Rosu",
+1,
+[]
+],
+[
+"Neue Goldparmane",
+1,
+[]
+],
+[
+"New Bess Pool",
+1,
+[]
+],
+[
+"New German",
+1,
+[]
+],
+[
+"New Hawthornden",
+1,
+[]
+],
+[
+"Newgold",
+1,
+[]
+],
+[
+"Newport Cross",
+1,
+[]
+],
+[
+"Newtosh",
+1,
+[]
+],
+[
+"Newtown Spitzenburg",
+1,
+[]
+],
+[
+"Niagara",
+1,
+[]
+],
+[
+"Nico",
+1,
+[]
+],
+[
+"Nigde",
+1,
+[]
+],
+[
+"No Pip",
+1,
+[]
+],
+[
+"Nobil de Geoagiu",
+1,
+[]
+],
+[
+"Nolan Pippin",
+1,
+[]
+],
+[
+"Nonsuch Park",
+1,
+[]
+],
+[
+"Norfolk Beauty",
+1,
+[]
+],
+[
+"Normandie",
+1,
+[]
+],
+[
+"Northland Seedling",
+1,
+[]
+],
+[
+"Notarisappel",
+1,
+[]
+],
+[
+"Nottingham Pippin",
+1,
+[]
+],
+[
+"Nugget",
+1,
+[]
+],
+[
+"Nutmeg Pippin",
+1,
+[]
+],
+[
+"Oaken Pin of Taylor",
+1,
+[
+"Oaken Pin"
+]
+],
+[
+"Obelisk",
+1,
+[]
+],
+[
+"Oberlausitzer Muskatrenette",
+1,
+[]
+],
+[
+"Ohio Nonpareil",
+1,
+[]
+],
+[
+"Ohm Paul",
+1,
+[]
+],
+[
+"Old English Round",
+1,
+[]
+],
+[
+"Old Somerset Russet",
+1,
+[]
+],
+[
+"Opalescent",
+1,
+[]
+],
+[
+"Opetian",
+1,
+[]
+],
+[
+"Orange Goff",
+1,
+[]
+],
+[
+"Orbai Alma",
+1,
+[]
+],
+[
+"Orenco",
+1,
+[]
+],
+[
+"Oriole",
+1,
+[]
+],
+[
+"Orleans",
+1,
+[]
+],
+[
+"Oslin",
+1,
+[]
+],
+[
+"Owen Thomas",
+1,
+[]
+],
+[
+"Oxford Conquest",
+1,
+[]
+],
+[
+"Oxford Sunrise",
+1,
+[]
+],
+[
+"Ozark Gold",
+1,
+[]
+],
+[
+"Palmer's Rosey",
+1,
+[]
+],
+[
+"Parfum d'Ete",
+1,
+[]
+],
+[
+"Paroquet",
+1,
+[]
+],
+[
+"Patricia",
+1,
+[]
+],
+[
+"Patrick",
+1,
+[]
+],
+[
+"Payette",
+1,
+[]
+],
+[
+"Peacemaker",
+1,
+[]
+],
+[
+"Pearl",
+1,
+[]
+],
+[
+"Peche Melba",
+1,
+[]
+],
+[
+"Peck's Pleasant",
+1,
+[]
+],
+[
+"Pedro",
+1,
+[]
+],
+[
+"Peggy's Pride",
+1,
+[]
+],
+[
+"Penco",
+1,
+[]
+],
+[
+"Pepin d'Or de Bovelingen",
+1,
+[]
+],
+[
+"Pepin de Bourgueil",
+1,
+[]
+],
+[
+"Pepino Jaune",
+1,
+[]
+],
+[
+"Pero Dourad",
+1,
+[]
+],
+[
+"Pero Mingan",
+1,
+[]
+],
+[
+"Perrine Yellow Transparent",
+1,
+[]
+],
+[
+"Perrine York",
+1,
+[]
+],
+[
+"Peter Lock",
+1,
+[]
+],
+[
+"Petit Pippin",
+1,
+[]
+],
+[
+"Philadelphia",
+1,
+[]
+],
+[
+"Pickering's Seedling",
+1,
+[]
+],
+[
+"Pigeon de Jerusalem",
+1,
+[]
+],
+[
+"Piltsamasskoe Zimnee",
+1,
+[]
+],
+[
+"Pine Apple Russet",
+1,
+[]
+],
+[
+"Pine Golden Pippin",
+1,
+[]
+],
+[
+"Pinner Seedling",
+1,
+[]
+],
+[
+"Pitmaston Pine Apple",
+1,
+[]
+],
+[
+"Pitmaston Russet Nonpareil",
+1,
+[]
+],
+[
+"Pixie",
+1,
+[]
+],
+[
+"Pladei",
+1,
+[]
+],
+[
+"Pobeda Chernenko",
+1,
+[]
+],
+[
+"Polly",
+1,
+[]
+],
+[
+"Polly Prosser",
+1,
+[]
+],
+[
+"Pomeroy of Somerset",
+1,
+[]
+],
+[
+"Pomme d'Amour",
+1,
+[]
+],
+[
+"Pomme d'Enfer",
+1,
+[]
+],
+[
+"Pomme de Choux Nez Creux",
+1,
+[]
+],
+[
+"Pomme de Feu",
+1,
+[]
+],
+[
+"Pomme de Glace",
+1,
+[]
+],
+[
+"Pomme du Viez",
+1,
+[]
+],
+[
+"Pomme Royale",
+1,
+[
+"Dyer"
+]
+],
+[
+"Ponsford",
+1,
+[]
+],
+[
+"Poor Man's Profit",
+1,
+[]
+],
+[
+"Pope's Scarlet Costard",
+1,
+[]
+],
+[
+"Port Allen Russet",
+1,
+[]
+],
+[
+"Porter",
+1,
+[]
+],
+[
+"Prairie Spy",
+1,
+[]
+],
+[
+"Present van Engeland",
+1,
+[]
+],
+[
+"Present van Holland",
+1,
+[]
+],
+[
+"President Boudewijn",
+1,
+[]
+],
+[
+"Primate",
+1,
+[]
+],
+[
+"Prime Gold",
+1,
+[]
+],
+[
+"Primus",
+1,
+[]
+],
+[
+"Prince Alfred",
+1,
+[]
+],
+[
+"Prince Edward",
+1,
+[]
+],
+[
+"Prince Jonagold D'H",
+1,
+[]
+],
+[
+"Prince Nicolas",
+1,
+[]
+],
+[
+"Prins Bernhard",
+1,
+[]
+],
+[
+"Priolov Delises",
+1,
+[]
+],
+[
+"Proctor's Seedling",
+1,
+[]
+],
+[
+"Puffin",
+1,
+[]
+],
+[
+"Pumpkin Sweet",
+1,
+[]
+],
+[
+"Pusztai Sarga",
+1,
+[]
+],
+[
+"Queen Alexandra",
+1,
+[]
+],
+[
+"Queen Caroline",
+1,
+[]
+],
+[
+"Queenby's Glory",
+1,
+[]
+],
+[
+"Quindell",
+1,
+[]
+],
+[
+"Rabaleyze",
+1,
+[]
+],
+[
+"Racine",
+1,
+[]
+],
+[
+"Racine Blanche",
+1,
+[]
+],
+[
+"Rambour d'Automne",
+1,
+[]
+],
+[
+"Rambour Papeleu",
+1,
+[]
+],
+[
+"Rambour Podolskii",
+1,
+[]
+],
+[
+"Rampale",
+1,
+[]
+],
+[
+"Ranger",
+1,
+[]
+],
+[
+"Rank Thorn",
+1,
+[]
+],
+[
+"Rathe Ripe",
+1,
+[]
+],
+[
+"Reale d'Entraygues",
+1,
+[]
+],
+[
+"Reaux",
+1,
+[]
+],
+[
+"Red Army",
+1,
+[]
+],
+[
+"Red Belle de Boskoop",
+1,
+[]
+],
+[
+"Red Benoni",
+1,
+[]
+],
+[
+"Red Blenheim",
+1,
+[]
+],
+[
+"Red Charles Ross",
+1,
+[]
+],
+[
+"Red Cox",
+1,
+[]
+],
+[
+"Red Dougherty",
+1,
+[]
+],
+[
+"Red Ellison's Orange",
+1,
+[]
+],
+[
+"Red Elstar",
+1,
+[]
+],
+[
+"Red Falstaff",
+1,
+[]
+],
+[
+"Red Fameuse",
+1,
+[]
+],
+[
+"Red Fortune",
+1,
+[]
+],
+[
+"Red Geeveston Fanny",
+1,
+[]
+],
+[
+"Red Granny Smith",
+1,
+[]
+],
+[
+"Red Martini",
+1,
+[]
+],
+[
+"Red Melba",
+1,
+[
+"Melred",
+"Pate Red Melba",
+"Platt’s Red Melba"
+]
+],
+[
+"Red Miller",
+1,
+[]
+],
+[
+"Red Musk",
+1,
+[]
+],
+[
+"Red Rome",
+1,
+[]
+],
+[
+"Red Saelet",
+1,
+[]
+],
+[
+"Red Sauce",
+1,
+[]
+],
+[
+"Red Statesman",
+1,
+[
+"Red Warrior",
+"Warrior"
+]
+],
+[
+"Red Sudeley",
+1,
+[]
+],
+[
+"Red Transparent",
+1,
+[]
+],
+[
+"Red Victoria",
+1,
+[]
+],
+[
+"Redhook",
+1,
+[]
+],
+[
+"Redsleeves",
+1,
+[]
+],
+[
+"Redstart",
+1,
+[]
+],
+[
+"Redwell",
+1,
+[]
+],
+[
+"Redwing",
+1,
+[]
+],
+[
+"Regent",
+1,
+[]
+],
+[
+"Reichenboicher Luiken Apfel",
+1,
+[]
+],
+[
+"Reid's Seedling",
+1,
+[]
+],
+[
+"Reinette Coulon",
+1,
+[]
+],
+[
+"Reinette d'Anjou",
+1,
+[]
+],
+[
+"Reinette de France",
+1,
+[]
+],
+[
+"Reinette de Lucas",
+1,
+[]
+],
+[
+"Reinette Descardre",
+1,
+[]
+],
+[
+"Reinette Dubuisson",
+1,
+[]
+],
+[
+"Reinette Grise du Canada",
+1,
+[]
+],
+[
+"Reinette Verte (Basses-Pyrenees)",
+1,
+[]
+],
+[
+"Renora",
+1,
+[]
+],
+[
+"Renown",
+1,
+[]
+],
+[
+"Reverend W. Wilks",
+1,
+[]
+],
+[
+"Rheinischer Krummstiel",
+1,
+[]
+],
+[
+"Ribonde",
+1,
+[]
+],
+[
+"Richardson",
+1,
+[]
+],
+[
+"Ringer",
+1,
+[]
+],
+[
+"Ringstad",
+1,
+[]
+],
+[
+"Rivers' Early Peach",
+1,
+[]
+],
+[
+"Rivers' Nonsuch",
+1,
+[]
+],
+[
+"Roanoke",
+1,
+[]
+],
+[
+"Roba",
+1,
+[]
+],
+[
+"Robert Blatchford",
+1,
+[]
+],
+[
+"Robin Pippin",
+1,
+[]
+],
+[
+"Rock",
+1,
+[]
+],
+[
+"Rod Tonnes",
+1,
+[]
+],
+[
+"Rode Wagenaar",
+1,
+[]
+],
+[
+"Rokewood",
+1,
+[]
+],
+[
+"Rosanne",
+1,
+[]
+],
+[
+"Rosdu Perche",
+1,
+[]
+],
+[
+"Rose de Benauge",
+1,
+[
+"Rose de Bénauge"
+]
+],
+[
+"Rose de Bouchetière",
+1,
+[]
+],
+[
+"Rose Double",
+1,
+[]
+],
+[
+"Rose Rouge",
+1,
+[]
+],
+[
+"Rosemary Russet",
+1,
+[]
+],
+[
+"Rosioare Calugaresti",
+1,
+[]
+],
+[
+"Rosmarina Bianca",
+1,
+[]
+],
+[
+"Ross Nonpareil",
+1,
+[]
+],
+[
+"Rossie Pippin",
+1,
+[]
+],
+[
+"Rosso del Povero",
+1,
+[]
+],
+[
+"Rosy Blenheim",
+1,
+[]
+],
+[
+"Roter Ananas",
+1,
+[]
+],
+[
+"Roter Sauergrauech",
+1,
+[]
+],
+[
+"Rougemont",
+1,
+[]
+],
+[
+"Rouget (Cotes du Nord)",
+1,
+[]
+],
+[
+"Rouget de Born",
+1,
+[]
+],
+[
+"Roundway Magnum Bonum",
+1,
+[]
+],
+[
+"Royal Blush",
+1,
+[]
+],
+[
+"Royal Snow",
+1,
+[]
+],
+[
+"Rozovoe iz Tartu",
+1,
+[]
+],
+[
+"Rubinstar",
+1,
+[]
+],
+[
+"Ruby",
+1,
+[]
+],
+[
+"Runse",
+1,
+[]
+],
+[
+"S.T. Wright",
+1,
+[]
+],
+[
+"Sabaros",
+1,
+[]
+],
+[
+"Sacramentsappel",
+1,
+[]
+],
+[
+"Saint Ailred",
+1,
+[]
+],
+[
+"Saint Albans Pippin",
+1,
+[]
+],
+[
+"Saint-Baussan",
+1,
+[]
+],
+[
+"Salome",
+1,
+[]
+],
+[
+"Saltcote Pippin",
+1,
+[]
+],
+[
+"Sam Young",
+1,
+[]
+],
+[
+"San Peinte",
+1,
+[]
+],
+[
+"Sandlin Duchess",
+1,
+[]
+],
+[
+"Sanspareil",
+1,
+[]
+],
+[
+"Saturn",
+1,
+[]
+],
+[
+"Scarlet Crofton",
+1,
+[]
+],
+[
+"Scarlet Pearmain",
+1,
+[]
+],
+[
+"Scarlet Staymared",
+1,
+[]
+],
+[
+"Schoner aus External",
+1,
+[]
+],
+[
+"Schoolmaster",
+1,
+[]
+],
+[
+"Schurapfel",
+1,
+[]
+],
+[
+"Scilly Pearl",
+1,
+[]
+],
+[
+"Scotch Bridget",
+1,
+[]
+],
+[
+"Scotch Dumpling",
+1,
+[]
+],
+[
+"Scrumptious",
+1,
+[]
+],
+[
+"Seabrook's Red",
+1,
+[]
+],
+[
+"Seaton House",
+1,
+[]
+],
+[
+"Sensyu",
+1,
+[]
+],
+[
+"September Beauty",
+1,
+[]
+],
+[
+"Septer",
+1,
+[]
+],
+[
+"Sergeant Peggy",
+1,
+[]
+],
+[
+"Serveau",
+1,
+[]
+],
+[
+"Severn Bank",
+1,
+[]
+],
+[
+"Shamrock",
+1,
+[]
+],
+[
+"Sharon",
+1,
+[]
+],
+[
+"Sheep's Nose",
+1,
+[]
+],
+[
+"Shinfield Seedling",
+1,
+[]
+],
+[
+"Shoreditch White",
+1,
+[]
+],
+[
+"Siddington Russet",
+1,
+[]
+],
+[
+"Sidney Strake",
+1,
+[]
+],
+[
+"Sikulai Alma",
+1,
+[]
+],
+[
+"Silva",
+1,
+[]
+],
+[
+"Sinta",
+1,
+[]
+],
+[
+"Sir John Thornycroft",
+1,
+[]
+],
+[
+"Sissons's Worksop Newtown",
+1,
+[]
+],
+[
+"Siugisdesert",
+1,
+[]
+],
+[
+"Skinlite",
+1,
+[]
+],
+[
+"Sleeping Beauty",
+1,
+[]
+],
+[
+"Small's Admirable",
+1,
+[]
+],
+[
+"Smart's Prince Arthur",
+1,
+[]
+],
+[
+"Smiler",
+1,
+[]
+],
+[
+"Smoothee",
+1,
+[
+"Golden Smoothee"
+]
+],
+[
+"Sovari Comun",
+1,
+[]
+],
+[
+"Sovari Nobil",
+1,
+[
+"Sovari Nobil of Romania"
+]
+],
+[
+"Sowman's Seedling",
+1,
+[]
+],
+[
+"Spaanse Keiing",
+1,
+[]
+],
+[
+"Spencer",
+1,
+[]
+],
+[
+"Spijon",
+1,
+[]
+],
+[
+"Spiza",
+1,
+[]
+],
+[
+"Stafner Rosen",
+1,
+[]
+],
+[
+"Stanway Seedling",
+1,
+[]
+],
+[
+"Stark Earliblaze",
+1,
+[]
+],
+[
+"Stark's Earliest",
+1,
+[]
+],
+[
+"Stark's Late Delicious",
+1,
+[]
+],
+[
+"Starkspur Golden Delicious",
+1,
+[]
+],
+[
+"Starkspur McIntosh",
+1,
+[]
+],
+[
+"Starr",
+1,
+[
+"Early Greening",
+"Star",
+"Star in the East"
+]
+],
+[
+"Statefair",
+1,
+[]
+],
+[
+"Statesman red sport",
+1,
+[]
+],
+[
+"Steirischer Roter Marschansker",
+1,
+[]
+],
+[
+"Steyne Seedling",
+1,
+[]
+],
+[
+"Stirling Castle",
+1,
+[]
+],
+[
+"Stobo Castle",
+1,
+[]
+],
+[
+"Stoke Allow",
+1,
+[]
+],
+[
+"Stone's Mosaic",
+1,
+[]
+],
+[
+"Stonecrop",
+1,
+[]
+],
+[
+"Stonehenge",
+1,
+[]
+],
+[
+"Stonetosh",
+1,
+[]
+],
+[
+"Storey's Seedling",
+1,
+[]
+],
+[
+"Stowell Cox",
+1,
+[]
+],
+[
+"Striped Beefing",
+1,
+[]
+],
+[
+"Strippy",
+1,
+[]
+],
+[
+"Summer Blenheim",
+1,
+[]
+],
+[
+"Summer Golden Pippin",
+1,
+[
+"der Sommer Goldpepping",
+"Gelber Sommerpepping",
+"Pepin d'Or d'Ete",
+"Peppin d'Or d'Ete",
+"Sommergold Pepping",
+"Sommer Goldpepping",
+"Sommer-Goldpepping",
+"Sommer Gold Pepping",
+"Sommer-Gold-Pepping",
+"Sommer Pepping",
+"Summer Golden Pearmain",
+"Summer Pippin",
+"Weisser Sommerpepping",
+"Weisser Sommer Pepping",
+"White Summer Pippin"
+]
+],
+[
+"Summer Rose",
+1,
+[]
+],
+[
+"Summer Stibbert",
+1,
+[]
+],
+[
+"Summerland",
+1,
+[]
+],
+[
+"Sunburn",
+1,
+[]
+],
+[
+"Sungold",
+1,
+[]
+],
+[
+"Sunrise",
+1,
+[]
+],
+[
+"Sure Crop",
+1,
+[]
+],
+[
+"Surprise (Veitch)",
+1,
+[]
+],
+[
+"Sussex Mother",
+1,
+[]
+],
+[
+"Swaar",
+1,
+[]
+],
+[
+"Sweet Caroline",
+1,
+[]
+],
+[
+"Sweet Cornelly",
+1,
+[]
+],
+[
+"Sweet Delicious",
+1,
+[]
+],
+[
+"Sweet Merlin",
+1,
+[]
+],
+[
+"Sweet-Tart",
+1,
+[]
+],
+[
+"Symond's Winter",
+1,
+[]
+],
+[
+"Szabadkai Szercsika",
+1,
+[]
+],
+[
+"Szacsvay Tafota",
+1,
+[]
+],
+[
+"Szaszpap Alma",
+1,
+[]
+],
+[
+"Tare de Ghinda",
+1,
+[]
+],
+[
+"Tasman Pride",
+1,
+[]
+],
+[
+"Taunton Cross",
+1,
+[]
+],
+[
+"Tellina",
+1,
+[]
+],
+[
+"Tellisaare",
+1,
+[]
+],
+[
+"Ten Commandments",
+1,
+[]
+],
+[
+"Teton de Demoiselle",
+1,
+[]
+],
+[
+"Texola",
+1,
+[]
+],
+[
+"Thoday's Quarrenden",
+1,
+[]
+],
+[
+"Thomas Jeffrey",
+1,
+[]
+],
+[
+"Thompson's Apple",
+1,
+[]
+],
+[
+"Thorle Pippin",
+1,
+[]
+],
+[
+"Thorpe's Peach",
+1,
+[]
+],
+[
+"Thurgauer Weinapfel",
+1,
+[]
+],
+[
+"Thurso",
+1,
+[]
+],
+[
+"Tiffen",
+1,
+[]
+],
+[
+"Tillington Court",
+1,
+[]
+],
+[
+"Tinsley Quince",
+1,
+[]
+],
+[
+"Tobiasler",
+1,
+[]
+],
+[
+"Tommy Knight",
+1,
+[]
+],
+[
+"Tonino",
+1,
+[]
+],
+[
+"Tordai Alma",
+1,
+[]
+],
+[
+"Tordai Piros Kalvil",
+1,
+[]
+],
+[
+"Totem",
+1,
+[]
+],
+[
+"Tower of Glamis",
+1,
+[
+"Carse of Gowrie",
+"Glamis Castle",
+"Glammys Castle",
+"Gowrie",
+"Late Carse of Gowrie",
+"The Gowrie",
+"Tower of Glammys"
+]
+],
+[
+"Toyo",
+1,
+[]
+],
+[
+"Trajan",
+1,
+[]
+],
+[
+"Trélage",
+1,
+[]
+],
+[
+"Trezeke Meyers",
+1,
+[]
+],
+[
+"Tropical Beauty",
+1,
+[]
+],
+[
+"Trotuse",
+1,
+[]
+],
+[
+"Tukker",
+1,
+[]
+],
+[
+"Tukor Alma",
+1,
+[]
+],
+[
+"Tupstones",
+1,
+[]
+],
+[
+"Twenty Ounce",
+1,
+[]
+],
+[
+"Tydeman's Early Worcester",
+1,
+[]
+],
+[
+"Tydeman's Michaelmas Red",
+1,
+[]
+],
+[
+"Tyler's Kernel",
+1,
+[]
+],
+[
+"Udale 1",
+1,
+[]
+],
+[
+"Uland",
+1,
+[]
+],
+[
+"Ulmer Reinette",
+1,
+[]
+],
+[
+"Underleaf",
+1,
+[]
+],
+[
+"Undine",
+1,
+[]
+],
+[
+"Vajki Alma",
+1,
+[]
+],
+[
+"Vegi Cox",
+1,
+[]
+],
+[
+"Venus Pippin",
+1,
+[]
+],
+[
+"Verallot",
+1,
+[]
+],
+[
+"Verde Doncella",
+1,
+[]
+],
+[
+"Verdese",
+1,
+[]
+],
+[
+"Verdona",
+1,
+[]
+],
+[
+"Verite",
+1,
+[]
+],
+[
+"Vernade",
+1,
+[
+"Versane"
+]
+],
+[
+"Vernajou",
+1,
+[]
+],
+[
+"Vicar of Beighton",
+1,
+[]
+],
+[
+"Vicking",
+1,
+[]
+],
+[
+"Victory",
+1,
+[
+"Carpenter",
+"Minnesota 396"
+]
+],
+[
+"Vincent",
+1,
+[]
+],
+[
+"Violetta",
+1,
+[]
+],
+[
+"Violette",
+1,
+[]
+],
+[
+"Vlaanderens Roem Rode Boskoop",
+1,
+[]
+],
+[
+"Voyager",
+1,
+[]
+],
+[
+"Wadey's Seedling",
+1,
+[]
+],
+[
+"Wadhurst Pippin",
+1,
+[]
+],
+[
+"Wang Young",
+1,
+[]
+],
+[
+"Warden",
+1,
+[]
+],
+[
+"Wardington Seedling",
+1,
+[]
+],
+[
+"Warner's King",
+1,
+[
+"Barker's Seedling",
+"David T. Fish",
+"Drumlanrig Castle",
+"D. T. Fisch",
+"D. T. Fish",
+"Fish",
+"Fish D. T.",
+"Killick's Apple",
+"Killick's Big Apple",
+"King",
+"King Apple",
+"King's",
+"Kings",
+"Nelson's Glory",
+"Poor Man's Friend",
+"Roi de Warner",
+"Salopian",
+"Silverton Pippin",
+"Veitch's Cluster",
+"Warner's Königs-Apfel",
+"Warner's Seedling",
+"Weavering",
+"Weavering Apple"
+]
+],
+[
+"Warren's Seedling",
+1,
+[]
+],
+[
+"Washington Strawberry",
+1,
+[
+"Juniata"
+]
+],
+[
+"Wayne",
+1,
+[]
+],
+[
+"Webb's Kitchen Russet",
+1,
+[]
+],
+[
+"Webster",
+1,
+[]
+],
+[
+"Weidners Goldreinette",
+1,
+[]
+],
+[
+"Weight",
+1,
+[]
+],
+[
+"Weisser Winter Taffetapfel",
+1,
+[]
+],
+[
+"Weisses Seidenhemdchen",
+1,
+[]
+],
+[
+"Welcome",
+1,
+[]
+],
+[
+"Wellington Bloomless",
+1,
+[]
+],
+[
+"West View Seedling",
+1,
+[]
+],
+[
+"Westfield Seek-no-Further",
+1,
+[]
+],
+[
+"Weston's Seedling",
+1,
+[]
+],
+[
+"Wheeler's Russet",
+1,
+[
+"Reinette Grise de Wheeler"
+]
+],
+[
+"White Quarrenden",
+1,
+[]
+],
+[
+"Wickham Green",
+1,
+[]
+],
+[
+"Widdup",
+1,
+[]
+],
+[
+"Wilhelm Ley",
+1,
+[]
+],
+[
+"Wilkenburger Herbstreinette",
+1,
+[]
+],
+[
+"William Peters",
+1,
+[]
+],
+[
+"Willie Sharp",
+1,
+[]
+],
+[
+"Wilmuta",
+1,
+[]
+],
+[
+"Winter Gem",
+1,
+[]
+],
+[
+"Winter Lemon",
+1,
+[]
+],
+[
+"Winter Majetin",
+1,
+[]
+],
+[
+"Winter Marigold",
+1,
+[]
+],
+[
+"Winter Peach",
+1,
+[]
+],
+[
+"Winter Quarrenden",
+1,
+[]
+],
+[
+"Winter Stubbard",
+1,
+[]
+],
+[
+"Woodford",
+1,
+[]
+],
+[
+"Woolbrook Pippin",
+1,
+[]
+],
+[
+"Woolbrook Russet",
+1,
+[]
+],
+[
+"Worcester Woodsil",
+1,
+[]
+],
+[
+"Wrixparent",
+1,
+[]
+],
+[
+"Yamborka",
+1,
+[]
+],
+[
+"Ye Old Peasgood",
+1,
+[]
+],
+[
+"Yellow Ingestrie",
+1,
+[]
+],
+[
+"Yellow Pitcher",
+1,
+[]
+],
+[
+"York-a-Red",
+1,
+[]
+],
+[
+"Yorkshire Aromatic",
+1,
+[]
+],
+[
+"Yorkshire Greening",
+1,
+[]
+],
+[
+"Young America",
+1,
+[]
+],
+[
+"Young's Pinello",
+1,
+[]
+],
+[
+"Zelyonka Kharkovskaya",
+1,
+[
+"Zelenka"
+]
+],
+[
+"Zhigulevskoe",
+1,
+[]
+],
+[
+"Zigeunerin",
+1,
+[]
+],
+[
+"Zomer Delicious",
+1,
+[]
+],
+[
+"Red Pineapple",
+1,
+[]
+],
+[
+"Brina",
+1,
+[]
+],
+[
+"Brown Snout",
+1,
+[]
+],
+[
+"Reinette de Saintonge",
+1,
+[
+"Blandilalie",
+"Geele Gulderling",
+"Haute-Bonté"
+]
+],
+[
+"Iveria",
+1,
+[]
+],
+[
+"Major (cider apple)",
+1,
+[]
+],
+[
+"Langton’s Nonsuch",
+1,
+[
+"Langton Nonsuch",
+"Nonesuch",
+"Nonsuch"
+]
+],
+[
+"Harrison Cider Apple",
+1,
+[
+"Harrison"
+]
+],
+[
+"Malinda",
+1,
+[]
+],
+[
+"Bailey Sweet",
+1,
+[]
+],
+[
+"Julieta",
+1,
+[]
+],
+[
+"EverCrisp",
+1,
+[
+"MAIA 1"
+]
+],
+[
+"MN55",
+1,
+[
+"First Kiss",
+"Rave"
+]
+],
+[
+"Nicola",
+1,
+[]
+],
+[
+"Summerfree",
+1,
+[]
+],
+[
+"Taliaferro",
+1,
+[
+"Robertson",
+"Robinson"
+]
+],
+[
+"Coruñesa",
+1,
+[]
+],
+[
+"Louriñán",
+1,
+[]
+],
+[
+"Prieta",
+1,
+[]
+],
+[
+"Toreno",
+1,
+[]
+],
+[
+"Calvilla Roja",
+1,
+[]
+],
+[
+"Calvilla San Salvador",
+1,
+[]
+],
+[
+"Roqueta",
+1,
+[]
+],
+[
+"Mora",
+1,
+[]
+],
+[
+"De Agosto",
+1,
+[]
+],
+[
+"Asturias",
+1,
+[]
+],
+[
+"Malus 'Hyvingiensis'",
+1,
+[
+"Malus Hyvingiensis"
+]
+],
+[
+"Hesztia",
+1,
+[]
+],
+[
+"Rodonit",
+1,
+[]
+],
+[
+"Cordelia",
+1,
+[]
+],
+[
+"Karneol",
+1,
+[]
+],
+[
+"Rosmerta",
+1,
+[]
+],
+[
+"Costard",
+1,
+[]
+],
+[
+"Golden Hornet",
+1,
+[]
+],
+[
+"Cabaret",
+0,
+[
+"apple 'Cabaret'",
+"Cabaret apple",
+"NUVAR NC3",
+"NUVAR NC3 (CABARET)"
+]
+],
+[
+"Early Crofton",
+0,
+[
+"Crofton"
+]
+],
+[
+"Sweet Society",
+0,
+[]
+],
+[
+"Jumbo",
+0,
+[]
+],
+[
+"Royal Russet",
+0,
+[]
+],
+[
+"Irene",
+0,
+[]
+],
+[
+"Kudos",
+0,
+[
+"Kudos apple",
+"MN33"
+]
+],
+[
+"PRI 14-510",
+0,
+[
+"PRI-14-510"
+]
+],
+[
+"NJ 123249",
+0,
+[]
+],
+[
+"NJ 117637",
+0,
+[]
+],
+[
+"NJ 130",
+0,
+[]
+],
+[
+"NJ 12",
+0,
+[]
+],
+[
+"Malus floribunda 821",
+0,
+[
+"clone 821 of Malus floribunda",
+"Mf821"
+]
+],
+[
+"F₂ 26829-2-2",
+0,
+[
+"F2 26829-2-2"
+]
+],
+[
+"PRI 14-126",
+0,
+[]
+],
+[
+"OR53T52",
+0,
+[]
+],
+[
+"PR7T19",
+0,
+[]
+],
+[
+"9433-2-8",
+0,
+[]
+],
+[
+"9433-2-2",
+0,
+[]
+],
+[
+"PRI 610-2",
+0,
+[]
+],
+[
+"PRI 14-226",
+0,
+[]
+],
+[
+"PRI 14-152",
+0,
+[]
+],
+[
+"PRI 565",
+0,
+[]
+],
+[
+"27-435",
+0,
+[]
+],
+[
+"Illinois #5",
+0,
+[]
+],
+[
+"R12740-7A",
+0,
+[]
+],
+[
+"Sandel",
+0,
+[]
+],
+[
+"Ottawa 522",
+0,
+[]
+],
+[
+"BX 44,18",
+0,
+[]
+],
+[
+"BX 44,14",
+0,
+[
+"BX44,14"
+]
+],
+[
+"Kurzcox",
+0,
+[]
+],
+[
+"BX 44,2",
+0,
+[]
+],
+[
+"BV 67,47",
+0,
+[]
+],
+[
+"NJ4",
+0,
+[]
+],
+[
+"NJ14",
+0,
+[]
+],
+[
+"Edgewood",
+0,
+[]
+],
+[
+"NY 18492",
+0,
+[]
+],
+[
+"NY 49821-46",
+0,
+[]
+],
+[
+"Statesman",
+0,
+[
+"Chandler's Statesman"
+]
+],
+[
+"M.1",
+0,
+[
+"Malling 1"
+]
+],
+[
+"M.16",
+0,
+[
+"Malling 16"
+]
+],
+[
+"M.13",
+0,
+[
+"Malling 13"
+]
+],
+[
+"Malling 4",
+0,
+[]
+],
+[
+"Robin",
+0,
+[]
+],
+[
+"OR38T16",
+0,
+[]
+],
+[
+"Primula",
+0,
+[]
+],
+[
+"Fizz",
+0,
+[
+"Fizz apple",
+"FIZZ™",
+"Malus domestica 'PremA021'",
+"PremA021"
+]
+],
+[
+"Yellow Transparent",
+0,
+[]
+],
+[
+"Northwestern Greening",
+0,
+[]
+],
+[
+"Giga",
+0,
+[
+"Giga apple"
+]
+],
+[
+"Spokane Beauty",
+0,
+[]
+],
+[
+"Eve's Delight",
+0,
+[]
+],
+[
+"Omont",
+0,
+[]
+],
+[
+"Eve",
+0,
+[]
+],
+[
+"Keepsake",
+0,
+[]
+],
+[
+"Geneva Early",
+0,
+[
+"Early Geneva"
+]
+],
+[
+"July Red",
+0,
+[]
+],
+[
+"3022",
+0,
+[]
+],
+[
+"Abbott's Early",
+0,
+[]
+],
+[
+"Amorosa",
+0,
+[]
+],
+[
+"Ard Cairn Russet",
+0,
+[]
+],
+[
+"Autumn Harvest",
+0,
+[]
+],
+[
+"Ball's Pippin",
+0,
+[]
+],
+[
+"Barnhill Pippin",
+0,
+[]
+],
+[
+"Bellida",
+0,
+[]
+],
+[
+"Belvoir Seedling",
+0,
+[]
+],
+[
+"Berna",
+0,
+[]
+],
+[
+"Biggs's Nonsuch",
+0,
+[]
+],
+[
+"Black Mickey",
+0,
+[]
+],
+[
+"Breedon Pippin",
+0,
+[]
+],
+[
+"Bridgewater Pippin",
+0,
+[
+"Bridgewater Pippin of Cheal"
+]
+],
+[
+"Brown Crofton",
+0,
+[]
+],
+[
+"Burr Knot (Howard)",
+0,
+[]
+],
+[
+"Buzaval Ero Alma",
+0,
+[]
+],
+[
+"Calville des Prairies",
+0,
+[]
+],
+[
+"Calville Malingre",
+0,
+[]
+],
+[
+"Calville Rouge d'Automne (Barnes)",
+0,
+[]
+],
+[
+"Chips",
+0,
+[]
+],
+[
+"Cissy",
+0,
+[]
+],
+[
+"Clopton Red",
+0,
+[]
+],
+[
+"Cockpit",
+0,
+[]
+],
+[
+"Coul Blush",
+0,
+[]
+],
+[
+"Courtagold",
+0,
+[]
+],
+[
+"Cox's Orange Pippin (Vinson)",
+0,
+[
+"Cox's Orange Pippin Red Sport"
+]
+],
+[
+"Cox's Orange Pippin spur type Alof",
+0,
+[]
+],
+[
+"Crimson Peasgood",
+0,
+[]
+],
+[
+"Crimson Superb",
+0,
+[]
+],
+[
+"Dermen McIntosh",
+0,
+[]
+],
+[
+"Discovery spur type",
+0,
+[]
+],
+[
+"Double-Red Baldwin",
+0,
+[]
+],
+[
+"Doud Golden Delicious",
+0,
+[]
+],
+[
+"Dubbele Zoete Aagt",
+0,
+[]
+],
+[
+"Early Julyan",
+0,
+[]
+],
+[
+"Ed Gould Golden",
+0,
+[]
+],
+[
+"Edington 1",
+0,
+[]
+],
+[
+"Eight Square",
+0,
+[]
+],
+[
+"Elbee",
+0,
+[]
+],
+[
+"Elnica",
+0,
+[]
+],
+[
+"Elstar Reinhardt",
+0,
+[]
+],
+[
+"EM W38",
+0,
+[]
+],
+[
+"Endsleigh Beauty",
+0,
+[]
+],
+[
+"Epicurean",
+0,
+[]
+],
+[
+"Eustis",
+0,
+[]
+],
+[
+"Fantazja",
+0,
+[]
+],
+[
+"Faversham Creek Seedling",
+0,
+[]
+],
+[
+"Firs No. 3",
+0,
+[]
+],
+[
+"Fremy",
+0,
+[]
+],
+[
+"Fuji INRType4 - Nagafu (No2) INFEL 6671",
+0,
+[]
+],
+[
+"Fyriki",
+0,
+[]
+],
+[
+"Gibbon's Russet",
+0,
+[]
+],
+[
+"Gold Reinette",
+0,
+[]
+],
+[
+"Golden Delicious kloon B",
+0,
+[]
+],
+[
+"Golden Delicious Russet",
+0,
+[]
+],
+[
+"Golden Royal",
+0,
+[]
+],
+[
+"Golden Russet of Western New York",
+0,
+[]
+],
+[
+"Goldwin 2",
+0,
+[]
+],
+[
+"Grange's Pearmain",
+0,
+[]
+],
+[
+"Granny Smith",
+0,
+[]
+],
+[
+"Greasy Pippin",
+0,
+[]
+],
+[
+"Green Balsam",
+0,
+[]
+],
+[
+"Green Kilpandy Pippin",
+0,
+[]
+],
+[
+"Harry Pring",
+0,
+[]
+],
+[
+"Hidala",
+0,
+[]
+],
+[
+"Holstein Mahler",
+0,
+[]
+],
+[
+"Holstein Palloks",
+0,
+[]
+],
+[
+"Holstein sport (NFT)",
+0,
+[]
+],
+[
+"Hubbard's Pearmain",
+0,
+[]
+],
+[
+"Hunter Kinkead Spy",
+0,
+[]
+],
+[
+"Hunter Ottawa",
+0,
+[
+"Hunter Ottawa (244)"
+]
+],
+[
+"Hunter Spartan",
+0,
+[]
+],
+[
+"Idaho Delicious",
+0,
+[]
+],
+[
+"Iduna",
+0,
+[]
+],
+[
+"Jennifer Wastie",
+0,
+[]
+],
+[
+"Jersey Beauty",
+0,
+[]
+],
+[
+"JI. 34127",
+0,
+[]
+],
+[
+"Joaneting",
+0,
+[]
+],
+[
+"Johnson McIntosh",
+0,
+[]
+],
+[
+"Jonathan 15 Welday",
+0,
+[]
+],
+[
+"Jonathan 19 Welday",
+0,
+[]
+],
+[
+"Jonica",
+0,
+[]
+],
+[
+"Jorayca",
+0,
+[]
+],
+[
+"JTE E",
+0,
+[]
+],
+[
+"JTE F",
+0,
+[]
+],
+[
+"JTE G",
+0,
+[]
+],
+[
+"JTE H",
+0,
+[]
+],
+[
+"June Crewdson",
+0,
+[]
+],
+[
+"Juno",
+0,
+[]
+],
+[
+"Kerry Pippin",
+0,
+[]
+],
+[
+"Kimball McIntosh",
+0,
+[]
+],
+[
+"King of Tompkins County",
+0,
+[]
+],
+[
+"Kingston Black",
+0,
+[]
+],
+[
+"Kinkead Red Spy",
+0,
+[]
+],
+[
+"Knobby Russet",
+0,
+[]
+],
+[
+"Koningin Julian",
+0,
+[]
+],
+[
+"Krasnyi shtandart",
+0,
+[]
+],
+[
+"Lady's Delight",
+0,
+[]
+],
+[
+"Last Minute",
+0,
+[]
+],
+[
+"Laxton's Superb NFT clone",
+0,
+[]
+],
+[
+"Laxton's Victory",
+0,
+[]
+],
+[
+"Lizzy",
+0,
+[]
+],
+[
+"London Pearmain",
+0,
+[]
+],
+[
+"Loop Spy",
+0,
+[]
+],
+[
+"Loop Wealthy",
+0,
+[]
+],
+[
+"Lovacka Reneta",
+0,
+[]
+],
+[
+"M 20",
+0,
+[
+"M.20",
+"Malling 20"
+]
+],
+[
+"M25",
+0,
+[
+"M.25",
+"Malling 25"
+]
+],
+[
+"M26",
+0,
+[
+"EMLA 26",
+"M 26",
+"M.26",
+"Malling 26"
+]
+],
+[
+"M27",
+0,
+[
+"M.27",
+"Malling 27"
+]
+],
+[
+"M9",
+0,
+[]
+],
+[
+"Macfree",
+0,
+[]
+],
+[
+"Maggie Sinclair",
+0,
+[]
+],
+[
+"Margaret",
+0,
+[]
+],
+[
+"Marina",
+0,
+[]
+],
+[
+"Maruba",
+0,
+[]
+],
+[
+"Mason's Pippin",
+0,
+[]
+],
+[
+"McCutcheon 1",
+0,
+[]
+],
+[
+"Mere de Bai",
+0,
+[]
+],
+[
+"Meri de Samint",
+0,
+[]
+],
+[
+"Merton Prolific",
+0,
+[]
+],
+[
+"Merton Reinette",
+0,
+[]
+],
+[
+"Millicent Barnes sport",
+0,
+[]
+],
+[
+"Milwa",
+0,
+[]
+],
+[
+"MM106",
+0,
+[
+"EMLA 106",
+"Malling-Merton 106",
+"MM.106"
+]
+],
+[
+"Malling-Merton 111",
+0,
+[
+"EMLA 111",
+"MM.111",
+"MM111"
+]
+],
+[
+"MN 1695",
+0,
+[]
+],
+[
+"Monk's Golden Pippin",
+0,
+[]
+],
+[
+"Moore's Seedling",
+0,
+[]
+],
+[
+"Moss's Seedling",
+0,
+[]
+],
+[
+"Mother (Taylor)",
+0,
+[]
+],
+[
+"Mrs. Lakeman's Seedling",
+0,
+[]
+],
+[
+"Munster Tulip",
+0,
+[]
+],
+[
+"Muntenesti",
+0,
+[]
+],
+[
+"Mutsu spur type",
+0,
+[
+"Crispin Spur Type"
+]
+],
+[
+"Nebuta",
+0,
+[]
+],
+[
+"Nemes Sovari Alma",
+0,
+[
+"Nemes Sovari Alma (of Hungary)"
+]
+],
+[
+"New Fuji",
+0,
+[]
+],
+[
+"New Rock Pippin",
+0,
+[]
+],
+[
+"NFT 1",
+0,
+[]
+],
+[
+"Norfolk Beefing",
+0,
+[]
+],
+[
+"Norman's Pippin",
+0,
+[]
+],
+[
+"Novamac",
+0,
+[]
+],
+[
+"Old Pearmain of Kelsey",
+0,
+[
+"Old Pearmain"
+]
+],
+[
+"Old Rock Pippin",
+0,
+[]
+],
+[
+"Onibury Pippin",
+0,
+[]
+],
+[
+"Osborne 1",
+0,
+[]
+],
+[
+"Osnabrucker Reinette",
+0,
+[]
+],
+[
+"P.J. Bergius",
+0,
+[]
+],
+[
+"Park Farm Pippin",
+0,
+[]
+],
+[
+"Paulared",
+0,
+[]
+],
+[
+"Pepin Shafrannyi",
+0,
+[]
+],
+[
+"Pig's Nose Pippin",
+0,
+[]
+],
+[
+"Plympton King",
+0,
+[]
+],
+[
+"Polan 14",
+0,
+[]
+],
+[
+"Polan 2",
+0,
+[]
+],
+[
+"Pomme Crotte",
+0,
+[]
+],
+[
+"Prince Gala/Regal Prince",
+0,
+[]
+],
+[
+"Puckrupt Pippin",
+0,
+[]
+],
+[
+"Queen Anne",
+0,
+[]
+],
+[
+"Queen Mary",
+0,
+[]
+],
+[
+"Red Alkmene",
+0,
+[
+"Red Windsor"
+]
+],
+[
+"Red Laxton's Superb",
+0,
+[]
+],
+[
+"Red Newton Wonder",
+0,
+[]
+],
+[
+"Red Pixie",
+0,
+[]
+],
+[
+"Redcoat Grieve",
+0,
+[
+"Red-Coat Grieve"
+]
+],
+[
+"Reinette Courthay",
+0,
+[]
+],
+[
+"Reinette d'Amerique",
+0,
+[]
+],
+[
+"Reinette d'Anthezieux",
+0,
+[]
+],
+[
+"Reinette de Bordeaux",
+0,
+[]
+],
+[
+"Reinette de Brucbrucks",
+0,
+[]
+],
+[
+"Reinette de Geer",
+0,
+[]
+],
+[
+"Reinette de Granville",
+0,
+[]
+],
+[
+"Reinette de Macon",
+0,
+[]
+],
+[
+"Reinette de Maurs",
+0,
+[]
+],
+[
+"Reinette de Metz",
+0,
+[]
+],
+[
+"Reinette de Plouerc",
+0,
+[]
+],
+[
+"Reinette de Pluvigne",
+0,
+[]
+],
+[
+"Reinette de Raffray",
+0,
+[]
+],
+[
+"Reinette de Versailles",
+0,
+[]
+],
+[
+"Reinette Grise de Billon",
+0,
+[]
+],
+[
+"Reinette Grise de la Creuse",
+0,
+[]
+],
+[
+"Reinette Grise de Portugal",
+0,
+[]
+],
+[
+"Reinette Grise Haute-Bonte",
+0,
+[]
+],
+[
+"Reinette Longue Queue",
+0,
+[]
+],
+[
+"Reinette a la Reine",
+0,
+[]
+],
+[
+"Reinette Marbree",
+0,
+[]
+],
+[
+"Reinette Sanguine du Rhin",
+0,
+[]
+],
+[
+"Reinette Thouin",
+0,
+[]
+],
+[
+"Reinette van Berk's",
+0,
+[]
+],
+[
+"Reinette van Ekenstein",
+0,
+[]
+],
+[
+"Rhode Island Greening (4x)",
+0,
+[]
+],
+[
+"Robinson 1",
+0,
+[]
+],
+[
+"Robinson 2",
+0,
+[]
+],
+[
+"Rogers McIntosh",
+0,
+[
+"Double Red McIntosh"
+]
+],
+[
+"Rote Goldparmane",
+0,
+[]
+],
+[
+"Rough Pippin",
+0,
+[]
+],
+[
+"Thorrington Ruby",
+0,
+[
+"Ruby",
+"Thorrington"
+]
+],
+[
+"Ruby Rome Beauty",
+0,
+[]
+],
+[
+"Rushock Pearmain",
+0,
+[]
+],
+[
+"Russet Lambourne",
+0,
+[]
+],
+[
+"Russet Superb",
+0,
+[]
+],
+[
+"Sandew",
+0,
+[]
+],
+[
+"Scotia",
+0,
+[]
+],
+[
+"Sexton 1",
+0,
+[]
+],
+[
+"Sharleston Pippin",
+0,
+[]
+],
+[
+"Sops in Wine",
+0,
+[]
+],
+[
+"Spatbluhender Taffetapfel",
+0,
+[]
+],
+[
+"Spencer Seedless",
+0,
+[]
+],
+[
+"St. Brita",
+0,
+[]
+],
+[
+"Stearns",
+0,
+[]
+],
+[
+"Stevenson Wealthy",
+0,
+[]
+],
+[
+"Stoke Edith Pippin",
+0,
+[]
+],
+[
+"Strawberry Pippin",
+0,
+[]
+],
+[
+"Summer Apple",
+0,
+[]
+],
+[
+"Summer Broaden",
+0,
+[]
+],
+[
+"Summer John",
+0,
+[]
+],
+[
+"Summerglo",
+0,
+[]
+],
+[
+"Szechenyi Renet",
+0,
+[]
+],
+[
+"Tailman",
+0,
+[]
+],
+[
+"Testerspur Golden Delicious",
+0,
+[]
+],
+[
+"Tewkesbury Baron",
+0,
+[]
+],
+[
+"Tim's Early",
+0,
+[]
+],
+[
+"Tiroler Spitzlederer",
+0,
+[]
+],
+[
+"Titovka",
+0,
+[]
+],
+[
+"Tullebolle",
+0,
+[]
+],
+[
+"Tydeman's Harvest",
+0,
+[]
+],
+[
+"Unknown",
+0,
+[]
+],
+[
+"Veekmans Jonaster",
+0,
+[]
+],
+[
+"Vinnoe",
+0,
+[]
+],
+[
+"Winston coloured sport",
+0,
+[
+"Winston sport"
+]
+],
+[
+"Withington Fillbasket",
+0,
+[]
+],
+[
+"Yellow Newtown Pippin",
+0,
+[]
+],
+[
+"Story",
+0,
+[]
+],
+[
+"Anisa",
+0,
+[
+"Anixa",
+"Apez sagarra",
+"Aphez sagarra",
+"Rosalia",
+"Udarre sagarra"
+]
+],
+[
+"Gordin xuria",
+0,
+[]
+],
+[
+"Uzta gorria",
+0,
+[]
+],
+[
+"Mamula",
+0,
+[]
+],
+[
+"Ondomotxa",
+0,
+[]
+],
+[
+"Platet",
+0,
+[]
+],
+[
+"Rangote",
+0,
+[
+"Rangotte"
+]
+],
+[
+"Eri sagarra",
+0,
+[]
+],
+[
+"Fenouillet Aubert",
+0,
+[
+"Fenouillet"
+]
+],
+[
+"Azéroli",
+0,
+[]
+],
+[
+"Belle-Fille",
+0,
+[
+"Fleurit-tard",
+"Hollande",
+"Pilette"
+]
+],
+[
+"Court-pendu gris du Limousin",
+0,
+[
+"Reinette grise du Limousin"
+]
+],
+[
+"Coutras des Pyrénées",
+0,
+[
+"Couteras"
+]
+],
+[
+"Pay Bou",
+0,
+[
+"Agorrila sagarra",
+"Andere Maria sagarra",
+"Calville rouge d'été",
+"Dona Maria sagarre",
+"Kokua",
+"Labellie",
+"pomme de garbe"
+]
+],
+[
+"Pérasse ronde",
+0,
+[
+"Reinette de Gan"
+]
+],
+[
+"Peaxa",
+0,
+[
+"Peatxa"
+]
+],
+[
+"Pérasse jaune",
+0,
+[]
+],
+[
+"Pomme Dieu",
+0,
+[
+"Rose Dieu",
+"Teint frais"
+]
+],
+[
+"Pomme d'ile",
+0,
+[
+"Farrière",
+"Poma d'ila",
+"pomme Dylle"
+]
+],
+[
+"Eztika",
+0,
+[]
+],
+[
+"Pérasse grise",
+0,
+[]
+],
+[
+"Apion",
+0,
+[
+"Api jaune",
+"pomme Pion"
+]
+],
+[
+"Belle Louronnaise",
+0,
+[
+"Grosse Verte d'août",
+"Grosse Verte de Guyenne",
+"Nez-de-Veau"
+]
+],
+[
+"Bordes",
+0,
+[
+"Pomme d'Enfer"
+]
+],
+[
+"Carabilha",
+0,
+[
+"Calabilha",
+"Calville rouge",
+"Caramilde",
+"Caramile",
+"Escarbilha"
+]
+],
+[
+"Rouge des vignes",
+0,
+[
+"Calville des vignes",
+"Calville rouge de Verneuil"
+]
+],
+[
+"Calville rouge du Rouergue",
+0,
+[]
+],
+[
+"Rouge des vergnes",
+0,
+[]
+],
+[
+"Canine des clòts",
+0,
+[
+"Canine des clots",
+"Reine de Viaur"
+]
+],
+[
+"Chourrau",
+0,
+[
+"Choureau",
+"Reinette Choureau"
+]
+],
+[
+"Grelot",
+0,
+[
+"Forlass"
+]
+],
+[
+"Museau de Lièvre",
+0,
+[
+"Mourre de Lèbe",
+"Mourre de Lèbre",
+"Mus de Lèbe"
+]
+],
+[
+"Redondelle",
+0,
+[
+"Blandureau",
+"Blandurel d'Auvergne",
+"Rondelle verte"
+]
+],
+[
+"Reinette blanche d'Espagne",
+0,
+[
+"Baronne",
+"Blanche de Champagne",
+"Camoise",
+"Camueza",
+"Camuzar"
+]
+],
+[
+"Rivière",
+0,
+[]
+],
+[
+"Hromentina",
+0,
+[
+"Roumentière",
+"Roumentine"
+]
+],
+[
+"Baratze Sagarra",
+0,
+[
+"San Juan Sagarra"
+]
+],
+[
+"Trompe-Gelée",
+0,
+[]
+],
+[
+"Vermillon d'Espagne",
+0,
+[
+"Merveillon d'Espagne"
+]
+],
+[
+"G.11",
+0,
+[
+"G11",
+"GENEVA G.11",
+"GENEVA G11"
+]
+],
+[
+"G.16",
+0,
+[
+"G16",
+"GENEVA G.16",
+"GENEVA G16"
+]
+],
+[
+"G.41",
+0,
+[
+"G41",
+"GENEVA G.41",
+"GENEVA G41"
+]
+],
+[
+"G.213",
+0,
+[
+"G213",
+"GENEVA G.213",
+"GENEVA G213"
+]
+],
+[
+"G.214",
+0,
+[
+"G214",
+"GENEVA G.214",
+"GENEVA G214"
+]
+],
+[
+"G.814",
+0,
+[
+"G814",
+"GENEVA G.814",
+"GENEVA G814"
+]
+],
+[
+"G.935",
+0,
+[
+"G935",
+"GENEVA G.935",
+"GENEVA G935"
+]
+],
+[
+"G.222",
+0,
+[
+"G222",
+"GENEVA G.222",
+"GENEVA G222"
+]
+],
+[
+"G.202",
+0,
+[
+"G202",
+"GENEVA G.202",
+"GENEVA G202"
+]
+],
+[
+"G.969",
+0,
+[
+"G969",
+"GENEVA G.969",
+"GENEVA G969"
+]
+],
+[
+"G.30",
+0,
+[
+"G30",
+"GENEVA G.30",
+"GENEVA G30"
+]
+],
+[
+"G.210",
+0,
+[
+"G210",
+"GENEVA G.210",
+"GENEVA G210"
+]
+],
+[
+"G.890",
+0,
+[
+"G890",
+"GENEVA G.890",
+"GENEVA G890"
+]
+],
+[
+"G.65",
+0,
+[
+"G65",
+"GENEVA G.65",
+"GENEVA G65"
+]
+],
+[
+"M116",
+0,
+[]
+],
+[
+"Mich 96",
+0,
+[]
+],
+[
+"jm1",
+0,
+[]
+],
+[
+"B 70-20-20",
+0,
+[]
+],
+[
+"JM7",
+0,
+[]
+],
+[
+"M9-RN8",
+0,
+[]
+],
+[
+"Pi 80 Select",
+0,
+[]
+],
+[
+"M9-RN29",
+0,
+[]
+],
+[
+"Fuji-Spike",
+0,
+[]
+],
+[
+"Triple E",
+0,
+[
+"Triple E Fuji"
+]
+],
+[
+"M9-RN19",
+0,
+[]
+],
+[
+"SON HONG",
+0,
+[
+"sonhong"
+]
+],
+[
+"Starapple1",
+0,
+[]
+],
+[
+"ROSALIE",
+0,
+[]
+],
+[
+"UEBI 406/1",
+0,
+[]
+],
+[
+"Waliser Gala",
+0,
+[]
+],
+[
+"Jonagold de Coster",
+0,
+[]
+],
+[
+"DS-165",
+0,
+[
+"DS 165"
+]
+],
+[
+"HS RED",
+0,
+[]
+],
+[
+"PB-148",
+0,
+[]
+],
+[
+"RS103-110",
+0,
+[]
+],
+[
+"Banning Red Fuji",
+0,
+[]
+],
+[
+"RS103-130",
+0,
+[]
+],
+[
+"Davis",
+0,
+[]
+],
+[
+"Lady in Red",
+0,
+[]
+],
+[
+"AB17",
+0,
+[]
+],
+[
+"Jafu",
+0,
+[]
+],
+[
+"NJ109",
+0,
+[]
+],
+[
+"NJ88",
+0,
+[]
+],
+[
+"Belle Cox",
+0,
+[]
+],
+[
+"UEB 38026",
+0,
+[]
+],
+[
+"Stella Minnesota",
+0,
+[]
+],
+[
+"Fuji 216",
+0,
+[]
+],
+[
+"Miriela",
+0,
+[]
+],
+[
+"Budagovsky 490",
+0,
+[
+"B.490",
+"Bud 490",
+"Bud.490"
+]
+],
+[
+"Malling 7",
+0,
+[
+"EMLA 7",
+"M.7"
+]
+],
+[
+"Malling-Merton 103",
+0,
+[
+"MM.103"
+]
+],
+[
+"Malling-Merton 104",
+0,
+[
+"MM.104"
+]
+],
+[
+"Malling-Merton 109",
+0,
+[
+"MM.109"
+]
+],
+[
+"Merton 778",
+0,
+[]
+],
+[
+"Merton 779",
+0,
+[]
+],
+[
+"Merton 793",
+0,
+[]
+],
+[
+"Mark",
+0,
+[]
+],
+[
+"Ottawa 3",
+0,
+[
+"O.3"
+]
+],
+[
+"P.1",
+0,
+[]
+],
+[
+"P.2",
+0,
+[]
+],
+[
+"P.18",
+0,
+[]
+],
+[
+"Budagovsky 9",
+0,
+[
+"B.9",
+"Bud 9",
+"Bud.9"
+]
+],
+[
+"Budagovsky 118",
+0,
+[
+"B.118",
+"Bud 118",
+"Bud.118"
+]
+],
+[
+"Malling 7 virus certified #337",
+0,
+[
+"M9-337"
+]
+],
+[
+"Malling 9 selection NIC 29",
+0,
+[
+"Nic 29",
+"Renẻ Nicolaϊ 29",
+"RN 29 cv."
+]
+],
+[
+"Menigasker",
+0,
+[]
+],
+[
+"Pigeonnet",
+0,
+[]
+],
+[
+"Southern Rose",
+0,
+[
+"Aurora",
+"red Braeburn"
+]
+],
+[
+"Cantared",
+0,
+[]
+],
+[
+"Lochbuie",
+0,
+[
+"Lochbuie Red Braeburn"
+]
+],
+[
+"Zari",
+0,
+[]
+],
+[
+"Åkerö from Gripsholm",
+0,
+[
+"Åkerö från Gripsholm"
+]
+]
+]

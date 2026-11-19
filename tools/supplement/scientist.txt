@@ -81,3 +81,6 @@ Shen Kuo
 Aryabhata
 Brahmagupta
 Bhaskara
+Lord Kelvin=kelvin=william thomson
+Lord Rayleigh=rayleigh
+Lord Rutherford=rutherford

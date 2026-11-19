@@ -8,11 +8,184 @@ cut-offs calibrated on where that prompt's hand-ranked answers sit; dataset answ
 (Zipf ≥ 3.3 Burrower, ≥ 2.2 Rare, otherwise Deep Cut). Hand ranks always win, and only the hand pass
 sets Topsoil, Too Clever and the One in a Centapillion.
 
-Total extra answers: **20557** across 4 prompts.
+Total extra answers: **280578** across 177 prompts.
 
 | Prompt | Hand keys | Added | Burrower | Rare | Deep Cut | From | Wikidata ranks | Skipped |
 |---|---|---|---|---|---|---|---|---|
-| scientist | 108 | 8643 | 40 | 4304 | 4299 | curated 51, wikidata 8536, datasets 56 | calibrated | unusable 1, already listed 69, spelling variant 42, everyday word 5 |
+| dog | 110 | 903 | 13 | 459 | 431 | wikidata 827, datasets 46 | calibrated | already listed 80, spelling variant 8, everyday word 5 |
+| catbreed | 73 | 77 | 1 | 15 | 61 | wikidata 66, datasets 8 | calibrated | already listed 63, everyday word 3, spelling variant 3 |
+| dinosaur | 78 | 1300 | 1 | 677 | 622 | curated 46, datasets 1254 | — | everyday word 2, blocked 4, category word 1, already listed 62, spelling variant 85 |
+| element | 121 | 0 | 0 | 0 | 0 | — | — | already listed 117, spelling variant 1 |
+| fruit | 101 | 2691 | 36 | 1335 | 1320 | wikidata 2683, datasets 8 | calibrated | unusable 4, already listed 66, spelling variant 30, everyday word 84, blocked 3 |
+| vegetable | 97 | 488 | 10 | 235 | 243 | wikidata 449, datasets 39 | by rank | already listed 63, everyday word 14, spelling variant 3, blocked 9 |
+| cheese | 86 | 2043 | 37 | 1009 | 997 | wikidata 351, datasets 1692 | by rank | already listed 73, everyday word 34, spelling variant 48, blocked 7 |
+| spice | 97 | 229 | 0 | 104 | 125 | curated 36, wikidata 138, datasets 55 | calibrated | already listed 68, spelling variant 4, everyday word 7 |
+| bread | 84 | 376 | 7 | 173 | 196 | curated 39, wikidata 329, datasets 8 | by rank | unusable 2, already listed 39, blocked 1, everyday word 28, spelling variant 1 |
+| beer | 69 | 270 | 4 | 122 | 144 | curated 39, wikidata 109, datasets 122 | calibrated | already listed 44, everyday word 18, spelling variant 2 |
+| cocktail | 85 | 497 | 4 | 242 | 251 | wikidata 491, datasets 6 | calibrated | already listed 69, everyday word 20, category word 1, spelling variant 3 |
+| condiment | 79 | 422 | 7 | 201 | 214 | wikidata 385, datasets 37 | calibrated | blocked 3, already listed 50, everyday word 26, spelling variant 4 |
+| pizzatopping | 78 | 54 | 0 | 31 | 23 | curated 50, datasets 4 | — | already listed 20, everyday word 1 |
+| sandwich | 78 | 263 | 0 | 120 | 143 | wikidata 202, datasets 61 | by rank | already listed 55, everyday word 13, spelling variant 1, blocked 9 |
+| flower | 98 | 69 | 0 | 25 | 44 | wikidata 56, datasets 13 | by rank | already listed 44, everyday word 3, blocked 4, spelling variant 1 |
+| pokemon | 127 | 543 | 0 | 253 | 290 | datasets 543 | — | already listed 97, spelling variant 8 |
+| scientist | 108 | 7629 | 40 | 3798 | 3791 | curated 53, wikidata 7493, datasets 83 | calibrated | unusable 2, already listed 67, spelling variant 31, everyday word 3 |
+| myth | 109 | 746 | 23 | 353 | 370 | curated 167, wikidata 544, datasets 35 | by rank | already listed 62, everyday word 14, spelling variant 8 |
+| greekgod | 79 | 288 | 1 | 130 | 157 | wikidata 275, datasets 13 | calibrated | already listed 68, spelling variant 2, everyday word 1 |
+| river | 98 | 34457 | 2 | 17242 | 17213 | wikidata 34443, datasets 14 | calibrated | unusable 2, already listed 97, everyday word 341, spelling variant 5620, category word 1 |
+| instrument | 106 | 4708 | 14 | 2359 | 2335 | curated 3, wikidata 4705 | calibrated | unusable 96, already listed 91, everyday word 60, blocked 2, spelling variant 175 |
+| musicgenre | 112 | 3196 | 35 | 1574 | 1587 | wikidata 3174, datasets 22 | calibrated | already listed 100, everyday word 156, spelling variant 37 |
+| gem | 71 | 338 | 2 | 161 | 175 | wikidata 83, datasets 255 | by rank | already listed 59, everyday word 3, blocked 20, spelling variant 13 |
+| boardgame | 95 | 3657 | 24 | 1828 | 1805 | wikidata 3625, datasets 32 | calibrated | unusable 17, already listed 69, spelling variant 36, everyday word 162 |
+| language | 99 | 881 | 39 | 420 | 422 | wikidata 662, datasets 219 | calibrated | already listed 78, everyday word 102, spelling variant 31, overlaps gem 1 |
 | carbrand | 112 | 2619 | 29 | 1291 | 1299 | curated 151, wikidata 2465, datasets 3 | calibrated | unusable 2, already listed 75, everyday word 76, spelling variant 41 |
-| spokenlang | 112 | 9078 | 33 | 4518 | 4527 | curated 39, wikidata 8553, datasets 486 | calibrated | already listed 102, spelling variant 459, everyday word 73 |
+| texascity | 148 | 748 | 1 | 357 | 390 | wikidata 744, datasets 4 | calibrated | already listed 123, everyday word 80, spelling variant 13 |
+| spokenlang | 112 | 9078 | 33 | 4518 | 4527 | curated 39, wikidata 8553, datasets 486 | calibrated | already listed 102, spelling variant 459, everyday word 71 |
+| rhymecat | 83 | 20 | 0 | 8 | 12 | curated 19, datasets 1 | — | already listed 22 |
+| rhymelight | 104 | 11 | 0 | 3 | 8 | datasets 11 | — | already listed 44, spelling variant 4 |
+| ology | 100 | 165 | 0 | 53 | 112 | datasets 165 | — | already listed 77, spelling variant 44 |
+| phobia | 69 | 56 | 0 | 6 | 50 | curated 47, datasets 9 | — | already listed 13, spelling variant 2 |
+| africa | 64 | 0 | 0 | 0 | 0 | — | calibrated | already listed 54 |
+| apple | 96 | 2296 | 22 | 1143 | 1131 | wikidata 2296 | calibrated | unusable 4, already listed 76, everyday word 70, spelling variant 30 |
+| asia | 59 | 0 | 0 | 0 | 0 | — | by rank | already listed 48 |
+| avenger | 77 | 32 | 0 | 6 | 26 | wikidata 32 | by rank | already listed 44, everyday word 3 |
+| band | 106 | 879 | 27 | 425 | 427 | curated 76, wikidata 803 | by rank | unusable 5, already listed 25, everyday word 85, spelling variant 1 |
+| beatles | 221 | 62 | 0 | 13 | 49 | curated 15, wikidata 47 | calibrated | already listed 177, spelling variant 1, everyday word 3 |
+| berry | 61 | 49 | 0 | 24 | 25 | curated 49 | — | — |
+| bestactor | 82 | 7 | 0 | 2 | 5 | wikidata 7 | calibrated | already listed 79 |
+| bestactress | 77 | 6 | 0 | 0 | 6 | wikidata 6 | calibrated | already listed 73 |
+| bestpicture | 98 | 1 | 0 | 0 | 1 | wikidata 1 | calibrated | already listed 75 |
+| birdofprey | 112 | 266 | 0 | 104 | 162 | wikidata 260 | calibrated | already listed 83, spelling variant 4 |
+| bone | 81 | 288 | 3 | 133 | 152 | curated 6, wikidata 282 | calibrated | already listed 51, everyday word 12, spelling variant 27 |
+| breakfast | 89 | 216 | 0 | 111 | 105 | curated 165, wikidata 51 | by rank | already listed 2, everyday word 7 |
+| bridge | 63 | 15384 | 33 | 7692 | 7659 | curated 41, wikidata 15343 | calibrated | unusable 21, already listed 51, everyday word 291, spelling variant 991 |
+| butterfly | 103 | 2128 | 21 | 1056 | 1051 | wikidata 2001 | by rank | already listed 81, everyday word 9, spelling variant 14 |
+| californiacity | 154 | 298 | 0 | 107 | 191 | wikidata 298 | calibrated | already listed 143, everyday word 19, spelling variant 2 |
+| candy | 98 | 470 | 6 | 222 | 242 | wikidata 470 | calibrated | everyday word 46, already listed 55, spelling variant 2 |
+| capital | 56 | 3 | 0 | 0 | 3 | wikidata 3 | calibrated | already listed 47 |
+| card | 100 | 1132 | 35 | 552 | 545 | curated 129, wikidata 1003 | by rank | unusable 10, everyday word 79, already listed 52, blocked 1, spelling variant 10, overlaps gem 1, category word 1 |
+| carmodel | 370 | 7890 | 0 | 3849 | 4041 | curated 239, wikidata 7651 | by rank | unusable 3, already listed 126, spelling variant 2670, everyday word 22 |
+| cartoon | 108 | 5884 | 30 | 2927 | 2927 | curated 61, wikidata 5823 | calibrated | unusable 5, already listed 60, everyday word 334, category word 2, spelling variant 136, blocked 3, overlaps gem 1 |
+| cattlebreed | 145 | 372 | 1 | 150 | 221 | wikidata 365 | calibrated | already listed 105, everyday word 6, spelling variant 4 |
+| cereal | 70 | 67 | 0 | 26 | 41 | curated 37, wikidata 30 | by rank | already listed 36, spelling variant 1, everyday word 4 |
+| chickenbreed | 113 | 237 | 0 | 88 | 149 | wikidata 228 | calibrated | already listed 75, everyday word 3, spelling variant 3 |
+| chili | 85 | 33 | 0 | 2 | 31 | wikidata 33 | by rank | already listed 23, spelling variant 1, everyday word 2 |
+| christmassong | 81 | 317 | 0 | 149 | 168 | curated 33, wikidata 284 | by rank | unusable 1, already listed 30, overlaps gem 1, everyday word 14, spelling variant 2 |
 | coffee | 58 | 217 | 1 | 101 | 115 | curated 94, wikidata 123 | by rank | already listed 36, overlaps gem 1, everyday word 13, spelling variant 1 |
+| composer | 106 | 2461 | 32 | 1210 | 1219 | curated 61, wikidata 2400 | by rank | blocked 5, already listed 2, spelling variant 3, everyday word 2 |
+| console | 86 | 1392 | 22 | 703 | 667 | curated 37, wikidata 1355 | calibrated | unusable 15, already listed 46, spelling variant 190, blocked 8, everyday word 28 |
+| constellation | 93 | 17 | 0 | 4 | 13 | curated 12, wikidata 5 | calibrated | already listed 85 |
+| cookie | 69 | 200 | 0 | 89 | 111 | curated 43, wikidata 157 | by rank | already listed 18, everyday word 5, spelling variant 2 |
+| country | 226 | 1 | 0 | 0 | 1 | wikidata 1 | calibrated | already listed 196 |
+| currency | 95 | 692 | 29 | 322 | 341 | curated 37, wikidata 655 | by rank | unusable 1, already listed 38, spelling variant 3, everyday word 4 |
+| dance | 95 | 2739 | 36 | 1354 | 1349 | curated 51, wikidata 2688 | by rank | unusable 1, already listed 71, everyday word 108, spelling variant 37 |
+| desert | 58 | 2075 | 12 | 1062 | 1001 | wikidata 2075 | calibrated | already listed 44, spelling variant 48, everyday word 9 |
+| dessert | 80 | 589 | 3 | 297 | 289 | wikidata 589 | calibrated | already listed 24, everyday word 8, blocked 1, category word 1, spelling variant 1 |
+| dicapriofilm | 34 | 8 | 0 | 0 | 8 | wikidata 8 | by rank | already listed 29 |
+| disney | 105 | 3 | 0 | 2 | 1 | curated 3 | — | — |
+| disneychar | 261 | 380 | 0 | 172 | 208 | wikidata 380 | calibrated | already listed 103, everyday word 51, spelling variant 5 |
+| dumpling | 57 | 108 | 0 | 39 | 69 | curated 22, wikidata 86 | calibrated | already listed 20 |
+| egyptgod | 103 | 129 | 0 | 34 | 95 | wikidata 129 | calibrated | already listed 73, spelling variant 7, everyday word 4 |
+| elvissong | 64 | 203 | 0 | 89 | 114 | wikidata 203 | calibrated | already listed 49, everyday word 9 |
+| europe | 69 | 1 | 0 | 0 | 1 | wikidata 1 | by rank | already listed 48 |
+| extinct | 79 | 459 | 0 | 229 | 230 | wikidata 459 | calibrated | already listed 18 |
+| f1driver | 141 | 903 | 5 | 447 | 451 | wikidata 903 | calibrated | already listed 115, everyday word 1 |
+| fairytale | 71 | 652 | 24 | 316 | 312 | curated 34, wikidata 618 | by rank | unusable 5, already listed 16, everyday word 19, category word 1, spelling variant 1 |
+| fashionbrand | 250 | 342 | 0 | 135 | 207 | curated 139, wikidata 203 | calibrated | unusable 2, already listed 24, everyday word 8, category word 2 |
+| fastfood | 80 | 615 | 20 | 297 | 298 | wikidata 615 | by rank | already listed 40, everyday word 10, spelling variant 6 |
+| floridacity | 130 | 149 | 0 | 49 | 100 | wikidata 149 | calibrated | already listed 104, everyday word 14 |
+| frenchcheese | 97 | 253 | 0 | 106 | 147 | wikidata 253 | calibrated | already listed 73, everyday word 3, spelling variant 4 |
+| grape | 132 | 1977 | 4 | 988 | 985 | wikidata 1977 | calibrated | already listed 109, spelling variant 58, everyday word 47 |
+| greekisland | 113 | 1106 | 1 | 562 | 543 | wikidata 1106 | calibrated | already listed 96, spelling variant 60 |
+| hanksfilm | 61 | 22 | 0 | 2 | 20 | wikidata 22 | calibrated | unusable 1, already listed 47 |
+| harrypotter | 124 | 444 | 9 | 198 | 237 | wikidata 444 | calibrated | already listed 86, everyday word 10, spelling variant 8 |
+| hat | 91 | 327 | 1 | 149 | 177 | curated 94, wikidata 233 | by rank | already listed 42, everyday word 15, blocked 1, spelling variant 7 |
+| hindugod | 101 | 262 | 0 | 108 | 154 | wikidata 262 | calibrated | already listed 64, spelling variant 10 |
+| hitchcockfilm | 51 | 14 | 0 | 1 | 13 | wikidata 14 | calibrated | already listed 48, everyday word 1 |
+| horse | 154 | 558 | 5 | 249 | 304 | wikidata 545 | calibrated | already listed 113, spelling variant 2, everyday word 6, blocked 1 |
+| houseplant | 74 | 40 | 0 | 19 | 21 | curated 40 | — | — |
+| icecream | 68 | 154 | 0 | 76 | 78 | curated 53, wikidata 101 | by rank | everyday word 9, already listed 23 |
+| indianfood | 74 | 277 | 1 | 127 | 149 | curated 260, wikidata 17 | by rank | already listed 9, spelling variant 2, everyday word 1 |
+| island | 95 | 13061 | 31 | 6519 | 6511 | curated 56, wikidata 13005 | by rank | already listed 68, everyday word 414, spelling variant 1210 |
+| islandnation | 53 | 9 | 0 | 0 | 9 | wikidata 9 | by rank | already listed 44 |
+| italianfood | 72 | 105 | 0 | 34 | 71 | curated 44, wikidata 61 | by rank | already listed 14, blocked 1, spelling variant 1, everyday word 3 |
+| italycity | 70 | 7175 | 17 | 3599 | 3559 | curated 38, wikidata 7137 | calibrated | already listed 67, overlaps gem 8, spelling variant 531, everyday word 42 |
+| japancity | 59 | 657 | 7 | 338 | 312 | curated 43, wikidata 614 | calibrated | already listed 47, spelling variant 43, everyday word 8 |
+| japanesefood | 69 | 103 | 0 | 32 | 71 | curated 49, wikidata 54 | by rank | already listed 16, everyday word 3 |
+| kingbook | 100 | 176 | 0 | 59 | 117 | wikidata 176 | calibrated | unusable 2, already listed 82, everyday word 8 |
+| lake | 75 | 14973 | 17 | 7501 | 7455 | curated 1, wikidata 14972 | calibrated | unusable 1, already listed 49, everyday word 310, spelling variant 1172 |
+| landlocked | 52 | 1 | 0 | 0 | 1 | wikidata 1 | by rank | already listed 39 |
+| landmark | 80 | 1108 | 36 | 544 | 528 | curated 40, wikidata 1068 | by rank | unusable 20, already listed 16, everyday word 15, spelling variant 1 |
+| madonnasong | 77 | 72 | 0 | 23 | 49 | wikidata 72 | calibrated | already listed 72, everyday word 11 |
+| mario | 89 | 21 | 0 | 7 | 14 | curated 21 | — | already listed 1 |
+| marvel | 230 | 730 | 0 | 321 | 409 | wikidata 730 | calibrated | already listed 112, everyday word 26, spelling variant 6 |
+| mexicanfood | 72 | 45 | 0 | 11 | 34 | curated 32, wikidata 13 | by rank | already listed 10, blocked 4, everyday word 1 |
+| mineral | 109 | 5588 | 2 | 2803 | 2783 | wikidata 5588 | calibrated | already listed 81, spelling variant 402, everyday word 4 |
+| mjsong | 65 | 83 | 0 | 23 | 60 | wikidata 83 | calibrated | already listed 60, everyday word 9, spelling variant 2 |
+| mountain | 87 | 25220 | 16 | 12621 | 12583 | curated 49, wikidata 25171 | calibrated | unusable 1, already listed 56, spelling variant 1652, everyday word 408, blocked 21 |
+| mushroom | 63 | 225 | 3 | 119 | 103 | curated 45, wikidata 180 | by rank | unusable 2, already listed 8, blocked 1316, everyday word 1, spelling variant 1 |
+| musical | 89 | 884 | 19 | 442 | 423 | wikidata 884 | calibrated | unusable 3, blocked 8, already listed 75, everyday word 44, spelling variant 12 |
+| nbaplayer | 148 | 3958 | 1 | 1971 | 1986 | wikidata 3958 | calibrated | already listed 94, spelling variant 36, everyday word 2 |
+| nintendogame | 114 | 802 | 10 | 395 | 397 | wikidata 802 | calibrated | already listed 82, spelling variant 58, everyday word 5 |
+| norsegod | 85 | 30 | 0 | 0 | 30 | wikidata 30 | by rank | unusable 1, already listed 37, spelling variant 1 |
+| nurseryrhyme | 71 | 160 | 0 | 64 | 96 | curated 29, wikidata 131 | calibrated | already listed 36 |
+| nut | 48 | 38 | 1 | 20 | 17 | curated 30, wikidata 8 | by rank | already listed 6, everyday word 1 |
+| organ | 72 | 7585 | 21 | 3805 | 3759 | wikidata 7585 | calibrated | unusable 389, already listed 41, everyday word 30, blocked 2, spelling variant 216 |
+| owl | 76 | 202 | 0 | 85 | 117 | wikidata 200 | calibrated | already listed 59, everyday word 1, category word 1, spelling variant 1 |
+| painter | 109 | 2811 | 15 | 1411 | 1385 | wikidata 2811 | calibrated | already listed 35, blocked 3, spelling variant 3 |
+| painting | 78 | 7724 | 42 | 3848 | 3834 | curated 48, wikidata 7676 | calibrated | unusable 253, already listed 61, everyday word 191, spelling variant 70 |
+| pasta | 68 | 91 | 0 | 27 | 64 | wikidata 91 | calibrated | already listed 46, spelling variant 4, everyday word 2 |
+| pixar | 58 | 0 | 0 | 0 | 0 | — | — | — |
+| pope | 133 | 51 | 0 | 10 | 41 | wikidata 51 | calibrated | already listed 122, spelling variant 94 |
+| primate | 65 | 628 | 9 | 320 | 299 | wikidata 625 | calibrated | already listed 27, blocked 1, spelling variant 11 |
+| queensong | 70 | 90 | 0 | 24 | 66 | wikidata 90 | calibrated | unusable 1, already listed 69, everyday word 7 |
+| rodent | 58 | 2401 | 47 | 1191 | 1163 | wikidata 2341 | by rank | already listed 25, spelling variant 15 |
+| romanemperor | 105 | 34 | 0 | 1 | 33 | curated 3, wikidata 31 | calibrated | already listed 68, spelling variant 2, everyday word 1 |
+| romangod | 108 | 451 | 6 | 203 | 242 | curated 78, wikidata 291, wikipedia 82 | calibrated | already listed 97, spelling variant 17, everyday word 8 |
+| salad | 63 | 190 | 0 | 94 | 96 | curated 41, wikidata 149 | by rank | already listed 31, spelling variant 1, everyday word 11 |
+| scotus | 91 | 42 | 0 | 10 | 32 | wikidata 42 | calibrated | already listed 69, spelling variant 6 |
+| shakespeare | 46 | 0 | 0 | 0 | 0 | — | — | — |
+| shark | 61 | 413 | 12 | 197 | 204 | wikidata 407 | calibrated | already listed 40, everyday word 8, spelling variant 5 |
+| shoe | 93 | 361 | 7 | 167 | 187 | curated 48, wikidata 313 | by rank | already listed 63, everyday word 21, spelling variant 19, blocked 4 |
+| simpsons | 106 | 289 | 0 | 124 | 165 | wikidata 289 | calibrated | unusable 1, already listed 67, blocked 16, everyday word 18, spelling variant 3 |
+| sitcom | 97 | 2783 | 34 | 1376 | 1373 | curated 281, wikidata 2502 | calibrated | unusable 2, already listed 68, everyday word 139, spelling variant 28 |
+| snake | 78 | 1610 | 30 | 803 | 777 | curated 44, wikidata 1554 | calibrated | already listed 38, spelling variant 31, everyday word 15 |
+| soccerclub | 197 | 5430 | 4 | 2687 | 2739 | wikidata 5430 | calibrated | unusable 2, already listed 129, everyday word 89, spelling variant 80, overlaps gem 1 |
+| socialapp | 81 | 287 | 6 | 124 | 157 | curated 65, wikidata 222 | calibrated | unusable 1, already listed 37, blocked 2, everyday word 9, spelling variant 2 |
+| soda | 77 | 242 | 0 | 107 | 135 | curated 46, wikidata 196 | calibrated | unusable 2, everyday word 15, already listed 41, spelling variant 3 |
+| soup | 74 | 486 | 12 | 232 | 242 | wikidata 486 | by rank | unusable 1, already listed 35, everyday word 26, spelling variant 2 |
+| spielbergfilm | 46 | 7 | 0 | 0 | 7 | wikidata 7 | by rank | unusable 10, already listed 27, everyday word 1 |
+| starwars | 116 | 604 | 21 | 279 | 304 | wikidata 604 | by rank | already listed 82, spelling variant 4, everyday word 7 |
+| stonessong | 82 | 142 | 0 | 48 | 94 | wikidata 142 | calibrated | already listed 74, everyday word 7 |
+| superhero | 103 | 1008 | 33 | 486 | 489 | curated 59, wikidata 949 | calibrated | already listed 66, spelling variant 10, everyday word 63, category word 1 |
+| superhero_villain | 107 | 1133 | 7 | 573 | 553 | wikidata 1133 | calibrated | already listed 82, blocked 2, everyday word 59, category word 1, spelling variant 10 |
+| swplanet | 82 | 613 | 5 | 306 | 302 | wikidata 613 | calibrated | already listed 65, everyday word 1, spelling variant 8 |
+| taylorswift | 239 | 30 | 0 | 2 | 28 | wikidata 30 | calibrated | unusable 1, already listed 209, everyday word 4 |
+| tea | 67 | 107 | 0 | 54 | 53 | curated 39, wikidata 68 | by rank | already listed 17, everyday word 5, spelling variant 2 |
+| tube | 200 | 92 | 0 | 30 | 62 | wikidata 92 | calibrated | already listed 193, spelling variant 5, everyday word 2 |
+| videogame | 122 | 17273 | 26 | 8620 | 8627 | curated 51, wikidata 17222 | calibrated | unusable 50, already listed 81, spelling variant 1501, everyday word 314, category word 2, overlaps gem 1 |
+| volcano | 73 | 2524 | 33 | 1261 | 1230 | curated 237, wikidata 2287 | calibrated | already listed 44, spelling variant 38, everyday word 35 |
+| waterfall | 55 | 10329 | 49 | 5151 | 5129 | curated 43, wikidata 10286 | by rank | unusable 4, already listed 42, spelling variant 923, everyday word 262, category word 1 |
+| whale | 55 | 81 | 1 | 33 | 47 | wikidata 80 | by rank | already listed 26, spelling variant 4, everyday word 2 |
+| worldcapital | 203 | 15 | 0 | 0 | 15 | wikidata 15 | calibrated | already listed 193 |
+| xmen | 79 | 56 | 0 | 15 | 41 | wikidata 56 | by rank | already listed 59, everyday word 6, spelling variant 1 |
+| terrier | 73 | 31 | 1 | 4 | 26 | wikidata 30 | calibrated | already listed 51, everyday word 1 |
+| hound | 100 | 112 | 3 | 22 | 87 | wikidata 104 | calibrated | already listed 72, spelling variant 1, everyday word 6 |
+| caribbean | 62 | 22 | 0 | 9 | 13 | curated 22 | — | — |
+| englishmonarch | 81 | 0 | 0 | 0 | 0 | — | — | — |
+| mcufilm | 56 | 1 | 0 | 0 | 1 | curated 1 | — | — |
+| mlbteam | 96 | 0 | 0 | 0 | 0 | — | — | — |
+| nationalpark | 63 | 4 | 0 | 2 | 2 | curated 4 | — | — |
+| nflteam | 124 | 0 | 0 | 0 | 0 | — | — | — |
+| premierleague | 78 | 0 | 0 | 0 | 0 | — | — | — |
+| president | 91 | 1 | 0 | 1 | 0 | curated 1 | — | — |
+| sea | 81 | 28 | 0 | 16 | 12 | curated 28 | — | — |
+| statecapital | 58 | 1 | 0 | 1 | 0 | curated 1 | — | — |
+| usstate | 51 | 0 | 0 | 0 | 0 | — | — | — |
+| wildcat | 48 | 31 | 0 | 19 | 12 | curated 31 | — | — |
+| bible | 95 | 0 | 0 | 0 | 0 | — | — | — |
+| bondfilm | 30 | 0 | 0 | 0 | 0 | — | — | — |
+| farmanimal | 71 | 0 | 0 | 0 | 0 | — | — | — |
+| firstlady | 58 | 0 | 0 | 0 | 0 | — | — | — |
+| nbateam | 97 | 0 | 0 | 0 | 0 | — | — | — |
+| nhlteam | 99 | 0 | 0 | 0 | 0 | — | — | — |
+| olympic | 94 | 0 | 0 | 0 | 0 | — | — | — |

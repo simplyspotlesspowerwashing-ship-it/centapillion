@@ -1,0 +1,2146 @@
+[
+[
+"Golden Eagle",
+110,
+[]
+],
+[
+"Peregrine Falcon",
+109,
+[]
+],
+[
+"Osprey",
+107,
+[]
+],
+[
+"Eurasian Sparrowhawk",
+107,
+[]
+],
+[
+"Common Kestrel",
+107,
+[]
+],
+[
+"Eurasian Goshawk",
+104,
+[]
+],
+[
+"black kite",
+102,
+[
+"Black Kite"
+]
+],
+[
+"Common Buzzard",
+100,
+[]
+],
+[
+"Bearded Vulture",
+97,
+[
+"lammergeier",
+"Lammergeyer"
+]
+],
+[
+"White-tailed Eagle",
+97,
+[]
+],
+[
+"Bald Eagle",
+93,
+[]
+],
+[
+"egyptian vulture",
+93,
+[
+"Egyptian Vulture"
+]
+],
+[
+"Griffon Vulture",
+90,
+[]
+],
+[
+"Eurasian Hobby",
+89,
+[
+"European Hobby",
+"Hobby"
+]
+],
+[
+"Secretarybird",
+87,
+[
+"Secretary Bird"
+]
+],
+[
+"Black Vulture",
+85,
+[
+"Cinereous Vulture",
+"Eurasian Black Vulture"
+]
+],
+[
+"Merlin",
+84,
+[]
+],
+[
+"red kite",
+84,
+[
+"Red Kite"
+]
+],
+[
+"Andean Condor",
+84,
+[]
+],
+[
+"Hen Harrier",
+84,
+[]
+],
+[
+"short-toed eagle",
+82,
+[
+"Short-toed Eagle",
+"Short-toed Snake-eagle",
+"Short-toed Snake Eagle"
+]
+],
+[
+"steppe eagle",
+82,
+[
+"Steppe Eagle"
+]
+],
+[
+"Western Marsh Harrier",
+82,
+[]
+],
+[
+"Eastern Imperial Eagle",
+78,
+[]
+],
+[
+"European Honey-buzzard",
+78,
+[
+"European Honey Buzzard",
+"Honey Buzzard",
+"honey buzzard, european honey buzzard"
+]
+],
+[
+"gyr falcon",
+77,
+[
+"Gyrfalcon",
+"Gyr Falcon"
+]
+],
+[
+"red-footed falcon",
+76,
+[
+"Red-footed Falcon",
+"Western Red-footed Falcon"
+]
+],
+[
+"booted eagle",
+75,
+[
+"Booted Eagle"
+]
+],
+[
+"lesser kestrel",
+75,
+[
+"Lesser Kestrel"
+]
+],
+[
+"Saker",
+74,
+[
+"Saker Falcon"
+]
+],
+[
+"Greater Spotted Eagle",
+72,
+[]
+],
+[
+"pallid harrier",
+72,
+[
+"Pallid Harrier"
+]
+],
+[
+"Philippine Eagle",
+71,
+[]
+],
+[
+"Montagu's Harrier",
+70,
+[]
+],
+[
+"American Harpy Eagle",
+70,
+[
+"Harpy Eagle"
+]
+],
+[
+"Rough-legged Buzzard",
+69,
+[]
+],
+[
+"Lesser Spotted Eagle",
+68,
+[]
+],
+[
+"King Vulture",
+66,
+[]
+],
+[
+"Long-legged Buzzard",
+65,
+[]
+],
+[
+"Bonelli’s eagle",
+65,
+[
+"Bonelli's Eagle"
+]
+],
+[
+"California Condor",
+62,
+[]
+],
+[
+"little banded goshawk",
+62,
+[
+"Shikra"
+]
+],
+[
+"Sea eagles",
+61,
+[]
+],
+[
+"Band-tailed Fish-eagle",
+59,
+[
+"pallas’s fish eagle",
+"Pallas’s fish-eagle",
+"Pallas's Fish-eagle",
+"Pallas's Fish Eagle",
+"Pallas’s Fish Eagle",
+"Pallas's Sea-Eagle"
+]
+],
+[
+"American Black Vulture",
+58,
+[
+"Black Vulture"
+]
+],
+[
+"Black-winged Kite",
+57,
+[]
+],
+[
+"Crested Serpent-eagle",
+57,
+[
+"Crested Serpent Eagle"
+]
+],
+[
+"Tawny Eagle",
+56,
+[]
+],
+[
+"Himalayan Griffon",
+56,
+[
+"Himalayan Vulture"
+]
+],
+[
+"Levant Sparrowhawk",
+55,
+[]
+],
+[
+"Steller's Sea-eagle",
+55,
+[
+"Steller's Sea Eagle",
+"Steller’s Sea Eagle",
+"Steller's Sea-Eagle"
+]
+],
+[
+"Brahminy Kite",
+55,
+[]
+],
+[
+"African Fish Eagle",
+54,
+[]
+],
+[
+"Turkey Vulture",
+53,
+[]
+],
+[
+"Asian White-backed Vulture",
+53,
+[
+"Oriental White-backed Vulture",
+"White-rumped Vulture"
+]
+],
+[
+"Lanner",
+53,
+[
+"Lanner Falcon"
+]
+],
+[
+"White-bellied Sea-eagle",
+52,
+[
+"White-bellied Sea Eagle"
+]
+],
+[
+"Indian Vulture",
+51,
+[]
+],
+[
+"Martial eagle",
+51,
+[
+"Martial Eagle"
+]
+],
+[
+"Eleonora's Falcon",
+50,
+[]
+],
+[
+"Red-headed Vulture",
+50,
+[]
+],
+[
+"Rüppell's Vulture",
+49,
+[]
+],
+[
+"Crested Honey Buzzard",
+49,
+[]
+],
+[
+"American Kestrel",
+49,
+[]
+],
+[
+"Black Eagle",
+49,
+[
+"Verreaux's Eagle"
+]
+],
+[
+"White-backed Vulture",
+48,
+[]
+],
+[
+"Adalbert's Eagle",
+46,
+[
+"Spanish Eagle",
+"Spanish Imperial Eagle"
+]
+],
+[
+"Bateleur",
+46,
+[]
+],
+[
+"Red-tailed Hawk",
+45,
+[]
+],
+[
+"Amur Falcon",
+45,
+[
+"Eastern Red-footed Falcon"
+]
+],
+[
+"Crested Caracara",
+44,
+[
+"Northern Crested Caracara"
+]
+],
+[
+"Wedge-tailed Eagle",
+44,
+[]
+],
+[
+"Lappet-faced Vulture",
+44,
+[]
+],
+[
+"Hooded Vulture",
+43,
+[]
+],
+[
+"Rufous-bellied eagle",
+43,
+[
+"Rufous-bellied Eagle",
+"Rufous-bellied Hawk-Eagle"
+]
+],
+[
+"Palm-nut Vulture",
+43,
+[]
+],
+[
+"White-headed Vulture",
+42,
+[]
+],
+[
+"Changeable Hawk-eagle",
+41,
+[
+"Changeable Hawk Eagle",
+"Changeable Hawk-Eagle",
+"Crested Hawk-Eagle"
+]
+],
+[
+"Mountain Hawk-eagle",
+41,
+[
+"Mountain Hawk-Eagle",
+"Moutain Hawk-Eagle"
+]
+],
+[
+"Harris's Hawk",
+41,
+[]
+],
+[
+"Black Baza",
+41,
+[]
+],
+[
+"Red-headed Falcon",
+41,
+[
+"Red-necked Falcon"
+]
+],
+[
+"Cape Griffon",
+41,
+[
+"Cape Vulture"
+]
+],
+[
+"Pied Harrier",
+41,
+[]
+],
+[
+"Grey-headed Fish Eagle",
+40,
+[]
+],
+[
+"Black-shouldered Kite",
+40,
+[]
+],
+[
+"Barbary Falcon",
+40,
+[]
+],
+[
+"Besra",
+39,
+[]
+],
+[
+"Long-crested Eagle",
+39,
+[]
+],
+[
+"Swallow-tailed Kite",
+39,
+[]
+],
+[
+"Bat hawk",
+39,
+[
+"Bat Hawk"
+]
+],
+[
+"Asian Baza",
+39,
+[
+"Jerdon's Baza",
+"Jerdon’s Baza"
+]
+],
+[
+"Collared Falconet",
+39,
+[]
+],
+[
+"New Zealand falcon",
+39,
+[
+"New Zealand Falcon"
+]
+],
+[
+"Indian Spotted Eagle",
+38,
+[]
+],
+[
+"Yellow-headed Caracara",
+38,
+[]
+],
+[
+"Crowned Eagle",
+38,
+[
+"Crowned hawk-eagle",
+"Crowned Hawk-Eagle"
+]
+],
+[
+"Lesser Fish Eagle",
+37,
+[]
+],
+[
+"Australasian Harrier",
+37,
+[
+"Swamp Harrier"
+]
+],
+[
+"Japanese Sparrowhawk",
+37,
+[]
+],
+[
+"Madagascan Fish Eagle",
+37,
+[
+"Madagascar Fish-eagle",
+"Madagascar Fish Eagle",
+"Madagascar Fish-Eagle"
+]
+],
+[
+"Javan Hawk-Eagle",
+37,
+[]
+],
+[
+"Crested Goshawk",
+37,
+[]
+],
+[
+"Snail Kite",
+37,
+[]
+],
+[
+"Mauritius Kestrel",
+37,
+[]
+],
+[
+"Laggar Falcon",
+37,
+[]
+],
+[
+"Lesser Yellow-headed Vulture",
+37,
+[]
+],
+[
+"Slender-billed vulture",
+37,
+[
+"Slender-billed Vulture"
+]
+],
+[
+"African Swallow-tailed Kite",
+36,
+[
+"Scissor-tailed Kite",
+"Swallow-tailed Kite"
+]
+],
+[
+"Chinese Sparrowhawk",
+36,
+[
+"Gray Frog-Hawk"
+]
+],
+[
+"Greater Yellow-headed Vulture",
+36,
+[]
+],
+[
+"Gabar Goshawk",
+36,
+[]
+],
+[
+"African Harrier-hawk",
+36,
+[
+"African Harrier-Hawk",
+"Gymnogene"
+]
+],
+[
+"Brown Snake Eagle",
+36,
+[]
+],
+[
+"Brown Falcon",
+36,
+[]
+],
+[
+"Crested Eagle",
+36,
+[
+"Guianan Crested Eagle"
+]
+],
+[
+"Upland Buzzard",
+36,
+[]
+],
+[
+"Pearl Kite",
+35,
+[]
+],
+[
+"Grey-faced Buzzard",
+35,
+[]
+],
+[
+"African Hawk-eagle",
+35,
+[
+"African Hawk Eagle",
+"African Hawk-Eagle"
+]
+],
+[
+"African Pygmy-falcon",
+35,
+[
+"Pygmy Falcon"
+]
+],
+[
+"Papuan Eagle",
+35,
+[]
+],
+[
+"Cooper's Hawk",
+35,
+[]
+],
+[
+"Wahlberg's Eagle",
+34,
+[]
+],
+[
+"Black-chested Snake Eagle",
+34,
+[]
+],
+[
+"Roadside Hawk",
+34,
+[]
+],
+[
+"Bicolored Hawk",
+34,
+[]
+],
+[
+"White-tailed Kite",
+34,
+[]
+],
+[
+"Greater Kestrel",
+34,
+[]
+],
+[
+"Oriental Hobby",
+34,
+[]
+],
+[
+"Galapagos Hawk",
+34,
+[
+"Galápagos Hawk"
+]
+],
+[
+"Dark Chanting-goshawk",
+34,
+[
+"Dark Chanting Goshawk",
+"Dark Chanting-Goshawk"
+]
+],
+[
+"Bat Falcon",
+34,
+[]
+],
+[
+"Laughing Falcon",
+34,
+[]
+],
+[
+"Fiji Goshawk",
+34,
+[]
+],
+[
+"Red-throated Caracara",
+33,
+[]
+],
+[
+"Brown Goshawk",
+33,
+[]
+],
+[
+"White-eyed Buzzard",
+33,
+[]
+],
+[
+"African Goshawk",
+33,
+[]
+],
+[
+"African hobby",
+33,
+[
+"African Hobby"
+]
+],
+[
+"Black Caracara",
+33,
+[]
+],
+[
+"Black-chested Buzzard-eagle",
+33,
+[
+"Black-chested Buzzard-Eagle"
+]
+],
+[
+"Pacific Baza",
+33,
+[]
+],
+[
+"Prairie Falcon",
+33,
+[]
+],
+[
+"Pale Chanting-goshawk",
+33,
+[
+"Pale Chanting Goshawk",
+"Pale Chanting-Goshawk"
+]
+],
+[
+"Red-shouldered Hawk",
+32,
+[]
+],
+[
+"Long-tailed Honey-buzzard",
+32,
+[
+"Long-tailed Honey Buzzard"
+]
+],
+[
+"Collared Sparrowhawk",
+32,
+[]
+],
+[
+"Gray-headed Kite",
+32,
+[
+"Grey-headed Kite"
+]
+],
+[
+"Lizard Buzzard",
+32,
+[]
+],
+[
+"Spot-tailed Goshawk",
+32,
+[
+"Spot-tailed Sparrowhawk"
+]
+],
+[
+"Little Sparrowhawk",
+32,
+[]
+],
+[
+"Blyth's Hawk-eagle",
+32,
+[
+"Blyth's Hawk-Eagle"
+]
+],
+[
+"African Cuckoo-hawk",
+32,
+[
+"African Cuckoo Hawk",
+"African Cuckoo-Hawk"
+]
+],
+[
+"Ornate Hawk-eagle",
+32,
+[
+"Ornate Hawk-Eagle"
+]
+],
+[
+"Seychelles Kestrel",
+32,
+[]
+],
+[
+"Australian hobby",
+32,
+[
+"Australian Hobby"
+]
+],
+[
+"Sooty Falcon",
+32,
+[]
+],
+[
+"Madagascar Kestrel",
+32,
+[
+"Malagasy Kestrel"
+]
+],
+[
+"Wallace's Hawk-eagle",
+32,
+[
+"Wallace's Hawk-Eagle"
+]
+],
+[
+"Swainson's Hawk",
+32,
+[]
+],
+[
+"Bornean Falconet",
+32,
+[
+"White-fronted Falconet"
+]
+],
+[
+"Forster's Caracara",
+32,
+[
+"Striated Caracara"
+]
+],
+[
+"Madagascan Serpent Eagle",
+32,
+[
+"Madagascar Serpent-eagle",
+"Madagascar Serpent Eagle",
+"Madagascar Serpent-Eagle"
+]
+],
+[
+"White Hawk",
+32,
+[]
+],
+[
+"Black-breasted buzzard",
+32,
+[
+"Black-breasted Buzzard"
+]
+],
+[
+"Frances's Goshawk",
+31,
+[
+"Frances's Sparrowhawk"
+]
+],
+[
+"White-collared Kite",
+31,
+[]
+],
+[
+"Black Sparrowhawk",
+31,
+[]
+],
+[
+"Pied Goshawk",
+31,
+[]
+],
+[
+"Eastern Marsh-harrier",
+31,
+[
+"Eastern Marsh Harrier"
+]
+],
+[
+"Tiny Hawk",
+31,
+[]
+],
+[
+"Ovambo Sparrowhawk",
+31,
+[]
+],
+[
+"Little Eagle",
+31,
+[]
+],
+[
+"Sharp-shinned Hawk",
+31,
+[]
+],
+[
+"Whistling Kite",
+31,
+[]
+],
+[
+"Fox Kestrel",
+31,
+[]
+],
+[
+"Andaman Serpent-eagle",
+31,
+[
+"Andaman Serpent Eagle",
+"Andaman Serpent-Eagle",
+"Dark Serpent-eagle"
+]
+],
+[
+"Australian Kestrel",
+31,
+[
+"Nankeen Kestrel"
+]
+],
+[
+"Hook-billed Kite",
+31,
+[]
+],
+[
+"Pied Falconet",
+31,
+[]
+],
+[
+"Western Banded Snake Eagle",
+31,
+[]
+],
+[
+"Grey Goshawk",
+31,
+[]
+],
+[
+"Madagascan Cuckoo-Hawk",
+30,
+[
+"Madagascar Baza",
+"Madagascar Cuckoo-hawk",
+"Madagascar Cuckoo Hawk",
+"Madagascar Cuckoo-Hawk"
+]
+],
+[
+"Ferruginous Hawk",
+30,
+[]
+],
+[
+"Crane Hawk",
+30,
+[]
+],
+[
+"Eastern Chanting-goshawk",
+30,
+[
+"Eastern Chanting Goshawk",
+"Eastern Chanting-Goshawk",
+"Pale Chanting Goshawk or Eastern Chanting-Goshawk"
+]
+],
+[
+"Chaco Eagle",
+30,
+[]
+],
+[
+"Black Hawk-eagle",
+30,
+[
+"Black Hawk-Eagle"
+]
+],
+[
+"Black-mantled Goshawk",
+30,
+[]
+],
+[
+"Red-breasted Sparrowhawk",
+30,
+[
+"Rufous-breasted Sparrowhawk"
+]
+],
+[
+"Madagascan Sparrowhawk",
+30,
+[
+"Madagascar Sparrowhawk"
+]
+],
+[
+"Grey-bellied Goshawk",
+30,
+[
+"Grey-bellied Hawk"
+]
+],
+[
+"Old World vultures",
+30,
+[]
+],
+[
+"Letter-winged Kite",
+30,
+[]
+],
+[
+"Madagascan Buzzard",
+30,
+[
+"Madagascar Buzzard"
+]
+],
+[
+"Black Falcon",
+30,
+[]
+],
+[
+"Madagascan Harrier-Hawk",
+30,
+[
+"Madagascar Gymnogene",
+"Madagascar Harrier-hawk",
+"Madagascar Harrier-Hawk"
+]
+],
+[
+"Kinabalu Serpent-eagle",
+30,
+[
+"Mountain Serpent Eagle",
+"Mountain Serpent-Eagle"
+]
+],
+[
+"Guadalupe Caracara",
+30,
+[]
+],
+[
+"Spot-winged Falconet",
+30,
+[]
+],
+[
+"Black-thighed Falconet",
+30,
+[]
+],
+[
+"Savanna Hawk",
+30,
+[]
+],
+[
+"Sulawesi Serpent-eagle",
+30,
+[
+"Sulawesi Serpent Eagle",
+"Sulawesi Serpent-Eagle"
+]
+],
+[
+"Forest Fish Eagle",
+30,
+[
+"Sanford's Fish-Eagle",
+"Sanford's Sea-eagle",
+"Sanford's Sea Eagle",
+"Solomon Fish-eagle"
+]
+],
+[
+"Great Nicobar Serpent-eagle",
+30,
+[
+"Great Nicobar Serpent Eagle"
+]
+],
+[
+"Moluccan Goshawk",
+29,
+[]
+],
+[
+"Henst's Goshawk",
+29,
+[]
+],
+[
+"Gundlach's Hawk",
+29,
+[]
+],
+[
+"Red-legged Sparrowhawk",
+29,
+[
+"Red-thighed Sparrowhawk",
+"Western Little Sparrowhawk"
+]
+],
+[
+"Sulawesi Goshawk",
+29,
+[]
+],
+[
+"Nicobar Shikra",
+29,
+[
+"Nicobar Sparrowhawk"
+]
+],
+[
+"Southern Banded Snake Eagle",
+29,
+[]
+],
+[
+"Black-and-white Hawk-eagle",
+29,
+[
+"Black-and-white Hawk-Eagle",
+"Black-and-White Hawk-Eagle"
+]
+],
+[
+"Ayres's Hawk-eagle",
+29,
+[
+"Ayres's Hawk Eagle",
+"Ayres's Hawk-Eagle"
+]
+],
+[
+"North Philippine Hawk-eagle",
+29,
+[
+"Philippine Hawk-Eagle"
+]
+],
+[
+"Common Black Hawk",
+29,
+[]
+],
+[
+"Vinous-breasted Sparrowhawk",
+29,
+[]
+],
+[
+"Grasshopper Buzzard",
+29,
+[]
+],
+[
+"Philippine Falconet",
+29,
+[]
+],
+[
+"Aplomado Falcon",
+29,
+[]
+],
+[
+"Spotted Kestrel",
+29,
+[]
+],
+[
+"Chimango Caracara",
+29,
+[]
+],
+[
+"Cinereous Harrier",
+29,
+[]
+],
+[
+"Spotted Harrier",
+29,
+[]
+],
+[
+"White-tailed Hawk",
+29,
+[]
+],
+[
+"Barred Forest-falcon",
+28,
+[
+"Barred Forest Falcon",
+"Barred Forest-Falcon"
+]
+],
+[
+"Black-and-chestnut Eagle",
+28,
+[
+"Isidor's Eagle"
+]
+],
+[
+"Sulawesi Hawk-eagle",
+28,
+[
+"Sulawesi Hawk-Eagle"
+]
+],
+[
+"Great Black Hawk",
+28,
+[]
+],
+[
+"Plumbeous Kite",
+28,
+[]
+],
+[
+"Jackal Buzzard",
+28,
+[]
+],
+[
+"Chestnut-flanked Sparrowhawk",
+28,
+[]
+],
+[
+"Meyer's Goshawk",
+28,
+[]
+],
+[
+"African Marsh Harrier",
+28,
+[]
+],
+[
+"Mountain Caracara",
+28,
+[]
+],
+[
+"Lined Forest-falcon",
+28,
+[
+"Lined Forest Falcon",
+"Lined Forest-Falcon"
+]
+],
+[
+"Orange-breasted Falcon",
+28,
+[]
+],
+[
+"Long-winged Harrier",
+28,
+[]
+],
+[
+"Grey Falcon",
+28,
+[]
+],
+[
+"Gurney's Eagle",
+28,
+[]
+],
+[
+"Augur Buzzard",
+28,
+[]
+],
+[
+"Cassin's Hawk-eagle",
+28,
+[
+"Cassin's Hawk Eagle",
+"Cassin's Hawk-Eagle"
+]
+],
+[
+"Barred Honey Buzzard",
+28,
+[
+"Sulawesi Honey-buzzard"
+]
+],
+[
+"Carunculated Caracara",
+28,
+[]
+],
+[
+"Philippine Serpent-eagle",
+27,
+[
+"Philippine Serpent Eagle"
+]
+],
+[
+"Taita Falcon",
+27,
+[]
+],
+[
+"Broad-winged Hawk",
+27,
+[]
+],
+[
+"Black Harrier",
+27,
+[]
+],
+[
+"Square-tailed Kite",
+27,
+[]
+],
+[
+"White-bellied Goshawk",
+27,
+[]
+],
+[
+"Imitator Goshawk",
+27,
+[]
+],
+[
+"Rufous-necked Sparrowhawk",
+27,
+[]
+],
+[
+"Semi-collared Hawk",
+27,
+[
+"Semicollared Hawk",
+"Semi-collared Sparrowhawk"
+]
+],
+[
+"Rufous-winged Buzzard",
+27,
+[
+"Rufous-winged Buzzard-eagle"
+]
+],
+[
+"Black-faced Hawk",
+27,
+[]
+],
+[
+"Mississippi Kite",
+27,
+[]
+],
+[
+"Red goshawk",
+27,
+[
+"Red Goshawk"
+]
+],
+[
+"Long-tailed Hawk",
+27,
+[]
+],
+[
+"Double-toothed Kite",
+27,
+[]
+],
+[
+"Plumbeous Hawk",
+27,
+[]
+],
+[
+"Black Solitary Eagle",
+27,
+[
+"Montane Solitary Eagle",
+"Solitary Eagle"
+]
+],
+[
+"Slate-colored Hawk",
+27,
+[
+"Slate-coloured Hawk"
+]
+],
+[
+"Hawaiian Hawk",
+27,
+[
+"ʻIo"
+]
+],
+[
+"New Britain Goshawk",
+27,
+[]
+],
+[
+"Dwarf Sparrowhawk",
+27,
+[]
+],
+[
+"Yellow-billed Kite",
+27,
+[]
+],
+[
+"Grey Kestrel",
+27,
+[]
+],
+[
+"Bismarcks Sparrowhawk",
+26,
+[
+"Grey Sparrowhawk",
+"New Britain Sparrowhawk"
+]
+],
+[
+"Grey-lined Hawk",
+26,
+[]
+],
+[
+"Malagasy Marsh Harrier",
+26,
+[
+"Reunion Harrier",
+"Réunion Harrier",
+"Reunion Marsh-harrier"
+]
+],
+[
+"Red-chested Goshawk",
+26,
+[]
+],
+[
+"White-rumped Falcon",
+26,
+[]
+],
+[
+"Slender-billed Kite",
+26,
+[]
+],
+[
+"Short-tailed Hawk",
+26,
+[]
+],
+[
+"Dickinson's Kestrel",
+26,
+[]
+],
+[
+"Zone-tailed Hawk",
+26,
+[]
+],
+[
+"White-necked Hawk",
+26,
+[]
+],
+[
+"Rufous-thighed Kite",
+26,
+[]
+],
+[
+"Slaty-backed Goshawk",
+25,
+[
+"Slaty-mantled Goshawk"
+]
+],
+[
+"White-throated Hawk",
+25,
+[]
+],
+[
+"Semiplumbeous Hawk",
+25,
+[]
+],
+[
+"Rufous Crab-hawk",
+25,
+[
+"Rufous Crab Hawk",
+"Rufous Crab-Hawk"
+]
+],
+[
+"Barred Hawk",
+25,
+[]
+],
+[
+"Beaudouin's Snake Eagle",
+25,
+[]
+],
+[
+"Hispaniolan Hawk",
+25,
+[
+"Ridgway's Hawk"
+]
+],
+[
+"Variable Hawk",
+25,
+[]
+],
+[
+"White-browed Hawk",
+25,
+[]
+],
+[
+"Congo Serpent Eagle",
+25,
+[]
+],
+[
+"White-rumped Hawk",
+25,
+[]
+],
+[
+"Grey-headed Goshawk",
+25,
+[]
+],
+[
+"Doria's Goshawk",
+25,
+[]
+],
+[
+"Collared Forest Falcon",
+25,
+[]
+],
+[
+"Black honey buzzard",
+24,
+[
+"Black Honey-buzzard",
+"Black Honey Buzzard",
+"New Britain Honey-buzzard"
+]
+],
+[
+"Red-necked Buzzard",
+24,
+[]
+],
+[
+"Elanid kite",
+24,
+[]
+],
+[
+"Gray-backed Hawk",
+24,
+[
+"Grey-backed Hawk"
+]
+],
+[
+"Northern Harrier",
+24,
+[]
+],
+[
+"Banded Kestrel",
+24,
+[]
+],
+[
+"Plumbeous Forest-falcon",
+24,
+[
+"Plumbeous Forest Falcon",
+"Plumbeous Forest-Falcon"
+]
+],
+[
+"White-throated Caracara",
+24,
+[]
+],
+[
+"Flores Hawk-eagle",
+23,
+[
+"Flores Hawk-Eagle"
+]
+],
+[
+"Mantled Hawk",
+23,
+[]
+],
+[
+"New Guinea Hawk-eagle",
+23,
+[
+"Pygmy Eagle"
+]
+],
+[
+"Bürger's Sparrowhawk",
+23,
+[
+"Chestnut-mantled Goshawk",
+"Chestnut-shouldered Goshawk",
+"Chestnut-shouldered Hawk"
+]
+],
+[
+"Slaty-backed Forest-falcon",
+23,
+[
+"Slaty-backed Forest Falcon",
+"Slaty-backed Forest-Falcon"
+]
+],
+[
+"Mountain Buzzard",
+23,
+[]
+],
+[
+"Cryptic Forest-falcon",
+22,
+[
+"Cryptic Forest Falcon",
+"Cryptic Forest-Falcon"
+]
+],
+[
+"Chilean Hawk",
+22,
+[]
+],
+[
+"Eastern Buzzard",
+22,
+[
+"Japanese Buzzard"
+]
+],
+[
+"Buckley's Forest-falcon",
+22,
+[
+"Buckley's Forest Falcon",
+"Buckley's Forest-Falcon",
+"Lesser Collared Forest-falcon",
+"Traylor's Forest-falcon"
+]
+],
+[
+"Rufous-tailed Hawk",
+22,
+[]
+],
+[
+"Cuban black hawk",
+22,
+[
+"Cuban Black Hawk",
+"Cuban Black-Hawk"
+]
+],
+[
+"ospreys",
+22,
+[]
+],
+[
+"Rock Kestrel",
+22,
+[]
+],
+[
+"Legge's Hawk-Eagle",
+21,
+[]
+],
+[
+"Himalayan Buzzard",
+21,
+[]
+],
+[
+"Rufous-thighed Hawk",
+21,
+[]
+],
+[
+"Variable Goshawk",
+20,
+[]
+],
+[
+"Plain-breasted Hawk",
+20,
+[]
+],
+[
+"Archer's Buzzard",
+19,
+[]
+],
+[
+"Cuban hookbilled kite",
+19,
+[
+"Cuban Kite"
+]
+],
+[
+"Madagascar harrier",
+19,
+[
+"Madagascar Marsh-harrier",
+"Malagasy Harrier"
+]
+],
+[
+"White-breasted Hawk",
+19,
+[]
+],
+[
+"Reunion Kestrel",
+18,
+[
+"Réunion Kestrel"
+]
+],
+[
+"Gray Hawk",
+18,
+[
+"Grey Hawk"
+]
+],
+[
+"Mindanao Hawk-eagle",
+18,
+[
+"Pinsker's Hawk-Eagle",
+"South Philippine Hawk-eagle"
+]
+],
+[
+"Socotra buzzard",
+18,
+[
+"Socotra Buzzard"
+]
+],
+[
+"Forest Buzzard",
+18,
+[]
+],
+[
+"Cape Verde Buzzard",
+17,
+[]
+],
+[
+"Papuan Harrier",
+17,
+[]
+],
+[
+"Philippine Honey-buzzard",
+15,
+[
+"Philippine Honey Buzzard"
+]
+],
+[
+"Eastern Osprey",
+15,
+[]
+],
+[
+"American Goshawk",
+14,
+[]
+],
+[
+"Shaheen Falcon",
+14,
+[]
+],
+[
+"Bermuda Hawk",
+10,
+[]
+],
+[
+"Lesser Sundas Goshawk",
+8,
+[]
+],
+[
+"Black-collared Hawk",
+6,
+[]
+],
+[
+"red-capped peregrine",
+4,
+[]
+],
+[
+"Puerto Rican Sharp-shinned Hawk",
+3,
+[]
+],
+[
+"Tasmanian Wedge-tailed Eagle",
+3,
+[]
+],
+[
+"Crowned eagle",
+2,
+[]
+],
+[
+"Harlan's Hawk",
+2,
+[]
+],
+[
+"Secretary-bird",
+1,
+[]
+],
+[
+"greater spotted eagle",
+1,
+[]
+],
+[
+"Javan hawk-eagle",
+1,
+[]
+],
+[
+"Loo Choo Serpent-Eagle",
+1,
+[]
+],
+[
+"Pariah Kite",
+1,
+[
+"Small Indian Kite"
+]
+],
+[
+"Changeable Hawk-Eagle",
+1,
+[]
+],
+[
+"Fielden's Falconet",
+0,
+[
+"White-rumped Falcon",
+"White-rumped Falconet",
+"White-rumped Pygmy-falcon"
+]
+],
+[
+"Congo Serpent-eagle",
+0,
+[
+"Congo Serpent Eagle",
+"Congo Serpent-Eagle"
+]
+],
+[
+"Indian spotted eagle",
+0,
+[]
+],
+[
+"Puna Hawk",
+0,
+[]
+],
+[
+"lesser spotted eagle",
+0,
+[
+"Lesser spotted eagle"
+]
+],
+[
+"White-necked hawk",
+0,
+[]
+],
+[
+"Wallaceís hawk-eagle",
+0,
+[]
+],
+[
+"Gabar goshawk",
+0,
+[]
+],
+[
+"Philippine hawk-eagle",
+0,
+[]
+],
+[
+"Flores hawk-eagle",
+0,
+[]
+],
+[
+"Grey-backed hawk",
+0,
+[]
+],
+[
+"bonelli’s eagle",
+0,
+[]
+],
+[
+"Wahlberg’s eagle",
+0,
+[]
+]
+]

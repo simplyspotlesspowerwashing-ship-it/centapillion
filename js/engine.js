@@ -231,6 +231,8 @@
       a.aliases.forEach(function (n) {
         var norm = normalize(n);
         var core = stripGeneric(norm, g);
+        // Species and breed prompts: "Eagle Owl" must not count as plain "eagle", nor "Bull Terrier" as "bull".
+        if (prompt.strictcore && core && core !== norm.replace(/ /g, "") && isCommon(stripTokens(norm, g))) core = null;
         // "Beer Soup" may be typed as "beer soup", not as just "beer".
         if (a.extra && core !== norm.replace(/ /g, "") && isCommon(stripTokens(norm, g))) core = null;
         var sk = sortedKey(norm);
@@ -404,7 +406,7 @@
       return a;
     };
     for (var cut = 1; cut <= Math.min(2, words.length - 1); cut++) {
-      var a = tryKey(words.slice(cut)) || tryKey(words.slice(0, words.length - cut));
+      var a = tryKey(words.slice(cut)) || (cut === 1 ? tryKey(words.slice(0, words.length - 1)) : null);
       if (a && !(a.extra && isCommon(words.slice(cut).join(" ")))) return { answer: a, sure: true };
     }
     // one word missing from the middle of a multi-word answer
@@ -431,6 +433,11 @@
       if (found.indexOf(hit.id) !== -1) return { status: "duplicate", answer: hit };
       return { status: "accepted", answer: hit };
     }
+    var part = partial(prompt, text);
+    if (part && part.sure) {
+      if (found.indexOf(part.answer.id) !== -1) return { status: "duplicate", answer: part.answer };
+      return { status: "accepted", answer: part.answer, corrected: true };
+    }
     var near = nearest(prompt, text);
     if (near) {
       var a = near.answer;
@@ -438,7 +445,6 @@
       if (force || near.sure) return { status: "accepted", answer: a, corrected: true };
       return { status: "correction", answer: a, to: a.name };
     }
-    var part = partial(prompt, text);
     if (part) {
       if (found.indexOf(part.answer.id) !== -1) return { status: "duplicate", answer: part.answer };
       if (force || part.sure) return { status: "accepted", answer: part.answer, corrected: true };

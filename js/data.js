@@ -70,14 +70,6 @@
       d: "Tug of War|Lacrosse|Cricket|Polo|Croquet|Roque|Jeu de Paume|Pelota|Motorboating|Rackets|Live Pigeon Shooting|Rope Climbing|Solo Synchronized Swimming|Plunge for Distance|Skijoring|Bandy|Military Patrol",
       k: "Art Competitions=painting::Medals were awarded for painting and poetry until 1948." } },
 
-    { id: "bird", q: "Name a bird", t: {
-      p: "Eagle|Robin|Pigeon|Crow|Penguin|Owl|Parrot|Chicken",
-      c: "Dodo|Kakapo|Blue-Footed Booby=blue footed booby=booby",
-      s: "Sparrow|Hawk|Duck|Swan|Flamingo|Ostrich|Peacock=peafowl|Hummingbird|Seagull=gull|Pelican|Blue Jay|Cardinal|Woodpecker|Falcon|Vulture|Goose|Turkey|Toucan|Crane|Stork|Heron|Emu|Kiwi|Canary|Raven|Parakeet|Finch|Dove|Magpie|Bald Eagle|Jay|Swift",
-      r: "Albatross|Puffin|Kingfisher|Cockatoo|Macaw|Condor|Osprey|Swallow|Starling|Wren|Warbler|Nightingale|Lark|Oriole|Egret|Ibis|Cormorant|Kestrel|Quail|Pheasant|Grouse|Sandpiper|Loon|Mockingbird|Roadrunner|Cassowary|Kookaburra|Hornbill|Budgie=budgerigar|Lovebird|Chickadee|Bluebird|Nuthatch|Mallard|Grebe",
-      d: "Shoebill|Hoatzin|Potoo|Frigatebird|Secretary Bird|Lyrebird|Bowerbird|Quetzal|Oilbird|Kea|Takahe|Sunbittern|Wrybill|Hammerkop|Jacana|Tragopan|Bee-Eater=bee eater|Oxpecker|Babbler|Dipper|Treecreeper|Godwit|Turnstone|Weka",
-      k: "Satin Bowerbird::Decorates its nest with anything blue it can find." } },
-
     { id: "bone", q: "Name a bone in the human body", t: {
       p: "Femur|Skull|Rib=ribs|Spine",
       c: "Stapes=stirrup",
@@ -142,14 +134,6 @@
       d: "Twixt|Hive|Tak|Hnefatafl|Senet|Royal Game of Ur=game of ur|Nine Men's Morris=nine mens morris|Fanorona|Pente|Blokus|Brass|Root|Spirit Island|Through the Ages|Le Havre|Tigris and Euphrates|Acquire|Survive|Fireball Island|Heroquest|Dark Tower|Crokinole|Carrom|Pachisi",
       k: "The Landlord's Game::The 1904 game Monopoly was copied from, meant as a warning about landlords." } },
 
-    { id: "insect", q: "Name an insect", t: {
-      p: "Ant|Bee|Butterfly|Fly|Mosquito|Ladybug=ladybird",
-      c: "Praying Mantis=mantis|Stick Insect=walking stick",
-      s: "Beetle|Grasshopper|Cricket|Dragonfly|Moth|Cockroach=roach|Wasp|Termite|Firefly=lightning bug|Flea|Hornet|Bumblebee|Cicada|Louse=lice|Gnat|Aphid|Earwig|Locust|Bed Bug=bedbug|Weevil|Yellowjacket",
-      r: "Katydid|Silverfish|Damselfly|Mayfly|Lacewing|Stink Bug|Leafhopper|Water Strider|Dung Beetle|Stag Beetle|Scarab|Horsefly|Hoverfly|Midge|Thrip=thrips|Caddisfly|Firebrat|Mealybug|Boxelder Bug|Cochineal|Junebug=june bug|Antlion|Assassin Bug|Whitefly",
-      d: "Hercules Beetle|Goliath Beetle|Bombardier Beetle|Titan Beetle|Atlas Moth|Luna Moth|Orchid Mantis|Jewel Wasp|Tarantula Hawk|Velvet Ant|Treehopper|Snakefly|Scorpionfly|Dobsonfly|Stonefly|Webspinner|Bristletail|Zorapteran|Giant Weta=weta|Botfly|Tsetse Fly|Lantern Fly=lanternfly",
-      k: "Lord Howe Island Stick Insect=tree lobster::Thought extinct for 80 years, then found on a single sea stack." } },
-
     { id: "dinosaur", q: "Name a dinosaur", t: {
       p: "T. Rex=t rex=trex=tyrannosaurus=tyrannosaurus rex|Triceratops|Velociraptor=raptor|Stegosaurus|Brachiosaurus",
       c: "Pterodactyl=pteranodon|Brontosaurus",
@@ -165,14 +149,6 @@
       r: "Star Anise|Anise|Fenugreek|Sumac|Za'atar=zaatar|Marjoram|Lemongrass|Caraway|Mace|Juniper|Sorrel|Lovage|Chervil|Savory|Celery Seed|Garam Masala|Five Spice|Herbes de Provence|Sesame|Poppy Seed|Smoked Paprika|Wasabi|Horseradish|Kaffir Lime=makrut lime|Galangal|Epazote|Annatto=achiote|Shiso",
       d: "Grains of Paradise|Long Pepper|Sichuan Pepper=szechuan pepper|Nigella=kalonji|Ajwain|Mahlab|Amchur|Black Lime=loomi|Sansho|Grains of Selim|Hyssop|Rue|Woodruff|Costmary|Perilla|Culantro|Rau Ram|Angelica|Sweet Cicely|Borage|Tonka Bean|Kokum",
       k: "Cubeb=tailed pepper::A peppery berry with a little tail, once more prized than black pepper." } },
-
-    { id: "tree", q: "Name a type of tree", t: {
-      p: "Oak|Pine|Maple|Palm|Apple Tree",
-      c: "Baobab|Redwood|Sequoia",
-      s: "Birch|Willow|Elm|Cedar|Spruce|Fir|Ash|Cherry Tree=cherry|Magnolia|Cypress|Aspen|Poplar|Beech|Sycamore|Dogwood|Walnut|Hickory|Chestnut|Eucalyptus|Christmas Tree|Weeping Willow|Bonsai|Olive Tree|Banyan|Mahogany",
-      r: "Juniper|Hemlock|Larch|Alder|Hawthorn|Linden=lime tree|Yew|Teak|Ebony|Acacia|Jacaranda|Ginkgo|Catalpa|Locust|Mulberry|Sassafras|Tamarack|Rowan=mountain ash|Hazel|Hornbeam|Buckeye|Horse Chestnut|Tulip Tree|Sweetgum|Mangrove|Joshua Tree|Cottonwood|Persimmon",
-      d: "Dragon Blood Tree=dragon tree|Bristlecone Pine|Wollemi Pine|Monkey Puzzle|Sandbox Tree|Ombu|Kapok|Bunya|Kauri|Rainbow Eucalyptus|Quaking Aspen|Paulownia|Ironwood|Lignum Vitae|Manchineel|Upas|Tupelo|Osage Orange|Hophornbeam|Pawpaw",
-      k: "Pando::A single aspen with 47,000 trunks sharing one root system in Utah." } },
 
     { id: "painter", q: "Name a famous painter", t: {
       p: "Picasso=pablo picasso|Van Gogh=vincent van gogh|Leonardo da Vinci=da vinci=leonardo|Monet=claude monet|Michelangelo",
@@ -198,14 +174,6 @@
       d: "Home on the Range|Dinosaur|Saludos Amigos|The Three Caballeros=three caballeros|Make Mine Music|Fun and Fancy Free|Melody Time|The Adventures of Ichabod and Mr. Toad=ichabod and mr toad|The Many Adventures of Winnie the Pooh|Winnie the Pooh|The Rescuers Down Under=rescuers down under|The Good Dinosaur=good dinosaur|Lightyear",
       k: "Victory Through Air Power::A 1943 Disney film arguing for long-range bombing." } },
 
-    { id: "fish", q: "Name a fish", t: {
-      p: "Salmon|Tuna|Cod|Tilapia|Trout",
-      c: "Fugu=pufferfish|Surströmming=surstromming",
-      s: "Halibut|Catfish|Bass=sea bass|Mackerel|Sardine|Anchovy|Haddock|Swordfish|Mahi-Mahi=mahi mahi=dorado|Snapper=red snapper|Flounder|Herring|Perch|Pollock|Sole|Grouper|Carp|Eel|Pike|Sturgeon|Walleye",
-      r: "Branzino|Monkfish|Turbot|Skate|Barramundi|Sablefish=black cod|Arctic Char|Bluefish|Whiting|Hake|Pompano|Wahoo|Amberjack|Yellowtail=hamachi|Orange Roughy|Chilean Sea Bass=patagonian toothfish|Shad|Smelt|Bream|Dory=john dory|Mullet|Kingfish|Snook|Crappie|Bluegill|Sprat|Cobia|Tilefish|Butterfish|Lingcod",
-      d: "Opah|Escolar|Hapuku|Lionfish|Wolffish|Lamprey|Gar|Burbot|Bombay Duck|Hilsa|Milkfish|Pomfret|Arapaima|Tautog|Scup|Sheepshead|Triggerfish|Barracuda|Parrotfish|Ayu|Ikan Bilis|Cisco|Vendace",
-      k: "Hákarl=fermented shark::Icelandic shark, cured for months. Famously smells of ammonia." } },
-
     { id: "flower", q: "Name a flower", t: {
       p: "Rose|Tulip|Daisy|Sunflower|Lily|Orchid",
       c: "Corpse Flower=rafflesia=titan arum|Venus Flytrap",
@@ -229,14 +197,6 @@
       r: "Adriatic Sea|Aegean Sea|Ionian Sea|Tyrrhenian Sea|Tasman Sea|Yellow Sea|East China Sea|Philippine Sea|Barents Sea|Norwegian Sea|Irish Sea|Celtic Sea|Labrador Sea|Ross Sea|Weddell Sea|Sea of Okhotsk|Sea of Marmara|Aral Sea|Salton Sea|Java Sea|Andaman Sea|Sulu Sea|Kara Sea|Beaufort Sea|Greenland Sea|White Sea",
       d: "Sea of Azov|Ligurian Sea|Alboran Sea|Balearic Sea|Wadden Sea|Laptev Sea|East Siberian Sea|Chukchi Sea|Lincoln Sea|Bismarck Sea|Solomon Sea|Arafura Sea|Timor Sea|Banda Sea|Celebes Sea|Molucca Sea|Flores Sea|Savu Sea|Bellingshausen Sea|Amundsen Sea|Scotia Sea|Irminger Sea|Seto Inland Sea|Libyan Sea|Levantine Sea|Cretan Sea|Myrtoan Sea",
       k: "Sargasso Sea::The only sea with no coastline at all." } },
-
-    { id: "unit", q: "Name a unit of measurement", t: {
-      p: "Inch|Foot=feet|Meter=metre|Mile|Pound|Kilogram=kilo|Centimeter=centimetre",
-      c: "Furlong|Smoot",
-      s: "Gallon|Liter=litre|Ounce|Yard|Kilometer=kilometre|Millimeter=millimetre|Gram|Second|Minute|Hour|Ton=tonne|Pint|Quart|Cup|Teaspoon|Tablespoon|Degree|Celsius|Fahrenheit|Kelvin|Acre|Watt|Volt|Calorie|Mph=miles per hour|Byte",
-      r: "Ampere=amp|Joule|Newton|Pascal|Hertz|Ohm|Mole|Candela|Lumen|Decibel|Hectare|Light Year=lightyear|Parsec|Astronomical Unit=au|Nautical Mile|Knot|Fathom|League|Stone|Carat|Grain|Bushel|Peck|Horsepower|Btu|Psi|Angstrom|Micron|Rod|Chain|Hand|Cubit|Barrel|Gill",
-      d: "Coulomb|Farad|Henry|Weber|Tesla|Siemens|Becquerel|Gray|Sievert|Katal|Steradian|Radian|Dram|Scruple|Pennyweight|Hogshead|Firkin|Kilderkin|Butt|Tun|Perch|Pole|Ell|Span|Barn|Shake|Jiffy|Planck Length|Dalton|Erg|Dyne|Poise|Gauss|Oersted|Maxwell|Torr|Roentgen",
-      k: "Beard-Second::How far a beard grows in one second: about 5 nanometres." } },
 
     { id: "superhero", q: "Name a superhero", t: {
       p: "Superman|Batman|Spider-Man=spiderman|Wonder Woman|Iron Man",
@@ -269,14 +229,6 @@
       r: "Paso Doble|Quickstep|Mambo|Lindy Hop|Jive|Krumping|Popping|Locking|Voguing=vogue|Clogging|Bolero|Lambada|Kizomba|Bhangra|Bharatanatyam|Kathak|Capoeira|Haka|Can-Can=can can|Shuffle|Electric Slide|Cumbia|Reggaeton|Pole Dance|Two-Step=two step|West Coast Swing|Boogaloo",
       d: "Butoh|Kabuki|Odissi|Kuchipudi|Mohiniyattam|Morris Dance|Sword Dance|Tarantella|Hora|Kolo|Sirtaki|Fandango|Jota|Sardana|Mazurka|Polonaise|Gavotte|Minuet|Pavane|Galliard|Saltarello|Schuhplattler|Hopak|Kecak|Tinikling|Bon Odori|Lezginka|Dabke",
       k: "Dance of the Seven Veils::Salome's dance, made famous by Richard Strauss's opera." } },
-
-    { id: "kitchen", q: "Name a kitchen utensil", t: {
-      p: "Spoon|Fork|Knife|Spatula|Whisk",
-      c: "Spork|Mandoline",
-      s: "Ladle|Tongs|Peeler|Grater|Rolling Pin|Can Opener|Colander|Measuring Cup|Cutting Board|Strainer|Corkscrew|Pizza Cutter|Garlic Press|Potato Masher=masher|Scissors=kitchen shears|Chopsticks|Skewer|Funnel|Sieve|Bottle Opener|Ice Cream Scoop=scoop|Thermometer|Timer",
-      r: "Zester|Microplane|Mortar and Pestle=mortar|Pastry Brush|Baster|Melon Baller|Apple Corer=corer|Egg Separator|Nutcracker|Rasp|Slotted Spoon|Spider|Fish Slice|Bench Scraper|Dough Scraper|Pastry Cutter|Cleaver|Paring Knife|Mezzaluna|Cookie Cutter|Piping Bag|Salad Spinner|Meat Tenderizer=mallet|Kitchen Torch|Butter Knife",
-      d: "Chinois|Tamis|Mouli|Food Mill|Ricer|Kitchen Syringe|Larding Needle|Trussing Needle|Pie Bird|Bannetons|Lame|Dredger|Muddler|Jigger|Bain-Marie|Couscoussier|Tortilla Press|Spaetzle Maker|Pasta Rake|Oyster Knife|Channel Knife|Cherry Pitter|Pomegranate Tool",
-      k: "Spurtle::A Scottish wooden stick made only for stirring porridge." } },
 
     { id: "nut", q: "Name a nut", t: {
       p: "Peanut|Almond|Cashew|Walnut|Pecan",

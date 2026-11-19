@@ -1,0 +1,4 @@
+Halite=rock salt
+Pyrite=fool's gold
+Hematite=haematite
+Sulfur=sulphur
